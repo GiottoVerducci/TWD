@@ -3,12 +3,12 @@ The V:TES tournament winning decks
 
 If you want to contribute, create pull requests with the changes. Be sure to add the URL of the source of the TWD (usually vekn.net) in each entry.
 
-To add a TWD, you must insert a line such at this one at the right place (located near the top of the file)
+To add a TWD, you must insert a line such at this one at the right place (located near the top of the file). There is one section per year.
 
 <pre>
-&lt;a href=#2016cavvb&gt;Ravel Zorzal's Conservative Agitation: Vila Velha, Brazil October 2016&lt;/a&gt;&lt;br&gt;
-         --------- ------------   #------------#--------  #----#----  #----- ------------
-            alias      winner name    tournament name        city    country  month and year
+&lt;a href=#8470&gt;Ravel Zorzal's Conservative Agitation: Vila Velha, Brazil October 2016&lt;/a&gt;&lt;br&gt;
+         ---- ------------   #------------#--------  #----#----  #----- ------------
+        alias  winner name      tournament name        city     country  month and year
 </pre>
 The alias is the id of the event in the event calendar.
 

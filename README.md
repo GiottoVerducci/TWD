@@ -9,11 +9,13 @@ To add a TWD, you must insert a line such at this one at the right place (locate
          --------- ------------   #------------#--------  #----#----  #----- ------------
             alias      winner name    tournament name        city    country  month and year
 
-The alias is built with the year and the first letter of the tournament name and city / country, marked with # in the example above.
+The alias is the id of the event in the event calendar.
+
+(Previously, it was built with the year and the first letter of the tournament name and city / country, marked with # in the example above, which would give: 2016cavvb)
 
 Then you must insert at the right place the tournament entry itself (located after the entries above):
 
-<a id=2016cavvb href=#>Top</a>
+<a id=8470 href=#>Top</a>
 <hr><pre>
 Conservative Agitation
 Vila Velha, Brazil

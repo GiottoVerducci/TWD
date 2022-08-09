@@ -1,0 +1,58 @@
+Mind Rape
+Montreal, Quebec
+July 1st 2006
+19 players
+Hugues Bertrand
+
+Ventrue Power II
+
+This is a deck that I have been working on for a few years now...
+I've played many version of it but I like this one... It obviously
+revolves around Arika and Marcus, the freak drives make-up for the
+size of the vamps and don't be shy to use the governs for bloat or
+to bring-up the support cast.
+
+Crypt (12 cards, min=31, max=44, avg=9.67)
+------------------------------------------
+5x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+1x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+1x Katarina Kornfeld	8   DOM FOR PRE ani		primogen	Ventrue:3
+1x Victorine Lafourcade	8   DOM FOR PRE tha		prince		Ventrue:3
+1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+
+Library (90 cards)
+Master (12)
+2x Golconda: Inner Peace
+2x Information Highway
+4x Minion Tap
+4x Zillah's Valley
+
+Action (10)
+2x Enchant Kindred
+6x Govern the Unaligned
+2x Scouting Mission
+
+Political Action (16)
+2x Anarchist Uprising
+2x Ancilla Empowerment
+2x Banishment
+7x Kine Resources Contested
+3x Protect Thine Own
+
+Action Modifier (35)
+5x Awe
+3x Cloak the Gathering
+3x Elder Impersonation
+3x Forgotten Labyrinth
+10x Freak Drive
+3x Lost in Crowds
+2x Seduction
+6x Voter Captivation
+
+Reaction (5)
+5x Deflection
+
+Combat (12)
+6x Majesty
+6x Rolling with the Punches

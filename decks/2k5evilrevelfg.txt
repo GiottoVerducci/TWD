@@ -1,0 +1,64 @@
+Evil Revelation
+Frankfurt, Germany
+September 4th 2005
+3R+F
+12 players
+Erol Hammer
+
+Deck Name: All Malkavians are belong to us...
+
+Crypt (12 cards, min=28, max=43, avg=9.08)
+------------------------------------------
+4x Lucian			10  AUS DOM OBF cel tha	 justicar	Malkavian:1
+3x Leandro			11  AUS OBF PRE cel dom	 inner circle	Malkavian:2
+2x Mariel, Lady Thunder		7   DOM OBF aus tha	 		Malkavian:1
+1x Anatole, Prophet of Gehenna	8   AUS DEM OBF dom for	 		Malkavian:2
+1x Gilbert Duane		7   AUS DOM OBF		 prince		Malkavian:1
+1x Greger Anderssen		7   AUS OBF dom pro	 prince		Malkavian:2
+
+Library (90 cards)
+Master (32)
+1x Antediluvian Awakening
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Emergency Preparations
+1x Fortitude
+1x Golconda: Inner Peace
+1x Heidelberg Castle, Germany
+2x Information Highway
+8x Malkavian Dementia
+5x Minion Tap
+4x Parthenon, The
+1x Pentex(TM) Subversion
+4x Social Ladder
+1x Sudden Reversal
+
+Action (11)
+11x Derange
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Political Action (6)
+2x Parity Shift
+1x Praxis Solomon
+1x Protect Thine Own
+2x Rumors of Gehenna
+
+Action Modifier (12)
+4x Elder Impersonation
+4x Forgotten Labyrinth
+4x Lost in Crowds
+
+Reaction (26)
+3x Deflection
+10x Obedience
+1x Redirection
+5x Second Tradition: Domain
+2x Telepathic Counter
+2x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Event (2)
+1x Anthelios, The Red Star
+1x Nightmares upon Nightmares

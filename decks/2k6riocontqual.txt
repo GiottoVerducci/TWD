@@ -1,0 +1,65 @@
+SAC Qualifier
+Rio de Janeiro, Brazil
+May 28th 2006
+24 players
+Itamar Goncalves Jr.
+
+Deck Name: Honeymoon in Baltimore. Starring: Arika and Vitel
+
+Crypt (13 cards, min=23, max=42, avg=8.54)
+------------------------------------------
+4x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+1x Marcus Vitel (ADV)	10  DOM FOR OBF OBT POT PRE			Lasombra:3
+3x Gratiano		8   DOM OBT obf pot		priscus		Lasombra:2
+3x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+2x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+
+Library (90 cards)
+Master (14)
+1x Barrens, The
+4x Blood Doll
+1x Erciyes Fragments, The
+1x Fragment of the Book of Nod
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Major Boon
+1x Powerbase: Montreal
+1x Sudden Reversal
+1x Uptown Hunting Ground
+
+Action (23)
+6x Baltimore Purge
+3x Dominate Kine
+1x Entrancement
+4x Govern the Unaligned
+3x Graverobbing
+1x Political Struggle
+2x Rapid Healing
+3x Renewed Vigor
+
+Ally (2)
+1x Gregory Winter
+1x Mylan Horseed
+
+Equipment (1)
+1x Palatial Estate
+
+Action Modifier (24)
+3x Cloak the Gathering
+2x Elder Impersonation
+4x Forgotten Labyrinth
+12x Freak Drive
+3x Lost in Crowds
+
+Reaction (22)
+9x Deflection
+2x Elder Kindred Network
+3x Kindred Coercion
+5x Obedience
+3x Wake with Evening's Freshness
+
+Combat (3)
+3x Majesty
+
+Event (1)
+1x Torpid Blood

@@ -1,0 +1,67 @@
+Chilian NC 2009
+Santiago, Chile
+November 28th 2009
+3R+F
+12 players
+Hugo Dey
+
+Deck Name: La Cosa
+
+Crypt (12 cards, min=21, max=32, avg=6.75)
+------------------------------------------
+3x Little Tailor of Prague 8   ANI AUS VIC dem	    		Tzimisce:2
+2x Meshenka		   8   ANI AUS VIC	    priscus	Tzimisce:2
+2x Caliban		   6   ANI AUS VIC	    		Tzimisce:2
+2x Corine Marcón	   6   AUS VIC ani	    		Tzimisce:2
+1x Anton		   8   ANI AUS cel obf vic  		Tzimisce:2
+1x Devin Bisley		   5   ANI AUS vic	    		Tzimisce:2
+1x Lolita Houston	   4   VIC aus		    		Tzimisce:2
+
+Library (90 cards)
+Master (20; 2 trifle)
+2x Blood Doll
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Library Hunting Ground
+1x Metro Underground
+1x Path of Lilith, The
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Rack, The
+2x Rötschreck
+1x Smiling Jack, The Anarch
+2x Sudden Reversal
+1x Tension in the Ranks
+2x Vessel
+
+Ally (4)
+1x Carlton Van Wyk
+1x Mylan Horseed
+2x War Ghoul
+
+Equipment (3)
+1x Bowl of Convergence
+1x Femur of Toomler
+1x Ivory Bow
+
+Retainer (5)
+2x Corpse Balloon
+3x Revenant
+
+Reaction (26)
+4x Cats' Guidance
+2x Eagle's Sight
+5x Eyes of Argus
+2x Precognition
+5x Read the Winds
+2x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (32)
+5x Aid from Bats
+2x Breath of the Dragon
+2x Canine Horde
+6x Carrion Crows
+8x Chiropteran Marauder
+5x Kraken's Kiss
+4x Meld with the Land

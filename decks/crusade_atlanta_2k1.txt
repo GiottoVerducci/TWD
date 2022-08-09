@@ -1,0 +1,69 @@
+Crusade: Atlanta
+Atlanta, Georgia
+November 17th 2001
+3R+F
+13 players
+David Anderson-Dávila
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xCg4_qWSPxM/m/yeHrMdbtnsAJ
+
+Deck Name: Giovanni Power Bleed
+
+Description: Bleed with Seduction, Call of the Hungry Dead and the
+occasional Sleeping Mind. This combo should shut down even the most
+dedicated intercept decks. Use Obedience and Spiritual Intervention
+for combat defense. Use liberal bleed bounce to enhance the defence.
+
+Crypt (12 cards, min=16, max=30, avg=6)
+---------------------------------------
+2x Andrea Giovanni			    7	DOM NEC pot vic		Giovanni:2
+2x Gillespi Giovanni			    7	DOM NEC POT aus		Giovanni:2
+2x Isabel Giovanni			    5	DOM NEC pot		Giovanni:2
+1x Enzo Giovanni, Pentex Board of Directors 8	DOM NEC ani pot tha	Giovanni:2
+1x Pochtli				    8	NEC OBF POT cel dom	Giovanni:2
+1x Carlotta Giovanni			    7	NEC POT dom obf		Giovanni:2
+1x Chas Giovanni Tello			    4	DOM POT			Giovanni:2
+1x Gloria Giovanni			    4	DOM nec			Giovanni:2
+1x Rudolfo Giovanni			    3	NEC			Giovanni:2
+
+Library (80 cards)
+Master (11)
+1x Anarch Troublemaker
+5x Blood Doll
+1x Jake Washington
+1x Morgue Hunting Ground
+1x Path of Bone, The
+2x Sudden Reversal
+
+Action (13)
+4x Govern the Unaligned
+1x Haunt
+4x Scouting Mission
+2x Slaughtering the Herd
+2x Summon Soul
+
+Ally (1)
+1x Leonardo, Mortician
+
+Equipment (2)
+2x Leather Jacket
+
+Action Modifier (28)
+4x Bonding
+6x Call of the Hungry Dead
+3x Change of Target
+3x Foreshadowing Destruction
+6x Seduction
+3x Sleeping Mind, The
+3x Threats
+
+Action Modifier/Reaction (6)
+6x Spectral Divination
+
+Reaction (16)
+3x Deflection
+3x Obedience
+3x Redirection
+7x Wake with Evening's Freshness
+
+Combat (3)
+3x Spiritual Intervention

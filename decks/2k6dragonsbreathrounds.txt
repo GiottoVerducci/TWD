@@ -1,0 +1,77 @@
+DragonCon - Dragon's Breath Rounds
+DragonCon 2006, Atlanta, Georgia
+September 2nd 2006
+3R+F
+14 players
+Jeffrey Thompson
+http://www.veknfrance.com/decks/no_secrets_akunanse.htm
+
+Deck Name: No Secrets from the Akunanse
+
+Based upon this deck:
+with a few tweaks after a review of this deck:
+http://wanderers-counsel.tripod.com/matt_origins_twd.htm
+
+Crypt (12 cards, min=23, max=32, avg=7)
+---------------------------------------
+3x Nkule Galadima 8   ABO FOR ani aus pre  magaji  Akunanse:4
+3x Uchenna	  7   ABO ANI FOR	   magaji  Akunanse:4
+2x Amavi	  8   ABO ANI FOR pre pro  	   Akunanse:4
+2x Jubal	  6   ABO ANI for pot	   	   Akunanse:4
+1x Sanjo	  6   ANI FOR abo chi	   	   Akunanse:3
+1x Kikiyaon, The  5   FOR abo ani	   	   Akunanse:4
+
+Library (90 cards)
+Master (17)
+5x Blood Doll
+1x Giant's Blood
+2x Guardian Angel
+1x KRCG News Radio
+1x Perfectionist
+1x Rumor Mill, Tabloid Newspaper, The
+6x Sudden Reversal
+
+Action (5)
+1x Aranthebes, The Immortal
+4x No Secrets From the Magaji
+
+Equipment (4)
+1x .44 Magnum
+1x Flak Jacket
+1x Ivory Bow
+1x Sport Bike
+
+Retainer (9)
+1x Duma Rafiki
+1x Elephant Guardian
+1x Mr. Winthrop
+1x Owl Companion
+4x Raven Spy
+1x Shaman
+
+Action Modifier (5)
+4x Devil-Channel: Throat
+1x Strange Day
+
+Action Modifier/Combat (4)
+4x Predator's Transformation
+
+Action Modifier/Reaction (1)
+1x Akunanse Kholo
+
+Reaction (23)
+5x Cats' Guidance
+7x Forced Awakening
+7x Predator's Communion
+2x Terra Incognita
+2x Unseen Hibernation
+
+Combat (21)
+2x Canine Horde
+6x Carrion Crows
+3x Devil-Channel: Hands
+6x Invoking the Beast
+4x Taste of Vitae
+
+Event (1)
+1x Break the Code

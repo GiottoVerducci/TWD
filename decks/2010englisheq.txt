@@ -1,0 +1,75 @@
+English ECQ
+Burton-on-Trent, England
+May 15th 2010
+3R+F
+29 players
+John Best
+
+Deck Name: Suddenly - vampires and faeries, oh my!
+
+1gw and 6VP going into the final, and 4VP in final
+
+Kiasyd s/b deck. It needs to be slow played at the beginning,
+governing down. Stone travel is an amazing card, if you fail to
+stealth past a blocker, you don't need to worry about getting your
+face ripped off. Fae contortion + oubliette to cancel a grapple and
+S:CE saved me twice on the day. Most useful vamp of the deck is
+definitely Arcadian, his special is invaluable.
+
+Crypt (12 cards, min=16, max=32, avg=6.17)
+------------------------------------------
+2x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
+2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+1x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+1x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+1x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot	    		Lasombra:4
+1x Keith Moody		   3   DOM		    		Tremere antitribu:4
+1x Lucy Markowitz	   3   dom obt		    		Lasombra:4
+
+Library (83 cards)
+Master (15; 1 trifle)
+3x Blood Doll
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+2x Pentex(TM) Subversion
+2x Perfectionist
+4x Sudden Reversal
+
+Action (16)
+1x Far Mastery
+12x Govern the Unaligned
+1x Gremlins
+2x Riddle Phantastique
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (22)
+4x Bonding
+4x Conditioning
+4x Shadow Play
+3x Shroud of Absence
+2x Shroud of Night
+5x Stone Travel
+
+Action Modifier/Combat (4)
+4x Fae Contortion
+
+Action Modifier/Reaction (3)
+3x Aura Absorption
+
+Reaction (16)
+6x Deflection
+2x Delaying Tactics
+6x On the Qui Vive
+2x Redirection
+
+Combat (5)
+5x Oubliette
+
+Event (1)
+1x Scourge of the Enochians

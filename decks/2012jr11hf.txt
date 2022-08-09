@@ -1,0 +1,62 @@
+Justicar Retribution XI - Erikoismies erikostehtävässä
+Helsinki, Finland
+December 2nd 2012
+3R+F
+20 players
+Heikki Palomäki
+
+-- 5VP in final
+
+Deck Name: Heavy duty
+
+Description: Shameless obf dom S&B. A lot of titles for table control
+and vote protection. There is also a sizable reaction package for bleed
+defence. Using murmur of the false will as main defence gives this deck
+a great advantage, not only because it can be used for bleeding and
+bouncing, but because it is free. Vampires can be villeined to very
+little blood as governs are almost only ways of losing blood.
+This deck is obviously very vulnerable to rushes but votes work pretty
+well as protection against diableries as well. Secure Haven, Golconda,
+Reins of Power and Obediences would be great additions to this deck but
+it would require taking something else out.
+
+Crypt (12 cards, min=27, max=44, avg=8.92)
+------------------------------------------
+2x Etrius		11  AUS DOM OBF THA pro		inner circle	Tremere:2
+2x Lucian		10  AUS DOM OBF cel tha		justicar	Malkavian:1
+2x Gratiano		8   DOM OBT obf pot		priscus		Lasombra:2
+2x Gilbert Duane	7   AUS DOM OBF			prince		Malkavian:1
+1x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Leandro		11  AUS OBF PRE cel dom		inner circle	Malkavian:2
+1x Greger Anderssen	7   AUS OBF dom pro		prince		Malkavian:2
+1x Reverend Blackwood	6   DOM THA obf			bishop		Tremere antitribu:2
+
+Library (90 cards)
+Master (17; 8 trifle)
+4x Dreams of the Sphinx
+1x Giant's Blood
+4x Information Highway
+8x Villein
+
+Action (13)
+13x Govern the Unaligned
+
+Action Modifier (31)
+4x Cloak the Gathering
+4x Command of the Beast
+3x Elder Impersonation
+4x Faceless Night
+6x Lost in Crowds
+3x Spying Mission
+4x Threats
+3x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Action Modifier/Reaction (13)
+13x Murmur of the False Will
+
+Reaction (12)
+4x On the Qui Vive
+8x Wake with Evening's Freshness

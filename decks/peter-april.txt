@@ -1,0 +1,51 @@
+Praxis Seizure: Buffalo
+Buffalo, New York
+April 10th 1999
+12 players
+Peter Bakija
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/tzEY1dCuXK4
+
+Peter Bakija's Praxis Seizure: Buffalo 99 winning deck
+
+"The Nosferatu Hate You", Mk. IV
+
+This deck is highly proactive--its bleed defense is killing the vampires who
+want to bleed it, its vote defense is killing the vampires who want to call
+votes against it, and its combat defense is to kill, kill, kill. It rarely,
+if ever, blocks anything, and as such, is almost always completely tapped
+out, having had all of its vampires attacked on its turn. It'll have a lot of
+trouble with a persistent Gangrel deck, a serious manuver deck, or some sort
+of deck that has a lot of Fortitude and Presses, but these are pretty
+uncommon in a tournament environment.
+
+Crypt (12 cards, min=6, max=22, avg=3.5)
+----------------------------------------
+2x Olivia				5   OBF POT vic		bishop	Nosferatu antitribu:2
+2x Agatha				4   POT obf			Nosferatu antitribu:2
+2x Duck					3   obf pot			Nosferatu:1
+2x KoKo					2   pot				Nosferatu:1
+2x Hasina Kesi				1   pot				Caitiff:1
+1x Beast, The Leatherface of Detroit	7   OBF POT ani cel		Nosferatu antitribu:2
+1x Nigel the Shunned			5   ANI POT obf			Nosferatu antitribu:2
+
+Library (90 cards)
+Master (14)
+3x Blood Doll
+2x Dreams of the Sphinx
+4x Haven Uncovered
+3x Potence
+2x Storm Sewers
+
+Action (16)
+12x Bum's Rush
+4x Rampage
+
+Combat (60)
+8x Behind You!
+4x Decapitate
+4x Disarm
+4x Fists of Death
+12x Immortal Grapple
+8x Taste of Vitae
+10x Torn Signpost
+10x Undead Strength

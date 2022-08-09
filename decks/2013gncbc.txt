@@ -1,0 +1,52 @@
+German NC 2013
+Bochum, Germany
+November 30th 2013
+3R+F
+27 players
+Bram Van Stappen
+http://www.secretlibrary.info/index.php?deck=view&amp;id=7249
+
+The TWD is one that Lucien de Prins already used in the Dutch National Championship 2011; that deck list is available on Secret Library here:
+
+Crypt (12 cards, min=9, max=19, avg=3.42)
+-----------------------------------------
+2x Jackie			3   DEM				    Malkavian antitribu:4
+2x Midget			3   DEM obf pre			    Malkavian antitribu:3
+1x Apache Jones			5   DEM aus for obf		    Malkavian antitribu:4
+1x Persia, The Beautiful Statue	5   DEM aus obf			    Malkavian:3
+1x Uncle George			5   DEM aus dom obf		    Malkavian antitribu:3
+1x Fabrizia Contreraz		4   dem pot		archbishop  Malkavian antitribu:4
+1x Sean Rycek			4   aus dem			    Malkavian:4
+1x Marta			3   aus dem			    Malkavian antitribu:4
+1x Cassandra Langely, The Waif	2   dem				    Malkavian:4
+1x Eddie Gaines			1   dem pot			    Caitiff:3
+
+Library (87 cards)
+Master (16; 3 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+1x Coven, The
+5x Dementation
+3x Effective Management
+1x Misdirection
+2x Pentex(TM) Subversion
+2x Wash
+
+Action (25)
+25x Kindred Spirits
+
+Action Modifier (30)
+12x Confusion
+12x Eyes of Chaos
+6x Mind Tricks
+
+Action Modifier/Combat (6)
+6x Deny
+
+Reaction (9)
+2x Delaying Tactics
+2x On the Qui Vive
+5x Wrong and Crosswise
+
+Event (1)
+1x Narrow Minds

@@ -1,0 +1,57 @@
+SAC 2014
+São Paulo, Brazil
+May 3rd 2014
+3R+F
+31 players
+Filipe Iório
+https://www.vekn.net/event-calendar/event/7463
+
+-- 2VP in final
+
+Deck Name: TUP DOG
+Created by: Davi e Iorio
+
+Crypt (24 cards, min=4, max=20, avg=1.67)
+-----------------------------------------
+20x Tupdog		1    POT VIS		Gargoyle:3
+4x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+
+Library (90 cards)
+Master (16; 6 trifle)
+1x Archon Investigation
+1x Channel 10
+2x Dreams of the Sphinx
+2x Failsafe
+1x Fame
+1x KRCG News Radio
+2x Powerbase: Montreal
+1x Rack, The
+2x Vessel
+2x Wider View
+1x Yawp Court
+
+Action (7)
+1x Aranthebes, The Immortal
+6x Computer Hacking
+
+Ally (9)
+1x Carlton Van Wyk
+8x Nephandus
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Reaction (10)
+6x Deflection
+4x On the Qui Vive
+
+Combat (43)
+5x Amaranth
+10x Brick by Brick
+10x Immortal Grapple
+10x Raking Talons
+8x Torn Signpost
+
+Event (4)
+1x FBI Special Affairs Division
+3x Unmasking, The

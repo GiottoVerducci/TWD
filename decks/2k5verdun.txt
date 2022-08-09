@@ -1,0 +1,65 @@
+Dramatic Upheaval
+Jeux Face à Face, Verdun (Montréal), Quebec
+June 25th 2005
+3R+F
+15 players
+Martin Tremblay
+
+Deck Name: Old school Weenie vote Pre 2.0
+
+A Weenie/PRE vote deck. In this tournament, no other political
+decks & no Rush (IG) decks.
+
+Crypt (12 cards, min=6, max=15, avg=2.75)
+-----------------------------------------
+2x Gideon Fontaine	3   PRE		 Ventrue:1
+2x Delilah Easton	2   pre		 Toreador:1
+1x Courtland Leighton	4   dom for pre	 Ventrue:1
+1x Mariana Gilbert	4   PRE cel	 Toreador:1
+1x Violette Prentiss	4   PRE dom	 Ventrue:1
+1x Itzahk Levine	3   cel pre	 Ventrue:2
+1x Roland Loussarian	3   for pre	 Ventrue:1
+1x Uma Hatch		3   cel pre	 Brujah:1
+1x Antoinette DuChamp	1   cel pre	 Caitiff:2
+1x Igo the Hungry	1   pre pro	 Caitiff:1
+
+Library (90 cards)
+Master (17)
+2x Anarch Troublemaker
+1x Bleeding the Vine
+1x Creepshow Casino
+1x Direct Intervention
+1x Dreams of the Sphinx
+3x Parthenon, The
+5x Presence
+1x Protected Resources
+2x Secret Horde
+
+Action (3)
+1x Entrancement
+2x Media Influence
+
+Political Action (26)
+15x Kine Resources Contested
+1x Parity Shift
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Cairo
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Glasgow
+1x Praxis Seizure: Monaco
+1x Reinforcements
+1x Rumors of Gehenna
+1x Ventrue Justicar
+1x Year of Fortune
+
+Action Modifier (33)
+1x Aire of Elation
+2x Aura of Invincibility
+14x Bewitching Oration
+3x Change of Target
+13x Voter Captivation
+
+Combat (11)
+8x Majesty
+3x Staredown

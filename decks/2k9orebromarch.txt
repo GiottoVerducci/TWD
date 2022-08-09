@@ -1,0 +1,70 @@
+Tournament
+Örebro, Sweden
+March 28th 2009
+10 players
+Erik Torstensson
+
+Deck Name: girls will find...
+
+Much based/stolen from Teemu Sainomaa's deck, so credit should go that
+way. Biggest difference is the Liquidation+Ashur Tablets combo, which is kinda decent:o
+
+Crypt (12 cards, min=36, max=40, avg=9.67)
+------------------------------------------
+4x Cybele	  10  ANI DAI OBF PRE SER THA	Baali:4
+3x Nergal	  10  AUS DAI FOR OBF PRE THA	Baali:5
+1x Nergal (ADV)	  10  AUS DAI FOR OBF PRE THA	Baali:5
+4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
+
+Library (86 cards)
+Master (59; 8 trifle)
+1x Archon Investigation
+9x Ashur Tablets
+4x Blind Spot
+3x Brothers Grimm
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Fortschritt Library
+1x Giant's Blood
+3x Golconda: Inner Peace
+4x Information Highway
+1x Jake Washington
+1x Last Stand
+6x Liquidation
+1x Metro Underground
+1x Misdirection
+1x Monastery of Shadows
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+7x Villein
+1x Wash
+5x Zillah's Valley
+
+Action (2)
+2x Entrancement
+
+Action Modifier (17)
+1x Aire of Elation
+1x Approximation of Loyalty
+3x Cloak the Gathering
+2x Elder Impersonation
+1x Enkil Cog
+3x Faceless Night
+1x Into Thin Air
+3x Lost in Crowds
+2x Mirror Walk
+
+Action Modifier/Reaction (1)
+1x Sense the Sin
+
+Reaction (2)
+1x Guard Dogs
+1x Rat's Warning
+
+Combat (4)
+4x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

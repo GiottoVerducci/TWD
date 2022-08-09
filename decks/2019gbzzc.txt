@@ -1,0 +1,66 @@
+Giant's Blood: Zagreb
+Zagreb, Croatia
+January 19th 2019
+2R+F
+27 players
+Richard Stefan Utner
+https://www.vekn.net/event-calendar/event/9103
+
+-- 1GW3 + 5VP in final
+
+Deck Name: Dominate Legionnaires
+
+Crypt (12 cards, min=19, max=44, avg=8.25)
+------------------------------------------
+5x Capuchin, The	11  AUS DOM FOR NEC THA THN		  Harbinger of Skulls:5
+1x Inyanga		9   ANI AUS FOR PRO dom nec	primogen  Gangrel:4
+1x Mordechai Ben-Nun	8   ANI AUS FOR NEC			  Harbinger of Skulls:5
+1x Phagian		8   AUS NEC THA dom for			  Harbinger of Skulls:4
+1x Hecate		6   AUS FOR NEC				  Harbinger of Skulls:5
+1x Jephta Hester	5   DOM FOR aus				  Ventrue antitribu:4
+1x Neighbor John	5   AUS dom for				  Ventrue antitribu:4
+1x Ulrike Rothbart	3   dom for				  Ventrue antitribu:4
+
+Library (81 cards)
+Master (15; 8 trifle)
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Information Highway
+2x Powerbase: Montreal
+3x Vessel
+5x Villein
+
+Action (6)
+6x Govern the Unaligned
+
+Ally (8)
+8x Emerald Legionnaire
+
+Retainer (1)
+1x Vengeful Spirit
+
+Action Modifier (10)
+2x Call of the Hungry Dead
+3x Conditioning
+2x Enkil Cog
+3x Freak Drive
+
+Action Modifier/Combat (6)
+6x Breath of Thanatos
+
+Action Modifier/Reaction (6)
+6x Spectral Divination
+
+Reaction (19)
+2x Eagle's Sight
+5x Eyes of Argus
+2x Forced Awakening
+2x My Enemy's Enemy
+2x On the Qui Vive
+6x Telepathic Misdirection
+
+Combat (10)
+2x Hidden Strength
+4x Resilience
+4x Unflinching Persistence

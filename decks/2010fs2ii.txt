@@ -1,0 +1,68 @@
+Fee Stake Part Deux
+Indianapolis, Indiana
+December 28th 2010
+2R+F
+10 players
+John Bell
+
+Deck Name: To the Death! No! To the Pain.
+
+An experiment with Touch of Pain: the idea being that late
+game it is as good as a rush or better - leaving my actions
+open to other options.
+
+Crypt (12 cards, min=10, max=18, avg=3.5)
+-----------------------------------------
+1x Dr. Julius Sutphen	    5	POT dom obt	bishop	Lasombra:3
+1x Dr. Julius Sutphen (ADV) 5	POT dom obt		Lasombra:3
+2x Jimmy Dunn		    4	CEL POT for		Pander:2
+2x Mitchell, The Headhunter 2	obt pot			Pander:2
+1x Agatha		    4	POT obf			Nosferatu antitribu:2
+1x Hugo			    4	POT pre vic		Brujah antitribu:2
+1x Hester Reed		    3	obt pot			Lasombra:3
+1x Jacob Bragg		    3	cel pot			Brujah antitribu:2
+1x Tom			    3	for pot san		Blood Brother:2
+1x Tommy		    3	ani pot			Nosferatu antitribu:2
+
+Library (90 cards)
+Master (20; 8 trifle)
+3x Blood Doll
+1x Direct Intervention
+2x Fame
+1x Humanitas
+3x Hungry Coyote, The
+2x Potence
+6x Villein
+2x Wider View
+
+Action (13)
+2x Bum's Rush
+2x Harass
+8x Horseshoes
+1x Rampage
+
+Ally (3)
+1x Gregory Winter
+1x Impundulu
+1x Young Bloods
+
+Equipment (2)
+2x Camera Phone
+
+Action Modifier (2)
+2x Leverage
+
+Reaction (18)
+6x On the Qui Vive
+12x Touch of Pain
+
+Combat (31)
+2x Disarm
+12x Increased Strength
+3x Mighty Grapple
+2x Taste of Vitae
+8x Thrown Gate
+4x Undead Strength
+
+Event (1)
+1x Dragonbound

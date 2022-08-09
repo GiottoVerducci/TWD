@@ -1,0 +1,61 @@
+German ECQ
+Frankfurt, Germany
+April 19th 2008
+3R+F
+24 players
+Kristian Willenbacher
+
+-- 4VP in final
+
+Deck Name: Dreams & Dementation
+
+Description: Dementation Stealth-Bleed
+
+Crypt (12 cards, min=11, max=30, avg=5.58)
+------------------------------------------
+2x Korah			7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
+2x Quentin King III (ADV)	7   AUS DEM OBF cel pre	 	   Malkavian:3
+2x Dolphin Black		6   AUS DEM OBF		 	   Malkavian antitribu:2
+1x Jason, The World's Voice	8   AUS DEM OBF for	 primogen  Malkavian:3
+1x Rodolfo			8   AUS DEM OBF pro	 bishop	   Malkavian antitribu:3
+1x Persia, The Beautiful Statue	5   DEM aus obf		 	   Malkavian:3
+1x Yorik			3   dem obf		 	   Malkavian antitribu:2
+1x Boy Toy			2   dem			 	   Malkavian antitribu:2
+1x Eddie Gaines			1   dem pot		 	   Caitiff:3
+
+Library (90 cards)
+Master (16; 6 trifle)
+1x Barrens, The
+6x Dreams of the Sphinx
+1x Pentex(TM) Subversion
+2x Secure Haven
+3x Vessel
+3x Wash
+
+Action (17)
+16x Kindred Spirits
+1x Restructure
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Action Modifier (33)
+3x Cloak the Gathering
+8x Confusion
+4x Elder Impersonation
+8x Eyes of Chaos
+3x Faceless Night
+4x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (6)
+2x Deny
+4x Swallowed by the Night
+
+Reaction (16)
+2x Delaying Tactics
+2x My Enemy's Enemy
+3x On the Qui Vive
+6x Telepathic Misdirection
+3x Wake with Evening's Freshness

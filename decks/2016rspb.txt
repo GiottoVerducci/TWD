@@ -1,0 +1,72 @@
+Revered
+São Paulo, Brazil
+June 18th 2016
+2R+F
+10 players
+Alan Bragança Winther
+https://www.vekn.net/event-calendar/event/8402
+
+-- 2VP in final
+
+Deck Name: Gehenna Imbued 2.0
+
+Crypt (13 cards, min=14, max=20, avg=4.31)
+------------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x François "Warden" Loehr	3   def jud	 Judge:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+
+Library (60 cards)
+Master (13)
+1x Angel of Berlin
+1x Archon Investigation
+2x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Pentex(TM) Subversion
+1x Rose Foundation, The
+2x Smiling Jack, The Anarch
+1x Society of Leopold
+1x Storage Annex
+1x Sudden Reversal
+1x WMRH Talk Radio
+
+Conviction (18)
+4x React with Conviction
+7x Second Sight
+7x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (4)
+1x Carlton Van Wyk
+1x Ossian
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (2)
+1x Crusader Sword, The
+1x Ivory Bow
+
+Power (10)
+4x Discern
+1x Rejuvenate
+5x Vigilance
+
+Event (12)
+1x Blood Weakens
+1x Fall of the Camarilla
+1x Narrow Minds
+1x New Inquisition, The
+1x Nightmares upon Nightmares
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Thirst
+1x Unmasking, The
+1x Veil of Darkness
+1x Wormwood

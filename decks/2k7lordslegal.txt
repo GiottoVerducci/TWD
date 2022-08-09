@@ -1,0 +1,99 @@
+Lords of the Night is Legal!
+Indianapolis, Indiana
+October 28th 2007
+3R+F
+15 players
+Ankur Gupta
+
+Deck Name: Black Hand CEL
+
+Description:	The deck is yet another testament to my love for Black
+Hand, even without using the neat new cards of wonderfulness for Black Hand.
+This deck focuses on attrition using Zip Guns/Blur/Taste. Let's
+be honest: Zip Guns are not the most wonderful weapon ever,
+but the idea is to simply survive combat until the end game.
+Then, maneuvers are extremely powerful, and selective torporing
+will balance the table into a win. There is a subtle but
+important blood denial strategy that I feel stays nicely under
+the radar. Generally the tables were unaware of the danger
+until it was too late. Thuggees, Vampiric Disease, Restricted
+Vitae, Strained Vitae Supply, Vessel, and moderate combat all
+work well together to present a solid package for that purpose.
+My own worries are handled by Zip Guns (to avoid disease),
+Weeping Stone, and Corporeal Reservoirs.
+
+Special mention of Vampiric Disease: it was a key card to victory
+in both the final and two rounds beforehand. I love Vessel; it
+should have a big impact once people forget about vessel and
+play more blood dolls again.
+
+The deck definitely carries weaknesses against animalism combat
+or bigger guns. You have to make sure that you handle these
+decks by talking them off the table or targeting their weakness.
+For larger guns, pool is often a problem. Hone in on that. For
+decks with animalism, there is a limit to how many times they
+can repeat their schtick. Focus on killing one guy at a time.
+With +2/+3 intercept plus permanents, you should be able to
+manage it. Your "defense" against combat ends is that no one
+is hurting you. That's benefit enough. Eventually they will run
+out and they will be low on blood to boot. And if you get that
+Vampiric Disease. . . . .
+
+I would totally cut the single Art of Memory for a Reunion Kamut.
+I just couldn't find one at the time.
+
+Crypt (13 cards, min=14, max=30, avg=5.62)
+------------------------------------------
+3x Joe "Boot" Hill		 7   CEL QUI for obf	  Assamite:4
+3x Skryta Zyleta		 5   CEL obf pot pro	  Gangrel antitribu:3
+3x Béatrice "Oracle171" Tremblay 3   inn ven		  Innocent:4
+2x Yazid Tamari			 8   CEL QUI ani dom obf  Assamite:3
+1x Dominique Santo Paulo	 6   AUS CEL pot pre	  Toreador antitribu:4
+1x Reza Fatir, The Dark Angel	 6   CEL QUI obf pro	  Assamite:4
+
+Library (90 cards)
+Master (24; 12 trifle)
+6x Corporal Reservoir
+1x Fame
+1x Giant's Blood
+3x Haven Uncovered
+1x Strained Vitae Supply
+3x Vampiric Disease
+4x Vessel
+1x Wall Street Night, Financial Newspaper
+2x Wash
+1x Weeping Stone
+1x WMRH Talk Radio
+
+Conviction (2)
+1x Second Sight
+1x Strike with Conviction
+
+Action (10)
+2x Abbot
+8x Reunion Kamut
+
+Ally (5)
+1x Carlton Van Wyk
+4x Marijava Thuggee
+
+Equipment (1)
+1x Guarded Rubrics
+
+Action Modifier (1)
+1x Art of Memory, The
+
+Reaction (16)
+4x Forced Awakening
+8x Ministry
+4x On the Qui Vive
+
+Combat (30)
+8x Blur
+5x Flash
+2x Pursuit
+7x Taste of Vitae
+8x Zip Gun
+
+Event (1)
+1x Restricted Vitae

@@ -1,0 +1,73 @@
+Shame
+Columbus, Ohio
+June 28th 2006
+2R+F
+33 players
+Matthew Morgan
+
+Deck Name: Horrific Shame
+
+Description: This deck was designed to be played in a tournament
+called Shame. It is very shameful and should not be played ever
+unless someone else is silly enough to name a tournament Shame.
+
+Crypt (12 cards, min=25, max=44, avg=9)
+---------------------------------------
+5x Etrius		    11	AUS DOM OBF THA pro	inner circle	Tremere:2
+2x Lucian		    10	AUS DOM OBF cel tha	justicar	Malkavian:1
+1x Justine, Elder of Dallas 8	AUS DOM THA obf		primogen	Tremere:1
+1x Greger Anderssen	    7	AUS OBF dom pro		prince		Malkavian:2
+1x Mariel, Lady Thunder	    7	DOM OBF aus tha				Malkavian:1
+1x Reverend Blackwood	    6	DOM THA obf		bishop		Tremere antitribu:2
+1x Zebulon		    5	OBF aus dom pro				Malkavian:1
+
+Library (90 cards)
+Master (14)
+1x Arcane Library
+1x Barrens, The
+5x Blood Doll
+2x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Perfectionist
+1x Secure Haven
+
+Action (15)
+8x Govern the Unaligned
+5x Magic of the Smith
+2x Rutor's Hand
+
+Equipment (6)
+1x Ankara Citadel, Turkey, The
+1x Bowl of Convergence
+1x Ivory Bow
+1x Monocle of Clarity
+1x Sacré-Cœur Cathedral, France
+1x Sniper Rifle
+
+Political Action (8)
+1x Ancient Influence
+3x Kine Resources Contested
+1x Political Stranglehold
+2x Protect Thine Own
+1x Reins of Power
+
+Action Modifier (29)
+2x Cloak the Gathering
+4x Conditioning
+4x Elder Impersonation
+2x Faceless Night
+4x Horrific Countenance
+4x Lost in Crowds
+3x Perfect Clarity
+4x Seduction
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (16)
+6x Deflection
+2x Telepathic Misdirection
+8x Wake with Evening's Freshness

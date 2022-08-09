@@ -1,0 +1,75 @@
+On Hostile Ground
+Bergen, Norway
+May 3rd 2003
+12 players
+Øyvind Monsen
+http://home.no.net/oymo/decks/!Malkavian_Bleeders.html
+
+Deck Name: !Malkavian bleeders
+
+Description: Stealth bleed with Wake/Voice of Madness defence.
+Winning deck in "On hostile ground"- tournament 2-3. May 2003
+
+Crypt (12 cards, min=24, max=36, avg=7.33)
+------------------------------------------
+3x Kite		 7   AUS DEM obf pre	  bishop    Malkavian antitribu:2
+2x Vasantasena	 9   AUS DEM OBF dom pot  	    Malkavian antitribu:2
+2x Korah	 7   AUS DEM OBF ani	  priscus   Malkavian antitribu:2
+2x Dolphin Black 6   AUS DEM OBF	  	    Malkavian antitribu:2
+1x Hannibal	 10  AUS DEM OBF cel dom  cardinal  Malkavian antitribu:2
+1x Theron	 8   AUS DEM OBF for obt  	    Malkavian antitribu:2
+1x Uncle George	 5   DEM aus dom obf	  	    Malkavian antitribu:3
+
+Library (90 cards)
+Master (16)
+4x Blood Doll
+1x Dreams of the Sphinx
+1x Effective Management
+1x Hungry Coyote, The
+1x Information Highway
+1x Institution Hunting Ground
+3x Minion Tap
+1x Obfuscate
+1x Secure Haven
+2x Sudden Reversal
+
+Action (18)
+1x Blessing of Chaos
+2x Call, The
+1x Haunting, The
+8x Kindred Spirits
+2x Madman's Quill
+1x Passion
+1x Sacrificial Lamb
+2x Total Insanity
+
+Equipment (2)
+2x Enchanted Marionette
+
+Action Modifier (23)
+2x Change of Target
+3x Confusion
+2x Elder Impersonation
+5x Eyes of Chaos
+2x Faceless Night
+1x Forgotten Labyrinth
+4x Lost in Crowds
+2x Marked Path
+2x Mask of a Thousand Faces
+
+Action Modifier/Combat (3)
+3x Deny
+
+Reaction (26)
+3x Enhanced Senses
+1x Melange
+1x Precognition
+5x Telepathic Misdirection
+9x Voice of Madness
+7x Wake with Evening's Freshness
+
+Combat (1)
+1x Reality Mirror
+
+Combat/Reaction (1)
+1x Abandoning the Flesh

@@ -1,0 +1,66 @@
+Threading The Path Of Orpheus
+Paris, France
+March 11th 2017
+3R+F
+14 players
+Jorge Delgado
+https://www.vekn.net/event-calendar/event/8611
+
+-- 4VP in final
+
+Deck Name: Anson Gunz #JeSuisAnthelios
+
+Crypt (13 cards, min=17, max=32, avg=6.85)
+------------------------------------------
+5x Anson			8   CEL PRE aus dom	prince	Toreador:1
+2x Constanza Vinti		8   CEL DOM POT		prince	Brujah:2
+2x Dónal O'Connor		8   CEL DOM POT		prince	Brujah:2
+1x Dodd				5   CEL dom pre			Brujah antitribu:2
+1x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Sarah Brando			3   CEL				Brujah antitribu:2
+
+Library (75 cards)
+Master (24; 2 trifle)
+1x Archon Investigation
+9x Ashur Tablets
+1x Direct Intervention
+1x Fame
+1x Giant's Blood
+4x Haven Uncovered
+2x Minion Tap
+1x Papillon
+1x Parthenon, The
+1x Pentex(TM) Subversion
+2x Vessel
+
+Action (2)
+2x Bum's Rush
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (4)
+2x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (9)
+2x Deflection
+7x Second Tradition: Domain
+
+Combat (27)
+2x Blur
+6x Concealed Weapon
+1x Fast Hands
+6x Infernal Pursuit
+4x Psyche!
+3x Pursuit
+1x Side Strike
+1x Sideslip
+3x Taste of Vitae
+
+Event (1)
+1x Scourge of the Enochians

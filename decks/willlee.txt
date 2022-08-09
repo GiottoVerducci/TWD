@@ -1,0 +1,85 @@
+Tournament
+Isle of Wight, England
+February 13th 1999
+10 players
+William Lee
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/iHnpAQdAfYQ
+
+William Lee's Brujah Princes.
+
+Crypt (12 cards, min=15, max=34, avg=6.42)
+------------------------------------------
+3x Dónal O'Connor		8   CEL DOM POT			prince	  Brujah:2
+2x Constanza Vinti		8   CEL DOM POT			prince	  Brujah:2
+1x Don Cruez, The Idealist	10  CEL POT PRE ani dom pro	justicar  Brujah:1
+1x Anvil			6   CEL POT dom pre tha		primogen  Brujah:1
+1x Lisette Vizquel		6   DOM POT pro			bishop	  Lasombra:2
+1x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
+1x Jimmy Dunn			4   CEL POT for				  Pander:2
+1x Dre, Leader of the Cold Dawn	3   cel pot				  Brujah:1
+1x Jacob Bragg			3   cel pot				  Brujah antitribu:2
+
+Library (87 cards)
+Master (16)
+1x Blood Doll
+1x Carthage Remembered
+1x Direct Intervention
+3x Dominate
+1x Dreams of the Sphinx
+1x Golconda: Inner Peace
+1x Information Highway
+1x Major Boon
+3x Minion Tap
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+
+Action (10)
+1x Ambush
+2x Bum's Rush
+3x Fifth Tradition: Hospitality
+3x Govern the Unaligned
+1x Scouting Mission
+
+Equipment (1)
+1x Leather Jacket
+
+Political Action (6)
+2x Archon
+1x Camarilla Exemplary
+1x Disputed Territory
+1x Kine Resources Contested
+1x Parity Shift
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (6)
+3x Bonding
+2x Conditioning
+1x Foreshadowing Destruction
+
+Reaction (13)
+4x Deflection
+1x Forced Awakening
+6x Second Tradition: Domain
+2x Wake with Evening's Freshness
+
+Combat (34)
+2x Acrobatics
+4x Blur
+1x Decapitate
+2x Disarm
+3x Immortal Grapple
+1x Psyche!
+1x Pulled Fangs
+2x Pursuit
+3x Pushing the Limit
+1x Sacrament of Carnage
+1x Side Strike
+3x Sideslip
+2x Taste of Vitae
+1x Thoughts Betrayed
+2x Thrown Gate
+4x Torn Signpost
+1x Undead Strength

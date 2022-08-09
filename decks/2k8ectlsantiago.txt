@@ -1,0 +1,69 @@
+Enkidu Comes to Lunch
+Santiago, Chile
+February 9th 2008
+3R+F
+14 players
+Hernán Rodríguez
+
+Deck Name: Guns n' Roses
+
+Description: A deck based in Anneke and Toreador princes, using cards
+like Second Tradition, .44 Magnum and a lot of intercept. This deck
+kills his prey with bleed action (the most of type 1-2 get +1 bleed)
+and blocking (D) actions to another Methuselah with Anneke.
+
+Crypt (12 cards, min=25, max=40, avg=8.42)
+------------------------------------------
+3x Anneke	   10  AUS CEL PRE dom		justicar  Toreador:1
+3x Anson	   8   CEL PRE aus dom		prince	  Toreador:1
+2x François Villon 10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+1x Masika	   10  AUS CEL PRE		primogen  Toreador:1
+1x Marcellus	   8   AUS CEL pro		prince	  Toreador:2
+1x Felicia Mostrom 5   AUS CEL pre			  Toreador:1
+1x Dorian Strack   4   AUS cel				  Toreador:1
+
+Library (90 cards)
+Master (20; 2 trifle)
+1x Art Museum
+4x Blood Doll
+2x Direct Intervention
+2x Fame
+1x KRCG News Radio
+2x Minion Tap
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Society Hunting Ground
+1x Sudden Reversal
+2x Vessel
+1x WMRH Talk Radio
+
+Action (2)
+2x Nose of the Hound
+
+Equipment (7)
+4x .44 Magnum
+2x Leather Jacket
+1x Sniper Rifle
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (25)
+2x Eluding the Arms of Morpheus
+6x Forced Awakening
+4x Quicken Sight
+4x Second Tradition: Domain
+4x Spirit's Touch
+5x Telepathic Misdirection
+
+Combat (33)
+5x Blur
+5x Concealed Weapon
+4x Flash
+4x Majesty
+4x Psyche!
+7x Pursuit
+4x Taste of Vitae
+
+Event (1)
+1x Anthelios, The Red Star

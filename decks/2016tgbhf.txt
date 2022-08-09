@@ -1,0 +1,119 @@
+1st Töölö Grand Ball
+Helsinki, Finland
+December 18th 2016
+2R+F
+10 players
+Lauri Salmi
+https://www.vekn.net/event-calendar/event/8531
+
+-- 3VP in final
+
+Final table: Marko (Lasombra Wormwood Baltimorepurge Toolbox) -&gt;
+ Ilari (Giovanni Powerbleed) -&gt;
+	 Jukka (Dementation Anarch stealth bleed) -&gt;
+	 Jyri (Blackhand Dementation Bleed with Anu Diptinatpa -&gt;
+	 Lauri (me) (Lord Tremere Toolbox)
+
+
+This was first tournament arrange in one of our new players (Tero Aalto, he
+started playing last march, but was already playing at the EC in Genoa) home at
+Töölö, Helsinki. Nice residence and works for a small tournaments, with 2-3
+tables top. We got 11 players turning up, but one opted to leave before the
+start and see the new Star Wars instead, so Thanks to HG for that. We played
+two rounds and Final then with 10 players.
+
+Preliminary rounds only had 1 GW, in those four games, and that was by Jukka
+with 2vp eventhough he was ousted in that game, so all the tables went Time.
+Marko won his place in final by coin toss (dice roll) over Henna-Riikka(one of
+the two tournament first timers). And Jyri won third seed agianst me in coin
+toss (dice Roll). Ilari was second seed (another tournament first timer) and
+Jukka with only GW of course was the first seed.
+
+So me and Marko sat at the table, and Jyri opted to bleed me, then Ilari opted
+to bleed Jyri and finaly Jukka went between Ilari and Jyri. Marko was diced to
+be the starter.
+
+I had personally really bad start and didn’t get Malgorzata on starting crypt,
+and actually opted to buy new vampire twice before even getting her, and well
+so it was turn 5 when I finaly got my first vampire, everyone else had 3-5
+minions by that time, and my predator had bled me twice by bleeds of four, so I
+really didn’t expect to win.
+
+However my predator got enough pressure by his predator that I manage to get
+Malgorzata up and villein, then start using her special ability to bring Lord
+Tremere up and villein him too, even with Wormwood by my prey lowering capacity
+down to 7-8.
+
+Even then the Giovanni with four vampires including Le Dinh Tho, manage to oust
+his prey and even next one, while my prey with the Lasombra gave a little
+pressure to him, finaly allowing me to do timely oust with bleeds and Anarchist
+Uprising.
+
+If I had not manage to oust Marko then, I propably would not have survived his
+and Ilaris turn, but with that timely oust, I did have the upper hand, and
+manage to put all of Ilaris vampires into Torpor and win the came about 10
+minutes before time, earning me Tournament win, and my first TWDA entry without
+Nana Buruku featured in my decklist.
+
+Winners decklist:
+
+This deck is similar to EC Genoa winners Pau Vilars, so thanks to him and others who had played similar decks before
+
+Crypt (12 cards, min=36, max=44, avg=10.33)
+-------------------------------------------
+4x Malgorzata	    9	AUS DOM THA VIC pre	 priscus	Tremere antitribu:4
+3x Lord Tremere	    11	ANI AUS DOM THA VIC obe	 		Tremere:5
+3x Mistress Fanchon 11	AUS CEL DOM OBF THA VIC	 inner circle	Tremere:4
+2x Sha-Ennu	    11	ANI AUS CHI VIC obf tha	 regent		Tzimisce:4
+
+Library (83 cards)
+Master (20; 6 trifle)
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Rötschreck
+5x Villein
+1x Wider View
+4x Zillah's Valley
+
+Action (4)
+1x Aranthebes, The Immortal
+2x Magic of the Smith
+1x Under Siege
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Political Action (5)
+1x Anarchist Uprising
+1x Ancient Influence
+2x Banishment
+1x Reins of Power
+
+Action Modifier (11)
+5x Changeling
+2x Conditioning
+4x Mirror Walk
+
+Action Modifier/Combat (4)
+3x Plasmic Form
+1x Ritual of the Bitter Rose
+
+Reaction (21)
+2x Eagle's Sight
+2x Enhanced Senses
+6x Eyes of Argus
+3x My Enemy's Enemy
+3x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (15)
+1x Amaranth
+2x Breath of the Dragon
+7x Chiropteran Marauder
+5x Theft of Vitae

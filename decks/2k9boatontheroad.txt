@@ -1,0 +1,57 @@
+Boat on the Road! MQ
+Lodz, Poland
+August 22nd 2009
+3R+F
+14 players
+Peter Modzelewski
+
+Deck Name: New Brujah Progeny
+
+Crypt (12 cards, min=18, max=34, avg=6.5)
+-----------------------------------------
+3x Tara		   6   POT PRE cel	    prince	Brujah:5
+3x Reginald Moore  4   PRE		    primogen	Brujah:4
+2x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+
+Library (80 cards)
+Master (15; 1 trifle)
+2x Archon Investigation
+1x Creepshow Casino
+1x Dark Influences
+4x Dreams of the Sphinx
+1x New Carthage
+1x Pentex(TM) Subversion
+4x Presence
+1x Villein
+
+Action (8)
+8x Third Tradition: Progeny
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (27)
+1x Brujah Justicar
+9x Consanguineous Boon
+9x Kine Resources Contested
+6x Parity Shift
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Washington, D.C.
+
+Action Modifier (18)
+2x Awe
+3x Bewitching Oration
+3x Iron Glare
+2x Perfect Paragon
+8x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Combat (6)
+6x Majesty

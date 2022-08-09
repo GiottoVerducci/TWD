@@ -1,0 +1,48 @@
+Art of Memory
+Vitoria, Spain
+April 15th 2007
+18 players
+Iñaki Jimenez
+
+Deck Name: CEL Guns
+
+Crypt (12 cards, min=15, max=20, avg=4.5)
+-----------------------------------------
+1x Brachah			5   CEL PRE for			Brujah:2
+1x Dodd				5   CEL dom pre			Brujah antitribu:2
+1x Skryta Zyleta		5   CEL obf pot pro		Gangrel antitribu:3
+1x Steve Booth			5   CEL pot pre pro		Brujah:3
+1x Victor Revell, Loyalist	5   CEL aus dem pre		Toreador antitribu:2
+1x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Yusuf, Scribe of Alamut	5   CEL aus obf qui		Assamite:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Parmenides			4   CEL qui			Assamite:2
+1x Scarlet Carson O'Toole	4   CEL pro			Gangrel antitribu:3
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Sarah Brando			3   CEL				Brujah antitribu:2
+
+Library (80 cards)
+Master (11)
+6x Blood Doll
+2x Fame
+2x Frontal Assault
+1x Tension in the Ranks
+
+Action (10)
+10x Bum's Rush
+
+Equipment (8)
+8x .44 Magnum
+
+Combat (50)
+6x Blur
+8x Concealed Weapon
+5x Flash
+10x Psyche!
+8x Pursuit
+2x Side Strike
+5x Sideslip
+6x Taste of Vitae
+
+Event (1)
+1x Dragonbound

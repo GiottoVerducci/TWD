@@ -1,0 +1,64 @@
+Powerbase: Los Angeles Event #3
+Gamex, Los Angeles, California
+May 29th 2011
+2R+F
+12 players
+Jeff Poole
+
+Crypt (12 cards, min=15, max=24, avg=4.92)
+------------------------------------------
+2x Batsheva	 6   ANI PRE obt pot	Guruhi:4
+2x Gentha Shale	 6   ANI PRE pot spi	Ahrimane:4
+1x Sundown	 6   ANI POT obf pre	Nosferatu:3
+1x Fish		 5   ANI POT pre	Guruhi:4
+1x Fode Kourouma 5   POT ani aus pre	Guruhi:4
+1x Devyn	 4   ani chi pre	Ravnos:4
+1x Lumumba	 4   PRE ani		Guruhi:4
+1x Urenna Bunu	 4   ani pot pre	Guruhi:4
+1x Zhara	 4   ani for pre	Ishtarri:3
+1x Stick	 3   ANI		Nosferatu antitribu:4
+
+Library (88 cards)
+Master (12; 3 trifle)
+2x Animalism
+2x Archon Investigation
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Presence
+1x Sudden Reversal
+3x Vessel
+
+Action (11)
+2x Army of Rats
+5x Enchant Kindred
+2x Founders of the Ebony Kingdom
+2x Legal Manipulations
+
+Equipment (3)
+3x Leather Jacket
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier (4)
+4x Guruhi Are the Land, The
+
+Reaction (20)
+7x Cats' Guidance
+2x Delaying Tactics
+8x Forced Awakening
+3x Instinctive Reaction
+
+Combat (33)
+13x Aid from Bats
+1x Canine Horde
+10x Carrion Crows
+1x Drawing Out the Beast
+2x Majesty
+2x Pack Alpha
+2x Target Vitals
+2x Taste of Vitae
+
+Event (1)
+1x NSA Trio

@@ -1,0 +1,60 @@
+Survivalist Qualifier Tour
+Barga, Italy
+April 13th 2014
+2R+F
+22 players
+Enrico De Stefano
+https://www.vekn.net/event-calendar/event/7619
+
+Deck Name: It rains Cats & Dogs!
+
+Crypt (21 cards, min=4, max=15, avg=1.71)
+-----------------------------------------
+15x Tupdog		1    POT VIS		Gargoyle:3
+1x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+1x  Mosfair		4    cel dom tha	Tremere antitribu:4
+1x  Ember Wright	3    aus dom		Tremere antitribu:3
+1x  Keith Moody		3    DOM		Tremere antitribu:4
+1x  Lectora		3    aus tha		Tremere antitribu:4
+1x  Saiz		3    aus dom		Tremere antitribu:3
+
+Library (70 cards)
+Master (12)
+1x Charisma
+3x Direct Intervention
+1x Fame
+1x Golconda: Inner Peace
+1x Mob Connections
+2x Not to Be
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Slave Auction
+
+Action (22)
+1x Aranthebes, The Immortal
+4x Create Gargoyle
+4x Embrace, The
+5x Raw Recruit
+8x Soul of the Earth
+
+Ally (12)
+11x Rock Cat
+1x Vagabond Mystic
+
+Equipment (4)
+1x Gran Madre di Dio, Italy
+3x Heart of Nizchetus
+
+Reaction (6)
+2x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+
+Combat (12)
+4x Disarm
+4x Immortal Grapple
+4x Raking Talons
+
+Event (2)
+1x Dragonbound
+1x Unmasking, The

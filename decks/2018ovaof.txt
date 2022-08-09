@@ -1,0 +1,63 @@
+Outocon VTES Autumn 2018
+Outokumpu, Finland
+September 22nd 2018
+3R+F
+10 players
+Aapo Järvelin
+https://www.vekn.net/event-calendar/event/9008
+
+-- 1GW7 + 3VP in final
+
+Deck Name: Nanarch Animalism
+Created by: Aapo Järvelin
+
+Crypt (12 cards, min=4, max=32, avg=4.08)
+-----------------------------------------
+4x Nana Buruku	  8   ANI POT PRE  Guruhi:4
+4x Anarch Convert 1   -none-	   Caitiff:ANY
+1x Beetleman	  4   ANI obf	   Nosferatu:4
+1x Bobby Lemon	  4   ANI pro	   Gangrel:3
+1x Stick	  3   ANI	   Nosferatu antitribu:4
+1x Mouse	  2   ani	   Nosferatu:3
+
+Library (90 cards)
+Master (29; 5 trifle)
+1x Anarch Free Press, The
+4x Anarch Revolt
+9x Ashur Tablets
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Haven Uncovered
+3x Liquidation
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+4x Vessel
+1x Wider View
+
+Action (11)
+1x Army of Rats
+10x Deep Song
+
+Ally (3)
+1x Carlton Van Wyk
+2x Underbridge Stray
+
+Retainer (4)
+4x Raven Spy
+
+Reaction (15)
+4x Cats' Guidance
+2x Delaying Tactics
+4x On the Qui Vive
+3x Protection Racket
+2x Sense the Savage Way
+
+Combat (28)
+12x Aid from Bats
+1x Canine Horde
+8x Carrion Crows
+1x Groundfighting
+3x Target Vitals
+3x Taste of Vitae

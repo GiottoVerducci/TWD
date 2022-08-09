@@ -1,0 +1,68 @@
+Praxis Seizure: Dallas
+Dallas, Texas
+June 6th 1999
+6 players only
+Michael W. Jones
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/IL5iAHpNlzw
+
+The following is Michael W. Jones' Toreador Vote/Bleed deck that won
+Praxis Seizure: Dallas in June of 1999:
+
+Crypt (13 cards, min=8, max=32, avg=4.77)
+-----------------------------------------
+1x Alexandra			11  ANI AUS CEL PRE dom	 inner circle	Toreador:2
+1x Anson			8   CEL PRE aus dom	 prince		Toreador:1
+1x Tatiana Romanov		7   AUS cel pre		 prince		Toreador:1
+1x Kallista, Master Sculptor	6   AUS CEL pre pro	 		Toreador:1
+1x Rake				6   PRE aus cel pot	 prince		Brujah:1
+1x Felicia Mostrom		5   AUS CEL pre		 		Toreador:1
+1x Demetrius Slater		4   aus cel pre		 		Toreador:1
+1x Dorian Strack		4   AUS cel		 		Toreador:1
+1x Gideon Fontaine		3   PRE			 		Ventrue:1
+1x Isabel de Leon		3   AUS			 		Toreador:2
+1x Delilah Easton		2   pre			 		Toreador:1
+1x Dieter Kleist		2   aus			 		Toreador:1
+1x Antoinette DuChamp		1   cel pre		 		Caitiff:2
+
+Library (80 cards)
+Master (19)
+2x Aching Beauty
+1x Art Museum
+2x Auspex
+4x Blood Doll
+2x Minion Tap
+2x Misdirection
+2x Presence
+1x Secure Haven
+2x Society Hunting Ground
+1x Toreador Grand Ball
+
+Equipment (2)
+1x Palatial Estate
+1x Sport Bike
+
+Political Action (15)
+1x Consanguineous Boon
+4x Conservative Agitation
+1x Disputed Territory
+7x Kine Resources Contested
+1x Praxis Seizure: Paris
+1x Toreador Justicar
+
+Action Modifier (16)
+5x Aire of Elation
+5x Bewitching Oration
+1x Closed Session
+4x Scorn of Adonis
+1x Voter Captivation
+
+Reaction (20)
+1x Delaying Tactics
+1x Dread Gaze
+2x Enhanced Senses
+4x Forced Awakening
+6x Telepathic Counter
+6x Telepathic Misdirection
+
+Combat (8)
+8x Majesty

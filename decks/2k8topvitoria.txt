@@ -1,0 +1,66 @@
+Transfer of Power
+Vitória, Brazil
+February 23rd 2008
+2R+F
+10 players
+Luiz Mello
+
+Deck Name: Feral Royalty
+
+Crypt (12 cards, min=11, max=21, avg=3.92)
+------------------------------------------
+1x Ramona			4   for pro		Gangrel:2
+1x Ramona (ADV)			4   for pro		Gangrel:2
+2x Chandler Hungerford		3   PRO			Gangrel:2
+1x Badger			6   FOR PRO ani pot	Gangrel:1
+1x Bear Paw			5   ANI for pre pro	Gangrel:1
+1x Camille Devereux, The Raven	5   FOR PRO ani		Gangrel:1
+1x Mirembe Kabbada		5   PRO SER ani		Gangrel:2
+1x Roman Alexander		4   ani for pro		Gangrel:1
+1x Anastasia Grey		3   ani pro		Gangrel:1
+1x Ricki Van Demsi		3   for pro		Gangrel:1
+1x Giuliano Vincenzi		2   for			Gangrel:1
+
+Library (90 cards)
+Master (14; 7 trifle)
+1x Backways
+2x Blood Doll
+1x Dummy Corporation
+1x Ecoterrorists
+1x Effective Management
+4x Life in the City
+3x Vessel
+1x Zoo Hunting Ground
+
+Action (8)
+4x Restoration
+4x Third Tradition: Progeny
+
+Political Action (25)
+1x Autarkis Persecution
+6x Consanguineous Boon
+8x Kine Resources Contested
+2x Parity Shift
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Brussels
+1x Praxis Seizure: Dublin
+1x Praxis Seizure: Frankfurt
+1x Praxis Seizure: Glasgow
+1x Praxis Seizure: Rome
+
+Action Modifier (24)
+4x Bribes
+6x Closed Session
+4x Cryptic Rider
+6x Earth Control
+4x Freak Drive
+
+Reaction (4)
+4x Second Tradition: Domain
+
+Combat (15)
+1x Claws of the Dead
+8x Earth Meld
+6x Form of Mist

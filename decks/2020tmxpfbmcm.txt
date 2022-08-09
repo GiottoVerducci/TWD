@@ -1,0 +1,78 @@
+Torneo Mega XP: First Blood
+Mexico City, Mexico
+March 1st 2020
+2R+F
+12 players
+Alejandro Nava Ramírez
+https://www.vekn.net/event-calendar/event/9556
+
+-- 1GW4 + 4VP in final
+
+Deck Name: The COVID-20
+
+Description: This is a deck based on the Shambling Hordes archetype. I have
+built it by looking into many other decks, like the one that was done by "John
+the Trader". Nowadays we are facing some Pandemic that is named COVID 19, and
+since I want to make fun of it, I decided to name this deck after the virus but
+increasing the number 19 to 20 because this decks has 20 Shambling Hordes. The
+main idea is to awake all the Hordes you can as soon as possible, the more
+zombies you would have the merrier you would become. Once the Zombies are
+awaken they should need something to eat, so don't lose your time and send them
+to feast for all the delicious preys served around the table.
+
+Crypt (12 cards, min=12, max=27, avg=4.92)
+------------------------------------------
+2x Andrea Giovanni			7   DOM NEC pot vic	Giovanni:2
+2x Rudolfo Giovanni			3   NEC			Giovanni:2
+1x Gillespi Giovanni			7   DOM NEC POT aus	Giovanni:2
+1x Agaitas, The Scholar of Antiquities	6   AUS NEC for		Harbinger of Skulls:2
+1x Rafaele Giovanni			6   NEC cel obf		Giovanni:2
+1x Isabel Giovanni			5   DOM NEC pot		Giovanni:2
+1x Le Dinh Tho				5   NEC aus dom		Nagaraja:2
+1x Gloria Giovanni			4   DOM nec		Giovanni:2
+1x Cristofero Giovanni			3   nec pot		Giovanni:2
+1x Mario Giovanni			3   nec pot		Giovanni:2
+
+Library (83 cards)
+Master (17; 1 trifle)
+4x Acquired Ventrue Assets
+1x Charisma
+1x Creep Show
+6x Liquidation
+2x Path of Bone, The
+1x Perfectionist
+1x Powerbase: Cape Verde
+1x Tower of London
+
+Action (10)
+1x Chair of Hades
+3x Govern the Unaligned
+1x Haunt
+5x Sudario Refraction
+
+Ally (24)
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+1x Leonardo, Mortician
+20x Shambling Hordes
+1x Tye Cooper
+
+Action Modifier (6)
+5x Call of the Hungry Dead
+1x Foreshadowing Destruction
+
+Action Modifier/Reaction (5)
+5x Spectral Divination
+
+Reaction (4)
+2x Delaying Tactics
+2x Redirection
+
+Combat (15)
+5x Fake Out
+6x Target Vitals
+4x Trap
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

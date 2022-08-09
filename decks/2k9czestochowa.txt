@@ -1,0 +1,74 @@
+Czestochowa by Night
+Czestochowa, Poland
+March 21st 2009
+23 players
+Tomasz Pietkiewicz
+
+Deck Name: Guillaume Powerbleed
+
+Description: This is a modified version of a deck designed by Erik
+Torstensson. Martinelli's Ring was a metagame choice (it appeared I
+predicted the metagame correctly, but the Ring was of no use during
+the tournament).
+
+Crypt (12 cards, min=17, max=36, avg=6.83)
+------------------------------------------
+5x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
+2x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
+1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
+1x Gualtiero Ghiberti		7   DOM NEC cel pot tha	 	  Giovanni:4
+1x Prejudice			4   aus dom nec		 	  Nagaraja:4
+1x Primo Giovanni		4   dom nec pot		 	  Giovanni:4
+1x Lia Milliner			3   dom nec		 	  Giovanni:3
+
+Library (90 cards)
+Master (37; 4 trifle)
+1x Anarch Troublemaker
+1x Barrens, The
+1x Blind Spot
+1x Coven, The
+1x Dis Pater
+1x Dummy Corporation
+1x Filchware's Pawn Shop
+1x Giant's Blood
+1x Information Highway
+1x Insurance Scam
+1x Metro Underground
+1x Misdirection
+1x Monastery of Shadows
+1x Morgue Hunting Ground
+6x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Powerbase: Los Angeles
+3x Secure Haven
+8x Storage Annex
+1x Therbold Realty
+2x Vessel
+
+Action (11)
+1x Dominate Kine
+10x Govern the Unaligned
+
+Equipment (2)
+1x Martinelli's Ring
+1x Palatial Estate
+
+Action Modifier (21)
+7x Call of the Hungry Dead
+5x Conditioning
+7x Seduction
+2x Shroud of Absence
+
+Action Modifier/Reaction (3)
+3x Spectral Divination
+
+Reaction (9)
+8x Deflection
+1x Obedience
+
+Combat (6)
+6x Spiritual Intervention
+
+Event (1)
+1x Anthelios, The Red Star

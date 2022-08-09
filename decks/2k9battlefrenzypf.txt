@@ -1,0 +1,64 @@
+Battle Frenzy
+Paris, France
+November 1st 2009
+22 players
+Orian Gissler
+
+-- 2.5VP in final
+
+Deck Name: saveurs et arômates de France
+
+Description: better but still not the one I was going to play at the EC
+
+Crypt (13 cards, min=4, max=11, avg=1.77)
+-----------------------------------------
+2x Normal		2   obf		 Malkavian:1
+1x Dollface		3   aus obf	 Malkavian:1
+1x Watenda		3   obf		 Malkavian:2
+1x Zöe			3   AUS cel obf	 Malkavian:2
+1x Brazil		2   aus		 Malkavian:1
+1x Ohanna		2   dom		 Malkavian:2
+1x Anarch Convert	1   -none-	 Caitiff:ANY
+1x Antoinette DuChamp	1   cel pre	 Caitiff:2
+1x Franciscus		1   aus		 Caitiff:2
+1x Igo the Hungry	1   pre pro	 Caitiff:1
+1x Nik			1   cel		 Caitiff:1
+1x Smudge the Ignored	1   -none-	 Caitiff:1
+
+Library (60 cards)
+Master (39; 1 trifle)
+3x Ashur Tablets
+7x Brainwash
+2x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+2x Information Highway
+1x Last Stand
+7x Madness Network
+1x Metro Underground
+6x Parthenon, The
+4x Pentex(TM) Subversion
+1x Perfectionist
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+1x Storage Annex
+1x Wash
+
+Action (1)
+1x Constant Revolution
+
+Ally (1)
+1x Ossian
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Political Action (16)
+3x Malkavian Justicar
+1x Parity Shift
+1x Praxis Seizure: Stockholm
+10x Reversal of Fortunes
+1x Rumors of Gehenna
+
+Event (1)
+1x Anthelios, The Red Star

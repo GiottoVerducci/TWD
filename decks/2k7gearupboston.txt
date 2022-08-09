@@ -1,0 +1,77 @@
+Gear Up
+Boston, Massachusetts
+January 28th 2007
+10 players
+Ben Swainbank
+
+Deck Name: Imperial March
+
+This is a kinda Power Tools deck. It's toolboxy with a bunch of power
+cards with a focus on Celerity and Fortitude - combination with which
+I am overly fond and have done to death at this point. It's got enough
+combat to dominate non-fighty decks and hold its own against very
+fighty decks. It's a serious vote presence at the table, lots of
+intercept, and some "big" actions to try and throw down. And some
+Imbued for pool mop-up and other duties as assigned.
+
+Crypt (12 cards, min=16, max=40, avg=6.58)
+------------------------------------------
+4x Jaroslav Pascek		 10  CEL POT PRE for obf  justicar  Brujah:3
+2x Mustafa, The Heir		 6   FOR PRE cel dom	  prince    Ventrue:4
+2x Victor Pelletier		 5   PRE cel dom for	  	    Ventrue:4
+1x Pug Jackson			 6   CEL POT for pre	  primogen  Brujah:3
+1x Fahd al-Zawba'a		 4   cel for pre	  	    Toreador:4
+1x Leaf "Potter116" Pankowski	 4   inn red viz	  	    Redeemer:4
+1x Béatrice "Oracle171" Tremblay 3   inn ven		  	    Innocent:4
+
+Library (90 cards)
+Master (14)
+3x Blood Doll
+1x Celerity
+1x Depravity
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Fortitude
+1x Fragment of the Book of Nod
+1x Giant's Blood
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+1x Ventrue Headquarters
+
+Conviction (3)
+2x Second Sight
+1x Strike with Conviction
+
+Action (6)
+2x Entrancement
+1x Imperial Decree
+3x Judgment: Camarilla Segregation
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (5)
+1x Domain Challenge
+4x Parity Shift
+
+Action Modifier (7)
+2x Aire of Elation
+5x Forced March
+
+Reaction (12)
+12x Second Tradition: Domain
+
+Combat (41)
+4x Blur
+4x Hidden Strength
+4x Psyche!
+10x Pursuit
+4x Skin of Steel
+4x Soak
+3x Taste of Vitae
+7x Weighted Walking Stick
+1x Zip Gun
+
+Event (1)
+1x NSA Trio

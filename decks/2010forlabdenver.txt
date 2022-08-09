@@ -1,0 +1,70 @@
+The Forgotten Labyrinth
+Denver, Colorado
+July 18th 2010
+2R+F
+12 players
+Jon Sushinsky
+
+Deck Name: Corrupt Construction
+
+Player: Jon Sushinsky
+
+Crypt (12 cards, min=15, max=32, avg=5.83)
+------------------------------------------
+4x Little Tailor of Prague 8   ANI AUS VIC dem	Tzimisce:2
+2x Corine Marcón	   6   AUS VIC ani	Tzimisce:2
+2x Lolita Houston	   4   VIC aus		Tzimisce:2
+1x Caliban		   6   ANI AUS VIC	Tzimisce:2
+1x Ana Rita Montaña	   5   VIC aus dom obf	Tzimisce:3
+1x Rose, The		   5   PRE VIC aus	Tzimisce:3
+1x Horatio		   2   vic		Tzimisce:2
+
+Library (87 cards)
+Master (16)
+1x Barrens, The
+3x Blood Doll
+1x Creepshow Casino
+3x Danse Macabre
+1x Dreams of the Sphinx
+2x Fame
+2x Haven Uncovered
+1x Jake Washington
+1x Library Hunting Ground
+1x Specialization
+
+Action (6)
+1x Ambush
+5x Bum's Rush
+
+Ally (15)
+1x Asanbonsam Ghoul
+7x Corrupt Construction
+1x Vagabond Mystic
+6x War Ghoul
+
+Retainer (7)
+1x Corpse Balloon
+1x J. S. Simmons, Esq.
+4x Revenant
+1x Tasha Morgan
+
+Action Modifier (5)
+5x Changeling
+
+Action Modifier/Combat (5)
+5x Plasmic Form
+
+Reaction (14)
+1x My Enemy's Enemy
+5x On the Qui Vive
+5x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (16)
+3x Breath of the Dragon
+6x Meld with the Land
+7x Trap
+
+Event (3)
+2x Dragonbound
+1x Unmasking, The

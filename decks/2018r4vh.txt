@@ -1,0 +1,69 @@
+Round IV
+Vác, Hungary
+December 8th 2018
+2R+F
+14 players
+Balázs Kalóczkai
+https://www.vekn.net/event-calendar/event/9069
+
+-- 2GW5.5 + 3VP in final
+
+Deck Name: Anarch Enkidu 1.1
+
+Crypt (12 cards, min=4, max=44, avg=5)
+--------------------------------------
+4x Enkidu, The Noah		 11  ANI CEL OBF POT PRO for	Gangrel antitribu:4
+4x Anarch Convert		 1   -none-			Caitiff:ANY
+2x Béatrice "Oracle171" Tremblay 3   inn ven			Innocent:4
+1x Andre LeRoux			 3   aus			Toreador:5
+1x T.J.				 3   cel for			Gangrel:4
+
+Library (90 cards)
+Master (18; 8 trifle)
+1x Dabbler
+1x Ennoia's Theater
+2x Fame
+1x Guardian Angel
+2x Infamous Insurgent
+3x Pentex(TM) Subversion
+1x Tension in the Ranks
+2x Vessel
+2x Villein
+2x Wash
+1x Wider View
+
+Conviction (3)
+1x React with Conviction
+1x Second Sight
+1x Strike with Conviction
+
+Action (6)
+5x Make the Misere
+1x Preternatural Strength
+
+Retainer (5)
+2x Homunculus
+1x Jackie Therman
+1x Mr. Winthrop
+1x Raven Spy
+
+Action Modifier (15)
+2x Enkil Cog
+6x Forced March
+7x Instantaneous Transformation
+
+Action Modifier/Combat (5)
+5x Shadow Boxing
+
+Combat (37)
+2x Disarm
+9x Diversion
+3x Donnybrook
+5x Flesh of Marble
+8x Psyche!
+3x Pursuit
+2x Skin of Steel
+5x Taste of Vitae
+
+Event (1)
+1x Dragonbound

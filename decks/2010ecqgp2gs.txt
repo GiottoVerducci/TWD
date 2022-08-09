@@ -1,0 +1,63 @@
+ECQ - Geneva's purge part 2
+Geneva, Switzerland
+September 25th 2010
+3R+F
+15 players
+Marius Iscru
+https://www.vekn.net/event-calendar/event/5655
+
+Deck Name: Carna The Biatch
+
+Description: Some eyes of argus should be added to the deck
+
+Crypt (12 cards, min=18, max=28, avg=5.83)
+------------------------------------------
+4x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+1x Elena Mendoza Vasquez	6   AUS THA dom obt		  Tremere antitribu:3
+1x Eugenio Estevez		6   AUS THA dom for		  Tremere:3
+1x Selena			6   AUS DOM THA			  Tremere antitribu:3
+1x Yasmin the Black		6   AUS THA dom pre		  Tremere antitribu:3
+1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+1x Cohn Rose			5   THA aus dom pre		  Tremere:3
+1x Hannigan			5   AUS THA dom			  Tremere antitribu:2
+1x Blythe Candeleria		3   THA aus			  Tremere:2
+
+Library (90 cards)
+Master (13)
+1x Arcane Library
+7x Blood Doll
+2x Direct Intervention
+1x Erciyes Fragments, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+
+Action (8)
+2x Biothaumaturgic Experiment
+6x Govern the Unaligned
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (4)
+4x Conditioning
+
+Reaction (29)
+4x Eagle's Sight
+4x Enhanced Senses
+6x Forced Awakening
+6x On the Qui Vive
+3x Precognition
+6x Telepathic Misdirection
+
+Combat (32)
+10x Apportation
+2x Aura Reading
+4x Blood Fury
+4x Telepathic Tracking
+10x Theft of Vitae
+2x Walk of Flame

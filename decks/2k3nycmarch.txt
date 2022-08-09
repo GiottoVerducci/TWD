@@ -1,0 +1,60 @@
+Tournament
+New York City, New York
+March 1st 2003
+10 players
+Peter Vabulas
+
+Deck Name: Nosferatu
+
+Description: nossie princes bring out 3rd trad weenies
+bleed with computer hacks, stealth, night moves
+bloat with tributes and con boon
+
+Crypt (12 cards, min=11, max=30, avg=5.42)
+------------------------------------------
+2x Selma the Repugnant	8   OBF POT ani for	prince	Nosferatu:1
+2x Murat		7   OBF POT ser		prince	Nosferatu:2
+2x Nikolaus Vermeulen	7   POT ani for obf	prince	Nosferatu:2
+2x Calebros, The Martyr	5   ANI obf pot		prince	Nosferatu:2
+2x Dimple		2   obf				Nosferatu:1
+1x Laurent de Valois	4   ani dom obf			Nosferatu:2
+1x Duck			3   obf pot			Nosferatu:1
+
+Library (90 cards)
+Master (22)
+1x Direct Intervention
+3x Dominate
+2x Dreams of the Sphinx
+1x Humanitas
+2x Labyrinth, The
+6x Obfuscate
+2x Slum Hunting Ground
+2x Sudden Reversal
+3x Tribute to the Master
+
+Action (28)
+1x Arson
+6x Computer Hacking
+3x Fifth Tradition: Hospitality
+8x Night Moves
+10x Third Tradition: Progeny
+
+Political Action (7)
+4x Consanguineous Boon
+1x Kindred Restructure
+2x Nosferatu Justicar
+
+Action Modifier (13)
+4x Cloak the Gathering
+5x Faceless Night
+4x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (12)
+6x Deflection
+6x Second Tradition: Domain
+
+Combat (5)
+5x Dodge

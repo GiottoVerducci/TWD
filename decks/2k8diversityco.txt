@@ -1,0 +1,67 @@
+Diversity
+Columbus, Ohio
+June 25th 2008
+2R+F
+25 players
+James Messer
+
+Deck Name: Gothy Pants Blocks
+
+Crypt (12 cards, min=32, max=40, avg=9)
+---------------------------------------
+3x Anneke	   10  AUS CEL PRE dom		justicar  Toreador:1
+3x François Villon 10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+3x Anson	   8   CEL PRE aus dom		prince	  Toreador:1
+3x Marcellus	   8   AUS CEL pro		prince	  Toreador:2
+
+Library (90 cards)
+Master (13)
+2x Art Museum
+4x Blood Doll
+1x Erciyes Fragments, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Society Hunting Ground
+1x Tension in the Ranks
+
+Action (7)
+4x Enchant Kindred
+1x Imperial Decree
+2x Nose of the Hound
+
+Equipment (6)
+5x .44 Magnum
+1x Bowl of Convergence
+
+Political Action (2)
+1x Ancient Influence
+1x Political Stranglehold
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Reaction (25)
+2x Enhanced Senses
+1x On the Qui Vive
+3x Quicken Sight
+12x Second Tradition: Domain
+2x Spirit's Touch
+4x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (33)
+2x Aura Reading
+4x Blur
+5x Concealed Weapon
+3x Flash
+2x Majesty
+3x Psyche!
+6x Pursuit
+2x Side Strike
+2x Sideslip
+4x Taste of Vitae
+
+Event (1)
+1x Dragonbound

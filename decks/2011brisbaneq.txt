@@ -1,0 +1,49 @@
+Brisbane 2011 Qualifier
+Annerley, Brisbane, Australia
+March 19th 2011
+10 players
+Maile Walker
+
+Deck Name: Indifference
+
+Crypt (12 cards, min=12, max=36, avg=5.83)
+------------------------------------------
+5x Alvaro, The Scion of Angelica 9   OBT POT dom pre	archbishop  Lasombra:2
+1x Guido Lucciano		 5   OBT dom obf		    Lasombra:2
+1x Ignacio, The Black Priest	 4   dom obt pot		    Lasombra:2
+1x Quincy, The Trapper		 4   dom myt obt		    Kiasyd:3
+1x Ramiro			 4   dom obt vic		    Lasombra:2
+1x Tabitha Fisk			 4   obt pot pro		    Lasombra:3
+1x Aaron Duggan, Cameron's Toady 2   obt			    Lasombra:2
+1x Mitchell, The Headhunter	 2   obt pot			    Pander:2
+
+Library (90 cards)
+Master (18)
+4x Black Forest Base
+2x Elysian Fields
+8x Minion Tap
+2x Political Hunting Ground
+2x Power Structure
+
+Political Action (20)
+1x Ancient Influence
+6x Consanguineous Boon
+1x Crusade: Amsterdam
+1x Crusade: Berlin
+2x My Kin Against the World
+1x Reins of Power
+4x Rumors of Gehenna
+4x Sabbat Priest
+
+Action Modifier (28)
+9x Shadow Play
+9x Shroud of Night
+10x Threats
+
+Reaction (16)
+8x Deflection
+8x On the Qui Vive
+
+Combat (8)
+2x Entombment
+6x Oubliette

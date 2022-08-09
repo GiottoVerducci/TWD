@@ -1,0 +1,64 @@
+Metagame Tournament III
+Budapest, Hungary
+April 20th 2013
+3R+F
+12 players
+Baksa Nándor Peti
+
+-- 2VP in final
+
+Deck Name: Tábla meg Pipi
+Created by: Kovács István
+
+Crypt (12 cards, min=20, max=33, avg=6.83)
+------------------------------------------
+2x Calebos			8   ANI OBF POT cel	 bishop		Nosferatu antitribu:2
+2x Mateusz Gryzbowsky		8   ANI OBF POT		 		Nosferatu antitribu:3
+2x Teresita, The Godmother	7   ANI OBF POT for	 		Nosferatu antitribu:3
+2x Ox, Viceroy of the Hollows	6   ANI OBF POT		 		Nosferatu antitribu:2
+1x Aeron			9   ANI OBF POT aus pro	 archbishop	Nosferatu antitribu:3
+1x Kendrick			7   ANI POT aus obf	 priscus	Nosferatu antitribu:2
+1x Nigel the Shunned		5   ANI POT obf		 		Nosferatu antitribu:2
+1x Tommy			3   ani pot		 		Nosferatu antitribu:2
+
+Library (89 cards)
+Master (16; 2 trifle)
+1x Archon Investigation
+3x Blood Doll
+1x Depravity
+2x Fame
+1x Information Network
+1x Mundane
+1x Nosferatu Kingdom
+1x Rack, The
+2x Sudden Reversal
+1x Tension in the Ranks
+2x Vessel
+
+Action (11)
+2x Arson
+2x Bum's Rush
+4x Deep Song
+1x Rumble
+2x Taunt the Caged Beast
+
+Retainer (3)
+3x Raven Spy
+
+Reaction (22)
+7x Cats' Guidance
+2x Confusion of the Eye
+3x Forced Awakening
+3x Guard Dogs
+2x Lost in Translation
+5x Sense the Savage Way
+
+Combat (37)
+2x Canine Horde
+7x Carrion Crows
+2x Drawing Out the Beast
+3x Glancing Blow
+8x Immortal Grapple
+5x Slam
+4x Taste of Vitae
+6x Torn Signpost

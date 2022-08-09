@@ -1,0 +1,72 @@
+War Party #20
+Bydgoszcz, Poland
+June 24th 2011
+2R+F
+15 players
+Krzysztof Szwed
+
+Deck Name: Ravnos LCQ by Ferenc Vasadi
+Created by: Krzysztof Szwed based on deck designed by Ferenc Vasadi
+
+Description: I played this deck for six months. During that time
+I have been trying to improve it, but there is no need to do so.
+This is a solid design that works very well as it is.
+
+Crypt (12 cards, min=10, max=32, avg=5.25)
+------------------------------------------
+4x Gabrin			8   ANI CHI dom for	Ravnos:2
+1x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
+1x Vaclav Petalengro		6   ANI CHI for pot	Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
+1x Tsigane			3   aus chi		Ravnos:2
+1x Vedel Esbreno		3   chi for		Ravnos:2
+1x Sasha Miklos			2   chi			Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+
+Library (90 cards)
+Master (15; 3 trifle)
+2x Blood Doll
+1x Kumpania
+1x Park Hunting Ground
+1x Path of Paradox, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Rack, The
+2x Smiling Jack, The Anarch
+3x Vessel
+1x Week of Nightmares
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Army of Rats
+
+Action/Reaction (9)
+9x Draba
+
+Equipment (3)
+1x Shilmulo Tarot
+1x Sniper Rifle
+1x Treasured Samadji
+
+Retainer (5)
+1x Mr. Winthrop
+4x Raven Spy
+
+Action Modifier/Combat (3)
+3x Mirror Image
+
+Reaction (31)
+8x Cats' Guidance
+5x Deflection
+5x Forced Awakening
+7x Ignis Fatuus
+3x On the Qui Vive
+3x Sense the Savage Way
+
+Combat (22)
+8x Apparition
+2x Canine Horde
+10x Carrion Crows
+1x Mayaparisatya
+1x Trap

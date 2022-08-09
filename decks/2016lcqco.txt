@@ -1,0 +1,53 @@
+LCQ Columbus
+Columbus Convention Centre, Ohio
+June 16th 2016
+2R+F
+30 players
+Randal Rudstam
+
+Deck Name: Reflections on life and death
+
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Josef von Bauren 11	ANI DEM OBF POT cel	 inner circle	Nosferatu:4
+4x Thucimia	    10	CEL DEM OBF QUI for pro	 1 vote		Assamite:4
+4x Unmada	    10	AUS DEM OBF VIC cel for	 justicar	Malkavian:5
+
+Library (69 cards)
+Master (22; 5 trifle)
+1x Direct Intervention
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+5x Villein
+1x Warsaw Station
+11x Zillah's Valley
+
+Action (14)
+6x Dark Mirror of the Mind
+8x Kindred Spirits
+
+Political Action (3)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Banishment
+
+Action Modifier (26)
+1x Cloak the Gathering
+5x Confusion
+2x Elder Impersonation
+1x Enkil Cog
+3x Eyes of Chaos
+2x Faceless Night
+7x Forced March
+1x Into Thin Air
+3x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (3)
+1x Deny
+1x Hide the Mind
+1x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Touch of Clarity

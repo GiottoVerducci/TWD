@@ -1,0 +1,81 @@
+Igoli's Loyalty
+Cape Town, South Africa
+March 17th 2007
+10 players
+Demetrios Papadatos
+
+Deck Name: PETRA'S BROOD
+
+Crypt (12 cards, min=11, max=24, avg=4.42)
+------------------------------------------
+2x Petra			5   ANI OBF aus			  Nosferatu:4
+2x Clarissa Steinburgen		3   ani obf			  Nosferatu:3
+1x Jara Drory			7   ANI OBF aus pot	primogen  Nosferatu:3
+1x Alonzo Guillen		6   OBF ani for pot		  Nosferatu:3
+1x Sundown			6   ANI POT obf pre		  Nosferatu:3
+1x Amelia, The Blood Red Tears	5   POT ani obf			  Nosferatu:3
+1x Gemini			5   OBF ani obt pot		  Nosferatu:3
+1x Darva Felispa		3   ani pot			  Nosferatu:3
+1x Stick			3   ANI				  Nosferatu antitribu:4
+1x Mouse			2   ani				  Nosferatu:3
+
+Library (90 cards)
+Master (21; 5 trifle)
+5x Animalism
+4x Blood Doll
+1x Direct Intervention
+1x Labyrinth, The
+5x Life in the City
+1x London Evening Star, Tabloid Newspaper
+2x Obfuscate
+1x Slum Hunting Ground
+1x Vox Domini
+
+Action (8)
+1x Army of Rats
+1x Arson
+1x Bum's Rush
+2x Computer Hacking
+1x Harass
+1x Patagia: Flaps Allowing Limited Flight
+1x Tier of Souls
+
+Ally (1)
+1x Procurer
+
+Equipment (3)
+1x Desert Eagle
+2x Leather Jacket
+
+Political Action (1)
+1x Nosferatu Justicar
+
+Retainer (5)
+1x Murder of Crows
+1x Owl Companion
+2x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (10)
+3x Cloak the Gathering
+3x Faceless Night
+1x Hidden Lurker
+3x Lost in Crowds
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Reaction (12)
+5x Cats' Guidance
+1x Confusion of the Eye
+4x Forced Awakening
+2x Instinctive Reaction
+
+Combat (23)
+6x Aid from Bats
+3x Behind You!
+2x Canine Horde
+6x Carrion Crows
+2x Scorpion Sting
+2x Song in the Dark
+2x Terror Frenzy

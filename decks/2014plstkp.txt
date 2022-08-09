@@ -1,0 +1,78 @@
+Polish League's Second tournament
+Katowice, Poland
+January 25th 2014
+3R+F
+14 players
+Radoslaw Staszewski
+
+Deck Name: Cybele with Cats!
+
+Description: Be nice and try to kill someone
+
+Crypt (15 cards, min=4, max=40, avg=4)
+--------------------------------------
+8x Tupdog	  1   POT VIS			Gargoyle:3
+5x Cybele	  10  ANI DAI OBF PRE SER THA	Baali:4
+2x Anarch Convert 1   -none-			Caitiff:ANY
+
+Library (86 cards)
+Master (30; 2 trifle)
+2x Anarch Revolt
+9x Ashur Tablets
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Fortitude
+1x Fortschritt Library
+1x Golconda: Inner Peace
+1x Jake Washington
+3x Liquidation
+1x Monastery of Shadows
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Secure Haven
+1x Sudden Reversal
+1x Villein
+1x Wider View
+
+Action (5)
+3x Entrancement
+2x Unleash Hell's Fury
+
+Ally (14)
+1x Carlton Van Wyk
+3x Herald of Topheth
+1x Mylan Horseed
+1x Ossian
+7x Rock Cat
+1x Veneficti
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (22)
+2x Cloak the Gathering
+3x Elder Impersonation
+1x Enkil Cog
+1x Faceless Night
+1x Forgotten Labyrinth
+4x I am Legion
+1x Into Thin Air
+1x Mirror Walk
+1x Perfect Paragon
+3x Psychomachia
+1x Spying Mission
+3x Truth of a Thousand Lies
+
+Combat (9)
+4x Disarm
+4x Immortal Grapple
+1x Target Vitals
+
+Event (5)
+1x Anthelios, The Red Star
+1x Dragonbound
+1x FBI Special Affairs Division
+1x Recalled to the Founder
+1x Unmasking, The

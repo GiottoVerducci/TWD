@@ -1,0 +1,89 @@
+Sweet Dreams
+São Paulo, Brazil
+December 14th 2014
+3R+F
+20 players
+Desso Alastor
+https://www.vekn.net/event-calendar/event/7547
+
+-- 2VP in final
+
+Deck Name: Methuselah
+
+Crypt (23 cards, min=4, max=36, avg=3.48)
+-----------------------------------------
+4x Nana Buruku		   8   ANI POT PRE		Guruhi:4
+2x Cybele		   10  ANI DAI OBF PRE SER THA	Baali:4
+1x Almiro Suarez	   2   aus			Tremere:3
+1x Arnold Simpson	   2   pot			Brujah:3
+1x Bloodfeud		   2   obf			Malkavian antitribu:4
+1x Clifton Derrik	   2   cel			Brujah:4
+1x Emerson Wilkershire III 2   pre			Toreador:3
+1x Jesús Alcalá		   2   cel			Gangrel antitribu:3
+1x Justine Chen, Innocent  2   pre			Toreador antitribu:4
+1x Krid			   2   obf			Nosferatu:3
+1x Misrak		   2   pot			Osebo:4
+1x Mouse		   2   ani			Nosferatu:3
+1x Old Neddacka		   2   obf			Nosferatu antitribu:4
+1x Basir		   1   qui			Assamite:4
+1x Feo Ramos		   1   aus			Pander:3
+1x Lisa Noble		   1   ani			Caitiff:3
+1x Margarite		   1   obt			Pander:4
+1x Nedal, The Careless	   1   cel nec			Caitiff:3
+1x Olga Triminov	   1   vic			Pander:3
+
+Library (90 cards)
+Master (76; 5 trifle)
+2x Archon Investigation
+9x Ashur Tablets
+2x Direct Intervention
+2x Dreams of the Sphinx
+3x Dummy Corporation
+4x Effective Management
+1x Elder Library
+1x Emergency Preparations
+1x Fear of Mekhet
+3x Golconda: Inner Peace
+1x Illegal Search and Seizure
+2x Information Highway
+1x Jake Washington
+1x Life Boon
+3x Liquidation
+5x Major Boon
+2x Malkavian Dementia
+1x Millicent Smith, Puritan Vampire Hunter
+1x Misdirection
+1x Not to Be
+5x Parthenon, The
+2x Pentex(TM) Subversion
+1x Protected Resources
+1x Sermon of Caine
+1x Smiling Jack, The Anarch
+1x Society of Leopold
+1x Sudden Reversal
+2x Sunset Strip, Hollywood
+4x Tribute to the Master
+1x Unnatural Disaster
+4x Vampiric Disease
+3x Villein
+1x Vox Domini
+1x Vulnerability
+2x Wash
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (3)
+1x Alia, God's Messenger
+1x Carlton Van Wyk
+1x Ossian
+
+Event (10)
+3x Anthelios, The Red Star
+1x Blood Weakens
+1x Break the Code
+1x Narrow Minds
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Veil of Darkness

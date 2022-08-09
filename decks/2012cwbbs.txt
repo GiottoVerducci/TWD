@@ -1,0 +1,82 @@
+Coldest Winter
+Badalona, Barcelona, Spain
+January 29th 2012
+3R+F
+19 players
+Genís Prats
+
+-- 4VP in final
+
+Deck Name: Alamut's Horror Museum
+
+Description: Score: 4 + 0 + 4 + 4 (final)
+
+Crypt (12 cards, min=5, max=17, avg=2.67)
+-----------------------------------------
+3x Anarch Convert  1   -none-		Caitiff:ANY
+2x Tansu Bekir	   4   OBF cel		Assamite:2
+1x Badr al-Budur   5   OBF cel dom qui	Assamite:2
+1x Anwar	   4   cel obf qui	Assamite:2
+1x Ali Kar	   3   obf qui		Assamite:3
+1x Harika Guljan   3   QUI		Assamite:2
+1x Horatio	   2   vic		Tzimisce:2
+1x Kanya Akhtar	   2   cel		Assamite:2
+1x Piotr Andreikov 2   aus		Tzimisce:3
+
+Library (80 cards)
+Master (27; 8 trifle)
+6x Agent of Power
+6x Ashur Tablets
+1x Creepshow Casino
+2x Direct Intervention
+1x Fame
+1x Fortschritt Library
+4x Jake Washington
+1x Lilith's Blessing
+2x Parthenon, The
+1x Pentex(TM) Subversion
+2x Vessel
+
+Action (10)
+2x Haqim's Law: Leadership
+1x Pressing Flesh
+7x Summon History
+
+Ally (17)
+1x Carlton Van Wyk
+1x Cry Wolf
+2x Deviki Prasanta
+1x Ghouls of Plaza Morería, The
+1x High Top
+1x Muddled Vampire Hunter
+1x Ossian
+1x Political Ally
+1x Ponticulus
+1x Tye Cooper
+1x Vagabond Mystic
+1x Veneficti
+3x War Ghoul
+1x Young Bloods
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+
+Action Modifier (14)
+5x Cloak the Gathering
+3x Forgotten Labyrinth
+3x Lost in Crowds
+3x Veil the Legions
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (2)
+2x Trap
+
+Event (6)
+1x Anthelios, The Red Star
+1x Dragonbound
+1x FBI Special Affairs Division
+1x Slow Withering, The
+2x Unmasking, The

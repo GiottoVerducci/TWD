@@ -1,0 +1,63 @@
+Lost in Translation
+Lisboa, Portugal
+February 21st 2015
+3R+F
+12 players
+Ricardo Marta
+https://www.vekn.net/event-calendar/event/7997
+
+-- 5VP in final
+
+Deck Name: Mono Presence (Grupo 1 & 2)
+
+Crypt (15 cards, min=5, max=20, avg=3.4)
+----------------------------------------
+1x Angela Preston			5   MEL PRE for		Daughter of Cacophony:2
+1x Brachah				5   CEL PRE for		Brujah:2
+1x Jazz Wentworth			5   PRE dom for		Ventrue:1
+1x Ramiel DuPre				5   PRE aus cel dom	Toreador:1
+1x Ranjan Rishi, Camarilla Scholar	5   DOM PRE for		Ventrue:2
+1x Rigby, Crusade Vanguard		5   CEL PRE aus pot	Brujah antitribu:2
+1x Sir Marriot D'Urban			5   PRE aus obf ser	Follower of Set:2
+1x Violette Prentiss			4   PRE dom		Ventrue:1
+1x Gideon Fontaine			3   PRE			Ventrue:1
+1x Delilah Easton			2   pre			Toreador:1
+1x Frederick the Weak			2   pre			Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez	2   pre			Brujah:2
+1x Angela Decker			1   pre			Pander:2
+1x Antoinette DuChamp			1   cel pre		Caitiff:2
+1x Igo the Hungry			1   pre pro		Caitiff:1
+
+Library (90 cards)
+Master (24; 11 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+6x Effective Management
+1x Giant's Blood
+1x Information Highway
+10x Life in the City
+2x Misdirection
+1x Pentex(TM) Subversion
+1x Two Wrongs
+
+Action (35)
+4x Enchant Kindred
+2x Entrancement
+8x Legal Manipulations
+3x Media Influence
+6x Mind Numb
+2x Propaganda
+6x Public Trust
+4x Social Charm
+
+Action Modifier (14)
+8x Aire of Elation
+4x Change of Target
+2x Daring the Dawn
+
+Combat (16)
+10x Majesty
+6x Staredown
+
+Event (1)
+1x Narrow Minds

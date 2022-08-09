@@ -1,0 +1,58 @@
+NAC Qualifier Colorado
+Wheatridge, Colorado
+March 5th 2011
+3R+F
+12 players
+Burt Sheldon
+
+Crypt (12 cards, min=10, max=20, avg=3.75)
+------------------------------------------
+1x Amelia, The Blood Red Tears	5   POT ani obf		Nosferatu:3
+1x Bernard, The Scourge		5   ani for pre pro	Gangrel:4
+1x Gemini			5   OBF ani obt pot	Nosferatu:3
+1x Petra			5   ANI OBF aus		Nosferatu:4
+1x Beetleman			4   ANI obf		Nosferatu:4
+1x Gustavo Morales		4   ani cel for		Gangrel:3
+1x Jezebelle			4   ani for pro		Gangrel:4
+1x Bothwell			3   ani for		Gangrel:3
+1x Darva Felispa		3   ani pot		Nosferatu:3
+1x Stick			3   ANI			Nosferatu antitribu:4
+1x Mouse			2   ani			Nosferatu:3
+1x Zip				2   ani			Ravnos:3
+
+Library (90 cards)
+Master (32; 8 trifle)
+4x Anarch Revolt
+9x Animalism
+1x Blood Puppy
+1x Elder Library
+3x Galaric's Legacy
+2x Heidelberg Castle, Germany
+1x Inbase Discotek, Frankfurt
+1x Kingston Penitentiary, Ontario
+1x Metro Underground
+1x Powerbase: Chicago
+1x Slum Hunting Ground
+1x Smiling Jack, The Anarch
+5x Vessel
+1x Zoo Hunting Ground
+
+Action (2)
+2x Army of Rats
+
+Ally (4)
+4x Procurer
+
+Retainer (10)
+1x Owl Companion
+3x Raptor
+6x Raven Spy
+
+Reaction (10)
+10x Cats' Guidance
+
+Combat (32)
+15x Aid from Bats
+8x Carrion Crows
+5x Drawing Out the Beast
+4x Pack Alpha

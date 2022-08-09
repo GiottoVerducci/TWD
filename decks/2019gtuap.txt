@@ -1,0 +1,67 @@
+Govern the Unaligned
+Duelos de Honra, Amadora, Portugal
+March 9th 2019
+2R+F
+10 players
+Diogo Pratas
+https://www.vekn.net/event-calendar/event/9213
+
+-- 0gw2.5 + 3VP in final
+
+Deck Name: Nephanders
+
+Crypt (12 cards, min=8, max=20, avg=3.5)
+----------------------------------------
+5x Antonio d'Erlette		 5   THA dom for pot	Tremere antitribu:4
+2x Béatrice "Oracle171" Tremblay 3   inn ven		Innocent:4
+2x Anarch Convert		 1   -none-		Caitiff:ANY
+1x Ember Wright			 3   aus dom		Tremere antitribu:3
+1x Keith Moody			 3   DOM		Tremere antitribu:4
+1x Saiz				 3   aus dom		Tremere antitribu:3
+
+Library (80 cards)
+Master (35; 1 trifle)
+1x Archon Investigation
+12x Ashur Tablets
+1x Direct Intervention
+1x Fame
+1x Fortschritt Library
+1x Frontal Assault
+3x Haven Uncovered
+1x Jake Washington
+5x Liquidation
+5x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Sudden Reversal
+1x Wider View
+
+Conviction (3)
+1x React with Conviction
+1x Second Sight
+1x Strike with Conviction
+
+Ally (13)
+1x Carlton Van Wyk
+1x Gregory Winter
+8x Nephandus
+1x Ossian
+1x Vagabond Mystic
+1x Young Bloods
+
+Reaction (10)
+5x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+
+Combat (15)
+2x Dodge
+3x Fake Out
+1x Molotov Cocktail
+5x Target Vitals
+4x Trap
+
+Event (4)
+1x Dragonbound
+1x Slow Withering, The
+2x Unmasking, The

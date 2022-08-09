@@ -1,0 +1,68 @@
+Jungle Party
+Manaus, Brazil
+July 16th 2016
+2R+F
+16 players
+Regina Araújo
+https://www.vekn.net/event-calendar/event/8417
+
+-- 4VP in final
+
+Deck Name: The Blue Blood (Os Sangue Azul)
+
+Crypt (12 cards, min=34, max=43, avg=9.75)
+------------------------------------------
+3x Hardestadt		11  DOM FOR POT PRE cel pro	inner circle	Ventrue:4
+3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+2x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+1x Gustav Breidenstein	10  DOM FOR PRE aus cel pot	prince		Ventrue:4
+1x Jaroslav Pascek	10  CEL POT PRE for obf		justicar	Brujah:3
+1x Johannes Castelein	9   DEM DOM FOR PRE		prince		Ventrue:4
+1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+
+Library (90 cards)
+Master (20; 3 trifle)
+1x Archon Investigation
+1x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+1x Golconda: Inner Peace
+4x Minion Tap
+5x Obfuscate
+1x Secure Haven
+1x Uptown Hunting Ground
+1x Ventrue Headquarters
+3x Vessel
+
+Political Action (18)
+1x Ancient Influence
+3x Ancilla Empowerment
+1x Disputed Territory
+11x Kine Resources Contested
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (28)
+5x Bewitching Oration
+2x Cloak the Gathering
+3x Elder Impersonation
+5x Forgotten Labyrinth
+5x Lost in Crowds
+8x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (3)
+3x Redirection
+
+Combat (17)
+1x Indomitability
+1x Jua Vema
+7x Majesty
+1x Skin of Night
+3x Skin of Steel
+4x Superior Mettle
+
+Combat/Reaction (2)
+2x Bliss

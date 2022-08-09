@@ -1,0 +1,84 @@
+Week of Nightmares - Thursday
+Los Angeles, California
+September 20th 2007
+2R+F
+29 players
+Ian Lee
+
+Deck Name: Pale Panda Warriors
+
+In theory, this fat Pander deck taps people with various
+special abilities and Majesty's and supposedly does pool
+damage. In practice, bounce is pretty good, especially
+with evasion bleed as predator (prelim round), and hanging
+around accidentally results in VPs (finals).
+
+"This deck looks tame out of the gate and seemed to have
+it's trouble aganst my AUS intercept deck. But I stood
+corrected as I faced this menace in the final only to fall
+helplessly as his predator to the floor. I was amazing at
+the glorious victory he pulled out in the final seconds of
+the match to crush the Lasombra." - Mike Courtois
+
+Crypt (12 cards, min=18, max=39, avg=7)
+---------------------------------------
+1x Melinda Galbraith	   10  AUS CEL DOM POT PRE obt	cardinal    Lasombra:4
+1x Melinda Galbraith (ADV) 10  AUS CEL DOM POT PRE obt	bishop	    Toreador antitribu:4
+1x Alfred Benezri (ADV)	   7   PRE THA aus dom		bishop	    Pander:3
+2x Matthew Romans	   7   AUS OBF OBT pot			    Pander:4
+1x Alfred Benezri	   6   PRE THA aus dom		bishop	    Pander:3
+2x Caroline Bishops	   3   cel for pot			    Pander:4
+1x Lucubratio		   10  AUS DOM POT PRE THA	archbishop  Tremere antitribu:4
+1x Alicia Barrows	   9   AUS DEM OBF POT PRE	archbishop  Malkavian antitribu:4
+1x Father Juan Carlos	   6   PRE aus cel pot tha		    Brujah antitribu:4
+1x Nickolai, The Survivor  6   aus dom pot pre tha vic		    Tremere antitribu:4
+
+Library (75 cards)
+Master (14)
+2x Auspex
+1x Barrens, The
+4x Blood Doll
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Information Highway
+1x Joseph Pander
+3x Minion Tap
+
+Action (7)
+1x Enchant Kindred
+3x Entrancement
+3x Epiphany
+
+Ally (1)
+1x Ghouled Street Thug
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Banishment
+1x Cardinal Benediction
+2x Consanguineous Boon
+1x Disputed Territory
+3x Kine Resources Contested
+3x Legacy of Pander
+1x Reins of Power
+
+Action Modifier (9)
+1x Aire of Elation
+4x Iron Glare
+4x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (15)
+3x On the Qui Vive
+1x Quicken Sight
+7x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (13)
+2x Fake Out
+9x Majesty
+1x Stunt Cycle
+1x Thrown Sewer Lid

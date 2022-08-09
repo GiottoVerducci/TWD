@@ -1,0 +1,59 @@
+Eyes of the Dead
+Helsinki, Finland
+March 19th 2011
+3R+F
+15 players
+Matias Frosterus
+
+-- 3VP in final
+
+Deck Name: Pride, Presence, Princes and Prejudice
+
+Mono PRE deck that uses cheap Princes for defense via
+Second Tradition and pool gain via Parity Shift.
+It's easyish to get through by proper negotiating
+even without any vote push.
+
+Crypt (12 cards, min=16, max=24, avg=4.83)
+------------------------------------------
+2x Mustafa, The Heir	6   FOR PRE cel dom	prince	  Ventrue:4
+2x Tara			6   POT PRE cel		prince	  Brujah:5
+1x Shasa Abu Badr	5   PRE cel for			  Ishtarri:4
+1x Victor Pelletier	5   PRE cel dom for		  Ventrue:4
+1x Antoinette Dubois	4   PRE for mel			  Daughter of Cacophony:4
+1x Bethany Ray		4   PRE aus			  Toreador:5
+1x Lumumba		4   PRE ani			  Guruhi:4
+1x Marla Kenyon		4   PRE ser			  Follower of Set:4
+1x Reginald Moore	4   PRE			primogen  Brujah:4
+1x Reverend Adams (ADV)	4   PRE aus			  Ventrue:4
+
+Library (64 cards)
+Master (13; 6 trifle)
+1x Dreams of the Sphinx
+1x Effective Management
+1x Information Highway
+1x Jake Washington
+6x Life in the City
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Prophecies of Gehenna
+
+Action (19)
+8x Enchant Kindred
+2x Entrancement
+9x Legal Manipulations
+
+Political Action (3)
+3x Parity Shift
+
+Action Modifier (12)
+5x Aire of Elation
+6x Change of Target
+1x Leverage
+
+Reaction (7)
+7x Second Tradition: Domain
+
+Combat (10)
+5x Majesty
+5x Staredown

@@ -1,0 +1,53 @@
+Fall Of The Camarilla
+Belgrade, Serbia
+June 30th 2012
+3R+F
+10 players
+Vedran Simunec
+
+-- 4VP in final
+
+Deck Name: Dem bleed 2
+
+Description: Standard DEM s&b.
+
+Crypt (12 cards, min=9, max=19, avg=3.42)
+-----------------------------------------
+2x Jackie			3   DEM				    Malkavian antitribu:4
+2x Midget			3   DEM obf pre			    Malkavian antitribu:3
+1x Apache Jones			5   DEM aus for obf		    Malkavian antitribu:4
+1x Persia, The Beautiful Statue	5   DEM aus obf			    Malkavian:3
+1x Uncle George			5   DEM aus dom obf		    Malkavian antitribu:3
+1x Fabrizia Contreraz		4   dem pot		archbishop  Malkavian antitribu:4
+1x Sean Rycek			4   aus dem			    Malkavian:4
+1x Marta			3   aus dem			    Malkavian antitribu:4
+1x Cassandra Langely, The Waif	2   dem				    Malkavian:4
+1x Eddie Gaines			1   dem pot			    Caitiff:3
+
+Library (80 cards)
+Master (15; 2 trifle)
+1x Bleeding the Vine
+4x Dementation
+3x Effective Management
+1x Information Highway
+2x Misdirection
+2x Pentex(TM) Subversion
+2x Wash
+
+Action (25)
+25x Kindred Spirits
+
+Action Modifier (29)
+16x Confusion
+10x Eyes of Chaos
+3x Mind Tricks
+
+Action Modifier/Combat (8)
+8x Deny
+
+Combat (1)
+1x Coma
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

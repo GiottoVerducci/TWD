@@ -1,0 +1,60 @@
+Italian NCQ
+Turin, Italy
+September 8th 2013
+2R+F
+19 players
+Pau Vilar
+
+-- 3VP in final
+
+Deck Name: The Long March of Princes
+
+Crypt (12 cards, min=17, max=28, avg=5.5)
+-----------------------------------------
+4x Victor Pelletier	5   PRE cel dom for	 	   Ventrue:4
+3x Mustafa, The Heir	6   FOR PRE cel dom	 prince	   Ventrue:4
+1x Dmitra Ilyanova	9   CEL FOR POT PRE obf	 justicar  Brujah:5
+1x Ubende		7   CEL PRE for obf qui	 magaji	   Ishtarri:4
+1x Shasa Abu Badr	5   PRE cel for		 	   Ishtarri:4
+1x Fahd al-Zawba'a	4   cel for pre		 	   Toreador:4
+1x Panya, The Wicked	3   cel pre		 	   Ishtarri:4
+
+Library (70 cards)
+Master (10; 1 trifle)
+1x Dark Influences
+1x Dreams of the Sphinx
+2x Hostile Takeover
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Temptation of Greater Power
+1x Ventrue Headquarters
+1x Visit from the Capuchin
+1x Wider View
+
+Action (14)
+7x Enchant Kindred
+4x Entrancement
+3x Mind Numb
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (14)
+7x Kine Resources Contested
+2x Neonate Breach
+5x Parity Shift
+
+Action Modifier (21)
+5x Aire of Elation
+2x Daring the Dawn
+5x Forced March
+2x Freak Drive
+2x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Reaction (3)
+1x Ishtarri Kholo
+2x Scalpel Tongue
+
+Combat (7)
+7x Majesty

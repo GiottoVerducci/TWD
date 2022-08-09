@@ -1,0 +1,62 @@
+You Ain't My Baby's Daddy
+Columbus, Ohio
+January 31st 2004
+27 players
+Matt Flint
+
+Deck Name: You ARE My Baby's Daddy!
+
+Description: Tournament winning deck for
+You Ain't My Baby's Daddy: Columbus
+Concept: As appropriate for a tournament named such, get out a few
+!Torries and start breeding. Once you have between 5-9 minions,
+start bleeding with Palla Grande out. Bloat and Greta + bounce for
+defence. Only works in low intercept environments.
+
+Crypt (12 cards, min=11, max=26, avg=4.75)
+------------------------------------------
+2x Greta Kircher		7   AUS CEL PRE obf	Toreador antitribu:2
+2x Jost Werner			6   AUS PRE ani		Toreador antitribu:2
+1x Sheila Mezarin		6   AUS PRE cel for	Toreador antitribu:2
+1x Creamy Jade			5   PRE aus cel vic	Toreador antitribu:3
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre	Toreador antitribu:2
+1x Remilliard, Devout Crusader	4   AUS pre		Toreador antitribu:2
+1x Sabrina			4   aus cel pre		Toreador antitribu:3
+1x Lolita			3   for pre		Toreador antitribu:2
+1x Carter			2   cel			Toreador antitribu:2
+1x Nicholas Chang		2   aus			Toreador antitribu:3
+
+Library (70 cards)
+Master (12; 1 trifle)
+2x Anarch Troublemaker
+1x Bleeding the Vine
+1x Fetish Club Hunting Ground
+1x Foundation Exhibit
+1x Hungry Coyote, The
+1x Life in the City
+3x Palla Grande
+1x Rack, The
+1x Sunset Strip, Hollywood
+
+Action (26)
+6x Art Scam
+7x Embrace, The
+4x Enchant Kindred
+2x Entrancement
+3x Mind Numb
+4x Patronage
+
+Equipment (2)
+2x .44 Magnum
+
+Action Modifier (4)
+4x Change of Target
+
+Reaction (14)
+8x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (12)
+2x Concealed Weapon
+8x Majesty
+2x Mask Empathy

@@ -1,0 +1,65 @@
+Praxis Seizure LXI: Turku
+Turku, Finland
+February 3rd 2013
+3R+F
+10 players
+Matti Palomäki
+
+Deck Name: the unaligned revolutionaries
+
+Tap-and-bleed deck that uses CrimethInc. at tha to take actions before bleeding.
+I got 1GW7VP in the preliminary rounds and 3VP in final. The key to the final was to sit away
+from the aus-weenies and to start moving forwards at the right moment, ie. when I could oust my prey and
+the aus-weenies in one turn. I've had this deck assembled since Twilight Rebellion came out.
+It's been tweaked and played every once in a while, and at the moment I'm pretty happy with it.
+
+Crypt (12 cards, min=14, max=32, avg=5.83)
+------------------------------------------
+1x Oliver Thrace	    9	AUS DOM THA nec obf pot	 Tremere:3
+1x Erichtho		    8	AUS DOM THA cel obf	 Tremere:3
+1x Ian Forestal		    8	AUS DOM THA		 Tremere antitribu:2
+1x Bryan Van Duesen	    7	DOM THA aus pre		 Tremere antitribu:2
+1x Iliana		    7	DOM FOR PRO tha		 Gangrel:2
+1x Marlene, The Infernalist 6	AUS DOM dem for tha	 Ventrue antitribu:2
+1x Selena		    6	AUS DOM THA		 Tremere antitribu:3
+1x Kurt Strauss		    5	DOM aus tha		 Tremere antitribu:2
+1x Gloria Giovanni	    4	DOM nec			 Giovanni:2
+1x Ingrid Russo		    4	DOM for			 Ventrue antitribu:2
+1x Brooke		    3	dom tha			 Tremere antitribu:2
+1x Ehrich Weiss		    3	dom tha			 Tremere:3
+
+Library (72 cards)
+Master (14; 1 trifle)
+2x Anarch Troublemaker
+1x Archon Investigation
+1x Barrens, The
+1x Coven, The
+2x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+2x Misdirection
+1x Pentex(TM) Subversion
+
+Action (18)
+4x Art's Traumatic Essence
+10x Govern the Unaligned
+4x Scouting Mission
+
+Action Modifier (32)
+3x Bonding
+1x Command of the Beast
+6x Conditioning
+8x CrimethInc.
+8x Mirror Walk
+6x Seduction
+
+Action Modifier/Reaction (4)
+4x Murmur of the False Will
+
+Reaction (3)
+3x Deflection
+
+Combat (1)
+1x Wind Dance

@@ -1,0 +1,52 @@
+French ECQ/NCQ
+Lyon, France
+March 31st 2012
+3R+F
+23 players
+Mathieu Rivero
+
+Deck Name: Embrace moi si tu peux !!
+Created by: Mathias Skubich (Mousnich)
+
+-- 1GW4 (5th seed) + 1.5VP in final
+
+Crypt (12 cards, min=9, max=19, avg=3.5)
+----------------------------------------
+1x Andrei Puxon			5   ani cel chi for	Ravnos:2
+1x Ghivran Dalaal, The Dead God	5   FOR ani aus chi	Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Anka, Priestess of Thorns	4   ani chi pro		Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for		Ravnos:2
+1x Lázár Dobrescu		3   for			Ravnos:2
+1x Tsigane			3   aus chi		Ravnos:2
+1x Vedel Esbreno		3   chi for		Ravnos:2
+1x Sasha Miklos			2   chi			Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+1x Zip				2   ani			Ravnos:3
+
+Library (64 cards)
+Master (10)
+2x Gird Minions
+1x Life Boon
+6x Ravnos Carnival
+1x Week of Nightmares
+
+Action (30)
+1x Aranthebes, The Immortal
+5x Bamba
+14x Embrace, The
+10x Mozambique Allure
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (10)
+2x Autarkis Persecution
+8x Consanguineous Boon
+
+Action Modifier/Reaction (12)
+12x Eldest Are Kholo, The
+
+Event (1)
+1x Uncoiling, The

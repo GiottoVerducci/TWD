@@ -1,0 +1,58 @@
+Second Tradition
+New Holland, Pennsylvania
+May 18th 2019
+2R+F
+12 players
+Adam Hulse
+https://www.vekn.net/event-calendar/event/9174
+
+-- 1GW6 + 3VP in final
+
+Deck Name: Mekket - Never Heard of Her
+
+Description: Straight up Lutz vote deck. Not sure why I didn't use Rafeal. Probably just so I would not have three 11 caps in opening draw. But the support voters are just as good.
+Bernard, the Scourge was a test but never drew him.
+
+Crypt (12 cards, min=26, max=44, avg=8.83)
+------------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
+2x Stavros		 7   AUS OBF PRE dem		priscus		Malkavian antitribu:4
+2x Ubende		 7   CEL PRE for obf qui	magaji		Ishtarri:4
+1x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Bernard, The Scourge	 5   ani for pre pro				Gangrel:4
+
+Library (75 cards)
+Master (20)
+1x Creepshow Casino
+1x Giant's Blood
+1x Golconda: Inner Peace
+3x Information Highway
+8x Minion Tap
+1x Monastery of Shadows
+2x Secure Haven
+3x Zillah's Valley
+
+Political Action (17)
+1x Ancient Influence
+2x Banishment
+10x Kine Resources Contested
+2x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (27)
+1x Awe
+1x Bewitching Oration
+4x Cloak the Gathering
+4x Elder Impersonation
+4x Forgotten Labyrinth
+4x Lost in Crowds
+1x Perfect Paragon
+8x Voter Captivation
+
+Reaction (3)
+3x Telepathic Counter
+
+Combat (8)
+8x Majesty

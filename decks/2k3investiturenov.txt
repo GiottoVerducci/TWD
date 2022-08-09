@@ -1,0 +1,58 @@
+Investiture
+Newark, Ohio
+November 22nd 2003
+20 players
+John Bell
+
+Deck Name: Hmmm, Yeah, I'll Block That
+
+Crypt (12 cards, min=8, max=20, avg=3.58)
+-----------------------------------------
+3x General Perfidio Díos	  5   AUS dem obf  bishop  Malkavian antitribu:3
+1x Victoria			  5   AUS cel obf  	   Malkavian:2
+1x Idalia, Prophet of Guadalajara 4   AUS dem	   	   Malkavian antitribu:2
+1x Maldavis			  4   AUS for pre  	   Caitiff:3
+1x Remilliard, Devout Crusader	  4   AUS pre	   	   Toreador antitribu:2
+1x Isabel de Leon		  3   AUS	   	   Toreador:2
+1x Martin Franckel		  3   AUS tha	   	   Tremere:3
+1x Zöe				  3   AUS cel obf  	   Malkavian:2
+1x Feo Ramos			  1   aus	   	   Pander:3
+1x Franciscus			  1   aus	   	   Caitiff:2
+
+Library (90 cards)
+Master (16)
+5x Blood Doll
+2x Millicent Smith, Puritan Vampire Hunter
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Rack, The
+4x Smiling Jack, The Anarch
+2x Sudden Reversal
+
+Action (3)
+1x Aranthebes, The Immortal
+2x Atonement
+
+Equipment (9)
+4x .44 Magnum
+3x Deer Rifle
+1x Sniper Rifle
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (53)
+7x Eagle's Sight
+5x Enhanced Senses
+12x Forced Awakening
+3x Melange
+4x My Enemy's Enemy
+4x Precognition
+4x Spirit's Touch
+5x Telepathic Counter
+4x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (8)
+8x Concealed Weapon

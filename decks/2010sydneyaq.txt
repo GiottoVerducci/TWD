@@ -1,0 +1,54 @@
+Sydney Qualifier
+Sydney, Australia
+May 2nd 2010
+18 players
+Tony Wedd
+
+Deck Name: Maelific
+
+Crypt (12 cards, min=12, max=40, avg=5.92)
+------------------------------------------
+7x Horde, The	3   dai obf pre		 Baali:6
+5x unnamed, The	10  CEL DAI OBF PRE PRO	 Baali:6
+
+Library (78 cards)
+Master (24; 10 trifle)
+1x Archon Investigation
+1x Direct Intervention
+9x Maleficia
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Rötschreck
+3x Secure Haven
+4x Tend the Flock
+1x Wider View
+
+Action (14)
+1x Entrancement
+10x Flurry of Action
+2x Legal Manipulations
+1x Unleash Hell's Fury
+
+Ally (2)
+1x Mylan Horseed
+1x Veneficti
+
+Retainer (3)
+3x D'habi Revenant
+
+Action Modifier (29)
+1x Approximation of Loyalty
+1x Earth Control
+3x Elder Impersonation
+4x Enkil Cog
+2x I am Legion
+10x Lost in Crowds
+6x Psalm of the Damned
+2x Psychomachia
+
+Action Modifier/Reaction (3)
+3x Sense the Sin
+
+Combat/Reaction (3)
+3x Evil Eye

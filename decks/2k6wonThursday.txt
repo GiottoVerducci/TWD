@@ -1,0 +1,59 @@
+Week of Nightmares - Prince of the City
+Atlanta, Georgia
+October 5th 2006
+2R+F
+45 players
+Hugues Bertrand
+
+Go ahead and block this!
+
+This deck was inspired by a deck by Robert Scythe that I had seen on
+the Vtes in L.A Website. I wondered if it was as strong as it seemed,
+I tweaked it a bit and never played it, I was planning to play it in
+casual play... I entered last minute in this tourney and decided to
+try it... It obviously needs more tweeking but I had a blast playing
+it!
+
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+3x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+3x Masika	   10  AUS CEL PRE		primogen	Toreador:1
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+
+Library (90 cards)
+Master (16)
+4x Aching Beauty
+1x Dreams of the Sphinx
+1x Golconda: Inner Peace
+1x Information Highway
+7x Minion Tap
+2x Zillah's Valley
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Archon
+1x Banishment
+5x Camarilla Exemplary
+5x Kine Resources Contested
+2x Protect Thine Own
+
+Action Modifier (28)
+2x Approximation of Loyalty
+4x Awe
+7x Change of Target
+9x Crocodile's Tongue
+6x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (10)
+1x My Enemy's Enemy
+4x Second Tradition: Domain
+5x Telepathic Misdirection
+
+Combat (16)
+5x Flash
+11x Majesty

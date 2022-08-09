@@ -1,0 +1,68 @@
+Lunatic Eruption
+Northampton, Massachusetts
+June 17th 2006
+2R+F
+12 players
+Scott Gomes
+
+Deck Name: Undue Influence
+
+Description: Undue Influence Stealth bleed with some Serpentis
+
+Crypt (12 cards, min=14, max=26, avg=5)
+---------------------------------------
+2x Suzanne Kadim	  7   CEL PRE aus dom obf  Toreador:3
+1x Hesha Ruhadze	  6   SER ani obf pre	   Follower of Set:2
+1x Samat Ramal-Ra, Archon 6   OBF pre ser tha	   Follower of Set:2
+1x Catherine du Bois	  5   DOM for obf pre	   Ventrue:3
+1x Count Ormonde	  5   OBF dom pre ser	   Follower of Set:2
+1x Cristos Mantigo	  5   aus cel dom obf pre  Toreador antitribu:3
+1x Sir Marriot D'Urban	  5   PRE aus obf ser	   Follower of Set:2
+1x Hadrian Garrick	  4   obf pre		   Follower of Set:2
+1x Nepata		  4   obf pre ser	   Follower of Set:2
+1x Diana Vick		  3   dom pre		   Ventrue:3
+1x Lena Rowe		  3   aus obf pre	   Pander:2
+
+Library (90 cards)
+Master (19; 8 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+4x Blood Doll
+2x Effective Management
+8x Galaric's Legacy
+1x Opium Den
+1x Powerbase: Los Angeles
+1x Temple Hunting Ground
+
+Action (23)
+2x Enticement
+1x Entrancement
+1x Form of Corruption
+2x Reformation
+2x Temptation
+15x Undue Influence
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Stolen Police Cruiser
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (20)
+4x Cloak the Gathering
+4x Faceless Night
+6x Lost in Crowds
+1x Spying Mission
+5x True Love's Face
+
+Reaction (18)
+7x Deflection
+3x Delaying Tactics
+8x Wake with Evening's Freshness
+
+Combat (6)
+6x Majesty

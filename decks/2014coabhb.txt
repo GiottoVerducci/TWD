@@ -1,0 +1,54 @@
+Cave of Apples
+Belo Horizonte, Brasil
+July 26th 2014
+2R+F
+10 players
+Daniel Alves
+https://www.vekn.net/event-calendar/event/7767
+
+Deck Name: Sniper Elite v3 short
+
+Description: Deliver, certain like a sniper, a huge bleed that cannot be blocked or bounced.
+
+Crypt (12 cards, min=32, max=36, avg=8.42)
+------------------------------------------
+5x Santaleous		9   AUS CEL DEM OBF	 	   Malkavian:5
+3x Persephone Tar-Anis	8   AUS DEM OBF cel pot	 	   Malkavian antitribu:4
+2x Bloody Mary		8   AUS DEM OBF pre	 primogen  Malkavian:5
+2x Lazarus James	8   AUS DEM PRE obf tha	 	   Malkavian:4
+
+Library (80 cards)
+Master (16; 5 trifle)
+1x Asylum Hunting Ground
+2x Dreams of the Sphinx
+1x Golconda: Inner Peace
+1x Institution Hunting Ground
+2x Pentex(TM) Subversion
+3x Perfectionist
+1x Secure Haven
+1x Vessel
+4x Villein
+
+Action (18)
+8x Call, The
+5x Kindred Spirits
+5x Madman's Quill
+
+Action Modifier (25)
+5x Elder Impersonation
+10x Eyes of Chaos
+5x Into Thin Air
+5x Spying Mission
+
+Action Modifier/Combat (10)
+5x Hide the Mind
+5x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+5x Touch of Clarity
+
+Combat (5)
+5x No Trace
+
+Event (1)
+1x Scourge of the Enochians

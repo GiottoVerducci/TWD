@@ -1,0 +1,90 @@
+NAC Qualifier
+Dallas
+June 2nd 2001
+3R+F
+15 players
+Ethan Burrow
+http://www265.pair.com/perlman/vtes/tn_reports/tn_swqual01.html
+
+This is *my* Toolbox
+by Ethan Burrow
+
+The idea was to vote/bloat with Voter Captivations acting as 5th Traditions,
+since the Sabbat can't obviously play 5th Tradition. Most other cards in the
+deck were either single shot utilitarian or very versatile in keeping with my
+current trend of toolboxing. You may note that a lot of the cards have
+multiple uses.
+
+Enchant Kindred can serve 3 purposes; speed up influencing, bleed, or pool
+gain. All the intercept cards doubled as bleed bounce, so I could defend
+against many deck types.
+
+I also wanted to include enough combat defense that I might be able to survive
+a rush deck long enough to grab 1VP.
+
+The fact that there are only 12 masters was purely coincidental, and had
+nothing to do with Atlanta &lt;g&gt;.
+
+Crypt (12 cards, min=14, max=35, avg=6.33)
+------------------------------------------
+2x Lachlan, Noddist			 8   AUS CEL PRE dom	archbishop  Toreador antitribu:2
+1x Matteus, Flesh Sculptor		 10  AUS CEL PRE VIC	priscus	    Toreador antitribu:2
+1x Donatien				 9   AUS PRE cel pot	cardinal    Toreador antitribu:2
+1x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	    Toreador antitribu:2
+1x Greta Kircher			 7   AUS CEL PRE obf		    Toreador antitribu:2
+1x Ian Wallingford			 6   CEL PRE aus	bishop	    Toreador antitribu:2
+1x Jost Werner				 6   AUS PRE ani		    Toreador antitribu:2
+1x Sheila Mezarin			 6   AUS PRE cel for		    Toreador antitribu:2
+1x Remilliard, Devout Crusader		 4   AUS pre			    Toreador antitribu:2
+1x Lolita				 3   for pre			    Toreador antitribu:2
+1x Angela Decker			 1   pre			    Pander:2
+
+Library (90 cards)
+Master (12)
+1x Dreams of the Sphinx
+2x Information Highway
+5x Minion Tap
+3x Sudden Reversal
+1x Tomb of Rameses III
+
+Action (14)
+2x Charming Lobby
+6x Enchant Kindred
+1x Entrancement
+1x Eternal Vigilance
+1x Intimidation
+1x Patronage
+2x Propaganda
+
+Political Action (23)
+4x Anarchist Uprising
+2x Blood Siege
+3x Consanguineous Boon
+1x Consanguineous Condemnation
+3x Disputed Territory
+4x Domain Challenge
+1x Dramatic Upheaval
+1x Excommunication
+2x Kine Resources Contested
+1x Political Stranglehold
+1x Rabble Razing
+
+Action Modifier (15)
+1x Alacrity
+2x Awe
+4x Bewitching Oration
+2x Private Audience
+2x Telepathic Vote Counting
+4x Voter Captivation
+
+Reaction (13)
+1x Dread Gaze
+3x My Enemy's Enemy
+2x Telepathic Counter
+4x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (13)
+5x Catatonic Fear
+6x Flash
+2x Majesty

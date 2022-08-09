@@ -1,0 +1,55 @@
+NAC 2014 - Last Chance Qualifier
+Origins Game Fair, Columbus, Ohio
+June 12th 2014
+2R+F
+38 players
+Ben Peal
+https://www.vekn.net/event-calendar/event/7720
+
+-- 3VP in final
+
+Deck Name: Meat Shield
+
+Description: Samedi stealth-bleed deck that generates a lot of pool for defense.
+
+Crypt (12 cards, min=22, max=35, avg=7.33)
+------------------------------------------
+3x Baron, The			 9   FOR NEC OBF THN dom	2 votes	 Samedi:2
+1x Jack Dawson			 8   FOR OBF cel nec qui thn		 Samedi:2
+1x Jack Dawson (ADV)		 8   FOR OBF cel nec qui thn		 Samedi:2
+2x George Frederick		 6   FOR THN nec obf			 Samedi:2
+2x Lithrac			 5   OBF for thn			 Samedi:2
+1x Genina, The Red Poet		 8   CHI OBF THN aus cel for		 Samedi:3
+1x Reg Driscoll			 8   OBF THN aus for pre		 Samedi:2
+1x Jorge De La Muerte, The Agent 7   OBF THN cel for nec		 Samedi:2
+
+Library (90 cards)
+Master (17)
+1x Archon Investigation
+6x Ashur Tablets
+1x Club Illusion -- wait for it...
+4x Coroner's Contact
+1x Giant's Blood
+1x Information Highway
+1x Kaymakli Nightmares
+2x Perfectionist
+
+Action (31)
+3x Clotho's Gift
+7x Dark Mirror of the Mind
+4x Go Anarch -- there it is!
+7x Little Mountain Cemetery
+2x Night Moves
+7x Off Kilter
+1x Putrescent Servitude
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (40)
+20x Freak Drive
+10x Lost in Crowds
+10x Under My Skin
+
+Event (1)
+1x Narrow Minds

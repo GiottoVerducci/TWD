@@ -1,0 +1,74 @@
+NYC Qualifier
+New York City, New York
+May 19th 2013
+3R+F
+14 players
+Adam Hulse
+
+Deck Name: Terrifying Politics
+
+Description: New York City Qualifier Tournament Deck Winner 2013
+A Tzimisce Vote deck. A nice thing is that when going against them,
+you never know what you are facing. Bounce? Combat? Bleed? I knew
+that i would be seeing some Cam vote decks in there so Private
+Audience and Fear of Mekket were a must. Purchase Pact barely
+made the cut but I figured with Radu I should try it. It even
+works in torpor! And instead of a variety of combat, I went back
+to good ole' agg + Rotschreck.
+
+Crypt (12 cards, min=19, max=39, avg=7.67)
+------------------------------------------
+3x Terrifisto		10  ANI AUS FOR VIC cel obt	archbishop  Tzimisce:4
+3x Velya, The Flayer	9   ANI AUS PRE VIC for		cardinal    Tzimisce:3
+3x Radu Bistri		8   AUS DOM ani pre vic		cardinal    Tzimisce:4
+1x Yuri Kerezenski	5   ANI aus for vic		bishop	    Tzimisce:4
+1x Droescher One-Eye	3   ani vic				    Tzimisce:4
+1x Ilias cel Frumos	3   aus vic				    Tzimisce:4
+
+Library (80 cards)
+Master (20; 7 trifle)
+1x Black Forest Base
+2x Blood Doll
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+1x Pentex(TM) Subversion
+1x Powerbase: Madrid
+1x Powerbase: Montreal
+1x Purchase Pact
+2x Rötschreck
+1x Vicissitude
+5x Villein
+2x Wider View
+
+Ally (2)
+1x Mylan Horseed
+1x Procurer
+
+Equipment (3)
+1x Ivory Bow
+2x Living Manse
+
+Political Action (15)
+4x Banishment
+1x Disputed Territory
+8x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+
+Action Modifier (17)
+5x Changeling
+5x Mind of the Wilds
+4x Private Audience
+3x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Plasmic Form
+
+Reaction (12)
+6x Eyes of Argus
+6x Telepathic Misdirection
+
+Combat (7)
+2x Breath of the Dragon
+5x Chiropteran Marauder

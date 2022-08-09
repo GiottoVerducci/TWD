@@ -1,0 +1,53 @@
+NAC 2001 Day 1 - Shadow Twin
+GenCon, Milwaukee, Wisconsin
+August 4th 2001
+Christian Herro
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3E6a98pg8fg
+
+Deck: Murmur of the False Will
+
+Crypt (12 cards, min=14, max=27, avg=5.08)
+------------------------------------------
+2x Aisling Sturbridge	5   AUS THA dom				  Tremere:2
+2x Sarah Cobbler	4   THA dom				  Tremere:1
+1x Cardano		9   DOM FOR THA ani aus cel	prince	  Tremere:1 -- saved my butt in the final round. I *am* Cardano's bitch.
+1x Astrid Thomas	7   DOM THA aus pot		primogen  Tremere:1
+1x Reverend Blackwood	6   DOM THA obf			bishop	  Tremere antitribu:2
+1x Hannigan		5   AUS THA dom				  Tremere antitribu:2
+1x Kurt Strauss		5   DOM aus tha				  Tremere antitribu:2
+1x Merrill Molitor	5   THA aus dom				  Tremere:1
+1x Brooke		3   dom tha				  Tremere antitribu:2
+1x Jing Wei		3   dom tha				  Tremere:1
+
+Library (90 cards)
+Master (14)
+2x Arcane Library
+1x Barrens, The
+4x Blood Doll
+2x Chantry
+3x Dominate
+1x Dreams of the Sphinx
+1x Thaumaturgy
+
+Action (16)
+11x Govern the Unaligned
+3x Magic of the Smith
+2x Rutor's Hand
+
+Equipment (2)
+2x Ankara Citadel, Turkey, The
+
+Action Modifier (21)
+9x Conditioning
+6x Perfect Clarity
+6x Seduction
+
+Reaction (10)
+4x Deflection
+2x Delaying Tactics
+4x Wake with Evening's Freshness
+
+Combat (27)
+12x Apportation
+11x Theft of Vitae
+4x Walk of Flame

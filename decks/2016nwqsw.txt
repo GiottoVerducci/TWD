@@ -1,0 +1,77 @@
+North West Qualifier
+Seattle, Washington
+April 16th 2016
+3R+F
+10 players
+John McGlynn
+
+-- 0.5VP in final
+
+Deck Name: Northwest Qualifier 2016: Woke
+
+Description: Weenie animalism wall with a splash of deflection and conditioning for the oust.
+
+Final table: Kelly (baali,striga, mmpa) > John (weenie animalism wall) > Kevin (brandywine madness network) > Darby (reply value: large cap vote and bleed) > Brian (large cap lasombra vote and bleed).
+
+The qualifier went as well as it could have taking into account that most games went to time and only 2 players had a GW going into the final round. We spent some time discussing the cause of this after the tournament and this is what we determined.
+-A few players were running lots of votes (Darby and Brian particularly) and butting heads on each referendum. We saw vote cancelling and multiplying tech and several players were using multiple copies of Delaying Tactics.
+-Scobax and bleed reduction both had a hand in keeping counters on the table.
+-Most players were holding deflections and the most aggressive decks had huge bleed potential at stealth, so everyone was playing very cautiously while trying to find an opportunity to go forward.
+
+In the end, we had a lot of fun and pick-up games on Friday and Sunday.
+Thank you to everyone that came out for this and especially to those that traveled from out of state.
+
+Crypt (12 cards, min=7, max=23, avg=3.5)
+----------------------------------------
+1x Natalia			7   ANI chi dom for		Ravnos:2
+1x Caitlin			6   ANI PRO aus dom	bishop	Gangrel antitribu:2
+1x Sarisha Veliku		6   ANI FOR chi dom		Ravnos:2
+1x Laurent de Valois		4   ani dom obf			Nosferatu:2
+1x Shane Grimald		4   ani dom pot			Gangrel antitribu:2
+1x Panagos Levidis		3   ani obf			Gangrel:2
+1x Shannon Price, The Whisperer	3   ani obf			Nosferatu antitribu:2
+1x Dani				2   ani				Nosferatu antitribu:2
+1x Gillian Krader		2   ani dem			Pander:2
+1x Spleen, Georgio Gutterpunk	2   ani chi			Ravnos:2
+1x Vliam Andor			2   ani				Gangrel:1
+1x Navar McClaren		1   ani				Caitiff:1
+
+Library (90 cards)
+Master (15)
+3x Animalism
+1x Barrens, The
+6x Blood Doll
+1x Channel 10
+1x Fragment of the Book of Nod
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+
+Action (1)
+1x Govern the Unaligned
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (7)
+1x Mr. Winthrop
+6x Raven Spy
+
+Action Modifier (3)
+3x Conditioning
+
+Reaction (39)
+7x Cats' Guidance
+6x Deflection
+3x Delaying Tactics
+7x Forced Awakening
+6x Guard Dogs
+2x Instinctive Reaction
+4x On the Qui Vive
+4x Wake with Evening's Freshness
+
+Combat (24)
+11x Aid from Bats
+1x Canine Horde
+9x Carrion Crows
+3x Taste of Vitae

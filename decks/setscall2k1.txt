@@ -1,0 +1,60 @@
+Set's Call
+Sweden
+December 30th 2001
+Hans Nemeczek
+
+Deck Name: Laurent the wannabe-malk n his crew
+
+Crypt (12 cards, min=11, max=21, avg=4)
+---------------------------------------
+2x Laurent de Valois	4   ani dom obf		Nosferatu:2
+1x Ozmo			6   AUS dom obf		Malkavian:1
+1x Count Ormonde	5   OBF dom pre ser	Follower of Set:2
+1x Didi Meyers		5   DOM aus cel obf	Malkavian:1
+1x Zebulon		5   OBF aus dom pro	Malkavian:1
+1x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Ingrid Russo		4   DOM for		Ventrue antitribu:2
+1x Roland Bishop	4   aus dom obf		Malkavian:1
+1x Duck			3   obf pot		Nosferatu:1
+1x Dimple		2   obf			Nosferatu:1
+1x Normal		2   obf			Malkavian:1
+
+Library (80 cards)
+Master (14)
+1x Asylum Hunting Ground
+2x Barrens, The
+2x Contingency Planning
+3x Dominate
+2x Obfuscate
+1x Slum Hunting Ground
+3x Sudden Reversal
+
+Action (17)
+1x Dominate Kine
+1x Far Mastery
+10x Govern the Unaligned
+5x Scouting Mission
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (2)
+2x Sargon Fragment, The
+
+Action Modifier (29)
+4x Cloak the Gathering
+9x Conditioning
+3x Faceless Night
+5x Foreshadowing Destruction
+4x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (9)
+7x Deflection
+2x Wake with Evening's Freshness
+
+Combat (4)
+4x Behind You!

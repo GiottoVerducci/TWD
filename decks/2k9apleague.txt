@@ -1,0 +1,52 @@
+AP League
+Penrith, Australia
+July 17th 2009
+2R+F
+13 players
+Brendan Healy
+
+Deck Name: The Art of Undue Influence
+
+Description: !Toreador Undue Influence Deck
+
+Crypt (12 cards, min=8, max=22, avg=4)
+--------------------------------------
+1x Jost Werner			6   AUS PRE ani		 Toreador antitribu:2
+1x Sheila Mezarin		6   AUS PRE cel for	 Toreador antitribu:2
+1x Creamy Jade			5   PRE aus cel vic	 Toreador antitribu:3
+1x Cristos Mantigo		5   aus cel dom obf pre	 Toreador antitribu:3
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre	 Toreador antitribu:2
+1x Victor Revell, Loyalist	5   CEL aus dem pre	 Toreador antitribu:2
+1x Remilliard, Devout Crusader	4   AUS pre		 Toreador antitribu:2
+1x Sabrina			4   aus cel pre		 Toreador antitribu:3
+1x Lolita			3   for pre		 Toreador antitribu:2
+1x Emerson Wilkershire III	2   pre			 Toreador:3
+1x Frederick the Weak		2   pre			 Brujah antitribu:2
+1x Angela Decker		1   pre			 Pander:2
+
+Library (60 cards)
+Master (18; 4 trifle)
+2x Anarch Revolt
+1x Coven, The
+2x Effective Management
+3x Galaric's Legacy
+4x Palla Grande
+1x Poacher's Hunting Ground
+1x Powerbase: Los Angeles
+2x Seattle Committee
+2x Twilight Camp
+
+Action (20)
+20x Undue Influence
+
+Action Modifier (13)
+13x Power of One
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (6)
+6x Staredown
+
+Event (1)
+1x Narrow Minds

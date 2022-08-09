@@ -1,0 +1,83 @@
+Contingency Planning: TotalCon
+Mansfield, Massachusetts
+February 22nd 2004
+18 players
+Ben Peal
+
+Deck Name: Pochtli Twister
+
+Description: I was wondering about building a deck that was less than
+60 cards - and padding it out with burn option cards - to see if there
+was potential for abuse (withdrawal excepted). At least from this
+experiment, there's no abuse to be found, but it's a fun deck to play.
+The Tracker's Marks were specifically chosen because they're red and
+thereby easy to spot in your hand, helping you to not forget to
+discard during other players' untap phases. I strongly suggest
+making room for a third Telepathic Counter. The idea for the deck
+comes from a deck (called Pochtli Twister) built by one of our local
+guys - Keith Page - a couple years ago, before Bloodlines was
+released. He stopped playing a while back, but I figured I'd revive
+the idea.
+
+- Ben Peal, Prince of Boston
+fudjo@mindstorm.com
+
+Crypt (12 cards, min=13, max=32, avg=6)
+---------------------------------------
+5x Pochtli				8   NEC OBF POT cel dom	 Giovanni:2
+1x Carlotta Giovanni			7   NEC POT dom obf	 Giovanni:2
+1x Agaitas, The Scholar of Antiquities	6   AUS NEC for		 Harbinger of Skulls:2
+1x Ozmo					6   AUS dom obf		 Malkavian:1
+1x Raful al-Zarqa			6   AUS dom nec obf	 Nagaraja:2
+1x Aleph				4   AUS dom		 Malkavian:1
+1x Frederick the Weak			2   pre			 Brujah antitribu:2
+1x Basil				1   obf			 Pander:2
+
+Library (60 cards)
+Master (13; 3 trifle)
+1x Anarch Railroad
+2x Blood Doll
+1x Coven, The
+1x Creepshow Casino
+1x Direct Intervention
+1x Information Highway
+1x Lazarene Inquisitor
+2x Life in the City
+1x Seattle Committee
+1x Sudden Reversal
+1x Waste Management Operation
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (1)
+1x Ambrosius, The Ferryman
+
+Equipment (4)
+1x .44 Magnum
+1x Erebus Mask
+2x Leather Jacket
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (5)
+1x Call of the Hungry Dead
+1x Cloak the Gathering
+2x Conditioning
+1x Lost in Crowds
+
+Action Modifier/Reaction (1)
+1x Spectral Divination
+
+Reaction (8)
+1x Deflection
+1x Enhanced Senses
+3x Forced Awakening
+2x Telepathic Counter
+1x Telepathic Misdirection
+
+Combat (25)
+1x Spiritual Intervention
+24x Tracker's Mark

@@ -1,0 +1,73 @@
+Italian Grand Prix 2019
+Bologna, Italy
+December 2nd 2018
+3R+F
+32 players
+Pau Vilar
+https://www.vekn.net/event-calendar/event/9060
+
+-- 2GW8.5 + 0.5VP in final
+
+Deck Name: A kind of Magic
+
+Crypt (12 cards, min=19, max=32, avg=6.42)
+------------------------------------------
+3x Valerius Maior, Hell's Fool (ADV)	7   AUS DAI DOM THA nec pre		    Tremere antitribu:4
+1x Orlando Oriundus			9   AUS DOM THA obf		bishop	    Tremere antitribu:4
+1x Paul Cordwood			8   AUS DOM THA obf pre		bishop	    Tremere antitribu:4
+1x Polly Kay Fisher			8   AUS DOM THA for pot		archbishop  Ventrue antitribu:4
+1x Jefferson Foster			6   AUS DOM for tha		bishop	    Ventrue antitribu:4
+1x Selena				6   AUS DOM THA				    Tremere antitribu:3
+1x Valois Sang, The Watcher		6   AUS DOM nec tha			    Tremere:3
+1x Frondator				5   AUS dom tha			bishop	    Tremere antitribu:4
+1x Neighbor John			5   AUS dom for				    Ventrue antitribu:4
+1x Keith Moody				3   DOM					    Tremere antitribu:4
+
+Library (80 cards)
+Master (10)
+1x Anarch Troublemaker
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+
+Action (16)
+12x Govern the Unaligned
+2x Magic of the Smith
+1x Under Siege
+1x Unleash Hell's Fury
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Action Modifier (17)
+5x Bonding
+3x Conditioning
+5x Mirror Walk
+4x Seduction
+
+Action Modifier/Reaction (2)
+2x Sense the Sin
+
+Reaction (18)
+2x Deflection
+2x Eagle's Sight
+4x Eyes of Argus
+2x My Enemy's Enemy
+3x On the Qui Vive
+3x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (12)
+2x Flames of the Netherworld
+10x Theft of Vitae

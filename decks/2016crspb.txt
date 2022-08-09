@@ -1,0 +1,66 @@
+Clã Respect
+Saõ Paulo, Brazil
+February 12th 2016
+3R+F
+13 players
+Roberto Mautone Junior
+https://www.vekn.net/event-calendar/event/8336
+
+-- 4VP in final
+
+Deck Name: Captain Spaulding strikes again!
+
+Description: Try to maximize handsize, so all needed cards will be on hand for the best profit.
+Could have more deep songs instead of governs, almost all of them were used for oust
+instead of bloat/crypt acceleration. Combat tech was sharp.
+
+Crypt (12 cards, min=36, max=42, avg=9.83)
+------------------------------------------
+4x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf		    Nosferatu antitribu:4
+4x Antón de Concepción	  9   ANI DOM OBT POT aus	archbishop  Lasombra:4
+2x Montano		  11  ANI DOM FOR OBT POT	2 votes	    Lasombra:3
+2x Nahir		  10  ANI DOM OBT POT tha		    Lasombra:3
+
+Library (90 cards)
+Master (19; 9 trifle)
+3x Dabbler
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Monastery of Shadows
+1x Rack, The
+1x Tension in the Ranks
+5x Villein
+1x Wash
+
+Action (8)
+3x Deep Song
+5x Govern the Unaligned
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ossian
+
+Action Modifier (3)
+3x Conditioning
+
+Reaction (18)
+2x Cats' Guidance
+6x Deflection
+3x Eyes of the Night
+7x Sense the Savage Way
+
+Combat (39)
+5x Arms of the Abyss
+5x Carrion Crows
+7x Dark Steel
+4x Entombment
+5x Immortal Grapple
+4x Shadow Step
+4x Taste of Vitae
+5x Torn Signpost
+
+Event (1)
+1x Scourge of the Enochians

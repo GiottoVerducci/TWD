@@ -1,0 +1,70 @@
+Dissolution
+Parramatta, Australia
+February 23rd 2013
+3R+F
+10 players
+Jon Darbro
+
+-- 3VP in final
+
+Deck Name: "I Have to Get This Cheese to Washington Immediately!"
+
+Whittle down prey's vampires with Cryptic Missions, then bleed them out.
+Step 5: profit!
+
+Crypt (12 cards, min=9, max=18, avg=3.33)
+-----------------------------------------
+1x Aisling Sturbridge		   5   AUS THA dom  Tremere:2
+1x Hannigan			   5   AUS THA dom  Tremere antitribu:2
+1x Ignatius			   4   aus dom tha  Tremere:1
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha	    Tremere antitribu:2
+1x Sarah Cobbler		   4   THA dom	    Tremere:1
+1x Blythe Candeleria		   3   THA aus	    Tremere:2
+1x Brooke			   3   dom tha	    Tremere antitribu:2
+1x Dr. John Casey		   3   aus tha	    Tremere:1
+1x Jing Wei			   3   dom tha	    Tremere:1
+1x Heinrick Schlempt		   2   tha	    Tremere antitribu:2
+1x Magdelena Schaefer		   2   THA	    Caitiff:2
+1x Roreca Quaid			   2   tha	    Tremere:1
+
+Library (85 cards)
+Master (13)
+1x Anarch Troublemaker
+2x Blood Doll
+1x Effective Management
+1x Society of Leopold
+1x Sudden Reversal
+1x Thaumaturgy
+1x Tremere Convocation
+3x Tribute to the Master
+1x Unnatural Disaster
+1x Visit from the Capuchin
+
+Action (22)
+21x Cryptic Mission
+1x Dominate Kine
+
+Ally (2)
+1x Gregory Winter
+1x Thadius Zho
+
+Action Modifier (11)
+5x Conditioning
+5x Mirror Walk
+1x Perfect Clarity
+
+Reaction (21)
+4x Deflection
+2x Delaying Tactics
+2x Forced Awakening
+1x My Enemy's Enemy
+4x On the Qui Vive
+5x Telepathic Counter
+3x Wake with Evening's Freshness
+
+Combat (16)
+1x Burst of Sunlight
+3x Movement of the Mind
+6x Theft of Vitae
+5x Weather Control
+1x Wind Dance

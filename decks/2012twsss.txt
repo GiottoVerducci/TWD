@@ -1,0 +1,74 @@
+Total War
+Stockholm, Sweden
+February 25th 2012
+2R+F
+18 players
+Alexander Båskman
+
+Deck Name: Geezers will find powerbleed
+
+Description: Inspired by Stefan Karlssons Geezers will find deck
+and of course the Girls will find deck by Teemu Sainomaa.
+As you all can see this deck is quite straight forward,
+the keyword is bleed.
+
+To the deck itself, there should be at least one copy of Mind Rape
+and an additional Giant's Blood. It should be one less copy of
+Lilith's Blessing since I never used it and never wanted to.
+
+Crypt (12 cards, min=40, max=44, avg=10.5)
+------------------------------------------
+4x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE			Baali:2
+3x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+2x Etrius	   11  AUS DOM OBF THA pro	inner circle	Tremere:2
+1x Leandro	   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
+1x Esau		   10  AUS DEM DOM OBF PRE			Malkavian:3
+1x Nefertiti	   10  DOM OBF PRE SER cel pot			Follower of Set:2
+
+Library (75 cards)
+Master (37; 7 trifle)
+6x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Jake Washington
+1x Lilith's Blessing
+5x Liquidation
+1x Metro Underground
+2x Parthenon, The
+1x Pentex(TM) Subversion
+6x Villein
+6x Zillah's Valley
+
+Action (8)
+2x Entrancement
+5x Intimidation
+1x Unleash Hell's Fury
+
+Action Modifier (15)
+3x Conditioning
+2x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+2x Foreshadowing Destruction
+4x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (2)
+1x Hide the Mind
+1x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (8)
+1x Deflection
+2x Eyes of Argus
+3x Obedience
+2x On the Qui Vive
+
+Event (3)
+3x Anthelios, The Red Star

@@ -1,0 +1,69 @@
+Endless Nights
+Bochum, Germany
+October 28th 2017
+2R+F
+12 players
+Martin Schumacher
+https://www.vekn.net/event-calendar/event/8753
+
+-- 1GW4 + 3VP in final
+
+Deck Name: Black Jack
+Created by: Martin Schumacher
+
+Some small changes from the last version, included Temptation and added OBF
+skill cards to allow support minions (Nana, Aksinya) to act as well.
+
+Crypt (12 cards, min=32, max=40, avg=9.25)
+------------------------------------------
+4x Cybele	  10  ANI DAI OBF PRE SER THA		 Baali:4
+3x Nakhthorheb	  10  OBF PRE SER			 Follower of Set:4
+2x Aksinya Daclau 9   ANI FOR PRE PRO cel tha		 Gangrel antitribu:4
+2x Nana Buruku	  8   ANI POT PRE			 Guruhi:4
+1x Stavros	  7   AUS OBF PRE dem		priscus	 Malkavian antitribu:4
+
+Library (90 cards)
+Master (49; 8 trifle)
+1x Archon Investigation
+21x Ashur Tablets
+1x Coven, The
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Jake Washington
+6x Liquidation
+3x Obfuscate
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Protected Resources
+5x Villein
+2x Wider View
+
+Action (10)
+1x Call the Great Beast
+1x Enticement
+2x Entrancement
+2x Intimidation
+2x Temptation
+2x Unleash Hell's Fury
+
+Action Modifier (17)
+3x Aire of Elation
+5x Elder Impersonation
+7x Into Thin Air
+2x Spying Mission
+
+Action Modifier/Combat (1)
+1x Hide the Mind
+
+Reaction (5)
+3x Delaying Tactics
+1x Lost in Translation
+1x Mental Maze
+
+Combat (7)
+5x Majesty
+2x Staredown
+
+Event (1)
+1x Scourge of the Enochians

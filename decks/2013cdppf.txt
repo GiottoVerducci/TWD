@@ -1,0 +1,55 @@
+Coupe de Paris
+Troll2Jeux, Paris, France
+February 16th 2013
+3R+F
+20 players
+Kamel Senni
+
+-- 3VP in final
+
+Deck Name: Kamel deck
+Created by: Romain Naim
+
+Crypt (12 cards, min=26, max=36, avg=7.67)
+------------------------------------------
+3x Izhim abd Azrael		9   CEL OBF QUI THA pot	 Assamite:5
+3x Djuhah, The Bronze Bow	7   OBF QUI aus cel pre	 Assamite:5
+2x Nizzam al-Latif		9   ANI CEL OBF QUI dem	 Assamite:5
+2x Joe "Boot" Hill		7   CEL QUI for obf	 Assamite:4
+2x Reza Fatir, The Dark Angel	6   CEL QUI obf pro	 Assamite:4
+
+Library (65 cards)
+Master (17; 7 trifle)
+1x Archon Investigation
+1x Fortschritt Library
+1x Giant's Blood
+1x Information Highway
+2x Lilith's Blessing
+1x Pentex(TM) Subversion
+6x Villein
+2x Watchtower: The Wolves Feed
+1x Wider View
+1x Yoruba Shrine
+
+Action (27)
+4x Haqim's Law: Leadership
+2x Khabar: Glory
+9x Loss
+9x Reunion Kamut
+3x Tattoo Signal
+
+Action Modifier (16)
+7x Art of Memory, The
+2x Deed the Heart's Desire
+2x Elder Impersonation
+1x Lost in Crowds
+4x Seraph's Second
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Blood Awakening
+
+Event (1)
+1x Break the Code

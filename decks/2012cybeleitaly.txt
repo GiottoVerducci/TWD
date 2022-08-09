@@ -1,0 +1,56 @@
+Italian Qualifier Tour 5th stage - Cybele
+Barga, Italy
+April 1st 2012
+2R+F
+20 players
+Danilo Torrisi
+
+Deck Name: Tupdog & Rockcat
+
+Description: o_O'
+
+Crypt (28 cards, min=4, max=19, avg=1.75)
+-----------------------------------------
+21x Tupdog		1    POT VIS		Gargoyle:3
+2x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+1x  Esoara		5    DOM aus for pot	Tremere antitribu:4
+1x  Mosfair		4    cel dom tha	Tremere antitribu:4
+1x  Ember Wright	3    aus dom		Tremere antitribu:3
+1x  Keith Moody		3    DOM		Tremere antitribu:4
+1x  Saiz		3    aus dom		Tremere antitribu:3
+
+Library (90 cards)
+Master (9)
+2x Direct Intervention
+1x Fame
+1x Golconda: Inner Peace
+4x Information Highway
+1x Pentex(TM) Subversion
+
+Action (8)
+8x Graverobbing
+
+Ally (19)
+4x Nephandus
+14x Rock Cat
+1x Vagabond Mystic
+
+Political Action (8)
+8x Autarkis Persecution
+
+Action Modifier (8)
+8x As the Crow
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (34)
+6x Brick by Brick
+6x Disarm
+8x Immortal Grapple
+8x Raking Talons
+6x Undead Strength
+
+Event (2)
+1x Dragonbound
+1x Unmasking, The

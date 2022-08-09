@@ -1,0 +1,73 @@
+Eyes of the Dead III
+Helsinki, Finland
+January 22nd 2012
+3R+F
+20 players
+Aleksi Nuora
+
+-- 2.5VP in final
+
+Deck Name: The Shalmath Limb Donor Foundation
+
+Description: 	Rush immediate threats, tool up Shalmath.
+Remove prey's defense and follow up with Andre + 1-caps.
+
+Crypt (12 cards, min=4, max=40, avg=5.08)
+-----------------------------------------
+5x Shalmath	  10  POT PRE TEM  True Brujah:6
+2x Freddy Gage	  1   pot	   Caitiff:5
+1x Andre LeRoux	  3   aus	   Toreador:5
+1x Kalila	  3   aus obf	   Malkavian:5
+1x Donald Cargill 1   aus	   Caitiff:5
+1x Iris Bennett	  1   pro	   Caitiff:5
+1x Walker Grimes  1   ani	   Caitiff:5
+
+Library (71 cards)
+Master (16; 6 trifle)
+4x Ashur Tablets
+1x Channel 10
+1x Guardian Angel
+1x Inceptor
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Vessel
+2x Villein
+1x Wash
+2x Wider View
+1x WMRH Talk Radio
+
+Action (9)
+1x Ambush
+1x Aranthebes, The Immortal
+1x Big Game
+2x Bum's Rush
+1x Harass
+1x Hourglass of the Mind
+1x Summon History
+1x Vaticination
+
+Equipment (5)
+2x Eye of Hazimel
+1x Ivory Bow
+1x Kevlar Vest
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (10)
+4x Domain of Evernight
+1x Enkil Cog
+3x Pocket Out of Time
+1x Recurring Contemplation
+1x Tangle Atropos' Hand
+
+Reaction (1)
+1x Rewind Time
+
+Combat (29)
+3x Decapitate
+6x Disarm
+3x Majesty
+12x Outside the Hourglass
+5x Taste of Vitae

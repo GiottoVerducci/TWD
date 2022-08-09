@@ -1,0 +1,148 @@
+Week of Nightmares 2019 Event 5
+Columbus, Ohio
+June 11th 2019
+2R+F
+18 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/9138
+
+-- 1GW4 + 3VP in final
+
+Deck Name: (Death) Stars of the Stage
+
+Description: Daughters Death Star variant.
+
+Update of the classic Matthew Morgan Death Star with newer Anarch cards and a
+switch to Daughters of Cacophony. I played an earlier version of this deck last
+Week of Nightmares and squeaked into a final with it, but the deck was not
+nearly resilient enough. Darby Keeney suggested adding more Conductors and the
+sect change for Embraces allowed me to ditch Seattle Committee and Twilight
+Camp for better Masters.
+
+In Round 1, I was sandwiched in between Alex and Mark. I had a brief window
+where Alex was a 10 pool and I drew my first Revolutionary Council. With Alex's
+prey at 1 pool, I had to go for the vote. Mark was showing sporadic intercept
+and managed to catch me. My game went downhill quickly as they teamed-up to
+bounce Alonso Petrodon to me.
+
+Round 2 was much better, but a slow game with 3 vote decks, so there was lots
+of talking. My prey had a Legendary, Cardinal-Benedicted Isouda get
+decapitated, so I was mostly in a good position, but with very little card
+movement, I was mostly a horde-bleed deck. First Tradition hit the table and
+locked quite a few Methuselahs. I was able to work successfully because I had
+an un-Converted Yseult, calling my prey's Black Forest Base vote. The game
+somewhat devolved from there and I ended with 4 VPs.
+
+Alex Romano (Group 4/5 Nos Royalty) ->
+Mark Loughman (Emerald Legionnaire) ->
+Kelly Schultz (The unnamed w/Maleficia) ->
+Me ->
+Ben Peal (Black Hand toolbox)
+
+I chose to sit as Kelly's prey not remembering what he was playing. The good
+thing about The unnamed was that it took him several turns to get it in play. I
+had a good opening crypt draw and got Yseult and Angela Preston early. The
+Embraces came up quickly.
+
+Mark got Erlik and Erebus, a few Legionnaires and some guns, but spent way too
+much. Alex scored an early VP. I never blocked The unnamed and fortunately it
+never got the Enkil Cog. I tried to keep my pool total high enough via Con Boon
+and for the most part was in good shape. I called my first Revolutionary
+Council vote for 14, all pool damage to my prey. Then, using Firebrand unlocked
+and call two Con Boons. Unfortunately each ended via Evil Eye, resulting in no
+pool gain.
+
+On my next turn, I started with 4 pool. Losing 1 to Contagion and paying 1 more
+pool to recycle Revolutionary Council via Garibaldi-Meucci Museum, leaving me
+at 2 pool. Ben was at 7 and the vote should have been easy to pass with
+Conductor, 2 Barons, 3 Firebrands, and Bastielle Opera House (22 votes), but I
+stupidly put The Coven in play on my previous turn, which meant that Kelly's
+Horde with Malificia gained blood without having to lock.
+
+I stymied my own oust, as the Horde Evil-Eyed the vote. I spent the next few
+actions trying to cycle into some kind of oust, including running Angela
+through several different Baron titles, bleeding, calling other votes, but my
+math always came up 1 pool short. So, I looked backwards and Kelly was within
+range of the the Dominate. A quick deal with Alex was hatched and I called a
+Lily Prelude at inferior putting all 4 points on my predator.
+
+Ben gets up to 10 pool and then Alex lunges. He hits Unleash Hell's Fury first,
+but manages to finish him off with the other two vampires. I'm sure if another
+action were available to him, I would have been off the table as well. Instead,
+I start my turn with 2 pool, paying 1 to recur Revolutionary Council again and
+call it to oust Ben. I send an Embrace over to burn the vampire in torpor, but
+instead burn Warsaw Station. I send a bleed of 1 over to grab the Edge.
+
+Alex plays another Station (his pool is around 20 at this point). He sends in a
+bleed with Alonso Petrodon, boosting it to 5 and gets Archoned. He takes a
+couple of tool up actions, including Heroic Might. After rushing one of my
+Barons into torpor, he passes the turn back to me. Edge pays to grab the
+Revolutionary Council again and I easily pass it, leaving Alex at 6 or 7 pool.
+
+Alex plays Pentex on my remaining Baron (Angela) and rushes my only other
+"real" Daughter. She survives via Majesty and he attempts to leave defenders.
+Alex told me after that he was cycling, looking for a Sudden as he expected me
+to play Pentex. I start my turn with 4 pool and all of my remaining cards in my
+hand. I play Pentex and there's no Sudden, so we're contesting. I call my other
+Revolutionary Council vote, hitting 3 stealth as I bypass his standing vampire.
+I had the Daring the Dawn in hand at this point, but in case something went
+wrong I wanted her out-of-torpor. The last vote succeeds and I take the table
+3-2.
+
+Crypt (13 cards, min=4, max=23, avg=3.31)
+-----------------------------------------
+5x Anarch Convert		  1   -none-		Caitiff:ANY
+2x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
+2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+1x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+1x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+1x Muse				  3   ani for mel	Daughter of Cacophony:2
+
+Library (77 cards)
+Master (15; 1 trifle)
+1x Anarch Railroad -- permanent stealth variety so useful to get one early
+1x Archon Investigation -- critical to finals win
+1x Barrens, The -- critical to finals win; used ~11-13 times
+1x Bastille Opera House
+1x Carfax Abbey -- golden when running Barons
+1x Command Performance -- never put into play today; useful in past
+4x Conductor -- required to make this deck run
+1x Coven, The
+1x Creepshow Casino
+1x Garibaldi-Meucci Museum -- Revolutionary Council recursion makes this deck go
+1x Paris Opera House
+1x Pentex(TM) Subversion
+
+Action (12)
+7x Embrace, The
+1x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+1x Fee Stake: Perth
+
+Political Action (17)
+1x Anarchist Uprising -- added last minute; never used
+4x Consanguineous Boon -- preferable over Benefit Concert since you can vote other clans
+1x Domain Challenge -- added last minute; better per minion vote since you breed
+2x Eat the Rich -- really great card
+3x Firebrand
+4x Lily Prelude
+2x Revolutionary Council -- like having every Palla Grande bleed hit; so powerful
+
+Action Modifier (22)
+2x Bewitching Oration -- should probably be something else: Echo of Harmonies?
+2x Change of Target
+2x Cryptic Rider -- bypasses Delaying Tactics
+1x Daring the Dawn
+4x Freak Drive
+6x Missing Voice, The
+1x Virtuosa
+4x Voter Captivation
+
+Action Modifier/Reaction (7)
+7x Madrigal -- great for putting blood back on "real" Daughters; power Firebrands
+
+Combat (4)
+4x Majesty

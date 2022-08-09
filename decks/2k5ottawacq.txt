@@ -1,0 +1,73 @@
+Ottawa Qualifier
+Ottawa, Ontario
+May 22nd 2005
+3R+F
+10 players
+David Wilson
+
+Deck Name: Mata's Renegade War Ghouls
+
+Crypt (12 cards, min=6, max=28, avg=4.42)
+-----------------------------------------
+5x Mata Hari	   7   CHI OBF aus for qui  2 votes	Ravnos:4
+3x Michael Luther  4   aus pre		    		Toreador:3
+2x Piotr Andreikov 2   aus		    		Tzimisce:3
+1x Lisa Noble	   1   ani		    		Caitiff:3
+1x Sandra White	   1   -none-		    		Caitiff:3
+
+Library (90 cards)
+Master (10)
+1x Barrens, The
+1x Charisma
+1x Demonstration
+1x Dreams of the Sphinx
+1x Ferraille
+2x Memories of Mortality
+1x Secure Haven
+1x Ventrue Headquarters
+1x Waste Management Operation
+
+Action (10)
+1x Aranthebes, The Immortal
+2x Art Scam
+6x Sibyl's Tongue
+1x Waters of Duat
+
+Action/Reaction (4)
+4x Draba
+
+Ally (15)
+1x Ambrosius, The Ferryman
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+1x Muddled Vampire Hunter
+1x Mylan Horseed
+2x Nephandus
+2x Renegade Garou
+1x Tutu the Doubly Evil One
+1x Vagabond Mystic
+4x War Ghoul
+
+Equipment (4)
+2x Ankara Citadel, Turkey, The
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Political Action (5)
+5x Autarkis Persecution
+
+Retainer (6)
+1x Camarilla Vitae Slave
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Resplendent Protector
+1x Tasha Morgan
+
+Action Modifier (35)
+2x Elder Impersonation
+7x Forgotten Labyrinth
+26x Freak Drive
+
+Event (1)
+1x Unmasking, The

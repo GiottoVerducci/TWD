@@ -1,0 +1,70 @@
+Saideira
+São Paulo, Brazil
+December 21st 2013
+3R+F
+19 players
+Fernanda Nunes
+https://www.vekn.net/event-calendar/event/7452
+
+-- 3VP in final
+
+Deck Name: Sujinho
+
+Crypt (12 cards, min=20, max=39, avg=7.58)
+------------------------------------------
+3x Cailean				  10  ANI OBF POT PRE dom  archbishop	Nosferatu antitribu:2
+2x Julio Martinez			  9   ANI DOM OBF POT nec  bishop	Nosferatu antitribu:3
+2x Tarbaby Jack				  8   ANI OBF POT dom ser  		Nosferatu antitribu:3
+1x Beast, The Leatherface of Detroit	  7   OBF POT ani cel	   		Nosferatu antitribu:2
+1x Teresita, The Godmother		  7   ANI OBF POT for	   		Nosferatu antitribu:3
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot	   		Nosferatu antitribu:2
+1x Nigel the Shunned			  5   ANI POT obf	   		Nosferatu antitribu:2
+1x Dani					  2   ani		   		Nosferatu antitribu:2
+
+Library (90 cards)
+Master (29; 7 trifle)
+1x Channel 10
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Information Network
+1x Nosferatu Kingdom
+1x Papillon
+3x Parthenon, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Secure Haven
+1x Sudden Reversal
+1x Using the Advantage
+4x Vessel
+2x Villein
+1x Wash
+1x WMRH Talk Radio
+4x Zillah's Valley
+
+Action (10)
+6x Deep Song
+2x Eternal Vigilance
+2x Heroic Might
+
+Action Modifier (18)
+7x Conditioning
+3x Elder Impersonation
+4x Faceless Night
+4x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (16)
+2x Cats' Guidance
+5x Deflection
+3x Guard Dogs
+3x On the Qui Vive
+3x Sense the Savage Way
+
+Combat (13)
+2x Canine Horde
+3x Carrion Crows
+4x Flesh Bond
+4x Taste of Vitae

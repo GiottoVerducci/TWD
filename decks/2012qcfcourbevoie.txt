@@ -1,0 +1,63 @@
+French NCQ Courbevoie
+Paris, France
+April 14th 2012
+3R+F
+20 players
+Karim Baloul
+
+Crypt (12 cards, min=30, max=44, avg=9.67)
+------------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+2x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+1x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Jaroslav Pascek	 10  CEL POT PRE for obf	justicar	Brujah:3
+1x Marcus Vitel		 10  DOM FOR OBF OBT PRE	prince		Ventrue:3
+1x Maris Streck		 9   AUS OBF ani dem dom	justicar	Malkavian:3
+1x Mukhtar Bey		 7   FOR PRE QUI obf pot	prince		Caitiff:4
+1x Quentin King III	 7   AUS DEM obf pre		prince		Malkavian:3
+1x Stavros		 7   AUS OBF PRE dem		priscus		Malkavian antitribu:4
+
+Library (76 cards)
+Master (20; 7 trifle)
+1x Direct Intervention
+1x Giant's Blood
+1x Golconda: Inner Peace
+5x Information Highway
+1x Jake Washington
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Secure Haven
+7x Villein
+
+Action (2)
+2x Entrancement
+
+Political Action (14)
+2x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+1x Conservative Agitation
+1x Domain Challenge
+1x Neonate Breach
+2x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (27)
+2x Approximation of Loyalty
+2x Cloak the Gathering
+4x Elder Impersonation
+3x Faceless Night
+2x Forgotten Labyrinth
+6x Lost in Crowds
+2x Spying Mission
+6x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (11)
+7x Mental Maze
+4x Telepathic Misdirection

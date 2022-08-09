@@ -1,0 +1,58 @@
+DragonCon - Night Moves
+DragonCon 2001, Atlanta, Georgia
+September 1st 2001
+2R+F
+Jeffrey Thompson
+
+Deck Name: Bloodform
+
+Concept: Tzimisce Bleed, Intercept, taking no damage during combat.
+
+Crypt (12 cards, min=22, max=38, avg=7.67)
+------------------------------------------
+2x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
+2x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
+2x Little Tailor of Prague	    8	ANI AUS VIC dem			    Tzimisce:2
+2x Caliban			    6	ANI AUS VIC			    Tzimisce:2
+1x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
+1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+1x Corine Marcón		    6	AUS VIC ani			    Tzimisce:2
+1x Lolita Houston		    4	VIC aus				    Tzimisce:2
+
+Library (90 cards)
+Master (13)
+2x Direct Intervention
+1x Fame
+7x Minion Tap
+1x Pentex(TM) Subversion
+2x Sudden Reversal
+
+Action (3)
+3x Pulse of the Canaille
+
+Ally (4)
+4x War Ghoul
+
+Equipment (3)
+2x Leather Jacket
+1x Living Manse
+
+Retainer (6)
+6x Revenant
+
+Action Modifier (6)
+6x Changeling
+
+Action Modifier/Combat (3)
+3x Plasmic Form
+
+Reaction (22)
+4x Cats' Guidance
+5x Enhanced Senses
+10x Forced Awakening
+3x My Enemy's Enemy
+
+Combat (30)
+12x Bloodform
+12x Carrion Crows
+6x Chiropteran Marauder

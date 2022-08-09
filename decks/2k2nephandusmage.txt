@@ -1,0 +1,60 @@
+The Nephandus Mage Challenge
+Worcester, Massachusetts
+October 13th 2002
+15 players
+Scott Gomes
+
+Deck Name: When Keebler Elves go bad.
+
+Was supposed to be a bruise and bleed but worked better as a
+opportunity power stealth bleed with casual intercept combat.
+Reason being is that at almost every table I sat at had more
+intimidating combat such as, Grant's Animalism combat deck
+and Ulysses' Assamite deck.
+
+Crypt (12 cards, min=22, max=35, avg=7.17)
+------------------------------------------
+3x Marconius		9   DOM MYT OBT pot	 archbishop	Kiasyd:2
+3x Julia Prima		7   DOM OBT aus myt	 		Kiasyd:2
+2x Bartholomew		8   AUS MYT NEC dom obt	 		Kiasyd:2
+2x Kassiym Malikhair	6   MYT OBT dom for	 		Kiasyd:2
+2x Béatrice L'Angou	5   MYT aus dom nec	 		Kiasyd:2
+
+Library (90 cards)
+Master (12)
+4x Blood Doll
+2x Dominate
+1x Festivo dello Estinto
+2x Obtenebration
+1x Rumor Mill, Tabloid Newspaper, The
+1x Short-Term Investment
+1x Tribute to the Master
+
+Action (11)
+8x Govern the Unaligned
+3x Riddle Phantastique
+
+Action Modifier (15)
+5x Seduction
+3x Shadow Play
+3x Stone Travel
+4x Threats
+
+Action Modifier/Reaction (6)
+6x Aura Absorption
+
+Reaction (24)
+6x Deflection
+2x Delaying Tactics
+2x Enhanced Senses
+4x Folderol
+1x Forced Awakening
+2x Redirection
+7x Wake with Evening's Freshness
+
+Combat (22)
+8x Arms of the Abyss
+2x Aura Reading
+8x Earth Swords
+2x Entombment
+2x Taste of Vitae

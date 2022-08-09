@@ -1,0 +1,82 @@
+Road to EC: Field Training
+Joensuu, Finland
+March 14th 2020
+3R+F
+13 players
+Esa-Matti Smolander
+https://www.vekn.net/event-calendar/event/9542
+
+-- 1GW4.5 + 3VP in final
+
+Deck Name: Stanislava Vote/Bleed v1.6
+
+Third tournament of our "Road to EC" series. The faith of the next event is
+still unclear, as it is not known how the ongoing situation is going to
+develop.
+
+Great amount of players considering everything that is going on. Super tight
+games all around, unexpectedly a lot of voting and not that much bleeders. One
+of our players had to leave after the first round, due to personal reasons, but
+we continued with 12 players!
+
+Big thanks to Tommi, Antti and Jyri for coming to Joensuu all the way from
+Helsinki area!
+
+Finals Seating:
+Aapo Järvelin (Al'Muntathir Black Hand Bleed) --> Tommi Hakomaa (Osebo Combat/Wall)
+ --> Esa-Matti Smolander (Stanislava Vote&Bleed) --> Jyri Puhakka (Anson Guns)
+ --> Antti Penttilä (Jacques Rouge + Baali Vote)
+
+Crypt (13 cards, min=35, max=44, avg=9.92)
+------------------------------------------
+5x Stanislava	  11  ANI CEL DOM FOR PRO	   inner circle	 Gangrel:2
+4x Ingrid Rossler 9   ANI FOR PRO dom		   prince	 Gangrel:2
+1x Genevieve	  10  ANI FOR PRO aus dom	   priscus	 Gangrel antitribu:2
+1x Hartmut Stover 10  CEL OBF PRO dom for	   archbishop	 Gangrel antitribu:3
+1x Xaviar (ADV)	  10  ABO ANI FOR PRO aus cel pot  justicar	 Gangrel:3
+1x Mark Decker	  8   CEL PRO ani for obf pot	   prince	 Gangrel:3
+
+Library (70 cards)
+Master (14; 7 trifle)
+1x Backways
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Monastery of Shadows
+1x Papillon
+5x Villein
+1x Wash
+1x Wider View
+
+Action (6)
+6x Govern the Unaligned
+
+Political Action (13)
+2x Anarchist Uprising
+1x Ancient Influence
+2x Ancilla Empowerment
+2x Banishment
+1x Kine Resources Contested
+3x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (18)
+3x Conditioning
+4x Earth Control
+1x Enkil Cog
+4x Forced March
+2x Freak Drive
+4x Instantaneous Transformation
+
+Action Modifier/Combat (1)
+1x Rapid Change
+
+Reaction (9)
+6x Deflection
+3x On the Qui Vive
+
+Combat (9)
+3x Earth Meld
+6x Form of Mist

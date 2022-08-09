@@ -1,0 +1,65 @@
+Torn Signpost
+Miskolc, Hungary
+April 19th 2008
+3R+F
+29 players
+Maros Chomjak
+
+Deck Name: Dements - Antitribu
+
+3GW11 prior to the final, with 2VP in final
+
+Crypt (12 cards, min=12, max=26, avg=4.92)
+------------------------------------------
+2x Korah	  7   AUS DEM OBF ani	   priscus  Malkavian antitribu:2
+2x Dolphin Black  6   AUS DEM OBF	   	    Malkavian antitribu:2
+1x Artemis	  6   DEM OBF aus cel for  	    Malkavian antitribu:2
+1x Tony		  6   AUS DEM dom obf	   	    Malkavian:3
+1x Uncle George	  5   DEM aus dom obf	   	    Malkavian antitribu:3
+1x Adelaide Davis 4   aus dem obf	   	    Malkavian:3
+1x Claven	  4   aus dem obf	   	    Malkavian antitribu:2
+1x Midget	  3   DEM obf pre	   	    Malkavian antitribu:3
+1x Yorik	  3   dem obf		   	    Malkavian antitribu:2
+1x Boy Toy	  2   dem		   	    Malkavian antitribu:2
+
+Library (83 cards)
+Master (10; 2 trifle)
+2x Archon Investigation
+1x Barrens, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Elder Library
+1x Pentex(TM) Subversion
+1x Secure Haven
+2x Wash
+
+Action (21)
+3x Dive into Madness
+14x Kindred Spirits
+3x Madman's Quill
+1x Sibyl's Tongue
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (33)
+5x Cloak the Gathering
+6x Confusion
+4x Elder Impersonation
+8x Eyes of Chaos
+4x Faceless Night
+4x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (5)
+1x Deny
+4x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Random Patterns
+
+Reaction (9)
+1x Delaying Tactics
+3x Telepathic Counter
+2x Telepathic Misdirection
+3x Wake with Evening's Freshness

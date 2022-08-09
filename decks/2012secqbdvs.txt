@@ -1,0 +1,84 @@
+Spanish ECQ
+Badia del Valles, Spain
+July 15th 2012
+3R+F
+41 players
+Noel Giménez Infante
+
+Deck Name: El secreto debe mantenerse
+
+-- GW3 + GW3 + 2 + 0.5VP in final
+
+Crypt (12 cards, min=22, max=35, avg=7.25)
+------------------------------------------
+3x Umdava	  9   ABO ANI FOR PRE vic  magaji  Akunanse:4
+3x Nkule Galadima 8   ABO FOR ani aus pre  magaji  Akunanse:4
+3x Uchenna	  7   ABO ANI FOR	   magaji  Akunanse:4
+1x Sanjo	  6   ANI FOR abo chi	   	   Akunanse:3
+1x Tsunda	  6   CHI abo ani dem	   magaji  Ravnos:4
+1x Dolie	  3   abo ani		   	   Akunanse:4
+
+Library (90 cards)
+Master (21; 5 trifle)
+1x Channel 10
+1x Dark Influences
+1x Erciyes Fragments, The
+1x Giant's Blood
+2x Heidelberg Castle, Germany
+1x Marrakesh Codex, The
+1x Mbare Market, Harare
+1x Pentex(TM) Subversion
+2x Powerbase: Luanda
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+1x Tension in the Ranks
+1x Vessel
+4x Villein
+
+Action (13)
+1x Aranthebes, The Immortal
+1x Army of Rats
+2x Deep Song
+8x No Secrets From the Magaji
+1x Well-Marked
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (5)
+1x .44 Magnum
+1x Crimson Sentinel, The
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
+
+Political Action (4)
+1x Banishment
+1x Kine Resources Contested
+1x Meddling of Semsith, The
+1x Political Stranglehold
+
+Retainer (7)
+1x Mr. Winthrop
+5x Raven Spy
+1x Shaman
+
+Action Modifier (6)
+5x Freak Drive
+1x Strange Day
+
+Action Modifier/Combat (3)
+3x Predator's Transformation
+
+Reaction (7)
+4x Predator's Communion
+3x Sense the Savage Way
+
+Combat (23)
+2x Aid from Bats
+6x Carrion Crows
+4x Hidden Strength
+4x Invoking the Beast
+5x Rolling with the Punches
+2x Taste of Vitae

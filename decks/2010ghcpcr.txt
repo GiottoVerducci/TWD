@@ -1,0 +1,58 @@
+Gehenna has come
+Prague, Czech Republic
+November 21st 2010
+24 players
+Jakub Rýpar
+
+-- 5VP in final
+
+Deck Name: Lutz's Chain Lightning
+
+Crypt (12 cards, min=28, max=44, avg=9.17)
+------------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
+2x Undele		 9   CEL FOR obf pre ser	magaji		Ishtarri:5
+2x Stavros		 7   AUS OBF PRE dem		priscus		Malkavian antitribu:4
+1x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Bernard, The Scourge	 5   ani for pre pro				Gangrel:4
+
+Library (90 cards)
+Master (20; 7 trifle)
+1x Creepshow Casino
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Monastery of Shadows
+7x Villein
+5x Zillah's Valley
+
+Political Action (23)
+1x Ancient Influence
+2x Banishment
+5x Conservative Agitation
+10x Kine Resources Contested
+3x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (37)
+2x Approximation of Loyalty
+1x Awe
+6x Bewitching Oration
+4x Cloak the Gathering
+2x Elder Impersonation
+6x Forgotten Labyrinth
+4x Lost in Crowds
+1x Perfect Paragon
+1x Veil the Legions
+10x Voter Captivation
+
+Combat (8)
+8x Majesty
+
+Event (2)
+1x Narrow Minds
+1x Scourge of the Enochians

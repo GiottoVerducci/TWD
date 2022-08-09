@@ -1,0 +1,73 @@
+Daring The Dawn
+"Fata Morgana", via dei Volsci 3, Rome, Italy
+July 29th 2007
+10 players
+Emiliano Arnotti
+
+Deck Name: [Imb] We have one Conviction... MkII
+
+Description: Imbued deck
+
+Crypt (12 cards, min=14, max=20, avg=4.17)
+------------------------------------------
+4x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+2x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
+1x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (77 cards)
+Master (17)
+4x Angel of Berlin
+1x Archon Investigation
+1x Barrens, The
+1x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Information Highway
+1x Memories of Mortality
+1x Millicent Smith, Puritan Vampire Hunter
+2x Parthenon, The
+1x Rose Foundation, The
+1x Smiling Jack, The Anarch
+2x Unity
+
+Conviction (25)
+10x React with Conviction
+7x Second Sight
+8x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (1)
+1x Vagabond Mystic
+
+Equipment (5)
+1x Crusader Sword, The
+1x Heart of Nizchetus
+1x Ivory Bow
+2x Sport Bike
+
+Power (12)
+2x Discern
+4x Inspire
+2x Rejuvenate
+4x Vigilance
+
+Action Modifier (3)
+3x Change of Target
+
+Reaction (6)
+4x Determine
+2x On the Qui Vive
+
+Combat (2)
+2x Zip Gun
+
+Event (5)
+1x Anthelios, The Red Star
+2x Edge Explosion
+1x Nightmares upon Nightmares
+1x Thirst

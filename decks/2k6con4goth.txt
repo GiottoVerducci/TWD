@@ -1,0 +1,64 @@
+Tournament IV
+Gothenburg, Sweden
+April 8th 2006
+3R+F
+12 players
+Erik Torstensson
+
+Deck Name: And so I teach you
+
+Crypt (12 cards, min=13, max=44, avg=7)
+---------------------------------------
+4x Enkidu, The Noah	11  ANI CEL OBF POT PRO for	Gangrel antitribu:4
+1x Karsh		10  ANI CEL FOR POT PRO		Gangrel:3
+1x Horrock		6   ANI PRO vic			Gangrel:3
+1x Janey Pickman	6   ANI PRO for			Gangrel antitribu:4
+1x Céleste Lamontagne	5   ANI PRO for			Gangrel antitribu:4
+1x Lord Ashton		5   ANI for pro			Gangrel:3
+1x Bobby Lemon		4   ANI pro			Gangrel:3
+1x Mouse		2   ani				Nosferatu:3
+1x Zip			2   ani				Ravnos:3
+
+Library (90 cards)
+Master (13)
+2x Archon Investigation
+6x Blood Doll
+1x Fame
+2x Minion Tap
+1x Sociopath
+1x Tension in the Ranks
+
+Action (1)
+1x Shadow of the Beast
+
+Ally (1)
+1x Mylan Horseed
+
+Retainer (14)
+2x Homunculus
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+2x Murder of Crows
+1x Owl Companion
+5x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (9)
+4x Forced March
+5x Freak Drive
+
+Reaction (10)
+2x Cats' Guidance
+8x Forced Awakening
+
+Combat (41)
+7x Carrion Crows
+6x Drawing Out the Beast
+7x Flesh of Marble
+4x Gleam of Red Eyes
+10x Immortal Grapple
+7x Taste of Vitae
+
+Event (1)
+1x Dragonbound

@@ -1,0 +1,70 @@
+Jann Berger's "L" is for Lunatic Eruption
+Los Angeles, California
+September 1st 2013
+2R+F
+10 players
+Aaron Clark
+
+-- 3VP in final
+
+Deck Name: Watch Your Back
+
+Description: Potence rush with Obfuscate support
+
+Crypt (12 cards, min=8, max=22, avg=4)
+--------------------------------------
+2x Olivia			5   OBF POT vic		bishop	Nosferatu antitribu:2
+2x Agatha			4   POT obf			Nosferatu antitribu:2
+1x Gerard Rafin			6   OBF POT ani for		Nosferatu:3
+1x Ox, Viceroy of the Hollows	6   ANI OBF POT			Nosferatu antitribu:2
+1x Amelia, The Blood Red Tears	5   POT ani obf			Nosferatu:3
+1x Nigel the Shunned		5   ANI POT obf			Nosferatu antitribu:2
+1x Arnold Simpson		2   pot				Brujah:3
+1x Hanna Redmonds		2   obf tha			Caitiff:3
+1x Krid				2   obf				Nosferatu:3
+1x Paul DiCarlo, The Alpha	2   pot				Giovanni:2
+
+Library (88 cards)
+Master (12; 2 trifle)
+1x Archon Investigation
+4x Blood Doll
+1x Bravo
+1x Depravity
+2x Fame
+2x Life in the City
+1x Shanty Town Hunting Ground
+
+Action (15)
+11x Bum's Rush
+2x Computer Hacking
+2x Rampage
+
+Equipment (4)
+1x Ivory Bow
+3x Leather Jacket
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (6)
+2x Cloak the Gathering
+2x Faceless Night
+2x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (6)
+2x Delaying Tactics
+4x Wake with Evening's Freshness
+
+Combat (40)
+5x Behind You!
+4x Disarm
+9x Immortal Grapple
+1x Shattering Blow
+7x Taste of Vitae
+2x Thrown Sewer Lid
+10x Torn Signpost
+2x Undead Strength

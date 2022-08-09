@@ -1,0 +1,76 @@
+Bodek Days II
+Hajnowka, Poland
+August 14th 2011
+21 players
+Marcin Szybkowski
+
+Deck Name: Mummies
+
+Lay low and do your stuff most of the time, recruit a few allies
+to defend, put 5 spells in play and profit.
+
+Crypt (12 cards, min=15, max=38, avg=6.92)
+------------------------------------------
+2x Halim Bey	   6   DOM SER obf tha			 Follower of Set:4
+1x Nakhthorheb	   10  OBF PRE SER			 Follower of Set:4
+1x Seterpenre	   10  AUS NEC OBF PRE SER		 Follower of Set:5
+1x Neferu	   9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
+1x Pentweret	   9   OBF PRE SER aus for obe		 Follower of Set:5
+1x Porphyrion	   9   CHI OBF PRE SER for		 Follower of Set:5
+1x Shemti	   9   OBF POT PRE SER vic	1 vote	 Follower of Set:5
+1x Black Lotus	   5   DOM aus obf ser			 Follower of Set:4
+1x Zhenga	   5   SER obf pre			 Follower of Set:4
+1x Ahmose Chambers 3   obf ser				 Follower of Set:5
+1x Belle Equitone  2   ser				 Follower of Set:4
+
+Library (62 cards)
+Master (12)
+1x Barrens, The
+2x Blood Doll
+1x Charisma
+1x Dark Influences
+3x Effective Management
+1x Fame
+1x Jake Washington
+1x Opium Den
+1x Secure Haven
+
+Action (12)
+2x Set's Curse
+10x Spell of Life
+
+Ally (7)
+1x Amam the Devourer
+1x Carlton Van Wyk
+1x Nephren-Ka
+1x Ossian
+1x Qetu the Evil Doer
+1x Tutu the Doubly Evil One
+1x Vagabond Mystic
+
+Equipment (1)
+1x Mokolé Blood
+
+Action Modifier (10)
+2x Cloak the Gathering
+1x Conditioning
+3x Forgotten Labyrinth
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (4)
+2x Form of the Serpent
+2x Swallowed by the Night
+
+Reaction (10)
+5x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+
+Combat (2)
+2x Target Vitals
+
+Event (4)
+1x Dragonbound
+1x FBI Special Affairs Division
+2x Unmasking, The

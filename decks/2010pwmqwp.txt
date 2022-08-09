@@ -1,0 +1,63 @@
+Parity Shift MQ
+Warsaw, Poland
+January 16th 2010
+3R+F
+18 players
+Tomasz Izydorczyk
+
+Deck Name: tempt me plox 2
+
+4gw14
+
+Crypt (12 cards, min=9, max=24, avg=4.58)
+-----------------------------------------
+3x Allonzo Montoya  6	OBF SER ani aus	 Abomination:3
+3x Hesha Ruhadze    6	SER ani obf pre	 Follower of Set:2
+2x Celine Chevalier 3	obf ser		 Follower of Set:2
+1x Count Ormonde    5	OBF dom pre ser	 Follower of Set:2
+1x Dedefra	    5	SER nec obf	 Follower of Set:2
+1x Lalitha	    2	ser		 Follower of Set:2
+1x Julius	    1	qui ser		 Caitiff:2
+
+Library (80 cards)
+Master (19; 5 trifle)
+1x Archon Investigation
+6x Blood Doll
+1x Crocodile Temple, The
+2x Dreams of the Sphinx
+2x Heidelberg Castle, Germany
+1x Obfuscate
+1x Opium Den
+1x Vessel
+4x Villein
+
+Action (25)
+3x Blithe Acceptance
+4x Enticement
+2x Form of Corruption
+1x Set's Curse
+15x Temptation
+
+Equipment (5)
+1x Aaron's Feeding Razor
+2x Camera Phone
+1x Changeling Skin Mask
+1x Mokolé Blood
+
+Retainer (1)
+1x Robert Carter
+
+Action Modifier (25)
+4x Cloak the Gathering
+2x Domain of Evernight
+4x Faceless Night
+5x Forgotten Labyrinth
+4x Lost in Crowds
+4x Spying Mission
+2x Truth of a Thousand Lies
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Event (1)
+1x Narrow Minds

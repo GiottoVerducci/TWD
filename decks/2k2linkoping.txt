@@ -1,0 +1,63 @@
+Siege of LinCon
+Linköping, Sweden
+May 11th 2002
+16 players
+Henrik Isaksson
+
+Deck Name: The Big Eye sees you!
+
+Description: Intercept everything!
+
+Crypt (12 cards, min=8, max=16, avg=3)
+--------------------------------------
+2x Idalia, Prophet of Guadalajara 4   AUS dem	   Malkavian antitribu:2
+2x Isabel de Leon		  3   AUS	   Toreador:2
+2x Zöe				  3   AUS cel obf  Malkavian:2
+1x Aleph			  4   AUS dom	   Malkavian:1
+1x Dorian Strack		  4   AUS cel	   Toreador:1
+1x Dollface			  3   aus obf	   Malkavian:1
+1x Brazil			  2   aus	   Malkavian:1
+1x Dieter Kleist		  2   aus	   Toreador:1
+1x Franciscus			  1   aus	   Caitiff:2
+
+Library (90 cards)
+Master (22)
+1x Arcanum Chapterhouse, Alexandria
+2x Art Museum
+2x Asylum Hunting Ground
+1x Barrens, The
+3x Blood Doll
+1x Creepshow Casino
+1x Heidelberg Castle, Germany
+1x Powerbase: Montreal
+3x Rötschreck
+1x Society Hunting Ground
+3x Sudden Reversal
+1x Unnatural Disaster
+2x Vast Wealth
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (17)
+4x Improvised Flamethrower
+6x IR Goggles
+2x Ivory Bow
+2x Pier 13, Port of Baltimore
+3x Sniper Rifle
+
+Retainer (3)
+2x Ghoul Retainer
+1x Mr. Winthrop
+
+Reaction (40)
+6x Eagle's Sight
+5x Enhanced Senses
+6x Fast Reaction
+12x Forced Awakening
+4x Precognition
+7x Spirit's Touch
+
+Combat (7)
+5x Aura Reading
+2x Telepathic Tracking

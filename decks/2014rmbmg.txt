@@ -1,0 +1,80 @@
+Rhein-Main-Bashing
+Mainz, Germany
+May 3rd 2014
+2R+F
+16 players
+Johannes Walch
+https://www.vekn.net/event-calendar/event/7636
+
+Deck Name: Wildwood Sorceres
+
+This deck is sort of an evolution of my !Nos Deck centered around Cailean
+where I have big vampires that fight really well and have a good defense
+but had problems with consistently getting gamewins due to the slow build up
+(few crypt acceleration) and lack of multi-act. I cut back on the fight
+consistency and fixed those two problems.
+The master section is completely focused on crypt acceleration and pool gain.
+There are lots of obvious and helpful additions like Fame, but really there
+is no way to fit them without sacrificing something.
+The Biothauma Experiments are really strong and the mini equipment module
+works well. I thought about going for more fancy silver bullets, but in the
+end the basic stuff is far more useful. Never used the Dog Pack, good in
+theory against Majesty heavy preys.
+Enkil Cog is a no brainer and I usually use at least two or none, the six
+Freak Drives are just right, more will easily be too much. Don't need to
+constantly multi-act, rather in a few strategic places (like putting on an
+experiment and then Deep Song).
+The combat is diverse on purpose to keep people guessing, especially since
+the discipline spread of the vamps is scary. It is also focused around not
+spending blood, none of the cards cost, and there is multiple synergies in
+there. I can't consistenly win against combat heavy decks but I can survive
+the one or two critical combats and have some hitback and I can usually
+obliterate anything that doesn't fight at all.
+
+Crypt (12 cards, min=33, max=43, avg=9.58)
+------------------------------------------
+4x Aksinya Daclau  9   ANI FOR PRE PRO cel tha		  Gangrel antitribu:4
+3x Fakir al Sidi   11  ANI FOR PRE PRO THA abo		  Gangrel:4
+3x Mictlantecuhtli 10  ANI FOR POT THA pre pro		  Gangrel:5
+1x Mimir	   10  ANI FOR PRO THA dom	cardinal  Gangrel antitribu:5
+1x Janey Pickman   6   ANI PRO for			  Gangrel antitribu:4
+
+Library (90 cards)
+Master (22; 9 trifle)
+3x Blood Doll
+1x Giant's Blood
+2x Information Highway
+1x Perfectionist
+6x Villein
+3x Wider View
+6x Zillah's Valley
+
+Action (17)
+3x Biothaumaturgic Experiment
+12x Deep Song
+2x Magic of the Smith
+
+Equipment (3)
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sport Bike
+
+Retainer (1)
+1x Dog Pack
+
+Action Modifier (8)
+2x Enkil Cog
+6x Freak Drive
+
+Reaction (12)
+3x Cats' Guidance
+9x Sense the Savage Way
+
+Combat (27)
+8x Carrion Crows
+3x Drawing Out the Beast
+4x Flesh of Marble
+2x Hidden Strength
+2x Indomitability
+5x Taste of Vitae
+3x Trap

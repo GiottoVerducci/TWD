@@ -1,0 +1,78 @@
+Melbourne qualifier
+Melbourne, Australia
+August 18th 2007
+3R+F
+19 players
+Jason Ryan
+
+Deck Name: Fear of the Dark
+
+Description: Lasombra S/B toolbox with a few curve-balls thrown in.
+As an interesting side-note, almost every vampire in this crypt has a
+name ending with "O".
+
+Spooky.
+
+Crypt (12 cards, min=14, max=36, avg=6.25)
+------------------------------------------
+3x Gratiano				  8   DOM OBT obf pot		priscus	  Lasombra:2
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal  Lasombra:2
+2x Banjoko				  5   DOM obt pot			  Lasombra:3
+1x Tobias Smith				  7   DOM OBT PRE pot			  Lasombra:3
+1x Guido Lucciano			  5   OBT dom obf			  Lasombra:2
+1x Ignacio, The Black Priest		  4   dom obt pot			  Lasombra:2
+1x Ramiro				  4   dom obt vic			  Lasombra:2
+1x Royce				  1   dom				  Pander:2
+
+Library (90 cards)
+Master (15)
+4x Blood Doll
+1x Dominate
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x From a Sinking Ship
+1x Giant's Blood
+2x Hungry Coyote, The
+1x Momentum's Edge
+2x Perfectionist
+
+Action (12)
+1x Aranthebes, The Immortal
+1x Dominate Kine
+8x Govern the Unaligned
+1x Graverobbing
+1x Mind Rape
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (5)
+1x Heart of Nizchetus
+3x Leather Jacket
+1x Zaire River Ferry
+
+Political Action (4)
+1x Banishment
+2x Cardinal Benediction
+1x Political Stranglehold
+
+Action Modifier (21)
+2x Blanket of Night
+2x Bonding
+2x Conditioning
+2x Foreshadowing Destruction
+6x Shadow Play
+4x Shroud of Absence
+3x Shroud of Night
+
+Reaction (17)
+7x Deflection
+5x Eyes of the Night
+5x Wake with Evening's Freshness
+
+Combat (15)
+2x Arms of the Abyss
+3x Entombment
+4x Oubliette
+4x Shadow Body
+2x Shadow Step

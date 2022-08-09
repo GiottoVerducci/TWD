@@ -1,0 +1,72 @@
+Great Lakes Regional Qualifier
+Madison, Wisconsin
+May 3rd 2008
+3R+F
+19 players
+Luciano Mariucci
+
+Deck Name: Skullduggery
+
+Description: TWD GLQ 2008, Madison
+
+Crypt (12 cards, min=24, max=32, avg=6.75)
+------------------------------------------
+1x Vasantasena		  9   AUS DEM OBF dom pot  Malkavian antitribu:2
+1x Cornelius Ottavio	  8   AUS OBF pre qui	   Malkavian:2
+1x Reg Driscoll		  8   OBF THN aus for pre  Samedi:2
+1x Bryan Van Duesen	  7   DOM THA aus pre	   Tremere antitribu:2
+1x Siamese, The		  7   PRE SPI ani pro	   Ahrimane:2
+1x Adrianne		  6   aus cel pot pre	   Toreador:1
+1x Dylan		  6   aus cel dom for pro  Ventrue antitribu:2
+1x Lydia Van Cuelen	  6   aus dom pre tha	   Tremere:1
+1x Ozmo			  6   AUS dom obf	   Malkavian:1
+1x Quira, The Bitch Queen 6   AUS OBF obt tha	   Malkavian antitribu:2
+1x Rafaele Giovanni	  6   NEC cel obf	   Giovanni:2
+1x Sheila Mezarin	  6   AUS PRE cel for	   Toreador antitribu:2
+
+Library (80 cards)
+Master (15; 2 trifle)
+1x Anarch Free Press, The
+2x Anarch Railroad
+2x Auspex
+4x Blood Doll
+2x Galaric's Legacy
+2x Obfuscate
+1x Powerbase: Los Angeles
+1x Seattle Committee
+
+Action (16)
+4x Go Anarch
+1x Mind Numb
+8x Skullduggery
+3x Undue Influence
+
+Ally (1)
+1x Procurer
+
+Equipment (3)
+2x .44 Magnum
+1x Ivory Bow
+
+Action Modifier (8)
+2x Aire of Elation
+1x Cloak the Gathering
+2x Faceless Night
+3x Lost in Crowds
+
+Reaction (25)
+2x Eagle's Sight
+2x Enhanced Senses
+2x Forced Awakening
+2x Precognition
+2x Spirit's Touch
+5x Telepathic Counter
+5x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (12)
+2x Aura Reading
+2x Catatonic Fear
+3x Diversion
+3x Dodge
+2x Staredown

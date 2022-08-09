@@ -1,0 +1,65 @@
+Italian Qualifier Tour, Last Stand - Barga
+Brescia, Italy
+March 15th 2015
+2R+F
+16 players
+Alessandro Donati
+https://www.vekn.net/event-calendar/event/8018
+
+Deck Name: Officina della Bistecca
+
+Description: Very fast War Ghoul deck that uses small cap Tzimisce
+and a lot of "Jake" as accelerators, plus some guys with superior Auspex for protection.
+
+Crypt (12 cards, min=8, max=20, avg=3.33)
+-----------------------------------------
+2x Horatio		2   vic			Tzimisce:2
+2x Piotr Andreikov	2   aus			Tzimisce:3
+1x Corine Marcón	6   AUS VIC ani		Tzimisce:2
+1x Devin Bisley		5   ANI AUS vic		Tzimisce:2
+1x Elizabeth Westcott	5   AUS ani cel vic	Tzimisce:3
+1x Lolita Houston	4   VIC aus		Tzimisce:2
+1x Isabel de Leon	3   AUS			Toreador:2
+1x Martin Franckel	3   AUS tha		Tremere:3
+1x Wendy Wade		3   ani aus		Tzimisce:2
+1x Zöe			3   AUS cel obf		Malkavian:2
+
+Library (60 cards)
+Master (13; 2 trifle)
+1x Direct Intervention
+1x Failsafe
+1x Fame
+6x Jake Washington
+1x Mob Connections
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Vessel
+
+Ally (12)
+1x Asanbonsam Ghoul
+1x Carlton Van Wyk
+1x Ossian
+1x Vagabond Mystic
+8x War Ghoul
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Reaction (18)
+2x Delaying Tactics
+4x Eyes of Argus
+3x My Enemy's Enemy
+4x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (10)
+4x Fake Out
+2x Target Vitals
+4x Trap
+
+Event (3)
+1x Dragonbound
+2x Unmasking, The

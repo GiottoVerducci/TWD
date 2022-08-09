@@ -1,0 +1,63 @@
+EC 2004
+Heidelburg, Germany
+November 28th 2004
+3R+F
+117 players
+Rubén Vidaña Ramos
+
+Deck Name: War Ghouls
+
+Crypt (12 cards, min=9, max=22, avg=4.08)
+-----------------------------------------
+2x Lolita Houston	4   VIC aus		Tzimisce:2
+2x Horatio		2   vic			Tzimisce:2
+1x Caliban		6   ANI AUS VIC		Tzimisce:2
+1x Corine Marcón	6   AUS VIC ani		Tzimisce:2
+1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
+1x Devin Bisley		5   ANI AUS vic		Tzimisce:2
+1x Elizabeth Westcott	5   AUS ani cel vic	Tzimisce:3
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Wendy Wade		3   ani aus		Tzimisce:2
+1x Piotr Andreikov	2   aus			Tzimisce:3
+
+Library (70 cards)
+Master (12)
+4x Blood Doll
+1x Charisma
+1x Creepshow Casino
+2x Direct Intervention
+4x Jake Washington
+
+Ally (11)
+1x Vagabond Mystic
+10x War Ghoul
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (11)
+4x Corpse Balloon
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+4x Revenant
+1x Tasha Morgan
+
+Action Modifier (5)
+5x Changeling
+
+Action Modifier/Combat (5)
+5x Plasmic Form
+
+Reaction (11)
+2x Delaying Tactics
+4x Forced Awakening
+5x Telepathic Misdirection
+
+Combat (12)
+4x Breath of the Dragon
+4x Fake Out
+4x Trap
+
+Event (2)
+1x Dragonbound
+1x Unmasking, The

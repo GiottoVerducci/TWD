@@ -1,0 +1,65 @@
+English NC 2009
+Reading, England
+December 5th 2009
+29 players
+Anthony Coleman
+
+-- 3VP in final
+
+Deck Name: "This is dirt... I like it." Anthony on the train to Reading.
+Created by: Arthur de Lustrac
+
+Description: As a side note, the Force of personality were a test and proved to be completely useless.
+they need to be swapped for more seduction, majesties, whatever.
+
+Crypt (12 cards, min=18, max=39, avg=7.17)
+------------------------------------------
+3x Mary Anne Blaire	10  AUS DOM FOR PRE ani pot	justicar  Ventrue:5
+2x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince	  Ventrue:5
+1x Johannes Castelein	9   DEM DOM FOR PRE		prince	  Ventrue:4
+1x Graham Gottesman	7   DOM FOR obf pre tha		prince	  Ventrue:5
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
+1x Victor Donaldson	6   DOM for pre			prince	  Ventrue:5
+1x Emily Carson		5   DOM for pre			primogen  Ventrue:5
+1x Victor Pelletier	5   PRE cel dom for			  Ventrue:4
+1x Jackson Asher	2   dom					  Ventrue:4
+
+Library (77 cards)
+Master (14)
+1x Anarch Troublemaker
+3x Blood Doll
+1x Giant's Blood
+2x Hostile Takeover
+3x Information Highway
+1x Misdirection
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x Banishment
+2x Domain Challenge
+1x Neonate Breach
+5x Parity Shift
+
+Action Modifier (25)
+4x Conditioning
+2x Daring the Dawn
+2x Foreshadowing Destruction
+5x Freak Drive
+4x Perfect Paragon
+4x Seduction
+4x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Force of Personality
+
+Reaction (6)
+6x Deflection
+
+Combat (7)
+7x Majesty

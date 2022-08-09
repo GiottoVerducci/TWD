@@ -1,0 +1,77 @@
+SAC Qualifier - From out of Nowhere
+Santiago, Chile
+October 25th 2008
+3R+F
+10 players
+Hernán Rodríguez
+
+Deck Name: Tzimisce ganador Qualy
+
+Description: Un mazo de control clasico electo mis que nada por la
+lectura de metagame que iba a haber en el Qualy.
+
+Crypt (12 cards, min=16, max=31, avg=5.92)
+------------------------------------------
+3x Devin Bisley	  5   ANI AUS vic	   	    Tzimisce:2
+2x Anton	  8   ANI AUS cel obf vic  	    Tzimisce:2
+2x Dragos	  7   ANI AUS vic	   	    Tzimisce:2
+2x Caliban	  6   ANI AUS VIC	   	    Tzimisce:2
+1x Meshenka	  8   ANI AUS VIC	   priscus  Tzimisce:2
+1x Lolita Houston 4   VIC aus		   	    Tzimisce:2
+1x Horatio	  2   vic		   	    Tzimisce:2
+
+Library (90 cards)
+Master (19; 4 trifle)
+2x Blood Doll
+2x Direct Intervention -- Anti Kiss of Ra
+1x Erciyes Fragments, The
+1x Fame
+1x Library Hunting Ground
+1x Pentex(TM) Subversion
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Rack, The
+2x Rötschreck
+1x Smiling Jack, The Anarch
+1x Tension in the Ranks
+4x Vessel
+
+Action (4)
+2x Abbot
+1x Aranthebes, The Immortal
+1x Army of Rats
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ossian
+
+Equipment (5)
+1x Bowl of Convergence
+1x Femur of Toomler
+1x Heart of Nizchetus
+1x Improvised Flamethrower
+1x Ivory Bow
+
+Retainer (2)
+2x Revenant
+
+Reaction (27)
+2x Cats' Guidance
+4x Eagle's Sight
+4x Forced Awakening
+2x My Enemy's Enemy
+3x On the Qui Vive
+3x Precognition
+2x Read the Winds
+6x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (30)
+12x Aid from Bats
+3x Breath of the Dragon
+8x Carrion Crows
+5x Chiropteran Marauder
+2x Telepathic Tracking
+
+Event (1)
+1x Dragonbound

@@ -1,0 +1,63 @@
+Praxis Seizure
+Sevilla, Spain
+July 23rd 2011
+3R+F
+13 players
+Carlos Martín Guerra
+
+-- 3VP in final
+
+Deck Name: Anson Pistolero
+
+Crypt (12 cards, min=16, max=32, avg=5.67)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom	prince	Toreador:1
+3x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Black Cat			5   CEL pot pre			Brujah:1
+1x Dodd				5   CEL dom pre			Brujah antitribu:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Sarah Brando			3   CEL				Brujah antitribu:2
+
+Library (90 cards)
+Master (31; 5 trifle)
+1x Archon Investigation
+12x Ashur Tablets
+2x Fame
+2x Frontal Assault
+2x Haven Uncovered
+3x Liquidation
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Tension in the Ranks
+2x Vessel
+1x Wash
+2x Wider View
+
+Action (7)
+7x Bum's Rush
+
+Equipment (8)
+8x .44 Magnum
+
+Political Action (1)
+1x Parity Shift
+
+Reaction (7)
+7x Second Tradition: Domain
+
+Combat (33)
+4x Blur
+8x Concealed Weapon
+1x Fast Hands
+7x Psyche!
+5x Pursuit
+2x Side Strike
+2x Sideslip
+4x Taste of Vitae
+
+Event (3)
+1x Anthelios, The Red Star
+1x Dragonbound
+1x Scourge of the Enochians

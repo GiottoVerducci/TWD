@@ -1,0 +1,75 @@
+Origins Thursday 9am
+Columbus, Ohio
+June 29th 2006
+3R+F
+26 players
+Ben Peal
+http://www.veknfrance.com/decks/boc.htm
+
+Deck Name: Lasombra Creation Boon
+
+Description: This deck was directly inspired by Jeff "The Lasombra"
+Thompson's Lasombra decks that took advantage of breed, Power Structure, and Consanguineous Boon:
+
+http://www.veknfrance.com/decks/The_Lasombra_Embraces_the_Austrian_Nationals.htm
+
+I built my own version quite some time ago, but while it did very well in casual games,
+it never quite got it going in a tournament. After my tournament wins with a Ventrue
+version (Buckets o' Money) and an Assamite version (Team Amaravati) of the same concept,
+I came to the conclusion that I needed to get rid of the Obtenebration in the deck and
+exclusively use Obfuscate for stealth, since Obfuscate stealth is free. Angelica,
+Gratiano, and Guido have Obfuscate, making this a solid plan. The deck worked like
+a charm, getting 4GW.
+
+Crypt (12 cards, min=10, max=38, avg=6.17)
+------------------------------------------
+3x Angelica, The Canonicus	 10  DOM OBT POT cel obf  cardinal  Lasombra:2
+3x Gratiano			 8   DOM OBT obf pot	  priscus   Lasombra:2
+1x Catherine du Bois		 5   DOM for obf pre	  	    Ventrue:3
+1x Guido Lucciano		 5   OBT dom obf	  	    Lasombra:2
+1x Cameron			 3   dom pot		  	    Lasombra:2
+1x Hester Reed			 3   obt pot		  	    Lasombra:3
+1x Aaron Duggan, Cameron's Toady 2   obt		  	    Lasombra:2
+1x Krid				 2   obf		  	    Nosferatu:3
+
+Library (90 cards)
+Master (23; 1 trifle)
+1x Barrens, The
+4x Blood Doll
+1x Coven, The
+1x Creepshow Casino
+1x Elysian Fields
+1x KRCG News Radio
+7x Obfuscate
+1x Political Hunting Ground
+4x Power Structure
+1x Powerbase: Madrid
+1x Secure Haven
+
+Action (14)
+8x Creation Rites
+5x Govern the Unaligned
+1x Psychic Veil
+
+Political Action (12)
+5x Consanguineous Boon
+1x Crusade: Berlin
+6x Kine Resources Contested
+
+Action Modifier (19)
+4x Cloak the Gathering
+2x Domain of Evernight
+4x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (16)
+8x Deflection
+8x Wake with Evening's Freshness
+
+Combat (2)
+2x Entombment

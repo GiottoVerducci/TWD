@@ -1,0 +1,71 @@
+Midsummer-Day Dream
+Hilversum, Netherlands
+August 20th 2011
+3R+F
+12 players
+Ralf Lammert
+
+-- 3VP in final
+
+Created by: Michael Bartsch
+
+Title: Nosferatu Anathema
+Player: Ralf Lammert
+
+Crypt (12 cards, min=12, max=36, avg=6.17)
+------------------------------------------
+3x Casino Reeds		9   ANI OBF POT cel dem	 prince	   Nosferatu:3
+2x Nikolaus Vermeulen	7   POT ani for obf	 prince	   Nosferatu:2
+2x Calebros, The Martyr	5   ANI obf pot		 prince	   Nosferatu:2
+1x Ellison Humboldt	9   ANI OBF POT PRE pro	 primogen  Nosferatu:3
+1x Jara Drory		7   ANI OBF aus pot	 primogen  Nosferatu:3
+1x Clarissa Steinburgen	3   ani obf		 	   Nosferatu:3
+1x Krid			2   obf			 	   Nosferatu:3
+1x Mouse		2   ani			 	   Nosferatu:3
+
+Library (90 cards)
+Master (17; 3 trifle)
+5x Animalism
+1x Direct Intervention
+1x Giant's Blood
+3x Haven Uncovered
+1x Labyrinth, The
+1x Papillon
+1x Slum Hunting Ground
+3x Vessel
+1x Warsaw Station
+
+Action (9)
+4x Blood Hunt
+1x Judgment: Camarilla Segregation
+4x Third Tradition: Progeny
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (15)
+5x Anathema
+4x Consanguineous Boon
+2x Nosferatu Justicar
+2x Parity Shift
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Houston
+
+Action Modifier (10)
+3x Animal Magnetism
+2x Faceless Night
+2x Lost in Crowds
+1x Old Friends
+2x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (27)
+15x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+2x Taste of Vitae

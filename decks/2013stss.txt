@@ -1,0 +1,53 @@
+Skin Trap
+Stockholm, Sweden
+August 31st 2013
+2R+F
+15 players
+Christofer Lindholm
+
+-- 4VP in final
+
+Deck Name: Christofers Kindred Spirits
+
+Crypt (12 cards, min=11, max=26, avg=4.92)
+------------------------------------------
+2x Korah		  7   AUS DEM OBF ani	   priscus  Malkavian antitribu:2
+2x Dolphin Black	  6   AUS DEM OBF	   	    Malkavian antitribu:2
+2x Boy Toy		  2   dem		   	    Malkavian antitribu:2
+1x Artemis		  6   DEM OBF aus cel for  	    Malkavian antitribu:2
+1x Quira, The Bitch Queen 6   AUS OBF obt tha	   	    Malkavian antitribu:2
+1x Colonel, The		  5   AUS cel dem obf	   	    Malkavian antitribu:3
+1x General Perfidio Díos  5   AUS dem obf	   bishop   Malkavian antitribu:3
+1x Claven		  4   aus dem obf	   	    Malkavian antitribu:2
+1x Yorik		  3   dem obf		   	    Malkavian antitribu:2
+
+Library (80 cards)
+Master (13; 5 trifle)
+1x Barrens, The
+1x Coven, The
+3x Dementation
+1x Dreams of the Sphinx
+1x Elder Library
+1x Obfuscate
+1x Pentex(TM) Subversion
+2x Vessel
+2x Wash
+
+Action (17)
+17x Kindred Spirits
+
+Action Modifier (41)
+4x Cloak the Gathering
+6x Confusion
+14x Eyes of Chaos
+5x Faceless Night
+3x Into Thin Air
+5x Lost in Crowds
+4x Veil the Legions
+
+Reaction (8)
+4x On the Qui Vive
+4x Telepathic Misdirection
+
+Event (1)
+1x Bitter and Sweet Story, The

@@ -1,0 +1,61 @@
+Négykapu Liga III.
+Budapest, Hungary
+April 12th 2015
+3R+F
+26 players
+Norbert Bróda
+https://www.vekn.net/event-calendar/event/8078
+
+-- 4VP in final
+
+Deck Name: Malkavian Antitribu S&B
+Created by: Tzimisce
+
+Description: Classic Dementation S&B.
+
+Crypt (12 cards, min=24, max=30, avg=6.75)
+------------------------------------------
+2x Rodolfo		  8   AUS DEM OBF pro	   bishop   Malkavian antitribu:3
+2x Korah		  7   AUS DEM OBF ani	   priscus  Malkavian antitribu:2
+1x Quentin King III	  7   AUS DEM obf pre	   prince   Malkavian:3
+1x Quentin King III (ADV) 7   AUS DEM OBF cel pre  	    Malkavian:3
+2x Artemis		  6   DEM OBF aus cel for  	    Malkavian antitribu:2
+2x Dolphin Black	  6   AUS DEM OBF	   	    Malkavian antitribu:2
+1x Kite			  7   AUS DEM obf pre	   bishop   Malkavian antitribu:2
+1x Tony			  6   AUS DEM dom obf	   	    Malkavian:3
+
+Library (90 cards)
+Master (15; 2 trifle)
+1x Archon Investigation
+3x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Information Highway
+1x Pentex(TM) Subversion
+3x Sudden Reversal
+2x Wash
+
+Action (19)
+3x Call, The
+16x Kindred Spirits
+
+Action Modifier (31)
+10x Confusion
+4x Elder Impersonation
+4x Eyes of Chaos
+4x Faceless Night
+4x Lost in Crowds
+4x Spying Mission
+1x Walk through Arcadia
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (16)
+6x On the Qui Vive
+6x Telepathic Misdirection
+4x Wrong and Crosswise
+
+Combat (5)
+1x Coma
+4x No Trace

@@ -1,0 +1,77 @@
+NAC 2012 - First Chance Qualifier
+Columbus, Ohio
+June 3rd 2012
+2R+F
+35 players
+James Messer
+
+-- 3VP in final
+
+Deck Name: If You Can't Beat Ashur, Play Them
+
+Crypt (13 cards, min=32, max=40, avg=9.08)
+------------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+3x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+1x Sela (ADV)				  7   POT PRE cel obt		archbishop  Brujah antitribu:2
+
+Library (76 cards)
+Master (26; 7 trifle)
+7x Ashur Tablets
+1x Black Forest Base
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Fear of Mekhet
+1x Giant's Blood
+1x Jake Washington
+1x Monastery of Shadows
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Power Structure
+6x Villein
+1x Wash
+
+Action (7)
+1x Entrancement
+4x Govern the Unaligned
+1x Horseshoes
+1x Shadow Twin
+
+Ally (4)
+4x Nocturn
+
+Equipment (1)
+1x Zaire River Ferry
+
+Political Action (8)
+1x Ancient Influence
+2x Banishment
+3x Kine Resources Contested
+1x Neonate Breach
+1x Scourge
+
+Action Modifier (22)
+2x Awe
+2x Blanket of Night
+1x Bonding
+1x Conditioning
+1x Iron Glare
+2x Perfect Paragon
+2x Seduction
+2x Shadow Play
+2x Shroud of Absence
+2x Shroud of Night
+2x Tenebrous Form
+3x Voter Captivation
+
+Reaction (6)
+4x Deflection
+2x On the Qui Vive
+
+Combat (2)
+2x Shadow Body

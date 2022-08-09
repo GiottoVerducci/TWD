@@ -1,0 +1,60 @@
+Antediluvian Awakening: Zaragoza
+Zaragoza, Spain
+November 23rd 2019
+3R+F
+25 players
+Miquel Jorge Tortajada
+https://www.vekn.net/event-calendar/event/9457
+
+-- 1GW4 + 3VP in final
+
+Deck Name: Howler
+
+Crypt (12 cards, min=21, max=32, avg=6.67)
+------------------------------------------
+4x Howler	    8	ANI PRE SPI obf		Ahrimane:2
+3x Siamese, The	    7	PRE SPI ani pro		Ahrimane:2
+3x Cynthia Ingold   6	SPI ani for pre		Ahrimane:2
+1x Nettie Hale	    5	ani cel pre pro spi	Ahrimane:2
+1x Juanita Santiago 4	ani pre spi		Ahrimane:2
+
+Library (90 cards)
+Master (12; 5 trifle)
+2x Archon Investigation
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+4x Vessel
+1x Wash
+
+Action (15)
+2x Abbot
+1x Army of Rats
+2x Deep Song
+7x Enchant Kindred
+1x Entrancement
+2x Nose of the Hound
+
+Ally (1)
+1x Ossian
+
+Action Modifier (2)
+2x Squirrel Balance
+
+Action Modifier/Combat (8)
+8x Swiftness of the Stag
+
+Reaction (24)
+3x Cats' Guidance
+6x Ears of the Hare
+4x Falcon's Eye
+3x On the Qui Vive
+8x Speak with Spirits
+
+Combat (28)
+10x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+4x Taste of Vitae
+4x Terror Frenzy

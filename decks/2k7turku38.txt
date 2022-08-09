@@ -1,0 +1,75 @@
+Praxis Seizure XXXVIII: Turku
+Turku-sali, Turku, Finland
+October 7th 2007
+3R+F
+13 players
+Otso Saariluoma
+
+-- 2VP in final
+
+Crypt (12 cards, min=6, max=22, avg=3.75)
+-----------------------------------------
+2x Yseult			  6   FOR MEL PRE  Daughter of Cacophony:3
+2x Angela Preston		  5   MEL PRE for  Daughter of Cacophony:2
+2x Rose, The			  5   PRE VIC aus  Tzimisce:3
+2x Tupdog			  1   POT VIS	   Gargoyle:3
+1x Delilah Monroe		  4   MEL for pre  Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret 3   mel pre	   Daughter of Cacophony:2
+1x Horatio			  2   vic	   Tzimisce:2
+1x Piotr Andreikov		  2   aus	   Tzimisce:3
+
+Library (81 cards)
+Master (17; 2 trifle)
+1x Bastille Opera House
+4x Blood Doll
+2x Conductor
+1x Creepshow Casino
+1x Jake Washington
+1x Library Hunting Ground
+2x Paris Opera House
+2x Perfectionist
+2x Wash
+1x WMRH Talk Radio
+
+Action (6)
+1x Aranthebes, The Immortal
+2x Enchant Kindred
+3x Entrancement
+
+Ally (9)
+4x Asanbonsam Ghoul
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Neighborhood Watch Commander
+1x Ossian
+1x Vagabond Mystic
+
+Political Action (10)
+2x Autarkis Persecution
+2x Disputed Territory
+6x Kine Resources Contested
+
+Action Modifier (24)
+2x Aire of Elation
+3x Bewitching Oration
+2x Change of Target
+2x Freak Drive
+5x Missing Voice, The
+1x Phantom Speaker
+4x Siren's Lure
+5x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Madrigal
+
+Reaction (2)
+2x On the Qui Vive
+
+Combat (8)
+6x Majesty
+2x Staredown
+
+Event (3)
+1x Break the Code
+1x FBI Special Affairs Division
+1x Unmasking, The

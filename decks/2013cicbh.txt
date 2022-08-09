@@ -1,0 +1,72 @@
+Creepshow in Cantina
+Budapest, Hungary
+April 27th 2013
+3R+F
+13 players
+Gyula Erdõs
+
+-- 3VP in final
+
+Deck Name: Tzimish
+
+Crypt (12 cards, min=18, max=38, avg=7.25)
+------------------------------------------
+2x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
+2x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
+1x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
+1x Velya, The Flayer		    9	ANI AUS PRE VIC for	cardinal    Tzimisce:3
+1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+1x Kazimir Savostin		    7	AUS VIC ani pot			    Tzimisce:3
+1x Caliban			    6	ANI AUS VIC			    Tzimisce:2
+1x Corine Marcón		    6	AUS VIC ani			    Tzimisce:2
+1x Lolita Houston		    4	VIC aus				    Tzimisce:2
+1x Horatio			    2	vic				    Tzimisce:2
+
+Library (90 cards)
+Master (20; 9 trifle)
+2x Direct Intervention
+1x Fame
+1x Giant's Blood
+1x Library Hunting Ground
+1x Lilith's Blessing
+1x Path of Metamorphosis, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Tension in the Ranks
+4x Vessel
+4x Villein
+1x Wider View
+
+Action (6)
+1x Aranthebes, The Immortal
+1x Army of Rats
+4x Deep Song
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+1x Bowl of Convergence
+1x Femur of Toomler
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (28)
+1x Delaying Tactics
+2x Eagle's Sight
+3x Enhanced Senses
+9x Eyes of Argus
+4x My Enemy's Enemy
+2x Sense the Savage Way
+7x Telepathic Misdirection
+
+Combat (32)
+1x Canine Horde
+5x Carrion Crows
+4x Chiropteran Marauder
+12x Horrid Form
+3x Taste of Vitae
+2x Telepathic Tracking
+5x Trap

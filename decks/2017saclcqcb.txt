@@ -1,0 +1,81 @@
+SAC 2017 - Last Chance Qualifier
+Caucaia, Brazil
+October 13th 2017
+3R+F
+27 players
+Renato Torres
+https://www.vekn.net/event-calendar/event/8691
+
+-- 4VP in final
+
+Deck Name: Justiça da Camarilla
+
+Crypt (13 cards, min=11, max=21, avg=3.62)
+------------------------------------------
+1x Rake					6   PRE aus cel pot	prince	  Brujah:1
+1x Victoria Ash				6   PRE aus cel dom	primogen  Toreador:2
+1x Volker, The Puppet Prince		5   CEL pot		prince	  Brujah:2
+1x Violette Prentiss			4   PRE dom			  Ventrue:1
+1x Dollface				3   aus obf			  Malkavian:1
+1x Duck					3   obf pot			  Nosferatu:1
+1x Gideon Fontaine			3   PRE				  Ventrue:1
+1x Itzahk Levine			3   cel pre			  Ventrue:2
+1x Regilio, The Seeker of Akhenaten	3   aus obf			  Nosferatu:2
+1x Roland Loussarian			3   for pre			  Ventrue:1
+1x Uma Hatch				3   cel pre			  Brujah:1
+1x Watenda				3   obf				  Malkavian:2
+1x Vasilis, The Traitor of Don Cruez	2   pre				  Brujah:2
+
+Library (87 cards)
+Master (17)
+1x Anarch Troublemaker
+1x Barrens, The
+1x Creepshow Casino
+7x Effective Management
+1x Elysium: The Palace of Versailles
+1x Heidelberg Castle, Germany
+1x Information Highway
+1x Obfuscate
+1x Presence
+1x Ventrue Headquarters
+1x Warzone Hunting Ground
+
+Action (9)
+4x Charming Lobby
+3x Judgment: Camarilla Segregation
+2x Third Tradition: Progeny
+
+Political Action (43)
+1x Brujah Justicar
+1x Command of the Harpies
+1x Conservative Agitation
+1x Disputed Territory
+1x Excommunication
+2x Justicar Retribution
+20x Kine Resources Contested
+1x Malkavian Justicar
+2x Neonate Breach
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: Frankfurt
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Houston
+1x Praxis Seizure: London
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Paris
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Washington, D.C.
+1x Ventrue Justicar
+
+Action Modifier (18)
+2x Awe
+2x Bewitching Oration
+4x Cloak the Gathering
+1x Closed Session
+2x Cryptic Rider
+1x Forgotten Labyrinth
+1x Spying Mission
+3x Veil the Legions
+2x Voter Captivation

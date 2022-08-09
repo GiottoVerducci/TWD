@@ -1,0 +1,70 @@
+Newcastle Qualifier
+Newcastle (New South Wales), Australia
+July 3rd 2004
+21 players
+Julian Gatt
+
+Deck Name: Omaya Wall
+
+Crypt (12 cards, min=12, max=28, avg=5.25)
+------------------------------------------
+4x Omaya		7   ANI AUS FOR pro		Gangrel antitribu:2
+2x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
+1x Horrock		6   ANI PRO vic			Gangrel:3
+1x Dr. Allan Woodstock	5   PRO ani aus for		Gangrel:3
+1x Bobby Lemon		4   ANI pro			Gangrel:3
+1x Chandler Hungerford	3   PRO				Gangrel:2
+1x Isabel de Leon	3   AUS				Toreador:2
+1x Sadie		2   pro				Gangrel antitribu:2
+
+Library (84 cards)
+Master (16)
+1x Archon Investigation
+2x Auspex
+1x Barrens, The
+4x Blood Doll
+1x Campground Hunting Ground
+1x Elysium: Sforzesco Castle
+1x KRCG News Radio
+1x Protean
+4x Rötschreck
+
+Action (3)
+2x Pulse of the Canaille
+1x Tier of Souls
+
+Equipment (3)
+2x Ivory Bow
+1x Laptop Computer
+
+Retainer (5)
+1x Homunculus
+1x Mr. Winthrop
+1x Owl Companion
+2x Raven Spy
+
+Action Modifier (3)
+3x Earth Control
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Reaction (34)
+4x Cats' Guidance
+4x Eagle's Sight
+4x Enhanced Senses
+4x Forced Awakening
+2x Guard Dogs
+2x Precognition
+2x Read the Winds
+2x Spirit's Touch
+2x Telepathic Counter
+5x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (18)
+5x Bone Spur
+2x Claws of the Dead
+6x Flesh of Marble
+4x Form of Mist
+1x Wolf Claws

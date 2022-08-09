@@ -1,0 +1,81 @@
+Northwest Qualifier 2017
+Mox Boarding Board, Seattle, Washington
+April 8th 2017
+3R+F
+13 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/8581
+
+Deck Name: Farley Mowat
+Created by: Darby Keeney, original design though not unlike Roberto Venturi's 2011 entry in the TWDA.
+
+Finals seating: Saulot Hide the Heart (Faye, 4th) --> Scobax (Kelly, 1st) --> Khazar (Darby, 2nd) --> Turbo Baron (Fletcher, 5th) --> Daughers Lily Prelude (Raj, 3rd).
+
+An immediate Pentex and bad opening draw shafted the Baron, gaining both Khazar's and Lily Prelude momentum for early VPs - also importantly removing one of the 2 decks that would re-actively screw with minion actions/blood totals.
+
+The game devolved into never-ending Scobax vs lots of actions from 2 players. The Daughters were 1 turn from being ousted pretty much the whole endgame but I had no intention seeing Raj below 6 pool until a few Wraiths reached play or Kelly was ousted. Kelly felt it necessary to Scobax every Wraith attempt, so I was happy to fully occupy his attention and allow Raj's votes to keep Kelly in a defensive bloat/block posture - even when Charming Lobbies hit the table.
+
+The Khazar's deck ended with with no Embraces, no Wraiths, a prey with no library and 5 pool, but holding 1.5 VP for the game win from 2nd seed. A postmortem suggested reversing my position with Kelly's might improved his situation, or that opting to bleed (hard) immediately on entering the 3 player game might have yielded a different result. Either way, I felt this was a very well--played final from all involved and enjoyed the game completely.
+
+My copy of Lia Milliner somehow evaporated from the cypt (Graverobbed somewhere?). She's back after seeing omission.
+
+Really needs Master trimming with inclusion of one Direct Intervention - but honestly it was the Liquidations and Embraces that transformed the deck into something worthy of tournament play. With the Liquidations came the need for more MPA, hence Parthenon. Getting to 15 Masters with DI would be optimal.
+
+A mix of rush and defensive minions with a potent anti-equipment twist
+
+Crypt (12 cards, min=4, max=14, avg=2.17)
+-----------------------------------------
+5x Anarch Convert		   1   -none-	    Caitiff:ANY
+1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
+1x Gloria Giovanni		   4   DOM nec	    Giovanni:2
+1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
+1x Mario Giovanni		   3   nec pot	    Giovanni:2
+1x Rudolfo Giovanni		   3   NEC	    Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
+1x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+
+Library (68 cards)
+Master (19)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Creepshow Casino
+1x Garibaldi-Meucci Museum
+1x Humanitas
+2x Jake Washington
+4x Liquidation
+1x Parthenon, The
+1x Pentex(TM) Subversion
+3x Piper
+1x Powerbase: Cape Verde
+1x Powerbase: Los Angeles
+1x Seattle Committee
+
+Action (16)
+4x Embrace, The
+7x Khazar's Diary (Endless Night)
+5x Sudario Refraction
+
+Ally (12)
+1x Carlton Van Wyk
+8x Cry Wolf
+1x Gianna di Canneto
+1x Ossian
+1x Tye Cooper
+
+Action Modifier (3)
+3x Call of the Hungry Dead
+
+Action Modifier/Reaction (1)
+1x Spectral Divination
+
+Reaction (9)
+2x Deflection
+2x Delaying Tactics
+5x On the Qui Vive -- with mostly inferior [dom] the OtQV get double duty for both wolf blocks and reaction access.
+
+Combat (5)
+5x Target Vitals -- as often used by blocked Giovanni as by the rushing wolves.
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

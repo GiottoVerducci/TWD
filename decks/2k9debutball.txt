@@ -1,0 +1,61 @@
+The Debut Ball
+Perth, Scotland
+October 24th 2009
+3R+F
+17 players
+Lukasz Wasylow
+
+-- 3VP in final
+
+Deck Name: Rachel Madness
+
+Crypt (12 cards, min=27, max=40, avg=8.83)
+------------------------------------------
+7x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	   Malkavian:3
+2x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
+1x Maris Streck		9   AUS OBF ani dem dom	 justicar  Malkavian:3
+1x Quentin King III	7   AUS DEM obf pre	 prince	   Malkavian:3
+1x Tony			6   AUS DEM dom obf	 	   Malkavian:3
+
+Library (85 cards)
+Master (13; 4 trifle)
+1x Direct Intervention
+4x Madness Network
+2x Pentex(TM) Subversion
+2x Perfectionist
+2x Vessel
+2x Wash
+
+Action (3)
+3x Kindred Spirits
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (4)
+1x Bowl of Convergence
+1x Camera Phone
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (17)
+5x Crocodile's Tongue
+3x Elder Impersonation
+1x Enkil Cog
+3x Into Thin Air
+5x Lost in Crowds
+
+Reaction (24)
+2x Delaying Tactics
+2x On the Qui Vive
+1x Poison Pill
+14x Second Tradition: Domain
+5x Telepathic Misdirection
+
+Combat (21)
+17x Earth Meld
+4x Form of Mist

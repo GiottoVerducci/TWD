@@ -1,0 +1,46 @@
+Deal with the Devil
+Paris, France
+July 3rd 2004
+20 players
+Kamel Senni
+
+Crypt (17 cards, min=32, max=36, avg=8.24)
+------------------------------------------
+15x Anson	    8	 CEL PRE aus dom	  prince    Toreador:1
+1x  Democritus	    10	 DOM PRE aus cel for	  justicar  Ventrue:1
+1x  Huitzilopochtli 10	 AUS DAI DOM OBF POT PRE  	    Baali:2
+
+Library (90 cards)
+Master (73)
+9x Anarch Revolt
+1x Antediluvian Awakening
+1x Art Museum
+1x Barrens, The
+1x Bleeding the Vine
+5x Dreams of the Sphinx
+5x Fortschritt Library
+1x Giant's Blood
+7x Golconda: Inner Peace
+4x Hostile Takeover
+1x Information Highway
+3x Life Boon
+1x Malkavian Dementia
+9x Minion Tap
+7x Parthenon, The
+2x Personal Involvement
+3x Recruitment
+3x Storage Annex
+1x Succubus Club
+2x Sudden Reversal
+1x Temptation of Greater Power
+5x Visit from the Capuchin
+
+Reaction (14)
+4x Delaying Tactics
+10x Obedience
+
+Combat (2)
+2x Staredown
+
+Event (1)
+1x Anthelios, The Red Star

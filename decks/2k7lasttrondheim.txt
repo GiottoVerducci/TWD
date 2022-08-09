@@ -1,0 +1,70 @@
+Last Stand MQ
+Trondheim, Norway
+July 21st 2007
+3R+F
+15 players
+John Ivar Sandvik
+
+-- 2GW7 + 4VP in final
+
+Deck Name: I Love the Dead
+Created by: John Ivar Sandvik (a design based on several SH decks out there)
+
+Crypt (12 cards, min=12, max=25, avg=4.42)
+------------------------------------------
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Rudolfo Giovanni	3   NEC			Giovanni:2
+1x Rafaele Giovanni	6   NEC cel obf		Giovanni:2
+1x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+1x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+1x Francesca Giovanni	4   dom nec pot		Giovanni:2
+1x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Cristofero Giovanni	3   nec pot		Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+1x Mario Giovanni	3   nec pot		Giovanni:2
+
+Library (90 cards)
+Master (38)
+4x Acquired Ventrue Assets
+4x Blood Doll
+1x Charisma
+3x Direct Intervention
+1x Dis Pater
+2x Fame
+1x Fortschritt Library
+1x Giant's Blood
+7x Liquidation
+4x Memories of Mortality
+5x Parthenon, The
+3x Path of Bone, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+
+Action (9)
+3x Govern the Unaligned
+2x Graverobbing
+4x Sudario Refraction
+
+Ally (23)
+1x Alia, God's Messenger
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+1x Leonardo, Mortician
+1x Repo Man
+18x Shambling Hordes
+
+Equipment (3)
+3x Unlicensed Taxicab
+
+Action Modifier (9)
+6x Call of the Hungry Dead
+2x Conditioning
+1x Foreshadowing Destruction
+
+Combat (4)
+4x Trap
+
+Event (4)
+1x Anthelios, The Red Star
+1x FBI Special Affairs Division
+2x Unmasking, The

@@ -1,0 +1,79 @@
+Weigh the Heart
+Boston, Massachusetts
+August 7th 2005
+10 players
+Ben Swainbank
+
+Deck Name: Fauberge's Eggs
+
+Crypt (12 cards, min=13, max=30, avg=5.25)
+------------------------------------------
+3x Étienne Fauberge	 8   ANI CEL CHI FOR	Ravnos:3
+1x Joaquina Amaya	 6   ANI CHI FOR	Ravnos:2
+1x Vaclav Petalengro	 6   ANI CHI for pot	Ravnos:2
+1x Andrei Puxon		 5   ani cel chi for	Ravnos:2
+1x Khalil Ravana	 5   CHI ani for pre	Ravnos:2
+1x Gustavo Morales	 4   ani cel for	Gangrel:3
+1x Salbatore Bokkengro	 4   CHI for pro	Ravnos:2
+1x Sennuwy, The Promoter 4   ani chi for	Ravnos:2
+1x Vedel Esbreno	 3   chi for		Ravnos:2
+1x Zip			 2   ani		Ravnos:3
+
+Library (90 cards)
+Master (13)
+3x Blood Doll
+1x Carver's Meat Packing and Storage
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Fortune Teller Shop
+1x Giant's Blood
+1x Park Hunting Ground
+1x Path of Lilith, The
+1x Powerbase: Montreal
+1x Week of Nightmares
+1x WMRH Talk Radio
+
+Action (3)
+1x Army of Rats
+1x Embrace, The
+1x Tumnimos
+
+Action/Reaction (2)
+2x Draba
+
+Ally (2)
+2x Neighborhood Watch Commander
+
+Retainer (7)
+1x Murder of Crows
+1x Owl Companion
+5x Raven Spy
+
+Action Modifier (6)
+2x Fata Morgana
+4x Forced March
+
+Action Modifier/Combat (4)
+2x Mirror Image
+2x Occlusion
+
+Reaction (13)
+5x Cats' Guidance
+4x Forced Awakening
+4x Wake with Evening's Freshness
+
+Combat (39)
+1x Canine Horde
+7x Carrion Crows
+2x Flash
+5x Hidden Strength
+2x Imposing Phantasm
+5x Pack Alpha
+2x Psyche!
+6x Pursuit
+5x Skin of Steel
+2x Taste of Vitae
+2x Weighted Walking Stick
+
+Event (1)
+1x NSA Trio

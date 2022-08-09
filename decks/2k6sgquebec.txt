@@ -1,0 +1,63 @@
+Shell Game
+Librairie le Donjon, Quebec City, Quebec
+March 5th 2006
+3R+F
+14 players
+François Nadeau-Labrecque
+
+Deck Name: Cardano's Kinda Freak
+
+Crypt (12 cards, min=17, max=36, avg=6.92)
+------------------------------------------
+5x Cardano			9   DOM FOR THA ani aus cel	prince	Tremere:1
+4x Muaziz, Archon of Ulugh Beg	7   THA aus dom for			Tremere:2
+1x Fidus, The Shrunken Beast	4   for tha vis				Gargoyle:2
+1x Ingrid Russo			4   DOM for				Ventrue antitribu:2
+1x Mustafa Rahman		2   dom					Tremere:2
+
+Library (80 cards)
+Master (10)
+1x Arcane Library
+2x Blood Doll
+1x Chantry
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Perfectionist
+1x Visit from the Capuchin
+
+Action (8)
+1x Far Mastery
+2x Govern the Unaligned
+5x Magic of the Smith
+
+Equipment (6)
+2x Ankara Citadel, Turkey, The
+2x IR Goggles
+1x Ivory Bow
+1x Seal of Veddartha
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Murder of Crows
+1x Owl Companion
+
+Action Modifier (14)
+3x Conditioning
+11x Freak Drive
+
+Reaction (11)
+7x Deflection
+2x Forced Awakening
+2x Second Tradition: Domain
+
+Combat (27)
+3x Burst of Sunlight
+8x Hidden Strength
+7x Skin of Steel
+1x Soul Burn
+5x Theft of Vitae
+3x Thoughts Betrayed
+
+Event (1)
+1x NSA Trio

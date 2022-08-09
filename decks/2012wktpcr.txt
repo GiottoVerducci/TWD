@@ -1,0 +1,58 @@
+The Wheelchair Knight Tournament
+Prague, Czech Republic
+March 4th 2012
+18 players
+Martin Miller
+
+Deck Name: Princes & Pistols
+
+3GW.
+
+Crypt (12 cards, min=16, max=32, avg=6.17)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom	prince	Toreador:1
+2x Marcellus			8   AUS CEL pro		prince	Toreador:2
+2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Black Cat			5   CEL pot pre			Brujah:1
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Sarah Brando			3   CEL				Brujah antitribu:2
+
+Library (80 cards)
+Master (23; 5 trifle)
+9x Ashur Tablets
+3x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+2x Haven Uncovered
+1x Pentex(TM) Subversion
+1x Tension in the Ranks
+2x Vessel
+3x Villein
+
+Action (7)
+7x Bum's Rush
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (7)
+7x .44 Magnum
+
+Political Action (2)
+2x Parity Shift
+
+Reaction (7)
+7x Second Tradition: Domain
+
+Combat (32)
+3x Blur
+7x Concealed Weapon
+1x Fast Hands
+7x Psyche!
+6x Pursuit
+3x Sideslip
+5x Taste of Vitae
+
+Event (1)
+1x Dragonbound

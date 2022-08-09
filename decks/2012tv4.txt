@@ -1,0 +1,78 @@
+GS Euskadi: Torneo Vikingo IV
+Vitoria-Gasteiz, Spain
+September 15th 2012
+3R+F
+12 players
+Jonatan Reino
+
+-- 3VP in final
+
+Deck Name: Gabrin's Back
+
+Crypt (12 cards, min=11, max=30, avg=5.17)
+------------------------------------------
+3x Gabrin			8   ANI CHI dom for	Ravnos:2
+1x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
+1x Sarisha Veliku		6   ANI FOR chi dom	Ravnos:2
+1x Vaclav Petalengro		6   ANI CHI for pot	Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for		Ravnos:2
+1x Vedel Esbreno		3   chi for		Ravnos:2
+1x Sasha Miklos			2   chi			Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+
+Library (87 cards)
+Master (20; 1 trifle)
+1x Archon Investigation
+4x Blood Doll
+1x Coven, The
+1x Dreams of the Sphinx
+1x Fortune Teller Shop
+1x Giant's Blood
+1x Jake Washington
+1x Park Hunting Ground
+2x Path of Paradox, The
+1x Pentex(TM) Subversion
+4x Ravnos Carnival
+1x Sudden Reversal
+1x Week of Nightmares
+
+Action (13)
+1x Army of Rats
+2x Fatuus Mastery
+5x Sensory Deprivation
+5x Tumnimos
+
+Action/Reaction (5)
+5x Draba
+
+Ally (2)
+1x Carlton Van Wyk
+1x Rom Gypsy
+
+Equipment (3)
+1x Shilmulo Tarot
+2x Treasured Samadji
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (10)
+9x Fata Morgana
+1x Kiss of Ra, The
+
+Action Modifier/Combat (11)
+8x Mirror Image
+3x Occlusion
+
+Reaction (12)
+2x Cats' Guidance
+3x Ignis Fatuus
+7x Wake with Evening's Freshness
+
+Combat (9)
+4x Apparition
+2x Skin of Steel
+3x Soak

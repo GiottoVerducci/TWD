@@ -1,0 +1,72 @@
+NAC 2017 Day 2
+Origins, Columbus, Ohio
+June 17th 2017
+3R+F
+25 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/8651
+
+Deck Name: Stansilava goes for a bloody donat
+
+I usually play this Deck with 80 Cards, but i did some metagame changes because
+I expected less combat and more bleed. Changes were
++2 forced march +4 Sense the Savage Way +2 murmur +1 villein -1 scourge
+Big thanks to Ben Peal for his ongoing Support of our game, and all the cool
+People i was blessed to meet there!
+
+Crypt (12 cards, min=36, max=44, avg=10.08)
+-------------------------------------------
+4x Stanislava		11  ANI CEL DOM FOR PRO		inner circle	Gangrel:2
+2x Ingrid Rossler	9   ANI FOR PRO dom		prince		Gangrel:2
+1x Etrius		11  AUS DOM OBF THA pro		inner circle	Tremere:2
+1x Genevieve		10  ANI FOR PRO aus dom		priscus		Gangrel antitribu:2
+1x Hartmut Stover	10  CEL OBF PRO dom for		archbishop	Gangrel antitribu:3
+1x Rachel Brandywine	10  AUS DEM OBF PRO ani		prince		Malkavian:3
+1x Xaviar		10  ANI FOR PRO aus cel pot	2 votes		Gangrel:3
+1x Mark Decker		8   CEL PRO ani for obf pot	prince		Gangrel:3
+
+Library (88 cards)
+Master (22; 7 trifle)
+1x Backways
+4x Dreams of the Sphinx
+1x Ennoia's Theater
+1x Giant's Blood
+1x Information Highway
+2x Jake Washington
+1x Monastery of Shadows
+2x Papillon
+2x Pentex(TM) Subversion
+7x Villein
+
+Action (9)
+9x Govern the Unaligned
+
+Equipment (1)
+1x Seal of Veddartha
+
+Political Action (10)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+7x Parity Shift
+1x Reins of Power
+
+Action Modifier (18)
+3x Conditioning
+6x Earth Control
+1x Enkil Cog
+4x Forced March
+4x Instantaneous Transformation
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (4)
+4x Murmur of the False Will
+
+Reaction (10)
+6x Deflection
+4x Sense the Savage Way
+
+Combat (12)
+4x Earth Meld
+8x Form of Mist

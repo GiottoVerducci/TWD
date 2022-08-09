@@ -1,0 +1,68 @@
+Art Scam
+Pordenone, Italy
+May 10th 2009
+23 players
+Alessandro Donati
+
+Deck Name: Pandermonium
+
+Description: Fate Vobis.
+
+Crypt (15 cards, min=4, max=20, avg=2.4)
+----------------------------------------
+1x Alfred Benezri (ADV)	    7	PRE THA aus dom	 bishop	 Pander:3
+1x Alfred Benezri	    6	PRE THA aus dom	 bishop	 Pander:3
+1x Jimmy Dunn		    4	CEL POT for	 	 Pander:2
+1x Lena Rowe		    3	aus obf pre	 	 Pander:2
+1x Rex, The Necronomist	    3	pot pro vic	 	 Pander:2
+1x Christine Boscacci	    2	dom vic		 	 Pander:2
+1x Gillian Krader	    2	ani dem		 	 Pander:2
+1x Mitchell, The Headhunter 2	obt pot		 	 Pander:2
+1x Angela Decker	    1	pre		 	 Pander:2
+1x Basil		    1	obf		 	 Pander:2
+1x Feo Ramos		    1	aus		 	 Pander:3
+1x Huang, Blood Cultist	    1	pro		 	 Pander:2
+1x March Halcyon	    1	for		 	 Pander:2
+1x Olga Triminov	    1	vic		 	 Pander:3
+1x Royce		    1	dom		 	 Pander:2
+
+Library (60 cards)
+Master (12)
+1x Bleeding the Vine
+1x Creepshow Casino
+1x Dark Influences
+1x Día de los Muertos
+1x Fear of Mekhet
+1x Fortschritt Library
+1x Information Highway
+1x Joseph Pander
+1x Not to Be
+1x Powerbase: Madrid
+1x Powerbase: Rome
+1x Protected Resources
+
+Action (7)
+1x Aranthebes, The Immortal
+6x Creation Rites
+
+Political Action (36)
+6x Consanguineous Boon
+6x Conservative Agitation
+1x Crusade: Amsterdam
+1x Crusade: Barcelona
+1x Crusade: Berlin
+1x Crusade: Brussels
+1x Crusade: Frankfurt
+1x Crusade: Geneva
+1x Crusade: London
+1x Crusade: Paris
+12x Kine Resources Contested
+2x Legacy of Pander
+2x Reinforcements
+
+Event (5)
+1x Blood Weakens
+1x Break the Code
+1x Fall of the Camarilla
+1x Slow Withering, The
+1x Veil of Darkness

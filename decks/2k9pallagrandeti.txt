@@ -1,0 +1,60 @@
+Palla Grande
+Turin, Italy
+March 29th 2009
+27 players
+Gianluca Scala
+
+Deck Name: Lutz e la pazza politica
+
+Description: big politics
+
+Crypt (12 cards, min=28, max=44, avg=9)
+---------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
+3x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
+2x Alicia Barrows	 9   AUS DEM OBF POT PRE  archbishop	Malkavian antitribu:4
+2x Ellison Humboldt	 9   ANI OBF POT PRE pro  primogen	Nosferatu:3
+1x Quentin King III	 7   AUS DEM obf pre	  prince	Malkavian:3
+
+Library (90 cards)
+Master (19)
+1x Archon Investigation
+1x Barrens, The
+1x Black Forest Base
+1x Information Highway
+7x Minion Tap
+1x Secure Haven
+7x Zillah's Valley
+
+Action (1)
+1x Entrancement
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancient Influence
+3x Banishment
+4x Conservative Agitation
+6x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (30)
+5x Awe
+2x Bewitching Oration
+4x Elder Impersonation
+5x Forgotten Labyrinth
+4x Lost in Crowds
+3x Spying Mission
+7x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (8)
+4x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (10)
+4x Charismatic Aura
+6x Majesty

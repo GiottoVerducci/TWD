@@ -1,0 +1,52 @@
+MQ
+Lisbon, Portugal
+April 10th 2010
+13 players
+Eduardo Mateus
+
+"Small Minds Think Alike"
+
+Crypt (12 cards, min=24, max=24, avg=6)
+---------------------------------------
+3x Ilse	  6   POT SAN for pro		Blood Brother:2
+3x Karl	  6   FOR POT pre san		Blood Brother:2
+3x Truman 6   FOR SAN dom pot		Blood Brother:2
+2x Mark	  6   SAN for obf pot	bishop	Blood Brother:2
+1x Jack	  6   cel for pot san		Blood Brother:2
+
+Library (90 cards)
+Master (14; 3 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+2x Fame
+1x Haven Uncovered
+1x Tension in the Ranks
+3x Vessel
+
+Action (23)
+2x Coagulated Entity
+7x Hive Mind
+7x Oppugnant Night
+7x Unwholesome Bond
+
+Ally (1)
+1x Gregory Winter
+
+Action Modifier (6)
+5x Freak Drive
+1x Walk of Caine
+
+Action Modifier/Combat (5)
+5x Slake the Thirst
+
+Combat (40)
+2x Coordinate Attacks
+7x Immortal Grapple
+7x Octopod
+5x Soak
+4x Taste of Vitae
+7x Three's a Crowd
+8x Torn Signpost
+
+Event (1)
+1x Dragonbound

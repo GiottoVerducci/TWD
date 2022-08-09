@@ -1,0 +1,75 @@
+Gateway Event 1
+Los Angeles, California
+September 4th 2010
+2R+F
+14 players
+Matt Wedge
+
+Deck Name: Eze like Sunday morning
+Created by: Matt Wedge & Robert Scythe
+
+Description: rebuilt and updated, because too many cards (Villien)
+were printed to make it better.
+
+Crypt (12 cards, min=31, max=44, avg=9.33)
+------------------------------------------
+4x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus	magaji	Guruhi:3
+2x Ugadja		 10  ABO ANI POT PRE dom for	magaji	Guruhi:4
+2x Nana Buruku		 8   ANI POT PRE			Guruhi:4
+2x Sobayifa		 8   ANI PRE aus pot pro spi	magaji	Guruhi:3
+1x Iniko, The Black Lion 9   ANI OBT POT PRE cel		Guruhi:4
+1x Aren, Priest of Eshu	 7   POT PRE ani obf			Guruhi:4
+
+Library (90 cards)
+Master (25; 22 trifle)
+1x Ancestor Spirit
+14x Aye
+1x Mbare Market, Harare
+1x Monastery of Shadows
+1x Sense Vibrations
+6x Villein
+1x Wider View
+
+Action (5)
+4x Founders of the Ebony Kingdom
+1x No Secrets From the Magaji
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+1x Deer Rifle
+1x Kduva's Mask
+
+Political Action (19)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+1x Disputed Territory
+7x Kine Resources Contested
+1x My Kin Against the World
+1x Neonate Breach
+1x Political Stranglehold
+2x Reinforcements
+1x Reins of Power
+1x Secret Must Be Kept, The
+
+Retainer (2)
+1x Raven Spy
+1x Shaman
+
+Action Modifier (27)
+2x Dusk Work
+1x Edge of the World
+8x High Aye
+6x Iron Glare
+2x Perfect Paragon
+1x Strange Day
+7x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Guruhi Kholo
+
+Combat (8)
+8x Majesty

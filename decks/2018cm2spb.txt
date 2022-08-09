@@ -1,0 +1,71 @@
+Colheita Maldita
+São Paulo, Brazil
+June 24th 2018
+3R+F
+15 players
+Ed Gonçalves
+https://www.vekn.net/event-calendar/event/8931
+
+-- 5VP in final
+
+Deck Name: Sombra
+
+Crypt (13 cards, min=22, max=30, avg=6.62)
+------------------------------------------
+3x Badr, Shadow of Granada 7   DOM OBT POT	    		Lasombra:5
+1x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
+1x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+1x Lord Vauxhall	   7   DOM OBT POT THA	    		Lasombra:4
+1x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+1x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+1x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+1x Onaedo		   6   DOM OBT aus pot	    		Lasombra:4
+1x Virginie, Prodigy	   6   DOM POT obt	    bishop	Lasombra:4
+1x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot	    		Lasombra:4
+
+Library (90 cards)
+Master (11)
+2x Capitalist
+1x Channel 10
+2x Charisma
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x From a Sinking Ship
+1x Golconda: Inner Peace
+1x Rack, The
+1x Sudden Reversal
+
+Action (9)
+1x Far Mastery
+8x Govern the Unaligned
+
+Ally (13)
+13x Nocturn
+
+Action Modifier (27)
+3x Blanket of Night
+5x Conditioning
+2x Empowering the Puppet King
+4x Seduction
+3x Shadow Play
+1x Shroud of Absence
+3x Shroud of Night
+3x Stone Travel
+3x Tenebrous Form
+
+Action Modifier/Reaction (5)
+5x Murmur of the False Will
+
+Reaction (17)
+6x Deflection
+3x Eyes of the Night
+8x On the Qui Vive
+
+Combat (4)
+4x Oubliette
+
+Event (4)
+1x FBI Special Affairs Division
+1x Narrow Minds
+2x Unmasking, The

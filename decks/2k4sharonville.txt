@@ -1,0 +1,86 @@
+Praxis Seizure: Sharonville
+Sharonville, Ohio
+June 12th 2004
+15 players
+Jay Kristoff
+
+Muaziz's Emancipation Proclamation
+
+(90)
+
+
+highlights:
+-Moving the retainers around with Heidelberg Castle.
+It can provide multiple plus bleeds, and multiple rushes
+with Stone Dog and Razor Bats.
+-Darning the Dawn and not going to torpor with Armor of Terra.
+-Multiple Blood Dolls on Muaziz + Disarm/Bow Gargoyle combat
++ Muaziz unchecked Diablerie = pool.
+-Evoking the Slave rule when Muaziz gets blocked.
+-Saying "Ublo-Satha" in Jabba the Hut voice all day long.
+
+
+Thanks to Corey Brindley for some deck testing advice.
+Charnas the Imp should have been in the deck, but I forgot about him.
+Also, when Gehenna becomes legal, some of the damage prevention
+will change to Soak because of its synergy with Armor of Terra.
+
+Crypt (12 cards, min=24, max=28, avg=6.67)
+------------------------------------------
+4x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	Tremere:2
+4x Ublo-Satha			7   FOR POT VIS cel	Gargoyle:2
+2x Saxum, Master of Slaves	6   FOR VIS pot pre	Gargoyle:2
+1x Ferox, The Rock Lord		7   FOR POT VIS ani	Gargoyle:2
+1x Luma, Stone Beauty		5   FOR aus pot vis	Gargoyle:2
+
+Library (90 cards)
+Master (13)
+1x Academic Hunting Ground
+1x Arcane Library
+6x Blood Doll
+1x Club Zombie
+1x Heidelberg Castle, Germany
+1x KRCG News Radio
+1x Powerbase: Chicago
+1x Rumor Mill, Tabloid Newspaper, The
+
+Action (7)
+1x Aranthebes, The Immortal
+2x Armor of Terra
+1x Defender of the Haven
+1x Rampage
+2x Soul of the Earth
+
+Equipment (2)
+1x Ivory Bow
+1x Palatial Estate
+
+Retainer (9)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+3x Razor Bat
+2x Stone Dog
+1x Tasha Morgan
+
+Action Modifier (12)
+1x Daring the Dawn
+1x Dawn Operation
+6x Freak Drive
+1x Kiss of Ra, The
+3x Skin of the Chameleon
+
+Reaction (15)
+11x Forced Awakening
+4x Patrol
+
+Combat (32)
+4x Disarm
+1x Flow Within the Mountain
+3x Immortal Grapple
+4x Indomitability
+7x Pounce
+3x Resilience
+2x Superior Mettle
+4x Torn Signpost
+4x Undead Persistence

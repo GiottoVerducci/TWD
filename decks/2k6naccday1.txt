@@ -1,0 +1,115 @@
+NAC 2006 Day 1
+Atlanta, Georgia
+October 7th 2006
+3R+F
+65 players
+Matthew Morgan
+
+Deck Name: Ayo Stuffs the Ballot Box
+
+Description: Gain massive vote dominance with Ayo's special. Vote at 5
+stealth or more. Gain pool. Kill.
+
+Good crypt draws all day. I think all my minions saw play at one point
+or another. The cel/for is only for Forced March, so I don't need all
+my minions to have that. The ones without obf can just sit around
+giving me votes if I have intercept to contend with. Although Ubende
+is really good in this deck, I only want one copy because I don't want
+to have to double anyone other than Ayo.
+
+Stole a Reanimated Corpse in round 1 and a Procurer in round 2. I
+would've liked to have another and maybe some more bleed, but couldn't
+find room.
+
+The intention here is to get past casual intercept and occasionally
+break a wall. I was imagining a Strange Day Banishment on Howler or
+something like that, but I never actually had to deal with much
+intercept. I lowballed the vote push because of the strength of
+titles. Since Ayo has inferior obfuscate, I play one of each obf
+card, plus the Uncontrolled Impulses, Forgotten Labyrinths and Forced
+Marches. That could add up to a lot of stealth.
+
+I didn't get the Kholos all that often, but they aren't that important.
+Scalpel Tongue is a great card. I didn't have to use it defensively,
+but it's still nice to have. I originally had Telepathic Vote
+Counting, but I think Scalpel Tongue is a stronger card here.
+
+No room for strong combat defense. These were mostly in case I get
+blocked, not if I got rushed.
+
+Most of these cards were important at one point or another. I sort of
+wanted to put in an Obfuscate skill card for Ayo, but couldn't think of
+what to take out. I never played the Pentex. That was put in for
+wall-busting only. I don't imagine this deck could defend it well.
+
+Heavy payload here. Could probably drop one each of Eldest Command
+Undeath and Secret Must be Kept. I haven't gotten a lot of use out of
+those. Banishment was very important to my 2nd round victory.
+
+Just enough bounce/intercept to keep my predator guessing.
+
+Crypt (12 cards, min=25, max=40, avg=8.25)
+------------------------------------------
+5x Ayo Igoli		10  AUS CEL FOR PRE obf tha		    Ishtarri:4
+1x Alicia Barrows	9   AUS DEM OBF POT PRE		archbishop  Malkavian antitribu:4
+1x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	    Ishtarri:3
+1x Quentin King III	7   AUS DEM obf pre		prince	    Malkavian:3
+1x Stavros		7   AUS OBF PRE dem		priscus	    Malkavian antitribu:4
+1x Ubende		7   CEL PRE for obf qui		magaji	    Ishtarri:4
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	    Ventrue:4
+1x Victor Pelletier	5   PRE cel dom for			    Ventrue:4
+
+Library (90 cards)
+Master (16)
+1x Ancestor Spirit
+1x Blood Doll
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Glutton
+1x Golconda: Inner Peace
+1x Mbare Market, Harare
+4x Minion Tap
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Ventrue Headquarters
+
+Action (1)
+1x Entrancement
+
+Political Action (22)
+2x Anarchist Uprising
+1x Ancient Influence
+3x Banishment
+1x Conservative Agitation
+1x Disputed Territory
+2x Domain Challenge
+2x Eldest Command Undeath, The
+8x Kine Resources Contested
+2x Secret Must Be Kept, The
+
+Action Modifier (26)
+3x Bewitching Oration
+1x Cloak the Gathering
+1x Domain of Evernight
+1x Faceless Night
+4x Forced March
+4x Forgotten Labyrinth
+1x Lost in Crowds
+1x Spying Mission
+1x Strange Day
+3x Uncontrolled Impulse
+6x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+2x Ishtarri Kholo
+3x Scalpel Tongue
+
+Reaction (13)
+7x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (6)
+6x Majesty

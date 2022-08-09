@@ -1,0 +1,86 @@
+Enid Blount
+Boston, Massachusetts
+August 1st 2004
+3R+F
+14 players
+Alexander J Skrabut
+
+Beast Want Hug
+
+The deck is going to pretty much stay the same as above, although I'm
+probably going to take out the Undead Strengths. They usually wind up
+being superfluous as I'm already doing 3+ hand damage with Signpost
+and 1-2 points from Crows. The Decapitate is usually just in there as
+icing, too, so it might move out for something better.
+
+Weaknesses: If my prey is exceedingly ranged-based, then I'm screwed.
+I was considering putting in three or four Stunt Cycles to help deal
+with decks that prefer to fight from a distance. However, a ranged
+deck as my predator is not so bad considering Guard Dogs give me 6
+more Maneuvers.
+
+Up-stream Play: A lot of people frown at me when I go upstream in the
+early game, but I've found it's key to playing this deck effectively.
+One turn spent crippling my predator means I have nearly one oust's-
+worth of mostly forward action I can apply to my prey. I've been
+trying to teach myself "when enough is enough," but sometimes I've
+punched somebody into torpor when I should've just left them at 0
+blood. Fight decks aren't just mindless obliteration - rather than a
+messy dirty bomb, you have to be a precision tactical nuke.
+
+Anyway, enjoy.
+
+Alexander J Skrabut - uruzrune@verizon.net
+
+Crypt (12 cards, min=14, max=31, avg=5.67)
+------------------------------------------
+3x Nigel the Shunned			  5   ANI POT obf		Nosferatu antitribu:2
+2x Mateusz Gryzbowsky			  8   ANI OBF POT		Nosferatu antitribu:3
+2x Beast, The Leatherface of Detroit	  7   OBF POT ani cel		Nosferatu antitribu:2
+1x Calebos				  8   ANI OBF POT cel	bishop	Nosferatu antitribu:2
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot		Nosferatu antitribu:2
+1x Darva Felispa			  3   ani pot			Nosferatu:3
+1x Raziya Samater			  3   ani pot			Brujah:2
+1x Tommy				  3   ani pot			Nosferatu antitribu:2
+
+Library (90 cards)
+Master (17)
+1x Barrens, The
+5x Blood Doll
+2x Bravo
+1x Dreams of the Sphinx
+2x Fame
+1x Information Highway
+1x Information Network -- !Nos
+2x Nosferatu Kingdom -- !Nos
+2x Shanty Town Hunting Ground -- !Nos
+
+Action (5)
+3x Ambush
+2x Games of Instinct
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (18)
+6x Cats' Guidance
+3x Forced Awakening
+6x Guard Dogs
+2x Instinctive Reaction
+1x Pack Tactics
+
+Combat (45)
+1x Behind You!
+8x Carrion Crows
+2x Conquer the Beast
+1x Decapitate
+3x Disarm
+9x Immortal Grapple
+2x Mighty Grapple
+2x Song of Serenity
+4x Taste of Vitae
+9x Torn Signpost
+4x Undead Strength

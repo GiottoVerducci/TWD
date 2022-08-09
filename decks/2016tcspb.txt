@@ -1,0 +1,66 @@
+Torre Camarilla SP
+Saõ Paulo, Brazil
+July 10th 2016
+3R+F
+16 players
+Gregory Ramos
+https://www.vekn.net/event-calendar/event/8418
+
+-- 3VP in final
+
+Deck Name: Camarilla Opressora
+Created by: Desso Alastor
+
+Crypt (12 cards, min=15, max=40, avg=7.42)
+------------------------------------------
+3x Anneke	   10  AUS CEL PRE dom	justicar  Toreador:1
+3x Anson	   8   CEL PRE aus dom	prince	  Toreador:1
+2x Masika	   10  AUS CEL PRE	primogen  Toreador:1
+1x Tatiana Romanov 7   AUS cel pre	prince	  Toreador:1
+1x Colin Flynn	   3   aus cel			  Toreador:1
+1x Isabel de Leon  3   AUS			  Toreador:2
+1x Dieter Kleist   2   aus			  Toreador:1
+
+Library (90 cards)
+Master (23; 6 trifle)
+1x Art Museum
+1x Dreams of the Sphinx
+2x Information Highway
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Smiling Jack, The Anarch
+1x Society Hunting Ground
+3x Toreador Grand Ball
+3x Vessel
+3x Villein
+4x Zillah's Valley
+
+Action (2)
+2x Entrancement
+
+Equipment (7)
+2x .44 Magnum
+1x Bowl of Convergence
+4x Sniper Rifle
+
+Political Action (3)
+3x Parity Shift
+
+Reaction (34)
+3x Eagle's Sight
+2x Enhanced Senses
+5x Eyes of Argus
+4x Forced Awakening
+4x Quicken Sight
+9x Second Tradition: Domain
+3x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (21)
+4x Blur
+6x Concealed Weapon
+1x Fast Hands
+2x Majesty
+4x Sideslip
+4x Taste of Vitae

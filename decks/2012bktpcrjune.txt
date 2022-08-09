@@ -1,0 +1,64 @@
+Black Knight tournament
+Prague, Czech Republic
+June 9th 2012
+3R+F
+10 players
+Tomáš Kubec
+
+Deck Name: Stanislava
+Created by: Robie
+
+Crypt (13 cards, min=16, max=44, avg=8.23)
+------------------------------------------
+4x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
+3x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
+2x Genevieve		10  ANI FOR PRO aus dom	 priscus	Gangrel antitribu:2
+1x Caitlin		6   ANI PRO aus dom	 bishop		Gangrel antitribu:2
+1x Ramona (ADV)		4   for pro		 		Gangrel:2
+1x Chandler Hungerford	3   PRO			 		Gangrel:2
+1x Ricki Van Demsi	3   for pro		 		Gangrel:1
+
+Library (90 cards)
+Master (21; 9 trifle)
+1x Coven, The
+2x Dominate
+1x Dreams of the Sphinx
+1x Giant's Blood
+3x Information Highway
+2x Lilith's Blessing
+3x Tomb of Rameses III
+2x Vessel
+5x Villein
+1x Wider View
+
+Action (12)
+1x Dominate Kine
+5x Govern the Unaligned
+3x Loki's Gift
+3x Restoration
+
+Political Action (12)
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+2x Gangrel Justicar
+3x Kine Resources Contested
+2x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (12)
+2x Beast Meld
+3x Earth Control
+7x Freak Drive
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (13)
+8x Deflection
+5x Guard Dogs
+
+Combat (18)
+12x Earth Meld
+6x Form of Mist

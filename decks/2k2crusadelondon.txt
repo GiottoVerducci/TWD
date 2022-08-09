@@ -1,0 +1,67 @@
+Crusade: London
+London, England
+October 5th 2002
+15 players
+Martin Cubberly
+
+Deck Name: Gunslinging Varmints
+Created by: Martin Cubberly, with help from 'The Boyz'
+
+Description: Shoot things. A lot.
+
+Having now played it, I reckon a few things should probably change.
+Didn't see any use for the IR Goggles or the Waste Management (the
+latter presumably because all the games were so quick, no one got near
+the bottom of their library) but I did realise I didn't have enough
+Rush. Often I was stuck with no way of getting into combat...
+The intercept always came in handy, but without Wakes it meant it
+effectively cost me a minion... Wonder if it could stand to loose
+these as well...
+
+God Bless the new Concealed Weapon though. What a beauty...
+
+Crypt (14 cards, min=7, max=19, avg=3.14)
+-----------------------------------------
+2x Black Cat			5   CEL pot pre	 Brujah:1
+2x Sarah Brando			3   CEL		 Brujah antitribu:2
+1x Dodd				5   CEL dom pre	 Brujah antitribu:2
+1x Victor Tolliver		4   CEL pot	 Brujah antitribu:2
+1x Dre, Leader of the Cold Dawn	3   cel pot	 Brujah:1
+1x Itzahk Levine		3   cel pre	 Ventrue:2
+1x Jacob Bragg			3   cel pot	 Brujah antitribu:2
+1x Uma Hatch			3   cel pre	 Brujah:1
+1x Angel			2   cel		 Brujah:1
+1x Carter			2   cel		 Toreador antitribu:2
+1x Kanya Akhtar			2   cel		 Assamite:2
+1x Antoinette DuChamp		1   cel pre	 Caitiff:2
+
+Library (90 cards)
+Master (15)
+1x Al's Army Apparatus
+3x Blood Doll
+5x Celerity
+2x Haven Uncovered
+3x Tribute to the Master
+1x Waste Management Operation
+
+Action (15)
+10x Bum's Rush
+5x Legal Manipulations
+
+Equipment (12)
+9x .44 Magnum
+2x IR Goggles
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Combat (47)
+5x Blur
+7x Concealed Weapon
+2x Dragon's Breath Rounds
+4x Manstopper Rounds
+8x Psyche!
+10x Pursuit
+6x Sideslip
+5x Taste of Vitae

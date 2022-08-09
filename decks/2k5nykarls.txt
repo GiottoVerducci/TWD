@@ -1,0 +1,77 @@
+New Year Tournament
+Karlsruhe, Germany
+January 8th 2005
+11 players
+Sven Helmer
+
+Deck Name: Anarch Diversion
+Created by: Sven Helmer (inspired by Kevin Scribner's Anarchs Deck)
+
+Description: Toolboxy Anarch Deck with lots of Diversions
+
+When I visited the Boston playgroup in spring 2004 and played a game
+with Kevin Scribner, I was impressed by his Anarch deck featuring
+lots of diversions and decided to build one myself. The deck is a
+little bit slow, but once it gets going it's really fun to play.
+
+Powerbase:LA is a strong addition to this deck. Discarding your
+surplus Galaric's Legacies and untapping vampires by doing so is
+really nice. In my attempt to get down the number of cards I threw
+out too many Weighted Walking Sticks (should have been more),
+especially after replacing some with Zip guns (I had some trouble with
+ranged combat decks before adding Zip guns, as my Magnums were always
+blocked). Reformation wasn't too great (only played it once,
+unsuccessfully). I also had trouble drawing into my Blood Dolls, maybe
+I should add one more (and/or throw out some more cards).
+
+Crypt (12 cards, min=19, max=32, avg=6.58)
+------------------------------------------
+3x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 Ventrue antitribu:3
+2x Ian Forestal			8   AUS DOM THA		 Tremere antitribu:2
+2x Joseph O'Grady		7   DOM FOR aus cel	 Ventrue antitribu:3
+2x Kyoko Shinsegawa		5   aus cel dom for	 Tremere:3
+1x Dylan			6   aus cel dom for pro	 Ventrue antitribu:2
+1x Andrei Puxon			5   ani cel chi for	 Ravnos:2
+1x Gustavo Morales		4   ani cel for		 Gangrel:3
+
+Library (82 cards)
+Master (25; 9 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Antediluvian Awakening
+5x Blood Doll
+1x Corporate Hunting Ground
+9x Galaric's Legacy
+1x Haven Uncovered
+1x Hospital Food
+1x KRCG News Radio
+2x Powerbase: Los Angeles
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+
+Action (9)
+7x Govern the Unaligned
+1x Nose of the Hound
+1x Reformation
+
+Equipment (2)
+1x .44 Magnum
+1x Sport Bike
+
+Action Modifier (4)
+2x Conditioning
+2x Freak Drive
+
+Reaction (20)
+4x Deflection
+1x Delaying Tactics
+1x Eagle's Sight
+3x Mole, The
+2x My Enemy's Enemy
+2x Telepathic Misdirection
+7x Wake with Evening's Freshness
+
+Combat (22)
+18x Diversion
+2x Weighted Walking Stick
+2x Zip Gun

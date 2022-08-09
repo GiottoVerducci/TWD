@@ -1,0 +1,70 @@
+Belgian ECQ
+Brussels, Belgium
+May 4th 2008
+16 players
+Jörg Alten
+
+Deck Name: Shape and Gnaw 3.0 (Post-LotN)
+
+Modified variant with cards from Lords of the Night
+
+Crypt (12 cards, min=12, max=21, avg=4.17)
+------------------------------------------
+3x Camille Devereux, The Raven	5   FOR PRO ani		Gangrel:1
+3x Chandler Hungerford		3   PRO			Gangrel:2
+2x Mirembe Kabbada		5   PRO SER ani		Gangrel:2
+1x Badger			6   FOR PRO ani pot	Gangrel:1
+1x Ramona			4   for pro		Gangrel:2
+1x Anastasia Grey		3   ani pro		Gangrel:1
+1x Ricki Van Demsi		3   for pro		Gangrel:1
+
+Library (65 cards)
+Master (17; 2 trifle)
+1x Channel 10
+2x Direct Intervention
+2x Ecoterrorists
+1x Fame
+1x KRCG News Radio
+1x Liquidation
+1x Powerbase: Chicago
+2x Powerbase: Montreal
+1x Sudden Reversal
+1x Therbold Realty
+1x Wall Street Night, Financial Newspaper
+2x Wash
+1x WMRH Talk Radio
+
+Action (1)
+1x Army of Rats
+
+Ally (6)
+6x Renegade Garou
+
+Retainer (4)
+1x Mr. Winthrop
+3x Raven Spy
+
+Action Modifier (4)
+4x Earth Control
+
+Action Modifier/Combat (1)
+1x Rapid Change
+
+Reaction (12)
+2x Delaying Tactics
+2x Instinctive Reaction
+1x Keep it Simple
+2x On the Qui Vive
+3x Sonar
+2x Wake with Evening's Freshness
+
+Combat (18)
+1x Body Flare
+1x Boxed In
+10x Earth Meld
+5x Form of Mist
+1x Weighted Walking Stick
+
+Event (2)
+1x Dragonbound
+1x Narrow Minds

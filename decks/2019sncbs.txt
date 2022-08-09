@@ -1,0 +1,58 @@
+Spanish NC 2019
+Barceloma, Spain
+May 25th 2019
+3R+F
+55 players
+Gabriel Ron
+https://www.vekn.net/event-calendar/event/9156
+
+-- 1GW8 + 3VP in final
+
+Deck Name: Vladimir Tepes Toolbox
+
+Crypt (12 cards, min=11, max=40, avg=7.33)
+------------------------------------------
+5x Vlad Tepes		  10  ANI DOM PRO THA VIC aus		 Tzimisce:3
+3x Malgorzata		  9   AUS DOM THA VIC pre	priscus	 Tremere antitribu:4
+2x Tupdog		  1   POT VIS				 Gargoyle:3
+1x Nickolai, The Survivor 6   aus dom pot pre tha vic		 Tremere antitribu:4
+1x Keith Moody		  3   DOM				 Tremere antitribu:4
+
+Library (75 cards)
+Master (16; 1 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+3x Information Highway
+1x Jake Washington
+2x Pentex(TM) Subversion
+1x Sudden Reversal
+5x Zillah's Valley
+
+Action (19)
+5x Chameleon
+12x Govern the Unaligned
+2x No Secrets From the Magaji
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Action Modifier (22)
+5x Bonding
+4x Changeling
+3x Conditioning
+1x Enkil Cog
+5x Mirror Walk
+3x Seduction
+1x Strange Day
+
+Reaction (10)
+4x Deflection
+1x Delaying Tactics
+2x On the Qui Vive
+3x Second Tradition: Domain
+
+Combat (6)
+6x Meld with the Land

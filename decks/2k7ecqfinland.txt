@@ -1,0 +1,71 @@
+Finnish ECQ
+Turku, Finland
+May 26th 2007
+3R+F
+56 players
+Teemu Sainomaa
+
+Deck Name: Determinated
+
+1gw + 6VP going into the finals with 3 more VPs taken there
+
+Description: Stay alive and bring free minions up with Travis, Church
+and Inspire. Then start bleeding 2 or 3 with each minion with -1
+intercept to vampires. Determine to stop bleeds and bad actions.
+
+Crypt (12 cards, min=13, max=21, avg=4.33)
+------------------------------------------
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+1x Earl "Shaka74" Deams		6   jud mar viz	 Visionary:4
+1x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+1x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x Peter "Outback295" Rophail	4   red ven	 Redeemer:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+1x Liz "Ticket312" Thornton	2   inn red	 Innocent:4
+
+Library (90 cards)
+Master (16)
+5x Angel of Berlin
+2x Church of Vindicated Faith, The
+2x Fortschritt Library
+5x Memories of Mortality
+2x Unity
+
+Conviction (22)
+6x React with Conviction
+8x Second Sight
+8x Strike with Conviction
+
+Ally (3)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Vagabond Mystic
+
+Equipment (13)
+1x Crusader Sword, The
+5x Flash Grenade
+2x Heart of Nizchetus
+1x Ivory Bow
+4x Laptop Computer
+
+Power (10)
+2x Abjure
+2x Inspire
+6x Vigilance
+
+Action Modifier (4)
+4x Change of Target
+
+Reaction (13)
+8x Determine
+5x On the Qui Vive
+
+Combat (4)
+4x Concealed Weapon
+
+Event (5)
+2x Edge Explosion
+1x Thirst
+2x Unmasking, The

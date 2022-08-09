@@ -1,0 +1,69 @@
+Hungarian NCQ
+Metagame, Budapest, Hungary
+June 29th 2013
+3R+F
+16 players
+Péter Botos
+
+-- 4VP in final
+
+Deck Name: Cybele's Curse
+
+Inspired by "Snakes on the Plane" by Ivan Marin-Rivas. This deck, however,
+relies more on Maleficia for defensive purposes as well. Rather slow to
+build up but can be very effective with time. What I discovered during the
+games that putting one Barrenness on one or two key vampires can very much
+slow down other decks by limiting their capability to Govern out company,
+play Enkil Cog, etc.
+
+Crypt (12 cards, min=26, max=40, avg=8.67)
+------------------------------------------
+6x Cybele		   10  ANI DAI OBF PRE SER THA		 Baali:4
+2x Annazir		   9   DAI OBF POT PRE		2 votes	 Baali:5
+2x Azaneal		   7   DAI OBF OBT pre tha		 Baali:4
+2x Maureen, Dark Priestess 6   DAI PRE dom obf		1 vote	 Baali:4
+
+Library (86 cards)
+Master (41; 13 trifle)
+9x Ashur Tablets
+1x Coven, The
+1x From a Sinking Ship
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+4x Liquidation
+8x Maleficia
+1x Metro Underground
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Ruins of Charizel
+5x Tend the Flock
+3x Villein
+1x Wider View
+
+Action (18)
+10x Barrenness
+1x Contagion
+1x Rutor's Hand
+4x Set's Curse
+2x Unleash Hell's Fury
+
+Ally (1)
+1x Veneficti
+
+Action Modifier (16)
+2x Elder Impersonation
+1x Enkil Cog
+2x Forgotten Labyrinth
+2x I am Legion
+4x Lost in Crowds
+5x Psalm of the Damned
+
+Combat/Reaction (7)
+7x Evil Eye
+
+Event (3)
+1x Anthelios, The Red Star
+2x Scourge of the Enochians

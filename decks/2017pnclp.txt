@@ -1,0 +1,66 @@
+Portuguese NC 2017
+Lisboa, Portugal
+November 4th 2017
+3R+F
+22 players
+José Eduardo Rodrigues
+https://www.vekn.net/event-calendar/event/8774
+
+-- 2GW7.5 + 0.5VP in final
+
+Deck Name: Anson guns
+
+Description: Deck feito e melhorado para o EC 2015 com a ajuda do Tiago Brum, do Sergio Martins e do Luis Silva
+
+Crypt (12 cards, min=29, max=40, avg=8.42)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom		prince	  Toreador:1
+2x Anneke			10  AUS CEL PRE dom		justicar  Toreador:1
+2x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+1x Constanza Vinti		8   CEL DOM POT			prince	  Brujah:2
+1x Dónal O'Connor		8   CEL DOM POT			prince	  Brujah:2
+1x Marcellus			8   AUS CEL pro			prince	  Toreador:2
+1x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
+
+Library (80 cards)
+Master (28; 7 trifle)
+9x Ashur Tablets
+1x Direct Intervention
+1x Fame
+1x Giant's Blood
+2x Haven Uncovered
+1x Papillon
+1x Pentex(TM) Subversion
+6x Villein
+1x Wider View
+5x Zillah's Valley
+
+Action (4)
+2x Bum's Rush
+2x Entrancement
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (5)
+5x .44 Magnum
+
+Political Action (2)
+2x Parity Shift
+
+Reaction (10)
+4x Deflection
+6x Second Tradition: Domain
+
+Combat (29)
+1x Blur
+5x Concealed Weapon
+1x Fast Hands
+8x Infernal Pursuit
+4x Psyche!
+4x Pursuit
+2x Side Strike
+4x Taste of Vitae
+
+Event (1)
+1x Dragonbound

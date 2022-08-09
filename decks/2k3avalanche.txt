@@ -1,0 +1,49 @@
+Gothenburg Avalanche
+Gothenburg, Sweden
+February 9th 2003
+10 players
+Erik Torstensson
+
+Deck Name: Jake Washington eats the world
+
+Crypt (12 cards, min=8, max=17, avg=3.17)
+-----------------------------------------
+5x Horatio	  2   vic	   Tzimisce:2
+4x Lolita Houston 4   VIC aus	   Tzimisce:2
+1x Rose, The	  5   PRE VIC aus  Tzimisce:3
+1x Terrence	  4   ani aus vic  Tzimisce:2
+1x Wendy Wade	  3   ani aus	   Tzimisce:2
+
+Library (60 cards)
+Master (17)
+2x Blood Doll
+1x Creepshow Casino
+2x Direct Intervention
+1x Dreams of the Sphinx
+5x Jake Washington
+1x KRCG News Radio
+2x Memories of Mortality
+1x Mob Connections
+1x Pentex(TM) Subversion
+1x Secure Haven
+
+Ally (13)
+3x Vagabond Mystic
+10x War Ghoul
+
+Retainer (6)
+2x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+2x Tasha Morgan
+
+Action Modifier (3)
+3x Changeling
+
+Action Modifier/Combat (7)
+7x Plasmic Form
+
+Combat (14)
+2x Breath of the Dragon
+6x Fake Out
+6x Trap

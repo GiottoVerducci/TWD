@@ -1,0 +1,87 @@
+Powerbase: Los Angeles Event #4
+Los Angeles, California
+May 30th 2010
+2R+F
+10 players
+Michael Courtois
+
+Deck Name: Mistress Fanchion doesn't have a Heart!
+Created by: Matt Wedge & Michael Courtois
+
+Description: The deck SHOULD have a Heart of Cheating but it was in
+another deck and I forgot to add it before the tourney. Mistress must
+get a Rutor's Hand first thing, then Alastor, then Helicopter, then
+Magic the Ankara Citadel. From there, there is enough in the deck to go in
+and look for the answer that is needed to attack or defend the game state.
+Orlando is always your second minion to help grab the political reins at
+the table. If all goes well, you'll be the last one standing.
+
+Crypt (12 cards, min=30, max=44, avg=9.42)
+------------------------------------------
+5x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+2x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
+1x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+1x Dr. John Dee		 9   ANI AUS DOM THA chi	prince		Tremere:4
+1x Gerald Windham	 9   AUS DOM FOR THA				Tremere:5
+1x Graham Gottesman	 7   DOM FOR obf pre tha	prince		Ventrue:5
+1x Zane			 5   THA aus dom		primogen	Tremere:5
+
+Library (89 cards)
+Master (11; 1 trifle)
+1x Coven, The
+1x Heidelberg Castle, Germany
+6x Information Highway
+1x Jake Washington
+2x Pentex(TM) Subversion
+
+Action (20)
+1x Blithe Acceptance
+1x Command the Legion
+1x Dominate Kine
+1x Far Mastery
+3x Govern the Unaligned
+1x Graverobbing
+3x Magic of the Smith
+3x Mind Rape
+1x Rave
+2x Rutor's Hand
+1x Slaughtering the Herd
+1x Soul Decoration
+1x Soul Scan
+
+Equipment (5)
+1x Ankara Citadel, Turkey, The
+1x Bowl of Convergence
+1x Helicopter
+1x Ivory Bow
+1x Sargon Fragment, The
+
+Political Action (11)
+1x Alastor
+1x Ancient Influence
+1x Banishment
+1x Domain Challenge
+1x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+3x Reinforcements
+1x Reins of Power
+
+Action Modifier (25)
+3x Cloak the Gathering
+3x Elder Impersonation
+3x Faceless Night
+3x Forgotten Labyrinth
+3x Lost in Crowds
+4x Mirror Walk
+2x Perfect Clarity
+3x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (14)
+3x Deflection
+5x Eluding the Arms of Morpheus
+6x Obedience

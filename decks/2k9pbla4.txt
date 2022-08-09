@@ -1,0 +1,64 @@
+Powerbase: Los Angeles Event #4 - MQ
+La Crescenta, California
+May 24th 2009
+2R+F
+12 players
+Dennis Lien
+
+Deck Name: Diary of a Dead Man
+
+"Those who know what's best for us, must rise and save us from ourselves" - Neil Peart
+
+Crypt (12 cards, min=11, max=27, avg=4.5)
+-----------------------------------------
+3x Carlotta Giovanni		   7   NEC POT dom obf	Giovanni:2
+1x Rafaele Giovanni		   6   NEC cel obf	Giovanni:2
+1x Isabel Giovanni		   5   DOM NEC pot	Giovanni:2
+1x Francesca Giovanni		   4   dom nec pot	Giovanni:2
+1x Gloria Giovanni		   4   DOM nec		Giovanni:2
+1x Cristofero Giovanni		   3   nec pot		Giovanni:2
+1x Lia Milliner			   3   dom nec		Giovanni:3
+1x Mario Giovanni		   3   nec pot		Giovanni:2
+1x Rudolfo Giovanni		   3   NEC		Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom		Giovanni:2
+
+Library (90 cards)
+Master (24)
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fortschritt Library
+2x Information Highway
+4x Jake Washington
+6x Liquidation
+4x Parthenon, The
+2x Path of Bone, The
+2x Tribute to the Master
+
+Action (19)
+1x Aranthebes, The Immortal
+6x Embrace, The
+6x Khazar's Diary (Endless Night)
+6x Sudario Refraction
+
+Ally (10)
+2x Alia, God's Messenger
+2x Carlton Van Wyk
+2x Felix "Fix" Hessian
+2x Gregory Winter
+2x Leonardo, Mortician
+
+Action Modifier (8)
+8x Call of the Hungry Dead
+
+Action Modifier/Reaction (8)
+8x Spectral Divination
+
+Reaction (12)
+6x Deflection
+2x Delaying Tactics
+4x On the Qui Vive
+
+Event (9)
+3x Anthelios, The Red Star
+3x Recalled to the Founder
+3x Unmasking, The

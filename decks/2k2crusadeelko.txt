@@ -1,0 +1,73 @@
+Crusade: Elko
+Elko, Nevada
+September 22nd 2002
+12 players
+Misty Martin
+
+Deck Name: Misty's Malkavians
+
+Description: Basic Malkavian preconstructed deck with a few tweaks.
+
+Crypt (12 cards, min=13, max=38, avg=6.5)
+-----------------------------------------
+1x Leandro			 11  AUS OBF PRE cel dom  inner circle	Malkavian:2
+1x Rachel Brandywine		 10  AUS DEM OBF PRO ani  prince	Malkavian:3
+1x William Biltmore		 9   AUS DEM OBF THA dom  		Malkavian:3
+1x Anatole, Prophet of Gehenna	 8   AUS DEM OBF dom for  		Malkavian:2
+1x Cornelius Ottavio		 8   AUS OBF pre qui	  		Malkavian:2
+1x Greger Anderssen		 7   AUS OBF dom pro	  prince	Malkavian:2
+1x Damaskenos, Herald of Leandro 6   DOM aus cel pot	  		Malkavian:2
+1x Dr. Douglas Netchurch	 6   AUS OBF dem dom	  		Malkavian:3
+1x Victoria			 5   AUS cel obf	  		Malkavian:2
+1x Watenda			 3   obf		  		Malkavian:2
+1x Zöe				 3   AUS cel obf	  		Malkavian:2
+1x Ohanna			 2   dom		  		Malkavian:2
+
+Library (77 cards)
+Master (16)
+2x Ascendance
+1x Asylum Hunting Ground
+1x Blood Doll
+1x Dementation
+1x Effective Management
+1x Elysium: The Arboretum
+1x Forest of Shadows
+2x Misdirection
+2x Secret Passage
+4x Secure Haven
+
+Action (8)
+1x Arson
+1x Blessing of Chaos
+2x Precognizant Mobility
+1x Psychic Veil
+3x Pulse of the Canaille
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (2)
+2x Flamethrower
+
+Action Modifier (30)
+4x Cloak the Gathering
+4x Confusion
+2x Elder Impersonation
+4x Eyes of Chaos
+4x Faceless Night
+6x Lost in Crowds
+1x Marked Path
+1x Scrying of Secrets
+4x Spying Mission
+
+Reaction (13)
+1x Enhanced Senses
+4x Telepathic Counter
+4x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (7)
+2x Disguised Weapon
+2x Dodge
+2x Majesty
+1x Read Intentions

@@ -1,0 +1,96 @@
+Praxis Seizure: LA Event #3
+Los Angeles, California
+February 21st 2000
+9 players only
+Robert Goudie
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/sGdBDXKVF5c
+
+Robert Goudie's Weenie Obfuscate/Auspex deck
+
+Well, first of all, I'm suprised at the contents now that I look at
+it. The original version was more heavily weighted toward Night Moves.
+This is probably half as many as were in the first version. I also
+removed all of the dodges and instead put more intercept. I've always
+called it a night moves deck but that really doesn't describe it well
+anymore. Let's call it a Weenie Obfuscate/Auspex deck.
+
+The crypt design is pretty obvious. I put 2 of each vampire that had
+auspex+obfuscate. I also put 2 of the 1 or 2 capacity vamps with
+obfuscate. The auspex vamps are key. I need to get at least one to
+start with.
+
+I think I'm pretty well known for really focussed decks (weenie dom bleed,
+weenie cryptic mission, weenie undead persistance, etc.) and this is
+somewhat of a departure. They're still weenies but I put in a good
+number of cards that may or may not be useful. As it turned out, these
+additions that watered-down my stealth bleed were a big benefit to me.
+
+I believe I won with no library cards left so I had an opportunity to
+play all of the one-shot cards. Delaying Tactics was used to save my bacon.
+The Malkavian Dementias were quite nasty and allowed me to take Lucian
+from my predator at a couple of key moments. The Muddled was quite useful,
+as were the Haven Uncovered (I believe Paul made use of it to attack
+Jeff) and the Sudden Reversals.
+
+I essentially used my size to get a quick kill of my first prey. Then,
+I had enough intercept to keep my next prey and my predator from killing
+me. The neverending supply of stealthy bleeds eventually did the trick.
+
+-Robert
+
+Crypt (16 cards, min=6, max=13, avg=2.56)
+-----------------------------------------
+2x Dollface			    3	aus obf		Malkavian:1
+2x Regilio, The Seeker of Akhenaten 3	aus obf		Nosferatu:2
+2x Zöe				    3	AUS cel obf	Malkavian:2
+2x Dimple			    2	obf		Nosferatu:1
+2x Normal			    2	obf		Malkavian:1
+2x Basil			    1	obf		Pander:2
+1x Agrippina			    4	OBF pot		Nosferatu:1
+1x Duck				    3	obf pot		Nosferatu:1
+1x Watenda			    3	obf		Malkavian:2
+1x Yorik			    3	dem obf		Malkavian antitribu:2
+
+Library (87 cards)
+Master (18)
+1x Archon Investigation
+3x Auspex
+1x Direct Intervention
+1x Fear of Mekhet
+1x Haven Uncovered
+1x Life Boon
+1x Major Boon
+2x Malkavian Dementia
+5x Obfuscate
+2x Sudden Reversal
+
+Action (15)
+1x Arson
+14x Night Moves
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (4)
+1x Ivory Bow
+2x Laptop Computer
+1x Sport Bike
+
+Action Modifier (20)
+4x Cloak the Gathering
+3x Faceless Night
+4x Lost in Crowds
+9x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (24)
+2x Delaying Tactics
+4x Enhanced Senses
+4x Telepathic Counter
+5x Telepathic Misdirection
+9x Wake with Evening's Freshness
+
+Combat (2)
+2x Aura Reading

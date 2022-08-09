@@ -1,0 +1,62 @@
+Anarch Revolt
+Fortaleza, Brazil
+June 15th 2014
+3R+F
+15 players
+David Orck
+https://www.vekn.net/event-calendar/event/7498
+
+-- 3VP in final
+
+Deck Name: Bloqueia Eu Não, MAH ...
+
+Crypt (12 cards, min=20, max=43, avg=8.42)
+------------------------------------------
+4x Montecalme		10  AUS CEL DOM PRE obt	 justicar	Toreador:5
+3x Rafael de Corazon	11  AUS CEL DOM OBF PRE	 inner circle	Toreador:4
+3x Epikasta Rigatos	8   AUS DOM PRE cel	 prince		Toreador:4
+2x Dr. Solomon Grey	2   dom pre		 		Caitiff:5
+
+Library (90 cards)
+Master (10; 3 trifle)
+1x Art Museum
+2x Blood Doll
+1x Giant's Blood
+1x Minion Tap
+1x Papillon
+1x Society Hunting Ground
+2x Vessel
+1x Villein
+
+Equipment (10)
+1x Bowl of Convergence
+2x Desert Eagle
+2x RPG Launcher
+5x Sniper Rifle
+
+Political Action (2)
+2x Anathema
+
+Retainer (2)
+2x Ghoul Retainer
+
+Reaction (26)
+4x Eagle's Sight
+4x Eyes of Argus
+3x Forced Awakening
+2x My Enemy's Enemy
+3x On the Qui Vive
+4x Quicken Sight
+4x Second Tradition: Domain
+2x Telepathic Misdirection
+
+Combat (32)
+4x Blur
+1x Disguised Weapon
+8x Flash
+3x Psyche!
+8x Pursuit
+8x Thoughts Betrayed
+
+Combat/Reaction (8)
+8x Bliss

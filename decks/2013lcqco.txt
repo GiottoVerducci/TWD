@@ -1,0 +1,59 @@
+NAC 2013 - Last Chance Qualifier
+Columbus, Ohio
+June 13th 2013
+2R+F
+36 players
+Randal Rudstam
+
+Deck Name: Girls in the Pentex(TM) boardroom
+
+3gw
+Description: I got the original idea from Anders Löf. He was running it
+with Nana and Ashur rush combat without reaction cards. I decided that I
+wanted to run it with Aksinya with reactions instead. The decks are quite
+different but the idea with high amount of Pentex(TM) works kinda the same.
+
+Crypt (12 cards, min=11, max=36, avg=6.25)
+------------------------------------------
+4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
+4x Talbot	  7   ANI NEC PRO for		Gangrel:5
+1x Beetleman	  4   ANI obf			Nosferatu:4
+1x Lillian	  3   ani pro			Gangrel:5
+1x Stick	  3   ANI			Nosferatu antitribu:4
+1x Walker Grimes  1   ani			Caitiff:5
+
+Library (73 cards)
+Master (19; 4 trifle)
+1x Dark Influences
+1x Erciyes Fragments, The
+2x Fame
+1x Giant's Blood
+1x Guardian Angel
+6x Pentex(TM) Subversion
+3x Sudden Reversal
+4x Villein
+
+Action (5)
+5x Deep Song
+
+Retainer (3)
+3x Raven Spy
+
+Reaction (17)
+3x Cats' Guidance
+2x Delaying Tactics
+1x Guard Dogs
+1x Lost in Translation
+2x On the Qui Vive
+1x Rat's Warning
+7x Sense the Savage Way
+
+Combat (28)
+11x Aid from Bats
+2x Canine Horde
+11x Carrion Crows
+1x Claws of the Dead
+3x Taste of Vitae
+
+Event (1)
+1x Dragonbound

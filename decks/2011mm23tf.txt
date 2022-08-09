@@ -1,0 +1,68 @@
+Monday Mayhem XXIII
+Tampere, Finland
+January 3rd 2011
+2R+F
+15 players
+Heikki Palomäki
+
+Deck Name: Blue blood
+
+Crypt (12 cards, min=17, max=36, avg=6.83)
+------------------------------------------
+2x Emerson Bridges		   8   DOM FOR PRE pot	    prince	Ventrue:1
+2x Sir Walter Nash		   7   DOM FOR PRE	    prince	Ventrue:1
+1x Democritus			   10  DOM PRE aus cel for  justicar	Ventrue:1
+1x Queen Anne			   10  DOM FOR PRE aus obf  prince	Ventrue:2
+1x Anson			   8   CEL PRE aus dom	    prince	Toreador:1
+1x Timothy Crowley		   7   FOR PRE ani dom	    prince	Ventrue:1
+1x Jazz Wentworth		   5   PRE dom for	    		Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	    		Ventrue:2
+1x Violette Prentiss		   4   PRE dom		    		Ventrue:1
+1x Gideon Fontaine		   3   PRE		    		Ventrue:1
+
+Library (90 cards)
+Master (17; 3 trifle)
+1x Anarch Troublemaker
+6x Blood Doll
+3x Dreams of the Sphinx
+1x Lilith's Blessing
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+3x Wash
+
+Action (5)
+2x Enchant Kindred
+2x Entrancement
+1x Judgment: Camarilla Segregation
+
+Political Action (13)
+1x Disputed Territory
+9x Kine Resources Contested
+2x Neonate Breach
+1x Parity Shift
+
+Action Modifier (23)
+1x Awe
+1x Bewitching Oration
+4x Conditioning
+1x Daring the Dawn
+5x Freak Drive
+3x Perfect Paragon
+4x Seduction
+4x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (18)
+9x Deflection
+4x On the Qui Vive
+2x Second Tradition: Domain
+3x Wake with Evening's Freshness
+
+Combat (12)
+7x Majesty
+5x Staredown
+
+Event (1)
+1x Scourge of the Enochians

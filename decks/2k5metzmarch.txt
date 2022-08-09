@@ -1,0 +1,72 @@
+Metz Tournament
+Metz, France
+March 13th 2005
+21 players
+Sébastien Varrette
+
+Deck Name: Corine has a changeling tongue
+
+Simple toolbox tzimisce, clearly oriented toward bleed thanks to
+Fiendish Tongue (marvellous card for the clan) and changeling.
+The bleed potential of the deck is often under-estimated and the
+fear of the War Ghoul (that will never appear:-)) can be exploited.
+The femur is ideal for Corin, which is the star of the deck (it can
+run without her but its +1 strength is really valuable).
+For the rest, intercept and Rötshreck cleverly.
+[Private note]: in the final, Horatio proved again that he's really
+a incredible vampire as its revenant and its Ivory Bow used to be
+the terror for my prey. Feel the power of Horatio!!
+
+Crypt (12 cards, min=10, max=24, avg=4.5)
+-----------------------------------------
+3x Corine Marcón	6   AUS VIC ani		Tzimisce:2
+2x Caliban		6   ANI AUS VIC		Tzimisce:2
+2x Lolita Houston	4   VIC aus		Tzimisce:2
+2x Horatio		2   vic			Tzimisce:2
+1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Christine Boscacci	2   dom vic		Pander:2
+
+Library (90 cards)
+Master (17; 1 trifle)
+5x Blood Doll
+1x Coven, The
+1x Hungry Coyote, The
+1x KRCG News Radio
+1x Library Hunting Ground
+1x Powerbase: Montreal
+1x Rack, The
+4x Rötschreck
+1x Rumor Mill, Tabloid Newspaper, The
+1x WMRH Talk Radio
+
+Action (10)
+10x Fiendish Tongue
+
+Equipment (5)
+1x Bowl of Convergence
+1x Femur of Toomler
+1x Ivory Bow
+2x Living Manse
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+2x Revenant
+1x Tasha Morgan
+
+Action Modifier (10)
+10x Changeling
+
+Action Modifier/Combat (6)
+6x Plasmic Form
+
+Reaction (24)
+6x Eagle's Sight
+4x Enhanced Senses
+4x Forced Awakening
+5x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (14)
+5x Breath of the Dragon
+9x Chiropteran Marauder

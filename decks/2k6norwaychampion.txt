@@ -1,0 +1,55 @@
+Norwegian ECQ + NC 2006
+Oslo, Norway
+April 30th 2006
+3R+F
+18 players
+Hugo S. Skarsten Larsen
+
+Deck: Tupdog / Weenie horde
+
+Crypt (17 cards, min=4, max=15, avg=2.18)
+-----------------------------------------
+8x Tupdog		1   POT VIS		Gargoyle:3
+2x Brooke		3   dom tha		Tremere antitribu:2
+2x Erinyi		3   pot vis		Gargoyle:2
+1x Pugfar		5   POT aus for vis	Gargoyle:2
+1x Thelonius		4   aus dom tha		Tremere antitribu:2
+1x Ember Wright		3   aus dom		Tremere antitribu:3
+1x Saiz			3   aus dom		Tremere antitribu:3
+1x Heinrick Schlempt	2   tha			Tremere antitribu:2
+
+Library (90 cards)
+Master (12)
+3x Blood Doll
+2x Fame
+1x KRCG News Radio
+4x Potence
+1x Powerbase: Montreal
+1x University Hunting Ground
+
+Action (9)
+1x Aranthebes, The Immortal
+4x Computer Hacking
+4x Create Gargoyle
+
+Action Modifier (1)
+1x Skin of the Chameleon
+
+Reaction (14)
+4x Deflection
+5x Forced Awakening
+3x Patrol
+2x Scry the Hearthstone
+
+Combat (54)
+2x Amaranth
+8x Crawling Chamber
+2x Disarm
+10x Immortal Grapple
+5x Pounce
+6x Raking Talons
+8x Rockheart
+1x Stone Quills
+5x Stonestrength
+1x Swoop
+6x Torn Signpost

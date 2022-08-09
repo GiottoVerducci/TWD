@@ -1,0 +1,64 @@
+Aplocalypse VII
+Bailleau-le-Pin, France
+February 9th 2020
+3R+F
+13 players
+Vincent Ripoll
+https://www.vekn.net/event-calendar/event/9578
+
+Deck Name: Shattering Crescendo 2020
+
+Crypt (12 cards, min=12, max=24, avg=4.58)
+------------------------------------------
+3x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
+3x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+1x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+1x Muse				  3   ani for mel	Daughter of Cacophony:2
+1x New Blood			  2   san		Blood Brother:ANY
+
+Library (90 cards)
+Master (17; 2 trifle)
+2x Archon Investigation
+1x Command Performance
+1x Fear of Mekhet
+1x Fragment of the Book of Nod
+3x Jake Washington
+1x Line, The
+2x Paris Opera House
+2x Pentex(TM) Subversion
+1x Perfectionist
+1x Powerbase: Montreal
+2x Wider View
+
+Action (33)
+1x Aranthebes, The Immortal
+3x Entrancement
+7x Legal Manipulations
+2x Rapid Healing
+20x Shattering Crescendo
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+3x Heart of Nizchetus
+
+Action Modifier (24)
+6x Daring the Dawn
+4x Freak Drive
+10x Missing Voice, The
+2x Siren's Lure
+2x Virtuosa
+
+Action Modifier/Combat (6)
+6x Force of Personality
+
+Reaction (4)
+2x Delaying Tactics
+2x On the Qui Vive
+
+Event (2)
+1x Dragonbound
+1x Scourge of the Enochians

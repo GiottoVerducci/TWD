@@ -1,0 +1,100 @@
+Origins Sunday
+Columbus, Ohio
+July 8th 2007
+2R+F
+21 players
+Ben Peal
+
+-- 4VP in final
+
+Deck Name: Cybelotron
+
+This deck was originally based on Erik Torstensson's Summon the Serpent
+deck, which won a tournament in Gothenburg, Sweden in 2005. His deck
+mixes in Settites, and includes Temptation and Form of Corruption. The
+deck is a blast to play, but I felt the need to strip it down to its core:
+Cybele, Great Beast, and Golconda. I took out the Serpentis actions,
+replaced Vast Wealth with Magic of the Smith, added more stealth, dropped
+some unneeded masters, dropped the Minion Taps down to 4, and increased
+the Golcondas up to 4. I put the deck on the back burner for a while, as
+I was working on intercept walls, but I saw that Johannes Walch happened
+to make the finals of the 2007 Dutch Qualifier with a Cybele + Great
+Beast, so, emboldened by Johannes' succes, I figured I'd get back to work
+on my own version. Johannes' addition of Antediluvian Awakening was pure
+genius, so I included it in my version.
+
+The operation of the deck is as follows: you put a skill card on Cybele,
+who then plays Magic of the Smith to get the Soul Gem of Etrius, untaps
+via Truth of a Thousand Lies, then plays Call the Great Beast (OBF PRE
+SER). Cybele explodes, bringing out a brand new Cybele. The Great Beast
+bleeds, and the new Cybele bleeds with her special. On the next turn, you
+Golconda your Great Beast and play a skill card on the new Cybele. Cybele
+bleeds with her special, untaps via Truth of a Thousand Lies, then plays
+Call the Great Beast, and the Great Beast and Cybele bleed again. When
+you can (when you need to), you Minion Tap the Great Beast or play
+Redeem the Lost soul to cash in one of your blown up Cybeles. You also
+have some protection against Archon Investigation, as you're free to pump
+up Cybele's bleeds due to the Soul Gem, If they play AI, then they've
+paid 3 and given you a new vampire who can now bleed for 3 more.
+
+I think Johannes is right to have 3 Soul Gems in his deck instead of the 2
+that my version and Erik's version use. I nearly lost the finals due to
+drawing both Soul Gems while sitting in between 2 intercept walls. I also
+think that Johannes is right to have 5 Golconda and 3 Minion Tap instead
+of the 4 and 4 that I use, since you'd rather get rid of the Great Beast
+and make a new one instead of Minion Tapping it and leaving it around.
+Antediluvian Awakening is an amazing card for this deck, as it gives you
+the ability to blow up Cybele when you need to, such as when Cybele is
+sitting in torpor, or if Pentex Subversion is played on her. Johannes'
+version adds in some bleed cards -- Sense the Sin and True Love's Face --
+as well as Ossian (he found the ability to rush to be helpful). My
+version stays focussed on the combo, and is stealthier.
+
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+12x Cybele 10	ANI DAI OBF PRE SER THA	 Baali:4
+
+Library (90 cards)
+Master (28)
+1x Antediluvian Awakening
+2x Auspex
+1x Barrens, The
+2x Celerity
+1x Direct Intervention
+1x Dominate
+4x Dreams of the Sphinx
+2x Fortitude
+1x Fortschritt Library
+1x Giant's Blood
+4x Golconda: Inner Peace
+4x Minion Tap
+2x Parthenon, The
+2x Redeem the Lost Soul
+
+Action (19)
+8x Call the Great Beast
+3x Entrancement
+8x Magic of the Smith
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Action Modifier (31)
+4x Cloak the Gathering
+5x Elder Impersonation
+4x Faceless Night
+5x Lost in Crowds
+2x Spying Mission
+11x Truth of a Thousand Lies
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Combat (3)
+3x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

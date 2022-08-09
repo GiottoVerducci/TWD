@@ -1,0 +1,45 @@
+Ropecon
+Ropecon 2003, Helsinki, Finland
+August 8th 2003
+78 players
+Riku Niittymäki
+
+Riku Niittymäki has played this deck before in a few tournaments here in Finland
+with great success.
+
+Deck: toreador master deck
+Concept: Bloat like hell while killing the table with anarch revolts.
+Control the table with Life Boons.
+
+Crypt (12 cards, min=32, max=41, avg=9.08)
+------------------------------------------
+6x Anson		  8   CEL PRE aus dom		prince		Toreador:1
+4x Anneke		  10  AUS CEL PRE dom		justicar	Toreador:1
+1x Leandro		  11  AUS OBF PRE cel dom	inner circle	Malkavian:2
+1x Ulugh Beg, The Watcher 10  AUS DOM THA cel for pot	justicar	Tremere:1
+
+Library (90 cards)
+Master (69)
+17x Anarch Revolt
+1x Antediluvian Awakening
+2x Art Museum
+1x Bleeding the Vine
+4x Direct Intervention
+3x Dreams of the Sphinx
+1x Elysium: The Arboretum
+2x Giant's Blood
+7x Golconda: Inner Peace
+2x Information Highway
+4x Life Boon
+12x Minion Tap
+5x Parthenon, The
+3x Protected Resources
+3x Sudden Reversal
+2x Temptation of Greater Power
+
+Reaction (21)
+3x Deflection
+1x My Enemy's Enemy
+10x Obedience
+2x Redirection
+5x Second Tradition: Domain

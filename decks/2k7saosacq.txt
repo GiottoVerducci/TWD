@@ -1,0 +1,90 @@
+SAC Qualifier
+São Paulo, Brazil
+June 17th 2007
+40 players
+David Magri da Silva
+
+Deck Name: Baratas'07 (In english: Roaches'07)
+
+Description: Uses embraces to create a horde of weenies, gains tons of
+pool with ConBoon + Foundation Exhibit and massive bleed with Palla
+Grande. The deck doesn't use disciplines, so he can use many
+discipline hoser Gehenna cards.
+
+This is a very effective deck, which already won many other
+tournaments in Brazil. In fact, David has gained the alias The Roach
+King, for it. In this tournament, he ended the final table with more
+than 40 pool and something around 16 minions, but I remember another
+one where he ended with more than 120 pool and more than 20 minions. A
+deck to be feared.
+
+Crypt (19 cards, min=8, max=28, avg=4.26)
+-----------------------------------------
+2x Jonathan Gursel	   3   aus pre		    	    Toreador antitribu:4
+2x Monique Kim		   3   aus cel		    	    Toreador antitribu:4
+2x Justine Chen, Innocent  2   pre		    	    Toreador antitribu:4
+2x Nicholas Chang	   2   aus		    	    Toreador antitribu:3
+1x Marcus Vitel		   10  DOM FOR OBF OBT PRE  prince  Ventrue:3
+1x Dominique Santo Paulo   6   AUS CEL pot pre	    	    Toreador antitribu:4
+1x Guillermo Arsuaga	   6   CEL PRE aus for	    	    Toreador antitribu:4
+1x Redbone McCray	   6   AUS PRE cel pro	    	    Toreador antitribu:4
+1x Tears, The Dark Pierrot 6   AUS DEM PRE cel	    	    Toreador antitribu:4
+1x Creamy Jade		   5   PRE aus cel vic	    	    Toreador antitribu:3
+1x Cristos Mantigo	   5   aus cel dom obf pre  	    Toreador antitribu:3
+1x Gabriel de Cambrai	   5   aus cel dem obf pre  	    Toreador antitribu:4
+1x L'Épuisette		   4   aus cel pro	    	    Toreador antitribu:4
+1x Loonar		   4   PRE cel		    	    Toreador antitribu:4
+1x Sabrina		   4   aus cel pre	    	    Toreador antitribu:3
+
+Library (90 cards)
+Master (27; 4 trifle)
+1x Bleeding the Vine
+1x Communal Haven: Temple
+1x Elder Library
+1x Fear of Mekhet
+1x Fortschritt Library
+6x Foundation Exhibit
+1x Heidelberg Castle, Germany
+1x Humanitas
+1x Hungry Coyote, The
+1x Information Highway
+4x Life in the City
+4x Palla Grande
+1x Parthenon, The
+1x Powerbase: Rome
+1x Storage Annex
+1x Sunset Strip, Hollywood
+
+Action (19)
+1x Aranthebes, The Immortal
+13x Embrace, The
+5x Thin-Blooded Seer
+
+Ally (2)
+1x Alia, God's Messenger
+1x Carlton Van Wyk
+
+Political Action (19)
+13x Consanguineous Boon
+4x Disputed Territory
+1x Rumors of Gehenna
+1x Year of Fortune
+
+Action Modifier (6)
+6x Change of Target
+
+Combat (6)
+6x Dodge
+
+Event (11)
+1x Anthelios, The Red Star
+1x Blood Trade
+1x Break the Code
+1x Fall of the Camarilla
+1x Fall of the Sabbat
+1x Fueled by Heart's Blood
+1x Restricted Vitae
+1x Slow Withering, The
+1x Torpid Blood
+1x Veil of Darkness
+1x Wormwood

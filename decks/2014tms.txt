@@ -1,0 +1,86 @@
+Tournament
+Malmö, Sweden
+November 22nd 2014
+2R+F
+11 players
+Sebastian Fredenberg
+https://www.vekn.net/event-calendar/event/7874
+
+-- 4VP in final
+
+Deck Name: Anu's Hordes
+
+Description: Recruit allies and attack, then use Anu's special and dominate when going
+in for the kill. Amount of blood gain/reduce cost in the deck mitigates blood loss alot.
+
+Crypt (12 cards, min=17, max=27, avg=5.67)
+------------------------------------------
+2x Anu Diptinatpa	   7   DOM NEC aus vic	Nagaraja:6
+2x Dr. Oliver Genet	   6   DOM NEC pot	Giovanni:6
+2x Lupo Giovanni	   6   NEC dom pot pre	Giovanni:6
+2x Salvatore Giovanni	   5   NEC POT dom	Giovanni:6
+1x Martino della Passaglia 7   DOM NEC POT obf	Giovanni:6
+1x Accorri Giovanni	   6   DOM POT ani nec	Giovanni:5
+1x Kay Polerno		   4   dom nec pro	Giovanni:5
+1x Stephen Milliner	   3   nec pre		Giovanni:5
+
+Library (84 cards)
+Master (18; 2 trifle)
+1x Channel 10
+1x Charisma
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Jake Washington
+2x Liquidation
+1x Morgue Hunting Ground
+1x Path of Bone, The
+2x Perfectionist
+1x Powerbase: Cape Verde
+1x Powerbase: Montreal
+2x Vessel
+
+Action (11)
+1x Far Mastery
+7x Govern the Unaligned
+3x Sudario Refraction
+
+Action/Reaction (1)
+1x Consume the Dead
+
+Ally (17)
+1x Carlton Van Wyk
+2x Draeven Softfoot
+1x Gianna di Canneto
+1x Ossian
+9x Shambling Hordes
+1x Tye Cooper
+2x Veneficti
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (6)
+4x Call of the Hungry Dead
+2x Conditioning
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (12)
+4x Deflection
+1x Delaying Tactics
+3x Funeral Wake
+3x On the Qui Vive
+1x Poison Pill
+
+Combat (11)
+5x Fake Out
+2x Spiritual Intervention
+1x Target Vitals
+3x Trap
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

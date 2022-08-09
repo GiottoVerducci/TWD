@@ -1,0 +1,55 @@
+Sunrise Service
+Paris, France
+July 26th 2008
+3R+F
+24 players
+Jérôme Goyet
+
+-- 3VP in final
+
+Deck Name: Grooming the spirit
+
+Crypt (12 cards, min=13, max=26, avg=4.92)
+------------------------------------------
+2x Uncle George		 5   DEM aus dom obf	  	   Malkavian antitribu:3
+2x Midget		 3   DEM obf pre	  	   Malkavian antitribu:3
+1x Kite			 7   AUS DEM obf pre	  bishop   Malkavian antitribu:2
+1x Korah		 7   AUS DEM OBF ani	  priscus  Malkavian antitribu:2
+1x Artemis		 6   DEM OBF aus cel for  	   Malkavian antitribu:2
+1x Dolphin Black	 6   AUS DEM OBF	  	   Malkavian antitribu:2
+1x Colonel, The		 5   AUS cel dem obf	  	   Malkavian antitribu:3
+1x General Perfidio Díos 5   AUS dem obf	  bishop   Malkavian antitribu:3
+1x Claven		 4   aus dem obf	  	   Malkavian antitribu:2
+1x Yorik		 3   dem obf		  	   Malkavian antitribu:2
+
+Library (78 cards)
+Master (16; 5 trifle)
+7x Grooming the Protégé
+2x Pentex(TM) Subversion
+2x Sudden Reversal
+3x Vessel
+2x Wash
+
+Action (18)
+13x Kindred Spirits
+5x Madman's Quill
+
+Action Modifier (34)
+3x Cloak the Gathering
+7x Confusion
+2x Domain of Evernight
+2x Elder Impersonation
+9x Eyes of Chaos
+3x Faceless Night
+3x Lost in Crowds
+2x Mind Tricks
+3x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (7)
+2x Delaying Tactics
+2x My Enemy's Enemy
+2x Telepathic Misdirection
+1x Wake with Evening's Freshness

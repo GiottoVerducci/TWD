@@ -1,0 +1,63 @@
+French NCQ
+Alès, France
+August 11th 2007
+3R+F
+17 players
+Orian Gissler
+
+Deck Name: Gepetto Giovanni
+
+Crypt (12 cards, min=10, max=26, avg=4.58)
+------------------------------------------
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Rudolfo Giovanni	3   NEC			Giovanni:2
+1x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
+1x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+1x Nedal, The Careless	1   cel nec		Caitiff:3
+
+Library (80 cards)
+Master (13)
+2x Acquired Ventrue Assets
+4x Blood Doll
+1x Charisma
+1x Dis Pater
+2x Memories of Mortality
+2x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+
+Action (15)
+2x Far Mastery
+7x Govern the Unaligned
+2x Scrounging
+4x Sudario Refraction
+
+Ally (13)
+2x Ambrosius, The Ferryman
+1x Leonardo, Mortician
+6x Puppeteer
+4x Shambling Hordes
+
+Action Modifier (18)
+6x Call of the Hungry Dead
+4x Conditioning
+1x Foreshadowing Destruction
+7x Shroud Mastery
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (12)
+7x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+
+Combat (2)
+1x Spiritual Intervention
+1x Trap
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

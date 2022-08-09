@@ -1,0 +1,57 @@
+Eudemonia
+Eudemonia, Berkeley, California
+July 9th 2005
+2R+F
+10 players
+Jeff Kuta
+
+Qadir's World Tour 2005
+
+Crypt (12 cards, min=15, max=36, avg=6.17)
+------------------------------------------
+4x Qadir ul-Ghani		9   CEL OBF QUI nec tha	 Assamite:2
+2x Kalinda			6   CEL OBF tha		 Assamite:2
+2x Tansu Bekir			4   OBF cel		 Assamite:2
+1x Zahir, Hand of the Silsila	6   CEL OBF qui tha	 Assamite:2
+1x Badr al-Budur		5   OBF cel dom qui	 Assamite:2
+1x Anwar			4   cel obf qui		 Assamite:2
+1x Ali Kar			3   obf qui		 Assamite:3
+
+Library (90 cards)
+Master (20)
+2x Alamut
+2x Archon Investigation
+2x Blood Doll
+1x Fear of Mekhet
+1x Giant's Blood
+2x Major Boon
+1x Market Square
+6x Minion Tap
+1x Perfectionist
+1x Society of Leopold
+1x Underworld Hunting Ground
+
+Action (20)
+6x Computer Hacking
+8x Concert Tour
+3x Flurry of Action
+3x Khabar: Glory
+
+Political Action (6)
+6x Free States Rant
+
+Action Modifier (24)
+4x Elder Impersonation
+8x Faceless Night
+8x Lost in Crowds
+4x Spying Mission
+
+Reaction (4)
+4x Black Sunrise
+
+Combat (16)
+2x Behind You!
+3x Flash
+2x Preternatural Evasion
+3x Selective Silence
+6x Taste of Death

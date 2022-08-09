@@ -1,0 +1,58 @@
+Québec NCQ
+Quebec City, Quebec
+September 12th 2004
+3R+F
+25 players
+Charles Lechasseur
+
+Deck Name: Erase Me (V4.0)
+
+Here is my winning deck. In this tournament, I've met more political decks than
+I've ever seen in a single tourney and most of them were built using big-cap vamps.
+This, of course, was to my advantage, since killing a big-cap cripples someone terribly.
+
+Description: Derange vamps, give them some much-needed Dementia and have them climb the Social Ladder.
+
+Crypt (12 cards, min=36, max=44, avg=9.92)
+------------------------------------------
+4x Leandro	    11	AUS OBF PRE cel dom	inner circle	Malkavian:2
+3x Esau		    10	AUS DEM DOM OBF PRE			Malkavian:3
+3x Maris Streck	    9	AUS OBF ani dem dom	justicar	Malkavian:3
+2x William Biltmore 9	AUS DEM OBF THA dom			Malkavian:3
+
+Library (83 cards)
+Master (28)
+2x Golconda: Inner Peace
+8x Malkavian Dementia
+6x Minion Tap
+4x Parthenon, The
+1x Secure Haven
+7x Social Ladder
+
+Action (10)
+8x Derange
+2x Petra Resonance
+
+Political Action (2)
+2x Rumors of Gehenna
+
+Action Modifier (12)
+4x Elder Impersonation
+4x Forgotten Labyrinth
+4x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (24)
+2x My Enemy's Enemy
+8x Obedience
+2x Redirection
+4x Telepathic Misdirection
+8x Wake with Evening's Freshness
+
+Combat (2)
+2x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

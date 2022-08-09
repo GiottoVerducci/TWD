@@ -1,0 +1,59 @@
+An Anarch Manifesto
+San Jose, California
+December 20th 2010
+2R+F
+14 players
+Mike Zajac
+
+Deck Name: Obey Redux
+
+Vote and bleed down prey, and reassign pool via Parity Shifts to keep
+others from being ousted; bounce with Deflections and reduce combat
+with Obedience and Read Intentions; slow to start up and weak against
+Grapples and heavy combat, but tends to keep things interesting, as
+passing votes is rarely a problem.
+
+Crypt (12 cards, min=28, max=43, avg=8.75)
+------------------------------------------
+3x Leandro	    11	AUS OBF PRE cel dom	inner circle	Malkavian:2
+3x Lucian	    10	AUS DOM OBF cel tha	justicar	Malkavian:1
+3x Gilbert Duane    7	AUS DOM OBF		prince		Malkavian:1
+3x Greger Anderssen 7	AUS OBF dom pro		prince		Malkavian:2
+
+Library (90 cards)
+Master (11)
+2x Golconda: Inner Peace
+2x Madness Network
+3x Malkavian Prank
+4x Minion Tap
+
+Action (5)
+5x Slaughtering the Herd
+
+Equipment (1)
+1x Gran Madre di Dio, Italy
+
+Political Action (15)
+2x First Tradition: The Masquerade
+6x Kine Resources Contested
+1x Lextalionis
+6x Parity Shift
+
+Action Modifier (26)
+5x Bonding
+5x Bribes
+2x Cryptic Rider
+4x Elder Impersonation
+2x Forgotten Labyrinth
+6x Lost in Crowds
+2x Telepathic Vote Counting
+
+Reaction (28)
+8x Deflection
+2x Malkavian Rider Clause
+8x Obedience
+5x Second Tradition: Domain
+5x Wake with Evening's Freshness
+
+Combat (4)
+4x Read Intentions

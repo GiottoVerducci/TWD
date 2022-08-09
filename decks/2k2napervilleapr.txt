@@ -1,0 +1,65 @@
+Darkling Trickery
+Naperville, Illinois
+May 11th 2002
+10 players
+Paul Foisy
+
+Lasombra Deck o'Doom
+
+Crypt (14 cards, min=16, max=32, avg=5.86)
+------------------------------------------
+2x Gratiano			8   DOM OBT obf pot	 priscus  Lasombra:2
+2x Lucita			8   DOM FOR OBT cel pot	 	  Lasombra:2
+2x Aurora Van Brande, Paladin	6   OBT dom for pot	 	  Lasombra:2
+2x Talley, The Hound		6   OBT POT aus dom	 	  Lasombra:2
+2x Guido Lucciano		5   OBT dom obf		 	  Lasombra:2
+2x Ignacio, The Black Priest	4   dom obt pot		 	  Lasombra:2
+2x Ramiro			4   dom obt vic		 	  Lasombra:2
+
+Library (86 cards)
+Master (21)
+1x Arcanum Chapterhouse, Alexandria
+1x Barrens, The
+4x Blood Doll
+1x Club Zombie
+4x Dominate
+2x Elysian Fields
+1x Information Highway
+1x KRCG News Radio
+3x Obtenebration
+1x Political Hunting Ground
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+
+Action (5)
+1x Atonement
+3x Govern the Unaligned
+1x Graverobbing
+
+Equipment (3)
+1x Gas-Powered Chainsaw
+1x Palatial Estate
+1x Starshell Grenade Launcher
+
+Action Modifier (27)
+2x Bonding
+2x Command of the Beast
+7x Conditioning
+9x Shadow Play
+1x Shroud of Absence
+4x Shroud of Night
+2x Stone Travel
+
+Reaction (21)
+2x Darksight
+8x Deflection
+1x Eyes of the Night
+3x Pack Tactics
+2x Redirection
+5x Wake with Evening's Freshness
+
+Combat (9)
+2x Dodge
+1x Entombment
+2x Oubliette
+4x Shadow Body

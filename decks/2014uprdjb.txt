@@ -1,0 +1,46 @@
+Undead Persistence
+Rio de Janeiro, Brazil
+January 12th 2014
+14 players
+Davi Pereira da Cunha
+
+Deck Name: Assamita
+
+Crypt (12 cards, min=17, max=31, avg=6)
+---------------------------------------
+3x Bakr		   8   CEL OBF QUI dem pro  	    Assamite:5
+3x Kashan	   7   CEL OBF QUI obt pre  1 vote  Assamite:4
+3x Layla bint-Nadr 5   CEL OBF qui	    	    Assamite:4
+2x Kamau Jafari	   4   QUI obf		    	    Assamite:4
+1x Sajid al Misbah 4   QUI		    	    Assamite:5
+
+Library (84 cards)
+Master (16; 6 trifle)
+2x Alamut
+2x Archon Investigation
+2x Dreams of the Sphinx
+2x Major Boon
+2x Path of Blood, The
+3x Vessel
+3x Villein
+
+Action (34)
+6x Flurry of Action
+6x Haqim's Law: Leadership
+6x Khabar: Glory
+12x Loss
+4x Web of Knives Recruit
+
+Political Action (4)
+4x Reckless Agitation
+
+Action Modifier (12)
+6x Elder Impersonation
+6x Lost in Crowds
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Combat (12)
+6x Selective Silence
+6x Taste of Death

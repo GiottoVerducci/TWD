@@ -1,0 +1,66 @@
+Italian Qualifier Tour 4th stage (Turin) - Helena Adv
+Milan, Italy
+March 4th 2012
+2R+F
+20 players
+Enrico De Stefano
+
+Deck Name: Dear diary, today I feel like a wraith..
+
+Description: Really funny deck..
+
+Crypt (13 cards, min=8, max=20, avg=3.38)
+-----------------------------------------
+2x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
+2x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+1x Mina Grotius			   6   FOR NEC cel  Harbinger of Skulls:3
+1x Isabel Giovanni		   5   DOM NEC pot  Giovanni:2
+1x Le Dinh Tho			   5   NEC aus dom  Nagaraja:2
+1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
+1x Gloria Giovanni		   4   DOM nec	    Giovanni:2
+1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
+1x Lia Milliner			   3   dom nec	    Giovanni:3
+1x Mario Giovanni		   3   nec pot	    Giovanni:2
+1x Rudolfo Giovanni		   3   NEC	    Giovanni:2
+
+Library (90 cards)
+Master (24; 4 trifle)
+3x Acquired Ventrue Assets
+1x Dark Influences
+3x Jake Washington
+8x Liquidation
+1x Not to Be
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Tribute to the Master
+4x Vessel
+
+Action (28)
+1x Aranthebes, The Immortal
+10x Embrace, The
+12x Khazar's Diary (Endless Night)
+5x Sudario Refraction
+
+Ally (22)
+1x Carlton Van Wyk
+9x Draeven Softfoot
+1x Felix "Fix" Hessian
+1x Gregory Winter
+1x Leonardo, Mortician
+1x Mylan Horseed
+1x Repo Man
+3x Shambling Hordes
+4x Veneficti
+
+Equipment (4)
+1x Gran Madre di Dio, Italy
+3x Heart of Nizchetus
+
+Reaction (10)
+5x Deflection
+3x Delaying Tactics
+2x On the Qui Vive
+
+Event (2)
+2x Unmasking, The

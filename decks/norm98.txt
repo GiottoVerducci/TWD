@@ -1,0 +1,69 @@
+Anarch Revolt
+New Orleans
+December 12th 1998
+Norman Brown, Jr.
+
+Deck Name: Oblige Noblisse
+
+Description: Anarch Revolt Tournament Winner, 12/98
+
+Crypt (13 cards, min=21, max=39, avg=7.31)
+------------------------------------------
+1x Leandro		11  AUS OBF PRE cel dom	 inner circle	Malkavian:2
+1x Anneke		10  AUS CEL PRE dom	 justicar	Toreador:1
+1x Democritus		10  DOM PRE aus cel for	 justicar	Ventrue:1
+1x Anson		8   CEL PRE aus dom	 prince		Toreador:1
+1x Emerson Bridges	8   DOM FOR PRE pot	 prince		Ventrue:1
+1x Mariel, Lady Thunder	7   DOM OBF aus tha	 		Malkavian:1
+1x Sir Walter Nash	7   DOM FOR PRE		 prince		Ventrue:1
+1x Timothy Crowley	7   FOR PRE ani dom	 prince		Ventrue:1
+1x Lydia Van Cuelen	6   aus dom pre tha	 		Tremere:1
+1x Rake			6   PRE aus cel pot	 prince		Brujah:1
+1x Vanessa		6   DOM FOR aus pre	 		Ventrue antitribu:2
+1x Ramiel DuPre		5   PRE aus cel dom	 		Toreador:1
+1x Demetrius Slater	4   aus cel pre		 		Toreador:1
+
+Library (89 cards)
+Master (26)
+1x Brujah Frenzy
+1x Dominate
+1x Elder Library
+2x Game of Malkav
+1x Giant's Blood
+1x Hostile Takeover
+2x Information Highway
+1x KRCG News Radio
+1x Life Boon
+1x Major Boon
+8x Minion Tap
+4x Misdirection
+1x Parthenon, The
+1x Secret Horde
+
+Action (19)
+2x Embrace, The
+7x Fifth Tradition: Hospitality
+3x Govern the Unaligned
+3x Legal Manipulations
+1x Social Charm
+3x Third Tradition: Progeny
+
+Political Action (1)
+1x Ancient Influence
+
+Action Modifier (8)
+6x Conditioning
+1x Freak Drive
+1x Seduction
+
+Reaction (29)
+5x Deflection
+1x Delaying Tactics
+1x Legacy of Power
+4x Second Tradition: Domain
+10x Telepathic Counter
+6x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (6)
+6x Majesty

@@ -1,0 +1,65 @@
+Adrenochrome
+Gothenburg, Sweden
+June 13th 2009
+13 players
+Stefan Karlsson
+
+-- 2.5VP in final
+
+Deck Name: Saturday the 13th Chainsaw Massacre
+
+Description: Gerald is simply the perfect toolbox-vampire! Make sure
+to get Ankara Citadel and then do whatever you need to win.
+
+Crypt (12 cards, min=22, max=36, avg=7.58)
+------------------------------------------
+5x Gerald Windham   9	AUS DOM FOR THA			    Tremere:5
+2x Polly Kay Fisher 8	AUS DOM THA for pot	archbishop  Ventrue antitribu:4
+2x Jefferson Foster 6	AUS DOM for tha		bishop	    Ventrue antitribu:4
+2x Claus Wegener    5	DOM aus for tha			    Tremere:5
+1x Phagian	    8	AUS NEC THA dom for		    Harbinger of Skulls:4
+
+Library (80 cards)
+Master (9; 4 trifle)
+1x Giant's Blood
+1x Marrakesh Codex, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+4x Villein
+
+Action (14)
+6x Govern the Unaligned
+6x Magic of the Smith
+2x Pulse of the Canaille
+
+Ally (2)
+2x Ponticulus
+
+Equipment (6)
+1x Ankara Citadel, Turkey, The
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Talbot's Chainsaw
+
+Political Action (3)
+3x Kine Resources Contested
+
+Action Modifier (19)
+4x Conditioning
+9x Freak Drive
+4x Mirror Walk
+2x Seduction
+
+Reaction (19)
+7x Deflection
+3x Enhanced Senses
+5x Eyes of Argus
+3x On the Qui Vive
+1x Salt of Thoth
+
+Combat (8)
+4x Skin of Steel
+4x Theft of Vitae

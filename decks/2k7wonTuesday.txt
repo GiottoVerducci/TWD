@@ -1,0 +1,65 @@
+Week of Nightmares - Tuesday
+Los Angeles, California
+September 18th 2007
+2R+F
+16 players
+Gene Martin
+
+Deck Name: Black Hand Aus
+
+Description: Black Hand vampires with Auspex win the tournament.
+
+Crypt (12 cards, min=15, max=26, avg=5.25)
+------------------------------------------
+2x Blackhorse Tanner	7   AUS DOM FOR		Ventrue antitribu:3
+1x Ingram Frizer	6   AUS OBF ani pot	Nosferatu antitribu:3
+1x Selena		6   AUS DOM THA		Tremere antitribu:3
+1x Sennadurek		6   AUS NEC dom		Nagaraja:4
+1x Yasmin the Black	6   AUS THA dom pre	Tremere antitribu:3
+1x Aredhel		5   FOR VAL aus		Salubri antitribu:4
+1x Colonel, The		5   AUS cel dem obf	Malkavian antitribu:3
+1x Neighbor John	5   AUS dom for		Ventrue antitribu:4
+1x Mariano Pomposo	4   aus cel pot		Brujah antitribu:3
+1x Roger Farnsworth	4   OBF aus		Malkavian antitribu:3
+1x Piotr Andreikov	2   aus			Tzimisce:3
+
+Library (90 cards)
+Master (19)
+3x Auspex
+6x Blood Doll
+2x Dominion
+2x Heidelberg Castle, Germany
+2x Hungry Coyote, The
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+2x Sudden Reversal
+
+Action (21)
+5x Bloodwork
+3x Pulse of the Canaille
+10x Reunion Kamut
+3x Revelations
+
+Equipment (6)
+2x Bowl of Convergence
+1x Guarded Rubrics
+1x Ivory Bow
+2x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (31)
+3x Enhanced Senses
+2x Follow the Blood
+5x Forced Awakening
+2x On the Qui Vive
+3x Precognition
+3x Spirit's Touch
+3x Telepathic Counter
+5x Telepathic Misdirection
+3x Truth in Ink
+2x Wake with Evening's Freshness
+
+Combat (12)
+12x Psychic Assault

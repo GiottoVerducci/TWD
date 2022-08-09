@@ -1,0 +1,58 @@
+Groundfighting
+Fantasiapelit, Helsinki, Finland
+July 20th 2008
+3R+F
+13 players
+Juha Nyholm
+
+Deck Name: Thumbs up
+
+Crypt (12 cards, min=26, max=39, avg=8.33)
+------------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+3x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+2x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Dr. Julius Sutphen			  5   POT dom obt		bishop	    Lasombra:3
+1x Dr. Julius Sutphen (ADV)		  5   POT dom obt			    Lasombra:3
+
+Library (90 cards)
+Master (15)
+3x Blood Doll
+1x Danse Macabre
+2x Dominate
+2x Dreams of the Sphinx
+1x Elysian Fields
+4x Minion Tap
+2x Power Structure
+
+Action (12)
+4x Creation Rites
+8x Govern the Unaligned
+
+Political Action (15)
+1x Banishment
+1x Cardinal Benediction
+3x Consanguineous Boon
+1x Conservative Agitation
+2x Domain Challenge
+7x Kine Resources Contested
+
+Action Modifier (25)
+2x Blanket of Night
+3x Conditioning
+6x Seduction
+5x Shadow Play
+1x Shroud of Absence
+5x Shroud of Night
+3x Voter Captivation
+
+Reaction (16)
+10x Deflection
+2x On the Qui Vive
+4x Wake with Evening's Freshness
+
+Combat (7)
+1x Burning Wrath
+3x Oubliette
+3x Shadow Body

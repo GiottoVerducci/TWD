@@ -1,0 +1,59 @@
+EC 1999 Day 2
+Vienna, Austria
+November 21st 1999
+3R+F
+59 players
+Martin Weinmayer
+http://secretlibrary.info/index.php?deck=view&id=4679
+
+Deck Name: Tremere Wall
+
+Crypt (12 cards, min=9, max=25, avg=4.08)
+-----------------------------------------
+3x Richard Tauber, Ayelea's Puppet  4	AUS tha		 Tremere antitribu:2
+2x Merrill Molitor		    5	THA aus dom	 Tremere:1
+1x Rebekka, Chantry Elder of Munich 8	AUS PRE THA pot	 Tremere:2
+1x Muaziz, Archon of Ulugh Beg	    7	THA aus dom for	 Tremere:2
+1x Blythe Candeleria		    3	THA aus		 Tremere:2
+1x Dr. John Casey		    3	aus tha		 Tremere:1
+1x Heinrick Schlempt		    2	tha		 Tremere antitribu:2
+1x Magdelena Schaefer		    2	THA		 Caitiff:2
+1x Roreca Quaid			    2	tha		 Tremere:1
+
+Library (66 cards)
+Master (18)
+1x Academic Hunting Ground
+2x Arcane Library
+5x Blood Doll
+1x Chantry
+1x Direct Intervention
+1x Giant's Blood
+1x Rack, The
+5x Sudden Reversal
+1x University Hunting Ground
+
+Action (4)
+4x Magic of the Smith
+
+Ally (2)
+1x Nephandus
+1x Talaq, The Immortal
+
+Equipment (8)
+2x .44 Magnum
+1x Flak Jacket
+1x Ivory Bow
+1x Palatial Estate
+1x Sengir Dagger
+2x Sport Bike
+
+Reaction (30)
+4x Eagle's Sight
+6x Fast Reaction
+6x Forced Awakening
+4x My Enemy's Enemy
+4x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (4)
+4x Burst of Sunlight

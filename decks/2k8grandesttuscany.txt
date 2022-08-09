@@ -1,0 +1,66 @@
+The Grandest Trick
+Barga, Italy
+January 20th 2008
+2R+F
+22 players
+Danilo Torrisi
+
+Deck Name: Shambling Hordes
+
+Description: fast shambling hordes deck.
+
+Crypt (12 cards, min=14, max=28, avg=5.17)
+------------------------------------------
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Carlotta Giovanni	7   NEC POT dom obf	Giovanni:2
+2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Gloria Giovanni	4   DOM nec		Giovanni:2
+2x Rudolfo Giovanni	3   NEC			Giovanni:2
+
+Library (90 cards)
+Master (21)
+2x Blood Doll
+1x Creepshow Casino
+2x Direct Intervention
+1x Dis Pater
+1x Dreams of the Sphinx
+2x Fame
+1x Fragment of the Book of Nod
+1x Giant's Blood
+6x Liquidation
+2x Path of Bone, The
+2x Tower of London
+
+Action (5)
+2x Dominate Kine
+3x Sudario Refraction
+
+Ally (27)
+1x Carlton Van Wyk
+1x Leonardo, Mortician
+1x Ossian
+4x Procurer
+20x Shambling Hordes
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Action Modifier (10)
+7x Call of the Hungry Dead
+3x Conditioning
+
+Action Modifier/Reaction (7)
+7x Spectral Divination
+
+Reaction (7)
+6x Deflection
+1x Delaying Tactics
+
+Combat (8)
+8x Spiritual Intervention
+
+Event (3)
+1x Anthelios, The Red Star
+1x FBI Special Affairs Division
+1x Unmasking, The

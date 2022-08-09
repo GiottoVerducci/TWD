@@ -1,0 +1,53 @@
+SP Open - SAC Qualifier
+São Paulo, Brazil
+July 1st 2006
+3R+F
+54 players
+Davi Cara-de-Pizza
+
+Deck Name: Deck Ventrue
+
+2GW11.5 + 4VP in final
+
+Crypt (12 cards, min=25, max=42, avg=8.92)
+------------------------------------------
+3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+3x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+2x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+
+Library (90 cards)
+Master (19)
+1x Archon Investigation
+1x Barrens, The
+2x Blood Doll
+2x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+5x Information Highway
+3x Minion Tap
+2x Pentex(TM) Subversion
+2x Zillah's Valley
+
+Action (8)
+2x Graverobbing
+6x Legal Manipulations
+
+Political Action (8)
+8x Kine Resources Contested
+
+Action Modifier (35)
+2x Awe
+2x Bewitching Oration
+5x Elder Impersonation
+8x Freak Drive
+3x Kiss of Ra, The
+5x Lost in Crowds
+5x Seduction
+5x Voter Captivation
+
+Reaction (20)
+5x Deflection
+8x Obedience
+3x Redirection
+4x Second Tradition: Domain

@@ -1,0 +1,74 @@
+Helen Fairchild
+Atlanta, Georgia
+December 10th 2011
+2R+F
+10 players
+Matt Guinn
+http://www.veknfrance.com/decks/twd.htm#2011gamag
+
+Deck Name: Ira II
+
+Description: Only slightly modified from the February TWD version.
+
+Crypt (12 cards, min=10, max=39, avg=6.42)
+------------------------------------------
+4x Ira Rivers		   7   AUS CEL ani pre		prince		Toreador:3
+1x Alexandra		   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+1x François Villon	   10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Madame Guil		   10  AUS CEL PRE for pot ser	justicar	Toreador:3
+1x Marcellus		   8   AUS CEL pro		prince		Toreador:2
+1x Yvette, The Hopeless	   3   aus cel					Toreador:3
+1x Zöe			   3   AUS cel obf				Malkavian:2
+1x Emerson Wilkershire III 2   pre					Toreador:3
+1x Nicholas Chang	   2   aus					Toreador antitribu:3
+
+Library (88 cards)
+Master (25; 4 trifle)
+1x Art Museum
+9x Ashur Tablets
+3x Blood Doll
+1x Direct Intervention
+1x Papillon
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Society Hunting Ground
+3x Villein
+1x Wider View
+
+Action (2)
+2x Fleetness
+
+Equipment (6)
+5x .44 Magnum
+1x Sniper Rifle
+
+Retainer (1)
+1x Owl Companion
+
+Action Modifier (2)
+2x Aire of Elation
+
+Reaction (30)
+5x Eagle's Sight
+5x Eyes of Argus
+4x Forced Awakening
+2x My Enemy's Enemy
+3x On the Qui Vive
+6x Quicken Sight
+2x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Combat (21)
+1x Blur
+5x Concealed Weapon
+1x Fast Hands
+2x Flash
+3x Psyche!
+6x Pursuit
+2x Side Strike
+1x Taste of Vitae
+
+Event (1)
+1x Uncoiling, The

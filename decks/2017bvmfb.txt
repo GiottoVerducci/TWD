@@ -1,0 +1,63 @@
+Boas vindas Matheus!
+Fortaleza, Brazil
+July 23rd 2017
+3R+F
+18 players
+Nilceu Galvão
+https://www.vekn.net/event-calendar/event/8728
+
+-- 3VP in final
+
+Deck Name: Etrius Anarck
+
+Description: Bleed sem levar dano
+
+Crypt (12 cards, min=4, max=38, avg=5.25)
+-----------------------------------------
+4x Anarch Convert		    1	-none-					Caitiff:ANY
+2x Etrius			    11	AUS DOM OBF THA pro	inner circle	Tremere:2
+2x Justine, Elder of Dallas	    8	AUS DOM THA obf		primogen	Tremere:1
+1x Rebekka, Chantry Elder of Munich 8	AUS PRE THA pot				Tremere:2
+1x Muaziz, Archon of Ulugh Beg	    7	THA aus dom for				Tremere:2
+1x Zebulon			    5	OBF aus dom pro				Malkavian:1
+1x Royce			    1	dom					Pander:2
+
+Library (90 cards)
+Master (14; 6 trifle)
+1x Academic Hunting Ground
+1x Anarch Railroad
+1x Arcane Library
+1x Chantry
+2x Dominate
+1x Obfuscate
+1x Thaumaturgy
+4x Vessel
+2x Villein
+
+Action (13)
+1x Field Training
+4x Govern the Unaligned
+3x Pulse of the Canaille
+5x Rutor's Hand
+
+Ally (1)
+1x Ponticulus
+
+Action Modifier (24)
+6x Cloak the Gathering
+3x Faceless Night
+3x Lost in Crowds
+7x Mirror Walk
+5x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Hide the Mind
+
+Reaction (16)
+10x Deflection
+6x Eyes of Argus
+
+Combat (21)
+4x Burst of Sunlight
+9x Rego Motum
+8x Wind Dance

@@ -1,0 +1,85 @@
+Origins - Thursday 1
+Columbus, Ohio
+September 30th 2021
+2R+F
+12 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/9846
+
+Deck Name: Broccolini
+This deck was developed independently from (but about the same time as) Esa-Matti Smolander's 17 Sept 2019 winner. The designs turned out similar because there's a single logical path for development with these vampires:
+1) Get too many MPA and discard options,
+2) Play Ashur Tablets,
+3) Profit.
+
+I suspect I'm a little more ruthless in discarding than Esa-Matti is - I have one more set of Tablets and want dual stealth locations. Between Blithe Acceptance and those locations, I can leverage a more compact stealth module from that point forward.
+
+Crypt (12 cards, min=10, max=40, avg=6.58)
+------------------------------------------
+4x Huitzilopochtli	    10	AUS DAI DOM OBF POT PRE	 Baali:2
+4x Giotto Verducci	    7	DAI OBF for pot pre	 Baali:2
+3x Anarch Convert	    1	-none-			 Caitiff:ANY
+1x High Priest Angra Mainyu 8	DAI OBF PRE dem ser	 Baali:2
+
+Who Eats A Lot Of Broccoli is clearly the focus. If I don't get him early I'm behind the curve, digging for Wider View and pushing subsequent Tend the Flocks + Info Highway for pool gain. The deck would probably run better with 5/13 Huitz since it can limp along without Giotto if needed - but having a valid target for Tend is still pretty important.
+The 3 Anarch Converts give the Railroad stealth, but also provide 1-3 chump block options if that's needed more. I seldom get the High Priest unless I'm pretty far ahead in the mid game (like, never???)
+
+Library (75 cards)
+Master (41; 8 trifle)
+1x Anarch Railroad -- not perfect, but good enough
+1x Archon Investigation
+12x Ashur Tablets -- because they are stupidly broken.
+1x Coven, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway -- helps stabilize with 3 pool gain per Tend if needed.
+1x Jake Washington -- he blocks more than he pops for blood.
+1x Metro Underground -- fits with Cog and bounce functions
+1x Monastery of Shadows
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Perfectionist -- might be non-essential, but Blithe Acceptance sometimes creates extra blood demand.
+6x Tend the Flock -- this keeps me from running Secure Haven
+4x Villein
+1x Wash -- have you seen how this fits in Tablet decks? It's so stupid.
+2x Wider View
+
+Action (8)
+1x Blithe Acceptance -- stupidly good in this kind of deck
+1x Contagion
+1x Dominate Kine -- mostly to steal intercept locations.
+3x Entrancement -- because Emerald Legionnaires exist.
+2x Unleash Hell's Fury -- staple Baali defense.
+
+Ally (4)
+1x Carlton Van Wyk -- this tends to plug a lot of holes.
+1x Infernal Servitor -- the Govern that blocks.
+1x Mylan Horseed -- the Metro Underground that bleeds.
+1x Veneficti
+
+Action Modifier (10)
+1x Elder Impersonation
+1x Enkil Cog -- I'm usually not in a hurry, it comes when it comes - it's needs Metro Underground or Mylan so I would have to churn to make the thing work even with a second copy.
+1x Faceless Night
+2x Forgotten Labyrinth
+2x I am Legion
+2x Into Thin Air
+1x Psychomachia
+
+Action Modifier/Combat (2)
+1x Force of Personality -- useful anti-ally tech with an S:CE
+1x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Sense the Sin
+
+Reaction (4)
+2x Deflection
+2x Eluding the Arms of Morpheus -- this card should have Baali clan reminder text..
+
+Combat (2)
+2x Majesty
+
+Event (1)
+1x Scourge of the Enochians -- answers too many questions to not have in the deck, its deployment can be timed with the Tablets.

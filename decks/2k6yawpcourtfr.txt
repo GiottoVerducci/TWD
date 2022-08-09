@@ -1,0 +1,61 @@
+Yawp Court
+Paris, France
+October 21st 2006
+19 players
+Jeremie Tiano
+
+Crypt (13 cards, min=36, max=44, avg=9.69)
+------------------------------------------
+4x Sha-Ennu		11  ANI AUS CHI VIC obf tha	regent	    Tzimisce:4
+4x Malgorzata		9   AUS DOM THA VIC pre		priscus	    Tremere antitribu:4
+4x Velya, The Flayer	9   ANI AUS PRE VIC for		cardinal    Tzimisce:3
+1x Terrifisto		10  ANI AUS FOR VIC cel obt	archbishop  Tzimisce:4
+
+Library (90 cards)
+Master (16)
+2x Blood Doll
+1x Creepshow Casino
+1x Golconda: Inner Peace
+1x Gurchon Hall
+7x Minion Tap
+1x Purchase Pact
+2x Rötschreck
+1x Vox Domini
+
+Action (3)
+3x Magic of the Smith
+
+Equipment (2)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x Banishment
+2x Conservative Agitation
+1x Domain Challenge
+6x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (22)
+9x Changeling
+3x Mirror Walk
+2x Private Audience
+3x Telepathic Vote Counting
+5x Voter Captivation
+
+Action Modifier/Combat (8)
+8x Plasmic Form
+
+Reaction (12)
+1x My Enemy's Enemy
+4x On the Qui Vive
+6x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (11)
+2x Breath of the Dragon
+5x Chiropteran Marauder
+4x Meld with the Land

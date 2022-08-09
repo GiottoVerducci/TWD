@@ -1,0 +1,86 @@
+Finders of Tradition
+Madison, Wisconsin
+September 19th 2009
+2R+F
+12 players
+Christian Herro
+
+Created by: Xian
+
+2GW7
+
+League of Nosferatu Non-voters
+Description: It was supposed to be 4-5 Nosferatu toolbox vote with
+some DOM for defense. But Govern the Unaligned is just so good, it
+ended up being a big portion of the deck. Could probably use another
+Petrodon in place of a Harold Tanner or Gustaphe Brunnelle
+
+Crypt (12 cards, min=16, max=39, avg=6.92)
+------------------------------------------
+3x Alonso Petrodon	   10  ANI DOM OBF POT for tha	justicar  Nosferatu:5
+2x Gustaphe Brunnelle	   8   ANI DOM POT obf		primogen  Nosferatu:4
+2x Harold Tanner	   6   POT ani dom obf			  Nosferatu:4
+1x Baron Dieudonne	   9   ANI OBF POT PRO		prince	  Nosferatu:4
+1x Jeremy "Wix" Wyzchovsky 5   ani obf pot			  Nosferatu:4
+1x Beetleman		   4   ANI obf				  Nosferatu:4
+1x Slag			   4   ani obf pot			  Nosferatu:5
+1x Foureyes		   3   obf pot				  Nosferatu:4
+
+Library (90 cards)
+Master (17; 3 trifle)
+1x Giant's Blood
+2x Labyrinth, The
+1x Metro Underground
+4x Minion Tap
+1x Papillon
+1x Perfectionist
+1x Powerbase: Zürich
+1x Slum Hunting Ground
+2x Warsaw Station
+3x Wash
+
+Action (19)
+2x Deep Song
+2x Fifth Tradition: Hospitality
+2x Fourth Tradition: The Accounting
+9x Govern the Unaligned
+1x Graverobbing
+1x Heroic Might
+1x Preternatural Strength
+1x SchreckNET
+
+Equipment (1)
+1x Seal of Veddartha
+
+Political Action (8)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Banishment
+1x Disputed Territory
+1x Kine Resources Contested
+2x Parity Shift
+1x Political Stranglehold
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier (18)
+5x Cloak the Gathering
+4x Into Thin Air
+2x Lost in Crowds
+2x Old Friends
+1x Spying Mission
+4x Veil the Legions
+
+Reaction (13)
+2x Cats' Guidance
+5x Deflection
+4x On the Qui Vive
+2x Second Tradition: Domain
+
+Combat (12)
+1x Canine Horde
+6x Carrion Crows
+2x Disarm
+1x Earthshock
+2x Taste of Vitae

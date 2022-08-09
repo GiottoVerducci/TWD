@@ -1,0 +1,79 @@
+Jann Berger's "O" is for Ossian
+Los Angeles, California
+February 16th 2014
+2R+F
+14 players
+Darby Keeney
+
+Deck Name: Memantine Therapy (2014)
+
+Description: The second concept from the Art of Memory deck series. I had optimized
+the library a week before the tournament, but I musy have mashed the culls back in with
+the keepers by mistake. The deck still functioned acceptably, but it would benefit from
+squeezing out 6-8 cards to get the 1-offs more frequently.
+
+A good case could be made to remove the 2 weenies in favor of additional copies of Appius and Saul.
+
+I saw either ally-based or location-rich opponents in every round. Having access to such efficient recursion for the theft cards was a real advantage.
+
+The Seductions should probably be removed.
+
+Crypt (12 cards, min=17, max=38, avg=6.67)
+------------------------------------------
+3x Appius Claudius Corvus 10  DOM OBT POT cel nec  Lasombra:5
+2x Saul Meira		  8   CHI DOM OBT POT	   Lasombra:5
+2x Isanwayen		  6   DOM MYT OBT	   Kiasyd:4
+2x Ermenegildo, The Rake  5   DOM OBT pot	   Lasombra:4
+1x Dame Hollerton	  5   DOM OBT myt	   Kiasyd:4
+1x Leila Monroe		  4   dom obt pre	   Lasombra:4
+1x Lucy Markowitz	  3   dom obt		   Lasombra:4
+
+Library (84 cards)
+Master (22; 2 trifle)
+1x Admonitions, The
+1x Coven, The
+1x Drop Point Network
+1x Elysian Fields
+1x Festivo dello Estinto
+6x Grooming the Protégé
+2x Information Highway
+1x Pentex(TM) Subversion
+1x Remover
+1x Secure Haven
+1x Watchtower: Four Ride Forth
+1x Wider View
+4x Zillah's Valley
+
+Action (15)
+1x Black Hand Ritual
+1x Dominate Kine
+1x Far Mastery
+11x Govern the Unaligned
+1x Tattoo Signal
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Zaire River Ferry
+
+Action Modifier (34)
+11x Art of Memory, The
+2x Blanket of Night
+4x Bonding
+4x Conditioning
+1x Enkil Cog
+2x Seduction
+3x Shadow Play
+4x Shroud of Absence
+2x Shroud of Night
+1x Tenebrous Form
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (6)
+6x Deflection
+
+Combat (3)
+3x Shadow Body

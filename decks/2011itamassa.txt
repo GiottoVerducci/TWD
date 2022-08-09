@@ -1,0 +1,68 @@
+Italian Qualifier Tour 5th stage - Lasombra
+Massa, Italy
+May 1st 2011
+2R+F
+32 players
+Roberto Venturi
+
+Deck Name: Khazar Diary
+Created by: Axel Zaminga
+
+Description: anarch/allies/khazar diary deck
+
+Crypt (12 cards, min=4, max=14, avg=2.33)
+-----------------------------------------
+4x Anarch Convert		   1   -none-	    Caitiff:ANY
+1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
+1x Gloria Giovanni		   4   DOM nec	    Giovanni:2
+1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
+1x Lia Milliner			   3   dom nec	    Giovanni:3
+1x Mario Giovanni		   3   nec pot	    Giovanni:2
+1x Rudolfo Giovanni		   3   NEC	    Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
+1x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+
+Library (60 cards)
+Master (14)
+1x Anarch Railroad
+2x Blood Doll
+1x Charisma
+1x Garibaldi-Meucci Museum
+2x Jake Washington
+1x Mob Connections
+3x Piper
+1x Powerbase: Cape Verde
+2x Twilight Camp
+
+Action (15)
+1x Abomination
+8x Khazar's Diary (Endless Night)
+6x Sudario Refraction
+
+Ally (12)
+1x Carlton Van Wyk
+6x Cry Wolf
+1x Felix "Fix" Hessian
+1x Gregory Winter
+1x Ossian
+1x Tye Cooper
+1x Young Bloods
+
+Equipment (2)
+2x Unlicensed Taxicab
+
+Action Modifier (4)
+4x Call of the Hungry Dead
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (6)
+2x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+
+Event (3)
+1x FBI Special Affairs Division
+1x Unmasking, The
+1x White Nights Massacre

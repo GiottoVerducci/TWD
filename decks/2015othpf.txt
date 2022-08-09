@@ -1,0 +1,52 @@
+Outside the Hourglass
+Paris, France
+December 13th 2015
+3R+F
+15 players
+Guilhem Marrannes
+
+-- 3VP in final
+
+Deck Name: !Bru Influence
+
+Description: S&B !brujah Anarch
+
+Crypt (13 cards, min=4, max=23, avg=3.23)
+-----------------------------------------
+5x Anarch Convert	1   -none-		 Caitiff:ANY
+1x DeSalle		7   CEL POT PRE		 Brujah antitribu:4
+1x Father Juan Carlos	6   PRE aus cel pot tha	 Brujah antitribu:4
+1x Axel Von Anders	5   PRE cel obf pot	 Brujah antitribu:4
+1x Gatjil Munyarryun	5   POT cel obt pre	 Brujah antitribu:5
+1x Rodrigo		5   CEL pot pre qui	 Brujah antitribu:4
+1x Alessandro Garcia	4   pot pre pro		 Brujah antitribu:4
+1x Smash		3   pot pre		 Brujah antitribu:4
+1x Honest Abe		2   pre			 Brujah:5
+
+Library (78 cards)
+Master (11)
+1x Amusement Park Hunting Ground
+2x Club Illusion
+2x Information Highway
+2x Pentex(TM) Subversion
+1x Powerbase: Los Angeles
+3x Twilight Camp
+
+Action (21)
+1x Aranthebes, The Immortal
+20x Undue Influence
+
+Action Modifier (36)
+6x Leverage
+2x Monkey Wrench
+14x Power of One
+14x Spoils of War
+
+Reaction (3)
+3x Delaying Tactics
+
+Combat (6)
+6x Unholy Penance
+
+Event (1)
+1x Narrow Minds

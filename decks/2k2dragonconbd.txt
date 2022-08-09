@@ -1,0 +1,75 @@
+DragonCon - Breath of the Dragon
+DragonCon 2002, Atlanta, Georgia
+September 1st 2002
+16 players
+Derek S. Ray
+
+Deck Name: Yer Mom Don't Block
+
+No real play notes -- this is a relatively stock Giovanni powerbleed.
+The AVA was very convenient as nobody ever bothered to take the action to burn
+it -- I'd have rather had a second one in the deck than the Mausoleum, which
+got discarded a lot. Same with the Venetian Conference, as I was able to play
+at least one to good effect in each round, including the final (to torporize a
+hunting Suhailah). Many people are familiar with the +1 intercept from superior
+Spectral Divination and will plan around it, so being able to have the +2 intercept
+coming from Francesca was excellent. (This also let me save the Spectral Divination
+for extra stealth.)
+
+Description: Giovanni Seductive Telemarketer filth, tweaked up for an expected
+Camarilla-heavy tournament with Venetian Conferences and Gillespi -- also shifted
+around to be more Deflection-proof with no Conditionings and mostly
+Scouting Mission/Bondings.
+
+Crypt (12 cards, min=13, max=28, avg=5.08)
+------------------------------------------
+2x Gillespi Giovanni		   7   DOM NEC POT aus	Giovanni:2
+2x Isabel Giovanni		   5   DOM NEC pot	Giovanni:2
+2x Gloria Giovanni		   4   DOM nec		Giovanni:2
+1x Andrea Giovanni		   7   DOM NEC pot vic	Giovanni:2
+1x Carlotta Giovanni		   7   NEC POT dom obf	Giovanni:2
+1x Stefano Giovanni		   6   DOM nec pot pre	Giovanni:2
+1x Francesca Giovanni		   4   dom nec pot	Giovanni:2
+1x Rudolfo Giovanni		   3   NEC		Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom		Giovanni:2
+
+Library (90 cards)
+Master (15)
+1x Acquired Ventrue Assets
+1x Barrens, The
+5x Blood Doll
+1x Direct Intervention
+1x Dominate
+1x Mausoleum, Venice, The
+1x Morgue Hunting Ground
+1x Necromancy
+3x Sudden Reversal
+
+Action (15)
+1x Daemonic Possession
+1x Far Mastery
+3x Govern the Unaligned
+1x Graverobbing
+1x Haunt
+6x Scouting Mission
+2x Slaughtering the Herd
+
+Ally (2)
+2x Leonardo, Mortician
+
+Action Modifier (28)
+8x Bonding
+8x Call of the Hungry Dead
+4x Foreshadowing Destruction
+8x Seduction
+
+Action Modifier/Reaction (6)
+6x Spectral Divination
+
+Reaction (18)
+7x Deflection
+4x Venetian Conference
+7x Wake with Evening's Freshness
+
+Combat (6)
+6x Spiritual Intervention

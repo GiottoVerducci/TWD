@@ -1,0 +1,74 @@
+Burning Touch
+Santa Clara, California
+March 29th 2003
+12 players
+Brian Wellington
+
+Deck Name: Unnamed Salubri Deck #1
+
+Description: I'm still surprised that this worked.
+[In my words, a bunch of cool cards tossed together.]
+
+(*) There should have only been 3 of these, but I accidentally added
+extras.
+
+Crypt (14 cards, min=20, max=30, avg=6.36)
+------------------------------------------
+4x Matthias			   7   AUS FOR OBE nec	Salubri:2
+4x Blanche Hill			   6   FOR OBE aus	Salubri:2
+2x Ian Forestal			   8   AUS DOM THA	Tremere antitribu:2
+2x Miriam Benyona		   5   AUS for obe	Salubri:2
+1x Omaya			   7   ANI AUS FOR pro	Gangrel antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha		Tremere antitribu:2
+
+Library (90 cards)
+Master (16)
+2x Auspex
+1x Barrens, The
+5x Blood Doll
+1x Dreams of the Sphinx
+1x Fortitude
+1x Infernal Pact
+1x Left for Dead
+1x Memories of Mortality
+1x Sight Beyond Sight
+1x Storage Annex
+1x University Hunting Ground
+
+Action (30)
+5x Clan Impersonation
+2x Panacea
+4x Pulse of the Canaille
+2x Rapid Healing
+6x Renewed Vigor
+2x Resurrection
+3x Sanguine Instruction
+5x Spirit Marionette
+1x Unburdening the Bestial Soul
+
+Ally (6)
+2x Nephandus
+1x Shadow Court Satyr
+1x Succubus
+1x Thadius Zho
+1x Vagabond Mystic
+
+Equipment (1)
+1x Aaron's Feeding Razor
+
+Action Modifier (13)
+5x Freak Drive
+2x Neutral Guard
+6x Repulsion
+
+Reaction (12)
+3x Precognition
+3x Telepathic Counter
+3x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (12)
+4x Anesthetic Touch
+3x Rolling with the Punches
+3x Skin of Steel
+2x Vitae Block

@@ -1,0 +1,77 @@
+Childer Inherit
+Cape Town, South Africa
+March 8th 2008
+2R+F
+12 players
+James Snowball
+
+Deck Name: Tremere Bloody Control
+
+This deck went into the final table at the number 1 spot and swept up all the VP's on the final table.
+
+Description: Play the deck,
+Get minion superiority and whittle away at your prey. Ossian and
+Nephandus rule! Pentex kills a kingpin deck or removes a vital late
+game blocker.
+
+Crypt (12 cards, min=20, max=30, avg=6.25)
+------------------------------------------
+2x Kij Dansky			8   AUS DOM THA obt	priscus	    Tremere antitribu:2
+2x Ladislas Toth, The Torch	7   AUS DOM THA for	archbishop  Tremere antitribu:3
+2x Reverend Blackwood		6   DOM THA obf		bishop	    Tremere antitribu:2
+2x Selena			6   AUS DOM THA			    Tremere antitribu:3
+1x Carna, The Princess Witch	7   AUS DOM THA		primogen    Tremere:3
+1x Elena Mendoza Vasquez	6   AUS THA dom obt		    Tremere antitribu:3
+1x Yasmin the Black		6   AUS THA dom pre		    Tremere antitribu:3
+1x Heinrick Schlempt		2   tha				    Tremere antitribu:2
+
+Library (84 cards)
+Master (13)
+5x Blood Doll
+2x Dreams of the Sphinx
+1x KRCG News Radio
+1x Mob Connections
+2x Pentex(TM) Subversion
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+
+Action (9)
+5x Biothaumaturgic Experiment
+1x Dominate Kine
+3x Govern the Unaligned
+
+Ally (6)
+2x Nephandus
+2x Ossian
+1x Succubus
+1x Vagabond Mystic
+
+Equipment (1)
+1x Ruins of Ceoris
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (5)
+1x Bonding
+4x Conditioning
+
+Reaction (20)
+3x Deflection
+4x Eagle's Sight
+2x Enhanced Senses
+3x Forced Awakening
+4x On the Qui Vive
+2x Precognition
+2x Telepathic Misdirection
+
+Combat (29)
+4x Apportation
+2x Blood Fury
+4x Dead-End Alley
+1x Soul Burn
+8x Theft of Vitae
+3x Thoughts Betrayed
+1x Trap
+4x Walk of Flame
+2x Weather Control

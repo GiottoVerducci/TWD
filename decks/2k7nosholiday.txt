@@ -1,0 +1,79 @@
+The Nosferatu Holiday Rush
+Virginia, Minnesota
+November 17th 2007
+10 players
+Cam Nicholas
+
+Deck Name: Bones Blood and Tongues
+
+Description: Tzimisce Wall
+
+Crypt (12 cards, min=17, max=40, avg=7.25)
+------------------------------------------
+2x Sha-Ennu			11  ANI AUS CHI VIC obf tha	regent	    Tzimisce:4
+2x John Paleologus		9   ANI AUS CEL VIC pot		archbishop  Tzimisce:3
+2x Duality			6   AUS VIC ani				    Tzimisce:4
+1x Count Vladimir Rustovitch	9   ANI AUS VIC dom pot pro		    Tzimisce:4
+1x Lady Zara Slatikov		8   ANI AUS OBF VIC		bishop	    Tzimisce:4
+1x Laika			7   ANI AUS chi obf vic			    Tzimisce:4
+1x Guedado			4   aus obf vic				    Tzimisce:4
+1x Jane Sims			4   VIC ani aus pro			    Tzimisce:4
+1x Ilias cel Frumos		3   aus vic				    Tzimisce:4
+
+Library (90 cards)
+Master (16)
+1x Animalism
+1x Auspex
+2x Blood Doll
+1x Dummy Corporation
+1x Erciyes Fragments, The
+1x Guardian Angel
+1x KRCG News Radio
+1x Library Hunting Ground
+2x Minion Tap
+1x Path of Metamorphosis, The
+1x Rötschreck
+1x Tension in the Ranks
+1x Vicissitude
+1x Visit from the Capuchin
+
+Action (8)
+3x Fiendish Tongue
+1x Pulse of the Canaille
+1x Root of Vitality
+1x Shepherd's Innocence
+2x Soul Decoration
+
+Ally (1)
+1x Corrupt Construction
+
+Retainer (4)
+2x Raven Spy
+2x Revenant
+
+Action Modifier (4)
+4x Changeling
+
+Action Modifier/Combat (2)
+2x Plasmic Form
+
+Reaction (35)
+2x Cats' Guidance
+3x Eagle's Sight
+5x Enhanced Senses
+5x Forced Awakening
+3x Guard Dogs
+3x Minor Irritation
+2x On the Qui Vive
+3x Precognition
+6x Spirit's Touch
+3x Telepathic Misdirection
+
+Combat (20)
+1x Breath of the Dragon
+2x Canine Horde
+3x Carrion Crows
+5x Chiropteran Marauder
+2x Inner Essence
+5x Starvation of Marena
+2x Taste of Vitae

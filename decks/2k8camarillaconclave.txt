@@ -1,0 +1,64 @@
+Camarilla Conclave 2008
+Palma de Mallorca, Spain
+August 16th 2008
+3R+F
+42 players
+Claudio Soulié
+
+Deck Name: Enkidu
+
+Description: This is a Gangrel wall deck that does not bring
+out Enkidu first, but later in the game, when you have enough
+pool to put Enkidu in play.
+
+Crypt (12 cards, min=25, max=41, avg=7.92)
+------------------------------------------
+3x Enkidu, The Noah	11  ANI CEL OBF POT PRO for		Gangrel antitribu:4
+3x Danielle Diron	7   ANI PRO chi for		1 vote	Gangrel:3
+1x Brunhilde		8   ANI FOR PRO pre			Gangrel:3
+1x Nadima		8   FOR PRO SER ani aus			Gangrel:3
+1x Doyle Fincher	7   ANI PRO aus for obf			Gangrel antitribu:4
+1x Ryder		7   FOR PRO ani pot			Gangrel:4
+1x Janey Pickman	6   ANI PRO for				Gangrel antitribu:4
+1x Céleste Lamontagne	5   ANI PRO for				Gangrel antitribu:4
+
+Library (90 cards)
+Master (17; 8 trifle)
+1x Campground Hunting Ground
+2x Direct Intervention
+1x Ecoterrorists
+1x Erciyes Fragments, The
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+8x Vessel
+1x Zoo Hunting Ground
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (4)
+1x Carlton Van Wyk
+3x Underbridge Stray
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (15)
+6x Murder of Crows
+9x Raven Spy
+
+Reaction (16)
+4x Cats' Guidance
+1x Forced Awakening
+4x On the Qui Vive
+6x Sense the Savage Way
+1x Wake with Evening's Freshness
+
+Combat (36)
+4x Body Flare
+2x Canine Horde
+8x Carrion Crows
+6x Earth Meld
+10x Pack Alpha
+6x Skin of Steel

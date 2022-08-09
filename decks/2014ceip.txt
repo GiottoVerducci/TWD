@@ -1,0 +1,64 @@
+Combat Ends
+Iloilo, Philippines
+January 11th 2014
+2R+F
+13 players
+Greg De los Reyes
+
+Deck Name: Thick Skinned Lawyers
+
+Crypt (12 cards, min=25, max=37, avg=7.58)
+------------------------------------------
+3x Sir Walter Nash		   7   DOM FOR PRE	    prince	Ventrue:1
+2x Democritus			   10  DOM PRE aus cel for  justicar	Ventrue:1
+2x Emerson Bridges		   8   DOM FOR PRE pot	    prince	Ventrue:1
+2x Timothy Crowley		   7   FOR PRE ani dom	    prince	Ventrue:1
+1x Helena Casimir		   9   DOM POT PRE cel for  primogen	Ventrue:1
+1x Luccia Paciola		   6   DOM for pre	    		Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	    		Ventrue:2
+
+Library (87 cards)
+Master (14; 2 trifle)
+2x Blood Doll
+1x Golconda: Inner Peace
+1x Major Boon
+1x Powerbase: Montreal
+1x Social Ladder
+2x Special Report
+1x Sudden Reversal
+1x Uptown Hunting Ground
+1x Ventrue Directorate Assembly
+1x Ventrue Headquarters
+2x Vessel
+
+Action (11)
+1x Dominate Kine
+2x Fourth Tradition: The Accounting
+8x Govern the Unaligned
+
+Political Action (15)
+2x Conservative Agitation
+10x Kine Resources Contested
+1x Political Stranglehold
+1x Praxis Seizure: Miami
+1x Reins of Power
+
+Action Modifier (14)
+5x Conditioning
+3x Freak Drive
+6x Seduction
+
+Action Modifier/Reaction (5)
+5x Murmur of the False Will
+
+Reaction (12)
+5x Deflection
+2x Redirection
+3x Second Tradition: Domain
+2x Wake with Evening's Freshness
+
+Combat (16)
+4x Armor of Vitality
+4x Majesty
+4x Skin of Rock
+4x Skin of Steel

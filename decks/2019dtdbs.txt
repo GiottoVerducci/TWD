@@ -1,0 +1,74 @@
+Daring the Dawn
+Barcelona, Spain
+November 2nd 2019
+2R+F
+22 players
+Gabriel Ron
+https://www.vekn.net/event-calendar/event/9448
+
+-- 2GW6 + 2.5VP in final
+
+Deck Name: Night at the Museum
+
+Final table: Alfredo Canales (Scobax the Horde) ->
+ Javier Olivares (Salubri! Nuriel wall) ->
+	 Jose Manuel (Magagi vote) ->
+	 Gabriel Ron (Spell of life) ->
+	 Tomás Lopez (Kiasyd bleed).
+
+Crypt (12 cards, min=13, max=40, avg=6.42)
+------------------------------------------
+1x Sutekh, The Dark God	    11	NEC OBF PRE SER cel pot	 2 votes  Follower of Set:2
+1x Kemintiri		    10	OBF PRE SER THA aus dom	 	  Follower of Set:2
+1x Nefertiti (ADV)	    10	DOM OBF PRE SER cel pot	 	  Follower of Set:2
+1x Kahina the Sorceress	    9	AUS DOM OBF SER nec pre	 1 vote	  Follower of Set:3
+1x Khay'tall, Snake of Eden 9	DOM OBF PRE SER aus	 	  Follower of Set:2
+1x Samat Ramal-Ra, Archon   6	OBF pre ser tha		 	  Follower of Set:2
+1x Count Ormonde	    5	OBF dom pre ser		 	  Follower of Set:2
+1x Elizabeth Dimitros	    4	SER obf			 	  Follower of Set:3
+1x Hadrian Garrick	    4	obf pre			 	  Follower of Set:2
+1x Nepata		    4	obf pre ser		 	  Follower of Set:2
+1x Celine Chevalier	    3	obf ser			 	  Follower of Set:2
+1x Lalitha		    2	ser			 	  Follower of Set:2
+
+Library (60 cards)
+Master (27)
+2x Archon Investigation
+9x Ashur Tablets
+1x Creepshow Casino
+1x Direct Intervention
+3x Effective Management
+1x Fame
+2x In Memory of the Two Lands
+2x Liquidation
+1x Opium Den
+4x Parthenon, The
+1x Pentex(TM) Subversion
+
+Action (13)
+13x Spell of Life
+
+Ally (3)
+1x Carlton Van Wyk
+1x Nephren-Ka
+1x Saatet-ta
+
+Action Modifier (12)
+2x Cloak the Gathering
+2x Faceless Night
+4x Forgotten Labyrinth
+2x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (1)
+1x Form of the Serpent
+
+Reaction (1)
+1x Delaying Tactics
+
+Combat (1)
+1x Trap
+
+Event (2)
+1x Narrow Minds
+1x Unmasking, The

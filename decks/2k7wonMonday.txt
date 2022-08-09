@@ -1,0 +1,73 @@
+Week of Nightmares - Monday
+Los Angeles, California
+September 17th 2007
+2R+F
+16 players
+Hugh Angseesing
+
+Deck Name: Mirroring the Mission
+Created by: 'Stoffe' / Christopher
+
+Crypt (13 cards, min=10, max=20, avg=3.77)
+------------------------------------------
+1x Aisling Sturbridge	5   AUS THA dom		Tremere:2
+1x Alejandro Aguirre	5   ani aus dom tha	Tremere antitribu:3
+1x Cohn Rose		5   THA aus dom pre	Tremere:3
+1x Hannigan		5   AUS THA dom		Tremere antitribu:2
+1x Kyoko Shinsegawa	5   aus cel dom for	Tremere:3
+1x Pieter van Dorn	4   dom pre tha		Tremere:3
+1x Thelonius		4   aus dom tha		Tremere antitribu:2
+1x Blythe Candeleria	3   THA aus		Tremere:2
+1x Brooke		3   dom tha		Tremere antitribu:2
+1x Ehrich Weiss		3   dom tha		Tremere:3
+1x Masika St. John	3   THA			Tremere:3
+1x Heinrick Schlempt	2   tha			Tremere antitribu:2
+1x Magdelena Schaefer	2   THA			Caitiff:2
+
+Library (90 cards)
+Master (22; 3 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+7x Blood Doll
+1x Chantry
+1x Direct Intervention
+1x Pentex(TM) Subversion
+3x Society of Leopold
+1x Thaumaturgy
+1x University Hunting Ground
+2x Vampiric Disease
+3x Wash
+
+Action (12)
+12x Cryptic Mission
+
+Ally (7)
+1x Carlton Van Wyk
+1x Gregory Winter
+3x Nephandus
+1x Ossian
+1x Young Bloods
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (1)
+1x Charnas the Imp
+
+Action Modifier (16)
+7x Conditioning
+9x Mirror Walk
+
+Reaction (21)
+9x Deflection
+3x Delaying Tactics
+5x On the Qui Vive
+4x Wake with Evening's Freshness
+
+Combat (8)
+5x Theft of Vitae
+3x Wind Dance
+
+Event (1)
+1x Restricted Vitae

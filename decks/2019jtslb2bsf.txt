@@ -1,0 +1,76 @@
+Journey to Stockholm: Love Boat II
+Baltic Sea, Finland
+September 6th 2019
+2R+F
+13 players
+Tero Aalto
+https://www.vekn.net/event-calendar/event/9365
+
+-- 1GW3 + 5VP in final
+
+Deck Name: Dogleash
+
+After soldiering through the whole Paris Week of Nightmares with one single
+deck (The unnamed), it was high time to change into something else for the
+Swedish Nationals trip. I didn't land very far away, though, because the deck I
+chose wasn't only based on my old signature deck but also emplyed quite a few
+Baali friends.
+
+One of my motives was to try and make the most of the last chances to play
+Parity Shift in its old form. I was expecting violent metas (and was right), so
+I decided to improve the combat defense by including Unleashes. The previous
+versions had included Scout Youngwood, and Arishat as the only Baali, but I
+decided the other Baalis would do just fine, and their specials would come
+handy (I used all of them, too).
+
+The preliminary rounds of the tournament were very difficult with rush decks
+all around. In the second round, I brought up my first minion after an hour and
+50 minutes, just to be immediately rushed and eaten. Luckily though, I had
+somehow managed to win the first game and squeezed into the final as the last
+seed.
+
+In the final, more or less everything went my way. Khursid behind me wasn't
+drawing his Legionnaires and the weenie Auspex in front of me couldn't match my
+consistent five-stealth actions. I was in no danger whatsoever during the whole
+game and just rolled into a completely unexpected sweep.
+
+Crypt (12 cards, min=26, max=36, avg=7.83)
+------------------------------------------
+4x Dmitra Ilyanova	   9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
+2x Karen Suadela	   7   CEL POT obf pre	    prince	Brujah:5
+2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
+2x Arishat		   6   DAI OBF PRE	    1 vote	Baali:6
+
+Library (69 cards)
+Master (14; 6 trifle)
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Legendary Vampire
+2x Obfuscate
+6x Villein
+
+Action (6)
+3x Entrancement
+3x Unleash Hell's Fury
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Conservative Agitation
+5x Kine Resources Contested
+5x Parity Shift
+4x Reckless Agitation
+
+Action Modifier (25)
+4x Awe
+3x Elder Impersonation
+5x Forgotten Labyrinth
+2x I am Legion
+5x Lost in Crowds
+6x Voter Captivation
+
+Combat (7)
+5x Majesty
+2x Staredown

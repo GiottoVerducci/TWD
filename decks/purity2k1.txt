@@ -1,0 +1,90 @@
+Purity of the Beast
+Minneapolis, Minnesota
+November 3rd 2001
+3R+F
+12 players
+Kevin J. Mergen
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0Kw0rK38TGY/m/UnchoFWUQ9EJ
+
+Deck Name: Jack's War Ghoul Protection Service
+
+Description: Fairly standard Tzimischeese intercept deck with long-term goals in
+mind. Jack's War Ghoul protection service is your key to victory.
+Props to Jay Kristoff for helping me master the Tzimisce
+
+In retrospect, I think I would change this crypt by removing the 2 Dragos for 2
+more Little Tailor. Even when I saw Dragos, I never *wanted* to bring him out,
+and Little Tailor bringing out Tatu for a total of 2 pool (a free Revenant and a
+2-pool Tatu) is simply ridiculous. (Another variant would be 4 Little Tailor, 4
+Meshenka, 4 Sascha, although I don't know how this would work. I'm sure it
+would be fine.)
+
+Note that if you're going to play AoR in a deck like this, you must have 3 (or
+more in a larger deck) as you will probably be forced to let it be removed
+eventually, but you want to have one around constantly as it and Jack are your
+primary sources of damage.
+
+I would probably take out 2 Eagle's Sight for an extra Cat's and an extra FA,
+since they are so critical to the deck. The power of Big Eye is simply amazing.
+
+After I played the first BotD, people kept asking me *every combat* if I had
+another BotD. I always told them "Yes, but it doesn't need to be played right
+now" and just smiled. When this deck was larger, it had more BotD, but when I
+decided the Atlanta deck-building philosophy was the correct and true path, I
+had to cut SOMETHING to get to 75, and 6 BotD went bye-bye. You really only
+need these for decks like Dave's S&B, who rely on getting away via maneuvers, so
+you don't need more than a couple.
+
+I used to think Nephandus or the Renegade Garou was the best ally. I was
+mistaken. Tatu wins games.
+
+As you can see, the deck really does only one thing -- get out Smiling Jack, and
+protect him until it doesn't matter any more. This is about the 4th version of
+this deck I have made, and the first one to almost entirely abandon pool gain.
+Several people have made what I call the "pool gain" version of this deck, as
+did James Hamblin and I last year after Sabbat War came out. The Gangrel are
+also easily played with a deck of this type. Jay Kristoff won an Ohio
+tournament with his version (http://www.veknfrance.com/decks/twd.htm#jaykic),
+which is more or less a master-heavy "pool gain" version.
+
+Crypt (12 cards, min=24, max=32, avg=7.33)
+------------------------------------------
+2x Anton			    8	ANI AUS cel obf vic		 Tzimisce:2
+2x Little Tailor of Prague	    8	ANI AUS VIC dem			 Tzimisce:2
+2x Meshenka			    8	ANI AUS VIC		priscus	 Tzimisce:2
+2x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	 Tzimisce:2
+2x Dragos			    7	ANI AUS vic			 Tzimisce:2
+2x Devin Bisley			    5	ANI AUS vic			 Tzimisce:2
+
+Library (75 cards)
+Master (14)
+4x Blood Doll
+1x Direct Intervention
+1x Fame
+1x Giant's Blood
+1x Rack, The
+3x Smiling Jack, The Anarch
+3x Sudden Reversal
+
+Action (3)
+3x Army of Rats
+
+Ally (4)
+4x War Ghoul -- aka Tatu
+
+Equipment (3)
+3x Leather Jacket
+
+Retainer (6)
+6x Revenant
+
+Reaction (33)
+8x Cats' Guidance
+8x Eagle's Sight
+6x Enhanced Senses
+8x Forced Awakening
+3x Telepathic Misdirection
+
+Combat (12)
+2x Breath of the Dragon
+10x Chiropteran Marauder

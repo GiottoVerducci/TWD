@@ -1,0 +1,70 @@
+Deny
+Stockholm, Sweden
+February 28th 2009
+14 players
+Erik Gustafsson
+
+Deck Name: Blood of the Rabbat
+
+Crypt (12 cards, min=19, max=38, avg=7.08)
+------------------------------------------
+3x Rabbat, The Sewer Goddess	7   ANI FOR OBF pot		Nosferatu:4
+2x Nakhthorheb			10  OBF PRE SER			Follower of Set:4
+1x Pentweret			9   OBF PRE SER aus for obe	Follower of Set:5
+1x Porphyrion			9   CHI OBF PRE SER for		Follower of Set:5
+1x Ogwon			7   OBF PRE SER for		Follower of Set:5
+1x Ankh-sen-Sutekh		6   PRE SER obf			Follower of Set:4
+1x Abdelsobek			5   for nec obf pre ser		Follower of Set:5
+1x Renenet			5   OBF PRE ser			Follower of Set:4
+1x Ahmose Chambers		3   obf ser			Follower of Set:5
+
+Library (90 cards)
+Master (17; 2 trifle)
+2x Blood Doll
+1x Cave of Apples
+2x Eternals of Sirius, The
+1x Heidelberg Castle, Germany
+1x Information Highway
+4x Minion Tap
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Temple Hunting Ground
+2x Vessel
+
+Action (27)
+3x Blithe Acceptance
+2x Enchant Kindred
+1x Form of Corruption
+1x Heart of the City
+3x Legal Manipulations
+5x Public Trust
+1x Scouting Mission
+11x Temptation
+
+Equipment (7)
+4x Flak Jacket
+3x Unlicensed Taxicab
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (21)
+5x Cloak the Gathering
+3x Faceless Night
+4x Freak Drive
+3x Lost in Crowds
+4x True Love's Face
+2x Veil the Legions
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Reaction (2)
+2x Mental Maze
+
+Combat (8)
+1x Cobra Fangs
+5x Majesty
+2x Soak

@@ -1,0 +1,65 @@
+Texas CCQ
+Austin, Texas
+February 4th 2006
+3R+F
+27 players
+Eric Leal
+
+Deck Name: ... Like bunnies
+
+Description: hmmmm...... If i need to explain this you need a new game.
+
+Crypt (12 cards, min=12, max=24, avg=4.42)
+------------------------------------------
+1x Tusk, The Talebearer		    6	OBF ani pot		Nosferatu:1
+1x Tusk, The Talebearer (ADV)	    6	OBF ani pot		Nosferatu:1
+1x Murat			    7	OBF POT ser	prince	Nosferatu:2
+1x Calebros, The Martyr		    5	ANI obf pot	prince	Nosferatu:2
+1x Grendel the Worm-Eaten	    5	OBF ani pot		Nosferatu:1
+1x Agrippina			    4	OBF pot			Nosferatu:1
+1x Daliyah			    4	PRO obf			Nosferatu:2
+1x Laurent de Valois		    4	ani dom obf		Nosferatu:2
+1x Sammy			    4	ani obf pot		Nosferatu:1
+1x Duck				    3	obf pot			Nosferatu:1
+1x Regilio, The Seeker of Akhenaten 3	aus obf			Nosferatu:2
+1x Dimple			    2	obf			Nosferatu:1
+
+Library (90 cards)
+Master (16)
+2x Archon Investigation
+2x Direct Intervention
+2x Dummy Corporation
+1x Labyrinth, The
+1x Momentum's Edge
+1x Retribution
+1x Slum Hunting Ground
+3x Sudden Reversal
+3x Tribute to the Master
+
+Action (28)
+14x Computer Hacking
+6x Destructive Secrets
+8x Embrace, The
+
+Equipment (14)
+8x Flash Grenade
+6x Laptop Computer
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (16)
+8x Cloak the Gathering
+6x Forgotten Labyrinth
+2x Marked Path
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (6)
+2x Poison Pill
+4x Wake with Evening's Freshness
+
+Combat (6)
+6x Concealed Weapon

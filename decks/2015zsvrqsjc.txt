@@ -1,0 +1,57 @@
+Zephyr: Silicon Valley Regional Qualifier
+San Jose, California
+January 3rd 2015
+2R+F
+12 players
+Sérgio Martins
+
+Deck Name: Deck da Márcia
+Created by: Tiago Brum
+
+Description: You bleed your prey and eventually trip over VPs.
+
+Crypt (12 cards, min=13, max=27, avg=4.92)
+------------------------------------------
+2x Isabel Giovanni		   5   DOM NEC pot	Giovanni:2
+1x Andrea Giovanni		   7   DOM NEC pot vic	Giovanni:2
+1x Gillespi Giovanni		   7   DOM NEC POT aus	Giovanni:2
+1x Kanimana Belghazi		   7   AUS DOM NEC pro	Nagaraja:2
+1x Valois Sang, The Watcher	   6   AUS DOM nec tha	Tremere:3
+1x Le Dinh Tho			   5   NEC aus dom	Nagaraja:2
+1x Francesca Giovanni		   4   dom nec pot	Giovanni:2
+1x Gloria Giovanni		   4   DOM nec		Giovanni:2
+1x Ingrid Russo			   4   DOM for		Ventrue antitribu:2
+1x Lia Milliner			   3   dom nec		Giovanni:3
+1x Marciana Giovanni, Investigator 2   dom		Giovanni:2
+
+Library (80 cards)
+Master (10; 3 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+2x Dreams of the Sphinx
+2x Life in the City
+2x Misdirection
+1x Pentex(TM) Subversion
+
+Action (14)
+14x Govern the Unaligned
+
+Action Modifier (22)
+7x Bonding
+5x Call of the Hungry Dead
+6x Conditioning
+4x Seduction
+
+Action Modifier/Reaction (9)
+2x Murmur of the False Will
+7x Spectral Divination
+
+Reaction (18)
+8x Deflection
+3x Delaying Tactics
+3x On the Qui Vive
+2x Redirection
+2x Wake with Evening's Freshness
+
+Combat (7)
+7x Spiritual Intervention

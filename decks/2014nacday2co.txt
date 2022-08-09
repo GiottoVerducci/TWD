@@ -1,0 +1,126 @@
+NAC 2014 Day 2
+Origins Game Fair, Columbus, Ohio
+June 14th 2014
+3R+F
+25 players
+Matthew Hirsch
+https://www.vekn.net/event-calendar/event/7718
+
+-- 3VP in final
+
+Description: It's a vote deck with a lot of toolbox, defense, and agg strikes.
+Notes:
+I originally had built a tournament-level Terrifisto deck, and I also had a
+Lambach deck in my casual deck supply (which used goofy stuff like Deploy the Hand).
+I played the Terrifisto deck at the LCQ #1, and I found it to be quite
+underwhelming. So I started a deck retrofit the morning of the tournament,
+using the Lambach crypt, and the Terrifisto library. Removing ~8 fortitude cards from
+the Terrifisto deck gave me some creative space to work with.
+
+Even for a crypt that has great access to untap and intercept
+effects, putting an Under Siege on the table is really powerful. I simply get
+the freedom to tap out and my predator knows I have untap/intercept sitting on
+the table. Add Lambach's agg threat on top of that.
+
+If he gets stolen, he can trash the Black Forest Base. I know
+it's a bit corner case, but you do have to watch out for it. Otherwise you're
+going to endure some serious gloating when someone actually pulls it off.
+
+It's been said before, but it's worth repeating:
+This card is amazingly good and other players don't even see how you're building
+the perfect hand at the start of your turn. This card directly got me the winning
+vp, as I drew into two Changelings at just the right time.
+
+I like this card, but it's very hard to remember to use it
+in every untap phase (including your own) For some reason I had particular trouble
+remembering to use it in my prey's untap phase.
+
+This is a great card, but I'm always hesitant to add it
+to decks because it adds table chatter. If you use it, be prepared for the
+cross-table begging and have a ready yes/no answer prepared so it doesn't
+stall the game.
+
+Crypt (12 cards, min=25, max=39, avg=8.25)
+------------------------------------------
+3x Lambach				  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
+2x Velya, The Flayer			  9   ANI AUS PRE VIC for  cardinal	Tzimisce:3
+1x Sascha Vykos, The Angel of Caine	  8   AUS THA VIC ani dom  priscus	Tzimisce:2
+1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
+1x John Paleologus			  9   ANI AUS CEL VIC pot  archbishop	Tzimisce:3
+1x Stravinsky				  9   ANI AUS VIC pot	   archbishop	Tzimisce:2
+1x Meshenka				  8   ANI AUS VIC	   priscus	Tzimisce:2
+1x Elizabeth Westcott			  5   AUS ani cel vic	   		Tzimisce:3 -- Should actually be Devin Bisley, but I didn't have a copy on hand.
+1x Lolita Houston			  4   VIC aus		   		Tzimisce:2
+
+Library (90 cards)
+Master (19; 6 trifle)
+1x Admonitions, The
+1x Black Forest Base
+4x Blood Doll
+1x Fear of Mekhet
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Library Hunting Ground
+1x Powerbase: Madrid
+1x Storage Annex
+4x Villein
+1x Wash
+1x Wider View
+
+Action (5)
+1x Abbot
+1x Fiendish Tongue -- Could probably be a Deep Song, in case you want to rush. The untap from Tongue isn't really needed given all the untap/wakes in the deck.
+1x Shepherd's Innocence
+2x Under Siege
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (3)
+1x Heart of Nizchetus
+1x Palatial Estate
+1x Weirding Stone
+
+Political Action (11)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Disputed Territory
+5x Kine Resources Contested
+1x Public Vilification -- It's a bit too hard to use. I had 2 copies in the Terrifisto deck and I dropped down to one here.
+1x Reins of Power
+
+Action Modifier (14)
+1x Bribes
+4x Changeling
+1x Conditioning
+1x Crocodile's Tongue
+3x Mind of the Wilds -- I'm a real big fan of this card, as it lets Tzimisce decks play that second point of stealth without spending a blood on Plasmic Form.
+1x Private Audience
+3x Telepathic Vote Counting
+
+Action Modifier/Combat (1)
+1x Plasmic Form
+
+Reaction (27)
+1x Cardinal Sin: Insubordination -- Never got to pull it off in the tournament, but I'd still keep it in the deck. I was anticipating more Sabbat decks using Danse Macabre cards.
+1x Cats' Guidance
+2x Eagle's Sight
+2x Eyes of Argus
+2x Forced Awakening
+2x On the Qui Vive
+1x Precognition
+2x Read the Winds
+2x Sense the Savage Way
+1x Spirit's Touch
+1x Telepathic Counter
+7x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (9)
+1x Boxed In
+1x Breath of the Dragon
+1x Canine Horde
+5x Chiropteran Marauder
+1x Starvation of Marena

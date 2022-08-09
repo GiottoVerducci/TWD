@@ -1,0 +1,61 @@
+Silence of Death
+Prague, Czech Republic
+September 20th 2008
+3R+F
+32 players
+Martin Varga
+
+-- 3VP in final
+
+Deck Name: Akunanse Trophy
+
+Crypt (12 cards, min=13, max=31, avg=5.67)
+------------------------------------------
+3x Nkule Galadima 8   ABO FOR ani aus pre  magaji  Akunanse:4
+3x Uchenna	  7   ABO ANI FOR	   magaji  Akunanse:4
+2x Kikiyaon, The  5   FOR abo ani	   	   Akunanse:4
+2x Hasani	  4   ABO for		   	   Akunanse:4
+1x Dolie	  3   abo ani		   	   Akunanse:4
+1x Meno Ngari	  2   abo		   	   Akunanse:4
+
+Library (90 cards)
+Master (17; 3 trifle)
+2x Blood Doll
+1x Parthenon, The
+1x Trophy: Diablerie
+3x Trophy: Domain
+3x Trophy: Hunting Ground
+1x Trophy: No Questions
+3x Trophy: Progeny
+3x Vessel
+
+Action (12)
+5x Big Game
+2x No Secrets From the Magaji
+5x Red List
+
+Political Action (12)
+5x Consanguineous Boon
+1x Rumors of Gehenna
+1x Secret Must Be Kept, The
+5x Trumped-Up Charges
+
+Action Modifier (5)
+5x Freak Drive
+
+Action Modifier/Combat (5)
+5x Predator's Transformation
+
+Action Modifier/Reaction (2)
+2x Akunanse Kholo
+
+Reaction (2)
+2x Predator's Communion
+
+Combat (35)
+6x Amaranth
+4x Devil-Channel: Back
+8x Devil-Channel: Hands
+6x Invoking the Beast
+6x Rolling with the Punches
+5x Unflinching Persistence

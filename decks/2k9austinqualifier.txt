@@ -1,0 +1,67 @@
+Austin Qualifier
+Austin, Texas
+August 30th 2009
+3R+F
+10 players
+Preston Poulter
+
+-- 3VP in final
+
+Deck Name: Enkidu's Dallas-LA Connection
+
+Crypt (12 cards, min=27, max=44, avg=9.08)
+------------------------------------------
+5x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+4x Aksinya Daclau   9	ANI FOR PRE PRO cel tha	 Gangrel antitribu:4
+3x Janey Pickman    6	ANI PRO for		 Gangrel antitribu:4
+
+Library (90 cards)
+Master (22; 9 trifle)
+1x City Gangrel Connections
+1x Fame
+1x Giant's Blood
+6x Life in the City
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Powerbase: Montreal
+2x Regent
+2x Talons of the Dead
+1x Tension in the Ranks
+3x Villein
+1x Yawp Court
+
+Action (2)
+2x Dark Mirror of the Mind
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (1)
+1x Anarchist Uprising
+
+Retainer (11)
+2x Homunculus
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Murder of Crows
+4x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (8)
+8x Forced March
+
+Reaction (11)
+3x Cats' Guidance
+1x Guard Dogs
+1x Rat's Warning
+6x Sense the Savage Way
+
+Combat (34)
+1x Canine Horde
+6x Carrion Crows
+6x Drawing Out the Beast
+8x Flesh of Marble
+5x Immortal Grapple
+4x Sideslip
+4x Taste of Vitae

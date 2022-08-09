@@ -1,0 +1,68 @@
+EC 2006 Day 2
+Turin, Italy
+November 26th 2006
+40 players
+Anthony Coleman
+
+Crypt (12 cards, min=10, max=32, avg=5.67)
+------------------------------------------
+4x Howler	    8	ANI PRE SPI obf	 Ahrimane:2
+2x Siamese, The	    7	PRE SPI ani pro	 Ahrimane:2
+2x Cynthia Ingold   6	SPI ani for pre	 Ahrimane:2
+1x Juanita Santiago 4	ani pre spi	 Ahrimane:2
+1x Dani		    2	ani		 Nosferatu antitribu:2
+1x Gillian Krader   2	ani dem		 Pander:2
+1x Zip		    2	ani		 Ravnos:3
+
+Library (90 cards)
+Master (17)
+2x Animalism
+6x Blood Doll
+1x Fame
+1x Guardian Angel
+1x Hungry Coyote, The
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x WMRH Talk Radio
+
+Action (11)
+1x Aranthebes, The Immortal
+1x Army of Rats
+4x Engling Fury
+1x Heart of the City
+4x Nose of the Hound
+
+Ally (5)
+1x Carlton Van Wyk
+1x High Top
+1x Mylan Horseed
+1x Neighborhood Watch Commander
+1x Ossian
+
+Equipment (2)
+2x Leather Jacket
+
+Retainer (8)
+3x Murder of Crows
+1x Owl Companion
+4x Raven Spy
+
+Action Modifier/Combat (8)
+8x Swiftness of the Stag
+
+Reaction (20)
+5x Cats' Guidance
+5x Falcon's Eye
+10x Speak with Spirits
+
+Combat (18)
+6x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+2x Pack Alpha
+
+Event (1)
+1x Unmasking, The

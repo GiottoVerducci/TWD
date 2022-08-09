@@ -1,0 +1,60 @@
+Old Gang is Back
+Montreal, Quebec
+March 5th 2011
+2R+F
+16 players
+Christian Chénard
+
+-- 5VP in final
+
+Deck Name: Girls will scream at high pitch
+
+Homebrew library used during the latest storyline but with
+a now "switched to legal" gr2/3 crypt.
+
+Crypt (12 cards, min=17, max=24, avg=5.25)
+------------------------------------------
+4x Yseult	  6   FOR MEL PRE	Daughter of Cacophony:3
+3x Angela Preston 5   MEL PRE for	Daughter of Cacophony:2
+3x Delilah Monroe 4   MEL for pre	Daughter of Cacophony:2
+2x Gaël Pilet	  6   FOR MEL chi pre	Daughter of Cacophony:2
+
+Library (79 cards)
+Master (13)
+3x Command Performance
+1x Dreams of the Sphinx
+3x Fame
+1x Giant's Blood
+1x Lilith's Blessing
+4x Paris Opera House
+
+Action (20)
+2x Bum's Rush
+2x Entrancement
+16x Shattering Crescendo
+
+Ally (7)
+1x Carlton Van Wyk
+6x Member of the Entourage
+
+Equipment (3)
+1x Camera Phone
+1x IR Goggles
+1x Ivory Bow
+
+Action Modifier (21)
+2x Aire of Elation
+6x Freak Drive
+7x Missing Voice, The
+6x Siren's Lure
+
+Combat (13)
+3x Backstep
+4x Death of the Drum
+1x High Ground
+1x Majesty
+1x Soak
+3x Unflinching Persistence
+
+Event (2)
+2x Dragonbound

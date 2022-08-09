@@ -1,0 +1,51 @@
+Praxis Seizure: Dallas
+Dallas, Texas
+June 3rd 2000
+14 players
+Ethan Burrow
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/obdFYOkMLK8
+
+Princely Weenie Dominate
+
+Crypt (12 cards, min=7, max=30, avg=4.08)
+-----------------------------------------
+1x Constanza Vinti	8   CEL DOM POT	 prince	 Brujah:2
+1x Dónal O'Connor	8   CEL DOM POT	 prince	 Brujah:2
+1x Gilbert Duane	7   AUS DOM OBF	 prince	 Malkavian:1
+1x Sir Walter Nash	7   DOM FOR PRE	 prince	 Ventrue:1
+1x Gloria Giovanni	4   DOM nec	 	 Giovanni:2
+1x Cameron		3   dom pot	 	 Lasombra:2
+1x Jing Wei		3   dom tha	 	 Tremere:1
+1x Christine Boscacci	2   dom vic	 	 Pander:2
+1x Mustafa Rahman	2   dom		 	 Tremere:2
+1x Ohanna		2   dom		 	 Malkavian:2
+1x Samson		2   dom		 	 Ventrue antitribu:2
+1x Royce		1   dom		 	 Pander:2
+
+Library (87 cards)
+Master (25)
+1x Barrens, The
+6x Dominate
+3x Minion Tap
+10x Misdirection
+2x Parthenon, The
+3x Secure Haven
+
+Action (17)
+10x Govern the Unaligned
+7x Third Tradition: Progeny
+
+Action Modifier (17)
+7x Conditioning
+6x Foreshadowing Destruction
+4x Sleeping Mind, The
+
+Reaction (10)
+5x Deflection
+3x Pulling Strings
+2x Redirection
+
+Combat (18)
+6x Dodge
+8x Fake Out
+4x Open Grate

@@ -1,0 +1,73 @@
+Finnish ECQ
+Tampere, Finland
+June 18th 2005
+3R+F
+29 players
+Marko Saari
+
+Deck Name: Don't tease a cat or dog or pull its tail or ears
+
+Description: block things & eat guns (Ahrimanes wall)
+
+Crypt (12 cards, min=12, max=31, avg=5.75)
+------------------------------------------
+3x Howler		8   ANI PRE SPI obf	 Ahrimane:2
+3x Siamese, The		7   PRE SPI ani pro	 Ahrimane:2
+2x Cynthia Ingold	6   SPI ani for pre	 Ahrimane:2
+1x Nettie Hale		5   ani cel pre pro spi	 Ahrimane:2
+1x Juanita Santiago	4   ani pre spi		 Ahrimane:2
+1x Delilah Easton	2   pre			 Toreador:1
+1x Antoinette DuChamp	1   cel pre		 Caitiff:2
+
+Library (90 cards)
+Master (15)
+2x Animalism
+4x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Fame
+1x Giant's Blood
+1x KRCG News Radio
+1x Powerbase: Montreal
+1x Rack, The
+1x Retribution
+
+Action (13)
+1x Army of Rats
+2x Enchant Kindred
+3x Engling Fury
+3x Entrancement
+4x Nose of the Hound
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (4)
+1x Mr. Winthrop
+1x Murder of Crows
+2x Raven Spy
+
+Action Modifier (2)
+2x Aire of Elation
+
+Action Modifier/Combat (9)
+9x Swiftness of the Stag
+
+Reaction (22)
+4x Cats' Guidance
+1x Delaying Tactics
+5x Falcon's Eye
+3x Forced Awakening
+9x Speak with Spirits
+
+Combat (23)
+7x Aid from Bats
+3x Canine Horde
+9x Carrion Crows
+1x Majesty
+1x Staredown
+2x Taste of Vitae

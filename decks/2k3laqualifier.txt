@@ -1,0 +1,70 @@
+South West Regional Qualifier
+Los Angeles, California
+May 25th 2003
+25 players
+Ira Fay
+
+Deck Name: Brujah with Dominate
+
+Crypt (12 cards, min=16, max=32, avg=6.42)
+------------------------------------------
+3x Constanza Vinti		   8   CEL DOM POT	    prince	Brujah:2
+3x Dónal O'Connor		   8   CEL DOM POT	    prince	Brujah:2
+2x Anvil			   6   CEL POT dom pre tha  primogen	Brujah:1
+1x Theo Bell			   7   POT cel dom pre	    		Brujah:2
+1x Volker, The Puppet Prince	   5   CEL pot		    prince	Brujah:2
+1x Cameron			   3   dom pot		    		Lasombra:2
+1x Marciana Giovanni, Investigator 2   dom		    		Giovanni:2
+
+Library (90 cards)
+Master (15)
+2x Blood Doll
+1x Celerity
+1x Depravity
+1x Dominate
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Information Highway
+1x KRCG News Radio
+1x Potence
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+1x Zillah's Valley
+
+Action (11)
+1x Dominate Kine
+5x Govern the Unaligned
+3x Harass
+2x Scouting Mission
+
+Equipment (1)
+1x Leather Jacket
+
+Political Action (2)
+2x Parity Shift
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (4)
+2x Bonding
+2x Foreshadowing Destruction
+
+Reaction (18)
+5x Deflection
+3x Redirection
+7x Second Tradition: Domain
+3x Wake with Evening's Freshness
+
+Combat (38)
+2x Blur
+2x Disarm
+6x Flash
+7x Immortal Grapple
+6x Pursuit
+2x Sideslip
+4x Taste of Vitae
+7x Torn Signpost
+2x Undead Strength

@@ -1,0 +1,58 @@
+Week of Nightmares Event 2
+Columbus, Ohio
+June 10th 2013
+16 players
+Randal Rudstam
+
+Deck Name: The hot pot
+
+This deck is a a remake of a deck that Ivan Marin-Rivas runs in Stockholm.
+I was a few cards short so I decided to add the Ashurs angle to it.
+
+Crypt (12 cards, min=36, max=43, avg=9.67)
+------------------------------------------
+3x Nehemiah		 9   POT PRE SER TEM obt	2 votes		True Brujah:4
+2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+2x Armin Brenner	 10  CEL FOR POT PRE ani obf	archbishop	Brujah antitribu:4
+2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
+1x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Annazir		 9   DAI OBF POT PRE		2 votes		Baali:5
+1x Hektor		 9   CEL POT PRE QUI for	priscus		Brujah antitribu:4
+
+Library (69 cards)
+Master (32; 5 trifle)
+9x Ashur Tablets
+2x Information Highway
+6x Liquidation
+1x Monastery of Shadows
+2x Parthenon, The
+1x Pentex(TM) Subversion
+5x Villein
+6x Zillah's Valley
+
+Political Action (11)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+2x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (22)
+2x Approximation of Loyalty
+1x Bewitching Oration
+2x Forgotten Labyrinth
+1x Into Thin Air
+3x Iron Glare
+6x Perfect Paragon
+3x Tangle Atropos' Hand
+4x Voter Captivation
+
+Combat (3)
+3x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,78 @@
+4th Elder Library War
+Espoo, Finland
+July 24th 2020
+2R+F
+17 players
+Otso Saariluoma
+https://www.vekn.net/event-calendar/event/9632
+
+-- 2GW8 + 2VP in final
+
+Deck Name: Schwerpunkt Principle
+Created by: Otso Saariluoma
+
+Description: Based on Jens Johansson's list from 2012.
+
+Crypt (12 cards, min=16, max=32, avg=6.08)
+------------------------------------------
+2x Emerson Bridges		   8   DOM FOR PRE pot	    prince  Ventrue:1
+2x Sir Walter Nash		   7   DOM FOR PRE	    prince  Ventrue:1
+1x Wilhelm Waldburg		   9   DOM FOR PRE aus cel  prince  Ventrue:2
+1x Timothy Crowley		   7   FOR PRE ani dom	    prince  Ventrue:1
+1x Vanessa			   6   DOM FOR aus pre	    	    Ventrue antitribu:2
+1x Jazz Wentworth		   5   PRE dom for	    	    Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	    	    Ventrue:2
+1x Ingrid Russo			   4   DOM for		    	    Ventrue antitribu:2
+1x Violette Prentiss		   4   PRE dom		    	    Ventrue:1
+1x Gideon Fontaine		   3   PRE		    	    Ventrue:1
+
+Library (82 cards)
+Master (12; 2 trifle)
+1x Anarch Troublemaker
+1x Blood Doll
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+1x Jake Washington
+1x Legendary Vampire
+1x Misdirection
+1x Pentex(TM) Subversion
+1x Ventrue Headquarters
+1x Vessel
+1x Wider View
+
+Action (18)
+2x Enchant Kindred
+2x Entrancement
+9x Govern the Unaligned
+3x Mind Numb
+2x Scouting Mission
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (10)
+1x Anarchist Uprising
+1x Conservative Agitation
+4x Kine Resources Contested
+1x Neonate Breach
+3x Parity Shift
+
+Action Modifier (25)
+3x Bonding
+4x Conditioning
+2x Daring the Dawn
+1x Foreshadowing Destruction
+12x Freak Drive
+1x Perfect Paragon
+2x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Reaction (7)
+5x Deflection
+2x Second Tradition: Domain
+
+Combat (8)
+8x Majesty

@@ -1,0 +1,68 @@
+Bodek Days
+Dubicze Cerkiewne, Poland
+August 10th 2011
+2R+F
+16 players
+Aleksander Idziak
+
+Deck Name: Malkavian - Obedience
+
+Crypt (12 cards, min=18, max=37, avg=6.92)
+------------------------------------------
+3x Lucian	    10	AUS DOM OBF cel tha	justicar  Malkavian:1
+3x Gilbert Duane    7	AUS DOM OBF		prince	  Malkavian:1
+2x Greger Anderssen 7	AUS OBF dom pro		prince	  Malkavian:2
+2x Victoria	    5	AUS cel obf			  Malkavian:2
+1x Didi Meyers	    5	DOM aus cel obf			  Malkavian:1
+1x Zöe		    3	AUS cel obf			  Malkavian:2
+
+Library (82 cards)
+Master (13; 5 trifle)
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Madness Network
+1x Papillon
+1x Pentex(TM) Subversion
+3x Villein
+1x Wider View
+
+Action (7)
+7x Govern the Unaligned
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Helicopter
+
+Political Action (11)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Banishment
+4x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (21)
+3x Conditioning
+2x Elder Impersonation
+2x Faceless Night
+1x Foreshadowing Destruction
+2x Forgotten Labyrinth
+2x Into Thin Air
+3x Lost in Crowds
+2x Spying Mission
+4x Telepathic Vote Counting
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (23)
+5x Deflection
+3x Eyes of Argus
+7x Obedience
+6x Second Tradition: Domain
+2x Telepathic Misdirection

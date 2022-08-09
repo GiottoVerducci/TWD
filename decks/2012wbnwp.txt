@@ -1,0 +1,82 @@
+Polish ECQ - Warsaw by Night
+Warszawa, Poland
+April 28th 2012
+3R+F
+28 players
+Aleksander Idziak
+
+Deck Name: Tremere - Gerald Windham - I'm Flying
+
+Description: Go for learjet, freak drive, setup with govern
+superior and equipment. Build a perfect hand with learjet,
+discarding the cards you don't need at the moment. Later on
+bring back with ashur tablets the cards you need.
+
+Crypt (12 cards, min=13, max=36, avg=6.33)
+------------------------------------------
+5x Gerald Windham   9	AUS DOM FOR THA			Tremere:5
+1x Graham Gottesman 7	DOM FOR obf pre tha	prince	Ventrue:5
+1x Jefferson Foster 6	AUS DOM for tha		bishop	Ventrue antitribu:4
+1x Andrew Stuart    5	AUS DOM THA			Tremere:4
+1x Claus Wegener    5	DOM aus for tha			Tremere:5
+1x Keith Moody	    3	DOM				Tremere antitribu:4
+1x Ulrike Rothbart  3	dom for				Ventrue antitribu:4
+1x Jackson Asher    2	dom				Ventrue:4
+
+Library (83 cards)
+Master (21; 2 trifle)
+9x Ashur Tablets
+1x Direct Intervention
+2x Giant's Blood
+3x Parthenon, The
+2x Pentex(TM) Subversion
+1x Secure Haven
+1x Sudden Reversal
+2x Villein
+
+Action (17)
+1x Command the Legion
+1x Dark Mirror of the Mind
+1x Dominate Kine
+1x Far Mastery
+3x Govern the Unaligned
+6x Magic of the Smith
+1x Mind Rape
+1x Pulse of the Canaille
+1x Revelations
+1x Scouting Mission
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ponticulus
+
+Equipment (11)
+1x Aaron's Feeding Razor
+2x Ankara Citadel, Turkey, The
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Ivory Bow
+3x Learjet
+1x Monocle of Clarity
+1x Sargon Fragment, The
+
+Political Action (1)
+1x Rumors of Gehenna
+
+Retainer (1)
+1x Robert Carter
+
+Action Modifier (26)
+2x Bonding
+2x Conditioning
+1x Foreshadowing Destruction
+17x Freak Drive
+3x Mirror Walk
+1x Seduction
+
+Reaction (3)
+2x Deflection
+1x Delaying Tactics
+
+Event (1)
+1x Anthelios, The Red Star

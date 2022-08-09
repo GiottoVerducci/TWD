@@ -1,0 +1,66 @@
+Liga Nova Era Brasil - OM
+São Paulo, Brazil
+December 18th 2017
+2R+F
+12 players
+Fernanda Nunes
+https://www.vekn.net/event-calendar/event/8821
+
+-- 3VP in final
+
+Deck Name: Clube das Luluzinhas
+Created by: Fernanda
+
+Description: Mult Action: MindRape+Bleed+Abactor
+
+Crypt (12 cards, min=27, max=44, avg=9.08)
+------------------------------------------
+5x Stanislava	  11  ANI CEL DOM FOR PRO  inner circle	 Gangrel:2
+3x Ingrid Rossler 9   ANI FOR PRO dom	   prince	 Gangrel:2
+3x Iliana	  7   DOM FOR PRO tha	   		 Gangrel:2
+1x Caitlin	  6   ANI PRO aus dom	   bishop	 Gangrel antitribu:2
+
+Library (90 cards)
+Master (21; 6 trifle)
+1x Backways
+1x Ecoterrorists
+1x Ennoia's Theater
+3x Heidelberg Castle, Germany
+2x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+5x Villein
+1x Wash
+4x Zillah's Valley
+
+Action (15)
+4x Abactor
+4x Govern the Unaligned
+7x Mind Rape
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (6)
+1x Ancient Influence
+2x Ancilla Empowerment
+1x Political Stranglehold
+1x Reins of Power
+1x Veles' Hunt
+
+Action Modifier (25)
+6x Beast Meld
+1x Conditioning
+6x Earth Control
+1x Enkil Cog
+5x Forced March
+6x Freak Drive
+
+Reaction (10)
+5x Deflection
+5x On the Qui Vive
+
+Combat (12)
+6x Earth Meld
+6x Form of Mist

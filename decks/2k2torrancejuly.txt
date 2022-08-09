@@ -1,0 +1,35 @@
+Precognition
+Torrance, California
+July 27th 2002
+15 players
+Robert Acevedo
+
+Deck Name: Precognition Torrance deck
+
+Crypt (12 cards, min=24, max=28, avg=6.67)
+------------------------------------------
+5x Beast, The Leatherface of Detroit	7   OBF POT ani cel		Nosferatu antitribu:2
+5x Theo Bell				7   POT cel dom pre		Brujah:2
+2x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
+
+Library (89 cards)
+Master (7)
+2x Fame
+4x Guardian Angel
+1x Humanitas
+
+Equipment (2)
+1x Catacombs
+1x Inveraray, Scotland
+
+Reaction (5)
+5x Forced Awakening
+
+Combat (75)
+4x Burning Wrath
+2x Decapitate
+14x Immortal Grapple
+27x Increased Strength
+10x Taste of Vitae
+6x Thrown Gate
+12x Undead Strength

@@ -1,0 +1,77 @@
+Prince of Karlsruhe B-Day Tournament
+Karlsruhe, Germany
+February 22nd 2003
+3R+F
+10 players
+Andreas Nusser
+
+Deck Name: Tremere Second Tradition Deck
+
+Description: A little bit of toolboxing
+
+Crypt (12 cards, min=17, max=39, avg=7.25)
+------------------------------------------
+3x Lucas Halton			10  AUS CEL DOM THA qui		prince	  Tremere:3
+3x Anastasz di Zagreb		8   AUS THA ani cel dom		justicar  Tremere:3
+1x Oliver Thrace		9   AUS DOM THA nec obf pot		  Tremere:3
+1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for			  Tremere:2
+1x Eugenio Estevez		6   AUS THA dom for			  Tremere:3
+1x Aisling Sturbridge		5   AUS THA dom				  Tremere:2
+1x Blythe Candeleria		3   THA aus				  Tremere:2
+1x Ehrich Weiss			3   dom tha				  Tremere:3
+
+Library (90 cards)
+Master (17)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Barrens, The
+4x Blood Doll
+1x Chantry
+2x Direct Intervention
+1x Dominate
+1x Dreams of the Sphinx
+2x Information Highway
+1x KRCG News Radio
+1x Rack, The
+1x Sudden Reversal
+
+Action (16)
+1x Dominate Kine
+1x Far Mastery
+5x Govern the Unaligned
+1x Graverobbing
+3x Magic of the Smith
+1x Nose of the Hound
+1x Revelations
+3x Rutor's Hand
+
+Equipment (8)
+1x Ankara Citadel, Turkey, The
+1x Flak Jacket
+2x IR Goggles
+1x Ivory Bow
+1x Leather Jacket
+1x Sniper Rifle
+1x Sport Bike
+
+Retainer (2)
+1x Charnas the Imp
+1x Mr. Winthrop
+
+Action Modifier (3)
+2x Bonding
+1x Perfect Clarity
+
+Reaction (20)
+4x Eagle's Sight
+2x Enhanced Senses
+7x Second Tradition: Domain
+3x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (24)
+7x Apportation
+3x Telepathic Tracking
+9x Theft of Vitae
+2x Thoughts Betrayed
+3x Walk of Flame

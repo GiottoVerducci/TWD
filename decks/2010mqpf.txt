@@ -1,0 +1,70 @@
+Mini Quiche
+Paris, France
+January 21st 2010
+20 players
+Reyda Seddiki
+
+Deck Name: Ahrimane Assault
+
+Description:	Toolbox ahrimane. Lots of untap. Lots of carrion,
+but no aid from bats ! The point is not to destroy the vampire you are
+blocking, but merely being able to block a lot, and to survive the
+ensuing fight. You are going to oust with Smiling jack anyway. Some
+precise rush, mainly to maim the fame. Mark V is here to settle it
+against other long range fighters.
+
+Crypt (12 cards, min=12, max=27, avg=5)
+---------------------------------------
+3x Muricia		   7   ANI PRE SPI	Ahrimane:4
+3x Effie Lowery		   5   ANI SPI obf	Ahrimane:4
+2x Gentha Shale		   6   ANI PRE pot spi	Ahrimane:4
+2x Aiyana, The Wolfcatcher 3   pre spi		Ahrimane:4
+2x Stick		   3   ANI		Nosferatu antitribu:4
+
+Library (87 cards)
+Master (13; 1 trifle)
+1x Archon Investigation
+5x Blood Doll
+1x Failsafe
+1x Fame
+1x Fear of Mekhet
+1x Hungry Coyote, The
+1x Rumor Mill, Tabloid Newspaper, The
+2x Smiling Jack, The Anarch
+
+Action (13)
+3x Abbot
+1x Aranthebes, The Immortal
+1x Intimidation
+2x Legal Manipulations
+4x Nose of the Hound
+2x Vulture's Buffet
+
+Equipment (2)
+2x Mark V
+
+Retainer (5)
+5x Raven Spy
+
+Action Modifier (5)
+3x Aire of Elation
+2x Squirrel Balance
+
+Action Modifier/Combat (8)
+8x Swiftness of the Stag
+
+Reaction (22)
+3x Cats' Guidance
+4x Falcon's Eye
+1x Instinctive Reaction
+11x Speak with Spirits
+3x Wake with Evening's Freshness
+
+Combat (18)
+8x Carrion Crows
+5x Leapfrog
+1x Majesty
+4x Taste of Vitae
+
+Event (1)
+1x Restricted Vitae

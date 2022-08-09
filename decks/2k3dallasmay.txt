@@ -1,0 +1,67 @@
+Anarchist Uprising
+Dallas, Texas
+May 24th 2003
+15 players
+Ethan Burrow
+
+Orgy of Flesh - Breathe Harder Remix
+Description: This deck is a modification to the Orgy of Flesh Palla
+Grande/Vic deck. This adds the combat module used in Bow Down Before
+Matteus, specifically the Breath of the Dragon and Rotschreck. Ideally
+you focus on creating Creation Rites vampires with vic, and then they
+either bleed when the Palla Grande is out, or Art Scam when it's not.
+Non vic vampires do maintenence actions or get bleed defense duty.
+Newly created Creation Rites can use Breath/Rotschreck to deter pesky
+actions against you. Always influence out a titled vampire first, as
+without the additional minions this deck might stall. With a titled
+vampire out, the deck starts to roll almost immediately if the
+Creation Rites are not blocked.
+
+Crypt (12 cards, min=16, max=38, avg=6.83)
+------------------------------------------
+2x Matteus, Flesh Sculptor	10  AUS CEL PRE VIC	priscus	    Toreador antitribu:2
+2x Donatien			9   AUS PRE cel pot	cardinal    Toreador antitribu:2
+2x Lachlan, Noddist		8   AUS CEL PRE dom	archbishop  Toreador antitribu:2
+1x Jost Werner			6   AUS PRE ani			    Toreador antitribu:2
+1x Sheila Mezarin		6   AUS PRE cel for		    Toreador antitribu:2
+1x Creamy Jade			5   PRE aus cel vic		    Toreador antitribu:3
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre		    Toreador antitribu:2
+1x Remilliard, Devout Crusader	4   AUS pre			    Toreador antitribu:2
+1x Carter			2   cel				    Toreador antitribu:2
+
+Library (89 cards)
+Master (21)
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Fetish Club Hunting Ground
+2x Hungry Coyote, The
+1x Information Highway
+3x Palla Grande
+1x Powerbase: Montreal
+3x Rötschreck
+2x Sudden Reversal
+6x Vicissitude
+
+Action (26)
+10x Art Scam
+6x Creation Rites
+1x Entrancement
+2x Legal Manipulations
+1x Patronage
+1x Propaganda
+5x Revelations
+
+Action Modifier (6)
+6x Changeling
+
+Action Modifier/Combat (8)
+8x Plasmic Form
+
+Reaction (18)
+6x Telepathic Counter
+6x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (10)
+4x Breath of the Dragon
+6x Chiropteran Marauder

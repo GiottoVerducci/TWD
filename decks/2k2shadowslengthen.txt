@@ -1,0 +1,78 @@
+Shadows lengthen
+Gothenburg, Sweden
+October 12th 2002
+10 players
+Sten Düring
+
+Deck Name: Masking the Unblockable
+
+Description: Combining Aching Beauty and Toreador Grand Ball may look
+like a strange strategy. Add in Mask of a thousand Faces and it makes
+more sense.
+Declare non-bleed actions with your unblockable vampire. Play Mask and
+finish the action in order to get another unblockable action.
+Try playing bleed-modifiers and Aching Beauty/Camarilla Exemplary on
+different vampires. Declare bleeds for lots. If blocked, Mask in some
+pool-punishment. If bounced, Mask in a lower amount of bleed.
+Expensive mastercards go hand in hand with Parity Shift.
+
+Doing this deck again I'd throw out all equipment and add another three
+Majesty.
+
+Crypt (12 cards, min=13, max=39, avg=6.83)
+------------------------------------------
+2x Isabel de Leon		3   AUS					  Toreador:2
+1x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+1x Helena			10  AUS CEL DOM obf pre tha		  Toreador:3
+1x Madame Guil			10  AUS CEL PRE for pot ser	justicar  Toreador:3
+1x Joaquin Murietta		9   AUS CEL obf pre qui			  Toreador:3
+1x Klaus van der Veken		9   CEL PRE aus obf tha		prince	  Toreador:2
+1x Fleurdumal			8   AUS DEM PRE cel tha		prince	  Toreador:3
+1x Suzanne Kadim		7   CEL PRE aus dom obf			  Toreador:3
+1x Antoinette, She Who Watches	6   AUS PRE cel obf		primogen  Toreador:3
+1x Sir Henry Johnson		4   aus pot pre				  Toreador:3
+1x Yvette, The Hopeless		3   aus cel				  Toreador:3
+
+Library (90 cards)
+Master (20)
+5x Aching Beauty
+1x Art Museum
+3x Blood Doll
+1x Club Zombie
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+4x Minion Tap
+4x Toreador Grand Ball
+
+Action (6)
+4x Enchant Kindred
+2x Pulse of the Canaille
+
+Equipment (3)
+2x IR Goggles
+1x Monocle of Clarity
+
+Political Action (12)
+4x Camarilla Exemplary
+3x Kine Resources Contested
+3x Parity Shift
+1x Praxis Seizure: Cleveland
+1x Praxis Seizure: Monaco
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (16)
+4x Bewitching Oration
+6x Mask of a Thousand Faces
+6x Voter Captivation
+
+Reaction (19)
+8x Forced Awakening
+3x Second Tradition: Domain
+8x Telepathic Misdirection
+
+Combat (11)
+11x Majesty

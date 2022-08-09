@@ -1,0 +1,79 @@
+Founders of the Ebony Kingdom - South African NC 2008
+Pretoria, Tshwane, South Africa
+April 6th 2008
+3R+F
+20 players
+Victor Kemp
+
+Deck Name: Victor's Deck of Dominate
+
+This was our national constructed tournament event held at Upcon 2008.
+There was a good attendence at this tournament and the metagame was
+dominated by bruise-bleed decks. The final table was swept up by Victor,
+after some cunning tabletalk and strategic deal-breaking.
+
+The final table looked like this:
+Victor playing Sneak/Bleed protean dominate bleeding
+Jacque playing Kiasyd Sneak/Bleed toolbox bleeding
+Michael playing Tupdog and Friends rush deck bleeding
+Jesse playing Setite are tempting and enticing deck bleeding
+Alex Pardo playing Shambling Hordes deck
+
+Description: Straight forward sneak and bleed deck with dominate
+and protean. The general lack of intercept at the tournament certainly
+helped this deck work, as well as Stanislava's repeat performances.
+
+Crypt (12 cards, min=6, max=40, avg=5.67)
+-----------------------------------------
+2x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
+2x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
+1x Faruq		8   ANI PRO dom for pot	 		Gangrel:2
+1x Caitlin		6   ANI PRO aus dom	 bishop		Gangrel antitribu:2
+1x Lisette Vizquel	6   DOM POT pro		 bishop		Lasombra:2
+1x Mustafa Rahman	2   dom			 		Tremere:2
+1x Ohanna		2   dom			 		Malkavian:2
+1x Samson		2   dom			 		Ventrue antitribu:2
+1x Huang, Blood Cultist	1   pro			 		Pander:2
+1x Royce		1   dom			 		Pander:2
+
+Library (88 cards)
+Master (19; 3 trifle)
+1x Animalism
+1x Archon Investigation
+3x Blood Doll
+1x Dominate
+1x Giant's Blood
+1x Information Highway
+4x Minion Tap
+1x Pentex(TM) Subversion
+1x Protean
+1x Slave Auction
+1x Sudden Reversal
+2x Vessel
+1x Wash
+
+Action (12)
+4x Dominate Kine
+2x Far Mastery
+1x Govern the Unaligned
+4x Scouting Mission
+1x Shepherd's Innocence
+
+Action Modifier (7)
+3x Bonding
+4x Foreshadowing Destruction
+
+Reaction (26)
+3x Cats' Guidance
+6x Deflection
+6x Guard Dogs
+3x Instinctive Reaction
+4x Obedience
+1x Redirection
+3x Sonar
+
+Combat (24)
+1x Body Flare
+9x Earth Meld
+8x Form of Mist
+6x Quick Meld

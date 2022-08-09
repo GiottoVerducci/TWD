@@ -1,0 +1,78 @@
+The Vics - Victorian State Qualifier
+Melbourne, Victoria
+April 18th 2009
+3R+F
+12 players
+Jason Ryan
+
+-- 3VP in final
+
+Deck Name: The Beautiful People
+
+Description: Very reslient deck, but not really capable of fast ousts.
+Need to do something to speed it up. Giant's Blood was gold all day.
+Obediences were gold. Sniper Rifles were useless in ANI heavy meta.
+Ashur Tablets weren't great either - if I got them up early, I didn't
+really need to recur anything, and if I got them late, the game was
+already over. Would be better off replacing them with some funk
+(Millicent, From a Sinking Ship, etc).
+
+Anthelios + 3MPA's = Joyyyyyyy
+
+Crypt (12 cards, min=17, max=42, avg=7.75)
+------------------------------------------
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+2x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Dorian Strack   4   AUS cel					Toreador:1
+1x Isabel de Leon  3   AUS					Toreador:2
+1x Delilah Easton  2   pre					Toreador:1
+
+Library (90 cards)
+Master (36)
+1x Art Museum
+4x Ashur Tablets
+3x Direct Intervention
+2x Dominate
+2x Dreams of the Sphinx
+1x Gambit Accepted
+1x Giant's Blood
+2x Golconda: Inner Peace
+2x Information Highway
+7x Minion Tap
+1x Parthenon, The
+1x Secure Haven
+1x Temptation of Greater Power
+6x Toreador Grand Ball
+2x Zillah's Valley
+
+Action (1)
+1x Entrancement
+
+Equipment (3)
+1x Bowl of Convergence
+2x Sniper Rifle
+
+Political Action (15)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+1x First Tradition: The Masquerade
+5x Kine Resources Contested
+4x Parity Shift
+1x Reins of Power
+
+Action Modifier (8)
+1x Aire of Elation
+2x Awe
+5x Voter Captivation
+
+Reaction (25)
+2x Deflection
+11x Obedience
+9x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Event (2)
+2x Anthelios, The Red Star

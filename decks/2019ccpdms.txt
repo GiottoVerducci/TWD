@@ -1,0 +1,74 @@
+Camarilla Conclave 2019
+Palma de Mallorca, Spain
+October 19th 2019
+3R+F
+45 players
+Tomàs López Jiménez
+https://www.vekn.net/event-calendar/event/9291
+
+-- 2GW7 + 2VP in final
+
+Crypt (12 cards, min=34, max=41, avg=9.5)
+-----------------------------------------
+4x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Montano				  11  ANI DOM FOR OBT POT	2 votes	    Lasombra:3
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+
+Library (84 cards)
+Master (23; 6 trifle)
+1x Barrens, The
+1x Día de los Muertos
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+6x Villein
+7x Zillah's Valley
+
+Action (10)
+1x Dominate Kine
+2x Entrancement
+7x Govern the Unaligned
+
+Ally (2)
+2x Nocturn
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (16)
+1x Anarchist Uprising
+1x Banishment
+1x Disputed Territory
+4x Kine Resources Contested
+1x Neonate Breach
+6x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (23)
+1x Awe
+3x Bewitching Oration
+1x Bonding
+1x Conditioning
+1x Enkil Cog
+5x Freak Drive
+2x Shadow Play
+2x Shroud of Absence
+1x Shroud of Night
+3x Tenebrous Form
+3x Voter Captivation
+
+Reaction (7)
+4x Deflection
+3x On the Qui Vive
+
+Combat (2)
+2x Majesty

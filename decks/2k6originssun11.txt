@@ -1,0 +1,104 @@
+Origins Sunday
+Columbus, Ohio
+July 2nd 2006
+2R+F
+24 players
+Matthew Morgan
+
+Deck Name: Akunanse bleed and block v2
+
+Description: Bleed forward and block backward. No Secrets From the
+Magaji and Guardian Angel (or a gun of some sort) will stop many decks
+dead in their tracks. This deck has an answer to most strategies and
+bleeds very well besides. Its main weakness is if other decks can
+block it tooling up. This was evidenced in this year's NERQ when all
+my bleed permanents were blocked so even after I ran my prey out of
+s:ce, I couldn't do much other than bleed for 1.
+
+I think this deck is one of the best I've ever made. That is evidenced
+by its performance in two tournaments against some of the top players
+in the US (if not the world). Anyone who feels that Legacies of Blood
+isn't a strong set, should try something like this. This version may
+not be ideal for every metagame as it is built to withstand some serious
+combat if necessary and it could have more stealth if that would be
+helpful. Also, in an extremely stealthy environment, more permanent
+intercept may be necessary. Delaying Tactics could certainly go in
+here if you aren't confident of catching every vote. Some of the
+Predator's Communion could be Forced Awakening, which would be crucial
+verses a Giovanni powerbleed running The Sleeping Mind. The main idea
+here is to have a wallish deck that can bleed forward well. I think
+a deck with No Secrets From the Magaji is perfectly suited to such
+a concept because I only block forward when it's necessary or
+advantageous. I don't need to block my prey to kill him. First of all,
+this lets my prey play his game and weaken his prey before I get him
+(in a perfect world) and secondly this makes it less likely for me to
+lose my No Secrets before my predator's turn, which could be fairly
+disastrous.
+
+Crypt (12 cards, min=18, max=31, avg=6.33)
+------------------------------------------
+4x Uchenna	  7   ABO ANI FOR	   magaji  Akunanse:4
+2x Nkule Galadima 8   ABO FOR ani aus pre  magaji  Akunanse:4
+1x Amavi	  8   ABO ANI FOR pre pro  	   Akunanse:4
+1x Jubal	  6   ABO ANI for pot	   	   Akunanse:4
+1x Sanjo	  6   ANI FOR abo chi	   	   Akunanse:3
+1x Kikiyaon, The  5   FOR abo ani	   	   Akunanse:4
+1x Hasani	  4   ABO for		   	   Akunanse:4
+1x Dolie	  3   abo ani		   	   Akunanse:4
+
+Library (90 cards)
+Master (16)
+1x Ancestor Spirit
+1x Barrens, The
+5x Blood Doll
+1x Direct Intervention
+1x Giant's Blood
+2x Guardian Angel
+1x Jungle Hunting Ground
+1x KRCG News Radio
+1x Mbare Market, Harare
+1x Perfectionist
+1x Sudden Reversal
+
+Action (5)
+1x Aranthebes, The Immortal
+4x No Secrets From the Magaji
+
+Equipment (6)
+1x .44 Magnum
+1x Ivory Bow
+1x Kduva's Mask
+1x Laptop Computer
+1x Reliquary: Akunanse Remains
+1x Sniper Rifle
+
+Retainer (6)
+1x Duma Rafiki
+1x Elephant Guardian
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Shaman
+1x Tasha Morgan
+
+Action Modifier (14)
+2x Devil-Channel: Throat
+7x Freak Drive
+4x Predator's Mastery
+1x Strange Day
+
+Action Modifier/Combat (2)
+2x Predator's Transformation
+
+Reaction (14)
+6x Cats' Guidance
+6x Predator's Communion
+2x Terra Incognita
+
+Combat (27)
+2x Canine Horde
+6x Carrion Crows
+2x Devil-Channel: Hands
+6x Invoking the Beast
+5x Rolling with the Punches
+4x Taste of Vitae
+2x Whistling Up the Beast

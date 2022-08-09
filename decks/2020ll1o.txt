@@ -1,0 +1,55 @@
+Liga Lackey 01
+Online
+July 4th 2020 -- July 5th 2020
+3R+F
+14 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/9630
+
+-- 3VP in final
+
+Deck Name: Euro brujah
+
+Crypt (12 cards, min=26, max=34, avg=7.5)
+-----------------------------------------
+3x Dónal O'Connor			8   CEL DOM POT			prince	  Brujah:2
+3x Theo Bell				7   POT cel dom pre			  Brujah:2
+2x Constanza Vinti			8   CEL DOM POT			prince	  Brujah:2
+2x Beast, The Leatherface of Detroit	7   OBF POT ani cel			  Nosferatu antitribu:2
+1x Don Cruez, The Idealist		10  CEL POT PRE ani dom pro	justicar  Brujah:1
+1x Volker, The Puppet Prince		5   CEL pot			prince	  Brujah:2
+
+Library (90 cards)
+Master (16; 9 trifle)
+1x Archon Investigation
+3x Celerity
+2x New Carthage
+1x Papillon
+3x Vessel
+3x Villein
+3x Wash
+
+Action (5)
+5x Govern the Unaligned
+
+Equipment (2)
+2x .44 Magnum
+
+Political Action (9)
+7x Anathema
+2x Archon
+
+Reaction (13)
+8x Deflection
+5x Second Tradition: Domain
+
+Combat (45)
+8x Blur
+4x Flash
+7x Immortal Grapple
+5x Psyche!
+3x Pursuit
+3x Sideslip
+4x Taste of Vitae
+7x Torn Signpost
+4x Undead Strength

@@ -1,0 +1,84 @@
+Paulista
+São Paulo, Brazil
+May 19th 2013
+3R+F
+19 players
+Mauricio Navate
+
+Deck Name: The wall - Gargoyle forever
+
+Crypt (12 cards, min=11, max=28, avg=5.08)
+------------------------------------------
+3x Ublo-Satha			7   FOR POT VIS cel	Gargoyle:2
+2x Saxum, Master of Slaves	6   FOR VIS pot pre	Gargoyle:2
+1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	Tremere:2
+1x Kyoko Shinsegawa		5   aus cel dom for	Tremere:3
+1x Luma, Stone Beauty		5   FOR aus pot vis	Gargoyle:2
+1x Fidus, The Shrunken Beast	4   for tha vis		Gargoyle:2
+1x Blythe Candeleria		3   THA aus		Tremere:2
+1x Almiro Suarez		2   aus			Tremere:3
+1x Mustafa Rahman		2   dom			Tremere:2
+
+Library (90 cards)
+Master (27; 6 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Archon Investigation
+1x Bleeding the Vine
+1x Channel 10
+1x Club Zombie
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Guardian Angel
+1x KRCG News Radio
+1x Marrakesh Codex, The
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Protected Resources
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+2x Smiling Jack, The Anarch
+5x Vessel
+1x Wall Street Night, Financial Newspaper
+1x Wash
+1x WMRH Talk Radio
+
+Action (10)
+1x Anima Gathering
+1x Aranthebes, The Immortal
+1x Armor of Terra
+3x Defender of the Haven
+1x Hatchling
+2x Jack of Both Sides
+1x Raw Recruit
+
+Ally (4)
+1x Gregory Winter
+1x Neighborhood Watch Commander
+2x Procurer
+
+Equipment (7)
+3x .44 Magnum
+1x Heart of Nizchetus
+1x Helicopter
+1x Kevlar Vest
+1x Palatial Estate
+
+Retainer (4)
+4x Razor Bat
+
+Action Modifier (6)
+4x As the Crow
+2x Skin of the Chameleon
+
+Reaction (23)
+1x Deflection
+12x Forced Awakening
+4x Scry the Hearthstone
+4x Voices of the Castle
+2x Wake with Evening's Freshness
+
+Combat (9)
+2x Flow Within the Mountain
+7x Rolling with the Punches

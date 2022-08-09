@@ -1,0 +1,62 @@
+Marató TV3
+Badía del Vallés, Spain
+December 16th 2018
+3R+F
+13 players
+Tomàs López Jiménez
+https://www.vekn.net/event-calendar/event/9074
+
+-- 1GW4.5 + 2.5VP in final
+
+Deck Name: Saulot & Tremere!
+
+Crypt (12 cards, min=12, max=44, avg=6.67)
+------------------------------------------
+5x Saulot, The Wanderer	11  AUS FOR OBE THA VAL dai	Salubri:4
+1x Antonio d'Erlette	5   THA dom for pot		Tremere antitribu:4
+1x Janine		4   aus dom tha			Tremere antitribu:4
+1x Mosfair		4   cel dom tha			Tremere antitribu:4
+1x Ember Wright		3   aus dom			Tremere antitribu:3
+1x Keith Moody		3   DOM				Tremere antitribu:4
+1x Lectora		3   aus tha			Tremere antitribu:4
+1x Saiz			3   aus dom			Tremere antitribu:3
+
+Library (88 cards)
+Master (25)
+1x Barrens, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+5x Heidelberg Castle, Germany
+7x Infernal Pact
+2x Information Highway
+1x Perfectionist
+1x Secure Haven
+5x Zillah's Valley
+
+Action (23)
+2x Ailing Spirit, The
+4x Renewed Vigor
+1x Rutor's Hand
+16x Spirit Marionette
+
+Ally (1)
+1x Mylan Horseed
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (29)
+2x Conditioning
+2x Daring the Dawn
+4x Enkil Cog
+7x Freak Drive
+5x Mirror Walk
+5x Neutral Guard
+4x Repulsion
+
+Action Modifier/Reaction (4)
+4x Gift of Sleep
+
+Reaction (4)
+4x Deflection

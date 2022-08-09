@@ -1,0 +1,129 @@
+High Ground
+Pittsburgh, Pennsylvania
+April 20th 2019
+2R+F
+12 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/9169
+
+-- 2GW5 + 4VP in final
+
+Deck Name: Lions and Tigers and Legionnaires, Oh My!
+
+Description: Grinder-style Emerald Legionnaire deck
+
+When building this deck, I wanted to take the traditional Ventrue/!Ventrue grinder, replace the
+Ventrue/!Ventrue with Harbingers and the Dominate with Emerald Legionnaires. There's not an even
+math in that conversion, however. There's no good answer to Deflection, since all of the Auspex
+bounce locks your vampires. Weighted Walking Sticks don't provide enough permanence nor enough
+safety for your vampires lacking Fortitude. Furthermore, space has to be made for Spectral
+Divination and Breath of Thanatos for their versatility. While I like the result, in the end, this
+is probably just a fightier version of Martin Weinmayer's Emerald Dream.
+
+I wasn't sure what people would play today, but I wanted good defense. I finished up the deck about
+2 hours before the event, and found the right mix for today. The final had two fast bleed decks
+that I knew about and two decks that I hadn't seen all day.
+
+John M. (Toreador/!Toreador Anarch Toolbox) 0 VP ->
+John E. (Dem Breed with Madman's Quill) 0 VP ->
+Me 4 VP ->
+Mark (Nocturn Bleed) 0 VP ->
+Will (+Bleeders with AUS/OBF) 1 VP
+
+I knew both Mark and Will were strong bleeders, having survived as prey to each deck, I didn't want
+to risk that again. I was unsure of the other decks, so decided to be Mark's predator because I
+hoped to be able to wear him down during his undirected Nocturn recruitments. I felt that was still
+a risky choice. I don't have a lot of Eagle's Sight, so it was possible that Mark could have taken
+3 VPs before I could get him under control.
+
+Going third was perfect for me and I had a great crypt with four different vampires. I got Erebus
+in play on turn 2 and on the next turn gave him a Guardian Angel and a Bowl of Convergence. I got
+Maldavis in play next. Mark was only taking forward actions early and Will's Cornelius Ottavio had
+standing 3 bleed vs. every deck on the table. My predator hit Erebus with a Pentex Subversion,
+played Sibyl's Tongue to find a Conceal and immediately tried to burn the Bowl. Maldavis was barely
+able to block it. Maldavis took an action to remove the Pentex and drew a block. Mark was going
+forward very effectively and I had little to say about it. Will was trying to outrace his predator.
+John M, my grand-predator, took two actions to remove the Pentex (Change of Target on the first),
+then sunk a big bleed on John E. Erebus was able to block again and tried to do so with almost
+every action my predator took. After a few feints, John E got a Creation Rites in play. At this
+point, I got my first Legionnaire and then brought out Zygodat. Then knocked off the Creation Rites
+with Scourge of the Enochians. Mark started to take undirected actions, as the Nocturns came up. I
+wore down his vampires' blood totals (Obtenebration is expensive), but he made really good
+progress. When it came to my turn again, I played another Legionnaire normally and mostly held off.
+The pool totals are very low for both Will and John M. When a bleed of three gets bounced to me, I
+decided that sending it to John M instead of my prey is the better long term move. If Will can get
+a VP and I'm the last man standing, I'd win on seeding (or better). John M blocked, but that took
+critical resources. On my turn, I Pentexed Mark's fourth vampire and sent my Legionnaires after The
+Path of Night. Mark needs to take a lot of Nocturn actions and I lock every minion to keep Mark
+from going forward. Will survives and is able to oust John M. John E hits me with a bleed that I
+can't block, but doesn't have enough to really hurt me. I ousted Mark with Legionnaires and the
+next turn got Will. John E's bloat machine was working well, but his minions were low on blood. I
+had The Unmasking and four vampires and three Legionnaires. When I dropped Smiling Jack, John E
+conceded with ~30 minutes left in the final.
+
+The critical play, in my mind, was recognizing that I needed to throw John M off the island and let
+Will have a VP and the extra pool that comes with it.
+
+Crypt (13 cards, min=19, max=28, avg=5.85)
+------------------------------------------
+5x Erebus	   7   AUS FOR NEC dem	Harbinger of Skulls:3
+2x Neighbor John   5   AUS dom for	Ventrue antitribu:4
+2x Solomon Batanea 5   AUS FOR nec	Harbinger of Skulls:4
+1x Sennadurek	   6   AUS NEC dom	Nagaraja:4
+1x Zygodat	   6   AUS NEC pot	Harbinger of Skulls:4
+1x Nicomedes	   5   aus for nec vic	Harbinger of Skulls:4
+1x Maldavis (ADV)  4   AUS for pre	Caitiff:3
+
+Library (90 cards)
+Master (18; 5 trifle)
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The -- only seen and played in the finals. Got The Unmasking, Leverage (used for the oust), and Madman's Quill
+2x Guardian Angel -- so good in the light combat environment
+1x Pentex(TM) Subversion -- played to prevent my prey from acting, not from blocking
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+5x Vessel
+1x WMRH Talk Radio
+
+Action (1)
+1x Aranthebes, The Immortal -- never played all day, saw it every game
+
+Ally (9)
+1x Carlton Van Wyk
+8x Emerald Legionnaire -- never had more than 3 in play at a time, recycling them was key
+
+Equipment (5)
+2x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+1x Sniper Rifle
+
+Action Modifier/Combat (5)
+5x Breath of Thanatos -- so good, the aggpoke scared people and I burned a vampire using Target Vitals
+
+Action Modifier/Reaction (4)
+4x Spectral Divination -- versatility is key; be careful of the nec vampires, which can't use it for intercept
+
+Reaction (31)
+2x Delaying Tactics -- almost no votes all day
+3x Eagle's Sight -- blocked prey's ousting bleed in round 2
+7x Eyes of Argus
+3x Forced Awakening
+2x Melange -- never burnt it for +bleed; Enhanced Senses instead?
+3x My Enemy's Enemy
+4x On the Qui Vive
+2x Precognition
+5x Telepathic Misdirection
+
+Combat (15)
+3x Concealed Weapon
+5x Indomitability -- swapped all Hidden Strength for these and it was exactly right for this environment, easier to cycle
+2x Rolling with the Punches
+2x Soak
+3x Target Vitals -- so good, as always
+
+Event (2)
+1x Scourge of the Enochians
+1x Unmasking, The

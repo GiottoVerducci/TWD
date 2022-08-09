@@ -1,0 +1,62 @@
+Polish NC 2007
+Warsaw, Poland
+November 17th 2007
+3R+F
+43 players
+Tomasz Pietkiewicz
+
+Deck Name: Speedy Imbued
+
+Crypt (12 cards, min=15, max=20, avg=4.5)
+-----------------------------------------
+4x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+
+Library (63 cards)
+Master (19)
+2x Angel of Berlin
+1x Barrens, The
+1x Church of Vindicated Faith, The
+4x Direct Intervention
+3x Dreams of the Sphinx
+1x Fortschritt Library
+4x Memories of Mortality
+1x Parthenon, The
+1x Smiling Jack, The Anarch
+1x Unity
+
+Conviction (16)
+5x React with Conviction
+6x Second Sight
+5x Strike with Conviction
+
+Ally (4)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (5)
+1x Crusader Sword, The
+1x Heart of Nizchetus
+1x Ivory Bow
+2x Laptop Computer
+
+Power (11)
+2x Champion
+1x Inspire
+2x Rejuvenate
+6x Vigilance
+
+Reaction (2)
+2x Determine
+
+Event (6)
+1x Anthelios, The Red Star
+2x Edge Explosion
+1x NRA PAC
+2x Unmasking, The

@@ -1,0 +1,70 @@
+Power of All
+Trois-Rivières, Quebec
+September 21st 2008
+3R+F
+12 players
+Christian Marinelli
+
+Deck Name: Foundation for the Win
+
+Description: It's pretty straightforward. You kine, you con boon and
+you bleed until you win. You'd better be good at looking weak because
+it's hard to say you're not a threat when you got 7 minions bleeding
+for two and having a vote. The deck is based on a foundation deck I
+found on the web, retooled without the gehenna cards to get less table
+hate.
+
+Crypt (12 cards, min=10, max=22, avg=4.08)
+------------------------------------------
+1x Dominique Santo Paulo  6   AUS CEL pot pre	   Toreador antitribu:4
+1x Redbone McCray	  6   AUS PRE cel pro	   Toreador antitribu:4
+1x Creamy Jade		  5   PRE aus cel vic	   Toreador antitribu:3
+1x Cristos Mantigo	  5   aus cel dom obf pre  Toreador antitribu:3
+1x Gabriel de Cambrai	  5   aus cel dem obf pre  Toreador antitribu:4
+1x L'Épuisette		  4   aus cel pro	   Toreador antitribu:4
+1x Loonar		  4   PRE cel		   Toreador antitribu:4
+1x Sabrina		  4   aus cel pre	   Toreador antitribu:3
+1x Jonathan Gursel	  3   aus pre		   Toreador antitribu:4
+1x Monique Kim		  3   aus cel		   Toreador antitribu:4
+1x Justine Chen, Innocent 2   pre		   Toreador antitribu:4
+1x Nicholas Chang	  2   aus		   Toreador antitribu:3
+
+Library (80 cards)
+Master (28; 5 trifle)
+1x Black Forest Base
+1x Bleeding the Vine
+1x Día de los Muertos
+1x Direct Intervention
+1x Fortschritt Library
+6x Foundation Exhibit
+1x Humanitas
+2x Hungry Coyote, The
+1x Information Highway
+5x Life in the City
+4x Palla Grande
+2x Parthenon, The
+1x Powerbase: Rome
+1x Sunset Strip, Hollywood
+
+Action (10)
+10x Embrace, The
+
+Ally (3)
+1x Alia, God's Messenger
+1x Carlton Van Wyk
+1x Ossian
+
+Political Action (26)
+13x Consanguineous Boon
+13x Kine Resources Contested
+
+Action Modifier (8)
+8x Change of Target
+
+Combat (1)
+1x Dodge
+
+Event (4)
+2x Anthelios, The Red Star
+1x Break the Code
+1x Slow Withering, The

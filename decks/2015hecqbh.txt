@@ -1,0 +1,59 @@
+Hungarian ECQ
+Budapest, Hungary
+March 21st 2015
+3R+F
+54 players
+François Greiner
+https://www.vekn.net/event-calendar/event/7939
+
+Crypt (12 cards, min=38, max=44, avg=10.25)
+-------------------------------------------
+3x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+2x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+2x Alonso Petrodon	 10  ANI DOM OBF POT for tha	justicar	Nosferatu:5
+2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+1x Tryphosa		 10  AUS DEM DOM OBF POT	prince		Malkavian:4
+1x Neferu		 9   OBF PRE SER THA dom nec	2 votes		Follower of Set:4
+1x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
+
+Library (75 cards)
+Master (18; 8 trifle)
+1x Giant's Blood
+1x Golconda: Inner Peace
+5x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+8x Villein
+
+Action (9)
+9x Govern the Unaligned
+
+Equipment (2)
+2x Helicopter
+
+Political Action (6)
+2x Alastor
+1x Ancient Influence
+2x Parity Shift
+1x Reins of Power
+
+Action Modifier (21)
+3x Conditioning
+4x Elder Impersonation
+1x Enkil Cog
+4x Faceless Night
+1x Foreshadowing Destruction
+5x Lost in Crowds
+1x Perfect Clarity
+2x Spying Mission
+
+Action Modifier/Combat (3)
+1x Hide the Mind
+2x Swallowed by the Night
+
+Reaction (16)
+4x Deflection
+3x Eluding the Arms of Morpheus
+2x Mental Maze
+7x Obedience

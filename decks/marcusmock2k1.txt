@@ -1,0 +1,75 @@
+Final Nights
+Vienna, Austria
+September 6th 2001
+12 players
+Marcus Mock
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/rakSp3Ka_G4
+
+Aisling and Hannigan
+
+the idea of the deck is to build up and prevent pool loss. due to magic of
+the smith it is fairly versatile and i can usually get the ressources i need
+at the moment. after a while i have 4 or 5 vampires in play and my prey is
+an easy kill because she could not build up.
+
+Crypt (12 cards, min=10, max=24, avg=4.42)
+------------------------------------------
+2x Muaziz, Archon of Ulugh Beg	   7   THA aus dom for	Tremere:2
+2x Aisling Sturbridge		   5   AUS THA dom	Tremere:2
+2x Hannigan			   5   AUS THA dom	Tremere antitribu:2
+1x Merrill Molitor		   5   THA aus dom	Tremere:1
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha		Tremere antitribu:2
+1x Blythe Candeleria		   3   THA aus		Tremere:2
+1x Dr. John Casey		   3   aus tha		Tremere:1
+1x Heinrick Schlempt		   2   tha		Tremere antitribu:2
+1x Roreca Quaid			   2   tha		Tremere:1
+
+Library (90 cards)
+Master (20)
+1x Academic Hunting Ground
+2x Arcane Library
+6x Blood Doll
+1x Chantry
+1x Depravity
+2x Fear of Mekhet
+1x KRCG News Radio
+1x Powerbase: Montreal
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+2x Sudden Reversal
+1x University Hunting Ground
+
+Action (5)
+5x Magic of the Smith
+
+Ally (1)
+1x Nephandus
+
+Equipment (7)
+1x .44 Magnum
+1x Ivory Bow
+1x Palatial Estate
+1x Sengir Dagger
+3x Sport Bike
+
+Action Modifier (2)
+2x Conditioning
+
+Reaction (38)
+3x Delaying Tactics
+2x Eagle's Sight
+5x Enhanced Senses
+1x Fast Reaction
+6x Forced Awakening
+4x My Enemy's Enemy
+3x Precognition
+4x Spirit's Touch
+5x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (17)
+3x Apportation
+1x Blood Fury
+3x Burst of Sunlight
+2x Fake Out
+8x Theft of Vitae

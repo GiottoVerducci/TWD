@@ -1,0 +1,78 @@
+Dia de los Muertos
+Newark, Ohio
+November 1st 2011
+2R+F
+13 players
+John Bell
+
+Deck Name: Judgment Columbus: Blocking is Pain
+
+Description: I had a deck around 5 years ago that was played with
+the "tap & cap" model - Villein, Papillon and Ashur's Tablets only
+makes this better. The deck was conceived to punish many of the
+wall-type decks, which are often in vogue around here. It's very
+resilient, often difficult to oust, especially without having to
+deal with Immortal Grapple.
+
+Crypt (12 cards, min=31, max=43, avg=9.33)
+------------------------------------------
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+2x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+
+Library (90 cards)
+Master (39; 6 trifle)
+7x Aching Beauty
+1x Archon Investigation
+1x Art Museum
+9x Ashur Tablets
+1x Direct Intervention
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Lilith's Blessing
+6x Liquidation
+1x Papillon
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Toreador Grand Ball
+6x Villein
+
+Action (1)
+1x Entrancement
+
+Equipment (3)
+2x .44 Magnum
+1x Bowl of Convergence
+
+Political Action (13)
+1x Anarchist Uprising
+2x Archon
+1x Banishment
+2x Camarilla Exemplary
+5x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier (20)
+2x Aire of Elation
+4x Bewitching Oration
+5x Change of Target
+4x Crocodile's Tongue
+1x Enkil Cog
+4x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Scalpel Tongue
+
+Reaction (4)
+4x Second Tradition: Domain
+
+Combat (7)
+1x Blur
+6x Majesty
+
+Event (2)
+1x Anthelios, The Red Star
+1x Narrow Minds

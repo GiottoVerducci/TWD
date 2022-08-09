@@ -1,0 +1,66 @@
+Archipelago Jones Slumber Party
+Gothenburg, Sweden
+December 15th 2012
+2R+F
+10 players
+Michael Holmström
+
+Deck Name: Khazar's Shambling Diary
+
+Description: Inspired by a lot of different Khazar's Deck around.
+
+Crypt (12 cards, min=10, max=18, avg=3.33)
+------------------------------------------
+2x Isabel Giovanni		   5   DOM NEC pot  Giovanni:2
+2x Lia Milliner			   3   dom nec	    Giovanni:3
+2x Rudolfo Giovanni		   3   NEC	    Giovanni:2
+1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
+1x Gloria Giovanni		   4   DOM nec	    Giovanni:2
+1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
+1x Mario Giovanni		   3   nec pot	    Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
+1x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+
+Library (64 cards)
+Master (15)
+3x Acquired Ventrue Assets
+2x Archon Investigation
+1x Direct Intervention
+3x Jake Washington
+5x Liquidation
+1x Pentex(TM) Subversion
+
+Action (13)
+1x Aranthebes, The Immortal
+1x Govern the Unaligned
+7x Khazar's Diary (Endless Night)
+4x Sudario Refraction
+
+Ally (19)
+1x Ambrosius, The Ferryman
+1x Carlton Van Wyk
+2x Draeven Softfoot
+1x Gregory Winter
+1x Impundulu
+1x Leonardo, Mortician
+2x Repo Man
+8x Shambling Hordes
+1x Tye Cooper
+1x Vagabond Mystic
+
+Action Modifier (4)
+2x Call of the Hungry Dead
+1x Conditioning
+1x Trochomancy
+
+Action Modifier/Reaction (1)
+1x Spectral Divination
+
+Reaction (9)
+5x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

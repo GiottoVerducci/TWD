@@ -1,0 +1,70 @@
+English ECQ
+Burton-on-Trent, England
+May 13th 2006
+31 players
+Michael Jorgensen
+
+Deck Name: Number of the beast
+
+Crypt (12 cards, min=11, max=32, avg=5.83)
+------------------------------------------
+4x Howler	  8   ANI PRE SPI obf	Ahrimane:2
+3x Siamese, The	  7   PRE SPI ani pro	Ahrimane:2
+2x Cynthia Ingold 6   SPI ani for pre	Ahrimane:2
+1x Dani		  2   ani		Nosferatu antitribu:2
+1x Mouse	  2   ani		Nosferatu:3
+1x Lisa Noble	  1   ani		Caitiff:3
+
+Library (90 cards)
+Master (14; 1 trifle)
+1x Animalism
+5x Blood Doll
+1x Club Zombie
+1x Depravity
+1x Dreams of the Sphinx
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+1x Rebel
+1x WMRH Talk Radio
+
+Action (15)
+1x Army of Rats
+2x Engling Fury
+2x Entrancement
+2x Legal Manipulations
+3x Nose of the Hound
+1x Sanguine Instruction
+1x Summoning, The
+1x Tier of Souls
+1x Trainer
+1x Wildebeest, The
+
+Ally (2)
+1x High Top
+1x Ohoyo Hopoksia (Bastet)
+
+Equipment (4)
+1x Ivory Bow
+1x Laptop Computer
+2x Leather Jacket
+
+Retainer (4)
+2x Murder of Crows
+1x Owl Companion
+1x Raven Spy
+
+Action Modifier/Combat (10)
+10x Swiftness of the Stag
+
+Reaction (20)
+4x Cats' Guidance
+6x Falcon's Eye
+10x Speak with Spirits
+
+Combat (21)
+1x Canine Horde
+9x Carrion Crows
+4x Majesty
+1x Pack Alpha
+6x Taste of Vitae

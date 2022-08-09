@@ -1,0 +1,69 @@
+Skin of Rock
+Newark, Ohio
+January 21st 2011
+2R+F
+17 players
+John Bell
+
+Deck Name: What the Flock?!
+
+Description: Cybele's master phases are key to working the
+Tend the Flocks for either speed or pool generation.
+The Ashur Tablets give me freedom to move cards quickly
+while allowing me to retrieve them for later when I need
+to tune my hand. The idea is to be able to have permanent
++bleed on as many minions as possible, lay as low as possible
+and bloat to live.
+
+Crypt (13 cards, min=25, max=40, avg=8.62)
+------------------------------------------
+5x Cybele		   10  ANI DAI OBF PRE SER THA		 Baali:4
+3x Annazir		   9   DAI OBF POT PRE		2 votes	 Baali:5
+3x Maureen, Dark Priestess 6   DAI PRE dom obf		1 vote	 Baali:4
+1x Nergal		   10  AUS DAI FOR OBF PRE THA		 Baali:5
+1x Azaneal		   7   DAI OBF OBT pre tha		 Baali:4
+
+Library (74 cards)
+Master (26; 2 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Dominate
+1x Giant's Blood
+1x Information Highway
+1x Kaymakli Nightmares
+1x Parthenon, The
+1x Perfectionist
+1x Secure Haven
+10x Tend the Flock
+2x Wider View
+
+Action (6)
+1x Call the Great Beast
+1x Contagion
+1x Entrancement
+2x Legal Manipulations
+1x Unleash Hell's Fury
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+1x Signet of King Saul, The
+1x Soul Gem of Etrius
+
+Action Modifier (27)
+4x Cloak the Gathering
+2x Elder Impersonation
+1x Enkil Cog
+3x Faceless Night
+3x I am Legion
+5x Lost in Crowds
+3x Psychomachia
+2x Spying Mission
+4x True Love's Face
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
+Combat (8)
+8x Majesty

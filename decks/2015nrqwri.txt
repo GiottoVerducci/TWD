@@ -1,0 +1,74 @@
+Northeast Regional Qualifier 2015
+Warwick, Rhode Island
+February 7th 2015
+3R+F
+23 players
+Matthew Morgan
+https://www.vekn.net/event-calendar/event/7885
+
+Deck Name: Payload
+
+Description: This deck originally had one Monastery of Shadows, but I must have moved it to another deck or something. Basically what you have here is an Edward Vignes deck where everybody costs 4 extra pool. The nice thing about all those titles is you can try to shut down bloat vote. Adding pool to the table is bad. I made this deck because I hadn't won a tournament with Ventrue yet (never had an Arika phase) and because I've lost my fear of being ousted and now just play a lot of offense. Haven't had a game go to time in quite a while.
+
+Anyway, the deck took 15 of 19 potential VPs all day, which might be a personal best. I let two get away in the first round because Peteo used some kind of mind control on me and convinced me he had wakes when he didn't. I then took 4 VPs on a pair of 5 player tables and swept the final, mostly by letting bad things happen to people who weren't me. All three of my preliminary rounds finished first and the final took around an hour.
+
+13 cards makes me feel better about not being crypt screwed and empirical evidence has supported that, but there's no real math behind it.
+
+Daring the Dawn was key in the final. Seduction is also very important. I got Enkil Cog out every time I drew it.
+
+Haven't gotten this card to do anything useful for me.
+
+Ephor is really just there for flavor, but has helped a little from time to time.
+
+I kept outsmarting myself and not being able to Parity Shift but having the most pool is a pretty good problem to have. I could see swapping a Parity Shift for Banishment. Great for dealing with the untapped bouncer.
+
+Crypt (13 cards, min=14, max=40, avg=7.15)
+------------------------------------------
+5x Mary Anne Blaire	10  AUS DOM FOR PRE ani pot	justicar  Ventrue:5
+1x Johannes Castelein	9   DEM DOM FOR PRE		prince	  Ventrue:4
+1x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince	  Ventrue:5
+1x Joseph DiGiaccomo	6   PRE aus dom for			  Ventrue:5
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
+1x Emily Carson		5   DOM for pre			primogen  Ventrue:5
+1x Victor Pelletier	5   PRE cel dom for			  Ventrue:4
+1x Dr. Solomon Grey	2   dom pre				  Caitiff:5
+1x Jackson Asher	2   dom					  Ventrue:4
+
+Library (69 cards)
+Master (15; 5 trifle)
+2x Anarch Troublemaker
+1x Blood Doll
+1x Ephor
+1x Giant's Blood
+1x Jake Washington
+2x Pentex(TM) Subversion
+1x Perfectionist
+1x Ventrue Headquarters
+3x Villein
+2x Wider View
+
+Action (14)
+2x Entrancement
+9x Govern the Unaligned
+1x Judgment: Camarilla Segregation
+2x Scouting Mission
+
+Political Action (3)
+1x Anarchist Uprising
+2x Parity Shift
+
+Action Modifier (21)
+5x Conditioning
+1x Daring the Dawn
+1x Enkil Cog
+12x Freak Drive
+2x Seduction
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Reaction (5)
+5x Deflection
+
+Combat (10)
+10x Majesty

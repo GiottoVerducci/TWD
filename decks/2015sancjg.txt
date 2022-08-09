@@ -1,0 +1,94 @@
+South African NC 2015
+Johannesburg, South Africa
+July 18th 2015
+3R+F
+10 players
+Simon Cross
+https://www.vekn.net/event-calendar/event/8063
+
+Deck Name: Saulot and Uriel's Hidden Hearts
+
+Description: Saulot brings out Uriel and both Hide their Hearts out,
+using either their Anesthetic Touch or Loving Agony in the vitals to
+disuade those you stand in their way -- all with a little help form the
+Neighbourhood Watch Commanders.
+
+Crypt (13 cards, min=17, max=44, avg=8)
+---------------------------------------
+5x Saulot, The Wanderer	11  AUS FOR OBE THA VAL dai		Salubri:4
+3x Uriel		8   AUS FOR VAL ani obe		bishop	Salubri antitribu:4
+1x Dela Eden		8   AUS FOR VAL cel dom			Salubri antitribu:3
+1x Aredhel		5   FOR VAL aus				Salubri antitribu:4
+1x Langa		5   VAL for				Salubri antitribu:4
+1x Nkechi		4   aus for val				Salubri antitribu:4
+1x Rashiel		3   for val				Salubri antitribu:4
+
+Library (90 cards)
+Master (18; 7 trifle)
+1x Fame
+1x Giant's Blood
+1x Metro Underground
+1x Perfectionist
+1x Powerbase: Montreal
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Smiling Jack, The Anarch
+2x Society of Leopold
+1x Two Wrongs
+2x Villein
+1x Wash
+3x Wider View
+1x WMRH Talk Radio
+
+Action (3)
+2x Brother in Arms
+1x Sense Death
+
+Ally (4)
+1x Carlton Van Wyk
+1x Mylan Horseed
+2x Neighborhood Watch Commander
+
+Equipment (1)
+1x Bowl of Convergence
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (6)
+1x Crocodile's Tongue
+2x Freak Drive
+1x Neutral Guard
+1x Repulsion
+1x Safe Passage
+
+Action Modifier/Combat (1)
+1x Burning Touch
+
+Action Modifier/Reaction (1)
+1x Gift of Sleep
+
+Reaction (32)
+2x Delaying Tactics
+1x Eluding the Arms of Morpheus
+1x Enhanced Senses
+2x Eyes of Argus
+1x Forced Awakening
+16x Hide the Heart
+2x My Enemy's Enemy
+3x On the Qui Vive
+1x Precognition
+1x Spirit's Touch
+2x Telepathic Misdirection
+
+Combat (22)
+4x Anesthetic Touch
+2x Blissful Agony
+2x Loving Agony
+2x Morphean Blow
+4x Target Vitals
+4x Unflinching Persistence
+4x Vitae Block
+
+Event (1)
+1x Hunger Moon

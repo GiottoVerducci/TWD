@@ -1,0 +1,77 @@
+Tournament
+Portsmouth, England
+December 2nd 2000
+Michael Eichler
+
+Lasombra on the Presidental Lawn (Sabbat War variant)
+
+Crypt (13 cards, min=16, max=35, avg=6.31)
+------------------------------------------
+2x Sela				 6   POT PRE cel obt	  bishop	Brujah antitribu:2
+1x Alvaro, The Scion of Angelica 9   OBT POT dom pre	  archbishop	Lasombra:2
+1x Antonio Delgado		 9   DOM OBT POT tha	  archbishop	Lasombra:2
+1x Francisco Domingo de Polonia	 9   DOM OBT POT PRE pro  archbishop	Lasombra:2
+1x Gratiano			 8   DOM OBT obf pot	  priscus	Lasombra:2
+1x Jessica			 7   AUS CEL OBT PRE	  bishop	Toreador antitribu:2
+1x Aurora Van Brande, Paladin	 6   OBT dom for pot	  		Lasombra:2
+1x Talley, The Hound		 6   OBT POT aus dom	  		Lasombra:2
+1x Guido Lucciano		 5   OBT dom obf	  		Lasombra:2
+1x Ignacio, The Black Priest	 4   dom obt pot	  		Lasombra:2
+1x Ramiro			 4   dom obt vic	  		Lasombra:2
+1x Cameron			 3   dom pot		  		Lasombra:2
+
+Library (89 cards)
+Master (18)
+3x Blood Doll
+1x Elysian Fields -- 2 pool
+1x Hungry Coyote, The -- 2 pool
+1x Information Highway
+3x Minion Tap
+1x Path of Night, The -- 1 pool
+1x Political Hunting Ground -- 2 pool
+3x Power Structure
+4x Presence
+
+Action (2)
+1x Bloodbath -- 1 blood
+1x Eternal Vigilance -- 1 blood
+
+Equipment (3)
+1x Ivory Bow -- 1 pool
+2x Laptop Computer -- 1 pool
+
+Political Action (17)
+1x Ancient Influence
+1x Cardinal Benediction
+4x Consanguineous Boon
+1x Conservative Agitation
+1x Crusade: Mexico City
+1x Dramatic Upheaval
+6x Kine Resources Contested
+1x Political Stranglehold
+1x Rumors of Gehenna
+
+Retainer (4)
+2x Camarilla Vitae Slave -- 2 blood
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (22)
+1x Awe
+4x Bewitching Oration
+3x Bribes
+3x Cryptic Rider -- 1 blood
+4x Shadow Play -- 1 blood
+4x Shroud of Night
+3x Voter Captivation
+
+Reaction (15)
+1x Cardinal Sin: Insubordination
+7x Deflection -- 1 blood
+2x Obedience
+5x Wake with Evening's Freshness
+
+Combat (8)
+2x Arms of the Abyss
+2x Entombment -- 2 blood
+4x Oubliette -- 1 blood

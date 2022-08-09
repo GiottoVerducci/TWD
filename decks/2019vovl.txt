@@ -1,0 +1,66 @@
+Vilnius Open
+Vilnius, Lithuania
+October 5th 2019
+3R+F
+16 players
+Anton Dudko
+https://www.vekn.net/event-calendar/event/9320
+
+-- 1GW5 + 3VP in final
+
+Deck Name: Unstoppable Sha Ennu
+
+I think 7-8 Will-o-the-Wisps would be better. I couldn't find so many and added
+1 copy of Changeling, Fiendish tongue and Occlusion instead. Had no chance to
+play Golconda and Festivo delo Estinto. Probably they can be removed. Bujo -
+just for fun)
+
+Crypt (12 cards, min=15, max=44, avg=7)
+---------------------------------------
+5x Sha-Ennu		11  ANI AUS CHI VIC obf tha	regent	Tzimisce:4
+4x Maman Boumba		4   inn mar				Martyr:4
+2x Elizabeth Westcott	5   AUS ani cel vic			Tzimisce:3
+1x Martin Franckel	3   AUS tha				Tremere:3
+
+Library (65 cards)
+Master (15; 2 trifle)
+1x Coven, The
+1x Dark Influences
+2x Fear of Mekhet
+1x Festivo dello Estinto
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+3x Jake Washington
+1x Monastery of Shadows
+1x Perfectionist
+1x Secure Haven
+1x Wider View
+
+Conviction (3)
+1x React with Conviction
+1x Second Sight
+1x Strike with Conviction
+
+Action (10)
+1x Bujo
+8x Fiendish Tongue
+1x Nightmare Curse
+
+Action Modifier (17)
+6x Changeling
+3x Enkil Cog
+4x Heart's Desire
+4x Will-o'-the-Wisp
+
+Action Modifier/Combat (3)
+3x Occlusion
+
+Reaction (16)
+4x Army of Apparitions
+4x Guard Dogs
+2x On the Qui Vive
+6x Telepathic Misdirection
+
+Event (1)
+1x Scourge of the Enochians

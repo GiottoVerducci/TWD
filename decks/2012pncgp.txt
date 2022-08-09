@@ -1,0 +1,66 @@
+Polish NC 2012
+Gliwice, Poland
+September 29th 2012
+3R+F
+40 players
+Marek Strzelczyk
+
+Deck Name: Malgorzata
+
+Crypt (16 cards, min=33, max=41, avg=9.13)
+------------------------------------------
+6x Malgorzata		 9   AUS DOM THA VIC pre	priscus		Tremere antitribu:4
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+2x Gerald Windham	 9   AUS DOM FOR THA				Tremere:5
+2x Paul Cordwood	 8   AUS DOM THA obf pre	bishop		Tremere antitribu:4
+1x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+1x Dr. John Dee		 9   ANI AUS DOM THA chi	prince		Tremere:4
+1x Troius		 8   AUS DOM THA cel		prince		Tremere:4
+
+Library (90 cards)
+Master (27; 6 trifle)
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Giant's Blood
+3x Golconda: Inner Peace
+1x Information Highway
+1x Lilith's Blessing
+1x Metro Underground
+1x Monastery of Shadows
+3x Parthenon, The
+1x Pentex(TM) Subversion
+3x Sudden Reversal
+1x Temptation of Greater Power
+6x Villein
+3x Zillah's Valley
+
+Action (13)
+2x Dominate Kine
+9x Govern the Unaligned
+2x Magic of the Smith
+
+Ally (1)
+1x Ponticulus
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sniper Rifle
+
+Political Action (2)
+2x Parity Shift
+
+Action Modifier (18)
+5x Conditioning
+1x Foreshadowing Destruction
+9x Mirror Walk
+3x Seduction
+
+Reaction (25)
+7x Deflection
+2x Eyes of Argus
+10x Obedience
+6x Second Tradition: Domain
+
+Event (2)
+1x Anthelios, The Red Star
+1x Scourge of the Enochians

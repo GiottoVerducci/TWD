@@ -1,0 +1,73 @@
+Praxis Seizure: Fortaleza
+Fortaleza, Brazil
+January 22nd 2017
+3R+F
+10 players
+Mailton Silva
+https://www.vekn.net/event-calendar/event/8570
+
+-- 4VP in final
+
+Deck Name: Heart of Nilceu
+
+Crypt (12 cards, min=16, max=28, avg=5.58)
+------------------------------------------
+3x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+2x Selena			6   AUS DOM THA			  Tremere antitribu:3
+1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		  Tremere:2
+1x Eugenio Estevez		6   AUS THA dom for		  Tremere:3
+1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+1x Cohn Rose			5   THA aus dom pre		  Tremere:3
+1x Hannigan			5   AUS THA dom			  Tremere antitribu:2
+1x Blythe Candeleria		3   THA aus			  Tremere:2
+1x Brooke			3   dom tha			  Tremere antitribu:2
+
+Library (90 cards)
+Master (13; 2 trifle)
+1x Arcane Library
+2x Blood Doll
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Powerbase: Montreal
+2x Vessel
+
+Action (15)
+1x Aranthebes, The Immortal
+1x Arson
+8x Govern the Unaligned
+4x Magic of the Smith
+1x Rutor's Hand
+
+Ally (1)
+1x Ponticulus
+
+Equipment (5)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+
+Action Modifier (5)
+2x Conditioning
+3x Mirror Walk
+
+Reaction (28)
+2x Deflection
+3x Eagle's Sight
+4x Enhanced Senses
+6x Eyes of Argus
+2x My Enemy's Enemy
+4x On the Qui Vive
+2x Precognition
+1x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (23)
+9x Apportation
+2x Soul Burn
+10x Theft of Vitae
+2x Walk of Flame

@@ -1,0 +1,66 @@
+Breath of the Dragon
+Le Repaire du Dragon, Paris, France
+March 30th 2008
+19 players
+Arnaud Baigts
+
+Deck Name: Take My Breath Away
+Created by: Jérôme Goyet (PcGeol)
+
+Description: The deck is a weenie vicissitude bleed deck with a
+defense base on breath / chiropteran marauder and sometimes a war
+ghoul. Easy to play and very aggressive.
+
+Crypt (12 cards, min=8, max=19, avg=3.58)
+-----------------------------------------
+2x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
+2x Lolita Houston	4   VIC aus		Tzimisce:2
+2x Horatio		2   vic			Tzimisce:2
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Hugo			4   POT pre vic		Brujah antitribu:2
+1x Ramiro		4   dom obt vic		Lasombra:2
+1x Terrence		4   ani aus vic		Tzimisce:2
+1x Rex, The Necronomist	3   pot pro vic		Pander:2
+1x Olga Triminov	1   vic			Pander:3
+
+Library (90 cards)
+Master (16; 4 trifle)
+1x Anarch Troublemaker
+1x Barrens, The
+2x Blood Doll
+1x Library Hunting Ground
+1x Pentex(TM) Subversion
+1x Powerbase: Zürich
+3x Rötschreck
+4x Vessel
+2x Vicissitude
+
+Action (12)
+1x Aranthebes, The Immortal
+11x Fiendish Tongue
+
+Ally (3)
+3x War Ghoul
+
+Retainer (6)
+2x Corpse Balloon
+1x J. S. Simmons, Esq.
+2x Revenant
+1x Tasha Morgan
+
+Action Modifier (12)
+12x Changeling
+
+Action Modifier/Combat (6)
+6x Plasmic Form
+
+Reaction (10)
+2x Delaying Tactics
+5x On the Qui Vive
+1x Poison Pill
+2x Wake with Evening's Freshness
+
+Combat (25)
+9x Breath of the Dragon
+11x Chiropteran Marauder
+5x Inner Essence

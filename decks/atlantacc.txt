@@ -1,0 +1,57 @@
+Atlanta NAC Qualifier
+Atlanta, Georgia
+April 7th 2001
+19 players
+David Anderson-Dávila
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/1MUZI9HscaU
+
+Deck Name: Bloat and Vote and Bleed 01
+
+Description: OBF, Minion Tap/5th, Computer Hack.
+Thrown Gate for combat defense.
+Ancilla Empowerment to whack the weenie decks.
+
+Crypt (12 cards, min=11, max=35, avg=6.17)
+------------------------------------------
+2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Carlotta Giovanni		7   NEC POT dom obf	 	   Giovanni:2
+1x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
+1x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Agrippina			4   OBF pot		 	   Nosferatu:1
+1x Duck				3   obf pot		 	   Nosferatu:1
+1x Dimple			2   obf			 	   Nosferatu:1
+1x Normal			2   obf			 	   Malkavian:1
+
+Library (80 cards)
+Master (16)
+1x Barrens, The
+2x Information Highway
+10x Minion Tap
+2x Parthenon, The
+1x Storage Annex
+
+Action (24)
+10x Computer Hacking
+8x Fifth Tradition: Hospitality
+2x Psychic Veil
+1x Rampage
+3x Third Tradition: Progeny
+
+Political Action (9)
+1x Ancilla Empowerment
+7x Kine Resources Contested
+1x Rumors of Gehenna
+
+Action Modifier (19)
+5x Cloak the Gathering
+5x Faceless Night
+4x Forgotten Labyrinth
+5x Lost in Crowds
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Combat (7)
+7x Thrown Gate

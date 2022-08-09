@@ -1,0 +1,80 @@
+Third Planet Invitational
+Torrance, California
+October 27th 2001
+12 players
+Dennis Lien
+https://groups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/J3zAejqTfRA/Bin83TNrP-0Ji
+
+https://groups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/llQH7j4T23M/-1XPyZp13K4J
+
+Scourge of El Segundo
+
+"The Waiting"
+
+This is the first time I've ever run this deck or anything like it. I
+attempted to build a deck that could survive long enough in a tournament
+environment in order to make a deal or two and then finish off my prey
+and maybe my grand prey in one huge flurry. Based on my
+previous tournament experience I figured I'd face alot of bleed and vote
+and not much rush/combat that didn't feature IG (in which case
+I'd be screwed anyway), hence the lack of combat cards. The idea is to
+generate enough blood to keep your pool away from any huge
+votes or bleeds, sudden or DI anything that's gonna hurt you real bad,
+try not to piss off the D-attackers, let your predator bleed your
+prey and wait for the moment to strike.
+
+The crypt features 7 votes and plenty of dominate for those
+deflections. Plus with 42 master cards out of 90 total, Anson is a MUST.
+Ulugh and Cardano are the Day Op finishers and Muaziz is versatility.
+You must be VERY patient playing this deck, you can't really go
+forward until you're ready to commit everything for the kill. I tried
+to rifle through the deck as quickly as possible (Storage
+Annex/Ulugh/Parthenon) and get the cards I need for the finisher locked
+in the annexes. All you're looking for is to get your prey down
+to 7 pool, then send Muaziz in to knock out any stoppers with a
+Revelations and then go for it! Ultimately this is proof that a deck
+doesn't have to be some kind of "nasty creature" to win a tourney.
+
+Crypt (12 cards, min=29, max=39, avg=8.5)
+-----------------------------------------
+3x Ulugh Beg, The Watcher	10  AUS DOM THA cel for pot	justicar  Tremere:1
+3x Cardano			9   DOM FOR THA ani aus cel	prince	  Tremere:1
+3x Anson			8   CEL PRE aus dom		prince	  Toreador:1
+3x Muaziz, Archon of Ulugh Beg	7   THA aus dom for			  Tremere:2
+
+Library (90 cards)
+Master (42)
+2x Anarch Revolt
+1x Arcane Library
+4x Archon Investigation
+2x Blood Doll
+6x Direct Intervention
+2x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+1x Legendary Vampire
+6x Minion Tap
+4x Parthenon, The
+1x Powerbase: Montreal
+6x Storage Annex
+1x Succubus Club
+4x Sudden Reversal
+
+Action (12)
+2x Fifth Tradition: Hospitality
+8x Govern the Unaligned
+2x Revelations
+
+Action Modifier (9)
+3x Conditioning
+3x Day Operation
+3x Perfect Clarity
+
+Reaction (27)
+6x Deflection
+3x Delaying Tactics
+3x Forced Awakening
+3x Obedience
+6x Redirection
+3x Second Tradition: Domain
+3x Wake with Evening's Freshness

@@ -1,0 +1,67 @@
+Fortaleza on Lackey
+Online
+April 11th 2021
+2R+F
+12 players
+Diego Rodrigues
+https://www.vekn.net/event-calendar/event/9768
+
+-- 3VP in final
+
+Deck Name: Wraith Legion
+
+Crypt (12 cards, min=8, max=40, avg=6.08)
+-----------------------------------------
+4x Erlik	   10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+3x Anarch Convert  1   -none-		    Caitiff:ANY
+1x Babalawo Alafin 7   AUS FOR NEC ani	    Harbinger of Skulls:4
+1x Erebus	   7   AUS FOR NEC dem	    Harbinger of Skulls:3
+1x Mina Grotius	   6   FOR NEC cel	    Harbinger of Skulls:3
+1x Nicomedes	   5   aus for nec vic	    Harbinger of Skulls:4
+1x Solomon Batanea 5   AUS FOR nec	    Harbinger of Skulls:4
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Barrens, The
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+4x Liquidation
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+2x Vessel
+4x Villein
+
+Ally (10)
+10x Emerald Legionnaire
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Shaal Fragment
+
+Action Modifier (8)
+4x Call of the Hungry Dead
+4x Trochomancy
+
+Action Modifier/Combat (4)
+4x Breath of Thanatos
+
+Reaction (21)
+3x Delaying Tactics
+5x Eyes of Argus
+2x Funeral Wake
+2x My Enemy's Enemy
+3x On the Qui Vive
+6x Telepathic Misdirection
+
+Combat (24)
+2x Aura Reading
+5x Hidden Strength
+4x Superior Mettle
+5x Target Vitals
+4x Taste of Vitae
+4x Weighted Walking Stick
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

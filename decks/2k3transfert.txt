@@ -1,0 +1,75 @@
+Transfer of Power
+Paris, France
+November 1st 2003
+35 players
+Philippe Morel
+
+Deck Name: presence auspex anarchs vote
+
+Crypt (12 cards, min=20, max=24, avg=5.42)
+------------------------------------------
+4x Jost Werner			   6   AUS PRE ani	Toreador antitribu:2
+1x Sheila Mezarin		   6   AUS PRE cel for	Toreador antitribu:2
+1x Barth			   5   PRE aus cel	Toreador:3
+1x Boss Callihan		   5   PRE dom for pro	Ventrue:3
+1x Creamy Jade			   5   PRE aus cel vic	Toreador antitribu:3
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	Ventrue:2
+1x Rigby, Crusade Vanguard	   5   CEL PRE aus pot	Brujah antitribu:2
+1x Rose, The			   5   PRE VIC aus	Tzimisce:3
+1x Sir Marriot D'Urban		   5   PRE aus obf ser	Follower of Set:2
+
+Library (90 cards)
+Master (30; 5 trifle)
+1x Anarch Free Press, The -- The
+1x Anarch Railroad
+1x Anarch Troublemaker
+3x Auspex
+1x Creepshow Casino
+1x Direct Intervention
+2x Dreams of the Sphinx
+5x Galaric's Legacy
+1x Hospital Food
+4x Minion Tap
+1x Rumor Mill, Tabloid Newspaper, The
+1x Seattle Committee
+1x Secure Haven
+2x Sudden Reversal
+5x Visit from the Capuchin
+
+Action (12)
+3x Charming Lobby
+2x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+2x Intimidation
+2x Social Charm
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (13)
+1x Anarch Salon
+1x Domain Challenge
+2x Dramatic Upheaval
+1x Firebrand
+8x Kine Resources Contested
+
+Retainer (2)
+2x Marijava Ghoul
+
+Action Modifier (13)
+2x Awe
+4x Bewitching Oration
+3x Change of Target
+4x Voter Captivation
+
+Reaction (10)
+2x Delaying Tactics
+2x Forced Awakening
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (9)
+4x High Ground
+5x Majesty

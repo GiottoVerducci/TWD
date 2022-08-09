@@ -1,0 +1,74 @@
+Political Flux
+Grand Rapids, Michigan
+April 26th 2003
+12 players
+Neil Paananen
+
+Deck Name: Lies and Obfuscations (aka Your Government)
+
+Description: Use the PRE obf vamps to call charming lobbies with
+bewitching orations and voter caps. Use the obf vamps to call the
+next vote, or piggyback another charming lobby with a pre obf vamp.
+Get permanent votes as quickly as possible. Generally don't bother
+blocking, as you shouldl be gaining a lot during your turn.
+
+The Protected Resources should help a lot, however I found I often
+had to burn them to get the edge or to bleed because I didn't have
+votes or my votes wouldn't have passed. So obviously the deck needs
+some work, particularly with the new voting system of the Anarch set.
+
+Crypt (12 cards, min=9, max=24, avg=4.08)
+-----------------------------------------
+2x Antoinette, She Who Watches	    6	AUS PRE cel obf		primogen  Toreador:3
+2x Sir Marriot D'Urban		    5	PRE aus obf ser			  Follower of Set:2
+1x Qufur am-Heru		    7	OBF PRE SER cel tha		  Follower of Set:2
+1x Hadrian Garrick		    4	obf pre				  Follower of Set:2
+1x Nepata			    4	obf pre ser			  Follower of Set:2
+1x Panagos Levidis		    3	ani obf				  Gangrel:2
+1x Regilio, The Seeker of Akhenaten 3	aus obf				  Nosferatu:2
+1x Watenda			    3	obf				  Malkavian:2
+1x Krid				    2	obf				  Nosferatu:3
+1x Basil			    1	obf				  Pander:2
+
+Library (90 cards)
+Master (17)
+1x Barrens, The
+3x Blood Doll
+2x Dreams of the Sphinx
+1x Fear of Mekhet
+2x Minion Tap
+1x Opium Den
+2x Presence
+3x Protected Resources
+1x Secure Haven
+1x Storage Annex
+
+Action (6)
+6x Charming Lobby
+
+Political Action (25)
+1x Command of the Harpies
+8x Conservative Agitation
+2x Disputed Territory
+3x Domain Challenge
+2x Dramatic Upheaval
+1x Invitation Accepted
+4x Kine Resources Contested
+1x Praxis Seizure: Brussels
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Glasgow
+1x Praxis Seizure: Monaco
+
+Action Modifier (33)
+1x Awe
+11x Bewitching Oration
+4x Cloak the Gathering
+4x Lost in Crowds
+2x Spying Mission
+11x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Combat (5)
+5x Majesty

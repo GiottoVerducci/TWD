@@ -1,0 +1,70 @@
+English ECQ
+Burton-on-Trent, England
+May 16th 2009
+24 players
+Mike Wilson
+
+Deck Name: the incidental bishops
+
+Crypt (12 cards, min=12, max=37, avg=6.58)
+------------------------------------------
+3x Antón de Concepción	  9   ANI DOM OBT POT aus	archbishop  Lasombra:4
+2x Julio Martinez	  9   ANI DOM OBF POT nec	bishop	    Nosferatu antitribu:3
+1x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf		    Nosferatu antitribu:4
+1x Joseph Cambridge	  6   POT ani dom obf		bishop	    Nosferatu antitribu:4
+1x Otieno		  6   OBT POT ani dom			    Lasombra:4
+1x Virginie, Prodigy	  6   DOM POT obt		bishop	    Lasombra:4
+1x Stick		  3   ANI				    Nosferatu antitribu:4
+1x Mouse		  2   ani				    Nosferatu:3
+1x Lisa Noble		  1   ani				    Caitiff:3
+
+Library (90 cards)
+Master (12; 3 trifle)
+2x Blood Doll
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+1x KRCG News Radio
+1x Vessel
+1x Visit from the Capuchin
+1x Wall Street Night, Financial Newspaper
+2x Wash
+1x WMRH Talk Radio
+
+Action (12)
+1x Army of Rats
+7x Govern the Unaligned
+1x Preternatural Strength
+3x Scouting Mission
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (5)
+1x Mr. Winthrop
+1x Owl Companion
+3x Raven Spy
+
+Action Modifier (13)
+8x Bonding
+5x Conditioning
+
+Reaction (22)
+7x Cats' Guidance
+7x Deflection
+4x On the Qui Vive
+2x Sense the Savage Way
+2x Wake with Evening's Freshness
+
+Combat (23)
+6x Aid from Bats
+8x Carrion Crows
+3x Taste of Vitae
+3x Thrown Gate
+3x Thrown Sewer Lid
+
+Event (1)
+1x Dragonbound

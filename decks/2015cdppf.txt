@@ -1,0 +1,64 @@
+Coupe de Paris - French NCQ
+Paris, France
+March 14th 2015
+3R+F
+19 players
+Arnaud Baigts
+https://www.vekn.net/event-calendar/event/8016
+
+-- 2GW10 + 0.5VP in final
+
+Crypt (12 cards, min=9, max=22, avg=3.75)
+-----------------------------------------
+2x Rake					6   PRE aus cel pot	prince	Brujah:1
+2x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
+1x Hector Sosa				4   POT pre			Brujah:1
+1x Yuri, The Talon			4   cel pot pre			Brujah:1
+1x Dre, Leader of the Cold Dawn		3   cel pot			Brujah:1
+1x Raziya Samater			3   ani pot			Brujah:2
+1x Uma Hatch				3   cel pre			Brujah:1
+1x Angel				2   cel				Brujah:1
+1x Lupo					2   pot				Brujah:1
+1x Vasilis, The Traitor of Don Cruez	2   pre				Brujah:2
+
+Library (66 cards)
+Master (27; 1 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+7x Brujah Debate
+1x Carthage Remembered
+1x Coven, The
+1x Haven Uncovered
+1x Life Boon
+2x New Carthage
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Temptation of Greater Power
+1x Warzone Hunting Ground
+1x WMRH Talk Radio
+
+Action (9)
+9x Embrace, The
+
+Political Action (18)
+2x Brujah Justicar
+6x Consanguineous Boon
+1x Domain Challenge
+2x Kine Resources Contested
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Venice
+2x Rumors of Gehenna
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (2)
+2x Earthshock
+
+Event (2)
+1x Anthelios, The Red Star
+1x Uncoiling, The

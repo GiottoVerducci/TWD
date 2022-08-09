@@ -1,0 +1,67 @@
+2004 East Central Regional Qualifier
+Northfield, New Jersey
+January 24th 2004
+50 players
+Ben Peal
+
+Deck Name: Cheesequake
+
+Description: This deck is total cheese. The qualifier was in
+New Jersey. There's a town in New Jersey called Cheesequake,
+so I thereby dub this deck Cheesequake.
+
+- Ben Peal, Prince of Boston
+fudjo@mindstorm.com
+
+Crypt (12 cards, min=15, max=26, avg=5.25)
+------------------------------------------
+1x Kite				7   AUS DEM obf pre	 bishop	  Malkavian antitribu:2
+1x Korah			7   AUS DEM OBF ani	 priscus  Malkavian antitribu:2
+1x Artemis			6   DEM OBF aus cel for	 	  Malkavian antitribu:2
+1x Dolphin Black		6   AUS DEM OBF		 	  Malkavian antitribu:2
+1x Dr. Douglas Netchurch	6   AUS OBF dem dom	 	  Malkavian:3
+1x Tony				6   AUS DEM dom obf	 	  Malkavian:3
+1x Evan Klein			5   OBF aus dem pre	 	  Malkavian:3
+1x Persia, The Beautiful Statue	5   DEM aus obf		 	  Malkavian:3
+1x Adelaide Davis		4   aus dem obf		 	  Malkavian:3
+1x Claven			4   aus dem obf		 	  Malkavian antitribu:2
+1x Jeremy Talbot		4   dem obf		 	  Malkavian:3
+1x Yorik			3   dem obf		 	  Malkavian antitribu:2
+
+Library (90 cards)
+Master (14)
+1x Anarch Troublemaker
+1x Auspex
+1x Barrens, The
+4x Blood Doll
+1x Dementation
+1x Institution Hunting Ground
+1x Life Boon
+1x Misdirection
+1x Rumor Mill, Tabloid Newspaper, The
+2x Sudden Reversal
+
+Action (19)
+1x Call, The
+18x Kindred Spirits
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Action Modifier (34)
+1x Change of Target
+5x Cloak the Gathering
+6x Confusion
+2x Domain of Evernight
+5x Elder Impersonation
+5x Faceless Night
+5x Lost in Crowds
+5x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (19)
+3x Enhanced Senses
+8x Telepathic Misdirection
+8x Wake with Evening's Freshness

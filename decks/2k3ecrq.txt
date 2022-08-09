@@ -1,0 +1,66 @@
+East Central Regional Qualifier
+Rockville, Maryland
+June 7th 2003
+52 players
+Forrest Nielsen
+
+Deck Name: Lost Girls Just Wanna Have Fun
+
+Description: Daughter of Cacophony Deck
+2003 Mid-Atlantic Regional Qualifier winning deck
+
+Crypt (12 cards, min=17, max=24, avg=5.25)
+------------------------------------------
+2x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+2x Jost Werner			  6   AUS PRE ani	Toreador antitribu:2
+2x Sheila Mezarin		  6   AUS PRE cel for	Toreador antitribu:2
+2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+1x Creamy Jade			  5   PRE aus cel vic	Toreador antitribu:3
+1x Mercy, Knight Inquisitor	  5   AUS cel dom pre	Toreador antitribu:2
+1x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+
+Library (90 cards)
+Master (17)
+3x Blood Doll
+2x Dreams of the Sphinx
+1x Fetish Club Hunting Ground
+2x Jake Washington
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+2x Paris Opera House
+1x Powerbase: Montreal
+2x Presence
+1x Secure Haven
+1x Sudden Reversal
+
+Action (19)
+1x Arson
+1x Art's Traumatic Essence
+2x Entrancement
+1x Intimidation
+4x Legal Manipulations
+10x Social Charm
+
+Retainer (2)
+2x Marijava Ghoul
+
+Action Modifier (16)
+5x Aire of Elation
+6x Missing Voice, The
+5x Siren's Lure
+
+Reaction (18)
+1x Delaying Tactics
+2x My Enemy's Enemy
+3x Telepathic Misdirection
+6x Tourette's Voice
+6x Wake with Evening's Freshness
+
+Combat (18)
+3x Majesty
+6x Resilience
+2x Skin of Steel
+4x Staredown
+2x Superior Mettle
+1x Toreador's Bane

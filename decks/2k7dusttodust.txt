@@ -1,0 +1,57 @@
+Dust to Dust
+Udine, Italy
+January 14th 2007
+18 players
+Andrea Ravera
+
+Deck Name: [Lasombra] Turbo Lucita
+
+Description: Put the soul gem on Lucita ASAP, she's a 8 cap, untap
+with freak drive (costs 1 blood). Employ camarilla vitae slave (costs
+2 blood, now lucita is a 9 cap), untap with freak drive (costs 1 blood).
+Perform Embrace (costs 2 blood). With 2 blood left on her, and tapped,
+Lucita perfomrs Force of Will (cost 1 blood), and plays conditioning
+(cost 1 blood). Now lucita has zero blood, and takes 2 aggravated damage,
+which burn her, triggering soul gem. A new copy of lucita enters play,
+and inherits the gem. She is a pretty new and different vamp from the
+one that has burned before, so she can bleed again, recruit another slave, etc...
+
+Combo-breed-bleed.
+
+Deadly, and hard to play.
+
+Crypt (18 cards, min=32, max=32, avg=8)
+---------------------------------------
+13x Lucita	 8    DOM FOR OBT cel pot  Lasombra:2
+5x  Lucita (ADV) 8    DOM FOR OBT cel pot  Lasombra:2
+
+Library (90 cards)
+Master (4)
+1x Elysian Fields
+3x Vast Wealth
+
+Action (23)
+1x Distraction
+9x Embrace, The
+10x Force of Will
+3x Hourglass of the Mind
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (6)
+6x Soul Gem of Etrius
+
+Retainer (10)
+10x Camarilla Vitae Slave
+
+Action Modifier (42)
+9x Conditioning
+9x Daring the Dawn
+2x Forced March
+16x Freak Drive
+3x Shadow Play
+3x Shroud of Absence
+
+Combat (4)
+4x Shadow Body

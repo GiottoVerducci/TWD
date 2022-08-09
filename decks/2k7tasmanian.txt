@@ -1,0 +1,68 @@
+Tasmanian State Qualifier
+Hobart, Australia
+July 21st 2007
+3R+F
+12 players
+Jason Ryan
+
+Deck Name: The Black Parade
+
+: Liquidate to gain pool and get Zombies into your ash.
+Sudario back the cards you need, depending on the table situation -
+DTs, Deflections, Archons, Conditionings, etc. Fame/Dragonbound/bleeds
+for the oust.
+
+Crypt (12 cards, min=12, max=24, avg=4.33)
+------------------------------------------
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Rudolfo Giovanni	3   NEC			Giovanni:2
+1x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+1x Francesca Giovanni	4   dom nec pot		Giovanni:2
+1x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Cristofero Giovanni	3   nec pot		Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+1x Mario Giovanni	3   nec pot		Giovanni:2
+
+Library (80 cards)
+Master (28)
+4x Acquired Ventrue Assets
+1x Archon Investigation
+1x Charisma
+3x Direct Intervention
+2x Fame
+1x Jake Washington
+5x Liquidation
+3x Memories of Mortality
+4x Parthenon, The
+3x Path of Bone, The
+1x Pentex(TM) Subversion
+
+Action (8)
+2x Graverobbing
+6x Sudario Refraction
+
+Ally (20)
+1x Carlton Van Wyk
+1x Leonardo, Mortician
+18x Shambling Hordes
+
+Equipment (4)
+4x Unlicensed Taxicab
+
+Action Modifier (8)
+6x Call of the Hungry Dead
+2x Conditioning
+
+Reaction (5)
+2x Deflection
+3x Delaying Tactics
+
+Combat (1)
+1x Fake Out
+
+Event (6)
+1x Anthelios, The Red Star
+1x Dragonbound
+1x FBI Special Affairs Division
+3x Unmasking, The

@@ -1,0 +1,67 @@
+3rd Annual Blood Runs Cold
+The Plaza Bowl, Virginia, Minnesota
+February 17th 2008
+2R+F
+13 players
+Jim Miller
+
+-- 4VP in final
+
+Deck Name: Fran and Alex
+
+Crypt (12 cards, min=31, max=43, avg=9.5)
+-----------------------------------------
+3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+3x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+2x Marcellus	   8   AUS CEL pro		prince		Toreador:2
+1x Lucas Halton	   10  AUS CEL DOM THA qui	prince		Tremere:3
+1x Madame Guil	   10  AUS CEL PRE for pot ser	justicar	Toreador:3
+1x Fleurdumal	   8   AUS DEM PRE cel tha	prince		Toreador:3
+1x Ira Rivers	   7   AUS CEL ani pre		prince		Toreador:3
+
+Library (90 cards)
+Master (15; 2 trifle)
+1x Art Museum
+1x Blood Doll
+1x Erciyes Fragments, The
+2x Grooming the Protégé
+1x Information Highway
+3x Minion Tap
+1x Powerbase: Montreal
+1x Tomb of Rameses III
+2x Toreador Grand Ball
+2x Vessel
+
+Action (5)
+4x Blood Hunt
+1x Revelations
+
+Equipment (11)
+6x .44 Magnum
+1x Bowl of Convergence
+2x Leather Jacket
+2x Sniper Rifle
+
+Political Action (9)
+7x Anathema
+1x Ancient Influence
+1x Archon
+
+Action Modifier (2)
+1x Aire of Elation
+1x Awe
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (20)
+4x Eagle's Sight
+3x Enhanced Senses
+4x Quicken Sight
+9x Second Tradition: Domain
+
+Combat (26)
+9x Blur
+5x Concealed Weapon
+7x Sideslip
+5x Taste of Vitae

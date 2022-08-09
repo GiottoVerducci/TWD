@@ -1,0 +1,108 @@
+Old Friends: Newark
+Heath, Ohio
+July 25th 2021
+2R+F
+13 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/9809
+
+-- 1GW5 + 2VP in final
+
+Deck Name: Dirty Nights
+Description: Night Moves + Inside Dirt
+
+A fun day with a little luck thrown in.
+
+Round 1: I swept a 5-player table. Going fourth gave me the right set up against the large vampire
+decks in front of me. My predator was a bruise-bleed deck that I managed to mostly ignore because
+of the pool gain from the ousts. The star card this round was Millicent Smith, which I dropped in
+the two player. I could stealth by blocks and he could not. It sealed the sweep.
+
+Round 2: I sat prey of a speed War Ghoul deck. It went about as expected. I lost a minion a turn,
+but had my prey as close as 2 pool before finally succumbing.
+
+I was first seed for the finals. Knowing what the other decks were playing I was unsure that any
+of them could be fast enough or robust enough to stop the speed War Ghoul deck. I chose to sit as
+the predator of that deck hoping that the burn blood effect on Inside Dirt would prevent any
+War Ghouls from getting into play. (I never actually used that effect all day.)
+
+Finals seating:
+Mark Loughman: AAA Aching Beauty ->
+Brad Cashdollar: Stanislava ->
+Jay Kristoff: Black Hand block ->
+Me: Inside Dirt ->
+Bill Troxel: Speed War Ghoul
+
+Bill had a bad crypt draw and did not get a Tzimisce on turn one. I opened with two Clotho's Gift
+in hand and instead of attempting any forward actions ensured that I got extra crypt cards as fast
+as possible. Bill was without a War Ghoul for several turns, but instead of using my first Inside
+Dirt to empty a vampire I decided that I had enough vampires in play and would rather Bill spend
+the pool. Bill finally gets a War Ghoul. At the start of his next turn, he is at 7 pool and I have
+5 vampires in play. He plays The Parthenon (for a cycle) and then locks it for Dia de los Muetos. I
+Wash the latter. I lose an empty Lubomira to a War Ghoul rush. Bill spends 3 more pool on another
+War Ghoul leaving himself at 2 pool. He then calls Autorkis Persecution. Mark had vote lock. Both
+Bill and I both attempted to negotiate with Mark; Bill won the negotiations. So, I Delayed the
+vote. Bill had a Cryptic Rider and a second Autarkis in hand. I never would have ousted him had
+those passed. He managed to cycle into a Con Boon and ended his turn with 4 pool. Mark is close to
+ousting Brad, calling Parity Shift and giving Bill 2 pool. Next turn I manage to oust Bill with my 4
+remaining vampires. Mark ousts Brad. After another turn, Mark sits at 6 pool. I play Night Moves and
+follow that with Inside Dirt. Jay plays Eagle Sight, attempting to block. I play superior Forgotten
+Labyrinth and a Spying Mission. Jay DI's the Spying Mission and I follow up with a Cloak. Jay
+declines to block. A Night Moves and a stealthed bleed later, I oust Mark.
+
+I have two cards left in my library. I concede my VP to Jay winning the 2-2-1 split on seeding.
+
+Crypt (12 cards, min=8, max=18, avg=3.25)
+-----------------------------------------
+2x Lubomira Hradok 3   OBF		Nosferatu antitribu:5
+1x Frank Litzpar   5   OBF ani for pot	Nosferatu antitribu:4
+1x Skidmark	   5   FOR OBF aus pot	Nosferatu antitribu:4
+1x Aaron Bathurst  4   for obf pot	Nosferatu antitribu:4
+1x Jeffrey Mullins 4   OBF cel		Gangrel antitribu:4
+1x Skulk	   4   OBF ani		Nosferatu antitribu:5
+1x Blister	   3   obf pot		Nosferatu antitribu:4
+1x Alu		   2   obf		Assamite:5
+1x Bloodfeud	   2   obf		Malkavian antitribu:4
+1x Denette Stensen 2   obf		Gangrel antitribu:4
+1x Old Neddacka	   2   obf		Nosferatu antitribu:4
+
+Library (69 cards)
+Master (13; 6 trifle)
+2x Archon Investigation
+3x Dreams of the Sphinx
+1x Millicent Smith, Puritan Vampire Hunter
+1x Nosferatu Kingdom
+3x Villein
+3x Wash
+
+Action (28)
+1x Aranthebes, The Immortal
+3x Clotho's Gift
+3x Computer Hacking
+10x Inside Dirt
+11x Night Moves
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (1)
+1x Domain Challenge
+
+Action Modifier (18)
+3x Cloak the Gathering
+3x Faceless Night
+2x Forgotten Labyrinth
+1x Freak Drive
+3x Lost in Crowds
+2x Marked Path
+4x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (4)
+2x Delaying Tactics
+2x On the Qui Vive
+
+Event (1)
+1x Narrow Minds

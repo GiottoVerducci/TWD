@@ -1,0 +1,70 @@
+Belgian ECQ
+Brussels, Belgium
+March 23rd 2014
+3R+F
+16 players
+Erol Hammer
+
+-- 2GW7 + 3VP in final
+
+Deck Name: The Heyder
+
+Crypt (12 cards, min=34, max=40, avg=9.5)
+-----------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+4x Marcus Vitel (ADV)			  10  DOM FOR OBF OBT POT PRE		    Lasombra:3
+3x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Tobias Smith				  7   DOM OBT PRE pot			    Lasombra:3
+
+Library (90 cards)
+Master (21; 7 trifle)
+1x Black Forest Base
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Fortitude
+1x Giant's Blood
+2x Information Highway
+2x Legendary Vampire
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Power Structure
+5x Villein
+2x Wash
+
+Action (11)
+3x Entrancement
+4x Govern the Unaligned
+1x Heart of the City
+2x Intimidation
+1x Under Siege
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Zaire River Ferry
+
+Political Action (8)
+1x Anarchist Uprising
+1x Ancient Influence
+2x Banishment
+2x Cardinal Benediction
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (31)
+2x Bewitching Oration
+2x Enkil Cog
+6x Freak Drive
+6x Iron Glare
+6x Shadow Play
+6x Shroud of Absence
+3x Voter Captivation
+
+Reaction (12)
+7x Deflection
+5x Obedience
+
+Combat (5)
+5x Majesty

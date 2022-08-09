@@ -1,0 +1,63 @@
+Dylan
+Genoa, Italy
+March 7th 2010
+27 players
+Giovanni Ambrosio
+
+Crypt (12 cards, min=28, max=44, avg=9.17)
+------------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
+3x Dmitra Ilyanova	 9   CEL FOR POT PRE obf  justicar	Brujah:5
+3x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
+1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE  inner circle	Toreador:4
+1x Benjamin Rose	 7   AUS OBF ani pot	  prince	Nosferatu:5
+
+Library (90 cards)
+Master (17; 10 trifle)
+1x Black Forest Base
+1x Dark Influences
+1x Giant's Blood
+1x Institution Hunting Ground
+1x Marrakesh Codex, The
+1x Monastery of Shadows
+1x Secure Haven
+10x Villein
+
+Action (2)
+2x Entrancement
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (18)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+3x Conservative Agitation
+7x Kine Resources Contested
+2x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (28)
+4x Awe
+4x Bewitching Oration
+5x Elder Impersonation
+5x Forgotten Labyrinth
+4x Lost in Crowds
+6x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (13)
+3x Eyes of Argus
+3x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (8)
+6x Majesty
+2x Staredown
+
+Event (1)
+1x Fourth Cycle, The

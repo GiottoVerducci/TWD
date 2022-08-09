@@ -1,0 +1,62 @@
+Penrith Qualifier
+Penrith, Australia
+May 24th 2009
+10 players
+Claudio Gomes
+
+Deck Name: Monkey bashers
+
+Crypt (12 cards, min=4, max=26, avg=3.67)
+-----------------------------------------
+3x Anarch Convert		   1   -none-		Caitiff:ANY
+3x Tupdog			   1   POT VIS		Gargoyle:3
+2x Richter, The Templar of Du Mont 7   CEL POT for pre	Brujah antitribu:2
+2x Jack				   6   cel for pot san	Blood Brother:2
+2x Sheila Mezarin		   6   AUS PRE cel for	Toreador antitribu:2
+
+Library (90 cards)
+Master (18; 4 trifle)
+1x Anarch Free Press, The
+1x Fame
+1x Flames of Insurrection
+4x Haven Uncovered
+1x Hospital Food
+1x Monster
+1x Poacher's Hunting Ground
+1x Seattle Committee
+1x Secure Haven
+1x Tension in the Ranks
+1x Twilight Camp
+2x Vessel
+2x Villein
+
+Action (5)
+2x Bum's Rush
+2x Harass
+1x Heroic Might
+
+Equipment (2)
+2x .44 Magnum
+
+Action Modifier (10)
+5x Forced March
+5x Monkey Wrench
+
+Reaction (13)
+3x My Enemy's Enemy
+4x On the Qui Vive
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (42)
+1x Concealed Weapon
+3x Disarm
+7x Diversion
+1x Fast Hands
+6x Flash
+3x Hell-for-Leather
+3x Immortal Grapple
+6x Psyche!
+3x Sideslip
+2x Skin of Steel
+7x Taste of Vitae

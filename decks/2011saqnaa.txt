@@ -1,0 +1,48 @@
+SA Qualifier
+North Adelaide, Australia
+February 19th 2011
+3R+F
+14 players
+Leslie Tatel
+
+-- 3VP in final
+
+Deck Name: Death comes (at) every turn
+
+Crypt (12 cards, min=28, max=32, avg=7.33)
+------------------------------------------
+4x Theo Bell				7   POT cel dom pre	 	 Brujah:2
+1x Theo Bell (ADV)			7   CEL POT PRE aus dom	 	 Brujah:2
+4x Dónal O'Connor			8   CEL DOM POT		 prince	 Brujah:2
+3x Beast, The Leatherface of Detroit	7   OBF POT ani cel	 	 Nosferatu antitribu:2
+
+Library (76 cards)
+Master (14; 4 trifle)
+1x Depravity
+2x Dreams of the Sphinx
+2x Fame
+1x Fortschritt Library
+2x Monster
+1x Powerbase: Montreal
+1x Tension in the Ranks
+4x Vessel
+
+Action (15)
+8x Govern the Unaligned
+4x Graverobbing
+1x Heroic Might
+2x Preternatural Strength
+
+Reaction (9)
+4x Deflection
+5x Second Tradition: Domain
+
+Combat (37)
+5x Disarm
+10x Flash
+10x Immortal Grapple
+6x Taste of Vitae
+6x Torn Signpost
+
+Event (1)
+1x Dragonbound

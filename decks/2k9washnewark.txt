@@ -1,0 +1,55 @@
+Wash
+Newark, Ohio
+March 20th 2009
+20 players
+Mark Loughman
+
+Crypt (12 cards, min=18, max=25, avg=5.33)
+------------------------------------------
+2x Ozmo			6   AUS dom obf			Malkavian:1
+2x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
+2x Didi Meyers		5   DOM aus cel obf		Malkavian:1
+1x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
+1x Badr al-Budur	5   OBF cel dom qui		Assamite:2
+1x Count Ormonde	5   OBF dom pre ser		Follower of Set:2
+1x Zebulon		5   OBF aus dom pro		Malkavian:1
+1x Laurent de Valois	4   ani dom obf			Nosferatu:2
+1x Roland Bishop	4   aus dom obf			Malkavian:1
+
+Library (90 cards)
+Master (16; 6 trifle)
+1x Asylum Hunting Ground
+1x Barrens, The
+2x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Lupine Assault
+1x Misdirection
+4x Wash
+
+Action (19)
+19x Govern the Unaligned
+
+Action Modifier (43)
+3x Bonding
+5x Cloak the Gathering
+2x Command of the Beast
+8x Conditioning
+2x Domain of Evernight
+2x Elder Impersonation
+4x Faceless Night
+2x Foreshadowing Destruction
+4x Lost in Crowds
+4x Seduction
+4x Spying Mission
+3x Veil the Legions
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (7)
+4x Deflection
+3x Wake with Evening's Freshness

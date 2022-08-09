@@ -1,0 +1,52 @@
+Darkness Within
+Vila Velha, Brazil
+August 29th 2015
+2R+F
+12 players
+Thiago Nespoli
+https://www.vekn.net/event-calendar/event/8201
+
+-- 5VP in final
+
+Deck Name: Turbo Barão
+
+Crypt (13 cards, min=20, max=32, avg=6.69)
+------------------------------------------
+1x Baron, The				9   FOR NEC OBF THN dom	 2 votes  Samedi:2
+1x Bartholomew				8   AUS MYT NEC dom obt	 	  Kiasyd:2
+1x Pochtli				8   NEC OBF POT cel dom	 	  Giovanni:2
+1x Andrea Giovanni			7   DOM NEC pot vic	 	  Giovanni:2
+1x Carlotta Giovanni			7   NEC POT dom obf	 	  Giovanni:2
+1x Egothha				7   AUS FOR NEC obf	 	  Harbinger of Skulls:2
+1x Gillespi Giovanni			7   DOM NEC POT aus	 	  Giovanni:2
+1x Gisela Harden, The Winnower		7   FOR NEC aus dem	 priscus  Harbinger of Skulls:2
+1x Kanimana Belghazi			7   AUS DOM NEC pro	 	  Nagaraja:2
+1x Agaitas, The Scholar of Antiquities	6   AUS NEC for		 	  Harbinger of Skulls:2
+1x Rafaele Giovanni			6   NEC cel obf		 	  Giovanni:2
+1x Isabel Giovanni			5   DOM NEC pot		 	  Giovanni:2
+1x Rudolfo Giovanni			3   NEC			 	  Giovanni:2
+
+Library (75 cards)
+Master (18)
+1x Blessed Resilience
+7x Coroner's Contact
+1x Dreams of the Sphinx
+7x Minion Tap
+2x Specialization
+
+Action (31)
+18x Force of Will
+13x Possession
+
+Equipment (9)
+9x Soul Gem of Etrius
+
+Action Modifier (9)
+4x Call of the Hungry Dead
+5x Shroudsight
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Combat (4)
+4x Spiritual Intervention

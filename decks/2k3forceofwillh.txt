@@ -1,0 +1,81 @@
+Force of Will
+Houston, Texas
+January 25th 2003
+15 players
+Oscar Garza
+
+Deck Name: Tzimisce Vote
+
+Description: oh yeah, i built that deck about 20 minutes before the
+tournament started, standing at the back of my car in the rain.
+
+Crypt (12 cards, min=17, max=36, avg=7.08)
+------------------------------------------
+2x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
+2x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
+1x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
+1x Anton			    8	ANI AUS cel obf vic		    Tzimisce:2
+1x Little Tailor of Prague	    8	ANI AUS VIC dem			    Tzimisce:2
+1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+1x Caliban			    6	ANI AUS VIC			    Tzimisce:2
+1x Rose, The			    5	PRE VIC aus			    Tzimisce:3
+1x Lolita Houston		    4	VIC aus				    Tzimisce:2
+1x Horatio			    2	vic				    Tzimisce:2
+
+Library (90 cards)
+Master (19)
+4x Blood Doll
+1x Dreams of the Sphinx
+1x Festivo dello Estinto
+1x Haven Uncovered
+1x Legendary Vampire
+2x Minion Tap
+2x Path of Metamorphosis, The
+1x Powerbase: Madrid
+1x Powerbase: Montreal
+1x Regent
+3x Rötschreck
+1x Sudden Reversal
+
+Ally (1)
+1x War Ghoul
+
+Equipment (1)
+1x Femur of Toomler
+
+Political Action (23)
+1x Autarkis Persecution
+2x Cardinal Benediction
+1x Consanguineous Boon
+5x Conservative Agitation
+1x Crusade: Houston
+1x Crusade: Philadelphia
+1x Disputed Territory
+2x Domain Challenge
+1x Dramatic Upheaval
+8x Kine Resources Contested
+
+Retainer (4)
+2x Raven Spy
+2x Revenant
+
+Action Modifier (4)
+4x Changeling
+
+Action Modifier/Combat (3)
+3x Plasmic Form
+
+Reaction (16)
+3x Cats' Guidance
+1x Eagle's Sight
+4x Forced Awakening
+5x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (19)
+2x Breath of the Dragon
+3x Carrion Crows
+5x Chiropteran Marauder
+3x Horrid Form
+4x Inner Essence
+2x Meld with the Land

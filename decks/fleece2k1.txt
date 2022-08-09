@@ -1,0 +1,64 @@
+Fleecing the Gaje
+Washington, D.C.
+October 20th 2001
+Johnny Tullner
+
+At long last, the deck that won at Fleecing the Gaje,
+held in Washington, D.C. on October 20, 2001,
+presented in its entirety and with comments from the
+winning player, Mr. Johnny Tullner of Hampton, VA:
+
+Weenies That Bleed
+
+29
+
+30
+
+(22)
+
+
+
+* I spent long hours tuning this deck to mathematical perfection.
+* Using an Anarch Troublemaker and then playing one is an excellent tactic.
+* Hand jam is the biggest problem, but usually the only thing to discard is
+locations you already have out.
+* Tribute to the Master is almost never used. It's there for emergencies.
+* There are 4 rares, 21 uncommons, and 56 commons. I love the balance of
+Jyhad that does not rely on rarity.
+* The deck will usually sweep. Expect the whole table to come after you.
+* My friends don't let me play this against them, and I don't blame them.
+
+Crypt (12 cards, min=4, max=8, avg=1.5)
+---------------------------------------
+1x Christine Boscacci	2   dom vic	Pander:2
+1x Dimple		2   obf		Nosferatu:1
+1x Mustafa Rahman	2   dom		Tremere:2
+1x Ohanna		2   dom		Malkavian:2
+1x Roreca Quaid		2   tha		Tremere:1
+1x Samson		2   dom		Ventrue antitribu:2
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Franciscus		1   aus		Caitiff:2
+1x March Halcyon	1   for		Pander:2
+1x Navar McClaren	1   ani		Caitiff:1
+1x Royce		1   dom		Pander:2
+1x Smudge the Ignored	1   -none-	Caitiff:1
+
+Library (81 cards)
+Master (29)
+4x Anarch Troublemaker
+4x Effective Management
+8x Information Highway
+6x Misdirection
+5x Parthenon, The
+2x Tribute to the Master
+
+Action (22)
+22x Computer Hacking
+
+Action Modifier (8)
+8x Threats
+
+Reaction (22)
+8x Deflection
+8x Delaying Tactics
+6x Wake with Evening's Freshness

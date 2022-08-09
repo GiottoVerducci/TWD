@@ -1,0 +1,61 @@
+SydCon
+Sydney, Australia
+April 1st 2001
+Chris Arthur
+
+Deck Name: Kiss of the Brujah
+
+Description: Fairly standard Brujah princes deck. Bleed with every vamp every round, if
+they block put them in torpor. Use the 2nds to wake and block your prey's
+vamps from hunting, voting etc. and your predator from bleeding, voting etc.
+A few rush actions to take out any annoying vamps like Leandro, Arika etc.
+
+Crypt (12 cards, min=21, max=32, avg=6.58)
+------------------------------------------
+2x Constanza Vinti		   8   CEL DOM POT	    prince	Brujah:2
+2x Dónal O'Connor		   8   CEL DOM POT	    prince	Brujah:2
+2x Anvil			   6   CEL POT dom pre tha  primogen	Brujah:1
+2x Volker, The Puppet Prince	   5   CEL pot		    prince	Brujah:2
+1x Amelia			   7   CEL POT PRE	    bishop	Brujah antitribu:2
+1x Richter, The Templar of Du Mont 7   CEL POT for pre	    		Brujah antitribu:2
+1x Bianca			   6   CEL pot pre	    		Brujah:1
+1x Black Cat			   5   CEL pot pre	    		Brujah:1
+
+Library (90 cards)
+Master (15)
+4x Blood Doll
+1x Carthage Remembered
+1x Depravity
+2x Dominate
+1x Fame
+1x Giant's Blood
+2x Haven Uncovered
+1x KRCG News Radio
+1x Potence
+1x Sudden Reversal
+
+Action (3)
+3x Ambush
+
+Action Modifier (11)
+4x Bonding
+3x Foreshadowing Destruction
+4x Threats
+
+Reaction (17)
+4x Deflection
+1x Forced Awakening
+12x Second Tradition: Domain
+
+Combat (44)
+1x Blur
+2x Disarm
+4x Flash
+9x Immortal Grapple
+4x Nimble Feet
+4x Pursuit
+4x Side Strike
+2x Sideslip
+4x Taste of Vitae
+1x Thrown Sewer Lid
+9x Torn Signpost

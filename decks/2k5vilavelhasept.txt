@@ -1,0 +1,59 @@
+Heart of the City: Vitória
+Vila Velha, Brazil
+September 24th 2005
+2R+F
+11 players
+Ravel Zorzal
+
+Deck Name: Brujah!!
+
+Crypt (12 cards, min=27, max=40, avg=8.42)
+------------------------------------------
+2x Theo Bell	   7   POT cel dom pre			    Brujah:2
+2x Theo Bell (ADV) 7   CEL POT PRE aus dom		    Brujah:2
+2x Jaroslav Pascek 10  CEL POT PRE for obf	justicar    Brujah:3
+2x Menele	   10  CEL POT PRE THA aus dom		    Brujah:3
+1x Karsh	   10  ANI CEL FOR POT PRO		    Gangrel:3
+1x Marcel de Breau 9   CEL POT PRE ani pro	archbishop  Brujah antitribu:3
+1x Constanza Vinti 8   CEL DOM POT		prince	    Brujah:2
+1x Pug Jackson	   6   CEL POT for pre		primogen    Brujah:3
+
+Library (90 cards)
+Master (17)
+1x Archon Investigation
+3x Blood Doll
+1x Fame
+3x Haven Uncovered
+1x KRCG News Radio
+5x Minion Tap
+1x Rumor Mill, Tabloid Newspaper, The
+1x Slave Auction
+1x Warzone Hunting Ground
+
+Action (13)
+3x Ambush
+6x Bum's Rush
+4x Enchant Kindred
+
+Equipment (4)
+1x Garrote
+1x Leather Jacket
+2x Sengir Dagger
+
+Reaction (4)
+4x Wake with Evening's Freshness
+
+Combat (52)
+1x Acrobatics
+7x Blur
+1x Decapitate
+2x Earthshock
+2x Flash
+6x Increased Strength
+3x Psyche!
+4x Pursuit
+2x Pushing the Limit
+6x Sideslip
+5x Taste of Vitae
+4x Torn Signpost
+9x Undead Strength

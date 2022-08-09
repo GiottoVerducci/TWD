@@ -1,0 +1,65 @@
+Final Nights
+Newark, Ohio
+September 21st 2010
+2R+F
+18 players
+Rodd Closson
+
+-- 4VP in final
+
+Deck Name: Hall of Fame
+
+Description: Kindred Spirits Shark
+
+Crypt (12 cards, min=16, max=29, avg=5.67)
+------------------------------------------
+2x Gem Ghastly		6   DEM OBF aus		 primogen  Malkavian:5
+1x Bloody Mary		8   AUS DEM OBF pre	 primogen  Malkavian:5
+1x Persephone Tar-Anis	8   AUS DEM OBF cel pot	 	   Malkavian antitribu:4
+1x Marge Khan		7   DEM OBF POT aus for	 	   Malkavian antitribu:5
+1x Hagar Stone		6   AUS DEM obf		 	   Malkavian antitribu:5
+1x Morel		6   AUS DEM OBF		 	   Malkavian:4
+1x Apache Jones		5   DEM aus for obf	 	   Malkavian antitribu:4
+1x Arthur Denholm	5   AUS DEM obf		 	   Malkavian:5
+1x Luc			5   OBF dem vic		 	   Malkavian antitribu:4
+1x Bela			3   DEM ani obf pro	 	   Malkavian:5
+1x Jackie		3   DEM			 	   Malkavian antitribu:4
+
+Library (80 cards)
+Master (10; 2 trifle)
+1x Anarch Troublemaker
+1x Barrens, The
+3x Dreams of the Sphinx
+1x Elder Library
+2x Pentex(TM) Subversion
+2x Wash
+
+Action (23)
+19x Kindred Spirits
+4x Madman's Quill
+
+Action Modifier (35)
+3x Cloak the Gathering
+7x Confusion
+1x Domain of Evernight
+3x Elder Impersonation
+11x Eyes of Chaos
+2x Faceless Night
+2x Lost in Crowds
+2x Mind Tricks
+3x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (6)
+4x Deny
+2x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Touch of Clarity
+
+Combat (1)
+1x Coma
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

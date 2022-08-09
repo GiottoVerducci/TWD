@@ -1,0 +1,58 @@
+Aniversário do Barão
+Fortaleza, Brazil
+December 27th 2018
+2R+F
+14 players
+Nilceu Galvão
+https://www.vekn.net/event-calendar/event/9090
+
+-- 1GW4 + 4VP in final
+
+Deck Name: Tumnimos reprodutor
+
+Description: Tumnimos nascem anarquistas e com presença.
+
+Crypt (12 cards, min=4, max=22, avg=3.33)
+-----------------------------------------
+4x Anarch Convert			1   -none-		 Caitiff:ANY
+3x Irena				5   CHI ani for pre	 Ravnos:5
+2x Desiree Narayan, Anarch Historian	6   CHI ani cel for nec	 Ravnos:6
+1x Sanjay Chakrabarti			4   CHI ani		 Ravnos:6
+1x Gwen Brand				3   aus chi		 Ravnos:5
+1x Adri, The Seeker			2   for			 Ravnos:6
+
+Library (81 cards)
+Master (28; 5 trifle)
+1x Anarch Railroad
+3x Chimerstry
+1x Fortune Teller Shop
+1x Major Boon
+2x Parthenon, The
+5x Presence
+1x Sunset Strip, Hollywood
+4x Svadharma
+4x Tribute to the Master
+5x Vessel
+1x Week of Nightmares
+
+Action (28)
+4x Embrace, The
+10x Illegalism
+1x Illusory Resources
+6x Patshiv
+7x Tumnimos
+
+Ally (5)
+5x Rom Gypsy
+
+Equipment (1)
+1x Shilmulo Tarot
+
+Action Modifier (15)
+3x False Resonance
+4x Fata Morgana
+4x Smoke and Mirrors
+4x Will-o'-the-Wisp
+
+Action Modifier/Combat (4)
+4x Mirror Image

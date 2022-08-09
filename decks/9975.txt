@@ -1,0 +1,66 @@
+Torneio Mineiro
+Belo Horizonte, Brazil
+November 27th 2021
+3R+F
+22 players
+Tiago Honorato de Castro Ramos
+https://www.vekn.net/event-calendar/event/9975
+
+Deck Name : I'll be watching you
+
+Crypt (12 cards, min=30, max=40, avg=8.92)
+------------------------------------------
+5x Dmitri Borodin   10	AUS CEL NEC QUI obf	 	 Assamite:4
+3x Massassi	    9	AUS CEL POT QUI obf	 	 Osebo:4
+2x Kabede Maru	    9	AUS CEL OBF QUI abo pot	 magaji	 Assamite:5
+1x Antara	    8	CEL FOR QUI aus obf pre	 	 Assamite:4
+1x Bertrand d'Anjou 4	aus cel qui		 	 Assamite:4
+
+Library (90 cards)
+Master (19; 7 trifle)
+1x Direct Intervention
+2x Fame
+1x Giant's Blood
+1x KRCG News Radio
+1x Market Square
+1x Rack, The
+2x Smiling Jack, The Anarch
+1x Society of Leopold
+1x Sudden Reversal
+1x Underworld Hunting Ground
+2x Vessel
+4x Villein
+1x Wider View
+
+Action (5)
+1x Loss
+4x Truth of Blood
+
+Equipment (9)
+3x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+2x Reliquary: Shango Remains
+2x Sniper Rifle
+
+Action Modifier (5)
+1x Enkil Cog
+4x Trochomancy
+
+Reaction (33)
+6x Black Sunrise
+2x Eagle's Sight
+4x Enhanced Senses
+6x Eyes of Argus
+2x Forced Awakening
+1x My Enemy's Enemy
+2x On the Qui Vive
+5x Quicken Sight
+5x Telepathic Misdirection
+
+Combat (19)
+1x Concealed Weapon
+3x Disguised Weapon
+7x Pursuit
+3x Taste of Death
+5x Taste of Vitae

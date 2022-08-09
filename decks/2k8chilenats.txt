@@ -1,0 +1,76 @@
+Torneo Nacional Vtes 2008
+Santiago, Chile
+November 29th 2008
+3R+F
+19 players
+Hugo Dey
+
+Deck Name: Governar la Carne
+
+Crypt (12 cards, min=21, max=39, avg=7.75)
+------------------------------------------
+3x Lambach				  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
+2x Velya, The Flayer			  9   ANI AUS PRE VIC for  cardinal	Tzimisce:3
+1x Little Tailor of Prague		  8   ANI AUS VIC dem	   		Tzimisce:2
+1x Meshenka				  8   ANI AUS VIC	   priscus	Tzimisce:2
+1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
+1x Caliban				  6   ANI AUS VIC	   		Tzimisce:2
+1x Corine Marcón			  6   AUS VIC ani	   		Tzimisce:2
+1x Devin Bisley				  5   ANI AUS vic	   		Tzimisce:2
+1x Lolita Houston			  4   VIC aus		   		Tzimisce:2
+
+Library (90 cards)
+Master (20; 2 trifle)
+3x Blood Doll
+1x Giant's Blood
+2x Library Hunting Ground
+1x Path of Lilith, The
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+4x Rötschreck
+1x Smiling Jack, The Anarch
+2x Sudden Reversal
+1x Tension in the Ranks
+2x Vessel
+
+Action (11)
+3x Eternal Vigilance
+8x Govern the Unaligned
+
+Ally (2)
+1x Carlton Van Wyk
+1x War Ghoul
+
+Equipment (2)
+1x Bowl of Convergence
+1x Femur of Toomler
+
+Political Action (2)
+1x Ancient Influence
+1x Political Stranglehold
+
+Retainer (4)
+2x Corpse Balloon
+2x Revenant
+
+Action Modifier (4)
+4x Changeling
+
+Action Modifier/Combat (4)
+4x Plasmic Form
+
+Reaction (24)
+4x Deflection
+2x Eagle's Sight
+6x Forced Awakening
+2x My Enemy's Enemy
+3x Read the Winds
+3x Sense the Savage Way
+4x Telepathic Misdirection
+
+Combat (17)
+1x Bloodform
+2x Breath of the Dragon
+8x Chiropteran Marauder
+6x Meld with the Land

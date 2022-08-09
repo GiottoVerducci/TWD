@@ -1,0 +1,68 @@
+Carnacarta - Wake up
+São Paulo, Brazil
+February 15th 2015
+3R+F
+12 players
+Fernando Marinho
+https://www.vekn.net/event-calendar/event/7963
+
+-- 3VP in final
+
+Deck Name: Imbuid Twist
+
+Crypt (12 cards, min=11, max=20, avg=3.83)
+------------------------------------------
+3x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+1x Liz "Ticket312" Thornton	2   inn red	 Innocent:4
+
+Library (60 cards)
+Master (36; 1 trifle)
+2x Angel of Berlin
+1x Archon Investigation
+1x Church of Vindicated Faith, The
+1x Direct Intervention
+21x Dirty Contract
+1x Jake Washington
+1x Millicent Smith, Puritan Vampire Hunter
+1x Momentum's Edge
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Smiling Jack, The Anarch
+1x Society of Leopold
+1x Unity
+1x Vampiric Disease
+1x Wider View
+
+Conviction (9)
+3x React with Conviction
+3x Second Sight
+3x Strike with Conviction
+
+Ally (7)
+1x Carlton Van Wyk
+1x Gregory Winter
+2x Ossian
+1x Vagabond Mystic
+1x Wendell Delburton
+1x Young Bloods
+
+Equipment (2)
+1x Crusader Sword, The
+1x Ivory Bow
+
+Power (1)
+1x Inspire
+
+Reaction (1)
+1x Determine
+
+Event (4)
+1x Anthelios, The Red Star
+1x Dr. Marisa Fletcher, CDC
+1x Scourge of the Enochians
+1x Unmasking, The

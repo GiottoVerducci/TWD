@@ -1,0 +1,64 @@
+Last Stand
+Osijek, Croatia
+July 13th 2011
+3R+F
+12 players
+Denes Kocis
+
+-- 3VP in final
+
+Deck Name: Arika & friends v 2.0
+
+Description: Build Up and Rule
+
+Crypt (12 cards, min=33, max=43, avg=9.67)
+------------------------------------------
+3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+2x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+2x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+1x Katarina Kornfeld	8   DOM FOR PRE ani		primogen	Ventrue:3
+1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+
+Library (86 cards)
+Master (17)
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+5x Minion Tap
+1x Monastery of Shadows
+1x Obfuscate
+1x Secure Haven
+1x Temptation of Greater Power
+1x Ventrue Headquarters
+4x Zillah's Valley
+
+Action (5)
+1x Dominate Kine
+3x Govern the Unaligned
+1x Mind Rape
+
+Political Action (13)
+1x Ancient Influence
+2x Banishment
+6x Kine Resources Contested
+3x Parity Shift
+1x Reins of Power
+
+Action Modifier (29)
+2x Awe
+4x Conditioning
+1x Daring the Dawn
+3x Elder Impersonation
+4x Forgotten Labyrinth
+5x Freak Drive
+4x Lost in Crowds
+6x Voter Captivation
+
+Reaction (16)
+8x Deflection
+4x Obedience
+4x Second Tradition: Domain
+
+Combat (6)
+6x Majesty

@@ -1,0 +1,54 @@
+Oxford University
+Cambridge, England
+August 26th 2003
+3R+F
+12 players
+Hugh Angseesing
+
+-- 4VP in final
+
+Deck Name: Ven obf Politics
+
+Description: Ventrue Stealth Politics Deck.
+Future changes: Direct intervention, sudden reversal, kiss of ra, fortitude
+
+Crypt (12 cards, min=20, max=42, avg=8.5)
+-----------------------------------------
+3x Marcus Vitel			   10  DOM FOR OBF OBT PRE	prince		Ventrue:3
+2x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+2x Queen Anne			   10  DOM FOR PRE aus obf	prince		Ventrue:2
+2x Catherine du Bois		   5   DOM for obf pre				Ventrue:3
+2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
+1x Lucinde, Alastor		   10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+
+Library (90 cards)
+Master (16)
+1x Dreams of the Sphinx
+7x Minion Tap
+1x Secure Haven
+2x Ventrue Headquarters
+5x Zillah's Valley
+
+Political Action (16)
+2x Banishment
+1x Dramatic Upheaval
+9x Kine Resources Contested
+3x Parity Shift
+1x Ventrue Justicar
+
+Action Modifier (31)
+5x Awe
+4x Bewitching Oration
+2x Elder Impersonation
+7x Forgotten Labyrinth
+6x Lost in Crowds
+7x Voter Captivation
+
+Reaction (22)
+8x Deflection
+7x Obedience
+2x Second Tradition: Domain
+5x Wake with Evening's Freshness
+
+Combat (5)
+5x Majesty

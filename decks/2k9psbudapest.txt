@@ -1,0 +1,70 @@
+Praxis Seizure: Budapest
+Budapest, Hungary
+June 13th 2009
+3R+F
+20 players
+Sebestyén Balázs
+
+Deck Name: Network of the Insane
+
+Crypt (13 cards, min=11, max=25, avg=4.54)
+------------------------------------------
+3x Victoria	    5	AUS cel obf	 	 Malkavian:2
+1x Gilbert Duane    7	AUS DOM OBF	 prince	 Malkavian:1
+1x Greger Anderssen 7	AUS OBF dom pro	 prince	 Malkavian:2
+1x Ozmo		    6	AUS dom obf	 	 Malkavian:1
+1x Zebulon	    5	OBF aus dom pro	 	 Malkavian:1
+1x Aleph	    4	AUS dom		 	 Malkavian:1
+1x Roland Bishop    4	aus dom obf	 	 Malkavian:1
+1x Dollface	    3	aus obf		 	 Malkavian:1
+1x Watenda	    3	obf		 	 Malkavian:2
+1x Zöe		    3	AUS cel obf	 	 Malkavian:2
+1x Brazil	    2	aus		 	 Malkavian:1
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Asylum Hunting Ground
+2x Direct Intervention
+1x Erciyes Fragments, The
+3x Madness Network
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+3x Rötschreck
+1x Smiling Jack, The Anarch
+6x Vessel
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (8)
+1x .44 Magnum
+1x Bowl of Convergence
+4x Improvised Flamethrower
+1x Ivory Bow
+1x Sniper Rifle
+
+Action Modifier (9)
+4x Conditioning
+1x Hidden Lurker
+4x Lost in Crowds
+
+Reaction (45)
+2x Delaying Tactics
+6x Eagle's Sight
+5x Enhanced Senses
+5x Eyes of Argus
+1x Fast Reaction
+5x Forced Awakening
+4x My Enemy's Enemy
+5x On the Qui Vive
+3x Precognition
+2x Spirit's Touch
+7x Telepathic Misdirection
+
+Combat (5)
+5x Disguised Weapon

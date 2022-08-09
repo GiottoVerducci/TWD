@@ -1,0 +1,56 @@
+The Garou Rim Monthly IV: Under Siege
+Joensuu, Finland
+November 16th 2013
+2R+F
+15 players
+Pasi Karjalainen
+https://www.vekn.net/event-calendar/event/7378
+
+Deck Name: Four Classy Ladies, a Swede and a Traitor
+
+Description: My first Arika deck
+
+Crypt (12 cards, min=32, max=43, avg=9.58)
+------------------------------------------
+3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+2x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+2x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+1x Greger Anderssen	7   AUS OBF dom pro		prince		Malkavian:2
+1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+
+Library (70 cards)
+Master (14; 5 trifle)
+1x Dreams of the Sphinx
+1x Golconda: Inner Peace
+1x Information Highway
+1x Pentex(TM) Subversion
+5x Villein
+5x Zillah's Valley
+
+Action (10)
+7x Govern the Unaligned
+3x Mind Rape
+
+Political Action (9)
+2x Banishment
+2x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (19)
+3x Elder Impersonation
+2x Enkil Cog
+2x Faceless Night
+2x Foreshadowing Destruction
+3x Lost in Crowds
+4x Perfect Paragon
+1x Seduction
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (16)
+6x Deflection
+5x Obedience
+5x Second Tradition: Domain

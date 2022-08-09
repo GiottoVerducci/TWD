@@ -1,0 +1,64 @@
+Forced Awakening
+Denver, Colorado
+September 22nd 2012
+2R+F
+13 players
+Kevin Mergen
+
+Deck Name: Cryptic Moon v3.2
+
+Description: Get out as many guys as you can, Vessel off,
+Cryptic lockdown, get cool allies, bleed + deflect.
+
+Crypt (12 cards, min=13, max=21, avg=4.33)
+------------------------------------------
+1x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
+1x Aisling Sturbridge	5   AUS THA dom			Tremere:2
+1x Hannigan		5   AUS THA dom			Tremere antitribu:2
+1x Kurt Strauss		5   DOM aus tha			Tremere antitribu:2
+1x Merrill Molitor	5   THA aus dom			Tremere:1
+1x Sabine Lafitte	5   aus dom pot tha		Tremere:1
+1x Ignatius		4   aus dom tha			Tremere:1
+1x Sarah Cobbler	4   THA dom			Tremere:1
+1x Thelonius		4   aus dom tha			Tremere antitribu:2
+1x Blythe Candeleria	3   THA aus			Tremere:2
+1x Brooke		3   dom tha			Tremere antitribu:2
+1x Jing Wei		3   dom tha			Tremere:1
+
+Library (78 cards)
+Master (16; 8 trifle)
+1x Dominate -- synchs with Conditioning/Deflection
+2x Dreams of the Sphinx -- everything about Dreams is good!
+2x Society of Leopold -- synchs with Cryptic
+2x Sudden Reversal -- to stop the Villein/Lilith's
+1x Thaumaturgy -- synchs with Cryptic/MotM/Wind Dance
+8x Vessel -- synchs with Cryptic (superior)
+
+Action (18)
+2x Arson -- get rid of Hunting Grounds! Grrr!
+15x Cryptic Mission -- (D)Burn one blood on a vampire, or do one unpreventable damage to any ally or retainer
+1x Far Mastery -- to steal a retainer or ally
+
+Ally (5)
+1x Carlton Van Wyk -- intercept/general defense
+1x Gregory Winter -- (D)steal 1 blood from a vampire
+1x Impundulu -- (D)steal 1 blood or life @ +1stealth
+1x Ponticulus -- intercept/general defense
+1x Young Bloods -- (D)burn 2 blood from a tapped vampire
+
+Action Modifier (16)
+8x Conditioning -- Path to Victory
+8x Mirror Walk -- +1 stealth/combat avoidance
+
+Reaction (10)
+6x Deflection -- token Wake/Bounce module
+4x On the Qui Vive -- "
+
+Combat (11)
+1x Burst of Sunlight -- to bring some big fatso down
+6x Movement of the Mind -- I.G. and Trap defense
+4x Wind Dance -- more defense
+
+Event (2)
+1x Hunger Moon -- synchs with Cryptic
+1x Unmasking, The -- to give my defense some strength

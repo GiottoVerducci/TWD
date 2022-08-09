@@ -1,0 +1,80 @@
+Powerbase Badalona
+Badalona, Spain
+January 19th 2020
+2R+F
+24 players
+Albert Dulcet Belmonte
+https://www.vekn.net/event-calendar/event/9495
+
+-- 1GW3.5 + 1.5VP in final
+
+Deck Name: Suadela is driving to Murcia
+Created by: Albert Dulcet &amp; Javier Olivares
+
+Start building a wall with the imbued and then play Karen. Continue playing
+Judgement Camarilla Segregation and Fall of Camarilla, with Karen remaining as
+Camarilla vampire.
+
+Crypt (12 cards, min=15, max=28, avg=5.17)
+------------------------------------------
+4x Karen Suadela		7   CEL POT obf pre	prince	Brujah:5
+3x Jennie "Cassie247" Orne	5   inn jud viz			Visionary:4
+1x Erick "Shophet125" Franco	4   inn jud			Judge:4
+1x Jack "Hannibal137" Harmon	4   def jud			Defender:4
+1x John "Cop90" O'Malley	4   jud ven			Avenger:4
+1x Marion "Teacher193" Perks	4   jud red			Redeemer:4
+1x François "Warden" Loehr	3   def jud			Judge:4
+
+Library (64 cards)
+Master (23)
+1x Angel of Berlin
+9x Ashur Tablets
+1x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Fortschritt Library
+2x Jake Washington
+1x Life Boon
+3x Liquidation
+3x Parthenon, The
+1x Smiling Jack, The Anarch
+
+Conviction (9)
+3x React with Conviction
+3x Second Sight
+3x Strike with Conviction
+
+Action (6)
+1x Aranthebes, The Immortal
+5x Judgment: Camarilla Segregation
+
+Ally (5)
+1x Alia, God's Messenger
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Vagabond Mystic
+1x Young Bloods
+
+Equipment (4)
+1x Camera Phone
+1x Crusader Sword, The
+1x Ivory Bow
+1x Kevlar Vest
+
+Political Action (1)
+1x Parity Shift
+
+Power (6)
+2x Discern
+4x Vigilance
+
+Action Modifier (4)
+2x Change of Target
+2x Forgotten Labyrinth
+
+Event (6)
+1x Fall of the Camarilla
+1x Nightmares upon Nightmares
+1x NRA PAC
+1x Slow Withering, The
+1x Thirst
+1x Unmasking, The

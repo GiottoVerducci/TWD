@@ -1,0 +1,94 @@
+Texas Qualifier
+Austin, Texas
+June 26th 2010
+3R+F
+10 players
+Michael Leonard
+
+Deck Name: Giovanni Real Estate
+
+Crypt (12 cards, min=16, max=36, avg=6.92)
+------------------------------------------
+4x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
+2x Baldesar Rossellini		8   DOM POT aus for nec	 	  Giovanni:4
+1x Diego Giovanni		8   CHI DOM NEC POT ani	 	  Giovanni:5
+1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
+1x Gualtiero Ghiberti		7   DOM NEC cel pot tha	 	  Giovanni:4
+1x Primo Giovanni		4   dom nec pot		 	  Giovanni:4
+1x Nunzio Giovanni		3   nec pot		 	  Giovanni:4
+1x Cristobal Ghiberti		2   nec			 	  Giovanni:4
+
+Library (90 cards)
+Master (24; 4 trifle)
+1x Barrens, The
+1x Channel 10
+1x Club Zombie
+1x Dummy Corporation
+1x Elder Library
+1x Information Highway
+1x Kingston Penitentiary, Ontario
+1x KRCG News Radio
+1x Metro Underground
+1x Morgue Hunting Ground
+1x Parthenon, The
+1x Powerbase: Cape Verde
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Powerbase: Zürich
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Secure Haven
+1x Therbold Realty
+4x Wider View
+1x WMRH Talk Radio
+
+Action (10)
+2x Divine Sign
+2x Dominate Kine
+2x Govern the Unaligned
+1x Graverobbing
+1x Scouting Mission
+2x Sudario Refraction
+
+Ally (1)
+1x Tye Cooper
+
+Equipment (3)
+1x Catacombs
+1x Gran Madre di Dio, Italy
+1x Palatial Estate
+
+Retainer (1)
+1x Charigger, The Axe
+
+Action Modifier (11)
+2x Call of the Hungry Dead
+4x Conditioning
+1x Foreshadowing Destruction
+3x Seduction
+1x Sleeping Mind, The
+
+Action Modifier/Combat (4)
+2x Breath of Thanatos
+2x Resist Earth's Grasp
+
+Action Modifier/Reaction (6)
+2x Murmur of the False Will
+4x Spectral Divination
+
+Reaction (11)
+4x Deflection
+2x Forced Awakening
+3x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (19)
+1x Blur
+2x Burning Wrath
+3x Glancing Blow
+2x Mercy for Seth
+2x Nimble Feet
+2x Sideslip
+2x Stutter-Step
+3x Taste of Vitae
+2x Torn Signpost

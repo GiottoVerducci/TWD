@@ -1,0 +1,67 @@
+Place des Vosges
+Paris, France
+June 23rd 2012
+3R+F
+10 players
+Jorge Delgado
+
+Deck Name: The Spanish Tornado
+Created by: Soufiane Bouzouf, modifications by Jorge Delgado
+
+Qualified last for the final (with only 2VP and no GWs). I think I had
+very bad luck with table positions in the whole tournament in general,
+where I tried desperately to maximize my VPs, but was victim of multiple
+rushes in 2/3 tables. In the final I think I had really good luck with
+the positions (since I entered last). That, plus my patience, plus
+Guilhem's kamikaze gameplay gave me the GW.
+
+Didn't have any Jackie, so in fact it should be -1 Eddie Gaines and
++1 Jackie. I'm actually thinking of taking out 1 Misdirection and
+1 Tribute to the Master to include 1 Sudden Reversal. The deck works
+quite ok in General.
+
+Crypt (12 cards, min=7, max=21, avg=3.67)
+-----------------------------------------
+2x Eddie Gaines			1   dem pot			    Caitiff:3
+1x Morel			6   AUS DEM OBF			    Malkavian:4
+1x Apache Jones			5   DEM aus for obf		    Malkavian antitribu:4
+1x Persia, The Beautiful Statue	5   DEM aus obf			    Malkavian:3
+1x Uncle George			5   DEM aus dom obf		    Malkavian antitribu:3
+1x Adelaide Davis		4   aus dem obf			    Malkavian:3
+1x Beauregard Krueller		4   aus dem obf			    Malkavian antitribu:4
+1x Fabrizia Contreraz		4   dem pot		archbishop  Malkavian antitribu:4
+1x Sean Rycek			4   aus dem			    Malkavian:4
+1x Midget			3   DEM obf pre			    Malkavian antitribu:3
+1x Cassandra Langely, The Waif	2   dem				    Malkavian:4
+
+Library (75 cards)
+Master (13; 1 trifle)
+1x Anarch Troublemaker
+1x Bleeding the Vine
+2x Dementation
+2x Dreams of the Sphinx
+1x Information Highway
+2x Misdirection
+2x Pentex(TM) Subversion
+1x Tribute to the Master
+1x Wash
+
+Action (26)
+4x Dive into Madness
+18x Kindred Spirits
+2x Madman's Quill
+2x Restructure
+
+Action Modifier (29)
+2x Cloak the Gathering
+10x Confusion
+10x Eyes of Chaos
+5x Mind Tricks
+2x Veil the Legions
+
+Action Modifier/Combat (5)
+5x Deny
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

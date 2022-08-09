@@ -1,0 +1,59 @@
+Forced March
+Stockholm, Sweden
+March 5th 2016
+3R+F
+13 players
+Peter Walter
+
+-- 4VP in final
+
+Deck Name: The Dark God True Love
+Created by: Waltman
+
+Crypt (12 cards, min=38, max=42, avg=10)
+----------------------------------------
+2x Kemintiri					10  OBF PRE SER THA aus dom		 Follower of Set:2
+2x Kemintiri (ADV)				10  OBF PRE SER THA aus dom		 Follower of Set:2
+2x Sutekh, The Dark God				11  NEC OBF PRE SER cel pot	2 votes	 Follower of Set:2
+2x Nefertiti					10  DOM OBF PRE SER cel pot		 Follower of Set:2
+2x Nehsi					10  OBF PRE PRO SER aus for	2 votes	 Follower of Set:2
+1x Khay'tall, Snake of Eden			9   DOM OBF PRE SER aus			 Follower of Set:2
+1x Saqqaf, Keeper of the Grand Temple of Set	9   OBF PRE SER cel for			 Follower of Set:2
+
+Library (76 cards)
+Master (21; 7 trifle)
+1x Dreams of the Sphinx
+8x Eternals of Sirius, The
+1x Ferraille
+1x Giant's Blood
+1x Monastery of Shadows
+1x Opium Den
+1x Parthenon, The
+7x Villein
+
+Action (8)
+8x Intimidation
+
+Ally (1)
+1x Saatet-ta
+
+Political Action (6)
+2x Banishment
+1x Political Stranglehold
+3x Reckless Agitation
+
+Action Modifier (36)
+3x Approximation of Loyalty
+4x Elder Impersonation
+2x Enkil Cog
+3x Faceless Night
+4x Lost in Crowds
+5x Mask of a Thousand Faces
+2x Perfect Paragon
+2x Spying Mission
+6x True Love's Face
+3x Truth of a Thousand Lies
+2x Voter Captivation
+
+Combat (4)
+4x Serpent's Numbing Kiss

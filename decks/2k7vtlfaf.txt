@@ -1,0 +1,72 @@
+Veil the Legions
+Face à Face, Montreal, Quebec
+June 16th 2007
+15 players
+Marc Desaulniers
+
+Deck Name: Rachel's Network
+
+Side notes: Use Rachel's ability and the Heart of Nizchetus to gain
+great flexibility without wasting ressources. Bleed under the Madness
+Network to gain the edge at the end of your predator's minion phase,
+then use Victoria's ability and Instability for an easy 5 pool bloat.
+
+Crypt (13 cards, min=14, max=40, avg=6.54)
+------------------------------------------
+4x Rachel Brandywine		10  AUS DEM OBF PRO ani	 prince	 Malkavian:3
+3x Greger Anderssen		7   AUS OBF dom pro	 prince	 Malkavian:2
+3x Victoria			5   AUS cel obf		 	 Malkavian:2
+1x Milo, The Invisible Horror	3   aus obf		 	 Malkavian:3
+1x Watenda			3   obf			 	 Malkavian:2
+1x Zöe				3   AUS cel obf		 	 Malkavian:2
+
+Library (80 cards)
+Master (24)
+4x Blood Doll
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+3x Instability
+4x Madness Network
+3x Parthenon, The
+1x Pentex(TM) Subversion
+2x Perfectionist
+3x Protean
+2x Storage Annex
+
+Action (4)
+4x Third Tradition: Progeny
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Political Action (8)
+1x Banishment
+4x Consanguineous Boon
+1x Malkavian Justicar
+2x Parity Shift
+
+Retainer (6)
+4x Homunculus
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (10)
+2x Cloak the Gathering
+3x Faceless Night
+2x Forgotten Labyrinth
+3x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (12)
+12x Earth Meld

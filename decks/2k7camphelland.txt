@@ -1,0 +1,60 @@
+Camp Helland MQ
+Flekkefjord, Norway
+July 7th 2007
+13 players
+Joel Toledo
+
+Deck Name: Arika's Stranglehold
+
+Crypt (12 cards, min=18, max=44, avg=8.5)
+-----------------------------------------
+4x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+2x Marcus Vitel			   10  DOM FOR OBF OBT PRE	prince		Ventrue:3
+1x Lucinde, Alastor		   10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+1x Queen Anne			   10  DOM FOR PRE aus obf	prince		Ventrue:2
+1x Victorine Lafourcade		   8   DOM FOR PRE tha		prince		Ventrue:3
+1x Catherine du Bois		   5   DOM for obf pre				Ventrue:3
+1x Diana Vick			   3   dom pre					Ventrue:3
+1x Marciana Giovanni, Investigator 2   dom					Giovanni:2
+
+Library (90 cards)
+Master (9)
+1x Grooming the Protégé
+1x Information Highway
+5x Minion Tap
+1x Obfuscate
+1x Ventrue Headquarters
+
+Action (6)
+6x Govern the Unaligned
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (17)
+3x Banishment
+3x Consanguineous Boon
+1x Kindred Segregation
+5x Kine Resources Contested
+1x Political Stranglehold
+3x Protect Thine Own
+1x Reins of Power
+
+Action Modifier (32)
+1x Awe
+2x Bewitching Oration
+1x Elder Impersonation
+5x Forgotten Labyrinth
+8x Freak Drive
+2x Kiss of Ra, The
+5x Lost in Crowds
+1x True Love's Face
+7x Voter Captivation
+
+Reaction (9)
+5x Deflection
+4x Obedience
+
+Combat (16)
+14x Majesty
+2x Staredown

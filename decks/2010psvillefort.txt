@@ -1,0 +1,76 @@
+Praxis Seizure: Villefort
+Vielvic, France
+April 4th 2010
+10 players
+Patrick Benoit
+
+Deck Name: X.Y.U
+
+Inspired from Council of Doom by "swiss academy" and Girls by Erik
+Torstensson. This is a slow deck, but very powerful in the end game.
+I think I should add another unleash hell's fury.
+
+Crypt (12 cards, min=37, max=44, avg=10.25)
+-------------------------------------------
+3x Cybele		 10  ANI DAI OBF PRE SER THA			Baali:4
+3x Maris Streck		 9   AUS OBF ani dem dom	justicar	Malkavian:3
+2x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+2x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+
+Library (78 cards)
+Master (40; 7 trifle)
+1x Antediluvian Awakening
+6x Ashur Tablets
+1x Blind Spot
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fortschritt Library
+1x Giant's Blood
+1x Golconda: Inner Peace
+3x Information Highway
+1x Jake Washington
+4x Liquidation
+1x Metro Underground
+1x Monastery of Shadows
+1x Not to Be
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Temptation of Greater Power
+7x Villein
+4x Zillah's Valley
+
+Action (1)
+1x Unleash Hell's Fury
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Political Action (11)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+1x Domain Challenge
+3x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (12)
+2x Approximation of Loyalty
+3x Elder Impersonation
+1x Enkil Cog
+6x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (7)
+4x Mental Maze
+3x Telepathic Misdirection
+
+Event (3)
+1x Anthelios, The Red Star
+1x Nightmares upon Nightmares
+1x Rise of the Nephtali

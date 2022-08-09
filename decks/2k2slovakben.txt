@@ -1,0 +1,70 @@
+Weekly Tournament
+Bratislava, Slovak Republic
+December 7th 2002
+16 players
+Ben Peal
+
+I had a Gargoyles deck in development that had won 4 of 4 casual games,
+including one where I lent it to someone, so I figured it was ready for
+prime time. It consists of weenie Tremere 12, with Tremere Slaves
+operating like the offensive line of an American football team, clearing
+the way for the Tremere. As such, I've called it The O-Line. :)
+The Tremere are just there for weenie bleeds, with the occasional
+Conditioning or J.S. Simmons/Tasha Morgan, as well as Deflections.
+The Gargoyles are Pot/For/Flight monsters, and they also handle the
+bulk of the defense, with Razor Bats (which have proved surprisingly
+handy) and Defenders of the Haven.
+
+The O-Line by Ben Peal
+
+Crypt (12 cards, min=11, max=26, avg=4.67)
+------------------------------------------
+2x Ublo-Satha		   7   FOR POT VIS cel	Gargoyle:2
+2x Saxum, Master of Slaves 6   FOR VIS pot pre	Gargoyle:2
+2x Luma, Stone Beauty	   5   FOR aus pot vis	Gargoyle:2
+1x Sabine Lafitte	   5   aus dom pot tha	Tremere:1
+1x Ignatius		   4   aus dom tha	Tremere:1
+1x Sarah Cobbler	   4   THA dom		Tremere:1
+1x Jing Wei		   3   dom tha		Tremere:1
+1x Mustafa Rahman	   2   dom		Tremere:2
+1x Roreca Quaid		   2   tha		Tremere:1
+
+Library (90 cards)
+Master (13)
+1x Academic Hunting Ground
+1x Barrens, The
+4x Blood Doll
+1x Chantry
+1x Depravity
+3x Effective Management
+1x Guardian Angel
+1x KRCG News Radio
+
+Action (5)
+2x Bum's Rush
+3x Defender of the Haven
+
+Retainer (6)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+3x Razor Bat
+1x Tasha Morgan
+
+Action Modifier (2)
+2x Conditioning
+
+Reaction (17)
+6x Deflection
+3x Patrol
+8x Wake with Evening's Freshness
+
+Combat (47)
+4x Bond with the Mountain
+3x Disarm
+8x Immortal Grapple
+8x Pounce
+6x Resilience
+6x Rolling with the Punches
+2x Taste of Vitae
+4x Torn Signpost
+6x Unflinching Persistence

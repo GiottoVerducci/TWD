@@ -1,0 +1,73 @@
+Eudemonia
+Eudemonia, Berkeley, California
+March 26th 2005
+2R+F
+16 players
+Jeff Kuta
+
+Modified multi-taskamites
+
+Crypt (12 cards, min=13, max=44, avg=7.92)
+------------------------------------------
+4x Ur-Shulgi, The Shepherd	11  CEL DOM OBF QUI THA aus	2 votes	 Assamite:2
+3x Thetmes, Caliph of Alamut	10  CEL OBF QUI dom pot		2 votes	 Assamite:2
+2x Yazid Tamari			8   CEL QUI ani dom obf			 Assamite:3
+1x Mustafa Rahman		2   dom					 Tremere:2
+1x Ohanna			2   dom					 Malkavian:2
+1x Royce			1   dom					 Pander:2
+
+Library (90 cards)
+Master (24; 1 trifle)
+2x Alamut
+1x Archon Investigation
+1x Coven, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fortschritt Library
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+6x Minion Tap
+3x Parthenon, The
+1x Powerbase: Rome
+1x Secure Haven
+1x Tajdid
+1x Underworld Hunting Ground
+
+Action (19)
+1x Aranthebes, The Immortal
+9x Flurry of Action
+3x Govern the Unaligned
+6x Khabar: Glory
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (6)
+1x Ancient Influence
+1x Banishment
+1x Free States Rant
+1x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (25)
+3x Cloak the Gathering
+3x Conditioning
+5x Deed the Heart's Desire
+3x Elder Impersonation
+3x Faceless Night
+5x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (11)
+2x Confusion of the Eye
+3x Deflection
+3x Redirection
+3x Wake with Evening's Freshness
+
+Event (1)
+1x Anthelios, The Red Star

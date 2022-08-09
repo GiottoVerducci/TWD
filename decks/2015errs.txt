@@ -1,0 +1,78 @@
+Elysium: Reus
+Reus, Spain
+October 2nd 2015
+2R+F
+19 players
+Tomàs López Jiménez
+https://www.vekn.net/event-calendar/event/8218
+
+-- 1,5VP in final
+
+Deck Name: Marcus leaders the Lasombra
+
+Description: Lasombra vote and bleed, with Marcus Vitel as a leader and playing Parity Shift
+
+Crypt (12 cards, min=34, max=40, avg=9.33)
+------------------------------------------
+4x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+
+Library (90 cards)
+Master (22; 6 trifle)
+1x Día de los Muertos
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+6x Villein
+7x Zillah's Valley
+
+Action (10)
+1x Dominate Kine
+2x Entrancement
+7x Govern the Unaligned
+
+Ally (4)
+1x Mylan Horseed
+3x Nocturn
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (17)
+1x Anarchist Uprising
+1x Banishment
+1x Disputed Territory
+4x Kine Resources Contested
+2x Neonate Breach
+6x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (25)
+1x Awe
+3x Bewitching Oration
+1x Bonding
+2x Conditioning
+1x Enkil Cog
+6x Freak Drive
+2x Shadow Play
+2x Shroud of Absence
+1x Shroud of Night
+3x Tenebrous Form
+3x Voter Captivation
+
+Reaction (7)
+4x Deflection
+3x On the Qui Vive
+
+Combat (4)
+2x Majesty
+2x Shadow Body

@@ -1,0 +1,56 @@
+Tradition Upheld
+New Orleans
+August 6th 2000
+Ethan Burrow
+
+Weenie Auspex v1.1:
+
+Crypt (12 cards, min=8, max=16, avg=3)
+--------------------------------------
+1x Aleph			   4   AUS dom	    Malkavian:1
+1x Dorian Strack		   4   AUS cel	    Toreador:1
+1x Remilliard, Devout Crusader	   4   AUS pre	    Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha	    Tremere antitribu:2
+1x Colin Flynn			   3   aus cel	    Toreador:1
+1x Dollface			   3   aus obf	    Malkavian:1
+1x Dr. John Casey		   3   aus tha	    Tremere:1
+1x Isabel de Leon		   3   AUS	    Toreador:2
+1x Zöe				   3   AUS cel obf  Malkavian:2
+1x Brazil			   2   aus	    Malkavian:1
+1x Dieter Kleist		   2   aus	    Toreador:1
+1x Franciscus			   1   aus	    Caitiff:2
+
+Library (80 cards)
+Master (25)
+2x Aching Beauty
+1x Art Museum
+1x Asylum Hunting Ground
+6x Effective Management
+2x Inbase Discotek, Frankfurt
+5x Malkavian Prank
+2x Parthenon, The
+1x Society Hunting Ground
+2x Sudden Reversal
+2x Tribute to the Master
+1x Unnatural Disaster
+
+Action (3)
+3x Pulse of the Canaille
+
+Ally (2)
+2x Muddled Vampire Hunter
+
+Retainer (2)
+2x Resplendent Protector
+
+Reaction (23)
+5x Precognition
+6x Spirit's Touch
+5x Telepathic Counter
+7x Telepathic Misdirection
+
+Combat (25)
+3x Aura Reading
+13x Fake Out
+2x Primal Instincts
+7x Read Intentions

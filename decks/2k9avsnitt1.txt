@@ -1,0 +1,60 @@
+Avsnitt 1: Jeffrey Lee Percy
+Örebro, Sweden
+December 27th 2009
+22 players
+Alexander Båskman
+
+Deck Name: Tummen mitt i ögat
+Created by: Alexander Båskman
+
+Description: Based on a deck by Jonatan "Hoppe" Sjöberg.
+
+Crypt (12 cards, min=34, max=40, avg=9.25)
+------------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+2x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
+2x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+
+Library (71 cards)
+Master (17; 7 trifle)
+3x Dreams of the Sphinx
+1x Elysian Fields
+2x Information Highway
+1x Monastery of Shadows
+1x Presence
+7x Villein
+2x Zillah's Valley
+
+Action (5)
+5x Govern the Unaligned
+
+Political Action (13)
+1x Ancient Influence
+1x Auto-da-fé
+2x Banishment
+2x Domain Challenge
+5x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (22)
+2x Conditioning
+1x Enkil Cog
+2x Freak Drive
+5x Shadow Play
+2x Shroud of Absence
+3x Shroud of Night
+7x Voter Captivation
+
+Reaction (8)
+8x Deflection
+
+Combat (4)
+4x Majesty
+
+Event (2)
+1x Nightmares upon Nightmares
+1x Scourge of the Enochians

@@ -1,0 +1,68 @@
+Thriller
+Newark, Ohio
+November 2nd 2010
+2R+F
+12 players
+Brad Cashdollar
+
+"Baker's Angry Dragon"
+
+Crypt (12 cards, min=23, max=36, avg=7.5)
+-----------------------------------------
+4x Dmitra Ilyanova	9   CEL FOR POT PRE obf	 justicar  Brujah:5
+3x Carlak		8   CEL PRE dom pot	 prince	   Brujah:5
+3x Karen Suadela	7   CEL POT obf pre	 prince	   Brujah:5
+1x Marguerite Foccart	6   CEL PRE aus pot	 	   Brujah:4
+1x Lynn Thompson	3   cel pot		 	   Brujah:5
+
+Library (90 cards)
+Master (12; 6 trifle)
+1x Dark Influences
+2x Fame
+1x Legendary Vampire
+1x New Carthage
+6x Vessel
+1x WMRH Talk Radio
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (1)
+1x Arms Dealer
+
+Equipment (9)
+3x Assault Rifle
+1x Flamethrower
+1x Heart of Nizchetus
+1x Ivory Bow
+2x Leather Jacket
+1x Sire's Index Finger
+
+Political Action (13)
+6x Alastor
+6x Parity Shift
+1x Praxis Seizure: Rome
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (10)
+3x Awe
+5x Forced March
+2x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (11)
+11x Second Tradition: Domain
+
+Combat (28)
+2x Disguised Weapon
+10x Psyche!
+6x Pursuit
+7x Sideslip
+3x Taste of Vitae
+
+Event (1)
+1x Uncoiling, The

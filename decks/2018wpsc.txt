@@ -1,0 +1,72 @@
+War Party
+Santiago, Chile
+September 8th 2018
+3R+F
+19 players
+Juan Oyarce
+https://www.vekn.net/event-calendar/event/8991
+
+-- 3GW12 + 4VP in final
+
+Deck Name: Tzimisce Living Manse v2.4 - Tournament 8 Sept 2018
+
+Description: Bleed and control
+
+Crypt (12 cards, min=12, max=24, avg=4.67)
+------------------------------------------
+2x Caliban		6   ANI AUS VIC		Tzimisce:2
+2x Corine Marcón	6   AUS VIC ani		Tzimisce:2
+1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
+1x Devin Bisley		5   ANI AUS vic		Tzimisce:2
+1x Elizabeth Westcott	5   AUS ani cel vic	Tzimisce:3
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Lolita Houston	4   VIC aus		Tzimisce:2
+1x Terrence		4   ani aus vic		Tzimisce:2
+1x Horatio		2   vic			Tzimisce:2
+1x Piotr Andreikov	2   aus			Tzimisce:3
+
+Library (90 cards)
+Master (18; 2 trifle)
+2x Auspex
+2x Blood Doll
+1x Library Hunting Ground
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+2x Rötschreck
+2x Sudden Reversal
+2x Vessel
+2x Vicissitude
+
+Equipment (12)
+1x Bowl of Convergence
+1x Femur of Toomler
+1x Heart of Nizchetus
+1x Ivory Bow
+8x Living Manse
+
+Retainer (2)
+2x Revenant
+
+Action Modifier (9)
+9x Changeling
+
+Action Modifier/Combat (5)
+5x Plasmic Form
+
+Reaction (27)
+2x Delaying Tactics
+2x Enhanced Senses
+4x Eyes of Argus
+2x My Enemy's Enemy
+6x On the Qui Vive
+2x Precognition
+6x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (17)
+3x Breath of the Dragon
+6x Chiropteran Marauder
+8x Meld with the Land

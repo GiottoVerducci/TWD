@@ -1,0 +1,69 @@
+Belgian ECQ
+Gent, Belgium
+March 25th 2017
+3R+F
+14 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/8579
+
+Deck Name: nana princes(s) - belgian ECQ Gent
+
+1GW4.5 + 1.5
+
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+4x Nana Buruku		8   ANI POT PRE		 	   Guruhi:4
+1x Aren, Priest of Eshu	7   POT PRE ani obf	 	   Guruhi:4
+1x Graham Gottesman	7   DOM FOR obf pre tha	 prince	   Ventrue:5
+1x Karen Suadela	7   CEL POT obf pre	 prince	   Brujah:5
+1x Mukhtar Bey		7   FOR PRE QUI obf pot	 prince	   Caitiff:4
+1x Ubende		7   CEL PRE for obf qui	 magaji	   Ishtarri:4
+1x Tara			6   POT PRE cel		 prince	   Brujah:5
+1x Victor Pelletier	5   PRE cel dom for	 	   Ventrue:4
+1x Reginald Moore	4   PRE			 primogen  Brujah:4
+
+Library (88 cards)
+Master (38; 7 trifle)
+1x Archon Investigation
+15x Ashur Tablets
+1x Creepshow Casino
+3x Dreams of the Sphinx
+1x Effective Management
+1x Fear of Mekhet
+1x Giant's Blood
+3x Liquidation
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+5x Villein
+2x Wider View
+
+Action (8)
+7x Enchant Kindred
+1x Entrancement
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (13)
+1x Banishment
+2x Conservative Agitation
+1x Justicar Retribution
+6x Kine Resources Contested
+3x Parity Shift
+
+Action Modifier (15)
+4x Bewitching Oration
+3x Forgotten Labyrinth
+4x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Guruhi Kholo
+
+Reaction (2)
+2x Second Tradition: Domain
+
+Combat (10)
+9x Majesty
+1x Staredown

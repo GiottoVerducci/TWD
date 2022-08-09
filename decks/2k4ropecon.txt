@@ -1,0 +1,39 @@
+Ropecon
+Ropecon 2004, Helsinki, Finland
+July 23rd 2004
+3R+F
+82 players
+Riku Niittymäki
+
+Deck Name: Fix Me, Please
+
+Description: Anson based master deck that just bloats & kills with
+Anarch Revolts.
+
+Crypt (12 cards, min=32, max=40, avg=9)
+---------------------------------------
+6x Anson		  8   CEL PRE aus dom		prince	  Toreador:1
+4x Anneke		  10  AUS CEL PRE dom		justicar  Toreador:1
+2x Ulugh Beg, The Watcher 10  AUS DOM THA cel for pot	justicar  Tremere:1
+
+Library (90 cards)
+Master (69)
+17x Anarch Revolt
+1x Bleeding the Vine
+3x Direct Intervention
+3x Dreams of the Sphinx
+1x Elysium: The Arboretum
+2x Giant's Blood
+10x Golconda: Inner Peace
+1x Information Highway
+4x Life Boon
+13x Minion Tap
+5x Parthenon, The
+5x Protected Resources
+2x Sudden Reversal
+2x Temptation of Greater Power
+
+Reaction (21)
+5x Deflection
+10x Obedience
+6x Second Tradition: Domain

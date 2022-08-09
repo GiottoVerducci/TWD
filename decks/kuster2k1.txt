@@ -1,0 +1,59 @@
+Autarkis Persecution
+Toronto, Ontario
+March 4th 2001
+Thomas Kuster
+
+Workin' on the Night Moves by Thomas Kuster
+(with a little help from Bob Seger)
+
+Crypt (12 cards, min=20, max=36, avg=6.83)
+------------------------------------------
+2x Darrell Boyce, Consul	6   CEL OBF PRO		 	  Gangrel antitribu:2
+2x Kalinda			6   CEL OBF tha		 	  Assamite:2
+1x Samantha			10  CEL OBF PRO ani tha	 bishop	  Gangrel antitribu:2
+1x Thetmes, Caliph of Alamut	10  CEL OBF QUI dom pot	 2 votes  Assamite:2
+1x Ellen Fence, The Tracker	8   CEL OBF PRO aus	 bishop	  Gangrel antitribu:2
+1x Husamettin			8   CEL OBF QUI pot pre	 	  Assamite:2
+1x Melek			7   OBF QUI cel pre	 	  Assamite:2
+1x Zachary			7   CEL OBF PRO for pre	 	  Gangrel antitribu:2
+1x Tansu Bekir			4   OBF cel		 	  Assamite:2
+1x Wren				4   cel obf pro		 	  Gangrel antitribu:2
+
+Library (79 cards)
+Master (20)
+1x Alamut
+2x Blood Doll
+1x Campground Hunting Ground
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Effective Management
+1x Heartblood of the Clan
+1x Major Boon
+2x Minion Tap
+6x Obfuscate
+1x Sudden Reversal
+1x Underworld Hunting Ground
+
+Action (25)
+2x Distraction
+9x Embrace, The
+12x Night Moves
+2x Speed of Thought
+
+Equipment (2)
+2x Bomb
+
+Action Modifier (14)
+6x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+2x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Combat (16)
+4x Behind You!
+10x Preternatural Evasion
+2x Rapid Thought

@@ -1,0 +1,53 @@
+Blood Siege: Oakland
+Oakland, California
+May 25th 2002
+12 players
+Ian Lee
+
+Baali of the Name 1.1
+
+Crypt (12 cards, min=13, max=30, avg=5.75)
+------------------------------------------
+2x High Priest Angra Mainyu 8	DAI OBF PRE dem ser	Baali:2
+2x Giotto Verducci	    7	DAI OBF for pot pre	Baali:2
+2x Mary the Black	    7	DAI PRE cel obf pot	Baali:2
+2x Hesha Ruhadze	    6	SER ani obf pre		Follower of Set:2
+1x Thomas Steed, The Angry  4	ani aus val		Salubri antitribu:2
+1x Wolf Valentine	    4	VAL for			Salubri antitribu:2
+1x Kervos, The Lieutenant   3	aus val			Salubri antitribu:2
+1x Doris McMillon	    2	val			Salubri antitribu:2
+
+Library (90 cards)
+Master (17)
+1x Barrens, The
+6x Blood Doll
+2x Dreams of the Sphinx
+2x Effective Management
+3x Obfuscate
+3x Storage Annex
+
+Action (25)
+13x Blessing of the Name
+1x Contagion
+3x Enchant Kindred
+2x Entrancement
+6x Legal Manipulations
+
+Action Modifier (15)
+12x Cloak the Gathering
+2x Elder Impersonation
+1x Mask of a Thousand Faces
+
+Action Modifier/Reaction (8)
+8x Sense the Sin
+
+Reaction (10)
+5x Forced Awakening
+5x Wake with Evening's Freshness
+
+Combat (15)
+2x Behind You!
+3x Catatonic Fear
+4x Conflagration
+4x Fear of the Void Below
+2x Majesty

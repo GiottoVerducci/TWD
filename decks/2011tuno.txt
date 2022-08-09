@@ -1,0 +1,65 @@
+The Unnamed
+Newark, Ohio
+September 24th 2011
+10 players
+Jay Kristoff
+
+Deck Name: The Pattie Melt
+
+Description: My version of my favorite John Pattie deck
+
+Crypt (12 cards, min=15, max=31, avg=6)
+---------------------------------------
+1x Izhim abd Azrael		9   CEL OBF QUI THA pot	 	 Assamite:5
+1x Bakr				8   CEL OBF QUI dem pro	 	 Assamite:5
+1x Djuhah, The Bronze Bow	7   OBF QUI aus cel pre	 	 Assamite:5
+1x Joe "Boot" Hill		7   CEL QUI for obf	 	 Assamite:4
+1x Kashan			7   CEL OBF QUI obt pre	 1 vote	 Assamite:4
+1x Olugbenga			7   OBF QUI ani cel	 magaji	 Assamite:4
+1x Hafsa, The Watcher		6   OBF QUI aus cel	 	 Assamite:5
+1x Reza Fatir, The Dark Angel	6   CEL QUI obf pro	 	 Assamite:4
+1x Vardar Vardarian		6   OBF QUI cel pre	 	 Assamite:4
+1x Kamau Jafari			4   QUI obf		 	 Assamite:4
+1x Sajid al Misbah		4   QUI			 	 Assamite:5
+1x Basir			1   qui			 	 Assamite:4
+
+Library (60 cards)
+Master (14; 4 trifle)
+1x Alamut
+1x Anarch Troublemaker
+4x Effective Management
+1x Heartblood of the Clan
+1x Market Square
+1x Path of Blood, The
+1x Underworld Hunting Ground
+4x Villein
+
+Action (26)
+2x Clotho's Gift
+1x Condemn the Sins of the Father
+16x Haqim's Law: Leadership
+1x Khabar: Glory
+6x Loss
+
+Equipment (3)
+2x Camera Phone
+1x Gran Madre di Dio, Italy
+
+Political Action (1)
+1x Reckless Agitation
+
+Action Modifier (2)
+2x Succulent Vitae
+
+Reaction (4)
+2x Black Sunrise
+1x Delaying Tactics
+1x Foul Blood
+
+Combat (10)
+1x Blood Sweat
+1x Dagon's Call
+2x Selective Silence
+4x Target Vitals
+1x Taste of Death
+1x Thin Blood

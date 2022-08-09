@@ -1,0 +1,78 @@
+Field Training: Newark
+Comic Shop Plus, Newark, Ohio
+August 14th 2016
+2R+F
+13 players
+John Eno
+https://www.vekn.net/event-calendar/event/8431
+
+-- 5VP in final
+
+Deck Name: What We Do In the Shadows
+
+Description: Black Hand tap-and-bleed. In this tournament, I rarely drew any of the tapping tech (except Nocturn Theater, but see below), and so it ended up playing as bleed-and-bleed instead. I got 13 of the 14 possible VPs available to me, though, so I can't complain too much.
+
+Theoretically good tech which I didn't get to use includes using Tattoo Signal and the bleed equipment to do some light Darby Dancing, using Tangle Atropos' Hand with the bleed equipment to safely eliminate bleed bounce and then bleed again with the same vampire, and being able to boast that you played a Lasombra bleed deck without ever adding stealth to a bleed action.
+
+Thanks to Darby and Hugh for transcontinental and trans-Atlantic deck advice, to Karl Schaefer for lending me the Shrouds of Absence, and to Mark Loughman for breaking down the local metagame before the tournament.
+
+could use a Wider View or two and some Sudden Reversals, but I didn't know what to cull for them
+
+Crypt (12 cards, min=14, max=26, avg=5)
+---------------------------------------
+3x Banjoko		 5   DOM obt pot		Lasombra:3
+2x Henri Lavenant	 7   DOM OBT pot qui		Lasombra:3
+2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+1x Phillipe Rigaud	 7   DOM OBF PRO ani aus obt	Gangrel antitribu:4
+1x Katherine Stoddard	 4   dom for			Ventrue antitribu:3
+1x Mosfair		 4   cel dom tha		Tremere antitribu:4
+1x Keith Moody		 3   DOM			Tremere antitribu:4
+1x Lucy Markowitz	 3   dom obt			Lasombra:4
+
+Library (76 cards)
+Master (14; 1 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+1x Elysian Fields
+1x Giant's Blood
+2x Jake Washington
+1x Nocturn Theater -- last minute addition, replacing a third Remover; too expensive and burnable to be useful, so pull it and put the third Remover back in
+1x Pentex(TM) Subversion
+1x Political Hunting Ground
+2x Remover
+1x Watchtower: Four Ride Forth
+1x Weeping Stone -- I drew this early in all three games, and always hesitated to play it due to its cost, but it was pivotal in every game
+
+Action (14)
+11x Govern the Unaligned
+3x Tattoo Signal
+
+Ally (4)
+4x Nocturn -- included to defend against rushes, but there was less rush combat than I'd feared and I ended up just bleeding with them
+
+Equipment (4)
+1x Codex of the Edenic Groundskeepers
+1x Gran Madre di Dio, Italy
+1x Guarded Rubrics
+1x Zaire River Ferry
+
+Action Modifier (24)
+3x Art of Memory, The -- highly underrated card
+2x Change of Target
+5x Conditioning
+3x Foreshadowing Destruction
+2x Seduction
+2x Shadow Play
+3x Shroud of Absence
+2x Shroud of Night
+2x Tangle Atropos' Hand -- in theory, these are amazing with the bleed equipment; in practice, I'll probably forget to make sure that the equipment is on the guys in my crypt who have Potence, and I didn't need any of them to win any of my games in this tournament, so they can probably go
+
+Reaction (14)
+5x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+2x Redirection
+2x Wake with Evening's Freshness
+
+Combat (2)
+2x Shadow Body

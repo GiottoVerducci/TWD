@@ -1,0 +1,81 @@
+Powerbase: Berkeley - Up Yours!
+Berkeley, California
+January 20th 2018
+2R+F
+10 players
+Mark Jasper
+https://www.vekn.net/event-calendar/event/8823
+
+-- 1.5VP in final
+
+Deck Name: Semi-Turbo Capuchin
+
+Thanks to Martin Schumacker for playing a similar deck a couple of times on
+Lackey and giving me the inspiration to make this deck. The core idea from
+Martin is to use Coroner's Contact to pull out whatever Samedi (4 in deck) are
+left in the crypt and use Soul Gem with 100% chance of drawing another
+Capuchin. You give the Capuchin Obfuscate, the Soul Gem, and Villein down to 2.
+Then do the classic Force of Will bleed with Daring the Dawn at inferior and
+Conditioning to bleed for 7, unblockable by vampires, burn the Capuchin and get
+a new unlocked Capuchin to Villein later. This deck can bloat a ton! Use Under
+My Skin (on two actions each) to stealth past allies. Obviously, rushing
+allies like Ossian and Garous are really bad news for this deck since Samedi
+besides Baroque (auspex!) have no intercept. The Capuchin is the star, so if
+he goes to torpor you’re toast. Best strategy is to be patient, wait until all
+Samedi are in uncontrolled region, blocking some actions with the Capuchin when
+you have Obedience and bouncing bleeds while looking innocent and staying good
+on pool. Then, when you’re prey gets down to 10 pool or so, Villein down to 3,
+Magic out the Soul Gem, and have two left to pay for Force of Will and
+Conditioning, get a new Capuchin and repeat, semi-turbo style. Fun deck to
+play.
+1.5 VP in final (won tiebreaker as 2nd seed).
+
+Crypt (12 cards, min=25, max=44, avg=9.42)
+------------------------------------------
+8x Capuchin, The 11  AUS DOM FOR NEC THA THN	Harbinger of Skulls:5
+1x Morlock	 8   FOR NEC THN obf		Samedi:4
+1x Baroque	 7   NEC THN aus for obf	Samedi:5
+1x Macoute	 6   FOR NEC obf thn		Samedi:4
+1x Abebe	 4   nec obf thn		Samedi:4
+
+Library (90 cards)
+Master (29; 8 trifle)
+1x Antediluvian Awakening
+5x Coroner's Contact
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Maabara
+1x Metro Underground
+6x Obfuscate
+3x Parthenon, The
+1x Pentex(TM) Subversion
+7x Villein
+1x Wash
+
+Action (15)
+1x Far Mastery
+7x Force of Will
+5x Magic of the Smith
+2x Revelations
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (4)
+1x Heart of Nizchetus
+1x Laptop Computer
+2x Soul Gem of Etrius
+
+Action Modifier (20)
+2x Call of the Hungry Dead
+4x Conditioning
+6x Daring the Dawn
+2x Freak Drive
+6x Under My Skin
+
+Reaction (21)
+5x Deflection
+2x Delaying Tactics
+4x Eyes of Argus
+8x Obedience
+2x On the Qui Vive

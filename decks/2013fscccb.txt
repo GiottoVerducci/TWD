@@ -1,0 +1,70 @@
+Fee Stake: Cariri
+Crato, Ceará, Brazil
+November 10th 2013
+13 players
+Nilceu Galvão
+https://www.vekn.net/event-calendar/event/7377
+
+-- 4VP in final
+
+Deck Name: Ravnos-Maionese
+
+Description: Silencioso. Tenta sobreviver fazendo seus inimigos ficarem sem agir até aparecer
+a oportunidade de ganhar rapidamente o jogo.
+
+Crypt (13 cards, min=17, max=34, avg=6.62)
+------------------------------------------
+4x Gabrin			  8   ANI CHI dom for	   Ravnos:2
+2x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom  Ravnos:2
+2x Sarisha Veliku		  6   ANI FOR chi dom	   Ravnos:2
+1x Natalia			  7   ANI chi dom for	   Ravnos:2
+1x Joaquina Amaya		  6   ANI CHI FOR	   Ravnos:2
+1x Vaclav Petalengro		  6   ANI CHI for pot	   Ravnos:2
+1x Salbatore Bokkengro		  4   CHI for pro	   Ravnos:2
+1x Royce			  1   dom		   Pander:2
+
+Library (90 cards)
+Master (18; 4 trifle)
+1x Archon Investigation
+2x Direct Intervention
+1x Fortune Teller Shop
+1x Park Hunting Ground
+2x Path of Paradox, The
+1x Pentex(TM) Subversion
+4x Perfectionist
+1x Secure Haven
+4x Vessel
+1x Week of Nightmares
+
+Action (13)
+6x Fatuus Mastery
+7x Sensory Deprivation
+
+Ally (5)
+4x Procurer
+1x Rom Gypsy
+
+Equipment (4)
+1x Camera Phone
+1x Palatial Estate
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Action Modifier (18)
+1x False Resonance
+8x Fata Morgana
+9x Freak Drive
+
+Action Modifier/Combat (13)
+7x Mirror Image
+6x Occlusion
+
+Reaction (14)
+7x Deflection
+1x Guard Dogs
+2x Ignis Fatuus
+3x On the Qui Vive
+1x Wake with Evening's Freshness
+
+Combat (5)
+5x Illusions of the Kindred

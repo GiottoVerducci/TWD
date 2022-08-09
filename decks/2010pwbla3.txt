@@ -1,0 +1,68 @@
+Powerbase: Los Angeles Event #3
+Strategicon - GAMEX 2010, Los Angeles, California
+May 30th 2010
+2R+F
+10 players
+Robert Scythe
+
+Deck Name: The Quick and the Dead
+
+Description: Infernal Pursuits, Aura Readings and the Barrens to get
+your guns on, Ashurs to get back all those necessary discards. In the
+tournament I drew the Barrens in my opening hand all three games, too
+good. All the Forceds would be Eyes if I owned that many, though I did
+use a Forced on a Mind Raped, Pulsed Kallista with only one blood to
+fail a block. There's usually another Quicken, 2 DI's and another
+intercept location (really missed the DI's). This really wants at
+least 1 Aire even if Marcellus cannot use it, and he needs to be the
+main. Rather have a Jake than the Hunting Grounds.
+
+Crypt (12 cards, min=21, max=30, avg=6.42)
+------------------------------------------
+3x Kallista, Master Sculptor	6   AUS CEL pre pro		Toreador:1
+3x Felicia Mostrom		5   AUS CEL pre			Toreador:1
+2x Marcellus			8   AUS CEL pro		prince	Toreador:2
+2x Greta Kircher		7   AUS CEL PRE obf		Toreador antitribu:2
+2x Jessica			7   AUS CEL OBT PRE	bishop	Toreador antitribu:2
+
+Library (90 cards)
+Master (15)
+2x Art Museum
+7x Ashur Tablets
+1x Barrens, The
+2x Blood Doll
+1x Fetish Club Hunting Ground
+1x KRCG News Radio
+1x Society Hunting Ground
+
+Action (5)
+1x Aranthebes, The Immortal
+2x Nose of the Hound
+2x Pulse of the Canaille
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (8)
+7x .44 Magnum
+1x Bowl of Convergence
+
+Reaction (29)
+3x Eagle's Sight
+5x Enhanced Senses
+4x Eyes of Argus
+5x Forced Awakening
+2x My Enemy's Enemy
+2x On the Qui Vive
+4x Quicken Sight
+4x Telepathic Misdirection
+
+Combat (32)
+2x Aura Reading
+5x Concealed Weapon
+1x Fast Hands
+2x Infernal Pursuit
+8x Psyche!
+6x Pursuit
+4x Sideslip
+4x Taste of Vitae

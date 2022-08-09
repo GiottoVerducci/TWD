@@ -1,0 +1,99 @@
+Tournament
+Portsmouth, England
+April 1st 1999
+11 players
+William Lee
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/FExA53d9bEk
+
+William Lee transcribed his Tzimisce deck for me. Here it is, the
+intercept-combat deck that won the last but one Portsmouth tournament
+[in April]:
+
+That's a direct copy of what Will wrote out for me, and I reproduce it
+in part because I think it gives an insight into his creative process.
+And Will is VERY creative, AND a nice guy, AND a good player. Moreover,
+he has the loudest voice of ANY Jyhad player I have ever met, a fact
+which becomes apparent to the entire block once he starts losing.
+
+Notice that this deck, constructed for an NCL environment, is also valid
+for 6CL. It also contains rather few rares, and would probably function
+quite well without those. Hey, i'm getting the hang of this subtle hints
+business, doncha think? Hope you are listening, CL dudes and dudettes.
+
+Crypt (12 cards, min=14, max=34, avg=6.33)
+------------------------------------------
+2x Anton	  8   ANI AUS cel obf vic  		Tzimisce:2
+2x Meshenka	  8   ANI AUS VIC	   priscus	Tzimisce:2
+2x Dragos	  7   ANI AUS vic	   		Tzimisce:2
+1x Lambach	  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
+1x Corine Marcón  6   AUS VIC ani	   		Tzimisce:2
+1x Devin Bisley	  5   ANI AUS vic	   		Tzimisce:2
+1x Lolita Houston 4   VIC aus		   		Tzimisce:2
+1x Wendy Wade	  3   ani aus		   		Tzimisce:2
+1x Horatio	  2   vic		   		Tzimisce:2
+
+Library (86 cards)
+Master (11)
+2x Blood Doll
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Hungry Coyote, The
+1x Library Hunting Ground
+1x Millicent Smith, Puritan Vampire Hunter
+1x Mob Connections
+1x Sudden Reversal
+2x Vicissitude
+
+Action (3)
+1x Ambush
+1x Revelations
+1x Tier of Souls
+
+Ally (2)
+2x War Ghoul
+
+Equipment (3)
+2x Leather Jacket
+1x Living Manse
+
+Retainer (6)
+1x J. S. Simmons, Esq.
+1x Murder of Crows
+2x Owl Companion
+1x Raven Spy
+1x Revenant
+
+Action Modifier (5)
+5x Changeling
+
+Action Modifier/Combat (1)
+1x Plasmic Form
+
+Reaction (22)
+3x Cats' Guidance
+3x Eagle's Sight
+2x Enhanced Senses
+2x Forced Awakening
+2x Guard Dogs
+2x Melange
+2x Precognition
+1x Rat's Warning
+2x Spirit's Touch
+2x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (32)
+1x Blood of Acid
+3x Bonecraft
+2x Breath of the Dragon
+6x Carrion Crows
+1x Conquer the Beast
+6x Horrid Form
+2x Scorpion Sting
+4x Song of Serenity
+2x Taste of Vitae
+2x Terror Frenzy
+3x Trap
+
+Combat/Reaction (1)
+1x Reform Body

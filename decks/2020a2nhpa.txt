@@ -1,0 +1,58 @@
+Abomination 2
+New Holland, Pennsylvania
+February 8th 2020
+2R+F
+14 players
+Ray Ramos
+https://www.vekn.net/event-calendar/event/9513
+
+-- 1GW3.5 + 4VP in final
+
+Deck Name: Grenades Need a Home
+
+Description: A very focused Arms Dealer Deck + 12 changeable support cards
+
+Crypt (12 cards, min=4, max=14, avg=2.25)
+-----------------------------------------
+1x Hector Sosa				4   POT pre	 Brujah:1
+1x Yuri, The Talon			4   cel pot pre	 Brujah:1
+1x Dre, Leader of the Cold Dawn		3   cel pot	 Brujah:1
+1x Raziya Samater			3   ani pot	 Brujah:2
+1x Uma Hatch				3   cel pre	 Brujah:1
+1x Angel				2   cel		 Brujah:1
+1x Lupo					2   pot		 Brujah:1
+1x Vasilis, The Traitor of Don Cruez	2   pre		 Brujah:2
+1x Antoinette DuChamp			1   cel pre	 Caitiff:2
+1x Navar McClaren			1   ani		 Caitiff:1
+1x Nik					1   cel		 Caitiff:1
+1x Smudge the Ignored			1   -none-	 Caitiff:1
+
+Library (90 cards)
+Master (17)
+1x Fame
+13x Haven Uncovered
+1x Jake Washington
+1x KRCG News Radio
+1x Powerbase: Montreal
+
+Action (15)
+1x Aranthebes, The Immortal
+1x Arson
+13x Computer Hacking
+
+Ally (15)
+13x Arms Dealer
+1x Carlton Van Wyk
+1x Gregory Winter
+
+Equipment (14)
+1x Bomb
+13x Grenade
+
+Combat (26)
+13x Concealed Weapon
+13x Fake Out
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

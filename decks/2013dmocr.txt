@@ -1,0 +1,63 @@
+Danse Macabre
+Ostrava, Czech Republic
+November 23rd 2013
+3R+F
+12 players
+Lubomír Gargulák
+https://www.vekn.net/event-calendar/event/7405
+
+Deck Name: Tzimisce Warghouls
+
+Crypt (12 cards, min=4, max=32, avg=4.58)
+-----------------------------------------
+4x Little Tailor of Prague 8   ANI AUS VIC dem	Tzimisce:2
+4x Tupdog		   1   POT VIS		Gargoyle:3
+1x Caliban		   6   ANI AUS VIC	Tzimisce:2
+1x Corine Marcón	   6   AUS VIC ani	Tzimisce:2
+1x Devin Bisley		   5   ANI AUS vic	Tzimisce:2
+1x Horatio		   2   vic		Tzimisce:2
+
+Library (85 cards)
+Master (14; 4 trifle)
+2x Blood Doll
+2x Charisma
+2x Dabbler
+2x Dreams of the Sphinx
+3x Jake Washington
+1x Pentex(TM) Subversion
+2x Vessel
+
+Ally (15)
+2x Asanbonsam Ghoul
+2x Corrupt Construction
+2x Vagabond Mystic
+9x War Ghoul
+
+Retainer (7)
+4x Corpse Balloon
+1x J. S. Simmons, Esq.
+1x Owl Companion
+1x Tasha Morgan
+
+Action Modifier (18)
+9x Changeling
+9x Mind of the Wilds
+
+Action Modifier/Combat (2)
+2x Plasmic Form
+
+Reaction (15)
+3x Eyes of Argus
+4x My Enemy's Enemy
+2x On the Qui Vive
+6x Telepathic Misdirection
+
+Combat (9)
+2x Boxed In
+4x Meld with the Land
+3x Trap
+
+Event (5)
+2x Dragonbound
+1x FBI Special Affairs Division
+2x Unmasking, The

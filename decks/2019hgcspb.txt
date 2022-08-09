@@ -1,0 +1,60 @@
+Hunting Ground Camarilla SP
+São Paulo, Brazil
+January 25th 2019
+3R+F
+13 players
+Fernanda Nunes
+https://www.vekn.net/event-calendar/event/9119
+
+-- 2GW7 + 4VP in final
+
+Deck Name: Shattering Game
+
+Crypt (12 cards, min=14, max=23, avg=4.67)
+------------------------------------------
+3x Angela Preston		   5   MEL PRE for	Daughter of Cacophony:2
+2x Yseult			   6   FOR MEL PRE	Daughter of Cacophony:3
+2x Delilah Monroe		   4   MEL for pre	Daughter of Cacophony:2
+1x Gaël Pilet			   6   FOR MEL chi pre	Daughter of Cacophony:2
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	Ventrue:2
+1x Pieter van Dorn		   4   dom pre tha	Tremere:3
+1x Céleste, The Voice of a Secret  3   mel pre		Daughter of Cacophony:2
+1x Diana Vick			   3   dom pre		Ventrue:3
+
+Library (79 cards)
+Master (17; 4 trifle)
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Paris Opera House
+2x Parthenon, The
+1x Pentex(TM) Subversion
+3x Perfectionist
+2x Vessel
+2x Villein
+
+Action (24)
+2x Entrancement
+2x Legal Manipulations
+2x Public Trust
+16x Shattering Crescendo
+2x Social Charm
+
+Action Modifier (20)
+1x Daring the Dawn
+7x Missing Voice, The
+4x Phantom Speaker
+4x Siren's Lure
+4x Virtuosa
+
+Reaction (9)
+6x Deflection
+3x On the Qui Vive
+
+Combat (6)
+6x Majesty
+
+Event (3)
+1x Fourth Cycle, The
+1x Uncoiling, The
+1x Waiting Game

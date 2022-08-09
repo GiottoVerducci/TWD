@@ -1,0 +1,74 @@
+Hungarian NCQ
+Göd, Hungary
+July 27th 2013
+3R+F
+16 players
+Péter Botos
+
+Deck Name: Cybele's Curse v2
+
+Inspired by "Snakes on the Plane" by Ivan Marin-Rivas.
+This deck, however, relies more on Maleficia for defensive
+purpuses as well. Rather slow to build up but can be very
+effective with time. What I discovered during the games that
+putting one Barrenness on one or two key vampires can very
+much slow down other decks by limiting their capability to
+Govern out company, play Enkil Cog, etc.
+Went up to 90 library cards to include two copies of sense the
+sin for solid ousting power and three dreams for better cards
+flow. Both turned out to be a good idea - thanx to Martin Major.
+
+Crypt (12 cards, min=26, max=40, avg=8.67)
+------------------------------------------
+6x Cybele		   10  ANI DAI OBF PRE SER THA		 Baali:4
+2x Annazir		   9   DAI OBF POT PRE		2 votes	 Baali:5
+2x Azaneal		   7   DAI OBF OBT pre tha		 Baali:4
+2x Maureen, Dark Priestess 6   DAI PRE dom obf		1 vote	 Baali:4
+
+Library (90 cards)
+Master (42; 13 trifle)
+9x Ashur Tablets
+1x Coven, The
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+4x Liquidation
+8x Maleficia
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Ruins of Charizel
+5x Tend the Flock
+3x Villein
+1x Wider View
+
+Action (18)
+10x Barrenness
+1x Contagion
+1x Rutor's Hand
+4x Set's Curse
+2x Unleash Hell's Fury
+
+Ally (1)
+1x Veneficti
+
+Action Modifier (17)
+2x Elder Impersonation
+1x Enkil Cog
+1x Faceless Night
+2x Forgotten Labyrinth
+2x I am Legion
+4x Lost in Crowds
+5x Psalm of the Damned
+
+Action Modifier/Reaction (2)
+2x Sense the Sin
+
+Combat/Reaction (7)
+7x Evil Eye
+
+Event (3)
+1x Anthelios, The Red Star
+2x Scourge of the Enochians

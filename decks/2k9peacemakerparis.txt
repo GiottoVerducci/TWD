@@ -1,0 +1,78 @@
+Peacemaker
+Paris, France
+October 10th 2009
+3R+F
+15 players
+Antonio Cobo Cuenca
+
+Deck Name: Rom Ghouls
+Created by: Antonio Cobo Cuenca based on Johannes Walch's deck
+
+I got the idea from a Johannes' deck he played in Last Chance of
+French Championship 2007 in Paris. I loved the idea but I thought at
+that time the deck needed some things to make it works well.
+
+Crypt (12 cards, min=23, max=34, avg=7.08)
+------------------------------------------
+4x Mata Hari	    7	CHI OBF aus for qui	2 votes	  Ravnos:4
+3x Maris Streck	    9	AUS OBF ani dem dom	justicar  Malkavian:3
+2x Quentin King III 7	AUS DEM obf pre		prince	  Malkavian:3
+1x Mukhtar Bey	    7	FOR PRE QUI obf pot	prince	  Caitiff:4
+1x Victor Pelletier 5	PRE cel dom for			  Ventrue:4
+1x Guedado	    4	aus obf vic			  Tzimisce:4
+
+Library (80 cards)
+Master (18)
+1x Demonstration
+3x Direct Intervention
+3x Dreams of the Sphinx
+1x Ferraille
+1x Giant's Blood
+4x Jake Washington
+2x Pentex(TM) Subversion
+1x Powerbase: Tshwane
+1x Secure Haven
+1x Ventrue Headquarters
+
+Action (5)
+1x Sensory Deprivation
+2x Sibyl's Tongue
+2x Sudario Refraction
+
+Ally (11)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+1x Nephandus
+1x Ponticulus
+1x Tye Cooper
+6x War Ghoul
+
+Equipment (1)
+1x Ankara Citadel, Turkey, The
+
+Political Action (10)
+2x Neonate Breach
+8x Parity Shift
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (25)
+4x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+3x Forgotten Labyrinth
+9x Freak Drive
+3x Lost in Crowds
+2x Veil the Legions
+
+Reaction (5)
+1x My Enemy's Enemy
+3x On the Qui Vive
+1x Telepathic Misdirection
+
+Event (1)
+1x Unmasking, The

@@ -1,0 +1,73 @@
+MQ
+Szeged, Hungary
+June 30th 2007
+34 players
+Sebestyén Balázs
+
+Deck Name: Gangrel Wall 1.1
+Created by: Jovan Pavlovic
+
+Crypt (12 cards, min=20, max=32, avg=6.33)
+------------------------------------------
+4x Faruq	   8   ANI PRO dom for pot  	    Gangrel:2
+3x Caitlin	   6   ANI PRO aus dom	    bishop  Gangrel antitribu:2
+2x Horrock	   6   ANI PRO vic	    	    Gangrel:3
+1x Lord Ashton	   5   ANI for pro	    	    Gangrel:3
+1x Mirembe Kabbada 5   PRO SER ani	    	    Gangrel:2
+1x Bobby Lemon	   4   ANI pro		    	    Gangrel:3
+
+Library (90 cards)
+Master (22)
+1x Archon Investigation
+6x Blood Doll
+1x Channel 10
+1x Direct Intervention
+1x Ecoterrorists
+1x Fame
+1x KRCG News Radio
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Rötschreck
+2x Smiling Jack, The Anarch
+1x WMRH Talk Radio
+1x Zoo Hunting Ground
+
+Action (6)
+1x Aranthebes, The Immortal
+2x Army of Rats
+3x Tier of Souls
+
+Ally (1)
+1x Renegade Garou
+
+Equipment (3)
+1x Ivory Bow
+2x Sport Bike
+
+Retainer (6)
+1x Mr. Winthrop
+4x Raven Spy
+1x Robert Carter
+
+Action Modifier (3)
+3x Earth Control
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Reaction (27)
+6x Cats' Guidance
+6x Deflection
+2x Delaying Tactics
+6x Forced Awakening
+4x On the Qui Vive
+3x Sonar
+
+Combat (20)
+1x Canine Horde
+3x Claws of the Dead
+12x Earth Meld
+2x Flesh of Marble
+2x Form of Mist

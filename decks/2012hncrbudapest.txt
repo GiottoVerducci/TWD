@@ -1,0 +1,72 @@
+HNC Round
+Budapest, Hungary
+December 2nd 2012
+3R+F
+12 players
+Gergo Gyarmati
+
+-- 1.5VP in final
+
+Deck Name: Mano negra illegal 2012
+
+Description: "Babi neni" and friends.
+This deck is a renewed version of a deck I played on several
+tournaments with pretty good results.
+
+Crypt (12 cards, min=15, max=26, avg=5.42)
+------------------------------------------
+4x Sennadurek		 6   AUS NEC dom	Nagaraja:4
+2x Piotr Andreikov	 2   aus		Tzimisce:3
+1x Blackhorse Tanner	 7   AUS DOM FOR	Ventrue antitribu:3
+1x Kazimir Savostin	 7   AUS VIC ani pot	Tzimisce:3
+1x Dominique Santo Paulo 6   AUS CEL pot pre	Toreador antitribu:4
+1x Ingram Frizer	 6   AUS OBF ani pot	Nosferatu antitribu:3
+1x Selena		 6   AUS DOM THA	Tremere antitribu:3
+1x Colonel, The		 5   AUS cel dem obf	Malkavian antitribu:3
+
+Library (90 cards)
+Master (20; 11 trifle)
+4x Corporal Reservoir
+2x Direct Intervention
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+5x Vessel
+1x Weeping Stone
+2x Wider View
+
+Action (11)
+1x Aranthebes, The Immortal
+10x Reunion Kamut
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ossian
+
+Equipment (6)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Guarded Rubrics
+1x Ivory Bow
+2x Light Intensifying Goggles
+
+Action Modifier (4)
+4x Conditioning
+
+Reaction (37)
+5x Eagle's Sight
+2x Enhanced Senses
+7x Eyes of Argus
+3x Forced Awakening
+2x Ministry
+5x My Enemy's Enemy
+3x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (10)
+5x Psychic Assault
+5x Target Vitals

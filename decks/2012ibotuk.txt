@@ -1,0 +1,69 @@
+Imperator
+Burton-on-Trent, England
+February 25th 2012
+2R+F
+13 players
+Hugh Angseesing
+
+-- 4VP in final
+
+Deck Name: Don Cruez's Resurrection
+
+Description: Used 25/02/2012
+loosely based on the Toreador master gun decks flying about -
+it's supposed to have New Carthage in to assist the ousting but I forgot
+3r, 2r, 3f - Anson + Ashurs + gun combat = success
+
+Crypt (12 cards, min=25, max=39, avg=8)
+---------------------------------------
+4x Anson			8   CEL PRE aus dom		prince		Toreador:1
+2x Volker, The Puppet Prince	5   CEL pot			prince		Brujah:2
+1x Alexandra			11  ANI AUS CEL PRE dom		inner circle	Toreador:2
+1x Anneke			10  AUS CEL PRE dom		justicar	Toreador:1
+1x Don Cruez, The Idealist	10  CEL POT PRE ani dom pro	justicar	Brujah:1
+1x Constanza Vinti		8   CEL DOM POT			prince		Brujah:2
+1x Dónal O'Connor		8   CEL DOM POT			prince		Brujah:2
+1x Theo Bell			7   POT cel dom pre				Brujah:2
+
+Library (84 cards)
+Master (36; 7 trifle)
+9x Ashur Tablets
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Fame
+1x Giant's Blood
+4x Haven Uncovered
+2x Information Highway
+1x Lilith's Blessing
+1x Monastery of Shadows
+2x Parthenon, The
+1x Pentex(TM) Subversion
+7x Villein
+5x Zillah's Valley
+
+Action (4)
+1x Big Game
+3x Bum's Rush
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (2)
+1x Anarchist Uprising
+1x Reins of Power
+
+Reaction (9)
+3x Deflection
+6x Second Tradition: Domain
+
+Combat (25)
+1x Blur
+6x Concealed Weapon
+8x Infernal Pursuit
+4x Psyche!
+4x Pursuit
+2x Taste of Vitae
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dragonbound

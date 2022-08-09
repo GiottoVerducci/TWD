@@ -1,0 +1,57 @@
+Metagame Mirage
+Budapest, Hungary
+September 21st 2013
+2R+F
+10 players
+Csaba Greguss
+
+Deck Name: Modern Daughters
+
+Description: "A liitle bit of this, a little bit of that... I missed
+one or two Conductors for the deck, never used the Reinforcements,
+having all the vampires out all rounds, Bane+ Phantom + stealth are
+sweet against blockers, definitely there is space for 1-2 additional
+Siren's Lure."
+
+Crypt (12 cards, min=14, max=32, avg=5.75)
+------------------------------------------
+5x Scout Youngwood 8   MEL OBF PRE for qui  2 votes	Daughter of Cacophony:6
+3x Hillanvale	   5   FOR MEL obf	    		Daughter of Cacophony:6
+2x Harlan Graves   4   FOR mel pre	    		Daughter of Cacophony:6
+2x Janet Langer	   3   MEL pre		    		Daughter of Cacophony:5
+
+Library (63 cards)
+Master (10; 2 trifle)
+1x Command Performance
+1x Fame
+5x Minion Tap
+1x Paris Opera House
+2x Wider View
+
+Action (14)
+5x Concert Tour
+1x Heart of the City
+2x Sanguine Instruction
+6x Shattering Crescendo
+
+Ally (4)
+3x Member of the Entourage
+1x Mylan Horseed
+
+Political Action (8)
+1x Fanfare for Elysium
+5x Lily Prelude
+2x Reinforcements
+
+Action Modifier (21)
+1x Cloak the Gathering
+5x Missing Voice, The
+5x Perfect Paragon
+4x Phantom Speaker
+1x Siren's Lure
+3x Virtuosa
+2x Voter Captivation
+
+Combat (6)
+2x Majesty
+4x Toreador's Bane

@@ -1,0 +1,56 @@
+Fee Stake: Torun
+Torun, Poland
+September 1st 2007
+3R+F
+17 players
+Pawel Kukielczynski
+
+Deck Name: Stanislava rapes the world
+
+Crypt (12 cards, min=32, max=44, avg=9.67)
+------------------------------------------
+5x Stanislava	  11  ANI CEL DOM FOR PRO  inner circle	 Gangrel:2
+3x Ingrid Rossler 9   ANI FOR PRO dom	   prince	 Gangrel:2
+2x Genevieve	  10  ANI FOR PRO aus dom  priscus	 Gangrel antitribu:2
+2x Iliana	  7   DOM FOR PRO tha	   		 Gangrel:2
+
+Library (77 cards)
+Master (16)
+1x Backways
+3x Dreams of the Sphinx
+1x Ecoterrorists
+1x Giant's Blood
+3x Heidelberg Castle, Germany
+5x Minion Tap
+2x Secure Haven
+
+Action (13)
+6x Govern the Unaligned
+7x Mind Rape
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (11)
+1x Ancient Influence
+1x Ancilla Empowerment
+5x Banishment
+1x Political Stranglehold
+2x Protect Thine Own
+1x Reins of Power
+
+Action Modifier (16)
+4x Beast Meld
+4x Earth Control
+3x Forced March
+5x Freak Drive
+
+Action Modifier/Combat (4)
+4x Rapid Change
+
+Reaction (9)
+5x Deflection
+4x Obedience
+
+Combat (6)
+6x Form of Mist

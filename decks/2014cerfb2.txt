@@ -1,0 +1,76 @@
+Campeonato Extra - Reunião
+Fortaleza, Brazil
+August 17th 2014
+2R+F
+10 players
+Nilceu Galvão
+https://www.vekn.net/event-calendar/event/7792
+
+-- 3VP in final
+
+Deck Name: Ravnos-Ivan Dominador
+
+Description: Equipado até os dentes.
+
+Crypt (12 cards, min=30, max=40, avg=8.75)
+------------------------------------------
+4x Ivan Krenyenko		  10  ANI CHI FOR POT obf  Ravnos:2
+4x Gabrin			  8   ANI CHI dom for	   Ravnos:2
+3x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom  Ravnos:2
+1x Sarisha Veliku		  6   ANI FOR chi dom	   Ravnos:2
+
+Library (90 cards)
+Master (17; 5 trifle)
+1x Fortune Teller Shop
+1x Jake Washington
+1x Minion Tap
+1x Park Hunting Ground
+1x Path of Paradox, The
+1x Pentex(TM) Subversion
+3x Perfectionist
+1x Rack, The
+1x Secure Haven
+4x Vessel
+1x Wash
+1x Week of Nightmares
+
+Action (10)
+3x Fatuus Mastery
+7x Sensory Deprivation
+
+Ally (4)
+3x Procurer
+1x Rom Gypsy
+
+Equipment (8)
+1x Helicopter
+1x Karavalanisha Vrana
+1x Palatial Estate
+1x Seal of Veddartha
+1x Shilmulo Tarot
+1x Signet of King Saul, The
+1x Soul Gem of Etrius
+1x Treasured Samadji
+
+Retainer (1)
+1x J. S. Simmons, Esq.
+
+Action Modifier (25)
+4x False Resonance
+8x Fata Morgana
+11x Freak Drive
+2x Will-o'-the-Wisp
+
+Action Modifier/Combat (4)
+4x Mirror Image
+
+Reaction (15)
+5x Deflection
+1x Forced Awakening
+1x Guard Dogs
+3x On the Qui Vive
+3x Redirection
+2x Sense the Savage Way
+
+Combat (6)
+6x Illusions of the Kindred

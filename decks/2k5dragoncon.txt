@@ -1,0 +1,86 @@
+DragonCon - Dragon's Breath
+DragonCon 2005, Atlanta, Georgia
+September 3rd 2005
+3R+F
+18 players
+Robyn Tatu
+
+Deck Name: Sewer Party
+
+Crypt (14 cards, min=10, max=28, avg=4.64)
+------------------------------------------
+1x Selma the Repugnant		    8	OBF POT ani for	 prince	 Nosferatu:1
+1x Murat			    7	OBF POT ser	 prince	 Nosferatu:2
+1x Nikolaus Vermeulen		    7	POT ani for obf	 prince	 Nosferatu:2
+1x Tusk, The Talebearer		    6	OBF ani pot	 	 Nosferatu:1
+1x Calebros, The Martyr		    5	ANI obf pot	 prince	 Nosferatu:2
+1x Grendel the Worm-Eaten	    5	OBF ani pot	 	 Nosferatu:1
+1x Tiberius, The Scandalmonger	    5	ani cel obf pot	 	 Nosferatu:1
+1x Agrippina			    4	OBF pot		 	 Nosferatu:1
+1x Laurent de Valois		    4	ani dom obf	 	 Nosferatu:2
+1x Sammy			    4	ani obf pot	 	 Nosferatu:1
+1x Duck				    3	obf pot		 	 Nosferatu:1
+1x Regilio, The Seeker of Akhenaten 3	aus obf		 	 Nosferatu:2
+1x Dimple			    2	obf		 	 Nosferatu:1
+1x KoKo				    2	pot		 	 Nosferatu:1
+
+Library (90 cards)
+Master (16; 2 trifle)
+1x Anachronism
+1x Archon Investigation
+6x Blood Doll
+1x Fear of Mekhet
+2x Life in the City
+1x Retribution
+1x Slum Hunting Ground
+2x Sudden Reversal
+1x Tribute to the Master
+
+Action (14)
+5x Computer Hacking
+1x Judgment: Camarilla Segregation
+3x Kindred Intelligence
+1x Night Moves
+1x Nosferatu Performance Art
+3x Patagia: Flaps Allowing Limited Flight
+
+Ally (2)
+2x Procurer
+
+Equipment (11)
+2x Blood Tears of Kephran
+1x Blow Torch
+1x Deer Rifle
+1x Flak Jacket
+1x Flaming Candle
+1x Gas-Powered Chainsaw
+1x Laptop Computer
+2x Leather Jacket
+1x Palatial Estate
+
+Political Action (13)
+7x Consanguineous Boon
+1x Disputed Territory
+1x Nosferatu Justicar
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Frankfurt
+1x Praxis Seizure: Houston
+1x Praxis Seizure: London
+
+Action Modifier (22)
+4x Cloak the Gathering
+4x Elder Impersonation
+4x Faceless Night
+3x Forgotten Labyrinth
+4x Lost in Crowds
+1x Marked Path
+2x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (9)
+2x Confusion of the Eye
+1x Poison Pill
+3x Second Tradition: Domain
+3x Wake with Evening's Freshness

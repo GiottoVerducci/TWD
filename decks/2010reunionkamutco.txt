@@ -1,0 +1,63 @@
+Reunion Kamut
+Columbus, Ohio
+June 23rd 2010
+2R+F
+42 players
+Cory Busch Kendall
+
+Crypt (13 cards, min=13, max=19, avg=4)
+---------------------------------------
+3x François "Warden" Loehr	3   def jud	 Judge:4
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+1x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+
+Library (76 cards)
+Master (15)
+6x Angel of Berlin
+1x Church of Vindicated Faith, The
+1x Information Highway
+1x KRCG News Radio
+1x Lupine Assault
+1x Parthenon, The
+1x Rose Foundation, The
+1x Smiling Jack, The Anarch
+1x Society Hunting Ground
+1x Vigil: The Thin Line
+
+Conviction (12)
+4x React with Conviction
+4x Second Sight
+4x Strike with Conviction
+
+Ally (3)
+1x Moise Kasavubu
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (14)
+1x Crusader Sword, The
+2x Flak Jacket
+1x IR Goggles
+2x Kevlar Vest
+2x Leather Jacket
+4x Sniper Rifle
+2x Sport Bike
+
+Power (11)
+1x Champion
+4x Discern
+2x Rejuvenate
+4x Vigilance
+
+Combat (20)
+3x Concealed Weapon
+4x Dodge
+9x Glancing Blow
+4x Manstopper Rounds
+
+Event (1)
+1x Unmasking, The

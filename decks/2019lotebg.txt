@@ -1,0 +1,64 @@
+Living on the Edge
+Bonn, Germany
+January 5th 2019
+3R+F
+16 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/9064
+
+-- 1GW6.5 + 1.5VP in final
+
+Deck Name: the Hoody Gang
+
+Basically every game is like being in a tunnel with the light at the very end.
+Survive and let others die while u build up permacept and try to influence your
+second puncher; let them underestimate the blocking capacities of the deck
+and kill whatever is left on the table, preferably gaining pool with mata special.
+
+removed the dragonbound for a wash (vs pentex) but it needs to go in again.
+bleeding on a prey with 12 pool and 6 minions in torpor is kinda annoying slow.
+
+Crypt (12 cards, min=4, max=43, avg=6.33)
+-----------------------------------------
+5x Anarch Convert   1	-none-			 Caitiff:ANY
+3x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+2x Matasuntha	    10	ANI AUS CEL FOR PRO	 Gangrel:5
+2x Aksinya Daclau   9	ANI FOR PRE PRO cel tha	 Gangrel antitribu:4
+
+Library (90 cards)
+Master (29; 7 trifle)
+12x Ashur Tablets
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+2x Parthenon, The
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+5x Villein
+1x Wash
+1x Wider View
+
+Retainer (9)
+1x Mr. Winthrop
+8x Raven Spy
+
+Action Modifier (5)
+1x Enkil Cog
+2x Forced March
+2x Instantaneous Transformation
+
+Reaction (18)
+3x Cats' Guidance
+4x Forced Awakening
+4x On the Qui Vive
+7x Sense the Savage Way
+
+Combat (29)
+1x Claws of the Dead
+10x Diversion
+4x Drawing Out the Beast
+3x Earth Meld
+3x Infernal Pursuit
+3x Psyche!
+5x Taste of Vitae

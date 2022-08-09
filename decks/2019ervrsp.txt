@@ -1,0 +1,76 @@
+Elysium Reus V
+Reus, Spain
+October 5th 2019
+3R+F
+23 players
+Tomàs López Jiménez
+https://www.vekn.net/event-calendar/event/9360
+
+-- 0gw4 + 3VP in final
+
+Deck Name: Cryptic Mission
+
+2 vp, 2 vp, 0 vp, 3 VP in final
+
+Crypt (13 cards, min=11, max=23, avg=4.38)
+------------------------------------------
+2x Selena		6   AUS DOM THA			Tremere antitribu:3
+2x Hannigan		5   AUS THA dom			Tremere antitribu:2
+1x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
+1x Aisling Sturbridge	5   AUS THA dom			Tremere:2
+1x Cohn Rose		5   THA aus dom pre		Tremere:3
+1x Kyoko Shinsegawa	5   aus cel dom for		Tremere:3
+1x Blythe Candeleria	3   THA aus			Tremere:2
+1x Brooke		3   dom tha			Tremere antitribu:2
+1x Ehrich Weiss		3   dom tha			Tremere:3
+1x Masika St. John	3   THA				Tremere:3
+1x Heinrick Schlempt	2   tha				Tremere antitribu:2
+
+Library (87 cards)
+Master (22; 5 trifle)
+1x Arcane Library
+6x Blood Doll
+1x Charisma
+1x Direct Intervention
+1x Pentex(TM) Subversion
+3x Perfectionist
+2x Society of Leopold
+1x Vampiric Disease
+5x Vessel
+1x Vox Domini
+
+Action (20)
+16x Cryptic Mission
+2x Leech
+2x Zillah's Tears
+
+Ally (13)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Impundulu
+5x Nephandus
+1x Ponticulus
+2x Procurer
+1x Vagabond Mystic
+1x Young Bloods
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (6)
+4x Conditioning
+2x Mirror Walk
+
+Reaction (11)
+6x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+
+Combat (11)
+3x Burst of Sunlight
+3x Theft of Vitae
+3x Trap
+2x Weather Control
+
+Event (3)
+3x Unmasking, The

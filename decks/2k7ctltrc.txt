@@ -1,0 +1,48 @@
+Command The Legion
+Trois-Rivières, Quebec
+October 27th 2007
+3R+F
+19 players
+Jonathan Long
+
+Deck Name: Are you agitated yet?
+
+Description: Mid Cap Settite Vote/Reckless Agitation
+
+Crypt (12 cards, min=18, max=26, avg=5.5)
+-----------------------------------------
+2x Ogwon		  7   OBF PRE SER for	   Follower of Set:5
+2x Ankh-sen-Sutekh	  6   PRE SER obf	   Follower of Set:4
+2x Clea Auguste d'Holford 6   OBF POT pre ser	   Follower of Set:5
+2x Abdelsobek		  5   for nec obf pre ser  Follower of Set:5
+2x Renenet		  5   OBF PRE ser	   Follower of Set:4
+1x Sahira Siraj		  4   obf ser tha	   Follower of Set:4
+1x Sisocharis		  4   cel obf pre	   Follower of Set:5
+
+Library (90 cards)
+Master (11; 6 trifle)
+1x Opium Den
+3x Presence
+1x Temple Hunting Ground
+6x Vessel
+
+Action (11)
+4x Charming Lobby
+1x Enticement
+6x Social Charm
+
+Political Action (15)
+6x Consanguineous Boon
+9x Reckless Agitation
+
+Action Modifier (47)
+11x Awe
+10x Bewitching Oration
+4x Cloak the Gathering
+5x Forgotten Labyrinth
+4x Into Thin Air
+4x Lost in Crowds
+9x Voter Captivation
+
+Combat (6)
+6x Majesty

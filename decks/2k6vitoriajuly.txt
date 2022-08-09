@@ -1,0 +1,69 @@
+Ascendance: Vitória - X
+Tiffany Center Shopping, Vitória, Brazil
+July 22nd 2006
+2R+F
+10 players
+ED Persantj
+
+Deck Name: The Brood
+
+Description:	Put Virstania and the Gargoyles in play. Let them bleed.
+
+ED Persantj
+VEKN - Prince of Grande Vitória Domain
+http://planeta.terra.com.br/lazer/vtesvitoria
+
+Crypt (13 cards, min=16, max=31, avg=6)
+---------------------------------------
+3x Rocia			8   FOR POT VIS obf	 Gargoyle:4
+3x Cedric			6   FOR obf pot vis	 Gargoyle:4
+2x Virstania, The Great Mother	7   AUS THA dom pre vic	 Tremere:3
+1x Muhsin Samir			6   DOM THA aus pot	 Tremere:4
+1x Valois Sang, The Watcher	6   AUS DOM nec tha	 Tremere:3
+1x Pieter van Dorn		4   dom pre tha		 Tremere:3
+1x Ehrich Weiss			3   dom tha		 Tremere:3
+1x Masika St. John		3   THA			 Tremere:3
+
+Library (90 cards)
+Master (17)
+1x Academic Hunting Ground
+5x Blood Doll
+1x Chantry
+6x Dominate
+3x Perfectionist
+1x Spontaneous Power
+
+Action (19)
+5x Create Gargoyle
+4x Govern the Unaligned
+1x Graverobbing
+4x Hatchling
+2x Sanguine Instruction
+3x Scouting Mission
+
+Ally (2)
+2x Procurer
+
+Equipment (1)
+1x Palatial Estate
+
+Action Modifier (16)
+3x Bonding
+4x Conditioning
+1x Foreshadowing Destruction
+5x Skin of the Chameleon
+3x Soar
+
+Reaction (15)
+7x Deflection
+1x Forced Awakening
+1x Redirection
+2x Scry the Hearthstone
+4x Wake with Evening's Freshness
+
+Combat (20)
+2x Bond with the Mountain
+3x Crawling Chamber
+4x Flow Within the Mountain
+8x Rockheart
+3x Stonestrength

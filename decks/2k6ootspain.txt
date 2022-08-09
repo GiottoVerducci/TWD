@@ -1,0 +1,63 @@
+Out of Torpor
+Castellón, Spain
+February 12th 2006
+3R+F
+13 players
+Jose Vicente Coll
+
+Crypt (12 cards, min=32, max=40, avg=9.17)
+------------------------------------------
+4x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Jessica (ADV)			  8   AUS CEL OBT PRE		bishop	    Toreador antitribu:2
+1x Tobias Smith				  7   DOM OBT PRE pot			    Lasombra:3
+
+Library (90 cards)
+Master (15)
+1x Black Forest Base
+1x Elysian Fields
+1x Fear of Mekhet
+1x Golconda: Inner Peace
+2x Information Highway
+1x Legendary Vampire
+6x Minion Tap
+1x Power Structure
+1x Ventrue Headquarters
+
+Action (14)
+2x Charming Lobby
+2x Creation Rites
+1x Far Mastery
+8x Govern the Unaligned
+1x Zillah's Tears
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (17)
+1x Ancilla Empowerment
+1x Banishment
+2x Cardinal Benediction
+1x Justicar Retribution
+7x Kine Resources Contested
+4x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (23)
+3x Blanket of Night
+2x Forgotten Labyrinth
+7x Shadow Play
+4x Shroud of Absence
+2x Shroud of Night
+5x Voter Captivation
+
+Reaction (12)
+8x Deflection
+4x Wake with Evening's Freshness
+
+Combat (8)
+8x Majesty

@@ -1,0 +1,68 @@
+Hungarian NCQ
+Budapest, Hungary
+March 16th 2013
+3R+F
+14 players
+Gyula Erdõs
+
+-- 3.5VP in final
+
+Deck Name: Goratrix 1.3
+
+Crypt (12 cards, min=8, max=40, avg=6.33)
+-----------------------------------------
+3x Goratrix		10  ANI AUS DOM THA vic	 	   Tremere antitribu:2
+3x Anarch Convert	1   -none-		 	   Caitiff:ANY
+2x Omaya		7   ANI AUS FOR pro	 	   Gangrel antitribu:2
+1x Lambach		10  ANI AUS DOM VIC pre	 cardinal  Tzimisce:2
+1x Anastasz di Zagreb	8   AUS THA ani cel dom	 justicar  Tremere:3
+1x Caliban		6   ANI AUS VIC		 	   Tzimisce:2
+1x Devin Bisley		5   ANI AUS vic		 	   Tzimisce:2
+
+Library (90 cards)
+Master (22; 10 trifle)
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Guardian Angel
+1x Lilith's Blessing
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Vessel
+5x Villein
+3x Wash
+
+Action (6)
+1x Army of Rats
+5x Magic of the Smith
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (8)
+1x Bowl of Convergence
+1x Flak Jacket
+1x Heart of Nizchetus
+1x IR Goggles
+1x Ivory Bow
+1x Kevlar Vest
+1x Ruins of Ceoris
+1x Sniper Rifle
+
+Action Modifier (1)
+1x Enkil Cog
+
+Reaction (44)
+7x Cats' Guidance
+1x Delaying Tactics
+7x Eagle's Sight
+3x Enhanced Senses
+9x Eyes of Argus
+3x My Enemy's Enemy
+7x Sense the Savage Way
+7x Telepathic Misdirection
+
+Combat (8)
+2x Canine Horde
+6x Carrion Crows

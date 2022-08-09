@@ -1,0 +1,65 @@
+Nosferatu Hosting
+Stone Mountain, Atlanta, Georgia
+December 20th 2008
+2R+F
+13 players
+Jeffrey Thompson
+
+Deck Name: Nocturns turn the Cog
+
+Appius Claudius Corvus loves to reveal his Enkil Cog to the world.
+There are plenty of Nocturns to ensure that some bleeds of one get
+thru before the lunge.
+This deck took 1.5VP in the first round, swept up 5VP in the
+second round, and squeaked in 3VP in final for the tournament win.
+
+Crypt (12 cards, min=22, max=39, avg=7.75)
+------------------------------------------
+3x Appius Claudius Corvus 10  DOM OBT POT cel nec  		Lasombra:5
+3x Saul Meira		  8   CHI DOM OBT POT	   		Lasombra:5
+2x Ermenegildo, The Rake  5   DOM OBT pot	   		Lasombra:4
+1x Antón de Concepción	  9   ANI DOM OBT POT aus  archbishop	Lasombra:4
+1x Conrad Adoula	  8   DOM OBT POT ani cel  		Lasombra:4
+1x Lord Vauxhall	  7   DOM OBT POT THA	   		Lasombra:4
+1x Andrew Emory		  5   OBT aus dom pot	   bishop	Lasombra:4
+
+Library (90 cards)
+Master (16)
+1x Charisma
+1x Giant's Blood
+1x House of Sorrow
+1x Hungry Coyote, The
+2x Information Highway
+3x Minion Tap
+3x Path of Night, The
+1x Political Hunting Ground
+1x Watchtower: Four Ride Forth
+2x Weeping Stone
+
+Action (14)
+2x Abbot
+1x Black Hand Emissary
+1x Emergency Powers
+8x Govern the Unaligned
+2x Tattoo Signal
+
+Ally (10)
+10x Nocturn
+
+Action Modifier (12)
+1x Empowering the Puppet King
+3x Enkil Cog
+5x Shadow Play
+3x Shroud of Absence
+
+Reaction (22)
+8x Deflection
+2x Delaying Tactics
+2x Forced Awakening
+4x Ministry
+6x On the Qui Vive
+
+Combat (16)
+6x Arms of the Abyss
+6x Entombment
+4x Shadow Body

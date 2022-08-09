@@ -1,0 +1,68 @@
+Warzone Mataró
+Mataró, Spain
+July 20th 2008
+3R+F
+14 players
+Albert Dulcet Bellmonte
+
+-- 3VP in final
+
+Deck Name: weenie obfuscate vote
+
+Crypt (12 cards, min=6, max=13, avg=2.58)
+-----------------------------------------
+1x Agrippina			    4	OBF pot	 Nosferatu:1
+1x Dollface			    3	aus obf	 Malkavian:1
+1x Duck				    3	obf pot	 Nosferatu:1
+1x Max Lowell			    3	cel obf	 Gangrel antitribu:2
+1x Regilio, The Seeker of Akhenaten 3	aus obf	 Nosferatu:2
+1x Shannon Price, The Whisperer	    3	ani obf	 Nosferatu antitribu:2
+1x Watenda			    3	obf	 Malkavian:2
+1x Yorik			    3	dem obf	 Malkavian antitribu:2
+1x Dimple			    2	obf	 Nosferatu:1
+1x Normal			    2	obf	 Malkavian:1
+1x Basil			    1	obf	 Pander:2
+1x Smudge the Ignored		    1	-none-	 Caitiff:1
+
+Library (77 cards)
+Master (14)
+2x Archon Investigation
+3x Effective Management
+1x Elysium: The Palace of Versailles
+3x Information Highway
+5x Tribute to the Master
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (33)
+1x Crusade: Amsterdam
+1x Crusade: Dublin
+1x Crusade: Istanbul
+1x Crusade: Toronto
+6x Diversity
+1x Domain Challenge
+12x Kine Resources Contested
+1x Malkavian Justicar
+1x Nosferatu Justicar
+2x Parity Shift
+1x Praxis Seizure: Athens
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Brussels
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: London
+1x Praxis Seizure: Stockholm
+
+Action Modifier (24)
+2x Bribes
+4x Cloak the Gathering
+6x Cryptic Rider
+4x Faceless Night
+4x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (1)
+1x Malkavian Rider Clause

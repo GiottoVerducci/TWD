@@ -1,0 +1,80 @@
+Heart of Darkness
+Beauport, Quebec
+January 13th 2002
+3R+F
+10 players
+Remy Auclair
+http://web.archive.org/web/20030118092302fw_/http://www.oricom.ca/melkor/vekn_quebec/hod2002r.htm
+
+Deck Name: Potent Vitae
+
+Description: Assamite toolbox with 6 disciplines. Lot of fun !
+
+Crypt (12 cards, min=25, max=35, avg=7.67)
+------------------------------------------
+3x Tegyrius, Vizier	9   AUS CEL FOR QUI pre	 Assamite:2
+2x Bajazet al-Nasir	8   OBF QUI cel for pre	 Assamite:2
+2x Cornelius Ottavio	8   AUS OBF pre qui	 Malkavian:2
+2x Fatima al-Faqadi	8   CEL OBF QUI aus for	 Assamite:2
+2x Tariq, The Silent	7   AUS FOR OBF QUI cel	 Assamite:2
+1x Harika Guljan	3   QUI			 Assamite:2
+
+Library (90 cards)
+Master (13)
+1x Blood Doll
+2x Celerity
+1x Depravity
+2x Fortitude
+1x Giant's Blood
+1x Haven Uncovered
+1x Jake Washington
+1x Market Square
+1x Path of Blood, The
+1x Underworld Hunting Ground
+1x Zillah's Valley
+
+Action (7)
+1x Ambush
+1x Bum's Rush
+2x Intimidation
+2x Khabar: Loyalty
+1x Legal Manipulations
+
+Ally (1)
+1x Ghouls of Plaza Morería, The
+
+Action Modifier (11)
+1x Cloak the Gathering
+4x Freak Drive
+3x Spying Mission
+3x Succulent Vitae
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (14)
+1x Eagle's Sight
+2x Enhanced Senses
+6x Forced Awakening
+2x Precognition
+3x Spirit's Touch
+
+Combat (40)
+2x Acrobatics
+3x Blood Sweat
+1x Blur
+2x Coagulate Blood
+2x Exuding Blood
+3x Flash
+4x Psyche!
+3x Pursuit
+1x Resilience
+1x Shadow Feint
+2x Side Strike
+2x Sideslip
+1x Skin of Rock
+2x Skin of Steel
+2x Staredown
+1x Superior Mettle
+6x Taste of Death
+2x Unflinching Persistence

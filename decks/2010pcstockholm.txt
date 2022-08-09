@@ -1,0 +1,75 @@
+Perpetual Care
+Stockholm, Sweden
+October 23rd 2010
+15 players
+Caroline Hyll
+
+Deck Name: I want to build a block deck, too
+
+Description: AUS ANI FOR block deck.
+
+If I play the deck again I'll remove Carlton (which didn't really see
+play) and add a Tier of Souls or two instead. Blood economy isn't too
+good in the deck, and additional bleeding would be good.
+
+Crypt (12 cards, min=8, max=33, avg=5.5)
+----------------------------------------
+3x Anarch Convert	1   -none-		 	 Caitiff:ANY
+2x Randall		8   ANI AUS FOR PRO	 1 vote	 Gangrel:4
+1x Konrad Fleischer	9   ANI AUS DOM FOR tha	 	 Ventrue antitribu:4
+1x Mordechai Ben-Nun	8   ANI AUS FOR NEC	 	 Harbinger of Skulls:5
+1x Uriel		8   AUS FOR VAL ani obe	 bishop	 Salubri antitribu:4
+1x Babalawo Alafin	7   AUS FOR NEC ani	 	 Harbinger of Skulls:4
+1x Anjalika Underwood	5   ANI aus chi for	 	 Ravnos:5
+1x Solomon Batanea	5   AUS FOR nec		 	 Harbinger of Skulls:4
+1x Yuri Kerezenski	5   ANI aus for vic	 bishop	 Tzimisce:4
+
+Library (89 cards)
+Master (17; 4 trifle)
+1x Animalism
+2x Blood Doll
+1x Carver's Meat Packing and Storage -- was not worthwhile; remove
+1x Erciyes Fragments, The
+1x Giant's Blood
+2x Guardian Angel
+1x Pentex(TM) Subversion -- might want to add one more, to contest
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+2x Vessel
+2x Villein
+
+Action (7)
+2x Army of Rats
+5x Deep Song
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x .44 Magnum
+1x Banshee Ironwail -- very strong
+1x Bowl of Convergence
+
+Reaction (28)
+4x Cats' Guidance
+2x Delaying Tactics
+5x Eagle's Sight
+7x Eyes of Argus
+3x My Enemy's Enemy
+3x Read the Winds
+4x Sense the Savage Way
+
+Combat (32)
+8x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+2x Drawing Out the Beast
+3x Hidden Strength
+2x Indomitability
+3x Rolling with the Punches
+2x Soak
+2x Taste of Vitae
+
+Event (1)
+1x Dragonbound

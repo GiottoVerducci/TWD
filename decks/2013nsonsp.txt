@@ -1,0 +1,44 @@
+Nowa Sól Open
+Nowa Sól, Poland
+October 19th 2013
+3R+F
+13 players
+Kacper Marciniec
+
+-- 4VP in final
+
+Deck Name: Only Madness
+Created by: Tomasz Czech and Kacper "Kasper" Marciniec
+
+Crypt (12 cards, min=6, max=18, avg=3)
+--------------------------------------
+2x Jackie			3   DEM			Malkavian antitribu:4
+2x Midget			3   DEM obf pre		Malkavian antitribu:3
+1x Apache Jones			5   DEM aus for obf	Malkavian antitribu:4
+1x Persia, The Beautiful Statue	5   DEM aus obf		Malkavian:3
+1x Uncle George			5   DEM aus dom obf	Malkavian antitribu:3
+1x Marta			3   aus dem		Malkavian antitribu:4
+1x Bloodfeud			2   obf			Malkavian antitribu:4
+1x Cassandra Langely, The Waif	2   dem			Malkavian:4
+1x César Holfield		1   obf			Caitiff:4
+1x Eddie Gaines			1   dem pot		Caitiff:3
+
+Library (60 cards)
+Master (13; 6 trifle)
+6x Agent of Power
+3x Dementation
+1x Dreams of the Sphinx
+2x Information Highway
+1x Pentex(TM) Subversion
+
+Action (21)
+4x Dive into Madness
+17x Kindred Spirits
+
+Action Modifier (19)
+7x Confusion
+10x Eyes of Chaos
+2x Mind Tricks
+
+Action Modifier/Combat (7)
+7x Deny

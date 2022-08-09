@@ -1,0 +1,60 @@
+Bear Baiting
+Gateway, Los Angeles, California
+August 30th 2008
+2R+F
+19 players
+Robert Scythe
+
+Deck Name: Superior Presents
+
+Description: This deck is a weenie PRE bleeder. It ousted its first
+prey in 16 minutes, and the table was over by minute 36.
+
+Crypt (12 cards, min=13, max=20, avg=4.25)
+------------------------------------------
+1x Barth		5   PRE aus cel		Toreador:3
+1x Creamy Jade		5   PRE aus cel vic	Toreador antitribu:3
+1x Hezekiah Rutledge	5   PRE ani cel pot	Brujah:4
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Shasa Abu Badr	5   PRE cel for		Ishtarri:4
+1x Victor Pelletier	5   PRE cel dom for	Ventrue:4
+1x Antoinette Dubois	4   PRE for mel		Daughter of Cacophony:4
+1x Loonar		4   PRE cel		Toreador antitribu:4
+1x Lumumba		4   PRE ani		Guruhi:4
+1x Marla Kenyon		4   PRE ser		Follower of Set:4
+1x Reverend Adams	3   PRE aus		Caitiff:4
+1x Jayne Jonestown	2   PRE			Brujah antitribu:4
+
+Library (88 cards)
+Master (20; 8 trifle)
+3x Anarch Troublemaker
+1x Antediluvian Awakening
+4x Blood Doll
+2x Coven, The
+6x Life in the City
+1x Misdirection
+3x Pentex(TM) Subversion
+
+Action (35)
+1x Aranthebes, The Immortal
+8x Enchant Kindred
+4x Entrancement
+3x Legal Manipulations
+7x Mind Numb
+3x Propaganda
+9x Social Charm
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Action Modifier (14)
+8x Aire of Elation
+6x Change of Target
+
+Combat (16)
+8x Staredown
+8x Unholy Penance
+
+Event (1)
+1x Port Authority

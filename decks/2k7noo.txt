@@ -1,0 +1,45 @@
+Nightmare on Oudegracht
+Utrecht, Netherlands
+January 13th 2007
+15 players
+Dionisio Garcia Weyzig
+
+Deck Name: Weenie obfuscate
+
+Description: Weenie obfuscate speaks for itself. Went from the
+principle that i didn't want to clog so much with obfuscate.
+
+Crypt (12 cards, min=8, max=20, avg=3.58)
+-----------------------------------------
+2x Zebulon			    5	OBF aus dom pro	 Malkavian:1
+1x Badr al-Budur		    5	OBF cel dom qui	 Assamite:2
+1x Count Ormonde		    5	OBF dom pre ser	 Follower of Set:2
+1x Grendel the Worm-Eaten	    5	OBF ani pot	 Nosferatu:1
+1x Agrippina			    4	OBF pot		 Nosferatu:1
+1x Dollface			    3	aus obf		 Malkavian:1
+1x Regilio, The Seeker of Akhenaten 3	aus obf		 Nosferatu:2
+1x Watenda			    3	obf		 Malkavian:2
+1x Dimple			    2	obf		 Nosferatu:1
+1x Normal			    2	obf		 Malkavian:1
+1x Basil			    1	obf		 Pander:2
+
+Library (83 cards)
+Master (15)
+6x Blood Doll
+1x Labyrinth, The
+5x Obfuscate
+3x Tribute to the Master
+
+Action (20)
+4x Clotho's Gift
+15x Night Moves
+1x Psychic Veil
+
+Action Modifier (48)
+7x Cloak the Gathering
+3x Conditioning
+5x Faceless Night
+5x Lost in Crowds
+3x Marked Path
+8x Mask of a Thousand Faces
+17x Spying Mission

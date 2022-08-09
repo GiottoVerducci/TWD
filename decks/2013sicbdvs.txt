@@ -1,0 +1,71 @@
+Spring is coming
+Badia del Valles, Spain
+March 16th 2013
+3R+F
+25 players
+Tomàs López Jiménez
+
+Deck Name: Panders votos con 2 Inners
+Created by: Based on a Peter Talmasci deck
+
+Crypt (12 cards, min=4, max=27, avg=3)
+--------------------------------------
+1x Arika		    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
+1x Leandro		    11	AUS OBF PRE cel dom	 inner circle	Malkavian:2
+1x Lena Rowe		    3	aus obf pre		 		Pander:2
+1x Christine Boscacci	    2	dom vic			 		Pander:2
+1x Mitchell, The Headhunter 2	obt pot			 		Pander:2
+1x Angela Decker	    1	pre			 		Pander:2
+1x Basil		    1	obf			 		Pander:2
+1x Feo Ramos		    1	aus			 		Pander:3
+1x Huang, Blood Cultist	    1	pro			 		Pander:2
+1x March Halcyon	    1	for			 		Pander:2
+1x Olga Triminov	    1	vic			 		Pander:3
+1x Royce		    1	dom			 		Pander:2
+
+Library (81 cards)
+Master (23; 4 trifle)
+1x Barrens, The
+1x Black Forest Base
+1x Coven, The
+2x Día de los Muertos
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Information Highway
+7x Obfuscate
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Tribute to the Master
+2x Villein
+1x Wash
+
+Political Action (36)
+2x Autarkis Persecution
+5x Banishment
+8x Consanguineous Boon
+2x Conservative Agitation
+1x Crusade: Aragon
+1x Crusade: Detroit
+1x Crusade: Frankfurt
+1x Crusade: New York
+1x Crusade: Philadelphia
+2x Domain Challenge
+8x Kine Resources Contested
+3x Legacy of Pander
+1x Meddling of Semsith, The
+
+Action Modifier (17)
+2x Cloak the Gathering
+2x Domain of Evernight
+2x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+2x Spying Mission
+3x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Gift of Sleep

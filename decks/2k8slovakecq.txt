@@ -1,0 +1,62 @@
+Slovak ECQ
+Bratislava, Slovak Republic
+April 12th 2008
+3R+F
+46 players
+David Wittmann
+
+Deck Name: I like to Rumble
+
+Crypt (12 cards, min=12, max=39, avg=7.08)
+------------------------------------------
+4x Hektor		9   CEL POT PRE QUI for		priscus	    Brujah antitribu:4
+3x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+2x Miguel Santo Domingo	7   POT PRE cel for			    Brujah antitribu:3
+1x Caroline Bishops	3   cel for pot				    Pander:4
+1x Jaggedy Andy		1   pot					    Pander:4
+1x Kai Simmons		1   cel					    Pander:4
+
+Library (90 cards)
+Master (16; 1 trifle)
+1x Black Forest Base
+2x Dreams of the Sphinx
+1x Giant's Blood
+7x Minion Tap
+2x Monster
+1x Sudden Reversal
+1x Tension in the Ranks
+1x Wash
+
+Action (7)
+2x Preternatural Strength
+5x Rumble
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (8)
+1x Ancient Influence
+6x Dogs of War
+1x Political Stranglehold
+
+Action Modifier (16)
+6x Forced March
+4x Freak Drive
+6x Iron Glare
+
+Action Modifier/Combat (9)
+6x Resist Earth's Grasp
+3x Ritual of the Bitter Rose
+
+Combat (32)
+7x Amaranth
+2x Disarm
+9x Immortal Grapple
+4x Pursuit
+2x Skin of Steel
+2x Slam
+3x Soak
+3x Superior Mettle

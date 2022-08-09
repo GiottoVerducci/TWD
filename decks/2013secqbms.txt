@@ -1,0 +1,68 @@
+Spanish ECQ
+Madrid, Spain
+July 13th 2013
+3R+F
+27 players
+Txus Alútiz Lizarraga
+
+Deck Name: Carna Governs
+
+Description: 1GW5 + 1GW3 + 0 + 1.5 (win for position)
+
+Crypt (12 cards, min=13, max=27, avg=5.25)
+------------------------------------------
+2x Carna, The Princess Witch	7   AUS DOM THA		primogen    Tremere:3
+2x Selena			6   AUS DOM THA			    Tremere antitribu:3
+1x Ladislas Toth, The Torch	7   AUS DOM THA for	archbishop  Tremere antitribu:3
+1x Reverend Blackwood		6   DOM THA obf		bishop	    Tremere antitribu:2
+1x Valois Sang, The Watcher	6   AUS DOM nec tha		    Tremere:3
+1x Aisling Sturbridge		5   AUS THA dom			    Tremere:2
+1x Kurt Strauss			5   DOM aus tha			    Tremere antitribu:2
+1x Brooke			3   dom tha			    Tremere antitribu:2
+1x Ehrich Weiss			3   dom tha			    Tremere:3
+1x Mustafa Rahman		2   dom				    Tremere:2
+
+Library (75 cards)
+Master (11; 2 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Misdirection
+2x Pentex(TM) Subversion
+1x Wash
+
+Action (15)
+12x Govern the Unaligned
+2x Magic of the Smith
+1x Revelations
+
+Ally (1)
+1x Ponticulus
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Sniper Rifle
+
+Action Modifier (24)
+6x Bonding
+5x Conditioning
+1x Foreshadowing Destruction
+7x Mirror Walk
+5x Seduction
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (19)
+7x Deflection
+3x Delaying Tactics
+2x Eyes of Argus
+4x On the Qui Vive
+1x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Event (1)
+1x Uncoiling, The

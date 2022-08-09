@@ -1,0 +1,106 @@
+Tournament
+Portsmouth, England
+May 16th 1998
+18 players
+Steve Wright
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/LPdiJMxWBEA
+
+Steve Wright is thus not only the tallest Jyhad player in England but the
+champion of Portsmouth, at least until our next run-in which will probably
+occur in about 6 weeks' time [date uncertain because we want to avoid
+clashing with world cup matches]. Well done Steve! Not bad for someone who
+got Nul Points in Praxis Seizure: Isle of Wight! Here is his winning deck:
+
+Interestingly, Steve's deck is almost a 4CL affair .... and clearly could
+be made 4CL by the simple expedient of replacing one of the WWEFs with
+another Second Tradition. It worked essentially because whenever people
+tried things against it Steve had a counter. Example: I tried a
+cross-table Bum's rush. He Direct-Intervention'd it.
+
+Crypt (12 cards, min=11, max=38, avg=6.17)
+------------------------------------------
+2x Sir Walter Nash		   7   DOM FOR PRE		prince		Ventrue:1
+1x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Democritus			   10  DOM PRE aus cel for	justicar	Ventrue:1
+1x Natasha Volfchek		   9   FOR PRE cel dom pot	primogen	Ventrue:1
+1x Emerson Bridges		   8   DOM FOR PRE pot		prince		Ventrue:1
+1x Luccia Paciola		   6   DOM for pre				Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
+1x Violette Prentiss		   4   PRE dom					Ventrue:1
+1x Gideon Fontaine		   3   PRE					Ventrue:1
+1x Mustafa Rahman		   2   dom					Tremere:2
+1x Rufina Soledad		   2   for					Ventrue:1
+
+Library (86 cards)
+Master (23)
+1x Blood Doll
+1x Direct Intervention
+2x Dominate
+1x Dreams of the Sphinx
+1x Elder Library
+1x Elysium: The Arboretum
+1x Golconda: Inner Peace
+2x Hostile Takeover
+1x Information Highway
+1x KRCG News Radio
+1x Major Boon
+2x Minion Tap
+1x Parthenon, The
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+2x Tomb of Rameses III
+1x Uptown Hunting Ground
+1x Ventrue Headquarters
+
+Action (8)
+2x Fifth Tradition: Hospitality
+3x Govern the Unaligned
+2x Mind Rape
+1x Rapid Healing
+
+Equipment (2)
+1x Soul Gem of Etrius
+1x Sport Bike
+
+Political Action (13)
+1x Ancilla Empowerment
+1x Banishment
+1x Consanguineous Boon
+1x Disputed Territory
+4x Kine Resources Contested
+1x Praxis Seizure: Geneva
+1x Praxis Solomon
+1x Protect Thine Own
+1x Rumors of Gehenna
+1x Ventrue Justicar
+
+Action Modifier (15)
+2x Aire of Elation
+1x Awe
+1x Bewitching Oration
+2x Bonding
+2x Conditioning
+1x Dawn Operation
+1x Day Operation
+2x Kiss of Ra, The
+1x Seduction
+1x Sleeping Mind, The
+1x Voter Captivation
+
+Reaction (13)
+4x Deflection
+1x Elder Intervention
+1x Kindred Coercion
+1x Obedience
+1x Second Tradition: Domain
+5x Wake with Evening's Freshness
+
+Combat (12)
+1x Catatonic Fear
+2x Dragon's Breath Rounds
+4x Majesty
+1x Pulled Fangs
+1x Skin of Rock
+1x Skin of Steel
+2x Zip Gun

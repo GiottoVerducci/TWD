@@ -1,0 +1,95 @@
+Tournament
+Portsmouth, England
+May 6th 2000
+18 players
+Matt Green
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bYcjGAL9eeM
+
+Deck Name: Sandwich of the month
+
+Matthew Green won, with a quite EXTRAORDINARY toolbox Malky deck,
+including [blush, simper] Out-of-turn Rush/aggravated damage/Rotschreck
+combat. He only had 5.5VP to get to the final but he engineered this
+quite BRILLIANTLY, ensuring, for example, in the third heat that none of
+the other players was going to get more VP than him, and that the biggest
+threats to him were stymied. He then played a total blinder in the final,
+starting off slow, blocking or voting down [with my help] Rob's votes,
+helping me to bring Rob down to 1 pool and then using a Madness network
+Dramatic Upheaval to swap places with me, so that he could bleed out Rob
+and then, via a deflection, me. A really AMAZING performance and one for
+the aficionados. Well done, Matt! All the finalists got AH boosters -
+thanks, John!
+
+Here's matthew's winning deck, with his comments.
+
+"The deck could stand some improvement, it was the first time it had
+seen competitive play. The Bums Rushes were pretty bad, another hunter
+would have been better. The Legendary vampire was great as were the
+My E's-E's. Telepathic vote counting should be something different and
+the deck should have Sudden Reversals and maybe a DI. Tribute to the
+Master effectively kept Rob T in the game during round 1, I had no way
+to deal with it. Masters in this deck are at a premium really and adding
+still more OOT cards may be a bad idea. I'll try it and see."
+
+Crypt (12 cards, min=15, max=28, avg=5.33)
+------------------------------------------
+2x Gilbert Duane    7	AUS DOM OBF	 prince	 Malkavian:1
+2x Greger Anderssen 7	AUS OBF dom pro	 prince	 Malkavian:2
+2x Victoria	    5	AUS cel obf	 	 Malkavian:2
+2x Zebulon	    5	OBF aus dom pro	 	 Malkavian:1
+1x Ozmo		    6	AUS dom obf	 	 Malkavian:1
+1x Aleph	    4	AUS dom		 	 Malkavian:1
+1x Watenda	    3	obf		 	 Malkavian:2
+1x Zöe		    3	AUS cel obf	 	 Malkavian:2
+
+Library (82 cards)
+Master (19)
+2x Blood Doll
+1x Dreams of the Sphinx
+2x Elysium: The Arboretum
+1x Legendary Vampire
+5x Madness Network
+2x Protean
+4x Rötschreck
+2x Vast Wealth
+
+Action (4)
+2x Bum's Rush
+2x Graverobbing
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (4)
+1x Ivory Bow
+2x Leather Jacket
+1x Sengir Dagger
+
+Political Action (11)
+2x Conservative Agitation
+2x Dramatic Upheaval
+1x Kindred Restructure
+4x Kine Resources Contested
+1x Malkavian Justicar
+1x Parity Shift
+
+Action Modifier (16)
+2x Cloak the Gathering
+2x Conditioning
+1x Foreshadowing Destruction
+3x Forgotten Labyrinth
+6x Lost in Crowds
+2x Telepathic Vote Counting
+
+Reaction (18)
+4x Deflection
+2x Forced Awakening
+3x Malkavian Rider Clause
+6x My Enemy's Enemy
+3x Wake with Evening's Freshness
+
+Combat (9)
+3x Behind You!
+1x Body Flare
+2x Bone Spur
+3x Flesh of Marble

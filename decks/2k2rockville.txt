@@ -1,0 +1,61 @@
+Folderol
+Rockville, Maryland
+April 6th 2002
+15 players
+Josh Duffin
+
+Deck Name: "Mona Lisa Overdrive" (for the Smiling, and for the book.)
+
+Crypt (12 cards, min=22, max=36, avg=7.08)
+------------------------------------------
+3x Omaya	 7   ANI AUS FOR pro	  	    Gangrel antitribu:2
+2x Lambach	 10  ANI AUS DOM VIC pre  cardinal  Tzimisce:2
+2x Anton	 8   ANI AUS cel obf vic  	    Tzimisce:2
+2x Corine Marcón 6   AUS VIC ani	  	    Tzimisce:2
+2x Devin Bisley	 5   ANI AUS vic	  	    Tzimisce:2
+1x Caliban	 6   ANI AUS VIC	  	    Tzimisce:2
+
+Library (81 cards)
+Master (15)
+3x Blood Doll
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+2x Millicent Smith, Puritan Vampire Hunter
+2x Minion Tap
+1x Powerbase: Montreal
+1x Rack, The
+4x Smiling Jack, The Anarch
+
+Action (1)
+1x Army of Rats
+
+Ally (2)
+2x War Ghoul -- three might be better, but probably no more
+
+Equipment (3)
+1x Femur of Toomler
+1x Ivory Bow
+1x Palatial Estate
+
+Retainer (8)
+1x Mr. Winthrop
+2x Owl Companion -- super-key for knowing what they're up to
+3x Raven Spy
+2x Revenant
+
+Reaction (30)
+7x Cats' Guidance
+5x Eagle's Sight
+2x Enhanced Senses
+4x Forced Awakening
+5x Read the Winds
+4x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (22)
+5x Aid from Bats
+2x Canine Horde
+7x Carrion Crows
+2x Conquer the Beast -- cause it's optional
+3x Taste of Vitae -- taste for 3 = as good as 3 hunts
+3x Trap -- cause War Ghouls can use 'em

@@ -1,0 +1,55 @@
+Snocon
+Umea, Sweden
+January 7th 2005
+20 players
+Nils-Johan Andreasson
+
+Deck Name: Talley's Night Out
+
+Description: Lasombra S&B with light intercept & combat.
+
+Crypt (12 cards, min=18, max=34, avg=6.5)
+-----------------------------------------
+1x Antonio Delgado		9   DOM OBT POT tha	 archbishop	Lasombra:2
+1x Francisco Domingo de Polonia	9   DOM OBT POT PRE pro	 archbishop	Lasombra:2
+1x Gratiano			8   DOM OBT obf pot	 priscus	Lasombra:2
+1x Lucita			8   DOM FOR OBT cel pot	 		Lasombra:2
+1x Henri Lavenant		7   DOM OBT pot qui	 		Lasombra:3
+1x Tobias Smith			7   DOM OBT PRE pot	 		Lasombra:3
+1x Aurora Van Brande, Paladin	6   OBT dom for pot	 		Lasombra:2
+1x Talley, The Hound		6   OBT POT aus dom	 		Lasombra:2
+1x Banjoko			5   DOM obt pot		 		Lasombra:3
+1x Guido Lucciano		5   OBT dom obf		 		Lasombra:2
+1x Ignacio, The Black Priest	4   dom obt pot		 		Lasombra:2
+1x Ramiro			4   dom obt vic		 		Lasombra:2
+
+Library (90 cards)
+Master (14)
+1x Barrens, The
+2x Blood Doll
+2x Capitalist
+1x Elysian Fields
+3x Information Highway
+1x KRCG News Radio
+2x Minion Tap
+1x Political Hunting Ground
+1x Rumor Mill, Tabloid Newspaper, The
+
+Action (10)
+10x Govern the Unaligned
+
+Action Modifier (24)
+1x Blanket of Night
+10x Bonding
+7x Shadow Play
+6x Shroud of Night
+
+Reaction (24)
+6x Darksight
+5x Deflection
+6x Eyes of the Night
+7x Wake with Evening's Freshness
+
+Combat (18)
+12x Arms of the Abyss
+6x Undead Strength

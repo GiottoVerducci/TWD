@@ -1,0 +1,53 @@
+La Grande Vaulderie
+Paris, France
+June 28th 2003
+55 players
+Pierre Tran-Van
+
+Deck Name: Draught of Betrayal
+
+Crypt (12 cards, min=12, max=30, avg=5.33)
+------------------------------------------
+4x Tariq, The Silent		    7	AUS FOR OBF QUI cel	Assamite:2
+2x Fatima al-Faqadi		    8	CEL OBF QUI aus for	Assamite:2
+1x Anwar			    4	cel obf qui		Assamite:2
+1x Tansu Bekir			    4	OBF cel			Assamite:2
+1x Juan Cali			    3	aus for			Ventrue antitribu:2
+1x Max Lowell			    3	cel obf			Gangrel antitribu:2
+1x Regilio, The Seeker of Akhenaten 3	aus obf			Nosferatu:2
+1x Zöe				    3	AUS cel obf		Malkavian:2
+
+Library (90 cards)
+Master (12)
+5x Blood Doll
+1x Celerity
+1x Dreams of the Sphinx
+1x Fame
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+1x Market Square
+1x Underworld Hunting Ground
+
+Equipment (8)
+2x Flamethrower
+2x Ivory Bow
+2x Rowan Ring
+2x Sengir Dagger
+
+Action Modifier/Combat (5)
+5x Draught of the Soul
+
+Reaction (16)
+4x Eagle's Sight
+9x Forced Awakening
+2x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (49)
+10x Amaranth
+9x Disguised Weapon
+7x Flash
+6x Psyche!
+7x Pursuit
+5x Rolling with the Punches
+5x Unflinching Persistence

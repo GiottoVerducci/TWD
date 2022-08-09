@@ -1,0 +1,74 @@
+Crusade: Krakow
+Krakow, Poland
+March 2nd 2013
+3R+F
+19 players
+Piotr Jaworski
+
+-- 5VP in final
+
+Stanislava's raping team
+
+Crypt (13 cards, min=23, max=44, avg=8.77)
+------------------------------------------
+4x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
+3x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
+2x Iliana		7   DOM FOR PRO tha	 		Gangrel:2
+1x Genevieve		10  ANI FOR PRO aus dom	 priscus	Gangrel antitribu:2
+1x Hartmut Stover	10  CEL OBF PRO dom for	 archbishop	Gangrel antitribu:3
+1x Caitlin		6   ANI PRO aus dom	 bishop		Gangrel antitribu:2
+1x Chandler Hungerford	3   PRO			 		Gangrel:2
+
+Library (90 cards)
+Master (24; 5 trifle)
+1x Backways
+2x Dominate
+1x Ecoterrorists
+1x Giant's Blood
+1x Golconda: Inner Peace -- Inner Peace
+3x Heidelberg Castle, Germany
+2x Information Highway
+2x Lilith's Blessing
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+5x Villein
+4x Zillah's Valley
+
+Action (13)
+2x Abactor
+1x Army of Rats
+4x Govern the Unaligned
+6x Mind Rape
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (7)
+1x Ancient Influence
+2x Banishment
+1x Gangrel Justicar
+1x Political Stranglehold
+1x Reins of Power
+1x Veles' Hunt
+
+Action Modifier (24)
+2x Beast Meld
+2x Conditioning
+6x Earth Control
+1x Enkil Cog
+4x Forced March
+1x Foreshadowing Destruction
+4x Freak Drive
+4x Seduction
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Reaction (8)
+5x Deflection
+3x On the Qui Vive
+
+Combat (11)
+3x Alpha Glint
+3x Earth Meld
+5x Form of Mist

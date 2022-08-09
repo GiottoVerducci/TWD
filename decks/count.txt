@@ -1,0 +1,1858 @@
+6967	Deflection	True	38
+6881	Govern the Unaligned	True	49
+4852	On the Qui Vive	True	68
+4581	Telepathic Misdirection	True	35
+4158	Blood Doll	True	42
+3860	Villein	True	26
+3745	Kine Resources Contested	True	49
+3666	Majesty	True	32
+3614	Freak Drive	True	14
+3513	Conditioning	True	21
+3226	Wake with Evening's Freshness	True	12
+3033	Lost in Crowds	True	21
+2931	Dreams of the Sphinx	True	4
+2782	Vessel	True	17
+2726	Ashur Tablets	True	3
+2720	Taste of Vitae	True	10
+2689	Carrion Crows	True	20
+2634	Second Tradition: Domain	True	26
+2567	Forced Awakening	True	13
+2426	Eyes of Argus	True	27
+2081	Voter Captivation	True	10
+2057	Aid from Bats	True	6
+1951	Kindred Spirits	True	8
+1927	Immortal Grapple	True	12
+1917	Pentex(TM) Subversion	True	3
+1915	Swallowed by the Night	True	12
+1866	Cloak the Gathering	True	12
+1808	Minion Tap	True	2
+1773	Parity Shift	True	23
+1771	Faceless Night	True	10
+1675	Elder Impersonation	True	5
+1648	Delaying Tactics	True	6
+1593	Eagle's Sight	True	2
+1518	Information Highway	True	3
+1497	Direct Intervention	True	1000
+1451	Seduction	True	7
+1445	Earth Meld	True	11
+1440	Zillah's Valley	True	6
+1351	Cats' Guidance	True	13
+1334	Deep Song	True	25
+1324	Parthenon, The	False	0
+1316	Giant's Blood	True	1
+1299	Bonding	True	20
+1251	My Enemy's Enemy	False	0
+1247	Enhanced Senses	True	10
+1221	Torn Signpost	True	5
+1207	Target Vitals	True	6
+1166	Forgotten Labyrinth	True	2
+1163	Obedience	True	2
+1160	Enchant Kindred	True	48
+1158	Pursuit	True	6
+1131	Entrancement	True	7
+1114	Spying Mission	True	9
+1105	Sudden Reversal	True	4
+1088	Bum's Rush	False	0
+1070	Embrace, The	True	9
+1046	Concealed Weapon	False	0
+1042	Raven Spy	True	10
+1035	Consanguineous Boon	True	13
+1033	Form of Mist	True	10
+993	Liquidation	True	1
+987	Rolling with the Punches	True	2
+975	Theft of Vitae	True	24
+964	Banishment	True	4
+955	.44 Magnum	True	3
+909	Confusion	True	4
+883	Computer Hacking	True	9
+871	Shambling Hordes	True	1000
+866	Call of the Hungry Dead	True	1000
+864	Eyes of Chaos	True	4
+847	Bewitching Oration	True	12
+843	Change of Target	True	10
+838	Psyche!	False	0
+835	Aire of Elation	True	8
+827	Mirror Walk	True	12
+821	Fame	True	7
+819	Shadow Play	True	1004
+778	Perfectionist	True	2
+772	Wider View	True	9
+771	Forced March	True	3
+765	Hidden Strength	True	8
+745	Heart of Nizchetus	True	3
+743	Sense the Savage Way	False	0
+736	Anarch Revolt	False	0
+735	Wash	True	1
+728	Weighted Walking Stick	True	3
+724	Powerbase: Montreal	True	1
+717	Jake Washington	True	1
+706	Archon Investigation	False	0
+700	Blur	False	0
+691	Unmasking, The	True	2
+691	Foreshadowing Destruction	True	3
+688	Carlton Van Wyk	True	2
+667	Legal Manipulations	True	2
+650	Nephandus	True	8
+647	Earth Control	True	8
+647	Magic of the Smith	True	3
+639	Redirection	False	0
+633	Chiropteran Marauder	True	6
+627	Spectral Divination	True	1000
+608	Daring the Dawn	True	3
+603	Ivory Bow	True	3
+602	Effective Management	False	0
+592	Smiling Jack, The Anarch	True	3
+587	Indomitability	True	2
+586	Skin of Steel	False	0
+582	Second Sight	False	0
+582	Apportation	True	11
+578	Trap	True	3
+575	Strike with Conviction	False	0
+571	Anarch Troublemaker	True	1
+569	Haven Uncovered	True	3
+569	Nocturn	True	1000
+563	Golconda: Inner Peace	False	0
+562	Veil the Legions	True	2
+542	Spirit's Touch	True	10
+534	Life in the City	True	4
+532	Awe	False	0
+522	Rack, The	True	2
+521	Speak with Spirits	False	0
+513	Precognition	True	9
+512	Disarm	False	0
+511	Dominate	True	1
+509	Secure Haven	True	1
+499	Flash	True	5
+491	Conservative Agitation	True	1
+491	Telepathic Counter	True	2
+491	Scouting Mission	True	12
+488	Enkil Cog	True	2
+485	Sideslip	False	0
+476	Canine Horde	False	0
+455	Changeling	True	4
+449	React with Conviction	False	0
+449	Swiftness of the Stag	False	0
+435	Aranthebes, The Immortal	False	0
+432	Into Thin Air	False	0
+432	Bowl of Convergence	True	2
+432	Raking Talons	False	0
+421	Obfuscate	False	0
+415	Resist Earth's Grasp	True	17
+408	Undead Strength	False	0
+405	Staredown	False	0
+404	Shroud of Absence	True	1007
+403	Barrens, The	True	3
+402	Spiritual Intervention	True	1000
+402	Anthelios, The Red Star	False	0
+398	Coven, The	True	1
+396	Mind Numb	True	2
+393	Shroud of Night	True	1004
+390	Unflinching Persistence	True	2
+389	Misdirection	True	5
+388	Fake Out	False	0
+387	Tribute to the Master	False	0
+385	Graverobbing	False	0
+383	Perfect Paragon	True	9
+376	KRCG News Radio	True	1
+372	Heidelberg Castle, Germany	True	1
+369	Monastery of Shadows	True	3
+368	Flesh of Marble	False	0
+368	Claws of the Dead	True	2
+366	War Ghoul	False	0
+364	Ancient Influence	True	2
+360	Sudario Refraction	True	1000
+357	Mr. Winthrop	True	1
+356	Mylan Horseed	True	1
+351	Emerald Legionnaire	True	4
+350	Soak	True	3
+345	Ancilla Empowerment	True	3
+345	Domain of Evernight	False	0
+343	Sniper Rifle	True	1
+342	Reins of Power	True	2
+339	Dodge	False	0
+338	Rötschreck	False	0
+338	Thrown Gate	False	0
+337	Angel of Berlin	False	0
+337	Murmur of the False Will	True	3
+335	Anarchist Uprising	True	3
+333	Public Trust	False	0
+329	Threats	True	4
+326	Political Stranglehold	True	2
+325	Drawing Out the Beast	False	0
+317	Abbot	False	0
+317	Vigilance	False	0
+315	Leather Jacket	False	0
+314	Temptation	True	1000
+310	Breath of the Dragon	True	3
+304	Army of Rats	True	2
+303	Deny	False	0
+300	Fifth Tradition: Hospitality	True	1
+299	Pack Alpha	False	0
+298	Procurer	False	0
+293	Quicken Sight	False	0
+293	Spirit Marionette	False	0
+292	Mind Rape	False	0
+291	Instantaneous Transformation	True	7
+291	Flurry of Action	False	0
+288	Shadow Body	True	1003
+286	Plasmic Form	False	0
+283	Diversion	False	0
+283	Terror Frenzy	False	0
+281	Art Scam	True	4
+281	Guard Dogs	True	7
+279	Social Charm	True	2
+273	Superior Mettle	False	0
+271	Ossian	False	0
+270	Dragonbound	True	1
+267	Tend the Flock	True	2
+260	Arms of the Abyss	True	1000
+257	Reunion Kamut	False	0
+255	Glancing Blow	True	3
+255	No Trace	True	6
+252	Thrown Sewer Lid	False	0
+246	Harass	True	3
+245	Vagabond Mystic	False	0
+243	Aura Reading	False	0
+243	Side Strike	False	0
+242	Sport Bike	True	2
+240	Iron Glare	False	0
+240	Intimidation	True	4
+239	Falcon's Eye	False	0
+238	Cryptic Mission	False	0
+233	Sense the Sin	False	0
+232	Amaranth	False	0
+231	Undue Influence	True	1000
+231	Unleash Hell's Fury	True	1
+231	Fortitude	False	0
+230	Dominate Kine	True	4
+230	Far Mastery	False	0
+230	Disputed Territory	False	0
+227	Determine	False	0
+227	Khazar's Diary (Endless Night)	True	1000
+226	Rapid Change	True	2
+224	Scourge of the Enochians	True	1
+224	Nose of the Hound	False	0
+224	Stone Travel	True	1000
+224	Toreador Grand Ball	True	8
+223	Command of the Beast	False	0
+222	Kiss of Ra, The	False	0
+221	Domain Challenge	True	1
+219	Animalism	True	1
+219	J. S. Simmons, Esq.	True	1
+218	Call, The	False	0
+218	Anesthetic Touch	False	0
+218	Fata Morgana	True	1000
+217	Creepshow Casino	True	2
+217	Eternals of Sirius, The	True	1000
+215	Mirror Image	True	1000
+214	Crocodile's Tongue	True	2
+213	Revelations	True	4
+212	Fortschritt Library	False	0
+212	Lilith's Blessing	False	0
+210	Guardian Angel	True	2
+209	Disguised Weapon	False	0
+208	Camera Phone	False	0
+208	Mental Maze	True	1000
+207	Storage Annex	False	0
+207	Increased Strength	False	0
+204	Presence	False	0
+204	Behind You!	False	0
+202	Palla Grande	True	3
+201	Flash Grenade	False	0
+199	Tasha Morgan	False	0
+199	WMRH Talk Radio	True	1
+198	Neonate Breach	True	4
+196	Memories of Mortality	False	0
+190	Read the Winds	True	4
+190	Murder of Crows	True	5
+188	Night Moves	False	0
+187	Legendary Vampire	True	1
+186	Telepathic Tracking	True	5
+186	Madness Network	False	0
+184	Scalpel Tongue	True	7
+184	Fourth Tradition: The Accounting	True	1
+184	Aura Absorption	False	0
+182	Reckless Agitation	False	0
+182	Infernal Pursuit	False	0
+182	Tension in the Ranks	True	1
+181	Rejuvenate	False	0
+181	Haqim's Law: Leadership	True	1000
+181	Third Tradition: Progeny	False	0
+180	Alastor	False	0
+180	Horrid Form	True	4
+179	No Secrets From the Magaji	False	0
+179	Shattering Crescendo	True	4
+177	Force of Personality	True	2
+177	Rutor's Hand	True	2
+176	FBI Special Affairs Division	False	0
+176	Ambush	True	3
+176	Pulse of the Canaille	False	0
+175	Meld with the Land	False	0
+174	Approximation of Loyalty	False	0
+174	Discern	False	0
+173	Tenebrous Form	True	1002
+171	Loss	True	1000
+171	Rock Cat	False	0
+170	Catatonic Fear	False	0
+170	Predator's Communion	False	0
+169	Homunculus	True	1
+169	Hungry Coyote, The	True	1
+169	Fae Contortion	True	1000
+168	Renewed Vigor	False	0
+167	I am Legion	True	2
+166	Eluding the Arms of Morpheus	False	0
+165	Restoration	True	1
+164	Call the Great Beast	False	0
+162	Laptop Computer	True	1
+162	Piper	False	0
+162	Charisma	True	1
+162	Oubliette	True	1003
+160	Blanket of Night	True	1002
+160	Rumors of Gehenna	False	0
+160	Enticement	True	1000
+159	Stonestrength	False	0
+159	Metro Underground	False	0
+159	Gregory Winter	True	1
+159	Slam	True	4
+159	Truth of a Thousand Lies	True	1000
+157	Ventrue Headquarters	True	2
+156	Missing Voice, The	False	0
+155	Path of Night, The	True	1000
+153	Spell of Life	True	1000
+153	Invoking the Beast	False	0
+152	Erciyes Fragments, The	False	0
+152	Pulled Fangs	False	0
+149	Acquired Ventrue Assets	True	1000
+149	Grooming the Protégé	False	0
+149	Outside the Hourglass	True	2
+148	Rego Motum	True	9
+147	Protean	False	0
+147	Rumor Mill, Tabloid Newspaper, The	True	1
+146	Saturday-Night Special	False	0
+145	Cryptic Rider	False	0
+143	Crawling Chamber	False	0
+143	Auspex	False	0
+143	Brick by Brick	True	2
+142	Celerity	False	0
+141	Leverage	False	0
+141	Sensory Deprivation	True	1000
+140	Mind Tricks	True	3
+139	Channel 10	True	1
+138	Dementation	False	0
+137	Narrow Minds	False	0
+137	Walk of Flame	True	3
+137	Force of Will	False	0
+135	Breath of Thanatos	True	1000
+135	Assault Rifle	False	0
+134	Fiendish Tongue	False	0
+134	Aching Beauty	True	4
+133	Palatial Estate	False	0
+133	Visit from the Capuchin	True	1
+133	True Love's Face	True	2
+132	Resilience	False	0
+130	Repulsion	False	0
+130	Ecoterrorists	True	2
+130	Potence	True	1
+128	Occlusion	True	1000
+128	Honor the Elders	False	0
+127	IR Goggles	False	0
+126	Arcane Library	True	3
+126	Madman's Quill	False	0
+126	Eldest Are Kholo, The	True	1000
+125	Trochomancy	True	1000
+125	Dark Influences	True	1
+125	Predator's Transformation	False	0
+125	Creation Rites	False	0
+123	Revenant	False	0
+123	Renegade Garou	False	0
+122	Church of Vindicated Faith, The	False	0
+122	Champion	False	0
+122	Molotov Cocktail	True	3
+122	Judgment: Camarilla Segregation	True	1
+121	Elysian Fields	True	1000
+121	Papillon	True	2
+120	Heart of the City	True	1
+120	Telepathic Vote Counting	True	2
+120	Mask of a Thousand Faces	False	0
+120	Earth Swords	False	0
+120	Dramatic Upheaval	False	0
+119	Summon History	True	3
+119	Cardinal Benediction	False	0
+119	Poison Pill	False	0
+119	Autarkis Persecution	False	0
+119	Legacy of Pander	False	0
+117	Fear of Mekhet	True	1
+117	Uncoiling, The	False	0
+117	Burst of Sunlight	False	0
+116	Black Sunrise	True	1000
+115	Form of Corruption	True	1001
+115	Preternatural Strength	True	3
+115	Engling Fury	False	0
+115	Protect Thine Own	False	0
+114	Dragon's Breath Rounds	False	0
+113	Millicent Smith, Puritan Vampire Hunter	False	0
+113	Tumnimos	True	1000
+112	Eternal Vigilance	False	0
+111	Power of One	True	1000
+111	Anathema	False	0
+109	Bribes	False	0
+109	Pushing the Limit	False	0
+108	Psychomachia	False	0
+108	Typhonic Beast	True	1000
+108	Path of Bone, The	True	1000
+108	Decapitate	False	0
+108	Entombment	True	1001
+108	Rockheart	False	0
+107	Uncontrolled Impulse	False	0
+107	Draba	True	1000
+107	Web of Knives Recruit	True	1000
+106	Art Museum	True	3
+105	Under Siege	True	5
+104	Elder Library	True	2
+103	Owl Companion	True	1
+103	Kevlar Vest	True	3
+103	Derange	False	0
+103	Zip Gun	False	0
+103	Sleeping Mind, The	False	0
+102	Skin of Rock	False	0
+100	Lost in Translation	False	0
+100	Brujah Debate	False	0
+99	Slow Withering, The	False	0
+99	Ears of the Hare	True	2
+99	Alamut	True	1001
+99	Rat's Warning	True	2
+99	Confusion of the Eye	False	0
+99	Mozambique Allure	True	1000
+99	Eyes of the Night	True	1000
+98	First Tradition: The Masquerade	False	0
+98	Sargon Fragment, The	True	1001
+96	Devil-Channel: Hands	False	0
+96	Temptation of Greater Power	False	0
+95	As the Crow	True	2
+95	Touch of Clarity	True	2
+94	Society of Leopold	False	0
+94	Opium Den	True	1
+94	Beast Meld	True	1
+94	Ravnos Carnival	True	1000
+94	Gremlins	True	2
+93	Frontal Assault	True	3
+93	Charismatic Aura	True	2
+93	Tier of Souls	True	2
+92	Arson	False	0
+92	Hostile Takeover	False	0
+92	Dirty Contract	True	1000
+91	Hide the Mind	False	0
+91	Protected Resources	False	0
+91	Heroic Might	True	4
+91	Backways	True	2
+91	Major Boon	False	0
+90	Inner Essence	True	4
+89	Muddled Vampire Hunter	False	0
+89	Art of Memory, The	False	0
+88	Life Boon	True	1
+87	Baltimore Purge	True	1000
+87	Asanbonsam Ghoul	True	1000
+87	Maleficia	False	0
+87	Earthshock	False	0
+86	Undead Persistence	False	0
+85	Galaric's Legacy	False	0
+85	Weather Control	False	0
+84	Chantry	True	3
+83	Underbridge Stray	True	3
+83	Corporate Hunting Ground	False	0
+82	Academic Hunting Ground	True	2
+82	Ponticulus	True	1
+82	Crusader Sword, The	False	0
+82	Library Hunting Ground	True	1
+82	Fragment of the Book of Nod	True	1
+82	Absorb the Mind	False	0
+81	Inspire	False	0
+81	Shroud Mastery	True	1000
+81	Wolf Claws	False	0
+81	Labyrinth, The	True	3
+81	Bone Spur	False	0
+80	Flak Jacket	False	0
+80	Brainwash	False	0
+80	Elysium: The Arboretum	False	0
+80	Charming Lobby	False	0
+79	Kaymakli Fragment	False	0
+79	Draeven Softfoot	True	1001
+79	Mind of the Wilds	False	0
+79	Song of Pan	False	0
+78	Tye Cooper	True	1000
+78	Gift of Sleep	True	2
+77	Veneficti	True	1
+77	Sense Death	False	0
+77	Evil Eye	False	0
+77	Slaughtering the Herd	True	1
+77	Thoughts Betrayed	False	0
+77	Acrobatics	False	0
+76	Asylum Hunting Ground	True	2
+76	Melange	True	1
+76	Tunnel Runner	False	0
+75	Siren's Lure	False	0
+75	Media Influence	False	0
+74	Mob Connections	False	0
+74	Powerbase: Cape Verde	True	1000
+74	Well-Marked	False	0
+73	Blind Spot	False	0
+73	Atonement	True	1000
+73	High Ground	False	0
+73	Slaughterhouse, The	False	0
+73	Apparition	True	1000
+72	Morgue Hunting Ground	True	1000
+72	Leonardo, Mortician	True	1000
+72	Tattoo Signal	False	0
+72	Seraph's Second	False	0
+72	Empowering the Puppet King	False	0
+71	Taste of Death	True	1000
+71	Khabar: Glory	True	1000
+71	Pounce	False	0
+70	Restructure	False	0
+70	Zoo Hunting Ground	True	1
+70	Soul Gem of Etrius	False	0
+70	Coma	True	1
+70	Mbare Market, Harare	False	0
+70	Founders of the Ebony Kingdom	False	0
+69	Political Hunting Ground	True	1001
+69	Powerbase: Madrid	True	1
+69	Helicopter	False	0
+69	Aye	False	0
+69	Little Mountain Cemetery	False	0
+68	Tangle Atropos' Hand	True	1
+68	Clotho's Gift	False	0
+68	Twilight Camp	False	0
+67	Infernal Servitor	True	1
+67	Power Structure	True	1001
+67	Read Intentions	False	0
+67	Improvised Flamethrower	False	0
+67	Blood Fury	True	2
+66	Vast Wealth	True	1
+66	Sanguine Instruction	False	0
+66	Rapid Healing	False	0
+66	Strange Day	False	0
+66	Dive Bomb	True	2
+66	Anima Gathering	False	0
+66	Preternatural Evasion	False	0
+65	Week of Nightmares	True	1000
+65	Recruitment Exercise	False	0
+64	Codex of the Edenic Groundskeepers	True	2
+64	Vengeful Spirit	True	4
+64	Dummy Corporation	True	1
+64	Reinforcements	False	0
+64	Archon	False	0
+64	Path of Paradox, The	True	1000
+64	Reanimated Corpse	False	0
+64	Coroner's Contact	False	0
+64	Soul of the Earth	False	0
+64	Kindred Restructure	False	0
+63	Wind Dance	False	0
+63	Break the Code	False	0
+63	Create Gargoyle	False	0
+63	Vaticination	True	1
+63	Malkavian Dementia	False	0
+62	Skin of the Chameleon	False	0
+62	Taunt the Caged Beast	False	0
+62	Antediluvian Awakening	False	0
+62	Sibyl's Tongue	False	0
+62	Depravity	False	0
+62	University Hunting Ground	True	1
+62	Stutter-Step	False	0
+62	Foundation Exhibit	True	3
+62	Gemini's Mirror	False	0
+61	New Carthage	True	2
+61	Agent of Power	False	0
+61	Marked Path	False	0
+61	D'habi Revenant	False	0
+61	CrimethInc.	True	1000
+60	Black Forest Base	False	0
+60	Unlicensed Taxicab	False	0
+60	Bleeding the Vine	False	0
+60	Powerbase: Tshwane	False	0
+60	Fleetness	True	4
+60	Groundfighting	False	0
+60	Possession	True	1000
+60	Instinctive Reaction	True	6
+60	Eternal Mask, The	True	1000
+60	Horseshoes	True	2
+60	Malkavian Prank	False	0
+59	Living Manse	True	1
+59	Constant Revolution	True	2
+59	Random Patterns	False	0
+59	Anarch Free Press, The	True	1
+59	Perfect Clarity	False	0
+59	Carver's Meat Packing and Storage	True	1
+59	Faerie Wards	True	2
+59	Unholy Penance	False	0
+58	Veil of Darkness	False	0
+58	Vampiric Disease	False	0
+58	Wall Street Night, Financial Newspaper	False	0
+58	Condemnation: Mute	True	1000
+58	Not to Be	False	0
+58	Powerbase: Luanda	False	0
+58	Squirrel Balance	False	0
+58	Specialization	False	0
+58	Psychic Veil	False	0
+57	Big Game	False	0
+57	Fast Reaction	False	0
+57	Guruhi Are the Land, The	False	0
+56	Hide the Heart	True	2
+56	Guardian Vigil	False	0
+56	Blood Weakens	False	0
+56	Bamba	False	0
+56	Uptown Hunting Ground	True	2
+55	Anarch Railroad	True	1
+55	Gran Madre di Dio, Italy	False	0
+55	Waste Management Operation	False	0
+55	Free States Rant	False	0
+55	Edge Explosion	False	0
+54	Contagion	False	0
+54	Rumble	False	0
+54	Shadow Court Satyr	False	0
+54	Old Friends	True	4
+54	Skin of Night	False	0
+54	Private Audience	False	0
+54	Quick Meld	False	0
+53	Voices of the Castle	True	2
+53	Secret Passage	False	0
+53	Disciple of Lazarus	True	4
+53	Ankara Citadel, Turkey, The	True	2
+53	Society Hunting Ground	True	2
+53	Quicksilver Contemplation	False	0
+52	Humanitas	False	0
+52	Warsaw Station	True	2
+52	Wrong and Crosswise	True	2
+52	Young Bloods	False	0
+52	Neighborhood Watch Commander	False	0
+52	Scobax	False	0
+51	London Evening Star, Tabloid Newspaper	False	0
+51	Hell-for-Leather	True	1000
+51	Raptor	False	0
+51	Elysium: The Palace of Versailles	True	2
+51	Dark Mirror of the Mind	True	2
+51	Fast Hands	False	0
+51	Chimerstry	True	1000
+51	Neutral Guard	False	0
+51	Ignis Fatuus	True	1000
+50	Monster	False	0
+50	Obtenebration	True	1000
+50	Leapfrog	False	0
+50	Psalm of the Damned	False	0
+50	Concert Tour	False	0
+50	Burning Wrath	False	0
+50	Corporal Reservoir	False	0
+49	Cry Wolf	False	0
+49	Will-o'-the-Wisp	True	1000
+49	Ancestor Spirit	False	0
+49	Kduva's Mask	False	0
+49	Darkling Trickery	True	1000
+48	Hatchling	False	0
+48	Institution Hunting Ground	False	0
+48	Restricted Vitae	False	0
+48	Powerbase: Chicago	False	0
+48	Armor of Caine's Fury	False	0
+48	Signet of King Saul, The	True	1
+48	Nosferatu Justicar	False	0
+48	Powerbase: Barranquilla	False	0
+48	Day Operation	False	0
+48	Marijava Ghoul	False	0
+47	Club Zombie	False	0
+47	Monkey Wrench	True	2
+47	Illusions of the Kindred	True	1000
+47	Under My Skin	True	2
+47	Muricia's Call	False	0
+47	Shadow Twin	True	1000
+46	419 Operation	False	0
+46	Repo Man	False	0
+46	Bitter and Sweet Story, The	False	0
+46	Vicissitude	False	0
+46	Backstep	False	0
+46	Revelation of Ecstasy	True	1000
+46	Wendell Delburton	False	0
+46	Demonstration	False	0
+46	Movement of the Mind	False	0
+45	NRA PAC	False	0
+45	Sword of the Righteous	False	0
+45	Armor of Vitality	False	0
+45	Voice of Madness	False	0
+45	Fillip	False	0
+45	Predator's Mastery	False	0
+45	Dive into Madness	False	0
+45	Song of Serenity	False	0
+45	Sleep Unseen	False	0
+44	Funeral Wake	True	4
+44	Roll	False	0
+44	Fetish Club Hunting Ground	False	0
+44	Vitae Block	False	0
+44	Día de los Muertos	True	1
+44	Thaumaturgy	False	0
+44	Revelation of Desire	True	1000
+44	Dream World	False	0
+44	Brothers Grimm	False	0
+43	Thirst	False	0
+43	Failsafe	False	0
+43	Flamethrower	False	0
+43	Ecstasy	True	1000
+43	Fists of Death	False	0
+43	My Kin Against the World	False	0
+43	Fatuus Mastery	True	1000
+43	Brujah Justicar	False	0
+43	Scorpion Sting	False	0
+42	Dis Pater	True	1000
+42	Boxed In	False	0
+42	Acheron Vortex	True	1004
+42	Starvation of Marena	False	0
+42	Flames of the Netherworld	True	2
+42	Arms Dealer	False	0
+42	Great Symposium	True	1
+42	Leech	False	0
+42	Tomb of Rameses III	False	0
+41	Corpse Balloon	False	0
+41	Ishtarri Kholo	False	0
+41	Sunset Strip, Hollywood	False	0
+41	Diversity	False	0
+41	Leathery Hide	False	0
+41	Disengage	False	0
+41	Puppeteer	True	1000
+41	Orun	False	0
+40	Biothaumaturgic Experiment	True	1
+40	Unity	False	0
+40	Serpent's Numbing Kiss	True	4
+40	Fortune Teller Shop	True	1000
+40	Paris Opera House	False	0
+40	Lily Prelude	True	1
+40	Shadow Step	True	1000
+40	Set's Curse	True	1000
+40	Mesu Bedshet	True	1000
+40	Octopod	False	0
+40	Marijava Thuggee	False	0
+40	Kindred Intelligence	False	0
+39	Summoning, The	False	0
+39	Firebrand	False	0
+39	Blissful Agony	False	0
+39	Seal of Veddartha	False	0
+39	Body Flare	False	0
+39	False Resonance	True	1000
+39	Dawn Operation	False	0
+39	Red List	False	0
+39	Ventrue Justicar	False	0
+39	Closed Session	False	0
+39	Ambrosius, The Ferryman	True	1000
+39	Deer Rifle	False	0
+38	Razor Bat	False	0
+38	Abombwe	False	0
+38	Slum Hunting Ground	True	2
+38	Thing	True	8
+38	Ascendance	False	0
+38	Zillah's Tears	False	0
+38	Mighty Grapple	False	0
+38	Devil-Channel: Back	False	0
+38	Touch of Pain	False	0
+37	Blithe Acceptance	False	0
+37	Scrounging	False	0
+37	Sengir Dagger	False	0
+37	Yawp Court	False	0
+37	Thin-Blooded Seer	False	0
+37	Fourth Cycle, The	False	0
+37	Treasured Samadji	True	1000
+37	Reversal of Fortunes	False	0
+37	Chameleon's Colors	False	0
+37	Rampage	False	0
+36	Meddling of Semsith, The	False	0
+36	Capitalist	False	0
+36	Justicar Retribution	False	0
+36	Propaganda	False	0
+36	Grenade	False	0
+36	Form of the Serpent	True	1000
+36	Stunt Cycle	False	0
+36	Deed the Heart's Desire	True	1000
+36	Sonar	False	0
+36	Rom Gypsy	False	0
+36	Warzone Hunting Ground	True	1
+36	Seattle Committee	False	0
+36	Corrupt Construction	False	0
+35	Talbot's Chainsaw	True	1
+35	Powerbase: Los Angeles	False	0
+35	Impundulu	False	0
+35	Ophidian Gaze	True	4
+35	Vox Domini	False	0
+35	Psychic Assault	False	0
+35	Animal Magnetism	False	0
+35	Flesh Bond	False	0
+35	Praxis Seizure: Berlin	False	0
+35	Virtuosa	True	2
+35	Red Herring	True	1000
+35	Shaman	False	0
+35	Praxis Seizure: Rome	False	0
+35	Petra Resonance	False	0
+34	Blood Trade	False	0
+34	Path of Evil Revelations	False	0
+34	Abactor	False	0
+34	Blood of Acid	False	0
+34	Alpha Glint	False	0
+34	Guarded Rubrics	False	0
+34	Infernal Pact	False	0
+34	Carthage Remembered	False	0
+34	Momentum's Edge	False	0
+34	Truth in Ink	False	0
+34	Unexpected Coalition	False	0
+34	Striga	False	0
+34	Corruption	True	1000
+33	Campground Hunting Ground	False	0
+33	Temple Hunting Ground	True	1
+33	Shadow of the Beast	False	0
+33	Desert Eagle	False	0
+33	Praxis Seizure: Geneva	False	0
+33	Barrenness	False	0
+33	Blood Hunt	False	0
+32	Illegalism	False	0
+32	Conceal	True	1
+32	Dog Pack	False	0
+32	Games of Instinct	False	0
+32	Nightmares upon Nightmares	False	0
+32	From a Sinking Ship	False	0
+32	Conflagration	False	0
+32	Shilmulo Tarot	True	1000
+32	Inevitability of the Void	True	1004
+32	Park Hunting Ground	True	1000
+32	Madrigal	False	0
+32	Rose Foundation, The	False	0
+32	Forced Vigilance	False	0
+32	Selective Silence	True	1000
+32	Alacrity	False	0
+32	Bloodwork	False	0
+32	Trophy: Progeny	False	0
+31	Gear Up	True	1000
+31	Recalled to the Founder	False	0
+31	Wormwood	False	0
+31	Clan Impersonation	False	0
+31	Bloodform	False	0
+31	Gang Territory	False	0
+31	Yoruba Shrine	True	1000
+31	Jackie Therman	False	0
+31	Watchtower: The Wolves Feed	False	0
+31	Ministry	False	0
+31	Mapatano Utando	False	0
+31	Scry the Hearthstone	True	1000
+31	Zaire River Ferry	True	1000
+31	Torrent	True	2
+31	Recurring Contemplation	False	0
+31	Patronage	False	0
+31	Unwholesome Bond	False	0
+30	Robert Carter	False	0
+30	Path of Metamorphosis, The	False	0
+30	Blood Awakening	True	1000
+30	Epiphany	False	0
+30	Art's Traumatic Essence	False	0
+29	Underworld Hunting Ground	True	1001
+29	Distraction	False	0
+29	Therbold Realty	False	0
+29	Ruins of Ceoris	False	0
+29	Raw Recruit	True	2
+29	Blessing of Chaos	True	1000
+29	Gangrel Justicar	False	0
+29	Recruitment	False	0
+29	Camarilla Exemplary	False	0
+29	Dust to Dust	False	0
+29	Donate	False	0
+28	Mokolé Blood	True	1000
+28	Pocket Out of Time	True	1002
+28	Nosferatu Kingdom	False	0
+28	Vengeance of Samiel	False	0
+28	Enchanted Marionette	False	0
+28	Dual Form	False	0
+28	Go Anarch	False	0
+28	Riddle Phantastique	False	0
+28	Malkavian Justicar	True	1
+28	High Aye	False	0
+28	Tracker's Mark	False	0
+27	Kaymakli Nightmares	False	0
+27	Felix "Fix" Hessian	True	1000
+27	Kraken's Kiss	False	0
+27	Blood Rage	True	2
+27	Tabriz Assembly	False	0
+27	Two Wrongs	False	0
+27	Devil-Channel: Throat	False	0
+27	Danse Macabre	False	0
+27	Terra Incognita	False	0
+26	Club Illusion	True	1
+26	Sire's Index Finger	False	0
+26	Dead-End Alley	False	0
+26	Death Seeker	True	2
+26	Ruins of Charizel	False	0
+26	Alia, God's Messenger	False	0
+26	Hive Mind	True	3
+26	Walk of Caine	False	0
+26	Patshiv	True	1000
+26	Brutal Influence	False	0
+25	Ennoia's Theater	True	2
+25	Wasserschloss Anif, Austria	True	1
+25	Dead Hand	True	1000
+25	Revolutionary Council	False	0
+25	Propaganda of the Deed	False	0
+25	Praxis Seizure: Barcelona	False	0
+25	Lead Fist	True	2
+25	Bloodstorm of Chorazin	False	0
+25	Secret Must Be Kept, The	False	0
+25	Clandestine Contract	True	1000
+24	Member of the Entourage	True	1
+24	Glutton	False	0
+24	Nightmare Curse	True	1000
+24	Chanjelin Ward	False	0
+24	Aaron's Feeding Razor	False	0
+24	Hexaped	False	0
+24	Soul Burn	True	2
+24	Edged Illusion	True	1000
+24	Entrenching	False	0
+23	Lunatic Eruption	False	0
+23	Slave Auction	False	0
+23	Ferraille	True	1000
+23	Amusement Park Hunting Ground	False	0
+23	Dogs of War	False	0
+23	Black Throne, The	True	1000
+23	Eye of Unforgiving Heaven	False	0
+23	Chair of Hades	True	1000
+23	Retribution	False	0
+23	Serpentis	True	1000
+23	Hourglass of the Mind	False	0
+23	Year of Fortune	False	0
+23	Wooden Stake	False	0
+23	Spoils of War	False	0
+23	Changeling Skin Mask	False	0
+23	Darksight	True	1000
+23	Folderol	False	0
+22	Gianna di Canneto	True	1
+22	Last Stand	False	0
+22	Tourette's Voice	False	0
+22	Blade of Bellona	True	4
+22	Powerbase: Zürich	False	0
+22	Watchtower: Four Ride Forth	False	0
+22	Gambit Accepted	False	0
+22	Shanty Town Hunting Ground	False	0
+22	Hawg	False	0
+22	Necromancy	True	1000
+22	Vulture's Buffet	False	0
+22	Patrol	False	0
+22	Off Kilter	True	2
+22	Elder Intervention	False	0
+22	Blessing of the Name	False	0
+22	Pack Tactics	False	0
+21	Fee Stake: Perth	False	0
+21	Hide	False	0
+21	Chameleon	False	0
+21	Torpid Blood	False	0
+21	Kindred Segregation	False	0
+21	High Top	False	0
+21	Marked Territory	False	0
+21	Enforcer	False	0
+21	Suppressing Fire	False	0
+21	Dr. Marisa Fletcher, CDC	False	0
+21	Rowan Ring	False	0
+21	Velvet Tongue	True	4
+21	Bima	True	1000
+20	Fee Stake: Boston	False	0
+20	Fall of the Camarilla	False	0
+20	Shatter the Gate	True	3
+20	Khobar Towers, Al-Khubar	True	1001
+20	Show of Force	True	2
+20	Gird Minions	False	0
+20	Hidden Lurker	False	0
+20	Femur of Toomler	True	1
+20	Akunanse Kholo	False	0
+20	Hand Contract	False	0
+20	House of Sorrow	False	0
+20	Praxis Seizure: Glasgow	False	0
+20	Police Department	False	0
+20	Provision of the Silsila	True	1000
+19	Fee Stake: Corte	False	0
+19	Market Square	True	1001
+19	Unburdening the Bestial Soul	False	0
+19	Guruhi Kholo	False	0
+19	Erebus Mask	False	0
+19	Festivo dello Estinto	False	0
+19	Hand of Conrad	True	1
+19	Khabar: Community, The	True	1000
+19	Lock	False	0
+19	Stealth Ritus	False	0
+19	Remover	False	0
+19	Sight Beyond Sight	False	0
+19	Special Report	False	0
+19	Elephant Guardian	False	0
+19	Escaped Mental Patient	False	0
+18	Field Training	True	4
+18	Penitent Resilience	True	2
+18	Fee Stake: Seattle	False	0
+18	Eat the Rich	False	0
+18	Path of Lilith, The	False	0
+18	Body Arsenal	False	0
+18	Crusade: Philadelphia	False	0
+18	Command Performance	True	1
+18	Short-Term Investment	False	0
+18	Orb of Ulain	True	1000
+18	Nephren-Ka	True	1000
+18	Lessons in the Steel	False	0
+18	Mark V	False	0
+18	Praxis Seizure: London	False	0
+18	Praxis Seizure: Miami	False	0
+18	Phased Motion Detector	True	1000
+18	Three's a Crowd	False	0
+18	Burning Touch	False	0
+18	Defender of the Haven	False	0
+18	Form of the Ghost	False	0
+18	Target Head	False	0
+18	Darkness Within	True	1000
+18	Choir	False	0
+18	Mole, The	False	0
+17	Twisted Forest	False	0
+17	Bond with the Mountain	False	0
+17	Redeem the Lost Soul	False	0
+17	Fee Stake: Los Angeles	False	0
+17	Fee Stake: New York	False	0
+17	Army of Apparitions	True	1000
+17	Rising, The	True	1
+17	Crusade: Detroit	False	0
+17	Quick Jab	False	0
+17	Conductor	False	0
+17	Steadfastness	True	2
+17	Marrakesh Codex, The	False	0
+17	Sacrament of Carnage	False	0
+17	Loki's Gift	True	2
+17	Pentex(TM) Loves You!	False	0
+17	Song in the Dark	False	0
+17	Flow Within the Mountain	False	0
+17	Camarilla Vitae Slave	True	1001
+17	Purchase Pact	False	0
+17	Aura of Invincibility	False	0
+17	Waters of Duat	True	1000
+17	Mercy for Seth	True	1000
+17	Malkavian Rider Clause	True	1
+17	Quick Exit	False	0
+17	Cooler	False	0
+17	Surge	False	0
+16	Armor of Terra	False	0
+16	Garibaldi-Meucci Museum	False	0
+16	Saatet-ta	True	1
+16	Path of Retribution, The	False	0
+16	Libertas	False	0
+16	Maabara	False	0
+16	Ephor	True	1
+16	AK-47	False	0
+16	Crusade: Mexico City	False	0
+16	Sawed-Off Shotgun	False	0
+16	Detect Authority	True	1000
+16	Filchware's Pawn Shop	False	0
+16	Make the Misere	False	0
+16	Red Question, The	False	0
+16	Information Network	False	0
+16	Art of Pain, The	False	0
+16	Praxis Seizure: Paris	False	0
+16	Recure of the Homeland	False	0
+16	Follow the Alpha	False	0
+16	Praxis Seizure: Atlanta	False	0
+16	Charnas the Imp	True	1
+16	Praxis Seizure: Amsterdam	False	0
+16	Kindred Coercion	False	0
+16	Nimble Feet	False	0
+16	Draught of the Soul	True	1000
+16	Praxis Seizure: Cairo	False	0
+16	Scorn of Adonis	True	3
+15	Jones, The	True	1000
+15	Mantle of the Bestial Majesty	False	0
+15	Light Intensifying Goggles	True	2
+15	Island of Yiaros	True	1
+15	Dark Steel	False	0
+15	Veles' Hunt	False	0
+15	Learjet	False	0
+15	Venenation	True	1000
+15	Adaptability	False	0
+15	Svadharma	True	1000
+15	Reliquary: Akunanse Remains	False	0
+15	Hag's Wrinkles	False	0
+15	Greater Curse	False	0
+15	Oppugnant Night	True	2
+15	Vampiric Speed	False	0
+15	Meat Hook	False	0
+15	Nest of Eagles	True	1000
+15	Ghoul Escort	False	0
+15	Using the Advantage	False	0
+15	Blood Tears of Kephran	False	0
+15	Elder Kindred Network	False	0
+15	Pier 13, Port of Baltimore	False	0
+15	Despiral	False	0
+15	Project	False	0
+15	Keep it Simple	False	0
+14	Horrific Countenance	False	0
+14	Truth of Blood	True	1000
+14	Palace Hunting Ground	False	0
+14	SchreckNET	False	0
+14	Shadow Boxing	False	0
+14	Herald of Topheth	False	0
+14	Powerbase: Savannah	False	0
+14	Tower of London	True	1000
+14	Babble	False	0
+14	Heart's Desire	True	1000
+14	Bastille Opera House	False	0
+14	Divine Sign	True	1000
+14	White Phosphorus Grenade	False	0
+14	Gather	False	0
+14	Phantom Speaker	True	1000
+14	Dabbler	True	1
+14	Ancestor's Insight	False	0
+14	Reality	True	1000
+14	Praxis Seizure: Brussels	False	0
+14	Might of the Camarilla	False	0
+14	NSA Trio	False	0
+14	Trophy: Domain	False	0
+14	Powerbase: Rome	True	1000
+14	Target Hand	False	0
+14	Skullduggery	False	0
+14	Catacombs	False	0
+14	Wise Spider	False	0
+14	Excellent Thirst	False	0
+14	Overseer	False	0
+14	Manstopper Rounds	False	0
+14	Dominion	False	0
+13	Smoke and Mirrors	True	1000
+13	Political Flux	False	0
+13	Crusade: Toronto	False	0
+13	Haunt	True	1000
+13	Malajit Chandramouli	False	0
+13	Shattered Mirror	False	0
+13	Legacy	True	4
+13	Claiming the Body	False	0
+13	Hospital Food	False	0
+13	Protection Racket	True	4
+13	Weeping Stone	True	1000
+13	Blood to Water	False	0
+13	Praxis Seizure: Chicago	False	0
+13	Toreador Justicar	True	1
+13	Crusade: Berlin	True	1000
+13	Crusade: Pittsburgh	False	0
+13	Social Ladder	False	0
+13	Street Cred	False	0
+13	Praxis Seizure: Monaco	False	0
+13	Covincraft	False	0
+13	Blood Sweat	True	1000
+13	Legion	False	0
+13	Gleam of Red Eyes	False	0
+13	Unacceptable Appearance	False	0
+13	Blood of the Sabbat	False	0
+12	Righteous Aura	True	2
+12	Blessing of the Beast	True	1
+12	Dust Up	True	4
+12	Starshell Grenade Launcher	False	0
+12	Bear's Skin	True	6
+12	Groaning Corpse	True	2
+12	Base Hunting Ground	False	0
+12	Rafastio Ghoul	False	0
+12	Ambulance	False	0
+12	Conquer the Beast	False	0
+12	Command of the Harpies	False	0
+12	Praxis Seizure: Houston	False	0
+12	Resplendent Protector	False	0
+12	Promise of 1528	True	1000
+12	Lightning Reflexes	False	0
+12	Abjure	False	0
+12	Hall of Hades' Court	False	0
+12	Walk through Arcadia	False	0
+12	Foresee	False	0
+12	Praxis Seizure: Dublin	False	0
+12	Edge of the World	False	0
+12	Exclusion Principle	False	0
+12	Cold Aura	True	1000
+12	Praxis Seizure: Boston	False	0
+12	Heaven's Gate	True	1000
+12	Extortion	True	1000
+12	Descent into Darkness	True	1000
+12	Secret Horde	False	0
+12	Inbase Discotek, Frankfurt	False	0
+12	Port Hunting Ground	False	0
+12	Recruiting Party	False	0
+12	Lucky Blow	False	0
+12	Vermin Channel	False	0
+12	Heart of Darkness	True	1000
+11	Stolen Police Cruiser	False	0
+11	Charge of the Buffalo	True	2
+11	Spontaneous Power	False	0
+11	Gangrel Revel	True	1000
+11	Rebel	True	1
+11	Shaal Fragment	True	1
+11	Zephyr	True	6
+11	Rewilding	True	3
+11	Sheepdog	False	0
+11	Mundane	False	0
+11	Monocle of Clarity	False	0
+11	Relentless Reaper	True	4
+11	Houngan	False	0
+11	Lam Into	False	0
+11	Left for Dead	False	0
+11	Path of Typhon, The	True	1000
+11	Masochism	False	0
+11	Praxis Seizure: Frankfurt	False	0
+11	Spirit Summoning Chamber	False	0
+11	Praxis Seizure: Washington, D.C.	False	0
+11	Amam the Devourer	True	1000
+11	Tutu the Doubly Evil One	True	1000
+11	Dread Gaze	False	0
+11	Lure of the Serpent	True	1000
+11	Shepherd's Innocence	False	0
+11	Instability	False	0
+11	Praxis Seizure: Stockholm	False	0
+11	Anachronism	False	0
+11	Ghoul Retainer	False	0
+11	Eyes of the Beast	True	2
+11	Crusade: Amsterdam	False	0
+11	Compel the Spirit	True	1000
+11	Rewind Time	False	0
+11	Duma Rafiki	False	0
+11	Pulling Strings	False	0
+11	Ashes to Ashes	False	0
+11	Belonging Grants Protection	False	0
+11	Blooding	False	0
+10	Thadius Zho	True	1
+10	Lord of Serenity	True	2
+10	Inside Dirt	False	0
+10	Creeping Sabotage	True	6
+10	Fueled by Heart's Blood	False	0
+10	Ventrue Directorate Assembly	False	0
+10	Blade of Enoch	False	0
+10	Crusade: New York	False	0
+10	Hatch the Viper	True	1000
+10	Patsy	False	0
+10	Shell Game	False	0
+10	Regent	False	0
+10	Karavalanisha Vrana	True	1000
+10	Compress	False	0
+10	Strength of the Bear	False	0
+10	Blooding by the Code	False	0
+10	Brother in Arms	False	0
+10	Esprit de Corps	False	0
+10	Tremere Convocation	True	1
+10	Permanency	True	1000
+10	Trophy: Hunting Ground	False	0
+10	Rise of the Nephtali	False	0
+10	Precision	False	0
+10	Ritual of the Bitter Rose	False	0
+10	Bliss	False	0
+10	Seeds of Corruption	False	0
+10	Friend of Mine	True	1000
+10	Command the Legion	False	0
+10	Moise Kasavubu	False	0
+10	Emergency Preparations	False	0
+10	Unnatural Disaster	False	0
+10	Admonitions, The	False	0
+10	Jar the Soul	True	1000
+10	Benefit Performance	True	1
+10	Echo of Harmonies	False	0
+10	Mercury's Arrow	False	0
+10	Anarch Salon	False	0
+10	Cadet	False	0
+10	Contract	True	1000
+10	Skin of the Adder	True	1000
+9	Patterns in the Chaos	False	0
+9	Bomb	False	0
+9	Insurance Scam	False	0
+9	Daemonic Possession	True	1000
+9	Carfax Abbey	True	1
+9	Adhocracy	False	0
+9	Spiritual Guidance	True	8
+9	Soul Scan	True	2
+9	Crimson Sentinel, The	False	0
+9	Blood Cult Awareness Network	False	0
+9	Autonomic Mastery	False	0
+9	Nosferatu Bestial	True	1
+9	Crocodile Temple, The	True	1000
+9	Reality Mirror	False	0
+9	Joseph Pander	False	0
+9	Game of Malkav	True	1
+9	Familial Bond	False	0
+9	Blood Siege	False	0
+9	Oxford University, England	False	0
+9	Osebo Kholo	False	0
+9	Exile	False	0
+9	Praxis Seizure: Dallas	False	0
+9	Praxis Seizure: Seattle	False	0
+9	Praxis Seizure: Athens	False	0
+9	Crusade: Geneva	False	0
+9	Sacré-Cœur Cathedral, France	False	0
+9	Death of the Drum	False	0
+9	Prophecies of Gehenna	False	0
+9	Strix	False	0
+9	Condemnation: Doomed	False	0
+9	Smash and Grab	False	0
+9	Precognizant Mobility	False	0
+9	Servitor of Irad	False	0
+9	Loyal Street Gang	False	0
+8	Outcast Mage	False	0
+8	Centralized Background Check	False	0
+8	Lazarene Inquisitor	False	0
+8	Quickness	True	9
+8	Blood Puppy	False	0
+8	Crusade: Frankfurt	False	0
+8	Eye of Hazimel	True	1001
+8	Martyr's Resilience	False	0
+8	Condemn the Sins of the Father	True	1000
+8	Sensory Overload	True	1000
+8	Suspension of Disbelief	True	4
+8	Poacher's Hunting Ground	False	0
+8	Psychic Projection	False	0
+8	Ignore the Searing Flames	True	1000
+8	Black Metamorphosis	True	1002
+8	Blood Shield	False	0
+8	Baseball Bat	False	0
+8	Black Hand Emissary	False	0
+8	Slake the Thirst	True	2
+8	Banshee Ironwail	False	0
+8	Shape Mastery	True	1000
+8	Blow Torch	False	0
+8	Mustajib	False	0
+8	Praxis Seizure: Cleveland	False	0
+8	Church of the Order of St. Blaise	False	0
+8	Movement of the Slow Body	False	0
+8	Framing an Ancient Grudge	False	0
+8	Crusade: Rome	False	0
+8	Toreador's Bane	False	0
+8	Hexe	False	0
+8	Gas-Powered Chainsaw	False	0
+8	Khabar: Loyalty	True	1000
+8	Peace Treaty	False	0
+8	Coordinate Attacks	False	0
+8	Dagger	True	2
+8	Cleave	False	0
+8	Summon Soul	True	1000
+8	Respire	False	0
+8	Amria	True	1000
+8	Minor Irritation	False	0
+8	Strained Vitae Supply	False	0
+8	Fear of the Void Below	False	0
+8	Veiled Sight	True	1000
+7	Stone Dog	False	0
+7	Personal Scourge	False	0
+7	Code of Samiel	True	1
+7	Protected District	True	6
+7	Flames of Insurrection	False	0
+7	Skin Trap	False	0
+7	Vigil: The Thin Line	False	0
+7	Remnant of the Endless Storm	False	0
+7	Lupine Assault	False	0
+7	Ritual Challenge	False	0
+7	Abandoning the Flesh	False	0
+7	Political Struggle	True	1000
+7	Templar	False	0
+7	Masquer	True	1000
+7	Blessed Blade	True	4
+7	Kumpania	True	1000
+7	Gurchon Hall	False	0
+7	Black Hand Ritual	False	0
+7	Drain Essence	False	0
+7	Horrid Reality	True	1000
+7	Shakar	False	0
+7	Reliquary: Trinket	False	0
+7	Cave of Apples	True	1000
+7	Jack of Both Sides	False	0
+7	Sleep of Reason	False	0
+7	Cardinal Sin: Insubordination	False	0
+7	Shroudsight	True	1000
+7	Goblinism	False	0
+7	Praxis Seizure: Venice	True	1000
+7	Storm Sewers	False	0
+7	Mouthpiece	True	2
+7	Jungle Hunting Ground	False	0
+7	Heartblood of the Clan	True	1000
+7	Sacrificial Lamb	False	0
+7	Crusade: Chicago	False	0
+7	Crusade: London	False	0
+7	Patagia: Flaps Allowing Limited Flight	False	0
+7	Flaming Candle	True	1
+7	Ghouls of Plaza Morería, The	True	1000
+7	Victim of Habit	False	0
+7	Business Pressure	False	0
+7	Eldest Command Undeath, The	False	0
+7	Contingency Planning	False	0
+7	Swoop	False	0
+7	Shadow Feint	False	0
+7	Mass Reality	True	1000
+7	Proxy Kissed	True	1000
+7	Reformation	True	1000
+7	Destructive Secrets	False	0
+7	Succubus Club	False	0
+7	Summon the Serpent	True	1000
+6	Reliquary: Shango Remains	True	1001
+6	Children of Stone	True	4
+6	Their Master's Voice	True	4
+6	Talaq, The Immortal	False	0
+6	Conquest of Humanity	False	0
+6	Cavalier	True	1
+6	In Memory of the Two Lands	True	2
+6	Redistribution	False	0
+6	Camaraderie	True	4
+6	Secret Library of Alexandria, The	False	0
+6	Blood of Sandman	True	2
+6	Consanguineous Condemnation	False	0
+6	Illusory Resources	True	4
+6	Soul Feasting	True	1000
+6	Vulnerability	False	0
+6	City Gangrel Connections	False	0
+6	Deviki Prasanta	True	1000
+6	Baal's Bloody Talons	True	1000
+6	Qetu the Evil Doer	True	1000
+6	Communal Haven: Cathedral	False	0
+6	Inconnu Tutelage	False	0
+6	Call the Wild Hunt	False	0
+6	Legacy of Power	False	0
+6	Wolf Companion	False	0
+6	New Inquisition, The	False	0
+6	Drum of Xipe Totec	False	0
+6	Auto-da-fé	False	0
+6	Gramle	False	0
+6	Projectile	False	0
+6	Ravager	False	0
+6	Open Dossier	False	0
+6	Powerbase: Mexico City	False	0
+6	Sense Vitality	False	0
+6	Path of Blood, The	True	1000
+6	Crusade: Washington, D.C.	False	0
+6	Sense Vibrations	False	0
+6	Tremere Justicar	False	0
+6	Bond	False	0
+6	Nightshades	True	1000
+6	National Guard Support	False	0
+6	Succulent Vitae	True	1000
+6	Crusade: Miami	False	0
+6	Ex Nihilo	True	1000
+6	Informant	False	0
+6	Ventrue Investment	False	0
+6	Sociopath	False	0
+6	Curmudgeon	False	0
+6	Absimiliard's Army	False	0
+6	Crusade: Houston	False	0
+6	Fleecing the Gaje	True	1000
+6	Principia Discordia	True	1000
+6	Steal the Mind	False	0
+6	Lapse	False	0
+6	Banner of Neutrality	False	0
+5	Ailing Spirit, The	True	2
+5	Gift of Bellona	False	0
+5	Nosferatu Performance Art	False	0
+5	Mole's Tunneling	True	2
+5	Permanent Vacation	True	1
+5	Harzomatuili	False	0
+5	Creep Show	False	0
+5	Nocturn Theater	True	1
+5	Lextalionis	False	0
+5	Anarch Secession	False	0
+5	Drop Point Network	False	0
+5	Mirror's Visage	True	1000
+5	Fanfare for Elysium	True	1
+5	Joumlon's Axe	True	1
+5	Cobra Fangs	True	1000
+5	Repair the Undead Flesh	False	0
+5	Lobotomy	False	0
+5	Mayaparisatya	True	1000
+5	Scrying of Secrets	False	0
+5	Trophy: Diablerie	False	0
+5	Hunger Moon	True	1
+5	Leadership Vacuum	False	0
+5	Blood Bond	False	0
+5	Giuseppe, Gravedigger	True	1000
+5	Ablative Skin	False	0
+5	Crypt's Sons	False	0
+5	Perpetual Care	False	0
+5	Crusade: Atlanta	False	0
+5	Crusade: Dublin	False	0
+5	Crusade: Istanbul	False	0
+5	Shattering Blow	False	0
+5	Imperial Decree	False	0
+5	Stone Quills	False	0
+5	Pandora's Whisper	True	1000
+5	Basilisk's Touch	False	0
+5	Rooftop Shadow	False	0
+5	Harmony	True	1
+5	Carnivale	False	0
+5	Resilient Mind	True	1000
+5	Combat Shotgun	False	0
+5	Deal with the Devil	False	0
+5	Legend of the Leopard	False	0
+5	Kingston Penitentiary, Ontario	False	0
+5	Soar	False	0
+5	Rave	False	0
+5	Finding the Path	False	0
+5	Diamond Thunderbolt, The	False	0
+5	Trumped-Up Charges	False	0
+5	Keystone Kine	True	1000
+5	Glare of Lies	False	0
+5	Root of Vitality	False	0
+5	Deploy the Hand	False	0
+5	Rapid Thought	False	0
+5	Cat Burglary	False	0
+4	Bait and Switch	True	2
+4	Unleash the Hounds	True	4
+4	Order of Hermes Cabal	False	0
+4	Safe Passage	True	2
+4	Warrens, The	True	6
+4	Fall of the Sabbat	False	0
+4	Can't Take it with You	False	0
+4	Crusade: Aragon	False	0
+4	Line, The	True	1
+4	Path of the Feral Heart, The	False	0
+4	Curse of Nitocris	False	0
+4	Necrosis	True	4
+4	Textbook Damnation, The	False	0
+4	Blight	True	4
+4	Spirit Claws	True	2
+4	Waiting Game	False	0
+4	Giulia Giovanni Abruzzina	True	1
+4	Bollix	False	0
+4	Taking the Skin: Vulture	False	0
+4	Akhenaten, The Sun Pharaoh	True	1000
+4	Gangrel Conspiracy	False	0
+4	Mausoleum, Venice, The	True	1000
+4	Brigitte Gebauer	True	1000
+4	Elysium: Sforzesco Castle	False	0
+4	Malkavian Game	False	0
+4	Orgy of Blood	False	0
+4	Rastacourere	False	0
+4	Carrion Coffin	False	0
+4	Threestar Cab Company	False	0
+4	War Party	False	0
+4	Reform Body	False	0
+4	Consume the Dead	False	0
+4	Corpse Minion	False	0
+4	Harvest Rites	False	0
+4	Incriminating Videotape	False	0
+4	Taking the Skin: Minion	False	0
+4	Steely Tenacity	True	1000
+4	RPG Launcher	False	0
+4	King of the Mountain	False	0
+4	Hiding in the Open	False	0
+4	Undying Thirst	False	0
+4	Ishtarri Warlord	False	0
+4	Crusade: Brussels	False	0
+4	Knotted Cord	False	0
+4	Powerbase: Washington, D.C.	False	0
+4	Whispers from the Dead	True	1000
+4	Path of Death and the Soul	False	0
+4	Foul Blood	True	1000
+4	Elemental Stoicism	False	0
+4	Trainer	False	0
+4	Emergency Rations	False	0
+4	Brother's Blood	False	0
+4	Quietus	True	1000
+4	Coagulate Blood	True	1000
+4	Path of the Void	False	0
+4	Bay and Howl	False	0
+4	Talons of the Dead	False	0
+4	Hanging Fermata	False	0
+4	Crusade: Barcelona	False	0
+4	Crusade: Paris	False	0
+4	Power of All	False	0
+4	Sabbat Priest	False	0
+4	Sword of Judgment	False	0
+4	Mesmerize	False	0
+4	Soul Decoration	False	0
+4	Coagulated Entity	False	0
+4	Martinelli's Ring	True	1000
+4	Brinksmanship	False	0
+4	Forgery	False	0
+4	Camarilla Threat	False	0
+4	Protracted Investment	False	0
+4	Silence of Death	False	0
+4	Grandest Trick, The	False	0
+4	Praxis Seizure: Istanbul	True	1000
+4	Haunting, The	False	0
+4	Gestalt	False	0
+4	Venetian Conference	True	1000
+4	Open Grate	False	0
+4	Return to Innocence, The	False	0
+3	Organized Resistance	True	6
+3	Vivienne Géroux	True	2
+3	Book of Going Forth by Night, The	True	1000
+3	Blood Turnip	False	0
+3	Inceptor	False	0
+3	Infamous Insurgent	False	0
+3	Inveraray, Scotland	False	0
+3	Memory Rift	False	0
+3	Path of Harmony, The	True	1
+3	Donnybrook	False	0
+3	Grey Thorne	False	0
+3	Black Beast, The	True	1
+3	Abomination	False	0
+3	Codex of the Damned	False	0
+3	Trophy: Revered	False	0
+3	Final Loosening	False	0
+3	Charigger, The Axe	True	1000
+3	Subdued by the Blood	False	0
+3	Traditionalist	False	0
+3	Illegal Search and Seizure	False	0
+3	Sermon of Caine	False	0
+3	Walks-With-Might	True	1001
+3	Communal Haven: Temple	False	0
+3	Blood Feast	False	0
+3	Forest of Shadows	False	0
+3	Shakar: the Hunt	False	0
+3	Public Vilification	False	0
+3	Putrescent Servitude	False	0
+3	Condemnation: Betrayed	True	1000
+3	Esbat	False	0
+3	Al's Army Apparatus	False	0
+3	Bravo	False	0
+3	Sacrifice	False	0
+3	Path of the Scorched Heart, The	False	0
+3	Political Ally	True	1
+3	Tajdid	True	1000
+3	Swiss Cut	True	1000
+3	Crematorium	False	0
+3	Covenant of Blood	False	0
+3	Scourge	False	0
+3	Redcap Wilder	False	0
+3	White Nights Massacre	False	0
+3	Burden the Mind	False	0
+3	Concordance	True	1000
+3	Thin Blood	True	1000
+3	Fractured Armament	False	0
+3	Port Authority	False	0
+3	Foldable Machine Gun	True	2
+3	New Management	False	0
+3	Malleable Visage	False	0
+3	Infection	False	0
+3	Snipe Hunt	False	0
+3	Mind of a Child	False	0
+3	Command	False	0
+3	Circumspect Revelation	False	0
+3	Succubus	False	0
+3	Peacemaker	False	0
+3	Zoning Board	False	0
+3	Mask Empathy	False	0
+3	Serenading the Kami	False	0
+3	Augur	False	0
+3	Sixth Tradition: Destruction	False	0
+3	Memory's Fading Glimpse	False	0
+3	Unseen Hibernation	False	0
+3	Praxis Solomon	False	0
+3	Masque of Judas	False	0
+3	Total Insanity	False	0
+3	Tapestry of Blood	False	0
+3	Consignment to Duat	True	1000
+3	Chiram's Hold	False	0
+3	Shackles of Enkidu	False	0
+3	Arcanum Chapterhouse, Alexandria	False	0
+3	Putrefaction	False	0
+3	Regeneration	False	0
+3	Brass Knuckles	False	0
+3	Priestess of Sekhmet	True	1000
+3	Sins of the Cauchemar	False	0
+3	Gangrel Atavism	False	0
+3	Bonecraft	False	0
+2	Haven Affinity	False	0
+2	Blood Brother Ambush	False	0
+2	Paragon	False	0
+2	Name Forgotten, The	False	0
+2	True Faith	False	0
+2	Blood Buff	True	4
+2	Bujo	True	1000
+2	Dartmoor, England	False	0
+2	Death of My Conscience, The	False	0
+2	Knights, The	False	0
+2	Slashers, The	False	0
+2	Hard Case	False	0
+2	Bastard Sword	False	0
+2	Ritual Scalpel	True	1
+2	Disarming Presence	False	0
+2	Trophy: Library	False	0
+2	Excommunication	False	0
+2	Gift of Experience	False	0
+2	Kherebutu	False	0
+2	Nod	False	0
+2	Argent Baton	False	0
+2	Visionquest	True	1
+2	Liquefy the Mortal Coil	False	0
+2	Prison of the Mind	False	0
+2	Becoming of Ennoia	False	0
+2	Urban Jungle	False	0
+2	Loving Agony	True	2
+2	Morphean Blow	True	2
+2	Anarch Manifesto, An	False	0
+2	Vendetta	False	0
+2	Shadow of Taint	False	0
+2	Vicissitude Poisoning	False	0
+2	Treat the Sick Mind	False	0
+2	Kaymakli Barrier	False	0
+2	Rebirth	False	0
+2	Momentary Delay	True	2
+2	Omael Kuman	True	1000
+2	Concoction of Vitality	False	0
+2	Scarlet Lore	True	1001
+2	Conscripted Statue	False	0
+2	Childling Muse	True	1
+2	Shadowed Eyes	True	1000
+2	Priority Shift	False	0
+2	Pressing Flesh	True	2
+2	Clio's Kiss	False	0
+2	Those Who Endure Judge	False	0
+2	Glass Walker Pact	True	1000
+2	Kerrie	False	0
+2	Treachery	False	0
+2	Enrage	False	0
+2	Ohoyo Hopoksia (Bastet)	False	0
+2	Kiss of Lachesis	True	1000
+2	Local 1111	False	0
+2	Earth-Feeder	False	0
+2	Stiff Contempt	False	0
+2	Olid Loa	False	0
+2	Council of Seraphim	False	0
+2	Dusk Work	False	0
+2	Esgrima	False	0
+2	Shame	False	0
+2	Bloodlust	False	0
+2	Peace of Khetamon, The	False	0
+2	King's Rising	False	0
+2	Kpist m/45	False	0
+2	Under the Skin	False	0
+2	Grasp of the Python	True	1000
+2	Glaser Rounds	False	0
+2	Chronicle of the Lost Tribe	False	0
+2	Legwork	False	0
+2	Swarm	False	0
+2	Path of Tears, The	False	0
+2	Botched Move	False	0
+2	Follow the Blood	False	0
+2	Virolax Facility	False	0
+2	Fortune Teller	False	0
+2	Regenerative Blood	False	0
+2	Ruins of Villers Abbey, Belgium	False	0
+2	Whistling Up the Beast	False	0
+2	Creeping Infection	False	0
+2	Backstab	False	0
+2	Wildebeest, The	False	0
+2	Imposing Phantasm	True	1000
+2	Transfer of Power	False	0
+2	Kali's Fang	True	1000
+2	Sowing Dissension	False	0
+2	Personal Involvement	False	0
+2	Into the Fire	False	0
+2	Chill of Oblivion	True	1000
+2	Edge Vitiation	True	1000
+2	Passion	False	0
+2	Submachine Gun	False	0
+2	Poker	False	0
+2	Panacea	False	0
+2	Resurrection	False	0
+2	Frenzy	False	0
+2	Khabar: Honor, The	True	1000
+2	Denial of Aphrodite's Favor	False	0
+2	Feral Spirit	False	0
+2	Grand Temple of Set	True	1000
+2	Pseudo-Blindness	True	1000
+2	Exuding Blood	True	1000
+2	Corruption's Purge	False	0
+2	Growing Fury	False	0
+2	Rabble Razing	False	0
+2	Speed of Thought	False	0
+2	Primal Instincts	False	0
+2	Deadliest Sin, The	False	0
+2	Malkavian Derangement: Paranoia	False	0
+1	Rant!	False	0
+1	Guardian Ghoul	False	0
+1	Blessings of the Loa	True	2
+1	Abyssal Hunter	True	1000
+1	Sweeper	False	0
+1	Mehemet of the Ahl-i-Batin	False	0
+1	Antithesis	False	0
+1	Thrones Crumble	True	1000
+1	Goth Band	False	0
+1	Jua Vema	False	0
+1	Blessed Resilience	True	1001
+1	Status Perfectus, The	False	0
+1	Lesser Boon	False	0
+1	Delivery Truck	False	0
+1	Consecration Rites	False	0
+1	Chalice of Kinship	False	0
+1	Haymaker	False	0
+1	Weirding Stone	False	0
+1	Backflip	False	0
+1	Minor Curse	False	0
+1	Well-Aimed Car	False	0
+1	Jericho Founding	False	0
+1	Louvre, Paris, The	False	0
+1	Caiaphas Smith	False	0
+1	Fade from View	False	0
+1	Vanish from the Mind's Eye	False	0
+1	Dagon's Call	True	1000
+1	Sword of Troile	False	0
+1	Nkishi	False	0
+1	Open War	False	0
+1	Tribunal Judgment	False	0
+1	Minor Boon	False	0
+1	New Moon Sigil	True	1
+1	Target Retainer	True	1
+1	Shattering	True	1000
+1	Amulet of Temporal Perception	True	1
+1	Courier	False	0
+1	Frozen Object	True	1000
+1	Guinea-Bissau Carnival	False	0
+1	Scourge of Alecto	False	0
+1	Journal of Hrorsh	True	1
+1	Living Wood Staff	False	0
+1	Shadow Strike	True	1000
+1	Watchtower: Chosen are Called	False	0
+1	Arcanum Investigator	False	0
+1	Hellhound	False	0
+1	Cloak of the Abalone	False	0
+1	Smite	False	0
+1	Mummify	False	0
+1	Pallid	False	0
+1	Salt of Thoth	False	0
+1	Resume the Coil	True	1000
+1	Bounty	False	0
+1	Investiture	False	0
+1	Emergency Powers	False	0
+1	Trophy: No Questions	False	0
+1	Deep Cover Agent	False	0
+1	Black Spiral Buddy	False	0
+1	Retain the Quick Blood	True	1000
+1	Mark of the Damned	False	0
+1	Hierophant	True	1000
+1	Powder of Rigidity	False	0
+1	Ghouled Street Thug	False	0
+1	Black Gloves	False	0
+1	XTC-Laced Blood	False	0
+1	Census Taker	False	0
+1	Magazine	False	0
+1	Warning Sirens	False	0
+1	Igoli's Loyalty	False	0
+1	Blessed Audience	False	0
+1	Mind of a Killer	False	0
+1	Cauldron of Blood	False	0
+1	Garrote	False	0
+1	Regarhagan's Hold	False	0
+1	Watchtower: Greatest Fall	False	0
+1	Sabbat Inquisitor	False	0
+1	Winchester Mansion	False	0
+1	Revelation of the Sire	False	0
+1	Tithings	False	0
+1	Car Bomb	False	0
+1	Riposte	False	0
+1	Bang Nakh — Tiger's Claws	False	0
+1	Infernal Familiar	False	0
+1	Shotgun Ritual	False	0
+1	Invitation Accepted	True	1000
+1	Stranger Among Us, The	False	0
+1	Meat Cleaver	False	0
+1	Rayzeel's Song	False	0
+1	Powerbase: New York	False	0
+1	Set's Call	True	1000
+1	Blackmail	False	0
+1	Triole's Revenge	False	0
+1	Dismemberment of Osiris	True	1000
+1	Detection	False	0
+1	Violation of Trust	False	0
+1	Political Backlash	False	0
+1	Thanks for the Donation	False	0
+1	Bloodbath	False	0
+1	Fire Dance	False	0
+1	Dauntain Black Magician	False	0
+1	Revocation of Tyre	True	1000
+1	Cultivated Blood Shortage	False	0
+1	Cull the Herd	False	0
+1	Brujah Frenzy	False	0
+1	Obsession	False	0

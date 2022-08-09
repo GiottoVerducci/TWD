@@ -1,0 +1,57 @@
+Reins of Power
+Your Move Games, Boston, Massachusetts
+December 10th 2006
+3R+F
+15 players
+Scott Gomes
+
+Deck Name: Bats Cats and Yuri's mustache
+
+Crypt (12 cards, min=8, max=19, avg=3.25)
+-----------------------------------------
+1x Lord Ashton		5   ANI for pro			Gangrel:3
+1x Petra		5   ANI OBF aus			Nosferatu:4
+1x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
+1x Bobby Lemon		4   ANI pro			Gangrel:3
+1x Bothwell		3   ani for			Gangrel:3
+1x Clarissa Steinburgen	3   ani obf			Nosferatu:3
+1x Darva Felispa	3   ani pot			Nosferatu:3
+1x Marion French	3   ani chi			Ravnos:4
+1x Stick		3   ANI				Nosferatu antitribu:4
+1x Mouse		2   ani				Nosferatu:3
+1x Zip			2   ani				Ravnos:3
+1x Lisa Noble		1   ani				Caitiff:3
+
+Library (90 cards)
+Master (14)
+1x Animalism
+1x Barrens, The
+3x Blood Doll
+2x Dreams of the Sphinx
+1x Dummy Corporation
+1x Fame
+2x Haven Uncovered
+1x KRCG News Radio
+1x Momentum's Edge
+1x Powerbase: Montreal
+
+Action (7)
+1x Army of Rats
+6x Bum's Rush
+
+Equipment (2)
+2x Laptop Computer
+
+Retainer (5)
+5x Raven Spy
+
+Reaction (21)
+6x Cats' Guidance
+2x Elder Intervention
+2x Keep it Simple
+11x Wake with Evening's Freshness
+
+Combat (41)
+22x Aid from Bats
+3x Canine Horde
+16x Carrion Crows

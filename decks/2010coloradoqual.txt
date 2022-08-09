@@ -1,0 +1,49 @@
+Colorado Qualifier
+Longmont, Colorado
+June 26th 2010
+3R+F
+12 players
+Kelly Schultz
+
+-- 5VP in final
+
+Crypt (12 cards, min=4, max=20, avg=2.42)
+-----------------------------------------
+7x Tupdog		 1   POT VIS		  		Gargoyle:3
+1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
+1x Lumumba		 4   PRE ani		  		Guruhi:4
+1x Panya, The Wicked	 3   cel pre		  		Ishtarri:4
+1x Meno Ngari		 2   abo		  		Akunanse:4
+1x Misrak		 2   pot		  		Osebo:4
+
+Library (60 cards)
+Master (15; 4 trifle)
+4x Agent of Power
+6x Ashur Tablets
+3x Dreams of the Sphinx
+2x Obfuscate
+
+Political Action (16)
+1x Ancilla Empowerment
+6x Conservative Agitation
+1x Diversity
+8x Kine Resources Contested
+
+Action Modifier (22)
+3x Awe
+3x Bewitching Oration
+3x Cloak the Gathering
+2x Elder Impersonation
+1x Mask of a Thousand Faces
+2x Perfect Paragon
+4x Veil the Legions
+4x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Force of Personality
+
+Action Modifier/Reaction (4)
+1x Akunanse Kholo
+1x Guruhi Kholo
+1x Ishtarri Kholo
+1x Osebo Kholo

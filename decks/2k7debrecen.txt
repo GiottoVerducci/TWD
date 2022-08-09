@@ -1,0 +1,61 @@
+Second Tradition: Domain MQ
+Debrecen, Hungary
+June 2nd 2007
+28 players
+Csaba Greguss
+
+Tournament Deck Name: Justine and the Others
+
+Crypt (12 cards, min=17, max=31, avg=6)
+---------------------------------------
+3x Justine, Elder of Dallas 8	AUS DOM THA obf	 primogen  Tremere:1
+2x Gilbert Duane	    7	AUS DOM OBF	 prince	   Malkavian:1
+2x Ozmo			    6	AUS dom obf	 	   Malkavian:1
+2x Roland Bishop	    4	aus dom obf	 	   Malkavian:1
+1x Didi Meyers		    5	DOM aus cel obf	 	   Malkavian:1
+1x Zebulon		    5	OBF aus dom pro	 	   Malkavian:1
+1x Laurent de Valois	    4	ani dom obf	 	   Nosferatu:2
+
+Library (90 cards)
+Master (13)
+1x Asylum Hunting Ground
+7x Blood Doll
+5x Rötschreck
+
+Action (10)
+5x Govern the Unaligned
+2x Graverobbing
+3x Scouting Mission
+
+Equipment (5)
+4x Improvised Flamethrower
+1x Ivory Bow
+
+Action Modifier (20)
+3x Bonding
+4x Conditioning
+2x Elder Impersonation
+1x Faceless Night
+2x Hidden Lurker
+4x Lost in Crowds
+1x Marked Path
+1x Mask of a Thousand Faces
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (35)
+4x Deflection
+2x Eagle's Sight
+4x Enhanced Senses
+2x Fast Reaction
+11x Forced Awakening
+1x Melange
+4x On the Qui Vive
+1x Precognition
+2x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (5)
+5x Disguised Weapon

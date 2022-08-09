@@ -1,0 +1,28 @@
+Crusade: Verdun
+Montreal, Quebec
+January 26th 2008
+3R+F
+10 players
+Kevin Maclean
+
+Crypt (12 cards, min=8, max=40, avg=7.33)
+-----------------------------------------
+4x Lambach		10  ANI AUS DOM VIC pre	 cardinal  Tzimisce:2
+4x Lambach (ADV)	10  ANI AUS DOM VIC pre	 2 votes   Tzimisce:2
+4x Frederick the Weak	2   pre			 	   Brujah antitribu:2
+
+Library (77 cards)
+Master (64)
+7x Auspex
+4x Blood Doll
+11x Fortitude
+18x Obfuscate
+7x Potence
+2x Presence
+5x Secure Haven
+1x Sunset Strip, Hollywood
+5x Tribute to the Master
+4x Waste Management Operation
+
+Action (13)
+13x Legion

@@ -1,0 +1,69 @@
+Stanhope Arms
+Burton-on-Trent, England
+November 9th 2013
+2R+F
+12 players
+Hugh Angseesing
+
+-- 0.5VP in final
+
+Deck Name: Cailean Ventrue
+
+Crypt (12 cards, min=40, max=42, avg=10.17)
+-------------------------------------------
+5x Cailean	    10	ANI OBF POT PRE dom	 archbishop	Nosferatu antitribu:2
+2x Marcus Vitel	    10	DOM FOR OBF OBT PRE	 prince		Ventrue:3
+1x Arika	    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
+1x Leandro	    11	AUS OBF PRE cel dom	 inner circle	Malkavian:2
+1x Jaroslav Pascek  10	CEL POT PRE for obf	 justicar	Brujah:3
+1x Lucinde, Alastor 10	DOM FOR PRE obf pot tha	 justicar	Ventrue:3
+1x Queen Anne	    10	DOM FOR PRE aus obf	 prince		Ventrue:2
+
+Library (81 cards)
+Master (25; 7 trifle)
+1x Coven, The
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Jake Washington
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Secure Haven
+6x Villein
+7x Zillah's Valley
+
+Action (3)
+2x Entrancement
+1x Eternal Vigilance
+
+Political Action (20)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+5x Kine Resources Contested
+7x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (20)
+1x Approximation of Loyalty
+1x Cloak the Gathering
+1x Conditioning
+3x Elder Impersonation
+1x Enkil Cog
+1x Faceless Night
+4x Forgotten Labyrinth
+4x Lost in Crowds
+4x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Reaction (5)
+5x Deflection
+
+Combat (7)
+6x Majesty
+1x Staredown

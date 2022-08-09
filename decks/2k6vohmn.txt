@@ -1,0 +1,70 @@
+Victim of Habit
+Outpost 2000, Coon Rapids, Minnesota
+March 25th 2006
+2R+F
+13 players
+Christian Herro
+
+Deck Name: Inexplicable Itch
+Created by: Xian
+
+Description: It does some stuff. Apparently people have trouble figuring it out.
+
+Crypt (12 cards, min=10, max=22, avg=4)
+---------------------------------------
+1x Gentha Shale		   6   ANI PRE pot spi	Ahrimane:4
+1x Sundown		   6   ANI POT obf pre	Nosferatu:3
+1x Fish			   5   ANI POT pre	Guruhi:4
+1x Hezekiah Rutledge	   5   PRE ani cel pot	Brujah:4
+1x Bobby Lemon		   4   ANI pro		Gangrel:3
+1x Devyn		   4   ani chi pre	Ravnos:4
+1x Lumumba		   4   PRE ani		Guruhi:4
+1x Urenna Bunu		   4   ani pot pre	Guruhi:4
+1x Zhara		   4   ani for pre	Ishtarri:3
+1x Emerson Wilkershire III 2   pre		Toreador:3
+1x Mouse		   2   ani		Nosferatu:3
+1x Zip			   2   ani		Ravnos:3
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+2x Animalism
+6x Blood Doll
+6x Galaric's Legacy
+1x Hospital Food
+1x KRCG News Radio
+1x Powerbase: Los Angeles
+1x Seattle Committee
+
+Action (13)
+1x Entrancement
+1x Heart of the City
+1x Shepherd's Innocence
+2x Smash and Grab
+8x Undue Influence
+
+Equipment (2)
+2x .44 Magnum
+
+Retainer (5)
+5x Raven Spy
+
+Action Modifier (4)
+4x Aire of Elation
+
+Reaction (16)
+5x Cats' Guidance
+2x Delaying Tactics
+2x Guard Dogs
+3x Mole, The
+4x Wake with Evening's Freshness
+
+Combat (30)
+8x Aid from Bats
+2x Canine Horde
+10x Carrion Crows
+2x Groundfighting
+2x Majesty
+2x Pack Alpha
+4x Taste of Vitae

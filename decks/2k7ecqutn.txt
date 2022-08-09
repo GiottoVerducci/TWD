@@ -1,0 +1,69 @@
+Dutch ECQ
+Utrecht, Netherlands
+June 24th 2007
+3R+F
+24 players
+Erol Hammer
+
+Deck Name: Black Hand Arts v1.0
+
+Description: Build up like a normal !Tor Breed Deck, bring out Banjoko for
+enhanced Seraph Tech. Black Hand Emissary and Watchtower: Wolves Feed will
+give you the advantage to win, hopefully. ;)
+
+Crypt (12 cards, min=10, max=21, avg=4.08)
+------------------------------------------
+3x Banjoko		  5   DOM obt pot	   Lasombra:3
+1x Dominique Santo Paulo  6   AUS CEL pot pre	   Toreador antitribu:4
+1x Cristos Mantigo	  5   aus cel dom obf pre  Toreador antitribu:3
+1x Gabriel de Cambrai	  5   aus cel dem obf pre  Toreador antitribu:4
+1x Loonar		  4   PRE cel		   Toreador antitribu:4
+1x Sabrina		  4   aus cel pre	   Toreador antitribu:3
+1x Jonathan Gursel	  3   aus pre		   Toreador antitribu:4
+1x Monique Kim		  3   aus cel		   Toreador antitribu:4
+1x Justine Chen, Innocent 2   pre		   Toreador antitribu:4
+1x Nicholas Chang	  2   aus		   Toreador antitribu:3
+
+Library (90 cards)
+Master (33; 10 trifle)
+4x Blood Doll
+8x Cadet
+1x Census Taker
+1x Día de los Muertos
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+7x Foundation Exhibit
+1x Not to Be
+2x Palla Grande
+2x Parthenon, The
+2x Wash
+2x Watchtower: The Wolves Feed
+
+Action (16)
+2x Art Scam
+2x Black Hand Emissary
+10x Embrace, The
+2x Mustajib
+
+Political Action (22)
+7x Consanguineous Boon
+4x Conservative Agitation
+1x Crusade: Brussels
+9x Kine Resources Contested
+1x Rumors of Gehenna
+
+Action Modifier (6)
+6x Change of Target
+
+Reaction (9)
+4x Deflection
+2x On the Qui Vive
+3x Truth in Ink
+
+Combat (2)
+2x Majesty
+
+Event (2)
+1x Anthelios, The Red Star
+1x Break the Code

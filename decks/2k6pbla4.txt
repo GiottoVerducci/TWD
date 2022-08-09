@@ -1,0 +1,70 @@
+Powerbase: Los Angeles Event #4
+Los Angeles, California
+May 28th 2006
+13 players
+Robyn Tatu
+
+Deck Name: Sentinels (M & C 06)
+
+Description: A VARIATION of Maris & Casino with more Malks and a
+little more forward momentum.
+
+Crypt (12 cards, min=30, max=40, avg=8.83)
+------------------------------------------
+3x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	   Malkavian:3
+3x Casino Reeds		9   ANI OBF POT cel dem	 prince	   Nosferatu:3
+3x Maris Streck		9   AUS OBF ani dem dom	 justicar  Malkavian:3
+1x Cock Robin		10  ANI OBF POT aus for	 justicar  Nosferatu:3
+1x Korah		7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
+1x Calebros, The Martyr	5   ANI obf pot		 prince	   Nosferatu:2
+
+Library (90 cards)
+Master (9)
+2x Animalism
+4x Blood Doll
+1x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+
+Action (6)
+1x Blessing of Chaos
+2x Bum's Rush
+3x Kindred Spirits
+
+Equipment (3)
+2x .44 Magnum
+1x Sniper Rifle
+
+Political Action (9)
+1x Ancilla Empowerment
+1x Banishment
+1x First Tradition: The Masquerade
+3x Kine Resources Contested
+2x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (11)
+2x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+3x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (23)
+6x Cats' Guidance
+2x Guard Dogs
+8x Second Tradition: Domain
+1x Spirit's Touch
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (27)
+6x Aid from Bats
+2x Behind You!
+2x Canine Horde
+11x Carrion Crows
+1x Disguised Weapon
+5x Taste of Vitae

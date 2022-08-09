@@ -1,0 +1,67 @@
+Code of Milan Suspended
+San Jose, California
+December 17th 2011
+2R+F
+24 players
+Brandon Haas
+
+Deck Name: Shadowplay
+
+Crypt (12 cards, min=26, max=40, avg=8.42)
+------------------------------------------
+3x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+2x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Dr. Julius Sutphen			  5   POT dom obt		bishop	    Lasombra:3
+1x Guido Lucciano			  5   OBT dom obf			    Lasombra:2
+
+Library (73 cards)
+Master (14; 6 trifle)
+1x Barrens, The
+1x Coven, The
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Monastery of Shadows
+1x Power Structure
+5x Villein
+
+Action (6)
+6x Govern the Unaligned
+
+Political Action (10)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+1x Conservative Agitation
+3x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+
+Action Modifier (18)
+1x Blanket of Night
+2x Foreshadowing Destruction
+1x Private Audience
+2x Seduction
+5x Shadow Play
+1x Shroud of Absence
+3x Shroud of Night
+3x Tenebrous Form
+
+Action Modifier/Reaction (5)
+5x Murmur of the False Will
+
+Reaction (17)
+7x Deflection
+2x Obedience
+5x On the Qui Vive
+3x Wake with Evening's Freshness
+
+Combat (3)
+3x Shadow Body

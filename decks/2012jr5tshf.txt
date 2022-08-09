@@ -1,0 +1,61 @@
+Justicar Retribution V - Tombstone Shadow
+Helsinki, Finland
+July 1st 2012
+3R+F
+20 players
+Matias Frosterus
+
+Deck Name: Mora AKA Princes Outsource Their Stealth
+
+Description: The idea is to be able to consistently bleed for
+four at three stealth and then I added the ridiculously good
+defense module of Second Tradition. You need one vampire with
+superior obfuscate and then preferably a different vampire
+with the Prince title and presence since veiling and playing
+Second Tradition and Majesty takes blood. Parity Shift because
+why not - the easiest vote to negotiate through.
+
+Crypt (12 cards, min=19, max=32, avg=6.5)
+-----------------------------------------
+2x Epikasta Rigatos 8	AUS DOM PRE cel		prince	  Toreador:4
+2x Titus Camille    8	AUS DOM OBF for			  Ventrue antitribu:4
+2x Graham Gottesman 7	DOM FOR obf pre tha	prince	  Ventrue:5
+1x Preston Varrick  7	DOM OBF THA aus nec		  Tremere:4
+1x Halim Bey	    6	DOM SER obf tha			  Follower of Set:4
+1x Victor Donaldson 6	DOM for pre		prince	  Ventrue:5
+1x Emily Carson	    5	DOM for pre		primogen  Ventrue:5
+1x Jephta Hester    5	DOM FOR aus			  Ventrue antitribu:4
+1x Keith Moody	    3	DOM				  Tremere antitribu:4
+
+Library (71 cards)
+Master (13; 5 trifle)
+2x Dreams of the Sphinx
+1x Jake Washington
+4x Life in the City
+1x Lilith's Blessing
+3x Obfuscate
+1x Prophecies of Gehenna
+1x Wider View
+
+Action (14)
+1x Conceal
+13x Govern the Unaligned
+
+Political Action (3)
+3x Parity Shift
+
+Action Modifier (23)
+8x Bonding
+4x Change of Target
+4x Cloak the Gathering
+1x Lost in Crowds
+1x Marked Path
+5x Veil the Legions
+
+Reaction (12)
+5x Deflection
+1x Redirection
+6x Second Tradition: Domain
+
+Combat (6)
+6x Majesty

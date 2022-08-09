@@ -1,0 +1,63 @@
+Backstab
+Lafayette, Indiana
+October 9th 2004
+13 players
+John Flournoy
+
+Deck Name: Princes 3 and 4
+
+Description: The Tithings is supposed to be a Transfer of Power; I
+grabbed the wrong card when assembling the deck before the tournament.
+
+Crypt (12 cards, min=25, max=32, avg=7.17)
+------------------------------------------
+3x Giangaleazzo, The Traitor	8   OBT POT PRE dom	 prince	 Lasombra:4
+3x Mukhtar Bey			7   FOR PRE QUI obf pot	 prince	 Caitiff:4
+3x Mustafa, The Heir		6   FOR PRE cel dom	 prince	 Ventrue:4
+2x Victorine Lafourcade		8   DOM FOR PRE tha	 prince	 Ventrue:3
+1x Horatio Ballard		7   DOM FOR PRE aus	 	 Ventrue:3
+
+Library (90 cards)
+Master (18)
+3x Blood Doll
+2x Direct Intervention
+3x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Golconda: Inner Peace
+1x Hostile Takeover
+1x Island of Yiaros
+4x Minion Tap
+1x Sudden Reversal
+1x Ventrue Headquarters
+
+Action (11)
+2x Fifth Tradition: Hospitality
+8x Fourth Tradition: The Accounting
+1x Revelation of the Sire
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+3x Conservative Agitation
+1x Disputed Territory
+1x Kindred Restructure
+6x Kine Resources Contested
+1x National Guard Support
+1x Parity Shift
+1x Tithings
+
+Action Modifier (21)
+2x Approximation of Loyalty
+1x Awe
+4x Bewitching Oration
+6x Freak Drive
+8x Voter Captivation
+
+Reaction (14)
+4x Deflection
+9x Second Tradition: Domain
+1x Wake with Evening's Freshness
+
+Combat (10)
+5x Majesty
+5x Staredown

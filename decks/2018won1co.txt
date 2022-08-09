@@ -1,0 +1,101 @@
+Week of Nightmares 2018 Event 1
+Columbus, Ohio
+June 10th 2018
+2R+F
+19 players
+Alex Romano
+https://www.vekn.net/event-calendar/event/8860
+
+-- 1GW6 + 2VP in final
+
+Deck Name: Cardinal BeneDICKtion
+
+This deck was built around a conversation I saw on a group about how cardinal
+benediction is an inferior card. I just felt that was asinine so I combined it
+with some of the most heinous cards in the game to create this little
+monstrosity. Fear of Mekhet, Pentex, Banishment, Conceal, Scalpel Tongue,
+Disarming Presence and Derange can all be game breaking cards at the right
+time. The deck is at its best with an aggressive prey as it can just play the
+unassuming role and be at 20+ pool before doing anything of note.
+
+The final was definitely this case as I had a lasombra stealh bleed prey and a
+Mambo Jeanne beat face cross table to scare everyone. I was able to get a
+reverse win with my predator going first then his predator and so on. By time
+the stealth bleed prey got his VP I was sitting comfortably at around 40 pool
+after turns of black forest and capping with Armin's special.
+
+The recursion from Waste Management Operation is essential as there aren't a ton
+of offensive votes in the deck. Once in play it needs to be used every turn to
+push offensive votes and the right modifiers back into your deck. Protected
+resources slows the game down and often times discourages your prey from
+attempting to bleed.
+
+Gurchon Hall doesn't need to be in the deck as I never got any mileage out of it.
+Probably better off being another Minion Tap or offensive vote. Probably Ancilia
+Empowerment with the current Ally heavy climate.
+
+Crypt (12 cards, min=29, max=40, avg=8.75)
+------------------------------------------
+4x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+2x Aristotle de Laurent	9   AUS DEM OBF PRE pot			    Malkavian antitribu:3
+2x Isouda de Blaise	7   CEL OBF PRE aus			    Toreador antitribu:4
+1x Alicia Barrows	9   AUS DEM OBF POT PRE		archbishop  Malkavian antitribu:4
+1x Malabranca		9   AUS CEL PRE PRO obf		archbishop  Toreador antitribu:4
+1x Doctor Streck	8   CEL OBF PRE aus pot			    Brujah antitribu:3
+1x Stavros		7   AUS OBF PRE dem		priscus	    Malkavian antitribu:4
+
+Library (65 cards)
+Master (18)
+1x Black Forest Base
+1x Día de los Muertos
+1x Fear of Mekhet
+1x Giant's Blood
+1x Gurchon Hall
+1x Legendary Vampire
+4x Minion Tap
+1x Pentex(TM) Subversion
+1x Powerbase: Madrid
+2x Protected Resources
+1x Regent
+1x Sudden Reversal
+2x Waste Management Operation
+
+Action (4)
+1x Charming Lobby
+1x Conceal
+1x Derange
+1x Sibyl's Tongue
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+2x Banishment
+3x Cardinal Benediction
+1x Disputed Territory
+3x Kine Resources Contested
+1x Political Stranglehold
+2x Rumors of Gehenna
+
+Action Modifier (17)
+1x Awe
+3x Bewitching Oration
+1x Disarming Presence
+2x Elder Impersonation
+3x Forgotten Labyrinth
+3x Into Thin Air
+4x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Combat (5)
+5x Majesty

@@ -1,0 +1,69 @@
+Auto da Fé
+São Paulo, Brazil
+April 18th 2014
+2R+F
+10 players
+Fernanda Nunes
+https://www.vekn.net/event-calendar/event/7651
+
+-- 3VP in final
+
+Deck Name: Escrava Isaura
+
+Crypt (12 cards, min=28, max=37, avg=8.25)
+------------------------------------------
+4x Nangila Were		 9   ANI POT PRE obf ser		Guruhi:4
+4x Nana Buruku		 8   ANI POT PRE			Guruhi:4
+1x Ugadja		 10  ABO ANI POT PRE dom for	magaji	Guruhi:4
+1x Iniko, The Black Lion 9   ANI OBT POT PRE cel		Guruhi:4
+1x Maskini		 7   ANI POT PRE SER abo		Guruhi:4
+1x Fish			 5   ANI POT pre			Guruhi:4
+
+Library (90 cards)
+Master (30; 5 trifle)
+1x Archon Investigation
+7x Ashur Tablets
+1x Channel 10
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x KRCG News Radio
+1x Mbare Market, Harare
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Luanda
+1x Rumor Mill, Tabloid Newspaper, The
+4x Villein
+1x Wash
+1x WMRH Talk Radio
+4x Zillah's Valley
+
+Action (12)
+1x Aranthebes, The Immortal
+3x Deep Song
+2x Entrancement
+2x Founders of the Ebony Kingdom
+3x Preternatural Strength
+1x Well-Marked
+
+Action Modifier (1)
+1x Strange Day
+
+Reaction (18)
+4x Cats' Guidance
+4x Guard Dogs
+4x Lost in Translation
+2x On the Qui Vive
+4x Sense the Savage Way
+
+Combat (28)
+2x Canine Horde
+5x Carrion Crows
+3x Decapitate
+6x Disarm
+5x Immortal Grapple
+3x Slam
+4x Taste of Vitae
+
+Event (1)
+1x Scourge of the Enochians

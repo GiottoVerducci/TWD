@@ -1,0 +1,61 @@
+Anarch Independence Day
+New York City, New York
+June 28th 2003
+14 players
+Lev Steshenko
+
+Serpents
+
+Crypt (13 cards, min=12, max=26, avg=4.77)
+------------------------------------------
+1x Kephamos, High Priest of Marrakech	8   SER dom obf pre	 2 votes  Follower of Set:2
+1x Qufur am-Heru			7   OBF PRE SER cel tha	 	  Follower of Set:2
+1x Aisha				6   PRE ani aus ser	 	  Follower of Set:2
+1x Catherine du Bois			5   DOM for obf pre	 	  Ventrue:3
+1x Count Ormonde			5   OBF dom pre ser	 	  Follower of Set:2
+1x Dedefra				5   SER nec obf		 	  Follower of Set:2
+1x Ilyana Ravidovich			5   aus dom for pre	 	  Ventrue:3
+1x Sir Marriot D'Urban			5   PRE aus obf ser	 	  Follower of Set:2
+1x Hadrian Garrick			4   obf pre		 	  Follower of Set:2
+1x Nepata				4   obf pre ser		 	  Follower of Set:2
+1x Celine Chevalier			3   obf ser		 	  Follower of Set:2
+1x Khalil Anvari			3   pre ser		 	  Follower of Set:2
+1x Lalitha				2   ser			 	  Follower of Set:2
+
+Library (91 cards)
+Master (18)
+5x Blood Doll
+4x Dominate
+3x Effective Management
+1x Khobar Towers, Al-Khubar
+1x Opium Den
+2x Temple Hunting Ground
+2x Tribute to the Master
+
+Action (40)
+1x Arson
+9x Clotho's Gift -- useless since I took out synesios
+14x Corruption
+4x Enchant Kindred
+4x Enticement
+3x Form of Corruption
+1x Lure of the Serpent
+2x Summon the Serpent
+2x Temptation
+
+Action Modifier (9)
+2x Change of Target
+4x Cloak the Gathering
+3x Lost in Crowds
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (14)
+8x Deflection
+2x Ecstasy
+4x Wake with Evening's Freshness
+
+Combat (9)
+7x Majesty
+2x Staredown

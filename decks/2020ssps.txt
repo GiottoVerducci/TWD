@@ -1,0 +1,63 @@
+Scarlet Sunset (part A)
+Palma de Mallorca, Spain
+September 26th 2020
+2R+F
+10 players
+Moisés Ferrer Gallegos
+https://www.vekn.net/event-calendar/event/9674
+
+-- 1GW5 + 1.5VP in final
+
+Deck Name: Tremere Toolbox
+Author: Moisés Ferrer Gallegos
+Description:
+
+Crypt (12 cards, min=16, max=29, avg=5.67)
+------------------------------------------
+3x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+2x Selena			6   AUS DOM THA			  Tremere antitribu:3
+1x Kij Dansky			8   AUS DOM THA obt	priscus	  Tremere antitribu:2
+1x Reverend Blackwood		6   DOM THA obf		bishop	  Tremere antitribu:2
+1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+1x Cohn Rose			5   THA aus dom pre		  Tremere:3
+1x Hannigan			5   AUS THA dom			  Tremere antitribu:2
+1x Brooke			3   dom tha			  Tremere antitribu:2
+1x Ehrich Weiss			3   dom tha			  Tremere:3
+
+Library (77 cards)
+Master (12)
+1x Academic Hunting Ground
+1x Anarch Troublemaker
+4x Blood Doll
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Powerbase: Montreal
+
+Action (14)
+10x Govern the Unaligned
+4x Magic of the Smith
+
+Equipment (6)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Sport Bike
+
+Action Modifier (2)
+2x Conditioning
+
+Reaction (22)
+6x Deflection
+6x Eyes of Argus
+2x Forced Awakening
+2x My Enemy's Enemy
+4x On the Qui Vive
+2x Telepathic Misdirection
+
+Combat (21)
+8x Apportation
+12x Theft of Vitae
+1x Walk of Flame

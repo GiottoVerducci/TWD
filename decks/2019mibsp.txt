@@ -1,0 +1,71 @@
+Miércoles Infernal
+Barcelona, Spain
+April 17th 2019
+2R+F
+14 players
+Tomàs López Jiménez
+https://www.vekn.net/event-calendar/event/9224
+
+-- 1GW3 + 3VP in final
+
+Deck Name: Scout & Friends
+
+Crypt (12 cards, min=26, max=36, avg=7.92)
+------------------------------------------
+4x Scout Youngwood 8   MEL OBF PRE for qui  2 votes	Daughter of Cacophony:6
+3x Undele	   9   CEL FOR obf pre ser  magaji	Ishtarri:5
+3x Arishat	   6   DAI OBF PRE	    1 vote	Baali:6
+1x Dark Selina	   9   CEL POT PRE dom for  cardinal	Brujah antitribu:5
+1x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+
+Library (90 cards)
+Master (30)
+1x Barrens, The
+1x Command Performance
+1x Dreams of the Sphinx
+2x Heidelberg Castle, Germany
+2x Information Highway
+9x Minion Tap
+1x Monastery of Shadows
+2x Paris Opera House
+2x Parthenon, The
+1x Pentex(TM) Subversion
+8x Zillah's Valley
+
+Action (11)
+8x Concert Tour
+3x Entrancement
+
+Ally (4)
+1x Carlton Van Wyk
+1x Member of the Entourage
+1x Mylan Horseed
+1x Ossian
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (14)
+2x Banishment
+7x Kine Resources Contested
+1x Meddling of Semsith, The
+4x Reckless Agitation
+
+Action Modifier (23)
+4x Bewitching Oration
+2x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+6x Freak Drive
+2x Lost in Crowds
+1x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Combat (4)
+4x Majesty
+
+Combat/Reaction (1)
+1x Abandoning the Flesh

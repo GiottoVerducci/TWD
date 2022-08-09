@@ -1,0 +1,73 @@
+TempleCon 2015 Friday Night
+Warwick, Rhode Island
+February 6th 2015
+3R+F
+15 players
+Jennifer Hirsch
+https://www.vekn.net/event-calendar/event/7884
+
+Deck Name: Jen Friday TempleCon 2015
+
+The deck worked well when it got going, but getting going from the #2 position at a table was tough. After playing it more, I'd put in a second Secure Haven, remove Honor the Elders for another damaging vote (not enough big vamps out to make it worth while) and change out at least one True Love's Face for Voter Captivation - the deck needs bloat and that (and Villein) are all it has. Mundane was really helpful when I drew it, and I'd probably swap one of the Telepathic Misdirection or Counters for another Majesty. Finally, Drozodny is amazing, if I didn't need votes, he beat Stavros every time.
+
+Crypt (12 cards, min=23, max=44, avg=8.25)
+------------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
+3x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
+2x Drozodny		 7   AUS DEM OBF pre	  bishop	Malkavian antitribu:5
+1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE  inner circle	Toreador:4
+1x Arthur Denholm	 5   AUS DEM obf	  		Malkavian:5
+1x Pearl		 4   AUS obf		  		Malkavian antitribu:5
+
+Library (90 cards)
+Master (15; 5 trifle)
+1x Archon Investigation
+1x Barrens, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Mundane
+1x Pentex(TM) Subversion
+1x Secure Haven
+2x Sudden Reversal
+4x Villein
+1x Wider View
+
+Action (1)
+1x Enchant Kindred
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+1x Disputed Territory
+1x Honor the Elders
+9x Kine Resources Contested
+1x Reins of Power
+
+Action Modifier (28)
+2x Awe
+4x Bewitching Oration
+2x Cloak the Gathering
+1x Crocodile's Tongue
+1x Elder Impersonation
+2x Faceless Night
+4x Forgotten Labyrinth
+2x Lost in Crowds
+5x True Love's Face
+1x Veil the Legions
+4x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (19)
+1x Eyes of Argus
+2x On the Qui Vive
+6x Telepathic Counter
+5x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (8)
+8x Majesty

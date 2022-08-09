@@ -1,0 +1,66 @@
+Qualifier ES-MG
+Belo Horizonte, Brazil
+April 22nd 2007
+15 players
+Leonardo Villela
+
+Shambling Hordes
+
+Crypt (12 cards, min=14, max=31, avg=5.83)
+------------------------------------------
+3x Pochtli		8   NEC OBF POT cel dom	 Giovanni:2
+2x Carlotta Giovanni	7   NEC POT dom obf	 Giovanni:2
+2x Gloria Giovanni	4   DOM nec		 Giovanni:2
+1x Andrea Giovanni	7   DOM NEC pot vic	 Giovanni:2
+1x Rafaele Giovanni	6   NEC cel obf		 Giovanni:2
+1x Isabel Giovanni	5   DOM NEC pot		 Giovanni:2
+1x Lia Milliner		3   dom nec		 Giovanni:3
+1x Rudolfo Giovanni	3   NEC			 Giovanni:2
+
+Library (90 cards)
+Master (25)
+1x Barrens, The
+2x Blood Doll
+1x Charisma
+2x Fame
+1x Fortschritt Library
+1x Giant's Blood
+1x Jake Washington
+3x Liquidation
+1x Memories of Mortality
+1x Morgue Hunting Ground
+4x Parthenon, The
+2x Path of Bone, The
+1x Perfectionist
+1x Powerbase: Cape Verde
+1x Tower of London
+2x Vampiric Disease
+
+Ally (19)
+2x Ambrosius, The Ferryman
+1x Carlton Van Wyk
+1x Leonardo, Mortician
+15x Shambling Hordes
+
+Action Modifier (20)
+5x Call of the Hungry Dead
+8x Cloak the Gathering
+2x Conditioning
+2x Faceless Night
+3x Lost in Crowds
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+Reaction (11)
+7x Deflection
+4x Wake with Evening's Freshness
+
+Combat (10)
+4x Fake Out
+3x Spiritual Intervention
+3x Trap
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

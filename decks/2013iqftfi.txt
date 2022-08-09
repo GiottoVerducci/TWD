@@ -1,0 +1,60 @@
+Italian Qualifier Tour Final
+Florence, Italy
+November 30th 2013
+2R+F
+14 players
+Mario Testa
+https://www.vekn.net/event-calendar/event/7418
+
+Deck: Un Mazzo Diversion
+
+Crypt (12 cards, min=4, max=20, avg=2.92)
+-----------------------------------------
+5x Anarch Convert   1	-none-		 Caitiff:ANY
+1x Agru Kabera	    6	FOR cel nec pre	 Ishtarri:4
+1x Elizabeth Conde  5	CEL FOR pre	 Ishtarri:4
+1x Shasa Abu Badr   5	PRE cel for	 Ishtarri:4
+1x Fahd al-Zawba'a  4	cel for pre	 Toreador:4
+1x Kenyatta	    4	cel for pre	 Ishtarri:4
+1x Caroline Bishops 3	cel for pot	 Pander:4
+1x T.J.		    3	cel for		 Gangrel:4
+
+Library (80 cards)
+Master (16; 4 trifle)
+1x Archon Investigation
+3x Dreams of the Sphinx
+1x Fame
+1x Frontal Assault
+1x Haven Uncovered
+1x Ishtarri Warlord
+1x Monster
+2x Powerbase: Luanda
+1x Tension in the Ranks
+4x Vessel
+
+Action (9)
+6x Bum's Rush
+3x Harass
+
+Equipment (9)
+7x .44 Magnum
+2x Codex of the Edenic Groundskeepers
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (5)
+5x Forced March
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Combat (35)
+7x Concealed Weapon
+18x Diversion
+7x Flash
+3x Groundfighting
+
+Event (1)
+1x Dragonbound

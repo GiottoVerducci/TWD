@@ -1,0 +1,58 @@
+Week of Nightmares Event 1
+Columbus, Ohio
+June 11th 2017
+2R+F
+10 players
+Mark Loughman
+https://www.vekn.net/event-calendar/event/8600
+
+Deck Name: Virtual Adepts
+
+The crypt dates back to an earlier version using Anarch tech. The 2 copies of Kyoto should really
+an additional Esoara and Beatrice. Either way, Antonio is the star, even though he rarely acts.
+
+Crypt (12 cards, min=12, max=20, avg=4.33)
+------------------------------------------
+5x Antonio d'Erlette		 5   THA dom for pot	Tremere antitribu:4
+2x Kyoko Shinsegawa		 5   aus cel dom for	Tremere:3
+2x Béatrice "Oracle171" Tremblay 3   inn ven		Innocent:4
+2x Keith Moody			 3   DOM		Tremere antitribu:4
+1x Esoara			 5   DOM aus for pot	Tremere antitribu:4
+
+Library (66 cards)
+Master (10)
+2x Direct Intervention
+1x Pentex(TM) Subversion
+7x Sudden Reversal
+
+Conviction (1)
+1x Second Sight
+
+Action (14)
+9x Computer Hacking
+2x Harass
+3x Leech
+
+Ally (11)
+1x Carlton Van Wyk
+1x Mehemet of the Ahl-i-Batin
+8x Nephandus
+1x Ossian
+
+Action Modifier (5)
+2x Conditioning
+1x Daring the Dawn
+2x Leverage
+
+Reaction (7)
+4x Deflection
+3x On the Qui Vive
+
+Combat (16)
+3x Glancing Blow
+1x Molotov Cocktail
+8x Target Vitals
+4x Trap
+
+Event (2)
+2x Unmasking, The

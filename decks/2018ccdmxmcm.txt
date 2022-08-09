@@ -1,0 +1,62 @@
+Crusade: CDMX 2018 Vol. 1
+Mexico City, Mexico
+May 27th 2018
+2R+F
+12 players
+Carlos Escobar Muciño
+https://www.vekn.net/event-calendar/event/8890
+
+Deck Name: Ludmijla's wall
+
+Description: A classic wall, Auxpex and Animalism deck
+
+Crypt (12 cards, min=24, max=31, avg=6.92)
+------------------------------------------
+4x Ludmijla Rakoczy	7   ANI AUS VIC		 bishop	 Tzimisce:5
+3x Lady Zara Slatikov	8   ANI AUS OBF VIC	 bishop	 Tzimisce:4
+3x Laika		7   ANI AUS chi obf vic	 	 Tzimisce:4
+2x Yuri Kerezenski	5   ANI aus for vic	 bishop	 Tzimisce:4
+
+Library (90 cards)
+Master (13; 5 trifle)
+2x Guardian Angel
+1x Mob Connections
+1x Pentex(TM) Subversion
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+3x Vessel
+2x Wash
+
+Action (9)
+6x Deep Song
+1x Pulse of the Canaille
+2x Under Siege
+
+Ally (3)
+1x Carlton Van Wyk
+1x Ossian
+1x War Ghoul
+
+Equipment (3)
+1x Bowl of Convergence
+2x Sniper Rifle
+
+Retainer (5)
+5x Raven Spy
+
+Reaction (21)
+4x Eagle's Sight
+3x Eluding the Arms of Morpheus
+4x Eyes of Argus
+3x Read the Winds
+7x Telepathic Misdirection
+
+Combat (36)
+7x Aid from Bats
+7x Carrion Crows
+4x Pack Alpha
+5x Target Vitals
+5x Taste of Vitae
+8x Terror Frenzy

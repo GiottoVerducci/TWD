@@ -1,0 +1,66 @@
+Powerbase: Berkeley - Absorb the Mind
+Berkeley, California
+August 13th 2016
+2R+F
+10 players
+Lev Jasper
+https://www.vekn.net/event-calendar/event/8396
+
+-- 3VP in final
+
+Deck Name: Barrenness Twister
+
+Description: Deck has 24 burn option cards out of 66 library cards. Burn the burn option cards to cull your deck until you get combinations set up, then use Ashur Tablets to put the burned cards back in the deck once you have your Maleficias in place. Best play in finals was using The Unnamed and two Hordes, each with 1 Maleficia on them, to put three Barrenness cards on my prey's Scout Youngwood and then burn her by playing Scourge. Ouch. Other than the Maleficia cards (which are very strong), it's a typical Unnamed deck - Enkil Cog The Unnamed, bleed on your turn, bleed on someone else's turn. This deck generates mucho table hate.
+
+Crypt (12 cards, min=12, max=40, avg=5.92)
+------------------------------------------
+7x Horde, The	3   dai obf pre		 Baali:6
+5x unnamed, The	10  CEL DAI OBF PRE PRO	 Baali:6
+
+Library (66 cards)
+Master (20; 6 trifle)
+6x Ashur Tablets
+1x Dreams of the Sphinx
+5x Maleficia
+1x Metro Underground
+2x Parthenon, The
+2x Pentex(TM) Subversion
+1x Perfectionist
+1x Secure Haven
+1x Wider View
+
+Action (18)
+13x Barrenness
+5x Unleash Hell's Fury
+
+Ally (1)
+1x Veneficti
+
+Equipment (1)
+1x Kaymakli Fragment
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (15)
+1x Cloak the Gathering
+1x Elder Impersonation
+3x Enkil Cog
+1x Faceless Night
+1x Forgotten Labyrinth
+1x I am Legion
+4x Instantaneous Transformation
+2x Lost in Crowds
+1x Psalm of the Damned
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Combat (2)
+2x Form of Mist
+
+Combat/Reaction (5)
+5x Evil Eye
+
+Event (1)
+1x Scourge of the Enochians

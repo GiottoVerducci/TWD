@@ -1,0 +1,75 @@
+Camarilla Conclave
+Palma de Mallorca, Spain
+August 12th 2012
+3R+F
+28 players
+Jorge Verdi
+
+-- 4VP in final
+
+Deck Name: The Path of Pain
+
+Crypt (12 cards, min=24, max=38, avg=7.83)
+------------------------------------------
+2x Matteus, Flesh Sculptor		 10  AUS CEL PRE VIC	priscus	    Toreador antitribu:2
+2x Donatien				 9   AUS PRE cel pot	cardinal    Toreador antitribu:2
+2x Lachlan, Noddist			 8   AUS CEL PRE dom	archbishop  Toreador antitribu:2
+2x Venere Carboni			 8   AUS CEL PRE ani	priscus	    Toreador antitribu:3
+2x Michael Luther			 4   aus pre			    Toreador:3
+1x Jessica (ADV)			 8   AUS CEL OBT PRE	bishop	    Toreador antitribu:2
+1x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	    Toreador antitribu:2
+
+Library (90 cards)
+Master (16; 7 trifle)
+1x Creepshow Casino
+1x Día de los Muertos
+2x Dreams of the Sphinx
+1x Monastery of Shadows
+1x Palla Grande
+1x Pentex(TM) Subversion
+1x Powerbase: Madrid
+1x Regent
+7x Villein
+
+Action (2)
+2x Entrancement
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (21)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Auto-da-fé
+2x Banishment
+1x Cardinal Benediction
+3x Consanguineous Boon
+9x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (17)
+2x Awe
+2x Bewitching Oration
+2x Perfect Paragon
+4x Private Audience
+7x Voter Captivation
+
+Action Modifier/Combat (6)
+3x Force of Personality
+3x Resist Earth's Grasp
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (14)
+7x Eyes of Argus
+7x Telepathic Misdirection
+
+Combat (9)
+2x Charismatic Aura
+7x Majesty

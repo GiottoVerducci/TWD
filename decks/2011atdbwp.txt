@@ -1,0 +1,56 @@
+Avangarda - the Dude's back!
+Warszawa, Poland
+July 23rd 2011
+3R+F
+13 players
+Michal Twarowski
+
+-- 3VP in final
+
+Crypt (12 cards, min=10, max=18, avg=3.42)
+------------------------------------------
+2x Gloria Giovanni		   4   DOM nec	    Giovanni:2
+2x Rudolfo Giovanni		   3   NEC	    Giovanni:2
+1x Isabel Giovanni		   5   DOM NEC pot  Giovanni:2
+1x Le Dinh Tho			   5   NEC aus dom  Nagaraja:2
+1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
+1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
+1x Lia Milliner			   3   dom nec	    Giovanni:3
+1x Mario Giovanni		   3   nec pot	    Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
+1x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+
+Library (60 cards)
+Master (14; 5 trifle)
+1x Archon Investigation
+2x Direct Intervention
+2x Jake Washington
+1x Lilith's Blessing
+1x Path of Bone, The
+2x Pentex(TM) Subversion
+3x Vessel
+2x Villein
+
+Action (8)
+1x Aranthebes, The Immortal
+7x Khazar's Diary (Endless Night)
+
+Ally (24)
+1x Carlton Van Wyk
+15x Draeven Softfoot
+7x Shambling Hordes
+1x Tye Cooper
+
+Action Modifier (3)
+3x Call of the Hungry Dead
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+Reaction (8)
+4x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+
+Event (1)
+1x Unmasking, The

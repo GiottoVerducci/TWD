@@ -1,0 +1,64 @@
+Fists of Death
+Cincinnati, Ohio
+May 3rd 2003
+19 players
+Will Kristoff
+
+Deck Name: Will's Ahrimanes
+
+19 Methuslahs battled each other in Cincinnati on May 3rd 2003.
+In the end the Ahrimanes played by Will Kristoff won it all.
+
+Will says: Try not to beat up your Predator too badly.
+Let your prey do some damage to his prey before you oust him.
+
+Crypt (12 cards, min=23, max=32, avg=7)
+---------------------------------------
+5x Howler	    8	ANI PRE SPI obf	 Ahrimane:2
+4x Siamese, The	    7	PRE SPI ani pro	 Ahrimane:2
+2x Cynthia Ingold   6	SPI ani for pre	 Ahrimane:2
+1x Juanita Santiago 4	ani pre spi	 Ahrimane:2
+
+Library (90 cards)
+Master (12)
+2x Animalism
+2x Blood Doll
+1x Club Zombie
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Sudden Reversal
+
+Action (13)
+3x Engling Fury
+1x Entrancement
+3x Legal Manipulations
+4x Nose of the Hound
+2x Social Charm
+
+Retainer (6)
+1x Mr. Winthrop
+2x Murder of Crows
+1x Raptor
+2x Raven Spy
+
+Action Modifier (3)
+3x Aire of Elation
+
+Action Modifier/Combat (11)
+11x Swiftness of the Stag
+
+Reaction (22)
+5x Cats' Guidance
+3x Falcon's Eye
+7x Forced Awakening
+7x Speak with Spirits
+
+Combat (23)
+6x Aid from Bats
+9x Carrion Crows
+3x Drawing Out the Beast
+4x Taste of Vitae
+1x Trap

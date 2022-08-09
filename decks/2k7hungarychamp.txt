@@ -1,0 +1,66 @@
+Hungarian NC 2007
+Veszprem, Hungary
+October 7th 2007
+3R+F
+40 players
+Jozsef Kuminka
+
+Deck Name: Netdecking Rulez
+
+Crypt (12 cards, min=12, max=43, avg=7.42)
+------------------------------------------
+3x Alexandra			11  ANI AUS CEL PRE dom		inner circle	Toreador:2
+2x Madame Guil			10  AUS CEL PRE for pot ser	justicar	Toreador:3
+1x François Villon		10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Fleurdumal			8   AUS DEM PRE cel tha		prince		Toreador:3
+1x Antoinette, She Who Watches	6   AUS PRE cel obf		primogen	Toreador:3
+1x Michael Luther		4   aus pre					Toreador:3
+1x Isabel de Leon		3   AUS						Toreador:2
+1x Yvette, The Hopeless		3   aus cel					Toreador:3
+1x Emerson Wilkershire III	2   pre						Toreador:3
+
+Library (90 cards)
+Master (18)
+5x Aching Beauty
+1x Archon Investigation
+1x Blood Doll
+1x Dreams of the Sphinx
+1x Giant's Blood
+5x Minion Tap
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+2x Toreador Grand Ball
+
+Action (4)
+4x Entrancement
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+1x Domain Challenge
+4x Kine Resources Contested
+4x Parity Shift
+1x Protect Thine Own
+1x Reins of Power
+
+Action Modifier (25)
+3x Aire of Elation
+2x Approximation of Loyalty
+1x Awe
+4x Bewitching Oration
+5x Change of Target
+5x Crocodile's Tongue
+5x Voter Captivation
+
+Reaction (17)
+2x My Enemy's Enemy
+4x On the Qui Vive
+5x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (10)
+10x Majesty

@@ -1,0 +1,70 @@
+Orgy of Mystery
+Ithaca, New York
+November 14th 2008
+2R+F
+15 players
+James Rodriguez
+
+-- 5VP in final
+
+Deck Name: "Your tongues can't repel flavor of that magnitude!"
+
+Crypt (12 cards, min=4, max=25, avg=3.5)
+----------------------------------------
+4x Anarch Convert	1   -none-		 Caitiff:ANY
+1x Amaravati		8   DOM OBF QUI ani chi	 Assamite:4
+1x Hafsa, The Watcher	6   OBF QUI aus cel	 Assamite:5
+1x Vardar Vardarian	6   OBF QUI cel pre	 Assamite:4
+1x Janni		5   cel for obf qui	 Assamite:4
+1x Layla bint-Nadr	5   CEL OBF qui		 Assamite:4
+1x Michael diCarlo	5   CEL obf qui		 Assamite:4
+1x Alu			2   obf			 Assamite:5
+1x Basir		1   qui			 Assamite:4
+
+Library (75 cards)
+Master (16)
+3x Alamut
+1x Archon Investigation
+1x Barrens, The
+1x Black Throne, The
+2x Blood Doll
+1x Club Illusion
+1x Direct Intervention
+1x Garibaldi-Meucci Museum
+1x Khabar: Community, The
+1x Pentex(TM) Subversion
+1x Seattle Committee
+1x Twilight Camp
+1x Yoruba Shrine
+
+Action (16)
+4x Embrace, The
+2x Fee Stake: Boston -- had to double up on this one missing Seattle
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+1x Fee Stake: Perth
+1x Khabar: Glory
+5x Web of Knives Recruit
+
+Political Action (17)
+1x Anarch Salon
+5x Consanguineous Boon
+1x Exclusion Principle
+2x Firebrand
+4x Kine Resources Contested
+1x Patsy
+3x Revolutionary Council
+
+Action Modifier (23)
+3x Cloak the Gathering
+6x CrimethInc.
+2x Cryptic Rider
+1x Domain of Evernight
+3x Faceless Night
+3x Lost in Crowds
+3x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night

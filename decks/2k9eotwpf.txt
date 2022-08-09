@@ -1,0 +1,67 @@
+Edge of the World
+Troll2Jeux, Paris, France
+August 1st 2009
+3R+F
+24 players
+Tristan Ducousso
+
+Deck Name: TWD Edge of the World
+
+Crypt (12 cards, min=7, max=26, avg=4.08)
+-----------------------------------------
+3x Omaya	  7   ANI AUS FOR pro	Gangrel antitribu:2
+2x Devin Bisley	  5   ANI AUS vic	Tzimisce:2
+2x Wendy Wade	  3   ani aus		Tzimisce:2
+1x Bear Paw	  5   ANI for pre pro	Gangrel:1
+1x Leon		  3   ani for		Gangrel antitribu:2
+1x Vliam Andor	  2   ani		Gangrel:1
+1x March Halcyon  1   for		Pander:2
+1x Navar McClaren 1   ani		Caitiff:1
+
+Library (88 cards)
+Master (14)
+4x Blood Doll
+1x Campground Hunting Ground
+1x Direct Intervention
+1x Guardian Angel
+1x Heidelberg Castle, Germany
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Sudden Reversal
+1x WMRH Talk Radio
+
+Action (3)
+1x Army of Rats
+2x Deep Song
+
+Equipment (5)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Camera Phone
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (6)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+3x Raven Spy
+1x Tasha Morgan
+
+Reaction (28)
+5x Cats' Guidance
+4x Eagle's Sight
+2x Enhanced Senses
+6x Forced Awakening
+3x Read the Winds
+5x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (32)
+11x Aid from Bats
+3x Canine Horde
+9x Carrion Crows
+2x Rolling with the Punches
+3x Superior Mettle
+4x Taste of Vitae

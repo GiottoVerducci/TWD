@@ -1,0 +1,60 @@
+Swedish ECQ
+GothCon 2007, Gothenburg, Sweden
+April 7th 2007
+35 players
+Roger Carhult
+
+Deck Name: Swedish ECQ Winner 2007
+
+Crypt (12 cards, min=16, max=31, avg=6)
+---------------------------------------
+3x Anton	8   ANI AUS cel obf vic	 Tzimisce:2
+3x Dragos	7   ANI AUS vic		 Tzimisce:2
+2x Devin Bisley	5   ANI AUS vic		 Tzimisce:2
+2x Terrence	4   ani aus vic		 Tzimisce:2
+1x Caliban	6   ANI AUS VIC		 Tzimisce:2
+1x Wendy Wade	3   ani aus		 Tzimisce:2
+
+Library (90 cards)
+Master (16)
+3x Blood Doll
+1x Erciyes Fragments, The
+2x Fame
+1x Haven Affinity
+1x Library Hunting Ground
+1x Path of Lilith, The
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+2x Rack, The
+2x Sociopath
+1x Tension in the Ranks
+
+Action (4)
+1x Abbot
+2x Army of Rats
+1x Trainer
+
+Equipment (1)
+1x Bowl of Convergence
+
+Retainer (2)
+1x Owl Companion
+1x Revenant
+
+Reaction (19)
+3x Cats' Guidance
+5x Eagle's Sight
+3x Forced Awakening
+1x On the Qui Vive
+2x Precognition
+5x Read the Winds
+
+Combat (48)
+11x Aid from Bats
+4x Breath of the Dragon
+1x Canine Horde
+8x Carrion Crows
+5x Chiropteran Marauder
+6x Taste of Vitae
+6x Telepathic Tracking
+7x Terror Frenzy

@@ -1,0 +1,69 @@
+DragonCon - Irregular Protocol
+DragonCon 2003, Atlanta, Georgia
+September 1st 2003
+10 players
+Ben Peal
+
+Deck Name: The Stay-Puft Marshmallow Deck
+
+Description: Based on Ethan Burrow's prototype, which used Hungry Coyote and
+the Sabbat trifle, except that I didn't have any Hungry Coyotes, so I choose
+the Anarch route. Hesha is the deck's star player, helping you bloat for 2
+or 3 per turn. Greta and Jost Enchant down and handle the bulk of the auspex
+defense. Try to give Kyoko the Unlicensed Taxicab if you can so that she can
+hunt for extra blood (via Hospital Food) at +2 stealth. Important: save the
+Direct Interventions for Dramatic Upheaval, Kindred Restructure, and Protect
+Thine Own. Props to Andreas Nusser for suggeting Form of Corruption -
+it causes your prey to slow down and not get away from you while you're
+building up.
+
+Crypt (12 cards, min=14, max=27, avg=5.42)
+------------------------------------------
+4x Hesha Ruhadze    6	SER ani obf pre	 Follower of Set:2
+3x Greta Kircher    7	AUS CEL PRE obf	 Toreador antitribu:2
+1x Jost Werner	    6	AUS PRE ani	 Toreador antitribu:2
+1x Kyoko Shinsegawa 5	aus cel dom for	 Tremere:3
+1x Hadrian Garrick  4	obf pre		 Follower of Set:2
+1x Lena Rowe	    3	aus obf pre	 Pander:2
+1x Krid		    2	obf		 Nosferatu:3
+
+Library (90 cards)
+Master (26; 9 trifle)
+2x Anarch Free Press, The -- The
+1x Anarch Railroad
+1x Barrens, The
+8x Blood Doll
+1x Coven, The
+2x Direct Intervention
+8x Galaric's Legacy
+2x Hospital Food
+1x Opium Den
+
+Action (16)
+2x Embrace, The
+11x Enchant Kindred
+1x Entrancement
+2x Form of Corruption
+
+Equipment (2)
+1x Aaron's Feeding Razor
+1x Unlicensed Taxicab
+
+Action Modifier (21)
+4x Change of Target
+4x Cloak the Gathering
+3x Domain of Evernight
+4x Faceless Night
+3x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (14)
+2x Enhanced Senses
+6x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (8)
+8x Majesty

@@ -1,0 +1,68 @@
+Coupe de Paris
+Paris, France
+March 12th 2005
+39 players
+Reyda Seddiki
+
+deck: "Loyalists"
+description: Vote, vote, vote. Have fun.
+
+Crypt (12 cards, min=19, max=35, avg=7)
+---------------------------------------
+3x Quentin		9   AUS DOM FOR cel obt	 bishop	  Ventrue antitribu:2
+3x Gustav Mallenhous	8   AUS DOM for obt	 priscus  Ventrue antitribu:2
+3x Edward Neally	7   DOM FOR aus pre	 	  Ventrue antitribu:3
+2x Gerard		5   aus dom for obt	 	  Ventrue antitribu:2
+1x Samson		2   dom			 	  Ventrue antitribu:2
+
+Library (90 cards)
+Master (17)
+3x Blood Doll
+2x Creepshow Casino
+2x Demonstration
+2x Information Highway
+1x KRCG News Radio
+2x Minion Tap
+1x Pentex(TM) Subversion
+2x Secure Haven
+2x Sudden Reversal
+
+Action (6)
+2x Dominate Kine
+4x Govern the Unaligned
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (24)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x Banishment
+1x Blood Siege -- surprise surprise !
+3x Cardinal Benediction
+4x Consanguineous Boon
+2x Domain Challenge
+8x Kine Resources Contested
+
+Action Modifier (28)
+2x Bonding
+2x Bribes
+2x Conditioning
+2x Crocodile's Tongue
+1x Cryptic Rider -- surprise surprise !
+1x Daring the Dawn
+4x Freak Drive
+1x Kiss of Ra, The -- smack
+5x Seduction
+2x Shadow Play
+2x Shroud of Night
+2x Stealth Ritus
+2x Tenebrous Form
+
+Reaction (10)
+5x Deflection
+2x Telepathic Misdirection -- when deflection is D.I.'ed or against Perfect clarity
+3x Wake with Evening's Freshness
+
+Combat (4)
+4x Shadow Body

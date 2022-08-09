@@ -1,0 +1,75 @@
+The Garou Rim Monthly VI - Year of Fortune
+Joensuu, Finland
+January 25th 2014
+2R+F
+10 players
+Toni Karjalainen
+https://www.vekn.net/event-calendar/event/7474
+
+Deck Name: Geezers will find...
+
+2h30 time limit for finals
+
+Based on Randall Rudstam's Ropecon 2012 tournament winning deck. I did some
+small modifications to crypt and library. Heja Sverige!
+
+Crypt (12 cards, min=40, max=44, avg=10.5)
+------------------------------------------
+4x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE			Baali:2
+3x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+2x Etrius	   11  AUS DOM OBF THA pro	inner circle	Tremere:2
+1x Leandro	   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
+1x Esau		   10  AUS DEM DOM OBF PRE			Malkavian:3
+1x Queen Anne	   10  DOM FOR PRE aus obf	prince		Ventrue:2
+
+Library (75 cards)
+Master (31; 7 trifle)
+6x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Jake Washington
+1x Metro Underground
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+6x Villein
+6x Zillah's Valley
+
+Action (7)
+2x Entrancement
+3x Intimidation
+2x Unleash Hell's Fury
+
+Political Action (1)
+1x Banishment
+
+Action Modifier (18)
+2x Conditioning
+3x Elder Impersonation
+2x Enkil Cog
+3x Faceless Night
+1x Foreshadowing Destruction
+1x Into Thin Air
+5x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (4)
+2x Force of Personality
+1x Hide the Mind
+1x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (11)
+3x Deflection
+2x Eyes of Argus
+4x Obedience
+2x On the Qui Vive
+
+Event (1)
+1x Anthelios, The Red Star

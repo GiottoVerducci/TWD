@@ -1,0 +1,83 @@
+NAC Qualifier
+Las Vegas, Nevada
+February 7th 2009
+3R+F
+26 players
+Matthew Morgan
+
+"Vapours Tossed" a.k.a. "Dual Cardinals of Doooom"
+
+Get out Aksinya and whoever else you can. Dual them, Cardinal them
+and the Duals, bleed a bit, vote to kill.
+
+Crypt (12 cards, min=26, max=37, avg=8.08)
+------------------------------------------
+4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha		    Gangrel antitribu:4
+1x Hartmut Stover 10  CEL OBF PRO dom for	archbishop  Gangrel antitribu:3
+1x Malabranca	  9   AUS CEL PRE PRO obf	archbishop  Toreador antitribu:4
+1x Una		  9   ANI FOR PRE PRO dem	archbishop  Gangrel antitribu:3
+1x Doyle Fincher  7   ANI PRO aus for obf		    Gangrel antitribu:4
+1x Luke Fellows	  7   CEL OBF PRO			    Gangrel antitribu:4
+1x Xendil Charmer 7   CEL PRO SER obf		priscus	    Gangrel antitribu:4
+1x Janey Pickman  6   ANI PRO for			    Gangrel antitribu:4
+1x Ryszard	  6   CEL OBF pre pro		bishop	    Gangrel antitribu:4
+
+Library (70 cards)
+Master (24; 5 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+2x Blood Doll
+1x Coven, The
+1x Creepshow Casino
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Jake Washington
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Powerbase: Madrid
+1x Presence
+1x Twisted Forest
+3x Villein
+1x Wash
+
+Action (8)
+5x Dual Form
+1x Eternal Vigilance
+2x Heart of the City
+
+Equipment (1)
+1x Sargon Fragment, The
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x Cardinal Benediction
+1x Domain Challenge
+3x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+
+Action Modifier (11)
+2x Bewitching Oration
+3x Earth Control
+3x Freak Drive
+3x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Reaction (3)
+3x Guard Dogs
+
+Combat (7)
+2x Earth Meld
+5x Form of Mist
+
+Event (2)
+1x Anthelios, The Red Star
+1x Scourge of the Enochians

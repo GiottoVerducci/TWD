@@ -1,0 +1,75 @@
+Ex Mundis 2007
+Ex Mundis, Almería, Spain
+July 28th 2007
+14 players
+Miguel Hernández Padilla
+
+Deck Name: Mejor no entres en la reunión
+
+Crypt (13 cards, min=10, max=22, avg=4.08)
+------------------------------------------
+2x Rake				6   PRE aus cel pot	prince	Brujah:1
+2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Black Cat			5   CEL pot pre			Brujah:1
+1x Brachah			5   CEL PRE for			Brujah:2
+1x Hector Sosa			4   POT pre			Brujah:1
+1x Yuri, The Talon		4   cel pot pre			Brujah:1
+1x Dre, Leader of the Cold Dawn	3   cel pot			Brujah:1
+1x Raziya Samater		3   ani pot			Brujah:2
+1x Uma Hatch			3   cel pre			Brujah:1
+1x Angel			2   cel				Brujah:1
+1x Lupo				2   pot				Brujah:1
+
+Library (90 cards)
+Master (29)
+6x Blood Doll
+10x Brujah Debate
+1x Carthage Remembered
+1x Frontal Assault
+1x Giant's Blood
+2x Haven Uncovered
+1x KRCG News Radio
+1x Oxford University, England
+3x Parthenon, The
+1x Vast Wealth
+1x Warzone Hunting Ground
+1x WMRH Talk Radio
+
+Action (9)
+1x Aranthebes, The Immortal
+2x Atonement
+2x Embrace, The
+1x Judgment: Camarilla Segregation
+3x Third Tradition: Progeny
+
+Equipment (8)
+1x Desert Eagle
+1x Palatial Estate
+1x Pier 13, Port of Baltimore
+5x Sport Bike
+
+Political Action (24)
+2x Brujah Justicar
+6x Consanguineous Boon
+4x Kine Resources Contested
+1x Meddling of Semsith, The
+4x Parity Shift
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Athens
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Brussels
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Stockholm
+1x Rumors of Gehenna
+
+Action Modifier (3)
+3x Bewitching Oration
+
+Reaction (13)
+3x On the Qui Vive
+10x Second Tradition: Domain
+
+Event (4)
+2x Anthelios, The Red Star
+1x Blood Weakens
+1x Slow Withering, The

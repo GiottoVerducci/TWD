@@ -1,0 +1,76 @@
+"...And the Gehenna, when it gonna be?"
+Santiago, Chile
+February 23rd 2008
+3R+F
+11 players
+Alberto Muñoz
+
+Deck Name: Burst of Rotschreck
+
+Description:	Burst + Rotschreck..
+nephandus and graverobbing do the dirty job.
+
+Crypt (19 cards, min=22, max=39, avg=8)
+---------------------------------------
+5x Malgorzata		9   AUS DOM THA VIC pre		priscus	  Tremere antitribu:4
+3x Lernean		10  AUS CEL DOM THA for pro	cardinal  Tremere antitribu:4
+3x Paul Cordwood	8   AUS DOM THA obf pre		bishop	  Tremere antitribu:4
+3x Uta Kovacs		8   AUS DOM THA ser			  Tremere antitribu:4
+2x Ash Harrison		7   AUS THA cel dom			  Tremere antitribu:5
+2x Carmen		5   THA aus dom				  Tremere antitribu:5
+1x Antonio d'Erlette	5   THA dom for pot			  Tremere antitribu:4
+
+Library (90 cards)
+Master (20; 2 trifle)
+2x Blood Doll
+3x Effective Management
+1x Powerbase: Montreal
+1x Powerbase: Savannah
+2x Rack, The
+4x Rötschreck
+1x Secure Haven
+2x Spirit Summoning Chamber
+2x University Hunting Ground
+2x Vessel
+
+Action (14)
+2x Abbot
+2x Biothaumaturgic Experiment
+3x Govern the Unaligned
+4x Graverobbing
+2x Magic of the Smith
+1x Rutor's Hand
+
+Ally (2)
+2x Nephandus
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x White Phosphorus Grenade
+
+Action Modifier (3)
+3x Mirror Walk
+
+Reaction (20)
+2x Deflection
+5x Eagle's Sight
+2x Eluding the Arms of Morpheus
+5x Enhanced Senses
+2x My Enemy's Enemy
+4x On the Qui Vive
+
+Combat (25)
+6x Apportation
+2x Aura Reading
+3x Blood Fury
+4x Burst of Sunlight
+2x Soul Burn
+4x Theft of Vitae
+2x Thoughts Betrayed
+2x Wind Dance
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dr. Marisa Fletcher, CDC

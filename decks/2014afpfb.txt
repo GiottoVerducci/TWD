@@ -1,0 +1,76 @@
+Anarch Free Press
+Fortaleza, Brazil
+May 18th 2014
+3R+F
+15 players
+Bruno Patrício Silva Pontes
+https://www.vekn.net/event-calendar/event/7497
+
+-- 3VP in final
+
+Deck Name: Troublemakers zombies
+
+Crypt (12 cards, min=13, max=35, avg=6.17)
+------------------------------------------
+2x Regina Giovanni, The Right Hand of Augustus	10  DOM NEC POT aus for	 2 votes  Giovanni:2
+2x Andrea Giovanni				7   DOM NEC pot vic	 	  Giovanni:2
+2x Rudolfo Giovanni				3   NEC			 	  Giovanni:2
+1x Pochtli					8   NEC OBF POT cel dom	 	  Giovanni:2
+1x Carlotta Giovanni				7   NEC POT dom obf	 	  Giovanni:2
+1x Gillespi Giovanni				7   DOM NEC POT aus	 	  Giovanni:2
+1x Isabel Giovanni				5   DOM NEC pot		 	  Giovanni:2
+1x Gloria Giovanni				4   DOM nec		 	  Giovanni:2
+1x Lia Milliner					3   dom nec		 	  Giovanni:3
+
+Library (90 cards)
+Master (24; 6 trifle)
+2x Anarch Troublemaker
+1x Archon Investigation
+1x Channel 10
+1x Charisma
+1x Creepshow Casino
+1x Erciyes Fragments, The
+1x Fortschritt Library
+1x KRCG News Radio
+1x Mob Connections
+1x Morgue Hunting Ground
+2x Path of Bone, The
+4x Perfectionist
+4x Vessel
+2x Villein
+1x Wall Street Night, Financial Newspaper
+
+Action (1)
+1x Haunt
+
+Ally (29)
+2x Ambrosius, The Ferryman
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+2x Neighborhood Watch Commander
+1x Ossian
+5x Procurer
+16x Shambling Hordes
+1x Tye Cooper
+
+Equipment (1)
+1x Meat Hook
+
+Action Modifier (4)
+3x Call of the Hungry Dead
+1x Conditioning
+
+Action Modifier/Reaction (3)
+3x Spectral Divination
+
+Reaction (14)
+6x Deflection
+7x On the Qui Vive
+1x Redirection
+
+Combat (12)
+12x Glancing Blow
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

@@ -1,0 +1,73 @@
+Fall of the Camarilla
+Barga, Italy
+April 21st 2013
+2R+F
+20 players
+Alessandro Donati
+
+Deck Name: Hellboys
+
+Description: Baali S&B Deck based on The unnamed.
+
+Crypt (12 cards, min=12, max=40, avg=6.92)
+------------------------------------------
+5x unnamed, The		   10  CEL DAI OBF PRE PRO  Baali:6
+4x Horde, The		   3   dai obf pre	    Baali:6
+3x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  Baali:6
+
+Library (90 cards)
+Master (20; 4 trifle)
+1x Archon Investigation
+1x Charisma
+1x Dark Influences
+2x House of Sorrow
+1x Jake Washington
+1x Path of Evil Revelations
+2x Perfectionist
+1x Ruins of Charizel
+6x Tend the Flock
+3x Vessel
+1x Wider View
+
+Action (15)
+1x Aranthebes, The Immortal
+1x Contagion
+10x Flurry of Action
+1x Heart of the City
+1x Shadow of the Beast
+1x Unleash Hell's Fury
+
+Ally (10)
+1x Carlton Van Wyk
+7x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Equipment (2)
+1x Helicopter
+1x Kaymakli Fragment
+
+Retainer (3)
+3x Homunculus
+
+Action Modifier (25)
+2x Approximation of Loyalty
+4x Elder Impersonation
+3x Enkil Cog
+4x I am Legion
+4x Lost in Crowds
+4x Psychomachia
+4x True Love's Face
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (8)
+4x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x Narrow Minds

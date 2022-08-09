@@ -1,0 +1,75 @@
+Danse Macabre II
+Lublin, Poland
+May 8th 2010
+3R+F
+12 players
+Tomasz Izydorczyk
+
+Deck Name: Miscegenation
+
+Crypt (12 cards, min=22, max=36, avg=7.67)
+------------------------------------------
+4x Dmitra Ilyanova	9   CEL FOR POT PRE obf	 justicar  Brujah:5
+3x Undele		9   CEL FOR obf pre ser	 magaji	   Ishtarri:5
+2x Mustafa, The Heir	6   FOR PRE cel dom	 prince	   Ventrue:4
+2x Victor Pelletier	5   PRE cel dom for	 	   Ventrue:4
+1x Mukhtar Bey		7   FOR PRE QUI obf pot	 prince	   Caitiff:4
+
+Library (90 cards)
+Master (20; 6 trifle)
+2x Archon Investigation
+1x Bleeding the Vine
+1x Creepshow Casino
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Temptation of Greater Power
+1x Ventrue Headquarters
+1x Vessel
+5x Villein
+
+Action (6)
+1x Aranthebes, The Immortal
+3x Entrancement
+2x Heart of the City
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (5)
+2x AK-47
+1x Assault Rifle
+1x Helicopter
+1x Ivory Bow
+
+Political Action (13)
+2x Alastor
+1x Ancilla Empowerment
+1x Domain Challenge
+4x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (27)
+2x Awe
+3x Daring the Dawn
+8x Forced March
+4x Forgotten Labyrinth
+2x Freak Drive
+1x Perfect Paragon
+7x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (6)
+6x Second Tradition: Domain
+
+Combat (8)
+8x Majesty

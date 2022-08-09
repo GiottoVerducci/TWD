@@ -1,0 +1,63 @@
+Rebekka's Masquerade Ball
+Munich, Germany
+January 26th 2002
+Robert Müller
+
+Burning Bridges (in honour to Emerson Bridges, who guaranteed me 3VP
+throughout the tournament and died on both occasions)
+
+Crypt (12 cards, min=17, max=33, avg=6.5)
+-----------------------------------------
+2x Emerson Bridges		   8   DOM FOR PRE pot	    prince  Ventrue:1
+2x Sir Walter Nash		   7   DOM FOR PRE	    prince  Ventrue:1
+2x Timothy Crowley		   7   FOR PRE ani dom	    prince  Ventrue:1
+1x Queen Anne			   10  DOM FOR PRE aus obf  prince  Ventrue:2
+1x Jan Pieterzoon		   7   DOM FOR pot pre	    	    Ventrue:2
+1x Jazz Wentworth		   5   PRE dom for	    	    Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	    	    Ventrue:2
+1x Violette Prentiss		   4   PRE dom		    	    Ventrue:1
+1x Gideon Fontaine		   3   PRE		    	    Ventrue:1
+
+Library (90 cards)
+Master (16)
+1x Archon Investigation
+5x Blood Doll
+1x Creepshow Casino
+1x Fear of Mekhet
+3x Hostile Takeover
+1x Information Highway
+2x Sudden Reversal
+1x Ventrue Headquarters
+1x Zillah's Valley
+
+Action (7)
+2x Fifth Tradition: Hospitality
+5x Legal Manipulations
+
+Political Action (21)
+2x Banishment
+4x Conservative Agitation
+1x Disputed Territory
+1x Dramatic Upheaval
+1x Kindred Restructure
+6x Kine Resources Contested
+4x Parity Shift
+1x Praxis Seizure: Berlin
+1x Ventrue Justicar
+
+Action Modifier (17)
+4x Bewitching Oration
+2x Daring the Dawn
+4x Freak Drive
+2x Kiss of Ra, The
+5x Voter Captivation
+
+Reaction (18)
+7x Deflection
+3x Obedience
+6x Second Tradition: Domain
+2x Wake with Evening's Freshness
+
+Combat (11)
+8x Majesty
+3x Unflinching Persistence

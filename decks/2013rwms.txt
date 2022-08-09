@@ -1,0 +1,79 @@
+Rat's Warning
+Madrid, Spain
+February 3rd 2013
+2R+F
+12 players
+Lander Ladislao
+
+-- 1VP in final
+
+Deck Name: Nehemia MiNitzeto Politico
+Created by: Enrique Lopez & Lander Ladislao
+
+Crypt (12 cards, min=24, max=36, avg=7.83)
+------------------------------------------
+4x Nehemiah	   9   POT PRE SER TEM obt  2 votes	True Brujah:4
+3x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+1x Mukhtar Bey	   7   FOR PRE QUI obf pot  prince	Caitiff:4
+1x Tara		   6   POT PRE cel	    prince	Brujah:5
+1x Reginald Moore  4   PRE		    primogen	Brujah:4
+
+Library (90 cards)
+Master (18; 5 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+1x Creepshow Casino
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Monastery of Shadows
+1x New Carthage
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Tabriz Assembly
+5x Villein
+
+Action (13)
+4x Clotho's Gift
+2x Enticement
+2x Entrancement
+1x Form of Corruption
+1x Heart of the City
+3x Vaticination
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (13)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+1x Domain Challenge
+4x Kine Resources Contested
+1x Meddling of Semsith, The
+3x Parity Shift
+
+Action Modifier (31)
+8x Domain of Evernight
+5x Iron Glare
+4x Perfect Paragon
+4x Recurring Contemplation
+5x Tangle Atropos' Hand
+5x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Action Modifier/Reaction (1)
+1x Hall of Hades' Court
+
+Reaction (3)
+3x Rewind Time
+
+Combat (8)
+4x Majesty
+4x Outside the Hourglass

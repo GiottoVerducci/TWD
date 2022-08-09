@@ -1,0 +1,60 @@
+The Stranger Among Us
+Columbus, Ohio
+January 11th 2003
+27 players
+John Bell
+
+Deck Name: Break Stuff - 1st place Columbus, OH 1-11-03
+
+Description: Switched out a bit of the combat and some of the
+reactions for more Computer Hackings. It gave the deck more teeth as
+far as pool reduction, however there were too many combats where I had
+to exchange "hands for 1" with my opponent.
+
+John Bell
+Prince of Cincinnati
+
+Crypt (14 cards, min=4, max=17, avg=2.64)
+-----------------------------------------
+2x Jimmy Dunn		    4	CEL POT for		Pander:2
+2x Uriah Winter		    1	for pot			Caitiff:1
+1x Olivia		    5	OBF POT vic	bishop	Nosferatu antitribu:2
+1x Agatha		    4	POT obf			Nosferatu antitribu:2
+1x Hector Sosa		    4	POT pre			Brujah:1
+1x Hugo			    4	POT pre vic		Brujah antitribu:2
+1x KoKo			    2	pot			Nosferatu:1
+1x Lupo			    2	pot			Brujah:1
+1x Mitchell, The Headhunter 2	obt pot			Pander:2
+1x Paul DiCarlo, The Alpha  2	pot			Giovanni:2
+1x Hasina Kesi		    1	pot			Caitiff:1
+1x Smudge the Ignored	    1	-none-			Caitiff:1
+
+Library (90 cards)
+Master (13)
+2x Effective Management
+1x Fame
+2x Haven Uncovered
+1x Humanitas
+1x Information Highway
+1x Mob Connections
+2x Potence
+1x Special Report
+2x Sudden Reversal
+
+Action (21)
+2x Bum's Rush
+11x Computer Hacking
+8x Harass
+
+Reaction (2)
+2x Wake with Evening's Freshness
+
+Combat (54)
+5x Disarm
+10x Immortal Grapple
+8x Increased Strength
+5x Pushing the Limit
+4x Taste of Vitae
+8x Thrown Sewer Lid
+10x Torn Signpost
+4x Undead Strength

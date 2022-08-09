@@ -1,0 +1,62 @@
+Torneo Blood Test
+Barcelona, Spain
+November 1st 2009
+19 players
+Sergio Gracia
+
+-- 3VP in final
+
+Deck Name: Lasombra Nocturna
+
+Crypt (12 cards, min=8, max=28, avg=4.58)
+-----------------------------------------
+2x Anarch Convert	 1   -none-		  Caitiff:ANY
+1x Conrad Adoula	 8   DOM OBT POT ani cel  Lasombra:4
+1x Henri Lavenant	 7   DOM OBT pot qui	  Lasombra:3
+1x Lord Vauxhall	 7   DOM OBT POT THA	  Lasombra:4
+1x Onaedo		 6   DOM OBT aus pot	  Lasombra:4
+1x Banjoko		 5   DOM obt pot	  Lasombra:3
+1x Dame Hollerton	 5   DOM OBT myt	  Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot	  Lasombra:4
+1x Leila Monroe		 4   dom obt pre	  Lasombra:4
+1x Keith Moody		 3   DOM		  Tremere antitribu:4
+1x Lucy Markowitz	 3   dom obt		  Lasombra:4
+
+Library (81 cards)
+Master (14; 2 trifle)
+1x Coven, The
+1x Dark Influences
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Life in the City
+1x Misdirection
+2x Path of Night, The
+3x Pentex(TM) Subversion
+
+Action (15)
+15x Govern the Unaligned
+
+Ally (11)
+1x Carlton Van Wyk
+10x Nocturn
+
+Action Modifier (28)
+1x Blanket of Night
+4x Bonding
+4x Conditioning
+4x Foreshadowing Destruction
+5x Shadow Play
+4x Shroud of Absence
+4x Shroud of Night
+2x Tenebrous Form
+
+Reaction (10)
+3x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+2x Redirection
+
+Event (3)
+1x Bitter and Sweet Story, The
+2x Unmasking, The

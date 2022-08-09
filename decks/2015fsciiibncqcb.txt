@@ -1,0 +1,68 @@
+Fee Stake: Ceará III - Brazilian NCQ
+Ceará, Brazil
+November 5th 2015
+3R+F
+21 players
+Mirko Oliveira
+
+-- 4VP in final
+
+Crypt (12 cards, min=17, max=31, avg=6.17)
+------------------------------------------
+2x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
+2x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+1x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+1x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+1x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot	    		Lasombra:4
+1x Leila Monroe		   4   dom obt pre	    		Lasombra:4
+1x Lucy Markowitz	   3   dom obt		    		Lasombra:4
+
+Library (80 cards)
+Master (11; 2 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+2x Jake Washington
+1x Life in the City
+2x Pentex(TM) Subversion
+
+Action (19)
+15x Govern the Unaligned
+4x Song of Pan
+
+Ally (5)
+1x Carlton Van Wyk
+4x Nocturn
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (25)
+4x Bonding
+2x Command of the Beast
+4x Conditioning
+4x Foreshadowing Destruction
+5x Shadow Play
+3x Shroud of Absence
+3x Stone Travel
+
+Action Modifier/Combat (3)
+3x Fae Contortion
+
+Action Modifier/Reaction (2)
+2x Aura Absorption
+
+Reaction (8)
+3x Deflection
+3x On the Qui Vive
+2x Redirection
+
+Combat (5)
+5x Shadow Body
+
+Event (1)
+1x Bitter and Sweet Story, The

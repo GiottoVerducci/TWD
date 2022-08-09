@@ -1,0 +1,63 @@
+kwaMatiwane
+Cape Town, South Africa
+September 12th 2010
+10 players
+Richard Auckland
+
+Deck Name: Might Makes Guruhi Right
+
+Drawing, Crows, Immortal, Taste, Drawing, Crows, Immortal, Taste, ...
+
+Crypt (12 cards, min=22, max=36, avg=7.42)
+------------------------------------------
+4x Nangila Were		9   ANI POT PRE obf ser	 Guruhi:4
+3x Nana Buruku		8   ANI POT PRE		 Guruhi:4
+2x Fish			5   ANI POT pre		 Guruhi:4
+1x Aren, Priest of Eshu	7   POT PRE ani obf	 Guruhi:4
+1x Maskini		7   ANI POT PRE SER abo	 Guruhi:4
+1x Fode Kourouma	5   POT ani aus pre	 Guruhi:4
+
+Library (88 cards)
+Master (18; 6 trifle)
+1x Ancestor Spirit
+1x Dreams of the Sphinx
+1x Gambit Accepted
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Heidelberg Castle, Germany
+1x Mbare Market, Harare
+1x Monastery of Shadows
+1x Palace Hunting Ground
+1x Powerbase: Luanda
+2x Powerbase: Tshwane
+1x Subdued by the Blood
+1x Two Wrongs
+4x Vessel
+
+Action (8)
+6x Founders of the Ebony Kingdom
+1x Heart of the City
+1x Heroic Might
+
+Equipment (8)
+1x Camera Phone
+2x Flak Jacket
+1x Kevlar Vest
+3x Leather Jacket
+1x Palatial Estate
+
+Action Modifier (9)
+1x Edge of the World
+8x Guruhi Are the Land, The
+
+Combat (43)
+3x Burning Wrath
+7x Carrion Crows
+8x Drawing Out the Beast
+10x Immortal Grapple
+3x Pushing the Limit
+7x Taste of Vitae
+5x Torn Signpost
+
+Event (2)
+2x Anthelios, The Red Star

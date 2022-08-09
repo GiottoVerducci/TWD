@@ -1,0 +1,73 @@
+Powerbase: Watford
+Watford, England
+July 23rd 2000
+Rob Treasure
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xg7Q_kWT4l4
+
+Deck Name: 'Respect my Prince's authoritah'
+
+Description: Good all-rounder, does not like heavy agg. damage or
+mass prevention but very effectively stops and works over a lot of
+'Tournament sleaze' type decks (weenie Pre, s+b, tapout, votes). A
+good standby to have in a collection of ready decks.
+
+Crypt (12 cards, min=12, max=32, avg=5.58)
+------------------------------------------
+2x Constanza Vinti		 8   CEL DOM POT	  prince    Brujah:2
+2x Dónal O'Connor		 8   CEL DOM POT	  prince    Brujah:2
+1x Anvil			 6   CEL POT dom pre tha  primogen  Brujah:1
+1x Damaskenos, Herald of Leandro 6   DOM aus cel pot	  	    Malkavian:2
+1x Rake				 6   PRE aus cel pot	  prince    Brujah:1
+1x Volker, The Puppet Prince	 5   CEL pot		  prince    Brujah:2
+1x Jimmy Dunn			 4   CEL POT for	  	    Pander:2
+1x Cameron			 3   dom pot		  	    Lasombra:2
+1x Dre, Leader of the Cold Dawn	 3   cel pot		  	    Brujah:1
+1x Lupo				 2   pot		  	    Brujah:1
+
+Library (90 cards)
+Master (16)
+1x Anarch Troublemaker
+2x Blood Doll
+2x Carthage Remembered
+1x Direct Intervention
+3x Dominate
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Humanitas
+1x Minion Tap
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+
+Action (8)
+3x Bum's Rush
+2x Fifth Tradition: Hospitality
+3x Govern the Unaligned
+
+Political Action (2)
+1x Archon
+1x Parity Shift
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (4)
+3x Conditioning
+1x Foreshadowing Destruction
+
+Reaction (13)
+4x Deflection
+6x Second Tradition: Domain
+3x Wake with Evening's Freshness
+
+Combat (46)
+2x Acrobatics
+5x Blur
+4x Disarm
+6x Flash
+8x Immortal Grapple
+2x Pursuit
+5x Sideslip
+4x Taste of Vitae
+8x Torn Signpost
+2x Undead Strength

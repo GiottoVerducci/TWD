@@ -1,0 +1,51 @@
+French ECQ
+Grenoble, France
+May 17th 2009
+3R+F
+10 players
+Yannick Gibert
+
+Deck Name: Nosferoyalties
+
+Description: Cry a lot of tears and take the GW
+
+Crypt (12 cards, min=17, max=35, avg=6.83)
+------------------------------------------
+3x Suhailah		9   FOR OBF pot ser	prince	Ventrue:2
+3x Selma the Repugnant	8   OBF POT ani for	prince	Nosferatu:1
+2x Nikolaus Vermeulen	7   POT ani for obf	prince	Nosferatu:2
+1x Murat		7   OBF POT ser		prince	Nosferatu:2
+1x Calebros, The Martyr	5   ANI obf pot		prince	Nosferatu:2
+1x Dan Murdock		3   aus obf			Caitiff:1
+1x Dimple		2   obf				Nosferatu:1
+
+Library (61 cards)
+Master (17)
+1x Giant's Blood
+1x Labyrinth, The
+5x Legendary Vampire
+1x Pentex(TM) Subversion
+1x Warsaw Station
+8x Zillah's Valley
+
+Action (6)
+2x Fourth Tradition: The Accounting
+2x Gramle
+2x Third Tradition: Progeny
+
+Political Action (16)
+2x Conservative Agitation
+1x Domain Challenge
+4x Kine Resources Contested
+2x Nosferatu Justicar
+7x Parity Shift
+
+Action Modifier (19)
+3x Elder Impersonation
+3x Faceless Night
+5x Freak Drive
+6x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night

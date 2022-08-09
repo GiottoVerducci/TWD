@@ -1,0 +1,66 @@
+French NCQ - Alastor
+Paris, France
+June 25th 2011
+3R+F
+16 players
+Mehdi Mazni
+
+Deck Name: nephandus
+Created by: Julien Ohler (derjudge)
+
+Crypt (12 cards, min=8, max=20, avg=3.5)
+----------------------------------------
+5x Antonio d'Erlette		 5   THA dom for pot	Tremere antitribu:4
+2x Béatrice "Oracle171" Tremblay 3   inn ven		Innocent:4
+2x Tupdog			 1   POT VIS		Gargoyle:3
+1x Ember Wright			 3   aus dom		Tremere antitribu:3
+1x Keith Moody			 3   DOM		Tremere antitribu:4
+1x Saiz				 3   aus dom		Tremere antitribu:3
+
+Library (80 cards)
+Master (38; 1 trifle)
+1x Archon Investigation
+9x Ashur Tablets
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Fortschritt Library
+1x Frontal Assault
+4x Haven Uncovered
+1x Jake Washington
+6x Liquidation
+6x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Tension in the Ranks
+1x Vampiric Disease
+1x Wider View
+
+Conviction (3)
+1x React with Conviction
+1x Second Sight
+1x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (11)
+1x Carlton Van Wyk
+9x Nephandus
+1x Vagabond Mystic
+
+Reaction (11)
+6x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+
+Combat (11)
+1x Molotov Cocktail
+5x Target Vitals
+5x Trap
+
+Event (5)
+2x Anthelios, The Red Star
+1x Dragonbound
+1x Slow Withering, The
+1x Unmasking, The

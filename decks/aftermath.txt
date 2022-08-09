@@ -1,0 +1,63 @@
+Aftermath: Seekonk
+Seekonk, Massachusetts
+June 24th 2001
+Ben Peal
+
+Wonderwall
+Description: Auspex defense wall is set up while Embrace weenies
+are created. Gang of Obfuscate dweebs then stealth-bleeds.
+
+Crypt (12 cards, min=12, max=18, avg=3.67)
+------------------------------------------
+1x Victoria			    5	AUS cel obf	 Malkavian:2
+1x Zebulon			    5	OBF aus dom pro	 Malkavian:1
+1x Agrippina			    4	OBF pot		 Nosferatu:1
+1x Aleph			    4	AUS dom		 Malkavian:1
+1x Remilliard, Devout Crusader	    4	AUS pre		 Toreador antitribu:2
+1x Tansu Bekir			    4	OBF cel		 Assamite:2
+1x Dan Murdock			    3	aus obf		 Caitiff:1
+1x Dollface			    3	aus obf		 Malkavian:1
+1x Isabel de Leon		    3	AUS		 Toreador:2
+1x Lena Rowe			    3	aus obf pre	 Pander:2
+1x Regilio, The Seeker of Akhenaten 3	aus obf		 Nosferatu:2
+1x Zöe				    3	AUS cel obf	 Malkavian:2
+
+Library (90 cards)
+Master (22)
+1x Asylum Hunting Ground
+1x Barrens, The
+4x Blood Doll
+1x Direct Intervention
+1x Gird Minions
+1x Inbase Discotek, Frankfurt
+2x KRCG News Radio
+6x Obfuscate
+2x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+2x Tribute to the Master
+
+Action (15)
+14x Embrace, The
+1x Psychic Veil
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Action Modifier (14)
+5x Cloak the Gathering
+5x Faceless Night
+4x Lost in Crowds
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (27)
+3x Eagle's Sight
+4x Precognition
+4x Spirit's Touch
+9x Telepathic Counter
+7x Telepathic Misdirection
+
+Combat (6)
+3x Dodge
+3x Fake Out

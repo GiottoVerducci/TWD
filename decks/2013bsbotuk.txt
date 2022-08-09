@@ -1,0 +1,69 @@
+Burton Spring
+Burton-on-Trent, England
+April 13th 2013
+2R+F
+13 players
+Hugh Angseesing
+
+-- 2.5VP in final
+
+Deck Name: Anglicisation of Randy Rudstam
+
+Description: Copied Randy's super quick lutz/unmada deck - made fit
+for Mukhtar and a UK environment (look some combat defence) 2, 4GW, 2.5GW
+
+Crypt (14 cards, min=28, max=43, avg=8.86)
+------------------------------------------
+5x Mukhtar Bey		 7   FOR PRE QUI obf pot	prince		Caitiff:4
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+3x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
+2x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
+1x Undele		 9   CEL FOR obf pre ser	magaji		Ishtarri:5
+
+Library (80 cards)
+Master (34; 7 trifle)
+1x Archon Investigation
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Lilith's Blessing
+1x Metro Underground
+1x Monastery of Shadows
+1x Obfuscate
+3x Parthenon, The
+2x Pentex(TM) Subversion
+1x Secure Haven
+1x Temptation of Greater Power
+6x Villein
+1x Wider View
+10x Zillah's Valley
+
+Action (3)
+3x Entrancement
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancient Influence
+3x Banishment
+4x Kine Resources Contested
+7x Parity Shift
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (21)
+1x Approximation of Loyalty
+2x Elder Impersonation
+2x Enkil Cog
+3x Faceless Night
+4x Forgotten Labyrinth
+1x Into Thin Air
+5x Lost in Crowds
+1x Perfect Paragon
+1x Veil the Legions
+1x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Combat (3)
+3x Majesty

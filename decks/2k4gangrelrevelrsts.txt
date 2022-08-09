@@ -1,0 +1,82 @@
+Ron Spencer Tournament Series - Gangrel Revel
+Atlanta, Georgia
+October 23rd 2004
+3R+F
+10 players
+David Tatu
+
+Deck Name: Animal Magnetism
+
+Crypt (12 cards, min=26, max=38, avg=7.83)
+------------------------------------------
+2x Sheldon, Lord of the Clog		  9   ANI AUS OBF POT for	justicar	Nosferatu:1
+1x Harrod				  11  ANI CEL OBF POT aus pre	inner circle	Nosferatu:2
+1x Suhailah				  9   FOR OBF pot ser		prince		Ventrue:2
+1x Emerson Bridges			  8   DOM FOR PRE pot		prince		Ventrue:1
+1x Selma the Repugnant			  8   OBF POT ani for		prince		Nosferatu:1
+1x Kendrick				  7   ANI POT aus obf		priscus		Nosferatu antitribu:2
+1x Korah				  7   AUS DEM OBF ani		priscus		Malkavian antitribu:2
+1x Murat				  7   OBF POT ser		prince		Nosferatu:2
+1x Nikolaus Vermeulen			  7   POT ani for obf		prince		Nosferatu:2
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot				Nosferatu antitribu:2
+1x Rake					  6   PRE aus cel pot		prince		Brujah:1
+
+Library (90 cards)
+Master (15; 1 trifle)
+1x Animalism
+1x Elysium: The Arboretum
+1x Elysium: The Palace of Versailles
+1x Esgrima
+1x Golconda: Inner Peace
+1x Information Highway
+1x Labyrinth, The
+5x Minion Tap
+1x Momentum's Edge
+1x Obfuscate
+1x Ventrue Headquarters
+
+Action (4)
+1x Army of Rats
+2x Fifth Tradition: Hospitality
+1x Form of Corruption
+
+Equipment (2)
+2x .44 Magnum
+
+Political Action (20)
+2x Banishment
+2x Consanguineous Boon
+3x Conservative Agitation
+1x Disputed Territory
+2x Domain Challenge
+2x Kindred Restructure
+2x Kine Resources Contested
+5x Parity Shift
+1x Year of Fortune
+
+Action Modifier (22)
+5x Animal Magnetism
+5x Bribes
+2x Cloak the Gathering
+1x Domain of Evernight
+2x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+2x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (11)
+1x Cats' Guidance
+1x Falcon's Eye
+6x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Combat (14)
+1x Behind You!
+1x Canine Horde
+1x Pushing the Limit
+3x Skin of Steel
+8x Thrown Gate

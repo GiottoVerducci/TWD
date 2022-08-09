@@ -1,0 +1,65 @@
+First we take Manhattan, (then we take Gothenburg)
+Gothenburg, Sweden
+November 8th 2008
+23 players
+Magnus Wendel
+
+-- 4VP in final
+
+Deck Name: VV
+
+Crypt (12 cards, min=7, max=18, avg=3.17)
+-----------------------------------------
+2x Gideon Fontaine		   3   PRE	    Ventrue:1
+1x Jazz Wentworth		   5   PRE dom for  Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for  Ventrue:2
+1x Courtland Leighton		   4   dom for pre  Ventrue:1
+1x Mariana Gilbert		   4   PRE cel	    Toreador:1
+1x Violette Prentiss		   4   PRE dom	    Ventrue:1
+1x Itzahk Levine		   3   cel pre	    Ventrue:2
+1x Roland Loussarian		   3   for pre	    Ventrue:1
+1x Rufina Soledad		   2   for	    Ventrue:1
+1x Antoinette DuChamp		   1   cel pre	    Caitiff:2
+1x Igo the Hungry		   1   pre pro	    Caitiff:1
+
+Library (90 cards)
+Master (14)
+1x Barrens, The
+4x Blood Doll
+1x Creepshow Casino
+2x Direct Intervention
+1x Information Highway
+3x Presence
+1x Ventrue Directorate Assembly
+1x Ventrue Headquarters
+
+Action (5)
+5x Third Tradition: Progeny
+
+Political Action (41)
+9x Consanguineous Boon
+2x Conservative Agitation
+14x Kine Resources Contested
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: Cleveland
+1x Praxis Seizure: Dallas
+1x Praxis Seizure: Dublin
+1x Praxis Seizure: Frankfurt
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: London
+1x Praxis Seizure: Paris
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Seattle
+1x Praxis Seizure: Washington, D.C.
+2x Reinforcements
+1x Ventrue Justicar
+
+Action Modifier (20)
+2x Awe
+8x Bewitching Oration
+10x Voter Captivation
+
+Combat (10)
+10x Majesty

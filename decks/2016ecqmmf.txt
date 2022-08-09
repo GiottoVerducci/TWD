@@ -1,0 +1,58 @@
+ECQ Marseille
+La Crypte du Jeu, Marseille, France
+June 5th 2016
+3R+F
+19 players
+Mehdi Mazni
+https://www.vekn.net/event-calendar/event/8297
+
+Deck Name: Weenie Animalism v1.2
+Created by: Selim Ammouche
+
+Crypt (12 cards, min=8, max=21, avg=3.75)
+-----------------------------------------
+2x Stick		3   ANI				Nosferatu antitribu:4
+1x Adhiambo		6   ANI VIC pot			Tzimisce:4
+1x Céleste Lamontagne	5   ANI PRO for			Gangrel antitribu:4
+1x Effie Lowery		5   ANI SPI obf			Ahrimane:4
+1x Petra		5   ANI OBF aus			Nosferatu:4
+1x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
+1x Beetleman		4   ANI obf			Nosferatu:4
+1x Bobby Lemon		4   ANI pro			Gangrel:3
+1x Mouse		2   ani				Nosferatu:3
+1x Zip			2   ani				Ravnos:3
+1x Lisa Noble		1   ani				Caitiff:3
+
+Library (90 cards)
+Master (10; 1 trifle)
+4x Blood Doll
+1x Direct Intervention
+1x Fame
+1x Pentex(TM) Subversion
+2x Powerbase: Montreal
+1x Vessel
+
+Action (13)
+1x Aranthebes, The Immortal
+12x Deep Song
+
+Equipment (3)
+2x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (7)
+7x Raven Spy
+
+Reaction (16)
+5x Cats' Guidance
+2x Delaying Tactics
+5x Forced Awakening
+4x On the Qui Vive
+
+Combat (41)
+17x Aid from Bats
+3x Canine Horde
+12x Carrion Crows
+3x Pack Alpha
+4x Taste of Vitae
+2x Terror Frenzy

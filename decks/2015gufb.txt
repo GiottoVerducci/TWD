@@ -1,0 +1,63 @@
+Gear Up
+Fortaleza, Brazil
+January 11th 2015
+3R+F
+12 players
+Anderson Martins
+https://www.vekn.net/event-calendar/event/7909
+
+-- 4VP in final
+
+Deck Name: Prenda-me se for capaz.
+
+Crypt (12 cards, min=18, max=32, avg=6.33)
+------------------------------------------
+2x Persephone Tar-Anis		8   AUS DEM OBF cel pot	 	   Malkavian antitribu:4
+2x Rodolfo			8   AUS DEM OBF pro	 bishop	   Malkavian antitribu:3
+2x Morel			6   AUS DEM OBF		 	   Malkavian:4
+1x Jason, The World's Voice	8   AUS DEM OBF for	 primogen  Malkavian:3
+1x Tony				6   AUS DEM dom obf	 	   Malkavian:3
+1x Apache Jones			5   DEM aus for obf	 	   Malkavian antitribu:4
+1x Persia, The Beautiful Statue	5   DEM aus obf		 	   Malkavian:3
+1x Uncle George			5   DEM aus dom obf	 	   Malkavian antitribu:3
+1x Jackie			3   DEM			 	   Malkavian antitribu:4
+
+Library (90 cards)
+Master (15; 5 trifle)
+1x Barrens, The
+2x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+3x Obfuscate
+1x Secure Haven
+1x Sudden Reversal
+3x Vessel
+2x Villein
+
+Action (17)
+1x Call, The
+16x Kindred Spirits
+
+Action Modifier (37)
+2x Cloak the Gathering
+8x Confusion
+4x Elder Impersonation
+10x Eyes of Chaos
+1x Faceless Night
+2x Into Thin Air
+4x Lost in Crowds
+3x Mind Tricks
+3x Spying Mission
+
+Action Modifier/Combat (6)
+2x Deny
+1x Hide the Mind
+3x Swallowed by the Night
+
+Reaction (11)
+1x Forced Awakening
+6x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (4)
+4x No Trace

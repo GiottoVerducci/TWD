@@ -1,0 +1,68 @@
+Powerbase Catalunya
+Barcelona, Spain
+July 18th 2010
+37 players
+Pere Garcia
+
+Deck Name: Egyptian Gangrels
+
+Based on a deck by Gabriel Ron
+
+Crypt (12 cards, min=14, max=30, avg=5.33)
+------------------------------------------
+3x Nadima		8   FOR PRO SER ani aus	 Gangrel:3
+3x Mirembe Kabbada	5   PRO SER ani		 Gangrel:2
+2x Chandler Hungerford	3   PRO			 Gangrel:2
+1x Horrock		6   ANI PRO vic		 Gangrel:3
+1x Dr. Allan Woodstock	5   PRO ani aus for	 Gangrel:3
+1x Daliyah		4   PRO obf		 Nosferatu:2
+1x Ramona (ADV)		4   for pro		 Gangrel:2
+
+Library (76 cards)
+Master (16; 5 trifle)
+3x Direct Intervention
+1x Ecoterrorists
+1x Giant's Blood
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Powerbase: Montreal
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+4x Vessel
+1x Wash
+1x WMRH Talk Radio
+
+Action (7)
+1x Aranthebes, The Immortal
+5x Enticement
+1x Temptation
+
+Ally (2)
+2x Procurer
+
+Equipment (3)
+2x Camera Phone
+1x Heart of Nizchetus
+
+Retainer (8)
+1x Homunculus
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+4x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (5)
+5x Earth Control
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Reaction (11)
+6x Forced Awakening
+3x On the Qui Vive
+2x Sonar
+
+Combat (21)
+3x Claws of the Dead
+9x Earth Meld
+9x Form of Mist

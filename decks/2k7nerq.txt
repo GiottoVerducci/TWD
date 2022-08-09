@@ -1,0 +1,84 @@
+North East Regional Qualifier
+Providence, Rhode Island
+February 17th 2007
+34 players
+Greg Williams
+
+DECK NAME: "Call of Kooks"
+I did indeed end up winning. Although I like to think of my deck as
+less of a bleed deck and more of a toolboxy Minion factory, since I
+use (4) Grooming the Protege and (15) The Call. My bleed package is
+actually quite low with (3) Madman's Quill, (2) Confusion, and (4)
+Eyes of Chaos. There is a decent amount of stealth, but not obscene
+with (17) stealth cards (not including the Confusions and Random
+Patterns in superior). The deck performed well all day, but there are
+definately things I would tweak. I would remove a few (probably 3) of
+The Call and add a few more bleed cards and/or votes.
+
+Crypt (12 cards, min=16, max=34, avg=6.17)
+------------------------------------------
+1x Rachel Brandywine		  10  AUS DEM OBF PRO ani  prince	Malkavian:3
+1x Imogen			  9   AUS DEM obf pro vic  archbishop	Malkavian antitribu:2
+1x Rodolfo			  8   AUS DEM OBF pro	   bishop	Malkavian antitribu:3
+1x Kite				  7   AUS DEM obf pre	   bishop	Malkavian antitribu:2
+1x Korah			  7   AUS DEM OBF ani	   priscus	Malkavian antitribu:2
+1x Dolphin Black		  6   AUS DEM OBF	   		Malkavian antitribu:2
+1x Tony				  6   AUS DEM dom obf	   		Malkavian:3
+1x Colonel, The			  5   AUS cel dem obf	   		Malkavian antitribu:3
+1x General Perfidio Díos	  5   AUS dem obf	   bishop	Malkavian antitribu:3
+1x Claven			  4   aus dem obf	   		Malkavian antitribu:2
+1x Idalia, Prophet of Guadalajara 4   AUS dem		   		Malkavian antitribu:2
+1x Yorik			  3   dem obf		   		Malkavian antitribu:2
+
+Library (90 cards)
+Master (16)
+3x Blood Doll
+5x Dreams of the Sphinx
+1x Giant's Blood
+4x Grooming the Protégé
+3x Minion Tap
+
+Action (18)
+15x Call, The
+3x Madman's Quill
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+2x .44 Magnum
+
+Political Action (5)
+1x Ancient Influence
+2x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (20)
+2x Cloak the Gathering
+2x Confusion
+1x Domain of Evernight
+1x Elder Impersonation
+4x Eyes of Chaos
+2x Faceless Night
+1x Forgotten Labyrinth
+2x Lost in Crowds
+1x Mind Tricks
+4x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Random Patterns
+
+Reaction (13)
+1x Babble
+2x My Enemy's Enemy
+1x On the Qui Vive
+5x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (10)
+2x Coma
+8x Gemini's Mirror

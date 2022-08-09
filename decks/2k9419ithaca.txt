@@ -1,0 +1,84 @@
+419 Operation: Ithaca
+Cornell University, Ithaca, New York
+July 31st 2009
+2R+F
+14 players
+Dave Clooney
+
+Deck Name: Kung Fu versus Robots
+Created by: Dave "The Prince of Nigeria" Clooney
+
+Crypt (13 cards, min=4, max=23, avg=3.23)
+-----------------------------------------
+5x Anarch Convert  1   -none-		Caitiff:ANY
+2x Agru Kabera	   6   FOR cel nec pre	Ishtarri:4
+1x Honorine Ateba  6   FOR PRE cel nec	Ishtarri:4
+1x Elizabeth Conde 5   CEL FOR pre	Ishtarri:4
+1x Fahd al-Zawba'a 4   cel for pre	Toreador:4
+1x Kenyatta	   4   cel for pre	Ishtarri:4
+1x Abu Nuwasi	   3   cel for		Ishtarri:4
+1x T.J.		   3   cel for		Gangrel:4
+
+Library (90 cards)
+Master (16)
+1x Anarch Free Press, The
+1x Barrens, The
+4x Blood Doll
+1x Celerity
+1x Depravity
+1x Fame
+1x Glutton
+1x Haven Uncovered
+1x Ishtarri Warlord
+1x Libertas
+1x Perfectionist
+2x Twilight Camp
+
+Action (8)
+1x Aranthebes, The Immortal
+1x Bloodlust
+2x Despiral
+1x Gear Up
+3x Legal Manipulations
+
+Ally (2)
+2x Procurer
+
+Equipment (4)
+1x .44 Magnum
+1x Desert Eagle
+2x Sport Bike
+
+Political Action (1)
+1x Kine Resources Contested
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (12)
+8x Forced March
+2x Freak Drive
+1x Power of One
+1x Uncontrolled Impulse
+
+Reaction (12)
+2x Delaying Tactics
+1x Eluding the Arms of Morpheus
+2x Friend of Mine
+4x On the Qui Vive
+1x Poison Pill
+2x Steadfastness
+
+Combat (33)
+12x Diversion
+7x Flash
+1x Hell-for-Leather
+1x Hidden Strength
+1x Pulled Fangs
+3x Side Strike
+3x Soak
+1x Vampiric Speed
+4x Weighted Walking Stick
+
+Event (1)
+1x Narrow Minds

@@ -1,0 +1,64 @@
+Aloha
+São Paulo, Brazil
+June 25th 2017
+3R+F
+13 players
+Desso Alastor
+https://www.vekn.net/event-calendar/event/8681
+
+-- 2VP in final
+
+Deck Name: Calcinha Preta
+
+Crypt (12 cards, min=4, max=40, avg=5.67)
+-----------------------------------------
+4x Matasuntha	  10  ANI AUS CEL FOR PRO		  Gangrel:5
+4x Anarch Convert 1   -none-				  Caitiff:ANY
+2x Inyanga	  9   ANI AUS FOR PRO dom nec	primogen  Gangrel:4
+2x T.J.		  3   cel for				  Gangrel:4
+
+Library (90 cards)
+Master (27; 4 trifle)
+5x Anarch Revolt
+1x Direct Intervention
+1x Ecoterrorists
+1x Gangrel Revel
+1x Giant's Blood
+1x Guardian Angel
+2x Parthenon, The
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+4x Smiling Jack, The Anarch
+2x Sudden Reversal
+1x Tension in the Ranks
+2x Vessel
+2x Villein
+1x Zoo Hunting Ground
+
+Action (2)
+2x Constant Revolution
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Sniper Rifle
+
+Retainer (4)
+2x Owl Companion
+2x Raven Spy
+
+Reaction (23)
+4x Eagle's Sight
+2x Enhanced Senses
+7x Eyes of Argus
+7x Sense the Savage Way
+3x Telepathic Misdirection
+
+Combat (32)
+3x Carrion Crows
+3x Claws of the Dead
+6x Diversion
+13x Earth Meld
+4x Pack Alpha
+3x Taste of Vitae

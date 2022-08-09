@@ -1,0 +1,79 @@
+Campeonato extra 06
+Casa do JJ, Fortaleza, Brazil
+August 28th 2015
+2R+F
+11 players
+Roner Oliveira
+https://www.vekn.net/event-calendar/event/8032
+
+-- 5VP in final
+
+Deck Name: Avengers do sabbat
+
+Crypt (12 cards, min=14, max=19, avg=4.08)
+------------------------------------------
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+2x François "Warden" Loehr	3   def jud	 Judge:4
+1x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+
+Library (73 cards)
+Master (13)
+5x Angel of Berlin
+1x Church of Vindicated Faith, The
+1x KRCG News Radio
+1x Millicent Smith, Puritan Vampire Hunter
+1x Mob Connections
+1x Rose Foundation, The
+1x Smiling Jack, The Anarch
+1x Society of Leopold
+1x True Faith
+
+Conviction (15)
+3x React with Conviction
+6x Second Sight
+6x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (2)
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (11)
+3x .44 Magnum
+1x Crusader Sword, The
+1x Flamethrower
+1x Ivory Bow
+2x Leather Jacket
+3x Sniper Rifle
+
+Power (12)
+1x Abjure
+2x Champion
+3x Discern
+3x Rejuvenate
+3x Vigilance
+
+Reaction (6)
+6x Determine
+
+Combat (3)
+3x Backstep
+
+Event (10)
+1x Becoming of Ennoia
+1x Blood Weakens
+1x Conquest of Humanity
+1x Dr. Marisa Fletcher, CDC
+1x Dragonbound
+1x Restricted Vitae
+1x Slow Withering, The
+1x Torpid Blood
+1x Unmasking, The
+1x Wormwood

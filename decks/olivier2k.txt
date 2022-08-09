@@ -1,0 +1,73 @@
+The War is On!
+Hull City, Quebec
+December 9th 2000
+3R+F
+18 players
+Olivier Jackson
+https://groups.google.com/forum/#!topic/rec.games.trading-cards.jyhad/AeaelSFxndE
+
+Deck Name: Nosferatu politique
+
+Crypt (12 cards, min=11, max=35, avg=5.75)
+------------------------------------------
+1x Harrod			11  ANI CEL OBF POT aus pre	inner circle	Nosferatu:2
+1x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for		justicar	Nosferatu:1
+1x Selma the Repugnant		8   OBF POT ani for		prince		Nosferatu:1
+1x Kendrick			7   ANI POT aus obf		priscus		Nosferatu antitribu:2
+1x Murat			7   OBF POT ser			prince		Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf		prince		Nosferatu:2
+1x Grendel the Worm-Eaten	5   OBF ani pot					Nosferatu:1
+1x Agrippina			4   OBF pot					Nosferatu:1
+1x Sammy			4   ani obf pot					Nosferatu:1
+1x Duck				3   obf pot					Nosferatu:1
+1x Dimple			2   obf						Nosferatu:1
+1x KoKo				2   pot						Nosferatu:1
+
+Library (90 cards)
+Master (17)
+1x Archon Investigation
+1x Direct Intervention
+1x Giant's Blood
+4x Information Highway
+2x Labyrinth, The
+2x Legendary Vampire
+2x Millicent Smith, Puritan Vampire Hunter
+4x Minion Tap
+
+Action (3)
+3x Fifth Tradition: Hospitality
+
+Political Action (32)
+2x Banishment
+6x Consanguineous Boon
+4x Disputed Territory
+2x Kindred Restructure
+6x Kine Resources Contested
+2x Nosferatu Justicar
+3x Parity Shift
+1x Praxis Seizure: Athens
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Istanbul
+1x Praxis Seizure: London
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Venice
+1x Protect Thine Own
+
+Action Modifier (23)
+3x Cloak the Gathering
+4x Elder Impersonation
+6x Faceless Night
+6x Lost in Crowds
+1x Mask of a Thousand Faces
+3x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (6)
+2x Forced Awakening
+4x Second Tradition: Domain
+
+Combat (4)
+2x Aid from Bats
+2x Carrion Crows

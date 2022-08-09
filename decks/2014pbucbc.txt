@@ -1,0 +1,60 @@
+Powerbase: Berkeley - Unexpected Coalition
+Berkeley, California
+August 9th 2014
+2R+F
+10 players
+Jeff Kuta
+https://www.vekn.net/event-calendar/event/7753
+
+Deck Name: Brujah Debate how to selfishly play Parity Shift
+
+Brujah are selfish. Thanks to all the debaters who have gone before.
+This deck needs 3 more Parity Shift and to swap out Praxis Seizure: Atlanta for another.
+Basically, it needs to be more selfish.
+
+Crypt (12 cards, min=9, max=22, avg=3.75)
+-----------------------------------------
+2x Rake					6   PRE aus cel pot	prince	Brujah:1
+2x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
+1x Hector Sosa				4   POT pre			Brujah:1
+1x Yuri, The Talon			4   cel pot pre			Brujah:1
+1x Dre, Leader of the Cold Dawn		3   cel pot			Brujah:1
+1x Raziya Samater			3   ani pot			Brujah:2
+1x Uma Hatch				3   cel pre			Brujah:1
+1x Angel				2   cel				Brujah:1
+1x Lupo					2   pot				Brujah:1
+1x Vasilis, The Traitor of Don Cruez	2   pre				Brujah:2
+
+Library (60 cards)
+Master (15)
+6x Brujah Debate
+1x Carthage Remembered
+1x New Carthage
+1x Oxford University, England
+6x Recruitment
+
+Action (6)
+1x Aranthebes, The Immortal
+3x Embrace, The
+2x Third Tradition: Progeny
+
+Political Action (21)
+3x Archon
+3x Brujah Justicar
+3x Consanguineous Boon
+3x Kine Resources Contested
+3x Parity Shift
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: Houston
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Washington, D.C.
+
+Reaction (12)
+3x Eluding the Arms of Morpheus
+9x Second Tradition: Domain
+
+Combat (6)
+3x Glancing Blow
+3x Taste of Vitae

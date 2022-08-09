@@ -1,0 +1,67 @@
+NAC 2005 Day 1 - Shadow Twin
+Gencon 2005, Indianapolis, Indiana
+August 19th 2005
+3R+F
+14 players
+Gregory Stuart Pettigrew
+
+Deck Name: Your Block Fails
+
+Notes:
+Crocodile's Tongue prevents a player from blocking, not just a minion, so the
+trick is to ensure that your Prey is forced to attempt a block with a minion
+with only one blood. There are 3 other Block Fails/Can't Block cards in the
+deck to make this easy. Use Aristotle's Permanent Stealth to commit them to one
+blocker and run them dry of blood. Use Leandro's Permanent Bleed to bleed them
+out.
+
+Crypt (12 cards, min=29, max=43, avg=8.92)
+------------------------------------------
+3x Leandro			11  AUS OBF PRE cel dom		inner circle	Malkavian:2
+3x Aristotle de Laurent		9   AUS DEM OBF PRE pot				Malkavian antitribu:3
+1x Kemintiri (ADV)		10  OBF PRE SER THA aus dom			Follower of Set:2
+1x Cornelius Ottavio		8   AUS OBF pre qui				Malkavian:2
+1x J. Oswald "Ozzy" Hyde-White	8   AUS FOR OBF dom pre		primogen	Malkavian:3
+1x Kite				7   AUS DEM obf pre		bishop		Malkavian antitribu:2
+1x Sarrasine			7   OBF PRE aus nec ser				Follower of Set:2
+1x Suzanne Kadim		7   CEL PRE aus dom obf				Toreador:3
+
+Library (88 cards)
+Master (12; 3 trifle)
+1x From a Sinking Ship
+1x Giant's Blood
+3x Life in the City
+5x Minion Tap
+2x Secure Haven
+
+Action (13)
+8x Enchant Kindred
+3x Entrenching
+2x Revelations
+
+Ally (1)
+1x Procurer
+
+Action Modifier (35)
+4x Approximation of Loyalty
+6x Cloak the Gathering
+6x Crocodile's Tongue
+4x Elder Impersonation
+4x Faceless Night
+2x Scrying of Secrets
+3x Spying Mission
+6x True Love's Face
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (11)
+1x Enhanced Senses
+4x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (15)
+2x Aura Reading
+3x Gemini's Mirror
+7x Majesty
+3x Masque of Judas

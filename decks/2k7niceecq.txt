@@ -1,0 +1,53 @@
+French ECQ
+Nice, France
+April 29th 2007
+3R+F
+26 players
+Jérôme Bauzon
+
+Deck Name: Alastor
+
+Crypt (12 cards, min=17, max=42, avg=8.25)
+------------------------------------------
+3x Jaroslav Pascek		10  CEL POT PRE for obf		justicar	Brujah:3
+3x Madame Guil			10  AUS CEL PRE for pot ser	justicar	Toreador:3
+2x Gwendolyn			11  CEL FOR POT PRE aus tha	inner circle	Brujah:2
+1x Pug Jackson			6   CEL POT for pre		primogen	Brujah:3
+1x Brachah			5   CEL PRE for					Brujah:2
+1x Volker, The Puppet Prince	5   CEL pot			prince		Brujah:2
+1x Antoinette DuChamp		1   cel pre					Caitiff:2
+
+Library (80 cards)
+Master (15)
+2x Dreams of the Sphinx
+6x Minion Tap
+7x Zillah's Valley
+
+Equipment (5)
+5x Assault Rifle
+
+Political Action (16)
+5x Alastor
+1x Anarchist Uprising
+2x Anathema
+1x Ancilla Empowerment
+2x Banishment
+4x Parity Shift
+1x Reins of Power
+
+Action Modifier (10)
+4x Aire of Elation
+2x Approximation of Loyalty
+4x Forced March
+
+Action Modifier/Reaction (4)
+4x Scalpel Tongue
+
+Reaction (6)
+6x Second Tradition: Domain
+
+Combat (24)
+7x Psyche!
+7x Pursuit
+5x Skin of Steel
+5x Taste of Vitae

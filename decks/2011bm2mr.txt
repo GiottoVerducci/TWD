@@ -1,0 +1,59 @@
+Burning Moscow 2
+Moscow, Russia
+August 13th 2011
+3R+F
+13 players
+Viktor Lazarev
+
+Deck Name: Viktor's Brujahs
+
+Crypt (12 cards, min=20, max=40, avg=8.33)
+------------------------------------------
+4x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
+4x Jaroslav Pascek 10  CEL POT PRE for obf  justicar	Brujah:3
+2x Pug Jackson	   6   CEL POT for pre	    primogen	Brujah:3
+2x Reginald Moore  4   PRE		    primogen	Brujah:4
+
+Library (90 cards)
+Master (17; 6 trifle)
+1x Archon Investigation
+1x Depravity
+2x Fortitude
+1x Giant's Blood
+1x Guardian Angel
+1x Heidelberg Castle, Germany
+1x New Carthage
+1x Papillon
+1x Smiling Jack, The Anarch
+6x Villein
+1x Warzone Hunting Ground
+
+Action (3)
+1x Aranthebes, The Immortal
+2x Heart of the City
+
+Equipment (5)
+1x Assault Rifle
+1x Crimson Sentinel, The
+2x Phased Motion Detector
+1x Sword of Troile
+
+Political Action (4)
+4x Alastor
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (6)
+6x Iron Glare
+
+Reaction (12)
+12x Second Tradition: Domain
+
+Combat (42)
+8x Blur
+4x Disarm
+8x Psyche!
+8x Skin of Steel
+4x Taste of Vitae
+10x Torn Signpost

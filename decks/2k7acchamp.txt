@@ -1,0 +1,84 @@
+Australian Continental Championship 2007
+Sydney, Australia
+September 30th 2007
+3R+F
+35 players
+Peter Rophail
+
+Deck Name: Imbued Toolbox
+
+Description: A 2007 version of the deck I used to win last year's
+Sydney Qualifier. The deck thrived in the low combat environment
+taking 3 game wins & 9.5VP on the day.
+
+Crypt (12 cards, min=14, max=20, avg=4.17)
+------------------------------------------
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x Jennifer "Flame61" Vidisania	4   ven viz	 Avenger:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+1x Peter "Outback295" Rophail	4   red ven	 Redeemer:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (90 cards)
+Master (17)
+4x Angel of Berlin
+2x Church of Vindicated Faith, The
+1x Dummy Corporation
+1x Fortschritt Library
+4x Memories of Mortality
+1x Millicent Smith, Puritan Vampire Hunter
+2x Not to Be
+1x Powerbase: Los Angeles
+1x Rose Foundation, The
+
+Conviction (20)
+4x React with Conviction
+8x Second Sight
+8x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (7)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Ossian
+2x Vagabond Mystic
+1x Wendell Delburton
+1x Young Bloods
+
+Equipment (6)
+1x Crusader Sword, The
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Orb of Ulain
+2x Sniper Rifle
+
+Power (22)
+2x Abjure
+2x Champion
+5x Discern
+1x Inspire
+4x Rejuvenate
+2x Surge
+6x Vigilance
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Reaction (8)
+4x Determine
+4x On the Qui Vive
+
+Event (6)
+1x Blood Trade
+2x Edge Explosion
+1x Thirst
+2x Unmasking, The

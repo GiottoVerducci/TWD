@@ -1,0 +1,72 @@
+Tournament I
+Tampere, Finland
+April 4th 2002
+10 players
+Marko Saari
+
+"Angus rules" (Gangrel bloat & voat)
+
+This deck is based on Luis Duarte's Crusade Lisbon 2001 winning deck.
+I just added more bloat, Stanislava (:-) and more combat & intercept
+defense.
+
+Crypt (12 cards, min=17, max=41, avg=7.83)
+------------------------------------------
+3x Angus the Unruled	10  ANI PRO cel for pot	 justicar	Gangrel:1
+3x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
+1x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
+1x Katarina		9   ANI FOR pot pro	 prince		Gangrel:2
+1x Greger Anderssen	7   AUS OBF dom pro	 prince		Malkavian:2
+1x Ramona		4   for pro		 		Gangrel:2
+1x Chandler Hungerford	3   PRO			 		Gangrel:2
+1x Ricki Van Demsi	3   for pro		 		Gangrel:1
+
+Library (90 cards)
+Master (17)
+1x Archon Investigation
+1x Backways
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Giant's Blood
+1x Information Highway
+1x Legendary Vampire
+6x Minion Tap
+3x Zillah's Valley
+
+Action (9)
+6x Fifth Tradition: Hospitality
+3x Judgment: Camarilla Segregation
+
+Equipment (3)
+1x .44 Magnum
+1x Bomb
+1x Ivory Bow
+
+Political Action (19)
+1x Ancient Influence
+2x Banishment
+1x Dramatic Upheaval
+1x Gangrel Justicar
+1x Kindred Restructure
+2x Kine Resources Contested
+5x Parity Shift
+1x Political Stranglehold
+1x Praxis Seizure: Cairo
+2x Protect Thine Own
+2x Reinforcements
+
+Action Modifier (12)
+2x Beast Meld
+2x Closed Session
+5x Earth Control
+2x Freak Drive
+1x Kiss of Ra, The
+
+Reaction (9)
+9x Second Tradition: Domain
+
+Combat (21)
+5x Earth Meld
+8x Flesh of Marble
+7x Form of Mist
+1x Skin of Night

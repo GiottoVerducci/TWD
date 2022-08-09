@@ -1,0 +1,56 @@
+5th Töölö Grand Ball
+Helsinki, Finland
+December 9th 2017
+2R+F
+12 players
+Tero Aalto
+https://www.vekn.net/event-calendar/event/8794
+
+-- 2GW7 + 2VP in final
+
+Deck Name: Muuttuvainen: Paheksunta
+
+The title is derived from the RPG "Changeling: The Dreaming", is Finnish and translates roughly into 'Changeling: The Reprehension'.
+http://www.secretlibrary.info/index.php?deck=view&id=26955
+
+Crypt (12 cards, min=22, max=32, avg=6.92)
+------------------------------------------
+3x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
+2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+2x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+1x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+
+Library (83 cards)
+Master (12; 3 trifle)
+1x Coven, The
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+2x Pentex(TM) Subversion
+2x Perfectionist
+2x Wash
+
+Action (12)
+12x Govern the Unaligned
+
+Action Modifier (9)
+6x Conditioning
+3x Foreshadowing Destruction
+
+Action Modifier/Combat (8)
+8x Fae Contortion
+
+Action Modifier/Reaction (8)
+8x Aura Absorption
+
+Reaction (14)
+9x Deflection
+5x On the Qui Vive
+
+Combat (20)
+4x Arms of the Abyss
+5x Darkling Trickery
+8x Earth Swords
+3x Target Vitals

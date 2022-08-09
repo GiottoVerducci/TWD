@@ -1,0 +1,73 @@
+Crusade: New York
+New York City, New York
+July 20th 2002
+10 players
+Nick Watkins
+
+Deck Name: The Last Days Of (*Presence*) Disco
+
+Deck creator: Nick Watkins - nickwatkins@earthlink.net
+
+Crypt (13 cards, min=13, max=28, avg=5.46)
+------------------------------------------
+3x Jost Werner			6   AUS PRE ani			    Toreador antitribu:2
+2x Greta Kircher		7   AUS CEL PRE obf		    Toreador antitribu:2
+2x Sheila Mezarin		6   AUS PRE cel for		    Toreador antitribu:2
+1x Lachlan, Noddist		8   AUS CEL PRE dom	archbishop  Toreador antitribu:2
+1x Ian Wallingford		6   CEL PRE aus		bishop	    Toreador antitribu:2
+1x Mariana Gilbert		4   PRE cel			    Toreador:1
+1x Remilliard, Devout Crusader	4   AUS pre			    Toreador antitribu:2
+1x Lolita			3   for pre			    Toreador antitribu:2
+1x Delilah Easton		2   pre				    Toreador:1
+
+Library (90 cards)
+Master (28)
+2x Anarch Troublemaker
+5x Blood Doll
+1x Creepshow Casino
+3x Dreams of the Sphinx
+1x Fetish Club Hunting Ground
+1x Giant's Blood
+3x Hungry Coyote, The
+1x KRCG News Radio
+2x Major Boon
+1x Minion Tap
+4x Palla Grande
+4x Presence
+
+Action (17)
+6x Embrace, The
+2x Enchant Kindred
+1x Entrancement
+5x Media Influence
+3x Mind Numb
+
+Equipment (1)
+1x Sargon Fragment, The
+
+Political Action (9)
+1x Consanguineous Boon
+1x Crusade: Detroit
+1x Crusade: Philadelphia
+1x Crusade: Toronto
+1x Dramatic Upheaval
+4x Kine Resources Contested
+
+Retainer (1)
+1x Marijava Ghoul
+
+Action Modifier (10)
+5x Aire of Elation
+1x Alacrity
+2x Awe
+2x Bewitching Oration
+
+Reaction (15)
+3x Forced Awakening
+1x My Enemy's Enemy
+6x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (9)
+2x Catatonic Fear
+7x Majesty

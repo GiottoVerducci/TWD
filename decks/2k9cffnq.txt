@@ -1,0 +1,53 @@
+French NCQ
+Clermont-Ferrand, France
+July 5th 2009
+2R+F
+17 players
+Malween Douchy
+
+Deck Name: Antonio's rave party
+Created by: Nicolas Andre & Malween Douchy
+
+Crypt (12 cards, min=12, max=20, avg=4.17)
+------------------------------------------
+6x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
+2x Saiz			3   aus dom		Tremere antitribu:3
+1x Janine		4   aus dom tha		Tremere antitribu:4
+1x Mosfair		4   cel dom tha		Tremere antitribu:4
+1x Ember Wright		3   aus dom		Tremere antitribu:3
+1x Keith Moody		3   DOM			Tremere antitribu:4
+
+Library (90 cards)
+Master (43)
+12x Ashur Tablets
+1x Giant's Blood
+4x Information Highway
+2x Jake Washington
+6x Liquidation
+5x Parthenon, The
+2x Pentex(TM) Subversion
+6x Secret Passage
+3x Secure Haven
+2x Specialization
+
+Action (6)
+6x Bum's Rush
+
+Ally (12)
+12x Nephandus
+
+Action Modifier (4)
+4x Conditioning
+
+Reaction (10)
+6x Deflection
+4x Delaying Tactics
+
+Combat (10)
+4x Molotov Cocktail
+6x Trap
+
+Event (5)
+1x Anthelios, The Red Star
+2x FBI Special Affairs Division
+2x Unmasking, The

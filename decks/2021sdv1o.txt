@@ -1,0 +1,61 @@
+Sede de Vitae Prt 1
+Online
+April 26th 2021 -- April 30th 2021
+2R+F
+16 players
+Matheus Oliveira
+https://www.vekn.net/event-calendar/event/9772
+
+-- 2vps in the finals
+
+Deck Name: Bridgerton
+
+Crypt (12 cards, min=18, max=39, avg=7.75)
+------------------------------------------
+3x Armin Brenner 10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+3x Dark Selina	 9   CEL POT PRE dom for	cardinal    Brujah antitribu:5
+3x Hektor	 9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
+3x Smash	 3   pot pre				    Brujah antitribu:4
+
+Library (90 cards)
+Master (22; 7 trifle)
+1x Amusement Park Hunting Ground
+1x Archon Investigation
+1x Black Forest Base
+1x Bleeding the Vine
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Monastery of Shadows
+2x Vessel
+5x Villein
+8x Zillah's Valley
+
+Action (8)
+3x Entrancement
+2x Propaganda
+3x Under Siege
+
+Political Action (14)
+1x Anarchist Uprising
+1x Dogs of War
+10x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (18)
+2x Awe
+6x Forced March
+4x Iron Glare
+6x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Combat (25)
+2x Amaranth
+3x Armor of Vitality
+4x Disarm
+5x Immortal Grapple
+4x Pursuit
+3x Slam
+4x Superior Mettle

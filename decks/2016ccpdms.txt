@@ -1,0 +1,75 @@
+Camarilla Conclave
+Palma de Mallorca, Spain
+August 28th 2016
+3R+F
+15 players
+David Quiñonero
+https://www.vekn.net/event-calendar/event/8429
+
+-- 2,5VP in final
+
+Deck Name: Nosferatu vote deck
+
+Crypt (12 cards, min=14, max=34, avg=6.33)
+------------------------------------------
+2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+1x Agrippina			4   OBF pot		 	   Nosferatu:1
+1x Duck				3   obf pot		 	   Nosferatu:1
+1x Dimple			2   obf			 	   Nosferatu:1
+
+Library (90 cards)
+Master (21; 5 trifle)
+2x Archon Investigation
+1x Creepshow Casino
+1x Direct Intervention
+1x Elysium: The Palace of Versailles
+3x Grooming the Protégé
+2x Guardian Angel
+1x Labyrinth, The
+1x Legendary Vampire
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion
+4x Vessel
+1x Warsaw Station
+1x Wash
+
+Action (5)
+2x Fourth Tradition: The Accounting
+1x Nosferatu Performance Art
+1x SchreckNET
+1x Shepherd's Innocence
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (25)
+1x Ancilla Empowerment
+2x Banishment
+5x Consanguineous Boon
+1x First Tradition: The Masquerade
+1x Justicar Retribution
+7x Kine Resources Contested
+1x Nosferatu Justicar
+7x Parity Shift
+
+Action Modifier (16)
+2x Cloak the Gathering
+3x Elder Impersonation
+3x Faceless Night
+3x Forgotten Labyrinth
+2x Freak Drive
+3x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (11)
+11x Second Tradition: Domain
+
+Combat (8)
+8x No Trace

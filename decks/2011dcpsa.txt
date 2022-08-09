@@ -1,0 +1,67 @@
+Dragonfire
+Cape Town, South Africa
+August 6th 2011
+3R+F
+12 players
+Marc Pittermann
+
+-- 3VP in final
+
+Deck Name: Deep Shoes
+
+Bleed opponent and grind down their minion with Deep Song and
+Horse Shoes then eventually drop Dragonbound for the oust.
+
+Crypt (12 cards, min=25, max=39, avg=8.17)
+------------------------------------------
+2x Cock Robin			10  ANI OBF POT aus for	 justicar	Nosferatu:3
+2x Khalid			9   ANI AUS OBF POT tha	 primogen	Nosferatu:3
+1x Cailean			10  ANI OBF POT PRE dom	 archbishop	Nosferatu antitribu:2
+1x Casino Reeds			9   ANI OBF POT cel dem	 prince		Nosferatu:3
+1x Calebos			8   ANI OBF POT cel	 bishop		Nosferatu antitribu:2
+1x Tammy Walenski		8   ANI OBF POT nec tha	 		Nosferatu:3
+1x Kendrick			7   ANI POT aus obf	 priscus	Nosferatu antitribu:2
+1x Teresita, The Godmother	7   ANI OBF POT for	 		Nosferatu antitribu:3
+1x Gerard Rafin			6   OBF POT ani for	 		Nosferatu:3
+1x Amelia, The Blood Red Tears	5   POT ani obf		 		Nosferatu:3
+
+Library (83 cards)
+Master (9)
+1x Archon Investigation
+2x Blood Doll
+1x Dreams of the Sphinx
+1x Fame
+4x Mundane
+
+Action (18)
+9x Deep Song
+9x Horseshoes
+
+Retainer (3)
+3x Raven Spy
+
+Action Modifier (16)
+3x Cloak the Gathering
+3x Faceless Night
+3x Forgotten Labyrinth
+4x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (17)
+2x Guard Dogs
+4x On the Qui Vive
+1x Rat's Warning
+2x Sense the Savage Way
+7x Touch of Pain
+1x Wake with Evening's Freshness
+
+Combat (15)
+6x Carrion Crows
+3x Taste of Vitae
+6x Thrown Gate
+
+Event (1)
+1x Dragonbound

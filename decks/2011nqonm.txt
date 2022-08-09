@@ -1,0 +1,65 @@
+Norwegian Qualifier
+Oslo, Norway
+May 7th 2011
+3R+F
+23 players
+Hugh Angseesing
+
+-- 1.5VP in final
+
+Deck Name: Girls on Tour: Girls give Aids to Norway
+Created by: Isak Esbjörnsson Bjärmark and Erik Torstensson
+
+with amendments by Hugh Angseesing
+Description: Ashur/liquidation and Villein/Lilliths are broken.
+The rest is obvious.
+
+Crypt (14 cards, min=32, max=41, avg=9.21)
+------------------------------------------
+5x Cybele		10  ANI DAI OBF PRE SER THA		  Baali:4
+4x Aksinya Daclau	9   ANI FOR PRE PRO cel tha		  Gangrel antitribu:4
+1x Enkidu, The Noah	11  ANI CEL OBF POT PRO for		  Gangrel antitribu:4
+1x Nangila Were		9   ANI POT PRE obf ser			  Guruhi:4
+1x Gustaphe Brunnelle	8   ANI DOM POT obf		primogen  Nosferatu:4
+1x Nana Buruku		8   ANI POT PRE				  Guruhi:4
+1x Talbot		7   ANI NEC PRO for			  Gangrel:5
+
+Library (72 cards)
+Master (40; 9 trifle)
+9x Ashur Tablets
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Haven Uncovered
+2x Information Highway
+1x Jake Washington
+1x Lilith's Blessing
+5x Liquidation
+1x Pentex(TM) Subversion
+7x Villein
+2x Wider View
+5x Zillah's Valley
+
+Action (4)
+2x Deep Song
+1x Entrancement
+1x Unleash Hell's Fury
+
+Reaction (5)
+1x Delaying Tactics
+1x Guard Dogs
+2x Lost in Translation
+1x Rat's Warning
+
+Combat (21)
+9x Aid from Bats
+1x Canine Horde
+7x Carrion Crows
+1x Target Vitals
+2x Taste of Vitae
+1x Terror Frenzy
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dragonbound

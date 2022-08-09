@@ -1,0 +1,69 @@
+Blood Awakening
+Vila Velha, Brazil
+June 11th 2016
+2R+F
+13 players
+Sergio Nascimento
+https://www.vekn.net/event-calendar/event/8392
+
+-- 1.5VP in final
+
+Deck Name: Transylvania
+
+Crypt (12 cards, min=36, max=44, avg=10.33)
+-------------------------------------------
+4x Malgorzata	    9	AUS DOM THA VIC pre	 priscus	Tremere antitribu:4
+2x Dracon, The	    11	ANI AUS POT THA VIC	 		Tzimisce:5
+2x Lord Tremere	    11	ANI AUS DOM THA VIC obe	 		Tremere:5
+2x Mistress Fanchon 11	AUS CEL DOM OBF THA VIC	 inner circle	Tremere:4
+2x Sha-Ennu	    11	ANI AUS CHI VIC obf tha	 regent		Tzimisce:4
+
+Library (90 cards)
+Master (22; 8 trifle)
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Monastery of Shadows
+2x Pentex(TM) Subversion
+6x Villein
+2x Wash
+5x Zillah's Valley
+
+Action (4)
+2x Far Mastery
+2x Mind Rape
+
+Ally (1)
+1x Ponticulus
+
+Equipment (2)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+
+Political Action (3)
+1x Ancient Influence
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (4)
+4x Mirror Walk
+
+Reaction (21)
+5x Deflection
+2x Eagle's Sight
+5x Eyes of Argus
+2x My Enemy's Enemy
+3x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (32)
+6x Amaranth
+4x Blood Rage
+5x Breath of the Dragon
+11x Chiropteran Marauder
+2x Liquefy the Mortal Coil
+4x Rego Motum
+
+Event (1)
+1x Scourge of the Enochians

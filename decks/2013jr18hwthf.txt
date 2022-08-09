@@ -1,0 +1,90 @@
+Justicar Retribution XVIII - Hard Without Tenderness
+Helsinki, Finland
+August 25th 2013
+3R+F
+22 players
+Janne Hägglund
+
+Deck Name: Imbued nerds no longer worship Satan
+
+Description: I've been playing variations of this same deck
+since my 2007 "Twist with Conviction".
+
+Tournaments are Serious Business, so my Imbued have ditched
+their wacky infernal friends (with their Maleficia/Evil Eye
+or Striga/Scobax module). They still love to hack computers
+though, since that seriously speeds up their stealth bleeding.
+
+Things I would change:
+- Remove all but one On the Qui Vive.
+- Wendell Delburton was useless. I forgot to take him out
+after reducing the number of Weighted Walking Sticks by a lot.
+- Suddens or Washes would be nice.
+
+Crypt (12 cards, min=14, max=18, avg=4)
+---------------------------------------
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+2x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+2x François "Warden" Loehr	3   def jud	 Judge:4
+
+Library (90 cards)
+Master (30; 1 trifle)
+4x Angel of Berlin
+1x Archon Investigation
+10x Ashur Tablets
+1x Church of Vindicated Faith, The
+2x Direct Intervention
+1x KRCG News Radio
+5x Liquidation
+1x Misdirection
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Wider View
+1x WMRH Talk Radio
+
+Conviction (16)
+5x React with Conviction
+6x Second Sight
+5x Strike with Conviction
+
+Action (8)
+8x Computer Hacking
+
+Ally (2)
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (6)
+1x Crusader Sword, The
+1x Deer Rifle
+1x Heart of Nizchetus
+2x Improvised Flamethrower
+1x Ivory Bow
+
+Power (8)
+1x Discern
+2x Rejuvenate
+5x Vigilance
+
+Action Modifier (3)
+3x Change of Target
+
+Reaction (4)
+3x On the Qui Vive
+1x Poison Pill
+
+Combat (11)
+1x Boxed In
+1x Dodge
+1x Fake Out
+3x Glancing Blow
+1x Target Hand
+2x Target Vitals
+2x Weighted Walking Stick
+
+Event (2)
+1x Narrow Minds
+1x Unmasking, The

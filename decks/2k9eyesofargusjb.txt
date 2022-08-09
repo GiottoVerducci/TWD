@@ -1,0 +1,68 @@
+Eyes of Argus
+Jundiai, Brazil
+March 29th 2009
+3R+F
+14 players
+Desso Alastor
+
+-- 2GW7 + 3VP in final
+
+Deck Name: Farda Preta PNP
+
+Crypt (12 cards, min=33, max=43, avg=9.67)
+------------------------------------------
+3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+3x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+3x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+2x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+
+Library (90 cards)
+Master (23)
+1x Art Museum
+1x Direct Intervention
+2x Information Highway
+4x Minion Tap
+2x Parthenon, The
+1x Powerbase: Montreal
+1x Sudden Reversal
+4x Toreador Grand Ball
+2x Trophy: Domain
+1x Trophy: Hunting Ground
+1x Trophy: Library
+3x Zillah's Valley
+
+Action (4)
+4x Red List
+
+Equipment (5)
+3x Assault Rifle
+1x Helicopter
+1x Sire's Index Finger
+
+Political Action (10)
+5x Alastor
+5x Anathema
+
+Action Modifier (4)
+4x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (10)
+3x Quicken Sight
+5x Second Tradition: Domain
+2x Telepathic Misdirection
+
+Combat (29)
+3x Acrobatics
+2x Majesty
+6x Psyche!
+9x Pursuit
+3x Side Strike
+4x Taste of Vitae
+2x Telepathic Tracking
+
+Event (2)
+2x Anthelios, The Red Star

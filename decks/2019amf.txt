@@ -1,0 +1,71 @@
+Adhocracy
+Montreuil, France
+August 14th 2019
+2R+F
+12 players
+Mathias Olsson
+https://www.vekn.net/event-calendar/event/9351
+
+-- 1GW3 + 2.5VP in final
+
+Deck Name: BH new batch
+
+Crypt (12 cards, min=21, max=40, avg=7.58)
+------------------------------------------
+2x Karif al Numair		10  AUS CEL OBF QUI for		Assamite:5
+2x Izhim abd Azrael		9   CEL OBF QUI THA pot		Assamite:5
+2x Djuhah, The Bronze Bow	7   OBF QUI aus cel pre		Assamite:5
+1x Elimelech the Twice-Damned	11  AUS DEM DOM FOR OBF pro	Ventrue antitribu:5
+1x Joe "Boot" Hill		7   CEL QUI for obf		Assamite:4
+1x Hagar Stone			6   AUS DEM obf			Malkavian antitribu:5
+1x Reza Fatir, The Dark Angel	6   CEL QUI obf pro		Assamite:4
+1x Sennadurek			6   AUS NEC dom			Nagaraja:4
+1x Lubomira Hradok		3   OBF				Nosferatu antitribu:5
+
+Library (75 cards)
+Master (13; 5 trifle)
+1x Anarch Troublemaker
+2x Archon Investigation
+1x Dreams of the Sphinx
+1x Drop Point Network
+1x Information Highway
+1x Monastery of Shadows
+5x Villein
+1x Watchtower: Four Ride Forth
+
+Action (28)
+1x Abbot
+1x Condemn the Sins of the Father
+3x Haqim's Law: Leadership
+2x Khabar: Glory
+7x Loss
+3x Recruitment Exercise
+7x Reunion Kamut
+4x Tattoo Signal
+
+Equipment (3)
+2x Guarded Rubrics
+1x Heart of Nizchetus
+
+Action Modifier (16)
+1x Cloak the Gathering
+1x Deed the Heart's Desire
+2x Elder Impersonation
+3x Faceless Night
+5x Lost in Crowds
+2x Seraph's Second
+2x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Blood Awakening
+
+Reaction (10)
+3x Eyes of Argus
+3x My Enemy's Enemy
+4x Telepathic Misdirection
+
+Combat (1)
+1x Taste of Death

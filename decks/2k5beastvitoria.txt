@@ -1,0 +1,69 @@
+Shadow of the Beast: Vitória
+Vila Velha, Brazil
+August 27th 2005
+2R+F
+10 players
+Ramon Moure
+
+Deck Name: Sabrina - Love in the Shadows
+
+Crypt (12 cards, min=12, max=44, avg=6.83)
+------------------------------------------
+5x Enkidu, The Noah	11  ANI CEL OBF POT PRO for	Gangrel antitribu:4
+1x Black Lotus		5   DOM aus obf ser		Follower of Set:4
+1x Catherine du Bois	5   DOM for obf pre		Ventrue:3
+1x Kyoko Shinsegawa	5   aus cel dom for		Tremere:3
+1x Diana Vick		3   dom pre			Ventrue:3
+1x Ember Wright		3   aus dom			Tremere antitribu:3
+1x Lana Butcher		3   dom for			Ventrue:3
+1x Sister Evelyn	3   aus dom			Ventrue antitribu:3
+
+Library (90 cards)
+Master (14)
+6x Blood Doll
+1x Fame
+3x Fortitude
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Perfectionist
+
+Action (3)
+3x Graverobbing
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Seal of Veddartha
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (16)
+7x Conditioning
+5x Forced March
+4x Hidden Lurker
+
+Reaction (8)
+8x Deflection
+
+Combat (40)
+3x Acrobatics
+2x Blur
+3x Claws of the Dead
+2x Disarm
+6x Drawing Out the Beast
+2x Flesh of Marble
+5x Immortal Grapple
+2x Nimble Feet
+6x Skin of Steel
+4x Superior Mettle
+5x Taste of Vitae
+
+Event (5)
+1x Blood Trade
+1x Conquest of Humanity
+1x Fueled by Heart's Blood
+1x Rise of the Nephtali
+1x Torpid Blood

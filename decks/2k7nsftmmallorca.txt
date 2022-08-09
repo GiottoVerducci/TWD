@@ -1,0 +1,72 @@
+No Secrets from the Magaji: Marratxí
+Marratxí (Mallorca), Spain
+December 16th 2007
+3R+F
+12 players
+Ginés Quiñonero
+
+-- 5VP in final
+
+Deck Name: Mad Dancers
+
+Description: Bring out the highest capacity vampire in your uncontrolled
+region. Once he or she is in play, play Danse Macabre on him/her and have
+him/her perform two actions per turn (The Call & bleed, most of the time,
+or Revelations & bleed, etc.). Thus, you should be able to put a few
+vampires in play at a low cost and quickly. The rest is easy: bleed your
+preys to death:)
+
+Crypt (12 cards, min=15, max=36, avg=6.42)
+------------------------------------------
+1x Hannibal		10  AUS DEM OBF cel dom	 cardinal  Malkavian antitribu:2
+1x Aristotle de Laurent	9   AUS DEM OBF PRE pot	 	   Malkavian antitribu:3
+1x Vasantasena		9   AUS DEM OBF dom pot	 	   Malkavian antitribu:2
+1x Rodolfo		8   AUS DEM OBF pro	 bishop	   Malkavian antitribu:3
+1x Kite			7   AUS DEM obf pre	 bishop	   Malkavian antitribu:2
+1x Korah		7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
+1x Artemis		6   DEM OBF aus cel for	 	   Malkavian antitribu:2
+1x Dolphin Black	6   AUS DEM OBF		 	   Malkavian antitribu:2
+1x Uncle George		5   DEM aus dom obf	 	   Malkavian antitribu:3
+1x Claven		4   aus dem obf		 	   Malkavian antitribu:2
+1x Midget		3   DEM obf pre		 	   Malkavian antitribu:3
+1x Yorik		3   dem obf		 	   Malkavian antitribu:2
+
+Library (90 cards)
+Master (17; 1 trifle)
+1x Coven, The
+10x Danse Macabre
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Pentex(TM) Subversion
+
+Action (24)
+1x Blithe Acceptance
+7x Call, The
+11x Kindred Spirits
+3x Madman's Quill
+2x Revelations
+
+Equipment (1)
+1x Enchanted Marionette
+
+Action Modifier (28)
+2x Cloak the Gathering
+4x Confusion
+4x Elder Impersonation
+6x Eyes of Chaos
+5x Faceless Night
+2x Into Thin Air
+3x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (8)
+3x Deny
+2x Hide the Mind
+3x Swallowed by the Night
+
+Reaction (12)
+2x My Enemy's Enemy
+1x On the Qui Vive
+5x Telepathic Misdirection
+4x Wake with Evening's Freshness

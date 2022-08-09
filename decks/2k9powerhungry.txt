@@ -1,0 +1,71 @@
+Power Hungry - White Zombie
+Rancagua, Chile
+June 20th 2009
+3R+F
+18 players
+Jackson Iribarren
+
+Deck Name: Pander Equipments & Bleed
+
+Crypt (24 cards, min=4, max=8, avg=1.38)
+----------------------------------------
+2x Christine Boscacci	    2	dom vic	 Pander:2
+2x Frederick the Weak	    2	pre	 Brujah antitribu:2
+2x Samson		    2	dom	 Ventrue antitribu:2
+2x Basil		    1	obf	 Pander:2
+2x Royce		    1	dom	 Pander:2
+1x Gillian Krader	    2	ani dem	 Pander:2
+1x Magdelena Schaefer	    2	THA	 Caitiff:2
+1x Mitchell, The Headhunter 2	obt pot	 Pander:2
+1x Angela Decker	    1	pre	 Pander:2
+1x Franciscus		    1	aus	 Caitiff:2
+1x Hasina Kesi		    1	pot	 Caitiff:1
+1x Huang, Blood Cultist	    1	pro	 Pander:2
+1x Igo the Hungry	    1	pre pro	 Caitiff:1
+1x Julius		    1	qui ser	 Caitiff:2
+1x March Halcyon	    1	for	 Pander:2
+1x Navar McClaren	    1	ani	 Caitiff:1
+1x Nik			    1	cel	 Caitiff:1
+1x Smudge the Ignored	    1	-none-	 Caitiff:1
+1x Uriah Winter		    1	for pot	 Caitiff:1
+
+Library (90 cards)
+Master (20; 2 trifle)
+4x Blood Doll
+3x Direct Intervention
+2x Effective Management
+4x Information Highway
+4x Obfuscate
+2x Vessel
+1x Waste Management Operation
+
+Action (2)
+2x Jack of Both Sides
+
+Equipment (15)
+5x Camera Phone
+4x Saturday-Night Special
+6x White Phosphorus Grenade
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (10)
+5x Faceless Night
+5x Lost in Crowds
+
+Reaction (14)
+5x Deflection
+4x Delaying Tactics
+5x On the Qui Vive
+
+Combat (26)
+8x Backstep
+4x Concealed Weapon
+4x Dodge
+4x Dragon's Breath Rounds
+6x Fake Out
+
+Event (1)
+1x NRA PAC

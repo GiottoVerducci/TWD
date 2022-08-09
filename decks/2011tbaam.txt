@@ -1,0 +1,72 @@
+Torpid Blood
+Ann Arbor, Michigan
+April 16th 2011
+2R+F
+17 players
+Robert Dudock
+
+Deck Name: Beautiful Filth
+
+Description: Unsubtle Stealth Bleed. Here is my deck list,
+including the two proxies that never got taken out
+(Neighborhood Watch Commander was supposed to be Carlton van Wick
+and Presence was supposed to be Perfectionist).
+
+Crypt (12 cards, min=20, max=26, avg=5.5)
+-----------------------------------------
+3x Herbert Westin   5	OBF PRE pot		Brujah:4
+3x Raphael Catarari 5	OBF PRE aus pot tha	Nosferatu antitribu:4
+2x Isouda de Blaise 7	CEL OBF PRE aus		Toreador antitribu:4
+2x Ankh-sen-Sutekh  6	PRE SER obf		Follower of Set:4
+2x Renenet	    5	OBF PRE ser		Follower of Set:4
+
+Library (90 cards)
+Master (14; 4 trifle)
+2x Archon Investigation
+1x Dreams of the Sphinx
+2x Dummy Corporation
+1x Pentex(TM) Loves You!
+3x Perfectionist
+1x Presence
+4x Vessel
+
+Action (18)
+1x Abbot
+2x Dream World
+2x Enchant Kindred
+2x Entrancement
+2x Legal Manipulations
+3x Public Trust
+4x Social Charm
+2x Zillah's Tears
+
+Ally (1)
+1x Neighborhood Watch Commander
+
+Equipment (1)
+1x Palatial Estate
+
+Action Modifier (24)
+3x Aire of Elation
+3x Cloak the Gathering
+3x Elder Impersonation
+3x Faceless Night
+1x Into Thin Air
+4x Lost in Crowds
+5x Spying Mission
+2x True Love's Face
+
+Action Modifier/Combat (8)
+2x Hide the Mind
+6x Swallowed by the Night
+
+Reaction (12)
+1x Confusion of the Eye
+2x Delaying Tactics
+2x Dread Gaze
+2x On the Qui Vive
+5x Scobax
+
+Combat (12)
+4x Disengage
+8x Majesty

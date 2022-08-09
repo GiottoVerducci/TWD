@@ -1,0 +1,81 @@
+Rumble
+Rome, Italy
+March 4th 2007
+12 players
+Mirko Giovanni
+
+Description: imbued based, gehenna/master intensive deck
+the deck performed very well on the 12 players tournament in subject.
+Maybe was helped a little with the 4 table seating, but managed to
+get into the final with 2GW and almost sweeped the final's table
+without too much effort.
+
+Crypt (15 cards, min=6, max=21, avg=3.73)
+-----------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+3x Afifa, The Herald		1   dom		 Caitiff:4
+2x Keith Moody			3   DOM		 Tremere antitribu:4
+1x Earl "Shaka74" Deams		6   jud mar viz	 Visionary:4
+1x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
+1x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (90 cards)
+Master (30)
+1x Anarch Troublemaker
+1x Angel of Berlin
+1x Antediluvian Awakening
+1x Church of Vindicated Faith, The
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Elder Library
+1x Fortschritt Library
+4x Information Highway
+6x Memories of Mortality
+1x Millicent Smith, Puritan Vampire Hunter
+6x Parthenon, The
+1x Pentex(TM) Subversion
+1x Rose Foundation, The
+1x Tension in the Ranks
+1x Unity
+
+Conviction (15)
+5x React with Conviction
+5x Second Sight
+5x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Power (14)
+1x Abjure
+1x Champion
+2x Foresee
+2x Hide
+2x Inspire
+3x Project
+3x Vigilance
+
+Reaction (12)
+4x Deflection
+8x Determine
+
+Event (16)
+3x Anthelios, The Red Star
+1x Blood Weakens
+1x Dr. Marisa Fletcher, CDC
+1x Dragonbound
+2x Edge Explosion
+1x Fall of the Camarilla
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Torpid Blood
+1x Unmasking, The
+1x Veil of Darkness
+1x Wormwood

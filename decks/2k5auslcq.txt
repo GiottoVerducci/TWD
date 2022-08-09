@@ -1,0 +1,46 @@
+Australian Championship 2005 - Last Chance Qualifier
+Canberra, Australia
+October 1st 2005
+30 players
+Chris Arthur
+
+Crypt (12 cards, min=13, max=22, avg=4.25)
+------------------------------------------
+3x Tansu Bekir	 4   OBF cel		Assamite:2
+3x Ali Kar	 3   obf qui		Assamite:3
+2x Kalinda	 6   CEL OBF tha	Assamite:2
+2x Badr al-Budur 5   OBF cel dom qui	Assamite:2
+2x Anwar	 4   cel obf qui	Assamite:2
+
+Library (66 cards)
+Master (14)
+5x Alamut
+1x Barrens, The
+4x Blood Doll
+2x Perfectionist
+1x Powerbase: Rome
+1x Sudden Reversal
+
+Action (17)
+1x Arson
+16x Night Moves
+
+Political Action (11)
+11x Kine Resources Contested
+
+Action Modifier (13)
+3x Cloak the Gathering
+3x Faceless Night
+4x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (2)
+2x Wake with Evening's Freshness
+
+Combat (5)
+2x Flash
+2x Gemini's Mirror
+1x Preternatural Evasion

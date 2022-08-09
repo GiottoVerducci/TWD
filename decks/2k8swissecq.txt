@@ -1,0 +1,47 @@
+Swiss ECQ
+Geneva, Switzerland
+March 22nd 2008
+15 players
+Kamel Senni
+
+Deck Name: Miami Vice
+Created by: Romain Naïm
+
+Crypt (12 cards, min=6, max=18, avg=3.08)
+-----------------------------------------
+3x Fabrizia Contreraz	4   dem pot		archbishop  Malkavian antitribu:4
+3x Jackie		3   DEM				    Malkavian antitribu:4
+3x Eddie Gaines		1   dem pot			    Caitiff:3
+1x Apache Jones		5   DEM aus for obf		    Malkavian antitribu:4
+1x Uncle George		5   DEM aus dom obf		    Malkavian antitribu:3
+1x Midget		3   DEM obf pre			    Malkavian antitribu:3
+
+Library (70 cards)
+Master (17; 5 trifle)
+1x Coven, The
+8x Dementation
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Institution Hunting Ground
+1x Pentex(TM) Subversion
+4x Vessel
+
+Action (24)
+5x Creation Rites
+16x Kindred Spirits
+3x Restructure
+
+Equipment (1)
+1x Enchanted Marionette
+
+Action Modifier (19)
+8x Confusion
+4x Eyes of Chaos
+7x Mind Tricks
+
+Action Modifier/Combat (7)
+7x Deny
+
+Event (2)
+1x Narrow Minds
+1x Uncoiling, The

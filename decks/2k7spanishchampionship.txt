@@ -1,0 +1,58 @@
+Spanish NC 2007
+Hospitalet de Llobregat, Barcelona, Spain
+July 22nd 2007
+3R+F
+64 players
+Noel Giménez Infante
+
+Crypt (12 cards, min=10, max=16, avg=3.33)
+------------------------------------------
+4x Fidus, The Shrunken Beast	4   for tha vis	 Gargoyle:2
+1x Gloria Giovanni		4   DOM nec	 Giovanni:2
+1x Thelonius			4   aus dom tha	 Tremere antitribu:2
+1x Brooke			3   dom tha	 Tremere antitribu:2
+1x Ehrich Weiss			3   dom tha	 Tremere:3
+1x Ember Wright			3   aus dom	 Tremere antitribu:3
+1x Saiz				3   aus dom	 Tremere antitribu:3
+1x Heinrick Schlempt		2   tha		 Tremere antitribu:2
+1x Mustafa Rahman		2   dom		 Tremere:2
+
+Library (80 cards)
+Master (21)
+6x Blood Doll
+2x Charisma
+1x Creepshow Casino
+2x Direct Intervention
+2x Fame
+1x Fortschritt Library
+5x Memories of Mortality
+1x Tension in the Ranks
+1x University Hunting Ground
+
+Action (9)
+1x Aranthebes, The Immortal
+8x Soul of the Earth
+
+Ally (13)
+1x Carlton Van Wyk
+10x Rock Cat
+2x Vagabond Mystic
+
+Equipment (2)
+2x IR Goggles
+
+Action Modifier (10)
+4x Conditioning
+6x Mirror Walk
+
+Reaction (12)
+7x Deflection
+5x On the Qui Vive
+
+Combat (11)
+5x Disarm
+6x Immortal Grapple
+
+Event (2)
+1x Dragonbound
+1x Unmasking, The

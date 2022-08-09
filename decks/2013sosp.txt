@@ -1,0 +1,69 @@
+Open 2013
+Szczecin, Poland
+June 8th 2013
+3R+F
+12 players
+Dawid Cyran
+
+-- 3VP in final
+
+Deck Name: Nakhthorheb and Mummies
+
+It's a deck I've been playing with for some time now. The third version of it,
+or even the fourth one. I enhance it every now and then.
+
+Crypt (12 cards, min=21, max=40, avg=8.08)
+------------------------------------------
+4x Nakhthorheb			10  OBF PRE SER				 Follower of Set:4
+1x Neferu			9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
+1x Pentweret			9   OBF PRE SER aus for obe		 Follower of Set:5
+1x Porphyrion			9   CHI OBF PRE SER for			 Follower of Set:5
+1x Shemti			9   OBF POT PRE SER vic		1 vote	 Follower of Set:5
+1x Arnulf Jormungandrsson	8   OBF PRE SER aus cel			 Follower of Set:5
+1x Cagliostro, The Grand Copht	8   OBF PRE SER nec pot			 Follower of Set:4
+1x Ahmose Chambers		3   obf ser				 Follower of Set:5
+1x Belle Equitone		2   ser					 Follower of Set:4
+
+Library (62 cards)
+Master (18; 5 trifle)
+2x Archon Investigation
+1x Dark Influences
+6x Eternals of Sirius, The
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Opium Den
+1x Secure Haven
+4x Villein
+1x Wider View
+
+Action (23)
+2x Enticement
+2x Entrancement
+1x Heart of the City
+6x Mesu Bedshet
+2x Set's Curse
+10x Spell of Life
+
+Ally (2)
+1x Nephren-Ka
+1x Ossian
+
+Action Modifier (13)
+2x Cloak the Gathering
+2x Elder Impersonation
+1x Enkil Cog
+1x Faceless Night
+2x Forgotten Labyrinth
+2x Into Thin Air
+2x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Combat (3)
+2x Majesty
+1x Staredown
+
+Event (1)
+1x Unmasking, The

@@ -1,0 +1,67 @@
+Torneo Guardian
+Badia del Valles, Spain
+September 28th 2008
+3R+F
+52 players
+Sergio Gracia
+
+-- 3VP in final
+
+Deck Name: Ventrue Guardian Elisio
+Created by: Sergio Gracia & Iñaki Puigdollers
+
+Description: MATAR!
+
+Crypt (12 cards, min=18, max=33, avg=6.5)
+-----------------------------------------
+2x Emerson Bridges		   8   DOM FOR PRE pot	    prince  Ventrue:1
+2x Sir Walter Nash		   7   DOM FOR PRE	    prince  Ventrue:1
+1x Wilhelm Waldburg		   9   DOM FOR PRE aus cel  prince  Ventrue:2
+1x Anson			   8   CEL PRE aus dom	    prince  Toreador:1
+1x Timothy Crowley		   7   FOR PRE ani dom	    prince  Ventrue:1
+1x Rake				   6   PRE aus cel pot	    prince  Brujah:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	    	    Ventrue:2
+1x Volker, The Puppet Prince	   5   CEL pot		    prince  Brujah:2
+1x Courtland Leighton		   4   dom for pre	    	    Ventrue:1
+1x Violette Prentiss		   4   PRE dom		    	    Ventrue:1
+
+Library (74 cards)
+Master (11; 1 trifle)
+1x Anarch Troublemaker
+2x Blood Doll
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Legendary Vampire
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+
+Action (14)
+4x Enchant Kindred
+2x Entrancement
+6x Govern the Unaligned
+2x Mind Numb
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x First Tradition: The Masquerade
+5x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (24)
+2x Awe
+3x Change of Target
+2x Conditioning
+2x Daring the Dawn
+1x Day Operation
+1x Foreshadowing Destruction
+8x Freak Drive
+1x Kiss of Ra, The
+4x Voter Captivation
+
+Combat (8)
+8x Majesty

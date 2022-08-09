@@ -1,0 +1,79 @@
+Anachronism
+Newark, Ohio
+December 9th 2011
+2R+F
+14 players
+John Bell
+
+Deck Name: 1...2...Skip a Few (turns)
+
+Description: I had a deck like this back in 2001, added Papillion
+and Lilith's Blessing, hoping to keep blood on the minions.
+The deck is very fast and almost guarantees that a table will not
+time out. It's difficult to not make a target of yourself early,
+especially if the First Traditions come up. The deck runs well
+without them, but they keep the pool/minion count low enough to
+ensure an advantage in most cases. The Justicar Retribution was
+the all-star heads-up in the finals, burning Stanislava when
+I had complete vote control.
+
+Crypt (12 cards, min=5, max=14, avg=2.42)
+-----------------------------------------
+1x Mariana Gilbert			4   PRE cel	Toreador:1
+1x Violette Prentiss			4   PRE dom	Ventrue:1
+1x Gideon Fontaine			3   PRE		Ventrue:1
+1x Itzahk Levine			3   cel pre	Ventrue:2
+1x Roland Loussarian			3   for pre	Ventrue:1
+1x Uma Hatch				3   cel pre	Brujah:1
+1x Delilah Easton			2   pre		Toreador:1
+1x Frederick the Weak			2   pre		Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez	2   pre		Brujah:2
+1x Angela Decker			1   pre		Pander:2
+1x Antoinette DuChamp			1   cel pre	Caitiff:2
+1x Igo the Hungry			1   pre pro	Caitiff:1
+
+Library (90 cards)
+Master (16)
+5x Effective Management
+1x Fear of Mekhet
+1x Humanitas
+2x Information Highway
+1x Lilith's Blessing
+1x Papillon
+3x Presence
+1x Ventrue Headquarters
+1x Waste Management Operation
+
+Action (4)
+4x Charming Lobby
+
+Equipment (2)
+1x Catacombs
+1x Signet of King Saul, The
+
+Political Action (36)
+4x Conservative Agitation
+3x Diversity
+2x Domain Challenge
+4x First Tradition: The Masquerade
+1x Justicar Retribution
+9x Kine Resources Contested
+4x Parity Shift
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Cairo
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Monaco
+1x Praxis Seizure: Paris
+1x Praxis Seizure: Rome
+1x Ventrue Justicar
+
+Action Modifier (22)
+3x Aire of Elation
+8x Bewitching Oration
+6x Bribes
+5x Voter Captivation
+
+Combat (10)
+10x Majesty

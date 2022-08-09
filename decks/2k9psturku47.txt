@@ -1,0 +1,61 @@
+Praxis Seizure XLVII: Turku
+Turku, Finland
+March 8th 2009
+20 players
+Ville Ruuskanen
+
+Deck Name: No Alchemy
+
+Description: Really simple Tremere Anathema deck, no alchemy needed...
+
+Crypt (12 cards, min=16, max=40, avg=7.67)
+------------------------------------------
+4x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar  Tremere:5
+4x Dr. John Dee		 9   ANI AUS DOM THA chi	prince	  Tremere:4
+2x Zane			 5   THA aus dom		primogen  Tremere:5
+1x Tarrence Moore	 4   aus dom tha			  Tremere:5
+1x Ezra Hawthorne	 2   tha				  Tremere:4
+
+Library (90 cards)
+Master (12; 2 trifle)
+1x Arcane Library
+1x Chantry
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Grooming the Protégé
+2x Haven Uncovered
+2x Vessel
+
+Action (9)
+5x Govern the Unaligned
+4x Rutor's Hand
+
+Equipment (3)
+1x AK-47
+1x Bowl of Convergence
+1x Helicopter
+
+Political Action (8)
+3x Alastor
+5x Anathema
+
+Action Modifier (8)
+6x Mirror Walk
+2x Seduction
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (13)
+3x Deflection
+1x My Enemy's Enemy
+2x On the Qui Vive
+7x Second Tradition: Domain
+
+Combat (34)
+8x Apportation
+8x Carrion Crows
+4x Rego Motum
+1x Soul Burn
+5x Telepathic Tracking
+8x Theft of Vitae

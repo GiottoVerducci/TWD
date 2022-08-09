@@ -1,0 +1,67 @@
+Danish NC 2013
+Copenhagen, Denmark
+May 11th 2013
+3R+F
+19 players
+Rudolf Scholz
+
+Deck Name: Obey the Tremere
+
+Tribute goes to Johannes Walch (and the Secret Library & the TWDA)
+Spcial thanks go to Manuel Diehm (for suggesting the awesome Metro Underground)
+
+Crypt (12 cards, min=36, max=42, avg=9.58)
+------------------------------------------
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+2x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+2x Dr. John Dee		 9   ANI AUS DOM THA chi	prince		Tremere:4
+2x Malgorzata		 9   AUS DOM THA VIC pre	priscus		Tremere antitribu:4
+2x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
+1x Gerald Windham	 9   AUS DOM FOR THA				Tremere:5
+
+Library (80 cards)
+Master (21; 7 trifle)
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Lilith's Blessing
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Temptation of Greater Power
+6x Villein
+1x Wider View
+4x Zillah's Valley
+
+Action (7)
+2x Far Mastery
+4x Mind Rape
+1x Rutor's Hand
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+2x Kine Resources Contested
+5x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (15)
+3x Conditioning
+3x Into Thin Air
+9x Mirror Walk
+
+Reaction (21)
+3x Deflection
+4x Eyes of Argus
+7x Obedience
+4x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Event (1)
+1x Scourge of the Enochians

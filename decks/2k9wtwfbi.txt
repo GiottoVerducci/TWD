@@ -1,0 +1,61 @@
+Watchtower: The Wolves Feed
+Barga, Italy
+January 18th 2009
+17 players
+Davide Antoni
+
+Winner Deck Name: Muro
+Description: Tzmisce Auspex Wall with Hard Combat and Smiling Jack
+
+Crypt (12 cards, min=13, max=29, avg=5.42)
+------------------------------------------
+2x Little Tailor of Prague 8   ANI AUS VIC dem	Tzimisce:2
+2x Caliban		   6   ANI AUS VIC	Tzimisce:2
+2x Corine Marcón	   6   AUS VIC ani	Tzimisce:2
+1x Kazimir Savostin	   7   AUS VIC ani pot	Tzimisce:3
+1x Ana Rita Montaña	   5   VIC aus dom obf	Tzimisce:3
+1x Rose, The		   5   PRE VIC aus	Tzimisce:3
+1x Lolita Houston	   4   VIC aus		Tzimisce:2
+1x Horatio		   2   vic		Tzimisce:2
+1x Piotr Andreikov	   2   aus		Tzimisce:3
+
+Library (90 cards)
+Master (22; 4 trifle)
+1x Library Hunting Ground
+1x Mob Connections
+6x Path of Metamorphosis, The
+1x Pentex(TM) Subversion
+1x Powerbase: Barranquilla
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Rack, The
+4x Smiling Jack, The Anarch
+4x Vessel
+1x WMRH Talk Radio
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Pulse of the Canaille
+
+Equipment (1)
+1x Bowl of Convergence
+
+Retainer (5)
+5x Revenant
+
+Reaction (28)
+6x Eagle's Sight
+2x Enhanced Senses
+2x Eyes of Argus
+4x Forced Awakening
+2x Melange
+5x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+2x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (32)
+16x Horrid Form
+8x Kraken's Kiss
+8x Telepathic Tracking

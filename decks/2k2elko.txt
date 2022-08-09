@@ -1,0 +1,60 @@
+Praxis Seizure: Elko
+Elko, Nevada
+April 27th 2002
+13 players
+Matt Leahy
+
+Deck Name: Corruption Part 2
+
+Crypt (13 cards, min=10, max=26, avg=4.23)
+------------------------------------------
+3x Nepata		4   obf pre ser			Follower of Set:2
+2x Celine Chevalier	3   obf ser			Follower of Set:2
+2x Lalitha		2   ser				Follower of Set:2
+1x Nefertiti		10  DOM OBF PRE SER cel pot	Follower of Set:2
+1x Aisha		6   PRE ani aus ser		Follower of Set:2
+1x Count Ormonde	5   OBF dom pre ser		Follower of Set:2
+1x Sir Marriot D'Urban	5   PRE aus obf ser		Follower of Set:2
+1x Hadrian Garrick	4   obf pre			Follower of Set:2
+1x Khalil Anvari	3   pre ser			Follower of Set:2
+
+Library (84 cards)
+Master (24)
+2x Blood Doll
+2x Club Zombie
+2x Elysium: The Arboretum
+2x Grand Temple of Set
+2x Information Highway
+3x Opium Den
+2x Rumor Mill, Tabloid Newspaper, The
+2x Secret Horde
+1x Short-Term Investment
+2x Temple Hunting Ground
+4x Tribute to the Master
+
+Action (34)
+1x Blackmail
+20x Corruption
+2x Enchant Kindred
+1x Intimidation
+4x Legal Manipulations
+4x Media Influence
+2x Social Charm
+
+Action Modifier (9)
+2x Cloak the Gathering
+7x Venenation
+
+Action Modifier/Combat (4)
+2x Form of the Serpent
+2x Swallowed by the Night
+
+Reaction (5)
+1x Elder Intervention
+2x Forced Awakening
+2x Wake with Evening's Freshness
+
+Combat (8)
+1x Behind You!
+2x Catatonic Fear
+5x Staredown

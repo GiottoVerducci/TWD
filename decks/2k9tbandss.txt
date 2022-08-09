@@ -1,0 +1,66 @@
+The Bitter and Sweet Story
+Stone Mountain, Atlanta, Georgia
+July 18th 2009
+13 players
+Todd Banister
+
+Crypt (12 cards, min=4, max=28, avg=3.75)
+-----------------------------------------
+4x Anarch Convert	1   -none-		 Caitiff:ANY
+2x Amaravati		8   DOM OBF QUI ani chi	 Assamite:4
+1x Hafsa, The Watcher	6   OBF QUI aus cel	 Assamite:5
+1x Vardar Vardarian	6   OBF QUI cel pre	 Assamite:4
+1x Layla bint-Nadr	5   CEL OBF qui		 Assamite:4
+1x Michael diCarlo	5   CEL obf qui		 Assamite:4
+1x Alu			2   obf			 Assamite:5
+1x Basir		1   qui			 Assamite:4
+
+Library (76 cards)
+Master (15)
+3x Alamut
+1x Archon Investigation
+1x Barrens, The
+1x Black Throne, The
+3x Blood Doll
+1x Club Illusion
+1x Dark Influences
+1x Garibaldi-Meucci Museum
+1x Seattle Committee
+1x Twilight Camp
+1x Yoruba Shrine
+
+Action (16)
+4x Embrace, The
+1x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+1x Khabar: Glory
+5x Web of Knives Recruit
+
+Political Action (20)
+1x Anarch Salon
+5x Consanguineous Boon
+1x Exclusion Principle
+2x Firebrand
+5x Kine Resources Contested
+1x Patsy
+5x Revolutionary Council
+
+Action Modifier (21)
+3x Cloak the Gathering
+4x CrimethInc.
+2x Cryptic Rider
+3x Faceless Night
+1x Into Thin Air
+3x Lost in Crowds
+3x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Event (1)
+1x Uncoiling, The

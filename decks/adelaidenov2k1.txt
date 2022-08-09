@@ -1,0 +1,58 @@
+Crusade: Adelaide
+Adelaide, Australia
+November 4th 2001
+3R+F
+10 players
+Steven Wedd
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xwpotTgS8Uk
+
+"Well'ard Vamps"
+
+Crypt (12 cards, min=7, max=16, avg=2.92)
+-----------------------------------------
+1x Agatha		    4	POT obf		Nosferatu antitribu:2
+1x Hector Sosa		    4	POT pre		Brujah:1
+1x Hugo			    4	POT pre vic	Brujah antitribu:2
+1x Jimmy Dunn		    4	CEL POT for	Pander:2
+1x Cristofero Giovanni	    3	nec pot		Giovanni:2
+1x Mario Giovanni	    3	nec pot		Giovanni:2
+1x Raziya Samater	    3	ani pot		Brujah:2
+1x Tommy		    3	ani pot		Nosferatu antitribu:2
+1x Lupo			    2	pot		Brujah:1
+1x Mitchell, The Headhunter 2	obt pot		Pander:2
+1x Paul DiCarlo, The Alpha  2	pot		Giovanni:2
+1x Hasina Kesi		    1	pot		Caitiff:1
+
+Library (90 cards)
+Master (15)
+1x Barrens, The
+3x Effective Management
+1x Fame
+3x Haven Uncovered
+1x KRCG News Radio
+3x Major Boon
+3x Potence
+
+Action (19)
+5x Ambush
+7x Bum's Rush
+7x Computer Hacking
+
+Equipment (1)
+1x Flak Jacket
+
+Reaction (4)
+4x Wake with Evening's Freshness
+
+Combat (51)
+1x Disarm
+3x Fake Out
+8x Immortal Grapple
+10x Increased Strength
+2x Pulled Fangs
+2x Pushing the Limit
+1x Shattering Blow
+2x Taste of Vitae
+6x Thrown Gate
+4x Torn Signpost
+12x Undead Strength

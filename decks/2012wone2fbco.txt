@@ -1,0 +1,70 @@
+Week of Nightmares Event 2 - Forfar Bridie
+Mac's Cafe, Columbus, Ohio
+May 28th 2012
+2R+F
+18 players
+Bob Joseph
+
+-- 2VP in final
+
+Deck Name: temptation2012
+
+Crypt (12 cards, min=12, max=27, avg=5.08)
+------------------------------------------
+2x Qufur am-Heru		7   OBF PRE SER cel tha	 Follower of Set:2
+2x Hesha Ruhadze		6   SER ani obf pre	 Follower of Set:2
+2x Celine Chevalier		3   obf ser		 Follower of Set:2
+1x Sarrasine			7   OBF PRE aus nec ser	 Follower of Set:2
+1x Ezekiel, Lord of Montreal	6   PRE SER obf pot	 Follower of Set:3
+1x Count Ormonde		5   OBF dom pre ser	 Follower of Set:2
+1x Dedefra			5   SER nec obf		 Follower of Set:2
+1x Nepata			4   obf pre ser		 Follower of Set:2
+1x Lalitha			2   ser			 Follower of Set:2
+
+Library (90 cards)
+Master (15)
+1x Archon Investigation
+1x Barrens, The
+5x Blood Doll
+1x Crocodile Temple, The
+1x Direct Intervention
+2x Heidelberg Castle, Germany
+1x Obfuscate
+1x Opium Den
+1x Sudden Reversal
+1x Temple Hunting Ground
+
+Action (23)
+1x Arson
+5x Enticement
+2x Form of Corruption
+5x Legal Manipulations
+2x Lure of the Serpent
+8x Temptation
+
+Ally (2)
+1x Gregory Winter
+1x Ossian
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (6)
+6x Free States Rant
+
+Action Modifier (26)
+4x Cloak the Gathering
+4x Domain of Evernight
+4x Elder Impersonation
+4x Faceless Night
+3x Forgotten Labyrinth
+4x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (8)
+4x Form of the Serpent
+4x Swallowed by the Night
+
+Combat (9)
+3x Majesty
+6x Staredown

@@ -1,0 +1,68 @@
+Anarch Salon
+Fortaleza, Brazil
+March 16th 2014
+3R+F
+12 players
+Bruno Patrício Silva Pontes
+https://www.vekn.net/event-calendar/event/7490
+
+-- 4VP in final
+
+Deck Name: estupradores de inocentes
+
+Crypt (12 cards, min=19, max=31, avg=6.42)
+------------------------------------------
+2x Jacko				8   CEL POT PRE obt		Brujah antitribu:2
+2x Jimmy Dunn				4   CEL POT for			Pander:2
+1x Antonio Veradas			8   CEL POT PRE obf	bishop	Brujah antitribu:3
+1x Amelia				7   CEL POT PRE		bishop	Brujah antitribu:2
+1x Beast, The Leatherface of Detroit	7   OBF POT ani cel		Nosferatu antitribu:2
+1x Miguel Santo Domingo			7   POT PRE cel for		Brujah antitribu:3
+1x Richter, The Templar of Du Mont	7   CEL POT for pre		Brujah antitribu:2
+1x Henry Taylor				6   POT cel pre pro		Brujah antitribu:3
+1x Jeremiah Noble			6   CEL POT obt pre		Brujah antitribu:3
+1x Rigby, Crusade Vanguard		5   CEL PRE aus pot		Brujah antitribu:2
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Amusement Park Hunting Ground
+2x Gang Territory
+5x Haven Uncovered
+1x Hungry Coyote, The
+4x Perfectionist
+6x Vessel
+1x Waste Management Operation
+
+Action (5)
+2x Abbot
+2x Heroic Might
+1x Preternatural Strength
+
+Equipment (6)
+1x Ivory Bow
+4x Leather Jacket
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (5)
+5x Spoils of War
+
+Reaction (7)
+4x Eluding the Arms of Morpheus
+3x On the Qui Vive
+
+Combat (45)
+7x Blur
+1x Decapitate
+2x Disarm
+2x Fists of Death
+8x Immortal Grapple
+6x Majesty
+7x Pursuit
+4x Taste of Vitae
+8x Torn Signpost
+
+Event (1)
+1x Narrow Minds

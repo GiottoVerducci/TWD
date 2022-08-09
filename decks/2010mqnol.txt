@@ -1,0 +1,61 @@
+MiniQualifier
+New Orleans, Louisiana
+September 23rd 2010
+20 players
+Selen Turkay
+
+Deck Name: Brujah has a reason for it
+Created by: Sonam Adinolf, Adam Hulse, Selen Turkay
+
+Description: It's a bruise bleed deck. I like it. I don't feel
+defenseless. I feel safe. I don't like being without combat.
+
+Crypt (12 cards, min=21, max=32, avg=6.92)
+------------------------------------------
+3x Constanza Vinti		8   CEL DOM POT		prince	Brujah:2
+3x Dónal O'Connor		8   CEL DOM POT		prince	Brujah:2
+3x Theo Bell			7   POT cel dom pre		Brujah:2
+2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+
+Library (90 cards)
+Master (14)
+6x Blood Doll
+1x Carthage Remembered
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Pentex(TM) Subversion
+1x Rumor Mill, Tabloid Newspaper, The
+1x Tension in the Ranks
+
+Action (5)
+1x Blood Hunt
+2x Bum's Rush
+2x Preternatural Strength
+
+Political Action (1)
+1x Parity Shift
+
+Action Modifier (8)
+8x Threats
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Reaction (17)
+6x Deflection
+2x On the Qui Vive
+9x Second Tradition: Domain
+
+Combat (42)
+3x Blur
+3x Disarm
+1x Fast Hands
+8x Immortal Grapple
+1x Preternatural Evasion
+5x Pursuit
+4x Sideslip
+7x Taste of Vitae
+10x Torn Signpost

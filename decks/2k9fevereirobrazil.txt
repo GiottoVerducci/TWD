@@ -1,0 +1,55 @@
+Tournament
+Devir Livraria, São Paulo, Brazil
+March 1st 2009
+21 players
+Lincoln Figueredo
+
+Deck Name: Lincoln's setite deck
+
+Crypt (16 cards, min=13, max=40, avg=5.81)
+------------------------------------------
+8x Aabbt Kindred   4   for pre ser		Follower of Set:2
+5x Nefertiti	   10  DOM OBF PRE SER cel pot	Follower of Set:2
+1x Allonzo Montoya 6   OBF SER ani aus		Abomination:3
+1x Khalil Anvari   3   pre ser			Follower of Set:2
+1x Lalitha	   2   ser			Follower of Set:2
+
+Library (90 cards)
+Master (26)
+1x Club Zombie
+1x Giant's Blood
+1x Information Highway
+1x KRCG News Radio
+1x Opium Den
+2x Path of Typhon, The
+4x Perfectionist
+1x Secure Haven
+4x Serpentis
+1x Temple Hunting Ground
+8x Tribute to the Master
+1x WMRH Talk Radio
+
+Action (24)
+1x Enchant Kindred
+6x Heart of Darkness
+3x Legal Manipulations
+1x Lure of the Serpent
+4x Mesu Bedshet
+1x Rapid Healing
+8x Temptation
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (23)
+8x Cloak the Gathering
+8x Daring the Dawn
+2x Lost in Crowds
+5x Veil the Legions
+
+Reaction (10)
+6x Deflection
+4x Obedience
+
+Combat (6)
+6x Majesty

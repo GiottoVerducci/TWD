@@ -1,0 +1,81 @@
+Festivo Stockholm
+Stockholm, Sweden
+March 14th 2020
+2R+F
+10 players
+Magnus Eriksson
+https://www.vekn.net/event-calendar/event/9587
+
+-- 1GW3.5 + 3VP in final
+
+Deck name: Location, location, location
+
+Crypt (12 cards, min=20, max=36, avg=7.25)
+------------------------------------------
+5x Guillaume Giovanni	9   CEL DOM NEC POT obt	 Giovanni:4
+2x Gualtiero Ghiberti	7   DOM NEC cel pot tha	 Giovanni:4
+2x Raphaela Giovanni	6   DOM NEC pot pre	 Giovanni:4
+1x Baldesar Rossellini	8   DOM POT aus for nec	 Giovanni:4
+1x Prejudice		4   aus dom nec		 Nagaraja:4
+1x Primo Giovanni	4   dom nec pot		 Giovanni:4
+
+Library (90 cards)
+Master (30; 4 trifle)
+1x Barrens, The
+1x Channel 10
+1x Charisma
+1x Creepshow Casino
+1x Dis Pater
+1x Fame
+1x Giant's Blood
+1x Jake Washington
+1x KRCG News Radio
+1x Morgue Hunting Ground
+5x Parthenon, The
+1x Path of Bone, The
+1x Powerbase: Cape Verde
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Powerbase: Savannah
+1x Secure Haven
+2x Storage Annex
+2x Therbold Realty
+4x Vessel
+1x WMRH Talk Radio
+
+Action (8)
+1x Dominate Kine
+5x Govern the Unaligned
+2x Sudario Refraction
+
+Ally (14)
+1x Carlton Van Wyk
+1x Gianna di Canneto
+11x Shambling Hordes
+1x Tye Cooper
+
+Equipment (1)
+1x Palatial Estate
+
+Action Modifier (12)
+2x Bonding
+6x Call of the Hungry Dead
+1x Conditioning
+1x Foreshadowing Destruction
+2x Seduction
+
+Action Modifier/Reaction (3)
+3x Spectral Divination
+
+Reaction (12)
+7x Deflection
+5x On the Qui Vive
+
+Combat (8)
+1x Spiritual Guidance
+3x Spiritual Intervention
+3x Target Vitals
+1x Thrown Gate
+
+Event (2)
+2x Unmasking, The

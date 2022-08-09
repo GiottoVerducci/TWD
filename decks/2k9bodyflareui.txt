@@ -1,0 +1,63 @@
+Body Flare
+Udine, Italy
+March 22nd 2009
+13 players
+Miro Albertazzi
+
+Deck Name: Johannes' Apocalypse,13,4
+
+Description: Cybele & The Great Beast. Nothing new, something different.
+
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+12x Cybele 10	ANI DAI OBF PRE SER THA	 Baali:4
+
+Library (72 cards)
+Master (20)
+2x Antediluvian Awakening
+1x Celerity
+1x Chimerstry
+1x Dark Influences
+2x Fortitude
+1x Fortschritt Library
+3x Golconda: Inner Peace
+3x Minion Tap
+1x Monastery of Shadows
+1x Necromancy
+2x Parthenon, The
+1x Quietus
+1x Redeem the Lost Soul
+
+Action (12)
+5x Call the Great Beast
+3x Enticement
+4x Magic of the Smith
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Action Modifier (22)
+3x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+4x Lost in Crowds
+2x Psychomachia
+2x Spying Mission
+7x Truth of a Thousand Lies
+
+Action Modifier/Combat (6)
+3x Form of the Serpent
+3x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Sense the Sin
+
+Combat (4)
+4x Conflagration
+
+Event (2)
+1x Anthelios, The Red Star
+1x Narrow Minds

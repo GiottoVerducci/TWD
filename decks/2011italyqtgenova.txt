@@ -1,0 +1,70 @@
+Italian Qualifier Tour 2nd stage
+Genoa, Italy
+February 27th 2011
+2R+F
+35 players
+Riccardo Fabiani
+
+Deck Name: Para Bailar la Bamba
+
+Description: A breed and vote deck with Bamba and Amaravati,
+taking advantage of a good laibon spread into the Assamite clan.
+The main idea is to breed enough Bambas, bleed occasionally to
+charge Alamut, bloat with Haquim's Law and Boon, then go for the
+killing with Khabar: Community and Veil the Leigion for bleed and
+big votes like Reckless
+
+Crypt (12 cards, min=11, max=31, avg=5.58)
+------------------------------------------
+4x Olugbenga	7   OBF QUI ani cel	 magaji	 Assamite:4
+3x Amaravati	8   DOM OBF QUI ani chi	 	 Assamite:4
+3x Kamau Jafari	4   QUI obf		 	 Assamite:4
+1x Alu		2   obf			 	 Assamite:5
+1x Basir	1   qui			 	 Assamite:4
+
+Library (81 cards)
+Master (18; 3 trifle)
+3x Alamut
+1x Ancestor Spirit
+1x Black Throne, The
+1x Coven, The
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Heartblood of the Clan
+2x Khabar: Community, The
+1x Perfectionist
+1x Powerbase: Tshwane
+1x Secure Haven
+1x Underworld Hunting Ground
+2x Vessel
+1x Yoruba Shrine
+
+Action (24)
+12x Bamba
+8x Haqim's Law: Leadership
+1x Khabar: Glory
+3x Loss
+
+Equipment (4)
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Kduva's Mask
+1x Sargon Fragment, The
+
+Political Action (15)
+5x Consanguineous Boon
+1x Kindred Segregation
+6x Kine Resources Contested
+2x Reckless Agitation
+1x Secret Must Be Kept, The
+
+Action Modifier (19)
+4x Cloak the Gathering
+4x Elder Impersonation
+3x Forgotten Labyrinth
+4x Lost in Crowds
+1x Strange Day
+3x Veil the Legions
+
+Event (1)
+1x Uncoiling, The

@@ -1,0 +1,57 @@
+Hallowed Tomes
+Cape Town, South Africa
+May 16th 2009
+10 players
+Richard Auckland
+
+Deck Name: Weenie Obfuscate S&B Deck
+
+Description: Vermin Channels and dominate are key to this deck.
+
+Crypt (12 cards, min=8, max=18, avg=3.08)
+-----------------------------------------
+1x Frank Litzpar	5   OBF ani for pot	Nosferatu antitribu:4
+1x Skidmark		5   FOR OBF aus pot	Nosferatu antitribu:4
+1x Aaron Bathurst	4   for obf pot		Nosferatu antitribu:4
+1x Tock			4   obf pot pre		Nosferatu antitribu:3
+1x Blister		3   obf pot		Nosferatu antitribu:4
+1x Clarissa Steinburgen	3   ani obf		Nosferatu:3
+1x Foureyes		3   obf pot		Nosferatu:4
+1x Bloodfeud		2   obf			Malkavian antitribu:4
+1x Denette Stensen	2   obf			Gangrel antitribu:4
+1x Hanna Redmonds	2   obf tha		Caitiff:3
+1x Krid			2   obf			Nosferatu:3
+1x Old Neddacka		2   obf			Nosferatu antitribu:4
+
+Library (90 cards)
+Master (14)
+8x Dominate
+1x Hungry Coyote, The
+1x Pentex(TM) Loves You!
+1x Powerbase: Montreal
+2x Tribute to the Master
+1x Using the Advantage
+
+Action (26)
+8x Night Moves
+6x Scouting Mission
+12x Vermin Channel
+
+Action Modifier (34)
+6x Change of Target
+4x Cloak the Gathering
+4x Conditioning
+4x Faceless Night
+4x Lost in Crowds
+4x Spying Mission
+4x Threats
+4x Veil the Legions
+
+Reaction (12)
+4x Deflection
+4x Redirection
+4x Wake with Evening's Freshness
+
+Combat (4)
+3x Absorb the Mind
+1x No Trace

@@ -1,0 +1,83 @@
+Australian NC 2002 Day 1 - Last Chance Qualifier
+Canberra, Australia
+December 7th 2002
+28 players
+Anthony Barker
+
+Deck Name: Gratiano's Egg Basket
+
+Description: Lasombra bleed with some combat and votes. Some blood gain to fill
+up the big bleeder. Festivo dello Estinto and Disarm weren't very helpful.
+DI was a lifesaver.
+
+Crypt (12 cards, min=9, max=34, avg=5.25)
+-----------------------------------------
+3x Gratiano			   8   DOM OBT obf pot	priscus	    Lasombra:2
+1x Alvaro, The Scion of Angelica   9   OBT POT dom pre	archbishop  Lasombra:2
+1x Antonio Delgado		   9   DOM OBT POT tha	archbishop  Lasombra:2
+1x Chas Giovanni Tello		   4   DOM POT			    Giovanni:2
+1x Ignacio, The Black Priest	   4   dom obt pot		    Lasombra:2
+1x Ramiro			   4   dom obt vic		    Lasombra:2
+1x Cameron			   3   dom pot			    Lasombra:2
+1x Aaron Duggan, Cameron's Toady   2   obt			    Lasombra:2
+1x Marciana Giovanni, Investigator 2   dom			    Giovanni:2
+1x Mitchell, The Headhunter	   2   obt pot			    Pander:2
+
+Library (89 cards)
+Master (17)
+2x Blood Doll
+1x Direct Intervention
+1x Dominate
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Festivo dello Estinto
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+2x Legendary Vampire
+1x Path of Night, The
+1x Political Hunting Ground
+1x Power Structure
+1x Purchase Pact
+
+Action (9)
+1x Far Mastery
+8x Govern the Unaligned
+
+Political Action (8)
+2x Cardinal Benediction
+1x Disputed Territory
+1x Dramatic Upheaval
+2x Kine Resources Contested
+1x Political Stranglehold
+1x Rumors of Gehenna
+
+Action Modifier (22)
+1x Bonding
+2x Bribes
+1x Command
+4x Conditioning
+4x Seduction
+5x Shadow Play
+4x Shroud of Night
+1x Stone Travel
+
+Reaction (17)
+5x Deflection
+1x Eyes of the Night
+1x Forced Awakening
+4x Obedience
+1x Redirection
+5x Wake with Evening's Freshness
+
+Combat (16)
+5x Arms of the Abyss
+1x Darkness Within
+1x Disarm
+1x Entombment
+1x Oubliette
+1x Pushing the Limit
+3x Shadow Body
+1x Shadow Step
+1x Thrown Gate
+1x Torn Signpost

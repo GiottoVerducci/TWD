@@ -1,0 +1,79 @@
+North West Qualifier
+Tacoma, Washington
+February 18th 2012
+3R+F
+15 players
+Eric Reppas
+
+-- 3VP in final
+
+Deck Name: malks
+
+Crypt (12 cards, min=23, max=42, avg=8.5)
+-----------------------------------------
+2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+2x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
+2x Morel		 6   AUS DEM OBF				Malkavian:4
+1x Ankou, The		 10  AUS DEM OBF				Malkavian:5
+1x Tryphosa		 10  AUS DEM DOM OBF POT	prince		Malkavian:4
+1x Santaleous		 9   AUS CEL DEM OBF				Malkavian:5
+1x Bloody Mary		 8   AUS DEM OBF pre		primogen	Malkavian:5
+1x Gem Ghastly		 6   DEM OBF aus		primogen	Malkavian:5
+1x Arthur Denholm	 5   AUS DEM obf				Malkavian:5
+
+Library (90 cards)
+Master (14; 7 trifle)
+1x Asylum Hunting Ground
+1x Dreams of the Sphinx
+1x Gambit Accepted
+1x Game of Malkav
+1x Madness Network
+1x Major Boon
+1x Malkavian Prank
+3x Vessel
+4x Villein
+
+Action (14)
+1x Dive into Madness
+13x Kindred Spirits
+
+Equipment (2)
+1x Bowl of Convergence
+1x Learjet
+
+Political Action (2)
+1x Anarchist Uprising
+1x Reins of Power
+
+Action Modifier (26)
+5x Cloak the Gathering
+4x Confusion
+2x Elder Impersonation
+8x Eyes of Chaos
+2x Faceless Night
+3x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (6)
+2x Deny
+4x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Touch of Clarity
+
+Reaction (19)
+5x Eyes of Argus
+5x On the Qui Vive
+3x Shattered Mirror
+5x Telepathic Misdirection
+1x Voice of Madness
+
+Combat (4)
+1x Coma
+3x No Trace
+
+Combat/Reaction (1)
+1x Abandoning the Flesh
+
+Event (1)
+1x Bitter and Sweet Story, The

@@ -1,0 +1,69 @@
+Vantaa MQ
+Helsinki, Finland
+June 17th 2007
+3R+F
+12 players
+Teemu Sainomaa
+
+Deck Name: Girls will find your blind spot
+
+Description: Aksinya defends your pool with masters while Cybele and
+Beatrice bleeds. Blind Spot the guys who can redirect bleeds.
+
+Crypt (12 cards, min=11, max=40, avg=7.25)
+------------------------------------------
+4x Cybele			 10  ANI DAI OBF PRE SER THA	Baali:4
+4x Aksinya Daclau		 9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
+3x Béatrice "Oracle171" Tremblay 3   inn ven			Innocent:4
+1x Denette Stensen		 2   obf			Gangrel antitribu:4
+
+Library (90 cards)
+Master (45; 3 trifle)
+2x Archon Investigation
+1x Barrens, The
+8x Blind Spot
+3x Blood Doll
+3x Brothers Grimm
+2x Direct Intervention
+2x Dreams of the Sphinx
+2x Dummy Corporation
+2x Fortschritt Library
+1x Giant's Blood
+2x Golconda: Inner Peace
+4x Information Highway
+4x Major Boon
+2x Minion Tap
+4x Parthenon, The
+3x Wash
+
+Conviction (2)
+1x Second Sight
+1x Strike with Conviction
+
+Action (12)
+1x Aranthebes, The Immortal
+2x Entrancement
+1x Form of Corruption
+4x Rutor's Hand
+4x Temptation
+
+Ally (3)
+1x Carlton Van Wyk
+2x Mylan Horseed
+
+Action Modifier (12)
+3x Approximation of Loyalty
+5x Cloak the Gathering
+4x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
+Combat (6)
+6x Staredown
+
+Event (2)
+2x Anthelios, The Red Star

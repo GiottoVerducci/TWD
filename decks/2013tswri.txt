@@ -1,0 +1,78 @@
+TempleCon 2013 Qualifier
+Warwick, Rhode Island
+February 2nd 2013
+18 players
+Kym Alishahi
+
+Deck Name: Cock Robin Espionage Network
+
+(Special thanks to Drace Zhan for introducing me to Alonzo
+Guillen as an addition to the crypt)
+The purpose of this Cock Robin/Deep Song/Enkil Cog iteration is
+to greatly boost that deck archetype's versatility by taking
+advantage of the powerful support abilities of Shahid and Alonzo
+Guillen. Extra hand size/hand building combined with being able
+to see predator/prey hands is the reason I call it the espionage
+network because like good secret service networks in the world the
+deck can see exactly what its target is doing and act accordingly.
+It can be played in a variety of ways depending on the table.
+
+Crypt (12 cards, min=18, max=40, avg=7.08)
+------------------------------------------
+4x Cock Robin	  10  ANI OBF POT aus for  justicar	Nosferatu:3
+3x Shahid	  7   OBF POT ani for pro  		Nosferatu:4
+3x Alonzo Guillen 6   OBF ani for pot	   		Nosferatu:3
+2x Darva Felispa  3   ani pot		   		Nosferatu:3
+
+Library (90 cards)
+Master (21; 7 trifle)
+1x Animalism
+2x Direct Intervention
+1x Fame
+1x Fortitude
+2x Giant's Blood
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Sudden Reversal
+1x Temptation of Greater Power
+5x Villein
+2x Warsaw Station
+2x Wider View
+
+Action (17)
+12x Deep Song
+3x Heroic Might
+2x Preternatural Strength
+
+Equipment (3)
+1x Dartmoor, England
+2x Leather Jacket
+
+Political Action (2)
+2x Parity Shift
+
+Action Modifier (17)
+3x Cloak the Gathering
+3x Enkil Cog
+3x Faceless Night
+4x Freak Drive
+3x Lost in Crowds
+1x Momentary Delay
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (11)
+1x Lost in Translation
+5x Second Tradition: Domain
+5x Sense the Savage Way
+
+Combat (14)
+2x Disarm
+3x Hidden Strength
+6x Immortal Grapple
+3x Taste of Vitae
+
+Event (2)
+2x Scourge of the Enochians

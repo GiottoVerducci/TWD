@@ -1,0 +1,64 @@
+Scottish NC 2019
+Edinburgh, Scotland
+May 25th 2019
+2R+F
+8 players only
+Norbert Flasko
+https://www.vekn.net/event-calendar/event/9241
+
+-- 1GW3 + 1.5VP in final
+
+Deck Name: Petrodon & Co
+
+Crypt (12 cards, min=37, max=43, avg=10)
+----------------------------------------
+3x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+3x Alonso Petrodon	 10  ANI DOM OBF POT for tha	justicar	Nosferatu:5
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+3x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
+
+Library (89 cards)
+Master (22; 9 trifle)
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Information Highway
+1x Monastery of Shadows
+1x Obfuscate
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+8x Villein
+1x Wider View
+6x Zillah's Valley
+
+Action (5)
+2x Abactor
+3x Magic of the Smith
+
+Equipment (6)
+2x Heart of Nizchetus
+3x Helicopter
+1x Signet of King Saul, The
+
+Political Action (24)
+3x Alastor
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+4x Kine Resources Contested
+1x Neonate Breach
+8x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (16)
+4x Elder Impersonation
+6x Forgotten Labyrinth
+6x Into Thin Air
+
+Reaction (11)
+8x Deflection
+3x Obedience
+
+Combat (5)
+5x No Trace

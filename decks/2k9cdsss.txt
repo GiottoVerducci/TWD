@@ -1,0 +1,62 @@
+Clasificatorio de Sabadell
+Sabadell, Spain
+October 11th 2009
+3R+F
+32 players
+Tomàs López Jiménez
+https://www.vekn.net/event-calendar/event/2745
+
+-- 4VP in final
+
+Deck Name: Descent into Bleeds
+
+Description: Influence Appius. Put all Corporal Reservoirs you can on him
+Master Phase: Minion Tap to Appius (with previos Corporal if you have one)
+Minion Phase: Appius Descent into Darkness, with all the corporal reservoir,
+the rest of minions bleeds.
+Influence Phase: Appius return.
+In other minion phase: Apppius bleed with Enkil Cog.
+
+Crypt (12 cards, min=18, max=40, avg=7.33)
+------------------------------------------
+4x Appius Claudius Corvus 10  DOM OBT POT cel nec  Lasombra:5
+3x Saul Meira		  8   CHI DOM OBT POT	   Lasombra:5
+2x Ermenegildo, The Rake  5   DOM OBT pot	   Lasombra:4
+1x Onaedo		  6   DOM OBT aus pot	   Lasombra:4
+1x Dame Hollerton	  5   DOM OBT myt	   Kiasyd:4
+1x Lucy Markowitz	  3   dom obt		   Lasombra:4
+
+Library (90 cards)
+Master (24; 12 trifle)
+12x Corporal Reservoir
+1x Dreams of the Sphinx
+1x Elysian Fields
+9x Minion Tap
+1x Watchtower: Chosen are Called
+
+Action (20)
+9x Descent into Darkness
+9x Govern the Unaligned
+2x Mind Rape
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Zaire River Ferry
+
+Action Modifier (35)
+2x Blanket of Night
+8x Bonding
+3x Conditioning
+3x Enkil Cog
+3x Foreshadowing Destruction
+5x Shadow Play
+3x Shroud of Absence
+5x Shroud of Night
+3x Tenebrous Form
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (7)
+4x Deflection
+3x Delaying Tactics

@@ -1,0 +1,65 @@
+Origins Constructed (16:00 – 23:00)
+Columbus, Ohio
+June 13th 2019
+2R+F
+19 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/9189
+
+-- 1GW3 + 4VP in final
+
+Deck Name: Mean Mister Master
+
+Joined the tournament in round 2 and squeaked into the final with 1GW3VP.
+Won final with 4VP; finishing move was playing Curse of Nitocris and passing the turn. Played Gambit Accepted in both games.
+
+This is not a terribly interesting deck. It’s just another example of Kindred Spirits being conducive to pairing with just about any master package you could want. In this case, I focused on masters that do pool damage, hence the title, “Mean Mister Master.”
+
+Crypt (12 cards, min=16, max=30, avg=5.83)
+------------------------------------------
+2x Bloody Mary		8   AUS DEM OBF pre	 primogen  Malkavian:5
+2x Hagar Stone		6   AUS DEM obf		 	   Malkavian antitribu:5
+2x Morel		6   AUS DEM OBF		 	   Malkavian:4
+2x Arthur Denholm	5   AUS DEM obf		 	   Malkavian:5
+2x Jackie		3   DEM			 	   Malkavian antitribu:4
+1x Persephone Tar-Anis	8   AUS DEM OBF cel pot	 	   Malkavian antitribu:4
+1x Gem Ghastly		6   DEM OBF aus		 primogen  Malkavian:5
+
+Library (90 cards)
+Master (20; 5 trifle)
+2x Antediluvian Awakening
+2x Archon Investigation
+2x Curse of Nitocris
+2x Dreams of the Sphinx
+1x Gambit Accepted
+2x Golconda: Inner Peace
+2x Pentex(TM) Subversion
+2x Sudden Reversal
+3x Villein
+2x Wider View
+
+Action (17)
+17x Kindred Spirits
+
+Action Modifier (32)
+4x Cloak the Gathering
+10x Confusion
+3x Elder Impersonation
+7x Eyes of Chaos
+1x Faceless Night
+4x Lost in Crowds
+2x Mind Tricks
+1x Spying Mission
+
+Action Modifier/Combat (10)
+5x Deny
+5x Swallowed by the Night
+
+Reaction (8)
+2x Eyes of Argus
+1x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (3)
+1x Coma
+2x No Trace

@@ -1,0 +1,65 @@
+Mountain Top
+Bolzano, Italy
+August 28th 2011
+2R+F
+10 players
+Simone Longobardi
+
+Deck Name: Assamite Dementia
+
+Crypt (12 cards, min=18, max=40, avg=7.5)
+-----------------------------------------
+4x Thucimia	   10  CEL DEM OBF QUI for pro	1 vote	Assamite:4
+4x Luc		   5   OBF dem vic			Malkavian antitribu:4
+2x Nizzam al-Latif 9   ANI CEL OBF QUI dem		Assamite:5
+1x Santaleous	   9   AUS CEL DEM OBF			Malkavian:5
+1x Jackie	   3   DEM				Malkavian antitribu:4
+
+Library (90 cards)
+Master (16; 5 trifle)
+1x Alamut
+2x Blind Spot
+2x Dementation
+1x Fortitude
+2x Perfectionist
+1x Secret Passage
+1x Secure Haven
+3x Vessel
+2x Wider View
+1x Yoruba Shrine
+
+Action (28)
+1x Blessing of Chaos
+1x Blithe Acceptance
+6x Haqim's Law: Leadership
+1x Khabar: Glory
+12x Kindred Spirits
+5x Sibyl's Tongue
+2x Web of Knives Recruit
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (5)
+1x Heart of Nizchetus
+2x Helicopter
+1x Sacré-Cœur Cathedral, France
+1x Sargon Fragment, The
+
+Action Modifier (23)
+5x Deed the Heart's Desire
+5x Elder Impersonation
+1x Enkil Cog
+6x Eyes of Chaos
+3x Faceless Night
+3x Lost in Crowds
+
+Action Modifier/Combat (6)
+2x Hide the Mind
+4x Swallowed by the Night
+
+Action Modifier/Reaction (6)
+6x Touch of Clarity
+
+Reaction (5)
+5x Wrong and Crosswise

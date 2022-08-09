@@ -1,0 +1,127 @@
+Friday Night Constructed
+New York City, New York
+May 25th 2007
+2R+F
+17 players
+Matthew Morgan
+
+Deck Name: Inspiring Innocents
+
+Description: Get out a ton of Imbued and Strike with Conviction until
+everyone is ousted. This deck is a real killer and surprisingly resilient
+as well. I can't recall ever having been ousted while playing it,
+although sometimes the table falls in unfortunate ways (see game 1 above).
+Now that I've won a tournament with a basic Imbued deck like this, it's
+only weird tricks and hybrid decks from here on out. I promise!
+
+You might think I'd want more copies of Travis or Jennie here
+but in some games, I really come close to emptying my crypt.
+I've just found it useful to be able to get out as many as
+11 Imbued.
+
+I never really use Unity, but it seems like it should be here.
+Brothers Grimm is very key. Nobody ever tries to take it. It's just
+free pool! There are really a lot of masters here and I usually am
+holding way more than I can expect to play. That's fine. Imbued decks
+do not need to cycle cards the way vampire decks do thanks to the way
+Convictions work. Transients really aren't needed. It is also
+interesting to mention that I don't think I played a single Angel of
+Berlin this tournament. There was once or twice I might have, but it
+was more important to Sudden something earlier in the turn.
+
+Totally useless. I don't think I've ever played Bond. If I were to
+keep playing this deck, I'd drop these in an instant.
+
+You really can't have too many Convictions. Considering how many
+minions I tend to get out, this is a little light. But just having 8
+or 9 minions usually makes you win anyway, so there's not any real need
+to add more. I always go for React first since the worst thing someone
+can do is steal my minion and use it against me.
+
+I am notoriously lucky in drawing The Unmasking early. In fact, I
+think I played it on the first or second turn (once thanks to
+Fortschritt) in each round this tournament. Thirst is just there as an
+enabler, but sometimes it helps to hurt other vampire decks. I'm not
+that interested in playing a bunch of events that would hurt people
+cross-table. This deck isn't intended to make any extra enemies until
+the endgame.
+
+The most important rule for Champion is to never use it. As soon as
+you have Champion out, your predator makes it a top priority to get it
+tapped or to burn/steal that minion. As long as that guy is just
+sitting there untapped with his Champion, your predator will dispair.
+Inspire is a very nice power because the individual effect is too small
+to get that worked up over, but when used repeatedly by multiple
+minions, it is devestating. Donate is very nice because people forget
+about it. I think I've mostly just used it for extra bleed, but
+could easily imagine wanting it for the other uses. I'm also a big fan
+of Rejuvenate. It's really the only thing that makes Beatrice
+playable. On the other hand, I've found very little use for Hide or
+Project. Most of the time, I just don't want to spend the extra
+convictions and gaining a little extra stealth or protection for one
+minion doesn't really contribute to the swarming strategy.
+
+I really haven't gotten much use out of these. I know some players
+swear by them, but I don't like bouncing bleeds to the wrong place and
+actions I have to stop are usually better handled by blocking or Direct
+Intervention.
+
+Crypt (12 cards, min=12, max=21, avg=4.08)
+------------------------------------------
+2x Travis "Traveler72" Miller	 5   def mar	  Martyr:4
+1x Earl "Shaka74" Deams		 6   jud mar viz  Visionary:4
+1x Jennie "Cassie247" Orne	 5   inn jud viz  Visionary:4
+1x Erick "Shophet125" Franco	 4   inn jud	  Judge:4
+1x Leaf "Potter116" Pankowski	 4   inn red viz  Redeemer:4
+1x Maman Boumba			 4   inn mar	  Martyr:4
+1x Paul "Sixofswords29" Moreton	 4   def vis	  Visionary:4
+1x Xian "DziDzat155" Quan	 4   def inn	  Defender:4
+1x Béatrice "Oracle171" Tremblay 3   inn ven	  Innocent:4
+1x Inez "Nurse216" Villagrande	 3   inn	  Innocent:4
+1x Liz "Ticket312" Thornton	 2   inn red	  Innocent:4
+
+Library (75 cards)
+Master (24)
+1x Anarch Troublemaker
+4x Angel of Berlin
+1x Barrens, The
+2x Brothers Grimm
+1x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Fortschritt Library
+1x Information Highway
+5x Memories of Mortality
+1x Parthenon, The
+1x Rose Foundation, The
+4x Sudden Reversal
+1x Unity
+
+Conviction (21)
+7x React with Conviction
+7x Second Sight
+7x Strike with Conviction
+
+Action (2)
+2x Bond
+
+Ally (2)
+1x Carlton Van Wyk
+1x Vagabond Mystic
+
+Power (18)
+2x Champion
+5x Donate
+1x Hide
+4x Inspire
+1x Project
+4x Rejuvenate
+1x Vigilance
+
+Reaction (4)
+4x Determine
+
+Event (4)
+1x Anthelios, The Red Star
+1x Edge Explosion
+1x Thirst
+1x Unmasking, The

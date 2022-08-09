@@ -1,0 +1,80 @@
+Praxis Seizure XXIV: Turku
+Turku, Finland
+August 20th 2005
+3R+F
+22 players
+Matti Palomäki
+
+Deck Name: säävarauksella
+
+Deck Description: The idea of the deck is to use the Escaped Mental
+Patients with Flash Grenades for tapping, Revelations and Change of
+Targets to get rid of Wakes and permanent bleed enhancers with some
+Dementation support for ousting. The EMPs are also great at slowing
+down too aggressive predators (or any players, for that matter) and
+defending against rushes and such.
+
+Crypt (12 cards, min=17, max=29, avg=5.67)
+------------------------------------------
+2x Korah			  7   AUS DEM OBF ani	priscus	    Malkavian antitribu:2
+2x General Perfidio Díos	  5   AUS dem obf	bishop	    Malkavian antitribu:3
+2x Roger Farnsworth		  4   OBF aus			    Malkavian antitribu:3
+1x Rodolfo			  8   AUS DEM OBF pro	bishop	    Malkavian antitribu:3
+1x Marie Faucigny		  7   AUS OBF dem tha	archbishop  Malkavian antitribu:3
+1x Dolphin Black		  6   AUS DEM OBF		    Malkavian antitribu:2
+1x Quira, The Bitch Queen	  6   AUS OBF obt tha		    Malkavian antitribu:2
+1x Colonel, The			  5   AUS cel dem obf		    Malkavian antitribu:3
+1x Idalia, Prophet of Guadalajara 4   AUS dem			    Malkavian antitribu:2
+
+Library (90 cards)
+Master (16)
+1x Anarch Troublemaker
+2x Blood Doll
+1x Church of the Order of St. Blaise
+2x Dreams of the Sphinx
+1x Elder Library
+1x Major Boon
+3x Perfectionist
+1x Powerbase: Chicago
+1x Powerbase: Washington, D.C.
+2x Rötschreck
+1x Sunset Strip, Hollywood
+
+Action (14)
+2x Madman's Quill
+4x Pulse of the Canaille
+1x Restructure
+4x Revelations
+1x Sibyl's Tongue
+2x Zillah's Tears
+
+Ally (9)
+1x Carlton Van Wyk
+8x Escaped Mental Patient
+
+Equipment (10)
+10x Flash Grenade
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (15)
+4x Change of Target
+2x Cloak the Gathering
+2x Elder Impersonation
+3x Eyes of Chaos
+1x Forgotten Labyrinth
+3x Walk through Arcadia
+
+Reaction (13)
+3x Telepathic Counter
+7x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (9)
+9x Concealed Weapon
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

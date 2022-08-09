@@ -1,0 +1,87 @@
+2004 Northeast Regional Qualifier
+Mansfield, Massachusetts
+February 21st 2004
+40 players
+Jonathan Mason
+
+Deck Name: Semi-Responsible Bleed
+
+the basic idea is somewhat responsible sneak and bleed with slightly
+more defense than an all out S&B deck might have, since they're all
+mid-cap vampires. Le Dinh Tho (i'd add a third of him if i owned
+another) takes the first action every turn to get rid of deflections,
+wake, intercept and other nastiness. get at least little obf on him if
+you can to make sure he can get his inherent action off. additionally,
+the change of targets and spying missions are there to make sure you
+don't bleed your grandprey too much. CoT is also good for drawing out
+wakes from your prey. I'd replace the dodges with absorb the minds if
+i owned them, since everyone in the crypt has dom. i'd also
+consider putting in a fragment of the book of nod. i stole one during
+one game and it really helped card flow. the kindred restructure is a
+prayer card and might be better as a dramatic upheaval so anyone could play it.
+
+that's mostly it. govern down for pool gain and more minions,
+especially early. the more actions you can take, the better. have fun!
+
+Crypt (12 cards, min=20, max=30, avg=6.42)
+------------------------------------------
+2x Gilbert Duane	    7	AUS DOM OBF	 prince	   Malkavian:1
+2x Greger Anderssen	    7	AUS OBF dom pro	 prince	   Malkavian:2
+2x Le Dinh Tho		    5	NEC aus dom	 	   Nagaraja:2
+1x Gratiano		    8	DOM OBT obf pot	 priscus   Lasombra:2
+1x Justine, Elder of Dallas 8	AUS DOM THA obf	 primogen  Tremere:1
+1x Mariel, Lady Thunder	    7	DOM OBF aus tha	 	   Malkavian:1
+1x Reverend Blackwood	    6	DOM THA obf	 bishop	   Tremere antitribu:2
+1x Didi Meyers		    5	DOM aus cel obf	 	   Malkavian:1
+1x Zebulon		    5	OBF aus dom pro	 	   Malkavian:1
+
+Library (90 cards)
+Master (19)
+2x Archon Investigation
+1x Asylum Hunting Ground
+1x Barrens, The
+4x Blood Doll
+2x Dominate
+1x Elder Library
+1x Giant's Blood
+1x Information Highway
+1x KRCG News Radio
+3x Obfuscate
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+
+Action (15)
+2x Dominate Kine
+2x Far Mastery
+1x Fifth Tradition: Hospitality
+9x Govern the Unaligned
+1x Graverobbing
+
+Equipment (2)
+2x Sport Bike
+
+Political Action (1)
+1x Kindred Restructure
+
+Action Modifier (31)
+5x Change of Target
+3x Cloak the Gathering
+3x Conditioning
+4x Elder Impersonation
+3x Faceless Night
+1x Foreshadowing Destruction
+1x Forgotten Labyrinth
+5x Lost in Crowds
+2x Spying Mission
+4x Threats
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (12)
+6x Deflection
+6x Wake with Evening's Freshness
+
+Combat (7)
+5x Absorb the Mind
+2x Dodge

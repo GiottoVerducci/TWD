@@ -1,0 +1,65 @@
+Epiphany: Washington, D.C. Qualifier
+Rockville, Maryland
+June 16th 2007
+3R+F
+20 players
+Tom Mickle
+
+Spiridonas 2007
+
+Crypt (14 cards, min=12, max=36, avg=6.07)
+------------------------------------------
+4x Spiridonas		9   DOM THA pot pre	prince	Tremere:2
+2x Ian Forestal		8   AUS DOM THA			Tremere antitribu:2
+2x Le Dinh Tho		5   NEC aus dom			Nagaraja:2
+1x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
+1x Kurt Strauss		5   DOM aus tha			Tremere antitribu:2
+1x Dan Murdock		3   aus obf			Caitiff:1
+1x Jing Wei		3   dom tha			Tremere:1
+1x Lena Rowe		3   aus obf pre			Pander:2
+1x Zöe			3   AUS cel obf			Malkavian:2
+
+Library (90 cards)
+Master (22)
+1x Academic Hunting Ground
+3x Blood Doll
+1x Channel 10
+2x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Giant's Blood
+7x Golconda: Inner Peace
+1x KRCG News Radio
+3x Minion Tap
+1x Prophecies of Gehenna
+1x University Hunting Ground
+
+Action (17)
+1x Aranthebes, The Immortal
+1x Dominate Kine
+10x Govern the Unaligned
+5x Revelations
+
+Equipment (1)
+1x Flaming Candle
+
+Political Action (1)
+1x Ancilla Empowerment
+
+Retainer (2)
+1x Charnas the Imp
+1x Mr. Winthrop
+
+Action Modifier (28)
+6x Bonding
+3x Foreshadowing Destruction
+8x Mirror Walk
+4x Seduction
+7x Veil the Legions
+
+Reaction (13)
+8x Deflection
+5x Wake with Evening's Freshness
+
+Combat (6)
+1x Dodge
+5x Majesty

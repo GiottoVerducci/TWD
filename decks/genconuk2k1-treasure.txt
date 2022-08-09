@@ -1,0 +1,88 @@
+English NC 2001 -- a.k.a UK National Cup 2001
+GenCon UK, London, England
+September 1st 2001
+Rob Treasure
+
+Deck Name: EuroBrujah 2001
+
+It's a reworked version of the old classic, built to handle most
+threats but a field of pure focus would not be the best. Other than
+my various Ventrue creations and the retired LoP. deck it is probably
+the one that I have spent most time over the years tweaking and analysing.
+Interestingly it is also the deck that I have scored the least VP's (1)
+with in a tourney with ? Metagames hey !!
+
+It tackles most common ‘tourney standard' decks very well and slugs it
+out with all but pure Gangrel Potence and Tzimisce Scorpion Sting/Blood
+of Acid. Got to be wary of Kiss of Ra and Hostile Takeover, they are
+really the only two things that really worry it consistently.
+
+I did have another Sudden Reversal and 2 Leathers in up to a few minutes
+before the tourney but traded them out for the Guardian Angel,
+another Disarm and a 7th Second Tradition.
+
+The Guardian Angel was amazingly useful and came out in most of the rounds,
+the 7th Second was exactly the right amount on the day. Very happy with the
+decks performance, it had enough whack to take out Beast and friends in a
+pure combat deck and was ‘focussed' enough to apply consistent pressure on
+my prey all the time.
+
+Crypt (12 cards, min=16, max=32, avg=6)
+---------------------------------------
+2x Constanza Vinti		 8   CEL DOM POT	  prince    Brujah:2
+2x Dónal O'Connor		 8   CEL DOM POT	  prince    Brujah:2
+2x Volker, The Puppet Prince	 5   CEL pot		  prince    Brujah:2
+1x Theo Bell			 7   POT cel dom pre	  	    Brujah:2
+1x Anvil			 6   CEL POT dom pre tha  primogen  Brujah:1
+1x Damaskenos, Herald of Leandro 6   DOM aus cel pot	  	    Malkavian:2
+1x Chas Giovanni Tello		 4   DOM POT		  	    Giovanni:2
+1x Jimmy Dunn			 4   CEL POT for	  	    Pander:2
+1x Dre, Leader of the Cold Dawn	 3   cel pot		  	    Brujah:1
+
+Library (91 cards)
+Master (13)
+4x Blood Doll
+1x Carthage Remembered
+1x Depravity
+1x Direct Intervention
+1x Dominate
+1x Dreams of the Sphinx
+1x Fame
+1x Guardian Angel
+1x Rack, The
+1x Sudden Reversal
+
+Action (8)
+4x Bum's Rush
+4x Govern the Unaligned
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (6)
+1x Archon
+1x Brujah Justicar
+1x Conservative Agitation
+2x Dramatic Upheaval
+1x Parity Shift
+
+Action Modifier (3)
+2x Conditioning
+1x Foreshadowing Destruction
+
+Reaction (14)
+5x Deflection
+7x Second Tradition: Domain
+2x Wake with Evening's Freshness
+
+Combat (46)
+5x Blur
+1x Burning Wrath
+3x Disarm
+5x Flash
+6x Immortal Grapple
+6x Pursuit
+1x Pushing the Limit
+8x Sideslip
+4x Taste of Vitae
+7x Torn Signpost

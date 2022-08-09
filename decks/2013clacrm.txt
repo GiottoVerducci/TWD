@@ -1,0 +1,77 @@
+Crusade: London and Copenhagen - Maryland NAC Qualifier
+Rockville, Maryland
+June 8th 2013
+3R+F
+19 players
+Matthew Morgan
+
+Deck Name: Bad Medicine
+
+Description: It's bad medicine because leeches and Molotov cocktails
+are bad for you and will not make you well.
+
+Goal: Antonio and one other guy. There's no reason to get more than two
+vampires. Extra pool is for Nephandi.
+
+Two Havens are not enough. Needs at least four. The Rack was probably
+stolen from some other deck at some point.
+
+I really like Leech. Only blocked once all day and it was by Jake.
+
+One Conditioning?!? Uh, yeah missing cards. Should be around four.
+
+A few times before when I played this deck I found myself in the
+odd position of having enough pool but being out of Nephandi.
+Didn't happen this time though.
+
+Delaying Tactics needed!
+
+Crypt (12 cards, min=12, max=20, avg=4.17)
+------------------------------------------
+6x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
+2x Keith Moody		3   DOM			Tremere antitribu:4
+1x Janine		4   aus dom tha		Tremere antitribu:4
+1x Mosfair		4   cel dom tha		Tremere antitribu:4
+1x Ember Wright		3   aus dom		Tremere antitribu:3
+1x Saiz			3   aus dom		Tremere antitribu:3
+
+Library (69 cards)
+Master (13)
+4x Blood Doll
+1x Direct Intervention
+1x Erciyes Fragments, The
+1x Fame
+1x Giant's Blood
+2x Haven Uncovered
+1x Rack, The
+1x Secure Haven
+1x University Hunting Ground
+
+Action (11)
+3x Bum's Rush
+2x Graverobbing
+6x Leech
+
+Ally (13)
+1x Carlton Van Wyk
+11x Nephandus
+1x Ossian
+
+Action Modifier (4)
+1x Conditioning
+3x Mirror Walk
+
+Reaction (10)
+6x Deflection
+4x On the Qui Vive
+
+Combat (14)
+2x Dead-End Alley
+3x Molotov Cocktail
+3x Target Vitals
+6x Trap
+
+Event (4)
+1x Dragonbound
+1x FBI Special Affairs Division
+2x Unmasking, The

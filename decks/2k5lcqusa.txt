@@ -1,0 +1,56 @@
+Last Chance Qualifier
+GenCon, Indianapolis, Indiana
+August 18th 2005
+3R+F
+58 players
+Andreas Nusser
+
+Deck Name: Zigeunerfasching
+
+Description: original deck creation idea by Kamel Senni
+
+Crypt (12 cards, min=8, max=15, avg=2.75)
+-----------------------------------------
+2x Sasha Miklos			2   chi		 Ravnos:2
+2x Spleen, Georgio Gutterpunk	2   ani chi	 Ravnos:2
+2x Zip				2   ani		 Ravnos:3
+1x Anka, Priestess of Thorns	4   ani chi pro	 Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro	 Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for	 Ravnos:2
+1x Lázár Dobrescu		3   for		 Ravnos:2
+1x Tsigane			3   aus chi	 Ravnos:2
+1x Vedel Esbreno		3   chi for	 Ravnos:2
+
+Library (90 cards)
+Master (45)
+2x Anarch Troublemaker
+6x Blood Doll
+6x Direct Intervention
+2x Fortune Teller Shop
+2x Last Stand
+2x Misdirection
+7x Parthenon, The
+1x Pentex(TM) Subversion
+9x Ravnos Carnival
+1x Specialization
+3x Tribute to the Master
+1x Visit from the Capuchin
+3x Week of Nightmares
+
+Action (27)
+27x Embrace, The
+
+Ally (5)
+5x Rom Gypsy
+
+Action Modifier (4)
+4x Change of Target
+
+Reaction (5)
+5x Delaying Tactics
+
+Event (4)
+1x Anthelios, The Red Star
+1x Blood Weakens
+1x Slow Withering, The
+1x Veil of Darkness

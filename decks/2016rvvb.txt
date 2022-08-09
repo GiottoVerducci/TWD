@@ -1,0 +1,74 @@
+Rebirth
+Vila Velha, Brazil
+December 29th 2016
+2R+F
+13 players
+Vinicius Costalonga
+https://www.vekn.net/event-calendar/event/8542
+
+-- 3VP in final
+
+Deck Name: SimCity
+Created by: Luiz Paulo Bonadiman + algumas zueiras
+
+Description: Pega o deck todo na mão e deixa as inimiga com inveja !
+
+Crypt (12 cards, min=14, max=36, avg=6.33)
+------------------------------------------
+4x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
+2x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
+2x Primo Giovanni		4   dom nec pot		 	  Giovanni:4
+2x Lia Milliner			3   dom nec		 	  Giovanni:3
+1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
+1x Gualtiero Ghiberti		7   DOM NEC cel pot tha	 	  Giovanni:4
+
+Library (90 cards)
+Master (24; 4 trifle)
+1x Barrens, The
+1x Direct Intervention
+1x Dis Pater
+1x Giant's Blood
+1x House of Sorrow
+1x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+1x Morgue Hunting Ground
+2x Parthenon, The
+1x Path of Bone, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Powerbase: Savannah
+1x Secure Haven
+2x Storage Annex
+1x Therbold Realty
+4x Vessel
+1x WMRH Talk Radio
+
+Action (14)
+2x Dominate Kine
+1x Far Mastery
+9x Govern the Unaligned
+2x Sudario Refraction
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Action Modifier (23)
+4x Bonding
+7x Call of the Hungry Dead
+6x Conditioning
+6x Seduction
+
+Action Modifier/Combat (1)
+1x Breath of Thanatos
+
+Action Modifier/Reaction (8)
+8x Spectral Divination
+
+Reaction (13)
+8x Deflection
+5x On the Qui Vive
+
+Combat (5)
+5x Spiritual Intervention

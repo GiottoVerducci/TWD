@@ -1,0 +1,72 @@
+Liga "NOVA ERA" Brasil PB - Battle Trance
+Campina Grande, Brazil
+February 19th 2017
+3R+F
+13 players
+Silvano Rafael Dantas
+https://www.vekn.net/event-calendar/event/8585
+
+-- 5VP in final
+
+Deck Name: deck malk a politica e uma loucura
+
+Crypt (13 cards, min=27, max=43, avg=8.85)
+------------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+2x Tryphosa		 10  AUS DEM DOM OBF POT	prince		Malkavian:4
+2x Bloody Mary		 8   AUS DEM OBF pre		primogen	Malkavian:5
+1x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
+1x Santaleous		 9   AUS CEL DEM OBF				Malkavian:5
+1x Lazarus James	 8   AUS DEM PRE obf tha			Malkavian:4
+1x Aleister Crowley	 7   DEM PRE THA aus obf			Malkavian:5
+1x Gem Ghastly		 6   DEM OBF aus		primogen	Malkavian:5
+1x Morel		 6   AUS DEM OBF				Malkavian:4
+
+Library (88 cards)
+Master (12; 3 trifle)
+1x Archon Investigation
+1x Asylum Hunting Ground
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Legendary Vampire
+2x Minion Tap
+1x Secure Haven
+1x Sudden Reversal
+3x Vessel
+
+Action (4)
+1x Aranthebes, The Immortal
+1x Blessing of Chaos
+2x Call, The
+
+Political Action (14)
+3x Consanguineous Boon
+1x Disputed Territory
+10x Kine Resources Contested
+
+Action Modifier (19)
+4x Bewitching Oration
+2x Bribes
+2x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+1x Into Thin Air
+2x Lost in Crowds
+2x Spying Mission
+
+Reaction (17)
+2x Forced Awakening
+3x On the Qui Vive
+2x Shattered Mirror
+8x Telepathic Misdirection
+2x Voice of Madness
+
+Combat (21)
+3x Coma
+4x Disengage
+7x Majesty
+7x No Trace
+
+Event (1)
+1x Fourth Cycle, The

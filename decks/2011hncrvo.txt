@@ -1,0 +1,66 @@
+HNC Round
+Veszprém, Hungary
+October 29th 2011
+2R+F
+10 players
+Róbert László
+
+Deck Name: Alliance of factions
+
+Description: Greetings from Hungary
+
+Crypt (12 cards, min=33, max=39, avg=9)
+---------------------------------------
+4x Dmitra Ilyanova	9   CEL FOR POT PRE obf		justicar    Brujah:5
+3x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+3x Undele		9   CEL FOR obf pre ser		magaji	    Ishtarri:5
+1x Count Germaine (ADV)	8   CEL FOR POT PRE obf			    Brujah:4
+1x Ubende		7   CEL PRE for obf qui		magaji	    Ishtarri:4
+
+Library (90 cards)
+Master (16; 10 trifle)
+1x Black Forest Base
+1x Giant's Blood
+1x Information Highway
+2x Obfuscate
+2x Vessel
+8x Villein
+1x Warzone Hunting Ground
+
+Action (2)
+1x Entrancement
+1x Heart of the City
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+2x Banishment
+5x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (46)
+2x Awe
+4x Bewitching Oration
+2x Elder Impersonation
+2x Faceless Night
+6x Forced March
+4x Forgotten Labyrinth
+6x Freak Drive
+4x Iron Glare
+1x Kiss of Ra, The
+4x Lost in Crowds
+1x Old Friends
+10x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Combat (11)
+7x Majesty
+2x Skin of Steel
+2x Soak

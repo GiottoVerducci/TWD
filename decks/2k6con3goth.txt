@@ -1,0 +1,66 @@
+Tournament III
+Gothenburg, Sweden
+March 11th 2006
+14 players
+Christoffer Arvidsson
+
+Deck Name: Trick or Treat
+
+Crypt (12 cards, min=10, max=25, avg=4.17)
+------------------------------------------
+1x Gabrin			8   ANI CHI dom for	Ravnos:2
+1x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
+1x Vaclav Petalengro		6   ANI CHI for pot	Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Anka, Priestess of Thorns	4   ani chi pro		Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for		Ravnos:2
+1x Lázár Dobrescu		3   for			Ravnos:2
+1x Tsigane			3   aus chi		Ravnos:2
+1x Vedel Esbreno		3   chi for		Ravnos:2
+1x Sasha Miklos			2   chi			Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+
+Library (90 cards)
+Master (20; 1 trifle)
+1x Archon Investigation
+4x Blood Doll
+4x Chimerstry
+1x Coven, The
+1x Dummy Corporation
+1x Fortune Teller Shop
+1x Park Hunting Ground
+4x Path of Paradox, The
+1x Pentex(TM) Subversion
+2x Week of Nightmares
+
+Action (28)
+11x Computer Hacking
+5x Embrace, The
+1x Fleecing the Gaje
+4x Patshiv
+7x Sensory Deprivation
+
+Action/Reaction (1)
+1x Draba
+
+Ally (1)
+1x Rom Gypsy
+
+Equipment (1)
+1x Treasured Samadji
+
+Action Modifier (14)
+12x Fata Morgana
+2x Red Herring
+
+Action Modifier/Combat (10)
+7x Mirror Image
+3x Occlusion
+
+Reaction (9)
+5x Forced Awakening
+4x Ignis Fatuus
+
+Combat (6)
+6x Apparition

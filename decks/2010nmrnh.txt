@@ -1,0 +1,64 @@
+NB round
+Nagymaros, Hungary
+March 20th 2010
+3R+F
+30 players
+Gyula Erdõs
+
+Deck Name: VentrueAnti1.1
+
+4gw including 3VP in final
+
+Crypt (12 cards, min=16, max=30, avg=5.75)
+------------------------------------------
+2x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 	 Ventrue antitribu:3
+2x Blackhorse Tanner		7   AUS DOM FOR		 	 Ventrue antitribu:3
+2x Neighbor John		5   AUS dom for		 	 Ventrue antitribu:4
+1x Joseph O'Grady		7   DOM FOR aus cel	 	 Ventrue antitribu:3
+1x Jefferson Foster		6   AUS DOM for tha	 bishop	 Ventrue antitribu:4
+1x Jephta Hester		5   DOM FOR aus		 	 Ventrue antitribu:4
+1x Louis de Maisonneuve		5   FOR aus dom obf	 	 Ventrue antitribu:4
+1x Lana Butcher			3   dom for		 	 Ventrue:3
+1x Ulrike Rothbart		3   dom for		 	 Ventrue antitribu:4
+
+Library (89 cards)
+Master (17; 6 trifle)
+2x Anarch Troublemaker
+1x Channel 10
+1x Corporate Hunting Ground
+4x Dreams of the Sphinx
+1x Misdirection
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+4x Vessel
+2x Wash
+
+Action (10)
+10x Govern the Unaligned
+
+Equipment (3)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+
+Action Modifier (10)
+1x Bonding
+6x Conditioning
+1x Daring the Dawn
+2x Freak Drive
+
+Reaction (31)
+9x Deflection
+2x Delaying Tactics
+2x Eagle's Sight
+2x Enhanced Senses
+8x Eyes of Argus
+2x My Enemy's Enemy
+5x On the Qui Vive
+1x Telepathic Misdirection
+
+Combat (18)
+10x Hidden Strength
+2x Rolling with the Punches
+1x Taste of Vitae
+5x Weighted Walking Stick

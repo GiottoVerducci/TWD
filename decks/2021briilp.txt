@@ -1,0 +1,67 @@
+Bloody Ruby II
+Lublin, Poland
+July 17th 2021
+3R+F
+14 players
+Marcin Szybkowski
+https://www.vekn.net/event-calendar/event/9827
+
+-- 2GW8 + 4VP in final
+
+Deck Name: The Lioness of Jerusalem
+Description: Qawiyya multi rush
+Suggested changes after the tournament:
+- Games of Instinct has to go (too situational), replace with Nose of the Hound;
+- Secure Haven was for contesting, haven't drawn it in any of the games, still wondering if I should keep it.
+
+Amaranth link: amaranth.vtes.co.nz/#deck/3e0d9440-ad2b-496f-a518-d7cc88267e85
+
+Crypt (12 cards, min=25, max=36, avg=7.75)
+------------------------------------------
+5x Qawiyya el-Ghaduba	   9   FOR POT VAL aus pre  	    Salubri antitribu:5
+3x Eurayle Gelasia Mylonas 6   AUS OBE for pre	    	    Salubri:4
+2x Uriel		   8   AUS FOR VAL ani obe  bishop  Salubri antitribu:4
+2x Michaela		   7   AUS FOR PRE VAL	    	    Salubri antitribu:5
+
+Library (90 cards)
+Master (16; 7 trifle)
+1x Code of Samiel
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+2x Haven Uncovered
+1x Path of Retribution, The
+1x Perfectionist
+1x Secure Haven
+2x Vessel
+4x Villein
+1x Wider View
+
+Action (12)
+1x Games of Instinct
+5x Rumble
+6x Sense Death
+
+Equipment (6)
+6x Blade of Bellona
+
+Action Modifier (9)
+5x Freak Drive
+4x Gift of Bellona
+
+Reaction (12)
+4x Eyes of Argus
+4x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (35)
+5x Armor of Caine's Fury
+4x Death Seeker
+1x Disarm
+2x Hidden Strength
+4x Indomitability
+2x Righteous Aura
+4x Sword of the Righteous
+5x Taste of Vitae
+4x Unflinching Persistence
+4x Vengeance of Samiel

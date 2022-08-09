@@ -1,0 +1,55 @@
+Italian ECQ
+Bologna, Italy
+June 30th 2013
+3R+F
+27 players
+Danilo Torrisi
+
+-- 4VP in final
+
+Deck Name: tupdog
+
+Crypt (28 cards, min=4, max=19, avg=1.75)
+-----------------------------------------
+21x Tupdog		1    POT VIS		Gargoyle:3
+2x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+1x  Esoara		5    DOM aus for pot	Tremere antitribu:4
+1x  Mosfair		4    cel dom tha	Tremere antitribu:4
+1x  Ember Wright	3    aus dom		Tremere antitribu:3
+1x  Keith Moody		3    DOM		Tremere antitribu:4
+1x  Saiz		3    aus dom		Tremere antitribu:3
+
+Library (90 cards)
+Master (12)
+2x Direct Intervention
+1x Fame
+1x Fortschritt Library
+1x Golconda: Inner Peace
+6x Information Highway
+1x Pentex(TM) Subversion
+
+Action (6)
+6x Graverobbing
+
+Ally (13)
+12x Rock Cat
+1x Vagabond Mystic
+
+Political Action (8)
+8x Autarkis Persecution
+
+Reaction (12)
+8x Deflection
+4x Delaying Tactics
+
+Combat (36)
+8x Brick by Brick
+6x Disarm
+8x Immortal Grapple
+8x Raking Talons
+6x Undead Strength
+
+Event (3)
+1x Dragonbound
+1x FBI Special Affairs Division
+1x Unmasking, The

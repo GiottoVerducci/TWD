@@ -1,0 +1,52 @@
+Mosca na sopa
+São Paulo, Brazil
+August 23rd 2015
+3R+F
+13 players
+Francisco Mantovanini Carvalho
+https://www.vekn.net/event-calendar/event/8174
+
+-- 3VP in final
+
+Deck Name: Turbo Cybele
+
+Crypt (13 cards, min=40, max=40, avg=10)
+----------------------------------------
+13x Cybele 10	ANI DAI OBF PRE SER THA	 Baali:4
+
+Library (90 cards)
+Master (34; 9 trifle)
+2x Celerity
+2x Dark Influences
+7x Dementation
+2x Dreams of the Sphinx
+9x Golconda: Inner Peace
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+9x Villein
+
+Action (16)
+9x Call the Great Beast
+6x Magic of the Smith
+1x Unleash Hell's Fury
+
+Equipment (3)
+3x Soul Gem of Etrius
+
+Action Modifier (30)
+2x Approximation of Loyalty
+7x Elder Impersonation
+7x Faceless Night
+7x Lost in Crowds
+2x Psychomachia
+5x Truth of a Thousand Lies
+
+Action Modifier/Combat (4)
+2x Force of Personality
+2x Hide the Mind
+
+Event (3)
+1x Anthelios, The Red Star
+1x Fourth Cycle, The
+1x Narrow Minds

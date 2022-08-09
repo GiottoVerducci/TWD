@@ -1,0 +1,67 @@
+First Blood
+Online
+January 9th 2021
+3R+F
+30 players
+Desso Alastor
+https://www.vekn.net/event-calendar/event/9720
+
+-- 4VP in final
+
+Deck Name: ANATHEMA
+
+Crypt (12 cards, min=36, max=43, avg=9.92)
+------------------------------------------
+5x Xaviar (ADV)	  10  ABO ANI FOR PRO aus cel pot  justicar	 Gangrel:3
+4x Ingrid Rossler 9   ANI FOR PRO dom		   prince	 Gangrel:2
+3x Stanislava	  11  ANI CEL DOM FOR PRO	   inner circle	 Gangrel:2
+
+Library (90 cards)
+Master (15; 4 trifle)
+1x Backways
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+2x Information Highway
+1x Mob Connections
+1x Monastery of Shadows
+1x Tension in the Ranks
+2x Vessel
+2x Villein
+1x Zoo Hunting Ground
+
+Action (5)
+4x Deep Song
+1x Rewilding
+
+Equipment (4)
+4x Assault Rifle
+
+Political Action (14)
+5x Alastor
+7x Anathema
+2x Ancilla Empowerment
+
+Retainer (2)
+2x Dog Pack
+
+Action Modifier (9)
+2x Earth Control
+7x Freak Drive
+
+Action Modifier/Combat (3)
+3x Predator's Transformation
+
+Reaction (10)
+5x Second Tradition: Domain
+5x Sense the Savage Way
+
+Combat (27)
+9x Carrion Crows
+5x Flesh of Marble
+4x Hidden Strength
+6x Indomitability
+3x Taste of Vitae
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,64 @@
+Command Performance
+Rockville, Maryland
+July 31st 2010
+3R+F
+28 players
+Ruben Feldman
+
+Deck Name: Ugly Aggression
+
+4gw17 including 5VP in final
+
+Crypt (12 cards, min=15, max=35, avg=6.75)
+------------------------------------------
+4x Selma the Repugnant	8   OBF POT ani for	prince	Nosferatu:1
+3x Suhailah		9   FOR OBF pot ser	prince	Ventrue:2
+1x Murat		7   OBF POT ser		prince	Nosferatu:2
+1x Nikolaus Vermeulen	7   POT ani for obf	prince	Nosferatu:2
+1x Dan Murdock		3   aus obf			Caitiff:1
+1x Duck			3   obf pot			Nosferatu:1
+1x Dimple		2   obf				Nosferatu:1
+
+Library (70 cards)
+Master (22)
+1x Archon Investigation
+1x Giant's Blood
+1x Jake Washington
+1x Kaymakli Nightmares
+1x Labyrinth, The
+1x Last Stand
+3x Legendary Vampire
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Warsaw Station
+8x Zillah's Valley
+
+Action (4)
+2x Fourth Tradition: The Accounting
+2x Third Tradition: Progeny
+
+Political Action (15)
+1x Consanguineous Boon
+2x Conservative Agitation
+1x Domain Challenge
+2x Kine Resources Contested
+2x Nosferatu Justicar
+7x Parity Shift
+
+Action Modifier (21)
+2x Elder Impersonation
+4x Faceless Night
+4x Freak Drive
+9x Lost in Crowds
+2x Old Friends
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (4)
+2x Mental Maze
+2x Second Tradition: Domain
+
+Event (2)
+1x Anthelios, The Red Star
+1x Bitter and Sweet Story, The

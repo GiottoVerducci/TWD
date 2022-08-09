@@ -1,0 +1,96 @@
+Deed The Heart's Desire
+Boston, Massachusetts
+September 7th 2008
+10 players
+Matthew Hirsch
+
+Deck Name: Lasombra Mamba 2008
+
+This is a variant of the Lasombra obt/dom stealth/bleed deck that I've
+been playing for years. The primary function is stealth/bleed, but it
+has a few non-stealth options like Anarch Troublemakers and
+Seduction. The biggest change I made for this particular variant was
+going for group 3/4 instead of group 2/3. The g3/4 crypt is
+definitely weaker on votes but has a somewhat better selection of obt/
+dom mid-caps.
+
+a toolboxy throw-in
+
+good for shattering hearts and sport bikes
+
+Primarily used to avoid AI, or to scope out wakes or bounce.
+
+Really not worth a blood or a card slot.
+
+Obviously could use some On the Qui Vive
+
+Crypt (12 cards, min=17, max=30, avg=5.75)
+------------------------------------------
+1x Dr. Julius Sutphen		5   POT dom obt		 bishop	 Lasombra:3
+1x Dr. Julius Sutphen (ADV)	5   POT dom obt		 	 Lasombra:3
+1x Conrad Adoula		8   DOM OBT POT ani cel	 	 Lasombra:4
+1x Giangaleazzo, The Traitor	8   OBT POT PRE dom	 prince	 Lasombra:4
+1x Lord Vauxhall		7   DOM OBT POT THA	 	 Lasombra:4
+1x Tobias Smith			7   DOM OBT PRE pot	 	 Lasombra:3
+1x Onaedo			6   DOM OBT aus pot	 	 Lasombra:4
+1x Virginie, Prodigy		6   DOM POT obt		 bishop	 Lasombra:4
+1x Andrew Emory			5   OBT aus dom pot	 bishop	 Lasombra:4
+1x Ermenegildo, The Rake	5   DOM OBT pot		 	 Lasombra:4
+1x Leila Monroe			4   dom obt pre		 	 Lasombra:4
+1x Lucy Markowitz		3   dom obt		 	 Lasombra:4
+
+Library (90 cards)
+Master (15)
+3x Anarch Troublemaker
+1x Barrens, The
+5x Blood Doll
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+1x Political Hunting Ground
+1x Power Structure
+1x Sudden Reversal
+
+Action (8)
+1x Far Mastery
+6x Govern the Unaligned
+1x Shadow Twin
+
+Equipment (3)
+1x Monocle of Clarity
+1x Palatial Estate
+1x Zaire River Ferry
+
+Political Action (2)
+1x Conservative Agitation
+1x Disputed Territory -- One of my favorite toolbox cards.
+
+Action Modifier (27)
+2x Blanket of Night -- An expensive Elder Impersonation, but it's still worth it for big bleeds.
+2x Bonding
+6x Conditioning
+1x Foreshadowing Destruction
+1x Nightshades -- This card is junk, but I get tempted by its cheapness. Replace w/Seduction.
+3x Seduction
+6x Shadow Play
+3x Shroud of Night -- for $20 on eBay, you can say "absence" instead of "night"
+3x Tenebrous Form
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (20)
+7x Deflection
+3x Forced Awakening
+2x Obedience
+1x Redirection
+1x Touch of Pain
+6x Wake with Evening's Freshness
+
+Combat (14)
+7x Arms of the Abyss
+2x Entombment
+1x Oubliette
+1x Pushing the Limit
+1x Shattering Blow
+2x Thrown Gate

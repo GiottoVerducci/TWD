@@ -1,0 +1,64 @@
+Ropecon Finnish ECQ
+Ropecon 2015 gaming convention, Dipoli, Espoo, Finland
+May 15th 2014
+3R+F
+47 players
+Jens Johansson
+
+Deck Name: It's a friendly deck, don't trust the setites
+Created by: Randal Rudstam
+
+When the Unaligned set was release I was very interested in some of the new FoS cards, I wanted to play reckless and parity shift in the same deck.
+After some time and much work on the deck, me and my good friend Stefan Karlsson, who also was working on a similar deck, built this deck, minor differences,
+this became me latest version. Some changes are about to happen.
+Kemintiris abilities led to two big things in the final. One she was able to rush Lucinde, Alastor and Arika and use Serpents numbing kiss to "mind numb" them.
+Also in the heads up with the same deck the so called "venture Justicar" used the extra bleed she gets against Venture to great effect.
+
+Crypt (13 cards, min=28, max=40, avg=8.69)
+------------------------------------------
+4x Kemintiri		    10	OBF PRE SER THA aus dom	 	 Follower of Set:2
+1x Kemintiri (ADV)	    10	OBF PRE SER THA aus dom	 	 Follower of Set:2
+1x Sarrasine (ADV)	    8	OBF PRE SER aus nec	 prince	 Follower of Set:2
+4x Sarrasine		    7	OBF PRE aus nec ser	 	 Follower of Set:2
+3x Khay'tall, Snake of Eden 9	DOM OBF PRE SER aus	 	 Follower of Set:2
+
+Library (73 cards)
+Master (25; 6 trifle)
+1x Cave of Apples
+10x Eternals of Sirius, The
+1x Ferraille
+1x Monastery of Shadows
+1x Opium Den
+2x Parthenon, The
+2x Protected Resources
+1x Secure Haven
+4x Villein
+2x Wider View
+
+Action (5)
+5x Epiphany
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x Banishment
+4x Kine Resources Contested
+4x Parity Shift
+4x Reckless Agitation
+1x Rumors of Gehenna
+
+Action Modifier (16)
+1x Approximation of Loyalty
+1x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+1x Into Thin Air
+2x Lost in Crowds
+2x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Reaction (6)
+6x Velvet Tongue
+
+Combat (3)
+3x Serpent's Numbing Kiss

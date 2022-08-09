@@ -1,0 +1,63 @@
+English ECQ
+Cambridge, England
+May 1st 2004
+19 players
+Anthony Coleman
+
+Crypt (12 cards, min=12, max=28, avg=4.83)
+------------------------------------------
+2x Gratiano			 8   DOM OBT obf pot	priscus	 Lasombra:2
+1x Aurora Van Brande, Paladin	 6   OBT dom for pot		 Lasombra:2
+1x Talley, The Hound		 6   OBT POT aus dom		 Lasombra:2
+1x Banjoko			 5   DOM obt pot		 Lasombra:3
+1x Guido Lucciano		 5   OBT dom obf		 Lasombra:2
+1x Ignacio, The Black Priest	 4   dom obt pot		 Lasombra:2
+1x Ramiro			 4   dom obt vic		 Lasombra:2
+1x Tabitha Fisk			 4   obt pot pro		 Lasombra:3
+1x Cameron			 3   dom pot			 Lasombra:2
+1x Hester Reed			 3   obt pot			 Lasombra:3
+1x Aaron Duggan, Cameron's Toady 2   obt			 Lasombra:2
+
+Library (88 cards)
+Master (18)
+1x Blood Doll
+2x Dominate
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Humanitas
+1x Hungry Coyote, The
+2x Obtenebration
+2x Path of Night, The
+4x Power Structure
+2x Tribute to the Master
+
+Action (11)
+2x Creation Rites
+3x Embrace, The
+4x Govern the Unaligned
+2x Scouting Mission
+
+Political Action (18)
+1x Cardinal Benediction
+6x Consanguineous Boon
+1x Crusade: Mexico City
+1x Crusade: Philadelphia
+1x Crusade: Pittsburgh
+2x Dramatic Upheaval
+6x Kine Resources Contested
+
+Action Modifier (21)
+1x Blanket of Night
+3x Conditioning
+2x Foreshadowing Destruction
+5x Shadow Play
+2x Shroud of Absence
+6x Shroud of Night
+2x Tenebrous Form
+
+Reaction (14)
+7x Deflection
+7x Wake with Evening's Freshness
+
+Combat (6)
+6x Shadow Body

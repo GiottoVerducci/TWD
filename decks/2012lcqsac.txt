@@ -1,0 +1,49 @@
+SAC 2012 - Last Chance Qualifier
+Rio de Janeiro, Brazil
+November 15th 2012
+3R+F
+20 players
+Thiago Sousa
+
+Deck Name: Inner Circle
+
+Crypt (12 cards, min=36, max=44, avg=10.33)
+-------------------------------------------
+3x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+3x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
+1x Stavros		 7   AUS OBF PRE dem		priscus		Malkavian antitribu:4
+
+Library (90 cards)
+Master (23; 2 trifle)
+1x Dreams of the Sphinx
+4x Golconda: Inner Peace
+4x Information Highway
+7x Minion Tap
+1x Secure Haven
+1x Wash
+1x Wider View
+4x Zillah's Valley
+
+Political Action (19)
+4x Banishment
+1x Disputed Territory
+11x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (36)
+4x Awe
+6x Elder Impersonation
+5x Forgotten Labyrinth
+5x Lost in Crowds
+8x Sleep Unseen
+8x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Combat (8)
+8x Majesty

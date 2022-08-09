@@ -1,0 +1,73 @@
+Conquest of Humanity
+Stone Mountain, Atlanta, Georgia
+June 20th 2009
+2R+F
+10 players
+Mattias Kallenberg
+http://thelasombra.com/newsletter/gangrel_october_2006.htm
+
+-- 3.5VP in final
+
+Deck Name: Wheelchair Vampire
+
+Based on a deck by Andrew 'Wes' Weston
+
+Crypt (12 cards, min=14, max=29, avg=5.17)
+------------------------------------------
+3x Nadima		8   FOR PRO SER ani aus	 Gangrel:3
+3x Mirembe Kabbada	5   PRO SER ani		 Gangrel:2
+1x Ramona		4   for pro		 Gangrel:2
+1x Ramona (ADV)		4   for pro		 Gangrel:2
+2x Chandler Hungerford	3   PRO			 Gangrel:2
+1x Dr. Allan Woodstock	5   PRO ani aus for	 Gangrel:3
+1x Daliyah		4   PRO obf		 Nosferatu:2
+
+Library (90 cards)
+Master (16; 1 trifle)
+1x Backways
+1x Barrens, The
+1x Bleeding the Vine
+4x Blood Doll
+1x Coven, The
+2x Ecoterrorists
+1x House of Sorrow
+1x Pentex(TM) Subversion
+3x Perfectionist
+1x WMRH Talk Radio
+
+Action (18)
+1x Abomination
+1x Army of Rats
+8x Computer Hacking
+6x Enticement
+1x Form of Corruption
+1x Gather
+
+Ally (3)
+2x Procurer
+1x Walks-With-Might
+
+Retainer (10)
+1x Homunculus
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+4x Raven Spy
+1x Robert Carter
+1x Tasha Morgan
+
+Action Modifier (6)
+6x Earth Control
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Reaction (8)
+8x Forced Awakening
+
+Combat (26)
+4x Claws of the Dead
+8x Earth Meld
+2x Flesh of Marble
+10x Form of Mist
+2x Quick Meld

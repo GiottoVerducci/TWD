@@ -1,0 +1,67 @@
+Ohio Valley Regionals
+Newark, Ohio
+April 14th 2012
+2R+F
+14 players
+Will Kristoff
+
+Deck Name: Inter-Galactic Slime Belt
+
+Crypt (12 cards, min=16, max=24, avg=5.33)
+------------------------------------------
+2x Dr. Douglas Netchurch 6   AUS OBF dem dom	Malkavian:3
+2x Drusilla Euphemia	 6   AUS OBF dem vic	Malkavian antitribu:4
+2x Ingram Frizer	 6   AUS OBF ani pot	Nosferatu antitribu:3
+2x Morel		 6   AUS DEM OBF	Malkavian:4
+2x Florentina Lengauer	 4   OBF aus		Malkavian:4
+2x Roger Farnsworth	 4   OBF aus		Malkavian antitribu:3
+
+Library (90 cards)
+Master (12; 3 trifle)
+1x Asylum Hunting Ground
+1x Barrens, The
+3x Blood Doll
+1x Elder Library
+1x Failsafe
+1x Metro Underground
+2x Perfectionist
+1x Wash
+1x Wider View
+
+Action (1)
+1x Conceal
+
+Equipment (5)
+4x Camera Phone
+1x Ivory Bow
+
+Retainer (4)
+2x Childling Muse
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (31)
+3x Cloak the Gathering
+4x Elder Impersonation
+4x Faceless Night
+4x Leverage
+4x Lost in Crowds
+5x Old Friends
+5x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (25)
+3x Eyes of Argus
+2x On the Qui Vive
+4x Telepathic Counter
+8x Telepathic Misdirection
+8x Wake with Evening's Freshness
+
+Combat (7)
+7x No Trace
+
+Event (1)
+1x Fourth Cycle, The

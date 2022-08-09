@@ -1,0 +1,60 @@
+Buffet contre les vampires
+Paris, France
+August 4th 2007
+16 players
+Reyda Seddiki
+
+Deck: Uta, Selena, Yasmin, y otras chicas del monton
+(Uta, Selena, Yasmin and other girls from the heap)
+
+Crypt (12 cards, min=20, max=31, avg=6.42)
+------------------------------------------
+3x Uta Kovacs				8   AUS DOM THA ser		Tremere antitribu:4
+3x Valerius Maior, Hell's Fool (ADV)	7   AUS DAI DOM THA nec pre	Tremere antitribu:4
+2x Selena				6   AUS DOM THA			Tremere antitribu:3
+2x Yasmin the Black			6   AUS THA dom pre		Tremere antitribu:3
+2x Mosfair				4   cel dom tha			Tremere antitribu:4
+
+Library (87 cards)
+Master (14; 7 trifle)
+6x Blood Doll
+2x Corporal Reservoir
+1x Fame
+3x Hand Contract
+2x Wash
+
+Action (10)
+2x Abbot
+1x Concordance
+3x Govern the Unaligned
+3x Graverobbing
+1x Recure of the Homeland
+
+Equipment (3)
+1x Bowl of Convergence
+1x Ivory Bow
+1x Ruins of Ceoris
+
+Action Modifier (9)
+4x Foreshadowing Destruction
+2x Mirror Walk
+3x Serenading the Kami
+
+Reaction (24)
+3x Deflection
+2x Eagle's Sight
+3x Enhanced Senses
+7x Forced Awakening
+2x On the Qui Vive
+4x Precognition
+2x Spirit's Touch
+1x Telepathic Misdirection
+
+Combat (27)
+4x Apportation
+2x Aura Reading
+5x Blood Fury
+4x Burst of Sunlight
+1x Drain Essence
+2x Telepathic Tracking
+9x Theft of Vitae

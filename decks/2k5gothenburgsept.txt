@@ -1,0 +1,67 @@
+Tournament
+Gothenburg, Sweden
+September 10th 2005
+3R+F
+13 players
+Erik Torstensson
+
+Deck Name: Summon the Serpent
+
+Crypt (12 cards, min=23, max=40, avg=8.33)
+------------------------------------------
+6x Cybele			10  ANI DAI OBF PRE SER THA		  Baali:4
+1x Neferu			9   OBF PRE SER THA dom nec	2 votes	  Follower of Set:4
+1x Cagliostro, The Grand Copht	8   OBF PRE SER nec pot			  Follower of Set:4
+1x Amenophobis			7   OBF SER dom pre		primogen  Follower of Set:4
+1x Allonzo Montoya		6   OBF SER ani aus			  Abomination:3
+1x Ankh-sen-Sutekh		6   PRE SER obf				  Follower of Set:4
+1x Sahira Siraj			4   obf ser tha				  Follower of Set:4
+
+Library (90 cards)
+Master (40)
+2x Auspex
+2x Celerity
+1x Direct Intervention
+1x Dominate
+3x Dreams of the Sphinx
+1x Dummy Corporation
+2x Fortitude
+2x Fortschritt Library
+1x From a Sinking Ship
+1x Giant's Blood
+2x Golconda: Inner Peace
+7x Minion Tap
+1x Momentum's Edge
+2x Parthenon, The
+2x Redeem the Lost Soul
+1x Ruins of Charizel
+1x Sudden Reversal
+5x Vast Wealth
+3x Visit from the Capuchin
+
+Action (19)
+9x Call the Great Beast
+3x Entrancement
+2x Form of Corruption
+5x Temptation
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Action Modifier (25)
+2x Cloak the Gathering
+1x Domain of Evernight
+2x Elder Impersonation
+2x Faceless Night
+5x Lost in Crowds
+2x Spying Mission
+11x Truth of a Thousand Lies
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Event (1)
+1x Anthelios, The Red Star

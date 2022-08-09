@@ -1,0 +1,65 @@
+German NC 2016
+Bochum, Germany
+December 3rd 2016
+3R+F
+19 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/8345
+
+-- 2GW6.5 + 1.5VP in final
+
+Deck Name: weenie animalism minimal: "Ich bin eine von wir"
+
+played (untested) at the German Nationals 03.12.2016, Bochum
+
+Crypt (12 cards, min=8, max=21, avg=3.75)
+-----------------------------------------
+2x Stick		3   ANI				Nosferatu antitribu:4
+1x Janey Pickman	6   ANI PRO for			Gangrel antitribu:4
+1x Céleste Lamontagne	5   ANI PRO for			Gangrel antitribu:4
+1x Effie Lowery		5   ANI SPI obf			Ahrimane:4
+1x Sahana		5   ANI pre pro spi		Ahrimane:4
+1x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
+1x Beetleman		4   ANI obf			Nosferatu:4
+1x Bobby Lemon		4   ANI pro			Gangrel:3
+1x Mouse		2   ani				Nosferatu:3
+1x Zip			2   ani				Ravnos:3
+1x Lisa Noble		1   ani				Caitiff:3
+
+Library (90 cards)
+Master (12)
+5x Blood Doll
+1x Direct Intervention
+1x Fame
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+2x Powerbase: Montreal
+1x Rack, The
+
+Action (14)
+2x Abbot
+1x Aranthebes, The Immortal
+1x Army of Rats
+10x Deep Song
+
+Equipment (1)
+1x Sniper Rifle
+
+Retainer (7)
+1x Mr. Winthrop
+6x Raven Spy
+
+Reaction (18)
+5x Cats' Guidance
+3x Delaying Tactics
+4x Forced Awakening
+5x On the Qui Vive
+1x Wake with Evening's Freshness
+
+Combat (38)
+16x Aid from Bats
+2x Canine Horde
+11x Carrion Crows
+1x Pack Alpha
+6x Taste of Vitae
+2x Terror Frenzy

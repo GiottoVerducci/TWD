@@ -1,0 +1,63 @@
+Manse Saunaparty
+Tampere, Finland
+April 4th 2008
+2R+F
+15 players
+Antti Tirilä
+
+-- 5VP in final
+
+"Cheesebox"
+
+Crypt (12 cards, min=15, max=27, avg=5.5)
+-----------------------------------------
+3x Iliana		7   DOM FOR PRO tha		Gangrel:2
+2x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
+2x Lisette Vizquel	6   DOM POT pro		bishop	Lasombra:2
+2x Chandler Hungerford	3   PRO				Gangrel:2
+1x Horrock		6   ANI PRO vic			Gangrel:3
+1x Mirembe Kabbada	5   PRO SER ani			Gangrel:2
+1x Daliyah		4   PRO obf			Nosferatu:2
+
+Library (90 cards)
+Master (17; 5 trifle)
+1x Anarch Troublemaker
+1x Channel 10
+1x Coven, The
+2x Dominate
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Jake Washington
+1x KRCG News Radio
+2x Perfectionist
+4x Vessel
+1x WMRH Talk Radio
+
+Action (11)
+1x Aranthebes, The Immortal
+10x Govern the Unaligned
+
+Equipment (6)
+1x Camera Phone
+1x Cooler
+1x Laptop Computer
+1x Seal of Veddartha
+2x Sport Bike
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (11)
+5x Conditioning
+6x Earth Control
+
+Reaction (18)
+8x Deflection
+4x Sonar
+6x Wake with Evening's Freshness
+
+Combat (24)
+14x Earth Meld
+10x Form of Mist

@@ -1,0 +1,62 @@
+Everybody cool...you be cool!
+Santiago, Chile
+March 29th 2008
+3R+F
+12 players
+Hernán Rodríguez
+
+Deck Name: Enkidu & Friends
+
+Description: A deck that enter in combat with Enkidu or another
+vampire support like Karsh and Hrothulf, and bleed or use Dominate
+with the rest of vampire. Very nice deck in a metagame with a lot
+of combat.
+
+Crypt (12 cards, min=14, max=43, avg=7.33)
+------------------------------------------
+3x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+2x Karsh	    10	ANI CEL FOR POT PRO	 Gangrel:3
+2x Hrothulf	    8	CEL FOR PRE dom pot pro	 Ventrue:3
+1x Banjoko	    5	DOM obt pot		 Lasombra:3
+1x Jephta Hester    5	DOM FOR aus		 Ventrue antitribu:4
+1x Almodo Giovanni  3	dom pot			 Giovanni:4
+1x Keith Moody	    3	DOM			 Tremere antitribu:4
+1x Lia Milliner	    3	dom nec			 Giovanni:3
+
+Library (90 cards)
+Master (16; 2 trifle)
+3x Blood Doll
+1x Depravity
+3x Dreams of the Sphinx
+2x Fame
+2x Minion Tap
+1x Powerbase: Montreal
+1x Secure Haven
+2x Vessel
+1x Yawp Court
+
+Action (3)
+3x Graverobbing
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (14)
+8x Conditioning
+6x Forced March
+
+Reaction (7)
+6x Deflection
+1x Delaying Tactics
+
+Combat (48)
+4x Bone Spur
+6x Claws of the Dead
+5x Drawing Out the Beast
+7x Flesh of Marble
+8x Immortal Grapple
+8x Pursuit
+3x Skin of Steel
+1x Superior Mettle
+6x Taste of Vitae

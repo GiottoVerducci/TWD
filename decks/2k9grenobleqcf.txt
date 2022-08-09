@@ -1,0 +1,51 @@
+French NCQ
+Grenoble, France
+May 16th 2009
+3R+F
+20 players
+Yannick Gibert
+
+Deck Name: Viens voir mon Gros Lulu
+
+Description: Terrorist deck, friend of all the players of the table
+
+Crypt (12 cards, min=4, max=20, avg=3)
+--------------------------------------
+4x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
+4x Tupdog		1   POT VIS		Gargoyle:3
+2x Keith Moody		3   DOM			Tremere antitribu:4
+1x Ember Wright		3   aus dom		Tremere antitribu:3
+1x Lectora		3   aus tha		Tremere antitribu:4
+
+Library (75 cards)
+Master (15; 1 trifle)
+6x Blood Doll
+1x Coven, The
+1x Fame
+1x Fortschritt Library
+2x Frontal Assault
+2x Haven Uncovered
+1x Hungry Coyote, The
+1x Powerbase: Montreal
+
+Action (12)
+1x Aranthebes, The Immortal
+10x Bum's Rush
+1x Graverobbing
+
+Ally (9)
+9x Nephandus
+
+Equipment (10)
+10x Saturday-Night Special
+
+Reaction (7)
+4x Deflection
+3x Delaying Tactics
+
+Combat (20)
+10x Concealed Weapon
+10x Dragon's Breath Rounds
+
+Event (2)
+2x Unmasking, The

@@ -1,0 +1,56 @@
+Tournament
+Fortaleza, Brazil
+May 21st 2005
+12 players
+Everton Biel
+
+Deck: Catch me if you can
+
+Crypt (12 cards, min=8, max=34, avg=5.92)
+-----------------------------------------
+4x Gabrin			   8   ANI CHI dom for	    Ravnos:2
+2x Kostantin, Baro of the Caravan  9   ANI CHI FOR cel dom  Ravnos:2
+1x Natalia			   7   ANI chi dom for	    Ravnos:2
+1x Sarisha Veliku		   6   ANI FOR chi dom	    Ravnos:2
+1x Marciana Giovanni, Investigator 2   dom		    Giovanni:2
+1x Mustafa Rahman		   2   dom		    Tremere:2
+1x Ohanna			   2   dom		    Malkavian:2
+1x Sasha Miklos			   2   chi		    Ravnos:2
+
+Library (90 cards)
+Master (17)
+5x Dominate
+3x Dreams of the Sphinx
+2x Fortune Teller Shop
+3x Park Hunting Ground
+2x Path of Paradox, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Week of Nightmares
+
+Action (17)
+4x Govern the Unaligned
+4x Reality
+4x Scouting Mission
+3x Sensory Deprivation
+2x Tumnimos
+
+Action/Reaction (2)
+2x Draba
+
+Ally (2)
+2x Rom Gypsy
+
+Action Modifier (18)
+5x Conditioning
+10x Fata Morgana
+3x Threats
+
+Action Modifier/Combat (10)
+10x Mirror Image
+
+Reaction (24)
+6x Deflection
+8x Guard Dogs
+2x Ignis Fatuus
+4x Redirection
+4x Wake with Evening's Freshness

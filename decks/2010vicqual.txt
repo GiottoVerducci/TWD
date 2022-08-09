@@ -1,0 +1,78 @@
+Victorian Qualifier
+Melbourne, Australia
+May 22nd 2010
+3R+F
+20 players
+Ivor Blockley
+
+Deck Name: Emergent Behavior
+
+Crypt (13 cards, min=36, max=40, avg=9.69)
+------------------------------------------
+5x Cybele	10  ANI DAI OBF PRE SER THA		 Baali:4
+3x Nergal	10  AUS DAI FOR OBF PRE THA		 Baali:5
+1x Nergal (ADV)	10  AUS DAI FOR OBF PRE THA		 Baali:5
+4x Annazir	9   DAI OBF POT PRE		2 votes	 Baali:5
+
+Library (90 cards)
+Master (52; 6 trifle)
+1x Archon Investigation
+12x Ashur Tablets
+1x Blind Spot
+2x Celerity
+1x Dark Influences
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Jake Washington
+2x Liquidation
+1x Monastery of Shadows
+4x Parthenon, The
+1x Path of Evil Revelations
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Retribution
+1x Ruins of Charizel
+1x Secure Haven
+10x Tend the Flock
+1x Vampiric Disease
+4x Villein
+2x Wider View
+
+Action (8)
+1x Call the Great Beast
+1x Enticement
+2x Entrancement
+2x Rutor's Hand
+2x Unleash Hell's Fury
+
+Ally (3)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Veneficti
+
+Action Modifier (15)
+1x Elder Impersonation
+1x Enkil Cog
+1x Faceless Night
+1x I am Legion
+1x Into Thin Air
+4x Lost in Crowds
+1x Mirror Walk
+1x Psychomachia
+3x Spying Mission
+1x True Love's Face
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (2)
+2x Confusion of the Eye
+
+Combat (5)
+2x Majesty
+3x Staredown
+
+Event (3)
+2x Anthelios, The Red Star
+1x Narrow Minds

@@ -1,0 +1,75 @@
+Origins Saturday - NAC Qualifier
+Origins, Columbus, Ohio
+June 28th 2008
+3R+F
+44 players
+John Newquist
+
+-- 3VP in final
+
+Deck Name: Paralyze This!
+
+Crypt (12 cards, min=14, max=20, avg=4.17)
+------------------------------------------
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Maman Boumba			4   inn mar	 Martyr:4
+1x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Pedro Cortez			4   mar ven	 Avenger:4
+1x Xian "DziDzat155" Quan	4   def inn	 Defender:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (90 cards)
+Master (14; 2 trifle)
+4x Angel of Berlin
+1x Channel 10
+2x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Rose Foundation, The
+1x Smiling Jack, The Anarch
+2x Specialization
+2x Wash
+
+Conviction (23)
+7x React with Conviction
+8x Second Sight
+8x Strike with Conviction
+
+Ally (7)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Mylan Horseed
+1x Ossian
+1x Vagabond Mystic
+1x Walks-With-Might
+1x Wendell Delburton
+
+Equipment (21)
+1x Ambulance
+1x Crusader Sword, The
+12x Flash Grenade
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Orb of Ulain
+1x Rowan Ring
+2x Wooden Stake
+
+Power (1)
+1x Inspire
+
+Reaction (4)
+3x On the Qui Vive
+1x Poison Pill
+
+Combat (14)
+14x Concealed Weapon
+
+Event (6)
+1x Blood Cult Awareness Network
+1x Dragonbound
+1x Narrow Minds
+1x NRA PAC
+2x Unmasking, The

@@ -1,0 +1,65 @@
+Spanish NC 2016
+Reus, Spain
+November 6th 2016
+3R+F
+31 players
+Sandro Rodrigues
+https://www.vekn.net/event-calendar/event/8449
+
+-- 5VP in final
+
+Crypt (12 cards, min=36, max=44, avg=10.17)
+-------------------------------------------
+4x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+2x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+2x Alonso Petrodon	 10  ANI DOM OBF POT for tha	justicar	Nosferatu:5
+1x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+1x Tryphosa		 10  AUS DEM DOM OBF POT	prince		Malkavian:4
+1x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
+1x Graham Gottesman	 7   DOM FOR obf pre tha	prince		Ventrue:5
+
+Library (75 cards)
+Master (23; 9 trifle)
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+3x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Secure Haven
+8x Villein
+1x Wider View
+5x Zillah's Valley
+
+Action (4)
+4x Govern the Unaligned
+
+Equipment (2)
+2x Helicopter
+
+Political Action (8)
+2x Alastor
+1x Ancient Influence
+2x Banishment
+2x Parity Shift
+1x Reins of Power
+
+Action Modifier (18)
+4x Elder Impersonation
+1x Enkil Cog
+4x Faceless Night
+2x Forgotten Labyrinth
+5x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (17)
+6x Deflection
+4x Eyes of Argus
+2x Mental Maze
+5x Obedience
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,62 @@
+Razorbat
+Atlanta, Georgia
+December 17th 2006
+2R+F
+13 players
+John Newquist
+
+Deck: The Darby Dance
+
+Crypt (12 cards, min=14, max=21, avg=4.25)
+------------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+2x François "Warden" Loehr	3   def jud	 Judge:4
+1x Earl "Shaka74" Deams		6   jud mar viz	 Visionary:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+
+Library (89 cards)
+Master (13)
+8x Angel of Berlin
+1x Church of Vindicated Faith, The
+2x Memories of Mortality
+1x Specialization
+1x Unity
+
+Conviction (22)
+5x React with Conviction
+9x Second Sight
+8x Strike with Conviction
+
+Action (3)
+1x Augur
+2x Bond
+
+Equipment (19)
+1x Crusader Sword, The
+9x Flash Grenade
+4x Heart of Nizchetus
+2x Laptop Computer
+2x Orb of Ulain
+1x Signet of King Saul, The
+
+Power (12)
+2x Champion
+2x Hide
+2x Rejuvenate
+6x Vigilance
+
+Reaction (6)
+2x Determine
+4x Poison Pill
+
+Combat (8)
+8x Concealed Weapon
+
+Event (6)
+1x Anthelios, The Red Star
+2x Edge Explosion
+2x NRA PAC
+1x Unmasking, The

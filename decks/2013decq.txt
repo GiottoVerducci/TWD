@@ -1,0 +1,71 @@
+Danish ECQ
+Copenhagen, Denmark
+May 12th 2013
+3R+F
+17 players
+Hugh Angseesing
+
+-- 4VP in final
+
+Deck Name: Sennadurek - and friends v3
+
+Crypt (13 cards, min=21, max=26, avg=5.92)
+------------------------------------------
+5x Sennadurek			6   AUS NEC dom			  Nagaraja:4
+1x Blackhorse Tanner		7   AUS DOM FOR			  Ventrue antitribu:3
+1x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+1x Jefferson Foster		6   AUS DOM for tha	bishop	  Ventrue antitribu:4
+1x Selena			6   AUS DOM THA			  Tremere antitribu:3
+1x Valois Sang, The Watcher	6   AUS DOM nec tha		  Tremere:3
+1x Andrew Stuart		5   AUS DOM THA			  Tremere:4
+1x Frondator			5   AUS dom tha		bishop	  Tremere antitribu:4
+1x Neighbor John		5   AUS dom for			  Ventrue antitribu:4
+
+Library (80 cards)
+Master (12; 2 trifle)
+1x Archon Investigation
+3x Blood Doll
+1x Channel 10
+1x Dominate
+1x Haven Uncovered
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+2x Vessel
+1x WMRH Talk Radio
+
+Action (14)
+1x Abbot
+1x Dominate Kine
+8x Govern the Unaligned
+3x Magic of the Smith
+1x Nose of the Hound
+
+Equipment (7)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Palatial Estate
+1x Sniper Rifle
+
+Action Modifier (3)
+3x Conditioning
+
+Reaction (30)
+6x Deflection
+2x Delaying Tactics
+2x Eagle's Sight
+2x Enhanced Senses
+7x Eyes of Argus
+2x Forced Awakening
+2x My Enemy's Enemy
+2x On the Qui Vive
+3x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (14)
+1x Glancing Blow
+5x Target Vitals
+3x Taste of Vitae
+5x Weighted Walking Stick

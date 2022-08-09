@@ -1,0 +1,104 @@
+DragonCon - Dragon's Breath
+DragonCon 2001, Atlanta, Georgia
+September 1st 2001
+David Tatu
+
+Deck Name: Dragon Con 2001 Ventrue
+
+Description: I built this deck the morning of the tournament because
+I had not seen any Ventrue decks the night before and I wanted to play
+one. I think that the Ventrue are (just by a small margin) the strongest
+clan in the game but I hate to contest Vampires all day so I avoid
+playing them too much. The deck is pretty basic. I do not normally
+use Queen Anne unless I am working the dominate angle. I also really
+wanted to use Kiss of Ra and Seduction to screw with the intercept
+decks. It really worked. I got to Kiss Meshenka with a Revenant and
+then Seduce Dragos when I grave robbed. I also got to grave rob Ulugh
+Beg and an one-armed Basil (It was a card cycle thing). I had Jan out
+in two games, which I think screwed with a lot of people's minds. He
+was also able to bleed for 2 most every turn due to my prey being scared
+of his Kiss of Ra. The deck got 4, 2.5 and 4 (a sweep) VPs and then 2.5VP
+in the Finals. I never got near the end of my library so I would cut out
+15 cards (Deflect, Con Ag, Club Z, Closed Session, Bonding, B.O. WwEF,
+2 x Voter Cap, SoS, Majesty, Obedience, Govern and Freak Drive) and I
+would swap the Queen for a second Emerson. A valuable lesson I learned
+playing in this tourney is that Emerson can tell that mad rusher, Theo
+Bell, to have a seat and try again next turn. There was a Theo deck at
+two of the table I played at. This deck is not that strong in offence so
+I had to play careful and do a lot of table talking. The only deals I made
+regarding VPs took place in the finals and I only had to follow through on
+one of them. The other one was a "I will let you oust him if you then roll
+over" deal but my prey was unable to complete his end of the deal so he
+had to go and I had to do the oust myself.
+
+Crypt (12 cards, min=17, max=32, avg=6.08)
+------------------------------------------
+2x Ranjan Rishi, Camarilla Scholar  5	DOM PRE for			Ventrue:2
+1x Queen Anne			    10	DOM FOR PRE aus obf	prince	Ventrue:2
+1x Emerson Bridges		    8	DOM FOR PRE pot		prince	Ventrue:1
+1x Jan Pieterzoon		    7	DOM FOR pot pre			Ventrue:2
+1x Sir Walter Nash		    7	DOM FOR PRE		prince	Ventrue:1
+1x Timothy Crowley		    7	FOR PRE ani dom		prince	Ventrue:1
+1x Heather Florent, The Opportunist 6	FOR PRE dom			Ventrue:1
+1x Luccia Paciola		    6	DOM for pre			Ventrue:1
+1x Jazz Wentworth		    5	PRE dom for			Ventrue:1
+1x Violette Prentiss		    4	PRE dom				Ventrue:1
+1x Gideon Fontaine		    3	PRE				Ventrue:1
+
+Library (90 cards)
+Master (14)
+1x Anarch Troublemaker
+2x Blood Doll
+1x Club Zombie
+1x Creepshow Casino
+1x Direct Intervention
+1x Hostile Takeover
+4x Minion Tap
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Ventrue Headquarters
+
+Action (10)
+1x Dominate Kine
+2x Fifth Tradition: Hospitality
+5x Govern the Unaligned
+1x Graverobbing
+1x Judgment: Camarilla Segregation
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (9)
+1x Anarchist Uprising
+1x Conservative Agitation
+1x Domain Challenge
+1x Kindred Restructure
+3x Kine Resources Contested
+1x Parity Shift
+1x Ventrue Justicar
+
+Action Modifier (30)
+3x Awe
+3x Bewitching Oration
+4x Bonding
+1x Closed Session
+1x Conditioning
+1x Daring the Dawn
+1x Day Operation
+1x Foreshadowing Destruction
+2x Freak Drive
+3x Kiss of Ra, The
+4x Seduction
+6x Voter Captivation
+
+Reaction (16)
+4x Deflection
+4x Obedience
+1x Redirection
+4x Second Tradition: Domain
+3x Wake with Evening's Freshness
+
+Combat (10)
+5x Majesty
+2x Rolling with the Punches
+3x Skin of Steel

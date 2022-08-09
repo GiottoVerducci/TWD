@@ -1,0 +1,73 @@
+Powerbase Montreal
+São Paulo, Brazil
+June 10th 2017
+2R+F
+10 players
+Elzo Benzaquen
+https://www.vekn.net/event-calendar/event/8684
+
+-- 3VP in final
+
+Deck Name: Setitas de Mumias
+
+Crypt (12 cards, min=29, max=43, avg=9.17)
+------------------------------------------
+3x Sutekh, The Dark God				11  NEC OBF PRE SER cel pot	2 votes	 Follower of Set:2
+1x Sarrasine (ADV)				8   OBF PRE SER aus nec		prince	 Follower of Set:2
+1x Sarrasine					7   OBF PRE aus nec ser			 Follower of Set:2
+1x Kemintiri					10  OBF PRE SER THA aus dom		 Follower of Set:2
+1x Nefertiti					10  DOM OBF PRE SER cel pot		 Follower of Set:2
+1x Nehsi					10  OBF PRE PRO SER aus for	2 votes	 Follower of Set:2
+1x Kahina the Sorceress				9   AUS DOM OBF SER nec pre	1 vote	 Follower of Set:3
+1x Khay'tall, Snake of Eden			9   DOM OBF PRE SER aus			 Follower of Set:2
+1x Saqqaf, Keeper of the Grand Temple of Set	9   OBF PRE SER cel for			 Follower of Set:2
+1x Dedefra					5   SER nec obf				 Follower of Set:2
+
+Library (90 cards)
+Master (19; 7 trifle)
+1x Cave of Apples
+1x Charisma
+6x Eternals of Sirius, The
+2x In Memory of the Two Lands
+1x Opium Den
+1x Temple Hunting Ground
+2x Vessel
+5x Villein
+
+Action (18)
+2x Entrancement
+2x Form of Corruption
+10x Spell of Life
+2x Summoning, The
+2x Temptation
+
+Ally (7)
+1x Akhenaten, The Sun Pharaoh
+1x Amam the Devourer
+1x Kherebutu
+1x Nephren-Ka
+1x Qetu the Evil Doer
+1x Saatet-ta
+1x Tutu the Doubly Evil One
+
+Equipment (2)
+2x Mokolé Blood
+
+Action Modifier (20)
+4x Elder Impersonation
+4x Faceless Night
+6x Forgotten Labyrinth
+4x Lost in Crowds
+2x Veil the Legions
+
+Reaction (6)
+6x Funeral Wake
+
+Combat (16)
+4x Fake Out
+6x Majesty
+4x Target Vitals
+2x Trap
+
+Event (2)
+2x Unmasking, The

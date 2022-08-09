@@ -1,0 +1,55 @@
+Guaru de volta ao mapa I (Guaru's return to the map I)
+Devir Bookstore, São Paulo, Brazil
+May 27th 2007
+12 players
+Sergio Trentin Jr.
+
+The deck: Alastores Pipoqueiros (brazilian slang for Gunner Alastors)
+
+Crypt (12 cards, min=20, max=44, avg=8.33)
+------------------------------------------
+4x Alexandra		   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+2x Madame Guil		   10  AUS CEL PRE for pot ser	justicar	Toreador:3
+2x Marcellus		   8   AUS CEL pro		prince		Toreador:2
+2x Ira Rivers		   7   AUS CEL ani pre		prince		Toreador:3
+1x Michael Luther	   4   aus pre					Toreador:3
+1x Emerson Wilkershire III 2   pre					Toreador:3
+
+Library (90 cards)
+Master (17)
+1x Art Museum
+1x Carver's Meat Packing and Storage
+1x Giant's Blood
+5x Minion Tap
+2x Perfectionist
+1x Society Hunting Ground
+6x Toreador Grand Ball
+
+Equipment (7)
+5x Assault Rifle
+1x Blade of Enoch
+1x Sire's Index Finger
+
+Political Action (9)
+6x Alastor
+3x Anathema
+
+Action Modifier (13)
+4x Aire of Elation
+4x Awe
+2x Bewitching Oration
+3x Voter Captivation
+
+Reaction (9)
+9x Second Tradition: Domain
+
+Combat (35)
+1x Acrobatics
+3x Blur
+1x Fast Hands
+6x Flash
+4x Preternatural Evasion
+6x Psyche!
+6x Pursuit
+5x Side Strike
+3x Taste of Vitae

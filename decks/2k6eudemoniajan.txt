@@ -1,0 +1,74 @@
+Eudemonia
+Eudemonia, Berkeley, California
+January 28th 2006
+11 players
+Ian Lee
+
+Deck Name: "When in doubt ... Win."
+
+Description: Osebo stealth bleed.
+
+Crypt (12 cards, min=10, max=38, avg=6.42)
+------------------------------------------
+2x Ayo Igoli	10  AUS CEL FOR PRE obf tha	Ishtarri:4
+2x Massassi	9   AUS CEL POT QUI obf		Osebo:4
+2x Tatu Sawosa	8   AUS OBF POT ani cel		Osebo:4
+2x Tupdog	1   POT VIS			Gargoyle:3
+1x Khalu	7   AUS CEL POT ani pro		Osebo:3
+1x Homa		6   AUS CEL POT			Osebo:4
+1x Idrissa	4   CEL aus			Osebo:4
+1x Ismitta	4   aus cel pot			Osebo:4
+
+Library (80 cards)
+Master (20; 3 trifle)
+1x Ancestor Spirit
+1x Barrens, The
+3x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+3x Life in the City
+1x Mbare Market, Harare
+2x Minion Tap
+4x Obfuscate
+1x Pentex(TM) Subversion
+
+Action (7)
+5x Computer Hacking
+1x Legend of the Leopard
+1x Victim of Habit
+
+Equipment (4)
+1x .44 Magnum
+1x Changeling Skin Mask
+1x Ivory Bow
+1x Kduva's Mask
+
+Retainer (1)
+1x Shaman
+
+Action Modifier (11)
+5x Cloak the Gathering
+1x Elder Impersonation
+2x Faceless Night
+1x Lost in Crowds
+1x Spying Mission
+1x Strange Day
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (8)
+8x Ancestor's Insight
+
+Reaction (20)
+2x Eagle's Sight
+1x My Enemy's Enemy
+2x Quicken Sight
+7x Telepathic Misdirection
+8x Wake with Evening's Freshness
+
+Combat (8)
+4x Preternatural Evasion
+4x Side Strike

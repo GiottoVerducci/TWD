@@ -1,0 +1,84 @@
+English NC 2000
+GenCon UK, Manchester, England
+September 3rd 2000
+3R+F
+30 players
+Rob Treasure
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/q097gtvVyJo/m/jA3cfEG-GBcJ
+
+Deck Name: Legacy of Pander
+
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/yXMq-iSTTx8
+
+Description: The deck is still frighteningly effective, even after people have had
+several years to get to grips with it.
+
+A, slightly rushed, deck list managed to get:
+
+Crypt (12 cards, min=4, max=13, avg=1.92)
+-----------------------------------------
+1x Jost Werner		    6	AUS PRE ani	Toreador antitribu:2
+1x Lena Rowe		    3	aus obf pre	Pander:2
+1x Christine Boscacci	    2	dom vic		Pander:2
+1x Frederick the Weak	    2	pre		Brujah antitribu:2
+1x Gillian Krader	    2	ani dem		Pander:2
+1x Mitchell, The Headhunter 2	obt pot		Pander:2
+1x Angela Decker	    1	pre		Pander:2
+1x Antoinette DuChamp	    1	cel pre		Caitiff:2
+1x Basil		    1	obf		Pander:2
+1x Huang, Blood Cultist	    1	pro		Pander:2
+1x March Halcyon	    1	for		Pander:2
+1x Royce		    1	dom		Pander:2
+
+Library (90 cards)
+Master (18)
+1x Archon Investigation
+1x Barrens, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Effective Management
+2x Elysium: The Arboretum
+1x Heidelberg Castle, Germany
+1x Humanitas
+2x Information Highway
+1x KRCG News Radio
+1x Misdirection
+3x Presence
+1x Sudden Reversal
+1x Tribute to the Master
+
+Action (5)
+1x Entrancement
+4x Legal Manipulations
+
+Equipment (3)
+1x Deer Rifle
+2x Leather Jacket
+
+Political Action (30)
+3x Banishment
+7x Consanguineous Boon
+1x Conservative Agitation
+1x Disputed Territory
+2x Dramatic Upheaval
+6x Kine Resources Contested
+9x Legacy of Pander
+1x Rumors of Gehenna
+
+Retainer (1)
+1x Tasha Morgan
+
+Action Modifier (12)
+3x Awe
+2x Bewitching Oration
+2x Change of Target
+2x Cryptic Rider
+3x Forgotten Labyrinth
+
+Reaction (6)
+6x Wake with Evening's Freshness
+
+Combat (15)
+3x Dodge
+4x Fake Out
+8x Majesty

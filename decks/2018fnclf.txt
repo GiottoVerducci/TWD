@@ -1,0 +1,70 @@
+French NC 2018
+Lille, France
+April 1st 2018
+3R+F
+39 players
+Orian Gissler
+https://www.vekn.net/event-calendar/event/8810
+
+Deck Name: Nana Toolbox
+
+2GW5.5 and 1.5VP in final
+
+Effie Lowery should be Fish for PB: Luanda
+
+Crypt (15 cards, min=4, max=32, avg=4.2)
+----------------------------------------
+5x Anarch Convert	1   -none-	 Caitiff:ANY
+4x Nana Buruku		8   ANI POT PRE	 Guruhi:4
+1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
+1x Effie Lowery		5   ANI SPI obf	 Ahrimane:4
+1x Petra		5   ANI OBF aus	 Nosferatu:4
+1x Beetleman		4   ANI obf	 Nosferatu:4
+1x Bobby Lemon		4   ANI pro	 Gangrel:3
+1x Stick		3   ANI		 Nosferatu antitribu:4
+
+Library (90 cards)
+Master (32; 6 trifle)
+4x Anarch Revolt
+1x Archon Investigation
+9x Ashur Tablets
+2x Direct Intervention
+1x Fame
+1x Haven Uncovered
+1x Life Boon
+4x Liquidation
+1x Pentex(TM) Subversion
+1x Powerbase: Luanda
+1x Powerbase: Montreal
+4x Vessel
+2x Wider View
+
+Action (8)
+8x Deep Song
+
+Ally (2)
+2x Underbridge Stray
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (3)
+3x Raven Spy
+
+Reaction (12)
+3x Cats' Guidance
+3x Delaying Tactics
+3x On the Qui Vive
+3x Sense the Savage Way
+
+Combat (31)
+12x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+1x Groundfighting
+2x Hell-for-Leather
+3x Target Vitals
+3x Taste of Vitae
+
+Event (1)
+1x Scourge of the Enochians

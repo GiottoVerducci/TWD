@@ -1,0 +1,94 @@
+Fee Stake: Billerica
+Billerica, Massachusetts
+December 4th 2010
+2R+F
+14 players
+Kevin Mullen
+
+-- 5VP in final
+
+Deck Name: All You Need Is Oust
+
+The deck is straight forward offense. The only action in the deck that
+doesn't have any offensive potential is Carlton Van Wyck which I threw
+in last minute. Get out 2 vampires and try to bleed, vote and recruit
+with them each turn. The first action is usually the most important
+and has the Uncontrolled Impulse to push it through. Majesty and
+change of target gets through and defenders until you can get your
+actions through. Decent pool gain to slow down your predator. If you
+are in a really bad spot, bloat and vote upstream. Don't bother
+leaving any vampires for blocking unless you don't have any actions
+left, or you are looking at static intercept combat with no modifiers
+to push your actions through.
+
+Crypt (12 cards, min=20, max=35, avg=6.83)
+------------------------------------------
+2x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	Ishtarri:3
+2x Ubende		7   CEL PRE for obf qui		magaji	Ishtarri:4
+1x Ayo Igoli		10  AUS CEL FOR PRE obf tha		Ishtarri:4
+1x Jibade el-Bahrawi	9   CEL DEM FOR PRE aus			Ishtarri:4
+1x Ganhuru		7   FOR PRE cel pro			Ishtarri:4
+1x Agru Kabera		6   FOR cel nec pre			Ishtarri:4
+1x Honorine Ateba	6   FOR PRE cel nec			Ishtarri:4
+1x Elizabeth Conde	5   CEL FOR pre				Ishtarri:4
+1x Shasa Abu Badr	5   PRE cel for				Ishtarri:4
+1x Kenyatta		4   cel for pre				Ishtarri:4
+
+Library (90 cards)
+Master (18)
+1x Ancestor Spirit
+1x Barrens, The
+3x Blood Doll
+1x Celerity
+1x Charisma
+1x Contingency Planning
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fortitude
+1x Giant's Blood
+1x Glutton
+1x Heidelberg Castle, Germany
+2x Perfectionist
+1x Port Hunting Ground
+1x Sudden Reversal
+
+Action (14)
+2x Bamba
+6x Enchant Kindred
+1x Entrancement
+1x Legal Manipulations
+2x Public Trust
+2x Social Charm
+
+Ally (4)
+1x Carlton Van Wyk
+1x Mylan Horseed
+2x Procurer
+
+Political Action (10)
+1x Banishment
+2x Consanguineous Boon
+7x Kine Resources Contested
+
+Retainer (5)
+1x J. S. Simmons, Esq.
+3x Marijava Ghoul
+1x Tasha Morgan
+
+Action Modifier (30)
+2x Aire of Elation
+5x Bewitching Oration
+2x Change of Target
+2x Daring the Dawn
+6x Forced March
+2x Freak Drive
+1x Strange Day
+6x Uncontrolled Impulse
+4x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Ishtarri Kholo
+
+Combat (8)
+1x Fast Hands
+7x Majesty

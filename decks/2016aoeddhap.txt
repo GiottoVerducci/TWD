@@ -1,0 +1,78 @@
+Aire of Elation
+Duelos de Honra, Amadora, Portugal
+January 9th 2016
+3R+F
+12 players
+Tiago Brum
+
+Deck Name: Tzimmy Wall
+
+Description: What if Brum did a Tzimmy Wall?
+Typical Tzimisce Wall with my own analysis from the concept, that was created while writing a blog post about errors I see in wall building.
+
+I have no idea why people don't use Vykos ADV as the main vampire in any tzimmy wall. He gives you so many options, like being able to use more Master cards, having one or two silver bullets, etc.
+
+Maybe one less Dreams and one more Guardian Angel. It's fun to have multiple Lodins. And saving blood on Tzimmies is a good thing.
+-- Papillon is great here. It clearly was a though on the building of the crypt, since I already would have Vykos Adv.
+-- Oddly enough I don't think I need Pentex.
+
+Non arrogant wall.
+
+Ivory Bow is going to leave if I increase Guardian Angels. It is only a win more card.
+
+Odd pick of cards, yes?
+-- I don't need Enhanced Senses. Deflecting or canceling referendums is more card effective and beneficial.
+-- Everything else is built to protect Smiling Jacks.
+-- Wall without ousting power are one of the evils of this World.
+
+Vykos allows for extras in some places.
+-- Blood of Acid is good against many things. This pack is perfect for me.
+
+Crypt (12 cards, min=22, max=37, avg=7.58)
+------------------------------------------
+3x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
+2x Stravinsky				  9   ANI AUS VIC pot	   archbishop	Tzimisce:2
+1x Lambach				  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
+1x John Paleologus			  9   ANI AUS CEL VIC pot  archbishop	Tzimisce:3
+1x Little Tailor of Prague		  8   ANI AUS VIC dem	   		Tzimisce:2
+1x Meshenka				  8   ANI AUS VIC	   priscus	Tzimisce:2
+1x Caliban				  6   ANI AUS VIC	   		Tzimisce:2
+1x Corine Marcón			  6   AUS VIC ani	   		Tzimisce:2
+1x Horatio				  2   vic		   		Tzimisce:2
+
+Library (83 cards)
+Master (21; 6 trifle)
+4x Dreams of the Sphinx
+2x Guardian Angel
+1x Information Highway
+1x Papillon
+2x Powerbase: Montreal
+1x Rack, The
+4x Smiling Jack, The Anarch
+6x Villein
+
+Action (3)
+2x Abbot
+1x Under Siege
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x Banshee Ironwail
+1x Bowl of Convergence
+1x Ivory Bow
+
+Reaction (34)
+2x Delaying Tactics
+3x Eagle's Sight
+9x Eyes of Argus
+3x Forced Awakening
+5x My Enemy's Enemy
+3x On the Qui Vive
+9x Telepathic Misdirection
+
+Combat (21)
+2x Blood of Acid
+6x Breath of the Dragon
+13x Chiropteran Marauder

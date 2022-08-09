@@ -1,0 +1,78 @@
+Hickam 2
+Honolulu, Hawaii
+May 19th 2013
+2R+F
+12 players
+David Litwin
+
+-- 5VP in final
+
+Deck Name: All of a Sudden
+
+Description: After getting obliterated in the first tournament by
+voting decks I broke out one of mine I had been trying on JOL with
+on and off success. After a fair showing in R1&2 the deck took
+advantage of a great series of turns late in the final. Early on
+it got rushed into the ground by Deep Song and spent midgame rescuing
+and hunting, while taking a shot at its prey when able. After the ANI
+rush had to go upstream the deck got a turn and ousted the next 3 preys
+with 3 consecutive KRCs, with the ANI not able to dunk enough vampires
+in the all but meaningless last few turns. The deck has trouble with
+any real intercept and the Sacrifice was used twice by Kyle Strathcona
+to kill a Neighbor John.
+
+Crypt (12 cards, min=26, max=38, avg=8)
+---------------------------------------
+4x Synesios				8   POT PRE TEM obf ser	 2 votes	True Brujah:2
+2x Bronwen				10  CEL POT PRE dom obt	 priscus	Brujah antitribu:2
+2x Kyle Strathcona, Cardinal of Canada	9   AUS DOM POT PRE for	 cardinal	Ventrue antitribu:2
+2x Sela (ADV)				7   POT PRE cel obt	 archbishop	Brujah antitribu:2
+1x Dominique				7   AUS FOR ani dom vic	 		Ventrue antitribu:2
+1x Gerard				5   aus dom for obt	 		Ventrue antitribu:2
+
+Library (64 cards)
+Master (18; 6 trifle)
+1x Black Forest Base
+1x Demonstration
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Legendary Vampire
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Purchase Pact
+1x Sudden Reversal
+1x Tabriz Assembly
+5x Villein
+1x Waste Management Operation
+1x Wider View
+
+Action (4)
+2x Enchant Kindred
+2x Entrancement
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+7x Kine Resources Contested
+2x Neonate Breach
+1x Political Stranglehold
+1x Reckless Agitation
+1x Reins of Power
+1x Sacrifice
+
+Action Modifier (17)
+2x Approximation of Loyalty
+2x Iron Glare
+3x Perfect Paragon
+3x Pocket Out of Time
+2x Recurring Contemplation
+5x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Hall of Hades' Court
+
+Combat (4)
+3x Majesty
+1x Unholy Penance

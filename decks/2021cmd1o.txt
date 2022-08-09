@@ -1,0 +1,56 @@
+Copa Mickey Day 1
+Online
+May 8th 2021
+2R+F
+18 players
+Ricardo Molina Sobreira
+https://www.vekn.net/event-calendar/event/9773
+
+-- 4vp in the final
+
+Deck Name: Gato "Mia"
+
+Crypt (12 cards, min=18, max=31, avg=6.25)
+------------------------------------------
+3x Howler	    8	ANI PRE SPI obf	 Ahrimane:2
+3x Siamese, The	    7	PRE SPI ani pro	 Ahrimane:2
+3x Cynthia Ingold   6	SPI ani for pre	 Ahrimane:2
+3x Juanita Santiago 4	ani pre spi	 Ahrimane:2
+
+Library (90 cards)
+Master (15; 4 trifle)
+2x Blessing of the Beast
+3x Capitalist
+1x Festivo dello Estinto
+1x Giant's Blood
+1x Powerbase: Barranquilla
+2x Sudden Reversal
+4x Vessel
+1x Yawp Court
+
+Action (17)
+2x Army of Rats
+2x Engling Fury
+5x Entrancement
+8x Legal Manipulations
+
+Action Modifier (13)
+3x Aire of Elation
+2x Mole's Tunneling
+8x Squirrel Balance
+
+Action Modifier/Combat (8)
+8x Swiftness of the Stag
+
+Reaction (16)
+4x Ears of the Hare
+4x Falcon's Eye
+8x Speak with Spirits
+
+Combat (21)
+5x Aid from Bats
+1x Canine Horde
+7x Carrion Crows
+2x Flesh Bond
+4x Leapfrog
+2x Taste of Vitae

@@ -1,0 +1,60 @@
+Web of Knives Recruit
+Juiz de Fora, Brazil
+June 28th 2011
+12 players
+Guilherme Machado
+
+-- 4VP in final
+
+Deck Name: American Euro
+
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+2x Constanza Vinti			8   CEL DOM POT		 prince	   Brujah:2
+2x Dónal O'Connor			8   CEL DOM POT		 prince	   Brujah:2
+2x Beast, The Leatherface of Detroit	7   OBF POT ani cel	 	   Nosferatu antitribu:2
+2x Theo Bell				7   POT cel dom pre	 	   Brujah:2
+2x Anvil				6   CEL POT dom pre tha	 primogen  Brujah:1
+2x Volker, The Puppet Prince		5   CEL pot		 prince	   Brujah:2
+
+Library (90 cards)
+Master (14; 2 trifle)
+1x Carthage Remembered
+2x Celerity
+1x Dark Influences
+1x Fame
+1x Giant's Blood
+1x Monster
+2x New Carthage
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Vessel
+
+Action (10)
+8x Govern the Unaligned
+2x Preternatural Strength
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (4)
+4x Parity Shift
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (18)
+6x Deflection
+2x Redirection
+10x Second Tradition: Domain
+
+Combat (41)
+4x Blur
+4x Disarm
+1x Fast Hands
+8x Immortal Grapple
+6x Pursuit
+4x Slam
+7x Taste of Vitae
+7x Torn Signpost

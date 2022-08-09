@@ -1,0 +1,67 @@
+Qualifier
+Washington, D.C.
+June 10th 2006
+3R+F
+37 players
+Ben Peal
+
+Deck Name: Team Amaravati
+
+Description: Looking at Amaravati, I was inspired by Lasombra Jeff's
+Lasombra Creation Boon deck. Amaravati plays Governs to get out more
+guys. Guys get out Web of Knives Recruits. Weenie bleeding and
+Govern bleeding commence, backed up with KRCs via massive vote push
+from Amaravati's special. Con Boons for either defense or more guys.
+35 stealth might seem like a lot (ok, it's a lot), but currently
+there's a lot of permanent intercept out there chewing up the stealth
+of vamps with inferior Obfuscate. Alamut isn't critical due to
+Amaravati's special, but it's a plus when you get it (same for Ventrue
+Headquarters). This is also a good deck for a player on a budget, as
+the only expensive card in there is Direct Intervention (and one could
+replace it with a Yoruba Shrine or something).
+
+Crypt (12 cards, min=11, max=32, avg=5.42)
+------------------------------------------
+5x Amaravati		8   DOM OBF QUI ani chi	 Assamite:4
+2x Ali Kar		3   obf qui		 Assamite:3
+1x Catherine du Bois	5   DOM for obf pre	 Ventrue:3
+1x Michael diCarlo	5   CEL obf qui		 Assamite:4
+1x Kamau Jafari		4   QUI obf		 Assamite:4
+1x Robin Withers	4   dom obf pre		 Ventrue:4
+1x Basir		1   qui			 Assamite:4
+
+Library (90 cards)
+Master (14)
+1x Alamut
+1x Barrens, The
+4x Blood Doll
+1x Direct Intervention
+3x Effective Management
+1x Market Square
+1x Pentex(TM) Subversion
+1x Underworld Hunting Ground
+1x Ventrue Headquarters
+
+Action (14)
+6x Govern the Unaligned
+8x Web of Knives Recruit
+
+Political Action (9)
+3x Consanguineous Boon
+6x Kine Resources Contested
+
+Action Modifier (30)
+7x Cloak the Gathering
+3x Domain of Evernight
+4x Elder Impersonation
+6x Faceless Night
+6x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (18)
+8x Deflection
+2x Delaying Tactics
+8x Wake with Evening's Freshness

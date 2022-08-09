@@ -1,0 +1,56 @@
+Left For Dead in L.A.
+Los Angeles, California
+February 19th 2006
+19 players
+Robert Scythe
+
+Deck Name: Fork-Tongued Socialites
+
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+3x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+3x Masika	   10  AUS CEL PRE		primogen	Toreador:1
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+
+Library (90 cards)
+Master (17)
+2x Aching Beauty
+2x Art Museum
+1x Blood Doll
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+7x Minion Tap
+2x Zillah's Valley
+
+Political Action (17)
+2x Anarchist Uprising
+1x Archon
+1x Banishment
+5x Camarilla Exemplary
+1x Disputed Territory
+1x Domain Challenge
+4x Kine Resources Contested
+1x Praxis Seizure: Monaco
+1x Protect Thine Own
+
+Action Modifier (25)
+2x Approximation of Loyalty
+1x Bewitching Oration
+7x Change of Target
+9x Crocodile's Tongue
+6x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (11)
+1x My Enemy's Enemy
+1x Second Tradition: Domain
+5x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (17)
+9x Flash
+8x Majesty

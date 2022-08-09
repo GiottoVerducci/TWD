@@ -1,0 +1,52 @@
+MQ
+Stanhope Arms, Burton-on-Trent, England
+September 13th 2008
+14 players
+Mike Nudd
+
+Crypt (12 cards, min=4, max=25, avg=4.33)
+-----------------------------------------
+4x Jost Werner		    6	AUS PRE ani	 	 Toreador antitribu:2
+4x Anarch Convert	    1	-none-		 	 Caitiff:ANY
+1x Greta Kircher	    7	AUS CEL PRE obf	 	 Toreador antitribu:2
+1x Ian Wallingford	    6	CEL PRE aus	 bishop	 Toreador antitribu:2
+1x Sheila Mezarin	    6	AUS PRE cel for	 	 Toreador antitribu:2
+1x Mercy, Knight Inquisitor 5	AUS cel dom pre	 	 Toreador antitribu:2
+
+Library (80 cards)
+Master (14; 5 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+3x Blood Doll
+3x Palla Grande
+1x Poacher's Hunting Ground
+3x Vessel
+2x Wash
+
+Action (18)
+4x Entrancement
+4x Mind Numb
+10x Undue Influence
+
+Equipment (6)
+4x Deer Rifle
+1x Flaming Candle
+1x Signet of King Saul, The
+
+Retainer (4)
+4x Marijava Ghoul
+
+Action Modifier (16)
+4x Change of Target
+8x Power of One
+4x Suppressing Fire
+
+Reaction (14)
+4x My Enemy's Enemy
+3x On the Qui Vive
+4x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (8)
+4x Majesty
+4x Unholy Penance

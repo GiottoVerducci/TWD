@@ -1,0 +1,76 @@
+Brazilian NC 2015
+Belo Horizonte, Brazil
+June 6th 2015
+3R+F
+43 players
+Pedro Paulo de Sousa Mendes
+https://www.vekn.net/event-calendar/event/7932
+
+-- 3VP in final
+
+Deck Name: Desencalhando as Shrouds 2015
+
+Description: Fantasminhas mano....
+
+Crypt (12 cards, min=18, max=36, avg=6.67)
+------------------------------------------
+5x Guillaume Giovanni	9   CEL DOM NEC POT obt	 Giovanni:4
+3x Gianmaria Giovanni	5   POT dom nec obt	 Giovanni:5
+2x Raphaela Giovanni	6   DOM NEC pot pre	 Giovanni:4
+1x Kay Polerno		4   dom nec pro		 Giovanni:5
+1x Primo Giovanni	4   dom nec pot		 Giovanni:4
+
+Library (84 cards)
+Master (32; 2 trifle)
+9x Ashur Tablets
+1x Barrens, The
+3x Charisma
+1x Coven, The
+1x Direct Intervention
+1x Dummy Corporation
+1x Filchware's Pawn Shop
+1x Fortschritt Library
+1x KRCG News Radio
+1x Monastery of Shadows
+1x Morgue Hunting Ground
+5x Parthenon, The
+1x Path of Bone, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Powerbase: Montreal
+1x Secure Haven
+1x Storage Annex
+
+Action (5)
+1x Dominate Kine
+1x Far Mastery
+3x Govern the Unaligned
+
+Ally (12)
+1x Ambrosius, The Ferryman
+1x Brigitte Gebauer
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+1x Gianna di Canneto
+2x Puppeteer
+4x Shambling Hordes
+1x Tye Cooper
+
+Action Modifier (21)
+3x Call of the Hungry Dead
+3x Change of Target
+3x Conditioning
+2x Seduction
+7x Shroud Mastery
+3x Shroud of Absence
+
+Action Modifier/Reaction (3)
+3x Spectral Divination
+
+Reaction (8)
+6x Deflection
+2x On the Qui Vive
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

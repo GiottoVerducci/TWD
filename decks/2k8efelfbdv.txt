@@ -1,0 +1,69 @@
+El frito entre los fritos
+Badia del Valles, Barcelona, Spain
+July 6th 2008
+3R+F
+27 players
+Noel Giménez Infante
+
+-- 4VP in final
+
+Deck Name: Ayo Igoli
+
+Crypt (12 cards, min=23, max=38, avg=7.58)
+------------------------------------------
+3x Ayo Igoli		10  AUS CEL FOR PRE obf tha		Ishtarri:4
+3x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	Ishtarri:3
+3x Ubende		7   CEL PRE for obf qui		magaji	Ishtarri:4
+2x Victor Pelletier	5   PRE cel dom for			Ventrue:4
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	Ventrue:4
+
+Library (89 cards)
+Master (13; 3 trifle)
+2x Archon Investigation
+2x Blood Doll
+1x Giant's Blood
+1x Glutton
+3x Minion Tap
+1x Port Hunting Ground
+2x Vessel
+1x Wash
+
+Action (16)
+6x Enchant Kindred
+3x Entrancement
+2x No Secrets From the Magaji
+5x Public Trust
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sniper Rifle
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+1x Eldest Command Undeath, The
+6x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (29)
+4x Aire of Elation
+1x Bewitching Oration
+6x Forced March
+2x Forgotten Labyrinth
+4x Freak Drive
+2x Kiss of Ra, The
+1x Strange Day
+4x Uncontrolled Impulse
+5x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Ishtarri Kholo
+
+Combat (10)
+8x Majesty
+2x Staredown

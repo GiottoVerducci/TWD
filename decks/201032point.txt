@@ -1,0 +1,65 @@
+32 Point Back-Oust MQ
+Newark, Ohio
+August 24th 2010
+2R+F
+12 players
+Dave Lees
+
+-- 4VP in final
+
+Deck Name: Detroit Rock City
+
+Crypt (12 cards, min=17, max=40, avg=7)
+---------------------------------------
+4x Cailean				10  ANI OBF POT PRE dom	 archbishop	Nosferatu antitribu:2
+3x Beast, The Leatherface of Detroit	7   OBF POT ani cel	 		Nosferatu antitribu:2
+2x Nigel the Shunned			5   ANI POT obf		 		Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows		6   ANI OBF POT		 		Nosferatu antitribu:2
+1x Agatha				4   POT obf		 		Nosferatu antitribu:2
+1x Tommy				3   ani pot		 		Nosferatu antitribu:2
+
+Library (90 cards)
+Master (13)
+4x Blood Doll
+1x Depravity
+2x Dreams of the Sphinx
+2x Fame
+2x Nosferatu Kingdom
+1x Papillon
+1x Shanty Town Hunting Ground
+
+Action (11)
+3x Abbot
+7x Deep Song
+1x Heroic Might
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (7)
+1x Camera Phone
+1x Heart of Nizchetus
+2x Laptop Computer
+3x Leather Jacket
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+2x Raven Spy
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (7)
+5x Cats' Guidance
+2x Guard Dogs
+
+Combat (44)
+6x Carrion Crows
+2x Disarm
+4x Drawing Out the Beast
+3x Earthshock
+7x Immortal Grapple
+1x Slam
+8x Taste of Vitae
+9x Torn Signpost
+4x Undead Strength

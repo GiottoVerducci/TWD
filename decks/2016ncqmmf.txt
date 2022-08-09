@@ -1,0 +1,64 @@
+NCQ Marseille
+La Crypte du Jeu, Marseille, France
+June 4th 2016
+3R+F
+20 players
+Orian Gissler
+https://www.vekn.net/event-calendar/event/8296
+
+Deck Name: New Nana (27)
+Created by: Alain Greiner
+
+Crypt (15 cards, min=4, max=32, avg=4.2)
+----------------------------------------
+5x Anarch Convert	1   -none-	 Caitiff:ANY
+4x Nana Buruku		8   ANI POT PRE	 Guruhi:4
+1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
+1x Fish			5   ANI POT pre	 Guruhi:4
+1x Petra		5   ANI OBF aus	 Nosferatu:4
+1x Beetleman		4   ANI obf	 Nosferatu:4
+1x Bobby Lemon		4   ANI pro	 Gangrel:3
+1x Stick		3   ANI		 Nosferatu antitribu:4
+
+Library (90 cards)
+Master (33; 5 trifle)
+1x Anarch Free Press, The
+6x Anarch Revolt
+9x Ashur Tablets
+1x Fame
+2x Haven Uncovered
+4x Liquidation
+1x Palace Hunting Ground
+1x Pentex(TM) Subversion
+1x Powerbase: Luanda
+1x Powerbase: Montreal
+1x Twilight Camp
+4x Vessel
+1x Wider View
+
+Action (9)
+1x Army of Rats
+8x Deep Song
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (3)
+3x Raven Spy
+
+Reaction (14)
+3x Cats' Guidance
+2x Delaying Tactics
+2x Forced Awakening
+4x On the Qui Vive
+3x Sense the Savage Way
+
+Combat (29)
+9x Aid from Bats
+1x Canine Horde
+8x Carrion Crows
+2x Hell-for-Leather
+3x Target Vitals
+4x Taste of Vitae
+2x Terror Frenzy

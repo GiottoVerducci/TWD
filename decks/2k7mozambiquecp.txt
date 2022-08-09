@@ -1,0 +1,64 @@
+Mozambique Allure
+Cape Town, South Africa
+July 21st 2007
+10 players
+Robert Kihn
+
+-- 3VP in final
+
+Deck Name: Ventrue Law Firm
+
+Crypt (12 cards, min=16, max=40, avg=7.25)
+------------------------------------------
+3x Natasha Volfchek		   9   FOR PRE cel dom pot	primogen	Ventrue:1
+2x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Emerson Bridges		   8   DOM FOR PRE pot		prince		Ventrue:1
+1x Sir Walter Nash		   7   DOM FOR PRE		prince		Ventrue:1
+1x Timothy Crowley		   7   FOR PRE ani dom		prince		Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
+1x Courtland Leighton		   4   dom for pre				Ventrue:1
+1x Violette Prentiss		   4   PRE dom					Ventrue:1
+1x Gideon Fontaine		   3   PRE					Ventrue:1
+
+Library (90 cards)
+Master (22)
+5x Blood Doll
+1x Club Zombie
+2x Creepshow Casino
+1x Elder Library
+1x Elysium: The Arboretum
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+1x London Evening Star, Tabloid Newspaper
+5x Minion Tap
+1x Uptown Hunting Ground
+2x Ventrue Directorate Assembly
+1x Ventrue Headquarters
+
+Action (7)
+4x Govern the Unaligned
+3x Third Tradition: Progeny
+
+Political Action (23)
+1x Ancient Influence
+2x Banishment
+2x Consanguineous Boon
+2x Disputed Territory
+9x Kine Resources Contested
+1x Political Stranglehold
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Cairo
+1x Praxis Seizure: Geneva
+1x Reins of Power
+1x Ventrue Justicar
+1x Year of Fortune
+
+Action Modifier (16)
+6x Bewitching Oration
+3x Closed Session
+7x Voter Captivation
+
+Combat (22)
+13x Majesty
+5x Skin of Steel
+4x Staredown

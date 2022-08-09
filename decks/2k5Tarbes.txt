@@ -1,0 +1,67 @@
+Tournoi Châtellerault
+Tarbes, France
+July 31st 2005
+15 players
+François Morand
+
+Deck Name: Little Monster Pander
+
+Crypt (13 cards, min=4, max=20, avg=2.38)
+-----------------------------------------
+1x Korah		    7	AUS DEM OBF ani	 priscus	Malkavian antitribu:2
+1x Marie Faucigny	    7	AUS OBF dem tha	 archbishop	Malkavian antitribu:3
+1x Lena Rowe		    3	aus obf pre	 		Pander:2
+1x Rex, The Necronomist	    3	pot pro vic	 		Pander:2
+1x Christine Boscacci	    2	dom vic		 		Pander:2
+1x Mitchell, The Headhunter 2	obt pot		 		Pander:2
+1x Angela Decker	    1	pre		 		Pander:2
+1x Basil		    1	obf		 		Pander:2
+1x Feo Ramos		    1	aus		 		Pander:3
+1x Huang, Blood Cultist	    1	pro		 		Pander:2
+1x March Halcyon	    1	for		 		Pander:2
+1x Olga Triminov	    1	vic		 		Pander:3
+1x Royce		    1	dom		 		Pander:2
+
+Library (67 cards)
+Master (15)
+1x Anarch Troublemaker
+1x Creepshow Casino
+1x Día de los Muertos
+3x Effective Management
+1x Humanitas
+1x Information Highway
+1x Life Boon
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Madrid
+2x Powerbase: Rome
+1x Visit from the Capuchin
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (33)
+10x Consanguineous Boon
+1x Crusade: New York
+1x Crusade: Toronto
+2x Disputed Territory
+10x Kine Resources Contested
+8x Legacy of Pander
+1x Rumors of Gehenna
+
+Action Modifier (13)
+3x Change of Target
+2x Cloak the Gathering
+2x Faceless Night
+2x Forgotten Labyrinth
+2x Lost in Crowds
+2x Spying Mission
+
+Combat (3)
+3x Dodge
+
+Event (1)
+1x Anthelios, The Red Star

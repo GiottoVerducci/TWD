@@ -1,0 +1,84 @@
+High Aye
+Los Angeles, California
+February 18th 2012
+2R+F
+10 players
+Robert Scythe
+
+-- 3.5VP in final
+
+Deck Name: Animal Trackers
+
+Description: This was a rather old deck that had been updated
+with newer cards for kicks. I hardly played it, however, because
+of the popularity of animalism. When the tournament was about to
+begin all of my decks were kind of in pieces, so I grabbed this one
+- miscounted how many cards were in it (should have left it as
+it was) - and proceeded to add in 4 Ashur's and an HoN. Well,
+3 of the Tablets and an Anton (there were 4 originally) fell
+under a table. I noticed the crypt shortage and tossed in another
+Taylor from a different deck but did not notice the fallen Lbrary
+cards, thankfully, since that would have made it 92 cards and
+illegal. I did have to contend with one useless Ashur's and a
+card ratio I would want to tweak but the deck drew well all
+tournament. It is focused on dealing with S:CE and did a
+commendable job. Anton and The Taylor came out every round
+and at least one other, would change it to 4 and 4 and add
+another Wider View or 2.
+
+Crypt (12 cards, min=22, max=32, avg=7)
+---------------------------------------
+3x Anton		   8   ANI AUS cel obf vic  Tzimisce:2
+3x Little Tailor of Prague 8   ANI AUS VIC dem	    Tzimisce:2
+2x Caliban		   6   ANI AUS VIC	    Tzimisce:2
+2x Devin Bisley		   5   ANI AUS vic	    Tzimisce:2
+1x Dragos		   7   ANI AUS vic	    Tzimisce:2
+1x Omaya		   7   ANI AUS FOR pro	    Gangrel antitribu:2
+
+Library (89 cards)
+Master (12; 2 trifle)
+1x Ashur Tablets
+4x Blood Doll
+2x Direct Intervention
+2x Fame
+1x Giant's Blood
+2x Wider View
+
+Action (11)
+1x Aranthebes, The Immortal
+10x Deep Song
+
+Ally (5)
+1x Carlton Van Wyk
+1x Mylan Horseed
+3x Underbridge Stray
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (6)
+4x Murder of Crows
+2x Raven Spy
+
+Action Modifier (4)
+4x Mind of the Wilds
+
+Reaction (12)
+5x Eyes of Argus
+2x My Enemy's Enemy
+1x Sense the Savage Way
+4x Telepathic Misdirection
+
+Combat (35)
+12x Aid from Bats
+1x Canine Horde
+8x Carrion Crows
+2x Chiropteran Marauder
+4x Pack Alpha
+3x Taste of Vitae
+5x Telepathic Tracking
+
+Event (1)
+1x NSA Trio

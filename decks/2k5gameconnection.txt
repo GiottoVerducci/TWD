@@ -1,0 +1,64 @@
+Game Connection
+Manistique, Michigan
+February 13th 2005
+12 players
+David Wilson
+
+Deck Name: Matthias & Pals
+
+Notes:
+I have no idea why I did not have Erciyes Fragments, but I will
+definately put them in for future use. I also think Matthias could
+benefit from a rack. The deck is a little tricky, since Matthias runs
+out of blood too quickly which makes your minion taps on your other
+minions harder to do more effectively,
+
+Crypt (12 cards, min=21, max=31, avg=6.67)
+------------------------------------------
+5x Matthias			7   AUS FOR OBE nec	 	 Salubri:2
+3x Le Dinh Tho			5   NEC aus dom		 	 Nagaraja:2
+1x Quentin			9   AUS DOM FOR cel obt	 bishop	 Ventrue antitribu:2
+1x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 	 Ventrue antitribu:3
+1x Blackhorse Tanner		7   AUS DOM FOR		 	 Ventrue antitribu:3
+1x Blanche Hill			6   FOR OBE aus		 	 Salubri:2
+
+Library (90 cards)
+Master (15)
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Heidelberg Castle, Germany
+5x Minion Tap
+1x Perfectionist
+2x Sight Beyond Sight
+
+Action (21)
+3x Dominate Kine
+1x Graverobbing
+2x Precognizant Mobility
+2x Pulse of the Canaille
+5x Renewed Vigor
+8x Spirit Marionette
+
+Equipment (1)
+1x Sargon Fragment, The
+
+Action Modifier (22)
+3x Call of the Hungry Dead
+3x Change of Target
+2x Daring the Dawn
+2x Foreshadowing Destruction
+9x Freak Drive
+3x Repulsion
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+Reaction (16)
+2x Eagle's Sight
+12x Forced Awakening
+2x Telepathic Misdirection
+
+Combat (13)
+9x Anesthetic Touch
+4x Rolling with the Punches

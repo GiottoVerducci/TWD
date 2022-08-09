@@ -1,0 +1,60 @@
+Hungarian NB
+Szeged, Hungary
+October 3rd 2009
+18 players
+Gyula Erdõs
+
+Deck Name: Lambatchku!
+Created by: By Gyula Erdõs
+
+Description: Thanks goes to Stefan Ferenci for the idea
+
+Crypt (12 cards, min=12, max=34, avg=5.75)
+------------------------------------------
+2x Lambach		10  ANI AUS DOM VIC pre	 cardinal  Tzimisce:2
+2x Caliban		6   ANI AUS VIC		 	   Tzimisce:2
+2x Corine Marcón	6   AUS VIC ani		 	   Tzimisce:2
+1x Meshenka		8   ANI AUS VIC		 priscus   Tzimisce:2
+1x Devin Bisley		5   ANI AUS vic		 	   Tzimisce:2
+1x Elizabeth Westcott	5   AUS ani cel vic	 	   Tzimisce:3
+1x Lolita Houston	4   VIC aus		 	   Tzimisce:2
+1x Horatio		2   vic			 	   Tzimisce:2
+1x Olga Triminov	1   vic			 	   Pander:3
+
+Library (77 cards)
+Master (19; 5 trifle)
+2x Dreams of the Sphinx
+1x Library Hunting Ground
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+5x Rötschreck
+1x Smiling Jack, The Anarch
+1x Tension in the Ranks
+5x Vessel
+1x Yawp Court
+
+Action (1)
+1x Army of Rats
+
+Equipment (1)
+1x Palatial Estate
+
+Reaction (41)
+5x Eagle's Sight
+5x Enhanced Senses
+7x Eyes of Argus
+3x Forced Awakening
+5x My Enemy's Enemy
+2x On the Qui Vive
+3x Precognition
+3x Read the Winds
+3x Spirit's Touch
+5x Telepathic Misdirection
+
+Combat (14)
+7x Breath of the Dragon
+7x Chiropteran Marauder
+
+Event (1)
+1x Dr. Marisa Fletcher, CDC

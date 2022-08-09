@@ -1,0 +1,70 @@
+Polish NC 2011
+Gliwice, Poland
+May 7th 2011
+3R+F
+38 players
+Tomasz Kowalewski
+
+Deck Name: Classic Rachel v.1.1
+
+Crypt (12 cards, min=16, max=40, avg=7.25)
+------------------------------------------
+5x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	 Malkavian:3
+2x Greger Anderssen	7   AUS OBF dom pro	 prince	 Malkavian:2
+2x Victoria		5   AUS cel obf		 	 Malkavian:2
+1x Quentin King III	7   AUS DEM obf pre	 prince	 Malkavian:3
+1x Watenda		3   obf			 	 Malkavian:2
+1x Zöe			3   AUS cel obf		 	 Malkavian:2
+
+Library (90 cards)
+Master (16; 3 trifle)
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Madness Network
+2x Pentex(TM) Subversion
+2x Perfectionist
+1x Powerbase: Montreal
+1x Protean
+1x Rack, The
+3x Villein
+
+Action (2)
+1x Blessing of Chaos
+1x Judgment: Camarilla Segregation
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (2)
+1x Bowl of Convergence
+1x Ivory Bow
+
+Political Action (2)
+2x Parity Shift
+
+Retainer (4)
+3x Homunculus
+1x Mr. Winthrop
+
+Action Modifier (15)
+2x Elder Impersonation
+2x Enkil Cog
+5x Faceless Night
+6x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Touch of Clarity
+
+Reaction (20)
+6x Eyes of Argus
+2x My Enemy's Enemy
+8x Second Tradition: Domain
+4x Telepathic Misdirection
+
+Combat (22)
+18x Earth Meld
+4x Form of Mist

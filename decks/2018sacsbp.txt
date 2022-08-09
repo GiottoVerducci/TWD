@@ -1,0 +1,75 @@
+SAC 2018
+São Paulo, Brazil
+April 30th 2018
+3R+F
+29 players
+Ricardo Molina Sobreira
+https://www.vekn.net/event-calendar/event/8878
+
+-- 3VP in final
+
+Deck Name: Tremere Camarilla
+
+Crypt (12 cards, min=27, max=38, avg=8.08)
+------------------------------------------
+3x Carna, The Princess Witch	7   AUS DOM THA		 primogen  Tremere:3
+2x Lucas Halton			10  AUS CEL DOM THA qui	 prince	   Tremere:3
+2x Dr. John Dee			9   ANI AUS DOM THA chi	 prince	   Tremere:4
+2x Anastasz di Zagreb		8   AUS THA ani cel dom	 justicar  Tremere:3
+2x Troius			8   AUS DOM THA cel	 prince	   Tremere:4
+1x Eugenio Estevez		6   AUS THA dom for	 	   Tremere:3
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Golconda: Inner Peace
+1x Monastery of Shadows
+2x Pentex(TM) Subversion
+4x Vessel
+1x Villein
+
+Action (10)
+1x Far Mastery
+7x Govern the Unaligned
+2x Judgment: Camarilla Segregation
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ponticulus
+
+Equipment (2)
+1x Assault Rifle
+1x Ivory Bow
+
+Political Action (11)
+2x Alastor
+2x Anarchist Uprising
+3x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (12)
+1x Change of Target
+2x Conditioning
+8x Mirror Walk
+1x Threats
+
+Reaction (25)
+5x Deflection
+1x Eagle's Sight
+3x Enhanced Senses
+4x Eyes of Argus
+4x On the Qui Vive
+6x Second Tradition: Domain
+2x Telepathic Misdirection
+
+Combat (13)
+4x Apportation
+2x Flames of the Netherworld
+2x Rego Motum
+5x Theft of Vitae
+
+Event (1)
+1x Fourth Cycle, The

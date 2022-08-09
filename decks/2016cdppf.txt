@@ -1,0 +1,72 @@
+Coupe de Paris
+Paris, France
+March 20th 2016
+2R+F
+10 players
+Vincent Ripoll
+
+-- 2VP in final
+
+Deck Name: Princess Pitch
+
+Description: After going back and forth between versions with or without Dominate, with or without Villein+Perfectionist,
+I finally tried the highly aggressive way of doing things: no deflection, 2 more Shattering Crescendos and Daring the Dawn
+to ensure the delivery. The deck is a bit like a weenie potence when having an aggressive predator, but with
+even less defense considering the intercept problems of the Daughters. Backousting IS an option because there is
+very little pool gain (Legal, Wider View and Powerbase if you're lucky to draw it).
+The "stealth" module (Daring the Dawn, Missing Voice, Siren's Lure, Paris Opera House and Virtuosa) works extremely well,
+even against heavy blocker. Just be sure to use the Daring wisely so you send the blocking minions to torpor.
+
+Crypt (12 cards, min=12, max=24, avg=4.58)
+------------------------------------------
+3x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
+3x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+1x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+1x Muse				  3   ani for mel	Daughter of Cacophony:2
+1x New Blood			  2   san		Blood Brother:ANY -- a chump blocker, and crypt cycler
+
+Library (88 cards)
+Master (17; 2 trifle)
+2x Archon Investigation
+1x Carver's Meat Packing and Storage
+1x Command Performance -- great card, definitely worth the 2 pool (you can always hunt).
+1x Fear of Mekhet
+1x Fragment of the Book of Nod
+3x Jake Washington
+2x Paris Opera House
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Retribution -- fun card, it never sent someone to torpor for now
+2x Wider View
+
+Action (33)
+1x Aranthebes, The Immortal
+3x Entrancement
+7x Legal Manipulations -- the ousting power, and the pool gain!
+2x Rapid Healing -- quite useful considering the amount of Daring the Dawn.
+20x Shattering Crescendo
+
+Ally (1)
+1x Carlton Van Wyk -- has the added value of avoiding diablerie of a Daughter after a DtD.
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Action Modifier (24)
+6x Daring the Dawn
+4x Freak Drive
+10x Missing Voice, The -- very easy to cycle
+2x Siren's Lure
+2x Virtuosa
+
+Action Modifier/Combat (6)
+6x Force of Personality -- very polyvalent, very useful against Carlton or Unmasking, or to attrition vampires
+
+Reaction (4)
+2x Delaying Tactics
+2x On the Qui Vive
+
+Event (1)
+1x Dragonbound -- can be discarded if drawn too early or not clearly advantaging

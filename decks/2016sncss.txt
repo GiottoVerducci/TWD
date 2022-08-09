@@ -1,0 +1,59 @@
+Swedish NC 2016
+Stockholm, Sweden
+October 8th 2016
+3R+F
+31 players
+Kim Nilsson
+https://www.vekn.net/event-calendar/event/8488
+
+Deck Name: Vampire-SM 2016. Field Training Bats v.3
+Created by: Kimpsan
+
+Description: My winning deck in the Swedish nationals.
+Could have used a little more combat. Winning cards was Anarch revolt and Fame.
+
+Crypt (12 cards, min=4, max=16, avg=2.5)
+----------------------------------------
+4x Anarch Convert	1   -none-	 Caitiff:ANY
+1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
+1x Beetleman		4   ANI obf	 Nosferatu:4
+1x Bobby Lemon		4   ANI pro	 Gangrel:3
+1x Clarissa Steinburgen	3   ani obf	 Nosferatu:3
+1x Darva Felispa	3   ani pot	 Nosferatu:3
+1x Stick		3   ANI		 Nosferatu antitribu:4
+1x Mouse		2   ani		 Nosferatu:3
+1x Zip			2   ani		 Ravnos:3
+
+Library (80 cards)
+Master (13; 1 trifle)
+1x Anarch Free Press, The
+4x Anarch Revolt
+1x Archon Investigation
+2x Blood Doll
+1x Direct Intervention
+2x Fame
+1x Powerbase: Montreal
+1x Vessel
+
+Action (19)
+2x Army of Rats
+11x Deep Song
+5x Field Training
+1x Nosferatu Bestial
+
+Retainer (3)
+3x Raven Spy
+
+Reaction (14)
+3x Cats' Guidance
+3x Guard Dogs
+4x On the Qui Vive
+2x Poison Pill
+2x Protection Racket
+
+Combat (31)
+14x Aid from Bats
+2x Canine Horde
+9x Carrion Crows
+2x Groundfighting
+4x Taste of Vitae

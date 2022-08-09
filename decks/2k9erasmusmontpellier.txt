@@ -1,0 +1,60 @@
+QC Erasmus
+Montpellier, France
+August 29th 2009
+3R+F
+10 players
+Yannick Gibert
+
+Deck Name: Anarchs & Dragons 4
+
+Crypt (12 cards, min=4, max=13, avg=1.92)
+-----------------------------------------
+6x Anarch Convert  1   -none-	    Caitiff:ANY
+2x Piotr Andreikov 2   aus	    Tzimisce:3
+1x Lolita Houston  4   VIC aus	    Tzimisce:2
+1x Terrence	   4   ani aus vic  Tzimisce:2
+1x Wendy Wade	   3   ani aus	    Tzimisce:2
+1x Horatio	   2   vic	    Tzimisce:2
+
+Library (67 cards)
+Master (32; 1 trifle)
+4x Blood Doll
+1x Carver's Meat Packing and Storage
+3x Direct Intervention
+1x Failsafe
+2x Fame
+1x Fortschritt Library
+5x Jake Washington
+1x Not to Be
+5x Parthenon, The
+2x Pentex(TM) Subversion
+6x Piper
+1x Powerbase: Montreal
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Constant Revolution
+
+Ally (13)
+1x Carlton Van Wyk
+2x Vagabond Mystic
+10x War Ghoul
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Reaction (4)
+3x Delaying Tactics
+1x On the Qui Vive
+
+Combat (9)
+5x Fake Out
+4x Trap
+
+Event (3)
+1x Anthelios, The Red Star
+1x Dragonbound
+1x Unmasking, The

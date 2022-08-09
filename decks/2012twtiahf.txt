@@ -1,0 +1,82 @@
+Justicar Retribution IX - The Winner Takes it All
+Helsinki, Finland
+September 30th 2012
+3R+F
+12 players
+Aleksi Nuora
+
+-- 3VP in final
+
+Deck Name: Undele's Bag of Dicks
+
+Description: Bring out big guys with Zillah's to secure a fast vote lock,
+proceed to win with Undele. For defending and breaking stalemates, pull dick
+moves like recycling Banishment, DI, Entrancement or Pentex. Very difficult
+to stop by the time it gets a third minion out.
+The burn option cards are a mix of whatever I had within arm's reach at the
+time I built the deck. Ideally, they would all be masters to feed Anthelios.
+The deck needs a sixth Villein in order to draw one reliably and early,
+probably in place of Golconda or Giant's Blood. If I was expecting heavy
+bleeding I would also add a second Protected Resources.
+
+Crypt (12 cards, min=36, max=42, avg=9.5)
+-----------------------------------------
+5x Undele		 9   CEL FOR obf pre ser	magaji		Ishtarri:5
+2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+2x Armin Brenner	 10  CEL FOR POT PRE ani obf	archbishop	Brujah antitribu:4
+2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
+1x Hektor		 9   CEL POT PRE QUI for	priscus		Brujah antitribu:4
+
+Library (60 cards)
+Master (33; 7 trifle)
+3x Ashur Tablets
+1x Command Performance -- burn option
+1x Creepshow Casino
+1x Direct Intervention
+3x Dirty Contract -- burn option
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Legendary Vampire
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Protected Resources
+2x Slaughterhouse, The -- burn option
+5x Villein
+1x Waste Management Operation
+2x Wider View
+6x Zillah's Valley
+
+Action (1)
+1x Entrancement
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (8)
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+3x Kine Resources Contested
+1x Political Stranglehold
+1x Rumors of Gehenna
+
+Action Modifier (6)
+1x Forced March
+1x Forgotten Labyrinth
+1x Lost in Crowds
+1x Perfect Paragon
+2x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Force of Personality
+
+Reaction (1)
+1x Lost in Translation
+
+Combat/Reaction (7)
+7x Evil Eye -- burn option
+
+Event (1)
+1x Anthelios, The Red Star

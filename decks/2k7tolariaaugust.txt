@@ -1,0 +1,41 @@
+Tolaria Agosto 2007
+Tolaria, Córdoba, Spain
+August 18th 2007
+22 players
+Daniel Carretero Ferres
+
+Deck Name: Turbo Parity
+
+Description: Based on Legendary Nosferatu by Kamel Senni
+
+Crypt (12 cards, min=27, max=36, avg=8.08)
+------------------------------------------
+3x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+3x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
+3x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+
+Library (60 cards)
+Master (21)
+1x Barrens, The
+1x Labyrinth, The
+7x Legendary Vampire
+1x Pentex(TM) Subversion
+2x Specialization
+1x Temptation of Greater Power
+8x Zillah's Valley
+
+Political Action (20)
+3x Banishment
+2x Domain Challenge
+6x Kine Resources Contested
+9x Parity Shift
+
+Action Modifier (19)
+3x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+7x Freak Drive
+5x Lost in Crowds

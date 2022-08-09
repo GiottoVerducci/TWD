@@ -1,0 +1,70 @@
+Dutch ECQ
+Utrecht, Netherlands
+June 15th 2008
+3R+F
+19 players
+Peter Bouwman
+
+Crypt (12 cards, min=11, max=28, avg=4.92)
+------------------------------------------
+3x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+1x Bryan Van Duesen		7   DOM THA aus pre		  Tremere antitribu:2
+1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		  Tremere:2
+1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+1x Hannigan			5   AUS THA dom			  Tremere antitribu:2
+1x Blythe Candeleria		3   THA aus			  Tremere:2
+1x Brooke			3   dom tha			  Tremere antitribu:2
+1x Ehrich Weiss			3   dom tha			  Tremere:3
+1x Masika St. John		3   THA				  Tremere:3
+1x Mustafa Rahman		2   dom				  Tremere:2
+
+Library (89 cards)
+Master (19; 3 trifle)
+1x Academic Hunting Ground
+2x Anarch Troublemaker
+1x Arcane Library
+1x Barrens, The
+3x Blood Doll
+1x Chantry
+1x Curse of Nitocris
+2x Dominate
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+3x Vessel
+1x WMRH Talk Radio
+
+Action (7)
+2x Govern the Unaligned
+3x Magic of the Smith
+2x Rutor's Hand
+
+Equipment (5)
+1x Bowl of Convergence
+1x Ivory Bow
+1x Palatial Estate
+1x Sniper Rifle
+1x Sport Bike
+
+Political Action (1)
+1x Tremere Justicar
+
+Retainer (1)
+1x Charnas the Imp
+
+Action Modifier (12)
+8x Conditioning
+4x Mirror Walk
+
+Reaction (28)
+6x Deflection
+4x Eagle's Sight
+3x Enhanced Senses
+5x Forced Awakening
+4x On the Qui Vive
+3x Precognition
+3x Spirit's Touch
+
+Combat (16)
+7x Apportation
+9x Theft of Vitae

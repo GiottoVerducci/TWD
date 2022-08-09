@@ -1,0 +1,65 @@
+Czech NC 2006
+Brno, Czech Republic
+September 16th 2006
+35 players
+Roman Kedzior
+
+Deck Name: Marijava Thuggee
+
+Crypt (12 cards, min=14, max=24, avg=4.67)
+------------------------------------------
+3x Roger Farnsworth	4   OBF aus		Malkavian antitribu:3
+2x Ingram Frizer	6   AUS OBF ani pot	Nosferatu antitribu:3
+2x Sennadurek		6   AUS NEC dom		Nagaraja:4
+2x Colonel, The		5   AUS cel dem obf	Malkavian antitribu:3
+1x Katherine Stoddard	4   dom for		Ventrue antitribu:3
+1x Mariano Pomposo	4   aus cel pot		Brujah antitribu:3
+1x Piotr Andreikov	2   aus			Tzimisce:3
+
+Library (90 cards)
+Master (17; 6 trifle)
+5x Blood Doll
+1x Charisma
+6x Corporal Reservoir
+4x Dominion
+1x Millicent Smith, Puritan Vampire Hunter
+
+Action (18)
+5x Bloodwork
+3x Computer Hacking
+1x Restructure
+6x Reunion Kamut
+3x Sibyl's Tongue
+
+Ally (19)
+1x Carlton Van Wyk
+1x Gregory Winter
+6x Marijava Thuggee
+1x Mylan Horseed
+2x Neighborhood Watch Commander
+1x Ossian
+6x Procurer
+1x Vagabond Mystic
+
+Action Modifier (17)
+4x Art of Memory, The
+2x Circumspect Revelation
+5x Cloak the Gathering
+3x Faceless Night
+3x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (10)
+6x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (3)
+1x Dodge
+2x Weighted Walking Stick
+
+Event (3)
+1x FBI Special Affairs Division
+1x Restricted Vitae
+1x Unmasking, The

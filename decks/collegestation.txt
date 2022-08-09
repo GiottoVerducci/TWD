@@ -1,0 +1,64 @@
+Praxis Seizure: College Station
+College Station, Texas
+July 14th 2001
+Jeffrey Thompson
+
+-- 4VP in final
+
+Deck Name: The Lasombra Vote
+
+Crypt (12 cards, min=24, max=40, avg=8.33)
+------------------------------------------
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+2x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
+2x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Ignacio, The Black Priest		  4   dom obt pot			    Lasombra:2
+1x Ramiro				  4   dom obt vic			    Lasombra:2
+
+Library (89 cards)
+Master (18)
+1x Blood Doll
+1x Creepshow Casino
+1x Elysian Fields
+2x Golconda: Inner Peace
+1x Legendary Vampire
+3x Major Boon
+5x Minion Tap
+1x Path of Night, The
+2x Power Structure
+1x Zillah's Valley
+
+Action (14)
+5x Creation Rites
+4x Eternal Vigilance -- should have been anything else, I discarded them all every game
+2x Govern the Unaligned -- bring out vampires faster
+3x Scouting Mission -- bring out vampires faster
+
+Political Action (21)
+1x Ancient Influence
+3x Banishment
+1x Cardinal Benediction
+6x Consanguineous Boon
+3x Domain Challenge
+2x Dramatic Upheaval
+4x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (15)
+1x Blanket of Night -- won me the final game, made a Dramatic Upheaval unblocked, followed up by 2 Domain Challenges to oust each of my successive preys that same turn
+2x Cryptic Rider
+2x Private Audience
+5x Shadow Play
+5x Shroud of Night
+
+Reaction (11)
+4x Deflection
+3x Delaying Tactics
+3x Obedience
+1x Wake with Evening's Freshness
+
+Combat (10)
+10x Shadow Body

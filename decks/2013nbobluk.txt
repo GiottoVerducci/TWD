@@ -1,0 +1,64 @@
+New Blood Old Blood
+London, England
+July 27th 2013
+3R+F
+14 players
+Boris Mailhé
+
+Deck Name: DOM, +1 stealth, what else?
+
+An old deck slightly tweaked after looking at Kakarot and Lönkka's TWDs.
+DOM and permanent +1 Stealth is amazing, and an early Heart of Nizchetus
+allows to run a huge Wash + reactions package without sacrificing the
+offensive cardflow. So you can afford to take it slowly, Govern your
+whole uncontrolled region out, tool up and wait for the opening.
+
+Crypt (13 cards, min=15, max=32, avg=6)
+---------------------------------------
+4x Paul Cordwood		8   AUS DOM THA obf pre	 bishop	   Tremere antitribu:4
+1x Carna, The Princess Witch	7   AUS DOM THA		 primogen  Tremere:3
+1x Preston Varrick		7   DOM OBF THA aus nec	 	   Tremere:4
+1x Muhsin Samir			6   DOM THA aus pot	 	   Tremere:4
+1x Selena			6   AUS DOM THA		 	   Tremere antitribu:3
+1x Cohn Rose			5   THA aus dom pre	 	   Tremere:3
+1x Frank Weisshadel		4   dom pot tha		 	   Tremere:4
+1x Janine			4   aus dom tha		 	   Tremere antitribu:4
+1x Pieter van Dorn		4   dom pre tha		 	   Tremere:3
+1x Ehrich Weiss			3   dom tha		 	   Tremere:3
+
+Library (75 cards)
+Master (18; 8 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+2x Misdirection
+2x Pentex(TM) Subversion
+7x Wash
+
+Action (17)
+2x Far Mastery
+12x Govern the Unaligned
+3x Magic of the Smith
+
+Ally (1)
+1x Ponticulus
+
+Equipment (3)
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Signet of King Saul, The
+
+Action Modifier (17)
+4x Bonding
+5x Conditioning
+8x Mirror Walk
+
+Reaction (18)
+8x Deflection
+4x Delaying Tactics
+6x On the Qui Vive
+
+Event (1)
+1x Uncoiling, The

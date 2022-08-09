@@ -1,0 +1,69 @@
+Lay Low
+Fortaleza, Brazil
+June 2nd 2018
+2R+F
+14 players
+Márcio Pinheiro
+https://www.vekn.net/event-calendar/event/8926
+
+-- 1GW4 + 3VP in final
+
+Deck Name: Livia's
+Created by: Márcio "O Feio"
+
+Description: Deck em homenage a Livia, filha do Zoroh
+
+Crypt (12 cards, min=25, max=44, avg=8.58)
+------------------------------------------
+4x Stanislava	  11  ANI CEL DOM FOR PRO  inner circle	 Gangrel:2
+4x Iliana	  7   DOM FOR PRO tha	   		 Gangrel:2
+3x Ingrid Rossler 9   ANI FOR PRO dom	   prince	 Gangrel:2
+1x Ramona (ADV)	  4   for pro		   		 Gangrel:2
+
+Library (90 cards)
+Master (15; 5 trifle)
+1x Backways
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Giant's Blood
+1x Minion Tap
+2x Perfectionist
+2x Vessel
+2x Villein
+1x Wash
+1x Zoo Hunting Ground
+
+Action (16)
+1x Dominate Kine
+1x Far Mastery
+8x Govern the Unaligned
+1x Graverobbing
+5x Thing
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (20)
+4x Conditioning
+4x Earth Control
+2x Foreshadowing Destruction
+6x Freak Drive
+4x Seduction
+
+Action Modifier/Combat (4)
+4x Rapid Change
+
+Reaction (16)
+6x Deflection
+3x Forced Vigilance
+1x Obedience
+4x On the Qui Vive
+2x Redirection
+
+Combat (18)
+1x Body Flare
+8x Earth Meld
+6x Form of Mist
+1x Hidden Strength
+2x Skin of Steel

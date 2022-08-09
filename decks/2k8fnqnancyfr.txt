@@ -1,0 +1,69 @@
+French NCQ
+Nancy, France
+February 9th 2008
+3R+F
+24 players
+Orian Gissler
+
+Deck Name: Shambling hordes ou pas
+
+Description: 1 ossian is missing - could not find him at 6 a.m.
+
+Crypt (12 cards, min=8, max=18, avg=3.17)
+-----------------------------------------
+2x Marciana Giovanni, Investigator 2   dom		Giovanni:2
+2x Paul DiCarlo, The Alpha	   2   pot		Giovanni:2
+1x Isabel Giovanni		   5   DOM NEC pot	Giovanni:2
+1x Vittorio Giovanni		   5   dom for nec pot	Giovanni:2
+1x Francesca Giovanni		   4   dom nec pot	Giovanni:2
+1x Gloria Giovanni		   4   DOM nec		Giovanni:2
+1x Cristofero Giovanni		   3   nec pot		Giovanni:2
+1x Lia Milliner			   3   dom nec		Giovanni:3
+1x Mario Giovanni		   3   nec pot		Giovanni:2
+1x Rudolfo Giovanni		   3   NEC		Giovanni:2
+
+Library (80 cards)
+Master (28; 5 trifle)
+5x Acquired Ventrue Assets
+1x Coven, The
+1x Direct Intervention
+1x Fame
+5x Jake Washington
+5x Liquidation
+4x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+4x Vessel
+
+Action (21)
+7x Embrace, The
+7x Khazar's Diary (Endless Night)
+7x Sudario Refraction
+
+Ally (16)
+1x Alia, God's Messenger
+1x Ambrosius, The Ferryman
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Leonardo, Mortician
+1x Mylan Horseed
+1x Ossian
+3x Repo Man
+2x Shambling Hordes
+1x Tye Cooper
+2x Vagabond Mystic
+1x Young Bloods
+
+Reaction (8)
+4x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+
+Combat (2)
+2x Trap
+
+Event (5)
+1x Anthelios, The Red Star
+1x FBI Special Affairs Division
+1x Uncoiling, The
+2x Unmasking, The

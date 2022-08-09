@@ -1,0 +1,71 @@
+Minion Tap is Dead #2
+Berkeley, California
+May 1st 2010
+14 players
+Robert Scythe
+
+Deck Name: City Ahrimanes
+Created by: Robert Scythe
+
+Description: Toolbox Ahrimanes that try to get their actions through.
+A thorough mix of bleed/bloat, intercept and offensive/defensive
+combat. this deck normally has no Mind Numbs, Vessels or Dreams and
+one less Pentex; instead a Carlton, 1 more D.I., another Entrancement,
+a Jake and a Heart of Nizchetus.
+
+Crypt (12 cards, min=24, max=32, avg=7)
+---------------------------------------
+4x Howler	  8   ANI PRE SPI obf	Ahrimane:2
+4x Siamese, The	  7   PRE SPI ani pro	Ahrimane:2
+4x Cynthia Ingold 6   SPI ani for pre	Ahrimane:2
+
+Library (90 cards)
+Master (12; 1 trifle)
+3x Blood Doll
+1x Club Zombie
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Guardian Angel
+1x KRCG News Radio
+2x Pentex(TM) Subversion
+1x Vessel
+
+Action (26)
+2x Abbot
+1x Aranthebes, The Immortal
+6x Engling Fury
+1x Entrancement
+2x Heart of the City
+2x Mind Numb
+2x Muricia's Call
+8x Social Charm
+1x Summoning, The
+1x Vulture's Buffet
+
+Ally (2)
+1x High Top
+1x Mylan Horseed
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (8)
+2x Murder of Crows
+1x Owl Companion
+5x Raven Spy
+
+Action Modifier (10)
+10x Squirrel Balance
+
+Action Modifier/Combat (12)
+12x Swiftness of the Stag
+
+Reaction (12)
+2x Ears of the Hare
+10x Speak with Spirits
+
+Combat (7)
+1x Canine Horde
+2x Leapfrog
+4x Pack Alpha

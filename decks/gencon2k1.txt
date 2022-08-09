@@ -1,0 +1,70 @@
+NAC 2001 Day 2
+GenCon, Milwaukee, Wisconsin
+August 5th 2001
+Ben Peal
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3E6a98pg8fg
+
+Deck: Short Leash Bleed 4.0
+
+Description: Obf/Dom stealth/bleed. Typically bleeding for no more
+than 3. If bleeds are bounced, use "media outlets" to give opposing
+minions intercept to help block, then Change of Target. Deflection,
+Obedience, and some intercept for defense, plus a few fun gimmicks.
+
+- Ben Peal, Prince of Boston
+fudjo@mindstorm.com
+
+Crypt (12 cards, min=14, max=28, avg=5.25)
+------------------------------------------
+1x Gratiano			    8	DOM OBT obf pot	 priscus  Lasombra:2
+1x Gilbert Duane		    7	AUS DOM OBF	 prince	  Malkavian:1
+1x Mariel, Lady Thunder		    7	DOM OBF aus tha	 	  Malkavian:1
+1x Ozmo				    6	AUS dom obf	 	  Malkavian:1
+1x Reverend Blackwood		    6	DOM THA obf	 bishop	  Tremere antitribu:2
+1x Badr al-Budur		    5	OBF cel dom qui	 	  Assamite:2
+1x Count Ormonde		    5	OBF dom pre ser	 	  Follower of Set:2
+1x Didi Meyers			    5	DOM aus cel obf	 	  Malkavian:1
+1x Zebulon			    5	OBF aus dom pro	 	  Malkavian:1
+1x Roland Bishop		    4	aus dom obf	 	  Malkavian:1
+1x Regilio, The Seeker of Akhenaten 3	aus obf		 	  Nosferatu:2
+1x Normal			    2	obf		 	  Malkavian:1
+
+Library (90 cards)
+Master (18)
+1x Asylum Hunting Ground
+2x Barrens, The
+3x Blood Doll
+2x KRCG News Radio
+2x London Evening Star, Tabloid Newspaper
+2x Minion Tap
+2x Rumor Mill, Tabloid Newspaper, The
+4x Sudden Reversal
+
+Action (11)
+10x Govern the Unaligned
+1x Revelations
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Political Action (2)
+2x Dramatic Upheaval
+
+Action Modifier (32)
+8x Bonding
+9x Change of Target
+4x Elder Impersonation
+3x Faceless Night
+4x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (22)
+10x Deflection
+2x Eagle's Sight
+2x Enhanced Senses
+2x Malkavian Rider Clause
+4x Obedience
+2x Spirit's Touch

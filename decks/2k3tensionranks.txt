@@ -1,0 +1,65 @@
+Tension in the Ranks
+Washington, D.C.
+March 22nd 2003
+16 players
+Tom Mickle
+
+Jake & fake, Pool & ghoul, Bounce & trounce
+
+Crypt (24 cards, min=7, max=32, avg=4.21)
+-----------------------------------------
+5x Little Tailor of Prague 8   ANI AUS VIC dem	Tzimisce:2
+5x Devin Bisley		   5   ANI AUS vic	Tzimisce:2
+3x Isabel de Leon	   3   AUS		Toreador:2
+3x Wendy Wade		   3   ani aus		Tzimisce:2
+3x Zöe			   3   AUS cel obf	Malkavian:2
+2x Brazil		   2   aus		Malkavian:1
+2x Horatio		   2   vic		Tzimisce:2
+1x Franciscus		   1   aus		Caitiff:2
+
+Library (90 cards)
+Master (25)
+6x Blood Doll
+1x Charisma
+1x Club Zombie
+1x Creepshow Casino
+1x Direct Intervention
+2x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+5x Jake Washington
+3x Library Hunting Ground
+1x Mob Connections
+1x Powerbase: Montreal
+1x Tension in the Ranks
+
+Ally (11)
+1x Vagabond Mystic
+10x War Ghoul
+
+Equipment (1)
+1x IR Goggles
+
+Retainer (8)
+3x Ghoul Escort
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Revenant
+1x Tasha Morgan
+
+Action Modifier (5)
+5x Changeling
+
+Action Modifier/Combat (6)
+6x Plasmic Form
+
+Reaction (18)
+1x Eagle's Sight
+10x Telepathic Misdirection
+7x Wake with Evening's Freshness
+
+Combat (16)
+3x Breath of the Dragon
+9x Fake Out
+4x Trap

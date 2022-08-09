@@ -1,0 +1,97 @@
+Stanhope Arms
+Burton-on-Trent, England
+March 19th 2011
+2R+F
+13 players
+Dave Knowles
+
+Deck Name: Bitey Wizards
+Created by: Dave Knowles // Shockwave @ #vtes
+
+Thanks to #vtes on SorceryNet for critiqueing this
+deck a million times for me, and Hugh & John for
+putting up with oddball ideas when I should be
+playing something more sensible.
+
+Beatrice is *golden*. Leech, burn the Second Sight when
+announced, untap, bleed with pot options that worry people.
+I'm tempted to have an extra one. Keith and Esoara have never
+seen play.
+
+Seems to flow just about right, maybe needs another Intercept location.
+
+Veil of Darkness kills tables. Everyone will hate you
+for it (and with good reason), but it's pretty much a key
+card to drop via Fortschritt if necessary. It saves me
+repeatedly, including killing the Stealth on the Ancilla
+Empowerment that would have killed me in the final.
+
+Probably needs 1-2 more Actions, no idea what to lose to manage it, though.
+
+I have no idea why the more common Nephandus deck runs 10.
+I never see 10, I never can afford 10, and I run out of turns
+before I'd get 10. Young Bloods and Carlton can also Leech.
+
+Once again, a smidge too light, really.
+
+The kicker. Nobody expects a Nephandus to Disarm you,
+and nobody expects a Nephandus to survive a Torn Signpost
+*and* Disarm you.
+
+Crypt (12 cards, min=13, max=20, avg=4.33)
+------------------------------------------
+5x Antonio d'Erlette		 5   THA dom for pot	Tremere antitribu:4
+2x Esoara			 5   DOM aus for pot	Tremere antitribu:4
+2x Earl				 4   dom for pot	Ventrue:3
+2x Béatrice "Oracle171" Tremblay 3   inn ven		Innocent:4
+1x Keith Moody			 3   DOM		Tremere antitribu:4
+
+Library (81 cards)
+Master (14)
+3x Blood Doll
+1x Channel 10
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The
+2x Fame
+1x Fortschritt Library
+1x Major Boon
+1x Rack, The
+1x University Hunting Ground
+1x Wall Street Night, Financial Newspaper
+
+Conviction (1)
+1x Second Sight -- I've tried running three, you just recycle the Second Sight every time anyway.
+
+Action (17)
+4x Computer Hacking
+4x Harass
+9x Leech
+
+Ally (10)
+1x Carlton Van Wyk
+7x Nephandus
+1x Ossian
+1x Young Bloods
+
+Equipment (1)
+1x Unlicensed Taxicab -- Never saw play.
+
+Action Modifier (3)
+1x Conditioning
+2x Empowering the Puppet King
+
+Reaction (12)
+8x Deflection
+4x On the Qui Vive
+
+Combat (19)
+2x Armor of Vitality
+4x Disarm
+5x Glancing Blow
+6x Target Vitals
+2x Trap
+
+Event (4)
+1x Slow Withering, The
+2x Unmasking, The
+1x Veil of Darkness

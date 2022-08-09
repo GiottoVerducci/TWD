@@ -1,0 +1,53 @@
+Hungarian ECQ
+Budapest, Hungary
+September 7th 2013
+3R+F
+22 players
+Balázs Kalóczkai
+
+Deck Name: Fast Sticks
+
+Crypt (12 cards, min=7, max=22, avg=3.67)
+-----------------------------------------
+2x Miguel Santo Domingo	  7   POT PRE cel for	Brujah antitribu:3
+2x Parmenides		  4   CEL qui		Assamite:2
+1x Jimmy Dunn		  4   CEL POT for	Pander:2
+1x Scarlet Carson O'Toole 4   CEL pro		Gangrel antitribu:3
+1x Victor Tolliver	  4   CEL pot		Brujah antitribu:2
+1x Sarah Brando		  3   CEL		Brujah antitribu:2
+1x Carter		  2   cel		Toreador antitribu:2
+1x Jesús Alcalá		  2   cel		Gangrel antitribu:3
+1x Kanya Akhtar		  2   cel		Assamite:2
+1x Antoinette DuChamp	  1   cel pre		Caitiff:2
+
+Library (90 cards)
+Master (15; 4 trifle)
+3x Celerity
+1x Frontal Assault
+1x Information Highway
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+3x Tribute to the Master
+4x Vessel
+1x Yawp Court
+
+Action (12)
+6x Bum's Rush
+3x Games of Instinct
+3x Rumble
+
+Equipment (3)
+2x Camera Phone
+1x Codex of the Edenic Groundskeepers
+
+Combat (60)
+3x Blur
+1x Fast Hands
+5x Flash
+5x Glancing Blow
+10x Psyche!
+9x Pursuit
+5x Side Strike
+5x Sideslip
+8x Taste of Vitae
+9x Weighted Walking Stick

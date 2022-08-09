@@ -1,0 +1,58 @@
+Resurrection, the Rising
+Columbus, Ohio
+April 3rd 2010
+2R+F
+17 players
+John Bell
+
+Deck Name: Tatu Song
+
+Description: This is a staple deck I've kept built, inspired
+by one I watched Robyn Tatu play a number of years ago.
+It's always performed well with enough actions, block and
+combat damage. The versatility of Deep Song makes it a huge
+addition to the deck.
+
+Crypt (12 cards, min=8, max=19, avg=3.25)
+-----------------------------------------
+2x Dani				2   ani		 	 Nosferatu antitribu:2
+1x Calebros, The Martyr		5   ANI obf pot	 prince	 Nosferatu:2
+1x Devin Bisley			5   ANI AUS vic	 	 Tzimisce:2
+1x Nigel the Shunned		5   ANI POT obf	 	 Nosferatu antitribu:2
+1x Bobby Lemon			4   ANI pro	 	 Gangrel:3
+1x Leon				3   ani for	 	 Gangrel antitribu:2
+1x Shannon Price, The Whisperer	3   ani obf	 	 Nosferatu antitribu:2
+1x Tommy			3   ani pot	 	 Nosferatu antitribu:2
+1x Wendy Wade			3   ani aus	 	 Tzimisce:2
+1x Gillian Krader		2   ani dem	 	 Pander:2
+1x Zip				2   ani		 	 Ravnos:3
+
+Library (90 cards)
+Master (17)
+5x Animalism
+3x Archon Investigation
+5x Blood Doll
+2x Effective Management
+1x Humanitas
+1x Hungry Coyote, The
+
+Action (11)
+1x Army of Rats
+10x Deep Song
+
+Retainer (11)
+1x Mr. Winthrop
+4x Murder of Crows
+6x Raven Spy
+
+Reaction (14)
+4x Cats' Guidance
+8x Forced Awakening
+2x On the Qui Vive
+
+Combat (37)
+12x Aid from Bats
+10x Carrion Crows
+8x Drawing Out the Beast
+2x Pack Alpha
+5x Taste of Vitae

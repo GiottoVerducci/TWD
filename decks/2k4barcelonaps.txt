@@ -1,0 +1,57 @@
+Praxis Seizure: Barcelona
+Barcelona, Spain
+October 30th 2004
+34 players
+Aldo Bosmn
+
+Deck: Y Johnny cogió su fusil
+
+Description: Blocker Deck based around Lucas Halton with Assault Rifle
+via magic of the smith, young vamps to either bleed or diablerie.
+
+Crypt (12 cards, min=9, max=40, avg=6.25)
+-----------------------------------------
+3x Helena		   10  AUS CEL DOM obf pre tha		Toreador:3
+3x Lucas Halton		   10  AUS CEL DOM THA qui	prince	Tremere:3
+1x Blythe Candeleria	   3   THA aus				Tremere:2
+1x Isabel de Leon	   3   AUS				Toreador:2
+1x Yvette, The Hopeless	   3   aus cel				Toreador:3
+1x Almiro Suarez	   2   aus				Tremere:3
+1x Emerson Wilkershire III 2   pre				Toreador:3
+1x Mustafa Rahman	   2   dom				Tremere:2
+
+Library (90 cards)
+Master (14)
+1x Arcane Library
+1x Art Museum
+1x Blood Doll
+1x Direct Intervention
+3x Fortitude
+1x Giant's Blood
+5x Minion Tap
+1x Rack, The
+
+Action (11)
+4x Govern the Unaligned
+7x Magic of the Smith
+
+Equipment (6)
+4x Assault Rifle
+1x Seal of Veddartha
+1x Sport Bike
+
+Reaction (29)
+3x Eagle's Sight
+4x Enhanced Senses
+5x Forced Awakening
+4x My Enemy's Enemy
+4x Quicken Sight
+5x Second Tradition: Domain
+4x Telepathic Misdirection
+
+Combat (30)
+6x Psyche!
+10x Pursuit
+2x Sideslip
+6x Skin of Steel
+6x Taste of Vitae

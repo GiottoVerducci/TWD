@@ -1,0 +1,64 @@
+Hungarian Mini-ECQ
+Kismaros, Hungary
+February 21st 2009
+3R+F
+25 players
+Martin Major
+
+-- 3VP in final
+
+Deck Name: Broken Brujahs
+
+Description: Alastor based bruise and vote
+
+Crypt (12 cards, min=14, max=36, avg=6.33)
+------------------------------------------
+4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+2x Tara		   6   POT PRE cel	    prince	Brujah:5
+1x Herbert Westin  5   OBF PRE pot	    		Brujah:4
+1x Reginald Moore  4   PRE		    primogen	Brujah:4
+1x Garret	   3   pot pre		    		Brujah:4
+1x Honest Abe	   2   pre		    		Brujah:5
+
+Library (90 cards)
+Master (14; 7 trifle)
+1x Carver's Meat Packing and Storage
+1x Fame
+2x Monster
+2x New Carthage
+1x Pentex(TM) Subversion
+7x Vessel
+
+Action (10)
+2x Heart of the City
+4x Heroic Might
+4x Preternatural Strength
+
+Equipment (6)
+2x Assault Rifle
+1x Heart of Nizchetus
+2x Helicopter
+1x Sengir Dagger
+
+Political Action (16)
+5x Alastor
+3x Anathema
+3x Consanguineous Boon
+5x Parity Shift
+
+Action Modifier (15)
+6x Bewitching Oration
+5x Forced March
+4x Voter Captivation
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (18)
+8x Psyche!
+5x Pursuit
+5x Sideslip
+
+Event (1)
+1x Dragonbound

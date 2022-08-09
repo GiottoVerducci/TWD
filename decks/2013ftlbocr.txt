@@ -1,0 +1,69 @@
+Farewell to Lilith's Blessing
+Ostrava, Czech Republic
+May 18th 2013
+3R+F
+12 players
+Petr Michalík
+
+-- 4VP in final
+
+Deck Name: Stanislava & Lazverinus
+
+Crypt (12 cards, min=25, max=44, avg=8.92)
+------------------------------------------
+4x Stanislava			 11  ANI CEL DOM FOR PRO  inner circle	Gangrel:2
+3x Ingrid Rossler		 9   ANI FOR PRO dom	  prince	Gangrel:2
+1x Genevieve			 10  ANI FOR PRO aus dom  priscus	Gangrel antitribu:2
+1x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
+1x Iliana			 7   DOM FOR PRO tha	  		Gangrel:2
+1x Caitlin			 6   ANI PRO aus dom	  bishop	Gangrel antitribu:2
+1x Chandler Hungerford		 3   PRO		  		Gangrel:2
+
+Library (90 cards)
+Master (23; 10 trifle)
+1x Backways
+2x Blind Spot
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Fear of Mekhet
+2x Information Highway
+1x Lilith's Blessing
+1x Monastery of Shadows
+2x Perfectionist
+3x Vessel
+3x Villein
+4x Wash
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (10)
+1x Ancient Influence
+1x Banishment
+1x Domain Challenge
+5x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (21)
+1x Beast Meld
+6x Earth Control
+1x Enkil Cog
+3x Forced March
+7x Freak Drive
+3x Seduction
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (12)
+7x Deflection
+3x Guard Dogs
+2x On the Qui Vive
+
+Combat (14)
+7x Earth Meld
+7x Form of Mist
+
+Event (1)
+1x Uncoiling, The

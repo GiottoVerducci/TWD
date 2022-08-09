@@ -1,0 +1,62 @@
+Play Test
+Barcelona, Spain
+May 16th 2010
+17 players
+Sergio Gracia
+
+-- 4VP in final
+
+Deck Name: Nosferatu blocker
+
+Crypt (12 cards, min=10, max=31, avg=5.42)
+------------------------------------------
+2x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
+2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+2x Anarch Convert	   1   -none-		    		Caitiff:ANY
+1x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+1x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+1x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+1x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot	    		Lasombra:4
+1x Lucy Markowitz	   3   dom obt		    		Lasombra:4
+
+Library (74 cards)
+Master (13; 3 trifle)
+1x Coven, The
+4x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+1x Jake Washington
+3x Pentex(TM) Subversion
+2x Wash
+
+Action (18)
+12x Govern the Unaligned
+2x Gremlins
+4x Song of Pan
+
+Ally (7)
+7x Nocturn
+
+Action Modifier (21)
+5x Conditioning
+4x Foreshadowing Destruction
+2x Shadow Play
+4x Shroud of Absence
+1x Shroud of Night
+5x Stone Travel
+
+Action Modifier/Combat (3)
+3x Fae Contortion
+
+Action Modifier/Reaction (5)
+3x Aura Absorption
+2x Murmur of the False Will
+
+Reaction (6)
+3x Deflection
+2x On the Qui Vive
+1x Redirection
+
+Event (1)
+1x Bitter and Sweet Story, The

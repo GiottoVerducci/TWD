@@ -1,0 +1,68 @@
+South East Regional Qualifier 2004
+Atlanta, Georgia
+May 22nd 2004
+24 players
+Nate Foure
+
+Deck Name: Presence Princes
+
+Crypt (12 cards, min=13, max=30, avg=5.42)
+------------------------------------------
+1x Anson			   8   CEL PRE aus dom	prince	  Toreador:1
+1x Emerson Bridges		   8   DOM FOR PRE pot	prince	  Ventrue:1
+1x Sir Walter Nash		   7   DOM FOR PRE	prince	  Ventrue:1
+1x Timothy Crowley		   7   FOR PRE ani dom	prince	  Ventrue:1
+1x Rake				   6   PRE aus cel pot	prince	  Brujah:1
+1x Victoria Ash			   6   PRE aus cel dom	primogen  Toreador:2
+1x Ramiel DuPre			   5   PRE aus cel dom		  Toreador:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		  Ventrue:2
+1x Mariana Gilbert		   4   PRE cel			  Toreador:1
+1x Violette Prentiss		   4   PRE dom			  Ventrue:1
+1x Gideon Fontaine		   3   PRE			  Ventrue:1
+1x Delilah Easton		   2   pre			  Toreador:1
+
+Library (82 cards)
+Master (18; 1 trifle)
+1x Aching Beauty
+2x Anarch Revolt
+3x Blood Doll
+1x Coven, The
+2x Direct Intervention
+4x Dreams of the Sphinx
+1x Hostile Takeover
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+1x Ventrue Headquarters
+
+Action (10)
+1x Dominate Kine
+3x Enchant Kindred
+2x Govern the Unaligned
+4x Mind Numb
+
+Political Action (14)
+1x Domain Challenge
+2x Kindred Restructure
+5x Kine Resources Contested
+4x Parity Shift
+1x Toreador Justicar
+1x Ventrue Justicar
+
+Action Modifier (23)
+3x Aire of Elation
+3x Awe
+6x Change of Target
+3x Conditioning
+3x Daring the Dawn
+1x Kiss of Ra, The
+4x Voter Captivation
+
+Reaction (12)
+5x Deflection
+1x Delaying Tactics
+4x Second Tradition: Domain
+2x Wake with Evening's Freshness
+
+Combat (5)
+5x Majesty

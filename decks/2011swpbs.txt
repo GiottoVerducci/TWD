@@ -1,0 +1,63 @@
+Sabbat War Party
+Badalona, Spain
+November 27th 2011
+3R+F
+17 players
+Genís Prats
+
+Deck Name: Dementamites
+
+Crypt (12 cards, min=13, max=40, avg=7.25)
+------------------------------------------
+5x Thucimia		10  CEL DEM OBF QUI for pro	1 vote	Assamite:4
+3x Bakr			8   CEL OBF QUI dem pro			Assamite:5
+1x Hafsa, The Watcher	6   OBF QUI aus cel			Assamite:5
+1x Kamau Jafari		4   QUI obf				Assamite:4
+1x Alu			2   obf					Assamite:5
+1x Basir		1   qui					Assamite:4
+
+Library (90 cards)
+Master (18; 4 trifle)
+1x Dark Influences
+3x Dementation
+4x Dreams of the Sphinx
+3x Pentex(TM) Subversion
+1x Perfectionist
+1x Secure Haven
+4x Vessel
+1x Yoruba Shrine
+
+Action (22)
+5x Haqim's Law: Leadership
+3x Khabar: Glory
+7x Kindred Spirits
+7x Loss
+
+Ally (2)
+1x Deviki Prasanta
+1x Mylan Horseed
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (25)
+1x Cloak the Gathering
+4x Confusion
+2x Enkil Cog
+6x Eyes of Chaos
+4x Faceless Night
+4x Forced March
+4x Into Thin Air
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (6)
+4x Black Sunrise
+2x Delaying Tactics
+
+Combat (12)
+2x Baal's Bloody Talons
+4x Pursuit
+2x Taste of Death
+4x Weighted Walking Stick

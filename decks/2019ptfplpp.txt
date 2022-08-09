@@ -1,0 +1,57 @@
+Pszczyna the Final Polish VtES League
+Pszczyna, Poland
+December 7th 2019
+3R+F
+25 players
+Rafal Nowak
+https://www.vekn.net/event-calendar/event/9484
+
+-- 1GW4 + 1.5VP in final
+
+Deck Name: Amiable Jacko and friends
+
+Crypt (12 cards, min=23, max=34, avg=7.17)
+------------------------------------------
+3x Jacko			   8   CEL POT PRE obt		    Brujah antitribu:2
+2x Salinger			   9   CEL POT PRE tha	archbishop  Brujah antitribu:2
+2x Amelia			   7   CEL POT PRE	bishop	    Brujah antitribu:2
+2x Richter, The Templar of Du Mont 7   CEL POT for pre		    Brujah antitribu:2
+2x Jeremiah Noble		   6   CEL POT obt pre		    Brujah antitribu:3
+1x Jimmy Dunn			   4   CEL POT for		    Pander:2
+
+Library (90 cards)
+Master (16; 6 trifle)
+1x Depravity
+1x Dreams of the Sphinx
+2x Fame
+1x Gang Territory
+2x Haven Uncovered
+1x Tension in the Ranks
+3x Vessel
+3x Villein
+1x Waste Management Operation
+1x Yawp Court
+
+Action (16)
+4x Games of Instinct
+8x Rumble
+4x Show of Force
+
+Action Modifier (4)
+4x Zephyr
+
+Action Modifier/Combat (6)
+6x Resist Earth's Grasp
+
+Combat (46)
+2x Decapitate
+3x Disarm
+7x Fists of Death
+11x Immortal Grapple
+8x Pursuit
+6x Taste of Vitae
+9x Torn Signpost
+
+Event (2)
+1x Fourth Cycle, The
+1x Scourge of the Enochians

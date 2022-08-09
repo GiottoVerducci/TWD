@@ -1,0 +1,68 @@
+Slovak CCQ
+Kosice, Slovakia
+May 23rd 2015
+3R+F
+10 players
+Peter Ducai
+https://www.vekn.net/event-calendar/event/8059
+
+Crypt (16 cards, min=4, max=30, avg=3.81)
+-----------------------------------------
+6x Anarch Convert	1   -none-			Caitiff:ANY
+5x Valkyrie		4   for pre pro			Gangrel:3
+3x Brunhilde (ADV)	8   ANI FOR PRO pre	baron	Gangrel:3
+1x Antonino		6   FOR ani pre pro		Gangrel:3
+1x Bernard, The Scourge	5   ani for pre pro		Gangrel:4
+
+Library (85 cards)
+Master (16; 4 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+2x Anarch Revolt
+1x Backways
+1x Coven, The
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Gangrel Revel
+1x Garibaldi-Meucci Museum
+1x Heidelberg Castle, Germany
+1x Pentex(TM) Subversion
+1x Twilight Camp
+3x Vessel
+
+Action (22)
+1x Army of Rats
+1x Constant Revolution
+1x Fee Stake: Seattle
+2x Gear Up
+3x Skullduggery
+6x Thing
+8x Undue Influence
+
+Equipment (3)
+1x Anarch Manifesto, An
+2x Stolen Police Cruiser
+
+Retainer (3)
+1x Crypt's Sons
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (22)
+7x CrimethInc.
+2x Earth Control
+4x Freak Drive
+3x Leverage
+2x Monkey Wrench
+4x Power of One
+
+Reaction (11)
+2x Delaying Tactics
+4x Friend of Mine
+1x Lost in Translation
+4x On the Qui Vive
+
+Combat (8)
+2x Claws of the Dead
+4x Earth Meld
+2x Form of Mist

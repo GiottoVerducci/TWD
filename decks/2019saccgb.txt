@@ -1,0 +1,87 @@
+SAC 2019
+Campina Grande, Brazil
+November 16th 2019
+3R+F
+20 players
+Rivanildon Frazão
+https://www.vekn.net/event-calendar/event/9255
+
+-- 1GW5 + 4VP in final
+
+Deck Name: Ishtarri Bleed & Vote Multiaction
+Created by: Rivanildon Frazão
+
+Deck was originally created by my friend Patrick Alves then fine tuned by me.
+As all crypt have basic obf, there is 4 forgotten labyrinth for political
+actions and also there is some telepathic misdirections that only Eugene and
+Ayo Igoli can play. I usually start with Ayo Igoli and try to enchant kindred at
+superior to hasten the deck. Undele's special with kiss of Ra and banishments
+are very strong in the endgame, and in the final table helped me win, since
+there was 10+ anarch revolts in play.
+
+Crypt (12 cards, min=30, max=39, avg=8.75)
+------------------------------------------
+3x Ayo Igoli	   10  AUS CEL FOR PRE obf tha		  Ishtarri:4
+3x Undele	   9   CEL FOR obf pre ser	magaji	  Ishtarri:5
+2x Dmitra Ilyanova 9   CEL FOR POT PRE obf	justicar  Brujah:5
+2x Eugene	   8   AUS CEL FOR PRE		primogen  Toreador:4
+2x Ubende	   7   CEL PRE for obf qui	magaji	  Ishtarri:4
+
+Library (90 cards)
+Master (11; 2 trifle)
+1x Ancestor Spirit
+2x Archon Investigation
+1x Glutton
+2x Golconda: Inner Peace
+1x Information Highway
+1x Presence
+1x Secure Haven
+2x Villein
+
+Action (7)
+4x Enchant Kindred
+2x Entrancement
+1x Heart of the City
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (15)
+2x Banishment
+1x Can't Take it with You
+1x Disputed Territory
+8x Kine Resources Contested
+1x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (34)
+2x Awe
+3x Bewitching Oration
+1x Enkil Cog
+8x Forced March
+4x Forgotten Labyrinth
+4x Freak Drive
+1x Kiss of Ra, The
+3x Perfect Paragon
+1x Strange Day
+1x Uncontrolled Impulse
+6x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Action Modifier/Reaction (1)
+1x Ishtarri Kholo
+
+Reaction (4)
+4x Telepathic Misdirection
+
+Combat (14)
+2x Hidden Strength
+2x Indomitability
+8x Majesty
+2x Rolling with the Punches

@@ -1,0 +1,65 @@
+Swedish NC 2015
+Stockholm, Sweden
+November 7th 2015
+3R+F
+14 players
+Henrik Klippström
+https://www.vekn.net/event-calendar/event/8247
+
+-- 5VP in final
+
+Deck Name: Avalon Incorporated
+
+The tournament winning deck is based on Alexander Båskmans “Don't stop me now” (www.secretlibrary.info/index.php?deck=view&id=11210), but I choose a bit older vamps (I like superior!)
+and switched 2 Information Highway for 2 Pentex Subvertion. So it's slower, but maybe more efficient. Also, I could not find/do not own a fourth Shroud of Absence, so I played
+with a Shroud of Night instead – risky, but it worked:)
+
+Final table (mucho aggressive!):
+Kalle (Tremere sb) > Erik (!Gangrel toolbox) > Peter (Bigcap setite sb) > Kim (Daughters vote w Arishat) > Henrik (Kiasyd/Lasombra sb)
+
+Crypt (12 cards, min=18, max=28, avg=5.75)
+------------------------------------------
+2x Isanwayen		   6   DOM MYT OBT	    	    Kiasyd:4
+2x Dame Hollerton	   5   DOM OBT myt	    	    Kiasyd:4
+1x Arcadian, The	   8   DOM MYT OBT chi for  	    Kiasyd:5
+1x Badr, Shadow of Granada 7   DOM OBT POT	    	    Lasombra:5
+1x Lord Vauxhall	   7   DOM OBT POT THA	    	    Lasombra:4
+1x Onaedo		   6   DOM OBT aus pot	    	    Lasombra:4
+1x Virginie, Prodigy	   6   DOM POT obt	    bishop  Lasombra:4
+1x Andrew Emory		   5   OBT aus dom pot	    bishop  Lasombra:4
+1x Ermenegildo, The Rake   5   DOM OBT pot	    	    Lasombra:4
+1x Lucy Markowitz	   3   dom obt		    	    Lasombra:4
+
+Library (65 cards)
+Master (11; 3 trifle)
+1x Coven, The
+3x Dreams of the Sphinx
+2x Great Symposium
+2x Life in the City
+3x Pentex(TM) Subversion
+
+Action (15)
+15x Govern the Unaligned
+
+Ally (3)
+3x Nocturn
+
+Action Modifier (28)
+4x Bonding
+2x Command of the Beast
+5x Conditioning
+2x Foreshadowing Destruction
+2x Leverage
+4x Seduction
+3x Shadow Play
+3x Shroud of Absence
+1x Shroud of Night
+2x Stone Travel
+
+Reaction (6)
+2x Deflection
+2x On the Qui Vive
+2x Redirection
+
+Combat (2)
+2x Shadow Body

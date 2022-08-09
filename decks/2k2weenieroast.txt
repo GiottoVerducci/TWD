@@ -1,0 +1,88 @@
+Seekonk Weenie Roast
+Seekonk, Massachusetts
+June 29th 2002
+24 players
+Matthew Hirsch
+
+Deck Name: "The Gun is My Brush, Your Face is My Canvas"
+
+Description: Bloat up and build a horde of low-caps
+plus Anneke or Anson. Give guns to the ones with celerity.
+Swarm and destroy.
+
+The offense isn't as fast as other tourney decks, but
+once it gets rolling it has pretty strong momentum.
+Small caps with guns and superior Auspex can run a
+tight defense to allow time for that longer build-up.
+
+Crypt (12 cards, min=13, max=33, avg=5.17)
+------------------------------------------
+2x Anneke			  10  AUS CEL PRE dom	justicar  Toreador:1
+1x Anson			  8   CEL PRE aus dom	prince	  Toreador:1
+1x Angela Preston		  5   MEL PRE for		  Daughter of Cacophony:2
+1x Delilah Monroe		  4   MEL for pre		  Daughter of Cacophony:2
+1x Demetrius Slater		  4   aus cel pre		  Toreador:1
+1x Dorian Strack		  4   AUS cel			  Toreador:1
+1x Idalia, Prophet of Guadalajara 4   AUS dem			  Malkavian antitribu:2
+1x Mariana Gilbert		  4   PRE cel			  Toreador:1
+1x Remilliard, Devout Crusader	  4   AUS pre			  Toreador antitribu:2
+1x Céleste, The Voice of a Secret 3   mel pre			  Daughter of Cacophony:2
+1x Delilah Easton		  2   pre			  Toreador:1
+
+Library (90 cards)
+Master (16)
+1x Art Museum
+1x Barrens, The
+5x Blood Doll
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Guardian Angel
+1x Heidelberg Castle, Germany
+1x KRCG News Radio
+1x Minion Tap
+1x Paris Opera House
+1x Society Hunting Ground
+1x Vast Wealth
+
+Action (8)
+1x Art's Traumatic Essence
+5x Enchant Kindred
+1x Legal Manipulations
+1x Social Charm
+
+Equipment (11)
+5x .44 Magnum
+1x Ivory Bow
+1x Leather Jacket
+1x Pier 13, Port of Baltimore
+1x Sawed-Off Shotgun
+1x Sport Bike
+1x Starshell Grenade Launcher
+
+Action Modifier (8)
+4x Aire of Elation
+4x Missing Voice, The
+
+Reaction (30)
+2x Enhanced Senses
+4x Forced Awakening
+2x Precognition
+2x Second Tradition: Domain
+3x Spirit's Touch
+2x Telepathic Counter
+6x Telepathic Misdirection
+4x Tourette's Voice
+5x Wake with Evening's Freshness
+
+Combat (17)
+2x Acrobatics
+1x Aura Reading
+1x Blur
+2x Flash
+2x Majesty
+1x Psyche!
+2x Pursuit
+1x Quickness
+3x Side Strike
+1x Staredown
+1x Telepathic Tracking

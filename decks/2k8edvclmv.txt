@@ -1,0 +1,59 @@
+El Diablo Verde Contra las Mujeres Vampiro
+Mexico City, Mexico
+February 23rd 2008
+3R+F
+10 players
+Fernando Pedraza
+
+Deck Name: Old School Mages
+
+Crypt (12 cards, min=23, max=32, avg=6.92)
+------------------------------------------
+2x Rebekka, Chantry Elder of Munich 8	AUS PRE THA pot			  Tremere:2
+1x Anastasz di Zagreb		    8	AUS THA ani cel dom	justicar  Tremere:3
+1x Ian Forestal			    8	AUS DOM THA			  Tremere antitribu:2
+1x Kij Dansky			    8	AUS DOM THA obt		priscus	  Tremere antitribu:2
+1x Bryan Van Duesen		    7	DOM THA aus pre			  Tremere antitribu:2
+1x Terrell Harding		    7	AUS THA cel dom obf		  Tremere antitribu:3
+1x Eugenio Estevez		    6	AUS THA dom for			  Tremere:3
+1x Reverend Blackwood		    6	DOM THA obf		bishop	  Tremere antitribu:2
+1x Selena			    6	AUS DOM THA			  Tremere antitribu:3
+1x Valois Sang, The Watcher	    6	AUS DOM nec tha			  Tremere:3
+1x Hannigan			    5	AUS THA dom			  Tremere antitribu:2
+
+Library (90 cards)
+Master (11; 4 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x KRCG News Radio
+1x Mob Connections
+1x Rumor Mill, Tabloid Newspaper, The
+1x University Hunting Ground
+4x Vessel
+1x WMRH Talk Radio
+
+Action (12)
+4x Bum's Rush
+4x Harass
+4x Pulse of the Canaille
+
+Equipment (4)
+4x Leather Jacket
+
+Reaction (22)
+8x Deflection
+5x Eluding the Arms of Morpheus
+5x Enhanced Senses
+4x Forced Awakening
+
+Combat (41)
+6x Apportation
+4x Blood Fury
+1x Blood Rage
+2x Blood to Water
+1x Movement of the Mind
+1x Soul Burn
+4x Taste of Vitae
+11x Theft of Vitae
+6x Walk of Flame
+5x Weather Control

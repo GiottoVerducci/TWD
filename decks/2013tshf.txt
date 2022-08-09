@@ -1,0 +1,74 @@
+Tainted Spring
+Helsinki, Finland
+March 17th 2013
+3R+F
+12 players
+Mikko Hyvärinen
+
+-- 4VP in final
+
+Deck Name: The Tremere War Chantry
+
+Description: The Tremere War Chantry; New York (after succesfull Sabbath siege)
+
+Crypt (12 cards, min=10, max=24, avg=4.17)
+------------------------------------------
+2x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	Tremere:2
+2x Aisling Sturbridge		5   AUS THA dom		Tremere:2
+1x Merrill Molitor		5   THA aus dom		Tremere:1
+1x Ignatius			4   aus dom tha		Tremere:1
+1x Sarah Cobbler		4   THA dom		Tremere:1
+1x Blythe Candeleria		3   THA aus		Tremere:2
+1x Dr. John Casey		3   aus tha		Tremere:1
+1x Jing Wei			3   dom tha		Tremere:1
+1x Mustafa Rahman		2   dom			Tremere:2
+1x Roreca Quaid			2   tha			Tremere:1
+
+Library (90 cards)
+Master (20)
+2x Arcane Library
+1x Auspex
+2x Blood Doll
+1x Chantry
+1x Dominate
+1x Dreams of the Sphinx
+1x Lilith's Blessing
+3x Rötschreck
+3x Thaumaturgy
+1x Tremere Convocation
+3x Tribute to the Master
+1x Wasserschloss Anif, Austria
+
+Action (9)
+4x Create Gargoyle
+1x Graverobbing
+3x Magic of the Smith
+1x Seeds of Corruption
+
+Equipment (6)
+1x Bowl of Convergence
+1x Codex of the Damned
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+
+Action Modifier (6)
+6x Conditioning
+
+Reaction (24)
+4x Deflection
+1x Eagle's Sight
+2x Enhanced Senses
+4x Forced Awakening
+3x My Enemy's Enemy
+3x On the Qui Vive
+2x Precognition
+1x Spirit's Touch
+3x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (25)
+7x Apportation
+6x Burst of Sunlight
+12x Theft of Vitae

@@ -1,0 +1,58 @@
+NAC 2014 - Late-Night Last Chance Qualifier
+Origins Game Fair, Columbus, Ohio
+June 12th 2014
+2R+F
+20 players
+Brad Cashdollar
+https://www.vekn.net/event-calendar/event/7715
+
+-- 0.5VP in final
+
+Deck Name: Lasombra's Angry Dragon
+
+Description: Obt-Ani + guns toolbox deck
+
+Crypt (12 cards, min=28, max=40, avg=8.75)
+------------------------------------------
+3x Nahir		  10  ANI DOM OBT POT tha		    Lasombra:3
+3x Antón de Concepción	  9   ANI DOM OBT POT aus	archbishop  Lasombra:4
+2x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf		    Nosferatu antitribu:4
+2x Conrad Adoula	  8   DOM OBT POT ani cel		    Lasombra:4
+2x Otieno		  6   OBT POT ani dom			    Lasombra:4
+
+Library (90 cards)
+Master (12; 7 trifle)
+1x Giant's Blood
+4x Sudden Reversal
+4x Vessel
+3x Villein
+
+Action (10)
+2x Abbot
+2x Deep Song
+6x Govern the Unaligned
+
+Equipment (4)
+4x .44 Magnum
+
+Retainer (5)
+5x Raven Spy
+
+Action Modifier (9)
+5x Shadow Play
+4x Shroud of Night
+
+Reaction (24)
+4x Cats' Guidance
+8x Deflection
+4x Eyes of the Night
+2x On the Qui Vive
+6x Sense the Savage Way
+
+Combat (26)
+7x Arms of the Abyss
+7x Carrion Crows
+2x Concealed Weapon
+3x Pack Alpha
+4x Shadow Step
+3x Taste of Vitae

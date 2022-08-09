@@ -1,0 +1,59 @@
+Cruzada Salamanca: Una visita inesperada
+Salamanca, Spain
+April 27th 2013
+3R+F
+19 players
+Alberto Sánchez
+
+-- 4VP in final
+
+Deck Name: Gatitos con alas
+
+Crypt (21 cards, min=4, max=16, avg=1.71)
+-----------------------------------------
+15x Tupdog			    1	 POT VIS	Gargoyle:3
+1x  Kurt Strauss		    5	 DOM aus tha	Tremere antitribu:2
+1x  Richard Tauber, Ayelea's Puppet 4	 AUS tha	Tremere antitribu:2
+1x  Thelonius			    4	 aus dom tha	Tremere antitribu:2
+1x  Brooke			    3	 dom tha	Tremere antitribu:2
+1x  Saiz			    3	 aus dom	Tremere antitribu:3
+1x  Heinrick Schlempt		    2	 tha		Tremere antitribu:2
+
+Library (83 cards)
+Master (10)
+2x Direct Intervention
+2x Dreams of the Sphinx
+2x Fame
+1x Powerbase: Montreal
+1x Secure Haven
+1x University Hunting Ground
+1x Yawp Court
+
+Action (10)
+5x Graverobbing
+5x Soul of the Earth
+
+Ally (8)
+2x Nephandus
+6x Rock Cat
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (5)
+5x Conditioning
+
+Reaction (5)
+3x Deflection
+2x Delaying Tactics
+
+Combat (43)
+7x Brick by Brick
+5x Disarm
+10x Immortal Grapple
+8x Raking Talons
+3x Stonestrength
+10x Torn Signpost
+
+Event (1)
+1x Dragonbound

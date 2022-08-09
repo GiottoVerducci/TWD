@@ -1,0 +1,73 @@
+Liga Nova Era Brasil - Paz
+São Paulo, Brazil
+August 6th 2017
+3R+F
+13 players
+Desso Alastor
+https://www.vekn.net/event-calendar/event/8736
+
+-- 3VP in final
+
+Deck Name: Sempre Alerta
+
+Crypt (12 cards, min=10, max=40, avg=7)
+---------------------------------------
+4x Masika	  10  AUS CEL PRE  primogen	Toreador:1
+3x Masika (ADV)	  10  AUS CEL PRE  primogen	Toreador:1
+1x Dorian Strack  4   AUS cel	   		Toreador:1
+1x Colin Flynn	  3   aus cel	   		Toreador:1
+1x Isabel de Leon 3   AUS	   		Toreador:2
+1x Delilah Easton 2   pre	   		Toreador:1
+1x Dieter Kleist  2   aus	   		Toreador:1
+
+Library (90 cards)
+Master (17; 5 trifle)
+1x Art Museum
+1x Carver's Meat Packing and Storage
+1x Gift of Experience
+2x Guardian Angel
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Society Hunting Ground
+4x Toreador Grand Ball
+3x Vessel
+2x Villein
+
+Action (10)
+2x Arson
+3x Entrancement
+1x Epiphany
+4x Judgment: Camarilla Segregation
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (7)
+4x Assault Rifle
+1x Bowl of Convergence
+1x Ivory Bow
+1x Signet of King Saul, The
+
+Retainer (1)
+1x Resplendent Protector
+
+Action Modifier (3)
+3x Enkil Cog
+
+Action Modifier/Combat (7)
+7x Resist Earth's Grasp
+
+Reaction (26)
+5x Eagle's Sight
+5x Eyes of Argus
+2x My Enemy's Enemy
+5x Quicken Sight
+5x Second Tradition: Domain
+2x Telepathic Counter
+2x Telepathic Misdirection
+
+Combat (18)
+4x Majesty
+3x Psyche!
+7x Pursuit
+4x Taste of Vitae

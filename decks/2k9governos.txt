@@ -1,0 +1,62 @@
+Govern the Unaligned
+Örebro, Sweden
+October 23rd 2009
+10 players
+Adam Esbjörnsson
+
+-- 4VP in final
+
+Deck Name: Arsemite syrups
+
+Description: Thanks to Mathias Olsson for the inspiration
+
+Crypt (12 cards, min=19, max=36, avg=7.08)
+------------------------------------------
+4x Izhim abd Azrael		9   CEL OBF QUI THA pot	 Assamite:5
+3x Djuhah, The Bronze Bow	7   OBF QUI aus cel pre	 Assamite:5
+2x Reza Fatir, The Dark Angel	6   CEL QUI obf pro	 Assamite:4
+1x Nizzam al-Latif		9   ANI CEL OBF QUI dem	 Assamite:5
+1x Rashid Stockton		4   cel obf vic		 Gangrel antitribu:5
+1x Lubomira Hradok		3   OBF			 Nosferatu antitribu:5
+
+Library (77 cards)
+Master (22; 6 trifle)
+1x Coven, The
+3x Dreams of the Sphinx
+1x Giant's Blood
+3x Information Highway
+1x Remover
+5x Villein
+2x Watchtower: The Wolves Feed
+1x Yoruba Shrine
+5x Zillah's Valley
+
+Action (31)
+5x Haqim's Law: Leadership
+2x Khabar: Glory
+10x Loss
+10x Reunion Kamut
+4x Tattoo Signal
+
+Equipment (1)
+1x Guarded Rubrics
+
+Action Modifier (16)
+1x Art of Memory, The
+2x Deed the Heart's Desire
+2x Elder Impersonation
+3x Faceless Night
+3x Lost in Crowds
+5x Seraph's Second
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Blood Awakening
+
+Event (4)
+1x Blood Trade
+1x Break the Code
+1x Fourth Cycle, The
+1x Thirst

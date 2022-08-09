@@ -1,0 +1,56 @@
+Gang Territory MQ
+Bydgoszcz, Poland
+June 13th 2009
+3R+F
+13 players
+Marcin Watras
+
+-- 2GW7 + 3VP in final
+
+Deck Name: Anson - Volker Ashur ver 1.2
+
+Description: Deck concept taken from Peter Korsos.
+
+Crypt (12 cards, min=13, max=32, avg=5.33)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom	prince	Toreador:1
+3x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Parmenides			4   CEL qui			Assamite:2
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Sarah Brando			3   CEL				Brujah antitribu:2
+1x Carter			2   cel				Toreador antitribu:2
+
+Library (80 cards)
+Master (19; 2 trifle)
+9x Ashur Tablets
+3x Dreams of the Sphinx
+1x Fame
+2x Haven Uncovered
+1x Powerbase: Montreal
+1x Tension in the Ranks
+2x Vessel
+
+Action (8)
+8x Bum's Rush
+
+Equipment (7)
+7x .44 Magnum
+
+Political Action (2)
+2x Parity Shift
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (35)
+4x Blur
+7x Concealed Weapon
+2x Fast Hands
+8x Psyche!
+6x Pursuit
+3x Sideslip
+5x Taste of Vitae
+
+Event (1)
+1x Dragonbound

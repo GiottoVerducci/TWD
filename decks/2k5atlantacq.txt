@@ -1,0 +1,74 @@
+South East Regional Qualifier
+Atlanta, Georgia
+May 14th 2005
+3R+F
+20 players
+David Tatu
+
+All Things Sneaky
+
+Crypt (12 cards, min=17, max=27, avg=5.58)
+------------------------------------------
+2x Mukhtar Bey			7   FOR PRE QUI obf pot	 prince	   Caitiff:4
+2x Ankh-sen-Sutekh		6   PRE SER obf		 	   Follower of Set:4
+2x Ezekiel, Lord of Montreal	6   PRE SER obf pot	 	   Follower of Set:3
+2x Catherine du Bois		5   DOM for obf pre	 	   Ventrue:3
+2x Robin Withers		4   dom obf pre		 	   Ventrue:4
+1x Amenophobis			7   OBF SER dom pre	 primogen  Follower of Set:4
+1x Tock				4   obf pot pre		 	   Nosferatu antitribu:3
+
+Library (90 cards)
+Master (15)
+4x Blood Doll
+1x Creepshow Casino
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Ferraille
+1x KRCG News Radio
+1x Obfuscate
+1x Powerbase: Rome
+1x Presence
+1x Sudden Reversal
+1x Ventrue Headquarters
+
+Action (6)
+2x Enticement
+1x Entrancement
+3x Legal Manipulations
+
+Political Action (16)
+1x Banishment
+1x Command of the Harpies
+2x Conservative Agitation
+1x Disputed Territory
+2x Domain Challenge
+5x Kine Resources Contested
+1x Lextalionis
+1x Political Flux
+1x Rumors of Gehenna
+1x Ventrue Justicar
+
+Action Modifier (31)
+6x Bewitching Oration
+4x Bribes
+1x Change of Target
+3x Cloak the Gathering
+1x Conditioning
+1x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+3x Lost in Crowds
+1x Mask of a Thousand Faces
+2x Spying Mission
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (10)
+5x Deflection
+5x Wake with Evening's Freshness
+
+Combat (10)
+10x Majesty

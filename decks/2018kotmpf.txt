@@ -1,0 +1,77 @@
+King of the Mountain
+Paris, France
+January 28th 2018
+3R+F
+15 players
+Vincent Ripoll
+https://www.vekn.net/event-calendar/event/8836
+
+-- 1GW5 (3rd seed) + 1.5VP in final
+
+Deck Name: Royal with Cheese
+
+Description: A deck built around the cheese-shaped discipline (Protean) and votes, hence the deck name. The deck relies on very versatile cards and is able to adapt to many situations.
+It is a bit slow to build up, but it is not necessarily a bad thing as you don't want to be the bad guy too early. The deck has some hand jam problems, another Heart of Nizchetus could help.
+Also, I spent 3 rounds wondering why I wasn't drawing any Pentex Subversion. I really don't know why there is not any in this deck.
+
+Adana is the real star of the deck because she has everything needed. You must be careful with Hardestadt until he gets his Protean skill because he has access to 9 less S:CE.
+// Aksinya helps surviving bleed decks and cycles the extra Zillah's Valley or Wider View you may draw. André is very nice when you can't afford another high-cap vampire,
+// or if you can afford him in extra, and a 10 hand size (with the Monastery) is awesome.
+
+Crypt (12 cards, min=33, max=44, avg=9.92)
+------------------------------------------
+4x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+3x Hardestadt		 11  DOM FOR POT PRE cel pro	inner circle	Ventrue:4
+3x Aksinya Daclau	 9   ANI FOR PRE PRO cel tha			Gangrel antitribu:4
+1x Malabranca		 9   AUS CEL PRE PRO obf	archbishop	Toreador antitribu:4
+1x André the Manipulator 6   FOR PRO					Gangrel:5
+
+Library (90 cards)
+Master (24; 12 trifle)
+1x Dreams of the Sphinx
+2x Information Highway
+1x Island of Yiaros -- for fun (Hardestadt hitting for 7), can be discarded to Aksinya. Or replaced by a Pentex.
+1x Monastery of Shadows
+1x Powerbase: Montreal -- you won't defend it, but it distracts other players and helps you in the early game
+1x Protean
+1x Regent -- for Aksinya, the deck should have enough S:CE to help her survive
+8x Villein
+4x Wider View -- always useful, and can be recycled with Aksinya anyway
+4x Zillah's Valley
+
+Action (7)
+3x Dual Form -- used 99% of the time at inferior
+4x Public Trust -- they could be Intimidations, but the pool you get back directly on an uncontrolled vampire is often useful to get them out
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+6x Banishment
+1x Conservative Agitation
+3x Kine Resources Contested
+1x Political Stranglehold -- was not very useful during the tournament because drawn too early in the game.
+1x Reins of Power
+
+Action Modifier (22)
+2x Awe -- in case you don't have the vote lock on that Reins / Ancilla you need to pass. Was never needed during the tournament
+2x Earth Control
+1x Enkil Cog -- seldom drawn and used, not a vital card
+1x Horrific Countenance -- a terrible card that I like. Usable by Hardestadt, and it gave me a VP twice during the tournament.
+4x Instantaneous Transformation
+5x Perfect Paragon
+7x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Reaction (2)
+2x On the Qui Vive -- not optimal, but I don't like decks without any wake. Forced Vigilance could be better
+
+Combat (15)
+2x Claws of the Dead
+4x Earth Meld
+9x Form of Mist

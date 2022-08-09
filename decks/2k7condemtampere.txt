@@ -1,0 +1,61 @@
+Condemnation
+Tampere, Finland
+November 3rd 2007
+14 players
+Heikki Palomäki
+
+-- 4VP in final
+
+Deck Name: manse 07 - Beware of your gpredator
+
+Description: Dirty and irresponsible malk S&B. There were too much
+masters in this deck. After actually playing this deck I would have
+changed 1 minion tap and 1 sudden to 1 elder impersonation and
+1 spying mission.
+
+Crypt (13 cards, min=19, max=33, avg=6.62)
+------------------------------------------
+1x William Biltmore		9   AUS DEM OBF THA dom	 	  Malkavian:3
+1x Anatole, Prophet of Gehenna	8   AUS DEM OBF dom for	 	  Malkavian:2
+1x Cornelius Ottavio		8   AUS OBF pre qui	 	  Malkavian:2
+1x Rodolfo			8   AUS DEM OBF pro	 bishop	  Malkavian antitribu:3
+1x Virgil			8   AUS DEM OBF cel	 bishop	  Malkavian antitribu:2
+1x Korah			7   AUS DEM OBF ani	 priscus  Malkavian antitribu:2
+1x Quentin King III (ADV)	7   AUS DEM OBF cel pre	 	  Malkavian:3
+1x Artemis			6   DEM OBF aus cel for	 	  Malkavian antitribu:2
+1x Dolphin Black		6   AUS DEM OBF		 	  Malkavian antitribu:2
+1x Tony				6   AUS DEM dom obf	 	  Malkavian:3
+1x Persia, The Beautiful Statue	5   DEM aus obf		 	  Malkavian:3
+1x Uncle George			5   DEM aus dom obf	 	  Malkavian antitribu:3
+1x Midget			3   DEM obf pre		 	  Malkavian antitribu:3
+
+Library (90 cards)
+Master (16)
+1x Barrens, The
+4x Dreams of the Sphinx
+5x Minion Tap
+6x Sudden Reversal
+
+Action (18)
+18x Kindred Spirits
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (35)
+2x Cloak the Gathering
+10x Confusion
+4x Elder Impersonation
+5x Eyes of Chaos
+4x Faceless Night
+4x Lost in Crowds
+3x Spying Mission
+3x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (16)
+2x On the Qui Vive
+8x Telepathic Misdirection
+6x Wake with Evening's Freshness

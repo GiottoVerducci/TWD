@@ -1,0 +1,64 @@
+NAC 2012 - Late Night Last Chance Qualifier
+Columbus, Ohio
+May 31st 2012
+3R+F
+22 players
+Peter Oh
+
+Deck Name: Howler Gets Married
+
+Crypt (12 cards, min=15, max=32, avg=6.08)
+------------------------------------------
+4x Howler	  8   ANI PRE SPI obf	   Ahrimane:2
+2x Siamese, The	  7   PRE SPI ani pro	   Ahrimane:2
+2x Cynthia Ingold 6   SPI ani for pre	   Ahrimane:2
+2x Bobby Lemon	  4   ANI pro		   Gangrel:3
+1x Nettie Hale	  5   ani cel pre pro spi  Ahrimane:2
+1x Zip		  2   ani		   Ravnos:3
+
+Library (84 cards)
+Master (12)
+4x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Guardian Angel
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Rack, The
+1x Smiling Jack, The Anarch
+
+Action (13)
+1x Abbot
+7x Deep Song
+2x Entrancement
+3x Legal Manipulations
+
+Ally (1)
+1x Carlton Van Wyk
+
+Retainer (5)
+2x Murder of Crows
+1x Owl Companion
+2x Raven Spy
+
+Action Modifier (5)
+5x Aire of Elation
+
+Action Modifier/Combat (4)
+4x Swiftness of the Stag
+
+Reaction (18)
+4x Cats' Guidance
+2x Ears of the Hare
+3x Falcon's Eye
+2x Sense the Savage Way
+7x Speak with Spirits
+
+Combat (26)
+6x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+2x Leapfrog
+3x Majesty
+5x Taste of Vitae

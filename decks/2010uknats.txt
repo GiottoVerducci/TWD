@@ -1,0 +1,65 @@
+English NC 2010
+Reading, England
+September 18th 2010
+3R+F
+34 players
+Anthony Coleman
+
+Deck Name: "Bug eyed tramp lady" AKA "the Ex Wife"
+
+Description: Standard Rachel/Madnet bleed.
+
+Crypt (12 cards, min=13, max=40, avg=6.42)
+------------------------------------------
+4x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	 Malkavian:3
+2x Greger Anderssen	7   AUS OBF dom pro	 prince	 Malkavian:2
+2x Victoria		5   AUS cel obf		 	 Malkavian:2
+2x Zöe			3   AUS cel obf		 	 Malkavian:2
+1x Daliyah		4   PRO obf		 	 Nosferatu:2
+1x Chandler Hungerford	3   PRO			 	 Gangrel:2
+
+Library (90 cards)
+Master (18)
+3x Blood Doll
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Giant's Blood
+4x Madness Network
+2x Pentex(TM) Subversion
+3x Perfectionist
+2x Protean
+
+Action (2)
+1x Blessing of Chaos
+1x Shadow of the Beast
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (5)
+5x Homunculus
+
+Action Modifier (17)
+4x Elder Impersonation
+2x Enkil Cog
+6x Faceless Night
+5x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (19)
+2x My Enemy's Enemy
+3x On the Qui Vive
+8x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (20)
+16x Earth Meld
+4x Form of Mist

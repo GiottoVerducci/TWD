@@ -1,0 +1,59 @@
+Monday Mayhem XXX
+Tampere, Finland
+December 5th 2011
+2R+F
+11 players
+Heikki Palomäki
+
+Deck Name: Mexican time out
+
+Crypt (13 cards, min=13, max=36, avg=6.23)
+------------------------------------------
+5x Joaquin Murietta	 9   AUS CEL obf pre qui  	  Toreador:3
+1x Ira Rivers		 7   AUS CEL ani pre	  prince  Toreador:3
+1x Dominique Santo Paulo 6   AUS CEL pot pre	  	  Toreador antitribu:4
+1x Homa			 6   AUS CEL POT	  	  Osebo:4
+1x Idrissa		 4   CEL aus		  	  Osebo:4
+1x Lin Jun		 4   aus cel pre tha	  	  Toreador:4
+1x Gengis		 3   aus cel pot	  	  Brujah:3
+1x Monique Kim		 3   aus cel		  	  Toreador antitribu:4
+1x Yvette, The Hopeless	 3   aus cel		  	  Toreador:3
+
+Library (90 cards)
+Master (17)
+1x Art Museum
+1x Barrens, The
+8x Blood Doll
+1x Fame
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+2x Smiling Jack, The Anarch
+2x Sudden Reversal
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ossian
+
+Equipment (10)
+9x .44 Magnum
+1x Bowl of Convergence
+
+Reaction (36)
+8x Eagle's Sight
+4x Eyes of Argus
+2x Forced Awakening
+3x On the Qui Vive
+8x Quicken Sight
+8x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (24)
+8x Concealed Weapon
+1x Fast Hands
+2x Flash
+6x Psyche!
+2x Sideslip
+5x Taste of Vitae
+
+Event (1)
+1x Dragonbound

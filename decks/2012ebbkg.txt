@@ -1,0 +1,70 @@
+Erol's Birthday Bash
+Karlsruhe, Germany
+May 27th 2012
+3R+F
+14 players
+Johannes Walch
+
+Deck Name: Ahrimane Recruitment Center
+
+Description: The basic idea is to bloat as much as possible
+to be able to afford recruitment of allies and more vampires.
+Blessing of the Beast is very strong and with it the deck flows
+extremely well. Not a lot of Mastercards to avoid masterjam.
+
+Crypt (12 cards, min=20, max=32, avg=6.58)
+------------------------------------------
+4x Howler	    8	ANI PRE SPI obf		Ahrimane:2
+3x Siamese, The	    7	PRE SPI ani pro		Ahrimane:2
+2x Cynthia Ingold   6	SPI ani for pre		Ahrimane:2
+2x Nettie Hale	    5	ani cel pre pro spi	Ahrimane:2
+1x Juanita Santiago 4	ani pre spi		Ahrimane:2
+
+Library (90 cards)
+Master (13; 8 trifle)
+4x Blessing of the Beast
+1x Giant's Blood
+8x Villein
+
+Action (20)
+1x Abbot
+2x Charge of the Buffalo
+1x Deep Song
+7x Engling Fury
+6x Entrancement
+1x Muricia's Call
+2x Vulture's Buffet
+
+Ally (8)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x High Top
+1x Impundulu
+1x Mylan Horseed
+1x Ossian
+1x Underbridge Stray
+1x Young Bloods
+
+Retainer (6)
+1x J. S. Simmons, Esq.
+1x Murder of Crows
+1x Owl Companion
+2x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (2)
+2x Squirrel Balance
+
+Action Modifier/Combat (9)
+9x Swiftness of the Stag
+
+Reaction (16)
+2x Ears of the Hare
+4x Falcon's Eye
+10x Speak with Spirits
+
+Combat (16)
+2x Carrion Crows
+3x Leapfrog
+7x Target Vitals
+4x Taste of Vitae

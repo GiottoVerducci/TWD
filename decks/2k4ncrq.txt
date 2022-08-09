@@ -1,0 +1,47 @@
+North Central Region Qualifier
+Wheatridge, Colorado
+July 10th 2004
+13 players
+Kyle Bahr
+
+Crypt (12 cards, min=27, max=40, avg=8.17)
+------------------------------------------
+3x Count Germaine	8   CEL FOR POT PRE obf			  Brujah:4
+3x Mukhtar Bey		7   FOR PRE QUI obf pot		prince	  Caitiff:4
+2x Marcus Vitel (ADV)	10  DOM FOR OBF OBT POT PRE		  Lasombra:3
+1x Jaroslav Pascek	10  CEL POT PRE for obf		justicar  Brujah:3
+1x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar  Ventrue:3
+1x Horatio Ballard	7   DOM FOR PRE aus			  Ventrue:3
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
+
+Library (90 cards)
+Master (13)
+2x Emergency Preparations
+5x Information Highway
+6x Minion Tap
+
+Political Action (19)
+5x Consanguineous Boon
+4x Conservative Agitation
+6x Diversity
+4x Kine Resources Contested
+
+Action Modifier (27)
+5x Bewitching Oration
+3x Forgotten Labyrinth
+5x Iron Glare
+4x Lost in Crowds
+10x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (11)
+5x Deflection
+6x Second Tradition: Domain
+
+Combat (16)
+6x Majesty
+2x Rolling with the Punches
+4x Skin of Steel
+4x Soak

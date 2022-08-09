@@ -1,0 +1,59 @@
+Back in Black
+Talca, Chile
+September 12th 2009
+3R+F
+15 players
+Waldo Peyrau
+
+Deck Name: Ishtarri Sangrando
+
+Crypt (12 cards, min=12, max=22, avg=4.33)
+------------------------------------------
+2x Agru Kabera		6   FOR cel nec pre	Ishtarri:4
+2x Elizabeth Conde	5   CEL FOR pre		Ishtarri:4
+2x Shasa Abu Badr	5   PRE cel for		Ishtarri:4
+2x Kenyatta		4   cel for pre		Ishtarri:4
+2x Abu Nuwasi		3   cel for		Ishtarri:4
+2x Panya, The Wicked	3   cel pre		Ishtarri:4
+
+Library (90 cards)
+Master (10)
+1x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Glutton
+1x Information Highway
+1x Marrakesh Codex, The
+2x Port Hunting Ground
+2x Powerbase: Montreal
+1x Sudden Reversal
+
+Action (29)
+10x Despiral
+2x Enchant Kindred
+7x Force of Will
+4x Public Trust
+3x Rapid Healing
+3x Restoration
+
+Equipment (2)
+2x Reliquary: Trinket
+
+Action Modifier (19)
+4x Daring the Dawn
+3x Excellent Thirst
+8x Forced March
+4x Uncontrolled Impulse
+
+Reaction (9)
+4x Familial Bond
+3x Forced Vigilance
+2x Wake with Evening's Freshness
+
+Combat (21)
+2x Catatonic Fear
+6x Majesty
+2x Rolling with the Punches
+2x Skin of Steel
+6x Soak
+2x Staredown
+1x Torrent

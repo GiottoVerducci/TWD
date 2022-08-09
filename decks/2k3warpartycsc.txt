@@ -1,0 +1,68 @@
+War Party
+Charleston, South Carolina
+April 26th 2003
+2R+F
+14 players
+Jeffrey Thompson
+
+Deck Name: Lasombra Governing
+
+Description: This deck won the War Party: Charleston, South Carolina
+tournament on April 26th, 2003. There were 14 players, two rounds and
+a final. This deck took game wins all three rounds.
+
+The deck was designed to get out a larger Lasombra with superior
+dominate, who would then use Govern the Unaligned and Scouting Mission
+to bring out the other vampires in the crypt. I always got at least
+one vampire for free this way.
+
+This deck was the Lasombra Commons deck that I won a tournament in Los
+Angeles with a few years ago, but that got bumped up to 89 cards where
+the original was 73 cards. There was also supposed to be a hunting
+ground in the deck, but I forgot to add it in.
+
+In the Charleston event, I took 4vp, 2.5VP, and then 3VP in the
+finals.
+
+Crypt (12 cards, min=13, max=37, avg=6.08)
+------------------------------------------
+2x Angelica, The Canonicus	 10  DOM OBT POT cel obf  cardinal	Lasombra:2
+1x Antonio Delgado		 9   DOM OBT POT tha	  archbishop	Lasombra:2
+1x Gratiano			 8   DOM OBT obf pot	  priscus	Lasombra:2
+1x Aurora Van Brande, Paladin	 6   OBT dom for pot	  		Lasombra:2
+1x Lisette Vizquel		 6   DOM POT pro	  bishop	Lasombra:2
+1x Talley, The Hound		 6   OBT POT aus dom	  		Lasombra:2
+1x Guido Lucciano		 5   OBT dom obf	  		Lasombra:2
+1x Ignacio, The Black Priest	 4   dom obt pot	  		Lasombra:2
+1x Ramiro			 4   dom obt vic	  		Lasombra:2
+1x Cameron			 3   dom pot		  		Lasombra:2
+1x Aaron Duggan, Cameron's Toady 2   obt		  		Lasombra:2
+
+Library (89 cards)
+Master (12)
+7x Blood Doll
+1x Information Highway
+1x Power Structure
+3x Sudden Reversal
+
+Action (15)
+6x Govern the Unaligned
+9x Scouting Mission
+
+Political Action (3)
+3x Dramatic Upheaval
+
+Action Modifier (20)
+6x Seduction
+10x Shadow Play
+4x Shroud of Night
+
+Reaction (19)
+5x Deflection
+9x Forced Awakening
+5x Redirection
+
+Combat (20)
+10x Arms of the Abyss
+5x Shadow Body
+5x Thrown Gate

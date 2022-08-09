@@ -1,0 +1,63 @@
+Grand Prix Poland
+Warsaw, Poland
+May 25th 2019
+3R+F
+46 players
+Radoslaw Wróblewski
+https://www.vekn.net/event-calendar/event/9201
+
+-- 1GW6.5 + 1.5VP in final
+
+Deck Name: Bored Owain (sorry, I just need to do it - Szewski)
+
+Crypt (12 cards, min=16, max=30, avg=5.83)
+------------------------------------------
+2x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 	 Ventrue antitribu:3
+2x Blackhorse Tanner		7   AUS DOM FOR		 	 Ventrue antitribu:3
+2x Neighbor John		5   AUS dom for		 	 Ventrue antitribu:4
+1x Edward Neally		7   DOM FOR aus pre	 	 Ventrue antitribu:3
+1x Jefferson Foster		6   AUS DOM for tha	 bishop	 Ventrue antitribu:4
+1x Mariel St. John		6   AUS FOR dom pro	 	 Ventrue antitribu:4
+1x Jephta Hester		5   DOM FOR aus		 	 Ventrue antitribu:4
+1x Lana Butcher			3   dom for		 	 Ventrue:3
+1x Ulrike Rothbart		3   dom for		 	 Ventrue antitribu:4
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Anarch Troublemaker
+2x Coven, The
+3x Dreams of the Sphinx
+2x Effective Management
+1x Erciyes Fragments, The
+1x Giant's Blood
+2x Pentex(TM) Subversion
+2x Powerbase: Montreal
+2x Wash
+2x Wider View
+
+Action (14)
+14x Govern the Unaligned
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (8)
+2x Bonding
+5x Conditioning
+1x Daring the Dawn
+
+Reaction (27)
+4x Deflection
+2x Delaying Tactics
+2x Eagle's Sight
+6x Eyes of Argus
+3x My Enemy's Enemy
+5x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (22)
+3x Hidden Strength
+2x Indomitability
+7x Rolling with the Punches
+4x Soak
+6x Weighted Walking Stick

@@ -1,0 +1,59 @@
+Coupe de Paris
+Paris, France
+February 12th 2011
+3R+F
+17 players
+Pierre Tran-Van
+
+Deck Name: Eurobrujah Coupe de Paris 2011
+Created by: Stone - very remotely inspired by an old school deck from Fred P.
+
+Crypt (12 cards, min=26, max=32, avg=7.25)
+------------------------------------------
+4x Beast, The Leatherface of Detroit	7   OBF POT ani cel		Nosferatu antitribu:2
+3x Dónal O'Connor			8   CEL DOM POT		prince	Brujah:2
+2x Constanza Vinti			8   CEL DOM POT		prince	Brujah:2
+2x Theo Bell				7   POT cel dom pre		Brujah:2
+1x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
+
+Library (90 cards)
+Master (13)
+3x Blood Doll
+1x Carver's Meat Packing and Storage
+1x Celerity
+1x Depravity
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Misdirection
+1x Pentex(TM) Subversion
+1x Shanty Town Hunting Ground
+1x Warzone Hunting Ground
+
+Action (14)
+12x Govern the Unaligned
+1x Heroic Might
+1x Preternatural Strength
+
+Political Action (1)
+1x Anathema
+
+Action Modifier (3)
+3x Conditioning
+
+Reaction (12)
+12x Second Tradition: Domain
+
+Combat (46)
+4x Blur
+2x Decapitate
+3x Disarm
+9x Immortal Grapple
+6x Pursuit
+4x Sideslip
+7x Taste of Vitae
+3x Thrown Sewer Lid
+8x Torn Signpost
+
+Event (1)
+1x Dragonbound

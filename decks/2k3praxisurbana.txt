@@ -1,0 +1,93 @@
+Praxis Seizure: Champaign-Urbana
+Champaign, Illinois
+March 8th 2003
+14 players
+Eric Chiang
+
+Deck Name: The !Tremere Make Their Presence Known
+
+Description: A !Tremere vote deck that
+utilizes Presence. Alfred, Ayelea, and Bryan already
+have Presence. Ian can play Presence cards. Otherwise,
+use a combination of Infernal Pact, Presence skill
+cards, and Created Gargoyles (cute Pokemon proxies).
+Once you manage to secure political domination,
+outplay, outwit, and outlast your opponents!
+
+* Story-line Legal
+
+Library: 90 cards]
+
+[Misc.: 6 cards
+
+Clan Toys: 3 cards
+
+Political: 20 cards
+
+Discipline: 41 cards]
+[7 Auspex, 8 Dominate, 20 Presence, 6 Thaumaturgy
+
+Master: 20 cards
+
+Crypt (13 cards, min=14, max=37, avg=6.46)
+------------------------------------------
+2x Ayelea, The Manipulator	   10  AUS DOM OBT THA pre  cardinal	Tremere antitribu:2
+2x Alfred Benezri		   6   PRE THA aus dom	    bishop	Pander:3
+1x Ethan Locke			   9   DOM THA aus cel pot  archbishop	Tremere antitribu:2
+1x Ian Forestal			   8   AUS DOM THA	    		Tremere antitribu:2
+1x Kij Dansky			   8   AUS DOM THA obt	    priscus	Tremere antitribu:2
+1x Bryan Van Duesen		   7   DOM THA aus pre	    		Tremere antitribu:2
+1x Reverend Blackwood		   6   DOM THA obf	    bishop	Tremere antitribu:2
+1x Hannigan			   5   AUS THA dom	    		Tremere antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha		    		Tremere antitribu:2
+1x Brooke			   3   dom tha		    		Tremere antitribu:2
+1x Heinrick Schlempt		   2   tha		    		Tremere antitribu:2
+
+Library (90 cards)
+Master (20)
+1x Archon Investigation
+3x Blood Doll
+1x Creepshow Casino
+1x Infernal Pact
+2x Information Highway
+3x Minion Tap
+1x Powerbase: Madrid
+5x Presence
+1x University Hunting Ground
+2x Zillah's Valley
+
+Action (8)
+2x Create Gargoyle
+4x Govern the Unaligned
+2x Rutor's Hand
+
+Ally (1)
+1x Nephandus
+
+Political Action (20)
+1x Ancient Influence
+2x Banishment
+3x Cardinal Benediction
+1x Crusade: Detroit
+1x Crusade: Mexico City
+1x Crusade: Philadelphia
+1x Disputed Territory
+2x Dramatic Upheaval
+7x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (15)
+5x Awe
+2x Bewitching Oration
+2x Change of Target
+2x Telepathic Vote Counting
+4x Voter Captivation
+
+Reaction (13)
+4x Deflection
+5x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (13)
+4x Blood Fury
+9x Majesty

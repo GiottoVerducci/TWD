@@ -1,0 +1,58 @@
+Power of All
+Stone Mountain, Atlanta, Georgia
+March 29th 2009
+2R+F
+10 players
+Matt Guinn
+
+-- 3VP in final
+
+Deck Name: Return of the Brujah
+
+Crypt (12 cards, min=24, max=38, avg=7.75)
+------------------------------------------
+2x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
+2x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+2x Tara		   6   POT PRE cel	    prince	Brujah:5
+1x Hektor	   9   CEL POT PRE QUI for  priscus	Brujah antitribu:4
+1x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+1x Shawnda Dorrit  6   CEL obt pot pre	    priscus	Brujah antitribu:4
+1x Tomaine	   6   CEL POT PRE	    primogen	Brujah:4
+
+Library (88 cards)
+Master (16; 7 trifle)
+2x Blood Doll
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x New Carthage
+1x Papillon
+2x Vessel
+2x Villein
+1x Warzone Hunting Ground
+3x Wash
+
+Action (17)
+3x Enchant Kindred
+4x Fleetness
+4x Fourth Tradition: The Accounting
+1x Heart of the City
+5x Heroic Might
+
+Political Action (4)
+4x Parity Shift
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (43)
+3x Blur
+3x Decapitate
+6x Immortal Grapple
+1x Infernal Pursuit
+2x Psyche!
+6x Pursuit
+4x Pushing the Limit
+4x Sideslip
+8x Taste of Vitae
+6x Torn Signpost

@@ -1,0 +1,56 @@
+Italian NCQ
+Florence, Italy
+April 29th 2012
+3R+F
+22 players
+Danilo Torrisi
+
+-- 3VP in final
+
+Deck Name: malkavian against the world
+
+Description: cam malks twisting tables with nasty political tricks
+
+Crypt (12 cards, min=30, max=43, avg=9.25)
+------------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
+3x Rachel Brandywine	 10  AUS DEM OBF PRO ani  prince	Malkavian:3
+3x Maris Streck		 9   AUS OBF ani dem dom  justicar	Malkavian:3
+3x Quentin King III	 7   AUS DEM obf pre	  prince	Malkavian:3
+
+Library (75 cards)
+Master (22; 2 trifle)
+1x Creepshow Casino
+1x Direct Intervention
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+3x Madness Network
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Temptation of Greater Power
+2x Villein
+10x Zillah's Valley
+
+Action (1)
+1x Judgment: Camarilla Segregation
+
+Equipment (4)
+2x Heart of Nizchetus
+2x Sargon Fragment, The
+
+Political Action (24)
+6x First Tradition: The Masquerade
+3x Kine Resources Contested
+5x My Kin Against the World
+10x Parity Shift
+
+Action Modifier (10)
+4x Elder Impersonation
+6x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (10)
+6x Mental Maze
+4x Second Tradition: Domain

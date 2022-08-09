@@ -1,0 +1,67 @@
+Bloodwork
+Umea, Sweden
+January 18th 2004
+21 players
+Erik Torstensson
+
+Deck Name: (she's got the) east side blues
+
+Description: Doesn't like weenies or rushes, but when Arika performs
+4+ actions on her first turn, the table swings to your advantage.
+Hidden strength is good vs Aid/Carrion, Trap, Grapple and can even be
+used offensivly in late game. Cloaks are good for stolen minions. PTO
+worked fine, but wasn't gamewinning. You can get votes by robbing
+other titles, if needed.
+
+Crypt (12 cards, min=17, max=44, avg=7.75)
+------------------------------------------
+5x Arika			11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+2x Gratiano			8   DOM OBT obf pot		priscus		Lasombra:2
+2x Guido Lucciano		5   OBT dom obf					Lasombra:2
+1x Banjoko			5   DOM obt pot					Lasombra:3
+1x Ignacio, The Black Priest	4   dom obt pot					Lasombra:2
+1x Cameron			3   dom pot					Lasombra:2
+
+Library (90 cards)
+Master (15; 1 trifle)
+1x Barrens, The
+1x Coven, The
+2x Dreams of the Sphinx
+1x Fortitude
+1x Giant's Blood
+1x Golconda: Inner Peace
+3x Minion Tap
+1x Obfuscate
+1x Political Hunting Ground
+1x Uptown Hunting Ground
+2x Visit from the Capuchin
+
+Action (28)
+9x Baltimore Purge
+2x Distraction
+6x Govern the Unaligned
+9x Graverobbing
+2x Scouting Mission
+
+Political Action (9)
+1x Ancient Influence
+3x Dramatic Upheaval
+1x Political Stranglehold
+3x Protect Thine Own
+1x Reins of Power
+
+Action Modifier (31)
+5x Cloak the Gathering
+1x Elder Impersonation
+1x Faceless Night
+5x Forgotten Labyrinth
+13x Freak Drive
+3x Lost in Crowds
+2x Seduction
+1x Spying Mission
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Combat (6)
+6x Hidden Strength

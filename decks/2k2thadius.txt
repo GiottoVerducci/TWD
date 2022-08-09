@@ -1,0 +1,67 @@
+Thadius Zho
+Boston, Massachusetts
+July 7th 2002
+15 players
+Lance Shope
+
+Deck Name: Settite Legal V3.0
+
+Description: Obf bleed with Legal Manipulation. Majesty if you get
+intercepted. Use the temptations on your own vampires if they run
+low on blood. They can Legal Manipulate (cost one blood) then Tempt
+self to hunt and gain the blood back. Or Tempt opponent's vampires
+(standard). Deck may be master card heavy at 17. Possibly dump an
+Info Highway and a Blood Doll or Giant's Blood and replace with
+Swallowed By The Night, the maneuver is critical against "Grapple"
+
+Crypt (12 cards, min=20, max=31, avg=6.58)
+------------------------------------------
+2x Kephamos, High Priest of Marrakech	8   SER dom obf pre	 2 votes  Follower of Set:2
+2x Qufur am-Heru			7   OBF PRE SER cel tha	 	  Follower of Set:2
+2x Sarrasine				7   OBF PRE aus nec ser	 	  Follower of Set:2
+2x Count Ormonde			5   OBF dom pre ser	 	  Follower of Set:2
+2x Sir Marriot D'Urban			5   PRE aus obf ser	 	  Follower of Set:2
+1x Intisar				8   OBF PRE SER cel pot	 	  Follower of Set:2
+1x Danny Larkshill			7   PRE SER obf obt pot	 	  Follower of Set:2
+
+Library (90 cards)
+Master (17)
+1x Barrens, The
+4x Blood Doll
+1x Contingency Planning
+1x Dominate
+1x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+2x Information Highway
+1x Opium Den
+1x Slave Auction
+1x Sudden Reversal
+1x Temple Hunting Ground
+
+Action (23)
+2x Form of Corruption
+14x Legal Manipulations
+2x Lure of the Serpent
+5x Temptation
+
+Action Modifier (22)
+3x Aire of Elation
+1x Change of Target
+4x Cloak the Gathering
+4x Elder Impersonation
+9x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (16)
+5x Deflection
+2x Delaying Tactics
+3x Ecstasy
+6x Wake with Evening's Freshness
+
+Combat (9)
+9x Majesty

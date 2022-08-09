@@ -1,0 +1,84 @@
+Czar Matt's Birthday
+Newark, Ohio
+March 25th 2018
+2R+F
+13 players
+Jay Kristoff
+https://www.vekn.net/event-calendar/event/8847
+
+Deck Name: Bestial Tremere
+
+I have noticed some cool, winning decks that combine Eyes of Argus and Sense
+the Savage Way. I also noticed these 3, group 4/5 Tremere with ANI. The rest
+was history.
+
+Crypt (12 cards, min=19, max=43, avg=8.33)
+------------------------------------------
+3x Lord Tremere		 11  ANI AUS DOM THA VIC obe		  Tremere:5
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar  Tremere:5
+3x Dr. John Dee		 9   ANI AUS DOM THA chi	prince	  Tremere:4
+1x Zane			 5   THA aus dom		primogen  Tremere:5
+1x Monica Chang		 3   dom tha				  Tremere:5
+1x Ezra Hawthorne	 2   tha				  Tremere:4
+
+Library (90 cards)
+Master (16; 5 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+1x Erciyes Fragments, The
+1x Metro Underground
+1x Mob Connections
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Sudden Reversal
+2x Vessel
+2x Villein
+1x Wasserschloss Anif, Austria
+1x Wider View
+
+Action (4)
+2x Biothaumaturgic Experiment
+2x Magic of the Smith
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ponticulus
+
+Equipment (5)
+1x Bowl of Convergence
+1x Hawg
+1x IR Goggles
+1x Kevlar Vest
+1x Leather Jacket
+
+Retainer (1)
+1x Raven Spy
+
+Action Modifier (1)
+1x Enkil Cog
+
+Reaction (29)
+4x Cats' Guidance
+4x Eagle's Sight
+8x Eyes of Argus
+2x Rat's Warning
+8x Sense the Savage Way
+1x Telepathic Counter
+2x Telepathic Misdirection
+
+Combat (32)
+4x Apportation
+2x Aura Reading
+1x Blood Fury
+1x Blood to Water
+8x Carrion Crows
+2x Conquer the Beast
+4x Rego Motum
+1x Soul Burn
+2x Taste of Vitae
+2x Telepathic Tracking
+2x Theft of Vitae
+2x Trap
+1x Walk of Flame

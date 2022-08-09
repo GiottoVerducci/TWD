@@ -1,0 +1,65 @@
+Québec NCQ
+Montreal, Quebec
+October 15th 2005
+3R+F
+27 players
+Michel-Étienne Fortin
+
+Deck Name: !ventrue multi-action
+
+Description: Standard !ventrue bleed & vote deck. Bring out
+the biggest vamp in your crypt, then use him to influence out
+the others with govern the unaligned. Bloat with blood dolls,
+Owain and perfectionist until you can launch a big attack.
+Has trouble against intercept, but can usually do enough
+actions in a single turn to slip a couple votes or bleeds through.
+
+Crypt (12 cards, min=32, max=38, avg=8.67)
+------------------------------------------
+2x Lazverinus, Thrall of Lambach	10  AUS DOM FOR POT pro	 archbishop	Ventrue antitribu:2
+2x Kyle Strathcona, Cardinal of Canada	9   AUS DOM POT PRE for	 cardinal	Ventrue antitribu:2
+2x Quentin				9   AUS DOM FOR cel obt	 bishop		Ventrue antitribu:2
+2x Gustav Mallenhous			8   AUS DOM for obt	 priscus	Ventrue antitribu:2
+2x Jesse Menks				8   AUS DOM FOR ani	 archbishop	Ventrue antitribu:3
+2x Owain Evans, The Wanderer		8   AUS DOM FOR cel pre	 		Ventrue antitribu:3
+
+Library (90 cards)
+Master (13)
+4x Blood Doll
+1x Corporate Hunting Ground
+1x Demonstration
+1x Giant's Blood
+4x Perfectionist
+1x Powerbase: Madrid
+1x Secure Haven
+
+Action (15)
+1x Dominate Kine
+12x Govern the Unaligned
+2x Zillah's Tears
+
+Ally (2)
+2x Mylan Horseed
+
+Political Action (11)
+2x Banishment
+2x Cardinal Benediction
+7x Kine Resources Contested
+
+Action Modifier (18)
+4x Bonding
+3x Conditioning
+2x Daring the Dawn
+9x Freak Drive
+
+Reaction (19)
+6x Deflection
+2x My Enemy's Enemy
+3x Telepathic Misdirection
+8x Wake with Evening's Freshness
+
+Combat (12)
+2x Rolling with the Punches
+1x Skin of Steel
+6x Soak
+3x Superior Mettle

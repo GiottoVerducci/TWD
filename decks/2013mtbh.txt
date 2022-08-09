@@ -1,0 +1,68 @@
+Metagame Tournament I
+Budapest, Hungary
+February 23rd 2013
+3R+F
+16 players
+Gergo Gyarmati
+
+Deck Name: Must not sleep, must warn others
+
+Description: Pretty basic tremere block deck
+
+Crypt (12 cards, min=12, max=27, avg=5.08)
+------------------------------------------
+3x Carna, The Princess Witch	   7   AUS DOM THA	primogen  Tremere:3
+1x Eugenio Estevez		   6   AUS THA dom for		  Tremere:3
+1x Selena			   6   AUS DOM THA		  Tremere antitribu:3
+1x Valois Sang, The Watcher	   6   AUS DOM nec tha		  Tremere:3
+1x Aisling Sturbridge		   5   AUS THA dom		  Tremere:2
+1x Hannigan			   5   AUS THA dom		  Tremere antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha			  Tremere antitribu:2
+1x Martin Franckel		   3   AUS tha			  Tremere:3
+1x Masika St. John		   3   THA			  Tremere:3
+1x Almiro Suarez		   2   aus			  Tremere:3
+
+Library (90 cards)
+Master (16; 5 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+1x Direct Intervention
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+3x Rötschreck
+5x Vessel
+
+Action (12)
+7x Govern the Unaligned
+5x Magic of the Smith
+
+Equipment (6)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Sniper Rifle
+
+Action Modifier (3)
+3x Conditioning
+
+Reaction (39)
+2x Delaying Tactics
+6x Eagle's Sight
+2x Enhanced Senses
+8x Eyes of Argus
+3x Forced Awakening
+5x My Enemy's Enemy
+3x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (14)
+4x Apportation
+4x Burst of Sunlight
+6x Theft of Vitae

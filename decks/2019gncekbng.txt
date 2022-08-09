@@ -1,0 +1,67 @@
+German NC 2019 - Enchant Kindred
+Bad Nauheim, Germany
+May 25th 2019
+3R+F
+18 players
+Ralf Lammert
+https://www.vekn.net/event-calendar/event/9152
+
+-- 2GW9.5 + 2VP in final
+
+Deck Name: German National Championship 2019: Blackturns
+Created by: Ralf "extrala" Lammert
+
+Just your run-of-the-mill Lasombra Stealth Bleed w/ Nocturns
+
+Crypt (12 cards, min=20, max=30, avg=6.33)
+------------------------------------------
+3x Badr, Shadow of Granada 7   DOM OBT POT	    	    Lasombra:5
+2x Conrad Adoula	   8   DOM OBT POT ani cel  	    Lasombra:4
+2x Ermenegildo, The Rake   5   DOM OBT pot	    	    Lasombra:4
+1x Lord Vauxhall	   7   DOM OBT POT THA	    	    Lasombra:4
+1x Isanwayen		   6   DOM MYT OBT	    	    Kiasyd:4
+1x Onaedo		   6   DOM OBT aus pot	    	    Lasombra:4
+1x Andrew Emory		   5   OBT aus dom pot	    bishop  Lasombra:4
+1x Dame Hollerton	   5   DOM OBT myt	    	    Kiasyd:4
+
+Library (84 cards)
+Master (17; 5 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Jake Washington
+2x Misdirection
+3x Path of Night, The
+1x Pentex(TM) Subversion
+1x Political Hunting Ground
+4x Wash
+
+Action (10)
+10x Govern the Unaligned
+
+Ally (12)
+12x Nocturn
+
+Action Modifier (20)
+2x Bonding
+4x Conditioning
+2x Foreshadowing Destruction
+8x Shadow Play
+2x Shroud of Night
+2x Tenebrous Form
+
+Reaction (16)
+8x Deflection
+2x Delaying Tactics
+6x On the Qui Vive
+
+Combat (6)
+2x Arms of the Abyss
+2x Entombment
+2x Oubliette
+
+Event (3)
+1x FBI Special Affairs Division
+1x Scourge of the Enochians
+1x Unmasking, The

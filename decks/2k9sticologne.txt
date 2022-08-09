@@ -1,0 +1,69 @@
+Short Term Investment
+Cologne, Germany
+November 8th 2009
+2R+F
+10 players
+Joerg Alten
+
+Deck Name: Undead Army
+
+Description: Shambling Hordes with obfuscate and some dirty tricks
+
+Crypt (12 cards, min=11, max=28, avg=5.25)
+------------------------------------------
+2x Carlotta Giovanni	7   NEC POT dom obf	Giovanni:2
+2x Egothha		7   AUS FOR NEC obf	Harbinger of Skulls:2
+2x Mina Grotius		6   FOR NEC cel		Harbinger of Skulls:3
+2x Rafaele Giovanni	6   NEC cel obf		Giovanni:2
+1x Roger Farnsworth	4   OBF aus		Malkavian antitribu:3
+1x Tansu Bekir		4   OBF cel		Assamite:2
+1x Krid			2   obf			Nosferatu:3
+1x Anarch Convert	1   -none-		Caitiff:ANY
+
+Library (65 cards)
+Master (19; 2 trifle)
+1x Channel 10
+1x Charisma
+1x Direct Intervention
+2x Filchware's Pawn Shop
+1x Giant's Blood
+2x Insurance Scam
+3x Jake Washington
+3x Liquidation
+4x Storage Annex
+1x Wall Street Night, Financial Newspaper
+
+Action (1)
+1x Arson
+
+Ally (16)
+1x Carlton Van Wyk
+1x Ossian
+14x Shambling Hordes
+
+Equipment (4)
+4x Kevlar Vest
+
+Action Modifier (11)
+4x Call of the Hungry Dead
+2x Cloak the Gathering
+1x Lost in Crowds
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+Reaction (4)
+2x Delaying Tactics
+2x On the Qui Vive
+
+Combat (3)
+3x Dead-End Alley
+
+Event (4)
+1x Narrow Minds
+3x Unmasking, The

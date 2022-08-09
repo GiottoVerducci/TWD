@@ -1,0 +1,66 @@
+Singapore Qualifier
+Singapore, Singapore
+September 5th 2010
+3R+F
+12 players
+Robin Pong
+
+-- 3VP in final
+
+Deck Name: Rachel Brandywine Madness Network
+
+Crypt (12 cards, min=23, max=39, avg=7.83)
+------------------------------------------
+3x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	   Malkavian:3
+2x Torvus Bloodbeard	9   ANI FOR OBF PRO pot	 	   Gangrel:3
+2x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
+2x Victoria		5   AUS cel obf		 	   Malkavian:2
+1x Maris Streck		9   AUS OBF ani dem dom	 justicar  Malkavian:3
+1x Quentin King III	7   AUS DEM obf pre	 prince	   Malkavian:3
+1x Henry Taylor		6   POT cel pre pro	 	   Brujah antitribu:3
+
+Library (90 cards)
+Master (24; 2 trifle)
+2x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x KRCG News Radio
+4x Madness Network
+3x Perfectionist
+1x Powerbase: Zürich
+4x Protean
+1x Sudden Reversal
+2x Vessel
+1x Waste Management Operation
+2x Zillah's Valley
+
+Action (11)
+2x Carrion Coffin
+3x Clan Impersonation
+3x Fifth Tradition: Hospitality
+3x Sheepdog
+
+Equipment (3)
+1x Ivory Bow
+1x Sargon Fragment, The
+1x Sport Bike
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (13)
+4x Cloak the Gathering
+2x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+4x Lost in Crowds
+
+Reaction (17)
+6x Mental Maze
+8x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Combat (20)
+15x Earth Meld
+5x Form of Mist

@@ -1,0 +1,59 @@
+French ECQ
+Paris, France
+April 26th 2008
+3R+F
+34 players
+Rodolphe Danac
+
+-- 2GW8 + 3VP in final
+
+Deck Name: Bima Dominate
+
+Description: French ECQ in Paris, saturday, April 26th 2008,
+convention Ludicite (http://www.citedujeu.com)
+
+Crypt (12 cards, min=16, max=24, avg=5)
+---------------------------------------
+3x Halim Bey	   6   DOM SER obf tha	Follower of Set:4
+2x Black Lotus	   5   DOM aus obf ser	Follower of Set:4
+2x Zhenga	   5   SER obf pre	Follower of Set:4
+1x Ankh-sen-Sutekh 6   PRE SER obf	Follower of Set:4
+1x Renenet	   5   OBF PRE ser	Follower of Set:4
+1x Sahira Siraj	   4   obf ser tha	Follower of Set:4
+1x Sisocharis	   4   cel obf pre	Follower of Set:5
+1x Ahmose Chambers 3   obf ser		Follower of Set:5
+
+Library (78 cards)
+Master (20)
+15x Dominate
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Visit from the Capuchin
+
+Action (15)
+11x Govern the Unaligned
+2x Set's Curse
+2x Waters of Duat
+
+Ally (15)
+14x Bima
+1x Vagabond Mystic
+
+Action Modifier (15)
+2x Cloak the Gathering
+3x Conditioning
+1x Domain of Evernight
+1x Faceless Night
+3x Forgotten Labyrinth
+2x Lost in Crowds
+2x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (12)
+8x Deflection
+4x Delaying Tactics

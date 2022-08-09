@@ -1,0 +1,60 @@
+EC 2012 - Silence of Death
+Budapest, Hungary
+October 27th 2012
+3R+F
+39 players
+László Walter
+
+-- 5VP in final
+
+Deck Name: EC 2012 Silence of Death: Toreador Aching Beauty
+
+Crypt (12 cards, min=34, max=43, avg=9.75)
+------------------------------------------
+3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+3x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+3x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+3x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+
+Library (90 cards)
+Master (24; 4 trifle)
+10x Aching Beauty
+1x Art Museum
+1x Elysium: The Arboretum
+1x Giant's Blood
+2x Minion Tap
+1x Monastery of Shadows
+1x Papillon
+1x Secure Haven
+4x Villein
+2x Zillah's Valley
+
+Action (2)
+1x Entrancement
+1x Heart of the City
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (11)
+1x Banishment
+7x Kine Resources Contested
+3x Parity Shift
+
+Action Modifier (27)
+5x Aire of Elation
+8x Change of Target
+5x Crocodile's Tongue
+1x Enkil Cog
+8x Voter Captivation
+
+Reaction (12)
+2x Eyes of Argus
+5x Second Tradition: Domain
+5x Telepathic Misdirection
+
+Combat (12)
+12x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

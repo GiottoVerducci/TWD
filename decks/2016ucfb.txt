@@ -1,0 +1,80 @@
+Último Churrascard
+Fortaleza, Brazil
+December 3rd 2016
+3R+F
+12 players
+Renato Torres
+https://www.vekn.net/event-calendar/event/8523
+
+-- 2GW6 + 4VP in final
+
+Deck_Name: War Ghoul
+
+Crypt (12 cards, min=20, max=36, avg=7.33)
+------------------------------------------
+4x Little Tailor of Prague		8   ANI AUS VIC dem			    Tzimisce:2
+2x Caliban				6   ANI AUS VIC				    Tzimisce:2
+1x Lambach				10  ANI AUS DOM VIC pre		cardinal    Tzimisce:2
+1x John Paleologus			9   ANI AUS CEL VIC pot		archbishop  Tzimisce:3
+1x Szechenyi Jolán, Mother of Horrors	9   ANI AUS VIC cel for pro	bishop	    Tzimisce:3
+1x Anton				8   ANI AUS cel obf vic			    Tzimisce:2
+1x Devin Bisley				5   ANI AUS vic				    Tzimisce:2
+1x Wendy Wade				3   ani aus				    Tzimisce:2
+
+Library (88 cards)
+Master (13; 5 trifle)
+1x Carver's Meat Packing and Storage
+1x Creepshow Casino
+1x Fame
+1x Hungry Coyote, The
+1x Library Hunting Ground
+1x Pentex(TM) Subversion
+1x Smiling Jack, The Anarch
+5x Vessel
+1x WMRH Talk Radio
+
+Action (2)
+1x Army of Rats
+1x Jack of Both Sides
+
+Ally (11)
+1x Mylan Horseed
+2x Underbridge Stray
+1x Vagabond Mystic
+7x War Ghoul
+
+Equipment (3)
+3x Meat Hook
+
+Retainer (5)
+1x J. S. Simmons, Esq.
+2x Jackie Therman
+1x Owl Companion
+1x Tasha Morgan
+
+Action Modifier (12)
+7x Changeling
+5x Mind of the Wilds
+
+Action Modifier/Combat (2)
+2x Plasmic Form
+
+Reaction (24)
+1x Cats' Guidance
+3x Forced Awakening
+1x My Enemy's Enemy
+3x On the Qui Vive
+4x Read the Winds
+4x Sense the Savage Way
+1x Spirit's Touch
+7x Telepathic Misdirection
+
+Combat (14)
+1x Bloodform
+2x Canine Horde
+3x Concealed Weapon
+8x Meld with the Land
+
+Event (2)
+1x Inconnu Tutelage
+1x Unmasking, The

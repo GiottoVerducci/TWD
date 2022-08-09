@@ -1,0 +1,97 @@
+Powerbase: Berkeley - Eat the Rich
+Berkeley, California
+August 11th 2018
+2R+F
+10 players
+Mark Jasper
+https://www.vekn.net/event-calendar/event/8973
+
+-- 1GW4 + 1.5VP in final
+
+Deck Name: Anu's Legion
+Created by: Mark Jasper
+
+Final: Mark Jasper (Anu and Legionairres)
+ -> Lev Jasper (Unnamed Barrenness Twister)
+ -> Kenneth Davenport (Camarilla Followers of Set stealth vote)
+ -> David Anderson (Nergal Force of Will Bleedzooka)
+ -> Rick Phillips (G2-3 Anarch Tremere/Tremere Anti Toolbox)
+
+Description: A more bleedy version of the Legion of Skulls deck I won with in June. That deck was a bit slow so this one is trying to get faster ousts by using Anu Dipnitatpa's special ability. Bring out a Harbinger or two, some Legionairres and then Anu to make all of their bleeds for 2. Soul Feasting and some other blood gain stuff to refill Anu. Didn't draw Anu in the final, but I had the top seed and managed to oust my brother with 1 minute to spare. I actually think the version I won with in June is better, since it is less threatening and more versatile. Legionairres are awesome. Very strong, but not overpowered.
+
+Anu’s Legion
+
+Crypt (12 cards, min=21, max=30, avg=6.42)
+------------------------------------------
+4x Anu Diptinatpa	7   DOM NEC aus vic	Nagaraja:6
+3x Hecate		6   AUS FOR NEC		Harbinger of Skulls:5
+2x La Viuda Blanca	6   AUS NEC for obf	Harbinger of Skulls:6
+1x Khurshid		8   AUS FOR NEC POT	Harbinger of Skulls:6
+1x Mordechai Ben-Nun	8   ANI AUS FOR NEC	Harbinger of Skulls:5
+1x Andre LeRoux		3   aus			Toreador:5
+
+Library (90 cards)
+Master (20; 3 trifle)
+1x Archon Investigation
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+4x Liquidation
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Vessel
+1x Villein
+1x WMRH Talk Radio
+
+Action (3)
+1x Aranthebes, The Immortal
+2x Soul Feasting
+
+Ally (10)
+1x Carlton Van Wyk
+8x Emerald Legionnaire
+1x Ossian
+
+Equipment (5)
+1x Bowl of Convergence
+1x Erebus Mask
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Ritual Scalpel
+
+Retainer (4)
+4x Vengeful Spirit
+
+Action Modifier (15)
+2x Acheron Vortex
+2x Call of the Hungry Dead
+3x Freak Drive
+2x Inevitability of the Void
+6x Shroud Mastery
+
+Action Modifier/Combat (2)
+2x Breath of Thanatos
+
+Action Modifier/Reaction (5)
+5x Spectral Divination
+
+Reaction (16)
+2x Delaying Tactics
+5x Eyes of Argus
+2x Funeral Wake
+1x My Enemy's Enemy
+1x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (6)
+2x Spiritual Intervention
+2x Target Vitals
+2x Weighted Walking Stick
+
+Event (4)
+1x FBI Special Affairs Division
+3x Unmasking, The

@@ -1,0 +1,67 @@
+Plagues Of Egypt - Swarm
+Cape Town, South Africa
+January 5th 2008
+10 players
+Adrianna Pinska
+
+Deck Name: Saulot the Puppeteer
+
+Description: The deck is fairly straight-forward. Take over your
+prey's minions to bleed themselves out. Keep Saulot and your pool
+going with Renewed Vigors. On hindsight, the Heidelberg's were more
+useful than the use they were intended for (transferring blood from
+Renewed Vigors).
+
+Crypt (12 cards, min=15, max=44, avg=7.5)
+-----------------------------------------
+4x Saulot, The Wanderer	   11  AUS FOR OBE THA VAL dai	Salubri:4
+3x Eurayle Gelasia Mylonas 6   AUS OBE for pre		Salubri:4
+3x Mr. Noir		   3   for obe			Salubri:4
+1x Troglodytia		   10  AUS FOR NEC THN obf pot	Samedi:4
+1x Konrad Fleischer	   9   ANI AUS DOM FOR tha	Ventrue antitribu:4
+
+Library (84 cards)
+Master (14)
+2x Auspex
+2x Blood Doll
+2x Effective Management
+2x Fortitude
+2x Heidelberg Castle, Germany
+1x Kingston Penitentiary, Ontario
+2x Path of Tears, The
+1x Spontaneous Power
+
+Action (20)
+2x Pulse of the Canaille
+6x Renewed Vigor
+2x Restoration
+1x Sanguine Instruction
+9x Spirit Marionette
+
+Ally (2)
+2x Procurer
+
+Equipment (1)
+1x Laptop Computer
+
+Action Modifier (10)
+1x Crocodile's Tongue
+2x Daring the Dawn
+2x Kiss of Ra, The
+1x Neutral Guard
+4x Repulsion
+
+Reaction (28)
+7x Forced Awakening
+3x Forced Vigilance
+5x Glare of Lies
+3x Peacemaker
+2x Precognition
+4x Telepathic Counter
+4x Telepathic Misdirection
+
+Combat (9)
+3x Anesthetic Touch
+1x Skin of Night
+2x Skin of Steel
+3x Vitae Block

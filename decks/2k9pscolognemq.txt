@@ -1,0 +1,58 @@
+MQ Praxis Seizure: Cologne
+Brave New World, Cologne, Germany
+April 19th 2009
+3R+F
+24 players
+Marc-Etienne Beinio
+
+-- 3VP in final
+
+Deck Name: Meow Bang Bang
+Created by: M@rc00_L
+
+Description: G1/2 Cel-Gun Low Caps
+
+Crypt (12 cards, min=13, max=20, avg=4.17)
+------------------------------------------
+3x Black Cat			5   CEL pot pre			Brujah:1
+3x Sarah Brando			3   CEL				Brujah antitribu:2
+2x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Rigby, Crusade Vanguard	5   CEL PRE aus pot		Brujah antitribu:2
+1x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Parmenides			4   CEL qui			Assamite:2
+
+Library (90 cards)
+Master (16; 4 trifle)
+2x Blood Doll
+2x Dreams of the Sphinx
+1x Elder Library
+1x Fame
+1x Gang Territory
+1x Heidelberg Castle, Germany
+2x Specialization
+1x Tension in the Ranks
+4x Vessel
+1x Waste Management Operation
+
+Action (18)
+2x Arson
+16x Bum's Rush
+
+Equipment (9)
+7x .44 Magnum
+2x Desert Eagle
+
+Combat (46)
+5x Blur
+9x Concealed Weapon
+2x Dragon's Breath Rounds
+1x Fast Hands
+10x Psyche!
+7x Pursuit
+3x Side Strike
+3x Sideslip
+6x Taste of Vitae
+
+Event (1)
+1x Dragonbound

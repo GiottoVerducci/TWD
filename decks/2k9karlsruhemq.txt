@@ -1,0 +1,107 @@
+MQ
+Karlsruhe, Germany
+February 22nd 2009
+3R+F
+18 players
+Johannes Walch
+
+-- 4VP in final
+
+Deck Name: Johannes Commands the Legion
+
+Description: Basic idea was to use Command the Legion in any deck. I
+made a G4/5 Ventrue, but was not too happy about it. Consulted the TWDA
+and found Otto's G4/5 Ven, from where I borrowed a lot of ideas.
+
+crypt was nice, opted to double Johannes, well because it is
+Johannes. Also I have Victor, never drew him, though. most people have
+DOM which is good
+
+not too many surprises here. monastery is cool, esp. when followed up
+with a parity shift. i have 6 trifles there, master section is light
+which is good because the deck cycles really fast
+
+light on action cards since often your actions don't suceed, rather
+have modifiers. mind rape are great doubling as defense and forward.
+command the legion is really good when you can pull it off, disabling
+blockers and deflecters and just freak drive afterwards
+
+just enough payload to get the VPs. didnt have any seductions at
+first, but this was very useful, just enough freak drives would have
+missed every single one. perfect paragon is pretty good, versatility is
+well worth the blood
+
+light vote package to justify the freak drives and much needed
+poolgain
+
+just enough to keep people guessing
+
+i was not sure at all about those cards, but both proved to be very
+effective. versatility really rules in this deck
+
+Crypt (12 cards, min=18, max=39, avg=7.25)
+------------------------------------------
+2x Mary Anne Blaire	10  AUS DOM FOR PRE ani pot	justicar  Ventrue:5
+2x Johannes Castelein	9   DEM DOM FOR PRE		prince	  Ventrue:4
+1x Gustav Breidenstein	10  DOM FOR PRE aus cel pot	prince	  Ventrue:4
+1x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince	  Ventrue:5
+1x Graham Gottesman	7   DOM FOR obf pre tha		prince	  Ventrue:5
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
+1x Victor Donaldson	6   DOM for pre			prince	  Ventrue:5
+1x Emily Carson		5   DOM for pre			primogen  Ventrue:5
+1x Victor Pelletier	5   PRE cel dom for			  Ventrue:4
+1x Jackson Asher	2   dom					  Ventrue:4
+
+Library (90 cards)
+Master (17; 6 trifle)
+1x Anarch Troublemaker
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Jake Washington
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Ventrue Headquarters
+2x Vessel
+2x Villein
+2x Wash
+
+Action (14)
+2x Command the Legion
+7x Govern the Unaligned
+3x Mind Rape
+2x Scouting Mission
+
+Political Action (10)
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+1x Domain Challenge
+1x Neonate Breach
+4x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (30)
+1x Approximation of Loyalty
+4x Bonding
+4x Conditioning
+2x Foreshadowing Destruction
+9x Freak Drive
+2x Perfect Paragon
+6x Seduction
+2x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Force of Personality
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (9)
+5x Deflection
+2x Obedience
+2x Second Tradition: Domain
+
+Combat (6)
+6x Majesty

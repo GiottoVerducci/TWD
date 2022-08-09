@@ -1,0 +1,66 @@
+Sword of Nuln
+Boston, Massachusetts
+July 12th 2003
+10 players
+Ben Peal
+
+Proto-Chemical
+
+Description: Ravnos-Gangrel toolbox using Pro-Dom stealth bleed and
+Ani-Chi defense, with a little Fortitude damage prevention and a few
+intercept permanents and weapons.
+
+- Ben Peal, Prince of Boston
+fudjo@mindstorm.com
+
+Crypt (12 cards, min=18, max=32, avg=6.33)
+------------------------------------------
+2x Faruq			8   ANI PRO dom for pot	 	 Gangrel:2
+2x Gabrin			8   ANI CHI dom for	 	 Ravnos:2
+2x Iliana			7   DOM FOR PRO tha	 	 Gangrel:2
+2x Caitlin			6   ANI PRO aus dom	 bishop	 Gangrel antitribu:2
+2x Salbatore Bokkengro		4   CHI for pro		 	 Ravnos:2
+1x Joaquina Amaya		6   ANI CHI FOR		 	 Ravnos:2
+1x Anka, Priestess of Thorns	4   ani chi pro		 	 Ravnos:2
+
+Library (90 cards)
+Master (14)
+1x Backways
+1x Barrens, The
+4x Blood Doll
+2x Dreams of the Sphinx
+2x Effective Management
+1x Park Hunting Ground
+3x Sudden Reversal
+
+Action/Reaction (6)
+6x Draba
+
+Equipment (4)
+1x Ivory Bow
+2x Sniper Rifle
+1x Sport Bike
+
+Retainer (2)
+1x Mr. Winthrop
+1x Raven Spy
+
+Action Modifier (21)
+9x Conditioning
+8x Earth Control
+4x Seduction
+
+Reaction (27)
+6x Cats' Guidance
+9x Deflection
+4x Forced Awakening
+1x Guard Dogs
+2x Ignis Fatuus
+1x Rat's Warning
+4x Wake with Evening's Freshness
+
+Combat (16)
+2x Claws of the Dead
+10x Form of Mist
+2x Rolling with the Punches
+2x Superior Mettle

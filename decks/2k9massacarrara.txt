@@ -1,0 +1,56 @@
+The Embrace
+Massa Carrara, Italy
+April 26th 2009
+16 players
+Alessandro Donati
+
+Deck Name: NecròsBleed
+
+Description: Classic Giovanni PowerBleed with Le Dinh Tho "Guest Star".
+
+Crypt (12 cards, min=16, max=26, avg=5.17)
+------------------------------------------
+3x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+3x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
+2x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+
+Library (90 cards)
+Master (11; 3 trifle)
+1x Dark Influences
+1x Dis Pater
+1x Dreams of the Sphinx
+1x Jake Washington
+1x Morgue Hunting Ground
+1x Powerbase: Cape Verde
+1x Secure Haven
+3x Vessel
+1x Visit from the Capuchin
+
+Action (12)
+2x Dominate Kine
+8x Govern the Unaligned
+2x Scouting Mission
+
+Action Modifier (39)
+4x Bonding
+8x Call of the Hungry Dead
+7x Command of the Beast
+8x Conditioning
+2x Foreshadowing Destruction
+8x Seduction
+2x Sleeping Mind, The
+
+Action Modifier/Reaction (8)
+8x Spectral Divination
+
+Reaction (12)
+4x Deflection
+2x Delaying Tactics
+4x On the Qui Vive
+2x Redirection
+
+Combat (8)
+8x Spiritual Intervention

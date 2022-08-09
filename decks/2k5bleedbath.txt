@@ -1,0 +1,68 @@
+Bleedbath
+Tampere, Finland
+September 17th 2005
+3R+F
+21 players
+Otto Kallokoski
+
+Deck Name: Flurry of bleeds
+
+Description: Bleed, untap, vote/recruit
+
+Crypt (12 cards, min=19, max=31, avg=6.17)
+------------------------------------------
+3x Yazid Tamari			8   CEL QUI ani dom obf	 Assamite:3
+2x Suzanne Kadim		7   CEL PRE aus dom obf	 Toreador:3
+2x Badr al-Budur		5   OBF cel dom qui	 Assamite:2
+1x Kalinda			6   CEL OBF tha		 Assamite:2
+1x Zahir, Hand of the Silsila	6   CEL OBF qui tha	 Assamite:2
+1x Abd al-Rashid		5   CEL QUI obf		 Assamite:2
+1x Yusuf, Scribe of Alamut	5   CEL aus obf qui	 Assamite:2
+1x Tansu Bekir			4   OBF cel		 Assamite:2
+
+Library (88 cards)
+Master (18)
+5x Alamut
+6x Blood Doll
+1x From a Sinking Ship
+2x Heidelberg Castle, Germany
+2x Perfectionist
+1x Sudden Reversal
+1x Underworld Hunting Ground
+
+Action (16)
+10x Flurry of Action
+3x Khabar: Glory
+3x Web of Knives Recruit
+
+Ally (2)
+2x Procurer
+
+Equipment (3)
+2x Laptop Computer
+1x Learjet
+
+Political Action (6)
+2x Consanguineous Boon
+3x Kine Resources Contested
+1x Political Flux
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Robert Carter
+1x Tasha Morgan
+
+Action Modifier (28)
+5x Cloak the Gathering
+4x Conditioning
+5x Faceless Night
+6x Lost in Crowds
+4x Marked Path
+4x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (7)
+5x Deflection
+2x Wake with Evening's Freshness

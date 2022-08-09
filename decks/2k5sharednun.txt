@@ -1,0 +1,67 @@
+Shared Nightmare
+Utrecht, Netherlands
+July 2nd 2005
+3R+F
+16 players
+Jeroen van Oort
+
+Deck Name: Deeper Underground
+
+"Look in the sky, it's a raven. No, it's a bat.
+No, it's a crow, No it's a swarm of them all!!!"
+
+Crypt (12 cards, min=10, max=21, avg=3.75)
+------------------------------------------
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot		Nosferatu antitribu:2
+1x Calebros, The Martyr			  5   ANI obf pot	prince	Nosferatu:2
+1x Gemini				  5   OBF ani obt pot		Nosferatu:3
+1x Nigel the Shunned			  5   ANI POT obf		Nosferatu antitribu:2
+1x Bobby Lemon				  4   ANI pro			Gangrel:3
+1x Roger Farnsworth			  4   OBF aus			Malkavian antitribu:3
+1x Clarissa Steinburgen			  3   ani obf			Nosferatu:3
+1x Panagos Levidis			  3   ani obf			Gangrel:2
+1x Shannon Price, The Whisperer		  3   ani obf			Nosferatu antitribu:2
+1x Watenda				  3   obf			Malkavian:2
+1x Mouse				  2   ani			Nosferatu:3
+1x Zip					  2   ani			Ravnos:3
+
+Library (90 cards)
+Master (14)
+2x Animalism
+6x Blood Doll
+2x Direct Intervention
+1x Dreams of the Sphinx
+2x Heidelberg Castle, Germany
+1x Slum Hunting Ground
+
+Action (8)
+1x Army of Rats
+2x Clotho's Gift
+5x Computer Hacking
+
+Equipment (3)
+3x Laptop Computer
+
+Retainer (9)
+1x J. S. Simmons, Esq.
+7x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (11)
+6x Cloak the Gathering
+3x Faceless Night
+2x Lost in Crowds
+
+Reaction (17)
+5x Cats' Guidance
+2x Delaying Tactics
+7x Forced Awakening
+3x Guard Dogs
+
+Combat (28)
+7x Aid from Bats
+4x Behind You!
+3x Canine Horde
+8x Carrion Crows
+3x Dodge
+3x Pack Alpha

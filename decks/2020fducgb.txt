@@ -1,0 +1,68 @@
+Força do urso
+Campina Grande, Brazil
+July 25th 2020
+3R+F
+10 players
+Rafael Barbosa
+https://www.vekn.net/event-calendar/event/9650
+
+-- 1GW4 + 4VP in final
+
+Deck Name: Tzimice wall
+
+Crypt (12 cards, min=17, max=37, avg=7)
+---------------------------------------
+2x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
+1x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
+1x Anton			    8	ANI AUS cel obf vic		    Tzimisce:2
+1x Little Tailor of Prague	    8	ANI AUS VIC dem			    Tzimisce:2
+1x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
+1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+1x Caliban			    6	ANI AUS VIC			    Tzimisce:2
+1x Corine Marcón		    6	AUS VIC ani			    Tzimisce:2
+1x Devin Bisley			    5	ANI AUS vic			    Tzimisce:2
+1x Lolita Houston		    4	VIC aus				    Tzimisce:2
+1x Horatio			    2	vic				    Tzimisce:2
+
+Library (90 cards)
+Master (25; 4 trifle)
+1x Blood Puppy
+2x Fame
+1x Golconda: Inner Peace
+1x Library Hunting Ground
+1x Path of Lilith, The
+1x Path of Metamorphosis, The
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Rack, The
+7x Rötschreck
+3x Smiling Jack, The Anarch
+1x Society of Leopold
+4x Vessel
+
+Ally (3)
+3x War Ghoul
+
+Retainer (3)
+3x Revenant
+
+Reaction (35)
+5x Cats' Guidance
+5x Eagle's Sight
+5x Enhanced Senses
+4x Eyes of Argus
+3x My Enemy's Enemy
+3x Read the Winds
+2x Sense the Savage Way
+3x Spirit's Touch
+5x Telepathic Misdirection
+
+Combat (22)
+3x Body Arsenal
+5x Breath of the Dragon
+3x Chiropteran Marauder
+11x Meld with the Land
+
+Event (2)
+1x Dragonbound
+1x Scourge of the Enochians

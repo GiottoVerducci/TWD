@@ -1,0 +1,66 @@
+Conklaavi Turku Miniqualifier
+Turku, Finland
+March 28th 2010
+19 players
+Akseli Jalava
+
+-- 5VP in final
+
+Deck Name: Kaikki on parempaa dominatella, paitsi eivät Ravnokset.
+
+Everything is better with Dominate, except the Ravnos
+
+Crypt (12 cards, min=18, max=32, avg=6.33)
+------------------------------------------
+5x Gabrin		8   ANI CHI dom for	Ravnos:2
+2x Joaquina Amaya	6   ANI CHI FOR		Ravnos:2
+2x Khalil Ravana	5   CHI ani for pre	Ravnos:2
+2x Salbatore Bokkengro	4   CHI for pro		Ravnos:2
+1x Vaclav Petalengro	6   ANI CHI for pot	Ravnos:2
+
+Library (80 cards)
+Master (22; 7 trifle)
+2x Archon Investigation
+2x Dreams of the Sphinx
+1x Fortune Teller Shop
+1x Giant's Blood
+1x Jake Washington
+4x Path of Paradox, The
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Secure Haven
+4x Vessel
+3x Wider View
+
+Action (13)
+3x Edged Illusion
+2x Fatuus Mastery
+8x Sensory Deprivation
+
+Action/Reaction (3)
+3x Draba
+
+Equipment (3)
+1x Karavalanisha Vrana
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Action Modifier (19)
+3x False Resonance
+9x Fata Morgana
+6x Freak Drive
+1x Will-o'-the-Wisp
+
+Action Modifier/Combat (14)
+7x Mirror Image
+7x Occlusion
+
+Reaction (3)
+1x Forced Awakening
+2x On the Qui Vive
+
+Combat (2)
+2x Illusions of the Kindred
+
+Event (1)
+1x Scourge of the Enochians

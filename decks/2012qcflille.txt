@@ -1,0 +1,61 @@
+French NCQ
+Lille, France
+April 7th 2012
+3R+F
+10 players
+Frédéric Dacquin
+
+Deck Name: Classic Eurobrujah with some tasty Beast touch
+Created by: Genuine deck from Stone, Jerôme Vandeplasse tweaked it a little,
+
+and Fred won with it (again)
+
+Crypt (12 cards, min=26, max=32, avg=7.25)
+------------------------------------------
+3x Dónal O'Connor			8   CEL DOM POT		prince	Brujah:2
+3x Beast, The Leatherface of Detroit	7   OBF POT ani cel		Nosferatu antitribu:2
+3x Theo Bell				7   POT cel dom pre		Brujah:2
+2x Constanza Vinti			8   CEL DOM POT		prince	Brujah:2
+1x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
+
+Library (90 cards)
+Master (13; 1 trifle)
+2x Blood Doll
+1x Carver's Meat Packing and Storage
+1x Celerity
+1x Depravity
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Pentex(TM) Subversion
+1x Rack, The
+1x Shanty Town Hunting Ground
+1x Vessel
+1x Warzone Hunting Ground
+
+Action (12)
+12x Govern the Unaligned
+
+Political Action (1)
+1x Brujah Justicar
+
+Action Modifier (3)
+3x Conditioning
+
+Reaction (12)
+12x Second Tradition: Domain
+
+Combat (48)
+5x Blur
+2x Decapitate
+3x Disarm
+3x Earthshock
+9x Immortal Grapple
+5x Pursuit
+4x Sideslip
+2x Slam
+7x Taste of Vitae
+8x Torn Signpost
+
+Event (1)
+1x Dragonbound

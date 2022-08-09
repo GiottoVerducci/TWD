@@ -1,0 +1,67 @@
+Confusion
+Stockholm, Sweden
+November 8th 2008
+14 players
+Magnus Karlström AKA Ober
+
+Deck Name: Pander vote
+
+Description: Weenie vote
+
+Crypt (12 cards, min=4, max=11, avg=1.58)
+-----------------------------------------
+2x Angela Decker	1   pre		 Pander:2
+1x Jimmy Dunn		4   CEL POT for	 Pander:2
+1x Lena Rowe		3   aus obf pre	 Pander:2
+1x Rex, The Necronomist	3   pot pro vic	 Pander:2
+1x Basil		1   obf		 Pander:2
+1x Feo Ramos		1   aus		 Pander:3
+1x Huang, Blood Cultist	1   pro		 Pander:2
+1x March Halcyon	1   for		 Pander:2
+1x Olga Triminov	1   vic		 Pander:3
+1x Royce		1   dom		 Pander:2
+1x Tupdog		1   POT VIS	 Gargoyle:3
+
+Library (90 cards)
+Master (21; 6 trifle)
+1x Barrens, The
+2x Dreams of the Sphinx
+8x Effective Management
+1x Fortschritt Library
+1x Fragment of the Book of Nod
+1x Information Highway
+1x Joseph Pander
+6x Life in the City
+
+Ally (2)
+1x Gregory Winter
+1x Young Bloods
+
+Political Action (48)
+15x Consanguineous Boon
+1x Conservative Agitation
+1x Crusade: Amsterdam
+1x Crusade: Barcelona
+1x Crusade: Brussels
+1x Crusade: Detroit
+1x Crusade: Dublin
+1x Crusade: Houston
+1x Crusade: Istanbul
+1x Crusade: Mexico City
+1x Crusade: Philadelphia
+1x Crusade: Pittsburgh
+1x Crusade: Toronto
+19x Kine Resources Contested
+2x Legacy of Pander
+
+Action Modifier (14)
+6x Bribes
+5x Change of Target
+3x Cryptic Rider
+
+Event (5)
+1x Anthelios, The Red Star
+1x Blood Weakens
+1x Slow Withering, The
+1x Unmasking, The
+1x Veil of Darkness

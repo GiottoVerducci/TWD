@@ -1,0 +1,68 @@
+Czech Republic NC 2021 (Pulled Fang #10)
+Sazava, Czech Republic
+September 4th 2021
+3R+F
+27 players
+Daniel Gargulák
+https://www.vekn.net/event-calendar/event/9801
+
+-- 4VP in final
+
+Deck Name: Legionnaires
+
+https://amaranth.vtes.co.nz/#deck/d764526d-12ab-42ab-bb6f-711b07bb9534
+
+Crypt (12 cards, min=5, max=14, avg=2.33)
+-----------------------------------------
+1x Agrippina	  4   OBF pot	   Nosferatu:1
+1x Tansu Bekir	  4   OBF cel	   Assamite:2
+1x Max Lowell	  3   cel obf	   Gangrel antitribu:2
+1x Watenda	  3   obf	   Malkavian:2
+1x Zöe		  3   AUS cel obf  Malkavian:2
+1x Angel	  2   cel	   Brujah:1
+1x Carter	  2   cel	   Toreador antitribu:2
+1x Dimple	  2   obf	   Nosferatu:1
+1x Normal	  2   obf	   Malkavian:1
+1x Anarch Convert 1   -none-	   Caitiff:ANY
+1x Basil	  1   obf	   Pander:2
+1x Nik		  1   cel	   Caitiff:1
+
+Library (90 cards)
+Master (35; 9 trifle)
+9x Agent of Power
+1x Archon Investigation
+2x Direct Intervention
+5x Information Highway
+9x Liquidation
+5x Parthenon, The
+4x Spontaneous Power
+
+Action (25)
+6x Distraction
+6x Scrounging
+13x Summon History
+
+Ally (14)
+11x Emerald Legionnaire
+1x Gianna di Canneto
+1x Vagabond Mystic
+1x Veneficti
+
+Action Modifier (11)
+2x Cloak the Gathering
+1x Domain of Evernight
+1x Faceless Night
+2x Forgotten Labyrinth
+1x Lost in Crowds
+2x Pocket Out of Time
+1x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Gift of Sleep
+
+Reaction (3)
+3x Delaying Tactics

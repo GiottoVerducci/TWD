@@ -1,0 +1,68 @@
+Black Hand Ritual
+Itaocara, Brazil
+February 19th 2017
+2R+F
+10 players
+Hiago Pereira
+https://www.vekn.net/event-calendar/event/8569
+
+-- 3VP in final
+
+Deck Name: Eat the rich
+
+The idea is to force the bleed of 1 to use Propaganda with the anarchs. Then
+call the political action with the propagandas if needed. The strong of the
+deck is to oust others vote decks as soon as he can as they cant do much to
+respond Eat the rich that make great use of the bleeds (2 votes when edge is
+burned) and propagandas. The deck uses only obfuscate.
+
+PT-BR - A ideia é forçar o bleed mesmo de apenas um para encher a mesa de
+propaganda pelos anarchs. Logo, fazer votações pelas propagandas se necessário.
+O ápice do deck é acabar com outros decks de votação o quanto antes, já que não
+podem responder muito usando as eat the rich, a qual, também ganha força com a
+vantagem do bleed, que além de permitir a queima do edge por 2 votos, coloca
+propaganda. O deck usa apenas ofuscação, o que ajuda a passar as ações.
+
+Crypt (12 cards, min=4, max=14, avg=2.17)
+-----------------------------------------
+4x Anarch Convert	1   -none-	Caitiff:ANY
+1x Florentina Lengauer	4   OBF aus	Malkavian:4
+1x Jeffrey Mullins	4   OBF cel	Gangrel antitribu:4
+1x Roger Farnsworth	4   OBF aus	Malkavian antitribu:3
+1x Bloodfeud		2   obf		Malkavian antitribu:4
+1x Denette Stensen	2   obf		Gangrel antitribu:4
+1x Hanna Redmonds	2   obf tha	Caitiff:3
+1x Krid			2   obf		Nosferatu:3
+1x Old Neddacka		2   obf		Nosferatu antitribu:4
+
+Library (89 cards)
+Master (17; 3 trifle)
+1x Anarch Railroad
+6x Anarch Revolt
+2x Effective Management
+1x Garibaldi-Meucci Museum
+1x Hospital Food
+2x Information Highway
+1x Twilight Camp
+3x Wash
+
+Action (10)
+8x Night Moves
+2x Psychic Veil
+
+Political Action (21)
+3x Autarkis Persecution
+8x Eat the Rich
+10x Kine Resources Contested
+
+Action Modifier (37)
+4x Change of Target
+10x Cloak the Gathering
+3x Old Friends
+14x Propaganda of the Deed
+2x Red Question, The
+4x Veil the Legions
+
+Reaction (4)
+2x Delaying Tactics
+2x Wake with Evening's Freshness

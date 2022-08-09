@@ -1,0 +1,68 @@
+Last Chance Qualifier
+New Orleans, Louisiana
+September 24th 2010
+3R+F
+34 players
+Mark Loughman
+
+Deck Name: Chameleon Snakes
+
+Description: Credit where credit is due. I had built a Chamelon module
+into a Ayo-Anarch deck a while back, and as such was familiar with the
+mechanics of it, but Matt Wedge took it to a new level. He proposed a
+mono-Snake deck accelerated by Eternals of Sirius. I've spent the last
+8 months learning to build and play 60 card decks, more in the style of
+Jay. I went Group 4 for this, because Nakhthorheb's inherent multi-acting
+is so strong. Thanks also to Darby for some tweaks in the Master mix. I
+would probably delete one of the support snakes in favor of a second
+Cagliostro...synergy between him and Nak is huge.
+
+Crypt (12 cards, min=4, max=40, avg=5.83)
+-----------------------------------------
+5x Anarch Convert		1   -none-		 Caitiff:ANY
+4x Nakhthorheb			10  OBF PRE SER		 Follower of Set:4
+1x Porphyrion			9   CHI OBF PRE SER for	 Follower of Set:5
+1x Arnulf Jormungandrsson	8   OBF PRE SER aus cel	 Follower of Set:5
+1x Cagliostro, The Grand Copht	8   OBF PRE SER nec pot	 Follower of Set:4
+
+Library (60 cards)
+Master (13)
+7x Eternals of Sirius, The
+1x Ferraille
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Heidelberg Castle, Germany
+1x Monastery of Shadows
+1x Secure Haven
+
+Action (18)
+6x Chameleon
+2x Entrancement
+1x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+2x Fee Stake: New York
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+1x Form of Corruption
+2x Legal Manipulations
+
+Political Action (6)
+3x Banishment
+1x Firebrand
+1x Kine Resources Contested
+1x Reckless Agitation
+
+Action Modifier (19)
+1x Bewitching Oration
+2x Cloak the Gathering
+2x Elder Impersonation
+1x Faceless Night
+2x Forgotten Labyrinth
+2x Into Thin Air
+2x Perfect Paragon
+4x Truth of a Thousand Lies
+3x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night

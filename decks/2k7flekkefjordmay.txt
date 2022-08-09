@@ -1,0 +1,54 @@
+Norwegian NC 2007
+Flekkefjord, Norway
+May 27th 2007
+23 players
+Mats Ellingsen
+
+Crypt (12 cards, min=12, max=32, avg=5.5)
+-----------------------------------------
+2x Selma the Repugnant		    8	OBF POT ani for		prince	  Nosferatu:1
+2x Nikolaus Vermeulen		    7	POT ani for obf		prince	  Nosferatu:2
+1x Sheldon, Lord of the Clog	    9	ANI AUS OBF POT for	justicar  Nosferatu:1
+1x Murat			    7	OBF POT ser		prince	  Nosferatu:2
+1x Agrippina			    4	OBF pot				  Nosferatu:1
+1x Daliyah			    4	PRO obf				  Nosferatu:2
+1x Sammy			    4	ani obf pot			  Nosferatu:1
+1x Duck				    3	obf pot				  Nosferatu:1
+1x Regilio, The Seeker of Akhenaten 3	aus obf				  Nosferatu:2
+1x Dimple			    2	obf				  Nosferatu:1
+
+Library (81 cards)
+Master (16)
+1x Creepshow Casino
+1x Elysium: The Palace of Versailles
+2x Labyrinth, The
+5x Obfuscate
+1x Pentex(TM) Subversion
+1x Perfectionist
+5x Storage Annex
+
+Action (12)
+4x Kindred Intelligence
+8x Third Tradition: Progeny
+
+Political Action (27)
+7x Consanguineous Boon
+9x Kine Resources Contested
+4x Nosferatu Justicar
+1x Parity Shift
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Boston
+1x Praxis Seizure: Dallas
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Seattle
+1x Praxis Seizure: Washington, D.C.
+
+Action Modifier (23)
+4x Cloak the Gathering
+6x Cryptic Rider
+3x Faceless Night
+4x Forgotten Labyrinth
+6x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night

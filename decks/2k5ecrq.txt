@@ -1,0 +1,81 @@
+East Central Regional Qualifier
+Jester's Playhouse, Northfield, New Jersey
+January 22nd 2005
+17 players
+Ben Peal
+
+Deck Name: Nevermore
+
+Description: This deck started as an experiment in defending against
+stealth-bleed decks without the aid of bleed bounce. The idea is to
+get out obf-ani weenies, who then employ lots of Raven Spies. You
+can't expect to block everything (especially early on, when you're
+most vulnerable), but your predator will end up having to spend a lot
+of stealth cards to get each action to succeed, to the point where
+their hand will be stripped of sufficient stealth after one action
+and they'll have to wait until they draw more stealth before making
+another run. In the meantime, you can recoup any pool lost by
+farming from Blood Dolls. You're also looking to get bleed retainers
+and Sniper Rifles, as well as additional weenies. You eventually oust
+your prey with weenie bleeds.
+
+Crypt (12 cards, min=10, max=21, avg=3.92)
+------------------------------------------
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot		Nosferatu antitribu:2
+1x Calebros, The Martyr			  5   ANI obf pot	prince	Nosferatu:2
+1x Cicatriz				  5   ani obf pot	bishop	Nosferatu antitribu:2
+1x Gemini				  5   OBF ani obt pot		Nosferatu:3
+1x Nigel the Shunned			  5   ANI POT obf		Nosferatu antitribu:2
+1x Josef				  4   ani obf obt		Nosferatu antitribu:2
+1x Laurent de Valois			  4   ani dom obf		Nosferatu:2
+1x Clarissa Steinburgen			  3   ani obf			Nosferatu:3
+1x Panagos Levidis			  3   ani obf			Gangrel:2
+1x Shannon Price, The Whisperer		  3   ani obf			Nosferatu antitribu:2
+1x Hanna Redmonds			  2   obf tha			Caitiff:3
+1x Krid					  2   obf			Nosferatu:3
+
+Library (90 cards)
+Master (19; 6 trifle)
+1x Barrens, The
+6x Blood Doll
+1x Dummy Corporation
+1x Information Network
+1x KRCG News Radio
+1x Labyrinth, The
+6x Life in the City
+1x Rumor Mill, Tabloid Newspaper, The
+1x Shanty Town Hunting Ground
+
+Action (1)
+1x Nosferatu Bestial
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (9)
+2x .44 Magnum
+2x IR Goggles
+2x Leather Jacket
+3x Sniper Rifle
+
+Retainer (17)
+1x J. S. Simmons, Esq.
+15x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (17)
+4x Cloak the Gathering
+3x Domain of Evernight
+1x Elder Impersonation
+3x Faceless Night
+1x Forgotten Labyrinth
+2x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (22)
+9x Forced Awakening
+4x Instinctive Reaction
+9x Wake with Evening's Freshness

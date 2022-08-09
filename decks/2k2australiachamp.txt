@@ -1,0 +1,83 @@
+Australian NC 2002 Day 2
+Canberra, Australia
+December 8th 2002
+36 players
+Craig Johnston
+
+Deck Name: The Best of Both Worlds
+
+Description: What can I say? It's a Malkavian/!Malkavian
+Stealth Bleed deck, utilising (in my opinion) the best vampires from
+each Clan in terms of bleed potential, without being too large in
+it's Crypt capacity. It's not terribly harsh in it's bleed capacity,
+only bleeding for 4 at most without any static bleed modifiers. It
+also has quite a large capacity for blood gain (although not
+excessivly so). Not as much defence as I would normally like in a
+bleed deck (which tend to come under combat fire regularly) but the
+Lunatics are not known for their combat evasion.
+
+Crypt (12 cards, min=16, max=38, avg=6.67)
+------------------------------------------
+1x Esau				  10  AUS DEM DOM OBF PRE  		Malkavian:3
+1x Rachel Brandywine		  10  AUS DEM OBF PRO ani  prince	Malkavian:3
+1x Vasantasena			  9   AUS DEM OBF dom pot  		Malkavian antitribu:2
+1x William Biltmore		  9   AUS DEM OBF THA dom  		Malkavian:3
+1x Jason, The World's Voice	  8   AUS DEM OBF for	   primogen	Malkavian:3
+1x Korah			  7   AUS DEM OBF ani	   priscus	Malkavian antitribu:2
+1x Dolphin Black		  6   AUS DEM OBF	   		Malkavian antitribu:2
+1x Persia, The Beautiful Statue	  5   DEM aus obf	   		Malkavian:3
+1x Uncle George			  5   DEM aus dom obf	   		Malkavian antitribu:3
+1x Adelaide Davis		  4   aus dem obf	   		Malkavian:3
+1x Idalia, Prophet of Guadalajara 4   AUS dem		   		Malkavian antitribu:2
+1x Yorik			  3   dem obf		   		Malkavian antitribu:2
+
+Library (90 cards)
+Master (15)
+2x Archon Investigation
+1x Auspex
+3x Blood Doll
+1x Direct Intervention
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Jake Washington
+1x Malkavian Prank
+2x Minion Tap
+1x Secure Haven
+1x Sudden Reversal
+
+Action (15)
+1x Call, The
+2x Forgery
+11x Kindred Spirits
+1x Pulse of the Canaille
+
+Equipment (2)
+1x Changeling Skin Mask
+1x Enchanted Marionette
+
+Action Modifier (30)
+3x Cloak the Gathering
+3x Confusion
+2x Elder Impersonation
+10x Eyes of Chaos
+3x Faceless Night
+3x Lost in Crowds
+1x Mask of a Thousand Faces
+1x Mind Tricks
+3x Spying Mission
+1x Walk through Arcadia
+
+Action Modifier/Combat (6)
+2x Deny
+4x Swallowed by the Night
+
+Reaction (16)
+2x Forced Awakening
+1x My Enemy's Enemy
+3x Telepathic Counter
+6x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (6)
+4x Behind You!
+2x Coma

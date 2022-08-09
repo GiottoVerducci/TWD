@@ -1,0 +1,67 @@
+Pulled Fangs
+Stockholm, Sweden
+September 9th 2012
+2R+F
+10 players
+Ivan Marin-Rivas
+
+Deck Name: Vita Kränkta Män ("White violated men")
+
+Description: I made this deck for Sofia as a newbie deck
+to show how votes work. The deck is a normal Govern chain
+with Democritus at the top, vote if you can, otherwise
+discard vote cards during referendums to draw more bleed.
+
+Crypt (12 cards, min=24, max=36, avg=7.42)
+------------------------------------------
+2x Wilhelm Waldburg		    9	DOM FOR PRE aus cel	prince	  Ventrue:2
+2x Emerson Bridges		    8	DOM FOR PRE pot		prince	  Ventrue:1
+2x Sir Walter Nash		    7	DOM FOR PRE		prince	  Ventrue:1
+2x Timothy Crowley		    7	FOR PRE ani dom		prince	  Ventrue:1
+1x Democritus			    10	DOM PRE aus cel for	justicar  Ventrue:1
+1x Heather Florent, The Opportunist 6	FOR PRE dom			  Ventrue:1
+1x Luccia Paciola		    6	DOM for pre			  Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar  5	DOM PRE for			  Ventrue:2
+
+Library (83 cards)
+Master (11)
+2x Anarch Troublemaker
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Legendary Vampire
+2x Misdirection
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+
+Action (17)
+2x Entrancement
+9x Govern the Unaligned
+2x Mind Numb
+4x Scouting Mission
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (13)
+1x Anarchist Uprising
+1x Conservative Agitation
+6x Kine Resources Contested
+2x Neonate Breach
+3x Parity Shift
+
+Action Modifier (26)
+2x Bewitching Oration
+3x Bonding
+4x Conditioning
+3x Daring the Dawn
+9x Freak Drive
+2x Seduction
+3x Voter Captivation
+
+Reaction (7)
+5x Deflection
+2x Second Tradition: Domain
+
+Combat (8)
+8x Majesty

@@ -1,0 +1,76 @@
+O Despertar
+Cariri, Brazil
+January 11th 2015
+3R+F
+10 players
+Tiago Deividy Bento Serafim
+https://www.vekn.net/event-calendar/event/7935
+
+-- 3VP in final
+
+Deck Name: Week of Nightmares
+
+Description: Building setup with Tumnimos, trying control the game with Sensories and playing Week of Nightmares in the exact time to finish the game.
+
+Crypt (12 cards, min=22, max=37, avg=7.5)
+-----------------------------------------
+4x Gabrin			  8   ANI CHI dom for			 Ravnos:2
+2x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom		 Ravnos:2
+2x Joaquina Amaya		  6   ANI CHI FOR			 Ravnos:2
+1x Ezmerelda			  11  ANI CHI FOR PRE dom tha	2 votes	 Ravnos:2
+1x Delizbieta of the Dark Eyes	  7   ANI CHI FOR PRE			 Ravnos:3
+1x Vaclav Petalengro		  6   ANI CHI for pot			 Ravnos:2
+1x Salbatore Bokkengro		  4   CHI for pro			 Ravnos:2
+
+Library (90 cards)
+Master (14; 4 trifle)
+1x Fortune Teller Shop
+1x Giant's Blood
+1x Park Hunting Ground
+2x Path of Paradox, The
+2x Perfectionist
+1x Secure Haven
+4x Vessel
+2x Week of Nightmares
+
+Action (20)
+1x Aranthebes, The Immortal
+2x Fatuus Mastery
+1x Illusory Resources
+8x Sensory Deprivation
+8x Tumnimos
+
+Action/Reaction (2)
+2x Draba -- Wasted cards. I put them thiking to block a "gold" action. This didn't happen.
+
+Ally (5)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Ossian
+2x Procurer
+
+Equipment (3)
+1x Camera Phone
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Retainer (1)
+1x J. S. Simmons, Esq.
+
+Action Modifier (19)
+6x False Resonance
+6x Fata Morgana
+6x Freak Drive
+1x Will-o'-the-Wisp
+
+Action Modifier/Combat (6)
+6x Mirror Image
+
+Reaction (12)
+6x Deflection
+1x Forced Awakening
+2x Ignis Fatuus -- Wasted cards. I put them thiking to block a "gold" action or reduce bleed. This didn't happen.
+3x On the Qui Vive
+
+Combat (8)
+8x Illusions of the Kindred -- Aggressive meta

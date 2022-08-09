@@ -1,0 +1,63 @@
+Italian Grand Prix 2019/20
+Bologna, Italy
+November 23rd 2019
+3R+F
+50 players
+Alessandro Donati
+https://www.vekn.net/event-calendar/event/9404
+
+-- 2GW7 + 3VP in final
+
+Deck Name: Hells Bells
+
+Pure Baali Political Deck that exploits Arishat's ability and the
+Condamnation: Mute to gain the vote lock.
+
+Crypt (12 cards, min=15, max=34, avg=6.25)
+------------------------------------------
+3x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
+3x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
+3x Arishat		   6   DAI OBF PRE	    1 vote	Baali:6
+3x Horde, The		   3   dai obf pre	    		Baali:6
+
+Library (90 cards)
+Master (25; 8 trifle)
+1x Archon Investigation
+1x Direct Intervention
+1x Fear of Mekhet
+1x Giant's Blood
+2x Path of Evil Revelations
+1x Pentex(TM) Subversion
+1x Protected Resources
+1x Ruins of Charizel
+8x Tend the Flock
+6x Villein
+2x Wider View
+
+Action (12)
+8x Condemnation: Mute
+1x Contagion
+3x Unleash Hell's Fury
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x Conservative Agitation
+4x Kine Resources Contested
+1x My Kin Against the World
+4x Reckless Agitation
+1x Reinforcements
+
+Action Modifier (28)
+2x Approximation of Loyalty
+4x Elder Impersonation
+6x Forgotten Labyrinth
+4x I am Legion
+4x Lost in Crowds
+8x Voter Captivation
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Scourge of the Enochians

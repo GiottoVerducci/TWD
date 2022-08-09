@@ -1,0 +1,65 @@
+Grasp the Ghostly
+Columbus, Ohio
+September 15th 2001
+Will Kristoff
+
+Honor the Elders
+
+Crypt (12 cards, min=38, max=42, avg=10)
+----------------------------------------
+2x Aziz, Dammar of Istanbul 10	CEL OBF PRE QUI ser	 2 votes	Assamite:2
+2x Cailean		    10	ANI OBF POT PRE dom	 archbishop	Nosferatu antitribu:2
+2x Nehsi		    10	OBF PRE PRO SER aus for	 2 votes	Follower of Set:2
+1x Arika		    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
+1x Leandro		    11	AUS OBF PRE cel dom	 inner circle	Malkavian:2
+1x François Villon	    10	AUS CEL PRE chi obf pot	 prince		Toreador:2
+1x Queen Anne		    10	DOM FOR PRE aus obf	 prince		Ventrue:2
+1x Khay'tall, Snake of Eden 9	DOM OBF PRE SER aus	 		Follower of Set:2
+1x Klaus van der Veken	    9	CEL PRE aus obf tha	 prince		Toreador:2
+
+Library (90 cards)
+Master (12)
+4x Blood Doll
+1x Dreams of the Sphinx
+1x Information Highway
+4x Minion Tap
+2x Obfuscate
+
+Action (9)
+6x Enchant Kindred
+3x Fifth Tradition: Hospitality
+
+Political Action (31)
+3x Anarchist Uprising
+1x Ancient Influence
+2x Ancilla Empowerment
+4x Banishment
+2x Conservative Agitation
+2x Dramatic Upheaval
+8x Honor the Elders
+6x Kine Resources Contested
+1x National Guard Support
+1x Reinforcements
+1x Transfer of Power
+
+Action Modifier (22)
+3x Awe
+3x Bewitching Oration
+2x Cloak the Gathering
+1x Cryptic Rider
+2x Faceless Night
+3x Forgotten Labyrinth
+3x Lost in Crowds
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (6)
+2x Second Tradition: Domain
+4x Wake with Evening's Freshness
+
+Combat (8)
+2x Catatonic Fear
+4x Majesty
+2x Staredown

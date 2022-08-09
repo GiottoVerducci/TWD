@@ -1,0 +1,66 @@
+Domingo de Shamblings
+Palma de Mallorca, Spain
+May 5th 2019
+3R+F
+12 players
+Ginés Quiñonero
+https://www.vekn.net/event-calendar/event/9207
+
+-- 1GW4 + 4VP in final
+
+Deck Name: The Dark Side of Politics
+
+Crypt (12 cards, min=28, max=37, avg=7.75)
+------------------------------------------
+5x Giotto Verducci		7   DAI OBF for pot pre				Baali:2
+1x Arika			11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for		justicar	Nosferatu:1
+1x Suhailah			9   FOR OBF pot ser		prince		Ventrue:2
+1x Selma the Repugnant		8   OBF POT ani for		prince		Nosferatu:1
+1x Greger Anderssen		7   AUS OBF dom pro		prince		Malkavian:2
+1x Murat			7   OBF POT ser			prince		Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf		prince		Nosferatu:2
+
+Library (81 cards)
+Master (22; 8 trifle)
+6x Ashur Tablets
+1x Giant's Blood
+1x Information Highway
+1x Legendary Vampire
+1x Papillon
+1x Perfectionist
+3x Vast Wealth
+5x Villein
+3x Wider View
+
+Action (8)
+6x Condemnation: Mute
+2x Unleash Hell's Fury
+
+Equipment (5)
+4x Kaymakli Fragment
+1x Textbook Damnation, The
+
+Political Action (12)
+1x Ancilla Empowerment
+6x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (24)
+3x Elder Impersonation
+3x Faceless Night
+3x Forgotten Labyrinth
+12x Freak Drive
+3x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (3)
+3x Second Tradition: Domain
+
+Combat (3)
+3x No Trace
+
+Event (1)
+1x Uncoiling, The

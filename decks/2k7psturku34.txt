@@ -1,0 +1,74 @@
+Praxis Seizure XXXIV: Turku
+Turku, Finland
+May 6th 2007
+3R+F
+11 players
+Antero Leppänen
+
+Deck Name: The Usual Suspects
+
+Description: a generic Imbued deck
+
+The other finalists were playing: Daughters breed/vote, Setite SB/
+Temptation, White Lily multirush and Little Tailor's War Ghouls.
+
+Crypt (12 cards, min=8, max=20, avg=3.67)
+-----------------------------------------
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Tupdog			1   POT VIS	 Gargoyle:3 -- can recruit el vagabundo or Carlton
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
+1x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (83 cards)
+Master (15; 2 trifle)
+6x Angel of Berlin
+1x Church of Vindicated Faith, The
+2x Fortschritt Library
+2x Memories of Mortality
+1x Smiling Jack, The Anarch
+1x Unity
+2x Wash
+
+Conviction (19)
+5x React with Conviction
+8x Second Sight
+6x Strike with Conviction
+
+Ally (2)
+1x Carlton Van Wyk
+1x Vagabond Mystic
+
+Equipment (14)
+2x .44 Magnum
+1x Crusader Sword, The
+7x Flash Grenade
+3x Heart of Nizchetus
+1x Orb of Ulain
+
+Power (13)
+2x Champion
+2x Hide
+1x Inspire
+3x Rejuvenate
+5x Vigilance
+
+Action Modifier (3)
+3x Change of Target
+
+Reaction (5)
+3x Determine
+2x On the Qui Vive
+
+Combat (7)
+7x Concealed Weapon
+
+Event (5)
+2x Edge Explosion
+1x Restricted Vitae
+1x Thirst
+1x Unmasking, The

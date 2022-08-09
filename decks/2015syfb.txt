@@ -1,0 +1,77 @@
+Stealing Years
+Fortaleza, Brazil
+August 16th 2015
+3R+F
+20 players
+Renato Torres
+https://www.vekn.net/event-calendar/event/7917
+
+-- 4VP in final
+
+Deck Name: Master Revolt
+
+Crypt (16 cards, min=4, max=36, avg=6)
+--------------------------------------
+4x Nana Buruku			8   ANI POT PRE				    Guruhi:4
+4x Anarch Convert		1   -none-				    Caitiff:ANY
+2x Cybele			10  ANI DAI OBF PRE SER THA		    Baali:4
+1x Darvag, The Butcher of Rus	8   ANI VIC aus pot pro			    Tzimisce:4
+1x Lukas			8   ANI OBF POT pre ser		archbishop  Nosferatu antitribu:4
+1x Mateusz Gryzbowsky		8   ANI OBF POT				    Nosferatu antitribu:3
+1x Greensleeves			7   ANI OBF for pot		priscus	    Nosferatu antitribu:4
+1x Janey Pickman		6   ANI PRO for				    Gangrel antitribu:4
+1x Stick			3   ANI					    Nosferatu antitribu:4
+
+Library (90 cards)
+Master (39; 5 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+10x Anarch Revolt
+1x Archon Investigation
+4x Ashur Tablets
+1x Carver's Meat Packing and Storage
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x KRCG News Radio
+1x Nosferatu Kingdom
+1x Parthenon, The
+2x Perfectionist
+1x Powerbase: Montreal
+1x Seattle Committee
+1x Secure Haven
+1x Shanty Town Hunting Ground
+1x Twilight Camp
+3x Vessel
+2x Villein
+1x WMRH Talk Radio
+
+Action (10)
+2x Ambush
+3x Bum's Rush
+1x Deep Song
+3x Harass
+1x Status Perfectus, The
+
+Ally (2)
+1x Mylan Horseed
+1x Procurer
+
+Equipment (3)
+1x .44 Magnum
+1x Ivory Bow
+1x Palatial Estate
+
+Reaction (6)
+3x Forced Awakening
+3x Sense the Savage Way
+
+Combat (30)
+9x Aid from Bats
+2x Canine Horde
+7x Carrion Crows
+2x Groundfighting
+6x Target Vitals
+4x Taste of Vitae

@@ -1,0 +1,45 @@
+Sonho de Ícaro
+Somewhere, Brazil
+November 15th 2015
+12 players
+Fernanda Nunes
+https://www.vekn.net/event-calendar/event/8276
+
+-- 5VP in final
+
+Deck Name: A politica do Inferno (Esquerda Caviar)
+
+Crypt (12 cards, min=22, max=28, avg=6.42)
+------------------------------------------
+3x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  	    Baali:6
+3x Arishat		   6   DAI OBF PRE	    1 vote  Baali:6
+2x Imanna		   7   OBF QUI cel for pre  1 vote  Assamite:6
+2x Ogwon		   7   OBF PRE SER for	    	    Follower of Set:5
+1x Abdelsobek		   5   for nec obf pre ser  	    Follower of Set:5
+1x Shahara al-Rashwa	   5   OBF SER pre	    	    Follower of Set:6
+
+Library (66 cards)
+Master (17; 3 trifle)
+7x Ashur Tablets
+2x Dreams of the Sphinx
+1x Ferraille
+1x Information Highway
+2x Protected Resources
+1x Secure Haven
+3x Vessel
+
+Political Action (13)
+2x Ancilla Empowerment
+5x Kine Resources Contested
+6x Reckless Agitation
+
+Action Modifier (30)
+5x Awe
+6x Bewitching Oration
+4x Faceless Night
+4x Forgotten Labyrinth
+5x Lost in Crowds
+6x Voter Captivation
+
+Combat (6)
+6x Majesty

@@ -1,0 +1,73 @@
+Burton
+Burton-on-Trent, England
+March 25th 2006
+2R+F
+12 players
+Hugh Angseesing
+
+Omaya's Wall of Rock
+
+Crypt (12 cards, min=15, max=29, avg=5.33)
+------------------------------------------
+3x Omaya			7   ANI AUS FOR pro	 Gangrel antitribu:2
+1x Nadima			8   FOR PRO SER ani aus	 Gangrel:3
+1x Billy			5   AUS dom for		 Ventrue antitribu:2
+1x Dr. Allan Woodstock		5   PRO ani aus for	 Gangrel:3
+1x Ghivran Dalaal, The Dead God	5   FOR ani aus chi	 Ravnos:2
+1x Miriam Benyona		5   AUS for obe		 Salubri:2
+1x Monique			5   ani aus for pro	 Gangrel antitribu:2
+1x Maldavis			4   AUS for pre		 Caitiff:3
+1x Isabel de Leon		3   AUS			 Toreador:2
+1x Zöe				3   AUS cel obf		 Malkavian:2
+
+Library (90 cards)
+Master (17)
+2x Auspex
+5x Blood Doll
+1x Campground Hunting Ground
+1x Fame
+1x Guardian Angel
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Rötschreck
+1x Rumor Mill, Tabloid Newspaper, The
+1x Smiling Jack, The Anarch
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Atonement
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (6)
+2x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+1x Palatial Estate
+1x Sniper Rifle
+
+Retainer (4)
+2x Murder of Crows
+2x Raven Spy
+
+Reaction (33)
+5x Eagle's Sight
+3x Enhanced Senses
+5x Forced Awakening
+2x My Enemy's Enemy
+2x Precognition
+4x Read the Winds
+2x Spirit's Touch
+7x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (27)
+6x Bone Spur
+4x Carrion Crows
+4x Indomitability
+2x Pack Alpha
+5x Skin of Steel
+3x Superior Mettle
+3x Telepathic Tracking

@@ -1,0 +1,63 @@
+Praxis Pamplona
+Pamplona, Spain
+October 20th 2012
+3R+F
+10 players
+Txus Alútiz Lizarraga
+
+Deck Name: Rabbat Lurker
+
+Crypt (12 cards, min=22, max=31, avg=6.75)
+------------------------------------------
+4x Rabbat, The Sewer Goddess	7   ANI FOR OBF pot	 	   Nosferatu:4
+2x Lodin (Olaf Holte)		8   DOM FOR PRE aus pro	 prince	   Ventrue:5
+1x Epikasta Rigatos		8   AUS DOM PRE cel	 prince	   Toreador:4
+1x Graham Gottesman		7   DOM FOR obf pre tha	 prince	   Ventrue:5
+1x Mustafa, The Heir		6   FOR PRE cel dom	 prince	   Ventrue:4
+1x Victor Donaldson		6   DOM for pre		 prince	   Ventrue:5
+1x Emily Carson			5   DOM for pre		 primogen  Ventrue:5
+1x Victor Pelletier		5   PRE cel dom for	 	   Ventrue:4
+
+Library (81 cards)
+Master (14; 5 trifle)
+1x Anarch Troublemaker
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Monster
+1x Papillon
+1x Pentex(TM) Subversion
+1x Ventrue Headquarters
+3x Vessel
+1x Villein
+1x Wash
+
+Action (10)
+10x Govern the Unaligned
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (6)
+4x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier (25)
+2x Cloak the Gathering
+5x Conditioning
+2x Foreshadowing Destruction
+5x Freak Drive
+6x Hidden Lurker
+5x Veil the Legions
+
+Reaction (10)
+6x Deflection
+1x On the Qui Vive
+3x Second Tradition: Domain
+
+Combat (15)
+3x Amaranth
+1x Drawing Out the Beast
+6x Majesty
+5x Unflinching Persistence

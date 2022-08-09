@@ -1,0 +1,82 @@
+English NC 2011
+Jugged Hare Pub, Victoria, London, England
+November 19th 2011
+3R+F
+24 players
+Hugh Angseesing
+
+Deck Name: Brian's Bitches go wild! (Brian being Prince of Seattle)
+Created by: Hugh Angseesing/Adam Esbjörnsson
+
+Tap and bleed with broken master module.
+Should be around 80 cards but does need the Anarchist and the Entrancements
+(probably the AI too). Would suggest losing Reins to put an Enkil back in as
+actually thought in Warsaw and London that there was a Cog somewhere in the
+
+Crypt (13 cards, min=25, max=43, avg=8.62)
+------------------------------------------
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+1x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Masika	   10  AUS CEL PRE		primogen	Toreador:1
+1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+1x Victoria Ash	   6   PRE aus cel dom		primogen	Toreador:2
+1x Mariana Gilbert 4   PRE cel					Toreador:1
+
+Library (90 cards)
+Master (49; 8 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+9x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fortschritt Library
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+2x Jake Washington
+1x Lilith's Blessing
+6x Liquidation
+2x Misdirection
+1x Monastery of Shadows
+1x Parthenon, The
+2x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Toreador Grand Ball
+7x Villein
+5x Zillah's Valley
+
+Action (6)
+4x Entrancement
+2x Mind Numb
+
+Political Action (5)
+1x Anarchist Uprising
+1x Banishment
+2x Parity Shift
+1x Reins of Power
+
+Action Modifier (8)
+4x Aire of Elation
+2x Approximation of Loyalty
+2x Perfect Paragon
+
+Action Modifier/Combat (3)
+1x Force of Personality
+2x Resist Earth's Grasp
+
+Action Modifier/Reaction (1)
+1x Scalpel Tongue
+
+Reaction (9)
+3x Deflection
+3x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Combat (7)
+7x Majesty
+
+Event (2)
+2x Anthelios, The Red Star

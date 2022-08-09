@@ -1,0 +1,62 @@
+Rockheart
+Vitória, Brazil
+June 10th 2006
+2R+F
+14 players
+Daniel Stefanutti
+
+Deck Name: Weenie animalism
+
+Crypt (12 cards, min=9, max=13, avg=2.83)
+-----------------------------------------
+1x Sennuwy, The Promoter	4   ani chi for	 Ravnos:2
+1x Bothwell			3   ani for	 Gangrel:3
+1x Darva Felispa		3   ani pot	 Nosferatu:3
+1x Leon				3   ani for	 Gangrel antitribu:2
+1x Muse				3   ani for mel	 Daughter of Cacophony:2
+1x Panagos Levidis		3   ani obf	 Gangrel:2
+1x Raziya Samater		3   ani pot	 Brujah:2
+1x Shannon Price, The Whisperer	3   ani obf	 Nosferatu antitribu:2
+1x Tommy			3   ani pot	 Nosferatu antitribu:2
+1x Dani				2   ani		 Nosferatu antitribu:2
+1x Spleen, Georgio Gutterpunk	2   ani chi	 Ravnos:2
+1x Zip				2   ani		 Ravnos:3
+
+Library (90 cards)
+Master (22; 6 trifle)
+4x Animalism
+1x Archon Investigation
+2x Fame
+1x Haven Uncovered
+1x Humanitas
+6x Life in the City
+1x Park Hunting Ground
+1x Shanty Town Hunting Ground
+5x Tribute to the Master
+
+Action (17)
+2x Army of Rats
+4x Bum's Rush
+8x Computer Hacking
+1x Games of Instinct
+2x Harass
+
+Retainer (5)
+1x Murder of Crows
+4x Owl Companion
+
+Reaction (5)
+2x Falcon's Eye
+3x Instinctive Reaction
+
+Combat (40)
+14x Aid from Bats
+2x Backstab
+10x Carrion Crows
+1x Drawing Out the Beast
+2x Pack Alpha
+5x Terror Frenzy
+6x Trap
+
+Event (1)
+1x Anthelios, The Red Star

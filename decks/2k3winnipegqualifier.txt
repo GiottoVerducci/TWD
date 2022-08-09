@@ -1,0 +1,59 @@
+Winnipeg Qualifier
+Winnipeg, Manitoba
+May 17th 2003
+21 players
+Stacy Brydges
+
+Feary Bugs
+
+Crypt (12 cards, min=24, max=35, avg=7.5)
+-----------------------------------------
+3x Marconius		9   DOM MYT OBT pot	 archbishop	Kiasyd:2
+3x Bartholomew		8   AUS MYT NEC dom obt	 		Kiasyd:2
+2x Julia Prima		7   DOM OBT aus myt	 		Kiasyd:2
+2x Kassiym Malikhair	6   MYT OBT dom for	 		Kiasyd:2
+1x Ian Forestal		8   AUS DOM THA		 		Tremere antitribu:2
+1x Béatrice L'Angou	5   MYT aus dom nec	 		Kiasyd:2
+
+Library (90 cards)
+Master (14)
+2x Archon Investigation
+3x Blood Doll
+2x Dominate
+2x Dreams of the Sphinx
+1x Effective Management
+1x Fear of Mekhet
+1x Giant's Blood
+1x Metro Underground
+1x Obtenebration
+
+Action (9)
+1x Bum's Rush
+8x Govern the Unaligned
+
+Equipment (1)
+1x Palatial Estate
+
+Action Modifier (6)
+3x Shadow Play
+3x Stone Travel
+
+Action Modifier/Reaction (6)
+6x Aura Absorption
+
+Reaction (26)
+6x Deflection
+1x Eagle's Sight
+2x Eyes of the Night
+2x Folderol
+4x Forced Awakening
+8x Obedience
+3x Telepathic Counter
+
+Combat (28)
+2x Absorb the Mind
+5x Arms of the Abyss
+6x Darkling Trickery
+5x Earth Swords
+4x Shadow Body
+6x Shadow Step

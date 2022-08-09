@@ -1,0 +1,61 @@
+French NCQ
+Nice, France
+October 25th 2008
+3R+F
+24 players
+Patrick Benoit
+
+Deck Name: Plan 9 from outer space
+
+Crypt (13 cards, min=15, max=27, avg=5.15)
+------------------------------------------
+3x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
+2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+2x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+1x Stefano Giovanni	6   DOM nec pot pre	Giovanni:2
+1x Francesca Giovanni	4   dom nec pot		Giovanni:2
+1x Rudolfo Giovanni	3   NEC			Giovanni:2
+
+Library (70 cards)
+Master (16; 4 trifle)
+3x Acquired Ventrue Assets
+2x Anarch Troublemaker
+1x Coven, The
+1x Direct Intervention
+1x Jake Washington
+1x Path of Bone, The
+2x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Sudden Reversal
+3x Vessel
+
+Action (16)
+12x Govern the Unaligned
+4x Sudario Refraction
+
+Ally (9)
+1x Carlton Van Wyk
+8x Shambling Hordes
+
+Action Modifier (18)
+3x Bonding
+6x Call of the Hungry Dead
+4x Conditioning
+1x Foreshadowing Destruction
+3x Seduction
+1x Trochomancy
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (5)
+3x Deflection
+2x Delaying Tactics
+
+Combat (1)
+1x Mercy for Seth
+
+Event (1)
+1x Uncoiling, The

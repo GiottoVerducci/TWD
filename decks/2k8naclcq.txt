@@ -1,0 +1,66 @@
+NAC 2008 - Last Chance Qualifier
+Montreal, Quebec
+October 24th 2008
+3R+F
+40 players
+Pascal Bertrand
+
+-- 5VP in final
+
+Crypt (12 cards, min=20, max=29, avg=6.42)
+------------------------------------------
+3x Stavros			7   AUS OBF PRE dem	 priscus	Malkavian antitribu:4
+2x Quentin King III		7   AUS DEM obf pre	 prince		Malkavian:3
+2x Ubende			7   CEL PRE for obf qui	 magaji		Ishtarri:4
+1x Lukas			8   ANI OBF POT pre ser	 archbishop	Nosferatu antitribu:4
+1x Antoinette, She Who Watches	6   AUS PRE cel obf	 primogen	Toreador:3
+1x Axel Von Anders		5   PRE cel obf pot	 		Brujah antitribu:4
+1x Raphael Catarari		5   OBF PRE aus pot tha	 		Nosferatu antitribu:4
+1x Tock				4   obf pot pre		 		Nosferatu antitribu:3
+
+Library (78 cards)
+Master (17; 4 trifle)
+2x Danse Macabre
+3x Dreams of the Sphinx
+1x Giant's Blood
+3x Information Highway
+3x Minion Tap
+1x Pentex(TM) Subversion
+4x Vessel
+
+Action (5)
+1x Legal Manipulations
+4x Public Trust
+
+Political Action (13)
+1x Anarchist Uprising
+2x Ancilla Empowerment
+1x Conservative Agitation
+3x Domain Challenge
+6x Kine Resources Contested
+
+Action Modifier (29)
+2x Aire of Elation
+1x Approximation of Loyalty
+2x Awe
+5x Bewitching Oration
+2x Cloak the Gathering
+2x Elder Impersonation
+3x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+6x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (5)
+1x On the Qui Vive
+2x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (5)
+5x Majesty
+
+Event (1)
+1x Uncoiling, The

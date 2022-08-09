@@ -1,0 +1,58 @@
+The Air Conditioned Nightmare
+Santiago, Chile
+October 20th 2007
+13 players
+Jackson Iribarren
+
+Deck Name: Lasombra Político
+
+Crypt (12 cards, min=30, max=39, avg=8.67)
+------------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+3x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+2x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+2x Tobias Smith				  7   DOM OBT PRE pot			    Lasombra:3
+
+Library (90 cards)
+Master (15)
+3x Blood Doll
+1x Elysian Fields
+2x Information Highway
+2x Minion Tap
+1x Power Structure
+1x Powerbase: Madrid
+2x Sudden Reversal
+2x Tomb of Rameses III
+1x WMRH Talk Radio
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (13)
+1x Banishment
+1x Cardinal Benediction
+2x Consanguineous Boon
+8x Kine Resources Contested
+1x Reins of Power
+
+Action Modifier (26)
+4x Bewitching Oration
+4x Iron Glare
+6x Shadow Play
+4x Shroud of Night
+2x Tenebrous Form
+6x Voter Captivation
+
+Reaction (10)
+2x Darksight
+6x Deflection
+2x Eyes of the Night
+
+Combat (18)
+3x Arms of the Abyss
+3x Burning Wrath
+3x Entombment
+3x Majesty
+3x Shadow Body
+3x Shadow Step

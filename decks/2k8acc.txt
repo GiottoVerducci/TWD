@@ -1,0 +1,63 @@
+Australian Continental Championship 2008
+Melbourne, Australia
+October 19th 2008
+3R+F
+22 players
+Simon Reed
+
+-- 3VP in final
+
+Deck: Assamite Bleed / Vote
+Description: Uses the Alamut as the key card vote defense and
+occasional vote calling, mainlys bleeds and bloats with Haqims LAw:
+Leadership. Based on a deck I saw at the Welsh ECQ a couple of years
+ago, by Oortji I think, updated with the mighty new cards.
+
+Crypt (12 cards, min=9, max=30, avg=4.92)
+-----------------------------------------
+3x Amaravati		8   DOM OBF QUI ani chi	 Assamite:4
+2x Vardar Vardarian	6   OBF QUI cel pre	 Assamite:4
+2x Kamau Jafari		4   QUI obf		 Assamite:4
+2x Alu			2   obf			 Assamite:5
+1x Hafsa, The Watcher	6   OBF QUI aus cel	 Assamite:5
+1x Sajid al Misbah	4   QUI			 Assamite:5
+1x Basir		1   qui			 Assamite:4
+
+Library (74 cards)
+Master (20; 3 trifle)
+4x Alamut
+2x Archon Investigation
+1x Black Throne, The
+2x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Effective Management
+1x Giant's Blood
+1x Pentex(TM) Subversion
+1x Underworld Hunting Ground
+3x Vessel
+1x Yoruba Shrine
+
+Action (21)
+7x Haqim's Law: Leadership
+2x Khabar: Glory
+9x Loss
+3x Web of Knives Recruit
+
+Political Action (8)
+4x Consanguineous Boon
+4x Reckless Agitation
+
+Action Modifier (20)
+4x Cloak the Gathering
+2x Elder Impersonation
+3x Faceless Night
+4x Lost in Crowds
+4x Spying Mission
+3x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Event (1)
+1x Narrow Minds

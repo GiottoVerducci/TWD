@@ -1,0 +1,61 @@
+Swedish Qualifier
+Gothenburg, Sweden
+April 15th 2006
+32 players
+Erik Torstensson
+
+Deck Name: The reincarnation of an ornithologist
+
+Crypt (12 cards, min=11, max=28, avg=5)
+---------------------------------------
+2x Muricia	7   ANI PRE SPI				Ahrimane:4
+2x Effie Lowery	5   ANI SPI obf				Ahrimane:4
+1x Sobayifa	8   ANI PRE aus pot pro spi	magaji	Guruhi:3
+1x Batsheva	6   ANI PRE obt pot			Guruhi:4
+1x Gentha Shale	6   ANI PRE pot spi			Ahrimane:4
+1x Fish		5   ANI POT pre				Guruhi:4
+1x Bobby Lemon	4   ANI pro				Gangrel:3
+1x Lumumba	4   PRE ani				Guruhi:4
+1x Mouse	2   ani					Nosferatu:3
+1x Lisa Noble	1   ani					Caitiff:3
+
+Library (90 cards)
+Master (11)
+5x Blood Doll
+1x Giant's Blood
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+1x Smiling Jack, The Anarch
+
+Action (12)
+1x Army of Rats
+7x Enchant Kindred
+1x Engling Fury
+3x Entrancement
+
+Equipment (3)
+3x .44 Magnum
+
+Retainer (6)
+6x Raven Spy
+
+Action Modifier/Combat (5)
+5x Swiftness of the Stag
+
+Reaction (24)
+4x Cats' Guidance
+5x Falcon's Eye
+6x Forced Awakening
+2x Instinctive Reaction
+7x Speak with Spirits
+
+Combat (28)
+9x Aid from Bats
+9x Carrion Crows
+5x Taste of Vitae
+5x Terror Frenzy
+
+Event (1)
+1x Dragonbound

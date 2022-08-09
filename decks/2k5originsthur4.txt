@@ -1,0 +1,84 @@
+Origins Thursday 4pm
+Columbus, Ohio
+June 30th 2005
+2R+F
+12 players
+Ben Peal
+
+Deck Name: Henry Twister
+
+BEN'S DECK NOTES:
+Around the time I was contemplating the EconoGhoul deck, I got into a
+conversation on the #vtes irc channel (irc.sorcery.net) with David
+Cherryholmes and others about Henry Taylor, and how obnoxious it can
+be to put a Protean skill card on him and playing Earth Meld to protect
+a Smiling Jack. This seemed like a great application of the Pochtli
+Twister tech, so I decided to build the deck. I used Dirty Contracts
+instead of Tracker's Marks, and included a Brothers Grimm, as the Dirty
+Contracts could be used to protect the Brothers Grimm. Ruins of Villers
+Abbey, Belgium and Quick Meld are in there for combat defense, as they're
+extremely card-efficient sources of maneuvers (and the maneuvers from the
+Ruins can be paid for with The Rack). Millicent Smith is there to slow
+the rate of table progression down, while speeding up the rate of turns,
+helping to buy clock time for the Smiling Jack to work. I don't recommend
+using such a deck in a casual game. As much as there are assorted ways of
+defeating this deck (Pentex Subersion, Immortal Grapple, Kiss of Ra, etc.),
+if the table doesn't have a way of getting past Henry, you'll be wasting
+2 hours of their time as they get to sit there and do nothing. That's fine
+for a tournament, but not fine for a friendly game. Props again to Keith
+Page, a former Boston player who built the original Pochtli Twister deck,
+of which my Pochtli Twister deck is its namesake, and Henry Twister is
+similarly named in its honor.
+
+Crypt (12 cards, min=10, max=24, avg=4.5)
+-----------------------------------------
+6x Henry Taylor		6   POT cel pre pro	Brujah antitribu:3
+1x Ramona		4   for pro		Gangrel:2
+1x Ramona (ADV)		4   for pro		Gangrel:2
+1x Daliyah		4   PRO obf		Nosferatu:2
+1x Chandler Hungerford	3   PRO			Gangrel:2
+1x Sadie		2   pro			Gangrel antitribu:2
+1x Huang, Blood Cultist	1   pro			Pander:2
+
+Library (60 cards)
+Master (44; 1 trifle)
+1x Amusement Park Hunting Ground
+2x Blood Doll
+1x Brothers Grimm
+1x Coven, The
+1x Direct Intervention
+25x Dirty Contract
+1x Gang Territory
+1x Guardian Angel
+1x Information Highway
+1x KRCG News Radio
+1x Millicent Smith, Puritan Vampire Hunter
+1x Parthenon, The
+1x Powerbase: Montreal
+3x Protean
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Waste Management Operation
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x Phased Motion Detector
+1x Ruins of Villers Abbey, Belgium
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (2)
+1x Earth Control
+1x Horrific Countenance
+
+Reaction (4)
+4x Forced Awakening
+
+Combat (5)
+3x Earth Meld
+1x Form of Mist
+1x Quick Meld

@@ -1,0 +1,66 @@
+NAC 2008
+GenCon, Indianapolis, Indiana
+August 16th 2008
+3R+F
+18 players
+Jonathan Scherer
+
+Deck Name: Gangrel
+
+Crypt (12 cards, min=13, max=36, avg=6.08)
+------------------------------------------
+4x Ingrid Rossler		9   ANI FOR PRO dom	prince	Gangrel:2
+2x Caitlin			6   ANI PRO aus dom	bishop	Gangrel antitribu:2
+2x Chandler Hungerford		3   PRO				Gangrel:2
+1x Iliana			7   DOM FOR PRO tha		Gangrel:2
+1x Camille Devereux, The Raven	5   FOR PRO ani			Gangrel:1
+1x Ramona (ADV)			4   for pro			Gangrel:2
+1x Ricki Van Demsi		3   for pro			Gangrel:1
+
+Library (90 cards)
+Master (17)
+1x Archon Investigation
+3x Blood Doll
+3x Dominate
+2x Dreams of the Sphinx
+2x Ecoterrorists
+1x Giant's Blood
+1x KRCG News Radio
+1x Rumor Mill, Tabloid Newspaper, The
+1x Smiling Jack, The Anarch
+1x WMRH Talk Radio
+1x Zoo Hunting Ground
+
+Action (10)
+1x Aranthebes, The Immortal
+1x Army of Rats
+2x Computer Hacking
+4x Govern the Unaligned
+2x Restoration
+
+Ally (3)
+3x Renegade Garou
+
+Equipment (1)
+1x Palatial Estate
+
+Retainer (3)
+3x Raven Spy
+
+Action Modifier (13)
+3x Conditioning
+1x Day Operation
+5x Earth Control
+1x Foreshadowing Destruction
+3x Freak Drive
+
+Reaction (21)
+5x Cats' Guidance
+4x Deflection
+4x Second Tradition: Domain
+8x Wake with Evening's Freshness
+
+Combat (22)
+4x Claws of the Dead
+13x Earth Meld
+5x Form of Mist

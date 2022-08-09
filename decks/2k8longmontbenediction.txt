@@ -1,0 +1,99 @@
+Longmont Benediction
+Longmont, Colorado
+January 13th 2008
+2R+F
+13 players
+Darby Keeney
+
+Deck Name: Mergen's Quandry
+
+Description: [CEL] gun
+
+Built so that I could better understand the way [CEL] gun decks win
+tables. Named in honor of my friend Kevin's critique of the 1st cut
+deck design at the 2006 NAC.
+
+I pay slightly more than the bare minimum for G1/2 vampires with
+[CEL] to support Atonement and a touch of [pre].
+
+One Waste Management Operations could fit in here.
+
+It's rare to feel that I need more rushes to impact both predator and prey.
+I think this is the right number, combined with the 3 Frontal Assaults.
+
+Never seen impactful use - this would be my first cull.
+
+The combat package is pretty bulky - but is resilient and pretty effective
+
+I seldom count on equip actions for the .44, so the NRA PAC should be culled.
+
+The 3-card vote package is the most consistent source of pool damage in this deck,
+despite my vampires' lack of titles.
+
+These should probably be "Eluding the Arms of Morpheus" for Yawp Court and Atonement.
+
+Crypt (12 cards, min=15, max=20, avg=4.58)
+------------------------------------------
+2x Black Cat			5   CEL pot pre			Brujah:1
+1x Brachah			5   CEL PRE for			Brujah:2
+1x Dodd				5   CEL dom pre			Brujah antitribu:2
+1x Felicia Mostrom		5   AUS CEL pre			Toreador:1
+1x Rigby, Crusade Vanguard	5   CEL PRE aus pot		Brujah antitribu:2
+1x Victor Revell, Loyalist	5   CEL aus dem pre		Toreador antitribu:2
+1x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Parmenides			4   CEL qui			Assamite:2
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Sarah Brando			3   CEL				Brujah antitribu:2
+
+Library (90 cards)
+Master (17)
+1x Amusement Park Hunting Ground
+5x Blood Doll -- Blood Doll &gt;&gt; Vessel for this deck.
+2x Dreams of the Sphinx -- Didn't see a single one all day in this tournament, but only jammed once.
+1x Fame
+3x Frontal Assault
+1x Heidelberg Castle, Germany
+1x Storage Annex
+1x Tension in the Ranks
+1x Warzone Hunting Ground
+1x Yawp Court
+
+Action (17)
+4x Ambush
+2x Atonement
+3x Bum's Rush
+4x Flurry of Action
+2x Games of Instinct
+2x Legal Manipulations
+
+Ally (2)
+2x Arms Dealer
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (3)
+1x Ancilla Empowerment
+2x Perpetual Care
+
+Action Modifier/Reaction (1)
+1x Scalpel Tongue
+
+Reaction (3)
+3x On the Qui Vive
+
+Combat (39)
+4x Blur
+4x Concealed Weapon
+1x Fast Hands
+4x Flash
+3x Infernal Pursuit
+10x Psyche!
+4x Pursuit
+4x Sideslip
+5x Taste of Vitae
+
+Event (2)
+1x Dragonbound
+1x NRA PAC

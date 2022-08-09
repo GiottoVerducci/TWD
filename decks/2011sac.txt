@@ -1,0 +1,75 @@
+SAC 2011
+Juiz de Fora, Brazil
+November 14th 2011
+25 players
+Fernando Grossi
+
+-- 3VP in final
+
+Deck Name: Deck Campeão Sulamericano
+
+Crypt (19 cards, min=31, max=43, avg=9)
+---------------------------------------
+5x Al-Muntathir, God's Witness	8   AUS FOR PRE TEM obf qui			True Brujah:5
+2x Lutz von Hohenzollern	11  AUS DEM OBF PRE pot		inner circle	Malkavian:4
+2x Nehemiah			9   POT PRE SER TEM obt		2 votes		True Brujah:4
+1x Hardestadt			11  DOM FOR POT PRE cel pro	inner circle	Ventrue:4
+1x Gustav Breidenstein		10  DOM FOR PRE aus cel pot	prince		Ventrue:4
+1x Mary Anne Blaire		10  AUS DOM FOR PRE ani pot	justicar	Ventrue:5
+1x Dmitra Ilyanova		9   CEL FOR POT PRE obf		justicar	Brujah:5
+1x Gerald Windham		9   AUS DOM FOR THA				Tremere:5
+1x Guillaume Giovanni		9   CEL DOM NEC POT obt				Giovanni:4
+1x Orlando Oriundus		9   AUS DOM THA obf		bishop		Tremere antitribu:4
+1x Undele			9   CEL FOR obf pre ser		magaji		Ishtarri:5
+1x Al-Muntaquim, The Avenger	8   FOR POT TEM obf pre				True Brujah:4
+1x Mata Hari			7   CHI OBF aus for qui		2 votes		Ravnos:4
+
+Library (90 cards)
+Master (17; 8 trifle)
+1x Archon Investigation
+1x Cavalier
+1x Coven, The
+1x Creepshow Casino
+1x Direct Intervention
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Tabriz Assembly
+7x Villein
+
+Action (10)
+2x Clio's Kiss
+8x Summon History
+
+Equipment (1)
+1x Ankara Citadel, Turkey, The
+
+Political Action (14)
+2x Anarchist Uprising
+9x Kine Resources Contested
+1x Political Stranglehold
+1x Reckless Agitation
+1x Reins of Power
+
+Action Modifier (26)
+3x Awe
+1x Cloak the Gathering
+2x Faceless Night
+4x Forgotten Labyrinth
+4x Into Thin Air
+3x Perfect Paragon
+1x Spying Mission
+8x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (13)
+1x Forced Awakening
+5x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (8)
+5x Majesty
+3x Skin of Steel

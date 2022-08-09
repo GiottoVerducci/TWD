@@ -1,0 +1,63 @@
+Cardinal Benediction
+Carcassone, France
+August 28th 2005
+3R+F
+30 players
+Miguel Pascual
+
+Deck Name: Pesadilla Vudú (Woodoo Nightmare)
+
+Description: Bring out Shambling Hordes, play Temptations on vampires
+controlled by another Methuselah, and keep alive until you have a
+decent setup. This deck is very weak if your predator is very aggressive from
+the beginning of the game. If you successfully set up, then you get an interesting
+control of the table. The Khobar Towers allow you to gain 3 pool when your
+Shambling Hordes have 1 life left. It is also interesting to use the Towers
+when you also have the Heidelberg Castle in play and you put a vampire in play,
+since it allows you to move all his blood to another vampire you control and
+remove him from the game afterward for pool gain.
+
+Crypt (12 cards, min=18, max=29, avg=5.83)
+------------------------------------------
+3x Sarrasine	    7	OBF PRE aus nec ser	Follower of Set:2
+3x Dedefra	    5	SER nec obf		Follower of Set:2
+2x Le Dinh Tho	    5	NEC aus dom		Nagaraja:2
+1x Intisar	    8	OBF PRE SER cel pot	Follower of Set:2
+1x Qufur am-Heru    7	OBF PRE SER cel tha	Follower of Set:2
+1x Allonzo Montoya  6	OBF SER ani aus		Abomination:3
+1x Celine Chevalier 3	obf ser			Follower of Set:2
+
+Library (90 cards)
+Master (16)
+2x Archon Investigation
+3x Direct Intervention
+3x Heidelberg Castle, Germany
+3x Khobar Towers, Al-Khubar
+3x Necromancy
+1x Opium Den
+1x Temple Hunting Ground
+
+Action (27)
+9x Enchant Kindred
+3x Enticement
+3x Entrancement
+1x Form of Corruption
+11x Temptation
+
+Ally (19)
+1x Carlton Van Wyk
+1x Ossian
+1x Puppeteer
+16x Shambling Hordes
+
+Equipment (3)
+3x Sargon Fragment, The
+
+Action Modifier (22)
+3x Call of the Hungry Dead
+9x Cloak the Gathering
+3x Forgotten Labyrinth
+7x Lost in Crowds
+
+Event (3)
+3x Unmasking, The

@@ -1,0 +1,65 @@
+South West NAC Qualifier - Powerbase: Los Angeles
+Los Angeles, California
+May 28th 2005
+18 players
+Brian Moritz
+
+Crypt (12 cards, min=4, max=19, avg=2.33)
+-----------------------------------------
+1x Korah		    7	AUS DEM OBF ani	 priscus	Malkavian antitribu:2
+1x Marie Faucigny	    7	AUS OBF dem tha	 archbishop	Malkavian antitribu:3
+1x Lena Rowe		    3	aus obf pre	 		Pander:2
+1x Christine Boscacci	    2	dom vic		 		Pander:2
+1x Mitchell, The Headhunter 2	obt pot		 		Pander:2
+1x Angela Decker	    1	pre		 		Pander:2
+1x Basil		    1	obf		 		Pander:2
+1x Feo Ramos		    1	aus		 		Pander:3
+1x Huang, Blood Cultist	    1	pro		 		Pander:2
+1x March Halcyon	    1	for		 		Pander:2
+1x Olga Triminov	    1	vic		 		Pander:3
+1x Royce		    1	dom		 		Pander:2
+
+Library (90 cards)
+Master (17)
+1x Barrens, The
+1x Blood Doll
+1x Creepshow Casino
+1x Día de los Muertos
+2x Dreams of the Sphinx
+1x Effective Management
+1x Hungry Coyote, The
+3x Information Highway
+4x Obfuscate
+2x Powerbase: Madrid
+
+Action (7)
+7x Embrace, The
+
+Political Action (32)
+8x Consanguineous Boon
+1x Crusade: Chicago
+1x Crusade: Detroit
+1x Crusade: Mexico City
+1x Crusade: Philadelphia
+1x Crusade: Pittsburgh
+1x Crusade: Toronto
+1x Disputed Territory
+2x Domain Challenge
+7x Kine Resources Contested
+7x Legacy of Pander
+1x Rumors of Gehenna
+
+Action Modifier (26)
+4x Cloak the Gathering
+2x Cryptic Rider
+4x Faceless Night
+4x Forgotten Labyrinth
+8x Lost in Crowds
+4x Private Audience
+
+Reaction (5)
+3x Deflection
+2x Telepathic Misdirection
+
+Combat (3)
+3x Dodge

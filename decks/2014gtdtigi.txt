@@ -1,0 +1,80 @@
+Genova tappa del Tour Italiano
+Genova, Italy
+February 9th 2014
+2R+F
+32 players
+Giulio De Cicco
+https://www.vekn.net/event-calendar/event/7465
+
+Deck Name: Stanislava and some strange friends..
+
+Description: My version of a Stanislava deck, some slots are just to play better in the italian metagame.
+
+Crypt (12 cards, min=38, max=44, avg=10.33)
+-------------------------------------------
+5x Stanislava		   11  ANI CEL DOM FOR PRO	inner circle	Gangrel:2
+2x Angus the Unruled	   10  ANI PRO cel for pot	justicar	Gangrel:1
+2x Ingrid Rossler	   9   ANI FOR PRO dom		prince		Gangrel:2
+1x Etrius		   11  AUS DOM OBF THA pro	inner circle	Tremere:2
+1x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro	justicar	Brujah:1
+1x Genevieve		   10  ANI FOR PRO aus dom	priscus		Gangrel antitribu:2
+
+Library (90 cards)
+Master (26; 7 trifle)
+1x Backways
+1x Creepshow Casino
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Secure Haven
+7x Villein
+7x Zillah's Valley
+
+Action (11)
+1x Far Mastery
+8x Govern the Unaligned
+2x Scouting Mission
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Seal of Veddartha
+
+Political Action (12)
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+2x Honor the Elders
+4x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+1x Veles' Hunt
+
+Action Modifier (15)
+1x Beast Meld
+4x Earth Control
+1x Enkil Cog
+3x Forced March
+4x Freak Drive
+2x Instantaneous Transformation
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (10)
+4x Deflection
+6x Sense the Savage Way
+
+Combat (8)
+2x Alpha Glint
+2x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,66 @@
+Campeonato Paulista de VTES
+São Paulo, Brazil
+June 20th 2010
+3R+F
+17 players
+Daniel Cardoso Abreu
+
+-- 3GW8 + 4VP in final
+
+Deck Name: Rafinha's Sith School
+
+Crypt (12 cards, min=13, max=20, avg=4.25)
+------------------------------------------
+5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
+2x Keith Moody		3   DOM			Tremere antitribu:4
+1x Esoara		5   DOM aus for pot	Tremere antitribu:4
+1x Janine		4   aus dom tha		Tremere antitribu:4
+1x Maman Boumba		4   inn mar		Martyr:4
+1x Mosfair		4   cel dom tha		Tremere antitribu:4
+1x Saiz			3   aus dom		Tremere antitribu:3
+
+Library (90 cards)
+Master (17; 7 trifle)
+1x Archon Investigation
+1x Dark Influences
+1x Failsafe
+2x Haven Uncovered
+1x Information Highway
+1x Momentum's Edge
+2x Secret Horde
+1x University Hunting Ground
+4x Vessel
+1x Vox Domini
+2x Wash
+
+Conviction (1)
+1x Strike with Conviction
+
+Action (10)
+8x Computer Hacking
+2x Harass
+
+Ally (10)
+10x Nephandus
+
+Action Modifier (7)
+4x Empowering the Puppet King
+3x Leverage
+
+Reaction (14)
+4x Deflection
+1x Delaying Tactics
+4x On the Qui Vive
+1x Poison Pill
+4x Redirection
+
+Combat (28)
+6x Glancing Blow
+6x Molotov Cocktail
+2x Pulled Fangs
+6x Target Vitals
+8x Trap
+
+Event (3)
+1x Blood Weakens
+2x Unmasking, The

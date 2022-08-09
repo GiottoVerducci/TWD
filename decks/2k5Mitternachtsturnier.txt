@@ -1,0 +1,76 @@
+Mitternachtsturnier 2005
+Essen, Germany
+October 15th 2005
+27 players
+Johannes Walch
+
+Deck Name: Amazing Belly Necklace
+
+Straightforward Ventrue Law Firm. 16 Majesty instead of Freak Drive
+and Fortitude Prevent Damage cards for better cardflow and better
+combat defense against CEL (Idea shamelessly stolen from Josh Duffin).
+Last minute changes were the addition of Carlton Van Wyk (killer!) and
+D.I (saved my ass once more). Never underestimate the value of
+Powerbase: Rome. esp. with Anson where you can add 2 counters per turn.
+Tournament last until Sunday 16th. It was over at 3am ;-)
+
+Crypt (12 cards, min=17, max=31, avg=6.25)
+------------------------------------------
+2x Emerson Bridges		   8   DOM FOR PRE pot	prince	Ventrue:1
+2x Sir Walter Nash		   7   DOM FOR PRE	prince	Ventrue:1
+2x Timothy Crowley		   7   FOR PRE ani dom	prince	Ventrue:1
+1x Anson			   8   CEL PRE aus dom	prince	Toreador:1
+1x Rake				   6   PRE aus cel pot	prince	Brujah:1
+1x Jazz Wentworth		   5   PRE dom for		Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		Ventrue:2
+1x Violette Prentiss		   4   PRE dom			Ventrue:1
+1x Gideon Fontaine		   3   PRE			Ventrue:1
+
+Library (90 cards)
+Master (15)
+2x Anarch Troublemaker
+2x Blood Doll
+1x Direct Intervention
+2x Hostile Takeover
+4x Minion Tap
+1x Powerbase: Rome
+2x Sudden Reversal
+1x Ventrue Headquarters
+
+Action (8)
+1x Dominate Kine
+2x Enchant Kindred
+1x Entrancement
+2x Govern the Unaligned
+2x Mind Numb
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Conservative Agitation
+1x Disputed Territory
+1x Domain Challenge
+6x Kine Resources Contested
+4x Parity Shift
+2x Ventrue Justicar
+
+Action Modifier (21)
+2x Awe
+4x Bewitching Oration
+2x Bonding
+3x Conditioning
+1x Day Operation
+1x Kiss of Ra, The
+2x Seduction
+6x Voter Captivation
+
+Reaction (12)
+6x Deflection
+3x Second Tradition: Domain
+3x Wake with Evening's Freshness
+
+Combat (16)
+16x Majesty

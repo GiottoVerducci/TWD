@@ -1,0 +1,66 @@
+The Garou Rim Monthly V: Inside Dirt
+Joensuu, Finland
+December 15th 2013
+2R+F
+10 players
+Toni Karjalainen
+https://www.vekn.net/event-calendar/event/7379
+
+Deck Name: Ventrue Grinder
+
+Crypt (12 cards, min=16, max=31, avg=5.92)
+------------------------------------------
+3x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro	 prince	   Ventrue:5
+2x Graham Gottesman	7   DOM FOR obf pre tha	 prince	   Ventrue:5
+1x Mustafa, The Heir	6   FOR PRE cel dom	 prince	   Ventrue:4
+1x Victor Donaldson	6   DOM for pre		 prince	   Ventrue:5
+1x Emily Carson		5   DOM for pre		 primogen  Ventrue:5
+1x Jephta Hester	5   DOM FOR aus		 	   Ventrue antitribu:4
+1x João Bilé		5   DOM FOR pre		 	   Ventrue:4
+1x Keith Moody		3   DOM			 	   Tremere antitribu:4
+1x Ulrike Rothbart	3   dom for		 	   Ventrue antitribu:4
+
+Library (80 cards)
+Master (15)
+2x Anarch Troublemaker
+1x Channel 10
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x KRCG News Radio
+2x Misdirection
+2x Pentex(TM) Subversion
+1x Uptown Hunting Ground
+
+Action (13)
+1x Aranthebes, The Immortal
+12x Govern the Unaligned
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (3)
+3x Parity Shift
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (10)
+2x Bonding
+5x Conditioning
+2x Daring the Dawn
+1x Foreshadowing Destruction
+
+Reaction (18)
+7x Deflection
+2x On the Qui Vive
+1x Redirection
+8x Second Tradition: Domain
+
+Combat (19)
+5x Hidden Strength
+3x Indomitability
+3x Target Vitals
+3x Unflinching Persistence
+5x Weighted Walking Stick

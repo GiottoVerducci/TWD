@@ -1,0 +1,63 @@
+Polish League
+Lublin, Poland
+March 13th 2011
+3R+F
+27 players
+Marcin Watras
+
+Deck Name: Tup Dogs bum bum /w Ashur Tablets v2
+Created by: Marcin Watras - warGrim (based on Extrala's build)
+
+3gws 11VP and 3VP in final
+
+Description: Toprorize a wampire, steal/create gargoyle/burn.
+
+Crypt (22 cards, min=4, max=18, avg=1.82)
+-----------------------------------------
+16x Tupdog		1    POT VIS		Gargoyle:3
+3x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+1x  Ember Wright	3    aus dom		Tremere antitribu:3
+1x  Keith Moody		3    DOM		Tremere antitribu:4
+1x  Saiz		3    aus dom		Tremere antitribu:3
+
+Library (90 cards)
+Master (16; 3 trifle)
+6x Ashur Tablets
+3x Dreams of the Sphinx
+1x Fame
+1x Powerbase: Montreal
+1x Secure Haven
+2x Vessel
+1x Wider View
+1x Yawp Court
+
+Action (13)
+7x Dive Bomb
+3x Graverobbing
+3x Raw Recruit
+
+Ally (3)
+3x Nephandus
+
+Equipment (1)
+1x Hand of Conrad
+
+Action Modifier (11)
+7x As the Crow
+2x Conditioning
+2x Skin of the Chameleon
+
+Reaction (3)
+3x Deflection
+
+Combat (42)
+7x Brick by Brick
+8x Immortal Grapple
+4x Lead Fist
+13x Raking Talons
+2x Rockheart
+1x Roll
+7x Stonestrength
+
+Event (1)
+1x Uncoiling, The

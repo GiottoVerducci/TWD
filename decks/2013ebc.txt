@@ -1,0 +1,55 @@
+Earthshock
+Berkeley, California
+April 21st 2013
+2R+F
+15 players
+David Anderson
+
+Deck Name: Violent Daughters
+
+Description: Shattering Crescendo, or if you block, combat is bad.
+As played: 2013/04/21 in Berkeley, CA
+
+Crypt (12 cards, min=13, max=32, avg=5.33)
+------------------------------------------
+4x Scout Youngwood 8   MEL OBF PRE for qui  2 votes	Daughter of Cacophony:6
+3x Hillanvale	   5   FOR MEL obf	    		Daughter of Cacophony:6
+3x Janet Langer	   3   MEL pre		    		Daughter of Cacophony:5
+2x Harlan Graves   4   FOR mel pre	    		Daughter of Cacophony:6
+
+Library (76 cards)
+Master (19; 6 trifle)
+1x Archon Investigation
+1x Command Performance
+2x Fame
+1x Fortitude
+1x Obfuscate
+3x Perfectionist
+1x Presence
+1x Society of Leopold
+1x Tension in the Ranks
+1x Vampiric Disease
+6x Vessel
+
+Action (20)
+6x Concert Tour
+4x Legal Manipulations
+10x Shattering Crescendo
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (21)
+4x Cloak the Gathering
+6x Freak Drive
+1x Kiss of Ra, The
+4x Missing Voice, The
+2x Veil the Legions
+4x Virtuosa
+
+Combat (15)
+3x Catatonic Fear
+2x Death of the Drum
+5x Target Vitals
+1x Toreador's Bane
+4x Unflinching Persistence

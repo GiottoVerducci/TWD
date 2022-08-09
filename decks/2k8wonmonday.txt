@@ -1,0 +1,59 @@
+Week of Nightmares Monday MQ
+Montreal, Quebec
+October 20th 2008
+2R+F
+15 players
+Orian Gissler
+
+Deck Name: Castamir of Tsumbar
+Created by: Orian Gissler, basis from Sir Anthony Coleman
+
+2nd in rounds 2GW4.5 - gw3 in final
+
+Crypt (12 cards, min=13, max=24, avg=4.83)
+------------------------------------------
+5x Tsunda			6   CHI abo ani dem	magaji	Ravnos:4
+2x Paul Forrest, False Prophet	5   chi for pre			Ravnos:4
+1x Callirus			5   CHI FOR ani			Ravnos:4
+1x Devyn			4   ani chi pre			Ravnos:4
+1x Gharston Roland		4   CHI ani pot			Ravnos:4
+1x Marion French		3   ani chi			Ravnos:4
+1x Zip				2   ani				Ravnos:3
+
+Library (68 cards)
+Master (12; 3 trifle)
+1x Coven, The
+1x Fortune Teller Shop
+2x Jake Washington
+1x Park Hunting Ground
+1x Pentex(TM) Subversion
+3x Ravnos Carnival
+2x Vessel
+1x Week of Nightmares
+
+Action (11)
+2x Mozambique Allure
+2x Sensory Deprivation
+7x Tumnimos
+
+Political Action (16)
+8x Consanguineous Boon
+2x Domain Challenge
+6x Kine Resources Contested
+
+Action Modifier (5)
+4x Fata Morgana
+1x Strange Day
+
+Action Modifier/Combat (10)
+4x Mirror Image
+6x Occlusion
+
+Action Modifier/Reaction (9)
+9x Eldest Are Kholo, The
+
+Reaction (4)
+4x Delaying Tactics
+
+Event (1)
+1x Uncoiling, The

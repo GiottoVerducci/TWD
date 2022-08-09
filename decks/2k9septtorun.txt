@@ -1,0 +1,64 @@
+Tournament
+Torun, Poland
+September 26th 2009
+3R+F
+15 players
+Maciej Frankowiak
+
+Deck Name: Warghoulator
+
+Player; Maciej Frankowiak
+
+Crypt (12 cards, min=9, max=23, avg=4.25)
+-----------------------------------------
+2x Corine Marcón	6   AUS VIC ani		Tzimisce:2
+2x Lolita Houston	4   VIC aus		Tzimisce:2
+2x Horatio		2   vic			Tzimisce:2
+1x Caliban		6   ANI AUS VIC		Tzimisce:2
+1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
+1x Devin Bisley		5   ANI AUS vic		Tzimisce:2
+1x Elizabeth Westcott	5   AUS ani cel vic	Tzimisce:3
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Olga Triminov	1   vic			Pander:3
+
+Library (61 cards)
+Master (16; 3 trifle)
+1x Carver's Meat Packing and Storage
+1x Creepshow Casino
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Fortschritt Library
+4x Jake Washington
+1x Mob Connections
+1x Pentex(TM) Subversion
+3x Vessel
+
+Ally (11)
+1x Carlton Van Wyk
+2x Vagabond Mystic
+8x War Ghoul
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (5)
+5x Changeling
+
+Action Modifier/Combat (6)
+6x Plasmic Form
+
+Reaction (9)
+4x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (8)
+2x Boxed In
+3x Fake Out
+3x Trap
+
+Event (2)
+1x Dragonbound
+1x Unmasking, The

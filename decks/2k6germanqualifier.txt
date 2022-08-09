@@ -1,0 +1,66 @@
+German Qualifier
+Bonn, Germany
+July 1st 2006
+28 players
+Erol Hammer
+
+Deck Name: Erols Triple A
+
+Description: Survive and make a deal with someone who can oust.
+
+Crypt (12 cards, min=19, max=41, avg=8)
+---------------------------------------
+4x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+3x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+1x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Dorian Strack   4   AUS cel					Toreador:1
+1x Mariana Gilbert 4   PRE cel					Toreador:1
+1x Isabel de Leon  3   AUS					Toreador:2
+
+Library (90 cards)
+Master (39)
+1x Art Museum
+3x Direct Intervention
+2x Dominate
+2x Dreams of the Sphinx
+1x Elysium: The Arboretum
+3x Emergency Preparations
+1x Giant's Blood
+3x Golconda: Inner Peace
+1x Information Highway
+2x Life Boon
+1x Millicent Smith, Puritan Vampire Hunter
+7x Minion Tap
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Temptation of Greater Power
+6x Toreador Grand Ball
+2x Zillah's Valley
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+1x Disputed Territory
+1x Domain Challenge
+4x Parity Shift
+1x Political Stranglehold
+1x Protect Thine Own
+1x Reins of Power
+
+Action Modifier (6)
+2x Awe
+4x Voter Captivation
+
+Reaction (29)
+2x Deflection
+15x Obedience
+1x Redirection
+9x Second Tradition: Domain
+2x Telepathic Misdirection
+
+Event (2)
+2x Anthelios, The Red Star

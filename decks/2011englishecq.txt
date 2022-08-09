@@ -1,0 +1,63 @@
+English ECQ
+Burton-on-Trent, England
+May 14th 2011
+3R+F
+25 players
+Norbert Flasko
+
+Deck Name: Presence Bleed
+
+Description: Martin Weinmayer, tweaked by Martin "Mephistopheles" Major (NF edit)
+
+Crypt (12 cards, min=12, max=24, avg=4.5)
+-----------------------------------------
+3x Jost Werner			6   AUS PRE ani		Toreador antitribu:2
+1x Sheila Mezarin		6   AUS PRE cel for	Toreador antitribu:2
+1x Jazz Wentworth		5   PRE dom for		Ventrue:1
+1x Ramiel DuPre			5   PRE aus cel dom	Toreador:1
+1x Mariana Gilbert		4   PRE cel		Toreador:1
+1x Remilliard, Devout Crusader	4   AUS pre		Toreador antitribu:2
+1x Gideon Fontaine		3   PRE			Ventrue:1
+1x Isabel de Leon		3   AUS			Toreador:2
+1x Lolita			3   for pre		Toreador antitribu:2
+1x Roland Loussarian		3   for pre		Ventrue:1
+
+Library (80 cards)
+Master (13; 2 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Misdirection
+2x Pentex(TM) Subversion
+1x Wider View
+
+Action (19)
+2x Art Scam
+7x Enchant Kindred
+3x Entrancement
+4x Intimidation
+3x Mind Numb
+
+Ally (1)
+1x Carlton Van Wyk
+
+Action Modifier (13)
+8x Aire of Elation
+3x Change of Target
+2x Daring the Dawn
+
+Action Modifier/Combat (2)
+2x Force of Personality
+
+Reaction (24)
+2x Delaying Tactics
+2x Eyes of Argus
+4x My Enemy's Enemy
+4x On the Qui Vive
+8x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (8)
+8x Majesty

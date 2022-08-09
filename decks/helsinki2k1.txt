@@ -1,0 +1,101 @@
+Crusade: Helsinki
+Helsinki, Finland
+December 16th 2001
+Heikki Poso
+
+Crypt worked well, I don't think I'd change anything. Corine was one of the mainstays, the +1 strength is really useful.
+
+Masters were ok as well. Heidelburg was not as useful as I'd thought
+it would be, but I rarely got it out before endgame. Pb: Montreal gave
+me 15+ pool in final (played it on first turn, it was successfully
+fetched only once by other players and I got it back immediately).
+
+Meat Hooks were not as useful as I'd imagined; quite a bit of
+IGs/maneuvers/S:CEs/dodges in the games. Perhaps replace one
+with another Femur (never saw the one in time to equip with it)
+and the other with Aid from Bats or something... Sixth intercept
+retainer would be nice (in place of Crows), but I don't have it.
+
+Quite nice, except that I once fed my only source of permanent
+intercept to one and missed it quite a bit. Also opposing decks
+unfairly did not stay still to be hit; some more Traps would
+have been useful.
+
+Discarded Malleable Visage all the times I drew it, so it might
+be a candidate for replacement. Changelings were useful every
+time I drew them.
+
+Reactions worked well. No serious hand jams and even cross-table
+vote decks did listen to my comments on acceptable voting
+parameters.:-) Comment from prey: "Just _how_ much of that deck
+is reaction cards?"
+
+Middling to good. Inner Essences and BoA could perhaps be replaced
+with something more useful; some presses would be nice. Got a less-than-
+nice lesson on that by 1st round prey, who played a Tremere second
+round combat deck...
+
+Crypt (12 cards, min=14, max=30, avg=5.58)
+------------------------------------------
+2x Meshenka		   8   ANI AUS VIC	priscus	 Tzimisce:2
+2x Caliban		   6   ANI AUS VIC		 Tzimisce:2
+2x Corine Marcón	   6   AUS VIC ani		 Tzimisce:2
+2x Devin Bisley		   5   ANI AUS vic		 Tzimisce:2
+1x Little Tailor of Prague 8   ANI AUS VIC dem		 Tzimisce:2
+1x Lolita Houston	   4   VIC aus			 Tzimisce:2
+1x Wendy Wade		   3   ani aus			 Tzimisce:2
+1x Horatio		   2   vic			 Tzimisce:2
+
+Library (90 cards)
+Master (15)
+6x Blood Doll
+1x Dreams of the Sphinx
+1x Heidelberg Castle, Germany
+1x Hungry Coyote, The
+2x Jake Washington
+1x Library Hunting Ground
+1x Powerbase: Montreal
+1x Rack, The
+1x Vicissitude
+
+Action (6)
+1x Army of Rats
+3x Pulse of the Canaille
+2x Revelations
+
+Ally (2)
+2x War Ghoul
+
+Equipment (5)
+1x Femur of Toomler
+1x Living Manse
+2x Meat Hook
+1x Sniper Rifle
+
+Retainer (7)
+1x Mr. Winthrop
+1x Murder of Crows
+2x Raven Spy
+2x Revenant
+1x Tasha Morgan
+
+Action Modifier (6)
+5x Changeling
+1x Malleable Visage
+
+Reaction (27)
+4x Cats' Guidance
+4x Eagle's Sight
+2x Enhanced Senses
+12x Forced Awakening
+2x Rat's Warning
+3x Telepathic Misdirection
+
+Combat (22)
+1x Blood of Acid
+1x Breath of the Dragon
+7x Carrion Crows
+5x Chiropteran Marauder
+4x Horrid Form
+2x Inner Essence
+2x Trap

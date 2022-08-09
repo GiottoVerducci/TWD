@@ -1,0 +1,70 @@
+Despiral
+Columbus, Ohio
+August 23rd 2009
+2R+F
+16 players
+Mark Loughman
+
+-- 3VP in final
+
+Crypt (12 cards, min=14, max=44, avg=6.75)
+------------------------------------------
+4x Saulot, The Wanderer	11  AUS FOR OBE THA VAL dai	Salubri:4
+2x Aredhel		5   FOR VAL aus			Salubri antitribu:4
+2x Nkechi		4   aus for val			Salubri antitribu:4
+2x Rashiel		3   for val			Salubri antitribu:4
+1x Dela Eden		8   AUS FOR VAL cel dom		Salubri antitribu:3
+1x Langa		5   VAL for			Salubri antitribu:4
+
+Library (90 cards)
+Master (8)
+1x Archon Investigation
+2x Fame
+1x Fragment of the Book of Nod
+2x Heidelberg Castle, Germany
+2x Sight Beyond Sight
+
+Action (21)
+2x Blessing of the Name
+1x Bum's Rush
+2x Harass
+2x Magic of the Smith
+2x Nose of the Hound
+3x Renewed Vigor
+3x Sense Death
+1x Sense Vitality
+5x Spirit Marionette
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (6)
+1x Bowl of Convergence
+2x Camera Phone
+1x Ivory Bow
+1x Palatial Estate
+1x Sengir Dagger
+
+Action Modifier (9)
+2x Crocodile's Tongue
+6x Freak Drive
+1x Repulsion
+
+Action Modifier/Combat (4)
+4x Burning Touch
+
+Reaction (14)
+7x Forced Awakening
+4x My Enemy's Enemy
+3x Telepathic Misdirection
+
+Combat (26)
+1x Eye of Unforgiving Heaven
+3x Hidden Strength
+3x Rolling with the Punches
+4x Sword of the Righteous
+4x Taste of Vitae
+2x Telepathic Tracking
+3x Trap
+6x Weighted Walking Stick

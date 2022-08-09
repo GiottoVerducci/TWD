@@ -1,0 +1,62 @@
+Werewolf Uprising
+Santiago, Chile
+November 17th 2018
+3R+F
+10 players
+Miguel Angel Vasquez
+https://www.vekn.net/event-calendar/event/9036
+
+-- 1GW3.5 + 4VP in final
+
+Deck Name: El maestro está aquí
+
+Description: Lasombra combat
+
+Crypt (12 cards, min=32, max=44, avg=9.67)
+------------------------------------------
+4x Montano				  11  ANI DOM FOR OBT POT	2 votes	  Lasombra:3
+4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal  Lasombra:2
+2x Gratiano				  8   DOM OBT obf pot		priscus	  Lasombra:2
+2x Lucita (ADV)				  8   DOM FOR OBT cel pot		  Lasombra:2
+
+Library (90 cards)
+Master (18; 3 trifle)
+4x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+2x Path of Night, The
+2x Perfectionist
+1x Political Hunting Ground
+1x Powerbase: Montreal
+1x Rack, The
+3x Vessel
+2x Visit from the Capuchin
+
+Action (19)
+2x Black Metamorphosis
+8x Govern the Unaligned
+6x Political Struggle
+2x Preternatural Strength
+1x Sanguine Instruction
+
+Equipment (1)
+1x Seal of Veddartha
+
+Political Action (2)
+2x Templar
+
+Action Modifier (10)
+2x Enkil Cog
+8x Freak Drive
+
+Reaction (10)
+10x Deflection
+
+Combat (30)
+4x Amaranth
+2x Arms of the Abyss
+2x Disarm
+6x Entombment
+4x Shadow Step
+8x Skin of Steel
+4x Thoughts Betrayed

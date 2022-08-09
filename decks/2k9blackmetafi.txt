@@ -1,0 +1,57 @@
+Black Metamorphosis
+Florence, Italy
+June 21st 2009
+30 players
+Danilo Torrisi
+
+Deck Name: tupdogs+nephandi
+
+Description: tupdogs+nephandi
+
+Crypt (24 cards, min=4, max=20, avg=1.83)
+-----------------------------------------
+18x Tupdog		1    POT VIS		Gargoyle:3
+4x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+2x  Keith Moody		3    DOM		Tremere antitribu:4
+
+Library (90 cards)
+Master (16; 2 trifle)
+2x Blood Doll
+1x Dark Influences
+1x Direct Intervention
+1x Fame
+1x Frontal Assault
+2x Golconda: Inner Peace
+2x Information Highway
+1x Pentex(TM) Subversion
+2x Powerbase: Montreal
+1x Secure Haven
+2x Vessel
+
+Action (6)
+6x Graverobbing
+
+Ally (8)
+8x Nephandus
+
+Equipment (5)
+5x Heart of Nizchetus
+
+Action Modifier (2)
+2x Conditioning
+
+Reaction (9)
+6x Deflection
+3x Delaying Tactics
+
+Combat (40)
+5x Crawling Chamber
+12x Immortal Grapple
+5x Pounce
+12x Raking Talons
+6x Roll
+
+Event (4)
+1x Dragonbound
+1x Fourth Cycle, The
+2x Unmasking, The

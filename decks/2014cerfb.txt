@@ -1,0 +1,62 @@
+Campeonato Extra - Recrutamento
+Fortaleza, Brazil
+June 8th 2014
+2R+F
+17 players
+Soares Júnior
+https://www.vekn.net/event-calendar/event/7703
+
+-- 3VP in final
+
+Deck Name: The Taste of Blood
+
+Crypt (12 cards, min=26, max=38, avg=7.83)
+------------------------------------------
+2x Bronwen			   10  CEL POT PRE dom obt  priscus	Brujah antitribu:2
+2x Salinger			   9   CEL POT PRE tha	    archbishop	Brujah antitribu:2
+2x Jacko			   8   CEL POT PRE obt	    		Brujah antitribu:2
+2x Amelia			   7   CEL POT PRE	    bishop	Brujah antitribu:2
+2x Richter, The Templar of Du Mont 7   CEL POT for pre	    		Brujah antitribu:2
+2x Jeremiah Noble		   6   CEL POT obt pre	    		Brujah antitribu:3
+
+Library (90 cards)
+Master (14; 2 trifle)
+1x Amusement Park Hunting Ground
+1x Blood Doll
+2x Fame
+1x Gang Territory
+5x Haven Uncovered
+1x Tension in the Ranks
+2x Vessel
+1x Yawp Court
+
+Action (7)
+3x Ambush
+1x Games of Instinct
+1x Preternatural Strength
+2x Rampage
+
+Equipment (4)
+2x Desert Eagle
+2x Leather Jacket
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (6)
+4x Forced Awakening
+2x Vendetta
+
+Combat (58)
+8x Blur
+2x Decapitate
+2x Disarm
+3x Earthshock
+2x Fists of Death
+2x Flash
+7x Immortal Grapple
+4x Preternatural Evasion
+8x Pursuit
+6x Sideslip
+6x Taste of Vitae
+8x Torn Signpost

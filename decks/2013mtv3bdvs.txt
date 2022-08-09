@@ -1,0 +1,55 @@
+La Marató TV3
+Badia del Vallès, Spain
+December 15th 2013
+3R+F
+16 players
+Carles Ruiz
+https://www.vekn.net/event-calendar/event/7420
+
+-- 4VP in final
+
+Deck Name: Nocturn-bleed
+
+Crypt (12 cards, min=17, max=29, avg=5.75)
+------------------------------------------
+2x Onaedo		 6   DOM OBT aus pot	  	  Lasombra:4
+1x Conrad Adoula	 8   DOM OBT POT ani cel  	  Lasombra:4
+1x Henri Lavenant	 7   DOM OBT pot qui	  	  Lasombra:3
+1x Lord Vauxhall	 7   DOM OBT POT THA	  	  Lasombra:4
+1x Tobias Smith		 7   DOM OBT PRE pot	  	  Lasombra:3
+1x Virginie, Prodigy	 6   DOM POT obt	  bishop  Lasombra:4
+1x Andrew Emory		 5   OBT aus dom pot	  bishop  Lasombra:4
+1x Dame Hollerton	 5   DOM OBT myt	  	  Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot	  	  Lasombra:4
+1x Leila Monroe		 4   dom obt pre	  	  Lasombra:4
+1x Lucy Markowitz	 3   dom obt		  	  Lasombra:4
+
+Library (83 cards)
+Master (14; 4 trifle)
+3x Dreams of the Sphinx
+2x Elysian Fields
+2x Life in the City
+2x Misdirection
+3x Path of Night, The
+2x Wash
+
+Action (17)
+15x Govern the Unaligned
+2x Slaughtering the Herd
+
+Ally (11)
+11x Nocturn
+
+Action Modifier (32)
+3x Bonding
+2x Command of the Beast
+7x Conditioning
+2x Foreshadowing Destruction
+4x Seduction
+8x Shadow Play
+4x Shroud of Night
+2x Stone Travel
+
+Reaction (9)
+7x Deflection
+2x On the Qui Vive

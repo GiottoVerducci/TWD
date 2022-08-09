@@ -1,0 +1,75 @@
+Fee Stake: Warsaw #2
+Warsaw, Poland
+September 4th 2021
+3R+F
+19 players
+Marcin Szybkowski
+https://www.vekn.net/event-calendar/event/9867
+
+-- 3 VP in final
+
+Deck Name: Guillaume's property management
+
+Description: Classic Guillaume power bleed. This is a variant of a deck designed by Erik Torstensson and tweaked by Tomasz Pietkiewicz.
+Suggestions after the tournament: -1 scourge, -1 acquired assets, -2 dominate kine, +1 uncoiling, +1 deflection, +2 slaughtering the herd.
+
+Crypt (12 cards, min=19, max=36, avg=7.08)
+------------------------------------------
+5x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
+2x Gualtiero Ghiberti		7   DOM NEC cel pot tha	 	  Giovanni:4
+2x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
+1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
+1x Primo Giovanni		4   dom nec pot		 	  Giovanni:4
+1x Lia Milliner			3   dom nec		 	  Giovanni:3
+
+Library (90 cards)
+Master (36; 3 trifle)
+1x Acquired Ventrue Assets
+1x Anarch Troublemaker
+1x Barrens, The
+1x Blind Spot
+1x Centralized Background Check
+1x Coven, The
+1x Direct Intervention
+1x Dis Pater
+1x Dummy Corporation
+1x Giant's Blood
+1x Information Highway
+1x Insurance Scam
+1x Jake Washington
+1x Metro Underground
+1x Misdirection
+1x Monastery of Shadows
+1x Morgue Hunting Ground
+5x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Powerbase: Los Angeles
+3x Secure Haven
+6x Storage Annex
+2x Vessel
+
+Action (16)
+2x Dominate Kine
+1x Far Mastery
+10x Govern the Unaligned
+3x Sudario Refraction
+
+Action Modifier (18)
+7x Call of the Hungry Dead
+4x Conditioning
+1x Foreshadowing Destruction
+6x Seduction
+
+Action Modifier/Reaction (5)
+5x Spectral Divination
+
+Reaction (8)
+7x Deflection
+1x Obedience
+
+Combat (6)
+6x Spiritual Intervention
+
+Event (1)
+1x Scourge of the Enochians

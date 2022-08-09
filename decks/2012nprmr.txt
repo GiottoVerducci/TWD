@@ -1,0 +1,56 @@
+New prince rule
+Moscow, Russia
+July 21st 2012
+3R+F
+10 players
+Konstantin Prischepa
+
+Deck Name: Malkavian bleed and fire
+
+Crypt (12 cards, min=12, max=36, avg=5.67)
+------------------------------------------
+2x Gravitnir		10  AUS CEL DEM OBF VIC	 priscus  Malkavian antitribu:4
+2x Apache Jones		5   DEM aus for obf	 	  Malkavian antitribu:4
+2x Jackie		3   DEM			 	  Malkavian antitribu:4
+2x Midget		3   DEM obf pre		 	  Malkavian antitribu:3
+1x Persephone Tar-Anis	8   AUS DEM OBF cel pot	 	  Malkavian antitribu:4
+1x Rodolfo		8   AUS DEM OBF pro	 bishop	  Malkavian antitribu:3
+1x Luc			5   OBF dem vic		 	  Malkavian antitribu:4
+1x Uncle George		5   DEM aus dom obf	 	  Malkavian antitribu:3
+
+Library (90 cards)
+Master (11)
+3x Blood Doll
+1x Dreams of the Sphinx
+1x Information Highway
+1x Institution Hunting Ground
+1x Obfuscate
+4x Sudden Reversal
+
+Action (26)
+6x Call, The
+16x Kindred Spirits
+4x Lunatic Eruption
+
+Equipment (3)
+3x Flamethrower
+
+Action Modifier (29)
+4x Cloak the Gathering
+6x Confusion
+10x Eyes of Chaos
+3x Faceless Night
+3x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (6)
+3x Deny
+3x Swallowed by the Night
+
+Reaction (8)
+4x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (7)
+3x Disguised Weapon
+4x No Trace

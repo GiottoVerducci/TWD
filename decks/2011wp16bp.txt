@@ -1,0 +1,77 @@
+War Party #16
+Bydgoszcz, Poland
+April 21st 2011
+2R+F
+14 players
+Marcin Watras
+
+-- 3VP in final
+
+Deck Name: Tzimisce bleed with Asanbonsam Ghouls
+
+Description: Great deck to play - other players are always
+guessing if I have aggro cards in my hand. Smiling Jack is
+very effective especially when played very early in the game.
+Big disagvantege of this deck is it's speed - it's simply too
+slow. Advanteges - played 6 tournament games - never won less
+then 0.5VP . I would exchange some cards for more T.Vitals or
+Rotschrecks.
+
+Crypt (12 cards, min=7, max=24, avg=4.08)
+-----------------------------------------
+2x Caliban		6   ANI AUS VIC		Tzimisce:2
+2x Corine Marcón	6   AUS VIC ani		Tzimisce:2
+2x Lolita Houston	4   VIC aus		Tzimisce:2
+2x Horatio		2   vic			Tzimisce:2
+1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Christine Boscacci	2   dom vic		Pander:2
+1x Olga Triminov	1   vic			Pander:3
+
+Library (90 cards)
+Master (18; 5 trifle)
+2x Direct Intervention
+1x Hungry Coyote, The
+1x Jake Washington
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+5x Vessel
+1x WMRH Talk Radio
+
+Action (9)
+1x Aranthebes, The Immortal
+8x Fiendish Tongue
+
+Ally (9)
+8x Asanbonsam Ghoul
+1x Carlton Van Wyk
+
+Equipment (4)
+1x Bowl of Convergence
+1x Ivory Bow
+2x Living Manse
+
+Action Modifier (9)
+9x Changeling
+
+Action Modifier/Combat (9)
+9x Plasmic Form
+
+Reaction (11)
+2x Delaying Tactics
+4x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (18)
+4x Breath of the Dragon
+8x Chiropteran Marauder
+2x Meld with the Land
+4x Target Vitals
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

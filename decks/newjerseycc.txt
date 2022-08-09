@@ -1,0 +1,67 @@
+New Jersey NAC Qualifier
+East Rutherford, New Jersey
+May 26th 2001
+Ben Peal
+
+Deck Name: Short Leash Bleed
+
+Description: Obf/Dom stealth/bleed. Typically bleeding for no more
+than 3. If bleeds are bounced, use "media outlets" to give opposing
+minions intercept to help block, then Change of Target. Deflection,
+Obedience, and some intercept for defense, plus a few fun gimmicks.
+
+Crypt (12 cards, min=13, max=28, avg=5.17)
+------------------------------------------
+1x Gratiano			    8	DOM OBT obf pot	 priscus  Lasombra:2
+1x Gilbert Duane		    7	AUS DOM OBF	 prince	  Malkavian:1
+1x Mariel, Lady Thunder		    7	DOM OBF aus tha	 	  Malkavian:1
+1x Ozmo				    6	AUS dom obf	 	  Malkavian:1
+1x Reverend Blackwood		    6	DOM THA obf	 bishop	  Tremere antitribu:2
+1x Didi Meyers			    5	DOM aus cel obf	 	  Malkavian:1
+1x Guido Lucciano		    5	OBT dom obf	 	  Lasombra:2
+1x Zebulon			    5	OBF aus dom pro	 	  Malkavian:1
+1x Laurent de Valois		    4	ani dom obf	 	  Nosferatu:2
+1x Roland Bishop		    4	aus dom obf	 	  Malkavian:1
+1x Regilio, The Seeker of Akhenaten 3	aus obf		 	  Nosferatu:2
+1x Normal			    2	obf		 	  Malkavian:1
+
+Library (90 cards)
+Master (17)
+1x Asylum Hunting Ground
+2x Barrens, The
+3x Blood Doll
+2x KRCG News Radio
+2x London Evening Star, Tabloid Newspaper
+1x Malkavian Dementia
+2x Rumor Mill, Tabloid Newspaper, The
+4x Sudden Reversal
+
+Action (12)
+10x Govern the Unaligned
+2x Revelations
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Political Action (2)
+2x Dramatic Upheaval
+
+Action Modifier (33)
+5x Bonding
+8x Change of Target
+3x Cloak the Gathering
+4x Faceless Night
+4x Lost in Crowds
+4x Spying Mission
+5x Threats
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (21)
+8x Deflection
+2x Eagle's Sight
+2x Enhanced Senses
+2x Malkavian Rider Clause
+5x Obedience
+2x Spirit's Touch

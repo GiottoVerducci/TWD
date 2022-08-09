@@ -1,0 +1,69 @@
+EC 2015 - Day 1
+Warsaw, Poland
+August 29th 2015
+3R+F
+95 players
+Selim Ammouche
+https://www.vekn.net/event-calendar/event/8121
+
+Deck Name: The Legendary Stanislava's Gang(rels) Bleed Vote PRO DOM
+
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Stanislava	  11  ANI CEL DOM FOR PRO	   inner circle	 Gangrel:2
+3x Xaviar (ADV)	  10  ABO ANI FOR PRO aus cel pot  justicar	 Gangrel:3
+2x Ingrid Rossler 9   ANI FOR PRO dom		   prince	 Gangrel:2
+1x Genevieve	  10  ANI FOR PRO aus dom	   priscus	 Gangrel antitribu:2
+1x Hartmut Stover 10  CEL OBF PRO dom for	   archbishop	 Gangrel antitribu:3
+1x Mark Decker	  8   CEL PRO ani for obf pot	   prince	 Gangrel:3
+
+Library (75 cards)
+Master (20; 8 trifle)
+1x Backways
+1x Coven, The
+1x Dreams of the Sphinx
+1x Ennoia's Theater
+1x Giant's Blood
+1x Information Highway
+1x Monastery of Shadows
+1x Temptation of Greater Power
+7x Villein
+5x Zillah's Valley
+
+Action (8)
+1x Abactor
+7x Govern the Unaligned
+
+Equipment (1)
+1x Seal of Veddartha
+
+Political Action (11)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+5x Parity Shift
+1x Reins of Power
+
+Action Modifier (15)
+1x Beast Meld
+1x Conditioning
+5x Earth Control
+2x Enkil Cog
+1x Forced March
+5x Instantaneous Transformation
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (7)
+4x Deflection
+2x On the Qui Vive
+1x Sense the Savage Way
+
+Combat (9)
+4x Earth Meld
+5x Form of Mist

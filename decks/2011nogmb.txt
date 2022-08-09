@@ -1,0 +1,84 @@
+Night of Gypsys
+Minsk, Belorussia
+October 16th 2011
+3R+F
+12 players
+Ivan Chebunin
+
+Deck Name: Vigilant Luc
+
+Slow Darby-dance deck with some stealth.
+Luc is key minion. His stealth and card cycling ability are crucial.
+After tournament I would remove Parthenon and 1 Determine and 1 Rejuvenate.
+Psychic veil was never played, but seems to be useful.
+Would add "Not to be" or 1 more DI.
+
+Crypt (13 cards, min=14, max=20, avg=4.54)
+------------------------------------------
+4x Luc				5   OBF dem vic	 Malkavian antitribu:4
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+1x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (90 cards)
+Master (18; 3 trifle)
+4x Angel of Berlin
+1x Archon Investigation
+1x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x House of Sorrow
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Smiling Jack, The Anarch
+1x Specialization
+1x Unity
+1x Wash
+2x Wider View
+
+Conviction (18)
+6x React with Conviction
+6x Second Sight
+6x Strike with Conviction
+
+Action (2)
+1x Psychic Veil
+1x Sibyl's Tongue
+
+Equipment (11)
+1x Crusader Sword, The
+1x Deer Rifle
+4x Flash Grenade
+1x Heart of Nizchetus
+2x Laptop Computer
+2x Leather Jacket
+
+Power (13)
+1x Champion
+2x Discern
+1x Hide
+1x Inspire
+3x Rejuvenate
+5x Vigilance
+
+Action Modifier (15)
+7x Cloak the Gathering
+1x Elder Impersonation
+1x Forgotten Labyrinth
+2x Lost in Crowds
+4x Veil the Legions
+
+Reaction (5)
+5x Determine
+
+Combat (4)
+4x Concealed Weapon
+
+Event (4)
+1x Blood Weakens
+1x NRA PAC
+2x Unmasking, The

@@ -1,0 +1,63 @@
+Battle Fury
+Campina Grande, Brazil
+November 23rd 2018
+3R+F
+10 players
+Paulo Roberto Barbosa da Silva
+https://www.vekn.net/event-calendar/event/9075
+
+-- 2GW9 + 4VP in final
+
+Deck Name: Gangrel
+
+Crypt (12 cards, min=29, max=40, avg=8.58)
+------------------------------------------
+3x Karsh		 10  ANI CEL FOR POT PRO		 Gangrel:3
+3x Brunhilde		 8   ANI FOR PRO pre			 Gangrel:3
+2x Torvus Bloodbeard	 9   ANI FOR OBF PRO pot		 Gangrel:3
+1x Beckett (ADV)	 8   ANI FOR PRO cel tha		 Gangrel:3
+1x Beckett		 7   ANI FOR PRO cel			 Gangrel:3
+1x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha	2 votes	 Gangrel:3
+1x Sophia Watson	 6   ANI FOR obf pro			 Gangrel:3
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Archon Investigation
+1x Ecoterrorists
+1x Fame
+1x Gangrel Revel
+1x Giant's Blood
+2x Haven Uncovered
+1x Mob Connections
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Tension in the Ranks
+4x Vessel
+2x Villein
+1x Zoo Hunting Ground
+
+Action (9)
+1x Ambush
+3x Bum's Rush
+5x Deep Song
+
+Retainer (3)
+3x Dog Pack
+
+Action Modifier (5)
+5x Freak Drive
+
+Reaction (9)
+4x Cats' Guidance
+5x Sense the Savage Way
+
+Combat (46)
+3x Bone Spur
+7x Carrion Crows
+6x Drawing Out the Beast
+4x Indomitability
+4x Rolling with the Punches
+4x Terror Frenzy
+3x Trap
+10x Undead Persistence
+5x Wolf Claws

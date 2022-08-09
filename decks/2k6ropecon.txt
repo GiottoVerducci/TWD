@@ -1,0 +1,73 @@
+Ropecon
+Ropecon, Espoo (Helsinki), Finland
+August 11th 2006
+3R+F
+95 players
+Teemu Sainomaa
+
+"Masters of the Grand Ball"
+
+Crypt (12 cards, min=15, max=43, avg=7.75)
+------------------------------------------
+3x Alexandra		11  ANI AUS CEL PRE dom		inner circle	Toreador:2
+3x Anson		8   CEL PRE aus dom		prince		Toreador:1
+1x Anneke		10  AUS CEL PRE dom		justicar	Toreador:1
+1x François Villon	10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Klaus van der Veken	9   CEL PRE aus obf tha		prince		Toreador:2
+1x Isabel de Leon	3   AUS						Toreador:2
+1x Delilah Easton	2   pre						Toreador:1
+1x Dieter Kleist	2   aus						Toreador:1
+
+Library (89 cards)
+Master (34)
+1x Art Museum
+2x Direct Intervention
+2x Dreams of the Sphinx
+2x Elysium: The Palace of Versailles
+1x From a Sinking Ship
+1x Giant's Blood
+1x Golconda: Inner Peace -- Inner Peace x 2
+3x Information Highway
+2x Life Boon
+6x Minion Tap
+3x Parthenon, The
+2x Secure Haven
+2x Sudden Reversal
+6x Toreador Grand Ball
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Entrancement
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (2)
+2x Sargon Fragment, The
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+3x Conservative Agitation
+7x Kine Resources Contested
+1x Parity Shift
+2x Protect Thine Own
+1x Reins of Power
+
+Action Modifier (13)
+4x Awe
+3x Bewitching Oration
+6x Voter Captivation
+
+Reaction (13)
+3x Deflection
+2x Redirection
+3x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (4)
+4x Majesty
+
+Event (2)
+2x Anthelios, The Red Star

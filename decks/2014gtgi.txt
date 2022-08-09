@@ -1,0 +1,77 @@
+Genova Tournament
+Genova, Italy
+February 8th 2014
+2R+F
+16 players
+Vincenzo Rotondo
+https://www.vekn.net/event-calendar/event/7567
+
+Deck Name: Bleed by Superior Political Power
+
+Crypt (12 cards, min=34, max=40, avg=9.25)
+------------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+2x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
+2x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+
+Library (90 cards)
+Master (19; 7 trifle)
+1x Black Forest Base
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Elder Library
+1x Elysian Fields
+1x Giant's Blood
+2x Information Highway
+1x Pentex(TM) Subversion
+1x Political Hunting Ground
+1x Power Structure
+1x Secure Haven
+2x Vessel
+4x Villein
+1x Wider View
+
+Action (8)
+1x Entrancement
+7x Govern the Unaligned
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (1)
+1x Zaire River Ferry
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancient Influence
+3x Banishment
+1x Domain Challenge
+6x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (27)
+4x Bewitching Oration
+2x Blanket of Night
+3x Conditioning
+2x Seduction
+3x Shadow Play
+2x Shroud of Absence
+3x Shroud of Night
+2x Tenebrous Form
+6x Voter Captivation
+
+Reaction (11)
+7x Deflection
+2x Obedience
+2x On the Qui Vive
+
+Combat (7)
+1x Arms of the Abyss
+1x Entombment
+5x Majesty

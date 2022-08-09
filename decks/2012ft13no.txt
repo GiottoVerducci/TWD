@@ -1,0 +1,65 @@
+Friday the 13th
+Newark, Ohio
+January 13th 2012
+2R+F
+10 players
+John Bell
+
+Deck Name: The Terrible Two's
+
+Description: The burn option mechanic really helps to get the
+permanents into play quickly while not having to stack multiple
+copies of several cards. The deck works really well in a low
+intercept environment and it doesn't particularly like combat
+either. The main defenses are to have numbers, bloat and use
+the Hungry Coyote to keep rescuing or embracing. The Waste
+Management Op is really strong once the library is depleted -
+in the finals I was able to retrieve Delaying Tactics to
+repeatedly stymie Anarchist Uprising which would have hit me
+for 22 pool.
+
+Crypt (12 cards, min=8, max=8, avg=2)
+-------------------------------------
+2x Frederick the Weak		 2   pre	Brujah antitribu:2
+1x Aaron Duggan, Cameron's Toady 2   obt	Lasombra:2
+1x Boy Toy			 2   dem	Malkavian antitribu:2
+1x Carter			 2   cel	Toreador antitribu:2
+1x Christine Boscacci		 2   dom vic	Pander:2
+1x Dani				 2   ani	Nosferatu antitribu:2
+1x Gillian Krader		 2   ani dem	Pander:2
+1x Heinrick Schlempt		 2   tha	Tremere antitribu:2
+1x Horatio			 2   vic	Tzimisce:2
+1x Sadie			 2   pro	Gangrel antitribu:2
+1x Samson			 2   dom	Ventrue antitribu:2
+
+Library (60 cards)
+Master (39)
+1x Burden the Mind
+1x Direct Intervention
+4x Effective Management
+1x Humanitas
+1x Hungry Coyote, The
+1x Information Highway
+1x Not to Be
+1x Parthenon, The
+1x Pentex(TM) Subversion
+20x Slaughterhouse, The
+1x Sunset Strip, Hollywood
+4x Tribute to the Master
+2x Waste Management Operation
+
+Action (13)
+1x Aranthebes, The Immortal
+12x Embrace, The
+
+Equipment (1)
+1x Catacombs
+
+Action Modifier (5)
+5x Change of Target
+
+Reaction (1)
+1x Delaying Tactics
+
+Event (1)
+1x Uncoiling, The

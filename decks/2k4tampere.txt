@@ -1,0 +1,72 @@
+Bloodbath: Kermaleivokset
+Tampere, Finland
+April 3rd 2004
+15 players
+Antero Leppänen
+
+Deck Name: The Warlocks' Revenge.
+
+Description: !Tremere intercept-combat toolbox
+
+Crypt (12 cards, min=15, max=28, avg=5.5)
+-----------------------------------------
+2x Carna, The Princess Witch	   7   AUS DOM THA	primogen  Tremere:3
+2x Selena			   6   AUS DOM THA		  Tremere antitribu:3
+1x Kij Dansky			   8   AUS DOM THA obt	priscus	  Tremere antitribu:2
+1x Elena Mendoza Vasquez	   6   AUS THA dom obt		  Tremere antitribu:3
+1x Reverend Blackwood		   6   DOM THA obf	bishop	  Tremere antitribu:2
+1x Aisling Sturbridge		   5   AUS THA dom		  Tremere:2
+1x Hannigan			   5   AUS THA dom		  Tremere antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha			  Tremere antitribu:2
+1x Blythe Candeleria		   3   THA aus			  Tremere:2
+1x Brooke			   3   dom tha			  Tremere antitribu:2
+
+Library (90 cards)
+Master (15)
+4x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Haven Uncovered
+1x KRCG News Radio
+3x Sudden Reversal
+1x University Hunting Ground
+1x WMRH Talk Radio
+
+Action (12)
+1x Dominate Kine
+1x Far Mastery
+7x Govern the Unaligned
+3x Magic of the Smith
+
+Ally (2)
+2x Nephandus
+
+Equipment (6)
+2x .44 Magnum
+1x Ivory Bow
+1x RPG Launcher
+2x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (4)
+4x Bonding
+
+Reaction (22)
+4x Deflection
+3x Eagle's Sight
+2x Enhanced Senses
+3x Forced Awakening
+2x Spirit's Touch
+4x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (28)
+7x Apportation
+2x High Ground
+3x Movement of the Mind
+3x Telepathic Tracking
+8x Theft of Vitae
+3x Walk of Flame
+2x Wind Dance

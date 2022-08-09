@@ -1,0 +1,63 @@
+Gehenna - Slipknot
+Santiago, Chile
+May 30th 2009
+3R+F
+12 players
+Leonardo Munoz
+
+Deck Name: Locos en la Corte
+
+Crypt (12 cards, min=25, max=44, avg=8.75)
+------------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
+3x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
+2x Alicia Barrows	 9   AUS DEM OBF POT PRE  archbishop	Malkavian antitribu:4
+2x Aristotle de Laurent	 9   AUS DEM OBF PRE pot  		Malkavian antitribu:3
+1x Fabrizia Contreraz	 4   dem pot		  archbishop	Malkavian antitribu:4
+
+Library (90 cards)
+Master (17; 4 trifle)
+1x Barrens, The
+1x Día de los Muertos
+2x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Golconda: Inner Peace
+1x Institution Hunting Ground
+4x Minion Tap
+1x Powerbase: Madrid
+1x Protected Resources
+4x Vessel
+
+Action (6)
+4x Call, The
+2x Sibyl's Tongue
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+3x Banishment
+1x Can't Take it with You
+4x Finding the Path
+5x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (31)
+3x Awe
+3x Bewitching Oration
+3x Cloak the Gathering
+2x Elder Impersonation
+4x Forgotten Labyrinth
+4x Into Thin Air
+2x Iron Glare
+2x Telepathic Vote Counting
+3x Veil the Legions
+5x Voter Captivation
+
+Reaction (13)
+4x On the Qui Vive
+7x Telepathic Misdirection
+2x Voice of Madness
+
+Combat (6)
+6x Majesty

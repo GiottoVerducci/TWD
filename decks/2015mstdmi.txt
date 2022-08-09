@@ -1,0 +1,79 @@
+Milan Second Tradition Domain
+Milano, Italy
+July 12th 2015
+2R+F
+18 players
+Enrico De Stefano
+https://www.vekn.net/event-calendar/event/8154
+
+Deck Name: Summoning the Elders! 3.0
+
+Crypt (19 cards, min=31, max=44, avg=8.95)
+------------------------------------------
+6x Al-Muntathir, God's Witness	8   AUS FOR PRE TEM obf qui			True Brujah:5
+4x Dmitra Ilyanova		9   CEL FOR POT PRE obf		justicar	Brujah:5
+1x Adana de Sforza		11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Lutz von Hohenzollern	11  AUS DEM OBF PRE pot		inner circle	Malkavian:4
+1x Mistress Fanchon		11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+1x Rafael de Corazon		11  AUS CEL DOM OBF PRE		inner circle	Toreador:4
+1x Annazir			9   DAI OBF POT PRE		2 votes		Baali:5
+1x Orlando Oriundus		9   AUS DOM THA obf		bishop		Tremere antitribu:4
+1x Undele			9   CEL FOR obf pre ser		magaji		Ishtarri:5
+1x Al-Muntaquim, The Avenger	8   FOR POT TEM obf pre				True Brujah:4
+1x Karen Suadela		7   CEL POT obf pre		prince		Brujah:5
+
+Library (76 cards)
+Master (16; 8 trifle)
+1x Coven, The
+1x Creepshow Casino
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Monastery of Shadows
+1x Obfuscate
+1x Pentex(TM) Subversion
+1x Protected Resources
+1x Tabriz Assembly
+7x Villein
+
+Action (11)
+2x Entrancement
+9x Summon History
+
+Ally (2)
+1x Harzomatuili
+1x Ponticulus
+
+Equipment (6)
+1x Ankara Citadel, Turkey, The
+4x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Political Action (8)
+1x Ancient Influence
+1x Banishment
+1x Conservative Agitation
+1x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reckless Agitation
+1x Reins of Power
+
+Retainer (1)
+1x Malajit Chandramouli
+
+Action Modifier (22)
+2x Cloak the Gathering
+3x Domain of Evernight
+2x Elder Impersonation
+4x Forgotten Labyrinth
+2x Into Thin Air
+1x Tangle Atropos' Hand
+2x Veil the Legions
+6x Voter Captivation
+
+Action Modifier/Combat (8)
+8x Force of Personality
+
+Event (2)
+1x Inconnu Tutelage
+1x Scourge of the Enochians

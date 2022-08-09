@@ -1,0 +1,58 @@
+Independencia ou Morte
+Juiz de Fora, Brazil
+September 7th 2011
+12 players
+Robson Ribeiro de Sá
+
+-- 3VP in final
+
+Deck Name: Unnamed e sua Horda
+
+Crypt (12 cards, min=12, max=33, avg=4.75)
+------------------------------------------
+9x Horde, The	3   dai obf pre		 Baali:6
+3x unnamed, The	10  CEL DAI OBF PRE PRO	 Baali:6
+
+Library (90 cards)
+Master (28; 3 trifle)
+2x Fragment of the Book of Nod
+1x Giant's Blood
+1x Marrakesh Codex, The
+1x Minion Tap
+2x Parthenon, The
+4x Path of Evil Revelations
+2x Perfectionist
+4x Presence
+2x Secure Haven
+6x Tend the Flock
+3x Villein
+
+Action (14)
+2x Condemnation: Doomed
+2x Intimidation
+10x Legal Manipulations
+
+Ally (2)
+2x Veneficti
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (19)
+4x Cloak the Gathering
+3x Elder Impersonation
+4x Faceless Night
+4x Lost in Crowds
+4x True Love's Face
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (8)
+4x On the Qui Vive
+2x Poison Pill
+2x Wake with Evening's Freshness
+
+Combat (14)
+4x Form of Mist
+10x Majesty

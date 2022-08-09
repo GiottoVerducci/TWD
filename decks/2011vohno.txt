@@ -1,0 +1,64 @@
+Victim of Habit
+Newark, Ohio
+March 4th 2011
+2R+F
+16 players
+Brad Cashdollar
+
+-- 3VP in final
+
+Deck Name: LittleBob's Angry Dragon
+
+Crypt (12 cards, min=22, max=31, avg=6.58)
+------------------------------------------
+3x Diego Giovanni	8   CHI DOM NEC POT ani	 Giovanni:5
+3x Gualtiero Ghiberti	7   DOM NEC cel pot tha	 Giovanni:4
+3x Raphaela Giovanni	6   DOM NEC pot pre	 Giovanni:4
+2x Accorri Giovanni	6   DOM POT ani nec	 Giovanni:5
+1x Kay Polerno		4   dom nec pro		 Giovanni:5
+
+Library (90 cards)
+Master (11; 4 trifle)
+1x Dark Influences
+1x Morgue Hunting Ground
+1x Path of Bone, The
+2x Pentex(TM) Subversion
+2x Swiss Cut
+4x Vessel
+
+Action (20)
+2x Ex Nihilo
+8x Govern the Unaligned
+4x Mind Rape
+4x Sensory Deprivation
+2x Sudario Refraction
+
+Ally (2)
+1x Leonardo, Mortician
+1x Procurer
+
+Equipment (3)
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+1x Signet of King Saul, The
+
+Action Modifier (34)
+4x Bonding
+8x Call of the Hungry Dead
+4x Command of the Beast
+2x Conditioning
+2x Foreshadowing Destruction
+8x Seduction
+4x Sleeping Mind, The
+2x Threats
+
+Action Modifier/Reaction (8)
+4x Murmur of the False Will
+4x Spectral Divination
+
+Reaction (8)
+6x Deflection
+2x Pulling Strings
+
+Combat (4)
+4x Spiritual Intervention

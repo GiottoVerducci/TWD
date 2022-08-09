@@ -1,0 +1,79 @@
+NAC 2008 Day 2 - First Chance Qualifier for 2009
+Montreal, Quebec
+October 26th 2008
+3R+F
+32 players
+Christian Chénard
+
+Deck Name: Striking at the Vitals
+Created by: Christian Chénard with some wise advice from Samuel Guilbault
+
+Description: Imbued deck using Target Vitals. Nothing fancy but
+effective like we know.
+
+Crypt (12 cards, min=13, max=19, avg=4)
+---------------------------------------
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+1x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
+1x Maman Boumba			4   inn mar	 Martyr:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+1x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x Xian "DziDzat155" Quan	4   def inn	 Defender:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+1x Liz "Ticket312" Thornton	2   inn red	 Innocent:4
+
+Library (80 cards)
+Master (16)
+5x Angel of Berlin
+1x Barrens, The
+2x Church of Vindicated Faith, The
+2x Direct Intervention
+1x Information Highway
+1x Millicent Smith, Puritan Vampire Hunter
+1x Pentex(TM) Subversion
+1x Smiling Jack, The Anarch
+1x Unity
+1x WMRH Talk Radio
+
+Conviction (18)
+4x React with Conviction
+7x Second Sight
+7x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (6)
+1x Carlton Van Wyk
+2x Ossian
+1x Vagabond Mystic
+2x Wendell Delburton
+
+Equipment (7)
+1x Crusader Sword, The
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Laptop Computer
+1x Orb of Ulain
+2x Sniper Rifle
+
+Power (10)
+6x Inspire
+4x Vigilance
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (4)
+3x Determine
+1x On the Qui Vive
+
+Combat (14)
+14x Target Vitals
+
+Event (3)
+1x NRA PAC
+2x Unmasking, The

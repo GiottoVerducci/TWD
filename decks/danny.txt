@@ -1,0 +1,51 @@
+Crusade: Atlanta
+Atlanta, Georgia
+November 22nd 1997
+Danny McGrul
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/CXBlpM1N8jA
+
+Crypt (12 cards, min=10, max=35, avg=5.08)
+------------------------------------------
+3x Justine, Elder of Dallas	    8	AUS DOM THA obf		primogen	Tremere:1
+2x Agrippina			    4	OBF pot					Nosferatu:1
+1x Etrius			    11	AUS DOM OBF THA pro	inner circle	Tremere:2
+1x Laurent de Valois		    4	ani dom obf				Nosferatu:2
+1x Tansu Bekir			    4	OBF cel					Assamite:2
+1x Duck				    3	obf pot					Nosferatu:1
+1x Regilio, The Seeker of Akhenaten 3	aus obf					Nosferatu:2
+1x Dimple			    2	obf					Nosferatu:1
+1x Normal			    2	obf					Malkavian:1
+
+Library (89 cards)
+Master (20)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Archon Investigation
+3x Blood Doll
+1x Elysium: The Arboretum
+1x Giant's Blood
+2x Information Highway
+2x Labyrinth, The
+1x Major Boon
+5x Secure Haven
+1x Slum Hunting Ground
+1x Sudden Reversal
+
+Action (12)
+12x Govern the Unaligned
+
+Action Modifier (30)
+3x Bonding
+7x Cloak the Gathering
+4x Conditioning
+1x Elder Impersonation
+5x Lost in Crowds
+10x Mask of a Thousand Faces
+
+Reaction (21)
+10x Deflection
+6x Obedience
+5x Wake with Evening's Freshness
+
+Combat (6)
+6x Dodge

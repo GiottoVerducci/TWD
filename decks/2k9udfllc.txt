@@ -1,0 +1,53 @@
+Und du fallst - Lacrimosa
+Limache, Chile
+July 25th 2009
+3R+F
+22 players
+Hernán Rodríguez
+
+-- 4VP in final
+
+Deck Name: Nocturnos
+
+Crypt (12 cards, min=14, max=22, avg=4.67)
+------------------------------------------
+2x Onaedo		 6   DOM OBT aus pot		Lasombra:4
+2x Andrew Emory		 5   OBT aus dom pot	bishop	Lasombra:4
+2x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
+2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+2x Leila Monroe		 4   dom obt pre		Lasombra:4
+2x Lucy Markowitz	 3   dom obt			Lasombra:4
+
+Library (75 cards)
+Master (16)
+5x Blood Doll
+2x Dreams of the Sphinx
+1x Momentum's Edge
+4x Path of Night, The
+2x Pentex(TM) Subversion
+1x Perfectionist
+1x Political Hunting Ground
+
+Action (8)
+8x Govern the Unaligned
+
+Ally (15)
+15x Nocturn
+
+Action Modifier (19)
+4x Conditioning
+4x Foreshadowing Destruction
+7x Shadow Play
+4x Shroud of Night
+
+Reaction (12)
+3x Deflection
+6x On the Qui Vive
+3x Redirection
+
+Combat (4)
+2x Arms of the Abyss
+2x Shadow Body
+
+Event (1)
+1x Unmasking, The

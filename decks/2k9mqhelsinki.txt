@@ -1,0 +1,74 @@
+Mini-ECQ
+Helsinki, Finland
+November 8th 2009
+3R+F
+16 players
+Matti Palomäki
+
+Deck Name: Sovitteluvaliokunta ja sen paikallisosastot
+
+by Matti Palomäki
+
+Crypt (12 cards, min=9, max=31, avg=5.25)
+-----------------------------------------
+3x Anatole, Prophet of Gehenna	  8   AUS DEM OBF dom for  	   Malkavian:2
+2x Kite				  7   AUS DEM obf pre	   bishop  Malkavian antitribu:2
+1x Dolphin Black		  6   AUS DEM OBF	   	   Malkavian antitribu:2
+1x Colonel, The			  5   AUS cel dem obf	   	   Malkavian antitribu:3
+1x General Perfidio Díos	  5   AUS dem obf	   bishop  Malkavian antitribu:3
+1x Idalia, Prophet of Guadalajara 4   AUS dem		   	   Malkavian antitribu:2
+1x Boy Toy			  2   dem		   	   Malkavian antitribu:2
+1x Gillian Krader		  2   ani dem		   	   Pander:2
+1x Eddie Gaines			  1   dem pot		   	   Caitiff:3
+
+Library (75 cards)
+Master (13; 1 trifle)
+1x Archon Investigation
+4x Blood Doll
+1x Carver's Meat Packing and Storage
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Fame
+1x Pentex(TM) Subversion
+1x Rack, The
+1x Vessel
+
+Action (10)
+2x Abbot
+3x Call, The
+5x Madman's Quill
+
+Equipment (10)
+5x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (1)
+1x Eyes of Chaos
+
+Action Modifier/Combat (6)
+2x Deny
+4x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Random Patterns
+
+Reaction (26)
+5x Eagle's Sight
+2x Enhanced Senses
+5x Eyes of Argus
+2x My Enemy's Enemy
+3x On the Qui Vive
+5x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (4)
+2x Concealed Weapon
+2x Disguised Weapon

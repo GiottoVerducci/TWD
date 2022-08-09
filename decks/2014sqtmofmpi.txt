@@ -1,0 +1,59 @@
+Survivalist Qualifier Tour - Mantle of the Moon
+Pordenone, Italy
+May 18th 2014
+2R+F
+22 players
+Danilo Torrisi
+https://www.vekn.net/event-calendar/event/7652
+
+Deck Name: multi master
+
+Crypt (15 cards, min=37, max=44, avg=10.2)
+------------------------------------------
+3x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Leandro	   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
+3x Cailean	   10  ANI OBF POT PRE dom	archbishop	Nosferatu antitribu:2
+3x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE			Baali:2
+3x Maris Streck	   9   AUS OBF ani dem dom	justicar	Malkavian:3
+
+Library (90 cards)
+Master (47; 9 trifle)
+9x Ashur Tablets
+1x Creep Show
+1x Direct Intervention
+1x Fortschritt Library
+8x Information Highway
+1x Jake Washington
+8x Liquidation
+1x Monastery of Shadows
+8x Parthenon, The
+1x Pentex(TM) Subversion
+8x Villein
+
+Action (2)
+2x Entrancement
+
+Equipment (4)
+2x Heart of Nizchetus
+2x Sargon Fragment, The
+
+Political Action (6)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (14)
+6x Elder Impersonation
+8x Into Thin Air
+
+Reaction (8)
+8x Deflection
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

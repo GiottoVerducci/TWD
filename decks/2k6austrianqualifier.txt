@@ -1,0 +1,69 @@
+Austrian Qualifier
+Vienna, Austria
+June 18th 2006
+3R+F
+29 players
+Marcus Mock
+
+Title: Kyasid toolbox bleed
+Description: The package seemed to be perfect for the day.
+Quincy came in very handy in the final rouns because of the Imbued.
+In retrospect I would leave the library as is. I would tighten the
+crypt with two Tupdogs though taking out Banjoko and one Roderick
+Phillips March.
+
+Crypt (12 cards, min=18, max=30, avg=6.08)
+------------------------------------------
+2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+2x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+2x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+2x Quincy, The Trapper	   4   dom myt obt	    		Kiasyd:3
+1x Onaedo		   6   DOM OBT aus pot	    		Lasombra:4
+1x Banjoko		   5   DOM obt pot	    		Lasombra:3
+
+Library (90 cards)
+Master (18)
+6x Blood Doll
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Hungry Coyote, The
+1x Jake Washington
+1x Obtenebration
+3x Sudden Reversal
+1x WMRH Talk Radio
+
+Action (6)
+6x Govern the Unaligned
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Palatial Estate
+
+Action Modifier (25)
+3x Bonding
+3x Conditioning
+2x Seduction
+4x Shadow Play
+4x Shroud of Absence
+5x Stone Travel
+4x Threats
+
+Action Modifier/Combat (5)
+5x Fae Contortion
+
+Action Modifier/Reaction (5)
+5x Aura Absorption
+
+Reaction (17)
+3x Covincraft
+6x Deflection
+1x Redirection
+7x Wake with Evening's Freshness
+
+Combat (12)
+4x Earth Swords
+8x Oubliette

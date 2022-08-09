@@ -1,0 +1,68 @@
+Mask of a Thousand Faces
+Fortaleza, Brazil
+December 14th 2019
+3R+F
+21 players
+Mailton Silva
+https://www.vekn.net/event-calendar/event/9492
+
+-- 2GW7 + 5VP in final
+
+Deck Name: Rolo compressor 3.0
+
+Seja amigo do Enkidu.
+
+Crypt (12 cards, min=4, max=44, avg=6)
+--------------------------------------
+5x Anarch Convert   1	-none-			 Caitiff:ANY
+4x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+2x Karsh	    10	ANI CEL FOR POT PRO	 Gangrel:3
+1x T.J.		    3	cel for			 Gangrel:4
+
+Library (90 cards)
+Master (25; 5 trifle)
+9x Ashur Tablets
+1x Campground Hunting Ground
+1x Fame
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Infamous Insurgent
+1x Libertas
+1x Parthenon, The
+2x Perfectionist
+1x Rack, The
+1x Tension in the Ranks
+3x Vessel
+2x Villein
+
+Action (3)
+2x Heroic Might
+1x Preternatural Strength
+
+Ally (1)
+1x Mylan Horseed
+
+Retainer (10)
+1x Homunculus
+8x Raptor
+1x Tasha Morgan
+
+Action Modifier (10)
+1x Enkil Cog
+3x Forced March
+3x Freak Drive
+3x Instantaneous Transformation
+
+Reaction (5)
+5x Sense the Savage Way
+
+Combat (34)
+12x Diversion
+5x Drawing Out the Beast
+7x Immortal Grapple
+5x Pack Alpha
+5x Taste of Vitae
+
+Event (2)
+1x Dragonbound
+1x Scourge of the Enochians

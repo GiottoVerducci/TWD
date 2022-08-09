@@ -1,0 +1,79 @@
+The Stranger Among Us
+Boston, Massachusetts
+January 5th 2002
+Kevin Scribner
+
+"tzimisce - go: counterspell deck"
+
+special thanks to jay kristoff, for his deck on thelasombra's site,
+which was the inspiration for this one, and to david d'avila-anderson,
+for his incredible articles on the subject of intercept-combat decks...
+-- i've been playing this deck for over a year now, in various forms,
+but it wasn't until bloodlines and 'read the winds' that i was able to
+really get it off the ground... the raw power and efficiency of that
+one card opened up so many card slots, which i was able to dedicate to
+forward pressure, without compromising my ability to fend off 4-on-1
+onslaughts turn after turn...
+-- in light of the lessons i learned at this tournament, i think i'll
+need to change the 2 anarch revolt to either 2 more smiling jack, or 2
+war ghoul... the anarch revolts organize the table against me too much,
+and turn my cross-table buddies into enemies... with smiling jack, they
+at least think twice before coming at me... removing 2 revolts also
+allows me to drop 2 of the eagle's sight, so maybe i'd go with 3 smiling
+jack, 3 war ghoul, and exchange the femur of toomler for one more
+revenant...
+-- i'm seriously considering swapping out the duplicate caliban in the
+crypt for either goratrix, matteus, omaya, or [most likely] jost
+werner... the duplicate crypt draw doesn't really hurt me much, but
+having jost's inherent stealth might make a big difference in some
+games...
+
+Crypt (12 cards, min=19, max=35, avg=6.83)
+------------------------------------------
+2x Caliban			    6	ANI AUS VIC			    Tzimisce:2
+1x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
+1x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
+1x Anton			    8	ANI AUS cel obf vic		    Tzimisce:2
+1x Little Tailor of Prague	    8	ANI AUS VIC dem			    Tzimisce:2
+1x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
+1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+1x Corine Marcón		    6	AUS VIC ani			    Tzimisce:2
+1x Devin Bisley			    5	ANI AUS vic			    Tzimisce:2
+1x Lolita Houston		    4	VIC aus				    Tzimisce:2
+1x Terrence			    4	ani aus vic			    Tzimisce:2
+
+Library (90 cards)
+Master (16)
+2x Anarch Revolt
+6x Blood Doll
+1x Library Hunting Ground
+1x Powerbase: Montreal
+1x Rack, The
+3x Rötschreck
+2x Smiling Jack, The Anarch
+
+Action (6)
+3x Revelations
+3x Tier of Souls
+
+Equipment (2)
+1x Femur of Toomler
+1x Ivory Bow
+
+Retainer (2)
+2x Revenant
+
+Reaction (40)
+6x Cats' Guidance
+6x Eagle's Sight
+4x Enhanced Senses
+6x Forced Awakening
+3x Precognition
+6x Read the Winds
+3x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (24)
+6x Breath of the Dragon
+10x Chiropteran Marauder
+8x Inner Essence

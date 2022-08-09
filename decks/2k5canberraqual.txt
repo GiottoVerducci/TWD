@@ -1,0 +1,76 @@
+ACT qualifier (Australian CCQ)
+Canberra, Australia
+April 16th 2005
+21 players
+John Alston-Campbell
+
+Deck Name: Bleed Like Me, Responsibly
+
+Not quite weenie OBF AUS DEM. Concept was to bleed for 2 or 3 each turn and
+avoid stealth jam but still have enough of it if need be; thus most of the
+stealth served a dual purpose. Reality was never enough DEM in the opening
+crypt and rarely enough AUS for the counters to work effectively. By the time
+I got to the finals I knew that I had to go digging for the AUS or I was toast
+against my Malk! predator. I had to cycle like a bastard to oust Claudio to win
+and learned that Misdirection is worth its weight in gold (hang on, a single
+library card doesnt weigh very much), ok more. Midget was my vampire of choice
+on the day as my prey in both the third game and the finals was packing raven spies.
+Nor did I regret packing 16 Telepathic Counters as they are eminently cyclable
+and manage to consistently frustrate, with only one card, my predator.
+My sympathies to Salem who because of his irresponsible bleeding ultimately
+gave me the game win in game 3 due to a pass the parcel bleed for 5 at 3 stealth!
+Cheers Telepathic Misdirection.
+
+Crypt (12 cards, min=9, max=22, avg=3.92)
+-----------------------------------------
+1x Dolphin Black		6   AUS DEM OBF		Malkavian antitribu:2
+1x Quira, The Bitch Queen	6   AUS OBF obt tha	Malkavian antitribu:2
+1x Evan Klein			5   OBF aus dem pre	Malkavian:3
+1x Persia, The Beautiful Statue	5   DEM aus obf		Malkavian:3
+1x Victoria			5   AUS cel obf		Malkavian:2
+1x Adelaide Davis		4   aus dem obf		Malkavian:3
+1x Claven			4   aus dem obf		Malkavian antitribu:2
+1x Midget			3   DEM obf pre		Malkavian antitribu:3
+1x Yorik			3   dem obf		Malkavian antitribu:2
+1x Zöe				3   AUS cel obf		Malkavian:2
+1x Boy Toy			2   dem			Malkavian antitribu:2
+1x Eddie Gaines			1   dem pot		Caitiff:3
+
+Library (90 cards)
+Master (16)
+3x Auspex
+2x Blood Doll
+3x Dementation
+1x Institution Hunting Ground
+1x Metro Underground
+1x Misdirection
+3x Obfuscate
+1x Secure Haven
+1x Specialization
+
+Action (14)
+13x Kindred Spirits
+1x Sleep of Reason
+
+Equipment (3)
+1x Enchanted Marionette
+2x Tapestry of Blood
+
+Action Modifier (23)
+7x Confusion
+3x Faceless Night
+6x Marked Path
+7x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (20)
+16x Telepathic Counter
+4x Telepathic Misdirection
+
+Combat (8)
+8x Gemini's Mirror
+
+Combat/Reaction (1)
+1x Abandoning the Flesh

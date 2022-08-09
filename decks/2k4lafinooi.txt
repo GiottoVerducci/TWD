@@ -1,0 +1,58 @@
+Border Skirmish
+Lafayette, Indiana
+February 29th 2004
+19 players
+Mike Ooi
+
+Deck Name: !Gangrel Read & Bleed [SL]
+
+Description: PRO - DOM - AUS - ANI. Bleed, and when blocked, read your
+prey's hand to know whether or not to Form of Mist. Qualified in
+SouthCentral 2003. Revised. Storyline legal.
+
+Crypt (12 cards, min=19, max=38, avg=7.08)
+------------------------------------------
+3x Genevieve		  10  ANI FOR PRO aus dom  priscus  Gangrel antitribu:2
+1x Sébastien Goulet	  8   DOM OBF cel pre pro  	    Gangrel antitribu:3
+1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro  	    Gangrel antitribu:3
+2x Kanimana Belghazi	  7   AUS DOM NEC pro	   	    Nagaraja:2
+2x Caitlin		  6   ANI PRO aus dom	   bishop   Gangrel antitribu:2
+1x Dylan		  6   aus cel dom for pro  	    Ventrue antitribu:2
+1x Monique		  5   ani aus for pro	   	    Gangrel antitribu:2
+1x Sadie		  2   pro		   	    Gangrel antitribu:2
+
+Library (90 cards)
+Master (16)
+4x Blood Doll
+1x Campground Hunting Ground
+1x City Gangrel Connections
+2x Direct Intervention
+2x Dominate
+3x Protean
+2x Sudden Reversal
+1x Twisted Forest
+
+Action (10)
+1x Dominate Kine
+3x Govern the Unaligned
+6x Scouting Mission
+
+Action Modifier (9)
+6x Conditioning
+3x Foreshadowing Destruction
+
+Reaction (19)
+3x Cats' Guidance
+8x Deflection
+4x Forced Awakening
+4x Guard Dogs
+
+Combat (36)
+3x Adaptability
+6x Aura Reading
+1x Body Flare
+2x Bone Spur
+6x Earth Meld
+6x Flesh of Marble
+6x Form of Mist
+6x Quick Meld

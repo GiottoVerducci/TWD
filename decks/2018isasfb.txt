@@ -1,0 +1,95 @@
+Illegal Search and Seizure
+Fortaleza, Brazil
+April 22nd 2018
+2R+F
+13 players
+Maria Vitória
+https://www.vekn.net/event-calendar/event/8889
+
+-- 4VP in final
+
+Deck Name: Clube dos Nove
+
+Description: Malgorzata, Mother of All
+!Tremere Tool Box
+
+Crypt (14 cards, min=21, max=38, avg=7.64)
+------------------------------------------
+4x Paul Cordwood	8   AUS DOM THA obf pre		bishop	    Tremere antitribu:4
+2x Lernean		10  AUS CEL DOM THA for pro	cardinal    Tremere antitribu:4
+2x Malgorzata		9   AUS DOM THA VIC pre		priscus	    Tremere antitribu:4
+1x Eric Kressida	8   AUS DOM PRO THA cel		bishop	    Tremere antitribu:4
+1x Uta Kovacs		8   AUS DOM THA ser			    Tremere antitribu:4
+1x Ash Harrison		7   AUS THA cel dom			    Tremere antitribu:5
+1x Johannes Worringen	6   AUS THA dom			archbishop  Tremere antitribu:5
+1x Frondator		5   AUS dom tha			bishop	    Tremere antitribu:4
+1x Keith Moody		3   DOM					    Tremere antitribu:4
+
+Library (90 cards)
+Master (17; 3 trifle)
+1x Effective Management
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Heidelberg Castle, Germany
+1x Information Highway
+1x KRCG News Radio
+1x Minion Tap
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Spirit Summoning Chamber
+1x University Hunting Ground
+2x Vessel
+1x Wash
+
+Action (11)
+1x Biothaumaturgic Experiment
+1x Eternal Vigilance
+4x Govern the Unaligned
+1x Graverobbing
+1x Magic of the Smith
+1x Pulse of the Canaille
+1x Rutor's Hand
+1x Under Siege
+
+Ally (2)
+1x Hexaped
+1x Procurer
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Palatial Estate
+1x Ruins of Ceoris
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (9)
+2x Bonding
+5x Mirror Walk
+2x Seduction
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (18)
+3x Deflection
+3x Eagle's Sight
+3x Enhanced Senses
+3x Forced Awakening
+3x On the Qui Vive
+3x Telepathic Misdirection
+
+Combat (26)
+1x Amaranth
+6x Apportation
+2x Blood to Water
+1x Drain Essence
+2x Rego Motum
+2x Telepathic Tracking
+5x Theft of Vitae
+3x Walk of Flame
+4x Wind Dance

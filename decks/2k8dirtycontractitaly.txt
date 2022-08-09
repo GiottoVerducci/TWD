@@ -1,0 +1,61 @@
+Dirty Contract
+Udine, Italy
+April 26th 2008
+2R+F
+23 players
+Axel Zaminga
+
+Winnig Deck Name: [Malkavian] Welcome Home (Sanitarium)
+Description: malkavian with politics
+
+Crypt (12 cards, min=22, max=40, avg=8)
+---------------------------------------
+4x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	   Malkavian:3
+3x Maris Streck		9   AUS OBF ani dem dom	 justicar  Malkavian:3
+2x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
+1x Quentin King III	7   AUS DEM obf pre	 prince	   Malkavian:3
+1x Victoria		5   AUS cel obf		 	   Malkavian:2
+1x Zöe			3   AUS cel obf		 	   Malkavian:2
+
+Library (90 cards)
+Master (20)
+1x Elysium: The Palace of Versailles
+1x Legendary Vampire
+5x Madness Network
+4x Perfectionist
+5x Protean
+4x Storage Annex
+
+Action (8)
+4x Fifth Tradition: Hospitality
+4x Fourth Tradition: The Accounting
+
+Equipment (3)
+1x Bowl of Convergence
+2x Camera Phone
+
+Political Action (10)
+1x Ancient Influence
+6x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Retainer (5)
+4x Homunculus
+1x Mr. Winthrop
+
+Action Modifier (12)
+4x Faceless Night
+4x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (12)
+6x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (16)
+16x Earth Meld

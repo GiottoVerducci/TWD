@@ -1,0 +1,61 @@
+Blood Siege
+Amherst, Nova Scotia
+August 17th 2008
+2R+F
+12 players
+Dane Smith
+
+-- 2GW8 + 4VP in final
+
+Deck Name: Lasombra Hyperdrive V3.0
+
+Crypt (12 cards, min=18, max=34, avg=6.5)
+-----------------------------------------
+1x Lucita			8   DOM FOR OBT cel pot	 	  Lasombra:2
+1x Lucita (ADV)			8   DOM FOR OBT cel pot	 	  Lasombra:2
+2x Julia Prima			7   DOM OBT aus myt	 	  Kiasyd:2
+2x Banjoko			5   DOM obt pot		 	  Lasombra:3
+1x Marcus Vitel			10  DOM FOR OBF OBT PRE	 prince	  Ventrue:3
+1x Gratiano			8   DOM OBT obf pot	 priscus  Lasombra:2
+1x Henri Lavenant		7   DOM OBT pot qui	 	  Lasombra:3
+1x Guido Lucciano		5   OBT dom obf		 	  Lasombra:2
+1x Ignacio, The Black Priest	4   dom obt pot		 	  Lasombra:2
+1x Ramiro			4   dom obt vic		 	  Lasombra:2
+
+Library (90 cards)
+Master (22)
+2x Blood Doll
+2x Capitalist
+2x Dominate
+3x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+1x Information Highway
+2x Minion Tap
+2x Obtenebration
+1x Parthenon, The
+2x Path of Night, The
+1x Secure Haven
+2x Sudden Reversal
+
+Action (10)
+10x Govern the Unaligned
+
+Action Modifier (29)
+2x Blanket of Night
+4x Bonding
+3x Command of the Beast
+5x Conditioning
+3x Foreshadowing Destruction
+6x Shadow Play
+1x Shroud of Night
+5x Tenebrous Form
+
+Reaction (19)
+14x Deflection
+5x Wake with Evening's Freshness
+
+Combat (10)
+4x Arms of the Abyss
+4x Oubliette
+2x Undead Strength

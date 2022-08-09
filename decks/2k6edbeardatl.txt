@@ -1,0 +1,71 @@
+Ed Beard Jr. Tournament
+Atlanta, Georgia
+November 4th 2006
+2R+F
+17 players
+Danielle Newquist
+
+Deck Name: The Thousandfold Perfected Anarch
+
+Description: Temporis bleed with anarch tech
+
+Crypt (12 cards, min=19, max=32, avg=6.5)
+-----------------------------------------
+4x Ian Forestal		8   AUS DOM THA		 Tremere antitribu:2
+1x Bryan Van Duesen	7   DOM THA aus pre	 Tremere antitribu:2
+1x Carlotta Giovanni	7   NEC POT dom obf	 Giovanni:2
+1x Krassimir		7   POT TEM dom nec pre	 True Brujah:2
+1x Dylan		6   aus cel dom for pro	 Ventrue antitribu:2
+1x Catherine du Bois	5   DOM for obf pre	 Ventrue:3
+1x Ilyana Ravidovich	5   aus dom for pre	 Ventrue:3
+1x Le Dinh Tho		5   NEC aus dom		 Nagaraja:2
+1x Ingrid Russo		4   DOM for		 Ventrue antitribu:2
+
+Library (90 cards)
+Master (16; 1 trifle)
+4x Blood Doll
+1x Erciyes Fragments, The
+1x Fortitude
+1x Galaric's Legacy
+1x Giant's Blood
+2x Infernal Pact
+3x Perfectionist
+2x Powerbase: Los Angeles
+1x Spontaneous Power
+
+Action (30)
+1x Clotho's Gift
+1x Far Mastery
+6x Gear Up
+5x Go Anarch
+4x Govern the Unaligned
+1x Graverobbing
+2x Hourglass of the Mind
+1x Psychic Veil
+1x Reformation
+1x Revelations
+4x Scouting Mission
+1x Smash and Grab
+2x Undue Influence
+
+Ally (1)
+1x Mylan Horseed
+
+Action Modifier (17)
+1x Conditioning
+2x Domain of Evernight
+2x Foreshadowing Destruction
+6x Freak Drive
+1x Perfect Clarity
+2x Seduction
+3x Threats
+
+Action Modifier/Reaction (2)
+2x Quicksilver Contemplation
+
+Reaction (14)
+7x Deflection
+7x Wake with Evening's Freshness
+
+Combat (10)
+10x Diversion

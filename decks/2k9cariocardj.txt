@@ -1,0 +1,53 @@
+Campeonato Carioca
+Rio de Janeiro, Brazil
+June 21st 2009
+3R+F
+28 players
+Rafael Ramos
+
+Deck Name: Tup Dog
+
+Crypt (28 cards, min=4, max=14, avg=1.57)
+-----------------------------------------
+21x Tupdog	 1    POT VIS	   Gargoyle:3
+2x  Ember Wright 3    aus dom	   Tremere antitribu:3
+2x  Keith Moody	 3    DOM	   Tremere antitribu:4
+1x  Janine	 4    aus dom tha  Tremere antitribu:4
+1x  Mosfair	 4    cel dom tha  Tremere antitribu:4
+1x  Saiz	 3    aus dom	   Tremere antitribu:3
+
+Library (90 cards)
+Master (18; 2 trifle)
+1x Dreams of the Sphinx
+5x Effective Management
+2x Fame
+1x Information Highway
+1x KRCG News Radio
+1x Path of Lilith, The
+1x Powerbase: Montreal
+1x Secure Haven
+1x University Hunting Ground
+2x Wash
+1x WMRH Talk Radio
+1x Yawp Court
+
+Action (7)
+1x Aranthebes, The Immortal
+6x Graverobbing
+
+Equipment (1)
+1x Hand of Conrad
+
+Action Modifier (8)
+8x Conditioning
+
+Reaction (11)
+8x Deflection
+1x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (45)
+13x Crawling Chamber
+10x Immortal Grapple
+15x Raking Talons
+7x Torn Signpost

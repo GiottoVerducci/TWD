@@ -1,0 +1,68 @@
+Shatter the Gates: Itaocara
+Itaocara, Brazil
+November 15th 2015
+2R+F
+12 players
+Paulo Erthal
+https://www.vekn.net/event-calendar/event/7993
+
+-- 4VP in final
+
+Deck Name: Malk 94
+
+Crypt (12 cards, min=19, max=28, avg=5.92)
+------------------------------------------
+3x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
+2x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
+2x Ozmo			6   AUS dom obf			Malkavian:1
+2x Didi Meyers		5   DOM aus cel obf		Malkavian:1
+2x Zebulon		5   OBF aus dom pro		Malkavian:1
+1x Roland Bishop	4   aus dom obf			Malkavian:1
+
+Library (90 cards)
+Master (15; 6 trifle)
+1x Asylum Hunting Ground
+1x Coven, The
+2x Dominate
+2x Dreams of the Sphinx
+1x Information Highway
+2x Obfuscate
+1x Perfectionist
+3x Vessel
+2x Wash
+
+Action (17)
+2x Dominate Kine
+10x Govern the Unaligned
+5x Scouting Mission
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Action Modifier (28)
+3x Bonding
+1x Cloak the Gathering
+2x Command of the Beast
+4x Conditioning
+3x Elder Impersonation
+1x Faceless Night
+3x Lost in Crowds
+5x Seduction
+3x Spying Mission
+3x Threats
+
+Action Modifier/Combat (10)
+2x Hide the Mind
+8x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (15)
+6x Deflection
+2x Fillip
+5x On the Qui Vive
+2x Redirection
+
+Combat (3)
+3x Gemini's Mirror

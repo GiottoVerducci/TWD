@@ -1,0 +1,70 @@
+Free States: Texas
+Houston, Texas
+December 6th 2003
+14 players
+Robyn Tatu
+
+Deck Name: Grand Toreador
+
+Crypt (12 cards, min=30, max=43, avg=9.25)
+------------------------------------------
+3x Alexandra		11  ANI AUS CEL PRE dom		inner circle	Toreador:2
+2x Madame Guil		10  AUS CEL PRE for pot ser	justicar	Toreador:3
+2x Annabelle Triabell	9   AUS CEL PRE dom for		primogen	Toreador:3
+2x Fleurdumal		8   AUS DEM PRE cel tha		prince		Toreador:3
+1x François Villon	10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Lucina		7   AUS PRE cel pro		primogen	Toreador:3
+1x Suzanne Kadim	7   CEL PRE aus dom obf				Toreador:3
+
+Library (90 cards)
+Master (14)
+1x Aching Beauty
+1x Art Museum
+7x Minion Tap
+1x Society Hunting Ground
+4x Toreador Grand Ball
+
+Action (9)
+1x Aranthebes, The Immortal
+2x Enchant Kindred
+2x Fifth Tradition: Hospitality
+1x Form of Corruption
+1x Judgment: Camarilla Segregation
+1x Sixth Tradition: Destruction
+1x Social Charm
+
+Political Action (16)
+2x Anarchist Uprising
+1x Ancient Influence
+2x Ancilla Empowerment
+2x Banishment
+1x Camarilla Exemplary
+1x Consanguineous Boon
+2x Dramatic Upheaval
+2x Kine Resources Contested
+1x Parity Shift
+1x Snipe Hunt
+1x Year of Fortune
+
+Retainer (3)
+3x Resplendent Protector
+
+Action Modifier (15)
+1x Aire of Elation
+2x Bewitching Oration
+5x Change of Target
+1x Scorn of Adonis
+2x Seduction
+4x Voter Captivation
+
+Reaction (19)
+3x Forced Awakening
+2x Obedience
+4x Second Tradition: Domain
+1x Telepathic Counter
+7x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (14)
+4x Flash
+10x Majesty

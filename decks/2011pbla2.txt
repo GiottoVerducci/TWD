@@ -1,0 +1,69 @@
+Powerbase: Los Angeles Event #2 - Southwest Regional Qualifier
+Gamex, Los Angeles, California
+May 28th 2011
+14 players
+Robert Scythe
+
+Deck Name: Girls Will Infect Los Angeles
+Created by: Another slight variation of the Esbjornsson TWD
+
+Description: I used an idea from Angseesing with the Unleash Hell's
+Fury (that I never got to play). If I had only played the deck before
+the tournament I would have made more changes and taken some credit
+for the design but as is it all goes to Esbjornsson/Torstensson
+
+Crypt (12 cards, min=32, max=41, avg=9.08)
+------------------------------------------
+4x Aksinya Daclau	9   ANI FOR PRE PRO cel tha		  Gangrel antitribu:4
+3x Cybele		10  ANI DAI OBF PRE SER THA		  Baali:4
+1x Enkidu, The Noah	11  ANI CEL OBF POT PRO for		  Gangrel antitribu:4
+1x Nangila Were		9   ANI POT PRE obf ser			  Guruhi:4
+1x Gustaphe Brunnelle	8   ANI DOM POT obf		primogen  Nosferatu:4
+1x Nana Buruku		8   ANI POT PRE				  Guruhi:4
+1x Talbot		7   ANI NEC PRO for			  Gangrel:5
+
+Library (75 cards)
+Master (41; 7 trifle)
+9x Ashur Tablets
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Haven Uncovered
+2x Information Highway
+1x Lilith's Blessing
+5x Liquidation
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+7x Villein
+5x Zillah's Valley
+
+Action (4)
+2x Deep Song
+1x Entrancement
+1x Unleash Hell's Fury
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Reaction (5)
+1x Delaying Tactics
+1x Guard Dogs
+2x Lost in Translation
+1x Rat's Warning
+
+Combat (21)
+9x Aid from Bats
+1x Canine Horde
+7x Carrion Crows
+1x Target Vitals
+2x Taste of Vitae
+1x Terror Frenzy
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dragonbound

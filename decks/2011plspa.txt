@@ -1,0 +1,57 @@
+Polska Liga
+Szczecin, Poland
+April 16th 2011
+3R+F
+23 players
+Radoslaw Flasinski
+
+-- 5VP in final
+
+Deck Name: Time is an illusion, politics a sin.
+
+Description: Stettin, 16. April 2011.
+
+Crypt (12 cards, min=16, max=33, avg=6.08)
+------------------------------------------
+3x Nehemiah		 9   POT PRE SER TEM obt  2 votes  True Brujah:4
+3x Allonzo Montoya	 6   OBF SER ani aus	  	   Abomination:3
+2x Ankh-sen-Sutekh	 6   PRE SER obf	  	   Follower of Set:4
+2x Renenet		 5   OBF PRE ser	  	   Follower of Set:4
+2x Reverend Djoser Jones 3   pre ser		  	   Follower of Set:4
+
+Library (90 cards)
+Master (11)
+1x Crocodile Temple, The
+1x Khobar Towers, Al-Khubar
+4x Minion Tap
+3x Obfuscate
+1x Opium Den
+1x Tabriz Assembly
+
+Action (14)
+4x Form of Corruption
+4x Public Trust
+6x Temptation
+
+Political Action (15)
+1x Banishment
+4x Diversity
+7x Free States Rant
+3x Kine Resources Contested
+
+Action Modifier (37)
+3x Bewitching Oration
+4x Cloak the Gathering
+5x Domain of Evernight
+4x Elder Impersonation
+2x Iron Glare
+4x Lost in Crowds
+6x Revelation of Desire
+3x Venenation
+6x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Combat (9)
+9x Majesty

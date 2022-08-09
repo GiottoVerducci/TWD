@@ -1,0 +1,71 @@
+DragonCon 2000
+Atlanta, Georgia
+July 2nd 2000
+Steve Coombs
+
+Description: Well there it is...
+Some comments about playing this deck:
+1. Don't rely on getting any specific card, nor wait for one.
+2. Play the hand you receive (all surprises from the deck will be good, I promise)
+3. Cycle -- Focus on going forward, you cannot win with this deck if you turtle up.
+4. This deck was designed to play at a 4 player table... (It's what I'm used to and usually what I see in tournaments)
+5. Yes this deck is not perfect and it does have weaknesses, but I foresee changes to it in the not too distant future.
+6. I'd like to thank David and Jose and the Charlotte play group for all their help and teachings over the last year.
+
+Crypt (12 cards, min=13, max=28, avg=5.08)
+------------------------------------------
+2x Anson			8   CEL PRE aus dom	prince	Toreador:1
+1x Jost Werner			6   AUS PRE ani			Toreador antitribu:2
+1x Rake				6   PRE aus cel pot	prince	Brujah:1
+1x Sheila Mezarin		6   AUS PRE cel for		Toreador antitribu:2
+1x Felicia Mostrom		5   AUS CEL pre			Toreador:1
+1x Ramiel DuPre			5   PRE aus cel dom		Toreador:1
+1x Demetrius Slater		4   aus cel pre			Toreador:1
+1x Mariana Gilbert		4   PRE cel			Toreador:1
+1x Remilliard, Devout Crusader	4   AUS pre			Toreador antitribu:2
+1x Gideon Fontaine		3   PRE				Ventrue:1
+1x Delilah Easton		2   pre				Toreador:1
+
+Library (90 cards)
+Master (25)
+4x Auspex
+1x Barrens, The
+3x Blood Doll
+1x Effective Management
+1x Elysium: The Arboretum
+1x Giant's Blood
+2x Information Highway
+1x KRCG News Radio
+2x Misdirection
+1x Parthenon, The
+3x Presence
+2x Society Hunting Ground
+2x Sudden Reversal
+1x Tomb of Rameses III
+
+Action (19)
+2x Distraction -- aka Look a Monkey or let me get a better hand...
+8x Legal Manipulations -- bleed and pool gain
+1x Pulse of the Canaille -- use at superior only
+8x Social Charm -- bleed and pool gain
+
+Equipment (3)
+1x Ivory Bow -- often times as good as stealth
+1x Palatial Estate
+1x Sengir Dagger -- often times as good as stealth
+
+Retainer (6)
+6x Marijava Ghoul -- If I take a bleed actions I get stealth, bonus!!!
+
+Action Modifier (10)
+10x Aire of Elation -- That looks like it hurt... *grin, evil grin
+
+Reaction (17)
+2x Delaying Tactics -- Hurt me with that vote if you live another turn....
+6x Telepathic Counter -- A bleed for zero... I like that...
+2x Telepathic Misdirection -- Bleed my prey... Thanks
+7x Wake with Evening's Freshness -- maximize my number of actions per turn
+
+Combat (10)
+4x Dodge
+6x Majesty

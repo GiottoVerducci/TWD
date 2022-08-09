@@ -1,0 +1,45 @@
+Russian ECQ
+Moscow, Russia
+September 3rd 2011
+3R+F
+12 players
+Konstantin Prischepa
+
+Crypt (12 cards, min=12, max=24, avg=4.5)
+-----------------------------------------
+2x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+2x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
+2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+2x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+2x Muse				  3   ani for mel	Daughter of Cacophony:2
+
+Library (78 cards)
+Master (10)
+1x Command Performance
+1x Dreams of the Sphinx
+1x Elder Library
+1x Fear of Mekhet
+4x Hanging Fermata
+1x Paris Opera House
+1x Protected Resources
+
+Action (33)
+18x Choir
+4x Concert Tour
+6x Enchant Kindred
+5x Harmony
+
+Ally (6)
+6x Member of the Entourage
+
+Action Modifier (18)
+4x Freak Drive
+8x Missing Voice, The
+2x Phantom Speaker
+4x Virtuosa
+
+Combat (11)
+4x Majesty
+4x Skin of Steel
+3x Soak

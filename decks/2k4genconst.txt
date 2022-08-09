@@ -1,0 +1,180 @@
+GenCon - Shadow Twin
+Indianapolis, Indiana
+August 21st 2004
+3R+F
+19 players
+Ankur Gupta
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/oVShk-Cn-tA
+
+Deck Name: Kamut Krisp
+
+Begin Ankur's comments]
+
+The deck name is from an unusually terrifying cereal of the same name.
+A version of this deck was in the !Nosferatu newsletter from
+March 2004. Peter Bajika and I must share a brain, as he independently
+and simultaneously posted another very similar version of this deck in
+the Nosferatu newsletter in the same month. (This is probably bad, since
+it means I'm vulnerable to employing the Bajika Gambit. . . .) The deck
+is essentially a strong mix of intercept deterrent combat and bleeding
+at stealth. The mid/end game is strongly affected by the presence of
+the Thuggees, who exist to torpor key minions with low blood (which will
+be the case in the mid/end game). All of a sudden, the hit for three with
+the lid is extremely relevant for any deck without prevention. The deck
+truly locks into high gear with a Sabbat prey. A Sabbat predator isn't
+bad either.
+
+Here are some comments on deck construction:
+
+Of the vampires in the crypt I least like Tarbaby Jack, as his special
+isn't of great use to me. I have considered doubling up (or tripling up)
+on virtually every vampire in the crypt aside from Piotr and Ingram, but
+ultimately made no change in order to minimize bad crypt draw. . . . .
+Probably the best choice to replace him is another Kazimir, though Mariano
+Pomposo and Soldat aren't horrible choices either (but you lose the use
+of the Nosferatu Kingdom and the Information Network for these swaps).
+Usually, everyone thinks Ingram is the best vampire in the crypt, but
+they just happen to all be wrong. Piotr consistently gains about 16-20
+pool for the deck before he bites it. He is the hoss of all that is
+good and holy, but not worth three copies. You may notice that Peter
+and I share the same crypt. I originally had Korah in place of Quira,
+but once I saw his version of the deck, I decided that Peter made good
+sense on the choice and switched.
+
+I tried to make it an 80 card deck, but in most games, I do a good job
+of using most of the deck, so 90 cards seems to be the lesser of two
+evils -- I'd rather flow cards slightly more poorly than not have cards
+to flow. (Though, incidentally, this logic only works if you're decking
+yourself quite often.) Kaymakli Nightmares and Info Highway were included
+to handle a problem that I often seemed to face with this deck: too much
+free pool in my uncontrolled region. I wanted to access that pool faster
+with these cards. If I happen to draw an early Kaymakli (instead of the
+late draw I'm hoping for), it can really slow down other decks and
+increases the value of the less enabled vampires in the crypt -- Piotr,
+Roger, and the Colonel.
+
+Remover is the most golden card ever. It effectively serves as stealth
+for the Thuggees without using the precious little stealth I have, as
+well as forcing my prey to use wakes. Weeping Stone was the best
+decision I made among the masters. Not sure about the Nosferatu Kingdom,
+though it's probably solid math to keep it. I often have to fish to see
+my second !Nosferatu, but then again, I fish quite often anyway.
+I guess it makes good use of the extra Ingrams. I'd like to fit in an
+extra Corporeal Reservoir if possible. I considered Perfectionist, but
+this is a deck that not only doesn't necessarily need it, but really
+*really* doesn't want it. I don't want to give anyone any incentive to
+block/deflect anything I do. It's critical that they take the small
+bleeds and let the small bloat through. Momentum's Edge, on the other
+hand, *is* a card that would go quite well in this deck. Perhaps it
+is the swap for Nosferatu Kingdom. Dunno, though, since if the deck
+has ousted, it's probably doing just fine, but if it's not, you can
+still gain pool from Nosferatu Kingdom.
+
+I have exactly one Stunt Cycle in the deck, primarily as anti-Ivory
+Bow tech. Never saw the dratted thing all day, and I really really
+wanted it the final -- it would have saved me a trip to torpor.
+Probably not worth a second copy, though, as I'd rather have dependable
+damage most of the time. Aura Reading saved my butt at both levels
+in many games.
+
+Art of Memory is the best card in the whole freaking deck. I ousted
+several times only as a result of this card. It's stealth, combat,
+or actions -- whatever you need most -- that you decide *after* you
+draw into your replacements and see how the attempted action played
+out. Hell, you can even slap them on a bleed for one. They probably
+won't even attempt to block, because they figure you have stealth in
+your hand that you'll just take back and use on the next action. An
+outstanding card. I toyed with adding more, but they might be wasted
+slots. (Jamming on them is unlikely as you can cycle them on anything.)
+I basically want one in my hand, and I pre-emptively use it before my
+hand turns into utter crap and needs to be flushed with Aura Reading
+/ Admonitions. Incidentally, the timing of getting back Admonitions
+around the table synchs up well with the Arts. I royally screwed up
+the use of the Admonitions in the final, though. (Sorry Will!)
+
+I struggled a lot with the choice of intercept. Six Ministries is
+usually about one too many, but I always want to have one in my hand;
+six Misdirections irritates me, as I feel all sleazy and gooey when I
+bounce. But it's there nonetheless. Ideally, I'd almost like another
+Spirit's Touch for the maneuver, but I can't imagine what I'd drop
+for it. Ministry isn't a good trade, since any chump can use it (today,
+Chump = Teresita or Tarbaby), and is a whole lot of intercept at once.
+I forgot to swap out two Wakes for two Forced Awakenings, which I think
+would have helped me out a couple of times.
+
+Also, I really wanted more stealth in the deck for those situations
+when I'm bleeding a non-Sabbat prey. Adding another Cloak and
+another Swallowed (or maybe two Swalloweds to also address the
+Spirit's Touch problem) would satisfy me, I think. Dunno what I
+would/could drop for it. Maybe one Kamut for one Swallowed to start
+with, but then the deck would be less capable of bloating
+mindlessly and being named after a cereal. ;)
+
+Another interesting solution to my lack of stealth was suggested by
+R. Brian Smith and I think might just work if done well --
+Derange your prey to make them Sabbat. I have enough Malk Antis in
+the crypt to support such an idea, and it's probably worth it
+to slot in 2-3 Deranges in total. The trick is just to find a small
+enough target, since Derange only works on younger vampires.
+(Ironically enough, this might justify swapping back to Korah.)
+Even if you can't use it on your immediate prey, if someone is
+deranged down the line, it'll be good for you in the end. It has the
+side benefits of:
+a) introducing a (D) action that might be directed at you to block,
+b) either forcing them to have wakes or burning blood off of vampires
+(which give the Thuggees more tasty targets), and
+c) eliminating dangerous votes from the table.
+
+[End Ankur's comments
+
+Crypt (12 cards, min=13, max=29, avg=5.5)
+-----------------------------------------
+3x Ingram Frizer	   6   AUS OBF ani pot	    Nosferatu antitribu:3
+2x Teresita, The Godmother 7   ANI OBF POT for	    Nosferatu antitribu:3
+2x Piotr Andreikov	   2   aus		    Tzimisce:3
+1x Tarbaby Jack		   8   ANI OBF POT dom ser  Nosferatu antitribu:3
+1x Kazimir Savostin	   7   AUS VIC ani pot	    Tzimisce:3
+1x Quira, The Bitch Queen  6   AUS OBF obt tha	    Malkavian antitribu:2
+1x Colonel, The		   5   AUS cel dem obf	    Malkavian antitribu:3
+1x Roger Farnsworth	   4   OBF aus		    Malkavian antitribu:3
+
+Library (90 cards)
+Master (15; 3 trifle)
+1x Admonitions, The
+4x Blood Doll
+3x Corporal Reservoir
+1x Information Highway
+1x Information Network
+1x Kaymakli Nightmares
+1x Nosferatu Kingdom
+1x Remover
+1x Watchtower: Four Ride Forth
+1x Weeping Stone
+
+Action (18)
+9x Bloodwork
+9x Reunion Kamut
+
+Ally (6)
+6x Marijava Thuggee
+
+Action Modifier (10)
+4x Art of Memory, The
+6x Cloak the Gathering
+
+Action Modifier/Combat (7)
+7x Swallowed by the Night
+
+Reaction (25)
+6x Ministry
+5x Spirit's Touch
+6x Telepathic Misdirection
+8x Wake with Evening's Freshness
+
+Combat (8)
+2x Aura Reading
+1x Stunt Cycle
+5x Thrown Sewer Lid
+
+Event (1)
+1x Unmasking, The

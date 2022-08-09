@@ -1,0 +1,54 @@
+Smell blood in the fresh air
+Limache, Chile
+November 22nd 2008
+3R+F
+12 players
+Jackson Iribarren
+
+Deck Name: Ventrue Camarilla Political
+
+Crypt (12 cards, min=25, max=43, avg=9)
+---------------------------------------
+3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+2x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+2x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+2x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+
+Library (90 cards)
+Master (11)
+1x Direct Intervention
+1x Elysium: The Palace of Versailles
+2x Information Highway
+2x Minion Tap
+2x Secure Haven
+1x Sudden Reversal
+2x Ventrue Headquarters
+
+Action (10)
+6x Govern the Unaligned
+4x Scouting Mission
+
+Political Action (12)
+2x Banishment
+1x Disputed Territory
+6x Kine Resources Contested
+3x Parity Shift
+
+Action Modifier (28)
+4x Bewitching Oration
+2x Elder Impersonation
+6x Forgotten Labyrinth
+4x Freak Drive
+4x Lost in Crowds
+8x Voter Captivation
+
+Reaction (15)
+5x Deflection
+5x On the Qui Vive
+5x Redirection
+
+Combat (14)
+6x Majesty
+6x Rolling with the Punches
+2x Staredown

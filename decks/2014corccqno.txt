@@ -1,0 +1,91 @@
+Central Ohio Regional CCQ
+Comic Shop Plus, Newark, Ohio
+June 8th 2014
+3R+F
+15 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/7649
+
+Deck Name: (2014) Replay Value
+
+Description: This deck is about as toolboxy as I get.
+Minion text offers on-demand bleed and Orlando almost ensures votelock,
+so the deck is often able make opportunistic moves.
+
+The finals saw 4 of the 5 players in potentially winning positions as the clock wore down.
+This created incentive for an unusual number of cross-table rescues, allowing me to survive
+Hugh's relentless Ahrimane and Ossian rushing. I got a lucky VP in the end for a win as high seed.
+
+I got Rafael in my opening crypt 3 of the 4 games, which had to contribute to success. The crypt might benefit from one more copy, dropping Victor.
+
+Crypt (12 cards, min=28, max=43, avg=8.92)
+------------------------------------------
+3x Orlando Oriundus	9   AUS DOM THA obf		bishop		Tremere antitribu:4
+2x Rafael de Corazon	11  AUS CEL DOM OBF PRE		inner circle	Toreador:4
+1x Mistress Fanchon	11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+1x Montecalme		10  AUS CEL DOM PRE obt		justicar	Toreador:5
+1x Gerald Windham	9   AUS DOM FOR THA				Tremere:5
+1x Epikasta Rigatos	8   AUS DOM PRE cel		prince		Toreador:4
+1x Paul Cordwood	8   AUS DOM THA obf pre		bishop		Tremere antitribu:4
+1x Graham Gottesman	7   DOM FOR obf pre tha		prince		Ventrue:5
+1x Victor Pelletier	5   PRE cel dom for				Ventrue:4
+
+Library (73 cards)
+Master (28; 8 trifle)
+6x Ashur Tablets
+1x Bleeding the Vine -- strong in subtle ways (prevent influence of lategame minion)
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Legendary Vampire
+1x Metro Underground -- might be marginal in this deck.
+1x Monastery of Shadows
+1x Parthenon, The -- wouldn't criticize anyone opting for a 2nd Parthenon.
+1x Pentex(TM) Subversion
+6x Villein
+2x Wider View
+5x Zillah's Valley
+
+Action (8)
+1x Entrancement
+1x Exile -- underused card
+6x Govern the Unaligned
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+2x Banishment
+1x Conservative Agitation
+1x Kine Resources Contested
+2x Parity Shift
+1x Political Stranglehold
+1x Reinforcements -- should be Ancilla Empowerment
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (11)
+1x Cloak the Gathering
+1x Conditioning
+1x Faceless Night
+1x Forgotten Labyrinth
+1x Into Thin Air
+2x Perfect Paragon
+2x Veil the Legions
+2x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (7)
+3x Deflection
+2x Eyes of Argus
+2x On the Qui Vive
+
+Combat (3)
+3x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,81 @@
+LIGA_NOVA_ERA_BRASIL-AM - Kiss of Ra
+Manaus, Brazil
+January 29th 2017
+3R+F
+10 players
+Joaquim Antonio de Sant'Ana Júnior
+https://www.vekn.net/event-calendar/event/8567
+
+-- 4VP in final
+
+Deck Name: RETURN OF HADES
+Created by: JOAQUIM ANTÔNIO SANT'ANA JÚNIOR
+
+Crypt (15 cards, min=28, max=44, avg=9.2)
+-----------------------------------------
+3x Lord Tremere		 11  ANI AUS DOM THA VIC obe			Tremere:5
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+3x Dr. John Dee		 9   ANI AUS DOM THA chi	prince		Tremere:4
+3x Malgorzata		 9   AUS DOM THA VIC pre	priscus		Tremere antitribu:4
+1x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+1x Andrew Stuart	 5   AUS DOM THA				Tremere:4
+1x Claus Wegener	 5   DOM aus for tha				Tremere:5
+
+Library (90 cards)
+Master (16; 8 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Perfectionist
+4x Vessel
+4x Villein
+
+Action (8)
+1x Biothaumaturgic Experiment
+2x Govern the Unaligned
+1x Graverobbing
+1x Magic of the Smith
+1x Rutor's Hand
+2x Scouting Mission
+
+Ally (1)
+1x Ponticulus
+
+Equipment (4)
+1x .44 Magnum
+1x Ankara Citadel, Turkey, The
+1x Bowl of Convergence
+1x Sargon Fragment, The
+
+Action Modifier (6)
+4x Mind of the Wilds
+2x Mirror Walk
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (21)
+2x Deflection
+2x Eluding the Arms of Morpheus
+2x Forced Awakening
+1x My Enemy's Enemy
+5x Obedience
+2x On the Qui Vive
+3x Sense the Savage Way
+4x Telepathic Misdirection
+
+Combat (31)
+3x Aid from Bats
+3x Apportation
+1x Blood to Water
+1x Burst of Sunlight
+5x Carrion Crows
+6x Rego Motum
+1x Telepathic Tracking
+4x Terror Frenzy
+5x Theft of Vitae
+2x Thoughts Betrayed

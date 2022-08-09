@@ -1,0 +1,61 @@
+HalmiCon
+Halmstad, Sweden
+July 10th 2004
+18 players
+Henrik Oscarsson
+
+Deck Name: Crusher!
+
+Description: Crush...
+
+Crypt (12 cards, min=20, max=33, avg=6.75)
+------------------------------------------
+2x Crusher				 9   CEL POT PRE for	primogen  Brujah:1
+2x Blaise				 7   ANI CEL obf vic		  Gangrel antitribu:2
+2x Richter, The Templar of Du Mont	 7   CEL POT for pre		  Brujah antitribu:2
+2x Bianca				 6   CEL pot pre		  Brujah:1
+2x Parmenides				 4   CEL qui			  Assamite:2
+1x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	  Toreador antitribu:2
+1x Parnassus				 7   CEL QUI aus tha		  Assamite:2
+
+Library (88 cards)
+Master (19)
+7x Blood Doll
+1x Carver's Meat Packing and Storage
+1x Erciyes Fragments, The
+3x Fame
+1x KRCG News Radio
+1x Leadership Vacuum
+1x Path of Lilith, The
+1x Rumor Mill, Tabloid Newspaper, The
+2x Tension in the Ranks
+1x WMRH Talk Radio
+
+Action (10)
+1x Aranthebes, The Immortal
+9x Bum's Rush
+
+Equipment (3)
+3x Sport Bike
+
+Retainer (2)
+2x Mr. Winthrop
+
+Reaction (8)
+7x Forced Awakening
+1x Pack Tactics
+
+Combat (46)
+6x Blur
+4x Disarm
+2x Fast Hands
+9x Immortal Grapple
+2x Preternatural Evasion
+1x Psyche!
+2x Pulled Fangs
+6x Pursuit
+5x Sideslip
+5x Taste of Vitae
+1x Torn Signpost
+1x Weighted Walking Stick
+2x Zip Gun

@@ -1,0 +1,80 @@
+Weather Control
+Karlstad, Sweden
+June 19th 2010
+3R+F
+14 players
+Adam Esbjörnsson
+
+Deck Name: "If I would make a preconstructed starter..."
+
+Description: Idea of the deck from Isak Esbjörnsson Bjärmark, who in
+turn built his deck on someone elses idea, I think.
+
+Crypt (12 cards, min=10, max=21, avg=4)
+---------------------------------------
+1x Reverend Blackwood	6   DOM THA obf	 bishop	 Tremere antitribu:2
+1x Aisling Sturbridge	5   AUS THA dom	 	 Tremere:2
+1x Hannigan		5   AUS THA dom	 	 Tremere antitribu:2
+1x Kurt Strauss		5   DOM aus tha	 	 Tremere antitribu:2
+1x Merrill Molitor	5   THA aus dom	 	 Tremere:1
+1x Ignatius		4   aus dom tha	 	 Tremere:1
+1x Sarah Cobbler	4   THA dom	 	 Tremere:1
+1x Thelonius		4   aus dom tha	 	 Tremere antitribu:2
+1x Brooke		3   dom tha	 	 Tremere antitribu:2
+1x Jing Wei		3   dom tha	 	 Tremere:1
+1x Heinrick Schlempt	2   tha		 	 Tremere antitribu:2
+1x Roreca Quaid		2   tha		 	 Tremere:1
+
+Library (76 cards)
+Master (25; 5 trifle)
+1x Academic Hunting Ground
+1x Anarch Troublemaker
+1x Arcane Library
+1x Charisma
+2x Direct Intervention
+1x Dominate
+1x Dreams of the Sphinx
+1x Fortschritt Library
+1x Giant's Blood
+1x Jake Washington
+1x Misdirection
+4x Parthenon, The
+1x Pentex(TM) Subversion
+1x Society of Leopold
+1x Spirit Summoning Chamber
+1x University Hunting Ground
+5x Vessel
+
+Action (10)
+8x Govern the Unaligned
+2x Magic of the Smith
+
+Ally (7)
+1x Carlton Van Wyk
+1x Gregory Winter
+2x Nephandus
+1x Ossian
+1x Ponticulus
+1x Young Bloods
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Retainer (1)
+1x Charnas the Imp
+
+Action Modifier (7)
+3x Conditioning
+4x Mirror Walk
+
+Reaction (20)
+10x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+5x Wake with Evening's Freshness
+
+Event (4)
+1x Anthelios, The Red Star
+1x Rising, The
+1x Uncoiling, The
+1x Unmasking, The

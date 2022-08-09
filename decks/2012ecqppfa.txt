@@ -1,0 +1,75 @@
+French ECQ
+Paris, France
+August 25th 2012
+3R+F
+20 players
+Vincent Ripoll
+
+-- 3VP in final
+
+Deck Name: Enkidu PRO CEL
+
+I got some inspiration from Aleksi Nuora's TWD to build this one.
+Protean and Celerity are great costless polyvalent combat
+disciplines (there are only 3 Claws that cost blood amongst
+the 60 combat cards). I playtested and tweaked it lots of
+time during our weekly session (thanks to my patient victims)
+and I'm quite happy about it.
+
+Enkidu in 5 copies sometimes didn't show up. I added one copy (with a 13-crypt card to draw more side-kicks)
+
+Master come quite quickly because you cycle lots of cards.
+--You can even jam with master even there are only 11 of them, but it's quite rare.
+
+Crypt (13 cards, min=7, max=44, avg=6.31)
+-----------------------------------------
+6x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+2x Andre LeRoux	    3	aus			 Toreador:5
+1x T.J.		    3	cel for			 Gangrel:4
+1x Clifton Derrik   2	cel			 Brujah:4
+1x Leo Washington   2	cel pro			 Gangrel antitribu:4
+1x Sean Andrews	    2	cel			 Toreador:4
+1x Iris Bennett	    1	pro			 Caitiff:5
+
+Library (90 cards)
+Master (11; 2 trifle)
+4x Blood Doll -- slow pool gain and blood management to feed Enkidu.
+1x Guardian Angel -- the permanent "prevent 1" is a real life saver.
+1x Monster -- permanent untap
+1x Pentex(TM) Subversion -- for contest or to lock an annoying minion (Ponticulus or the guy with the gun). Can also slow down your predator when you don't have Enkidu yet)
+2x Sudden Reversal -- To be kept against Pentex, Temptation of Greater Power etc.
+2x Wider View
+
+Action (8)
+1x Aranthebes, The Immortal -- as always, to contest or to give me some protection against weenie decks (or even intercept... it's a great card)
+1x Bum's Rush
+1x Deep Song
+1x Heroic Might -- makes some combat easier, but is not vital
+2x Rumble
+1x Sense Death
+1x Taunt the Caged Beast
+
+Equipment (1)
+1x Gran Madre di Dio, Italy -- against Tupdogs, Nocturns...
+
+Retainer (2)
+1x Homunculus -- not vital, but useful once you have Enkil Cog
+1x Raven Spy -- helpful, but not vital.
+
+Action Modifier (2)
+2x Enkil Cog -- allows permanent multirush and can give the edge during's your predator's turn. The +1 bleed is great also. Really a key card.
+
+Reaction (6)
+6x Sense the Savage Way -- to block of course, but protects also against Rötschreck/Mind Numb/Sensory Deprivation
+
+Combat (60)
+3x Canine Horde -- why play Drawing when you can get rid of that Ivory Bow/.44 Magnum or Heart of Nizchetus?
+3x Claws of the Dead -- should always be used to burn vampires. Can get rid of Ponticulus/Tye/Ambrosius
+9x Earth Meld -- defensive, untap, works well with Psyche! and is free. Can't ask for more
+2x Flesh of Marble -- cycles easily, handles War Ghoul/Carrion/.44 blur etc.
+1x Infernal Pursuit -- useful when you need to draw some key cards or discard master that clog the hand
+16x Psyche! -- key card, even 16 are sometimes not enough
+11x Pursuit
+2x Skin of Steel
+4x Stutter-Step -- saves slots, can be used by the sidekicks to dodge
+9x Taste of Vitae

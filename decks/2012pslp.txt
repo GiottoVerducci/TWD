@@ -1,0 +1,52 @@
+Praxis Seizure: Leiria
+Leiria, Portugal
+October 13th 2012
+2R+F
+12 players
+Patrick Gordo
+
+Deck Name: Shadowfang
+
+Crypt (12 cards, min=18, max=24, avg=5.5)
+-----------------------------------------
+3x Morel		6   AUS DEM OBF			  Malkavian:4
+2x Gem Ghastly		6   DEM OBF aus		primogen  Malkavian:5
+2x Hagar Stone		6   AUS DEM obf			  Malkavian antitribu:5
+2x Arthur Denholm	5   AUS DEM obf			  Malkavian:5
+1x Drusilla Euphemia	6   AUS OBF dem vic		  Malkavian antitribu:4
+1x Apache Jones		5   DEM aus for obf		  Malkavian antitribu:4
+1x Bela			3   DEM ani obf pro		  Malkavian:5
+
+Library (81 cards)
+Master (11; 2 trifle)
+1x Barrens, The
+1x Blood Doll
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Pentex(TM) Subversion
+3x Sudden Reversal
+2x Vessel
+
+Action (17)
+16x Kindred Spirits
+1x Restructure
+
+Action Modifier (31)
+3x Cloak the Gathering
+8x Confusion
+3x Elder Impersonation
+7x Eyes of Chaos
+2x Faceless Night
+3x Lost in Crowds
+5x Spying Mission
+
+Action Modifier/Combat (7)
+3x Deny
+4x Swallowed by the Night
+
+Reaction (15)
+2x Delaying Tactics
+3x My Enemy's Enemy
+3x On the Qui Vive
+5x Telepathic Misdirection
+2x Wake with Evening's Freshness

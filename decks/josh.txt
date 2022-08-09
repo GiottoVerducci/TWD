@@ -1,0 +1,85 @@
+UBCon
+Buffalo, New York
+April 11th 1997
+3R+F
+8 players only
+Josh Duffin
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/PZWJcpGKjoI/m/2bfSNe6ho3cJ
+
+...Which reminds me that despite your inveigling I never did post my
+UBCon Tourney-winning deck, which was also a combat deck, though not so very
+involved as the four-discipline Marty deck. So here's the listing:
+
+The idea is really pretty obvious: get into combat, beat the crap out of
+some poor vampire, taste their vitae to refill your vamp. The combat
+section is a little on the repetitive side, but that's what seems to be
+effective. And it was very effective, especially the Immortal Grapples: it
+seemed like most people at the tourney hadn't seen IG used very extensively
+before, while, in my group, it has become the staple of most combat decks due
+to its ability to beat strike:combat ends and dodge.
+
+The Archon Investigation, cheesy trump card that it is, saved my ass a couple
+times when the "Meet my unblockable Return to Innocence" deck came over to
+bleed me for 11 for more. I was lucky enough to have it in hand at the right
+time, and so I got its benefit (even though, at least once, that just got
+Basilia with her two skill cards turned into some IC member via the old
+Soul Gem), which was of course tremendous. I would almost certainly have
+lost the final (championship) game if I had not drawn my AI quite early, and
+knowing that my predator was the RTI deck, held it until I needed it.
+
+The 3 princes are somewhat important for the vote angle that was meant to
+give me some sort of edge over "standard" combat deck operations. As it
+turned out, the vote angle never really paid off during the tournament - I
+only managed to use Anathema a couple times, and never really got any mileage
+out of the Con Boons. But I still think it was a good idea...
+library: 90 cards (the maximum we allowed; the tourney was DCI rules, with
+a few cards banned - paralyze cards from the Jyhad set, plus Succubus Club,
+Monocle, and I think that was about it.)
+
+Crypt (13 cards, min=10, max=24, avg=4.23)
+------------------------------------------
+2x Anvil			6   CEL POT dom pre tha	 primogen  Brujah:1
+2x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
+2x Dre, Leader of the Cold Dawn	3   cel pot		 	   Brujah:1
+1x Bianca			6   CEL pot pre		 	   Brujah:1
+1x Rake				6   PRE aus cel pot	 prince	   Brujah:1
+1x Jimmy Dunn			4   CEL POT for		 	   Pander:2
+1x Yuri, The Talon		4   cel pot pre		 	   Brujah:1
+1x Jacob Bragg			3   cel pot		 	   Brujah antitribu:2
+1x KoKo				2   pot			 	   Nosferatu:1
+1x Lupo				2   pot			 	   Brujah:1
+
+Library (90 cards)
+Master (14)
+1x Archon Investigation
+1x Blood Doll
+3x Celerity
+1x Fragment of the Book of Nod
+4x Haven Uncovered
+4x Potence
+
+Action (11)
+3x Ambush
+7x Bum's Rush
+1x Rampage
+
+Political Action (8)
+3x Anathema
+3x Consanguineous Boon
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Washington, D.C.
+
+Combat (57)
+2x Acrobatics
+3x Blur
+1x Fists of Death
+8x Flash
+9x Immortal Grapple
+1x Increased Strength
+2x Pulled Fangs
+1x Pursuit
+2x Side Strike
+3x Sideslip
+7x Taste of Vitae
+9x Torn Signpost
+9x Undead Strength

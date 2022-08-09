@@ -1,0 +1,75 @@
+Garou Rim: Antediluvian Awakening
+Joensuu, Finland
+August 1st 2020
+3R+F
+16 players
+Tommi Hakomaa
+https://www.vekn.net/event-calendar/event/9646
+
+-- 1GW4 + 3VP in final
+
+Deck Name: Tupdog & Nephandus
+
+Back from quarantine!
+
+Extremely hard games trough the whole tournament. Surprisingly no one scored
+two Game Wins, and 10 players in total had 1GW.
+
+Big thanks to everyone joining us from the Helsinki area once again!
+
+Finals Seating:
+
+ Timo Tahvanainen (Saulot + Inner Circles Bleed/Vote) -->
+ Marko Saari (Akunanse Toolbox) -->
+ Mari Tiippana (Weenie Dementation) -->
+ Tommi Hakomaa (Tupdogs + Nephandus) -->
+ Simo Tiippana (Unmada + Undele Vote)
+
+
+Martin Weinmayer's deck with tiny modification
+
+Crypt (25 cards, min=4, max=20, avg=2.16)
+-----------------------------------------
+16x Tupdog		1    POT VIS		Gargoyle:3
+5x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+1x  Janine		4    aus dom tha	Tremere antitribu:4
+1x  Ember Wright	3    aus dom		Tremere antitribu:3
+1x  Keith Moody		3    DOM		Tremere antitribu:4
+1x  Saiz		3    aus dom		Tremere antitribu:3
+
+Library (87 cards)
+Master (30; 2 trifle)
+12x Ashur Tablets
+1x Direct Intervention
+4x Dreams of the Sphinx
+2x Haven Uncovered
+2x Information Highway
+5x Parthenon, The
+1x Powerbase: Montreal
+2x Wider View
+1x Yawp Court
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (8)
+8x Nephandus
+
+Action Modifier (1)
+1x Conditioning
+
+Reaction (12)
+7x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+
+Combat (32)
+6x Brick by Brick
+8x Immortal Grapple
+8x Raking Talons
+4x Target Vitals
+6x Torn Signpost
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

@@ -1,0 +1,69 @@
+Crusade: Kosice
+Kosice, Slovakia
+December 12th 2001
+Karol Magda
+
+Deck Name: Omaya
+
+Description: Your aim is to get last 3VP on the table , agitate the
+table to slow things down so you can build up your force , bring out
+at least four minions and try to avoid pool loss. Be nice to your
+predator and only block him , do not kill his vampires unless it's
+necessary, doing so you can avoid his last spite when he will be dying.
+Don't let your prey gain pool if it is possible and bleed for a lot.
+Use eagle's sights only as an emergency intercept, otherwise
+reserve it for cross table threats (or ousting bleed of your prey).
+
+Crypt (12 cards, min=9, max=25, avg=4.25)
+-----------------------------------------
+2x Omaya	  7   ANI AUS FOR pro	Gangrel antitribu:2
+2x Devin Bisley	  5   ANI AUS vic	Tzimisce:2
+1x Caliban	  6   ANI AUS VIC	Tzimisce:2
+1x Bear Paw	  5   ANI for pre pro	Gangrel:1
+1x Terrence	  4   ani aus vic	Tzimisce:2
+1x Isabel de Leon 3   AUS		Toreador:2
+1x Wendy Wade	  3   ani aus		Tzimisce:2
+1x Dani		  2   ani		Nosferatu antitribu:2
+1x Gillian Krader 2   ani dem		Pander:2
+1x Vliam Andor	  2   ani		Gangrel:1
+
+Library (70 cards)
+Master (12)
+1x Anarch Troublemaker
+4x Blood Doll
+1x Giant's Blood
+1x Guardian Angel
+1x Jake Washington
+1x KRCG News Radio
+1x Metro Underground
+1x Powerbase: Montreal
+1x Rack, The
+
+Action (6)
+1x Army of Rats
+4x Computer Hacking
+1x Revelations
+
+Ally (2)
+1x War Ghoul
+1x Wendell Delburton
+
+Retainer (6)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+3x Raven Spy
+1x Tasha Morgan
+
+Reaction (30)
+5x Cats' Guidance
+3x Eagle's Sight
+3x Enhanced Senses
+7x Forced Awakening
+3x Guard Dogs
+2x Melange
+3x My Enemy's Enemy
+4x Telepathic Misdirection
+
+Combat (14)
+8x Aid from Bats
+6x Carrion Crows

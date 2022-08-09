@@ -1,0 +1,67 @@
+Those Who Endure Judge
+Troll2jeux, Paris, France
+March 2nd 2008
+3R+F
+20 players
+Orian Gissler
+
+Deck Name: Anarch diversion
+
+Description: Sentences to say when playing the deck:
+"Shit, I knew I should have played three restricted vitae
+to draw it early, you know"
+"Virginie prodigy is crap because she can't become anarch, you know"
+"I play many cards that are useless against Imbued, you know"
+
+Crypt (12 cards, min=12, max=29, avg=5.17)
+------------------------------------------
+2x Conrad Adoula	    8	DOM OBT POT ani cel		Lasombra:4
+2x Leila Monroe		    4	dom obt pre			Lasombra:4
+1x Henri Lavenant	    7	DOM OBT pot qui			Lasombra:3
+1x Onaedo		    6	DOM OBT aus pot			Lasombra:4
+1x Virginie, Prodigy	    6	DOM POT obt		bishop	Lasombra:4
+1x Banjoko		    5	DOM obt pot			Lasombra:3
+1x Dr. Julius Sutphen (ADV) 5	POT dom obt			Lasombra:3
+1x Ermenegildo, The Rake    5	DOM OBT pot			Lasombra:4
+1x Lucy Markowitz	    3	dom obt				Lasombra:4
+1x Margarite		    1	obt				Pander:4
+
+Library (80 cards)
+Master (14; 4 trifle)
+4x Anarch Revolt
+1x Elysian Fields
+1x Jake Washington
+1x Misdirection
+1x Pentex(TM) Subversion
+1x Political Hunting Ground
+1x Power Structure
+4x Vessel
+
+Action (19)
+6x Go Anarch
+9x Govern the Unaligned
+2x Mind Rape
+2x Shadow Twin
+
+Equipment (1)
+1x Zaire River Ferry
+
+Political Action (6)
+2x Domain Challenge
+4x Free States Rant
+
+Action Modifier (23)
+2x Blanket of Night
+2x Bonding
+5x Conditioning
+2x Foreshadowing Destruction
+4x Shadow Play
+4x Shroud of Absence
+4x Shroud of Night
+
+Reaction (12)
+8x Deflection
+4x On the Qui Vive
+
+Combat (5)
+5x Shadow Body

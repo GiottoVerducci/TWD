@@ -1,0 +1,55 @@
+Domain of Evernight
+Sherbrooke, Quebec
+November 10th 2007
+3R+F
+16 players
+Martin Tremblay
+
+Deck Name: Reckless Ssssssssnakes of Sirius
+
+Description: No need ;-)
+
+Crypt (12 cards, min=16, max=40, avg=7.67)
+------------------------------------------
+4x Nakhthorheb	  10  OBF PRE SER			 Follower of Set:4
+4x Neferu	  9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
+4x Michael Luther 4   aus pre				 Toreador:3
+
+Library (85 cards)
+Master (18)
+3x Blood Doll
+1x Direct Intervention
+3x Dreams of the Sphinx
+9x Eternals of Sirius, The
+2x Ferraille
+
+Action (4)
+2x Blithe Acceptance
+2x Heart of the City
+
+Ally (2)
+2x Mylan Horseed
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (13)
+1x Banishment
+1x Hierophant
+11x Reckless Agitation
+
+Action Modifier (35)
+1x Approximation of Loyalty
+10x Awe
+2x Elder Impersonation
+4x Forgotten Labyrinth
+3x Into Thin Air
+4x Lost in Crowds
+1x Veil the Legions
+10x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Combat (8)
+8x Majesty

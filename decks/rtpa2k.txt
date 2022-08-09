@@ -1,0 +1,83 @@
+Tournament
+Portsmouth, England
+August 5th 2000
+Rob Treasure
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xg7Q_kWT4l4
+
+Deck Name: ' I'll be your dog !'
+
+Description: Block and slaughter, fixed bleed, lots of nasty surprises.
+Does not like S:CE but can block regularly enough to give it huge
+problems. An interesting and fun deck to play - have to take a few
+risks, too easy to sit tight and remain reactive. Meshenka is my
+firm favourite, backed up by a stack of other great vamps (Dragos,
+Lambach, weenie bleed/blockers and of course Devin Bisley and her
+PMT charged big sister Corine.)
+
+Crypt (12 cards, min=9, max=33, avg=5.33)
+-----------------------------------------
+2x Meshenka	  8   ANI AUS VIC	   priscus	Tzimisce:2
+2x Dragos	  7   ANI AUS vic	   		Tzimisce:2
+1x Lambach	  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
+1x Corine Marcón  6   AUS VIC ani	   		Tzimisce:2
+1x Devin Bisley	  5   ANI AUS vic	   		Tzimisce:2
+1x Lolita Houston 4   VIC aus		   		Tzimisce:2
+1x Isabel de Leon 3   AUS		   		Toreador:2
+1x Wendy Wade	  3   ani aus		   		Tzimisce:2
+1x Horatio	  2   vic		   		Tzimisce:2
+1x Franciscus	  1   aus		   		Caitiff:2
+
+Library (90 cards)
+Master (16)
+3x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Guardian Angel
+1x Hungry Coyote, The
+1x Legendary Vampire
+1x Minion Tap
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+2x Vicissitude
+
+Action (2)
+1x Army of Rats
+1x Revelations
+
+Ally (1)
+1x War Ghoul
+
+Equipment (3)
+1x Femur of Toomler
+2x Leather Jacket
+
+Retainer (6)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Owl Companion
+2x Revenant
+1x Tasha Morgan
+
+Action Modifier (5)
+5x Changeling
+
+Reaction (23)
+2x Cats' Guidance
+2x Eagle's Sight
+3x Enhanced Senses
+10x Forced Awakening
+2x My Enemy's Enemy
+2x Precognition
+2x Telepathic Misdirection
+
+Combat (34)
+4x Aid from Bats
+6x Blood of Acid
+6x Carrion Crows
+5x Drawing Out the Beast
+4x Horrid Form
+5x Taste of Vitae
+4x Trap

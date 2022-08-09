@@ -1,0 +1,60 @@
+Chilean NC 2018 - Christmas massacre
+Santiago, Chile
+December 15th 2018
+3R+F
+16 players
+Miguel Angel Vasquez
+https://www.vekn.net/event-calendar/event/9086
+
+-- 1GW5 + 3VP in final
+
+Deck Name: toreador grand ball
+
+Description: AAA
+
+Crypt (15 cards, min=17, max=43, avg=8.27)
+------------------------------------------
+4x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+3x Isabel de Leon  3   AUS					Toreador:2
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+
+Library (90 cards)
+Master (25; 6 trifle)
+2x Dreams of the Sphinx
+2x Information Highway
+1x Marrakesh Codex, The
+2x Sudden Reversal
+8x Toreador Grand Ball
+2x Vessel
+4x Villein
+4x Zillah's Valley
+
+Action (1)
+1x Judgment: Camarilla Segregation
+
+Political Action (20)
+4x Banishment
+2x Conservative Agitation
+1x First Tradition: The Masquerade
+6x Kine Resources Contested
+6x Parity Shift
+1x Reins of Power
+
+Action Modifier (14)
+2x Awe
+4x Bewitching Oration
+8x Voter Captivation
+
+Action Modifier/Reaction (4)
+4x Scalpel Tongue
+
+Reaction (16)
+4x Eyes of Argus
+4x Second Tradition: Domain
+8x Telepathic Misdirection
+
+Combat (10)
+4x Charismatic Aura
+6x Majesty

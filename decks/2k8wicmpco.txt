@@ -1,0 +1,68 @@
+WIcmp: Columbus
+The Guardtower, Columbus, Ohio
+June 4th 2008
+2R+F
+10 players
+Mark Loughman
+
+Deck Name: Two-Fisted Hand Tools
+
+As I write this up I notice I have 88 cards instead of 90, and since I
+was decked 2 of my 3 games I should probably address this! Blood
+management can be an issue and getting off a well-timed Festivo 2 of
+the 3 games was key. Mind Rape was less useful than I
+anticipated...probably better off with Scouting Missions to increase
+my crypt-machine mechanism early in the game. Deep Cover Agent is
+handy when I remember to actually use it! Card flow is handled with
+Heart and the 3 Dreams, but there were a couple of times I had to play
+through some ugly clumping. A few more permanents are probably in
+order, particularly Guarded Rubrics and a weapon or two.
+
+Crypt (12 cards, min=21, max=44, avg=7.92)
+------------------------------------------
+4x Elimelech the Twice-Damned	11  AUS DEM DOM FOR OBF pro	Ventrue antitribu:5
+2x White Lily			8   DEM OBF cel dom for		Malkavian antitribu:4
+2x Marge Khan			7   DEM OBF POT aus for		Malkavian antitribu:5
+2x Kestrelle Hayes		6   AUS dom for obt		Ventrue antitribu:5
+1x Hagar Stone			6   AUS DEM obf			Malkavian antitribu:5
+1x Lubomira Hradok		3   OBF				Nosferatu antitribu:5
+
+Library (88 cards)
+Master (9)
+3x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Festivo dello Estinto
+1x Giant's Blood
+2x Perfectionist
+1x Watchtower: Four Ride Forth
+
+Action (22)
+1x Deep Cover Agent
+6x Govern the Unaligned
+6x Kindred Spirits
+2x Mind Rape
+5x Reunion Kamut
+2x Tattoo Signal
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Leather Jacket
+
+Action Modifier (30)
+7x Cloak the Gathering
+4x Confusion
+7x Freak Drive
+2x Seduction
+4x Seraph's Second
+6x Veil the Legions
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (16)
+6x Deflection
+2x Telepathic Misdirection
+8x Wake with Evening's Freshness
+
+Combat (4)
+4x Rolling with the Punches

@@ -1,0 +1,76 @@
+French ECQ
+Lille, France
+March 31st 2013
+3R+F
+20 players
+Mehdi Mazni
+
+Deck Name: Shalmath History
+Created by: Julien Ohler
+
+Crypt (12 cards, min=4, max=40, avg=5.67)
+-----------------------------------------
+6x Shalmath	  10  POT PRE TEM  True Brujah:6
+1x Andre LeRoux	  3   aus	   Toreador:5
+1x Anarch Convert 1   -none-	   Caitiff:ANY
+1x Donald Cargill 1   aus	   Caitiff:5
+1x Freddy Gage	  1   pot	   Caitiff:5
+1x Iris Bennett	  1   pro	   Caitiff:5
+1x Walker Grimes  1   ani	   Caitiff:5
+
+Library (85 cards)
+Master (13; 2 trifle)
+1x Dark Influences
+1x Giant's Blood
+2x Obfuscate
+2x Pentex(TM) Subversion
+2x Perfectionist
+1x Powerbase: Montreal
+1x Rack, The
+1x Tabriz Assembly
+2x Wider View
+
+Action (16)
+1x Entrancement
+2x Hourglass of the Mind
+1x Path of the Scorched Heart, The
+10x Summon History
+2x Vaticination
+
+Ally (5)
+1x Muddled Vampire Hunter
+1x Political Ally
+1x Ponticulus
+1x Remnant of the Endless Storm
+1x Tye Cooper
+
+Equipment (10)
+1x AK-47
+1x Ankara Citadel, Turkey, The
+1x Camera Phone
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sacré-Cœur Cathedral, France
+1x Sargon Fragment, The
+1x Signet of King Saul, The
+1x Sport Bike
+1x Talbot's Chainsaw
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (16)
+13x Domain of Evernight
+3x Enkil Cog
+
+Reaction (4)
+4x Rewind Time
+
+Combat (18)
+6x Decapitate
+2x Disarm
+10x Outside the Hourglass
+
+Event (2)
+1x Slow Withering, The
+1x Unmasking, The

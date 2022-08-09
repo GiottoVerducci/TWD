@@ -1,0 +1,96 @@
+Baltimore Purge
+Glen Burnie, Maryland
+February 8th 2003
+15 players
+Dan Keller
+
+Deck Name: Guns Don't Kill People, Vampires Do
+
+Dan Keller of Washington, DC was declared the winner with 1.5 victory
+points in the Finals of the Baltimore Purge VTES Tournament February 8,
+2003. The game went to time after 16-turns. Survivors of the final
+(in order) with 0.5VP each, were: Jason Babbit of Manassas, VA; Greg
+Williams of Elkton, MD; and Blake Stewart of Hanover, MD. Josh Duffin
+of Bethesda, MD made an early exit (ouch!) in the finals after
+finishing the preliminaries with the highest ranking.
+
+The tournament was held at Games and Comics
+and Stuff in Beautiful
+Downtown Glen Burnie, MD. Fifteen Methuselahs came from Virginia,
+Maryland, Pennsylvania, and Washington, D.C. to play and grab a copy of
+the Wind Dance promo card.
+
+Description: Nosferatu Anti-Gun Combat/Toolbox
+
+Comments: I created this deck in response to the growing regularity of
+guns in our local (Washington, DC) play environment. The Thrown Gates
+were a recent addition to the deck, and I found during the course of
+play that the DOtBs were pretty much useless when I could strike at
+long range. So I will probably dump the DOtB's. Patagia will probably
+go too.
+
+The full discription of the final and Glen Burnie event may be found at
+http://www.angelfire.com/me/do30red/Feb03.html
+
+Crypt (12 cards, min=10, max=34, avg=5.67)
+------------------------------------------
+2x Amelia		7   CEL POT PRE		 bishop	   Brujah antitribu:2
+2x Calebros, The Martyr	5   ANI obf pot		 prince	   Nosferatu:2
+2x Darva Felispa	3   ani pot		 	   Nosferatu:3
+2x Mouse		2   ani			 	   Nosferatu:3
+1x Cock Robin		10  ANI OBF POT aus for	 justicar  Nosferatu:3
+1x Casino Reeds		9   ANI OBF POT cel dem	 prince	   Nosferatu:3
+1x Tammy Walenski	8   ANI OBF POT nec tha	 	   Nosferatu:3
+1x Jara Drory		7   ANI OBF aus pot	 primogen  Nosferatu:3
+
+Library (90 cards)
+Master (18)
+2x Animalism
+2x Archon Investigation
+3x Blood Doll
+2x Frenzy
+1x KRCG News Radio
+1x Obfuscate
+1x Potence
+1x Slum Hunting Ground
+1x Special Report
+2x Sudden Reversal
+2x Tribute to the Master
+
+Action (8)
+2x Army of Rats
+3x Computer Hacking
+1x Patagia: Flaps Allowing Limited Flight
+2x Tier of Souls
+
+Equipment (1)
+1x Laptop Computer
+
+Retainer (5)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Owl Companion
+2x Raven Spy
+
+Action Modifier (6)
+2x Cloak the Gathering
+2x Faceless Night
+2x Lost in Crowds
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (13)
+7x Cats' Guidance
+2x Guard Dogs
+4x Wake with Evening's Freshness
+
+Combat (37)
+6x Canine Horde
+6x Carrion Crows
+5x Drawing Out the Beast
+4x Increased Strength
+1x Shattering Blow
+5x Taste of Vitae
+5x Thrown Gate
+5x Undead Strength

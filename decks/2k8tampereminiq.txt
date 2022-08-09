@@ -1,0 +1,48 @@
+MQ
+Tampere, Finland
+July 5th 2008
+19 players
+Heikki Palomäki
+
+-- 3VP in final
+
+Deck Name: Shame of deckbuilding
+
+Crypt (12 cards, min=19, max=28, avg=5.83)
+------------------------------------------
+2x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
+2x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
+2x Didi Meyers		5   DOM aus cel obf		Malkavian:1
+2x Zebulon		5   OBF aus dom pro		Malkavian:1
+1x Greger Anderssen	7   AUS OBF dom pro	prince	Malkavian:2
+1x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
+1x Count Ormonde	5   OBF dom pre ser		Follower of Set:2
+1x Roland Bishop	4   aus dom obf			Malkavian:1
+
+Library (90 cards)
+Master (13)
+1x Barrens, The
+1x Direct Intervention
+3x Dreams of the Sphinx
+2x Pentex(TM) Subversion
+6x Sudden Reversal
+
+Action (16)
+16x Govern the Unaligned
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (31)
+12x Conditioning
+4x Faceless Night
+7x Lost in Crowds
+8x Spying Mission
+
+Action Modifier/Combat (12)
+12x Swallowed by the Night
+
+Reaction (17)
+9x Deflection
+3x On the Qui Vive
+5x Wake with Evening's Freshness

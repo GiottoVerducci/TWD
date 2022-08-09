@@ -1,0 +1,52 @@
+Un viaje inesperado
+Palma de Mallorca, Spain
+January 20th 2013
+3R+F
+16 players
+Carlos Tomás Arán
+
+-- 5VP in final
+
+Deck Name: The Remarkable Beauty of the Dog/Warghoul Synergy
+Created by: Ginés Quiñonero (tweaked by Carlos Tomás)
+
+Crypt (13 cards, min=4, max=33, avg=4.38)
+-----------------------------------------
+4x Nana Buruku		8   ANI POT PRE			Guruhi:4
+4x Anarch Convert	1   -none-			Caitiff:ANY
+1x Aksinya Daclau	9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
+1x Guedado		4   aus obf vic			Tzimisce:4
+1x Droescher One-Eye	3   ani vic			Tzimisce:4
+1x Ilias cel Frumos	3   aus vic			Tzimisce:4
+1x Piotr Andreikov	2   aus				Tzimisce:3
+
+Library (72 cards)
+Master (42; 6 trifle)
+2x Direct Intervention
+1x Fortschritt Library
+1x Giant's Blood
+2x Golconda: Inner Peace
+8x Jake Washington
+2x Lilith's Blessing
+5x Parthenon, The
+12x Piper
+3x Twilight Camp
+6x Villein
+
+Ally (21)
+1x Carlton Van Wyk
+1x Mylan Horseed
+8x Underbridge Stray
+3x Vagabond Mystic
+8x War Ghoul
+
+Retainer (4)
+2x J. S. Simmons, Esq.
+2x Tasha Morgan
+
+Event (5)
+1x Anthelios, The Red Star
+1x Break the Code
+1x Slow Withering, The
+1x Unmasking, The
+1x Veil of Darkness

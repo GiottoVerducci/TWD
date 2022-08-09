@@ -1,0 +1,72 @@
+Louisiana Qualifier
+Lafayette, Louisiana
+March 24th 2007
+3R+F
+15 players
+David Tatu
+
+-- 4VP in final
+
+Deck Name: John's Powerless
+
+Created after Witness1
+
+Crypt (12 cards, min=16, max=20, avg=4.33)
+------------------------------------------
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x Jennifer "Flame61" Vidisania	4   ven viz	 Avenger:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
+1x Maman Boumba			4   inn mar	 Martyr:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+
+Library (90 cards)
+Master (12; 1 trifle)
+4x Angel of Berlin
+1x Archon Investigation
+1x Church of Vindicated Faith, The
+3x Direct Intervention
+1x Filchware's Pawn Shop
+1x Rose Foundation, The
+1x Specialization
+
+Conviction (22)
+6x React with Conviction
+7x Second Sight
+9x Strike with Conviction
+
+Action (1)
+1x Bum's Rush
+
+Ally (5)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Mylan Horseed
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (23)
+1x Crusader Sword, The
+12x Flash Grenade
+1x Ivory Bow
+1x Leather Jacket
+8x Wooden Stake
+
+Power (2)
+1x Champion
+1x Discern
+
+Reaction (1)
+1x Poison Pill
+
+Combat (20)
+20x Concealed Weapon
+
+Event (4)
+1x Edge Explosion
+1x Thirst
+1x Torpid Blood
+1x Unmasking, The

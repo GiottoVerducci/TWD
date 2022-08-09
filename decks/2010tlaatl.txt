@@ -1,0 +1,73 @@
+Tragic Love Affair
+Stone Mountain, Atlanta, Georgia
+March 13th 2010
+2R+F
+12 players
+Mattias Kallenberg
+
+-- 3VP in final
+
+Deck Name: We Throw Parties, You Throw Knives
+
+Crypt (12 cards, min=16, max=16, avg=4)
+---------------------------------------
+3x Jennifer "Flame61" Vidisania	4   ven viz	Avenger:4
+3x John "Cop90" O'Malley	4   jud ven	Avenger:4
+3x Lupe "Cabbie22" Droin	4   def ven	Defender:4
+3x Pedro Cortez			4   mar ven	Avenger:4
+
+Library (90 cards)
+Master (14)
+7x Angel of Berlin
+1x Archon Investigation
+1x Barrens, The
+2x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Pentex(TM) Subversion
+1x Tension in the Ranks
+
+Conviction (18)
+7x React with Conviction
+5x Second Sight
+6x Strike with Conviction
+
+Action (8)
+2x Ambush
+2x Arson
+2x Bum's Rush
+2x Harass
+
+Ally (1)
+1x Vagabond Mystic
+
+Equipment (19)
+2x Crusader Sword, The
+8x Dagger
+2x Flak Jacket
+3x Hawg
+1x Ivory Bow
+1x Joumlon's Axe
+1x Kevlar Vest
+1x Living Wood Staff
+
+Power (4)
+1x Rejuvenate
+2x Surge
+1x Vigilance
+
+Reaction (3)
+3x On the Qui Vive
+
+Combat (20)
+8x Cleave
+2x Dead-End Alley
+2x Fake Out
+3x Pulled Fangs
+1x Target Hand
+2x Target Vitals
+2x Trap
+
+Event (3)
+1x Dragonbound
+1x NRA PAC
+1x Unmasking, The

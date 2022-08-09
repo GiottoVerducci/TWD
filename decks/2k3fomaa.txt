@@ -1,0 +1,63 @@
+Fear of Mekhet
+Ann Arbor, Michigan
+November 2nd 2003
+17 players
+David Wilson
+
+Deck Name: Might of the Camarilla
+
+Description: I voluntarily took out PTO since I feel the card needs to be more balanced.
+After all the Ravnos I saw, I wish I had them. Bring out 1 IC, call Might,
+Possession, Repeat. Doubles as a Stealth Bleed in a Pinch.
+
+Crypt (12 cards, min=37, max=44, avg=10.25)
+-------------------------------------------
+3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Leandro		11  AUS OBF PRE cel dom		inner circle	Malkavian:2
+3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+1x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+1x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+1x Carlotta Giovanni	7   NEC POT dom obf				Giovanni:2
+
+Library (80 cards)
+Master (15)
+1x Giant's Blood
+3x Information Highway
+4x Minion Tap
+2x Redeem the Lost Soul
+1x Vast Wealth
+4x Zillah's Valley
+
+Action (7)
+3x Govern the Unaligned
+4x Possession
+
+Equipment (2)
+2x Sargon Fragment, The
+
+Political Action (22)
+1x Anarchist Uprising
+1x Ancient Influence
+5x Banishment
+2x Dramatic Upheaval
+4x Kine Resources Contested
+8x Might of the Camarilla
+1x Political Stranglehold
+
+Action Modifier (17)
+2x Elder Impersonation
+3x Forgotten Labyrinth
+4x Freak Drive
+4x Lost in Crowds
+4x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (13)
+4x Deflection
+4x Obedience
+5x Wake with Evening's Freshness
+
+Combat (3)
+3x Majesty

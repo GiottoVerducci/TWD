@@ -1,0 +1,80 @@
+Cauldron of Blood
+Canberra, Australia
+July 12th 2003
+10 players
+Anthony Barker
+
+Obf/Dom S&B
+
+Crypt (12 cards, min=10, max=20, avg=3.83)
+------------------------------------------
+1x Badr al-Budur	5   OBF cel dom qui	Assamite:2
+1x Count Ormonde	5   OBF dom pre ser	Follower of Set:2
+1x Didi Meyers		5   DOM aus cel obf	Malkavian:1
+1x Zebulon		5   OBF aus dom pro	Malkavian:1
+1x Agrippina		4   OBF pot		Nosferatu:1
+1x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Ingrid Russo		4   DOM for		Ventrue antitribu:2
+1x Laurent de Valois	4   ani dom obf		Nosferatu:2
+1x Roland Bishop	4   aus dom obf		Malkavian:1
+1x Mustafa Rahman	2   dom			Tremere:2
+1x Ohanna		2   dom			Malkavian:2
+1x Samson		2   dom			Ventrue antitribu:2
+
+Library (90 cards)
+Master (22; 3 trifle)
+3x Anarch Revolt
+1x Anarch Troublemaker
+1x Blood Doll
+1x Direct Intervention -- proved vital for stopping a Flow within the Mountain
+1x Dominate
+3x Dreams of the Sphinx
+1x Information Highway
+1x Jake Washington
+3x Life in the City
+1x Obfuscate
+2x Parthenon, The
+4x Sudden Reversal
+
+Action (9)
+1x Computer Hacking
+1x Dominate Kine
+1x Far Mastery
+6x Govern the Unaligned
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (3)
+2x Changeling Skin Mask
+1x Sargon Fragment, The
+
+Political Action (4)
+2x Dramatic Upheaval
+1x Rumors of Gehenna
+1x Year of Fortune
+
+Action Modifier (35)
+5x Bonding
+1x Change of Target
+9x Cloak the Gathering
+2x Command of the Beast
+5x Conditioning
+2x Elder Impersonation
+3x Faceless Night
+2x Foreshadowing Destruction
+2x Lost in Crowds
+1x Mask of a Thousand Faces
+3x Seduction
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (9)
+4x Deflection
+1x Malkavian Rider Clause
+4x Wake with Evening's Freshness
+
+Combat (3)
+1x Dodge
+2x Fake Out

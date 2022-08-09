@@ -1,0 +1,63 @@
+Origins Saturday - NAC Qualifier
+Columbus, Ohio
+June 27th 2009
+3R+F
+43 players
+Mark Merlin Petersen
+
+Deck Name: Rodolfo's Friendly Spirits
+
+Crypt (12 cards, min=21, max=32, avg=7.08)
+------------------------------------------
+3x Persephone Tar-Anis	    8	AUS DEM OBF cel pot		  Malkavian antitribu:4
+3x Rodolfo		    8	AUS DEM OBF pro		bishop	  Malkavian antitribu:3
+2x Jason, The World's Voice 8	AUS DEM OBF for		primogen  Malkavian:3
+1x Ruth McGinley	    6	DEM aus cel obf		primogen  Malkavian:3
+1x Apache Jones		    5	DEM aus for obf			  Malkavian antitribu:4
+1x Luc			    5	OBF dem vic			  Malkavian antitribu:4
+1x Uncle George		    5	DEM aus dom obf			  Malkavian antitribu:3
+
+Library (84 cards)
+Master (13; 2 trifle)
+1x Archon Investigation
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Minion Tap
+1x Secure Haven
+3x Sudden Reversal
+2x Vessel
+
+Action (14)
+14x Kindred Spirits
+
+Ally (1)
+1x Carlton Van Wyk
+
+Action Modifier (33)
+4x Cloak the Gathering
+3x Confusion
+4x Elder Impersonation
+2x Eyes of Chaos
+3x Faceless Night
+3x Lost in Crowds
+2x Marked Path
+2x Sleep Unseen
+8x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (8)
+2x Deny
+6x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Touch of Clarity
+
+Reaction (12)
+2x Confusion of the Eye
+4x Eyes of Argus
+1x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (2)
+2x Zip Gun

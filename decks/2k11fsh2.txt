@@ -1,0 +1,61 @@
+Fee Stake II: Helsinki
+Helsinki, Finland
+July 3rd 2011
+3R+F
+22 players
+Kari Mäkinen
+
+Deck Name: Demented Kindred
+
+Description: A fairly straightforward weenie stealth bleed deck,
+easy and quick to play, you don't do anything on anyone else's turn
+and on your turn just go full forward. Pool gain is completely from
+kindred spirits and ousts, and is generally enough unless you have
+a very aggressive predator.
+
+Crypt (12 cards, min=8, max=22, avg=3.75)
+-----------------------------------------
+1x Artemis			6   DEM OBF aus cel for	 Malkavian antitribu:2
+1x Dolphin Black		6   AUS DEM OBF		 Malkavian antitribu:2
+1x Persia, The Beautiful Statue	5   DEM aus obf		 Malkavian:3
+1x Uncle George			5   DEM aus dom obf	 Malkavian antitribu:3
+1x Adelaide Davis		4   aus dem obf		 Malkavian:3
+1x Claven			4   aus dem obf		 Malkavian antitribu:2
+1x Jeremy Talbot		4   dem obf		 Malkavian:3
+1x Midget			3   DEM obf pre		 Malkavian antitribu:3
+1x Yorik			3   dem obf		 Malkavian antitribu:2
+1x Boy Toy			2   dem			 Malkavian antitribu:2
+1x Gillian Krader		2   ani dem		 Pander:2
+1x Eddie Gaines			1   dem pot		 Caitiff:3
+
+Library (80 cards)
+Master (13)
+6x Dementation
+3x Dreams of the Sphinx
+3x Information Highway
+1x Institution Hunting Ground
+
+Action (24)
+20x Kindred Spirits
+4x Madman's Quill
+
+Action Modifier (34)
+1x Cloak the Gathering
+10x Confusion
+1x Domain of Evernight
+6x Eyes of Chaos
+1x Faceless Night
+1x Lost in Crowds
+6x Mind Tricks
+1x Spying Mission
+7x Veil the Legions
+
+Action Modifier/Combat (7)
+6x Deny
+1x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Gift of Sleep
+
+Event (1)
+1x Bitter and Sweet Story, The

@@ -1,0 +1,68 @@
+Torneo Presentación Club Warghoul Parets + BBQ
+Parets del Vallès, Spain
+February 17th 2013
+3R+F
+23 players
+Óscar Caballero
+
+Deck Name: Desangradores Baalitas
+
+Crypt (13 cards, min=12, max=40, avg=6.23)
+------------------------------------------
+6x Horde, The		   3   dai obf pre			Baali:6
+4x Nergal (ADV)		   10  AUS DAI FOR OBF PRE THA		Baali:5
+1x Nergal		   10  AUS DAI FOR OBF PRE THA		Baali:5
+1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro		Baali:6
+1x Arishat		   6   DAI OBF PRE		1 vote	Baali:6
+
+Library (75 cards)
+Master (12; 4 trifle)
+1x Coven, The
+1x Giant's Blood
+1x Perfectionist
+1x Ruins of Charizel
+5x Tend the Flock
+2x Villein
+1x Wider View
+
+Action (14)
+1x Call the Great Beast
+1x Dark Mirror of the Mind
+4x Enchant Kindred
+2x Entrancement
+4x Legal Manipulations
+1x Public Trust
+1x Unleash Hell's Fury
+
+Ally (5)
+3x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Action Modifier (25)
+2x Cloak the Gathering
+1x Enkil Cog
+2x Faceless Night
+8x Freak Drive
+3x Lost in Crowds
+1x Mask of a Thousand Faces
+3x Spying Mission
+4x True Love's Face
+1x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (6)
+6x Sense the Sin
+
+Reaction (3)
+2x On the Qui Vive
+1x Wake with Evening's Freshness
+
+Combat (7)
+4x Majesty
+3x Unholy Penance
+
+Event (1)
+1x Narrow Minds

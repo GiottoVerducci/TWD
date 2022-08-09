@@ -1,0 +1,73 @@
+SAC 2004
+São Paulo, Brazil
+May 29th 2004
+19 players
+Itamar Jr.
+
+Deck Name: Power of Temptation
+
+So Itamar Jr., Prince of Rio, is the new South American Champion -
+with a Temptation deck! Kinda unusual, considering the lack of bounce,
+large cript size and moderate poolgain. See for yourselves:
+
+Crypt (12 cards, min=24, max=34, avg=7.42)
+------------------------------------------
+2x Intisar				8   OBF PRE SER cel pot			 Follower of Set:2
+2x Synesios				8   POT PRE TEM obf ser		2 votes	 True Brujah:2
+1x Nehsi				10  OBF PRE PRO SER aus for	2 votes	 Follower of Set:2
+1x Amisa				8   OBF SER pre pro		2 votes	 Follower of Set:2
+1x Kephamos, High Priest of Marrakech	8   SER dom obf pre		2 votes	 Follower of Set:2
+1x Danny Larkshill			7   PRE SER obf obt pot			 Follower of Set:2
+1x Qufur am-Heru			7   OBF PRE SER cel tha			 Follower of Set:2
+1x Sarrasine				7   OBF PRE aus nec ser			 Follower of Set:2
+1x Hesha Ruhadze			6   SER ani obf pre			 Follower of Set:2
+1x Nepata				4   obf pre ser				 Follower of Set:2
+
+Library (88 cards)
+Master (20)
+2x Archon Investigation
+3x Blood Doll
+2x Dummy Corporation
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Khobar Towers, Al-Khubar
+3x Minion Tap
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Secure Haven
+1x Sudden Reversal
+1x Temple Hunting Ground
+1x Vampiric Disease
+
+Action (19)
+3x Consignment to Duat
+3x Enticement
+3x Form of Corruption
+3x Legal Manipulations
+7x Temptation
+
+Political Action (20)
+1x Ancient Influence
+2x Banishment
+1x Disputed Territory
+2x Dramatic Upheaval
+7x Free States Rant
+5x Kine Resources Contested
+2x Meddling of Semsith, The
+
+Action Modifier (23)
+2x Aire of Elation
+4x Bewitching Oration
+2x Cloak the Gathering
+1x Faceless Night
+4x Forgotten Labyrinth
+4x Lost in Crowds
+2x Spying Mission
+4x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Combat (5)
+5x Majesty

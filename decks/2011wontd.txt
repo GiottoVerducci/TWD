@@ -1,0 +1,78 @@
+Week of Nightmares - Tuesday #3
+Columbus, Ohio
+June 21st 2011
+2R+F
+20 players
+Darby Keeney
+
+Deck Name: Balls of Stihl
+Created by: Darby Keeney, based on a John Eno design.
+
+Description: (Imbued Chainsaw Rush)
+
+A couple of years ago, John stitched the Chainsaw rush into
+a Dancing Imbued deck and the two of us tuned the deck into
+the current state over a couple of months.
+
+It is a bit more fragile than some of the intermediate builds
+but is consistent. I considered adding Veil of Darkness and
+the Rising, but opted to leave them out for this run.
+
+My favorite moment of the tourament win with this deck was
+bleeding with the Vagabound Mystic, who had successfully
+equipped a Laptop Computer, IR Goggles, Leather Jacket and
+the Heart of Nizchetus.
+
+Crypt (12 cards, min=14, max=20, avg=4.33)
+------------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x Xian "DziDzat155" Quan	4   def inn	 Defender:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (65 cards)
+Master (12)
+6x Angel of Berlin
+2x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Pentex(TM) Subversion
+1x Smiling Jack, The Anarch
+1x Tension in the Ranks
+
+Conviction (20)
+7x React with Conviction
+5x Second Sight
+8x Strike with Conviction
+
+Ally (3)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Vagabond Mystic
+
+Equipment (12)
+1x Crusader Sword, The
+1x Flak Jacket
+1x Heart of Nizchetus
+1x IR Goggles
+1x Ivory Bow
+1x Kevlar Vest
+1x Laptop Computer
+2x Leather Jacket
+1x Sport Bike
+2x Talbot's Chainsaw
+
+Power (14)
+2x Champion
+2x Discern
+2x Inspire
+3x Rejuvenate
+5x Vigilance
+
+Event (4)
+1x Blood Cult Awareness Network
+1x Dragonbound
+1x NRA PAC
+1x Unmasking, The

@@ -1,0 +1,75 @@
+Pós Cearense
+Somewhere, Brazil
+November 6th 2015
+2R+F
+19 players
+Bruno Patrício Silva Pontes
+
+-- 4VP in final
+
+Deck Name: Giovanni Shambling Hordes
+
+Crypt (12 cards, min=13, max=32, avg=5.92)
+------------------------------------------
+3x Andrea Giovanni	7   DOM NEC pot vic	 Giovanni:2
+2x Lisandro Giovanni	9   DOM FOR NEC POT THN	 Giovanni:3
+2x Rudolfo Giovanni	3   NEC			 Giovanni:2
+1x Carlotta Giovanni	7   NEC POT dom obf	 Giovanni:2
+1x Gillespi Giovanni	7   DOM NEC POT aus	 Giovanni:2
+1x Isabel Giovanni	5   DOM NEC pot		 Giovanni:2
+1x Gloria Giovanni	4   DOM nec		 Giovanni:2
+1x Lia Milliner		3   dom nec		 Giovanni:3
+
+Library (90 cards)
+Master (22; 5 trifle)
+1x Archon Investigation
+2x Charisma
+1x Fortschritt Library
+1x KRCG News Radio
+1x Morgue Hunting Ground
+2x Path of Bone, The
+4x Perfectionist
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+1x Tower of London
+4x Vessel
+1x Wall Street Night, Financial Newspaper
+1x Wash
+1x WMRH Talk Radio
+
+Ally (30)
+1x Ambrosius, The Ferryman
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+3x Gianna di Canneto
+1x Neighborhood Watch Commander
+1x Ossian
+4x Procurer
+1x Repo Man
+16x Shambling Hordes
+1x Tye Cooper
+
+Equipment (3)
+3x Unlicensed Taxicab
+
+Retainer (2)
+1x Giuseppe, Gravedigger
+1x Malajit Chandramouli
+
+Action Modifier (6)
+6x Call of the Hungry Dead
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (14)
+6x Deflection
+7x On the Qui Vive
+1x Redirection
+
+Combat (7)
+4x Glancing Blow
+3x Spiritual Intervention
+
+Event (2)
+2x Unmasking, The

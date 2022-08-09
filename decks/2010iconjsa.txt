@@ -1,0 +1,57 @@
+ICON
+Johannesburg, South Africa
+July 24th 2010
+15 players
+Jan Kroeze
+
+Deck Name: The Geeks' Revenge
+
+Description: !Ventrue PRO/FOR/DOM/AUS.
+
+Crypt (12 cards, min=16, max=40, avg=6.67)
+------------------------------------------
+4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
+2x Dylan			 6   aus cel dom for pro  		Ventrue antitribu:2
+2x Vanessa			 6   DOM FOR aus pre	  		Ventrue antitribu:2
+1x Billy			 5   AUS dom for	  		Ventrue antitribu:2
+1x Ingrid Russo			 4   DOM for		  		Ventrue antitribu:2
+1x Peter Blaine			 4   aus dom for	  		Ventrue antitribu:2
+1x Juan Cali			 3   aus for		  		Ventrue antitribu:2
+
+Library (90 cards)
+Master (17)
+1x Archon Investigation
+4x Blood Doll
+1x Corporate Hunting Ground
+2x Dreams of the Sphinx
+2x Minion Tap
+4x Protean
+2x Sudden Reversal
+1x Ventrue Investment
+
+Action (11)
+5x Govern the Unaligned
+4x Restoration
+2x Scouting Mission
+
+Equipment (1)
+1x Seal of Veddartha
+
+Action Modifier (16)
+4x Bonding
+8x Earth Control
+2x Kiss of Ra, The
+2x Threats
+
+Reaction (27)
+6x Deflection
+8x Enhanced Senses
+1x Redirection
+4x Spirit's Touch
+8x Wake with Evening's Freshness
+
+Combat (18)
+4x Claws of the Dead
+6x Form of Mist
+4x Skin of Steel
+4x Superior Mettle

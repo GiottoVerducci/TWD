@@ -1,0 +1,70 @@
+Heavy snow in Gothenburg
+Gothenburg, Sweden
+February 12th 2005
+10 players
+Archibald Zimonyi
+
+Deck Name: Brujahlicous
+
+Description: This deck won the February monthly tournament in
+Gothenburg. The point of the deck is to dish out more damage then you
+take, even if you take a lot of damage yourself, which you do.
+However, enough Blood Dolls and the Hungry Coyote as well as perhaps a
+stolen weapon and these guys are up there with the best.
+
+Basic strategy is to use Enchant Kindred at superior and get the Blood
+Dolls out to make your pool grow. Get out at least three vampires and
+then you're good to go.
+
+This deck should probably lose two vampires in favour of one more Theo
+Bell and his Advanced copy.
+
+Crypt (12 cards, min=25, max=32, avg=7.08)
+------------------------------------------
+2x Antonio Veradas		   8   CEL POT PRE obf	    bishop  Brujah antitribu:3
+2x Jacko			   8   CEL POT PRE obt	    	    Brujah antitribu:2
+2x Amelia			   7   CEL POT PRE	    bishop  Brujah antitribu:2
+1x Theo Bell			   7   POT cel dom pre	    	    Brujah:2
+1x Theo Bell (ADV)		   7   CEL POT PRE aus dom  	    Brujah:2
+1x Joshua Tarnopolski		   7   CEL PRE obf pot	    	    Brujah:3
+1x Richter, The Templar of Du Mont 7   CEL POT for pre	    	    Brujah antitribu:2
+1x Julian Sanders		   6   CEL PRE pot	    	    Brujah antitribu:2
+1x Rigby, Crusade Vanguard	   5   CEL PRE aus pot	    	    Brujah antitribu:2
+
+Library (90 cards)
+Master (20)
+1x Amusement Park Hunting Ground
+8x Blood Doll
+1x Gang Territory
+2x Guardian Angel
+1x Hungry Coyote, The
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+2x Parthenon, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Warzone Hunting Ground
+1x WMRH Talk Radio
+
+Action (12)
+8x Enchant Kindred
+4x Legal Manipulations
+
+Equipment (7)
+4x Laptop Computer
+2x Sport Bike
+1x Sword of Judgment
+
+Reaction (10)
+10x Wake with Evening's Freshness
+
+Combat (41)
+5x Blur
+2x Disarm
+2x Fast Hands
+6x Flash
+7x Immortal Grapple
+2x Lightning Reflexes
+3x Pursuit
+4x Sideslip
+5x Taste of Vitae
+5x Torn Signpost

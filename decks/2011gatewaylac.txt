@@ -1,0 +1,43 @@
+Gateway
+Los Angeles, California
+September 3rd 2011
+2R+F
+19 players
+Michael Courtois
+
+Deck Name: Nergal's a Beast
+Created by: Matt Wedge & Robert Scythe based on a TWD by Tomàs López Jiménez
+
+Description: With the fragility of a combo deck such as this we decided
+to make it smaller and utilize Luc, as opposed to fortitiude buddies, for
+his handsize ability and Pentex removal with more obfuscate, plus Sense The
+Sin just invites Archon Investigation to further impede it's flow. Swalloweds
+are decent combat defense (and offense if The Beast needs to visit somebody)
+and Gramle gets the card you need right now. Also with the larger handsize
+the inclusion of one Pentex seemed like a necessary evil, for another way to
+deal with it or to just use it offensively.
+
+Crypt (12 cards, min=20, max=40, avg=7.92)
+------------------------------------------
+7x Nergal 10  AUS DAI FOR OBF PRE THA	Baali:5
+5x Luc	  5   OBF dem vic		Malkavian antitribu:4
+
+Library (80 cards)
+Master (1)
+1x Pentex(TM) Subversion
+
+Action (25)
+10x Call the Great Beast
+10x Eternal Mask, The
+2x Gramle
+3x Scrounging
+
+Action Modifier (52)
+10x Daring the Dawn
+6x Elder Impersonation
+3x Faceless Night
+31x Freak Drive
+2x Lost in Crowds
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night

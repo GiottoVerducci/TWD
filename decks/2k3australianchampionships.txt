@@ -1,0 +1,47 @@
+Australian Championship 2003
+Sydney, Australia
+December 14th 2003
+34 players
+Dominic Catanzariti
+
+Deck Name: Cheesy Cheese
+
+Crypt (12 cards, min=4, max=7, avg=1.25)
+----------------------------------------
+2x Delilah Easton	2   pre		Toreador:1
+1x Dieter Kleist	2   aus		Toreador:1
+1x Angela Decker	1   pre		Pander:2
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Basil		1   obf		Pander:2
+1x Franciscus		1   aus		Caitiff:2
+1x Huang, Blood Cultist	1   pro		Pander:2
+1x Igo the Hungry	1   pre pro	Caitiff:1
+1x Julius		1   qui ser	Caitiff:2
+1x Navar McClaren	1   ani		Caitiff:1
+1x Smudge the Ignored	1   -none-	Caitiff:1
+
+Library (90 cards)
+Master (34)
+24x Anarch Revolt
+1x Archon Investigation
+1x Barrens, The
+1x Blood Doll
+1x Information Highway
+6x Parthenon, The
+
+Political Action (34)
+13x Conservative Agitation
+1x Disputed Territory
+3x Dramatic Upheaval
+13x Kine Resources Contested
+2x Political Flux
+1x Rumors of Gehenna
+1x Toreador Justicar
+
+Action Modifier (22)
+1x Awe
+7x Bewitching Oration
+4x Bribes
+6x Cryptic Rider
+1x Disarming Presence
+3x Scorn of Adonis

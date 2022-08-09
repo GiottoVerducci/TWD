@@ -1,0 +1,82 @@
+Godverdomme
+Gothenburg, Sweden
+December 3rd 2011
+3R+F
+14 players
+Stefan Karlsson
+
+Deck Name: Glöggansiktet Gerald
+Created by: Stefan Karlsson (with moral support by Isak Esbjörnsson Bjärmark)
+
+Description: This is some sort of Freak Show but I can not
+stress enough that this is no one-turn deck. Ankara Citadel
+first of course and then tool up with 5-10 actions each turn,
+one of them being a bleed as big as possible that needs to
+end up at prey's pool. The recursable Command the Legion
+and Revelations makes this deck shine, everything else is
+situational.
+
+Crypt (12 cards, min=11, max=36, avg=6.17)
+------------------------------------------
+6x Gerald Windham	9   AUS DOM FOR THA	Tremere:5
+1x Nicomedes		5   aus for nec vic	Harbinger of Skulls:4
+1x Kay Polerno		4   dom nec pro		Giovanni:5
+1x Primo Giovanni	4   dom nec pot		Giovanni:4
+1x Almodo Giovanni	3   dom pot		Giovanni:4
+1x Cristobal Ghiberti	2   nec			Giovanni:4
+1x Eric Milliner	2   pot			Giovanni:5
+
+Library (90 cards)
+Master (6)
+2x Dreams of the Sphinx
+1x Heidelberg Castle, Germany
+3x Pentex(TM) Subversion
+
+Action (27)
+1x Big Game
+1x Bum's Rush
+2x Command the Legion
+1x Dark Mirror of the Mind
+1x Far Mastery
+3x Govern the Unaligned
+8x Magic of the Smith
+1x Mind Rape
+1x Pulse of the Canaille
+2x Revelations
+1x Scouting Mission
+1x Soul Scan
+4x Sudario Refraction
+
+Ally (3)
+1x Ambrosius, The Ferryman
+1x Ponticulus
+1x Tye Cooper
+
+Equipment (7)
+1x Ankara Citadel, Turkey, The
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Laptop Computer
+1x Sargon Fragment, The
+1x Talbot's Chainsaw
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (39)
+1x Call of the Hungry Dead
+3x Conditioning
+32x Freak Drive
+1x Mirror Walk
+1x Perfect Clarity
+1x Trochomancy
+
+Action Modifier/Reaction (1)
+1x Spectral Divination
+
+Reaction (5)
+3x Deflection
+1x Delaying Tactics
+1x On the Qui Vive

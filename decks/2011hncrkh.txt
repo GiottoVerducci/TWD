@@ -1,0 +1,52 @@
+HNC Round
+Katalinpuszta, Hungary
+June 11th 2011
+3R+F
+16 players
+Péter Botos
+
+Deck Name: Cats and Dogs
+
+Crypt (12 cards, min=4, max=11, avg=1.58)
+-----------------------------------------
+8x Tupdog		1   POT VIS	Gargoyle:3
+1x Brooke		3   dom tha	Tremere antitribu:2
+1x Ember Wright		3   aus dom	Tremere antitribu:3
+1x Saiz			3   aus dom	Tremere antitribu:3
+1x Heinrick Schlempt	2   tha		Tremere antitribu:2
+
+Library (64 cards)
+Master (21)
+9x Ashur Tablets
+2x Direct Intervention
+1x Fame
+5x Liquidation
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+
+Action (2)
+2x Raw Recruit
+
+Ally (14)
+1x Gregory Winter
+1x Ossian
+10x Rock Cat
+2x Vagabond Mystic
+
+Equipment (1)
+1x Codex of the Edenic Groundskeepers
+
+Action Modifier (6)
+3x As the Crow
+3x Skin of the Chameleon
+
+Combat (17)
+3x Disarm
+5x Immortal Grapple
+5x Target Vitals
+4x Thrown Sewer Lid
+
+Event (3)
+1x Dragonbound
+2x Unmasking, The

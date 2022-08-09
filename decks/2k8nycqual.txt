@@ -1,0 +1,127 @@
+New York City Qualifier
+New York City, New York
+May 24th 2008
+3R+F
+17 players
+Matthew Morgan
+
+Deck Name: Mummy Strength!
+
+Description: Get mummies. Block, fight, rush, bleed, win!
+
+The larger vampires are obviously not meant to be influenced out and
+never were. They might as well have been Enkidu, Hazimel, Sha-Ennu,
+Saulot, etc., but it never really mattered as I rarely had a mummy
+burned by losing all its life. Two copies of Halim and 3x Effective
+Management meant I got him out in every preliminary round. In the
+final he showed up late and ended up having to join the ranks of the
+mummies.
+
+The media outlets helped a lot. I'm a firm believer in Unmasking +
+media locations in an ally deck. It really gets the job done.
+Centralized Background Check was in my starting hand in the first two
+games, but I didn't see it in round 3 when I was killed by .44s. Ah
+well. It's good in theory.
+
+Set's Curse was originally Far Mastery, but more of my crypt can play
+Set's Curse and there are more available targets. In round 1, I was a
+little slow with it and Meno Ngari got a skill card before I could hit
+him with it. In round 2, I turned Lupo into a snake, which was really
+cool, even if it probably didn't cause me to win any more than I was
+already winning. I died too quickly to make use of it in round 3, but
+turning one of Ben Peal's War Ghouls into a snake would've been pretty
+great. There were small vampires that would've made good targets for
+this in the final, but sadly I had nobody with SER to play it, so it
+had to be discarded.
+
+10x Spell of Life was pretty good in a 61 card deck. I normally got
+the Spell off around turn 7 or so, I think. I never tried to get it to
+happen again and never needed it. Each game concluded a turn or two
+after I completed the Spell (or in the case of round 3, the game
+concluded for me the turn before I would've completed it).
+
+Heavy intercept would've probably been a problem for me, but luckily
+there was none. My first prey of the day was an Akunanse deck, but I
+managed to block it tooling up with intercept permanents. Veils were
+good to add stealth to mummies (since I never had anyone with OBF for
+cloak). Conditioning, just because I'd be crazy not to.
+
+Carlton made frequent appearances. I had Ossian in round 2, but he
+really only served to cycle my prey's Swallowed by the Night maneuvers.
+I got Qetu out in the first round and actually successfully bled my
+prey twice, which I think is pretty good (she bleeds for 2). An early
+Nephren-Ka probably gave me the final, because I rushed the dom/obf
+deck a lot to keep it from having the steam to oust me. I sadly never
+had the pool to get Kherebutu or Tutu. I'll have to keep playing the
+deck until I make good use of them. Vagabond Mystic was the 61st card
+in this deck (originally designed at 60), but I never drew him.
+
+I believe the only one of these I ever played was FBI Special Affairs
+Division, which was really useful when Carlton was blocking Matata at 1
+blood. Matata couldn't take the risk of going to torpor and never
+coming back, so Carlton got away with dodging three or four times.
+
+Crypt (13 cards, min=16, max=38, avg=7)
+---------------------------------------
+2x Halim Bey	   6   DOM SER obf tha			  Follower of Set:4
+1x Nakhthorheb	   10  OBF PRE SER			  Follower of Set:4
+1x Seterpenre	   10  AUS NEC OBF PRE SER		  Follower of Set:5
+1x Neferu	   9   OBF PRE SER THA dom nec	2 votes	  Follower of Set:4
+1x Pentweret	   9   OBF PRE SER aus for obe		  Follower of Set:5
+1x Porphyrion	   9   CHI OBF PRE SER for		  Follower of Set:5
+1x Shemti	   9   OBF POT PRE SER vic	1 vote	  Follower of Set:5
+1x Amenophobis	   7   OBF SER dom pre		primogen  Follower of Set:4
+1x Black Lotus	   5   DOM aus obf ser			  Follower of Set:4
+1x Sahira Siraj	   4   obf ser tha			  Follower of Set:4
+1x Sisocharis	   4   cel obf pre			  Follower of Set:5
+1x Ahmose Chambers 3   obf ser				  Follower of Set:5
+
+Library (61 cards)
+Master (14)
+2x Blood Doll
+1x Centralized Background Check
+1x Channel 10
+1x Charisma
+3x Effective Management
+1x Fame
+1x Jake Washington
+1x KRCG News Radio
+1x Mob Connections
+1x Opium Den
+1x WMRH Talk Radio
+
+Action (11)
+1x Set's Curse
+10x Spell of Life
+
+Ally (8)
+1x Amam the Devourer
+1x Carlton Van Wyk
+1x Kherebutu
+1x Nephren-Ka
+1x Ossian
+1x Qetu the Evil Doer
+1x Tutu the Doubly Evil One
+1x Vagabond Mystic
+
+Action Modifier (13)
+2x Cloak the Gathering
+2x Conditioning
+1x Domain of Evernight
+2x Faceless Night
+2x Lost in Crowds
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (10)
+5x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+
+Event (3)
+1x Dragonbound
+1x FBI Special Affairs Division
+1x Unmasking, The

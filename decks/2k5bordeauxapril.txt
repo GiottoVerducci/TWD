@@ -1,0 +1,65 @@
+French NCQ
+Bordeaux, France
+April 16th 2005
+24 players
+François Morand
+
+Deck Name: Exhibitboon
+
+Crypt (16 cards, min=8, max=22, avg=3.88)
+-----------------------------------------
+2x Remilliard, Devout Crusader	4   AUS pre		 Toreador antitribu:2
+2x Sabrina			4   aus cel pre		 Toreador antitribu:3
+2x Lolita			3   for pre		 Toreador antitribu:2
+2x Carter			2   cel			 Toreador antitribu:2
+2x Nicholas Chang		2   aus			 Toreador antitribu:3
+1x Jost Werner			6   AUS PRE ani		 Toreador antitribu:2
+1x Sheila Mezarin		6   AUS PRE cel for	 Toreador antitribu:2
+1x Creamy Jade			5   PRE aus cel vic	 Toreador antitribu:3
+1x Cristos Mantigo		5   aus cel dom obf pre	 Toreador antitribu:3
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre	 Toreador antitribu:2
+1x Victor Revell, Loyalist	5   CEL aus dem pre	 Toreador antitribu:2
+
+Library (86 cards)
+Master (28)
+1x Creepshow Casino
+1x Día de los Muertos
+3x Direct Intervention
+1x Elder Library
+1x Fetish Club Hunting Ground
+1x Fortschritt Library
+7x Foundation Exhibit
+1x Heidelberg Castle, Germany
+1x Humanitas
+1x Jake Washington
+5x Palla Grande
+4x Parthenon, The
+1x Powerbase: Madrid
+
+Action (18)
+6x Art Scam
+12x Embrace, The
+
+Equipment (1)
+1x Catacombs
+
+Political Action (16)
+12x Consanguineous Boon
+2x Disputed Territory
+2x Rumors of Gehenna
+
+Action Modifier (6)
+6x Change of Target
+
+Reaction (4)
+4x Delaying Tactics
+
+Combat (6)
+6x Dodge
+
+Event (7)
+3x Anthelios, The Red Star
+1x Blood Trade
+1x Blood Weakens
+1x Slow Withering, The
+1x Veil of Darkness

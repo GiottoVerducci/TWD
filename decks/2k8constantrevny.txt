@@ -1,0 +1,100 @@
+Constant Revolution - NAC MQ
+Neutral Ground, New York City, New York
+August 30th 2008
+2R+F
+13 players
+Peter Kapsalis
+
+Crypt (12 cards, min=21, max=29, avg=6.17)
+------------------------------------------
+1x Anton			    8	ANI AUS cel obf vic	Tzimisce:2
+1x Rebekka, Chantry Elder of Munich 8	AUS PRE THA pot		Tremere:2
+1x Muaziz, Archon of Ulugh Beg	    7	THA aus dom for		Tremere:2
+1x Aisha			    6	PRE ani aus ser		Follower of Set:2
+1x Antonino			    6	FOR ani pre pro		Gangrel:3
+1x Jost Werner			    6	AUS PRE ani		Toreador antitribu:2
+1x Raful al-Zarqa		    6	AUS dom nec obf		Nagaraja:2
+1x Stefano Giovanni		    6	DOM nec pot pre		Giovanni:2
+1x Sundown			    6	ANI POT obf pre		Nosferatu:3
+1x Ilyana Ravidovich		    5	aus dom for pre		Ventrue:3
+1x Larry			    5	SAN dem for pot		Blood Brother:2
+1x Persia, The Beautiful Statue	    5	DEM aus obf		Malkavian:3
+
+Library (90 cards)
+Master (21; 4 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+2x Anarch Revolt
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Galaric's Legacy
+1x Information Highway
+1x Minion Tap
+1x Perfectionist
+1x Poacher's Hunting Ground
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+2x Presence
+1x Seattle Committee
+1x Twilight Camp
+2x Vessel
+1x Wash
+
+Action (11)
+3x Enchant Kindred
+1x Fee Stake: Boston
+1x Fee Stake: New York
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+1x Go Anarch
+1x Legal Manipulations
+2x Smash and Grab
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Sniper Rifle
+
+Political Action (19)
+2x Anarch Salon
+3x Anarchist Uprising
+2x Conservative Agitation
+1x Disputed Territory
+1x Diversity
+1x Domain Challenge
+2x Firebrand
+2x Free States Rant
+2x Kine Resources Contested
+1x Reckless Agitation
+1x Revolutionary Council
+1x Year of Fortune
+
+Retainer (2)
+1x Crypt's Sons
+1x Malajit Chandramouli
+
+Action Modifier (15)
+4x Bewitching Oration
+4x Bribes
+2x Change of Target
+1x CrimethInc.
+1x Power of One
+3x Voter Captivation
+
+Reaction (13)
+1x Detect Authority
+1x Eluding the Arms of Morpheus
+3x Forced Awakening
+1x Friend of Mine
+1x Mole, The
+1x My Enemy's Enemy
+1x On the Qui Vive
+3x Telepathic Counter
+1x Wake with Evening's Freshness
+
+Combat (7)
+1x Catatonic Fear
+2x Diversion
+1x Dodge
+3x Majesty

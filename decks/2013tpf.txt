@@ -1,0 +1,70 @@
+Trukinpiikkturnee
+Pori, Finland
+January 19th 2013
+3R+F
+10 players
+Jari Åkerström
+
+Deck Name: Ur-Shulgi - Gonna tear you down!!!
+
+Crypt (12 cards, min=10, max=44, avg=7.25)
+------------------------------------------
+4x Ur-Shulgi, The Shepherd	11  CEL DOM OBF QUI THA aus	2 votes	 Assamite:2
+2x Thetmes, Caliph of Alamut	10  CEL OBF QUI dom pot		2 votes	 Assamite:2
+2x Badr al-Budur		5   OBF cel dom qui			 Assamite:2
+1x Yazid Tamari			8   CEL QUI ani dom obf			 Assamite:3
+1x Ali Kar			3   obf qui				 Assamite:3
+1x Basil			1   obf					 Pander:2
+1x Royce			1   dom					 Pander:2
+
+Library (88 cards)
+Master (11; 4 trifle)
+2x Alamut
+1x Cavalier
+1x Khabar: Community, The
+1x Market Square
+1x Tajdid
+1x Underworld Hunting Ground
+3x Vessel
+1x Wash
+
+Action (17)
+1x Entrenching
+10x Govern the Unaligned
+3x Haqim's Law: Leadership
+1x Magic of the Smith
+1x Mind Rape
+1x Rutor's Hand
+
+Equipment (5)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Reliquary: Shango Remains
+1x Sniper Rifle
+1x Sport Bike
+
+Political Action (4)
+1x Banishment
+2x Reckless Agitation
+1x Reins of Power
+
+Action Modifier (15)
+1x Bonding
+2x Cloak the Gathering
+4x Conditioning
+4x Lost in Crowds
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (7)
+7x Swallowed by the Night
+
+Reaction (25)
+11x Black Sunrise
+7x Deflection
+1x Foul Blood
+6x Obedience
+
+Combat (4)
+1x Nimble Feet
+3x Preternatural Evasion

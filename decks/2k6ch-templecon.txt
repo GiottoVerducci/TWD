@@ -1,0 +1,78 @@
+Communal Haven: TempleCon
+Providence, Rhode Island
+January 27th 2006
+2R+F
+28 players
+Oscar Garza
+
+Deck Name: Deploy the Hannibal
+
+Description: one of my pet decks. finally won something. now that i look at it...
+how the hell did i win?
+
+Crypt (12 cards, min=15, max=40, avg=6.83)
+------------------------------------------
+4x Hannibal (ADV)		  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
+1x Hannibal			  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
+1x Korah			  7   AUS DEM OBF ani	   priscus	Malkavian antitribu:2
+1x Colonel, The			  5   AUS cel dem obf	   		Malkavian antitribu:3
+1x General Perfidio Díos	  5   AUS dem obf	   bishop	Malkavian antitribu:3
+1x Claven			  4   aus dem obf	   		Malkavian antitribu:2
+1x Idalia, Prophet of Guadalajara 4   AUS dem		   		Malkavian antitribu:2
+1x Roger Farnsworth		  4   OBF aus		   		Malkavian antitribu:3
+1x Zöe				  3   AUS cel obf	   		Malkavian:2
+
+Library (90 cards)
+Master (16)
+3x Blood Doll
+1x Church of the Order of St. Blaise
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Hungry Coyote, The
+1x Kingston Penitentiary, Ontario
+2x Minion Tap
+1x Parthenon, The
+1x Perfectionist
+1x Powerbase: Madrid
+1x Powerbase: Rome
+1x Society of Leopold
+
+Action (9)
+1x Blessed Audience
+1x Dive into Madness
+5x Kindred Spirits
+1x Mind of a Killer
+1x Victim of Habit
+
+Ally (3)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Procurer
+
+Political Action (10)
+1x Ancient Influence
+3x Consanguineous Boon
+5x Deploy the Hand
+1x Rumors of Gehenna
+
+Action Modifier (19)
+4x Cloak the Gathering
+4x Crocodile's Tongue
+3x Eyes of Chaos
+4x Lost in Crowds
+4x Telepathic Vote Counting
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (19)
+12x Telepathic Counter
+4x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (10)
+2x Behind You!
+1x Gemini's Mirror
+3x High Ground
+4x Read Intentions

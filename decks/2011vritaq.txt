@@ -1,0 +1,74 @@
+Italian Qualifier Tour 8th stage - Ventrue
+Rome, Italy
+June 5th 2011
+2R+F
+15 players
+Guido Canciani
+
+Deck Name: Nasty Panders
+
+Description: legacy of rushing pander/weenie with db rounds and politics
+
+Crypt (15 cards, min=4, max=8, avg=1.6)
+---------------------------------------
+1x Boy Toy		2   dem		Malkavian antitribu:2
+1x Carter		2   cel		Toreador antitribu:2
+1x Christine Boscacci	2   dom vic	Pander:2
+1x Frederick the Weak	2   pre		Brujah antitribu:2
+1x Horatio		2   vic		Tzimisce:2
+1x Jesús Alcalá		2   cel		Gangrel antitribu:3
+1x Nicholas Chang	2   aus		Toreador antitribu:3
+1x Piotr Andreikov	2   aus		Tzimisce:3
+1x Samson		2   dom		Ventrue antitribu:2
+1x Angela Decker	1   pre		Pander:2
+1x Feo Ramos		1   aus		Pander:3
+1x Huang, Blood Cultist	1   pro		Pander:2
+1x March Halcyon	1   for		Pander:2
+1x Olga Triminov	1   vic		Pander:3
+1x Royce		1   dom		Pander:2
+
+Library (88 cards)
+Master (22)
+1x Anarch Troublemaker
+1x Black Forest Base
+1x Channel 10
+1x Día de los Muertos
+4x Dreams of the Sphinx
+1x Fame
+1x From a Sinking Ship
+3x Information Highway
+1x Jake Washington
+1x Joseph Pander
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+1x Sunset Strip, Hollywood
+3x Tribute to the Master
+1x Wall Street Night, Financial Newspaper
+
+Action (9)
+9x Bum's Rush
+
+Equipment (12)
+3x Heart of Nizchetus
+9x Saturday-Night Special
+
+Political Action (27)
+5x Conservative Agitation
+1x Crusade: Amsterdam
+1x Crusade: Barcelona
+1x Crusade: Chicago
+1x Crusade: Detroit
+1x Crusade: Dublin
+1x Crusade: Geneva
+1x Crusade: London
+1x Crusade: Mexico City
+1x Crusade: Miami
+1x Crusade: Paris
+1x Crusade: Rome
+1x Domain Challenge
+9x Kine Resources Contested
+1x Legacy of Pander
+
+Combat (18)
+9x Concealed Weapon
+9x Dragon's Breath Rounds

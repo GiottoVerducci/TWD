@@ -1,0 +1,52 @@
+Hunting Ground
+Ostrava, Czech Republic
+October 1st 2011
+3R+F
+10 players
+Jan Kacor
+
+Deck Name: Female Attack
+
+Description: Daughter of Cacophony with Shattering Crescendo
+
+Crypt (12 cards, min=14, max=24, avg=5)
+---------------------------------------
+3x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+3x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
+2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+1x Muse				  3   ani for mel	Daughter of Cacophony:2
+
+Library (90 cards)
+Master (18)
+2x Archon Investigation
+1x Command Performance
+4x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Lilith's Blessing
+2x Paris Opera House
+2x Protected Resources
+2x Retribution
+2x Tension in the Ranks
+
+Action (36)
+36x Shattering Crescendo
+
+Action Modifier (26)
+3x Daring the Dawn
+8x Freak Drive
+1x Kiss of Ra, The
+9x Missing Voice, The
+5x Virtuosa
+
+Combat (8)
+1x Death of the Drum
+3x Majesty
+3x Staredown
+1x Toreador's Bane
+
+Event (2)
+1x Dragonbound
+1x Narrow Minds

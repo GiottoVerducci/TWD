@@ -1,0 +1,48 @@
+Northwest Regional Qualifier
+Seattle, Washington
+April 13th 2003
+20 players
+Scott Christofersen
+
+Crypt (12 cards, min=15, max=39, avg=7)
+---------------------------------------
+3x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
+1x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
+1x Anton			    8	ANI AUS cel obf vic		    Tzimisce:2
+1x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
+1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+1x Caliban			    6	ANI AUS VIC			    Tzimisce:2
+1x Corine Marcón		    6	AUS VIC ani			    Tzimisce:2
+1x Terrence			    4	ani aus vic			    Tzimisce:2
+1x Lolita			    3	for pre				    Toreador antitribu:2
+1x Horatio			    2	vic				    Tzimisce:2
+
+Library (80 cards)
+Master (22)
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Legendary Vampire
+5x Minion Tap
+1x Powerbase: Montreal
+6x Rötschreck
+4x Zillah's Valley
+
+Action (3)
+3x Eternal Vigilance
+
+Reaction (27)
+2x Cats' Guidance
+4x Eagle's Sight
+5x Enhanced Senses
+6x Forced Awakening
+8x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (27)
+5x Amaranth
+9x Breath of the Dragon
+4x Carrion Crows
+9x Chiropteran Marauder
+
+Combat/Reaction (1)
+1x Reform Body

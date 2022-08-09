@@ -1,0 +1,66 @@
+Cunctator Motion
+Madison, Wisconsin
+November 18th 2001
+3R+F
+15 players
+Jay Kristoff
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ZXAqSmnoLyo
+
+I had seen on Lasombra's tournament winning decks page Johnny Tullner's
+deck that won Fleecing the Gaje, held in Washington, D.C. I really like his
+use of four Anarch Troublemaker. In Johnny's comments on the deck he wrote
+"* Using an Anarch Troublemaker and then playing one is an excellent
+tactic." Yes Johnny, it is. I decided to try to make room for my four
+A.T.s. I was only able to fit three in, and in doing so I ended up with too
+many master cards in the deck. Well, I wouldn't be writing this if I
+didn't win, so I guess it couldn't have been that bad.
+
+Frederick is NOT Weak!
+
+Crypt (14 cards, min=5, max=19, avg=2.93)
+-----------------------------------------
+1x Jazz Wentworth			5   PRE dom for		Ventrue:1
+1x Ramiel DuPre				5   PRE aus cel dom	Toreador:1
+1x Ranjan Rishi, Camarilla Scholar	5   DOM PRE for		Ventrue:2
+1x Mariana Gilbert			4   PRE cel		Toreador:1
+1x Violette Prentiss			4   PRE dom		Ventrue:1
+1x Gideon Fontaine			3   PRE			Ventrue:1
+1x Itzahk Levine			3   cel pre		Ventrue:2
+1x Roland Loussarian			3   for pre		Ventrue:1
+1x Delilah Easton			2   pre			Toreador:1
+1x Frederick the Weak			2   pre			Brujah antitribu:2 -- not!
+1x Vasilis, The Traitor of Don Cruez	2   pre			Brujah:2
+1x Angela Decker			1   pre			Pander:2
+1x Antoinette DuChamp			1   cel pre		Caitiff:2
+1x Igo the Hungry			1   pre pro		Caitiff:1
+
+Library (89 cards)
+Master (15; 1 trifle)
+3x Anarch Troublemaker
+1x Archon Investigation
+1x Barrens, The
+1x Coven, The
+2x Effective Management
+1x Hostile Takeover
+2x Information Highway
+4x Presence
+
+Action (40)
+2x Arson
+14x Enchant Kindred
+3x Entrancement
+4x Intimidation
+6x Media Influence
+10x Mind Numb
+1x Summoning, The
+
+Action Modifier (12)
+8x Aire of Elation
+4x Change of Target
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (20)
+14x Catatonic Fear
+6x Majesty

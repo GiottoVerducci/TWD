@@ -1,0 +1,60 @@
+Minion Tap is Dead #1
+Berkeley, California
+May 1st 2010
+15 players
+Robert Scythe
+
+Deck Name: Trust in the Public
+Created by: Robert Scythe
+
+Description: I would like it known that I had forgotten my tin of
+shared cards between decks and did not even mean to play this deck at
+all but it was pretty much complete. A variation of my Superior Presents
+deck that just goes hardcore into its first 2 prey and works on the 3rd
+for the win. Came about from a discussion whether just going full head
+on with trusts and Life in the City's would be even more effective.
+They were.
+
+Crypt (12 cards, min=13, max=20, avg=4.08)
+------------------------------------------
+1x Hezekiah Rutledge	5   PRE ani cel pot		  Brujah:4
+1x Renenet		5   OBF PRE ser			  Follower of Set:4
+1x Shasa Abu Badr	5   PRE cel for			  Ishtarri:4
+1x Victor Pelletier	5   PRE cel dom for		  Ventrue:4
+1x Antoinette Dubois	4   PRE for mel			  Daughter of Cacophony:4
+1x Bethany Ray		4   PRE aus			  Toreador:5
+1x Loonar		4   PRE cel			  Toreador antitribu:4
+1x Lumumba		4   PRE ani			  Guruhi:4
+1x Marla Kenyon		4   PRE ser			  Follower of Set:4
+1x Reginald Moore	4   PRE			primogen  Brujah:4
+1x Reverend Adams	3   PRE aus			  Caitiff:4
+1x Jayne Jonestown	2   PRE				  Brujah antitribu:4
+
+Library (86 cards)
+Master (21; 12 trifle)
+3x Anarch Troublemaker
+2x Dreams of the Sphinx
+12x Life in the City
+4x Pentex(TM) Subversion
+
+Action (36)
+1x Aranthebes, The Immortal
+4x Entrancement
+2x Legal Manipulations
+7x Mind Numb
+4x Propaganda
+18x Public Trust
+
+Ally (1)
+1x Mylan Horseed
+
+Action Modifier (13)
+8x Aire of Elation
+5x Change of Target
+
+Combat (14)
+4x Majesty
+10x Staredown
+
+Event (1)
+1x Port Authority

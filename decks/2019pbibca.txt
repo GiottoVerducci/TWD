@@ -1,0 +1,64 @@
+Powerbase: Berkeley - Illegalism
+Berkeley, California
+January 6th 2019
+2R+F
+10 players
+David Anderson
+https://www.vekn.net/event-calendar/event/9092
+
+-- 1GW5 + 1.5VP in final
+
+Deck Name: Valkyries with Veles Hunt
+
+Final Table: Alex Orzulak (Goratrix and Kazimir Savostin Black Hand toolbox) -> Brandon Haas (Tupdogs Bruise bleed) -> Ian Lee (!Malk stealth bleed with EMPs) -> Mark Jasper (G5-6 Samedi rush combat) -> David Anderson (Brunhilde and Valkyrie Anarch Vote)
+
+
+Valkyries vote spam, with some bleed. Light stealth. I think I got really lucky
+to win with this. It's mostly a pile of cards I threw together the night
+before. It really could use a LOT more tuning. The votes that are in there are
+a smattering of stuff I wanted to try out. It could use a bit more combat
+defense (maybe S:CE and agg hands), and a couple fewer Master cards. Firebrand
+is great! Ennoia's Theater is fantastic since Dreams always gets contested.
+
+Crypt (13 cards, min=16, max=32, avg=5.38)
+------------------------------------------
+8x Valkyrie	   4   for pre pro		Gangrel:3
+4x Brunhilde (ADV) 8   ANI FOR PRO pre	baron	Gangrel:3
+1x Antonino	   6   FOR ani pre pro		Gangrel:3
+
+Library (80 cards)
+Master (18; 4 trifle)
+3x Anarch Revolt
+1x Backways
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+6x Presence
+4x Vessel
+
+Action (20)
+8x Charming Lobby
+6x Enchant Kindred
+1x Fee Stake: Corte
+1x Fee Stake: Perth
+2x Fee Stake: Seattle
+2x Undue Influence
+
+Political Action (19)
+2x Conservative Agitation
+1x Domain Challenge
+2x Eat the Rich
+4x Firebrand
+4x Kine Resources Contested
+1x Sweeper
+4x Veles' Hunt
+1x Year of Fortune
+
+Action Modifier (19)
+3x Bribes
+4x Earth Control
+8x Freak Drive
+4x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Rapid Change

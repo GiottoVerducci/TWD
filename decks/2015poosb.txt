@@ -1,0 +1,78 @@
+Power of One
+Somewhere, Brazil
+December 13th 2015
+3R+F
+18 players
+Walter Polack
+
+-- 4VP in final
+
+Deck Name: Não tem eagle, vai de second
+
+Crypt (12 cards, min=20, max=37, avg=7.08)
+------------------------------------------
+3x Lucian		10  AUS DOM OBF cel tha	 justicar  Malkavian:1
+3x Gilbert Duane	7   AUS DOM OBF		 prince	   Malkavian:1
+2x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
+1x Mariel, Lady Thunder	7   DOM OBF aus tha	 	   Malkavian:1
+1x Ozmo			6   AUS dom obf		 	   Malkavian:1
+1x Roland Bishop	4   aus dom obf		 	   Malkavian:1
+1x Dollface		3   aus obf		 	   Malkavian:1
+
+Library (90 cards)
+Master (17; 1 trifle)
+1x Asylum Hunting Ground
+1x Club Zombie
+1x Dreams of the Sphinx
+1x Fame
+1x Madness Network
+1x Millicent Smith, Puritan Vampire Hunter
+3x Minion Tap
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+3x Rötschreck
+1x Smiling Jack, The Anarch
+1x Vast Wealth
+1x Vessel
+
+Action (12)
+1x Dominate Kine
+1x Far Mastery
+5x Govern the Unaligned
+3x Graverobbing
+2x Revelations
+
+Equipment (10)
+1x Bowl of Convergence
+4x Flamethrower
+1x Heart of Nizchetus
+2x IR Goggles
+1x Ivory Bow
+1x Sengir Dagger
+
+Political Action (4)
+1x Disputed Territory
+3x Parity Shift
+
+Action Modifier (7)
+2x Conditioning
+2x Elder Impersonation
+3x Lost in Crowds
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (28)
+2x Eagle's Sight
+2x Enhanced Senses
+2x Forced Awakening
+1x My Enemy's Enemy
+5x On the Qui Vive
+7x Second Tradition: Domain
+4x Spirit's Touch
+4x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (7)
+4x Disguised Weapon
+3x No Trace

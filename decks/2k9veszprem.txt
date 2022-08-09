@@ -1,0 +1,61 @@
+NC Round of Veszprém
+Veszprém, Hungary
+May 23rd 2009
+10 players
+Csaba Greguss
+
+Deck Name: Chaos & Confusion ver 02
+
+Crypt (12 cards, min=19, max=32, avg=6.75)
+------------------------------------------
+3x Fleurdumal		   8   AUS DEM PRE cel tha  prince  Toreador:3
+3x Lazarus James	   8   AUS DEM PRE obf tha  	    Malkavian:4
+2x Quentin King III	   7   AUS DEM obf pre	    prince  Malkavian:3
+1x Quentin King III (ADV)  7   AUS DEM OBF cel pre  	    Malkavian:3
+1x Tears, The Dark Pierrot 6   AUS DEM PRE cel	    	    Toreador antitribu:4
+1x Jackie		   3   DEM		    	    Malkavian antitribu:4
+1x Midget		   3   DEM obf pre	    	    Malkavian antitribu:3
+
+Library (76 cards)
+Master (10; 3 trifle)
+1x Asylum Hunting Ground
+1x Barrens, The
+1x Giant's Blood
+3x Life Boon
+1x Monastery of Shadows
+3x Villein
+
+Action (8)
+8x Kindred Spirits
+
+Political Action (10)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Domain Challenge
+2x Kine Resources Contested
+1x Neonate Breach
+4x Parity Shift
+
+Action Modifier (21)
+1x Awe
+1x Bewitching Oration
+3x Confusion
+4x Eyes of Chaos
+5x Mind Tricks
+3x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Combat (5)
+5x Deny
+
+Action Modifier/Reaction (5)
+5x Random Patterns
+
+Reaction (11)
+1x My Enemy's Enemy
+5x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (6)
+2x Charismatic Aura
+4x Majesty

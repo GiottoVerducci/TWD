@@ -1,0 +1,84 @@
+EC MQ
+Sabadell, Spain
+April 13th 2009
+3R+F
+27 players
+Iñaki Puigdollers
+
+Deck Name: "Tupdog's Diary"
+
+Builder and Player: Iñaki Puigdollers, inspired by "Sudario Diary"
+Orian Gissler' s deck
+
+Note: most people ask why do I play Tupdog here, there are plenty of
+reasons indeed: permits me not to repeat vampires which grants better
+crypt cycling, once on table they can recruit a generic ally (w/o fear
+of being blocked and sent to torpor) before vanishing, they give you
+specific rush defense, may play delaying tactics, and in the ash-heap
+they may turn into wraiths once KD is full, .... though it' s a pity
+they are non-unique.
+
+After the Tournament I would only add a Vox Domini, maybe instead of
+Giant' s Blood
+
+Crypt (12 cards, min=5, max=17, avg=2.75)
+-----------------------------------------
+3x Tupdog				   1   POT VIS	    Gargoyle:3
+1x Isabel Giovanni			   5   DOM NEC pot  Giovanni:2
+1x Patrizia Giovanni, Collector of Secrets 5   nec qui tha  Giovanni:2
+1x Chas Giovanni Tello			   4   DOM POT	    Giovanni:2
+1x Cristofero Giovanni			   3   nec pot	    Giovanni:2
+1x Lia Milliner				   3   dom nec	    Giovanni:3
+1x Mario Giovanni			   3   nec pot	    Giovanni:2
+1x Rudolfo Giovanni			   3   NEC	    Giovanni:2
+1x Marciana Giovanni, Investigator	   2   dom	    Giovanni:2
+1x Paul DiCarlo, The Alpha		   2   pot	    Giovanni:2
+
+Library (76 cards)
+Master (26; 4 trifle)
+1x Archon Investigation
+1x Direct Intervention
+1x Fear of Mekhet
+1x Fortschritt Library
+1x Giant's Blood
+4x Jake Washington
+1x Last Stand
+4x Liquidation
+2x Not to Be
+3x Parthenon, The
+2x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+4x Vessel
+
+Action (20)
+1x Chair of Hades
+6x Embrace, The
+7x Khazar's Diary (Endless Night)
+6x Sudario Refraction
+
+Ally (10)
+1x Ambrosius, The Ferryman
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+1x Gregory Winter
+1x Leonardo, Mortician
+1x Mylan Horseed
+1x Ossian
+1x Repo Man
+1x Tye Cooper
+1x Young Bloods
+
+Action Modifier (5)
+4x Change of Target
+1x Conditioning
+
+Reaction (11)
+5x Deflection
+4x Delaying Tactics
+2x On the Qui Vive
+
+Event (4)
+1x Anthelios, The Red Star
+1x FBI Special Affairs Division
+1x Slow Withering, The
+1x Unmasking, The

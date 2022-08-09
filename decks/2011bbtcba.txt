@@ -1,0 +1,58 @@
+Blooding by the Code
+Blacktown, Australia
+April 16th 2011
+12 players
+Martin Collins
+
+Deck Name: No Secrets from the Osebo
+
+Crypt (12 cards, min=19, max=40, avg=7.25)
+------------------------------------------
+2x Cesewayo	  10  AUS CEL DOM POT THA ani	magaji	Osebo:4
+2x Cesewayo (ADV) 10  AUS CEL DOM POT THA ani	magaji	Osebo:4
+2x Mamadou Keita  7   CEL aus pot pre vic	magaji	Osebo:4
+2x Homa		  6   AUS CEL POT			Osebo:4
+1x Tatu Sawosa	  8   AUS OBF POT ani cel		Osebo:4
+1x Kisha Bhimji	  5   AUS cel obf pot		magaji	Osebo:3
+1x Idrissa	  4   CEL aus				Osebo:4
+1x Ismitta	  4   aus cel pot			Osebo:4
+
+Library (90 cards)
+Master (15; 4 trifle)
+1x Base Hunting Ground
+2x Fame
+2x Grooming the Protégé
+2x Guardian Angel
+1x Mbare Market, Harare
+1x Powerbase: Tshwane
+2x Sudden Reversal
+4x Vessel
+
+Action (12)
+2x Anima Gathering
+3x Enforcer
+2x Heroic Might
+1x Legend of the Leopard
+4x No Secrets From the Magaji
+
+Equipment (2)
+1x Bowl of Convergence
+1x Palatial Estate
+
+Reaction (26)
+4x Eagle's Sight
+4x Enhanced Senses
+6x Eyes of Argus
+4x Quicken Sight
+8x Telepathic Misdirection
+
+Combat (34)
+6x Acrobatics
+6x Blur
+4x Disarm
+6x Flash
+6x Psyche!
+6x Sideslip
+
+Event (1)
+1x Dragonbound

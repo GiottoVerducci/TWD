@@ -1,0 +1,73 @@
+Manse Awakens
+Tampere, Finland
+June 8th 2019
+3R+F
+10 players
+Tero Aalto
+https://www.vekn.net/event-calendar/event/9246
+
+-- 1GW3 + 3VP in final
+
+My second tournament win came about with a deck that I had been prepping for a
+few months with very consistent results. The meta was very combat-heavy, which
+I thought would be bad for me but somehow I survived. I guess playing
+cautiously and trying not to do too much in early game is the secret to this
+archetype.
+
+Very minor changes to previous versions. It seems to be particularly important
+for this deck to be as slim as possible, so I try to always keep it at 65
+
+Crypt (12 cards, min=13, max=40, avg=6.92)
+------------------------------------------
+5x unnamed, The		   10  CEL DAI OBF PRE PRO  	    Baali:6
+2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  	    Baali:6
+2x Arishat		   6   DAI OBF PRE	    1 vote  Baali:6
+2x Horde, The		   3   dai obf pre	    	    Baali:6
+1x Anarch Convert	   1   -none-		    	    Caitiff:ANY
+
+Library (65 cards)
+Master (10; 3 trifle)
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Perfectionist
+3x Tend the Flock
+1x Vessel
+1x Villein
+1x Wider View
+
+Action (13)
+1x Contagion
+4x Entrancement
+5x Flurry of Action
+3x Unleash Hell's Fury
+
+Ally (4)
+3x Infernal Servitor
+1x Veneficti
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (22)
+2x Cloak the Gathering
+3x Elder Impersonation
+3x Enkil Cog
+2x Faceless Night
+4x I am Legion
+6x Instantaneous Transformation
+2x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+5x Sense the Sin
+
+Reaction (1)
+1x Delaying Tactics
+
+Combat (4)
+4x Form of Mist
+
+Event (1)
+1x Narrow Minds

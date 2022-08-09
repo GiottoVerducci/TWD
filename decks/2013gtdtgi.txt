@@ -1,0 +1,48 @@
+Tappa del Tour
+Genoa, Italy
+June 8th 2013
+2R+F
+21 players
+Denny Bruset
+
+Deck Name: Il sommo imperatore Karsh
+
+Crypt (12 cards, min=20, max=40, avg=7.67)
+------------------------------------------
+3x Karsh		10  ANI CEL FOR POT PRO	 Gangrel:3
+3x Karsh (ADV)		10  ANI CEL FOR POT PRO	 Gangrel:3
+3x Janey Pickman	6   ANI PRO for		 Gangrel antitribu:4
+1x Céleste Lamontagne	5   ANI PRO for		 Gangrel antitribu:4
+1x Lord Ashton		5   ANI for pro		 Gangrel:3
+1x Bobby Lemon		4   ANI pro		 Gangrel:3
+
+Library (90 cards)
+Master (16; 2 trifle)
+7x Ashur Tablets
+2x Dreams of the Sphinx
+4x Minion Tap
+1x Pentex(TM) Subversion
+2x Vessel
+
+Action (14)
+5x Deep Song
+4x Fleetness
+1x Preternatural Strength
+4x Taunt the Caged Beast
+
+Equipment (2)
+1x Codex of the Edenic Groundskeepers
+1x Eye of Hazimel
+
+Action Modifier (12)
+4x Forced March
+8x Freak Drive
+
+Combat (46)
+9x Amaranth
+8x Claws of the Dead
+7x Drawing Out the Beast
+8x Immortal Grapple
+6x Infernal Pursuit
+4x Skin of Rock
+4x Soak

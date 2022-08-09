@@ -1,0 +1,77 @@
+Games of Instinct
+Bonn, Germany
+October 9th 2011
+3R+F
+18 players
+Martin Schumacher
+
+-- 3VP in final
+
+Deck Name: The great wall
+
+Description: The deck of resource superiority
+
+Crypt (12 cards, min=30, max=39, avg=8.67)
+------------------------------------------
+3x Lambach				  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
+2x Stravinsky				  9   ANI AUS VIC pot	   archbishop	Tzimisce:2
+2x Little Tailor of Prague		  8   ANI AUS VIC dem	   		Tzimisce:2
+1x John Paleologus			  9   ANI AUS CEL VIC pot  archbishop	Tzimisce:3
+1x Velya, The Flayer			  9   ANI AUS PRE VIC for  cardinal	Tzimisce:3
+1x Meshenka				  8   ANI AUS VIC	   priscus	Tzimisce:2
+1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
+1x Caliban				  6   ANI AUS VIC	   		Tzimisce:2
+
+Library (90 cards)
+Master (21; 10 trifle)
+1x Direct Intervention
+1x Erciyes Fragments, The
+1x Fear of Mekhet
+1x Giant's Blood
+1x Gurchon Hall
+1x KRCG News Radio
+1x Lilith's Blessing
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Vessel
+5x Villein
+2x Wash
+1x Wider View
+
+Action (9)
+3x Abbot
+3x Deep Song
+3x Eternal Vigilance
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (2)
+2x Changeling
+
+Reaction (26)
+2x Delaying Tactics
+4x Eagle's Sight
+4x Enhanced Senses
+4x Eyes of Argus
+4x My Enemy's Enemy
+4x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (27)
+1x Canine Horde
+7x Carrion Crows
+6x Chiropteran Marauder
+3x Quick Jab
+7x Starvation of Marena
+3x Taste of Vitae
+
+Event (1)
+1x Fourth Cycle, The

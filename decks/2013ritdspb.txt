@@ -1,0 +1,54 @@
+Rainbow in the Dark
+São Paulo, Brazil
+March 10th 2013
+3R+F
+17 players
+Francisco Mantovanini Carvalho
+
+Deck Name: Power to the People
+
+Crypt (12 cards, min=4, max=16, avg=2.33)
+-----------------------------------------
+3x Anarch Convert	1   -none-	Caitiff:ANY
+1x Loonar		4   PRE cel	Toreador antitribu:4
+1x Lumumba		4   PRE ani	Guruhi:4
+1x Marla Kenyon		4   PRE ser	Follower of Set:4
+1x Reverend Adams (ADV)	4   PRE aus	Ventrue:4
+1x Dr. Solomon Grey	2   dom pre	Caitiff:5
+1x Honest Abe		2   pre		Brujah:5
+1x Jayne Jonestown	2   PRE		Brujah antitribu:4
+1x Mary Johnson		2   for pre	Pander:4
+1x Dirk			1   pre		Caitiff:4
+
+Library (70 cards)
+Master (20; 8 trifle)
+1x Anarch Railroad
+1x Club Illusion
+5x Effective Management
+3x Galaric's Legacy
+1x House of Sorrow
+1x Information Highway
+5x Life in the City
+1x Poacher's Hunting Ground
+2x Twilight Camp
+
+Action (16)
+2x Dream World
+1x Enchant Kindred
+13x Undue Influence
+
+Action Modifier (15)
+1x Monkey Wrench
+14x Power of One
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (16)
+2x Groundfighting
+4x Majesty
+6x Staredown
+4x Unholy Penance
+
+Event (1)
+1x Narrow Minds

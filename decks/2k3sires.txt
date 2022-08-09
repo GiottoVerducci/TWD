@@ -1,0 +1,60 @@
+Sire's Index Finger
+Boston, Massachusetts
+December 20th 2003
+10 players
+Scott Gomes
+
+Deck Name: Fortitude weenies of the world unite
+
+Description: Bring out weenies and over whelm your prey.
+If your prey has weak combat, press to continue. If your
+prey has a strong combat, press to end. Has a pretty strong
+defensive package too.
+
+Crypt (12 cards, min=12, max=20, avg=3.92)
+------------------------------------------
+1x Billy			5   AUS dom for		Ventrue antitribu:2
+1x Ghivran Dalaal, The Dead God	5   FOR ani aus chi	Ravnos:2
+1x Kyoko Shinsegawa		5   aus cel dom for	Tremere:3
+1x Miriam Benyona		5   AUS for obe		Salubri:2
+1x Ingrid Russo			4   DOM for		Ventrue antitribu:2
+1x Maldavis			4   AUS for pre		Caitiff:3
+1x Peter Blaine			4   aus dom for		Ventrue antitribu:2
+1x Juan Cali			3   aus for		Ventrue antitribu:2
+1x Lana Butcher			3   dom for		Ventrue:3
+1x Lázár Dobrescu		3   for			Ravnos:2
+1x Leon				3   ani for		Gangrel antitribu:2
+1x Lolita			3   for pre		Toreador antitribu:2
+
+Library (90 cards)
+Master (15)
+3x Blood Doll
+1x Corporate Hunting Ground
+4x Effective Management
+6x Fortitude
+1x KRCG News Radio
+
+Action (4)
+2x Force of Will
+2x Restoration
+
+Action Modifier (11)
+5x Conditioning
+3x Dawn Operation
+3x Kiss of Ra, The
+
+Reaction (19)
+6x Deflection
+3x Delaying Tactics
+3x Enhanced Senses
+1x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (41)
+21x Indomitability
+1x King of the Mountain
+7x Resilience
+2x Rolling with the Punches
+2x Skin of Night
+2x Skin of Rock
+6x Unflinching Persistence

@@ -1,0 +1,61 @@
+Mind of a Killer
+Quebec City, Quebec
+July 30th 2006
+18 players
+Marc Desaulniers
+
+Deck Name: LaiBoon Carnival
+
+This is a swarm Ravnos deck with a twist of Laibon & Boons (Tumnimos
+made by Tsunda are Laibon). Powerbase: Tshwane is very good & The
+Eldest are Kholo used for boons and vote defence
+
+Crypt (12 cards, min=20, max=28, avg=6)
+---------------------------------------
+4x Mata Hari			7   CHI OBF aus for qui	 2 votes  Ravnos:4
+4x Tsunda			6   CHI abo ani dem	 magaji	  Ravnos:4
+4x Paul Forrest, False Prophet	5   chi for pre		 	  Ravnos:4
+
+Library (90 cards)
+Master (38)
+4x Blood Doll
+1x Demonstration
+2x Dreams of the Sphinx
+1x Ferraille
+1x Fortune Teller Shop
+1x Giant's Blood
+4x Parthenon, The
+1x Pentex(TM) Subversion
+4x Powerbase: Tshwane
+6x Ravnos Carnival
+4x Sunset Strip, Hollywood
+6x Tribute to the Master
+1x Ventrue Headquarters
+2x Week of Nightmares
+
+Action (18)
+10x Embrace, The
+8x Tumnimos
+
+Ally (3)
+3x Rom Gypsy
+
+Equipment (2)
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Political Action (7)
+7x Consanguineous Boon
+
+Action Modifier (4)
+4x Cloak the Gathering
+
+Action Modifier/Combat (10)
+5x Mirror Image
+5x Occlusion
+
+Action Modifier/Reaction (7)
+7x Eldest Are Kholo, The
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,60 @@
+Shotgun Ritual
+Toronto
+May 13th 2001
+10 players
+Andrew Weston
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/GDX7rXOv854
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/J1V7HOb2tQE
+
+Name of Deck: Do Not Feed the Animals
+
+Crypt (12 cards, min=7, max=12, avg=2.5)
+----------------------------------------
+2x Vliam Andor			2   ani		Gangrel:1
+1x Anastasia Grey		3   ani pro	Gangrel:1
+1x Leon				3   ani for	Gangrel antitribu:2
+1x Panagos Levidis		3   ani obf	Gangrel:2
+1x Raziya Samater		3   ani pot	Brujah:2
+1x Shannon Price, The Whisperer	3   ani obf	Nosferatu antitribu:2
+1x Tommy			3   ani pot	Nosferatu antitribu:2
+1x Wendy Wade			3   ani aus	Tzimisce:2
+1x Dani				2   ani		Nosferatu antitribu:2
+1x Gillian Krader		2   ani dem	Pander:2
+1x Navar McClaren		1   ani		Caitiff:1
+
+Library (90 cards)
+Master (16)
+1x Anarch Troublemaker
+8x Animalism
+2x Blood Doll
+2x Effective Management
+1x Haven Uncovered
+1x Humanitas
+1x Zoo Hunting Ground
+
+Action (11)
+2x Army of Rats
+8x Computer Hacking
+1x Tier of Souls
+
+Ally (1)
+1x Renegade Garou
+
+Retainer (7)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Murder of Crows
+3x Raven Spy
+1x Tasha Morgan
+
+Reaction (8)
+4x Guard Dogs
+4x Wake with Evening's Freshness
+
+Combat (47)
+21x Aid from Bats
+14x Carrion Crows
+4x Dodge
+2x Drawing Out the Beast
+4x Fake Out
+2x Terror Frenzy

@@ -1,0 +1,61 @@
+Justicar Retribution I
+Helsinki, Finland
+September 25th 2011
+3R+F
+12 players
+Heikki Palomäki
+
+-- 3VP in final
+
+Deck Name: Hot wings
+
+Crypt (12 cards, min=13, max=31, avg=5.67)
+------------------------------------------
+1x Anton		   8   ANI AUS cel obf vic  		Tzimisce:2
+1x Little Tailor of Prague 8   ANI AUS VIC dem	    		Tzimisce:2
+1x Meshenka		   8   ANI AUS VIC	    priscus	Tzimisce:2
+1x Dragos		   7   ANI AUS vic	    		Tzimisce:2
+1x Omaya		   7   ANI AUS FOR pro	    		Gangrel antitribu:2
+1x Caliban		   6   ANI AUS VIC	    		Tzimisce:2
+1x Corine Marcón	   6   AUS VIC ani	    		Tzimisce:2
+1x Devin Bisley		   5   ANI AUS vic	    		Tzimisce:2
+1x Elizabeth Westcott	   5   AUS ani cel vic	    		Tzimisce:3
+1x Terrence		   4   ani aus vic	    		Tzimisce:2
+1x Wendy Wade		   3   ani aus		    		Tzimisce:2
+1x Lisa Noble		   1   ani		    		Caitiff:3
+
+Library (89 cards)
+Master (17; 2 trifle)
+1x Archon Investigation
+7x Blood Doll
+1x Fame
+3x Lilith's Blessing
+1x Pentex(TM) Subversion
+2x Smiling Jack, The Anarch
+2x Wash
+
+Action (12)
+4x Abbot
+8x Deep Song
+
+Equipment (2)
+1x Bowl of Convergence
+1x Ivory Bow
+
+Action Modifier (4)
+4x Changeling
+
+Reaction (24)
+6x Eyes of Argus
+2x My Enemy's Enemy
+3x On the Qui Vive
+10x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (30)
+7x Aid from Bats
+3x Canine Horde
+8x Carrion Crows
+3x Chiropteran Marauder
+4x Target Vitals
+5x Taste of Vitae

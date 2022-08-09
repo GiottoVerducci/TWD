@@ -1,0 +1,81 @@
+Northern France European Qualifier
+Paris, France
+April 18th 2009
+3R+F
+36 players
+Orian Gissler
+
+Deck Name: 2 bad broken guys
+
+Description: Erik killed my surprise effect lol
+
+Crypt (13 cards, min=12, max=36, avg=6.54)
+------------------------------------------
+5x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
+1x Baldesar Rossellini		8   DOM POT aus for nec	 	  Giovanni:4
+1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
+1x Gualtiero Ghiberti		7   DOM NEC cel pot tha	 	  Giovanni:4
+1x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
+1x Primo Giovanni		4   dom nec pot		 	  Giovanni:4
+1x Almodo Giovanni		3   dom pot		 	  Giovanni:4
+1x Lia Milliner			3   dom nec		 	  Giovanni:3
+1x Cristobal Ghiberti		2   nec			 	  Giovanni:4
+
+Library (82 cards)
+Master (29; 1 trifle)
+1x Anarch Troublemaker
+1x Barrens, The
+1x Carver's Meat Packing and Storage
+1x Charisma
+1x Direct Intervention
+1x Dis Pater
+1x Dummy Corporation
+1x Filchware's Pawn Shop
+1x Information Highway
+1x Jake Washington
+1x Metro Underground
+1x Misdirection
+1x Monastery of Shadows
+5x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Powerbase: Montreal
+1x Powerbase: Savannah
+1x Powerbase: Zürich
+1x Secure Haven
+4x Storage Annex
+1x Tower of London
+
+Action (15)
+1x Chair of Hades
+1x Dominate Kine
+1x Far Mastery
+8x Govern the Unaligned
+4x Sudario Refraction
+
+Ally (8)
+1x Ambrosius, The Ferryman
+1x Mylan Horseed
+5x Puppeteer
+1x Tye Cooper
+
+Equipment (1)
+1x Gran Madre di Dio, Italy
+
+Action Modifier (15)
+1x Bonding
+5x Call of the Hungry Dead
+4x Conditioning
+5x Shroud Mastery
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (8)
+5x Deflection
+2x Delaying Tactics
+1x Redirection
+
+Event (2)
+1x Anthelios, The Red Star
+1x Unmasking, The

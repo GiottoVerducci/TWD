@@ -1,0 +1,66 @@
+Belgian NC 2017
+Brussels, Belgium
+July 16th 2017
+3R+F
+19 players
+Martin Schumacher
+https://www.vekn.net/event-calendar/event/8676
+
+-- 2GW8 + 2VP in final
+
+Deck Name: Black Jack
+
+Thanks to Bram Van Stappen for continuing colaboration
+
+Crypt (12 cards, min=31, max=40, avg=9.08)
+------------------------------------------
+4x Cybele	  10  ANI DAI OBF PRE SER THA		 Baali:4
+3x Nana Buruku	  8   ANI POT PRE			 Guruhi:4
+2x Nakhthorheb	  10  OBF PRE SER			 Follower of Set:4
+2x Aksinya Daclau 9   ANI FOR PRE PRO cel tha		 Gangrel antitribu:4
+1x Stavros	  7   AUS OBF PRE dem		priscus	 Malkavian antitribu:4
+
+Library (90 cards)
+Master (48; 8 trifle)
+1x Archon Investigation
+21x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+1x Fear of Mekhet
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+7x Liquidation
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Protected Resources
+5x Villein
+2x Wider View
+
+Action (10)
+2x Call the Great Beast
+1x Enticement
+2x Entrancement
+3x Intimidation
+2x Unleash Hell's Fury
+
+Action Modifier (19)
+4x Aire of Elation
+5x Elder Impersonation
+7x Into Thin Air
+2x Spying Mission
+1x Truth of a Thousand Lies
+
+Action Modifier/Combat (1)
+1x Hide the Mind
+
+Reaction (4)
+3x Delaying Tactics
+1x Lost in Translation
+
+Combat (7)
+5x Majesty
+2x Staredown
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,65 @@
+Saideira
+São Paulo, Brazil
+December 9th 2012
+3R+F
+10 players
+Desso Alastor
+
+Deck Name: Mascara da Morte
+
+Crypt (12 cards, min=12, max=36, avg=5.83)
+------------------------------------------
+4x Gerald Windham	   9   AUS DOM FOR THA	Tremere:5
+2x Lord Ephraim Wainwright 6   AUS THA for pre	Tremere:5
+2x Claus Wegener	   5   DOM aus for tha	Tremere:5
+2x Jackson Asher	   2   dom		Ventrue:4
+1x Esoara		   5   DOM aus for pot	Tremere antitribu:4
+1x Ulrike Rothbart	   3   dom for		Ventrue antitribu:4
+
+Library (90 cards)
+Master (12; 5 trifle)
+1x Academic Hunting Ground
+1x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Heidelberg Castle, Germany
+1x Secure Haven
+1x Sudden Reversal
+2x Vessel
+2x Villein
+1x Wash
+
+Action (24)
+2x Big Game
+2x Bum's Rush
+7x Graverobbing
+2x Harass
+6x Magic of the Smith
+2x Nose of the Hound
+2x Restoration
+1x Rutor's Hand
+
+Equipment (8)
+1x Ankara Citadel, Turkey, The
+1x Assault Rifle
+1x Book of Going Forth by Night, The
+1x Helicopter
+1x Ivory Bow
+1x Pier 13, Port of Baltimore
+1x Rowan Ring
+1x Sire's Index Finger
+
+Action Modifier (20)
+5x Conditioning
+13x Freak Drive
+2x Mirror Walk
+
+Reaction (10)
+6x Eluding the Arms of Morpheus
+4x Redirection
+
+Combat (16)
+2x Skin of Steel
+2x Superior Mettle
+7x Thoughts Betrayed
+5x Unflinching Persistence

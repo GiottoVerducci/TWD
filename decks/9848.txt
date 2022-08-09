@@ -1,0 +1,123 @@
+Origins - Friday 1
+Columbus, Ohio
+October 1st 2021
+2R+F
+10 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/9848
+
+-- 0 GW 1.5 VP + 2.5 VP in final
+
+Deck Name: Balls of Stihl
+Author: Darby Keeney and John Eno
+Description: A dancing Imbued deck featuring Talbot's Chainsaw.
+
+Mental mistakes cost games. In round one, I was blocked transferring equipment to Jennie, but my
+mental game state had that action succeed, so when I blocked with a one life Jennie two turns later
+the mistake leads to a burned Jennie. It's really hard to run this deck without her. 0 VPs in round
+one.
+
+Round two wasn't shaping up to be any better. My prey was playing Lasombra and influenced Carolina
+Valez and Lord Leopold Valdemar in that order. Not being able to damage one of them and having to
+handle theft with the other was going to be problematic. My predator was playing Carna, but had to
+worry about Rachel Brandywine, leaving me some wiggle room. This allowed me to get some early
+powers into play. Late game I used Angel of Berlin to put Talbot's Chainsaw on Jennie. She rushed
+the famous Lord Leopold, dunking him. After unlocking with Vigilance, I was able to bleed with
+Strike/Second Sight to oust. Next turn with time running low, I land the ousting bleed on my new
+prey, but Carna decides to Eagle's Sight my ousting bleed. Instead of a game win, I end up with
+1.5 VPs.
+
+That's enough to sneak into the finals as 5th seed.
+Ian Lee with Lasombra ->
+Darby Keeney with Legacy of Pander ->
+Alex Romano with Rachel Brandywine Madness Network ->
+me ->
+Mark Loughman with Carna
+
+Darby gets the Information Highway in his opening hand and dumps 3 Pander on the table. Alex
+influences Zoe to help defend against the impending Pander horde. I drop counters on Travis and
+Mark begins influencing as well. Ian gets an early Zillah's Valley and brings a titled vampire into
+play before Darby has a chance to call any votes. Darby turns into a weenie bleed deck, calling
+occasional votes that Ian permits. Alex is behind on getting Rachel in play and needs to spend lots
+of time looking backwards. My ability to cut Mark's crypt (for the second time today) to hide Carna
+means that my early actions aren't blocked. I quickly get to three Imbued with Travis, Jennie, and
+Jack(?). I'm actually in a really good spot because of the pressure on Alex, who is floating around
+3-4 pool. After an Unmasking, I get out two more Imbued about the time Darby transfers out. Alex
+still has to contend with Ian, but the pressure is less. I start having to deal with Alex's bleeds.
+After only the occasional forward action, Pentex floats into my hand. The time is now. I Pentex
+Carna and Strike/Second Sight my way through 9 pool. I am completely locked and Alex undoes most of
+the pool gain I received for my oust. Ian was low on pool because Dominate is pretty good, so as my
+new prey, I Strike/Second Sight my way through his 3 pool, grabbing another VP. Alex burns through
+my VP pool because I am again locked completely. On my next turn, I have 5 Imbued ready for Alex
+and am sitting on 14 pool. I have two Champions with 3 and 5 convictions respectively, Second Sight
+on every Imbued, and intercept powers and equipment on top of the Unmasking. I just need to make the
+last 15 minutes. With the Madness Network in play, I need to defend against 6 actions between my
+unlocks. I survive a turn, play Unity, use it to put two Angel of Berlin on top of my library. That
+will give me enough unlock to survive until time. After one more big effort by Alex, he concedes
+with a few minutes left on the clock.
+
+Imbued get a lot of table hate and I did take some cross-table vote damage, but not too much in
+this game. The deck is very solid if you can get the setup right. Early blocks of powers, Travis's
+ability, and Inspire actions put you behind the curve. I was lucky to get most of my setup because
+of table dynamics. The deck is fun to play, but requires many, small, correct steps, like a
+Rube-Goldberg machine, before you're in a position to be truly successful.
+
+Crypt (12 cards, min=14, max=20, avg=4.33)
+------------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x Xian "DziDzat155" Quan	4   def inn	 Defender:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (71 cards)
+Master (14; 1 trifle)
+5x Angel of Berlin
+2x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Fame
+1x Fortschritt Library
+1x Pentex(TM) Subversion
+1x Smiling Jack, The Anarch
+1x Unity
+1x Wider View
+
+Conviction (22)
+8x React with Conviction
+7x Second Sight
+7x Strike with Conviction
+
+Ally (2)
+1x Carlton Van Wyk
+1x Vagabond Mystic
+
+Equipment (12)
+1x .44 Magnum
+1x Crusader Sword, The
+1x Flak Jacket
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Laptop Computer
+2x Leather Jacket
+1x Sport Bike
+2x Talbot's Chainsaw
+
+Power (15)
+2x Champion
+2x Discern
+1x Hide
+2x Inspire
+3x Rejuvenate
+5x Vigilance
+
+Reaction (1)
+1x Determine
+
+Event (5)
+1x Dragonbound
+1x NRA PAC
+2x Unmasking, The
+1x Veil of Darkness

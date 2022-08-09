@@ -1,0 +1,69 @@
+Boxed In French Qualifier
+Clermont-Ferrand, France
+July 6th 2008
+2R+F
+12 players
+Marcus Simoni
+
+-- 3VP in final
+
+Deck Name: Void Speed Shambling
+
+Crypt (12 cards, min=12, max=23, avg=4.25)
+------------------------------------------
+2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Rudolfo Giovanni	3   NEC			Giovanni:2
+1x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+1x Rafaele Giovanni	6   NEC cel obf		Giovanni:2
+1x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+1x Francesca Giovanni	4   dom nec pot		Giovanni:2
+1x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Cristofero Giovanni	3   nec pot		Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+1x Mario Giovanni	3   nec pot		Giovanni:2
+
+Library (70 cards)
+Master (22)
+4x Acquired Ventrue Assets
+1x Direct Intervention
+1x Fame
+1x Fortschritt Library
+1x Giant's Blood
+1x Jake Washington
+5x Liquidation
+4x Parthenon, The
+2x Path of Bone, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+
+Action (6)
+2x Govern the Unaligned
+4x Sudario Refraction
+
+Ally (18)
+1x Leonardo, Mortician
+16x Shambling Hordes
+1x Tye Cooper
+
+Equipment (2)
+2x Unlicensed Taxicab
+
+Action Modifier (8)
+6x Call of the Hungry Dead
+2x Conditioning
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+Reaction (4)
+1x Deflection
+3x Delaying Tactics
+
+Combat (3)
+3x Trap
+
+Event (5)
+1x Anthelios, The Red Star
+1x Dragonbound
+1x FBI Special Affairs Division
+2x Unmasking, The

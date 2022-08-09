@@ -1,0 +1,74 @@
+NAC 2006 Day 2 - Shadow Twin
+Atlanta, Georgia
+October 8th 2006
+2R+F
+28 players
+Fletcher Gibson
+
+Deck Name: Pornstars, Inc.
+
+Crypt (12 cards, min=20, max=31, avg=6.42)
+------------------------------------------
+3x Reg Driscoll			 8   OBF THN aus for pre  Samedi:2
+3x Jorge De La Muerte, The Agent 7   OBF THN cel for nec  Samedi:2
+2x Alonzo Guillen		 6   OBF ani for pot	  Nosferatu:3
+2x Lithrac			 5   OBF for thn	  Samedi:2
+1x George Frederick		 6   FOR THN nec obf	  Samedi:2
+1x Wolfgang			 4   for obf pot	  Nosferatu:3
+
+Library (90 cards)
+Master (21; 3 trifle)
+1x Barrens, The
+6x Blood Doll
+1x Coroner's Contact
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Grooming the Protégé
+1x Heidelberg Castle, Germany
+2x Houngan
+2x Jake Washington
+3x Wash
+
+Action (9)
+8x Computer Hacking
+1x Revelations
+
+Equipment (9)
+1x Flaming Candle
+1x Heart of Nizchetus
+2x Incriminating Videotape
+3x Laptop Computer
+1x Learjet
+1x Palatial Estate
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Robert Carter
+1x Tasha Morgan
+
+Action Modifier (30)
+2x Cloak the Gathering
+1x Daring the Dawn
+3x Elder Impersonation
+4x Faceless Night
+4x Freak Drive
+4x Hag's Wrinkles
+6x Lost in Crowds
+4x Spying Mission
+2x True Love's Face
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (11)
+1x Compress
+6x Dust to Dust
+1x Infection
+3x Soak
+
+Event (1)
+1x NRA PAC

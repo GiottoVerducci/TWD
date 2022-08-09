@@ -1,0 +1,104 @@
+Rage Across Appalachia
+Asheville, North Carolina
+July 19th 2017
+2R+F
+12 players
+Justin Lacey
+https://www.vekn.net/event-calendar/event/8596
+
+-- 3VP in final
+
+Deck Name: Big Gangrel
+
+My Gangrel IC deck has been a staple for a long time. My recent update was
+influenced by Martin Weinmayer's NAC deck. Your kill combo is Parity Shift +
+Govern the Unaligned + Conditioning. Several fun tricks in the deck. First game
+in the tournament, my predator was a power bleed deck. He Pentex Subversioned
+my first vampire and then hit me for multiple bleeds for 5. He got me down to 2
+pool before I came back to take all the VPs and the Game Win. This deck
+survives way better than I expected with considerable pool gain. In the Finals,
+I got to choose my predator and prey which gave me an overwhelming advantage.
+The deck is a little too dependent on strike: combat ends and I will probably
+add a Secure Haven.
+
+Notes:
+ Jake Washington	 - The Combo is with Vessel, but generic blood gain is good.
+ Metro Underground	 - Fun with Enkil Cog but good after bleeding to setup bleed bounce.
+ Pentex Subversion	 - Not great, because you never want to block the (D) action.
+ Perfectionist	 - Free Govern the Unaligned.
+ Zoo Hunting Ground	 - Two hunting grounds in play is very nice.
+ Carlton Van Wyk - One of your best defense cards against Combat rush.
+ Form of Mist	 - My ratio of combat cards is something I stole from Martin W.
+ Heart of Nizchetus	 - Good, but not necessary.
+ Seal of Veddartha	 - Better than the Heart.
+ Scourge of the Enochians - played but never mattered.
+ Banishment	 - This gets rid of problems and can cause more pool loss than parity shift.
+ Guard Dogs	 - Fun with Enkil Cog, can get you to long range, and works with bounce.
+
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Stanislava		11  ANI CEL DOM FOR PRO		 inner circle	Gangrel:2
+2x Xaviar (ADV)		10  ABO ANI FOR PRO aus cel pot	 justicar	Gangrel:3
+2x Ingrid Rossler	9   ANI FOR PRO dom		 prince		Gangrel:2
+1x Genevieve		10  ANI FOR PRO aus dom		 priscus	Gangrel antitribu:2
+1x Hartmut Stover	10  CEL OBF PRO dom for		 archbishop	Gangrel antitribu:3
+1x Rachel Brandywine	10  AUS DEM OBF PRO ani		 prince		Malkavian:3
+1x Mark Decker		8   CEL PRO ani for obf pot	 prince		Gangrel:3
+
+Library (90 cards)
+Master (24; 8 trifle)
+1x Backways
+4x Dreams of the Sphinx
+1x Ennoia's Theater
+1x Giant's Blood
+1x Information Highway
+2x Jake Washington
+1x Metro Underground
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion
+1x Perfectionist
+2x Vessel
+6x Villein
+1x Zoo Hunting Ground
+
+Action (9)
+9x Govern the Unaligned
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Seal of Veddartha
+
+Political Action (11)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+6x Parity Shift
+1x Reins of Power
+
+Action Modifier (16)
+3x Conditioning
+6x Earth Control
+1x Enkil Cog
+2x Forced March
+4x Instantaneous Transformation
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (10)
+6x Deflection
+4x Guard Dogs
+
+Combat (12)
+4x Earth Meld
+8x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians

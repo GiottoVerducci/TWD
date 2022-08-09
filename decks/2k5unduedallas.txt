@@ -1,0 +1,54 @@
+Undue Influence
+Dallas, Texas
+July 9th 2005
+3R+F
+12 players
+Jon Glas
+
+MDW: Potence (mono-discipline weenies)
+
+Crypt (13 cards, min=9, max=13, avg=2.85)
+-----------------------------------------
+1x Hector Sosa			4   POT pre	 Brujah:1
+1x Cameron			3   dom pot	 Lasombra:2
+1x Cristofero Giovanni		3   nec pot	 Giovanni:2
+1x Dre, Leader of the Cold Dawn	3   cel pot	 Brujah:1
+1x Duck				3   obf pot	 Nosferatu:1
+1x Jacob Bragg			3   cel pot	 Brujah antitribu:2
+1x Mario Giovanni		3   nec pot	 Giovanni:2
+1x Raziya Samater		3   ani pot	 Brujah:2
+1x Tom				3   for pot san	 Blood Brother:2
+1x Tommy			3   ani pot	 Nosferatu antitribu:2
+1x KoKo				2   pot		 Nosferatu:1
+1x Lupo				2   pot		 Brujah:1
+1x Paul DiCarlo, The Alpha	2   pot		 Giovanni:2
+
+Library (89 cards)
+Master (19; 2 trifle)
+2x Archon Investigation
+8x Blood Doll
+1x Fame
+1x Inbase Discotek, Frankfurt
+1x Information Highway
+2x Life in the City
+4x Tribute to the Master
+
+Action (8)
+4x Ambush
+4x Bum's Rush
+
+Equipment (4)
+4x IR Goggles
+
+Reaction (18)
+2x Delaying Tactics
+4x Pack Tactics
+2x Poison Pill
+10x Wake with Evening's Freshness
+
+Combat (40)
+12x Backstep
+2x Fake Out
+4x High Ground
+4x Taste of Vitae
+18x Thrown Sewer Lid

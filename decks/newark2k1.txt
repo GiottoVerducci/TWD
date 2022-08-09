@@ -1,0 +1,63 @@
+Newark Revolt
+Newark, Ohio
+October 13th 2001
+Brian Shafer
+
+"Aerial Attack"
+
+Crypt (12 cards, min=20, max=40, avg=7.67)
+------------------------------------------
+2x Wynn			10  ANI FOR PRO obf pot	 primogen	Gangrel:1
+2x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
+2x Haakon Mortensen	8   ANI FOR PRO		 		Gangrel antitribu:2
+2x Gitane St. Claire	7   ANI FOR PRO		 primogen	Gangrel:1
+1x Camille Devereux	5   FOR PRO ani		 		Gangrel:1
+1x Raven		5   FOR PRO ani		 		Gangrel:1
+1x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
+1x Leon			3   ani for		 		Gangrel antitribu:2
+
+Library (90 cards)
+Master (15)
+1x Animalism
+1x Backways
+4x Blood Doll
+1x Ecoterrorists
+2x Haven Uncovered
+1x Information Highway
+1x Rack, The
+1x Secret Horde
+2x Short-Term Investment
+1x Zoo Hunting Ground
+
+Action (4)
+1x Army of Rats
+2x Bum's Rush
+1x Shadow of the Beast
+
+Equipment (1)
+1x RPG Launcher
+
+Retainer (9)
+1x Dog Pack
+1x Mr. Winthrop
+3x Murder of Crows
+2x Raptor
+2x Raven Spy
+
+Reaction (7)
+2x Forced Awakening
+3x Rat's Warning
+2x Wake with Evening's Freshness
+
+Combat (54)
+14x Aid from Bats
+1x Canine Horde
+9x Carrion Crows
+3x Drawing Out the Beast
+3x Earth Meld
+2x Form of the Ghost
+2x Gleam of Red Eyes
+6x Indomitability
+2x Skin of Rock
+1x Skin of Steel
+11x Unflinching Persistence

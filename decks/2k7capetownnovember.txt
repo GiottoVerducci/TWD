@@ -1,0 +1,73 @@
+The Eldest Command Undeath
+Cape Town, South Africa
+November 17th 2007
+10 players
+Daniel Boud
+
+Deck Name: Tribal Trouble
+
+Description: This is a fairly straight forward stealth vote deck using
+the Ishtarri plus a few friends. Ayo Igoli is team captain what with her
+obfuscate, farming* capability and exponential vote gain. Ousting power is
+supplied by KRC, farming courtesy of Voter Cap/Minion Tap and a few ‘in case'
+extras thrown in (e.g. The Secret must be Kept for the Imbued factor).
+
+*Note: In South Africa we use the term 'farm' instead of 'bloat'.
+
+Crypt (12 cards, min=18, max=38, avg=7.08)
+------------------------------------------
+3x Ayo Igoli		10  AUS CEL FOR PRE obf tha		Ishtarri:4
+2x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	Ishtarri:3
+2x Ubende		7   CEL PRE for obf qui		magaji	Ishtarri:4
+1x Mukhtar Bey		7   FOR PRE QUI obf pot		prince	Caitiff:4
+1x Honorine Ateba	6   FOR PRE cel nec			Ishtarri:4
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	Ventrue:4
+1x Shasa Abu Badr	5   PRE cel for				Ishtarri:4
+1x Tupdog		1   POT VIS				Gargoyle:3
+
+Library (90 cards)
+Master (12; 2 trifle)
+1x Ancestor Spirit
+2x Glutton
+2x Grooming the Protégé
+1x Mbare Market, Harare
+4x Minion Tap
+2x Vessel
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (18)
+1x Ancient Influence
+2x Ancilla Empowerment
+2x Banishment
+2x Eldest Command Undeath, The
+8x Kine Resources Contested
+1x Reins of Power
+2x Secret Must Be Kept, The
+
+Action Modifier (33)
+6x Awe
+2x Bewitching Oration
+4x Forced March
+4x Forgotten Labyrinth
+2x Into Thin Air
+2x Kiss of Ra, The
+1x Strange Day
+4x Uncontrolled Impulse
+8x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Action Modifier/Reaction (8)
+2x Ishtarri Kholo
+6x Scalpel Tongue
+
+Reaction (4)
+4x Lost in Translation
+
+Combat (10)
+4x Majesty
+2x Staredown
+4x Unholy Penance

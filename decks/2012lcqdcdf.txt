@@ -1,0 +1,74 @@
+French NC 2012 - Last Chance Qualifier
+Rennes, France
+September 29th 2012
+3R+F
+40 players
+Thomas Gibson
+
+-- 3VP in final
+
+Deck Name: Wicked Bleed
+Created by: Thomas Gibson, based on Ferenc deck - without shatters
+
+Description: Bleed for one (bloat), then play your masters / retainers /
+enkil, then bleed for 8. Slow bleed stealth deck with good bloat and
+very resilient to rush - especially strong in an animalism/celerity-gun
+environment.
+
+Crypt (12 cards, min=16, max=40, avg=7.58)
+------------------------------------------
+5x unnamed, The		   10  CEL DAI OBF PRE PRO  		Baali:6
+3x Horde, The		   3   dai obf pre	    		Baali:6
+2x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
+2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
+
+Library (70 cards)
+Master (15; 1 trifle)
+1x Archon Investigation
+1x Coven, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Secure Haven
+4x Tend the Flock
+
+Action (12)
+4x Flurry of Action
+5x Intimidation
+3x Unleash Hell's Fury
+
+Retainer (4)
+2x D'habi Revenant
+2x Homunculus
+
+Action Modifier (22)
+2x Approximation of Loyalty
+1x Cloak the Gathering
+2x Elder Impersonation
+4x Enkil Cog
+3x Faceless Night
+1x I am Legion
+5x Lost in Crowds
+2x Psychomachia
+2x Spying Mission
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+5x Sense the Sin
+
+Reaction (3)
+1x Delaying Tactics
+2x Eluding the Arms of Morpheus
+
+Combat (7)
+3x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x Narrow Minds

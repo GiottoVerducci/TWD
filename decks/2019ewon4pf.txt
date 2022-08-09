@@ -1,0 +1,92 @@
+EC WoN - Thursday
+Paris, France
+August 15th 2019
+3R+F
+27 players
+Aapo Järvelin
+https://www.vekn.net/event-calendar/event/9358
+
+-- 1GW5.5 + 1.5VP in final
+
+Deck Name: Girls will find Liquidity
+
+Seating order was:
+ Aapo (Girls will find Liquidity) ->
+ Alain (Giovanni g23 Shambling Hordes) ->
+ Rudolf (Harbinger of Skulls Wallish Emerald Legionnaires) ->
+ Magnus (Presence Weenies) ->
+ Marius (Giovanni g23 Shambling Hordes)
+
+I do not remember who was starting player.
+
+Nothing new here, pretty basic Girls deck. This variant is based on the deck by
+Otso Saariluoma, which he used to win the Finnish NC 2018. Removed some cards
+to get the deck size down, and added a couple of Mirror Walks, to allow Aksinya
+to act a bit better if necessary, and to spread out the stealth package more.
+Could have used Mistress Fanchon instead of Rafael or Adana, but I opted out of
+it as she is lacking Presence.
+
+I also had a bit heavier investment on the Baali stuff, added a second Unleash
+Hell's Fury as I expected a lot of combat, Contagion to help with wearing down
+the opponents, and couple of I am Legions, because the ability to cancel Auspex
+is really good, and I like the ability to use it like instant speed "blood
+doll" to gain some pool, or to pay the Infernal tax in advance.
+
+Crypt (12 cards, min=34, max=42, avg=9.58)
+------------------------------------------
+4x Cybele		10  ANI DAI OBF PRE SER THA			Baali:4
+3x Aksinya Daclau	9   ANI FOR PRE PRO cel tha			Gangrel antitribu:4
+2x Nana Buruku		8   ANI POT PRE					Guruhi:4
+1x Adana de Sforza	11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Rafael de Corazon	11  AUS CEL DOM OBF PRE		inner circle	Toreador:4
+1x Nergal		10  AUS DAI FOR OBF PRE THA			Baali:5
+
+Library (83 cards)
+Master (51; 7 trifle)
+1x Archon Investigation
+15x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Jake Washington
+9x Liquidation
+1x Metro Underground
+1x Monastery of Shadows
+3x Parthenon, The
+1x Pentex(TM) Subversion
+5x Villein
+1x Wider View
+5x Zillah's Valley
+
+Action (5)
+1x Contagion
+2x Entrancement
+2x Unleash Hell's Fury
+
+Action Modifier (17)
+2x Aire of Elation
+1x Cloak the Gathering
+1x Elder Impersonation
+1x Enkil Cog
+1x Faceless Night
+2x I am Legion
+4x Lost in Crowds
+2x Mirror Walk
+1x Spying Mission
+1x True Love's Face
+1x Veil the Legions
+
+Action Modifier/Combat (3)
+1x Hide the Mind
+2x Swallowed by the Night
+
+Reaction (4)
+1x Delaying Tactics
+2x Guard Dogs
+1x Lost in Translation
+
+Combat (3)
+3x Majesty

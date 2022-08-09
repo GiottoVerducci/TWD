@@ -1,0 +1,73 @@
+Battle Frenzy
+Toronto, Ontario
+April 8th 2006
+2R+F
+13 players
+Peter Muto
+
+Deck Name: Tzi Tongue
+
+Crypt (13 cards, min=9, max=24, avg=4.38)
+-----------------------------------------
+2x Caliban		6   ANI AUS VIC		Tzimisce:2
+2x Corine Marcón	6   AUS VIC ani		Tzimisce:2
+2x Lolita Houston	4   VIC aus		Tzimisce:2
+1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
+1x Devin Bisley		5   ANI AUS vic		Tzimisce:2
+1x Elizabeth Westcott	5   AUS ani cel vic	Tzimisce:3
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Christine Boscacci	2   dom vic		Pander:2
+1x Horatio		2   vic			Tzimisce:2
+1x Olga Triminov	1   vic			Pander:3
+
+Library (90 cards)
+Master (16)
+2x Anarch Troublemaker
+3x Blood Doll
+1x Dreams of the Sphinx
+1x From a Sinking Ship
+1x Library Hunting Ground
+1x Path of Metamorphosis, The
+2x Perfectionist
+1x Rötschreck
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+2x Vicissitude
+
+Action (15)
+13x Fiendish Tongue
+1x Nose of the Hound
+1x Revelations
+
+Ally (2)
+2x Asanbonsam Ghoul
+
+Equipment (3)
+1x Bowl of Convergence
+1x Femur of Toomler
+1x Palatial Estate
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Revenant
+1x Tasha Morgan
+
+Action Modifier (12)
+1x Change of Target
+10x Changeling
+1x Stealth Ritus
+
+Action Modifier/Combat (9)
+9x Plasmic Form
+
+Reaction (15)
+2x Enhanced Senses
+2x My Enemy's Enemy
+5x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (14)
+4x Breath of the Dragon
+6x Chiropteran Marauder
+4x Meld with the Land

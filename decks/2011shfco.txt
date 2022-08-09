@@ -1,0 +1,84 @@
+NAC 2011 Day 1 - Shadow Twin #1
+Origins 2011, Columbus, Ohio
+June 24th 2011
+17 players
+Adam Hulse
+
+"Owain and the Anarchs"
+
+Crypt (12 cards, min=4, max=30, avg=4.67)
+-----------------------------------------
+4x Anarch Convert		    1	-none-			Caitiff:ANY
+2x Owain Evans, The Wanderer	    8	AUS DOM FOR cel pre	Ventrue antitribu:3
+2x Joseph O'Grady		    7	DOM FOR aus cel		Ventrue antitribu:3
+1x Dylan			    6	aus cel dom for pro	Ventrue antitribu:2
+1x Marlene, The Infernalist	    6	AUS DOM dem for tha	Ventrue antitribu:2
+1x Kyoko Shinsegawa		    5	aus cel dom for		Tremere:3
+1x Vincent Day, Paladin and Paragon 5	aus dom for pot tha	Ventrue antitribu:2
+
+Library (89 cards)
+Master (19; 3 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Archon Investigation
+2x Blood Doll
+1x Club Illusion
+1x Corporate Hunting Ground
+1x Demonstration
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Seattle Committee
+2x Sudden Reversal
+2x Vessel
+1x Villein
+
+Action (17)
+1x Aranthebes, The Immortal
+1x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: Perth
+3x Go Anarch
+8x Govern the Unaligned
+1x Open War
+
+Action/Combat (1)
+1x Steely Tenacity
+
+Equipment (4)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Political Action (3)
+2x Kine Resources Contested
+1x Neonate Breach
+
+Action Modifier (11)
+2x Conditioning
+3x Forced March
+6x Freak Drive
+
+Reaction (17)
+5x Deflection
+1x Delaying Tactics
+1x Eagle's Sight
+1x Eluding the Arms of Morpheus
+1x Enhanced Senses
+1x Eyes of Argus
+1x Final Loosening
+3x On the Qui Vive
+1x Precognition
+2x Spirit's Touch
+
+Combat (17)
+8x Diversion
+3x Lam Into
+1x Resilience
+1x Superior Mettle
+3x Taste of Vitae
+1x Weighted Walking Stick

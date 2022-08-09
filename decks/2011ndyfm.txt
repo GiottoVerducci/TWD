@@ -1,0 +1,52 @@
+Not Dead Yet!
+Flint, Michigan
+February 27th 2011
+2R+F
+26 players
+Brad Cashdollar
+
+Deck Name: Rich Rod's Angry Dragon
+
+Description: nosey Toreadors that shoot people ... a lot
+
+Crypt (12 cards, min=23, max=40, avg=8.25)
+------------------------------------------
+3x Anneke			10  AUS CEL PRE dom		justicar  Toreador:1
+3x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+3x Marcellus			8   AUS CEL pro			prince	  Toreador:2
+1x Kallista, Master Sculptor	6   AUS CEL pre pro			  Toreador:1
+1x Felicia Mostrom		5   AUS CEL pre				  Toreador:1
+1x Dorian Strack		4   AUS cel				  Toreador:1
+
+Library (90 cards)
+Master (10; 4 trifle)
+1x Art Museum
+1x Dark Influences
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion
+1x Rack, The
+4x Vessel
+
+Equipment (8)
+6x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+
+Reaction (42)
+4x Eagle's Sight
+4x Enhanced Senses
+4x Eyes of Argus
+10x Forced Awakening
+4x Quicken Sight
+6x Second Tradition: Domain
+4x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (30)
+4x Blur
+6x Concealed Weapon
+6x Pursuit
+6x Side Strike
+6x Sideslip
+2x Taste of Vitae

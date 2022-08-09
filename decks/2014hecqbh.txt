@@ -1,0 +1,71 @@
+Hungarian ECQ
+Budapest, Hungary
+September 27th 2014
+3R+F
+13 players
+Lajos Székely
+https://www.vekn.net/event-calendar/event/7820
+
+-- 1.5VP in final
+
+Crypt (12 cards, min=12, max=34, avg=6)
+---------------------------------------
+3x Meshenka	   8   ANI AUS VIC	    priscus	Tzimisce:2
+2x Caliban	   6   ANI AUS VIC	    		Tzimisce:2
+1x Lambach	   10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
+1x Anton	   8   ANI AUS cel obf vic  		Tzimisce:2
+1x Corine Marcón   6   AUS VIC ani	    		Tzimisce:2
+1x Devin Bisley	   5   ANI AUS vic	    		Tzimisce:2
+1x Wendy Wade	   3   ani aus		    		Tzimisce:2
+1x Horatio	   2   vic		    		Tzimisce:2
+1x Piotr Andreikov 2   aus		    		Tzimisce:3
+
+Library (90 cards)
+Master (18; 8 trifle)
+2x Dreams of the Sphinx
+1x Library Hunting Ground
+1x Path of Lilith, The
+1x Pentex(TM) Subversion
+1x Rack, The
+3x Rötschreck
+1x Smiling Jack, The Anarch
+3x Vessel
+3x Villein
+2x Wash
+
+Action (1)
+1x Army of Rats
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Living Manse
+
+Retainer (2)
+1x Mr. Winthrop
+1x Revenant
+
+Reaction (46)
+5x Cats' Guidance
+6x Eagle's Sight
+3x Enhanced Senses
+8x Eyes of Argus
+4x Forced Awakening
+3x My Enemy's Enemy
+4x On the Qui Vive
+4x Sense the Savage Way
+3x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (18)
+2x Amaranth
+3x Breath of the Dragon
+2x Canine Horde
+4x Carrion Crows
+7x Chiropteran Marauder
+
+Event (1)
+1x Dragonbound

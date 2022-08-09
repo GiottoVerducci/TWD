@@ -1,0 +1,39 @@
+Camarilla Conclave 2011 (10th edition)
+Palma de Mallorca, Spain
+August 14th 2011
+3R+F
+31 players
+Carlos Tomás Arán
+
+Deck Name: Me hago bicho bola
+
+Crypt (12 cards, min=16, max=32, avg=5.75)
+------------------------------------------
+4x Nana Buruku	   8   ANI POT PRE		Guruhi:4
+1x Janey Pickman   6   ANI PRO for		Gangrel antitribu:4
+1x Effie Lowery	   5   ANI SPI obf		Ahrimane:4
+1x Petra	   5   ANI OBF aus		Nosferatu:4
+1x Sahana	   5   ANI pre pro spi		Ahrimane:4
+1x Yuri Kerezenski 5   ANI aus for vic	bishop	Tzimisce:4
+1x Beetleman	   4   ANI obf			Nosferatu:4
+1x Bobby Lemon	   4   ANI pro			Gangrel:3
+1x Stick	   3   ANI			Nosferatu antitribu:4
+
+Library (90 cards)
+Master (25; 12 trifle)
+6x Ashur Tablets
+2x Fame
+1x Golconda: Inner Peace
+4x Lilith's Blessing
+5x Vessel
+7x Villein
+
+Action (16)
+16x Deep Song
+
+Combat (49)
+21x Aid from Bats
+4x Canine Horde
+17x Carrion Crows
+2x Song in the Dark
+5x Taste of Vitae

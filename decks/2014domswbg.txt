@@ -1,0 +1,74 @@
+Dreaming of My Scarlet Woman
+Bochum, Germany
+October 18th 2014
+2R+F
+14 players
+Erol Hammer
+https://www.vekn.net/event-calendar/event/7772
+
+-- 2.5VP in final
+
+Deck Name: City of Bleeders
+
+Description: Always Govern down if you can, dont discard cards, only if really not necessary,
+your hand size will compensate that. Later in the game it will be rewarded.
+
+Crypt (12 cards, min=23, max=36, avg=7.42)
+------------------------------------------
+4x Guillaume Giovanni	   9   CEL DOM NEC POT obt  Giovanni:4
+2x Badr, Shadow of Granada 7   DOM OBT POT	    Lasombra:5
+1x Arcadian, The	   8   DOM MYT OBT chi for  Kiasyd:5
+1x Conrad Adoula	   8   DOM OBT POT ani cel  Lasombra:4
+1x Lord Vauxhall	   7   DOM OBT POT THA	    Lasombra:4
+1x Isanwayen		   6   DOM MYT OBT	    Kiasyd:4
+1x Dame Hollerton	   5   DOM OBT myt	    Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot	    Lasombra:4
+
+Library (90 cards)
+Master (19; 5 trifle)
+1x Anarch Troublemaker
+1x Barrens, The
+1x Centralized Background Check
+1x Coven, The
+1x Dummy Corporation
+1x Elder Library
+1x Elysian Fields
+1x House of Sorrow
+1x Insurance Scam
+1x Metro Underground
+1x Morgue Hunting Ground
+1x Obtenebration
+1x Pentex(TM) Subversion
+1x Police Department
+1x Secure Haven
+4x Vessel
+
+Action (17)
+1x Dominate Kine
+1x Far Mastery
+13x Govern the Unaligned
+2x Sudario Refraction
+
+Ally (10)
+10x Nocturn
+
+Action Modifier (24)
+4x Conditioning
+2x Seduction
+8x Shadow Play
+6x Shroud of Absence
+2x Shroud of Night
+2x Tenebrous Form
+
+Reaction (15)
+8x Deflection
+3x Delaying Tactics
+4x On the Qui Vive
+
+Combat (3)
+1x Entombment
+2x Shadow Body
+
+Event (2)
+1x Scourge of the Enochians
+1x Uncoiling, The

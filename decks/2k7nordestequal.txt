@@ -1,0 +1,59 @@
+Qualifier Nordeste (Northeastern Qualifier)
+Fortaleza, Brazil
+May 27th 2007
+14 players
+Márcio Pinheiro
+
+Procurer's Blood
+
+Crypt (12 cards, min=27, max=37, avg=8.17)
+------------------------------------------
+4x Jibade el-Bahrawi	9   CEL DEM FOR PRE aus			Ishtarri:4
+2x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	Ishtarri:3
+1x Ayo Igoli		10  AUS CEL FOR PRE obf tha		Ishtarri:4
+1x Maxwell		9   CEL FOR POT PRE PRO			Brujah:3
+1x Count Germaine	8   CEL FOR POT PRE obf			Brujah:4
+1x Ganhuru		7   FOR PRE cel pro			Ishtarri:4
+1x Ubende		7   CEL PRE for obf qui		magaji	Ishtarri:4
+1x Shasa Abu Badr	5   PRE cel for				Ishtarri:4
+
+Library (90 cards)
+Master (19)
+3x Archon Investigation
+12x Blood Doll
+1x Charisma
+1x Creepshow Casino
+1x Giant's Blood
+1x Port Hunting Ground
+
+Action (4)
+4x Entrancement
+
+Ally (16)
+1x Gregory Winter
+1x Mylan Horseed
+2x Neighborhood Watch Commander
+12x Procurer
+
+Equipment (1)
+1x Rowan Ring
+
+Action Modifier (18)
+6x Change of Target
+8x Forced March
+2x Kiss of Ra, The
+2x Uncontrolled Impulse
+
+Reaction (5)
+5x Wake with Evening's Freshness
+
+Combat (27)
+1x Hidden Strength
+5x Indomitability
+6x Resilience
+2x Skin of Rock
+2x Skin of Steel
+1x Soak
+7x Staredown
+2x Superior Mettle
+1x Undead Persistence

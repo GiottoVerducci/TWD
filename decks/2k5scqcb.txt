@@ -1,0 +1,50 @@
+South Central Regional Qualifier
+Lafayette, Louisiana
+April 9th 2005
+3R+F
+20 players
+Chad Brinkley
+
+Deck Name: Birds of Prey
+
+Crypt (12 cards, min=18, max=31, avg=6.25)
+------------------------------------------
+3x Howler	    8	ANI PRE SPI obf		Ahrimane:2
+3x Siamese, The	    7	PRE SPI ani pro		Ahrimane:2
+2x Cynthia Ingold   6	SPI ani for pre		Ahrimane:2
+2x Nettie Hale	    5	ani cel pre pro spi	Ahrimane:2
+2x Juanita Santiago 4	ani pre spi		Ahrimane:2
+
+Library (72 cards)
+Master (11)
+2x Animalism
+4x Blood Doll
+1x Heidelberg Castle, Germany
+1x KRCG News Radio
+1x Smiling Jack, The Anarch
+2x Sudden Reversal
+
+Action (10)
+1x Army of Rats
+1x Engling Fury
+8x Legal Manipulations
+
+Equipment (2)
+2x Mark V
+
+Retainer (4)
+2x Murder of Crows
+2x Raven Spy
+
+Action Modifier/Combat (8)
+8x Swiftness of the Stag
+
+Reaction (17)
+4x Cats' Guidance
+6x Falcon's Eye
+7x Speak with Spirits
+
+Combat (20)
+6x Aid from Bats
+10x Carrion Crows
+4x Taste of Vitae

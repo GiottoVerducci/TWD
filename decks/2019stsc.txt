@@ -1,0 +1,64 @@
+Summer time
+Santiago, Chile
+February 23rd 2019
+3R+F
+13 players
+Gonzalo Andrés del Río Díaz
+https://www.vekn.net/event-calendar/event/9100
+
+-- 1GW3 + 3VP in final
+
+Deck Name: Francisco
+
+Description: Celerity and guns.
+
+Crypt (16 cards, min=14, max=23, avg=4.75)
+------------------------------------------
+3x Jalal Sayad			6   CEL QUI pot			Assamite:2
+2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+2x Sarah Brando			3   CEL				Brujah antitribu:2
+1x Abd al-Rashid		5   CEL QUI obf			Assamite:2
+1x Brachah			5   CEL PRE for			Brujah:2
+1x Rigby, Crusade Vanguard	5   CEL PRE aus pot		Brujah antitribu:2
+1x Skryta Zyleta		5   CEL obf pot pro		Gangrel antitribu:3
+1x Steve Booth			5   CEL pot pre pro		Brujah:3
+1x Victor Revell, Loyalist	5   CEL aus dem pre		Toreador antitribu:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Scarlet Carson O'Toole	4   CEL pro			Gangrel antitribu:3
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+
+Library (90 cards)
+Master (14; 6 trifle)
+1x Archon Investigation
+1x Barrens, The
+1x Elder Library
+2x Fame
+3x Life in the City
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Tension in the Ranks
+3x Vessel
+
+Action (12)
+4x Ambush
+6x Bum's Rush
+2x Fleetness
+
+Ally (1)
+1x Gregory Winter
+
+Equipment (8)
+8x .44 Magnum
+
+Reaction (3)
+3x On the Qui Vive
+
+Combat (52)
+6x Blur
+7x Concealed Weapon
+8x Flash
+5x Infernal Pursuit
+8x Psyche!
+8x Pursuit
+4x Sideslip
+6x Taste of Vitae

@@ -1,0 +1,44 @@
+São Paulo Region SAC Qualifier
+São Paulo, Brazil
+May 15th 2005
+42 players
+Giovanni Cisterna
+
+Deck: Os Ignorantes
+
+Crypt (12 cards, min=25, max=32, avg=7.08)
+------------------------------------------
+2x Constanza Vinti			8   CEL DOM POT		prince	  Brujah:2
+2x Dónal O'Connor			8   CEL DOM POT		prince	  Brujah:2
+2x Beast, The Leatherface of Detroit	7   OBF POT ani cel		  Nosferatu antitribu:2
+2x Theo Bell				7   POT cel dom pre		  Brujah:2
+1x Juggler				7   CEL DOM obf pot		  Brujah:3
+1x Richter, The Templar of Du Mont	7   CEL POT for pre		  Brujah antitribu:2
+1x Pug Jackson				6   CEL POT for pre	primogen  Brujah:3
+1x Volker, The Puppet Prince		5   CEL pot		prince	  Brujah:2
+
+Library (90 cards)
+Master (6)
+5x Blood Doll
+1x Fame
+
+Action (6)
+3x Ambush
+3x Bum's Rush
+
+Political Action (4)
+2x Anathema
+2x Archon
+
+Reaction (22)
+10x Deflection
+6x Second Tradition: Domain
+6x Wake with Evening's Freshness
+
+Combat (52)
+11x Blur
+6x Disarm
+5x Flash
+12x Immortal Grapple
+7x Taste of Vitae
+11x Torn Signpost

@@ -1,0 +1,69 @@
+NAC 2013 - Late-Night Last Chance Qualifier
+Columbus, Ohio
+June 13th 2013
+2R+F
+30 players
+Tiago Brum
+
+-- 1.5VP in final
+
+Deck Name: Girls Will Find Revelations in America
+
+Description: Been using the version that the European Champion used,
+with some changes acording to my playstyle and the Portuguese environment.
+Still think the deck needs a couple of Delaying Tactics, but what to take out?
+
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Cybele		 10  ANI DAI OBF PRE SER THA			Baali:4
+4x Aksinya Daclau	 9   ANI FOR PRE PRO cel tha			Gangrel antitribu:4
+1x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Lucian, The Perfect	 11  ANI AUS DOM OBF POT PRE			Guruhi:4
+1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+
+Library (81 cards)
+Master (49; 8 trifle)
+1x Archon Investigation
+9x Ashur Tablets
+1x Blind Spot
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Golconda: Inner Peace
+3x Information Highway
+2x Jake Washington
+6x Liquidation
+1x Metro Underground
+1x Misdirection
+1x Monastery of Shadows
+1x Parthenon, The
+3x Pentex(TM) Subversion
+7x Villein
+7x Zillah's Valley
+
+Action (6)
+3x Entrancement
+3x Unleash Hell's Fury
+
+Action Modifier (17)
+2x Aire of Elation
+2x Approximation of Loyalty
+1x Cloak the Gathering
+2x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+4x Lost in Crowds
+2x Mirror Walk
+1x Perfect Paragon
+
+Reaction (4)
+1x Guard Dogs
+2x Lost in Translation
+1x Rat's Warning
+
+Combat (3)
+3x Majesty
+
+Event (2)
+2x Anthelios, The Red Star

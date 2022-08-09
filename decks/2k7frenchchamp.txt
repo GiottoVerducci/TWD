@@ -1,0 +1,57 @@
+French NC 2007
+Caves Saint-Sabin, Paris, France
+September 30th 2007
+3R+F
+72 players
+Florian Prosper
+
+Deck Name: Army of Allah
+
+Crypt (12 cards, min=11, max=31, avg=5.17)
+------------------------------------------
+3x Amaravati	    8	DOM OBF QUI ani chi		Assamite:4
+2x Kamau Jafari	    4	QUI obf				Assamite:4
+2x Ali Kar	    3	obf qui				Assamite:3
+1x Olugbenga	    7	OBF QUI ani cel		magaji	Assamite:4
+1x Vardar Vardarian 6	OBF QUI cel pre			Assamite:4
+1x Janni	    5	cel for obf qui			Assamite:4
+1x Michael diCarlo  5	CEL obf qui			Assamite:4
+1x Basir	    1	qui				Assamite:4
+
+Library (70 cards)
+Master (15; 1 trifle)
+4x Alamut
+2x Archon Investigation
+2x Blood Doll
+1x Coven, The
+2x Khabar: Community, The
+2x Pentex(TM) Subversion
+1x Underworld Hunting Ground
+1x Yoruba Shrine
+
+Action (20)
+12x Embrace, The
+2x Psychic Veil
+6x Web of Knives Recruit
+
+Political Action (14)
+8x Consanguineous Boon
+2x Conservative Agitation
+4x Kine Resources Contested
+
+Action Modifier (15)
+3x Cloak the Gathering
+1x Cryptic Rider
+3x Faceless Night
+3x Lost in Crowds
+2x Spying Mission
+3x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (3)
+3x Delaying Tactics
+
+Event (1)
+1x Uncoiling, The

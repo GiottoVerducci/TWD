@@ -1,0 +1,67 @@
+Julio Matinez, Immortal
+Cyberfrag. Santiago, Chile
+January 26th 2008
+3R+F
+17 players
+Hernán Rodríguez
+
+Deck Name: Lasombra vote bleed
+
+Description: If you don't have votes, just bleed.
+
+Crypt (12 cards, min=31, max=40, avg=9)
+---------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+3x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+2x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
+2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+1x Tobias Smith				  7   DOM OBT PRE pot			    Lasombra:3
+
+Library (90 cards)
+Master (15)
+3x Blood Doll
+3x Dreams of the Sphinx
+1x Elysian Fields
+4x Minion Tap
+1x Political Hunting Ground
+1x Powerbase: Madrid
+1x Powerbase: Montreal
+1x Purchase Pact
+
+Action (8)
+8x Govern the Unaligned
+
+Equipment (1)
+1x Leather Jacket
+
+Political Action (18)
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Auto-da-fé
+3x Banishment
+3x Conservative Agitation
+1x Domain Challenge
+6x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (26)
+6x Bewitching Oration
+4x Conditioning
+10x Shadow Play
+6x Voter Captivation
+
+Reaction (8)
+2x Deflection
+4x Redirection
+2x Wake with Evening's Freshness
+
+Combat (13)
+3x Arms of the Abyss
+4x Burning Wrath
+4x Majesty
+2x Shadow Body

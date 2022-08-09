@@ -1,0 +1,56 @@
+SuperHappyFunSlide Day 1
+Melbourne, Australia
+August 21st 2010
+3R+F
+19 players
+Jason Ryan
+
+-- 2GW9.5 + 5VP in final
+
+Deck Name: Seasons in the Abyss
+
+Description: Gr 5/6 Baali vote. Arishat's special wins games.
+Political Flux FTW.
+
+Crypt (12 cards, min=15, max=34, avg=6.25)
+------------------------------------------
+3x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
+3x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
+3x Arishat		   6   DAI OBF PRE	    1 vote	Baali:6
+3x Horde, The		   3   dai obf pre	    		Baali:6
+
+Library (71 cards)
+Master (16; 4 trifle)
+1x Antediluvian Awakening
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Ruins of Charizel
+1x Secure Haven
+6x Tend the Flock
+4x Villein
+
+Action (3)
+1x Contagion
+2x Unleash Hell's Fury
+
+Ally (4)
+2x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Political Action (17)
+3x Conservative Agitation
+4x Kine Resources Contested
+1x Political Flux
+9x Reckless Agitation
+
+Action Modifier (31)
+2x Approximation of Loyalty
+2x Awe
+4x Bewitching Oration
+4x Elder Impersonation
+4x Forgotten Labyrinth
+1x I am Legion
+4x Into Thin Air
+4x Lost in Crowds
+6x Voter Captivation

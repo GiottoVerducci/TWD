@@ -1,0 +1,60 @@
+Aniversário e despedida do Barão de Fortaleza
+Fortaleza, Brazil
+December 27th 2016
+2R+F
+16 players
+Luís Otávio Franco Martins
+https://www.vekn.net/event-calendar/event/8539
+
+-- 5VP in final
+
+Deck Name: Santa is coming to town.
+Created by: Zoroh
+
+Description: Have you been Naughty?
+
+Crypt (12 cards, min=32, max=36, avg=8.42)
+------------------------------------------
+5x Santaleous		9   AUS CEL DEM OBF	 	   Malkavian:5
+3x Persephone Tar-Anis	8   AUS DEM OBF cel pot	 	   Malkavian antitribu:4
+2x Bloody Mary		8   AUS DEM OBF pre	 primogen  Malkavian:5
+2x Lazarus James	8   AUS DEM PRE obf tha	 	   Malkavian:4
+
+Library (80 cards)
+Master (17; 6 trifle)
+1x Asylum Hunting Ground
+2x Dreams of the Sphinx
+1x Golconda: Inner Peace
+1x Institution Hunting Ground
+1x Momentum's Edge
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Secure Haven
+2x Vessel
+4x Villein
+
+Action (16)
+6x Call, The
+6x Kindred Spirits
+4x Madman's Quill
+
+Action Modifier (25)
+5x Elder Impersonation
+10x Eyes of Chaos
+5x Into Thin Air
+5x Spying Mission
+
+Action Modifier/Combat (9)
+4x Hide the Mind
+5x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+5x Touch of Clarity
+
+Combat (6)
+6x No Trace
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Scourge of the Enochians

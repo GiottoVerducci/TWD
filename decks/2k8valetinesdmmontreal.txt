@@ -1,0 +1,73 @@
+Valentine's Day Massacre
+Montreal, Quebec
+February 23rd 2008
+3R+F
+16 players
+Mathieu Guimond
+
+Deck Name: Mon chien est mort à Montréal
+Created by: Christian Chénard
+
+Crypt (12 cards, min=14, max=20, avg=4.5)
+-----------------------------------------
+4x Effie Lowery		5   ANI SPI obf			Ahrimane:4
+3x Stick		3   ANI				Nosferatu antitribu:4
+2x Petra		5   ANI OBF aus			Nosferatu:4
+2x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
+1x Anjalika Underwood	5   ANI aus chi for		Ravnos:5
+
+Library (90 cards)
+Master (15; 2 trifle)
+2x Archon Investigation
+2x Blood Doll
+1x Creepshow Casino
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Guardian Angel
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Rack, The
+2x Vessel
+1x WMRH Talk Radio
+
+Action (13)
+2x Abbot
+1x Army of Rats
+1x Engling Fury
+1x Muricia's Call
+4x Nose of the Hound
+2x Taunt the Caged Beast
+2x Vulture's Buffet
+
+Ally (7)
+6x Underbridge Stray
+1x Vagabond Mystic
+
+Equipment (2)
+1x .44 Magnum
+1x Ivory Bow
+
+Retainer (7)
+1x J. S. Simmons, Esq.
+1x Murder of Crows
+2x Owl Companion
+2x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (1)
+1x Into Thin Air
+
+Reaction (9)
+4x Cats' Guidance
+1x Falcon's Eye
+1x Instinctive Reaction
+2x On the Qui Vive
+1x Speak with Spirits
+
+Combat (36)
+12x Aid from Bats
+9x Carrion Crows
+2x Glancing Blow
+2x Pack Alpha
+6x Taste of Vitae
+5x Terror Frenzy

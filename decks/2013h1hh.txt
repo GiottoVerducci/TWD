@@ -1,0 +1,73 @@
+Hickam 1
+Honolulu, Hawaii
+May 19th 2013
+2R+F
+10 players
+Dan Apholz
+
+-- 4VP in final
+
+Deck Name: Mr Clean
+Created by: Dan Apholz feat Pagan
+
+Modified from an early deck borrowed from David it provides
+enough stealth to beat light intercept and voting power to
+get votes though. During each round the deck ran into little
+in the way of strong intercept or opposing voters. Each game
+the initial prey and predator were unable to produce enough
+intercept and opposing voters too few to overcome votes or
+handle Scalpel Tongues or vote push. Would reconsider adding
+Klaus back in as a 4th minion as the deck can easily get a
+4th minion into play if given the time.
+
+Crypt (12 cards, min=36, max=40, avg=9.33)
+------------------------------------------
+4x Armin Brenner 10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+4x Hektor	 9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
+4x Undele	 9   CEL FOR obf pre ser	magaji	    Ishtarri:5
+
+Library (90 cards)
+Master (16; 6 trifle)
+1x Black Forest Base
+1x Creepshow Casino
+4x Dreams of the Sphinx
+1x Giant's Blood
+1x Monastery of Shadows
+1x Papillon
+1x Powerbase: Madrid
+5x Villein
+1x Wider View
+
+Action (7)
+4x Enchant Kindred
+3x Entrancement
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (21)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+3x Honor the Elders
+11x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (30)
+6x Forced March
+4x Forgotten Labyrinth
+3x Freak Drive
+5x Iron Glare
+5x Perfect Paragon
+7x Voter Captivation
+
+Action Modifier/Combat (5)
+5x Resist Earth's Grasp
+
+Action Modifier/Reaction (5)
+5x Scalpel Tongue
+
+Combat (5)
+5x Majesty

@@ -1,0 +1,54 @@
+Tournament
+Prague, Czech Republic
+February 15th 2003
+15 players
+Martin Arcimovic
+
+Crypt (12 cards, min=13, max=32, avg=5.75)
+------------------------------------------
+4x Howler	    8	ANI PRE SPI obf	 Ahrimane:2
+2x Siamese, The	    7	PRE SPI ani pro	 Ahrimane:2
+1x Cynthia Ingold   6	SPI ani for pre	 Ahrimane:2
+1x Juanita Santiago 4	ani pre spi	 Ahrimane:2
+1x Mariana Gilbert  4	PRE cel		 Toreador:1
+1x Gideon Fontaine  3	PRE		 Ventrue:1
+1x Itzahk Levine    3	cel pre		 Ventrue:2
+1x Uma Hatch	    3	cel pre		 Brujah:1
+
+Library (77 cards)
+Master (12)
+1x Anarch Troublemaker
+4x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+
+Action (13)
+10x Enchant Kindred
+1x Engling Fury
+2x Muricia's Call
+
+Retainer (5)
+1x Murder of Crows
+4x Raven Spy
+
+Action Modifier (5)
+5x Aire of Elation
+
+Action Modifier/Combat (10)
+10x Swiftness of the Stag
+
+Reaction (20)
+4x Cats' Guidance
+4x Falcon's Eye
+10x Speak with Spirits
+2x Wake with Evening's Freshness
+
+Combat (12)
+2x Carrion Crows
+9x Chameleon's Colors
+1x Majesty

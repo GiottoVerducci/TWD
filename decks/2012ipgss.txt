@@ -1,0 +1,61 @@
+Invoke Poison Glands
+Stockholm, Sweden
+June 9th 2012
+2R+F
+10 players
+Erik Mossberg
+
+-- 3VP in final
+
+Deck Name: Bleeding the Vignes
+
+Description: Variant of Ruben Feldmans classic concept.
+
+Crypt (12 cards, min=14, max=25, avg=5)
+---------------------------------------
+3x Edward Vignes		   6   DOM PRE for		  Ventrue:3
+2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		  Ventrue:2
+1x Gracis Nostinus		   7   DOM PRE aus for	primogen  Ventrue:3
+1x Vanessa			   6   DOM FOR aus pre		  Ventrue antitribu:2
+1x Catherine du Bois		   5   DOM for obf pre		  Ventrue:3
+1x Ingrid Russo			   4   DOM for			  Ventrue antitribu:2
+1x Peter Blaine			   4   aus dom for		  Ventrue antitribu:2
+1x Diana Vick			   3   dom pre			  Ventrue:3
+1x Lana Butcher			   3   dom for			  Ventrue:3
+
+Library (65 cards)
+Master (12; 4 trifle)
+1x Anarch Troublemaker
+1x Bleeding the Vine
+2x Dreams of the Sphinx
+2x Life in the City
+2x Misdirection
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+2x Wash
+
+Action (16)
+2x Entrancement
+12x Govern the Unaligned
+2x Mind Numb
+
+Action Modifier (19)
+6x Bonding
+2x Change of Target
+4x Conditioning
+1x Daring the Dawn
+3x Freak Drive
+3x Seduction
+
+Reaction (13)
+6x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+2x Redirection
+
+Combat (4)
+2x Majesty
+2x Staredown
+
+Event (1)
+1x Bitter and Sweet Story, The

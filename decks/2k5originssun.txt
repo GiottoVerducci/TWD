@@ -1,0 +1,68 @@
+Origins Sunday
+Columbus, Ohio
+July 3rd 2005
+2R+F
+18 players
+Robyn Tatu
+
+Deck Name: Viable 3rd Party
+
+Description: Tzimisce Vote and Bruise
+
+Crypt (12 cards, min=34, max=38, avg=9)
+---------------------------------------
+3x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
+3x Velya, The Flayer		    9	ANI AUS PRE VIC for	cardinal    Tzimisce:3
+2x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
+2x John Paleologus		    9	ANI AUS CEL VIC pot	archbishop  Tzimisce:3
+1x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
+1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+
+Library (90 cards)
+Master (10)
+1x Fear of Mekhet
+1x Library Hunting Ground
+1x Liquidation
+7x Minion Tap
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Political Action (18)
+2x Anarchist Uprising
+1x Ancient Influence
+2x Banishment
+1x Cardinal Benediction
+1x Consanguineous Boon
+2x Conservative Agitation
+1x Disputed Territory
+1x Honor the Elders
+5x Kine Resources Contested
+1x Political Stranglehold
+1x Sabbat Inquisitor
+
+Action Modifier (15)
+2x Bribes
+4x Changeling
+1x Cryptic Rider
+2x Private Audience
+4x Telepathic Vote Counting
+2x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Plasmic Form
+
+Reaction (22)
+3x Cats' Guidance
+2x Enhanced Senses
+2x Forced Awakening
+2x Telepathic Counter
+7x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (22)
+2x Aid from Bats
+1x Canine Horde
+9x Carrion Crows
+8x Chiropteran Marauder
+2x Drawing Out the Beast

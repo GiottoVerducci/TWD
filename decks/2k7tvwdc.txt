@@ -1,0 +1,118 @@
+Target Vitals, Washington, D.C.
+Rockville, Maryland
+November 18th 2007
+2R+F
+10 players
+Matthew Morgan
+
+Deck Name: Fuzzface
+
+Description: This deck has solid offense but obviously should drop the
+Dual Forms for more stealth/Freak/whatever. Another take on the deck
+might be to use Ogwon who has for/OBF/PRE and costs 1 less but also gives
+you access to the Opium Den and some other good stuff like Enticement at
+superior.
+
+No real reason to use 13 vamps, but I couldn't decide which obf weenie
+not to use here. Zubeida's conditional +1 bleed only came up once and
+it didn't matter. Not much of an ability, if you ask me.
+
+Note the Blood Dolls, not Vessels. Vessels were all over the place in
+this tournament, but I'll swear by Blood Dolls in a deck like this.
+
+Another Entrancement or three would be good. Never had an opportunity
+to play Enchant Kindred at superior so those should be more plentiful
+perhaps, or Social Charms. Six Dream World seems a little low, but I
+didn't want to have them too early or the extent of the threat I
+represented would be too apparent. It's a very powerful card.
+
+This is kind of a middling amount of stealth in my book for a deck like
+this. I think I would've had some trouble against heavy intercept
+because none of my actions are that damaging individually. Spying
+Missions were mostly used for extra bleed. No need to spy if I'm
+bleeding my grandprey for 1.
+
+Great card. Extremely useful in this deck.
+
+I think I was the only person in the tournament running any events at
+all, so I didn't play The Uncoiling. I played Narrow Minds in the
+final and it helped me some, but it probably didn't alter the outcome.
+
+Confusion of the Eye was only used on bleeds. Truth in Ink worked out
+quite well. I wasn't sure it would because I tend to take a sort of
+Murphy's Law view toward bleed reduction (4 reduction cards in your
+hand? your predator calls KRC!), but they seemed good and I had no
+trouble playing them on bleeds of more than 1.
+
+Here's the other slightly embarrassing part of my deck. Bleeding under
+Dream World and attempting to Form of Mist a blocker doesn't work. As
+soon as the block is successful, Dream World goes away. All the same,
+I didn't mind having a few s:ce when the Shambling Hordes rushed me.
+In this case, Earth Meld would've been better, but I don't know if that
+would be generally true. I had considered Unholy Penance as well, but
+decided that free s:ce, when available, should always be used.
+
+Crypt (13 cards, min=8, max=32, avg=4.69)
+-----------------------------------------
+5x Zubeida	   8   OBF PRE PRO for ser  Abomination:5
+1x Rashid Stockton 4   cel obf vic	    Gangrel antitribu:5
+1x Ahmose Chambers 3   obf ser		    Follower of Set:5
+1x Blister	   3   obf pot		    Nosferatu antitribu:4
+1x Lubomira Hradok 3   OBF		    Nosferatu antitribu:5
+1x Alu		   2   obf		    Assamite:5
+1x Bloodfeud	   2   obf		    Malkavian antitribu:4
+1x Denette Stensen 2   obf		    Gangrel antitribu:4
+1x Old Neddacka	   2   obf		    Nosferatu antitribu:4
+
+Library (90 cards)
+Master (16; 1 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+1x Barrens, The
+6x Blood Doll
+1x Coven, The
+1x Direct Intervention
+1x Dominion
+1x Giant's Blood
+1x Hungry Coyote, The
+1x Jake Washington
+1x Sudden Reversal
+
+Action (16)
+6x Dream World
+5x Dual Form
+4x Enchant Kindred
+1x Entrancement
+
+Equipment (4)
+4x Camera Phone
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (30)
+4x Cloak the Gathering
+2x Elder Impersonation
+4x Faceless Night
+8x Freak Drive
+4x Lost in Crowds
+4x Spying Mission
+4x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (12)
+2x Confusion of the Eye
+2x Delaying Tactics
+2x On the Qui Vive
+5x Truth in Ink
+1x Wake with Evening's Freshness
+
+Combat (4)
+4x Form of Mist
+
+Event (2)
+1x Narrow Minds
+1x Uncoiling, The

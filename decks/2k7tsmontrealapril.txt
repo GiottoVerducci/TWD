@@ -1,0 +1,63 @@
+Tatoo Signal
+Face à Face, Montreal, Quebec
+April 21st 2007
+16 players
+Marc Desaulniers
+
+Deck Name: B2B (Back to Basics)
+
+Crypt (13 cards, min=16, max=40, avg=7)
+---------------------------------------
+4x Lucian	    10	AUS DOM OBF cel tha	justicar  Malkavian:1
+3x Gilbert Duane    7	AUS DOM OBF		prince	  Malkavian:1
+3x Greger Anderssen 7	AUS OBF dom pro		prince	  Malkavian:2
+1x Didi Meyers	    5	DOM aus cel obf			  Malkavian:1
+1x Normal	    2	obf				  Malkavian:1
+1x Ohanna	    2	dom				  Malkavian:2
+
+Library (90 cards)
+Master (16)
+1x Anarch Troublemaker
+6x Blood Doll
+1x Elysium: The Arboretum
+1x From a Sinking Ship
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Pentex(TM) Subversion
+1x Rack, The
+2x Sudden Reversal
+1x Temptation of Greater Power
+
+Action (10)
+1x Dominate Kine
+7x Govern the Unaligned
+2x Pulse of the Canaille
+
+Equipment (5)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+3x Sniper Rifle
+
+Political Action (6)
+2x Banishment
+4x Parity Shift
+
+Action Modifier (17)
+3x Cloak the Gathering
+3x Conditioning
+3x Faceless Night
+5x Lost in Crowds
+3x Seduction
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (30)
+5x Deflection
+2x Malkavian Rider Clause
+10x Obedience
+9x Second Tradition: Domain
+4x Wake with Evening's Freshness
+
+Combat (3)
+3x Aura Reading

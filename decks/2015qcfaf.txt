@@ -1,0 +1,75 @@
+QCF Angers
+Angers, France
+June 7th 2015
+3R+F
+10 players
+Vincent Ripoll
+https://www.vekn.net/event-calendar/event/8111
+
+Deck Name: Women in chains
+
+Description: An evolution of my Gangrel dominate deck, mixed with my Gang of Fur deck (with no dominate at all)
+and a big deal of inspiration from Martin Weinmayer's deck. Ingrid Rossler is very important since it's probably
+the first vampire you'll bring out in order to play Parity Shift and to accelerate the influence of the other vampires.
+
+Crypt (12 cards, min=32, max=44, avg=9.58)
+------------------------------------------
+4x Stanislava	  11  ANI CEL DOM FOR PRO	   inner circle	 Gangrel:2
+3x Ingrid Rossler 9   ANI FOR PRO dom		   prince	 Gangrel:2
+1x Hartmut Stover 10  CEL OBF PRO dom for	   archbishop	 Gangrel antitribu:3
+1x Vlad Tepes	  10  ANI DOM PRO THA VIC aus	   		 Tzimisce:3
+1x Xaviar (ADV)	  10  ABO ANI FOR PRO aus cel pot  justicar	 Gangrel:3
+1x Mark Decker	  8   CEL PRO ani for obf pot	   prince	 Gangrel:3
+1x Caitlin	  6   ANI PRO aus dom		   bishop	 Gangrel antitribu:2
+
+Library (86 cards)
+Master (23; 9 trifle)
+1x Backways
+1x Coven, The
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Giant's Blood
+1x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion -- another copy is really needed
+7x Villein
+1x Wider View
+5x Zillah's Valley
+
+Action (9)
+8x Govern the Unaligned
+1x Under Siege -- a fun card, usable by 3 vampires; wasn't crucial in the games
+
+Equipment (1)
+1x Seal of Veddartha -- never used
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+7x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (14)
+1x Daring the Dawn
+5x Earth Control
+1x Enkil Cog -- not essential, usually contested on purpose with other players
+1x Foreshadowing Destruction -- I like to have a surprise killing move
+6x Instantaneous Transformation
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (5)
+5x Murmur of the False Will -- not bad, as long as there are also Deflections in the deck
+
+Reaction (9)
+4x Deflection
+1x Guard Dogs
+4x Sense the Savage Way
+
+Combat (11)
+3x Earth Meld
+8x Form of Mist -- there are 13 combat ends in the deck, which is not enough for my taste; I'd probably add some more

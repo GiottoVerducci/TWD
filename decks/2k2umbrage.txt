@@ -1,0 +1,71 @@
+Gothenburg Umbrage
+Gothenburg, Sweden
+November 9th 2002
+10 players
+Sten Düring
+
+Deck Name: Master Madness
+
+Description: Getting as many master-phase-actions as possible. Empty
+your vamps and don't be shy to use Rosslers speacial and Information
+Highway together. Tap Anson, Golconda Anson (using his special to do so)
+and bring a new Anson in play. The Baali can help with additional
+master-phase actions.
+
+Try avoiding trickling out your revolts as you'll need two or three in
+one go to finish the game.
+
+Golconda is also an offensive card. You're the only one who need large
+vampires - the rest of the table can use the pool, especially your predator.
+
+You win with the revolts and you need the massive bloat to make your
+Life Boons count.
+
+Even though it will eat on your nerves, to chose when to play without
+any vampires at all is definitely what changes a loss to a win. On
+average I'll sit close to a third of any given game without any
+controlled minions.
+
+Votes are a problem, as is any weenie-predator.
+
+68 Mastercards is a bit low, and I think one each of Obedience,
+Wake and Deflection could go. I'd also remove Legendary Vampire.
+Replace with three Archon Investigation and one Tension in the
+Ranks. Maybe also replace one Information Highway and one The
+Barrens with two Dreams of the Sphinx.
+
+Crypt (12 cards, min=32, max=40, avg=8.83)
+------------------------------------------
+6x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+3x Ingrid Rossler  9   ANI FOR PRO dom		prince		Gangrel:2
+2x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE			Baali:2
+1x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+
+Library (90 cards)
+Master (68)
+10x Anarch Revolt
+1x Antediluvian Awakening
+1x Art Museum
+3x Barrens, The
+1x Brothers Grimm
+1x Club Zombie
+1x Ecoterrorists
+1x Elysium: The Arboretum
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+13x Golconda: Inner Peace
+6x Information Highway
+1x KRCG News Radio
+1x Legendary Vampire
+4x Life Boon
+1x London Evening Star, Tabloid Newspaper
+9x Minion Tap
+6x Parthenon, The
+1x Protected Resources
+1x Rumor Mill, Tabloid Newspaper, The
+4x Sudden Reversal
+
+Reaction (22)
+8x Deflection
+8x Obedience
+6x Wake with Evening's Freshness

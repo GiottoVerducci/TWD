@@ -1,0 +1,71 @@
+Monday Mayhem XVI
+Tampere, Finland
+April 5th 2010
+3R+F
+20 players
+Otso Saariluoma
+
+-- 3VP in final
+
+Deck Name: Project Mayhem
+
+Crypt (12 cards, min=25, max=40, avg=8.08)
+------------------------------------------
+4x Unmada	   10  AUS DEM OBF VIC cel for	justicar  Malkavian:5
+4x Scout Youngwood 8   MEL OBF PRE for qui	2 votes	  Daughter of Cacophony:6
+2x Benjamin Rose   7   AUS OBF ani pot		prince	  Nosferatu:5
+1x Arishat	   6   DAI OBF PRE		1 vote	  Baali:6
+1x Hillanvale	   5   FOR MEL obf			  Daughter of Cacophony:6
+
+Library (75 cards)
+Master (24; 9 trifle)
+6x Ashur Tablets
+2x Dreams of the Sphinx
+1x Fame
+2x Information Highway
+1x Jake Washington
+1x Monastery of Shadows
+2x Perfectionist
+3x Vessel
+4x Villein
+2x Wider View
+
+Action (10)
+1x Entrancement
+9x Shattering Crescendo
+
+Ally (4)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Impundulu
+1x Ossian
+
+Political Action (5)
+3x Parity Shift
+2x Reckless Agitation
+
+Action Modifier (14)
+2x Cloak the Gathering
+1x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+1x Freak Drive
+5x Lost in Crowds
+1x Old Friends
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (9)
+2x Eyes of Argus
+2x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (3)
+3x No Trace
+
+Event (4)
+1x Dragonbound
+1x FBI Special Affairs Division
+1x Scourge of the Enochians
+1x Unmasking, The

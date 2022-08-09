@@ -1,0 +1,58 @@
+Origins Saturday - NAC Qualifier
+Origins, Columbus, Ohio
+July 7th 2007
+3R+F
+30 players
+Ben Peal
+
+Deck Name: Angellore
+
+This is yet another breed boon deck from me, inspired by a similar deck by
+Wes Weston. You've got Bastille Opera House and Conductor to pass Con
+Boons and KRCs. Note that Conductor is still effective while the vampire
+is in torpor. Siren's Lure with Majesty and Soak to get actions to succeed
+wound up being very effective. It's a pain in the neck that Siren's Lure
+is rare, but it's an outstanding card that really does get the job done.
+The Entrancements were money for me, and the DIs were lifesavers. It can
+be a bit nerve-wracking playing without bounce, not to mention the looming
+threat of Anarchist Uprising, but you're not spending a lot of pool on
+minions, and you're gaining a lot from the Con Boons.
+
+Crypt (12 cards, min=12, max=24, avg=4.5)
+-----------------------------------------
+2x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+2x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
+2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+2x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+2x Muse				  3   ani for mel	Daughter of Cacophony:2
+
+Library (90 cards)
+Master (16)
+1x Barrens, The
+3x Bastille Opera House
+4x Blood Doll
+3x Conductor
+1x Creepshow Casino
+2x Direct Intervention
+2x Paris Opera House
+
+Action (16)
+9x Embrace, The
+5x Enchant Kindred
+2x Entrancement
+
+Political Action (19)
+9x Consanguineous Boon
+1x Crusade: Philadelphia
+9x Kine Resources Contested
+
+Action Modifier (23)
+2x Change of Target
+1x Daring the Dawn
+10x Missing Voice, The
+10x Siren's Lure
+
+Combat (16)
+8x Majesty
+8x Soak

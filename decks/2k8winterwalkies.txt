@@ -1,0 +1,59 @@
+Winter Walkies
+Burton-on-Trent, England
+February 23rd 2008
+2R+F
+19 players
+Paul Coffey
+
+Deck Name: Leandro's Motley Crue
+
+Description: Pre/Obf/Aus high cap voting randomness
+
+Crypt (12 cards, min=23, max=40, avg=8.08)
+------------------------------------------
+1x Leandro			11  AUS OBF PRE cel dom		inner circle	Malkavian:2
+1x Aziz, Dammar of Istanbul	10  CEL OBF PRE QUI ser		2 votes		Assamite:2
+1x Nehsi			10  OBF PRE PRO SER aus for	2 votes		Follower of Set:2
+1x Aristotle de Laurent		9   AUS DEM OBF PRE pot				Malkavian antitribu:3
+1x Ellison Humboldt		9   ANI OBF POT PRE pro		primogen	Nosferatu:3
+1x Khay'tall, Snake of Eden	9   DOM OBF PRE SER aus				Follower of Set:2
+1x Ardan Lane			8   AUS THA dom obf pre		primogen	Tremere:3
+1x Doctor Streck		8   CEL OBF PRE aus pot				Brujah antitribu:3
+1x J. Oswald "Ozzy" Hyde-White	8   AUS FOR OBF dom pre		primogen	Malkavian:3
+1x Kite				7   AUS DEM obf pre		bishop		Malkavian antitribu:2
+1x Sarrasine			7   OBF PRE aus nec ser				Follower of Set:2
+1x Antoinette DuChamp		1   cel pre					Caitiff:2
+
+Library (88 cards)
+Master (12)
+2x Auspex
+2x Information Highway
+7x Minion Tap
+1x Presence
+
+Action (10)
+6x Enchant Kindred
+4x Social Charm
+
+Political Action (8)
+2x Conservative Agitation
+6x Kine Resources Contested
+
+Action Modifier (26)
+1x Awe
+6x Bewitching Oration
+2x Faceless Night
+8x Forgotten Labyrinth
+2x Lost in Crowds
+1x Telepathic Vote Counting
+6x Voter Captivation
+
+Reaction (23)
+3x Dread Gaze
+3x Enhanced Senses
+2x Legwork
+9x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (9)
+9x Majesty

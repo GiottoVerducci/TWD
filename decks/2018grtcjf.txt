@@ -1,0 +1,92 @@
+Garou Rim: The Call
+Joensuu, Finland
+March 31st 2018
+2R+F
+10 players
+Aki Puolakka
+https://www.vekn.net/event-calendar/event/8883
+
+-- 1GW3.5 + 4VP in final
+
+Deck Name: Nosferatu Royalty Toolbox ft. Strohmann – Big Guys Do Big Things
+Created by: Aki Puolakka
+
+
+
+Bleed Big, Vote Big, Hit Big, So Many Oust Mechanisms!
+
+Never used Josef von Bauren, might change him for Dieudonne/Brunelle/Benjamin.
+
+Not sure about Army of Rats either, there seems to be always a “better” action
+to make.
+
+Currently it’s a tool box, it could be more bleedy or votery or combaty…
+
+So many options, very versatile base for a deck. Also, the whole crypt has
+really really good abilities.
+
+Crypt (12 cards, min=33, max=41, avg=9.25)
+------------------------------------------
+4x Alonso Petrodon	10  ANI DOM OBF POT for tha	justicar	Nosferatu:5
+3x Strohmann		9   ANI OBF POT THA dom		archbishop	Nosferatu antitribu:5
+2x Baron Dieudonne	9   ANI OBF POT PRO		prince		Nosferatu:4
+1x Josef von Bauren	11  ANI DEM OBF POT cel		inner circle	Nosferatu:4
+1x Gustaphe Brunnelle	8   ANI DOM POT obf		primogen	Nosferatu:4
+1x Benjamin Rose	7   AUS OBF ani pot		prince		Nosferatu:5
+
+Library (88 cards)
+Master (18; 8 trifle)
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Information Highway
+1x Labyrinth, The
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Slum Hunting Ground
+2x Vessel
+6x Villein
+2x Warsaw Station
+
+Action (14)
+1x Abbot
+1x Army of Rats
+5x Deep Song
+5x Govern the Unaligned
+1x Preternatural Strength
+1x SchreckNET
+
+Equipment (2)
+1x Flak Jacket
+1x Leather Jacket
+
+Political Action (7)
+1x Banishment
+1x Kine Resources Contested
+4x Parity Shift
+1x Reins of Power
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier (10)
+3x Conditioning
+1x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+3x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (17)
+4x Cats' Guidance
+4x Deflection
+4x Second Tradition: Domain
+5x Sense the Savage Way
+
+Combat (15)
+5x Aid from Bats
+1x Canine Horde
+6x Carrion Crows
+3x Taste of Vitae

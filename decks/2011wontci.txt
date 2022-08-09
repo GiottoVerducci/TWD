@@ -1,0 +1,69 @@
+Week of Nightmares - Clan Impersonation
+Columbus, Ohio
+June 23rd 2011
+2R+F
+10 players
+Bill Troxel
+
+-- 4VP in final
+
+Deck Name: Pure Nos '94
+
+Description: All Jyhad-backed, crypt and library, weenie Nos cheesy breed/boon with lots of stealth.
+
+Crypt (12 cards, min=4, max=24, avg=3.25)
+-----------------------------------------
+2x Selma the Repugnant	8   OBF POT ani for	prince	Nosferatu:1
+2x Agrippina		4   OBF pot			Nosferatu:1
+1x Sammy		4   ani obf pot			Nosferatu:1
+1x Duck			3   obf pot			Nosferatu:1
+1x Dimple		2   obf				Nosferatu:1
+1x KoKo			2   pot				Nosferatu:1
+1x Igo the Hungry	1   pre pro			Caitiff:1
+1x Navar McClaren	1   ani				Caitiff:1
+1x Nik			1   cel				Caitiff:1
+1x Smudge the Ignored	1   -none-			Caitiff:1
+
+Library (90 cards)
+Master (14)
+2x Barrens, The
+1x Elder Library
+1x Elysium: The Arboretum
+3x Information Highway
+2x Labyrinth, The
+3x Obfuscate
+1x Slum Hunting Ground
+1x Temptation of Greater Power
+
+Action (14)
+6x Embrace, The
+5x Kindred Intelligence
+2x Psychic Veil
+1x Third Tradition: Progeny
+
+Political Action (30)
+9x Consanguineous Boon
+9x Kine Resources Contested
+5x Nosferatu Justicar
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Boston
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: Dallas
+1x Praxis Seizure: Houston
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Washington, D.C.
+
+Action Modifier (26)
+2x Change of Target
+7x Cloak the Gathering
+5x Cryptic Rider
+5x Faceless Night
+5x Lost in Crowds
+2x Spying Mission
+
+Reaction (3)
+3x Delaying Tactics
+
+Combat (3)
+1x Behind You!
+2x Dodge

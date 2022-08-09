@@ -1,0 +1,77 @@
+Ya es Agosto
+Badia del Valles, Spain
+August 2nd 2008
+3R+F
+39 players
+Iñaki Puigdollers
+
+Deck Name: Lucinde' s Bag-of-all-trades
+
+Crypt (12 cards, min=14, max=39, avg=6.83)
+------------------------------------------
+3x Lucinde, Alastor	    10	DOM FOR PRE obf pot tha	 justicar	Ventrue:3
+1x Orlando Oriundus	    9	AUS DOM THA obf		 bishop		Tremere antitribu:4
+1x Polly Kay Fisher	    8	AUS DOM THA for pot	 archbishop	Ventrue antitribu:4
+1x Victorine Lafourcade	    8	DOM FOR PRE tha		 prince		Ventrue:3
+1x Ladislas Toth, The Torch 7	AUS DOM THA for		 archbishop	Tremere antitribu:3
+1x Jefferson Foster	    6	AUS DOM for tha		 bishop		Ventrue antitribu:4
+1x Victor Pelletier	    5	PRE cel dom for		 		Ventrue:4
+1x Keith Moody		    3	DOM			 		Tremere antitribu:4
+1x Lana Butcher		    3	dom for			 		Ventrue:3
+1x Ulrike Rothbart	    3	dom for			 		Ventrue antitribu:4
+
+Library (90 cards)
+Master (12)
+1x Anachronism
+1x Black Forest Base
+1x Demonstration
+1x Direct Intervention
+1x Pentex(TM) Subversion
+3x Perfectionist
+1x Temptation of Greater Power
+2x Thaumaturgy
+1x Ventrue Headquarters
+
+Action (15)
+8x Govern the Unaligned
+4x Magic of the Smith
+3x Scouting Mission
+
+Equipment (8)
+1x .44 Magnum
+1x AK-47
+1x Concoction of Vitality
+1x Flaming Candle
+1x Heart of Nizchetus
+1x Helicopter
+1x Ivory Bow
+1x Signet of King Saul, The
+
+Political Action (15)
+1x Alastor
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x Banishment
+5x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (16)
+2x Conditioning
+2x Daring the Dawn
+7x Freak Drive
+5x Mirror Walk
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (16)
+8x Deflection
+2x Fillip
+3x On the Qui Vive
+3x Second Tradition: Domain
+
+Combat (5)
+5x Skin of Steel
+
+Event (1)
+1x Uncoiling, The

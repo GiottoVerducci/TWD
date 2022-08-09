@@ -1,0 +1,59 @@
+HNC Round
+Hatvan, Hungary
+September 24th 2011
+3R+F
+13 players
+Milán Horváth
+
+-- 1GW4.5 + 1.5VP in final
+
+Deck Name: The Terrible Walking Sticks Deck
+
+Description: Get some good cross table buddies and win
+
+Crypt (12 cards, min=15, max=32, avg=5.92)
+------------------------------------------
+2x Dónal O'Connor		8   CEL DOM POT		prince	Brujah:2
+2x Marcellus			8   AUS CEL pro		prince	Toreador:2
+2x Ira Rivers			7   AUS CEL ani pre	prince	Toreador:3
+2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Scarlet Carson O'Toole	4   CEL pro			Gangrel antitribu:3
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Sarah Brando			3   CEL				Brujah antitribu:2
+
+Library (90 cards)
+Master (17; 6 trifle)
+6x Ashur Tablets
+2x Fame
+2x Frontal Assault
+1x Giant's Blood
+6x Life in the City
+
+Action (10)
+2x Ambush
+7x Bum's Rush
+1x Harass
+
+Political Action (5)
+1x Anathema
+4x Parity Shift
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Reaction (11)
+2x Delaying Tactics
+1x On the Qui Vive
+8x Second Tradition: Domain
+
+Combat (43)
+3x Blur
+2x Disarm
+1x Fast Hands
+5x Glancing Blow
+10x Pursuit
+4x Sideslip
+4x Target Vitals
+4x Taste of Vitae
+10x Weighted Walking Stick

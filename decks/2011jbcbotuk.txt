@@ -1,0 +1,75 @@
+Tournament
+Burton-on-Trent, England
+January 22nd 2011
+2R+F
+10 players
+Sven Helmer
+
+-- 4VP in final
+
+Deck: Ishtarri Vote
+
+Crypt (12 cards, min=21, max=36, avg=7.08)
+------------------------------------------
+2x Ayo Igoli		10  AUS CEL FOR PRE obf tha		  Ishtarri:4
+2x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	  Ishtarri:3
+2x Ubende		7   CEL PRE for obf qui		magaji	  Ishtarri:4
+2x Elizabeth Conde	5   CEL FOR pre				  Ishtarri:4
+1x Eugene		8   AUS CEL FOR PRE		primogen  Toreador:4
+1x Honorine Ateba	6   FOR PRE cel nec			  Ishtarri:4
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
+1x Shasa Abu Badr	5   PRE cel for				  Ishtarri:4
+
+Library (75 cards)
+Master (16; 6 trifle)
+1x Ancestor Spirit
+1x Barrens, The
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Dummy Corporation
+1x Fear of Mekhet
+1x Glutton
+1x Mbare Market, Harare
+1x Secure Haven
+1x Sudden Reversal
+6x Villein
+
+Action (5)
+4x Enchant Kindred
+1x Entrancement
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (14)
+1x Ancilla Empowerment
+1x Banishment
+1x Consanguineous Boon
+1x Domain Challenge
+1x Eldest Command Undeath, The
+8x Kine Resources Contested
+1x Secret Must Be Kept, The
+
+Action Modifier (24)
+1x Approximation of Loyalty
+3x Bewitching Oration
+1x Daring the Dawn
+6x Forced March
+1x Kiss of Ra, The
+1x Strange Day
+5x Uncontrolled Impulse
+6x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+1x Ishtarri Kholo
+1x Scalpel Tongue
+
+Reaction (1)
+1x Lost in Translation
+
+Combat (8)
+6x Majesty
+2x Superior Mettle

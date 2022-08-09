@@ -1,0 +1,70 @@
+Gliwice by Night MQ
+Gliwice, Poland
+April 25th 2009
+3R+F
+18 players
+Tomasz Izydorczyk
+
+Deck Name: tempt me plox
+
+Crypt (12 cards, min=11, max=30, avg=5.33)
+------------------------------------------
+3x Synesios	    8	POT PRE TEM obf ser	2 votes	 True Brujah:2
+2x Allonzo Montoya  6	OBF SER ani aus			 Abomination:3
+2x Hesha Ruhadze    6	SER ani obf pre			 Follower of Set:2
+1x Count Ormonde    5	OBF dom pre ser			 Follower of Set:2
+1x Dedefra	    5	SER nec obf			 Follower of Set:2
+1x Celine Chevalier 3	obf ser				 Follower of Set:2
+1x Lalitha	    2	ser				 Follower of Set:2
+1x Julius	    1	qui ser				 Caitiff:2
+
+Library (86 cards)
+Master (18; 2 trifle)
+8x Blood Doll
+1x Crocodile Temple, The
+2x Dreams of the Sphinx
+1x Heidelberg Castle, Germany
+1x Obfuscate
+1x Opium Den
+1x Serpentis
+1x Tabriz Assembly
+2x Wash
+
+Action (29)
+1x Aranthebes, The Immortal
+3x Blithe Acceptance
+2x Clotho's Gift
+2x Dream World
+4x Enticement
+2x Entrancement
+15x Temptation
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (5)
+1x Aaron's Feeding Razor
+1x Camera Phone
+1x Changeling Skin Mask
+1x Heart of Nizchetus
+1x Signet of King Saul, The
+
+Retainer (4)
+2x Ghoul Escort
+1x Malajit Chandramouli
+1x Robert Carter
+
+Action Modifier (24)
+3x Cloak the Gathering
+7x Domain of Evernight
+3x Faceless Night
+4x Forgotten Labyrinth
+4x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Event (1)
+1x Narrow Minds

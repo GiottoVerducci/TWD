@@ -1,0 +1,59 @@
+CQ Gdansk
+Gdansk, Poland
+March 1st 2008
+21 players
+Jakub Baranski
+
+-- 3VP in final
+
+Crypt (12 cards, min=26, max=36, avg=8)
+---------------------------------------
+4x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
+2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+
+Library (75 cards)
+Master (18)
+3x Direct Intervention
+1x Elysium: The Palace of Versailles
+1x Labyrinth, The
+2x Legendary Vampire
+4x Obfuscate
+1x Pentex(TM) Subversion
+6x Zillah's Valley
+
+Action (8)
+2x Judgment: Camarilla Segregation
+6x Third Tradition: Progeny
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Helicopter
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+1x First Tradition: The Masquerade
+7x Kine Resources Contested
+6x Parity Shift
+
+Action Modifier (23)
+2x Cryptic Rider
+2x Elder Impersonation
+2x Faceless Night
+3x Forgotten Labyrinth
+7x Freak Drive
+4x Lost in Crowds
+3x Veil the Legions
+
+Reaction (3)
+3x Second Tradition: Domain
+
+Combat (3)
+3x Skin of Steel

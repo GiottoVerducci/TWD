@@ -1,0 +1,61 @@
+Prince of Mainz Birthday Tournament
+Mainz, Germany
+July 31st 2010
+2R+F
+10 players
+Ralf Weppner
+
+-- 4VP in final
+
+Deck Name: Cats with Guns
+
+Crypt (12 cards, min=16, max=26, avg=5.17)
+------------------------------------------
+2x Maria Stone		   5   FOR cel obf pro		Gangrel antitribu:3
+2x Maria Stone (ADV)	   5   FOR cel obf pre pro spi	Ahrimane:3
+3x Muricia		   7   ANI PRE SPI		Ahrimane:4
+3x Effie Lowery		   5   ANI SPI obf		Ahrimane:4
+2x Aiyana, The Wolfcatcher 3   pre spi			Ahrimane:4
+
+Library (73 cards)
+Master (15; 4 trifle)
+3x Blood Doll
+1x Channel 10
+1x Giant's Blood
+1x KRCG News Radio
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+3x Sudden Reversal
+2x Vessel
+2x Wider View
+
+Action (10)
+2x Abbot
+3x Legal Manipulations
+2x Nose of the Hound
+3x Public Trust
+
+Equipment (5)
+4x .44 Magnum
+1x Sniper Rifle
+
+Retainer (3)
+1x Mr. Winthrop
+2x Raven Spy
+
+Action Modifier/Combat (8)
+8x Swiftness of the Stag
+
+Reaction (18)
+3x Cats' Guidance
+1x Delaying Tactics
+5x Falcon's Eye
+1x Poison Pill
+8x Speak with Spirits
+
+Combat (13)
+8x Carrion Crows
+5x Concealed Weapon
+
+Event (1)
+1x Narrow Minds

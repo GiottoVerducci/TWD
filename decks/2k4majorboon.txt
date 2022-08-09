@@ -1,0 +1,44 @@
+The Ron Spencer Tournament Series - Major Boon
+Atlanta, Georgia
+January 17th 2004
+3R+F
+14 players
+Jordan Beall
+
+Deck Name: !Tremere with Obtenebration
+
+Crypt (12 cards, min=24, max=40, avg=8)
+---------------------------------------
+4x Ayelea, The Manipulator 10  AUS DOM OBT THA pre  cardinal	Tremere antitribu:2
+2x Ian Forestal		   8   AUS DOM THA	    		Tremere antitribu:2
+2x Kij Dansky		   8   AUS DOM THA obt	    priscus	Tremere antitribu:2
+2x Elena Mendoza Vasquez   6   AUS THA dom obt	    		Tremere antitribu:3
+2x Selena		   6   AUS DOM THA	    		Tremere antitribu:3
+
+Library (90 cards)
+Master (16)
+6x Blood Doll
+6x Obtenebration
+1x University Hunting Ground
+3x Zillah's Valley
+
+Action (12)
+9x Govern the Unaligned
+3x Mind Rape
+
+Action Modifier (22)
+8x Bonding
+8x Shadow Play
+1x Shroud of Absence
+5x Shroud of Night
+
+Reaction (24)
+5x Deflection
+5x Enhanced Senses
+8x Forced Awakening
+3x My Enemy's Enemy
+3x Obedience
+
+Combat (16)
+8x Arms of the Abyss
+8x Theft of Vitae

@@ -1,0 +1,70 @@
+The Death of My Conscience MQ
+Stockholm, Sweden
+September 30th 2008
+13 players
+Randal Rudstam
+
+Deck Name: Princes with obfuscate
+
+Description: Saved by the archon investigation in the finals and
+never got to play a vessel due to the fact that i did not draw any of
+them.
+
+Crypt (12 cards, min=24, max=38, avg=7.75)
+------------------------------------------
+2x Lucian			10  AUS DOM OBF cel tha	 justicar  Malkavian:1
+2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+1x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
+1x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+1x Gilbert Duane		7   AUS DOM OBF		 prince	   Malkavian:1
+1x Greger Anderssen		7   AUS OBF dom pro	 prince	   Malkavian:2
+1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+1x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
+
+Library (90 cards)
+Master (23; 8 trifle)
+2x Archon Investigation
+3x Direct Intervention
+2x Dreams of the Sphinx
+1x Legendary Vampire
+1x Pentex(TM) Subversion
+4x Perfectionist
+2x Sudden Reversal
+4x Vessel
+4x Wash
+
+Action (2)
+1x New Management
+1x Pulse of the Canaille
+
+Equipment (2)
+2x .44 Magnum
+
+Political Action (15)
+1x Ancilla Empowerment
+1x Domain Challenge
+4x Kine Resources Contested
+9x Parity Shift
+
+Action Modifier (25)
+5x Cloak the Gathering
+2x Closed Session
+1x Elder Impersonation
+4x Faceless Night
+1x Forgotten Labyrinth
+6x Lost in Crowds
+1x Mask of a Thousand Faces
+3x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (20)
+2x Enhanced Senses
+5x Mental Maze
+2x On the Qui Vive
+5x Second Tradition: Domain
+6x Telepathic Misdirection

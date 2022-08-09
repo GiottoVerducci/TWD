@@ -1,0 +1,64 @@
+Creation Rites
+Florence, Italy
+June 20th 2009
+23 players
+Giulio Roffi
+
+Deck Name: Samedi !!!
+
+Description: Samedi reanimated corpses/bloat deck
+
+Crypt (12 cards, min=31, max=34, avg=8.08)
+------------------------------------------
+2x Jack Dawson			 8   FOR OBF cel nec qui thn		 Samedi:2
+2x Jack Dawson (ADV)		 8   FOR OBF cel nec qui thn		 Samedi:2
+3x Genina, The Red Poet		 8   CHI OBF THN aus cel for		 Samedi:3
+2x Baron, The			 9   FOR NEC OBF THN dom	2 votes	 Samedi:2
+2x Reg Driscoll			 8   OBF THN aus for pre		 Samedi:2
+1x Jorge De La Muerte, The Agent 7   OBF THN cel for nec		 Samedi:2
+
+Library (90 cards)
+Master (14)
+6x Coroner's Contact
+2x Fortitude
+1x Giant's Blood
+1x Houngan
+2x Information Highway
+1x Kaymakli Nightmares
+1x Visit from the Capuchin
+
+Action (23)
+1x Chair of Hades
+8x Little Mountain Cemetery
+2x Psychic Veil
+1x Putrescent Servitude
+2x Resilient Mind
+8x Restoration
+1x Sanguine Instruction
+
+Ally (11)
+1x Mylan Horseed
+10x Reanimated Corpse
+
+Equipment (1)
+1x Talbot's Chainsaw
+
+Political Action (6)
+6x Honor the Elders
+
+Action Modifier (23)
+4x Cloak the Gathering
+2x Elder Impersonation
+11x Freak Drive
+2x Kiss of Ra, The
+4x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Combat (8)
+4x Dust to Dust
+4x Rolling with the Punches
+
+Event (1)
+1x Unmasking, The

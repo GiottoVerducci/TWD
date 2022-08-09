@@ -1,0 +1,68 @@
+Cheat the Fates
+Stone Mountain, Atlanta, Georgia
+April 9th 2011
+2R+F
+10 players
+Matt Guinn
+
+-- 4VP in final
+
+Deck Name: Return to Carthage
+
+Description: Won all three of its games. 3VP, 2.5VP, 4VP
+
+Crypt (12 cards, min=27, max=42, avg=8.67)
+------------------------------------------
+3x Dmitra Ilyanova 9   CEL FOR POT PRE obf	justicar	Brujah:5
+3x Karen Suadela   7   CEL POT obf pre		prince		Brujah:5
+2x Adana de Sforza 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+2x Jann Berger	   10  CEL POT PRE dem for	prince		Brujah:4
+1x Carlak	   8   CEL PRE dom pot		prince		Brujah:5
+1x Tara		   6   POT PRE cel		prince		Brujah:5
+
+Library (89 cards)
+Master (29; 10 trifle)
+2x Archon Investigation
+3x Carthage Remembered
+4x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+1x Monastery of Shadows
+2x New Carthage
+1x Papillon
+1x Parthenon, The
+1x Powerbase: Montreal
+1x Temptation of Greater Power
+10x Villein
+1x Warzone Hunting Ground
+
+Action (6)
+3x Fleetness
+3x Flurry of Action
+
+Equipment (3)
+1x Assault Rifle
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Political Action (22)
+4x Alastor
+4x Banishment
+6x Kine Resources Contested
+5x Parity Shift
+2x Rumors of Gehenna
+1x Year of Fortune
+
+Action Modifier (15)
+2x Awe
+5x Iron Glare
+8x Voter Captivation
+
+Action Modifier/Combat (8)
+8x Resist Earth's Grasp
+
+Reaction (3)
+3x Second Tradition: Domain
+
+Combat (3)
+3x Majesty

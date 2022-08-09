@@ -1,0 +1,66 @@
+La Máscara
+São Paulo, Brazil
+March 30th 2014
+2R+F
+13 players
+Desso Alastor
+https://www.vekn.net/event-calendar/event/7617
+
+-- 4VP in final
+
+Deck Name: True Grinder
+
+Crypt (12 cards, min=13, max=26, avg=4.92)
+------------------------------------------
+2x Ingrid Russo			   4   DOM for		    Ventrue antitribu:2
+1x Edward Neally		   7   DOM FOR aus pre	    Ventrue antitribu:3
+1x Joseph O'Grady		   7   DOM FOR aus cel	    Ventrue antitribu:3
+1x Edward Vignes		   6   DOM PRE for	    Ventrue:3
+1x Marlene, The Infernalist	   6   AUS DOM dem for tha  Ventrue antitribu:2
+1x Vanessa			   6   DOM FOR aus pre	    Ventrue antitribu:2
+1x Catherine du Bois		   5   DOM for obf pre	    Ventrue:3
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	    Ventrue:2
+1x Earl				   4   dom for pot	    Ventrue:3
+1x Lana Butcher			   3   dom for		    Ventrue:3
+1x Samson			   2   dom		    Ventrue antitribu:2
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Antediluvian Awakening
+1x Corporate Hunting Ground
+2x Effective Management
+2x Fortitude
+2x Grooming the Protégé
+1x KRCG News Radio
+1x Momentum's Edge
+1x Uptown Hunting Ground
+4x Vessel
+2x Wash
+1x WMRH Talk Radio
+
+Action (14)
+10x Govern the Unaligned
+4x Restoration
+
+Equipment (3)
+3x .44 Magnum
+
+Action Modifier (23)
+9x Conditioning
+3x Daring the Dawn
+3x Freak Drive
+3x Kiss of Ra, The
+5x Seduction
+
+Reaction (21)
+7x Deflection
+4x Forced Awakening
+4x On the Qui Vive
+2x Redirection
+4x Wake with Evening's Freshness
+
+Combat (11)
+3x Concealed Weapon
+4x Hidden Strength
+2x Skin of Steel
+2x Unflinching Persistence

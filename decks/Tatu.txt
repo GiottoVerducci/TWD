@@ -1,0 +1,61 @@
+Wind Dance
+Atlanta, Georgia
+February 1st 2003
+13 players
+David Tatu
+
+Deck Name: Wind Dance Atlanta
+
+Crypt (12 cards, min=11, max=18, avg=3.75)
+------------------------------------------
+1x Isabel Giovanni	   5   DOM NEC pot	Giovanni:2
+1x Terry		   5   POT aus dom san	Blood Brother:2
+1x Agatha		   4   POT obf		Nosferatu antitribu:2
+1x Chas Giovanni Tello	   4   DOM POT		Giovanni:2
+1x Francesca Giovanni	   4   dom nec pot	Giovanni:2
+1x Hector Sosa		   4   POT pre		Brujah:1
+1x Hugo			   4   POT pre vic	Brujah antitribu:2
+1x Shane Grimald	   4   ani dom pot	Gangrel antitribu:2
+1x Cameron		   3   dom pot		Lasombra:2
+1x Cristofero Giovanni	   3   nec pot		Giovanni:2
+1x Mario Giovanni	   3   nec pot		Giovanni:2
+1x Paul DiCarlo, The Alpha 2   pot		Giovanni:2
+
+Library (90 cards)
+Master (15)
+1x Anarch Troublemaker
+4x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Mausoleum, Venice, The
+1x Parthenon, The
+5x Potence
+1x Storage Annex
+
+Action (16)
+3x Bum's Rush
+13x Computer Hacking
+
+Ally (1)
+1x Leonardo, Mortician
+
+Equipment (3)
+1x Hand of Conrad
+2x Sport Bike
+
+Retainer (2)
+1x Masquer
+1x Mr. Winthrop
+
+Action Modifier (2)
+2x Conditioning
+
+Reaction (18)
+11x Deflection
+7x Wake with Evening's Freshness
+
+Combat (33)
+4x Fake Out
+9x Increased Strength
+6x Taste of Vitae
+14x Thrown Gate

@@ -1,0 +1,68 @@
+Praxis Seizure: Bangor
+Bangor, Maine
+April 20th 2002
+12 players
+Ben Peal
+
+Go-Go-Goratrix
+
+Description: Rush combat/intercept combat hybrid, taking advantage of
+Goratrix's built-in strike, and superior Animalism and Dominate.
+Payload comes from Goratrix's +1 bleed, and some Governs (used
+typically for bringing out more minions). Cheap supporting minions
+provide heavy Auspex defense and extra bleeding, and the 5-caps help
+with both defense and protecting Goratrix.
+
+- Ben Peal, Prince of Boston
+fudjo@mindstorm.com
+
+Crypt (12 cards, min=16, max=40, avg=7.25)
+------------------------------------------
+6x Goratrix			   10  ANI AUS DOM THA vic  Tremere antitribu:2
+1x Caliban			   6   ANI AUS VIC	    Tzimisce:2
+1x Aisling Sturbridge		   5   AUS THA dom	    Tremere:2
+1x Devin Bisley			   5   ANI AUS vic	    Tzimisce:2
+1x Aleph			   4   AUS dom		    Malkavian:1
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha		    Tremere antitribu:2
+1x Isabel de Leon		   3   AUS		    Toreador:2
+
+Library (90 cards)
+Master (16)
+1x Barrens, The
+3x Blood Doll
+2x Effective Management
+1x Information Highway
+2x Minion Tap
+1x Mob Connections
+1x Rack, The
+1x Secure Haven
+2x Sudden Reversal
+1x University Hunting Ground
+1x Zillah's Valley
+
+Action (11)
+6x Bum's Rush
+5x Govern the Unaligned
+
+Equipment (1)
+1x Sport Bike
+
+Reaction (32)
+3x Eagle's Sight
+3x Enhanced Senses
+1x Forced Awakening
+2x Obedience
+5x Read the Winds
+3x Spirit's Touch
+9x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (30)
+3x Apportation
+2x Canine Horde
+2x Carrion Crows
+1x Song in the Dark
+6x Song of Serenity
+6x Thoughts Betrayed
+8x Trap
+2x Walk of Flame

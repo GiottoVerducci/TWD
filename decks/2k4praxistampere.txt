@@ -1,0 +1,73 @@
+Praxis: Kovat nännit
+Tampere, Finland
+February 28th 2004
+12 players
+Kimmo Koivisto
+
+Deck Name: Feminine Magic v1.3
+
+Description: Rather straightforward Thaumaturgy bruise & Dominate
+bleed. One last minute change proved to be immensely beneficial,
+I'd actually tribute my two out of three GW's in last tournament
+solely to the decision on adding the Pentex Subversion to the deck.
+The deck still contains some 'testing material', like single
+Graverobbing, Blood to Water and Obedience cards which probably will
+be changed in the next revision.
+
+Crypt (12 cards, min=10, max=32, avg=5.58)
+------------------------------------------
+2x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	 	   Tremere:2
+2x Blythe Candeleria		3   THA aus		 	   Tremere:2
+2x Mustafa Rahman		2   dom			 	   Tremere:2
+1x Spiridonas			9   DOM THA pot pre	 prince	   Tremere:2
+1x Anastasz di Zagreb		8   AUS THA ani cel dom	 justicar  Tremere:3
+1x Kij Dansky			8   AUS DOM THA obt	 priscus   Tremere antitribu:2
+1x Carna, The Princess Witch	7   AUS DOM THA		 primogen  Tremere:3
+1x Selena			6   AUS DOM THA		 	   Tremere antitribu:3
+1x Aisling Sturbridge		5   AUS THA dom		 	   Tremere:2
+
+Library (90 cards)
+Master (15)
+1x Academic Hunting Ground
+1x Arcane Library
+4x Blood Doll
+3x Dominate
+1x Information Highway
+1x Mob Connections
+1x Pentex(TM) Subversion
+2x Sudden Reversal
+1x Wasserschloss Anif, Austria
+
+Action (13)
+7x Govern the Unaligned
+1x Graverobbing
+3x Nose of the Hound
+2x Rutor's Hand
+
+Equipment (6)
+2x Ankara Citadel, Turkey, The
+2x Leather Jacket
+2x Sport Bike
+
+Action Modifier (7)
+2x Bonding
+5x Conditioning
+
+Reaction (20)
+7x Deflection
+1x Eagle's Sight
+1x Enhanced Senses
+4x Forced Awakening
+1x Obedience
+1x Precognition
+1x Spirit's Touch
+4x Wake with Evening's Freshness
+
+Combat (29)
+1x Amaranth
+10x Apportation
+2x Blood Fury
+1x Blood to Water
+10x Theft of Vitae
+4x Walk of Flame
+1x Weather Control

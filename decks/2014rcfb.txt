@@ -1,0 +1,63 @@
+Revolutionary Council
+Fortaleza, Brazil
+April 13th 2014
+3R+F
+17 players
+Giordanni Moreira
+https://www.vekn.net/event-calendar/event/7496
+
+-- 4VP in final
+
+Deck Name: knave's revenge
+
+Crypt (16 cards, min=4, max=8, avg=1.44)
+----------------------------------------
+1x Giuliano Vincenzi	2   for		Gangrel:1
+1x Lupo			2   pot		Brujah:1
+1x Magdelena Schaefer	2   THA		Caitiff:2
+1x Normal		2   obf		Malkavian:1
+1x Roreca Quaid		2   tha		Tremere:1
+1x Rufina Soledad	2   for		Ventrue:1
+1x Vliam Andor		2   ani		Gangrel:1
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Franciscus		1   aus		Caitiff:2
+1x Hasina Kesi		1   pot		Caitiff:1
+1x Igo the Hungry	1   pre pro	Caitiff:1
+1x Julius		1   qui ser	Caitiff:2
+1x Navar McClaren	1   ani		Caitiff:1
+1x Nik			1   cel		Caitiff:1
+1x Smudge the Ignored	1   -none-	Caitiff:1
+1x Uriah Winter		1   for pot	Caitiff:1
+
+Library (72 cards)
+Master (21)
+1x Antediluvian Awakening
+3x Direct Intervention
+3x Dreams of the Sphinx
+4x Effective Management
+5x Information Highway
+1x Momentum's Edge
+4x Sudden Reversal
+
+Political Action (50)
+10x Conservative Agitation
+1x Disputed Territory
+18x Kine Resources Contested
+5x Parity Shift
+2x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: Dallas
+2x Praxis Seizure: Dublin
+1x Praxis Seizure: Frankfurt
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Houston
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Seattle
+1x Praxis Seizure: Stockholm
+1x Praxis Seizure: Venice
+1x Praxis Seizure: Washington, D.C.
+
+Event (1)
+1x Bitter and Sweet Story, The

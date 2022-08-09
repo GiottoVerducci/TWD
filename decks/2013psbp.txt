@@ -1,0 +1,70 @@
+Praxis Seizure: Bydgoszcz
+Bydgoszcz, Poland
+April 13th 2013
+3R+F
+15 players
+Marcin Watras
+
+-- 3VP in final
+
+Deck Name: Anson Cel-Gun ver.2.0
+
+Description: The latest version of Anson with guns.
+Infernal Pursuits cycle cards in lightspeed fashion.
+Greater capacities + Villeins = pool security.
+This deck runs way better than its predecessors.
+Bleed boosts of several vamps enhance the deck's ousting power essentially.
+
+Crypt (12 cards, min=16, max=36, avg=6.75)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom		prince	  Toreador:1
+1x Anneke			10  AUS CEL PRE dom		justicar  Toreador:1
+1x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+1x Marcellus			8   AUS CEL pro			prince	  Toreador:2
+1x Black Cat			5   CEL pot pre				  Brujah:1
+1x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
+1x Jimmy Dunn			4   CEL POT for				  Pander:2
+1x Victor Tolliver		4   CEL pot				  Brujah antitribu:2
+1x Sarah Brando			3   CEL					  Brujah antitribu:2
+
+Library (82 cards)
+Master (23; 6 trifle)
+9x Ashur Tablets
+1x Dreams of the Sphinx
+1x Fame
+2x Haven Uncovered
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Tension in the Ranks
+5x Villein
+1x Wider View
+
+Action (6)
+6x Bum's Rush
+
+Equipment (7)
+7x .44 Magnum
+
+Political Action (2)
+2x Parity Shift
+
+Action Modifier/Combat (1)
+1x Resist Earth's Grasp
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (33)
+2x Blur
+7x Concealed Weapon
+1x Fast Hands
+7x Infernal Pursuit
+6x Psyche!
+5x Pursuit
+1x Sideslip
+4x Taste of Vitae
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dragonbound

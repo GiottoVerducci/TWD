@@ -1,0 +1,78 @@
+Powerbase: LA tournament 4
+Los Angeles, California
+May 23rd 2004
+2R+F
+17 players
+David Tatu
+
+Deck Name: Maris Streck - Prince with Animalism version
+
+Crypt (12 cards, min=26, max=37, avg=8.17)
+------------------------------------------
+5x Maris Streck		9   AUS OBF ani dem dom	 justicar  Malkavian:3
+2x Nikolaus Vermeulen	7   POT ani for obf	 prince	   Nosferatu:2
+1x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	   Malkavian:3
+1x Casino Reeds		9   ANI OBF POT cel dem	 prince	   Nosferatu:3
+1x Anastasz di Zagreb	8   AUS THA ani cel dom	 justicar  Tremere:3
+1x Ira Rivers		7   AUS CEL ani pre	 prince	   Toreador:3
+1x Calebros, The Martyr	5   ANI obf pot		 prince	   Nosferatu:2
+
+Library (90 cards)
+Master (15)
+1x Anarch Revolt
+1x Animalism
+1x Asylum Hunting Ground
+1x Bleeding the Vine
+3x Blood Doll
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Golconda: Inner Peace
+1x Millicent Smith, Puritan Vampire Hunter
+1x Minion Tap
+1x Powerbase: Chicago
+1x Rack, The
+
+Action (3)
+1x Army of Rats
+1x Fourth Tradition: The Accounting
+1x Judgment: Camarilla Segregation
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (5)
+4x .44 Magnum
+1x Sniper Rifle
+
+Political Action (5)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Domain Challenge
+1x Kindred Restructure
+1x Parity Shift
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+2x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (6)
+4x Cloak the Gathering
+2x Lost in Crowds
+
+Reaction (20)
+3x Cats' Guidance
+2x My Enemy's Enemy
+12x Second Tradition: Domain
+2x Telepathic Misdirection
+1x Voice of Madness
+
+Combat (31)
+8x Aid from Bats
+5x Carrion Crows
+1x Chiram's Hold
+4x Concealed Weapon
+2x Drawing Out the Beast
+3x High Ground
+5x Taste of Vitae
+3x Terror Frenzy

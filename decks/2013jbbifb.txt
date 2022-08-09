@@ -1,0 +1,76 @@
+Jann Berger's "B" is for Blur
+Los Angeles, California
+February 16th 2013
+13 players
+Matt Wedge
+
+-- 5VP in final
+
+Deck Name: Revolutionist Uprising
+Created by: Matt Wedge and Robert Scythe
+
+Description: Stealth bleed and vote with the Rising
+I made some last minute changes, but failed to adjust the crypt to fit.
+
+Crypt (12 cards, min=21, max=28, avg=6.42)
+------------------------------------------
+3x Stavros	    7	AUS OBF PRE dem		priscus	 Malkavian antitribu:4
+2x Karen Suadela    7	CEL POT obf pre		prince	 Brujah:5
+2x Ubende	    7	CEL PRE for obf qui	magaji	 Ishtarri:4
+1x Mukhtar Bey	    7	FOR PRE QUI obf pot	prince	 Caitiff:4
+1x Ankh-sen-Sutekh  6	PRE SER obf			 Follower of Set:4
+1x Herbert Westin   5	OBF PRE pot			 Brujah:4
+1x Renenet	    5	OBF PRE ser			 Follower of Set:4
+1x Victor Pelletier 5	PRE cel dom for			 Ventrue:4
+
+Library (65 cards)
+Master (12; 2 trifle)
+1x Anarch Troublemaker
+3x Dreams of the Sphinx
+2x Fortschritt Library
+2x Pentex(TM) Subversion
+2x Sudden Reversal
+2x Wider View
+
+Action (6)
+1x Entrancement
+3x Heart of the City
+2x Public Trust
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Political Action (8)
+4x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (20)
+2x Awe
+2x Bewitching Oration
+2x Cloak the Gathering
+3x Elder Impersonation
+2x Faceless Night
+1x Forgotten Labyrinth
+2x Lost in Crowds
+1x Spying Mission
+1x Veil the Legions
+4x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Combat (5)
+5x Majesty
+
+Event (8)
+1x Bitter and Sweet Story, The
+2x Break the Code
+1x Nightmares upon Nightmares
+1x Restricted Vitae
+2x Rising, The
+1x Thirst

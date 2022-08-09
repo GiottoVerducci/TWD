@@ -1,0 +1,65 @@
+Boogaloo II: Revenge of the Boogaloo
+Good Games (Blackburn), Melbourne, Australia
+December 4th 2010
+3R+F
+18 players
+Simon Reed
+
+Deck Name: My AAA
+
+Description: Assault Rifles are fun!
+
+Crypt (12 cards, min=20, max=42, avg=8.17)
+------------------------------------------
+4x Anneke	  10  AUS CEL PRE dom	   justicar	 Toreador:1
+4x Anson	  8   CEL PRE aus dom	   prince	 Toreador:1
+2x Alexandra	  11  ANI AUS CEL PRE dom  inner circle	 Toreador:2
+2x Delilah Easton 2   pre		   		 Toreador:1
+
+Library (88 cards)
+Master (29; 8 trifle)
+2x Art Museum
+4x Ashur Tablets
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Protected Resources
+7x Toreador Grand Ball
+2x Vast Wealth
+6x Villein
+2x Wash
+
+Action (2)
+2x Entrancement
+
+Equipment (4)
+4x Assault Rifle
+
+Political Action (19)
+2x Alastor
+1x Ancient Influence
+2x Ancilla Empowerment
+2x Banishment
+4x Kine Resources Contested
+6x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (12)
+2x Approximation of Loyalty
+3x Awe
+7x Voter Captivation
+
+Reaction (17)
+5x Deflection
+3x Eyes of Argus
+3x Obedience
+6x Second Tradition: Domain
+
+Combat (4)
+2x Pursuit
+2x Taste of Vitae
+
+Event (1)
+1x Anthelios, The Red Star

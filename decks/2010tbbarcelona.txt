@@ -1,0 +1,56 @@
+True Blood
+Barcelona, Spain
+January 30th 2010
+41 players
+Jordi Tomás
+
+Deck Name: Shambling Powerbleed
+Created by: Aitor Jimenez Y Antonio Cobo Cuenca
+
+Crypt (12 cards, min=14, max=27, avg=5.08)
+------------------------------------------
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+1x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
+1x Stefano Giovanni	6   DOM nec pot pre	Giovanni:2
+1x Francesca Giovanni	4   dom nec pot		Giovanni:2
+1x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+1x Rudolfo Giovanni	3   NEC			Giovanni:2
+
+Library (70 cards)
+Master (13; 1 trifle)
+3x Acquired Ventrue Assets
+3x Blood Doll
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Misdirection
+2x Pentex(TM) Subversion
+
+Action (13)
+1x Far Mastery
+9x Govern the Unaligned
+3x Sudario Refraction
+
+Ally (13)
+1x Leonardo, Mortician
+1x Ossian
+11x Shambling Hordes
+
+Action Modifier (17)
+2x Bonding
+6x Call of the Hungry Dead
+4x Conditioning
+1x Foreshadowing Destruction
+4x Seduction
+
+Action Modifier/Reaction (6)
+6x Spectral Divination
+
+Reaction (8)
+4x Deflection
+2x Delaying Tactics
+2x On the Qui Vive

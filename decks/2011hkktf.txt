@@ -1,0 +1,72 @@
+Helmen Kuun Kalastajat
+Sonera-talo, Tampere, Finland
+February 19th 2011
+3R+F
+17 players
+Timo Rekola
+
+Deck Name: Malkavian.ver.1.3
+
+Based on Marko Lindroos dect (which was based on Erik Torstensson's Punmatra Lutzonance deck)
+- minus bleed (because there are to many deflections in play these days)
++ plus more Villen's and Lilith's Blessing's because free Malkavians
+are better than with cost (and V&L is a must in fatty deck's...)
+
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+3x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
+2x Gravitnir		 10  AUS CEL DEM OBF VIC	priscus		Malkavian antitribu:4
+2x Tryphosa		 10  AUS DEM DOM OBF POT	prince		Malkavian:4
+1x Louhi		 10  ANI AUS DEM OBF THA pro	cardinal	Malkavian antitribu:4
+
+Library (90 cards)
+Master (35; 10 trifle)
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+4x Golconda: Inner Peace
+2x Information Highway
+2x Lilith's Blessing
+1x Metro Underground
+2x Monastery of Shadows
+3x Parthenon, The
+1x Secure Haven
+2x Sudden Reversal
+8x Villein
+2x Wash
+4x Zillah's Valley
+
+Action (6)
+6x Petra Resonance
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+2x Conservative Agitation
+4x Kine Resources Contested
+2x Parity Shift
+1x Political Stranglehold
+2x Reinforcements
+1x Reins of Power
+
+Action Modifier (16)
+4x Elder Impersonation
+2x Enkil Cog
+4x Forgotten Labyrinth
+6x Lost in Crowds
+
+Reaction (13)
+2x Eyes of Argus
+4x Mental Maze
+7x Telepathic Misdirection
+
+Combat (2)
+2x No Trace
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,60 @@
+EC 2002
+Vienna, Austria
+December 1st 2002
+73 players
+Dave Bastijns
+
+Deck: "Malkavian Bleed & Stealth"
+
+Crypt (17 cards, min=10, max=28, avg=5.18)
+------------------------------------------
+3x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
+3x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
+2x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
+2x Didi Meyers		5   DOM aus cel obf		Malkavian:1
+1x Badr al-Budur	5   OBF cel dom qui		Assamite:2
+1x Zebulon		5   OBF aus dom pro		Malkavian:1
+1x Laurent de Valois	4   ani dom obf			Nosferatu:2
+1x Roland Bishop	4   aus dom obf			Malkavian:1
+1x Mustafa Rahman	2   dom				Tremere:2
+1x Ohanna		2   dom				Malkavian:2
+1x Samson		2   dom				Ventrue antitribu:2
+
+Library (90 cards)
+Master (18)
+1x Archon Investigation
+2x Asylum Hunting Ground
+3x Blood Doll
+2x Direct Intervention
+5x Dreams of the Sphinx
+1x Pentex(TM) Subversion
+2x Secure Haven
+2x Sudden Reversal
+
+Action (13)
+1x Dominate Kine
+1x Far Mastery
+11x Govern the Unaligned
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (1)
+1x Monocle of Clarity
+
+Action Modifier (40)
+6x Bonding
+4x Cloak the Gathering
+3x Command of the Beast
+8x Conditioning
+2x Elder Impersonation
+5x Faceless Night
+3x Foreshadowing Destruction
+4x Lost in Crowds
+3x Mask of a Thousand Faces
+2x Spying Mission
+
+Reaction (17)
+8x Deflection
+3x Delaying Tactics
+6x Wake with Evening's Freshness

@@ -1,0 +1,63 @@
+Czenstochovia II
+Czestochowa, Poland
+May 25th 2013
+3R+F
+14 players
+Piotr Jaworski
+
+-- 5VP in final
+
+To rape, or not to rape...
+
+Crypt (12 cards, min=40, max=43, avg=10.25)
+-------------------------------------------
+3x Arika	    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
+3x Lucinde, Alastor 10	DOM FOR PRE obf pot tha	 justicar	Ventrue:3
+3x Marcus Vitel	    10	DOM FOR OBF OBT PRE	 prince		Ventrue:3
+3x Queen Anne	    10	DOM FOR PRE aus obf	 prince		Ventrue:2
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Creepshow Casino
+1x Giant's Blood
+2x Golconda: Inner Peace -- Inner Peace
+3x Heidelberg Castle, Germany
+4x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+6x Villein
+
+Action (11)
+2x Abactor
+2x Entrancement
+7x Mind Rape
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Political Action (9)
+1x Ancient Influence
+2x Banishment
+5x Kine Resources Contested
+1x Reins of Power
+
+Action Modifier (34)
+1x Awe
+3x Bewitching Oration
+1x Enkil Cog
+4x Forgotten Labyrinth
+6x Freak Drive
+4x Into Thin Air
+2x Kiss of Ra, The
+2x Perfect Paragon
+5x Seduction
+6x Voter Captivation
+
+Reaction (5)
+5x Deflection
+
+Combat (9)
+2x Majesty
+7x Superior Mettle

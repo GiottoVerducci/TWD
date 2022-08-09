@@ -1,0 +1,59 @@
+Justicar Retribution X - Time to get Tough
+Helsinki, Finland
+October 21st 2012
+3R+F
+13 players
+Juha Nyholm
+
+Deck Name: Fast lunch
+
+A casual deck built back when I started playing. Haven't really updated
+it much since. I guess the deck would fair better if I swapped out the
+fast reaction tech for some dominate.
+The deck was inspired by: www.veknfrance.com/decks/witchy_woman.htm
+
+Crypt (12 cards, min=21, max=28, avg=6.25)
+------------------------------------------
+3x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+3x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		  Tremere:2
+3x Eugenio Estevez		6   AUS THA dom for		  Tremere:3
+3x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+
+Library (90 cards)
+Master (11)
+1x Arcane Library
+1x Archon Investigation
+1x Auspex
+5x Blood Doll
+1x Chantry
+2x Rötschreck
+
+Action (6)
+1x Arson
+3x Magic of the Smith
+2x Pulse of the Canaille
+
+Equipment (3)
+1x Ivory Bow
+1x Rowan Ring
+1x Sengir Dagger
+
+Action Modifier (4)
+4x Conditioning
+
+Reaction (41)
+4x Deflection
+5x Eagle's Sight
+4x Enhanced Senses
+6x Fast Reaction
+8x Forced Awakening
+1x On the Qui Vive
+5x Precognition
+5x Spirit's Touch
+3x Wake with Evening's Freshness
+
+Combat (25)
+6x Amaranth
+9x Apportation
+1x Burst of Sunlight
+9x Theft of Vitae

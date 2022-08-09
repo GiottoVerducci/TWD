@@ -1,0 +1,46 @@
+Gamex 2001 Event #4
+Los Angeles, California
+May 27th 2001
+Brad Ward
+
+Crypt (12 cards, min=12, max=24, avg=4.42)
+------------------------------------------
+2x Dancin' Dana		  6   AUS cel obf	Malkavian:1
+2x Victoria		  5   AUS cel obf	Malkavian:2
+2x Watenda		  3   obf		Malkavian:2
+2x Zöe			  3   AUS cel obf	Malkavian:2
+1x Ozmo			  6   AUS dom obf	Malkavian:1
+1x Quira, The Bitch Queen 6   AUS OBF obt tha	Malkavian antitribu:2
+1x Aleph		  4   AUS dom		Malkavian:1
+1x Dollface		  3   aus obf		Malkavian:1
+
+Library (90 cards)
+Master (15)
+1x Asylum Hunting Ground
+4x Madness Network
+8x Malkavian Prank
+2x Obfuscate
+
+Action (6)
+2x Distraction
+4x Pulse of the Canaille
+
+Equipment (6)
+6x Leather Jacket
+
+Action Modifier (27)
+6x Cloak the Gathering
+6x Faceless Night
+8x Lost in Crowds
+1x Mask of a Thousand Faces
+6x Spying Mission
+
+Action Modifier/Combat (8)
+8x Swallowed by the Night
+
+Reaction (28)
+4x Eagle's Sight
+4x Precognition
+8x Telepathic Counter
+6x Telepathic Misdirection
+6x Wake with Evening's Freshness

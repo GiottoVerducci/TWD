@@ -1,0 +1,91 @@
+Powerbase: Watford
+Watford, England
+May 31st 2003
+16 players
+Rob Treasure
+
+Deck Name: Brick in a sock
+
+Description: Ummmm... pretty obvious bleed or rush with lots of Pot
+minions. Use Computer Hacks to force blocks or bleed for steady twos.
+Bring back diab'ed minions with Hand of Conrad. Use Tributes as soon
+as you get them, don't be afraid to Tribute to empty cos most of
+minions can use Hungry Coyote when you get it to fill back up. Change
+of Targets draw out wakes etc and make the deck a tiny bit faster and
+much more annoying by adding to the total number of actions possible.
+Ivory Bow is in mainly to contest because its about the most common
+'worst single thing' you can come across and is pretty useful on its
+own. Two non-pot Sabbat weenies are there to make up numbers, would do
+without and go down to twelve but have run out of crypt a few times
+which is no fun.
+
+Also was a bit of an experiment on a few different levels. Has put my
+mind to rest that a weenie pot Sabbat Embrace is indeed missed deck
+opportunity #23 **sigh**
+
+Wanted to try a version with a lot of solid masters and it worked
+pretty well - what you lose in cycling you more than make up for in
+pool gain so that works for me. A lot of the masters (18 assuming a
+minion is out) are playable 'out of the box' so you don't often have
+them sat in your hand... which is nice.
+
+A goodly amount of pool gen for a Pot deck and two AI's coupled with
+numbers backrushTM makes for a pretty resilient Pot horde that keeps
+on coming.
+
+Anyway enough crap here is 'Brick in a sock'
+
+Crypt (14 cards, min=8, max=15, avg=2.79)
+-----------------------------------------
+2x Jimmy Dunn		    4	CEL POT for	Pander:2
+1x Agatha		    4	POT obf		Nosferatu antitribu:2
+1x Cameron		    3	dom pot		Lasombra:2
+1x Erinyi		    3	pot vis		Gargoyle:2
+1x Jacob Bragg		    3	cel pot		Brujah antitribu:2
+1x Tom			    3	for pot san	Blood Brother:2
+1x Tommy		    3	ani pot		Nosferatu antitribu:2
+1x Carter		    2	cel		Toreador antitribu:2
+1x Horatio		    2	vic		Tzimisce:2
+1x KoKo			    2	pot		Nosferatu:1
+1x Lupo			    2	pot		Brujah:1
+1x Mitchell, The Headhunter 2	obt pot		Pander:2
+1x Paul DiCarlo, The Alpha  2	pot		Giovanni:2
+
+Library (90 cards)
+Master (20)
+2x Archon Investigation
+2x Effective Management
+1x Fame
+1x Humanitas
+2x Hungry Coyote, The
+1x Information Highway
+1x Parthenon, The
+4x Potence
+6x Tribute to the Master
+
+Action (16)
+9x Bum's Rush
+7x Computer Hacking
+
+Ally (1)
+1x Gregory Winter
+
+Equipment (4)
+1x Hand of Conrad
+1x Ivory Bow
+2x Leather Jacket
+
+Action Modifier (4)
+4x Change of Target
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (43)
+4x Disarm
+7x Fake Out
+9x Immortal Grapple
+4x Pushing the Limit
+3x Thrown Sewer Lid
+9x Torn Signpost
+7x Undead Strength

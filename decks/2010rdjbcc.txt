@@ -1,0 +1,60 @@
+Campeonato Carioca 2010
+Rio de Janeiro, Brazil
+May 30th 2010
+3R+F
+16 players
+Chrisitano Santos
+
+Deck Name: Malk 94
+Created by: Chrisitano Monteiro Mendona dos Santos
+
+Crypt (12 cards, min=9, max=25, avg=4.5)
+----------------------------------------
+3x Didi Meyers		5   DOM aus cel obf		Malkavian:1
+1x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
+1x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
+1x Ozmo			6   AUS dom obf			Malkavian:1
+1x Badr al-Budur	5   OBF cel dom qui		Assamite:2
+1x Zebulon		5   OBF aus dom pro		Malkavian:1
+1x Roland Bishop	4   aus dom obf			Malkavian:1
+1x Dimple		2   obf				Nosferatu:1
+1x Normal		2   obf				Malkavian:1
+1x Basil		1   obf				Pander:2
+
+Library (83 cards)
+Master (18)
+1x Barrens, The
+4x Blood Doll
+3x Dominate
+2x Dreams of the Sphinx
+2x Fragment of the Book of Nod
+4x Information Highway
+2x Secure Haven
+
+Action (8)
+4x Computer Hacking
+4x Govern the Unaligned
+
+Ally (2)
+2x Muddled Vampire Hunter
+
+Action Modifier (40)
+3x Cloak the Gathering
+4x Command of the Beast
+4x Conditioning
+4x Elder Impersonation
+4x Faceless Night
+3x Foreshadowing Destruction
+4x Lost in Crowds
+6x Seduction
+3x Spying Mission
+4x Threats
+1x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (11)
+5x Deflection
+4x Forced Awakening
+2x Wake with Evening's Freshness

@@ -1,0 +1,71 @@
+Australian Continental Championship 2012 - Last Chance Qualifier
+Melbourne, Australia
+October 6th 2012
+3R+F
+20 players
+Jon Darbro
+
+-- 2.5VP in final
+
+Deck Name: Shane Grimald Deck #4
+
+Description: Get out Shane Grimald and wait for Huang, Blood Cultist.
+
+Crypt (12 cards, min=15, max=21, avg=4.5)
+-----------------------------------------
+1x Dr. Julius Sutphen		5   POT dom obt		bishop	Lasombra:3
+1x Dr. Julius Sutphen (ADV)	5   POT dom obt			Lasombra:3
+1x Lisette Vizquel		6   DOM POT pro		bishop	Lasombra:2
+1x Isabel Giovanni		5   DOM NEC pot			Giovanni:2
+1x Terry			5   POT aus dom san		Blood Brother:2
+1x Wah Chun-Yuen		5   POT cel dom pre		Brujah antitribu:3
+1x Chas Giovanni Tello		4   DOM POT			Giovanni:2
+1x Earl				4   dom for pot			Ventrue:3
+1x Francesca Giovanni		4   dom nec pot			Giovanni:2
+1x Ignacio, The Black Priest	4   dom obt pot			Lasombra:2
+1x Shane Grimald		4   ani dom pot			Gangrel antitribu:2
+1x Cameron			3   dom pot			Lasombra:2
+
+Library (82 cards)
+Master (15; 2 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+1x Barrens, The
+2x Blood Doll
+1x Dreams of the Sphinx
+2x Fame
+1x Political Hunting Ground
+2x Potence
+2x Tension in the Ranks
+2x Vessel
+
+Action (16)
+2x Bum's Rush
+8x Govern the Unaligned
+1x Graverobbing
+1x Rampage
+2x Rumble
+1x Scouting Mission
+1x Slaughtering the Herd
+
+Action Modifier (5)
+3x Conditioning
+2x Foreshadowing Destruction
+
+Reaction (14)
+6x Deflection
+3x Delaying Tactics
+3x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (32)
+1x Disarm
+8x Immortal Grapple
+2x Increased Strength
+1x Mighty Grapple
+3x Slam
+1x Stunt Cycle
+3x Taste of Vitae
+2x Thrown Sewer Lid
+6x Torn Signpost
+5x Undead Strength

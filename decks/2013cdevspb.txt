@@ -1,0 +1,60 @@
+Corujão do Esporte Vampírico
+São Paulo, Brazil
+August 2nd 2013
+3R+F
+16 players
+Roberto Mautone Junior
+
+-- 3VP in final
+
+Deck Name: Salubri Bonzinho
+
+Crypt (12 cards, min=17, max=38, avg=7.08)
+------------------------------------------
+3x Nahum Enosh		10  AUS OBE OBF VAL for pre	Salubri:6
+3x Serenna the White	8   AUS FOR OBE ani dem		Salubri:6
+3x Matthew		7   AUS FOR OBE cel		Salubri:6
+1x Tyler McGill		4   AUS pre			Toreador:5
+1x Andre LeRoux		3   aus				Toreador:5
+1x Veejay Vinod		3   AUS				Nagaraja:6
+
+Library (90 cards)
+Master (17; 3 trifle)
+1x Depravity
+1x Direct Intervention
+1x Golconda: Inner Peace
+3x Heidelberg Castle, Germany
+6x Minion Tap
+1x Rack, The
+1x Secure Haven
+3x Vessel
+
+Action (17)
+2x Lord of Serenity
+2x Pulse of the Canaille
+6x Renewed Vigor
+7x Spirit Marionette
+
+Ally (2)
+2x Carlton Van Wyk
+
+Action Modifier (12)
+8x Freak Drive
+4x Repulsion
+
+Action Modifier/Combat (5)
+5x Penitent Resilience
+
+Action Modifier/Reaction (5)
+5x Gift of Sleep
+
+Reaction (15)
+8x Eyes of Argus
+2x My Enemy's Enemy
+5x Telepathic Misdirection
+
+Combat (17)
+7x Anesthetic Touch
+2x Target Vitals
+3x Unflinching Persistence
+5x Vitae Block

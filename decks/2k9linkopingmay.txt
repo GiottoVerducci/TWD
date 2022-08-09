@@ -1,0 +1,49 @@
+Tjockis block at Lincon
+Linköping, Sweden
+May 23rd 2009
+13 players
+Alexander Båskman
+
+-- 1.5VP in final
+
+Deck Name: Cybele on speedhack
+
+Description: Based on the Cybelotron deck by Johannes Walch & Ben
+Peal.
+
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+11x Cybele 10	ANI DAI OBF PRE SER THA	 Baali:4
+1x  Nergal 10	AUS DAI FOR OBF PRE THA	 Baali:5
+
+Library (64 cards)
+Master (33; 5 trifle)
+1x Antediluvian Awakening
+6x Ashur Tablets
+6x Celerity
+5x Dreams of the Sphinx
+1x Fortschritt Library
+3x Golconda: Inner Peace
+2x Parthenon, The
+1x Pentex(TM) Subversion
+3x Redeem the Lost Soul
+4x Villein
+1x Wash
+
+Action (10)
+6x Call the Great Beast
+4x Magic of the Smith
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Action Modifier (18)
+3x Elder Impersonation
+2x Faceless Night
+4x Into Thin Air
+2x Mirror Walk
+1x Spying Mission
+6x Truth of a Thousand Lies
+
+Event (1)
+1x Anthelios, The Red Star

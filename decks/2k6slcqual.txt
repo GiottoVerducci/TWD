@@ -1,0 +1,66 @@
+Utah NAC Qualifier
+Salt Lake City, Utah
+May 20th 2006
+3R+F
+12 players
+Alex Harmon
+
+-- 3GW8 + 2VP in final
+
+Crypt (13 cards, min=13, max=22, avg=4.46)
+------------------------------------------
+4x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Earl "Shaka74" Deams		6   jud mar viz	 Visionary:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x François "Warden" Loehr	3   def jud	 Judge:4
+1x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+1x Xian "DziDzat155" Quan	4   def inn	 Defender:4
+1x Inez "Nurse216" Villagrande	3   inn		 Innocent:4
+
+Library (70 cards)
+Master (13)
+2x Angel of Berlin
+1x Barrens, The
+2x Church of Vindicated Faith, The
+1x Fortschritt Library
+6x Memories of Mortality
+1x Vulnerability
+
+Conviction (17)
+3x React with Conviction
+7x Second Sight
+7x Strike with Conviction
+
+Ally (6)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Mylan Horseed
+1x Ossian
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (3)
+1x Crusader Sword, The
+1x Ivory Bow
+1x Sengir Dagger
+
+Power (17)
+4x Champion
+3x Discern
+1x Inspire
+4x Rejuvenate
+5x Vigilance
+
+Combat (3)
+3x Weighted Walking Stick
+
+Event (11)
+1x Blood Weakens
+2x Edge Explosion
+1x Fall of the Camarilla
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Thirst
+1x Torpid Blood
+2x Unmasking, The

@@ -1,0 +1,70 @@
+Gehenna
+Hilversum, Netherlands
+March 31st 2012
+3R+F
+25 players
+Michael Bartsch
+
+Deck Name: Gehenna: Matata Wall
+
+Crypt (12 cards, min=21, max=36, avg=7.33)
+------------------------------------------
+4x Matata	  9   ABO ANI FOR aus cel obf		Akunanse:3
+2x Amavi	  8   ABO ANI FOR pre pro		Akunanse:4
+1x Nkule Galadima 8   ABO FOR ani aus pre	magaji	Akunanse:4
+1x Uchenna	  7   ABO ANI FOR		magaji	Akunanse:4
+1x Jubal	  6   ABO ANI for pot			Akunanse:4
+1x Sanjo	  6   ANI FOR abo chi			Akunanse:3
+1x Kikiyaon, The  5   FOR abo ani			Akunanse:4
+1x Hasani	  4   ABO for				Akunanse:4
+
+Library (90 cards)
+Master (14; 7 trifle)
+1x Abombwe
+1x Jungle Hunting Ground
+1x Mapatano Utando
+1x Mbare Market, Harare
+1x Powerbase: Luanda
+1x Rack, The
+1x Rötschreck
+1x Smiling Jack, The Anarch
+4x Vessel
+2x Villein
+
+Action (8)
+5x Deep Song
+2x Well-Marked
+1x Wise Spider
+
+Equipment (1)
+1x Kduva's Mask
+
+Retainer (13)
+2x Duma Rafiki
+2x Elephant Guardian
+1x Mr. Winthrop
+2x Owl Companion
+6x Raven Spy
+
+Action Modifier (3)
+3x Freak Drive
+
+Action Modifier/Reaction (1)
+1x Akunanse Kholo
+
+Reaction (16)
+6x Cats' Guidance
+2x On the Qui Vive
+5x Predator's Communion
+3x Sense the Savage Way
+
+Combat (34)
+2x Devil-Channel: Back
+4x Devil-Channel: Hands
+6x Drawing Out the Beast
+5x Invoking the Beast
+6x Pack Alpha
+2x Skin of Steel
+3x Soak
+2x Superior Mettle
+4x Taste of Vitae

@@ -1,0 +1,82 @@
+Beware Of Light
+Bochum, Germany
+October 26th 2019
+2R+F
+20 players
+Jeroen van Oort
+https://www.vekn.net/event-calendar/event/9307
+
+-- 1GW4.5 + 3VP in final
+
+Deck Name: Anson’s beautifull Tongue
+
+Here is my Aching Beauty deck.
+
+The below deck is an adaptation a deck from Armen Khachikyan who won the
+Russian EC of 2016 with it. He has an intresting angle for playing aching
+beauty so I wanted to try it. Look it up on www.vekn.fr/decks/twd.htm
+
+I decided to use group 1/2 instead of 3/4. I think it is better if you don't
+use OBF. Also Ashur fits so well in this kind of deck.
+
+So in advance some changes to the below deck.
+ -5 telephatic misdirection, +5 deflection: Oh boy I was defenceless a lot of the times and I got away with it. Anson without superior auspex is a problem.
+ -1 Flurry of Actions, +1 Powerbase Montreal or Voter Captivation
+ -1 Political Stranglehold, +1 Ancient Influence
+ +1 Aire of Elations: I thought it was already in the deck but I guess I forgot to include it.
+ -1 Masika, +1 Francois Villon: Masika was never on the table, but it feels like Francois is stronger in this type of deck. His ability emptied a dominate vampire and caused an oust.
+
+Crypt (12 cards, min=32, max=44, avg=9.67)
+------------------------------------------
+4x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Masika	   10  AUS CEL PRE		primogen	Toreador:1
+
+Library (87 cards)
+Master (33; 8 trifle)
+5x Aching Beauty
+1x Art Museum
+12x Ashur Tablets
+1x Auspex
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+2x Life in the City
+1x Parthenon, The
+5x Villein
+1x Wider View
+1x Zillah's Valley
+
+Action (9)
+1x Dark Mirror of the Mind
+8x Flurry of Action
+
+Political Action (7)
+1x Anarchist Uprising
+1x Banishment
+1x Conservative Agitation
+1x Kine Resources Contested
+1x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (15)
+7x Change of Target
+8x Crocodile's Tongue
+
+Reaction (11)
+1x My Enemy's Enemy
+5x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (11)
+4x Catatonic Fear
+3x Majesty
+3x Staredown
+1x Target Vitals
+
+Event (1)
+1x Scourge of the Enochians

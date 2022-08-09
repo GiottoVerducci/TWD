@@ -1,0 +1,68 @@
+Powerbase: Montreal
+Montreal, Quebec
+April 20th 2002
+34 players
+Martin Laganière
+
+Deck Name: Avantage Numérique
+
+Description: The goal is to have a horde of minions that bleed as
+much as possible. Use the Enchant Kindred to get out free vampires
+and generate pool if you need it .
+
+Crypt (14 cards, min=4, max=13, avg=2.21)
+-----------------------------------------
+2x Gideon Fontaine			3   PRE		Ventrue:1
+2x Delilah Easton			2   pre		Toreador:1
+1x Violette Prentiss			4   PRE dom	Ventrue:1
+1x Itzahk Levine			3   cel pre	Ventrue:2
+1x Roland Loussarian			3   for pre	Ventrue:1
+1x Uma Hatch				3   cel pre	Brujah:1
+1x Frederick the Weak			2   pre		Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez	2   pre		Brujah:2
+1x Angela Decker			1   pre		Pander:2
+1x Antoinette DuChamp			1   cel pre	Caitiff:2
+1x Igo the Hungry			1   pre pro	Caitiff:1
+1x Smudge the Ignored			1   -none-	Caitiff:1
+
+Library (90 cards)
+Master (24)
+3x Anarch Revolt
+1x Archon Investigation
+1x Blood Doll
+5x Effective Management
+2x Hostile Takeover
+1x Inbase Discotek, Frankfurt
+1x Information Highway
+1x Parthenon, The
+1x Powerbase: Montreal
+4x Presence
+1x Rumor Mill, Tabloid Newspaper, The
+2x Tribute to the Master
+1x Visit from the Capuchin
+
+Action (25)
+16x Enchant Kindred
+1x Entrancement
+6x Legal Manipulations
+1x Mind Numb
+1x Social Charm
+
+Retainer (5)
+1x J. S. Simmons, Esq.
+3x Marijava Ghoul
+1x Tasha Morgan
+
+Action Modifier (4)
+4x Aire of Elation
+
+Reaction (8)
+1x Dread Gaze
+1x Elder Intervention
+2x Pack Tactics
+4x Wake with Evening's Freshness
+
+Combat (24)
+6x Catatonic Fear
+13x Majesty
+5x Staredown

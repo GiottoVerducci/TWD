@@ -1,0 +1,71 @@
+Tracon MQ
+Tampere, Finland
+July 3rd 2010
+15 players
+Otso Saariluoma
+
+Deck Name: DnD (Derange & Dementia)
+
+The classic combo with some new cards. Enkil Cog makes targeting the
+right vampires easier. Bring out Unmada first, Cybele second and Lutz
+third, if able. If all else fails, just bleed for three.
+
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+4x Cybele		 10  ANI DAI OBF PRE SER THA			Baali:4
+4x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
+
+Library (75 cards)
+Master (38; 8 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Golconda: Inner Peace
+2x Heidelberg Castle, Germany
+2x Information Highway
+4x Malkavian Dementia
+1x Metro Underground
+1x Monastery of Shadows
+3x Parthenon, The
+1x Pentex(TM) Subversion
+6x Villein
+1x Wash
+1x Wider View
+2x Zillah's Valley
+
+Action (8)
+7x Derange
+1x Entrancement
+
+Political Action (4)
+1x Banishment
+1x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (12)
+1x Cloak the Gathering
+1x Elder Impersonation
+2x Enkil Cog
+2x Faceless Night
+2x Forgotten Labyrinth
+1x Into Thin Air
+2x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (5)
+2x Eyes of Argus
+3x Telepathic Misdirection
+
+Combat (3)
+3x No Trace
+
+Event (3)
+2x Anthelios, The Red Star
+1x Scourge of the Enochians

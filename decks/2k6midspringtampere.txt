@@ -1,0 +1,53 @@
+Midspring
+Tampere, Finland
+May 27th 2006
+3R+F
+18 players
+Pauli Kiova
+
+Deck Name: Sheldon is the Lord!
+
+Crypt (12 cards, min=28, max=36, avg=8.08)
+------------------------------------------
+5x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+3x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+3x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Chester DuBois		7   ANI POT for obf	 primogen  Nosferatu:1
+
+Library (90 cards)
+Master (16)
+2x Archon Investigation
+1x Barrens, The
+5x Blood Doll
+1x Direct Intervention
+2x Haven Uncovered
+2x Perfectionist
+1x Slum Hunting Ground
+1x Storm Sewers
+1x Sudden Reversal
+
+Action (6)
+1x Army of Rats
+4x Fifth Tradition: Hospitality
+1x Judgment: Camarilla Segregation
+
+Political Action (7)
+1x Ancilla Empowerment
+4x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier (3)
+3x Freak Drive
+
+Reaction (18)
+7x Second Tradition: Domain
+6x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (40)
+4x Carrion Crows
+7x Drawing Out the Beast
+9x Immortal Grapple
+8x Skin of Steel
+6x Torn Signpost
+6x Undead Strength

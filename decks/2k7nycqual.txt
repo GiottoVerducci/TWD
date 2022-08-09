@@ -1,0 +1,81 @@
+NAC Qualifier
+New York City, New York
+May 26th 2007
+3R+F
+28 players
+Robyn Tatu
+
+Imitation Tatu
+Final round was over in 1 hour and 15 minutes (4VP).
+
+Crypt (12 cards, min=23, max=36, avg=7.33)
+------------------------------------------
+3x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+1x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
+1x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+1x Gilbert Duane		7   AUS DOM OBF		 prince	   Malkavian:1
+1x Kendrick			7   ANI POT aus obf	 priscus   Nosferatu antitribu:2
+1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Rake				6   PRE aus cel pot	 prince	   Brujah:1
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+1x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
+
+Library (90 cards)
+Master (13)
+1x Archon Investigation
+5x Blood Doll
+2x Direct Intervention
+1x Emergency Preparations
+1x Fame
+1x Giant's Blood
+1x Legendary Vampire
+1x Major Boon
+
+Action (7)
+1x Form of Corruption
+2x Fourth Tradition: The Accounting
+2x Judgment: Camarilla Segregation
+1x Sixth Tradition: Destruction
+1x Third Tradition: Progeny
+
+Equipment (4)
+1x .44 Magnum
+1x Blade of Enoch
+1x Bowl of Convergence
+1x Changeling Skin Mask
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Archon
+1x Consanguineous Boon
+1x Disputed Territory
+1x First Tradition: The Masquerade
+1x Kindred Segregation
+8x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier (20)
+1x Cloak the Gathering
+4x Elder Impersonation
+5x Faceless Night
+4x Forgotten Labyrinth
+1x Telepathic Vote Counting
+5x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (13)
+2x Confusion of the Eye
+2x On the Qui Vive
+7x Second Tradition: Domain
+2x Telepathic Misdirection
+
+Combat (13)
+2x Disguised Weapon
+1x Gemini's Mirror
+4x Pushing the Limit
+2x Skin of Steel
+4x Thrown Gate

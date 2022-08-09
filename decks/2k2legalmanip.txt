@@ -1,0 +1,42 @@
+Legal Manipulations
+Washington, D.C.
+October 5th 2002
+13 players
+Colin Riggs
+
+Deck Name: Guns and Butter
+
+Crypt (12 cards, min=4, max=16, avg=2.5)
+----------------------------------------
+2x Parmenides		4   CEL qui	Assamite:2
+2x Victor Tolliver	4   CEL pot	Brujah antitribu:2
+2x Sarah Brando		3   CEL		Brujah antitribu:2
+2x Antoinette DuChamp	1   cel pre	Caitiff:2
+2x Nik			1   cel		Caitiff:1
+1x Carter		2   cel		Toreador antitribu:2
+1x Kanya Akhtar		2   cel		Assamite:2
+
+Library (87 cards)
+Master (13)
+3x Blood Doll
+3x Celerity
+2x Dreams of the Sphinx
+3x Fame
+2x Haven Uncovered
+
+Action (23)
+1x Arson
+14x Bum's Rush
+8x Computer Hacking
+
+Equipment (8)
+8x .44 Magnum
+
+Combat (43)
+2x Blur
+8x Concealed Weapon
+2x Nimble Feet
+13x Psyche!
+8x Pursuit
+5x Side Strike
+5x Taste of Vitae

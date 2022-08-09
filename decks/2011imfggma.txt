@@ -1,0 +1,65 @@
+Inflammable Means Flammable?
+Good Games, Melbourne, Australia
+May 29th 2011
+2R+F
+12 players
+Simon Reed
+
+-- 2VP in final
+
+Deck Name: Nos Princes
+
+Description: My take on the classic nos princes.
+
+Crypt (12 cards, min=14, max=36, avg=6.33)
+------------------------------------------
+4x Casino Reeds		9   ANI OBF POT cel dem	 prince	   Nosferatu:3
+2x Nikolaus Vermeulen	7   POT ani for obf	 prince	   Nosferatu:2
+2x Calebros, The Martyr	5   ANI obf pot		 prince	   Nosferatu:2
+1x Jara Drory		7   ANI OBF aus pot	 primogen  Nosferatu:3
+1x Laurent de Valois	4   ani dom obf		 	   Nosferatu:2
+1x Darva Felispa	3   ani pot		 	   Nosferatu:3
+1x Krid			2   obf			 	   Nosferatu:3
+
+Library (90 cards)
+Master (16; 5 trifle)
+3x Animalism
+2x Blood Doll
+2x Fame
+2x Labyrinth, The
+1x Sudden Reversal
+4x Vessel
+1x Warsaw Station
+1x Wider View
+
+Action (18)
+5x Blood Hunt
+5x Fifth Tradition: Hospitality
+2x Fourth Tradition: The Accounting
+6x Third Tradition: Progeny
+
+Equipment (2)
+2x Camera Phone
+
+Political Action (13)
+3x Anathema
+4x Consanguineous Boon
+2x Nosferatu Justicar
+4x Parity Shift
+
+Action Modifier (12)
+2x Elder Impersonation
+2x Forgotten Labyrinth
+4x Lost in Crowds
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (17)
+9x Aid from Bats
+8x Carrion Crows

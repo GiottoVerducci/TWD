@@ -1,0 +1,47 @@
+Silence of Death
+Miskolc, Hungary
+December 4th 2010
+3R+F
+10 players
+Szabolcs Toth
+
+-- 4VP in final
+
+Deck Name: KungFu
+
+Crypt (12 cards, min=20, max=32, avg=6.67)
+------------------------------------------
+4x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	  bishop  Toreador antitribu:2
+2x Richter, The Templar of Du Mont	 7   CEL POT for pre	  	  Brujah antitribu:2
+2x Theo Bell (ADV)			 7   CEL POT PRE aus dom  	  Brujah:2
+2x Bianca				 6   CEL pot pre	  	  Brujah:1
+2x Parmenides				 4   CEL qui		  	  Assamite:2
+
+Library (90 cards)
+Master (14; 3 trifle)
+1x Art of Pain, The
+2x Blood Doll
+1x Depravity
+2x Dreams of the Sphinx
+3x Fame
+1x Giant's Blood
+1x Tension in the Ranks
+3x Vessel
+
+Action (24)
+1x Arson
+14x Bum's Rush
+9x Enchant Kindred
+
+Action Modifier/Combat (5)
+5x Resist Earth's Grasp
+
+Combat (47)
+8x Blur
+1x Fast Hands
+6x Glancing Blow
+8x Psyche!
+5x Pulled Fangs
+7x Pursuit
+6x Sideslip
+6x Taste of Vitae

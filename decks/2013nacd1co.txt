@@ -1,0 +1,71 @@
+NAC 2013 Day 1
+Columbus, Ohio
+June 14th 2013
+3R+F
+43 players
+Bill Troxel
+
+Deck Name: Meshenka 101
+
+3GW (in 3R+F)
+Description: This is a "training" deck that I made for a new player
+that sometimes played with my group.
+
+Crypt (12 cards, min=14, max=32, avg=6.08)
+------------------------------------------
+3x Meshenka			    8	ANI AUS VIC		priscus	 Tzimisce:2
+2x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	 Tzimisce:2
+2x Corine Marcón		    6	AUS VIC ani			 Tzimisce:2
+1x Kazimir Savostin		    7	AUS VIC ani pot			 Tzimisce:3
+1x Caliban			    6	ANI AUS VIC			 Tzimisce:2
+1x Lolita Houston		    4	VIC aus				 Tzimisce:2
+1x Christine Boscacci		    2	dom vic				 Pander:2
+1x Horatio			    2	vic				 Tzimisce:2
+
+Library (90 cards)
+Master (12)
+6x Blood Doll
+1x Giant's Blood
+1x Path of Metamorphosis, The
+2x Perfectionist
+2x Rötschreck
+
+Action (6)
+2x Deep Song
+2x Eternal Vigilance
+2x Pulse of the Canaille
+
+Equipment (4)
+1x Bowl of Convergence
+1x Femur of Toomler
+2x Living Manse
+
+Retainer (3)
+1x Mr. Winthrop
+2x Revenant
+
+Action Modifier (10)
+9x Changeling
+1x Mind of the Wilds
+
+Reaction (26)
+2x Eagle's Sight
+5x Enhanced Senses
+5x Eyes of Argus
+2x Forced Awakening
+2x My Enemy's Enemy
+4x On the Qui Vive
+2x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (29)
+1x Blood of Acid
+4x Breath of the Dragon
+7x Chiropteran Marauder
+1x Drawing Out the Beast
+4x Horrid Form
+6x Inner Essence
+1x Starvation of Marena
+1x Target Head
+2x Target Vitals
+2x Taste of Vitae

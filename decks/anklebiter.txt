@@ -1,0 +1,56 @@
+Tournament
+Portsmouth, England
+June 6th 1999
+13 players
+Michael McClellan
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/aNVQxNRXBSo
+
+And talking of students bettering teachers, here is Michael's winning deck:
+
+Crypt (12 cards, min=11, max=29, avg=5.33)
+------------------------------------------
+2x Gilbert Duane	7   AUS DOM OBF		 prince	   Malkavian:1
+2x Mariel, Lady Thunder	7   DOM OBF aus tha	 	   Malkavian:1
+2x Ozmo			6   AUS dom obf		 	   Malkavian:1
+2x Normal		2   obf			 	   Malkavian:1
+1x Sylvester Simms	8   AUS OBF ani dom pre	 primogen  Malkavian:1
+1x Zebulon		5   OBF aus dom pro	 	   Malkavian:1
+1x Roland Bishop	4   aus dom obf		 	   Malkavian:1
+1x Dollface		3   aus obf		 	   Malkavian:1
+
+Library (72 cards)
+Master (12)
+3x Ascendance
+1x Asylum Hunting Ground
+2x Dominate
+1x Elysium: The Arboretum
+1x Misdirection
+3x Obfuscate
+1x Short-Term Investment
+
+Action (7)
+6x Govern the Unaligned
+1x Scouting Mission
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (26)
+3x Bonding
+2x Cloak the Gathering
+5x Conditioning
+5x Faceless Night
+5x Lost in Crowds
+6x Threats
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (7)
+3x Deflection
+2x Obedience
+2x Wake with Evening's Freshness
+
+Combat (13)
+13x Dodge

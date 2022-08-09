@@ -1,0 +1,68 @@
+VAMP
+São Paulo, Brazil
+December 21st 2013
+11 players
+Roberto Mautone Junior
+
+-- 4VP in final
+
+Deck Name: Carthage is the New Rome!
+
+Deck Description: Vote / Rush Deck that uses the pool of other players to buy weapons,
+and rush all vampires. After that, bleed with New Carthage. Persistent block always
+get unaware predators with no combat ends, giving chance to table dominance.
+Long Live to the Brujah!
+
+Crypt (12 cards, min=18, max=37, avg=7.08)
+------------------------------------------
+3x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+2x Tara		   6   POT PRE cel	    prince	Brujah:5
+1x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
+1x Garret	   3   pot pre		    		Brujah:4
+1x Lynn Thompson   3   cel pot		    		Brujah:5
+
+Library (90 cards)
+Master (18; 8 trifle)
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+3x New Carthage
+1x Papillon
+3x Vessel
+4x Villein
+1x Warzone Hunting Ground
+1x Wash
+
+Action (2)
+2x Heroic Might
+
+Equipment (3)
+3x Assault Rifle
+
+Political Action (12)
+4x Alastor
+2x Archon
+6x Parity Shift
+
+Action Modifier (5)
+5x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (37)
+4x Blur
+4x Disarm
+4x Immortal Grapple
+2x Majesty
+4x Psyche!
+6x Pursuit
+4x Sideslip
+4x Taste of Vitae
+5x Torn Signpost

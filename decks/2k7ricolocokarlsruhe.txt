@@ -1,0 +1,74 @@
+Rico Loco MQ
+Karlsruhe, Germany
+June 10th 2007
+13 players
+Christoph Bertolo
+
+Deck Name: Synesios goes Forward
+
+Description: Synesios MultiAct / Pre + Obf Vote and Bleed
+
+Crypt (12 cards, min=14, max=34, avg=6.33)
+------------------------------------------
+4x Synesios				8   POT PRE TEM obf ser		2 votes	 True Brujah:2
+1x Nehsi				10  OBF PRE PRO SER aus for	2 votes	 Follower of Set:2
+1x Amisa				8   OBF SER pre pro		2 votes	 Follower of Set:2
+1x Kephamos, High Priest of Marrakech	8   SER dom obf pre		2 votes	 Follower of Set:2
+1x Hadrian Garrick			4   obf pre				 Follower of Set:2
+1x Nepata				4   obf pre ser				 Follower of Set:2
+1x Tock					4   obf pot pre				 Nosferatu antitribu:3
+1x Celine Chevalier			3   obf ser				 Follower of Set:2
+1x Lena Rowe				3   aus obf pre				 Pander:2
+
+Library (90 cards)
+Master (17)
+2x Archon Investigation
+2x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Ferraille
+1x Legendary Vampire
+4x Minion Tap
+2x Obfuscate
+1x Opium Den
+1x Perfectionist
+1x Tabriz Assembly
+1x Temple Hunting Ground
+
+Action (15)
+3x Clotho's Gift
+3x Entrancement
+1x Form of Corruption
+1x Heart of the City
+3x Intimidation
+2x Legal Manipulations
+2x Temptation
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (15)
+3x Banishment
+2x Conservative Agitation
+1x Disputed Territory
+1x Free States Rant
+8x Kine Resources Contested
+
+Action Modifier (33)
+1x Awe
+4x Bewitching Oration
+8x Domain of Evernight
+2x Faceless Night
+3x Forgotten Labyrinth
+4x Iron Glare
+3x Lost in Crowds
+4x Spying Mission
+4x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Hall of Hades' Court
+
+Combat (6)
+6x Majesty

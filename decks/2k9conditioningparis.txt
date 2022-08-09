@@ -1,0 +1,51 @@
+Conditioning
+Paris, France
+December 12th 2009
+3R+F
+26 players
+Orian Gissler
+
+Deck Name: Collier of Love
+
+Crypt (12 cards, min=14, max=23, avg=4.67)
+------------------------------------------
+3x Edward Vignes		   6   DOM PRE for	Ventrue:3
+1x Boss Callihan		   5   PRE dom for pro	Ventrue:3
+1x Catherine du Bois		   5   DOM for obf pre	Ventrue:3
+1x Ilyana Ravidovich		   5   aus dom for pre	Ventrue:3
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	Ventrue:2
+1x Gloria Giovanni		   4   DOM nec		Giovanni:2
+1x Ingrid Russo			   4   DOM for		Ventrue antitribu:2
+1x Peter Blaine			   4   aus dom for	Ventrue antitribu:2
+1x Diana Vick			   3   dom pre		Ventrue:3
+1x Lana Butcher			   3   dom for		Ventrue:3
+
+Library (72 cards)
+Master (11; 1 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+1x Giant's Blood
+2x Jake Washington
+2x Misdirection
+3x Pentex(TM) Subversion
+
+Action (18)
+2x Entrancement
+14x Govern the Unaligned
+2x Mind Numb
+
+Action Modifier (20)
+4x Bonding
+7x Conditioning
+4x Daring the Dawn
+2x Foreshadowing Destruction
+3x Seduction
+
+Action Modifier/Combat (5)
+5x Force of Personality
+
+Reaction (18)
+10x Deflection
+4x On the Qui Vive
+2x Redirection
+2x Wake with Evening's Freshness

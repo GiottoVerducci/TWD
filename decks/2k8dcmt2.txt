@@ -1,0 +1,45 @@
+DragonCon - Minion Tap
+DragonCon 2008, Atlanta, Georgia
+August 30th 2008
+2R+F
+10 players
+David Shoup
+
+Crypt (12 cards, min=21, max=32, avg=6.92)
+------------------------------------------
+6x Howler	    8	ANI PRE SPI obf		Ahrimane:2
+2x Siamese, The	    7	PRE SPI ani pro		Ahrimane:2
+2x Cynthia Ingold   6	SPI ani for pre		Ahrimane:2
+1x Nettie Hale	    5	ani cel pre pro spi	Ahrimane:2
+1x Juanita Santiago 4	ani pre spi		Ahrimane:2
+
+Library (90 cards)
+Master (15; 5 trifle)
+2x Hungry Coyote, The
+3x Perfectionist
+1x Powerbase: Chicago
+1x Powerbase: Mexico City
+1x Powerbase: Montreal
+2x Rack, The
+5x Vessel
+
+Action (10)
+3x Army of Rats
+2x Entrancement
+4x Legal Manipulations
+1x Shepherd's Innocence
+
+Retainer (12)
+7x Murder of Crows
+5x Raven Spy
+
+Action Modifier/Combat (13)
+13x Swiftness of the Stag
+
+Reaction (16)
+16x Speak with Spirits
+
+Combat (24)
+10x Aid from Bats
+7x Canine Horde
+7x Pack Alpha

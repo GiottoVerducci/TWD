@@ -1,0 +1,65 @@
+Just Seizure
+Durham, North Carolina
+May 4th 2003
+13 players
+Jason Bell
+
+Deck Name: The Littlest Giant
+
+Description: Gangrel Bleed with FoM and Earth Control
+
+Crypt (14 cards, min=13, max=27, avg=5)
+---------------------------------------
+2x Camille Devereux	5   FOR PRO ani			Gangrel:1
+2x Raven		5   FOR PRO ani			Gangrel:1
+3x Iliana		7   DOM FOR PRO tha		Gangrel:2
+3x Chandler Hungerford	3   PRO				Gangrel:2
+2x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
+2x Daliyah		4   PRO obf			Nosferatu:2
+
+Library (89 cards)
+Master (32; 1 trifle)
+1x Archon Investigation
+1x Backways
+5x Blood Doll
+1x Coven, The
+3x Direct Intervention
+5x Dominate
+3x Dreams of the Sphinx
+2x Ecoterrorists
+1x Elder Library
+1x Giant's Blood
+3x Information Highway
+1x Powerbase: Montreal
+1x Rack, The
+2x Rötschreck
+2x Sudden Reversal
+
+Action (16)
+4x Computer Hacking
+2x Dominate Kine
+1x Far Mastery
+7x Govern the Unaligned
+2x Graverobbing
+
+Ally (1)
+1x Renegade Garou
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (17)
+3x Conditioning
+2x Daring the Dawn
+8x Earth Control
+2x Foreshadowing Destruction
+2x Kiss of Ra, The
+
+Reaction (8)
+4x Deflection
+1x Delaying Tactics
+3x Wake with Evening's Freshness
+
+Combat (14)
+4x Claws of the Dead
+10x Form of Mist

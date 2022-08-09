@@ -1,0 +1,64 @@
+Troph: Discipline
+São Paulo, Brazil
+December 18th 2016
+2R+F
+Daniel Cardoso Abreu
+https://www.vekn.net/event-calendar/event/8532
+
+-- 4VP in final
+
+Deck Name: Madrugador
+
+Crypt (12 cards, min=42, max=44, avg=10.83)
+-------------------------------------------
+4x Saulot, The Wanderer	   11  AUS FOR OBE THA VAL dai	Salubri:4
+3x Capuchin, The	   11  AUS DOM FOR NEC THA THN	Harbinger of Skulls:5
+2x Baba Yaga, The Iron Hag 11  ANI AUS FOR OBF POT THA	Nosferatu:5
+2x Dracon, The		   11  ANI AUS POT THA VIC	Tzimisce:5
+1x Gerald Windham	   9   AUS DOM FOR THA		Tremere:5
+
+Library (89 cards)
+Master (19; 9 trifle)
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Mob Connections
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Sight Beyond Sight
+2x Smiling Jack, The Anarch
+6x Villein
+1x Wash
+2x Wider View
+
+Action (7)
+1x Aranthebes, The Immortal
+1x Lord of Serenity
+5x Magic of the Smith
+
+Equipment (7)
+1x AK-47
+1x Banshee Ironwail
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Palatial Estate
+
+Action Modifier (2)
+1x Kiss of Ra, The
+1x Repulsion
+
+Reaction (33)
+4x Eagle's Sight
+3x Enhanced Senses
+6x Eyes of Argus
+6x Forced Awakening
+4x My Enemy's Enemy
+4x On the Qui Vive
+6x Telepathic Misdirection
+
+Combat (21)
+6x Hidden Strength
+7x Rolling with the Punches
+8x Theft of Vitae

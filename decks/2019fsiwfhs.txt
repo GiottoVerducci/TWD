@@ -1,0 +1,77 @@
+Fee Stake: International Waters 1
+Ferry between Stockholm and Helsinki, Sweden
+September 8th 2019
+2R+F
+12 players
+Otso Saariluoma
+https://www.vekn.net/event-calendar/event/9377
+
+-- 1GW4 + 5VP in final
+
+Deck Name: Unnamed Accepts Friend Requests
+Created by: Noora Hirvonen
+
+Crypt (12 cards, min=13, max=40, avg=6.83)
+------------------------------------------
+5x unnamed, The		   10  CEL DAI OBF PRE PRO  	    Baali:6
+3x Arishat		   6   DAI OBF PRE	    1 vote  Baali:6
+2x Horde, The		   3   dai obf pre	    	    Baali:6
+1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  	    Baali:6
+1x Anarch Convert	   1   -none-		    	    Caitiff:ANY
+
+Library (65 cards)
+Master (11; 2 trifle)
+1x Archon Investigation
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Secure Haven
+1x Tend the Flock
+1x Vessel
+1x Wider View
+
+Action (11)
+1x Blithe Acceptance
+1x Contagion
+4x Flurry of Action
+2x Legal Manipulations
+2x Public Trust
+1x Unleash Hell's Fury
+
+Ally (5)
+3x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (3)
+1x D'habi Revenant
+2x Homunculus
+
+Action Modifier (24)
+1x Cloak the Gathering
+2x Elder Impersonation
+3x Enkil Cog
+2x Faceless Night
+3x I am Legion
+7x Instantaneous Transformation
+4x Lost in Crowds
+1x Psychomachia
+1x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (6)
+6x Sense the Sin
+
+Combat (2)
+2x Form of Mist
+
+Event (1)
+1x Narrow Minds

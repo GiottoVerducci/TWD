@@ -1,0 +1,58 @@
+Crusade: Fernán Núñez
+Tolaria, Córdoba, Spain
+May 13th 2007
+18 players
+Daniel Carretero Ferres
+
+Deck Name: Cloaka Company
+
+Crypt (12 cards, min=14, max=34, avg=6.33)
+------------------------------------------
+2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+1x Agrippina			4   OBF pot		 	   Nosferatu:1
+1x Duck				3   obf pot		 	   Nosferatu:1
+1x Dimple			2   obf			 	   Nosferatu:1
+
+Library (90 cards)
+Master (18)
+5x Blood Doll
+1x Dreams of the Sphinx
+6x Grooming the Protégé
+1x Labyrinth, The
+4x Major Boon
+1x Temptation of Greater Power
+
+Action (12)
+6x Fourth Tradition: The Accounting
+6x Third Tradition: Progeny
+
+Political Action (20)
+6x Consanguineous Boon
+1x Disputed Territory
+2x Domain Challenge
+9x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier (21)
+4x Cloak the Gathering
+2x Cryptic Rider
+3x Elder Impersonation
+3x Faceless Night
+4x Lost in Crowds
+3x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (7)
+7x Second Tradition: Domain
+
+Combat (9)
+5x Pushing the Limit
+2x Sacrament of Carnage
+2x Taste of Vitae

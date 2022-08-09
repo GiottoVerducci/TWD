@@ -1,0 +1,81 @@
+Emergency Preparations
+Paris, France
+September 15th 2012
+3R+F
+24 players
+Pascal Bertrand
+
+Deck Name: True Brujah Wall
+
+The deck is fairly resilient. It's some kind of Una mono-vampire
+machine, with intercept provided by the Anima Gatherings (so, yes,
+it IS a True Brujah Wall deck). Enkil Cog is pretty much a GW-insurance.
+During the rounds, a few points were important:
+- Powerbase Zurich would be an extremely nice addition.
+- Summon History could be added (up to 3 copies)
+- Perfect Paragon isn't as good as Tangle Atropo's Hand.
+
+Crypt (12 cards, min=12, max=40, avg=6)
+---------------------------------------
+5x Shalmath	10  POT PRE TEM	 True Brujah:6
+2x Kalila	3   aus obf	 Malkavian:5
+2x Veejay Vinod	3   AUS		 Nagaraja:6
+1x Tyler McGill	4   AUS pre	 Toreador:5
+1x Andre LeRoux	3   aus		 Toreador:5
+1x Gwen Brand	3   aus chi	 Ravnos:5
+
+Library (71 cards)
+Master (16; 6 trifle)
+1x Direct Intervention
+1x Guardian Angel
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Sudden Reversal
+1x Tabriz Assembly
+5x Villein
+1x Wash
+
+Action (9)
+6x Anima Gathering
+1x Aranthebes, The Immortal
+1x Hourglass of the Mind
+1x Path of the Scorched Heart, The
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (7)
+1x .44 Magnum
+1x Flak Jacket
+1x Kevlar Vest
+1x Light Intensifying Goggles
+1x Sniper Rifle
+1x Sport Bike
+1x Talbot's Chainsaw
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (15)
+5x Domain of Evernight
+2x Enkil Cog
+1x Momentary Delay
+2x Perfect Paragon
+5x Pocket Out of Time
+
+Reaction (6)
+1x Lost in Translation
+2x On the Qui Vive
+1x Rewind Time
+2x Telepathic Misdirection
+
+Combat (16)
+1x Majesty
+6x Outside the Hourglass
+1x Staredown
+4x Target Vitals
+4x Taste of Vitae

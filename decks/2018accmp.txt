@@ -1,0 +1,73 @@
+ACC 2018
+Manila, Philippines
+October 20th 2018
+3R+F
+17 players
+Lucinio de Guzman Jr.
+https://www.vekn.net/event-calendar/event/9050
+
+-- 2GW3 + 4VP in final
+
+Deck Name: Horsemen of Gehenna
+
+Description: Gehenna Imbued Deck
+
+Crypt (12 cards, min=13, max=20, avg=4.25)
+------------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+3x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+3x François "Warden" Loehr	3   def jud	 Judge:4
+
+Library (66 cards)
+Master (14)
+5x Angel of Berlin
+1x Archon Investigation
+3x Ashur Tablets
+1x Church of Vindicated Faith, The
+1x Pentex(TM) Subversion
+1x Rose Foundation, The
+1x Tension in the Ranks
+1x Vampiric Disease
+
+Conviction (12)
+4x React with Conviction
+4x Second Sight
+4x Strike with Conviction
+
+Action (6)
+6x Lock
+
+Ally (1)
+1x Vagabond Mystic
+
+Equipment (8)
+1x .44 Magnum
+2x Desert Eagle
+2x Laptop Computer
+2x Leather Jacket
+1x Sniper Rifle
+
+Power (10)
+2x Champion
+2x Discern
+3x Rejuvenate
+3x Vigilance
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (4)
+4x Suppressing Fire
+
+Event (9)
+1x Dr. Marisa Fletcher, CDC
+1x Dragonbound
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Thirst
+1x Torpid Blood
+1x Unmasking, The
+1x Wormwood

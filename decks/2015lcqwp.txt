@@ -9,7 +9,7 @@ tournament details and the decklist are correct (as I already disassembled the d
 there's no list other than the one I gave to judges)?
 
 The deck itself has the usual suspects with AUS PRE. It is inspired by a similiar deck popularized by
-Martin Weinmeyer's EC win back in 2009 - although with higher caps, more auspex and lacking fortitude and
+Martin Weinmeyer's EC win back in 2009 - although with higher caps, more Auspex and lacking Fortitude and
 Daring the Dawns. This version has problems with dedicated blockers and stealth vote, but otherwise has
 proven to be quite resilient with lots of reactions and combat ends, which gives the flexibility to alter
 your tempo and possibly wait for an opportunity to present itself.

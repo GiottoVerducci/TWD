@@ -11,7 +11,7 @@ https://www.vekn.net/event-calendar/event/8336
 Deck Name: Captain Spaulding strikes again!
 
 Description: Try to maximize handsize, so all needed cards will be on hand for the best profit.
-Could have more deep songs instead of governs, almost all of them were used for oust
+Could have more Deep Songs instead of Governs, almost all of them were used for oust
 instead of bloat/crypt acceleration. Combat tech was sharp.
 
 Crypt (12 cards, min=36 max=42 avg=9.83)

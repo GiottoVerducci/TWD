@@ -5,7 +5,7 @@ May 5th 2012
 11 players
 Sebastian Fredenberg
 
-Deck Name: Cats and Dogs...and Mages
+Deck Name: Cats and Dogs... and Mages
 
 Crypt (19 cards, min=4 max=19 avg=2.11)
 ---------------------------------------

@@ -8,7 +8,7 @@ Rudolf Scholz
 Deck Name: Announce your PRE
 
 Description: PRE tap & bleed with Ashur Tablets/Liquidation
-engine. Inspired by "Kyasid Stealth Bleed" by Michael Holmström.
+engine. Inspired by "Kiasyd Stealth Bleed" by Michael Holmström.
 Dedicated to Nora and Vlada.
 
 would drop 2x Huitzilopochtli for additional 2x Anson

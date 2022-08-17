@@ -5,7 +5,7 @@ June 18th 2006
 29 players
 Marcus Mock
 
-Title: Kyasid toolbox bleed
+Title: Kiasyd toolbox bleed
 Description: The package seemed to be perfect for the day.
 Quincy came in very handy in the final rouns because of the Imbued.
 In retrospect I would leave the library as is. I would tighten the

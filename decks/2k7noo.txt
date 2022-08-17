@@ -4,10 +4,10 @@ January 13th 2007
 15 players
 Dionisio Garcia Weyzig
 
-Deck Name: Weenie obfuscate
+Deck Name: Weenie Obfuscate
 
-Description: Weenie obfuscate speaks for itself. Went from the
-principle that i didn't want to clog so much with obfuscate.
+Description: Weenie Obfuscate speaks for itself. Went from the
+principle that i didn't want to clog so much with Obfuscate.
 
 Crypt (12 cards, min=8 max=20 avg=3.58)
 ---------------------------------------

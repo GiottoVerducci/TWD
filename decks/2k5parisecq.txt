@@ -5,7 +5,7 @@ October 22nd 2005
 50 players
 Lucas Bonroy
 
-Deck Name: Lasombra presence slim fast
+Deck Name: Lasombra Presence slim fast
 
 Crypt (12 cards, min=27 max=39 avg=8.42)
 ----------------------------------------

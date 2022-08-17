@@ -8,7 +8,7 @@ Deck Name: Tribal Trouble
 
 Description: This is a fairly straight forward stealth vote deck using
 the Ishtarri plus a few friends. Ayo Igoli is team captain what with her
-obfuscate, farming* capability and exponential vote gain. Ousting power is
+Obfuscate, farming* capability and exponential vote gain. Ousting power is
 supplied by KRC, farming courtesy of Voter Cap/Minion Tap and a few ‘in case'
 extras thrown in (e.g. The Secret must be Kept for the Imbued factor).
 

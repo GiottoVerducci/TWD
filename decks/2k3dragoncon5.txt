@@ -9,7 +9,7 @@ Deck Name: The Stay-Puft Marshmallow Deck
 Description: Based on Ethan Burrow's prototype, which used Hungry Coyote and
 the Sabbat trifle, except that I didn't have any Hungry Coyotes, so I choose
 the Anarch route. Hesha is the deck's star player, helping you bloat for 2
-or 3 per turn. Greta and Jost Enchant down and handle the bulk of the auspex
+or 3 per turn. Greta and Jost Enchant down and handle the bulk of the Auspex
 defense. Try to give Kyoko the Unlicensed Taxicab if you can so that she can
 hunt for extra blood (via Hospital Food) at +2 stealth. Important: save the
 Direct Interventions for Dramatic Upheaval, Kindred Restructure, and Protect

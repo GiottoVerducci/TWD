@@ -36,7 +36,7 @@ finished both of my ousts in a single turn.
 
 Card flow was decent and I was quite happy with the balance
 between modifiers and combat cards. The deck in itself isn't very
-clever or anything, but 38 dominate cards seems to get the work
+clever or anything, but 38 Dominate cards seems to get the work
 done. */
 
 Crypt (12 cards, min=20 max=31 avg=6.33)
@@ -56,7 +56,7 @@ Crypt (12 cards, min=20 max=31 avg=6.33)
 
 Library (90 cards)
 Master (13; 4 trifle)
-4x Capitalist -- I didn't get this vessel-capitalist thing to work as well as I thought, but I still think the idea is sound
+4x Capitalist -- I didn't get this Vessel-capitalist thing to work as well as I thought, but I still think the idea is sound
 1x Elysian Fields
 1x Grooming the Protégé
 1x Path of Night, The
@@ -77,7 +77,7 @@ Action Modifier (24)
 2x Conditioning
 3x Seduction
 5x Shadow Play
-3x Shroud of Night -- Should definitely be Shroud of Absence. I think I only have one and that wasn't in my obtenebrations cards pile
+3x Shroud of Night -- Should definitely be Shroud of Absence. I think I only have one and that wasn't in my Obtenebration cards pile
 1x Tangle Atropos' Hand -- Didn't use this one, I had to include it because I have just this one copy and I had never played it before
 1x Tenebrous Form
 6x Threats

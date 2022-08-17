@@ -10,7 +10,7 @@ Created by: Carlos Tomás and Ginés Quiñonero
 
 Description: Bring out as many Hermanas as you can, and Angelo.
 Then bloat until you are ready to crush your opponents for the
-win. when an Hermana Hambrienta Menor enters play, she burns
+win. When an Hermana Hambrienta Menor enters play, she burns
 2 blood. On your next turn, you should refill her via Lilith's
 Blessing and give her superior Potence.
 

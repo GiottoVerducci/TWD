@@ -11,8 +11,8 @@ Created by: Adam Esbjörnsson - with amendments by Isak Esbjörnsson Bjärmark
 
 Winner: Ida Olsson Bjärmark
 and Alex Båskman
-Description: 	we make expand then defense it but very hard if my enemy
-make many deflection
+Description: we make expand then defense it but very hard if my enemy
+make many Deflection
 
 Crypt (12 cards, min=16 max=26 avg=5.25)
 ----------------------------------------

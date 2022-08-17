@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9211
 -- 1.5VP in final
 
 Deck Name : Rebekka&Jost Presence
-Description :
 
 Crypt (13 cards, min=14 max=28 avg=5.23)
 ----------------------------------------

@@ -12,7 +12,7 @@ Description: Created by Alex Ek and Erik Torstensson.
 Won the tournament in Gothenburg on the 8 January, 2005. It took 1GW,
 The idea is to lock down the table with your first traditions, then
 pay for your turns and try to get a lower pool than your prey. Then
-parity shift the pool back. If you can't get lower, then just use
+Parity Shift the pool back. If you can't get lower, then just use
 your other damage dealing votes to oust.
 
 Crypt (12 cards, min=19 max=40 avg=7.25)

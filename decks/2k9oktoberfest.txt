@@ -7,7 +7,7 @@ O'Neil Schutte
 
 Deck Name: Murmurs of Conditional Trust
 
-Description: Presence and dominate weenie storm.
+Description: Presence and Dominate weenie storm.
 
 Crypt (23 cards, min=4 max=16 avg=2.09)
 ---------------------------------------

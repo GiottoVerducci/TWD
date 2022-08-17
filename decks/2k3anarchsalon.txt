@@ -6,7 +6,7 @@ Jason Babbitt
 
 Deck Name: KoKo's Hair Salon
 
-Description: Potence rush with a bit of dominate.
+Description: Potence rush with a bit of Dominate.
 
 Crypt (12 cards, min=7 max=21 avg=3.5)
 --------------------------------------

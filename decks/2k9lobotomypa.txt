@@ -7,7 +7,7 @@ Jessie Ellison
 
 -- 3VP in final
 
-Deck Name: The Baobhan-sith, Kyasid bleed deck
+Deck Name: The Baobhan-sith, Kiasyd bleed deck
 
 Description: The idea behind this deck is of course primarily stealth
 bleed, with a secondary function of trying to choose one's battles.

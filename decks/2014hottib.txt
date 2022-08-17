@@ -11,7 +11,7 @@ https://www.vekn.net/event-calendar/event/7889
 Deck Name: Mendigos
 Created by: Luana Ferreira e Douglas Nascimento
 
-Description: Mono potence deck
+Description: Mono Potence deck
 
 Crypt (12 cards, min=7 max=16 avg=2.92)
 ---------------------------------------

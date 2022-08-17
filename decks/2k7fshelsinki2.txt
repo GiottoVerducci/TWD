@@ -9,7 +9,7 @@ Antti Horelli
 
 Deck Name: The Big Fist
 
-Description: mono-potence
+Description: mono-Potence
 
 Crypt (12 cards, min=8 max=19 avg=3.58)
 ---------------------------------------

@@ -10,7 +10,6 @@ https://www.vekn.net/event-calendar/event/9674
 
 Deck Name: Tremere Toolbox
 Author: Moisés Ferrer Gallegos
-Description:
 
 Crypt (12 cards, min=16 max=29 avg=5.67)
 ----------------------------------------

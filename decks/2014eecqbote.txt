@@ -15,7 +15,7 @@ Description: Undele goes wild and keeps you with the right hand.
 
 Lutz key to final
 Archon key to previous rounds to get 1.5r
-Elder impersonation swapped out for a free obf card would be nice
+Elder Impersonation swapped out for a free obf card would be nice
 
 Crypt (12 cards, min=32 max=41 avg=9.17)
 ----------------------------------------

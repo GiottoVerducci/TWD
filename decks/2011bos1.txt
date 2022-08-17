@@ -8,7 +8,7 @@ Arkadiusz Modzelewski
 Deck Name: Tap and bleed
 
 Based on Randal Rudstam's "Singing in the ground v2.0" deck with
-some minor changes (Vessel instead blood doll).
+some minor changes (Vessel instead Blood Doll).
 
 Crypt (12 cards, min=6 max=26 avg=4.25)
 ---------------------------------------

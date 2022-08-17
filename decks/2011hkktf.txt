@@ -8,7 +8,7 @@ Timo Rekola
 Deck Name: Malkavian.ver.1.3
 
 Based on Marko Lindroos dect (which was based on Erik Torstensson's Punmatra Lutzonance deck)
-- minus bleed (because there are to many deflections in play these days)
+- minus bleed (because there are to many Deflections in play these days)
 + plus more Villen's and Lilith's Blessing's because free Malkavians
 are better than with cost (and V&L is a must in fatty deck's...)
 

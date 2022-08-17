@@ -7,7 +7,7 @@ Albert Dulcet Bellmonte
 
 -- 3VP in final
 
-Deck Name: weenie obfuscate vote
+Deck Name: weenie Obfuscate vote
 
 Crypt (12 cards, min=6 max=13 avg=2.58)
 ---------------------------------------

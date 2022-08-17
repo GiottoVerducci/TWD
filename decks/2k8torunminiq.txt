@@ -9,9 +9,9 @@ Deck Name: Along comes the spider
 
 Description: This deck won the mini qualifier in Torun, a local
 tournament in Warsaw, and managed to get into the final round during
-the Polish ECQ. it's a very solid deck against most archetypes, card
+the Polish ECQ. It's a very solid deck against most archetypes, card
 flow is really impressive, and it does tend to be underestimated (not
-too often, but it happens). it's also a very fun deck to play, in the
+too often, but it happens). It's also a very fun deck to play, in the
 ideal setup you block out your predator while making constant pressure
 on your prey.
 
@@ -82,5 +82,5 @@ Combat (27)
 5x Invoking the Beast
 4x Rolling with the Punches
 3x Skin of Steel
-2x Superior Mettle -- I'd revise the prevent cards anyway, maybe adding some with no cost, or more of SM. it worked nice in overall though
+2x Superior Mettle -- I'd revise the prevent cards anyway, maybe adding some with no cost, or more of SM. It worked nice in overall though
 4x Taste of Vitae

@@ -9,7 +9,7 @@ Aleksi Nuora
 
 Deck Name: The Shalmath Limb Donor Foundation
 
-Description: 	Rush immediate threats, tool up Shalmath.
+Description: Rush immediate threats, tool up Shalmath.
 Remove prey's defense and follow up with Andre + 1-caps.
 
 Crypt (12 cards, min=4 max=40 avg=5.08)

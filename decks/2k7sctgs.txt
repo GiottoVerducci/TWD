@@ -7,19 +7,14 @@ Jarkko Suvela
 
 -- 1GW7 + 3VP in final
 
-"Lone Biker and his Pup"
+Deckname: "Lone Biker and his Pup"
 Concept: Bruise
 
 Couple notes,
--Julius wants to prove himself to Wynn by defending the Pack and
-diablerizing
--Combat is based on enviromental damage, so allies and Memories of
-Mortality won't be too big of a problem (also helps with dodgy and
-maneuvering opponents)
--Shadow of the Beast was replaced with Hawg since equipping with Hawg
-provides +1 stealth and I don't need maneuvers in combat (Claws of the
-Dead can give maneuver in dire help)
--Pentex is for contest and ...well it's also a good card anyways
+-Julius wants to prove himself to Wynn by defending the Pack and diablerizing
+-Combat is based on enviromental damage, so allies and Memories of Mortality won't be too big of a problem (also helps with dodgy and maneuvering opponents)
+-Shadow of the Beast was replaced with Hawg since equipping with Hawg provides +1 stealth and I don't need maneuvers in combat (Claws of the Dead can give maneuver in dire help)
+-Pentex is for contest and ... well it's also a good card anyways
 
 Crypt (12 cards, min=4 max=40 avg=5)
 ------------------------------------

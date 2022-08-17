@@ -7,7 +7,7 @@ Alexander Båskman
 
 -- 4VP in final
 
-Deck Name: So long, and thanks for all the governs
+Deck Name: So long, and thanks for all the Governs
 
 Inspired by Adam Esbjörnsson, Randal Rudstam and Jonas Ståhle.
 

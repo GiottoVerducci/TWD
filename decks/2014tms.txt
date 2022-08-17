@@ -10,7 +10,7 @@ https://www.vekn.net/event-calendar/event/7874
 
 Deck Name: Anu's Hordes
 
-Description: Recruit allies and attack, then use Anu's special and dominate when going
+Description: Recruit allies and attack, then use Anu's special and Dominate when going
 in for the kill. Amount of blood gain/reduce cost in the deck mitigates blood loss alot.
 
 Crypt (12 cards, min=17 max=27 avg=5.67)

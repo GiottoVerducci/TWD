@@ -12,7 +12,7 @@ Description: My Ahrimanes take on my "Toreador Rule of Four" deck. Ahrimanes
 lose bounce and titles but gain more stealth and more blocking. Lesson Learned:
 The Claws of the Dead are a good surprise but should probably just be Force of
 Personality. Lesson Learned: To give prey hard choices - Pentex Loves You could
-replace Fear of Mekket.
+replace Fear of Mekhet.
 
 Crypt (12 cards, min=16 max=32 avg=6.33)
 ----------------------------------------

@@ -10,7 +10,7 @@ Created by: Alex Ek, inspired by a Nosferatu deck made by Jay Kristoff
 Description: Weenie malk voter. Use malk justicar and cryptic rider
 to vote in a vote heavy environment. Adding Victoria and Greger Andersen
 to make a 14 vamp crypt might be a good choice. Adding some extra stealth
-and maybe a malkavian rider clause might be good.
+and maybe a Malkavian rider clause might be good.
 
 Crypt (12 cards, min=9 max=26 avg=4.17)
 ---------------------------------------

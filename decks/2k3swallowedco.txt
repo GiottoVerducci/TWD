@@ -14,7 +14,7 @@ around Silvia blowing beads off of less-combat capable vampires. Zack
 and Chester are backups who provide crypt-draw variety. It "cheats"
 in terms of combat in that it uses Skin of Steel for protection only
 in the basic. This is bad for two reasons. One, I normally am weak
-against celerity combat. Two, I can't use SoS when Silvia or others
+against Celerity combat. Two, I can't use SoS when Silvia or others
 are empty. Hence, the Giant's Blood and Tastes.
 
 Crypt (12 cards, min=12 max=40 avg=6.67)

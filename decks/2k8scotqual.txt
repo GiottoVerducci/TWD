@@ -6,7 +6,7 @@ Edd Phipps
 
 -- 2.5VP in final
 
-Deck Name: Would you like Haggis with that conditioning sir?
+Deck Name: Would you like Haggis with that Conditioning sir?
 
 Crypt (12 cards, min=15 max=27 avg=5.5)
 ---------------------------------------

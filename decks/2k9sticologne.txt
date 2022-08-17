@@ -7,7 +7,7 @@ Joerg Alten
 
 Deck Name: Undead Army
 
-Description: Shambling Hordes with obfuscate and some dirty tricks
+Description: Shambling Hordes with Obfuscate and some dirty tricks
 
 Crypt (12 cards, min=11 max=28 avg=5.25)
 ----------------------------------------

@@ -10,7 +10,7 @@ Created by: Tristán Endriss (Dr Mafrune) & Txus Alútiz Lizarraga (Kakarot)
 
 -- GW4 (4 players table) + 2 (4 players table) + 3VP in final
 
-Description: quicksilver contemplation...a very great card!
+Description: Quicksilver Contemplation... A very great card!
 
 Crypt (12 cards, min=18 max=40 avg=7.67)
 ----------------------------------------

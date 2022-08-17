@@ -5,7 +5,7 @@ June 25th 2011
 16 players
 Mehdi Mazni
 
-Deck Name: nephandus
+Deck Name: Nephandus
 Created by: Julien Ohler (derjudge)
 
 Crypt (12 cards, min=8 max=20 avg=3.5)

@@ -7,7 +7,7 @@ Marcin Watras
 
 Deck Name: Tegyrius & Tariq - wall deck
 
-Description: Block, send to torpor, burn......
+Description: Block, send to torpor, burn...
 
 Crypt (12 cards, min=28 max=36 avg=8.08)
 ----------------------------------------

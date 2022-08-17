@@ -10,7 +10,7 @@ Hugh Angseesing
 Deck Name: Ven obf Politics
 
 Description: Ventrue Stealth Politics Deck.
-Future changes: Direct intervention, sudden reversal, kiss of ra, fortitude
+Future changes: Direct Intervention, Sudden Reversal, Kiss of Ra, Fortitude
 
 Crypt (12 cards, min=20 max=42 avg=8.5)
 ---------------------------------------

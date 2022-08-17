@@ -9,8 +9,8 @@ Deck Name: !ventrue multi-action
 
 Description: Standard !ventrue bleed & vote deck. Bring out
 the biggest vamp in your crypt, then use him to influence out
-the others with govern the unaligned. Bloat with blood dolls,
-Owain and perfectionist until you can launch a big attack.
+the others with Govern the Unaligned. Bloat with Blood Dolls,
+Owain and Perfectionist until you can launch a big attack.
 Has trouble against intercept, but can usually do enough
 actions in a single turn to slip a couple votes or bleeds through.
 

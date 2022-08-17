@@ -20,11 +20,11 @@ I decided to use group 1/2 instead of 3/4. I think it is better if you don't
 use OBF. Also Ashur fits so well in this kind of deck.
 
 So in advance some changes to the below deck.
- -5 telephatic misdirection, +5 deflection: Oh boy I was defenceless a lot of the times and I got away with it. Anson without superior auspex is a problem.
- -1 Flurry of Actions, +1 Powerbase Montreal or Voter Captivation
+ -5 Telepathic Misdirection, +5 Deflection: Oh boy I was defenceless a lot of the times and I got away with it. Anson without superior Auspex is a problem.
+ -1 Flurry of Actions, +1 Powerbase: Montreal or Voter Captivation
  -1 Political Stranglehold, +1 Ancient Influence
  +1 Aire of Elations: I thought it was already in the deck but I guess I forgot to include it.
- -1 Masika, +1 Francois Villon: Masika was never on the table, but it feels like Francois is stronger in this type of deck. His ability emptied a dominate vampire and caused an oust.
+ -1 Masika, +1 Francois Villon: Masika was never on the table, but it feels like Francois is stronger in this type of deck. His ability emptied a Dominate vampire and caused an oust.
 
 Crypt (12 cards, min=32 max=44 avg=9.67)
 ----------------------------------------

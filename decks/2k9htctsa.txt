@@ -6,7 +6,7 @@ Richard Auckland
 
 Deck Name: Weenie Obfuscate S&B Deck
 
-Description: Vermin Channels and dominate are key to this deck.
+Description: Vermin Channels and Dominate are key to this deck.
 
 Crypt (12 cards, min=8 max=18 avg=3.08)
 ---------------------------------------

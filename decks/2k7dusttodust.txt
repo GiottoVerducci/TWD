@@ -7,12 +7,12 @@ Andrea Ravera
 Deck Name: [Lasombra] Turbo Lucita
 
 Description: Put the soul gem on Lucita ASAP, she's a 8 cap, untap
-with freak drive (costs 1 blood). Employ camarilla vitae slave (costs
-2 blood, now lucita is a 9 cap), untap with freak drive (costs 1 blood).
+with Freak Drive (costs 1 blood). Employ Camarilla Vitae Slave (costs
+2 blood, now Lucita is a 9 cap), untap with Freak Drive (costs 1 blood).
 Perform Embrace (costs 2 blood). With 2 blood left on her, and tapped,
-Lucita perfomrs Force of Will (cost 1 blood), and plays conditioning
-(cost 1 blood). Now lucita has zero blood, and takes 2 aggravated damage,
-which burn her, triggering soul gem. A new copy of lucita enters play,
+Lucita perfomrs Force of Will (cost 1 blood), and plays Conditioning
+(cost 1 blood). Now Lucita has zero blood, and takes 2 aggravated damage,
+which burn her, triggering Soul Gem. A new copy of Lucita enters play,
 and inherits the gem. She is a pretty new and different vamp from the
 one that has burned before, so she can bleed again, recruit another slave, etc...
 

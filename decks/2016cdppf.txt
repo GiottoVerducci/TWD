@@ -10,8 +10,8 @@ Vincent Ripoll
 Deck Name: Princess Pitch
 
 Description: After going back and forth between versions with or without Dominate, with or without Villein+Perfectionist,
-I finally tried the highly aggressive way of doing things: no deflection, 2 more Shattering Crescendos and Daring the Dawn
-to ensure the delivery. The deck is a bit like a weenie potence when having an aggressive predator, but with
+I finally tried the highly aggressive way of doing things: no Deflection, 2 more Shattering Crescendos and Daring the Dawn
+to ensure the delivery. The deck is a bit like a weenie Potence when having an aggressive predator, but with
 even less defense considering the intercept problems of the Daughters. Backousting IS an option because there is
 very little pool gain (Legal, Wider View and Powerbase if you're lucky to draw it).
 The "stealth" module (Daring the Dawn, Missing Voice, Siren's Lure, Paris Opera House and Virtuosa) works extremely well,

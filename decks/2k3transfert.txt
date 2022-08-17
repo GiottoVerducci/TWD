@@ -4,7 +4,7 @@ November 1st 2003
 35 players
 Philippe Morel
 
-Deck Name: presence auspex anarchs vote
+Deck Name: Presence Auspex anarchs vote
 
 Crypt (12 cards, min=20 max=24 avg=5.42)
 ----------------------------------------

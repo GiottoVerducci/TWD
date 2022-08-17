@@ -9,12 +9,11 @@ Deck Name: instead of lots
 
 high caps instead of low caps
 infernal pursuit instead of liquidation
-+1 bleed instead of -1 stealth on every action she performs against
-a Methuselah who controls a ready bishop or archbishop
-mono celerity instead
++1 bleed instead of -1 stealth on every action she performs against a Methuselah who controls a ready bishop or archbishop
+mono Celerity instead
 combat instead of combat ends
 volker instead of anneke
-giant's blood during master phase instead of discard phase
+Giant's Blood during master phase instead of discard phase
 
 Crypt (12 cards, min=26 max=43 avg=8.58)
 ----------------------------------------

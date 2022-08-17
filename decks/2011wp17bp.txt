@@ -10,7 +10,7 @@ Deck Name: Imbued - "Inspire the World"
 Description: Deck based on Felipe Fiuza's "Cascaduuuuuura".
 Once set up, very difficult to stop. Needs to be played slowly
 at the beginning. Nice experience anyway - that was my first
-tournament where I played with Imbued deck. the first and the
+tournament where I played with Imbued deck. The first and the
 last time.
 
 Crypt (12 cards, min=12 max=20 avg=4)

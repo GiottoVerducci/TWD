@@ -13,7 +13,7 @@ to work out pretty well, though a long string of Dogs at the top pf
 one's crypt is frustrating.
 
 The objective for this deck is to get additional mileage from the
-Tupdogs...decreasing their effective cost from 1 pool per action to
+Tupdogs... decreasing their effective cost from 1 pool per action to
 0.5 pool per action and further leveraging both the rush and the slave
 option (rush first, untap, available for slave clause, take an action
 of the slave clause is not needed).
@@ -31,8 +31,8 @@ Heidleburg can save master vampires from dangerous hunting
 requirements, can empty a Tupdog of before it explodes and allows 2
 Hand of Conrad actions per turn.
 
-a "good" combat ran "set close and agg hands, grapple, prevent and
-untap"
+A "good" combat ran "set close and agg hands, Grapple, prevent and
+untap".
 
 Crypt (18 cards, min=4 max=15 avg=1.72)
 ---------------------------------------

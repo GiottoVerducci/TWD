@@ -12,7 +12,7 @@ Created by: Thomas Gibson, based on Ferenc deck - without shatters
 
 Description: Bleed for one (bloat), then play your masters / retainers /
 enkil, then bleed for 8. Slow bleed stealth deck with good bloat and
-very resilient to rush - especially strong in an animalism/celerity-gun
+very resilient to rush - especially strong in an Animalism/Celerity-gun
 environment.
 
 Crypt (12 cards, min=16 max=40 avg=7.58)

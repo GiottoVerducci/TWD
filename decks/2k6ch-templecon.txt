@@ -7,8 +7,7 @@ Oscar Garza
 
 Deck Name: Deploy the Hannibal
 
-Description: one of my pet decks. finally won something. now that i look at it...
-how the hell did i win?
+Description: one of my pet decks. Finally won something. Now that I look at it... how the hell did I win?
 
 Crypt (12 cards, min=15 max=40 avg=6.83)
 ----------------------------------------

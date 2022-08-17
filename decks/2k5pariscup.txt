@@ -61,7 +61,7 @@ Action Modifier (28)
 
 Reaction (10)
 5x Deflection
-2x Telepathic Misdirection -- when deflection is D.I.'ed or against Perfect clarity
+2x Telepathic Misdirection -- when Deflection is D.I.'ed or against Perfect clarity
 3x Wake with Evening's Freshness
 
 Combat (4)

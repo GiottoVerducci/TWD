@@ -10,7 +10,7 @@ Randal Rudstam
 Deck Name: Singing in the ground v2.0
 Created by: Randyman
 
-Description: Deep song earth meld deck of doom!
+Description: Deep song Earth Meld deck of doom!
 Did some last changes, as one always does, removed one Archon Invetigation
 for the Heidleburg Castle. In hindsight I should just have added the card
 but hey I did win all of my games.

@@ -1,14 +1,14 @@
-"...And the Gehenna, when it gonna be?"
+"... And the Gehenna, when it gonna be?"
 Santiago, Chile
 February 23rd 2008
 3R+F
 11 players
 Alberto Muñoz
 
-Deck Name: Burst of Rotschreck
+Deck Name: Burst of Rötschreck
 
-Description:	Burst + Rotschreck..
-nephandus and graverobbing do the dirty job.
+Description: Burst + Rötschreck..
+Nephandus and graverobbing do the dirty job.
 
 Crypt (19 cards, min=22 max=39 avg=8)
 -------------------------------------

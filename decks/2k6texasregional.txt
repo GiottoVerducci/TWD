@@ -7,7 +7,7 @@ Eric Leal
 
 Deck Name: ... Like bunnies
 
-Description: hmmmm...... If i need to explain this you need a new game.
+Description: hmmmm... If i need to explain this you need a new game.
 
 Crypt (12 cards, min=12 max=24 avg=4.42)
 ----------------------------------------

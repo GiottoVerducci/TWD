@@ -14,7 +14,7 @@ I originally had built a tournament-level Terrifisto deck, and I also had a
 Lambach deck in my casual deck supply (which used goofy stuff like Deploy the Hand).
 I played the Terrifisto deck at the LCQ #1, and I found it to be quite
 underwhelming. So I started a deck retrofit the morning of the tournament,
-using the Lambach crypt, and the Terrifisto library. Removing ~8 fortitude cards from
+using the Lambach crypt, and the Terrifisto library. Removing ~8 Fortitude cards from
 the Terrifisto deck gave me some creative space to work with.
 
 Even for a crypt that has great access to untap and intercept

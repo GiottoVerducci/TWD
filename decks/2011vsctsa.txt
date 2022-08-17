@@ -6,7 +6,7 @@ Neil Muller
 
 Deck Name: Alicia Burrows Vote (This is not a Lutz deck)
 
-Description: 	Obf/Pre vote with Lutz
+Description: Obf/Pre vote with Lutz
 
 Crypt (12 cards, min=32 max=44 avg=9.33)
 ----------------------------------------

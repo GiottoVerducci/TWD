@@ -10,7 +10,7 @@ Deck: Malk/Anti Stealth-Bleed
 The deck is really straightforward: it bleeds it's prey, hopes to
 avoid being killed in combat, and uses some telepathic cards to try to
 defend itself. There are some things I will change about this deck,
-namely the two hunting grounds weren't so useful (minion tap / blood
+namely the two hunting grounds weren't so useful (Minion Tap / blood
 doll probably better in at least one of those slots) and some other
 stuff like finicking with ratios of certain cards.
 

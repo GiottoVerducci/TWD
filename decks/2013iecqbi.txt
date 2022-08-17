@@ -7,7 +7,7 @@ Danilo Torrisi
 
 -- 4VP in final
 
-Deck Name: tupdog
+Deck Name: Tupdog
 
 Crypt (28 cards, min=4 max=19 avg=1.75)
 ---------------------------------------

@@ -5,12 +5,12 @@ March 17th 2011
 10 players
 Marcin Watras
 
-Deck Name: DOM FOR target vitals powerbleed
+Deck Name: DOM FOR Target Vitals powerbleed
 Created by: Marcin Watras - warGrim (deck based on Vincent
-
 Ripoll's Aim and Chain TWD from JAN-2009, played for
 educational purposes - wanted to know how to play against
 that type of deck by learning it's weak points)
+
 Description: Great deck - I would do some changes,
 just to improve the resilience.
 

@@ -4,9 +4,9 @@ June 21st 2009
 30 players
 Danilo Torrisi
 
-Deck Name: tupdogs+nephandi
+Deck Name: Tupdogs+nephandi
 
-Description: tupdogs+nephandi
+Description: Tupdogs+nephandi
 
 Crypt (24 cards, min=4 max=20 avg=1.83)
 ---------------------------------------

@@ -8,13 +8,13 @@ Guillaume Lefebvre
 Deck Name: Le fourbe et ses amis invisible
 
 L'objectif est simple, sortir les nocturnes, les utiliser comme
-bloqueur ou bleeder, et bien sûr stealth bleeder avec govern/
-conditionning. Je n'ai pu tester le deck qu'une seule fois avant le
+bloqueur ou bleeder, et bien sûr stealth bleeder avec Govern/
+Conditionning. Je n'ai pu tester le deck qu'une seule fois avant le
 tournoi et des modification s'imposent. Ainsi, je remplacerais les
 deux Entombments par un Path et un Nocturn, je remplacerais les
 Charisma avec des Perfectionnist et j'ajouterais 2 Delaying Tactics.
 Il est à noter que ce deck se révèle particulièrement efficace contre
-les weenie potence et autres tupdogs de ce monde.
+les weenie Potence et autres Tupdogs de ce monde.
 
 Crypt (12 cards, min=14 max=22 avg=4.67)
 ----------------------------------------

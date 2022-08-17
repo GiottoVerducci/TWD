@@ -8,9 +8,9 @@ Ira Fay
 Desk: Beasts on the plains, twirling their canes
 Description: This desk is inspired by Hugh Angseesing's
 deck (and others) of similar name. I wanted to see if I
-could make the fortitude combat + WWS work for Akunanse.
+could make the Fortitude combat + WWS work for Akunanse.
 Since the bleed offense is obviously weaker without dom,
-and because I wanted to use freak drive and have 2 useful
+and because I wanted to use Freak Drive and have 2 useful
 actions for each minion, I added votes, which worked
 pretty well. No Secrets is strong, but I was afraid of
 Pentex, so I wanted to play a deck that had a reasonable

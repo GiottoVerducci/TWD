@@ -8,7 +8,7 @@ Deck Name: Ratman on the balcony
 Created by: Erik Torstensson & Christoffer Arvidsson
 
 Description: Block deck with the best vampire in the game. Key cards:
-deflection, army of rats, direct intervention & pentex subversion.
+Deflection, army of rats, Direct Intervention & Pentex Subversion.
 
 Crypt (12 cards, min=19 max=40 avg=7.42)
 ----------------------------------------

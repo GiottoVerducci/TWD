@@ -32,7 +32,7 @@ Notes:
  Heart of Nizchetus	 - Good, but not necessary.
  Seal of Veddartha	 - Better than the Heart.
  Scourge of the Enochians - played but never mattered.
- Banishment	 - This gets rid of problems and can cause more pool loss than parity shift.
+ Banishment	 - This gets rid of problems and can cause more pool loss than Parity Shift.
  Guard Dogs	 - Fun with Enkil Cog, can get you to long range, and works with bounce.
 
 Crypt (12 cards, min=36 max=44 avg=10)

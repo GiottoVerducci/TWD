@@ -9,7 +9,6 @@ https://www.vekn.net/event-calendar/event/9647
 -- 3VP in final
 
 Deck Name : Unnamed_Evil Eye
-Description :
 
 Crypt (12 cards, min=12 max=40 avg=5.92)
 ----------------------------------------

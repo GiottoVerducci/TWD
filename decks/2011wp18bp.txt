@@ -8,7 +8,7 @@ Arkadiusz Modzelewski
 Deck Name: Rachel Madness
 
 Classic Rachel Madness with some improvements:
-- cut to 80 and add heart of nizchetus (works great with
+- cut to 80 and add Heart of Nizchetus (works great with
 Rachel's ability) for better card flow
 - Enkil cog/camera phone mix.
 

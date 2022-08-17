@@ -7,7 +7,7 @@ Tuomas Vuokko
 Deck Name: Annis Loves You
 
 Description: Black Annis "cycles" your combat while the others
-graverob vampires and bleed with potence stealth.
+graverob vampires and bleed with Potence stealth.
 
 Crypt (12 cards, min=19 max=36 avg=7.08)
 ----------------------------------------

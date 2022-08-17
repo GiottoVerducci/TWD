@@ -7,7 +7,7 @@ Leonardo Bensi
 
 Deck Name: Il Glorioso Piano Quinquennale
 
-Description: bleeding blood brothers with protean
+Description: bleeding Blood Brothers with Protean
 
 Crypt (12 cards, min=16 max=16 avg=4)
 -------------------------------------

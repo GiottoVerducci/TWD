@@ -8,7 +8,7 @@ https://www.vekn.net/player-registry/event/9888
 
 -- 4VP in final
 
-Deck Name: osebo 419
+Deck Name: Osebo 419
 Author:
 Crypt (12 cards, min=10 max=20 avg=3.67)
 ----------------------------------------

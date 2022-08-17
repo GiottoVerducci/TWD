@@ -11,7 +11,7 @@ https://www.vekn.net/event-calendar/event/8071
 Deck Name: Antonio - Ashur Tablets Nephandus swarm
 Created by: P.Kukielczynski's and T.Pietkiewicz's version
 
-with some changes in the crypt (added 4 tupdogs) and switched Tension for another Pentex
+with some changes in the crypt (added 4 Tupdogs) and switched Tension for another Pentex
 Description: Set up and rush/bleed with swarm - do not take any prisoners
 
 Crypt (12 cards, min=4 max=20 avg=3.17)

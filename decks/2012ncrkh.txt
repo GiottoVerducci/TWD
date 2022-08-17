@@ -10,7 +10,7 @@ Deck Name: N.W.A v1.2
 Description: Old story of Nana with ANI support.
 This time i added Narrow Minds in order to reduce
 overall blood count and speed up games.
-Had 9VP/3GWs prefinals,9.5VP/3GWs total.
+Had 9VP/3GWs prefinals, 9.5VP/3GWs total.
 
 Crypt (12 cards, min=8 max=32 avg=4.83)
 ---------------------------------------

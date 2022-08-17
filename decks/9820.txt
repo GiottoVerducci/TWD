@@ -11,7 +11,7 @@ Deck Name:   Lock and Load
 Description: Based upon Martin Major's First Chance Qualifier at NAC 2010 Tourney winning deck
 The goal is to get assault rifles and let people play their game. Okay to rush down cross table voters if necessary.
 With Parity shift rule change pool gain was an issue.
-Possible change is removing dreams, 1 monastery, 2 grooming for 4 ashur tablets.
+Possible change is removing Dreams, 1 Monastery, 2 Grooming for 4 Ashur Tablets.
 Meddilng with Semsith was worth the card slot.
 
 Crypt (12 cards, min=23 max=36 avg=7.58)

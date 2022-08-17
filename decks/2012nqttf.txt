@@ -5,7 +5,7 @@ March 25th 2012
 12 players
 Mathieu Subra
 
-Deck Name: lucky 7 setite
+Deck Name: lucky 7 Setite
 
 Crypt (12 cards, min=10 max=40 avg=6.5)
 ---------------------------------------

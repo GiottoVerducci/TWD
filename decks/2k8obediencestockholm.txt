@@ -4,9 +4,9 @@ March 15th 2008
 17 players
 Ivan Marin-Rivas
 
-Deck Name: Amarvati+Mata_Hari
+Deck Name: Amaravati+Mata_Hari
 
-Description: Amarvati and Mata Hari breed and vote
+Description: Amaravati and Mata Hari breed and vote
 
 Crypt (13 cards, min=14 max=32 avg=6.15)
 ----------------------------------------

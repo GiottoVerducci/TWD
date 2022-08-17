@@ -7,7 +7,7 @@ Tomasz Kowalewski
 
 -- 5VP in final
 
-Saulot + weenie auspex
+Saulot + weenie Auspex
 
 Crypt (15 cards, min=7 max=44 avg=5.6)
 --------------------------------------

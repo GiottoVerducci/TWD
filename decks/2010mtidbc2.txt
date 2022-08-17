@@ -9,7 +9,7 @@ Created by: Robert Scythe
 
 Description: Toolbox Ahrimanes that try to get their actions through.
 A thorough mix of bleed/bloat, intercept and offensive/defensive
-combat. this deck normally has no Mind Numbs, Vessels or Dreams and
+combat. This deck normally has no Mind Numbs, Vessels or Dreams and
 one less Pentex; instead a Carlton, 1 more D.I., another Entrancement,
 a Jake and a Heart of Nizchetus.
 

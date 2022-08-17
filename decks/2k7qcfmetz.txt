@@ -12,10 +12,10 @@ Created by: Krid
 
 
 Description [fr]: Deck du Niçois Krid, avec des tweaks mineurs
-(precognition, blood doll, univ HG...)
-pour la petite histoire, la dernière version de Krid était en 60
-cartes avec une crypte 4/5 avec Uta en star. a l'origine, y'avait en
-rotschreck en kinder, le seul rotschreck dispo le jour J etait une
+(Precognition, Blood Doll, Univ HG...)
+Pour la petite histoire, la dernière version de Krid était en 60
+cartes avec une crypte 4/5 avec Uta en star. À l'origine, y avait en
+Rötschreck en kinder, le seul Rötschreck dispo le jour J etait une
 photocop, donc ajout du hunting ground à la dernière minute.
 
 Crypt (12 cards, min=14 max=30 avg=5.42)

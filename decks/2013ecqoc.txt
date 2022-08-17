@@ -9,8 +9,7 @@ Goran Damjanic
 
 Deck Name: Le Giovanni
 
-Description: Recycled Deck from 2012 - 3GWs in 3 Rounds
-Giovanni Powerbleed
+Description: Recycled Deck from 2012 - 3GWs in 3 Rounds. Giovanni Powerbleed
 
 Crypt (12 cards, min=16 max=28 avg=5.33)
 ----------------------------------------

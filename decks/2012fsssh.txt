@@ -5,14 +5,14 @@ February 25th 2012
 17 players
 Milos Krstic
 
--- 4VP in final
+-- 2GW7.5 + 4VP in final
 
 Deck Name: N.W.A v1.1
 
 Description: Old story of Nana with ANI support.This time i added
-glancing blows against aggravated damage,and even tho they weren't
+Glancing Blows against aggravated damage, and even tho they weren't
 used in any crucial situation i think they are strong addition to
-this deck.Had 7.5VP/2GWs prefinals,11.5VP/3GWs total.
+this deck.
 
 Crypt (12 cards, min=8 max=32 avg=4.83)
 ---------------------------------------

@@ -10,7 +10,7 @@ Deck Name: Kristoff impersonator
 Christian was first after the prelims with 2GW8VP
 -- and scored 1.5VP in a timed out final to win the event.
 
-Description: Classic mono auspex crypt with the "flavour of the month"
+Description: Classic mono Auspex crypt with the "flavour of the month"
 Target fighting angle all cut down to a Swiss-thin library.
 
 Crypt (12 cards, min=7 max=19 avg=3.25)

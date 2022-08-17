@@ -10,7 +10,7 @@ Goran Ivanovic
 Deck Name: Deep Earth
 Created by: Milos Krstic
 
-Description: Standard tap & bleed deck with deep song/earth meld
+Description: Standard tap & bleed deck with Deep Song/Earth Meld
 combo to avoid blockers.
 
 Crypt (12 cards, min=21 max=34 avg=6.75)

@@ -7,7 +7,7 @@ Heikki Palomäki
 
 Deck Name: CHAIN reaction
 
-Description:	more dominate = better
+Description: more Dominate = better
 
 Crypt (12 cards, min=16 max=29 avg=5.5)
 ---------------------------------------

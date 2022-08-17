@@ -6,7 +6,7 @@ Rob Treasure
 
 Deck Name: Brick in a sock
 
-Description: Ummmm... pretty obvious bleed or rush with lots of Pot
+Description: Ummmm... Pretty obvious bleed or rush with lots of Pot
 minions. Use Computer Hacks to force blocks or bleed for steady twos.
 Bring back diab'ed minions with Hand of Conrad. Use Tributes as soon
 as you get them, don't be afraid to Tribute to empty cos most of
@@ -27,7 +27,7 @@ Wanted to try a version with a lot of solid masters and it worked
 pretty well - what you lose in cycling you more than make up for in
 pool gain so that works for me. A lot of the masters (18 assuming a
 minion is out) are playable 'out of the box' so you don't often have
-them sat in your hand... which is nice.
+them sat in your hand... Which is nice.
 
 A goodly amount of pool gen for a Pot deck and two AI's coupled with
 numbers backrushTM makes for a pretty resilient Pot horde that keeps

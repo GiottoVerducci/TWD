@@ -7,10 +7,10 @@ Aleksander Idziak
 
 Deck Name: Tremere - Gerald Windham - I'm Flying
 
-Description: Go for learjet, freak drive, setup with govern
-superior and equipment. Build a perfect hand with learjet,
+Description: Go for Learjet, Freak Drive, setup with Govern
+superior and equipment. Build a perfect hand with Learjet,
 discarding the cards you don't need at the moment. Later on
-bring back with ashur tablets the cards you need.
+bring back with Ashur Tablets the cards you need.
 
 Crypt (12 cards, min=13 max=36 avg=6.33)
 ----------------------------------------

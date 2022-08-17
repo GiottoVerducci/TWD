@@ -10,7 +10,7 @@ Marcin Watras
 Deck Name: Antonio - Ashur Tablets Nephandus swarm
 Created by: P.Kukielczynski's and T.Pietkiewicz's version
 
-with some changes in the crypt (added 4 tupdogs)
+with some changes in the crypt (added 4 Tupdogs)
 Description: Easy to play, extremly effective
 
 Crypt (12 cards, min=4 max=20 avg=3.17)

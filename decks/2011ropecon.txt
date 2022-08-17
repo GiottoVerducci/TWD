@@ -7,7 +7,7 @@ Otso Saariluoma
 
 Deck Name: Victoria's Secret
 
-Weenie auspex with some anarch/madness network tech. This deck owes
+Weenie Auspex with some anarch/Madness Network tech. This deck owes
 to Pascal Bertrand for perfecting the deck concept.
 
 Crypt (12 cards, min=4 max=17 avg=2.67)

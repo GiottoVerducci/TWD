@@ -5,13 +5,11 @@ August 25th 2013
 19 players
 Sergio Gracia
 
--- 3VP in final
+-- GW3 + GW5 + 3VP in final
 
 Deck Name: Trolls Converters
 
-Description: 1GW3vp + 1GW5vp + 1GW3vpF
-In hindsight, I would drop one Delaying Tactics and
-add another Frontal Assault.
+Description: In hindsight, I would drop one Delaying Tactics and add another Frontal Assault.
 
 Crypt (12 cards, min=4 max=26 avg=3.67)
 ---------------------------------------

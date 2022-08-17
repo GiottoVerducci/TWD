@@ -6,7 +6,7 @@ Jon Cooper
 
 Deck Name: Jacks Back Part 1
 
-Description: Let the anarchy spread....
+Description: Let the anarchy spread...
 
 Completely untested (prior to the tournament), i would remove the
 cats guidance and probably change the temptations to two more forms

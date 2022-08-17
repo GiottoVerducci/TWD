@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/9880
 -- 3VP in final
 
 Deck Name: Hot Pot
-Description: Hot potence-presence-obfuscate voter.
+Description: Hot Potence-Presence-Obfuscate voter.
 
 Crypt (12 cards, min=36 max=44 avg=9.83)
 ----------------------------------------

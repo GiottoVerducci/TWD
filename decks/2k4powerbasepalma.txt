@@ -9,7 +9,7 @@ Deck Name: the Trickstars
 Judge: Ginés Quiñonero (Damnans)
 
 Description: This deck was inspired by not a few comments on this newsgroup
-about how anthelios can be abused. Decided to build and paly this deck on
+about how Anthelios can be abused. Decided to build and paly this deck on
 saturday at friday's evening, and built it at 6 in the morning once I
 arrived home after a few drinks with some friends. Some cards were missing,
 somehow I lost the Art of Love and not a few events should go in, but I
@@ -17,12 +17,12 @@ wanted to play it in order to see if, for one time, the theory matches
 reality. Will rewrite it this week, as definitely some form of permanent
 bleed is necessary.
 
-the point is: with anthelios in play, you can add casual but definitive
+the point is: with Anthelios in play, you can add casual but definitive
 master cards that won't be needed each game but that will be a nice addition
 in an attrition deck like this. Cards that forgot to include (but obviously
-are a must) are Cultivated blood shortage, a sudden, a direct intervention
-and vox domini, and obviously downgrade the number of card to 75. Some other
-events are to go in, like the slow withering and blood weakens, just to
+are a must) are Cultivated Blood Shortage, a Sudden, a Direct Intervention
+and Vox Domini, and obviously downgrade the number of card to 75. Some other
+events are to go in, like The Slow Withering and Blood Weakens, just to
 increase the effect of Wormwood.
 
 Crypt (13 cards, min=20 max=30 avg=6.08)

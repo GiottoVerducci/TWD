@@ -6,7 +6,7 @@ April 26th 2008
 Axel Zaminga
 
 Winnig Deck Name: [Malkavian] Welcome Home (Sanitarium)
-Description: malkavian with politics
+Description: Malkavian with politics
 
 Crypt (12 cards, min=22 max=40 avg=8)
 -------------------------------------

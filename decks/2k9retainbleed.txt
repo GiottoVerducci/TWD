@@ -13,11 +13,11 @@ This deck was conceived during my absence last September. I didn't
 have had the time to assemble it or test it, but when i saw that
 Vicent Ripoll won the EC 2009 Day 1 tournament, i decided to give it
 a try. You might consider this deck as a mix between Vicent Ripoll EC
-TWD and Ruben Feldman's "Vignes" deck. I decided to play with auspex
+TWD and Ruben Feldman's "Vignes" deck. I decided to play with Auspex
 to explore Aura Reading. It was a surprise to all players and a
 good advantage to me, because i was able to look at their hands and
 bled irresponsibly. Future improvements, remove "Recruiting Party",
-change fortitude prevention.
+change Fortitude prevention.
 
 Crypt (12 cards, min=14 max=22 avg=4.58)
 ----------------------------------------

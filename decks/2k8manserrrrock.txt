@@ -9,7 +9,7 @@ Tuomas Nyberg
 Deck Name: Dr. Sutphens Dental Care
 
 Description: Straightforward bleed deck with Computer Hackings. If
-blocked, knock their teeth out with potence. Deck contains light
+blocked, knock their teeth out with Potence. Deck contains light
 intercept and bleed bounce, which were both crucial.
 
 Crypt (12 cards, min=7 max=19 avg=3.42)

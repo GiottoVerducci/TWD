@@ -7,8 +7,8 @@ Erik Torstensson
 
 Deck Name: Blazing shadows
 
-description: ordinary pre/obt-vote with some dominate for
-govern and deflection.
+description: ordinary pre/obt-vote with some Dominate for
+Govern and Deflection.
 
 Crypt (12 cards, min=23 max=39 avg=8)
 -------------------------------------

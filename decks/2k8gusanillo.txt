@@ -24,7 +24,7 @@ Crypt (12 cards, min=10 max=30 avg=5.17)
 
 Library (90 cards)
 Master (22; 3 trifle)
-2x Blood Doll -- quizás cambiarla por 2 vessel más
+2x Blood Doll -- quizás cambiarla por 2 Vessel más
 2x Direct Intervention
 1x Erciyes Fragments, The
 1x Fame

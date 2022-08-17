@@ -8,7 +8,7 @@ https://www.vekn.net/event-calendar/event/6889
 
 -- 4VP in final
 
-Deck Name: the nephandus experimental v3.0
+Deck Name: the Nephandus experimental v3.0
 
 Crypt (12 cards, min=12 max=20 avg=4.17)
 ----------------------------------------

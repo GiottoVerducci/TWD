@@ -11,7 +11,7 @@ https://www.vekn.net/event-calendar/event/9697
 Deck Name: Better Call Saulot
 Created by: Michał Misztal
 
-Description: Tweak of http://vtes.pl/forum/index.php?topic=4502.0 (-1 meat hook, -1 info highway, +2 sudden)
+Description: Tweak of http://vtes.pl/forum/index.php?topic=4502.0 (-1 Meat Hook, -1 Info Highway, +2 Sudden)
 
 Crypt (12 cards, min=10 max=44 avg=5.92)
 ----------------------------------------

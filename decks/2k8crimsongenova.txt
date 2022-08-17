@@ -5,10 +5,8 @@ April 6th 2008
 23 players
 Patrizio Zippone
 
-Created by: Patrizio Zippone (heavily based on the winning deck of
-
-Guillaume Lefebvre http://www.veknfrance.com/decks/twd.htm#2k7quebecchamp)
-Description: lasombra and nocturn
+Created by: Patrizio Zippone (heavily based on the winning deck of Guillaume Lefebvre http://www.vekn.fr/decks/twd.htm#2k7quebecchamp)
+Description: Lasombra and nocturn
 
 Crypt (12 cards, min=14 max=22 avg=4.67)
 ----------------------------------------

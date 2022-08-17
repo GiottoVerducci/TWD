@@ -7,8 +7,8 @@ Arnaud Baigts
 Deck Name: Take My Breath Away
 Created by: Jérôme Goyet (PcGeol)
 
-Description: The deck is a weenie vicissitude bleed deck with a
-defense base on breath / chiropteran marauder and sometimes a war
+Description: The deck is a weenie Vicissitude bleed deck with a
+defense base on Breath / Chiropteran Marauder and sometimes a war
 ghoul. Easy to play and very aggressive.
 
 Crypt (12 cards, min=8 max=19 avg=3.58)

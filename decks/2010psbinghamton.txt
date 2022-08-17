@@ -8,14 +8,14 @@ Deck Name: Shifty Eurotrash
 
 Description: That's shi-F-ty.
 
-Crypt (12 cards, min=21, max=32, avg=6.75)
-------------------------------------------
-3x Dónal O'Connor		8   CEL DOM POT		 prince	   Brujah:2
-3x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
-2x Constanza Vinti		8   CEL DOM POT		 prince	   Brujah:2
-1x Theo Bell			7   POT cel dom pre	 	   Brujah:2
-1x Theo Bell (ADV)		7   CEL POT PRE aus dom	 	   Brujah:2
-2x Anvil			6   CEL POT dom pre tha	 primogen  Brujah:1
+Crypt (12 cards, min=21 max=32 avg=6.75)
+----------------------------------------
+3x Dónal O'Connor               8   CEL DOM POT          prince    Brujah:2
+3x Volker, The Puppet Prince    5   CEL pot              prince    Brujah:2
+2x Constanza Vinti              8   CEL DOM POT          prince    Brujah:2
+1x Theo Bell                    7   POT cel dom pre                Brujah:2
+1x Theo Bell (ADV)              7   CEL POT PRE aus dom            Brujah:2
+2x Anvil                        6   CEL POT dom pre tha  primogen  Brujah:1
 
 Library (90 cards)
 Master (14)

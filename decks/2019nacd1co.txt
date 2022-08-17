@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9190
 
 Deck Name: Ventrue Stickman
 
-Crypt (12 cards, min=20, max=31, avg=6.33)
-------------------------------------------
-3x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro	 prince	   Ventrue:5
-2x Graham Gottesman	7   DOM FOR obf pre tha	 prince	   Ventrue:5
-2x Victor Donaldson	6   DOM for pre		 prince	   Ventrue:5
-1x Mustafa, The Heir	6   FOR PRE cel dom	 prince	   Ventrue:4
-1x Emily Carson		5   DOM for pre		 primogen  Ventrue:5
-1x Jephta Hester	5   DOM FOR aus		 	   Ventrue antitribu:4
-1x João Bilé		5   DOM FOR pre		 	   Ventrue:4
-1x Victor Pelletier	5   PRE cel dom for	 	   Ventrue:4
+Crypt (12 cards, min=20 max=31 avg=6.33)
+----------------------------------------
+3x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro  prince    Ventrue:5
+2x Graham Gottesman     7   DOM FOR obf pre tha  prince    Ventrue:5
+2x Victor Donaldson     6   DOM for pre          prince    Ventrue:5
+1x Mustafa, The Heir    6   FOR PRE cel dom      prince    Ventrue:4
+1x Emily Carson         5   DOM for pre          primogen  Ventrue:5
+1x Jephta Hester        5   DOM FOR aus                    Ventrue antitribu:4
+1x João Bilé            5   DOM FOR pre                    Ventrue:4
+1x Victor Pelletier     5   PRE cel dom for                Ventrue:4
 
 Library (84 cards)
 Master (15; 5 trifle)

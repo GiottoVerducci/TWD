@@ -13,14 +13,14 @@ to stop you or comes to hit you; you'll have the protean to protect
 yourself. Use "flesh of marble" to defeat immortal grapple, or the
 simple and excellent Bugs's maneuver: dig and use "earth meld".
 
-Crypt (12 cards, min=26, max=32, avg=7.42)
-------------------------------------------
-3x Sébastien Goulet	  8   DOM OBF cel pre pro  	   Gangrel antitribu:3
-2x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro  	   Gangrel antitribu:3
-2x Ian Forestal		  8   AUS DOM THA	   	   Tremere antitribu:2
-2x Greger Anderssen	  7   AUS OBF dom pro	   prince  Malkavian:2
-2x Soldat		  7   POT PRO cel dom obf  	   Gangrel antitribu:3
-1x Badr al-Budur	  5   OBF cel dom qui	   	   Assamite:2
+Crypt (12 cards, min=26 max=32 avg=7.42)
+----------------------------------------
+3x Sébastien Goulet       8   DOM OBF cel pre pro          Gangrel antitribu:3
+2x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro          Gangrel antitribu:3
+2x Ian Forestal           8   AUS DOM THA                  Tremere antitribu:2
+2x Greger Anderssen       7   AUS OBF dom pro      prince  Malkavian:2
+2x Soldat                 7   POT PRO cel dom obf          Gangrel antitribu:3
+1x Badr al-Budur          5   OBF cel dom qui              Assamite:2
 
 Library (90 cards)
 Master (13)

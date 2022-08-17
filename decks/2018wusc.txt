@@ -12,12 +12,12 @@ Deck Name: El maestro está aquí
 
 Description: Lasombra combat
 
-Crypt (12 cards, min=32, max=44, avg=9.67)
-------------------------------------------
-4x Montano				  11  ANI DOM FOR OBT POT	2 votes	  Lasombra:3
-4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal  Lasombra:2
-2x Gratiano				  8   DOM OBT obf pot		priscus	  Lasombra:2
-2x Lucita (ADV)				  8   DOM FOR OBT cel pot		  Lasombra:2
+Crypt (12 cards, min=32 max=44 avg=9.67)
+----------------------------------------
+4x Montano                                11  ANI DOM FOR OBT POT       2 votes   Lasombra:3
+4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal  Lasombra:2
+2x Gratiano                               8   DOM OBT obf pot           priscus   Lasombra:2
+2x Lucita (ADV)                           8   DOM FOR OBT cel pot                 Lasombra:2
 
 Library (90 cards)
 Master (18; 3 trifle)

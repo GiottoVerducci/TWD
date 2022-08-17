@@ -10,16 +10,16 @@ Deck Name: Ash and Other Thau/Cel Buddies.
 I had not tested the deck prior to playing it in the tournament
 (it needs some work.....More rush, specifically....)
 
-Crypt (12 cards, min=23, max=37, avg=7.42)
-------------------------------------------
-4x Ash Harrison	    7	AUS THA cel dom		 		Tremere antitribu:5
-2x Troius	    8	AUS DOM THA cel		 prince		Tremere:4
-1x Mistress Fanchon 11	AUS CEL DOM OBF THA VIC	 inner circle	Tremere:4
-1x Lernean	    10	AUS CEL DOM THA for pro	 cardinal	Tremere antitribu:4
-1x Eric Kressida    8	AUS DOM PRO THA cel	 bishop		Tremere antitribu:4
-1x Muhsin Samir	    6	DOM THA aus pot		 		Tremere:4
-1x Carmen	    5	THA aus dom		 		Tremere antitribu:5
-1x Zane		    5	THA aus dom		 primogen	Tremere:5
+Crypt (12 cards, min=23 max=37 avg=7.42)
+----------------------------------------
+4x Ash Harrison     7   AUS THA cel dom                         Tremere antitribu:5
+2x Troius           8   AUS DOM THA cel          prince         Tremere:4
+1x Mistress Fanchon 11  AUS CEL DOM OBF THA VIC  inner circle   Tremere:4
+1x Lernean          10  AUS CEL DOM THA for pro  cardinal       Tremere antitribu:4
+1x Eric Kressida    8   AUS DOM PRO THA cel      bishop         Tremere antitribu:4
+1x Muhsin Samir     6   DOM THA aus pot                         Tremere:4
+1x Carmen           5   THA aus dom                             Tremere antitribu:5
+1x Zane             5   THA aus dom              primogen       Tremere:5
 
 Library (90 cards)
 Master (10; 5 trifle)

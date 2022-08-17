@@ -15,13 +15,13 @@ and Palatial Estate in my Library. At the tournament, I played
 against Esoara, Earl, and Parthenon, so I'm glad I didn't end up
 contesting them!
 
-Crypt (12 cards, min=23, max=36, avg=7.67)
-------------------------------------------
-5x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
-3x Baldesar Rossellini		8   DOM POT aus for nec	 	  Giovanni:4
-2x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
-1x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
-1x Lia Milliner			3   dom nec		 	  Giovanni:3
+Crypt (12 cards, min=23 max=36 avg=7.67)
+----------------------------------------
+5x Guillaume Giovanni           9   CEL DOM NEC POT obt           Giovanni:4
+3x Baldesar Rossellini          8   DOM POT aus for nec           Giovanni:4
+2x Don Michael Antonio Giovanni 7   DOM NEC POT          2 votes  Giovanni:4
+1x Raphaela Giovanni            6   DOM NEC pot pre               Giovanni:4
+1x Lia Milliner                 3   dom nec                       Giovanni:3
 
 Library (90 cards)
 Master (24; 2 trifle)

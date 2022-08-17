@@ -9,13 +9,13 @@ Deck Name: Nana Buruki & Friends Ani/Pot Combat
 
 Description: thanks for at least Otso Saariluoma, the deck is based on his EC winning deck from 2011!
 
-Crypt (12 cards, min=23, max=36, avg=7.58)
-------------------------------------------
-4x Nangila Were		9   ANI POT PRE obf ser	 	   Guruhi:4
-4x Nana Buruku		8   ANI POT PRE		 	   Guruhi:4
-2x Fish			5   ANI POT pre		 	   Guruhi:4
-1x Gustaphe Brunnelle	8   ANI DOM POT obf	 primogen  Nosferatu:4
-1x Fode Kourouma	5   POT ani aus pre	 	   Guruhi:4
+Crypt (12 cards, min=23 max=36 avg=7.58)
+----------------------------------------
+4x Nangila Were         9   ANI POT PRE obf ser            Guruhi:4
+4x Nana Buruku          8   ANI POT PRE                    Guruhi:4
+2x Fish                 5   ANI POT pre                    Guruhi:4
+1x Gustaphe Brunnelle   8   ANI DOM POT obf      primogen  Nosferatu:4
+1x Fode Kourouma        5   POT ani aus pre                Guruhi:4
 
 Library (82 cards)
 Master (28; 7 trifle)

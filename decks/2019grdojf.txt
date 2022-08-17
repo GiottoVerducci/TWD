@@ -14,14 +14,14 @@ Finals Seating
 
 Esa-Matti Smolander (Lasombra Starter) --> Petrus Makkonen (Epikasta TGB) --> Simo Tiippana (Lydia + Al-Muntathir Trujah Toolbox) --> Aapo Järvelin (Theo + Beast anarch Rush) --> Petro Hirvonen (Hektor Toolbox)
 
-Crypt (12 cards, min=32, max=38, avg=8.67)
-------------------------------------------
-2x Luca Italicus	 10  DOM FOR NEC OBT POT tha	archbishop  Lasombra:4
-2x Antón de Concepción	 9   ANI DOM OBT POT aus	archbishop  Lasombra:4
-2x Carolina Vález	 9   DOM OBT POT PRE aus	archbishop  Lasombra:5
-2x Charles Delmare	 8   DOM OBT POT cel		cardinal    Lasombra:5
-2x Lord Leopold Valdemar 8   OBT POT cel dom obf	priscus	    Lasombra:5
-2x Percival		 8   FOR OBT POT aus dom	archbishop  Lasombra:5
+Crypt (12 cards, min=32 max=38 avg=8.67)
+----------------------------------------
+2x Luca Italicus         10  DOM FOR NEC OBT POT tha    archbishop  Lasombra:4
+2x Antón de Concepción   9   ANI DOM OBT POT aus        archbishop  Lasombra:4
+2x Carolina Vález        9   DOM OBT POT PRE aus        archbishop  Lasombra:5
+2x Charles Delmare       8   DOM OBT POT cel            cardinal    Lasombra:5
+2x Lord Leopold Valdemar 8   OBT POT cel dom obf        priscus     Lasombra:5
+2x Percival              8   FOR OBT POT aus dom        archbishop  Lasombra:5
 
 Library (77 cards)
 Master (13; 4 trifle)

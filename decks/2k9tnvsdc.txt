@@ -7,15 +7,15 @@ Hugo Dey
 
 Deck Name: La Cosa
 
-Crypt (12 cards, min=21, max=32, avg=6.75)
-------------------------------------------
-3x Little Tailor of Prague 8   ANI AUS VIC dem	    		Tzimisce:2
-2x Meshenka		   8   ANI AUS VIC	    priscus	Tzimisce:2
-2x Caliban		   6   ANI AUS VIC	    		Tzimisce:2
-2x Corine Marcón	   6   AUS VIC ani	    		Tzimisce:2
-1x Anton		   8   ANI AUS cel obf vic  		Tzimisce:2
-1x Devin Bisley		   5   ANI AUS vic	    		Tzimisce:2
-1x Lolita Houston	   4   VIC aus		    		Tzimisce:2
+Crypt (12 cards, min=21 max=32 avg=6.75)
+----------------------------------------
+3x Little Tailor of Prague 8   ANI AUS VIC dem                  Tzimisce:2
+2x Meshenka                8   ANI AUS VIC          priscus     Tzimisce:2
+2x Caliban                 6   ANI AUS VIC                      Tzimisce:2
+2x Corine Marcón           6   AUS VIC ani                      Tzimisce:2
+1x Anton                   8   ANI AUS cel obf vic              Tzimisce:2
+1x Devin Bisley            5   ANI AUS vic                      Tzimisce:2
+1x Lolita Houston          4   VIC aus                          Tzimisce:2
 
 Library (90 cards)
 Master (20; 2 trifle)

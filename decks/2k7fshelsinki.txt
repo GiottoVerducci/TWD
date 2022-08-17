@@ -4,19 +4,19 @@ February 17th 2007
 18 players
 Kari Mäkinen
 
-Crypt (12 cards, min=12, max=26, avg=5.08)
-------------------------------------------
-2x Piotr Andreikov	 2   aus		Tzimisce:3
-1x Blackhorse Tanner	 7   AUS DOM FOR	Ventrue antitribu:3
-1x Kazimir Savostin	 7   AUS VIC ani pot	Tzimisce:3
-1x Dominique Santo Paulo 6   AUS CEL pot pre	Toreador antitribu:4
-1x Ingram Frizer	 6   AUS OBF ani pot	Nosferatu antitribu:3
-1x Selena		 6   AUS DOM THA	Tremere antitribu:3
-1x Sennadurek		 6   AUS NEC dom	Nagaraja:4
-1x Yasmin the Black	 6   AUS THA dom pre	Tremere antitribu:3
-1x Colonel, The		 5   AUS cel dem obf	Malkavian antitribu:3
-1x Mariano Pomposo	 4   aus cel pot	Brujah antitribu:3
-1x Roger Farnsworth	 4   OBF aus		Malkavian antitribu:3
+Crypt (12 cards, min=12 max=26 avg=5.08)
+----------------------------------------
+2x Piotr Andreikov       2   aus                Tzimisce:3
+1x Blackhorse Tanner     7   AUS DOM FOR        Ventrue antitribu:3
+1x Kazimir Savostin      7   AUS VIC ani pot    Tzimisce:3
+1x Dominique Santo Paulo 6   AUS CEL pot pre    Toreador antitribu:4
+1x Ingram Frizer         6   AUS OBF ani pot    Nosferatu antitribu:3
+1x Selena                6   AUS DOM THA        Tremere antitribu:3
+1x Sennadurek            6   AUS NEC dom        Nagaraja:4
+1x Yasmin the Black      6   AUS THA dom pre    Tremere antitribu:3
+1x Colonel, The          5   AUS cel dem obf    Malkavian antitribu:3
+1x Mariano Pomposo       4   aus cel pot        Brujah antitribu:3
+1x Roger Farnsworth      4   OBF aus            Malkavian antitribu:3
 
 Library (90 cards)
 Master (18; 4 trifle)

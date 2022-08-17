@@ -12,17 +12,17 @@ Deck Name: Noseratu Animalism
 Final seating:
 Michał (Shock troops swarm) - Marcin (Unnamed bleed), Maciek (Saulot + Capuchin) - Maciej (G6 Nosferatu) - Konrad (Blood Brothers Budapest Bleed)
 
-Crypt (12 cards, min=8, max=24, avg=4.5)
-----------------------------------------
-2x Dowager, The	    6	ANI OBF aus pot	 primogen  Nosferatu:6
-2x Larissa Moreira  6	ANI OBF pot	 primogen  Nosferatu:6
-2x Lenny Burkhead   6	ANI obf pot pre	 primogen  Nosferatu:6
-1x Dhita Choudhair  5	ANI CHI aus	 	   Ravnos:6
-1x Horace Radcliffe 5	ANI POT obf	 	   Nosferatu:6
-1x Baixinho	    3	ani obf		 	   Nosferatu:6
-1x Darlene Killian  2	ani spi		 	   Ahrimane:5
-1x Malcolm	    2	ani		 	   Gangrel:5
-1x Walker Grimes    1	ani		 	   Caitiff:5
+Crypt (12 cards, min=8 max=24 avg=4.5)
+--------------------------------------
+2x Dowager, The     6   ANI OBF aus pot  primogen  Nosferatu:6
+2x Larissa Moreira  6   ANI OBF pot      primogen  Nosferatu:6
+2x Lenny Burkhead   6   ANI obf pot pre  primogen  Nosferatu:6
+1x Dhita Choudhair  5   ANI CHI aus                Ravnos:6
+1x Horace Radcliffe 5   ANI POT obf                Nosferatu:6
+1x Baixinho         3   ani obf                    Nosferatu:6
+1x Darlene Killian  2   ani spi                    Ahrimane:5
+1x Malcolm          2   ani                        Gangrel:5
+1x Walker Grimes    1   ani                        Caitiff:5
 
 Library (90 cards)
 Master (14; 4 trifle)

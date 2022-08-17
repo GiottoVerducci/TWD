@@ -9,15 +9,15 @@ Hugh Angseesing
 
 Deck Name: Cailean Ventrue
 
-Crypt (12 cards, min=40, max=42, avg=10.17)
--------------------------------------------
-5x Cailean	    10	ANI OBF POT PRE dom	 archbishop	Nosferatu antitribu:2
-2x Marcus Vitel	    10	DOM FOR OBF OBT PRE	 prince		Ventrue:3
-1x Arika	    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
-1x Leandro	    11	AUS OBF PRE cel dom	 inner circle	Malkavian:2
-1x Jaroslav Pascek  10	CEL POT PRE for obf	 justicar	Brujah:3
-1x Lucinde, Alastor 10	DOM FOR PRE obf pot tha	 justicar	Ventrue:3
-1x Queen Anne	    10	DOM FOR PRE aus obf	 prince		Ventrue:2
+Crypt (12 cards, min=40 max=42 avg=10.17)
+-----------------------------------------
+5x Cailean          10  ANI OBF POT PRE dom      archbishop     Nosferatu antitribu:2
+2x Marcus Vitel     10  DOM FOR OBF OBT PRE      prince         Ventrue:3
+1x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
+1x Leandro          11  AUS OBF PRE cel dom      inner circle   Malkavian:2
+1x Jaroslav Pascek  10  CEL POT PRE for obf      justicar       Brujah:3
+1x Lucinde, Alastor 10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
+1x Queen Anne       10  DOM FOR PRE aus obf      prince         Ventrue:2
 
 Library (81 cards)
 Master (25; 7 trifle)

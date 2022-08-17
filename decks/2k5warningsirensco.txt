@@ -7,14 +7,14 @@ Brad Cashdollar
 
 "Cindy's Angry Dragon"
 
-Crypt (12 cards, min=24, max=36, avg=7.5)
------------------------------------------
-2x Theo Bell			7   POT cel dom pre			  Brujah:2
-2x Theo Bell (ADV)		7   CEL POT PRE aus dom			  Brujah:2
-2x Don Cruez, The Idealist	10  CEL POT PRE ani dom pro	justicar  Brujah:1
-2x Constanza Vinti		8   CEL DOM POT			prince	  Brujah:2
-2x Dónal O'Connor		8   CEL DOM POT			prince	  Brujah:2
-2x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
+Crypt (12 cards, min=24 max=36 avg=7.5)
+---------------------------------------
+2x Theo Bell                    7   POT cel dom pre                       Brujah:2
+2x Theo Bell (ADV)              7   CEL POT PRE aus dom                   Brujah:2
+2x Don Cruez, The Idealist      10  CEL POT PRE ani dom pro     justicar  Brujah:1
+2x Constanza Vinti              8   CEL DOM POT                 prince    Brujah:2
+2x Dónal O'Connor               8   CEL DOM POT                 prince    Brujah:2
+2x Volker, The Puppet Prince    5   CEL pot                     prince    Brujah:2
 
 Library (90 cards)
 Master (16)

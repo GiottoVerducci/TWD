@@ -7,13 +7,13 @@ Brad Cashdollar
 
 "Baker's Angry Dragon"
 
-Crypt (12 cards, min=23, max=36, avg=7.5)
------------------------------------------
-4x Dmitra Ilyanova	9   CEL FOR POT PRE obf	 justicar  Brujah:5
-3x Carlak		8   CEL PRE dom pot	 prince	   Brujah:5
-3x Karen Suadela	7   CEL POT obf pre	 prince	   Brujah:5
-1x Marguerite Foccart	6   CEL PRE aus pot	 	   Brujah:4
-1x Lynn Thompson	3   cel pot		 	   Brujah:5
+Crypt (12 cards, min=23 max=36 avg=7.5)
+---------------------------------------
+4x Dmitra Ilyanova      9   CEL FOR POT PRE obf  justicar  Brujah:5
+3x Carlak               8   CEL PRE dom pot      prince    Brujah:5
+3x Karen Suadela        7   CEL POT obf pre      prince    Brujah:5
+1x Marguerite Foccart   6   CEL PRE aus pot                Brujah:4
+1x Lynn Thompson        3   cel pot                        Brujah:5
 
 Library (90 cards)
 Master (12; 6 trifle)

@@ -7,14 +7,14 @@ Robyn Tatu
 
 Deck Name: Samedi after Ben Peal
 
-Crypt (12 cards, min=25, max=36, avg=7.75)
-------------------------------------------
-4x Baron, The			 9   FOR NEC OBF THN dom	2 votes	 Samedi:2
-3x Reg Driscoll			 8   OBF THN aus for pre		 Samedi:2
-2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec		 Samedi:2
-1x Genina, The Red Poet		 8   CHI OBF THN aus cel for		 Samedi:3
-1x George Frederick		 6   FOR THN nec obf			 Samedi:2
-1x Lithrac			 5   OBF for thn			 Samedi:2
+Crypt (12 cards, min=25 max=36 avg=7.75)
+----------------------------------------
+4x Baron, The                    9   FOR NEC OBF THN dom        2 votes  Samedi:2
+3x Reg Driscoll                  8   OBF THN aus for pre                 Samedi:2
+2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec                 Samedi:2
+1x Genina, The Red Poet          8   CHI OBF THN aus cel for             Samedi:3
+1x George Frederick              6   FOR THN nec obf                     Samedi:2
+1x Lithrac                       5   OBF for thn                         Samedi:2
 
 Library (77 cards)
 Master (12; 1 trifle)

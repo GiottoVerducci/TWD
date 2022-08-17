@@ -7,13 +7,13 @@ Reyda Seddiki
 deck: "Loyalists"
 description: Vote, vote, vote. Have fun.
 
-Crypt (12 cards, min=19, max=35, avg=7)
----------------------------------------
-3x Quentin		9   AUS DOM FOR cel obt	 bishop	  Ventrue antitribu:2
-3x Gustav Mallenhous	8   AUS DOM for obt	 priscus  Ventrue antitribu:2
-3x Edward Neally	7   DOM FOR aus pre	 	  Ventrue antitribu:3
-2x Gerard		5   aus dom for obt	 	  Ventrue antitribu:2
-1x Samson		2   dom			 	  Ventrue antitribu:2
+Crypt (12 cards, min=19 max=35 avg=7)
+-------------------------------------
+3x Quentin              9   AUS DOM FOR cel obt  bishop   Ventrue antitribu:2
+3x Gustav Mallenhous    8   AUS DOM for obt      priscus  Ventrue antitribu:2
+3x Edward Neally        7   DOM FOR aus pre               Ventrue antitribu:3
+2x Gerard               5   aus dom for obt               Ventrue antitribu:2
+1x Samson               2   dom                           Ventrue antitribu:2
 
 Library (90 cards)
 Master (17)

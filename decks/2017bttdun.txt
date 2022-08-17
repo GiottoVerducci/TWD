@@ -10,16 +10,16 @@ Deck Name: Guillaume's and allies houseparty
 
 Description: Vaguely based upon several decks from tdwa and a tweaked fundeck that got me to the finals on the first chance qualifier in Italy. It was not playtested, so I was quite surprised with the result. Thank you Rolf and Bart for lending me the missing cards!
 
-Crypt (12 cards, min=21, max=36, avg=7.42)
-------------------------------------------
-5x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
-1x Baldesar Rossellini		8   DOM POT aus for nec	 	  Giovanni:4
-1x Pherydima			8   DOM MYT NEC obt pot	 bishop	  Kiasyd:4
-1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
-1x Gualtiero Ghiberti		7   DOM NEC cel pot tha	 	  Giovanni:4
-1x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
-1x Kay Polerno			4   dom nec pro		 	  Giovanni:5
-1x Primo Giovanni		4   dom nec pot		 	  Giovanni:4
+Crypt (12 cards, min=21 max=36 avg=7.42)
+----------------------------------------
+5x Guillaume Giovanni           9   CEL DOM NEC POT obt           Giovanni:4
+1x Baldesar Rossellini          8   DOM POT aus for nec           Giovanni:4
+1x Pherydima                    8   DOM MYT NEC obt pot  bishop   Kiasyd:4
+1x Don Michael Antonio Giovanni 7   DOM NEC POT          2 votes  Giovanni:4
+1x Gualtiero Ghiberti           7   DOM NEC cel pot tha           Giovanni:4
+1x Raphaela Giovanni            6   DOM NEC pot pre               Giovanni:4
+1x Kay Polerno                  4   dom nec pro                   Giovanni:5
+1x Primo Giovanni               4   dom nec pot                   Giovanni:4
 
 Library (90 cards)
 Master (23; 7 trifle)

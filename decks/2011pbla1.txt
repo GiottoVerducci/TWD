@@ -6,11 +6,11 @@ Robert Scythe
 
 Deck Name: Sobie and The Pussycats
 
-Crypt (12 cards, min=28, max=32, avg=7.67)
-------------------------------------------
-4x Howler	8   ANI PRE SPI obf			Ahrimane:2
-4x Sobayifa	8   ANI PRE aus pot pro spi	magaji	Guruhi:3
-4x Siamese, The	7   PRE SPI ani pro			Ahrimane:2
+Crypt (12 cards, min=28 max=32 avg=7.67)
+----------------------------------------
+4x Howler       8   ANI PRE SPI obf                     Ahrimane:2
+4x Sobayifa     8   ANI PRE aus pot pro spi     magaji  Guruhi:3
+4x Siamese, The 7   PRE SPI ani pro                     Ahrimane:2
 
 Library (90 cards)
 Master (19; 8 trifle)

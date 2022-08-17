@@ -11,12 +11,12 @@ Jeff "Gil" Giguère won his first tournament in a hard-fought and well-played fi
 
 Description: Toolbox as usual
 
-Crypt (12 cards, min=23, max=40, avg=7.83)
-------------------------------------------
-5x Cailean				  10  ANI OBF POT PRE dom  archbishop	Nosferatu antitribu:2
-4x Beast, The Leatherface of Detroit	  7   OBF POT ani cel	   		Nosferatu antitribu:2
-2x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot	   		Nosferatu antitribu:2
-1x Tock					  4   obf pot pre	   		Nosferatu antitribu:3
+Crypt (12 cards, min=23 max=40 avg=7.83)
+----------------------------------------
+5x Cailean                                10  ANI OBF POT PRE dom  archbishop   Nosferatu antitribu:2
+4x Beast, The Leatherface of Detroit      7   OBF POT ani cel                   Nosferatu antitribu:2
+2x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot                       Nosferatu antitribu:2
+1x Tock                                   4   obf pot pre                       Nosferatu antitribu:3
 
 Library (90 cards)
 Master (18; 3 trifle)

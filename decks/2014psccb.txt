@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/7458
 
 Deck Name: Toreador Block Alastor
 
-Crypt (12 cards, min=24, max=42, avg=8.83)
-------------------------------------------
-3x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
-2x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-2x Masika	   10  AUS CEL PRE		primogen	Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Anson	   8   CEL PRE aus dom		prince		Toreador:1
-1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
-1x Felicia Mostrom 5   AUS CEL pre				Toreador:1
-1x Dorian Strack   4   AUS cel					Toreador:1
+Crypt (12 cards, min=24 max=42 avg=8.83)
+----------------------------------------
+3x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+2x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+2x Masika          10  AUS CEL PRE              primogen        Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+1x Anson           8   CEL PRE aus dom          prince          Toreador:1
+1x Tatiana Romanov 7   AUS cel pre              prince          Toreador:1
+1x Felicia Mostrom 5   AUS CEL pre                              Toreador:1
+1x Dorian Strack   4   AUS cel                                  Toreador:1
 
 Library (90 cards)
 Master (19; 6 trifle)

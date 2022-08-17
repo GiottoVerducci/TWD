@@ -29,14 +29,14 @@ hard to justify adding any more. On hind sight, I would
 definitely drop the Crusade. I was surprised how often I
 ended using Changeling to bleed.
 
-Crypt (12 cards, min=26, max=38, avg=8.25)
-------------------------------------------
-3x Velya, The Flayer			  9   ANI AUS PRE VIC for  cardinal	Tzimisce:3
-2x Lambach				  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
-2x Stravinsky				  9   ANI AUS VIC pot	   archbishop	Tzimisce:2
-2x Meshenka				  8   ANI AUS VIC	   priscus	Tzimisce:2
-2x Rose, The				  5   PRE VIC aus	   		Tzimisce:3
-1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
+Crypt (12 cards, min=26 max=38 avg=8.25)
+----------------------------------------
+3x Velya, The Flayer                      9   ANI AUS PRE VIC for  cardinal     Tzimisce:3
+2x Lambach                                10  ANI AUS DOM VIC pre  cardinal     Tzimisce:2
+2x Stravinsky                             9   ANI AUS VIC pot      archbishop   Tzimisce:2
+2x Meshenka                               8   ANI AUS VIC          priscus      Tzimisce:2
+2x Rose, The                              5   PRE VIC aus                       Tzimisce:3
+1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop   Tzimisce:2
 
 Library (80 cards)
 Master (17; 1 trifle)

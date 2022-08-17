@@ -13,16 +13,16 @@ Should be around 80 cards but does need the Anarchist and the Entrancements
 (probably the AI too). Would suggest losing Reins to put an Enkil back in as
 actually thought in Warsaw and London that there was a Cog somewhere in the
 
-Crypt (13 cards, min=25, max=43, avg=8.62)
-------------------------------------------
-4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
-3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-1x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Masika	   10  AUS CEL PRE		primogen	Toreador:1
-1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
-1x Victoria Ash	   6   PRE aus cel dom		primogen	Toreador:2
-1x Mariana Gilbert 4   PRE cel					Toreador:1
+Crypt (13 cards, min=25 max=43 avg=8.62)
+----------------------------------------
+4x Anson           8   CEL PRE aus dom          prince          Toreador:1
+3x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+1x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+1x Masika          10  AUS CEL PRE              primogen        Toreador:1
+1x Tatiana Romanov 7   AUS cel pre              prince          Toreador:1
+1x Victoria Ash    6   PRE aus cel dom          primogen        Toreador:2
+1x Mariana Gilbert 4   PRE cel                                  Toreador:1
 
 Library (90 cards)
 Master (49; 8 trifle)

@@ -11,16 +11,16 @@ Deck Name: Pop Goes Banjoko
 
 Description: Derivative DOM/OBT stealth-bleed
 
-Crypt (12 cards, min=19, max=31, avg=6.42)
-------------------------------------------
-3x Gratiano			8   DOM OBT obf pot	priscus	 Lasombra:2
-2x Henri Lavenant		7   DOM OBT pot qui		 Lasombra:3
-2x Banjoko			5   DOM obt pot			 Lasombra:3
-1x Julia Prima			7   DOM OBT aus myt		 Kiasyd:2
-1x Tobias Smith			7   DOM OBT PRE pot		 Lasombra:3
-1x Aurora Van Brande, Paladin	6   OBT dom for pot		 Lasombra:2
-1x Guido Lucciano		5   OBT dom obf			 Lasombra:2
-1x Ignacio, The Black Priest	4   dom obt pot			 Lasombra:2
+Crypt (12 cards, min=19 max=31 avg=6.42)
+----------------------------------------
+3x Gratiano                     8   DOM OBT obf pot     priscus  Lasombra:2
+2x Henri Lavenant               7   DOM OBT pot qui              Lasombra:3
+2x Banjoko                      5   DOM obt pot                  Lasombra:3
+1x Julia Prima                  7   DOM OBT aus myt              Kiasyd:2
+1x Tobias Smith                 7   DOM OBT PRE pot              Lasombra:3
+1x Aurora Van Brande, Paladin   6   OBT dom for pot              Lasombra:2
+1x Guido Lucciano               5   OBT dom obf                  Lasombra:2
+1x Ignacio, The Black Priest    4   dom obt pot                  Lasombra:2
 
 Library (90 cards)
 Master (16; 5 trifle)

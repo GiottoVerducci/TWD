@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/7541
 
 Deck Name: Sempre Alerta!
 
-Crypt (12 cards, min=15, max=40, avg=7.42)
-------------------------------------------
-3x Anson	   8   CEL PRE aus dom		prince	  Toreador:1
-2x Anneke	   10  AUS CEL PRE dom		justicar  Toreador:1
-2x Masika	   10  AUS CEL PRE		primogen  Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot	prince	  Toreador:2
-1x Tatiana Romanov 7   AUS cel pre		prince	  Toreador:1
-1x Colin Flynn	   3   aus cel				  Toreador:1
-1x Isabel de Leon  3   AUS				  Toreador:2
-1x Dieter Kleist   2   aus				  Toreador:1
+Crypt (12 cards, min=15 max=40 avg=7.42)
+----------------------------------------
+3x Anson           8   CEL PRE aus dom          prince    Toreador:1
+2x Anneke          10  AUS CEL PRE dom          justicar  Toreador:1
+2x Masika          10  AUS CEL PRE              primogen  Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot  prince    Toreador:2
+1x Tatiana Romanov 7   AUS cel pre              prince    Toreador:1
+1x Colin Flynn     3   aus cel                            Toreador:1
+1x Isabel de Leon  3   AUS                                Toreador:2
+1x Dieter Kleist   2   aus                                Toreador:1
 
 Library (90 cards)
 Master (27; 6 trifle)

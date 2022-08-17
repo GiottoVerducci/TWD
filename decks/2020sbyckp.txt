@@ -13,16 +13,16 @@ Created by: Michał Misztal
 
 Description: Tweak of http://vtes.pl/forum/index.php?topic=4502.0 (-1 meat hook, -1 info highway, +2 sudden)
 
-Crypt (12 cards, min=10, max=44, avg=5.92)
-------------------------------------------
-4x Saulot, The Wanderer	11  AUS FOR OBE THA VAL dai	Salubri:4
-2x Neighbor John	5   AUS dom for			Ventrue antitribu:4
-1x Maldavis (ADV)	4   AUS for pre			Caitiff:3
-1x Lana Butcher		3   dom for			Ventrue:3
-1x Rosemarie		3   FOR mel			Daughter of Cacophony:4
-1x Ulrike Rothbart	3   dom for			Ventrue antitribu:4
-1x Aimee Laroux		2   for pre			Daughter of Cacophony:4
-1x Sarah Raines		2   for				Gangrel:3
+Crypt (12 cards, min=10 max=44 avg=5.92)
+----------------------------------------
+4x Saulot, The Wanderer 11  AUS FOR OBE THA VAL dai     Salubri:4
+2x Neighbor John        5   AUS dom for                 Ventrue antitribu:4
+1x Maldavis (ADV)       4   AUS for pre                 Caitiff:3
+1x Lana Butcher         3   dom for                     Ventrue:3
+1x Rosemarie            3   FOR mel                     Daughter of Cacophony:4
+1x Ulrike Rothbart      3   dom for                     Ventrue antitribu:4
+1x Aimee Laroux         2   for pre                     Daughter of Cacophony:4
+1x Sarah Raines         2   for                         Gangrel:3
 
 Library (90 cards)
 Master (12; 2 trifle)

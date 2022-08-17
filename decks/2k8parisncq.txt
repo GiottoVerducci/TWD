@@ -6,14 +6,14 @@ Antonio Cobo Cuenca
 
 Deck Name: Piper Warghoul
 
-Crypt (12 cards, min=4, max=13, avg=1.92)
------------------------------------------
-6x Anarch Convert  1   -none-	    Caitiff:ANY
-2x Piotr Andreikov 2   aus	    Tzimisce:3
-1x Lolita Houston  4   VIC aus	    Tzimisce:2
-1x Terrence	   4   ani aus vic  Tzimisce:2
-1x Wendy Wade	   3   ani aus	    Tzimisce:2
-1x Horatio	   2   vic	    Tzimisce:2
+Crypt (12 cards, min=4 max=13 avg=1.92)
+---------------------------------------
+6x Anarch Convert  1   -none-       Caitiff:ANY
+2x Piotr Andreikov 2   aus          Tzimisce:3
+1x Lolita Houston  4   VIC aus      Tzimisce:2
+1x Terrence        4   ani aus vic  Tzimisce:2
+1x Wendy Wade      3   ani aus      Tzimisce:2
+1x Horatio         2   vic          Tzimisce:2
 
 Library (65 cards)
 Master (31; 5 trifle)

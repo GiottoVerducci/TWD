@@ -64,15 +64,15 @@ conceded with ~30 minutes left in the final.
 The critical play, in my mind, was recognizing that I needed to throw John M off the island and let
 Will have a VP and the extra pool that comes with it.
 
-Crypt (13 cards, min=19, max=28, avg=5.85)
-------------------------------------------
-5x Erebus	   7   AUS FOR NEC dem	Harbinger of Skulls:3
-2x Neighbor John   5   AUS dom for	Ventrue antitribu:4
-2x Solomon Batanea 5   AUS FOR nec	Harbinger of Skulls:4
-1x Sennadurek	   6   AUS NEC dom	Nagaraja:4
-1x Zygodat	   6   AUS NEC pot	Harbinger of Skulls:4
-1x Nicomedes	   5   aus for nec vic	Harbinger of Skulls:4
-1x Maldavis (ADV)  4   AUS for pre	Caitiff:3
+Crypt (13 cards, min=19 max=28 avg=5.85)
+----------------------------------------
+5x Erebus          7   AUS FOR NEC dem  Harbinger of Skulls:3
+2x Neighbor John   5   AUS dom for      Ventrue antitribu:4
+2x Solomon Batanea 5   AUS FOR nec      Harbinger of Skulls:4
+1x Sennadurek      6   AUS NEC dom      Nagaraja:4
+1x Zygodat         6   AUS NEC pot      Harbinger of Skulls:4
+1x Nicomedes       5   aus for nec vic  Harbinger of Skulls:4
+1x Maldavis (ADV)  4   AUS for pre      Caitiff:3
 
 Library (90 cards)
 Master (18; 5 trifle)

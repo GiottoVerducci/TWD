@@ -15,16 +15,16 @@ This is the very focused bleeddeck with a few very simple principles.
 2 blood management: other masters are to keep the machine rolling.
 3 bleedmanagement: Well Duh! all the other cards are for bleeding
 
-Crypt (12 cards, min=17, max=28, avg=5.67)
-------------------------------------------
-3x Badr, Shadow of Granada 7   DOM OBT POT	Lasombra:5
-2x Onaedo		   6   DOM OBT aus pot	Lasombra:4
-2x Dame Hollerton	   5   DOM OBT myt	Kiasyd:4
-1x Lord Vauxhall	   7   DOM OBT POT THA	Lasombra:4
-1x Isanwayen		   6   DOM MYT OBT	Kiasyd:4
-1x Ermenegildo, The Rake   5   DOM OBT pot	Lasombra:4
-1x Leila Monroe		   4   dom obt pre	Lasombra:4
-1x Lucy Markowitz	   3   dom obt		Lasombra:4
+Crypt (12 cards, min=17 max=28 avg=5.67)
+----------------------------------------
+3x Badr, Shadow of Granada 7   DOM OBT POT      Lasombra:5
+2x Onaedo                  6   DOM OBT aus pot  Lasombra:4
+2x Dame Hollerton          5   DOM OBT myt      Kiasyd:4
+1x Lord Vauxhall           7   DOM OBT POT THA  Lasombra:4
+1x Isanwayen               6   DOM MYT OBT      Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot      Lasombra:4
+1x Leila Monroe            4   dom obt pre      Lasombra:4
+1x Lucy Markowitz          3   dom obt          Lasombra:4
 
 Library (78 cards)
 Master (13; 1 trifle)

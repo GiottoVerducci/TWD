@@ -12,14 +12,14 @@ Description: I'm still surprised that this worked.
 (*) There should have only been 3 of these, but I accidentally added
 extras.
 
-Crypt (14 cards, min=20, max=30, avg=6.36)
-------------------------------------------
-4x Matthias			   7   AUS FOR OBE nec	Salubri:2
-4x Blanche Hill			   6   FOR OBE aus	Salubri:2
-2x Ian Forestal			   8   AUS DOM THA	Tremere antitribu:2
-2x Miriam Benyona		   5   AUS for obe	Salubri:2
-1x Omaya			   7   ANI AUS FOR pro	Gangrel antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha		Tremere antitribu:2
+Crypt (14 cards, min=20 max=30 avg=6.36)
+----------------------------------------
+4x Matthias                        7   AUS FOR OBE nec  Salubri:2
+4x Blanche Hill                    6   FOR OBE aus      Salubri:2
+2x Ian Forestal                    8   AUS DOM THA      Tremere antitribu:2
+2x Miriam Benyona                  5   AUS for obe      Salubri:2
+1x Omaya                           7   ANI AUS FOR pro  Gangrel antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha          Tremere antitribu:2
 
 Library (90 cards)
 Master (16)

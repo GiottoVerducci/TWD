@@ -6,15 +6,15 @@ Josh Duffin
 
 "Playing With Dolls"
 
-Crypt (12 cards, min=19, max=27, avg=5.83)
-------------------------------------------
-4x Blanche Hill		    6	FOR OBE aus		Salubri:2
-3x Matthias		    7	AUS FOR OBE nec		Salubri:2
-1x Marlene, The Infernalist 6	AUS DOM dem for tha	Ventrue antitribu:2
-1x Vanessa		    6	DOM FOR aus pre		Ventrue antitribu:2
-1x Billy		    5	AUS dom for		Ventrue antitribu:2
-1x Ingrid Russo		    4	DOM for			Ventrue antitribu:2
-1x Peter Blaine		    4	aus dom for		Ventrue antitribu:2
+Crypt (12 cards, min=19 max=27 avg=5.83)
+----------------------------------------
+4x Blanche Hill             6   FOR OBE aus             Salubri:2
+3x Matthias                 7   AUS FOR OBE nec         Salubri:2
+1x Marlene, The Infernalist 6   AUS DOM dem for tha     Ventrue antitribu:2
+1x Vanessa                  6   DOM FOR aus pre         Ventrue antitribu:2
+1x Billy                    5   AUS dom for             Ventrue antitribu:2
+1x Ingrid Russo             4   DOM for                 Ventrue antitribu:2
+1x Peter Blaine             4   aus dom for             Ventrue antitribu:2
 
 Library (70 cards)
 Master (14)

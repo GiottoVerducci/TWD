@@ -13,17 +13,17 @@ at the beginning. Nice experience anyway - that was my first
 tournament where I played with Imbued deck. the first and the
 last time.
 
-Crypt (12 cards, min=12, max=20, avg=4)
----------------------------------------
-3x Travis "Traveler72" Miller	 5   def mar	  Martyr:4
-2x Xian "DziDzat155" Quan	 4   def inn	  Defender:4
-1x Jennie "Cassie247" Orne	 5   inn jud viz  Visionary:4
-1x Erick "Shophet125" Franco	 4   inn jud	  Judge:4
-1x Leaf "Potter116" Pankowski	 4   inn red viz  Redeemer:4
-1x Maman Boumba			 4   inn mar	  Martyr:4
-1x Béatrice "Oracle171" Tremblay 3   inn ven	  Innocent:4
-1x Inez "Nurse216" Villagrande	 3   inn	  Innocent:4
-1x Liz "Ticket312" Thornton	 2   inn red	  Innocent:4
+Crypt (12 cards, min=12 max=20 avg=4)
+-------------------------------------
+3x Travis "Traveler72" Miller    5   def mar      Martyr:4
+2x Xian "DziDzat155" Quan        4   def inn      Defender:4
+1x Jennie "Cassie247" Orne       5   inn jud viz  Visionary:4
+1x Erick "Shophet125" Franco     4   inn jud      Judge:4
+1x Leaf "Potter116" Pankowski    4   inn red viz  Redeemer:4
+1x Maman Boumba                  4   inn mar      Martyr:4
+1x Béatrice "Oracle171" Tremblay 3   inn ven      Innocent:4
+1x Inez "Nurse216" Villagrande   3   inn          Innocent:4
+1x Liz "Ticket312" Thornton      2   inn red      Innocent:4
 
 Library (72 cards)
 Master (16)

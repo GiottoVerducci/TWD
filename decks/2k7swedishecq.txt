@@ -6,14 +6,14 @@ Roger Carhult
 
 Deck Name: Swedish ECQ Winner 2007
 
-Crypt (12 cards, min=16, max=31, avg=6)
----------------------------------------
-3x Anton	8   ANI AUS cel obf vic	 Tzimisce:2
-3x Dragos	7   ANI AUS vic		 Tzimisce:2
-2x Devin Bisley	5   ANI AUS vic		 Tzimisce:2
-2x Terrence	4   ani aus vic		 Tzimisce:2
-1x Caliban	6   ANI AUS VIC		 Tzimisce:2
-1x Wendy Wade	3   ani aus		 Tzimisce:2
+Crypt (12 cards, min=16 max=31 avg=6)
+-------------------------------------
+3x Anton        8   ANI AUS cel obf vic  Tzimisce:2
+3x Dragos       7   ANI AUS vic          Tzimisce:2
+2x Devin Bisley 5   ANI AUS vic          Tzimisce:2
+2x Terrence     4   ani aus vic          Tzimisce:2
+1x Caliban      6   ANI AUS VIC          Tzimisce:2
+1x Wendy Wade   3   ani aus              Tzimisce:2
 
 Library (90 cards)
 Master (16)

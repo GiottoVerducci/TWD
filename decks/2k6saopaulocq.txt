@@ -9,13 +9,13 @@ Deck Name: Deck Ventrue
 
 2GW11.5 + 4VP in final
 
-Crypt (12 cards, min=25, max=42, avg=8.92)
-------------------------------------------
-3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
-3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
-3x Catherine du Bois	5   DOM for obf pre				Ventrue:3
-2x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+Crypt (12 cards, min=25 max=42 avg=8.92)
+----------------------------------------
+3x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
+3x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
+3x Catherine du Bois    5   DOM for obf pre                             Ventrue:3
+2x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+1x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
 
 Library (90 cards)
 Master (19)

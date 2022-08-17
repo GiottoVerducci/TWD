@@ -23,14 +23,14 @@ Maybe the deck's biggest advantage in a tournament is that other
 players tend to underestimate its bleed potential and in general have
 trouble assessing the deck's capabilities.
 
-Crypt (12 cards, min=16, max=40, avg=7)
----------------------------------------
-4x Cock Robin		   10  ANI OBF POT aus for  justicar	Nosferatu:3
-2x Baron Dieudonne	   9   ANI OBF POT PRO	    prince	Nosferatu:4
-2x Petra		   5   ANI OBF aus	    		Nosferatu:4
-2x Beetleman		   4   ANI obf		    		Nosferatu:4
-1x Jeremy "Wix" Wyzchovsky 5   ani obf pot	    		Nosferatu:4
-1x Clarissa Steinburgen	   3   ani obf		    		Nosferatu:3
+Crypt (12 cards, min=16 max=40 avg=7)
+-------------------------------------
+4x Cock Robin              10  ANI OBF POT aus for  justicar    Nosferatu:3
+2x Baron Dieudonne         9   ANI OBF POT PRO      prince      Nosferatu:4
+2x Petra                   5   ANI OBF aus                      Nosferatu:4
+2x Beetleman               4   ANI obf                          Nosferatu:4
+1x Jeremy "Wix" Wyzchovsky 5   ani obf pot                      Nosferatu:4
+1x Clarissa Steinburgen    3   ani obf                          Nosferatu:3
 
 Library (82 cards)
 Master (19; 6 trifle)

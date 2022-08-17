@@ -6,14 +6,14 @@ Ville Kaijasaari
 
 Deck Name: Mutapaini
 
-Crypt (12 cards, min=6, max=38, avg=6.33)
------------------------------------------
-3x Nangila Were		9   ANI POT PRE obf ser			  Guruhi:4
-3x Nana Buruku		8   ANI POT PRE				  Guruhi:4
-3x Anarch Convert	1   -none-				  Caitiff:ANY
-1x Enkidu, The Noah	11  ANI CEL OBF POT PRO for		  Gangrel antitribu:4
-1x Gustaphe Brunnelle	8   ANI DOM POT obf		primogen  Nosferatu:4
-1x Andre LeRoux		3   aus					  Toreador:5
+Crypt (12 cards, min=6 max=38 avg=6.33)
+---------------------------------------
+3x Nangila Were         9   ANI POT PRE obf ser                   Guruhi:4
+3x Nana Buruku          8   ANI POT PRE                           Guruhi:4
+3x Anarch Convert       1   -none-                                Caitiff:ANY
+1x Enkidu, The Noah     11  ANI CEL OBF POT PRO for               Gangrel antitribu:4
+1x Gustaphe Brunnelle   8   ANI DOM POT obf             primogen  Nosferatu:4
+1x Andre LeRoux         3   aus                                   Toreador:5
 
 Library (66 cards)
 Master (24; 5 trifle)

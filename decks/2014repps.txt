@@ -10,14 +10,14 @@ Deck Name: Pamplona Tournament: Gon tenía razón...
 
 0.5+3 gw+0+5 gw
 
-Crypt (12 cards, min=25, max=40, avg=8.75)
-------------------------------------------
-4x Nergal (ADV)			10  AUS DAI FOR OBF PRE THA	Baali:5
-1x Nergal			10  AUS DAI FOR OBF PRE THA	Baali:5
-4x Nahum Enosh			10  AUS OBE OBF VAL for pre	Salubri:6
-1x Al-Muntathir, God's Witness	8   AUS FOR PRE TEM obf qui	True Brujah:5
-1x Pearl			4   AUS obf			Malkavian antitribu:5
-1x Veejay Vinod			3   AUS				Nagaraja:6
+Crypt (12 cards, min=25 max=40 avg=8.75)
+----------------------------------------
+4x Nergal (ADV)                 10  AUS DAI FOR OBF PRE THA     Baali:5
+1x Nergal                       10  AUS DAI FOR OBF PRE THA     Baali:5
+4x Nahum Enosh                  10  AUS OBE OBF VAL for pre     Salubri:6
+1x Al-Muntathir, God's Witness  8   AUS FOR PRE TEM obf qui     True Brujah:5
+1x Pearl                        4   AUS obf                     Malkavian antitribu:5
+1x Veejay Vinod                 3   AUS                         Nagaraja:6
 
 Library (85 cards)
 Master (16; 8 trifle)

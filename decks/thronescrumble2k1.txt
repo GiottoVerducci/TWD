@@ -3,20 +3,20 @@ Halmstad, Sweden
 December 5th 2001
 Johan Hansson
 
-Crypt (12 cards, min=7, max=19, avg=3.17)
------------------------------------------
-1x Isabel Giovanni		   5   DOM NEC pot  Giovanni:2
-1x Kurt Strauss			   5   DOM aus tha  Tremere antitribu:2
+Crypt (12 cards, min=7 max=19 avg=3.17)
+---------------------------------------
+1x Isabel Giovanni                 5   DOM NEC pot  Giovanni:2
+1x Kurt Strauss                    5   DOM aus tha  Tremere antitribu:2
 1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for  Ventrue:2
-1x Gloria Giovanni		   4   DOM nec	    Giovanni:2
-1x Ingrid Russo			   4   DOM for	    Ventrue antitribu:2
-1x Cameron			   3   dom pot	    Lasombra:2
-1x Jing Wei			   3   dom tha	    Tremere:1
-1x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
-1x Mustafa Rahman		   2   dom	    Tremere:2
-1x Ohanna			   2   dom	    Malkavian:2
-1x Samson			   2   dom	    Ventrue antitribu:2
-1x Royce			   1   dom	    Pander:2
+1x Gloria Giovanni                 4   DOM nec      Giovanni:2
+1x Ingrid Russo                    4   DOM for      Ventrue antitribu:2
+1x Cameron                         3   dom pot      Lasombra:2
+1x Jing Wei                        3   dom tha      Tremere:1
+1x Marciana Giovanni, Investigator 2   dom          Giovanni:2
+1x Mustafa Rahman                  2   dom          Tremere:2
+1x Ohanna                          2   dom          Malkavian:2
+1x Samson                          2   dom          Ventrue antitribu:2
+1x Royce                           1   dom          Pander:2
 
 Library (82 cards)
 Master (14)

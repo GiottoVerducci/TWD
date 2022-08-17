@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/8878
 
 Deck Name: Tremere Camarilla
 
-Crypt (12 cards, min=27, max=38, avg=8.08)
-------------------------------------------
-3x Carna, The Princess Witch	7   AUS DOM THA		 primogen  Tremere:3
-2x Lucas Halton			10  AUS CEL DOM THA qui	 prince	   Tremere:3
-2x Dr. John Dee			9   ANI AUS DOM THA chi	 prince	   Tremere:4
-2x Anastasz di Zagreb		8   AUS THA ani cel dom	 justicar  Tremere:3
-2x Troius			8   AUS DOM THA cel	 prince	   Tremere:4
-1x Eugenio Estevez		6   AUS THA dom for	 	   Tremere:3
+Crypt (12 cards, min=27 max=38 avg=8.08)
+----------------------------------------
+3x Carna, The Princess Witch    7   AUS DOM THA          primogen  Tremere:3
+2x Lucas Halton                 10  AUS CEL DOM THA qui  prince    Tremere:3
+2x Dr. John Dee                 9   ANI AUS DOM THA chi  prince    Tremere:4
+2x Anastasz di Zagreb           8   AUS THA ani cel dom  justicar  Tremere:3
+2x Troius                       8   AUS DOM THA cel      prince    Tremere:4
+1x Eugenio Estevez              6   AUS THA dom for                Tremere:3
 
 Library (90 cards)
 Master (14; 5 trifle)

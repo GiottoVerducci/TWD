@@ -27,13 +27,13 @@ Even though a lot of people who play regularly in the capital region attended, t
 
 Very slight changes compared to the previous version. The most interesting one I would say is getting rid of Veneficti who, in the current ally-steal heavy meta is more of a liability (and can even end up stealing my own Servitors).
 
-Crypt (12 cards, min=13, max=40, avg=6.92)
-------------------------------------------
-5x unnamed, The		   10  CEL DAI OBF PRE PRO  	    Baali:6
-2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  	    Baali:6
-2x Arishat		   6   DAI OBF PRE	    1 vote  Baali:6
-2x Horde, The		   3   dai obf pre	    	    Baali:6
-1x Anarch Convert	   1   -none-		    	    Caitiff:ANY
+Crypt (12 cards, min=13 max=40 avg=6.92)
+----------------------------------------
+5x unnamed, The            10  CEL DAI OBF PRE PRO          Baali:6
+2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro          Baali:6
+2x Arishat                 6   DAI OBF PRE          1 vote  Baali:6
+2x Horde, The              3   dai obf pre                  Baali:6
+1x Anarch Convert          1   -none-                       Caitiff:ANY
 
 Library (66 cards)
 Master (11; 4 trifle)

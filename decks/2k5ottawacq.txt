@@ -7,13 +7,13 @@ David Wilson
 
 Deck Name: Mata's Renegade War Ghouls
 
-Crypt (12 cards, min=6, max=28, avg=4.42)
------------------------------------------
-5x Mata Hari	   7   CHI OBF aus for qui  2 votes	Ravnos:4
-3x Michael Luther  4   aus pre		    		Toreador:3
-2x Piotr Andreikov 2   aus		    		Tzimisce:3
-1x Lisa Noble	   1   ani		    		Caitiff:3
-1x Sandra White	   1   -none-		    		Caitiff:3
+Crypt (12 cards, min=6 max=28 avg=4.42)
+---------------------------------------
+5x Mata Hari       7   CHI OBF aus for qui  2 votes     Ravnos:4
+3x Michael Luther  4   aus pre                          Toreador:3
+2x Piotr Andreikov 2   aus                              Tzimisce:3
+1x Lisa Noble      1   ani                              Caitiff:3
+1x Sandra White    1   -none-                           Caitiff:3
 
 Library (90 cards)
 Master (10)

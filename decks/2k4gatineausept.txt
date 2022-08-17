@@ -11,13 +11,13 @@ Here is my winning deck. This deck was built before Anarchs came out and I
 didn't have time to tweak it before the tournament. It doesn't have a lot
 of permanent votes, so I was lucky to not face any dedicated political
 
-Crypt (12 cards, min=24, max=38, avg=7.67)
-------------------------------------------
-3x Cailean	  10  ANI OBF POT PRE dom  archbishop	Nosferatu antitribu:2
-3x Howler	  8   ANI PRE SPI obf	   		Ahrimane:2
-3x Siamese, The	  7   PRE SPI ani pro	   		Ahrimane:2
-2x Cynthia Ingold 6   SPI ani for pre	   		Ahrimane:2
-1x Nettie Hale	  5   ani cel pre pro spi  		Ahrimane:2
+Crypt (12 cards, min=24 max=38 avg=7.67)
+----------------------------------------
+3x Cailean        10  ANI OBF POT PRE dom  archbishop   Nosferatu antitribu:2
+3x Howler         8   ANI PRE SPI obf                   Ahrimane:2
+3x Siamese, The   7   PRE SPI ani pro                   Ahrimane:2
+2x Cynthia Ingold 6   SPI ani for pre                   Ahrimane:2
+1x Nettie Hale    5   ani cel pre pro spi               Ahrimane:2
 
 Library (85 cards)
 Master (12)

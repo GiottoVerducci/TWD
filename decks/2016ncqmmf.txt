@@ -9,16 +9,16 @@ https://www.vekn.net/event-calendar/event/8296
 Deck Name: New Nana (27)
 Created by: Alain Greiner
 
-Crypt (15 cards, min=4, max=32, avg=4.2)
-----------------------------------------
-5x Anarch Convert	1   -none-	 Caitiff:ANY
-4x Nana Buruku		8   ANI POT PRE	 Guruhi:4
-1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
-1x Fish			5   ANI POT pre	 Guruhi:4
-1x Petra		5   ANI OBF aus	 Nosferatu:4
-1x Beetleman		4   ANI obf	 Nosferatu:4
-1x Bobby Lemon		4   ANI pro	 Gangrel:3
-1x Stick		3   ANI		 Nosferatu antitribu:4
+Crypt (15 cards, min=4 max=32 avg=4.2)
+--------------------------------------
+5x Anarch Convert       1   -none-       Caitiff:ANY
+4x Nana Buruku          8   ANI POT PRE  Guruhi:4
+1x Céleste Lamontagne   5   ANI PRO for  Gangrel antitribu:4
+1x Fish                 5   ANI POT pre  Guruhi:4
+1x Petra                5   ANI OBF aus  Nosferatu:4
+1x Beetleman            4   ANI obf      Nosferatu:4
+1x Bobby Lemon          4   ANI pro      Gangrel:3
+1x Stick                3   ANI          Nosferatu antitribu:4
 
 Library (90 cards)
 Master (33; 5 trifle)

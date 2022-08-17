@@ -10,14 +10,14 @@ Created by: Arsene
 Description: Version personnelle avec mes cartes disponibles
 (Personal version with the cards i have)
 
-Crypt (12 cards, min=8, max=27, avg=4.75)
------------------------------------------
-4x Henry Taylor		6   POT cel pre pro	 Brujah antitribu:3
-3x Khalu		7   AUS CEL POT ani pro	 Osebo:3
-2x Feo Ramos		1   aus			 Pander:3
-1x Jane Sims		4   VIC ani aus pro	 Tzimisce:4
-1x Martin Franckel	3   AUS tha		 Tremere:3
-1x Yvette, The Hopeless	3   aus cel		 Toreador:3
+Crypt (12 cards, min=8 max=27 avg=4.75)
+---------------------------------------
+4x Henry Taylor         6   POT cel pre pro      Brujah antitribu:3
+3x Khalu                7   AUS CEL POT ani pro  Osebo:3
+2x Feo Ramos            1   aus                  Pander:3
+1x Jane Sims            4   VIC ani aus pro      Tzimisce:4
+1x Martin Franckel      3   AUS tha              Tremere:3
+1x Yvette, The Hopeless 3   aus cel              Toreador:3
 
 Library (60 cards)
 Master (26)

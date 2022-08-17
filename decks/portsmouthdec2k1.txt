@@ -5,23 +5,23 @@ Rob Treasure
 
 Deck Name: "The smell of victory"
 
-Crypt (15 cards, min=11, max=16, avg=3.67)
-------------------------------------------
-1x Aleph			4   AUS dom	 Malkavian:1
-1x Courtland Leighton		4   dom for pre	 Ventrue:1
-1x Francesca Giovanni		4   dom nec pot	 Giovanni:2
-1x Ignacio, The Black Priest	4   dom obt pot	 Lasombra:2
-1x Ignatius			4   aus dom tha	 Tremere:1
-1x Laurent de Valois		4   ani dom obf	 Nosferatu:2
-1x Peter Blaine			4   aus dom for	 Ventrue antitribu:2
-1x Ramiro			4   dom obt vic	 Lasombra:2
-1x Roland Bishop		4   aus dom obf	 Malkavian:1
-1x Sarah Cobbler		4   THA dom	 Tremere:1
-1x Shane Grimald		4   ani dom pot	 Gangrel antitribu:2
-1x Thelonius			4   aus dom tha	 Tremere antitribu:2
-1x Violette Prentiss		4   PRE dom	 Ventrue:1
-1x Ohanna			2   dom		 Malkavian:2
-1x Royce			1   dom		 Pander:2
+Crypt (15 cards, min=11 max=16 avg=3.67)
+----------------------------------------
+1x Aleph                        4   AUS dom      Malkavian:1
+1x Courtland Leighton           4   dom for pre  Ventrue:1
+1x Francesca Giovanni           4   dom nec pot  Giovanni:2
+1x Ignacio, The Black Priest    4   dom obt pot  Lasombra:2
+1x Ignatius                     4   aus dom tha  Tremere:1
+1x Laurent de Valois            4   ani dom obf  Nosferatu:2
+1x Peter Blaine                 4   aus dom for  Ventrue antitribu:2
+1x Ramiro                       4   dom obt vic  Lasombra:2
+1x Roland Bishop                4   aus dom obf  Malkavian:1
+1x Sarah Cobbler                4   THA dom      Tremere:1
+1x Shane Grimald                4   ani dom pot  Gangrel antitribu:2
+1x Thelonius                    4   aus dom tha  Tremere antitribu:2
+1x Violette Prentiss            4   PRE dom      Ventrue:1
+1x Ohanna                       2   dom          Malkavian:2
+1x Royce                        1   dom          Pander:2
 
 Library (82 cards)
 Master (22)

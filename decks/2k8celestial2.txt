@@ -31,11 +31,11 @@ Parthenon, you'll hand jam on Masters. It's very rare that I discard
 a Trophy: Progeny in this deck. Golconda was very helpful to keep me
 (or an ally) in the game long enough for the combo to go off.
 
-Crypt (12 cards, min=20, max=32, avg=7)
----------------------------------------
-5x Anson				 8   CEL PRE aus dom	prince	Toreador:1
-5x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	Toreador antitribu:2
-2x Carter				 2   cel			Toreador antitribu:2
+Crypt (12 cards, min=20 max=32 avg=7)
+-------------------------------------
+5x Anson                                 8   CEL PRE aus dom    prince  Toreador:1
+5x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro    bishop  Toreador antitribu:2
+2x Carter                                2   cel                        Toreador antitribu:2
 
 Library (90 cards)
 Master (37)

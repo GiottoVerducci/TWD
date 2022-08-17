@@ -13,17 +13,17 @@ Tournament winning deck originally, almost full copy of swedish nationals 2016
 winner. Lovely deck, and was ultimately good choice on the tournament I played
 it.
 
-Crypt (12 cards, min=4, max=16, avg=2.5)
-----------------------------------------
-4x Anarch Convert	1   -none-	 Caitiff:ANY
-1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
-1x Beetleman		4   ANI obf	 Nosferatu:4
-1x Bobby Lemon		4   ANI pro	 Gangrel:3
-1x Clarissa Steinburgen	3   ani obf	 Nosferatu:3
-1x Darva Felispa	3   ani pot	 Nosferatu:3
-1x Stick		3   ANI		 Nosferatu antitribu:4
-1x Mouse		2   ani		 Nosferatu:3
-1x Zip			2   ani		 Ravnos:3
+Crypt (12 cards, min=4 max=16 avg=2.5)
+--------------------------------------
+4x Anarch Convert       1   -none-       Caitiff:ANY
+1x Céleste Lamontagne   5   ANI PRO for  Gangrel antitribu:4
+1x Beetleman            4   ANI obf      Nosferatu:4
+1x Bobby Lemon          4   ANI pro      Gangrel:3
+1x Clarissa Steinburgen 3   ani obf      Nosferatu:3
+1x Darva Felispa        3   ani pot      Nosferatu:3
+1x Stick                3   ANI          Nosferatu antitribu:4
+1x Mouse                2   ani          Nosferatu:3
+1x Zip                  2   ani          Ravnos:3
 
 Library (81 cards)
 Master (13; 1 trifle)

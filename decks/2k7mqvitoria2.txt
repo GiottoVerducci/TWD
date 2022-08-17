@@ -7,19 +7,19 @@ Ramon Moure
 
 Deck Name: Weenie Auspex with guns
 
-Crypt (12 cards, min=8, max=14, avg=2.83)
------------------------------------------
-2x Isabel de Leon		3   AUS		 Toreador:2
-1x Maldavis			4   AUS for pre	 Caitiff:3
-1x Remilliard, Devout Crusader	4   AUS pre	 Toreador antitribu:2
-1x David Morgan, The Scourge	3   aus pot	 Malkavian:3
-1x Juan Cali			3   aus for	 Ventrue antitribu:2
-1x Martin Franckel		3   AUS tha	 Tremere:3
-1x Saiz				3   aus dom	 Tremere antitribu:3
-1x Sister Evelyn		3   aus dom	 Ventrue antitribu:3
-1x Nicholas Chang		2   aus		 Toreador antitribu:3
-1x Piotr Andreikov		2   aus		 Tzimisce:3
-1x Feo Ramos			1   aus		 Pander:3
+Crypt (12 cards, min=8 max=14 avg=2.83)
+---------------------------------------
+2x Isabel de Leon               3   AUS          Toreador:2
+1x Maldavis                     4   AUS for pre  Caitiff:3
+1x Remilliard, Devout Crusader  4   AUS pre      Toreador antitribu:2
+1x David Morgan, The Scourge    3   aus pot      Malkavian:3
+1x Juan Cali                    3   aus for      Ventrue antitribu:2
+1x Martin Franckel              3   AUS tha      Tremere:3
+1x Saiz                         3   aus dom      Tremere antitribu:3
+1x Sister Evelyn                3   aus dom      Ventrue antitribu:3
+1x Nicholas Chang               2   aus          Toreador antitribu:3
+1x Piotr Andreikov              2   aus          Tzimisce:3
+1x Feo Ramos                    1   aus          Pander:3
 
 Library (78 cards)
 Master (16)

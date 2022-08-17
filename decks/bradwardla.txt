@@ -3,16 +3,16 @@ Los Angeles, California
 May 27th 2001
 Brad Ward
 
-Crypt (12 cards, min=12, max=24, avg=4.42)
-------------------------------------------
-2x Dancin' Dana		  6   AUS cel obf	Malkavian:1
-2x Victoria		  5   AUS cel obf	Malkavian:2
-2x Watenda		  3   obf		Malkavian:2
-2x Zöe			  3   AUS cel obf	Malkavian:2
-1x Ozmo			  6   AUS dom obf	Malkavian:1
-1x Quira, The Bitch Queen 6   AUS OBF obt tha	Malkavian antitribu:2
-1x Aleph		  4   AUS dom		Malkavian:1
-1x Dollface		  3   aus obf		Malkavian:1
+Crypt (12 cards, min=12 max=24 avg=4.42)
+----------------------------------------
+2x Dancin' Dana           6   AUS cel obf       Malkavian:1
+2x Victoria               5   AUS cel obf       Malkavian:2
+2x Watenda                3   obf               Malkavian:2
+2x Zöe                    3   AUS cel obf       Malkavian:2
+1x Ozmo                   6   AUS dom obf       Malkavian:1
+1x Quira, The Bitch Queen 6   AUS OBF obt tha   Malkavian antitribu:2
+1x Aleph                  4   AUS dom           Malkavian:1
+1x Dollface               3   aus obf           Malkavian:1
 
 Library (90 cards)
 Master (15)

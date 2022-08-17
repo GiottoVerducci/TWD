@@ -48,16 +48,16 @@ Henry Taylor.
 
 I won on seeding in a 2-2-1 result.
 
-Crypt (13 cards, min=4, max=10, avg=1.69)
------------------------------------------
-6x Anarch Convert		1   -none-	Caitiff:ANY
-1x Ali Kar			3   obf qui	Assamite:3
-1x Milo, The Invisible Horror	3   aus obf	Malkavian:3
-1x Bloodfeud			2   obf		Malkavian antitribu:4
-1x Denette Stensen		2   obf		Gangrel antitribu:4
-1x Hanna Redmonds		2   obf tha	Caitiff:3
-1x Krid				2   obf		Nosferatu:3
-1x Old Neddacka			2   obf		Nosferatu antitribu:4
+Crypt (13 cards, min=4 max=10 avg=1.69)
+---------------------------------------
+6x Anarch Convert               1   -none-      Caitiff:ANY
+1x Ali Kar                      3   obf qui     Assamite:3
+1x Milo, The Invisible Horror   3   aus obf     Malkavian:3
+1x Bloodfeud                    2   obf         Malkavian antitribu:4
+1x Denette Stensen              2   obf         Gangrel antitribu:4
+1x Hanna Redmonds               2   obf tha     Caitiff:3
+1x Krid                         2   obf         Nosferatu:3
+1x Old Neddacka                 2   obf         Nosferatu antitribu:4
 
 Library (60 cards)
 Master (14; 2 trifle)

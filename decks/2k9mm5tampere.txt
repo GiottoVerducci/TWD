@@ -8,20 +8,20 @@ Deck Name: Reflections
 
 Description: Hope to see no narrow minds
 
-Crypt (12 cards, min=12, max=26, avg=5)
----------------------------------------
-1x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
-1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		  Tremere:2
-1x Elena Mendoza Vasquez	6   AUS THA dom obt		  Tremere antitribu:3
-1x Eugenio Estevez		6   AUS THA dom for		  Tremere:3
-1x Selena			6   AUS DOM THA			  Tremere antitribu:3
-1x Yasmin the Black		6   AUS THA dom pre		  Tremere antitribu:3
-1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
-1x Hannigan			5   AUS THA dom			  Tremere antitribu:2
-1x Blythe Candeleria		3   THA aus			  Tremere:2
-1x Ehrich Weiss			3   dom tha			  Tremere:3
-1x Martin Franckel		3   AUS tha			  Tremere:3
-1x Masika St. John		3   THA				  Tremere:3
+Crypt (12 cards, min=12 max=26 avg=5)
+-------------------------------------
+1x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
+1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for               Tremere:2
+1x Elena Mendoza Vasquez        6   AUS THA dom obt               Tremere antitribu:3
+1x Eugenio Estevez              6   AUS THA dom for               Tremere:3
+1x Selena                       6   AUS DOM THA                   Tremere antitribu:3
+1x Yasmin the Black             6   AUS THA dom pre               Tremere antitribu:3
+1x Aisling Sturbridge           5   AUS THA dom                   Tremere:2
+1x Hannigan                     5   AUS THA dom                   Tremere antitribu:2
+1x Blythe Candeleria            3   THA aus                       Tremere:2
+1x Ehrich Weiss                 3   dom tha                       Tremere:3
+1x Martin Franckel              3   AUS tha                       Tremere:3
+1x Masika St. John              3   THA                           Tremere:3
 
 Library (90 cards)
 Master (18; 9 trifle)

@@ -8,15 +8,15 @@ https://www.vekn.net/event-calendar/event/7950
 
 Deck Name: Tunnel Runner
 
-Crypt (12 cards, min=12, max=22, avg=4.5)
------------------------------------------
-4x Jacob Fermor	 5   PRO ani tha	Gangrel:4
-2x Kikiyaon, The 5   FOR abo ani	Akunanse:4
-2x Dolie	 3   abo ani		Akunanse:4
-1x Jubal	 6   ABO ANI for pot	Akunanse:4
-1x Sanjo	 6   ANI FOR abo chi	Akunanse:3
-1x Nestor Kaba	 4   abo ani for	Akunanse:4
-1x Meno Ngari	 2   abo		Akunanse:4
+Crypt (12 cards, min=12 max=22 avg=4.5)
+---------------------------------------
+4x Jacob Fermor  5   PRO ani tha        Gangrel:4
+2x Kikiyaon, The 5   FOR abo ani        Akunanse:4
+2x Dolie         3   abo ani            Akunanse:4
+1x Jubal         6   ABO ANI for pot    Akunanse:4
+1x Sanjo         6   ANI FOR abo chi    Akunanse:3
+1x Nestor Kaba   4   abo ani for        Akunanse:4
+1x Meno Ngari    2   abo                Akunanse:4
 
 Library (76 cards)
 Master (19; 4 trifle)

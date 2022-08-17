@@ -7,15 +7,15 @@ Martin Weinmayer
 
 Deck Name: Governed by Erol
 
-Crypt (12 cards, min=35, max=44, avg=10)
-----------------------------------------
-4x Stanislava		   11  ANI CEL DOM FOR PRO	inner circle	Gangrel:2
-2x Angus the Unruled	   10  ANI PRO cel for pot	justicar	Gangrel:1
-2x Ingrid Rossler	   9   ANI FOR PRO dom		prince		Gangrel:2
-1x Etrius		   11  AUS DOM OBF THA pro	inner circle	Tremere:2
-1x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro	justicar	Brujah:1
-1x Genevieve		   10  ANI FOR PRO aus dom	priscus		Gangrel antitribu:2
-1x Greger Anderssen	   7   AUS OBF dom pro		prince		Malkavian:2
+Crypt (12 cards, min=35 max=44 avg=10)
+--------------------------------------
+4x Stanislava              11  ANI CEL DOM FOR PRO      inner circle    Gangrel:2
+2x Angus the Unruled       10  ANI PRO cel for pot      justicar        Gangrel:1
+2x Ingrid Rossler          9   ANI FOR PRO dom          prince          Gangrel:2
+1x Etrius                  11  AUS DOM OBF THA pro      inner circle    Tremere:2
+1x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro  justicar        Brujah:1
+1x Genevieve               10  ANI FOR PRO aus dom      priscus         Gangrel antitribu:2
+1x Greger Anderssen        7   AUS OBF dom pro          prince          Malkavian:2
 
 Library (80 cards)
 Master (16; 6 trifle)

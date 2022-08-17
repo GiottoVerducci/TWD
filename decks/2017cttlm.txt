@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/8616
 
 Deck Name: Madame Guil: "The executioner"
 
-Crypt (12 cards, min=10, max=40, avg=6.5)
------------------------------------------
-4x Madame Guil		   10  AUS CEL PRE for pot ser	justicar  Toreador:3
-3x Emerson Wilkershire III 2   pre				  Toreador:3
-2x Epikasta Rigatos	   8   AUS DOM PRE cel		prince	  Toreador:4
-2x Michael Luther	   4   aus pre				  Toreador:3
-1x Fleurdumal		   8   AUS DEM PRE cel tha	prince	  Toreador:3
+Crypt (12 cards, min=10 max=40 avg=6.5)
+---------------------------------------
+4x Madame Guil             10  AUS CEL PRE for pot ser  justicar  Toreador:3
+3x Emerson Wilkershire III 2   pre                                Toreador:3
+2x Epikasta Rigatos        8   AUS DOM PRE cel          prince    Toreador:4
+2x Michael Luther          4   aus pre                            Toreador:3
+1x Fleurdumal              8   AUS DEM PRE cel tha      prince    Toreador:3
 
 Library (60 cards)
 Master (10)

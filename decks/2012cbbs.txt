@@ -11,18 +11,18 @@ Deck Name: ¿O_O? Madness ¿O_O?...
 
 Description: 1(1) + 2(4) + 3(4) = 2GW9 Final= 4
 
-Crypt (12 cards, min=9, max=20, avg=3.5)
-----------------------------------------
-2x Jackie			3   DEM				    Malkavian antitribu:4
-2x Midget			3   DEM obf pre			    Malkavian antitribu:3
-1x Morel			6   AUS DEM OBF			    Malkavian:4
-1x Apache Jones			5   DEM aus for obf		    Malkavian antitribu:4
-1x Persia, The Beautiful Statue	5   DEM aus obf			    Malkavian:3
-1x Fabrizia Contreraz		4   dem pot		archbishop  Malkavian antitribu:4
-1x Sean Rycek			4   aus dem			    Malkavian:4
-1x Marta			3   aus dem			    Malkavian antitribu:4
-1x Cassandra Langely, The Waif	2   dem				    Malkavian:4
-1x Eddie Gaines			1   dem pot			    Caitiff:3
+Crypt (12 cards, min=9 max=20 avg=3.5)
+--------------------------------------
+2x Jackie                       3   DEM                             Malkavian antitribu:4
+2x Midget                       3   DEM obf pre                     Malkavian antitribu:3
+1x Morel                        6   AUS DEM OBF                     Malkavian:4
+1x Apache Jones                 5   DEM aus for obf                 Malkavian antitribu:4
+1x Persia, The Beautiful Statue 5   DEM aus obf                     Malkavian:3
+1x Fabrizia Contreraz           4   dem pot             archbishop  Malkavian antitribu:4
+1x Sean Rycek                   4   aus dem                         Malkavian:4
+1x Marta                        3   aus dem                         Malkavian antitribu:4
+1x Cassandra Langely, The Waif  2   dem                             Malkavian:4
+1x Eddie Gaines                 1   dem pot                         Caitiff:3
 
 Library (75 cards)
 Master (16; 2 trifle)

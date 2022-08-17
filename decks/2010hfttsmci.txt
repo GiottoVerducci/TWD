@@ -6,12 +6,12 @@ Francesco D'alessio
 
 Deck Name: il Fakiro d'Alessio
 
-Crypt (12 cards, min=26, max=44, avg=9)
----------------------------------------
-5x Fakir al Sidi  11  ANI FOR PRE PRO THA abo	Gangrel:4
-4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
-2x Beth Malcolm	  6   FOR PRE ani		Ventrue:5
-1x Shasa Abu Badr 5   PRE cel for		Ishtarri:4
+Crypt (12 cards, min=26 max=44 avg=9)
+-------------------------------------
+5x Fakir al Sidi  11  ANI FOR PRE PRO THA abo   Gangrel:4
+4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha   Gangrel antitribu:4
+2x Beth Malcolm   6   FOR PRE ani               Ventrue:5
+1x Shasa Abu Badr 5   PRE cel for               Ishtarri:4
 
 Library (90 cards)
 Master (25; 8 trifle)

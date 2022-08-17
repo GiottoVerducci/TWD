@@ -7,15 +7,15 @@ James Messer
 
 Deck Name: African Library
 
-Crypt (12 cards, min=16, max=39, avg=6.58)
-------------------------------------------
-3x Cesewayo	 10  AUS CEL DOM POT THA ani	magaji	Osebo:4
-2x Homa		 6   AUS CEL POT			Osebo:4
-2x Titi Camara	 5   AUS CEL pot			Osebo:5
-2x Idrissa	 4   CEL aus				Osebo:4
-1x Massassi	 9   AUS CEL POT QUI obf		Osebo:4
-1x Mamadou Keita 7   CEL aus pot pre vic	magaji	Osebo:4
-1x Kamaria	 3   aus pot				Osebo:4
+Crypt (12 cards, min=16 max=39 avg=6.58)
+----------------------------------------
+3x Cesewayo      10  AUS CEL DOM POT THA ani    magaji  Osebo:4
+2x Homa          6   AUS CEL POT                        Osebo:4
+2x Titi Camara   5   AUS CEL pot                        Osebo:5
+2x Idrissa       4   CEL aus                            Osebo:4
+1x Massassi      9   AUS CEL POT QUI obf                Osebo:4
+1x Mamadou Keita 7   CEL aus pot pre vic        magaji  Osebo:4
+1x Kamaria       3   aus pot                            Osebo:4
 
 Library (72 cards)
 Master (23; 3 trifle)

@@ -9,12 +9,12 @@ Leslie Tatel
 
 Deck Name: Death comes (at) every turn
 
-Crypt (12 cards, min=28, max=32, avg=7.33)
-------------------------------------------
-4x Theo Bell				7   POT cel dom pre	 	 Brujah:2
-1x Theo Bell (ADV)			7   CEL POT PRE aus dom	 	 Brujah:2
-4x Dónal O'Connor			8   CEL DOM POT		 prince	 Brujah:2
-3x Beast, The Leatherface of Detroit	7   OBF POT ani cel	 	 Nosferatu antitribu:2
+Crypt (12 cards, min=28 max=32 avg=7.33)
+----------------------------------------
+4x Theo Bell                            7   POT cel dom pre              Brujah:2
+1x Theo Bell (ADV)                      7   CEL POT PRE aus dom          Brujah:2
+4x Dónal O'Connor                       8   CEL DOM POT          prince  Brujah:2
+3x Beast, The Leatherface of Detroit    7   OBF POT ani cel              Nosferatu antitribu:2
 
 Library (76 cards)
 Master (14; 4 trifle)

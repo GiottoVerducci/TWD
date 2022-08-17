@@ -6,10 +6,10 @@ Tony Wedd
 
 Deck Name: Maelific
 
-Crypt (12 cards, min=12, max=40, avg=5.92)
-------------------------------------------
-7x Horde, The	3   dai obf pre		 Baali:6
-5x unnamed, The	10  CEL DAI OBF PRE PRO	 Baali:6
+Crypt (12 cards, min=12 max=40 avg=5.92)
+----------------------------------------
+7x Horde, The   3   dai obf pre          Baali:6
+5x unnamed, The 10  CEL DAI OBF PRE PRO  Baali:6
 
 Library (78 cards)
 Master (24; 10 trifle)

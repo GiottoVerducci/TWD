@@ -13,14 +13,14 @@ Created by: Jordi Bestard
 
 Special thanks to Moisés Ferrer Gallegos, main creator of the deck and great friend
 
-Crypt (12 cards, min=20, max=32, avg=6.67)
-------------------------------------------
-2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
-2x Gilbert Duane		7   AUS DOM OBF		 prince	   Malkavian:1
-2x Greger Anderssen		7   AUS OBF dom pro	 prince	   Malkavian:2
-2x Korah			7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
-2x Murat			7   OBF POT ser		 prince	   Nosferatu:2
-2x Zöe				3   AUS cel obf		 	   Malkavian:2
+Crypt (12 cards, min=20 max=32 avg=6.67)
+----------------------------------------
+2x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
+2x Gilbert Duane                7   AUS DOM OBF          prince    Malkavian:1
+2x Greger Anderssen             7   AUS OBF dom pro      prince    Malkavian:2
+2x Korah                        7   AUS DEM OBF ani      priscus   Malkavian antitribu:2
+2x Murat                        7   OBF POT ser          prince    Nosferatu:2
+2x Zöe                          3   AUS cel obf                    Malkavian:2
 
 Library (63 cards)
 Master (11)

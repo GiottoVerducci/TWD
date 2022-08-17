@@ -8,17 +8,17 @@ https://www.vekn.net/event-calendar/event/8500
 
 -- 1.5VP in final
 
-Crypt (14 cards, min=21, max=38, avg=7.64)
-------------------------------------------
-4x Paul Cordwood	8   AUS DOM THA obf pre		bishop	    Tremere antitribu:4
-2x Lernean		10  AUS CEL DOM THA for pro	cardinal    Tremere antitribu:4
-2x Malgorzata		9   AUS DOM THA VIC pre		priscus	    Tremere antitribu:4
-1x Eric Kressida	8   AUS DOM PRO THA cel		bishop	    Tremere antitribu:4
-1x Uta Kovacs		8   AUS DOM THA ser			    Tremere antitribu:4
-1x Ash Harrison		7   AUS THA cel dom			    Tremere antitribu:5
-1x Johannes Worringen	6   AUS THA dom			archbishop  Tremere antitribu:5
-1x Frondator		5   AUS dom tha			bishop	    Tremere antitribu:4
-1x Keith Moody		3   DOM					    Tremere antitribu:4
+Crypt (14 cards, min=21 max=38 avg=7.64)
+----------------------------------------
+4x Paul Cordwood        8   AUS DOM THA obf pre         bishop      Tremere antitribu:4
+2x Lernean              10  AUS CEL DOM THA for pro     cardinal    Tremere antitribu:4
+2x Malgorzata           9   AUS DOM THA VIC pre         priscus     Tremere antitribu:4
+1x Eric Kressida        8   AUS DOM PRO THA cel         bishop      Tremere antitribu:4
+1x Uta Kovacs           8   AUS DOM THA ser                         Tremere antitribu:4
+1x Ash Harrison         7   AUS THA cel dom                         Tremere antitribu:5
+1x Johannes Worringen   6   AUS THA dom                 archbishop  Tremere antitribu:5
+1x Frondator            5   AUS dom tha                 bishop      Tremere antitribu:4
+1x Keith Moody          3   DOM                                     Tremere antitribu:4
 
 Library (90 cards)
 Master (18; 4 trifle)

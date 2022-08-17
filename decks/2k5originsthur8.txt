@@ -5,18 +5,18 @@ June 30th 2005
 14 players
 Connor Bell
 
-Crypt (12 cards, min=16, max=28, avg=5.5)
------------------------------------------
-2x Sarrasine			7   OBF PRE aus nec ser	 Follower of Set:2
-2x Sir Marriot D'Urban		5   PRE aus obf ser	 Follower of Set:2
-1x Greta Kircher		7   AUS CEL PRE obf	 Toreador antitribu:2
-1x Qufur am-Heru		7   OBF PRE SER cel tha	 Follower of Set:2
-1x Ezekiel, Lord of Montreal	6   PRE SER obf pot	 Follower of Set:3
-1x Hesha Ruhadze		6   SER ani obf pre	 Follower of Set:2
-1x Count Ormonde		5   OBF dom pre ser	 Follower of Set:2
-1x Hadrian Garrick		4   obf pre		 Follower of Set:2
-1x Nepata			4   obf pre ser		 Follower of Set:2
-1x Lena Rowe			3   aus obf pre		 Pander:2
+Crypt (12 cards, min=16 max=28 avg=5.5)
+---------------------------------------
+2x Sarrasine                    7   OBF PRE aus nec ser  Follower of Set:2
+2x Sir Marriot D'Urban          5   PRE aus obf ser      Follower of Set:2
+1x Greta Kircher                7   AUS CEL PRE obf      Toreador antitribu:2
+1x Qufur am-Heru                7   OBF PRE SER cel tha  Follower of Set:2
+1x Ezekiel, Lord of Montreal    6   PRE SER obf pot      Follower of Set:3
+1x Hesha Ruhadze                6   SER ani obf pre      Follower of Set:2
+1x Count Ormonde                5   OBF dom pre ser      Follower of Set:2
+1x Hadrian Garrick              4   obf pre              Follower of Set:2
+1x Nepata                       4   obf pre ser          Follower of Set:2
+1x Lena Rowe                    3   aus obf pre          Pander:2
 
 Library (90 cards)
 Master (17)

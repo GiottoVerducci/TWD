@@ -12,14 +12,14 @@ Description: Combining the Tupdog Rush Combat with Nephandus Swarm Bleed
 
 amaranth.vtes.co.nz/#deck/8ae2bed1-6ba5-4fbf-a967-be22f7598e29
 
-Crypt (25 cards, min=4, max=20, avg=2.16)
------------------------------------------
-16x Tupdog		1    POT VIS		Gargoyle:3
-5x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
-1x  Janine		4    aus dom tha	Tremere antitribu:4
-1x  Ember Wright	3    aus dom		Tremere antitribu:3
-1x  Keith Moody		3    DOM		Tremere antitribu:4
-1x  Saiz		3    aus dom		Tremere antitribu:3
+Crypt (25 cards, min=4 max=20 avg=2.16)
+---------------------------------------
+16x Tupdog              1    POT VIS            Gargoyle:3
+5x  Antonio d'Erlette   5    THA dom for pot    Tremere antitribu:4
+1x  Janine              4    aus dom tha        Tremere antitribu:4
+1x  Ember Wright        3    aus dom            Tremere antitribu:3
+1x  Keith Moody         3    DOM                Tremere antitribu:4
+1x  Saiz                3    aus dom            Tremere antitribu:3
 
 Library (86 cards)
 Master (31; 2 trifle)

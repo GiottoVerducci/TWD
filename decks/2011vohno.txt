@@ -9,13 +9,13 @@ Brad Cashdollar
 
 Deck Name: LittleBob's Angry Dragon
 
-Crypt (12 cards, min=22, max=31, avg=6.58)
-------------------------------------------
-3x Diego Giovanni	8   CHI DOM NEC POT ani	 Giovanni:5
-3x Gualtiero Ghiberti	7   DOM NEC cel pot tha	 Giovanni:4
-3x Raphaela Giovanni	6   DOM NEC pot pre	 Giovanni:4
-2x Accorri Giovanni	6   DOM POT ani nec	 Giovanni:5
-1x Kay Polerno		4   dom nec pro		 Giovanni:5
+Crypt (12 cards, min=22 max=31 avg=6.58)
+----------------------------------------
+3x Diego Giovanni       8   CHI DOM NEC POT ani  Giovanni:5
+3x Gualtiero Ghiberti   7   DOM NEC cel pot tha  Giovanni:4
+3x Raphaela Giovanni    6   DOM NEC pot pre      Giovanni:4
+2x Accorri Giovanni     6   DOM POT ani nec      Giovanni:5
+1x Kay Polerno          4   dom nec pro          Giovanni:5
 
 Library (90 cards)
 Master (11; 4 trifle)

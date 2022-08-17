@@ -28,14 +28,14 @@ Melinda should have been another Anton de Concepcion,
 Ancient Influence and Reins power felt bit weak with 9 cap being usually biggest
 Added ally hate felt good
 
-Crypt (12 cards, min=32, max=37, avg=8.5)
------------------------------------------
-3x Charles Delmare	 8   DOM OBT POT cel		cardinal    Lasombra:5
-2x Antón de Concepción	 9   ANI DOM OBT POT aus	archbishop  Lasombra:4
-2x Carolina Vález	 9   DOM OBT POT PRE aus	archbishop  Lasombra:5
-2x Lord Leopold Valdemar 8   OBT POT cel dom obf	priscus	    Lasombra:5
-2x Percival		 8   FOR OBT POT aus dom	archbishop  Lasombra:5
-1x Melinda Galbraith	 10  AUS CEL DOM POT PRE obt	cardinal    Lasombra:4
+Crypt (12 cards, min=32 max=37 avg=8.5)
+---------------------------------------
+3x Charles Delmare       8   DOM OBT POT cel            cardinal    Lasombra:5
+2x Antón de Concepción   9   ANI DOM OBT POT aus        archbishop  Lasombra:4
+2x Carolina Vález        9   DOM OBT POT PRE aus        archbishop  Lasombra:5
+2x Lord Leopold Valdemar 8   OBT POT cel dom obf        priscus     Lasombra:5
+2x Percival              8   FOR OBT POT aus dom        archbishop  Lasombra:5
+1x Melinda Galbraith     10  AUS CEL DOM POT PRE obt    cardinal    Lasombra:4
 
 Library (78 cards)
 Master (17; 4 trifle)

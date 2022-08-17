@@ -8,17 +8,17 @@ Deck Name: The Last Days Of (*Presence*) Disco
 
 Deck creator: Nick Watkins - nickwatkins@earthlink.net
 
-Crypt (13 cards, min=13, max=28, avg=5.46)
-------------------------------------------
-3x Jost Werner			6   AUS PRE ani			    Toreador antitribu:2
-2x Greta Kircher		7   AUS CEL PRE obf		    Toreador antitribu:2
-2x Sheila Mezarin		6   AUS PRE cel for		    Toreador antitribu:2
-1x Lachlan, Noddist		8   AUS CEL PRE dom	archbishop  Toreador antitribu:2
-1x Ian Wallingford		6   CEL PRE aus		bishop	    Toreador antitribu:2
-1x Mariana Gilbert		4   PRE cel			    Toreador:1
-1x Remilliard, Devout Crusader	4   AUS pre			    Toreador antitribu:2
-1x Lolita			3   for pre			    Toreador antitribu:2
-1x Delilah Easton		2   pre				    Toreador:1
+Crypt (13 cards, min=13 max=28 avg=5.46)
+----------------------------------------
+3x Jost Werner                  6   AUS PRE ani                     Toreador antitribu:2
+2x Greta Kircher                7   AUS CEL PRE obf                 Toreador antitribu:2
+2x Sheila Mezarin               6   AUS PRE cel for                 Toreador antitribu:2
+1x Lachlan, Noddist             8   AUS CEL PRE dom     archbishop  Toreador antitribu:2
+1x Ian Wallingford              6   CEL PRE aus         bishop      Toreador antitribu:2
+1x Mariana Gilbert              4   PRE cel                         Toreador:1
+1x Remilliard, Devout Crusader  4   AUS pre                         Toreador antitribu:2
+1x Lolita                       3   for pre                         Toreador antitribu:2
+1x Delilah Easton               2   pre                             Toreador:1
 
 Library (90 cards)
 Master (28)

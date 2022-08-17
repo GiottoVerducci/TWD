@@ -7,15 +7,15 @@ Arild Mehn Andersen
 
 Deck Name: Tørrgjær
 
-Crypt (12 cards, min=13, max=32, avg=6.25)
-------------------------------------------
-2x Constanza Vinti		8   CEL DOM POT		 prince	   Brujah:2
-2x Dónal O'Connor		8   CEL DOM POT		 prince	   Brujah:2
-2x Jacko			8   CEL POT PRE obt	 	   Brujah antitribu:2
-2x Theo Bell			7   POT cel dom pre	 	   Brujah:2
-2x Angel			2   cel			 	   Brujah:1
-1x Anvil			6   CEL POT dom pre tha	 primogen  Brujah:1
-1x Dre, Leader of the Cold Dawn	3   cel pot		 	   Brujah:1
+Crypt (12 cards, min=13 max=32 avg=6.25)
+----------------------------------------
+2x Constanza Vinti              8   CEL DOM POT          prince    Brujah:2
+2x Dónal O'Connor               8   CEL DOM POT          prince    Brujah:2
+2x Jacko                        8   CEL POT PRE obt                Brujah antitribu:2
+2x Theo Bell                    7   POT cel dom pre                Brujah:2
+2x Angel                        2   cel                            Brujah:1
+1x Anvil                        6   CEL POT dom pre tha  primogen  Brujah:1
+1x Dre, Leader of the Cold Dawn 3   cel pot                        Brujah:1
 
 Library (90 cards)
 Master (13)

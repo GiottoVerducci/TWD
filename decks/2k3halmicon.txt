@@ -4,18 +4,18 @@ June 15th 2003
 17 players
 Henrik Oscarsson
 
-Crypt (12 cards, min=14, max=26, avg=5.17)
-------------------------------------------
-2x Iliana		7   DOM FOR PRO tha		Gangrel:2
-2x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
-1x Camille Devereux	5   FOR PRO ani			Gangrel:1
-1x Raven		5   FOR PRO ani			Gangrel:1
-1x Badger		6   FOR PRO ani pot		Gangrel:1
-1x Pieter		6   OBF PRO for tha		Gangrel antitribu:2
-1x Mirembe Kabbada	5   PRO SER ani			Gangrel:2
-1x Daliyah		4   PRO obf			Nosferatu:2
-1x Chandler Hungerford	3   PRO				Gangrel:2
-1x Sadie		2   pro				Gangrel antitribu:2
+Crypt (12 cards, min=14 max=26 avg=5.17)
+----------------------------------------
+2x Iliana               7   DOM FOR PRO tha             Gangrel:2
+2x Caitlin              6   ANI PRO aus dom     bishop  Gangrel antitribu:2
+1x Camille Devereux     5   FOR PRO ani                 Gangrel:1
+1x Raven                5   FOR PRO ani                 Gangrel:1
+1x Badger               6   FOR PRO ani pot             Gangrel:1
+1x Pieter               6   OBF PRO for tha             Gangrel antitribu:2
+1x Mirembe Kabbada      5   PRO SER ani                 Gangrel:2
+1x Daliyah              4   PRO obf                     Nosferatu:2
+1x Chandler Hungerford  3   PRO                         Gangrel:2
+1x Sadie                2   pro                         Gangrel antitribu:2
 
 Library (90 cards)
 Master (16)

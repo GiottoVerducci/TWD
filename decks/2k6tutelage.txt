@@ -10,16 +10,16 @@ Description: A deck inspired by Ben Peal's Henry Twister deck. Tool up
 Henry with Anima Gathering and others, drop lots of permanents and
 protect the Smiling Jack with infinite Earth Melds.
 
-Crypt (12 cards, min=7, max=24, avg=4)
---------------------------------------
-5x Henry Taylor			6   POT cel pre pro	Brujah antitribu:3
-1x Jane Sims			4   VIC ani aus pro	Tzimisce:4
-1x L'Épuisette			4   aus cel pro		Toreador antitribu:4
-1x David Morgan, The Scourge	3   aus pot		Malkavian:3
-1x Almiro Suarez		2   aus			Tremere:3
-1x Nicholas Chang		2   aus			Toreador antitribu:3
-1x Piotr Andreikov		2   aus			Tzimisce:3
-1x Feo Ramos			1   aus			Pander:3
+Crypt (12 cards, min=7 max=24 avg=4)
+------------------------------------
+5x Henry Taylor                 6   POT cel pre pro     Brujah antitribu:3
+1x Jane Sims                    4   VIC ani aus pro     Tzimisce:4
+1x L'Épuisette                  4   aus cel pro         Toreador antitribu:4
+1x David Morgan, The Scourge    3   aus pot             Malkavian:3
+1x Almiro Suarez                2   aus                 Tremere:3
+1x Nicholas Chang               2   aus                 Toreador antitribu:3
+1x Piotr Andreikov              2   aus                 Tzimisce:3
+1x Feo Ramos                    1   aus                 Pander:3
 
 Library (60 cards)
 Master (27; 2 trifle)

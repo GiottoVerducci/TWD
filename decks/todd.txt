@@ -9,19 +9,19 @@ taking second place with one VP.
 
 Todd's Deck:
 
-Crypt (12 cards, min=16, max=37, avg=6.75)
-------------------------------------------
-2x Nikolaus Vermeulen		7   POT ani for obf		prince		Nosferatu:2
-1x Arika			11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for		justicar	Nosferatu:1
-1x Suhailah			9   FOR OBF pot ser		prince		Ventrue:2
-1x Selma the Repugnant		8   OBF POT ani for		prince		Nosferatu:1
-1x Greger Anderssen		7   AUS OBF dom pro		prince		Malkavian:2
-1x Kendrick			7   ANI POT aus obf		priscus		Nosferatu antitribu:2
-1x Murat			7   OBF POT ser			prince		Nosferatu:2
-1x Volker, The Puppet Prince	5   CEL pot			prince		Brujah:2
-1x Dimple			2   obf						Nosferatu:1
-1x Rufina Soledad		2   for						Ventrue:1
+Crypt (12 cards, min=16 max=37 avg=6.75)
+----------------------------------------
+2x Nikolaus Vermeulen           7   POT ani for obf             prince          Nosferatu:2
+1x Arika                        11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+1x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for         justicar        Nosferatu:1
+1x Suhailah                     9   FOR OBF pot ser             prince          Ventrue:2
+1x Selma the Repugnant          8   OBF POT ani for             prince          Nosferatu:1
+1x Greger Anderssen             7   AUS OBF dom pro             prince          Malkavian:2
+1x Kendrick                     7   ANI POT aus obf             priscus         Nosferatu antitribu:2
+1x Murat                        7   OBF POT ser                 prince          Nosferatu:2
+1x Volker, The Puppet Prince    5   CEL pot                     prince          Brujah:2
+1x Dimple                       2   obf                                         Nosferatu:1
+1x Rufina Soledad               2   for                                         Ventrue:1
 
 Library (90 cards)
 Master (24)

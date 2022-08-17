@@ -6,13 +6,13 @@ May 23rd 2015
 Peter Ducai
 https://www.vekn.net/event-calendar/event/8059
 
-Crypt (16 cards, min=4, max=30, avg=3.81)
------------------------------------------
-6x Anarch Convert	1   -none-			Caitiff:ANY
-5x Valkyrie		4   for pre pro			Gangrel:3
-3x Brunhilde (ADV)	8   ANI FOR PRO pre	baron	Gangrel:3
-1x Antonino		6   FOR ani pre pro		Gangrel:3
-1x Bernard, The Scourge	5   ani for pre pro		Gangrel:4
+Crypt (16 cards, min=4 max=30 avg=3.81)
+---------------------------------------
+6x Anarch Convert       1   -none-                      Caitiff:ANY
+5x Valkyrie             4   for pre pro                 Gangrel:3
+3x Brunhilde (ADV)      8   ANI FOR PRO pre     baron   Gangrel:3
+1x Antonino             6   FOR ani pre pro             Gangrel:3
+1x Bernard, The Scourge 5   ani for pre pro             Gangrel:4
 
 Library (85 cards)
 Master (16; 4 trifle)

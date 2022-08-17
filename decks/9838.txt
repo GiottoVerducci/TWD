@@ -11,15 +11,15 @@ https://www.vekn.net/event-calendar/event/9838
 Deck Name: Bat Country
 Description: Chalsie and Jack; a love story. Tool up Chalcedony as hard and fast as possible and go to work. Shoutout to my pal and cohort of nearly 20 yrs, Chris "Ace" Franklin, who’s original deck idea I shamelessly looted for this deck.
 
-Crypt (12 cards, min=16, max=28, avg=5.5)
------------------------------------------
-5x Chalcedony	  7   FOR POT THA VIS		  Gargoyle:6
-2x Claus Wegener  5   DOM aus for tha		  Tremere:5
-1x Chrysanthemum  5   AUS THA dom	primogen  Tremere:6
-1x Zane		  5   THA aus dom	primogen  Tremere:5
-1x Lauren	  4   aus dom tha		  Tremere:6
-1x Tarrence Moore 4   aus dom tha		  Tremere:5
-1x Monica Chang	  3   dom tha			  Tremere:5
+Crypt (12 cards, min=16 max=28 avg=5.5)
+---------------------------------------
+5x Chalcedony     7   FOR POT THA VIS             Gargoyle:6
+2x Claus Wegener  5   DOM aus for tha             Tremere:5
+1x Chrysanthemum  5   AUS THA dom       primogen  Tremere:6
+1x Zane           5   THA aus dom       primogen  Tremere:5
+1x Lauren         4   aus dom tha                 Tremere:6
+1x Tarrence Moore 4   aus dom tha                 Tremere:5
+1x Monica Chang   3   dom tha                     Tremere:5
 
 Library (90 cards)
 Master (11; 5 trifle)

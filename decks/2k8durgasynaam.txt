@@ -7,15 +7,15 @@ David Wilson
 
 Deck Name: Gabrin is so Real man.
 
-Crypt (12 cards, min=16, max=30, avg=5.75)
-------------------------------------------
-3x Gabrin		 8   ANI CHI dom for	Ravnos:2
-2x Joaquina Amaya	 6   ANI CHI FOR	Ravnos:2
-2x Vaclav Petalengro	 6   ANI CHI for pot	Ravnos:2
-2x Khalil Ravana	 5   CHI ani for pre	Ravnos:2
-1x Salbatore Bokkengro	 4   CHI for pro	Ravnos:2
-1x Sennuwy, The Promoter 4   ani chi for	Ravnos:2
-1x Vedel Esbreno	 3   chi for		Ravnos:2
+Crypt (12 cards, min=16 max=30 avg=5.75)
+----------------------------------------
+3x Gabrin                8   ANI CHI dom for    Ravnos:2
+2x Joaquina Amaya        6   ANI CHI FOR        Ravnos:2
+2x Vaclav Petalengro     6   ANI CHI for pot    Ravnos:2
+2x Khalil Ravana         5   CHI ani for pre    Ravnos:2
+1x Salbatore Bokkengro   4   CHI for pro        Ravnos:2
+1x Sennuwy, The Promoter 4   ani chi for        Ravnos:2
+1x Vedel Esbreno         3   chi for            Ravnos:2
 
 Library (90 cards)
 Master (13; 3 trifle)

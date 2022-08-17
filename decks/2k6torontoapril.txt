@@ -7,18 +7,18 @@ Peter Muto
 
 Deck Name: Tzi Tongue
 
-Crypt (13 cards, min=9, max=24, avg=4.38)
------------------------------------------
-2x Caliban		6   ANI AUS VIC		Tzimisce:2
-2x Corine Marcón	6   AUS VIC ani		Tzimisce:2
-2x Lolita Houston	4   VIC aus		Tzimisce:2
-1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
-1x Devin Bisley		5   ANI AUS vic		Tzimisce:2
-1x Elizabeth Westcott	5   AUS ani cel vic	Tzimisce:3
-1x Rose, The		5   PRE VIC aus		Tzimisce:3
-1x Christine Boscacci	2   dom vic		Pander:2
-1x Horatio		2   vic			Tzimisce:2
-1x Olga Triminov	1   vic			Pander:3
+Crypt (13 cards, min=9 max=24 avg=4.38)
+---------------------------------------
+2x Caliban              6   ANI AUS VIC         Tzimisce:2
+2x Corine Marcón        6   AUS VIC ani         Tzimisce:2
+2x Lolita Houston       4   VIC aus             Tzimisce:2
+1x Ana Rita Montaña     5   VIC aus dom obf     Tzimisce:3
+1x Devin Bisley         5   ANI AUS vic         Tzimisce:2
+1x Elizabeth Westcott   5   AUS ani cel vic     Tzimisce:3
+1x Rose, The            5   PRE VIC aus         Tzimisce:3
+1x Christine Boscacci   2   dom vic             Pander:2
+1x Horatio              2   vic                 Tzimisce:2
+1x Olga Triminov        1   vic                 Pander:3
 
 Library (90 cards)
 Master (16)

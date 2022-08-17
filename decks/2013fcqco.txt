@@ -12,13 +12,13 @@ Created by: Drace Zhan
 
 Description: "The deck that made Drace quit VTES"
 
-Crypt (12 cards, min=18, max=40, avg=7.75)
-------------------------------------------
-5x unnamed, The		   10  CEL DAI OBF PRE PRO  		Baali:6
-2x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
-2x Arishat		   6   DAI OBF PRE	    1 vote	Baali:6
-2x Horde, The		   3   dai obf pre	    		Baali:6
-1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
+Crypt (12 cards, min=18 max=40 avg=7.75)
+----------------------------------------
+5x unnamed, The            10  CEL DAI OBF PRE PRO              Baali:6
+2x Annazir                 9   DAI OBF POT PRE      2 votes     Baali:5
+2x Arishat                 6   DAI OBF PRE          1 vote      Baali:6
+2x Horde, The              3   dai obf pre                      Baali:6
+1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro              Baali:6
 
 Library (75 cards)
 Master (17; 6 trifle)

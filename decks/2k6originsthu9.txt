@@ -21,16 +21,16 @@ exclusively use Obfuscate for stealth, since Obfuscate stealth is free. Angelica
 Gratiano, and Guido have Obfuscate, making this a solid plan. The deck worked like
 a charm, getting 4GW.
 
-Crypt (12 cards, min=10, max=38, avg=6.17)
-------------------------------------------
-3x Angelica, The Canonicus	 10  DOM OBT POT cel obf  cardinal  Lasombra:2
-3x Gratiano			 8   DOM OBT obf pot	  priscus   Lasombra:2
-1x Catherine du Bois		 5   DOM for obf pre	  	    Ventrue:3
-1x Guido Lucciano		 5   OBT dom obf	  	    Lasombra:2
-1x Cameron			 3   dom pot		  	    Lasombra:2
-1x Hester Reed			 3   obt pot		  	    Lasombra:3
-1x Aaron Duggan, Cameron's Toady 2   obt		  	    Lasombra:2
-1x Krid				 2   obf		  	    Nosferatu:3
+Crypt (12 cards, min=10 max=38 avg=6.17)
+----------------------------------------
+3x Angelica, The Canonicus       10  DOM OBT POT cel obf  cardinal  Lasombra:2
+3x Gratiano                      8   DOM OBT obf pot      priscus   Lasombra:2
+1x Catherine du Bois             5   DOM for obf pre                Ventrue:3
+1x Guido Lucciano                5   OBT dom obf                    Lasombra:2
+1x Cameron                       3   dom pot                        Lasombra:2
+1x Hester Reed                   3   obt pot                        Lasombra:3
+1x Aaron Duggan, Cameron's Toady 2   obt                            Lasombra:2
+1x Krid                          2   obf                            Nosferatu:3
 
 Library (90 cards)
 Master (23; 1 trifle)

@@ -12,14 +12,14 @@ Deck Name: Ira Wall
 Ira's special is great. Let's you flush cards easy. The same goes for Aura Reading,
 or even combined. Aura Reading is also great at inferior.
 
-Crypt (12 cards, min=12, max=29, avg=5.25)
-------------------------------------------
-4x Ira Rivers		7   AUS CEL ani pre	prince	Toreador:3
-2x Kisha Bhimji		5   AUS cel obf pot	magaji	Osebo:3
-2x Yvette, The Hopeless	3   aus cel			Toreador:3
-2x Zöe			3   AUS cel obf			Malkavian:2
-1x Marcellus		8   AUS CEL pro		prince	Toreador:2
-1x Elizabeth Westcott	5   AUS ani cel vic		Tzimisce:3
+Crypt (12 cards, min=12 max=29 avg=5.25)
+----------------------------------------
+4x Ira Rivers           7   AUS CEL ani pre     prince  Toreador:3
+2x Kisha Bhimji         5   AUS cel obf pot     magaji  Osebo:3
+2x Yvette, The Hopeless 3   aus cel                     Toreador:3
+2x Zöe                  3   AUS cel obf                 Malkavian:2
+1x Marcellus            8   AUS CEL pro         prince  Toreador:2
+1x Elizabeth Westcott   5   AUS ani cel vic             Tzimisce:3
 
 Library (90 cards)
 Master (15; 3 trifle)

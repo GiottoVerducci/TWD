@@ -5,19 +5,19 @@ Barney Baker
 
 Here is Barney's winning deck - 3VP to Rob's 1 and Pierre's 1.
 
-Crypt (12 cards, min=12, max=37, avg=6.08)
-------------------------------------------
-2x Jimmy Dunn			   4   CEL POT for				Pander:2
-1x Gwendolyn			   11  CEL FOR POT PRE aus tha	inner circle	Brujah:2
-1x Crusher			   9   CEL POT PRE for		primogen	Brujah:1
-1x Salinger			   9   CEL POT PRE tha		archbishop	Brujah antitribu:2
-1x Jacko			   8   CEL POT PRE obt				Brujah antitribu:2
-1x Richter, The Templar of Du Mont 7   CEL POT for pre				Brujah antitribu:2
-1x Anvil			   6   CEL POT dom pre tha	primogen	Brujah:1
-1x Bianca			   6   CEL pot pre				Brujah:1
-1x Volker, The Puppet Prince	   5   CEL pot			prince		Brujah:2
-1x Jacob Bragg			   3   cel pot					Brujah antitribu:2
-1x Antoinette DuChamp		   1   cel pre					Caitiff:2
+Crypt (12 cards, min=12 max=37 avg=6.08)
+----------------------------------------
+2x Jimmy Dunn                      4   CEL POT for                              Pander:2
+1x Gwendolyn                       11  CEL FOR POT PRE aus tha  inner circle    Brujah:2
+1x Crusher                         9   CEL POT PRE for          primogen        Brujah:1
+1x Salinger                        9   CEL POT PRE tha          archbishop      Brujah antitribu:2
+1x Jacko                           8   CEL POT PRE obt                          Brujah antitribu:2
+1x Richter, The Templar of Du Mont 7   CEL POT for pre                          Brujah antitribu:2
+1x Anvil                           6   CEL POT dom pre tha      primogen        Brujah:1
+1x Bianca                          6   CEL pot pre                              Brujah:1
+1x Volker, The Puppet Prince       5   CEL pot                  prince          Brujah:2
+1x Jacob Bragg                     3   cel pot                                  Brujah antitribu:2
+1x Antoinette DuChamp              1   cel pre                                  Caitiff:2
 
 Library (86 cards)
 Master (16)

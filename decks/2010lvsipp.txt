@@ -9,13 +9,13 @@ Michal Kazmierczak
 
 Deck Name: Prevent & Press V01
 
-Crypt (12 cards, min=30, max=42, avg=9)
----------------------------------------
-3x Hardestadt	    11	DOM FOR POT PRE cel pro	 inner circle	Ventrue:4
-3x Ignazio Giovanni 9	DOM FOR NEC POT obf	 		Giovanni:3
-2x Matata	    9	ABO ANI FOR aus cel obf	 		Akunanse:3
-2x Dela Eden	    8	AUS FOR VAL cel dom	 		Salubri antitribu:3
-2x Joseph O'Grady   7	DOM FOR aus cel		 		Ventrue antitribu:3
+Crypt (12 cards, min=30 max=42 avg=9)
+-------------------------------------
+3x Hardestadt       11  DOM FOR POT PRE cel pro  inner circle   Ventrue:4
+3x Ignazio Giovanni 9   DOM FOR NEC POT obf                     Giovanni:3
+2x Matata           9   ABO ANI FOR aus cel obf                 Akunanse:3
+2x Dela Eden        8   AUS FOR VAL cel dom                     Salubri antitribu:3
+2x Joseph O'Grady   7   DOM FOR aus cel                         Ventrue antitribu:3
 
 Library (88 cards)
 Master (15; 7 trifle)

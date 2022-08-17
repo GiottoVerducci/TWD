@@ -6,18 +6,18 @@ Ira Fay
 
 Ventrue and Daughter's Vote
 
-Crypt (12 cards, min=15, max=40, avg=6.67)
-------------------------------------------
-2x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-2x Angela Preston		   5   MEL PRE for				Daughter of Cacophony:2
-1x Queen Anne			   10  DOM FOR PRE aus obf	prince		Ventrue:2
-1x Emerson Bridges		   8   DOM FOR PRE pot		prince		Ventrue:1
-1x Sir Walter Nash		   7   DOM FOR PRE		prince		Ventrue:1
-1x Timothy Crowley		   7   FOR PRE ani dom		prince		Ventrue:1
-1x Gaël Pilet			   6   FOR MEL chi pre				Daughter of Cacophony:2
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
-1x Delilah Monroe		   4   MEL for pre				Daughter of Cacophony:2
-1x Antoinette DuChamp		   1   cel pre					Caitiff:2
+Crypt (12 cards, min=15 max=40 avg=6.67)
+----------------------------------------
+2x Arika                           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+2x Angela Preston                  5   MEL PRE for                              Daughter of Cacophony:2
+1x Queen Anne                      10  DOM FOR PRE aus obf      prince          Ventrue:2
+1x Emerson Bridges                 8   DOM FOR PRE pot          prince          Ventrue:1
+1x Sir Walter Nash                 7   DOM FOR PRE              prince          Ventrue:1
+1x Timothy Crowley                 7   FOR PRE ani dom          prince          Ventrue:1
+1x Gaël Pilet                      6   FOR MEL chi pre                          Daughter of Cacophony:2
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                              Ventrue:2
+1x Delilah Monroe                  4   MEL for pre                              Daughter of Cacophony:2
+1x Antoinette DuChamp              1   cel pre                                  Caitiff:2
 
 Library (90 cards)
 Master (14)

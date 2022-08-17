@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/9772
 
 Deck Name: Bridgerton
 
-Crypt (12 cards, min=18, max=39, avg=7.75)
-------------------------------------------
-3x Armin Brenner 10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-3x Dark Selina	 9   CEL POT PRE dom for	cardinal    Brujah antitribu:5
-3x Hektor	 9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
-3x Smash	 3   pot pre				    Brujah antitribu:4
+Crypt (12 cards, min=18 max=39 avg=7.75)
+----------------------------------------
+3x Armin Brenner 10  CEL FOR POT PRE ani obf    archbishop  Brujah antitribu:4
+3x Dark Selina   9   CEL POT PRE dom for        cardinal    Brujah antitribu:5
+3x Hektor        9   CEL POT PRE QUI for        priscus     Brujah antitribu:4
+3x Smash         3   pot pre                                Brujah antitribu:4
 
 Library (90 cards)
 Master (22; 7 trifle)

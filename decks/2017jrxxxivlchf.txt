@@ -12,15 +12,15 @@ Deck Name: Gotsdamn Rides the Dawn Again
 
 Basically a !Ventrue Grinder but starring Gotsdam and environmental aggravated to make blocking less appealing.
 
-Crypt (12 cards, min=22, max=36, avg=7.5)
------------------------------------------
-4x Gotsdam, The Tired Warrior	9   AUS DOM FOR PRE ani	 	 Ventrue:4
-2x Konrad Fleischer		9   ANI AUS DOM FOR tha	 	 Ventrue antitribu:4
-2x Aimery Methuin		7   AUS DOM FOR ani pot	 	 Ventrue antitribu:5
-1x Jefferson Foster		6   AUS DOM for tha	 bishop	 Ventrue antitribu:4
-1x Juniper			6   FOR ani dom pre	 	 Ventrue:4
-1x Jephta Hester		5   DOM FOR aus		 	 Ventrue antitribu:4
-1x Neighbor John		5   AUS dom for		 	 Ventrue antitribu:4
+Crypt (12 cards, min=22 max=36 avg=7.5)
+---------------------------------------
+4x Gotsdam, The Tired Warrior   9   AUS DOM FOR PRE ani          Ventrue:4
+2x Konrad Fleischer             9   ANI AUS DOM FOR tha          Ventrue antitribu:4
+2x Aimery Methuin               7   AUS DOM FOR ani pot          Ventrue antitribu:5
+1x Jefferson Foster             6   AUS DOM for tha      bishop  Ventrue antitribu:4
+1x Juniper                      6   FOR ani dom pre              Ventrue:4
+1x Jephta Hester                5   DOM FOR aus                  Ventrue antitribu:4
+1x Neighbor John                5   AUS dom for                  Ventrue antitribu:4
 
 Library (86 cards)
 Master (13; 2 trifle)

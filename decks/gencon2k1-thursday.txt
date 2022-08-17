@@ -30,15 +30,15 @@ The final was pure seating as Jeff (the Lasombra) knows. All in all luck
 won the day for me more than anything. Took 19VP thursday and 0 friday
 mostly due to bad play by me and a bit of bad luck as well.
 
-Crypt (12 cards, min=19, max=29, avg=6)
----------------------------------------
-2x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
-2x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
-2x Ozmo			6   AUS dom obf			Malkavian:1
-2x Didi Meyers		5   DOM aus cel obf		Malkavian:1
-2x Zebulon		5   OBF aus dom pro		Malkavian:1
-1x Cornelius Ottavio	8   AUS OBF pre qui		Malkavian:2
-1x Roland Bishop	4   aus dom obf			Malkavian:1
+Crypt (12 cards, min=19 max=29 avg=6)
+-------------------------------------
+2x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
+2x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
+2x Ozmo                 6   AUS dom obf                 Malkavian:1
+2x Didi Meyers          5   DOM aus cel obf             Malkavian:1
+2x Zebulon              5   OBF aus dom pro             Malkavian:1
+1x Cornelius Ottavio    8   AUS OBF pre qui             Malkavian:2
+1x Roland Bishop        4   aus dom obf                 Malkavian:1
 
 Library (63 cards)
 Master (13)

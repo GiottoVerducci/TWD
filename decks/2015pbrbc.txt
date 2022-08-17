@@ -13,17 +13,17 @@ Bring out Batsheva, Founders of the Ebony Kingdom and tool up, then bleed out yo
 He who has not first laid his foundations may be able with great ability to lay them afterwards, but they will be laid with trouble to the architect and danger to the building.
 Niccolò Machiavelli, The Prince
 
-Crypt (12 cards, min=15, max=24, avg=4.83)
-------------------------------------------
-3x Batsheva	  6   ANI PRE obt pot	Guruhi:4
-1x Batsheva (ADV) 6   ANI PRE obt pot	Guruhi:4
-2x Fish		  5   ANI POT pre	Guruhi:4
-1x Fode Kourouma  5   POT ani aus pre	Guruhi:4
-1x Lumumba	  4   PRE ani		Guruhi:4
-1x Nestor Kaba	  4   abo ani for	Akunanse:4
-1x Urenna Bunu	  4   ani pot pre	Guruhi:4
-1x Zhara	  4   ani for pre	Ishtarri:3
-1x Dolie	  3   abo ani		Akunanse:4
+Crypt (12 cards, min=15 max=24 avg=4.83)
+----------------------------------------
+3x Batsheva       6   ANI PRE obt pot   Guruhi:4
+1x Batsheva (ADV) 6   ANI PRE obt pot   Guruhi:4
+2x Fish           5   ANI POT pre       Guruhi:4
+1x Fode Kourouma  5   POT ani aus pre   Guruhi:4
+1x Lumumba        4   PRE ani           Guruhi:4
+1x Nestor Kaba    4   abo ani for       Akunanse:4
+1x Urenna Bunu    4   ani pot pre       Guruhi:4
+1x Zhara          4   ani for pre       Ishtarri:3
+1x Dolie          3   abo ani           Akunanse:4
 
 Library (90 cards)
 Master (13; 1 trifle)

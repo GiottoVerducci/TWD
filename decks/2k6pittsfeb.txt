@@ -7,13 +7,13 @@ Brad Cashdollar
 "Andrea's Angry Dragon 2.0 Redux"
 Description: a modified version of the a previous tournament winner
 
-Crypt (12 cards, min=30, max=43, avg=9.33)
-------------------------------------------
-3x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
-3x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
-2x Angus the Unruled	10  ANI PRO cel for pot	 justicar	Gangrel:1
-2x Genevieve		10  ANI FOR PRO aus dom	 priscus	Gangrel antitribu:2
-2x Caitlin		6   ANI PRO aus dom	 bishop		Gangrel antitribu:2
+Crypt (12 cards, min=30 max=43 avg=9.33)
+----------------------------------------
+3x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
+3x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
+2x Angus the Unruled    10  ANI PRO cel for pot  justicar       Gangrel:1
+2x Genevieve            10  ANI FOR PRO aus dom  priscus        Gangrel antitribu:2
+2x Caitlin              6   ANI PRO aus dom      bishop         Gangrel antitribu:2
 
 Library (87 cards)
 Master (15)

@@ -18,15 +18,15 @@ That said, it might eventually make a viable deck.
 
 Changes to make: See Updated Kiasyd Version at www.secretlibrary.info/index.php?deck=view&id=20636 . It includes better vamps, better stealth and some vote defense, which were the major aspects needed.
 
-Crypt (12 cards, min=19, max=36, avg=6.5)
------------------------------------------
-4x Guillaume Giovanni	 9   CEL DOM NEC POT obt  	  Giovanni:4
-3x Isanwayen		 6   DOM MYT OBT	  	  Kiasyd:4
-1x Andrew Emory		 5   OBT aus dom pot	  bishop  Lasombra:4
-1x Banjoko		 5   DOM obt pot	  	  Lasombra:3
-1x Dame Hollerton	 5   DOM OBT myt	  	  Kiasyd:4
-1x Ermenegildo, The Rake 5   DOM OBT pot	  	  Lasombra:4
-1x Quincy, The Trapper	 4   dom myt obt	  	  Kiasyd:3
+Crypt (12 cards, min=19 max=36 avg=6.5)
+---------------------------------------
+4x Guillaume Giovanni    9   CEL DOM NEC POT obt          Giovanni:4
+3x Isanwayen             6   DOM MYT OBT                  Kiasyd:4
+1x Andrew Emory          5   OBT aus dom pot      bishop  Lasombra:4
+1x Banjoko               5   DOM obt pot                  Lasombra:3
+1x Dame Hollerton        5   DOM OBT myt                  Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot                  Lasombra:4
+1x Quincy, The Trapper   4   dom myt obt                  Kiasyd:3
 
 Library (90 cards)
 Master (23; 6 trifle)

@@ -6,20 +6,20 @@ David Tatu
 
 Deck Name: Wind Dance Atlanta
 
-Crypt (12 cards, min=11, max=18, avg=3.75)
-------------------------------------------
-1x Isabel Giovanni	   5   DOM NEC pot	Giovanni:2
-1x Terry		   5   POT aus dom san	Blood Brother:2
-1x Agatha		   4   POT obf		Nosferatu antitribu:2
-1x Chas Giovanni Tello	   4   DOM POT		Giovanni:2
-1x Francesca Giovanni	   4   dom nec pot	Giovanni:2
-1x Hector Sosa		   4   POT pre		Brujah:1
-1x Hugo			   4   POT pre vic	Brujah antitribu:2
-1x Shane Grimald	   4   ani dom pot	Gangrel antitribu:2
-1x Cameron		   3   dom pot		Lasombra:2
-1x Cristofero Giovanni	   3   nec pot		Giovanni:2
-1x Mario Giovanni	   3   nec pot		Giovanni:2
-1x Paul DiCarlo, The Alpha 2   pot		Giovanni:2
+Crypt (12 cards, min=11 max=18 avg=3.75)
+----------------------------------------
+1x Isabel Giovanni         5   DOM NEC pot      Giovanni:2
+1x Terry                   5   POT aus dom san  Blood Brother:2
+1x Agatha                  4   POT obf          Nosferatu antitribu:2
+1x Chas Giovanni Tello     4   DOM POT          Giovanni:2
+1x Francesca Giovanni      4   dom nec pot      Giovanni:2
+1x Hector Sosa             4   POT pre          Brujah:1
+1x Hugo                    4   POT pre vic      Brujah antitribu:2
+1x Shane Grimald           4   ani dom pot      Gangrel antitribu:2
+1x Cameron                 3   dom pot          Lasombra:2
+1x Cristofero Giovanni     3   nec pot          Giovanni:2
+1x Mario Giovanni          3   nec pot          Giovanni:2
+1x Paul DiCarlo, The Alpha 2   pot              Giovanni:2
 
 Library (90 cards)
 Master (15)

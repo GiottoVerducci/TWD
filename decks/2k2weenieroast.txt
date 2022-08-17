@@ -15,19 +15,19 @@ once it gets rolling it has pretty strong momentum.
 Small caps with guns and superior Auspex can run a
 tight defense to allow time for that longer build-up.
 
-Crypt (12 cards, min=13, max=33, avg=5.17)
-------------------------------------------
-2x Anneke			  10  AUS CEL PRE dom	justicar  Toreador:1
-1x Anson			  8   CEL PRE aus dom	prince	  Toreador:1
-1x Angela Preston		  5   MEL PRE for		  Daughter of Cacophony:2
-1x Delilah Monroe		  4   MEL for pre		  Daughter of Cacophony:2
-1x Demetrius Slater		  4   aus cel pre		  Toreador:1
-1x Dorian Strack		  4   AUS cel			  Toreador:1
-1x Idalia, Prophet of Guadalajara 4   AUS dem			  Malkavian antitribu:2
-1x Mariana Gilbert		  4   PRE cel			  Toreador:1
-1x Remilliard, Devout Crusader	  4   AUS pre			  Toreador antitribu:2
-1x Céleste, The Voice of a Secret 3   mel pre			  Daughter of Cacophony:2
-1x Delilah Easton		  2   pre			  Toreador:1
+Crypt (12 cards, min=13 max=33 avg=5.17)
+----------------------------------------
+2x Anneke                         10  AUS CEL PRE dom   justicar  Toreador:1
+1x Anson                          8   CEL PRE aus dom   prince    Toreador:1
+1x Angela Preston                 5   MEL PRE for                 Daughter of Cacophony:2
+1x Delilah Monroe                 4   MEL for pre                 Daughter of Cacophony:2
+1x Demetrius Slater               4   aus cel pre                 Toreador:1
+1x Dorian Strack                  4   AUS cel                     Toreador:1
+1x Idalia, Prophet of Guadalajara 4   AUS dem                     Malkavian antitribu:2
+1x Mariana Gilbert                4   PRE cel                     Toreador:1
+1x Remilliard, Devout Crusader    4   AUS pre                     Toreador antitribu:2
+1x Céleste, The Voice of a Secret 3   mel pre                     Daughter of Cacophony:2
+1x Delilah Easton                 2   pre                         Toreador:1
 
 Library (90 cards)
 Master (16)

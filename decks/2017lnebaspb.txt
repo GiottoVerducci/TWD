@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/8664
 
 Deck Name: Navio das Aranhas
 
-Crypt (12 cards, min=16, max=40, avg=7.5)
------------------------------------------
-3x Kamiri wa Itherero	    10	ABO ANI FOR OBF pot qui	 	 Akunanse:4
-1x Kamiri wa Itherero (ADV) 10	ABO ANI FOR OBF pot qui	 	 Akunanse:4
-2x Matata		    9	ABO ANI FOR aus cel obf	 	 Akunanse:3
-2x Amavi		    8	ABO ANI FOR pre pro	 	 Akunanse:4
-1x Uchenna		    7	ABO ANI FOR		 magaji	 Akunanse:4
-1x Nestor Kaba		    4	abo ani for		 	 Akunanse:4
-1x Dolie		    3	abo ani			 	 Akunanse:4
-1x Meno Ngari		    2	abo			 	 Akunanse:4
+Crypt (12 cards, min=16 max=40 avg=7.5)
+---------------------------------------
+3x Kamiri wa Itherero       10  ABO ANI FOR OBF pot qui          Akunanse:4
+1x Kamiri wa Itherero (ADV) 10  ABO ANI FOR OBF pot qui          Akunanse:4
+2x Matata                   9   ABO ANI FOR aus cel obf          Akunanse:3
+2x Amavi                    8   ABO ANI FOR pre pro              Akunanse:4
+1x Uchenna                  7   ABO ANI FOR              magaji  Akunanse:4
+1x Nestor Kaba              4   abo ani for                      Akunanse:4
+1x Dolie                    3   abo ani                          Akunanse:4
+1x Meno Ngari               2   abo                              Akunanse:4
 
 Library (90 cards)
 Master (20; 9 trifle)

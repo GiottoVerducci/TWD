@@ -10,17 +10,17 @@ Created by: Stone
 
 -- 2GW5.5 (2nd seed) + 1.5VP in final
 
-Crypt (12 cards, min=28, max=39, avg=8.42)
-------------------------------------------
-3x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
-2x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
-1x John Paleologus		    9	ANI AUS CEL VIC pot	archbishop  Tzimisce:3
-1x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
-1x Velya, The Flayer		    9	ANI AUS PRE VIC for	cardinal    Tzimisce:3
-1x Anton			    8	ANI AUS cel obf vic		    Tzimisce:2
-1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
-1x Caliban			    6	ANI AUS VIC			    Tzimisce:2
-1x Corine Marcón		    6	AUS VIC ani			    Tzimisce:2
+Crypt (12 cards, min=28 max=39 avg=8.42)
+----------------------------------------
+3x Lambach                          10  ANI AUS DOM VIC pre     cardinal    Tzimisce:2
+2x Meshenka                         8   ANI AUS VIC             priscus     Tzimisce:2
+1x John Paleologus                  9   ANI AUS CEL VIC pot     archbishop  Tzimisce:3
+1x Stravinsky                       9   ANI AUS VIC pot         archbishop  Tzimisce:2
+1x Velya, The Flayer                9   ANI AUS PRE VIC for     cardinal    Tzimisce:3
+1x Anton                            8   ANI AUS cel obf vic                 Tzimisce:2
+1x Sascha Vykos, The Angel of Caine 8   AUS THA VIC ani dom     priscus     Tzimisce:2
+1x Caliban                          6   ANI AUS VIC                         Tzimisce:2
+1x Corine Marcón                    6   AUS VIC ani                         Tzimisce:2
 
 Library (90 cards)
 Master (21; 7 trifle)

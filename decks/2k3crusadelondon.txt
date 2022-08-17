@@ -6,18 +6,18 @@ Rob Treasure
 
 Deck Name: Lasombra evil shit.
 
-Crypt (12 cards, min=11, max=29, avg=5)
----------------------------------------
-2x Gratiano			 8   DOM OBT obf pot	priscus	 Lasombra:2
-2x Guido Lucciano		 5   OBT dom obf		 Lasombra:2
-1x Tobias Smith			 7   DOM OBT PRE pot		 Lasombra:3
-1x Aurora Van Brande, Paladin	 6   OBT dom for pot		 Lasombra:2
-1x Talley, The Hound		 6   OBT POT aus dom		 Lasombra:2
-1x Ignacio, The Black Priest	 4   dom obt pot		 Lasombra:2
-1x Ramiro			 4   dom obt vic		 Lasombra:2
-1x Cameron			 3   dom pot			 Lasombra:2
-1x Aaron Duggan, Cameron's Toady 2   obt			 Lasombra:2
-1x Mitchell, The Headhunter	 2   obt pot			 Pander:2
+Crypt (12 cards, min=11 max=29 avg=5)
+-------------------------------------
+2x Gratiano                      8   DOM OBT obf pot    priscus  Lasombra:2
+2x Guido Lucciano                5   OBT dom obf                 Lasombra:2
+1x Tobias Smith                  7   DOM OBT PRE pot             Lasombra:3
+1x Aurora Van Brande, Paladin    6   OBT dom for pot             Lasombra:2
+1x Talley, The Hound             6   OBT POT aus dom             Lasombra:2
+1x Ignacio, The Black Priest     4   dom obt pot                 Lasombra:2
+1x Ramiro                        4   dom obt vic                 Lasombra:2
+1x Cameron                       3   dom pot                     Lasombra:2
+1x Aaron Duggan, Cameron's Toady 2   obt                         Lasombra:2
+1x Mitchell, The Headhunter      2   obt pot                     Pander:2
 
 Library (83 cards)
 Master (15)

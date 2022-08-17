@@ -9,14 +9,14 @@ Riccardo Fabiani
 
 Deck Name: Malgorzata's Little Shop of Horror
 
-Crypt (13 cards, min=20, max=36, avg=7.31)
-------------------------------------------
-5x Malgorzata	9   AUS DOM THA VIC pre	 priscus  Tremere antitribu:4
-3x Ash Harrison	7   AUS THA cel dom	 	  Tremere antitribu:5
-2x Uta Kovacs	8   AUS DOM THA ser	 	  Tremere antitribu:4
-1x Carmen	5   THA aus dom		 	  Tremere antitribu:5
-1x Frondator	5   AUS dom tha		 bishop	  Tremere antitribu:4
-1x Keith Moody	3   DOM			 	  Tremere antitribu:4
+Crypt (13 cards, min=20 max=36 avg=7.31)
+----------------------------------------
+5x Malgorzata   9   AUS DOM THA VIC pre  priscus  Tremere antitribu:4
+3x Ash Harrison 7   AUS THA cel dom               Tremere antitribu:5
+2x Uta Kovacs   8   AUS DOM THA ser               Tremere antitribu:4
+1x Carmen       5   THA aus dom                   Tremere antitribu:5
+1x Frondator    5   AUS dom tha          bishop   Tremere antitribu:4
+1x Keith Moody  3   DOM                           Tremere antitribu:4
 
 Library (88 cards)
 Master (11; 4 trifle)

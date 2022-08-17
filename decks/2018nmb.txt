@@ -13,13 +13,13 @@ Created by: Andrey Davino & Rivanildon Frazão
 
 Description: "Porrada"
 
-Crypt (12 cards, min=26, max=39, avg=8.33)
-------------------------------------------
-4x Massassi	9   AUS CEL POT QUI obf			Osebo:4
-3x Cesewayo	10  AUS CEL DOM POT THA ani	magaji	Osebo:4
-2x Khalu	7   AUS CEL POT ani pro			Osebo:3
-2x Homa		6   AUS CEL POT				Osebo:4
-1x Tatu Sawosa	8   AUS OBF POT ani cel			Osebo:4
+Crypt (12 cards, min=26 max=39 avg=8.33)
+----------------------------------------
+4x Massassi     9   AUS CEL POT QUI obf                 Osebo:4
+3x Cesewayo     10  AUS CEL DOM POT THA ani     magaji  Osebo:4
+2x Khalu        7   AUS CEL POT ani pro                 Osebo:3
+2x Homa         6   AUS CEL POT                         Osebo:4
+1x Tatu Sawosa  8   AUS OBF POT ani cel                 Osebo:4
 
 Library (90 cards)
 Master (15; 4 trifle)

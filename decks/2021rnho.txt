@@ -52,17 +52,17 @@ already powerful. The rest can be used as stealth.
 There are a lot of Masters. You must use your discard phase every turn; you do not want to jam on
 Master cards.
 
-Crypt (13 cards, min=11, max=28, avg=5.08)
-------------------------------------------
-5x Luke Fellows	   7   CEL OBF PRO	Gangrel antitribu:4
-1x Morrow the Sage 6   OBF PRO cel vic	Gangrel antitribu:4
-1x Alex Camille	   5   PRO cel for obf	Gangrel antitribu:5
-1x Synner-G	   5   CEL OBF pro	Gangrel antitribu:5
-1x Jeffrey Mullins 4   OBF cel		Gangrel antitribu:4
-1x Skulk	   4   OBF ani		Nosferatu antitribu:5
-1x Lubomira Hradok 3   OBF		Nosferatu antitribu:5
-1x Denette Stensen 2   obf		Gangrel antitribu:4
-1x Old Neddacka	   2   obf		Nosferatu antitribu:4
+Crypt (13 cards, min=11 max=28 avg=5.08)
+----------------------------------------
+5x Luke Fellows    7   CEL OBF PRO      Gangrel antitribu:4
+1x Morrow the Sage 6   OBF PRO cel vic  Gangrel antitribu:4
+1x Alex Camille    5   PRO cel for obf  Gangrel antitribu:5
+1x Synner-G        5   CEL OBF pro      Gangrel antitribu:5
+1x Jeffrey Mullins 4   OBF cel          Gangrel antitribu:4
+1x Skulk           4   OBF ani          Nosferatu antitribu:5
+1x Lubomira Hradok 3   OBF              Nosferatu antitribu:5
+1x Denette Stensen 2   obf              Gangrel antitribu:4
+1x Old Neddacka    2   obf              Nosferatu antitribu:4
 
 Library (61 cards)
 Master (17; 6 trifle)

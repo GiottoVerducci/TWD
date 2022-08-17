@@ -7,20 +7,20 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/79Jk2Un-6hI
 
 R. Brian Smith's Victorious Ventrue/!Ventrue Deck follows:
 
-Crypt (14 cards, min=13, max=37, avg=5.93)
-------------------------------------------
-2x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
-1x Emerson Bridges		   8   DOM FOR PRE pot		prince		Ventrue:1
-1x Sir Walter Nash		   7   DOM FOR PRE		prince		Ventrue:1
-1x Timothy Crowley		   7   FOR PRE ani dom		prince		Ventrue:1
-1x Vanessa			   6   DOM FOR aus pre				Ventrue antitribu:2
-1x Jazz Wentworth		   5   PRE dom for				Ventrue:1
-1x Melissa Barton		   5   cel dom for pre				Ventrue:1
-1x Ingrid Russo			   4   DOM for					Ventrue antitribu:2
-1x Violette Prentiss		   4   PRE dom					Ventrue:1
-1x Gideon Fontaine		   3   PRE					Ventrue:1
-1x Samson			   2   dom					Ventrue antitribu:2
+Crypt (14 cards, min=13 max=37 avg=5.93)
+----------------------------------------
+2x Arika                           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                              Ventrue:2
+1x Emerson Bridges                 8   DOM FOR PRE pot          prince          Ventrue:1
+1x Sir Walter Nash                 7   DOM FOR PRE              prince          Ventrue:1
+1x Timothy Crowley                 7   FOR PRE ani dom          prince          Ventrue:1
+1x Vanessa                         6   DOM FOR aus pre                          Ventrue antitribu:2
+1x Jazz Wentworth                  5   PRE dom for                              Ventrue:1
+1x Melissa Barton                  5   cel dom for pre                          Ventrue:1
+1x Ingrid Russo                    4   DOM for                                  Ventrue antitribu:2
+1x Violette Prentiss               4   PRE dom                                  Ventrue:1
+1x Gideon Fontaine                 3   PRE                                      Ventrue:1
+1x Samson                          2   dom                                      Ventrue antitribu:2
 
 Library (85 cards)
 Master (18)

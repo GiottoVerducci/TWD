@@ -20,16 +20,16 @@ well as protection against diableries as well. Secure Haven, Golconda,
 Reins of Power and Obediences would be great additions to this deck but
 it would require taking something else out.
 
-Crypt (12 cards, min=27, max=44, avg=8.92)
-------------------------------------------
-2x Etrius		11  AUS DOM OBF THA pro		inner circle	Tremere:2
-2x Lucian		10  AUS DOM OBF cel tha		justicar	Malkavian:1
-2x Gratiano		8   DOM OBT obf pot		priscus		Lasombra:2
-2x Gilbert Duane	7   AUS DOM OBF			prince		Malkavian:1
-1x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Leandro		11  AUS OBF PRE cel dom		inner circle	Malkavian:2
-1x Greger Anderssen	7   AUS OBF dom pro		prince		Malkavian:2
-1x Reverend Blackwood	6   DOM THA obf			bishop		Tremere antitribu:2
+Crypt (12 cards, min=27 max=44 avg=8.92)
+----------------------------------------
+2x Etrius               11  AUS DOM OBF THA pro         inner circle    Tremere:2
+2x Lucian               10  AUS DOM OBF cel tha         justicar        Malkavian:1
+2x Gratiano             8   DOM OBT obf pot             priscus         Lasombra:2
+2x Gilbert Duane        7   AUS DOM OBF                 prince          Malkavian:1
+1x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+1x Leandro              11  AUS OBF PRE cel dom         inner circle    Malkavian:2
+1x Greger Anderssen     7   AUS OBF dom pro             prince          Malkavian:2
+1x Reverend Blackwood   6   DOM THA obf                 bishop          Tremere antitribu:2
 
 Library (90 cards)
 Master (17; 8 trifle)

@@ -6,18 +6,18 @@ Otto Kallokoski
 
 Deck Name: Conglomerate of the People's Republic
 
-Crypt (12 cards, min=19, max=41, avg=7.67)
-------------------------------------------
-2x Mary Anne Blaire	10  AUS DOM FOR PRE ani pot	justicar	Ventrue:5
-2x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince		Ventrue:5
-1x Hardestadt		11  DOM FOR POT PRE cel pro	inner circle	Ventrue:4
-1x Gustav Breidenstein	10  DOM FOR PRE aus cel pot	prince		Ventrue:4
-1x Johannes Castelein	9   DEM DOM FOR PRE		prince		Ventrue:4
-1x Graham Gottesman	7   DOM FOR obf pre tha		prince		Ventrue:5
-1x Mustafa, The Heir	6   FOR PRE cel dom		prince		Ventrue:4
-1x Victor Donaldson	6   DOM for pre			prince		Ventrue:5
-1x Emily Carson		5   DOM for pre			primogen	Ventrue:5
-1x Jackson Asher	2   dom						Ventrue:4
+Crypt (12 cards, min=19 max=41 avg=7.67)
+----------------------------------------
+2x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot     justicar        Ventrue:5
+2x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro         prince          Ventrue:5
+1x Hardestadt           11  DOM FOR POT PRE cel pro     inner circle    Ventrue:4
+1x Gustav Breidenstein  10  DOM FOR PRE aus cel pot     prince          Ventrue:4
+1x Johannes Castelein   9   DEM DOM FOR PRE             prince          Ventrue:4
+1x Graham Gottesman     7   DOM FOR obf pre tha         prince          Ventrue:5
+1x Mustafa, The Heir    6   FOR PRE cel dom             prince          Ventrue:4
+1x Victor Donaldson     6   DOM for pre                 prince          Ventrue:5
+1x Emily Carson         5   DOM for pre                 primogen        Ventrue:5
+1x Jackson Asher        2   dom                                         Ventrue:4
 
 Library (89 cards)
 Master (14; 3 trifle)

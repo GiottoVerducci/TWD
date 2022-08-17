@@ -10,15 +10,15 @@ Description: nossie princes bring out 3rd trad weenies
 bleed with computer hacks, stealth, night moves
 bloat with tributes and con boon
 
-Crypt (12 cards, min=11, max=30, avg=5.42)
-------------------------------------------
-2x Selma the Repugnant	8   OBF POT ani for	prince	Nosferatu:1
-2x Murat		7   OBF POT ser		prince	Nosferatu:2
-2x Nikolaus Vermeulen	7   POT ani for obf	prince	Nosferatu:2
-2x Calebros, The Martyr	5   ANI obf pot		prince	Nosferatu:2
-2x Dimple		2   obf				Nosferatu:1
-1x Laurent de Valois	4   ani dom obf			Nosferatu:2
-1x Duck			3   obf pot			Nosferatu:1
+Crypt (12 cards, min=11 max=30 avg=5.42)
+----------------------------------------
+2x Selma the Repugnant  8   OBF POT ani for     prince  Nosferatu:1
+2x Murat                7   OBF POT ser         prince  Nosferatu:2
+2x Nikolaus Vermeulen   7   POT ani for obf     prince  Nosferatu:2
+2x Calebros, The Martyr 5   ANI obf pot         prince  Nosferatu:2
+2x Dimple               2   obf                         Nosferatu:1
+1x Laurent de Valois    4   ani dom obf                 Nosferatu:2
+1x Duck                 3   obf pot                     Nosferatu:1
 
 Library (90 cards)
 Master (22)

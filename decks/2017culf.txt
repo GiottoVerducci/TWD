@@ -10,17 +10,17 @@ Deck Name: Belgian presence with a german touch
 
 Description: 2GW7 + 1.5 Rudolf played a similar deck in the past and Martin was nice enough to discuss the decklist of untested deck
 
-Crypt (13 cards, min=13, max=32, avg=5.77)
-------------------------------------------
-5x Anson			   8   CEL PRE aus dom	prince	  Toreador:1
-1x Rake				   6   PRE aus cel pot	prince	  Brujah:1
-1x Victoria Ash			   6   PRE aus cel dom	primogen  Toreador:2
-1x Ramiel DuPre			   5   PRE aus cel dom		  Toreador:1
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		  Ventrue:2
-1x Mariana Gilbert		   4   PRE cel			  Toreador:1
-1x Violette Prentiss		   4   PRE dom			  Ventrue:1
-1x Gideon Fontaine		   3   PRE			  Ventrue:1
-1x Delilah Easton		   2   pre			  Toreador:1
+Crypt (13 cards, min=13 max=32 avg=5.77)
+----------------------------------------
+5x Anson                           8   CEL PRE aus dom  prince    Toreador:1
+1x Rake                            6   PRE aus cel pot  prince    Brujah:1
+1x Victoria Ash                    6   PRE aus cel dom  primogen  Toreador:2
+1x Ramiel DuPre                    5   PRE aus cel dom            Toreador:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                Ventrue:2
+1x Mariana Gilbert                 4   PRE cel                    Toreador:1
+1x Violette Prentiss               4   PRE dom                    Ventrue:1
+1x Gideon Fontaine                 3   PRE                        Ventrue:1
+1x Delilah Easton                  2   pre                        Toreador:1
 
 Library (90 cards)
 Master (41; 8 trifle)

@@ -10,13 +10,13 @@ Created by: David Litwin (Pagan)
 
 -- 1GW2.5 + 3VP in final
 
-Crypt (12 cards, min=20, max=36, avg=7.25)
-------------------------------------------
-5x Nehemiah			9   POT PRE SER TEM obt	 2 votes   True Brujah:4
-2x Giangaleazzo, The Traitor	8   OBT POT PRE dom	 prince	   Lasombra:4
-2x Shawnda Dorrit		6   CEL obt pot pre	 priscus   Brujah antitribu:4
-2x Bernard, The Scourge		5   ani for pre pro	 	   Gangrel:4
-1x Reginald Moore		4   PRE			 primogen  Brujah:4
+Crypt (12 cards, min=20 max=36 avg=7.25)
+----------------------------------------
+5x Nehemiah                     9   POT PRE SER TEM obt  2 votes   True Brujah:4
+2x Giangaleazzo, The Traitor    8   OBT POT PRE dom      prince    Lasombra:4
+2x Shawnda Dorrit               6   CEL obt pot pre      priscus   Brujah antitribu:4
+2x Bernard, The Scourge         5   ani for pre pro                Gangrel:4
+1x Reginald Moore               4   PRE                  primogen  Brujah:4
 
 Library (69 cards)
 Master (21; 5 trifle)

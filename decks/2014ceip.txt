@@ -7,15 +7,15 @@ Greg De los Reyes
 
 Deck Name: Thick Skinned Lawyers
 
-Crypt (12 cards, min=25, max=37, avg=7.58)
-------------------------------------------
-3x Sir Walter Nash		   7   DOM FOR PRE	    prince	Ventrue:1
-2x Democritus			   10  DOM PRE aus cel for  justicar	Ventrue:1
-2x Emerson Bridges		   8   DOM FOR PRE pot	    prince	Ventrue:1
-2x Timothy Crowley		   7   FOR PRE ani dom	    prince	Ventrue:1
-1x Helena Casimir		   9   DOM POT PRE cel for  primogen	Ventrue:1
-1x Luccia Paciola		   6   DOM for pre	    		Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	    		Ventrue:2
+Crypt (12 cards, min=25 max=37 avg=7.58)
+----------------------------------------
+3x Sir Walter Nash                 7   DOM FOR PRE          prince      Ventrue:1
+2x Democritus                      10  DOM PRE aus cel for  justicar    Ventrue:1
+2x Emerson Bridges                 8   DOM FOR PRE pot      prince      Ventrue:1
+2x Timothy Crowley                 7   FOR PRE ani dom      prince      Ventrue:1
+1x Helena Casimir                  9   DOM POT PRE cel for  primogen    Ventrue:1
+1x Luccia Paciola                  6   DOM for pre                      Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                      Ventrue:2
 
 Library (87 cards)
 Master (14; 2 trifle)

@@ -12,20 +12,20 @@ Description: Straightforward bleed deck with Computer Hackings. If
 blocked, knock their teeth out with potence. Deck contains light
 intercept and bleed bounce, which were both crucial.
 
-Crypt (12 cards, min=7, max=19, avg=3.42)
------------------------------------------
-1x Dr. Julius Sutphen	    5	POT dom obt	 bishop	 Lasombra:3
-1x Dr. Julius Sutphen (ADV) 5	POT dom obt	 	 Lasombra:3
-1x Wah Chun-Yuen	    5	POT cel dom pre	 	 Brujah antitribu:3
-1x Earl			    4	dom for pot	 	 Ventrue:3
-1x Francesca Giovanni	    4	dom nec pot	 	 Giovanni:2
-1x Hugo			    4	POT pre vic	 	 Brujah antitribu:2
-1x Jimmy Dunn		    4	CEL POT for	 	 Pander:2
-1x Cameron		    3	dom pot		 	 Lasombra:2
-1x Arnold Simpson	    2	pot		 	 Brujah:3
-1x Mitchell, The Headhunter 2	obt pot		 	 Pander:2
-1x Paul DiCarlo, The Alpha  2	pot		 	 Giovanni:2
-1x Eddie Gaines		    1	dem pot		 	 Caitiff:3
+Crypt (12 cards, min=7 max=19 avg=3.42)
+---------------------------------------
+1x Dr. Julius Sutphen       5   POT dom obt      bishop  Lasombra:3
+1x Dr. Julius Sutphen (ADV) 5   POT dom obt              Lasombra:3
+1x Wah Chun-Yuen            5   POT cel dom pre          Brujah antitribu:3
+1x Earl                     4   dom for pot              Ventrue:3
+1x Francesca Giovanni       4   dom nec pot              Giovanni:2
+1x Hugo                     4   POT pre vic              Brujah antitribu:2
+1x Jimmy Dunn               4   CEL POT for              Pander:2
+1x Cameron                  3   dom pot                  Lasombra:2
+1x Arnold Simpson           2   pot                      Brujah:3
+1x Mitchell, The Headhunter 2   obt pot                  Pander:2
+1x Paul DiCarlo, The Alpha  2   pot                      Giovanni:2
+1x Eddie Gaines             1   dem pot                  Caitiff:3
 
 Library (90 cards)
 Master (15; 4 trifle)

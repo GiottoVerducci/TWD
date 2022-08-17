@@ -17,15 +17,15 @@ very little pool gain (Legal, Wider View and Powerbase if you're lucky to draw i
 The "stealth" module (Daring the Dawn, Missing Voice, Siren's Lure, Paris Opera House and Virtuosa) works extremely well,
 even against heavy blocker. Just be sure to use the Daring wisely so you send the blocking minions to torpor.
 
-Crypt (12 cards, min=12, max=24, avg=4.58)
-------------------------------------------
-3x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
-3x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
-2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
-1x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
-1x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
-1x Muse				  3   ani for mel	Daughter of Cacophony:2
-1x New Blood			  2   san		Blood Brother:ANY -- a chump blocker, and crypt cycler
+Crypt (12 cards, min=12 max=24 avg=4.58)
+----------------------------------------
+3x Yseult                         6   FOR MEL PRE       Daughter of Cacophony:3
+3x Angela Preston                 5   MEL PRE for       Daughter of Cacophony:2
+2x Delilah Monroe                 4   MEL for pre       Daughter of Cacophony:2
+1x Gaël Pilet                     6   FOR MEL chi pre   Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret 3   mel pre           Daughter of Cacophony:2
+1x Muse                           3   ani for mel       Daughter of Cacophony:2
+1x New Blood                      2   san               Blood Brother:ANY -- a chump blocker, and crypt cycler
 
 Library (88 cards)
 Master (17; 2 trifle)

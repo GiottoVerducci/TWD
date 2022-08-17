@@ -6,15 +6,15 @@ Adam Hulse
 
 "Owain and the Anarchs"
 
-Crypt (12 cards, min=4, max=30, avg=4.67)
------------------------------------------
-4x Anarch Convert		    1	-none-			Caitiff:ANY
-2x Owain Evans, The Wanderer	    8	AUS DOM FOR cel pre	Ventrue antitribu:3
-2x Joseph O'Grady		    7	DOM FOR aus cel		Ventrue antitribu:3
-1x Dylan			    6	aus cel dom for pro	Ventrue antitribu:2
-1x Marlene, The Infernalist	    6	AUS DOM dem for tha	Ventrue antitribu:2
-1x Kyoko Shinsegawa		    5	aus cel dom for		Tremere:3
-1x Vincent Day, Paladin and Paragon 5	aus dom for pot tha	Ventrue antitribu:2
+Crypt (12 cards, min=4 max=30 avg=4.67)
+---------------------------------------
+4x Anarch Convert                   1   -none-                  Caitiff:ANY
+2x Owain Evans, The Wanderer        8   AUS DOM FOR cel pre     Ventrue antitribu:3
+2x Joseph O'Grady                   7   DOM FOR aus cel         Ventrue antitribu:3
+1x Dylan                            6   aus cel dom for pro     Ventrue antitribu:2
+1x Marlene, The Infernalist         6   AUS DOM dem for tha     Ventrue antitribu:2
+1x Kyoko Shinsegawa                 5   aus cel dom for         Tremere:3
+1x Vincent Day, Paladin and Paragon 5   aus dom for pot tha     Ventrue antitribu:2
 
 Library (89 cards)
 Master (19; 3 trifle)

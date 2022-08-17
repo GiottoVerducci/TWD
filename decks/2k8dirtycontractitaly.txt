@@ -8,14 +8,14 @@ Axel Zaminga
 Winnig Deck Name: [Malkavian] Welcome Home (Sanitarium)
 Description: malkavian with politics
 
-Crypt (12 cards, min=22, max=40, avg=8)
----------------------------------------
-4x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	   Malkavian:3
-3x Maris Streck		9   AUS OBF ani dem dom	 justicar  Malkavian:3
-2x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
-1x Quentin King III	7   AUS DEM obf pre	 prince	   Malkavian:3
-1x Victoria		5   AUS cel obf		 	   Malkavian:2
-1x Zöe			3   AUS cel obf		 	   Malkavian:2
+Crypt (12 cards, min=22 max=40 avg=8)
+-------------------------------------
+4x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince    Malkavian:3
+3x Maris Streck         9   AUS OBF ani dem dom  justicar  Malkavian:3
+2x Greger Anderssen     7   AUS OBF dom pro      prince    Malkavian:2
+1x Quentin King III     7   AUS DEM obf pre      prince    Malkavian:3
+1x Victoria             5   AUS cel obf                    Malkavian:2
+1x Zöe                  3   AUS cel obf                    Malkavian:2
 
 Library (90 cards)
 Master (20)

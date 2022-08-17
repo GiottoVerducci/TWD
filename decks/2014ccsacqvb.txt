@@ -12,18 +12,18 @@ Deck Name: Bleed com Bleed
 
 Description: Classic DOM FOR Grinder Deck
 
-Crypt (12 cards, min=18, max=28, avg=6)
----------------------------------------
-2x Blackhorse Tanner	7   AUS DOM FOR		Ventrue antitribu:3
-2x Edward Vignes	6   DOM PRE for		Ventrue:3
-1x Edward Neally	7   DOM FOR aus pre	Ventrue antitribu:3
-1x Horatio Ballard	7   DOM FOR PRE aus	Ventrue:3
-1x Iliana		7   DOM FOR PRO tha	Gangrel:2
-1x Jan Pieterzoon (ADV)	7   DOM FOR pot pre	Ventrue:2
-1x Vanessa		6   DOM FOR aus pre	Ventrue antitribu:2
-1x Catherine du Bois	5   DOM for obf pre	Ventrue:3
-1x Ingrid Russo		4   DOM for		Ventrue antitribu:2
-1x Lana Butcher		3   dom for		Ventrue:3
+Crypt (12 cards, min=18 max=28 avg=6)
+-------------------------------------
+2x Blackhorse Tanner    7   AUS DOM FOR         Ventrue antitribu:3
+2x Edward Vignes        6   DOM PRE for         Ventrue:3
+1x Edward Neally        7   DOM FOR aus pre     Ventrue antitribu:3
+1x Horatio Ballard      7   DOM FOR PRE aus     Ventrue:3
+1x Iliana               7   DOM FOR PRO tha     Gangrel:2
+1x Jan Pieterzoon (ADV) 7   DOM FOR pot pre     Ventrue:2
+1x Vanessa              6   DOM FOR aus pre     Ventrue antitribu:2
+1x Catherine du Bois    5   DOM for obf pre     Ventrue:3
+1x Ingrid Russo         4   DOM for             Ventrue antitribu:2
+1x Lana Butcher         3   dom for             Ventrue:3
 
 Library (90 cards)
 Master (13; 6 trifle)

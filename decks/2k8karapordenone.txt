@@ -11,17 +11,17 @@ Deck Name: Iridella
 
 Description: "old school" Ventrue politics deck
 
-Crypt (13 cards, min=15, max=40, avg=7.23)
-------------------------------------------
-2x Democritus			   10  DOM PRE aus cel for	justicar	Ventrue:1
-2x Emerson Bridges		   8   DOM FOR PRE pot		prince		Ventrue:1
-2x Sir Walter Nash		   7   DOM FOR PRE		prince		Ventrue:1
-2x Gideon Fontaine		   3   PRE					Ventrue:1
-1x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Natasha Volfchek		   9   FOR PRE cel dom pot	primogen	Ventrue:1
-1x Wilhelm Waldburg		   9   DOM FOR PRE aus cel	prince		Ventrue:2
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
-1x Violette Prentiss		   4   PRE dom					Ventrue:1
+Crypt (13 cards, min=15 max=40 avg=7.23)
+----------------------------------------
+2x Democritus                      10  DOM PRE aus cel for      justicar        Ventrue:1
+2x Emerson Bridges                 8   DOM FOR PRE pot          prince          Ventrue:1
+2x Sir Walter Nash                 7   DOM FOR PRE              prince          Ventrue:1
+2x Gideon Fontaine                 3   PRE                                      Ventrue:1
+1x Arika                           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+1x Natasha Volfchek                9   FOR PRE cel dom pot      primogen        Ventrue:1
+1x Wilhelm Waldburg                9   DOM FOR PRE aus cel      prince          Ventrue:2
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                              Ventrue:2
+1x Violette Prentiss               4   PRE dom                                  Ventrue:1
 
 Library (90 cards)
 Master (17; 2 trifle)

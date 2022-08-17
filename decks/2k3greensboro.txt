@@ -12,14 +12,14 @@ together. Here's the actual tweak I played at the tournament. I've
 renamed the deck in my head as "Twenty Around the Table", but it just
 makes people antsy somehow.
 
-Crypt (12 cards, min=23, max=40, avg=8.17)
-------------------------------------------
-6x Rachel Brandywine		10  AUS DEM OBF PRO ani	 prince	 Malkavian:3
-2x Greger Anderssen		7   AUS OBF dom pro	 prince	 Malkavian:2
-1x Anatole, Prophet of Gehenna	8   AUS DEM OBF dom for	 	 Malkavian:2
-1x Quentin King III		7   AUS DEM obf pre	 prince	 Malkavian:3
-1x Persia, The Beautiful Statue	5   DEM aus obf		 	 Malkavian:3
-1x Adelaide Davis		4   aus dem obf		 	 Malkavian:3
+Crypt (12 cards, min=23 max=40 avg=8.17)
+----------------------------------------
+6x Rachel Brandywine            10  AUS DEM OBF PRO ani  prince  Malkavian:3
+2x Greger Anderssen             7   AUS OBF dom pro      prince  Malkavian:2
+1x Anatole, Prophet of Gehenna  8   AUS DEM OBF dom for          Malkavian:2
+1x Quentin King III             7   AUS DEM obf pre      prince  Malkavian:3
+1x Persia, The Beautiful Statue 5   DEM aus obf                  Malkavian:3
+1x Adelaide Davis               4   aus dem obf                  Malkavian:3
 
 Library (80 cards)
 Master (18)

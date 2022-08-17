@@ -8,15 +8,15 @@ Deck Name: Nosferatu/!Nosferatu Wall Deck
 
 Type: Wall/Intercept Group 1/2
 
-Crypt (12 cards, min=19, max=24, avg=5.25)
-------------------------------------------
-2x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot  	   Nosferatu antitribu:2
-2x Tusk, The Talebearer			  6   OBF ani pot  	   Nosferatu:1
-2x Calebros, The Martyr			  5   ANI obf pot  prince  Nosferatu:2
-2x Cicatriz				  5   ani obf pot  bishop  Nosferatu antitribu:2
-2x Nigel the Shunned			  5   ANI POT obf  	   Nosferatu antitribu:2
-1x Grendel the Worm-Eaten		  5   OBF ani pot  	   Nosferatu:1
-1x Sammy				  4   ani obf pot  	   Nosferatu:1
+Crypt (12 cards, min=19 max=24 avg=5.25)
+----------------------------------------
+2x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot          Nosferatu antitribu:2
+2x Tusk, The Talebearer                   6   OBF ani pot          Nosferatu:1
+2x Calebros, The Martyr                   5   ANI obf pot  prince  Nosferatu:2
+2x Cicatriz                               5   ani obf pot  bishop  Nosferatu antitribu:2
+2x Nigel the Shunned                      5   ANI POT obf          Nosferatu antitribu:2
+1x Grendel the Worm-Eaten                 5   OBF ani pot          Nosferatu:1
+1x Sammy                                  4   ani obf pot          Nosferatu:1
 
 Library (90 cards)
 Master (18)

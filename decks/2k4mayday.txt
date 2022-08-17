@@ -6,14 +6,14 @@ Cameron Domer
 
 Deck: I wish I was. torpor bound
 
-Crypt (12 cards, min=30, max=40, avg=9)
----------------------------------------
-5x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal  Lasombra:2
-2x Lucita				  8   DOM FOR OBT cel pot		  Lasombra:2
-2x Lucita (ADV)				  8   DOM FOR OBT cel pot		  Lasombra:2
-1x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	  Ventrue:3
-1x Marcus Vitel (ADV)			  10  DOM FOR OBF OBT POT PRE		  Lasombra:3
-1x Aurora Van Brande, Paladin		  6   OBT dom for pot			  Lasombra:2
+Crypt (12 cards, min=30 max=40 avg=9)
+-------------------------------------
+5x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal  Lasombra:2
+2x Lucita                                 8   DOM FOR OBT cel pot                 Lasombra:2
+2x Lucita (ADV)                           8   DOM FOR OBT cel pot                 Lasombra:2
+1x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince    Ventrue:3
+1x Marcus Vitel (ADV)                     10  DOM FOR OBF OBT POT PRE             Lasombra:3
+1x Aurora Van Brande, Paladin             6   OBT dom for pot                     Lasombra:2
 
 Library (90 cards)
 Master (17)

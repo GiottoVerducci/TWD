@@ -28,11 +28,11 @@ by the Fury), to oust Kate and then Brett soon after, completing the table sweep
 only 1.5 VP in the preliminary rounds and just barely making the final table as the 5th seed. Incredibly
 close tournament and my first win!!
 
-Crypt (12 cards, min=40, max=44, avg=10.42)
--------------------------------------------
-5x Nergal		10  AUS DAI FOR OBF PRE THA	Baali:5
-2x Nergal (ADV)		10  AUS DAI FOR OBF PRE THA	Baali:5
-5x Saulot, The Wanderer	11  AUS FOR OBE THA VAL dai	Salubri:4
+Crypt (12 cards, min=40 max=44 avg=10.42)
+-----------------------------------------
+5x Nergal               10  AUS DAI FOR OBF PRE THA     Baali:5
+2x Nergal (ADV)         10  AUS DAI FOR OBF PRE THA     Baali:5
+5x Saulot, The Wanderer 11  AUS FOR OBE THA VAL dai     Salubri:4
 
 Library (90 cards)
 Master (21; 7 trifle)

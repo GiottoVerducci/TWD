@@ -6,13 +6,13 @@ Jay Kristoff
 
 Toreador Princes with Guns
 
-Crypt (12 cards, min=32, max=40, avg=8.75)
-------------------------------------------
-5x Anson		8   CEL PRE aus dom		prince	  Toreador:1
-2x Anneke		10  AUS CEL PRE dom		justicar  Toreador:1
-2x François Villon	10  AUS CEL PRE chi obf pot	prince	  Toreador:2
-2x Marcellus		8   AUS CEL pro			prince	  Toreador:2
-1x Klaus van der Veken	9   CEL PRE aus obf tha		prince	  Toreador:2
+Crypt (12 cards, min=32 max=40 avg=8.75)
+----------------------------------------
+5x Anson                8   CEL PRE aus dom             prince    Toreador:1
+2x Anneke               10  AUS CEL PRE dom             justicar  Toreador:1
+2x François Villon      10  AUS CEL PRE chi obf pot     prince    Toreador:2
+2x Marcellus            8   AUS CEL pro                 prince    Toreador:2
+1x Klaus van der Veken  9   CEL PRE aus obf tha         prince    Toreador:2
 
 Library (90 cards)
 Master (20)

@@ -9,20 +9,20 @@ Deck Name: Skullduggery
 
 Description: TWD GLQ 2008, Madison
 
-Crypt (12 cards, min=24, max=32, avg=6.75)
-------------------------------------------
-1x Vasantasena		  9   AUS DEM OBF dom pot  Malkavian antitribu:2
-1x Cornelius Ottavio	  8   AUS OBF pre qui	   Malkavian:2
-1x Reg Driscoll		  8   OBF THN aus for pre  Samedi:2
-1x Bryan Van Duesen	  7   DOM THA aus pre	   Tremere antitribu:2
-1x Siamese, The		  7   PRE SPI ani pro	   Ahrimane:2
-1x Adrianne		  6   aus cel pot pre	   Toreador:1
-1x Dylan		  6   aus cel dom for pro  Ventrue antitribu:2
-1x Lydia Van Cuelen	  6   aus dom pre tha	   Tremere:1
-1x Ozmo			  6   AUS dom obf	   Malkavian:1
-1x Quira, The Bitch Queen 6   AUS OBF obt tha	   Malkavian antitribu:2
-1x Rafaele Giovanni	  6   NEC cel obf	   Giovanni:2
-1x Sheila Mezarin	  6   AUS PRE cel for	   Toreador antitribu:2
+Crypt (12 cards, min=24 max=32 avg=6.75)
+----------------------------------------
+1x Vasantasena            9   AUS DEM OBF dom pot  Malkavian antitribu:2
+1x Cornelius Ottavio      8   AUS OBF pre qui      Malkavian:2
+1x Reg Driscoll           8   OBF THN aus for pre  Samedi:2
+1x Bryan Van Duesen       7   DOM THA aus pre      Tremere antitribu:2
+1x Siamese, The           7   PRE SPI ani pro      Ahrimane:2
+1x Adrianne               6   aus cel pot pre      Toreador:1
+1x Dylan                  6   aus cel dom for pro  Ventrue antitribu:2
+1x Lydia Van Cuelen       6   aus dom pre tha      Tremere:1
+1x Ozmo                   6   AUS dom obf          Malkavian:1
+1x Quira, The Bitch Queen 6   AUS OBF obt tha      Malkavian antitribu:2
+1x Rafaele Giovanni       6   NEC cel obf          Giovanni:2
+1x Sheila Mezarin         6   AUS PRE cel for      Toreador antitribu:2
 
 Library (80 cards)
 Master (15; 2 trifle)

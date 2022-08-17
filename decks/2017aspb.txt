@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/8681
 
 Deck Name: Calcinha Preta
 
-Crypt (12 cards, min=4, max=40, avg=5.67)
------------------------------------------
-4x Matasuntha	  10  ANI AUS CEL FOR PRO		  Gangrel:5
-4x Anarch Convert 1   -none-				  Caitiff:ANY
-2x Inyanga	  9   ANI AUS FOR PRO dom nec	primogen  Gangrel:4
-2x T.J.		  3   cel for				  Gangrel:4
+Crypt (12 cards, min=4 max=40 avg=5.67)
+---------------------------------------
+4x Matasuntha     10  ANI AUS CEL FOR PRO                 Gangrel:5
+4x Anarch Convert 1   -none-                              Caitiff:ANY
+2x Inyanga        9   ANI AUS FOR PRO dom nec   primogen  Gangrel:4
+2x T.J.           3   cel for                             Gangrel:4
 
 Library (90 cards)
 Master (27; 4 trifle)

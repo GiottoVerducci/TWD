@@ -6,16 +6,16 @@ Christian Cannizzaro
 
 Deck Name: Gangrel Dominate
 
-Crypt (12 cards, min=22, max=44, avg=8.33)
-------------------------------------------
-4x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
-2x Iliana		7   DOM FOR PRO tha	 		Gangrel:2
-1x Genevieve		10  ANI FOR PRO aus dom	 priscus	Gangrel antitribu:2
-1x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
-1x Faruq		8   ANI PRO dom for pot	 		Gangrel:2
-1x Caitlin		6   ANI PRO aus dom	 bishop		Gangrel antitribu:2
-1x Dylan		6   aus cel dom for pro	 		Ventrue antitribu:2
-1x Chandler Hungerford	3   PRO			 		Gangrel:2
+Crypt (12 cards, min=22 max=44 avg=8.33)
+----------------------------------------
+4x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
+2x Iliana               7   DOM FOR PRO tha                     Gangrel:2
+1x Genevieve            10  ANI FOR PRO aus dom  priscus        Gangrel antitribu:2
+1x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
+1x Faruq                8   ANI PRO dom for pot                 Gangrel:2
+1x Caitlin              6   ANI PRO aus dom      bishop         Gangrel antitribu:2
+1x Dylan                6   aus cel dom for pro                 Ventrue antitribu:2
+1x Chandler Hungerford  3   PRO                                 Gangrel:2
 
 Library (81 cards)
 Master (12; 2 trifle)

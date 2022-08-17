@@ -7,11 +7,11 @@ Danilo Torrisi
 
 Deck Name: Happy Hordes
 
-Crypt (12 cards, min=12, max=26, avg=4.17)
-------------------------------------------
-8x Horde, The		   3   dai obf pre	    	    Baali:6
-2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  	    Baali:6
-2x Arishat		   6   DAI OBF PRE	    1 vote  Baali:6
+Crypt (12 cards, min=12 max=26 avg=4.17)
+----------------------------------------
+8x Horde, The              3   dai obf pre                  Baali:6
+2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro          Baali:6
+2x Arishat                 6   DAI OBF PRE          1 vote  Baali:6
 
 Library (90 cards)
 Master (39; 22 trifle)

@@ -12,15 +12,15 @@ Description: An evolution of my Gangrel dominate deck, mixed with my Gang of Fur
 and a big deal of inspiration from Martin Weinmayer's deck. Ingrid Rossler is very important since it's probably
 the first vampire you'll bring out in order to play Parity Shift and to accelerate the influence of the other vampires.
 
-Crypt (12 cards, min=32, max=44, avg=9.58)
-------------------------------------------
-4x Stanislava	  11  ANI CEL DOM FOR PRO	   inner circle	 Gangrel:2
-3x Ingrid Rossler 9   ANI FOR PRO dom		   prince	 Gangrel:2
-1x Hartmut Stover 10  CEL OBF PRO dom for	   archbishop	 Gangrel antitribu:3
-1x Vlad Tepes	  10  ANI DOM PRO THA VIC aus	   		 Tzimisce:3
-1x Xaviar (ADV)	  10  ABO ANI FOR PRO aus cel pot  justicar	 Gangrel:3
-1x Mark Decker	  8   CEL PRO ani for obf pot	   prince	 Gangrel:3
-1x Caitlin	  6   ANI PRO aus dom		   bishop	 Gangrel antitribu:2
+Crypt (12 cards, min=32 max=44 avg=9.58)
+----------------------------------------
+4x Stanislava     11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+3x Ingrid Rossler 9   ANI FOR PRO dom              prince        Gangrel:2
+1x Hartmut Stover 10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+1x Vlad Tepes     10  ANI DOM PRO THA VIC aus                    Tzimisce:3
+1x Xaviar (ADV)   10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+1x Mark Decker    8   CEL PRO ani for obf pot      prince        Gangrel:3
+1x Caitlin        6   ANI PRO aus dom              bishop        Gangrel antitribu:2
 
 Library (86 cards)
 Master (23; 9 trifle)

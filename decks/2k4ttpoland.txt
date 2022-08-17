@@ -9,13 +9,13 @@ Deck Name: Tegyrius & Tariq - wall deck
 
 Description: Block, send to torpor, burn......
 
-Crypt (12 cards, min=28, max=36, avg=8.08)
-------------------------------------------
-4x Tegyrius, Vizier	  9   AUS CEL FOR QUI pre  Assamite:2
+Crypt (12 cards, min=28 max=36 avg=8.08)
+----------------------------------------
+4x Tegyrius, Vizier       9   AUS CEL FOR QUI pre  Assamite:2
 1x Tegyrius, Vizier (ADV) 9   AUS CEL FOR PRE QUI  Assamite:2
-3x Fatima al-Faqadi	  8   CEL OBF QUI aus for  Assamite:2
-3x Tariq, The Silent	  7   AUS FOR OBF QUI cel  Assamite:2
-1x Parnassus		  7   CEL QUI aus tha	   Assamite:2
+3x Fatima al-Faqadi       8   CEL OBF QUI aus for  Assamite:2
+3x Tariq, The Silent      7   AUS FOR OBF QUI cel  Assamite:2
+1x Parnassus              7   CEL QUI aus tha      Assamite:2
 
 Library (90 cards)
 Master (21; 2 trifle)

@@ -52,19 +52,19 @@ declines to block. A Night Moves and a stealthed bleed later, I oust Mark.
 
 I have two cards left in my library. I concede my VP to Jay winning the 2-2-1 split on seeding.
 
-Crypt (12 cards, min=8, max=18, avg=3.25)
------------------------------------------
-2x Lubomira Hradok 3   OBF		Nosferatu antitribu:5
-1x Frank Litzpar   5   OBF ani for pot	Nosferatu antitribu:4
-1x Skidmark	   5   FOR OBF aus pot	Nosferatu antitribu:4
-1x Aaron Bathurst  4   for obf pot	Nosferatu antitribu:4
-1x Jeffrey Mullins 4   OBF cel		Gangrel antitribu:4
-1x Skulk	   4   OBF ani		Nosferatu antitribu:5
-1x Blister	   3   obf pot		Nosferatu antitribu:4
-1x Alu		   2   obf		Assamite:5
-1x Bloodfeud	   2   obf		Malkavian antitribu:4
-1x Denette Stensen 2   obf		Gangrel antitribu:4
-1x Old Neddacka	   2   obf		Nosferatu antitribu:4
+Crypt (12 cards, min=8 max=18 avg=3.25)
+---------------------------------------
+2x Lubomira Hradok 3   OBF              Nosferatu antitribu:5
+1x Frank Litzpar   5   OBF ani for pot  Nosferatu antitribu:4
+1x Skidmark        5   FOR OBF aus pot  Nosferatu antitribu:4
+1x Aaron Bathurst  4   for obf pot      Nosferatu antitribu:4
+1x Jeffrey Mullins 4   OBF cel          Gangrel antitribu:4
+1x Skulk           4   OBF ani          Nosferatu antitribu:5
+1x Blister         3   obf pot          Nosferatu antitribu:4
+1x Alu             2   obf              Assamite:5
+1x Bloodfeud       2   obf              Malkavian antitribu:4
+1x Denette Stensen 2   obf              Gangrel antitribu:4
+1x Old Neddacka    2   obf              Nosferatu antitribu:4
 
 Library (69 cards)
 Master (13; 6 trifle)

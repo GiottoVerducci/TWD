@@ -18,18 +18,18 @@ Tomás (winnies ofuscate) -> Gabri (gargoyles) ->José Luis Manuel -> David V. (
 You can see the decks list in final in this site:
 bcncrisis.com/tournament/18
 
-Crypt (12 cards, min=21, max=32, avg=6.5)
------------------------------------------
-2x Ayelech		  7   AUS DOM THA	   prince	Tremere:6
-2x Trevon Parker	  6   AUS DOM THA	   		Tremere:6
-1x Claudio Severino (ADV) 9   AUS DOM THA cel obf  		Tremere:5
-1x Gerald Windham	  9   AUS DOM FOR THA	   		Tremere:5
-1x Rutor		  7   AUS DOM THA pro vic  		Tremere:5
-1x Inês Tristão		  6   THA aus dom pre	   prince	Tremere:6
-1x Lloyd Brooks		  6   DOM THA aus pot	   primogen	Tremere:6
-1x Chrysanthemum	  5   AUS THA dom	   primogen	Tremere:6
-1x Claus Wegener	  5   DOM aus for tha	   		Tremere:5
-1x Zane			  5   THA aus dom	   primogen	Tremere:5
+Crypt (12 cards, min=21 max=32 avg=6.5)
+---------------------------------------
+2x Ayelech                7   AUS DOM THA          prince       Tremere:6
+2x Trevon Parker          6   AUS DOM THA                       Tremere:6
+1x Claudio Severino (ADV) 9   AUS DOM THA cel obf               Tremere:5
+1x Gerald Windham         9   AUS DOM FOR THA                   Tremere:5
+1x Rutor                  7   AUS DOM THA pro vic               Tremere:5
+1x Inês Tristão           6   THA aus dom pre      prince       Tremere:6
+1x Lloyd Brooks           6   DOM THA aus pot      primogen     Tremere:6
+1x Chrysanthemum          5   AUS THA dom          primogen     Tremere:6
+1x Claus Wegener          5   DOM aus for tha                   Tremere:5
+1x Zane                   5   THA aus dom          primogen     Tremere:5
 
 Library (76 cards)
 Master (10; 1 trifle)

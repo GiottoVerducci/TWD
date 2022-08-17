@@ -9,17 +9,17 @@ Deck Name: The Thousandfold Perfected Anarch
 
 Description: Temporis bleed with anarch tech
 
-Crypt (12 cards, min=19, max=32, avg=6.5)
------------------------------------------
-4x Ian Forestal		8   AUS DOM THA		 Tremere antitribu:2
-1x Bryan Van Duesen	7   DOM THA aus pre	 Tremere antitribu:2
-1x Carlotta Giovanni	7   NEC POT dom obf	 Giovanni:2
-1x Krassimir		7   POT TEM dom nec pre	 True Brujah:2
-1x Dylan		6   aus cel dom for pro	 Ventrue antitribu:2
-1x Catherine du Bois	5   DOM for obf pre	 Ventrue:3
-1x Ilyana Ravidovich	5   aus dom for pre	 Ventrue:3
-1x Le Dinh Tho		5   NEC aus dom		 Nagaraja:2
-1x Ingrid Russo		4   DOM for		 Ventrue antitribu:2
+Crypt (12 cards, min=19 max=32 avg=6.5)
+---------------------------------------
+4x Ian Forestal         8   AUS DOM THA          Tremere antitribu:2
+1x Bryan Van Duesen     7   DOM THA aus pre      Tremere antitribu:2
+1x Carlotta Giovanni    7   NEC POT dom obf      Giovanni:2
+1x Krassimir            7   POT TEM dom nec pre  True Brujah:2
+1x Dylan                6   aus cel dom for pro  Ventrue antitribu:2
+1x Catherine du Bois    5   DOM for obf pre      Ventrue:3
+1x Ilyana Ravidovich    5   aus dom for pre      Ventrue:3
+1x Le Dinh Tho          5   NEC aus dom          Nagaraja:2
+1x Ingrid Russo         4   DOM for              Ventrue antitribu:2
 
 Library (90 cards)
 Master (16; 1 trifle)

@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/9615
 
 Deck Name: Mono animalismo
 
-Crypt (14 cards, min=4, max=18, avg=2.36)
------------------------------------------
-6x Anarch Convert 1   -none-	   Caitiff:ANY
-1x Lord Ashton	  5   ANI for pro  Gangrel:3
-1x Petra	  5   ANI OBF aus  Nosferatu:4
-1x Beetleman	  4   ANI obf	   Nosferatu:4
-1x Bobby Lemon	  4   ANI pro	   Gangrel:3
-1x Bothwell	  3   ani for	   Gangrel:3
-1x Stick	  3   ANI	   Nosferatu antitribu:4
-1x Mouse	  2   ani	   Nosferatu:3
-1x Lisa Noble	  1   ani	   Caitiff:3
+Crypt (14 cards, min=4 max=18 avg=2.36)
+---------------------------------------
+6x Anarch Convert 1   -none-       Caitiff:ANY
+1x Lord Ashton    5   ANI for pro  Gangrel:3
+1x Petra          5   ANI OBF aus  Nosferatu:4
+1x Beetleman      4   ANI obf      Nosferatu:4
+1x Bobby Lemon    4   ANI pro      Gangrel:3
+1x Bothwell       3   ani for      Gangrel:3
+1x Stick          3   ANI          Nosferatu antitribu:4
+1x Mouse          2   ani          Nosferatu:3
+1x Lisa Noble     1   ani          Caitiff:3
 
 Library (78 cards)
 Master (22; 4 trifle)

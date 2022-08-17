@@ -25,17 +25,17 @@ I made it to the finals with 1GW3.5VP-s as the fifth
 finalist. The seating in the finals was actually really
 cool for me. With some luck I made 1GW4VP in final
 
-Crypt (12 cards, min=8, max=32, avg=4.5)
-----------------------------------------
-4x Nana Buruku	 8   ANI POT PRE  Guruhi:4
-1x Beetleman	 4   ANI obf	  Nosferatu:4
-1x Bobby Lemon	 4   ANI pro	  Gangrel:3
-1x Bothwell	 3   ani for	  Gangrel:3
-1x Darva Felispa 3   ani pot	  Nosferatu:3
-1x Stick	 3   ANI	  Nosferatu antitribu:4
-1x Mouse	 2   ani	  Nosferatu:3
-1x Zip		 2   ani	  Ravnos:3
-1x Lisa Noble	 1   ani	  Caitiff:3
+Crypt (12 cards, min=8 max=32 avg=4.5)
+--------------------------------------
+4x Nana Buruku   8   ANI POT PRE  Guruhi:4
+1x Beetleman     4   ANI obf      Nosferatu:4
+1x Bobby Lemon   4   ANI pro      Gangrel:3
+1x Bothwell      3   ani for      Gangrel:3
+1x Darva Felispa 3   ani pot      Nosferatu:3
+1x Stick         3   ANI          Nosferatu antitribu:4
+1x Mouse         2   ani          Nosferatu:3
+1x Zip           2   ani          Ravnos:3
+1x Lisa Noble    1   ani          Caitiff:3
 
 Library (75 cards)
 Master (18; 2 trifle)

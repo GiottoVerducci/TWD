@@ -7,20 +7,20 @@ David Baker
 
 Deck Name: my mind still numb
 
-Crypt (12 cards, min=6, max=16, avg=2.75)
------------------------------------------
-1x Jazz Wentworth			5   PRE dom for	 Ventrue:1
-1x Mariana Gilbert			4   PRE cel	 Toreador:1
-1x Violette Prentiss			4   PRE dom	 Ventrue:1
-1x Gideon Fontaine			3   PRE		 Ventrue:1
-1x Itzahk Levine			3   cel pre	 Ventrue:2
-1x Lena Rowe				3   aus obf pre	 Pander:2
-1x Roland Loussarian			3   for pre	 Ventrue:1
-1x Delilah Easton			2   pre		 Toreador:1
-1x Frederick the Weak			2   pre		 Brujah antitribu:2
-1x Vasilis, The Traitor of Don Cruez	2   pre		 Brujah:2
-1x Angela Decker			1   pre		 Pander:2
-1x Igo the Hungry			1   pre pro	 Caitiff:1
+Crypt (12 cards, min=6 max=16 avg=2.75)
+---------------------------------------
+1x Jazz Wentworth                       5   PRE dom for  Ventrue:1
+1x Mariana Gilbert                      4   PRE cel      Toreador:1
+1x Violette Prentiss                    4   PRE dom      Ventrue:1
+1x Gideon Fontaine                      3   PRE          Ventrue:1
+1x Itzahk Levine                        3   cel pre      Ventrue:2
+1x Lena Rowe                            3   aus obf pre  Pander:2
+1x Roland Loussarian                    3   for pre      Ventrue:1
+1x Delilah Easton                       2   pre          Toreador:1
+1x Frederick the Weak                   2   pre          Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez    2   pre          Brujah:2
+1x Angela Decker                        1   pre          Pander:2
+1x Igo the Hungry                       1   pre pro      Caitiff:1
 
 Library (90 cards)
 Master (15; 1 trifle)

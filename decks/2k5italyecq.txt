@@ -7,14 +7,14 @@ Andrea Del Cont
 
 A sort of Lasombra S&B
 
-Crypt (12 cards, min=19, max=30, avg=6.25)
-------------------------------------------
-3x Henri Lavenant		7   DOM OBT pot qui		 Lasombra:3
-3x Banjoko			5   DOM obt pot			 Lasombra:3
-2x Gratiano			8   DOM OBT obf pot	priscus	 Lasombra:2
-2x Tobias Smith			7   DOM OBT PRE pot		 Lasombra:3
-1x Guido Lucciano		5   OBT dom obf			 Lasombra:2
-1x Ignacio, The Black Priest	4   dom obt pot			 Lasombra:2
+Crypt (12 cards, min=19 max=30 avg=6.25)
+----------------------------------------
+3x Henri Lavenant               7   DOM OBT pot qui              Lasombra:3
+3x Banjoko                      5   DOM obt pot                  Lasombra:3
+2x Gratiano                     8   DOM OBT obf pot     priscus  Lasombra:2
+2x Tobias Smith                 7   DOM OBT PRE pot              Lasombra:3
+1x Guido Lucciano               5   OBT dom obf                  Lasombra:2
+1x Ignacio, The Black Priest    4   dom obt pot                  Lasombra:2
 
 Library (79 cards)
 Master (12)

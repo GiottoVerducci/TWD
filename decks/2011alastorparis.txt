@@ -8,14 +8,14 @@ Mehdi Mazni
 Deck Name: nephandus
 Created by: Julien Ohler (derjudge)
 
-Crypt (12 cards, min=8, max=20, avg=3.5)
-----------------------------------------
-5x Antonio d'Erlette		 5   THA dom for pot	Tremere antitribu:4
-2x Béatrice "Oracle171" Tremblay 3   inn ven		Innocent:4
-2x Tupdog			 1   POT VIS		Gargoyle:3
-1x Ember Wright			 3   aus dom		Tremere antitribu:3
-1x Keith Moody			 3   DOM		Tremere antitribu:4
-1x Saiz				 3   aus dom		Tremere antitribu:3
+Crypt (12 cards, min=8 max=20 avg=3.5)
+--------------------------------------
+5x Antonio d'Erlette             5   THA dom for pot    Tremere antitribu:4
+2x Béatrice "Oracle171" Tremblay 3   inn ven            Innocent:4
+2x Tupdog                        1   POT VIS            Gargoyle:3
+1x Ember Wright                  3   aus dom            Tremere antitribu:3
+1x Keith Moody                   3   DOM                Tremere antitribu:4
+1x Saiz                          3   aus dom            Tremere antitribu:3
 
 Library (80 cards)
 Master (38; 1 trifle)

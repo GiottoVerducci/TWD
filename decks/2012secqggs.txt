@@ -11,17 +11,17 @@ Deck Name: Earth Intruders
 
 Description: Courtesy of Erik
 
-Crypt (13 cards, min=6, max=32, avg=4.69)
------------------------------------------
-4x Anson			8   CEL PRE aus dom	prince	Toreador:1
-2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
-1x Marcellus			8   AUS CEL pro		prince	Toreador:2
-1x Sarah Brando			3   CEL				Brujah antitribu:2
-1x Angel			2   cel				Brujah:1
-1x Carter			2   cel				Toreador antitribu:2
-1x Kanya Akhtar			2   cel				Assamite:2
-1x Antoinette DuChamp		1   cel pre			Caitiff:2
-1x Nik				1   cel				Caitiff:1
+Crypt (13 cards, min=6 max=32 avg=4.69)
+---------------------------------------
+4x Anson                        8   CEL PRE aus dom     prince  Toreador:1
+2x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
+1x Marcellus                    8   AUS CEL pro         prince  Toreador:2
+1x Sarah Brando                 3   CEL                         Brujah antitribu:2
+1x Angel                        2   cel                         Brujah:1
+1x Carter                       2   cel                         Toreador antitribu:2
+1x Kanya Akhtar                 2   cel                         Assamite:2
+1x Antoinette DuChamp           1   cel pre                     Caitiff:2
+1x Nik                          1   cel                         Caitiff:1
 
 Library (71 cards)
 Master (25; 3 trifle)

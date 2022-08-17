@@ -16,17 +16,17 @@ face ripped off. Fae contortion + oubliette to cancel a grapple and
 S:CE saved me twice on the day. Most useful vamp of the deck is
 definitely Arcadian, his special is invaluable.
 
-Crypt (12 cards, min=16, max=32, avg=6.17)
-------------------------------------------
-2x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
-2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
-2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
-1x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
-1x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
-1x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
-1x Ermenegildo, The Rake   5   DOM OBT pot	    		Lasombra:4
-1x Keith Moody		   3   DOM		    		Tremere antitribu:4
-1x Lucy Markowitz	   3   dom obt		    		Lasombra:4
+Crypt (12 cards, min=16 max=32 avg=6.17)
+----------------------------------------
+2x Arcadian, The           8   DOM MYT OBT chi for              Kiasyd:5
+2x Pherydima               8   DOM MYT NEC obt pot  bishop      Kiasyd:4
+2x Isanwayen               6   DOM MYT OBT                      Kiasyd:4
+1x Omme Enberbenight       7   MYT OBT cel dom      priscus     Kiasyd:4
+1x Roderick Phillips March 7   DOM MYT cel obt tha              Kiasyd:4
+1x Dame Hollerton          5   DOM OBT myt                      Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot                      Lasombra:4
+1x Keith Moody             3   DOM                              Tremere antitribu:4
+1x Lucy Markowitz          3   dom obt                          Lasombra:4
 
 Library (83 cards)
 Master (15; 1 trifle)

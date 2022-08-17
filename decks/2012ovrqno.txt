@@ -7,14 +7,14 @@ Will Kristoff
 
 Deck Name: Inter-Galactic Slime Belt
 
-Crypt (12 cards, min=16, max=24, avg=5.33)
-------------------------------------------
-2x Dr. Douglas Netchurch 6   AUS OBF dem dom	Malkavian:3
-2x Drusilla Euphemia	 6   AUS OBF dem vic	Malkavian antitribu:4
-2x Ingram Frizer	 6   AUS OBF ani pot	Nosferatu antitribu:3
-2x Morel		 6   AUS DEM OBF	Malkavian:4
-2x Florentina Lengauer	 4   OBF aus		Malkavian:4
-2x Roger Farnsworth	 4   OBF aus		Malkavian antitribu:3
+Crypt (12 cards, min=16 max=24 avg=5.33)
+----------------------------------------
+2x Dr. Douglas Netchurch 6   AUS OBF dem dom    Malkavian:3
+2x Drusilla Euphemia     6   AUS OBF dem vic    Malkavian antitribu:4
+2x Ingram Frizer         6   AUS OBF ani pot    Nosferatu antitribu:3
+2x Morel                 6   AUS DEM OBF        Malkavian:4
+2x Florentina Lengauer   4   OBF aus            Malkavian:4
+2x Roger Farnsworth      4   OBF aus            Malkavian antitribu:3
 
 Library (90 cards)
 Master (12; 3 trifle)

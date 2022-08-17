@@ -8,14 +8,14 @@ Malween Douchy
 Deck Name: Antonio's rave party
 Created by: Nicolas Andre & Malween Douchy
 
-Crypt (12 cards, min=12, max=20, avg=4.17)
-------------------------------------------
-6x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-2x Saiz			3   aus dom		Tremere antitribu:3
-1x Janine		4   aus dom tha		Tremere antitribu:4
-1x Mosfair		4   cel dom tha		Tremere antitribu:4
-1x Ember Wright		3   aus dom		Tremere antitribu:3
-1x Keith Moody		3   DOM			Tremere antitribu:4
+Crypt (12 cards, min=12 max=20 avg=4.17)
+----------------------------------------
+6x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+2x Saiz                 3   aus dom             Tremere antitribu:3
+1x Janine               4   aus dom tha         Tremere antitribu:4
+1x Mosfair              4   cel dom tha         Tremere antitribu:4
+1x Ember Wright         3   aus dom             Tremere antitribu:3
+1x Keith Moody          3   DOM                 Tremere antitribu:4
 
 Library (90 cards)
 Master (43)

@@ -15,14 +15,14 @@ pay for your turns and try to get a lower pool than your prey. Then
 parity shift the pool back. If you can't get lower, then just use
 your other damage dealing votes to oust.
 
-Crypt (12 cards, min=19, max=40, avg=7.25)
-------------------------------------------
-4x Lucian	    10	AUS DOM OBF cel tha	justicar  Malkavian:1
-3x Gilbert Duane    7	AUS DOM OBF		prince	  Malkavian:1
-2x Greger Anderssen 7	AUS OBF dom pro		prince	  Malkavian:2
-1x Victoria	    5	AUS cel obf			  Malkavian:2
-1x Aleph	    4	AUS dom				  Malkavian:1
-1x Zöe		    3	AUS cel obf			  Malkavian:2
+Crypt (12 cards, min=19 max=40 avg=7.25)
+----------------------------------------
+4x Lucian           10  AUS DOM OBF cel tha     justicar  Malkavian:1
+3x Gilbert Duane    7   AUS DOM OBF             prince    Malkavian:1
+2x Greger Anderssen 7   AUS OBF dom pro         prince    Malkavian:2
+1x Victoria         5   AUS cel obf                       Malkavian:2
+1x Aleph            4   AUS dom                           Malkavian:1
+1x Zöe              3   AUS cel obf                       Malkavian:2
 
 Library (70 cards)
 Master (10)

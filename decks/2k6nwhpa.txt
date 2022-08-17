@@ -11,18 +11,18 @@ Description: The Lasombra are much better off with FOR instead of POT.
 Lucita, one of the few G2 Lasombra who isn't likely to contest,
 leads the army of bleed.
 
-Crypt (12 cards, min=11, max=32, avg=5.25)
-------------------------------------------
-2x Lucita			 8   DOM FOR OBT cel pot  Lasombra:2
-2x Lucita (ADV)			 8   DOM FOR OBT cel pot  Lasombra:2
-1x Aurora Van Brande, Paladin	 6   OBT dom for pot	  Lasombra:2
-1x Banjoko			 5   DOM obt pot	  Lasombra:3
-1x Guido Lucciano		 5   OBT dom obf	  Lasombra:2
-1x Ignacio, The Black Priest	 4   dom obt pot	  Lasombra:2
-1x Ingrid Russo			 4   DOM for		  Ventrue antitribu:2
-1x Cameron			 3   dom pot		  Lasombra:2
-1x Aaron Duggan, Cameron's Toady 2   obt		  Lasombra:2
-1x Samson			 2   dom		  Ventrue antitribu:2
+Crypt (12 cards, min=11 max=32 avg=5.25)
+----------------------------------------
+2x Lucita                        8   DOM FOR OBT cel pot  Lasombra:2
+2x Lucita (ADV)                  8   DOM FOR OBT cel pot  Lasombra:2
+1x Aurora Van Brande, Paladin    6   OBT dom for pot      Lasombra:2
+1x Banjoko                       5   DOM obt pot          Lasombra:3
+1x Guido Lucciano                5   OBT dom obf          Lasombra:2
+1x Ignacio, The Black Priest     4   dom obt pot          Lasombra:2
+1x Ingrid Russo                  4   DOM for              Ventrue antitribu:2
+1x Cameron                       3   dom pot              Lasombra:2
+1x Aaron Duggan, Cameron's Toady 2   obt                  Lasombra:2
+1x Samson                        2   dom                  Ventrue antitribu:2
 
 Library (86 cards)
 Master (16)

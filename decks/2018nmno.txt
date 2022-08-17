@@ -37,16 +37,16 @@ Thanks to Orpheus for a few tips on the deck.
 
 For certain decks I've upped my Converts from 5/13 to 6/13; proved useful for this deck.
 
-Crypt (13 cards, min=4, max=14, avg=2.08)
------------------------------------------
-6x Anarch Convert		   1   -none-	    Caitiff:ANY
-1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
-1x Gloria Giovanni		   4   DOM nec	    Giovanni:2
-1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
-1x Lia Milliner			   3   dom nec	    Giovanni:3
-1x Rudolfo Giovanni		   3   NEC	    Giovanni:2
-1x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
-1x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+Crypt (13 cards, min=4 max=14 avg=2.08)
+---------------------------------------
+6x Anarch Convert                  1   -none-       Caitiff:ANY
+1x Francesca Giovanni              4   dom nec pot  Giovanni:2
+1x Gloria Giovanni                 4   DOM nec      Giovanni:2
+1x Cristofero Giovanni             3   nec pot      Giovanni:2
+1x Lia Milliner                    3   dom nec      Giovanni:3
+1x Rudolfo Giovanni                3   NEC          Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom          Giovanni:2
+1x Paul DiCarlo, The Alpha         2   pot          Giovanni:2
 
 Library (76 cards)
 Master (20; 4 trifle)

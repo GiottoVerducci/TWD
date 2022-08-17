@@ -8,14 +8,14 @@ https://www.vekn.net/event-calendar/event/8170
 
 Deck Name: Setite Red List.
 
-Crypt (13 cards, min=20, max=40, avg=7.54)
-------------------------------------------
-4x Nakhthorheb			 10  OBF PRE SER	  Follower of Set:4
+Crypt (13 cards, min=20 max=40 avg=7.54)
+----------------------------------------
+4x Nakhthorheb                   10  OBF PRE SER          Follower of Set:4
 3x Sundervere, The Devil Brahmin 8   AUS PRE SER THA obf  Follower of Set:4
-3x Rabbat, The Sewer Goddess	 7   ANI FOR OBF pot	  Nosferatu:4
-1x Ankh-sen-Sutekh		 6   PRE SER obf	  Follower of Set:4
-1x Renenet			 5   OBF PRE ser	  Follower of Set:4
-1x Belle Equitone		 2   ser		  Follower of Set:4
+3x Rabbat, The Sewer Goddess     7   ANI FOR OBF pot      Nosferatu:4
+1x Ankh-sen-Sutekh               6   PRE SER obf          Follower of Set:4
+1x Renenet                       5   OBF PRE ser          Follower of Set:4
+1x Belle Equitone                2   ser                  Follower of Set:4
 
 Library (90 cards)
 Master (22; 8 trifle)

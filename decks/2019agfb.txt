@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/9384
 
 Deck Name: Lindos!
 
-Crypt (12 cards, min=15, max=40, avg=7.42)
-------------------------------------------
-5x Alonso Petrodon	10  ANI DOM OBF POT for tha	justicar  Nosferatu:5
-3x Gustaphe Brunnelle	8   ANI DOM POT obf		primogen  Nosferatu:4
-1x Harold Tanner	6   POT ani dom obf			  Nosferatu:4
-1x Beetleman		4   ANI obf				  Nosferatu:4
-1x Foureyes		3   obf pot				  Nosferatu:4
-1x Nichodemus		2   pot					  Nosferatu:5
+Crypt (12 cards, min=15 max=40 avg=7.42)
+----------------------------------------
+5x Alonso Petrodon      10  ANI DOM OBF POT for tha     justicar  Nosferatu:5
+3x Gustaphe Brunnelle   8   ANI DOM POT obf             primogen  Nosferatu:4
+1x Harold Tanner        6   POT ani dom obf                       Nosferatu:4
+1x Beetleman            4   ANI obf                               Nosferatu:4
+1x Foureyes             3   obf pot                               Nosferatu:4
+1x Nichodemus           2   pot                                   Nosferatu:5
 
 Library (90 cards)
 Master (11; 2 trifle)

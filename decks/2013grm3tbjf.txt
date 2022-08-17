@@ -15,16 +15,16 @@ are really really cool and I had never played them before.
 I'd rather have a second Arika instead of a third Marcus Vitel,
 but I didn't own any.
 
-Crypt (12 cards, min=31, max=41, avg=9.33)
-------------------------------------------
-3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
-3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
-1x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
-1x Suhailah		9   FOR OBF pot ser		prince		Ventrue:2
-1x Wilhelm Waldburg	9   DOM FOR PRE aus cel		prince		Ventrue:2
-1x Victorine Lafourcade	8   DOM FOR PRE tha		prince		Ventrue:3
-1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+Crypt (12 cards, min=31 max=41 avg=9.33)
+----------------------------------------
+3x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
+3x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
+1x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+1x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
+1x Suhailah             9   FOR OBF pot ser             prince          Ventrue:2
+1x Wilhelm Waldburg     9   DOM FOR PRE aus cel         prince          Ventrue:2
+1x Victorine Lafourcade 8   DOM FOR PRE tha             prince          Ventrue:3
+1x Catherine du Bois    5   DOM for obf pre                             Ventrue:3
 
 Library (81 cards)
 Master (23; 8 trifle)

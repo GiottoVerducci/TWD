@@ -8,9 +8,9 @@ Deck Name: Johannes' Apocalypse,13,4
 
 Description: Cybele & The Great Beast. Nothing new, something different.
 
-Crypt (12 cards, min=40, max=40, avg=10)
-----------------------------------------
-12x Cybele 10	ANI DAI OBF PRE SER THA	 Baali:4
+Crypt (12 cards, min=40 max=40 avg=10)
+--------------------------------------
+12x Cybele 10   ANI DAI OBF PRE SER THA  Baali:4
 
 Library (72 cards)
 Master (20)

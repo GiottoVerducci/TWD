@@ -7,15 +7,15 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/KflVbY51BOY/m/ZRn4hX
 
 "Please pass the Edge"
 
-Crypt (12 cards, min=13, max=24, avg=4.5)
------------------------------------------
-2x Thomas Thorne	6   DOM ani aus cel tha	 	   Tremere:1
-2x Merrill Molitor	5   THA aus dom		 	   Tremere:1
-2x Ignatius		4   aus dom tha		 	   Tremere:1
-2x Sarah Cobbler	4   THA dom		 	   Tremere:1
-2x Jing Wei		3   dom tha		 	   Tremere:1
-1x Astrid Thomas	7   DOM THA aus pot	 primogen  Tremere:1
-1x Blythe Candeleria	3   THA aus		 	   Tremere:2
+Crypt (12 cards, min=13 max=24 avg=4.5)
+---------------------------------------
+2x Thomas Thorne        6   DOM ani aus cel tha            Tremere:1
+2x Merrill Molitor      5   THA aus dom                    Tremere:1
+2x Ignatius             4   aus dom tha                    Tremere:1
+2x Sarah Cobbler        4   THA dom                        Tremere:1
+2x Jing Wei             3   dom tha                        Tremere:1
+1x Astrid Thomas        7   DOM THA aus pot      primogen  Tremere:1
+1x Blythe Candeleria    3   THA aus                        Tremere:2
 
 Library (90 cards)
 Master (17)

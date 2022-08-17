@@ -12,12 +12,12 @@ Deck Name: Angels will Cry
 
 Description: Unnamed does not need descriptions
 
-Crypt (12 cards, min=12, max=40, avg=5.92)
-------------------------------------------
-6x Horde, The		   3   dai obf pre	    	    Baali:6
-4x unnamed, The		   10  CEL DAI OBF PRE PRO  	    Baali:6
-1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  	    Baali:6
-1x Arishat		   6   DAI OBF PRE	    1 vote  Baali:6
+Crypt (12 cards, min=12 max=40 avg=5.92)
+----------------------------------------
+6x Horde, The              3   dai obf pre                  Baali:6
+4x unnamed, The            10  CEL DAI OBF PRE PRO          Baali:6
+1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro          Baali:6
+1x Arishat                 6   DAI OBF PRE          1 vote  Baali:6
 
 Library (90 cards)
 Master (22; 5 trifle)

@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/7677
 
 Deck Name: Troublemakers zombies
 
-Crypt (12 cards, min=13, max=35, avg=6.17)
-------------------------------------------
-2x Regina Giovanni, The Right Hand of Augustus	10  DOM NEC POT aus for	 2 votes  Giovanni:2
-2x Andrea Giovanni				7   DOM NEC pot vic	 	  Giovanni:2
-2x Rudolfo Giovanni				3   NEC			 	  Giovanni:2
-1x Pochtli					8   NEC OBF POT cel dom	 	  Giovanni:2
-1x Carlotta Giovanni				7   NEC POT dom obf	 	  Giovanni:2
-1x Gillespi Giovanni				7   DOM NEC POT aus	 	  Giovanni:2
-1x Isabel Giovanni				5   DOM NEC pot		 	  Giovanni:2
-1x Gloria Giovanni				4   DOM nec		 	  Giovanni:2
-1x Lia Milliner					3   dom nec		 	  Giovanni:3
+Crypt (12 cards, min=13 max=35 avg=6.17)
+----------------------------------------
+2x Regina Giovanni, The Right Hand of Augustus  10  DOM NEC POT aus for  2 votes  Giovanni:2
+2x Andrea Giovanni                              7   DOM NEC pot vic               Giovanni:2
+2x Rudolfo Giovanni                             3   NEC                           Giovanni:2
+1x Pochtli                                      8   NEC OBF POT cel dom           Giovanni:2
+1x Carlotta Giovanni                            7   NEC POT dom obf               Giovanni:2
+1x Gillespi Giovanni                            7   DOM NEC POT aus               Giovanni:2
+1x Isabel Giovanni                              5   DOM NEC pot                   Giovanni:2
+1x Gloria Giovanni                              4   DOM nec                       Giovanni:2
+1x Lia Milliner                                 3   dom nec                       Giovanni:3
 
 Library (90 cards)
 Master (24; 6 trifle)

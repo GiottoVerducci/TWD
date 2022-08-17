@@ -6,19 +6,19 @@ Robyn Tatu
 
 Deck Name: Nosferatu bestial
 
-Crypt (12 cards, min=20, max=28, avg=5.92)
-------------------------------------------
-2x Calebros, The Martyr			  5   ANI obf pot	   prince	Nosferatu:2
-1x Tammy Walenski			  8   ANI OBF POT nec tha  		Nosferatu:3
-1x Jara Drory				  7   ANI OBF aus pot	   primogen	Nosferatu:3
-1x Kendrick				  7   ANI POT aus obf	   priscus	Nosferatu antitribu:2
-1x Alonzo Guillen			  6   OBF ani for pot	   		Nosferatu:3
-1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot	   		Nosferatu antitribu:2
-1x Ox, Viceroy of the Hollows		  6   ANI OBF POT	   		Nosferatu antitribu:2
-1x Sundown				  6   ANI POT obf pre	   		Nosferatu:3
-1x Cicatriz				  5   ani obf pot	   bishop	Nosferatu antitribu:2
-1x Gemini				  5   OBF ani obt pot	   		Nosferatu:3
-1x Nigel the Shunned			  5   ANI POT obf	   		Nosferatu antitribu:2
+Crypt (12 cards, min=20 max=28 avg=5.92)
+----------------------------------------
+2x Calebros, The Martyr                   5   ANI obf pot          prince       Nosferatu:2
+1x Tammy Walenski                         8   ANI OBF POT nec tha               Nosferatu:3
+1x Jara Drory                             7   ANI OBF aus pot      primogen     Nosferatu:3
+1x Kendrick                               7   ANI POT aus obf      priscus      Nosferatu antitribu:2
+1x Alonzo Guillen                         6   OBF ani for pot                   Nosferatu:3
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot                       Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows             6   ANI OBF POT                       Nosferatu antitribu:2
+1x Sundown                                6   ANI POT obf pre                   Nosferatu:3
+1x Cicatriz                               5   ani obf pot          bishop       Nosferatu antitribu:2
+1x Gemini                                 5   OBF ani obt pot                   Nosferatu:3
+1x Nigel the Shunned                      5   ANI POT obf                       Nosferatu antitribu:2
 
 Library (90 cards)
 Master (15; 2 trifle)

@@ -9,19 +9,19 @@ David Baker
 
 Deck Name: Need for Speed
 
-Crypt (12 cards, min=15, max=27, avg=5.33)
-------------------------------------------
-2x Morel		6   AUS DEM OBF			  Malkavian:4
-1x Bloody Mary		8   AUS DEM OBF pre	primogen  Malkavian:5
-1x Reiner Stoschka	7   AUS DEM THA obf		  Malkavian:5
-1x Drusilla Euphemia	6   AUS OBF dem vic		  Malkavian antitribu:4
-1x Gem Ghastly		6   DEM OBF aus		primogen  Malkavian:5
-1x Apache Jones		5   DEM aus for obf		  Malkavian antitribu:4
-1x Arthur Denholm	5   AUS DEM obf			  Malkavian:5
-1x Luc			5   OBF dem vic			  Malkavian antitribu:4
-1x Beauregard Krueller	4   aus dem obf			  Malkavian antitribu:4
-1x Bela			3   DEM ani obf pro		  Malkavian:5
-1x Jackie		3   DEM				  Malkavian antitribu:4
+Crypt (12 cards, min=15 max=27 avg=5.33)
+----------------------------------------
+2x Morel                6   AUS DEM OBF                   Malkavian:4
+1x Bloody Mary          8   AUS DEM OBF pre     primogen  Malkavian:5
+1x Reiner Stoschka      7   AUS DEM THA obf               Malkavian:5
+1x Drusilla Euphemia    6   AUS OBF dem vic               Malkavian antitribu:4
+1x Gem Ghastly          6   DEM OBF aus         primogen  Malkavian:5
+1x Apache Jones         5   DEM aus for obf               Malkavian antitribu:4
+1x Arthur Denholm       5   AUS DEM obf                   Malkavian:5
+1x Luc                  5   OBF dem vic                   Malkavian antitribu:4
+1x Beauregard Krueller  4   aus dem obf                   Malkavian antitribu:4
+1x Bela                 3   DEM ani obf pro               Malkavian:5
+1x Jackie               3   DEM                           Malkavian antitribu:4
 
 Library (90 cards)
 Master (12; 5 trifle)

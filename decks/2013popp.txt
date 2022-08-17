@@ -9,11 +9,11 @@ Lukasz Modzelewski
 
 Deck Name: Nephandus Swarm
 
-Crypt (12 cards, min=4, max=20, avg=3.17)
------------------------------------------
-5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-4x Tupdog		1   POT VIS		Gargoyle:3
-3x Keith Moody		3   DOM			Tremere antitribu:4
+Crypt (12 cards, min=4 max=20 avg=3.17)
+---------------------------------------
+5x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+4x Tupdog               1   POT VIS             Gargoyle:3
+3x Keith Moody          3   DOM                 Tremere antitribu:4
 
 Library (80 cards)
 Master (39)

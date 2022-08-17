@@ -12,19 +12,19 @@ Description:	Based on Trey's deck from like 10 years ago. Still good!
 Needs to lose 2 Protean and add a Barrens. I always discarded Claws so
 clearly too many. Other than that, great offense and good defense.
 
-Crypt (12 cards, min=7, max=18, avg=3.17)
------------------------------------------
-2x Chandler Hungerford		3   PRO		 Gangrel:2
-1x Camille Devereux, The Raven	5   FOR PRO ani	 Gangrel:1
-1x Mirembe Kabbada		5   PRO SER ani	 Gangrel:2
-1x Daliyah			4   PRO obf	 Nosferatu:2
-1x Ramona			4   for pro	 Gangrel:2
-1x Roman Alexander		4   ani for pro	 Gangrel:1
-1x Anastasia Grey		3   ani pro	 Gangrel:1
-1x Ricki Van Demsi		3   for pro	 Gangrel:1
-1x Sadie			2   pro		 Gangrel antitribu:2
-1x Huang, Blood Cultist		1   pro		 Pander:2
-1x Igo the Hungry		1   pre pro	 Caitiff:1
+Crypt (12 cards, min=7 max=18 avg=3.17)
+---------------------------------------
+2x Chandler Hungerford          3   PRO          Gangrel:2
+1x Camille Devereux, The Raven  5   FOR PRO ani  Gangrel:1
+1x Mirembe Kabbada              5   PRO SER ani  Gangrel:2
+1x Daliyah                      4   PRO obf      Nosferatu:2
+1x Ramona                       4   for pro      Gangrel:2
+1x Roman Alexander              4   ani for pro  Gangrel:1
+1x Anastasia Grey               3   ani pro      Gangrel:1
+1x Ricki Van Demsi              3   for pro      Gangrel:1
+1x Sadie                        2   pro          Gangrel antitribu:2
+1x Huang, Blood Cultist         1   pro          Pander:2
+1x Igo the Hungry               1   pre pro      Caitiff:1
 
 Library (72 cards)
 Master (15)

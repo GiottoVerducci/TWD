@@ -11,12 +11,12 @@ Deck: toreador master deck
 Concept: Bloat like hell while killing the table with anarch revolts.
 Control the table with Life Boons.
 
-Crypt (12 cards, min=32, max=41, avg=9.08)
-------------------------------------------
-6x Anson		  8   CEL PRE aus dom		prince		Toreador:1
-4x Anneke		  10  AUS CEL PRE dom		justicar	Toreador:1
-1x Leandro		  11  AUS OBF PRE cel dom	inner circle	Malkavian:2
-1x Ulugh Beg, The Watcher 10  AUS DOM THA cel for pot	justicar	Tremere:1
+Crypt (12 cards, min=32 max=41 avg=9.08)
+----------------------------------------
+6x Anson                  8   CEL PRE aus dom           prince          Toreador:1
+4x Anneke                 10  AUS CEL PRE dom           justicar        Toreador:1
+1x Leandro                11  AUS OBF PRE cel dom       inner circle    Malkavian:2
+1x Ulugh Beg, The Watcher 10  AUS DOM THA cel for pot   justicar        Tremere:1
 
 Library (90 cards)
 Master (69)

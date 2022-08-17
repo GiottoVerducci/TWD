@@ -9,15 +9,15 @@ Stephen Sing
 
 Deck Name: The Howling
 
-Crypt (12 cards, min=10, max=32, avg=5.58)
-------------------------------------------
-4x Howler	    8	ANI PRE SPI obf		Ahrimane:2
-2x Siamese, The	    7	PRE SPI ani pro		Ahrimane:2
-2x Tupdog	    1	POT VIS			Gargoyle:3
-1x Cynthia Ingold   6	SPI ani for pre		Ahrimane:2
-1x Nettie Hale	    5	ani cel pre pro spi	Ahrimane:2
-1x Bobby Lemon	    4	ANI pro			Gangrel:3
-1x Juanita Santiago 4	ani pre spi		Ahrimane:2
+Crypt (12 cards, min=10 max=32 avg=5.58)
+----------------------------------------
+4x Howler           8   ANI PRE SPI obf         Ahrimane:2
+2x Siamese, The     7   PRE SPI ani pro         Ahrimane:2
+2x Tupdog           1   POT VIS                 Gargoyle:3
+1x Cynthia Ingold   6   SPI ani for pre         Ahrimane:2
+1x Nettie Hale      5   ani cel pre pro spi     Ahrimane:2
+1x Bobby Lemon      4   ANI pro                 Gangrel:3
+1x Juanita Santiago 4   ani pre spi             Ahrimane:2
 
 Library (90 cards)
 Master (17; 3 trifle)

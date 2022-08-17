@@ -12,18 +12,18 @@ Does not like S:CE but can block regularly enough to give it huge
 problems. An interesting and fun deck to play have to take a few risks,
 too easy to sit tight and remain reactive.
 
-Crypt (12 cards, min=9, max=33, avg=5.33)
------------------------------------------
-2x Meshenka	  8   ANI AUS VIC	   priscus	Tzimisce:2
-2x Dragos	  7   ANI AUS vic	   		Tzimisce:2
-1x Lambach	  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
-1x Corine Marcón  6   AUS VIC ani	   		Tzimisce:2
-1x Devin Bisley	  5   ANI AUS vic	   		Tzimisce:2
-1x Lolita Houston 4   VIC aus		   		Tzimisce:2
-1x Isabel de Leon 3   AUS		   		Toreador:2
-1x Wendy Wade	  3   ani aus		   		Tzimisce:2
-1x Horatio	  2   vic		   		Tzimisce:2
-1x Franciscus	  1   aus		   		Caitiff:2
+Crypt (12 cards, min=9 max=33 avg=5.33)
+---------------------------------------
+2x Meshenka       8   ANI AUS VIC          priscus      Tzimisce:2
+2x Dragos         7   ANI AUS vic                       Tzimisce:2
+1x Lambach        10  ANI AUS DOM VIC pre  cardinal     Tzimisce:2
+1x Corine Marcón  6   AUS VIC ani                       Tzimisce:2
+1x Devin Bisley   5   ANI AUS vic                       Tzimisce:2
+1x Lolita Houston 4   VIC aus                           Tzimisce:2
+1x Isabel de Leon 3   AUS                               Toreador:2
+1x Wendy Wade     3   ani aus                           Tzimisce:2
+1x Horatio        2   vic                               Tzimisce:2
+1x Franciscus     1   aus                               Caitiff:2
 
 Library (90 cards)
 Master (16)

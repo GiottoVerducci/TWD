@@ -14,12 +14,12 @@ Description: Try to maximize handsize, so all needed cards will be on hand for t
 Could have more deep songs instead of governs, almost all of them were used for oust
 instead of bloat/crypt acceleration. Combat tech was sharp.
 
-Crypt (12 cards, min=36, max=42, avg=9.83)
-------------------------------------------
-4x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf		    Nosferatu antitribu:4
-4x Antón de Concepción	  9   ANI DOM OBT POT aus	archbishop  Lasombra:4
-2x Montano		  11  ANI DOM FOR OBT POT	2 votes	    Lasombra:3
-2x Nahir		  10  ANI DOM OBT POT tha		    Lasombra:3
+Crypt (12 cards, min=36 max=42 avg=9.83)
+----------------------------------------
+4x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf               Nosferatu antitribu:4
+4x Antón de Concepción    9   ANI DOM OBT POT aus       archbishop  Lasombra:4
+2x Montano                11  ANI DOM FOR OBT POT       2 votes     Lasombra:3
+2x Nahir                  10  ANI DOM OBT POT tha                   Lasombra:3
 
 Library (90 cards)
 Master (19; 9 trifle)

@@ -7,15 +7,15 @@ Reetta Lehikoinen
 
 Deck Name, 'Imbued to win'
 
-Crypt (12 cards, min=12, max=16, avg=3.67)
-------------------------------------------
-2x Jennifer "Flame61" Vidisania	4   ven viz	 Avenger:4
-2x Leaf "Potter116" Pankowski	4   inn red viz	 Redeemer:4
-2x Lupe "Cabbie22" Droin	4   def ven	 Defender:4
-2x Peter "Outback295" Rophail	4   red ven	 Redeemer:4
-2x Liz "Ticket312" Thornton	2   inn red	 Innocent:4
-1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
-1x Pedro Cortez			4   mar ven	 Avenger:4
+Crypt (12 cards, min=12 max=16 avg=3.67)
+----------------------------------------
+2x Jennifer "Flame61" Vidisania 4   ven viz      Avenger:4
+2x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
+2x Lupe "Cabbie22" Droin        4   def ven      Defender:4
+2x Peter "Outback295" Rophail   4   red ven      Redeemer:4
+2x Liz "Ticket312" Thornton     2   inn red      Innocent:4
+1x John "Cop90" O'Malley        4   jud ven      Avenger:4
+1x Pedro Cortez                 4   mar ven      Avenger:4
 
 Library (89 cards)
 Master (19)

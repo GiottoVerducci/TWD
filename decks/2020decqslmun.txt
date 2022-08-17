@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9522
 
 Deck Name: Massassinator
 
-Crypt (12 cards, min=9, max=35, avg=5.67)
------------------------------------------
-3x Massassi	  9   AUS CEL POT QUI obf  Osebo:4
-2x Bakr		  8   CEL OBF QUI dem pro  Assamite:5
-2x Anarch Convert 1   -none-		   Caitiff:ANY
-1x Homa		  6   AUS CEL POT	   Osebo:4
-1x Neighbor John  5   AUS dom for	   Ventrue antitribu:4
-1x Titi Camara	  5   AUS CEL pot	   Osebo:5
-1x Pearl	  4   AUS obf		   Malkavian antitribu:5
-1x Andre LeRoux	  3   aus		   Toreador:5
+Crypt (12 cards, min=9 max=35 avg=5.67)
+---------------------------------------
+3x Massassi       9   AUS CEL POT QUI obf  Osebo:4
+2x Bakr           8   CEL OBF QUI dem pro  Assamite:5
+2x Anarch Convert 1   -none-               Caitiff:ANY
+1x Homa           6   AUS CEL POT          Osebo:4
+1x Neighbor John  5   AUS dom for          Ventrue antitribu:4
+1x Titi Camara    5   AUS CEL pot          Osebo:5
+1x Pearl          4   AUS obf              Malkavian antitribu:5
+1x Andre LeRoux   3   aus                  Toreador:5
 
 Library (90 cards)
 Master (19; 6 trifle)

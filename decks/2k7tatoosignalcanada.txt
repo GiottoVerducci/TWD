@@ -7,13 +7,13 @@ Marc Desaulniers
 
 Deck Name: AAA
 
-Crypt (13 cards, min=20, max=44, avg=8.46)
-------------------------------------------
-4x Alexandra	  11  ANI AUS CEL PRE dom  inner circle	 Toreador:2
-4x Anson	  8   CEL PRE aus dom	   prince	 Toreador:1
-3x Anneke	  10  AUS CEL PRE dom	   justicar	 Toreador:1
-1x Delilah Easton 2   pre		   		 Toreador:1
-1x Dieter Kleist  2   aus		   		 Toreador:1
+Crypt (13 cards, min=20 max=44 avg=8.46)
+----------------------------------------
+4x Alexandra      11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+4x Anson          8   CEL PRE aus dom      prince        Toreador:1
+3x Anneke         10  AUS CEL PRE dom      justicar      Toreador:1
+1x Delilah Easton 2   pre                                Toreador:1
+1x Dieter Kleist  2   aus                                Toreador:1
 
 Library (90 cards)
 Master (27)

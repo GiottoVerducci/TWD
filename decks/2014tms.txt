@@ -13,16 +13,16 @@ Deck Name: Anu's Hordes
 Description: Recruit allies and attack, then use Anu's special and dominate when going
 in for the kill. Amount of blood gain/reduce cost in the deck mitigates blood loss alot.
 
-Crypt (12 cards, min=17, max=27, avg=5.67)
-------------------------------------------
-2x Anu Diptinatpa	   7   DOM NEC aus vic	Nagaraja:6
-2x Dr. Oliver Genet	   6   DOM NEC pot	Giovanni:6
-2x Lupo Giovanni	   6   NEC dom pot pre	Giovanni:6
-2x Salvatore Giovanni	   5   NEC POT dom	Giovanni:6
-1x Martino della Passaglia 7   DOM NEC POT obf	Giovanni:6
-1x Accorri Giovanni	   6   DOM POT ani nec	Giovanni:5
-1x Kay Polerno		   4   dom nec pro	Giovanni:5
-1x Stephen Milliner	   3   nec pre		Giovanni:5
+Crypt (12 cards, min=17 max=27 avg=5.67)
+----------------------------------------
+2x Anu Diptinatpa          7   DOM NEC aus vic  Nagaraja:6
+2x Dr. Oliver Genet        6   DOM NEC pot      Giovanni:6
+2x Lupo Giovanni           6   NEC dom pot pre  Giovanni:6
+2x Salvatore Giovanni      5   NEC POT dom      Giovanni:6
+1x Martino della Passaglia 7   DOM NEC POT obf  Giovanni:6
+1x Accorri Giovanni        6   DOM POT ani nec  Giovanni:5
+1x Kay Polerno             4   dom nec pro      Giovanni:5
+1x Stephen Milliner        3   nec pre          Giovanni:5
 
 Library (84 cards)
 Master (18; 2 trifle)

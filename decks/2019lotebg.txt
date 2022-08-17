@@ -18,12 +18,12 @@ and kill whatever is left on the table, preferably gaining pool with mata specia
 removed the dragonbound for a wash (vs pentex) but it needs to go in again.
 bleeding on a prey with 12 pool and 6 minions in torpor is kinda annoying slow.
 
-Crypt (12 cards, min=4, max=43, avg=6.33)
------------------------------------------
-5x Anarch Convert   1	-none-			 Caitiff:ANY
-3x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-2x Matasuntha	    10	ANI AUS CEL FOR PRO	 Gangrel:5
-2x Aksinya Daclau   9	ANI FOR PRE PRO cel tha	 Gangrel antitribu:4
+Crypt (12 cards, min=4 max=43 avg=6.33)
+---------------------------------------
+5x Anarch Convert   1   -none-                   Caitiff:ANY
+3x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+2x Matasuntha       10  ANI AUS CEL FOR PRO      Gangrel:5
+2x Aksinya Daclau   9   ANI FOR PRE PRO cel tha  Gangrel antitribu:4
 
 Library (90 cards)
 Master (29; 7 trifle)

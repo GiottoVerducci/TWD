@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/7693
 
 Deck Name: Making-anger
 
-Crypt (12 cards, min=15, max=33, avg=6.17)
-------------------------------------------
-2x Nadima		 8   FOR PRO SER ani aus		 Gangrel:3
-2x Danielle Diron	 7   ANI PRO chi for		1 vote	 Gangrel:3
-2x Antonino		 6   FOR ani pre pro			 Gangrel:3
-1x Ramona		 4   for pro				 Gangrel:2
-1x Ramona (ADV)		 4   for pro				 Gangrel:2
-1x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha	2 votes	 Gangrel:3
-1x Beckett		 7   ANI FOR PRO cel			 Gangrel:3
-1x Lord Ashton		 5   ANI for pro			 Gangrel:3
-1x Sarah Raines		 2   for				 Gangrel:3
+Crypt (12 cards, min=15 max=33 avg=6.17)
+----------------------------------------
+2x Nadima                8   FOR PRO SER ani aus                 Gangrel:3
+2x Danielle Diron        7   ANI PRO chi for            1 vote   Gangrel:3
+2x Antonino              6   FOR ani pre pro                     Gangrel:3
+1x Ramona                4   for pro                             Gangrel:2
+1x Ramona (ADV)          4   for pro                             Gangrel:2
+1x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha    2 votes  Gangrel:3
+1x Beckett               7   ANI FOR PRO cel                     Gangrel:3
+1x Lord Ashton           5   ANI for pro                         Gangrel:3
+1x Sarah Raines          2   for                                 Gangrel:3
 
 Library (90 cards)
 Master (16; 2 trifle)

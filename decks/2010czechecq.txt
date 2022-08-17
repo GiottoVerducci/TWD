@@ -7,15 +7,15 @@ Lubomir Danda
 
 -- 5VP in final
 
-Crypt (12 cards, min=14, max=26, avg=4.92)
-------------------------------------------
-2x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
-2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
-2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
-2x Gloria Giovanni	4   DOM nec		Giovanni:2
-2x Lia Milliner		3   dom nec		Giovanni:3
-1x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
-1x Francesca Giovanni	4   dom nec pot		Giovanni:2
+Crypt (12 cards, min=14 max=26 avg=4.92)
+----------------------------------------
+2x Gillespi Giovanni    7   DOM NEC POT aus     Giovanni:2
+2x Isabel Giovanni      5   DOM NEC pot         Giovanni:2
+2x Le Dinh Tho          5   NEC aus dom         Nagaraja:2
+2x Gloria Giovanni      4   DOM nec             Giovanni:2
+2x Lia Milliner         3   dom nec             Giovanni:3
+1x Andrea Giovanni      7   DOM NEC pot vic     Giovanni:2
+1x Francesca Giovanni   4   dom nec pot         Giovanni:2
 
 Library (90 cards)
 Master (26; 5 trifle)

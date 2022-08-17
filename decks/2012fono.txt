@@ -9,16 +9,16 @@ James Messer
 
 Deck Name: Beefcake's Toolbox
 
-Crypt (12 cards, min=26, max=39, avg=8.33)
-------------------------------------------
-3x Lazverinus, Thrall of Lambach	10  AUS DOM FOR POT pro	 archbishop	Ventrue antitribu:2
-3x Kyle Strathcona, Cardinal of Canada	9   AUS DOM POT PRE for	 cardinal	Ventrue antitribu:2
-1x Quentin				9   AUS DOM FOR cel obt	 bishop		Ventrue antitribu:2
-1x Gustav Mallenhous			8   AUS DOM for obt	 priscus	Ventrue antitribu:2
-1x Owain Evans, The Wanderer		8   AUS DOM FOR cel pre	 		Ventrue antitribu:3
-1x Joseph O'Grady			7   DOM FOR aus cel	 		Ventrue antitribu:3
-1x Ladislas Toth, The Torch		7   AUS DOM THA for	 archbishop	Tremere antitribu:3
-1x Ingrid Russo				4   DOM for		 		Ventrue antitribu:2
+Crypt (12 cards, min=26 max=39 avg=8.33)
+----------------------------------------
+3x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop     Ventrue antitribu:2
+3x Kyle Strathcona, Cardinal of Canada  9   AUS DOM POT PRE for  cardinal       Ventrue antitribu:2
+1x Quentin                              9   AUS DOM FOR cel obt  bishop         Ventrue antitribu:2
+1x Gustav Mallenhous                    8   AUS DOM for obt      priscus        Ventrue antitribu:2
+1x Owain Evans, The Wanderer            8   AUS DOM FOR cel pre                 Ventrue antitribu:3
+1x Joseph O'Grady                       7   DOM FOR aus cel                     Ventrue antitribu:3
+1x Ladislas Toth, The Torch             7   AUS DOM THA for      archbishop     Tremere antitribu:3
+1x Ingrid Russo                         4   DOM for                             Ventrue antitribu:2
 
 Library (90 cards)
 Master (15; 3 trifle)

@@ -16,20 +16,20 @@ It certainly was fun to play on Friday.
 Can I Wear This Jacket Too?
 by Jay Kristoff
 
-Crypt (14 cards, min=13, max=34, avg=5.5)
------------------------------------------
-3x Ingrid Rossler	9   ANI FOR PRO dom	prince	  Gangrel:2
-1x Camille Devereux	5   FOR PRO ani			  Gangrel:1
-1x Raven		5   FOR PRO ani			  Gangrel:1
-1x Gitane St. Claire	7   ANI FOR PRO		primogen  Gangrel:1
-1x Badger		6   FOR PRO ani pot		  Gangrel:1
-1x Bear Paw		5   ANI for pre pro		  Gangrel:1
-1x Mirembe Kabbada	5   PRO SER ani			  Gangrel:2
-1x Ramona		4   for pro			  Gangrel:2
-1x Roman Alexander	4   ani for pro			  Gangrel:1
-1x Anastasia Grey	3   ani pro			  Gangrel:1
-1x Chandler Hungerford	3   PRO				  Gangrel:2
-1x Ricki Van Demsi	3   for pro			  Gangrel:1
+Crypt (14 cards, min=13 max=34 avg=5.5)
+---------------------------------------
+3x Ingrid Rossler       9   ANI FOR PRO dom     prince    Gangrel:2
+1x Camille Devereux     5   FOR PRO ani                   Gangrel:1
+1x Raven                5   FOR PRO ani                   Gangrel:1
+1x Gitane St. Claire    7   ANI FOR PRO         primogen  Gangrel:1
+1x Badger               6   FOR PRO ani pot               Gangrel:1
+1x Bear Paw             5   ANI for pre pro               Gangrel:1
+1x Mirembe Kabbada      5   PRO SER ani                   Gangrel:2
+1x Ramona               4   for pro                       Gangrel:2
+1x Roman Alexander      4   ani for pro                   Gangrel:1
+1x Anastasia Grey       3   ani pro                       Gangrel:1
+1x Chandler Hungerford  3   PRO                           Gangrel:2
+1x Ricki Van Demsi      3   for pro                       Gangrel:1
 
 Library (90 cards)
 Master (15)

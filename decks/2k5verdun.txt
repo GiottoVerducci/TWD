@@ -10,18 +10,18 @@ Deck Name: Old school Weenie vote Pre 2.0
 A Weenie/PRE vote deck. In this tournament, no other political
 decks & no Rush (IG) decks.
 
-Crypt (12 cards, min=6, max=15, avg=2.75)
------------------------------------------
-2x Gideon Fontaine	3   PRE		 Ventrue:1
-2x Delilah Easton	2   pre		 Toreador:1
-1x Courtland Leighton	4   dom for pre	 Ventrue:1
-1x Mariana Gilbert	4   PRE cel	 Toreador:1
-1x Violette Prentiss	4   PRE dom	 Ventrue:1
-1x Itzahk Levine	3   cel pre	 Ventrue:2
-1x Roland Loussarian	3   for pre	 Ventrue:1
-1x Uma Hatch		3   cel pre	 Brujah:1
-1x Antoinette DuChamp	1   cel pre	 Caitiff:2
-1x Igo the Hungry	1   pre pro	 Caitiff:1
+Crypt (12 cards, min=6 max=15 avg=2.75)
+---------------------------------------
+2x Gideon Fontaine      3   PRE          Ventrue:1
+2x Delilah Easton       2   pre          Toreador:1
+1x Courtland Leighton   4   dom for pre  Ventrue:1
+1x Mariana Gilbert      4   PRE cel      Toreador:1
+1x Violette Prentiss    4   PRE dom      Ventrue:1
+1x Itzahk Levine        3   cel pre      Ventrue:2
+1x Roland Loussarian    3   for pre      Ventrue:1
+1x Uma Hatch            3   cel pre      Brujah:1
+1x Antoinette DuChamp   1   cel pre      Caitiff:2
+1x Igo the Hungry       1   pre pro      Caitiff:1
 
 Library (90 cards)
 Master (17)

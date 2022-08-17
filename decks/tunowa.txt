@@ -5,20 +5,20 @@ Ethan Burrow
 
 Weenie Auspex v1.1:
 
-Crypt (12 cards, min=8, max=16, avg=3)
---------------------------------------
-1x Aleph			   4   AUS dom	    Malkavian:1
-1x Dorian Strack		   4   AUS cel	    Toreador:1
-1x Remilliard, Devout Crusader	   4   AUS pre	    Toreador antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha	    Tremere antitribu:2
-1x Colin Flynn			   3   aus cel	    Toreador:1
-1x Dollface			   3   aus obf	    Malkavian:1
-1x Dr. John Casey		   3   aus tha	    Tremere:1
-1x Isabel de Leon		   3   AUS	    Toreador:2
-1x Zöe				   3   AUS cel obf  Malkavian:2
-1x Brazil			   2   aus	    Malkavian:1
-1x Dieter Kleist		   2   aus	    Toreador:1
-1x Franciscus			   1   aus	    Caitiff:2
+Crypt (12 cards, min=8 max=16 avg=3)
+------------------------------------
+1x Aleph                           4   AUS dom      Malkavian:1
+1x Dorian Strack                   4   AUS cel      Toreador:1
+1x Remilliard, Devout Crusader     4   AUS pre      Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha      Tremere antitribu:2
+1x Colin Flynn                     3   aus cel      Toreador:1
+1x Dollface                        3   aus obf      Malkavian:1
+1x Dr. John Casey                  3   aus tha      Tremere:1
+1x Isabel de Leon                  3   AUS          Toreador:2
+1x Zöe                             3   AUS cel obf  Malkavian:2
+1x Brazil                          2   aus          Malkavian:1
+1x Dieter Kleist                   2   aus          Toreador:1
+1x Franciscus                      1   aus          Caitiff:2
 
 Library (80 cards)
 Master (25)

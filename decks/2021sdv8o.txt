@@ -9,12 +9,12 @@ https://www.vekn.net/event-calendar/event/9815
 -- 3VP in final
 
 Deck Name: Fogo na Rodinha
-Crypt (12 cards, min=40, max=44, avg=10.67)
--------------------------------------------
-4x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
-4x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
-2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
-2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
+Crypt (12 cards, min=40 max=44 avg=10.67)
+-----------------------------------------
+4x Adana de Sforza       11  CEL OBF POT PRE PRO aus    inner circle    Brujah:4
+4x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
+2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
+2x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
 
 Library (90 cards)
 Master (16; 6 trifle)

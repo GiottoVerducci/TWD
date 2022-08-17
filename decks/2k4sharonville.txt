@@ -25,13 +25,13 @@ Charnas the Imp should have been in the deck, but I forgot about him.
 Also, when Gehenna becomes legal, some of the damage prevention
 will change to Soak because of its synergy with Armor of Terra.
 
-Crypt (12 cards, min=24, max=28, avg=6.67)
-------------------------------------------
-4x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	Tremere:2
-4x Ublo-Satha			7   FOR POT VIS cel	Gargoyle:2
-2x Saxum, Master of Slaves	6   FOR VIS pot pre	Gargoyle:2
-1x Ferox, The Rock Lord		7   FOR POT VIS ani	Gargoyle:2
-1x Luma, Stone Beauty		5   FOR aus pot vis	Gargoyle:2
+Crypt (12 cards, min=24 max=28 avg=6.67)
+----------------------------------------
+4x Muaziz, Archon of Ulugh Beg  7   THA aus dom for     Tremere:2
+4x Ublo-Satha                   7   FOR POT VIS cel     Gargoyle:2
+2x Saxum, Master of Slaves      6   FOR VIS pot pre     Gargoyle:2
+1x Ferox, The Rock Lord         7   FOR POT VIS ani     Gargoyle:2
+1x Luma, Stone Beauty           5   FOR aus pot vis     Gargoyle:2
 
 Library (90 cards)
 Master (13)

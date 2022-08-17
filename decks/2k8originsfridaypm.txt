@@ -19,15 +19,15 @@ Chicago. Meant to change the crypt for more Malabranca's
 but never got around to it. Would then drop the Guarded
 Rubrics, as I never seem to draw it when I have Ondine anyway.
 
-Crypt (12 cards, min=12, max=36, avg=6.08)
-------------------------------------------
-3x Ondine "Boudicca" Sinclair	9   AUS CEL PRE PRO obt	 		Toreador antitribu:5
-2x Malabranca			9   AUS CEL PRE PRO obf	 archbishop	Toreador antitribu:4
-2x Redbone McCray		6   AUS PRE cel pro	 		Toreador antitribu:4
-2x L'Épuisette			4   aus cel pro		 		Toreador antitribu:4
-1x Jonathan Gursel		3   aus pre		 		Toreador antitribu:4
-1x Monique Kim			3   aus cel		 		Toreador antitribu:4
-1x Justine Chen, Innocent	2   pre			 		Toreador antitribu:4
+Crypt (12 cards, min=12 max=36 avg=6.08)
+----------------------------------------
+3x Ondine "Boudicca" Sinclair   9   AUS CEL PRE PRO obt                 Toreador antitribu:5
+2x Malabranca                   9   AUS CEL PRE PRO obf  archbishop     Toreador antitribu:4
+2x Redbone McCray               6   AUS PRE cel pro                     Toreador antitribu:4
+2x L'Épuisette                  4   aus cel pro                         Toreador antitribu:4
+1x Jonathan Gursel              3   aus pre                             Toreador antitribu:4
+1x Monique Kim                  3   aus cel                             Toreador antitribu:4
+1x Justine Chen, Innocent       2   pre                                 Toreador antitribu:4
 
 Library (90 cards)
 Master (22; 6 trifle)

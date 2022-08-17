@@ -11,13 +11,13 @@ https://www.vekn.net/event-calendar/event/7915
 Deck Name: peia pra mais de metro
 Created by: Neto
 
-Crypt (12 cards, min=18, max=40, avg=7.92)
-------------------------------------------
-3x Luca Italicus	    10	DOM FOR NEC OBT POT tha	 archbishop	Lasombra:4
-3x Ignazio Giovanni	    9	DOM FOR NEC POT obf	 		Giovanni:3
-2x Lady Constancia	    10	AUS DOM FOR NEC POT	 2 votes	Giovanni:4
-2x Benedict Giovanni, Agent 6	FOR POT cel dom nec	 		Giovanni:4
-2x Almodo Giovanni	    3	dom pot			 		Giovanni:4
+Crypt (12 cards, min=18 max=40 avg=7.92)
+----------------------------------------
+3x Luca Italicus            10  DOM FOR NEC OBT POT tha  archbishop     Lasombra:4
+3x Ignazio Giovanni         9   DOM FOR NEC POT obf                     Giovanni:3
+2x Lady Constancia          10  AUS DOM FOR NEC POT      2 votes        Giovanni:4
+2x Benedict Giovanni, Agent 6   FOR POT cel dom nec                     Giovanni:4
+2x Almodo Giovanni          3   dom pot                                 Giovanni:4
 
 Library (90 cards)
 Master (14; 3 trifle)

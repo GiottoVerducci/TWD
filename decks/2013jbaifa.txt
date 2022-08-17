@@ -16,18 +16,18 @@ Brandon Haas encountered an earlier version of this deck
 at a tournament and dubbed it "Anatole Says 'No Bueno'",
 thus the title.
 
-Crypt (12 cards, min=12, max=32, avg=5.42)
-------------------------------------------
-2x Anatole, Prophet of Gehenna	8   AUS DEM OBF dom for	 Malkavian:2
-2x Cornelius Ottavio		8   AUS OBF pre qui	 Malkavian:2
-1x Dancin' Dana			6   AUS cel obf		 Malkavian:1
-1x Ozmo				6   AUS dom obf		 Malkavian:1
-1x Victoria			5   AUS cel obf		 Malkavian:2
-1x Aleph			4   AUS dom		 Malkavian:1
-1x Roland Bishop		4   aus dom obf		 Malkavian:1
-1x Dollface			3   aus obf		 Malkavian:1
-1x Zöe				3   AUS cel obf		 Malkavian:2
-1x Brazil			2   aus			 Malkavian:1
+Crypt (12 cards, min=12 max=32 avg=5.42)
+----------------------------------------
+2x Anatole, Prophet of Gehenna  8   AUS DEM OBF dom for  Malkavian:2
+2x Cornelius Ottavio            8   AUS OBF pre qui      Malkavian:2
+1x Dancin' Dana                 6   AUS cel obf          Malkavian:1
+1x Ozmo                         6   AUS dom obf          Malkavian:1
+1x Victoria                     5   AUS cel obf          Malkavian:2
+1x Aleph                        4   AUS dom              Malkavian:1
+1x Roland Bishop                4   aus dom obf          Malkavian:1
+1x Dollface                     3   aus obf              Malkavian:1
+1x Zöe                          3   AUS cel obf          Malkavian:2
+1x Brazil                       2   aus                  Malkavian:1
 
 Library (86 cards)
 Master (17)

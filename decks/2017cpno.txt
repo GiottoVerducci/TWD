@@ -13,14 +13,14 @@ Deck Name: The Year of the Snake
 designed and played by Jay Kristoff
 Concept: Temptation is good in a meta where large vamps are quickly influenced and then nearly emptied with Minion Tap and Villein. The mega-political actions should be called while borrowing your neighbor's biggest vampire.
 
-Crypt (12 cards, min=30, max=42, avg=8.92)
-------------------------------------------
-3x Saqqaf, Keeper of the Grand Temple of Set	9   OBF PRE SER cel for			 Follower of Set:2
-2x Sutekh, The Dark God				11  NEC OBF PRE SER cel pot	2 votes	 Follower of Set:2
-2x Nehsi					10  OBF PRE PRO SER aus for	2 votes	 Follower of Set:2
-2x Amisa					8   OBF SER pre pro		2 votes	 Follower of Set:2
-2x Kephamos, High Priest of Marrakech		8   SER dom obf pre		2 votes	 Follower of Set:2
-1x Hesha Ruhadze				6   SER ani obf pre			 Follower of Set:2
+Crypt (12 cards, min=30 max=42 avg=8.92)
+----------------------------------------
+3x Saqqaf, Keeper of the Grand Temple of Set    9   OBF PRE SER cel for                  Follower of Set:2
+2x Sutekh, The Dark God                         11  NEC OBF PRE SER cel pot     2 votes  Follower of Set:2
+2x Nehsi                                        10  OBF PRE PRO SER aus for     2 votes  Follower of Set:2
+2x Amisa                                        8   OBF SER pre pro             2 votes  Follower of Set:2
+2x Kephamos, High Priest of Marrakech           8   SER dom obf pre             2 votes  Follower of Set:2
+1x Hesha Ruhadze                                6   SER ani obf pre                      Follower of Set:2
 
 Library (60 cards)
 Master (22; 8 trifle)

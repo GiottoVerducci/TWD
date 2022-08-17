@@ -12,12 +12,12 @@ Deck Name: Rolo compressor 3.0
 
 Seja amigo do Enkidu.
 
-Crypt (12 cards, min=4, max=44, avg=6)
---------------------------------------
-5x Anarch Convert   1	-none-			 Caitiff:ANY
-4x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-2x Karsh	    10	ANI CEL FOR POT PRO	 Gangrel:3
-1x T.J.		    3	cel for			 Gangrel:4
+Crypt (12 cards, min=4 max=44 avg=6)
+------------------------------------
+5x Anarch Convert   1   -none-                   Caitiff:ANY
+4x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+2x Karsh            10  ANI CEL FOR POT PRO      Gangrel:3
+1x T.J.             3   cel for                  Gangrel:4
 
 Library (90 cards)
 Master (25; 5 trifle)

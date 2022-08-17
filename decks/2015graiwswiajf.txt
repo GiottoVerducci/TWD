@@ -8,13 +8,13 @@ https://www.vekn.net/event-calendar/event/8117
 
 Deck Name: Arika's Tea Party
 
-Crypt (12 cards, min=34, max=44, avg=9.83)
-------------------------------------------
-4x Arika	    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
-3x Marcus Vitel	    10	DOM FOR OBF OBT PRE	 prince		Ventrue:3
-2x Queen Anne	    10	DOM FOR PRE aus obf	 prince		Ventrue:2
-2x Greger Anderssen 7	AUS OBF dom pro		 prince		Malkavian:2
-1x Lucinde, Alastor 10	DOM FOR PRE obf pot tha	 justicar	Ventrue:3
+Crypt (12 cards, min=34 max=44 avg=9.83)
+----------------------------------------
+4x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
+3x Marcus Vitel     10  DOM FOR OBF OBT PRE      prince         Ventrue:3
+2x Queen Anne       10  DOM FOR PRE aus obf      prince         Ventrue:2
+2x Greger Anderssen 7   AUS OBF dom pro          prince         Malkavian:2
+1x Lucinde, Alastor 10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
 
 Library (90 cards)
 Master (18; 7 trifle)

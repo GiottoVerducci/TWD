@@ -11,19 +11,19 @@ Created by: Riccardo Fabiani
 
 Description: Mid-cap dudes with obf. They love to praxis around.
 
-Crypt (12 cards, min=10, max=19, avg=3.42)
-------------------------------------------
-2x Watenda			    3	obf		 	 Malkavian:2
-1x Calebros, The Martyr		    5	ANI obf pot	 prince	 Nosferatu:2
-1x Grendel the Worm-Eaten	    5	OBF ani pot	 	 Nosferatu:1
-1x Zebulon			    5	OBF aus dom pro	 	 Malkavian:1
-1x Agrippina			    4	OBF pot		 	 Nosferatu:1
-1x Dollface			    3	aus obf		 	 Malkavian:1
-1x Duck				    3	obf pot		 	 Nosferatu:1
-1x Regilio, The Seeker of Akhenaten 3	aus obf		 	 Nosferatu:2
-1x Zöe				    3	AUS cel obf	 	 Malkavian:2
-1x Dimple			    2	obf		 	 Nosferatu:1
-1x Normal			    2	obf		 	 Malkavian:1
+Crypt (12 cards, min=10 max=19 avg=3.42)
+----------------------------------------
+2x Watenda                          3   obf                      Malkavian:2
+1x Calebros, The Martyr             5   ANI obf pot      prince  Nosferatu:2
+1x Grendel the Worm-Eaten           5   OBF ani pot              Nosferatu:1
+1x Zebulon                          5   OBF aus dom pro          Malkavian:1
+1x Agrippina                        4   OBF pot                  Nosferatu:1
+1x Dollface                         3   aus obf                  Malkavian:1
+1x Duck                             3   obf pot                  Nosferatu:1
+1x Regilio, The Seeker of Akhenaten 3   aus obf                  Nosferatu:2
+1x Zöe                              3   AUS cel obf              Malkavian:2
+1x Dimple                           2   obf                      Nosferatu:1
+1x Normal                           2   obf                      Malkavian:1
 
 Library (90 cards)
 Master (15)

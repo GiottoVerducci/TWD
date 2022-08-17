@@ -10,16 +10,16 @@ Description: "I must admit I got a perverse pleasure out of
 Josh (duffin, who was playing erika w/PTO) saying that my deck was
 broken, that War Ghoul was broken..."
 
-Crypt (12 cards, min=10, max=32, avg=5.25)
-------------------------------------------
-5x Little Tailor of Prague 8   ANI AUS VIC dem	Tzimisce:2
-1x Corine Marcón	   6   AUS VIC ani	Tzimisce:2
-1x Lolita Houston	   4   VIC aus		Tzimisce:2
-1x Isabel de Leon	   3   AUS		Toreador:2
-1x Martin Franckel	   3   AUS tha		Tremere:3
-1x Zöe			   3   AUS cel obf	Malkavian:2
-1x Horatio		   2   vic		Tzimisce:2
-1x Piotr Andreikov	   2   aus		Tzimisce:3
+Crypt (12 cards, min=10 max=32 avg=5.25)
+----------------------------------------
+5x Little Tailor of Prague 8   ANI AUS VIC dem  Tzimisce:2
+1x Corine Marcón           6   AUS VIC ani      Tzimisce:2
+1x Lolita Houston          4   VIC aus          Tzimisce:2
+1x Isabel de Leon          3   AUS              Toreador:2
+1x Martin Franckel         3   AUS tha          Tremere:3
+1x Zöe                     3   AUS cel obf      Malkavian:2
+1x Horatio                 2   vic              Tzimisce:2
+1x Piotr Andreikov         2   aus              Tzimisce:3
 
 Library (90 cards)
 Master (26)

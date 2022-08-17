@@ -12,20 +12,20 @@ Deck Name: Chlitler Hordes 2
 
 Description: Mono Discipline, Power Bleed
 
-Crypt (14 cards, min=6, max=16, avg=2.79)
------------------------------------------
-2x Cameron		   3   dom pot	    Lasombra:2
-2x Royce		   1   dom	    Pander:2
-1x Elena Gutierrez	   4   aus dom pre  Ventrue:3
-1x Gloria Giovanni	   4   DOM nec	    Giovanni:2
-1x Ingrid Russo		   4   DOM for	    Ventrue antitribu:2
-1x Pieter van Dorn	   4   dom pre tha  Tremere:3
-1x Diana Vick		   3   dom pre	    Ventrue:3
-1x Ehrich Weiss		   3   dom tha	    Tremere:3
-1x Sister Evelyn	   3   aus dom	    Ventrue antitribu:3
-1x Emerson Wilkershire III 2   pre	    Toreador:3
-1x Ohanna		   2   dom	    Malkavian:2
-1x Samson		   2   dom	    Ventrue antitribu:2
+Crypt (14 cards, min=6 max=16 avg=2.79)
+---------------------------------------
+2x Cameron                 3   dom pot      Lasombra:2
+2x Royce                   1   dom          Pander:2
+1x Elena Gutierrez         4   aus dom pre  Ventrue:3
+1x Gloria Giovanni         4   DOM nec      Giovanni:2
+1x Ingrid Russo            4   DOM for      Ventrue antitribu:2
+1x Pieter van Dorn         4   dom pre tha  Tremere:3
+1x Diana Vick              3   dom pre      Ventrue:3
+1x Ehrich Weiss            3   dom tha      Tremere:3
+1x Sister Evelyn           3   aus dom      Ventrue antitribu:3
+1x Emerson Wilkershire III 2   pre          Toreador:3
+1x Ohanna                  2   dom          Malkavian:2
+1x Samson                  2   dom          Ventrue antitribu:2
 
 Library (90 cards)
 Master (32; 9 trifle)

@@ -19,17 +19,17 @@ The Brujah version became possible with the release of the new 5th Edition decks
 Finals seating: Nikica (Malgorzata + Lord Tremere Toolbox) => Jay (Hesha Ruhadze [G6] Bleed) =>
 me (Brujah Undue Influence) => Sebastian (Anson + Masika Toolbox) => Kevin (Barons Toolbox)
 
-Crypt (12 cards, min=16, max=27, avg=5.5)
------------------------------------------
-2x Aline Gädeke		7   POT PRE cel		baron	Brujah:6
-2x Leumeah		6   PRE cel for pot	baron	Brujah:6
-2x Siarhei Levchenko	5   CEL PRE pot			Brujah:6
-1x Valeriya Zinovieva	7   POT cel pre pro	baron	Brujah:6
-1x Atiena		6   CEL obf pot pre	baron	Brujah:6
-1x Octane		6   CEL POT PRE			Brujah:6
-1x Brandon Grime	5   CEL pot pre tha		Brujah:6
-1x Ariane		3   cel pot pre			Brujah:5
-1x Laura Goldman	3   cel pre			Brujah:5
+Crypt (12 cards, min=16 max=27 avg=5.5)
+---------------------------------------
+2x Aline Gädeke         7   POT PRE cel         baron   Brujah:6
+2x Leumeah              6   PRE cel for pot     baron   Brujah:6
+2x Siarhei Levchenko    5   CEL PRE pot                 Brujah:6
+1x Valeriya Zinovieva   7   POT cel pre pro     baron   Brujah:6
+1x Atiena               6   CEL obf pot pre     baron   Brujah:6
+1x Octane               6   CEL POT PRE                 Brujah:6
+1x Brandon Grime        5   CEL pot pre tha             Brujah:6
+1x Ariane               3   cel pot pre                 Brujah:5
+1x Laura Goldman        3   cel pre                     Brujah:5
 
 Library (60 cards)
 Master (12; 4 trifle)

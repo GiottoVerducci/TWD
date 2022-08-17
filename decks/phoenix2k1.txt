@@ -8,20 +8,20 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/h4yDGcVbVWs
 
 Duck, You Sucker!
 
-Crypt (12 cards, min=10, max=17, avg=3.25)
-------------------------------------------
-1x Victoria			    5	AUS cel obf	Malkavian:2
-1x Agrippina			    4	OBF pot		Nosferatu:1
-1x Aleph			    4	AUS dom		Malkavian:1
-1x Idalia, Prophet of Guadalajara   4	AUS dem		Malkavian antitribu:2
-1x Dan Murdock			    3	aus obf		Caitiff:1
-1x Dollface			    3	aus obf		Malkavian:1
-1x Isabel de Leon		    3	AUS		Toreador:2
-1x Lena Rowe			    3	aus obf pre	Pander:2
-1x Regilio, The Seeker of Akhenaten 3	aus obf		Nosferatu:2
-1x Zöe				    3	AUS cel obf	Malkavian:2
-1x Dimple			    2	obf		Nosferatu:1
-1x Normal			    2	obf		Malkavian:1
+Crypt (12 cards, min=10 max=17 avg=3.25)
+----------------------------------------
+1x Victoria                         5   AUS cel obf     Malkavian:2
+1x Agrippina                        4   OBF pot         Nosferatu:1
+1x Aleph                            4   AUS dom         Malkavian:1
+1x Idalia, Prophet of Guadalajara   4   AUS dem         Malkavian antitribu:2
+1x Dan Murdock                      3   aus obf         Caitiff:1
+1x Dollface                         3   aus obf         Malkavian:1
+1x Isabel de Leon                   3   AUS             Toreador:2
+1x Lena Rowe                        3   aus obf pre     Pander:2
+1x Regilio, The Seeker of Akhenaten 3   aus obf         Nosferatu:2
+1x Zöe                              3   AUS cel obf     Malkavian:2
+1x Dimple                           2   obf             Nosferatu:1
+1x Normal                           2   obf             Malkavian:1
 
 Library (72 cards)
 Master (22)

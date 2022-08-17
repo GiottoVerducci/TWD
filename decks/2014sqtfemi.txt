@@ -10,13 +10,13 @@ Deck Name: Pain is the new gain
 
 Description: Some good ol' punches and a sprinkle of politics and bleed.
 
-Crypt (12 cards, min=26, max=39, avg=8.42)
-------------------------------------------
-3x Armin Brenner   10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-3x Dark Selina	   9   CEL POT PRE dom for	cardinal    Brujah antitribu:5
-3x Hektor	   9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
-2x Gold Pan Dan	   6   POT PRE cel			    Brujah antitribu:5
-1x Axel Von Anders 5   PRE cel obf pot			    Brujah antitribu:4
+Crypt (12 cards, min=26 max=39 avg=8.42)
+----------------------------------------
+3x Armin Brenner   10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
+3x Dark Selina     9   CEL POT PRE dom for      cardinal    Brujah antitribu:5
+3x Hektor          9   CEL POT PRE QUI for      priscus     Brujah antitribu:4
+2x Gold Pan Dan    6   POT PRE cel                          Brujah antitribu:5
+1x Axel Von Anders 5   PRE cel obf pot                      Brujah antitribu:4
 
 Library (90 cards)
 Master (15; 8 trifle)

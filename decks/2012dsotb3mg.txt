@@ -9,12 +9,12 @@ Ferenc Vasadi
 
 Deck Name: Unnamed shatter
 
-Crypt (12 cards, min=20, max=40, avg=7.83)
-------------------------------------------
-4x unnamed, The		   10  CEL DAI OBF PRE PRO  		Baali:6
-3x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
-3x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
-2x Horde, The		   3   dai obf pre	    		Baali:6
+Crypt (12 cards, min=20 max=40 avg=7.83)
+----------------------------------------
+4x unnamed, The            10  CEL DAI OBF PRE PRO              Baali:6
+3x Annazir                 9   DAI OBF POT PRE      2 votes     Baali:5
+3x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro              Baali:6
+2x Horde, The              3   dai obf pre                      Baali:6
 
 Library (69 cards)
 Master (18; 2 trifle)

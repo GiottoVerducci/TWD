@@ -14,17 +14,17 @@ a bit different from the standard ones, and as such it is really
 awfully boring to play. Tap out with everything unless a deflection
 isn't paired with a wake.
 
-Crypt (12 cards, min=8, max=20, avg=3.83)
------------------------------------------
-2x Badr al-Budur 5   OBF cel dom qui	Assamite:2
-2x Count Ormonde 5   OBF dom pre ser	Follower of Set:2
-2x Zebulon	 5   OBF aus dom pro	Malkavian:1
-1x Agrippina	 4   OBF pot		Nosferatu:1
-1x Tansu Bekir	 4   OBF cel		Assamite:2
-1x Watenda	 3   obf		Malkavian:2
-1x Dimple	 2   obf		Nosferatu:1
-1x Normal	 2   obf		Malkavian:1
-1x Basil	 1   obf		Pander:2
+Crypt (12 cards, min=8 max=20 avg=3.83)
+---------------------------------------
+2x Badr al-Budur 5   OBF cel dom qui    Assamite:2
+2x Count Ormonde 5   OBF dom pre ser    Follower of Set:2
+2x Zebulon       5   OBF aus dom pro    Malkavian:1
+1x Agrippina     4   OBF pot            Nosferatu:1
+1x Tansu Bekir   4   OBF cel            Assamite:2
+1x Watenda       3   obf                Malkavian:2
+1x Dimple        2   obf                Nosferatu:1
+1x Normal        2   obf                Malkavian:1
+1x Basil         1   obf                Pander:2
 
 Library (90 cards)
 Master (20)

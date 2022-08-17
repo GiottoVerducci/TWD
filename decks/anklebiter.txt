@@ -7,16 +7,16 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/aNVQxNRXBSo
 
 And talking of students bettering teachers, here is Michael's winning deck:
 
-Crypt (12 cards, min=11, max=29, avg=5.33)
-------------------------------------------
-2x Gilbert Duane	7   AUS DOM OBF		 prince	   Malkavian:1
-2x Mariel, Lady Thunder	7   DOM OBF aus tha	 	   Malkavian:1
-2x Ozmo			6   AUS dom obf		 	   Malkavian:1
-2x Normal		2   obf			 	   Malkavian:1
-1x Sylvester Simms	8   AUS OBF ani dom pre	 primogen  Malkavian:1
-1x Zebulon		5   OBF aus dom pro	 	   Malkavian:1
-1x Roland Bishop	4   aus dom obf		 	   Malkavian:1
-1x Dollface		3   aus obf		 	   Malkavian:1
+Crypt (12 cards, min=11 max=29 avg=5.33)
+----------------------------------------
+2x Gilbert Duane        7   AUS DOM OBF          prince    Malkavian:1
+2x Mariel, Lady Thunder 7   DOM OBF aus tha                Malkavian:1
+2x Ozmo                 6   AUS dom obf                    Malkavian:1
+2x Normal               2   obf                            Malkavian:1
+1x Sylvester Simms      8   AUS OBF ani dom pre  primogen  Malkavian:1
+1x Zebulon              5   OBF aus dom pro                Malkavian:1
+1x Roland Bishop        4   aus dom obf                    Malkavian:1
+1x Dollface             3   aus obf                        Malkavian:1
 
 Library (72 cards)
 Master (12)

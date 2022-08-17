@@ -12,17 +12,17 @@ Deck Name: Illegalism Bleed Toolbox
 
 Description: Big thanks to everyone playing and Lauri for being such a great host!
 
-Crypt (12 cards, min=14, max=31, avg=5.67)
-------------------------------------------
-3x Jack Drake		    8	CEL POT pre tha	 Brujah:4
-2x Salvador Garcia	    7	CEL PRE pot pro	 Brujah:4
-1x Marguerite Foccart (ADV) 6	CEL PRE aus pot	 Brujah:4
-1x Axel Von Anders	    5	PRE cel obf pot	 Brujah antitribu:4
-1x Gatjil Munyarryun	    5	POT cel obt pre	 Brujah antitribu:5
-1x Jenna Cross		    4	CEL pot pre	 Caitiff:4
-1x Paul Calderone	    4	cel pot pre	 Brujah:5
-1x Ariane		    3	cel pot pre	 Brujah:5
-1x Lynn Thompson	    3	cel pot		 Brujah:5
+Crypt (12 cards, min=14 max=31 avg=5.67)
+----------------------------------------
+3x Jack Drake               8   CEL POT pre tha  Brujah:4
+2x Salvador Garcia          7   CEL PRE pot pro  Brujah:4
+1x Marguerite Foccart (ADV) 6   CEL PRE aus pot  Brujah:4
+1x Axel Von Anders          5   PRE cel obf pot  Brujah antitribu:4
+1x Gatjil Munyarryun        5   POT cel obt pre  Brujah antitribu:5
+1x Jenna Cross              4   CEL pot pre      Caitiff:4
+1x Paul Calderone           4   cel pot pre      Brujah:5
+1x Ariane                   3   cel pot pre      Brujah:5
+1x Lynn Thompson            3   cel pot          Brujah:5
 
 Library (77 cards)
 Master (18; 1 trifle)

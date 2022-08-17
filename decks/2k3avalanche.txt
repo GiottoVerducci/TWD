@@ -6,13 +6,13 @@ Erik Torstensson
 
 Deck Name: Jake Washington eats the world
 
-Crypt (12 cards, min=8, max=17, avg=3.17)
------------------------------------------
-5x Horatio	  2   vic	   Tzimisce:2
-4x Lolita Houston 4   VIC aus	   Tzimisce:2
-1x Rose, The	  5   PRE VIC aus  Tzimisce:3
-1x Terrence	  4   ani aus vic  Tzimisce:2
-1x Wendy Wade	  3   ani aus	   Tzimisce:2
+Crypt (12 cards, min=8 max=17 avg=3.17)
+---------------------------------------
+5x Horatio        2   vic          Tzimisce:2
+4x Lolita Houston 4   VIC aus      Tzimisce:2
+1x Rose, The      5   PRE VIC aus  Tzimisce:3
+1x Terrence       4   ani aus vic  Tzimisce:2
+1x Wendy Wade     3   ani aus      Tzimisce:2
 
 Library (60 cards)
 Master (17)

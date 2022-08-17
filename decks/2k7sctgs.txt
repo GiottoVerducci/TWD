@@ -21,13 +21,13 @@ provides +1 stealth and I don't need maneuvers in combat (Claws of the
 Dead can give maneuver in dire help)
 -Pentex is for contest and ...well it's also a good card anyways
 
-Crypt (12 cards, min=4, max=40, avg=5)
---------------------------------------
-5x Julius	   1   qui ser		    		Caitiff:2
-4x Wynn		   10  ANI FOR PRO obf pot  primogen	Gangrel:1
-1x Luther	   6   ANI for obt pro	    		Gangrel antitribu:2
-1x Bear Paw	   5   ANI for pre pro	    		Gangrel:1
-1x Roman Alexander 4   ani for pro	    		Gangrel:1
+Crypt (12 cards, min=4 max=40 avg=5)
+------------------------------------
+5x Julius          1   qui ser                          Caitiff:2
+4x Wynn            10  ANI FOR PRO obf pot  primogen    Gangrel:1
+1x Luther          6   ANI for obt pro                  Gangrel antitribu:2
+1x Bear Paw        5   ANI for pre pro                  Gangrel:1
+1x Roman Alexander 4   ani for pro                      Gangrel:1
 
 Library (90 cards)
 Master (13)

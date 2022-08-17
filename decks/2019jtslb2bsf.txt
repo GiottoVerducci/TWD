@@ -34,13 +34,13 @@ drawing his Legionnaires and the weenie Auspex in front of me couldn't match my
 consistent five-stealth actions. I was in no danger whatsoever during the whole
 game and just rolled into a completely unexpected sweep.
 
-Crypt (12 cards, min=26, max=36, avg=7.83)
-------------------------------------------
-4x Dmitra Ilyanova	   9   CEL FOR POT PRE obf  justicar	Brujah:5
-2x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
-2x Karen Suadela	   7   CEL POT obf pre	    prince	Brujah:5
-2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
-2x Arishat		   6   DAI OBF PRE	    1 vote	Baali:6
+Crypt (12 cards, min=26 max=36 avg=7.83)
+----------------------------------------
+4x Dmitra Ilyanova         9   CEL FOR POT PRE obf  justicar    Brujah:5
+2x Annazir                 9   DAI OBF POT PRE      2 votes     Baali:5
+2x Karen Suadela           7   CEL POT obf pre      prince      Brujah:5
+2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro              Baali:6
+2x Arishat                 6   DAI OBF PRE          1 vote      Baali:6
 
 Library (69 cards)
 Master (14; 6 trifle)

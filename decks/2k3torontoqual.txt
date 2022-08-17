@@ -14,18 +14,18 @@ jam I was getting all day.
 
 LASOMBRA -- OBT/PRE/DOM
 
-Crypt (12 cards, min=13, max=40, avg=7.17)
-------------------------------------------
-2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2 -- OBT PRE DOM
-2x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3 -- OBT PRE DOM
-1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2 -- OBT DOM
-1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2 -- OBT PRE DOM
-1x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2 -- OBT DOM
-1x Tobias Smith				  7   DOM OBT PRE pot			    Lasombra:3 -- OBT PRE DOM
-1x Sela					  6   POT PRE cel obt		bishop	    Brujah antitribu:2 -- obt PRE
-1x Cameron				  3   dom pot				    Lasombra:2 -- dom
-1x Aaron Duggan, Cameron's Toady	  2   obt				    Lasombra:2 -- obt
-1x Mitchell, The Headhunter		  2   obt pot				    Pander:2 -- obt
+Crypt (12 cards, min=13 max=40 avg=7.17)
+----------------------------------------
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2 -- OBT PRE DOM
+2x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince      Ventrue:3 -- OBT PRE DOM
+1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2 -- OBT DOM
+1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2 -- OBT PRE DOM
+1x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2 -- OBT DOM
+1x Tobias Smith                           7   DOM OBT PRE pot                       Lasombra:3 -- OBT PRE DOM
+1x Sela                                   6   POT PRE cel obt           bishop      Brujah antitribu:2 -- obt PRE
+1x Cameron                                3   dom pot                               Lasombra:2 -- dom
+1x Aaron Duggan, Cameron's Toady          2   obt                                   Lasombra:2 -- obt
+1x Mitchell, The Headhunter               2   obt pot                               Pander:2 -- obt
 
 Library (90 cards)
 Master (18)

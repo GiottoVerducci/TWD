@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/7573
 
 Deck Name: Meu baralho não é de bleed!!!
 
-Crypt (12 cards, min=18, max=28, avg=5.92)
-------------------------------------------
-2x Carna, The Princess Witch	7   AUS DOM THA		primogen    Tremere:3
-2x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		    Tremere:2
-2x Selena			6   AUS DOM THA			    Tremere antitribu:3
-1x Ladislas Toth, The Torch	7   AUS DOM THA for	archbishop  Tremere antitribu:3
-1x Eugenio Estevez		6   AUS THA dom for		    Tremere:3
-1x Aisling Sturbridge		5   AUS THA dom			    Tremere:2
-1x Cohn Rose			5   THA aus dom pre		    Tremere:3
-1x Hannigan			5   AUS THA dom			    Tremere antitribu:2
-1x Blythe Candeleria		3   THA aus			    Tremere:2
+Crypt (12 cards, min=18 max=28 avg=5.92)
+----------------------------------------
+2x Carna, The Princess Witch    7   AUS DOM THA         primogen    Tremere:3
+2x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                 Tremere:2
+2x Selena                       6   AUS DOM THA                     Tremere antitribu:3
+1x Ladislas Toth, The Torch     7   AUS DOM THA for     archbishop  Tremere antitribu:3
+1x Eugenio Estevez              6   AUS THA dom for                 Tremere:3
+1x Aisling Sturbridge           5   AUS THA dom                     Tremere:2
+1x Cohn Rose                    5   THA aus dom pre                 Tremere:3
+1x Hannigan                     5   AUS THA dom                     Tremere antitribu:2
+1x Blythe Candeleria            3   THA aus                         Tremere:2
 
 Library (90 cards)
 Master (15; 4 trifle)

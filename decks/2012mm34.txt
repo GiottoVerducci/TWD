@@ -7,17 +7,17 @@ Jari Vulli
 
 -- 2.5VP in final
 
-Crypt (12 cards, min=30, max=43, avg=9.08)
-------------------------------------------
-3x Stanislava		  11  ANI CEL DOM FOR PRO  inner circle	 Gangrel:2
-2x Ingrid Rossler	  9   ANI FOR PRO dom	   prince	 Gangrel:2
-1x Sébastien Goulet	  8   DOM OBF cel pre pro  		 Gangrel antitribu:3
-1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro  		 Gangrel antitribu:3
-1x Genevieve		  10  ANI FOR PRO aus dom  priscus	 Gangrel antitribu:2
-1x Hartmut Stover	  10  CEL OBF PRO dom for  archbishop	 Gangrel antitribu:3
-1x Faruq		  8   ANI PRO dom for pot  		 Gangrel:2
-1x Iliana		  7   DOM FOR PRO tha	   		 Gangrel:2
-1x Soldat		  7   POT PRO cel dom obf  		 Gangrel antitribu:3
+Crypt (12 cards, min=30 max=43 avg=9.08)
+----------------------------------------
+3x Stanislava             11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Ingrid Rossler         9   ANI FOR PRO dom      prince        Gangrel:2
+1x Sébastien Goulet       8   DOM OBF cel pre pro                Gangrel antitribu:3
+1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro                Gangrel antitribu:3
+1x Genevieve              10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+1x Hartmut Stover         10  CEL OBF PRO dom for  archbishop    Gangrel antitribu:3
+1x Faruq                  8   ANI PRO dom for pot                Gangrel:2
+1x Iliana                 7   DOM FOR PRO tha                    Gangrel:2
+1x Soldat                 7   POT PRO cel dom obf                Gangrel antitribu:3
 
 Library (72 cards)
 Master (19; 6 trifle)

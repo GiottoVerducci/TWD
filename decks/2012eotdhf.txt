@@ -12,15 +12,15 @@ Deck Name: The Shalmath Limb Donor Foundation
 Description: 	Rush immediate threats, tool up Shalmath.
 Remove prey's defense and follow up with Andre + 1-caps.
 
-Crypt (12 cards, min=4, max=40, avg=5.08)
------------------------------------------
-5x Shalmath	  10  POT PRE TEM  True Brujah:6
-2x Freddy Gage	  1   pot	   Caitiff:5
-1x Andre LeRoux	  3   aus	   Toreador:5
-1x Kalila	  3   aus obf	   Malkavian:5
-1x Donald Cargill 1   aus	   Caitiff:5
-1x Iris Bennett	  1   pro	   Caitiff:5
-1x Walker Grimes  1   ani	   Caitiff:5
+Crypt (12 cards, min=4 max=40 avg=5.08)
+---------------------------------------
+5x Shalmath       10  POT PRE TEM  True Brujah:6
+2x Freddy Gage    1   pot          Caitiff:5
+1x Andre LeRoux   3   aus          Toreador:5
+1x Kalila         3   aus obf      Malkavian:5
+1x Donald Cargill 1   aus          Caitiff:5
+1x Iris Bennett   1   pro          Caitiff:5
+1x Walker Grimes  1   ani          Caitiff:5
 
 Library (71 cards)
 Master (16; 6 trifle)

@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/7504
 
 Deck Name: Master of the Stronghold
 
-Crypt (12 cards, min=17, max=30, avg=5.92)
-------------------------------------------
-2x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 	 Ventrue antitribu:3
-2x Blackhorse Tanner		7   AUS DOM FOR		 	 Ventrue antitribu:3
-2x Neighbor John		5   AUS dom for		 	 Ventrue antitribu:4
-1x Edward Neally		7   DOM FOR aus pre	 	 Ventrue antitribu:3
-1x Jefferson Foster		6   AUS DOM for tha	 bishop	 Ventrue antitribu:4
-1x Mariel St. John		6   AUS FOR dom pro	 	 Ventrue antitribu:4
-1x Jephta Hester		5   DOM FOR aus		 	 Ventrue antitribu:4
-1x Katherine Stoddard		4   dom for		 	 Ventrue antitribu:3
-1x Ulrike Rothbart		3   dom for		 	 Ventrue antitribu:4
+Crypt (12 cards, min=17 max=30 avg=5.92)
+----------------------------------------
+2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre          Ventrue antitribu:3
+2x Blackhorse Tanner            7   AUS DOM FOR                  Ventrue antitribu:3
+2x Neighbor John                5   AUS dom for                  Ventrue antitribu:4
+1x Edward Neally                7   DOM FOR aus pre              Ventrue antitribu:3
+1x Jefferson Foster             6   AUS DOM for tha      bishop  Ventrue antitribu:4
+1x Mariel St. John              6   AUS FOR dom pro              Ventrue antitribu:4
+1x Jephta Hester                5   DOM FOR aus                  Ventrue antitribu:4
+1x Katherine Stoddard           4   dom for                      Ventrue antitribu:3
+1x Ulrike Rothbart              3   dom for                      Ventrue antitribu:4
 
 Library (90 cards)
 Master (17; 7 trifle)

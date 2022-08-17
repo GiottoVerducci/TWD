@@ -7,12 +7,12 @@ Ricardo Molina Sobreira
 
 Deck Name: Tremere
 
-Crypt (12 cards, min=29, max=38, avg=8.25)
-------------------------------------------
-3x Lucas Halton			10  AUS CEL DOM THA qui	 prince	   Tremere:3
-3x Anastasz di Zagreb		8   AUS THA ani cel dom	 justicar  Tremere:3
-3x Troius			8   AUS DOM THA cel	 prince	   Tremere:4
-3x Carna, The Princess Witch	7   AUS DOM THA		 primogen  Tremere:3
+Crypt (12 cards, min=29 max=38 avg=8.25)
+----------------------------------------
+3x Lucas Halton                 10  AUS CEL DOM THA qui  prince    Tremere:3
+3x Anastasz di Zagreb           8   AUS THA ani cel dom  justicar  Tremere:3
+3x Troius                       8   AUS DOM THA cel      prince    Tremere:4
+3x Carna, The Princess Witch    7   AUS DOM THA          primogen  Tremere:3
 
 Library (90 cards)
 Master (15; 4 trifle)

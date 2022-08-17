@@ -4,17 +4,17 @@ March 25th 2006
 30 players
 Ferenc Vasadi
 
-Crypt (12 cards, min=11, max=40, avg=5.92)
-------------------------------------------
-4x Nergal		   10  AUS DAI FOR OBF PRE THA	Baali:5
-1x Eurayle Gelasia Mylonas 6   AUS OBE for pre		Salubri:4
-1x Solomon Batanea	   5   AUS FOR nec		Harbinger of Skulls:4
-1x Zhenga		   5   SER obf pre		Follower of Set:4
-1x Antoinette Dubois	   4   PRE for mel		Daughter of Cacophony:4
-1x Lumumba		   4   PRE ani			Guruhi:4
-1x Panya, The Wicked	   3   cel pre			Ishtarri:4
-1x Aimee Laroux		   2   for pre			Daughter of Cacophony:4
-1x Jayne Jonestown	   2   PRE			Brujah antitribu:4
+Crypt (12 cards, min=11 max=40 avg=5.92)
+----------------------------------------
+4x Nergal                  10  AUS DAI FOR OBF PRE THA  Baali:5
+1x Eurayle Gelasia Mylonas 6   AUS OBE for pre          Salubri:4
+1x Solomon Batanea         5   AUS FOR nec              Harbinger of Skulls:4
+1x Zhenga                  5   SER obf pre              Follower of Set:4
+1x Antoinette Dubois       4   PRE for mel              Daughter of Cacophony:4
+1x Lumumba                 4   PRE ani                  Guruhi:4
+1x Panya, The Wicked       3   cel pre                  Ishtarri:4
+1x Aimee Laroux            2   for pre                  Daughter of Cacophony:4
+1x Jayne Jonestown         2   PRE                      Brujah antitribu:4
 
 Library (90 cards)
 Master (15)

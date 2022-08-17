@@ -3,20 +3,20 @@ Gothenburg, Sweden
 January 12th 2002
 Simon Carlsson
 
-Crypt (12 cards, min=21, max=39, avg=7.75)
-------------------------------------------
-1x Etrius			11  AUS DOM OBF THA pro		inner circle	Tremere:2
-1x Goratrix			10  ANI AUS DOM THA vic				Tremere antitribu:2
-1x Cardano			9   DOM FOR THA ani aus cel	prince		Tremere:1
-1x Javier Montoya		9   AUS THA ani cel pre		prince		Tremere:2
-1x Spiridonas			9   DOM THA pot pre		prince		Tremere:2
-1x Ian Forestal			8   AUS DOM THA					Tremere antitribu:2
-1x Justine, Elder of Dallas	8   AUS DOM THA obf		primogen	Tremere:1
-1x Kij Dansky			8   AUS DOM THA obt		priscus		Tremere antitribu:2
-1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for				Tremere:2
-1x Hannigan			5   AUS THA dom					Tremere antitribu:2
-1x Merrill Molitor		5   THA aus dom					Tremere:1
-1x Sarah Cobbler		4   THA dom					Tremere:1
+Crypt (12 cards, min=21 max=39 avg=7.75)
+----------------------------------------
+1x Etrius                       11  AUS DOM OBF THA pro         inner circle    Tremere:2
+1x Goratrix                     10  ANI AUS DOM THA vic                         Tremere antitribu:2
+1x Cardano                      9   DOM FOR THA ani aus cel     prince          Tremere:1
+1x Javier Montoya               9   AUS THA ani cel pre         prince          Tremere:2
+1x Spiridonas                   9   DOM THA pot pre             prince          Tremere:2
+1x Ian Forestal                 8   AUS DOM THA                                 Tremere antitribu:2
+1x Justine, Elder of Dallas     8   AUS DOM THA obf             primogen        Tremere:1
+1x Kij Dansky                   8   AUS DOM THA obt             priscus         Tremere antitribu:2
+1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                             Tremere:2
+1x Hannigan                     5   AUS THA dom                                 Tremere antitribu:2
+1x Merrill Molitor              5   THA aus dom                                 Tremere:1
+1x Sarah Cobbler                4   THA dom                                     Tremere:1
 
 Library (90 cards)
 Master (15)

@@ -7,17 +7,17 @@ Andrzej Jagla
 
 Deck Name: rambo shambo
 
-Crypt (12 cards, min=12, max=26, avg=4.5)
------------------------------------------
-2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
-2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
-2x Rudolfo Giovanni	3   NEC			Giovanni:2
-1x Carlotta Giovanni	7   NEC POT dom obf	Giovanni:2
-1x Francesca Giovanni	4   dom nec pot		Giovanni:2
-1x Gloria Giovanni	4   DOM nec		Giovanni:2
-1x Cristofero Giovanni	3   nec pot		Giovanni:2
-1x Lia Milliner		3   dom nec		Giovanni:3
-1x Mario Giovanni	3   nec pot		Giovanni:2
+Crypt (12 cards, min=12 max=26 avg=4.5)
+---------------------------------------
+2x Andrea Giovanni      7   DOM NEC pot vic     Giovanni:2
+2x Isabel Giovanni      5   DOM NEC pot         Giovanni:2
+2x Rudolfo Giovanni     3   NEC                 Giovanni:2
+1x Carlotta Giovanni    7   NEC POT dom obf     Giovanni:2
+1x Francesca Giovanni   4   dom nec pot         Giovanni:2
+1x Gloria Giovanni      4   DOM nec             Giovanni:2
+1x Cristofero Giovanni  3   nec pot             Giovanni:2
+1x Lia Milliner         3   dom nec             Giovanni:3
+1x Mario Giovanni       3   nec pot             Giovanni:2
 
 Library (87 cards)
 Master (15; 1 trifle)

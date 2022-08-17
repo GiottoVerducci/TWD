@@ -13,18 +13,18 @@ Created by: Robert Goudie
 Description: Created to be used by my sons as their first deck when
 learning to play. The same as the one he won with a few months ago.
 
-Crypt (12 cards, min=17, max=25, avg=5.17)
-------------------------------------------
-2x Zebulon		5   OBF aus dom pro		Malkavian:1
-2x Roland Bishop	4   aus dom obf			Malkavian:1
-1x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
-1x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
-1x Ozmo			6   AUS dom obf			Malkavian:1
-1x Badr al-Budur	5   OBF cel dom qui		Assamite:2
-1x Count Ormonde	5   OBF dom pre ser		Follower of Set:2
-1x Didi Meyers		5   DOM aus cel obf		Malkavian:1
-1x Guido Lucciano	5   OBT dom obf			Lasombra:2
-1x Laurent de Valois	4   ani dom obf			Nosferatu:2
+Crypt (12 cards, min=17 max=25 avg=5.17)
+----------------------------------------
+2x Zebulon              5   OBF aus dom pro             Malkavian:1
+2x Roland Bishop        4   aus dom obf                 Malkavian:1
+1x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
+1x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
+1x Ozmo                 6   AUS dom obf                 Malkavian:1
+1x Badr al-Budur        5   OBF cel dom qui             Assamite:2
+1x Count Ormonde        5   OBF dom pre ser             Follower of Set:2
+1x Didi Meyers          5   DOM aus cel obf             Malkavian:1
+1x Guido Lucciano       5   OBT dom obf                 Lasombra:2
+1x Laurent de Valois    4   ani dom obf                 Nosferatu:2
 
 Library (73 cards)
 Master (9)

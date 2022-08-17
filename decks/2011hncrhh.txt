@@ -11,16 +11,16 @@ Deck Name: The Terrible Walking Sticks Deck
 
 Description: Get some good cross table buddies and win
 
-Crypt (12 cards, min=15, max=32, avg=5.92)
-------------------------------------------
-2x Dónal O'Connor		8   CEL DOM POT		prince	Brujah:2
-2x Marcellus			8   AUS CEL pro		prince	Toreador:2
-2x Ira Rivers			7   AUS CEL ani pre	prince	Toreador:3
-2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
-1x Jimmy Dunn			4   CEL POT for			Pander:2
-1x Scarlet Carson O'Toole	4   CEL pro			Gangrel antitribu:3
-1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
-1x Sarah Brando			3   CEL				Brujah antitribu:2
+Crypt (12 cards, min=15 max=32 avg=5.92)
+----------------------------------------
+2x Dónal O'Connor               8   CEL DOM POT         prince  Brujah:2
+2x Marcellus                    8   AUS CEL pro         prince  Toreador:2
+2x Ira Rivers                   7   AUS CEL ani pre     prince  Toreador:3
+2x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
+1x Jimmy Dunn                   4   CEL POT for                 Pander:2
+1x Scarlet Carson O'Toole       4   CEL pro                     Gangrel antitribu:3
+1x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
+1x Sarah Brando                 3   CEL                         Brujah antitribu:2
 
 Library (90 cards)
 Master (17; 6 trifle)

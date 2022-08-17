@@ -9,10 +9,10 @@ Tomi Sillanpää
 
 Deck Name: The Unnamed
 
-Crypt (12 cards, min=12, max=40, avg=6.58)
-------------------------------------------
-5x unnamed, The		   10  CEL DAI OBF PRE PRO  Baali:6
-5x Horde, The		   3   dai obf pre	    Baali:6
+Crypt (12 cards, min=12 max=40 avg=6.58)
+----------------------------------------
+5x unnamed, The            10  CEL DAI OBF PRE PRO  Baali:6
+5x Horde, The              3   dai obf pre          Baali:6
 2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  Baali:6
 
 Library (90 cards)

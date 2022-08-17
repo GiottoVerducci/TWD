@@ -12,12 +12,12 @@ Deck Name: Enkidu Anarch
 
 Description: Another tribute to Bram Van Stappen idea:)
 
-Crypt (12 cards, min=4, max=43, avg=6.08)
------------------------------------------
-4x Anarch Convert   1	-none-			 Caitiff:ANY
-3x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-3x Matasuntha	    10	ANI AUS CEL FOR PRO	 Gangrel:5
-2x Andre LeRoux	    3	aus			 Toreador:5
+Crypt (12 cards, min=4 max=43 avg=6.08)
+---------------------------------------
+4x Anarch Convert   1   -none-                   Caitiff:ANY
+3x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+3x Matasuntha       10  ANI AUS CEL FOR PRO      Gangrel:5
+2x Andre LeRoux     3   aus                      Toreador:5
 
 Library (90 cards)
 Master (28; 7 trifle)

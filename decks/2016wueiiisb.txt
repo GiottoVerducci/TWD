@@ -10,18 +10,18 @@ https://www.vekn.net/event-calendar/event/8311
 
 Deck Name: Bruninho (Crow)
 
-Crypt (12 cards, min=9, max=26, avg=4.58)
------------------------------------------
-2x Crow			5   ANI for pro tha		Gangrel:5
-2x Anarch Convert	1   -none-			Caitiff:ANY
-1x Ariadne		8   ANI FOR PRO chi		Gangrel:5
-1x Randall		8   ANI AUS FOR PRO	1 vote	Gangrel:4
-1x Céleste Lamontagne	5   ANI PRO for			Gangrel antitribu:4
-1x Fish			5   ANI POT pre			Guruhi:4
-1x Petra		5   ANI OBF aus			Nosferatu:4
-1x Sahana		5   ANI pre pro spi		Ahrimane:4
-1x Beetleman		4   ANI obf			Nosferatu:4
-1x Stick		3   ANI				Nosferatu antitribu:4
+Crypt (12 cards, min=9 max=26 avg=4.58)
+---------------------------------------
+2x Crow                 5   ANI for pro tha             Gangrel:5
+2x Anarch Convert       1   -none-                      Caitiff:ANY
+1x Ariadne              8   ANI FOR PRO chi             Gangrel:5
+1x Randall              8   ANI AUS FOR PRO     1 vote  Gangrel:4
+1x Céleste Lamontagne   5   ANI PRO for                 Gangrel antitribu:4
+1x Fish                 5   ANI POT pre                 Guruhi:4
+1x Petra                5   ANI OBF aus                 Nosferatu:4
+1x Sahana               5   ANI pre pro spi             Ahrimane:4
+1x Beetleman            4   ANI obf                     Nosferatu:4
+1x Stick                3   ANI                         Nosferatu antitribu:4
 
 Library (90 cards)
 Master (24; 8 trifle)

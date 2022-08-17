@@ -6,13 +6,13 @@ Breno Pedretti
 
 Deck Name: Arika Special
 
-Crypt (12 cards, min=36, max=43, avg=9.92)
-------------------------------------------
-3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
-2x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
-2x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
-2x Katarina Kornfeld	8   DOM FOR PRE ani		primogen	Ventrue:3
+Crypt (12 cards, min=36 max=43 avg=9.92)
+----------------------------------------
+3x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+3x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
+2x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
+2x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
+2x Katarina Kornfeld    8   DOM FOR PRE ani             primogen        Ventrue:3
 
 Library (89 cards)
 Master (18; 2 trifle)

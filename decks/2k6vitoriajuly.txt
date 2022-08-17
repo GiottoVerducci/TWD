@@ -13,16 +13,16 @@ ED Persantj
 VEKN - Prince of Grande Vitória Domain
 http://planeta.terra.com.br/lazer/vtesvitoria
 
-Crypt (13 cards, min=16, max=31, avg=6)
----------------------------------------
-3x Rocia			8   FOR POT VIS obf	 Gargoyle:4
-3x Cedric			6   FOR obf pot vis	 Gargoyle:4
-2x Virstania, The Great Mother	7   AUS THA dom pre vic	 Tremere:3
-1x Muhsin Samir			6   DOM THA aus pot	 Tremere:4
-1x Valois Sang, The Watcher	6   AUS DOM nec tha	 Tremere:3
-1x Pieter van Dorn		4   dom pre tha		 Tremere:3
-1x Ehrich Weiss			3   dom tha		 Tremere:3
-1x Masika St. John		3   THA			 Tremere:3
+Crypt (13 cards, min=16 max=31 avg=6)
+-------------------------------------
+3x Rocia                        8   FOR POT VIS obf      Gargoyle:4
+3x Cedric                       6   FOR obf pot vis      Gargoyle:4
+2x Virstania, The Great Mother  7   AUS THA dom pre vic  Tremere:3
+1x Muhsin Samir                 6   DOM THA aus pot      Tremere:4
+1x Valois Sang, The Watcher     6   AUS DOM nec tha      Tremere:3
+1x Pieter van Dorn              4   dom pre tha          Tremere:3
+1x Ehrich Weiss                 3   dom tha              Tremere:3
+1x Masika St. John              3   THA                  Tremere:3
 
 Library (90 cards)
 Master (17)

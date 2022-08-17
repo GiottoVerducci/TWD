@@ -11,13 +11,13 @@ Deck Name: Evanescent
 
 If you aren't playing Trainer, why are you even bothering with Animalism?
 
-Crypt (12 cards, min=4, max=34, avg=4.67)
------------------------------------------
-4x Anarch Convert 1   -none-		   Caitiff:ANY
-2x Myrna Goldman  9   ANI DOM MYT OBT	   Kiasyd:6
+Crypt (12 cards, min=4 max=34 avg=4.67)
+---------------------------------------
+4x Anarch Convert 1   -none-               Caitiff:ANY
+2x Myrna Goldman  9   ANI DOM MYT OBT      Kiasyd:6
 2x Arcadian, The  8   DOM MYT OBT chi for  Kiasyd:5
-2x Nitidas	  5   ani dom myt obt pre  Kiasyd:6
-2x Greer Worder	  4   MYT obt		   Kiasyd:6
+2x Nitidas        5   ani dom myt obt pre  Kiasyd:6
+2x Greer Worder   4   MYT obt              Kiasyd:6
 
 Library (90 cards)
 Master (16; 10 trifle)

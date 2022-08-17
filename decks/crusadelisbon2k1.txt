@@ -30,14 +30,14 @@ blood after playing some protean action modifiers.
 - Flesh of Marble almost kill Potence decks, and if the damage is aggravated it can be combined with Skin of Night. The single point of damage "feeds" the Masochism.
 - Second Tradition are a good example how a card justifies the use of bigger titled Camarilla vampires. Wake, untap, with +2 intercept is very good on a single card. Without this card, this deck almost got no real effective defense without changing other cards and its proportions.
 
-Crypt (12 cards, min=13, max=39, avg=7.33)
-------------------------------------------
-3x Angus the Unruled	10  ANI PRO cel for pot	 justicar  Gangrel:1
-3x Ingrid Rossler	9   ANI FOR PRO dom	 prince	   Gangrel:2
-2x Katarina		9   ANI FOR pot pro	 prince	   Gangrel:2
-2x Chandler Hungerford	3   PRO			 	   Gangrel:2
-1x Ramona		4   for pro		 	   Gangrel:2
-1x Ricki Van Demsi	3   for pro		 	   Gangrel:1
+Crypt (12 cards, min=13 max=39 avg=7.33)
+----------------------------------------
+3x Angus the Unruled    10  ANI PRO cel for pot  justicar  Gangrel:1
+3x Ingrid Rossler       9   ANI FOR PRO dom      prince    Gangrel:2
+2x Katarina             9   ANI FOR pot pro      prince    Gangrel:2
+2x Chandler Hungerford  3   PRO                            Gangrel:2
+1x Ramona               4   for pro                        Gangrel:2
+1x Ricki Van Demsi      3   for pro                        Gangrel:1
 
 Library (90 cards)
 Master (18)

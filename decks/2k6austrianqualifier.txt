@@ -12,15 +12,15 @@ In retrospect I would leave the library as is. I would tighten the
 crypt with two Tupdogs though taking out Banjoko and one Roderick
 Phillips March.
 
-Crypt (12 cards, min=18, max=30, avg=6.08)
-------------------------------------------
-2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
-2x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
-2x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
-2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
-2x Quincy, The Trapper	   4   dom myt obt	    		Kiasyd:3
-1x Onaedo		   6   DOM OBT aus pot	    		Lasombra:4
-1x Banjoko		   5   DOM obt pot	    		Lasombra:3
+Crypt (12 cards, min=18 max=30 avg=6.08)
+----------------------------------------
+2x Pherydima               8   DOM MYT NEC obt pot  bishop      Kiasyd:4
+2x Omme Enberbenight       7   MYT OBT cel dom      priscus     Kiasyd:4
+2x Roderick Phillips March 7   DOM MYT cel obt tha              Kiasyd:4
+2x Dame Hollerton          5   DOM OBT myt                      Kiasyd:4
+2x Quincy, The Trapper     4   dom myt obt                      Kiasyd:3
+1x Onaedo                  6   DOM OBT aus pot                  Lasombra:4
+1x Banjoko                 5   DOM obt pot                      Lasombra:3
 
 Library (90 cards)
 Master (18)

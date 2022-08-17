@@ -13,16 +13,16 @@ you can and share the Camera Phone for bleed via Forced March or Hag's
 Wrinkle. The Rumor Mill should've been a WMRH but I forgot to swap it
 out before the tournament so thems the breaks.
 
-Crypt (12 cards, min=12, max=32, avg=5.92)
-------------------------------------------
-3x Jack Dawson (ADV)		 8   FOR OBF cel nec qui thn	Samedi:2
-2x Jack Dawson			 8   FOR OBF cel nec qui thn	Samedi:2
-2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec	Samedi:2
-1x Lithrac			 5   OBF for thn		Samedi:2
-1x Gustavo Morales		 4   ani cel for		Gangrel:3
-1x Wolfgang			 4   for obf pot		Nosferatu:3
-1x Krid				 2   obf			Nosferatu:3
-1x Sarah Raines			 2   for			Gangrel:3
+Crypt (12 cards, min=12 max=32 avg=5.92)
+----------------------------------------
+3x Jack Dawson (ADV)             8   FOR OBF cel nec qui thn    Samedi:2
+2x Jack Dawson                   8   FOR OBF cel nec qui thn    Samedi:2
+2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec        Samedi:2
+1x Lithrac                       5   OBF for thn                Samedi:2
+1x Gustavo Morales               4   ani cel for                Gangrel:3
+1x Wolfgang                      4   for obf pot                Nosferatu:3
+1x Krid                          2   obf                        Nosferatu:3
+1x Sarah Raines                  2   for                        Gangrel:3
 
 Library (90 cards)
 Master (17)

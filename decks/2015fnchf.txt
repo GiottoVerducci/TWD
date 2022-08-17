@@ -6,11 +6,11 @@ August 15th 2015
 Tuomas Nyberg
 https://www.vekn.net/event-calendar/event/8176
 
-Crypt (12 cards, min=40, max=44, avg=10.67)
--------------------------------------------
-4x Mistress Fanchon 11	AUS CEL DOM OBF THA VIC	 inner circle	Tremere:4
-4x Sha-Ennu	    11	ANI AUS CHI VIC obf tha	 regent		Tzimisce:4
-4x Unmada	    10	AUS DEM OBF VIC cel for	 justicar	Malkavian:5
+Crypt (12 cards, min=40 max=44 avg=10.67)
+-----------------------------------------
+4x Mistress Fanchon 11  AUS CEL DOM OBF THA VIC  inner circle   Tremere:4
+4x Sha-Ennu         11  ANI AUS CHI VIC obf tha  regent         Tzimisce:4
+4x Unmada           10  AUS DEM OBF VIC cel for  justicar       Malkavian:5
 
 Library (84 cards)
 Master (21; 6 trifle)

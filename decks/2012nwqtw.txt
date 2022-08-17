@@ -9,17 +9,17 @@ Eric Reppas
 
 Deck Name: malks
 
-Crypt (12 cards, min=23, max=42, avg=8.5)
------------------------------------------
-2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
-2x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
-2x Morel		 6   AUS DEM OBF				Malkavian:4
-1x Ankou, The		 10  AUS DEM OBF				Malkavian:5
-1x Tryphosa		 10  AUS DEM DOM OBF POT	prince		Malkavian:4
-1x Santaleous		 9   AUS CEL DEM OBF				Malkavian:5
-1x Bloody Mary		 8   AUS DEM OBF pre		primogen	Malkavian:5
-1x Gem Ghastly		 6   DEM OBF aus		primogen	Malkavian:5
-1x Arthur Denholm	 5   AUS DEM obf				Malkavian:5
+Crypt (12 cards, min=23 max=42 avg=8.5)
+---------------------------------------
+2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
+2x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
+2x Morel                 6   AUS DEM OBF                                Malkavian:4
+1x Ankou, The            10  AUS DEM OBF                                Malkavian:5
+1x Tryphosa              10  AUS DEM DOM OBF POT        prince          Malkavian:4
+1x Santaleous            9   AUS CEL DEM OBF                            Malkavian:5
+1x Bloody Mary           8   AUS DEM OBF pre            primogen        Malkavian:5
+1x Gem Ghastly           6   DEM OBF aus                primogen        Malkavian:5
+1x Arthur Denholm        5   AUS DEM obf                                Malkavian:5
 
 Library (90 cards)
 Master (14; 7 trifle)

@@ -9,15 +9,15 @@ Deck Name: No Bounce?
 
 Description: Old School Voter, No Bounce No Govern
 
-Crypt (12 cards, min=40, max=44, avg=10.33)
--------------------------------------------
-2x Arika	    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
-2x Leandro	    11	AUS OBF PRE cel dom	 inner circle	Malkavian:2
-2x Jaroslav Pascek  10	CEL POT PRE for obf	 justicar	Brujah:3
-2x Lucinde, Alastor 10	DOM FOR PRE obf pot tha	 justicar	Ventrue:3
-2x Marcus Vitel	    10	DOM FOR OBF OBT PRE	 prince		Ventrue:3
-1x François Villon  10	AUS CEL PRE chi obf pot	 prince		Toreador:2
-1x Queen Anne	    10	DOM FOR PRE aus obf	 prince		Ventrue:2
+Crypt (12 cards, min=40 max=44 avg=10.33)
+-----------------------------------------
+2x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
+2x Leandro          11  AUS OBF PRE cel dom      inner circle   Malkavian:2
+2x Jaroslav Pascek  10  CEL POT PRE for obf      justicar       Brujah:3
+2x Lucinde, Alastor 10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
+2x Marcus Vitel     10  DOM FOR OBF OBT PRE      prince         Ventrue:3
+1x François Villon  10  AUS CEL PRE chi obf pot  prince         Toreador:2
+1x Queen Anne       10  DOM FOR PRE aus obf      prince         Ventrue:2
 
 Library (75 cards)
 Master (19; 7 trifle)

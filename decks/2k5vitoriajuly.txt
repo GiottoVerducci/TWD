@@ -7,25 +7,25 @@ Gabriel Waichert
 
 Deck Name: A revolução do proletariado
 
-Crypt (22 cards, min=4, max=8, avg=1.36)
-----------------------------------------
-2x Igo the Hungry	1   pre pro	Caitiff:1
-2x Julius		1   qui ser	Caitiff:2
-2x Navar McClaren	1   ani		Caitiff:1
-2x Nik			1   cel		Caitiff:1
-2x Smudge the Ignored	1   -none-	Caitiff:1
-1x Angel		2   cel		Brujah:1
-1x Delilah Easton	2   pre		Toreador:1
-1x Dimple		2   obf		Nosferatu:1
-1x Giuliano Vincenzi	2   for		Gangrel:1
-1x Lupo			2   pot		Brujah:1
-1x Magdelena Schaefer	2   THA		Caitiff:2
-1x Normal		2   obf		Malkavian:1
-1x Vliam Andor		2   ani		Gangrel:1
-1x Antoinette DuChamp	1   cel pre	Caitiff:2
-1x Franciscus		1   aus		Caitiff:2
-1x Hasina Kesi		1   pot		Caitiff:1
-1x Uriah Winter		1   for pot	Caitiff:1
+Crypt (22 cards, min=4 max=8 avg=1.36)
+--------------------------------------
+2x Igo the Hungry       1   pre pro     Caitiff:1
+2x Julius               1   qui ser     Caitiff:2
+2x Navar McClaren       1   ani         Caitiff:1
+2x Nik                  1   cel         Caitiff:1
+2x Smudge the Ignored   1   -none-      Caitiff:1
+1x Angel                2   cel         Brujah:1
+1x Delilah Easton       2   pre         Toreador:1
+1x Dimple               2   obf         Nosferatu:1
+1x Giuliano Vincenzi    2   for         Gangrel:1
+1x Lupo                 2   pot         Brujah:1
+1x Magdelena Schaefer   2   THA         Caitiff:2
+1x Normal               2   obf         Malkavian:1
+1x Vliam Andor          2   ani         Gangrel:1
+1x Antoinette DuChamp   1   cel pre     Caitiff:2
+1x Franciscus           1   aus         Caitiff:2
+1x Hasina Kesi          1   pot         Caitiff:1
+1x Uriah Winter         1   for pot     Caitiff:1
 
 Library (70 cards)
 Master (13)

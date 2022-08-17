@@ -13,14 +13,14 @@ Deck Name: Geezers will find...
 Based on Randall Rudstam's Ropecon 2012 tournament winning deck. I did some
 small modifications to crypt and library. Heja Sverige!
 
-Crypt (12 cards, min=40, max=44, avg=10.5)
-------------------------------------------
-4x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE			Baali:2
-3x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-2x Etrius	   11  AUS DOM OBF THA pro	inner circle	Tremere:2
-1x Leandro	   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
-1x Esau		   10  AUS DEM DOM OBF PRE			Malkavian:3
-1x Queen Anne	   10  DOM FOR PRE aus obf	prince		Ventrue:2
+Crypt (12 cards, min=40 max=44 avg=10.5)
+----------------------------------------
+4x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE                  Baali:2
+3x Arika           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+2x Etrius          11  AUS DOM OBF THA pro      inner circle    Tremere:2
+1x Leandro         11  AUS OBF PRE cel dom      inner circle    Malkavian:2
+1x Esau            10  AUS DEM DOM OBF PRE                      Malkavian:3
+1x Queen Anne      10  DOM FOR PRE aus obf      prince          Ventrue:2
 
 Library (75 cards)
 Master (31; 7 trifle)

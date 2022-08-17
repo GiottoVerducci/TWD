@@ -9,14 +9,14 @@ Deck Name: Brujah Trophy Hunter (29-08-2009)
 
 Description: Trophy hunter deck
 
-Crypt (13 cards, min=32, max=39, avg=8.92)
-------------------------------------------
-3x Jann Berger		10  CEL POT PRE dem for	 prince	   Brujah:4
-3x Dmitra Ilyanova	9   CEL FOR POT PRE obf	 justicar  Brujah:5
-3x Hektor		9   CEL POT PRE QUI for	 priscus   Brujah antitribu:4
-2x Count Germaine	8   CEL FOR POT PRE obf	 	   Brujah:4
-1x Count Germaine (ADV)	8   CEL FOR POT PRE obf	 	   Brujah:4
-1x Themistocles		8   AUS CEL FOR POT pre	 	   Brujah:5
+Crypt (13 cards, min=32 max=39 avg=8.92)
+----------------------------------------
+3x Jann Berger          10  CEL POT PRE dem for  prince    Brujah:4
+3x Dmitra Ilyanova      9   CEL FOR POT PRE obf  justicar  Brujah:5
+3x Hektor               9   CEL POT PRE QUI for  priscus   Brujah antitribu:4
+2x Count Germaine       8   CEL FOR POT PRE obf            Brujah:4
+1x Count Germaine (ADV) 8   CEL FOR POT PRE obf            Brujah:4
+1x Themistocles         8   AUS CEL FOR POT pre            Brujah:5
 
 Library (90 cards)
 Master (20; 6 trifle)

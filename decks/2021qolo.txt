@@ -11,12 +11,12 @@ https://www.vekn.net/event-calendar/event/9771
 Deck Name: Afifa "chaos-causing"
 Description: Multi Eventos
 
-Crypt (13 cards, min=4, max=11, avg=1.62)
------------------------------------------
-5x Afifa, The Herald		 1   dom	Caitiff:4
-3x Béatrice "Oracle171" Tremblay 3   inn ven	Innocent:4
-3x Anarch Convert		 1   -none-	Caitiff:ANY
-2x Jayne Jonestown		 2   PRE	Brujah antitribu:4
+Crypt (13 cards, min=4 max=11 avg=1.62)
+---------------------------------------
+5x Afifa, The Herald             1   dom        Caitiff:4
+3x Béatrice "Oracle171" Tremblay 3   inn ven    Innocent:4
+3x Anarch Convert                1   -none-     Caitiff:ANY
+2x Jayne Jonestown               2   PRE        Brujah antitribu:4
 
 Library (60 cards)
 Master (27; 2 trifle)

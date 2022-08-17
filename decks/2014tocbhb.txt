@@ -8,18 +8,18 @@ https://www.vekn.net/event-calendar/event/7796
 
 Deck Name: CREPÚSCULO (Twilight)
 
-Crypt (12 cards, min=11, max=28, avg=5)
----------------------------------------
-2x Uchenna		7   ABO ANI FOR		 magaji	 Akunanse:4
-2x Jacob Fermor		5   PRO ani tha		 	 Gangrel:4
-1x Amavi		8   ABO ANI FOR pre pro	 	 Akunanse:4
-1x Jubal		6   ABO ANI for pot	 	 Akunanse:4
-1x Sanjo		6   ANI FOR abo chi	 	 Akunanse:3
-1x Alejandro Aguirre	5   ani aus dom tha	 	 Tremere antitribu:3
-1x Janine		4   aus dom tha		 	 Tremere antitribu:4
-1x Dolie		3   abo ani		 	 Akunanse:4
-1x Keith Moody		3   DOM			 	 Tremere antitribu:4
-1x Anarch Convert	1   -none-		 	 Caitiff:ANY
+Crypt (12 cards, min=11 max=28 avg=5)
+-------------------------------------
+2x Uchenna              7   ABO ANI FOR          magaji  Akunanse:4
+2x Jacob Fermor         5   PRO ani tha                  Gangrel:4
+1x Amavi                8   ABO ANI FOR pre pro          Akunanse:4
+1x Jubal                6   ABO ANI for pot              Akunanse:4
+1x Sanjo                6   ANI FOR abo chi              Akunanse:3
+1x Alejandro Aguirre    5   ani aus dom tha              Tremere antitribu:3
+1x Janine               4   aus dom tha                  Tremere antitribu:4
+1x Dolie                3   abo ani                      Akunanse:4
+1x Keith Moody          3   DOM                          Tremere antitribu:4
+1x Anarch Convert       1   -none-                       Caitiff:ANY
 
 Library (90 cards)
 Master (19; 8 trifle)

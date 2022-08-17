@@ -18,14 +18,14 @@ NB - in general you have to play FoA on inferior.
 
 Deck Name: Rafael Beauty
 
-Crypt (12 cards, min=32, max=44, avg=9.67)
-------------------------------------------
-4x Rafael de Corazon	11  AUS CEL DOM OBF PRE		inner circle	Toreador:4
-4x Madame Guil		10  AUS CEL PRE for pot ser	justicar	Toreador:3
-1x Annabelle Triabell	9   AUS CEL PRE dom for		primogen	Toreador:3
-1x Epikasta Rigatos	8   AUS DOM PRE cel		prince		Toreador:4
-1x Fleurdumal		8   AUS DEM PRE cel tha		prince		Toreador:3
-1x Ira Rivers		7   AUS CEL ani pre		prince		Toreador:3
+Crypt (12 cards, min=32 max=44 avg=9.67)
+----------------------------------------
+4x Rafael de Corazon    11  AUS CEL DOM OBF PRE         inner circle    Toreador:4
+4x Madame Guil          10  AUS CEL PRE for pot ser     justicar        Toreador:3
+1x Annabelle Triabell   9   AUS CEL PRE dom for         primogen        Toreador:3
+1x Epikasta Rigatos     8   AUS DOM PRE cel             prince          Toreador:4
+1x Fleurdumal           8   AUS DEM PRE cel tha         prince          Toreador:3
+1x Ira Rivers           7   AUS CEL ani pre             prince          Toreador:3
 
 Library (84 cards)
 Master (19; 6 trifle)

@@ -20,16 +20,16 @@ who deserve it, until you get the vote lock. The Textbook Damnation is in the
 deck so that another vampire with Fortitude can also equip with the Kaymakli
 Fragment and help Giotto move up to 6 blood down on a single turn.
 
-Crypt (12 cards, min=26, max=33, avg=7.25)
-------------------------------------------
-5x Giotto Verducci		7   DAI OBF for pot pre	 	   Baali:2
-1x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
-1x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
-1x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
-1x Gilbert Duane		7   AUS DOM OBF		 prince	   Malkavian:1
-1x Greger Anderssen		7   AUS OBF dom pro	 prince	   Malkavian:2
-1x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
-1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+Crypt (12 cards, min=26 max=33 avg=7.25)
+----------------------------------------
+5x Giotto Verducci              7   DAI OBF for pot pre            Baali:2
+1x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
+1x Suhailah                     9   FOR OBF pot ser      prince    Ventrue:2
+1x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
+1x Gilbert Duane                7   AUS DOM OBF          prince    Malkavian:1
+1x Greger Anderssen             7   AUS OBF dom pro      prince    Malkavian:2
+1x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
+1x Calebros, The Martyr         5   ANI obf pot          prince    Nosferatu:2
 
 Library (79 cards)
 Master (22; 8 trifle)

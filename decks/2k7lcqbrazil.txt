@@ -8,21 +8,21 @@ Danilo Fernandes
 Danilo Fernandes, the defending Brazilian champion, started the
 weekend well and won the tournament.
 
-Crypt (13 cards, min=8, max=15, avg=2.92)
------------------------------------------
-1x Agatha			    4	POT obf		Nosferatu antitribu:2
-1x Claven			    4	aus dem obf	Malkavian antitribu:2
-1x Wren				    4	cel obf pro	Gangrel antitribu:2
-1x Duck				    3	obf pot		Nosferatu:1
-1x Lena Rowe			    3	aus obf pre	Pander:2
-1x Max Lowell			    3	cel obf		Gangrel antitribu:2
-1x Regilio, The Seeker of Akhenaten 3	aus obf		Nosferatu:2
-1x Shannon Price, The Whisperer	    3	ani obf		Nosferatu antitribu:2
-1x Watenda			    3	obf		Malkavian:2
-1x Yorik			    3	dem obf		Malkavian antitribu:2
-1x Dimple			    2	obf		Nosferatu:1
-1x Normal			    2	obf		Malkavian:1
-1x Basil			    1	obf		Pander:2
+Crypt (13 cards, min=8 max=15 avg=2.92)
+---------------------------------------
+1x Agatha                           4   POT obf         Nosferatu antitribu:2
+1x Claven                           4   aus dem obf     Malkavian antitribu:2
+1x Wren                             4   cel obf pro     Gangrel antitribu:2
+1x Duck                             3   obf pot         Nosferatu:1
+1x Lena Rowe                        3   aus obf pre     Pander:2
+1x Max Lowell                       3   cel obf         Gangrel antitribu:2
+1x Regilio, The Seeker of Akhenaten 3   aus obf         Nosferatu:2
+1x Shannon Price, The Whisperer     3   ani obf         Nosferatu antitribu:2
+1x Watenda                          3   obf             Malkavian:2
+1x Yorik                            3   dem obf         Malkavian antitribu:2
+1x Dimple                           2   obf             Nosferatu:1
+1x Normal                           2   obf             Malkavian:1
+1x Basil                            1   obf             Pander:2
 
 Library (90 cards)
 Master (33)

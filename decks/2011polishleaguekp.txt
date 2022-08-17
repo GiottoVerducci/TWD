@@ -8,17 +8,17 @@ Tomasz Izydorczyk
 Deck Name: AUS FOR wall
 Created by: Michal Kazmierczak
 
-Crypt (12 cards, min=10, max=32, avg=5.08)
-------------------------------------------
-3x Neighbor John		5   AUS dom for			Ventrue antitribu:4
-2x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre		Ventrue antitribu:3
-1x Saulot, The Wanderer		11  AUS FOR OBE THA VAL dai	Salubri:4
-1x Solomon Batanea		5   AUS FOR nec			Harbinger of Skulls:4
-1x Lorrie Dunsirn		4   POT for nec			Abomination:4
-1x Maldavis			4   AUS for pre			Caitiff:3
-1x Rosemarie			3   FOR mel			Daughter of Cacophony:4
-1x Sarah Raines			2   for				Gangrel:3
-1x Feo Ramos			1   aus				Pander:3
+Crypt (12 cards, min=10 max=32 avg=5.08)
+----------------------------------------
+3x Neighbor John                5   AUS dom for                 Ventrue antitribu:4
+2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre         Ventrue antitribu:3
+1x Saulot, The Wanderer         11  AUS FOR OBE THA VAL dai     Salubri:4
+1x Solomon Batanea              5   AUS FOR nec                 Harbinger of Skulls:4
+1x Lorrie Dunsirn               4   POT for nec                 Abomination:4
+1x Maldavis                     4   AUS for pre                 Caitiff:3
+1x Rosemarie                    3   FOR mel                     Daughter of Cacophony:4
+1x Sarah Raines                 2   for                         Gangrel:3
+1x Feo Ramos                    1   aus                         Pander:3
 
 Library (80 cards)
 Master (17; 8 trifle)

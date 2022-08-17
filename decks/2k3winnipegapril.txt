@@ -9,14 +9,14 @@ Deck Name: Blood Hoover
 Basically a cel/tha blood draining and burning deck. Anathema for
 pool gain.
 
-Crypt (12 cards, min=11, max=40, avg=6.5)
------------------------------------------
-3x Anastasz di Zagreb	8   AUS THA ani cel dom		justicar  Tremere:3
-2x Lucas Halton		10  AUS CEL DOM THA qui		prince	  Tremere:3
-2x Menele		10  CEL POT PRE THA aus dom		  Brujah:3
-2x Blythe Candeleria	3   THA aus				  Tremere:2
-2x Masika St. John	3   THA					  Tremere:3
-1x Heinrick Schlempt	2   tha					  Tremere antitribu:2
+Crypt (12 cards, min=11 max=40 avg=6.5)
+---------------------------------------
+3x Anastasz di Zagreb   8   AUS THA ani cel dom         justicar  Tremere:3
+2x Lucas Halton         10  AUS CEL DOM THA qui         prince    Tremere:3
+2x Menele               10  CEL POT PRE THA aus dom               Brujah:3
+2x Blythe Candeleria    3   THA aus                               Tremere:2
+2x Masika St. John      3   THA                                   Tremere:3
+1x Heinrick Schlempt    2   tha                                   Tremere antitribu:2
 
 Library (90 cards)
 Master (12)

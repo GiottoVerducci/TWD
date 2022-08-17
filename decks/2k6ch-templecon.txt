@@ -10,17 +10,17 @@ Deck Name: Deploy the Hannibal
 Description: one of my pet decks. finally won something. now that i look at it...
 how the hell did i win?
 
-Crypt (12 cards, min=15, max=40, avg=6.83)
-------------------------------------------
-4x Hannibal (ADV)		  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
-1x Hannibal			  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
-1x Korah			  7   AUS DEM OBF ani	   priscus	Malkavian antitribu:2
-1x Colonel, The			  5   AUS cel dem obf	   		Malkavian antitribu:3
-1x General Perfidio Díos	  5   AUS dem obf	   bishop	Malkavian antitribu:3
-1x Claven			  4   aus dem obf	   		Malkavian antitribu:2
-1x Idalia, Prophet of Guadalajara 4   AUS dem		   		Malkavian antitribu:2
-1x Roger Farnsworth		  4   OBF aus		   		Malkavian antitribu:3
-1x Zöe				  3   AUS cel obf	   		Malkavian:2
+Crypt (12 cards, min=15 max=40 avg=6.83)
+----------------------------------------
+4x Hannibal (ADV)                 10  AUS DEM OBF cel dom  cardinal     Malkavian antitribu:2
+1x Hannibal                       10  AUS DEM OBF cel dom  cardinal     Malkavian antitribu:2
+1x Korah                          7   AUS DEM OBF ani      priscus      Malkavian antitribu:2
+1x Colonel, The                   5   AUS cel dem obf                   Malkavian antitribu:3
+1x General Perfidio Díos          5   AUS dem obf          bishop       Malkavian antitribu:3
+1x Claven                         4   aus dem obf                       Malkavian antitribu:2
+1x Idalia, Prophet of Guadalajara 4   AUS dem                           Malkavian antitribu:2
+1x Roger Farnsworth               4   OBF aus                           Malkavian antitribu:3
+1x Zöe                            3   AUS cel obf                       Malkavian:2
 
 Library (90 cards)
 Master (16)

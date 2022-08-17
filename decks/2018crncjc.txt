@@ -13,16 +13,16 @@ Deck Name: Emerald Dream
 This is a very Reaction heavy version of the Legionnaire archetype. Recommended
 if you expect aggressive meta with little combat.
 
-Crypt (12 cards, min=17, max=28, avg=5.75)
-------------------------------------------
-4x Erebus	   7   AUS FOR NEC dem	Harbinger of Skulls:3
-2x Neighbor John   5   AUS dom for	Ventrue antitribu:4
-1x Babalawo Alafin 7   AUS FOR NEC ani	Harbinger of Skulls:4
-1x Sennadurek	   6   AUS NEC dom	Nagaraja:4
-1x Zygodat	   6   AUS NEC pot	Harbinger of Skulls:4
-1x Solomon Batanea 5   AUS FOR nec	Harbinger of Skulls:4
-1x Maldavis	   4   AUS for pre	Caitiff:3
-1x Martin Franckel 3   AUS tha		Tremere:3
+Crypt (12 cards, min=17 max=28 avg=5.75)
+----------------------------------------
+4x Erebus          7   AUS FOR NEC dem  Harbinger of Skulls:3
+2x Neighbor John   5   AUS dom for      Ventrue antitribu:4
+1x Babalawo Alafin 7   AUS FOR NEC ani  Harbinger of Skulls:4
+1x Sennadurek      6   AUS NEC dom      Nagaraja:4
+1x Zygodat         6   AUS NEC pot      Harbinger of Skulls:4
+1x Solomon Batanea 5   AUS FOR nec      Harbinger of Skulls:4
+1x Maldavis        4   AUS for pre      Caitiff:3
+1x Martin Franckel 3   AUS tha          Tremere:3
 
 Library (90 cards)
 Master (18; 4 trifle)

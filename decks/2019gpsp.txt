@@ -12,14 +12,14 @@ Deck Name: Tariq Wall
 
 Deck based on the idea of Marcin Rumiński- our top polish player
 
-Crypt (12 cards, min=4, max=28, avg=4)
---------------------------------------
-4x Tariq, The Silent	7   AUS FOR OBF QUI cel	 Assamite:2
-4x Anarch Convert	1   -none-		 Caitiff:ANY
-1x Maldavis		4   AUS for pre		 Caitiff:3
-1x Maldavis (ADV)	4   AUS for pre		 Caitiff:3
-1x Miriam Benyona	5   AUS for obe		 Salubri:2
-1x Zöe			3   AUS cel obf		 Malkavian:2
+Crypt (12 cards, min=4 max=28 avg=4)
+------------------------------------
+4x Tariq, The Silent    7   AUS FOR OBF QUI cel  Assamite:2
+4x Anarch Convert       1   -none-               Caitiff:ANY
+1x Maldavis             4   AUS for pre          Caitiff:3
+1x Maldavis (ADV)       4   AUS for pre          Caitiff:3
+1x Miriam Benyona       5   AUS for obe          Salubri:2
+1x Zöe                  3   AUS cel obf          Malkavian:2
 
 Library (90 cards)
 Master (17; 5 trifle)

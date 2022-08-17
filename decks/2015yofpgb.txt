@@ -13,12 +13,12 @@ Created by: Malk - VEKN 618-0015
 
 Description: My version of an old classic!
 
-Crypt (12 cards, min=16, max=40, avg=7.25)
-------------------------------------------
-5x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	 Malkavian:3
-3x Greger Anderssen	7   AUS OBF dom pro	 prince	 Malkavian:2
-2x Victoria		5   AUS cel obf		 	 Malkavian:2
-2x Zöe			3   AUS cel obf		 	 Malkavian:2
+Crypt (12 cards, min=16 max=40 avg=7.25)
+----------------------------------------
+5x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince  Malkavian:3
+3x Greger Anderssen     7   AUS OBF dom pro      prince  Malkavian:2
+2x Victoria             5   AUS cel obf                  Malkavian:2
+2x Zöe                  3   AUS cel obf                  Malkavian:2
 
 Library (90 cards)
 Master (15; 4 trifle)

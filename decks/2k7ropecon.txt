@@ -10,13 +10,13 @@ Deck Name: Nocturne
 Lasombra plays with shadows to reign control of night.
 This is the deck I played at and win Ropecon in 2007.
 
-Crypt (12 cards, min=14, max=38, avg=6.83)
-------------------------------------------
-4x Saul Meira		  8   CHI DOM OBT POT	   	   Lasombra:5
-3x Appius Claudius Corvus 10  DOM OBT POT cel nec  	   Lasombra:5
-2x Leila Monroe		  4   dom obt pre	   	   Lasombra:4
-2x Lucy Markowitz	  3   dom obt		   	   Lasombra:4
-1x Virginie, Prodigy	  6   DOM POT obt	   bishop  Lasombra:4
+Crypt (12 cards, min=14 max=38 avg=6.83)
+----------------------------------------
+4x Saul Meira             8   CHI DOM OBT POT              Lasombra:5
+3x Appius Claudius Corvus 10  DOM OBT POT cel nec          Lasombra:5
+2x Leila Monroe           4   dom obt pre                  Lasombra:4
+2x Lucy Markowitz         3   dom obt                      Lasombra:4
+1x Virginie, Prodigy      6   DOM POT obt          bishop  Lasombra:4
 
 Library (90 cards)
 Master (22; 4 trifle)

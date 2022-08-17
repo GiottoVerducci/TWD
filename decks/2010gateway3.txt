@@ -10,14 +10,14 @@ Deck Name: Attack of the Tumnimos
 Description: Gabrin is your main and you build Tumnimos at superior
 hopfully add cell phones with Week of Nightmares.
 
-Crypt (12 cards, min=18, max=32, avg=6.17)
-------------------------------------------
-3x Gabrin		8   ANI CHI dom for	Ravnos:2
-2x Joaquina Amaya	6   ANI CHI FOR		Ravnos:2
-2x Vaclav Petalengro	6   ANI CHI for pot	Ravnos:2
-2x Khalil Ravana	5   CHI ani for pre	Ravnos:2
-2x Salbatore Bokkengro	4   CHI for pro		Ravnos:2
-1x Étienne Fauberge	8   ANI CEL CHI FOR	Ravnos:3
+Crypt (12 cards, min=18 max=32 avg=6.17)
+----------------------------------------
+3x Gabrin               8   ANI CHI dom for     Ravnos:2
+2x Joaquina Amaya       6   ANI CHI FOR         Ravnos:2
+2x Vaclav Petalengro    6   ANI CHI for pot     Ravnos:2
+2x Khalil Ravana        5   CHI ani for pre     Ravnos:2
+2x Salbatore Bokkengro  4   CHI for pro         Ravnos:2
+1x Étienne Fauberge     8   ANI CEL CHI FOR     Ravnos:3
 
 Library (90 cards)
 Master (24)

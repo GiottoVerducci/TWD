@@ -15,17 +15,17 @@ internet. I was rarely blocked or bounced, so without Mokole
 Bloods I probably would have jammed badly on stealth. Pentex
 in the opening hand saved me from a rush predator in the finals.
 
-Crypt (12 cards, min=25, max=40, avg=8.5)
------------------------------------------
-4x Nakhthorheb			 10  OBF PRE SER			 Follower of Set:4
-1x Cybele			 10  ANI DAI OBF PRE SER THA		 Baali:4
-1x Neferu			 9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
-1x Pentweret			 9   OBF PRE SER aus for obe		 Follower of Set:5
-1x Porphyrion			 9   CHI OBF PRE SER for		 Follower of Set:5
-1x Shemti			 9   OBF POT PRE SER vic	1 vote	 Follower of Set:5
-1x Sundervere, The Devil Brahmin 8   AUS PRE SER THA obf		 Follower of Set:4
-1x Ankh-sen-Sutekh		 6   PRE SER obf			 Follower of Set:4
-1x Belle Equitone		 2   ser				 Follower of Set:4
+Crypt (12 cards, min=25 max=40 avg=8.5)
+---------------------------------------
+4x Nakhthorheb                   10  OBF PRE SER                         Follower of Set:4
+1x Cybele                        10  ANI DAI OBF PRE SER THA             Baali:4
+1x Neferu                        9   OBF PRE SER THA dom nec    2 votes  Follower of Set:4
+1x Pentweret                     9   OBF PRE SER aus for obe             Follower of Set:5
+1x Porphyrion                    9   CHI OBF PRE SER for                 Follower of Set:5
+1x Shemti                        9   OBF POT PRE SER vic        1 vote   Follower of Set:5
+1x Sundervere, The Devil Brahmin 8   AUS PRE SER THA obf                 Follower of Set:4
+1x Ankh-sen-Sutekh               6   PRE SER obf                         Follower of Set:4
+1x Belle Equitone                2   ser                                 Follower of Set:4
 
 Library (75 cards)
 Master (23; 7 trifle)

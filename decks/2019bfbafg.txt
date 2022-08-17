@@ -20,14 +20,14 @@ tournament level in every single casual game. To the organisers, Sebastian
 Meurer (new Prince of Freiburg) and the owners of the awesome shop "Kainskind"
 (Childe of Caine).
 
-Crypt (12 cards, min=12, max=40, avg=6.92)
-------------------------------------------
-5x Erlik	   10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-2x Babalawo Alafin 7   AUS FOR NEC ani	    Harbinger of Skulls:4
-2x Anarch Convert  1   -none-		    Caitiff:ANY
-1x Erebus	   7   AUS FOR NEC dem	    Harbinger of Skulls:3
-1x Nicomedes	   5   aus for nec vic	    Harbinger of Skulls:4
-1x Solomon Batanea 5   AUS FOR nec	    Harbinger of Skulls:4
+Crypt (12 cards, min=12 max=40 avg=6.92)
+----------------------------------------
+5x Erlik           10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+2x Babalawo Alafin 7   AUS FOR NEC ani      Harbinger of Skulls:4
+2x Anarch Convert  1   -none-               Caitiff:ANY
+1x Erebus          7   AUS FOR NEC dem      Harbinger of Skulls:3
+1x Nicomedes       5   aus for nec vic      Harbinger of Skulls:4
+1x Solomon Batanea 5   AUS FOR nec          Harbinger of Skulls:4
 
 Library (90 cards)
 Master (20; 2 trifle)

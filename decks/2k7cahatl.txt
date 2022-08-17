@@ -13,19 +13,19 @@ Description: My old-standby never-take-apart-little-animalism-horde-deck minus
 war ghouls and retooled with Pack Alphas and Group 3/4 vampires. More Gangrel.
 I would remove the .44 and add another Raven, or a Wake or maybe a Zip Gun.
 
-Crypt (12 cards, min=10, max=20, avg=3.75)
-------------------------------------------
-2x Bobby Lemon		4   ANI pro			Gangrel:3
-1x Fish			5   ANI POT pre			Guruhi:4
-1x Lord Ashton		5   ANI for pro			Gangrel:3
-1x Petra		5   ANI OBF aus			Nosferatu:4
-1x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
-1x Jezebelle		4   ani for pro			Gangrel:4
-1x Bothwell		3   ani for			Gangrel:3
-1x Droescher One-Eye	3   ani vic			Tzimisce:4
-1x Stick		3   ANI				Nosferatu antitribu:4
-1x Mouse		2   ani				Nosferatu:3
-1x Zip			2   ani				Ravnos:3
+Crypt (12 cards, min=10 max=20 avg=3.75)
+----------------------------------------
+2x Bobby Lemon          4   ANI pro                     Gangrel:3
+1x Fish                 5   ANI POT pre                 Guruhi:4
+1x Lord Ashton          5   ANI for pro                 Gangrel:3
+1x Petra                5   ANI OBF aus                 Nosferatu:4
+1x Yuri Kerezenski      5   ANI aus for vic     bishop  Tzimisce:4
+1x Jezebelle            4   ani for pro                 Gangrel:4
+1x Bothwell             3   ani for                     Gangrel:3
+1x Droescher One-Eye    3   ani vic                     Tzimisce:4
+1x Stick                3   ANI                         Nosferatu antitribu:4
+1x Mouse                2   ani                         Nosferatu:3
+1x Zip                  2   ani                         Ravnos:3
 
 Library (90 cards)
 Master (13; 1 trifle)

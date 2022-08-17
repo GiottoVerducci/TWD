@@ -11,15 +11,15 @@ https://www.vekn.net/event-calendar/event/9775
 Deck Name: ——____—— aka The Hoody Gang #3
 Description: Again big thanks to all. I tend to build several version of decks I enjoy playing, so here is another of my Matasuntha decks. The deck is super slow so not a very wise decision in a 100+ people tourney, especially without Smiling Jack, Anarch Revolt, etc. The worst part is you rely on the table collapsing and taking what is left. The good part is you have decent defense, in terms of intercept and even combat. Ashur Tablets to retrieve cards, combat when you face hard hitters or wakes & intercept on a stealthy table. 8 Eagle's Sight should provide you some control of the table.
 
-Crypt (12 cards, min=4, max=36, avg=4.92)
------------------------------------------
-5x Anarch Convert 1   -none-		   Caitiff:ANY
-2x Matasuntha	  10  ANI AUS CEL FOR PRO  Gangrel:5
-1x Khurshid	  8   AUS FOR NEC POT	   Harbinger of Skulls:6
-1x Nuriel	  8   AUS FOR VAL cel dom  Salubri antitribu:6
-1x Alcoan	  7   AUS CEL NEC for	   Harbinger of Skulls:6
-1x Guggenheim	  6   AUS CEL PRE	   Toreador antitribu:5
-1x Titi Camara	  5   AUS CEL pot	   Osebo:5
+Crypt (12 cards, min=4 max=36 avg=4.92)
+---------------------------------------
+5x Anarch Convert 1   -none-               Caitiff:ANY
+2x Matasuntha     10  ANI AUS CEL FOR PRO  Gangrel:5
+1x Khurshid       8   AUS FOR NEC POT      Harbinger of Skulls:6
+1x Nuriel         8   AUS FOR VAL cel dom  Salubri antitribu:6
+1x Alcoan         7   AUS CEL NEC for      Harbinger of Skulls:6
+1x Guggenheim     6   AUS CEL PRE          Toreador antitribu:5
+1x Titi Camara    5   AUS CEL pot          Osebo:5
 
 Library (90 cards)
 Master (22; 5 trifle)

@@ -12,14 +12,14 @@ Rush everything that moves. Steal key minions from torpor
 like Lutz who can also use Glancing Blow + Disarm for surprise
 offence.
 
-Crypt (12 cards, min=4, max=14, avg=2.17)
------------------------------------------
-5x Tupdog			1   POT VIS	 Gargoyle:3
-2x Fidus, The Shrunken Beast	4   for tha vis	 Gargoyle:2
-2x Erinyi			3   pot vis	 Gargoyle:2
-1x Brooke			3   dom tha	 Tremere antitribu:2
-1x Saiz				3   aus dom	 Tremere antitribu:3
-1x Royce			1   dom		 Pander:2
+Crypt (12 cards, min=4 max=14 avg=2.17)
+---------------------------------------
+5x Tupdog                       1   POT VIS      Gargoyle:3
+2x Fidus, The Shrunken Beast    4   for tha vis  Gargoyle:2
+2x Erinyi                       3   pot vis      Gargoyle:2
+1x Brooke                       3   dom tha      Tremere antitribu:2
+1x Saiz                         3   aus dom      Tremere antitribu:3
+1x Royce                        1   dom          Pander:2
 
 Library (72 cards)
 Master (12; 4 trifle)

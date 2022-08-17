@@ -6,18 +6,18 @@ Demetrios Papadatos
 
 Deck Name: PETRA'S BROOD
 
-Crypt (12 cards, min=11, max=24, avg=4.42)
-------------------------------------------
-2x Petra			5   ANI OBF aus			  Nosferatu:4
-2x Clarissa Steinburgen		3   ani obf			  Nosferatu:3
-1x Jara Drory			7   ANI OBF aus pot	primogen  Nosferatu:3
-1x Alonzo Guillen		6   OBF ani for pot		  Nosferatu:3
-1x Sundown			6   ANI POT obf pre		  Nosferatu:3
-1x Amelia, The Blood Red Tears	5   POT ani obf			  Nosferatu:3
-1x Gemini			5   OBF ani obt pot		  Nosferatu:3
-1x Darva Felispa		3   ani pot			  Nosferatu:3
-1x Stick			3   ANI				  Nosferatu antitribu:4
-1x Mouse			2   ani				  Nosferatu:3
+Crypt (12 cards, min=11 max=24 avg=4.42)
+----------------------------------------
+2x Petra                        5   ANI OBF aus                   Nosferatu:4
+2x Clarissa Steinburgen         3   ani obf                       Nosferatu:3
+1x Jara Drory                   7   ANI OBF aus pot     primogen  Nosferatu:3
+1x Alonzo Guillen               6   OBF ani for pot               Nosferatu:3
+1x Sundown                      6   ANI POT obf pre               Nosferatu:3
+1x Amelia, The Blood Red Tears  5   POT ani obf                   Nosferatu:3
+1x Gemini                       5   OBF ani obt pot               Nosferatu:3
+1x Darva Felispa                3   ani pot                       Nosferatu:3
+1x Stick                        3   ANI                           Nosferatu antitribu:4
+1x Mouse                        2   ani                           Nosferatu:3
 
 Library (90 cards)
 Master (21; 5 trifle)

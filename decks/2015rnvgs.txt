@@ -4,16 +4,16 @@ November 14th 2015
 14 players
 Josu Guinea
 
-Crypt (12 cards, min=10, max=27, avg=4.92)
-------------------------------------------
-3x Lord Vauxhall	    7	DOM OBT POT THA	 Lasombra:4
-2x Black Wallace	    6	DOM POT obt tha	 Lasombra:4
-2x Anarch Convert	    1	-none-		 Caitiff:ANY
-1x Onaedo		    6	DOM OBT aus pot	 Lasombra:4
-1x Banjoko		    5	DOM obt pot	 Lasombra:3
-1x Dr. Julius Sutphen (ADV) 5	POT dom obt	 Lasombra:3
-1x Ermenegildo, The Rake    5	DOM OBT pot	 Lasombra:4
-1x Lucy Markowitz	    3	dom obt		 Lasombra:4
+Crypt (12 cards, min=10 max=27 avg=4.92)
+----------------------------------------
+3x Lord Vauxhall            7   DOM OBT POT THA  Lasombra:4
+2x Black Wallace            6   DOM POT obt tha  Lasombra:4
+2x Anarch Convert           1   -none-           Caitiff:ANY
+1x Onaedo                   6   DOM OBT aus pot  Lasombra:4
+1x Banjoko                  5   DOM obt pot      Lasombra:3
+1x Dr. Julius Sutphen (ADV) 5   POT dom obt      Lasombra:3
+1x Ermenegildo, The Rake    5   DOM OBT pot      Lasombra:4
+1x Lucy Markowitz           3   dom obt          Lasombra:4
 
 Library (65 cards)
 Master (9)

@@ -16,19 +16,19 @@ business. There's just enough rush to keep players wary of you, but
 count on having to spend at least three turns doing nothing while
 bloating.
 
-Crypt (12 cards, min=24, max=40, avg=8.25)
-------------------------------------------
-2x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
-1x Helena			10  AUS CEL DOM obf pre tha		  Toreador:3
-1x Jaroslav Pascek		10  CEL POT PRE for obf		justicar  Brujah:3
-1x Casino Reeds			9   ANI OBF POT cel dem		prince	  Nosferatu:3
-1x Joaquin Murietta		9   AUS CEL obf pre qui			  Toreador:3
-1x Klaus van der Veken		9   CEL PRE aus obf tha		prince	  Toreador:2
-1x Fatima al-Faqadi		8   CEL OBF QUI aus for			  Assamite:2
-1x Suzanne Kadim		7   CEL PRE aus dom obf			  Toreador:3
-1x Antoinette, She Who Watches	6   AUS PRE cel obf		primogen  Toreador:3
-1x Ruth McGinley		6   DEM aus cel obf		primogen  Malkavian:3
-1x Calebros, The Martyr		5   ANI obf pot			prince	  Nosferatu:2
+Crypt (12 cards, min=24 max=40 avg=8.25)
+----------------------------------------
+2x François Villon              10  AUS CEL PRE chi obf pot     prince    Toreador:2
+1x Helena                       10  AUS CEL DOM obf pre tha               Toreador:3
+1x Jaroslav Pascek              10  CEL POT PRE for obf         justicar  Brujah:3
+1x Casino Reeds                 9   ANI OBF POT cel dem         prince    Nosferatu:3
+1x Joaquin Murietta             9   AUS CEL obf pre qui                   Toreador:3
+1x Klaus van der Veken          9   CEL PRE aus obf tha         prince    Toreador:2
+1x Fatima al-Faqadi             8   CEL OBF QUI aus for                   Assamite:2
+1x Suzanne Kadim                7   CEL PRE aus dom obf                   Toreador:3
+1x Antoinette, She Who Watches  6   AUS PRE cel obf             primogen  Toreador:3
+1x Ruth McGinley                6   DEM aus cel obf             primogen  Malkavian:3
+1x Calebros, The Martyr         5   ANI obf pot                 prince    Nosferatu:2
 
 Library (90 cards)
 Master (23)

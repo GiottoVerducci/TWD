@@ -59,13 +59,13 @@ Loss. On top of it, you get to flush an unwanted card (say, extra
 Information Highways or Gehenna Events) out of your hand. If I were
 to play it again, I'd swap a Seraph's Second for a fifth Art of Memory.
 
-Crypt (12 cards, min=26, max=36, avg=7.83)
-------------------------------------------
-4x Izhim abd Azrael		9   CEL OBF QUI THA pot	 Assamite:5
-3x Djuhah, The Bronze Bow	7   OBF QUI aus cel pre	 Assamite:5
-2x Nizzam al-Latif		9   ANI CEL OBF QUI dem	 Assamite:5
-2x Reza Fatir, The Dark Angel	6   CEL QUI obf pro	 Assamite:4
-1x Joe "Boot" Hill		7   CEL QUI for obf	 Assamite:4
+Crypt (12 cards, min=26 max=36 avg=7.83)
+----------------------------------------
+4x Izhim abd Azrael             9   CEL OBF QUI THA pot  Assamite:5
+3x Djuhah, The Bronze Bow       7   OBF QUI aus cel pre  Assamite:5
+2x Nizzam al-Latif              9   ANI CEL OBF QUI dem  Assamite:5
+2x Reza Fatir, The Dark Angel   6   CEL QUI obf pro      Assamite:4
+1x Joe "Boot" Hill              7   CEL QUI for obf      Assamite:4
 
 Library (78 cards)
 Master (21; 6 trifle)

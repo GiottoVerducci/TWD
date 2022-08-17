@@ -10,18 +10,18 @@ Deck name; Dorkaa ja karmeeta
 the deck was made for the local "bash nights" in Pori, and was cut 20
 combat cards or so before arriving to Tampere.
 
-Crypt (12 cards, min=19, max=41, avg=7.42)
-------------------------------------------
-3x Enkidu, The Noah		11  ANI CEL OBF POT PRO for	Gangrel antitribu:4
-1x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre		Ventrue antitribu:3
-1x Titus Camille		8   AUS DOM OBF for		Ventrue antitribu:4
-1x Blackhorse Tanner		7   AUS DOM FOR			Ventrue antitribu:3
-1x Edward Neally		7   DOM FOR aus pre		Ventrue antitribu:3
-1x Joseph O'Grady		7   DOM FOR aus cel		Ventrue antitribu:3
-1x Jephta Hester		5   DOM FOR aus			Ventrue antitribu:4
-1x Louis de Maisonneuve		5   FOR aus dom obf		Ventrue antitribu:4
-1x Neighbor John		5   AUS dom for			Ventrue antitribu:4
-1x Katherine Stoddard		4   dom for			Ventrue antitribu:3
+Crypt (12 cards, min=19 max=41 avg=7.42)
+----------------------------------------
+3x Enkidu, The Noah             11  ANI CEL OBF POT PRO for     Gangrel antitribu:4
+1x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre         Ventrue antitribu:3
+1x Titus Camille                8   AUS DOM OBF for             Ventrue antitribu:4
+1x Blackhorse Tanner            7   AUS DOM FOR                 Ventrue antitribu:3
+1x Edward Neally                7   DOM FOR aus pre             Ventrue antitribu:3
+1x Joseph O'Grady               7   DOM FOR aus cel             Ventrue antitribu:3
+1x Jephta Hester                5   DOM FOR aus                 Ventrue antitribu:4
+1x Louis de Maisonneuve         5   FOR aus dom obf             Ventrue antitribu:4
+1x Neighbor John                5   AUS dom for                 Ventrue antitribu:4
+1x Katherine Stoddard           4   dom for                     Ventrue antitribu:3
 
 Library (90 cards)
 Master (17; 8 trifle)

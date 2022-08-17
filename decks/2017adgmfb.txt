@@ -13,15 +13,15 @@ Created by: Márcio "O Feio"
 
 Description: Deck dedicado a destruíção dos anarquistas influenciados pelo Lord Torres.
 
-Crypt (13 cards, min=29, max=38, avg=8.46)
-------------------------------------------
-5x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
-2x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
-2x Count Germaine  8   CEL FOR POT PRE obf  		Brujah:4
-1x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
-1x Themistocles	   8   AUS CEL FOR POT pre  		Brujah:5
-1x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
-1x Tara		   6   POT PRE cel	    prince	Brujah:5
+Crypt (13 cards, min=29 max=38 avg=8.46)
+----------------------------------------
+5x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar    Brujah:5
+2x Jann Berger     10  CEL POT PRE dem for  prince      Brujah:4
+2x Count Germaine  8   CEL FOR POT PRE obf              Brujah:4
+1x Carlak          8   CEL PRE dom pot      prince      Brujah:5
+1x Themistocles    8   AUS CEL FOR POT pre              Brujah:5
+1x Karen Suadela   7   CEL POT obf pre      prince      Brujah:5
+1x Tara            6   POT PRE cel          prince      Brujah:5
 
 Library (89 cards)
 Master (18; 6 trifle)

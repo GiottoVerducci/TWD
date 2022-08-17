@@ -17,17 +17,17 @@ key is to use Magic of the Smith to bring out the Heart as
 early in the game as possible. From there you have most tables
 covered.
 
-Crypt (12 cards, min=18, max=28, avg=5.92)
-------------------------------------------
-3x Carna, The Princess Witch	7   AUS DOM THA		primogen    Tremere:3
-2x Selena			6   AUS DOM THA			    Tremere antitribu:3
-1x Ladislas Toth, The Torch	7   AUS DOM THA for	archbishop  Tremere antitribu:3
-1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		    Tremere:2
-1x Reverend Blackwood		6   DOM THA obf		bishop	    Tremere antitribu:2
-1x Aisling Sturbridge		5   AUS THA dom			    Tremere:2
-1x Cohn Rose			5   THA aus dom pre		    Tremere:3
-1x Hannigan			5   AUS THA dom			    Tremere antitribu:2
-1x Blythe Candeleria		3   THA aus			    Tremere:2
+Crypt (12 cards, min=18 max=28 avg=5.92)
+----------------------------------------
+3x Carna, The Princess Witch    7   AUS DOM THA         primogen    Tremere:3
+2x Selena                       6   AUS DOM THA                     Tremere antitribu:3
+1x Ladislas Toth, The Torch     7   AUS DOM THA for     archbishop  Tremere antitribu:3
+1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                 Tremere:2
+1x Reverend Blackwood           6   DOM THA obf         bishop      Tremere antitribu:2
+1x Aisling Sturbridge           5   AUS THA dom                     Tremere:2
+1x Cohn Rose                    5   THA aus dom pre                 Tremere:3
+1x Hannigan                     5   AUS THA dom                     Tremere antitribu:2
+1x Blythe Candeleria            3   THA aus                         Tremere:2
 
 Library (90 cards)
 Master (13; 2 trifle)

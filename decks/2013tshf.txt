@@ -11,18 +11,18 @@ Deck Name: The Tremere War Chantry
 
 Description: The Tremere War Chantry; New York (after succesfull Sabbath siege)
 
-Crypt (12 cards, min=10, max=24, avg=4.17)
-------------------------------------------
-2x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	Tremere:2
-2x Aisling Sturbridge		5   AUS THA dom		Tremere:2
-1x Merrill Molitor		5   THA aus dom		Tremere:1
-1x Ignatius			4   aus dom tha		Tremere:1
-1x Sarah Cobbler		4   THA dom		Tremere:1
-1x Blythe Candeleria		3   THA aus		Tremere:2
-1x Dr. John Casey		3   aus tha		Tremere:1
-1x Jing Wei			3   dom tha		Tremere:1
-1x Mustafa Rahman		2   dom			Tremere:2
-1x Roreca Quaid			2   tha			Tremere:1
+Crypt (12 cards, min=10 max=24 avg=4.17)
+----------------------------------------
+2x Muaziz, Archon of Ulugh Beg  7   THA aus dom for     Tremere:2
+2x Aisling Sturbridge           5   AUS THA dom         Tremere:2
+1x Merrill Molitor              5   THA aus dom         Tremere:1
+1x Ignatius                     4   aus dom tha         Tremere:1
+1x Sarah Cobbler                4   THA dom             Tremere:1
+1x Blythe Candeleria            3   THA aus             Tremere:2
+1x Dr. John Casey               3   aus tha             Tremere:1
+1x Jing Wei                     3   dom tha             Tremere:1
+1x Mustafa Rahman               2   dom                 Tremere:2
+1x Roreca Quaid                 2   tha                 Tremere:1
 
 Library (90 cards)
 Master (20)

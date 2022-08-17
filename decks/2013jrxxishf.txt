@@ -9,14 +9,14 @@ Deck Name: Sabbat Politics feat. Kisha Bhimji
 
 Description: The big guys vote and bloat. Bleed defence is outsourced to Africa, with two cheap votes on the side.
 
-Crypt (12 cards, min=20, max=39, avg=7.5)
------------------------------------------
-4x Kisha Bhimji		5   AUS cel obf pot		magaji	    Osebo:3
-2x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-2x Marcel de Breau	9   CEL POT PRE ani pro		archbishop  Brujah antitribu:3
-2x Klaus Konrecht	8   AUS CEL PRE for pot		cardinal    Toreador antitribu:4
-1x Melinda Galbraith	10  AUS CEL DOM POT PRE obt	cardinal    Lasombra:4
-1x Shawnda Dorrit	6   CEL obt pot pre		priscus	    Brujah antitribu:4
+Crypt (12 cards, min=20 max=39 avg=7.5)
+---------------------------------------
+4x Kisha Bhimji         5   AUS cel obf pot             magaji      Osebo:3
+2x Armin Brenner        10  CEL FOR POT PRE ani obf     archbishop  Brujah antitribu:4
+2x Marcel de Breau      9   CEL POT PRE ani pro         archbishop  Brujah antitribu:3
+2x Klaus Konrecht       8   AUS CEL PRE for pot         cardinal    Toreador antitribu:4
+1x Melinda Galbraith    10  AUS CEL DOM POT PRE obt     cardinal    Lasombra:4
+1x Shawnda Dorrit       6   CEL obt pot pre             priscus     Brujah antitribu:4
 
 Library (88 cards)
 Master (21; 5 trifle)

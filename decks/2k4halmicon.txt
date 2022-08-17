@@ -8,15 +8,15 @@ Deck Name: Crusher!
 
 Description: Crush...
 
-Crypt (12 cards, min=20, max=33, avg=6.75)
-------------------------------------------
-2x Crusher				 9   CEL POT PRE for	primogen  Brujah:1
-2x Blaise				 7   ANI CEL obf vic		  Gangrel antitribu:2
-2x Richter, The Templar of Du Mont	 7   CEL POT for pre		  Brujah antitribu:2
-2x Bianca				 6   CEL pot pre		  Brujah:1
-2x Parmenides				 4   CEL qui			  Assamite:2
-1x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	  Toreador antitribu:2
-1x Parnassus				 7   CEL QUI aus tha		  Assamite:2
+Crypt (12 cards, min=20 max=33 avg=6.75)
+----------------------------------------
+2x Crusher                               9   CEL POT PRE for    primogen  Brujah:1
+2x Blaise                                7   ANI CEL obf vic              Gangrel antitribu:2
+2x Richter, The Templar of Du Mont       7   CEL POT for pre              Brujah antitribu:2
+2x Bianca                                6   CEL pot pre                  Brujah:1
+2x Parmenides                            4   CEL qui                      Assamite:2
+1x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro    bishop    Toreador antitribu:2
+1x Parnassus                             7   CEL QUI aus tha              Assamite:2
 
 Library (88 cards)
 Master (19)

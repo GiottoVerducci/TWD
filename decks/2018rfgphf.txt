@@ -26,13 +26,13 @@ shields so..
 
 And finally, thanks to Tuukka for borrowing some cards for me!:D Go V:tES!!
 
-Crypt (12 cards, min=4, max=40, avg=6.17)
------------------------------------------
-4x Goratrix		10  ANI AUS DOM THA vic	 	   Tremere antitribu:2
-4x Anarch Convert	1   -none-		 	   Caitiff:ANY
-2x Omaya		7   ANI AUS FOR pro	 	   Gangrel antitribu:2
-1x Anastasz di Zagreb	8   AUS THA ani cel dom	 justicar  Tremere:3
-1x Anton		8   ANI AUS cel obf vic	 	   Tzimisce:2
+Crypt (12 cards, min=4 max=40 avg=6.17)
+---------------------------------------
+4x Goratrix             10  ANI AUS DOM THA vic            Tremere antitribu:2
+4x Anarch Convert       1   -none-                         Caitiff:ANY
+2x Omaya                7   ANI AUS FOR pro                Gangrel antitribu:2
+1x Anastasz di Zagreb   8   AUS THA ani cel dom  justicar  Tremere:3
+1x Anton                8   ANI AUS cel obf vic            Tzimisce:2
 
 Library (88 cards)
 Master (20; 5 trifle)

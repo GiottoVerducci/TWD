@@ -8,11 +8,11 @@ Cameron Domer
 Arika's Alastors
 by Cameron Domer - orcaorcinus@hotmail.com
 
-Crypt (12 cards, min=22, max=44, avg=9)
----------------------------------------
-6x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-4x Jaroslav Pascek 10  CEL POT PRE for obf	justicar	Brujah:3
-2x Sandra White	   1   -none-					Caitiff:3
+Crypt (12 cards, min=22 max=44 avg=9)
+-------------------------------------
+6x Arika           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+4x Jaroslav Pascek 10  CEL POT PRE for obf      justicar        Brujah:3
+2x Sandra White    1   -none-                                   Caitiff:3
 
 Library (90 cards)
 Master (20)

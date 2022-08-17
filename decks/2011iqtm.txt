@@ -9,13 +9,13 @@ Deck Name: Il Glorioso Piano Quinquennale
 
 Description: bleeding blood brothers with protean
 
-Crypt (12 cards, min=16, max=16, avg=4)
----------------------------------------
-3x Kyrylo  4   SAN for	    Blood Brother:5
-3x Pavlo   4   SAN pro	    Blood Brother:5
+Crypt (12 cards, min=16 max=16 avg=4)
+-------------------------------------
+3x Kyrylo  4   SAN for      Blood Brother:5
+3x Pavlo   4   SAN pro      Blood Brother:5
 2x Danylo  4   for pro san  Blood Brother:5
 2x Gavrylo 4   pot pro san  Blood Brother:5
-2x Volo	   4   POT pro san  Blood Brother:5
+2x Volo    4   POT pro san  Blood Brother:5
 
 Library (90 cards)
 Master (16; 2 trifle)

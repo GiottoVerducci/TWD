@@ -10,27 +10,27 @@ https://www.vekn.net/event-calendar/event/7547
 
 Deck Name: Methuselah
 
-Crypt (23 cards, min=4, max=36, avg=3.48)
------------------------------------------
-4x Nana Buruku		   8   ANI POT PRE		Guruhi:4
-2x Cybele		   10  ANI DAI OBF PRE SER THA	Baali:4
-1x Almiro Suarez	   2   aus			Tremere:3
-1x Arnold Simpson	   2   pot			Brujah:3
-1x Bloodfeud		   2   obf			Malkavian antitribu:4
-1x Clifton Derrik	   2   cel			Brujah:4
-1x Emerson Wilkershire III 2   pre			Toreador:3
-1x Jesús Alcalá		   2   cel			Gangrel antitribu:3
-1x Justine Chen, Innocent  2   pre			Toreador antitribu:4
-1x Krid			   2   obf			Nosferatu:3
-1x Misrak		   2   pot			Osebo:4
-1x Mouse		   2   ani			Nosferatu:3
-1x Old Neddacka		   2   obf			Nosferatu antitribu:4
-1x Basir		   1   qui			Assamite:4
-1x Feo Ramos		   1   aus			Pander:3
-1x Lisa Noble		   1   ani			Caitiff:3
-1x Margarite		   1   obt			Pander:4
-1x Nedal, The Careless	   1   cel nec			Caitiff:3
-1x Olga Triminov	   1   vic			Pander:3
+Crypt (23 cards, min=4 max=36 avg=3.48)
+---------------------------------------
+4x Nana Buruku             8   ANI POT PRE              Guruhi:4
+2x Cybele                  10  ANI DAI OBF PRE SER THA  Baali:4
+1x Almiro Suarez           2   aus                      Tremere:3
+1x Arnold Simpson          2   pot                      Brujah:3
+1x Bloodfeud               2   obf                      Malkavian antitribu:4
+1x Clifton Derrik          2   cel                      Brujah:4
+1x Emerson Wilkershire III 2   pre                      Toreador:3
+1x Jesús Alcalá            2   cel                      Gangrel antitribu:3
+1x Justine Chen, Innocent  2   pre                      Toreador antitribu:4
+1x Krid                    2   obf                      Nosferatu:3
+1x Misrak                  2   pot                      Osebo:4
+1x Mouse                   2   ani                      Nosferatu:3
+1x Old Neddacka            2   obf                      Nosferatu antitribu:4
+1x Basir                   1   qui                      Assamite:4
+1x Feo Ramos               1   aus                      Pander:3
+1x Lisa Noble              1   ani                      Caitiff:3
+1x Margarite               1   obt                      Pander:4
+1x Nedal, The Careless     1   cel nec                  Caitiff:3
+1x Olga Triminov           1   vic                      Pander:3
 
 Library (90 cards)
 Master (76; 5 trifle)

@@ -20,9 +20,9 @@ Combo-breed-bleed.
 
 Deadly, and hard to play.
 
-Crypt (18 cards, min=32, max=32, avg=8)
----------------------------------------
-13x Lucita	 8    DOM FOR OBT cel pot  Lasombra:2
+Crypt (18 cards, min=32 max=32 avg=8)
+-------------------------------------
+13x Lucita       8    DOM FOR OBT cel pot  Lasombra:2
 5x  Lucita (ADV) 8    DOM FOR OBT cel pot  Lasombra:2
 
 Library (90 cards)

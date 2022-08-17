@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/8249
 
 Deck Name: Anarch Wins
 
-Crypt (15 cards, min=4, max=34, avg=5.67)
------------------------------------------
-4x Nana Buruku		   8   ANI POT PRE			    Guruhi:4
-4x Anarch Convert	   1   -none-				    Caitiff:ANY
-1x Cybele		   10  ANI DAI OBF PRE SER THA		    Baali:4
-1x Lukas		   8   ANI OBF POT pre ser	archbishop  Nosferatu antitribu:4
-1x Mateusz Gryzbowsky	   8   ANI OBF POT			    Nosferatu antitribu:3
-1x Greensleeves		   7   ANI OBF for pot		priscus	    Nosferatu antitribu:4
-1x Teresita, The Godmother 7   ANI OBF POT for			    Nosferatu antitribu:3
-1x Janey Pickman	   6   ANI PRO for			    Gangrel antitribu:4
-1x Stick		   3   ANI				    Nosferatu antitribu:4
+Crypt (15 cards, min=4 max=34 avg=5.67)
+---------------------------------------
+4x Nana Buruku             8   ANI POT PRE                          Guruhi:4
+4x Anarch Convert          1   -none-                               Caitiff:ANY
+1x Cybele                  10  ANI DAI OBF PRE SER THA              Baali:4
+1x Lukas                   8   ANI OBF POT pre ser      archbishop  Nosferatu antitribu:4
+1x Mateusz Gryzbowsky      8   ANI OBF POT                          Nosferatu antitribu:3
+1x Greensleeves            7   ANI OBF for pot          priscus     Nosferatu antitribu:4
+1x Teresita, The Godmother 7   ANI OBF POT for                      Nosferatu antitribu:3
+1x Janey Pickman           6   ANI PRO for                          Gangrel antitribu:4
+1x Stick                   3   ANI                                  Nosferatu antitribu:4
 
 Library (90 cards)
 Master (34; 4 trifle)

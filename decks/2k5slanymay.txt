@@ -9,20 +9,20 @@ Deck Name: Legacy of Pander (Evil Pander Deck ;-))
 
 Inspiration: http://www.veknfrance.com/decks/twd.htm#2k5glq
 
-Crypt (12 cards, min=4, max=12, avg=1.75)
------------------------------------------
-1x Jimmy Dunn		    4	CEL POT for	Pander:2
-1x Lena Rowe		    3	aus obf pre	Pander:2
-1x Rex, The Necronomist	    3	pot pro vic	Pander:2
-1x Christine Boscacci	    2	dom vic		Pander:2
-1x Mitchell, The Headhunter 2	obt pot		Pander:2
-1x Angela Decker	    1	pre		Pander:2
-1x Basil		    1	obf		Pander:2
-1x Feo Ramos		    1	aus		Pander:3
-1x Huang, Blood Cultist	    1	pro		Pander:2
-1x March Halcyon	    1	for		Pander:2
-1x Olga Triminov	    1	vic		Pander:3
-1x Royce		    1	dom		Pander:2
+Crypt (12 cards, min=4 max=12 avg=1.75)
+---------------------------------------
+1x Jimmy Dunn               4   CEL POT for     Pander:2
+1x Lena Rowe                3   aus obf pre     Pander:2
+1x Rex, The Necronomist     3   pot pro vic     Pander:2
+1x Christine Boscacci       2   dom vic         Pander:2
+1x Mitchell, The Headhunter 2   obt pot         Pander:2
+1x Angela Decker            1   pre             Pander:2
+1x Basil                    1   obf             Pander:2
+1x Feo Ramos                1   aus             Pander:3
+1x Huang, Blood Cultist     1   pro             Pander:2
+1x March Halcyon            1   for             Pander:2
+1x Olga Triminov            1   vic             Pander:3
+1x Royce                    1   dom             Pander:2
 
 Library (60 cards)
 Master (10)

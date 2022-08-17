@@ -9,16 +9,16 @@ David Lusven
 
 Deck Name: Pokemon Rock Cats
 
-Crypt (12 cards, min=4, max=12, avg=1.92)
------------------------------------------
-5x Tupdog		1   POT VIS	Gargoyle:3
-1x Ehrich Weiss		3   dom tha	Tremere:3
-1x Ember Wright		3   aus dom	Tremere antitribu:3
-1x Lectora		3   aus tha	Tremere antitribu:4
-1x Masika St. John	3   THA		Tremere:3
-1x Almiro Suarez	2   aus		Tremere:3
-1x Ezra Hawthorne	2   tha		Tremere:4
-1x Jacob, The Glitch	2   THA		Tremere antitribu:3
+Crypt (12 cards, min=4 max=12 avg=1.92)
+---------------------------------------
+5x Tupdog               1   POT VIS     Gargoyle:3
+1x Ehrich Weiss         3   dom tha     Tremere:3
+1x Ember Wright         3   aus dom     Tremere antitribu:3
+1x Lectora              3   aus tha     Tremere antitribu:4
+1x Masika St. John      3   THA         Tremere:3
+1x Almiro Suarez        2   aus         Tremere:3
+1x Ezra Hawthorne       2   tha         Tremere:4
+1x Jacob, The Glitch    2   THA         Tremere antitribu:3
 
 Library (90 cards)
 Master (15)

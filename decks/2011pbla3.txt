@@ -5,18 +5,18 @@ May 29th 2011
 12 players
 Jeff Poole
 
-Crypt (12 cards, min=15, max=24, avg=4.92)
-------------------------------------------
-2x Batsheva	 6   ANI PRE obt pot	Guruhi:4
-2x Gentha Shale	 6   ANI PRE pot spi	Ahrimane:4
-1x Sundown	 6   ANI POT obf pre	Nosferatu:3
-1x Fish		 5   ANI POT pre	Guruhi:4
-1x Fode Kourouma 5   POT ani aus pre	Guruhi:4
-1x Devyn	 4   ani chi pre	Ravnos:4
-1x Lumumba	 4   PRE ani		Guruhi:4
-1x Urenna Bunu	 4   ani pot pre	Guruhi:4
-1x Zhara	 4   ani for pre	Ishtarri:3
-1x Stick	 3   ANI		Nosferatu antitribu:4
+Crypt (12 cards, min=15 max=24 avg=4.92)
+----------------------------------------
+2x Batsheva      6   ANI PRE obt pot    Guruhi:4
+2x Gentha Shale  6   ANI PRE pot spi    Ahrimane:4
+1x Sundown       6   ANI POT obf pre    Nosferatu:3
+1x Fish          5   ANI POT pre        Guruhi:4
+1x Fode Kourouma 5   POT ani aus pre    Guruhi:4
+1x Devyn         4   ani chi pre        Ravnos:4
+1x Lumumba       4   PRE ani            Guruhi:4
+1x Urenna Bunu   4   ani pot pre        Guruhi:4
+1x Zhara         4   ani for pre        Ishtarri:3
+1x Stick         3   ANI                Nosferatu antitribu:4
 
 Library (88 cards)
 Master (12; 3 trifle)

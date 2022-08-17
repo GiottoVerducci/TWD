@@ -6,11 +6,11 @@ July 30th 2017
 Matías Tugores
 https://www.vekn.net/event-calendar/event/8720
 
-Crypt (12 cards, min=36, max=44, avg=10.17)
--------------------------------------------
-5x Malgorzata	    9	AUS DOM THA VIC pre	 priscus	Tremere antitribu:4
-4x Lord Tremere	    11	ANI AUS DOM THA VIC obe	 		Tremere:5
-3x Mistress Fanchon 11	AUS CEL DOM OBF THA VIC	 inner circle	Tremere:4
+Crypt (12 cards, min=36 max=44 avg=10.17)
+-----------------------------------------
+5x Malgorzata       9   AUS DOM THA VIC pre      priscus        Tremere antitribu:4
+4x Lord Tremere     11  ANI AUS DOM THA VIC obe                 Tremere:5
+3x Mistress Fanchon 11  AUS CEL DOM OBF THA VIC  inner circle   Tremere:4
 
 Library (76 cards)
 Master (17; 8 trifle)

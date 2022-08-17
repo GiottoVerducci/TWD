@@ -26,17 +26,17 @@ any one vampire in particular. Rather it focuses on getting as many
 vampires out as possible, starting out rather slowly to create a wall
 of Faerie mischief late in the game.
 
-Crypt (12 cards, min=17, max=34, avg=6.25)
-------------------------------------------
-2x Marconius			9   DOM MYT OBT pot	 archbishop	Kiasyd:2
-2x Bartholomew			8   AUS MYT NEC dom obt	 		Kiasyd:2
-2x Quincy, The Trapper		4   dom myt obt		 		Kiasyd:3
-1x Julia Prima			7   DOM OBT aus myt	 		Kiasyd:2
-1x Kassiym Malikhair		6   MYT OBT dom for	 		Kiasyd:2
-1x Talley, The Hound		6   OBT POT aus dom	 		Lasombra:2
-1x Béatrice L'Angou		5   MYT aus dom nec	 		Kiasyd:2
-1x Guido Lucciano		5   OBT dom obf		 		Lasombra:2
-1x Ignacio, The Black Priest	4   dom obt pot		 		Lasombra:2
+Crypt (12 cards, min=17 max=34 avg=6.25)
+----------------------------------------
+2x Marconius                    9   DOM MYT OBT pot      archbishop     Kiasyd:2
+2x Bartholomew                  8   AUS MYT NEC dom obt                 Kiasyd:2
+2x Quincy, The Trapper          4   dom myt obt                         Kiasyd:3
+1x Julia Prima                  7   DOM OBT aus myt                     Kiasyd:2
+1x Kassiym Malikhair            6   MYT OBT dom for                     Kiasyd:2
+1x Talley, The Hound            6   OBT POT aus dom                     Lasombra:2
+1x Béatrice L'Angou             5   MYT aus dom nec                     Kiasyd:2
+1x Guido Lucciano               5   OBT dom obf                         Lasombra:2
+1x Ignacio, The Black Priest    4   dom obt pot                         Lasombra:2
 
 Library (81 cards)
 Master (12)

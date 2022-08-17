@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/9810
 
 Deck Name: Legionário é na cadeia
 
-Crypt (12 cards, min=26, max=38, avg=8)
----------------------------------------
-3x Khurshid		8   AUS FOR NEC POT		Harbinger of Skulls:6
-2x Byzar		10  AUS FOR NEC OBF dom pre	Harbinger of Skulls:6
-2x Angelique		9   AUS FOR NEC SER THA		Harbinger of Skulls:6
-2x Mordechai Ben-Nun	8   ANI AUS FOR NEC		Harbinger of Skulls:5
-2x Hecate		6   AUS FOR NEC			Harbinger of Skulls:5
-1x La Viuda Blanca	6   AUS NEC for obf		Harbinger of Skulls:6
+Crypt (12 cards, min=26 max=38 avg=8)
+-------------------------------------
+3x Khurshid             8   AUS FOR NEC POT             Harbinger of Skulls:6
+2x Byzar                10  AUS FOR NEC OBF dom pre     Harbinger of Skulls:6
+2x Angelique            9   AUS FOR NEC SER THA         Harbinger of Skulls:6
+2x Mordechai Ben-Nun    8   ANI AUS FOR NEC             Harbinger of Skulls:5
+2x Hecate               6   AUS FOR NEC                 Harbinger of Skulls:5
+1x La Viuda Blanca      6   AUS NEC for obf             Harbinger of Skulls:6
 
 Library (75 cards)
 Master (13; 2 trifle)

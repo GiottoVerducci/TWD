@@ -5,14 +5,14 @@ Sten Düring
 
 Deck Name: Firepower
 
-Crypt (12 cards, min=18, max=39, avg=7.58)
-------------------------------------------
-3x François Villon	10  AUS CEL PRE chi obf pot	prince	Toreador:2
-3x Klaus van der Veken	9   CEL PRE aus obf tha		prince	Toreador:2
-3x Anson		8   CEL PRE aus dom		prince	Toreador:1
-1x Dorian Strack	4   AUS cel				Toreador:1
-1x Colin Flynn		3   aus cel				Toreador:1
-1x Isabel de Leon	3   AUS					Toreador:2
+Crypt (12 cards, min=18 max=39 avg=7.58)
+----------------------------------------
+3x François Villon      10  AUS CEL PRE chi obf pot     prince  Toreador:2
+3x Klaus van der Veken  9   CEL PRE aus obf tha         prince  Toreador:2
+3x Anson                8   CEL PRE aus dom             prince  Toreador:1
+1x Dorian Strack        4   AUS cel                             Toreador:1
+1x Colin Flynn          3   aus cel                             Toreador:1
+1x Isabel de Leon       3   AUS                                 Toreador:2
 
 Library (90 cards)
 Master (18)

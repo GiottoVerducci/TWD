@@ -7,13 +7,13 @@ Hernán Rodríguez
 
 Deck Name: The Last Imbued.
 
-Crypt (12 cards, min=14, max=20, avg=4.25)
-------------------------------------------
-3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
-3x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
-2x Travis "Traveler72" Miller	5   def mar	 Martyr:4
-2x John "Cop90" O'Malley	4   jud ven	 Avenger:4
-2x François "Warden" Loehr	3   def jud	 Judge:4
+Crypt (12 cards, min=14 max=20 avg=4.25)
+----------------------------------------
+3x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
+3x Jack "Hannibal137" Harmon    4   def jud      Defender:4
+2x Travis "Traveler72" Miller   5   def mar      Martyr:4
+2x John "Cop90" O'Malley        4   jud ven      Avenger:4
+2x François "Warden" Loehr      3   def jud      Judge:4
 
 Library (90 cards)
 Master (22)

@@ -21,18 +21,18 @@ I started thinking about this deck after having my sneaky decks shut down
 by intercept monsters in a few tournaments. Kind of -- If you can't beat
 them, join them. Then give them a beating.
 
-Crypt (12 cards, min=13, max=30, avg=5.5)
------------------------------------------
-2x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	Toreador antitribu:2
-2x Greta Kircher			 7   AUS CEL PRE obf		Toreador antitribu:2
-1x Parnassus				 7   CEL QUI aus tha		Assamite:2
-1x Ian Wallingford			 6   CEL PRE aus	bishop	Toreador antitribu:2
-1x Felicia Mostrom			 5   AUS CEL pre		Toreador:1
-1x Victor Revell, Loyalist		 5   CEL aus dem pre		Toreador antitribu:2
-1x Parmenides				 4   CEL qui			Assamite:2
-1x Remilliard, Devout Crusader		 4   AUS pre			Toreador antitribu:2
-1x Zöe					 3   AUS cel obf		Malkavian:2
-1x Carter				 2   cel			Toreador antitribu:2
+Crypt (12 cards, min=13 max=30 avg=5.5)
+---------------------------------------
+2x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro    bishop  Toreador antitribu:2
+2x Greta Kircher                         7   AUS CEL PRE obf            Toreador antitribu:2
+1x Parnassus                             7   CEL QUI aus tha            Assamite:2
+1x Ian Wallingford                       6   CEL PRE aus        bishop  Toreador antitribu:2
+1x Felicia Mostrom                       5   AUS CEL pre                Toreador:1
+1x Victor Revell, Loyalist               5   CEL aus dem pre            Toreador antitribu:2
+1x Parmenides                            4   CEL qui                    Assamite:2
+1x Remilliard, Devout Crusader           4   AUS pre                    Toreador antitribu:2
+1x Zöe                                   3   AUS cel obf                Malkavian:2
+1x Carter                                2   cel                        Toreador antitribu:2
 
 Library (90 cards)
 Master (16)

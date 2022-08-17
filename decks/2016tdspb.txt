@@ -9,13 +9,13 @@ https://www.vekn.net/event-calendar/event/8532
 
 Deck Name: Madrugador
 
-Crypt (12 cards, min=42, max=44, avg=10.83)
--------------------------------------------
-4x Saulot, The Wanderer	   11  AUS FOR OBE THA VAL dai	Salubri:4
-3x Capuchin, The	   11  AUS DOM FOR NEC THA THN	Harbinger of Skulls:5
-2x Baba Yaga, The Iron Hag 11  ANI AUS FOR OBF POT THA	Nosferatu:5
-2x Dracon, The		   11  ANI AUS POT THA VIC	Tzimisce:5
-1x Gerald Windham	   9   AUS DOM FOR THA		Tremere:5
+Crypt (12 cards, min=42 max=44 avg=10.83)
+-----------------------------------------
+4x Saulot, The Wanderer    11  AUS FOR OBE THA VAL dai  Salubri:4
+3x Capuchin, The           11  AUS DOM FOR NEC THA THN  Harbinger of Skulls:5
+2x Baba Yaga, The Iron Hag 11  ANI AUS FOR OBF POT THA  Nosferatu:5
+2x Dracon, The             11  ANI AUS POT THA VIC      Tzimisce:5
+1x Gerald Windham          9   AUS DOM FOR THA          Tremere:5
 
 Library (89 cards)
 Master (19; 9 trifle)

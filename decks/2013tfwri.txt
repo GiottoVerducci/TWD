@@ -18,16 +18,16 @@ this deck make sure to spread the damage masters and bow amongst your
 minions so other players don't want to block them. Punching with Miller
 for 4 is fun, but doesn't get you GWs.
 
-Crypt (12 cards, min=16, max=33, avg=6.58)
-------------------------------------------
-4x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	Toreador antitribu:2
-2x Victor Revell, Loyalist		 5   CEL aus dem pre		Toreador antitribu:2
-1x Rosa Martínez			 9   AUS CEL FOR PRE	bishop	Toreador antitribu:3
-1x Ian Forestal				 8   AUS DOM THA		Tremere antitribu:2
-1x Greta Kircher			 7   AUS CEL PRE obf		Toreador antitribu:2
-1x Jessica				 7   AUS CEL OBT PRE	bishop	Toreador antitribu:2
-1x Remilliard, Devout Crusader		 4   AUS pre			Toreador antitribu:2
-1x Nicholas Chang			 2   aus			Toreador antitribu:3
+Crypt (12 cards, min=16 max=33 avg=6.58)
+----------------------------------------
+4x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro    bishop  Toreador antitribu:2
+2x Victor Revell, Loyalist               5   CEL aus dem pre            Toreador antitribu:2
+1x Rosa Martínez                         9   AUS CEL FOR PRE    bishop  Toreador antitribu:3
+1x Ian Forestal                          8   AUS DOM THA                Tremere antitribu:2
+1x Greta Kircher                         7   AUS CEL PRE obf            Toreador antitribu:2
+1x Jessica                               7   AUS CEL OBT PRE    bishop  Toreador antitribu:2
+1x Remilliard, Devout Crusader           4   AUS pre                    Toreador antitribu:2
+1x Nicholas Chang                        2   aus                        Toreador antitribu:3
 
 Library (87 cards)
 Master (17; 2 trifle)

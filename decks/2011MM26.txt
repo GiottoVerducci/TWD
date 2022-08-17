@@ -9,14 +9,14 @@ Deck Name: Ventrues.ver.1.1
 Basic bruise bleed deck with "big ones"
 (and Amaranth & Fueled by Heart's Blood of course).
 
-Crypt (12 cards, min=17, max=44, avg=8.25)
-------------------------------------------
-3x Elimelech the Twice-Damned	11  AUS DEM DOM FOR OBF pro			Ventrue antitribu:5
-3x Hardestadt			11  DOM FOR POT PRE cel pro	inner circle	Ventrue:4
-2x Lodin (Olaf Holte)		8   DOM FOR PRE aus pro		prince		Ventrue:5
-2x Mariel St. John		6   AUS FOR dom pro				Ventrue antitribu:4
-1x Ulrike Rothbart		3   dom for					Ventrue antitribu:4
-1x Jackson Asher		2   dom						Ventrue:4
+Crypt (12 cards, min=17 max=44 avg=8.25)
+----------------------------------------
+3x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro                     Ventrue antitribu:5
+3x Hardestadt                   11  DOM FOR POT PRE cel pro     inner circle    Ventrue:4
+2x Lodin (Olaf Holte)           8   DOM FOR PRE aus pro         prince          Ventrue:5
+2x Mariel St. John              6   AUS FOR dom pro                             Ventrue antitribu:4
+1x Ulrike Rothbart              3   dom for                                     Ventrue antitribu:4
+1x Jackson Asher                2   dom                                         Ventrue:4
 
 Library (90 cards)
 Master (17; 9 trifle)

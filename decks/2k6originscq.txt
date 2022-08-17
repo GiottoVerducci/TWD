@@ -15,18 +15,18 @@ blocking a few times. I die horribly to combat, particularly the animalism
 variety - which two decks in the finals were running. My only hope was for
 them to wreck each other, which eventually did happen.
 
-Crypt (12 cards, min=11, max=20, avg=4)
----------------------------------------
-3x General Perfidio Díos	   5   AUS dem obf	bishop	Malkavian antitribu:3
-1x Colonel, The			   5   AUS cel dem obf		Malkavian antitribu:3
-1x Victoria			   5   AUS cel obf		Malkavian:2
-1x Idalia, Prophet of Guadalajara  4   AUS dem			Malkavian antitribu:2
-1x Maldavis			   4   AUS for pre		Caitiff:3
-1x Remilliard, Devout Crusader	   4   AUS pre			Toreador antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha			Tremere antitribu:2
-1x Isabel de Leon		   3   AUS			Toreador:2
-1x Nicholas Chang		   2   aus			Toreador antitribu:3
-1x Piotr Andreikov		   2   aus			Tzimisce:3
+Crypt (12 cards, min=11 max=20 avg=4)
+-------------------------------------
+3x General Perfidio Díos           5   AUS dem obf      bishop  Malkavian antitribu:3
+1x Colonel, The                    5   AUS cel dem obf          Malkavian antitribu:3
+1x Victoria                        5   AUS cel obf              Malkavian:2
+1x Idalia, Prophet of Guadalajara  4   AUS dem                  Malkavian antitribu:2
+1x Maldavis                        4   AUS for pre              Caitiff:3
+1x Remilliard, Devout Crusader     4   AUS pre                  Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha                  Tremere antitribu:2
+1x Isabel de Leon                  3   AUS                      Toreador:2
+1x Nicholas Chang                  2   aus                      Toreador antitribu:3
+1x Piotr Andreikov                 2   aus                      Tzimisce:3
 
 Library (90 cards)
 Master (17)

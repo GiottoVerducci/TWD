@@ -36,18 +36,18 @@ library: 90 cards (the maximum we allowed; the tourney was DCI rules, with
 a few cards banned - paralyze cards from the Jyhad set, plus Succubus Club,
 Monocle, and I think that was about it.)
 
-Crypt (13 cards, min=10, max=24, avg=4.23)
-------------------------------------------
-2x Anvil			6   CEL POT dom pre tha	 primogen  Brujah:1
-2x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
-2x Dre, Leader of the Cold Dawn	3   cel pot		 	   Brujah:1
-1x Bianca			6   CEL pot pre		 	   Brujah:1
-1x Rake				6   PRE aus cel pot	 prince	   Brujah:1
-1x Jimmy Dunn			4   CEL POT for		 	   Pander:2
-1x Yuri, The Talon		4   cel pot pre		 	   Brujah:1
-1x Jacob Bragg			3   cel pot		 	   Brujah antitribu:2
-1x KoKo				2   pot			 	   Nosferatu:1
-1x Lupo				2   pot			 	   Brujah:1
+Crypt (13 cards, min=10 max=24 avg=4.23)
+----------------------------------------
+2x Anvil                        6   CEL POT dom pre tha  primogen  Brujah:1
+2x Volker, The Puppet Prince    5   CEL pot              prince    Brujah:2
+2x Dre, Leader of the Cold Dawn 3   cel pot                        Brujah:1
+1x Bianca                       6   CEL pot pre                    Brujah:1
+1x Rake                         6   PRE aus cel pot      prince    Brujah:1
+1x Jimmy Dunn                   4   CEL POT for                    Pander:2
+1x Yuri, The Talon              4   cel pot pre                    Brujah:1
+1x Jacob Bragg                  3   cel pot                        Brujah antitribu:2
+1x KoKo                         2   pot                            Nosferatu:1
+1x Lupo                         2   pot                            Brujah:1
 
 Library (90 cards)
 Master (14)

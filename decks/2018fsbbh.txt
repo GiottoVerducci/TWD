@@ -12,15 +12,15 @@ Deck Name: Mea Culpa
 
 Description: Risky, but ever so active deck, forcing !gangrel vote for gangrel fanatics.
 
-Crypt (12 cards, min=10, max=36, avg=6.42)
-------------------------------------------
-4x Una		   9   ANI FOR PRE PRO dem	archbishop  Gangrel antitribu:3
-3x Aksinya Daclau  9   ANI FOR PRE PRO cel tha		    Gangrel antitribu:4
-1x Charlie Tyne	   4   obf pro ser			    Gangrel antitribu:4
-1x Bill Butler	   3   pot pro				    Gangrel antitribu:4
-1x Lula Burch	   3   for pro				    Gangrel antitribu:4
-1x Denette Stensen 2   obf				    Gangrel antitribu:4
-1x Leo Washington  2   cel pro				    Gangrel antitribu:4
+Crypt (12 cards, min=10 max=36 avg=6.42)
+----------------------------------------
+4x Una             9   ANI FOR PRE PRO dem      archbishop  Gangrel antitribu:3
+3x Aksinya Daclau  9   ANI FOR PRE PRO cel tha              Gangrel antitribu:4
+1x Charlie Tyne    4   obf pro ser                          Gangrel antitribu:4
+1x Bill Butler     3   pot pro                              Gangrel antitribu:4
+1x Lula Burch      3   for pro                              Gangrel antitribu:4
+1x Denette Stensen 2   obf                                  Gangrel antitribu:4
+1x Leo Washington  2   cel pro                              Gangrel antitribu:4
 
 Library (90 cards)
 Master (18; 8 trifle)

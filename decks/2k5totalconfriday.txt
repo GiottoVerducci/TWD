@@ -36,17 +36,17 @@ just after the Euro-Brujah ran out of steam and died. My new prey, a
 !Nos rush deck, very nearly got his second VP for the win, but I was saved
 by the two hour time limit.
 
-Crypt (12 cards, min=28, max=40, avg=8.58)
-------------------------------------------
-2x Hannibal		  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
-1x Hannibal (ADV)	  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
-2x Rachel Brandywine	  10  AUS DEM OBF PRO ani  prince	Malkavian:3
-2x Maris Streck		  9   AUS OBF ani dem dom  justicar	Malkavian:3
-1x Quentin King III	  7   AUS DEM obf pre	   prince	Malkavian:3
-1x Quentin King III (ADV) 7   AUS DEM OBF cel pre  		Malkavian:3
-1x Kite			  7   AUS DEM obf pre	   bishop	Malkavian antitribu:2
-1x Korah		  7   AUS DEM OBF ani	   priscus	Malkavian antitribu:2
-1x Marie Faucigny	  7   AUS OBF dem tha	   archbishop	Malkavian antitribu:3
+Crypt (12 cards, min=28 max=40 avg=8.58)
+----------------------------------------
+2x Hannibal               10  AUS DEM OBF cel dom  cardinal     Malkavian antitribu:2
+1x Hannibal (ADV)         10  AUS DEM OBF cel dom  cardinal     Malkavian antitribu:2
+2x Rachel Brandywine      10  AUS DEM OBF PRO ani  prince       Malkavian:3
+2x Maris Streck           9   AUS OBF ani dem dom  justicar     Malkavian:3
+1x Quentin King III       7   AUS DEM obf pre      prince       Malkavian:3
+1x Quentin King III (ADV) 7   AUS DEM OBF cel pre               Malkavian:3
+1x Kite                   7   AUS DEM obf pre      bishop       Malkavian antitribu:2
+1x Korah                  7   AUS DEM OBF ani      priscus      Malkavian antitribu:2
+1x Marie Faucigny         7   AUS OBF dem tha      archbishop   Malkavian antitribu:3
 
 Library (90 cards)
 Master (16)

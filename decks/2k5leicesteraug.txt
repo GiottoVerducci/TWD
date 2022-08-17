@@ -14,15 +14,15 @@ standard Necrobleed include tapping with Faceless Night and a chance
 to cancel bounce with Approximation. True Love's Face followed by
 Elder Impersonation is always fun !
 
-Crypt (12 cards, min=18, max=30, avg=6.17)
-------------------------------------------
-2x Intisar		  8   OBF PRE SER cel pot  Follower of Set:2
-2x Qufur am-Heru	  7   OBF PRE SER cel tha  Follower of Set:2
-2x Sarrasine		  7   OBF PRE aus nec ser  Follower of Set:2
-2x Samat Ramal-Ra, Archon 6   OBF pre ser tha	   Follower of Set:2
-2x Count Ormonde	  5   OBF dom pre ser	   Follower of Set:2
-1x Hadrian Garrick	  4   obf pre		   Follower of Set:2
-1x Nepata		  4   obf pre ser	   Follower of Set:2
+Crypt (12 cards, min=18 max=30 avg=6.17)
+----------------------------------------
+2x Intisar                8   OBF PRE SER cel pot  Follower of Set:2
+2x Qufur am-Heru          7   OBF PRE SER cel tha  Follower of Set:2
+2x Sarrasine              7   OBF PRE aus nec ser  Follower of Set:2
+2x Samat Ramal-Ra, Archon 6   OBF pre ser tha      Follower of Set:2
+2x Count Ormonde          5   OBF dom pre ser      Follower of Set:2
+1x Hadrian Garrick        4   obf pre              Follower of Set:2
+1x Nepata                 4   obf pre ser          Follower of Set:2
 
 Library (90 cards)
 Master (15)

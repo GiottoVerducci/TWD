@@ -22,12 +22,12 @@ Magic of the Smith should be played as soon as posssible.
 To keep the pressure up, bleeding with Saulot and Nergal
 every turn is essential. Enkil Cog should go on Saulot.
 
-Crypt (12 cards, min=22, max=44, avg=8.83)
-------------------------------------------
-4x Saulot, The Wanderer	   11  AUS FOR OBE THA VAL dai	Salubri:4
-4x Nergal		   10  AUS DAI FOR OBF PRE THA	Baali:5
-2x Eurayle Gelasia Mylonas 6   AUS OBE for pre		Salubri:4
-2x Nicomedes		   5   aus for nec vic		Harbinger of Skulls:4
+Crypt (12 cards, min=22 max=44 avg=8.83)
+----------------------------------------
+4x Saulot, The Wanderer    11  AUS FOR OBE THA VAL dai  Salubri:4
+4x Nergal                  10  AUS DAI FOR OBF PRE THA  Baali:5
+2x Eurayle Gelasia Mylonas 6   AUS OBE for pre          Salubri:4
+2x Nicomedes               5   aus for nec vic          Harbinger of Skulls:4
 
 Library (78 cards)
 Master (22; 7 trifle)

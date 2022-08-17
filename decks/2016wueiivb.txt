@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/8309
 
 Deck Name: Old But Good
 
-Crypt (12 cards, min=33, max=44, avg=9.75)
-------------------------------------------
-4x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-2x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
-2x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
-2x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
-1x Katarina Kornfeld	8   DOM FOR PRE ani		primogen	Ventrue:3
-1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+Crypt (12 cards, min=33 max=44 avg=9.75)
+----------------------------------------
+4x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+2x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
+2x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
+2x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
+1x Katarina Kornfeld    8   DOM FOR PRE ani             primogen        Ventrue:3
+1x Catherine du Bois    5   DOM for obf pre                             Ventrue:3
 
 Library (90 cards)
 Master (18; 5 trifle)

@@ -9,15 +9,15 @@ Deck Name: Shamblers
 
 3GW + 1.5VP in final
 
-Crypt (12 cards, min=6, max=25, avg=3.75)
------------------------------------------
-3x Tupdog	    1	POT VIS		 Gargoyle:3
-2x Andrea Giovanni  7	DOM NEC pot vic	 Giovanni:2
-2x Isabel Giovanni  5	DOM NEC pot	 Giovanni:2
-2x Rudolfo Giovanni 3	NEC		 Giovanni:2
-1x Stefano Giovanni 6	DOM nec pot pre	 Giovanni:2
-1x Lia Milliner	    3	dom nec		 Giovanni:3
-1x Mario Giovanni   3	nec pot		 Giovanni:2
+Crypt (12 cards, min=6 max=25 avg=3.75)
+---------------------------------------
+3x Tupdog           1   POT VIS          Gargoyle:3
+2x Andrea Giovanni  7   DOM NEC pot vic  Giovanni:2
+2x Isabel Giovanni  5   DOM NEC pot      Giovanni:2
+2x Rudolfo Giovanni 3   NEC              Giovanni:2
+1x Stefano Giovanni 6   DOM nec pot pre  Giovanni:2
+1x Lia Milliner     3   dom nec          Giovanni:3
+1x Mario Giovanni   3   nec pot          Giovanni:2
 
 Library (90 cards)
 Master (22; 6 trifle)

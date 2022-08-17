@@ -10,15 +10,15 @@ Simple stealth-bleed with the added resilience provided by combat ends.
 Earth Meld greatly improves the deck's ability to block multiple actions
 while Form of Mist works extremely well as a block-deny mechanism.
 
-Crypt (12 cards, min=13, max=26, avg=5.17)
-------------------------------------------
-3x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
-2x Iliana		7   DOM FOR PRO tha		Gangrel:2
-2x Horrock		6   ANI PRO vic			Gangrel:3
-2x Chandler Hungerford	3   PRO				Gangrel:2
-1x Dr. Allan Woodstock	5   PRO ani aus for		Gangrel:3
-1x Mirembe Kabbada	5   PRO SER ani			Gangrel:2
-1x Sadie		2   pro				Gangrel antitribu:2
+Crypt (12 cards, min=13 max=26 avg=5.17)
+----------------------------------------
+3x Caitlin              6   ANI PRO aus dom     bishop  Gangrel antitribu:2
+2x Iliana               7   DOM FOR PRO tha             Gangrel:2
+2x Horrock              6   ANI PRO vic                 Gangrel:3
+2x Chandler Hungerford  3   PRO                         Gangrel:2
+1x Dr. Allan Woodstock  5   PRO ani aus for             Gangrel:3
+1x Mirembe Kabbada      5   PRO SER ani                 Gangrel:2
+1x Sadie                2   pro                         Gangrel antitribu:2
 
 Library (90 cards)
 Master (18; 1 trifle)

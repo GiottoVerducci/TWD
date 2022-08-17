@@ -8,15 +8,15 @@ https://www.vekn.net/event-calendar/event/9291
 
 -- 2GW7 + 2VP in final
 
-Crypt (12 cards, min=34, max=41, avg=9.5)
------------------------------------------
-4x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
-2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
-2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
-1x Montano				  11  ANI DOM FOR OBT POT	2 votes	    Lasombra:3
-1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
-1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
-1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+Crypt (12 cards, min=34 max=41 avg=9.5)
+---------------------------------------
+4x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince      Ventrue:3
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
+2x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
+1x Montano                                11  ANI DOM FOR OBT POT       2 votes     Lasombra:3
+1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
+1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
+1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
 
 Library (84 cards)
 Master (23; 6 trifle)

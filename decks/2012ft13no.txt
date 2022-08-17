@@ -18,19 +18,19 @@ in the finals I was able to retrieve Delaying Tactics to
 repeatedly stymie Anarchist Uprising which would have hit me
 for 22 pool.
 
-Crypt (12 cards, min=8, max=8, avg=2)
--------------------------------------
-2x Frederick the Weak		 2   pre	Brujah antitribu:2
-1x Aaron Duggan, Cameron's Toady 2   obt	Lasombra:2
-1x Boy Toy			 2   dem	Malkavian antitribu:2
-1x Carter			 2   cel	Toreador antitribu:2
-1x Christine Boscacci		 2   dom vic	Pander:2
-1x Dani				 2   ani	Nosferatu antitribu:2
-1x Gillian Krader		 2   ani dem	Pander:2
-1x Heinrick Schlempt		 2   tha	Tremere antitribu:2
-1x Horatio			 2   vic	Tzimisce:2
-1x Sadie			 2   pro	Gangrel antitribu:2
-1x Samson			 2   dom	Ventrue antitribu:2
+Crypt (12 cards, min=8 max=8 avg=2)
+-----------------------------------
+2x Frederick the Weak            2   pre        Brujah antitribu:2
+1x Aaron Duggan, Cameron's Toady 2   obt        Lasombra:2
+1x Boy Toy                       2   dem        Malkavian antitribu:2
+1x Carter                        2   cel        Toreador antitribu:2
+1x Christine Boscacci            2   dom vic    Pander:2
+1x Dani                          2   ani        Nosferatu antitribu:2
+1x Gillian Krader                2   ani dem    Pander:2
+1x Heinrick Schlempt             2   tha        Tremere antitribu:2
+1x Horatio                       2   vic        Tzimisce:2
+1x Sadie                         2   pro        Gangrel antitribu:2
+1x Samson                        2   dom        Ventrue antitribu:2
 
 Library (60 cards)
 Master (39)

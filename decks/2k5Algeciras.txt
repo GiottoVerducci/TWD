@@ -6,14 +6,14 @@ Francisco Javier Medina
 
 "Vincent Seaswerve"
 
-Crypt (12 cards, min=26, max=37, avg=7.58)
-------------------------------------------
-3x Lucian		10  AUS DOM OBF cel tha	 justicar  Malkavian:1
-3x Gilbert Duane	7   AUS DOM OBF		 prince	   Malkavian:1
-2x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
-2x Mariel, Lady Thunder	7   DOM OBF aus tha	 	   Malkavian:1
-1x Korah		7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
-1x Le Dinh Tho		5   NEC aus dom		 	   Nagaraja:2
+Crypt (12 cards, min=26 max=37 avg=7.58)
+----------------------------------------
+3x Lucian               10  AUS DOM OBF cel tha  justicar  Malkavian:1
+3x Gilbert Duane        7   AUS DOM OBF          prince    Malkavian:1
+2x Greger Anderssen     7   AUS OBF dom pro      prince    Malkavian:2
+2x Mariel, Lady Thunder 7   DOM OBF aus tha                Malkavian:1
+1x Korah                7   AUS DEM OBF ani      priscus   Malkavian antitribu:2
+1x Le Dinh Tho          5   NEC aus dom                    Nagaraja:2
 
 Library (90 cards)
 Master (13)

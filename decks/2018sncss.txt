@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/9045
 
 Deck Name: Meet the Khurshid
 
-Crypt (13 cards, min=19, max=32, avg=6.85)
-------------------------------------------
-5x Khurshid		8   AUS FOR NEC POT	Harbinger of Skulls:6
-3x Mordechai Ben-Nun	8   ANI AUS FOR NEC	Harbinger of Skulls:5
-2x Hecate		6   AUS FOR NEC		Harbinger of Skulls:5
-1x La Viuda Blanca	6   AUS NEC for obf	Harbinger of Skulls:6
-1x Pearl		4   AUS obf		Malkavian antitribu:5
-1x Veejay Vinod		3   AUS			Nagaraja:6
+Crypt (13 cards, min=19 max=32 avg=6.85)
+----------------------------------------
+5x Khurshid             8   AUS FOR NEC POT     Harbinger of Skulls:6
+3x Mordechai Ben-Nun    8   ANI AUS FOR NEC     Harbinger of Skulls:5
+2x Hecate               6   AUS FOR NEC         Harbinger of Skulls:5
+1x La Viuda Blanca      6   AUS NEC for obf     Harbinger of Skulls:6
+1x Pearl                4   AUS obf             Malkavian antitribu:5
+1x Veejay Vinod         3   AUS                 Nagaraja:6
 
 Library (76 cards)
 Master (15; 6 trifle)

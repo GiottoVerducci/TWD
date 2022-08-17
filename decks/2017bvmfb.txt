@@ -12,15 +12,15 @@ Deck Name: Etrius Anarck
 
 Description: Bleed sem levar dano
 
-Crypt (12 cards, min=4, max=38, avg=5.25)
------------------------------------------
-4x Anarch Convert		    1	-none-					Caitiff:ANY
-2x Etrius			    11	AUS DOM OBF THA pro	inner circle	Tremere:2
-2x Justine, Elder of Dallas	    8	AUS DOM THA obf		primogen	Tremere:1
-1x Rebekka, Chantry Elder of Munich 8	AUS PRE THA pot				Tremere:2
-1x Muaziz, Archon of Ulugh Beg	    7	THA aus dom for				Tremere:2
-1x Zebulon			    5	OBF aus dom pro				Malkavian:1
-1x Royce			    1	dom					Pander:2
+Crypt (12 cards, min=4 max=38 avg=5.25)
+---------------------------------------
+4x Anarch Convert                   1   -none-                                  Caitiff:ANY
+2x Etrius                           11  AUS DOM OBF THA pro     inner circle    Tremere:2
+2x Justine, Elder of Dallas         8   AUS DOM THA obf         primogen        Tremere:1
+1x Rebekka, Chantry Elder of Munich 8   AUS PRE THA pot                         Tremere:2
+1x Muaziz, Archon of Ulugh Beg      7   THA aus dom for                         Tremere:2
+1x Zebulon                          5   OBF aus dom pro                         Malkavian:1
+1x Royce                            1   dom                                     Pander:2
 
 Library (90 cards)
 Master (14; 6 trifle)

@@ -6,14 +6,14 @@ Chris Wall
 
 Ahrimane Wall
 
-Crypt (12 cards, min=21, max=31, avg=6.58)
-------------------------------------------
-3x Howler		8   ANI PRE SPI obf	 Ahrimane:2
-3x Siamese, The		7   PRE SPI ani pro	 Ahrimane:2
-2x Cynthia Ingold	6   SPI ani for pre	 Ahrimane:2
-2x Bear Paw		5   ANI for pre pro	 Gangrel:1
-1x Gunther, Beast Lord	7   ANI aus for pro	 Gangrel:1
-1x Nettie Hale		5   ani cel pre pro spi	 Ahrimane:2
+Crypt (12 cards, min=21 max=31 avg=6.58)
+----------------------------------------
+3x Howler               8   ANI PRE SPI obf      Ahrimane:2
+3x Siamese, The         7   PRE SPI ani pro      Ahrimane:2
+2x Cynthia Ingold       6   SPI ani for pre      Ahrimane:2
+2x Bear Paw             5   ANI for pre pro      Gangrel:1
+1x Gunther, Beast Lord  7   ANI aus for pro      Gangrel:1
+1x Nettie Hale          5   ani cel pre pro spi  Ahrimane:2
 
 Library (88 cards)
 Master (7)

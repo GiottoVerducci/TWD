@@ -6,18 +6,18 @@ Ian Lee
 
 Mellow-Yellow Drama
 
-Crypt (12 cards, min=13, max=28, avg=5)
----------------------------------------
-2x Angela Preston		  5   MEL PRE for		Daughter of Cacophony:2
-2x Delilah Monroe		  4   MEL for pre		Daughter of Cacophony:2
-1x Emerson Bridges		  8   DOM FOR PRE pot	prince	Ventrue:1
-1x Sir Walter Nash		  7   DOM FOR PRE	prince	Ventrue:1
-1x Timothy Crowley		  7   FOR PRE ani dom	prince	Ventrue:1
-1x Gaël Pilet			  6   FOR MEL chi pre		Daughter of Cacophony:2
-1x Jazz Wentworth		  5   PRE dom for		Ventrue:1
-1x Céleste, The Voice of a Secret 3   mel pre			Daughter of Cacophony:2
-1x Gideon Fontaine		  3   PRE			Ventrue:1
-1x Muse				  3   ani for mel		Daughter of Cacophony:2
+Crypt (12 cards, min=13 max=28 avg=5)
+-------------------------------------
+2x Angela Preston                 5   MEL PRE for               Daughter of Cacophony:2
+2x Delilah Monroe                 4   MEL for pre               Daughter of Cacophony:2
+1x Emerson Bridges                8   DOM FOR PRE pot   prince  Ventrue:1
+1x Sir Walter Nash                7   DOM FOR PRE       prince  Ventrue:1
+1x Timothy Crowley                7   FOR PRE ani dom   prince  Ventrue:1
+1x Gaël Pilet                     6   FOR MEL chi pre           Daughter of Cacophony:2
+1x Jazz Wentworth                 5   PRE dom for               Ventrue:1
+1x Céleste, The Voice of a Secret 3   mel pre                   Daughter of Cacophony:2
+1x Gideon Fontaine                3   PRE                       Ventrue:1
+1x Muse                           3   ani for mel               Daughter of Cacophony:2
 
 Library (80 cards)
 Master (16)

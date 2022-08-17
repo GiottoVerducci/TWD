@@ -7,20 +7,20 @@ Dominic Bédard
 
 Deck Name: Weenie-Cel-DesertEagle
 
-Crypt (12 cards, min=6, max=12, avg=2.42)
------------------------------------------
-1x Colin Flynn			3   aus cel	Toreador:1
-1x Dre, Leader of the Cold Dawn	3   cel pot	Brujah:1
-1x Itzahk Levine		3   cel pre	Ventrue:2
-1x Jacob Bragg			3   cel pot	Brujah antitribu:2
-1x Max Lowell			3   cel obf	Gangrel antitribu:2
-1x Sarah Brando			3   CEL		Brujah antitribu:2
-1x Uma Hatch			3   cel pre	Brujah:1
-1x Angel			2   cel		Brujah:1
-1x Carter			2   cel		Toreador antitribu:2
-1x Kanya Akhtar			2   cel		Assamite:2
-1x Antoinette DuChamp		1   cel pre	Caitiff:2
-1x Nik				1   cel		Caitiff:1
+Crypt (12 cards, min=6 max=12 avg=2.42)
+---------------------------------------
+1x Colin Flynn                  3   aus cel     Toreador:1
+1x Dre, Leader of the Cold Dawn 3   cel pot     Brujah:1
+1x Itzahk Levine                3   cel pre     Ventrue:2
+1x Jacob Bragg                  3   cel pot     Brujah antitribu:2
+1x Max Lowell                   3   cel obf     Gangrel antitribu:2
+1x Sarah Brando                 3   CEL         Brujah antitribu:2
+1x Uma Hatch                    3   cel pre     Brujah:1
+1x Angel                        2   cel         Brujah:1
+1x Carter                       2   cel         Toreador antitribu:2
+1x Kanya Akhtar                 2   cel         Assamite:2
+1x Antoinette DuChamp           1   cel pre     Caitiff:2
+1x Nik                          1   cel         Caitiff:1
 
 Library (90 cards)
 Master (19)

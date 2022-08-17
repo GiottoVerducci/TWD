@@ -19,13 +19,13 @@ keep it. Nicomedes is AMAZING when you have 11/12 cards in hand, and
 Sennadurek skill has often been underestimated, giving me full acces to
 almost all table's hand.
 
-Crypt (12 cards, min=17, max=36, avg=6.33)
-------------------------------------------
-4x Guillaume Giovanni	9   CEL DOM NEC POT obt	 Giovanni:4
-3x Sennadurek		6   AUS NEC dom		 Nagaraja:4
-3x Nicomedes		5   aus for nec vic	 Harbinger of Skulls:4
-1x Primo Giovanni	4   dom nec pot		 Giovanni:4
-1x Lia Milliner		3   dom nec		 Giovanni:3
+Crypt (12 cards, min=17 max=36 avg=6.33)
+----------------------------------------
+4x Guillaume Giovanni   9   CEL DOM NEC POT obt  Giovanni:4
+3x Sennadurek           6   AUS NEC dom          Nagaraja:4
+3x Nicomedes            5   aus for nec vic      Harbinger of Skulls:4
+1x Primo Giovanni       4   dom nec pot          Giovanni:4
+1x Lia Milliner         3   dom nec              Giovanni:3
 
 Library (69 cards)
 Master (22; 2 trifle)

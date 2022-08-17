@@ -16,13 +16,13 @@ Description: Eternals is strong
 
 Secret Library link to the deck: www.secretlibrary.info/index.php?deck=view&id=24623
 
-Crypt (12 cards, min=36, max=40, avg=9.42)
-------------------------------------------
-5x Nakhthorheb	10  OBF PRE SER				 Follower of Set:4
-4x Porphyrion	9   CHI OBF PRE SER for			 Follower of Set:5
-1x Neferu	9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
-1x Pentweret	9   OBF PRE SER aus for obe		 Follower of Set:5
-1x Shemti	9   OBF POT PRE SER vic		1 vote	 Follower of Set:5
+Crypt (12 cards, min=36 max=40 avg=9.42)
+----------------------------------------
+5x Nakhthorheb  10  OBF PRE SER                          Follower of Set:4
+4x Porphyrion   9   CHI OBF PRE SER for                  Follower of Set:5
+1x Neferu       9   OBF PRE SER THA dom nec     2 votes  Follower of Set:4
+1x Pentweret    9   OBF PRE SER aus for obe              Follower of Set:5
+1x Shemti       9   OBF POT PRE SER vic         1 vote   Follower of Set:5
 
 Library (73 cards)
 Master (26; 8 trifle)

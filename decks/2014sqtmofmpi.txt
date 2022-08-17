@@ -8,13 +8,13 @@ https://www.vekn.net/event-calendar/event/7652
 
 Deck Name: multi master
 
-Crypt (15 cards, min=37, max=44, avg=10.2)
-------------------------------------------
-3x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-3x Leandro	   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
-3x Cailean	   10  ANI OBF POT PRE dom	archbishop	Nosferatu antitribu:2
-3x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE			Baali:2
-3x Maris Streck	   9   AUS OBF ani dem dom	justicar	Malkavian:3
+Crypt (15 cards, min=37 max=44 avg=10.2)
+----------------------------------------
+3x Arika           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+3x Leandro         11  AUS OBF PRE cel dom      inner circle    Malkavian:2
+3x Cailean         10  ANI OBF POT PRE dom      archbishop      Nosferatu antitribu:2
+3x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE                  Baali:2
+3x Maris Streck    9   AUS OBF ani dem dom      justicar        Malkavian:3
 
 Library (90 cards)
 Master (47; 9 trifle)

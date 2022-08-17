@@ -6,15 +6,15 @@ Colin Riggs
 
 Deck Name: Guns and Butter
 
-Crypt (12 cards, min=4, max=16, avg=2.5)
-----------------------------------------
-2x Parmenides		4   CEL qui	Assamite:2
-2x Victor Tolliver	4   CEL pot	Brujah antitribu:2
-2x Sarah Brando		3   CEL		Brujah antitribu:2
-2x Antoinette DuChamp	1   cel pre	Caitiff:2
-2x Nik			1   cel		Caitiff:1
-1x Carter		2   cel		Toreador antitribu:2
-1x Kanya Akhtar		2   cel		Assamite:2
+Crypt (12 cards, min=4 max=16 avg=2.5)
+--------------------------------------
+2x Parmenides           4   CEL qui     Assamite:2
+2x Victor Tolliver      4   CEL pot     Brujah antitribu:2
+2x Sarah Brando         3   CEL         Brujah antitribu:2
+2x Antoinette DuChamp   1   cel pre     Caitiff:2
+2x Nik                  1   cel         Caitiff:1
+1x Carter               2   cel         Toreador antitribu:2
+1x Kanya Akhtar         2   cel         Assamite:2
 
 Library (87 cards)
 Master (13)

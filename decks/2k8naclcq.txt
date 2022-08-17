@@ -7,16 +7,16 @@ Pascal Bertrand
 
 -- 5VP in final
 
-Crypt (12 cards, min=20, max=29, avg=6.42)
-------------------------------------------
-3x Stavros			7   AUS OBF PRE dem	 priscus	Malkavian antitribu:4
-2x Quentin King III		7   AUS DEM obf pre	 prince		Malkavian:3
-2x Ubende			7   CEL PRE for obf qui	 magaji		Ishtarri:4
-1x Lukas			8   ANI OBF POT pre ser	 archbishop	Nosferatu antitribu:4
-1x Antoinette, She Who Watches	6   AUS PRE cel obf	 primogen	Toreador:3
-1x Axel Von Anders		5   PRE cel obf pot	 		Brujah antitribu:4
-1x Raphael Catarari		5   OBF PRE aus pot tha	 		Nosferatu antitribu:4
-1x Tock				4   obf pot pre		 		Nosferatu antitribu:3
+Crypt (12 cards, min=20 max=29 avg=6.42)
+----------------------------------------
+3x Stavros                      7   AUS OBF PRE dem      priscus        Malkavian antitribu:4
+2x Quentin King III             7   AUS DEM obf pre      prince         Malkavian:3
+2x Ubende                       7   CEL PRE for obf qui  magaji         Ishtarri:4
+1x Lukas                        8   ANI OBF POT pre ser  archbishop     Nosferatu antitribu:4
+1x Antoinette, She Who Watches  6   AUS PRE cel obf      primogen       Toreador:3
+1x Axel Von Anders              5   PRE cel obf pot                     Brujah antitribu:4
+1x Raphael Catarari             5   OBF PRE aus pot tha                 Nosferatu antitribu:4
+1x Tock                         4   obf pot pre                         Nosferatu antitribu:3
 
 Library (78 cards)
 Master (17; 4 trifle)

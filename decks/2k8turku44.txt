@@ -9,20 +9,20 @@ Deck Name: CHAIN reaction
 
 Description:	more dominate = better
 
-Crypt (12 cards, min=16, max=29, avg=5.5)
------------------------------------------
-1x Conrad Adoula	 8   DOM OBT POT ani cel  	  Lasombra:4
-1x Henri Lavenant	 7   DOM OBT pot qui	  	  Lasombra:3
-1x Lord Vauxhall	 7   DOM OBT POT THA	  	  Lasombra:4
-1x Tobias Smith		 7   DOM OBT PRE pot	  	  Lasombra:3
-1x Onaedo		 6   DOM OBT aus pot	  	  Lasombra:4
-1x Andrew Emory		 5   OBT aus dom pot	  bishop  Lasombra:4
-1x Banjoko		 5   DOM obt pot	  	  Lasombra:3
-1x Dame Hollerton	 5   DOM OBT myt	  	  Kiasyd:4
-1x Ermenegildo, The Rake 5   DOM OBT pot	  	  Lasombra:4
-1x Leila Monroe		 4   dom obt pre	  	  Lasombra:4
-1x Quincy, The Trapper	 4   dom myt obt	  	  Kiasyd:3
-1x Lucy Markowitz	 3   dom obt		  	  Lasombra:4
+Crypt (12 cards, min=16 max=29 avg=5.5)
+---------------------------------------
+1x Conrad Adoula         8   DOM OBT POT ani cel          Lasombra:4
+1x Henri Lavenant        7   DOM OBT pot qui              Lasombra:3
+1x Lord Vauxhall         7   DOM OBT POT THA              Lasombra:4
+1x Tobias Smith          7   DOM OBT PRE pot              Lasombra:3
+1x Onaedo                6   DOM OBT aus pot              Lasombra:4
+1x Andrew Emory          5   OBT aus dom pot      bishop  Lasombra:4
+1x Banjoko               5   DOM obt pot                  Lasombra:3
+1x Dame Hollerton        5   DOM OBT myt                  Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot                  Lasombra:4
+1x Leila Monroe          4   dom obt pre                  Lasombra:4
+1x Quincy, The Trapper   4   dom myt obt                  Kiasyd:3
+1x Lucy Markowitz        3   dom obt                      Lasombra:4
 
 Library (90 cards)
 Master (15; 5 trifle)

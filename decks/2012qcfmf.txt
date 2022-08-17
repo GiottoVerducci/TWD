@@ -11,17 +11,17 @@ Deck Name: So, it's a Girl, a bat and a crow...
 
 Description: Classic Nana (Thanks Erik, Martin...) with few reactions
 
-Crypt (12 cards, min=10, max=32, avg=5.08)
-------------------------------------------
-4x Nana Buruku	   8   ANI POT PRE		Guruhi:4
-1x Fish		   5   ANI POT pre		Guruhi:4
-1x Petra	   5   ANI OBF aus		Nosferatu:4
-1x Yuri Kerezenski 5   ANI aus for vic	bishop	Tzimisce:4
-1x Beetleman	   4   ANI obf			Nosferatu:4
-1x Bobby Lemon	   4   ANI pro			Gangrel:3
-1x Stick	   3   ANI			Nosferatu antitribu:4
-1x Zip		   2   ani			Ravnos:3
-1x Lisa Noble	   1   ani			Caitiff:3
+Crypt (12 cards, min=10 max=32 avg=5.08)
+----------------------------------------
+4x Nana Buruku     8   ANI POT PRE              Guruhi:4
+1x Fish            5   ANI POT pre              Guruhi:4
+1x Petra           5   ANI OBF aus              Nosferatu:4
+1x Yuri Kerezenski 5   ANI aus for vic  bishop  Tzimisce:4
+1x Beetleman       4   ANI obf                  Nosferatu:4
+1x Bobby Lemon     4   ANI pro                  Gangrel:3
+1x Stick           3   ANI                      Nosferatu antitribu:4
+1x Zip             2   ani                      Ravnos:3
+1x Lisa Noble      1   ani                      Caitiff:3
 
 Library (79 cards)
 Master (27; 2 trifle)

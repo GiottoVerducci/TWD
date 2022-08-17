@@ -5,20 +5,20 @@ Michael Eichler
 
 Lasombra on the Presidental Lawn (Sabbat War variant)
 
-Crypt (13 cards, min=16, max=35, avg=6.31)
-------------------------------------------
-2x Sela				 6   POT PRE cel obt	  bishop	Brujah antitribu:2
-1x Alvaro, The Scion of Angelica 9   OBT POT dom pre	  archbishop	Lasombra:2
-1x Antonio Delgado		 9   DOM OBT POT tha	  archbishop	Lasombra:2
-1x Francisco Domingo de Polonia	 9   DOM OBT POT PRE pro  archbishop	Lasombra:2
-1x Gratiano			 8   DOM OBT obf pot	  priscus	Lasombra:2
-1x Jessica			 7   AUS CEL OBT PRE	  bishop	Toreador antitribu:2
-1x Aurora Van Brande, Paladin	 6   OBT dom for pot	  		Lasombra:2
-1x Talley, The Hound		 6   OBT POT aus dom	  		Lasombra:2
-1x Guido Lucciano		 5   OBT dom obf	  		Lasombra:2
-1x Ignacio, The Black Priest	 4   dom obt pot	  		Lasombra:2
-1x Ramiro			 4   dom obt vic	  		Lasombra:2
-1x Cameron			 3   dom pot		  		Lasombra:2
+Crypt (13 cards, min=16 max=35 avg=6.31)
+----------------------------------------
+2x Sela                          6   POT PRE cel obt      bishop        Brujah antitribu:2
+1x Alvaro, The Scion of Angelica 9   OBT POT dom pre      archbishop    Lasombra:2
+1x Antonio Delgado               9   DOM OBT POT tha      archbishop    Lasombra:2
+1x Francisco Domingo de Polonia  9   DOM OBT POT PRE pro  archbishop    Lasombra:2
+1x Gratiano                      8   DOM OBT obf pot      priscus       Lasombra:2
+1x Jessica                       7   AUS CEL OBT PRE      bishop        Toreador antitribu:2
+1x Aurora Van Brande, Paladin    6   OBT dom for pot                    Lasombra:2
+1x Talley, The Hound             6   OBT POT aus dom                    Lasombra:2
+1x Guido Lucciano                5   OBT dom obf                        Lasombra:2
+1x Ignacio, The Black Priest     4   dom obt pot                        Lasombra:2
+1x Ramiro                        4   dom obt vic                        Lasombra:2
+1x Cameron                       3   dom pot                            Lasombra:2
 
 Library (89 cards)
 Master (18)

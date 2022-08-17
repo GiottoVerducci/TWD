@@ -5,17 +5,17 @@ August 16th 2009
 12 players
 Jay Kristoff
 
-Crypt (12 cards, min=12, max=28, avg=5.33)
-------------------------------------------
-4x Nikolaus Vermeulen		7   POT ani for obf	prince	Nosferatu:2
-1x Murat			7   OBF POT ser		prince	Nosferatu:2
-1x Gerard Rafin			6   OBF POT ani for		Nosferatu:3
-1x Sundown			6   ANI POT obf pre		Nosferatu:3
-1x Amelia, The Blood Red Tears	5   POT ani obf			Nosferatu:3
-1x Calebros, The Martyr		5   ANI obf pot		prince	Nosferatu:2
-1x Darva Felispa		3   ani pot			Nosferatu:3
-1x Krid				2   obf				Nosferatu:3
-1x Mouse			2   ani				Nosferatu:3
+Crypt (12 cards, min=12 max=28 avg=5.33)
+----------------------------------------
+4x Nikolaus Vermeulen           7   POT ani for obf     prince  Nosferatu:2
+1x Murat                        7   OBF POT ser         prince  Nosferatu:2
+1x Gerard Rafin                 6   OBF POT ani for             Nosferatu:3
+1x Sundown                      6   ANI POT obf pre             Nosferatu:3
+1x Amelia, The Blood Red Tears  5   POT ani obf                 Nosferatu:3
+1x Calebros, The Martyr         5   ANI obf pot         prince  Nosferatu:2
+1x Darva Felispa                3   ani pot                     Nosferatu:3
+1x Krid                         2   obf                         Nosferatu:3
+1x Mouse                        2   ani                         Nosferatu:3
 
 Library (60 cards)
 Master (12; 1 trifle)

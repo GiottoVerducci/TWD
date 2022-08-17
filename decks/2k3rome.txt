@@ -16,19 +16,19 @@ This deck will be completely shut down by Atonement, so use your
 Hostile Takeover judiciously (a second one will be necessary, when
 this list will be made public).
 
-Crypt (12 cards, min=5, max=16, avg=2.67)
------------------------------------------
-2x Gideon Fontaine	3   PRE				Ventrue:1
-1x Rake			6   PRE aus cel pot	prince	Brujah:1
-1x Violette Prentiss	4   PRE dom			Ventrue:1
-1x Itzahk Levine	3   cel pre			Ventrue:2
-1x Roland Loussarian	3   for pre			Ventrue:1
-1x Uma Hatch		3   cel pre			Brujah:1
-1x Delilah Easton	2   pre				Toreador:1
-1x Frederick the Weak	2   pre				Brujah antitribu:2
-1x Angela Decker	1   pre				Pander:2
-1x Antoinette DuChamp	1   cel pre			Caitiff:2
-1x Igo the Hungry	1   pre pro			Caitiff:1
+Crypt (12 cards, min=5 max=16 avg=2.67)
+---------------------------------------
+2x Gideon Fontaine      3   PRE                         Ventrue:1
+1x Rake                 6   PRE aus cel pot     prince  Brujah:1
+1x Violette Prentiss    4   PRE dom                     Ventrue:1
+1x Itzahk Levine        3   cel pre                     Ventrue:2
+1x Roland Loussarian    3   for pre                     Ventrue:1
+1x Uma Hatch            3   cel pre                     Brujah:1
+1x Delilah Easton       2   pre                         Toreador:1
+1x Frederick the Weak   2   pre                         Brujah antitribu:2
+1x Angela Decker        1   pre                         Pander:2
+1x Antoinette DuChamp   1   cel pre                     Caitiff:2
+1x Igo the Hungry       1   pre pro                     Caitiff:1
 
 Library (90 cards)
 Master (21)

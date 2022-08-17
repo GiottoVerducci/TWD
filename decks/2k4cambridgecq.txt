@@ -4,19 +4,19 @@ May 1st 2004
 19 players
 Anthony Coleman
 
-Crypt (12 cards, min=12, max=28, avg=4.83)
-------------------------------------------
-2x Gratiano			 8   DOM OBT obf pot	priscus	 Lasombra:2
-1x Aurora Van Brande, Paladin	 6   OBT dom for pot		 Lasombra:2
-1x Talley, The Hound		 6   OBT POT aus dom		 Lasombra:2
-1x Banjoko			 5   DOM obt pot		 Lasombra:3
-1x Guido Lucciano		 5   OBT dom obf		 Lasombra:2
-1x Ignacio, The Black Priest	 4   dom obt pot		 Lasombra:2
-1x Ramiro			 4   dom obt vic		 Lasombra:2
-1x Tabitha Fisk			 4   obt pot pro		 Lasombra:3
-1x Cameron			 3   dom pot			 Lasombra:2
-1x Hester Reed			 3   obt pot			 Lasombra:3
-1x Aaron Duggan, Cameron's Toady 2   obt			 Lasombra:2
+Crypt (12 cards, min=12 max=28 avg=4.83)
+----------------------------------------
+2x Gratiano                      8   DOM OBT obf pot    priscus  Lasombra:2
+1x Aurora Van Brande, Paladin    6   OBT dom for pot             Lasombra:2
+1x Talley, The Hound             6   OBT POT aus dom             Lasombra:2
+1x Banjoko                       5   DOM obt pot                 Lasombra:3
+1x Guido Lucciano                5   OBT dom obf                 Lasombra:2
+1x Ignacio, The Black Priest     4   dom obt pot                 Lasombra:2
+1x Ramiro                        4   dom obt vic                 Lasombra:2
+1x Tabitha Fisk                  4   obt pot pro                 Lasombra:3
+1x Cameron                       3   dom pot                     Lasombra:2
+1x Hester Reed                   3   obt pot                     Lasombra:3
+1x Aaron Duggan, Cameron's Toady 2   obt                         Lasombra:2
 
 Library (88 cards)
 Master (18)

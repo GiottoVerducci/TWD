@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/9843
 
 Deck Name: Ghede
 
-Crypt (12 cards, min=4, max=40, avg=6.17)
------------------------------------------
-6x Ghede	  10  FOR OBF POT PRE SER  Follower of Set:6
-2x Abdelsobek	  5   for nec obf pre ser  Follower of Set:5
-2x Anarch Convert 1   -none-		   Caitiff:ANY
-1x Freddy Gage	  1   pot		   Caitiff:5
-1x Walker Grimes  1   ani		   Caitiff:5
+Crypt (12 cards, min=4 max=40 avg=6.17)
+---------------------------------------
+6x Ghede          10  FOR OBF POT PRE SER  Follower of Set:6
+2x Abdelsobek     5   for nec obf pre ser  Follower of Set:5
+2x Anarch Convert 1   -none-               Caitiff:ANY
+1x Freddy Gage    1   pot                  Caitiff:5
+1x Walker Grimes  1   ani                  Caitiff:5
 
 Library (90 cards)
 Master (18; 4 trifle)

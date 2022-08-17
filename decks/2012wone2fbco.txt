@@ -9,17 +9,17 @@ Bob Joseph
 
 Deck Name: temptation2012
 
-Crypt (12 cards, min=12, max=27, avg=5.08)
-------------------------------------------
-2x Qufur am-Heru		7   OBF PRE SER cel tha	 Follower of Set:2
-2x Hesha Ruhadze		6   SER ani obf pre	 Follower of Set:2
-2x Celine Chevalier		3   obf ser		 Follower of Set:2
-1x Sarrasine			7   OBF PRE aus nec ser	 Follower of Set:2
-1x Ezekiel, Lord of Montreal	6   PRE SER obf pot	 Follower of Set:3
-1x Count Ormonde		5   OBF dom pre ser	 Follower of Set:2
-1x Dedefra			5   SER nec obf		 Follower of Set:2
-1x Nepata			4   obf pre ser		 Follower of Set:2
-1x Lalitha			2   ser			 Follower of Set:2
+Crypt (12 cards, min=12 max=27 avg=5.08)
+----------------------------------------
+2x Qufur am-Heru                7   OBF PRE SER cel tha  Follower of Set:2
+2x Hesha Ruhadze                6   SER ani obf pre      Follower of Set:2
+2x Celine Chevalier             3   obf ser              Follower of Set:2
+1x Sarrasine                    7   OBF PRE aus nec ser  Follower of Set:2
+1x Ezekiel, Lord of Montreal    6   PRE SER obf pot      Follower of Set:3
+1x Count Ormonde                5   OBF dom pre ser      Follower of Set:2
+1x Dedefra                      5   SER nec obf          Follower of Set:2
+1x Nepata                       4   obf pre ser          Follower of Set:2
+1x Lalitha                      2   ser                  Follower of Set:2
 
 Library (90 cards)
 Master (15)

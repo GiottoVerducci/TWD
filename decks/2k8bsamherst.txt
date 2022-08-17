@@ -9,18 +9,18 @@ Dane Smith
 
 Deck Name: Lasombra Hyperdrive V3.0
 
-Crypt (12 cards, min=18, max=34, avg=6.5)
------------------------------------------
-1x Lucita			8   DOM FOR OBT cel pot	 	  Lasombra:2
-1x Lucita (ADV)			8   DOM FOR OBT cel pot	 	  Lasombra:2
-2x Julia Prima			7   DOM OBT aus myt	 	  Kiasyd:2
-2x Banjoko			5   DOM obt pot		 	  Lasombra:3
-1x Marcus Vitel			10  DOM FOR OBF OBT PRE	 prince	  Ventrue:3
-1x Gratiano			8   DOM OBT obf pot	 priscus  Lasombra:2
-1x Henri Lavenant		7   DOM OBT pot qui	 	  Lasombra:3
-1x Guido Lucciano		5   OBT dom obf		 	  Lasombra:2
-1x Ignacio, The Black Priest	4   dom obt pot		 	  Lasombra:2
-1x Ramiro			4   dom obt vic		 	  Lasombra:2
+Crypt (12 cards, min=18 max=34 avg=6.5)
+---------------------------------------
+1x Lucita                       8   DOM FOR OBT cel pot           Lasombra:2
+1x Lucita (ADV)                 8   DOM FOR OBT cel pot           Lasombra:2
+2x Julia Prima                  7   DOM OBT aus myt               Kiasyd:2
+2x Banjoko                      5   DOM obt pot                   Lasombra:3
+1x Marcus Vitel                 10  DOM FOR OBF OBT PRE  prince   Ventrue:3
+1x Gratiano                     8   DOM OBT obf pot      priscus  Lasombra:2
+1x Henri Lavenant               7   DOM OBT pot qui               Lasombra:3
+1x Guido Lucciano               5   OBT dom obf                   Lasombra:2
+1x Ignacio, The Black Priest    4   dom obt pot                   Lasombra:2
+1x Ramiro                       4   dom obt vic                   Lasombra:2
 
 Library (90 cards)
 Master (22)

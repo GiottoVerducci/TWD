@@ -9,14 +9,14 @@ Created by: Alexander Båskman
 
 Description: Based on a deck by Jonatan "Hoppe" Sjöberg.
 
-Crypt (12 cards, min=34, max=40, avg=9.25)
-------------------------------------------
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
-2x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
-2x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
-2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
-2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
-1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+Crypt (12 cards, min=34 max=40 avg=9.25)
+----------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
+2x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince      Ventrue:3
+2x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
+2x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
+2x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
+1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
 
 Library (71 cards)
 Master (17; 7 trifle)

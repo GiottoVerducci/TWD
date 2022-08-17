@@ -6,15 +6,15 @@ François Morand
 
 "Tupdog power bleed"
 
-Crypt (25 cards, min=4, max=24, avg=2.36)
------------------------------------------
-16x Tupdog		1    POT VIS	  	  Gargoyle:3
-2x  Reverend Blackwood	6    DOM THA obf  bishop  Tremere antitribu:2
-2x  Selena		6    AUS DOM THA  	  Tremere antitribu:3
-2x  Kurt Strauss	5    DOM aus tha  	  Tremere antitribu:2
-1x  Brooke		3    dom tha	  	  Tremere antitribu:2
-1x  Ember Wright	3    aus dom	  	  Tremere antitribu:3
-1x  Saiz		3    aus dom	  	  Tremere antitribu:3
+Crypt (25 cards, min=4 max=24 avg=2.36)
+---------------------------------------
+16x Tupdog              1    POT VIS              Gargoyle:3
+2x  Reverend Blackwood  6    DOM THA obf  bishop  Tremere antitribu:2
+2x  Selena              6    AUS DOM THA          Tremere antitribu:3
+2x  Kurt Strauss        5    DOM aus tha          Tremere antitribu:2
+1x  Brooke              3    dom tha              Tremere antitribu:2
+1x  Ember Wright        3    aus dom              Tremere antitribu:3
+1x  Saiz                3    aus dom              Tremere antitribu:3
 
 Library (76 cards)
 Master (14)

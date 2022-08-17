@@ -29,14 +29,14 @@ used a Voter Cap), but bleeding worked fairly well. I also never saw a duplicate
 vampire in a game, which is often a problem with this crypt, and it also helped
 that I didn't see any other Toreador decks."
 
-Crypt (12 cards, min=26, max=42, avg=9)
----------------------------------------
-2x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
-2x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
-2x Masika	   10  AUS CEL PRE		primogen	Toreador:1
-2x Anson	   8   CEL PRE aus dom		prince		Toreador:1
-2x Felicia Mostrom 5   AUS CEL pre				Toreador:1
+Crypt (12 cards, min=26 max=42 avg=9)
+-------------------------------------
+2x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+2x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+2x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+2x Masika          10  AUS CEL PRE              primogen        Toreador:1
+2x Anson           8   CEL PRE aus dom          prince          Toreador:1
+2x Felicia Mostrom 5   AUS CEL pre                              Toreador:1
 
 Library (90 cards)
 Master (23)

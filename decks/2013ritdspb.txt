@@ -7,18 +7,18 @@ Francisco Mantovanini Carvalho
 
 Deck Name: Power to the People
 
-Crypt (12 cards, min=4, max=16, avg=2.33)
------------------------------------------
-3x Anarch Convert	1   -none-	Caitiff:ANY
-1x Loonar		4   PRE cel	Toreador antitribu:4
-1x Lumumba		4   PRE ani	Guruhi:4
-1x Marla Kenyon		4   PRE ser	Follower of Set:4
-1x Reverend Adams (ADV)	4   PRE aus	Ventrue:4
-1x Dr. Solomon Grey	2   dom pre	Caitiff:5
-1x Honest Abe		2   pre		Brujah:5
-1x Jayne Jonestown	2   PRE		Brujah antitribu:4
-1x Mary Johnson		2   for pre	Pander:4
-1x Dirk			1   pre		Caitiff:4
+Crypt (12 cards, min=4 max=16 avg=2.33)
+---------------------------------------
+3x Anarch Convert       1   -none-      Caitiff:ANY
+1x Loonar               4   PRE cel     Toreador antitribu:4
+1x Lumumba              4   PRE ani     Guruhi:4
+1x Marla Kenyon         4   PRE ser     Follower of Set:4
+1x Reverend Adams (ADV) 4   PRE aus     Ventrue:4
+1x Dr. Solomon Grey     2   dom pre     Caitiff:5
+1x Honest Abe           2   pre         Brujah:5
+1x Jayne Jonestown      2   PRE         Brujah antitribu:4
+1x Mary Johnson         2   for pre     Pander:4
+1x Dirk                 1   pre         Caitiff:4
 
 Library (70 cards)
 Master (20; 8 trifle)

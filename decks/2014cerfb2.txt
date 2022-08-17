@@ -12,12 +12,12 @@ Deck Name: Ravnos-Ivan Dominador
 
 Description: Equipado até os dentes.
 
-Crypt (12 cards, min=30, max=40, avg=8.75)
-------------------------------------------
-4x Ivan Krenyenko		  10  ANI CHI FOR POT obf  Ravnos:2
-4x Gabrin			  8   ANI CHI dom for	   Ravnos:2
+Crypt (12 cards, min=30 max=40 avg=8.75)
+----------------------------------------
+4x Ivan Krenyenko                 10  ANI CHI FOR POT obf  Ravnos:2
+4x Gabrin                         8   ANI CHI dom for      Ravnos:2
 3x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom  Ravnos:2
-1x Sarisha Veliku		  6   ANI FOR chi dom	   Ravnos:2
+1x Sarisha Veliku                 6   ANI FOR chi dom      Ravnos:2
 
 Library (90 cards)
 Master (17; 5 trifle)

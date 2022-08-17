@@ -10,15 +10,15 @@ Created by: Orian Gissler, basis from Sir Anthony Coleman
 
 2nd in rounds 2GW4.5 - gw3 in final
 
-Crypt (12 cards, min=13, max=24, avg=4.83)
-------------------------------------------
-5x Tsunda			6   CHI abo ani dem	magaji	Ravnos:4
-2x Paul Forrest, False Prophet	5   chi for pre			Ravnos:4
-1x Callirus			5   CHI FOR ani			Ravnos:4
-1x Devyn			4   ani chi pre			Ravnos:4
-1x Gharston Roland		4   CHI ani pot			Ravnos:4
-1x Marion French		3   ani chi			Ravnos:4
-1x Zip				2   ani				Ravnos:3
+Crypt (12 cards, min=13 max=24 avg=4.83)
+----------------------------------------
+5x Tsunda                       6   CHI abo ani dem     magaji  Ravnos:4
+2x Paul Forrest, False Prophet  5   chi for pre                 Ravnos:4
+1x Callirus                     5   CHI FOR ani                 Ravnos:4
+1x Devyn                        4   ani chi pre                 Ravnos:4
+1x Gharston Roland              4   CHI ani pot                 Ravnos:4
+1x Marion French                3   ani chi                     Ravnos:4
+1x Zip                          2   ani                         Ravnos:3
 
 Library (68 cards)
 Master (12; 3 trifle)

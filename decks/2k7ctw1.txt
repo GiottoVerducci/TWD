@@ -20,15 +20,15 @@ tooled up Joaquin Murietta with 1 blood. I intended to
 include a Giant's Blood, but didn't find one before the
 tournament. Govern at DOM + freak drive + Scouting at DOM = fun.
 
-Crypt (12 cards, min=25, max=40, avg=8.08)
-------------------------------------------
-4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
-3x Owain Evans, The Wanderer	 8   AUS DOM FOR cel pre  		Ventrue antitribu:3
-1x Gustav Mallenhous		 8   AUS DOM for obt	  priscus	Ventrue antitribu:2
-1x Jesse Menks			 8   AUS DOM FOR ani	  archbishop	Ventrue antitribu:3
-1x Blackhorse Tanner		 7   AUS DOM FOR	  		Ventrue antitribu:3
-1x Joseph O'Grady		 7   DOM FOR aus cel	  		Ventrue antitribu:3
-1x Sister Evelyn		 3   aus dom		  		Ventrue antitribu:3
+Crypt (12 cards, min=25 max=40 avg=8.08)
+----------------------------------------
+4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop    Ventrue antitribu:2
+3x Owain Evans, The Wanderer     8   AUS DOM FOR cel pre                Ventrue antitribu:3
+1x Gustav Mallenhous             8   AUS DOM for obt      priscus       Ventrue antitribu:2
+1x Jesse Menks                   8   AUS DOM FOR ani      archbishop    Ventrue antitribu:3
+1x Blackhorse Tanner             7   AUS DOM FOR                        Ventrue antitribu:3
+1x Joseph O'Grady                7   DOM FOR aus cel                    Ventrue antitribu:3
+1x Sister Evelyn                 3   aus dom                            Ventrue antitribu:3
 
 Library (90 cards)
 Master (17)

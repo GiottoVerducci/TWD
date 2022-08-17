@@ -11,19 +11,19 @@ Deck Name: T'es une fille et tu n'as pas de shampoing
 
 (You're a girl and you don't have any shampoo)
 
-Crypt (12 cards, min=22, max=32, avg=6.75)
-------------------------------------------
-2x Victor Pelletier		5   PRE cel dom for	 	 Ventrue:4
-1x Carlak			8   CEL PRE dom pot	 prince	 Brujah:5
-1x Epikasta Rigatos		8   AUS DOM PRE cel	 prince	 Toreador:4
-1x Giangaleazzo, The Traitor	8   OBT POT PRE dom	 prince	 Lasombra:4
-1x Lodin (Olaf Holte)		8   DOM FOR PRE aus pro	 prince	 Ventrue:5
-1x Graham Gottesman		7   DOM FOR obf pre tha	 prince	 Ventrue:5
-1x Karen Suadela		7   CEL POT obf pre	 prince	 Brujah:5
-1x Mukhtar Bey			7   FOR PRE QUI obf pot	 prince	 Caitiff:4
-1x Mustafa, The Heir		6   FOR PRE cel dom	 prince	 Ventrue:4
-1x Tara				6   POT PRE cel		 prince	 Brujah:5
-1x Victor Donaldson		6   DOM for pre		 prince	 Ventrue:5
+Crypt (12 cards, min=22 max=32 avg=6.75)
+----------------------------------------
+2x Victor Pelletier             5   PRE cel dom for              Ventrue:4
+1x Carlak                       8   CEL PRE dom pot      prince  Brujah:5
+1x Epikasta Rigatos             8   AUS DOM PRE cel      prince  Toreador:4
+1x Giangaleazzo, The Traitor    8   OBT POT PRE dom      prince  Lasombra:4
+1x Lodin (Olaf Holte)           8   DOM FOR PRE aus pro  prince  Ventrue:5
+1x Graham Gottesman             7   DOM FOR obf pre tha  prince  Ventrue:5
+1x Karen Suadela                7   CEL POT obf pre      prince  Brujah:5
+1x Mukhtar Bey                  7   FOR PRE QUI obf pot  prince  Caitiff:4
+1x Mustafa, The Heir            6   FOR PRE cel dom      prince  Ventrue:4
+1x Tara                         6   POT PRE cel          prince  Brujah:5
+1x Victor Donaldson             6   DOM for pre          prince  Ventrue:5
 
 Library (60 cards)
 Master (12)

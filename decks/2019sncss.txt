@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/9236
 
 ALL HAIL SATAN /// HUITZILOPOCHTLI till svenska mästerskapen 2019 v 4.1
 
-Crypt (13 cards, min=11, max=40, avg=6.92)
-------------------------------------------
-5x Huitzilopochtli	    10	AUS DAI DOM OBF POT PRE	 Baali:2
-4x Giotto Verducci	    7	DAI OBF for pot pre	 Baali:2
-2x Anarch Convert	    1	-none-			 Caitiff:ANY
-1x High Priest Angra Mainyu 8	DAI OBF PRE dem ser	 Baali:2
-1x New Blood		    2	san			 Blood Brother:ANY
+Crypt (13 cards, min=11 max=40 avg=6.92)
+----------------------------------------
+5x Huitzilopochtli          10  AUS DAI DOM OBF POT PRE  Baali:2
+4x Giotto Verducci          7   DAI OBF for pot pre      Baali:2
+2x Anarch Convert           1   -none-                   Caitiff:ANY
+1x High Priest Angra Mainyu 8   DAI OBF PRE dem ser      Baali:2
+1x New Blood                2   san                      Blood Brother:ANY
 
 Library (72 cards)
 Master (34; 7 trifle)

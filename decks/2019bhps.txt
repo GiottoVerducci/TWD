@@ -10,20 +10,20 @@ https://www.vekn.net/event-calendar/event/9478
 
 Deck Name: Malki old
 
-Crypt (12 cards, min=13, max=32, avg=5.75)
-------------------------------------------
-1x Santaleous			9   AUS CEL DEM OBF	 	   Malkavian:5
-1x Bloody Mary			8   AUS DEM OBF pre	 primogen  Malkavian:5
-1x Persephone Tar-Anis		8   AUS DEM OBF cel pot	 	   Malkavian antitribu:4
-1x Apolonia Czarnecki		7   AUS DEM OBF pre	 	   Malkavian:5
-1x Osric Vladislav		7   AUS DEM OBF cel	 	   Malkavian:5
-1x Hagar Stone			6   AUS DEM obf		 	   Malkavian antitribu:5
-1x Morel			6   AUS DEM OBF		 	   Malkavian:4
-1x Apache Jones			5   DEM aus for obf	 	   Malkavian antitribu:4
-1x Arthur Denholm		5   AUS DEM obf		 	   Malkavian:5
-1x Bela				3   DEM ani obf pro	 	   Malkavian:5
-1x Jackie			3   DEM			 	   Malkavian antitribu:4
-1x Cassandra Langely, The Waif	2   dem			 	   Malkavian:4
+Crypt (12 cards, min=13 max=32 avg=5.75)
+----------------------------------------
+1x Santaleous                   9   AUS CEL DEM OBF                Malkavian:5
+1x Bloody Mary                  8   AUS DEM OBF pre      primogen  Malkavian:5
+1x Persephone Tar-Anis          8   AUS DEM OBF cel pot            Malkavian antitribu:4
+1x Apolonia Czarnecki           7   AUS DEM OBF pre                Malkavian:5
+1x Osric Vladislav              7   AUS DEM OBF cel                Malkavian:5
+1x Hagar Stone                  6   AUS DEM obf                    Malkavian antitribu:5
+1x Morel                        6   AUS DEM OBF                    Malkavian:4
+1x Apache Jones                 5   DEM aus for obf                Malkavian antitribu:4
+1x Arthur Denholm               5   AUS DEM obf                    Malkavian:5
+1x Bela                         3   DEM ani obf pro                Malkavian:5
+1x Jackie                       3   DEM                            Malkavian antitribu:4
+1x Cassandra Langely, The Waif  2   dem                            Malkavian:4
 
 Library (74 cards)
 Master (6; 1 trifle)

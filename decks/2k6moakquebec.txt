@@ -10,11 +10,11 @@ This is a swarm Ravnos deck with a twist of Laibon & Boons (Tumnimos
 made by Tsunda are Laibon). Powerbase: Tshwane is very good & The
 Eldest are Kholo used for boons and vote defence
 
-Crypt (12 cards, min=20, max=28, avg=6)
----------------------------------------
-4x Mata Hari			7   CHI OBF aus for qui	 2 votes  Ravnos:4
-4x Tsunda			6   CHI abo ani dem	 magaji	  Ravnos:4
-4x Paul Forrest, False Prophet	5   chi for pre		 	  Ravnos:4
+Crypt (12 cards, min=20 max=28 avg=6)
+-------------------------------------
+4x Mata Hari                    7   CHI OBF aus for qui  2 votes  Ravnos:4
+4x Tsunda                       6   CHI abo ani dem      magaji   Ravnos:4
+4x Paul Forrest, False Prophet  5   chi for pre                   Ravnos:4
 
 Library (90 cards)
 Master (38)

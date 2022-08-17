@@ -7,18 +7,18 @@ Balázs Kalóczkai
 
 Deck Name: Fast Sticks
 
-Crypt (12 cards, min=7, max=22, avg=3.67)
------------------------------------------
-2x Miguel Santo Domingo	  7   POT PRE cel for	Brujah antitribu:3
-2x Parmenides		  4   CEL qui		Assamite:2
-1x Jimmy Dunn		  4   CEL POT for	Pander:2
-1x Scarlet Carson O'Toole 4   CEL pro		Gangrel antitribu:3
-1x Victor Tolliver	  4   CEL pot		Brujah antitribu:2
-1x Sarah Brando		  3   CEL		Brujah antitribu:2
-1x Carter		  2   cel		Toreador antitribu:2
-1x Jesús Alcalá		  2   cel		Gangrel antitribu:3
-1x Kanya Akhtar		  2   cel		Assamite:2
-1x Antoinette DuChamp	  1   cel pre		Caitiff:2
+Crypt (12 cards, min=7 max=22 avg=3.67)
+---------------------------------------
+2x Miguel Santo Domingo   7   POT PRE cel for   Brujah antitribu:3
+2x Parmenides             4   CEL qui           Assamite:2
+1x Jimmy Dunn             4   CEL POT for       Pander:2
+1x Scarlet Carson O'Toole 4   CEL pro           Gangrel antitribu:3
+1x Victor Tolliver        4   CEL pot           Brujah antitribu:2
+1x Sarah Brando           3   CEL               Brujah antitribu:2
+1x Carter                 2   cel               Toreador antitribu:2
+1x Jesús Alcalá           2   cel               Gangrel antitribu:3
+1x Kanya Akhtar           2   cel               Assamite:2
+1x Antoinette DuChamp     1   cel pre           Caitiff:2
 
 Library (90 cards)
 Master (15; 4 trifle)

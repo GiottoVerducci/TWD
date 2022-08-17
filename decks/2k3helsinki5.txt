@@ -22,13 +22,13 @@ Shifts.
 The deck placed second in Crusade: Helsinki IV, and first in Crusade:
 Helsinki V
 
-Crypt (12 cards, min=28, max=44, avg=8.83)
-------------------------------------------
-4x Harrod			11  ANI CEL OBF POT aus pre	inner circle	Nosferatu:2
-2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for		justicar	Nosferatu:1
-2x Selma the Repugnant		8   OBF POT ani for		prince		Nosferatu:1
-2x Murat			7   OBF POT ser			prince		Nosferatu:2
-2x Nikolaus Vermeulen		7   POT ani for obf		prince		Nosferatu:2
+Crypt (12 cards, min=28 max=44 avg=8.83)
+----------------------------------------
+4x Harrod                       11  ANI CEL OBF POT aus pre     inner circle    Nosferatu:2
+2x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for         justicar        Nosferatu:1
+2x Selma the Repugnant          8   OBF POT ani for             prince          Nosferatu:1
+2x Murat                        7   OBF POT ser                 prince          Nosferatu:2
+2x Nikolaus Vermeulen           7   POT ani for obf             prince          Nosferatu:2
 
 Library (90 cards)
 Master (20)

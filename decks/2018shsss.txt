@@ -12,16 +12,16 @@ Deck Name: Ringu
 
 AKA "Gifta på låtsas" or "I want half, Eddie!", could use one or two more Will-o'-the-Wisp
 
-Crypt (13 cards, min=10, max=32, avg=5.08)
-------------------------------------------
-4x Gabrin			8   ANI CHI dom for	Ravnos:2
-2x Khalil Ravana		5   CHI ani for pre	Ravnos:2
-2x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
-1x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
-1x Tsigane			3   aus chi		Ravnos:2
-1x Vedel Esbreno		3   chi for		Ravnos:2
-1x Sasha Miklos			2   chi			Ravnos:2
-1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+Crypt (13 cards, min=10 max=32 avg=5.08)
+----------------------------------------
+4x Gabrin                       8   ANI CHI dom for     Ravnos:2
+2x Khalil Ravana                5   CHI ani for pre     Ravnos:2
+2x Salbatore Bokkengro          4   CHI for pro         Ravnos:2
+1x Joaquina Amaya               6   ANI CHI FOR         Ravnos:2
+1x Tsigane                      3   aus chi             Ravnos:2
+1x Vedel Esbreno                3   chi for             Ravnos:2
+1x Sasha Miklos                 2   chi                 Ravnos:2
+1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
 
 Library (69 cards)
 Master (14; 3 trifle)

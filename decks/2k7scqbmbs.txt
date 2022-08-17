@@ -6,15 +6,15 @@ Imanol López
 
 Deck Name: Amaravati & Co.
 
-Crypt (12 cards, min=9, max=32, avg=5.33)
------------------------------------------
-5x Amaravati		8   DOM OBF QUI ani chi	 Assamite:4
-2x Basir		1   qui			 Assamite:4
-1x Black Lotus		5   DOM aus obf ser	 Follower of Set:4
-1x Catherine du Bois	5   DOM for obf pre	 Ventrue:3
-1x Michael diCarlo	5   CEL obf qui		 Assamite:4
-1x Kamau Jafari		4   QUI obf		 Assamite:4
-1x Ali Kar		3   obf qui		 Assamite:3
+Crypt (12 cards, min=9 max=32 avg=5.33)
+---------------------------------------
+5x Amaravati            8   DOM OBF QUI ani chi  Assamite:4
+2x Basir                1   qui                  Assamite:4
+1x Black Lotus          5   DOM aus obf ser      Follower of Set:4
+1x Catherine du Bois    5   DOM for obf pre      Ventrue:3
+1x Michael diCarlo      5   CEL obf qui          Assamite:4
+1x Kamau Jafari         4   QUI obf              Assamite:4
+1x Ali Kar              3   obf qui              Assamite:3
 
 Library (90 cards)
 Master (15)

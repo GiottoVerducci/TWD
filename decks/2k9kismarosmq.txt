@@ -11,15 +11,15 @@ Deck Name: Broken Brujahs
 
 Description: Alastor based bruise and vote
 
-Crypt (12 cards, min=14, max=36, avg=6.33)
-------------------------------------------
-4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
-2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
-2x Tara		   6   POT PRE cel	    prince	Brujah:5
-1x Herbert Westin  5   OBF PRE pot	    		Brujah:4
-1x Reginald Moore  4   PRE		    primogen	Brujah:4
-1x Garret	   3   pot pre		    		Brujah:4
-1x Honest Abe	   2   pre		    		Brujah:5
+Crypt (12 cards, min=14 max=36 avg=6.33)
+----------------------------------------
+4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar    Brujah:5
+2x Karen Suadela   7   CEL POT obf pre      prince      Brujah:5
+2x Tara            6   POT PRE cel          prince      Brujah:5
+1x Herbert Westin  5   OBF PRE pot                      Brujah:4
+1x Reginald Moore  4   PRE                  primogen    Brujah:4
+1x Garret          3   pot pre                          Brujah:4
+1x Honest Abe      2   pre                              Brujah:5
 
 Library (90 cards)
 Master (14; 7 trifle)

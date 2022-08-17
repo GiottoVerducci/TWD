@@ -7,14 +7,14 @@ Mark Loughman
 
 ist: Blind Squirrel
 
-Crypt (12 cards, min=14, max=28, avg=5.33)
-------------------------------------------
-4x Tariq, The Silent	   7   AUS FOR OBF QUI cel  	    Assamite:2
-1x Tariq, The Silent (ADV) 7   AUS FOR OBF QUI cel  	    Assamite:2
-2x Kisha Bhimji		   5   AUS cel obf pot	    magaji  Osebo:3
-2x Victoria		   5   AUS cel obf	    	    Malkavian:2
-2x Zöe			   3   AUS cel obf	    	    Malkavian:2
-1x Martin Franckel	   3   AUS tha		    	    Tremere:3
+Crypt (12 cards, min=14 max=28 avg=5.33)
+----------------------------------------
+4x Tariq, The Silent       7   AUS FOR OBF QUI cel          Assamite:2
+1x Tariq, The Silent (ADV) 7   AUS FOR OBF QUI cel          Assamite:2
+2x Kisha Bhimji            5   AUS cel obf pot      magaji  Osebo:3
+2x Victoria                5   AUS cel obf                  Malkavian:2
+2x Zöe                     3   AUS cel obf                  Malkavian:2
+1x Martin Franckel         3   AUS tha                      Tremere:3
 
 Library (89 cards)
 Master (12)

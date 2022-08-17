@@ -6,15 +6,15 @@ Jay Kristoff
 
 Deck Name: Brujah Home Invasion
 
-Crypt (12 cards, min=8, max=20, avg=3.33)
------------------------------------------
-2x Marlena				5   POT cel pre	 	 Brujah:3
-2x Volker, The Puppet Prince		5   CEL pot	 prince	 Brujah:2
-2x Raziya Samater			3   ani pot	 	 Brujah:2
-2x Arnold Simpson			2   pot		 	 Brujah:3
-2x Vasilis, The Traitor of Don Cruez	2   pre		 	 Brujah:2
-1x Gengis				3   aus cel pot	 	 Brujah:3
-1x Mazz					3   cel pre	 	 Brujah:3
+Crypt (12 cards, min=8 max=20 avg=3.33)
+---------------------------------------
+2x Marlena                              5   POT cel pre          Brujah:3
+2x Volker, The Puppet Prince            5   CEL pot      prince  Brujah:2
+2x Raziya Samater                       3   ani pot              Brujah:2
+2x Arnold Simpson                       2   pot                  Brujah:3
+2x Vasilis, The Traitor of Don Cruez    2   pre                  Brujah:2
+1x Gengis                               3   aus cel pot          Brujah:3
+1x Mazz                                 3   cel pre              Brujah:3
 
 Library (60 cards)
 Master (10)

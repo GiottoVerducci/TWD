@@ -10,16 +10,16 @@ Description: Toreador! swarm bleed & bloat with War Ghouls module.
 Deck is lightly modified version of winning Menú "Paella y Tortilla de
 Patata" by Iñaki Puigdollers
 
-Crypt (12 cards, min=15, max=23, avg=4.83)
-------------------------------------------
-3x Rose, The			5   PRE VIC aus		Tzimisce:3
-2x Jost Werner			6   AUS PRE ani		Toreador antitribu:2
-2x Creamy Jade			5   PRE aus cel vic	Toreador antitribu:3
-1x Sheila Mezarin		6   AUS PRE cel for	Toreador antitribu:2
-1x Mercy, Knight Inquisitor	5   AUS cel dom pre	Toreador antitribu:2
-1x Lolita Houston		4   VIC aus		Tzimisce:2
-1x Remilliard, Devout Crusader	4   AUS pre		Toreador antitribu:2
-1x Horatio			2   vic			Tzimisce:2
+Crypt (12 cards, min=15 max=23 avg=4.83)
+----------------------------------------
+3x Rose, The                    5   PRE VIC aus         Tzimisce:3
+2x Jost Werner                  6   AUS PRE ani         Toreador antitribu:2
+2x Creamy Jade                  5   PRE aus cel vic     Toreador antitribu:3
+1x Sheila Mezarin               6   AUS PRE cel for     Toreador antitribu:2
+1x Mercy, Knight Inquisitor     5   AUS cel dom pre     Toreador antitribu:2
+1x Lolita Houston               4   VIC aus             Tzimisce:2
+1x Remilliard, Devout Crusader  4   AUS pre             Toreador antitribu:2
+1x Horatio                      2   vic                 Tzimisce:2
 
 Library (90 cards)
 Master (16)

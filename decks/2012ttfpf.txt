@@ -12,15 +12,15 @@ Deck Name: C'est de la part de Stone
 
 Description: Looks like 1 fame disappeared during the previous tournament.
 
-Crypt (12 cards, min=18, max=43, avg=8)
----------------------------------------
-3x Fakir al Sidi   11  ANI FOR PRE PRO THA abo	Gangrel:4
-3x Nana Buruku	   8   ANI POT PRE		Guruhi:4
-2x Mictlantecuhtli 10  ANI FOR POT THA pre pro	Gangrel:5
-1x Aksinya Daclau  9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
-1x Jezebelle	   4   ani for pro		Gangrel:4
-1x Lillian	   3   ani pro			Gangrel:5
-1x Lula Burch	   3   for pro			Gangrel antitribu:4
+Crypt (12 cards, min=18 max=43 avg=8)
+-------------------------------------
+3x Fakir al Sidi   11  ANI FOR PRE PRO THA abo  Gangrel:4
+3x Nana Buruku     8   ANI POT PRE              Guruhi:4
+2x Mictlantecuhtli 10  ANI FOR POT THA pre pro  Gangrel:5
+1x Aksinya Daclau  9   ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+1x Jezebelle       4   ani for pro              Gangrel:4
+1x Lillian         3   ani pro                  Gangrel:5
+1x Lula Burch      3   for pro                  Gangrel antitribu:4
 
 Library (89 cards)
 Master (26; 9 trifle)

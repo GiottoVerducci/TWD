@@ -8,15 +8,15 @@ Deck Name: Welcome to Valhalla
 
 Description: Torvus/Gangrel combat
 
-Crypt (12 cards, min=22, max=38, avg=7.67)
-------------------------------------------
-3x Torvus Bloodbeard	9   ANI FOR OBF PRO pot			 Gangrel:3
-2x Xaviar		10  ANI FOR PRO aus cel pot	2 votes	 Gangrel:3
-2x Brunhilde		8   ANI FOR PRO pre			 Gangrel:3
-2x Ryder		7   FOR PRO ani pot			 Gangrel:4
-1x Horrock		6   ANI PRO vic				 Gangrel:3
-1x Céleste Lamontagne	5   ANI PRO for				 Gangrel antitribu:4
-1x Bobby Lemon		4   ANI pro				 Gangrel:3
+Crypt (12 cards, min=22 max=38 avg=7.67)
+----------------------------------------
+3x Torvus Bloodbeard    9   ANI FOR OBF PRO pot                  Gangrel:3
+2x Xaviar               10  ANI FOR PRO aus cel pot     2 votes  Gangrel:3
+2x Brunhilde            8   ANI FOR PRO pre                      Gangrel:3
+2x Ryder                7   FOR PRO ani pot                      Gangrel:4
+1x Horrock              6   ANI PRO vic                          Gangrel:3
+1x Céleste Lamontagne   5   ANI PRO for                          Gangrel antitribu:4
+1x Bobby Lemon          4   ANI pro                              Gangrel:3
 
 Library (90 cards)
 Master (12)

@@ -16,14 +16,14 @@ and to Darkwood Manor for hosting it.
 
 Jay Kristoff, V:EKN Prince of Columbus, Ohio USA
 
-Crypt (12 cards, min=20, max=35, avg=7.08)
-------------------------------------------
-3x Marconius		9   DOM MYT OBT pot	 archbishop	Kiasyd:2
-3x Bartholomew		8   AUS MYT NEC dom obt	 		Kiasyd:2
-2x Julia Prima		7   DOM OBT aus myt	 		Kiasyd:2
-2x Béatrice L'Angou	5   MYT aus dom nec	 		Kiasyd:2
-1x Kassiym Malikhair	6   MYT OBT dom for	 		Kiasyd:2
-1x Quincy, The Trapper	4   dom myt obt		 		Kiasyd:3
+Crypt (12 cards, min=20 max=35 avg=7.08)
+----------------------------------------
+3x Marconius            9   DOM MYT OBT pot      archbishop     Kiasyd:2
+3x Bartholomew          8   AUS MYT NEC dom obt                 Kiasyd:2
+2x Julia Prima          7   DOM OBT aus myt                     Kiasyd:2
+2x Béatrice L'Angou     5   MYT aus dom nec                     Kiasyd:2
+1x Kassiym Malikhair    6   MYT OBT dom for                     Kiasyd:2
+1x Quincy, The Trapper  4   dom myt obt                         Kiasyd:3
 
 Library (90 cards)
 Master (14)

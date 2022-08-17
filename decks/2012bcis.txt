@@ -16,16 +16,16 @@ changes from tournaments:
 5 zillah's valley removed
 2 target vitals, 1 js, 1 tasha and 1 psyche added
 
-Crypt (12 cards, min=19, max=40, avg=7.58)
-------------------------------------------
-4x Dmitri Borodin 10  AUS CEL NEC QUI obf		Assamite:4
-2x Massassi	  9   AUS CEL POT QUI obf		Osebo:4
-1x Kabede Maru	  9   AUS CEL OBF QUI abo pot	magaji	Assamite:5
-1x Arthur Denholm 5   AUS DEM obf			Malkavian:5
-1x Frondator	  5   AUS dom tha		bishop	Tremere antitribu:4
-1x Neighbor John  5   AUS dom for			Ventrue antitribu:4
-1x Titi Camara	  5   AUS CEL pot			Osebo:5
-1x Tyler McGill	  4   AUS pre				Toreador:5
+Crypt (12 cards, min=19 max=40 avg=7.58)
+----------------------------------------
+4x Dmitri Borodin 10  AUS CEL NEC QUI obf               Assamite:4
+2x Massassi       9   AUS CEL POT QUI obf               Osebo:4
+1x Kabede Maru    9   AUS CEL OBF QUI abo pot   magaji  Assamite:5
+1x Arthur Denholm 5   AUS DEM obf                       Malkavian:5
+1x Frondator      5   AUS dom tha               bishop  Tremere antitribu:4
+1x Neighbor John  5   AUS dom for                       Ventrue antitribu:4
+1x Titi Camara    5   AUS CEL pot                       Osebo:5
+1x Tyler McGill   4   AUS pre                           Toreador:5
 
 Library (81 cards)
 Master (17; 4 trifle)

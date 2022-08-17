@@ -13,12 +13,12 @@ This, of course, was to my advantage, since killing a big-cap cripples someone t
 
 Description: Derange vamps, give them some much-needed Dementia and have them climb the Social Ladder.
 
-Crypt (12 cards, min=36, max=44, avg=9.92)
-------------------------------------------
-4x Leandro	    11	AUS OBF PRE cel dom	inner circle	Malkavian:2
-3x Esau		    10	AUS DEM DOM OBF PRE			Malkavian:3
-3x Maris Streck	    9	AUS OBF ani dem dom	justicar	Malkavian:3
-2x William Biltmore 9	AUS DEM OBF THA dom			Malkavian:3
+Crypt (12 cards, min=36 max=44 avg=9.92)
+----------------------------------------
+4x Leandro          11  AUS OBF PRE cel dom     inner circle    Malkavian:2
+3x Esau             10  AUS DEM DOM OBF PRE                     Malkavian:3
+3x Maris Streck     9   AUS OBF ani dem dom     justicar        Malkavian:3
+2x William Biltmore 9   AUS DEM OBF THA dom                     Malkavian:3
 
 Library (83 cards)
 Master (28)

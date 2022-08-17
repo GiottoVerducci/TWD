@@ -9,13 +9,13 @@ Fletcher Gibson
 
 Army of Darkness
 
-Crypt (12 cards, min=20, max=34, avg=6.67)
-------------------------------------------
-4x Lithrac			 5   OBF for thn	  	   Samedi:2
-2x Baron, The			 9   FOR NEC OBF THN dom  2 votes  Samedi:2
-2x Reg Driscoll			 8   OBF THN aus for pre  	   Samedi:2
-2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec  	   Samedi:2
-2x George Frederick		 6   FOR THN nec obf	  	   Samedi:2
+Crypt (12 cards, min=20 max=34 avg=6.67)
+----------------------------------------
+4x Lithrac                       5   OBF for thn                   Samedi:2
+2x Baron, The                    9   FOR NEC OBF THN dom  2 votes  Samedi:2
+2x Reg Driscoll                  8   OBF THN aus for pre           Samedi:2
+2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec           Samedi:2
+2x George Frederick              6   FOR THN nec obf               Samedi:2
 
 Library (90 cards)
 Master (20; 3 trifle)

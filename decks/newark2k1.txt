@@ -5,16 +5,16 @@ Brian Shafer
 
 "Aerial Attack"
 
-Crypt (12 cards, min=20, max=40, avg=7.67)
-------------------------------------------
-2x Wynn			10  ANI FOR PRO obf pot	 primogen	Gangrel:1
-2x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
-2x Haakon Mortensen	8   ANI FOR PRO		 		Gangrel antitribu:2
-2x Gitane St. Claire	7   ANI FOR PRO		 primogen	Gangrel:1
-1x Camille Devereux	5   FOR PRO ani		 		Gangrel:1
-1x Raven		5   FOR PRO ani		 		Gangrel:1
-1x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
-1x Leon			3   ani for		 		Gangrel antitribu:2
+Crypt (12 cards, min=20 max=40 avg=7.67)
+----------------------------------------
+2x Wynn                 10  ANI FOR PRO obf pot  primogen       Gangrel:1
+2x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
+2x Haakon Mortensen     8   ANI FOR PRO                         Gangrel antitribu:2
+2x Gitane St. Claire    7   ANI FOR PRO          primogen       Gangrel:1
+1x Camille Devereux     5   FOR PRO ani                         Gangrel:1
+1x Raven                5   FOR PRO ani                         Gangrel:1
+1x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
+1x Leon                 3   ani for                             Gangrel antitribu:2
 
 Library (90 cards)
 Master (15)

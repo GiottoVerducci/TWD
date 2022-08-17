@@ -7,14 +7,14 @@ Peter Oh
 
 Deck Name: Howler Gets Married
 
-Crypt (12 cards, min=15, max=32, avg=6.08)
-------------------------------------------
-4x Howler	  8   ANI PRE SPI obf	   Ahrimane:2
-2x Siamese, The	  7   PRE SPI ani pro	   Ahrimane:2
-2x Cynthia Ingold 6   SPI ani for pre	   Ahrimane:2
-2x Bobby Lemon	  4   ANI pro		   Gangrel:3
-1x Nettie Hale	  5   ani cel pre pro spi  Ahrimane:2
-1x Zip		  2   ani		   Ravnos:3
+Crypt (12 cards, min=15 max=32 avg=6.08)
+----------------------------------------
+4x Howler         8   ANI PRE SPI obf      Ahrimane:2
+2x Siamese, The   7   PRE SPI ani pro      Ahrimane:2
+2x Cynthia Ingold 6   SPI ani for pre      Ahrimane:2
+2x Bobby Lemon    4   ANI pro              Gangrel:3
+1x Nettie Hale    5   ani cel pre pro spi  Ahrimane:2
+1x Zip            2   ani                  Ravnos:3
 
 Library (84 cards)
 Master (12)

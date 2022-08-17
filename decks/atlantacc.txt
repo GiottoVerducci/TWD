@@ -11,18 +11,18 @@ Description: OBF, Minion Tap/5th, Computer Hack.
 Thrown Gate for combat defense.
 Ancilla Empowerment to whack the weenie decks.
 
-Crypt (12 cards, min=11, max=35, avg=6.17)
-------------------------------------------
-2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
-2x Carlotta Giovanni		7   NEC POT dom obf	 	   Giovanni:2
-1x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
-1x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
-1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
-1x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
-1x Agrippina			4   OBF pot		 	   Nosferatu:1
-1x Duck				3   obf pot		 	   Nosferatu:1
-1x Dimple			2   obf			 	   Nosferatu:1
-1x Normal			2   obf			 	   Malkavian:1
+Crypt (12 cards, min=11 max=35 avg=6.17)
+----------------------------------------
+2x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
+2x Carlotta Giovanni            7   NEC POT dom obf                Giovanni:2
+1x Suhailah                     9   FOR OBF pot ser      prince    Ventrue:2
+1x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
+1x Murat                        7   OBF POT ser          prince    Nosferatu:2
+1x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
+1x Agrippina                    4   OBF pot                        Nosferatu:1
+1x Duck                         3   obf pot                        Nosferatu:1
+1x Dimple                       2   obf                            Nosferatu:1
+1x Normal                       2   obf                            Malkavian:1
 
 Library (80 cards)
 Master (16)

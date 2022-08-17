@@ -9,12 +9,12 @@ Deck Name: Marilutz
 Description: Maris Streck and Lutz von Hohenzollern
 go the Derange/Dementia/assorted nastiness way
 
-Crypt (12 cards, min=32, max=44, avg=9.5)
------------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
-4x Maris Streck		 9   AUS OBF ani dem dom  justicar	Malkavian:3
-2x Rachel Brandywine	 10  AUS DEM OBF PRO ani  prince	Malkavian:3
-2x Quentin King III	 7   AUS DEM obf pre	  prince	Malkavian:3
+Crypt (12 cards, min=32 max=44 avg=9.5)
+---------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+4x Maris Streck          9   AUS OBF ani dem dom  justicar      Malkavian:3
+2x Rachel Brandywine     10  AUS DEM OBF PRO ani  prince        Malkavian:3
+2x Quentin King III      7   AUS DEM obf pre      prince        Malkavian:3
 
 Library (75 cards)
 Master (29; 7 trifle)

@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/8685
 
 Deck Name: Rude Plebs
 
-Crypt (16 cards, min=12, max=16, avg=3.75)
-------------------------------------------
-2x Evangeline			4   cel pot pre	 Brujah antitribu:2
-2x Hector Sosa			4   POT pre	 Brujah:1
-2x Hugo				4   POT pre vic	 Brujah antitribu:2
-2x Jimmy Dunn			4   CEL POT for	 Pander:2
-2x Victor Tolliver		4   CEL pot	 Brujah antitribu:2
-2x Yuri, The Talon		4   cel pot pre	 Brujah:1
-2x Dre, Leader of the Cold Dawn	3   cel pot	 Brujah:1
-2x Jacob Bragg			3   cel pot	 Brujah antitribu:2
+Crypt (16 cards, min=12 max=16 avg=3.75)
+----------------------------------------
+2x Evangeline                   4   cel pot pre  Brujah antitribu:2
+2x Hector Sosa                  4   POT pre      Brujah:1
+2x Hugo                         4   POT pre vic  Brujah antitribu:2
+2x Jimmy Dunn                   4   CEL POT for  Pander:2
+2x Victor Tolliver              4   CEL pot      Brujah antitribu:2
+2x Yuri, The Talon              4   cel pot pre  Brujah:1
+2x Dre, Leader of the Cold Dawn 3   cel pot      Brujah:1
+2x Jacob Bragg                  3   cel pot      Brujah antitribu:2
 
 Library (90 cards)
 Master (18; 4 trifle)

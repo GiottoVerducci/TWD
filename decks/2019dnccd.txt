@@ -59,15 +59,15 @@ trying to slot her into different archetypes (previously the obvious ANI one).
 She offers great support for the problems that I feel weenie PRE decks normally
 face."
 
-Crypt (12 cards, min=4, max=31, avg=4.08)
------------------------------------------
-4x Anarch Convert  1   -none-				  Caitiff:ANY
-3x Aksinya Daclau  9   ANI FOR PRE PRO cel tha		  Gangrel antitribu:4
-1x Loonar	   4   PRE cel				  Toreador antitribu:4
-1x Lumumba	   4   PRE ani				  Guruhi:4
-1x Marla Kenyon	   4   PRE ser				  Follower of Set:4
-1x Reginald Moore  4   PRE			primogen  Brujah:4
-1x Jayne Jonestown 2   PRE				  Brujah antitribu:4
+Crypt (12 cards, min=4 max=31 avg=4.08)
+---------------------------------------
+4x Anarch Convert  1   -none-                             Caitiff:ANY
+3x Aksinya Daclau  9   ANI FOR PRE PRO cel tha            Gangrel antitribu:4
+1x Loonar          4   PRE cel                            Toreador antitribu:4
+1x Lumumba         4   PRE ani                            Guruhi:4
+1x Marla Kenyon    4   PRE ser                            Follower of Set:4
+1x Reginald Moore  4   PRE                      primogen  Brujah:4
+1x Jayne Jonestown 2   PRE                                Brujah antitribu:4
 
 Library (67 cards)
 Master (31; 1 trifle)

@@ -13,15 +13,15 @@ intercept permanents and weapons.
 - Ben Peal, Prince of Boston
 fudjo@mindstorm.com
 
-Crypt (12 cards, min=18, max=32, avg=6.33)
-------------------------------------------
-2x Faruq			8   ANI PRO dom for pot	 	 Gangrel:2
-2x Gabrin			8   ANI CHI dom for	 	 Ravnos:2
-2x Iliana			7   DOM FOR PRO tha	 	 Gangrel:2
-2x Caitlin			6   ANI PRO aus dom	 bishop	 Gangrel antitribu:2
-2x Salbatore Bokkengro		4   CHI for pro		 	 Ravnos:2
-1x Joaquina Amaya		6   ANI CHI FOR		 	 Ravnos:2
-1x Anka, Priestess of Thorns	4   ani chi pro		 	 Ravnos:2
+Crypt (12 cards, min=18 max=32 avg=6.33)
+----------------------------------------
+2x Faruq                        8   ANI PRO dom for pot          Gangrel:2
+2x Gabrin                       8   ANI CHI dom for              Ravnos:2
+2x Iliana                       7   DOM FOR PRO tha              Gangrel:2
+2x Caitlin                      6   ANI PRO aus dom      bishop  Gangrel antitribu:2
+2x Salbatore Bokkengro          4   CHI for pro                  Ravnos:2
+1x Joaquina Amaya               6   ANI CHI FOR                  Ravnos:2
+1x Anka, Priestess of Thorns    4   ani chi pro                  Ravnos:2
 
 Library (90 cards)
 Master (14)

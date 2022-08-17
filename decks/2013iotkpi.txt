@@ -7,14 +7,14 @@ Marco Vassallo
 
 Deck Name: Ruba vampiri
 
-Crypt (12 cards, min=10, max=44, avg=6.83)
-------------------------------------------
-4x Leandro	    11	AUS OBF PRE cel dom	inner circle	Malkavian:2
-2x Gilbert Duane    7	AUS DOM OBF		prince		Malkavian:1
-2x Greger Anderssen 7	AUS OBF dom pro		prince		Malkavian:2
-2x Watenda	    3	obf					Malkavian:2
-1x Normal	    2	obf					Malkavian:1
-1x Ohanna	    2	dom					Malkavian:2
+Crypt (12 cards, min=10 max=44 avg=6.83)
+----------------------------------------
+4x Leandro          11  AUS OBF PRE cel dom     inner circle    Malkavian:2
+2x Gilbert Duane    7   AUS DOM OBF             prince          Malkavian:1
+2x Greger Anderssen 7   AUS OBF dom pro         prince          Malkavian:2
+2x Watenda          3   obf                                     Malkavian:2
+1x Normal           2   obf                                     Malkavian:1
+1x Ohanna           2   dom                                     Malkavian:2
 
 Library (90 cards)
 Master (24; 7 trifle)

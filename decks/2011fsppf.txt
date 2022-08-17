@@ -13,15 +13,15 @@ Camarilla votes, but con boon is my main bloat source...
 - there's probably 2 Villein missing, but without them I'm forced
 to play very safely which is maybe not a bad thing
 
-Crypt (12 cards, min=17, max=34, avg=6.42)
-------------------------------------------
-3x Undele	   9   CEL FOR obf pre ser  magaji  Ishtarri:5
-3x Ubende	   7   CEL PRE for obf qui  magaji  Ishtarri:4
-2x Shasa Abu Badr  5   PRE cel for	    	    Ishtarri:4
-1x Ganhuru	   7   FOR PRE cel pro	    	    Ishtarri:4
-1x Elizabeth Conde 5   CEL FOR pre	    	    Ishtarri:4
-1x Kenyatta	   4   cel for pre	    	    Ishtarri:4
-1x Abu Nuwasi	   3   cel for		    	    Ishtarri:4
+Crypt (12 cards, min=17 max=34 avg=6.42)
+----------------------------------------
+3x Undele          9   CEL FOR obf pre ser  magaji  Ishtarri:5
+3x Ubende          7   CEL PRE for obf qui  magaji  Ishtarri:4
+2x Shasa Abu Badr  5   PRE cel for                  Ishtarri:4
+1x Ganhuru         7   FOR PRE cel pro              Ishtarri:4
+1x Elizabeth Conde 5   CEL FOR pre                  Ishtarri:4
+1x Kenyatta        4   cel for pre                  Ishtarri:4
+1x Abu Nuwasi      3   cel for                      Ishtarri:4
 
 Library (75 cards)
 Master (12; 2 trifle)

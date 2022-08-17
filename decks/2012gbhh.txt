@@ -12,16 +12,16 @@ Anu's fine ability for Archoning others
 5th place before the final vith 2VP, and there 3 others!
 Blood managements the key for it!
 
-Crypt (12 cards, min=17, max=32, avg=6.42)
-------------------------------------------
-3x Anu Diptinatpa	7   DOM NEC aus vic	 Nagaraja:6
-2x Diego Giovanni	8   CHI DOM NEC POT ani	 Giovanni:5
-2x Giovanni del Georgio	8   DOM NEC POT PRO	 Giovanni:5
-1x Paolo Sardenzo	7   NEC POT THA dom pro	 Giovanni:5
-1x Accorri Giovanni	6   DOM POT ani nec	 Giovanni:5
-1x Gianmaria Giovanni	5   POT dom nec obt	 Giovanni:5
-1x Kay Polerno		4   dom nec pro		 Giovanni:5
-1x Dr. Solomon Grey	2   dom pre		 Caitiff:5
+Crypt (12 cards, min=17 max=32 avg=6.42)
+----------------------------------------
+3x Anu Diptinatpa       7   DOM NEC aus vic      Nagaraja:6
+2x Diego Giovanni       8   CHI DOM NEC POT ani  Giovanni:5
+2x Giovanni del Georgio 8   DOM NEC POT PRO      Giovanni:5
+1x Paolo Sardenzo       7   NEC POT THA dom pro  Giovanni:5
+1x Accorri Giovanni     6   DOM POT ani nec      Giovanni:5
+1x Gianmaria Giovanni   5   POT dom nec obt      Giovanni:5
+1x Kay Polerno          4   dom nec pro          Giovanni:5
+1x Dr. Solomon Grey     2   dom pre              Caitiff:5
 
 Library (75 cards)
 Master (11; 1 trifle)

@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/9659
 
 Deck Name: Reins of the Stanislava!
 
-Crypt (12 cards, min=34, max=44, avg=9.83)
-------------------------------------------
-4x Stanislava	  11  ANI CEL DOM FOR PRO	   inner circle	 Gangrel:2
-2x Hartmut Stover 10  CEL OBF PRO dom for	   archbishop	 Gangrel antitribu:3
-2x Xaviar (ADV)	  10  ABO ANI FOR PRO aus cel pot  justicar	 Gangrel:3
-2x Ingrid Rossler 9   ANI FOR PRO dom		   prince	 Gangrel:2
-2x Mark Decker	  8   CEL PRO ani for obf pot	   prince	 Gangrel:3
+Crypt (12 cards, min=34 max=44 avg=9.83)
+----------------------------------------
+4x Stanislava     11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+2x Hartmut Stover 10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+2x Xaviar (ADV)   10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+2x Ingrid Rossler 9   ANI FOR PRO dom              prince        Gangrel:2
+2x Mark Decker    8   CEL PRO ani for obf pot      prince        Gangrel:3
 
 Library (90 cards)
 Master (20; 6 trifle)

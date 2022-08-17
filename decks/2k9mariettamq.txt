@@ -10,20 +10,20 @@ Deck Name: Law Firm says "Get off my lawn!" II
 This is a minimally tweaked version of a Millenium Cultist Storyline Tournament Winning Deck.
 One game win 3VP to get into finals, one game win 3VP in final.
 
-Crypt (12 cards, min=17, max=41, avg=7.42)
-------------------------------------------
-1x Jan Pieterzoon			7   DOM FOR pot pre				Ventrue:2
-1x Jan Pieterzoon (ADV)			7   DOM FOR pot pre				Ventrue:2
-1x Arika				11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Democritus				10  DOM PRE aus cel for		justicar	Ventrue:1
-1x Lazverinus, Thrall of Lambach	10  AUS DOM FOR POT pro		archbishop	Ventrue antitribu:2
-1x Queen Anne				10  DOM FOR PRE aus obf		prince		Ventrue:2
-1x Bindusara, Historian of the Kindred	9   AUS DOM FOR PRE tha				Ventrue:2
-1x Emerson Bridges			8   DOM FOR PRE pot		prince		Ventrue:1
-1x Heather Florent, The Opportunist	6   FOR PRE dom					Ventrue:1
-1x Luccia Paciola			6   DOM for pre					Ventrue:1
-1x Roland Loussarian			3   for pre					Ventrue:1
-1x Rufina Soledad			2   for						Ventrue:1
+Crypt (12 cards, min=17 max=41 avg=7.42)
+----------------------------------------
+1x Jan Pieterzoon                       7   DOM FOR pot pre                             Ventrue:2
+1x Jan Pieterzoon (ADV)                 7   DOM FOR pot pre                             Ventrue:2
+1x Arika                                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+1x Democritus                           10  DOM PRE aus cel for         justicar        Ventrue:1
+1x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro         archbishop      Ventrue antitribu:2
+1x Queen Anne                           10  DOM FOR PRE aus obf         prince          Ventrue:2
+1x Bindusara, Historian of the Kindred  9   AUS DOM FOR PRE tha                         Ventrue:2
+1x Emerson Bridges                      8   DOM FOR PRE pot             prince          Ventrue:1
+1x Heather Florent, The Opportunist     6   FOR PRE dom                                 Ventrue:1
+1x Luccia Paciola                       6   DOM for pre                                 Ventrue:1
+1x Roland Loussarian                    3   for pre                                     Ventrue:1
+1x Rufina Soledad                       2   for                                         Ventrue:1
 
 Library (90 cards)
 Master (14; 2 trifle)

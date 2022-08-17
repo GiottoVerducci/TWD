@@ -10,14 +10,14 @@ Deck Name: Weapon Not Found
 My decks do things besides bleed ... at stealth. They also hunt.
 Um, Samedi stealth/unblockable bleed.
 
-Crypt (12 cards, min=22, max=34, avg=7.17)
-------------------------------------------
-2x Baron, The			 9   FOR NEC OBF THN dom	2 votes	 Samedi:2
-2x Jack Dawson			 8   FOR OBF cel nec qui thn		 Samedi:2
-2x Reg Driscoll			 8   OBF THN aus for pre		 Samedi:2
-2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec		 Samedi:2
-2x George Frederick		 6   FOR THN nec obf			 Samedi:2
-2x Lithrac			 5   OBF for thn			 Samedi:2
+Crypt (12 cards, min=22 max=34 avg=7.17)
+----------------------------------------
+2x Baron, The                    9   FOR NEC OBF THN dom        2 votes  Samedi:2
+2x Jack Dawson                   8   FOR OBF cel nec qui thn             Samedi:2
+2x Reg Driscoll                  8   OBF THN aus for pre                 Samedi:2
+2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec                 Samedi:2
+2x George Frederick              6   FOR THN nec obf                     Samedi:2
+2x Lithrac                       5   OBF for thn                         Samedi:2
 
 Library (80 cards)
 Master (16)

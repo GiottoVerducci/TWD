@@ -21,14 +21,14 @@ Then my predator did a bleed of 1 with form of mist (3 pool left) he tried to cy
 My prey had 3 pool left, my predator 7.
 My prey bounces the first govern, bounces the second govern. I go for a third and luckily that's all he had. Bleed for 1 with a seduction to win the game.
 
-Crypt (12 cards, min=18, max=30, avg=6.17)
-------------------------------------------
-2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
-2x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
-2x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
-2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
-2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
-2x Quincy, The Trapper	   4   dom myt obt	    		Kiasyd:3
+Crypt (12 cards, min=18 max=30 avg=6.17)
+----------------------------------------
+2x Pherydima               8   DOM MYT NEC obt pot  bishop      Kiasyd:4
+2x Omme Enberbenight       7   MYT OBT cel dom      priscus     Kiasyd:4
+2x Roderick Phillips March 7   DOM MYT cel obt tha              Kiasyd:4
+2x Isanwayen               6   DOM MYT OBT                      Kiasyd:4
+2x Dame Hollerton          5   DOM OBT myt                      Kiasyd:4
+2x Quincy, The Trapper     4   dom myt obt                      Kiasyd:3
 
 Library (66 cards)
 Master (11; 2 trifle)

@@ -22,12 +22,12 @@ Vehicle...:)
 Still managed 3GW and 11VP in total on the day, so not tooooo shabby for
 a Baali deck....(chortle)
 
-Crypt (12 cards, min=27, max=40, avg=8.42)
-------------------------------------------
-5x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE	Baali:2
-3x Ian Forestal	   8   AUS DOM THA		Tremere antitribu:2
-3x Matthias	   7   AUS FOR OBE nec		Salubri:2
-1x Corine Marcón   6   AUS VIC ani		Tzimisce:2
+Crypt (12 cards, min=27 max=40 avg=8.42)
+----------------------------------------
+5x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE  Baali:2
+3x Ian Forestal    8   AUS DOM THA              Tremere antitribu:2
+3x Matthias        7   AUS FOR OBE nec          Salubri:2
+1x Corine Marcón   6   AUS VIC ani              Tzimisce:2
 
 Library (90 cards)
 Master (14)

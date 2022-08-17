@@ -7,18 +7,18 @@ Frédérick Thouin
 
 Deck Name: The Survivor
 
-Crypt (12 cards, min=17, max=38, avg=6.83)
-------------------------------------------
-2x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
-2x Ira Rivers			7   AUS CEL ani pre		prince	  Toreador:3
-1x Madame Guil			10  AUS CEL PRE for pot ser	justicar  Toreador:3
-1x Fleurdumal			8   AUS DEM PRE cel tha		prince	  Toreador:3
-1x Marcellus			8   AUS CEL pro			prince	  Toreador:2
-1x Barth			5   PRE aus cel				  Toreador:3
-1x Victoria			5   AUS cel obf				  Malkavian:2
-1x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
-1x Michael Luther		4   aus pre				  Toreador:3
-1x Zöe				3   AUS cel obf				  Malkavian:2
+Crypt (12 cards, min=17 max=38 avg=6.83)
+----------------------------------------
+2x François Villon              10  AUS CEL PRE chi obf pot     prince    Toreador:2
+2x Ira Rivers                   7   AUS CEL ani pre             prince    Toreador:3
+1x Madame Guil                  10  AUS CEL PRE for pot ser     justicar  Toreador:3
+1x Fleurdumal                   8   AUS DEM PRE cel tha         prince    Toreador:3
+1x Marcellus                    8   AUS CEL pro                 prince    Toreador:2
+1x Barth                        5   PRE aus cel                           Toreador:3
+1x Victoria                     5   AUS cel obf                           Malkavian:2
+1x Volker, The Puppet Prince    5   CEL pot                     prince    Brujah:2
+1x Michael Luther               4   aus pre                               Toreador:3
+1x Zöe                          3   AUS cel obf                           Malkavian:2
 
 Library (90 cards)
 Master (13)

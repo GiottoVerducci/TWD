@@ -8,13 +8,13 @@ Deck Name: Tremere anti vote
 
 Description: THA PRE DOM
 
-Crypt (12 cards, min=26, max=36, avg=8)
----------------------------------------
-2x Alfred Benezri (ADV)	7   PRE THA aus dom	 bishop	  Pander:3
-2x Alfred Benezri	6   PRE THA aus dom	 bishop	  Pander:3
-3x Malgorzata		9   AUS DOM THA VIC pre	 priscus  Tremere antitribu:4
-3x Orlando Oriundus	9   AUS DOM THA obf	 bishop	  Tremere antitribu:4
-2x Paul Cordwood	8   AUS DOM THA obf pre	 bishop	  Tremere antitribu:4
+Crypt (12 cards, min=26 max=36 avg=8)
+-------------------------------------
+2x Alfred Benezri (ADV) 7   PRE THA aus dom      bishop   Pander:3
+2x Alfred Benezri       6   PRE THA aus dom      bishop   Pander:3
+3x Malgorzata           9   AUS DOM THA VIC pre  priscus  Tremere antitribu:4
+3x Orlando Oriundus     9   AUS DOM THA obf      bishop   Tremere antitribu:4
+2x Paul Cordwood        8   AUS DOM THA obf pre  bishop   Tremere antitribu:4
 
 Library (90 cards)
 Master (20; 6 trifle)

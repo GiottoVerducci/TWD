@@ -5,21 +5,21 @@ June 10th 2000
 Stephen Wyatt
 https://groups.google.com/g/rec.games.trading-cards.jyhad/c/czrQTcZJhKE
 
-Crypt (13 cards, min=14, max=28, avg=5.23)
-------------------------------------------
-1x Anson				8   CEL PRE aus dom	prince	  Toreador:1
-1x Eliott Sinclair, Virtuoso Thespian	7   PRE aus cel		primogen  Toreador:1
-1x Tatiana Romanov			7   AUS cel pre		prince	  Toreador:1
-1x Adrianne				6   aus cel pot pre		  Toreador:1
-1x Kallista, Master Sculptor		6   AUS CEL pre pro		  Toreador:1
-1x Sigrid Bekker			6   AUS cel pot pre		  Toreador:2
-1x Felicia Mostrom			5   AUS CEL pre			  Toreador:1
-1x Ramiel DuPre				5   PRE aus cel dom		  Toreador:1
-1x Demetrius Slater			4   aus cel pre			  Toreador:1
-1x Dorian Strack			4   AUS cel			  Toreador:1
-1x Mariana Gilbert			4   PRE cel			  Toreador:1
-1x Colin Flynn				3   aus cel			  Toreador:1
-1x Isabel de Leon			3   AUS				  Toreador:2
+Crypt (13 cards, min=14 max=28 avg=5.23)
+----------------------------------------
+1x Anson                                8   CEL PRE aus dom     prince    Toreador:1
+1x Eliott Sinclair, Virtuoso Thespian   7   PRE aus cel         primogen  Toreador:1
+1x Tatiana Romanov                      7   AUS cel pre         prince    Toreador:1
+1x Adrianne                             6   aus cel pot pre               Toreador:1
+1x Kallista, Master Sculptor            6   AUS CEL pre pro               Toreador:1
+1x Sigrid Bekker                        6   AUS cel pot pre               Toreador:2
+1x Felicia Mostrom                      5   AUS CEL pre                   Toreador:1
+1x Ramiel DuPre                         5   PRE aus cel dom               Toreador:1
+1x Demetrius Slater                     4   aus cel pre                   Toreador:1
+1x Dorian Strack                        4   AUS cel                       Toreador:1
+1x Mariana Gilbert                      4   PRE cel                       Toreador:1
+1x Colin Flynn                          3   aus cel                       Toreador:1
+1x Isabel de Leon                       3   AUS                           Toreador:2
 
 Library (90 cards)
 Master (20)

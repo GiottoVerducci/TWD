@@ -12,14 +12,14 @@ Deck Name: PainKiller
 
 Description: Vide judas priest..
 
-Crypt (12 cards, min=24, max=40, avg=8.33)
-------------------------------------------
-3x Ignazio Giovanni	    9	DOM FOR NEC POT obf	 		Giovanni:3
-2x Lady Constancia	    10	AUS DOM FOR NEC POT	 2 votes	Giovanni:4
-2x Luca Italicus	    10	DOM FOR NEC OBT POT tha	 archbishop	Lasombra:4
-2x Lisandro Giovanni	    9	DOM FOR NEC POT THN	 		Giovanni:3
-2x Benedict Giovanni, Agent 6	FOR POT cel dom nec	 		Giovanni:4
-1x Almodo Giovanni	    3	dom pot			 		Giovanni:4
+Crypt (12 cards, min=24 max=40 avg=8.33)
+----------------------------------------
+3x Ignazio Giovanni         9   DOM FOR NEC POT obf                     Giovanni:3
+2x Lady Constancia          10  AUS DOM FOR NEC POT      2 votes        Giovanni:4
+2x Luca Italicus            10  DOM FOR NEC OBT POT tha  archbishop     Lasombra:4
+2x Lisandro Giovanni        9   DOM FOR NEC POT THN                     Giovanni:3
+2x Benedict Giovanni, Agent 6   FOR POT cel dom nec                     Giovanni:4
+1x Almodo Giovanni          3   dom pot                                 Giovanni:4
 
 Library (90 cards)
 Master (13; 3 trifle)

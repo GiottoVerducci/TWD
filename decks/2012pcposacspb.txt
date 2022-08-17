@@ -7,14 +7,14 @@ Bruno Keiti Tamane
 
 Deck Name: Ventrue - Little Princes
 
-Crypt (12 cards, min=20, max=30, avg=6.17)
-------------------------------------------
-2x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro	 prince	   Ventrue:5
-2x Graham Gottesman	7   DOM FOR obf pre tha	 prince	   Ventrue:5
-2x Mustafa, The Heir	6   FOR PRE cel dom	 prince	   Ventrue:4
-2x Victor Donaldson	6   DOM for pre		 prince	   Ventrue:5
-2x Emily Carson		5   DOM for pre		 primogen  Ventrue:5
-2x Victor Pelletier	5   PRE cel dom for	 	   Ventrue:4
+Crypt (12 cards, min=20 max=30 avg=6.17)
+----------------------------------------
+2x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro  prince    Ventrue:5
+2x Graham Gottesman     7   DOM FOR obf pre tha  prince    Ventrue:5
+2x Mustafa, The Heir    6   FOR PRE cel dom      prince    Ventrue:4
+2x Victor Donaldson     6   DOM for pre          prince    Ventrue:5
+2x Emily Carson         5   DOM for pre          primogen  Ventrue:5
+2x Victor Pelletier     5   PRE cel dom for                Ventrue:4
 
 Library (70 cards)
 Master (13; 1 trifle)

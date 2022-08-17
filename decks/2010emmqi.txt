@@ -6,14 +6,14 @@ Rodd Closson
 
 Deck Name: Lutz Be Friends
 
-Crypt (12 cards, min=25, max=44, avg=8.5)
------------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
-2x Maris Streck		 9   AUS OBF ani dem dom  justicar	Malkavian:3
-2x Quentin King III	 7   AUS DEM obf pre	  prince	Malkavian:3
-2x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
-1x Fleurdumal		 8   AUS DEM PRE cel tha  prince	Toreador:3
-1x Fabrizia Contreraz	 4   dem pot		  archbishop	Malkavian antitribu:4
+Crypt (12 cards, min=25 max=44 avg=8.5)
+---------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+2x Maris Streck          9   AUS OBF ani dem dom  justicar      Malkavian:3
+2x Quentin King III      7   AUS DEM obf pre      prince        Malkavian:3
+2x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
+1x Fleurdumal            8   AUS DEM PRE cel tha  prince        Toreador:3
+1x Fabrizia Contreraz    4   dem pot              archbishop    Malkavian antitribu:4
 
 Library (90 cards)
 Master (16; 8 trifle)

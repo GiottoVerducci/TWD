@@ -35,16 +35,16 @@ with something more useful; some presses would be nice. Got a less-than-
 nice lesson on that by 1st round prey, who played a Tremere second
 round combat deck...
 
-Crypt (12 cards, min=14, max=30, avg=5.58)
-------------------------------------------
-2x Meshenka		   8   ANI AUS VIC	priscus	 Tzimisce:2
-2x Caliban		   6   ANI AUS VIC		 Tzimisce:2
-2x Corine Marcón	   6   AUS VIC ani		 Tzimisce:2
-2x Devin Bisley		   5   ANI AUS vic		 Tzimisce:2
-1x Little Tailor of Prague 8   ANI AUS VIC dem		 Tzimisce:2
-1x Lolita Houston	   4   VIC aus			 Tzimisce:2
-1x Wendy Wade		   3   ani aus			 Tzimisce:2
-1x Horatio		   2   vic			 Tzimisce:2
+Crypt (12 cards, min=14 max=30 avg=5.58)
+----------------------------------------
+2x Meshenka                8   ANI AUS VIC      priscus  Tzimisce:2
+2x Caliban                 6   ANI AUS VIC               Tzimisce:2
+2x Corine Marcón           6   AUS VIC ani               Tzimisce:2
+2x Devin Bisley            5   ANI AUS vic               Tzimisce:2
+1x Little Tailor of Prague 8   ANI AUS VIC dem           Tzimisce:2
+1x Lolita Houston          4   VIC aus                   Tzimisce:2
+1x Wendy Wade              3   ani aus                   Tzimisce:2
+1x Horatio                 2   vic                       Tzimisce:2
 
 Library (90 cards)
 Master (15)

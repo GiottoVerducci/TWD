@@ -9,16 +9,16 @@ Deck Name: Flurry of bleeds
 
 Description: Bleed, untap, vote/recruit
 
-Crypt (12 cards, min=19, max=31, avg=6.17)
-------------------------------------------
-3x Yazid Tamari			8   CEL QUI ani dom obf	 Assamite:3
-2x Suzanne Kadim		7   CEL PRE aus dom obf	 Toreador:3
-2x Badr al-Budur		5   OBF cel dom qui	 Assamite:2
-1x Kalinda			6   CEL OBF tha		 Assamite:2
-1x Zahir, Hand of the Silsila	6   CEL OBF qui tha	 Assamite:2
-1x Abd al-Rashid		5   CEL QUI obf		 Assamite:2
-1x Yusuf, Scribe of Alamut	5   CEL aus obf qui	 Assamite:2
-1x Tansu Bekir			4   OBF cel		 Assamite:2
+Crypt (12 cards, min=19 max=31 avg=6.17)
+----------------------------------------
+3x Yazid Tamari                 8   CEL QUI ani dom obf  Assamite:3
+2x Suzanne Kadim                7   CEL PRE aus dom obf  Toreador:3
+2x Badr al-Budur                5   OBF cel dom qui      Assamite:2
+1x Kalinda                      6   CEL OBF tha          Assamite:2
+1x Zahir, Hand of the Silsila   6   CEL OBF qui tha      Assamite:2
+1x Abd al-Rashid                5   CEL QUI obf          Assamite:2
+1x Yusuf, Scribe of Alamut      5   CEL aus obf qui      Assamite:2
+1x Tansu Bekir                  4   OBF cel              Assamite:2
 
 Library (88 cards)
 Master (18)

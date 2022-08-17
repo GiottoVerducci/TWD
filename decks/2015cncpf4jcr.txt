@@ -10,18 +10,18 @@ https://www.vekn.net/event-calendar/event/8167
 
 Deck Name: Mostarna
 
-Crypt (12 cards, min=11, max=27, avg=4.75)
-------------------------------------------
-3x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
-1x Eugenio Estevez		6   AUS THA dom for		  Tremere:3
-1x Selena			6   AUS DOM THA			  Tremere antitribu:3
-1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
-1x Cohn Rose			5   THA aus dom pre		  Tremere:3
-1x Blythe Candeleria		3   THA aus			  Tremere:2
-1x Ehrich Weiss			3   dom tha			  Tremere:3
-1x Martin Franckel		3   AUS tha			  Tremere:3
-1x Masika St. John		3   THA				  Tremere:3
-1x Almiro Suarez		2   aus				  Tremere:3
+Crypt (12 cards, min=11 max=27 avg=4.75)
+----------------------------------------
+3x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
+1x Eugenio Estevez              6   AUS THA dom for               Tremere:3
+1x Selena                       6   AUS DOM THA                   Tremere antitribu:3
+1x Aisling Sturbridge           5   AUS THA dom                   Tremere:2
+1x Cohn Rose                    5   THA aus dom pre               Tremere:3
+1x Blythe Candeleria            3   THA aus                       Tremere:2
+1x Ehrich Weiss                 3   dom tha                       Tremere:3
+1x Martin Franckel              3   AUS tha                       Tremere:3
+1x Masika St. John              3   THA                           Tremere:3
+1x Almiro Suarez                2   aus                           Tremere:3
 
 Library (90 cards)
 Master (16; 5 trifle)

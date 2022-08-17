@@ -8,14 +8,14 @@ https://www.vekn.net/event-calendar/event/8121
 
 Deck Name: The Legendary Stanislava's Gang(rels) Bleed Vote PRO DOM
 
-Crypt (12 cards, min=36, max=44, avg=10)
-----------------------------------------
-4x Stanislava	  11  ANI CEL DOM FOR PRO	   inner circle	 Gangrel:2
-3x Xaviar (ADV)	  10  ABO ANI FOR PRO aus cel pot  justicar	 Gangrel:3
-2x Ingrid Rossler 9   ANI FOR PRO dom		   prince	 Gangrel:2
-1x Genevieve	  10  ANI FOR PRO aus dom	   priscus	 Gangrel antitribu:2
-1x Hartmut Stover 10  CEL OBF PRO dom for	   archbishop	 Gangrel antitribu:3
-1x Mark Decker	  8   CEL PRO ani for obf pot	   prince	 Gangrel:3
+Crypt (12 cards, min=36 max=44 avg=10)
+--------------------------------------
+4x Stanislava     11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+3x Xaviar (ADV)   10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+2x Ingrid Rossler 9   ANI FOR PRO dom              prince        Gangrel:2
+1x Genevieve      10  ANI FOR PRO aus dom          priscus       Gangrel antitribu:2
+1x Hartmut Stover 10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+1x Mark Decker    8   CEL PRO ani for obf pot      prince        Gangrel:3
 
 Library (75 cards)
 Master (20; 8 trifle)

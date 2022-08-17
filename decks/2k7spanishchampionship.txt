@@ -5,17 +5,17 @@ July 22nd 2007
 64 players
 Noel Giménez Infante
 
-Crypt (12 cards, min=10, max=16, avg=3.33)
-------------------------------------------
-4x Fidus, The Shrunken Beast	4   for tha vis	 Gargoyle:2
-1x Gloria Giovanni		4   DOM nec	 Giovanni:2
-1x Thelonius			4   aus dom tha	 Tremere antitribu:2
-1x Brooke			3   dom tha	 Tremere antitribu:2
-1x Ehrich Weiss			3   dom tha	 Tremere:3
-1x Ember Wright			3   aus dom	 Tremere antitribu:3
-1x Saiz				3   aus dom	 Tremere antitribu:3
-1x Heinrick Schlempt		2   tha		 Tremere antitribu:2
-1x Mustafa Rahman		2   dom		 Tremere:2
+Crypt (12 cards, min=10 max=16 avg=3.33)
+----------------------------------------
+4x Fidus, The Shrunken Beast    4   for tha vis  Gargoyle:2
+1x Gloria Giovanni              4   DOM nec      Giovanni:2
+1x Thelonius                    4   aus dom tha  Tremere antitribu:2
+1x Brooke                       3   dom tha      Tremere antitribu:2
+1x Ehrich Weiss                 3   dom tha      Tremere:3
+1x Ember Wright                 3   aus dom      Tremere antitribu:3
+1x Saiz                         3   aus dom      Tremere antitribu:3
+1x Heinrick Schlempt            2   tha          Tremere antitribu:2
+1x Mustafa Rahman               2   dom          Tremere:2
 
 Library (80 cards)
 Master (21)

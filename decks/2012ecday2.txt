@@ -9,14 +9,14 @@ Isak Esbjörnsson Bjärmark
 
 Deck Name: EC 2012 Day 2: Girls Will Find Inner Sleaze
 
-Crypt (12 cards, min=36, max=44, avg=10)
-----------------------------------------
-4x Cybele		 10  ANI DAI OBF PRE SER THA			Baali:4
-4x Aksinya Daclau	 9   ANI FOR PRE PRO cel tha			Gangrel antitribu:4
-1x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
-1x Lucian, The Perfect	 11  ANI AUS DOM OBF POT PRE			Guruhi:4
-1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
-1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+Crypt (12 cards, min=36 max=44 avg=10)
+--------------------------------------
+4x Cybele                10  ANI DAI OBF PRE SER THA                    Baali:4
+4x Aksinya Daclau        9   ANI FOR PRE PRO cel tha                    Gangrel antitribu:4
+1x Adana de Sforza       11  CEL OBF POT PRE PRO aus    inner circle    Brujah:4
+1x Lucian, The Perfect   11  ANI AUS DOM OBF POT PRE                    Guruhi:4
+1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
+1x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
 
 Library (76 cards)
 Master (44; 8 trifle)

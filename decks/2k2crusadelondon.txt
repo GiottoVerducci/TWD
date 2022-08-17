@@ -20,20 +20,20 @@ these as well...
 
 God Bless the new Concealed Weapon though. What a beauty...
 
-Crypt (14 cards, min=7, max=19, avg=3.14)
------------------------------------------
-2x Black Cat			5   CEL pot pre	 Brujah:1
-2x Sarah Brando			3   CEL		 Brujah antitribu:2
-1x Dodd				5   CEL dom pre	 Brujah antitribu:2
-1x Victor Tolliver		4   CEL pot	 Brujah antitribu:2
-1x Dre, Leader of the Cold Dawn	3   cel pot	 Brujah:1
-1x Itzahk Levine		3   cel pre	 Ventrue:2
-1x Jacob Bragg			3   cel pot	 Brujah antitribu:2
-1x Uma Hatch			3   cel pre	 Brujah:1
-1x Angel			2   cel		 Brujah:1
-1x Carter			2   cel		 Toreador antitribu:2
-1x Kanya Akhtar			2   cel		 Assamite:2
-1x Antoinette DuChamp		1   cel pre	 Caitiff:2
+Crypt (14 cards, min=7 max=19 avg=3.14)
+---------------------------------------
+2x Black Cat                    5   CEL pot pre  Brujah:1
+2x Sarah Brando                 3   CEL          Brujah antitribu:2
+1x Dodd                         5   CEL dom pre  Brujah antitribu:2
+1x Victor Tolliver              4   CEL pot      Brujah antitribu:2
+1x Dre, Leader of the Cold Dawn 3   cel pot      Brujah:1
+1x Itzahk Levine                3   cel pre      Ventrue:2
+1x Jacob Bragg                  3   cel pot      Brujah antitribu:2
+1x Uma Hatch                    3   cel pre      Brujah:1
+1x Angel                        2   cel          Brujah:1
+1x Carter                       2   cel          Toreador antitribu:2
+1x Kanya Akhtar                 2   cel          Assamite:2
+1x Antoinette DuChamp           1   cel pre      Caitiff:2
 
 Library (90 cards)
 Master (15)

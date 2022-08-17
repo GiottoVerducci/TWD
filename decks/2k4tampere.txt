@@ -8,18 +8,18 @@ Deck Name: The Warlocks' Revenge.
 
 Description: !Tremere intercept-combat toolbox
 
-Crypt (12 cards, min=15, max=28, avg=5.5)
------------------------------------------
-2x Carna, The Princess Witch	   7   AUS DOM THA	primogen  Tremere:3
-2x Selena			   6   AUS DOM THA		  Tremere antitribu:3
-1x Kij Dansky			   8   AUS DOM THA obt	priscus	  Tremere antitribu:2
-1x Elena Mendoza Vasquez	   6   AUS THA dom obt		  Tremere antitribu:3
-1x Reverend Blackwood		   6   DOM THA obf	bishop	  Tremere antitribu:2
-1x Aisling Sturbridge		   5   AUS THA dom		  Tremere:2
-1x Hannigan			   5   AUS THA dom		  Tremere antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha			  Tremere antitribu:2
-1x Blythe Candeleria		   3   THA aus			  Tremere:2
-1x Brooke			   3   dom tha			  Tremere antitribu:2
+Crypt (12 cards, min=15 max=28 avg=5.5)
+---------------------------------------
+2x Carna, The Princess Witch       7   AUS DOM THA      primogen  Tremere:3
+2x Selena                          6   AUS DOM THA                Tremere antitribu:3
+1x Kij Dansky                      8   AUS DOM THA obt  priscus   Tremere antitribu:2
+1x Elena Mendoza Vasquez           6   AUS THA dom obt            Tremere antitribu:3
+1x Reverend Blackwood              6   DOM THA obf      bishop    Tremere antitribu:2
+1x Aisling Sturbridge              5   AUS THA dom                Tremere:2
+1x Hannigan                        5   AUS THA dom                Tremere antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha                    Tremere antitribu:2
+1x Blythe Candeleria               3   THA aus                    Tremere:2
+1x Brooke                          3   dom tha                    Tremere antitribu:2
 
 Library (90 cards)
 Master (15)

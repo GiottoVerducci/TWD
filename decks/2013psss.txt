@@ -12,14 +12,14 @@ Created by: Alberto Sanchez
 
 Description: Typical AAA. Never fails.
 
-Crypt (12 cards, min=19, max=43, avg=8.17)
-------------------------------------------
-3x Alexandra	   11  ANI AUS CEL PRE dom  inner circle  Toreador:2
-3x Anneke	   10  AUS CEL PRE dom	    justicar	  Toreador:1
-3x Anson	   8   CEL PRE aus dom	    prince	  Toreador:1
-1x Ramiel DuPre	   5   PRE aus cel dom	    		  Toreador:1
-1x Mariana Gilbert 4   PRE cel		    		  Toreador:1
-1x Delilah Easton  2   pre		    		  Toreador:1
+Crypt (12 cards, min=19 max=43 avg=8.17)
+----------------------------------------
+3x Alexandra       11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+3x Anneke          10  AUS CEL PRE dom      justicar      Toreador:1
+3x Anson           8   CEL PRE aus dom      prince        Toreador:1
+1x Ramiel DuPre    5   PRE aus cel dom                    Toreador:1
+1x Mariana Gilbert 4   PRE cel                            Toreador:1
+1x Delilah Easton  2   pre                                Toreador:1
 
 Library (85 cards)
 Master (32)

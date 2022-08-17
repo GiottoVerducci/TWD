@@ -17,14 +17,14 @@ primary blocker. This is a well-tested deck. The Weather Control is for Raptor
 Decks, which are all too common in my local group, but it can double as stout
 combat defense when coupled with a Flesh of Marble. Fun to play.
 
-Crypt (12 cards, min=18, max=28, avg=5.92)
-------------------------------------------
-5x Iliana		7   DOM FOR PRO tha		Gangrel:2
-3x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
-1x Harry Reese		6   FOR PRO cel obf		Gangrel antitribu:3
-1x Dr. Allan Woodstock	5   PRO ani aus for		Gangrel:3
-1x Daliyah		4   PRO obf			Nosferatu:2
-1x Chandler Hungerford	3   PRO				Gangrel:2
+Crypt (12 cards, min=18 max=28 avg=5.92)
+----------------------------------------
+5x Iliana               7   DOM FOR PRO tha             Gangrel:2
+3x Caitlin              6   ANI PRO aus dom     bishop  Gangrel antitribu:2
+1x Harry Reese          6   FOR PRO cel obf             Gangrel antitribu:3
+1x Dr. Allan Woodstock  5   PRO ani aus for             Gangrel:3
+1x Daliyah              4   PRO obf                     Nosferatu:2
+1x Chandler Hungerford  3   PRO                         Gangrel:2
 
 Library (90 cards)
 Master (16; 3 trifle)

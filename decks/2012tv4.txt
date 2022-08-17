@@ -9,18 +9,18 @@ Jonatan Reino
 
 Deck Name: Gabrin's Back
 
-Crypt (12 cards, min=11, max=30, avg=5.17)
-------------------------------------------
-3x Gabrin			8   ANI CHI dom for	Ravnos:2
-1x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
-1x Sarisha Veliku		6   ANI FOR chi dom	Ravnos:2
-1x Vaclav Petalengro		6   ANI CHI for pot	Ravnos:2
-1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
-1x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
-1x Sennuwy, The Promoter	4   ani chi for		Ravnos:2
-1x Vedel Esbreno		3   chi for		Ravnos:2
-1x Sasha Miklos			2   chi			Ravnos:2
-1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+Crypt (12 cards, min=11 max=30 avg=5.17)
+----------------------------------------
+3x Gabrin                       8   ANI CHI dom for     Ravnos:2
+1x Joaquina Amaya               6   ANI CHI FOR         Ravnos:2
+1x Sarisha Veliku               6   ANI FOR chi dom     Ravnos:2
+1x Vaclav Petalengro            6   ANI CHI for pot     Ravnos:2
+1x Khalil Ravana                5   CHI ani for pre     Ravnos:2
+1x Salbatore Bokkengro          4   CHI for pro         Ravnos:2
+1x Sennuwy, The Promoter        4   ani chi for         Ravnos:2
+1x Vedel Esbreno                3   chi for             Ravnos:2
+1x Sasha Miklos                 2   chi                 Ravnos:2
+1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
 
 Library (87 cards)
 Master (20; 1 trifle)

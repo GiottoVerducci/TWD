@@ -5,19 +5,19 @@ May 23rd 2009
 44 players
 Jari Vulli
 
-Crypt (12 cards, min=21, max=41, avg=7.58)
-------------------------------------------
-2x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
-1x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
-1x Gerald Windham	 9   AUS DOM FOR THA				Tremere:5
-1x Paul Cordwood	 8   AUS DOM THA obf pre	bishop		Tremere antitribu:4
-1x Aidan Lyle		 7   AUS CHI THA dom				Tremere:5
-1x Preston Varrick	 7   DOM OBF THA aus nec			Tremere:4
-1x Rutor		 7   AUS DOM THA pro vic			Tremere:5
-1x MacAlister Marshall	 6   THA aus dom obf pre			Tremere:5
-1x Carmen		 5   THA aus dom				Tremere antitribu:5
-1x Claus Wegener	 5   DOM aus for tha				Tremere:5
-1x Zane			 5   THA aus dom		primogen	Tremere:5
+Crypt (12 cards, min=21 max=41 avg=7.58)
+----------------------------------------
+2x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
+1x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
+1x Gerald Windham        9   AUS DOM FOR THA                            Tremere:5
+1x Paul Cordwood         8   AUS DOM THA obf pre        bishop          Tremere antitribu:4
+1x Aidan Lyle            7   AUS CHI THA dom                            Tremere:5
+1x Preston Varrick       7   DOM OBF THA aus nec                        Tremere:4
+1x Rutor                 7   AUS DOM THA pro vic                        Tremere:5
+1x MacAlister Marshall   6   THA aus dom obf pre                        Tremere:5
+1x Carmen                5   THA aus dom                                Tremere antitribu:5
+1x Claus Wegener         5   DOM aus for tha                            Tremere:5
+1x Zane                  5   THA aus dom                primogen        Tremere:5
 
 Library (89 cards)
 Master (18; 6 trifle)

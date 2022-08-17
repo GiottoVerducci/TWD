@@ -14,15 +14,15 @@ hasn't added the prints to the sleeves and since I didn't have color prints
 with me decided to skip this modification. Silly me... Also, I think I've probably
 loaned a Dreams of the Sphinx (=third) from the deck to another one and haven't replaced it.
 
-Crypt (12 cards, min=25, max=44, avg=9.08)
-------------------------------------------
-5x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
-2x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
-1x Genevieve		10  ANI FOR PRO aus dom	 priscus	Gangrel antitribu:2
-1x Hartmut Stover	10  CEL OBF PRO dom for	 archbishop	Gangrel antitribu:3
-1x Iliana		7   DOM FOR PRO tha	 		Gangrel:2
-1x Caitlin		6   ANI PRO aus dom	 bishop		Gangrel antitribu:2
-1x Chandler Hungerford	3   PRO			 		Gangrel:2
+Crypt (12 cards, min=25 max=44 avg=9.08)
+----------------------------------------
+5x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
+2x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
+1x Genevieve            10  ANI FOR PRO aus dom  priscus        Gangrel antitribu:2
+1x Hartmut Stover       10  CEL OBF PRO dom for  archbishop     Gangrel antitribu:3
+1x Iliana               7   DOM FOR PRO tha                     Gangrel:2
+1x Caitlin              6   ANI PRO aus dom      bishop         Gangrel antitribu:2
+1x Chandler Hungerford  3   PRO                                 Gangrel:2
 
 Library (80 cards)
 Master (18; 6 trifle)

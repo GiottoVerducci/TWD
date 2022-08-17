@@ -32,19 +32,19 @@ The addition of a Power Structure, to defend against vote-based decks,
 would also benefit the deck greatly as it will often finish the game
 with four-plus minions.
 
-Crypt (12 cards, min=15, max=37, avg=6.67)
-------------------------------------------
-2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
-1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
-1x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
-1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
-1x Lucita				  8   DOM FOR OBT cel pot		    Lasombra:2
-1x Aurora Van Brande, Paladin		  6   OBT dom for pot			    Lasombra:2
-1x Talley, The Hound			  6   OBT POT aus dom			    Lasombra:2
-1x Guido Lucciano			  5   OBT dom obf			    Lasombra:2
-1x Ignacio, The Black Priest		  4   dom obt pot			    Lasombra:2
-1x Ramiro				  4   dom obt vic			    Lasombra:2
-1x Mitchell, The Headhunter		  2   obt pot				    Pander:2
+Crypt (12 cards, min=15 max=37 avg=6.67)
+----------------------------------------
+2x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
+1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
+1x Angelica, The Canonicus                10  DOM OBT POT cel obf       cardinal    Lasombra:2
+1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
+1x Lucita                                 8   DOM FOR OBT cel pot                   Lasombra:2
+1x Aurora Van Brande, Paladin             6   OBT dom for pot                       Lasombra:2
+1x Talley, The Hound                      6   OBT POT aus dom                       Lasombra:2
+1x Guido Lucciano                         5   OBT dom obf                           Lasombra:2
+1x Ignacio, The Black Priest              4   dom obt pot                           Lasombra:2
+1x Ramiro                                 4   dom obt vic                           Lasombra:2
+1x Mitchell, The Headhunter               2   obt pot                               Pander:2
 
 Library (75 cards)
 Master (12)

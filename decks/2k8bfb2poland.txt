@@ -7,17 +7,17 @@ Aleksander Idziak
 
 Deck Name: Giovanni - Sudario Refraction
 
-Crypt (12 cards, min=12, max=39, avg=6.58)
-------------------------------------------
-3x Lady Constancia		10  AUS DOM FOR NEC POT	 2 votes  Giovanni:4
-2x Ignazio Giovanni		9   DOM FOR NEC POT obf	 	  Giovanni:3
-1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
-1x Benedict Giovanni, Agent	6   FOR POT cel dom nec	 	  Giovanni:4
-1x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
-1x Primo Giovanni		4   dom nec pot		 	  Giovanni:4
-1x Almodo Giovanni		3   dom pot		 	  Giovanni:4
-1x Lia Milliner			3   dom nec		 	  Giovanni:3
-1x Cristobal Ghiberti		2   nec			 	  Giovanni:4
+Crypt (12 cards, min=12 max=39 avg=6.58)
+----------------------------------------
+3x Lady Constancia              10  AUS DOM FOR NEC POT  2 votes  Giovanni:4
+2x Ignazio Giovanni             9   DOM FOR NEC POT obf           Giovanni:3
+1x Don Michael Antonio Giovanni 7   DOM NEC POT          2 votes  Giovanni:4
+1x Benedict Giovanni, Agent     6   FOR POT cel dom nec           Giovanni:4
+1x Raphaela Giovanni            6   DOM NEC pot pre               Giovanni:4
+1x Primo Giovanni               4   dom nec pot                   Giovanni:4
+1x Almodo Giovanni              3   dom pot                       Giovanni:4
+1x Lia Milliner                 3   dom nec                       Giovanni:3
+1x Cristobal Ghiberti           2   nec                           Giovanni:4
 
 Library (90 cards)
 Master (14)

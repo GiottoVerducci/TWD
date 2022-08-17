@@ -16,14 +16,14 @@ To the deck itself, there should be at least one copy of Mind Rape
 and an additional Giant's Blood. It should be one less copy of
 Lilith's Blessing since I never used it and never wanted to.
 
-Crypt (12 cards, min=40, max=44, avg=10.5)
-------------------------------------------
-4x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE			Baali:2
-3x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-2x Etrius	   11  AUS DOM OBF THA pro	inner circle	Tremere:2
-1x Leandro	   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
-1x Esau		   10  AUS DEM DOM OBF PRE			Malkavian:3
-1x Nefertiti	   10  DOM OBF PRE SER cel pot			Follower of Set:2
+Crypt (12 cards, min=40 max=44 avg=10.5)
+----------------------------------------
+4x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE                  Baali:2
+3x Arika           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+2x Etrius          11  AUS DOM OBF THA pro      inner circle    Tremere:2
+1x Leandro         11  AUS OBF PRE cel dom      inner circle    Malkavian:2
+1x Esau            10  AUS DEM DOM OBF PRE                      Malkavian:3
+1x Nefertiti       10  DOM OBF PRE SER cel pot                  Follower of Set:2
 
 Library (75 cards)
 Master (37; 7 trifle)

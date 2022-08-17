@@ -6,13 +6,13 @@ Vítek Holoska
 
 Madness Rachel by Vítek Holoska
 
-Crypt (12 cards, min=29, max=40, avg=8.67)
-------------------------------------------
-4x Rachel Brandywine	  10  AUS DEM OBF PRO ani  prince	Malkavian:3
-3x Maris Streck		  9   AUS OBF ani dem dom  justicar	Malkavian:3
-2x Quentin King III	  7   AUS DEM obf pre	   prince	Malkavian:3
-1x Quentin King III (ADV) 7   AUS DEM OBF cel pre  		Malkavian:3
-2x Rodolfo		  8   AUS DEM OBF pro	   bishop	Malkavian antitribu:3
+Crypt (12 cards, min=29 max=40 avg=8.67)
+----------------------------------------
+4x Rachel Brandywine      10  AUS DEM OBF PRO ani  prince       Malkavian:3
+3x Maris Streck           9   AUS OBF ani dem dom  justicar     Malkavian:3
+2x Quentin King III       7   AUS DEM obf pre      prince       Malkavian:3
+1x Quentin King III (ADV) 7   AUS DEM OBF cel pre               Malkavian:3
+2x Rodolfo                8   AUS DEM OBF pro      bishop       Malkavian antitribu:3
 
 Library (90 cards)
 Master (14; 4 trifle)

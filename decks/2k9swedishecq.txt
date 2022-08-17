@@ -10,16 +10,16 @@ Deck Name: Hotellet (Chelsea Hotel #3)
 
 Description: "I'm only playing the funny location deck" - Larvo Kantarell
 
-Crypt (12 cards, min=17, max=36, avg=7)
----------------------------------------
-5x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
-1x Baldesar Rossellini		8   DOM POT aus for nec	 	  Giovanni:4
-1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
-1x Gualtiero Ghiberti		7   DOM NEC cel pot tha	 	  Giovanni:4
-1x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
-1x Prejudice			4   aus dom nec		 	  Nagaraja:4
-1x Primo Giovanni		4   dom nec pot		 	  Giovanni:4
-1x Lia Milliner			3   dom nec		 	  Giovanni:3
+Crypt (12 cards, min=17 max=36 avg=7)
+-------------------------------------
+5x Guillaume Giovanni           9   CEL DOM NEC POT obt           Giovanni:4
+1x Baldesar Rossellini          8   DOM POT aus for nec           Giovanni:4
+1x Don Michael Antonio Giovanni 7   DOM NEC POT          2 votes  Giovanni:4
+1x Gualtiero Ghiberti           7   DOM NEC cel pot tha           Giovanni:4
+1x Raphaela Giovanni            6   DOM NEC pot pre               Giovanni:4
+1x Prejudice                    4   aus dom nec                   Nagaraja:4
+1x Primo Giovanni               4   dom nec pot                   Giovanni:4
+1x Lia Milliner                 3   dom nec                       Giovanni:3
 
 Library (84 cards)
 Master (36; 3 trifle)

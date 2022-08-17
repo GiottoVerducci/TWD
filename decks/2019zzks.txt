@@ -29,17 +29,17 @@ deck stronger and a definite part of the Top 3 Tier one decks. And in the end,
 a message to all the Walls sitting for 1hr 50mins and doing nothing - You're
 gonna need a bigger bloat!
 
-Crypt (12 cards, min=4, max=23, avg=3.67)
------------------------------------------
-4x Anarch Convert	 1   -none-			Caitiff:ANY
-1x Isanwayen		 6   DOM MYT OBT		Kiasyd:4
-1x Onaedo		 6   DOM OBT aus pot		Lasombra:4
-1x Virginie, Prodigy	 6   DOM POT obt	bishop	Lasombra:4
-1x Banjoko		 5   DOM obt pot		Lasombra:3
-1x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
-1x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
-1x Quincy, The Trapper	 4   dom myt obt		Kiasyd:3
-1x Lucy Markowitz	 3   dom obt			Lasombra:4
+Crypt (12 cards, min=4 max=23 avg=3.67)
+---------------------------------------
+4x Anarch Convert        1   -none-                     Caitiff:ANY
+1x Isanwayen             6   DOM MYT OBT                Kiasyd:4
+1x Onaedo                6   DOM OBT aus pot            Lasombra:4
+1x Virginie, Prodigy     6   DOM POT obt        bishop  Lasombra:4
+1x Banjoko               5   DOM obt pot                Lasombra:3
+1x Dame Hollerton        5   DOM OBT myt                Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
+1x Quincy, The Trapper   4   dom myt obt                Kiasyd:3
+1x Lucy Markowitz        3   dom obt                    Lasombra:4
 
 Library (65 cards)
 Master (12; 1 trifle)

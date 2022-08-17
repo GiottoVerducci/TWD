@@ -10,21 +10,21 @@ https://www.vekn.net/event-calendar/event/8369
 
 Deck Name: The Era of the Small People II
 
-Crypt (13 cards, min=8, max=8, avg=2)
--------------------------------------
-1x Aaron Duggan, Cameron's Toady 2   obt	Lasombra:2
-1x Boy Toy			 2   dem	Malkavian antitribu:2
-1x Carter			 2   cel	Toreador antitribu:2
-1x Christine Boscacci		 2   dom vic	Pander:2
-1x Dani				 2   ani	Nosferatu antitribu:2
-1x Frederick the Weak		 2   pre	Brujah antitribu:2
-1x Gillian Krader		 2   ani dem	Pander:2
-1x Heinrick Schlempt		 2   tha	Tremere antitribu:2
-1x Horatio			 2   vic	Tzimisce:2
-1x Mitchell, The Headhunter	 2   obt pot	Pander:2
-1x New Blood			 2   san	Blood Brother:ANY
-1x Sadie			 2   pro	Gangrel antitribu:2
-1x Samson			 2   dom	Ventrue antitribu:2
+Crypt (13 cards, min=8 max=8 avg=2)
+-----------------------------------
+1x Aaron Duggan, Cameron's Toady 2   obt        Lasombra:2
+1x Boy Toy                       2   dem        Malkavian antitribu:2
+1x Carter                        2   cel        Toreador antitribu:2
+1x Christine Boscacci            2   dom vic    Pander:2
+1x Dani                          2   ani        Nosferatu antitribu:2
+1x Frederick the Weak            2   pre        Brujah antitribu:2
+1x Gillian Krader                2   ani dem    Pander:2
+1x Heinrick Schlempt             2   tha        Tremere antitribu:2
+1x Horatio                       2   vic        Tzimisce:2
+1x Mitchell, The Headhunter      2   obt pot    Pander:2
+1x New Blood                     2   san        Blood Brother:ANY
+1x Sadie                         2   pro        Gangrel antitribu:2
+1x Samson                        2   dom        Ventrue antitribu:2
 
 Library (81 cards)
 Master (19)

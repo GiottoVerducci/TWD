@@ -18,15 +18,15 @@ the table usually bought it from jacks effect, and is definitely
 better to wait until your down a player as defending it against 4
 other meths is NO FUN(tm).
 
-Crypt (12 cards, min=15, max=20, avg=4.58)
-------------------------------------------
-2x Camille Devereux	5   FOR PRO ani		Gangrel:1
-2x Raven		5   FOR PRO ani		Gangrel:1
-3x Mirembe Kabbada	5   PRO SER ani		Gangrel:2
-2x Bear Paw		5   ANI for pre pro	Gangrel:1
-1x Daliyah		4   PRO obf		Nosferatu:2
-1x Anastasia Grey	3   ani pro		Gangrel:1
-1x Chandler Hungerford	3   PRO			Gangrel:2
+Crypt (12 cards, min=15 max=20 avg=4.58)
+----------------------------------------
+2x Camille Devereux     5   FOR PRO ani         Gangrel:1
+2x Raven                5   FOR PRO ani         Gangrel:1
+3x Mirembe Kabbada      5   PRO SER ani         Gangrel:2
+2x Bear Paw             5   ANI for pre pro     Gangrel:1
+1x Daliyah              4   PRO obf             Nosferatu:2
+1x Anastasia Grey       3   ani pro             Gangrel:1
+1x Chandler Hungerford  3   PRO                 Gangrel:2
 
 Library (90 cards)
 Master (24)

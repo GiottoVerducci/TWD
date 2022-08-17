@@ -21,19 +21,19 @@ I'd probably also try to put in more Freak Drives, and definitely
 more Deep Songs, I only own one, thus the lack of them in the deck.
 Other than that, it's a Gangrel deck that does Gangrel things.
 
-Crypt (12 cards, min=9, max=30, avg=5.08)
------------------------------------------
-2x Gunther, Beast Lord	7   ANI aus for pro		  Gangrel:1
-1x Ingrid Rossler	9   ANI FOR PRO dom	prince	  Gangrel:2
-1x Gitane St. Claire	7   ANI FOR PRO		primogen  Gangrel:1
-1x Omaya		7   ANI AUS FOR pro		  Gangrel antitribu:2
-1x Vaclav Petalengro	6   ANI CHI for pot		  Ravnos:2
-1x Bear Paw		5   ANI for pre pro		  Gangrel:1
-1x Roman Alexander	4   ani for pro			  Gangrel:1
-1x Anastasia Grey	3   ani pro			  Gangrel:1
-1x Leon			3   ani for			  Gangrel antitribu:2
-1x Vliam Andor		2   ani				  Gangrel:1
-1x Navar McClaren	1   ani				  Caitiff:1
+Crypt (12 cards, min=9 max=30 avg=5.08)
+---------------------------------------
+2x Gunther, Beast Lord  7   ANI aus for pro               Gangrel:1
+1x Ingrid Rossler       9   ANI FOR PRO dom     prince    Gangrel:2
+1x Gitane St. Claire    7   ANI FOR PRO         primogen  Gangrel:1
+1x Omaya                7   ANI AUS FOR pro               Gangrel antitribu:2
+1x Vaclav Petalengro    6   ANI CHI for pot               Ravnos:2
+1x Bear Paw             5   ANI for pre pro               Gangrel:1
+1x Roman Alexander      4   ani for pro                   Gangrel:1
+1x Anastasia Grey       3   ani pro                       Gangrel:1
+1x Leon                 3   ani for                       Gangrel antitribu:2
+1x Vliam Andor          2   ani                           Gangrel:1
+1x Navar McClaren       1   ani                           Caitiff:1
 
 Library (89 cards)
 Master (14; 1 trifle)

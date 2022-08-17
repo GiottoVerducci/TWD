@@ -13,12 +13,12 @@ Created by: Fernanda
 
 Description: Mult Action: MindRape+Bleed+Abactor
 
-Crypt (12 cards, min=27, max=44, avg=9.08)
-------------------------------------------
-5x Stanislava	  11  ANI CEL DOM FOR PRO  inner circle	 Gangrel:2
-3x Ingrid Rossler 9   ANI FOR PRO dom	   prince	 Gangrel:2
-3x Iliana	  7   DOM FOR PRO tha	   		 Gangrel:2
-1x Caitlin	  6   ANI PRO aus dom	   bishop	 Gangrel antitribu:2
+Crypt (12 cards, min=27 max=44 avg=9.08)
+----------------------------------------
+5x Stanislava     11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+3x Ingrid Rossler 9   ANI FOR PRO dom      prince        Gangrel:2
+3x Iliana         7   DOM FOR PRO tha                    Gangrel:2
+1x Caitlin        6   ANI PRO aus dom      bishop        Gangrel antitribu:2
 
 Library (90 cards)
 Master (21; 6 trifle)

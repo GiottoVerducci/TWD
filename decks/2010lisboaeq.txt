@@ -12,20 +12,20 @@ Basic plan: Govern out some guys, use nocturns for a cheeky bleed of
 1 to move the edge or to block nasty mean deepsong and shambling
 rushes.
 
-Crypt (12 cards, min=11, max=26, avg=4.75)
-------------------------------------------
-1x Henri Lavenant	 7   DOM OBT pot qui		Lasombra:3
-1x Lord Vauxhall	 7   DOM OBT POT THA		Lasombra:4
-1x Isanwayen		 6   DOM MYT OBT		Kiasyd:4
-1x Onaedo		 6   DOM OBT aus pot		Lasombra:4
-1x Andrew Emory		 5   OBT aus dom pot	bishop	Lasombra:4
-1x Banjoko		 5   DOM obt pot		Lasombra:3
-1x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
-1x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
-1x Leila Monroe		 4   dom obt pre		Lasombra:4
-1x Keith Moody		 3   DOM			Tremere antitribu:4
-1x Lucy Markowitz	 3   dom obt			Lasombra:4
-1x Anarch Convert	 1   -none-			Caitiff:ANY
+Crypt (12 cards, min=11 max=26 avg=4.75)
+----------------------------------------
+1x Henri Lavenant        7   DOM OBT pot qui            Lasombra:3
+1x Lord Vauxhall         7   DOM OBT POT THA            Lasombra:4
+1x Isanwayen             6   DOM MYT OBT                Kiasyd:4
+1x Onaedo                6   DOM OBT aus pot            Lasombra:4
+1x Andrew Emory          5   OBT aus dom pot    bishop  Lasombra:4
+1x Banjoko               5   DOM obt pot                Lasombra:3
+1x Dame Hollerton        5   DOM OBT myt                Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
+1x Leila Monroe          4   dom obt pre                Lasombra:4
+1x Keith Moody           3   DOM                        Tremere antitribu:4
+1x Lucy Markowitz        3   dom obt                    Lasombra:4
+1x Anarch Convert        1   -none-                     Caitiff:ANY
 
 Library (85 cards)
 Master (13; 2 trifle)

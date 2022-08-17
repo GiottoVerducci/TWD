@@ -14,18 +14,18 @@ and ensures a good cycle of his cards to get exactly what he needs, when
 he needs it. Apologies if any cards are mentioned more than once, total
 the number of them if it happens.
 
-Crypt (12 cards, min=13, max=35, avg=6)
----------------------------------------
-2x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
-2x Badger			 6   FOR PRO ani pot	  		Gangrel:1
-1x Ian Forestal			 8   AUS DOM THA	  		Tremere antitribu:2
-1x Iliana			 7   DOM FOR PRO tha	  		Gangrel:2
-1x Dylan			 6   aus cel dom for pro  		Ventrue antitribu:2
-1x Lisette Vizquel		 6   DOM POT pro	  bishop	Lasombra:2
-1x Jimmy Dunn			 4   CEL POT for	  		Pander:2
-1x Cameron			 3   dom pot		  		Lasombra:2
-1x Juan Cali			 3   aus for		  		Ventrue antitribu:2
-1x Ricki Van Demsi		 3   for pro		  		Gangrel:1
+Crypt (12 cards, min=13 max=35 avg=6)
+-------------------------------------
+2x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop    Ventrue antitribu:2
+2x Badger                        6   FOR PRO ani pot                    Gangrel:1
+1x Ian Forestal                  8   AUS DOM THA                        Tremere antitribu:2
+1x Iliana                        7   DOM FOR PRO tha                    Gangrel:2
+1x Dylan                         6   aus cel dom for pro                Ventrue antitribu:2
+1x Lisette Vizquel               6   DOM POT pro          bishop        Lasombra:2
+1x Jimmy Dunn                    4   CEL POT for                        Pander:2
+1x Cameron                       3   dom pot                            Lasombra:2
+1x Juan Cali                     3   aus for                            Ventrue antitribu:2
+1x Ricki Van Demsi               3   for pro                            Gangrel:1
 
 Library (86 cards)
 Master (17)

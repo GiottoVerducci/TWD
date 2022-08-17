@@ -14,14 +14,14 @@ The Claws of the Dead are a good surprise but should probably just be Force of
 Personality. Lesson Learned: To give prey hard choices - Pentex Loves You could
 replace Fear of Mekket.
 
-Crypt (12 cards, min=16, max=32, avg=6.33)
-------------------------------------------
-4x Howler	    8	ANI PRE SPI obf		Ahrimane:2
-4x Siamese, The	    7	PRE SPI ani pro		Ahrimane:2
-1x Cynthia Ingold   6	SPI ani for pre		Ahrimane:2
-1x Nettie Hale	    5	ani cel pre pro spi	Ahrimane:2
-1x Juanita Santiago 4	ani pre spi		Ahrimane:2
-1x Igo the Hungry   1	pre pro			Caitiff:1
+Crypt (12 cards, min=16 max=32 avg=6.33)
+----------------------------------------
+4x Howler           8   ANI PRE SPI obf         Ahrimane:2
+4x Siamese, The     7   PRE SPI ani pro         Ahrimane:2
+1x Cynthia Ingold   6   SPI ani for pre         Ahrimane:2
+1x Nettie Hale      5   ani cel pre pro spi     Ahrimane:2
+1x Juanita Santiago 4   ani pre spi             Ahrimane:2
+1x Igo the Hungry   1   pre pro                 Caitiff:1
 
 Library (90 cards)
 Master (19; 8 trifle)

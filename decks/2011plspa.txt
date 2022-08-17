@@ -11,13 +11,13 @@ Deck Name: Time is an illusion, politics a sin.
 
 Description: Stettin, 16. April 2011.
 
-Crypt (12 cards, min=16, max=33, avg=6.08)
-------------------------------------------
-3x Nehemiah		 9   POT PRE SER TEM obt  2 votes  True Brujah:4
-3x Allonzo Montoya	 6   OBF SER ani aus	  	   Abomination:3
-2x Ankh-sen-Sutekh	 6   PRE SER obf	  	   Follower of Set:4
-2x Renenet		 5   OBF PRE ser	  	   Follower of Set:4
-2x Reverend Djoser Jones 3   pre ser		  	   Follower of Set:4
+Crypt (12 cards, min=16 max=33 avg=6.08)
+----------------------------------------
+3x Nehemiah              9   POT PRE SER TEM obt  2 votes  True Brujah:4
+3x Allonzo Montoya       6   OBF SER ani aus               Abomination:3
+2x Ankh-sen-Sutekh       6   PRE SER obf                   Follower of Set:4
+2x Renenet               5   OBF PRE ser                   Follower of Set:4
+2x Reverend Djoser Jones 3   pre ser                       Follower of Set:4
 
 Library (90 cards)
 Master (11)

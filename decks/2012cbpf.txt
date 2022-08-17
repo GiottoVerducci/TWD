@@ -7,19 +7,19 @@ Mehdi Mazni
 
 -- 4VP in final
 
-Crypt (12 cards, min=8, max=20, avg=3.67)
------------------------------------------
-2x Stick		3   ANI				Nosferatu antitribu:4
-1x Céleste Lamontagne	5   ANI PRO for			Gangrel antitribu:4
-1x Effie Lowery		5   ANI SPI obf			Ahrimane:4
-1x Fish			5   ANI POT pre			Guruhi:4
-1x Petra		5   ANI OBF aus			Nosferatu:4
-1x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
-1x Beetleman		4   ANI obf			Nosferatu:4
-1x Bobby Lemon		4   ANI pro			Gangrel:3
-1x Mouse		2   ani				Nosferatu:3
-1x Zip			2   ani				Ravnos:3
-1x Lisa Noble		1   ani				Caitiff:3
+Crypt (12 cards, min=8 max=20 avg=3.67)
+---------------------------------------
+2x Stick                3   ANI                         Nosferatu antitribu:4
+1x Céleste Lamontagne   5   ANI PRO for                 Gangrel antitribu:4
+1x Effie Lowery         5   ANI SPI obf                 Ahrimane:4
+1x Fish                 5   ANI POT pre                 Guruhi:4
+1x Petra                5   ANI OBF aus                 Nosferatu:4
+1x Yuri Kerezenski      5   ANI aus for vic     bishop  Tzimisce:4
+1x Beetleman            4   ANI obf                     Nosferatu:4
+1x Bobby Lemon          4   ANI pro                     Gangrel:3
+1x Mouse                2   ani                         Nosferatu:3
+1x Zip                  2   ani                         Ravnos:3
+1x Lisa Noble           1   ani                         Caitiff:3
 
 Library (90 cards)
 Master (10)

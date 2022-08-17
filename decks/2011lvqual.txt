@@ -19,16 +19,16 @@ to run. Thanks Matt for the deck and thanks to Kevin for another great
 event in Las Vegas. Wish we did not have to wait another year for the
 next one.
 
-Crypt (12 cards, min=17, max=39, avg=7)
----------------------------------------
-5x Ira Rivers	   7   AUS CEL ani pre		prince		Toreador:3
-1x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Madame Guil	   10  AUS CEL PRE for pot ser	justicar	Toreador:3
-1x Marcellus	   8   AUS CEL pro		prince		Toreador:2
-1x Michael Luther  4   aus pre					Toreador:3
-1x Isabel de Leon  3   AUS					Toreador:2
-1x Zöe		   3   AUS cel obf				Malkavian:2
+Crypt (12 cards, min=17 max=39 avg=7)
+-------------------------------------
+5x Ira Rivers      7   AUS CEL ani pre          prince          Toreador:3
+1x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+1x Madame Guil     10  AUS CEL PRE for pot ser  justicar        Toreador:3
+1x Marcellus       8   AUS CEL pro              prince          Toreador:2
+1x Michael Luther  4   aus pre                                  Toreador:3
+1x Isabel de Leon  3   AUS                                      Toreador:2
+1x Zöe             3   AUS cel obf                              Malkavian:2
 
 Library (90 cards)
 Master (25; 4 trifle)

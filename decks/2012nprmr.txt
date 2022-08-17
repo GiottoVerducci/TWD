@@ -7,16 +7,16 @@ Konstantin Prischepa
 
 Deck Name: Malkavian bleed and fire
 
-Crypt (12 cards, min=12, max=36, avg=5.67)
-------------------------------------------
-2x Gravitnir		10  AUS CEL DEM OBF VIC	 priscus  Malkavian antitribu:4
-2x Apache Jones		5   DEM aus for obf	 	  Malkavian antitribu:4
-2x Jackie		3   DEM			 	  Malkavian antitribu:4
-2x Midget		3   DEM obf pre		 	  Malkavian antitribu:3
-1x Persephone Tar-Anis	8   AUS DEM OBF cel pot	 	  Malkavian antitribu:4
-1x Rodolfo		8   AUS DEM OBF pro	 bishop	  Malkavian antitribu:3
-1x Luc			5   OBF dem vic		 	  Malkavian antitribu:4
-1x Uncle George		5   DEM aus dom obf	 	  Malkavian antitribu:3
+Crypt (12 cards, min=12 max=36 avg=5.67)
+----------------------------------------
+2x Gravitnir            10  AUS CEL DEM OBF VIC  priscus  Malkavian antitribu:4
+2x Apache Jones         5   DEM aus for obf               Malkavian antitribu:4
+2x Jackie               3   DEM                           Malkavian antitribu:4
+2x Midget               3   DEM obf pre                   Malkavian antitribu:3
+1x Persephone Tar-Anis  8   AUS DEM OBF cel pot           Malkavian antitribu:4
+1x Rodolfo              8   AUS DEM OBF pro      bishop   Malkavian antitribu:3
+1x Luc                  5   OBF dem vic                   Malkavian antitribu:4
+1x Uncle George         5   DEM aus dom obf               Malkavian antitribu:3
 
 Library (90 cards)
 Master (11)

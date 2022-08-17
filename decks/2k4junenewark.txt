@@ -13,18 +13,18 @@ bleed at stealth, wreck people's day with Week Of Nightmares
 foolishness, make combat cry by using dodge, strike: Combat ends, and
 prevention, and other assorted toolboxy goodness.
 
-Crypt (12 cards, min=17, max=32, avg=6)
----------------------------------------
-2x Gabrin			  8   ANI CHI dom for	   Ravnos:2
-2x Joaquina Amaya		  6   ANI CHI FOR	   Ravnos:2
+Crypt (12 cards, min=17 max=32 avg=6)
+-------------------------------------
+2x Gabrin                         8   ANI CHI dom for      Ravnos:2
+2x Joaquina Amaya                 6   ANI CHI FOR          Ravnos:2
 1x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom  Ravnos:2
-1x Natalia			  7   ANI chi dom for	   Ravnos:2
-1x Vaclav Petalengro		  6   ANI CHI for pot	   Ravnos:2
-1x Andrei Puxon			  5   ani cel chi for	   Ravnos:2
-1x Ghivran Dalaal, The Dead God	  5   FOR ani aus chi	   Ravnos:2
-1x Khalil Ravana		  5   CHI ani for pre	   Ravnos:2
-1x Sennuwy, The Promoter	  4   ani chi for	   Ravnos:2
-1x Lázár Dobrescu		  3   for		   Ravnos:2
+1x Natalia                        7   ANI chi dom for      Ravnos:2
+1x Vaclav Petalengro              6   ANI CHI for pot      Ravnos:2
+1x Andrei Puxon                   5   ani cel chi for      Ravnos:2
+1x Ghivran Dalaal, The Dead God   5   FOR ani aus chi      Ravnos:2
+1x Khalil Ravana                  5   CHI ani for pre      Ravnos:2
+1x Sennuwy, The Promoter          4   ani chi for          Ravnos:2
+1x Lázár Dobrescu                 3   for                  Ravnos:2
 
 Library (90 cards)
 Master (20; 6 trifle)

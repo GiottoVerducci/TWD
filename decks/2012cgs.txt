@@ -11,16 +11,16 @@ Deck Name: So long, and thanks for all the governs
 
 Inspired by Adam Esbjörnsson, Randal Rudstam and Jonas Ståhle.
 
-Crypt (12 cards, min=18, max=26, avg=5.42)
-------------------------------------------
-3x Banjoko		 5   DOM obt pot		Lasombra:3
-2x Henri Lavenant	 7   DOM OBT pot qui		Lasombra:3
-2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
-1x Isanwayen		 6   DOM MYT OBT		Kiasyd:4
-1x Onaedo		 6   DOM OBT aus pot		Lasombra:4
-1x Virginie, Prodigy	 6   DOM POT obt	bishop	Lasombra:4
-1x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
-1x Lucy Markowitz	 3   dom obt			Lasombra:4
+Crypt (12 cards, min=18 max=26 avg=5.42)
+----------------------------------------
+3x Banjoko               5   DOM obt pot                Lasombra:3
+2x Henri Lavenant        7   DOM OBT pot qui            Lasombra:3
+2x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
+1x Isanwayen             6   DOM MYT OBT                Kiasyd:4
+1x Onaedo                6   DOM OBT aus pot            Lasombra:4
+1x Virginie, Prodigy     6   DOM POT obt        bishop  Lasombra:4
+1x Dame Hollerton        5   DOM OBT myt                Kiasyd:4
+1x Lucy Markowitz        3   dom obt                    Lasombra:4
 
 Library (68 cards)
 Master (14; 7 trifle)

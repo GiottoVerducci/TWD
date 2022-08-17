@@ -13,17 +13,17 @@ Description: Pretty straight-forward ANI deck based on
 Erik Torstensson's and Martin Major's decks with Nana.
 Strategy is to backrush 1st ask questions later.
 
-Crypt (12 cards, min=8, max=32, avg=4.83)
------------------------------------------
-4x Nana Buruku		8   ANI POT PRE	 Guruhi:4
-1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
-1x Petra		5   ANI OBF aus	 Nosferatu:4
-1x Beetleman		4   ANI obf	 Nosferatu:4
-1x Bobby Lemon		4   ANI pro	 Gangrel:3
-1x Stick		3   ANI		 Nosferatu antitribu:4
-1x Mouse		2   ani		 Nosferatu:3
-1x Zip			2   ani		 Ravnos:3
-1x Lisa Noble		1   ani		 Caitiff:3
+Crypt (12 cards, min=8 max=32 avg=4.83)
+---------------------------------------
+4x Nana Buruku          8   ANI POT PRE  Guruhi:4
+1x Céleste Lamontagne   5   ANI PRO for  Gangrel antitribu:4
+1x Petra                5   ANI OBF aus  Nosferatu:4
+1x Beetleman            4   ANI obf      Nosferatu:4
+1x Bobby Lemon          4   ANI pro      Gangrel:3
+1x Stick                3   ANI          Nosferatu antitribu:4
+1x Mouse                2   ani          Nosferatu:3
+1x Zip                  2   ani          Ravnos:3
+1x Lisa Noble           1   ani          Caitiff:3
 
 Library (90 cards)
 Master (25; 1 trifle)

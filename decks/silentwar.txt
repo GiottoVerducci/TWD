@@ -9,17 +9,17 @@ forward and stockpile untap to protect the Army of Rats and locations. Drop
 Jack late game, and make an example out of any minion that is foolish enough
 to attempt to destroy it.
 
-Crypt (12 cards, min=13, max=29, avg=5.58)
-------------------------------------------
-2x Gunther, Beast Lord	7   ANI aus for pro		Gangrel:1
-2x Omaya		7   ANI AUS FOR pro		Gangrel antitribu:2
-2x Luther		6   ANI for obt pro		Gangrel antitribu:2
-1x Haakon Mortensen	8   ANI FOR PRO			Gangrel antitribu:2
-1x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
-1x Monique		5   ani aus for pro		Gangrel antitribu:2
-1x Chandler Hungerford	3   PRO				Gangrel:2
-1x Leon			3   ani for			Gangrel antitribu:2
-1x Sadie		2   pro				Gangrel antitribu:2
+Crypt (12 cards, min=13 max=29 avg=5.58)
+----------------------------------------
+2x Gunther, Beast Lord  7   ANI aus for pro             Gangrel:1
+2x Omaya                7   ANI AUS FOR pro             Gangrel antitribu:2
+2x Luther               6   ANI for obt pro             Gangrel antitribu:2
+1x Haakon Mortensen     8   ANI FOR PRO                 Gangrel antitribu:2
+1x Caitlin              6   ANI PRO aus dom     bishop  Gangrel antitribu:2
+1x Monique              5   ani aus for pro             Gangrel antitribu:2
+1x Chandler Hungerford  3   PRO                         Gangrel:2
+1x Leon                 3   ani for                     Gangrel antitribu:2
+1x Sadie                2   pro                         Gangrel antitribu:2
 
 Library (75 cards)
 Master (16)

@@ -7,16 +7,16 @@ Eduardo Mateus
 
 Deck Name: The Traitor Amongst Us
 
-Crypt (13 cards, min=8, max=40, avg=5.69)
------------------------------------------
-5x Marcus Vitel	    10	DOM FOR OBF OBT PRE	prince	Ventrue:3
-2x Old Neddacka	    2	obf				Nosferatu antitribu:4
-1x Raphael Catarari 5	OBF PRE aus pot tha		Nosferatu antitribu:4
-1x Jeffrey Mullins  4	OBF cel				Gangrel antitribu:4
-1x Roger Farnsworth 4	OBF aus				Malkavian antitribu:3
-1x Blister	    3	obf pot				Nosferatu antitribu:4
-1x Bloodfeud	    2	obf				Malkavian antitribu:4
-1x Denette Stensen  2	obf				Gangrel antitribu:4
+Crypt (13 cards, min=8 max=40 avg=5.69)
+---------------------------------------
+5x Marcus Vitel     10  DOM FOR OBF OBT PRE     prince  Ventrue:3
+2x Old Neddacka     2   obf                             Nosferatu antitribu:4
+1x Raphael Catarari 5   OBF PRE aus pot tha             Nosferatu antitribu:4
+1x Jeffrey Mullins  4   OBF cel                         Gangrel antitribu:4
+1x Roger Farnsworth 4   OBF aus                         Malkavian antitribu:3
+1x Blister          3   obf pot                         Nosferatu antitribu:4
+1x Bloodfeud        2   obf                             Malkavian antitribu:4
+1x Denette Stensen  2   obf                             Gangrel antitribu:4
 
 Library (90 cards)
 Master (18; 2 trifle)

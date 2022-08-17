@@ -8,16 +8,16 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/IvMux5HYa_Q
 In the Presence of Lasombra
 by Jeffrey Thompson
 
-Crypt (12 cards, min=28, max=40, avg=8.67)
-------------------------------------------
-3x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
-2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
-2x Jessica				  7   AUS CEL OBT PRE		bishop	    Toreador antitribu:2
-1x Ayelea, The Manipulator		  10  AUS DOM OBT THA pre	cardinal    Tremere antitribu:2
-1x Bronwen				  10  CEL POT PRE dom obt	priscus	    Brujah antitribu:2
-1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
-1x Jacko				  8   CEL POT PRE obt			    Brujah antitribu:2
-1x Sela					  6   POT PRE cel obt		bishop	    Brujah antitribu:2
+Crypt (12 cards, min=28 max=40 avg=8.67)
+----------------------------------------
+3x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
+2x Jessica                                7   AUS CEL OBT PRE           bishop      Toreador antitribu:2
+1x Ayelea, The Manipulator                10  AUS DOM OBT THA pre       cardinal    Tremere antitribu:2
+1x Bronwen                                10  CEL POT PRE dom obt       priscus     Brujah antitribu:2
+1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
+1x Jacko                                  8   CEL POT PRE obt                       Brujah antitribu:2
+1x Sela                                   6   POT PRE cel obt           bishop      Brujah antitribu:2
 
 Library (90 cards)
 Master (14)

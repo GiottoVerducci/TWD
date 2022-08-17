@@ -5,16 +5,16 @@ February 11th 2012
 11 players
 Janne Lönnqvist
 
-Crypt (12 cards, min=20, max=32, avg=6.58)
-------------------------------------------
-4x Paul Cordwood    8	AUS DOM THA obf pre	bishop	Tremere antitribu:4
-2x Preston Varrick  7	DOM OBF THA aus nec		Tremere:4
-1x Graham Gottesman 7	DOM FOR obf pre tha	prince	Ventrue:5
-1x Halim Bey	    6	DOM SER obf tha			Follower of Set:4
-1x Jefferson Foster 6	AUS DOM for tha		bishop	Ventrue antitribu:4
-1x Andrew Stuart    5	AUS DOM THA			Tremere:4
-1x Frondator	    5	AUS dom tha		bishop	Tremere antitribu:4
-1x Janine	    4	aus dom tha			Tremere antitribu:4
+Crypt (12 cards, min=20 max=32 avg=6.58)
+----------------------------------------
+4x Paul Cordwood    8   AUS DOM THA obf pre     bishop  Tremere antitribu:4
+2x Preston Varrick  7   DOM OBF THA aus nec             Tremere:4
+1x Graham Gottesman 7   DOM FOR obf pre tha     prince  Ventrue:5
+1x Halim Bey        6   DOM SER obf tha                 Follower of Set:4
+1x Jefferson Foster 6   AUS DOM for tha         bishop  Ventrue antitribu:4
+1x Andrew Stuart    5   AUS DOM THA                     Tremere:4
+1x Frondator        5   AUS dom tha             bishop  Tremere antitribu:4
+1x Janine           4   aus dom tha                     Tremere antitribu:4
 
 Library (75 cards)
 Master (9; 2 trifle)

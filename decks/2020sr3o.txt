@@ -17,12 +17,12 @@ I initially just had one damaging vote, but every time I added one more, the dec
 Two of the telepathic misdirections could be my enemy's enemy for additional intercept opportunity,
 but I really liked always being able to deflect no matter who is bleeding.
 
-Crypt (12 cards, min=4, max=36, avg=5.58)
------------------------------------------
-4x Anarch Convert		1   -none-		 	   Caitiff:ANY
-3x Gotsdam, The Tired Warrior	9   AUS DOM FOR PRE ani	 	   Ventrue:4
-3x Eurayle Gelasia Mylonas	6   AUS OBE for pre	 	   Salubri:4
-2x Maris Streck			9   AUS OBF ani dem dom	 justicar  Malkavian:3
+Crypt (12 cards, min=4 max=36 avg=5.58)
+---------------------------------------
+4x Anarch Convert               1   -none-                         Caitiff:ANY
+3x Gotsdam, The Tired Warrior   9   AUS DOM FOR PRE ani            Ventrue:4
+3x Eurayle Gelasia Mylonas      6   AUS OBE for pre                Salubri:4
+2x Maris Streck                 9   AUS OBF ani dem dom  justicar  Malkavian:3
 
 Library (87 cards)
 Master (13; 7 trifle)

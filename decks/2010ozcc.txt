@@ -12,14 +12,14 @@ Last minute Protected Resources were gold all day. Ashurs/Anthelios
 showdowns. Anneke was MVP, although Delilah Easton got me the oust on
 the finals table.
 
-Crypt (12 cards, min=15, max=42, avg=7.58)
-------------------------------------------
-4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
-2x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
-2x Delilah Easton  2   pre					Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Isabel de Leon  3   AUS					Toreador:2
+Crypt (12 cards, min=15 max=42 avg=7.58)
+----------------------------------------
+4x Anson           8   CEL PRE aus dom          prince          Toreador:1
+2x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+2x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+2x Delilah Easton  2   pre                                      Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+1x Isabel de Leon  3   AUS                                      Toreador:2
 
 Library (90 cards)
 Master (39; 7 trifle)

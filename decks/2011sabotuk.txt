@@ -38,13 +38,13 @@ The kicker. Nobody expects a Nephandus to Disarm you,
 and nobody expects a Nephandus to survive a Torn Signpost
 *and* Disarm you.
 
-Crypt (12 cards, min=13, max=20, avg=4.33)
-------------------------------------------
-5x Antonio d'Erlette		 5   THA dom for pot	Tremere antitribu:4
-2x Esoara			 5   DOM aus for pot	Tremere antitribu:4
-2x Earl				 4   dom for pot	Ventrue:3
-2x Béatrice "Oracle171" Tremblay 3   inn ven		Innocent:4
-1x Keith Moody			 3   DOM		Tremere antitribu:4
+Crypt (12 cards, min=13 max=20 avg=4.33)
+----------------------------------------
+5x Antonio d'Erlette             5   THA dom for pot    Tremere antitribu:4
+2x Esoara                        5   DOM aus for pot    Tremere antitribu:4
+2x Earl                          4   dom for pot        Ventrue:3
+2x Béatrice "Oracle171" Tremblay 3   inn ven            Innocent:4
+1x Keith Moody                   3   DOM                Tremere antitribu:4
 
 Library (81 cards)
 Master (14)

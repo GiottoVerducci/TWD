@@ -8,16 +8,16 @@ https://www.vekn.net/event-calendar/event/8042
 
 Deck Name: NAG Anu gets a blood
 
-Crypt (12 cards, min=8, max=28, avg=4.17)
------------------------------------------
-5x Anu Diptinatpa   7	DOM NEC aus vic	 Nagaraja:6
-1x Andre LeRoux	    3	aus		 Toreador:5
-1x Alu		    2	obf		 Assamite:5
-1x Dr. Solomon Grey 2	dom pre		 Caitiff:5
-1x Eric Milliner    2	pot		 Giovanni:5
-1x Honest Abe	    2	pre		 Brujah:5
-1x New Blood	    2	san		 Blood Brother:ANY
-1x Nichodemus	    2	pot		 Nosferatu:5
+Crypt (12 cards, min=8 max=28 avg=4.17)
+---------------------------------------
+5x Anu Diptinatpa   7   DOM NEC aus vic  Nagaraja:6
+1x Andre LeRoux     3   aus              Toreador:5
+1x Alu              2   obf              Assamite:5
+1x Dr. Solomon Grey 2   dom pre          Caitiff:5
+1x Eric Milliner    2   pot              Giovanni:5
+1x Honest Abe       2   pre              Brujah:5
+1x New Blood        2   san              Blood Brother:ANY
+1x Nichodemus       2   pot              Nosferatu:5
 
 Library (73 cards)
 Master (23; 6 trifle)

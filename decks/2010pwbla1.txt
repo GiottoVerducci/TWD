@@ -34,14 +34,14 @@ Hand of Conrad actions per turn.
 a "good" combat ran "set close and agg hands, grapple, prevent and
 untap"
 
-Crypt (18 cards, min=4, max=15, avg=1.72)
------------------------------------------
-13x Tupdog	 1    POT VIS		Gargoyle:3
-1x  Esoara	 5    DOM aus for pot	Tremere antitribu:4
-1x  Janine	 4    aus dom tha	Tremere antitribu:4
-1x  Ember Wright 3    aus dom		Tremere antitribu:3
-1x  Keith Moody	 3    DOM		Tremere antitribu:4
-1x  Saiz	 3    aus dom		Tremere antitribu:3
+Crypt (18 cards, min=4 max=15 avg=1.72)
+---------------------------------------
+13x Tupdog       1    POT VIS           Gargoyle:3
+1x  Esoara       5    DOM aus for pot   Tremere antitribu:4
+1x  Janine       4    aus dom tha       Tremere antitribu:4
+1x  Ember Wright 3    aus dom           Tremere antitribu:3
+1x  Keith Moody  3    DOM               Tremere antitribu:4
+1x  Saiz         3    aus dom           Tremere antitribu:3
 
 Library (79 cards)
 Master (13; 2 trifle)

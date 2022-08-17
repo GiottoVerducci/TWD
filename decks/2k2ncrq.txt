@@ -25,14 +25,14 @@ to 2 Methuselahs.
 John Bell
 Prince of Cincinnati
 
-Crypt (12 cards, min=23, max=38, avg=7.67)
-------------------------------------------
-3x Anneke			10  AUS CEL PRE dom	 justicar  Toreador:1
-2x Constanza Vinti		8   CEL DOM POT		 prince	   Brujah:2
-2x Dónal O'Connor		8   CEL DOM POT		 prince	   Brujah:2
-2x Theo Bell			7   POT cel dom pre	 	   Brujah:2
-2x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
-1x Anvil			6   CEL POT dom pre tha	 primogen  Brujah:1
+Crypt (12 cards, min=23 max=38 avg=7.67)
+----------------------------------------
+3x Anneke                       10  AUS CEL PRE dom      justicar  Toreador:1
+2x Constanza Vinti              8   CEL DOM POT          prince    Brujah:2
+2x Dónal O'Connor               8   CEL DOM POT          prince    Brujah:2
+2x Theo Bell                    7   POT cel dom pre                Brujah:2
+2x Volker, The Puppet Prince    5   CEL pot              prince    Brujah:2
+1x Anvil                        6   CEL POT dom pre tha  primogen  Brujah:1
 
 Library (90 cards)
 Master (17)

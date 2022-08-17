@@ -13,17 +13,17 @@ Description: Get out big vampires with ANI/FOR. Minion Tap 'em,
 refill 'em a bit. Do stuff, block stuff, fight stuff. Watch out
 for Basilia - she's got agg hands!
 
-Crypt (12 cards, min=14, max=39, avg=7.33)
-------------------------------------------
-3x Basilia			  10  ANI FOR PRO obf pot  primogen	Gangrel:1
-2x Ingrid Rossler		  9   ANI FOR PRO dom	   prince	Gangrel:2
-1x Katarina			  9   ANI FOR pot pro	   prince	Gangrel:2
-1x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom  		Ravnos:2
-1x Haakon Mortensen		  8   ANI FOR PRO	   		Gangrel antitribu:2
-1x Bear Paw			  5   ANI for pre pro	   		Gangrel:1
-1x Roman Alexander		  4   ani for pro	   		Gangrel:1
-1x Leon				  3   ani for		   		Gangrel antitribu:2
-1x Vliam Andor			  2   ani		   		Gangrel:1
+Crypt (12 cards, min=14 max=39 avg=7.33)
+----------------------------------------
+3x Basilia                        10  ANI FOR PRO obf pot  primogen     Gangrel:1
+2x Ingrid Rossler                 9   ANI FOR PRO dom      prince       Gangrel:2
+1x Katarina                       9   ANI FOR pot pro      prince       Gangrel:2
+1x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom               Ravnos:2
+1x Haakon Mortensen               8   ANI FOR PRO                       Gangrel antitribu:2
+1x Bear Paw                       5   ANI for pre pro                   Gangrel:1
+1x Roman Alexander                4   ani for pro                       Gangrel:1
+1x Leon                           3   ani for                           Gangrel antitribu:2
+1x Vliam Andor                    2   ani                               Gangrel:1
 
 Library (88 cards)
 Master (10)

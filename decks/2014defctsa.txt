@@ -12,16 +12,16 @@ Deck Name: Enchanting Truth
 
 Description: Al-Muntathir and friends with Obfuscate and Presence enchant the world.
 
-Crypt (12 cards, min=19, max=32, avg=6.5)
------------------------------------------
-4x Al-Muntathir, God's Witness	8   AUS FOR PRE TEM obf qui		 True Brujah:5
-2x Stavros			7   AUS OBF PRE dem		priscus	 Malkavian antitribu:4
-1x Isouda de Blaise		7   CEL OBF PRE aus			 Toreador antitribu:4
-1x Ankh-sen-Sutekh		6   PRE SER obf				 Follower of Set:4
-1x Herbert Westin		5   OBF PRE pot				 Brujah:4
-1x Raphael Catarari		5   OBF PRE aus pot tha			 Nosferatu antitribu:4
-1x Renenet			5   OBF PRE ser				 Follower of Set:4
-1x Tyler McGill			4   AUS pre				 Toreador:5
+Crypt (12 cards, min=19 max=32 avg=6.5)
+---------------------------------------
+4x Al-Muntathir, God's Witness  8   AUS FOR PRE TEM obf qui              True Brujah:5
+2x Stavros                      7   AUS OBF PRE dem             priscus  Malkavian antitribu:4
+1x Isouda de Blaise             7   CEL OBF PRE aus                      Toreador antitribu:4
+1x Ankh-sen-Sutekh              6   PRE SER obf                          Follower of Set:4
+1x Herbert Westin               5   OBF PRE pot                          Brujah:4
+1x Raphael Catarari             5   OBF PRE aus pot tha                  Nosferatu antitribu:4
+1x Renenet                      5   OBF PRE ser                          Follower of Set:4
+1x Tyler McGill                 4   AUS pre                              Toreador:5
 
 Library (90 cards)
 Master (14; 4 trifle)

@@ -13,17 +13,17 @@ Created by: Delmar
 
 Description: "Animalism rush"
 
-Crypt (12 cards, min=4, max=16, avg=2.5)
-----------------------------------------
-4x Anarch Convert  1   -none-			Caitiff:ANY
-1x Yuri Kerezenski 5   ANI aus for vic	bishop	Tzimisce:4
-1x Beetleman	   4   ANI obf			Nosferatu:4
-1x Bobby Lemon	   4   ANI pro			Gangrel:3
-1x Bothwell	   3   ani for			Gangrel:3
-1x Darva Felispa   3   ani pot			Nosferatu:3
-1x Neel Ramanathan 3   ani for			Ravnos:4
-1x Stick	   3   ANI			Nosferatu antitribu:4
-1x Lisa Noble	   1   ani			Caitiff:3
+Crypt (12 cards, min=4 max=16 avg=2.5)
+--------------------------------------
+4x Anarch Convert  1   -none-                   Caitiff:ANY
+1x Yuri Kerezenski 5   ANI aus for vic  bishop  Tzimisce:4
+1x Beetleman       4   ANI obf                  Nosferatu:4
+1x Bobby Lemon     4   ANI pro                  Gangrel:3
+1x Bothwell        3   ani for                  Gangrel:3
+1x Darva Felispa   3   ani pot                  Nosferatu:3
+1x Neel Ramanathan 3   ani for                  Ravnos:4
+1x Stick           3   ANI                      Nosferatu antitribu:4
+1x Lisa Noble      1   ani                      Caitiff:3
 
 Library (77 cards)
 Master (20; 4 trifle)

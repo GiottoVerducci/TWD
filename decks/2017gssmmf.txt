@@ -15,16 +15,16 @@ Charigger is pretty nifty if you're seated next to another Nocturne deck, but th
 Shroud of Night is good, but should probably be a third piece of Spectral Divination and Shroud of Absence - that it can't be used in bleeds is pretty devastating after all.
 Even with so much boring dominate, it's actually a lot of fun to play!
 
-Crypt (12 cards, min=13, max=36, avg=6.5)
------------------------------------------
-4x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
-2x Pherydima			8   DOM MYT NEC obt pot	 bishop	  Kiasyd:4
-1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
-1x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
-1x Gianmaria Giovanni		5   POT dom nec obt	 	  Giovanni:5
-1x Thomasso Ghiberti		4   NEC pot		 	  Giovanni:4
-1x Almodo Giovanni		3   dom pot		 	  Giovanni:4
-1x Anarch Convert		1   -none-		 	  Caitiff:ANY
+Crypt (12 cards, min=13 max=36 avg=6.5)
+---------------------------------------
+4x Guillaume Giovanni           9   CEL DOM NEC POT obt           Giovanni:4
+2x Pherydima                    8   DOM MYT NEC obt pot  bishop   Kiasyd:4
+1x Don Michael Antonio Giovanni 7   DOM NEC POT          2 votes  Giovanni:4
+1x Raphaela Giovanni            6   DOM NEC pot pre               Giovanni:4
+1x Gianmaria Giovanni           5   POT dom nec obt               Giovanni:5
+1x Thomasso Ghiberti            4   NEC pot                       Giovanni:4
+1x Almodo Giovanni              3   dom pot                       Giovanni:4
+1x Anarch Convert               1   -none-                        Caitiff:ANY
 
 Library (80 cards)
 Master (16; 3 trifle)

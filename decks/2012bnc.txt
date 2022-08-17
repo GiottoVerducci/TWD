@@ -12,12 +12,12 @@ Deck Name: Wallghouls
 War Ghoul deck featuring Maris Streck. After several failed finals,
 it finally won the Belgian Championship 2012 with 3GW12.5.
 
-Crypt (12 cards, min=8, max=36, avg=5.08)
------------------------------------------
-5x Maris Streck	   9   AUS OBF ani dem dom  justicar	Malkavian:3
-3x Piotr Andreikov 2   aus		    		Tzimisce:3
-2x Wendy Wade	   3   ani aus		    		Tzimisce:2
-2x Horatio	   2   vic		    		Tzimisce:2
+Crypt (12 cards, min=8 max=36 avg=5.08)
+---------------------------------------
+5x Maris Streck    9   AUS OBF ani dem dom  justicar    Malkavian:3
+3x Piotr Andreikov 2   aus                              Tzimisce:3
+2x Wendy Wade      3   ani aus                          Tzimisce:2
+2x Horatio         2   vic                              Tzimisce:2
 
 Library (64 cards)
 Master (16; 2 trifle)

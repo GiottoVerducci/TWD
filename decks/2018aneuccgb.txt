@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/9089
 
 Deck Name: Lasombra bleed
 
-Crypt (12 cards, min=18, max=27, avg=5.75)
-------------------------------------------
-2x Badr, Shadow of Granada 7   DOM OBT POT		Lasombra:5
-2x Isanwayen		   6   DOM MYT OBT		Kiasyd:4
-2x Ermenegildo, The Rake   5   DOM OBT pot		Lasombra:4
-1x Lord Vauxhall	   7   DOM OBT POT THA		Lasombra:4
-1x Black Wallace	   6   DOM POT obt tha		Lasombra:4
-1x Onaedo		   6   DOM OBT aus pot		Lasombra:4
-1x Virginie, Prodigy	   6   DOM POT obt	bishop	Lasombra:4
-1x Dame Hollerton	   5   DOM OBT myt		Kiasyd:4
-1x Lucy Markowitz	   3   dom obt			Lasombra:4
+Crypt (12 cards, min=18 max=27 avg=5.75)
+----------------------------------------
+2x Badr, Shadow of Granada 7   DOM OBT POT              Lasombra:5
+2x Isanwayen               6   DOM MYT OBT              Kiasyd:4
+2x Ermenegildo, The Rake   5   DOM OBT pot              Lasombra:4
+1x Lord Vauxhall           7   DOM OBT POT THA          Lasombra:4
+1x Black Wallace           6   DOM POT obt tha          Lasombra:4
+1x Onaedo                  6   DOM OBT aus pot          Lasombra:4
+1x Virginie, Prodigy       6   DOM POT obt      bishop  Lasombra:4
+1x Dame Hollerton          5   DOM OBT myt              Kiasyd:4
+1x Lucy Markowitz          3   dom obt                  Lasombra:4
 
 Library (82 cards)
 Master (17; 7 trifle)

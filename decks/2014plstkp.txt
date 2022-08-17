@@ -9,11 +9,11 @@ Deck Name: Cybele with Cats!
 
 Description: Be nice and try to kill someone
 
-Crypt (15 cards, min=4, max=40, avg=4)
---------------------------------------
-8x Tupdog	  1   POT VIS			Gargoyle:3
-5x Cybele	  10  ANI DAI OBF PRE SER THA	Baali:4
-2x Anarch Convert 1   -none-			Caitiff:ANY
+Crypt (15 cards, min=4 max=40 avg=4)
+------------------------------------
+8x Tupdog         1   POT VIS                   Gargoyle:3
+5x Cybele         10  ANI DAI OBF PRE SER THA   Baali:4
+2x Anarch Convert 1   -none-                    Caitiff:ANY
 
 Library (86 cards)
 Master (30; 2 trifle)

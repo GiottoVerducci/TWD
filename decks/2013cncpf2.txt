@@ -6,15 +6,15 @@ August 25th 2013
 Martin Miller
 https://www.vekn.net/event-calendar/event/7289
 
-Crypt (12 cards, min=16, max=43, avg=7.58)
-------------------------------------------
-4x Anson	   8   CEL PRE aus dom	    prince	  Toreador:1
-3x Alexandra	   11  ANI AUS CEL PRE dom  inner circle  Toreador:2
-1x Anneke	   10  AUS CEL PRE dom	    justicar	  Toreador:1
-1x Tatiana Romanov 7   AUS cel pre	    prince	  Toreador:1
-1x Dorian Strack   4   AUS cel		    		  Toreador:1
-1x Isabel de Leon  3   AUS		    		  Toreador:2
-1x Delilah Easton  2   pre		    		  Toreador:1
+Crypt (12 cards, min=16 max=43 avg=7.58)
+----------------------------------------
+4x Anson           8   CEL PRE aus dom      prince        Toreador:1
+3x Alexandra       11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+1x Anneke          10  AUS CEL PRE dom      justicar      Toreador:1
+1x Tatiana Romanov 7   AUS cel pre          prince        Toreador:1
+1x Dorian Strack   4   AUS cel                            Toreador:1
+1x Isabel de Leon  3   AUS                                Toreador:2
+1x Delilah Easton  2   pre                                Toreador:1
 
 Library (60 cards)
 Master (27; 2 trifle)

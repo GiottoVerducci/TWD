@@ -11,14 +11,14 @@ Deck Name: Kagamago
 
 Description: Deck Nephandus Ally
 
-Crypt (12 cards, min=11, max=20, avg=3.75)
-------------------------------------------
-5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-2x Ehrich Weiss		3   dom tha		Tremere:3
-2x Keith Moody		3   DOM			Tremere antitribu:4
-1x Ember Wright		3   aus dom		Tremere antitribu:3
-1x Saiz			3   aus dom		Tremere antitribu:3
-1x Ezra Hawthorne	2   tha			Tremere:4
+Crypt (12 cards, min=11 max=20 avg=3.75)
+----------------------------------------
+5x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+2x Ehrich Weiss         3   dom tha             Tremere:3
+2x Keith Moody          3   DOM                 Tremere antitribu:4
+1x Ember Wright         3   aus dom             Tremere antitribu:3
+1x Saiz                 3   aus dom             Tremere antitribu:3
+1x Ezra Hawthorne       2   tha                 Tremere:4
 
 Library (90 cards)
 Master (37; 2 trifle)

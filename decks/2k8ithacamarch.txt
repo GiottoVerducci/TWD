@@ -9,14 +9,14 @@ James Wilhelm
 
 Title: "The Disastrous Consequences of Well-Practiced Optometry"
 
-Crypt (12 cards, min=20, max=34, avg=6.75)
-------------------------------------------
-3x Khalu	   7   AUS CEL POT ani pro  Osebo:3
-3x Homa		   6   AUS CEL POT	    Osebo:4
-2x Massassi	   9   AUS CEL POT QUI obf  Osebo:4
-2x Tatu Sawosa	   8   AUS OBF POT ani cel  Osebo:4
-1x Ismitta	   4   aus cel pot	    Osebo:4
-1x Mariano Pomposo 4   aus cel pot	    Brujah antitribu:3
+Crypt (12 cards, min=20 max=34 avg=6.75)
+----------------------------------------
+3x Khalu           7   AUS CEL POT ani pro  Osebo:3
+3x Homa            6   AUS CEL POT          Osebo:4
+2x Massassi        9   AUS CEL POT QUI obf  Osebo:4
+2x Tatu Sawosa     8   AUS OBF POT ani cel  Osebo:4
+1x Ismitta         4   aus cel pot          Osebo:4
+1x Mariano Pomposo 4   aus cel pot          Brujah antitribu:3
 
 Library (90 cards)
 Master (12)

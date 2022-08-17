@@ -16,14 +16,14 @@ made the cut but I figured with Radu I should try it. It even
 works in torpor! And instead of a variety of combat, I went back
 to good ole' agg + Rotschreck.
 
-Crypt (12 cards, min=19, max=39, avg=7.67)
-------------------------------------------
-3x Terrifisto		10  ANI AUS FOR VIC cel obt	archbishop  Tzimisce:4
-3x Velya, The Flayer	9   ANI AUS PRE VIC for		cardinal    Tzimisce:3
-3x Radu Bistri		8   AUS DOM ani pre vic		cardinal    Tzimisce:4
-1x Yuri Kerezenski	5   ANI aus for vic		bishop	    Tzimisce:4
-1x Droescher One-Eye	3   ani vic				    Tzimisce:4
-1x Ilias cel Frumos	3   aus vic				    Tzimisce:4
+Crypt (12 cards, min=19 max=39 avg=7.67)
+----------------------------------------
+3x Terrifisto           10  ANI AUS FOR VIC cel obt     archbishop  Tzimisce:4
+3x Velya, The Flayer    9   ANI AUS PRE VIC for         cardinal    Tzimisce:3
+3x Radu Bistri          8   AUS DOM ani pre vic         cardinal    Tzimisce:4
+1x Yuri Kerezenski      5   ANI aus for vic             bishop      Tzimisce:4
+1x Droescher One-Eye    3   ani vic                                 Tzimisce:4
+1x Ilias cel Frumos     3   aus vic                                 Tzimisce:4
 
 Library (80 cards)
 Master (20; 7 trifle)

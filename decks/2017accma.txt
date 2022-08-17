@@ -24,13 +24,13 @@ better bleed module than adding legal manipulations, with those and the
 Legendary Vampires I usually had someone who could bleed for 3 at stealth - a
 great plan since 94
 
-Crypt (12 cards, min=26, max=36, avg=7.83)
-------------------------------------------
-4x Dmitra Ilyanova  9	CEL FOR POT PRE obf	justicar  Brujah:5
-4x Scout Youngwood  8	MEL OBF PRE for qui	2 votes	  Daughter of Cacophony:6
-2x Arishat	    6	DAI OBF PRE		1 vote	  Baali:6
-1x Graham Gottesman 7	DOM FOR obf pre tha	prince	  Ventrue:5
-1x Karen Suadela    7	CEL POT obf pre		prince	  Brujah:5
+Crypt (12 cards, min=26 max=36 avg=7.83)
+----------------------------------------
+4x Dmitra Ilyanova  9   CEL FOR POT PRE obf     justicar  Brujah:5
+4x Scout Youngwood  8   MEL OBF PRE for qui     2 votes   Daughter of Cacophony:6
+2x Arishat          6   DAI OBF PRE             1 vote    Baali:6
+1x Graham Gottesman 7   DOM FOR obf pre tha     prince    Ventrue:5
+1x Karen Suadela    7   CEL POT obf pre         prince    Brujah:5
 
 Library (80 cards)
 Master (24; 7 trifle)

@@ -34,15 +34,15 @@ Gurchon Hall doesn't need to be in the deck as I never got any mileage out of it
 Probably better off being another Minion Tap or offensive vote. Probably Ancilia
 Empowerment with the current Ally heavy climate.
 
-Crypt (12 cards, min=29, max=40, avg=8.75)
-------------------------------------------
-4x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-2x Aristotle de Laurent	9   AUS DEM OBF PRE pot			    Malkavian antitribu:3
-2x Isouda de Blaise	7   CEL OBF PRE aus			    Toreador antitribu:4
-1x Alicia Barrows	9   AUS DEM OBF POT PRE		archbishop  Malkavian antitribu:4
-1x Malabranca		9   AUS CEL PRE PRO obf		archbishop  Toreador antitribu:4
-1x Doctor Streck	8   CEL OBF PRE aus pot			    Brujah antitribu:3
-1x Stavros		7   AUS OBF PRE dem		priscus	    Malkavian antitribu:4
+Crypt (12 cards, min=29 max=40 avg=8.75)
+----------------------------------------
+4x Armin Brenner        10  CEL FOR POT PRE ani obf     archbishop  Brujah antitribu:4
+2x Aristotle de Laurent 9   AUS DEM OBF PRE pot                     Malkavian antitribu:3
+2x Isouda de Blaise     7   CEL OBF PRE aus                         Toreador antitribu:4
+1x Alicia Barrows       9   AUS DEM OBF POT PRE         archbishop  Malkavian antitribu:4
+1x Malabranca           9   AUS CEL PRE PRO obf         archbishop  Toreador antitribu:4
+1x Doctor Streck        8   CEL OBF PRE aus pot                     Brujah antitribu:3
+1x Stavros              7   AUS OBF PRE dem             priscus     Malkavian antitribu:4
 
 Library (65 cards)
 Master (18)

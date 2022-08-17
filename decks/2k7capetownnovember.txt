@@ -14,16 +14,16 @@ extras thrown in (e.g. The Secret must be Kept for the Imbued factor).
 
 *Note: In South Africa we use the term 'farm' instead of 'bloat'.
 
-Crypt (12 cards, min=18, max=38, avg=7.08)
-------------------------------------------
-3x Ayo Igoli		10  AUS CEL FOR PRE obf tha		Ishtarri:4
-2x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	Ishtarri:3
-2x Ubende		7   CEL PRE for obf qui		magaji	Ishtarri:4
-1x Mukhtar Bey		7   FOR PRE QUI obf pot		prince	Caitiff:4
-1x Honorine Ateba	6   FOR PRE cel nec			Ishtarri:4
-1x Mustafa, The Heir	6   FOR PRE cel dom		prince	Ventrue:4
-1x Shasa Abu Badr	5   PRE cel for				Ishtarri:4
-1x Tupdog		1   POT VIS				Gargoyle:3
+Crypt (12 cards, min=18 max=38 avg=7.08)
+----------------------------------------
+3x Ayo Igoli            10  AUS CEL FOR PRE obf tha             Ishtarri:4
+2x Falhu Shibaba        8   CEL CHI FOR PRE ani         magaji  Ishtarri:3
+2x Ubende               7   CEL PRE for obf qui         magaji  Ishtarri:4
+1x Mukhtar Bey          7   FOR PRE QUI obf pot         prince  Caitiff:4
+1x Honorine Ateba       6   FOR PRE cel nec                     Ishtarri:4
+1x Mustafa, The Heir    6   FOR PRE cel dom             prince  Ventrue:4
+1x Shasa Abu Badr       5   PRE cel for                         Ishtarri:4
+1x Tupdog               1   POT VIS                             Gargoyle:3
 
 Library (90 cards)
 Master (12; 2 trifle)

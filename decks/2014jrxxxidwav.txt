@@ -12,13 +12,13 @@ Description: This deck is based on Genís Prats' "Dimitri's Big Band"-deck.
 He won Spanish Continental Qualifier B with it in 2011. I have made some
 alterations and streamlined it a bit for my own taste.
 
-Crypt (12 cards, min=30, max=40, avg=8.92)
-------------------------------------------
-5x Dmitri Borodin   10	AUS CEL NEC QUI obf	 	 Assamite:4
-3x Massassi	    9	AUS CEL POT QUI obf	 	 Osebo:4
-2x Kabede Maru	    9	AUS CEL OBF QUI abo pot	 magaji	 Assamite:5
-1x Antara	    8	CEL FOR QUI aus obf pre	 	 Assamite:4
-1x Bertrand d'Anjou 4	aus cel qui		 	 Assamite:4
+Crypt (12 cards, min=30 max=40 avg=8.92)
+----------------------------------------
+5x Dmitri Borodin   10  AUS CEL NEC QUI obf              Assamite:4
+3x Massassi         9   AUS CEL POT QUI obf              Osebo:4
+2x Kabede Maru      9   AUS CEL OBF QUI abo pot  magaji  Assamite:5
+1x Antara           8   CEL FOR QUI aus obf pre          Assamite:4
+1x Bertrand d'Anjou 4   aus cel qui                      Assamite:4
 
 Library (90 cards)
 Master (19; 5 trifle)

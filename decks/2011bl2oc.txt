@@ -12,17 +12,17 @@ Deck Name: Fast and Furious
 Fast moving deck that's easily made! Made it out of the !Malkavian
 preconstructed deck from the Third Edition.
 
-Crypt (12 cards, min=15, max=33, avg=5.92)
-------------------------------------------
-2x Persephone Tar-Anis		   8   AUS DEM OBF cel pot  	    Malkavian antitribu:4
-2x Apache Jones			   5   DEM aus for obf	    	    Malkavian antitribu:4
-2x Beauregard Krueller		   4   aus dem obf	    	    Malkavian antitribu:4
-1x Harold Zettler, Pentex Director 9   AUS DEM OBF POT vic  	    Malkavian antitribu:4
-1x Rodolfo			   8   AUS DEM OBF pro	    bishop  Malkavian antitribu:3
-1x White Lily			   8   DEM OBF cel dom for  	    Malkavian antitribu:4
-1x General Perfidio Díos	   5   AUS dem obf	    bishop  Malkavian antitribu:3
-1x Uncle George			   5   DEM aus dom obf	    	    Malkavian antitribu:3
-1x Bloodfeud			   2   obf		    	    Malkavian antitribu:4
+Crypt (12 cards, min=15 max=33 avg=5.92)
+----------------------------------------
+2x Persephone Tar-Anis             8   AUS DEM OBF cel pot          Malkavian antitribu:4
+2x Apache Jones                    5   DEM aus for obf              Malkavian antitribu:4
+2x Beauregard Krueller             4   aus dem obf                  Malkavian antitribu:4
+1x Harold Zettler, Pentex Director 9   AUS DEM OBF POT vic          Malkavian antitribu:4
+1x Rodolfo                         8   AUS DEM OBF pro      bishop  Malkavian antitribu:3
+1x White Lily                      8   DEM OBF cel dom for          Malkavian antitribu:4
+1x General Perfidio Díos           5   AUS dem obf          bishop  Malkavian antitribu:3
+1x Uncle George                    5   DEM aus dom obf              Malkavian antitribu:3
+1x Bloodfeud                       2   obf                          Malkavian antitribu:4
 
 Library (60 cards)
 Master (7)

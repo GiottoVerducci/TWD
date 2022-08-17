@@ -12,13 +12,13 @@ Deck Name: If You Have Ghosts
 
 Emerald Legionnaire/HoS wall
 
-Crypt (12 cards, min=21, max=37, avg=7.08)
-------------------------------------------
-4x Erebus	   7   AUS FOR NEC dem	    Harbinger of Skulls:3
-3x Erlik	   10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-2x Zygodat	   6   AUS NEC pot	    Harbinger of Skulls:4
-2x Solomon Batanea 5   AUS FOR nec	    Harbinger of Skulls:4
-1x Nicomedes	   5   aus for nec vic	    Harbinger of Skulls:4
+Crypt (12 cards, min=21 max=37 avg=7.08)
+----------------------------------------
+4x Erebus          7   AUS FOR NEC dem      Harbinger of Skulls:3
+3x Erlik           10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+2x Zygodat         6   AUS NEC pot          Harbinger of Skulls:4
+2x Solomon Batanea 5   AUS FOR nec          Harbinger of Skulls:4
+1x Nicomedes       5   aus for nec vic      Harbinger of Skulls:4
 
 Library (69 cards)
 Master (10; 1 trifle)

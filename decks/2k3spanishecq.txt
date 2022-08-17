@@ -6,18 +6,18 @@ César Brera
 
 Deck Name: Spanish_Qualifier_EC03_1r_Clasificado_Cesar_Brera
 
-Crypt (12 cards, min=14, max=26, avg=5.25)
-------------------------------------------
-2x Jost Werner			6   AUS PRE ani			Toreador antitribu:2
-2x Sheila Mezarin		6   AUS PRE cel for		Toreador antitribu:2
-1x Greta Kircher		7   AUS CEL PRE obf		Toreador antitribu:2
-1x Jessica			7   AUS CEL OBT PRE	bishop	Toreador antitribu:2
-1x Ian Wallingford		6   CEL PRE aus		bishop	Toreador antitribu:2
-1x Creamy Jade			5   PRE aus cel vic		Toreador antitribu:3
-1x Mercy, Knight Inquisitor	5   AUS cel dom pre		Toreador antitribu:2
-1x Remilliard, Devout Crusader	4   AUS pre			Toreador antitribu:2
-1x Lolita			3   for pre			Toreador antitribu:2
-1x Carter			2   cel				Toreador antitribu:2
+Crypt (12 cards, min=14 max=26 avg=5.25)
+----------------------------------------
+2x Jost Werner                  6   AUS PRE ani                 Toreador antitribu:2
+2x Sheila Mezarin               6   AUS PRE cel for             Toreador antitribu:2
+1x Greta Kircher                7   AUS CEL PRE obf             Toreador antitribu:2
+1x Jessica                      7   AUS CEL OBT PRE     bishop  Toreador antitribu:2
+1x Ian Wallingford              6   CEL PRE aus         bishop  Toreador antitribu:2
+1x Creamy Jade                  5   PRE aus cel vic             Toreador antitribu:3
+1x Mercy, Knight Inquisitor     5   AUS cel dom pre             Toreador antitribu:2
+1x Remilliard, Devout Crusader  4   AUS pre                     Toreador antitribu:2
+1x Lolita                       3   for pre                     Toreador antitribu:2
+1x Carter                       2   cel                         Toreador antitribu:2
 
 Library (90 cards)
 Master (16; 1 trifle)

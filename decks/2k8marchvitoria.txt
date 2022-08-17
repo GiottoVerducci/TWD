@@ -15,16 +15,16 @@ The equipment and retainer were the two useless cards
 from the deck. I'll replace them with two more Target Vitals
 next time...
 
-Crypt (12 cards, min=13, max=27, avg=4.92)
-------------------------------------------
-2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
-2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
-2x Gloria Giovanni	4   DOM nec		Giovanni:2
-2x Rudolfo Giovanni	3   NEC			Giovanni:2
-1x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
-1x Stefano Giovanni	6   DOM nec pot pre	Giovanni:2
-1x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
-1x Lia Milliner		3   dom nec		Giovanni:3
+Crypt (12 cards, min=13 max=27 avg=4.92)
+----------------------------------------
+2x Andrea Giovanni      7   DOM NEC pot vic     Giovanni:2
+2x Le Dinh Tho          5   NEC aus dom         Nagaraja:2
+2x Gloria Giovanni      4   DOM nec             Giovanni:2
+2x Rudolfo Giovanni     3   NEC                 Giovanni:2
+1x Gillespi Giovanni    7   DOM NEC POT aus     Giovanni:2
+1x Stefano Giovanni     6   DOM nec pot pre     Giovanni:2
+1x Isabel Giovanni      5   DOM NEC pot         Giovanni:2
+1x Lia Milliner         3   dom nec             Giovanni:3
 
 Library (90 cards)
 Master (18; 4 trifle)

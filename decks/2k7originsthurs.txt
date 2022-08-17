@@ -10,16 +10,16 @@ Created by: Gines Quinonero (modified by Josh Duffin)
 
 Sweeps the finals
 
-Crypt (12 cards, min=12, max=40, avg=6.33)
-------------------------------------------
-5x Nergal		10  AUS DAI FOR OBF PRE THA	Baali:5
-1x Louis de Maisonneuve	5   FOR aus dom obf		Ventrue antitribu:4
-1x Petra		5   ANI OBF aus			Nosferatu:4
-1x Beauregard Krueller	4   aus dem obf			Malkavian antitribu:4
-1x Guedado		4   aus obf vic			Tzimisce:4
-1x Jeffrey Mullins	4   OBF cel			Gangrel antitribu:4
-1x Bloodfeud		2   obf				Malkavian antitribu:4
-1x Old Neddacka		2   obf				Nosferatu antitribu:4
+Crypt (12 cards, min=12 max=40 avg=6.33)
+----------------------------------------
+5x Nergal               10  AUS DAI FOR OBF PRE THA     Baali:5
+1x Louis de Maisonneuve 5   FOR aus dom obf             Ventrue antitribu:4
+1x Petra                5   ANI OBF aus                 Nosferatu:4
+1x Beauregard Krueller  4   aus dem obf                 Malkavian antitribu:4
+1x Guedado              4   aus obf vic                 Tzimisce:4
+1x Jeffrey Mullins      4   OBF cel                     Gangrel antitribu:4
+1x Bloodfeud            2   obf                         Malkavian antitribu:4
+1x Old Neddacka         2   obf                         Nosferatu antitribu:4
 
 Library (90 cards)
 Master (9; 1 trifle)

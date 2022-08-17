@@ -7,17 +7,17 @@ Igor Pereira
 Deck Name: Weenie Celerity Sticks
 Created by: Melkor Florindo
 
-Crypt (12 cards, min=7, max=16, avg=3.08)
------------------------------------------
-2x Jimmy Dunn		  4   CEL POT for  Pander:2
-2x Parmenides		  4   CEL qui	   Assamite:2
-2x Sarah Brando		  3   CEL	   Brujah antitribu:2
-1x Scarlet Carson O'Toole 4   CEL pro	   Gangrel antitribu:3
-1x Victor Tolliver	  4   CEL pot	   Brujah antitribu:2
-1x Carter		  2   cel	   Toreador antitribu:2
-1x Jesús Alcalá		  2   cel	   Gangrel antitribu:3
-1x Kanya Akhtar		  2   cel	   Assamite:2
-1x Antoinette DuChamp	  1   cel pre	   Caitiff:2
+Crypt (12 cards, min=7 max=16 avg=3.08)
+---------------------------------------
+2x Jimmy Dunn             4   CEL POT for  Pander:2
+2x Parmenides             4   CEL qui      Assamite:2
+2x Sarah Brando           3   CEL          Brujah antitribu:2
+1x Scarlet Carson O'Toole 4   CEL pro      Gangrel antitribu:3
+1x Victor Tolliver        4   CEL pot      Brujah antitribu:2
+1x Carter                 2   cel          Toreador antitribu:2
+1x Jesús Alcalá           2   cel          Gangrel antitribu:3
+1x Kanya Akhtar           2   cel          Assamite:2
+1x Antoinette DuChamp     1   cel pre      Caitiff:2
 
 Library (89 cards)
 Master (13)

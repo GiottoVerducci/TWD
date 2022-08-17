@@ -12,15 +12,15 @@ Deck Name: Rage Maker 2.0
 
 Description: Block Anything
 
-Crypt (12 cards, min=23, max=40, avg=7.83)
-------------------------------------------
-4x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha	2 votes	 Gangrel:3
-3x Danielle Diron	 7   ANI PRO chi for		1 vote	 Gangrel:3
-1x Ingrid Rossler	 9   ANI FOR PRO dom		prince	 Gangrel:2
-1x Nadima		 8   FOR PRO SER ani aus		 Gangrel:3
-1x Beckett		 7   ANI FOR PRO cel			 Gangrel:3
-1x Antonino		 6   FOR ani pre pro			 Gangrel:3
-1x Chandler Hungerford	 3   PRO				 Gangrel:2
+Crypt (12 cards, min=23 max=40 avg=7.83)
+----------------------------------------
+4x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha    2 votes  Gangrel:3
+3x Danielle Diron        7   ANI PRO chi for            1 vote   Gangrel:3
+1x Ingrid Rossler        9   ANI FOR PRO dom            prince   Gangrel:2
+1x Nadima                8   FOR PRO SER ani aus                 Gangrel:3
+1x Beckett               7   ANI FOR PRO cel                     Gangrel:3
+1x Antonino              6   FOR ani pre pro                     Gangrel:3
+1x Chandler Hungerford   3   PRO                                 Gangrel:2
 
 Library (90 cards)
 Master (20; 7 trifle)

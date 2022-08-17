@@ -6,16 +6,16 @@ Hugh Angseesing
 
 Deck Name: Lorrie goes nuts small cap
 
-Crypt (12 cards, min=15, max=19, avg=4.17)
-------------------------------------------
-5x Lorrie Dunsirn	    4	POT for nec	 Abomination:4
-1x Donatello Giovanni	    5	DOM aus pot pre	 Giovanni:4
-1x Dr. Julius Sutphen (ADV) 5	POT dom obt	 Lasombra:3
-1x Wah Chun-Yuen	    5	POT cel dom pre	 Brujah antitribu:3
-1x Earl			    4	dom for pot	 Ventrue:3
-1x Paulo de Castille	    4	ani dom pot	 Lasombra:4
-1x Primo Giovanni	    4	dom nec pot	 Giovanni:4
-1x Almodo Giovanni	    3	dom pot		 Giovanni:4
+Crypt (12 cards, min=15 max=19 avg=4.17)
+----------------------------------------
+5x Lorrie Dunsirn           4   POT for nec      Abomination:4
+1x Donatello Giovanni       5   DOM aus pot pre  Giovanni:4
+1x Dr. Julius Sutphen (ADV) 5   POT dom obt      Lasombra:3
+1x Wah Chun-Yuen            5   POT cel dom pre  Brujah antitribu:3
+1x Earl                     4   dom for pot      Ventrue:3
+1x Paulo de Castille        4   ani dom pot      Lasombra:4
+1x Primo Giovanni           4   dom nec pot      Giovanni:4
+1x Almodo Giovanni          3   dom pot          Giovanni:4
 
 Library (89 cards)
 Master (13; 2 trifle)

@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/9648
 
 Deck Name: Lutz von Hohenzollern
 
-Crypt (12 cards, min=19, max=44, avg=8.25)
-------------------------------------------
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
-2x Rafael de Corazon	 11  AUS CEL DOM OBF PRE  inner circle	Toreador:4
-2x Alicia Barrows	 9   AUS DEM OBF POT PRE  archbishop	Malkavian antitribu:4
-2x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
-2x Tyler McGill		 4   AUS pre		  		Toreador:5
-1x Pearl		 4   AUS obf		  		Malkavian antitribu:5
+Crypt (12 cards, min=19 max=44 avg=8.25)
+----------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+2x Rafael de Corazon     11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
+2x Alicia Barrows        9   AUS DEM OBF POT PRE  archbishop    Malkavian antitribu:4
+2x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
+2x Tyler McGill          4   AUS pre                            Toreador:5
+1x Pearl                 4   AUS obf                            Malkavian antitribu:5
 
 Library (90 cards)
 Master (9; 5 trifle)

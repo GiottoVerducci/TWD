@@ -9,14 +9,14 @@ Ville Kaijasaari
 
 Deck Name: Gabrielle Righetti & Alonso Petrodon
 
-Crypt (12 cards, min=35, max=43, avg=9.83)
-------------------------------------------
-3x Alonso Petrodon	 10  ANI DOM OBF POT for tha	justicar	Nosferatu:5
-3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
-2x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
-2x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
-1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
-1x Graham Gottesman	 7   DOM FOR obf pre tha	prince		Ventrue:5
+Crypt (12 cards, min=35 max=43 avg=9.83)
+----------------------------------------
+3x Alonso Petrodon       10  ANI DOM OBF POT for tha    justicar        Nosferatu:5
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
+2x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
+2x Orlando Oriundus      9   AUS DOM THA obf            bishop          Tremere antitribu:4
+1x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
+1x Graham Gottesman      7   DOM FOR obf pre tha        prince          Ventrue:5
 
 Library (60 cards)
 Master (16; 7 trifle)

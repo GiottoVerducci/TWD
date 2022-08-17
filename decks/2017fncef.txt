@@ -11,14 +11,14 @@ Deck Name: Ondine has hell to pay in 2017
 Thanks to Tom Lindberg for ideas on playing Ondine.
 My version of the deck focuses on what I though would be cool over what would be practical.
 
-Crypt (13 cards, min=4, max=36, avg=4.69)
------------------------------------------
-5x Anarch Convert		1   -none-		 Caitiff:ANY
-4x Ondine "Boudicca" Sinclair	9   AUS CEL PRE PRO obt	 Toreador antitribu:5
-1x Abiku			6   AUS POT cel obt	 Osebo:4
-1x Redbone McCray		6   AUS PRE cel pro	 Toreador antitribu:4
-1x L'Épuisette			4   aus cel pro		 Toreador antitribu:4
-1x Pearl			4   AUS obf		 Malkavian antitribu:5
+Crypt (13 cards, min=4 max=36 avg=4.69)
+---------------------------------------
+5x Anarch Convert               1   -none-               Caitiff:ANY
+4x Ondine "Boudicca" Sinclair   9   AUS CEL PRE PRO obt  Toreador antitribu:5
+1x Abiku                        6   AUS POT cel obt      Osebo:4
+1x Redbone McCray               6   AUS PRE cel pro      Toreador antitribu:4
+1x L'Épuisette                  4   aus cel pro          Toreador antitribu:4
+1x Pearl                        4   AUS obf              Malkavian antitribu:5
 
 Library (89 cards)
 Master (21; 8 trifle)

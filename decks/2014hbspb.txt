@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/7546
 
 Deck Name: Clubinho do Caviar
 
-Crypt (12 cards, min=32, max=44, avg=10)
-----------------------------------------
-3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-3x Leandro		11  AUS OBF PRE cel dom		inner circle	Malkavian:2
-3x Carlotta Giovanni	7   NEC POT dom obf				Giovanni:2
-2x Etrius		11  AUS DOM OBF THA pro		inner circle	Tremere:2
-1x Harrod		11  ANI CEL OBF POT aus pre	inner circle	Nosferatu:2
+Crypt (12 cards, min=32 max=44 avg=10)
+--------------------------------------
+3x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+3x Leandro              11  AUS OBF PRE cel dom         inner circle    Malkavian:2
+3x Carlotta Giovanni    7   NEC POT dom obf                             Giovanni:2
+2x Etrius               11  AUS DOM OBF THA pro         inner circle    Tremere:2
+1x Harrod               11  ANI CEL OBF POT aus pre     inner circle    Nosferatu:2
 
 Library (90 cards)
 Master (23; 5 trifle)

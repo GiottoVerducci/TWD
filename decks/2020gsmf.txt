@@ -27,13 +27,13 @@ It was kinda fun to play for a while. Liquidation/Ashurs are way too strong and 
 
 All in all, it was nice to play a tournament and it seemes that we have to wait a while until the next opportunity. I'll be more than happy to "organize" (host really) tournaments in the same venue.
 
-Crypt (12 cards, min=26, max=40, avg=8.42)
-------------------------------------------
-5x Cybele	   10  ANI DAI OBF PRE SER THA	Baali:4
-3x Babalawo Alafin 7   AUS FOR NEC ani		Harbinger of Skulls:4
-2x Nana Buruku	   8   ANI POT PRE		Guruhi:4
-1x Aksinya Daclau  9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
-1x Ruxandra	   5   OBF ani aus		Nosferatu:5
+Crypt (12 cards, min=26 max=40 avg=8.42)
+----------------------------------------
+5x Cybele          10  ANI DAI OBF PRE SER THA  Baali:4
+3x Babalawo Alafin 7   AUS FOR NEC ani          Harbinger of Skulls:4
+2x Nana Buruku     8   ANI POT PRE              Guruhi:4
+1x Aksinya Daclau  9   ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+1x Ruxandra        5   OBF ani aus              Nosferatu:5
 
 Library (90 cards)
 Master (41; 9 trifle)

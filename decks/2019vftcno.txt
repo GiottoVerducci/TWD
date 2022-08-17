@@ -15,16 +15,16 @@ Description: Abuse master phase actions and bloat while you pressure your prey
 with bleeds. It's boring but effective. Made and played specifically as a
 spectacle for Ben Peal who was in attendance.
 
-Crypt (12 cards, min=32, max=42, avg=9.17)
-------------------------------------------
-4x Anson				8   CEL PRE aus dom		prince		Toreador:1
-2x Cailean				10  ANI OBF POT PRE dom		archbishop	Nosferatu antitribu:2
-1x Arika				11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Leandro				11  AUS OBF PRE cel dom		inner circle	Malkavian:2
-1x Huitzilopochtli			10  AUS DAI DOM OBF POT PRE			Baali:2
-1x Queen Anne				10  DOM FOR PRE aus obf		prince		Ventrue:2
-1x Kephamos, High Priest of Marrakech	8   SER dom obf pre		2 votes		Follower of Set:2
-1x Sarrasine (ADV)			8   OBF PRE SER aus nec		prince		Follower of Set:2
+Crypt (12 cards, min=32 max=42 avg=9.17)
+----------------------------------------
+4x Anson                                8   CEL PRE aus dom             prince          Toreador:1
+2x Cailean                              10  ANI OBF POT PRE dom         archbishop      Nosferatu antitribu:2
+1x Arika                                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+1x Leandro                              11  AUS OBF PRE cel dom         inner circle    Malkavian:2
+1x Huitzilopochtli                      10  AUS DAI DOM OBF POT PRE                     Baali:2
+1x Queen Anne                           10  DOM FOR PRE aus obf         prince          Ventrue:2
+1x Kephamos, High Priest of Marrakech   8   SER dom obf pre             2 votes         Follower of Set:2
+1x Sarrasine (ADV)                      8   OBF PRE SER aus nec         prince          Follower of Set:2
 
 Library (90 cards)
 Master (47; 7 trifle)

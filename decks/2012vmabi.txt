@@ -10,18 +10,18 @@ Created by: Dominik
 
 Description: classic brujah debate deck inspired by a deck on twda
 
-Crypt (12 cards, min=9, max=22, avg=3.75)
------------------------------------------
-2x Rake					6   PRE aus cel pot	prince	Brujah:1
-2x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
-1x Hector Sosa				4   POT pre			Brujah:1
-1x Yuri, The Talon			4   cel pot pre			Brujah:1
-1x Dre, Leader of the Cold Dawn		3   cel pot			Brujah:1
-1x Raziya Samater			3   ani pot			Brujah:2
-1x Uma Hatch				3   cel pre			Brujah:1
-1x Angel				2   cel				Brujah:1
-1x Lupo					2   pot				Brujah:1
-1x Vasilis, The Traitor of Don Cruez	2   pre				Brujah:2
+Crypt (12 cards, min=9 max=22 avg=3.75)
+---------------------------------------
+2x Rake                                 6   PRE aus cel pot     prince  Brujah:1
+2x Volker, The Puppet Prince            5   CEL pot             prince  Brujah:2
+1x Hector Sosa                          4   POT pre                     Brujah:1
+1x Yuri, The Talon                      4   cel pot pre                 Brujah:1
+1x Dre, Leader of the Cold Dawn         3   cel pot                     Brujah:1
+1x Raziya Samater                       3   ani pot                     Brujah:2
+1x Uma Hatch                            3   cel pre                     Brujah:1
+1x Angel                                2   cel                         Brujah:1
+1x Lupo                                 2   pot                         Brujah:1
+1x Vasilis, The Traitor of Don Cruez    2   pre                         Brujah:2
 
 Library (63 cards)
 Master (26)

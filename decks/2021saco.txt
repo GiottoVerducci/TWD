@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/9745
 
 Deck Name: No secrets in sabotage
 
-Crypt (12 cards, min=10, max=31, avg=5.42)
-------------------------------------------
-4x Uchenna		7   ABO ANI FOR		 magaji	 Akunanse:4
-3x Nkule Galadima	8   ABO FOR ani aus pre	 magaji	 Akunanse:4
-1x Clarissa Steinburgen	3   ani obf		 	 Nosferatu:3
-1x Darva Felispa	3   ani pot		 	 Nosferatu:3
-1x Foureyes		3   obf pot		 	 Nosferatu:4
-1x Krid			2   obf			 	 Nosferatu:3
-1x Mouse		2   ani			 	 Nosferatu:3
+Crypt (12 cards, min=10 max=31 avg=5.42)
+----------------------------------------
+4x Uchenna              7   ABO ANI FOR          magaji  Akunanse:4
+3x Nkule Galadima       8   ABO FOR ani aus pre  magaji  Akunanse:4
+1x Clarissa Steinburgen 3   ani obf                      Nosferatu:3
+1x Darva Felispa        3   ani pot                      Nosferatu:3
+1x Foureyes             3   obf pot                      Nosferatu:4
+1x Krid                 2   obf                          Nosferatu:3
+1x Mouse                2   ani                          Nosferatu:3
 
 Library (65 cards)
 Master (15; 4 trifle)

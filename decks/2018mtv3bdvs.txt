@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9074
 
 Deck Name: Saulot & Tremere!
 
-Crypt (12 cards, min=12, max=44, avg=6.67)
-------------------------------------------
-5x Saulot, The Wanderer	11  AUS FOR OBE THA VAL dai	Salubri:4
-1x Antonio d'Erlette	5   THA dom for pot		Tremere antitribu:4
-1x Janine		4   aus dom tha			Tremere antitribu:4
-1x Mosfair		4   cel dom tha			Tremere antitribu:4
-1x Ember Wright		3   aus dom			Tremere antitribu:3
-1x Keith Moody		3   DOM				Tremere antitribu:4
-1x Lectora		3   aus tha			Tremere antitribu:4
-1x Saiz			3   aus dom			Tremere antitribu:3
+Crypt (12 cards, min=12 max=44 avg=6.67)
+----------------------------------------
+5x Saulot, The Wanderer 11  AUS FOR OBE THA VAL dai     Salubri:4
+1x Antonio d'Erlette    5   THA dom for pot             Tremere antitribu:4
+1x Janine               4   aus dom tha                 Tremere antitribu:4
+1x Mosfair              4   cel dom tha                 Tremere antitribu:4
+1x Ember Wright         3   aus dom                     Tremere antitribu:3
+1x Keith Moody          3   DOM                         Tremere antitribu:4
+1x Lectora              3   aus tha                     Tremere antitribu:4
+1x Saiz                 3   aus dom                     Tremere antitribu:3
 
 Library (88 cards)
 Master (25)

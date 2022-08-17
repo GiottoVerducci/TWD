@@ -9,16 +9,16 @@ Leonardo Villela
 
 Deck Name: Winnie Weapon
 
-Crypt (12 cards, min=11, max=20, avg=4)
----------------------------------------
-3x Black Cat			5   CEL pot pre	 	 Brujah:1
-2x Victor Tolliver		4   CEL pot	 	 Brujah antitribu:2
-2x Sarah Brando			3   CEL		 	 Brujah antitribu:2
-1x Dodd				5   CEL dom pre	 	 Brujah antitribu:2
-1x Volker, The Puppet Prince	5   CEL pot	 prince	 Brujah:2
-1x Jimmy Dunn			4   CEL POT for	 	 Pander:2
-1x Parmenides			4   CEL qui	 	 Assamite:2
-1x Nik				1   cel		 	 Caitiff:1
+Crypt (12 cards, min=11 max=20 avg=4)
+-------------------------------------
+3x Black Cat                    5   CEL pot pre          Brujah:1
+2x Victor Tolliver              4   CEL pot              Brujah antitribu:2
+2x Sarah Brando                 3   CEL                  Brujah antitribu:2
+1x Dodd                         5   CEL dom pre          Brujah antitribu:2
+1x Volker, The Puppet Prince    5   CEL pot      prince  Brujah:2
+1x Jimmy Dunn                   4   CEL POT for          Pander:2
+1x Parmenides                   4   CEL qui              Assamite:2
+1x Nik                          1   cel                  Caitiff:1
 
 Library (90 cards)
 Master (16; 4 trifle)

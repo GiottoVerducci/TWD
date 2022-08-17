@@ -15,12 +15,12 @@ I think 7-8 Will-o-the-Wisps would be better. I couldn't find so many and added
 play Golconda and Festivo delo Estinto. Probably they can be removed. Bujo -
 just for fun)
 
-Crypt (12 cards, min=15, max=44, avg=7)
----------------------------------------
-5x Sha-Ennu		11  ANI AUS CHI VIC obf tha	regent	Tzimisce:4
-4x Maman Boumba		4   inn mar				Martyr:4
-2x Elizabeth Westcott	5   AUS ani cel vic			Tzimisce:3
-1x Martin Franckel	3   AUS tha				Tremere:3
+Crypt (12 cards, min=15 max=44 avg=7)
+-------------------------------------
+5x Sha-Ennu             11  ANI AUS CHI VIC obf tha     regent  Tzimisce:4
+4x Maman Boumba         4   inn mar                             Martyr:4
+2x Elizabeth Westcott   5   AUS ani cel vic                     Tzimisce:3
+1x Martin Franckel      3   AUS tha                             Tremere:3
 
 Library (65 cards)
 Master (15; 2 trifle)

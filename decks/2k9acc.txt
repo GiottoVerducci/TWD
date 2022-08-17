@@ -5,15 +5,15 @@ June 7th 2009
 27 players
 James Floate
 
-Crypt (12 cards, min=13, max=33, avg=5.67)
-------------------------------------------
-3x Massassi	   9   AUS CEL POT QUI obf  	    Osebo:4
-3x Homa		   6   AUS CEL POT	    	    Osebo:4
-2x Kisha Bhimji	   5   AUS cel obf pot	    magaji  Osebo:3
-1x Ismitta	   4   aus cel pot	    	    Osebo:4
-1x Gengis	   3   aus cel pot	    	    Brujah:3
-1x Kamaria	   3   aus pot		    	    Osebo:4
-1x Martin Franckel 3   AUS tha		    	    Tremere:3
+Crypt (12 cards, min=13 max=33 avg=5.67)
+----------------------------------------
+3x Massassi        9   AUS CEL POT QUI obf          Osebo:4
+3x Homa            6   AUS CEL POT                  Osebo:4
+2x Kisha Bhimji    5   AUS cel obf pot      magaji  Osebo:3
+1x Ismitta         4   aus cel pot                  Osebo:4
+1x Gengis          3   aus cel pot                  Brujah:3
+1x Kamaria         3   aus pot                      Osebo:4
+1x Martin Franckel 3   AUS tha                      Tremere:3
 
 Library (80 cards)
 Master (8)

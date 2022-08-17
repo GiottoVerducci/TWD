@@ -7,15 +7,15 @@ Reyda Seddiki
 
 Ahrimane Assault V2
 
-Crypt (12 cards, min=10, max=27, avg=4.75)
-------------------------------------------
-3x Muricia		   7   ANI PRE SPI	Ahrimane:4
-3x Effie Lowery		   5   ANI SPI obf	Ahrimane:4
-2x Darlene Killian	   2   ani spi		Ahrimane:5
-1x Gentha Shale		   6   ANI PRE pot spi	Ahrimane:4
-1x Sahana		   5   ANI pre pro spi	Ahrimane:4
-1x Aiyana, The Wolfcatcher 3   pre spi		Ahrimane:4
-1x Stick		   3   ANI		Nosferatu antitribu:4
+Crypt (12 cards, min=10 max=27 avg=4.75)
+----------------------------------------
+3x Muricia                 7   ANI PRE SPI      Ahrimane:4
+3x Effie Lowery            5   ANI SPI obf      Ahrimane:4
+2x Darlene Killian         2   ani spi          Ahrimane:5
+1x Gentha Shale            6   ANI PRE pot spi  Ahrimane:4
+1x Sahana                  5   ANI pre pro spi  Ahrimane:4
+1x Aiyana, The Wolfcatcher 3   pre spi          Ahrimane:4
+1x Stick                   3   ANI              Nosferatu antitribu:4
 
 Library (87 cards)
 Master (15)

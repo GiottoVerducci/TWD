@@ -11,18 +11,18 @@ Deck Name: St. Anger
 
 Description: Old school Lasombra stealthy vote n' bleed.
 
-Crypt (13 cards, min=21, max=40, avg=7.92)
-------------------------------------------
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
-2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
-1x Lucita				  8   DOM FOR OBT cel pot		    Lasombra:2
-1x Lucita (ADV)				  8   DOM FOR OBT cel pot		    Lasombra:2
-1x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
-1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
-1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
-1x Banjoko				  5   DOM obt pot			    Lasombra:3
-1x Ignacio, The Black Priest		  4   dom obt pot			    Lasombra:2
-1x Ramiro				  4   dom obt vic			    Lasombra:2
+Crypt (13 cards, min=21 max=40 avg=7.92)
+----------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
+2x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
+1x Lucita                                 8   DOM FOR OBT cel pot                   Lasombra:2
+1x Lucita (ADV)                           8   DOM FOR OBT cel pot                   Lasombra:2
+1x Angelica, The Canonicus                10  DOM OBT POT cel obf       cardinal    Lasombra:2
+1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
+1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
+1x Banjoko                                5   DOM obt pot                           Lasombra:3
+1x Ignacio, The Black Priest              4   dom obt pot                           Lasombra:2
+1x Ramiro                                 4   dom obt vic                           Lasombra:2
 
 Library (90 cards)
 Master (19; 4 trifle)

@@ -14,14 +14,14 @@ Blood Bothers with added versatility based on Kari Hyll's prior deck.
 Used in Denmark summer event then Burton on trent:
 1.5r, 0.5r, 2r, 1.5f to win it
 
-Crypt (12 cards, min=20, max=24, avg=5.67)
-------------------------------------------
-4x Mark		6   SAN for obf pot	bishop	Blood Brother:2
-3x Truman	6   FOR SAN dom pot		Blood Brother:2
-2x Ilse		6   POT SAN for pro		Blood Brother:2
-1x Jack		6   cel for pot san		Blood Brother:2
-1x Karl		6   FOR POT pre san		Blood Brother:2
-1x New Blood	2   san				Blood Brother:ANY
+Crypt (12 cards, min=20 max=24 avg=5.67)
+----------------------------------------
+4x Mark         6   SAN for obf pot     bishop  Blood Brother:2
+3x Truman       6   FOR SAN dom pot             Blood Brother:2
+2x Ilse         6   POT SAN for pro             Blood Brother:2
+1x Jack         6   cel for pot san             Blood Brother:2
+1x Karl         6   FOR POT pre san             Blood Brother:2
+1x New Blood    2   san                         Blood Brother:ANY
 
 Library (90 cards)
 Master (18; 6 trifle)

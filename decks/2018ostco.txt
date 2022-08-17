@@ -11,12 +11,12 @@ https://www.vekn.net/event-calendar/event/8958
 Deck Name: From Kiev With Love 2.0
 Created by: David Litwin
 
-Crypt (12 cards, min=24, max=36, avg=7.25)
-------------------------------------------
-4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
-3x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
-3x Arishat	   6   DAI OBF PRE	    1 vote	Baali:6
-2x Tara		   6   POT PRE cel	    prince	Brujah:5
+Crypt (12 cards, min=24 max=36 avg=7.25)
+----------------------------------------
+4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar    Brujah:5
+3x Karen Suadela   7   CEL POT obf pre      prince      Brujah:5
+3x Arishat         6   DAI OBF PRE          1 vote      Baali:6
+2x Tara            6   POT PRE cel          prince      Brujah:5
 
 Library (90 cards)
 Master (19; 4 trifle)

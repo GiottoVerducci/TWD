@@ -10,16 +10,16 @@ Deck Name: Traditional Ventrue Voter Deck
 Description: This is a Ventrue voter deck group 1-2. We have some
 votes, some bleed and, my personal touch, some Traditions.
 
-Crypt (12 cards, min=16, max=36, avg=6.67)
-------------------------------------------
-2x Emerson Bridges		   8   DOM FOR PRE pot		prince		Ventrue:1
-2x Sir Walter Nash		   7   DOM FOR PRE		prince		Ventrue:1
-2x Timothy Crowley		   7   FOR PRE ani dom		prince		Ventrue:1
-2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
-1x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Natasha Volfchek		   9   FOR PRE cel dom pot	primogen	Ventrue:1
-1x Gideon Fontaine		   3   PRE					Ventrue:1
-1x Roland Loussarian		   3   for pre					Ventrue:1
+Crypt (12 cards, min=16 max=36 avg=6.67)
+----------------------------------------
+2x Emerson Bridges                 8   DOM FOR PRE pot          prince          Ventrue:1
+2x Sir Walter Nash                 7   DOM FOR PRE              prince          Ventrue:1
+2x Timothy Crowley                 7   FOR PRE ani dom          prince          Ventrue:1
+2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                              Ventrue:2
+1x Arika                           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+1x Natasha Volfchek                9   FOR PRE cel dom pot      primogen        Ventrue:1
+1x Gideon Fontaine                 3   PRE                                      Ventrue:1
+1x Roland Loussarian               3   for pre                                  Ventrue:1
 
 Library (90 cards)
 Master (13)

@@ -19,20 +19,20 @@ farming from Blood Dolls. You're also looking to get bleed retainers
 and Sniper Rifles, as well as additional weenies. You eventually oust
 your prey with weenie bleeds.
 
-Crypt (12 cards, min=10, max=21, avg=3.92)
-------------------------------------------
-1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot		Nosferatu antitribu:2
-1x Calebros, The Martyr			  5   ANI obf pot	prince	Nosferatu:2
-1x Cicatriz				  5   ani obf pot	bishop	Nosferatu antitribu:2
-1x Gemini				  5   OBF ani obt pot		Nosferatu:3
-1x Nigel the Shunned			  5   ANI POT obf		Nosferatu antitribu:2
-1x Josef				  4   ani obf obt		Nosferatu antitribu:2
-1x Laurent de Valois			  4   ani dom obf		Nosferatu:2
-1x Clarissa Steinburgen			  3   ani obf			Nosferatu:3
-1x Panagos Levidis			  3   ani obf			Gangrel:2
-1x Shannon Price, The Whisperer		  3   ani obf			Nosferatu antitribu:2
-1x Hanna Redmonds			  2   obf tha			Caitiff:3
-1x Krid					  2   obf			Nosferatu:3
+Crypt (12 cards, min=10 max=21 avg=3.92)
+----------------------------------------
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot               Nosferatu antitribu:2
+1x Calebros, The Martyr                   5   ANI obf pot       prince  Nosferatu:2
+1x Cicatriz                               5   ani obf pot       bishop  Nosferatu antitribu:2
+1x Gemini                                 5   OBF ani obt pot           Nosferatu:3
+1x Nigel the Shunned                      5   ANI POT obf               Nosferatu antitribu:2
+1x Josef                                  4   ani obf obt               Nosferatu antitribu:2
+1x Laurent de Valois                      4   ani dom obf               Nosferatu:2
+1x Clarissa Steinburgen                   3   ani obf                   Nosferatu:3
+1x Panagos Levidis                        3   ani obf                   Gangrel:2
+1x Shannon Price, The Whisperer           3   ani obf                   Nosferatu antitribu:2
+1x Hanna Redmonds                         2   obf tha                   Caitiff:3
+1x Krid                                   2   obf                       Nosferatu:3
 
 Library (90 cards)
 Master (19; 6 trifle)

@@ -11,11 +11,11 @@ https://www.vekn.net/event-calendar/event/9758
 Deck Name: Matasuntha e enkidu
 Author: Joab Rogério
 
-Crypt (12 cards, min=4, max=44, avg=7.33)
------------------------------------------
-4x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-4x Matasuntha	    10	ANI AUS CEL FOR PRO	 Gangrel:5
-4x Anarch Convert   1	-none-			 Caitiff:ANY
+Crypt (12 cards, min=4 max=44 avg=7.33)
+---------------------------------------
+4x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+4x Matasuntha       10  ANI AUS CEL FOR PRO      Gangrel:5
+4x Anarch Convert   1   -none-                   Caitiff:ANY
 
 Library (88 cards)
 Master (17; 2 trifle)

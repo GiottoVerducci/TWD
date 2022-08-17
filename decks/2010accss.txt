@@ -9,16 +9,16 @@ Stephen Sing
 
 Magical History
 
-Crypt (12 cards, min=12, max=32, avg=5.67)
-------------------------------------------
-5x Ian Forestal		8   AUS DOM THA		 	 Tremere antitribu:2
-1x Reverend Blackwood	6   DOM THA obf		 bishop	 Tremere antitribu:2
-1x Catherine du Bois	5   DOM for obf pre	 	 Ventrue:3
-1x Cristos Mantigo	5   aus cel dom obf pre	 	 Toreador antitribu:3
-1x Laurent de Valois	4   ani dom obf		 	 Nosferatu:2
-1x Brooke		3   dom tha		 	 Tremere antitribu:2
-1x Saiz			3   aus dom		 	 Tremere antitribu:3
-1x Hanna Redmonds	2   obf tha		 	 Caitiff:3
+Crypt (12 cards, min=12 max=32 avg=5.67)
+----------------------------------------
+5x Ian Forestal         8   AUS DOM THA                  Tremere antitribu:2
+1x Reverend Blackwood   6   DOM THA obf          bishop  Tremere antitribu:2
+1x Catherine du Bois    5   DOM for obf pre              Ventrue:3
+1x Cristos Mantigo      5   aus cel dom obf pre          Toreador antitribu:3
+1x Laurent de Valois    4   ani dom obf                  Nosferatu:2
+1x Brooke               3   dom tha                      Tremere antitribu:2
+1x Saiz                 3   aus dom                      Tremere antitribu:3
+1x Hanna Redmonds       2   obf tha                      Caitiff:3
 
 Library (90 cards)
 Master (23; 6 trifle)

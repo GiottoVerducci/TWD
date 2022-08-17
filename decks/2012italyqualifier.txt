@@ -11,12 +11,12 @@ Deck Name: malkavian against the world
 
 Description: cam malks twisting tables with nasty political tricks
 
-Crypt (12 cards, min=30, max=43, avg=9.25)
-------------------------------------------
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
-3x Rachel Brandywine	 10  AUS DEM OBF PRO ani  prince	Malkavian:3
-3x Maris Streck		 9   AUS OBF ani dem dom  justicar	Malkavian:3
-3x Quentin King III	 7   AUS DEM obf pre	  prince	Malkavian:3
+Crypt (12 cards, min=30 max=43 avg=9.25)
+----------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Rachel Brandywine     10  AUS DEM OBF PRO ani  prince        Malkavian:3
+3x Maris Streck          9   AUS OBF ani dem dom  justicar      Malkavian:3
+3x Quentin King III      7   AUS DEM obf pre      prince        Malkavian:3
 
 Library (75 cards)
 Master (22; 2 trifle)

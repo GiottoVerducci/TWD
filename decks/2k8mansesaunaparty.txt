@@ -9,15 +9,15 @@ Antti Tirilä
 
 "Cheesebox"
 
-Crypt (12 cards, min=15, max=27, avg=5.5)
------------------------------------------
-3x Iliana		7   DOM FOR PRO tha		Gangrel:2
-2x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
-2x Lisette Vizquel	6   DOM POT pro		bishop	Lasombra:2
-2x Chandler Hungerford	3   PRO				Gangrel:2
-1x Horrock		6   ANI PRO vic			Gangrel:3
-1x Mirembe Kabbada	5   PRO SER ani			Gangrel:2
-1x Daliyah		4   PRO obf			Nosferatu:2
+Crypt (12 cards, min=15 max=27 avg=5.5)
+---------------------------------------
+3x Iliana               7   DOM FOR PRO tha             Gangrel:2
+2x Caitlin              6   ANI PRO aus dom     bishop  Gangrel antitribu:2
+2x Lisette Vizquel      6   DOM POT pro         bishop  Lasombra:2
+2x Chandler Hungerford  3   PRO                         Gangrel:2
+1x Horrock              6   ANI PRO vic                 Gangrel:3
+1x Mirembe Kabbada      5   PRO SER ani                 Gangrel:2
+1x Daliyah              4   PRO obf                     Nosferatu:2
 
 Library (90 cards)
 Master (17; 5 trifle)

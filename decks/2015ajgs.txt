@@ -12,16 +12,16 @@ in the other two Nergal was rushed to torpor and graverobbed. I managed to squee
 to race against Adam's Kiasyd bleed around the table. In the heads-up against Kim's wallish !Gangrel I managed to get just enough stealth to win the finals.
 MVP cards of the tournament were: Veneficti, Learjet, Infernal Servitors and ADV-Nergal's special.
 
-Crypt (12 cards, min=9, max=40, avg=6.58)
------------------------------------------
-5x Nergal	   10  AUS DAI FOR OBF PRE THA		Baali:5
-1x Nergal (ADV)	   10  AUS DAI FOR OBF PRE THA		Baali:5
-1x Arishat	   6   DAI OBF PRE		1 vote	Baali:6
-1x Pearl	   4   AUS obf				Malkavian antitribu:5
-1x Lubomira Hradok 3   OBF				Nosferatu antitribu:5
-1x Veejay Vinod	   3   AUS				Nagaraja:6
-1x Alu		   2   obf				Assamite:5
-1x Anarch Convert  1   -none-				Caitiff:ANY
+Crypt (12 cards, min=9 max=40 avg=6.58)
+---------------------------------------
+5x Nergal          10  AUS DAI FOR OBF PRE THA          Baali:5
+1x Nergal (ADV)    10  AUS DAI FOR OBF PRE THA          Baali:5
+1x Arishat         6   DAI OBF PRE              1 vote  Baali:6
+1x Pearl           4   AUS obf                          Malkavian antitribu:5
+1x Lubomira Hradok 3   OBF                              Nosferatu antitribu:5
+1x Veejay Vinod    3   AUS                              Nagaraja:6
+1x Alu             2   obf                              Assamite:5
+1x Anarch Convert  1   -none-                           Caitiff:ANY
 
 Library (71 cards)
 Master (7)

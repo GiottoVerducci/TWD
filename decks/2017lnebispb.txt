@@ -12,17 +12,17 @@ Deck Name: Giovanni Camarada
 
 Description: Bleed + Ant Aliado + Time Deck
 
-Crypt (12 cards, min=9, max=26, avg=4.33)
------------------------------------------
-2x Andrea Giovanni		   7   DOM NEC pot vic	Giovanni:2
-2x Isabel Giovanni		   5   DOM NEC pot	Giovanni:2
-2x Gloria Giovanni		   4   DOM nec		Giovanni:2
-1x Gillespi Giovanni		   7   DOM NEC POT aus	Giovanni:2
-1x Francesca Giovanni		   4   dom nec pot	Giovanni:2
-1x Lia Milliner			   3   dom nec		Giovanni:3
-1x Rudolfo Giovanni		   3   NEC		Giovanni:2
-1x Marciana Giovanni, Investigator 2   dom		Giovanni:2
-1x Anarch Convert		   1   -none-		Caitiff:ANY
+Crypt (12 cards, min=9 max=26 avg=4.33)
+---------------------------------------
+2x Andrea Giovanni                 7   DOM NEC pot vic  Giovanni:2
+2x Isabel Giovanni                 5   DOM NEC pot      Giovanni:2
+2x Gloria Giovanni                 4   DOM nec          Giovanni:2
+1x Gillespi Giovanni               7   DOM NEC POT aus  Giovanni:2
+1x Francesca Giovanni              4   dom nec pot      Giovanni:2
+1x Lia Milliner                    3   dom nec          Giovanni:3
+1x Rudolfo Giovanni                3   NEC              Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom              Giovanni:2
+1x Anarch Convert                  1   -none-           Caitiff:ANY
 
 Library (90 cards)
 Master (13; 4 trifle)

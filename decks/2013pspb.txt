@@ -7,17 +7,17 @@ Mauricio Navate
 
 Deck Name: The wall - Gargoyle forever
 
-Crypt (12 cards, min=11, max=28, avg=5.08)
-------------------------------------------
-3x Ublo-Satha			7   FOR POT VIS cel	Gargoyle:2
-2x Saxum, Master of Slaves	6   FOR VIS pot pre	Gargoyle:2
-1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	Tremere:2
-1x Kyoko Shinsegawa		5   aus cel dom for	Tremere:3
-1x Luma, Stone Beauty		5   FOR aus pot vis	Gargoyle:2
-1x Fidus, The Shrunken Beast	4   for tha vis		Gargoyle:2
-1x Blythe Candeleria		3   THA aus		Tremere:2
-1x Almiro Suarez		2   aus			Tremere:3
-1x Mustafa Rahman		2   dom			Tremere:2
+Crypt (12 cards, min=11 max=28 avg=5.08)
+----------------------------------------
+3x Ublo-Satha                   7   FOR POT VIS cel     Gargoyle:2
+2x Saxum, Master of Slaves      6   FOR VIS pot pre     Gargoyle:2
+1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for     Tremere:2
+1x Kyoko Shinsegawa             5   aus cel dom for     Tremere:3
+1x Luma, Stone Beauty           5   FOR aus pot vis     Gargoyle:2
+1x Fidus, The Shrunken Beast    4   for tha vis         Gargoyle:2
+1x Blythe Candeleria            3   THA aus             Tremere:2
+1x Almiro Suarez                2   aus                 Tremere:3
+1x Mustafa Rahman               2   dom                 Tremere:2
 
 Library (90 cards)
 Master (27; 6 trifle)

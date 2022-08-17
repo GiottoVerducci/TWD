@@ -8,12 +8,12 @@ https://www.vekn.net/event-calendar/event/8525
 
 -- 4VP in final
 
-Crypt (12 cards, min=22, max=40, avg=7.75)
-------------------------------------------
-4x Count Jocalo		10  NEC OBF PRE SER THA	 		Follower of Set:6
-3x Legba		8   PRE SER THA obf	 archbishop	Follower of Set:6
-3x Shahara al-Rashwa	5   OBF SER pre		 		Follower of Set:6
-2x Missy Shillingford	7   AUS SER obf pre	 archbishop	Follower of Set:6
+Crypt (12 cards, min=22 max=40 avg=7.75)
+----------------------------------------
+4x Count Jocalo         10  NEC OBF PRE SER THA                 Follower of Set:6
+3x Legba                8   PRE SER THA obf      archbishop     Follower of Set:6
+3x Shahara al-Rashwa    5   OBF SER pre                         Follower of Set:6
+2x Missy Shillingford   7   AUS SER obf pre      archbishop     Follower of Set:6
 
 Library (90 cards)
 Master (20; 9 trifle)

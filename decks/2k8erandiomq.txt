@@ -6,17 +6,17 @@ Iñaki Jimenez
 
 Deck Name: Assamite Breed & Bloat
 
-Crypt (12 cards, min=12, max=32, avg=5.42)
-------------------------------------------
-4x Amaravati		8   DOM OBF QUI ani chi	 Assamite:4
-1x Hafsa, The Watcher	6   OBF QUI aus cel	 Assamite:5
-1x Vardar Vardarian	6   OBF QUI cel pre	 Assamite:4
-1x Layla bint-Nadr	5   CEL OBF qui		 Assamite:4
-1x Kamau Jafari		4   QUI obf		 Assamite:4
-1x Sajid al Misbah	4   QUI			 Assamite:5
-1x Evan Rogers		3   cel qui		 Assamite:4
-1x Sukainah		3   aus qui		 Assamite:5
-1x Alu			2   obf			 Assamite:5
+Crypt (12 cards, min=12 max=32 avg=5.42)
+----------------------------------------
+4x Amaravati            8   DOM OBF QUI ani chi  Assamite:4
+1x Hafsa, The Watcher   6   OBF QUI aus cel      Assamite:5
+1x Vardar Vardarian     6   OBF QUI cel pre      Assamite:4
+1x Layla bint-Nadr      5   CEL OBF qui          Assamite:4
+1x Kamau Jafari         4   QUI obf              Assamite:4
+1x Sajid al Misbah      4   QUI                  Assamite:5
+1x Evan Rogers          3   cel qui              Assamite:4
+1x Sukainah             3   aus qui              Assamite:5
+1x Alu                  2   obf                  Assamite:5
 
 Library (70 cards)
 Master (15; 1 trifle)

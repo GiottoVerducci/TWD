@@ -5,17 +5,17 @@ October 2nd 2004
 22 players
 David Magri
 
-Crypt (12 cards, min=15, max=25, avg=4.92)
-------------------------------------------
-2x Gaël Pilet			    6	FOR MEL chi pre	 	 Daughter of Cacophony:2
-2x Angela Preston		    5	MEL PRE for	 	 Daughter of Cacophony:2
-2x Delilah Monroe		    4	MEL for pre	 	 Daughter of Cacophony:2
-1x Sir Walter Nash		    7	DOM FOR PRE	 prince	 Ventrue:1
-1x Heather Florent, The Opportunist 6	FOR PRE dom	 	 Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar  5	DOM PRE for	 	 Ventrue:2
-1x Gloria Giovanni		    4	DOM nec		 	 Giovanni:2
-1x Ingrid Russo			    4	DOM for		 	 Ventrue antitribu:2
-1x Céleste, The Voice of a Secret   3	mel pre		 	 Daughter of Cacophony:2
+Crypt (12 cards, min=15 max=25 avg=4.92)
+----------------------------------------
+2x Gaël Pilet                       6   FOR MEL chi pre          Daughter of Cacophony:2
+2x Angela Preston                   5   MEL PRE for              Daughter of Cacophony:2
+2x Delilah Monroe                   4   MEL for pre              Daughter of Cacophony:2
+1x Sir Walter Nash                  7   DOM FOR PRE      prince  Ventrue:1
+1x Heather Florent, The Opportunist 6   FOR PRE dom              Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar  5   DOM PRE for              Ventrue:2
+1x Gloria Giovanni                  4   DOM nec                  Giovanni:2
+1x Ingrid Russo                     4   DOM for                  Ventrue antitribu:2
+1x Céleste, The Voice of a Secret   3   mel pre                  Daughter of Cacophony:2
 
 Library (90 cards)
 Master (14)

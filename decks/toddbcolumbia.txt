@@ -7,17 +7,17 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/7UWNz4gsc_o
 Voting by Brute Force
 by: Todd Banister
 
-Crypt (12 cards, min=17, max=35, avg=6.67)
-------------------------------------------
-3x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
-2x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
-1x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
-1x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
-1x Kendrick			7   ANI POT aus obf	 priscus   Nosferatu antitribu:2
-1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
-1x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
-1x Duck				3   obf pot		 	   Nosferatu:1
-1x Rufina Soledad		2   for			 	   Ventrue:1
+Crypt (12 cards, min=17 max=35 avg=6.67)
+----------------------------------------
+3x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
+2x Suhailah                     9   FOR OBF pot ser      prince    Ventrue:2
+1x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
+1x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
+1x Kendrick                     7   ANI POT aus obf      priscus   Nosferatu antitribu:2
+1x Murat                        7   OBF POT ser          prince    Nosferatu:2
+1x Volker, The Puppet Prince    5   CEL pot              prince    Brujah:2
+1x Duck                         3   obf pot                        Nosferatu:1
+1x Rufina Soledad               2   for                            Ventrue:1
 
 Library (89 cards)
 Master (17)

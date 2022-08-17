@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/9572
 
 Deck Name: Nosfi principes el bueno
 
-Crypt (12 cards, min=22, max=39, avg=7.75)
-------------------------------------------
-3x Cock Robin		10  ANI OBF POT aus for	 justicar  Nosferatu:3
-3x Casino Reeds		9   ANI OBF POT cel dem	 prince	   Nosferatu:3
-2x Murat		7   OBF POT ser		 prince	   Nosferatu:2
-2x Nikolaus Vermeulen	7   POT ani for obf	 prince	   Nosferatu:2
-1x Calebros, The Martyr	5   ANI obf pot		 prince	   Nosferatu:2
-1x Clarissa Steinburgen	3   ani obf		 	   Nosferatu:3
+Crypt (12 cards, min=22 max=39 avg=7.75)
+----------------------------------------
+3x Cock Robin           10  ANI OBF POT aus for  justicar  Nosferatu:3
+3x Casino Reeds         9   ANI OBF POT cel dem  prince    Nosferatu:3
+2x Murat                7   OBF POT ser          prince    Nosferatu:2
+2x Nikolaus Vermeulen   7   POT ani for obf      prince    Nosferatu:2
+1x Calebros, The Martyr 5   ANI obf pot          prince    Nosferatu:2
+1x Clarissa Steinburgen 3   ani obf                        Nosferatu:3
 
 Library (90 cards)
 Master (18; 4 trifle)

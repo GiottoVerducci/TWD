@@ -127,16 +127,16 @@ c) eliminating dangerous votes from the table.
 
 [End Ankur's comments
 
-Crypt (12 cards, min=13, max=29, avg=5.5)
------------------------------------------
-3x Ingram Frizer	   6   AUS OBF ani pot	    Nosferatu antitribu:3
-2x Teresita, The Godmother 7   ANI OBF POT for	    Nosferatu antitribu:3
-2x Piotr Andreikov	   2   aus		    Tzimisce:3
-1x Tarbaby Jack		   8   ANI OBF POT dom ser  Nosferatu antitribu:3
-1x Kazimir Savostin	   7   AUS VIC ani pot	    Tzimisce:3
-1x Quira, The Bitch Queen  6   AUS OBF obt tha	    Malkavian antitribu:2
-1x Colonel, The		   5   AUS cel dem obf	    Malkavian antitribu:3
-1x Roger Farnsworth	   4   OBF aus		    Malkavian antitribu:3
+Crypt (12 cards, min=13 max=29 avg=5.5)
+---------------------------------------
+3x Ingram Frizer           6   AUS OBF ani pot      Nosferatu antitribu:3
+2x Teresita, The Godmother 7   ANI OBF POT for      Nosferatu antitribu:3
+2x Piotr Andreikov         2   aus                  Tzimisce:3
+1x Tarbaby Jack            8   ANI OBF POT dom ser  Nosferatu antitribu:3
+1x Kazimir Savostin        7   AUS VIC ani pot      Tzimisce:3
+1x Quira, The Bitch Queen  6   AUS OBF obt tha      Malkavian antitribu:2
+1x Colonel, The            5   AUS cel dem obf      Malkavian antitribu:3
+1x Roger Farnsworth        4   OBF aus              Malkavian antitribu:3
 
 Library (90 cards)
 Master (15; 3 trifle)

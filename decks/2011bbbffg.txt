@@ -9,14 +9,14 @@ Deck Name: Still waiting for better times
 
 Description: Classic block deck with some nice extras.
 
-Crypt (12 cards, min=18, max=40, avg=7.33)
-------------------------------------------
-3x Marthe Dizier	10  AUS CEL OBF PRE pro			    Toreador antitribu:3
-3x Lucina		7   AUS PRE cel pro		primogen    Toreador:3
-3x L'Épuisette		4   aus cel pro				    Toreador antitribu:4
-1x Christopher Houghton	10  AUS CEL DOM PRE PRO pot		    Toreador:3
-1x Malabranca		9   AUS CEL PRE PRO obf		archbishop  Toreador antitribu:4
-1x Redbone McCray	6   AUS PRE cel pro			    Toreador antitribu:4
+Crypt (12 cards, min=18 max=40 avg=7.33)
+----------------------------------------
+3x Marthe Dizier        10  AUS CEL OBF PRE pro                     Toreador antitribu:3
+3x Lucina               7   AUS PRE cel pro             primogen    Toreador:3
+3x L'Épuisette          4   aus cel pro                             Toreador antitribu:4
+1x Christopher Houghton 10  AUS CEL DOM PRE PRO pot                 Toreador:3
+1x Malabranca           9   AUS CEL PRE PRO obf         archbishop  Toreador antitribu:4
+1x Redbone McCray       6   AUS PRE cel pro                         Toreador antitribu:4
 
 Library (90 cards)
 Master (21; 7 trifle)

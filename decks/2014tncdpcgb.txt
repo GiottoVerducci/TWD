@@ -9,17 +9,17 @@ Deck Name: Akunanse's War
 
 Description: Feel the pain!
 
-Crypt (13 cards, min=25, max=38, avg=7.92)
-------------------------------------------
-1x Kamiri wa Itherero	    10	ABO ANI FOR OBF pot qui	 	 Akunanse:4
-1x Kamiri wa Itherero (ADV) 10	ABO ANI FOR OBF pot qui	 	 Akunanse:4
-2x Matata		    9	ABO ANI FOR aus cel obf	 	 Akunanse:3
-2x Amavi		    8	ABO ANI FOR pre pro	 	 Akunanse:4
-2x Uchenna		    7	ABO ANI FOR		 magaji	 Akunanse:4
-2x Jubal		    6	ABO ANI for pot		 	 Akunanse:4
-1x Umdava		    9	ABO ANI FOR PRE vic	 magaji	 Akunanse:4
-1x Nkule Galadima	    8	ABO FOR ani aus pre	 magaji	 Akunanse:4
-1x Sanjo		    6	ANI FOR abo chi		 	 Akunanse:3
+Crypt (13 cards, min=25 max=38 avg=7.92)
+----------------------------------------
+1x Kamiri wa Itherero       10  ABO ANI FOR OBF pot qui          Akunanse:4
+1x Kamiri wa Itherero (ADV) 10  ABO ANI FOR OBF pot qui          Akunanse:4
+2x Matata                   9   ABO ANI FOR aus cel obf          Akunanse:3
+2x Amavi                    8   ABO ANI FOR pre pro              Akunanse:4
+2x Uchenna                  7   ABO ANI FOR              magaji  Akunanse:4
+2x Jubal                    6   ABO ANI for pot                  Akunanse:4
+1x Umdava                   9   ABO ANI FOR PRE vic      magaji  Akunanse:4
+1x Nkule Galadima           8   ABO FOR ani aus pre      magaji  Akunanse:4
+1x Sanjo                    6   ANI FOR abo chi                  Akunanse:3
 
 Library (89 cards)
 Master (17; 2 trifle)

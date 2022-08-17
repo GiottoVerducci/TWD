@@ -6,16 +6,16 @@ Tom Mickle
 
 Jake & fake, Pool & ghoul, Bounce & trounce
 
-Crypt (24 cards, min=7, max=32, avg=4.21)
------------------------------------------
-5x Little Tailor of Prague 8   ANI AUS VIC dem	Tzimisce:2
-5x Devin Bisley		   5   ANI AUS vic	Tzimisce:2
-3x Isabel de Leon	   3   AUS		Toreador:2
-3x Wendy Wade		   3   ani aus		Tzimisce:2
-3x Zöe			   3   AUS cel obf	Malkavian:2
-2x Brazil		   2   aus		Malkavian:1
-2x Horatio		   2   vic		Tzimisce:2
-1x Franciscus		   1   aus		Caitiff:2
+Crypt (24 cards, min=7 max=32 avg=4.21)
+---------------------------------------
+5x Little Tailor of Prague 8   ANI AUS VIC dem  Tzimisce:2
+5x Devin Bisley            5   ANI AUS vic      Tzimisce:2
+3x Isabel de Leon          3   AUS              Toreador:2
+3x Wendy Wade              3   ani aus          Tzimisce:2
+3x Zöe                     3   AUS cel obf      Malkavian:2
+2x Brazil                  2   aus              Malkavian:1
+2x Horatio                 2   vic              Tzimisce:2
+1x Franciscus              1   aus              Caitiff:2
 
 Library (90 cards)
 Master (25)

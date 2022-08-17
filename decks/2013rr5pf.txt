@@ -14,15 +14,15 @@ Zion (Monastery of Shadows), Giotto Verducci uses the Fragments
 brought back from Kaymakli to attract and organize a secret
 meeting between the leaders of the Ventrue Clan.
 
-Crypt (12 cards, min=26, max=42, avg=8.5)
------------------------------------------
-5x Giotto Verducci	7   DAI OBF for pot pre				Baali:2
-2x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Jaroslav Pascek	10  CEL POT PRE for obf		justicar	Brujah:3
-1x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
-1x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
-1x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
-1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+Crypt (12 cards, min=26 max=42 avg=8.5)
+---------------------------------------
+5x Giotto Verducci      7   DAI OBF for pot pre                         Baali:2
+2x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+1x Jaroslav Pascek      10  CEL POT PRE for obf         justicar        Brujah:3
+1x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
+1x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
+1x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
+1x Catherine du Bois    5   DOM for obf pre                             Ventrue:3
 
 Library (72 cards)
 Master (22; 2 trifle)

@@ -9,13 +9,13 @@ Richard Auckland
 
 Deck Name: The Shambling Hordes
 
-Crypt (12 cards, min=20, max=36, avg=6.67)
-------------------------------------------
-4x Guillaume Giovanni	9   CEL DOM NEC POT obt	 Giovanni:4
-4x Mina Grotius		6   FOR NEC cel		 Harbinger of Skulls:3
-2x Thomasso Ghiberti	4   NEC pot		 Giovanni:4
-1x Raphaela Giovanni	6   DOM NEC pot pre	 Giovanni:4
-1x Zygodat		6   AUS NEC pot		 Harbinger of Skulls:4
+Crypt (12 cards, min=20 max=36 avg=6.67)
+----------------------------------------
+4x Guillaume Giovanni   9   CEL DOM NEC POT obt  Giovanni:4
+4x Mina Grotius         6   FOR NEC cel          Harbinger of Skulls:3
+2x Thomasso Ghiberti    4   NEC pot              Giovanni:4
+1x Raphaela Giovanni    6   DOM NEC pot pre      Giovanni:4
+1x Zygodat              6   AUS NEC pot          Harbinger of Skulls:4
 
 Library (90 cards)
 Master (34; 3 trifle)

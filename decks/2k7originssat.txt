@@ -18,14 +18,14 @@ be a bit nerve-wracking playing without bounce, not to mention the looming
 threat of Anarchist Uprising, but you're not spending a lot of pool on
 minions, and you're gaining a lot from the Con Boons.
 
-Crypt (12 cards, min=12, max=24, avg=4.5)
------------------------------------------
-2x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
-2x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
-2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
-2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
-2x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
-2x Muse				  3   ani for mel	Daughter of Cacophony:2
+Crypt (12 cards, min=12 max=24 avg=4.5)
+---------------------------------------
+2x Gaël Pilet                     6   FOR MEL chi pre   Daughter of Cacophony:2
+2x Yseult                         6   FOR MEL PRE       Daughter of Cacophony:3
+2x Angela Preston                 5   MEL PRE for       Daughter of Cacophony:2
+2x Delilah Monroe                 4   MEL for pre       Daughter of Cacophony:2
+2x Céleste, The Voice of a Secret 3   mel pre           Daughter of Cacophony:2
+2x Muse                           3   ani for mel       Daughter of Cacophony:2
 
 Library (90 cards)
 Master (16)

@@ -16,20 +16,20 @@ or Revelations & bleed, etc.). Thus, you should be able to put a few
 vampires in play at a low cost and quickly. The rest is easy: bleed your
 preys to death:)
 
-Crypt (12 cards, min=15, max=36, avg=6.42)
-------------------------------------------
-1x Hannibal		10  AUS DEM OBF cel dom	 cardinal  Malkavian antitribu:2
-1x Aristotle de Laurent	9   AUS DEM OBF PRE pot	 	   Malkavian antitribu:3
-1x Vasantasena		9   AUS DEM OBF dom pot	 	   Malkavian antitribu:2
-1x Rodolfo		8   AUS DEM OBF pro	 bishop	   Malkavian antitribu:3
-1x Kite			7   AUS DEM obf pre	 bishop	   Malkavian antitribu:2
-1x Korah		7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
-1x Artemis		6   DEM OBF aus cel for	 	   Malkavian antitribu:2
-1x Dolphin Black	6   AUS DEM OBF		 	   Malkavian antitribu:2
-1x Uncle George		5   DEM aus dom obf	 	   Malkavian antitribu:3
-1x Claven		4   aus dem obf		 	   Malkavian antitribu:2
-1x Midget		3   DEM obf pre		 	   Malkavian antitribu:3
-1x Yorik		3   dem obf		 	   Malkavian antitribu:2
+Crypt (12 cards, min=15 max=36 avg=6.42)
+----------------------------------------
+1x Hannibal             10  AUS DEM OBF cel dom  cardinal  Malkavian antitribu:2
+1x Aristotle de Laurent 9   AUS DEM OBF PRE pot            Malkavian antitribu:3
+1x Vasantasena          9   AUS DEM OBF dom pot            Malkavian antitribu:2
+1x Rodolfo              8   AUS DEM OBF pro      bishop    Malkavian antitribu:3
+1x Kite                 7   AUS DEM obf pre      bishop    Malkavian antitribu:2
+1x Korah                7   AUS DEM OBF ani      priscus   Malkavian antitribu:2
+1x Artemis              6   DEM OBF aus cel for            Malkavian antitribu:2
+1x Dolphin Black        6   AUS DEM OBF                    Malkavian antitribu:2
+1x Uncle George         5   DEM aus dom obf                Malkavian antitribu:3
+1x Claven               4   aus dem obf                    Malkavian antitribu:2
+1x Midget               3   DEM obf pre                    Malkavian antitribu:3
+1x Yorik                3   dem obf                        Malkavian antitribu:2
 
 Library (90 cards)
 Master (17; 1 trifle)

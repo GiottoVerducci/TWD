@@ -7,16 +7,16 @@ Tomasz Kowalewski
 
 Deck Name: Saulot with tremere buddies
 
-Crypt (12 cards, min=23, max=44, avg=8.33)
-------------------------------------------
-5x Saulot, The Wanderer		11  AUS FOR OBE THA VAL dai		    Salubri:4
-1x Anastasz di Zagreb		8   AUS THA ani cel dom		justicar    Tremere:3
-1x Carna, The Princess Witch	7   AUS DOM THA			primogen    Tremere:3
-1x Ladislas Toth, The Torch	7   AUS DOM THA for		archbishop  Tremere antitribu:3
-1x Elena Mendoza Vasquez	6   AUS THA dom obt			    Tremere antitribu:3
-1x Selena			6   AUS DOM THA				    Tremere antitribu:3
-1x Yasmin the Black		6   AUS THA dom pre			    Tremere antitribu:3
-1x Frondator			5   AUS dom tha			bishop	    Tremere antitribu:4
+Crypt (12 cards, min=23 max=44 avg=8.33)
+----------------------------------------
+5x Saulot, The Wanderer         11  AUS FOR OBE THA VAL dai                 Salubri:4
+1x Anastasz di Zagreb           8   AUS THA ani cel dom         justicar    Tremere:3
+1x Carna, The Princess Witch    7   AUS DOM THA                 primogen    Tremere:3
+1x Ladislas Toth, The Torch     7   AUS DOM THA for             archbishop  Tremere antitribu:3
+1x Elena Mendoza Vasquez        6   AUS THA dom obt                         Tremere antitribu:3
+1x Selena                       6   AUS DOM THA                             Tremere antitribu:3
+1x Yasmin the Black             6   AUS THA dom pre                         Tremere antitribu:3
+1x Frondator                    5   AUS dom tha                 bishop      Tremere antitribu:4
 
 Library (90 cards)
 Master (21; 6 trifle)

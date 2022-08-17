@@ -7,14 +7,14 @@ David Wittmann
 
 Deck Name: I like to Rumble
 
-Crypt (12 cards, min=12, max=39, avg=7.08)
-------------------------------------------
-4x Hektor		9   CEL POT PRE QUI for		priscus	    Brujah antitribu:4
-3x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-2x Miguel Santo Domingo	7   POT PRE cel for			    Brujah antitribu:3
-1x Caroline Bishops	3   cel for pot				    Pander:4
-1x Jaggedy Andy		1   pot					    Pander:4
-1x Kai Simmons		1   cel					    Pander:4
+Crypt (12 cards, min=12 max=39 avg=7.08)
+----------------------------------------
+4x Hektor               9   CEL POT PRE QUI for         priscus     Brujah antitribu:4
+3x Armin Brenner        10  CEL FOR POT PRE ani obf     archbishop  Brujah antitribu:4
+2x Miguel Santo Domingo 7   POT PRE cel for                         Brujah antitribu:3
+1x Caroline Bishops     3   cel for pot                             Pander:4
+1x Jaggedy Andy         1   pot                                     Pander:4
+1x Kai Simmons          1   cel                                     Pander:4
 
 Library (90 cards)
 Master (16; 1 trifle)

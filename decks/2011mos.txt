@@ -16,14 +16,14 @@ combat instead of combat ends
 volker instead of anneke
 giant's blood during master phase instead of discard phase
 
-Crypt (12 cards, min=26, max=43, avg=8.58)
-------------------------------------------
-4x Anson			8   CEL PRE aus dom		prince		Toreador:1
-3x Alexandra			11  ANI AUS CEL PRE dom		inner circle	Toreador:2
-2x Volker, The Puppet Prince	5   CEL pot			prince		Brujah:2
-1x Anneke			10  AUS CEL PRE dom		justicar	Toreador:1
-1x François Villon		10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Marcellus			8   AUS CEL pro			prince		Toreador:2
+Crypt (12 cards, min=26 max=43 avg=8.58)
+----------------------------------------
+4x Anson                        8   CEL PRE aus dom             prince          Toreador:1
+3x Alexandra                    11  ANI AUS CEL PRE dom         inner circle    Toreador:2
+2x Volker, The Puppet Prince    5   CEL pot                     prince          Brujah:2
+1x Anneke                       10  AUS CEL PRE dom             justicar        Toreador:1
+1x François Villon              10  AUS CEL PRE chi obf pot     prince          Toreador:2
+1x Marcellus                    8   AUS CEL pro                 prince          Toreador:2
 
 Library (79 cards)
 Master (34; 6 trifle)

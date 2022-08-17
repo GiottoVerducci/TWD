@@ -13,15 +13,15 @@ and rush all vampires. After that, bleed with New Carthage. Persistent block alw
 get unaware predators with no combat ends, giving chance to table dominance.
 Long Live to the Brujah!
 
-Crypt (12 cards, min=18, max=37, avg=7.08)
-------------------------------------------
-3x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
-2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
-2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
-2x Tara		   6   POT PRE cel	    prince	Brujah:5
-1x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
-1x Garret	   3   pot pre		    		Brujah:4
-1x Lynn Thompson   3   cel pot		    		Brujah:5
+Crypt (12 cards, min=18 max=37 avg=7.08)
+----------------------------------------
+3x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar    Brujah:5
+2x Carlak          8   CEL PRE dom pot      prince      Brujah:5
+2x Karen Suadela   7   CEL POT obf pre      prince      Brujah:5
+2x Tara            6   POT PRE cel          prince      Brujah:5
+1x Jann Berger     10  CEL POT PRE dem for  prince      Brujah:4
+1x Garret          3   pot pre                          Brujah:4
+1x Lynn Thompson   3   cel pot                          Brujah:5
 
 Library (90 cards)
 Master (18; 8 trifle)

@@ -7,18 +7,18 @@ http://www.veknfrance.com/site/IMG/pdf/CV_Vekn_Paris.pdf
 
 Deck Name: Magic Circus Deck
 
-Crypt (12 cards, min=8, max=14, avg=2.83)
------------------------------------------
-2x Wendy Wade	   3   ani aus	    Tzimisce:2
-2x Vliam Andor	   2   ani	    Gangrel:1
-1x Devin Bisley	   5   ANI AUS vic  Tzimisce:2
-1x Anastasia Grey  3   ani pro	    Gangrel:1
-1x Leon		   3   ani for	    Gangrel antitribu:2
-1x Panagos Levidis 3   ani obf	    Gangrel:2
-1x Raziya Samater  3   ani pot	    Brujah:2
-1x Tommy	   3   ani pot	    Nosferatu antitribu:2
-1x Dani		   2   ani	    Nosferatu antitribu:2
-1x Gillian Krader  2   ani dem	    Pander:2
+Crypt (12 cards, min=8 max=14 avg=2.83)
+---------------------------------------
+2x Wendy Wade      3   ani aus      Tzimisce:2
+2x Vliam Andor     2   ani          Gangrel:1
+1x Devin Bisley    5   ANI AUS vic  Tzimisce:2
+1x Anastasia Grey  3   ani pro      Gangrel:1
+1x Leon            3   ani for      Gangrel antitribu:2
+1x Panagos Levidis 3   ani obf      Gangrel:2
+1x Raziya Samater  3   ani pot      Brujah:2
+1x Tommy           3   ani pot      Nosferatu antitribu:2
+1x Dani            2   ani          Nosferatu antitribu:2
+1x Gillian Krader  2   ani dem      Pander:2
 
 Library (90 cards)
 Master (19)

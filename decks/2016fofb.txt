@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/8314
 
 Deck Name: Sebastian and its narnia whores
 
-Crypt (12 cards, min=10, max=34, avg=6.08)
-------------------------------------------
-4x Sébastien Goulet	  8   DOM OBF cel pre pro  		Gangrel antitribu:3
-1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro  		Gangrel antitribu:3
-1x Hartmut Stover	  10  CEL OBF PRO dom for  archbishop	Gangrel antitribu:3
-1x Soldat		  7   POT PRO cel dom obf  		Gangrel antitribu:3
-1x Caitlin		  6   ANI PRO aus dom	   bishop	Gangrel antitribu:2
-1x Pieter		  6   OBF PRO for tha	   		Gangrel antitribu:2
-1x Sadie		  2   pro		   		Gangrel antitribu:2
-1x Anarch Convert	  1   -none-		   		Caitiff:ANY
-1x Royce		  1   dom		   		Pander:2
+Crypt (12 cards, min=10 max=34 avg=6.08)
+----------------------------------------
+4x Sébastien Goulet       8   DOM OBF cel pre pro               Gangrel antitribu:3
+1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro               Gangrel antitribu:3
+1x Hartmut Stover         10  CEL OBF PRO dom for  archbishop   Gangrel antitribu:3
+1x Soldat                 7   POT PRO cel dom obf               Gangrel antitribu:3
+1x Caitlin                6   ANI PRO aus dom      bishop       Gangrel antitribu:2
+1x Pieter                 6   OBF PRO for tha                   Gangrel antitribu:2
+1x Sadie                  2   pro                               Gangrel antitribu:2
+1x Anarch Convert         1   -none-                            Caitiff:ANY
+1x Royce                  1   dom                               Pander:2
 
 Library (90 cards)
 Master (18; 6 trifle)

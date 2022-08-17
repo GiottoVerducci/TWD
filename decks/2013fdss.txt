@@ -7,17 +7,17 @@ Jonas Hovmark
 
 Deck Name: Ventrue Anti Grind
 
-Crypt (12 cards, min=10, max=30, avg=4.83)
-------------------------------------------
-2x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 Ventrue antitribu:3
-2x Blackhorse Tanner		7   AUS DOM FOR		 Ventrue antitribu:3
-2x Neighbor John		5   AUS dom for		 Ventrue antitribu:4
-1x Jephta Hester		5   DOM FOR aus		 Ventrue antitribu:4
-1x Keith Moody			3   DOM			 Tremere antitribu:4
-1x Lana Butcher			3   dom for		 Ventrue:3
-1x Ulrike Rothbart		3   dom for		 Ventrue antitribu:4
-1x Aimee Laroux			2   for pre		 Daughter of Cacophony:4
-1x Sarah Raines			2   for			 Gangrel:3
+Crypt (12 cards, min=10 max=30 avg=4.83)
+----------------------------------------
+2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre  Ventrue antitribu:3
+2x Blackhorse Tanner            7   AUS DOM FOR          Ventrue antitribu:3
+2x Neighbor John                5   AUS dom for          Ventrue antitribu:4
+1x Jephta Hester                5   DOM FOR aus          Ventrue antitribu:4
+1x Keith Moody                  3   DOM                  Tremere antitribu:4
+1x Lana Butcher                 3   dom for              Ventrue:3
+1x Ulrike Rothbart              3   dom for              Ventrue antitribu:4
+1x Aimee Laroux                 2   for pre              Daughter of Cacophony:4
+1x Sarah Raines                 2   for                  Gangrel:3
 
 Library (86 cards)
 Master (10; 3 trifle)

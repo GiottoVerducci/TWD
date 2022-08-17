@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/8570
 
 Deck Name: Heart of Nilceu
 
-Crypt (12 cards, min=16, max=28, avg=5.58)
-------------------------------------------
-3x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
-2x Selena			6   AUS DOM THA			  Tremere antitribu:3
-1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		  Tremere:2
-1x Eugenio Estevez		6   AUS THA dom for		  Tremere:3
-1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
-1x Cohn Rose			5   THA aus dom pre		  Tremere:3
-1x Hannigan			5   AUS THA dom			  Tremere antitribu:2
-1x Blythe Candeleria		3   THA aus			  Tremere:2
-1x Brooke			3   dom tha			  Tremere antitribu:2
+Crypt (12 cards, min=16 max=28 avg=5.58)
+----------------------------------------
+3x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
+2x Selena                       6   AUS DOM THA                   Tremere antitribu:3
+1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for               Tremere:2
+1x Eugenio Estevez              6   AUS THA dom for               Tremere:3
+1x Aisling Sturbridge           5   AUS THA dom                   Tremere:2
+1x Cohn Rose                    5   THA aus dom pre               Tremere:3
+1x Hannigan                     5   AUS THA dom                   Tremere antitribu:2
+1x Blythe Candeleria            3   THA aus                       Tremere:2
+1x Brooke                       3   dom tha                       Tremere antitribu:2
 
 Library (90 cards)
 Master (13; 2 trifle)

@@ -10,20 +10,20 @@ https://www.vekn.net/event-calendar/event/7919
 
 Deck Name: Bolachas Maria
 
-Crypt (12 cards, min=10, max=18, avg=3.67)
-------------------------------------------
-1x Amelia, The Blood Red Tears	5   POT ani obf	 Nosferatu:3
-1x Marlena			5   POT cel pre	 Brujah:3
-1x Agatha			4   POT obf	 Nosferatu antitribu:2
-1x Allison Maller		4   cel pot pre	 Brujah:3
-1x Chas Giovanni Tello		4   DOM POT	 Giovanni:2
-1x Earl				4   dom for pot	 Ventrue:3
-1x Shane Grimald		4   ani dom pot	 Gangrel antitribu:2
-1x Tock				4   obf pot pre	 Nosferatu antitribu:3
-1x Wolfgang			4   for obf pot	 Nosferatu:3
-1x Tommy			3   ani pot	 Nosferatu antitribu:2
-1x Paul DiCarlo, The Alpha	2   pot		 Giovanni:2
-1x Anarch Convert		1   -none-	 Caitiff:ANY
+Crypt (12 cards, min=10 max=18 avg=3.67)
+----------------------------------------
+1x Amelia, The Blood Red Tears  5   POT ani obf  Nosferatu:3
+1x Marlena                      5   POT cel pre  Brujah:3
+1x Agatha                       4   POT obf      Nosferatu antitribu:2
+1x Allison Maller               4   cel pot pre  Brujah:3
+1x Chas Giovanni Tello          4   DOM POT      Giovanni:2
+1x Earl                         4   dom for pot  Ventrue:3
+1x Shane Grimald                4   ani dom pot  Gangrel antitribu:2
+1x Tock                         4   obf pot pre  Nosferatu antitribu:3
+1x Wolfgang                     4   for obf pot  Nosferatu:3
+1x Tommy                        3   ani pot      Nosferatu antitribu:2
+1x Paul DiCarlo, The Alpha      2   pot          Giovanni:2
+1x Anarch Convert               1   -none-       Caitiff:ANY
 
 Library (90 cards)
 Master (21; 2 trifle)

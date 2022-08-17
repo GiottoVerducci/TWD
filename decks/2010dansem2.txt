@@ -7,13 +7,13 @@ Tomasz Izydorczyk
 
 Deck Name: Miscegenation
 
-Crypt (12 cards, min=22, max=36, avg=7.67)
-------------------------------------------
-4x Dmitra Ilyanova	9   CEL FOR POT PRE obf	 justicar  Brujah:5
-3x Undele		9   CEL FOR obf pre ser	 magaji	   Ishtarri:5
-2x Mustafa, The Heir	6   FOR PRE cel dom	 prince	   Ventrue:4
-2x Victor Pelletier	5   PRE cel dom for	 	   Ventrue:4
-1x Mukhtar Bey		7   FOR PRE QUI obf pot	 prince	   Caitiff:4
+Crypt (12 cards, min=22 max=36 avg=7.67)
+----------------------------------------
+4x Dmitra Ilyanova      9   CEL FOR POT PRE obf  justicar  Brujah:5
+3x Undele               9   CEL FOR obf pre ser  magaji    Ishtarri:5
+2x Mustafa, The Heir    6   FOR PRE cel dom      prince    Ventrue:4
+2x Victor Pelletier     5   PRE cel dom for                Ventrue:4
+1x Mukhtar Bey          7   FOR PRE QUI obf pot  prince    Caitiff:4
 
 Library (90 cards)
 Master (20; 6 trifle)

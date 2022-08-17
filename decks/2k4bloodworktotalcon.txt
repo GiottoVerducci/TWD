@@ -6,15 +6,15 @@ David Weesner
 
 Weesner's Stealth-Bleed
 
-Crypt (12 cards, min=20, max=34, avg=6.83)
-------------------------------------------
-2x Rodolfo			  8   AUS DEM OBF pro	   bishop   Malkavian antitribu:3
-2x Kite				  7   AUS DEM obf pre	   bishop   Malkavian antitribu:2
-2x Korah			  7   AUS DEM OBF ani	   priscus  Malkavian antitribu:2
-2x Dolphin Black		  6   AUS DEM OBF	   	    Malkavian antitribu:2
-2x Idalia, Prophet of Guadalajara 4   AUS dem		   	    Malkavian antitribu:2
-1x Aristotle de Laurent		  9   AUS DEM OBF PRE pot  	    Malkavian antitribu:3
-1x Vasantasena			  9   AUS DEM OBF dom pot  	    Malkavian antitribu:2
+Crypt (12 cards, min=20 max=34 avg=6.83)
+----------------------------------------
+2x Rodolfo                        8   AUS DEM OBF pro      bishop   Malkavian antitribu:3
+2x Kite                           7   AUS DEM obf pre      bishop   Malkavian antitribu:2
+2x Korah                          7   AUS DEM OBF ani      priscus  Malkavian antitribu:2
+2x Dolphin Black                  6   AUS DEM OBF                   Malkavian antitribu:2
+2x Idalia, Prophet of Guadalajara 4   AUS dem                       Malkavian antitribu:2
+1x Aristotle de Laurent           9   AUS DEM OBF PRE pot           Malkavian antitribu:3
+1x Vasantasena                    9   AUS DEM OBF dom pot           Malkavian antitribu:2
 
 Library (90 cards)
 Master (12)

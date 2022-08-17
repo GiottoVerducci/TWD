@@ -15,13 +15,13 @@ to tune my hand. The idea is to be able to have permanent
 +bleed on as many minions as possible, lay as low as possible
 and bloat to live.
 
-Crypt (13 cards, min=25, max=40, avg=8.62)
-------------------------------------------
-5x Cybele		   10  ANI DAI OBF PRE SER THA		 Baali:4
-3x Annazir		   9   DAI OBF POT PRE		2 votes	 Baali:5
-3x Maureen, Dark Priestess 6   DAI PRE dom obf		1 vote	 Baali:4
-1x Nergal		   10  AUS DAI FOR OBF PRE THA		 Baali:5
-1x Azaneal		   7   DAI OBF OBT pre tha		 Baali:4
+Crypt (13 cards, min=25 max=40 avg=8.62)
+----------------------------------------
+5x Cybele                  10  ANI DAI OBF PRE SER THA           Baali:4
+3x Annazir                 9   DAI OBF POT PRE          2 votes  Baali:5
+3x Maureen, Dark Priestess 6   DAI PRE dom obf          1 vote   Baali:4
+1x Nergal                  10  AUS DAI FOR OBF PRE THA           Baali:5
+1x Azaneal                 7   DAI OBF OBT pre tha               Baali:4
 
 Library (74 cards)
 Master (26; 2 trifle)

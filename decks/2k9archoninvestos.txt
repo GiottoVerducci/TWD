@@ -11,15 +11,15 @@ Created by: Henrik Ericsson and Alex Ek
 
 Description: Lägg upp en tjockis och bleeda på ett!
 
-Crypt (12 cards, min=29, max=40, avg=8.75)
-------------------------------------------
-4x Lambach				  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
-2x Stravinsky				  9   ANI AUS VIC pot	   archbishop	Tzimisce:2
-2x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
-1x John Paleologus			  9   ANI AUS CEL VIC pot  archbishop	Tzimisce:3
-1x Velya, The Flayer			  9   ANI AUS PRE VIC for  cardinal	Tzimisce:3
-1x Meshenka				  8   ANI AUS VIC	   priscus	Tzimisce:2
-1x Elizabeth Westcott			  5   AUS ani cel vic	   		Tzimisce:3
+Crypt (12 cards, min=29 max=40 avg=8.75)
+----------------------------------------
+4x Lambach                                10  ANI AUS DOM VIC pre  cardinal     Tzimisce:2
+2x Stravinsky                             9   ANI AUS VIC pot      archbishop   Tzimisce:2
+2x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop   Tzimisce:2
+1x John Paleologus                        9   ANI AUS CEL VIC pot  archbishop   Tzimisce:3
+1x Velya, The Flayer                      9   ANI AUS PRE VIC for  cardinal     Tzimisce:3
+1x Meshenka                               8   ANI AUS VIC          priscus      Tzimisce:2
+1x Elizabeth Westcott                     5   AUS ani cel vic                   Tzimisce:3
 
 Library (74 cards)
 Master (18; 6 trifle)

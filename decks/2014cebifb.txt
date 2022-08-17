@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/7890
 
 Deck Name: The Power
 
-Crypt (12 cards, min=38, max=42, avg=10)
-----------------------------------------
-4x Karsh	    10	ANI CEL FOR POT PRO	 Gangrel:3
-4x Karsh (ADV)	    10	ANI CEL FOR POT PRO	 Gangrel:3
-2x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-2x Jalan-Aajav	    9	CEL FOR POT PRO ani	 Gangrel antitribu:3
+Crypt (12 cards, min=38 max=42 avg=10)
+--------------------------------------
+4x Karsh            10  ANI CEL FOR POT PRO      Gangrel:3
+4x Karsh (ADV)      10  ANI CEL FOR POT PRO      Gangrel:3
+2x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+2x Jalan-Aajav      9   CEL FOR POT PRO ani      Gangrel antitribu:3
 
 Library (90 cards)
 Master (10; 2 trifle)

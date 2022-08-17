@@ -7,15 +7,15 @@ Jonathan Scherer
 
 Deck Name: Gangrel
 
-Crypt (12 cards, min=13, max=36, avg=6.08)
-------------------------------------------
-4x Ingrid Rossler		9   ANI FOR PRO dom	prince	Gangrel:2
-2x Caitlin			6   ANI PRO aus dom	bishop	Gangrel antitribu:2
-2x Chandler Hungerford		3   PRO				Gangrel:2
-1x Iliana			7   DOM FOR PRO tha		Gangrel:2
-1x Camille Devereux, The Raven	5   FOR PRO ani			Gangrel:1
-1x Ramona (ADV)			4   for pro			Gangrel:2
-1x Ricki Van Demsi		3   for pro			Gangrel:1
+Crypt (12 cards, min=13 max=36 avg=6.08)
+----------------------------------------
+4x Ingrid Rossler               9   ANI FOR PRO dom     prince  Gangrel:2
+2x Caitlin                      6   ANI PRO aus dom     bishop  Gangrel antitribu:2
+2x Chandler Hungerford          3   PRO                         Gangrel:2
+1x Iliana                       7   DOM FOR PRO tha             Gangrel:2
+1x Camille Devereux, The Raven  5   FOR PRO ani                 Gangrel:1
+1x Ramona (ADV)                 4   for pro                     Gangrel:2
+1x Ricki Van Demsi              3   for pro                     Gangrel:1
 
 Library (90 cards)
 Master (17)

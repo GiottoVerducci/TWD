@@ -15,17 +15,17 @@ Greater capacities + Villeins = pool security.
 This deck runs way better than its predecessors.
 Bleed boosts of several vamps enhance the deck's ousting power essentially.
 
-Crypt (12 cards, min=16, max=36, avg=6.75)
-------------------------------------------
-4x Anson			8   CEL PRE aus dom		prince	  Toreador:1
-1x Anneke			10  AUS CEL PRE dom		justicar  Toreador:1
-1x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
-1x Marcellus			8   AUS CEL pro			prince	  Toreador:2
-1x Black Cat			5   CEL pot pre				  Brujah:1
-1x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
-1x Jimmy Dunn			4   CEL POT for				  Pander:2
-1x Victor Tolliver		4   CEL pot				  Brujah antitribu:2
-1x Sarah Brando			3   CEL					  Brujah antitribu:2
+Crypt (12 cards, min=16 max=36 avg=6.75)
+----------------------------------------
+4x Anson                        8   CEL PRE aus dom             prince    Toreador:1
+1x Anneke                       10  AUS CEL PRE dom             justicar  Toreador:1
+1x François Villon              10  AUS CEL PRE chi obf pot     prince    Toreador:2
+1x Marcellus                    8   AUS CEL pro                 prince    Toreador:2
+1x Black Cat                    5   CEL pot pre                           Brujah:1
+1x Volker, The Puppet Prince    5   CEL pot                     prince    Brujah:2
+1x Jimmy Dunn                   4   CEL POT for                           Pander:2
+1x Victor Tolliver              4   CEL pot                               Brujah antitribu:2
+1x Sarah Brando                 3   CEL                                   Brujah antitribu:2
 
 Library (82 cards)
 Master (23; 6 trifle)

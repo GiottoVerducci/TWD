@@ -8,19 +8,19 @@ Deck Name: Terrorist-lek
 
 Description: "It's a combat deck"
 
-Crypt (12 cards, min=7, max=18, avg=3.08)
------------------------------------------
-2x Catherine du Bois	5   DOM for obf pre	Ventrue:3
-1x Gloria Giovanni	4   DOM nec		Giovanni:2
-1x Ingrid Russo		4   DOM for		Ventrue antitribu:2
-1x Brooke		3   dom tha		Tremere antitribu:2
-1x Lana Butcher		3   dom for		Ventrue:3
-1x Saiz			3   aus dom		Tremere antitribu:3
-1x Sister Evelyn	3   aus dom		Ventrue antitribu:3
-1x Mustafa Rahman	2   dom			Tremere:2
-1x Ohanna		2   dom			Malkavian:2
-1x Samson		2   dom			Ventrue antitribu:2
-1x Royce		1   dom			Pander:2
+Crypt (12 cards, min=7 max=18 avg=3.08)
+---------------------------------------
+2x Catherine du Bois    5   DOM for obf pre     Ventrue:3
+1x Gloria Giovanni      4   DOM nec             Giovanni:2
+1x Ingrid Russo         4   DOM for             Ventrue antitribu:2
+1x Brooke               3   dom tha             Tremere antitribu:2
+1x Lana Butcher         3   dom for             Ventrue:3
+1x Saiz                 3   aus dom             Tremere antitribu:3
+1x Sister Evelyn        3   aus dom             Ventrue antitribu:3
+1x Mustafa Rahman       2   dom                 Tremere:2
+1x Ohanna               2   dom                 Malkavian:2
+1x Samson               2   dom                 Ventrue antitribu:2
+1x Royce                1   dom                 Pander:2
 
 Library (75 cards)
 Master (13; 1 trifle)

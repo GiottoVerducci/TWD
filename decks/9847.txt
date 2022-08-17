@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/9847
 
 Deck Name: Farley Mowat V2.01
 
-Crypt (13 cards, min=4, max=14, avg=2.23)
------------------------------------------
-5x Anarch Convert		   1   -none-	    Caitiff:ANY
-1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
-1x Gloria Giovanni		   4   DOM nec	    Giovanni:2
-1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
-1x Lia Milliner			   3   dom nec	    Giovanni:3
-1x Mario Giovanni		   3   nec pot	    Giovanni:2
-1x Rudolfo Giovanni		   3   NEC	    Giovanni:2
-1x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
-1x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+Crypt (13 cards, min=4 max=14 avg=2.23)
+---------------------------------------
+5x Anarch Convert                  1   -none-       Caitiff:ANY
+1x Francesca Giovanni              4   dom nec pot  Giovanni:2
+1x Gloria Giovanni                 4   DOM nec      Giovanni:2
+1x Cristofero Giovanni             3   nec pot      Giovanni:2
+1x Lia Milliner                    3   dom nec      Giovanni:3
+1x Mario Giovanni                  3   nec pot      Giovanni:2
+1x Rudolfo Giovanni                3   NEC          Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom          Giovanni:2
+1x Paul DiCarlo, The Alpha         2   pot          Giovanni:2
 
 Library (65 cards)
 Master (20)

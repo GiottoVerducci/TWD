@@ -8,15 +8,15 @@ Deck Name: Allies Parties
 
 Description: A fast Tzimisce allies deck.
 
-Crypt (12 cards, min=8, max=20, avg=3.58)
------------------------------------------
-2x Ana Rita Montaña 5	VIC aus dom obf	 Tzimisce:3
-2x Rose, The	    5	PRE VIC aus	 Tzimisce:3
-2x Lolita Houston   4	VIC aus		 Tzimisce:2
-2x Horatio	    2	vic		 Tzimisce:2
-2x Piotr Andreikov  2	aus		 Tzimisce:3
-1x Terrence	    4	ani aus vic	 Tzimisce:2
-1x Wendy Wade	    3	ani aus		 Tzimisce:2
+Crypt (12 cards, min=8 max=20 avg=3.58)
+---------------------------------------
+2x Ana Rita Montaña 5   VIC aus dom obf  Tzimisce:3
+2x Rose, The        5   PRE VIC aus      Tzimisce:3
+2x Lolita Houston   4   VIC aus          Tzimisce:2
+2x Horatio          2   vic              Tzimisce:2
+2x Piotr Andreikov  2   aus              Tzimisce:3
+1x Terrence         4   ani aus vic      Tzimisce:2
+1x Wendy Wade       3   ani aus          Tzimisce:2
 
 Library (60 cards)
 Master (11; 2 trifle)

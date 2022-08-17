@@ -9,16 +9,16 @@ Thiago Sousa
 
 Deck Name: Filhas da Putinha
 
-Crypt (14 cards, min=12, max=24, avg=4.36)
-------------------------------------------
-3x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
-2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
-2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
-2x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
-2x Muse				  3   ani for mel	Daughter of Cacophony:2
-1x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
-1x Zhara			  4   ani for pre	Ishtarri:3
-1x Lolita			  3   for pre		Toreador antitribu:2
+Crypt (14 cards, min=12 max=24 avg=4.36)
+----------------------------------------
+3x Yseult                         6   FOR MEL PRE       Daughter of Cacophony:3
+2x Angela Preston                 5   MEL PRE for       Daughter of Cacophony:2
+2x Delilah Monroe                 4   MEL for pre       Daughter of Cacophony:2
+2x Céleste, The Voice of a Secret 3   mel pre           Daughter of Cacophony:2
+2x Muse                           3   ani for mel       Daughter of Cacophony:2
+1x Gaël Pilet                     6   FOR MEL chi pre   Daughter of Cacophony:2
+1x Zhara                          4   ani for pre       Ishtarri:3
+1x Lolita                         3   for pre           Toreador antitribu:2
 
 Library (90 cards)
 Master (18; 4 trifle)

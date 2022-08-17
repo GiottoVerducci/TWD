@@ -10,17 +10,17 @@ Created by: Axel Zaminga
 
 Description: anarch/allies/khazar diary deck
 
-Crypt (12 cards, min=4, max=14, avg=2.33)
------------------------------------------
-4x Anarch Convert		   1   -none-	    Caitiff:ANY
-1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
-1x Gloria Giovanni		   4   DOM nec	    Giovanni:2
-1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
-1x Lia Milliner			   3   dom nec	    Giovanni:3
-1x Mario Giovanni		   3   nec pot	    Giovanni:2
-1x Rudolfo Giovanni		   3   NEC	    Giovanni:2
-1x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
-1x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+Crypt (12 cards, min=4 max=14 avg=2.33)
+---------------------------------------
+4x Anarch Convert                  1   -none-       Caitiff:ANY
+1x Francesca Giovanni              4   dom nec pot  Giovanni:2
+1x Gloria Giovanni                 4   DOM nec      Giovanni:2
+1x Cristofero Giovanni             3   nec pot      Giovanni:2
+1x Lia Milliner                    3   dom nec      Giovanni:3
+1x Mario Giovanni                  3   nec pot      Giovanni:2
+1x Rudolfo Giovanni                3   NEC          Giovanni:2
+1x Marciana Giovanni, Investigator 2   dom          Giovanni:2
+1x Paul DiCarlo, The Alpha         2   pot          Giovanni:2
 
 Library (60 cards)
 Master (14)

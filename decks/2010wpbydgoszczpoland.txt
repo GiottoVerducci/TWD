@@ -12,13 +12,13 @@ Deck Name: Gabrin zaszywa swiat
 Concept taken from: Akseli Jalava with some little tweaking
 Description: Survive first, then win.
 
-Crypt (12 cards, min=18, max=32, avg=6.33)
-------------------------------------------
-5x Gabrin		8   ANI CHI dom for	Ravnos:2
-2x Joaquina Amaya	6   ANI CHI FOR		Ravnos:2
-2x Khalil Ravana	5   CHI ani for pre	Ravnos:2
-2x Salbatore Bokkengro	4   CHI for pro		Ravnos:2
-1x Vaclav Petalengro	6   ANI CHI for pot	Ravnos:2
+Crypt (12 cards, min=18 max=32 avg=6.33)
+----------------------------------------
+5x Gabrin               8   ANI CHI dom for     Ravnos:2
+2x Joaquina Amaya       6   ANI CHI FOR         Ravnos:2
+2x Khalil Ravana        5   CHI ani for pre     Ravnos:2
+2x Salbatore Bokkengro  4   CHI for pro         Ravnos:2
+1x Vaclav Petalengro    6   ANI CHI for pot     Ravnos:2
 
 Library (82 cards)
 Master (23; 7 trifle)

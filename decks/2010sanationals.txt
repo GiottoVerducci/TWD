@@ -11,20 +11,20 @@ Deck Name: A Little Magic
 This deck, like most weenie decks, is a numbers game. Keep churning
 out the vamps and chip away at your prey's pool.
 
-Crypt (12 cards, min=9, max=22, avg=3.75)
------------------------------------------
-1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	Tremere:2
-1x Aisling Sturbridge		5   AUS THA dom		Tremere:2
-1x Merrill Molitor		5   THA aus dom		Tremere:1
-1x Sabine Lafitte		5   aus dom pot tha	Tremere:1
-1x Ignatius			4   aus dom tha		Tremere:1
-1x Sarah Cobbler		4   THA dom		Tremere:1
-1x Blythe Candeleria		3   THA aus		Tremere:2
-1x Dr. John Casey		3   aus tha		Tremere:1
-1x Jing Wei			3   dom tha		Tremere:1
-1x Magdelena Schaefer		2   THA			Caitiff:2
-1x Mustafa Rahman		2   dom			Tremere:2
-1x Roreca Quaid			2   tha			Tremere:1
+Crypt (12 cards, min=9 max=22 avg=3.75)
+---------------------------------------
+1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for     Tremere:2
+1x Aisling Sturbridge           5   AUS THA dom         Tremere:2
+1x Merrill Molitor              5   THA aus dom         Tremere:1
+1x Sabine Lafitte               5   aus dom pot tha     Tremere:1
+1x Ignatius                     4   aus dom tha         Tremere:1
+1x Sarah Cobbler                4   THA dom             Tremere:1
+1x Blythe Candeleria            3   THA aus             Tremere:2
+1x Dr. John Casey               3   aus tha             Tremere:1
+1x Jing Wei                     3   dom tha             Tremere:1
+1x Magdelena Schaefer           2   THA                 Caitiff:2
+1x Mustafa Rahman               2   dom                 Tremere:2
+1x Roreca Quaid                 2   tha                 Tremere:1
 
 Library (86 cards)
 Master (16; 4 trifle)

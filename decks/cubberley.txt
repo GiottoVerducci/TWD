@@ -12,14 +12,14 @@ fight after all. Use bleed redirection and intercept with the small vamps
 to keep you healthy, while you send your big vampires off to do the killing -
 tool Miller up with Art of Pain for one scary mutha.
 
-Crypt (12 cards, min=21, max=34, avg=7.25)
-------------------------------------------
-4x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	  bishop    Toreador antitribu:2
-2x Andreas, The Bard of Crete		 9   AUS CEL PRE dom pro  primogen  Toreador:1
-2x Marcellus				 8   AUS CEL pro	  prince    Toreador:2
-2x Kallista, Master Sculptor		 6   AUS CEL pre pro	  	    Toreador:1
-1x Felicia Mostrom			 5   AUS CEL pre	  	    Toreador:1
-1x Dorian Strack			 4   AUS cel		  	    Toreador:1
+Crypt (12 cards, min=21 max=34 avg=7.25)
+----------------------------------------
+4x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro      bishop    Toreador antitribu:2
+2x Andreas, The Bard of Crete            9   AUS CEL PRE dom pro  primogen  Toreador:1
+2x Marcellus                             8   AUS CEL pro          prince    Toreador:2
+2x Kallista, Master Sculptor             6   AUS CEL pre pro                Toreador:1
+1x Felicia Mostrom                       5   AUS CEL pre                    Toreador:1
+1x Dorian Strack                         4   AUS cel                        Toreador:1
 
 Library (90 cards)
 Master (18)

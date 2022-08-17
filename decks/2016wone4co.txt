@@ -10,15 +10,15 @@ Deck Name: Ahrimanes Wall Origins 2016
 
 0 + 3 + 1.5 in final
 
-Crypt (12 cards, min=12, max=32, avg=5.83)
-------------------------------------------
-4x Howler	    8	ANI PRE SPI obf	 Ahrimane:2
-2x Siamese, The	    7	PRE SPI ani pro	 Ahrimane:2
-2x Cynthia Ingold   6	SPI ani for pre	 Ahrimane:2
-1x Bobby Lemon	    4	ANI pro		 Gangrel:3
-1x Juanita Santiago 4	ani pre spi	 Ahrimane:2
-1x Dani		    2	ani		 Nosferatu antitribu:2
-1x Gillian Krader   2	ani dem		 Pander:2
+Crypt (12 cards, min=12 max=32 avg=5.83)
+----------------------------------------
+4x Howler           8   ANI PRE SPI obf  Ahrimane:2
+2x Siamese, The     7   PRE SPI ani pro  Ahrimane:2
+2x Cynthia Ingold   6   SPI ani for pre  Ahrimane:2
+1x Bobby Lemon      4   ANI pro          Gangrel:3
+1x Juanita Santiago 4   ani pre spi      Ahrimane:2
+1x Dani             2   ani              Nosferatu antitribu:2
+1x Gillian Krader   2   ani dem          Pander:2
 
 Library (90 cards)
 Master (17; 4 trifle)

@@ -7,14 +7,14 @@ Danilo Fernandes
 
 Deck Name: Laibons AyeAyeAye
 
-Crypt (12 cards, min=20, max=39, avg=7.92)
-------------------------------------------
-3x Ayo Igoli	10  AUS CEL FOR PRE obf tha		Ishtarri:4
-3x Kabede Maru	9   AUS CEL OBF QUI abo pot	magaji	Assamite:5
-3x Massassi	9   AUS CEL POT QUI obf			Osebo:4
-1x Guedado	4   aus obf vic				Tzimisce:4
-1x Idrissa	4   CEL aus				Osebo:4
-1x Kalila	3   aus obf				Malkavian:5
+Crypt (12 cards, min=20 max=39 avg=7.92)
+----------------------------------------
+3x Ayo Igoli    10  AUS CEL FOR PRE obf tha             Ishtarri:4
+3x Kabede Maru  9   AUS CEL OBF QUI abo pot     magaji  Assamite:5
+3x Massassi     9   AUS CEL POT QUI obf                 Osebo:4
+1x Guedado      4   aus obf vic                         Tzimisce:4
+1x Idrissa      4   CEL aus                             Osebo:4
+1x Kalila       3   aus obf                             Malkavian:5
 
 Library (90 cards)
 Master (20; 13 trifle)

@@ -13,12 +13,12 @@ Deck Name: Baali Politics
 Final seating
 Kyasid S&B -> Tremere Toolbox (1vp) -> Goratrix -> Baali Politics (4vp) -> Sebastian G. S&B
 
-Crypt (12 cards, min=21, max=36, avg=7.08)
-------------------------------------------
-4x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
-4x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
-3x Arishat		   6   DAI OBF PRE	    1 vote	Baali:6
-1x Horde, The		   3   dai obf pre	    		Baali:6
+Crypt (12 cards, min=21 max=36 avg=7.08)
+----------------------------------------
+4x Annazir                 9   DAI OBF POT PRE      2 votes     Baali:5
+4x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro              Baali:6
+3x Arishat                 6   DAI OBF PRE          1 vote      Baali:6
+1x Horde, The              3   dai obf pre                      Baali:6
 
 Library (72 cards)
 Master (21; 7 trifle)

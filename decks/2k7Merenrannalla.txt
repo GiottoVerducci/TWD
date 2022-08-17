@@ -9,15 +9,15 @@ Deck Name: Annis Loves You
 Description: Black Annis "cycles" your combat while the others
 graverob vampires and bleed with potence stealth.
 
-Crypt (12 cards, min=19, max=36, avg=7.08)
-------------------------------------------
-4x Black Annis		    9	OBF POT ani pro			Nosferatu antitribu:4
-2x Julio Martinez	    9	ANI DOM OBF POT nec	bishop	Nosferatu antitribu:3
-2x Joseph Cambridge	    6	POT ani dom obf		bishop	Nosferatu antitribu:4
-1x Virginie, Prodigy	    6	DOM POT obt		bishop	Lasombra:4
-1x Dr. Julius Sutphen (ADV) 5	POT dom obt			Lasombra:3
-1x Wah Chun-Yuen	    5	POT cel dom pre			Brujah antitribu:3
-1x Almodo Giovanni	    3	dom pot				Giovanni:4
+Crypt (12 cards, min=19 max=36 avg=7.08)
+----------------------------------------
+4x Black Annis              9   OBF POT ani pro                 Nosferatu antitribu:4
+2x Julio Martinez           9   ANI DOM OBF POT nec     bishop  Nosferatu antitribu:3
+2x Joseph Cambridge         6   POT ani dom obf         bishop  Nosferatu antitribu:4
+1x Virginie, Prodigy        6   DOM POT obt             bishop  Lasombra:4
+1x Dr. Julius Sutphen (ADV) 5   POT dom obt                     Lasombra:3
+1x Wah Chun-Yuen            5   POT cel dom pre                 Brujah antitribu:3
+1x Almodo Giovanni          3   dom pot                         Giovanni:4
 
 Library (90 cards)
 Master (13)

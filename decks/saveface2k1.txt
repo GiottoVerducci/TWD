@@ -5,17 +5,17 @@ Brad Kellogg
 
 Ventrue Suck!
 
-Crypt (12 cards, min=24, max=36, avg=7.58)
-------------------------------------------
-3x Cardano				9   DOM FOR THA ani aus cel	prince	Tremere:1
-2x Sir Walter Nash			7   DOM FOR PRE			prince	Ventrue:1
-1x Bindusara, Historian of the Kindred	9   AUS DOM FOR PRE tha			Ventrue:2
-1x Spiridonas				9   DOM THA pot pre		prince	Tremere:2
-1x Emerson Bridges			8   DOM FOR PRE pot		prince	Ventrue:1
-1x Gilbert Duane			7   AUS DOM OBF			prince	Malkavian:1
-1x Jan Pieterzoon			7   DOM FOR pot pre			Ventrue:2
-1x Marlene, The Infernalist		6   AUS DOM dem for tha			Ventrue antitribu:2
-1x Ingrid Russo				4   DOM for				Ventrue antitribu:2
+Crypt (12 cards, min=24 max=36 avg=7.58)
+----------------------------------------
+3x Cardano                              9   DOM FOR THA ani aus cel     prince  Tremere:1
+2x Sir Walter Nash                      7   DOM FOR PRE                 prince  Ventrue:1
+1x Bindusara, Historian of the Kindred  9   AUS DOM FOR PRE tha                 Ventrue:2
+1x Spiridonas                           9   DOM THA pot pre             prince  Tremere:2
+1x Emerson Bridges                      8   DOM FOR PRE pot             prince  Ventrue:1
+1x Gilbert Duane                        7   AUS DOM OBF                 prince  Malkavian:1
+1x Jan Pieterzoon                       7   DOM FOR pot pre                     Ventrue:2
+1x Marlene, The Infernalist             6   AUS DOM dem for tha                 Ventrue antitribu:2
+1x Ingrid Russo                         4   DOM for                             Ventrue antitribu:2
 
 Library (91 cards)
 Master (13)

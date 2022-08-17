@@ -9,15 +9,15 @@ Deck Name: politics (girls like)
 
 Description: fat voters with lots of master cards
 
-Crypt (15 cards, min=36, max=44, avg=10.13)
--------------------------------------------
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
-3x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
-3x Cybele		 10  ANI DAI OBF PRE SER THA			Baali:4
-3x Maris Streck		 9   AUS OBF ani dem dom	justicar	Malkavian:3
-1x Lucinde, Alastor	 10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
-1x Marcus Vitel		 10  DOM FOR OBF OBT PRE	prince		Ventrue:3
-1x Una			 9   ANI FOR PRE PRO dem	archbishop	Gangrel antitribu:3
+Crypt (15 cards, min=36 max=44 avg=10.13)
+-----------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
+3x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
+3x Cybele                10  ANI DAI OBF PRE SER THA                    Baali:4
+3x Maris Streck          9   AUS OBF ani dem dom        justicar        Malkavian:3
+1x Lucinde, Alastor      10  DOM FOR PRE obf pot tha    justicar        Ventrue:3
+1x Marcus Vitel          10  DOM FOR OBF OBT PRE        prince          Ventrue:3
+1x Una                   9   ANI FOR PRE PRO dem        archbishop      Gangrel antitribu:3
 
 Library (90 cards)
 Master (47; 8 trifle)

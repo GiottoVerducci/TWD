@@ -11,14 +11,14 @@ Description: Transfer out Cybele, get burned, come back with Eternal
 mask, get a skill card, get your soulgem, burn on someone's untap,
 repeat. Just a lot of cheese, but fun to play.
 
-Crypt (12 cards, min=33, max=40, avg=9.42)
-------------------------------------------
-7x Cybele			 10  ANI DAI OBF PRE SER THA		 Baali:4
-1x Nakhthorheb			 10  OBF PRE SER			 Follower of Set:4
-1x Neferu			 9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
-1x Pentweret			 9   OBF PRE SER aus for obe		 Follower of Set:5
-1x Sundervere, The Devil Brahmin 8   AUS PRE SER THA obf		 Follower of Set:4
-1x Seren Sukardi		 7   OBF SER THA pre			 Follower of Set:4
+Crypt (12 cards, min=33 max=40 avg=9.42)
+----------------------------------------
+7x Cybele                        10  ANI DAI OBF PRE SER THA             Baali:4
+1x Nakhthorheb                   10  OBF PRE SER                         Follower of Set:4
+1x Neferu                        9   OBF PRE SER THA dom nec    2 votes  Follower of Set:4
+1x Pentweret                     9   OBF PRE SER aus for obe             Follower of Set:5
+1x Sundervere, The Devil Brahmin 8   AUS PRE SER THA obf                 Follower of Set:4
+1x Seren Sukardi                 7   OBF SER THA pre                     Follower of Set:4
 
 Library (90 cards)
 Master (20)

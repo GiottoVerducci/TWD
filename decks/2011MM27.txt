@@ -9,19 +9,19 @@ Heikki Palomäki
 
 Deck Name: Tampere by night
 
-Crypt (12 cards, min=18, max=27, avg=5.42)
-------------------------------------------
-2x Renenet		5   OBF PRE ser		 	  Follower of Set:4
-1x Isouda de Blaise	7   CEL OBF PRE aus	 	  Toreador antitribu:4
-1x Ogwon		7   OBF PRE SER for	 	  Follower of Set:5
-1x Stavros		7   AUS OBF PRE dem	 priscus  Malkavian antitribu:4
-1x Ankh-sen-Sutekh	6   PRE SER obf		 	  Follower of Set:4
-1x Abdelsobek		5   for nec obf pre ser	 	  Follower of Set:5
-1x Axel Von Anders	5   PRE cel obf pot	 	  Brujah antitribu:4
-1x Gabriel de Cambrai	5   aus cel dem obf pre	 	  Toreador antitribu:4
-1x Herbert Westin	5   OBF PRE pot		 	  Brujah:4
-1x Robin Withers	4   dom obf pre		 	  Ventrue:4
-1x Sisocharis		4   cel obf pre		 	  Follower of Set:5
+Crypt (12 cards, min=18 max=27 avg=5.42)
+----------------------------------------
+2x Renenet              5   OBF PRE ser                   Follower of Set:4
+1x Isouda de Blaise     7   CEL OBF PRE aus               Toreador antitribu:4
+1x Ogwon                7   OBF PRE SER for               Follower of Set:5
+1x Stavros              7   AUS OBF PRE dem      priscus  Malkavian antitribu:4
+1x Ankh-sen-Sutekh      6   PRE SER obf                   Follower of Set:4
+1x Abdelsobek           5   for nec obf pre ser           Follower of Set:5
+1x Axel Von Anders      5   PRE cel obf pot               Brujah antitribu:4
+1x Gabriel de Cambrai   5   aus cel dem obf pre           Toreador antitribu:4
+1x Herbert Westin       5   OBF PRE pot                   Brujah:4
+1x Robin Withers        4   dom obf pre                   Ventrue:4
+1x Sisocharis           4   cel obf pre                   Follower of Set:5
 
 Library (89 cards)
 Master (17; 11 trifle)

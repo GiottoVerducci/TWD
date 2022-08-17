@@ -6,15 +6,15 @@ Denis Gérard
 
 Deck Name: Everlasting Richter
 
-Crypt (12 cards, min=16, max=29, avg=6)
----------------------------------------
-3x Miguel Santo Domingo		   7   POT PRE cel for			  Brujah antitribu:3
-3x Richter, The Templar of Du Mont 7   CEL POT for pre			  Brujah antitribu:2
-2x Jimmy Dunn			   4   CEL POT for			  Pander:2
-1x Hrothulf			   8   CEL FOR PRE dom pot pro		  Ventrue:3
-1x Pug Jackson			   6   CEL POT for pre		primogen  Brujah:3
-1x Evangeline			   4   cel pot pre			  Brujah antitribu:2
-1x Victor Tolliver		   4   CEL pot				  Brujah antitribu:2
+Crypt (12 cards, min=16 max=29 avg=6)
+-------------------------------------
+3x Miguel Santo Domingo            7   POT PRE cel for                    Brujah antitribu:3
+3x Richter, The Templar of Du Mont 7   CEL POT for pre                    Brujah antitribu:2
+2x Jimmy Dunn                      4   CEL POT for                        Pander:2
+1x Hrothulf                        8   CEL FOR PRE dom pot pro            Ventrue:3
+1x Pug Jackson                     6   CEL POT for pre          primogen  Brujah:3
+1x Evangeline                      4   cel pot pre                        Brujah antitribu:2
+1x Victor Tolliver                 4   CEL pot                            Brujah antitribu:2
 
 Library (90 cards)
 Master (14)

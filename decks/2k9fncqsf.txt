@@ -9,13 +9,13 @@ Deck Name: Do you mind 1.1
 Description: Keep cool and wait till zhe cardhouse falls apart in
 your favor (zhats how I see it ;))
 
-Crypt (12 cards, min=22, max=43, avg=8.75)
-------------------------------------------
-3x Arika	    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
-3x Marcus Vitel	    10	DOM FOR OBF OBT PRE	 prince		Ventrue:3
-2x Lucinde, Alastor 10	DOM FOR PRE obf pot tha	 justicar	Ventrue:3
-2x Queen Anne	    10	DOM FOR PRE aus obf	 prince		Ventrue:2
-2x Anarch Convert   1	-none-			 		Caitiff:ANY
+Crypt (12 cards, min=22 max=43 avg=8.75)
+----------------------------------------
+3x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
+3x Marcus Vitel     10  DOM FOR OBF OBT PRE      prince         Ventrue:3
+2x Lucinde, Alastor 10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
+2x Queen Anne       10  DOM FOR PRE aus obf      prince         Ventrue:2
+2x Anarch Convert   1   -none-                                  Caitiff:ANY
 
 Library (90 cards)
 Master (22; 5 trifle)

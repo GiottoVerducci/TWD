@@ -12,12 +12,12 @@ special ability. They would be better as Dreams to give a bit of
 acceleration in the early game and see more of the deck as the game
 progresses.
 
-Crypt (12 cards, min=30, max=44, avg=9.33)
-------------------------------------------
-4x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
-3x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
-3x Iliana		7   DOM FOR PRO tha	 		Gangrel:2
-2x Angus the Unruled	10  ANI PRO cel for pot	 justicar	Gangrel:1
+Crypt (12 cards, min=30 max=44 avg=9.33)
+----------------------------------------
+4x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
+3x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
+3x Iliana               7   DOM FOR PRO tha                     Gangrel:2
+2x Angus the Unruled    10  ANI PRO cel for pot  justicar       Gangrel:1
 
 Library (90 cards)
 Master (17)

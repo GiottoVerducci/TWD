@@ -5,19 +5,19 @@ Anthony Barker
 
 Malkavian Dominate Sneak and Bleed Deck
 
-Crypt (12 cards, min=10, max=26, avg=4.42)
-------------------------------------------
-2x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
-1x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
-1x Didi Meyers		5   DOM aus cel obf		Malkavian:1
-1x Zebulon		5   OBF aus dom pro		Malkavian:1
-1x Gloria Giovanni	4   DOM nec			Giovanni:2
-1x Ingrid Russo		4   DOM for			Ventrue antitribu:2
-1x Laurent de Valois	4   ani dom obf			Nosferatu:2
-1x Roland Bishop	4   aus dom obf			Malkavian:1
-1x Christine Boscacci	2   dom vic			Pander:2
-1x Mustafa Rahman	2   dom				Tremere:2
-1x Ohanna		2   dom				Malkavian:2
+Crypt (12 cards, min=10 max=26 avg=4.42)
+----------------------------------------
+2x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
+1x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
+1x Didi Meyers          5   DOM aus cel obf             Malkavian:1
+1x Zebulon              5   OBF aus dom pro             Malkavian:1
+1x Gloria Giovanni      4   DOM nec                     Giovanni:2
+1x Ingrid Russo         4   DOM for                     Ventrue antitribu:2
+1x Laurent de Valois    4   ani dom obf                 Nosferatu:2
+1x Roland Bishop        4   aus dom obf                 Malkavian:1
+1x Christine Boscacci   2   dom vic                     Pander:2
+1x Mustafa Rahman       2   dom                         Tremere:2
+1x Ohanna               2   dom                         Malkavian:2
 
 Library (90 cards)
 Master (20)

@@ -13,16 +13,16 @@ Deck Name: City of Bleeders
 Description: Always Govern down if you can, dont discard cards, only if really not necessary,
 your hand size will compensate that. Later in the game it will be rewarded.
 
-Crypt (12 cards, min=23, max=36, avg=7.42)
-------------------------------------------
-4x Guillaume Giovanni	   9   CEL DOM NEC POT obt  Giovanni:4
-2x Badr, Shadow of Granada 7   DOM OBT POT	    Lasombra:5
-1x Arcadian, The	   8   DOM MYT OBT chi for  Kiasyd:5
-1x Conrad Adoula	   8   DOM OBT POT ani cel  Lasombra:4
-1x Lord Vauxhall	   7   DOM OBT POT THA	    Lasombra:4
-1x Isanwayen		   6   DOM MYT OBT	    Kiasyd:4
-1x Dame Hollerton	   5   DOM OBT myt	    Kiasyd:4
-1x Ermenegildo, The Rake   5   DOM OBT pot	    Lasombra:4
+Crypt (12 cards, min=23 max=36 avg=7.42)
+----------------------------------------
+4x Guillaume Giovanni      9   CEL DOM NEC POT obt  Giovanni:4
+2x Badr, Shadow of Granada 7   DOM OBT POT          Lasombra:5
+1x Arcadian, The           8   DOM MYT OBT chi for  Kiasyd:5
+1x Conrad Adoula           8   DOM OBT POT ani cel  Lasombra:4
+1x Lord Vauxhall           7   DOM OBT POT THA      Lasombra:4
+1x Isanwayen               6   DOM MYT OBT          Kiasyd:4
+1x Dame Hollerton          5   DOM OBT myt          Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot          Lasombra:4
 
 Library (90 cards)
 Master (19; 5 trifle)

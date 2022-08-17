@@ -7,14 +7,14 @@ Mark Loughman
 NOTE: It ain't real subtle. I'll probably add 1 more Crow and 1 more DotB.
 Guardian Angel is probably expendable.
 
-Crypt (12 cards, min=26, max=37, avg=8.08)
-------------------------------------------
-4x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
-3x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
-2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
-1x Angus the Unruled		10  ANI PRO cel for pot	 justicar  Gangrel:1
-1x Katarina			9   ANI FOR pot pro	 prince	   Gangrel:2
-1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+Crypt (12 cards, min=26 max=37 avg=8.08)
+----------------------------------------
+4x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
+3x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
+2x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
+1x Angus the Unruled            10  ANI PRO cel for pot  justicar  Gangrel:1
+1x Katarina                     9   ANI FOR pot pro      prince    Gangrel:2
+1x Calebros, The Martyr         5   ANI obf pot          prince    Nosferatu:2
 
 Library (88 cards)
 Master (11)

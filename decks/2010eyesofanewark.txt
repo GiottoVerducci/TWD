@@ -10,15 +10,15 @@ http://www.comicshopplus.com/site/showthread.php?t=814
 
 Deck Name: Cameras Providing Leverage Over Old Friends
 
-Crypt (12 cards, min=8, max=16, avg=2.75)
------------------------------------------
-2x Jeffrey Mullins  4	OBF cel	 Gangrel antitribu:4
-2x Roger Farnsworth 4	OBF aus	 Malkavian antitribu:3
-2x Bloodfeud	    2	obf	 Malkavian antitribu:4
-2x Denette Stensen  2	obf	 Gangrel antitribu:4
-2x Old Neddacka	    2	obf	 Nosferatu antitribu:4
-1x Blister	    3	obf pot	 Nosferatu antitribu:4
-1x Krid		    2	obf	 Nosferatu:3
+Crypt (12 cards, min=8 max=16 avg=2.75)
+---------------------------------------
+2x Jeffrey Mullins  4   OBF cel  Gangrel antitribu:4
+2x Roger Farnsworth 4   OBF aus  Malkavian antitribu:3
+2x Bloodfeud        2   obf      Malkavian antitribu:4
+2x Denette Stensen  2   obf      Gangrel antitribu:4
+2x Old Neddacka     2   obf      Nosferatu antitribu:4
+1x Blister          3   obf pot  Nosferatu antitribu:4
+1x Krid             2   obf      Nosferatu:3
 
 Library (90 cards)
 Master (16)

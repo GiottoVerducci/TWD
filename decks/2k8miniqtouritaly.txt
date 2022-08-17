@@ -9,17 +9,17 @@ Deck Name: Smiling Sasha
 
 Description: Tzimisce wall with Horrid Forms
 
-Crypt (12 cards, min=13, max=32, avg=5.75)
-------------------------------------------
-4x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	 Tzimisce:2
-1x Kazimir Savostin		    7	AUS VIC ani pot			 Tzimisce:3
-1x Caliban			    6	ANI AUS VIC			 Tzimisce:2
-1x Corine Marcón		    6	AUS VIC ani			 Tzimisce:2
-1x Ana Rita Montaña		    5	VIC aus dom obf			 Tzimisce:3
-1x Rose, The			    5	PRE VIC aus			 Tzimisce:3
-1x Lolita Houston		    4	VIC aus				 Tzimisce:2
-1x Horatio			    2	vic				 Tzimisce:2
-1x Piotr Andreikov		    2	aus				 Tzimisce:3
+Crypt (12 cards, min=13 max=32 avg=5.75)
+----------------------------------------
+4x Sascha Vykos, The Angel of Caine 8   AUS THA VIC ani dom     priscus  Tzimisce:2
+1x Kazimir Savostin                 7   AUS VIC ani pot                  Tzimisce:3
+1x Caliban                          6   ANI AUS VIC                      Tzimisce:2
+1x Corine Marcón                    6   AUS VIC ani                      Tzimisce:2
+1x Ana Rita Montaña                 5   VIC aus dom obf                  Tzimisce:3
+1x Rose, The                        5   PRE VIC aus                      Tzimisce:3
+1x Lolita Houston                   4   VIC aus                          Tzimisce:2
+1x Horatio                          2   vic                              Tzimisce:2
+1x Piotr Andreikov                  2   aus                              Tzimisce:3
 
 Library (88 cards)
 Master (18; 5 trifle)

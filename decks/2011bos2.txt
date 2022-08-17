@@ -7,14 +7,14 @@ Sylwester Dziembowski
 
 Deck Name: Chaundice and Antonio go to War
 
-Crypt (12 cards, min=14, max=32, avg=5.67)
-------------------------------------------
-4x Chaundice		8   FOR POT VIS vic	Gargoyle:4
-2x Fustuk		6   FOR VIS obt pot	Gargoyle:5
-2x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-2x Keith Moody		3   DOM			Tremere antitribu:4
-1x Janine		4   aus dom tha		Tremere antitribu:4
-1x Mosfair		4   cel dom tha		Tremere antitribu:4
+Crypt (12 cards, min=14 max=32 avg=5.67)
+----------------------------------------
+4x Chaundice            8   FOR POT VIS vic     Gargoyle:4
+2x Fustuk               6   FOR VIS obt pot     Gargoyle:5
+2x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+2x Keith Moody          3   DOM                 Tremere antitribu:4
+1x Janine               4   aus dom tha         Tremere antitribu:4
+1x Mosfair              4   cel dom tha         Tremere antitribu:4
 
 Library (89 cards)
 Master (14; 4 trifle)

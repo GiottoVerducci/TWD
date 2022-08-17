@@ -16,19 +16,19 @@ on turn 2, and then lay into the damaging votes, continuing to seize
 praxis with new minions as the oppurtunity presents itself. You can
 never have too many princes, since they tend to live very, very short lives.
 
-Crypt (14 cards, min=4, max=8, avg=1.43)
-----------------------------------------
-2x Delilah Easton			2   pre		Toreador:1
-2x Antoinette DuChamp			1   cel pre	Caitiff:2
-2x Igo the Hungry			1   pre pro	Caitiff:1
-1x Dieter Kleist			2   aus		Toreador:1
-1x Giuliano Vincenzi			2   for		Gangrel:1
-1x Rufina Soledad			2   for		Ventrue:1
-1x Vasilis, The Traitor of Don Cruez	2   pre		Brujah:2
-1x Franciscus				1   aus		Caitiff:2
-1x Julius				1   qui ser	Caitiff:2
-1x Navar McClaren			1   ani		Caitiff:1
-1x Smudge the Ignored			1   -none-	Caitiff:1
+Crypt (14 cards, min=4 max=8 avg=1.43)
+--------------------------------------
+2x Delilah Easton                       2   pre         Toreador:1
+2x Antoinette DuChamp                   1   cel pre     Caitiff:2
+2x Igo the Hungry                       1   pre pro     Caitiff:1
+1x Dieter Kleist                        2   aus         Toreador:1
+1x Giuliano Vincenzi                    2   for         Gangrel:1
+1x Rufina Soledad                       2   for         Ventrue:1
+1x Vasilis, The Traitor of Don Cruez    2   pre         Brujah:2
+1x Franciscus                           1   aus         Caitiff:2
+1x Julius                               1   qui ser     Caitiff:2
+1x Navar McClaren                       1   ani         Caitiff:1
+1x Smudge the Ignored                   1   -none-      Caitiff:1
 
 Library (86 cards)
 Master (16; 5 trifle)

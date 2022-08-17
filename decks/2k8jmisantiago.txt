@@ -9,14 +9,14 @@ Deck Name: Lasombra vote bleed
 
 Description: If you don't have votes, just bleed.
 
-Crypt (12 cards, min=31, max=40, avg=9)
----------------------------------------
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
-3x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
-2x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
-2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
-1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
-1x Tobias Smith				  7   DOM OBT PRE pot			    Lasombra:3
+Crypt (12 cards, min=31 max=40 avg=9)
+-------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
+3x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
+2x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince      Ventrue:3
+2x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
+1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
+1x Tobias Smith                           7   DOM OBT PRE pot                       Lasombra:3
 
 Library (90 cards)
 Master (15)

@@ -6,14 +6,14 @@ Tobias op den Brouw
 
 Deck Name: Even Samedi Are Better With Dominate
 
-Crypt (12 cards, min=18, max=36, avg=6.67)
-------------------------------------------
-4x Baron, The			 9   FOR NEC OBF THN dom  2 votes  Samedi:2
-2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec  	   Samedi:2
-2x George Frederick		 6   FOR THN nec obf	  	   Samedi:2
-2x Catherine du Bois		 5   DOM for obf pre	  	   Ventrue:3
-1x Isabel Giovanni		 5   DOM NEC pot	  	   Giovanni:2
-1x Rudolfo Giovanni		 3   NEC		  	   Giovanni:2
+Crypt (12 cards, min=18 max=36 avg=6.67)
+----------------------------------------
+4x Baron, The                    9   FOR NEC OBF THN dom  2 votes  Samedi:2
+2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec           Samedi:2
+2x George Frederick              6   FOR THN nec obf               Samedi:2
+2x Catherine du Bois             5   DOM for obf pre               Ventrue:3
+1x Isabel Giovanni               5   DOM NEC pot                   Giovanni:2
+1x Rudolfo Giovanni              3   NEC                           Giovanni:2
 
 Library (90 cards)
 Master (18)

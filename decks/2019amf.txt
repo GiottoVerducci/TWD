@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/9351
 
 Deck Name: BH new batch
 
-Crypt (12 cards, min=21, max=40, avg=7.58)
-------------------------------------------
-2x Karif al Numair		10  AUS CEL OBF QUI for		Assamite:5
-2x Izhim abd Azrael		9   CEL OBF QUI THA pot		Assamite:5
-2x Djuhah, The Bronze Bow	7   OBF QUI aus cel pre		Assamite:5
-1x Elimelech the Twice-Damned	11  AUS DEM DOM FOR OBF pro	Ventrue antitribu:5
-1x Joe "Boot" Hill		7   CEL QUI for obf		Assamite:4
-1x Hagar Stone			6   AUS DEM obf			Malkavian antitribu:5
-1x Reza Fatir, The Dark Angel	6   CEL QUI obf pro		Assamite:4
-1x Sennadurek			6   AUS NEC dom			Nagaraja:4
-1x Lubomira Hradok		3   OBF				Nosferatu antitribu:5
+Crypt (12 cards, min=21 max=40 avg=7.58)
+----------------------------------------
+2x Karif al Numair              10  AUS CEL OBF QUI for         Assamite:5
+2x Izhim abd Azrael             9   CEL OBF QUI THA pot         Assamite:5
+2x Djuhah, The Bronze Bow       7   OBF QUI aus cel pre         Assamite:5
+1x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro     Ventrue antitribu:5
+1x Joe "Boot" Hill              7   CEL QUI for obf             Assamite:4
+1x Hagar Stone                  6   AUS DEM obf                 Malkavian antitribu:5
+1x Reza Fatir, The Dark Angel   6   CEL QUI obf pro             Assamite:4
+1x Sennadurek                   6   AUS NEC dom                 Nagaraja:4
+1x Lubomira Hradok              3   OBF                         Nosferatu antitribu:5
 
 Library (75 cards)
 Master (13; 5 trifle)

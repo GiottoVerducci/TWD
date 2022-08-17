@@ -9,15 +9,15 @@ Stewart MacLeod
 
 Deck Name: Unrealpolitik
 
-Crypt (12 cards, min=9, max=35, avg=5.75)
------------------------------------------
-3x Lydia, Grand Praetor		9   AUS FOR POT TEM dom pre	1 vote	True Brujah:6
-3x Al-Muntathir, God's Witness	8   AUS FOR PRE TEM obf qui		True Brujah:5
-2x Anarch Convert		1   -none-				Caitiff:ANY
-1x Silas			5   FOR aus dom val			Salubri antitribu:6
-1x Harlan Graves		4   FOR mel pre				Daughter of Cacophony:6
-1x Tyler McGill			4   AUS pre				Toreador:5
-1x Andre LeRoux			3   aus					Toreador:5
+Crypt (12 cards, min=9 max=35 avg=5.75)
+---------------------------------------
+3x Lydia, Grand Praetor         9   AUS FOR POT TEM dom pre     1 vote  True Brujah:6
+3x Al-Muntathir, God's Witness  8   AUS FOR PRE TEM obf qui             True Brujah:5
+2x Anarch Convert               1   -none-                              Caitiff:ANY
+1x Silas                        5   FOR aus dom val                     Salubri antitribu:6
+1x Harlan Graves                4   FOR mel pre                         Daughter of Cacophony:6
+1x Tyler McGill                 4   AUS pre                             Toreador:5
+1x Andre LeRoux                 3   aus                                 Toreador:5
 
 Library (81 cards)
 Master (20; 5 trifle)

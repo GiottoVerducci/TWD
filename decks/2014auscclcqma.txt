@@ -10,15 +10,15 @@ Deck Name: Glass Cannon
 
 Description: Named for the ubiquity of Mirror Walks and bleed cards. Govern out 3 vamps and then go in like a wrecking ball. Combat cards would just slow you down.
 
-Crypt (12 cards, min=20, max=30, avg=6)
----------------------------------------
-2x Paul Cordwood	8   AUS DOM THA obf pre	 bishop	   Tremere antitribu:4
-2x Preston Varrick	7   DOM OBF THA aus nec	 	   Tremere:4
-2x Antonio d'Erlette	5   THA dom for pot	 	   Tremere antitribu:4
-2x Carmen		5   THA aus dom		 	   Tremere antitribu:5
-2x Zane			5   THA aus dom		 primogen  Tremere:5
-1x MacAlister Marshall	6   THA aus dom obf pre	 	   Tremere:5
-1x Muhsin Samir		6   DOM THA aus pot	 	   Tremere:4
+Crypt (12 cards, min=20 max=30 avg=6)
+-------------------------------------
+2x Paul Cordwood        8   AUS DOM THA obf pre  bishop    Tremere antitribu:4
+2x Preston Varrick      7   DOM OBF THA aus nec            Tremere:4
+2x Antonio d'Erlette    5   THA dom for pot                Tremere antitribu:4
+2x Carmen               5   THA aus dom                    Tremere antitribu:5
+2x Zane                 5   THA aus dom          primogen  Tremere:5
+1x MacAlister Marshall  6   THA aus dom obf pre            Tremere:5
+1x Muhsin Samir         6   DOM THA aus pot                Tremere:4
 
 Library (72 cards)
 Master (17; 7 trifle)

@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/7784
 
 Deck Name: Toreador Grand Ball
 
-Crypt (12 cards, min=31, max=44, avg=9.42)
-------------------------------------------
-4x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
-2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+Crypt (12 cards, min=31 max=44 avg=9.42)
+----------------------------------------
+4x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+4x Anson           8   CEL PRE aus dom          prince          Toreador:1
+2x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+1x Tatiana Romanov 7   AUS cel pre              prince          Toreador:1
 
 Library (80 cards)
 Master (29; 8 trifle)

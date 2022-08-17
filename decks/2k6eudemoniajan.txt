@@ -8,16 +8,16 @@ Deck Name: "When in doubt ... Win."
 
 Description: Osebo stealth bleed.
 
-Crypt (12 cards, min=10, max=38, avg=6.42)
-------------------------------------------
-2x Ayo Igoli	10  AUS CEL FOR PRE obf tha	Ishtarri:4
-2x Massassi	9   AUS CEL POT QUI obf		Osebo:4
-2x Tatu Sawosa	8   AUS OBF POT ani cel		Osebo:4
-2x Tupdog	1   POT VIS			Gargoyle:3
-1x Khalu	7   AUS CEL POT ani pro		Osebo:3
-1x Homa		6   AUS CEL POT			Osebo:4
-1x Idrissa	4   CEL aus			Osebo:4
-1x Ismitta	4   aus cel pot			Osebo:4
+Crypt (12 cards, min=10 max=38 avg=6.42)
+----------------------------------------
+2x Ayo Igoli    10  AUS CEL FOR PRE obf tha     Ishtarri:4
+2x Massassi     9   AUS CEL POT QUI obf         Osebo:4
+2x Tatu Sawosa  8   AUS OBF POT ani cel         Osebo:4
+2x Tupdog       1   POT VIS                     Gargoyle:3
+1x Khalu        7   AUS CEL POT ani pro         Osebo:3
+1x Homa         6   AUS CEL POT                 Osebo:4
+1x Idrissa      4   CEL aus                     Osebo:4
+1x Ismitta      4   aus cel pot                 Osebo:4
 
 Library (80 cards)
 Master (20; 3 trifle)

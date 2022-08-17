@@ -9,12 +9,12 @@ Deck Name: My AAA
 
 Description: Assault Rifles are fun!
 
-Crypt (12 cards, min=20, max=42, avg=8.17)
-------------------------------------------
-4x Anneke	  10  AUS CEL PRE dom	   justicar	 Toreador:1
-4x Anson	  8   CEL PRE aus dom	   prince	 Toreador:1
-2x Alexandra	  11  ANI AUS CEL PRE dom  inner circle	 Toreador:2
-2x Delilah Easton 2   pre		   		 Toreador:1
+Crypt (12 cards, min=20 max=42 avg=8.17)
+----------------------------------------
+4x Anneke         10  AUS CEL PRE dom      justicar      Toreador:1
+4x Anson          8   CEL PRE aus dom      prince        Toreador:1
+2x Alexandra      11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+2x Delilah Easton 2   pre                                Toreador:1
 
 Library (88 cards)
 Master (29; 8 trifle)

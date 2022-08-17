@@ -6,12 +6,12 @@ Jeff Kuta
 
 "Gratuitous"
 
-Crypt (12 cards, min=17, max=27, avg=5.5)
------------------------------------------
-3x Parnassus	 7   CEL QUI aus tha	Assamite:2
-3x Jalal Sayad	 6   CEL QUI pot	Assamite:2
-3x Abd al-Rashid 5   CEL QUI obf	Assamite:2
-3x Parmenides	 4   CEL qui		Assamite:2
+Crypt (12 cards, min=17 max=27 avg=5.5)
+---------------------------------------
+3x Parnassus     7   CEL QUI aus tha    Assamite:2
+3x Jalal Sayad   6   CEL QUI pot        Assamite:2
+3x Abd al-Rashid 5   CEL QUI obf        Assamite:2
+3x Parmenides    4   CEL qui            Assamite:2
 
 Library (90 cards)
 Master (15)

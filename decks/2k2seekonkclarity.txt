@@ -12,19 +12,19 @@ rush. Lazverinus is the 'star player,' but isn't essential to the
 deck. Intercept is forgone in lieu of more focused rush and some
 political activity.
 
-Crypt (12 cards, min=13, max=40, avg=6.25)
-------------------------------------------
-2x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
-1x Stanislava			 11  ANI CEL DOM FOR PRO  inner circle	Gangrel:2
-1x Ingrid Rossler		 9   ANI FOR PRO dom	  prince	Gangrel:2
-1x Iliana			 7   DOM FOR PRO tha	  		Gangrel:2
-1x Dylan			 6   aus cel dom for pro  		Ventrue antitribu:2
-1x Camille Devereux, The Raven	 5   FOR PRO ani	  		Gangrel:1
-1x Ingrid Russo			 4   DOM for		  		Ventrue antitribu:2
-1x Peter Blaine			 4   aus dom for	  		Ventrue antitribu:2
-1x Ramona			 4   for pro		  		Gangrel:2
-1x Ricki Van Demsi		 3   for pro		  		Gangrel:1
-1x Giuliano Vincenzi		 2   for		  		Gangrel:1
+Crypt (12 cards, min=13 max=40 avg=6.25)
+----------------------------------------
+2x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop    Ventrue antitribu:2
+1x Stanislava                    11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+1x Ingrid Rossler                9   ANI FOR PRO dom      prince        Gangrel:2
+1x Iliana                        7   DOM FOR PRO tha                    Gangrel:2
+1x Dylan                         6   aus cel dom for pro                Ventrue antitribu:2
+1x Camille Devereux, The Raven   5   FOR PRO ani                        Gangrel:1
+1x Ingrid Russo                  4   DOM for                            Ventrue antitribu:2
+1x Peter Blaine                  4   aus dom for                        Ventrue antitribu:2
+1x Ramona                        4   for pro                            Gangrel:2
+1x Ricki Van Demsi               3   for pro                            Gangrel:1
+1x Giuliano Vincenzi             2   for                                Gangrel:1
 
 Library (90 cards)
 Master (17)

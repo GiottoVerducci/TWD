@@ -14,18 +14,18 @@ ousting someone).
 Heidelberg kicks ass. Martin Franckel should be the last vampire you
 influence up. He is best used with Arcane Library.
 
-Crypt (12 cards, min=9, max=24, avg=4.08)
------------------------------------------
-2x Muaziz, Archon of Ulugh Beg	   7   THA aus dom for	Tremere:2
-2x Aisling Sturbridge		   5   AUS THA dom	Tremere:2
-1x Hannigan			   5   AUS THA dom	Tremere antitribu:2
-1x Idalia, Prophet of Guadalajara  4   AUS dem		Malkavian antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha		Tremere antitribu:2
-1x Blythe Candeleria		   3   THA aus		Tremere:2
-1x Isabel de Leon		   3   AUS		Toreador:2
-1x Martin Franckel		   3   AUS tha		Tremere:3
-1x Almiro Suarez		   2   aus		Tremere:3
-1x Franciscus			   1   aus		Caitiff:2
+Crypt (12 cards, min=9 max=24 avg=4.08)
+---------------------------------------
+2x Muaziz, Archon of Ulugh Beg     7   THA aus dom for  Tremere:2
+2x Aisling Sturbridge              5   AUS THA dom      Tremere:2
+1x Hannigan                        5   AUS THA dom      Tremere antitribu:2
+1x Idalia, Prophet of Guadalajara  4   AUS dem          Malkavian antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha          Tremere antitribu:2
+1x Blythe Candeleria               3   THA aus          Tremere:2
+1x Isabel de Leon                  3   AUS              Toreador:2
+1x Martin Franckel                 3   AUS tha          Tremere:3
+1x Almiro Suarez                   2   aus              Tremere:3
+1x Franciscus                      1   aus              Caitiff:2
 
 Library (90 cards)
 Master (27)

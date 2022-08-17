@@ -7,15 +7,15 @@ Mark Loughman
 
 Teenage Witch
 
-Crypt (12 cards, min=15, max=28, avg=5.33)
-------------------------------------------
-4x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
-2x Neighbor John		5   AUS dom for			  Ventrue antitribu:4
-2x Martin Franckel		3   AUS tha			  Tremere:3
-1x Valois Sang, The Watcher	6   AUS DOM nec tha		  Tremere:3
-1x Cohn Rose			5   THA aus dom pre		  Tremere:3
-1x Frondator			5   AUS dom tha		bishop	  Tremere antitribu:4
-1x Maldavis			4   AUS for pre			  Caitiff:3
+Crypt (12 cards, min=15 max=28 avg=5.33)
+----------------------------------------
+4x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
+2x Neighbor John                5   AUS dom for                   Ventrue antitribu:4
+2x Martin Franckel              3   AUS tha                       Tremere:3
+1x Valois Sang, The Watcher     6   AUS DOM nec tha               Tremere:3
+1x Cohn Rose                    5   THA aus dom pre               Tremere:3
+1x Frondator                    5   AUS dom tha         bishop    Tremere antitribu:4
+1x Maldavis                     4   AUS for pre                   Caitiff:3
 
 Library (89 cards)
 Master (15)

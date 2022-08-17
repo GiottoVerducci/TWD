@@ -11,17 +11,17 @@ Deck Name: Alamut's Horror Museum
 
 Description: Score: 4 + 0 + 4 + 4 (final)
 
-Crypt (12 cards, min=5, max=17, avg=2.67)
------------------------------------------
-3x Anarch Convert  1   -none-		Caitiff:ANY
-2x Tansu Bekir	   4   OBF cel		Assamite:2
-1x Badr al-Budur   5   OBF cel dom qui	Assamite:2
-1x Anwar	   4   cel obf qui	Assamite:2
-1x Ali Kar	   3   obf qui		Assamite:3
-1x Harika Guljan   3   QUI		Assamite:2
-1x Horatio	   2   vic		Tzimisce:2
-1x Kanya Akhtar	   2   cel		Assamite:2
-1x Piotr Andreikov 2   aus		Tzimisce:3
+Crypt (12 cards, min=5 max=17 avg=2.67)
+---------------------------------------
+3x Anarch Convert  1   -none-           Caitiff:ANY
+2x Tansu Bekir     4   OBF cel          Assamite:2
+1x Badr al-Budur   5   OBF cel dom qui  Assamite:2
+1x Anwar           4   cel obf qui      Assamite:2
+1x Ali Kar         3   obf qui          Assamite:3
+1x Harika Guljan   3   QUI              Assamite:2
+1x Horatio         2   vic              Tzimisce:2
+1x Kanya Akhtar    2   cel              Assamite:2
+1x Piotr Andreikov 2   aus              Tzimisce:3
 
 Library (80 cards)
 Master (27; 8 trifle)

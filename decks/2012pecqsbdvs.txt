@@ -9,15 +9,15 @@ Deck Name: Bankia (@@todoloquepuedas.com)
 
 -- 0 + GW3.5 + GW3 + 4VP in final
 
-Crypt (12 cards, min=11, max=24, avg=4.75)
-------------------------------------------
-4x Eurayle Gelasia Mylonas 6   AUS OBE for pre	Salubri:4
-2x Halim Bey		   6   DOM SER obf tha	Follower of Set:4
-2x Black Lotus		   5   DOM aus obf ser	Follower of Set:4
-1x Sahira Siraj		   4   obf ser tha	Follower of Set:4
-1x Ahmose Chambers	   3   obf ser		Follower of Set:5
-1x Keith Moody		   3   DOM		Tremere antitribu:4
-1x Anarch Convert	   1   -none-		Caitiff:ANY
+Crypt (12 cards, min=11 max=24 avg=4.75)
+----------------------------------------
+4x Eurayle Gelasia Mylonas 6   AUS OBE for pre  Salubri:4
+2x Halim Bey               6   DOM SER obf tha  Follower of Set:4
+2x Black Lotus             5   DOM aus obf ser  Follower of Set:4
+1x Sahira Siraj            4   obf ser tha      Follower of Set:4
+1x Ahmose Chambers         3   obf ser          Follower of Set:5
+1x Keith Moody             3   DOM              Tremere antitribu:4
+1x Anarch Convert          1   -none-           Caitiff:ANY
 
 Library (80 cards)
 Master (16; 4 trifle)

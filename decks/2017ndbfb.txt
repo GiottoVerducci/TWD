@@ -13,15 +13,15 @@ Created by: Márcio "O Feio"
 
 Description: Deck que sustenta bleed prejudicando o predador e pegando ou transformando os aliados da mesa.
 
-Crypt (12 cards, min=29, max=38, avg=8.58)
-------------------------------------------
-4x Shemti		  9   OBF POT PRE SER vic	1 vote	Follower of Set:5
-2x Count Jocalo		  10  NEC OBF PRE SER THA		Follower of Set:6
-2x Porphyrion		  9   CHI OBF PRE SER for		Follower of Set:5
-1x Pentweret		  9   OBF PRE SER aus for obe		Follower of Set:5
-1x Arnulf Jormungandrsson 8   OBF PRE SER aus cel		Follower of Set:5
-1x Ogwon		  7   OBF PRE SER for			Follower of Set:5
-1x Shahara al-Rashwa	  5   OBF SER pre			Follower of Set:6
+Crypt (12 cards, min=29 max=38 avg=8.58)
+----------------------------------------
+4x Shemti                 9   OBF POT PRE SER vic       1 vote  Follower of Set:5
+2x Count Jocalo           10  NEC OBF PRE SER THA               Follower of Set:6
+2x Porphyrion             9   CHI OBF PRE SER for               Follower of Set:5
+1x Pentweret              9   OBF PRE SER aus for obe           Follower of Set:5
+1x Arnulf Jormungandrsson 8   OBF PRE SER aus cel               Follower of Set:5
+1x Ogwon                  7   OBF PRE SER for                   Follower of Set:5
+1x Shahara al-Rashwa      5   OBF SER pre                       Follower of Set:6
 
 Library (80 cards)
 Master (15; 4 trifle)

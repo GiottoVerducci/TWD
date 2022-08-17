@@ -8,13 +8,13 @@ https://www.vekn.net/event-calendar/event/7582
 
 Deck Name: Lorrie's 1st armored division
 
-Crypt (12 cards, min=16, max=22, avg=4.67)
-------------------------------------------
-4x Lorrie Dunsirn	4   POT for nec		Abomination:4
-3x Esoara		5   DOM aus for pot	Tremere antitribu:4
-2x Charice Fontaigne	6   AUS DOM for pot	Ventrue antitribu:3
-2x Earl			4   dom for pot		Ventrue:3
-1x Ilyana Ravidovich	5   aus dom for pre	Ventrue:3
+Crypt (12 cards, min=16 max=22 avg=4.67)
+----------------------------------------
+4x Lorrie Dunsirn       4   POT for nec         Abomination:4
+3x Esoara               5   DOM aus for pot     Tremere antitribu:4
+2x Charice Fontaigne    6   AUS DOM for pot     Ventrue antitribu:3
+2x Earl                 4   dom for pot         Ventrue:3
+1x Ilyana Ravidovich    5   aus dom for pre     Ventrue:3
 
 Library (90 cards)
 Master (22; 6 trifle)

@@ -12,12 +12,12 @@ Deck Name: You shall not pass
 
 Description: wall
 
-Crypt (12 cards, min=24, max=36, avg=7.67)
-------------------------------------------
-4x Qawiyya el-Ghaduba	9   FOR POT VAL aus pre	 Salubri antitribu:5
-4x Nuriel		8   AUS FOR VAL cel dom	 Salubri antitribu:6
-2x Michaela		7   AUS FOR PRE VAL	 Salubri antitribu:5
-2x Azrael		5   AUS VAL for		 Salubri antitribu:6
+Crypt (12 cards, min=24 max=36 avg=7.67)
+----------------------------------------
+4x Qawiyya el-Ghaduba   9   FOR POT VAL aus pre  Salubri antitribu:5
+4x Nuriel               8   AUS FOR VAL cel dom  Salubri antitribu:6
+2x Michaela             7   AUS FOR PRE VAL      Salubri antitribu:5
+2x Azrael               5   AUS VAL for          Salubri antitribu:6
 
 Library (90 cards)
 Master (22; 5 trifle)

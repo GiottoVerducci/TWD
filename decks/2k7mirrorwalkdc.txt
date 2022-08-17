@@ -16,17 +16,17 @@ Steve's comments: The key to making this stealth vote/bleed work is to
 get two Inner Circle members in play. It is most vulnerable to rush
 decks and decks where the prey has both lots of intercept and combat
 
-Crypt (12 cards, min=8, max=44, avg=6.67)
------------------------------------------
-2x Arika	 11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-2x Etrius	 11  AUS DOM OBF THA pro	inner circle	Tremere:2
-2x Leandro	 11  AUS OBF PRE cel dom	inner circle	Malkavian:2
-1x Ember Wright	 3   aus dom					Tremere antitribu:3
-1x Lena Rowe	 3   aus obf pre				Pander:2
-1x Sister Evelyn 3   aus dom					Ventrue antitribu:3
-1x Zöe		 3   AUS cel obf				Malkavian:2
-1x Basil	 1   obf					Pander:2
-1x Royce	 1   dom					Pander:2
+Crypt (12 cards, min=8 max=44 avg=6.67)
+---------------------------------------
+2x Arika         11  DOM FOR OBF PRE aus cel    inner circle    Ventrue:2
+2x Etrius        11  AUS DOM OBF THA pro        inner circle    Tremere:2
+2x Leandro       11  AUS OBF PRE cel dom        inner circle    Malkavian:2
+1x Ember Wright  3   aus dom                                    Tremere antitribu:3
+1x Lena Rowe     3   aus obf pre                                Pander:2
+1x Sister Evelyn 3   aus dom                                    Ventrue antitribu:3
+1x Zöe           3   AUS cel obf                                Malkavian:2
+1x Basil         1   obf                                        Pander:2
+1x Royce         1   dom                                        Pander:2
 
 Library (90 cards)
 Master (21; 1 trifle)

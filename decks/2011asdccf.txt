@@ -12,15 +12,15 @@ Intercept - Combat - Bloat - Bleed
 Deck name came from a side joke after Round 1,
 the deck is really old school.
 
-Crypt (12 cards, min=15, max=38, avg=6.5)
------------------------------------------
-3x Lucas Halton		10  AUS CEL DOM THA qui	 prince	   Tremere:3
-2x Anastasz di Zagreb	8   AUS THA ani cel dom	 justicar  Tremere:3
-2x Aisling Sturbridge	5   AUS THA dom		 	   Tremere:2
-2x Hannigan		5   AUS THA dom		 	   Tremere antitribu:2
-1x Terrell Harding	7   AUS THA cel dom obf	 	   Tremere antitribu:3
-1x Blythe Candeleria	3   THA aus		 	   Tremere:2
-1x Mustafa Rahman	2   dom			 	   Tremere:2
+Crypt (12 cards, min=15 max=38 avg=6.5)
+---------------------------------------
+3x Lucas Halton         10  AUS CEL DOM THA qui  prince    Tremere:3
+2x Anastasz di Zagreb   8   AUS THA ani cel dom  justicar  Tremere:3
+2x Aisling Sturbridge   5   AUS THA dom                    Tremere:2
+2x Hannigan             5   AUS THA dom                    Tremere antitribu:2
+1x Terrell Harding      7   AUS THA cel dom obf            Tremere antitribu:3
+1x Blythe Candeleria    3   THA aus                        Tremere:2
+1x Mustafa Rahman       2   dom                            Tremere:2
 
 Library (90 cards)
 Master (17)

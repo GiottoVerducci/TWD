@@ -6,16 +6,16 @@ Erik Torstensson
 
 Deck Name: Silence is sexy
 
-Crypt (12 cards, min=11, max=28, avg=4.75)
-------------------------------------------
-5x Tariq, The Silent		    7	AUS FOR OBF QUI cel	Assamite:2
-1x Victoria			    5	AUS cel obf		Malkavian:2
-1x Isabel de Leon		    3	AUS			Toreador:2
-1x Lena Rowe			    3	aus obf pre		Pander:2
-1x Martin Franckel		    3	AUS tha			Tremere:3
-1x Regilio, The Seeker of Akhenaten 3	aus obf			Nosferatu:2
-1x Zöe				    3	AUS cel obf		Malkavian:2
-1x Piotr Andreikov		    2	aus			Tzimisce:3
+Crypt (12 cards, min=11 max=28 avg=4.75)
+----------------------------------------
+5x Tariq, The Silent                7   AUS FOR OBF QUI cel     Assamite:2
+1x Victoria                         5   AUS cel obf             Malkavian:2
+1x Isabel de Leon                   3   AUS                     Toreador:2
+1x Lena Rowe                        3   aus obf pre             Pander:2
+1x Martin Franckel                  3   AUS tha                 Tremere:3
+1x Regilio, The Seeker of Akhenaten 3   aus obf                 Nosferatu:2
+1x Zöe                              3   AUS cel obf             Malkavian:2
+1x Piotr Andreikov                  2   aus                     Tzimisce:3
 
 Library (62 cards)
 Master (10)

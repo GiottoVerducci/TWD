@@ -9,14 +9,14 @@ Deck Name: Viable 3rd Party
 
 Description: Tzimisce Vote and Bruise
 
-Crypt (12 cards, min=34, max=38, avg=9)
----------------------------------------
-3x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
-3x Velya, The Flayer		    9	ANI AUS PRE VIC for	cardinal    Tzimisce:3
-2x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
-2x John Paleologus		    9	ANI AUS CEL VIC pot	archbishop  Tzimisce:3
-1x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
-1x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+Crypt (12 cards, min=34 max=38 avg=9)
+-------------------------------------
+3x Stravinsky                       9   ANI AUS VIC pot         archbishop  Tzimisce:2
+3x Velya, The Flayer                9   ANI AUS PRE VIC for     cardinal    Tzimisce:3
+2x Lambach                          10  ANI AUS DOM VIC pre     cardinal    Tzimisce:2
+2x John Paleologus                  9   ANI AUS CEL VIC pot     archbishop  Tzimisce:3
+1x Meshenka                         8   ANI AUS VIC             priscus     Tzimisce:2
+1x Sascha Vykos, The Angel of Caine 8   AUS THA VIC ani dom     priscus     Tzimisce:2
 
 Library (90 cards)
 Master (10)

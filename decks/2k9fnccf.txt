@@ -10,18 +10,18 @@ Created by: Stone
 
 Description: deck de pinpin
 
-Crypt (12 cards, min=15, max=28, avg=5.42)
-------------------------------------------
-2x Korah			7   AUS DEM OBF ani	 priscus  Malkavian antitribu:2
-2x Dolphin Black		6   AUS DEM OBF		 	  Malkavian antitribu:2
-1x Kite				7   AUS DEM obf pre	 bishop	  Malkavian antitribu:2
-1x Quentin King III (ADV)	7   AUS DEM OBF cel pre	 	  Malkavian:3
-1x General Perfidio Díos	5   AUS dem obf		 bishop	  Malkavian antitribu:3
-1x Persia, The Beautiful Statue	5   DEM aus obf		 	  Malkavian:3
-1x Uncle George			5   DEM aus dom obf	 	  Malkavian antitribu:3
-1x Claven			4   aus dem obf		 	  Malkavian antitribu:2
-1x Midget			3   DEM obf pre		 	  Malkavian antitribu:3
-1x Yorik			3   dem obf		 	  Malkavian antitribu:2
+Crypt (12 cards, min=15 max=28 avg=5.42)
+----------------------------------------
+2x Korah                        7   AUS DEM OBF ani      priscus  Malkavian antitribu:2
+2x Dolphin Black                6   AUS DEM OBF                   Malkavian antitribu:2
+1x Kite                         7   AUS DEM obf pre      bishop   Malkavian antitribu:2
+1x Quentin King III (ADV)       7   AUS DEM OBF cel pre           Malkavian:3
+1x General Perfidio Díos        5   AUS dem obf          bishop   Malkavian antitribu:3
+1x Persia, The Beautiful Statue 5   DEM aus obf                   Malkavian:3
+1x Uncle George                 5   DEM aus dom obf               Malkavian antitribu:3
+1x Claven                       4   aus dem obf                   Malkavian antitribu:2
+1x Midget                       3   DEM obf pre                   Malkavian antitribu:3
+1x Yorik                        3   dem obf                       Malkavian antitribu:2
 
 Library (90 cards)
 Master (18; 3 trifle)

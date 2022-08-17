@@ -23,9 +23,9 @@ track with the card combo. freak drive to then call PS
 
 repeat until you have wiped everyone out
 
-Crypt (15 cards, min=44, max=44, avg=11)
-----------------------------------------
-15x Arika 11   DOM FOR OBF PRE aus cel	inner circle	Ventrue:2 -- could have more, 15 was enough
+Crypt (15 cards, min=44 max=44 avg=11)
+--------------------------------------
+15x Arika 11   DOM FOR OBF PRE aus cel  inner circle    Ventrue:2 -- could have more, 15 was enough
 
 Library (90 cards)
 Action (20)

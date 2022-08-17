@@ -10,20 +10,20 @@ Notes from Jeff: Bring out an 11 or 10 capacity vampire.
 GtU the other vampires out. Once you have enough, bleed
 and vote your prey out of existence. --
 
-Crypt (12 cards, min=26, max=42, avg=8.58)
-------------------------------------------
-1x Arika				11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Etrius				11  AUS DOM OBF THA pro		inner circle	Tremere:2
-1x Angelica, The Canonicus		10  DOM OBT POT cel obf		cardinal	Lasombra:2
-1x Lucian				10  AUS DOM OBF cel tha		justicar	Malkavian:1
-1x Queen Anne				10  DOM FOR PRE aus obf		prince		Ventrue:2
-1x Roxanne, Rectrix of the 13th Floor	9   AUS DOM FOR OBF pot		primogen	Malkavian:1
-1x Gratiano				8   DOM OBT obf pot		priscus		Lasombra:2
-1x Justine, Elder of Dallas		8   AUS DOM THA obf		primogen	Tremere:1
-1x Carlotta Giovanni			7   NEC POT dom obf				Giovanni:2
-1x Gilbert Duane			7   AUS DOM OBF			prince		Malkavian:1
-1x Mariel, Lady Thunder			7   DOM OBF aus tha				Malkavian:1
-1x Didi Meyers				5   DOM aus cel obf				Malkavian:1
+Crypt (12 cards, min=26 max=42 avg=8.58)
+----------------------------------------
+1x Arika                                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+1x Etrius                               11  AUS DOM OBF THA pro         inner circle    Tremere:2
+1x Angelica, The Canonicus              10  DOM OBT POT cel obf         cardinal        Lasombra:2
+1x Lucian                               10  AUS DOM OBF cel tha         justicar        Malkavian:1
+1x Queen Anne                           10  DOM FOR PRE aus obf         prince          Ventrue:2
+1x Roxanne, Rectrix of the 13th Floor   9   AUS DOM FOR OBF pot         primogen        Malkavian:1
+1x Gratiano                             8   DOM OBT obf pot             priscus         Lasombra:2
+1x Justine, Elder of Dallas             8   AUS DOM THA obf             primogen        Tremere:1
+1x Carlotta Giovanni                    7   NEC POT dom obf                             Giovanni:2
+1x Gilbert Duane                        7   AUS DOM OBF                 prince          Malkavian:1
+1x Mariel, Lady Thunder                 7   DOM OBF aus tha                             Malkavian:1
+1x Didi Meyers                          5   DOM aus cel obf                             Malkavian:1
 
 Library (91 cards)
 Master (16)

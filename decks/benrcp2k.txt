@@ -9,20 +9,20 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/PvLF6q0Xt_A
 Deck Name: Wonderwall
 
 
-Crypt (12 cards, min=12, max=16, avg=3.5)
------------------------------------------
-1x Agrippina			    4	OBF pot		Nosferatu:1
-1x Aleph			    4	AUS dom		Malkavian:1
-1x Claven			    4	aus dem obf	Malkavian antitribu:2
-1x Remilliard, Devout Crusader	    4	AUS pre		Toreador antitribu:2
-1x Roland Bishop		    4	aus dom obf	Malkavian:1
-1x Tansu Bekir			    4	OBF cel		Assamite:2
-1x Dan Murdock			    3	aus obf		Caitiff:1
-1x Dollface			    3	aus obf		Malkavian:1
-1x Isabel de Leon		    3	AUS		Toreador:2
-1x Lena Rowe			    3	aus obf pre	Pander:2
-1x Regilio, The Seeker of Akhenaten 3	aus obf		Nosferatu:2
-1x Zöe				    3	AUS cel obf	Malkavian:2
+Crypt (12 cards, min=12 max=16 avg=3.5)
+---------------------------------------
+1x Agrippina                        4   OBF pot         Nosferatu:1
+1x Aleph                            4   AUS dom         Malkavian:1
+1x Claven                           4   aus dem obf     Malkavian antitribu:2
+1x Remilliard, Devout Crusader      4   AUS pre         Toreador antitribu:2
+1x Roland Bishop                    4   aus dom obf     Malkavian:1
+1x Tansu Bekir                      4   OBF cel         Assamite:2
+1x Dan Murdock                      3   aus obf         Caitiff:1
+1x Dollface                         3   aus obf         Malkavian:1
+1x Isabel de Leon                   3   AUS             Toreador:2
+1x Lena Rowe                        3   aus obf pre     Pander:2
+1x Regilio, The Seeker of Akhenaten 3   aus obf         Nosferatu:2
+1x Zöe                              3   AUS cel obf     Malkavian:2
 
 Library (90 cards)
 Master (22)

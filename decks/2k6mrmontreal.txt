@@ -12,14 +12,14 @@ revolves around Arika and Marcus, the freak drives make-up for the
 size of the vamps and don't be shy to use the governs for bloat or
 to bring-up the support cast.
 
-Crypt (12 cards, min=31, max=44, avg=9.67)
-------------------------------------------
-5x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
-1x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
-1x Katarina Kornfeld	8   DOM FOR PRE ani		primogen	Ventrue:3
-1x Victorine Lafourcade	8   DOM FOR PRE tha		prince		Ventrue:3
-1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+Crypt (12 cards, min=31 max=44 avg=9.67)
+----------------------------------------
+5x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+3x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
+1x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
+1x Katarina Kornfeld    8   DOM FOR PRE ani             primogen        Ventrue:3
+1x Victorine Lafourcade 8   DOM FOR PRE tha             prince          Ventrue:3
+1x Catherine du Bois    5   DOM for obf pre                             Ventrue:3
 
 Library (90 cards)
 Master (12)

@@ -17,15 +17,15 @@ For the rest, intercept and Rötshreck cleverly.
 a incredible vampire as its revenant and its Ivory Bow used to be
 the terror for my prey. Feel the power of Horatio!!
 
-Crypt (12 cards, min=10, max=24, avg=4.5)
------------------------------------------
-3x Corine Marcón	6   AUS VIC ani		Tzimisce:2
-2x Caliban		6   ANI AUS VIC		Tzimisce:2
-2x Lolita Houston	4   VIC aus		Tzimisce:2
-2x Horatio		2   vic			Tzimisce:2
-1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
-1x Rose, The		5   PRE VIC aus		Tzimisce:3
-1x Christine Boscacci	2   dom vic		Pander:2
+Crypt (12 cards, min=10 max=24 avg=4.5)
+---------------------------------------
+3x Corine Marcón        6   AUS VIC ani         Tzimisce:2
+2x Caliban              6   ANI AUS VIC         Tzimisce:2
+2x Lolita Houston       4   VIC aus             Tzimisce:2
+2x Horatio              2   vic                 Tzimisce:2
+1x Ana Rita Montaña     5   VIC aus dom obf     Tzimisce:3
+1x Rose, The            5   PRE VIC aus         Tzimisce:3
+1x Christine Boscacci   2   dom vic             Pander:2
 
 Library (90 cards)
 Master (17; 1 trifle)

@@ -9,18 +9,18 @@ Deck Name: You have to kill it before it kills you!
 Description: No surprises. No funny bizniz. You have to kill it
 before it kills you.
 
-Crypt (12 cards, min=16, max=28, avg=5.5)
------------------------------------------
-2x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
-2x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
-1x Ozmo			6   AUS dom obf			Malkavian:1
-1x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
-1x Badr al-Budur	5   OBF cel dom qui		Assamite:2
-1x Count Ormonde	5   OBF dom pre ser		Follower of Set:2
-1x Didi Meyers		5   DOM aus cel obf		Malkavian:1
-1x Zebulon		5   OBF aus dom pro		Malkavian:1
-1x Roland Bishop	4   aus dom obf			Malkavian:1
-1x Ohanna		2   dom				Malkavian:2
+Crypt (12 cards, min=16 max=28 avg=5.5)
+---------------------------------------
+2x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
+2x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
+1x Ozmo                 6   AUS dom obf                 Malkavian:1
+1x Reverend Blackwood   6   DOM THA obf         bishop  Tremere antitribu:2
+1x Badr al-Budur        5   OBF cel dom qui             Assamite:2
+1x Count Ormonde        5   OBF dom pre ser             Follower of Set:2
+1x Didi Meyers          5   DOM aus cel obf             Malkavian:1
+1x Zebulon              5   OBF aus dom pro             Malkavian:1
+1x Roland Bishop        4   aus dom obf                 Malkavian:1
+1x Ohanna               2   dom                         Malkavian:2
 
 Library (67 cards)
 Master (10; 1 trifle)

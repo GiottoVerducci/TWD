@@ -7,14 +7,14 @@ Beatrice Düring
 
 Deck Name: Aksinya's aggro poke gang
 
-Crypt (12 cards, min=12, max=36, avg=5.67)
-------------------------------------------
-4x Aksinya Daclau	  9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
-2x Janey Pickman	  6   ANI PRO for		Gangrel antitribu:4
-2x Bill Butler		  3   pot pro			Gangrel antitribu:4
-2x Lula Burch		  3   for pro			Gangrel antitribu:4
-1x Charlie Tyne		  4   obf pro ser		Gangrel antitribu:4
-1x Scarlet Carson O'Toole 4   CEL pro			Gangrel antitribu:3
+Crypt (12 cards, min=12 max=36 avg=5.67)
+----------------------------------------
+4x Aksinya Daclau         9   ANI FOR PRE PRO cel tha   Gangrel antitribu:4
+2x Janey Pickman          6   ANI PRO for               Gangrel antitribu:4
+2x Bill Butler            3   pot pro                   Gangrel antitribu:4
+2x Lula Burch             3   for pro                   Gangrel antitribu:4
+1x Charlie Tyne           4   obf pro ser               Gangrel antitribu:4
+1x Scarlet Carson O'Toole 4   CEL pro                   Gangrel antitribu:3
 
 Library (90 cards)
 Master (25; 3 trifle)

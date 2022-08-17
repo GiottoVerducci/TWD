@@ -9,19 +9,19 @@ Raymond Harnack
 
 Deck Name: Not So Unexpected Anymore in Flint
 
-Crypt (12 cards, min=15, max=38, avg=6.58)
-------------------------------------------
-2x Hektor		9   CEL POT PRE QUI for		priscus	    Brujah antitribu:4
-1x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-1x Bela Kardoza		10  CEL POT PRE VIC ani dom		    Brujah antitribu:4
-1x Marcel de Breau	9   CEL POT PRE ani pro		archbishop  Brujah antitribu:3
-1x Urraca		7   ANI CEL POT pre		bishop	    Brujah antitribu:4
-1x Axel Von Anders	5   PRE cel obf pot			    Brujah antitribu:4
-1x Wah Chun-Yuen	5   POT cel dom pre			    Brujah antitribu:3
-1x Alessandro Garcia	4   pot pre pro				    Brujah antitribu:4
-1x Mariano Pomposo	4   aus cel pot				    Brujah antitribu:3
-1x Patrick		4   POT pre				    Brujah antitribu:4
-1x Smash		3   pot pre				    Brujah antitribu:4 -- SMUAAAAASH!
+Crypt (12 cards, min=15 max=38 avg=6.58)
+----------------------------------------
+2x Hektor               9   CEL POT PRE QUI for         priscus     Brujah antitribu:4
+1x Armin Brenner        10  CEL FOR POT PRE ani obf     archbishop  Brujah antitribu:4
+1x Bela Kardoza         10  CEL POT PRE VIC ani dom                 Brujah antitribu:4
+1x Marcel de Breau      9   CEL POT PRE ani pro         archbishop  Brujah antitribu:3
+1x Urraca               7   ANI CEL POT pre             bishop      Brujah antitribu:4
+1x Axel Von Anders      5   PRE cel obf pot                         Brujah antitribu:4
+1x Wah Chun-Yuen        5   POT cel dom pre                         Brujah antitribu:3
+1x Alessandro Garcia    4   pot pre pro                             Brujah antitribu:4
+1x Mariano Pomposo      4   aus cel pot                             Brujah antitribu:3
+1x Patrick              4   POT pre                                 Brujah antitribu:4
+1x Smash                3   pot pre                                 Brujah antitribu:4 -- SMUAAAAASH!
 
 Library (91 cards)
 Master (19; 3 trifle)

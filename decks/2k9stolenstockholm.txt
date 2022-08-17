@@ -10,18 +10,18 @@ Deck Name: Goratix Jailhouse
 Description: Goratrix gets Anima Gathering and the weenies go to jail
 to feed Goratrix.
 
-Crypt (12 cards, min=6, max=34, avg=4.42)
------------------------------------------
-3x Goratrix	   10  ANI AUS DOM THA vic  Tremere antitribu:2
-1x Maldavis	   4   AUS for pre	    Caitiff:3
-1x Peter Blaine	   4   aus dom for	    Ventrue antitribu:2
-1x Isabel de Leon  3   AUS		    Toreador:2
-1x Juan Cali	   3   aus for		    Ventrue antitribu:2
-1x Martin Franckel 3   AUS tha		    Tremere:3
-1x Nicholas Chang  2   aus		    Toreador antitribu:3
-1x Piotr Andreikov 2   aus		    Tzimisce:3
-1x Feo Ramos	   1   aus		    Pander:3
-1x Franciscus	   1   aus		    Caitiff:2
+Crypt (12 cards, min=6 max=34 avg=4.42)
+---------------------------------------
+3x Goratrix        10  ANI AUS DOM THA vic  Tremere antitribu:2
+1x Maldavis        4   AUS for pre          Caitiff:3
+1x Peter Blaine    4   aus dom for          Ventrue antitribu:2
+1x Isabel de Leon  3   AUS                  Toreador:2
+1x Juan Cali       3   aus for              Ventrue antitribu:2
+1x Martin Franckel 3   AUS tha              Tremere:3
+1x Nicholas Chang  2   aus                  Toreador antitribu:3
+1x Piotr Andreikov 2   aus                  Tzimisce:3
+1x Feo Ramos       1   aus                  Pander:3
+1x Franciscus      1   aus                  Caitiff:2
 
 Library (90 cards)
 Master (15; 2 trifle)

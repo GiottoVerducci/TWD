@@ -9,16 +9,16 @@ Bruno Patrício Silva Pontes
 
 Deck Name: Giovanni Shambling Hordes
 
-Crypt (12 cards, min=13, max=32, avg=5.92)
-------------------------------------------
-3x Andrea Giovanni	7   DOM NEC pot vic	 Giovanni:2
-2x Lisandro Giovanni	9   DOM FOR NEC POT THN	 Giovanni:3
-2x Rudolfo Giovanni	3   NEC			 Giovanni:2
-1x Carlotta Giovanni	7   NEC POT dom obf	 Giovanni:2
-1x Gillespi Giovanni	7   DOM NEC POT aus	 Giovanni:2
-1x Isabel Giovanni	5   DOM NEC pot		 Giovanni:2
-1x Gloria Giovanni	4   DOM nec		 Giovanni:2
-1x Lia Milliner		3   dom nec		 Giovanni:3
+Crypt (12 cards, min=13 max=32 avg=5.92)
+----------------------------------------
+3x Andrea Giovanni      7   DOM NEC pot vic      Giovanni:2
+2x Lisandro Giovanni    9   DOM FOR NEC POT THN  Giovanni:3
+2x Rudolfo Giovanni     3   NEC                  Giovanni:2
+1x Carlotta Giovanni    7   NEC POT dom obf      Giovanni:2
+1x Gillespi Giovanni    7   DOM NEC POT aus      Giovanni:2
+1x Isabel Giovanni      5   DOM NEC pot          Giovanni:2
+1x Gloria Giovanni      4   DOM nec              Giovanni:2
+1x Lia Milliner         3   dom nec              Giovanni:3
 
 Library (90 cards)
 Master (22; 5 trifle)

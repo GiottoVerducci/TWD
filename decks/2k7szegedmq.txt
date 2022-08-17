@@ -7,14 +7,14 @@ Sebestyén Balázs
 Deck Name: Gangrel Wall 1.1
 Created by: Jovan Pavlovic
 
-Crypt (12 cards, min=20, max=32, avg=6.33)
-------------------------------------------
-4x Faruq	   8   ANI PRO dom for pot  	    Gangrel:2
-3x Caitlin	   6   ANI PRO aus dom	    bishop  Gangrel antitribu:2
-2x Horrock	   6   ANI PRO vic	    	    Gangrel:3
-1x Lord Ashton	   5   ANI for pro	    	    Gangrel:3
-1x Mirembe Kabbada 5   PRO SER ani	    	    Gangrel:2
-1x Bobby Lemon	   4   ANI pro		    	    Gangrel:3
+Crypt (12 cards, min=20 max=32 avg=6.33)
+----------------------------------------
+4x Faruq           8   ANI PRO dom for pot          Gangrel:2
+3x Caitlin         6   ANI PRO aus dom      bishop  Gangrel antitribu:2
+2x Horrock         6   ANI PRO vic                  Gangrel:3
+1x Lord Ashton     5   ANI for pro                  Gangrel:3
+1x Mirembe Kabbada 5   PRO SER ani                  Gangrel:2
+1x Bobby Lemon     4   ANI pro                      Gangrel:3
 
 Library (90 cards)
 Master (22)

@@ -11,14 +11,14 @@ Deck Name: Return to Carthage
 
 Description: Won all three of its games. 3VP, 2.5VP, 4VP
 
-Crypt (12 cards, min=27, max=42, avg=8.67)
-------------------------------------------
-3x Dmitra Ilyanova 9   CEL FOR POT PRE obf	justicar	Brujah:5
-3x Karen Suadela   7   CEL POT obf pre		prince		Brujah:5
-2x Adana de Sforza 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
-2x Jann Berger	   10  CEL POT PRE dem for	prince		Brujah:4
-1x Carlak	   8   CEL PRE dom pot		prince		Brujah:5
-1x Tara		   6   POT PRE cel		prince		Brujah:5
+Crypt (12 cards, min=27 max=42 avg=8.67)
+----------------------------------------
+3x Dmitra Ilyanova 9   CEL FOR POT PRE obf      justicar        Brujah:5
+3x Karen Suadela   7   CEL POT obf pre          prince          Brujah:5
+2x Adana de Sforza 11  CEL OBF POT PRE PRO aus  inner circle    Brujah:4
+2x Jann Berger     10  CEL POT PRE dem for      prince          Brujah:4
+1x Carlak          8   CEL PRE dom pot          prince          Brujah:5
+1x Tara            6   POT PRE cel              prince          Brujah:5
 
 Library (89 cards)
 Master (29; 10 trifle)

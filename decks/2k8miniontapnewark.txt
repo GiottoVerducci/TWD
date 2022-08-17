@@ -7,13 +7,13 @@ Brad Cashdollar
 
 "Ashley's Angry Dragon"
 
-Crypt (12 cards, min=26, max=39, avg=8.42)
-------------------------------------------
-3x Nefertiti				10  DOM OBF PRE SER cel pot		 Follower of Set:2
-3x Khay'tall, Snake of Eden		9   DOM OBF PRE SER aus			 Follower of Set:2
-2x Kahina the Sorceress			9   AUS DOM OBF SER nec pre	1 vote	 Follower of Set:3
-2x Kephamos, High Priest of Marrakech	8   SER dom obf pre		2 votes	 Follower of Set:2
-2x Count Ormonde			5   OBF dom pre ser			 Follower of Set:2
+Crypt (12 cards, min=26 max=39 avg=8.42)
+----------------------------------------
+3x Nefertiti                            10  DOM OBF PRE SER cel pot              Follower of Set:2
+3x Khay'tall, Snake of Eden             9   DOM OBF PRE SER aus                  Follower of Set:2
+2x Kahina the Sorceress                 9   AUS DOM OBF SER nec pre     1 vote   Follower of Set:3
+2x Kephamos, High Priest of Marrakech   8   SER dom obf pre             2 votes  Follower of Set:2
+2x Count Ormonde                        5   OBF dom pre ser                      Follower of Set:2
 
 Library (88 cards)
 Master (15; 2 trifle)

@@ -7,12 +7,12 @@ Pauli Kiova
 
 Deck Name: Sheldon is the Lord!
 
-Crypt (12 cards, min=28, max=36, avg=8.08)
-------------------------------------------
-5x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
-3x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
-3x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
-1x Chester DuBois		7   ANI POT for obf	 primogen  Nosferatu:1
+Crypt (12 cards, min=28 max=36 avg=8.08)
+----------------------------------------
+5x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
+3x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
+3x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
+1x Chester DuBois               7   ANI POT for obf      primogen  Nosferatu:1
 
 Library (90 cards)
 Master (16)

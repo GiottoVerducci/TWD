@@ -10,25 +10,25 @@ Paolo Pasqualin
 Deck Name: Ten Little Archbishops
 Created by: Paolo Pasqualin after Cristiano Mulattero
 
-Crypt (18 cards, min=6, max=23, avg=3.22)
------------------------------------------
-1x Alfred Benezri (ADV)	  7   PRE THA aus dom	bishop	    Pander:3
-2x Alfred Benezri	  6   PRE THA aus dom	bishop	    Pander:3
-1x Fabrizia Contreraz	  4   dem pot		archbishop  Malkavian antitribu:4
-1x Bill Butler		  3   pot pro			    Gangrel antitribu:4
-1x Droescher One-Eye	  3   ani vic			    Tzimisce:4
-1x Hester Reed		  3   obt pot			    Lasombra:3
-1x Jackie		  3   DEM			    Malkavian antitribu:4
-1x Jonathan Gursel	  3   aus pre			    Toreador antitribu:4
-1x Lectora		  3   aus tha			    Tremere antitribu:4
-1x Monique Kim		  3   aus cel			    Toreador antitribu:4
-1x Stick		  3   ANI			    Nosferatu antitribu:4
-1x Ulrike Rothbart	  3   dom for			    Ventrue antitribu:4
-1x Justine Chen, Innocent 2   pre			    Toreador antitribu:4
-1x Leo Washington	  2   cel pro			    Gangrel antitribu:4
-1x Old Neddacka		  2   obf			    Nosferatu antitribu:4
-1x Jaggedy Andy		  1   pot			    Pander:4
-1x Schuyler		  1   tha			    Pander:4
+Crypt (18 cards, min=6 max=23 avg=3.22)
+---------------------------------------
+1x Alfred Benezri (ADV)   7   PRE THA aus dom   bishop      Pander:3
+2x Alfred Benezri         6   PRE THA aus dom   bishop      Pander:3
+1x Fabrizia Contreraz     4   dem pot           archbishop  Malkavian antitribu:4
+1x Bill Butler            3   pot pro                       Gangrel antitribu:4
+1x Droescher One-Eye      3   ani vic                       Tzimisce:4
+1x Hester Reed            3   obt pot                       Lasombra:3
+1x Jackie                 3   DEM                           Malkavian antitribu:4
+1x Jonathan Gursel        3   aus pre                       Toreador antitribu:4
+1x Lectora                3   aus tha                       Tremere antitribu:4
+1x Monique Kim            3   aus cel                       Toreador antitribu:4
+1x Stick                  3   ANI                           Nosferatu antitribu:4
+1x Ulrike Rothbart        3   dom for                       Ventrue antitribu:4
+1x Justine Chen, Innocent 2   pre                           Toreador antitribu:4
+1x Leo Washington         2   cel pro                       Gangrel antitribu:4
+1x Old Neddacka           2   obf                           Nosferatu antitribu:4
+1x Jaggedy Andy           1   pot                           Pander:4
+1x Schuyler               1   tha                           Pander:4
 
 Library (75 cards)
 Master (24; 5 trifle)

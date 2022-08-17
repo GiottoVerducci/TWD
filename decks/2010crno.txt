@@ -18,16 +18,16 @@ The deck was definitely supposed to have 2 Graverobbing. It's a huge mistake,
 since that was the inspiration for me to change the deck in the first place.
 I'd probably drop a Superior Mettle and a Rapid Healing for them.
 
-Crypt (12 cards, min=8, max=16, avg=3.17)
------------------------------------------
-2x Ingrid Russo		4   DOM for	 Ventrue antitribu:2
-2x Katherine Stoddard	4   dom for	 Ventrue antitribu:3
-2x Peter Blaine		4   aus dom for	 Ventrue antitribu:2
-2x March Halcyon	1   for		 Pander:2
-1x Juan Cali		3   aus for	 Ventrue antitribu:2
-1x Leon			3   ani for	 Gangrel antitribu:2
-1x Lolita		3   for pre	 Toreador antitribu:2
-1x Muse			3   ani for mel	 Daughter of Cacophony:2
+Crypt (12 cards, min=8 max=16 avg=3.17)
+---------------------------------------
+2x Ingrid Russo         4   DOM for      Ventrue antitribu:2
+2x Katherine Stoddard   4   dom for      Ventrue antitribu:3
+2x Peter Blaine         4   aus dom for  Ventrue antitribu:2
+2x March Halcyon        1   for          Pander:2
+1x Juan Cali            3   aus for      Ventrue antitribu:2
+1x Leon                 3   ani for      Gangrel antitribu:2
+1x Lolita               3   for pre      Toreador antitribu:2
+1x Muse                 3   ani for mel  Daughter of Cacophony:2
 
 Library (90 cards)
 Master (13)

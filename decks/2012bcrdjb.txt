@@ -7,20 +7,20 @@ Roberto Mautone Junior
 
 Deck Name: Pascek's Hounds
 
-Crypt (14 cards, min=12, max=26, avg=4.86)
-------------------------------------------
-2x Céleste Lamontagne	5   ANI PRO for			Gangrel antitribu:4
-2x Petra		5   ANI OBF aus			Nosferatu:4
-1x Danielle Diron	7   ANI PRO chi for	1 vote	Gangrel:3
-1x Muricia		7   ANI PRE SPI			Ahrimane:4
-1x Humo			6   ANI POT obf obt		Nosferatu antitribu:4
-1x Jubal		6   ABO ANI for pot		Akunanse:4
-1x Effie Lowery		5   ANI SPI obf			Ahrimane:4
-1x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
-1x Beetleman		4   ANI obf			Nosferatu:4
-1x Dolie		3   abo ani			Akunanse:4
-1x Stick		3   ANI				Nosferatu antitribu:4
-1x Mouse		2   ani				Nosferatu:3
+Crypt (14 cards, min=12 max=26 avg=4.86)
+----------------------------------------
+2x Céleste Lamontagne   5   ANI PRO for                 Gangrel antitribu:4
+2x Petra                5   ANI OBF aus                 Nosferatu:4
+1x Danielle Diron       7   ANI PRO chi for     1 vote  Gangrel:3
+1x Muricia              7   ANI PRE SPI                 Ahrimane:4
+1x Humo                 6   ANI POT obf obt             Nosferatu antitribu:4
+1x Jubal                6   ABO ANI for pot             Akunanse:4
+1x Effie Lowery         5   ANI SPI obf                 Ahrimane:4
+1x Yuri Kerezenski      5   ANI aus for vic     bishop  Tzimisce:4
+1x Beetleman            4   ANI obf                     Nosferatu:4
+1x Dolie                3   abo ani                     Akunanse:4
+1x Stick                3   ANI                         Nosferatu antitribu:4
+1x Mouse                2   ani                         Nosferatu:3
 
 Library (90 cards)
 Master (21; 5 trifle)

@@ -6,20 +6,20 @@ Ben Peal
 
 Your Friendly Neighborhood City Gangrel
 
-Crypt (12 cards, min=9, max=25, avg=4.33)
------------------------------------------
-1x Zachary		 7   CEL OBF PRO for pre  Gangrel antitribu:2
-1x Darrell Boyce, Consul 6   CEL OBF PRO	  Gangrel antitribu:2
-1x Harry Reese		 6   FOR PRO cel obf	  Gangrel antitribu:3
-1x Pieter		 6   OBF PRO for tha	  Gangrel antitribu:2
-1x Maria Stone		 5   FOR cel obf pro	  Gangrel antitribu:3
-1x Skryta Zyleta	 5   CEL obf pot pro	  Gangrel antitribu:3
-1x Daliyah		 4   PRO obf		  Nosferatu:2
-1x Wren			 4   cel obf pro	  Gangrel antitribu:2
-1x Chandler Hungerford	 3   PRO		  Gangrel:2
-1x Max Lowell		 3   cel obf		  Gangrel antitribu:2
-1x Sadie		 2   pro		  Gangrel antitribu:2
-1x Huang, Blood Cultist	 1   pro		  Pander:2
+Crypt (12 cards, min=9 max=25 avg=4.33)
+---------------------------------------
+1x Zachary               7   CEL OBF PRO for pre  Gangrel antitribu:2
+1x Darrell Boyce, Consul 6   CEL OBF PRO          Gangrel antitribu:2
+1x Harry Reese           6   FOR PRO cel obf      Gangrel antitribu:3
+1x Pieter                6   OBF PRO for tha      Gangrel antitribu:2
+1x Maria Stone           5   FOR cel obf pro      Gangrel antitribu:3
+1x Skryta Zyleta         5   CEL obf pot pro      Gangrel antitribu:3
+1x Daliyah               4   PRO obf              Nosferatu:2
+1x Wren                  4   cel obf pro          Gangrel antitribu:2
+1x Chandler Hungerford   3   PRO                  Gangrel:2
+1x Max Lowell            3   cel obf              Gangrel antitribu:2
+1x Sadie                 2   pro                  Gangrel antitribu:2
+1x Huang, Blood Cultist  1   pro                  Pander:2
 
 Library (90 cards)
 Master (21; 3 trifle)

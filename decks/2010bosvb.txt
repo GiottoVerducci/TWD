@@ -9,16 +9,16 @@ Deck Name: Greyskull
 
 Description: You know.
 
-Crypt (12 cards, min=20, max=30, avg=6.42)
-------------------------------------------
-3x Egothha				7   AUS FOR NEC obf			 Harbinger of Skulls:2
-2x Gisela Harden, The Winnower		7   FOR NEC aus dem		priscus	 Harbinger of Skulls:2
-2x Agaitas, The Scholar of Antiquities	6   AUS NEC for				 Harbinger of Skulls:2
-1x Unre, Keeper of Golgotha		9   AUS FOR NEC dom ser thn	bishop	 Harbinger of Skulls:2
-1x Matthias				7   AUS FOR OBE nec			 Salubri:2
-1x Mina Grotius				6   FOR NEC cel				 Harbinger of Skulls:3
-1x Idalia, Prophet of Guadalajara	4   AUS dem				 Malkavian antitribu:2
-1x Maldavis				4   AUS for pre				 Caitiff:3
+Crypt (12 cards, min=20 max=30 avg=6.42)
+----------------------------------------
+3x Egothha                              7   AUS FOR NEC obf                      Harbinger of Skulls:2
+2x Gisela Harden, The Winnower          7   FOR NEC aus dem             priscus  Harbinger of Skulls:2
+2x Agaitas, The Scholar of Antiquities  6   AUS NEC for                          Harbinger of Skulls:2
+1x Unre, Keeper of Golgotha             9   AUS FOR NEC dom ser thn     bishop   Harbinger of Skulls:2
+1x Matthias                             7   AUS FOR OBE nec                      Salubri:2
+1x Mina Grotius                         6   FOR NEC cel                          Harbinger of Skulls:3
+1x Idalia, Prophet of Guadalajara       4   AUS dem                              Malkavian antitribu:2
+1x Maldavis                             4   AUS for pre                          Caitiff:3
 
 Library (90 cards)
 Master (26; 4 trifle)

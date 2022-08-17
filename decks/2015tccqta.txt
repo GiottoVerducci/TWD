@@ -13,14 +13,14 @@ Deck Name: Keep Calm and Hodor
 Description: Typical Tupdog deck that uses 3 card agg-poke combat to clear the way for each Tupdog to multi-act via As the Crow and then bleed.
 Extra bleed punch from Pentex Loves You to use up each Tupdog's blood before they pop.
 
-Crypt (22 cards, min=4, max=14, avg=1.55)
------------------------------------------
-17x Tupdog	 1    POT VIS	   Gargoyle:3
-1x  Janine	 4    aus dom tha  Tremere antitribu:4
-1x  Mosfair	 4    cel dom tha  Tremere antitribu:4
-1x  Ember Wright 3    aus dom	   Tremere antitribu:3
-1x  Keith Moody	 3    DOM	   Tremere antitribu:4
-1x  Saiz	 3    aus dom	   Tremere antitribu:3
+Crypt (22 cards, min=4 max=14 avg=1.55)
+---------------------------------------
+17x Tupdog       1    POT VIS      Gargoyle:3
+1x  Janine       4    aus dom tha  Tremere antitribu:4
+1x  Mosfair      4    cel dom tha  Tremere antitribu:4
+1x  Ember Wright 3    aus dom      Tremere antitribu:3
+1x  Keith Moody  3    DOM          Tremere antitribu:4
+1x  Saiz         3    aus dom      Tremere antitribu:3
 
 Library (75 cards)
 Master (7)

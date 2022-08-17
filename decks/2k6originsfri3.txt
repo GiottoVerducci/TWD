@@ -7,15 +7,15 @@ Pat Lusk
 
 Deck Name: Massassi's Horror
 
-Crypt (12 cards, min=14, max=34, avg=5.92)
-------------------------------------------
-3x Massassi	   9   AUS CEL POT QUI obf  Osebo:4
-2x Khalu	   7   AUS CEL POT ani pro  Osebo:3
-2x Homa		   6   AUS CEL POT	    Osebo:4
-2x Ismitta	   4   aus cel pot	    Osebo:4
-1x Mariano Pomposo 4   aus cel pot	    Brujah antitribu:3
-1x Gengis	   3   aus cel pot	    Brujah:3
-1x Kamaria	   3   aus pot		    Osebo:4
+Crypt (12 cards, min=14 max=34 avg=5.92)
+----------------------------------------
+3x Massassi        9   AUS CEL POT QUI obf  Osebo:4
+2x Khalu           7   AUS CEL POT ani pro  Osebo:3
+2x Homa            6   AUS CEL POT          Osebo:4
+2x Ismitta         4   aus cel pot          Osebo:4
+1x Mariano Pomposo 4   aus cel pot          Brujah antitribu:3
+1x Gengis          3   aus cel pot          Brujah:3
+1x Kamaria         3   aus pot              Osebo:4
 
 Library (90 cards)
 Master (12)

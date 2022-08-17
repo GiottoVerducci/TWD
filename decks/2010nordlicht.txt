@@ -6,11 +6,11 @@ Roger Carhult
 
 Deck: The Rats in Sheep's Clothing
 
-Crypt (12 cards, min=8, max=28, avg=5.33)
------------------------------------------
-8x Aisata Swanou 7   ANI FOR VIC abo	Akunanse:5
-2x Stick	 3   ANI		Nosferatu antitribu:4
-2x Walker Grimes 1   ani		Caitiff:5
+Crypt (12 cards, min=8 max=28 avg=5.33)
+---------------------------------------
+8x Aisata Swanou 7   ANI FOR VIC abo    Akunanse:5
+2x Stick         3   ANI                Nosferatu antitribu:4
+2x Walker Grimes 1   ani                Caitiff:5
 
 Library (90 cards)
 Master (13)

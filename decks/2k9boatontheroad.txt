@@ -7,13 +7,13 @@ Peter Modzelewski
 
 Deck Name: New Brujah Progeny
 
-Crypt (12 cards, min=18, max=34, avg=6.5)
------------------------------------------
-3x Tara		   6   POT PRE cel	    prince	Brujah:5
-3x Reginald Moore  4   PRE		    primogen	Brujah:4
-2x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
-2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
-2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+Crypt (12 cards, min=18 max=34 avg=6.5)
+---------------------------------------
+3x Tara            6   POT PRE cel          prince      Brujah:5
+3x Reginald Moore  4   PRE                  primogen    Brujah:4
+2x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar    Brujah:5
+2x Carlak          8   CEL PRE dom pot      prince      Brujah:5
+2x Karen Suadela   7   CEL POT obf pre      prince      Brujah:5
 
 Library (80 cards)
 Master (15; 1 trifle)

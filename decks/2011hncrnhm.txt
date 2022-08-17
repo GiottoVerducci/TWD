@@ -7,13 +7,13 @@ Csaba Greguss
 
 Deck Name: The Geisha
 
-Crypt (12 cards, min=16, max=40, avg=7)
----------------------------------------
-5x Thucimia		10  CEL DEM OBF QUI for pro	1 vote	Assamite:4
-2x Hafsa, The Watcher	6   OBF QUI aus cel			Assamite:5
-2x Vardar Vardarian	6   OBF QUI cel pre			Assamite:4
-2x Kamau Jafari		4   QUI obf				Assamite:4
-1x Alu			2   obf					Assamite:5
+Crypt (12 cards, min=16 max=40 avg=7)
+-------------------------------------
+5x Thucimia             10  CEL DEM OBF QUI for pro     1 vote  Assamite:4
+2x Hafsa, The Watcher   6   OBF QUI aus cel                     Assamite:5
+2x Vardar Vardarian     6   OBF QUI cel pre                     Assamite:4
+2x Kamau Jafari         4   QUI obf                             Assamite:4
+1x Alu                  2   obf                                 Assamite:5
 
 Library (75 cards)
 Master (14; 5 trifle)

@@ -13,12 +13,12 @@ Created by: Márcio "O Feio"
 
 Description: Deck em homenage a Livia, filha do Zoroh
 
-Crypt (12 cards, min=25, max=44, avg=8.58)
-------------------------------------------
-4x Stanislava	  11  ANI CEL DOM FOR PRO  inner circle	 Gangrel:2
-4x Iliana	  7   DOM FOR PRO tha	   		 Gangrel:2
-3x Ingrid Rossler 9   ANI FOR PRO dom	   prince	 Gangrel:2
-1x Ramona (ADV)	  4   for pro		   		 Gangrel:2
+Crypt (12 cards, min=25 max=44 avg=8.58)
+----------------------------------------
+4x Stanislava     11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+4x Iliana         7   DOM FOR PRO tha                    Gangrel:2
+3x Ingrid Rossler 9   ANI FOR PRO dom      prince        Gangrel:2
+1x Ramona (ADV)   4   for pro                            Gangrel:2
 
 Library (90 cards)
 Master (15; 5 trifle)

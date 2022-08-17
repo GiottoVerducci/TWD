@@ -9,15 +9,15 @@ Marcin Watras
 
 Deck Name: Anson - Volker Ashur ver 1.6
 
-Crypt (12 cards, min=16, max=32, avg=6.17)
-------------------------------------------
-4x Anson			8   CEL PRE aus dom	prince	Toreador:1
-2x Marcellus			8   AUS CEL pro		prince	Toreador:2
-2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
-1x Black Cat			5   CEL pot pre			Brujah:1
-1x Jimmy Dunn			4   CEL POT for			Pander:2
-1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
-1x Sarah Brando			3   CEL				Brujah antitribu:2
+Crypt (12 cards, min=16 max=32 avg=6.17)
+----------------------------------------
+4x Anson                        8   CEL PRE aus dom     prince  Toreador:1
+2x Marcellus                    8   AUS CEL pro         prince  Toreador:2
+2x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
+1x Black Cat                    5   CEL pot pre                 Brujah:1
+1x Jimmy Dunn                   4   CEL POT for                 Pander:2
+1x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
+1x Sarah Brando                 3   CEL                         Brujah antitribu:2
 
 Library (82 cards)
 Master (21; 4 trifle)

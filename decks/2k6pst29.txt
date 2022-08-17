@@ -17,19 +17,19 @@ library down wouldn't be such a good idea unless deck would be altered
 to be more permanent-oriented (having more permanent intecept and
 perhaps Metro Underground or the like)
 
-Crypt (14 cards, min=4, max=40, avg=3.86)
------------------------------------------
-4x Xaviar		10  ANI FOR PRO aus cel pot	2 votes	 Gangrel:3
-1x Boy Toy		2   dem					 Malkavian antitribu:2
-1x Dani			2   ani					 Nosferatu antitribu:2
-1x Gillian Krader	2   ani dem				 Pander:2
-1x Sadie		2   pro					 Gangrel antitribu:2
-1x Angela Decker	1   pre					 Pander:2
-1x Basil		1   obf					 Pander:2
-1x Feo Ramos		1   aus					 Pander:3
-1x Huang, Blood Cultist	1   pro					 Pander:2
-1x March Halcyon	1   for					 Pander:2
-1x Royce		1   dom					 Pander:2
+Crypt (14 cards, min=4 max=40 avg=3.86)
+---------------------------------------
+4x Xaviar               10  ANI FOR PRO aus cel pot     2 votes  Gangrel:3
+1x Boy Toy              2   dem                                  Malkavian antitribu:2
+1x Dani                 2   ani                                  Nosferatu antitribu:2
+1x Gillian Krader       2   ani dem                              Pander:2
+1x Sadie                2   pro                                  Gangrel antitribu:2
+1x Angela Decker        1   pre                                  Pander:2
+1x Basil                1   obf                                  Pander:2
+1x Feo Ramos            1   aus                                  Pander:3
+1x Huang, Blood Cultist 1   pro                                  Pander:2
+1x March Halcyon        1   for                                  Pander:2
+1x Royce                1   dom                                  Pander:2
 
 Library (90 cards)
 Master (10)

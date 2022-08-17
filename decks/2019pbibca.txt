@@ -20,11 +20,11 @@ a smattering of stuff I wanted to try out. It could use a bit more combat
 defense (maybe S:CE and agg hands), and a couple fewer Master cards. Firebrand
 is great! Ennoia's Theater is fantastic since Dreams always gets contested.
 
-Crypt (13 cards, min=16, max=32, avg=5.38)
-------------------------------------------
-8x Valkyrie	   4   for pre pro		Gangrel:3
-4x Brunhilde (ADV) 8   ANI FOR PRO pre	baron	Gangrel:3
-1x Antonino	   6   FOR ani pre pro		Gangrel:3
+Crypt (13 cards, min=16 max=32 avg=5.38)
+----------------------------------------
+8x Valkyrie        4   for pre pro              Gangrel:3
+4x Brunhilde (ADV) 8   ANI FOR PRO pre  baron   Gangrel:3
+1x Antonino        6   FOR ani pre pro          Gangrel:3
 
 Library (80 cards)
 Master (18; 4 trifle)

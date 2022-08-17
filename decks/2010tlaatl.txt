@@ -9,12 +9,12 @@ Mattias Kallenberg
 
 Deck Name: We Throw Parties, You Throw Knives
 
-Crypt (12 cards, min=16, max=16, avg=4)
----------------------------------------
-3x Jennifer "Flame61" Vidisania	4   ven viz	Avenger:4
-3x John "Cop90" O'Malley	4   jud ven	Avenger:4
-3x Lupe "Cabbie22" Droin	4   def ven	Defender:4
-3x Pedro Cortez			4   mar ven	Avenger:4
+Crypt (12 cards, min=16 max=16 avg=4)
+-------------------------------------
+3x Jennifer "Flame61" Vidisania 4   ven viz     Avenger:4
+3x John "Cop90" O'Malley        4   jud ven     Avenger:4
+3x Lupe "Cabbie22" Droin        4   def ven     Defender:4
+3x Pedro Cortez                 4   mar ven     Avenger:4
 
 Library (90 cards)
 Master (14)

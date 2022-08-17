@@ -5,20 +5,20 @@ Douglass Brindley
 
 Titled Presence Vote
 
-Crypt (12 cards, min=29, max=43, avg=9.25)
-------------------------------------------
-1x Alexandra		   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-1x Arika		   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Leandro		   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
-1x Anneke		   10  AUS CEL PRE dom		justicar	Toreador:1
-1x Bronwen		   10  CEL POT PRE dom obt	priscus		Brujah antitribu:2
-1x Democritus		   10  DOM PRE aus cel for	justicar	Ventrue:1
-1x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro	justicar	Brujah:1
-1x Natasha Volfchek	   9   FOR PRE cel dom pot	primogen	Ventrue:1
-1x Wilhelm Waldburg	   9   DOM FOR PRE aus cel	prince		Ventrue:2
-1x Anson		   8   CEL PRE aus dom		prince		Toreador:1
-1x Rake			   6   PRE aus cel pot		prince		Brujah:1
-1x Victoria Ash		   6   PRE aus cel dom		primogen	Toreador:2
+Crypt (12 cards, min=29 max=43 avg=9.25)
+----------------------------------------
+1x Alexandra               11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+1x Arika                   11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+1x Leandro                 11  AUS OBF PRE cel dom      inner circle    Malkavian:2
+1x Anneke                  10  AUS CEL PRE dom          justicar        Toreador:1
+1x Bronwen                 10  CEL POT PRE dom obt      priscus         Brujah antitribu:2
+1x Democritus              10  DOM PRE aus cel for      justicar        Ventrue:1
+1x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro  justicar        Brujah:1
+1x Natasha Volfchek        9   FOR PRE cel dom pot      primogen        Ventrue:1
+1x Wilhelm Waldburg        9   DOM FOR PRE aus cel      prince          Ventrue:2
+1x Anson                   8   CEL PRE aus dom          prince          Toreador:1
+1x Rake                    6   PRE aus cel pot          prince          Brujah:1
+1x Victoria Ash            6   PRE aus cel dom          primogen        Toreador:2
 
 Library (90 cards)
 Master (18)

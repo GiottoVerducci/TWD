@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/7961
 
 Deck Name: Vem para mim... (Come to me...)
 
-Crypt (12 cards, min=24, max=32, avg=7.33)
-------------------------------------------
-2x Amisa				8   OBF SER pre pro	 2 votes  Follower of Set:2
-2x Kephamos, High Priest of Marrakech	8   SER dom obf pre	 2 votes  Follower of Set:2
-2x Sarrasine (ADV)			8   OBF PRE SER aus nec	 prince	  Follower of Set:2
-2x Synesios				8   POT PRE TEM obf ser	 2 votes  True Brujah:2
-2x Hesha Ruhadze			6   SER ani obf pre	 	  Follower of Set:2
-1x Qufur am-Heru			7   OBF PRE SER cel tha	 	  Follower of Set:2
-1x Sir Marriot D'Urban			5   PRE aus obf ser	 	  Follower of Set:2
+Crypt (12 cards, min=24 max=32 avg=7.33)
+----------------------------------------
+2x Amisa                                8   OBF SER pre pro      2 votes  Follower of Set:2
+2x Kephamos, High Priest of Marrakech   8   SER dom obf pre      2 votes  Follower of Set:2
+2x Sarrasine (ADV)                      8   OBF PRE SER aus nec  prince   Follower of Set:2
+2x Synesios                             8   POT PRE TEM obf ser  2 votes  True Brujah:2
+2x Hesha Ruhadze                        6   SER ani obf pre               Follower of Set:2
+1x Qufur am-Heru                        7   OBF PRE SER cel tha           Follower of Set:2
+1x Sir Marriot D'Urban                  5   PRE aus obf ser               Follower of Set:2
 
 Library (79 cards)
 Master (22; 8 trifle)

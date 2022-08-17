@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7373
 
 Deck Name: TZI - Guerra Santa
 
-Crypt (12 cards, min=22, max=38, avg=7.5)
------------------------------------------
-3x Meshenka	  8   ANI AUS VIC	   priscus	Tzimisce:2
-2x Lambach	  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
-2x Stravinsky	  9   ANI AUS VIC pot	   archbishop	Tzimisce:2
-2x Caliban	  6   ANI AUS VIC	   		Tzimisce:2
-2x Corine Marcón  6   AUS VIC ani	   		Tzimisce:2
-1x Lolita Houston 4   VIC aus		   		Tzimisce:2
+Crypt (12 cards, min=22 max=38 avg=7.5)
+---------------------------------------
+3x Meshenka       8   ANI AUS VIC          priscus      Tzimisce:2
+2x Lambach        10  ANI AUS DOM VIC pre  cardinal     Tzimisce:2
+2x Stravinsky     9   ANI AUS VIC pot      archbishop   Tzimisce:2
+2x Caliban        6   ANI AUS VIC                       Tzimisce:2
+2x Corine Marcón  6   AUS VIC ani                       Tzimisce:2
+1x Lolita Houston 4   VIC aus                           Tzimisce:2
 
 Library (90 cards)
 Master (23; 4 trifle)

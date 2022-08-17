@@ -16,20 +16,20 @@ Final table: Alfredo Canales (Scobax the Horde) ->
 	 Gabriel Ron (Spell of life) ->
 	 Tomás Lopez (Kiasyd bleed).
 
-Crypt (12 cards, min=13, max=40, avg=6.42)
-------------------------------------------
-1x Sutekh, The Dark God	    11	NEC OBF PRE SER cel pot	 2 votes  Follower of Set:2
-1x Kemintiri		    10	OBF PRE SER THA aus dom	 	  Follower of Set:2
-1x Nefertiti (ADV)	    10	DOM OBF PRE SER cel pot	 	  Follower of Set:2
-1x Kahina the Sorceress	    9	AUS DOM OBF SER nec pre	 1 vote	  Follower of Set:3
-1x Khay'tall, Snake of Eden 9	DOM OBF PRE SER aus	 	  Follower of Set:2
-1x Samat Ramal-Ra, Archon   6	OBF pre ser tha		 	  Follower of Set:2
-1x Count Ormonde	    5	OBF dom pre ser		 	  Follower of Set:2
-1x Elizabeth Dimitros	    4	SER obf			 	  Follower of Set:3
-1x Hadrian Garrick	    4	obf pre			 	  Follower of Set:2
-1x Nepata		    4	obf pre ser		 	  Follower of Set:2
-1x Celine Chevalier	    3	obf ser			 	  Follower of Set:2
-1x Lalitha		    2	ser			 	  Follower of Set:2
+Crypt (12 cards, min=13 max=40 avg=6.42)
+----------------------------------------
+1x Sutekh, The Dark God     11  NEC OBF PRE SER cel pot  2 votes  Follower of Set:2
+1x Kemintiri                10  OBF PRE SER THA aus dom           Follower of Set:2
+1x Nefertiti (ADV)          10  DOM OBF PRE SER cel pot           Follower of Set:2
+1x Kahina the Sorceress     9   AUS DOM OBF SER nec pre  1 vote   Follower of Set:3
+1x Khay'tall, Snake of Eden 9   DOM OBF PRE SER aus               Follower of Set:2
+1x Samat Ramal-Ra, Archon   6   OBF pre ser tha                   Follower of Set:2
+1x Count Ormonde            5   OBF dom pre ser                   Follower of Set:2
+1x Elizabeth Dimitros       4   SER obf                           Follower of Set:3
+1x Hadrian Garrick          4   obf pre                           Follower of Set:2
+1x Nepata                   4   obf pre ser                       Follower of Set:2
+1x Celine Chevalier         3   obf ser                           Follower of Set:2
+1x Lalitha                  2   ser                               Follower of Set:2
 
 Library (60 cards)
 Master (27)

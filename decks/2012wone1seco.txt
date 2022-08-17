@@ -9,14 +9,14 @@ Deck Name: Team Jacob
 
 thanks to Brian Moritz for the name
 
-Crypt (12 cards, min=10, max=20, avg=4.08)
-------------------------------------------
-5x Jacob Fermor	  5   PRO ani tha  Gangrel:4
-2x Dolie	  3   abo ani	   Akunanse:4
-2x Meno Ngari	  2   abo	   Akunanse:4
+Crypt (12 cards, min=10 max=20 avg=4.08)
+----------------------------------------
+5x Jacob Fermor   5   PRO ani tha  Gangrel:4
+2x Dolie          3   abo ani      Akunanse:4
+2x Meno Ngari     2   abo          Akunanse:4
 1x Kikiyaon, The  5   FOR abo ani  Akunanse:4
 1x Socrate Cidibe 5   ABO FOR ani  Akunanse:4
-1x Nestor Kaba	  4   abo ani for  Akunanse:4
+1x Nestor Kaba    4   abo ani for  Akunanse:4
 
 Library (72 cards)
 Master (19; 9 trifle)

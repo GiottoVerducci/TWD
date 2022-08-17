@@ -8,13 +8,13 @@ Deck Name: No Alchemy
 
 Description: Really simple Tremere Anathema deck, no alchemy needed...
 
-Crypt (12 cards, min=16, max=40, avg=7.67)
-------------------------------------------
-4x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar  Tremere:5
-4x Dr. John Dee		 9   ANI AUS DOM THA chi	prince	  Tremere:4
-2x Zane			 5   THA aus dom		primogen  Tremere:5
-1x Tarrence Moore	 4   aus dom tha			  Tremere:5
-1x Ezra Hawthorne	 2   tha				  Tremere:4
+Crypt (12 cards, min=16 max=40 avg=7.67)
+----------------------------------------
+4x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar  Tremere:5
+4x Dr. John Dee          9   ANI AUS DOM THA chi        prince    Tremere:4
+2x Zane                  5   THA aus dom                primogen  Tremere:5
+1x Tarrence Moore        4   aus dom tha                          Tremere:5
+1x Ezra Hawthorne        2   tha                                  Tremere:4
 
 Library (90 cards)
 Master (12; 2 trifle)

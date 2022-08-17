@@ -11,17 +11,17 @@ Nana with ANI does her stuff.Got 2GWs 8.5VP pre final, 3GWs 12.5VP total.
 Only thing i would change is to swap out Carver for Lilith's blessing and
 one Aid for 4th terror frenzy since it just wins games on its own.
 
-Crypt (12 cards, min=8, max=32, avg=4.83)
------------------------------------------
-4x Nana Buruku		8   ANI POT PRE	 Guruhi:4
-1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
-1x Petra		5   ANI OBF aus	 Nosferatu:4
-1x Beetleman		4   ANI obf	 Nosferatu:4
-1x Bobby Lemon		4   ANI pro	 Gangrel:3
-1x Stick		3   ANI		 Nosferatu antitribu:4
-1x Mouse		2   ani		 Nosferatu:3
-1x Zip			2   ani		 Ravnos:3
-1x Lisa Noble		1   ani		 Caitiff:3
+Crypt (12 cards, min=8 max=32 avg=4.83)
+---------------------------------------
+4x Nana Buruku          8   ANI POT PRE  Guruhi:4
+1x Céleste Lamontagne   5   ANI PRO for  Gangrel antitribu:4
+1x Petra                5   ANI OBF aus  Nosferatu:4
+1x Beetleman            4   ANI obf      Nosferatu:4
+1x Bobby Lemon          4   ANI pro      Gangrel:3
+1x Stick                3   ANI          Nosferatu antitribu:4
+1x Mouse                2   ani          Nosferatu:3
+1x Zip                  2   ani          Ravnos:3
+1x Lisa Noble           1   ani          Caitiff:3
 
 Library (85 cards)
 Master (26; 1 trifle)

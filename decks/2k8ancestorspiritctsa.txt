@@ -18,16 +18,16 @@ Grande bleed push. As always, I over did the master card count. ;)
 This deck won with 4VP in the final table and 6.5VP in the Prelim
 rounds.
 
-Crypt (12 cards, min=10, max=32, avg=5.5)
------------------------------------------
-3x Klaus Konrecht	  8   AUS CEL PRE for pot  cardinal	Toreador antitribu:4
-3x Venere Carboni	  8   AUS CEL PRE ani	   priscus	Toreador antitribu:3
-1x Loonar		  4   PRE cel		   		Toreador antitribu:4
-1x Sabrina		  4   aus cel pre	   		Toreador antitribu:3
-1x Jonathan Gursel	  3   aus pre		   		Toreador antitribu:4
-1x Monique Kim		  3   aus cel		   		Toreador antitribu:4
-1x Justine Chen, Innocent 2   pre		   		Toreador antitribu:4
-1x Nicholas Chang	  2   aus		   		Toreador antitribu:3
+Crypt (12 cards, min=10 max=32 avg=5.5)
+---------------------------------------
+3x Klaus Konrecht         8   AUS CEL PRE for pot  cardinal     Toreador antitribu:4
+3x Venere Carboni         8   AUS CEL PRE ani      priscus      Toreador antitribu:3
+1x Loonar                 4   PRE cel                           Toreador antitribu:4
+1x Sabrina                4   aus cel pre                       Toreador antitribu:3
+1x Jonathan Gursel        3   aus pre                           Toreador antitribu:4
+1x Monique Kim            3   aus cel                           Toreador antitribu:4
+1x Justine Chen, Innocent 2   pre                               Toreador antitribu:4
+1x Nicholas Chang         2   aus                               Toreador antitribu:3
 
 Library (90 cards)
 Master (19; 6 trifle)

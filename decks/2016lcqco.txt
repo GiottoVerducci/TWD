@@ -7,11 +7,11 @@ Randal Rudstam
 
 Deck Name: Reflections on life and death
 
-Crypt (12 cards, min=40, max=44, avg=10.33)
--------------------------------------------
-4x Josef von Bauren 11	ANI DEM OBF POT cel	 inner circle	Nosferatu:4
-4x Thucimia	    10	CEL DEM OBF QUI for pro	 1 vote		Assamite:4
-4x Unmada	    10	AUS DEM OBF VIC cel for	 justicar	Malkavian:5
+Crypt (12 cards, min=40 max=44 avg=10.33)
+-----------------------------------------
+4x Josef von Bauren 11  ANI DEM OBF POT cel      inner circle   Nosferatu:4
+4x Thucimia         10  CEL DEM OBF QUI for pro  1 vote         Assamite:4
+4x Unmada           10  AUS DEM OBF VIC cel for  justicar       Malkavian:5
 
 Library (69 cards)
 Master (22; 5 trifle)

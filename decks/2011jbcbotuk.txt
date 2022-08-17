@@ -9,16 +9,16 @@ Sven Helmer
 
 Deck: Ishtarri Vote
 
-Crypt (12 cards, min=21, max=36, avg=7.08)
-------------------------------------------
-2x Ayo Igoli		10  AUS CEL FOR PRE obf tha		  Ishtarri:4
-2x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	  Ishtarri:3
-2x Ubende		7   CEL PRE for obf qui		magaji	  Ishtarri:4
-2x Elizabeth Conde	5   CEL FOR pre				  Ishtarri:4
-1x Eugene		8   AUS CEL FOR PRE		primogen  Toreador:4
-1x Honorine Ateba	6   FOR PRE cel nec			  Ishtarri:4
-1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
-1x Shasa Abu Badr	5   PRE cel for				  Ishtarri:4
+Crypt (12 cards, min=21 max=36 avg=7.08)
+----------------------------------------
+2x Ayo Igoli            10  AUS CEL FOR PRE obf tha               Ishtarri:4
+2x Falhu Shibaba        8   CEL CHI FOR PRE ani         magaji    Ishtarri:3
+2x Ubende               7   CEL PRE for obf qui         magaji    Ishtarri:4
+2x Elizabeth Conde      5   CEL FOR pre                           Ishtarri:4
+1x Eugene               8   AUS CEL FOR PRE             primogen  Toreador:4
+1x Honorine Ateba       6   FOR PRE cel nec                       Ishtarri:4
+1x Mustafa, The Heir    6   FOR PRE cel dom             prince    Ventrue:4
+1x Shasa Abu Badr       5   PRE cel for                           Ishtarri:4
 
 Library (75 cards)
 Master (16; 6 trifle)

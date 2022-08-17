@@ -28,20 +28,20 @@ Jyhad that does not rely on rarity.
 * The deck will usually sweep. Expect the whole table to come after you.
 * My friends don't let me play this against them, and I don't blame them.
 
-Crypt (12 cards, min=4, max=8, avg=1.5)
----------------------------------------
-1x Christine Boscacci	2   dom vic	Pander:2
-1x Dimple		2   obf		Nosferatu:1
-1x Mustafa Rahman	2   dom		Tremere:2
-1x Ohanna		2   dom		Malkavian:2
-1x Roreca Quaid		2   tha		Tremere:1
-1x Samson		2   dom		Ventrue antitribu:2
-1x Antoinette DuChamp	1   cel pre	Caitiff:2
-1x Franciscus		1   aus		Caitiff:2
-1x March Halcyon	1   for		Pander:2
-1x Navar McClaren	1   ani		Caitiff:1
-1x Royce		1   dom		Pander:2
-1x Smudge the Ignored	1   -none-	Caitiff:1
+Crypt (12 cards, min=4 max=8 avg=1.5)
+-------------------------------------
+1x Christine Boscacci   2   dom vic     Pander:2
+1x Dimple               2   obf         Nosferatu:1
+1x Mustafa Rahman       2   dom         Tremere:2
+1x Ohanna               2   dom         Malkavian:2
+1x Roreca Quaid         2   tha         Tremere:1
+1x Samson               2   dom         Ventrue antitribu:2
+1x Antoinette DuChamp   1   cel pre     Caitiff:2
+1x Franciscus           1   aus         Caitiff:2
+1x March Halcyon        1   for         Pander:2
+1x Navar McClaren       1   ani         Caitiff:1
+1x Royce                1   dom         Pander:2
+1x Smudge the Ignored   1   -none-      Caitiff:1
 
 Library (81 cards)
 Master (29)

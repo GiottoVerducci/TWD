@@ -20,19 +20,19 @@ Didn't have any Jackie, so in fact it should be -1 Eddie Gaines and
 1 Tribute to the Master to include 1 Sudden Reversal. The deck works
 quite ok in General.
 
-Crypt (12 cards, min=7, max=21, avg=3.67)
------------------------------------------
-2x Eddie Gaines			1   dem pot			    Caitiff:3
-1x Morel			6   AUS DEM OBF			    Malkavian:4
-1x Apache Jones			5   DEM aus for obf		    Malkavian antitribu:4
-1x Persia, The Beautiful Statue	5   DEM aus obf			    Malkavian:3
-1x Uncle George			5   DEM aus dom obf		    Malkavian antitribu:3
-1x Adelaide Davis		4   aus dem obf			    Malkavian:3
-1x Beauregard Krueller		4   aus dem obf			    Malkavian antitribu:4
-1x Fabrizia Contreraz		4   dem pot		archbishop  Malkavian antitribu:4
-1x Sean Rycek			4   aus dem			    Malkavian:4
-1x Midget			3   DEM obf pre			    Malkavian antitribu:3
-1x Cassandra Langely, The Waif	2   dem				    Malkavian:4
+Crypt (12 cards, min=7 max=21 avg=3.67)
+---------------------------------------
+2x Eddie Gaines                 1   dem pot                         Caitiff:3
+1x Morel                        6   AUS DEM OBF                     Malkavian:4
+1x Apache Jones                 5   DEM aus for obf                 Malkavian antitribu:4
+1x Persia, The Beautiful Statue 5   DEM aus obf                     Malkavian:3
+1x Uncle George                 5   DEM aus dom obf                 Malkavian antitribu:3
+1x Adelaide Davis               4   aus dem obf                     Malkavian:3
+1x Beauregard Krueller          4   aus dem obf                     Malkavian antitribu:4
+1x Fabrizia Contreraz           4   dem pot             archbishop  Malkavian antitribu:4
+1x Sean Rycek                   4   aus dem                         Malkavian:4
+1x Midget                       3   DEM obf pre                     Malkavian antitribu:3
+1x Cassandra Langely, The Waif  2   dem                             Malkavian:4
 
 Library (75 cards)
 Master (13; 1 trifle)

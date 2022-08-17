@@ -6,11 +6,11 @@ Robert Acevedo
 
 Deck Name: Precognition Torrance deck
 
-Crypt (12 cards, min=24, max=28, avg=6.67)
-------------------------------------------
-5x Beast, The Leatherface of Detroit	7   OBF POT ani cel		Nosferatu antitribu:2
-5x Theo Bell				7   POT cel dom pre		Brujah:2
-2x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
+Crypt (12 cards, min=24 max=28 avg=6.67)
+----------------------------------------
+5x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
+5x Theo Bell                            7   POT cel dom pre             Brujah:2
+2x Volker, The Puppet Prince            5   CEL pot             prince  Brujah:2
 
 Library (89 cards)
 Master (7)

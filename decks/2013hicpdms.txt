@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7359
 
 Deck Name: Anson Guns
 
-Crypt (12 cards, min=26, max=36, avg=7.83)
-------------------------------------------
-4x Anson			8   CEL PRE aus dom	prince	  Toreador:1
-2x Anneke			10  AUS CEL PRE dom	justicar  Toreador:1
-2x Marcellus			8   AUS CEL pro		prince	  Toreador:2
-2x Volker, The Puppet Prince	5   CEL pot		prince	  Brujah:2
-1x Constanza Vinti		8   CEL DOM POT		prince	  Brujah:2
-1x Dónal O'Connor		8   CEL DOM POT		prince	  Brujah:2
+Crypt (12 cards, min=26 max=36 avg=7.83)
+----------------------------------------
+4x Anson                        8   CEL PRE aus dom     prince    Toreador:1
+2x Anneke                       10  AUS CEL PRE dom     justicar  Toreador:1
+2x Marcellus                    8   AUS CEL pro         prince    Toreador:2
+2x Volker, The Puppet Prince    5   CEL pot             prince    Brujah:2
+1x Constanza Vinti              8   CEL DOM POT         prince    Brujah:2
+1x Dónal O'Connor               8   CEL DOM POT         prince    Brujah:2
 
 Library (75 cards)
 Master (24; 5 trifle)

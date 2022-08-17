@@ -11,18 +11,18 @@ https://www.vekn.net/event-calendar/event/9788
 Author: Delmar
 Deck Name: Lutz Safadão
 
-Crypt (12 cards, min=6, max=44, avg=5.33)
------------------------------------------
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
-1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE  inner circle	Toreador:4
-1x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
-1x Lubomira Hradok	 3   OBF		  		Nosferatu antitribu:5
-1x Alu			 2   obf		  		Assamite:5
-1x Bloodfeud		 2   obf		  		Malkavian antitribu:4
-1x Denette Stensen	 2   obf		  		Gangrel antitribu:4
-1x New Blood		 2   san		  		Blood Brother:ANY
-1x Anarch Convert	 1   -none-		  		Caitiff:ANY
-1x César Holfield	 1   obf		  		Caitiff:4
+Crypt (12 cards, min=6 max=44 avg=5.33)
+---------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+1x Rafael de Corazon     11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
+1x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
+1x Lubomira Hradok       3   OBF                                Nosferatu antitribu:5
+1x Alu                   2   obf                                Assamite:5
+1x Bloodfeud             2   obf                                Malkavian antitribu:4
+1x Denette Stensen       2   obf                                Gangrel antitribu:4
+1x New Blood             2   san                                Blood Brother:ANY
+1x Anarch Convert        1   -none-                             Caitiff:ANY
+1x César Holfield        1   obf                                Caitiff:4
 
 Library (69 cards)
 Master (21; 9 trifle)

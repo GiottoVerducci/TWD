@@ -7,13 +7,13 @@ David Quiñonero-Santiago
 
 Deck Name: Ahrimanes... again &gt;:-)
 
-Crypt (12 cards, min=19, max=31, avg=6.33)
-------------------------------------------
-3x Howler	    8	ANI PRE SPI obf		Ahrimane:2
-3x Siamese, The	    7	PRE SPI ani pro		Ahrimane:2
-3x Cynthia Ingold   6	SPI ani for pre		Ahrimane:2
-2x Juanita Santiago 4	ani pre spi		Ahrimane:2
-1x Nettie Hale	    5	ani cel pre pro spi	Ahrimane:2
+Crypt (12 cards, min=19 max=31 avg=6.33)
+----------------------------------------
+3x Howler           8   ANI PRE SPI obf         Ahrimane:2
+3x Siamese, The     7   PRE SPI ani pro         Ahrimane:2
+3x Cynthia Ingold   6   SPI ani for pre         Ahrimane:2
+2x Juanita Santiago 4   ani pre spi             Ahrimane:2
+1x Nettie Hale      5   ani cel pre pro spi     Ahrimane:2
 
 Library (90 cards)
 Master (16; 1 trifle)

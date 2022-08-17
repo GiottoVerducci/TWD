@@ -4,15 +4,15 @@ November 26th 2006
 40 players
 Anthony Coleman
 
-Crypt (12 cards, min=10, max=32, avg=5.67)
-------------------------------------------
-4x Howler	    8	ANI PRE SPI obf	 Ahrimane:2
-2x Siamese, The	    7	PRE SPI ani pro	 Ahrimane:2
-2x Cynthia Ingold   6	SPI ani for pre	 Ahrimane:2
-1x Juanita Santiago 4	ani pre spi	 Ahrimane:2
-1x Dani		    2	ani		 Nosferatu antitribu:2
-1x Gillian Krader   2	ani dem		 Pander:2
-1x Zip		    2	ani		 Ravnos:3
+Crypt (12 cards, min=10 max=32 avg=5.67)
+----------------------------------------
+4x Howler           8   ANI PRE SPI obf  Ahrimane:2
+2x Siamese, The     7   PRE SPI ani pro  Ahrimane:2
+2x Cynthia Ingold   6   SPI ani for pre  Ahrimane:2
+1x Juanita Santiago 4   ani pre spi      Ahrimane:2
+1x Dani             2   ani              Nosferatu antitribu:2
+1x Gillian Krader   2   ani dem          Pander:2
+1x Zip              2   ani              Ravnos:3
 
 Library (90 cards)
 Master (17)

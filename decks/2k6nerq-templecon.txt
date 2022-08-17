@@ -19,16 +19,16 @@ effective, with several strong showings. While a good
 position and some luck was key in winning the day,
 this deck showed itself to be a strong competitor.
 
-Crypt (12 cards, min=13, max=35, avg=6)
----------------------------------------
-3x Ingrid Rossler		9   ANI FOR PRO dom	 prince	 Gangrel:2
-2x Caitlin			6   ANI PRO aus dom	 bishop	 Gangrel antitribu:2
-2x Chandler Hungerford		3   PRO			 	 Gangrel:2
-1x Faruq			8   ANI PRO dom for pot	 	 Gangrel:2
-1x Iliana			7   DOM FOR PRO tha	 	 Gangrel:2
-1x Camille Devereux, The Raven	5   FOR PRO ani		 	 Gangrel:1
-1x Ramona			4   for pro		 	 Gangrel:2
-1x Ricki Van Demsi		3   for pro		 	 Gangrel:1
+Crypt (12 cards, min=13 max=35 avg=6)
+-------------------------------------
+3x Ingrid Rossler               9   ANI FOR PRO dom      prince  Gangrel:2
+2x Caitlin                      6   ANI PRO aus dom      bishop  Gangrel antitribu:2
+2x Chandler Hungerford          3   PRO                          Gangrel:2
+1x Faruq                        8   ANI PRO dom for pot          Gangrel:2
+1x Iliana                       7   DOM FOR PRO tha              Gangrel:2
+1x Camille Devereux, The Raven  5   FOR PRO ani                  Gangrel:1
+1x Ramona                       4   for pro                      Gangrel:2
+1x Ricki Van Demsi              3   for pro                      Gangrel:1
 
 Library (90 cards)
 Master (15)

@@ -9,16 +9,16 @@ Deck Name: Doggie Just Wants To Play
 
 Description: Some "broken" Tupdog deck ...
 
-Crypt (24 cards, min=4, max=23, avg=2.08)
------------------------------------------
-16x Tupdog			1    POT VIS			    Gargoyle:3
-2x  Kurt Strauss		5    DOM aus tha		    Tremere antitribu:2
-1x  Ladislas Toth, The Torch	7    AUS DOM THA for	archbishop  Tremere antitribu:3
-1x  Reverend Blackwood		6    DOM THA obf	bishop	    Tremere antitribu:2
-1x  Brooke			3    dom tha			    Tremere antitribu:2
-1x  Ember Wright		3    aus dom			    Tremere antitribu:3
-1x  Saiz			3    aus dom			    Tremere antitribu:3
-1x  Heinrick Schlempt		2    tha			    Tremere antitribu:2
+Crypt (24 cards, min=4 max=23 avg=2.08)
+---------------------------------------
+16x Tupdog                      1    POT VIS                        Gargoyle:3
+2x  Kurt Strauss                5    DOM aus tha                    Tremere antitribu:2
+1x  Ladislas Toth, The Torch    7    AUS DOM THA for    archbishop  Tremere antitribu:3
+1x  Reverend Blackwood          6    DOM THA obf        bishop      Tremere antitribu:2
+1x  Brooke                      3    dom tha                        Tremere antitribu:2
+1x  Ember Wright                3    aus dom                        Tremere antitribu:3
+1x  Saiz                        3    aus dom                        Tremere antitribu:3
+1x  Heinrick Schlempt           2    tha                            Tremere antitribu:2
 
 Library (90 cards)
 Master (15)

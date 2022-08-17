@@ -6,20 +6,20 @@ Iñaki Jimenez
 
 Deck Name: CEL Guns
 
-Crypt (12 cards, min=15, max=20, avg=4.5)
------------------------------------------
-1x Brachah			5   CEL PRE for			Brujah:2
-1x Dodd				5   CEL dom pre			Brujah antitribu:2
-1x Skryta Zyleta		5   CEL obf pot pro		Gangrel antitribu:3
-1x Steve Booth			5   CEL pot pre pro		Brujah:3
-1x Victor Revell, Loyalist	5   CEL aus dem pre		Toreador antitribu:2
-1x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
-1x Yusuf, Scribe of Alamut	5   CEL aus obf qui		Assamite:2
-1x Jimmy Dunn			4   CEL POT for			Pander:2
-1x Parmenides			4   CEL qui			Assamite:2
-1x Scarlet Carson O'Toole	4   CEL pro			Gangrel antitribu:3
-1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
-1x Sarah Brando			3   CEL				Brujah antitribu:2
+Crypt (12 cards, min=15 max=20 avg=4.5)
+---------------------------------------
+1x Brachah                      5   CEL PRE for                 Brujah:2
+1x Dodd                         5   CEL dom pre                 Brujah antitribu:2
+1x Skryta Zyleta                5   CEL obf pot pro             Gangrel antitribu:3
+1x Steve Booth                  5   CEL pot pre pro             Brujah:3
+1x Victor Revell, Loyalist      5   CEL aus dem pre             Toreador antitribu:2
+1x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
+1x Yusuf, Scribe of Alamut      5   CEL aus obf qui             Assamite:2
+1x Jimmy Dunn                   4   CEL POT for                 Pander:2
+1x Parmenides                   4   CEL qui                     Assamite:2
+1x Scarlet Carson O'Toole       4   CEL pro                     Gangrel antitribu:3
+1x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
+1x Sarah Brando                 3   CEL                         Brujah antitribu:2
 
 Library (80 cards)
 Master (11)

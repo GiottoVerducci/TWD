@@ -8,23 +8,23 @@ Deck Name: Pandermonium
 
 Description: Fate Vobis.
 
-Crypt (15 cards, min=4, max=20, avg=2.4)
-----------------------------------------
-1x Alfred Benezri (ADV)	    7	PRE THA aus dom	 bishop	 Pander:3
-1x Alfred Benezri	    6	PRE THA aus dom	 bishop	 Pander:3
-1x Jimmy Dunn		    4	CEL POT for	 	 Pander:2
-1x Lena Rowe		    3	aus obf pre	 	 Pander:2
-1x Rex, The Necronomist	    3	pot pro vic	 	 Pander:2
-1x Christine Boscacci	    2	dom vic		 	 Pander:2
-1x Gillian Krader	    2	ani dem		 	 Pander:2
-1x Mitchell, The Headhunter 2	obt pot		 	 Pander:2
-1x Angela Decker	    1	pre		 	 Pander:2
-1x Basil		    1	obf		 	 Pander:2
-1x Feo Ramos		    1	aus		 	 Pander:3
-1x Huang, Blood Cultist	    1	pro		 	 Pander:2
-1x March Halcyon	    1	for		 	 Pander:2
-1x Olga Triminov	    1	vic		 	 Pander:3
-1x Royce		    1	dom		 	 Pander:2
+Crypt (15 cards, min=4 max=20 avg=2.4)
+--------------------------------------
+1x Alfred Benezri (ADV)     7   PRE THA aus dom  bishop  Pander:3
+1x Alfred Benezri           6   PRE THA aus dom  bishop  Pander:3
+1x Jimmy Dunn               4   CEL POT for              Pander:2
+1x Lena Rowe                3   aus obf pre              Pander:2
+1x Rex, The Necronomist     3   pot pro vic              Pander:2
+1x Christine Boscacci       2   dom vic                  Pander:2
+1x Gillian Krader           2   ani dem                  Pander:2
+1x Mitchell, The Headhunter 2   obt pot                  Pander:2
+1x Angela Decker            1   pre                      Pander:2
+1x Basil                    1   obf                      Pander:2
+1x Feo Ramos                1   aus                      Pander:3
+1x Huang, Blood Cultist     1   pro                      Pander:2
+1x March Halcyon            1   for                      Pander:2
+1x Olga Triminov            1   vic                      Pander:3
+1x Royce                    1   dom                      Pander:2
 
 Library (60 cards)
 Master (12)

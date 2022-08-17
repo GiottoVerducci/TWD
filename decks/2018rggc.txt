@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/9038
 
 Deck: Anneke Wall (strongly inspired by other entries on the TWDA)
 
-Crypt (12 cards, min=15, max=40, avg=7.08)
-------------------------------------------
-4x Anneke	   10  AUS CEL PRE dom	justicar  Toreador:1
-2x Marcellus	   8   AUS CEL pro	prince	  Toreador:2
-2x Tatiana Romanov 7   AUS cel pre	prince	  Toreador:1
-1x Felicia Mostrom 5   AUS CEL pre		  Toreador:1
-1x Dorian Strack   4   AUS cel			  Toreador:1
-1x Isabel de Leon  3   AUS			  Toreador:2
-1x Zöe		   3   AUS cel obf		  Malkavian:2
+Crypt (12 cards, min=15 max=40 avg=7.08)
+----------------------------------------
+4x Anneke          10  AUS CEL PRE dom  justicar  Toreador:1
+2x Marcellus       8   AUS CEL pro      prince    Toreador:2
+2x Tatiana Romanov 7   AUS cel pre      prince    Toreador:1
+1x Felicia Mostrom 5   AUS CEL pre                Toreador:1
+1x Dorian Strack   4   AUS cel                    Toreador:1
+1x Isabel de Leon  3   AUS                        Toreador:2
+1x Zöe             3   AUS cel obf                Malkavian:2
 
 Library (85 cards)
 Master (15; 5 trifle)

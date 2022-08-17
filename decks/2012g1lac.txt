@@ -10,14 +10,14 @@ Deck Name: Thunder Is Impressive
 Pay less for Mercury's Arrow. Intercept with Celerity/Protean.
 "Everyone" knows Adana is the best Inner Circle Member.
 
-Crypt (12 cards, min=27, max=41, avg=8.33)
-------------------------------------------
-3x Adana de Sforza  11	CEL OBF POT PRE PRO aus	 inner circle	Brujah:4
-3x Mitru the Hunter 8	CEL OBF PRO ani for	 		Gangrel antitribu:4
-2x Alexis Sorokin   8	CEL CHI OBF PRO for	 		Ravnos:4
-2x Xendil Charmer   7	CEL PRO SER obf		 priscus	Gangrel antitribu:4
-1x Luke Fellows	    7	CEL OBF PRO		 		Gangrel antitribu:4
-1x Spider	    6	CEL PRO ani for		 		Gangrel antitribu:4
+Crypt (12 cards, min=27 max=41 avg=8.33)
+----------------------------------------
+3x Adana de Sforza  11  CEL OBF POT PRE PRO aus  inner circle   Brujah:4
+3x Mitru the Hunter 8   CEL OBF PRO ani for                     Gangrel antitribu:4
+2x Alexis Sorokin   8   CEL CHI OBF PRO for                     Ravnos:4
+2x Xendil Charmer   7   CEL PRO SER obf          priscus        Gangrel antitribu:4
+1x Luke Fellows     7   CEL OBF PRO                             Gangrel antitribu:4
+1x Spider           6   CEL PRO ani for                         Gangrel antitribu:4
 
 Library (90 cards)
 Master (16; 4 trifle)

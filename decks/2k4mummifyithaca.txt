@@ -6,27 +6,27 @@ Jay Davis
 
 Tremere Blood Farm
 
-Crypt (19 cards, min=12, max=39, avg=6.53)
-------------------------------------------
-1x Etrius			11  AUS DOM OBF THA pro		inner circle	Tremere:2
-1x Lucas Halton			10  AUS CEL DOM THA qui		prince		Tremere:3
-1x Lille Haake			9   AUS DOM THA nec pre		primogen	Tremere:3
-1x Oliver Thrace		9   AUS DOM THA nec obf pot			Tremere:3
-1x Spiridonas			9   DOM THA pot pre		prince		Tremere:2
-1x Anastasz di Zagreb		8   AUS THA ani cel dom		justicar	Tremere:3
-1x Ardan Lane			8   AUS THA dom obf pre		primogen	Tremere:3
-1x Erichtho			8   AUS DOM THA cel obf				Tremere:3
-1x Carna, The Princess Witch	7   AUS DOM THA			primogen	Tremere:3
-1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for				Tremere:2
-1x Eugenio Estevez		6   AUS THA dom for				Tremere:3
-1x Valois Sang, The Watcher	6   AUS DOM nec tha				Tremere:3
-1x Aisling Sturbridge		5   AUS THA dom					Tremere:2
-1x Kyoko Shinsegawa		5   aus cel dom for				Tremere:3
-1x Pieter van Dorn		4   dom pre tha					Tremere:3
-1x Blythe Candeleria		3   THA aus					Tremere:2
-1x Ehrich Weiss			3   dom tha					Tremere:3
-1x Martin Franckel		3   AUS tha					Tremere:3
-1x Masika St. John		3   THA						Tremere:3
+Crypt (19 cards, min=12 max=39 avg=6.53)
+----------------------------------------
+1x Etrius                       11  AUS DOM OBF THA pro         inner circle    Tremere:2
+1x Lucas Halton                 10  AUS CEL DOM THA qui         prince          Tremere:3
+1x Lille Haake                  9   AUS DOM THA nec pre         primogen        Tremere:3
+1x Oliver Thrace                9   AUS DOM THA nec obf pot                     Tremere:3
+1x Spiridonas                   9   DOM THA pot pre             prince          Tremere:2
+1x Anastasz di Zagreb           8   AUS THA ani cel dom         justicar        Tremere:3
+1x Ardan Lane                   8   AUS THA dom obf pre         primogen        Tremere:3
+1x Erichtho                     8   AUS DOM THA cel obf                         Tremere:3
+1x Carna, The Princess Witch    7   AUS DOM THA                 primogen        Tremere:3
+1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                             Tremere:2
+1x Eugenio Estevez              6   AUS THA dom for                             Tremere:3
+1x Valois Sang, The Watcher     6   AUS DOM nec tha                             Tremere:3
+1x Aisling Sturbridge           5   AUS THA dom                                 Tremere:2
+1x Kyoko Shinsegawa             5   aus cel dom for                             Tremere:3
+1x Pieter van Dorn              4   dom pre tha                                 Tremere:3
+1x Blythe Candeleria            3   THA aus                                     Tremere:2
+1x Ehrich Weiss                 3   dom tha                                     Tremere:3
+1x Martin Franckel              3   AUS tha                                     Tremere:3
+1x Masika St. John              3   THA                                         Tremere:3
 
 Library (90 cards)
 Master (18)

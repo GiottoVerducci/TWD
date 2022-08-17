@@ -7,16 +7,16 @@ Sergio Nascimento
 
 Deck Name: Nephandi to Rule Them All
 
-Crypt (12 cards, min=13, max=20, avg=4.17)
-------------------------------------------
-5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-1x Frank Weisshadel	4   dom pot tha		Tremere:4
-1x Janine		4   aus dom tha		Tremere antitribu:4
-1x Mosfair		4   cel dom tha		Tremere antitribu:4
-1x Pieter van Dorn	4   dom pre tha		Tremere:3
-1x Ehrich Weiss		3   dom tha		Tremere:3
-1x Keith Moody		3   DOM			Tremere antitribu:4
-1x Masika St. John	3   THA			Tremere:3
+Crypt (12 cards, min=13 max=20 avg=4.17)
+----------------------------------------
+5x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+1x Frank Weisshadel     4   dom pot tha         Tremere:4
+1x Janine               4   aus dom tha         Tremere antitribu:4
+1x Mosfair              4   cel dom tha         Tremere antitribu:4
+1x Pieter van Dorn      4   dom pre tha         Tremere:3
+1x Ehrich Weiss         3   dom tha             Tremere:3
+1x Keith Moody          3   DOM                 Tremere antitribu:4
+1x Masika St. John      3   THA                 Tremere:3
 
 Library (90 cards)
 Master (22; 4 trifle)

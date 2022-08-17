@@ -9,13 +9,13 @@ Bruno Patrício Silva Pontes
 
 Deck Name: Rolo Compressor
 
-Crypt (12 cards, min=11, max=44, avg=8)
----------------------------------------
-5x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-3x Karsh	    10	ANI CEL FOR POT PRO	 Gangrel:3
-2x Bill Butler	    3	pot pro			 Gangrel antitribu:4
-1x Lula Burch	    3	for pro			 Gangrel antitribu:4
-1x Leo Washington   2	cel pro			 Gangrel antitribu:4
+Crypt (12 cards, min=11 max=44 avg=8)
+-------------------------------------
+5x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+3x Karsh            10  ANI CEL FOR POT PRO      Gangrel:3
+2x Bill Butler      3   pot pro                  Gangrel antitribu:4
+1x Lula Burch       3   for pro                  Gangrel antitribu:4
+1x Leo Washington   2   cel pro                  Gangrel antitribu:4
 
 Library (90 cards)
 Master (20; 7 trifle)

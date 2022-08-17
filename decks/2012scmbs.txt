@@ -8,14 +8,14 @@ Soufiane Bouzouf
 Deck Name: Porque esto es África
 Created by: Noel Giménez
 
-Crypt (12 cards, min=26, max=39, avg=8.25)
-------------------------------------------
-3x Ayo Igoli	    10	AUS CEL FOR PRE obf tha	 	   Ishtarri:4
-3x Undele	    9	CEL FOR obf pre ser	 magaji	   Ishtarri:5
-3x Ubende	    7	CEL PRE for obf qui	 magaji	   Ishtarri:4
-1x Dmitra Ilyanova  9	CEL FOR POT PRE obf	 justicar  Brujah:5
-1x Mukhtar Bey	    7	FOR PRE QUI obf pot	 prince	   Caitiff:4
-1x Victor Pelletier 5	PRE cel dom for		 	   Ventrue:4
+Crypt (12 cards, min=26 max=39 avg=8.25)
+----------------------------------------
+3x Ayo Igoli        10  AUS CEL FOR PRE obf tha            Ishtarri:4
+3x Undele           9   CEL FOR obf pre ser      magaji    Ishtarri:5
+3x Ubende           7   CEL PRE for obf qui      magaji    Ishtarri:4
+1x Dmitra Ilyanova  9   CEL FOR POT PRE obf      justicar  Brujah:5
+1x Mukhtar Bey      7   FOR PRE QUI obf pot      prince    Caitiff:4
+1x Victor Pelletier 5   PRE cel dom for                    Ventrue:4
 
 Library (90 cards)
 Master (15; 6 trifle)

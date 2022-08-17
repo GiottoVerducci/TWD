@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9755
 
 Deck Name: War ghoul anarch
 
-Crypt (12 cards, min=4, max=18, avg=2.5)
-----------------------------------------
-5x Anarch Convert   1	-none-		 Caitiff:ANY
-1x Ana Rita Montaña 5	VIC aus dom obf	 Tzimisce:3
-1x Devin Bisley	    5	ANI AUS vic	 Tzimisce:2
-1x Lolita Houston   4	VIC aus		 Tzimisce:2
-1x Terrence	    4	ani aus vic	 Tzimisce:2
-1x Wendy Wade	    3	ani aus		 Tzimisce:2
-1x Horatio	    2	vic		 Tzimisce:2
-1x Piotr Andreikov  2	aus		 Tzimisce:3
+Crypt (12 cards, min=4 max=18 avg=2.5)
+--------------------------------------
+5x Anarch Convert   1   -none-           Caitiff:ANY
+1x Ana Rita Montaña 5   VIC aus dom obf  Tzimisce:3
+1x Devin Bisley     5   ANI AUS vic      Tzimisce:2
+1x Lolita Houston   4   VIC aus          Tzimisce:2
+1x Terrence         4   ani aus vic      Tzimisce:2
+1x Wendy Wade       3   ani aus          Tzimisce:2
+1x Horatio          2   vic              Tzimisce:2
+1x Piotr Andreikov  2   aus              Tzimisce:3
 
 Library (70 cards)
 Master (41; 3 trifle)

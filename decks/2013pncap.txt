@@ -8,19 +8,19 @@ Márcia Mota
 Deck Name: Deck da Márcia
 Created by: Tiago Brum
 
-Crypt (12 cards, min=13, max=27, avg=4.92)
-------------------------------------------
-2x Isabel Giovanni		   5   DOM NEC pot	Giovanni:2
-1x Andrea Giovanni		   7   DOM NEC pot vic	Giovanni:2
-1x Gillespi Giovanni		   7   DOM NEC POT aus	Giovanni:2
-1x Kanimana Belghazi		   7   AUS DOM NEC pro	Nagaraja:2
-1x Valois Sang, The Watcher	   6   AUS DOM nec tha	Tremere:3
-1x Le Dinh Tho			   5   NEC aus dom	Nagaraja:2
-1x Francesca Giovanni		   4   dom nec pot	Giovanni:2
-1x Gloria Giovanni		   4   DOM nec		Giovanni:2
-1x Ingrid Russo			   4   DOM for		Ventrue antitribu:2
-1x Lia Milliner			   3   dom nec		Giovanni:3
-1x Marciana Giovanni, Investigator 2   dom		Giovanni:2
+Crypt (12 cards, min=13 max=27 avg=4.92)
+----------------------------------------
+2x Isabel Giovanni                 5   DOM NEC pot      Giovanni:2
+1x Andrea Giovanni                 7   DOM NEC pot vic  Giovanni:2
+1x Gillespi Giovanni               7   DOM NEC POT aus  Giovanni:2
+1x Kanimana Belghazi               7   AUS DOM NEC pro  Nagaraja:2
+1x Valois Sang, The Watcher        6   AUS DOM nec tha  Tremere:3
+1x Le Dinh Tho                     5   NEC aus dom      Nagaraja:2
+1x Francesca Giovanni              4   dom nec pot      Giovanni:2
+1x Gloria Giovanni                 4   DOM nec          Giovanni:2
+1x Ingrid Russo                    4   DOM for          Ventrue antitribu:2
+1x Lia Milliner                    3   dom nec          Giovanni:3
+1x Marciana Giovanni, Investigator 2   dom              Giovanni:2
 
 Library (80 cards)
 Master (10; 3 trifle)

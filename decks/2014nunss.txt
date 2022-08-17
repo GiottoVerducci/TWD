@@ -12,12 +12,12 @@ Deck Name: Who need superior dominate and majesty when you have Cailean
 
 Description: Cailean to vote and survive grapple combat. The others for more votes and oustingpower.
 
-Crypt (12 cards, min=40, max=44, avg=10.58)
--------------------------------------------
-5x Cailean 10  ANI OBF POT PRE dom	archbishop	Nosferatu antitribu:2
-3x Arika   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-2x Harrod  11  ANI CEL OBF POT aus pre	inner circle	Nosferatu:2
-2x Leandro 11  AUS OBF PRE cel dom	inner circle	Malkavian:2
+Crypt (12 cards, min=40 max=44 avg=10.58)
+-----------------------------------------
+5x Cailean 10  ANI OBF POT PRE dom      archbishop      Nosferatu antitribu:2
+3x Arika   11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+2x Harrod  11  ANI CEL OBF POT aus pre  inner circle    Nosferatu:2
+2x Leandro 11  AUS OBF PRE cel dom      inner circle    Malkavian:2
 
 Library (81 cards)
 Master (23; 7 trifle)

@@ -17,15 +17,15 @@ Casual observations:
 the longest game I played in the tournament lasted for about 1h 15min
 I still managed to deplete my library in every single game
 
-Crypt (12 cards, min=9, max=44, avg=6.25)
------------------------------------------
-5x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-2x Andre LeRoux	    3	aus			 Toreador:5
-1x Fairuza	    4	CEL pre			 Brujah antitribu:5
-1x Idrissa	    4	CEL aus			 Osebo:4
-1x T.J.		    3	cel for			 Gangrel:4
-1x Clifton Derrik   2	cel			 Brujah:4
-1x Anarch Convert   1	-none-			 Caitiff:ANY
+Crypt (12 cards, min=9 max=44 avg=6.25)
+---------------------------------------
+5x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+2x Andre LeRoux     3   aus                      Toreador:5
+1x Fairuza          4   CEL pre                  Brujah antitribu:5
+1x Idrissa          4   CEL aus                  Osebo:4
+1x T.J.             3   cel for                  Gangrel:4
+1x Clifton Derrik   2   cel                      Brujah:4
+1x Anarch Convert   1   -none-                   Caitiff:ANY
 
 Library (90 cards)
 Master (5; 3 trifle)

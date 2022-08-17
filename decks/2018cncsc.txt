@@ -12,13 +12,13 @@ Deck Name: toreador grand ball
 
 Description: AAA
 
-Crypt (15 cards, min=17, max=43, avg=8.27)
-------------------------------------------
-4x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
-4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
-3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-3x Isabel de Leon  3   AUS					Toreador:2
-1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+Crypt (15 cards, min=17 max=43 avg=8.27)
+----------------------------------------
+4x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+4x Anson           8   CEL PRE aus dom          prince          Toreador:1
+3x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+3x Isabel de Leon  3   AUS                                      Toreador:2
+1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
 
 Library (90 cards)
 Master (25; 6 trifle)

@@ -22,14 +22,14 @@ In retrospect i would add some 5-10 cards since this deck burns
 alot of cards each turn, which resulted in me being decked out
 3 out of 4 rounds i played.I had 2GWs/8VP pre-finals, 2GWs/10VP total.
 
-Crypt (12 cards, min=16, max=32, avg=6.33)
-------------------------------------------
-4x Serenna the White	8   AUS FOR OBE ani dem	 Salubri:6
-4x Matthew		7   AUS FOR OBE cel	 Salubri:6
-1x La Viuda Blanca	6   AUS NEC for obf	 Harbinger of Skulls:6
-1x Tyler McGill		4   AUS pre		 Toreador:5
-1x Andre LeRoux		3   aus			 Toreador:5
-1x Veejay Vinod		3   AUS			 Nagaraja:6
+Crypt (12 cards, min=16 max=32 avg=6.33)
+----------------------------------------
+4x Serenna the White    8   AUS FOR OBE ani dem  Salubri:6
+4x Matthew              7   AUS FOR OBE cel      Salubri:6
+1x La Viuda Blanca      6   AUS NEC for obf      Harbinger of Skulls:6
+1x Tyler McGill         4   AUS pre              Toreador:5
+1x Andre LeRoux         3   aus                  Toreador:5
+1x Veejay Vinod         3   AUS                  Nagaraja:6
 
 Library (70 cards)
 Master (15; 7 trifle)

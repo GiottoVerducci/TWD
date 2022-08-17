@@ -15,18 +15,18 @@ deck building philosophy back then, this deck tries to accrue a critical mass
 of permanent effects and win in the late game. Hatch the Viper was insanely
 strong and in hindsight I'd probably adjust the deck to rely more on it.
 
-Crypt (12 cards, min=10, max=33, avg=5.5)
------------------------------------------
-2x Torvus Bloodbeard	9   ANI FOR OBF PRO pot	 	 Gangrel:3
-2x Danielle Diron	7   ANI PRO chi for	 1 vote	 Gangrel:3
-1x Nadima		8   FOR PRO SER ani aus	 	 Gangrel:3
-1x Horrock		6   ANI PRO vic		 	 Gangrel:3
-1x Dr. Allan Woodstock	5   PRO ani aus for	 	 Gangrel:3
-1x Mirembe Kabbada	5   PRO SER ani		 	 Gangrel:2
-1x Daliyah		4   PRO obf		 	 Nosferatu:2
-1x Chandler Hungerford	3   PRO			 	 Gangrel:2
-1x Sadie		2   pro			 	 Gangrel antitribu:2
-1x Huang, Blood Cultist	1   pro			 	 Pander:2
+Crypt (12 cards, min=10 max=33 avg=5.5)
+---------------------------------------
+2x Torvus Bloodbeard    9   ANI FOR OBF PRO pot          Gangrel:3
+2x Danielle Diron       7   ANI PRO chi for      1 vote  Gangrel:3
+1x Nadima               8   FOR PRO SER ani aus          Gangrel:3
+1x Horrock              6   ANI PRO vic                  Gangrel:3
+1x Dr. Allan Woodstock  5   PRO ani aus for              Gangrel:3
+1x Mirembe Kabbada      5   PRO SER ani                  Gangrel:2
+1x Daliyah              4   PRO obf                      Nosferatu:2
+1x Chandler Hungerford  3   PRO                          Gangrel:2
+1x Sadie                2   pro                          Gangrel antitribu:2
+1x Huang, Blood Cultist 1   pro                          Pander:2
 
 Library (69 cards)
 Master (17; 7 trifle)

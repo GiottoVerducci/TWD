@@ -11,13 +11,13 @@ https://www.vekn.net/event-calendar/event/9782
 Deck Name: Turbosuntha v2
 Description: turbo rush
 
-Crypt (13 cards, min=4, max=40, avg=5)
---------------------------------------
-5x Matasuntha			 10  ANI AUS CEL FOR PRO  Gangrel:5
-5x Anarch Convert		 1   -none-		  Caitiff:ANY
-1x Lorrie Dunsirn		 4   POT for nec	  Abomination:4
-1x Andre LeRoux			 3   aus		  Toreador:5
-1x Béatrice "Oracle171" Tremblay 3   inn ven		  Innocent:4
+Crypt (13 cards, min=4 max=40 avg=5)
+------------------------------------
+5x Matasuntha                    10  ANI AUS CEL FOR PRO  Gangrel:5
+5x Anarch Convert                1   -none-               Caitiff:ANY
+1x Lorrie Dunsirn                4   POT for nec          Abomination:4
+1x Andre LeRoux                  3   aus                  Toreador:5
+1x Béatrice "Oracle171" Tremblay 3   inn ven              Innocent:4
 
 Library (90 cards)
 Master (12; 4 trifle)

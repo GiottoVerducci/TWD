@@ -13,14 +13,14 @@ Augustus Giovanni (aka Voltron) gathers together allies from the four
 corners of space ... or the World of Darkness. By forming his blazing
 sword (Lille Haake), he smites evil.
 
-Crypt (12 cards, min=30, max=44, avg=9.17)
-------------------------------------------
-2x Augustus Giovanni	 11  AUS DOM NEC POT cel pre	2 votes	  Giovanni:2
-2x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus	magaji	  Guruhi:3
-2x Kahina the Sorceress	 9   AUS DOM OBF SER nec pre	1 vote	  Follower of Set:3
-2x Lille Haake		 9   AUS DOM THA nec pre	primogen  Tremere:3
-2x Ian Forestal		 8   AUS DOM THA			  Tremere antitribu:2
-2x Sarrasine		 7   OBF PRE aus nec ser		  Follower of Set:2
+Crypt (12 cards, min=30 max=44 avg=9.17)
+----------------------------------------
+2x Augustus Giovanni     11  AUS DOM NEC POT cel pre    2 votes   Giovanni:2
+2x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus    magaji    Guruhi:3
+2x Kahina the Sorceress  9   AUS DOM OBF SER nec pre    1 vote    Follower of Set:3
+2x Lille Haake           9   AUS DOM THA nec pre        primogen  Tremere:3
+2x Ian Forestal          8   AUS DOM THA                          Tremere antitribu:2
+2x Sarrasine             7   OBF PRE aus nec ser                  Follower of Set:2
 
 Library (80 cards)
 Master (21; 6 trifle)

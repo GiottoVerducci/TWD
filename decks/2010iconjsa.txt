@@ -8,15 +8,15 @@ Deck Name: The Geeks' Revenge
 
 Description: !Ventrue PRO/FOR/DOM/AUS.
 
-Crypt (12 cards, min=16, max=40, avg=6.67)
-------------------------------------------
-4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
-2x Dylan			 6   aus cel dom for pro  		Ventrue antitribu:2
-2x Vanessa			 6   DOM FOR aus pre	  		Ventrue antitribu:2
-1x Billy			 5   AUS dom for	  		Ventrue antitribu:2
-1x Ingrid Russo			 4   DOM for		  		Ventrue antitribu:2
-1x Peter Blaine			 4   aus dom for	  		Ventrue antitribu:2
-1x Juan Cali			 3   aus for		  		Ventrue antitribu:2
+Crypt (12 cards, min=16 max=40 avg=6.67)
+----------------------------------------
+4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop    Ventrue antitribu:2
+2x Dylan                         6   aus cel dom for pro                Ventrue antitribu:2
+2x Vanessa                       6   DOM FOR aus pre                    Ventrue antitribu:2
+1x Billy                         5   AUS dom for                        Ventrue antitribu:2
+1x Ingrid Russo                  4   DOM for                            Ventrue antitribu:2
+1x Peter Blaine                  4   aus dom for                        Ventrue antitribu:2
+1x Juan Cali                     3   aus for                            Ventrue antitribu:2
 
 Library (90 cards)
 Master (17)

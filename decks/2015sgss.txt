@@ -8,13 +8,13 @@ https://www.vekn.net/event-calendar/event/8101
 
 -- 2VP in final
 
-Crypt (12 cards, min=28, max=32, avg=7.58)
-------------------------------------------
-5x Dela Eden			8   AUS FOR VAL cel dom	 Salubri antitribu:3
-2x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 Ventrue antitribu:3
-2x Blackhorse Tanner		7   AUS DOM FOR		 Ventrue antitribu:3
-2x Omaya			7   ANI AUS FOR pro	 Gangrel antitribu:2
-1x Matthias			7   AUS FOR OBE nec	 Salubri:2
+Crypt (12 cards, min=28 max=32 avg=7.58)
+----------------------------------------
+5x Dela Eden                    8   AUS FOR VAL cel dom  Salubri antitribu:3
+2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre  Ventrue antitribu:3
+2x Blackhorse Tanner            7   AUS DOM FOR          Ventrue antitribu:3
+2x Omaya                        7   ANI AUS FOR pro      Gangrel antitribu:2
+1x Matthias                     7   AUS FOR OBE nec      Salubri:2
 
 Library (80 cards)
 Master (15; 6 trifle)

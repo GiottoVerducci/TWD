@@ -14,13 +14,13 @@ I built a deck trying to utilize them. Thanks to Darby for meta-game
 insights, to Newark VTES for giving me a solid playgroup to test the
 deck and to Kevin for running a great event.
 
-Crypt (12 cards, min=17, max=28, avg=5.42)
-------------------------------------------
-4x Ash Harrison		7   AUS THA cel dom		Tremere antitribu:5
-3x Antonio d'Erlette	5   THA dom for pot		Tremere antitribu:4
-3x Frondator		5   AUS dom tha		bishop	Tremere antitribu:4
-1x Janine		4   aus dom tha			Tremere antitribu:4
-1x Lectora		3   aus tha			Tremere antitribu:4
+Crypt (12 cards, min=17 max=28 avg=5.42)
+----------------------------------------
+4x Ash Harrison         7   AUS THA cel dom             Tremere antitribu:5
+3x Antonio d'Erlette    5   THA dom for pot             Tremere antitribu:4
+3x Frondator            5   AUS dom tha         bishop  Tremere antitribu:4
+1x Janine               4   aus dom tha                 Tremere antitribu:4
+1x Lectora              3   aus tha                     Tremere antitribu:4
 
 Library (88 cards)
 Master (13)

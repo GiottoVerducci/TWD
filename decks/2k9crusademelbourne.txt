@@ -13,11 +13,11 @@ Afifa's special text to go forward with Gehenna cards and Anna's text
 to placate opposition players. Nehemiah helps the library cycle cards
 speed through the deck.
 
-Crypt (12 cards, min=4, max=36, avg=5.33)
------------------------------------------
-4x Nehemiah			9   POT PRE SER TEM obt	 2 votes  True Brujah:4
-4x Anna "Dictatrix11" Suljic	6   mar red viz		 	  Martyr:4
-4x Afifa, The Herald		1   dom			 	  Caitiff:4
+Crypt (12 cards, min=4 max=36 avg=5.33)
+---------------------------------------
+4x Nehemiah                     9   POT PRE SER TEM obt  2 votes  True Brujah:4
+4x Anna "Dictatrix11" Suljic    6   mar red viz                   Martyr:4
+4x Afifa, The Herald            1   dom                           Caitiff:4
 
 Library (75 cards)
 Master (15; 5 trifle)

@@ -4,15 +4,15 @@ July 10th 2004
 13 players
 Kyle Bahr
 
-Crypt (12 cards, min=27, max=40, avg=8.17)
-------------------------------------------
-3x Count Germaine	8   CEL FOR POT PRE obf			  Brujah:4
-3x Mukhtar Bey		7   FOR PRE QUI obf pot		prince	  Caitiff:4
-2x Marcus Vitel (ADV)	10  DOM FOR OBF OBT POT PRE		  Lasombra:3
-1x Jaroslav Pascek	10  CEL POT PRE for obf		justicar  Brujah:3
-1x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar  Ventrue:3
-1x Horatio Ballard	7   DOM FOR PRE aus			  Ventrue:3
-1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
+Crypt (12 cards, min=27 max=40 avg=8.17)
+----------------------------------------
+3x Count Germaine       8   CEL FOR POT PRE obf                   Brujah:4
+3x Mukhtar Bey          7   FOR PRE QUI obf pot         prince    Caitiff:4
+2x Marcus Vitel (ADV)   10  DOM FOR OBF OBT POT PRE               Lasombra:3
+1x Jaroslav Pascek      10  CEL POT PRE for obf         justicar  Brujah:3
+1x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar  Ventrue:3
+1x Horatio Ballard      7   DOM FOR PRE aus                       Ventrue:3
+1x Mustafa, The Heir    6   FOR PRE cel dom             prince    Ventrue:4
 
 Library (90 cards)
 Master (13)

@@ -19,13 +19,13 @@ Nice games overall.. The Finals went so that Timo and Mikko contested Arika, and
 
 (There are 2 Zillah's Valley because I have not enough Eternals of Sirius.)
 
-Crypt (12 cards, min=29, max=40, avg=8.75)
-------------------------------------------
-3x Kemintiri		    10	OBF PRE SER THA aus dom	 	 Follower of Set:2
-1x Kemintiri (ADV)	    10	OBF PRE SER THA aus dom	 	 Follower of Set:2
-4x Khay'tall, Snake of Eden 9	DOM OBF PRE SER aus	 	 Follower of Set:2
-1x Sarrasine (ADV)	    8	OBF PRE SER aus nec	 prince	 Follower of Set:2
-3x Sarrasine		    7	OBF PRE aus nec ser	 	 Follower of Set:2
+Crypt (12 cards, min=29 max=40 avg=8.75)
+----------------------------------------
+3x Kemintiri                10  OBF PRE SER THA aus dom          Follower of Set:2
+1x Kemintiri (ADV)          10  OBF PRE SER THA aus dom          Follower of Set:2
+4x Khay'tall, Snake of Eden 9   DOM OBF PRE SER aus              Follower of Set:2
+1x Sarrasine (ADV)          8   OBF PRE SER aus nec      prince  Follower of Set:2
+3x Sarrasine                7   OBF PRE aus nec ser              Follower of Set:2
 
 Library (77 cards)
 Master (19; 6 trifle)

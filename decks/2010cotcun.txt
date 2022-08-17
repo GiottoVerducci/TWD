@@ -12,16 +12,16 @@ Description: A combination of some Tzimisce Walls on the TWDA
 with a few twists here and there. Thanks a lot to Emime and
 Regnak for advice and helping out with cards.
 
-Crypt (12 cards, min=16, max=32, avg=6)
----------------------------------------
-2x Little Tailor of Prague 8   ANI AUS VIC dem		 Tzimisce:2
-2x Meshenka		   8   ANI AUS VIC	priscus	 Tzimisce:2
-2x Caliban		   6   ANI AUS VIC		 Tzimisce:2
-2x Corine Marcón	   6   AUS VIC ani		 Tzimisce:2
-1x Devin Bisley		   5   ANI AUS vic		 Tzimisce:2
-1x Elizabeth Westcott	   5   AUS ani cel vic		 Tzimisce:3
-1x Lolita Houston	   4   VIC aus			 Tzimisce:2
-1x Horatio		   2   vic			 Tzimisce:2
+Crypt (12 cards, min=16 max=32 avg=6)
+-------------------------------------
+2x Little Tailor of Prague 8   ANI AUS VIC dem           Tzimisce:2
+2x Meshenka                8   ANI AUS VIC      priscus  Tzimisce:2
+2x Caliban                 6   ANI AUS VIC               Tzimisce:2
+2x Corine Marcón           6   AUS VIC ani               Tzimisce:2
+1x Devin Bisley            5   ANI AUS vic               Tzimisce:2
+1x Elizabeth Westcott      5   AUS ani cel vic           Tzimisce:3
+1x Lolita Houston          4   VIC aus                   Tzimisce:2
+1x Horatio                 2   vic                       Tzimisce:2
 
 Library (90 cards)
 Master (17; 3 trifle)

@@ -9,14 +9,14 @@ Thiago Sousa
 
 Deck Name: Helena
 
-Crypt (12 cards, min=24, max=40, avg=8.08)
-------------------------------------------
-4x Helena		10  AUS CEL DOM obf pre tha		  Toreador:3
-3x Ira Rivers		7   AUS CEL ani pre		prince	  Toreador:3
-2x Joaquin Murietta	9   AUS CEL obf pre qui			  Toreador:3
-1x Eugene		8   AUS CEL FOR PRE		primogen  Toreador:4
-1x Khalu		7   AUS CEL POT ani pro			  Osebo:3
-1x Yvette, The Hopeless	3   aus cel				  Toreador:3
+Crypt (12 cards, min=24 max=40 avg=8.08)
+----------------------------------------
+4x Helena               10  AUS CEL DOM obf pre tha               Toreador:3
+3x Ira Rivers           7   AUS CEL ani pre             prince    Toreador:3
+2x Joaquin Murietta     9   AUS CEL obf pre qui                   Toreador:3
+1x Eugene               8   AUS CEL FOR PRE             primogen  Toreador:4
+1x Khalu                7   AUS CEL POT ani pro                   Osebo:3
+1x Yvette, The Hopeless 3   aus cel                               Toreador:3
 
 Library (90 cards)
 Master (15; 4 trifle)

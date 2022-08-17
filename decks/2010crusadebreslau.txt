@@ -17,12 +17,12 @@ thus winning due to being top seated. Pawel played 1.5 hour without vampires
 and still managed to oust his prey with 3 Nephandi and Carlton van Wyk
 and last to the timeout.
 
-Crypt (12 cards, min=12, max=20, avg=4)
----------------------------------------
-6x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-2x Ember Wright		3   aus dom		Tremere antitribu:3
-2x Keith Moody		3   DOM			Tremere antitribu:4
-2x Saiz			3   aus dom		Tremere antitribu:3
+Crypt (12 cards, min=12 max=20 avg=4)
+-------------------------------------
+6x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+2x Ember Wright         3   aus dom             Tremere antitribu:3
+2x Keith Moody          3   DOM                 Tremere antitribu:4
+2x Saiz                 3   aus dom             Tremere antitribu:3
 
 Library (80 cards)
 Master (39)

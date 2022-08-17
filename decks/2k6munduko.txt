@@ -6,20 +6,20 @@ Iñaki Jimenez
 
 Deck Name: Overpowered
 
-Crypt (12 cards, min=27, max=43, avg=8.83)
-------------------------------------------
-1x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-1x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-1x Leandro	   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
-1x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
-1x Democritus	   10  DOM PRE aus cel for	justicar	Ventrue:1
-1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Anson	   8   CEL PRE aus dom		prince		Toreador:1
-1x Emerson Bridges 8   DOM FOR PRE pot		prince		Ventrue:1
-1x Sir Walter Nash 7   DOM FOR PRE		prince		Ventrue:1
-1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
-1x Timothy Crowley 7   FOR PRE ani dom		prince		Ventrue:1
-1x Rake		   6   PRE aus cel pot		prince		Brujah:1
+Crypt (12 cards, min=27 max=43 avg=8.83)
+----------------------------------------
+1x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+1x Arika           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+1x Leandro         11  AUS OBF PRE cel dom      inner circle    Malkavian:2
+1x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+1x Democritus      10  DOM PRE aus cel for      justicar        Ventrue:1
+1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+1x Anson           8   CEL PRE aus dom          prince          Toreador:1
+1x Emerson Bridges 8   DOM FOR PRE pot          prince          Ventrue:1
+1x Sir Walter Nash 7   DOM FOR PRE              prince          Ventrue:1
+1x Tatiana Romanov 7   AUS cel pre              prince          Toreador:1
+1x Timothy Crowley 7   FOR PRE ani dom          prince          Ventrue:1
+1x Rake            6   PRE aus cel pot          prince          Brujah:1
 
 Library (89 cards)
 Master (25)

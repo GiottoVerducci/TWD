@@ -10,12 +10,12 @@ Deck Name: Ludmijla's wall
 
 Description: A classic wall, Auxpex and Animalism deck
 
-Crypt (12 cards, min=24, max=31, avg=6.92)
-------------------------------------------
-4x Ludmijla Rakoczy	7   ANI AUS VIC		 bishop	 Tzimisce:5
-3x Lady Zara Slatikov	8   ANI AUS OBF VIC	 bishop	 Tzimisce:4
-3x Laika		7   ANI AUS chi obf vic	 	 Tzimisce:4
-2x Yuri Kerezenski	5   ANI aus for vic	 bishop	 Tzimisce:4
+Crypt (12 cards, min=24 max=31 avg=6.92)
+----------------------------------------
+4x Ludmijla Rakoczy     7   ANI AUS VIC          bishop  Tzimisce:5
+3x Lady Zara Slatikov   8   ANI AUS OBF VIC      bishop  Tzimisce:4
+3x Laika                7   ANI AUS chi obf vic          Tzimisce:4
+2x Yuri Kerezenski      5   ANI aus for vic      bishop  Tzimisce:4
 
 Library (90 cards)
 Master (13; 5 trifle)

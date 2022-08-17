@@ -12,15 +12,15 @@ Deck Name: Blue Blood 2.0
 Description: Quietly brings up 4-5 Ventrue with
 Mary Anne Blaire special+Govern, then go!
 
-Crypt (12 cards, min=22, max=40, avg=7.67)
-------------------------------------------
-4x Mary Anne Blaire	10  AUS DOM FOR PRE ani pot	justicar  Ventrue:5
-2x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince	  Ventrue:5
-2x Graham Gottesman	7   DOM FOR obf pre tha		prince	  Ventrue:5
-1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
-1x Victor Donaldson	6   DOM for pre			prince	  Ventrue:5
-1x Emily Carson		5   DOM for pre			primogen  Ventrue:5
-1x Victor Pelletier	5   PRE cel dom for			  Ventrue:4
+Crypt (12 cards, min=22 max=40 avg=7.67)
+----------------------------------------
+4x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot     justicar  Ventrue:5
+2x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro         prince    Ventrue:5
+2x Graham Gottesman     7   DOM FOR obf pre tha         prince    Ventrue:5
+1x Mustafa, The Heir    6   FOR PRE cel dom             prince    Ventrue:4
+1x Victor Donaldson     6   DOM for pre                 prince    Ventrue:5
+1x Emily Carson         5   DOM for pre                 primogen  Ventrue:5
+1x Victor Pelletier     5   PRE cel dom for                       Ventrue:4
 
 Library (80 cards)
 Master (9; 2 trifle)

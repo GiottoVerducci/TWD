@@ -11,18 +11,18 @@ https://www.vekn.net/event-calendar/event/9211
 Deck Name : Rebekka&Jost Presence
 Description :
 
-Crypt (13 cards, min=14, max=28, avg=5.23)
-------------------------------------------
-2x Rebekka, Chantry Elder of Munich 8	AUS PRE THA pot	 Tremere:2
-2x Jost Werner			    6	AUS PRE ani	 Toreador antitribu:2
-2x Sheila Mezarin		    6	AUS PRE cel for	 Toreador antitribu:2
-1x Felicia Mostrom		    5	AUS CEL pre	 Toreador:1
-1x Ramiel DuPre			    5	PRE aus cel dom	 Toreador:1
-1x Mariana Gilbert		    4	PRE cel		 Toreador:1
-1x Remilliard, Devout Crusader	    4	AUS pre		 Toreador antitribu:2
-1x Violette Prentiss		    4	PRE dom		 Ventrue:1
-1x Gideon Fontaine		    3	PRE		 Ventrue:1
-1x Isabel de Leon		    3	AUS		 Toreador:2
+Crypt (13 cards, min=14 max=28 avg=5.23)
+----------------------------------------
+2x Rebekka, Chantry Elder of Munich 8   AUS PRE THA pot  Tremere:2
+2x Jost Werner                      6   AUS PRE ani      Toreador antitribu:2
+2x Sheila Mezarin                   6   AUS PRE cel for  Toreador antitribu:2
+1x Felicia Mostrom                  5   AUS CEL pre      Toreador:1
+1x Ramiel DuPre                     5   PRE aus cel dom  Toreador:1
+1x Mariana Gilbert                  4   PRE cel          Toreador:1
+1x Remilliard, Devout Crusader      4   AUS pre          Toreador antitribu:2
+1x Violette Prentiss                4   PRE dom          Ventrue:1
+1x Gideon Fontaine                  3   PRE              Ventrue:1
+1x Isabel de Leon                   3   AUS              Toreador:2
 
 Library (82 cards)
 Master (15; 4 trifle)

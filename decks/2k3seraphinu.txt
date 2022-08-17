@@ -12,15 +12,15 @@ Raven Spies, Succubus Club, Fifth Traditions, Fourth Traditions, and
 add in a few more Restorations. Legendary vampire is really a great
 card for this deck.
 
-Crypt (12 cards, min=18, max=42, avg=8)
----------------------------------------
-3x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
-2x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
-2x Angus the Unruled	10  ANI PRO cel for pot	 justicar	Gangrel:1
-2x Katarina		9   ANI FOR pot pro	 prince		Gangrel:2
-1x Anastasia Grey	3   ani pro		 		Gangrel:1
-1x Chandler Hungerford	3   PRO			 		Gangrel:2
-1x Ricki Van Demsi	3   for pro		 		Gangrel:1
+Crypt (12 cards, min=18 max=42 avg=8)
+-------------------------------------
+3x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
+2x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
+2x Angus the Unruled    10  ANI PRO cel for pot  justicar       Gangrel:1
+2x Katarina             9   ANI FOR pot pro      prince         Gangrel:2
+1x Anastasia Grey       3   ani pro                             Gangrel:1
+1x Chandler Hungerford  3   PRO                                 Gangrel:2
+1x Ricki Van Demsi      3   for pro                             Gangrel:1
 
 Library (75 cards)
 Master (14)

@@ -10,20 +10,20 @@ Deck Name: Superior Presents
 Description: This deck is a weenie PRE bleeder. It ousted its first
 prey in 16 minutes, and the table was over by minute 36.
 
-Crypt (12 cards, min=13, max=20, avg=4.25)
-------------------------------------------
-1x Barth		5   PRE aus cel		Toreador:3
-1x Creamy Jade		5   PRE aus cel vic	Toreador antitribu:3
-1x Hezekiah Rutledge	5   PRE ani cel pot	Brujah:4
-1x Rose, The		5   PRE VIC aus		Tzimisce:3
-1x Shasa Abu Badr	5   PRE cel for		Ishtarri:4
-1x Victor Pelletier	5   PRE cel dom for	Ventrue:4
-1x Antoinette Dubois	4   PRE for mel		Daughter of Cacophony:4
-1x Loonar		4   PRE cel		Toreador antitribu:4
-1x Lumumba		4   PRE ani		Guruhi:4
-1x Marla Kenyon		4   PRE ser		Follower of Set:4
-1x Reverend Adams	3   PRE aus		Caitiff:4
-1x Jayne Jonestown	2   PRE			Brujah antitribu:4
+Crypt (12 cards, min=13 max=20 avg=4.25)
+----------------------------------------
+1x Barth                5   PRE aus cel         Toreador:3
+1x Creamy Jade          5   PRE aus cel vic     Toreador antitribu:3
+1x Hezekiah Rutledge    5   PRE ani cel pot     Brujah:4
+1x Rose, The            5   PRE VIC aus         Tzimisce:3
+1x Shasa Abu Badr       5   PRE cel for         Ishtarri:4
+1x Victor Pelletier     5   PRE cel dom for     Ventrue:4
+1x Antoinette Dubois    4   PRE for mel         Daughter of Cacophony:4
+1x Loonar               4   PRE cel             Toreador antitribu:4
+1x Lumumba              4   PRE ani             Guruhi:4
+1x Marla Kenyon         4   PRE ser             Follower of Set:4
+1x Reverend Adams       3   PRE aus             Caitiff:4
+1x Jayne Jonestown      2   PRE                 Brujah antitribu:4
 
 Library (88 cards)
 Master (20; 8 trifle)

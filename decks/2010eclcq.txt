@@ -9,14 +9,14 @@ Deck Name: EC 2010 LCQ: Rising Dementia
 
 4gw on the day, 5VP in final
 
-Crypt (12 cards, min=12, max=24, avg=4.67)
-------------------------------------------
-2x Morel	6   AUS DEM OBF		Malkavian:4
-2x Tony		6   AUS DEM dom obf	Malkavian:3
-2x Apache Jones	5   DEM aus for obf	Malkavian antitribu:4
-2x Uncle George	5   DEM aus dom obf	Malkavian antitribu:3
-2x Jackie	3   DEM			Malkavian antitribu:4
-2x Midget	3   DEM obf pre		Malkavian antitribu:3
+Crypt (12 cards, min=12 max=24 avg=4.67)
+----------------------------------------
+2x Morel        6   AUS DEM OBF         Malkavian:4
+2x Tony         6   AUS DEM dom obf     Malkavian:3
+2x Apache Jones 5   DEM aus for obf     Malkavian antitribu:4
+2x Uncle George 5   DEM aus dom obf     Malkavian antitribu:3
+2x Jackie       3   DEM                 Malkavian antitribu:4
+2x Midget       3   DEM obf pre         Malkavian antitribu:3
 
 Library (70 cards)
 Master (9; 3 trifle)

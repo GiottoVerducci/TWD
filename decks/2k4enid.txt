@@ -32,16 +32,16 @@ Anyway, enjoy.
 
 Alexander J Skrabut - uruzrune@verizon.net
 
-Crypt (12 cards, min=14, max=31, avg=5.67)
-------------------------------------------
-3x Nigel the Shunned			  5   ANI POT obf		Nosferatu antitribu:2
-2x Mateusz Gryzbowsky			  8   ANI OBF POT		Nosferatu antitribu:3
-2x Beast, The Leatherface of Detroit	  7   OBF POT ani cel		Nosferatu antitribu:2
-1x Calebos				  8   ANI OBF POT cel	bishop	Nosferatu antitribu:2
-1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot		Nosferatu antitribu:2
-1x Darva Felispa			  3   ani pot			Nosferatu:3
-1x Raziya Samater			  3   ani pot			Brujah:2
-1x Tommy				  3   ani pot			Nosferatu antitribu:2
+Crypt (12 cards, min=14 max=31 avg=5.67)
+----------------------------------------
+3x Nigel the Shunned                      5   ANI POT obf               Nosferatu antitribu:2
+2x Mateusz Gryzbowsky                     8   ANI OBF POT               Nosferatu antitribu:3
+2x Beast, The Leatherface of Detroit      7   OBF POT ani cel           Nosferatu antitribu:2
+1x Calebos                                8   ANI OBF POT cel   bishop  Nosferatu antitribu:2
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot               Nosferatu antitribu:2
+1x Darva Felispa                          3   ani pot                   Nosferatu:3
+1x Raziya Samater                         3   ani pot                   Brujah:2
+1x Tommy                                  3   ani pot                   Nosferatu antitribu:2
 
 Library (90 cards)
 Master (17)

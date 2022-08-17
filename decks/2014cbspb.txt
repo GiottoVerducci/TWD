@@ -16,11 +16,11 @@ The world is full of kings and queens
 Who blind your eyes and steal your dreams
 It's heaven and hell!"
 
-Crypt (13 cards, min=40, max=44, avg=10.46)
--------------------------------------------
-5x Nergal		10  AUS DAI FOR OBF PRE THA	Baali:5
-2x Nergal (ADV)		10  AUS DAI FOR OBF PRE THA	Baali:5
-6x Saulot, The Wanderer	11  AUS FOR OBE THA VAL dai	Salubri:4
+Crypt (13 cards, min=40 max=44 avg=10.46)
+-----------------------------------------
+5x Nergal               10  AUS DAI FOR OBF PRE THA     Baali:5
+2x Nergal (ADV)         10  AUS DAI FOR OBF PRE THA     Baali:5
+6x Saulot, The Wanderer 11  AUS FOR OBE THA VAL dai     Salubri:4
 
 Library (88 cards)
 Master (20; 7 trifle)

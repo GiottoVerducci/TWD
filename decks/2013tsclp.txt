@@ -18,13 +18,13 @@ to the Powerbase, Forgotten Labyrinths and of course the Strange day,
 which literally saved the day many times. Some credit goes to Szewski
 for his advices before playing my 1st tournament with this deck. Thanks mate.
 
-Crypt (12 cards, min=4, max=15, avg=2.42)
------------------------------------------
-4x Tupdog		1   POT VIS	 Gargoyle:3
-3x Guedado		4   aus obf vic	 Tzimisce:4
-2x Ilias cel Frumos	3   aus vic	 Tzimisce:4
-2x Piotr Andreikov	2   aus		 Tzimisce:3
-1x Droescher One-Eye	3   ani vic	 Tzimisce:4
+Crypt (12 cards, min=4 max=15 avg=2.42)
+---------------------------------------
+4x Tupdog               1   POT VIS      Gargoyle:3
+3x Guedado              4   aus obf vic  Tzimisce:4
+2x Ilias cel Frumos     3   aus vic      Tzimisce:4
+2x Piotr Andreikov      2   aus          Tzimisce:3
+1x Droescher One-Eye    3   ani vic      Tzimisce:4
 
 Library (60 cards)
 Master (11; 3 trifle)

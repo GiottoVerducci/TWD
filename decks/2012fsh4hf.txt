@@ -16,16 +16,16 @@ and put this classic together for the Giovanni. Both game wins were
 gotten by Pentexing my prey's untapped blocker at the right time,
 so another classic right there.
 
-Crypt (12 cards, min=8, max=26, avg=4.33)
------------------------------------------
-3x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
-2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
-2x Tupdog		1   POT VIS		Gargoyle:3
-1x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
-1x Francesca Giovanni	4   dom nec pot		Giovanni:2
-1x Gloria Giovanni	4   DOM nec		Giovanni:2
-1x Lia Milliner		3   dom nec		Giovanni:3
-1x Rudolfo Giovanni	3   NEC			Giovanni:2
+Crypt (12 cards, min=8 max=26 avg=4.33)
+---------------------------------------
+3x Andrea Giovanni      7   DOM NEC pot vic     Giovanni:2
+2x Isabel Giovanni      5   DOM NEC pot         Giovanni:2
+2x Tupdog               1   POT VIS             Gargoyle:3
+1x Le Dinh Tho          5   NEC aus dom         Nagaraja:2
+1x Francesca Giovanni   4   dom nec pot         Giovanni:2
+1x Gloria Giovanni      4   DOM nec             Giovanni:2
+1x Lia Milliner         3   dom nec             Giovanni:3
+1x Rudolfo Giovanni     3   NEC                 Giovanni:2
 
 Library (80 cards)
 Master (18)

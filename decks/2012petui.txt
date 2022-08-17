@@ -9,18 +9,18 @@ Dennis Floreano
 
 Deck Name: [Giovanni] The Little Diary
 
-Crypt (12 cards, min=10, max=19, avg=3.58)
-------------------------------------------
-2x Primo Giovanni	4   dom nec pot		Giovanni:4
-2x Almodo Giovanni	3   dom pot		Giovanni:4
-1x Sennadurek		6   AUS NEC dom		Nagaraja:4
-1x Donatello Giovanni	5   DOM aus pot pre	Giovanni:4
-1x Kay Polerno		4   dom nec pro		Giovanni:5
-1x Thomasso Ghiberti	4   NEC pot		Giovanni:4
-1x Nunzio Giovanni	3   nec pot		Giovanni:4
-1x Stephen Milliner	3   nec pre		Giovanni:5
-1x Cristobal Ghiberti	2   nec			Giovanni:4
-1x Eric Milliner	2   pot			Giovanni:5
+Crypt (12 cards, min=10 max=19 avg=3.58)
+----------------------------------------
+2x Primo Giovanni       4   dom nec pot         Giovanni:4
+2x Almodo Giovanni      3   dom pot             Giovanni:4
+1x Sennadurek           6   AUS NEC dom         Nagaraja:4
+1x Donatello Giovanni   5   DOM aus pot pre     Giovanni:4
+1x Kay Polerno          4   dom nec pro         Giovanni:5
+1x Thomasso Ghiberti    4   NEC pot             Giovanni:4
+1x Nunzio Giovanni      3   nec pot             Giovanni:4
+1x Stephen Milliner     3   nec pre             Giovanni:5
+1x Cristobal Ghiberti   2   nec                 Giovanni:4
+1x Eric Milliner        2   pot                 Giovanni:5
 
 Library (62 cards)
 Master (14; 5 trifle)

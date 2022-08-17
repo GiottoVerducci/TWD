@@ -6,16 +6,16 @@ James Messer
 
 Rumble in the Jungle
 
-Crypt (12 cards, min=17, max=36, avg=7.17)
-------------------------------------------
-3x Kabede Maru	   9   AUS CEL OBF QUI abo pot	magaji	Assamite:5
-3x Massassi	   9   AUS CEL POT QUI obf		Osebo:4
-1x Bakr		   8   CEL OBF QUI dem pro		Assamite:5
-1x Kashan	   7   CEL OBF QUI obt pre	1 vote	Assamite:4
-1x Layla bint-Nadr 5   CEL OBF qui			Assamite:4
-1x Michael diCarlo 5   CEL obf qui			Assamite:4
-1x Idrissa	   4   CEL aus				Osebo:4
-1x Sukainah	   3   aus qui				Assamite:5
+Crypt (12 cards, min=17 max=36 avg=7.17)
+----------------------------------------
+3x Kabede Maru     9   AUS CEL OBF QUI abo pot  magaji  Assamite:5
+3x Massassi        9   AUS CEL POT QUI obf              Osebo:4
+1x Bakr            8   CEL OBF QUI dem pro              Assamite:5
+1x Kashan          7   CEL OBF QUI obt pre      1 vote  Assamite:4
+1x Layla bint-Nadr 5   CEL OBF qui                      Assamite:4
+1x Michael diCarlo 5   CEL obf qui                      Assamite:4
+1x Idrissa         4   CEL aus                          Osebo:4
+1x Sukainah        3   aus qui                          Assamite:5
 
 Library (90 cards)
 Master (18; 1 trifle)

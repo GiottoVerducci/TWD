@@ -19,15 +19,15 @@ already over. Would be better off replacing them with some funk
 
 Anthelios + 3MPA's = Joyyyyyyy
 
-Crypt (12 cards, min=17, max=42, avg=7.75)
-------------------------------------------
-4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
-2x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
-2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Dorian Strack   4   AUS cel					Toreador:1
-1x Isabel de Leon  3   AUS					Toreador:2
-1x Delilah Easton  2   pre					Toreador:1
+Crypt (12 cards, min=17 max=42 avg=7.75)
+----------------------------------------
+4x Anson           8   CEL PRE aus dom          prince          Toreador:1
+2x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
+2x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+1x Dorian Strack   4   AUS cel                                  Toreador:1
+1x Isabel de Leon  3   AUS                                      Toreador:2
+1x Delilah Easton  2   pre                                      Toreador:1
 
 Library (90 cards)
 Master (36)

@@ -9,13 +9,13 @@ Deck Name: NIGHTWISH - Amaranth
 
 Note: Sepastian Meurer's deck with moderate modifications.
 
-Crypt (12 cards, min=29, max=44, avg=9.42)
-------------------------------------------
-4x Malgorzata			9   AUS DOM THA VIC pre		priscus		Tremere antitribu:4
-3x Mistress Fanchon		11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
-3x Sha-Ennu			11  ANI AUS CHI VIC obf tha	regent		Tzimisce:4
-1x Duality			6   AUS VIC ani					Tzimisce:4
-1x Dr. Morrow, The Skindoctor	5   AUS VIC for					Tzimisce:5
+Crypt (12 cards, min=29 max=44 avg=9.42)
+----------------------------------------
+4x Malgorzata                   9   AUS DOM THA VIC pre         priscus         Tremere antitribu:4
+3x Mistress Fanchon             11  AUS CEL DOM OBF THA VIC     inner circle    Tremere:4
+3x Sha-Ennu                     11  ANI AUS CHI VIC obf tha     regent          Tzimisce:4
+1x Duality                      6   AUS VIC ani                                 Tzimisce:4
+1x Dr. Morrow, The Skindoctor   5   AUS VIC for                                 Tzimisce:5
 
 Library (87 cards)
 Master (20; 6 trifle)

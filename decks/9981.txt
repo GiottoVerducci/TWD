@@ -15,12 +15,12 @@ Description: Stolen Police Cruiser => perma-stealth
 Finals seating:
 Fiendish Tongue Tzi G2-3 > Lodin Lawfirm > Anarch Unnamed > Ministry 5th-based SB > Ministry anarchs G2
 
-Crypt (12 cards, min=4, max=40, avg=5.33)
------------------------------------------
-4x unnamed, The		   10  CEL DAI OBF PRE PRO  Baali:6
-4x Anarch Convert	   1   -none-		    Caitiff:ANY
+Crypt (12 cards, min=4 max=40 avg=5.33)
+---------------------------------------
+4x unnamed, The            10  CEL DAI OBF PRE PRO  Baali:6
+4x Anarch Convert          1   -none-               Caitiff:ANY
 2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  Baali:6
-2x Horde, The		   3   dai obf pre	    Baali:6
+2x Horde, The              3   dai obf pre          Baali:6
 
 Library (65 cards)
 Master (19; 1 trifle)

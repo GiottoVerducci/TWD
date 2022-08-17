@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7808
 
 Deck Name: Sisters of Mercy
 
-Crypt (12 cards, min=10, max=26, avg=4.67)
-------------------------------------------
-2x Sayshila		7   FOR MEL PRE dem	 Daughter of Cacophony:4
-2x Evil Jensen		6   FOR PRE mel nec pot	 Daughter of Cacophony:4
-2x Yseult		6   FOR MEL PRE		 Daughter of Cacophony:3
-2x Antoinette Dubois	4   PRE for mel		 Daughter of Cacophony:4
-2x Rosemarie		3   FOR mel		 Daughter of Cacophony:4
-2x Aimee Laroux		2   for pre		 Daughter of Cacophony:4
+Crypt (12 cards, min=10 max=26 avg=4.67)
+----------------------------------------
+2x Sayshila             7   FOR MEL PRE dem      Daughter of Cacophony:4
+2x Evil Jensen          6   FOR PRE mel nec pot  Daughter of Cacophony:4
+2x Yseult               6   FOR MEL PRE          Daughter of Cacophony:3
+2x Antoinette Dubois    4   PRE for mel          Daughter of Cacophony:4
+2x Rosemarie            3   FOR mel              Daughter of Cacophony:4
+2x Aimee Laroux         2   for pre              Daughter of Cacophony:4
 
 Library (90 cards)
 Master (15; 4 trifle)

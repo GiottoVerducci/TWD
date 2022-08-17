@@ -7,14 +7,14 @@ David Tatu
 
 Deck Name: Ugly Alastors
 
-Crypt (12 cards, min=28, max=36, avg=8.17)
-------------------------------------------
-5x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
-2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
-2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
-1x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
-1x Kendrick			7   ANI POT aus obf	 priscus   Nosferatu antitribu:2
-1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+Crypt (12 cards, min=28 max=36 avg=8.17)
+----------------------------------------
+5x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
+2x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
+2x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
+1x Suhailah                     9   FOR OBF pot ser      prince    Ventrue:2
+1x Kendrick                     7   ANI POT aus obf      priscus   Nosferatu antitribu:2
+1x Murat                        7   OBF POT ser          prince    Nosferatu:2
 
 Library (90 cards)
 Master (14)

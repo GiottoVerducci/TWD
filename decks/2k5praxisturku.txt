@@ -14,17 +14,17 @@ Dementation support for ousting. The EMPs are also great at slowing
 down too aggressive predators (or any players, for that matter) and
 defending against rushes and such.
 
-Crypt (12 cards, min=17, max=29, avg=5.67)
-------------------------------------------
-2x Korah			  7   AUS DEM OBF ani	priscus	    Malkavian antitribu:2
-2x General Perfidio Díos	  5   AUS dem obf	bishop	    Malkavian antitribu:3
-2x Roger Farnsworth		  4   OBF aus			    Malkavian antitribu:3
-1x Rodolfo			  8   AUS DEM OBF pro	bishop	    Malkavian antitribu:3
-1x Marie Faucigny		  7   AUS OBF dem tha	archbishop  Malkavian antitribu:3
-1x Dolphin Black		  6   AUS DEM OBF		    Malkavian antitribu:2
-1x Quira, The Bitch Queen	  6   AUS OBF obt tha		    Malkavian antitribu:2
-1x Colonel, The			  5   AUS cel dem obf		    Malkavian antitribu:3
-1x Idalia, Prophet of Guadalajara 4   AUS dem			    Malkavian antitribu:2
+Crypt (12 cards, min=17 max=29 avg=5.67)
+----------------------------------------
+2x Korah                          7   AUS DEM OBF ani   priscus     Malkavian antitribu:2
+2x General Perfidio Díos          5   AUS dem obf       bishop      Malkavian antitribu:3
+2x Roger Farnsworth               4   OBF aus                       Malkavian antitribu:3
+1x Rodolfo                        8   AUS DEM OBF pro   bishop      Malkavian antitribu:3
+1x Marie Faucigny                 7   AUS OBF dem tha   archbishop  Malkavian antitribu:3
+1x Dolphin Black                  6   AUS DEM OBF                   Malkavian antitribu:2
+1x Quira, The Bitch Queen         6   AUS OBF obt tha               Malkavian antitribu:2
+1x Colonel, The                   5   AUS cel dem obf               Malkavian antitribu:3
+1x Idalia, Prophet of Guadalajara 4   AUS dem                       Malkavian antitribu:2
 
 Library (90 cards)
 Master (16)

@@ -5,14 +5,14 @@ June 30th 2006
 24 players
 Ben Swainbank
 
-Crypt (12 cards, min=20, max=32, avg=6.33)
-------------------------------------------
-5x Lithrac			 5   OBF for thn			 Samedi:2
-2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec		 Samedi:2
-2x George Frederick		 6   FOR THN nec obf			 Samedi:2
-1x Baron, The			 9   FOR NEC OBF THN dom	2 votes	 Samedi:2
-1x Genina, The Red Poet		 8   CHI OBF THN aus cel for		 Samedi:3
-1x Reg Driscoll			 8   OBF THN aus for pre		 Samedi:2
+Crypt (12 cards, min=20 max=32 avg=6.33)
+----------------------------------------
+5x Lithrac                       5   OBF for thn                         Samedi:2
+2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec                 Samedi:2
+2x George Frederick              6   FOR THN nec obf                     Samedi:2
+1x Baron, The                    9   FOR NEC OBF THN dom        2 votes  Samedi:2
+1x Genina, The Red Poet          8   CHI OBF THN aus cel for             Samedi:3
+1x Reg Driscoll                  8   OBF THN aus for pre                 Samedi:2
 
 Library (80 cards)
 Master (15)

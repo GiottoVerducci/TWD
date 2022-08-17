@@ -14,17 +14,17 @@ rush and allowed for a high amount of On the Qui Vive and therefore
 Redirections compared to Deflections. The name comes from me when
 people expected the deck to be full of mytherceria cards.
 
-Crypt (12 cards, min=18, max=30, avg=5.92)
-------------------------------------------
-2x Arcadian, The	   8   DOM MYT OBT chi for  	    Kiasyd:5
-2x Isanwayen		   6   DOM MYT OBT	    	    Kiasyd:4
-2x Dame Hollerton	   5   DOM OBT myt	    	    Kiasyd:4
-1x Lord Vauxhall	   7   DOM OBT POT THA	    	    Lasombra:4
-1x Roderick Phillips March 7   DOM MYT cel obt tha  	    Kiasyd:4
-1x Onaedo		   6   DOM OBT aus pot	    	    Lasombra:4
-1x Andrew Emory		   5   OBT aus dom pot	    bishop  Lasombra:4
-1x Ermenegildo, The Rake   5   DOM OBT pot	    	    Lasombra:4
-1x Lucy Markowitz	   3   dom obt		    	    Lasombra:4
+Crypt (12 cards, min=18 max=30 avg=5.92)
+----------------------------------------
+2x Arcadian, The           8   DOM MYT OBT chi for          Kiasyd:5
+2x Isanwayen               6   DOM MYT OBT                  Kiasyd:4
+2x Dame Hollerton          5   DOM OBT myt                  Kiasyd:4
+1x Lord Vauxhall           7   DOM OBT POT THA              Lasombra:4
+1x Roderick Phillips March 7   DOM MYT cel obt tha          Kiasyd:4
+1x Onaedo                  6   DOM OBT aus pot              Lasombra:4
+1x Andrew Emory            5   OBT aus dom pot      bishop  Lasombra:4
+1x Ermenegildo, The Rake   5   DOM OBT pot                  Lasombra:4
+1x Lucy Markowitz          3   dom obt                      Lasombra:4
 
 Library (88 cards)
 Master (13; 7 trifle)

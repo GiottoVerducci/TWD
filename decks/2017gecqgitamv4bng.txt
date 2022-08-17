@@ -15,15 +15,15 @@ It is very hard to force a GW (or sometimes even a VP) with it.
 Wait for your chance, keep people guessing what your deck is able to do (and what not).
 Heart of Nizchetus will help you waiting, Enkil Cog will increase your chances.
 
-Crypt (13 cards, min=6, max=40, avg=5.69)
------------------------------------------
-5x Matasuntha			10  ANI AUS CEL FOR PRO	 Gangrel:5
-3x Anarch Convert		1   -none-		 Caitiff:ANY
-1x Dr. Morrow, The Skindoctor	5   AUS VIC for		 Tzimisce:5
-1x Neighbor John		5   AUS dom for		 Ventrue antitribu:4
-1x Solomon Batanea		5   AUS FOR nec		 Harbinger of Skulls:4
-1x Andre LeRoux			3   aus			 Toreador:5
-1x Monique Kim			3   aus cel		 Toreador antitribu:4
+Crypt (13 cards, min=6 max=40 avg=5.69)
+---------------------------------------
+5x Matasuntha                   10  ANI AUS CEL FOR PRO  Gangrel:5
+3x Anarch Convert               1   -none-               Caitiff:ANY
+1x Dr. Morrow, The Skindoctor   5   AUS VIC for          Tzimisce:5
+1x Neighbor John                5   AUS dom for          Ventrue antitribu:4
+1x Solomon Batanea              5   AUS FOR nec          Harbinger of Skulls:4
+1x Andre LeRoux                 3   aus                  Toreador:5
+1x Monique Kim                  3   aus cel              Toreador antitribu:4
 
 Library (90 cards)
 Master (16; 3 trifle)

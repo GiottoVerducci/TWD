@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9103
 
 Deck Name: Dominate Legionnaires
 
-Crypt (12 cards, min=19, max=44, avg=8.25)
-------------------------------------------
-5x Capuchin, The	11  AUS DOM FOR NEC THA THN		  Harbinger of Skulls:5
-1x Inyanga		9   ANI AUS FOR PRO dom nec	primogen  Gangrel:4
-1x Mordechai Ben-Nun	8   ANI AUS FOR NEC			  Harbinger of Skulls:5
-1x Phagian		8   AUS NEC THA dom for			  Harbinger of Skulls:4
-1x Hecate		6   AUS FOR NEC				  Harbinger of Skulls:5
-1x Jephta Hester	5   DOM FOR aus				  Ventrue antitribu:4
-1x Neighbor John	5   AUS dom for				  Ventrue antitribu:4
-1x Ulrike Rothbart	3   dom for				  Ventrue antitribu:4
+Crypt (12 cards, min=19 max=44 avg=8.25)
+----------------------------------------
+5x Capuchin, The        11  AUS DOM FOR NEC THA THN               Harbinger of Skulls:5
+1x Inyanga              9   ANI AUS FOR PRO dom nec     primogen  Gangrel:4
+1x Mordechai Ben-Nun    8   ANI AUS FOR NEC                       Harbinger of Skulls:5
+1x Phagian              8   AUS NEC THA dom for                   Harbinger of Skulls:4
+1x Hecate               6   AUS FOR NEC                           Harbinger of Skulls:5
+1x Jephta Hester        5   DOM FOR aus                           Ventrue antitribu:4
+1x Neighbor John        5   AUS dom for                           Ventrue antitribu:4
+1x Ulrike Rothbart      3   dom for                               Ventrue antitribu:4
 
 Library (81 cards)
 Master (15; 8 trifle)

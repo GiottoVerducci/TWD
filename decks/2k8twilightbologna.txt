@@ -7,16 +7,16 @@ Stefano Adani
 
 Description: Gargoyles and Camarilla Tremere
 
-Crypt (12 cards, min=10, max=27, avg=4.75)
-------------------------------------------
-3x Ublo-Satha		   7   FOR POT VIS cel	Gargoyle:2
-2x Saxum, Master of Slaves 6   FOR VIS pot pre	Gargoyle:2
-2x Jing Wei		   3   dom tha		Tremere:1
-1x Luma, Stone Beauty	   5   FOR aus pot vis	Gargoyle:2
-1x Sabine Lafitte	   5   aus dom pot tha	Tremere:1
-1x Ignatius		   4   aus dom tha	Tremere:1
-1x Mustafa Rahman	   2   dom		Tremere:2
-1x Roreca Quaid		   2   tha		Tremere:1
+Crypt (12 cards, min=10 max=27 avg=4.75)
+----------------------------------------
+3x Ublo-Satha              7   FOR POT VIS cel  Gargoyle:2
+2x Saxum, Master of Slaves 6   FOR VIS pot pre  Gargoyle:2
+2x Jing Wei                3   dom tha          Tremere:1
+1x Luma, Stone Beauty      5   FOR aus pot vis  Gargoyle:2
+1x Sabine Lafitte          5   aus dom pot tha  Tremere:1
+1x Ignatius                4   aus dom tha      Tremere:1
+1x Mustafa Rahman          2   dom              Tremere:2
+1x Roreca Quaid            2   tha              Tremere:1
 
 Library (90 cards)
 Master (15)

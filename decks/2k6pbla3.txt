@@ -6,15 +6,15 @@ Nat Hammond
 
 Deck Name: Toreador Elders
 
-Crypt (14 cards, min=30, max=42, avg=9)
----------------------------------------
-2x Alexandra		11  ANI AUS CEL PRE dom		inner circle	Toreador:2
-2x Anneke		10  AUS CEL PRE dom		justicar	Toreador:1
-2x François Villon	10  AUS CEL PRE chi obf pot	prince		Toreador:2
-2x Klaus van der Veken	9   CEL PRE aus obf tha		prince		Toreador:2
-2x Anson		8   CEL PRE aus dom		prince		Toreador:1
-2x Marcellus		8   AUS CEL pro			prince		Toreador:2
-2x Tatiana Romanov	7   AUS cel pre			prince		Toreador:1
+Crypt (14 cards, min=30 max=42 avg=9)
+-------------------------------------
+2x Alexandra            11  ANI AUS CEL PRE dom         inner circle    Toreador:2
+2x Anneke               10  AUS CEL PRE dom             justicar        Toreador:1
+2x François Villon      10  AUS CEL PRE chi obf pot     prince          Toreador:2
+2x Klaus van der Veken  9   CEL PRE aus obf tha         prince          Toreador:2
+2x Anson                8   CEL PRE aus dom             prince          Toreador:1
+2x Marcellus            8   AUS CEL pro                 prince          Toreador:2
+2x Tatiana Romanov      7   AUS cel pre                 prince          Toreador:1
 
 Library (90 cards)
 Master (17)

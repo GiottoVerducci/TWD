@@ -9,24 +9,24 @@ Deck Name: Murmurs of Conditional Trust
 
 Description: Presence and dominate weenie storm.
 
-Crypt (23 cards, min=4, max=16, avg=2.09)
------------------------------------------
-2x Bethany Ray		  4   PRE aus	   Toreador:5
-2x Keith Moody		  3   DOM	   Tremere antitribu:4
-2x Dr. Solomon Grey	  2   dom pre	   Caitiff:5
-2x Jackson Asher	  2   dom	   Ventrue:4
-2x César Holfield	  1   obf	   Caitiff:4
-2x Johan Wrede		  1   tha	   Caitiff:4
-2x Walker Grimes	  1   ani	   Caitiff:5
-1x Reverend Adams (ADV)	  4   PRE aus	   Ventrue:4
-1x Robin Withers	  4   dom obf pre  Ventrue:4
-1x Honest Abe		  2   pre	   Brujah:5
-1x Jack Tredegar	  2   pre	   Ventrue:5
-1x Jayne Jonestown	  2   PRE	   Brujah antitribu:4
-1x Justine Chen, Innocent 2   pre	   Toreador antitribu:4
-1x Sean Andrews		  2   cel	   Toreador:4
-1x Basir		  1   qui	   Assamite:4
-1x Donald Cargill	  1   aus	   Caitiff:5
+Crypt (23 cards, min=4 max=16 avg=2.09)
+---------------------------------------
+2x Bethany Ray            4   PRE aus      Toreador:5
+2x Keith Moody            3   DOM          Tremere antitribu:4
+2x Dr. Solomon Grey       2   dom pre      Caitiff:5
+2x Jackson Asher          2   dom          Ventrue:4
+2x César Holfield         1   obf          Caitiff:4
+2x Johan Wrede            1   tha          Caitiff:4
+2x Walker Grimes          1   ani          Caitiff:5
+1x Reverend Adams (ADV)   4   PRE aus      Ventrue:4
+1x Robin Withers          4   dom obf pre  Ventrue:4
+1x Honest Abe             2   pre          Brujah:5
+1x Jack Tredegar          2   pre          Ventrue:5
+1x Jayne Jonestown        2   PRE          Brujah antitribu:4
+1x Justine Chen, Innocent 2   pre          Toreador antitribu:4
+1x Sean Andrews           2   cel          Toreador:4
+1x Basir                  1   qui          Assamite:4
+1x Donald Cargill         1   aus          Caitiff:5
 
 Library (89 cards)
 Master (39; 10 trifle)

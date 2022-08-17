@@ -12,13 +12,13 @@ Based on Marko Lindroos dect (which was based on Erik Torstensson's Punmatra Lut
 + plus more Villen's and Lilith's Blessing's because free Malkavians
 are better than with cost (and V&L is a must in fatty deck's...)
 
-Crypt (12 cards, min=40, max=44, avg=10.33)
--------------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
-3x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
-2x Gravitnir		 10  AUS CEL DEM OBF VIC	priscus		Malkavian antitribu:4
-2x Tryphosa		 10  AUS DEM DOM OBF POT	prince		Malkavian:4
-1x Louhi		 10  ANI AUS DEM OBF THA pro	cardinal	Malkavian antitribu:4
+Crypt (12 cards, min=40 max=44 avg=10.33)
+-----------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
+3x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
+2x Gravitnir             10  AUS CEL DEM OBF VIC        priscus         Malkavian antitribu:4
+2x Tryphosa              10  AUS DEM DOM OBF POT        prince          Malkavian:4
+1x Louhi                 10  ANI AUS DEM OBF THA pro    cardinal        Malkavian antitribu:4
 
 Library (90 cards)
 Master (35; 10 trifle)

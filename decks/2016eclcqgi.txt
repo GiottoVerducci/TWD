@@ -12,20 +12,20 @@ Deck Name: All Tomorrow's Parties
 
 Tweaks on Juha Nyholm's design
 
-Crypt (12 cards, min=10, max=26, avg=4.42)
-------------------------------------------
-1x Beckett (ADV)	  8   ANI FOR PRO cel tha  Gangrel:3
-1x Miguel Santo Domingo	  7   POT PRE cel for	   Brujah antitribu:3
-1x Dominique Santo Paulo  6   AUS CEL pot pre	   Toreador antitribu:4
-1x Creamy Jade		  5   PRE aus cel vic	   Toreador antitribu:3
-1x Cristos Mantigo	  5   aus cel dom obf pre  Toreador antitribu:3
-1x L'Épuisette		  4   aus cel pro	   Toreador antitribu:4
-1x Loonar		  4   PRE cel		   Toreador antitribu:4
-1x Sabrina		  4   aus cel pre	   Toreador antitribu:3
-1x Jonathan Gursel	  3   aus pre		   Toreador antitribu:4
-1x Monique Kim		  3   aus cel		   Toreador antitribu:4
-1x Justine Chen, Innocent 2   pre		   Toreador antitribu:4
-1x Nicholas Chang	  2   aus		   Toreador antitribu:3
+Crypt (12 cards, min=10 max=26 avg=4.42)
+----------------------------------------
+1x Beckett (ADV)          8   ANI FOR PRO cel tha  Gangrel:3
+1x Miguel Santo Domingo   7   POT PRE cel for      Brujah antitribu:3
+1x Dominique Santo Paulo  6   AUS CEL pot pre      Toreador antitribu:4
+1x Creamy Jade            5   PRE aus cel vic      Toreador antitribu:3
+1x Cristos Mantigo        5   aus cel dom obf pre  Toreador antitribu:3
+1x L'Épuisette            4   aus cel pro          Toreador antitribu:4
+1x Loonar                 4   PRE cel              Toreador antitribu:4
+1x Sabrina                4   aus cel pre          Toreador antitribu:3
+1x Jonathan Gursel        3   aus pre              Toreador antitribu:4
+1x Monique Kim            3   aus cel              Toreador antitribu:4
+1x Justine Chen, Innocent 2   pre                  Toreador antitribu:4
+1x Nicholas Chang         2   aus                  Toreador antitribu:3
 
 Library (89 cards)
 Master (27; 4 trifle)

@@ -5,11 +5,11 @@ June 14th 2008
 10 players
 Hugh Angseesing
 
-Crypt (12 cards, min=20, max=28, avg=5.92)
-------------------------------------------
-5x Antonio d'Erlette		5   THA dom for pot		  Tremere antitribu:4
-4x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
-3x Muhsin Samir			6   DOM THA aus pot		  Tremere:4
+Crypt (12 cards, min=20 max=28 avg=5.92)
+----------------------------------------
+5x Antonio d'Erlette            5   THA dom for pot               Tremere antitribu:4
+4x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
+3x Muhsin Samir                 6   DOM THA aus pot               Tremere:4
 
 Library (80 cards)
 Master (19; 4 trifle)

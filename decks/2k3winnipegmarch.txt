@@ -6,16 +6,16 @@ Paul Choquette
 
 The Dunk Tank: ver 2.0
 
-Crypt (12 cards, min=15, max=40, avg=7.25)
-------------------------------------------
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal  Lasombra:2
-3x Tyler				  9   CEL POT PRE dom for obt	primogen  Brujah:3
-1x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	  Ventrue:3
-1x Gerard				  5   aus dom for obt			  Ventrue antitribu:2
-1x Guido Lucciano			  5   OBT dom obf			  Lasombra:2
-1x Ignacio, The Black Priest		  4   dom obt pot			  Lasombra:2
-1x Ramiro				  4   dom obt vic			  Lasombra:2
-1x Aaron Duggan, Cameron's Toady	  2   obt				  Lasombra:2
+Crypt (12 cards, min=15 max=40 avg=7.25)
+----------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal  Lasombra:2
+3x Tyler                                  9   CEL POT PRE dom for obt   primogen  Brujah:3
+1x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince    Ventrue:3
+1x Gerard                                 5   aus dom for obt                     Ventrue antitribu:2
+1x Guido Lucciano                         5   OBT dom obf                         Lasombra:2
+1x Ignacio, The Black Priest              4   dom obt pot                         Lasombra:2
+1x Ramiro                                 4   dom obt vic                         Lasombra:2
+1x Aaron Duggan, Cameron's Toady          2   obt                                 Lasombra:2
 
 Library (77 cards)
 Master (10)

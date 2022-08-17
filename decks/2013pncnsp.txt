@@ -9,16 +9,16 @@ Jakub Baranowski
 
 Deck Name: Goratrix by Boboosh
 
-Crypt (12 cards, min=17, max=40, avg=6.75)
-------------------------------------------
-4x Goratrix			   10  ANI AUS DOM THA vic  Tremere antitribu:2
-2x Devin Bisley			   5   ANI AUS vic	    Tzimisce:2
-1x Anton			   8   ANI AUS cel obf vic  Tzimisce:2
-1x Caliban			   6   ANI AUS VIC	    Tzimisce:2
-1x Hannigan			   5   AUS THA dom	    Tremere antitribu:2
-1x Idalia, Prophet of Guadalajara  4   AUS dem		    Malkavian antitribu:2
-1x Remilliard, Devout Crusader	   4   AUS pre		    Toreador antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha		    Tremere antitribu:2
+Crypt (12 cards, min=17 max=40 avg=6.75)
+----------------------------------------
+4x Goratrix                        10  ANI AUS DOM THA vic  Tremere antitribu:2
+2x Devin Bisley                    5   ANI AUS vic          Tzimisce:2
+1x Anton                           8   ANI AUS cel obf vic  Tzimisce:2
+1x Caliban                         6   ANI AUS VIC          Tzimisce:2
+1x Hannigan                        5   AUS THA dom          Tremere antitribu:2
+1x Idalia, Prophet of Guadalajara  4   AUS dem              Malkavian antitribu:2
+1x Remilliard, Devout Crusader     4   AUS pre              Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha              Tremere antitribu:2
 
 Library (90 cards)
 Master (19; 9 trifle)

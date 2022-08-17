@@ -7,16 +7,16 @@ Otso Saariluoma
 
 -- 2VP in final
 
-Crypt (12 cards, min=6, max=22, avg=3.75)
------------------------------------------
-2x Yseult			  6   FOR MEL PRE  Daughter of Cacophony:3
-2x Angela Preston		  5   MEL PRE for  Daughter of Cacophony:2
-2x Rose, The			  5   PRE VIC aus  Tzimisce:3
-2x Tupdog			  1   POT VIS	   Gargoyle:3
-1x Delilah Monroe		  4   MEL for pre  Daughter of Cacophony:2
-1x Céleste, The Voice of a Secret 3   mel pre	   Daughter of Cacophony:2
-1x Horatio			  2   vic	   Tzimisce:2
-1x Piotr Andreikov		  2   aus	   Tzimisce:3
+Crypt (12 cards, min=6 max=22 avg=3.75)
+---------------------------------------
+2x Yseult                         6   FOR MEL PRE  Daughter of Cacophony:3
+2x Angela Preston                 5   MEL PRE for  Daughter of Cacophony:2
+2x Rose, The                      5   PRE VIC aus  Tzimisce:3
+2x Tupdog                         1   POT VIS      Gargoyle:3
+1x Delilah Monroe                 4   MEL for pre  Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret 3   mel pre      Daughter of Cacophony:2
+1x Horatio                        2   vic          Tzimisce:2
+1x Piotr Andreikov                2   aus          Tzimisce:3
 
 Library (81 cards)
 Master (17; 2 trifle)

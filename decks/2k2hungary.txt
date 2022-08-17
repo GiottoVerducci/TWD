@@ -4,20 +4,20 @@ May 25th 2002
 40 players
 Martin Weinmayer
 
-Crypt (12 cards, min=10, max=30, avg=4.83)
-------------------------------------------
-1x Goratrix			    10	ANI AUS DOM THA vic	Tremere antitribu:2
-1x Rebekka, Chantry Elder of Munich 8	AUS PRE THA pot		Tremere:2
-1x Muaziz, Archon of Ulugh Beg	    7	THA aus dom for		Tremere:2
-1x Aisling Sturbridge		    5	AUS THA dom		Tremere:2
-1x Hannigan			    5	AUS THA dom		Tremere antitribu:2
-1x Merrill Molitor		    5	THA aus dom		Tremere:1
-1x Ignatius			    4	aus dom tha		Tremere:1
-1x Richard Tauber, Ayelea's Puppet  4	AUS tha			Tremere antitribu:2
-1x Blythe Candeleria		    3	THA aus			Tremere:2
-1x Dr. John Casey		    3	aus tha			Tremere:1
-1x Heinrick Schlempt		    2	tha			Tremere antitribu:2
-1x Roreca Quaid			    2	tha			Tremere:1
+Crypt (12 cards, min=10 max=30 avg=4.83)
+----------------------------------------
+1x Goratrix                         10  ANI AUS DOM THA vic     Tremere antitribu:2
+1x Rebekka, Chantry Elder of Munich 8   AUS PRE THA pot         Tremere:2
+1x Muaziz, Archon of Ulugh Beg      7   THA aus dom for         Tremere:2
+1x Aisling Sturbridge               5   AUS THA dom             Tremere:2
+1x Hannigan                         5   AUS THA dom             Tremere antitribu:2
+1x Merrill Molitor                  5   THA aus dom             Tremere:1
+1x Ignatius                         4   aus dom tha             Tremere:1
+1x Richard Tauber, Ayelea's Puppet  4   AUS tha                 Tremere antitribu:2
+1x Blythe Candeleria                3   THA aus                 Tremere:2
+1x Dr. John Casey                   3   aus tha                 Tremere:1
+1x Heinrick Schlempt                2   tha                     Tremere antitribu:2
+1x Roreca Quaid                     2   tha                     Tremere:1
 
 Library (66 cards)
 Master (18)

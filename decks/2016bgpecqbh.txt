@@ -9,13 +9,13 @@ Deck Name: Unmada Undele Lutz
 
 Description: A big thanks to Jorge Delgado for the huge tweaks in this deck.
 
-Crypt (12 cards, min=36, max=44, avg=9.92)
-------------------------------------------
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
-3x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
-3x Undele		 9   CEL FOR obf pre ser	magaji		Ishtarri:5
-2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
-1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+Crypt (12 cards, min=36 max=44 avg=9.92)
+----------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
+3x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
+3x Undele                9   CEL FOR obf pre ser        magaji          Ishtarri:5
+2x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
+1x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
 
 Library (65 cards)
 Master (21; 7 trifle)

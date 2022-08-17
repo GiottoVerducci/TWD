@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/8968
 
 Deck Name: Cailean's & Arika's Politics
 
-Crypt (12 cards, min=30, max=42, avg=9.25)
-------------------------------------------
-5x Cailean	    10	ANI OBF POT PRE dom	 archbishop	Nosferatu antitribu:2
-2x Arika	    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
-2x Sarrasine (ADV)  8	OBF PRE SER aus nec	 prince		Follower of Set:2
-1x Ellison Humboldt 9	ANI OBF POT PRE pro	 primogen	Nosferatu:3
-1x Korah	    7	AUS DEM OBF ani		 priscus	Malkavian antitribu:2
-1x Marie Faucigny   7	AUS OBF dem tha		 archbishop	Malkavian antitribu:3
+Crypt (12 cards, min=30 max=42 avg=9.25)
+----------------------------------------
+5x Cailean          10  ANI OBF POT PRE dom      archbishop     Nosferatu antitribu:2
+2x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
+2x Sarrasine (ADV)  8   OBF PRE SER aus nec      prince         Follower of Set:2
+1x Ellison Humboldt 9   ANI OBF POT PRE pro      primogen       Nosferatu:3
+1x Korah            7   AUS DEM OBF ani          priscus        Malkavian antitribu:2
+1x Marie Faucigny   7   AUS OBF dem tha          archbishop     Malkavian antitribu:3
 
 Library (90 cards)
 Master (13)

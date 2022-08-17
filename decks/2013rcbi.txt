@@ -7,20 +7,20 @@ Giulio Roffi
 
 Deck Name: Caitiff for President
 
-Crypt (12 cards, min=4, max=5, avg=1.08)
-----------------------------------------
-1x Dr. Solomon Grey	2   dom pre	Caitiff:5
-1x Afifa, The Herald	1   dom		Caitiff:4
-1x Alex Wilkins		1   cel		Caitiff:5
-1x Anarch Convert	1   -none-	Caitiff:ANY
-1x Andy			1   for		Caitiff:4
-1x César Holfield	1   obf		Caitiff:4
-1x Dirk			1   pre		Caitiff:4
-1x Donald Cargill	1   aus		Caitiff:5
-1x Freddy Gage		1   pot		Caitiff:5
-1x Iris Bennett		1   pro		Caitiff:5
-1x Johan Wrede		1   tha		Caitiff:4
-1x Walker Grimes	1   ani		Caitiff:5
+Crypt (12 cards, min=4 max=5 avg=1.08)
+--------------------------------------
+1x Dr. Solomon Grey     2   dom pre     Caitiff:5
+1x Afifa, The Herald    1   dom         Caitiff:4
+1x Alex Wilkins         1   cel         Caitiff:5
+1x Anarch Convert       1   -none-      Caitiff:ANY
+1x Andy                 1   for         Caitiff:4
+1x César Holfield       1   obf         Caitiff:4
+1x Dirk                 1   pre         Caitiff:4
+1x Donald Cargill       1   aus         Caitiff:5
+1x Freddy Gage          1   pot         Caitiff:5
+1x Iris Bennett         1   pro         Caitiff:5
+1x Johan Wrede          1   tha         Caitiff:4
+1x Walker Grimes        1   ani         Caitiff:5
 
 Library (60 cards)
 Master (15; 2 trifle)

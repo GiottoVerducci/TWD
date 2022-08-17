@@ -7,14 +7,14 @@ Juha Nyholm
 
 Deck Name: Thumbs up
 
-Crypt (12 cards, min=26, max=39, avg=8.33)
-------------------------------------------
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
-3x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
-2x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
-2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
-1x Dr. Julius Sutphen			  5   POT dom obt		bishop	    Lasombra:3
-1x Dr. Julius Sutphen (ADV)		  5   POT dom obt			    Lasombra:3
+Crypt (12 cards, min=26 max=39 avg=8.33)
+----------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
+3x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
+2x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
+2x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
+1x Dr. Julius Sutphen                     5   POT dom obt               bishop      Lasombra:3
+1x Dr. Julius Sutphen (ADV)               5   POT dom obt                           Lasombra:3
 
 Library (90 cards)
 Master (15)

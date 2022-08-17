@@ -9,20 +9,20 @@ Albert Dulcet Bellmonte
 
 Deck Name: weenie obfuscate vote
 
-Crypt (12 cards, min=6, max=13, avg=2.58)
------------------------------------------
-1x Agrippina			    4	OBF pot	 Nosferatu:1
-1x Dollface			    3	aus obf	 Malkavian:1
-1x Duck				    3	obf pot	 Nosferatu:1
-1x Max Lowell			    3	cel obf	 Gangrel antitribu:2
-1x Regilio, The Seeker of Akhenaten 3	aus obf	 Nosferatu:2
-1x Shannon Price, The Whisperer	    3	ani obf	 Nosferatu antitribu:2
-1x Watenda			    3	obf	 Malkavian:2
-1x Yorik			    3	dem obf	 Malkavian antitribu:2
-1x Dimple			    2	obf	 Nosferatu:1
-1x Normal			    2	obf	 Malkavian:1
-1x Basil			    1	obf	 Pander:2
-1x Smudge the Ignored		    1	-none-	 Caitiff:1
+Crypt (12 cards, min=6 max=13 avg=2.58)
+---------------------------------------
+1x Agrippina                        4   OBF pot  Nosferatu:1
+1x Dollface                         3   aus obf  Malkavian:1
+1x Duck                             3   obf pot  Nosferatu:1
+1x Max Lowell                       3   cel obf  Gangrel antitribu:2
+1x Regilio, The Seeker of Akhenaten 3   aus obf  Nosferatu:2
+1x Shannon Price, The Whisperer     3   ani obf  Nosferatu antitribu:2
+1x Watenda                          3   obf      Malkavian:2
+1x Yorik                            3   dem obf  Malkavian antitribu:2
+1x Dimple                           2   obf      Nosferatu:1
+1x Normal                           2   obf      Malkavian:1
+1x Basil                            1   obf      Pander:2
+1x Smudge the Ignored               1   -none-   Caitiff:1
 
 Library (77 cards)
 Master (14)

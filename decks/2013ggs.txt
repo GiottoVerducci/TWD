@@ -7,16 +7,16 @@ Stefan Karlsson
 
 Deck Name: Ban Giant's Blood
 
-Crypt (12 cards, min=35, max=40, avg=9.42)
-------------------------------------------
-5x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
-1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
-1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
-1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
-1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
-1x Marconius				  9   DOM MYT OBT pot		archbishop  Kiasyd:2
-1x Quentin				  9   AUS DOM FOR cel obt	bishop	    Ventrue antitribu:2
-1x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+Crypt (12 cards, min=35 max=40 avg=9.42)
+----------------------------------------
+5x Angelica, The Canonicus                10  DOM OBT POT cel obf       cardinal    Lasombra:2
+1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
+1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
+1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
+1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
+1x Marconius                              9   DOM MYT OBT pot           archbishop  Kiasyd:2
+1x Quentin                                9   AUS DOM FOR cel obt       bishop      Ventrue antitribu:2
+1x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
 
 Library (76 cards)
 Master (32; 7 trifle)

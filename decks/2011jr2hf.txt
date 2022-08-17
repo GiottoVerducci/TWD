@@ -9,15 +9,15 @@ Timo Rekola
 
 Deck Name: asguresh.can.ver.1.1
 
-Crypt (12 cards, min=8, max=24, avg=4.5)
-----------------------------------------
-4x Asguresh		 6   CEL NEC aus	Nagaraja:5
-2x Andre LeRoux		 3   aus		Toreador:5
-2x Anarch Convert	 1   -none-		Caitiff:ANY
-1x Dominique Santo Paulo 6   AUS CEL pot pre	Toreador antitribu:4
-1x Homa			 6   AUS CEL POT	Osebo:4
-1x Lindsay Yates	 5   CEL aus for pre	Toreador:5
-1x Titi Camara		 5   AUS CEL pot	Osebo:5
+Crypt (12 cards, min=8 max=24 avg=4.5)
+--------------------------------------
+4x Asguresh              6   CEL NEC aus        Nagaraja:5
+2x Andre LeRoux          3   aus                Toreador:5
+2x Anarch Convert        1   -none-             Caitiff:ANY
+1x Dominique Santo Paulo 6   AUS CEL pot pre    Toreador antitribu:4
+1x Homa                  6   AUS CEL POT        Osebo:4
+1x Lindsay Yates         5   CEL aus for pre    Toreador:5
+1x Titi Camara           5   AUS CEL pot        Osebo:5
 
 Library (90 cards)
 Master (18; 7 trifle)

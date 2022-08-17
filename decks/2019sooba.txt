@@ -11,14 +11,14 @@ Created by: Steven Balwin
 
 Winning Deck List:
 
-Crypt (12 cards, min=13, max=20, avg=4.17)
-------------------------------------------
-5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-2x Janine		4   aus dom tha		Tremere antitribu:4
-2x Mosfair		4   cel dom tha		Tremere antitribu:4
-1x Ember Wright		3   aus dom		Tremere antitribu:3
-1x Keith Moody		3   DOM			Tremere antitribu:4
-1x Saiz			3   aus dom		Tremere antitribu:3
+Crypt (12 cards, min=13 max=20 avg=4.17)
+----------------------------------------
+5x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+2x Janine               4   aus dom tha         Tremere antitribu:4
+2x Mosfair              4   cel dom tha         Tremere antitribu:4
+1x Ember Wright         3   aus dom             Tremere antitribu:3
+1x Keith Moody          3   DOM                 Tremere antitribu:4
+1x Saiz                 3   aus dom             Tremere antitribu:3
 
 Library (90 cards)
 Master (9)

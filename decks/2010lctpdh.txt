@@ -9,17 +9,17 @@ Deck Name: Temporatrix
 
 Description: Goratrix+ Pocket out of time = Endless combat
 
-Crypt (12 cards, min=8, max=40, avg=5.08)
------------------------------------------
-4x Goratrix			   10  ANI AUS DOM THA vic  Tremere antitribu:2
-1x Gloria Giovanni		   4   DOM nec		    Giovanni:2
-1x Brooke			   3   dom tha		    Tremere antitribu:2
-1x Lia Milliner			   3   dom nec		    Giovanni:3
-1x Saiz				   3   aus dom		    Tremere antitribu:3
-1x Marciana Giovanni, Investigator 2   dom		    Giovanni:2
-1x Mustafa Rahman		   2   dom		    Tremere:2
-1x Ohanna			   2   dom		    Malkavian:2
-1x Samson			   2   dom		    Ventrue antitribu:2
+Crypt (12 cards, min=8 max=40 avg=5.08)
+---------------------------------------
+4x Goratrix                        10  ANI AUS DOM THA vic  Tremere antitribu:2
+1x Gloria Giovanni                 4   DOM nec              Giovanni:2
+1x Brooke                          3   dom tha              Tremere antitribu:2
+1x Lia Milliner                    3   dom nec              Giovanni:3
+1x Saiz                            3   aus dom              Tremere antitribu:3
+1x Marciana Giovanni, Investigator 2   dom                  Giovanni:2
+1x Mustafa Rahman                  2   dom                  Tremere:2
+1x Ohanna                          2   dom                  Malkavian:2
+1x Samson                          2   dom                  Ventrue antitribu:2
 
 Library (90 cards)
 Master (22; 8 trifle)

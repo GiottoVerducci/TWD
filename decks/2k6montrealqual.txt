@@ -6,14 +6,14 @@ Marc Desaulniers
 
 Deck Name: Wings and Shovels
 
-Crypt (24 cards, min=4, max=17, avg=1.71)
------------------------------------------
-18x Tupdog	 1    POT VIS	   Gargoyle:3
+Crypt (24 cards, min=4 max=17 avg=1.71)
+---------------------------------------
+18x Tupdog       1    POT VIS      Gargoyle:3
 2x  Kurt Strauss 5    DOM aus tha  Tremere antitribu:2
-1x  Thelonius	 4    aus dom tha  Tremere antitribu:2
-1x  Brooke	 3    dom tha	   Tremere antitribu:2
-1x  Ember Wright 3    aus dom	   Tremere antitribu:3
-1x  Saiz	 3    aus dom	   Tremere antitribu:3
+1x  Thelonius    4    aus dom tha  Tremere antitribu:2
+1x  Brooke       3    dom tha      Tremere antitribu:2
+1x  Ember Wright 3    aus dom      Tremere antitribu:3
+1x  Saiz         3    aus dom      Tremere antitribu:3
 
 Library (90 cards)
 Master (14)

@@ -13,13 +13,13 @@ life easier! =)
 
 The rack + eternal vigilance wins the endgame every time!
 
-Crypt (12 cards, min=22, max=35, avg=7)
----------------------------------------
-3x Marconius		9   DOM MYT OBT pot	 archbishop	Kiasyd:2
-3x Julia Prima		7   DOM OBT aus myt	 		Kiasyd:2
-3x Kassiym Malikhair	6   MYT OBT dom for	 		Kiasyd:2
-2x Béatrice L'Angou	5   MYT aus dom nec	 		Kiasyd:2
-1x Bartholomew		8   AUS MYT NEC dom obt	 		Kiasyd:2
+Crypt (12 cards, min=22 max=35 avg=7)
+-------------------------------------
+3x Marconius            9   DOM MYT OBT pot      archbishop     Kiasyd:2
+3x Julia Prima          7   DOM OBT aus myt                     Kiasyd:2
+3x Kassiym Malikhair    6   MYT OBT dom for                     Kiasyd:2
+2x Béatrice L'Angou     5   MYT aus dom nec                     Kiasyd:2
+1x Bartholomew          8   AUS MYT NEC dom obt                 Kiasyd:2
 
 Library (90 cards)
 Master (17)

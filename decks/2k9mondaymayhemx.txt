@@ -9,15 +9,15 @@ Deck Name: Hannibal X
 Description: Deranges for lockdown and title removal. Enkil Cog to get
 three actions out of Hannibal once around the table.
 
-Crypt (12 cards, min=20, max=40, avg=7.5)
------------------------------------------
-4x Hannibal		  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
-1x Hannibal (ADV)	  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
-2x General Perfidio Díos  5   AUS dem obf	   bishop	Malkavian antitribu:3
-2x Victoria		  5   AUS cel obf	   		Malkavian:2
-1x Korah		  7   AUS DEM OBF ani	   priscus	Malkavian antitribu:2
-1x Marie Faucigny	  7   AUS OBF dem tha	   archbishop	Malkavian antitribu:3
-1x Quira, The Bitch Queen 6   AUS OBF obt tha	   		Malkavian antitribu:2
+Crypt (12 cards, min=20 max=40 avg=7.5)
+---------------------------------------
+4x Hannibal               10  AUS DEM OBF cel dom  cardinal     Malkavian antitribu:2
+1x Hannibal (ADV)         10  AUS DEM OBF cel dom  cardinal     Malkavian antitribu:2
+2x General Perfidio Díos  5   AUS dem obf          bishop       Malkavian antitribu:3
+2x Victoria               5   AUS cel obf                       Malkavian:2
+1x Korah                  7   AUS DEM OBF ani      priscus      Malkavian antitribu:2
+1x Marie Faucigny         7   AUS OBF dem tha      archbishop   Malkavian antitribu:3
+1x Quira, The Bitch Queen 6   AUS OBF obt tha                   Malkavian antitribu:2
 
 Library (81 cards)
 Master (19; 3 trifle)

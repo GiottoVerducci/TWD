@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/9015
 
 Deck Name: Nosferatu! JR
 
-Crypt (12 cards, min=25, max=38, avg=7.75)
-------------------------------------------
-3x Beast, The Leatherface of Detroit	7   OBF POT ani cel	 		Nosferatu antitribu:2
-2x Cailean				10  ANI OBF POT PRE dom	 archbishop	Nosferatu antitribu:2
-1x Aeron				9   ANI OBF POT aus pro	 archbishop	Nosferatu antitribu:3
-1x Julio Martinez			9   ANI DOM OBF POT nec	 bishop		Nosferatu antitribu:3
-1x Calebos				8   ANI OBF POT cel	 bishop		Nosferatu antitribu:2
-1x Mateusz Gryzbowsky			8   ANI OBF POT		 		Nosferatu antitribu:3
-1x Kendrick				7   ANI POT aus obf	 priscus	Nosferatu antitribu:2
-1x Ox, Viceroy of the Hollows		6   ANI OBF POT		 		Nosferatu antitribu:2
-1x Nigel the Shunned			5   ANI POT obf		 		Nosferatu antitribu:2
+Crypt (12 cards, min=25 max=38 avg=7.75)
+----------------------------------------
+3x Beast, The Leatherface of Detroit    7   OBF POT ani cel                     Nosferatu antitribu:2
+2x Cailean                              10  ANI OBF POT PRE dom  archbishop     Nosferatu antitribu:2
+1x Aeron                                9   ANI OBF POT aus pro  archbishop     Nosferatu antitribu:3
+1x Julio Martinez                       9   ANI DOM OBF POT nec  bishop         Nosferatu antitribu:3
+1x Calebos                              8   ANI OBF POT cel      bishop         Nosferatu antitribu:2
+1x Mateusz Gryzbowsky                   8   ANI OBF POT                         Nosferatu antitribu:3
+1x Kendrick                             7   ANI POT aus obf      priscus        Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows           6   ANI OBF POT                         Nosferatu antitribu:2
+1x Nigel the Shunned                    5   ANI POT obf                         Nosferatu antitribu:2
 
 Library (90 cards)
 Master (21; 7 trifle)

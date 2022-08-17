@@ -5,17 +5,17 @@ Hugues Bertrand
 
 NO NEED FOR DOMINATE
 
-Crypt (12 cards, min=23, max=35, avg=7.33)
-------------------------------------------
-2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
-2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
-2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
-1x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
-1x Emerson Bridges		8   DOM FOR PRE pot	 prince	   Ventrue:1
-1x Chester DuBois		7   ANI POT for obf	 primogen  Nosferatu:1
-1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
-1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
-1x Jimmy Dunn			4   CEL POT for		 	   Pander:2
+Crypt (12 cards, min=23 max=35 avg=7.33)
+----------------------------------------
+2x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
+2x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
+2x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
+1x Suhailah                     9   FOR OBF pot ser      prince    Ventrue:2
+1x Emerson Bridges              8   DOM FOR PRE pot      prince    Ventrue:1
+1x Chester DuBois               7   ANI POT for obf      primogen  Nosferatu:1
+1x Murat                        7   OBF POT ser          prince    Nosferatu:2
+1x Calebros, The Martyr         5   ANI obf pot          prince    Nosferatu:2
+1x Jimmy Dunn                   4   CEL POT for                    Pander:2
 
 Library (90 cards)
 Master (12)

@@ -6,15 +6,15 @@ May 31st 2015
 Jari Mäkikyrö
 https://www.vekn.net/event-calendar/event/8112
 
-Crypt (12 cards, min=9, max=26, avg=4.5)
-----------------------------------------
-3x Muricia	  7   ANI PRE SPI	Ahrimane:4
-3x Effie Lowery	  5   ANI SPI obf	Ahrimane:4
-2x Anarch Convert 1   -none-		Caitiff:ANY
-1x Sahana	  5   ANI pre pro spi	Ahrimane:4
-1x Beetleman	  4   ANI obf		Nosferatu:4
-1x Bobby Lemon	  4   ANI pro		Gangrel:3
-1x Stick	  3   ANI		Nosferatu antitribu:4
+Crypt (12 cards, min=9 max=26 avg=4.5)
+--------------------------------------
+3x Muricia        7   ANI PRE SPI       Ahrimane:4
+3x Effie Lowery   5   ANI SPI obf       Ahrimane:4
+2x Anarch Convert 1   -none-            Caitiff:ANY
+1x Sahana         5   ANI pre pro spi   Ahrimane:4
+1x Beetleman      4   ANI obf           Nosferatu:4
+1x Bobby Lemon    4   ANI pro           Gangrel:3
+1x Stick          3   ANI               Nosferatu antitribu:4
 
 Library (90 cards)
 Master (10; 1 trifle)

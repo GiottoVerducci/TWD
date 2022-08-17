@@ -13,14 +13,14 @@ last minute so it was missing a lot of cards I intended to
 have like Winthrop, and some other equipment, but it's still
 a silly strong deck.
 
-Crypt (12 cards, min=4, max=36, avg=5)
---------------------------------------
-6x Una			9   ANI FOR PRE PRO dem	 archbishop	Gangrel antitribu:3
-2x Anarch Convert	1   -none-		 		Caitiff:ANY
-1x Antoinette DuChamp	1   cel pre		 		Caitiff:2
-1x Franciscus		1   aus			 		Caitiff:2
-1x Nedal, The Careless	1   cel nec		 		Caitiff:3
-1x Sandra White		1   -none-		 		Caitiff:3
+Crypt (12 cards, min=4 max=36 avg=5)
+------------------------------------
+6x Una                  9   ANI FOR PRE PRO dem  archbishop     Gangrel antitribu:3
+2x Anarch Convert       1   -none-                              Caitiff:ANY
+1x Antoinette DuChamp   1   cel pre                             Caitiff:2
+1x Franciscus           1   aus                                 Caitiff:2
+1x Nedal, The Careless  1   cel nec                             Caitiff:3
+1x Sandra White         1   -none-                              Caitiff:3
 
 Library (81 cards)
 Master (5; 1 trifle)

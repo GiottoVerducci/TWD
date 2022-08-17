@@ -8,15 +8,15 @@ Deck Name: Aching Beauty
 
 Conor's winning deck (formatted by Elder Library Deck Builder):
 
-Crypt (12 cards, min=14, max=34, avg=6)
----------------------------------------
-3x Anson	   8   CEL PRE aus dom		prince	Toreador:1
-2x Tatiana Romanov 7   AUS cel pre		prince	Toreador:1
-2x Mariana Gilbert 4   PRE cel				Toreador:1
-2x Isabel de Leon  3   AUS				Toreador:2
-1x François Villon 10  AUS CEL PRE chi obf pot	prince	Toreador:2
-1x Felicia Mostrom 5   AUS CEL pre			Toreador:1
-1x Ramiel DuPre	   5   PRE aus cel dom			Toreador:1
+Crypt (12 cards, min=14 max=34 avg=6)
+-------------------------------------
+3x Anson           8   CEL PRE aus dom          prince  Toreador:1
+2x Tatiana Romanov 7   AUS cel pre              prince  Toreador:1
+2x Mariana Gilbert 4   PRE cel                          Toreador:1
+2x Isabel de Leon  3   AUS                              Toreador:2
+1x François Villon 10  AUS CEL PRE chi obf pot  prince  Toreador:2
+1x Felicia Mostrom 5   AUS CEL pre                      Toreador:1
+1x Ramiel DuPre    5   PRE aus cel dom                  Toreador:1
 
 Library (72 cards)
 Master (21)

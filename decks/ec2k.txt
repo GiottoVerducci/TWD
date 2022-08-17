@@ -3,17 +3,17 @@ Vienna, Austria
 November 26th 2000
 Tomas Vick
 
-Crypt (13 cards, min=16, max=37, avg=6.69)
-------------------------------------------
-3x Lucian		10  AUS DOM OBF cel tha	 justicar  Malkavian:1
-2x Gilbert Duane	7   AUS DOM OBF		 prince	   Malkavian:1
-2x Mariel, Lady Thunder	7   DOM OBF aus tha	 	   Malkavian:1
-1x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
-1x Ozmo			6   AUS dom obf		 	   Malkavian:1
-1x Didi Meyers		5   DOM aus cel obf	 	   Malkavian:1
-1x Zebulon		5   OBF aus dom pro	 	   Malkavian:1
-1x Aleph		4   AUS dom		 	   Malkavian:1
-1x Ohanna		2   dom			 	   Malkavian:2
+Crypt (13 cards, min=16 max=37 avg=6.69)
+----------------------------------------
+3x Lucian               10  AUS DOM OBF cel tha  justicar  Malkavian:1
+2x Gilbert Duane        7   AUS DOM OBF          prince    Malkavian:1
+2x Mariel, Lady Thunder 7   DOM OBF aus tha                Malkavian:1
+1x Greger Anderssen     7   AUS OBF dom pro      prince    Malkavian:2
+1x Ozmo                 6   AUS dom obf                    Malkavian:1
+1x Didi Meyers          5   DOM aus cel obf                Malkavian:1
+1x Zebulon              5   OBF aus dom pro                Malkavian:1
+1x Aleph                4   AUS dom                        Malkavian:1
+1x Ohanna               2   dom                            Malkavian:2
 
 Library (90 cards)
 Master (23)

@@ -11,17 +11,17 @@ the majority of the artwork contained herein. Oh, and I mustn't
 forget the fact that this monster _is_ ('based' on) a work by
 Peter 'HULK SMASH!' Bakija. May I make Peter proud!
 
-Crypt (12 cards, min=7, max=22, avg=3.58)
------------------------------------------
-2x Olivia				5   OBF POT vic		bishop	Nosferatu antitribu:2
-2x Agatha				4   POT obf			Nosferatu antitribu:2
-2x Duck					3   obf pot			Nosferatu:1
-1x Beast, The Leatherface of Detroit	7   OBF POT ani cel		Nosferatu antitribu:2
-1x Nigel the Shunned			5   ANI POT obf			Nosferatu antitribu:2
-1x KoKo					2   pot				Nosferatu:1
-1x Lupo					2   pot				Brujah:1
-1x Paul DiCarlo, The Alpha		2   pot				Giovanni:2
-1x Hasina Kesi				1   pot				Caitiff:1
+Crypt (12 cards, min=7 max=22 avg=3.58)
+---------------------------------------
+2x Olivia                               5   OBF POT vic         bishop  Nosferatu antitribu:2
+2x Agatha                               4   POT obf                     Nosferatu antitribu:2
+2x Duck                                 3   obf pot                     Nosferatu:1
+1x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
+1x Nigel the Shunned                    5   ANI POT obf                 Nosferatu antitribu:2
+1x KoKo                                 2   pot                         Nosferatu:1
+1x Lupo                                 2   pot                         Brujah:1
+1x Paul DiCarlo, The Alpha              2   pot                         Giovanni:2
+1x Hasina Kesi                          1   pot                         Caitiff:1
 
 Library (90 cards)
 Master (14)

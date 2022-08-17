@@ -7,13 +7,13 @@ Leonardo Munoz
 
 Deck Name: Locos en la Corte
 
-Crypt (12 cards, min=25, max=44, avg=8.75)
-------------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
-3x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
-2x Alicia Barrows	 9   AUS DEM OBF POT PRE  archbishop	Malkavian antitribu:4
-2x Aristotle de Laurent	 9   AUS DEM OBF PRE pot  		Malkavian antitribu:3
-1x Fabrizia Contreraz	 4   dem pot		  archbishop	Malkavian antitribu:4
+Crypt (12 cards, min=25 max=44 avg=8.75)
+----------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
+2x Alicia Barrows        9   AUS DEM OBF POT PRE  archbishop    Malkavian antitribu:4
+2x Aristotle de Laurent  9   AUS DEM OBF PRE pot                Malkavian antitribu:3
+1x Fabrizia Contreraz    4   dem pot              archbishop    Malkavian antitribu:4
 
 Library (90 cards)
 Master (17; 4 trifle)

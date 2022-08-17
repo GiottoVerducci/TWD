@@ -7,15 +7,15 @@ Marek Strzelczyk
 
 Deck Name: Malgorzata
 
-Crypt (16 cards, min=33, max=41, avg=9.13)
-------------------------------------------
-6x Malgorzata		 9   AUS DOM THA VIC pre	priscus		Tremere antitribu:4
-3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
-2x Gerald Windham	 9   AUS DOM FOR THA				Tremere:5
-2x Paul Cordwood	 8   AUS DOM THA obf pre	bishop		Tremere antitribu:4
-1x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
-1x Dr. John Dee		 9   ANI AUS DOM THA chi	prince		Tremere:4
-1x Troius		 8   AUS DOM THA cel		prince		Tremere:4
+Crypt (16 cards, min=33 max=41 avg=9.13)
+----------------------------------------
+6x Malgorzata            9   AUS DOM THA VIC pre        priscus         Tremere antitribu:4
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
+2x Gerald Windham        9   AUS DOM FOR THA                            Tremere:5
+2x Paul Cordwood         8   AUS DOM THA obf pre        bishop          Tremere antitribu:4
+1x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
+1x Dr. John Dee          9   ANI AUS DOM THA chi        prince          Tremere:4
+1x Troius                8   AUS DOM THA cel            prince          Tremere:4
 
 Library (90 cards)
 Master (27; 6 trifle)

@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/8319
 
 Deck Name: Água mole em pedra dura, quem avisa amigo é.
 
-Crypt (12 cards, min=23, max=41, avg=8.33)
-------------------------------------------
-3x Ankou, The			   10  AUS DEM OBF	    		  Malkavian:5
-2x Morel			   6   AUS DEM OBF	    		  Malkavian:4
-1x Lutz von Hohenzollern	   11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
-1x Gravitnir			   10  AUS CEL DEM OBF VIC  priscus	  Malkavian antitribu:4
-1x Alicia Barrows		   9   AUS DEM OBF POT PRE  archbishop	  Malkavian antitribu:4
-1x Harold Zettler, Pentex Director 9   AUS DEM OBF POT vic  		  Malkavian antitribu:4
-1x Persephone Tar-Anis		   8   AUS DEM OBF cel pot  		  Malkavian antitribu:4
-1x Hagar Stone			   6   AUS DEM obf	    		  Malkavian antitribu:5
-1x Apache Jones			   5   DEM aus for obf	    		  Malkavian antitribu:4
+Crypt (12 cards, min=23 max=41 avg=8.33)
+----------------------------------------
+3x Ankou, The                      10  AUS DEM OBF                        Malkavian:5
+2x Morel                           6   AUS DEM OBF                        Malkavian:4
+1x Lutz von Hohenzollern           11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+1x Gravitnir                       10  AUS CEL DEM OBF VIC  priscus       Malkavian antitribu:4
+1x Alicia Barrows                  9   AUS DEM OBF POT PRE  archbishop    Malkavian antitribu:4
+1x Harold Zettler, Pentex Director 9   AUS DEM OBF POT vic                Malkavian antitribu:4
+1x Persephone Tar-Anis             8   AUS DEM OBF cel pot                Malkavian antitribu:4
+1x Hagar Stone                     6   AUS DEM obf                        Malkavian antitribu:5
+1x Apache Jones                    5   DEM aus for obf                    Malkavian antitribu:4
 
 Library (90 cards)
 Master (17; 2 trifle)

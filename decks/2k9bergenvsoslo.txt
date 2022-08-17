@@ -6,14 +6,14 @@ Vidar Wigand
 
 Deck Name: The Majestic fast reactors
 
-Crypt (12 cards, min=21, max=34, avg=6.75)
-------------------------------------------
-4x Alfred Benezri		    6	PRE THA aus dom		 bishop	   Pander:3
-3x Rebekka, Chantry Elder of Munich 8	AUS PRE THA pot		 	   Tremere:2
-2x Carna, The Princess Witch	    7	AUS DOM THA		 primogen  Tremere:3
-1x Menele			    10	CEL POT PRE THA aus dom	 	   Brujah:3
-1x Selena			    6	AUS DOM THA		 	   Tremere antitribu:3
-1x Blythe Candeleria		    3	THA aus			 	   Tremere:2
+Crypt (12 cards, min=21 max=34 avg=6.75)
+----------------------------------------
+4x Alfred Benezri                   6   PRE THA aus dom          bishop    Pander:3
+3x Rebekka, Chantry Elder of Munich 8   AUS PRE THA pot                    Tremere:2
+2x Carna, The Princess Witch        7   AUS DOM THA              primogen  Tremere:3
+1x Menele                           10  CEL POT PRE THA aus dom            Brujah:3
+1x Selena                           6   AUS DOM THA                        Tremere antitribu:3
+1x Blythe Candeleria                3   THA aus                            Tremere:2
 
 Library (90 cards)
 Master (15; 6 trifle)

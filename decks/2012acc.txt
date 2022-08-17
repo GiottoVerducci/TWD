@@ -11,16 +11,16 @@ Description: Gargoyle breeder deck.
 [Based on a 2006 TWD deck, Godzilla, by François de Champlain;
 & tweaked over the past year].
 
-Crypt (12 cards, min=11, max=20, avg=3.67)
-------------------------------------------
-3x Erinyi			3   pot vis		Gargoyle:2
-2x Obsidian			5   VIS for pot		Gargoyle:2
-2x Pugfar			5   POT aus for vis	Gargoyle:2
-1x Fidus, The Shrunken Beast	4   for tha vis		Gargoyle:2
-1x Brooke			3   dom tha		Tremere antitribu:2
-1x Ember Wright			3   aus dom		Tremere antitribu:3
-1x Saiz				3   aus dom		Tremere antitribu:3
-1x Heinrick Schlempt		2   tha			Tremere antitribu:2
+Crypt (12 cards, min=11 max=20 avg=3.67)
+----------------------------------------
+3x Erinyi                       3   pot vis             Gargoyle:2
+2x Obsidian                     5   VIS for pot         Gargoyle:2
+2x Pugfar                       5   POT aus for vis     Gargoyle:2
+1x Fidus, The Shrunken Beast    4   for tha vis         Gargoyle:2
+1x Brooke                       3   dom tha             Tremere antitribu:2
+1x Ember Wright                 3   aus dom             Tremere antitribu:3
+1x Saiz                         3   aus dom             Tremere antitribu:3
+1x Heinrick Schlempt            2   tha                 Tremere antitribu:2
 
 Library (90 cards)
 Master (14; 1 trifle)

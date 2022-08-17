@@ -7,13 +7,13 @@ Matt Guinn
 
 Deck Name: US Nats. 2012 Dragon Con
 
-Crypt (12 cards, min=26, max=38, avg=8)
----------------------------------------
-3x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
-3x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
-2x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
-2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
-2x Tara		   6   POT PRE cel	    prince	Brujah:5
+Crypt (12 cards, min=26 max=38 avg=8)
+-------------------------------------
+3x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar    Brujah:5
+3x Karen Suadela   7   CEL POT obf pre      prince      Brujah:5
+2x Jann Berger     10  CEL POT PRE dem for  prince      Brujah:4
+2x Carlak          8   CEL PRE dom pot      prince      Brujah:5
+2x Tara            6   POT PRE cel          prince      Brujah:5
 
 Library (75 cards)
 Master (29; 8 trifle)

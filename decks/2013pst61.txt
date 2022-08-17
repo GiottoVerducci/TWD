@@ -13,20 +13,20 @@ from the aus-weenies and to start moving forwards at the right moment, ie. when 
 the aus-weenies in one turn. I've had this deck assembled since Twilight Rebellion came out.
 It's been tweaked and played every once in a while, and at the moment I'm pretty happy with it.
 
-Crypt (12 cards, min=14, max=32, avg=5.83)
-------------------------------------------
-1x Oliver Thrace	    9	AUS DOM THA nec obf pot	 Tremere:3
-1x Erichtho		    8	AUS DOM THA cel obf	 Tremere:3
-1x Ian Forestal		    8	AUS DOM THA		 Tremere antitribu:2
-1x Bryan Van Duesen	    7	DOM THA aus pre		 Tremere antitribu:2
-1x Iliana		    7	DOM FOR PRO tha		 Gangrel:2
-1x Marlene, The Infernalist 6	AUS DOM dem for tha	 Ventrue antitribu:2
-1x Selena		    6	AUS DOM THA		 Tremere antitribu:3
-1x Kurt Strauss		    5	DOM aus tha		 Tremere antitribu:2
-1x Gloria Giovanni	    4	DOM nec			 Giovanni:2
-1x Ingrid Russo		    4	DOM for			 Ventrue antitribu:2
-1x Brooke		    3	dom tha			 Tremere antitribu:2
-1x Ehrich Weiss		    3	dom tha			 Tremere:3
+Crypt (12 cards, min=14 max=32 avg=5.83)
+----------------------------------------
+1x Oliver Thrace            9   AUS DOM THA nec obf pot  Tremere:3
+1x Erichtho                 8   AUS DOM THA cel obf      Tremere:3
+1x Ian Forestal             8   AUS DOM THA              Tremere antitribu:2
+1x Bryan Van Duesen         7   DOM THA aus pre          Tremere antitribu:2
+1x Iliana                   7   DOM FOR PRO tha          Gangrel:2
+1x Marlene, The Infernalist 6   AUS DOM dem for tha      Ventrue antitribu:2
+1x Selena                   6   AUS DOM THA              Tremere antitribu:3
+1x Kurt Strauss             5   DOM aus tha              Tremere antitribu:2
+1x Gloria Giovanni          4   DOM nec                  Giovanni:2
+1x Ingrid Russo             4   DOM for                  Ventrue antitribu:2
+1x Brooke                   3   dom tha                  Tremere antitribu:2
+1x Ehrich Weiss             3   dom tha                  Tremere:3
 
 Library (72 cards)
 Master (14; 1 trifle)

@@ -9,18 +9,18 @@ Deck Name: Pale Moon Rising
 
 Description: Gangrel Bleed
 
-Crypt (12 cards, min=7, max=19, avg=3.25)
------------------------------------------
-1x Camille Devereux	5   FOR PRO ani	 Gangrel:1
-1x Raven		5   FOR PRO ani	 Gangrel:1
-2x Daliyah		4   PRO obf	 Nosferatu:2
-2x Chandler Hungerford	3   PRO		 Gangrel:2
-1x Mirembe Kabbada	5   PRO SER ani	 Gangrel:2
-1x Anastasia Grey	3   ani pro	 Gangrel:1
-1x Ricki Van Demsi	3   for pro	 Gangrel:1
-1x Sadie		2   pro		 Gangrel antitribu:2
-1x Huang, Blood Cultist	1   pro		 Pander:2
-1x Igo the Hungry	1   pre pro	 Caitiff:1
+Crypt (12 cards, min=7 max=19 avg=3.25)
+---------------------------------------
+1x Camille Devereux     5   FOR PRO ani  Gangrel:1
+1x Raven                5   FOR PRO ani  Gangrel:1
+2x Daliyah              4   PRO obf      Nosferatu:2
+2x Chandler Hungerford  3   PRO          Gangrel:2
+1x Mirembe Kabbada      5   PRO SER ani  Gangrel:2
+1x Anastasia Grey       3   ani pro      Gangrel:1
+1x Ricki Van Demsi      3   for pro      Gangrel:1
+1x Sadie                2   pro          Gangrel antitribu:2
+1x Huang, Blood Cultist 1   pro          Pander:2
+1x Igo the Hungry       1   pre pro      Caitiff:1
 
 Library (70 cards)
 Master (16)

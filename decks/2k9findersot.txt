@@ -15,16 +15,16 @@ some DOM for defense. But Govern the Unaligned is just so good, it
 ended up being a big portion of the deck. Could probably use another
 Petrodon in place of a Harold Tanner or Gustaphe Brunnelle
 
-Crypt (12 cards, min=16, max=39, avg=6.92)
-------------------------------------------
-3x Alonso Petrodon	   10  ANI DOM OBF POT for tha	justicar  Nosferatu:5
-2x Gustaphe Brunnelle	   8   ANI DOM POT obf		primogen  Nosferatu:4
-2x Harold Tanner	   6   POT ani dom obf			  Nosferatu:4
-1x Baron Dieudonne	   9   ANI OBF POT PRO		prince	  Nosferatu:4
-1x Jeremy "Wix" Wyzchovsky 5   ani obf pot			  Nosferatu:4
-1x Beetleman		   4   ANI obf				  Nosferatu:4
-1x Slag			   4   ani obf pot			  Nosferatu:5
-1x Foureyes		   3   obf pot				  Nosferatu:4
+Crypt (12 cards, min=16 max=39 avg=6.92)
+----------------------------------------
+3x Alonso Petrodon         10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
+2x Gustaphe Brunnelle      8   ANI DOM POT obf          primogen  Nosferatu:4
+2x Harold Tanner           6   POT ani dom obf                    Nosferatu:4
+1x Baron Dieudonne         9   ANI OBF POT PRO          prince    Nosferatu:4
+1x Jeremy "Wix" Wyzchovsky 5   ani obf pot                        Nosferatu:4
+1x Beetleman               4   ANI obf                            Nosferatu:4
+1x Slag                    4   ani obf pot                        Nosferatu:5
+1x Foureyes                3   obf pot                            Nosferatu:4
 
 Library (90 cards)
 Master (17; 3 trifle)

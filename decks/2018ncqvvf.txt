@@ -18,15 +18,15 @@ I made many versions of this deck. It used to be Assamites only with Tegyrius me
 I should probably get back to 4 Al-Ashrad advanced in 13 vamps, or maybe in 12 if I really want Maris too.
 The reste of the deck worked liked a charm, maybe I could add a Telepathic Misdirection and / or an Eye of Argus, they can be cycled easily enough with Rebekah. I used to play Telepathic Vote Counting but with the locs I usually can pass or deal my votes.
 
-Crypt (12 cards, min=26, max=36, avg=8.17)
-------------------------------------------
-3x Al-Ashrad, Amr of Alamut (ADV) 9   AUS CEL OBF QUI THA  		Assamite:2
-1x Al-Ashrad, Amr of Alamut	  9   CEL QUI THA aus obf  		Assamite:2
-2x Maris Streck			  9   AUS OBF ani dem dom  justicar	Malkavian:3
-2x Rebekah			  9   AUS CEL DOM OBF QUI  prince	Assamite:3
-2x Enam				  6   QUI cel obf pre	   prince	Assamite:3
-1x Greger Anderssen		  7   AUS OBF dom pro	   prince	Malkavian:2
-1x Quentin King III		  7   AUS DEM obf pre	   prince	Malkavian:3
+Crypt (12 cards, min=26 max=36 avg=8.17)
+----------------------------------------
+3x Al-Ashrad, Amr of Alamut (ADV) 9   AUS CEL OBF QUI THA               Assamite:2
+1x Al-Ashrad, Amr of Alamut       9   CEL QUI THA aus obf               Assamite:2
+2x Maris Streck                   9   AUS OBF ani dem dom  justicar     Malkavian:3
+2x Rebekah                        9   AUS CEL DOM OBF QUI  prince       Assamite:3
+2x Enam                           6   QUI cel obf pre      prince       Assamite:3
+1x Greger Anderssen               7   AUS OBF dom pro      prince       Malkavian:2
+1x Quentin King III               7   AUS DEM obf pre      prince       Malkavian:3
 
 Library (75 cards)
 Master (19; 8 trifle)

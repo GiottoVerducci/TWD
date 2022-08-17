@@ -6,16 +6,16 @@ Bill Troxel
 
 "Gilbert's Two-Day Vacation"
 
-Crypt (12 cards, min=20, max=31, avg=6.5)
------------------------------------------
-2x Gilbert Duane	7   AUS DOM OBF		 prince	   Malkavian:1
-2x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
-2x Mariel, Lady Thunder	7   DOM OBF aus tha	 	   Malkavian:1
-2x Ozmo			6   AUS dom obf		 	   Malkavian:1
-1x Lucian		10  AUS DOM OBF cel tha	 justicar  Malkavian:1
-1x Didi Meyers		5   DOM aus cel obf	 	   Malkavian:1
-1x Zebulon		5   OBF aus dom pro	 	   Malkavian:1
-1x Roland Bishop	4   aus dom obf		 	   Malkavian:1
+Crypt (12 cards, min=20 max=31 avg=6.5)
+---------------------------------------
+2x Gilbert Duane        7   AUS DOM OBF          prince    Malkavian:1
+2x Greger Anderssen     7   AUS OBF dom pro      prince    Malkavian:2
+2x Mariel, Lady Thunder 7   DOM OBF aus tha                Malkavian:1
+2x Ozmo                 6   AUS dom obf                    Malkavian:1
+1x Lucian               10  AUS DOM OBF cel tha  justicar  Malkavian:1
+1x Didi Meyers          5   DOM aus cel obf                Malkavian:1
+1x Zebulon              5   OBF aus dom pro                Malkavian:1
+1x Roland Bishop        4   aus dom obf                    Malkavian:1
 
 Library (82 cards)
 Master (17; 1 trifle)

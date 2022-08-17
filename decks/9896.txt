@@ -13,14 +13,14 @@ Created By:  Carlos Diego (com alterações feitas por mim)
 Description:  1º Up to Ready Erlik, and Another Vampire, Nicomedes or Alafin, after you must keep COTHD and BOT for play one EL, after you gain the game.
 1º Levante Erlik e outro vampiro, como nicomendes ou alafin, depois voce precisa de uma COTHD com BOT para jogar o primeiro EL, depois disso ganhe o jogo, apenas jogando liquidation, e colocando outros em jogo, na fase de desvirar, alafin acelera muito o deck.
 
-Crypt (12 cards, min=21, max=40, avg=7.67)
-------------------------------------------
-5x Erlik	   10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-2x Babalawo Alafin 7   AUS FOR NEC ani	    Harbinger of Skulls:4
-2x Nicomedes	   5   aus for nec vic	    Harbinger of Skulls:4
-1x Erebus	   7   AUS FOR NEC dem	    Harbinger of Skulls:3
-1x Mina Grotius	   6   FOR NEC cel	    Harbinger of Skulls:3
-1x Solomon Batanea 5   AUS FOR nec	    Harbinger of Skulls:4
+Crypt (12 cards, min=21 max=40 avg=7.67)
+----------------------------------------
+5x Erlik           10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+2x Babalawo Alafin 7   AUS FOR NEC ani      Harbinger of Skulls:4
+2x Nicomedes       5   aus for nec vic      Harbinger of Skulls:4
+1x Erebus          7   AUS FOR NEC dem      Harbinger of Skulls:3
+1x Mina Grotius    6   FOR NEC cel          Harbinger of Skulls:3
+1x Solomon Batanea 5   AUS FOR nec          Harbinger of Skulls:4
 
 Library (90 cards)
 Master (20; 6 trifle)

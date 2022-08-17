@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/8469
 
 Deck: Armin Gangbang
 
-Crypt (12 cards, min=36, max=40, avg=9.33)
-------------------------------------------
-4x Armin Brenner   10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-3x Dark Selina	   9   CEL POT PRE dom for	cardinal    Brujah antitribu:5
-3x Hektor	   9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
-2x Dmitra Ilyanova 9   CEL FOR POT PRE obf	justicar    Brujah:5
+Crypt (12 cards, min=36 max=40 avg=9.33)
+----------------------------------------
+4x Armin Brenner   10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
+3x Dark Selina     9   CEL POT PRE dom for      cardinal    Brujah antitribu:5
+3x Hektor          9   CEL POT PRE QUI for      priscus     Brujah antitribu:4
+2x Dmitra Ilyanova 9   CEL FOR POT PRE obf      justicar    Brujah:5
 
 Library (90 cards)
 Master (17; 4 trifle)

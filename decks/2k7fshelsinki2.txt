@@ -11,16 +11,16 @@ Deck Name: The Big Fist
 
 Description: mono-potence
 
-Crypt (12 cards, min=8, max=19, avg=3.58)
------------------------------------------
-2x Dr. Julius Sutphen	    5	POT dom obt	bishop	Lasombra:3
-2x Agatha		    4	POT obf			Nosferatu antitribu:2
-2x Jimmy Dunn		    4	CEL POT for		Pander:2
-2x Mitchell, The Headhunter 2	obt pot			Pander:2
-1x Olivia		    5	OBF POT vic	bishop	Nosferatu antitribu:2
-1x Hugo			    4	POT pre vic		Brujah antitribu:2
-1x Arnold Simpson	    2	pot			Brujah:3
-1x Paul DiCarlo, The Alpha  2	pot			Giovanni:2
+Crypt (12 cards, min=8 max=19 avg=3.58)
+---------------------------------------
+2x Dr. Julius Sutphen       5   POT dom obt     bishop  Lasombra:3
+2x Agatha                   4   POT obf                 Nosferatu antitribu:2
+2x Jimmy Dunn               4   CEL POT for             Pander:2
+2x Mitchell, The Headhunter 2   obt pot                 Pander:2
+1x Olivia                   5   OBF POT vic     bishop  Nosferatu antitribu:2
+1x Hugo                     4   POT pre vic             Brujah antitribu:2
+1x Arnold Simpson           2   pot                     Brujah:3
+1x Paul DiCarlo, The Alpha  2   pot                     Giovanni:2
 
 Library (90 cards)
 Master (10; 2 trifle)

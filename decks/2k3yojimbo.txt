@@ -25,16 +25,16 @@ combat decks, it seems to handle tourneys quite nicely as well. I had
 a great time torporing waves of minions with it. Karsh is a madman.
 That is all.
 
-Crypt (12 cards, min=4, max=40, avg=4.08)
------------------------------------------
-4x Karsh		10  ANI CEL FOR POT PRO	 Gangrel:3
-2x Sandra White		1   -none-		 Caitiff:3
-1x Sadie		2   pro			 Gangrel antitribu:2
-1x Antoinette DuChamp	1   cel pre		 Caitiff:2
-1x Franciscus		1   aus			 Caitiff:2
-1x Huang, Blood Cultist	1   pro			 Pander:2
-1x March Halcyon	1   for			 Pander:2
-1x Nedal, The Careless	1   cel nec		 Caitiff:3
+Crypt (12 cards, min=4 max=40 avg=4.08)
+---------------------------------------
+4x Karsh                10  ANI CEL FOR POT PRO  Gangrel:3
+2x Sandra White         1   -none-               Caitiff:3
+1x Sadie                2   pro                  Gangrel antitribu:2
+1x Antoinette DuChamp   1   cel pre              Caitiff:2
+1x Franciscus           1   aus                  Caitiff:2
+1x Huang, Blood Cultist 1   pro                  Pander:2
+1x March Halcyon        1   for                  Pander:2
+1x Nedal, The Careless  1   cel nec              Caitiff:3
 
 Library (90 cards)
 Master (12)

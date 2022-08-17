@@ -15,16 +15,16 @@ He had forgotten his decks in the morning before our weekly games.
 So i made him this deck and the morning of the tournament I took it
 cus I had no idea what to play...
 
-Crypt (12 cards, min=21, max=32, avg=6.75)
-------------------------------------------
-5x Titus Camille	 8   AUS DOM OBF for		Ventrue antitribu:4
-1x Phillipe Rigaud	 7   DOM OBF PRO ani aus obt	Gangrel antitribu:4
-1x Preston Varrick	 7   DOM OBF THA aus nec	Tremere:4
-1x Dr. Douglas Netchurch 6   AUS OBF dem dom		Malkavian:3
-1x Halim Bey		 6   DOM SER obf tha		Follower of Set:4
-1x Assad Salhoum	 5   aus dem dom obf		Malkavian:4
-1x Black Lotus		 5   DOM aus obf ser		Follower of Set:4
-1x Louis de Maisonneuve	 5   FOR aus dom obf		Ventrue antitribu:4
+Crypt (12 cards, min=21 max=32 avg=6.75)
+----------------------------------------
+5x Titus Camille         8   AUS DOM OBF for            Ventrue antitribu:4
+1x Phillipe Rigaud       7   DOM OBF PRO ani aus obt    Gangrel antitribu:4
+1x Preston Varrick       7   DOM OBF THA aus nec        Tremere:4
+1x Dr. Douglas Netchurch 6   AUS OBF dem dom            Malkavian:3
+1x Halim Bey             6   DOM SER obf tha            Follower of Set:4
+1x Assad Salhoum         5   aus dem dom obf            Malkavian:4
+1x Black Lotus           5   DOM aus obf ser            Follower of Set:4
+1x Louis de Maisonneuve  5   FOR aus dom obf            Ventrue antitribu:4
 
 Library (79 cards)
 Master (13; 6 trifle)

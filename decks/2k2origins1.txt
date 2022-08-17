@@ -14,12 +14,12 @@ bed time for me, so here is the deck:
 Mirembe Rides Again!
 by Jay Kristoff - jck@columbus.rr.com
 
-Crypt (12 cards, min=16, max=20, avg=4.67)
-------------------------------------------
-6x Mirembe Kabbada	5   PRO SER ani	 Gangrel:2
-2x Camille Devereux	5   FOR PRO ani	 Gangrel:1
-2x Raven		5   FOR PRO ani	 Gangrel:1
-2x Chandler Hungerford	3   PRO		 Gangrel:2
+Crypt (12 cards, min=16 max=20 avg=4.67)
+----------------------------------------
+6x Mirembe Kabbada      5   PRO SER ani  Gangrel:2
+2x Camille Devereux     5   FOR PRO ani  Gangrel:1
+2x Raven                5   FOR PRO ani  Gangrel:1
+2x Chandler Hungerford  3   PRO          Gangrel:2
 
 Library (90 cards)
 Master (14)

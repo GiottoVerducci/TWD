@@ -4,19 +4,19 @@ December 14th 2002
 12 players
 Jochem van Dijk
 
-Crypt (12 cards, min=8, max=25, avg=3.92)
------------------------------------------
-2x Bryan Van Duesen	7   DOM THA aus pre		Tremere antitribu:2
-1x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
-1x Kurt Strauss		5   DOM aus tha			Tremere antitribu:2
-1x Gloria Giovanni	4   DOM nec			Giovanni:2
-1x Ingrid Russo		4   DOM for			Ventrue antitribu:2
-1x Blythe Candeleria	3   THA aus			Tremere:2
-1x Brooke		3   dom tha			Tremere antitribu:2
-1x Jing Wei		3   dom tha			Tremere:1
-1x Heinrick Schlempt	2   tha				Tremere antitribu:2
-1x Mustafa Rahman	2   dom				Tremere:2
-1x Royce		1   dom				Pander:2
+Crypt (12 cards, min=8 max=25 avg=3.92)
+---------------------------------------
+2x Bryan Van Duesen     7   DOM THA aus pre             Tremere antitribu:2
+1x Reverend Blackwood   6   DOM THA obf         bishop  Tremere antitribu:2
+1x Kurt Strauss         5   DOM aus tha                 Tremere antitribu:2
+1x Gloria Giovanni      4   DOM nec                     Giovanni:2
+1x Ingrid Russo         4   DOM for                     Ventrue antitribu:2
+1x Blythe Candeleria    3   THA aus                     Tremere:2
+1x Brooke               3   dom tha                     Tremere antitribu:2
+1x Jing Wei             3   dom tha                     Tremere:1
+1x Heinrick Schlempt    2   tha                         Tremere antitribu:2
+1x Mustafa Rahman       2   dom                         Tremere:2
+1x Royce                1   dom                         Pander:2
 
 Library (73 cards)
 Master (14)

@@ -19,15 +19,15 @@ version of his TWD of the Portuguese ECQ 2016
 
 The Oscar for Motivation goes to: my wife Nico <3
 
-Crypt (13 cards, min=36, max=44, avg=10.15)
--------------------------------------------
-4x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
-2x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
-2x Alonso Petrodon	 10  ANI DOM OBF POT for tha	justicar	Nosferatu:5
-2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
-1x Tryphosa		 10  AUS DEM DOM OBF POT	prince		Malkavian:4
-1x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
-1x Graham Gottesman	 7   DOM FOR obf pre tha	prince		Ventrue:5
+Crypt (13 cards, min=36 max=44 avg=10.15)
+-----------------------------------------
+4x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
+2x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
+2x Alonso Petrodon       10  ANI DOM OBF POT for tha    justicar        Nosferatu:5
+2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
+1x Tryphosa              10  AUS DEM DOM OBF POT        prince          Malkavian:4
+1x Orlando Oriundus      9   AUS DOM THA obf            bishop          Tremere antitribu:4
+1x Graham Gottesman      7   DOM FOR obf pre tha        prince          Ventrue:5
 
 Library (81 cards)
 Master (23; 8 trifle)

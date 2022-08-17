@@ -8,16 +8,16 @@ Deck Name: Marchas de tranquis
 
 Based on a deck by Linus Garriga/Iñaki Jimenez
 
-Crypt (12 cards, min=23, max=40, avg=8)
----------------------------------------
-2x Angus the Unruled	   10  ANI PRO cel for pot	justicar  Gangrel:1
-2x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro	justicar  Brujah:1
-2x Ingrid Rossler	   9   ANI FOR PRO dom		prince	  Gangrel:2
-2x Greger Anderssen	   7   AUS OBF dom pro		prince	  Malkavian:2
-1x Marcellus		   8   AUS CEL pro		prince	  Toreador:2
-1x Iliana		   7   DOM FOR PRO tha			  Gangrel:2
-1x Elisabetta Romano	   6   dom pro qui tha		primogen  Tremere:2
-1x Chandler Hungerford	   3   PRO				  Gangrel:2
+Crypt (12 cards, min=23 max=40 avg=8)
+-------------------------------------
+2x Angus the Unruled       10  ANI PRO cel for pot      justicar  Gangrel:1
+2x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro  justicar  Brujah:1
+2x Ingrid Rossler          9   ANI FOR PRO dom          prince    Gangrel:2
+2x Greger Anderssen        7   AUS OBF dom pro          prince    Malkavian:2
+1x Marcellus               8   AUS CEL pro              prince    Toreador:2
+1x Iliana                  7   DOM FOR PRO tha                    Gangrel:2
+1x Elisabetta Romano       6   dom pro qui tha          primogen  Tremere:2
+1x Chandler Hungerford     3   PRO                                Gangrel:2
 
 Library (78 cards)
 Master (16; 5 trifle)

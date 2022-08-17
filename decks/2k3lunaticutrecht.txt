@@ -4,19 +4,19 @@ March 30th 2003
 20 players
 Roy van Ommen
 
-Crypt (13 cards, min=13, max=26, avg=5.08)
-------------------------------------------
-2x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
-2x Sarisha Veliku		6   ANI FOR chi dom	Ravnos:2
-1x Gabrin			8   ANI CHI dom for	Ravnos:2
-1x Vaclav Petalengro		6   ANI CHI for pot	Ravnos:2
-1x Andrei Puxon			5   ani cel chi for	Ravnos:2
-1x Ghivran Dalaal, The Dead God	5   FOR ani aus chi	Ravnos:2
-1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
-1x Anka, Priestess of Thorns	4   ani chi pro		Ravnos:2
-1x Sennuwy, The Promoter	4   ani chi for		Ravnos:2
-1x Lázár Dobrescu		3   for			Ravnos:2
-1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+Crypt (13 cards, min=13 max=26 avg=5.08)
+----------------------------------------
+2x Joaquina Amaya               6   ANI CHI FOR         Ravnos:2
+2x Sarisha Veliku               6   ANI FOR chi dom     Ravnos:2
+1x Gabrin                       8   ANI CHI dom for     Ravnos:2
+1x Vaclav Petalengro            6   ANI CHI for pot     Ravnos:2
+1x Andrei Puxon                 5   ani cel chi for     Ravnos:2
+1x Ghivran Dalaal, The Dead God 5   FOR ani aus chi     Ravnos:2
+1x Khalil Ravana                5   CHI ani for pre     Ravnos:2
+1x Anka, Priestess of Thorns    4   ani chi pro         Ravnos:2
+1x Sennuwy, The Promoter        4   ani chi for         Ravnos:2
+1x Lázár Dobrescu               3   for                 Ravnos:2
+1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
 
 Library (90 cards)
 Master (20)

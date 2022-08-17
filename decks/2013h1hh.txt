@@ -20,11 +20,11 @@ handle Scalpel Tongues or vote push. Would reconsider adding
 Klaus back in as a 4th minion as the deck can easily get a
 4th minion into play if given the time.
 
-Crypt (12 cards, min=36, max=40, avg=9.33)
-------------------------------------------
-4x Armin Brenner 10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-4x Hektor	 9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
-4x Undele	 9   CEL FOR obf pre ser	magaji	    Ishtarri:5
+Crypt (12 cards, min=36 max=40 avg=9.33)
+----------------------------------------
+4x Armin Brenner 10  CEL FOR POT PRE ani obf    archbishop  Brujah antitribu:4
+4x Hektor        9   CEL POT PRE QUI for        priscus     Brujah antitribu:4
+4x Undele        9   CEL FOR obf pre ser        magaji      Ishtarri:5
 
 Library (90 cards)
 Master (16; 6 trifle)

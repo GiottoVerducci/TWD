@@ -8,14 +8,14 @@ https://www.vekn.net/event-calendar/event/7585
 
 Deck Name: The Finnish wall
 
-Crypt (12 cards, min=8, max=36, avg=6)
---------------------------------------
-4x Stravinsky		   9   ANI AUS VIC pot	archbishop  Tzimisce:2
-3x Tupdog		   1   POT VIS			    Gargoyle:3
-2x Little Tailor of Prague 8   ANI AUS VIC dem		    Tzimisce:2
-1x Caliban		   6   ANI AUS VIC		    Tzimisce:2
-1x Corine Marcón	   6   AUS VIC ani		    Tzimisce:2
-1x Devin Bisley		   5   ANI AUS vic		    Tzimisce:2
+Crypt (12 cards, min=8 max=36 avg=6)
+------------------------------------
+4x Stravinsky              9   ANI AUS VIC pot  archbishop  Tzimisce:2
+3x Tupdog                  1   POT VIS                      Gargoyle:3
+2x Little Tailor of Prague 8   ANI AUS VIC dem              Tzimisce:2
+1x Caliban                 6   ANI AUS VIC                  Tzimisce:2
+1x Corine Marcón           6   AUS VIC ani                  Tzimisce:2
+1x Devin Bisley            5   ANI AUS vic                  Tzimisce:2
 
 Library (76 cards)
 Master (14; 5 trifle)

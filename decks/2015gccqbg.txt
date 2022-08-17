@@ -8,19 +8,19 @@ https://www.vekn.net/event-calendar/event/7952
 
 Deck Name: weenie fortitude: soaked
 
-Crypt (13 cards, min=6, max=12, avg=2.54)
------------------------------------------
-2x Lázár Dobrescu	3   for		 Ravnos:2
-2x March Halcyon	1   for		 Pander:2
-1x Juan Cali		3   aus for	 Ventrue antitribu:2
-1x Leon			3   ani for	 Gangrel antitribu:2
-1x Muse			3   ani for mel	 Daughter of Cacophony:2
-1x Ricki Van Demsi	3   for pro	 Gangrel:1
-1x Roland Loussarian	3   for pre	 Ventrue:1
-1x Tom			3   for pot san	 Blood Brother:2
-1x Vedel Esbreno	3   chi for	 Ravnos:2
-1x Giuliano Vincenzi	2   for		 Gangrel:1
-1x Rufina Soledad	2   for		 Ventrue:1
+Crypt (13 cards, min=6 max=12 avg=2.54)
+---------------------------------------
+2x Lázár Dobrescu       3   for          Ravnos:2
+2x March Halcyon        1   for          Pander:2
+1x Juan Cali            3   aus for      Ventrue antitribu:2
+1x Leon                 3   ani for      Gangrel antitribu:2
+1x Muse                 3   ani for mel  Daughter of Cacophony:2
+1x Ricki Van Demsi      3   for pro      Gangrel:1
+1x Roland Loussarian    3   for pre      Ventrue:1
+1x Tom                  3   for pot san  Blood Brother:2
+1x Vedel Esbreno        3   chi for      Ravnos:2
+1x Giuliano Vincenzi    2   for          Gangrel:1
+1x Rufina Soledad       2   for          Ventrue:1
 
 Library (90 cards)
 Master (14; 2 trifle)

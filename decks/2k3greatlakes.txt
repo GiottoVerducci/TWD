@@ -18,19 +18,19 @@ let me know, it isn't as easy as it looks, you can kill yourself very
 very quickly. Great Lakes Qualifier was 45 people. doros@umich.edu
 btw brothers grimm made this deck flow...
 
-Crypt (12 cards, min=10, max=20, avg=3.67)
-------------------------------------------
-1x Camille Devereux	5   FOR PRO ani	 Gangrel:1
-1x Raven		5   FOR PRO ani	 Gangrel:1
-2x Chandler Hungerford	3   PRO		 Gangrel:2
-1x Le Dinh Tho		5   NEC aus dom	 Nagaraja:2
-1x Mirembe Kabbada	5   PRO SER ani	 Gangrel:2
-1x Ramona		4   for pro	 Gangrel:2
-1x Roman Alexander	4   ani for pro	 Gangrel:1
-1x Anastasia Grey	3   ani pro	 Gangrel:1
-1x Ricki Van Demsi	3   for pro	 Gangrel:1
-1x Giuliano Vincenzi	2   for		 Gangrel:1
-1x Vliam Andor		2   ani		 Gangrel:1
+Crypt (12 cards, min=10 max=20 avg=3.67)
+----------------------------------------
+1x Camille Devereux     5   FOR PRO ani  Gangrel:1
+1x Raven                5   FOR PRO ani  Gangrel:1
+2x Chandler Hungerford  3   PRO          Gangrel:2
+1x Le Dinh Tho          5   NEC aus dom  Nagaraja:2
+1x Mirembe Kabbada      5   PRO SER ani  Gangrel:2
+1x Ramona               4   for pro      Gangrel:2
+1x Roman Alexander      4   ani for pro  Gangrel:1
+1x Anastasia Grey       3   ani pro      Gangrel:1
+1x Ricki Van Demsi      3   for pro      Gangrel:1
+1x Giuliano Vincenzi    2   for          Gangrel:1
+1x Vliam Andor          2   ani          Gangrel:1
 
 Library (90 cards)
 Master (26)

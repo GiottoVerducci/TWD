@@ -7,21 +7,21 @@ Richard Cortes
 
 Deck Name: Mazo Animalismo
 
-Crypt (13 cards, min=7, max=15, avg=2.77)
------------------------------------------
-1x Bear Paw			5   ANI for pre pro	Gangrel:1
-1x Roman Alexander		4   ani for pro		Gangrel:1
-1x Anastasia Grey		3   ani pro		Gangrel:1
-1x Leon				3   ani for		Gangrel antitribu:2
-1x Panagos Levidis		3   ani obf		Gangrel:2
-1x Shannon Price, The Whisperer	3   ani obf		Nosferatu antitribu:2
-1x Tommy			3   ani pot		Nosferatu antitribu:2
-1x Wendy Wade			3   ani aus		Tzimisce:2
-1x Dani				2   ani			Nosferatu antitribu:2
-1x Gillian Krader		2   ani dem		Pander:2
-1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
-1x Vliam Andor			2   ani			Gangrel:1
-1x Navar McClaren		1   ani			Caitiff:1
+Crypt (13 cards, min=7 max=15 avg=2.77)
+---------------------------------------
+1x Bear Paw                     5   ANI for pre pro     Gangrel:1
+1x Roman Alexander              4   ani for pro         Gangrel:1
+1x Anastasia Grey               3   ani pro             Gangrel:1
+1x Leon                         3   ani for             Gangrel antitribu:2
+1x Panagos Levidis              3   ani obf             Gangrel:2
+1x Shannon Price, The Whisperer 3   ani obf             Nosferatu antitribu:2
+1x Tommy                        3   ani pot             Nosferatu antitribu:2
+1x Wendy Wade                   3   ani aus             Tzimisce:2
+1x Dani                         2   ani                 Nosferatu antitribu:2
+1x Gillian Krader               2   ani dem             Pander:2
+1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
+1x Vliam Andor                  2   ani                 Gangrel:1
+1x Navar McClaren               1   ani                 Caitiff:1
 
 Library (90 cards)
 Master (16)

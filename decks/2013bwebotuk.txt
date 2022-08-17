@@ -7,14 +7,14 @@ John Best
 
 Deck Name: Challenge accepted - Anarch Ravnos Multirush
 
-Crypt (12 cards, min=4, max=31, avg=4.92)
------------------------------------------
-4x Anarch Convert	1   -none-		Caitiff:ANY
-3x Vasiliy Vasilevich	8   ANI CHI for pro	Ravnos:5
-2x Lisé			6   ANI FOR pot pro	Gangrel:5
-1x Chavi Oraczko	7   ANI CHI FOR nec	Ravnos:5
-1x Janey Pickman	6   ANI PRO for		Gangrel antitribu:4
-1x Jayakumar		6   ANI FOR chi tha	Ravnos:5
+Crypt (12 cards, min=4 max=31 avg=4.92)
+---------------------------------------
+4x Anarch Convert       1   -none-              Caitiff:ANY
+3x Vasiliy Vasilevich   8   ANI CHI for pro     Ravnos:5
+2x Lisé                 6   ANI FOR pot pro     Gangrel:5
+1x Chavi Oraczko        7   ANI CHI FOR nec     Ravnos:5
+1x Janey Pickman        6   ANI PRO for         Gangrel antitribu:4
+1x Jayakumar            6   ANI FOR chi tha     Ravnos:5
 
 Library (80 cards)
 Master (12)

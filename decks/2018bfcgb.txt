@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/9075
 
 Deck Name: Gangrel
 
-Crypt (12 cards, min=29, max=40, avg=8.58)
-------------------------------------------
-3x Karsh		 10  ANI CEL FOR POT PRO		 Gangrel:3
-3x Brunhilde		 8   ANI FOR PRO pre			 Gangrel:3
-2x Torvus Bloodbeard	 9   ANI FOR OBF PRO pot		 Gangrel:3
-1x Beckett (ADV)	 8   ANI FOR PRO cel tha		 Gangrel:3
-1x Beckett		 7   ANI FOR PRO cel			 Gangrel:3
-1x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha	2 votes	 Gangrel:3
-1x Sophia Watson	 6   ANI FOR obf pro			 Gangrel:3
+Crypt (12 cards, min=29 max=40 avg=8.58)
+----------------------------------------
+3x Karsh                 10  ANI CEL FOR POT PRO                 Gangrel:3
+3x Brunhilde             8   ANI FOR PRO pre                     Gangrel:3
+2x Torvus Bloodbeard     9   ANI FOR OBF PRO pot                 Gangrel:3
+1x Beckett (ADV)         8   ANI FOR PRO cel tha                 Gangrel:3
+1x Beckett               7   ANI FOR PRO cel                     Gangrel:3
+1x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha    2 votes  Gangrel:3
+1x Sophia Watson         6   ANI FOR obf pro                     Gangrel:3
 
 Library (90 cards)
 Master (18; 6 trifle)

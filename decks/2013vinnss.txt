@@ -12,20 +12,20 @@ so the opponent can't calculate your bleed potential I added
 Leverage and Command of the Beast.
 Bryan Van Duesen was in play four out of four games.
 
-Crypt (12 cards, min=14, max=27, avg=5.33)
-------------------------------------------
-1x Bryan Van Duesen		7   DOM THA aus pre	 		Tremere antitribu:2
-1x Carna, The Princess Witch	7   AUS DOM THA		 primogen	Tremere:3
-1x Ladislas Toth, The Torch	7   AUS DOM THA for	 archbishop	Tremere antitribu:3
-1x Marlene, The Infernalist	6   AUS DOM dem for tha	 		Ventrue antitribu:2
-1x Reverend Blackwood		6   DOM THA obf		 bishop		Tremere antitribu:2
-1x Selena			6   AUS DOM THA		 		Tremere antitribu:3
-1x Valois Sang, The Watcher	6   AUS DOM nec tha	 		Tremere:3
-1x Kurt Strauss			5   DOM aus tha		 		Tremere antitribu:2
-1x Pieter van Dorn		4   dom pre tha		 		Tremere:3
-1x Thelonius			4   aus dom tha		 		Tremere antitribu:2
-1x Brooke			3   dom tha		 		Tremere antitribu:2
-1x Ehrich Weiss			3   dom tha		 		Tremere:3
+Crypt (12 cards, min=14 max=27 avg=5.33)
+----------------------------------------
+1x Bryan Van Duesen             7   DOM THA aus pre                     Tremere antitribu:2
+1x Carna, The Princess Witch    7   AUS DOM THA          primogen       Tremere:3
+1x Ladislas Toth, The Torch     7   AUS DOM THA for      archbishop     Tremere antitribu:3
+1x Marlene, The Infernalist     6   AUS DOM dem for tha                 Ventrue antitribu:2
+1x Reverend Blackwood           6   DOM THA obf          bishop         Tremere antitribu:2
+1x Selena                       6   AUS DOM THA                         Tremere antitribu:3
+1x Valois Sang, The Watcher     6   AUS DOM nec tha                     Tremere:3
+1x Kurt Strauss                 5   DOM aus tha                         Tremere antitribu:2
+1x Pieter van Dorn              4   dom pre tha                         Tremere:3
+1x Thelonius                    4   aus dom tha                         Tremere antitribu:2
+1x Brooke                       3   dom tha                             Tremere antitribu:2
+1x Ehrich Weiss                 3   dom tha                             Tremere:3
 
 Library (66 cards)
 Master (11; 3 trifle)

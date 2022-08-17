@@ -10,17 +10,17 @@ Jonatan Reino
 Deck Name: el amor de los feos
 Created by: Juha Nyholm minor modifications by Jonatan Reino
 
-Crypt (12 cards, min=7, max=24, avg=3.92)
------------------------------------------
-2x Beast, The Leatherface of Detroit	7   OBF POT ani cel		Nosferatu antitribu:2
-2x Olivia				5   OBF POT vic		bishop	Nosferatu antitribu:2
-2x Agatha				4   POT obf			Nosferatu antitribu:2
-1x Nigel the Shunned			5   ANI POT obf			Nosferatu antitribu:2
-1x Duck					3   obf pot			Nosferatu:1
-1x KoKo					2   pot				Nosferatu:1
-1x Lupo					2   pot				Brujah:1
-1x Paul DiCarlo, The Alpha		2   pot				Giovanni:2
-1x Hasina Kesi				1   pot				Caitiff:1
+Crypt (12 cards, min=7 max=24 avg=3.92)
+---------------------------------------
+2x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
+2x Olivia                               5   OBF POT vic         bishop  Nosferatu antitribu:2
+2x Agatha                               4   POT obf                     Nosferatu antitribu:2
+1x Nigel the Shunned                    5   ANI POT obf                 Nosferatu antitribu:2
+1x Duck                                 3   obf pot                     Nosferatu:1
+1x KoKo                                 2   pot                         Nosferatu:1
+1x Lupo                                 2   pot                         Brujah:1
+1x Paul DiCarlo, The Alpha              2   pot                         Giovanni:2
+1x Hasina Kesi                          1   pot                         Caitiff:1
 
 Library (90 cards)
 Master (14)

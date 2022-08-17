@@ -12,17 +12,17 @@ underestimate the vampires you bring into play from time to time. The
 deck is very versatile and features plenty of silver bullets which
 helps you handle most situations you encounter.
 
-Crypt (12 cards, min=19, max=32, avg=6.33)
-------------------------------------------
-2x Victorine Lafourcade	8   DOM FOR PRE tha	 prince	 Ventrue:3
-2x Mustafa, The Heir	6   FOR PRE cel dom	 prince	 Ventrue:4
-2x Victor Pelletier	5   PRE cel dom for	 	 Ventrue:4
-1x Johannes Castelein	9   DEM DOM FOR PRE	 prince	 Ventrue:4
-1x Horatio Ballard	7   DOM FOR PRE aus	 	 Ventrue:3
-1x Mukhtar Bey		7   FOR PRE QUI obf pot	 prince	 Caitiff:4
-1x Edward Vignes	6   DOM PRE for		 	 Ventrue:3
-1x Boss Callihan	5   PRE dom for pro	 	 Ventrue:3
-1x Michael Luther	4   aus pre		 	 Toreador:3
+Crypt (12 cards, min=19 max=32 avg=6.33)
+----------------------------------------
+2x Victorine Lafourcade 8   DOM FOR PRE tha      prince  Ventrue:3
+2x Mustafa, The Heir    6   FOR PRE cel dom      prince  Ventrue:4
+2x Victor Pelletier     5   PRE cel dom for              Ventrue:4
+1x Johannes Castelein   9   DEM DOM FOR PRE      prince  Ventrue:4
+1x Horatio Ballard      7   DOM FOR PRE aus              Ventrue:3
+1x Mukhtar Bey          7   FOR PRE QUI obf pot  prince  Caitiff:4
+1x Edward Vignes        6   DOM PRE for                  Ventrue:3
+1x Boss Callihan        5   PRE dom for pro              Ventrue:3
+1x Michael Luther       4   aus pre                      Toreador:3
 
 Library (74 cards)
 Master (12; 4 trifle)

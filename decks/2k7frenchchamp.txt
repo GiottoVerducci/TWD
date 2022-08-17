@@ -7,16 +7,16 @@ Florian Prosper
 
 Deck Name: Army of Allah
 
-Crypt (12 cards, min=11, max=31, avg=5.17)
-------------------------------------------
-3x Amaravati	    8	DOM OBF QUI ani chi		Assamite:4
-2x Kamau Jafari	    4	QUI obf				Assamite:4
-2x Ali Kar	    3	obf qui				Assamite:3
-1x Olugbenga	    7	OBF QUI ani cel		magaji	Assamite:4
-1x Vardar Vardarian 6	OBF QUI cel pre			Assamite:4
-1x Janni	    5	cel for obf qui			Assamite:4
-1x Michael diCarlo  5	CEL obf qui			Assamite:4
-1x Basir	    1	qui				Assamite:4
+Crypt (12 cards, min=11 max=31 avg=5.17)
+----------------------------------------
+3x Amaravati        8   DOM OBF QUI ani chi             Assamite:4
+2x Kamau Jafari     4   QUI obf                         Assamite:4
+2x Ali Kar          3   obf qui                         Assamite:3
+1x Olugbenga        7   OBF QUI ani cel         magaji  Assamite:4
+1x Vardar Vardarian 6   OBF QUI cel pre                 Assamite:4
+1x Janni            5   cel for obf qui                 Assamite:4
+1x Michael diCarlo  5   CEL obf qui                     Assamite:4
+1x Basir            1   qui                             Assamite:4
 
 Library (70 cards)
 Master (15; 1 trifle)

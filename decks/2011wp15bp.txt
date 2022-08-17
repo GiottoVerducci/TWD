@@ -9,17 +9,17 @@ Deck Name: nana buruku weenie ani
 
 Description: based on Martin Major's mINIMAL sTYLE deck
 
-Crypt (12 cards, min=8, max=32, avg=4.5)
-----------------------------------------
-4x Nana Buruku		8   ANI POT PRE	 Guruhi:4
-1x Beetleman		4   ANI obf	 Nosferatu:4
-1x Bobby Lemon		4   ANI pro	 Gangrel:3
-1x Bothwell		3   ani for	 Gangrel:3
-1x Clarissa Steinburgen	3   ani obf	 Nosferatu:3
-1x Stick		3   ANI		 Nosferatu antitribu:4
-1x Mouse		2   ani		 Nosferatu:3
-1x Zip			2   ani		 Ravnos:3
-1x Lisa Noble		1   ani		 Caitiff:3
+Crypt (12 cards, min=8 max=32 avg=4.5)
+--------------------------------------
+4x Nana Buruku          8   ANI POT PRE  Guruhi:4
+1x Beetleman            4   ANI obf      Nosferatu:4
+1x Bobby Lemon          4   ANI pro      Gangrel:3
+1x Bothwell             3   ani for      Gangrel:3
+1x Clarissa Steinburgen 3   ani obf      Nosferatu:3
+1x Stick                3   ANI          Nosferatu antitribu:4
+1x Mouse                2   ani          Nosferatu:3
+1x Zip                  2   ani          Ravnos:3
+1x Lisa Noble           1   ani          Caitiff:3
 
 Library (75 cards)
 Master (20)

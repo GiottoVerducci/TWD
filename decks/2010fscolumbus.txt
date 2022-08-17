@@ -13,14 +13,14 @@ me to play Eternal Vigilance if the stars properly align. The
 Pandora's Whispers often help fine tune a hand, I may consider adding
 more although I'm not sure what I'd drop.
 
-Crypt (12 cards, min=22, max=31, avg=6.67)
-------------------------------------------
-3x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
-3x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
-2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
-2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
-1x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
-1x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+Crypt (12 cards, min=22 max=31 avg=6.67)
+----------------------------------------
+3x Omme Enberbenight       7   MYT OBT cel dom      priscus     Kiasyd:4
+3x Isanwayen               6   DOM MYT OBT                      Kiasyd:4
+2x Pherydima               8   DOM MYT NEC obt pot  bishop      Kiasyd:4
+2x Dame Hollerton          5   DOM OBT myt                      Kiasyd:4
+1x Arcadian, The           8   DOM MYT OBT chi for              Kiasyd:5
+1x Roderick Phillips March 7   DOM MYT cel obt tha              Kiasyd:4
 
 Library (90 cards)
 Master (12)

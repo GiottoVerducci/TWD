@@ -7,15 +7,15 @@ Jérôme Bauzon
 
 Deck Name: Alastor
 
-Crypt (12 cards, min=17, max=42, avg=8.25)
-------------------------------------------
-3x Jaroslav Pascek		10  CEL POT PRE for obf		justicar	Brujah:3
-3x Madame Guil			10  AUS CEL PRE for pot ser	justicar	Toreador:3
-2x Gwendolyn			11  CEL FOR POT PRE aus tha	inner circle	Brujah:2
-1x Pug Jackson			6   CEL POT for pre		primogen	Brujah:3
-1x Brachah			5   CEL PRE for					Brujah:2
-1x Volker, The Puppet Prince	5   CEL pot			prince		Brujah:2
-1x Antoinette DuChamp		1   cel pre					Caitiff:2
+Crypt (12 cards, min=17 max=42 avg=8.25)
+----------------------------------------
+3x Jaroslav Pascek              10  CEL POT PRE for obf         justicar        Brujah:3
+3x Madame Guil                  10  AUS CEL PRE for pot ser     justicar        Toreador:3
+2x Gwendolyn                    11  CEL FOR POT PRE aus tha     inner circle    Brujah:2
+1x Pug Jackson                  6   CEL POT for pre             primogen        Brujah:3
+1x Brachah                      5   CEL PRE for                                 Brujah:2
+1x Volker, The Puppet Prince    5   CEL pot                     prince          Brujah:2
+1x Antoinette DuChamp           1   cel pre                                     Caitiff:2
 
 Library (80 cards)
 Master (15)

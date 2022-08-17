@@ -8,17 +8,17 @@ https://www.vekn.net/event-calendar/event/7513
 
 Deck Name: Mountain Terrorists
 
-Crypt (12 cards, min=12, max=24, avg=4.58)
-------------------------------------------
-2x Luccia Paciola		   6   DOM for pre	Ventrue:1
-2x Vanessa			   6   DOM FOR aus pre	Ventrue antitribu:2
-2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	Ventrue:2
-1x Kurt Strauss			   5   DOM aus tha	Tremere antitribu:2
-1x Courtland Leighton		   4   dom for pre	Ventrue:1
-1x Ingrid Russo			   4   DOM for		Ventrue antitribu:2
-1x Peter Blaine			   4   aus dom for	Ventrue antitribu:2
-1x Ohanna			   2   dom		Malkavian:2
-1x Samson			   2   dom		Ventrue antitribu:2
+Crypt (12 cards, min=12 max=24 avg=4.58)
+----------------------------------------
+2x Luccia Paciola                  6   DOM for pre      Ventrue:1
+2x Vanessa                         6   DOM FOR aus pre  Ventrue antitribu:2
+2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for      Ventrue:2
+1x Kurt Strauss                    5   DOM aus tha      Tremere antitribu:2
+1x Courtland Leighton              4   dom for pre      Ventrue:1
+1x Ingrid Russo                    4   DOM for          Ventrue antitribu:2
+1x Peter Blaine                    4   aus dom for      Ventrue antitribu:2
+1x Ohanna                          2   dom              Malkavian:2
+1x Samson                          2   dom              Ventrue antitribu:2
 
 Library (69 cards)
 Master (11; 1 trifle)

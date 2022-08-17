@@ -9,18 +9,18 @@ Noel Giménez Infante
 
 Name Deck: Si te paro te vas al hoyo
 
-Crypt (12 cards, min=10, max=30, avg=5.17)
-------------------------------------------
-2x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	 Tzimisce:2 -- Maravillosa su habilidad para torneo xD
-2x Corine Marcón		    6	AUS VIC ani			 Tzimisce:2
-1x Meshenka			    8	ANI AUS VIC		priscus	 Tzimisce:2 -- sobrevalorada por muchos para mi gusto
-1x Caliban			    6	ANI AUS VIC			 Tzimisce:2
-1x Ana Rita Montaña		    5	VIC aus dom obf			 Tzimisce:3
-1x Devin Bisley			    5	ANI AUS vic			 Tzimisce:2
-1x Lolita Houston		    4	VIC aus				 Tzimisce:2
-1x Isabel de Leon		    3	AUS				 Toreador:2
-1x Horatio			    2	vic				 Tzimisce:2
-1x Olga Triminov		    1	vic				 Pander:3 -- junto a horario los más bleederos del mazo, es espectacular el miedo que se les tiene XD
+Crypt (12 cards, min=10 max=30 avg=5.17)
+----------------------------------------
+2x Sascha Vykos, The Angel of Caine 8   AUS THA VIC ani dom     priscus  Tzimisce:2 -- Maravillosa su habilidad para torneo xD
+2x Corine Marcón                    6   AUS VIC ani                      Tzimisce:2
+1x Meshenka                         8   ANI AUS VIC             priscus  Tzimisce:2 -- sobrevalorada por muchos para mi gusto
+1x Caliban                          6   ANI AUS VIC                      Tzimisce:2
+1x Ana Rita Montaña                 5   VIC aus dom obf                  Tzimisce:3
+1x Devin Bisley                     5   ANI AUS vic                      Tzimisce:2
+1x Lolita Houston                   4   VIC aus                          Tzimisce:2
+1x Isabel de Leon                   3   AUS                              Toreador:2
+1x Horatio                          2   vic                              Tzimisce:2
+1x Olga Triminov                    1   vic                              Pander:3 -- junto a horario los más bleederos del mazo, es espectacular el miedo que se les tiene XD
 
 Library (90 cards)
 Master (22; 3 trifle)

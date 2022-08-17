@@ -7,12 +7,12 @@ Marc Desaulniers
 
 Deck Name: Hartmut's Corporation V 2.0
 
-Crypt (12 cards, min=28, max=40, avg=8.25)
-------------------------------------------
-4x Hartmut Stover   10	CEL OBF PRO dom for	 archbishop	Gangrel antitribu:3
-3x Sébastien Goulet 8	DOM OBF cel pre pro	 		Gangrel antitribu:3
-3x Phillipe Rigaud  7	DOM OBF PRO ani aus obt	 		Gangrel antitribu:4
-2x Soldat	    7	POT PRO cel dom obf	 		Gangrel antitribu:3
+Crypt (12 cards, min=28 max=40 avg=8.25)
+----------------------------------------
+4x Hartmut Stover   10  CEL OBF PRO dom for      archbishop     Gangrel antitribu:3
+3x Sébastien Goulet 8   DOM OBF cel pre pro                     Gangrel antitribu:3
+3x Phillipe Rigaud  7   DOM OBF PRO ani aus obt                 Gangrel antitribu:4
+2x Soldat           7   POT PRO cel dom obf                     Gangrel antitribu:3
 
 Library (90 cards)
 Master (18)

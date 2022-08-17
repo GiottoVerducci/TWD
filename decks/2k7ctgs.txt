@@ -8,15 +8,15 @@ Martin Anderdahl
 Deck Name: Jaroslav Goes EuroTechno
 Created by: Martin Anderdahl and Christoffer Arvidsson
 
-Crypt (12 cards, min=20, max=38, avg=7.42)
-------------------------------------------
-3x Jaroslav Pascek		10  CEL POT PRE for obf	 justicar  Brujah:3
-2x Constanza Vinti		8   CEL DOM POT		 prince	   Brujah:2
-2x Dónal O'Connor		8   CEL DOM POT		 prince	   Brujah:2
-2x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
-1x Juggler			7   CEL DOM obf pot	 	   Brujah:3
-1x Pug Jackson			6   CEL POT for pre	 primogen  Brujah:3
-1x Earl				4   dom for pot		 	   Ventrue:3
+Crypt (12 cards, min=20 max=38 avg=7.42)
+----------------------------------------
+3x Jaroslav Pascek              10  CEL POT PRE for obf  justicar  Brujah:3
+2x Constanza Vinti              8   CEL DOM POT          prince    Brujah:2
+2x Dónal O'Connor               8   CEL DOM POT          prince    Brujah:2
+2x Volker, The Puppet Prince    5   CEL pot              prince    Brujah:2
+1x Juggler                      7   CEL DOM obf pot                Brujah:3
+1x Pug Jackson                  6   CEL POT for pre      primogen  Brujah:3
+1x Earl                         4   dom for pot                    Ventrue:3
 
 Library (90 cards)
 Master (14)

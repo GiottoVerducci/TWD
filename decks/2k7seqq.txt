@@ -8,17 +8,17 @@ Deck Name: I like Dirt 2007
 
 Description: Earth Meld wall with a splash of stealth bleed
 
-Crypt (12 cards, min=12, max=27, avg=4.67)
-------------------------------------------
-2x Nadima		8   FOR PRO SER ani aus	 Gangrel:3
-2x Dr. Allan Woodstock	5   PRO ani aus for	 Gangrel:3
-2x Chandler Hungerford	3   PRO			 Gangrel:2
-1x Horrock		6   ANI PRO vic		 Gangrel:3
-1x Mirembe Kabbada	5   PRO SER ani		 Gangrel:2
-1x Daliyah		4   PRO obf		 Nosferatu:2
-1x Isabel de Leon	3   AUS			 Toreador:2
-1x Martin Franckel	3   AUS tha		 Tremere:3
-1x Zöe			3   AUS cel obf		 Malkavian:2
+Crypt (12 cards, min=12 max=27 avg=4.67)
+----------------------------------------
+2x Nadima               8   FOR PRO SER ani aus  Gangrel:3
+2x Dr. Allan Woodstock  5   PRO ani aus for      Gangrel:3
+2x Chandler Hungerford  3   PRO                  Gangrel:2
+1x Horrock              6   ANI PRO vic          Gangrel:3
+1x Mirembe Kabbada      5   PRO SER ani          Gangrel:2
+1x Daliyah              4   PRO obf              Nosferatu:2
+1x Isabel de Leon       3   AUS                  Toreador:2
+1x Martin Franckel      3   AUS tha              Tremere:3
+1x Zöe                  3   AUS cel obf          Malkavian:2
 
 Library (75 cards)
 Master (12)

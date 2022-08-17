@@ -6,20 +6,20 @@ Erik Torstensson
 
 Deck Name: Some shit from the internet that I tweaked
 
-Crypt (12 cards, min=19, max=31, avg=6.5)
------------------------------------------
-1x Baron, The				9   FOR NEC OBF THN dom	 2 votes  Samedi:2
-1x Anisa Marianna Lopez			8   FOR NEC QUI aus	 	  Harbinger of Skulls:2
-1x Andrea Giovanni			7   DOM NEC pot vic	 	  Giovanni:2
-1x Carlotta Giovanni			7   NEC POT dom obf	 	  Giovanni:2
-1x Egothha				7   AUS FOR NEC obf	 	  Harbinger of Skulls:2
-1x Gillespi Giovanni			7   DOM NEC POT aus	 	  Giovanni:2
-1x Gisela Harden, The Winnower		7   FOR NEC aus dem	 priscus  Harbinger of Skulls:2
-1x Kanimana Belghazi			7   AUS DOM NEC pro	 	  Nagaraja:2
-1x Agaitas, The Scholar of Antiquities	6   AUS NEC for		 	  Harbinger of Skulls:2
-1x Isabel Giovanni			5   DOM NEC pot		 	  Giovanni:2
-1x Le Dinh Tho				5   NEC aus dom		 	  Nagaraja:2
-1x Rudolfo Giovanni			3   NEC			 	  Giovanni:2
+Crypt (12 cards, min=19 max=31 avg=6.5)
+---------------------------------------
+1x Baron, The                           9   FOR NEC OBF THN dom  2 votes  Samedi:2
+1x Anisa Marianna Lopez                 8   FOR NEC QUI aus               Harbinger of Skulls:2
+1x Andrea Giovanni                      7   DOM NEC pot vic               Giovanni:2
+1x Carlotta Giovanni                    7   NEC POT dom obf               Giovanni:2
+1x Egothha                              7   AUS FOR NEC obf               Harbinger of Skulls:2
+1x Gillespi Giovanni                    7   DOM NEC POT aus               Giovanni:2
+1x Gisela Harden, The Winnower          7   FOR NEC aus dem      priscus  Harbinger of Skulls:2
+1x Kanimana Belghazi                    7   AUS DOM NEC pro               Nagaraja:2
+1x Agaitas, The Scholar of Antiquities  6   AUS NEC for                   Harbinger of Skulls:2
+1x Isabel Giovanni                      5   DOM NEC pot                   Giovanni:2
+1x Le Dinh Tho                          5   NEC aus dom                   Nagaraja:2
+1x Rudolfo Giovanni                     3   NEC                           Giovanni:2
 
 Library (70 cards)
 Master (27)

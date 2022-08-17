@@ -8,15 +8,15 @@ https://www.vekn.net/event-calendar/event/9794
 
 -- 3vp in the final
 
-Crypt (12 cards, min=8, max=40, avg=6.08)
------------------------------------------
-4x Erlik	   10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-3x Anarch Convert  1   -none-		    Caitiff:ANY
-1x Babalawo Alafin 7   AUS FOR NEC ani	    Harbinger of Skulls:4
-1x Erebus	   7   AUS FOR NEC dem	    Harbinger of Skulls:3
-1x Mina Grotius	   6   FOR NEC cel	    Harbinger of Skulls:3
-1x Nicomedes	   5   aus for nec vic	    Harbinger of Skulls:4
-1x Solomon Batanea 5   AUS FOR nec	    Harbinger of Skulls:4
+Crypt (12 cards, min=8 max=40 avg=6.08)
+---------------------------------------
+4x Erlik           10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+3x Anarch Convert  1   -none-               Caitiff:ANY
+1x Babalawo Alafin 7   AUS FOR NEC ani      Harbinger of Skulls:4
+1x Erebus          7   AUS FOR NEC dem      Harbinger of Skulls:3
+1x Mina Grotius    6   FOR NEC cel          Harbinger of Skulls:3
+1x Nicomedes       5   aus for nec vic      Harbinger of Skulls:4
+1x Solomon Batanea 5   AUS FOR nec          Harbinger of Skulls:4
 
 Library (90 cards)
 Master (18; 6 trifle)

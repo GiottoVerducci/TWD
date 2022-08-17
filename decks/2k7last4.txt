@@ -8,15 +8,15 @@ Deck Name: Path of Pommes Frittes
 
 Description: Please bleed responsibly
 
-Crypt (12 cards, min=19, max=28, avg=5.92)
-------------------------------------------
-3x Antoinette, She Who Watches	6   AUS PRE cel obf	 primogen  Toreador:3
-2x Stavros			7   AUS OBF PRE dem	 priscus   Malkavian antitribu:4
-2x Suzanne Kadim		7   CEL PRE aus dom obf	 	   Toreador:3
-2x Raphael Catarari		5   OBF PRE aus pot tha	 	   Nosferatu antitribu:4
-1x Ankh-sen-Sutekh		6   PRE SER obf		 	   Follower of Set:4
-1x Renenet			5   OBF PRE ser		 	   Follower of Set:4
-1x Maldavis			4   AUS for pre		 	   Caitiff:3
+Crypt (12 cards, min=19 max=28 avg=5.92)
+----------------------------------------
+3x Antoinette, She Who Watches  6   AUS PRE cel obf      primogen  Toreador:3
+2x Stavros                      7   AUS OBF PRE dem      priscus   Malkavian antitribu:4
+2x Suzanne Kadim                7   CEL PRE aus dom obf            Toreador:3
+2x Raphael Catarari             5   OBF PRE aus pot tha            Nosferatu antitribu:4
+1x Ankh-sen-Sutekh              6   PRE SER obf                    Follower of Set:4
+1x Renenet                      5   OBF PRE ser                    Follower of Set:4
+1x Maldavis                     4   AUS for pre                    Caitiff:3
 
 Library (90 cards)
 Master (15)

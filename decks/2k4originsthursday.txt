@@ -4,16 +4,16 @@ June 24th 2004
 25 players
 David Tatu
 
-Crypt (12 cards, min=19, max=26, avg=5.75)
-------------------------------------------
-5x Jost Werner				  6   AUS PRE ani		 Toreador antitribu:2
-1x Kendrick				  7   ANI POT aus obf	priscus	 Nosferatu antitribu:2
-1x Teresita, The Godmother		  7   ANI OBF POT for		 Nosferatu antitribu:3
-1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot		 Nosferatu antitribu:2
-1x Ox, Viceroy of the Hollows		  6   ANI OBF POT		 Nosferatu antitribu:2
-1x Cicatriz				  5   ani obf pot	bishop	 Nosferatu antitribu:2
-1x Nigel the Shunned			  5   ANI POT obf		 Nosferatu antitribu:2
-1x Shannon Price, The Whisperer		  3   ani obf			 Nosferatu antitribu:2
+Crypt (12 cards, min=19 max=26 avg=5.75)
+----------------------------------------
+5x Jost Werner                            6   AUS PRE ani                Toreador antitribu:2
+1x Kendrick                               7   ANI POT aus obf   priscus  Nosferatu antitribu:2
+1x Teresita, The Godmother                7   ANI OBF POT for            Nosferatu antitribu:3
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot                Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows             6   ANI OBF POT                Nosferatu antitribu:2
+1x Cicatriz                               5   ani obf pot       bishop   Nosferatu antitribu:2
+1x Nigel the Shunned                      5   ANI POT obf                Nosferatu antitribu:2
+1x Shannon Price, The Whisperer           3   ani obf                    Nosferatu antitribu:2
 
 Library (90 cards)
 Master (12)

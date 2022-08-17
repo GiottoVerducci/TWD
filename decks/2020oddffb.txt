@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/9653
 
 Deck Name: Weenie Animalismo
 
-Crypt (12 cards, min=4, max=18, avg=2.5)
-----------------------------------------
-4x Anarch Convert  1   -none-			Caitiff:ANY
-1x Lord Ashton	   5   ANI for pro		Gangrel:3
-1x Yuri Kerezenski 5   ANI aus for vic	bishop	Tzimisce:4
-1x Beetleman	   4   ANI obf			Nosferatu:4
-1x Bobby Lemon	   4   ANI pro			Gangrel:3
-1x Stick	   3   ANI			Nosferatu antitribu:4
-1x Mouse	   2   ani			Nosferatu:3
-1x Zip		   2   ani			Ravnos:3
-1x Lisa Noble	   1   ani			Caitiff:3
+Crypt (12 cards, min=4 max=18 avg=2.5)
+--------------------------------------
+4x Anarch Convert  1   -none-                   Caitiff:ANY
+1x Lord Ashton     5   ANI for pro              Gangrel:3
+1x Yuri Kerezenski 5   ANI aus for vic  bishop  Tzimisce:4
+1x Beetleman       4   ANI obf                  Nosferatu:4
+1x Bobby Lemon     4   ANI pro                  Gangrel:3
+1x Stick           3   ANI                      Nosferatu antitribu:4
+1x Mouse           2   ani                      Nosferatu:3
+1x Zip             2   ani                      Ravnos:3
+1x Lisa Noble      1   ani                      Caitiff:3
 
 Library (80 cards)
 Master (17; 2 trifle)

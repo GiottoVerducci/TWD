@@ -19,14 +19,14 @@ reason for the heavy reaction package is to be opportunistic in blocking,
 choosing battles wisely and taking advantage of as many combo cards as
 possible.
 
-Crypt (12 cards, min=16, max=30, avg=5.83)
-------------------------------------------
-2x Bloody Mary		8   AUS DEM OBF pre	primogen  Malkavian:5
-2x Apolonia Czarnecki	7   AUS DEM OBF pre		  Malkavian:5
-2x Hagar Stone		6   AUS DEM obf			  Malkavian antitribu:5
-2x Morel		6   AUS DEM OBF			  Malkavian:4
-2x Arthur Denholm	5   AUS DEM obf			  Malkavian:5
-2x Jackie		3   DEM				  Malkavian antitribu:4
+Crypt (12 cards, min=16 max=30 avg=5.83)
+----------------------------------------
+2x Bloody Mary          8   AUS DEM OBF pre     primogen  Malkavian:5
+2x Apolonia Czarnecki   7   AUS DEM OBF pre               Malkavian:5
+2x Hagar Stone          6   AUS DEM obf                   Malkavian antitribu:5
+2x Morel                6   AUS DEM OBF                   Malkavian:4
+2x Arthur Denholm       5   AUS DEM obf                   Malkavian:5
+2x Jackie               3   DEM                           Malkavian antitribu:4
 
 Library (87 cards)
 Master (14; 4 trifle)

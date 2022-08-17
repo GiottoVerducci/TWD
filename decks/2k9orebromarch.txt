@@ -9,12 +9,12 @@ Deck Name: girls will find...
 Much based/stolen from Teemu Sainomaa's deck, so credit should go that
 way. Biggest difference is the Liquidation+Ashur Tablets combo, which is kinda decent:o
 
-Crypt (12 cards, min=36, max=40, avg=9.67)
-------------------------------------------
-4x Cybele	  10  ANI DAI OBF PRE SER THA	Baali:4
-3x Nergal	  10  AUS DAI FOR OBF PRE THA	Baali:5
-1x Nergal (ADV)	  10  AUS DAI FOR OBF PRE THA	Baali:5
-4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
+Crypt (12 cards, min=36 max=40 avg=9.67)
+----------------------------------------
+4x Cybele         10  ANI DAI OBF PRE SER THA   Baali:4
+3x Nergal         10  AUS DAI FOR OBF PRE THA   Baali:5
+1x Nergal (ADV)   10  AUS DAI FOR OBF PRE THA   Baali:5
+4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha   Gangrel antitribu:4
 
 Library (86 cards)
 Master (59; 8 trifle)

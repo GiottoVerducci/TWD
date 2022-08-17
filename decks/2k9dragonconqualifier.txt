@@ -8,19 +8,19 @@ Deck Name: Imitation Jay
 
 Description: Robyn was top seed going into the finals.
 
-Crypt (12 cards, min=20, max=26, avg=5.58)
-------------------------------------------
-2x Banjoko		    5	DOM obt pot	 	 Lasombra:3
-1x Dr. Julius Sutphen	    5	POT dom obt	 bishop	 Lasombra:3
-1x Dr. Julius Sutphen (ADV) 5	POT dom obt	 	 Lasombra:3
-1x Henri Lavenant	    7	DOM OBT pot qui	 	 Lasombra:3
-1x Tobias Smith		    7	DOM OBT PRE pot	 	 Lasombra:3
-1x Black Wallace	    6	DOM POT obt tha	 	 Lasombra:4
-1x Onaedo		    6	DOM OBT aus pot	 	 Lasombra:4
-1x Virginie, Prodigy	    6	DOM POT obt	 bishop	 Lasombra:4
-1x Andrew Emory		    5	OBT aus dom pot	 bishop	 Lasombra:4
-1x Dame Hollerton	    5	DOM OBT myt	 	 Kiasyd:4
-1x Ermenegildo, The Rake    5	DOM OBT pot	 	 Lasombra:4
+Crypt (12 cards, min=20 max=26 avg=5.58)
+----------------------------------------
+2x Banjoko                  5   DOM obt pot              Lasombra:3
+1x Dr. Julius Sutphen       5   POT dom obt      bishop  Lasombra:3
+1x Dr. Julius Sutphen (ADV) 5   POT dom obt              Lasombra:3
+1x Henri Lavenant           7   DOM OBT pot qui          Lasombra:3
+1x Tobias Smith             7   DOM OBT PRE pot          Lasombra:3
+1x Black Wallace            6   DOM POT obt tha          Lasombra:4
+1x Onaedo                   6   DOM OBT aus pot          Lasombra:4
+1x Virginie, Prodigy        6   DOM POT obt      bishop  Lasombra:4
+1x Andrew Emory             5   OBT aus dom pot  bishop  Lasombra:4
+1x Dame Hollerton           5   DOM OBT myt              Kiasyd:4
+1x Ermenegildo, The Rake    5   DOM OBT pot              Lasombra:4
 
 Library (77 cards)
 Master (20; 4 trifle)

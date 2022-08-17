@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/7565
 
 Deck Name: Ventrue! PowerStreet
 
-Crypt (12 cards, min=25, max=34, avg=7.5)
------------------------------------------
-2x Quentin			9   AUS DOM FOR cel obt	 bishop		Ventrue antitribu:2
-2x Gustav Mallenhous		8   AUS DOM for obt	 priscus	Ventrue antitribu:2
-2x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 		Ventrue antitribu:3
-2x Blackhorse Tanner		7   AUS DOM FOR		 		Ventrue antitribu:3
-2x Marlene, The Infernalist	6   AUS DOM dem for tha	 		Ventrue antitribu:2
-1x Jesse Menks			8   AUS DOM FOR ani	 archbishop	Ventrue antitribu:3
-1x Vanessa			6   DOM FOR aus pre	 		Ventrue antitribu:2
+Crypt (12 cards, min=25 max=34 avg=7.5)
+---------------------------------------
+2x Quentin                      9   AUS DOM FOR cel obt  bishop         Ventrue antitribu:2
+2x Gustav Mallenhous            8   AUS DOM for obt      priscus        Ventrue antitribu:2
+2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre                 Ventrue antitribu:3
+2x Blackhorse Tanner            7   AUS DOM FOR                         Ventrue antitribu:3
+2x Marlene, The Infernalist     6   AUS DOM dem for tha                 Ventrue antitribu:2
+1x Jesse Menks                  8   AUS DOM FOR ani      archbishop     Ventrue antitribu:3
+1x Vanessa                      6   DOM FOR aus pre                     Ventrue antitribu:2
 
 Library (90 cards)
 Master (15; 5 trifle)

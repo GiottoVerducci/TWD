@@ -12,18 +12,18 @@ https://www.facebook.com/vtessp/photos/a.650490931669648/3471730682878978/?type=
 Deck Name: Tzimisce Living Manse v3b
 Description: Bleed and control
 
-Crypt (12 cards, min=12, max=24, avg=4.67)
-------------------------------------------
-2x Caliban		6   ANI AUS VIC		Tzimisce:2
-2x Corine Marcón	6   AUS VIC ani		Tzimisce:2
-1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
-1x Devin Bisley		5   ANI AUS vic		Tzimisce:2
-1x Elizabeth Westcott	5   AUS ani cel vic	Tzimisce:3
-1x Rose, The		5   PRE VIC aus		Tzimisce:3
-1x Lolita Houston	4   VIC aus		Tzimisce:2
-1x Terrence		4   ani aus vic		Tzimisce:2
-1x Horatio		2   vic			Tzimisce:2
-1x Piotr Andreikov	2   aus			Tzimisce:3
+Crypt (12 cards, min=12 max=24 avg=4.67)
+----------------------------------------
+2x Caliban              6   ANI AUS VIC         Tzimisce:2
+2x Corine Marcón        6   AUS VIC ani         Tzimisce:2
+1x Ana Rita Montaña     5   VIC aus dom obf     Tzimisce:3
+1x Devin Bisley         5   ANI AUS vic         Tzimisce:2
+1x Elizabeth Westcott   5   AUS ani cel vic     Tzimisce:3
+1x Rose, The            5   PRE VIC aus         Tzimisce:3
+1x Lolita Houston       4   VIC aus             Tzimisce:2
+1x Terrence             4   ani aus vic         Tzimisce:2
+1x Horatio              2   vic                 Tzimisce:2
+1x Piotr Andreikov      2   aus                 Tzimisce:3
 
 Library (77 cards)
 Master (15; 6 trifle)

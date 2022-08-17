@@ -9,13 +9,13 @@ Deck Name: Viens voir mon Gros Lulu
 
 Description: Terrorist deck, friend of all the players of the table
 
-Crypt (12 cards, min=4, max=20, avg=3)
---------------------------------------
-4x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-4x Tupdog		1   POT VIS		Gargoyle:3
-2x Keith Moody		3   DOM			Tremere antitribu:4
-1x Ember Wright		3   aus dom		Tremere antitribu:3
-1x Lectora		3   aus tha		Tremere antitribu:4
+Crypt (12 cards, min=4 max=20 avg=3)
+------------------------------------
+4x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+4x Tupdog               1   POT VIS             Gargoyle:3
+2x Keith Moody          3   DOM                 Tremere antitribu:4
+1x Ember Wright         3   aus dom             Tremere antitribu:3
+1x Lectora              3   aus tha             Tremere antitribu:4
 
 Library (75 cards)
 Master (15; 1 trifle)

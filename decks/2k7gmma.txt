@@ -9,13 +9,13 @@ Deck Name: God, not her again
 
 Description: First Tradition and Lextalionis ftw!
 
-Crypt (12 cards, min=25, max=44, avg=9.17)
-------------------------------------------
-5x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-2x Marcus Vitel			   10  DOM FOR OBF OBT PRE	prince		Ventrue:3
-2x Queen Anne			   10  DOM FOR PRE aus obf	prince		Ventrue:2
-2x Catherine du Bois		   5   DOM for obf pre				Ventrue:3
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
+Crypt (12 cards, min=25 max=44 avg=9.17)
+----------------------------------------
+5x Arika                           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+2x Marcus Vitel                    10  DOM FOR OBF OBT PRE      prince          Ventrue:3
+2x Queen Anne                      10  DOM FOR PRE aus obf      prince          Ventrue:2
+2x Catherine du Bois               5   DOM for obf pre                          Ventrue:3
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                              Ventrue:2
 
 Library (90 cards)
 Master (14)

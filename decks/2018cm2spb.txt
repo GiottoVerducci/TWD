@@ -10,19 +10,19 @@ https://www.vekn.net/event-calendar/event/8931
 
 Deck Name: Sombra
 
-Crypt (13 cards, min=22, max=30, avg=6.62)
-------------------------------------------
-3x Badr, Shadow of Granada 7   DOM OBT POT	    		Lasombra:5
-1x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
-1x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
-1x Lord Vauxhall	   7   DOM OBT POT THA	    		Lasombra:4
-1x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
-1x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
-1x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
-1x Onaedo		   6   DOM OBT aus pot	    		Lasombra:4
-1x Virginie, Prodigy	   6   DOM POT obt	    bishop	Lasombra:4
-1x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
-1x Ermenegildo, The Rake   5   DOM OBT pot	    		Lasombra:4
+Crypt (13 cards, min=22 max=30 avg=6.62)
+----------------------------------------
+3x Badr, Shadow of Granada 7   DOM OBT POT                      Lasombra:5
+1x Arcadian, The           8   DOM MYT OBT chi for              Kiasyd:5
+1x Pherydima               8   DOM MYT NEC obt pot  bishop      Kiasyd:4
+1x Lord Vauxhall           7   DOM OBT POT THA                  Lasombra:4
+1x Omme Enberbenight       7   MYT OBT cel dom      priscus     Kiasyd:4
+1x Roderick Phillips March 7   DOM MYT cel obt tha              Kiasyd:4
+1x Isanwayen               6   DOM MYT OBT                      Kiasyd:4
+1x Onaedo                  6   DOM OBT aus pot                  Lasombra:4
+1x Virginie, Prodigy       6   DOM POT obt          bishop      Lasombra:4
+1x Dame Hollerton          5   DOM OBT myt                      Kiasyd:4
+1x Ermenegildo, The Rake   5   DOM OBT pot                      Lasombra:4
 
 Library (90 cards)
 Master (11)

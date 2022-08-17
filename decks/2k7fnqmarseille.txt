@@ -7,17 +7,17 @@ Axel Ménard
 Deck Name: Edouard aux mains d'argent
 Created by: Blondin (Florian Prosper)
 
-Crypt (12 cards, min=15, max=24, avg=4.92)
-------------------------------------------
-3x Edward Vignes		   6   DOM PRE for	Ventrue:3
-2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	Ventrue:2
-1x Alan Sovereign		   6   AUS DOM for pre	Ventrue:3
-1x Boss Callihan		   5   PRE dom for pro	Ventrue:3
-1x Catherine du Bois		   5   DOM for obf pre	Ventrue:3
-1x Ilyana Ravidovich		   5   aus dom for pre	Ventrue:3
-1x Ingrid Russo			   4   DOM for		Ventrue antitribu:2
-1x Diana Vick			   3   dom pre		Ventrue:3
-1x Lana Butcher			   3   dom for		Ventrue:3
+Crypt (12 cards, min=15 max=24 avg=4.92)
+----------------------------------------
+3x Edward Vignes                   6   DOM PRE for      Ventrue:3
+2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for      Ventrue:2
+1x Alan Sovereign                  6   AUS DOM for pre  Ventrue:3
+1x Boss Callihan                   5   PRE dom for pro  Ventrue:3
+1x Catherine du Bois               5   DOM for obf pre  Ventrue:3
+1x Ilyana Ravidovich               5   aus dom for pre  Ventrue:3
+1x Ingrid Russo                    4   DOM for          Ventrue antitribu:2
+1x Diana Vick                      3   dom pre          Ventrue:3
+1x Lana Butcher                    3   dom for          Ventrue:3
 
 Library (70 cards)
 Master (16; 3 trifle)

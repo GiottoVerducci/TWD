@@ -12,11 +12,11 @@ Deck Name: Mal's Wall of Fatties
 
 Description: Use Malgorzata's special to get the Capuchin out, then Lord Tremere, wall up and make them obey. Use Magics to get the Capuchin the Erebus Mask, get somebody the Bowl of Convergence or Signet of King Saul if you need it and Heart of Nizchetus if not. Get a Sniper Rifle if there are big caps out there (since they don't obey). Block and bounce carefully. Act recklessly only if you have Mirror Walk in hand. Bloat as needed, tool up, and bleed/vote your prey to death. Allies are bad (they don't obey either), but there are two Far Mastery's, at least, and you have a 9 card hand (or more when you have a Dreams or the Monastery). Lord Tremere gives Mal an extra action and so do Rutor's Hands. Dedicated rush combat is obviously your biggest threat (though the Obediences stop that too as long as they are in your hand and it isn't Enkidu or another 11-cap rusher). I actually had a multi-rush Lazverinus, Thrall of Lambach, deck as my predator in the first round, but he was so busy rushing his stealth bleed predator and grand predator (after his predator was ousted), that he never had a chance to rush me. I actually bled out my prey (when it was down to the two of us) one second before the game timed out. Fun times.
 
-Crypt (12 cards, min=36, max=44, avg=10.17)
--------------------------------------------
-5x Malgorzata	 9   AUS DOM THA VIC pre	priscus	 Tremere antitribu:4
-4x Capuchin, The 11  AUS DOM FOR NEC THA THN		 Harbinger of Skulls:5
-3x Lord Tremere	 11  ANI AUS DOM THA VIC obe		 Tremere:5
+Crypt (12 cards, min=36 max=44 avg=10.17)
+-----------------------------------------
+5x Malgorzata    9   AUS DOM THA VIC pre        priscus  Tremere antitribu:4
+4x Capuchin, The 11  AUS DOM FOR NEC THA THN             Harbinger of Skulls:5
+3x Lord Tremere  11  ANI AUS DOM THA VIC obe             Tremere:5
 
 Library (90 cards)
 Master (23; 7 trifle)

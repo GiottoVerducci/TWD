@@ -12,16 +12,16 @@ Deck Name: Toreador Gun Wall
 
 Description: Toreador prince gun wall.
 
-Crypt (12 cards, min=18, max=42, avg=7.5)
------------------------------------------
-3x Ira Rivers			7   AUS CEL ani pre		prince		Toreador:3
-2x Alexandra			11  ANI AUS CEL PRE dom		inner circle	Toreador:2
-2x Marcellus			8   AUS CEL pro			prince		Toreador:2
-1x François Villon		10  AUS CEL PRE chi obf pot	prince		Toreador:2
-1x Madame Guil			10  AUS CEL PRE for pot ser	justicar	Toreador:3
-1x Volker, The Puppet Prince	5   CEL pot			prince		Brujah:2
-1x Isabel de Leon		3   AUS						Toreador:2
-1x Zöe				3   AUS cel obf					Malkavian:2
+Crypt (12 cards, min=18 max=42 avg=7.5)
+---------------------------------------
+3x Ira Rivers                   7   AUS CEL ani pre             prince          Toreador:3
+2x Alexandra                    11  ANI AUS CEL PRE dom         inner circle    Toreador:2
+2x Marcellus                    8   AUS CEL pro                 prince          Toreador:2
+1x François Villon              10  AUS CEL PRE chi obf pot     prince          Toreador:2
+1x Madame Guil                  10  AUS CEL PRE for pot ser     justicar        Toreador:3
+1x Volker, The Puppet Prince    5   CEL pot                     prince          Brujah:2
+1x Isabel de Leon               3   AUS                                         Toreador:2
+1x Zöe                          3   AUS cel obf                                 Malkavian:2
 
 Library (86 cards)
 Master (19; 8 trifle)

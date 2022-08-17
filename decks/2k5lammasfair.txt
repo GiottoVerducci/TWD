@@ -6,19 +6,19 @@ Hugh Angseesing
 
 Lambach's Bleeding Minions
 
-Crypt (14 cards, min=9, max=40, avg=6)
---------------------------------------
-4x Lambach				  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
-1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
-1x Dominique				  7   AUS FOR ani dom vic  		Ventrue antitribu:2
-1x Violet Tremain			  6   dom pre tha vic	   bishop	Tzimisce:2
-1x Ana Rita Montaña			  5   VIC aus dom obf	   		Tzimisce:3
-1x Enid Blount				  5   aus dom pre vic	   		Toreador:3
-1x Lolita Houston			  4   VIC aus		   		Tzimisce:2
-1x Ramiro				  4   dom obt vic	   		Lasombra:2
-1x Christine Boscacci			  2   dom vic		   		Pander:2
-1x Horatio				  2   vic		   		Tzimisce:2
-1x Olga Triminov			  1   vic		   		Pander:3
+Crypt (14 cards, min=9 max=40 avg=6)
+------------------------------------
+4x Lambach                                10  ANI AUS DOM VIC pre  cardinal     Tzimisce:2
+1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop   Tzimisce:2
+1x Dominique                              7   AUS FOR ani dom vic               Ventrue antitribu:2
+1x Violet Tremain                         6   dom pre tha vic      bishop       Tzimisce:2
+1x Ana Rita Montaña                       5   VIC aus dom obf                   Tzimisce:3
+1x Enid Blount                            5   aus dom pre vic                   Toreador:3
+1x Lolita Houston                         4   VIC aus                           Tzimisce:2
+1x Ramiro                                 4   dom obt vic                       Lasombra:2
+1x Christine Boscacci                     2   dom vic                           Pander:2
+1x Horatio                                2   vic                               Tzimisce:2
+1x Olga Triminov                          1   vic                               Pander:3
 
 Library (90 cards)
 Master (16; 1 trifle)

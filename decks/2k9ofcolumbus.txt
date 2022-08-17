@@ -12,14 +12,14 @@ I just put together what I thought was in it and my own pet cards.
 Thanks Newquists!! I remembered, too late, theirs had a Giant's Blood in it.
 Papillon is...good. No win without it.
 
-Crypt (12 cards, min=34, max=41, avg=9.25)
-------------------------------------------
-3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
-3x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
-2x Gerald Windham	 9   AUS DOM FOR THA				Tremere:5
-2x Troius		 8   AUS DOM THA cel		prince		Tremere:4
-1x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
-1x Dr. John Dee		 9   ANI AUS DOM THA chi	prince		Tremere:4
+Crypt (12 cards, min=34 max=41 avg=9.25)
+----------------------------------------
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
+3x Orlando Oriundus      9   AUS DOM THA obf            bishop          Tremere antitribu:4
+2x Gerald Windham        9   AUS DOM FOR THA                            Tremere:5
+2x Troius                8   AUS DOM THA cel            prince          Tremere:4
+1x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
+1x Dr. John Dee          9   ANI AUS DOM THA chi        prince          Tremere:4
 
 Library (90 cards)
 Master (15)

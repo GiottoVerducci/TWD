@@ -18,17 +18,17 @@ Final: Ian Lee (Followers Stealth Bleed)
 
 Description: Blood retention (Path of Typhon, Life in the City) style Serpentis SB.
 
-Crypt (12 cards, min=6, max=26, avg=4.33)
------------------------------------------
-3x Anarch Convert			1   -none-			 Caitiff:ANY
-2x Hesha Ruhadze			6   SER ani obf pre		 Follower of Set:2
-1x Kephamos, High Priest of Marrakech	8   SER dom obf pre	2 votes	 Follower of Set:2
-1x Ezekiel, Lord of Montreal		6   PRE SER obf pot		 Follower of Set:3
-1x Samat Ramal-Ra, Archon		6   OBF pre ser tha		 Follower of Set:2
-1x Count Ormonde			5   OBF dom pre ser		 Follower of Set:2
-1x Sir Marriot D'Urban			5   PRE aus obf ser		 Follower of Set:2
-1x Nepata				4   obf pre ser			 Follower of Set:2
-1x Celine Chevalier			3   obf ser			 Follower of Set:2
+Crypt (12 cards, min=6 max=26 avg=4.33)
+---------------------------------------
+3x Anarch Convert                       1   -none-                       Caitiff:ANY
+2x Hesha Ruhadze                        6   SER ani obf pre              Follower of Set:2
+1x Kephamos, High Priest of Marrakech   8   SER dom obf pre     2 votes  Follower of Set:2
+1x Ezekiel, Lord of Montreal            6   PRE SER obf pot              Follower of Set:3
+1x Samat Ramal-Ra, Archon               6   OBF pre ser tha              Follower of Set:2
+1x Count Ormonde                        5   OBF dom pre ser              Follower of Set:2
+1x Sir Marriot D'Urban                  5   PRE aus obf ser              Follower of Set:2
+1x Nepata                               4   obf pre ser                  Follower of Set:2
+1x Celine Chevalier                     3   obf ser                      Follower of Set:2
 
 Library (90 cards)
 Master (28; 9 trifle)

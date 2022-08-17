@@ -16,10 +16,10 @@ Note: these are all Sudden Reversal magnets. I never got more than 2 media locat
 
 NOTE: out of 4 games, I only got Mr Winthrop once, and no Sport Bike ever. Everyone knows Henry too well, and saves their intercept. A wise player would rather be grappled and punched for 5 than let Henry get set up.
 
-Crypt (12 cards, min=24, max=24, avg=6)
----------------------------------------
-6x Henry Taylor	6   POT cel pre pro	Brujah antitribu:3 -- combat recycling special
-6x Pariah	6   OBF PRO pot pre	Abomination:2 -- rush, +1 strength, discard Master specials
+Crypt (12 cards, min=24 max=24 avg=6)
+-------------------------------------
+6x Henry Taylor 6   POT cel pre pro     Brujah antitribu:3 -- combat recycling special
+6x Pariah       6   OBF PRO pot pre     Abomination:2 -- rush, +1 strength, discard Master specials
 
 Library (90 cards)
 Master (40; 10 trifle)

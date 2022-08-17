@@ -13,16 +13,16 @@ Created by: Ruben feldman
 Description: A slightly modified version of Ruben Feldman's weenie Dementation deck.
 I think the Last Stand might have been the only addition. I don't think it was worth it.
 
-Crypt (12 cards, min=6, max=18, avg=3)
---------------------------------------
-2x Jackie			3   DEM			Malkavian antitribu:4
-2x Midget			3   DEM obf pre		Malkavian antitribu:3
-2x Cassandra Langely, The Waif	2   dem			Malkavian:4
-2x Eddie Gaines			1   dem pot		Caitiff:3
-1x Apache Jones			5   DEM aus for obf	Malkavian antitribu:4
-1x Persia, The Beautiful Statue	5   DEM aus obf		Malkavian:3
-1x Uncle George			5   DEM aus dom obf	Malkavian antitribu:3
-1x Marta			3   aus dem		Malkavian antitribu:4
+Crypt (12 cards, min=6 max=18 avg=3)
+------------------------------------
+2x Jackie                       3   DEM                 Malkavian antitribu:4
+2x Midget                       3   DEM obf pre         Malkavian antitribu:3
+2x Cassandra Langely, The Waif  2   dem                 Malkavian:4
+2x Eddie Gaines                 1   dem pot             Caitiff:3
+1x Apache Jones                 5   DEM aus for obf     Malkavian antitribu:4
+1x Persia, The Beautiful Statue 5   DEM aus obf         Malkavian:3
+1x Uncle George                 5   DEM aus dom obf     Malkavian antitribu:3
+1x Marta                        3   aus dem             Malkavian antitribu:4
 
 Library (85 cards)
 Master (14; 3 trifle)

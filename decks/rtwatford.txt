@@ -11,18 +11,18 @@ mass prevention but very effectively stops and works over a lot of
 'Tournament sleaze' type decks (weenie Pre, s+b, tapout, votes). A
 good standby to have in a collection of ready decks.
 
-Crypt (12 cards, min=12, max=32, avg=5.58)
-------------------------------------------
-2x Constanza Vinti		 8   CEL DOM POT	  prince    Brujah:2
-2x Dónal O'Connor		 8   CEL DOM POT	  prince    Brujah:2
-1x Anvil			 6   CEL POT dom pre tha  primogen  Brujah:1
-1x Damaskenos, Herald of Leandro 6   DOM aus cel pot	  	    Malkavian:2
-1x Rake				 6   PRE aus cel pot	  prince    Brujah:1
-1x Volker, The Puppet Prince	 5   CEL pot		  prince    Brujah:2
-1x Jimmy Dunn			 4   CEL POT for	  	    Pander:2
-1x Cameron			 3   dom pot		  	    Lasombra:2
-1x Dre, Leader of the Cold Dawn	 3   cel pot		  	    Brujah:1
-1x Lupo				 2   pot		  	    Brujah:1
+Crypt (12 cards, min=12 max=32 avg=5.58)
+----------------------------------------
+2x Constanza Vinti               8   CEL DOM POT          prince    Brujah:2
+2x Dónal O'Connor                8   CEL DOM POT          prince    Brujah:2
+1x Anvil                         6   CEL POT dom pre tha  primogen  Brujah:1
+1x Damaskenos, Herald of Leandro 6   DOM aus cel pot                Malkavian:2
+1x Rake                          6   PRE aus cel pot      prince    Brujah:1
+1x Volker, The Puppet Prince     5   CEL pot              prince    Brujah:2
+1x Jimmy Dunn                    4   CEL POT for                    Pander:2
+1x Cameron                       3   dom pot                        Lasombra:2
+1x Dre, Leader of the Cold Dawn  3   cel pot                        Brujah:1
+1x Lupo                          2   pot                            Brujah:1
 
 Library (90 cards)
 Master (16)

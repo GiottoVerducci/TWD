@@ -8,12 +8,12 @@ Jonathan Sanchez Rios
 Deck Name: Antonio pide ayuda a los humanos
 Created by: Noel Giménez Infante
 
-Crypt (12 cards, min=10, max=20, avg=3.67)
-------------------------------------------
-5x Antonio d'Erlette		 5   THA dom for pot	Tremere antitribu:4
-4x Béatrice "Oracle171" Tremblay 3   inn ven		Innocent:4
-2x Keith Moody			 3   DOM		Tremere antitribu:4
-1x Anarch Convert		 1   -none-		Caitiff:ANY
+Crypt (12 cards, min=10 max=20 avg=3.67)
+----------------------------------------
+5x Antonio d'Erlette             5   THA dom for pot    Tremere antitribu:4
+4x Béatrice "Oracle171" Tremblay 3   inn ven            Innocent:4
+2x Keith Moody                   3   DOM                Tremere antitribu:4
+1x Anarch Convert                1   -none-             Caitiff:ANY
 
 Library (80 cards)
 Master (36; 2 trifle)

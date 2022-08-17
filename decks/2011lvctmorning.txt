@@ -31,12 +31,12 @@ a utility vote like Snipe Hunt/Permanent Vacation to take out late
 threats that can be brought back. Delaying Tactics recycled in the
 finals against me slowed down my offense several turns.
 
-Crypt (12 cards, min=34, max=40, avg=9.17)
-------------------------------------------
-4x Armin Brenner  10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
-3x Hektor	  9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
-3x Undele	  9   CEL FOR obf pre ser	magaji	    Ishtarri:5
-2x Klaus Konrecht 8   AUS CEL PRE for pot	cardinal    Toreador antitribu:4
+Crypt (12 cards, min=34 max=40 avg=9.17)
+----------------------------------------
+4x Armin Brenner  10  CEL FOR POT PRE ani obf   archbishop  Brujah antitribu:4
+3x Hektor         9   CEL POT PRE QUI for       priscus     Brujah antitribu:4
+3x Undele         9   CEL FOR obf pre ser       magaji      Ishtarri:5
+2x Klaus Konrecht 8   AUS CEL PRE for pot       cardinal    Toreador antitribu:4
 
 Library (90 cards)
 Master (15; 6 trifle)

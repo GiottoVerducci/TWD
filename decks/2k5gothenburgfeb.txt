@@ -19,17 +19,17 @@ then you're good to go.
 This deck should probably lose two vampires in favour of one more Theo
 Bell and his Advanced copy.
 
-Crypt (12 cards, min=25, max=32, avg=7.08)
-------------------------------------------
-2x Antonio Veradas		   8   CEL POT PRE obf	    bishop  Brujah antitribu:3
-2x Jacko			   8   CEL POT PRE obt	    	    Brujah antitribu:2
-2x Amelia			   7   CEL POT PRE	    bishop  Brujah antitribu:2
-1x Theo Bell			   7   POT cel dom pre	    	    Brujah:2
-1x Theo Bell (ADV)		   7   CEL POT PRE aus dom  	    Brujah:2
-1x Joshua Tarnopolski		   7   CEL PRE obf pot	    	    Brujah:3
-1x Richter, The Templar of Du Mont 7   CEL POT for pre	    	    Brujah antitribu:2
-1x Julian Sanders		   6   CEL PRE pot	    	    Brujah antitribu:2
-1x Rigby, Crusade Vanguard	   5   CEL PRE aus pot	    	    Brujah antitribu:2
+Crypt (12 cards, min=25 max=32 avg=7.08)
+----------------------------------------
+2x Antonio Veradas                 8   CEL POT PRE obf      bishop  Brujah antitribu:3
+2x Jacko                           8   CEL POT PRE obt              Brujah antitribu:2
+2x Amelia                          7   CEL POT PRE          bishop  Brujah antitribu:2
+1x Theo Bell                       7   POT cel dom pre              Brujah:2
+1x Theo Bell (ADV)                 7   CEL POT PRE aus dom          Brujah:2
+1x Joshua Tarnopolski              7   CEL PRE obf pot              Brujah:3
+1x Richter, The Templar of Du Mont 7   CEL POT for pre              Brujah antitribu:2
+1x Julian Sanders                  6   CEL PRE pot                  Brujah antitribu:2
+1x Rigby, Crusade Vanguard         5   CEL PRE aus pot              Brujah antitribu:2
 
 Library (90 cards)
 Master (20)

@@ -8,13 +8,13 @@ Norbert Bróda
 Deck Name: Mistress Fanchion
 Created by: Ferenc Vasadi "Frankie" / Norbert "Winnie" Bróda
 
-Crypt (12 cards, min=33, max=44, avg=9.58)
-------------------------------------------
-4x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
-4x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
-2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
-1x Paul Cordwood	 8   AUS DOM THA obf pre	bishop		Tremere antitribu:4
-1x Preston Varrick	 7   DOM OBF THA aus nec			Tremere:4
+Crypt (12 cards, min=33 max=44 avg=9.58)
+----------------------------------------
+4x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
+4x Orlando Oriundus      9   AUS DOM THA obf            bishop          Tremere antitribu:4
+2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
+1x Paul Cordwood         8   AUS DOM THA obf pre        bishop          Tremere antitribu:4
+1x Preston Varrick       7   DOM OBF THA aus nec                        Tremere:4
 
 Library (90 cards)
 Master (17; 5 trifle)

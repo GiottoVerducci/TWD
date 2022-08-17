@@ -7,12 +7,12 @@ Ivor Blockley
 
 Deck Name: Emergent Behavior
 
-Crypt (13 cards, min=36, max=40, avg=9.69)
-------------------------------------------
-5x Cybele	10  ANI DAI OBF PRE SER THA		 Baali:4
-3x Nergal	10  AUS DAI FOR OBF PRE THA		 Baali:5
-1x Nergal (ADV)	10  AUS DAI FOR OBF PRE THA		 Baali:5
-4x Annazir	9   DAI OBF POT PRE		2 votes	 Baali:5
+Crypt (13 cards, min=36 max=40 avg=9.69)
+----------------------------------------
+5x Cybele       10  ANI DAI OBF PRE SER THA              Baali:4
+3x Nergal       10  AUS DAI FOR OBF PRE THA              Baali:5
+1x Nergal (ADV) 10  AUS DAI FOR OBF PRE THA              Baali:5
+4x Annazir      9   DAI OBF POT PRE             2 votes  Baali:5
 
 Library (90 cards)
 Master (52; 6 trifle)

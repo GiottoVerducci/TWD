@@ -7,18 +7,18 @@ Rudolf Scholz
 
 Deck Name: Thank You Vlada
 
-Crypt (12 cards, min=15, max=30, avg=5.92)
-------------------------------------------
-3x Iliana		  7   DOM FOR PRO tha	   	   Gangrel:2
-1x Sébastien Goulet	  8   DOM OBF cel pre pro  	   Gangrel antitribu:3
-1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro  	   Gangrel antitribu:3
-1x Kanimana Belghazi	  7   AUS DOM NEC pro	   	   Nagaraja:2
-1x Caitlin		  6   ANI PRO aus dom	   bishop  Gangrel antitribu:2
-1x Dylan		  6   aus cel dom for pro  	   Ventrue antitribu:2
-1x Lisette Vizquel	  6   DOM POT pro	   bishop  Lasombra:2
-1x Boss Callihan	  5   PRE dom for pro	   	   Ventrue:3
-1x Chandler Hungerford	  3   PRO		   	   Gangrel:2
-1x Huang, Blood Cultist	  1   pro		   	   Pander:2
+Crypt (12 cards, min=15 max=30 avg=5.92)
+----------------------------------------
+3x Iliana                 7   DOM FOR PRO tha              Gangrel:2
+1x Sébastien Goulet       8   DOM OBF cel pre pro          Gangrel antitribu:3
+1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro          Gangrel antitribu:3
+1x Kanimana Belghazi      7   AUS DOM NEC pro              Nagaraja:2
+1x Caitlin                6   ANI PRO aus dom      bishop  Gangrel antitribu:2
+1x Dylan                  6   aus cel dom for pro          Ventrue antitribu:2
+1x Lisette Vizquel        6   DOM POT pro          bishop  Lasombra:2
+1x Boss Callihan          5   PRE dom for pro              Ventrue:3
+1x Chandler Hungerford    3   PRO                          Gangrel:2
+1x Huang, Blood Cultist   1   pro                          Pander:2
 
 Library (90 cards)
 Master (20; 4 trifle)

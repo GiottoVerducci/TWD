@@ -7,14 +7,14 @@ Cory Busch-Kendall
 
 Deck Name: Guns + CEL + THA
 
-Crypt (12 cards, min=26, max=40, avg=8.17)
-------------------------------------------
-4x Lucas Halton		10  AUS CEL DOM THA qui	 prince	   Tremere:3
-3x Anastasz di Zagreb	8   AUS THA ani cel dom	 justicar  Tremere:3
-2x Erichtho		8   AUS DOM THA cel obf	 	   Tremere:3
-1x Fleurdumal		8   AUS DEM PRE cel tha	 prince	   Toreador:3
-1x Father Juan Carlos	6   PRE aus cel pot tha	 	   Brujah antitribu:4
-1x Lin Jun		4   aus cel pre tha	 	   Toreador:4
+Crypt (12 cards, min=26 max=40 avg=8.17)
+----------------------------------------
+4x Lucas Halton         10  AUS CEL DOM THA qui  prince    Tremere:3
+3x Anastasz di Zagreb   8   AUS THA ani cel dom  justicar  Tremere:3
+2x Erichtho             8   AUS DOM THA cel obf            Tremere:3
+1x Fleurdumal           8   AUS DEM PRE cel tha  prince    Toreador:3
+1x Father Juan Carlos   6   PRE aus cel pot tha            Brujah antitribu:4
+1x Lin Jun              4   aus cel pre tha                Toreador:4
 
 Library (90 cards)
 Master (10)

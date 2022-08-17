@@ -19,15 +19,15 @@ Views that surely could have made a difference in a few of the rounds.
 Herbert Westin was nowhere to be found during the short time allowed
 for assembly, so Robin Withers made it in instead.
 
-Crypt (12 cards, min=21, max=32, avg=6.83)
-------------------------------------------
-5x Zubeida	    8	OBF PRE PRO for ser		 Abomination:5
-2x Ogwon	    7	OBF PRE SER for			 Follower of Set:5
-1x Isouda de Blaise 7	CEL OBF PRE aus			 Toreador antitribu:4
-1x Stavros	    7	AUS OBF PRE dem		priscus	 Malkavian antitribu:4
-1x Raphael Catarari 5	OBF PRE aus pot tha		 Nosferatu antitribu:4
-1x Renenet	    5	OBF PRE ser			 Follower of Set:4
-1x Robin Withers    4	dom obf pre			 Ventrue:4
+Crypt (12 cards, min=21 max=32 avg=6.83)
+----------------------------------------
+5x Zubeida          8   OBF PRE PRO for ser              Abomination:5
+2x Ogwon            7   OBF PRE SER for                  Follower of Set:5
+1x Isouda de Blaise 7   CEL OBF PRE aus                  Toreador antitribu:4
+1x Stavros          7   AUS OBF PRE dem         priscus  Malkavian antitribu:4
+1x Raphael Catarari 5   OBF PRE aus pot tha              Nosferatu antitribu:4
+1x Renenet          5   OBF PRE ser                      Follower of Set:4
+1x Robin Withers    4   dom obf pre                      Ventrue:4
 
 Library (90 cards)
 Master (18; 13 trifle)

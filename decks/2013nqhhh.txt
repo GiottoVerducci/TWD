@@ -11,18 +11,18 @@ Deck Name: Potence princes v2013
 
 Description: Props to Gyula Erdõs for the ancestor of this deck
 
-Crypt (13 cards, min=10, max=27, avg=4.69)
-------------------------------------------
-2x Nikolaus Vermeulen		7   POT ani for obf	prince	Nosferatu:2
-2x Calebros, The Martyr		5   ANI obf pot		prince	Nosferatu:2
-2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
-1x Murat			7   OBF POT ser		prince	Nosferatu:2
-1x Rake				6   PRE aus cel pot	prince	Brujah:1
-1x Hector Sosa			4   POT pre			Brujah:1
-1x Dre, Leader of the Cold Dawn	3   cel pot			Brujah:1
-1x Duck				3   obf pot			Nosferatu:1
-1x KoKo				2   pot				Nosferatu:1
-1x Lupo				2   pot				Brujah:1
+Crypt (13 cards, min=10 max=27 avg=4.69)
+----------------------------------------
+2x Nikolaus Vermeulen           7   POT ani for obf     prince  Nosferatu:2
+2x Calebros, The Martyr         5   ANI obf pot         prince  Nosferatu:2
+2x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
+1x Murat                        7   OBF POT ser         prince  Nosferatu:2
+1x Rake                         6   PRE aus cel pot     prince  Brujah:1
+1x Hector Sosa                  4   POT pre                     Brujah:1
+1x Dre, Leader of the Cold Dawn 3   cel pot                     Brujah:1
+1x Duck                         3   obf pot                     Nosferatu:1
+1x KoKo                         2   pot                         Nosferatu:1
+1x Lupo                         2   pot                         Brujah:1
 
 Library (90 cards)
 Master (14)

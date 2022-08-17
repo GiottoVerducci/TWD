@@ -7,17 +7,17 @@ Martin Randers
 
 Deck Name: Three Inches of Danish Steel
 
-Crypt (12 cards, min=22, max=44, avg=8.42)
-------------------------------------------
-4x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus	magaji	Guruhi:3
-1x Ugadja		 10  ABO ANI POT PRE dom for	magaji	Guruhi:4
-1x Nangila Were		 9   ANI POT PRE obf ser		Guruhi:4
-1x Nana Buruku		 8   ANI POT PRE			Guruhi:4
-1x Sobayifa		 8   ANI PRE aus pot pro spi	magaji	Guruhi:3
-1x Aren, Priest of Eshu	 7   POT PRE ani obf			Guruhi:4
-1x Batsheva		 6   ANI PRE obt pot			Guruhi:4
-1x Fish			 5   ANI POT pre			Guruhi:4
-1x Lumumba		 4   PRE ani				Guruhi:4
+Crypt (12 cards, min=22 max=44 avg=8.42)
+----------------------------------------
+4x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus    magaji  Guruhi:3
+1x Ugadja                10  ABO ANI POT PRE dom for    magaji  Guruhi:4
+1x Nangila Were          9   ANI POT PRE obf ser                Guruhi:4
+1x Nana Buruku           8   ANI POT PRE                        Guruhi:4
+1x Sobayifa              8   ANI PRE aus pot pro spi    magaji  Guruhi:3
+1x Aren, Priest of Eshu  7   POT PRE ani obf                    Guruhi:4
+1x Batsheva              6   ANI PRE obt pot                    Guruhi:4
+1x Fish                  5   ANI POT pre                        Guruhi:4
+1x Lumumba               4   PRE ani                            Guruhi:4
 
 Library (77 cards)
 Master (11)

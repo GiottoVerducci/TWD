@@ -8,13 +8,13 @@ Robert Scythe
 Deck Name: Eze like Sunday morning
 Created by: Matt Wedge & Robert Scythe
 
-Crypt (12 cards, min=30, max=44, avg=9.33)
-------------------------------------------
-4x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus	magaji	Guruhi:3
-2x Ugadja		 10  ABO ANI POT PRE dom for	magaji	Guruhi:4
-2x Iniko, The Black Lion 9   ANI OBT POT PRE cel		Guruhi:4
-2x Sobayifa		 8   ANI PRE aus pot pro spi	magaji	Guruhi:3
-2x Aren, Priest of Eshu	 7   POT PRE ani obf			Guruhi:4
+Crypt (12 cards, min=30 max=44 avg=9.33)
+----------------------------------------
+4x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus    magaji  Guruhi:3
+2x Ugadja                10  ABO ANI POT PRE dom for    magaji  Guruhi:4
+2x Iniko, The Black Lion 9   ANI OBT POT PRE cel                Guruhi:4
+2x Sobayifa              8   ANI PRE aus pot pro spi    magaji  Guruhi:3
+2x Aren, Priest of Eshu  7   POT PRE ani obf                    Guruhi:4
 
 Library (90 cards)
 Master (25; 14 trifle)

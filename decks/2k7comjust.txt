@@ -14,20 +14,20 @@ beneficial effect, but in most games the combination of having very
 aggressive grandpredator and a horde of guys on the table ended up
 making the actual contents of my library largely irrelevant.
 
-Crypt (12 cards, min=4, max=11, avg=1.83)
------------------------------------------
-1x Brooke		3   dom tha	Tremere antitribu:2
-1x Ember Wright		3   aus dom	Tremere antitribu:3
-1x Saiz			3   aus dom	Tremere antitribu:3
-1x Christine Boscacci	2   dom vic	Pander:2
-1x Heinrick Schlempt	2   tha		Tremere antitribu:2
-1x Jacob, The Glitch	2   THA		Tremere antitribu:3
-1x Ohanna		2   dom		Malkavian:2
-1x Angela Decker	1   pre		Pander:2
-1x Antoinette DuChamp	1   cel pre	Caitiff:2
-1x Huang, Blood Cultist	1   pro		Pander:2
-1x March Halcyon	1   for		Pander:2
-1x Royce		1   dom		Pander:2
+Crypt (12 cards, min=4 max=11 avg=1.83)
+---------------------------------------
+1x Brooke               3   dom tha     Tremere antitribu:2
+1x Ember Wright         3   aus dom     Tremere antitribu:3
+1x Saiz                 3   aus dom     Tremere antitribu:3
+1x Christine Boscacci   2   dom vic     Pander:2
+1x Heinrick Schlempt    2   tha         Tremere antitribu:2
+1x Jacob, The Glitch    2   THA         Tremere antitribu:3
+1x Ohanna               2   dom         Malkavian:2
+1x Angela Decker        1   pre         Pander:2
+1x Antoinette DuChamp   1   cel pre     Caitiff:2
+1x Huang, Blood Cultist 1   pro         Pander:2
+1x March Halcyon        1   for         Pander:2
+1x Royce                1   dom         Pander:2
 
 Library (90 cards)
 Master (14)

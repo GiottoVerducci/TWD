@@ -13,15 +13,15 @@ Deck Name: Matasuntha Multirush
 Description: Inspired by Norbert Flasko's Enkidu multirush.
 Mod. Date: 2015.05.17.
 
-Crypt (12 cards, min=8, max=40, avg=5.75)
------------------------------------------
-5x Matasuntha	  10  ANI AUS CEL FOR PRO  Gangrel:5
-2x Andre LeRoux	  3   aus		   Toreador:5
-1x Pearl	  4   AUS obf		   Malkavian antitribu:5
-1x Tyler McGill	  4   AUS pre		   Toreador:5
-1x Gwen Brand	  3   aus chi		   Ravnos:5
-1x Donald Cargill 1   aus		   Caitiff:5
-1x Walker Grimes  1   ani		   Caitiff:5
+Crypt (12 cards, min=8 max=40 avg=5.75)
+---------------------------------------
+5x Matasuntha     10  ANI AUS CEL FOR PRO  Gangrel:5
+2x Andre LeRoux   3   aus                  Toreador:5
+1x Pearl          4   AUS obf              Malkavian antitribu:5
+1x Tyler McGill   4   AUS pre              Toreador:5
+1x Gwen Brand     3   aus chi              Ravnos:5
+1x Donald Cargill 1   aus                  Caitiff:5
+1x Walker Grimes  1   ani                  Caitiff:5
 
 Library (90 cards)
 Master (14; 3 trifle)

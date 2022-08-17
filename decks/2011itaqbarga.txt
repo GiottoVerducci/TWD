@@ -9,13 +9,13 @@ Deck Name: African wererats singing a Deep Song
 
 Description: Toolbox Akunanse
 
-Crypt (12 cards, min=18, max=28, avg=5.83)
-------------------------------------------
-3x Uchenna	 7   ABO ANI FOR	magaji	Akunanse:4
-3x Jacob Fermor	 5   PRO ani tha		Gangrel:4
-2x Aisata Swanou 7   ANI FOR VIC abo		Akunanse:5
-2x Jubal	 6   ABO ANI for pot		Akunanse:4
-2x Nestor Kaba	 4   abo ani for		Akunanse:4
+Crypt (12 cards, min=18 max=28 avg=5.83)
+----------------------------------------
+3x Uchenna       7   ABO ANI FOR        magaji  Akunanse:4
+3x Jacob Fermor  5   PRO ani tha                Gangrel:4
+2x Aisata Swanou 7   ANI FOR VIC abo            Akunanse:5
+2x Jubal         6   ABO ANI for pot            Akunanse:4
+2x Nestor Kaba   4   abo ani for                Akunanse:4
 
 Library (90 cards)
 Master (21; 11 trifle)

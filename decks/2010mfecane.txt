@@ -11,18 +11,18 @@ with a smattering of vampire stealing and general utility goodies.
 It has to be said that if there was one card that consistently
 netted me VPs, it was Mokole Blood.
 
-Crypt (12 cards, min=20, max=29, avg=6.25)
-------------------------------------------
-2x Qufur am-Heru		7   OBF PRE SER cel tha	 Follower of Set:2
-2x Sarrasine			7   OBF PRE aus nec ser	 Follower of Set:2
-1x Intisar			8   OBF PRE SER cel pot	 Follower of Set:2
-1x Danny Larkshill		7   PRE SER obf obt pot	 Follower of Set:2
-1x Ezekiel, Lord of Montreal	6   PRE SER obf pot	 Follower of Set:3
-1x Hesha Ruhadze		6   SER ani obf pre	 Follower of Set:2
-1x Samat Ramal-Ra, Archon	6   OBF pre ser tha	 Follower of Set:2
-1x Count Ormonde		5   OBF dom pre ser	 Follower of Set:2
-1x Sir Marriot D'Urban		5   PRE aus obf ser	 Follower of Set:2
-1x Nepata			4   obf pre ser		 Follower of Set:2
+Crypt (12 cards, min=20 max=29 avg=6.25)
+----------------------------------------
+2x Qufur am-Heru                7   OBF PRE SER cel tha  Follower of Set:2
+2x Sarrasine                    7   OBF PRE aus nec ser  Follower of Set:2
+1x Intisar                      8   OBF PRE SER cel pot  Follower of Set:2
+1x Danny Larkshill              7   PRE SER obf obt pot  Follower of Set:2
+1x Ezekiel, Lord of Montreal    6   PRE SER obf pot      Follower of Set:3
+1x Hesha Ruhadze                6   SER ani obf pre      Follower of Set:2
+1x Samat Ramal-Ra, Archon       6   OBF pre ser tha      Follower of Set:2
+1x Count Ormonde                5   OBF dom pre ser      Follower of Set:2
+1x Sir Marriot D'Urban          5   PRE aus obf ser      Follower of Set:2
+1x Nepata                       4   obf pre ser          Follower of Set:2
 
 Library (86 cards)
 Master (16; 2 trifle)

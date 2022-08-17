@@ -8,20 +8,20 @@ https://www.vekn.net/event-calendar/event/7695
 
 Title: Dirty Secrets of the Black Hand [EDIT]
 
-Crypt (12 cards, min=14, max=28, avg=5.25)
-------------------------------------------
-1x Yazid Tamari		   8   CEL QUI ani dom obf  Assamite:3
-1x Kazimir Savostin	   7   AUS VIC ani pot	    Tzimisce:3
-1x Teresita, The Godmother 7   ANI OBF POT for	    Nosferatu antitribu:3
-1x Selena		   6   AUS DOM THA	    Tremere antitribu:3
-1x Sennadurek		   6   AUS NEC dom	    Nagaraja:4
-1x Banjoko		   5   DOM obt pot	    Lasombra:3
-1x Ermenegildo, The Rake   5   DOM OBT pot	    Lasombra:4
-1x Wah Chun-Yuen	   5   POT cel dom pre	    Brujah antitribu:3
-1x Katherine Stoddard	   4   dom for		    Ventrue antitribu:3
-1x Mariano Pomposo	   4   aus cel pot	    Brujah antitribu:3
-1x Mosfair		   4   cel dom tha	    Tremere antitribu:4
-1x Piotr Andreikov	   2   aus		    Tzimisce:3
+Crypt (12 cards, min=14 max=28 avg=5.25)
+----------------------------------------
+1x Yazid Tamari            8   CEL QUI ani dom obf  Assamite:3
+1x Kazimir Savostin        7   AUS VIC ani pot      Tzimisce:3
+1x Teresita, The Godmother 7   ANI OBF POT for      Nosferatu antitribu:3
+1x Selena                  6   AUS DOM THA          Tremere antitribu:3
+1x Sennadurek              6   AUS NEC dom          Nagaraja:4
+1x Banjoko                 5   DOM obt pot          Lasombra:3
+1x Ermenegildo, The Rake   5   DOM OBT pot          Lasombra:4
+1x Wah Chun-Yuen           5   POT cel dom pre      Brujah antitribu:3
+1x Katherine Stoddard      4   dom for              Ventrue antitribu:3
+1x Mariano Pomposo         4   aus cel pot          Brujah antitribu:3
+1x Mosfair                 4   cel dom tha          Tremere antitribu:4
+1x Piotr Andreikov         2   aus                  Tzimisce:3
 
 Library (90 cards)
 Master (18; 7 trifle)

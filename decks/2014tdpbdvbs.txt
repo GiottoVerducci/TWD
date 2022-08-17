@@ -10,19 +10,19 @@ Deck Name: Ganador torneo Pilar
 
 -- 1 + 1 + GW4 + 4VP in final
 
-Crypt (12 cards, min=13, max=21, avg=4.5)
------------------------------------------
-2x Andrew Stuart	5   AUS DOM THA			  Tremere:4
-1x Muhsin Samir		6   DOM THA aus pot		  Tremere:4
-1x Claus Wegener	5   DOM aus for tha		  Tremere:5
-1x Donatello Giovanni	5   DOM aus pot pre		  Giovanni:4
-1x Emily Carson		5   DOM for pre		primogen  Ventrue:5
-1x Esoara		5   DOM aus for pot		  Tremere antitribu:4
-1x Zane			5   THA aus dom		primogen  Tremere:5
-1x Frank Weisshadel	4   dom pot tha			  Tremere:4
-1x Tarrence Moore	4   aus dom tha			  Tremere:5
-1x Keith Moody		3   DOM				  Tremere antitribu:4
-1x Ezra Hawthorne	2   tha				  Tremere:4
+Crypt (12 cards, min=13 max=21 avg=4.5)
+---------------------------------------
+2x Andrew Stuart        5   AUS DOM THA                   Tremere:4
+1x Muhsin Samir         6   DOM THA aus pot               Tremere:4
+1x Claus Wegener        5   DOM aus for tha               Tremere:5
+1x Donatello Giovanni   5   DOM aus pot pre               Giovanni:4
+1x Emily Carson         5   DOM for pre         primogen  Ventrue:5
+1x Esoara               5   DOM aus for pot               Tremere antitribu:4
+1x Zane                 5   THA aus dom         primogen  Tremere:5
+1x Frank Weisshadel     4   dom pot tha                   Tremere:4
+1x Tarrence Moore       4   aus dom tha                   Tremere:5
+1x Keith Moody          3   DOM                           Tremere antitribu:4
+1x Ezra Hawthorne       2   tha                           Tremere:4
 
 Library (90 cards)
 Master (17; 4 trifle)

@@ -10,16 +10,16 @@ Deck Name: lazve's protégés
 Description: toolbox deck, second victory in a national
 qualifier this year with this deck, thank you mister lazve!
 
-Crypt (12 cards, min=18, max=40, avg=7.25)
-------------------------------------------
-4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro	archbishop  Ventrue antitribu:2
-2x Owain Evans, The Wanderer	 8   AUS DOM FOR cel pre		    Ventrue antitribu:3
-1x Blackhorse Tanner		 7   AUS DOM FOR			    Ventrue antitribu:3
-1x Charice Fontaigne		 6   AUS DOM for pot			    Ventrue antitribu:3
-1x Dylan (ADV)			 6   FOR aus cel dai dom pro		    Ventrue antitribu:2
-1x Billy			 5   AUS dom for			    Ventrue antitribu:2
-1x Ingrid Russo			 4   DOM for				    Ventrue antitribu:2
-1x Sister Evelyn		 3   aus dom				    Ventrue antitribu:3
+Crypt (12 cards, min=18 max=40 avg=7.25)
+----------------------------------------
+4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro        archbishop  Ventrue antitribu:2
+2x Owain Evans, The Wanderer     8   AUS DOM FOR cel pre                    Ventrue antitribu:3
+1x Blackhorse Tanner             7   AUS DOM FOR                            Ventrue antitribu:3
+1x Charice Fontaigne             6   AUS DOM for pot                        Ventrue antitribu:3
+1x Dylan (ADV)                   6   FOR aus cel dai dom pro                Ventrue antitribu:2
+1x Billy                         5   AUS dom for                            Ventrue antitribu:2
+1x Ingrid Russo                  4   DOM for                                Ventrue antitribu:2
+1x Sister Evelyn                 3   aus dom                                Ventrue antitribu:3
 
 Library (79 cards)
 Master (15; 5 trifle)

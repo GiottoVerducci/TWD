@@ -9,11 +9,11 @@ Preston Poulter
 
 Deck Name: Enkidu's Dallas-LA Connection
 
-Crypt (12 cards, min=27, max=44, avg=9.08)
-------------------------------------------
-5x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-4x Aksinya Daclau   9	ANI FOR PRE PRO cel tha	 Gangrel antitribu:4
-3x Janey Pickman    6	ANI PRO for		 Gangrel antitribu:4
+Crypt (12 cards, min=27 max=44 avg=9.08)
+----------------------------------------
+5x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+4x Aksinya Daclau   9   ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+3x Janey Pickman    6   ANI PRO for              Gangrel antitribu:4
 
 Library (90 cards)
 Master (22; 9 trifle)

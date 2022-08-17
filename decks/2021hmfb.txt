@@ -11,16 +11,16 @@ https://www.vekn.net/event-calendar/event/9835
 Deck Name: My Sweet Bleed
 Created By: Raphael Herculano
 
-Crypt (12 cards, min=6, max=27, avg=4.67)
------------------------------------------
-3x Anarch Convert	1   -none-			  Caitiff:ANY
-2x Apolonia Czarnecki	7   AUS DEM OBF pre		  Malkavian:5
-2x Morel		6   AUS DEM OBF			  Malkavian:4
-1x Osric Vladislav	7   AUS DEM OBF cel		  Malkavian:5
-1x Gem Ghastly		6   DEM OBF aus		primogen  Malkavian:5
-1x Hagar Stone		6   AUS DEM obf			  Malkavian antitribu:5
-1x Arthur Denholm	5   AUS DEM obf			  Malkavian:5
-1x Jackie		3   DEM				  Malkavian antitribu:4
+Crypt (12 cards, min=6 max=27 avg=4.67)
+---------------------------------------
+3x Anarch Convert       1   -none-                        Caitiff:ANY
+2x Apolonia Czarnecki   7   AUS DEM OBF pre               Malkavian:5
+2x Morel                6   AUS DEM OBF                   Malkavian:4
+1x Osric Vladislav      7   AUS DEM OBF cel               Malkavian:5
+1x Gem Ghastly          6   DEM OBF aus         primogen  Malkavian:5
+1x Hagar Stone          6   AUS DEM obf                   Malkavian antitribu:5
+1x Arthur Denholm       5   AUS DEM obf                   Malkavian:5
+1x Jackie               3   DEM                           Malkavian antitribu:4
 
 Library (90 cards)
 Master (18; 6 trifle)

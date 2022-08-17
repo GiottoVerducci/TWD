@@ -8,20 +8,20 @@ Deck Name: Misty's Malkavians
 
 Description: Basic Malkavian preconstructed deck with a few tweaks.
 
-Crypt (12 cards, min=13, max=38, avg=6.5)
------------------------------------------
-1x Leandro			 11  AUS OBF PRE cel dom  inner circle	Malkavian:2
-1x Rachel Brandywine		 10  AUS DEM OBF PRO ani  prince	Malkavian:3
-1x William Biltmore		 9   AUS DEM OBF THA dom  		Malkavian:3
-1x Anatole, Prophet of Gehenna	 8   AUS DEM OBF dom for  		Malkavian:2
-1x Cornelius Ottavio		 8   AUS OBF pre qui	  		Malkavian:2
-1x Greger Anderssen		 7   AUS OBF dom pro	  prince	Malkavian:2
-1x Damaskenos, Herald of Leandro 6   DOM aus cel pot	  		Malkavian:2
-1x Dr. Douglas Netchurch	 6   AUS OBF dem dom	  		Malkavian:3
-1x Victoria			 5   AUS cel obf	  		Malkavian:2
-1x Watenda			 3   obf		  		Malkavian:2
-1x Zöe				 3   AUS cel obf	  		Malkavian:2
-1x Ohanna			 2   dom		  		Malkavian:2
+Crypt (12 cards, min=13 max=38 avg=6.5)
+---------------------------------------
+1x Leandro                       11  AUS OBF PRE cel dom  inner circle  Malkavian:2
+1x Rachel Brandywine             10  AUS DEM OBF PRO ani  prince        Malkavian:3
+1x William Biltmore              9   AUS DEM OBF THA dom                Malkavian:3
+1x Anatole, Prophet of Gehenna   8   AUS DEM OBF dom for                Malkavian:2
+1x Cornelius Ottavio             8   AUS OBF pre qui                    Malkavian:2
+1x Greger Anderssen              7   AUS OBF dom pro      prince        Malkavian:2
+1x Damaskenos, Herald of Leandro 6   DOM aus cel pot                    Malkavian:2
+1x Dr. Douglas Netchurch         6   AUS OBF dem dom                    Malkavian:3
+1x Victoria                      5   AUS cel obf                        Malkavian:2
+1x Watenda                       3   obf                                Malkavian:2
+1x Zöe                           3   AUS cel obf                        Malkavian:2
+1x Ohanna                        2   dom                                Malkavian:2
 
 Library (77 cards)
 Master (16)

@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/7524
 
 Deck Name: TREMERE, the Slayer
 
-Crypt (12 cards, min=24, max=38, avg=7.75)
-------------------------------------------
-3x Paul Cordwood			8   AUS DOM THA obf pre		bishop	  Tremere antitribu:4
-2x Valerius Maior, Hell's Fool (ADV)	7   AUS DAI DOM THA nec pre		  Tremere antitribu:4
-1x Valerius Maior, Hell's Fool		7   AUS DAI DOM THA nec pre		  Tremere:4
-2x Lernean				10  AUS CEL DOM THA for pro	cardinal  Tremere antitribu:4
-2x Malgorzata				9   AUS DOM THA VIC pre		priscus	  Tremere antitribu:4
-1x Ash Harrison				7   AUS THA cel dom			  Tremere antitribu:5
-1x Keith Moody				3   DOM					  Tremere antitribu:4
+Crypt (12 cards, min=24 max=38 avg=7.75)
+----------------------------------------
+3x Paul Cordwood                        8   AUS DOM THA obf pre         bishop    Tremere antitribu:4
+2x Valerius Maior, Hell's Fool (ADV)    7   AUS DAI DOM THA nec pre               Tremere antitribu:4
+1x Valerius Maior, Hell's Fool          7   AUS DAI DOM THA nec pre               Tremere:4
+2x Lernean                              10  AUS CEL DOM THA for pro     cardinal  Tremere antitribu:4
+2x Malgorzata                           9   AUS DOM THA VIC pre         priscus   Tremere antitribu:4
+1x Ash Harrison                         7   AUS THA cel dom                       Tremere antitribu:5
+1x Keith Moody                          3   DOM                                   Tremere antitribu:4
 
 Library (90 cards)
 Master (19; 4 trifle)

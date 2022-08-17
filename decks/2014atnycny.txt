@@ -12,18 +12,18 @@ ruins the surprise). While that may be considering limiting, I liked that the de
 seemed to flow well and always had a lot of options. Annabelle Triabell is a new
 addition to this deck, worked out well and made me win the first round.
 
-Crypt (12 cards, min=15, max=31, avg=6)
----------------------------------------
-2x Ira Rivers			7   AUS CEL ani pre	 prince	   Toreador:3
-2x Kateline Nadasdy		7   AUS CEL PRE		 	   Toreador:4
-1x Annabelle Triabell		9   AUS CEL PRE dom for	 primogen  Toreador:3
-1x Eugene			8   AUS CEL FOR PRE	 primogen  Toreador:4
-1x Antoinette, She Who Watches	6   AUS PRE cel obf	 primogen  Toreador:3
-1x Ransam, The Old Man		6   CEL PRE aus dom	 	   Toreador:4
-1x Barth			5   PRE aus cel		 	   Toreador:3
-1x Michael Luther		4   aus pre		 	   Toreador:3
-1x Thomas De Lutrius		4   aus cel pre		 primogen  Toreador:4
-1x Emerson Wilkershire III	2   pre			 	   Toreador:3
+Crypt (12 cards, min=15 max=31 avg=6)
+-------------------------------------
+2x Ira Rivers                   7   AUS CEL ani pre      prince    Toreador:3
+2x Kateline Nadasdy             7   AUS CEL PRE                    Toreador:4
+1x Annabelle Triabell           9   AUS CEL PRE dom for  primogen  Toreador:3
+1x Eugene                       8   AUS CEL FOR PRE      primogen  Toreador:4
+1x Antoinette, She Who Watches  6   AUS PRE cel obf      primogen  Toreador:3
+1x Ransam, The Old Man          6   CEL PRE aus dom                Toreador:4
+1x Barth                        5   PRE aus cel                    Toreador:3
+1x Michael Luther               4   aus pre                        Toreador:3
+1x Thomas De Lutrius            4   aus cel pre          primogen  Toreador:4
+1x Emerson Wilkershire III      2   pre                            Toreador:3
 
 Library (90 cards)
 Master (19; 4 trifle)

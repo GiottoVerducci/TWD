@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/8193
 
 Deck Name: Cruelty Without Beauty
 
-Crypt (12 cards, min=32, max=42, avg=9.42)
-------------------------------------------
-3x Alonso Petrodon	 10  ANI DOM OBF POT for tha	justicar	Nosferatu:5
-3x Baron Dieudonne	 9   ANI OBF POT PRO		prince		Nosferatu:4
-2x Josef von Bauren	 11  ANI DEM OBF POT cel	inner circle	Nosferatu:4
-2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
-2x Benjamin Rose	 7   AUS OBF ani pot		prince		Nosferatu:5
+Crypt (12 cards, min=32 max=42 avg=9.42)
+----------------------------------------
+3x Alonso Petrodon       10  ANI DOM OBF POT for tha    justicar        Nosferatu:5
+3x Baron Dieudonne       9   ANI OBF POT PRO            prince          Nosferatu:4
+2x Josef von Bauren      11  ANI DEM OBF POT cel        inner circle    Nosferatu:4
+2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
+2x Benjamin Rose         7   AUS OBF ani pot            prince          Nosferatu:5
 
 Library (89 cards)
 Master (26; 9 trifle)

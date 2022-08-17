@@ -11,18 +11,18 @@ https://www.vekn.net/event-calendar/event/8470
 Deck Name: Eyes of the Insane
 Created by: Ravel Zorzal - A Usurpadora
 
-Crypt (12 cards, min=11, max=18, avg=3.58)
-------------------------------------------
-2x Jackie			3   DEM				    Malkavian antitribu:4
-2x Midget			3   DEM obf pre			    Malkavian antitribu:3
-1x Apache Jones			5   DEM aus for obf		    Malkavian antitribu:4
-1x Persia, The Beautiful Statue	5   DEM aus obf			    Malkavian:3
-1x Adelaide Davis		4   aus dem obf			    Malkavian:3
-1x Fabrizia Contreraz		4   dem pot		archbishop  Malkavian antitribu:4
-1x Jeremy Talbot		4   dem obf			    Malkavian:3
-1x Sean Rycek			4   aus dem			    Malkavian:4
-1x Marta			3   aus dem			    Malkavian antitribu:4
-1x Cassandra Langely, The Waif	2   dem				    Malkavian:4
+Crypt (12 cards, min=11 max=18 avg=3.58)
+----------------------------------------
+2x Jackie                       3   DEM                             Malkavian antitribu:4
+2x Midget                       3   DEM obf pre                     Malkavian antitribu:3
+1x Apache Jones                 5   DEM aus for obf                 Malkavian antitribu:4
+1x Persia, The Beautiful Statue 5   DEM aus obf                     Malkavian:3
+1x Adelaide Davis               4   aus dem obf                     Malkavian:3
+1x Fabrizia Contreraz           4   dem pot             archbishop  Malkavian antitribu:4
+1x Jeremy Talbot                4   dem obf                         Malkavian:3
+1x Sean Rycek                   4   aus dem                         Malkavian:4
+1x Marta                        3   aus dem                         Malkavian antitribu:4
+1x Cassandra Langely, The Waif  2   dem                             Malkavian:4
 
 Library (90 cards)
 Master (19; 5 trifle)

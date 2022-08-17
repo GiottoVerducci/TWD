@@ -12,20 +12,20 @@ Deck Name: Don't look back
 
 Description: Bleed, Mind Numb, bleed, bleed, Mind Numb, bleed, etc.
 
-Crypt (12 cards, min=7, max=17, avg=3.25)
------------------------------------------
-1x Shasa Abu Badr	  5   PRE cel for  		Ishtarri:4
-1x Antoinette Dubois	  4   PRE for mel  		Daughter of Cacophony:4
-1x Bethany Ray		  4   PRE aus	   		Toreador:5
-1x Loonar		  4   PRE cel	   		Toreador antitribu:4
-1x Lumumba		  4   PRE ani	   		Guruhi:4
-1x Marla Kenyon		  4   PRE ser	   		Follower of Set:4
-1x Reginald Moore	  4   PRE	   primogen	Brujah:4
-1x Reverend Adams	  3   PRE aus	   		Caitiff:4
-1x Aimee Laroux		  2   for pre	   		Daughter of Cacophony:4
-1x Jayne Jonestown	  2   PRE	   		Brujah antitribu:4
-1x Justine Chen, Innocent 2   pre	   		Toreador antitribu:4
-1x Dirk			  1   pre	   		Caitiff:4
+Crypt (12 cards, min=7 max=17 avg=3.25)
+---------------------------------------
+1x Shasa Abu Badr         5   PRE cel for               Ishtarri:4
+1x Antoinette Dubois      4   PRE for mel               Daughter of Cacophony:4
+1x Bethany Ray            4   PRE aus                   Toreador:5
+1x Loonar                 4   PRE cel                   Toreador antitribu:4
+1x Lumumba                4   PRE ani                   Guruhi:4
+1x Marla Kenyon           4   PRE ser                   Follower of Set:4
+1x Reginald Moore         4   PRE          primogen     Brujah:4
+1x Reverend Adams         3   PRE aus                   Caitiff:4
+1x Aimee Laroux           2   for pre                   Daughter of Cacophony:4
+1x Jayne Jonestown        2   PRE                       Brujah antitribu:4
+1x Justine Chen, Innocent 2   pre                       Toreador antitribu:4
+1x Dirk                   1   pre                       Caitiff:4
 
 Library (66 cards)
 Master (14; 6 trifle)

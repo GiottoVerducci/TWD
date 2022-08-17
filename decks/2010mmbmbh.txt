@@ -12,14 +12,14 @@ Created by: Martin "Mephistopheles" Major
 2. Kill everything else.
 3. Try to oust with Ancient Influence for added fun.
 
-Crypt (12 cards, min=22, max=44, avg=8.17)
-------------------------------------------
-4x Hardestadt		11  DOM FOR POT PRE cel pro	inner circle	Ventrue:4
-4x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince		Ventrue:5
-1x Graham Gottesman	7   DOM FOR obf pre tha		prince		Ventrue:5
-1x Victor Donaldson	6   DOM for pre			prince		Ventrue:5
-1x Emily Carson		5   DOM for pre			primogen	Ventrue:5
-1x Portia		4   for pre pro					Ventrue:5
+Crypt (12 cards, min=22 max=44 avg=8.17)
+----------------------------------------
+4x Hardestadt           11  DOM FOR POT PRE cel pro     inner circle    Ventrue:4
+4x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro         prince          Ventrue:5
+1x Graham Gottesman     7   DOM FOR obf pre tha         prince          Ventrue:5
+1x Victor Donaldson     6   DOM for pre                 prince          Ventrue:5
+1x Emily Carson         5   DOM for pre                 primogen        Ventrue:5
+1x Portia               4   for pre pro                                 Ventrue:5
 
 Library (90 cards)
 Master (16; 7 trifle)

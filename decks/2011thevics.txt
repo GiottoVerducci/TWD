@@ -7,13 +7,13 @@ Ivor Blockley
 
 Deck Name: Feeling Lutzy
 
-Crypt (12 cards, min=30, max=44, avg=9.67)
-------------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
-3x Rafael de Corazon	 11  AUS CEL DOM OBF PRE  inner circle	Toreador:4
-3x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
-1x Alicia Barrows	 9   AUS DEM OBF POT PRE  archbishop	Malkavian antitribu:4
-1x Malabranca		 9   AUS CEL PRE PRO obf  archbishop	Toreador antitribu:4
+Crypt (12 cards, min=30 max=44 avg=9.67)
+----------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Rafael de Corazon     11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
+3x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
+1x Alicia Barrows        9   AUS DEM OBF POT PRE  archbishop    Malkavian antitribu:4
+1x Malabranca            9   AUS CEL PRE PRO obf  archbishop    Toreador antitribu:4
 
 Library (74 cards)
 Master (15; 8 trifle)

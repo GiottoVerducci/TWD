@@ -11,14 +11,14 @@ https://www.vekn.net/event-calendar/event/8455
 Deck Name: The Capuchin
 Created by: Zoroh (chupiscado do gordinho mais sexy do país.)
 
-Crypt (13 cards, min=19, max=44, avg=8.46)
-------------------------------------------
-5x Capuchin, The    11	AUS DOM FOR NEC THA THN	 	 Harbinger of Skulls:5
-4x Gerald Windham   9	AUS DOM FOR THA		 	 Tremere:5
-1x Jefferson Foster 6	AUS DOM for tha		 bishop	 Ventrue antitribu:4
-1x Claus Wegener    5	DOM aus for tha		 	 Tremere:5
-1x Neighbor John    5	AUS dom for		 	 Ventrue antitribu:4
-1x Andre LeRoux	    3	aus			 	 Toreador:5
+Crypt (13 cards, min=19 max=44 avg=8.46)
+----------------------------------------
+5x Capuchin, The    11  AUS DOM FOR NEC THA THN          Harbinger of Skulls:5
+4x Gerald Windham   9   AUS DOM FOR THA                  Tremere:5
+1x Jefferson Foster 6   AUS DOM for tha          bishop  Ventrue antitribu:4
+1x Claus Wegener    5   DOM aus for tha                  Tremere:5
+1x Neighbor John    5   AUS dom for                      Ventrue antitribu:4
+1x Andre LeRoux     3   aus                              Toreador:5
 
 Library (90 cards)
 Master (15; 4 trifle)

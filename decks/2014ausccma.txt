@@ -10,19 +10,19 @@ Deck Name: Carrion Comfort
 
 Description: ANI/AUS toolbox(ish). Half the crypt are 3 capacity or less, so swarm bleed plus the odd rush for offence. AUS backed by animalism combat (caw caw!) for defence.
 
-Crypt (12 cards, min=7, max=25, avg=3.83)
------------------------------------------
-2x Devin Bisley		5   ANI AUS vic		 Tzimisce:2
-1x Anton		8   ANI AUS cel obf vic	 Tzimisce:2
-1x Omaya		7   ANI AUS FOR pro	 Gangrel antitribu:2
-1x Elizabeth Westcott	5   AUS ani cel vic	 Tzimisce:3
-1x Bobby Lemon		4   ANI pro		 Gangrel:3
-1x Wendy Wade		3   ani aus		 Tzimisce:2
-1x Dani			2   ani			 Nosferatu antitribu:2
-1x Gillian Krader	2   ani dem		 Pander:2
-1x Mouse		2   ani			 Nosferatu:3
-1x Zip			2   ani			 Ravnos:3
-1x Lisa Noble		1   ani			 Caitiff:3
+Crypt (12 cards, min=7 max=25 avg=3.83)
+---------------------------------------
+2x Devin Bisley         5   ANI AUS vic          Tzimisce:2
+1x Anton                8   ANI AUS cel obf vic  Tzimisce:2
+1x Omaya                7   ANI AUS FOR pro      Gangrel antitribu:2
+1x Elizabeth Westcott   5   AUS ani cel vic      Tzimisce:3
+1x Bobby Lemon          4   ANI pro              Gangrel:3
+1x Wendy Wade           3   ani aus              Tzimisce:2
+1x Dani                 2   ani                  Nosferatu antitribu:2
+1x Gillian Krader       2   ani dem              Pander:2
+1x Mouse                2   ani                  Nosferatu:3
+1x Zip                  2   ani                  Ravnos:3
+1x Lisa Noble           1   ani                  Caitiff:3
 
 Library (90 cards)
 Master (13)

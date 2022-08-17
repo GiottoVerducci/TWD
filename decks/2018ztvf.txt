@@ -13,14 +13,14 @@ Deck Name: Ajetaan lossilla
 Description: Assamite Black Hand & Seraph multiaction bleed & bloat.
 List is lightly modified version of winning deck by Raúl Olvera Abellán.
 
-Crypt (12 cards, min=27, max=39, avg=8.33)
-------------------------------------------
-3x Karif al Numair		10  AUS CEL OBF QUI for	 Assamite:5
-3x Izhim abd Azrael		9   CEL OBF QUI THA pot	 Assamite:5
-3x Djuhah, The Bronze Bow	7   OBF QUI aus cel pre	 Assamite:5
-1x Nizzam al-Latif		9   ANI CEL OBF QUI dem	 Assamite:5
-1x Joe "Boot" Hill		7   CEL QUI for obf	 Assamite:4
-1x Reza Fatir, The Dark Angel	6   CEL QUI obf pro	 Assamite:4
+Crypt (12 cards, min=27 max=39 avg=8.33)
+----------------------------------------
+3x Karif al Numair              10  AUS CEL OBF QUI for  Assamite:5
+3x Izhim abd Azrael             9   CEL OBF QUI THA pot  Assamite:5
+3x Djuhah, The Bronze Bow       7   OBF QUI aus cel pre  Assamite:5
+1x Nizzam al-Latif              9   ANI CEL OBF QUI dem  Assamite:5
+1x Joe "Boot" Hill              7   CEL QUI for obf      Assamite:4
+1x Reza Fatir, The Dark Angel   6   CEL QUI obf pro      Assamite:4
 
 Library (89 cards)
 Master (16; 4 trifle)

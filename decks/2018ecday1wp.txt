@@ -12,13 +12,13 @@ Deck Name: MMA.MPA (EC 2018)
 
 Description: many thanks to Martin Schumacher for continuing collaboration
 
-Crypt (12 cards, min=26, max=40, avg=8.67)
-------------------------------------------
-4x Cybele	  10  ANI DAI OBF PRE SER THA	Baali:4
-3x Aksinya Daclau 9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
-2x Nakhthorheb	  10  OBF PRE SER		Follower of Set:4
-2x Nana Buruku	  8   ANI POT PRE		Guruhi:4
-1x Anarch Convert 1   -none-			Caitiff:ANY
+Crypt (12 cards, min=26 max=40 avg=8.67)
+----------------------------------------
+4x Cybele         10  ANI DAI OBF PRE SER THA   Baali:4
+3x Aksinya Daclau 9   ANI FOR PRE PRO cel tha   Gangrel antitribu:4
+2x Nakhthorheb    10  OBF PRE SER               Follower of Set:4
+2x Nana Buruku    8   ANI POT PRE               Guruhi:4
+1x Anarch Convert 1   -none-                    Caitiff:ANY
 
 Library (90 cards)
 Master (50; 7 trifle)

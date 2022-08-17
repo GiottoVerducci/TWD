@@ -6,16 +6,16 @@ Alex Harmon
 Here is the deck that I used at Origins. I think it is missing 3 cards or
 so but they shouldn't be anything more than maybe another stealth card or so.
 
-Crypt (12 cards, min=9, max=43, avg=6.33)
------------------------------------------
-3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
-3x Gilbert Duane	7   AUS DOM OBF			prince		Malkavian:1
-1x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
-1x Lena Rowe		3   aus obf pre					Pander:2
-1x Roland Loussarian	3   for pre					Ventrue:1
-1x Mustafa Rahman	2   dom						Tremere:2
-1x Ohanna		2   dom						Malkavian:2
-1x Rufina Soledad	2   for						Ventrue:1
+Crypt (12 cards, min=9 max=43 avg=6.33)
+---------------------------------------
+3x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
+3x Gilbert Duane        7   AUS DOM OBF                 prince          Malkavian:1
+1x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
+1x Lena Rowe            3   aus obf pre                                 Pander:2
+1x Roland Loussarian    3   for pre                                     Ventrue:1
+1x Mustafa Rahman       2   dom                                         Tremere:2
+1x Ohanna               2   dom                                         Malkavian:2
+1x Rufina Soledad       2   for                                         Ventrue:1
 
 Library (81 cards)
 Master (14)

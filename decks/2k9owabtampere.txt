@@ -12,15 +12,15 @@ Just a combat oriented version of a nephandus deck. Could use 1 or 2
 more nephandi (i got them now) and some combat could be replaced with
 few more deflect/delayings and id also add one more DI.
 
-Crypt (12 cards, min=12, max=20, avg=3.83)
-------------------------------------------
-5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
-2x Keith Moody		3   DOM			Tremere antitribu:4
-1x Ehrich Weiss		3   dom tha		Tremere:3
-1x Ember Wright		3   aus dom		Tremere antitribu:3
-1x Lucy Markowitz	3   dom obt		Lasombra:4
-1x Saiz			3   aus dom		Tremere antitribu:3
-1x Ulrike Rothbart	3   dom for		Ventrue antitribu:4
+Crypt (12 cards, min=12 max=20 avg=3.83)
+----------------------------------------
+5x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
+2x Keith Moody          3   DOM                 Tremere antitribu:4
+1x Ehrich Weiss         3   dom tha             Tremere:3
+1x Ember Wright         3   aus dom             Tremere antitribu:3
+1x Lucy Markowitz       3   dom obt             Lasombra:4
+1x Saiz                 3   aus dom             Tremere antitribu:3
+1x Ulrike Rothbart      3   dom for             Ventrue antitribu:4
 
 Library (90 cards)
 Master (14; 3 trifle)

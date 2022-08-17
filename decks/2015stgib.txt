@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7993
 
 Deck Name: Malk 94
 
-Crypt (12 cards, min=19, max=28, avg=5.92)
-------------------------------------------
-3x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
-2x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
-2x Ozmo			6   AUS dom obf			Malkavian:1
-2x Didi Meyers		5   DOM aus cel obf		Malkavian:1
-2x Zebulon		5   OBF aus dom pro		Malkavian:1
-1x Roland Bishop	4   aus dom obf			Malkavian:1
+Crypt (12 cards, min=19 max=28 avg=5.92)
+----------------------------------------
+3x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
+2x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
+2x Ozmo                 6   AUS dom obf                 Malkavian:1
+2x Didi Meyers          5   DOM aus cel obf             Malkavian:1
+2x Zebulon              5   OBF aus dom pro             Malkavian:1
+1x Roland Bishop        4   aus dom obf                 Malkavian:1
 
 Library (90 cards)
 Master (15; 6 trifle)

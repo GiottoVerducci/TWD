@@ -7,12 +7,12 @@ Grigory Cherbakov
 
 -- 4VP in final
 
-Crypt (12 cards, min=18, max=40, avg=7.17)
-------------------------------------------
-5x Byzar	   10  AUS FOR NEC OBF dom pre	Harbinger of Skulls:6
-3x La Viuda Blanca 6   AUS NEC for obf		Harbinger of Skulls:6
-2x Kestrelle Hayes 6   AUS dom for obt		Ventrue antitribu:5
-2x Veejay Vinod	   3   AUS			Nagaraja:6
+Crypt (12 cards, min=18 max=40 avg=7.17)
+----------------------------------------
+5x Byzar           10  AUS FOR NEC OBF dom pre  Harbinger of Skulls:6
+3x La Viuda Blanca 6   AUS NEC for obf          Harbinger of Skulls:6
+2x Kestrelle Hayes 6   AUS dom for obt          Ventrue antitribu:5
+2x Veejay Vinod    3   AUS                      Nagaraja:6
 
 Library (90 cards)
 Master (24; 5 trifle)

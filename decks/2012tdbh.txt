@@ -11,16 +11,16 @@ Description: A little bit tweaked version of my old TWD.
 I added two DTs to adopt to lot of political decks in the
 current environment.
 
-Crypt (12 cards, min=17, max=32, avg=6.58)
-------------------------------------------
-2x Eric Kressida	8   AUS DOM PRO THA cel		bishop	Tremere antitribu:4
-2x Giovanni del Georgio	8   DOM NEC POT PRO			Giovanni:5
-2x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince	Ventrue:5
-2x Phillipe Rigaud	7   DOM OBF PRO ani aus obt		Gangrel antitribu:4
-1x Rutor		7   AUS DOM THA pro vic			Tremere:5
-1x Kay Polerno		4   dom nec pro				Giovanni:5
-1x Almodo Giovanni	3   dom pot				Giovanni:4
-1x Keith Moody		3   DOM					Tremere antitribu:4
+Crypt (12 cards, min=17 max=32 avg=6.58)
+----------------------------------------
+2x Eric Kressida        8   AUS DOM PRO THA cel         bishop  Tremere antitribu:4
+2x Giovanni del Georgio 8   DOM NEC POT PRO                     Giovanni:5
+2x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro         prince  Ventrue:5
+2x Phillipe Rigaud      7   DOM OBF PRO ani aus obt             Gangrel antitribu:4
+1x Rutor                7   AUS DOM THA pro vic                 Tremere:5
+1x Kay Polerno          4   dom nec pro                         Giovanni:5
+1x Almodo Giovanni      3   dom pot                             Giovanni:4
+1x Keith Moody          3   DOM                                 Tremere antitribu:4
 
 Library (89 cards)
 Master (17; 2 trifle)

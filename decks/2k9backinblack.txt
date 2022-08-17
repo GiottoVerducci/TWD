@@ -7,14 +7,14 @@ Waldo Peyrau
 
 Deck Name: Ishtarri Sangrando
 
-Crypt (12 cards, min=12, max=22, avg=4.33)
-------------------------------------------
-2x Agru Kabera		6   FOR cel nec pre	Ishtarri:4
-2x Elizabeth Conde	5   CEL FOR pre		Ishtarri:4
-2x Shasa Abu Badr	5   PRE cel for		Ishtarri:4
-2x Kenyatta		4   cel for pre		Ishtarri:4
-2x Abu Nuwasi		3   cel for		Ishtarri:4
-2x Panya, The Wicked	3   cel pre		Ishtarri:4
+Crypt (12 cards, min=12 max=22 avg=4.33)
+----------------------------------------
+2x Agru Kabera          6   FOR cel nec pre     Ishtarri:4
+2x Elizabeth Conde      5   CEL FOR pre         Ishtarri:4
+2x Shasa Abu Badr       5   PRE cel for         Ishtarri:4
+2x Kenyatta             4   cel for pre         Ishtarri:4
+2x Abu Nuwasi           3   cel for             Ishtarri:4
+2x Panya, The Wicked    3   cel pre             Ishtarri:4
 
 Library (90 cards)
 Master (10)

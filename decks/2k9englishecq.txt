@@ -6,17 +6,17 @@ Mike Wilson
 
 Deck Name: the incidental bishops
 
-Crypt (12 cards, min=12, max=37, avg=6.58)
-------------------------------------------
-3x Antón de Concepción	  9   ANI DOM OBT POT aus	archbishop  Lasombra:4
-2x Julio Martinez	  9   ANI DOM OBF POT nec	bishop	    Nosferatu antitribu:3
-1x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf		    Nosferatu antitribu:4
-1x Joseph Cambridge	  6   POT ani dom obf		bishop	    Nosferatu antitribu:4
-1x Otieno		  6   OBT POT ani dom			    Lasombra:4
-1x Virginie, Prodigy	  6   DOM POT obt		bishop	    Lasombra:4
-1x Stick		  3   ANI				    Nosferatu antitribu:4
-1x Mouse		  2   ani				    Nosferatu:3
-1x Lisa Noble		  1   ani				    Caitiff:3
+Crypt (12 cards, min=12 max=37 avg=6.58)
+----------------------------------------
+3x Antón de Concepción    9   ANI DOM OBT POT aus       archbishop  Lasombra:4
+2x Julio Martinez         9   ANI DOM OBF POT nec       bishop      Nosferatu antitribu:3
+1x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf               Nosferatu antitribu:4
+1x Joseph Cambridge       6   POT ani dom obf           bishop      Nosferatu antitribu:4
+1x Otieno                 6   OBT POT ani dom                       Lasombra:4
+1x Virginie, Prodigy      6   DOM POT obt               bishop      Lasombra:4
+1x Stick                  3   ANI                                   Nosferatu antitribu:4
+1x Mouse                  2   ani                                   Nosferatu:3
+1x Lisa Noble             1   ani                                   Caitiff:3
 
 Library (90 cards)
 Master (12; 3 trifle)

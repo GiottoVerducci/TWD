@@ -9,13 +9,13 @@ Deck Name: Princes 3 and 4
 Description: The Tithings is supposed to be a Transfer of Power; I
 grabbed the wrong card when assembling the deck before the tournament.
 
-Crypt (12 cards, min=25, max=32, avg=7.17)
-------------------------------------------
-3x Giangaleazzo, The Traitor	8   OBT POT PRE dom	 prince	 Lasombra:4
-3x Mukhtar Bey			7   FOR PRE QUI obf pot	 prince	 Caitiff:4
-3x Mustafa, The Heir		6   FOR PRE cel dom	 prince	 Ventrue:4
-2x Victorine Lafourcade		8   DOM FOR PRE tha	 prince	 Ventrue:3
-1x Horatio Ballard		7   DOM FOR PRE aus	 	 Ventrue:3
+Crypt (12 cards, min=25 max=32 avg=7.17)
+----------------------------------------
+3x Giangaleazzo, The Traitor    8   OBT POT PRE dom      prince  Lasombra:4
+3x Mukhtar Bey                  7   FOR PRE QUI obf pot  prince  Caitiff:4
+3x Mustafa, The Heir            6   FOR PRE cel dom      prince  Ventrue:4
+2x Victorine Lafourcade         8   DOM FOR PRE tha      prince  Ventrue:3
+1x Horatio Ballard              7   DOM FOR PRE aus              Ventrue:3
 
 Library (90 cards)
 Master (18)

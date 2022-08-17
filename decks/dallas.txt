@@ -8,15 +8,15 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/hScib3RFNgA
 
 Theft Without The Thamaturgy
 
-Crypt (12 cards, min=20, max=40, avg=7.83)
-------------------------------------------
-4x François Villon	  10  AUS CEL PRE chi obf pot	prince	  Toreador:2
-2x Hannibal		  10  AUS DEM OBF cel dom	cardinal  Malkavian antitribu:2
-2x Quira, The Bitch Queen 6   AUS OBF obt tha			  Malkavian antitribu:2
-1x Virgil		  8   AUS DEM OBF cel		bishop	  Malkavian antitribu:2
-1x Artemis		  6   DEM OBF aus cel for		  Malkavian antitribu:2
-1x Claven		  4   aus dem obf			  Malkavian antitribu:2
-1x Dorian Strack	  4   AUS cel				  Toreador:1
+Crypt (12 cards, min=20 max=40 avg=7.83)
+----------------------------------------
+4x François Villon        10  AUS CEL PRE chi obf pot   prince    Toreador:2
+2x Hannibal               10  AUS DEM OBF cel dom       cardinal  Malkavian antitribu:2
+2x Quira, The Bitch Queen 6   AUS OBF obt tha                     Malkavian antitribu:2
+1x Virgil                 8   AUS DEM OBF cel           bishop    Malkavian antitribu:2
+1x Artemis                6   DEM OBF aus cel for                 Malkavian antitribu:2
+1x Claven                 4   aus dem obf                         Malkavian antitribu:2
+1x Dorian Strack          4   AUS cel                             Toreador:1
 
 Library (90 cards)
 Master (23)

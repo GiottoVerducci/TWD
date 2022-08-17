@@ -6,17 +6,17 @@ Chris Loux
 
 Deck Name: "Those darn unaligned... they need govern'n"
 
-Crypt (12 cards, min=19, max=37, avg=7.17)
-------------------------------------------
-3x Ingrid Rossler	9   ANI FOR PRO dom	 prince	   Gangrel:2
-2x Iliana		7   DOM FOR PRO tha	 	   Gangrel:2
-1x Camille Devereux	5   FOR PRO ani		 	   Gangrel:1
-1x Raven		5   FOR PRO ani		 	   Gangrel:1
-1x Angus the Unruled	10  ANI PRO cel for pot	 justicar  Gangrel:1
-1x Katarina		9   ANI FOR pot pro	 prince	   Gangrel:2
-1x Sir Walter Nash	7   DOM FOR PRE		 prince	   Ventrue:1
-1x Caitlin		6   ANI PRO aus dom	 bishop	   Gangrel antitribu:2
-1x Chandler Hungerford	3   PRO			 	   Gangrel:2
+Crypt (12 cards, min=19 max=37 avg=7.17)
+----------------------------------------
+3x Ingrid Rossler       9   ANI FOR PRO dom      prince    Gangrel:2
+2x Iliana               7   DOM FOR PRO tha                Gangrel:2
+1x Camille Devereux     5   FOR PRO ani                    Gangrel:1
+1x Raven                5   FOR PRO ani                    Gangrel:1
+1x Angus the Unruled    10  ANI PRO cel for pot  justicar  Gangrel:1
+1x Katarina             9   ANI FOR pot pro      prince    Gangrel:2
+1x Sir Walter Nash      7   DOM FOR PRE          prince    Ventrue:1
+1x Caitlin              6   ANI PRO aus dom      bishop    Gangrel antitribu:2
+1x Chandler Hungerford  3   PRO                            Gangrel:2
 
 Library (90 cards)
 Master (14)

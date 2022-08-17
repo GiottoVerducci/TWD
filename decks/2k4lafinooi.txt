@@ -10,16 +10,16 @@ Description: PRO - DOM - AUS - ANI. Bleed, and when blocked, read your
 prey's hand to know whether or not to Form of Mist. Qualified in
 SouthCentral 2003. Revised. Storyline legal.
 
-Crypt (12 cards, min=19, max=38, avg=7.08)
-------------------------------------------
-3x Genevieve		  10  ANI FOR PRO aus dom  priscus  Gangrel antitribu:2
-1x Sébastien Goulet	  8   DOM OBF cel pre pro  	    Gangrel antitribu:3
-1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro  	    Gangrel antitribu:3
-2x Kanimana Belghazi	  7   AUS DOM NEC pro	   	    Nagaraja:2
-2x Caitlin		  6   ANI PRO aus dom	   bishop   Gangrel antitribu:2
-1x Dylan		  6   aus cel dom for pro  	    Ventrue antitribu:2
-1x Monique		  5   ani aus for pro	   	    Gangrel antitribu:2
-1x Sadie		  2   pro		   	    Gangrel antitribu:2
+Crypt (12 cards, min=19 max=38 avg=7.08)
+----------------------------------------
+3x Genevieve              10  ANI FOR PRO aus dom  priscus  Gangrel antitribu:2
+1x Sébastien Goulet       8   DOM OBF cel pre pro           Gangrel antitribu:3
+1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro           Gangrel antitribu:3
+2x Kanimana Belghazi      7   AUS DOM NEC pro               Nagaraja:2
+2x Caitlin                6   ANI PRO aus dom      bishop   Gangrel antitribu:2
+1x Dylan                  6   aus cel dom for pro           Ventrue antitribu:2
+1x Monique                5   ani aus for pro               Gangrel antitribu:2
+1x Sadie                  2   pro                           Gangrel antitribu:2
 
 Library (90 cards)
 Master (16)

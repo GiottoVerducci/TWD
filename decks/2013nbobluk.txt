@@ -13,18 +13,18 @@ allows to run a huge Wash + reactions package without sacrificing the
 offensive cardflow. So you can afford to take it slowly, Govern your
 whole uncontrolled region out, tool up and wait for the opening.
 
-Crypt (13 cards, min=15, max=32, avg=6)
----------------------------------------
-4x Paul Cordwood		8   AUS DOM THA obf pre	 bishop	   Tremere antitribu:4
-1x Carna, The Princess Witch	7   AUS DOM THA		 primogen  Tremere:3
-1x Preston Varrick		7   DOM OBF THA aus nec	 	   Tremere:4
-1x Muhsin Samir			6   DOM THA aus pot	 	   Tremere:4
-1x Selena			6   AUS DOM THA		 	   Tremere antitribu:3
-1x Cohn Rose			5   THA aus dom pre	 	   Tremere:3
-1x Frank Weisshadel		4   dom pot tha		 	   Tremere:4
-1x Janine			4   aus dom tha		 	   Tremere antitribu:4
-1x Pieter van Dorn		4   dom pre tha		 	   Tremere:3
-1x Ehrich Weiss			3   dom tha		 	   Tremere:3
+Crypt (13 cards, min=15 max=32 avg=6)
+-------------------------------------
+4x Paul Cordwood                8   AUS DOM THA obf pre  bishop    Tremere antitribu:4
+1x Carna, The Princess Witch    7   AUS DOM THA          primogen  Tremere:3
+1x Preston Varrick              7   DOM OBF THA aus nec            Tremere:4
+1x Muhsin Samir                 6   DOM THA aus pot                Tremere:4
+1x Selena                       6   AUS DOM THA                    Tremere antitribu:3
+1x Cohn Rose                    5   THA aus dom pre                Tremere:3
+1x Frank Weisshadel             4   dom pot tha                    Tremere:4
+1x Janine                       4   aus dom tha                    Tremere antitribu:4
+1x Pieter van Dorn              4   dom pre tha                    Tremere:3
+1x Ehrich Weiss                 3   dom tha                        Tremere:3
 
 Library (75 cards)
 Master (18; 8 trifle)

@@ -6,12 +6,12 @@ May 18th 2014
 Davi Pereira da Cunha
 https://www.vekn.net/event-calendar/event/7686
 
-Crypt (12 cards, min=24, max=40, avg=8.5)
------------------------------------------
-3x Jann Berger	    10	CEL POT PRE dem for	prince	  Brujah:4
-3x Montecalme	    10	AUS CEL DOM PRE obt	justicar  Toreador:5
-3x Dmitra Ilyanova  9	CEL FOR POT PRE obf	justicar  Brujah:5
-3x Victor Pelletier 5	PRE cel dom for			  Ventrue:4
+Crypt (12 cards, min=24 max=40 avg=8.5)
+---------------------------------------
+3x Jann Berger      10  CEL POT PRE dem for     prince    Brujah:4
+3x Montecalme       10  AUS CEL DOM PRE obt     justicar  Toreador:5
+3x Dmitra Ilyanova  9   CEL FOR POT PRE obf     justicar  Brujah:5
+3x Victor Pelletier 5   PRE cel dom for                   Ventrue:4
 
 Library (90 cards)
 Master (14; 4 trifle)

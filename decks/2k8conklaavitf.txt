@@ -9,17 +9,17 @@ Deck Name: Irresponsible Setites
 
 1GW4 (4th seed) + 3VP in final
 
-Crypt (12 cards, min=10, max=26, avg=4.75)
-------------------------------------------
-2x Ankh-sen-Sutekh		6   PRE SER obf		 	   Follower of Set:4
-2x Renenet			5   OBF PRE ser		 	   Follower of Set:4
-2x Tupdog			1   POT VIS		 	   Gargoyle:3
-1x Amenophobis			7   OBF SER dom pre	 primogen  Follower of Set:4
-1x Suzanne Kadim		7   CEL PRE aus dom obf	 	   Toreador:3
-1x Ezekiel, Lord of Montreal	6   PRE SER obf pot	 	   Follower of Set:3
-1x Catherine du Bois		5   DOM for obf pre	 	   Ventrue:3
-1x Marla Kenyon			4   PRE ser		 	   Follower of Set:4
-1x Robin Withers		4   dom obf pre		 	   Ventrue:4
+Crypt (12 cards, min=10 max=26 avg=4.75)
+----------------------------------------
+2x Ankh-sen-Sutekh              6   PRE SER obf                    Follower of Set:4
+2x Renenet                      5   OBF PRE ser                    Follower of Set:4
+2x Tupdog                       1   POT VIS                        Gargoyle:3
+1x Amenophobis                  7   OBF SER dom pre      primogen  Follower of Set:4
+1x Suzanne Kadim                7   CEL PRE aus dom obf            Toreador:3
+1x Ezekiel, Lord of Montreal    6   PRE SER obf pot                Follower of Set:3
+1x Catherine du Bois            5   DOM for obf pre                Ventrue:3
+1x Marla Kenyon                 4   PRE ser                        Follower of Set:4
+1x Robin Withers                4   dom obf pre                    Ventrue:4
 
 Library (82 cards)
 Master (20; 8 trifle)

@@ -16,18 +16,18 @@ along with Misdirection, Seduction, and The Sleeping Mind, you will be
 able to bleed your prey and ensure that he or she is the first player
 to be ousted.
 
-Crypt (12 cards, min=7, max=29, avg=4.25)
------------------------------------------
-3x Anson			   8   CEL PRE aus dom	prince	Toreador:1
-1x Kurt Strauss			   5   DOM aus tha		Tremere antitribu:2
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		Ventrue:2
-1x Gloria Giovanni		   4   DOM nec			Giovanni:2
-1x Ingrid Russo			   4   DOM for			Ventrue antitribu:2
-1x Christine Boscacci		   2   dom vic			Pander:2
-1x Mustafa Rahman		   2   dom			Tremere:2
-1x Ohanna			   2   dom			Malkavian:2
-1x Samson			   2   dom			Ventrue antitribu:2
-1x Royce			   1   dom			Pander:2
+Crypt (12 cards, min=7 max=29 avg=4.25)
+---------------------------------------
+3x Anson                           8   CEL PRE aus dom  prince  Toreador:1
+1x Kurt Strauss                    5   DOM aus tha              Tremere antitribu:2
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for              Ventrue:2
+1x Gloria Giovanni                 4   DOM nec                  Giovanni:2
+1x Ingrid Russo                    4   DOM for                  Ventrue antitribu:2
+1x Christine Boscacci              2   dom vic                  Pander:2
+1x Mustafa Rahman                  2   dom                      Tremere:2
+1x Ohanna                          2   dom                      Malkavian:2
+1x Samson                          2   dom                      Ventrue antitribu:2
+1x Royce                           1   dom                      Pander:2
 
 Library (90 cards)
 Master (39)

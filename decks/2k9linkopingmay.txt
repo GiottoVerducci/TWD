@@ -11,10 +11,10 @@ Deck Name: Cybele on speedhack
 Description: Based on the Cybelotron deck by Johannes Walch & Ben
 Peal.
 
-Crypt (12 cards, min=40, max=40, avg=10)
-----------------------------------------
-11x Cybele 10	ANI DAI OBF PRE SER THA	 Baali:4
-1x  Nergal 10	AUS DAI FOR OBF PRE THA	 Baali:5
+Crypt (12 cards, min=40 max=40 avg=10)
+--------------------------------------
+11x Cybele 10   ANI DAI OBF PRE SER THA  Baali:4
+1x  Nergal 10   AUS DAI FOR OBF PRE THA  Baali:5
 
 Library (64 cards)
 Master (33; 5 trifle)

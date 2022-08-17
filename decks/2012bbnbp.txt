@@ -14,17 +14,17 @@ Suggested changes:
 - add a Pentex and another crusade
 - replace Henry Taylor with another copy of a 4cap !brujah
 
-Crypt (12 cards, min=10, max=24, avg=4.08)
-------------------------------------------
-2x Miguel Santo Domingo	7   POT PRE cel for	Brujah antitribu:3
-2x Sarah Brando		3   CEL			Brujah antitribu:2
-2x Frederick the Weak	2   pre			Brujah antitribu:2
-1x Henry Taylor		6   POT cel pre pro	Brujah antitribu:3
-1x Evangeline		4   cel pot pre		Brujah antitribu:2
-1x Hugo			4   POT pre vic		Brujah antitribu:2
-1x Mariano Pomposo	4   aus cel pot		Brujah antitribu:3
-1x Victor Tolliver	4   CEL pot		Brujah antitribu:2
-1x Jacob Bragg		3   cel pot		Brujah antitribu:2
+Crypt (12 cards, min=10 max=24 avg=4.08)
+----------------------------------------
+2x Miguel Santo Domingo 7   POT PRE cel for     Brujah antitribu:3
+2x Sarah Brando         3   CEL                 Brujah antitribu:2
+2x Frederick the Weak   2   pre                 Brujah antitribu:2
+1x Henry Taylor         6   POT cel pre pro     Brujah antitribu:3
+1x Evangeline           4   cel pot pre         Brujah antitribu:2
+1x Hugo                 4   POT pre vic         Brujah antitribu:2
+1x Mariano Pomposo      4   aus cel pot         Brujah antitribu:3
+1x Victor Tolliver      4   CEL pot             Brujah antitribu:2
+1x Jacob Bragg          3   cel pot             Brujah antitribu:2
 
 Library (73 cards)
 Master (11)

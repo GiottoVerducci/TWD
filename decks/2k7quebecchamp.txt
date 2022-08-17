@@ -16,14 +16,14 @@ Charisma avec des Perfectionnist et j'ajouterais 2 Delaying Tactics.
 Il est à noter que ce deck se révèle particulièrement efficace contre
 les weenie potence et autres tupdogs de ce monde.
 
-Crypt (12 cards, min=14, max=22, avg=4.67)
-------------------------------------------
-2x Onaedo		 6   DOM OBT aus pot		Lasombra:4
-2x Andrew Emory		 5   OBT aus dom pot	bishop	Lasombra:4
-2x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
-2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
-2x Leila Monroe		 4   dom obt pre		Lasombra:4
-2x Lucy Markowitz	 3   dom obt			Lasombra:4
+Crypt (12 cards, min=14 max=22 avg=4.67)
+----------------------------------------
+2x Onaedo                6   DOM OBT aus pot            Lasombra:4
+2x Andrew Emory          5   OBT aus dom pot    bishop  Lasombra:4
+2x Dame Hollerton        5   DOM OBT myt                Kiasyd:4
+2x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
+2x Leila Monroe          4   dom obt pre                Lasombra:4
+2x Lucy Markowitz        3   dom obt                    Lasombra:4
 
 Library (88 cards)
 Master (16)

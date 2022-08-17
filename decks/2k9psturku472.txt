@@ -9,17 +9,17 @@ Otso Saariluoma
 
 Based on decks by Iñaki Puigdollers and Yannick Gibert.
 
-Crypt (12 cards, min=5, max=17, avg=2.83)
------------------------------------------
-2x Victoria	  5   AUS cel obf  Malkavian:2
-2x Zöe		  3   AUS cel obf  Malkavian:2
-2x Anarch Convert 1   -none-	   Caitiff:ANY
-1x Aleph	  4   AUS dom	   Malkavian:1
-1x Dollface	  3   aus obf	   Malkavian:1
-1x Isabel de Leon 3   AUS	   Toreador:2
-1x Watenda	  3   obf	   Malkavian:2
-1x Brazil	  2   aus	   Malkavian:1
-1x Franciscus	  1   aus	   Caitiff:2
+Crypt (12 cards, min=5 max=17 avg=2.83)
+---------------------------------------
+2x Victoria       5   AUS cel obf  Malkavian:2
+2x Zöe            3   AUS cel obf  Malkavian:2
+2x Anarch Convert 1   -none-       Caitiff:ANY
+1x Aleph          4   AUS dom      Malkavian:1
+1x Dollface       3   aus obf      Malkavian:1
+1x Isabel de Leon 3   AUS          Toreador:2
+1x Watenda        3   obf          Malkavian:2
+1x Brazil         2   aus          Malkavian:1
+1x Franciscus     1   aus          Caitiff:2
 
 Library (75 cards)
 Master (14; 4 trifle)

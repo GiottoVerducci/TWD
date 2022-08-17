@@ -13,15 +13,15 @@ just a few cards from his list to add in an Enkil Cog, and a Metro
 Underground, which I thought might help my game...
 And sure enough they did.
 
-Crypt (12 cards, min=9, max=44, avg=6.25)
------------------------------------------
-5x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
-2x Andre LeRoux	    3	aus			 Toreador:5
-1x Fairuza	    4	CEL pre			 Brujah antitribu:5
-1x Idrissa	    4	CEL aus			 Osebo:4
-1x T.J.		    3	cel for			 Gangrel:4
-1x Clifton Derrik   2	cel			 Brujah:4
-1x Anarch Convert   1	-none-			 Caitiff:ANY
+Crypt (12 cards, min=9 max=44 avg=6.25)
+---------------------------------------
+5x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+2x Andre LeRoux     3   aus                      Toreador:5
+1x Fairuza          4   CEL pre                  Brujah antitribu:5
+1x Idrissa          4   CEL aus                  Osebo:4
+1x T.J.             3   cel for                  Gangrel:4
+1x Clifton Derrik   2   cel                      Brujah:4
+1x Anarch Convert   1   -none-                   Caitiff:ANY
 
 Library (90 cards)
 Master (6; 3 trifle)

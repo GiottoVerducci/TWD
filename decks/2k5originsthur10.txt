@@ -35,15 +35,15 @@ Feuerstein for the D'habi Revenant idea, and to Ruben Vidana Ramos
 and Stephane Lavrut whose War Ghoul decks I used as references
 (and to Lasombra Jeff for the TWD Archive!).
 
-Crypt (12 cards, min=8, max=28, avg=4.75)
------------------------------------------
-6x Mata Hari	    7	CHI OBF aus for qui	2 votes	 Ravnos:4
-1x Ana Rita Montaña 5	VIC aus dom obf			 Tzimisce:3
-1x Denette Stensen  2	obf				 Gangrel antitribu:4
-1x Hanna Redmonds   2	obf tha				 Caitiff:3
-1x Krid		    2	obf				 Nosferatu:3
-1x Piotr Andreikov  2	aus				 Tzimisce:3
-1x Zip		    2	ani				 Ravnos:3
+Crypt (12 cards, min=8 max=28 avg=4.75)
+---------------------------------------
+6x Mata Hari        7   CHI OBF aus for qui     2 votes  Ravnos:4
+1x Ana Rita Montaña 5   VIC aus dom obf                  Tzimisce:3
+1x Denette Stensen  2   obf                              Gangrel antitribu:4
+1x Hanna Redmonds   2   obf tha                          Caitiff:3
+1x Krid             2   obf                              Nosferatu:3
+1x Piotr Andreikov  2   aus                              Tzimisce:3
+1x Zip              2   ani                              Ravnos:3
 
 Library (62 cards)
 Master (20)

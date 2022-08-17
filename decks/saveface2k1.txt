@@ -1,0 +1,54 @@
+Save Face
+Boston
+September 29th 2001
+Brad Kellogg
+
+Ventrue Suck!
+
+Crypt (12 cards, min=24, max=36, avg=7.58)
+------------------------------------------
+3x Cardano				9   DOM FOR THA ani aus cel	prince	Tremere:1
+2x Sir Walter Nash			7   DOM FOR PRE			prince	Ventrue:1
+1x Bindusara, Historian of the Kindred	9   AUS DOM FOR PRE tha			Ventrue:2
+1x Spiridonas				9   DOM THA pot pre		prince	Tremere:2
+1x Emerson Bridges			8   DOM FOR PRE pot		prince	Ventrue:1
+1x Gilbert Duane			7   AUS DOM OBF			prince	Malkavian:1
+1x Jan Pieterzoon			7   DOM FOR pot pre			Ventrue:2
+1x Marlene, The Infernalist		6   AUS DOM dem for tha			Ventrue antitribu:2
+1x Ingrid Russo				4   DOM for				Ventrue antitribu:2
+
+Library (91 cards)
+Master (13)
+2x Auspex
+1x Blood Doll
+2x Direct Intervention
+2x Fortitude
+1x Information Highway
+3x Minion Tap
+2x Sudden Reversal
+
+Action (13)
+1x Force of Will
+6x Govern the Unaligned
+6x Revelations
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Political Action (1)
+1x Kindred Restructure
+
+Action Modifier (30)
+8x Conditioning
+5x Daring the Dawn
+4x Day Operation
+4x Freak Drive
+4x Kiss of Ra, The
+5x Perfect Clarity
+
+Reaction (32)
+8x Deflection
+2x Enhanced Senses
+6x Forced Awakening
+8x Obedience
+8x Second Tradition: Domain

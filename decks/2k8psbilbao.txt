@@ -1,0 +1,64 @@
+Praxis Seizure: Bilbao
+Bilbao, Spain
+January 10th 2008
+10 players
+Iñaki Jimenez
+
+Deck Name: Gangrel Wall
+
+Description: This is the second tournament win with the deck. Should
+include 2-3 vessels but everything else seems to work really well. The
+only real problem comes if the prey is straight forward as he can go
+with 3VP befor you can even try to stop him. I stole the final from
+my malk B&S prey with his own major boon thanks to the fragment
+playing it on my predator to keep him alive just enough time for the
+GW
+
+Crypt (12 cards, min=15, max=28, avg=5.33)
+------------------------------------------
+2x Bobby Lemon		4   ANI pro		 	 Gangrel:3
+1x Nadima		8   FOR PRO SER ani aus	 	 Gangrel:3
+1x Danielle Diron	7   ANI PRO chi for	 1 vote	 Gangrel:3
+1x Ryder		7   FOR PRO ani pot	 	 Gangrel:4
+1x Horrock		6   ANI PRO vic		 	 Gangrel:3
+1x Janey Pickman	6   ANI PRO for		 	 Gangrel antitribu:4
+1x Céleste Lamontagne	5   ANI PRO for		 	 Gangrel antitribu:4
+1x Dr. Allan Woodstock	5   PRO ani aus for	 	 Gangrel:3
+1x Lord Ashton		5   ANI for pro		 	 Gangrel:3
+1x Jezebelle		4   ani for pro		 	 Gangrel:4
+1x Bothwell		3   ani for		 	 Gangrel:3
+
+Library (90 cards)
+Master (15)
+6x Blood Doll
+1x Direct Intervention
+1x Ecoterrorists
+1x Erciyes Fragments, The
+1x Gangrel Revel
+1x Millicent Smith, Puritan Vampire Hunter
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Zoo Hunting Ground
+
+Action (2)
+1x Army of Rats
+1x Shadow of the Beast
+
+Retainer (19)
+7x Murder of Crows
+12x Raven Spy
+
+Reaction (20)
+5x Cats' Guidance
+10x Forced Awakening
+5x Wake with Evening's Freshness
+
+Combat (34)
+1x Call the Wild Hunt
+2x Canine Horde
+5x Earth Meld
+7x Flesh of Marble
+4x Form of Mist
+12x Pack Alpha
+3x Taste of Vitae

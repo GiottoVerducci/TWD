@@ -1,0 +1,71 @@
+Finnish ECQ
+Ropecon 2011, Espoo, Finland
+July 29th 2011
+3R+F
+90 players
+Otso Saariluoma
+
+Deck Name: Victoria's Secret
+
+Weenie auspex with some anarch/madness network tech. This deck owes
+to Pascal Bertrand for perfecting the deck concept.
+
+Crypt (12 cards, min=4, max=17, avg=2.67)
+-----------------------------------------
+3x Anarch Convert 1   -none-	   Caitiff:ANY
+2x Victoria	  5   AUS cel obf  Malkavian:2
+2x Zöe		  3   AUS cel obf  Malkavian:2
+1x Aleph	  4   AUS dom	   Malkavian:1
+1x Dollface	  3   aus obf	   Malkavian:1
+1x Isabel de Leon 3   AUS	   Toreador:2
+1x Brazil	  2   aus	   Malkavian:1
+1x Franciscus	  1   aus	   Caitiff:2
+
+Library (79 cards)
+Master (15; 4 trifle)
+2x Anarch Revolt
+2x Direct Intervention
+2x Madness Network
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+3x Vessel
+1x Wider View
+
+Action (3)
+1x Aranthebes, The Immortal
+2x Constant Revolution
+
+Ally (3)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+1x Ossian
+
+Equipment (6)
+3x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (42)
+2x Delaying Tactics
+7x Eagle's Sight
+4x Enhanced Senses
+8x Eyes of Argus
+4x Forced Awakening
+4x My Enemy's Enemy
+4x On the Qui Vive
+2x Precognition
+7x Telepathic Misdirection
+
+Combat (8)
+2x Aura Reading
+3x Disguised Weapon
+3x Target Vitals
+
+Event (1)
+1x Uncoiling, The

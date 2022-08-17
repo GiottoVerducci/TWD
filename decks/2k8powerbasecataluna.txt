@@ -1,0 +1,79 @@
+Powerbase: Cataluña
+Barcelona, Spain
+July 5th 2008
+3R+F
+74 players
+Miguel Pascual
+
+Deck Name: Kholó y GOOOOOL
+
+While not (Library is empty)
+Case have
+Mozabique
+Play Mozabique
+Embrace
+Play Embrace
+Consanguineus Boom
+Play Consanguineus Boom +Eldest
+if during your master fase you have Week AND more than 14 ravnos
+then
+Play Week and win.
+end if
+end case
+Wend
+
+Crypt (12 cards, min=8, max=17, avg=3.17)
+-----------------------------------------
+2x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
+2x Sasha Miklos			2   chi			Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Anka, Priestess of Thorns	4   ani chi pro		Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for		Ravnos:2
+1x Lázár Dobrescu		3   for			Ravnos:2
+1x Tsigane			3   aus chi		Ravnos:2
+1x Vedel Esbreno		3   chi for		Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+1x Zip				2   ani			Ravnos:3
+
+Library (89 cards)
+Master (10)
+1x Fortune Teller Shop
+2x Gird Minions -- VITAL!!! It's the turbo activator.
+1x Not to Be
+1x Protected Resources -- unplayed
+4x Ravnos Carnival -- There are people who can't yet believe an Embrace can embrace another one.
+1x Week of Nightmares
+
+Action (33)
+1x Aranthebes, The Immortal -- to contest
+17x Embrace, The
+15x Mozambique Allure
+
+Ally (6)
+1x Carlton Van Wyk
+5x Rom Gypsy
+
+Equipment (4)
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kduva's Mask
+1x Shilmulo Tarot
+
+Political Action (14)
+3x Autarkis Persecution
+11x Consanguineous Boon
+
+Action Modifier (1)
+1x Strange Day
+
+Action Modifier/Combat (2)
+2x Mirror Image
+
+Action Modifier/Reaction (17)
+17x Eldest Are Kholo, The -- Gooollll (I'd say one is missing)
+
+Reaction (1)
+1x On the Qui Vive
+
+Event (1)
+1x Uncoiling, The

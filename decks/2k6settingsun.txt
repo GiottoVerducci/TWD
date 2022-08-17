@@ -1,0 +1,52 @@
+The Setting Sun Series, part III
+Gothenburg, Sweden
+November 12th 2006
+12 players
+Magnus Hultin
+
+Deck Name: Antimalk
+
+Crypt (12 cards, min=15, max=28, avg=5.33)
+------------------------------------------
+2x Marie Faucigny	 7   AUS OBF dem tha	archbishop  Malkavian antitribu:3
+2x Stavros		 7   AUS OBF PRE dem	priscus	    Malkavian antitribu:4
+1x Drusilla Euphemia	 6   AUS OBF dem vic		    Malkavian antitribu:4
+1x Apache Jones		 5   DEM aus for obf		    Malkavian antitribu:4
+1x General Perfidio Díos 5   AUS dem obf	bishop	    Malkavian antitribu:3
+1x Luc			 5   OBF dem vic		    Malkavian antitribu:4
+1x Uncle George		 5   DEM aus dom obf		    Malkavian antitribu:3
+1x Beauregard Krueller	 4   aus dem obf		    Malkavian antitribu:4
+1x Roger Farnsworth	 4   OBF aus			    Malkavian antitribu:3
+1x Bloodfeud		 2   obf			    Malkavian antitribu:4
+
+Library (90 cards)
+Master (11)
+8x Blood Doll
+3x Perfectionist
+
+Action (27)
+6x Blood of the Sabbat
+3x Call, The
+6x Kindred Spirits
+1x Memory's Fading Glimpse
+4x Psychic Veil
+4x Pulse of the Canaille
+3x Sanguine Instruction
+
+Action Modifier (38)
+6x Cloak the Gathering
+6x Confusion
+4x Elder Impersonation
+4x Eyes of Chaos
+4x Faceless Night
+6x Lost in Crowds
+4x Marked Path
+4x Spying Mission
+
+Reaction (9)
+6x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (5)
+4x Behind You!
+1x Coma

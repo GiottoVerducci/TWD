@@ -1,0 +1,57 @@
+Karsh Adv
+Burton-on-Trent, England
+August 7th 2010
+2R+F
+15 players
+Mariusz Suchanecki
+
+Deck Name: Nosferatu Burton
+
+Crypt (12 cards, min=28, max=38, avg=8.17)
+------------------------------------------
+3x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for		justicar  Nosferatu:1
+3x Nikolaus Vermeulen		7   POT ani for obf		prince	  Nosferatu:2
+2x Lucretia, Cess Queen		10  ANI OBF aus cel for pot	primogen  Nosferatu:1
+2x Selma the Repugnant		8   OBF POT ani for		prince	  Nosferatu:1
+2x Murat			7   OBF POT ser			prince	  Nosferatu:2
+
+Library (70 cards)
+Master (16; 4 trifle)
+1x Archon Investigation
+2x Dreams of the Sphinx
+3x Information Highway
+1x Labyrinth, The
+1x Slum Hunting Ground
+1x Temptation of Greater Power
+4x Vessel
+3x Zillah's Valley
+
+Action (5)
+5x Fourth Tradition: The Accounting
+
+Political Action (11)
+1x Ancient Influence
+1x Disputed Territory
+3x Kine Resources Contested
+4x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (13)
+1x Elder Impersonation
+2x Forgotten Labyrinth
+6x Freak Drive
+4x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (14)
+1x Behind You!
+2x Disarm
+2x Skin of Steel
+2x Soak
+7x Thrown Gate

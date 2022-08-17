@@ -1,0 +1,81 @@
+Texas Qualifier
+Austin, Texas
+July 12th 2008
+3R+F
+17 players
+Preston Poulter
+
+-- 4VP in final
+
+Deck Name: Cesewayo wants "More Cowbell"
+
+by: Preston Poulter
+
+Crypt (12 cards, min=11, max=40, avg=6.25)
+------------------------------------------
+5x Cesewayo 10	AUS CEL DOM POT THA ani	 magaji	 Osebo:4
+2x Idrissa  4	CEL aus			 	 Osebo:4
+2x Misrak   2	pot			 	 Osebo:4
+1x Homa	    6	AUS CEL POT		 	 Osebo:4
+1x Ismitta  4	aus cel pot		 	 Osebo:4
+1x Kamaria  3	aus pot			 	 Osebo:4
+
+Library (90 cards)
+Master (17; 7 trifle)
+2x Erciyes Fragments, The
+1x Mbare Market, Harare
+7x Orun
+1x Parthenon, The
+1x Powerbase: Montreal
+4x Protracted Investment
+1x Smiling Jack, The Anarch
+
+Action (13)
+4x Enforcer
+3x Magic of the Smith
+6x No Secrets From the Magaji
+
+Equipment (5)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Kduva's Mask
+1x Phased Motion Detector
+1x Sniper Rifle
+
+Political Action (9)
+6x Conservative Agitation
+1x Disputed Territory
+2x Rumors of Gehenna
+
+Retainer (4)
+1x Mr. Winthrop
+1x Owl Companion
+1x Raven Spy
+1x Shaman
+
+Action Modifier (3)
+3x Seduction
+
+Action Modifier/Reaction (2)
+2x Osebo Kholo
+
+Reaction (4)
+2x Guard Dogs
+2x Rat's Warning
+
+Combat (32)
+4x Acrobatics
+4x Blur
+2x Drain Essence
+1x Fast Hands
+4x Flash
+3x Nimble Feet
+3x Pursuit
+2x Side Strike
+2x Sideslip
+4x Telepathic Tracking
+1x Thrown Sewer Lid
+2x Walk of Flame
+
+Event (1)
+1x Narrow Minds

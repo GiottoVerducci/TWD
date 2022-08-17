@@ -1,0 +1,63 @@
+NAC 2009 Day 2
+Atlanta, Georgia
+October 4th 2009
+3R+F
+25 players
+Michael Heyder
+
+Deck Name: Laibon Rule the World
+Created by: Michael Heyder
+
+Crypt (12 cards, min=23, max=36, avg=7.58)
+------------------------------------------
+4x Nangila Were	9   ANI POT PRE obf ser	 Guruhi:4
+4x Nana Buruku	8   ANI POT PRE		 Guruhi:4
+3x Batsheva	6   ANI PRE obt pot	 Guruhi:4
+1x Fish		5   ANI POT pre		 Guruhi:4
+
+Library (90 cards)
+Master (24)
+8x Ashur Tablets
+1x Channel 10
+2x Fame
+1x Giant's Blood
+4x Grooming the Protégé
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+2x Monster
+1x Palace Hunting Ground
+1x Powerbase: Tshwane
+1x Therbold Realty
+1x Wall Street Night, Financial Newspaper
+
+Action (14)
+6x Enchant Kindred
+3x Founders of the Ebony Kingdom
+1x Heroic Might
+2x Preternatural Strength
+2x Well-Marked
+
+Equipment (5)
+2x Flak Jacket
+1x IR Goggles
+2x Leather Jacket
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier (8)
+8x Guruhi Are the Land, The
+
+Reaction (13)
+2x Cats' Guidance
+4x Guard Dogs
+2x Instinctive Reaction
+1x Lost in Translation
+4x Sense the Savage Way
+
+Combat (22)
+6x Carrion Crows
+7x Immortal Grapple
+2x Pack Alpha
+3x Taste of Vitae
+4x Thrown Sewer Lid

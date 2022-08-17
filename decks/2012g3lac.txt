@@ -1,0 +1,73 @@
+Gateway Event 3
+Los Angeles, California
+September 3rd 2012
+2R+F
+12 players
+Ian Lee
+
+-- 3VP in final
+
+Deck Name: Evanescent
+
+If you aren't playing Trainer, why are you even bothering with Animalism?
+
+Crypt (12 cards, min=4, max=34, avg=4.67)
+-----------------------------------------
+4x Anarch Convert 1   -none-		   Caitiff:ANY
+2x Myrna Goldman  9   ANI DOM MYT OBT	   Kiasyd:6
+2x Arcadian, The  8   DOM MYT OBT chi for  Kiasyd:5
+2x Nitidas	  5   ani dom myt obt pre  Kiasyd:6
+2x Greer Worder	  4   MYT obt		   Kiasyd:6
+
+Library (90 cards)
+Master (16; 10 trifle)
+3x Animalism
+1x Great Symposium
+4x Life in the City
+2x Lilith's Blessing
+6x Villein
+
+Action (16)
+1x Army of Rats
+1x Black Metamorphosis
+6x Gremlins
+1x Pandora's Whisper
+4x Sanguine Instruction
+1x Scarlet Lore
+2x Trainer
+
+Ally (3)
+1x Draeven Softfoot
+2x Underbridge Stray
+
+Action Modifier (4)
+3x Stone Travel
+1x Tenebrous Form
+
+Action Modifier/Combat (1)
+1x Fae Contortion
+
+Action Modifier/Reaction (7)
+5x Aura Absorption
+2x Murmur of the False Will
+
+Reaction (22)
+1x Cats' Guidance
+3x Covincraft
+5x Deflection
+1x Eyes of the Night
+1x Faerie Wards
+2x Fillip
+1x Folderol
+2x Guard Dogs
+5x On the Qui Vive
+1x Redirection
+
+Combat (21)
+1x Absorb the Mind
+4x Arms of the Abyss
+1x Basilisk's Touch
+3x Darkling Trickery
+6x Earth Swords
+1x Entombment
+5x Hell-for-Leather

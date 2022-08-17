@@ -1,0 +1,52 @@
+Computer Hacking
+Brescia, Italy
+July 13th 2014
+3R+F
+10 players
+Giuseppe Carbone
+https://www.vekn.net/event-calendar/event/7833
+
+Deck Name: Meshenka/dragos horridform wall
+
+Crypt (12 cards, min=21, max=32, avg=6.92)
+------------------------------------------
+4x Meshenka		   8   ANI AUS VIC	priscus	 Tzimisce:2
+3x Dragos		   7   ANI AUS vic		 Tzimisce:2
+2x Little Tailor of Prague 8   ANI AUS VIC dem		 Tzimisce:2
+2x Caliban		   6   ANI AUS VIC		 Tzimisce:2
+1x Horatio		   2   vic			 Tzimisce:2
+
+Library (90 cards)
+Master (9; 3 trifle)
+2x Blood Doll
+1x Sudden Reversal
+3x Vessel
+3x Vicissitude
+
+Action (10)
+10x Deep Song
+
+Equipment (1)
+1x Bowl of Convergence
+
+Retainer (3)
+1x Corpse Balloon
+2x Revenant
+
+Action Modifier (5)
+5x Changeling
+
+Reaction (24)
+5x Cats' Guidance
+3x On the Qui Vive
+5x Read the Winds
+3x Sense the Savage Way
+8x Telepathic Misdirection
+
+Combat (38)
+1x Chiropteran Marauder
+3x Drawing Out the Beast
+20x Horrid Form
+3x Taste of Vitae
+6x Telepathic Tracking
+5x Trap

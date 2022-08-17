@@ -1,0 +1,47 @@
+Veil of Darkness
+Trento, Italy
+March 23rd 2013
+2R+F
+23 players
+Danilo Torrisi
+
+Deck Name: Captain, oh my captain!
+
+Description: Combo deck focused on Ivan Krenyenko and the Soul Gem of Etrius
+
+Crypt (16 cards, min=25, max=37, avg=7.88)
+------------------------------------------
+1x Ivan Krenyenko			    10	ANI CHI FOR POT obf	 		Ravnos:2
+1x Ambrogino Giovanni			    9	DOM NEC POT THA aus	 1 vote		Giovanni:2
+1x Baron, The				    9	FOR NEC OBF THN dom	 2 votes	Samedi:2
+1x Ignazio Giovanni			    9	DOM FOR NEC POT obf	 		Giovanni:3
+1x Marino Reymundo Vásquez		    9	AUS DOM NEC THA ani	 archbishop	Tremere antitribu:3
+1x Unre, Keeper of Golgotha		    9	AUS FOR NEC dom ser thn	 bishop		Harbinger of Skulls:2
+1x Anisa Marianna Lopez			    8	FOR NEC QUI aus		 		Harbinger of Skulls:2
+1x Bartholomew				    8	AUS MYT NEC dom obt	 		Kiasyd:2
+1x Enzo Giovanni, Pentex Board of Directors 8	DOM NEC ani pot tha	 		Giovanni:2
+1x Pochtli				    8	NEC OBF POT cel dom	 		Giovanni:2
+1x Egothha				    7	AUS FOR NEC obf		 		Harbinger of Skulls:2
+1x Gisela Harden, The Winnower		    7	FOR NEC aus dem		 priscus	Harbinger of Skulls:2
+1x Kanimana Belghazi			    7	AUS DOM NEC pro		 		Nagaraja:2
+1x Agaitas, The Scholar of Antiquities	    6	AUS NEC for		 		Harbinger of Skulls:2
+1x Mina Grotius				    6	FOR NEC cel		 		Harbinger of Skulls:3
+1x Rafaele Giovanni			    6	NEC cel obf		 		Giovanni:2
+
+Library (90 cards)
+Master (12)
+12x Recruitment
+
+Action (47)
+16x Force of Will
+13x Possession
+10x Psychic Veil
+4x Scrounging
+4x Whispers from the Dead
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Action Modifier (29)
+16x Freak Drive
+13x Will-o'-the-Wisp

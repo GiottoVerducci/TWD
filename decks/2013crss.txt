@@ -1,0 +1,67 @@
+Cock Robin
+Stockholm, Sweden
+December 14th 2013
+2R+F
+13 players
+Randal Rudstam
+https://www.vekn.net/event-calendar/event/7426
+
+-- 2VP in final
+
+Deck Name: Jag vill ha en bleedlek med mycket stealth...
+
+Description: I built this deck for a friend who is kinda new.
+He had forgotten his decks in the morning before our weekly games.
+So i made him this deck and the morning of the tournament I took it
+cus I had no idea what to play...
+
+Crypt (12 cards, min=21, max=32, avg=6.75)
+------------------------------------------
+5x Titus Camille	 8   AUS DOM OBF for		Ventrue antitribu:4
+1x Phillipe Rigaud	 7   DOM OBF PRO ani aus obt	Gangrel antitribu:4
+1x Preston Varrick	 7   DOM OBF THA aus nec	Tremere:4
+1x Dr. Douglas Netchurch 6   AUS OBF dem dom		Malkavian:3
+1x Halim Bey		 6   DOM SER obf tha		Follower of Set:4
+1x Assad Salhoum	 5   aus dem dom obf		Malkavian:4
+1x Black Lotus		 5   DOM aus obf ser		Follower of Set:4
+1x Louis de Maisonneuve	 5   FOR aus dom obf		Ventrue antitribu:4
+
+Library (79 cards)
+Master (13; 6 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+3x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Life in the City
+1x Misdirection
+3x Wash
+
+Action (17)
+10x Govern the Unaligned
+3x Revelations
+4x Scouting Mission
+
+Action Modifier (28)
+2x Bonding
+1x Cloak the Gathering
+6x Conditioning
+2x Elder Impersonation
+3x Faceless Night
+1x Foreshadowing Destruction
+4x Freak Drive
+5x Lost in Crowds
+2x Seduction
+2x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (14)
+6x Deflection
+3x Delaying Tactics
+4x On the Qui Vive
+1x Redirection
+
+Combat (4)
+4x No Trace

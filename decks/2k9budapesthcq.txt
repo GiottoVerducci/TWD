@@ -1,0 +1,63 @@
+Budapest HCQ
+Budapest, Hungary
+September 26th 2009
+3R+F
+29 players
+Csaba Greguss
+
+-- 3VP in final
+
+Deck Name: Take Banjoko's Hand
+
+Description: Lasombra power bleed, with Black Hand flavor.
+
+Crypt (12 cards, min=16, max=27, avg=5.25)
+------------------------------------------
+3x Banjoko		 5   DOM obt pot	Lasombra:3
+3x Ermenegildo, The Rake 5   DOM OBT pot	Lasombra:4
+2x Henri Lavenant	 7   DOM OBT pot qui	Lasombra:3
+1x Blackhorse Tanner	 7   AUS DOM FOR	Ventrue antitribu:3
+1x Onaedo		 6   DOM OBT aus pot	Lasombra:4
+1x Keith Moody		 3   DOM		Tremere antitribu:4
+1x Lucy Markowitz	 3   dom obt		Lasombra:4
+
+Library (90 cards)
+Master (16; 6 trifle)
+1x Admonitions, The
+2x Blood Doll
+1x Coven, The
+2x Direct Intervention
+1x Elysian Fields
+1x Political Hunting Ground
+2x Remover
+3x Vessel
+2x Wash
+1x Watchtower: Four Ride Forth
+
+Action (12)
+10x Govern the Unaligned
+2x Tattoo Signal
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Zaire River Ferry
+
+Action Modifier (35)
+2x Blanket of Night
+5x Bonding
+5x Conditioning
+3x Foreshadowing Destruction
+5x Seduction
+8x Shadow Play
+4x Shroud of Absence
+3x Threats
+
+Reaction (17)
+10x Deflection
+2x Delaying Tactics
+5x On the Qui Vive
+
+Combat (8)
+5x Absorb the Mind
+1x Oubliette
+2x Shadow Body

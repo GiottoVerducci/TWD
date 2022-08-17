@@ -1,0 +1,48 @@
+Belgian ECQ
+Antwerp, Belgium
+August 1st 2004
+3R+F
+59 players
+Ruben Van Cauwenberghe
+
+Deck Name: Anneke+Anson
+
+Crypt (12 cards, min=10, max=40, avg=6.83)
+------------------------------------------
+4x Anneke	  10  AUS CEL PRE dom	justicar  Toreador:1
+4x Anson	  8   CEL PRE aus dom	prince	  Toreador:1
+1x Colin Flynn	  3   aus cel			  Toreador:1
+1x Isabel de Leon 3   AUS			  Toreador:2
+1x Delilah Easton 2   pre			  Toreador:1
+1x Dieter Kleist  2   aus			  Toreador:1
+
+Library (70 cards)
+Master (26)
+7x Anarch Revolt
+4x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Minion Tap
+2x Parthenon, The
+6x Toreador Grand Ball
+
+Political Action (10)
+2x Dramatic Upheaval
+2x Kindred Restructure
+6x Parity Shift
+
+Action Modifier (7)
+2x Approximation of Loyalty
+1x Awe
+2x Bewitching Oration
+2x Voter Captivation
+
+Reaction (21)
+7x Deflection
+4x Obedience
+7x Second Tradition: Domain
+3x Wake with Evening's Freshness
+
+Combat (6)
+6x Majesty

@@ -1,0 +1,60 @@
+Iberian Open 2002
+Spain
+July 29th 2002
+52 players
+Iñaki Puigdollers
+
+Deck Name: So vicious song
+
+Crypt (12 cards, min=14, max=26, avg=5.17)
+------------------------------------------
+2x Jost Werner			  6   AUS PRE ani		Toreador antitribu:2
+2x Sheila Mezarin		  6   AUS PRE cel for		Toreador antitribu:2
+1x Greta Kircher		  7   AUS CEL PRE obf		Toreador antitribu:2
+1x Jessica			  7   AUS CEL OBT PRE	bishop	Toreador antitribu:2
+1x Angela Preston		  5   MEL PRE for		Daughter of Cacophony:2
+1x Mercy, Knight Inquisitor	  5   AUS cel dom pre		Toreador antitribu:2
+1x Delilah Monroe		  4   MEL for pre		Daughter of Cacophony:2
+1x Remilliard, Devout Crusader	  4   AUS pre			Toreador antitribu:2
+1x Céleste, The Voice of a Secret 3   mel pre			Daughter of Cacophony:2
+1x Lolita			  3   for pre			Toreador antitribu:2
+
+Library (90 cards)
+Master (13)
+1x Anarch Troublemaker
+1x Archon Investigation
+2x Blood Doll
+1x Direct Intervention
+1x Fetish Club Hunting Ground
+2x Fortitude
+4x Palla Grande
+1x Paris Opera House
+
+Action (29)
+9x Art Scam
+10x Enchant Kindred
+2x Entrancement
+1x Patronage
+4x Propaganda
+3x Revelations
+
+Equipment (1)
+1x Ivory Bow
+
+Action Modifier (14)
+2x Aire of Elation
+2x Change of Target
+2x Daring the Dawn
+4x Freak Drive
+4x Siren's Lure
+
+Reaction (22)
+2x Delaying Tactics
+3x Forced Awakening
+4x My Enemy's Enemy
+4x Telepathic Counter
+4x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (11)
+11x Majesty

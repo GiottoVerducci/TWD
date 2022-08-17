@@ -1,0 +1,59 @@
+Saturday Night Special MQ
+Barga, Italy
+June 30th 2007
+16 players
+Emanuele Sinagra
+
+Deck Name: Allies Parties
+
+Description: A fast Tzimisce allies deck.
+
+Crypt (12 cards, min=8, max=20, avg=3.58)
+-----------------------------------------
+2x Ana Rita Montaña 5	VIC aus dom obf	 Tzimisce:3
+2x Rose, The	    5	PRE VIC aus	 Tzimisce:3
+2x Lolita Houston   4	VIC aus		 Tzimisce:2
+2x Horatio	    2	vic		 Tzimisce:2
+2x Piotr Andreikov  2	aus		 Tzimisce:3
+1x Terrence	    4	ani aus vic	 Tzimisce:2
+1x Wendy Wade	    3	ani aus		 Tzimisce:2
+
+Library (60 cards)
+Master (11; 2 trifle)
+1x Archon Investigation
+4x Blood Doll
+2x Charisma
+2x Jake Washington
+2x Life in the City
+
+Ally (21)
+7x Asanbonsam Ghoul
+1x Carlton Van Wyk
+1x Gregory Winter
+4x Procurer
+2x Vagabond Mystic
+6x War Ghoul
+
+Equipment (10)
+3x Hawg
+2x IR Goggles
+3x Living Manse
+2x Phased Motion Detector
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (4)
+4x Changeling
+
+Reaction (6)
+4x Delaying Tactics
+2x Poison Pill
+
+Event (4)
+1x FBI Special Affairs Division
+1x NRA PAC
+2x Unmasking, The

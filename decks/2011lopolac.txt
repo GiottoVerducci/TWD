@@ -1,0 +1,66 @@
+Legacy of Pander
+OrcCon, Los Angeles, California
+February 19th 2011
+12 players
+Cameron Goudie
+
+Night Moves/Auspex deck
+Comments: Based on Robert Goudie's Weenie/Auspex TWD. Cameron
+removed most crypt dupes and put Camera Phone in.
+
+Crypt (12 cards, min=8, max=13, avg=2.75)
+-----------------------------------------
+2x Dollface			    3	aus obf		Malkavian:1
+2x Zöe				    3	AUS cel obf	Malkavian:2
+1x Agrippina			    4	OBF pot		Nosferatu:1
+1x Duck				    3	obf pot		Nosferatu:1
+1x Regilio, The Seeker of Akhenaten 3	aus obf		Nosferatu:2
+1x Watenda			    3	obf		Malkavian:2
+1x Yorik			    3	dem obf		Malkavian antitribu:2
+1x Dimple			    2	obf		Nosferatu:1
+1x Normal			    2	obf		Malkavian:1
+1x Basil			    1	obf		Pander:2
+
+Library (87 cards)
+Master (18)
+1x Archon Investigation
+3x Auspex
+1x Direct Intervention
+1x Fear of Mekhet
+1x Haven Uncovered
+1x Life Boon
+1x Major Boon
+2x Malkavian Dementia
+5x Obfuscate
+2x Sudden Reversal
+
+Action (15)
+1x Arson
+14x Night Moves
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (4)
+2x Camera Phone
+1x Ivory Bow
+1x Sport Bike
+
+Action Modifier (20)
+4x Cloak the Gathering
+3x Faceless Night
+4x Lost in Crowds
+9x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (24)
+2x Delaying Tactics
+4x Enhanced Senses
+4x Telepathic Counter
+5x Telepathic Misdirection
+9x Wake with Evening's Freshness
+
+Combat (2)
+2x Aura Reading

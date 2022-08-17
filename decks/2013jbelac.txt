@@ -1,0 +1,64 @@
+Jann Berger's "E" is for Earthshock
+Los Angeles, California
+May 25th 2013
+2R+F
+13 players
+Brandon Haas
+
+-- 5VP in final
+
+Deck Name: Budget Stanislava
+
+Inspired by old school Gangrel bleed decks, tailored for the
+LA environment. Great way to bleed for 8 on a budget. 5VP in
+the final, including two I got in one turn.
+
+Crypt (12 cards, min=14, max=28, avg=5.33)
+------------------------------------------
+4x Iliana			7   DOM FOR PRO tha		Gangrel:2
+2x Caitlin			6   ANI PRO aus dom	bishop	Gangrel antitribu:2
+2x Daliyah			4   PRO obf			Nosferatu:2
+2x Chandler Hungerford		3   PRO				Gangrel:2
+1x Camille Devereux, The Raven	5   FOR PRO ani			Gangrel:1
+1x Mirembe Kabbada		5   PRO SER ani			Gangrel:2
+
+Library (90 cards)
+Master (16; 2 trifle)
+1x Barrens, The
+2x Coven, The
+1x Direct Intervention
+5x Dominate
+1x Dreams of the Sphinx
+1x Information Highway
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Storage Annex
+2x Sudden Reversal
+
+Action (21)
+12x Computer Hacking
+1x Far Mastery
+8x Govern the Unaligned
+
+Equipment (1)
+1x Gran Madre di Dio, Italy
+
+Action Modifier (17)
+2x Change of Target
+2x Command of the Beast
+4x Conditioning
+3x Foreshadowing Destruction
+2x Leverage
+4x Mouthpiece
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Reaction (17)
+8x Deflection
+2x Delaying Tactics
+4x On the Qui Vive
+3x Wake with Evening's Freshness
+
+Combat (15)
+15x Form of Mist

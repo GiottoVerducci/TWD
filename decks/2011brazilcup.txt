@@ -1,0 +1,63 @@
+Brazilian Cup
+Rio de Janeiro, Brazil
+June 24th 2011
+13 players
+Thiago Campos
+https://www.vekn.net/index.php/forum/9-event-reports-and-twd/5846
+
+-- 3VP in final
+
+Deck Name: The Eye on the Sword
+
+Description: Based on the 'I am I' deck.
+
+Crypt (12 cards, min=13, max=31, avg=5.5)
+-----------------------------------------
+3x Dela Eden			   8   AUS FOR VAL cel dom  Salubri antitribu:3
+3x Adonai			   7   AUS VAL for	    Salubri antitribu:2
+1x Remilliard, Devout Crusader	   4   AUS pre		    Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha		    Tremere antitribu:2
+1x Thomas Steed, The Angry	   4   ani aus val	    Salubri antitribu:2
+1x Isabel de Leon		   3   AUS		    Toreador:2
+1x Kervos, The Lieutenant	   3   aus val		    Salubri antitribu:2
+1x Zöe				   3   AUS cel obf	    Malkavian:2
+
+Library (90 cards)
+Master (17; 4 trifle)
+1x Dark Influences
+1x Fame
+1x Giant's Blood
+1x KRCG News Radio
+2x Path of Retribution, The
+2x Rack, The
+3x Rötschreck
+2x Smiling Jack, The Anarch
+4x Vessel
+
+Action (6)
+1x Abbot
+2x Anima Gathering
+3x Sense Death
+
+Equipment (1)
+1x Bowl of Convergence
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (40)
+4x Eagle's Sight
+3x Enhanced Senses
+6x Eyes of Argus
+5x Forced Awakening
+2x My Enemy's Enemy
+6x On the Qui Vive
+3x Precognition
+3x Spirit's Touch
+8x Telepathic Misdirection
+
+Combat (25)
+4x Armor of Caine's Fury
+8x Blissful Agony
+8x Eye of Unforgiving Heaven
+5x Soak

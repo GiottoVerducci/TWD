@@ -1,0 +1,69 @@
+Artistically Inept
+Washington, D.C.
+December 7th 2002
+13 players
+Trey Morita
+
+Deck Name: Nikolas's Crew
+
+Description: Get Nikolaus. Use his special plus 4th
+Tradition to bring out more Nossies. Most people won't
+bother blocking a few bleeds for 1 per turn, and
+combine that with a KRC or Parity Shift every turn or
+so for ousting power. Decent combat, but no grapples.
+
+Crypt (13 cards, min=21, max=31, avg=6.69)
+------------------------------------------
+6x Nikolaus Vermeulen	7   POT ani for obf	 prince	   Nosferatu:2
+1x Cock Robin		10  ANI OBF POT aus for	 justicar  Nosferatu:3
+1x Amelia		7   CEL POT PRE		 bishop	   Brujah antitribu:2
+1x Murat		7   OBF POT ser		 prince	   Nosferatu:2
+1x Alonzo Guillen	6   OBF ani for pot	 	   Nosferatu:3
+1x Gerard Rafin		6   OBF POT ani for	 	   Nosferatu:3
+1x Calebros, The Martyr	5   ANI obf pot		 prince	   Nosferatu:2
+1x Wolfgang		4   for obf pot		 	   Nosferatu:3
+
+Library (90 cards)
+Master (14)
+4x Blood Doll
+1x Fortitude
+1x Giant's Blood
+2x Guardian Angel
+2x Labyrinth, The
+2x Rack, The
+2x Slum Hunting Ground
+
+Action (9)
+7x Fourth Tradition: The Accounting
+2x Kindred Intelligence
+
+Political Action (12)
+1x Kindred Restructure
+6x Kine Resources Contested
+2x Nosferatu Justicar
+3x Parity Shift
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (14)
+3x Cloak the Gathering
+2x Forgotten Labyrinth
+7x Freak Drive
+2x Lost in Crowds
+
+Reaction (12)
+2x Cats' Guidance
+1x Delaying Tactics
+7x Second Tradition: Domain
+2x Wake with Evening's Freshness
+
+Combat (27)
+1x Canine Horde
+4x Carrion Crows
+4x Increased Strength
+3x Skin of Steel
+3x Superior Mettle
+6x Thrown Gate
+6x Undead Strength

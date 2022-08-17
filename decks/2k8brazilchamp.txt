@@ -1,0 +1,67 @@
+Brazilian NC 2008
+Cataguases, Brazil
+April 20th 2008
+3R+F
+20 players
+Cirleno Nicácio
+
+Deck Name: Deck do Cirleno
+
+Crypt (13 cards, min=8, max=24, avg=4)
+--------------------------------------
+2x Carlotta Giovanni		   7   NEC POT dom obf	Giovanni:2
+2x Isabel Giovanni		   5   DOM NEC pot	Giovanni:2
+2x Francesca Giovanni		   4   dom nec pot	Giovanni:2
+2x Gloria Giovanni		   4   DOM nec		Giovanni:2
+2x Marciana Giovanni, Investigator 2   dom		Giovanni:2
+2x Paul DiCarlo, The Alpha	   2   pot		Giovanni:2
+1x Ingrid Russo			   4   DOM for		Ventrue antitribu:2
+
+Library (90 cards)
+Master (23; 1 trifle)
+1x Archon Investigation
+4x Blood Doll
+1x Dominate
+2x Fortitude
+1x Information Highway
+1x KRCG News Radio
+1x Morgue Hunting Ground
+1x Parthenon, The
+1x Potence
+7x Proxy Kissed
+1x Rack, The
+1x Vessel
+1x Yawp Court
+
+Equipment (5)
+1x Camera Phone
+2x Leather Jacket
+1x Palatial Estate
+1x Sengir Dagger
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (13)
+6x Bonding
+3x Freak Drive
+4x Threats
+
+Reaction (11)
+5x Deflection
+1x Forced Awakening
+5x Wake with Evening's Freshness
+
+Combat (35)
+1x Armor of Vitality
+3x Disarm
+2x Earthshock
+3x Hidden Strength
+5x Immortal Grapple
+4x Indomitability
+5x Pushing the Limit
+3x Skin of Steel
+3x Taste of Vitae
+6x Torn Signpost

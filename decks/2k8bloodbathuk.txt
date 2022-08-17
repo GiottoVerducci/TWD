@@ -1,0 +1,54 @@
+BloodBATH 2008: Sixth Tradition
+Bath, England
+August 9th 2008
+3R+F
+16 players
+Andy Bennett
+
+Crypt (12 cards, min=13, max=16, avg=3.75)
+------------------------------------------
+4x Lorrie Dunsirn	4   POT for nec	 Abomination:4
+1x Aaron Bathurst	4   for obf pot	 Nosferatu antitribu:4
+1x Ismitta		4   aus cel pot	 Osebo:4
+1x Mariano Pomposo	4   aus cel pot	 Brujah antitribu:3
+1x Patrick		4   POT pre	 Brujah antitribu:4
+1x Sir Henry Johnson	4   aus pot pre	 Toreador:3
+1x Blister		3   obf pot	 Nosferatu antitribu:4
+1x Caroline Bishops	3   cel for pot	 Pander:4
+1x Kamaria		3   aus pot	 Osebo:4
+
+Library (90 cards)
+Master (19)
+3x Blood Doll
+1x Club Zombie
+1x Depravity
+2x Fame
+1x Guardian Angel
+1x Haven Uncovered
+1x Perfectionist
+1x Rumor Mill, Tabloid Newspaper, The
+1x Slave Auction
+6x Special Report
+1x Tension in the Ranks
+
+Action (16)
+6x Ambush
+6x Bum's Rush
+4x Harass
+
+Action Modifier (8)
+8x Freak Drive
+
+Reaction (2)
+1x Delaying Tactics
+1x Poison Pill
+
+Combat (44)
+12x Immortal Grapple
+3x Skin of Steel
+10x Slam
+9x Superior Mettle
+10x Taste of Vitae
+
+Event (1)
+1x Dragonbound

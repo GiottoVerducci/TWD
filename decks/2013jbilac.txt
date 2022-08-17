@@ -1,0 +1,68 @@
+Jann Berger's "I" is for Indomitability
+Los Angeles, California
+August 31st 2013
+2R+F
+12 players
+Aaron Clark
+
+-- 2.5VP in final
+
+Deck Name: Basilia Gives Aids
+
+Description: Get out big vampires with ANI/FOR. Minion Tap 'em,
+refill 'em a bit. Do stuff, block stuff, fight stuff. Watch out
+for Basilia - she's got agg hands!
+
+Crypt (12 cards, min=14, max=39, avg=7.33)
+------------------------------------------
+3x Basilia			  10  ANI FOR PRO obf pot  primogen	Gangrel:1
+2x Ingrid Rossler		  9   ANI FOR PRO dom	   prince	Gangrel:2
+1x Katarina			  9   ANI FOR pot pro	   prince	Gangrel:2
+1x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom  		Ravnos:2
+1x Haakon Mortensen		  8   ANI FOR PRO	   		Gangrel antitribu:2
+1x Bear Paw			  5   ANI for pre pro	   		Gangrel:1
+1x Roman Alexander		  4   ani for pro	   		Gangrel:1
+1x Leon				  3   ani for		   		Gangrel antitribu:2
+1x Vliam Andor			  2   ani		   		Gangrel:1
+
+Library (88 cards)
+Master (10)
+1x Giant's Blood
+1x Information Highway
+8x Minion Tap
+
+Action (14)
+2x Army of Rats
+5x Bum's Rush
+2x Force of Will
+1x Rapid Healing
+4x Restoration
+
+Political Action (3)
+1x Gangrel Justicar
+1x Honor the Elders
+1x Political Stranglehold
+
+Retainer (4)
+1x Dog Pack
+3x Raven Spy
+
+Action Modifier (6)
+6x Freak Drive
+
+Reaction (14)
+4x Cats' Guidance
+1x Guard Dogs
+2x Instinctive Reaction
+7x Wake with Evening's Freshness
+
+Combat (37)
+12x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+1x Earth Meld
+1x Immortal Grapple
+3x Resilience
+1x Superior Mettle
+6x Taste of Vitae
+3x Unflinching Persistence

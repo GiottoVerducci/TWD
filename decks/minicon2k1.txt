@@ -1,0 +1,76 @@
+Minicon
+London, England
+September 1st 2001
+Matt Green
+
+Deck: Rough Night at the Palla Grande
+
+Playing the deck: Never discard any of the 12 kill cards. Counter
+Blood gain with the Suddens. Use Revelations to remove Deflections or
+blood gain from your prey's hand as the first action per turn if
+possible. Depending on the deck use a Revelations about 1 in 3 turns.
+Get someone with superior obfuscate quite quickly to cloak actions.
+Remember that, largely, you suck at combat. Kill Mr. Winthrop or
+spys/revanents at range if possible.
+
+Could probably do with a Bomb instead of a Patronage, if I was to play
+it again.
+
+cheers
+mattgreen.
+
+Crypt (12 cards, min=16, max=31, avg=5.92)
+------------------------------------------
+3x Jost Werner			6   AUS PRE ani			    Toreador antitribu:2
+2x Greta Kircher		7   AUS CEL PRE obf		    Toreador antitribu:2
+2x Sheila Mezarin		6   AUS PRE cel for		    Toreador antitribu:2
+1x Donatien			9   AUS PRE cel pot	cardinal    Toreador antitribu:2
+1x Lachlan, Noddist		8   AUS CEL PRE dom	archbishop  Toreador antitribu:2
+1x Remilliard, Devout Crusader	4   AUS pre			    Toreador antitribu:2
+1x Dan Murdock			3   aus obf			    Caitiff:1
+1x Lena Rowe			3   aus obf pre			    Pander:2
+
+Library (80 cards)
+Master (16)
+3x Blood Doll
+1x Elder Library
+1x Fetish Club Hunting Ground
+1x Giant's Blood -- yes i did search for it
+1x Minion Tap
+3x Obfuscate
+1x Powerbase: Madrid
+3x Sudden Reversal
+1x Unnatural Disaster
+1x Vast Wealth
+
+Action (20)
+8x Legal Manipulations
+5x Patronage
+7x Revelations
+
+Equipment (3)
+1x Changeling Skin Mask
+2x Deer Rifle
+
+Political Action (8)
+2x Ancilla Empowerment
+1x Cardinal Benediction
+1x Crusade: Chicago
+1x Crusade: Miami
+1x Dramatic Upheaval
+2x Kine Resources Contested
+
+Action Modifier (14)
+2x Bewitching Oration
+10x Cloak the Gathering
+2x Lost in Crowds
+
+Reaction (14)
+2x Enhanced Senses
+4x Forced Awakening
+6x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (5)
+2x Fake Out
+3x Majesty

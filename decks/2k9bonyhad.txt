@@ -1,0 +1,76 @@
+Hungarian NB
+Bonyhád, Hungary
+August 15th 2009
+3R+F
+16 players
+Rudolf Edlmayer
+
+-- 3VP in final
+
+Deck Name: Bunyós Pityu, Lidi néni és a Tikok !
+Created by: Rudi von Dudi
+
+Description: blokk your prey, bleed out, and stay ingame
+until face2face, Vasiliy the best in face2face!
+
+Crypt (12 cards, min=14, max=32, avg=6.17)
+------------------------------------------
+4x Vasiliy Vasilevich	8   ANI CHI for pro		 Ravnos:5
+2x Chavi Oraczko	7   ANI CHI FOR nec		 Ravnos:5
+2x Anjalika Underwood	5   ANI aus chi for		 Ravnos:5
+1x Greensleeves		7   ANI OBF for pot	priscus	 Nosferatu antitribu:4
+1x Uchenna		7   ABO ANI FOR		magaji	 Akunanse:4
+1x Stick		3   ANI				 Nosferatu antitribu:4
+1x Walker Grimes	1   ani				 Caitiff:5
+
+Library (90 cards)
+Master (18; 5 trifle)
+1x Blood Doll
+1x Direct Intervention
+1x Guardian Angel
+1x Kumpania
+1x Park Hunting Ground
+1x Pentex(TM) Subversion
+1x Rack, The
+2x Smiling Jack, The Anarch
+4x Sudden Reversal
+1x Two Wrongs
+3x Vessel
+1x Wash
+
+Action (4)
+1x Aranthebes, The Immortal
+2x Army of Rats
+1x Deep Song
+
+Action/Reaction (6)
+6x Draba
+
+Equipment (3)
+1x Kevlar Vest
+2x Treasured Samadji
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier (7)
+3x Change of Target
+1x Daring the Dawn
+3x False Resonance
+
+Action Modifier/Combat (2)
+2x Occlusion
+
+Reaction (18)
+6x Cats' Guidance
+2x Delaying Tactics
+3x On the Qui Vive
+7x Sense the Savage Way
+
+Combat (30)
+9x Aid from Bats
+2x Canine Horde
+9x Carrion Crows
+1x Flesh Bond
+4x Skin of Steel
+5x Taste of Vitae

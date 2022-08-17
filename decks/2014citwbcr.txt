@@ -1,0 +1,59 @@
+Council in the Woods
+Bystřička, Czech Republic
+November 2nd 2014
+2R+F
+15 players
+Tomáš Kempný
+https://www.vekn.net/event-calendar/event/7854
+
+-- 5VP in final
+
+Deck Name: Malkavian DEM-OBF-AUS
+
+Crypt (12 cards, min=11, max=28, avg=5.17)
+------------------------------------------
+3x Morel			6   AUS DEM OBF		 	   Malkavian:4
+2x Gem Ghastly			6   DEM OBF aus		 primogen  Malkavian:5
+2x Jackie			3   DEM			 	   Malkavian antitribu:4
+1x Bloody Mary			8   AUS DEM OBF pre	 primogen  Malkavian:5
+1x Persephone Tar-Anis		8   AUS DEM OBF cel pot	 	   Malkavian antitribu:4
+1x Arthur Denholm		5   AUS DEM obf		 	   Malkavian:5
+1x Marta			3   aus dem		 	   Malkavian antitribu:4
+1x Cassandra Langely, The Waif	2   dem			 	   Malkavian:4
+
+Library (90 cards)
+Master (16)
+4x Blood Doll
+2x Dementation
+2x Dreams of the Sphinx
+2x Effective Management
+1x Elder Library
+2x Information Highway
+2x Obfuscate
+1x Sudden Reversal
+
+Action (24)
+24x Kindred Spirits
+
+Action Modifier (35)
+2x Change of Target
+3x Cloak the Gathering
+10x Confusion
+2x Elder Impersonation
+6x Eyes of Chaos
+3x Faceless Night
+2x Into Thin Air
+3x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (7)
+4x Deny
+3x Swallowed by the Night
+
+Reaction (7)
+1x My Enemy's Enemy
+3x On the Qui Vive
+3x Telepathic Misdirection
+
+Combat (1)
+1x Coma

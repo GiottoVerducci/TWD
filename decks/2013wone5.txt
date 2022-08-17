@@ -1,0 +1,67 @@
+Week of Nightmares Event 5
+Columbus, Ohio
+June 12th 2013
+2R+F
+17 players
+David Litwin
+
+-- 4VP in final
+
+Deck Name: Armin Still Hammering
+
+Crypt (12 cards, min=36, max=40, avg=9.33)
+------------------------------------------
+4x Armin Brenner   10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+3x Hektor	   9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
+3x Undele	   9   CEL FOR obf pre ser	magaji	    Ishtarri:5
+2x Dmitra Ilyanova 9   CEL FOR POT PRE obf	justicar    Brujah:5
+
+Library (90 cards)
+Master (17; 6 trifle)
+1x Black Forest Base
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion
+3x Sudden Reversal
+5x Villein
+1x Wider View
+
+Action (7)
+6x Enchant Kindred
+1x Entrancement
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Political Action (21)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+3x Honor the Elders
+1x Jericho Founding
+10x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (31)
+2x Approximation of Loyalty
+7x Forced March
+3x Forgotten Labyrinth
+4x Freak Drive
+4x Iron Glare
+5x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Combat (5)
+5x Resist Earth's Grasp
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Combat (4)
+4x Majesty

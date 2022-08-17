@@ -1,0 +1,82 @@
+Fee Stake: Tilburg
+Tilburg, Netherlands
+August 24th 2008
+3R+F
+18 players
+Izaak Havelaar
+
+-- 3VP in final
+
+Deck Name: The wall that is not really a wall
+
+This deck originally started as mono Auspex deck with guns and Black
+Hand-tech for bloating purposes, but evolved into something that can
+actually oust players as well. The gameplan is to feign being a bleed
+deck that's not drawing into its payload while bloating enough to bring
+out a few minions and equip one or two Magnums. Once you feel you're
+pretty safe from your predator, start actively blocking your prey's
+minions with Eagle's Sight and bleed hard into him. Once you have
+secured a VP just bloat and block some more and be the last man
+standing for the 3VP game win.
+
+Taste of Vitae is vital to keep your bloat going and the Target Vitals
+act a nasty surprise that deters combat decks from picking a fight with
+you. It can also be used to knock out a weakened minion or put a rather
+painful dent into a War Ghoul or some other ally. Other than that it's
+really just a wall with a healthy amount of stealth bleed to go with it.
+
+Crypt (12 cards, min=18, max=29, avg=6)
+---------------------------------------
+2x Kite				  7   AUS DEM obf pre	bishop	 Malkavian antitribu:2
+2x Dolphin Black		  6   AUS DEM OBF		 Malkavian antitribu:2
+2x General Perfidio Díos	  5   AUS dem obf	bishop	 Malkavian antitribu:3
+2x Idalia, Prophet of Guadalajara 4   AUS dem			 Malkavian antitribu:2
+1x Rodolfo			  8   AUS DEM OBF pro	bishop	 Malkavian antitribu:3
+1x Korah			  7   AUS DEM OBF ani	priscus	 Malkavian antitribu:2
+1x Quentin King III		  7   AUS DEM obf pre	prince	 Malkavian:3
+1x Tony				  6   AUS DEM dom obf		 Malkavian:3
+
+Library (90 cards)
+Master (12)
+5x Blood Doll
+1x Channel 10
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Perfectionist
+1x Smiling Jack, The Anarch
+
+Action (10)
+1x Abbot
+9x Kindred Spirits
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (6)
+5x .44 Magnum
+1x Bowl of Convergence
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (15)
+6x Confusion
+5x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+5x Random Patterns
+
+Reaction (27)
+5x Eagle's Sight
+5x Forced Awakening
+3x Melange
+7x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (9)
+4x Target Vitals
+5x Taste of Vitae

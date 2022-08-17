@@ -1,0 +1,50 @@
+Fee Stake: Barakaldo
+Bilbao, Spain
+December 19th 2009
+3R+F
+12 players
+Iñaki Jimenez
+
+Crypt (12 cards, min=11, max=32, avg=5.75)
+------------------------------------------
+5x Anson	   8   CEL PRE aus dom	prince	  Toreador:1
+1x Tatiana Romanov 7   AUS cel pre	prince	  Toreador:1
+1x Victoria Ash	   6   PRE aus cel dom	primogen  Toreador:2
+1x Ramiel DuPre	   5   PRE aus cel dom		  Toreador:1
+1x Mariana Gilbert 4   PRE cel			  Toreador:1
+1x Isabel de Leon  3   AUS			  Toreador:2
+1x Delilah Easton  2   pre			  Toreador:1
+1x Dieter Kleist   2   aus			  Toreador:1
+
+Library (65 cards)
+Master (21)
+2x Dreams of the Sphinx
+5x Grooming the Protégé
+1x Jake Washington
+1x Minion Tap
+1x Pentex(TM) Subversion
+3x Protected Resources
+1x Temptation of Greater Power
+7x Toreador Grand Ball
+
+Action (1)
+1x Charming Lobby
+
+Political Action (29)
+4x Conservative Agitation
+2x Domain Challenge
+10x Kine Resources Contested
+2x Neonate Breach
+6x Parity Shift
+1x Praxis Seizure: Monaco
+1x Praxis Seizure: Paris
+3x Toreador Justicar
+
+Action Modifier (13)
+2x Approximation of Loyalty
+2x Awe
+4x Bewitching Oration
+5x Voter Captivation
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,55 @@
+Two Wrongs
+Ostrava, Czech Republic
+August 4th 2012
+3R+F
+10 players
+Lukas Simicek
+
+Deck Name: The Black Descent
+
+Some bleeding, some grooming, some beating.
+
+Crypt (12 cards, min=21, max=30, avg=6.42)
+------------------------------------------
+2x Conrad Adoula	 8   DOM OBT POT ani cel  	  Lasombra:4
+2x Lord Vauxhall	 7   DOM OBT POT THA	  	  Lasombra:4
+1x Henri Lavenant	 7   DOM OBT pot qui	  	  Lasombra:3
+1x Tobias Smith		 7   DOM OBT PRE pot	  	  Lasombra:3
+1x Onaedo		 6   DOM OBT aus pot	  	  Lasombra:4
+1x Otieno		 6   OBT POT ani dom	  	  Lasombra:4
+1x Virginie, Prodigy	 6   DOM POT obt	  bishop  Lasombra:4
+1x Andrew Emory		 5   OBT aus dom pot	  bishop  Lasombra:4
+1x Banjoko		 5   DOM obt pot	  	  Lasombra:3
+1x Ermenegildo, The Rake 5   DOM OBT pot	  	  Lasombra:4
+
+Library (90 cards)
+Master (15; 4 trifle)
+1x Direct Intervention
+1x Elysian Fields
+4x Grooming the Protégé
+3x Haven Uncovered
+1x Political Hunting Ground
+1x Sudden Reversal
+4x Vessel
+
+Action (18)
+3x Black Metamorphosis
+3x Descent into Darkness
+12x Govern the Unaligned
+
+Action Modifier (12)
+3x Bonding
+3x Conditioning
+3x Shadow Play
+3x Shroud of Night
+
+Reaction (12)
+5x On the Qui Vive
+7x Redirection
+
+Combat (33)
+8x Shadow Step
+6x Taste of Vitae
+3x Thoughts Betrayed
+6x Thrown Gate
+10x Thrown Sewer Lid

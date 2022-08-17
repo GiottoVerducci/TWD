@@ -1,0 +1,57 @@
+Unleash Hell's Fury
+Paris, France
+March 14th 2010
+3R+F
+23 players
+Tim Daudé
+http://www.veknfrance.com/forum/viewtopic.php?t=15869&start=34
+
+Deck Name: Deck Kiasyd
+
+4th before the final, 5VP in final
+
+"Always use Govern superior when able."
+
+Crypt (12 cards, min=18, max=30, avg=6.17)
+------------------------------------------
+2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+2x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+2x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+2x Quincy, The Trapper	   4   dom myt obt	    		Kiasyd:3
+
+Library (73 cards)
+Master (12; 2 trifle)
+1x Coven, The
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+2x Pentex(TM) Subversion
+2x Perfectionist
+1x Wash
+
+Action (20)
+14x Govern the Unaligned
+3x Gremlins
+3x Song of Pan
+
+Action Modifier (23)
+6x Conditioning
+2x Foreshadowing Destruction
+3x Seduction
+4x Shadow Play
+2x Shroud of Absence
+6x Stone Travel
+
+Action Modifier/Combat (6)
+6x Fae Contortion
+
+Action Modifier/Reaction (6)
+4x Aura Absorption
+2x Murmur of the False Will
+
+Reaction (6)
+4x Deflection
+2x On the Qui Vive

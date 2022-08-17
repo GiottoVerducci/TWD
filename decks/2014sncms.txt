@@ -1,0 +1,69 @@
+Spanish NC 2014
+Madrid, Spain
+June 22nd 2014
+3R+F
+40 players
+Jorge Delgado
+https://www.vekn.net/event-calendar/event/7611
+
+-- 3VP in final
+
+Deck Name: Girls will find Immortal Grapple
+
+Crypt (12 cards, min=27, max=42, avg=8.58)
+------------------------------------------
+4x Nana Buruku		8   ANI POT PRE				  Guruhi:4
+3x Enkidu, The Noah	11  ANI CEL OBF POT PRO for		  Gangrel antitribu:4
+2x Nangila Were		9   ANI POT PRE obf ser			  Guruhi:4
+1x Black Annis		9   OBF POT ani pro			  Nosferatu antitribu:4
+1x Gustaphe Brunnelle	8   ANI DOM POT obf		primogen  Nosferatu:4
+1x Andre LeRoux		3   aus					  Toreador:5
+
+Library (76 cards)
+Master (30; 7 trifle)
+1x Archon Investigation
+9x Ashur Tablets
+1x Carver's Meat Packing and Storage
+1x Channel 10
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Guardian Angel
+1x Information Highway
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Luanda
+1x Powerbase: Montreal
+1x Sudden Reversal
+1x Tension in the Ranks
+6x Villein
+1x Wider View
+
+Action (1)
+1x Well-Marked
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier/Combat (1)
+1x Shadow Boxing
+
+Reaction (5)
+1x Cats' Guidance
+2x On the Qui Vive
+2x Sense the Savage Way
+
+Combat (35)
+1x Burning Wrath
+6x Carrion Crows
+3x Drawing Out the Beast
+1x Glancing Blow
+8x Immortal Grapple
+1x Orgy of Blood
+2x Slam
+6x Taste of Vitae
+7x Torn Signpost
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dragonbound

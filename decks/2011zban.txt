@@ -1,0 +1,110 @@
+Zoning Board
+Arnhem, Netherlands
+March 26th 2011
+3R+F
+18 players
+Izaak Havelaar
+
+Deck Name: Pancake Mix
+
+Description: Ever since cards like Reunion Kamut and Art of Memory
+were printed, I have been wanting to build a deck with all these
+Black Hand toys. I recently traded for enough Seraph's Seconds to
+build a competitive Black Hand deck and try and get the most out
+of them. I experimented with !Tremere and Lasombra for a bit at
+first, before ending up with Assamites. Of course it should have
+been obvious all along Assamites are the best pick for such a deck,
+since they are the only clan that has two Seraphs in the same
+grouping and get five different Black Hand crypt cards in that
+same grouping.
+
+This deck is a bloat/multiact deck at its core and, but with so
+many actions a turn, it allows you keep pressure on your prey while
+still bloating enough to survive even the most aggressive bleed
+predators. It's especially important to build up a solid ready
+region with at least a Seraph with a Tattoo Signal plus two other
+vampires before you start throwing multiple Losses a turn at your
+prey. Once the Watchtower comes into play even the most dedicated
+wall decks will have trouble blocking every critical action and
+you can oust everyone at your leisure.
+
+It seems master-heavy at first, but with 6 trifles and four copies
+of Information Highway it works out just fine. There should probably
+go an Archon Investigation in there instead of one of the Info Highways
+or maybe the Yoruba Shrine. The three Ashur Tablets are kinda critical
+as well, because in every game I played with this deck, I ran out of
+cards in the endgame. If one gets cancelled it's not a big deal, because
+you can just retrieve it with the Sargon Fragment.
+
+Fourth Cycle is in there to make sure the Watchtower's upkeep stays
+at one pool per turn when other people play Unmasking or Anthelios.
+As a bonus it also gets rid of them. In the end I never needed it,
+but I still think it's a good idea.
+
+This section is perfect. I always had a Loss when I needed one and
+in every game I played so far I have managed to bring out 4 or 5 different
+minions. Reunion Kamut is really good, especially since it works on older
+vampires as well.
+
+It's mostly there so I can retrieve a cancelled Ashur Tablet, but
+it's also quite handy to recycle a Loss or a Haqim's Law. I should
+probably add a single copy of Trochomancy to the deck to mess with
+Ashur/Liquidation based decks.
+
+Art of Memory is amazing. I used them to recycle an Elder Impersonation
+to oust a particularly troublesome Henry Taylor twister deck, I used them
+to recycle Haqim's Laws to stay alive against a !Ventrue bleeder without
+a predator and I used them to get lot of mileage out of a single copy of
+Loss. On top of it, you get to flush an unwanted card (say, extra
+Information Highways or Gehenna Events) out of your hand. If I were
+to play it again, I'd swap a Seraph's Second for a fifth Art of Memory.
+
+Crypt (12 cards, min=26, max=36, avg=7.83)
+------------------------------------------
+4x Izhim abd Azrael		9   CEL OBF QUI THA pot	 Assamite:5
+3x Djuhah, The Bronze Bow	7   OBF QUI aus cel pre	 Assamite:5
+2x Nizzam al-Latif		9   ANI CEL OBF QUI dem	 Assamite:5
+2x Reza Fatir, The Dark Angel	6   CEL QUI obf pro	 Assamite:4
+1x Joe "Boot" Hill		7   CEL QUI for obf	 Assamite:4
+
+Library (78 cards)
+Master (21; 6 trifle)
+3x Ashur Tablets
+3x Dreams of the Sphinx
+1x Giant's Blood
+4x Information Highway
+1x Pentex(TM) Subversion
+5x Villein
+2x Watchtower: The Wolves Feed
+1x Wider View
+1x Yoruba Shrine
+
+Action (28)
+4x Haqim's Law: Leadership
+2x Khabar: Glory
+9x Loss
+9x Reunion Kamut
+4x Tattoo Signal
+
+Equipment (1)
+1x Sargon Fragment, The
+
+Action Modifier (20)
+4x Art of Memory, The
+2x Deed the Heart's Desire
+2x Elder Impersonation
+3x Faceless Night
+3x Lost in Crowds
+6x Seraph's Second
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Blood Awakening
+
+Event (4)
+1x Blood Trade
+1x Break the Code
+1x Fourth Cycle, The
+1x Thirst

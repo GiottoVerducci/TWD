@@ -1,0 +1,63 @@
+ACC 2011
+Quezon City, Philippines
+October 9th 2011
+3R+F
+25 players
+Stephen Sing
+
+-- 3GW11 + 3VP in final
+
+Deck Name: The Howling
+
+Crypt (12 cards, min=10, max=32, avg=5.58)
+------------------------------------------
+4x Howler	    8	ANI PRE SPI obf		Ahrimane:2
+2x Siamese, The	    7	PRE SPI ani pro		Ahrimane:2
+2x Tupdog	    1	POT VIS			Gargoyle:3
+1x Cynthia Ingold   6	SPI ani for pre		Ahrimane:2
+1x Nettie Hale	    5	ani cel pre pro spi	Ahrimane:2
+1x Bobby Lemon	    4	ANI pro			Gangrel:3
+1x Juanita Santiago 4	ani pre spi		Ahrimane:2
+
+Library (90 cards)
+Master (17; 3 trifle)
+1x Animalism
+9x Ashur Tablets
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Guardian Angel
+1x Wash
+2x Wider View
+
+Action (22)
+8x Deep Song
+4x Engling Fury
+1x Entrancement
+5x Legal Manipulations
+2x Muricia's Call
+1x Public Trust
+1x Vulture's Buffet
+
+Retainer (3)
+1x Murder of Crows
+2x Raven Spy
+
+Action Modifier (9)
+2x Aire of Elation
+1x Mole's Tunneling
+6x Squirrel Balance
+
+Action Modifier/Combat (6)
+6x Swiftness of the Stag
+
+Reaction (9)
+1x Ears of the Hare
+8x Speak with Spirits
+
+Combat (24)
+9x Aid from Bats
+6x Carrion Crows
+3x Leapfrog
+3x Majesty
+1x Song in the Dark
+2x Terror Frenzy

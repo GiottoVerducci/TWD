@@ -1,0 +1,73 @@
+V Campeonato Capixaba de VTES
+Vitória, Brazil
+March 29th 2008
+3R+F
+10 players
+Felipe Fiuza
+
+Deck Name: Hordes of the Underdark*
+
+Description: Bring the hordes into play and bleed your prey. Look at
+her hand from time to time... The deck name is a reference to D&D and
+also a tribute to Gary Gygax.
+
+The equipment and retainer were the two useless cards
+from the deck. I'll replace them with two more Target Vitals
+next time...
+
+Crypt (12 cards, min=13, max=27, avg=4.92)
+------------------------------------------
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Gloria Giovanni	4   DOM nec		Giovanni:2
+2x Rudolfo Giovanni	3   NEC			Giovanni:2
+1x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
+1x Stefano Giovanni	6   DOM nec pot pre	Giovanni:2
+1x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+
+Library (90 cards)
+Master (18; 4 trifle)
+2x Acquired Ventrue Assets
+2x Charisma
+1x Fame
+1x Liquidation
+1x Millicent Smith, Puritan Vampire Hunter
+2x Path of Bone, The
+1x Pentex(TM) Subversion
+3x Perfectionist
+1x Powerbase: Cape Verde
+4x Vessel
+
+Action (12)
+8x Govern the Unaligned
+2x Graverobbing
+2x Sudario Refraction -- They rocks
+
+Ally (18)
+18x Shambling Hordes
+
+Equipment (1)
+1x Unlicensed Taxicab
+
+Retainer (1)
+1x Giuseppe, Gravedigger
+
+Action Modifier (8)
+5x Call of the Hungry Dead
+3x Conditioning
+
+Action Modifier/Reaction (5)
+5x Spectral Divination
+
+Reaction (13)
+4x Deflection
+5x On the Qui Vive
+4x Redirection
+
+Combat (13)
+8x Spiritual Intervention
+5x Target Vitals -- They rocks
+
+Event (1)
+1x Unmasking, The

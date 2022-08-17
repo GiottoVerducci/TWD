@@ -1,0 +1,108 @@
+Rebirth
+Rockville, Maryland
+September 22nd 2012
+3R+F
+22 players
+Matthew Morgan
+
+-- 3GW10 + 1.5VP in final
+
+Deck Name: Torelando
+Created by: Matthew Morgan and Kevin J. Mergen
+
+Description: Won DC qualifier September 22, 2012.
+
+Never saw the Ventrue at all in four rounds but otherwise
+had good crypt draws.
+
+Villein always clumped but otherwise enabled the deck.
+I Pacted Orlando for Presence a couple of times and
+voter capped with him for about 15 once. I wouldn't
+consider it an integral component though.
+
+Could have played a couple Entrancements,
+but they wouldn't have helped.
+
+Anything missing? I don't think so.
+This all worked really well.
+
+Could have had more stealth but I didn't ever face
+heavy intercept as my prey. I had a wall in the
+predator position round 2 and got blocked a bit,
+but I basically just took the table by bleeding
+forward.
+
+Maybe too much. Bloat and payload is what this deck is about.
+
+Torrent was never played. Probably not a good choice
+for this deck as there isn't enough CEL.
+
+Didn't have a lot of use for these. I love Scalpel Tongue
+but didn't need it often. REG is a great card for Toreador,
+but unplayable by Orlando.
+
+Crypt (13 cards, min=21, max=39, avg=7.85)
+------------------------------------------
+5x Orlando Oriundus	9   AUS DOM THA obf	 bishop		Tremere antitribu:4
+1x Rafael de Corazon	11  AUS CEL DOM OBF PRE	 inner circle	Toreador:4
+1x Montecalme		10  AUS CEL DOM PRE obt	 justicar	Toreador:5
+1x Epikasta Rigatos	8   AUS DOM PRE cel	 prince		Toreador:4
+1x Kateline Nadasdy	7   AUS CEL PRE		 		Toreador:4
+1x Mustafa, The Heir	6   FOR PRE cel dom	 prince		Ventrue:4
+1x Vasily		6   CEL aus pre ser	 prince		Toreador:5
+1x Victor Pelletier	5   PRE cel dom for	 		Ventrue:4
+1x Sheva Carr		4   aus cel dom		 		Toreador:5
+
+Library (81 cards)
+Master (20; 9 trifle)
+2x Anarch Troublemaker
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Infernal Pact
+1x Information Highway
+1x Lilith's Blessing
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Sudden Reversal
+7x Villein
+2x Wider View
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+1x Cardinal Benediction
+5x Kine Resources Contested
+1x Neonate Breach
+2x Parity Shift
+1x Praxis Seizure: Monaco
+1x Reins of Power
+
+Action Modifier (14)
+2x Aire of Elation
+2x Conditioning
+1x Forgotten Labyrinth
+2x Perfect Paragon
+2x Veil the Legions
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (13)
+5x Deflection
+2x Eyes of Argus
+2x On the Qui Vive
+1x Second Tradition: Domain
+2x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (7)
+6x Majesty
+1x Torrent

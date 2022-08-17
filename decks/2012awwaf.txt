@@ -1,0 +1,66 @@
+French NCQ Alastor Wild West 2 Angers
+Avrillé, France
+August 4th 2012
+3R+F
+10 players
+Antonio Cobo Cuenca
+
+-- 4VP in final
+
+Deck Name: Extreme Violence
+Created by: Antonio Cobo Cuenca based on Etrius' deck
+
+just a combat deck without Pentex, Villein, Giant's blood, ...
+Important facts about the behaviour of this deck during the tournament:
+* 41 vampires sent to torpor
+* 2 vampires burnt in combat
+* 1 War Ghoul burnt in combat with Theo still ready after the combat
+
+Crypt (12 cards, min=7, max=28, avg=4.5)
+----------------------------------------
+3x Beast, The Leatherface of Detroit	7   OBF POT ani cel	Nosferatu antitribu:2
+3x Theo Bell				7   POT cel dom pre	Brujah:2
+1x Cameron				3   dom pot		Lasombra:2
+1x Marciana Giovanni, Investigator	2   dom			Giovanni:2
+1x Mustafa Rahman			2   dom			Tremere:2
+1x Ohanna				2   dom			Malkavian:2
+1x Samson				2   dom			Ventrue antitribu:2
+1x Royce				1   dom			Pander:2
+
+Library (90 cards)
+Master (13)
+4x Blood Doll
+1x Carver's Meat Packing and Storage
+2x Celerity
+1x Depravity
+2x Fame
+1x Monster
+1x Secure Haven
+1x Tension in the Ranks
+
+Action (3)
+3x Graverobbing
+
+Action Modifier (7)
+2x Cloak the Gathering
+4x Conditioning
+1x Veil the Legions
+
+Reaction (10)
+6x Deflection
+2x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (57)
+3x Blur
+2x Burning Wrath
+3x Decapitate
+5x Disarm
+7x Flash
+2x Glancing Blow
+11x Immortal Grapple
+2x Pushing the Limit
+2x Slam
+6x Taste of Vitae
+4x Thrown Sewer Lid
+10x Torn Signpost

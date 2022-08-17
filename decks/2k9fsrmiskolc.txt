@@ -1,0 +1,71 @@
+Free States Rant
+Miskolc, Hungary
+December 5th 2009
+3R+F
+17 players
+Gergely Bako
+
+Deck Name: Nosferatu voter
+Created by: Gergely Bako
+
+4GW, 12VP
+
+Crypt (12 cards, min=24, max=35, avg=7.33)
+------------------------------------------
+3x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+2x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+1x Chester DuBois		7   ANI POT for obf	 primogen  Nosferatu:1
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Archon Investigation
+1x Blood Doll
+1x Giant's Blood
+1x Labyrinth, The
+1x Papillon
+1x Rack, The
+1x Slum Hunting Ground
+4x Vessel
+1x Wash
+2x Zillah's Valley
+
+Action (6)
+6x Fourth Tradition: The Accounting
+
+Ally (2)
+2x Procurer
+
+Political Action (16)
+3x Consanguineous Boon
+1x Conservative Agitation
+1x Domain Challenge
+11x Kine Resources Contested
+
+Action Modifier (25)
+3x Change of Target
+4x Cloak the Gathering
+2x Domain of Evernight
+3x Faceless Night
+2x Forgotten Labyrinth
+7x Lost in Crowds
+3x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (12)
+2x Armor of Vitality
+5x Gemini's Mirror
+1x No Trace
+1x Skin of Steel
+3x Superior Mettle
+
+Event (1)
+1x Scourge of the Enochians

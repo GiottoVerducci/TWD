@@ -1,0 +1,76 @@
+MAnseRRRROCK
+Tampere, Finland
+February 16th 2008
+22 players
+Tuomas Nyberg
+
+-- 2GW10 + 3VP in final
+
+Deck Name: Dr. Sutphens Dental Care
+
+Description: Straightforward bleed deck with Computer Hackings. If
+blocked, knock their teeth out with potence. Deck contains light
+intercept and bleed bounce, which were both crucial.
+
+Crypt (12 cards, min=7, max=19, avg=3.42)
+-----------------------------------------
+1x Dr. Julius Sutphen	    5	POT dom obt	 bishop	 Lasombra:3
+1x Dr. Julius Sutphen (ADV) 5	POT dom obt	 	 Lasombra:3
+1x Wah Chun-Yuen	    5	POT cel dom pre	 	 Brujah antitribu:3
+1x Earl			    4	dom for pot	 	 Ventrue:3
+1x Francesca Giovanni	    4	dom nec pot	 	 Giovanni:2
+1x Hugo			    4	POT pre vic	 	 Brujah antitribu:2
+1x Jimmy Dunn		    4	CEL POT for	 	 Pander:2
+1x Cameron		    3	dom pot		 	 Lasombra:2
+1x Arnold Simpson	    2	pot		 	 Brujah:3
+1x Mitchell, The Headhunter 2	obt pot		 	 Pander:2
+1x Paul DiCarlo, The Alpha  2	pot		 	 Giovanni:2
+1x Eddie Gaines		    1	dem pot		 	 Caitiff:3
+
+Library (90 cards)
+Master (15; 4 trifle)
+1x Direct Intervention
+1x Dominate
+1x Dreams of the Sphinx
+1x Effective Management
+1x Pentex(TM) Subversion
+5x Potence
+4x Vessel
+1x WMRH Talk Radio
+
+Action (14)
+14x Computer Hacking
+
+Ally (3)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Ossian
+
+Equipment (4)
+1x Ivory Bow
+1x Laptop Computer
+1x Leather Jacket
+1x Sport Bike
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+
+Action Modifier (6)
+4x Conditioning
+2x Leverage
+
+Reaction (16)
+6x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+1x Touch of Pain
+5x Wake with Evening's Freshness
+
+Combat (30)
+3x High Ground
+7x Increased Strength
+2x Mighty Grapple
+2x Street Cred
+2x Target Vitals
+14x Thrown Gate

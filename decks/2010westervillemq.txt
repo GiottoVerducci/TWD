@@ -1,0 +1,68 @@
+Corruption's Purge MQ
+Westerville, Ohio
+June 12th 2010
+2R+F
+18 players
+Mark Loughman
+
+-- 3VP in final
+
+Rose Before Hoes
+
+Crypt (12 cards, min=13, max=22, avg=4.5)
+-----------------------------------------
+3x Felicia Mostrom		5   AUS CEL pre		Toreador:1
+2x Kallista, Master Sculptor	6   AUS CEL pre pro	Toreador:1
+2x Dorian Strack		4   AUS cel		Toreador:1
+2x Zöe				3   AUS cel obf		Malkavian:2
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre	Toreador antitribu:2
+1x Victoria			5   AUS cel obf		Malkavian:2
+1x Isabel de Leon		3   AUS			Toreador:2
+
+Library (88 cards)
+Master (13)
+1x Art Museum
+3x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+
+Action (5)
+3x Flurry of Action
+2x Pulse of the Canaille
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (8)
+6x .44 Magnum
+1x Leather Jacket
+1x Sniper Rifle
+
+Action Modifier (2)
+2x Aire of Elation
+
+Reaction (37)
+3x Delaying Tactics
+3x Eagle's Sight
+4x Eyes of Argus
+3x Forced Awakening
+3x Melange
+3x My Enemy's Enemy
+6x On the Qui Vive
+1x Precognition
+2x Quicken Sight
+2x Spirit's Touch
+6x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (22)
+5x Blur
+6x Concealed Weapon
+3x Flash
+4x Pursuit
+4x Taste of Vitae

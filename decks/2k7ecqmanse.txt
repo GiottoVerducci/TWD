@@ -1,0 +1,64 @@
+Finnish ECQ - Manse
+Tampere, Finland
+July 14th 2007
+25 players
+Jaakko Liemola
+
+-- 2GW9 + 1.5VP in final
+
+Deck Name: ECQ-Lasombra
+
+Crypt (13 cards, min=32, max=40, avg=9.31)
+------------------------------------------
+2x Bruce de Guy			10  AUS DOM FOR OBT		cardinal    Ventrue antitribu:4
+2x Luca Italicus		10  DOM FOR NEC OBT POT tha	archbishop  Lasombra:4
+2x Marcus Vitel			10  DOM FOR OBF OBT PRE		prince	    Ventrue:3
+2x Melinda Galbraith		10  AUS CEL DOM POT PRE obt	cardinal    Lasombra:4
+2x Antón de Concepción		9   ANI DOM OBT POT aus		archbishop  Lasombra:4
+2x Giangaleazzo, The Traitor	8   OBT POT PRE dom		prince	    Lasombra:4
+1x Omme Enberbenight		7   MYT OBT cel dom		priscus	    Kiasyd:4
+
+Library (90 cards)
+Master (22)
+1x Black Forest Base
+1x Creepshow Casino
+1x Día de los Muertos
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Fame
+2x Information Highway
+8x Minion Tap
+1x Power Structure
+4x Zillah's Valley
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (17)
+1x Ancient Influence
+3x Banishment
+5x Kine Resources Contested
+5x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (24)
+2x Freak Drive
+2x Private Audience
+3x Seduction
+3x Shadow Play
+3x Shroud of Absence
+3x Shroud of Night
+3x Tenebrous Form
+5x Voter Captivation
+
+Reaction (20)
+7x Deflection
+5x Obedience
+4x On the Qui Vive
+4x Wake with Evening's Freshness
+
+Combat (6)
+2x Oubliette
+4x Shadow Body

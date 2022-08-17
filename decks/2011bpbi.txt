@@ -1,0 +1,56 @@
+Brujah Potence
+Bolzano, Italy
+January 23rd 2011
+2R+F
+20 players
+Danilo Torrisi
+
+Deck Name: Tupdogs
+
+Crypt (28 cards, min=4, max=19, avg=1.75)
+-----------------------------------------
+21x Tupdog		1    POT VIS		Gargoyle:3
+2x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+1x  Esoara		5    DOM aus for pot	Tremere antitribu:4
+1x  Mosfair		4    cel dom tha	Tremere antitribu:4
+1x  Ember Wright	3    aus dom		Tremere antitribu:3
+1x  Keith Moody		3    DOM		Tremere antitribu:4
+1x  Saiz		3    aus dom		Tremere antitribu:3
+
+Library (90 cards)
+Master (8)
+2x Direct Intervention
+2x Golconda: Inner Peace
+2x Information Highway
+1x Jake Washington
+1x Pentex(TM) Subversion
+
+Action (12)
+8x Graverobbing
+4x Soul of the Earth
+
+Ally (17)
+4x Nephandus
+12x Rock Cat
+1x Vagabond Mystic
+
+Political Action (8)
+8x Autarkis Persecution
+
+Action Modifier (8)
+8x As the Crow
+
+Reaction (9)
+6x Deflection
+3x Delaying Tactics
+
+Combat (24)
+6x Brick by Brick
+4x Disarm
+8x Immortal Grapple
+6x Raking Talons
+
+Event (4)
+1x Dragonbound
+1x FBI Special Affairs Division
+2x Unmasking, The

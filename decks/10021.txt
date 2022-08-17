@@ -1,0 +1,68 @@
+New Year's Rumble
+Online
+January 2nd 2022
+2R+F
+20 players
+Rudolf Scholz
+https://www.vekn.net/event-calendar/event/10021
+
+-- 1GW + 1.5VPs in final
+
+Deck Name: Brujah Barons Steal the Truth
+Description:
+Created this deck one hour before the start of the tournament. Wanted to play something new,
+and did not care much about winning chances being extremely tired and the tournament organisor.
+I like to adopt decks or deck concepts, and am a big fan of the TWDA and tools like the VDB.
+My deck's inspiration is "Stolen Truth" by Jay Kristoff, thus the name.
+The Brujah version became possible with the release of the new 5th Edition decks.
+
+Finals seating: Nikica (Malgorzata + Lord Tremere Toolbox) => Jay (Hesha Ruhadze [G6] Bleed) =>
+me (Brujah Undue Influence) => Sebastian (Anson + Masika Toolbox) => Kevin (Barons Toolbox)
+
+Crypt (12 cards, min=16, max=27, avg=5.5)
+-----------------------------------------
+2x Aline Gädeke		7   POT PRE cel		baron	Brujah:6
+2x Leumeah		6   PRE cel for pot	baron	Brujah:6
+2x Siarhei Levchenko	5   CEL PRE pot			Brujah:6
+1x Valeriya Zinovieva	7   POT cel pre pro	baron	Brujah:6
+1x Atiena		6   CEL obf pot pre	baron	Brujah:6
+1x Octane		6   CEL POT PRE			Brujah:6
+1x Brandon Grime	5   CEL pot pre tha		Brujah:6
+1x Ariane		3   cel pot pre			Brujah:5
+1x Laura Goldman	3   cel pre			Brujah:5
+
+Library (60 cards)
+Master (12; 4 trifle)
+1x Anarch Railroad
+1x Club Illusion
+1x Coven, The
+2x Information Highway
+1x Jake Washington
+2x New Carthage
+1x Pentex(TM) Subversion
+2x Villein
+1x Wider View
+
+Action (18)
+1x Fee Stake: Corte
+1x Fee Stake: Perth
+2x Mind Numb
+14x Undue Influence
+
+Political Action (8)
+2x Consanguineous Boon
+4x Kine Resources Contested
+2x Reckless Agitation
+
+Action Modifier (6)
+4x Power of One
+2x Voter Captivation
+
+Reaction (10)
+4x Bait and Switch
+1x Delaying Tactics
+2x On the Qui Vive
+3x Organized Resistance
+
+Combat (6)
+6x Majesty

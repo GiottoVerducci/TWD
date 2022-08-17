@@ -1,0 +1,68 @@
+HalmiCon
+Halmstad, Sweden
+June 15th 2003
+17 players
+Henrik Oscarsson
+
+Crypt (12 cards, min=14, max=26, avg=5.17)
+------------------------------------------
+2x Iliana		7   DOM FOR PRO tha		Gangrel:2
+2x Caitlin		6   ANI PRO aus dom	bishop	Gangrel antitribu:2
+1x Camille Devereux	5   FOR PRO ani			Gangrel:1
+1x Raven		5   FOR PRO ani			Gangrel:1
+1x Badger		6   FOR PRO ani pot		Gangrel:1
+1x Pieter		6   OBF PRO for tha		Gangrel antitribu:2
+1x Mirembe Kabbada	5   PRO SER ani			Gangrel:2
+1x Daliyah		4   PRO obf			Nosferatu:2
+1x Chandler Hungerford	3   PRO				Gangrel:2
+1x Sadie		2   pro				Gangrel antitribu:2
+
+Library (90 cards)
+Master (16)
+5x Blood Doll
+1x Campground Hunting Ground
+2x Direct Intervention
+1x Ecoterrorists
+1x London Evening Star, Tabloid Newspaper
+1x Powerbase: Madrid
+1x Rack, The
+1x Rötschreck
+1x Rumor Mill, Tabloid Newspaper, The
+1x Smiling Jack, The Anarch
+1x Zoo Hunting Ground
+
+Action (2)
+1x Army of Rats
+1x Graverobbing
+
+Equipment (8)
+4x Laptop Computer
+1x Monocle of Clarity
+3x Sport Bike
+
+Retainer (8)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Owl Companion
+4x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (8)
+2x Conditioning
+4x Earth Control
+2x Freak Drive
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Reaction (6)
+3x Deflection
+1x Elder Intervention
+2x Forced Awakening
+
+Combat (39)
+1x Body Flare
+3x Claws of the Dead
+25x Earth Meld
+3x Flesh of Marble
+7x Form of Mist

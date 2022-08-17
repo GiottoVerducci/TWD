@@ -1,0 +1,64 @@
+Torneo Trentino
+Trento, Italy
+October 19th 2012
+2R+F
+10 players
+Giulio Grimaldi
+
+-- 3VP in final
+
+Deck Name: Arika chan
+
+Crypt (12 cards, min=27, max=43, avg=9)
+---------------------------------------
+3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+2x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+2x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+2x Victorine Lafourcade	8   DOM FOR PRE tha		prince		Ventrue:3
+1x Katarina Kornfeld	8   DOM FOR PRE ani		primogen	Ventrue:3
+1x Horatio Ballard	7   DOM FOR PRE aus				Ventrue:3
+1x Michael Luther	4   aus pre					Toreador:3
+
+Library (90 cards)
+Master (16; 1 trifle)
+1x Creepshow Casino
+1x Direct Intervention
+3x Information Highway
+6x Minion Tap
+1x Secure Haven
+1x Ventrue Headquarters
+1x Wash
+2x Zillah's Valley
+
+Action (7)
+1x Blithe Acceptance
+6x Govern the Unaligned
+
+Political Action (16)
+1x Ancient Influence
+2x Banishment
+4x Conservative Agitation
+1x Disputed Territory
+6x Kine Resources Contested
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (30)
+2x Awe
+4x Bewitching Oration
+4x Forgotten Labyrinth
+6x Freak Drive
+4x Lost in Crowds
+4x Seduction
+6x Voter Captivation
+
+Reaction (12)
+6x Deflection
+4x On the Qui Vive
+2x Second Tradition: Domain
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,62 @@
+Legion
+Online
+July 25th 2021
+3R+F
+14 players
+Ed Gonçalves
+https://www.vekn.net/event-calendar/event/9831
+
+-- 1GW4 + 3VP in final
+
+Deck Name: Rei do Blindado
+
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+12x Nergal 10	AUS DAI FOR OBF PRE THA	 Baali:5
+
+Library (90 cards)
+Master (28; 8 trifle)
+2x Direct Intervention
+10x Dominate
+4x Golconda: Inner Peace
+1x Parthenon, The
+1x Redeem the Lost Soul
+2x Vast Wealth
+6x Villein
+2x Wash
+
+Action (13)
+4x Call the Great Beast
+2x Entrancement
+5x Magic of the Smith
+2x Unleash Hell's Fury
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Action Modifier (27)
+3x Elder Impersonation
+3x Faceless Night
+2x Forgotten Labyrinth
+12x Freak Drive
+4x I am Legion
+3x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
+Reaction (3)
+2x Deflection
+1x On the Qui Vive
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Scourge of the Enochians

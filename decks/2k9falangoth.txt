@@ -1,0 +1,63 @@
+First and last and always
+Gothenburg, Sweden
+March 14th 2009
+14 players
+Alex Ek
+
+Deck Name: Neo-Lawfirm
+
+Description: There are now 3 different lawfirm crypts and this one is
+probably the weakest of the three. Something that makes people
+underestimate the vampires you bring into play from time to time. The
+deck is very versatile and features plenty of silver bullets which
+helps you handle most situations you encounter.
+
+Crypt (12 cards, min=19, max=32, avg=6.33)
+------------------------------------------
+2x Victorine Lafourcade	8   DOM FOR PRE tha	 prince	 Ventrue:3
+2x Mustafa, The Heir	6   FOR PRE cel dom	 prince	 Ventrue:4
+2x Victor Pelletier	5   PRE cel dom for	 	 Ventrue:4
+1x Johannes Castelein	9   DEM DOM FOR PRE	 prince	 Ventrue:4
+1x Horatio Ballard	7   DOM FOR PRE aus	 	 Ventrue:3
+1x Mukhtar Bey		7   FOR PRE QUI obf pot	 prince	 Caitiff:4
+1x Edward Vignes	6   DOM PRE for		 	 Ventrue:3
+1x Boss Callihan	5   PRE dom for pro	 	 Ventrue:3
+1x Michael Luther	4   aus pre		 	 Toreador:3
+
+Library (74 cards)
+Master (12; 4 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Misdirection
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+3x Vessel
+
+Action (14)
+5x Enchant Kindred
+4x Entrancement
+3x Fourth Tradition: The Accounting
+2x Govern the Unaligned
+
+Political Action (13)
+2x Domain Challenge
+6x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (14)
+4x Conditioning
+2x Daring the Dawn
+6x Freak Drive
+2x Voter Captivation
+
+Reaction (10)
+6x Deflection
+4x Second Tradition: Domain
+
+Combat (9)
+9x Majesty
+
+Event (2)
+2x Uncoiling, The

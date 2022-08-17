@@ -1,0 +1,49 @@
+Last Chance Qualifier
+Newcastle (New South Wales), Australia
+October 2nd 2004
+3R+F
+28 players
+Michael Sedunary
+
+Deck Name: We Shall, We Shall Overcome
+Created by: Julian Gatt and Michael Sedunary
+
+Michael Sedunary swept the final round in 28 minutes with this deck.
+
+Crypt (14 cards, min=4, max=4, avg=1)
+-------------------------------------
+2x Angela Decker	1   pre		Pander:2
+2x Julius		1   qui ser	Caitiff:2
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Basil		1   obf		Pander:2
+1x Eddie Gaines		1   dem pot	Caitiff:3
+1x Feo Ramos		1   aus		Pander:3
+1x Huang, Blood Cultist	1   pro		Pander:2
+1x Lisa Noble		1   ani		Caitiff:3
+1x Nedal, The Careless	1   cel nec	Caitiff:3
+1x Olga Triminov	1   vic		Pander:3
+1x Royce		1   dom		Pander:2
+1x Sandra White		1   -none-	Caitiff:3
+
+Library (60 cards)
+Master (14; 5 trifle)
+5x Effective Management
+2x Information Highway
+5x Life in the City
+2x Specialization
+
+Political Action (46)
+5x Consanguineous Boon
+16x Conservative Agitation
+1x Crusade: Berlin
+1x Crusade: Detroit
+1x Crusade: Geneva
+1x Crusade: Mexico City
+1x Crusade: Pittsburgh
+1x Crusade: Washington, D.C.
+1x Dramatic Upheaval
+14x Kine Resources Contested
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Boston
+1x Praxis Seizure: Glasgow
+1x Praxis Seizure: Miami

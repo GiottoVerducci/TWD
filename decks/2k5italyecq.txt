@@ -1,0 +1,61 @@
+Italian ECQ
+Bologna, Italy
+September 18th 2005
+3R+F
+55 players
+Andrea Del Cont
+
+A sort of Lasombra S&B
+
+Crypt (12 cards, min=19, max=30, avg=6.25)
+------------------------------------------
+3x Henri Lavenant		7   DOM OBT pot qui		 Lasombra:3
+3x Banjoko			5   DOM obt pot			 Lasombra:3
+2x Gratiano			8   DOM OBT obf pot	priscus	 Lasombra:2
+2x Tobias Smith			7   DOM OBT PRE pot		 Lasombra:3
+1x Guido Lucciano		5   OBT dom obf			 Lasombra:2
+1x Ignacio, The Black Priest	4   dom obt pot			 Lasombra:2
+
+Library (79 cards)
+Master (12)
+2x Blood Doll
+1x Direct Intervention
+3x Dominion
+1x Elysian Fields
+1x Obtenebration
+3x Path of Night, The
+1x Regarhagan's Hold
+
+Action (11)
+1x Blooding
+1x Dominate Kine
+1x Far Mastery
+6x Govern the Unaligned
+1x Rampage
+1x Sanguine Instruction
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (1)
+1x Watchtower: Greatest Fall
+
+Action Modifier (26)
+3x Change of Target
+2x Conditioning
+3x Foreshadowing Destruction
+3x Shadow Play
+3x Shroud of Night
+7x Tenebrous Form
+5x Threats
+
+Reaction (16)
+5x Deflection
+2x Eyes of the Night
+3x Forced Awakening
+3x Redirection
+3x Wake with Evening's Freshness
+
+Combat (12)
+6x Darkness Within
+6x Oubliette

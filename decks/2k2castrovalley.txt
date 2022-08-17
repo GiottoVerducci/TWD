@@ -1,0 +1,93 @@
+Blood Siege
+Castro Valley, California
+March 30th 2002
+3R+F
+12 players
+Ian Lee
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TlYSyldqjxg
+
+Winning Deck Name: Of Ghastly Dreams (best safety lies in fear)
+Description: Clearly toolbox, the core is "intercept". This deck had
+been doing well in our casual games, so with some tuning, I thought it
+might be an interesting candidate for playing in a tournament. After
+tuning, I goldfished a bit and realized just how many of the actions
+are at zero stealth. The lack of stealth remains a problem. Should
+pull Fleecing, an Overload, and probably the Patshivs.
+Pseudo-Blindness was a metagame guess that didn't work particularly
+well (in that I discarded all of them). The MVP was Mass Reality;
+should be more than one.
+
+Crypt (12 cards, min=12, max=28, avg=4.83)
+------------------------------------------
+1x Gabrin			8   ANI CHI dom for	 Ravnos:2
+1x Tereza Rostas		8   CHI FOR ani aus pot	 Ravnos:2
+1x Joaquina Amaya		6   ANI CHI FOR		 Ravnos:2
+1x Vaclav Petalengro		6   ANI CHI for pot	 Ravnos:2
+1x Ghivran Dalaal, The Dead God	5   FOR ani aus chi	 Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	 Ravnos:2
+1x Anka, Priestess of Thorns	4   ani chi pro		 Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro		 Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for		 Ravnos:2
+1x Tsigane			3   aus chi		 Ravnos:2
+1x Vedel Esbreno		3   chi for		 Ravnos:2
+1x Sasha Miklos			2   chi			 Ravnos:2
+
+Library (90 cards)
+Master (21)
+1x Auspex
+2x Barrens, The
+5x Blood Doll
+2x Chimerstry
+2x Effective Management
+1x Fortune Teller Shop
+1x Heidelberg Castle, Germany
+1x Park Hunting Ground
+1x Parthenon, The
+3x Path of Paradox, The
+1x Storage Annex
+1x Week of Nightmares
+
+Action (16)
+1x Computer Hacking
+1x Fleecing the Gaje
+1x Mass Reality
+4x Nightmare Curse
+2x Patshiv
+1x Sensory Deprivation
+6x Sensory Overload
+
+Action/Reaction (8)
+8x Draba
+
+Ally (1)
+1x Rom Gypsy
+
+Equipment (7)
+1x .44 Magnum
+1x Ivory Bow
+1x Laptop Computer
+1x Palatial Estate
+2x Sport Bike
+1x Treasured Samadji
+
+Political Action (1)
+1x Rumors of Gehenna
+
+Action Modifier (4)
+4x Fata Morgana
+
+Action Modifier/Combat (4)
+4x Mirror Image
+
+Reaction (12)
+1x Cats' Guidance
+4x Forced Awakening
+1x Ignis Fatuus
+2x Pseudo-Blindness
+4x Wake with Evening's Freshness
+
+Combat (16)
+6x Amria
+4x Apparition
+2x Illusions of the Kindred
+4x Zip Gun

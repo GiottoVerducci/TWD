@@ -1,0 +1,81 @@
+Last Chance Qualifier
+Blacktown, Sydney, Australia
+June 6th 2009
+3R+F
+22 players
+Simon Reed
+
+Deck: I love the Tremere
+This deck is all about being flexible and tooling up with whatever the
+game situation dictates. Constant pressure forward and bring out the
+hordes of Tremere to overwhelm. Seems to work pretty well most of the
+time, could maybe do with another Muaziz for her extra stealth for
+forward motion but her disciplines aren't great.
+
+Deck based on concepts I saw from Barnaby Dromgool and refined using
+Steve Harris' deck from last years LCQ in Melbourne.
+
+Crypt (12 cards, min=11, max=28, avg=5.17)
+------------------------------------------
+4x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		  Tremere:2
+1x Eugenio Estevez		6   AUS THA dom for		  Tremere:3
+1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+1x Cohn Rose			5   THA aus dom pre		  Tremere:3
+1x Blythe Candeleria		3   THA aus			  Tremere:2
+1x Martin Franckel		3   AUS tha			  Tremere:3
+1x Masika St. John		3   THA				  Tremere:3
+1x Almiro Suarez		2   aus				  Tremere:3
+
+Library (90 cards)
+Master (14; 2 trifle)
+1x Academic Hunting Ground
+2x Arcane Library
+3x Blood Doll
+1x Chantry
+1x Direct Intervention
+1x Powerbase: Montreal
+1x Rack, The
+1x Tribute to the Master
+1x Vessel
+1x Wash
+1x WMRH Talk Radio
+
+Action (10)
+6x Govern the Unaligned
+4x Magic of the Smith
+
+Equipment (8)
+1x Ankara Citadel, Turkey, The
+1x Bowl of Convergence
+1x Camera Phone
+1x Flak Jacket
+1x IR Goggles
+1x Ivory Bow
+1x Leather Jacket
+1x Palatial Estate
+
+Action Modifier (8)
+2x Bonding
+2x Conditioning
+4x Mirror Walk
+
+Reaction (26)
+3x Deflection
+2x Delaying Tactics
+2x Eagle's Sight
+2x Enhanced Senses
+3x Forced Awakening
+2x My Enemy's Enemy
+2x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (24)
+8x Apportation
+2x Aura Reading
+2x Telepathic Tracking
+10x Theft of Vitae
+2x Walk of Flame

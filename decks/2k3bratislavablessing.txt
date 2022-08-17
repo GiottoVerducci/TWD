@@ -1,0 +1,70 @@
+Blessing of Chaos
+Bratislava, Slovak Republic
+April 26th 2003
+33 players
+Tibor Morocz
+
+Deck Name: Law Enforcement
+
+Description: Blessing of Chaos 2003: Bratislava - Winning Deck.
+Ventrue with Politics, Bleed, Deflections and Majesty. Hard to Catch,
+Hard to Kill.
+
+Crypt (12 cards, min=28, max=42, avg=9.08)
+------------------------------------------
+3x Lucinde, Alastor		   10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+2x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+2x Victorine Lafourcade		   8   DOM FOR PRE tha		prince		Ventrue:3
+1x Marcus Vitel			   10  DOM FOR OBF OBT PRE	prince		Ventrue:3
+1x Queen Anne			   10  DOM FOR PRE aus obf	prince		Ventrue:2
+1x Wilhelm Waldburg		   9   DOM FOR PRE aus cel	prince		Ventrue:2
+1x Horatio Ballard		   7   DOM FOR PRE aus				Ventrue:3
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
+
+Library (90 cards)
+Master (14)
+2x Anarch Troublemaker
+3x Blood Doll
+1x Giant's Blood
+1x Island of Yiaros
+4x Minion Tap
+1x Powerbase: Montreal
+1x Rack, The
+1x Ventrue Headquarters
+
+Action (11)
+2x Dominate Kine
+1x Far Mastery
+7x Govern the Unaligned
+1x Graverobbing
+
+Equipment (2)
+2x Submachine Gun
+
+Political Action (14)
+2x Banishment
+1x Consanguineous Boon
+1x Disputed Territory
+4x Kine Resources Contested
+1x Meddling of Semsith, The
+3x Parity Shift
+1x Political Stranglehold
+1x Protect Thine Own
+
+Action Modifier (23)
+7x Change of Target
+2x Forgotten Labyrinth
+6x Freak Drive
+2x Kiss of Ra, The
+3x Seduction
+3x Voter Captivation
+
+Reaction (17)
+5x Deflection
+3x Obedience
+2x Redirection
+3x Second Tradition: Domain
+4x Wake with Evening's Freshness
+
+Combat (9)
+9x Majesty

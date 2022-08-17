@@ -1,0 +1,82 @@
+Manse Politics
+Tampere, Finland
+September 28th 2019
+3R+F
+15 players
+Marko Saari
+https://www.vekn.net/event-calendar/event/9361
+
+-- 2GW8.5 + 4VP in final
+
+Deck Name: Montano PURGE
+
+Thanks to Otto & Jura for arranging the tournament!
+
+Finalists:
+Jari (Lutz vote+bleed) → Marko (Purge) → Pauli (Ventrue sticks, 2nd trads & daring the dawn bleeds) → Jaakko (Vignes bleed) → Pasi (Kiasyd SB with combat surprise)
+
+Description: Traditional Baltimore Purge deck built around Montano. Inspiration was taken from Akseli Jalava's similar deck. After struggling in the previous tournament against Scourge, I switched crypt's 2 caps to be a generation or two older. This made the deck a bit slower to start but allowed me to include Scourge card to burn other weenies like Tupdogs that are a constant headache in Finnish meta. As a post-Pentex-nerf update, I tested to take two Pentex cards away, and replace one of them with Blind Spot. I would consider adding a 5th Graverobbing as it sparks joy among fellow methuselahs.
+
+Crypt (12 cards, min=18, max=44, avg=8.42)
+------------------------------------------
+5x Montano				  11  ANI DOM FOR OBT POT	2 votes	  Lasombra:3
+2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal  Lasombra:2
+1x Gratiano				  8   DOM OBT obf pot		priscus	  Lasombra:2
+1x Gustav Mallenhous			  8   AUS DOM for obt		priscus	  Ventrue antitribu:2
+1x Ignacio, The Black Priest		  4   dom obt pot			  Lasombra:2
+1x Cameron				  3   dom pot				  Lasombra:2
+1x Hester Reed				  3   obt pot				  Lasombra:3
+
+Library (84 cards)
+Master (16; 3 trifle)
+1x Blind Spot
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+2x Information Highway
+1x Monastery of Shadows
+3x Villein
+3x Zillah's Valley
+
+Action (20)
+8x Baltimore Purge
+4x Govern the Unaligned
+4x Graverobbing
+4x Mind Rape
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Political Action (3)
+1x Ancient Influence
+1x Banishment
+1x Reins of Power
+
+Action Modifier (31)
+2x Blanket of Night
+1x Conditioning
+2x Enkil Cog
+13x Freak Drive
+2x Seduction
+4x Shadow Play
+3x Shroud of Absence
+2x Shroud of Night
+2x Tenebrous Form
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (6)
+4x Deflection
+1x Obedience
+1x On the Qui Vive
+
+Combat (4)
+2x Entombment
+2x Shadow Body
+
+Event (1)
+1x Scourge of the Enochians

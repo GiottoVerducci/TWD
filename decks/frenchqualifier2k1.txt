@@ -1,0 +1,66 @@
+French ECQ
+Ostelen, Paris, France
+September 22nd 2001
+114 players
+Yann Seroz
+http://www.veknfrance.com/site/IMG/pdf/CV_Vekn_Paris.pdf
+
+Deck Name: Magic Circus Deck
+
+Crypt (12 cards, min=8, max=14, avg=2.83)
+-----------------------------------------
+2x Wendy Wade	   3   ani aus	    Tzimisce:2
+2x Vliam Andor	   2   ani	    Gangrel:1
+1x Devin Bisley	   5   ANI AUS vic  Tzimisce:2
+1x Anastasia Grey  3   ani pro	    Gangrel:1
+1x Leon		   3   ani for	    Gangrel antitribu:2
+1x Panagos Levidis 3   ani obf	    Gangrel:2
+1x Raziya Samater  3   ani pot	    Brujah:2
+1x Tommy	   3   ani pot	    Nosferatu antitribu:2
+1x Dani		   2   ani	    Nosferatu antitribu:2
+1x Gillian Krader  2   ani dem	    Pander:2
+
+Library (90 cards)
+Master (19)
+7x Animalism
+1x Archon Investigation
+3x Blood Doll
+2x Direct Intervention
+1x Haven Uncovered
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+1x Zoo Hunting Ground
+
+Action (7)
+2x Army of Rats
+3x Bum's Rush
+2x Computer Hacking
+
+Ally (3)
+1x Renegade Garou
+2x War Ghoul
+
+Equipment (1)
+1x Shackles of Enkidu
+
+Retainer (10)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Murder of Crows
+5x Raven Spy
+1x Tasha Morgan
+
+Reaction (14)
+4x Cats' Guidance
+8x Forced Awakening
+2x Guard Dogs
+
+Combat (36)
+19x Aid from Bats
+12x Carrion Crows
+3x Drawing Out the Beast
+1x Fake Out
+1x Terror Frenzy

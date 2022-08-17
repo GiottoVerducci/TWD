@@ -1,0 +1,66 @@
+Brussels Unaligned
+Brussels, Belgium
+November 22nd 2014
+3R+F
+13 players
+Ben Peal
+https://www.vekn.net/event-calendar/event/7845
+
+Deck Name: Osebo Flung Junk
+
+0.5 + gw2 + 1.5 / 2.5vp
+
+Description: Osebo intercept combat built using the contents of two Osebo starters plus some extra cards.
+
+Crypt (12 cards, min=12, max=24, avg=4.67)
+------------------------------------------
+3x Titi Camara	  5   AUS CEL pot	   	   Osebo:5
+2x Uzoma	  5   POT aus cel vic	   	   Osebo:4
+1x Mamadou Keita  7   CEL aus pot pre vic  magaji  Osebo:4
+1x Abiku	  6   AUS POT cel obt	   	   Osebo:4
+1x Homa		  6   AUS CEL POT	   	   Osebo:4
+1x Ismitta	  4   aus cel pot	   	   Osebo:4
+1x Arriette Sylla 3   POT		   	   Osebo:4
+1x Kamaria	  3   aus pot		   	   Osebo:4
+1x Misrak	  2   pot		   	   Osebo:4
+
+Library (90 cards)
+Master (18; 3 trifle)
+1x Barrens, The
+1x Base Hunting Ground
+4x Blood Doll
+2x Celerity
+2x Guardian Angel
+1x Powerbase: Luanda
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Tension in the Ranks
+3x Wider View
+
+Action (5)
+1x 419 Operation
+2x Bum's Rush
+1x Harass
+1x Well-Marked
+
+Equipment (11)
+6x .44 Magnum
+1x Blood Shield
+2x IR Goggles
+2x Reliquary: Trinket
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (25)
+4x Eagle's Sight
+1x Familial Bond
+8x Forced Awakening
+4x My Enemy's Enemy
+8x Quicken Sight
+
+Combat (30)
+8x Pursuit
+4x Taste of Vitae
+8x Thrown Gate
+10x Thrown Sewer Lid

@@ -1,0 +1,82 @@
+Columbia August 1998
+Columbia, South Carolina
+August 1st 1998
+Todd Banister
+
+Todd handily swept the table, or would've except that Stu (Todd's initial
+predator) ousted himself with a Life Boon to save his Predator, thereby
+taking second place with one VP.
+
+Todd's Deck:
+
+Crypt (12 cards, min=16, max=37, avg=6.75)
+------------------------------------------
+2x Nikolaus Vermeulen		7   POT ani for obf		prince		Nosferatu:2
+1x Arika			11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for		justicar	Nosferatu:1
+1x Suhailah			9   FOR OBF pot ser		prince		Ventrue:2
+1x Selma the Repugnant		8   OBF POT ani for		prince		Nosferatu:1
+1x Greger Anderssen		7   AUS OBF dom pro		prince		Malkavian:2
+1x Kendrick			7   ANI POT aus obf		priscus		Nosferatu antitribu:2
+1x Murat			7   OBF POT ser			prince		Nosferatu:2
+1x Volker, The Puppet Prince	5   CEL pot			prince		Brujah:2
+1x Dimple			2   obf						Nosferatu:1
+1x Rufina Soledad		2   for						Ventrue:1
+
+Library (90 cards)
+Master (24)
+3x Blood Doll
+1x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Elysium: The Palace of Versailles
+2x Information Highway
+1x Labyrinth, The
+1x Major Boon
+5x Minion Tap
+2x Protected Resources
+1x Secure Haven
+4x Tomb of Rameses III
+1x Tribute to the Master
+1x Ventrue Headquarters
+
+Action (9)
+1x Arson
+5x Fifth Tradition: Hospitality
+3x Fourth Tradition: The Accounting
+
+Political Action (40)
+1x Ancient Influence
+2x Archon
+3x Banishment
+1x Command of the Harpies
+2x Conservative Agitation
+1x Disputed Territory
+1x Domain Challenge
+1x First Tradition: The Masquerade
+1x Justicar Retribution
+1x Kindred Restructure
+1x Kindred Segregation
+16x Kine Resources Contested
+1x Nosferatu Justicar
+3x Parity Shift
+1x Peace Treaty
+1x Political Stranglehold
+1x Praxis Seizure: London
+2x Rumors of Gehenna
+
+Action Modifier (7)
+1x Cloak the Gathering
+2x Forgotten Labyrinth
+1x Freak Drive
+3x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (3)
+2x Second Tradition: Domain
+1x Telepathic Misdirection
+
+Combat (3)
+2x Skin of Steel
+1x Zip Gun

@@ -1,0 +1,66 @@
+Crusade: Québec
+Quebec City, Quebec
+October 6th 2001
+Rémy Auclair
+
+Deck Name: Shadowrun
+
+The strength of the deck is the Spying Mission, even if it does only 3
+with 2 actions. Temptation were very useful and so was the Enticement.
+I used Enticement 2 times to oust my preys who thought that I was only
+going to bleed them for 1. I was lucky not to meet too many combat
+decks but I manage to oust my prey even with 2 Gangrel decks against
+me at the table. I played my first succesful Dismemberment of Osiris
+on Ambrosio Luis Moncada, it's a very strong card (to put in every
+Setite deck). Maybe more Marked Path and less MotF. The "reduce
+bleed" side of the deck was "very" useful ; with Lalitha and Julius.
+
+Remy Auclair
+
+Crypt (12 cards, min=6, max=20, avg=3.33)
+-----------------------------------------
+2x Count Ormonde	  5   OBF dom pre ser	Follower of Set:2
+2x Celine Chevalier	  3   obf ser		Follower of Set:2
+2x Lalitha		  2   ser		Follower of Set:2
+2x Julius		  1   qui ser		Caitiff:2
+1x Grendel the Worm-Eaten 5   OBF ani pot	Nosferatu:1
+1x Zebulon		  5   OBF aus dom pro	Malkavian:1
+1x Agrippina		  4   OBF pot		Nosferatu:1
+1x Tansu Bekir		  4   OBF cel		Assamite:2
+
+Library (90 cards)
+Master (11)
+1x Archon Investigation
+6x Blood Doll
+1x Creepshow Casino
+1x Obfuscate
+2x Sudden Reversal
+
+Action (22)
+1x Dismemberment of Osiris
+1x Edge Vitiation
+4x Enticement
+1x Form of Corruption
+10x Night Moves
+5x Temptation
+
+Action Modifier (30)
+3x Change of Target
+7x Cloak the Gathering
+4x Faceless Night
+3x Lost in Crowds
+1x Marked Path
+3x Mask of a Thousand Faces
+9x Spying Mission
+
+Action Modifier/Combat (7)
+2x Form of the Serpent
+5x Swallowed by the Night
+
+Reaction (12)
+6x Banner of Neutrality
+6x Ecstasy
+
+Combat (8)
+4x Behind You!
+4x Dodge

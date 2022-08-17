@@ -1,0 +1,55 @@
+ACC 2014
+Iloilo, Philippines
+September 20th 2014
+3R+F
+22 players
+Richard Barnett
+https://www.vekn.net/event-calendar/event/7756
+
+Deck Name: Classic Euro Brujah
+Created by: Johann Ong and Richard Barnett
+
+Description: Tried and tested deck archetype, pretty reliable in most situations.
+
+Crypt (12 cards, min=24, max=32, avg=7.08)
+------------------------------------------
+3x Theo Bell			7   POT cel dom pre	 	 Brujah:2
+1x Theo Bell (ADV)		7   CEL POT PRE aus dom	 	 Brujah:2
+3x Dónal O'Connor		8   CEL DOM POT		 prince	 Brujah:2
+2x Constanza Vinti		8   CEL DOM POT		 prince	 Brujah:2
+2x Volker, The Puppet Prince	5   CEL pot		 prince	 Brujah:2
+1x Juggler			7   CEL DOM obf pot	 	 Brujah:3
+
+Library (80 cards)
+Master (9; 3 trifle)
+1x Archon Investigation
+2x Blood Doll
+1x Carthage Remembered
+1x Dreams of the Sphinx
+1x New Carthage
+2x Vessel
+1x Wash
+
+Action (9)
+6x Govern the Unaligned
+2x Heroic Might
+1x Judgment: Camarilla Segregation
+
+Equipment (2)
+2x .44 Magnum
+
+Political Action (2)
+2x Anathema
+
+Reaction (16)
+6x Deflection
+10x Second Tradition: Domain
+
+Combat (42)
+2x Decapitate
+4x Disarm
+8x Immortal Grapple
+10x Pursuit
+6x Sideslip
+4x Taste of Vitae
+8x Torn Signpost

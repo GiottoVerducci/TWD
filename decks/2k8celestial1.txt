@@ -1,0 +1,49 @@
+Celestial Harmony #1
+Eudemonia, Berkeley, California
+June 21st 2008
+17 players
+Ruben Feldman
+
+Deck Name: The Bleeding Vignes
+
+Crypt (12 cards, min=15, max=25, avg=5)
+---------------------------------------
+3x Edward Vignes		   6   DOM PRE for		  Ventrue:3
+2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		  Ventrue:2
+1x Gracis Nostinus		   7   DOM PRE aus for	primogen  Ventrue:3
+1x Boss Callihan		   5   PRE dom for pro		  Ventrue:3
+1x Catherine du Bois		   5   DOM for obf pre		  Ventrue:3
+1x Elena Gutierrez		   4   aus dom pre		  Ventrue:3
+1x Ingrid Russo			   4   DOM for			  Ventrue antitribu:2
+1x Pieter van Dorn		   4   dom pre tha		  Tremere:3
+1x Diana Vick			   3   dom pre			  Ventrue:3
+
+Library (70 cards)
+Master (13; 1 trifle)
+2x Anarch Troublemaker
+4x Blood Doll
+1x Coven, The
+1x Giant's Blood
+1x Jake Washington
+2x Misdirection
+2x Pentex(TM) Subversion
+
+Action (20)
+4x Entrancement
+10x Govern the Unaligned
+3x Mind Numb
+3x Slaughtering the Herd
+
+Action Modifier (15)
+4x Bonding
+5x Conditioning
+1x Daring the Dawn
+2x Foreshadowing Destruction
+3x Seduction
+
+Reaction (14)
+12x Deflection
+2x Delaying Tactics
+
+Combat (8)
+8x Majesty

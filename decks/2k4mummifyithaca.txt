@@ -1,0 +1,82 @@
+Mummify: Ithaca
+Ithaca, New York
+April 16th 2004
+10 players
+Jay Davis
+
+Tremere Blood Farm
+
+Crypt (19 cards, min=12, max=39, avg=6.53)
+------------------------------------------
+1x Etrius			11  AUS DOM OBF THA pro		inner circle	Tremere:2
+1x Lucas Halton			10  AUS CEL DOM THA qui		prince		Tremere:3
+1x Lille Haake			9   AUS DOM THA nec pre		primogen	Tremere:3
+1x Oliver Thrace		9   AUS DOM THA nec obf pot			Tremere:3
+1x Spiridonas			9   DOM THA pot pre		prince		Tremere:2
+1x Anastasz di Zagreb		8   AUS THA ani cel dom		justicar	Tremere:3
+1x Ardan Lane			8   AUS THA dom obf pre		primogen	Tremere:3
+1x Erichtho			8   AUS DOM THA cel obf				Tremere:3
+1x Carna, The Princess Witch	7   AUS DOM THA			primogen	Tremere:3
+1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for				Tremere:2
+1x Eugenio Estevez		6   AUS THA dom for				Tremere:3
+1x Valois Sang, The Watcher	6   AUS DOM nec tha				Tremere:3
+1x Aisling Sturbridge		5   AUS THA dom					Tremere:2
+1x Kyoko Shinsegawa		5   aus cel dom for				Tremere:3
+1x Pieter van Dorn		4   dom pre tha					Tremere:3
+1x Blythe Candeleria		3   THA aus					Tremere:2
+1x Ehrich Weiss			3   dom tha					Tremere:3
+1x Martin Franckel		3   AUS tha					Tremere:3
+1x Masika St. John		3   THA						Tremere:3
+
+Library (90 cards)
+Master (18)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Auspex
+4x Blood Doll
+1x Chantry
+1x Dominate
+1x Fragment of the Book of Nod
+1x Information Highway
+2x Minion Tap
+1x Secure Haven
+2x Sudden Reversal
+1x Tremere Convocation
+1x Wasserschloss Anif, Austria
+
+Action (28)
+8x Cryptic Mission
+2x Dominate Kine
+1x Far Mastery
+4x Govern the Unaligned
+1x Graverobbing
+2x Pulse of the Canaille
+2x Revelations
+2x Rutor's Hand
+4x Scouting Mission
+2x Seeds of Corruption
+
+Ally (1)
+1x Thadius Zho
+
+Equipment (2)
+1x Ankara Citadel, Turkey, The
+1x Palatial Estate
+
+Retainer (1)
+1x Charnas the Imp
+
+Action Modifier (8)
+4x Bonding
+4x Seduction
+
+Reaction (16)
+2x Deflection
+4x Enhanced Senses
+4x Obedience
+4x Telepathic Counter
+2x Telepathic Misdirection
+
+Combat (16)
+8x Movement of the Mind
+8x Theft of Vitae

@@ -1,0 +1,62 @@
+The Seraphin
+Utrecht, Netherlands
+November 30th 2003
+25 players
+Bram Vink
+
+Deck Name: Gangrel
+
+Wanting to play a deck without bounce, my eye fell on gangrel royalty.
+This is what i made of it. After the tournament I would scratch the
+Raven Spies, Succubus Club, Fifth Traditions, Fourth Traditions, and
+add in a few more Restorations. Legendary vampire is really a great
+card for this deck.
+
+Crypt (12 cards, min=18, max=42, avg=8)
+---------------------------------------
+3x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
+2x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
+2x Angus the Unruled	10  ANI PRO cel for pot	 justicar	Gangrel:1
+2x Katarina		9   ANI FOR pot pro	 prince		Gangrel:2
+1x Anastasia Grey	3   ani pro		 		Gangrel:1
+1x Chandler Hungerford	3   PRO			 		Gangrel:2
+1x Ricki Van Demsi	3   for pro		 		Gangrel:1
+
+Library (75 cards)
+Master (14)
+1x Backways
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Ecoterrorists
+3x Legendary Vampire
+5x Minion Tap
+1x Succubus Club
+
+Action (10)
+3x Fifth Tradition: Hospitality
+1x Fourth Tradition: The Accounting
+6x Restoration
+
+Political Action (15)
+1x Ancilla Empowerment
+3x Banishment
+1x Gangrel Justicar
+7x Kine Resources Contested
+3x Parity Shift
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier (14)
+6x Earth Control
+8x Freak Drive
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Reaction (7)
+7x Second Tradition: Domain
+
+Combat (10)
+6x Earth Meld
+4x Form of Mist

@@ -1,0 +1,67 @@
+Tend the Flock
+Paris, France
+December 8th 2012
+3R+F
+19 players
+Pierre Tran-Van
+
+-- 2GW7 (1st seed) + 3VP in extremis in final in spite of many newbie mistakes
+
+Deck Name: C'est de la part de Stone
+
+
+Description: Looks like 1 fame disappeared during the previous tournament.
+
+Crypt (12 cards, min=18, max=43, avg=8)
+---------------------------------------
+3x Fakir al Sidi   11  ANI FOR PRE PRO THA abo	Gangrel:4
+3x Nana Buruku	   8   ANI POT PRE		Guruhi:4
+2x Mictlantecuhtli 10  ANI FOR POT THA pre pro	Gangrel:5
+1x Aksinya Daclau  9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
+1x Jezebelle	   4   ani for pro		Gangrel:4
+1x Lillian	   3   ani pro			Gangrel:5
+1x Lula Burch	   3   for pro			Gangrel antitribu:4
+
+Library (89 cards)
+Master (26; 9 trifle)
+9x Ashur Tablets
+1x Giant's Blood
+4x Information Highway
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Powerbase: Luanda
+8x Villein
+1x Wider View
+
+Action (16)
+2x Biothaumaturgic Experiment
+1x Bum's Rush
+11x Deep Song
+1x Ritual Challenge
+1x Rutor's Hand
+
+Ally (1)
+1x Mylan Horseed
+
+Retainer (2)
+2x Dog Pack
+
+Action Modifier (4)
+1x Enkil Cog
+3x Freak Drive
+
+Combat (38)
+5x Blood Rage
+5x Carrion Crows
+3x Claws of the Dead
+4x Drawing Out the Beast
+3x Hidden Strength
+3x Indomitability
+3x Rolling with the Punches
+3x Soak
+6x Taste of Vitae
+3x Unflinching Persistence
+
+Event (2)
+1x Dragonbound
+1x Scourge of the Enochians

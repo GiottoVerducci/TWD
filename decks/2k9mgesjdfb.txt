@@ -1,0 +1,80 @@
+Classificatório para o Sulamericano MG-ES
+Juiz de Fora, Brazil
+September 19th 2009
+3R+F
+15 players
+Breno Toledo
+
+-- 3VP in final
+
+Deck Name: Dream Deck Non-Wraith
+
+Low and mid cap giovannis putting counters on Khazar's Diary for
+Bleed actions and recruiting shambling hordes against rush decks.
+
+Crypt (12 cards, min=12, max=28, avg=4.75)
+------------------------------------------
+1x Guillaume Giovanni	9   CEL DOM NEC POT obt	 Giovanni:4
+1x Gualtiero Ghiberti	7   DOM NEC cel pot tha	 Giovanni:4
+1x Accorri Giovanni	6   DOM POT ani nec	 Giovanni:5
+1x Raphaela Giovanni	6   DOM NEC pot pre	 Giovanni:4
+1x Donatello Giovanni	5   DOM aus pot pre	 Giovanni:4
+1x Kay Polerno		4   dom nec pro		 Giovanni:5
+1x Prejudice		4   aus dom nec		 Nagaraja:4
+1x Primo Giovanni	4   dom nec pot		 Giovanni:4
+1x Thomasso Ghiberti	4   NEC pot		 Giovanni:4
+1x Nunzio Giovanni	3   nec pot		 Giovanni:4
+1x Stephen Milliner	3   nec pre		 Giovanni:5
+1x Cristobal Ghiberti	2   nec			 Giovanni:4
+
+Library (90 cards)
+Master (17; 1 trifle)
+1x Anarch Troublemaker
+1x Creepshow Casino
+2x Direct Intervention
+1x Dis Pater
+1x Giant's Blood
+1x KRCG News Radio
+1x Morgue Hunting Ground
+4x Path of Bone, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Specialization
+1x Vessel
+1x WMRH Talk Radio
+
+Action (22)
+6x Govern the Unaligned
+1x Graverobbing
+1x Haunt
+14x Khazar's Diary (Endless Night)
+
+Ally (18)
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+1x Gregory Winter
+14x Shambling Hordes
+1x Tye Cooper
+
+Action Modifier (8)
+3x Call of the Hungry Dead
+3x Change of Target
+2x Conditioning
+
+Action Modifier/Reaction (6)
+6x Spectral Divination
+
+Reaction (13)
+5x Deflection
+4x On the Qui Vive
+3x Redirection
+1x Wake with Evening's Freshness
+
+Combat (3)
+2x Spiritual Intervention
+1x Trap
+
+Event (3)
+1x Blood Weakens
+1x FBI Special Affairs Division
+1x Unmasking, The

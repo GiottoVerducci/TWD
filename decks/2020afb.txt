@@ -1,0 +1,93 @@
+Abactor
+Fortaleza, Brazil
+September 13th 2020
+2R+F
+10 players
+Moacir Júnior
+https://www.vekn.net/event-calendar/event/9684
+
+-- 1GW4 + 2VP in final
+
+Deck Name: Robbing and Rapeing
+Created by: Moacir Rodrigues Jr
+
+Description: No violence
+
+Crypt (12 cards, min=39, max=44, avg=10.5)
+------------------------------------------
+5x Mistress Fanchon		11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+1x Elimelech the Twice-Damned	11  AUS DEM DOM FOR OBF pro			Ventrue antitribu:5
+1x Rafael de Corazon		11  AUS CEL DOM OBF PRE		inner circle	Toreador:4
+1x Alonso Petrodon		10  ANI DOM OBF POT for tha	justicar	Nosferatu:5
+1x Gabrielle di Righetti	10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+1x Luna Giovanni		10  DOM NEC OBF OBT POT cel	1 vote		Giovanni:5
+1x Servius Marius Pustula	10  ANI CHI DOM OBT POT obf			Nosferatu antitribu:4
+1x Orlando Oriundus		9   AUS DOM THA obf		bishop		Tremere antitribu:4
+
+Library (90 cards)
+Master (20; 5 trifle)
+6x Ashur Tablets
+1x Cavalier
+1x Dreams of the Sphinx
+1x Golconda: Inner Peace
+2x Heidelberg Castle, Germany
+1x Metro Underground
+1x Monastery of Shadows
+2x Protean
+4x Villein
+1x Wash
+
+Action (16)
+1x Abactor
+1x Dominate Kine
+1x Dual Form
+1x Far Mastery
+2x Govern the Unaligned
+1x Magic of the Smith
+7x Mind Rape
+1x Name Forgotten, The
+1x Rutor's Hand
+
+Equipment (5)
+1x AK-47
+1x Heart of Nizchetus
+1x Helicopter
+1x Palatial Estate
+1x Signet of King Saul, The
+
+Political Action (8)
+1x Alastor
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+1x Disputed Territory
+1x Kindred Segregation
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (20)
+2x Cloak the Gathering
+1x Conditioning
+4x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+3x Forgotten Labyrinth
+1x Horrific Countenance
+3x Into Thin Air
+3x Seduction
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (19)
+3x Deflection
+1x Eluding the Arms of Morpheus
+3x Eyes of Argus
+1x My Enemy's Enemy
+5x Obedience
+4x On the Qui Vive
+1x Redirection
+1x Telepathic Misdirection
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,81 @@
+The Monster of BOB's
+São Paulo, Brazil
+July 11th 2009
+3R+F
+17 players
+Carlos Eduardo Ganso
+
+-- 3GW11 + 4VP in final
+
+Deck Name: Imbued - Monster Hunter of BOBs
+
+Crypt (12 cards, min=13, max=19, avg=4)
+---------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+3x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+3x François "Warden" Loehr	3   def jud	 Judge:4
+2x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x Jennifer "Flame61" Vidisania	4   ven viz	 Avenger:4
+
+Library (90 cards)
+Master (26)
+6x Angel of Berlin
+1x Archon Investigation
+1x Barrens, The
+2x Church of Vindicated Faith, The
+1x Elder Library
+1x Fear of Mekhet
+1x Gambit Accepted
+1x KRCG News Radio
+1x Millicent Smith, Puritan Vampire Hunter
+1x Mob Connections
+1x Momentum's Edge
+1x Not to Be
+2x Parthenon, The
+1x Police Department
+1x Powerbase: Chicago
+2x Tension in the Ranks
+2x Visit from the Capuchin
+
+Conviction (19)
+5x React with Conviction
+7x Second Sight
+7x Strike with Conviction
+
+Action (3)
+1x Aranthebes, The Immortal
+2x Arson
+
+Ally (3)
+1x Carlton Van Wyk
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (12)
+2x AK-47
+2x Crusader Sword, The
+1x Heart of Nizchetus
+3x IR Goggles
+1x Ivory Bow
+2x Leather Jacket
+1x Mark V
+
+Power (14)
+2x Champion
+4x Discern
+3x Rejuvenate
+5x Vigilance
+
+Reaction (6)
+5x Determine
+1x Poison Pill
+
+Combat (2)
+2x Dodge
+
+Event (5)
+1x Anthelios, The Red Star
+1x Dr. Marisa Fletcher, CDC
+1x Dragonbound
+1x Unmasking, The
+1x Veil of Darkness

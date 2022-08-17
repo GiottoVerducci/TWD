@@ -1,0 +1,57 @@
+Belgian ECQ
+Bruxelles, Belgium
+August 11th 2013
+3R+F
+22 players
+Sahan Abeln
+
+Deck Name: Belgian ECQ 2013
+
+Crypt (13 cards, min=22, max=36, avg=7.46)
+------------------------------------------
+4x Nangila Were	  9   ANI POT PRE obf ser  Guruhi:4
+4x Nana Buruku	  8   ANI POT PRE	   Guruhi:4
+2x Fish		  5   ANI POT pre	   Guruhi:4
+1x Maskini	  7   ANI POT PRE SER abo  Guruhi:4
+1x Batsheva (ADV) 6   ANI PRE obt pot	   Guruhi:4
+1x Sundown	  6   ANI POT obf pre	   Nosferatu:3
+
+Library (90 cards)
+Master (35; 15 trifle)
+12x Ashur Tablets
+1x Depravity
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Guardian Angel
+2x Liquidation
+8x Orun
+1x Pentex(TM) Subversion
+2x Vessel
+4x Villein
+1x Wider View
+
+Action (14)
+5x Brutal Influence
+4x Deep Song
+1x Entrancement
+1x Exile
+1x Heroic Might
+2x Preternatural Strength
+
+Action Modifier (5)
+4x Guruhi Are the Land, The
+1x Strange Day
+
+Reaction (7)
+3x Cats' Guidance
+1x Lost in Translation
+3x Sense the Savage Way
+
+Combat (29)
+1x Canine Horde
+9x Carrion Crows
+7x Immortal Grapple
+6x Slam
+2x Target Vitals
+4x Taste of Vitae

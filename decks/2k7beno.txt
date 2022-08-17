@@ -1,0 +1,70 @@
+Biothaumaturgic Experiment
+Newark, Ohio
+June 15th 2007
+12 players
+Bob Joseph
+
+Deck Name: Imbued 1.0
+
+Description: Thanks to Matthew Morgan for the idea.
+
+Crypt (12 cards, min=12, max=21, avg=4.08)
+------------------------------------------
+2x Travis "Traveler72" Miller	 5   def mar	  Martyr:4
+1x Earl "Shaka74" Deams		 6   jud mar viz  Visionary:4
+1x Jennie "Cassie247" Orne	 5   inn jud viz  Visionary:4
+1x Erick "Shophet125" Franco	 4   inn jud	  Judge:4
+1x Leaf "Potter116" Pankowski	 4   inn red viz  Redeemer:4
+1x Maman Boumba			 4   inn mar	  Martyr:4
+1x Paul "Sixofswords29" Moreton	 4   def vis	  Visionary:4
+1x Xian "DziDzat155" Quan	 4   def inn	  Defender:4
+1x Béatrice "Oracle171" Tremblay 3   inn ven	  Innocent:4
+1x Inez "Nurse216" Villagrande	 3   inn	  Innocent:4
+1x Liz "Ticket312" Thornton	 2   inn red	  Innocent:4
+
+Library (72 cards)
+Master (21)
+1x Anarch Troublemaker
+4x Angel of Berlin
+1x Brothers Grimm
+1x Church of Vindicated Faith, The
+1x Direct Intervention
+1x Elder Library
+1x Fortschritt Library
+1x Information Highway
+5x Memories of Mortality
+1x Parthenon, The
+1x Rose Foundation, The
+2x Sudden Reversal
+1x Unity
+
+Conviction (21)
+7x React with Conviction
+7x Second Sight
+7x Strike with Conviction
+
+Ally (2)
+1x Carlton Van Wyk
+1x Vagabond Mystic
+
+Equipment (2)
+1x Crusader Sword, The
+1x Ivory Bow
+
+Power (18)
+2x Champion
+5x Donate
+1x Hide
+4x Inspire
+1x Project
+4x Rejuvenate
+1x Vigilance
+
+Reaction (4)
+4x Determine
+
+Event (4)
+1x Anthelios, The Red Star
+1x Edge Explosion
+1x Thirst
+1x Unmasking, The

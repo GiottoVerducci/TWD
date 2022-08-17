@@ -1,0 +1,73 @@
+Sede de Vitae Prt 2
+Online
+May 3rd 2021 -- May 7th 2021
+2R+F
+26 players
+Delmar Sittoni
+https://www.vekn.net/event-calendar/event/9788
+
+-- 4vps in the finals
+
+Author: Delmar
+Deck Name: Lutz Safadão
+
+Crypt (12 cards, min=6, max=44, avg=5.33)
+-----------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
+1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE  inner circle	Toreador:4
+1x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
+1x Lubomira Hradok	 3   OBF		  		Nosferatu antitribu:5
+1x Alu			 2   obf		  		Assamite:5
+1x Bloodfeud		 2   obf		  		Malkavian antitribu:4
+1x Denette Stensen	 2   obf		  		Gangrel antitribu:4
+1x New Blood		 2   san		  		Blood Brother:ANY
+1x Anarch Convert	 1   -none-		  		Caitiff:ANY
+1x César Holfield	 1   obf		  		Caitiff:4
+
+Library (69 cards)
+Master (21; 9 trifle)
+1x Creepshow Casino
+3x Dreams of the Sphinx
+1x Giant's Blood
+3x Information Highway
+1x Jake Washington
+1x Legendary Vampire
+1x Monastery of Shadows
+1x Parthenon, The
+7x Villein
+2x Wider View
+
+Action (2)
+2x Entrancement
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (16)
+1x Ancient Influence
+1x Banishment
+2x Conservative Agitation
+1x Domain Challenge
+8x Kine Resources Contested
+2x Neonate Breach
+1x Reins of Power
+
+Action Modifier (20)
+1x Awe
+1x Cloak the Gathering
+1x Elder Impersonation
+1x Faceless Night
+4x Forgotten Labyrinth
+3x Lost in Crowds
+3x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (7)
+3x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (1)
+1x No Trace

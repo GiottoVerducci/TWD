@@ -1,0 +1,73 @@
+Wind Dance
+Boston, Massachusetts
+January 18th 2003
+13 players
+Ben Peal
+
+Second Guess Corral
+
+It's hardly the most original deck - it's based on Colin Riggs'
+winning deck from a recent DC tournament. I just didn't like
+the fact that its only defensive option is to go upstream, so
+I dropped a few Bum's Rushes and the Computer Hackings and
+Arsons, and put in some wakes, bleed bounce/reduction, and light
+intercept. It didn't run very consistently, and I think 9 or 10
+guns and 9 or 10 Concealed Weapons may be the way to go, as I
+had some difficulty getting a gun early on in a couple games.
+Some of the consistency problems were likely the result of the
+increased number of fight decks and reduced number of bleed decks,
+reducing the effectiveness of the defense. The intercept did
+prove to be quite handy.
+
+Here's Colin Riggs' deck, for comparison:
+
+http://www.veknfrance.com/decks/twd.htm#2k2legalmanip
+
+Thank to all who showed up! It was great to see the turnout!
+
+- Ben Peal
+
+Crypt (12 cards, min=6, max=19, avg=3)
+--------------------------------------
+1x Kallista, Master Sculptor	6   AUS CEL pre pro	Toreador:1
+1x Felicia Mostrom		5   AUS CEL pre		Toreador:1
+1x Dorian Strack		4   AUS cel		Toreador:1
+1x Victor Tolliver		4   CEL pot		Brujah antitribu:2
+1x Isabel de Leon		3   AUS			Toreador:2
+1x Sarah Brando			3   CEL			Brujah antitribu:2
+1x Zöe				3   AUS cel obf		Malkavian:2
+1x Angel			2   cel			Brujah:1
+1x Carter			2   cel			Toreador antitribu:2
+1x Kanya Akhtar			2   cel			Assamite:2
+1x Antoinette DuChamp		1   cel pre		Caitiff:2
+1x Nik				1   cel			Caitiff:1
+
+Library (90 cards)
+Master (14)
+1x Barrens, The
+4x Blood Doll
+3x Celerity
+2x Dreams of the Sphinx
+2x Fame
+2x Sudden Reversal
+
+Action (10)
+10x Bum's Rush
+
+Equipment (8)
+7x .44 Magnum
+1x Saturday-Night Special
+
+Reaction (20)
+4x Enhanced Senses
+3x Forced Awakening
+4x Telepathic Counter
+6x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (38)
+4x Blur
+8x Concealed Weapon
+8x Psyche!
+12x Pursuit
+6x Side Strike

@@ -1,0 +1,66 @@
+New York City Tournament
+New York City, New York
+January 16th 2010
+2R+F
+10 players
+Shawn Stanley
+
+Deck with no name
+by Shawn Stanley
+
+Crypt (12 cards, min=6, max=34, avg=4.67)
+-----------------------------------------
+2x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+2x Tupdog		   1   POT VIS		    		  Gargoyle:3
+1x Stavros		   7   AUS OBF PRE dem	    priscus	  Malkavian antitribu:4
+1x Victor Pelletier	   5   PRE cel dom for	    		  Ventrue:4
+1x Loonar		   4   PRE cel		    		  Toreador antitribu:4
+1x Reginald Moore	   4   PRE		    primogen	  Brujah:4
+1x Robin Withers	   4   dom obf pre	    		  Ventrue:4
+1x Thomas De Lutrius	   4   aus cel pre	    primogen	  Toreador:4
+1x Emerson Wilkershire III 2   pre		    		  Toreador:3
+1x Justine Chen, Innocent  2   pre		    		  Toreador antitribu:4
+
+Library (80 cards)
+Master (15; 6 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Black Forest Base
+1x Ventrue Headquarters
+4x Villein
+2x Wash
+
+Action (11)
+1x Aranthebes, The Immortal
+1x Blithe Acceptance
+3x Enchant Kindred
+2x Entrancement
+1x Intimidation
+3x Public Trust
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (2)
+2x Helicopter
+
+Political Action (20)
+2x Banishment
+2x Conservative Agitation
+3x Domain Challenge
+6x Kine Resources Contested
+2x Meddling of Semsith, The
+3x Neonate Breach
+1x Reins of Power
+1x Year of Fortune
+
+Action Modifier (21)
+2x Awe
+5x Cloak the Gathering
+4x Forgotten Labyrinth
+5x Veil the Legions
+5x Voter Captivation
+
+Combat (10)
+7x Majesty
+3x Staredown

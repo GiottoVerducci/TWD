@@ -1,0 +1,81 @@
+Feijocards III
+Fortaleza, Brazil
+November 6th 2016
+2R+F
+11 players
+Maria Vitória
+https://www.vekn.net/event-calendar/event/8500
+
+-- 1.5VP in final
+
+Crypt (14 cards, min=21, max=38, avg=7.64)
+------------------------------------------
+4x Paul Cordwood	8   AUS DOM THA obf pre		bishop	    Tremere antitribu:4
+2x Lernean		10  AUS CEL DOM THA for pro	cardinal    Tremere antitribu:4
+2x Malgorzata		9   AUS DOM THA VIC pre		priscus	    Tremere antitribu:4
+1x Eric Kressida	8   AUS DOM PRO THA cel		bishop	    Tremere antitribu:4
+1x Uta Kovacs		8   AUS DOM THA ser			    Tremere antitribu:4
+1x Ash Harrison		7   AUS THA cel dom			    Tremere antitribu:5
+1x Johannes Worringen	6   AUS THA dom			archbishop  Tremere antitribu:5
+1x Frondator		5   AUS dom tha			bishop	    Tremere antitribu:4
+1x Keith Moody		3   DOM					    Tremere antitribu:4
+
+Library (90 cards)
+Master (18; 4 trifle)
+1x Effective Management
+1x Elysium: Sforzesco Castle
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Heidelberg Castle, Germany
+1x Humanitas
+1x Hungry Coyote, The
+1x Information Highway
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Rack, The
+1x Secure Haven
+1x Spirit Summoning Chamber
+1x University Hunting Ground
+3x Vessel
+1x Wash
+
+Action (8)
+5x Govern the Unaligned
+1x Graverobbing
+1x Pulse of the Canaille
+1x Rutor's Hand
+
+Ally (2)
+1x Hexaped
+1x Procurer
+
+Equipment (3)
+1x Bowl of Convergence
+1x Palatial Estate
+1x Ruins of Ceoris
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (13)
+6x Mirror Walk
+4x Seduction
+3x Threats
+
+Reaction (22)
+4x Deflection
+2x Eagle's Sight
+4x Enhanced Senses
+4x Forced Awakening
+4x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (22)
+6x Apportation
+3x Blood to Water
+1x Rego Motum
+2x Telepathic Tracking
+3x Theft of Vitae
+3x Walk of Flame
+4x Wind Dance

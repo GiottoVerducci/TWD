@@ -1,0 +1,61 @@
+Gateway Event 2
+Los Angeles, California
+September 1st 2001
+Robert Goudie
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ZLzYoNmk3k0
+
+Deck Name: Whole Lotta Faces
+
+Description: The deck was created rather quickly to take advantage of the
+"multiple action modifiers of the same type" loophole found in Mask 1k. The
+idea was to use Mask 1k to be able to play multiple Command of the Beast on the
+same action. Also, Mask is easy enough to cycle if they decide not to block me
+so I can cycle readily.
+
+I think the concept is strong but the execution really isn't good at all. The
+deck was never playtested and wasn't finished until a few minutes before the
+event started. It is missing Master Cards and has too few Govern bleeds and a
+number of other things I'd tweak. The deck also jams massively on stealth. In
+the prelims I had Anarch decks at my tables and the 4 cap vampires and some
+quick bleeds helped me oust my preys. In the finals, I was fortunate enough to
+have the end-game come down to Jason Dawson and myself. Jason was playing a
+heavy heavy auspex intercept deck. Jason's hearty block attempts at 4-6
+intercept were just what my over-stealthed deck needed to cycle for the bleed
+cards. It was fate.
+
+Crypt (12 cards, min=17, max=28, avg=5.67)
+------------------------------------------
+2x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
+2x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
+2x Didi Meyers		5   DOM aus cel obf		Malkavian:1
+1x Greger Anderssen	7   AUS OBF dom pro	prince	Malkavian:2
+1x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
+1x Zebulon		5   OBF aus dom pro		Malkavian:1
+1x Ingrid Russo		4   DOM for			Ventrue antitribu:2
+1x Laurent de Valois	4   ani dom obf			Nosferatu:2
+1x Roland Bishop	4   aus dom obf			Malkavian:1
+
+Library (90 cards)
+Master (5)
+5x Blood Doll
+
+Action (13)
+10x Govern the Unaligned
+3x Night Moves
+
+Action Modifier (60)
+7x Bonding
+6x Cloak the Gathering
+14x Command of the Beast
+6x Conditioning
+3x Elder Impersonation
+2x Faceless Night
+7x Lost in Crowds
+12x Mask of a Thousand Faces
+3x Spying Mission
+
+Action Modifier/Combat (9)
+9x Swallowed by the Night
+
+Reaction (3)
+3x Redirection

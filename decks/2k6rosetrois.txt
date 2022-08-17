@@ -1,0 +1,62 @@
+Rose Foundation
+La Guilde du Joueur, Trois-Rivières, Quebec
+August 26th 2006
+3R+F
+15 players
+Marc Desaulniers
+
+Deck Name: Hordes of Liquidators
+
+Description: Based on Amiel Feldman's Family Business deck.
+
+Crypt (12 cards, min=13, max=26, avg=4.83)
+------------------------------------------
+3x Andrea Giovanni  7	DOM NEC pot vic	 Giovanni:2
+3x Rudolfo Giovanni 3	NEC		 Giovanni:2
+2x Isabel Giovanni  5	DOM NEC pot	 Giovanni:2
+2x Le Dinh Tho	    5	NEC aus dom	 Nagaraja:2
+2x Gloria Giovanni  4	DOM nec		 Giovanni:2
+
+Library (90 cards)
+Master (39)
+4x Acquired Ventrue Assets
+4x Blood Doll
+1x Charisma
+3x Direct Intervention
+1x Dis Pater
+2x Fame
+1x Fortschritt Library
+1x Giant's Blood
+8x Liquidation
+4x Memories of Mortality
+5x Parthenon, The
+3x Path of Bone, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+
+Action (10)
+4x Govern the Unaligned
+1x Graverobbing
+5x Sudario Refraction
+
+Ally (21)
+1x Felix "Fix" Hessian
+1x Leonardo, Mortician
+1x Repo Man
+18x Shambling Hordes
+
+Equipment (3)
+3x Unlicensed Taxicab
+
+Action Modifier (9)
+6x Call of the Hungry Dead
+2x Conditioning
+1x Foreshadowing Destruction
+
+Combat (4)
+4x Trap
+
+Event (4)
+1x Anthelios, The Red Star
+1x FBI Special Affairs Division
+2x Unmasking, The

@@ -1,0 +1,78 @@
+ACC 2010
+Singapore, Singapore
+November 21st 2010
+3R+F
+15 players
+Stephen Sing
+
+-- 3VP in final
+
+Magical History
+
+Crypt (12 cards, min=12, max=32, avg=5.67)
+------------------------------------------
+5x Ian Forestal		8   AUS DOM THA		 	 Tremere antitribu:2
+1x Reverend Blackwood	6   DOM THA obf		 bishop	 Tremere antitribu:2
+1x Catherine du Bois	5   DOM for obf pre	 	 Ventrue:3
+1x Cristos Mantigo	5   aus cel dom obf pre	 	 Toreador antitribu:3
+1x Laurent de Valois	4   ani dom obf		 	 Nosferatu:2
+1x Brooke		3   dom tha		 	 Tremere antitribu:2
+1x Saiz			3   aus dom		 	 Tremere antitribu:3
+1x Hanna Redmonds	2   obf tha		 	 Caitiff:3
+
+Library (90 cards)
+Master (23; 6 trifle)
+6x Ashur Tablets
+1x Creepshow Casino
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Infernal Pact
+1x Obfuscate
+1x Perfectionist
+1x Spontaneous Power
+2x Vessel
+2x Villein
+2x Wider View
+
+Action (17)
+7x Govern the Unaligned
+10x Summon History
+
+Ally (10)
+1x Carlton Van Wyk
+1x High Top
+1x Mylan Horseed
+1x Remnant of the Endless Storm
+1x Renegade Garou
+1x Rock Cat
+1x Tutu the Doubly Evil One
+1x Tye Cooper
+1x Veneficti
+1x War Ghoul
+
+Equipment (4)
+1x Amulet of Temporal Perception
+1x Ankara Citadel, Turkey, The
+1x Assault Rifle
+1x Heart of Nizchetus
+
+Action Modifier (17)
+2x Conditioning
+4x Domain of Evernight
+5x Forgotten Labyrinth
+2x Lost in Crowds
+2x Mirror Walk
+2x Seduction
+
+Reaction (8)
+6x Deflection
+2x On the Qui Vive
+
+Combat (10)
+4x Outside the Hourglass
+6x Rego Motum
+
+Event (1)
+1x Unmasking, The

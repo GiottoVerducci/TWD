@@ -1,0 +1,63 @@
+Eyes of the Dead IV
+Helsinki, Finland
+March 17th 2012
+3R+F
+19 players
+Matias Frosterus
+
+-- 3.5VP in final
+
+Deck Name: 15 Nocturns in the Night
+
+Description: A Nocturn deck with quite a few ways to bleed for more
+than one with the Nocturns thus messing up the prey's math.
+
+Crypt (12 cards, min=16, max=25, avg=5.08)
+------------------------------------------
+2x Onaedo		 6   DOM OBT aus pot		Lasombra:4
+2x Andrew Emory		 5   OBT aus dom pot	bishop	Lasombra:4
+2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+1x Lord Vauxhall	 7   DOM OBT POT THA		Lasombra:4
+1x Isanwayen		 6   DOM MYT OBT		Kiasyd:4
+1x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
+1x Leila Monroe		 4   dom obt pre		Lasombra:4
+1x Quincy, The Trapper	 4   dom myt obt		Kiasyd:3
+1x Lucy Markowitz	 3   dom obt			Lasombra:4
+
+Library (89 cards)
+Master (15; 1 trifle)
+4x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fortschritt Library
+5x Path of Night, The
+1x Pentex(TM) Subversion
+1x Wider View
+
+Action (10)
+4x Computer Hacking
+6x Govern the Unaligned
+
+Ally (15)
+15x Nocturn
+
+Action Modifier (22)
+5x Change of Target
+2x Conditioning
+3x Empowering the Puppet King
+3x Leverage
+3x Shadow Play
+2x Shroud of Absence
+4x Shroud of Night
+
+Reaction (16)
+7x Deflection
+3x Eyes of the Night
+6x On the Qui Vive
+
+Combat (10)
+8x Arms of the Abyss
+2x Disarm
+
+Event (1)
+1x Unmasking, The

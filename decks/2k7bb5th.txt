@@ -1,0 +1,78 @@
+BloodBATH 2007: Fifth Tradition
+Bath, England
+July 14th 2007
+17 players
+Paul Reid-Bowen
+
+Deck Name: The Alchemists (aka. the octarine killing machine)
+
+This take on the Nephandi swarm bleed has evolved over a couple of
+years (beginning in the pre-Antonio d'Erlette days with a Marino
+Reymundo Vasquez, Giovanni, Nephandi and Shambling Hordes version)
+and progressing to the very focused current version. It is quite
+abusive against light and non-combat decks, pleasantly burning
+Alexandra in the UKECQ with molotovs, and typically with these type of
+decks kills with weight of numbers. EtPK is an excellent oust
+accelerator, particularly coupled with Computer Hacks, and the Life in
+the City are essential for keeping vampires topped up due to the
+attrition from deflects, blood dolls and EtPK. Clearly the deck has
+problems with focused combat, stealth-bleed and stealth-politics, but
+does very well in a neutral environment.
+
+Constructively, I forgot to add two delaying tactics at the Bloodbath
+2007 tournament (although two more DIs might be better) and this deck
+is becoming an increasingly risky strategy when faced with high levels
+of Entrancement and Far Mastery. Eight Molotovs is probably excessive
+(six would be fine), an extra Deflect and On the Qui Vive would be
+good replacements. Concealed Flash Grenades and the Life in the City
+are pure gold. Some people prefer more Memories, but it hasn't proved
+essential so far, particularly with the Flash Grenades; plus I seem to
+keep forgetting to add a Vagabond Mystic.
+
+Basically an effective and fun deck with fairly obvious weaknesses; it
+is also strong against Imbued, having ousted them on three occasions
+in the past, which can't be bad.
+
+Crypt (12 cards, min=12, max=20, avg=4)
+---------------------------------------
+5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
+2x Janine		4   aus dom tha		Tremere antitribu:4
+2x Ember Wright		3   aus dom		Tremere antitribu:3
+2x Keith Moody		3   DOM			Tremere antitribu:4
+1x Saiz			3   aus dom		Tremere antitribu:3
+
+Library (88 cards)
+Master (22; 6 trifle)
+5x Blood Doll
+2x Direct Intervention
+3x Haven Uncovered
+1x Information Highway
+6x Life in the City
+3x Memories of Mortality
+1x Mob Connections
+1x Secure Haven
+
+Action (6)
+6x Computer Hacking
+
+Ally (9)
+8x Nephandus
+1x Ossian
+
+Equipment (8)
+8x Flash Grenade
+
+Action Modifier (8)
+8x Empowering the Puppet King
+
+Reaction (16)
+8x Deflection
+8x On the Qui Vive
+
+Combat (16)
+8x Concealed Weapon
+8x Molotov Cocktail
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

@@ -1,0 +1,91 @@
+Crusade
+Melbourne, Australia
+March 1st 2009
+10 players
+Richard Aumann
+
+-- 3VP in final
+
+Deck Name: Outrun the Worms 1.3
+
+Description: Speed is the game.. Require wormwood turn 2. Using
+Afifa's special text to go forward with Gehenna cards and Anna's text
+to placate opposition players. Nehemiah helps the library cycle cards
+speed through the deck.
+
+Crypt (12 cards, min=4, max=36, avg=5.33)
+-----------------------------------------
+4x Nehemiah			9   POT PRE SER TEM obt	 2 votes  True Brujah:4
+4x Anna "Dictatrix11" Suljic	6   mar red viz		 	  Martyr:4
+4x Afifa, The Herald		1   dom			 	  Caitiff:4
+
+Library (75 cards)
+Master (15; 5 trifle)
+4x Dreams of the Sphinx
+2x Fortschritt Library
+1x Jake Washington
+2x Life in the City
+1x Secret Passage
+1x Servitor of Irad
+1x Tabriz Assembly
+3x Vessel
+
+Conviction (5)
+1x React with Conviction
+2x Second Sight
+2x Strike with Conviction
+
+Action (4)
+1x Entrancement
+2x Hourglass of the Mind
+1x Preternatural Strength
+
+Ally (3)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Vagabond Mystic
+
+Equipment (2)
+1x Flak Jacket
+1x Ivory Bow
+
+Political Action (2)
+1x Camarilla Threat
+1x Snipe Hunt
+
+Power (3)
+2x Project
+1x Respire
+
+Action Modifier (5)
+1x Domain of Evernight
+1x Iron Glare
+2x Leverage
+1x Tangle Atropos' Hand
+
+Reaction (5)
+2x Determine
+3x On the Qui Vive
+
+Combat (13)
+1x Cobra Fangs
+4x Dodge
+4x Glancing Blow
+2x Majesty
+2x Target Vitals
+
+Event (18)
+1x Absimiliard's Army
+1x Anthelios, The Red Star
+1x Blood Trade
+1x Blood Weakens
+1x Break the Code
+1x Conquest of Humanity
+1x Fall of the Camarilla
+1x Nightmares upon Nightmares
+1x Restricted Vitae
+1x Slow Withering, The
+1x Thirst
+1x Torpid Blood
+1x Unmasking, The
+5x Wormwood

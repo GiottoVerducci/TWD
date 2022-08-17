@@ -1,0 +1,62 @@
+Snocon
+Umea, Sweden
+January 3rd 2004
+12 players
+Robert Holmberg
+
+Deck Name: Omaya säger nej
+
+Crypt (12 cards, min=12, max=33, avg=5.92)
+------------------------------------------
+4x Omaya		 7   ANI AUS FOR pro			 Gangrel antitribu:2
+2x Nadima		 8   FOR PRO SER ani aus		 Gangrel:3
+2x Dr. Allan Woodstock	 5   PRO ani aus for			 Gangrel:3
+1x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha	2 votes	 Gangrel:3
+1x Monique		 5   ani aus for pro			 Gangrel antitribu:2
+1x Huang, Blood Cultist	 1   pro				 Pander:2
+1x March Halcyon	 1   for				 Pander:2
+
+Library (90 cards)
+Master (18)
+1x Auspex
+5x Blood Doll
+1x Campground Hunting Ground
+1x Elder Library
+1x Powerbase: Chicago
+3x Protean
+1x Rack, The
+2x Smiling Jack, The Anarch
+1x Sudden Reversal
+1x Talons of the Dead
+1x Zoo Hunting Ground
+
+Action (3)
+2x Army of Rats
+1x Revelations
+
+Equipment (3)
+1x Flak Jacket
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (6)
+1x Homunculus
+1x Mr. Winthrop
+1x Owl Companion
+3x Raven Spy
+
+Reaction (32)
+7x Cats' Guidance
+7x Eagle's Sight
+2x Enhanced Senses
+7x Forced Awakening
+1x My Enemy's Enemy
+2x Precognition
+3x Read the Winds
+3x Telepathic Misdirection
+
+Combat (28)
+5x Claws of the Dead
+14x Earth Meld
+2x Skin of Steel
+7x Unflinching Persistence

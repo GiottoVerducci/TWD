@@ -1,0 +1,61 @@
+Polish League Final
+Pszczyna, Poland
+December 1st 2012
+3R+F
+27 players
+Tomasz Kowalewski
+
+Deck Name: Anarch_Goratrix v1.1
+
+Crypt (12 cards, min=4, max=40, avg=5.92)
+-----------------------------------------
+4x Goratrix		10  ANI AUS DOM THA vic	 	   Tremere antitribu:2
+4x Anarch Convert	1   -none-		 	   Caitiff:ANY
+2x Omaya		7   ANI AUS FOR pro	 	   Gangrel antitribu:2
+1x Anastasz di Zagreb	8   AUS THA ani cel dom	 justicar  Tremere:3
+1x Devin Bisley		5   ANI AUS vic		 	   Tzimisce:2
+
+Library (90 cards)
+Master (21; 8 trifle)
+5x Anarch Revolt
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Guardian Angel
+1x Lilith's Blessing
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Vessel
+5x Villein
+1x Wider View
+
+Action (5)
+1x Army of Rats
+4x Magic of the Smith
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (5)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Ruins of Ceoris
+
+Action Modifier (2)
+2x Enkil Cog
+
+Reaction (46)
+7x Cats' Guidance
+7x Eagle's Sight
+2x Enhanced Senses
+10x Eyes of Argus
+3x My Enemy's Enemy
+2x On the Qui Vive
+8x Sense the Savage Way
+7x Telepathic Misdirection
+
+Combat (9)
+2x Canine Horde
+7x Carrion Crows

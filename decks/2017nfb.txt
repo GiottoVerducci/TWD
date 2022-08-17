@@ -1,0 +1,55 @@
+Nordestão 2017
+Fortaleza, Brazil
+May 20th 2017
+3R+F
+15 players
+David Orck
+https://www.vekn.net/event-calendar/event/8662
+
+-- 3VP in final
+
+Deck Name: Bonde do Hordão
+
+Crypt (12 cards, min=12, max=40, avg=5.33)
+------------------------------------------
+8x Horde, The	3   dai obf pre		 Baali:6
+4x unnamed, The	10  CEL DAI OBF PRE PRO	 Baali:6
+
+Library (82 cards)
+Master (23; 2 trifle)
+2x Archon Investigation
+2x Blood Doll
+1x Giant's Blood
+1x Metro Underground
+1x Monastery of Shadows
+2x Parthenon, The
+1x Ruins of Charizel
+1x Secure Haven
+10x Tend the Flock
+2x Vessel
+
+Action (19)
+12x Legal Manipulations
+4x Media Influence
+3x Unleash Hell's Fury
+
+Ally (2)
+1x Mylan Horseed
+1x Veneficti
+
+Action Modifier (30)
+6x Cloak the Gathering
+4x Elder Impersonation
+2x Enkil Cog
+2x Faceless Night
+2x I am Legion
+4x Instantaneous Transformation
+6x Lost in Crowds
+2x Spying Mission
+2x Veil the Legions
+
+Reaction (4)
+4x Eluding the Arms of Morpheus
+
+Combat (4)
+4x Majesty

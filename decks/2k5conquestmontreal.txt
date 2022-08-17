@@ -1,0 +1,54 @@
+Conquest of Humanity
+Montreal, Quebec
+August 13th 2005
+3R+F
+13 players
+Hugues Bertrand
+
+Ventrue Power!
+
+This deck is geared around Arika and Marcus Vitel. It is quite slow to
+start but once it gets going it is hard to stop. Since Dramatic
+Upheaval and Kindred Restructure were made illegal in tournaments the
+deck has weakened but it is still quite powerful. It is quite
+vulnerable to combat decks and those who start quickly such as B/S and
+weenie decks. The freakdrives make-up for the size of the vamps by
+allowing for many actions per turn.This deck deals quite well with
+intercept decks.
+
+Crypt (12 cards, min=30, max=44, avg=9.5)
+-----------------------------------------
+4x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+4x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+2x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+2x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+
+Library (90 cards)
+Master (12)
+2x Golconda: Inner Peace
+8x Minion Tap
+2x Secure Haven
+
+Action (4)
+4x Govern the Unaligned
+
+Political Action (16)
+3x Anarchist Uprising
+3x Ancilla Empowerment
+4x Banishment
+3x Kine Resources Contested
+3x Protect Thine Own
+
+Action Modifier (47)
+7x Awe
+6x Conditioning
+2x Elder Impersonation
+3x Forgotten Labyrinth
+12x Freak Drive
+7x Lost in Crowds
+2x Seduction
+8x Voter Captivation
+
+Reaction (11)
+5x Deflection
+6x Obedience

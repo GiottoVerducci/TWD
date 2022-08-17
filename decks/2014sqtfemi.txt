@@ -1,0 +1,63 @@
+Survivalist Qualifier Tour Final Event
+Milan, Italy
+September 13th 2014
+2R+F
+20 players
+Riccardo Fabiani
+https://www.vekn.net/event-calendar/event/7762
+
+Deck Name: Pain is the new gain
+
+Description: Some good ol' punches and a sprinkle of politics and bleed.
+
+Crypt (12 cards, min=26, max=39, avg=8.42)
+------------------------------------------
+3x Armin Brenner   10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+3x Dark Selina	   9   CEL POT PRE dom for	cardinal    Brujah antitribu:5
+3x Hektor	   9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
+2x Gold Pan Dan	   6   POT PRE cel			    Brujah antitribu:5
+1x Axel Von Anders 5   PRE cel obf pot			    Brujah antitribu:4
+
+Library (90 cards)
+Master (15; 8 trifle)
+1x Amusement Park Hunting Ground
+1x Creepshow Casino
+1x Fame
+2x Gang Territory
+1x Guardian Angel
+1x Monastery of Shadows
+2x Vessel
+6x Villein
+
+Action (22)
+3x Abbot
+1x Aranthebes, The Immortal
+2x Entrancement
+3x Esprit de Corps
+2x Eternal Vigilance
+1x Heroic Might
+3x Preternatural Strength
+4x Show of Force
+3x Under Siege
+
+Political Action (9)
+3x Dogs of War
+5x Kine Resources Contested
+1x Neonate Breach
+
+Action Modifier (25)
+8x Forced March
+6x Iron Glare
+3x Perfect Paragon
+4x Spoils of War
+4x Voter Captivation
+
+Combat (18)
+2x Amaranth
+2x Disarm
+6x Immortal Grapple
+4x Skin of Steel
+4x Soak
+
+Event (1)
+1x Scourge of the Enochians

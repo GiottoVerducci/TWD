@@ -1,0 +1,69 @@
+Belgian NC 2011
+Outpost, Brussels, Belgium
+March 13th 2011
+30 players
+Peter Bouwman
+
+Deck Name: Freaky Politicians
+Created by: Jeroen van Oort
+
+An old skool Ventrue deck focussing on putting blood on uncontrolled
+vampires or use those cards to bleed heavily. Older versions had more
+freak drives. Thats were the name came from. This deck won the 2011
+Belgian National Championship on March 13, 2011 in the Outpost Gamestore
+in Brussels.
+
+Crypt (12 cards, min=16, max=30, avg=5.92)
+------------------------------------------
+2x Emerson Bridges		   8   DOM FOR PRE pot	prince	Ventrue:1
+2x Sir Walter Nash		   7   DOM FOR PRE	prince	Ventrue:1
+2x Timothy Crowley		   7   FOR PRE ani dom	prince	Ventrue:1
+1x Luccia Paciola		   6   DOM for pre		Ventrue:1
+1x Jazz Wentworth		   5   PRE dom for		Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		Ventrue:2
+1x Courtland Leighton		   4   dom for pre		Ventrue:1
+1x Violette Prentiss		   4   PRE dom			Ventrue:1
+1x Gideon Fontaine		   3   PRE			Ventrue:1
+
+Library (88 cards)
+Master (12; 3 trifle)
+2x Anarch Troublemaker
+1x Barrens, The
+2x Dreams of the Sphinx
+1x Island of Yiaros
+2x Life in the City
+1x Pentex(TM) Subversion
+2x Ventrue Headquarters
+1x Villein
+
+Action (18)
+4x Enchant Kindred
+2x Entrancement
+4x Fourth Tradition: The Accounting
+4x Govern the Unaligned
+4x Scouting Mission
+
+Political Action (17)
+4x Kine Resources Contested
+1x Neonate Breach
+7x Parity Shift
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Cairo
+1x Praxis Seizure: Geneva
+1x Ventrue Justicar
+
+Action Modifier (25)
+2x Awe
+4x Bewitching Oration
+5x Conditioning
+5x Freak Drive
+4x Seduction
+5x Voter Captivation
+
+Reaction (7)
+7x Deflection
+
+Combat (9)
+5x Majesty
+4x Soak

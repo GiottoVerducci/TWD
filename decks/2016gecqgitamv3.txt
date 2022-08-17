@@ -1,0 +1,68 @@
+German ECQ: Grapple in the Art Museum, Vol. 3
+Bad Nauheim, Germany
+June 25th 2016
+3R+F
+10 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/8369
+
+-- 1GW4.5 + 3VP in final
+
+Deck Name: The Era of the Small People II
+
+Crypt (13 cards, min=8, max=8, avg=2)
+-------------------------------------
+1x Aaron Duggan, Cameron's Toady 2   obt	Lasombra:2
+1x Boy Toy			 2   dem	Malkavian antitribu:2
+1x Carter			 2   cel	Toreador antitribu:2
+1x Christine Boscacci		 2   dom vic	Pander:2
+1x Dani				 2   ani	Nosferatu antitribu:2
+1x Frederick the Weak		 2   pre	Brujah antitribu:2
+1x Gillian Krader		 2   ani dem	Pander:2
+1x Heinrick Schlempt		 2   tha	Tremere antitribu:2
+1x Horatio			 2   vic	Tzimisce:2
+1x Mitchell, The Headhunter	 2   obt pot	Pander:2
+1x New Blood			 2   san	Blood Brother:ANY
+1x Sadie			 2   pro	Gangrel antitribu:2
+1x Samson			 2   dom	Ventrue antitribu:2
+
+Library (81 cards)
+Master (19)
+2x Archon Investigation
+1x Direct Intervention
+6x Effective Management
+3x Hungry Coyote, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+5x Tribute to the Master
+
+Action (7)
+3x Abbot
+1x Aranthebes, The Immortal
+3x Games of Instinct
+
+Ally (3)
+1x Carlton Van Wyk
+2x Ossian
+
+Equipment (8)
+6x Camera Phone
+1x Codex of the Edenic Groundskeepers
+1x Heart of Nizchetus
+
+Reaction (5)
+3x Delaying Tactics
+2x On the Qui Vive
+
+Combat (37)
+2x Boxed In
+2x Fake Out
+2x Glancing Blow
+2x Target Hand
+16x Target Vitals
+9x Weighted Walking Stick
+4x Zip Gun
+
+Event (2)
+1x Uncoiling, The
+1x Veil of Darkness

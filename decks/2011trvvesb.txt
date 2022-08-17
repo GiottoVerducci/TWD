@@ -1,0 +1,58 @@
+The Rising
+Vila Velha, Brazil
+March 12th 2011
+2R+F
+14 players
+João Augusto Sarcinelli
+
+Deck Name: Kid Bengala
+
+Crypt (12 cards, min=24, max=38, avg=7.67)
+------------------------------------------
+2x Ayo Igoli	    10	AUS CEL FOR PRE obf tha	 	   Ishtarri:4
+2x Undele	    9	CEL FOR obf pre ser	 magaji	   Ishtarri:5
+2x Ganhuru	    7	FOR PRE cel pro		 	   Ishtarri:4
+2x Ubende	    7	CEL PRE for obf qui	 magaji	   Ishtarri:4
+2x Honorine Ateba   6	FOR PRE cel nec		 	   Ishtarri:4
+1x Dmitra Ilyanova  9	CEL FOR POT PRE obf	 justicar  Brujah:5
+1x Victor Pelletier 5	PRE cel dom for		 	   Ventrue:4
+
+Library (90 cards)
+Master (10)
+1x Ancestor Spirit
+2x Glutton
+1x Information Highway
+2x Legendary Vampire
+2x Minion Tap
+2x Protected Resources
+
+Action (13)
+2x Charming Lobby
+4x Entrancement
+7x Public Trust
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (22)
+1x Ancient Influence
+3x Banishment
+4x Consanguineous Boon
+12x Kine Resources Contested
+1x Overseer
+1x Reins of Power
+
+Action Modifier (27)
+4x Awe
+4x Bewitching Oration
+8x Forced March
+4x Kiss of Ra, The
+7x Voter Captivation
+
+Action Modifier/Reaction (6)
+2x Ishtarri Kholo
+4x Scalpel Tongue
+
+Combat (11)
+9x Majesty
+2x Staredown

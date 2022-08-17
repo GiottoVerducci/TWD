@@ -1,0 +1,58 @@
+Consume the Dead
+Atlanta, Georgia
+September 29th 2009
+2R+F
+16 players
+Magnus Hultin
+
+-- 4VP in final
+
+Deck Name: Consume the Dead
+
+Crypt (12 cards, min=17, max=28, avg=5.58)
+------------------------------------------
+3x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
+2x Stefano Giovanni	6   DOM nec pot pre	Giovanni:2
+2x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Chas Giovanni Tello	4   DOM POT		Giovanni:2
+
+Library (90 cards)
+Master (14)
+2x Acquired Ventrue Assets
+1x Barrens, The
+4x Blood Doll
+1x Dis Pater
+2x Dreams of the Sphinx
+1x Morgue Hunting Ground
+2x Necromancy
+1x Powerbase: Cape Verde
+
+Action (16)
+12x Govern the Unaligned
+1x Graverobbing
+1x Possession
+2x Summon Soul
+
+Ally (2)
+1x Leonardo, Mortician
+1x Procurer
+
+Action Modifier (37)
+4x Bonding
+7x Call of the Hungry Dead
+2x Change of Target
+3x Foreshadowing Destruction
+10x Seduction
+3x Sleeping Mind, The
+8x Threats
+
+Reaction (15)
+6x Deflection
+3x Delaying Tactics
+3x Redirection
+3x Wake with Evening's Freshness
+
+Combat (6)
+6x Spiritual Intervention

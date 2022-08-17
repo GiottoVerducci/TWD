@@ -1,0 +1,70 @@
+Strike a Blow Against Imperialism!
+Newark, Ohio
+March 19th 2010
+2R+F
+15 players
+Rodd Closson
+
+Deck Name: The Mistresses' Men
+
+Crypt (12 cards, min=30, max=43, avg=9.17)
+------------------------------------------
+3x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+2x Troius		 8   AUS DOM THA cel		prince		Tremere:4
+2x Graham Gottesman	 7   DOM FOR obf pre tha	prince		Ventrue:5
+1x Dr. John Dee		 9   ANI AUS DOM THA chi	prince		Tremere:4
+1x Gerald Windham	 9   AUS DOM FOR THA				Tremere:5
+1x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
+
+Library (90 cards)
+Master (15; 6 trifle)
+1x Barrens, The
+2x Blood Doll
+1x Chantry
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Pentex(TM) Subversion
+2x Vessel
+4x Villein
+
+Action (11)
+10x Govern the Unaligned
+1x Rutor's Hand
+
+Ally (3)
+1x Carlton Van Wyk
+1x Ponticulus
+1x Procurer
+
+Equipment (2)
+1x Helicopter
+1x Ivory Bow
+
+Political Action (18)
+1x Ancient Influence
+2x Consanguineous Boon
+2x Honor the Elders
+8x Kine Resources Contested
+4x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (16)
+4x Conditioning
+4x Lost in Crowds
+6x Mirror Walk
+2x Telepathic Vote Counting
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (18)
+6x Deflection
+2x Eyes of Argus
+6x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (4)
+4x Rego Motum

@@ -1,0 +1,59 @@
+Carthage Remembered
+Mexico City, Mexico
+March 21st 2004
+22 players
+Andrés Hernández
+
+Crypt (12 cards, min=8, max=12, avg=2.67)
+-----------------------------------------
+1x Dollface			    3	aus obf		Malkavian:1
+1x Duck				    3	obf pot		Nosferatu:1
+1x Lena Rowe			    3	aus obf pre	Pander:2
+1x Panagos Levidis		    3	ani obf		Gangrel:2
+1x Regilio, The Seeker of Akhenaten 3	aus obf		Nosferatu:2
+1x Shannon Price, The Whisperer	    3	ani obf		Nosferatu antitribu:2
+1x Watenda			    3	obf		Malkavian:2
+1x Yorik			    3	dem obf		Malkavian antitribu:2
+1x Zöe				    3	AUS cel obf	Malkavian:2
+1x Dimple			    2	obf		Nosferatu:1
+1x Normal			    2	obf		Malkavian:1
+1x Basil			    1	obf		Pander:2
+
+Library (80 cards)
+Master (16; 3 trifle)
+1x Archon Investigation
+2x Asylum Hunting Ground
+3x Dummy Corporation
+5x Effective Management
+1x Fragment of the Book of Nod
+3x Life in the City
+1x Sudden Reversal
+
+Action (18)
+18x Computer Hacking
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (5)
+5x Laptop Computer
+
+Retainer (1)
+1x Tasha Morgan
+
+Action Modifier (20)
+5x Cloak the Gathering
+5x Faceless Night
+5x Lost in Crowds
+5x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (4)
+2x Delaying Tactics
+2x Elder Intervention
+
+Combat (10)
+5x Dodge
+5x Fake Out

@@ -1,0 +1,70 @@
+Edith Blount
+Boston, Massachusetts
+July 25th 2004
+3R+F
+10 players
+Andy Kempton
+
+Deck Name: Settite Legal V4.0
+Created by: Lance Shope
+
+3 Game wins and 12VP.
+When I went in to the tourney, I was looking for something that would
+take advantage of the Boston metagame. I borrowed a deck idea from
+Lance Shope, and we discussed how to modify it to make it work in the
+environment we anticipated. The delaying tactics and archon
+investigation were vital for dealing with the plethora of vote and
+bleed decks that day. The deck also had enough bloat that could
+survive without any bounce.
+
+Description: Obf bleed with Legal Manipulation. Majesty if you get
+intercepted. Use the temptations on your own vampires if they run
+low on blood. They can Legal Manipulate (cost one blood) then Tempt
+self to hunt and gain the blood back. Or Tempt opponent's vampires
+(standard).
+
+Crypt (12 cards, min=20, max=29, avg=6.25)
+------------------------------------------
+2x Qufur am-Heru		7   OBF PRE SER cel tha	 Follower of Set:2
+2x Sarrasine			7   OBF PRE aus nec ser	 Follower of Set:2
+2x Ezekiel, Lord of Montreal	6   PRE SER obf pot	 Follower of Set:3
+2x Count Ormonde		5   OBF dom pre ser	 Follower of Set:2
+2x Sir Marriot D'Urban		5   PRE aus obf ser	 Follower of Set:2
+1x Intisar			8   OBF PRE SER cel pot	 Follower of Set:2
+1x Danny Larkshill		7   PRE SER obf obt pot	 Follower of Set:2
+
+Library (91 cards)
+Master (13)
+1x Archon Investigation
+1x Barrens, The
+4x Blood Doll
+1x Dreams of the Sphinx
+2x Dummy Corporation
+1x Information Highway
+1x Opium Den
+1x Slave Auction
+1x Sudden Reversal
+
+Action (24)
+5x Enticement
+14x Legal Manipulations
+5x Temptation
+
+Action Modifier (24)
+3x Aire of Elation
+1x Change of Target
+4x Cloak the Gathering
+8x Lost in Crowds
+8x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (15)
+5x Delaying Tactics
+4x Ecstasy
+6x Wake with Evening's Freshness
+
+Combat (12)
+4x Behind You!
+8x Majesty

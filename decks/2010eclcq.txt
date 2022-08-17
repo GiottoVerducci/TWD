@@ -1,0 +1,59 @@
+EC 2010 - Last Chance Qualifier
+Paris, France
+October 29th 2010
+3R+F
+172 players
+Csaba Greguss
+
+Deck Name: EC 2010 LCQ: Rising Dementia
+
+4gw on the day, 5VP in final
+
+Crypt (12 cards, min=12, max=24, avg=4.67)
+------------------------------------------
+2x Morel	6   AUS DEM OBF		Malkavian:4
+2x Tony		6   AUS DEM dom obf	Malkavian:3
+2x Apache Jones	5   DEM aus for obf	Malkavian antitribu:4
+2x Uncle George	5   DEM aus dom obf	Malkavian antitribu:3
+2x Jackie	3   DEM			Malkavian antitribu:4
+2x Midget	3   DEM obf pre		Malkavian antitribu:3
+
+Library (70 cards)
+Master (9; 3 trifle)
+1x Antediluvian Awakening
+1x Archon Investigation
+1x Fortschritt Library
+1x Misdirection
+2x Pentex(TM) Subversion
+3x Wider View
+
+Action (21)
+4x Call, The
+15x Kindred Spirits
+2x Sibyl's Tongue
+
+Equipment (2)
+2x Learjet
+
+Action Modifier (26)
+2x Cloak the Gathering
+7x Confusion
+8x Eyes of Chaos
+2x Faceless Night
+2x Lost in Crowds
+3x Mind Tricks
+2x Spying Mission
+
+Action Modifier/Combat (5)
+3x Deny
+2x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Touch of Clarity
+
+Event (5)
+1x Blood Trade
+1x Break the Code
+1x Nightmares upon Nightmares
+1x Rising, The
+1x Thirst

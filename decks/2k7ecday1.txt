@@ -1,0 +1,50 @@
+EC 2007 Day 1
+Gothenburg, Sweden
+August 4th 2007
+3R+F
+95 players
+Ruben Feldman
+
+Deck Name: EC Day 1 - 1st place
+
+Crypt (12 cards, min=15, max=24, avg=4.92)
+------------------------------------------
+3x Edward Vignes		   6   DOM PRE for	Ventrue:3
+2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	Ventrue:2
+1x Alan Sovereign (ADV)		   6   AUS DOM for pre	Ventrue:3
+1x Boss Callihan		   5   PRE dom for pro	Ventrue:3
+1x Catherine du Bois		   5   DOM for obf pre	Ventrue:3
+1x Elena Gutierrez		   4   aus dom pre	Ventrue:3
+1x Ingrid Russo			   4   DOM for		Ventrue antitribu:2
+1x Pieter van Dorn		   4   dom pre tha	Tremere:3
+1x Diana Vick			   3   dom pre		Ventrue:3
+
+Library (70 cards)
+Master (13; 1 trifle)
+2x Anarch Troublemaker
+4x Blood Doll
+1x Coven, The
+1x Giant's Blood
+1x Jake Washington
+2x Misdirection
+2x Pentex(TM) Subversion
+
+Action (20)
+4x Entrancement
+10x Govern the Unaligned
+3x Mind Numb
+3x Slaughtering the Herd
+
+Action Modifier (19)
+4x Bonding
+7x Conditioning
+3x Daring the Dawn
+2x Foreshadowing Destruction
+3x Seduction
+
+Reaction (10)
+7x Deflection
+3x Delaying Tactics
+
+Combat (8)
+8x Majesty

@@ -1,0 +1,63 @@
+US NC 2011
+New Orleans, Louisiana
+September 17th 2011
+3R+F
+15 players
+Morgan Tomlinson
+
+Deck Name: Weenie Wizards
+
+Crypt (12 cards, min=10, max=22, avg=4)
+---------------------------------------
+1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for	Tremere:2
+1x Aisling Sturbridge		5   AUS THA dom		Tremere:2
+1x Hannigan			5   AUS THA dom		Tremere antitribu:2
+1x Merrill Molitor		5   THA aus dom		Tremere:1
+1x Sabine Lafitte		5   aus dom pot tha	Tremere:1
+1x Ignatius			4   aus dom tha		Tremere:1
+1x Sarah Cobbler		4   THA dom		Tremere:1
+1x Blythe Candeleria		3   THA aus		Tremere:2
+1x Dr. John Casey		3   aus tha		Tremere:1
+1x Jing Wei			3   dom tha		Tremere:1
+1x Mustafa Rahman		2   dom			Tremere:2
+1x Roreca Quaid			2   tha			Tremere:1
+
+Library (90 cards)
+Master (16; 3 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+2x Dominate
+3x Dreams of the Sphinx
+1x Information Highway
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Tremere Convocation
+3x Villein
+1x Wasserschloss Anif, Austria
+
+Action (17)
+10x Cryptic Mission
+7x Govern the Unaligned
+
+Ally (4)
+1x Carlton Van Wyk
+2x Procurer
+1x Thadius Zho
+
+Action Modifier (14)
+8x Conditioning
+6x Mirror Walk
+
+Reaction (21)
+7x Deflection
+2x Eagle's Sight
+1x Enhanced Senses
+1x Melange
+6x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+
+Combat (18)
+8x Apportation
+10x Theft of Vitae

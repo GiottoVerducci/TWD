@@ -1,0 +1,78 @@
+Black Sabbath
+São Paulo, Brazil
+December 15th 2013
+3R+F
+17 players
+Fernanda Nunes
+https://www.vekn.net/event-calendar/event/6993
+
+-- 5VP in final
+
+Deck Name: TPM
+
+Crypt (12 cards, min=15, max=20, avg=4.25)
+------------------------------------------
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+1x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+
+Library (87 cards)
+Master (27)
+6x Angel of Berlin
+9x Ashur Tablets
+2x Church of Vindicated Faith, The
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Millicent Smith, Puritan Vampire Hunter
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x WMRH Talk Radio
+
+Conviction (17)
+5x React with Conviction
+6x Second Sight
+6x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (4)
+1x Moise Kasavubu
+1x Ossian
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (6)
+1x Crusader Sword, The
+1x Heart of Nizchetus
+1x Ivory Bow
+2x Sniper Rifle
+1x Sport Bike
+
+Power (8)
+3x Discern
+2x Rejuvenate
+3x Vigilance
+
+Reaction (9)
+3x Determine
+6x On the Qui Vive
+
+Combat (6)
+6x Target Vitals
+
+Event (9)
+1x Fourth Cycle, The
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Thirst
+1x Torpid Blood
+2x Unmasking, The
+1x Veil of Darkness

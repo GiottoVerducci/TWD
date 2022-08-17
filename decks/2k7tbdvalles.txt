@@ -1,0 +1,51 @@
+Torneo Badia del Valles
+Badia del Valles, Barcelona, Spain
+September 23rd 2007
+3R+F
+26 players
+Alex Parcero
+
+Deck Name: Malki de Presencia
+
+Crypt (12 cards, min=20, max=38, avg=7.58)
+------------------------------------------
+2x Esau			  10  AUS DEM DOM OBF PRE  		Malkavian:3
+2x Alicia Barrows	  9   AUS DEM OBF POT PRE  archbishop	Malkavian antitribu:4
+2x Aristotle de Laurent	  9   AUS DEM OBF PRE pot  		Malkavian antitribu:3
+1x Quentin King III	  7   AUS DEM obf pre	   prince	Malkavian:3
+1x Quentin King III (ADV) 7   AUS DEM OBF cel pre  		Malkavian:3
+2x Midget		  3   DEM obf pre	   		Malkavian antitribu:3
+1x Lazarus James	  8   AUS DEM PRE obf tha  		Malkavian:4
+1x Stavros		  7   AUS OBF PRE dem	   priscus	Malkavian antitribu:4
+
+Library (90 cards)
+Master (13)
+6x Blood Doll
+2x Dreams of the Sphinx
+2x Information Highway
+1x Pentex(TM) Subversion
+2x Visit from the Capuchin
+
+Action (21)
+8x Entrancement
+8x Kindred Spirits
+3x Legal Manipulations
+2x Pulse of the Canaille
+
+Action Modifier (33)
+6x Confusion
+3x Elder Impersonation
+8x Eyes of Chaos
+7x Faceless Night
+8x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (9)
+9x Swallowed by the Night
+
+Reaction (4)
+2x On the Qui Vive
+2x Telepathic Misdirection
+
+Combat (10)
+10x Majesty

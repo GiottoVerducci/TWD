@@ -1,0 +1,59 @@
+Battle for Skåne "Claiming the throne"
+Malmö, Sweden
+December 14th 2019
+3R+F
+15 players
+Mårten Cederholm
+https://www.vekn.net/event-calendar/event/9464
+
+-- 1GW3.5 + 3VP in final
+
+Deck Name: Spanish Ladies AV
+Created by: Milos Krstic
+
+Had a blast playing (first ever tournament for me), final was very close
+(ousted my 3rd player with 1 pool left).
+
+Crypt (12 cards, min=4, max=23, avg=3.67)
+-----------------------------------------
+4x Anarch Convert	 1   -none-			Caitiff:ANY
+1x Isanwayen		 6   DOM MYT OBT		Kiasyd:4
+1x Onaedo		 6   DOM OBT aus pot		Lasombra:4
+1x Virginie, Prodigy	 6   DOM POT obt	bishop	Lasombra:4
+1x Banjoko		 5   DOM obt pot		Lasombra:3
+1x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+1x Quincy, The Trapper	 4   dom myt obt		Kiasyd:3
+1x Lucy Markowitz	 3   dom obt			Lasombra:4
+
+Library (65 cards)
+Master (12; 1 trifle)
+1x Coven, The
+4x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+3x Information Highway
+1x Jake Washington
+1x Pentex(TM) Subversion
+
+Action (13)
+13x Govern the Unaligned
+
+Ally (4)
+4x Nocturn
+
+Action Modifier (28)
+5x Bonding
+6x Conditioning
+2x Foreshadowing Destruction
+5x Seduction
+4x Shadow Play
+4x Shroud of Absence
+2x Stone Travel
+
+Reaction (6)
+4x Deflection
+2x On the Qui Vive
+
+Combat (2)
+2x Shadow Body

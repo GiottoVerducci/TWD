@@ -1,0 +1,65 @@
+Justicar Retribution II
+Helsinki, Finland
+October 6th 2011
+3R+F
+10 players
+Timo Rekola
+
+-- 3VP in final
+
+Deck Name: asguresh.can.ver.1.1
+
+Crypt (12 cards, min=8, max=24, avg=4.5)
+----------------------------------------
+4x Asguresh		 6   CEL NEC aus	Nagaraja:5
+2x Andre LeRoux		 3   aus		Toreador:5
+2x Anarch Convert	 1   -none-		Caitiff:ANY
+1x Dominique Santo Paulo 6   AUS CEL pot pre	Toreador antitribu:4
+1x Homa			 6   AUS CEL POT	Osebo:4
+1x Lindsay Yates	 5   CEL aus for pre	Toreador:5
+1x Titi Camara		 5   AUS CEL pot	Osebo:5
+
+Library (90 cards)
+Master (18; 7 trifle)
+2x Archon Investigation
+1x Auspex
+1x Barrens, The
+2x Fame
+1x Lilith's Blessing
+1x Powerbase: Luanda
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+3x Vessel
+2x Wash
+2x Wider View
+
+Action (3)
+1x Bum's Rush
+2x Nose of the Hound
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ossian
+
+Equipment (10)
+5x .44 Magnum
+2x Bowl of Convergence
+3x Sniper Rifle
+
+Reaction (29)
+4x Enhanced Senses
+4x Eyes of Argus
+4x Forced Awakening
+4x On the Qui Vive
+4x Quicken Sight
+9x Telepathic Misdirection
+
+Combat (28)
+4x Aura Reading
+4x Blur
+8x Concealed Weapon
+4x Psyche!
+3x Pursuit
+3x Taste of Vitae
+2x Weighted Walking Stick

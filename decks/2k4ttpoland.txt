@@ -1,0 +1,64 @@
+Tournament
+Bydgoszcz, Poland
+December 29th 2004
+3R+F
+12 players
+Marcin Watras
+
+Deck Name: Tegyrius & Tariq - wall deck
+
+Description: Block, send to torpor, burn......
+
+Crypt (12 cards, min=28, max=36, avg=8.08)
+------------------------------------------
+4x Tegyrius, Vizier	  9   AUS CEL FOR QUI pre  Assamite:2
+1x Tegyrius, Vizier (ADV) 9   AUS CEL FOR PRE QUI  Assamite:2
+3x Fatima al-Faqadi	  8   CEL OBF QUI aus for  Assamite:2
+3x Tariq, The Silent	  7   AUS FOR OBF QUI cel  Assamite:2
+1x Parnassus		  7   CEL QUI aus tha	   Assamite:2
+
+Library (90 cards)
+Master (21; 2 trifle)
+1x Auspex
+5x Blood Doll
+1x Celerity
+2x Curmudgeon
+2x Dreams of the Sphinx
+1x Market Square
+1x Metro Underground
+1x Rack, The
+5x Rötschreck
+1x Tension in the Ranks
+1x Underworld Hunting Ground
+
+Action (2)
+2x Pulse of the Canaille
+
+Ally (1)
+1x Ghouls of Plaza Morería, The
+
+Equipment (2)
+2x Kali's Fang
+
+Action Modifier (6)
+3x Dawn Operation
+1x Forgotten Labyrinth
+2x Freak Drive
+
+Reaction (26)
+3x Eagle's Sight
+3x Enhanced Senses
+8x Forced Awakening
+6x Quicken Sight
+2x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (32)
+2x Aura Reading
+4x Flash
+4x Psyche!
+6x Pursuit
+2x Rolling with the Punches
+4x Skin of Steel
+2x Superior Mettle
+8x Taste of Death

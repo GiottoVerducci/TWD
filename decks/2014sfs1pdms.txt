@@ -1,0 +1,70 @@
+Sebastià F. Season 1
+Palma de Mallorca, Spain
+January 18th 2014
+3R+F
+15 players
+Jorge Verdi
+https://www.vekn.net/event-calendar/event/7484
+
+-- 3VP in final
+
+Deck Name: Crazy magic
+
+Crypt (12 cards, min=34, max=40, avg=9.17)
+------------------------------------------
+4x Louhi	    10	ANI AUS DEM OBF THA pro	 cardinal  Malkavian antitribu:4
+4x William Biltmore 9	AUS DEM OBF THA dom	 	   Malkavian:3
+2x Petaniqua	    9	AUS DAI DEM OBF THA chi	 	   Malkavian:4
+2x Lazarus James    8	AUS DEM PRE obf tha	 	   Malkavian:4
+
+Library (90 cards)
+Master (17; 4 trifle)
+1x Anarch Troublemaker
+2x Blood Doll
+1x Channel 10
+2x Direct Intervention
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Jake Washington
+2x Pentex(TM) Subversion
+1x Perfectionist
+1x Secure Haven
+4x Villein
+
+Action (18)
+5x Call, The
+6x Kindred Spirits
+7x Magic of the Smith
+
+Equipment (8)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Palatial Estate
+1x Sacré-Cœur Cathedral, France
+1x Signet of King Saul, The
+1x Sniper Rifle
+
+Action Modifier (17)
+4x Confusion
+2x Elder Impersonation
+3x Eyes of Chaos
+4x Mind Tricks
+4x Mirror Walk
+
+Action Modifier/Combat (6)
+5x Deny
+1x Hide the Mind
+
+Action Modifier/Reaction (1)
+1x Touch of Clarity
+
+Reaction (18)
+7x Eyes of Argus
+4x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (5)
+3x Rego Motum
+2x Taste of Vitae

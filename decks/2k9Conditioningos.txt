@@ -1,0 +1,68 @@
+Conditioning - Lindesberg MQ
+Örebro, Sweden
+October 24th 2009
+15 players
+Ivan Marin-Rivas
+
+-- 3VP in final
+
+Deck Name: Imbued the Eternal Struggle
+
+Crypt (12 cards, min=14, max=21, avg=4.42)
+------------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x François "Warden" Loehr	3   def jud	 Judge:4
+1x Earl "Shaka74" Deams		6   jud mar viz	 Visionary:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+
+Library (63 cards)
+Master (11)
+1x Anarch Troublemaker
+2x Angel of Berlin
+1x Barrens, The
+2x Church of Vindicated Faith, The
+1x Fortschritt Library
+3x Pentex(TM) Subversion
+1x Unity
+
+Conviction (15)
+4x React with Conviction
+5x Second Sight
+6x Strike with Conviction
+
+Ally (5)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Ossian
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (4)
+1x Crusader Sword, The
+1x Ivory Bow
+1x Laptop Computer
+1x Talbot's Chainsaw
+
+Power (16)
+1x Abjure
+2x Champion
+3x Discern
+1x Inspire
+3x Rejuvenate
+6x Vigilance
+
+Reaction (4)
+4x Determine
+
+Event (8)
+1x Dr. Marisa Fletcher, CDC
+1x Nightmares upon Nightmares
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Thirst
+1x Unmasking, The
+1x Wormwood

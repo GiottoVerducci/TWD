@@ -1,0 +1,67 @@
+Viva la República
+Badalona, Spain
+March 20th 2011
+3R+F
+25 players
+Alejandro Rodríguez
+
+Deck Name: High intensity madmen
+
+Crypt (12 cards, min=20, max=40, avg=7.33)
+------------------------------------------
+4x Lucian	    10	AUS DOM OBF cel tha	justicar  Malkavian:1
+3x Gilbert Duane    7	AUS DOM OBF		prince	  Malkavian:1
+2x Greger Anderssen 7	AUS OBF dom pro		prince	  Malkavian:2
+2x Victoria	    5	AUS cel obf			  Malkavian:2
+1x Zöe		    3	AUS cel obf			  Malkavian:2
+
+Library (84 cards)
+Master (17; 2 trifle)
+1x Asylum Hunting Ground
+2x Dreams of the Sphinx
+3x Heidelberg Castle, Germany
+1x Last Stand
+5x Madness Network
+1x Metro Underground
+1x Pentex(TM) Subversion
+1x Temptation of Greater Power
+2x Vessel
+
+Action (9)
+1x Far Mastery
+8x Mind Rape
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Banishment
+1x Domain Challenge
+2x First Tradition: The Masquerade
+6x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (19)
+3x Conditioning
+3x Elder Impersonation
+1x Faceless Night
+4x Forgotten Labyrinth
+4x Lost in Crowds
+2x Telepathic Vote Counting
+2x Veil the Legions
+
+Reaction (22)
+2x Deflection
+4x Mental Maze
+6x Obedience
+8x Second Tradition: Domain
+2x Telepathic Misdirection
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,69 @@
+Conklaavi 2006
+Turku, Finland
+April 8th 2006
+27 players
+Antero Leppänen
+
+Deck Name: The Birds
+
+2GW6 (2nd seed) + 2VP in final
+
+Description: ANI/pro intercept/combat
+I quite much copied Peter D. Bakija's "Bats With Birds In Their Mouths"
+as I was not feeling very creative.
+
+Crypt (12 cards, min=5, max=22, avg=3.33)
+-----------------------------------------
+2x Tupdog		1   POT VIS	 Gargoyle:3
+1x Horrock		6   ANI PRO vic	 Gangrel:3
+1x Janey Pickman	6   ANI PRO for	 Gangrel antitribu:4
+1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
+1x Lord Ashton		5   ANI for pro	 Gangrel:3
+1x Bobby Lemon		4   ANI pro	 Gangrel:3
+1x Jezebelle		4   ani for pro	 Gangrel:4
+1x Bothwell		3   ani for	 Gangrel:3
+1x Mouse		2   ani		 Nosferatu:3
+1x Zip			2   ani		 Ravnos:3
+1x Lisa Noble		1   ani		 Caitiff:3
+
+Library (90 cards)
+Master (12)
+2x Animalism
+4x Blood Doll
+1x Fame
+2x Heidelberg Castle, Germany
+1x KRCG News Radio
+1x Protean
+1x WMRH Talk Radio
+
+Action (6)
+1x Ambush
+2x Army of Rats
+1x Big Game
+1x Bum's Rush
+1x Harass
+
+Equipment (6)
+3x IR Goggles
+1x Ivory Bow
+2x Leather Jacket
+
+Retainer (9)
+1x Mr. Winthrop
+1x Owl Companion
+7x Raven Spy
+
+Reaction (12)
+3x Cats' Guidance
+6x Forced Awakening
+3x Wake with Evening's Freshness
+
+Combat (45)
+14x Aid from Bats
+1x Canine Horde
+12x Carrion Crows
+6x Drawing Out the Beast
+4x Earth Meld
+4x Flesh of Marble
+2x Form of Mist
+2x Form of the Ghost

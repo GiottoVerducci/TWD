@@ -1,0 +1,75 @@
+Breath of the Dragon Tournament
+Montreal, Quebec
+February 25th 2006
+17 players
+Yann Arseneault
+
+Deck Name: Henry Taylor Twister
+Created by: Arsene
+
+Description: Version personnelle avec mes cartes disponibles
+(Personal version with the cards i have)
+
+Crypt (12 cards, min=8, max=27, avg=4.75)
+-----------------------------------------
+4x Henry Taylor		6   POT cel pre pro	 Brujah antitribu:3
+3x Khalu		7   AUS CEL POT ani pro	 Osebo:3
+2x Feo Ramos		1   aus			 Pander:3
+1x Jane Sims		4   VIC ani aus pro	 Tzimisce:4
+1x Martin Franckel	3   AUS tha		 Tremere:3
+1x Yvette, The Hopeless	3   aus cel		 Toreador:3
+
+Library (60 cards)
+Master (26)
+1x Amusement Park Hunting Ground
+2x Auspex
+3x Blood Doll
+1x Direct Intervention
+6x Dirty Contract
+1x Gang Territory
+1x KRCG News Radio
+1x Life Boon
+1x Millicent Smith, Puritan Vampire Hunter
+1x Parthenon, The
+3x Protean
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Sudden Reversal
+2x Waste Management Operation
+
+Action (3)
+2x Anima Gathering
+1x Army of Rats
+
+Ally (4)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Ossian
+1x Procurer
+
+Equipment (2)
+1x Bowl of Convergence
+1x IR Goggles
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier/Reaction (2)
+1x Osebo Kholo
+1x Scalpel Tongue
+
+Reaction (3)
+1x Eagle's Sight
+2x Wake with Evening's Freshness
+
+Combat (18)
+3x Earth Meld
+1x Flash
+1x Form of Mist
+1x Quick Meld
+7x Trap
+2x Weighted Walking Stick
+3x Zip Gun
+
+Event (1)
+1x Anthelios, The Red Star

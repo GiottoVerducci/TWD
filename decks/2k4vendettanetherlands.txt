@@ -1,0 +1,61 @@
+Vendetta
+Utrecht, Netherlands
+April 18th 2004
+18 players
+Izaak Havelaar
+
+Deck Name: Thrown Junk & Sexy Tricks (TM)
+
+This deck doesn't really need a lot of description; it's full forward
+motion CEL/pot combat with a few sexy tricks (credit goes to Peter
+Bakija). It has decent bloat and small minions, so having 4 or 5 out
+is not uncommon. Bleeding for 4-5 a turn is something very few decks
+can deal with, so it ousts fairly fast as well.
+
+Since some people asked why I added that last part to the name, so here it is:
+Sexy Trick #1: The Waste Management Operation / Al's Army Apparatus shuffle tech
+Sexy Trick #2: The lone Contract
+Sexy Trick #3: The Fast Hands
+
+Crypt (12 cards, min=15, max=24, avg=4.92)
+------------------------------------------
+2x Jalal Sayad			6   CEL QUI pot			Assamite:2
+2x Black Cat			5   CEL pot pre			Brujah:1
+2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Bianca			6   CEL pot pre			Brujah:1
+1x Julian Sanders		6   CEL PRE pot			Brujah antitribu:2
+1x Rigby, Crusade Vanguard	5   CEL PRE aus pot		Brujah antitribu:2
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Dre, Leader of the Cold Dawn	3   cel pot			Brujah:1
+1x Jacob Bragg			3   cel pot			Brujah antitribu:2
+
+Library (90 cards)
+Master (14)
+1x Al's Army Apparatus
+5x Blood Doll
+1x Contract
+1x Direct Intervention
+1x Fame
+3x Haven Uncovered
+1x Specialization
+1x Waste Management Operation
+
+Action (15)
+3x Ambush
+6x Bum's Rush
+6x Computer Hacking
+
+Equipment (1)
+1x .44 Magnum
+
+Combat (60)
+6x Blur
+1x Fast Hands
+6x Flash
+5x Psyche!
+8x Pursuit
+3x Side Strike
+6x Sideslip
+6x Taste of Vitae
+15x Thrown Sewer Lid
+4x Zip Gun

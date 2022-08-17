@@ -1,0 +1,61 @@
+US NC 2012
+DragonCon, Atlanta, Georgia
+September 2nd 2012
+3R+F
+15 players
+Matt Guinn
+
+Deck Name: US Nats. 2012 Dragon Con
+
+Crypt (12 cards, min=26, max=38, avg=8)
+---------------------------------------
+3x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+3x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+2x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
+2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+2x Tara		   6   POT PRE cel	    prince	Brujah:5
+
+Library (75 cards)
+Master (29; 8 trifle)
+3x Carthage Remembered
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Lilith's Blessing
+1x Monastery of Shadows
+2x New Carthage
+1x Papillon
+2x Parthenon, The
+1x Powerbase: Montreal
+1x Presence
+6x Villein
+2x Wider View
+4x Zillah's Valley
+
+Action (8)
+2x Flurry of Action
+6x Public Trust
+
+Political Action (11)
+6x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (11)
+5x Iron Glare
+2x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Combat (5)
+5x Resist Earth's Grasp
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (3)
+3x Second Tradition: Domain
+
+Combat (4)
+4x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

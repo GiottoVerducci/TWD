@@ -1,0 +1,73 @@
+South Central Regional Qualifier
+College Station, Texas
+March 22nd 2003
+21 players
+Devin Villegas
+
+Deck Name: Crazy Weenie Bloat
+
+Description: Inspiration for the deck comes from Oscar Garza. We figured
+out the card list for this deck on paper before I touched a single card.
+Pretty much just bloat with the kindred spirits. Let your prey work
+themselves into striking distance, drop a madman's quill and explode.
+
+Crypt (12 cards, min=11, max=26, avg=4.67)
+------------------------------------------
+1x Korah			  7   AUS DEM OBF ani	priscus	 Malkavian antitribu:2
+1x Quentin King III		  7   AUS DEM obf pre	prince	 Malkavian:3
+1x Dolphin Black		  6   AUS DEM OBF		 Malkavian antitribu:2
+1x Tony				  6   AUS DEM dom obf		 Malkavian:3
+1x Evan Klein			  5   OBF aus dem pre		 Malkavian:3
+1x Persia, The Beautiful Statue	  5   DEM aus obf		 Malkavian:3
+1x Uncle George			  5   DEM aus dom obf		 Malkavian antitribu:3
+1x Adelaide Davis		  4   aus dem obf		 Malkavian:3
+1x Idalia, Prophet of Guadalajara 4   AUS dem			 Malkavian antitribu:2
+1x Yorik			  3   dem obf			 Malkavian antitribu:2
+1x Boy Toy			  2   dem			 Malkavian antitribu:2
+1x Gillian Krader		  2   ani dem			 Pander:2
+
+Library (90 cards)
+Master (14)
+4x Blood Doll
+2x Dementation
+2x Effective Management
+2x Obfuscate
+1x Pentex(TM) Subversion
+1x Secret Passage
+1x Secure Haven
+1x Visit from the Capuchin
+
+Action (27)
+3x Call, The
+12x Kindred Spirits
+5x Madman's Quill
+1x Passion
+6x Revelations
+
+Ally (2)
+1x Escaped Mental Patient
+1x Muddled Vampire Hunter
+
+Equipment (2)
+2x Enchanted Marionette
+
+Action Modifier (26)
+6x Cloak the Gathering
+8x Confusion
+2x Lost in Crowds
+5x Mind Tricks
+5x Spying Mission
+
+Action Modifier/Combat (2)
+2x Deny
+
+Reaction (13)
+7x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (3)
+2x Behind You!
+1x Dodge
+
+Combat/Reaction (1)
+1x Abandoning the Flesh

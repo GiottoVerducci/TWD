@@ -1,0 +1,66 @@
+Bleeding Moscow
+Moscow, Russia
+March 19th 2011
+3R+F
+22 players
+Alex Minov
+
+-- 2GW9 + 4VP in final
+
+Deck Name: Disarming Presence
+
+Description: bruiser bleed & vote
+
+Crypt (12 cards, min=32, max=40, avg=9)
+---------------------------------------
+4x Armin Brenner   10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+4x Dmitra Ilyanova 9   CEL FOR POT PRE obf	justicar    Brujah:5
+1x Hektor	   9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
+1x Count Germaine  8   CEL FOR POT PRE obf		    Brujah:4
+1x Klaus Konrecht  8   AUS CEL PRE for pot	cardinal    Toreador antitribu:4
+1x Mukhtar Bey	   7   FOR PRE QUI obf pot	prince	    Caitiff:4
+
+Library (90 cards)
+Master (18; 9 trifle)
+1x Black Forest Base
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Powerbase: Madrid
+6x Villein
+2x Wider View
+
+Action (4)
+2x Heart of the City
+2x Preternatural Strength
+
+Ally (3)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Ossian
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (12)
+1x Ancient Influence
+2x Banishment
+1x Conservative Agitation
+3x Kine Resources Contested
+3x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (39)
+2x Awe
+6x Forced March
+18x Freak Drive
+8x Iron Glare
+5x Voter Captivation
+
+Combat (13)
+3x Disarm
+10x Skin of Steel

@@ -1,0 +1,89 @@
+Repo Man
+Denver, Colorado
+November 10th 2019
+2R+F
+15 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/9446
+
+Deck Name: (2019 2Q) Flay the Game V2 (feat. Xipe Totec)
+Created by: Darby Keeney
+
+Description: Leverages two [ANI][VIC][aus+][pro+] vampires to screw with the current ally-based and location-dependent metagame. A few flexible elements support a basically bad stealth bleed deck, resulting in more than the sum of the pieces.
+
+For this tournament, "favorable" fails to describe how well things worked out: a bleedy prey with a rush grandprey and a mis-firing Nergal deck upstream. A bleedy grandpredator with a bloating predator and a Summon History ally deck downstream. In each case, a Rachel Brandywine deck that relies on Homoculus across from me. It made for a couple of game wins and great seeding going into the finals.
+
+I was able to get that same bleedy grandpredator with a bloating predator in the finals, and the Nergal deck was pointed away from me. The table seated as Darby (Xipe) --> Jesper (Nergal) --> Marshall (G4/5 Lawfirm) --> Karl (DOM OBT Art of Memory) --> Kelly (Vote-bloat)
+
+Contesting Dreams with my grandpredator bought time for the table to develop, but a flurry of actions saw Karl oust Kelly, Nergal barely miss an oust, Marshall miss an oust by even less and Karl me by 2. I ousted Jesper and Marshall immediately got Karl, leaving us heads-up. All the bounce I couldn't find earlier found use as intercept, which gave me enough of an edge for the win. An interesting, tense, fun final.
+
+Xipe's text special is stupidly good in the current metagame. It gets even better when someone drops the Unmasking. Darvag's text can be useful against Parthenon, intercept locations and stealth locations. Stephen's stealth provides steady bleed pressure before lunge turns.
+
+This is a deep Master package, at least 7 of them are trifles. From there, discards (w/ Dreams) usually manage hand contents reasonably. The package clearly focuses on making and moving blood.
+
+This deck doesn't need Carlton, it just steals someone else's.
+-- There was a Mylan Horseeed in here, it fell out he started appearing frequently in the Denver meta.
+
+There used to be a Bowl of Convergence, but Xipe often ends up too busy to bother getting it.
+
+I omitted Delaying Tactics because I see Undele vote decks so much that it wasn't helpful.
+
+Crypt (12 cards, min=18, max=36, avg=7)
+---------------------------------------
+5x Xipe Totec			9   ANI AUS PRO VIC	 archbishop	Tzimisce:5
+2x Stephen Bateson		6   ani aus tha vic	 		Tzimisce:5
+1x Darvag, The Butcher of Rus	8   ANI VIC aus pot pro	 		Tzimisce:4
+1x Ludmijla Rakoczy		7   ANI AUS VIC		 bishop		Tzimisce:5
+1x Dr. Morrow, The Skindoctor	5   AUS VIC for		 		Tzimisce:5
+1x Yuri Kerezenski		5   ANI aus for vic	 bishop		Tzimisce:4
+1x New Blood			2   san			 		Blood Brother:ANY
+
+Library (65 cards)
+Master (23; 7 trifle)
+1x Coven, The
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Grooming the Protégé
+2x Information Highway
+1x Jake Washington
+1x Library Hunting Ground
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion
+2x Perfectionist
+5x Villein
+1x Wider View
+1x Zillah's Valley -- No idea how this ended at one instead of 2.
+
+Action (8)
+3x Deep Song
+3x Fiendish Tongue
+2x Under Siege
+
+Ally (1)
+1x War Ghoul -- Upgrades less useful stolen allies.
+
+Equipment (3)
+3x Living Manse -- Frequently burned to end combat. One goes on Stephen ASAP.
+
+Action Modifier (9)
+4x Changeling
+2x Earth Control
+3x Mind of the Wilds -- With Chiropteran, offers an occassional surprise for blockers
+
+Action Modifier/Combat (3)
+2x Plasmic Form
+1x Rapid Change
+
+Reaction (12)
+3x Eyes of Argus
+1x My Enemy's Enemy
+3x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (5)
+2x Chiropteran Marauder
+3x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians -- Because I want to consistently highlight how stupid this card is.

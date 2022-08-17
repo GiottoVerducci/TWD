@@ -1,0 +1,66 @@
+Swedish NC 2014
+Stockholm, Sweden
+September 13th 2014
+3R+F
+20 players
+Michael Holmström
+https://www.vekn.net/event-calendar/event/7800
+
+-- 2VP in final
+
+Deck Name: Kiasyd S & B
+
+A bit more info on http://stockholmjyhad.blogspot.se/2014/09/report-swedish-nationals-2014.html
+
+Crypt (12 cards, min=14, max=23, avg=4.67)
+------------------------------------------
+2x Isanwayen		 6   DOM MYT OBT		Kiasyd:4
+1x Virginie, Prodigy	 6   DOM POT obt	bishop	Lasombra:4
+1x Andrew Emory		 5   OBT aus dom pot	bishop	Lasombra:4
+1x Banjoko		 5   DOM obt pot		Lasombra:3
+1x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+1x Leila Monroe		 4   dom obt pre		Lasombra:4
+1x Quincy, The Trapper	 4   dom myt obt		Kiasyd:3
+1x Randel, The Coward	 4   dom for obt		Ventrue antitribu:4
+1x Keith Moody		 3   DOM			Tremere antitribu:4
+1x Lucy Markowitz	 3   dom obt			Lasombra:4
+
+Library (70 cards)
+Master (28; 3 trifle)
+1x Anarch Troublemaker
+6x Ashur Tablets
+1x Coven, The
+6x Dreams of the Sphinx
+1x Giant's Blood
+2x Great Symposium
+1x House of Sorrow
+2x Jake Washington
+2x Life in the City
+2x Misdirection
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+
+Action (11)
+11x Govern the Unaligned
+
+Ally (3)
+3x Nocturn
+
+Action Modifier (19)
+1x Blanket of Night
+3x Bonding
+4x Conditioning
+1x Seduction
+4x Shadow Play
+4x Shroud of Absence
+2x Stone Travel
+
+Reaction (8)
+5x Deflection
+1x Delaying Tactics
+2x On the Qui Vive
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,78 @@
+Great Lakes Regional Qualifier
+Columbus, Ohio
+April 19th 2009
+3R+F
+23 players
+Mark Loughman
+
+-- 3VP in final
+
+Deck Name: Traditional Princess
+
+Description: I re-tooled my Carna deck after KoT came out.
+Eyes of Argus is _SO_ efficient for this scheme that I was
+able to slide in a touch more combat (Rego Mortus). I also
+went to 4 Smiling Jacks. A first turn Jack means I don't have
+to worry about a time out at the table. Ponticulus is also very cool.
+
+Crypt (12 cards, min=15, max=28, avg=5.33)
+------------------------------------------
+4x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+2x Neighbor John		5   AUS dom for			  Ventrue antitribu:4
+2x Martin Franckel		3   AUS tha			  Tremere:3
+1x Valois Sang, The Watcher	6   AUS DOM nec tha		  Tremere:3
+1x Cohn Rose			5   THA aus dom pre		  Tremere:3
+1x Frondator			5   AUS dom tha		bishop	  Tremere antitribu:4
+1x Maldavis			4   AUS for pre			  Caitiff:3
+
+Library (90 cards)
+Master (14)
+1x Arcane Library
+2x Blood Doll
+1x Chantry
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Powerbase: Montreal
+1x Rack, The
+4x Smiling Jack, The Anarch
+
+Action (9)
+6x Govern the Unaligned
+3x Magic of the Smith
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ponticulus
+
+Equipment (9)
+2x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+2x Leather Jacket
+1x Sniper Rifle
+1x Sport Bike
+
+Action Modifier (8)
+4x Conditioning
+4x Mirror Walk
+
+Reaction (33)
+6x Deflection
+2x Eagle's Sight
+3x Eyes of Argus
+3x Forced Awakening
+2x Melange
+3x My Enemy's Enemy
+4x On the Qui Vive
+2x Precognition
+3x Spirit's Touch
+2x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (15)
+4x Apportation
+3x Aura Reading
+2x Rego Motum
+6x Theft of Vitae

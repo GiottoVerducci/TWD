@@ -1,0 +1,66 @@
+Camarilla Conclave
+Palma de Malorca, Spain
+October 7th 2001
+25 players
+David Quiñonero-Santiago
+http://web.archive.org/web/20011208205547/http://www.almadrava.net/damnans/ccpm01/standingsccpm01.htm
+
+Deck Name: ...and Madness for all
+Created by: Damnans (http://www.almadrava.net/damnans)
+
+Description: None
+
+Crypt (12 cards, min=19, max=32, avg=6.58)
+------------------------------------------
+3x Korah	 7   AUS DEM OBF ani	  priscus  Malkavian antitribu:2
+2x Kite		 7   AUS DEM obf pre	  bishop   Malkavian antitribu:2
+1x Vasantasena	 9   AUS DEM OBF dom pot  	   Malkavian antitribu:2
+1x Theron	 8   AUS DEM OBF for obt  	   Malkavian antitribu:2
+1x Virgil	 8   AUS DEM OBF cel	  bishop   Malkavian antitribu:2
+1x Artemis	 6   DEM OBF aus cel for  	   Malkavian antitribu:2
+1x Dolphin Black 6   AUS DEM OBF	  	   Malkavian antitribu:2
+1x Claven	 4   aus dem obf	  	   Malkavian antitribu:2
+1x Yorik	 3   dem obf		  	   Malkavian antitribu:2
+
+Library (77 cards)
+Master (14)
+1x Archon Investigation
+4x Blood Doll
+3x Direct Intervention
+1x Guardian Angel
+1x Heidelberg Castle, Germany
+1x Institution Hunting Ground
+1x Pentex(TM) Loves You!
+1x Secure Haven
+1x Sudden Reversal
+
+Action (18)
+12x Derange
+5x Kindred Spirits
+1x Pulse of the Canaille
+
+Equipment (4)
+1x Enchanted Marionette
+1x Palatial Estate
+1x Sargon Fragment, The
+1x Signet of King Saul, The
+
+Action Modifier (14)
+3x Cloak the Gathering
+2x Elder Impersonation
+3x Faceless Night
+3x Forgotten Labyrinth
+3x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (16)
+4x Forced Awakening
+8x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (8)
+4x Behind You!
+3x Coma
+1x Reality Mirror

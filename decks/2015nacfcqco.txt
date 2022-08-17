@@ -1,0 +1,56 @@
+NAC 2015 - First Chance Qualifier
+Origins Game Fair, Columbus, Ohio
+June 7th 2015
+2R+F
+19 players
+Hugh Angseesing
+
+Deck Name: What Is and What Should Never Be
+Created by: David Litwin (Pagan)
+
+-- 1GW2.5 + 3VP in final
+
+Crypt (12 cards, min=20, max=36, avg=7.25)
+------------------------------------------
+5x Nehemiah			9   POT PRE SER TEM obt	 2 votes   True Brujah:4
+2x Giangaleazzo, The Traitor	8   OBT POT PRE dom	 prince	   Lasombra:4
+2x Shawnda Dorrit		6   CEL obt pot pre	 priscus   Brujah antitribu:4
+2x Bernard, The Scourge		5   ani for pre pro	 	   Gangrel:4
+1x Reginald Moore		4   PRE			 primogen  Brujah:4
+
+Library (69 cards)
+Master (21; 5 trifle)
+1x Creepshow Casino
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Tabriz Assembly
+5x Villein
+7x Zillah's Valley
+
+Action (4)
+4x Entrancement
+
+Political Action (18)
+2x Anarchist Uprising
+1x Ancient Influence
+2x Ancilla Empowerment
+2x Banishment
+7x Kine Resources Contested
+1x Neonate Breach
+2x Reckless Agitation
+1x Reins of Power
+
+Action Modifier (21)
+2x Approximation of Loyalty
+5x Perfect Paragon
+2x Pocket Out of Time
+2x Recurring Contemplation
+2x Shadow Play
+3x Tangle Atropos' Hand
+5x Voter Captivation
+
+Action Modifier/Reaction (5)
+5x Hall of Hades' Court

@@ -1,0 +1,65 @@
+Crusade: Barcelona
+Ithaca, New York
+January 21st 2005
+2R+F
+15 players
+Peter Bakija
+
+Deck Name: Tocktor Funkenstein
+
+Description: Tock powered Nosferatu stealth vote
+
+Mostly the exact same deck I posted in the January 2005 Nosferatu
+Newsletter, but with the Thrown Gates swapped out for 2 more Majesties,
+a Legendary Vampire, and a Nosferatu Justicar vote.
+
+Crypt (12 cards, min=20, max=40, avg=7.58)
+------------------------------------------
+2x Harrod	    11	ANI CEL OBF POT aus pre	 inner circle	Nosferatu:2
+2x Ellison Humboldt 9	ANI OBF POT PRE pro	 primogen	Nosferatu:3
+2x Amadeo	    8	OBF POT ani aus pre	 primogen	Nosferatu:2
+2x Sundown	    6	ANI POT obf pre		 		Nosferatu:3
+2x Tock		    4	obf pot pre		 		Nosferatu antitribu:3
+1x Synesios	    8	POT PRE TEM obf ser	 2 votes	True Brujah:2
+1x Murat	    7	OBF POT ser		 prince		Nosferatu:2
+
+Library (90 cards)
+Master (17)
+3x Information Highway
+1x Labyrinth, The
+1x Legendary Vampire
+1x Major Boon
+8x Minion Tap
+3x Presence
+
+Action (2)
+2x Legal Manipulations
+
+Political Action (23)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Banishment
+1x Command of the Harpies
+2x Conservative Agitation
+1x Crusade: London
+1x Disputed Territory
+1x Honor the Elders
+8x Kine Resources Contested
+1x Nosferatu Justicar
+1x Peace Treaty
+1x Political Stranglehold
+1x Praxis Seizure: Brussels
+1x Reinforcements
+1x Reins of Power
+
+Action Modifier (39)
+1x Awe
+4x Bewitching Oration
+6x Elder Impersonation
+4x Forgotten Labyrinth
+8x Iron Glare
+8x Lost in Crowds
+8x Voter Captivation
+
+Combat (9)
+9x Majesty

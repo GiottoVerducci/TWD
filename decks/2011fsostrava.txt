@@ -1,0 +1,59 @@
+Fee Stake: Ostrava
+Ostrava, Czech Republic
+January 15th 2011
+3R+F
+13 players
+Michal Dlouhy
+
+Deck Name: Tremere politics 0.2
+
+Crypt (12 cards, min=27, max=36, avg=7.92)
+------------------------------------------
+2x Malgorzata			9   AUS DOM THA VIC pre	 priscus	Tremere antitribu:4
+2x Orlando Oriundus		9   AUS DOM THA obf	 bishop		Tremere antitribu:4
+2x Anastasz di Zagreb		8   AUS THA ani cel dom	 justicar	Tremere:3
+2x Polly Kay Fisher		8   AUS DOM THA for pot	 archbishop	Ventrue antitribu:4
+2x Ladislas Toth, The Torch	7   AUS DOM THA for	 archbishop	Tremere antitribu:3
+1x Carna, The Princess Witch	7   AUS DOM THA		 primogen	Tremere:3
+1x Alfred Benezri		6   PRE THA aus dom	 bishop		Pander:3
+
+Library (90 cards)
+Master (14; 1 trifle)
+6x Blood Doll
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Legendary Vampire
+1x Powerbase: Madrid
+1x Smiling Jack, The Anarch
+1x Wash
+
+Political Action (17)
+1x Ancient Influence
+1x Ancilla Empowerment
+10x Kine Resources Contested
+3x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (4)
+4x Mirror Walk
+
+Reaction (26)
+1x Eluding the Arms of Morpheus
+2x Enhanced Senses
+3x Forced Awakening
+4x On the Qui Vive
+3x Precognition
+5x Spirit's Touch
+8x Telepathic Misdirection
+
+Combat (28)
+11x Apportation
+1x Burst of Sunlight
+10x Theft of Vitae
+4x Walk of Flame
+2x Weather Control
+
+Event (1)
+1x Scourge of the Enochians

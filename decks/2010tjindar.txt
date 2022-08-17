@@ -1,0 +1,76 @@
+Avsnitt 4: Tjindar's List
+Örebro, Sweden
+December 27th 2010
+3R+F
+16 players
+Ivan Marin-Rivas
+
+Deck Name: Der Räuber und der Prinz
+
+Description: First combat is to cycle in to necessary cards, both in
+graveyard and in hand. After that play Ashurs and recycle the necessary
+cards back into library and deck. Always keep in mind the amount of
+ashurs in the deck so that you don't choke on masters.
+
+Soulscan for Agaitas if needed for added flavor and utility.
+
+Crypt (12 cards, min=18, max=32, avg=6.5)
+-----------------------------------------
+4x Anson				8   CEL PRE aus dom	prince	Toreador:1
+1x Marcellus				8   AUS CEL pro		prince	Toreador:2
+1x Greta Kircher			7   AUS CEL PRE obf		Toreador antitribu:2
+1x Jessica				7   AUS CEL OBT PRE	bishop	Toreador antitribu:2
+1x Agaitas, The Scholar of Antiquities	6   AUS NEC for			Harbinger of Skulls:2
+1x Kallista, Master Sculptor		6   AUS CEL pre pro		Toreador:1
+1x Felicia Mostrom			5   AUS CEL pre			Toreador:1
+1x Dorian Strack			4   AUS cel			Toreador:1
+1x Zöe					3   AUS cel obf			Malkavian:2
+
+Library (80 cards)
+Master (25; 3 trifle)
+1x Art Museum
+15x Ashur Tablets
+1x Blood Doll
+1x Erciyes Fragments, The
+2x Parthenon, The
+2x Smiling Jack, The Anarch
+3x Villein
+
+Action (8)
+2x Bum's Rush
+2x Nose of the Hound
+2x Public Trust
+2x Soul Scan
+
+Equipment (5)
+2x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (2)
+2x Aire of Elation
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (15)
+2x Enhanced Senses
+3x Eyes of Argus
+1x Forced Awakening
+1x On the Qui Vive
+2x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (22)
+2x Aura Reading
+2x Concealed Weapon
+2x Flash
+8x Infernal Pursuit
+2x Psyche!
+2x Pursuit
+2x Side Strike
+2x Taste of Vitae

@@ -1,0 +1,60 @@
+Justicar Retribution III - Slay for Santa
+Helsinki, Finland
+December 17th 2011
+3R+F
+16 players
+Matias Frosterus
+
+Deck Name: New Brujah Royalty
+
+Inspired by Patrick Robinsson's Norway 2010 ECQ deck but
+with Heroic Might, Veil the Legions, and Iron Glares as
+well as some fine-tuning.
+
+Crypt (12 cards, min=22, max=37, avg=7.5)
+-----------------------------------------
+4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+2x Tara		   6   POT PRE cel	    prince	Brujah:5
+1x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
+1x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+1x Tomaine	   6   CEL POT PRE	    primogen	Brujah:4
+1x Reginald Moore  4   PRE		    primogen	Brujah:4
+
+Library (82 cards)
+Master (13; 9 trifle)
+2x Dreams of the Sphinx
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+7x Villein
+2x Wider View
+
+Action (4)
+2x Entrancement
+2x Heroic Might
+
+Political Action (13)
+1x Banishment
+1x Disputed Territory
+7x Kine Resources Contested
+1x Neonate Breach
+3x Parity Shift
+
+Action Modifier (20)
+2x Awe
+2x Forced March
+4x Iron Glare
+2x Perfect Paragon
+4x Veil the Legions
+6x Voter Captivation
+
+Action Modifier/Combat (8)
+8x Resist Earth's Grasp
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (16)
+1x Disarm
+8x Stutter-Step
+7x Torn Signpost

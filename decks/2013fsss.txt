@@ -1,0 +1,61 @@
+Feline Saboteur
+Stockholm, Sweden
+November 16th 2013
+2R+F
+11 players
+Henrik Klippström
+https://www.vekn.net/event-calendar/event/7390
+
+Deck Name: Bruno Lawfirm remix
+
+Description: Based on a deck by Bruno Keiti Tamane
+
+Crypt (12 cards, min=20, max=30, avg=6.17)
+------------------------------------------
+2x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro	 prince	   Ventrue:5
+2x Graham Gottesman	7   DOM FOR obf pre tha	 prince	   Ventrue:5
+2x Mustafa, The Heir	6   FOR PRE cel dom	 prince	   Ventrue:4
+2x Victor Donaldson	6   DOM for pre		 prince	   Ventrue:5
+2x Emily Carson		5   DOM for pre		 primogen  Ventrue:5
+2x Victor Pelletier	5   PRE cel dom for	 	   Ventrue:4
+
+Library (70 cards)
+Master (13; 1 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+4x Dreams of the Sphinx
+1x Jake Washington
+2x Misdirection
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+
+Action (11)
+3x Entrancement
+8x Govern the Unaligned
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (10)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Conservative Agitation
+4x Kine Resources Contested
+1x Neonate Breach
+2x Parity Shift
+
+Action Modifier (20)
+3x Bewitching Oration
+4x Conditioning
+2x Daring the Dawn
+8x Freak Drive
+3x Voter Captivation
+
+Reaction (5)
+5x Deflection
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Uncoiling, The

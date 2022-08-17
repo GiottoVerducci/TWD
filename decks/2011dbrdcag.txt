@@ -1,0 +1,71 @@
+DragonCon Southeast NAC Qualifier - Dragon's Breath Rounds
+DragonCon 2012, Atlanta, Georgia
+September 4th 2011
+3R+F
+10 players
+Jeffrey Thompson
+
+-- 2.5VP in final
+
+Deck Name: Abusing the Public Trust is an Abomination
+
+Zubeida leads the way, in his own Perfectionist manner, in righting the
+wrongs done by those who are abusing the Public Trust. (Bleed, add
+stealth, use the gained counter on an uncontrolled vampire, bring another
+one into play that can do the same.) Frequently spent games with
+2 vampires in torpor. Assembled in ~20 minutes the morning of the
+tournament, it is missing the Freak Drives and Enticements and Wider
+Views that surely could have made a difference in a few of the rounds.
+Herbert Westin was nowhere to be found during the short time allowed
+for assembly, so Robin Withers made it in instead.
+
+Crypt (12 cards, min=21, max=32, avg=6.83)
+------------------------------------------
+5x Zubeida	    8	OBF PRE PRO for ser		 Abomination:5
+2x Ogwon	    7	OBF PRE SER for			 Follower of Set:5
+1x Isouda de Blaise 7	CEL OBF PRE aus			 Toreador antitribu:4
+1x Stavros	    7	AUS OBF PRE dem		priscus	 Malkavian antitribu:4
+1x Raphael Catarari 5	OBF PRE aus pot tha		 Nosferatu antitribu:4
+1x Renenet	    5	OBF PRE ser			 Follower of Set:4
+1x Robin Withers    4	dom obf pre			 Ventrue:4
+
+Library (90 cards)
+Master (18; 13 trifle)
+1x Giant's Blood
+4x Perfectionist
+6x Villein
+7x Wash
+
+Action (20)
+5x Enchant Kindred
+5x Mind Numb
+10x Public Trust
+
+Action Modifier (32)
+2x Aire of Elation
+2x Cloak the Gathering
+1x Domain of Evernight
+2x Earth Control
+2x Elder Impersonation
+4x Faceless Night
+5x Lost in Crowds
+2x Marked Path
+1x Mask of a Thousand Faces
+4x Spying Mission
+3x True Love's Face
+2x Truth of a Thousand Lies
+2x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Gift of Sleep
+
+Reaction (12)
+2x Confusion of the Eye
+5x Truth in Ink
+5x Wake with Evening's Freshness
+
+Combat (5)
+5x Majesty

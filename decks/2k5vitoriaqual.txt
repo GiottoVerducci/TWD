@@ -1,0 +1,78 @@
+ES-MG Region SAC Qualifier
+Vitória, Brazil
+April 9th 2005
+3R+F
+20 players
+David Magri
+
+Deck Name: Baratas Final Solution
+Created by: Equipe DominioSP
+
+Description: In the End, only the 'roaches will survive.
+
+Crypt (17 cards, min=8, max=23, avg=4)
+--------------------------------------
+2x Remilliard, Devout Crusader	4   AUS pre		 	 Toreador antitribu:2
+2x Sabrina			4   aus cel pre		 	 Toreador antitribu:3
+2x Lolita			3   for pre		 	 Toreador antitribu:2
+2x Carter			2   cel			 	 Toreador antitribu:2
+2x Nicholas Chang		2   aus			 	 Toreador antitribu:3
+1x Ian Wallingford		6   CEL PRE aus		 bishop	 Toreador antitribu:2
+1x Jost Werner			6   AUS PRE ani		 	 Toreador antitribu:2
+1x Sheila Mezarin		6   AUS PRE cel for	 	 Toreador antitribu:2
+1x Creamy Jade			5   PRE aus cel vic	 	 Toreador antitribu:3
+1x Cristos Mantigo		5   aus cel dom obf pre	 	 Toreador antitribu:3
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre	 	 Toreador antitribu:2
+1x Victor Revell, Loyalist	5   CEL aus dem pre	 	 Toreador antitribu:2
+
+Library (90 cards)
+Master (25; 1 trifle)
+1x Communal Haven: Cathedral
+2x Direct Intervention
+1x Elder Library
+1x Fetish Club Hunting Ground
+1x Filchware's Pawn Shop
+1x Fortschritt Library
+6x Foundation Exhibit
+1x Heidelberg Castle, Germany
+1x Humanitas
+1x Jake Washington
+4x Palla Grande
+1x Parthenon, The
+1x Powerbase: Madrid
+2x Sudden Reversal
+1x Sunset Strip, Hollywood
+
+Action (24)
+7x Art Scam
+13x Embrace, The
+4x Thin-Blooded Seer
+
+Ally (2)
+2x Alia, God's Messenger
+
+Equipment (1)
+1x Catacombs
+
+Political Action (19)
+14x Consanguineous Boon
+3x Disputed Territory
+1x Rumors of Gehenna
+1x Year of Fortune
+
+Action Modifier (4)
+4x Change of Target
+
+Combat (6)
+6x Dodge
+
+Event (9)
+1x Anthelios, The Red Star
+1x Blood Trade
+1x Blood Weakens
+1x Fall of the Camarilla
+1x Fall of the Sabbat
+1x Port Authority
+1x Restricted Vitae
+1x Slow Withering, The
+1x Veil of Darkness

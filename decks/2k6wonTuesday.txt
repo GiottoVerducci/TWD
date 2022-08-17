@@ -1,0 +1,67 @@
+Week of Nightmares - Gemini's Mirror
+Atlanta, Georgia
+October 3rd 2006
+2R+F
+25 players
+Brian Moritz
+
+Deck Name: Gangrel (Beckett)
+
+Crypt (12 cards, min=32, max=43, avg=9.42)
+------------------------------------------
+4x Beckett (ADV)  8   ANI FOR PRO cel tha  		 Gangrel:3
+3x Stanislava	  11  ANI CEL DOM FOR PRO  inner circle	 Gangrel:2
+2x Hartmut Stover 10  CEL OBF PRO dom for  archbishop	 Gangrel antitribu:3
+2x Ingrid Rossler 9   ANI FOR PRO dom	   prince	 Gangrel:2
+1x Genevieve	  10  ANI FOR PRO aus dom  priscus	 Gangrel antitribu:2
+
+Library (90 cards)
+Master (18)
+1x Backways
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Giant's Blood
+2x Information Highway
+5x Minion Tap
+2x Secure Haven
+4x Servitor of Irad
+
+Action (4)
+4x Govern the Unaligned
+
+Equipment (2)
+2x Seal of Veddartha
+
+Political Action (15)
+1x Ancient Influence
+2x Domain Challenge
+5x Honor the Elders
+3x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+2x Rumors of Gehenna
+
+Action Modifier (15)
+3x Conditioning
+7x Earth Control
+5x Forced March
+
+Reaction (10)
+8x Deflection
+2x Guard Dogs
+
+Combat (11)
+8x Form of Mist
+3x Skin of Steel
+
+Event (15)
+1x Anthelios, The Red Star
+2x Blood Trade
+2x Break the Code
+1x Edge Explosion
+2x Nightmares upon Nightmares
+1x Restricted Vitae
+2x Rise of the Nephtali
+2x Thirst
+1x Torpid Blood
+1x Unmasking, The

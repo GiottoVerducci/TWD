@@ -1,0 +1,75 @@
+American Cup Series Event #5 - Botched Move
+Columbus, Ohio
+September 29th 2021
+2R+F
+10 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/9551
+
+-- 3VP in final
+
+Deck Name:
+
+Crypt (12 cards, min=21, max=33, avg=6.75)
+------------------------------------------
+2x Cagliostro, The Grand Copht	8   OBF PRE SER nec pot	 	   Follower of Set:4
+2x Ankh-sen-Sutekh		6   PRE SER obf		 	   Follower of Set:4
+2x Zhenga			5   SER obf pre		 	   Follower of Set:4
+1x Porphyrion			9   CHI OBF PRE SER for	 	   Follower of Set:5
+1x Arnulf Jormungandrsson	8   OBF PRE SER aus cel	 	   Follower of Set:5
+1x Amenophobis			7   OBF SER dom pre	 primogen  Follower of Set:4
+1x Bupe Kuila			7   OBF POT SER pre	 	   Follower of Set:4
+1x Ogwon			7   OBF PRE SER for	 	   Follower of Set:5
+1x Abdelsobek			5   for nec obf pre ser	 	   Follower of Set:5
+
+Library (82 cards)
+Master (22; 8 trifle)
+2x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Opium Den
+1x Presence
+1x Society of Leopold
+1x Temple Hunting Ground
+5x Vampiric Disease
+8x Villein
+
+Action (21)
+1x Conceal
+7x Enchant Kindred
+2x Entrancement
+2x Form of Corruption
+2x Heart of the City
+1x Summoning, The
+6x Temptation
+
+Ally (8)
+2x Gregory Winter
+2x Impundulu
+1x Mylan Horseed
+2x Procurer
+1x Saatet-ta
+
+Equipment (2)
+2x Mokolé Blood
+
+Action Modifier (12)
+4x Cloak the Gathering
+2x Elder Impersonation
+3x Forgotten Labyrinth
+2x Lost in Crowds
+1x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (7)
+3x On the Qui Vive
+4x Ophidian Gaze
+
+Combat (6)
+6x Serpent's Numbing Kiss
+
+Event (2)
+2x Restricted Vitae

@@ -1,0 +1,65 @@
+Lessons in the Steel
+Lafayette, Indiana
+March 20th 2005
+3R+F
+10 players
+Eric Simon
+
+Description: Simple Kiasyd Toolbox with Crocodile's Tongue and
+Tenebrous Form
+
+Crypt (12 cards, min=22, max=37, avg=7.25)
+------------------------------------------
+2x Ayelea, The Manipulator 10  AUS DOM OBT THA pre  cardinal	Tremere antitribu:2
+2x Bartholomew		   8   AUS MYT NEC dom obt  		Kiasyd:2
+2x Julia Prima		   7   DOM OBT aus myt	    		Kiasyd:2
+2x Kassiym Malikhair	   6   MYT OBT dom for	    		Kiasyd:2
+2x Béatrice L'Angou	   5   MYT aus dom nec	    		Kiasyd:2
+1x Marconius		   9   DOM MYT OBT pot	    archbishop	Kiasyd:2
+1x Talley, The Hound	   6   OBT POT aus dom	    		Lasombra:2
+
+Library (90 cards)
+Master (16)
+2x Auspex
+6x Blood Doll
+1x Chanjelin Ward
+1x Channel 10
+1x Giant's Blood
+1x Hungry Coyote, The
+1x Legendary Vampire
+1x Obtenebration
+1x Retribution
+1x Sudden Reversal
+
+Action (13)
+3x Riddle Phantastique
+8x Scouting Mission
+2x Slaughtering the Herd
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (2)
+2x Bowl of Convergence
+
+Action Modifier (24)
+4x Bonding
+6x Crocodile's Tongue
+1x Shroud of Absence
+5x Stone Travel
+8x Tenebrous Form
+
+Reaction (15)
+4x Deflection
+6x Folderol
+5x Wake with Evening's Freshness
+
+Combat (18)
+2x Absorb the Mind
+4x Arms of the Abyss
+1x Darkling Trickery
+4x Earth Swords
+3x Entombment
+2x Shadow Body
+2x Shadow Step

@@ -1,0 +1,82 @@
+Camarilla Threat
+Washington, D.C.
+July 20th 2002
+10 players
+Trey Morita
+
+Created by: Trey Morita
+
+Gabrin's Paradox
+Description: Use Sense Dep on your predator to buy you breathing room.
+If you prey's actions gain him pool (votes + voter captivation, fifth
+tradition) or he rushes backwards, then sense dep him too if you can.
+Try to wait until someone is ousted before you play Week of Nightmares
+(Store it in an Annex until then). Playing the waiting game can be
+effective. Oh yeah, always get Lazar first if you draw him in your
+opening crypt. If your prey is playing big vampires he will definitely
+be worth it. (Once, on turn 2, I had Lazar bleed with computer hacking,
+freak drive, and steal one from my prey's big vampire)
+
+Would drop Red Herring, Ignis Fatuus, Rapid Healing. Maybe could use
+another Draba, another Sensory Deprivation. Clan Impersonation or Golconda
+would be useful/funny ways to save or sacrifice Gabrin before the last
+Nightmare counter is placed. Secure Haven might be a good addition to
+protect Gabrin from rushes.
+
+Crypt (12 cards, min=15, max=32, avg=5.92)
+------------------------------------------
+4x Gabrin		8   ANI CHI dom for	Ravnos:2
+3x Joaquina Amaya	6   ANI CHI FOR		Ravnos:2
+2x Lázár Dobrescu	3   for			Ravnos:2
+1x Vaclav Petalengro	6   ANI CHI for pot	Ravnos:2
+1x Khalil Ravana	5   CHI ani for pre	Ravnos:2
+1x Salbatore Bokkengro	4   CHI for pro		Ravnos:2
+
+Library (86 cards)
+Master (15)
+4x Blood Doll
+1x Fortitude
+2x Fortune Teller Shop
+2x Park Hunting Ground
+3x Path of Paradox, The
+1x Ravnos Carnival
+1x Storage Annex
+1x Week of Nightmares
+
+Action (17)
+1x Arson
+4x Computer Hacking
+1x Fleecing the Gaje
+1x Rapid Healing
+4x Restoration
+6x Sensory Deprivation
+
+Action/Reaction (3)
+3x Draba
+
+Equipment (3)
+1x Ivory Bow
+1x Palatial Estate
+1x Treasured Samadji
+
+Retainer (5)
+1x Mr. Winthrop
+4x Raven Spy
+
+Action Modifier (15)
+8x Fata Morgana
+6x Freak Drive
+1x Red Herring
+
+Action Modifier/Combat (5)
+5x Mirror Image
+
+Reaction (16)
+5x Deflection
+3x Delaying Tactics
+1x Ignis Fatuus
+7x Wake with Evening's Freshness
+
+Combat (7)
+4x Apparition
+3x Superior Mettle

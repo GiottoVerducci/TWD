@@ -1,0 +1,45 @@
+Twisting the Knife
+Madison, Wisconsin
+April 27th 2002
+10 players
+BJ Conant
+
+Deck Name: PROdom
+
+Crypt (12 cards, min=14, max=40, avg=7)
+---------------------------------------
+3x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
+3x Iliana		7   DOM FOR PRO tha	 		Gangrel:2
+2x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
+2x Daliyah		4   PRO obf		 		Nosferatu:2
+2x Chandler Hungerford	3   PRO			 		Gangrel:2
+
+Library (83 cards)
+Master (16)
+5x Dominate
+1x Ecoterrorists
+1x Golconda: Inner Peace
+1x Information Highway
+1x Legendary Vampire
+3x Minion Tap
+2x Sudden Reversal
+2x Zillah's Valley
+
+Action (16)
+2x Fifth Tradition: Hospitality
+14x Govern the Unaligned
+
+Action Modifier (15)
+8x Conditioning
+2x Foreshadowing Destruction
+3x Freak Drive
+2x Seduction
+
+Reaction (18)
+3x Deflection
+8x Redirection
+7x Wake with Evening's Freshness
+
+Combat (18)
+10x Form of Mist
+8x Quick Meld

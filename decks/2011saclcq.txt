@@ -1,0 +1,72 @@
+SAC 2011 - Last Chance Qualifier
+Juiz de Fora, Brazil
+November 13th 2011
+22 players
+Kleber Souza
+
+-- 3VP in final
+
+Deck Name: Imbuido Australiano e Modificações
+
+Crypt (12 cards, min=14, max=20, avg=4.33)
+------------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x François "Warden" Loehr	3   def jud	 Judge:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+
+Library (74 cards)
+Master (17)
+2x Angel of Berlin
+1x Brothers Grimm
+1x Church of Vindicated Faith, The
+3x Direct Intervention
+2x Dreams of the Sphinx
+1x Millicent Smith, Puritan Vampire Hunter
+1x Pentex(TM) Subversion
+1x Smiling Jack, The Anarch
+1x Society of Leopold
+1x Unity
+1x Vampiric Disease
+2x Visit from the Capuchin
+
+Conviction (17)
+5x React with Conviction
+6x Second Sight
+6x Strike with Conviction
+
+Ally (4)
+1x Carlton Van Wyk
+1x Ossian
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (11)
+3x .44 Magnum
+1x Crusader Sword, The
+1x Ivory Bow
+3x Laptop Computer
+3x Leather Jacket
+
+Power (9)
+2x Champion
+2x Discern
+2x Rejuvenate
+3x Vigilance
+
+Reaction (6)
+4x Determine
+2x On the Qui Vive
+
+Combat (3)
+3x Concealed Weapon
+
+Event (7)
+1x Anthelios, The Red Star
+1x Blood Weakens
+1x Recalled to the Founder
+1x Rising, The
+1x Slow Withering, The
+2x Unmasking, The

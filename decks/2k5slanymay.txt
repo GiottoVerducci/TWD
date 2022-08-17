@@ -1,0 +1,69 @@
+Bloody Sunday III
+Slany, Czech Republic
+May 28th 2005
+3R+F
+19 players
+Karol Magda
+
+Deck Name: Legacy of Pander (Evil Pander Deck ;-))
+
+Inspiration: http://www.veknfrance.com/decks/twd.htm#2k5glq
+
+Crypt (12 cards, min=4, max=12, avg=1.75)
+-----------------------------------------
+1x Jimmy Dunn		    4	CEL POT for	Pander:2
+1x Lena Rowe		    3	aus obf pre	Pander:2
+1x Rex, The Necronomist	    3	pot pro vic	Pander:2
+1x Christine Boscacci	    2	dom vic		Pander:2
+1x Mitchell, The Headhunter 2	obt pot		Pander:2
+1x Angela Decker	    1	pre		Pander:2
+1x Basil		    1	obf		Pander:2
+1x Feo Ramos		    1	aus		Pander:3
+1x Huang, Blood Cultist	    1	pro		Pander:2
+1x March Halcyon	    1	for		Pander:2
+1x Olga Triminov	    1	vic		Pander:3
+1x Royce		    1	dom		Pander:2
+
+Library (60 cards)
+Master (10)
+1x Anarch Troublemaker
+1x Día de los Muertos
+2x Effective Management
+1x Elder Library
+1x Fortschritt Library
+1x Humanitas
+1x Information Highway
+1x Kaymakli Nightmares
+1x Pentex(TM) Subversion
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Political Action (36)
+8x Consanguineous Boon
+4x Conservative Agitation
+1x Crusade: Amsterdam
+1x Crusade: Dublin
+1x Crusade: Frankfurt
+1x Crusade: Geneva
+1x Crusade: London
+1x Crusade: Washington, D.C.
+2x Domain Challenge
+6x Kine Resources Contested
+6x Legacy of Pander
+2x Reinforcements
+1x Rumors of Gehenna
+1x Year of Fortune
+
+Action Modifier (5)
+4x Change of Target
+1x Cryptic Rider
+
+Combat (4)
+4x Dodge
+
+Event (4)
+1x Anthelios, The Red Star
+1x Blood Weakens
+1x Slow Withering, The
+1x Veil of Darkness

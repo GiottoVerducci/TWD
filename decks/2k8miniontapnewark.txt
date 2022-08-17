@@ -1,0 +1,65 @@
+Minion Tap
+Newark, Ohio
+February 24th 2008
+2R+F
+23 players
+Brad Cashdollar
+
+"Ashley's Angry Dragon"
+
+Crypt (12 cards, min=26, max=39, avg=8.42)
+------------------------------------------
+3x Nefertiti				10  DOM OBF PRE SER cel pot		 Follower of Set:2
+3x Khay'tall, Snake of Eden		9   DOM OBF PRE SER aus			 Follower of Set:2
+2x Kahina the Sorceress			9   AUS DOM OBF SER nec pre	1 vote	 Follower of Set:3
+2x Kephamos, High Priest of Marrakech	8   SER dom obf pre		2 votes	 Follower of Set:2
+2x Count Ormonde			5   OBF dom pre ser			 Follower of Set:2
+
+Library (88 cards)
+Master (15; 2 trifle)
+2x Blood Doll
+1x Cave of Apples
+1x Direct Intervention
+1x Giant's Blood
+1x Golconda: Inner Peace
+3x Heidelberg Castle, Germany
+1x Khobar Towers, Al-Khubar
+1x Legendary Vampire
+1x Opium Den
+1x Secure Haven
+2x Vessel
+
+Action (22)
+1x Dominate Kine
+4x Enticement
+2x Form of Corruption
+5x Govern the Unaligned
+6x Mind Rape
+4x Temptation
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (2)
+1x Ancient Influence
+1x Political Stranglehold
+
+Action Modifier (28)
+2x Approximation of Loyalty
+4x Cloak the Gathering
+4x Conditioning
+4x Elder Impersonation
+4x Forgotten Labyrinth
+4x Lost in Crowds
+4x Seduction
+2x True Love's Face
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (12)
+10x Deflection
+2x On the Qui Vive
+
+Combat (6)
+6x Majesty

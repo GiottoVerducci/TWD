@@ -1,0 +1,37 @@
+Italian Qualifier Tour 3rd stage (Milan) - Helena
+Milan, Italy
+March 3rd 2012
+2R+F
+17 players
+Davide Antoni
+
+-- 5VP in final
+
+Deck Name: Nergal 2.0 GT Turbo Beast
+
+Description: I won the final in two rounds, once Nergal was awake
+
+Crypt (12 cards, min=4, max=40, avg=5)
+--------------------------------------
+5x Nergal	   10  AUS DAI FOR OBF PRE THA	Baali:5
+2x Andy		   1   for			Caitiff:4
+1x Denette Stensen 2   obf			Gangrel antitribu:4
+1x Eric Milliner   2   pot			Giovanni:5
+1x Nichodemus	   2   pot			Nosferatu:5
+1x Dirk		   1   pre			Caitiff:4
+1x Walker Grimes   1   ani			Caitiff:5
+
+Library (90 cards)
+Action (24)
+11x Call the Great Beast
+11x Eternal Mask, The
+2x Scrounging
+
+Action Modifier (63)
+12x Daring the Dawn
+2x Elder Impersonation
+4x Faceless Night
+45x Freak Drive
+
+Action Modifier/Reaction (3)
+3x Sense the Sin

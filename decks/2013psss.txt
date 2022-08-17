@@ -1,0 +1,76 @@
+Praxis: Salamanca
+Salamanca, Spain
+July 6th 2013
+3R+F
+12 players
+Fernando Nieto Martín
+
+-- 4VP in final
+
+Deck Name: AAA
+Created by: Alberto Sanchez
+
+Description: Typical AAA. Never fails.
+
+Crypt (12 cards, min=19, max=43, avg=8.17)
+------------------------------------------
+3x Alexandra	   11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+3x Anneke	   10  AUS CEL PRE dom	    justicar	  Toreador:1
+3x Anson	   8   CEL PRE aus dom	    prince	  Toreador:1
+1x Ramiel DuPre	   5   PRE aus cel dom	    		  Toreador:1
+1x Mariana Gilbert 4   PRE cel		    		  Toreador:1
+1x Delilah Easton  2   pre		    		  Toreador:1
+
+Library (85 cards)
+Master (32)
+1x Anarch Troublemaker
+1x Art Museum
+1x Direct Intervention
+4x Information Highway
+1x Jake Washington
+1x Legendary Vampire
+6x Minion Tap
+1x Misdirection
+1x Parthenon, The
+1x Protected Resources
+1x Society Hunting Ground
+1x Sudden Reversal
+1x Temptation of Greater Power
+7x Toreador Grand Ball
+4x Zillah's Valley
+
+Action (4)
+2x Charming Lobby
+2x Entrancement
+
+Political Action (19)
+2x Anarchist Uprising
+2x Ancilla Empowerment
+1x Banishment
+1x Conservative Agitation
+3x Kine Resources Contested
+1x Neonate Breach
+7x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (11)
+2x Aire of Elation
+2x Awe
+2x Bewitching Oration
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (7)
+1x Deflection
+2x Redirection
+2x Second Tradition: Domain
+2x Wake with Evening's Freshness
+
+Combat (9)
+9x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

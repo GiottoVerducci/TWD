@@ -1,0 +1,70 @@
+From Paris with love
+Minsk, Belarus
+November 14th 2010
+3R+F
+11 players
+Alex Minov
+
+-- 4VP in final
+
+Deck Name: AAA
+
+Crypt (13 cards, min=22, max=42, avg=8.15)
+------------------------------------------
+5x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+2x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+1x Dorian Strack   4   AUS cel					Toreador:1
+1x Isabel de Leon  3   AUS					Toreador:2
+
+Library (90 cards)
+Master (45; 10 trifle)
+1x Art Museum
+1x Blind Spot
+1x Coven, The
+3x Dreams of the Sphinx
+1x Fortschritt Library
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x House of Sorrow
+3x Information Highway
+2x Jake Washington
+1x Legendary Vampire
+1x Monastery of Shadows
+1x Papillon
+2x Parthenon, The
+2x Pentex(TM) Subversion
+1x Temptation of Greater Power
+7x Toreador Grand Ball
+9x Villein
+6x Zillah's Valley
+
+Action (5)
+1x Aranthebes, The Immortal
+4x Entrancement
+
+Political Action (20)
+1x Ancient Influence
+3x Banishment
+3x Conservative Agitation
+3x Kine Resources Contested
+2x Neonate Breach
+6x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (7)
+4x Perfect Paragon
+3x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (9)
+3x Eyes of Argus
+6x Telepathic Misdirection
+
+Event (2)
+2x Anthelios, The Red Star

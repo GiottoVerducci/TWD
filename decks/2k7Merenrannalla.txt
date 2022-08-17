@@ -1,0 +1,58 @@
+Mökkiqualifier (summercottagequalifier)
+Gislarbölentie, Pernaja, Finland
+July 1st 2007
+18 players
+Tuomas Vuokko
+
+Deck Name: Annis Loves You
+
+Description: Black Annis "cycles" your combat while the others
+graverob vampires and bleed with potence stealth.
+
+Crypt (12 cards, min=19, max=36, avg=7.08)
+------------------------------------------
+4x Black Annis		    9	OBF POT ani pro			Nosferatu antitribu:4
+2x Julio Martinez	    9	ANI DOM OBF POT nec	bishop	Nosferatu antitribu:3
+2x Joseph Cambridge	    6	POT ani dom obf		bishop	Nosferatu antitribu:4
+1x Virginie, Prodigy	    6	DOM POT obt		bishop	Lasombra:4
+1x Dr. Julius Sutphen (ADV) 5	POT dom obt			Lasombra:3
+1x Wah Chun-Yuen	    5	POT cel dom pre			Brujah antitribu:3
+1x Almodo Giovanni	    3	dom pot				Giovanni:4
+
+Library (90 cards)
+Master (13)
+5x Blood Doll
+2x Dreams of the Sphinx
+2x Fame
+1x Giant's Blood
+1x Nosferatu Kingdom
+1x Shanty Town Hunting Ground
+1x Tension in the Ranks
+
+Action (10)
+4x Govern the Unaligned
+6x Graverobbing
+
+Equipment (2)
+2x Leather Jacket
+
+Action Modifier (8)
+3x Cloak the Gathering
+5x Conditioning
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Reaction (13)
+5x Deflection
+2x Redirection
+6x Wake with Evening's Freshness
+
+Combat (38)
+6x Disarm
+2x Earthshock
+9x Immortal Grapple
+7x Taste of Vitae
+1x Thrown Sewer Lid
+8x Torn Signpost
+5x Undead Strength

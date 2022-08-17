@@ -1,0 +1,67 @@
+DragonCon - Improvised Tactics
+DragonCon 2003, Atlanta, Georgia
+August 29th 2003
+16 players
+Matt Guinn
+
+Deck Name: Who Needs Stealth
+
+Crypt (12 cards, min=16, max=32, avg=6.08)
+------------------------------------------
+1x Donatien			9   AUS PRE cel pot	 cardinal	Toreador antitribu:2
+1x Fleurdumal			8   AUS DEM PRE cel tha	 prince		Toreador:3
+1x Lachlan, Noddist		8   AUS CEL PRE dom	 archbishop	Toreador antitribu:2
+1x Greta Kircher		7   AUS CEL PRE obf	 		Toreador antitribu:2
+1x Jessica			7   AUS CEL OBT PRE	 bishop		Toreador antitribu:2
+1x Ian Wallingford		6   CEL PRE aus		 bishop		Toreador antitribu:2
+1x Jost Werner			6   AUS PRE ani		 		Toreador antitribu:2
+1x Sheila Mezarin		6   AUS PRE cel for	 		Toreador antitribu:2
+1x Creamy Jade			5   PRE aus cel vic	 		Toreador antitribu:3
+1x Michael Luther		4   aus pre		 		Toreador:3
+1x Remilliard, Devout Crusader	4   AUS pre		 		Toreador antitribu:2
+1x Lolita			3   for pre		 		Toreador antitribu:2
+
+Library (90 cards)
+Master (20; 1 trifle)
+2x Anarch Revolt
+1x Anarch Troublemaker
+1x Barrens, The
+3x Blood Doll
+1x Coven, The
+3x Dreams of the Sphinx
+1x Hungry Coyote, The
+1x Misdirection
+4x Palla Grande
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+
+Action (16)
+11x Enchant Kindred
+1x Entrancement
+4x Mind Numb
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (10)
+4x Consanguineous Boon
+5x Conservative Agitation
+1x Dramatic Upheaval
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (18)
+4x Awe
+8x Change of Target
+2x Telepathic Vote Counting
+4x Voter Captivation
+
+Reaction (16)
+4x Forced Awakening
+8x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (8)
+8x Majesty

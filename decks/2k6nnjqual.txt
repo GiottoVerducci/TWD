@@ -1,0 +1,110 @@
+NAC Qualifier
+Northfield, New Jersey
+March 18th 2006
+3R+F
+25 players
+Matthew Morgan
+
+Deck Name: This is not a Hatchling deck
+
+Description: It's basically a swarm deck that can fight. I even found
+myself playing it like a swarm, i.e. Mustafa bleeds, gets blocked, I don't
+bother to slave in, but bleed with a Gargoyle instead.
+
+Crypt was just fine. I got Ublo-Satha in every round except the
+final. I always had a decent mix of Tremere and Gargoyles in my
+uncontrolled region.
+
+Aranthebes would've saved me in round 3, but he declined to make an
+appearance. Could've made even had more Create Gargoyles. Alas
+for the Hatchlings. Defender of the Haven is strong. I got it
+into play in rounds 1 and 3.
+
+Probably should've been more but this was meant to be an
+exploratory effort.
+
+Raking Talons and Rockheart are both super good. Check out the
+outferior of Rockheart. It totally saved me from Shambling Hordes
+in round 2 and got me that vital .5VP I needed to make the final.
+I didn't really feel like the Grapples were that necessary. The
+could probably be cut for more of the other stuff. I mean, it's a
+swarm deck that might agg you if you block. It's not like I need
+to make every combat count. Roll is a great card and was also
+good for frustrating Shambling Hordes. I originally had Tastes,
+but cut them due to poor synergy with agg pokes. I should've had
+Stone Quills in here. It's the only real answer to Sniper Rifle.
+
+Never saw the hunting ground. I figured Arcane Library would be
+killer, but I only drew it in the final and had no Tremere in my
+uncontrolled region. Chantry was played but not used as there
+were no rush decks to target my Tremere. The Potence master and
+Havens Uncovered weren't useful. Six Blood Dolls was my way of
+insuring the deck wouldn't be completely pathetic.
+
+I wanted to try out Scry the Hearthstone. It's limitation to (D)
+actions (similar limitation to Defender of the Haven) makes it
+kind of bad because vote decks and other such things can act with
+impunity. I mostly discarded them and probably would've rather
+had Patrol. Delaying Tactics were really big for me in the final
+and I was lucky to draw them both in my first 20 cards. I played
+the first one to Delay Josh's Free States Rant which was to be 4
+points on my guys. When he called the vote again the next turn,
+he needed to put some of the points backward on Ethan. My other
+use was mentioned above.
+
+The Razor Bats were good when I got them. I probably should've had
+four of them. The Stone Dog was always discarded. I was thinking
+that permanent rush would be useful, but I just never wanted to
+pay 3 pool for the privilege.
+
+Crypt (12 cards, min=11, max=27, avg=4.83)
+------------------------------------------
+3x Ublo-Satha		   7   FOR POT VIS cel	Gargoyle:2
+2x Saxum, Master of Slaves 6   FOR VIS pot pre	Gargoyle:2
+2x Luma, Stone Beauty	   5   FOR aus pot vis	Gargoyle:2
+1x Ignatius		   4   aus dom tha	Tremere:1
+1x Sarah Cobbler	   4   THA dom		Tremere:1
+1x Jing Wei		   3   dom tha		Tremere:1
+1x Mustafa Rahman	   2   dom		Tremere:2
+1x Roreca Quaid		   2   tha		Tremere:1
+
+Library (90 cards)
+Master (15)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Barrens, The
+6x Blood Doll
+1x Chantry
+1x Dominate
+1x Fame
+2x Haven Uncovered
+1x Potence
+
+Action (12)
+1x Aranthebes, The Immortal
+6x Create Gargoyle
+3x Defender of the Haven
+2x Hatchling
+
+Retainer (3)
+2x Razor Bat
+1x Stone Dog
+
+Action Modifier (4)
+4x Conditioning
+
+Reaction (20)
+6x Deflection
+2x Delaying Tactics
+4x Forced Awakening
+4x Scry the Hearthstone
+4x Wake with Evening's Freshness
+
+Combat (36)
+4x Crawling Chamber
+6x Immortal Grapple
+4x Pounce
+3x Pulled Fangs
+8x Raking Talons
+9x Rockheart
+2x Roll

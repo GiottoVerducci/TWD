@@ -1,0 +1,80 @@
+Oktoberfest
+Cape Town, South Africa
+October 9th 2009
+2R+F
+18 players
+O'Neil Schutte
+
+Deck Name: Murmurs of Conditional Trust
+
+Description: Presence and dominate weenie storm.
+
+Crypt (23 cards, min=4, max=16, avg=2.09)
+-----------------------------------------
+2x Bethany Ray		  4   PRE aus	   Toreador:5
+2x Keith Moody		  3   DOM	   Tremere antitribu:4
+2x Dr. Solomon Grey	  2   dom pre	   Caitiff:5
+2x Jackson Asher	  2   dom	   Ventrue:4
+2x César Holfield	  1   obf	   Caitiff:4
+2x Johan Wrede		  1   tha	   Caitiff:4
+2x Walker Grimes	  1   ani	   Caitiff:5
+1x Reverend Adams (ADV)	  4   PRE aus	   Ventrue:4
+1x Robin Withers	  4   dom obf pre  Ventrue:4
+1x Honest Abe		  2   pre	   Brujah:5
+1x Jack Tredegar	  2   pre	   Ventrue:5
+1x Jayne Jonestown	  2   PRE	   Brujah antitribu:4
+1x Justine Chen, Innocent 2   pre	   Toreador antitribu:4
+1x Sean Andrews		  2   cel	   Toreador:4
+1x Basir		  1   qui	   Assamite:4
+1x Donald Cargill	  1   aus	   Caitiff:5
+
+Library (89 cards)
+Master (39; 10 trifle)
+1x Aching Beauty
+1x Art Museum
+1x Barrens, The
+5x Blood Doll
+1x Dominate
+2x Dummy Corporation
+3x Effective Management
+1x Jake Washington
+6x Life in the City
+2x Misdirection
+1x Parthenon, The
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Powerbase: Zürich
+2x Presence
+1x Secret Horde
+1x Sermon of Caine
+1x Therbold Realty
+1x Threestar Cab Company
+1x Uptown Hunting Ground
+3x Vessel
+1x Visit from the Capuchin
+1x Wash
+
+Action (21)
+3x Computer Hacking
+1x Dream World
+3x Enchant Kindred
+1x Entrancement
+2x Media Influence
+1x Mind Rape
+10x Public Trust
+
+Action Modifier (10)
+2x Aire of Elation
+1x Command of the Beast
+7x Conditioning
+
+Action Modifier/Reaction (7)
+7x Murmur of the False Will
+
+Combat (10)
+3x Dodge
+2x Glancing Blow
+5x Unholy Penance
+
+Event (2)
+2x Narrow Minds

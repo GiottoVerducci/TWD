@@ -1,0 +1,80 @@
+Yawp court: Moss
+Moss, Norway
+August 25th 2019
+3R+F
+10 players
+Björn Rohm
+https://www.vekn.net/event-calendar/event/9341
+
+-- 1GW4 + 2.5VP in final
+
+Deck Name: Shadow of Yggdrasil
+
+Crypt (12 cards, min=19, max=40, avg=7.67)
+------------------------------------------
+4x Mimir	  10  ANI FOR PRO THA dom	cardinal  Gangrel antitribu:5
+3x Aksinya Daclau 9   ANI FOR PRE PRO cel tha		  Gangrel antitribu:4
+1x Frère Marc	  6   PRO THA aus for			  Gangrel antitribu:4
+1x Spider	  6   CEL PRO ani for			  Gangrel antitribu:4
+1x Mowgli	  5   FOR PRO ani cel			  Gangrel antitribu:4
+1x Styles Margs	  5   CEL PRO ani			  Gangrel antitribu:5
+1x Joseph Fischer 3   PRO				  Gangrel antitribu:5
+
+Library (90 cards)
+Master (23; 4 trifle)
+1x Archon Investigation
+1x Campground Hunting Ground
+2x Dreams of the Sphinx
+1x Ennoia's Theater
+1x Giant's Blood
+1x Hungry Coyote, The
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+1x Path of the Feral Heart, The
+1x Rack, The
+1x Regent
+1x Storage Annex
+4x Villein
+6x Zillah's Valley
+
+Action (15)
+1x Abbot
+1x Blood of Sandman
+8x Deep Song
+1x Eternal Vigilance
+1x Rutor's Hand
+1x Tier of Souls
+2x Under Siege
+
+Equipment (1)
+1x Inveraray, Scotland
+
+Political Action (6)
+1x Ancient Influence
+1x Banishment
+1x Cardinal Benediction
+1x Consanguineous Condemnation
+1x Kindred Segregation
+1x Political Stranglehold
+
+Retainer (1)
+1x Owl Companion
+
+Action Modifier (13)
+2x Beast Meld
+2x Earth Control
+2x Enkil Cog
+7x Freak Drive
+
+Action Modifier/Combat (4)
+4x Rapid Change
+
+Reaction (4)
+4x On the Qui Vive
+
+Combat (23)
+5x Aid from Bats
+4x Carrion Crows
+2x Claws of the Dead
+10x Form of Mist
+2x Wolf Claws

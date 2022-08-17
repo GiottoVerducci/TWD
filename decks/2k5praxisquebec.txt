@@ -1,0 +1,68 @@
+Praxis Seizure: Québec
+Quebec City, Quebec
+April 3rd 2005
+3R+F
+27 players
+Michel-Étienne Fortin
+
+Deck Name: Mage Power
+
+Description: Weenie ally swarm using one of the most versatile ally in
+the game. Put out a couple vamps, recruit like crazy and start the
+onslaught. Once the recruiting is done, the vamps are here mostly to
+hunt and bloat with the blood dolls or bounce bleeds and block
+unharmful vampires. The rest is all done by the nephandi and Ossian
+(who can be a real beast with Memories + Trap). Since you only have to
+spend about 8-10 pools for vamps, you can afford to recruit about 4 or
+5 allies and still have a decent pool cushion. The deck fears
+intercept and the creepshow is often not enough, but you can bait them
+out if you have multiple nephandus in your hand and try to slip one
+by. Heavy combat is bad as well, which the Québec metagame is full of,
+but the Memories help a lot here, hence the high number of
+them in the deck; just remember that Carrion Crows are your worst
+enemy (about 1 deck out of 3 played those during the tournament, so
+I'm surprised I managed to do that well).
+
+Crypt (12 cards, min=10, max=20, avg=3.67)
+------------------------------------------
+2x Kurt Strauss			   5   DOM aus tha	Tremere antitribu:2
+2x Brooke			   3   dom tha		Tremere antitribu:2
+2x Heinrick Schlempt		   2   tha		Tremere antitribu:2
+1x Alejandro Aguirre		   5   ani aus dom tha	Tremere antitribu:3
+1x Hannigan			   5   AUS THA dom	Tremere antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha		Tremere antitribu:2
+1x Thelonius			   4   aus dom tha	Tremere antitribu:2
+1x Ember Wright			   3   aus dom		Tremere antitribu:3
+1x Saiz				   3   aus dom		Tremere antitribu:3
+
+Library (70 cards)
+Master (25)
+4x Blood Doll
+2x Charisma
+3x Creepshow Casino
+3x Fortschritt Library
+2x Haven Uncovered
+2x KRCG News Radio
+7x Memories of Mortality
+1x Mob Connections
+1x WMRH Talk Radio
+
+Action (7)
+1x Aranthebes, The Immortal
+6x Bum's Rush
+
+Ally (14)
+12x Nephandus
+2x Ossian
+
+Reaction (10)
+6x Deflection
+4x Wake with Evening's Freshness
+
+Combat (13)
+2x Dodge
+4x Fake Out
+7x Trap
+
+Event (1)
+1x Unmasking, The

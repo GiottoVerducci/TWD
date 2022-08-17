@@ -1,0 +1,64 @@
+South East Queensland Qualifier
+Brisbane, Australia
+May 12th 2007
+12 players
+Julian Gatt
+
+Deck Name: I like Dirt 2007
+
+Description: Earth Meld wall with a splash of stealth bleed
+
+Crypt (12 cards, min=12, max=27, avg=4.67)
+------------------------------------------
+2x Nadima		8   FOR PRO SER ani aus	 Gangrel:3
+2x Dr. Allan Woodstock	5   PRO ani aus for	 Gangrel:3
+2x Chandler Hungerford	3   PRO			 Gangrel:2
+1x Horrock		6   ANI PRO vic		 Gangrel:3
+1x Mirembe Kabbada	5   PRO SER ani		 Gangrel:2
+1x Daliyah		4   PRO obf		 Nosferatu:2
+1x Isabel de Leon	3   AUS			 Toreador:2
+1x Martin Franckel	3   AUS tha		 Tremere:3
+1x Zöe			3   AUS cel obf		 Malkavian:2
+
+Library (75 cards)
+Master (12)
+1x Backways
+4x Blood Doll
+1x Direct Intervention
+1x Ecoterrorists
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+1x Pentex(TM) Subversion
+1x Rack, The
+1x Zoo Hunting Ground
+
+Action (6)
+4x Anima Gathering
+1x Aranthebes, The Immortal
+1x Atonement
+
+Equipment (6)
+3x Laptop Computer
+2x Sniper Rifle
+1x Sport Bike
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+2x Raven Spy
+
+Action Modifier (6)
+6x Earth Control
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Reaction (9)
+7x Forced Awakening
+2x Sonar
+
+Combat (30)
+18x Earth Meld
+5x Form of Mist
+3x Form of the Ghost
+4x Quick Meld

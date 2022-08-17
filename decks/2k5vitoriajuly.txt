@@ -1,0 +1,64 @@
+ES State Championship
+Vitória, Brazil
+July 30th 2005
+3R+F
+20 players
+Gabriel Waichert
+
+Deck Name: A revolução do proletariado
+
+Crypt (22 cards, min=4, max=8, avg=1.36)
+----------------------------------------
+2x Igo the Hungry	1   pre pro	Caitiff:1
+2x Julius		1   qui ser	Caitiff:2
+2x Navar McClaren	1   ani		Caitiff:1
+2x Nik			1   cel		Caitiff:1
+2x Smudge the Ignored	1   -none-	Caitiff:1
+1x Angel		2   cel		Brujah:1
+1x Delilah Easton	2   pre		Toreador:1
+1x Dimple		2   obf		Nosferatu:1
+1x Giuliano Vincenzi	2   for		Gangrel:1
+1x Lupo			2   pot		Brujah:1
+1x Magdelena Schaefer	2   THA		Caitiff:2
+1x Normal		2   obf		Malkavian:1
+1x Vliam Andor		2   ani		Gangrel:1
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Franciscus		1   aus		Caitiff:2
+1x Hasina Kesi		1   pot		Caitiff:1
+1x Uriah Winter		1   for pot	Caitiff:1
+
+Library (70 cards)
+Master (13)
+2x Direct Intervention
+5x Effective Management
+1x Elysium: The Arboretum
+4x Information Highway
+1x Sudden Reversal
+
+Political Action (50)
+8x Autarkis Persecution
+1x Command of the Harpies
+7x Conservative Agitation
+2x Disputed Territory
+1x Justicar Retribution
+17x Kine Resources Contested
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Boston
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: Dallas
+1x Praxis Seizure: Dublin
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Glasgow
+1x Praxis Seizure: Houston
+1x Praxis Seizure: London
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Venice
+
+Action Modifier (7)
+2x Bribes
+1x Change of Target
+2x Closed Session
+2x Cryptic Rider

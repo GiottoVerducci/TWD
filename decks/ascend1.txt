@@ -1,0 +1,89 @@
+Ascendance 1
+West Windsor, New Jersey
+December 18th 1999
+22 players
+Brian Wellington
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TEcWI9sxp1Y
+
+Deck Name: Big Toreador Deck
+
+Here is the winning deck for "Ascendance: 1", with comments from the winner.
+It's a very interesting combination deck using Pool Gain, Votes, Intercept,
+and Bounce:
+
+By: Brian Wellington
+
+"I usually call this the 'big Toreador deck'. It's based around large Toreadors
+with useful special abilities. Most of them have votes, and most have +bleed.
+The deck mostly tries to gain pool (5th Tradition, Voter Cap, Minion Tap, Blood
+Doll, etc). There are votes to call, and the natural bleeds. There's enough
+intercept to block a non-stealth bleed deck, and a bit of bleed bounce.
+There are a lot of untaps - Wake, 2nd Tradition, and Alexandra and Masika's
+abilities. Combat defense is based around presence S:CE, celerity dodge and
+prevent, and the Elysium.
+
+"The deck mostly worked as planned in the tournament, with a few surprises.
+I torpored 6 vampires in the final round with Catatonic Fear and celerity
+cards, which has never happened before. Very few votes succeeded (I never
+used a Voter Cap), but bleeding worked fairly well. I also never saw a duplicate
+vampire in a game, which is often a problem with this crypt, and it also helped
+that I didn't see any other Toreador decks."
+
+Crypt (12 cards, min=26, max=42, avg=9)
+---------------------------------------
+2x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+2x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+2x Masika	   10  AUS CEL PRE		primogen	Toreador:1
+2x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+2x Felicia Mostrom 5   AUS CEL pre				Toreador:1
+
+Library (90 cards)
+Master (23)
+3x Aching Beauty
+2x Art Museum
+3x Blood Doll
+1x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Giant's Blood
+3x Information Highway
+4x Minion Tap
+1x Rack, The
+2x Society Hunting Ground
+1x Tomb of Rameses III
+1x Toreador Grand Ball
+
+Action (5)
+2x Entrancement
+3x Fifth Tradition: Hospitality
+
+Political Action (11)
+1x Ancient Influence
+1x Banishment
+1x Consanguineous Boon
+2x Disputed Territory
+4x Kine Resources Contested
+1x Parity Shift
+1x Protect Thine Own
+
+Action Modifier (10)
+2x Alacrity
+3x Bewitching Oration
+1x Scorn of Adonis
+4x Voter Captivation
+
+Reaction (23)
+2x Eagle's Sight
+3x Enhanced Senses
+1x Precognition
+4x Second Tradition: Domain
+4x Telepathic Counter
+4x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (18)
+3x Acrobatics
+3x Catatonic Fear
+5x Majesty
+2x Side Strike
+5x Sideslip

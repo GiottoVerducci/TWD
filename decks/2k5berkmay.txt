@@ -1,0 +1,61 @@
+Eudemonia
+Eudemonia, Berkeley, California
+May 14th 2005
+2R+F
+10 players
+David Sisson
+
+Deck Name: Four Hours Ago
+Created by: ICL
+
+Description: Stealth bleed with extra combat. Simplified from a deck
+built around Darkling Trickery.
+
+Crypt (12 cards, min=22, max=34, avg=7.17)
+------------------------------------------
+2x Marconius		9   DOM MYT OBT pot	 archbishop	Kiasyd:2
+2x Bartholomew		8   AUS MYT NEC dom obt	 		Kiasyd:2
+2x Ian Forestal		8   AUS DOM THA		 		Tremere antitribu:2
+2x Julia Prima		7   DOM OBT aus myt	 		Kiasyd:2
+2x Kassiym Malikhair	6   MYT OBT dom for	 		Kiasyd:2
+2x Béatrice L'Angou	5   MYT aus dom nec	 		Kiasyd:2
+
+Library (80 cards)
+Master (13; 1 trifle)
+1x Barrens, The
+5x Blood Doll
+1x Coven, The
+1x Giant's Blood
+1x Hungry Coyote, The
+1x Information Highway
+1x Obtenebration
+1x Perfectionist
+1x Rack, The
+
+Action (7)
+6x Govern the Unaligned
+1x Riddle Phantastique
+
+Equipment (3)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+
+Action Modifier (12)
+5x Conditioning
+2x Shadow Play
+5x Stone Travel
+
+Action Modifier/Reaction (6)
+6x Aura Absorption
+
+Reaction (15)
+6x Deflection
+2x Redirection
+7x Wake with Evening's Freshness
+
+Combat (24)
+7x Arms of the Abyss
+8x Darkling Trickery
+7x Earth Swords
+2x Oubliette

@@ -1,0 +1,70 @@
+Kindred Segregation
+San Juan, Philippines
+December 8th 2001
+Khervin Cheng Chua
+
+Deck Name: Oh My, Omaya!
+
+Inspired by Derek Ray's Omaya Wall deck, this deck tools up a Country
+!Gangrel with Auspex (ideally Omaya) with raven spies and wall up to protect
+blood/pool-gainers while other vamps bleed or bounce bleeds...
+
+Crypt (12 cards, min=19, max=32, avg=6.42)
+------------------------------------------
+4x Omaya	    7	ANI AUS FOR pro			 Gangrel antitribu:2
+2x Caitlin	    6	ANI PRO aus dom		bishop	 Gangrel antitribu:2
+2x Monique	    5	ani aus for pro			 Gangrel antitribu:2
+1x Genevieve	    10	ANI FOR PRO aus dom	priscus	 Gangrel antitribu:2
+1x Haakon Mortensen 8	ANI FOR PRO			 Gangrel antitribu:2
+1x Luther	    6	ANI for obt pro			 Gangrel antitribu:2
+1x Leon		    3	ani for				 Gangrel antitribu:2
+
+Library (80 cards)
+Master (15)
+2x Auspex
+4x Blood Doll
+1x Club Zombie
+1x Heidelberg Castle, Germany
+1x Hungry Coyote, The
+1x Path of the Feral Heart, The
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+1x Protean
+1x Rack, The
+1x Smiling Jack, The Anarch
+
+Action (3)
+2x Army of Rats
+1x Revelations
+
+Equipment (1)
+1x Sniper Rifle
+
+Retainer (9)
+2x Homunculus
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Owl Companion
+3x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (3)
+3x Freak Drive
+
+Reaction (24)
+8x Cats' Guidance
+6x Forced Awakening
+4x Guard Dogs
+2x Precognition
+4x Telepathic Misdirection
+
+Combat (25)
+1x Body Flare
+2x Carrion Crows
+4x Claws of the Dead
+4x Drawing Out the Beast
+4x Earth Meld
+2x Form of Mist
+2x Quick Meld
+2x Telepathic Tracking
+4x Wolf Claws

@@ -1,0 +1,50 @@
+The Hunt for Kemintiri - Miniqualifier Tour
+Bologna, Italy
+April 18th 2010
+41 players
+Patrizio Zippone
+
+Crypt (12 cards, min=14, max=22, avg=4.67)
+------------------------------------------
+2x Onaedo		 6   DOM OBT aus pot		Lasombra:4
+2x Andrew Emory		 5   OBT aus dom pot	bishop	Lasombra:4
+2x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
+2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+2x Leila Monroe		 4   dom obt pre		Lasombra:4
+2x Lucy Markowitz	 3   dom obt			Lasombra:4
+
+Library (90 cards)
+Master (17; 1 trifle)
+3x Blood Doll
+2x Dreams of the Sphinx
+2x Elysian Fields
+1x Fortschritt Library
+5x Path of Night, The
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Vessel
+
+Action (8)
+8x Govern the Unaligned
+
+Ally (23)
+23x Nocturn
+
+Equipment (1)
+1x Zaire River Ferry
+
+Action Modifier (22)
+4x Conditioning
+4x Foreshadowing Destruction
+7x Shadow Play
+7x Shroud of Night
+
+Reaction (16)
+7x Deflection
+2x Delaying Tactics
+6x On the Qui Vive
+1x Wake with Evening's Freshness
+
+Event (3)
+1x Anthelios, The Red Star
+2x Unmasking, The

@@ -1,0 +1,43 @@
+Tom pasa a mejor vida
+Palma de Mallorca, Spain
+April 28th 2012
+3R+F
+12 players
+Carlos Tomás Arán
+
+Deck Name: Las bichas bola: el fin de VTES
+Created by: Carlos Tomás and Ginés Quiñonero
+
+Description: Bring out as many Hermanas as you can, and Angelo.
+Then bloat until you are ready to crush your opponents for the
+win. when an Hermana Hambrienta Menor enters play, she burns
+2 blood. On your next turn, you should refill her via Lilith's
+Blessing and give her superior Potence.
+
+Crypt (12 cards, min=8, max=28, avg=3.67)
+-----------------------------------------
+8x Hermana Hambrienta Menor 2	pot san			Blood Brother:4
+4x Angelo		    7	CEL FOR SAN pot vic	Blood Brother:3
+
+Library (90 cards)
+Master (25; 10 trifle)
+2x Fame
+2x Hungry Coyote, The
+6x Lilith's Blessing
+5x Potence
+9x Vessel
+1x Wider View
+
+Action (15)
+7x Games of Instinct
+4x Oppugnant Night
+2x Preternatural Strength
+2x Sanguine Instruction
+
+Combat (50)
+4x Brother's Blood
+3x Decapitate
+12x Immortal Grapple
+10x Octopod
+9x Three's a Crowd
+12x Torn Signpost

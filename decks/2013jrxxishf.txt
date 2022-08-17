@@ -1,0 +1,70 @@
+Justicar Retribution XXI - Somniferum
+Helsinki, Finland
+November 24th 2013
+3R+F
+10 players
+Karri Malm
+
+Deck Name: Sabbat Politics feat. Kisha Bhimji
+
+Description: The big guys vote and bloat. Bleed defence is outsourced to Africa, with two cheap votes on the side.
+
+Crypt (12 cards, min=20, max=39, avg=7.5)
+-----------------------------------------
+4x Kisha Bhimji		5   AUS cel obf pot		magaji	    Osebo:3
+2x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+2x Marcel de Breau	9   CEL POT PRE ani pro		archbishop  Brujah antitribu:3
+2x Klaus Konrecht	8   AUS CEL PRE for pot		cardinal    Toreador antitribu:4
+1x Melinda Galbraith	10  AUS CEL DOM POT PRE obt	cardinal    Lasombra:4
+1x Shawnda Dorrit	6   CEL obt pot pre		priscus	    Brujah antitribu:4
+
+Library (88 cards)
+Master (21; 5 trifle)
+1x Black Forest Base
+2x Blood Doll
+1x Coven, The
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+3x Minion Tap
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Secure Haven
+1x Sudden Reversal
+2x Vessel
+2x Wider View
+
+Action (5)
+3x Enchant Kindred
+2x Entrancement
+
+Political Action (18)
+1x Anarchist Uprising
+2x Banishment
+2x Conservative Agitation
+2x Honor the Elders
+9x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (17)
+1x Awe
+3x Bewitching Oration
+3x Iron Glare
+5x Veil the Legions
+5x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (14)
+1x My Enemy's Enemy
+2x On the Qui Vive
+4x Telepathic Counter
+5x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (10)
+7x Majesty
+3x Thrown Gate

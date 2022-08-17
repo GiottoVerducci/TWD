@@ -1,0 +1,67 @@
+Agosto en Badia
+Badia del Vallès, Spain
+August 11th 2019
+3R+F
+24 players
+Genís Prats
+https://www.vekn.net/event-calendar/event/9332
+
+-- 2GW6 + 2VP in final
+
+Deck Name: Bailando la Bamba en Alamut
+
+Description: Assamite's deathstar comanded by Olugbenga
+
+Crypt (12 cards, min=11, max=31, avg=5.83)
+------------------------------------------
+4x Olugbenga	7   OBF QUI ani cel	 magaji	 Assamite:4
+3x Amaravati	8   DOM OBF QUI ani chi	 	 Assamite:4
+2x Kamau Jafari	4   QUI obf		 	 Assamite:4
+1x Kashan	7   CEL OBF QUI obt pre	 1 vote	 Assamite:4
+1x Alu		2   obf			 	 Assamite:5
+1x Basir	1   qui			 	 Assamite:4
+
+Library (90 cards)
+Master (17; 3 trifle)
+3x Alamut
+1x Ancestor Spirit
+1x Black Throne, The
+1x Coven, The
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Khabar: Community, The
+2x Obfuscate
+2x Pentex(TM) Subversion
+1x Underworld Hunting Ground
+2x Vessel
+1x Yoruba Shrine
+
+Action (34)
+9x Bamba
+8x Embrace, The
+8x Haqim's Law: Leadership
+2x Khabar: Glory
+5x Loss
+2x No Secrets From the Magaji
+
+Equipment (3)
+1x .44 Magnum
+1x Heart of Nizchetus
+1x Kduva's Mask
+
+Political Action (17)
+7x Consanguineous Boon
+1x Kindred Segregation
+5x Kine Resources Contested
+2x Neonate Breach
+2x Reckless Agitation
+
+Action Modifier (18)
+5x Cloak the Gathering
+4x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+3x Veil the Legions
+
+Event (1)
+1x Uncoiling, The

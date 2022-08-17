@@ -1,0 +1,72 @@
+Crusade: Atlanta
+Atlanta, Georgia
+November 20th 1999
+Stuart Pieloch
+
+Deck Name: It's all about the flow
+
+Description: Bi-2.0
+Untap+Intercept+Prevent followed by
+Bleed at stealth
+
+Crypt (12 cards, min=9, max=23, avg=4.08)
+-----------------------------------------
+2x Ingrid Russo		    4	DOM for			Ventrue antitribu:2
+1x Dylan		    6	aus cel dom for pro	Ventrue antitribu:2
+1x Marlene, The Infernalist 6	AUS DOM dem for tha	Ventrue antitribu:2
+1x Vanessa		    6	DOM FOR aus pre		Ventrue antitribu:2
+1x Billy		    5	AUS dom for		Ventrue antitribu:2
+1x Gerard		    5	aus dom for obt		Ventrue antitribu:2
+1x Gloria Giovanni	    4	DOM nec			Giovanni:2
+1x Juan Cali		    3	aus for			Ventrue antitribu:2
+1x Mustafa Rahman	    2	dom			Tremere:2
+1x Ohanna		    2	dom			Malkavian:2
+1x Samson		    2	dom			Ventrue antitribu:2
+
+Library (90 cards)
+Master (14)
+5x Blood Doll
+1x Corporate Hunting Ground
+1x Direct Intervention
+1x Heidelberg Castle, Germany
+1x Inbase Discotek, Frankfurt
+2x Information Highway
+1x Life Boon
+2x Sudden Reversal
+
+Action (9)
+1x Atonement
+8x Govern the Unaligned
+
+Equipment (7)
+1x Aaron's Feeding Razor
+1x Deer Rifle
+1x Flak Jacket
+1x IR Goggles
+1x Ivory Bow
+1x Laptop Computer
+1x Palatial Estate
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (12)
+6x Bonding
+6x Freak Drive
+
+Reaction (30)
+4x Eagle's Sight
+1x Enhanced Senses
+5x Forced Awakening
+2x My Enemy's Enemy
+1x Precognition
+8x Redirection
+2x Spirit's Touch
+2x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (15)
+5x Rolling with the Punches
+10x Skin of Steel

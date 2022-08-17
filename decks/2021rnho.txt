@@ -1,0 +1,104 @@
+Restoration: Newark
+Heath, Ohio
+May 16th 2021
+2R+F
+12 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/9786
+
+-- 1GW4 + 3VP in final
+
+Deck Name: Zurich Fellowship
+Author: Karl Schaefer
+Description: Faye Reppas was playing a really cool Luke Fellows/Xendil Charmer multi-act deck. I
+was toying with some Powerbase: Zurich decks at the time and Luke, with his special, seems like a
+perfect fit. The deck is highly aggressive, but being !Gangrel doesn't appear to be a table threat
+immediately. I had previously played this in an online event taking first seed, but was stymied by
+Veil of Darkness.
+
+Today was very strange. Luke made no appearance in the opening rounds, even after getting at least
+one decrypt in each round. In the finals, Powerbase: Zurich showed up too late to be useful. The
+deck, however, proved resilient. I was second seed for the final round.
+
+The finals seating:
+Jeff aus cel obf gun block/rush ->
+Me ->
+Mark Toreador w/for ->
+Brad BH Assamite S/B ->
+Alex Assamite Breed/Boon
+
+The finals were over pretty quickly with so much bleed and vote on the table. In turn 7, my Denette
+was Fame-dunked. She had Tasha, J.S., and a Camera Phone. Judgment: Camarilla Segration was in play
+so I contemplated burning her, but instead chose to rescue her with Lubomira, who wasn't going to
+be a good bleeder against my prey. I used Heidelberg Castle to split the retainers to Old Neddacka,
+leaving the Phone on Denette, and splitting the blood. I was able to get Mark down to 1 pool.
+
+Mark ousts Brad via a bleed with Judgment: Cam Seg putting the final nail in his coffin. Alex fires
+off two Loss bleeds and calls a KRC, ousting Jeff.
+
+On my turn, Powerbase: Zurich finally hits play in the finals. My prey is at 9 pool. I have 4
+vampires: Luke, Lubomira, Old Ned, and Denette. Lubomira hunts. Between the gear and Heidelberg
+Castle, I send in a 2, a 3, and a 4 bleed, ousting Mark.
+
+Even though Alex was playing a breed deck, his opening crypt was all large vampires, so he only had
+3 larger vampires in play. He finally gets two Embraces in play, but doesn't draw and pool gain. He
+has 11 pool when I start my turn. I am showing 12 bleed on the table and it's over. It was a flurry
+of ousts over two turns and the game was done.
+
+Notes on playing:
+You only need 3-4 Instantaneous Transformation unlocks with Luke. His extra unlock every turn is
+already powerful. The rest can be used as stealth.
+
+There are a lot of Masters. You must use your discard phase every turn; you do not want to jam on
+Master cards.
+
+Crypt (13 cards, min=11, max=28, avg=5.08)
+------------------------------------------
+5x Luke Fellows	   7   CEL OBF PRO	Gangrel antitribu:4
+1x Morrow the Sage 6   OBF PRO cel vic	Gangrel antitribu:4
+1x Alex Camille	   5   PRO cel for obf	Gangrel antitribu:5
+1x Synner-G	   5   CEL OBF pro	Gangrel antitribu:5
+1x Jeffrey Mullins 4   OBF cel		Gangrel antitribu:4
+1x Skulk	   4   OBF ani		Nosferatu antitribu:5
+1x Lubomira Hradok 3   OBF		Nosferatu antitribu:5
+1x Denette Stensen 2   obf		Gangrel antitribu:4
+1x Old Neddacka	   2   obf		Nosferatu antitribu:4
+
+Library (61 cards)
+Master (17; 6 trifle)
+1x Abombwe
+2x Archon Investigation
+1x Ennoia's Theater
+2x Heidelberg Castle, Germany
+5x Powerbase: Zürich
+1x Twisted Forest
+4x Villein
+1x Wider View
+
+Action (6)
+5x Clotho's Gift
+1x Conceal
+
+Equipment (6)
+4x Camera Phone
+1x Gran Madre di Dio, Italy
+1x Signet of King Saul, The
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Robert Carter
+1x Tasha Morgan
+
+Action Modifier (21)
+2x Elder Impersonation
+4x Faceless Night
+9x Instantaneous Transformation
+4x Lost in Crowds
+2x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Combat (5)
+1x Earth Meld
+4x Form of Mist

@@ -1,0 +1,72 @@
+Jueves
+Barcelona, Spain
+August 11th 2011
+2R+F
+26 players
+Tomàs López Jiménez
+
+Deck Name: Salubri Blocker toolbox
+Created by: Glinlos
+
+Crypt (12 cards, min=13, max=36, avg=6.25)
+------------------------------------------
+3x Serenna the White	8   AUS FOR OBE ani dem		Salubri:6
+2x Nahum Enosh		10  AUS OBE OBF VAL for pre	Salubri:6
+2x Matthew		7   AUS FOR OBE cel		Salubri:6
+2x Tyler McGill		4   AUS pre			Toreador:5
+2x Veejay Vinod		3   AUS				Nagaraja:6
+1x Andre LeRoux		3   aus				Toreador:5
+
+Library (90 cards)
+Master (24; 12 trifle)
+1x Direct Intervention
+1x Erciyes Fragments, The
+1x Giant's Blood
+2x Heidelberg Castle, Germany
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Sight Beyond Sight
+3x Smiling Jack, The Anarch
+4x Vessel
+7x Villein
+1x Wash
+
+Action (18)
+1x Aranthebes, The Immortal
+2x Army of Rats
+3x Lord of Serenity
+5x Renewed Vigor
+5x Spirit Marionette
+2x Unburdening the Bestial Soul
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (6)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Codex of the Edenic Groundskeepers
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (14)
+2x Daring the Dawn
+1x Enkil Cog
+7x Freak Drive
+4x Repulsion
+
+Reaction (25)
+2x Eagle's Sight
+3x Eluding the Arms of Morpheus
+3x Enhanced Senses
+6x Eyes of Argus
+2x Forced Awakening
+1x My Enemy's Enemy
+4x On the Qui Vive
+4x Telepathic Misdirection

@@ -1,0 +1,68 @@
+NAC Qualifier - Watchtower: Chosen are Called
+Montreal, Quebec
+May 1st 2005
+3R+F
+26 players
+François Déziel
+
+Deck Name: Arhimanes gone wild
+
+Description: a somewhat-weird Ahrimanes
+anarch votes deck
+
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+4x Howler	  8   ANI PRE SPI obf	   Ahrimane:2
+4x Siamese, The	  7   PRE SPI ani pro	   Ahrimane:2
+2x Cynthia Ingold 6   SPI ani for pre	   Ahrimane:2
+2x Nettie Hale	  5   ani cel pre pro spi  Ahrimane:2
+
+Library (90 cards)
+Master (14)
+1x Anarch Free Press, The
+1x Anarch Railroad
+3x Anarch Revolt
+3x Blood Doll
+2x Powerbase: Los Angeles
+2x Seattle Committee
+2x Sudden Reversal
+
+Action (14)
+4x Engling Fury
+2x Entrancement
+1x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+2x Muricia's Call
+
+Political Action (16)
+4x Conservative Agitation
+2x Domain Challenge
+4x Firebrand
+4x Kine Resources Contested
+2x Reinforcements
+
+Retainer (4)
+2x Owl Companion
+2x Raven Spy
+
+Action Modifier (10)
+2x Aire of Elation
+4x Bewitching Oration
+4x Voter Captivation
+
+Action Modifier/Combat (8)
+8x Swiftness of the Stag
+
+Reaction (14)
+4x Cats' Guidance
+4x Falcon's Eye
+2x Forced Awakening
+4x Speak with Spirits
+
+Combat (10)
+4x Chameleon's Colors
+6x Majesty

@@ -1,0 +1,92 @@
+True Love's Face
+Newark, Ohio
+February 18th 2011
+2R+F
+22 players
+John Bell
+
+Deck Name: Ishtarri No Ayo
+
+Description: Most of the decks I've seen with the Ishtarri
+revolve around Ayo and voting, I wanted to go a different
+angle with this deck. The original concept was to have multiple
+informants out so that I could have an idea of what everyone
+held in their hand. It was built as a combat/wall deck and
+spends a lot of time sitting around trying to build up.
+The No Secrets can often get burned, but isn't a disaster
+since there are more to be had.
+
+Should remove Shasa and Honorine for 2x Ayo Igoli,
+I didn't want to invest that much into a single minion
+with this deck, but she's really good for it.
+
+Enchants should be changed to Entrancement
+
+I would consider dropping the hunting ground for Carlton van Wyk, who should have been in here to start with.
+
+Both Wakes should be changed for On the Qui Vive which would allow me to throw a Procurer in the way of a rush-action.
+
+Crypt (12 cards, min=24, max=32, avg=7)
+---------------------------------------
+3x Ubende	  7   CEL PRE for obf qui  magaji  Ishtarri:4
+2x Undele	  9   CEL FOR obf pre ser  magaji  Ishtarri:5
+2x Ganhuru	  7   FOR PRE cel pro	   	   Ishtarri:4
+2x Mamadou Keita  7   CEL aus pot pre vic  magaji  Osebo:4
+1x Agru Kabera	  6   FOR cel nec pre	   	   Ishtarri:4
+1x Honorine Ateba 6   FOR PRE cel nec	   	   Ishtarri:4
+1x Shasa Abu Badr 5   PRE cel for	   	   Ishtarri:4
+
+Library (90 cards)
+Master (15; 3 trifle)
+1x Ancestor Spirit
+1x Archon Investigation
+1x Direct Intervention
+1x Giant's Blood
+1x Glutton
+1x Guardian Angel
+1x KRCG News Radio
+1x Mbare Market, Harare
+1x Port Hunting Ground
+1x Powerbase: Tshwane
+1x Rack, The
+3x Villein
+1x WMRH Talk Radio
+
+Action (16)
+3x Despiral
+2x Enchant Kindred
+7x No Secrets From the Magaji
+4x Social Charm
+
+Ally (5)
+2x Informant
+3x Procurer
+
+Equipment (12)
+6x .44 Magnum
+1x Kduva's Mask
+3x Kevlar Vest
+1x Sire's Index Finger
+1x Sport Bike
+
+Retainer (2)
+1x Mr. Winthrop
+1x Shaman
+
+Action Modifier (19)
+1x Daring the Dawn
+7x Forced March
+5x Freak Drive
+1x Strange Day
+5x Uncontrolled Impulse
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Reaction (8)
+6x Terra Incognita
+2x Wake with Evening's Freshness
+
+Combat (9)
+3x Blur
+6x Concealed Weapon

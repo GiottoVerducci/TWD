@@ -1,0 +1,52 @@
+Blood Hunt
+Sorocaba, Brazil
+February 24th 2019
+2R+F
+14 players
+Mauricio Navate
+https://www.vekn.net/event-calendar/event/9160
+
+-- 1GW5 + 4VP in final
+
+Deck Name: Weenie Animalism
+Created by: Delmar
+
+Description: "Animalism rush"
+
+Crypt (12 cards, min=4, max=16, avg=2.5)
+----------------------------------------
+4x Anarch Convert  1   -none-			Caitiff:ANY
+1x Yuri Kerezenski 5   ANI aus for vic	bishop	Tzimisce:4
+1x Beetleman	   4   ANI obf			Nosferatu:4
+1x Bobby Lemon	   4   ANI pro			Gangrel:3
+1x Bothwell	   3   ani for			Gangrel:3
+1x Darva Felispa   3   ani pot			Nosferatu:3
+1x Neel Ramanathan 3   ani for			Ravnos:4
+1x Stick	   3   ANI			Nosferatu antitribu:4
+1x Lisa Noble	   1   ani			Caitiff:3
+
+Library (77 cards)
+Master (20; 4 trifle)
+10x Anarch Revolt
+1x Dreams of the Sphinx
+2x Fame
+1x Information Highway
+2x Parthenon, The
+4x Villein
+
+Action (16)
+16x Deep Song
+
+Ally (1)
+1x Carlton Van Wyk
+
+Reaction (1)
+1x Delaying Tactics
+
+Combat (39)
+14x Aid from Bats
+1x Backstep
+2x Canine Horde
+12x Carrion Crows
+6x Target Vitals
+4x Taste of Vitae

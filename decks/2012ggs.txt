@@ -1,0 +1,55 @@
+Glöggturnering
+Gothenburg, Sweden
+December 15th 2012
+3R+F
+15 players
+Alexander Båskman
+
+Deck Name: Don't stop me now
+
+Crypt (12 cards, min=16, max=24, avg=5)
+---------------------------------------
+2x Isanwayen		 6   DOM MYT OBT		Kiasyd:4
+2x Dame Hollerton	 5   DOM OBT myt		Kiasyd:4
+2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+1x Onaedo		 6   DOM OBT aus pot		Lasombra:4
+1x Virginie, Prodigy	 6   DOM POT obt	bishop	Lasombra:4
+1x Banjoko		 5   DOM obt pot		Lasombra:3
+1x Leila Monroe		 4   dom obt pre		Lasombra:4
+1x Quincy, The Trapper	 4   dom myt obt		Kiasyd:3
+1x Lucy Markowitz	 3   dom obt			Lasombra:4
+
+Library (65 cards)
+Master (11; 3 trifle)
+1x Coven, The
+3x Dreams of the Sphinx
+2x Great Symposium
+2x Information Highway
+2x Life in the City
+1x Pentex(TM) Subversion
+
+Action (15)
+14x Govern the Unaligned
+1x Song of Pan
+
+Ally (3)
+3x Nocturn
+
+Action Modifier (28)
+4x Bonding
+2x Command of the Beast
+5x Conditioning
+2x Foreshadowing Destruction
+2x Leverage
+4x Seduction
+3x Shadow Play
+4x Shroud of Absence
+2x Stone Travel
+
+Reaction (6)
+2x Deflection
+2x On the Qui Vive
+2x Redirection
+
+Combat (2)
+2x Shadow Body

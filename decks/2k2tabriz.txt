@@ -1,0 +1,68 @@
+Tabriz Assembly
+Grand Rapids, Michigan
+December 7th 2002
+12 players
+Jeff Steenblik
+
+Created by: Kris Deprekel
+
+Crypt (12 cards, min=26, max=39, avg=8.25)
+------------------------------------------
+1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+1x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
+1x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	    Ventrue:3
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Gustav Mallenhous			  8   AUS DOM for obt		priscus	    Ventrue antitribu:2
+1x Julia Prima				  7   DOM OBT aus myt			    Kiasyd:2
+1x Tobias Smith				  7   DOM OBT PRE pot			    Lasombra:3
+1x Aurora Van Brande, Paladin		  6   OBT dom for pot			    Lasombra:2
+1x Talley, The Hound			  6   OBT POT aus dom			    Lasombra:2
+
+Library (86 cards)
+Master (28)
+1x Barrens, The
+4x Brainwash
+1x Effective Management
+1x Elder Library
+1x Elysian Fields
+1x Fragment of the Book of Nod
+1x Hungry Coyote, The
+2x Information Highway
+4x Major Boon
+6x Minion Tap
+1x Path of Night, The
+2x Political Hunting Ground
+1x Rumor Mill, Tabloid Newspaper, The
+2x Sudden Reversal
+
+Action (2)
+2x Govern the Unaligned
+
+Political Action (8)
+2x Disputed Territory
+5x Kine Resources Contested
+1x Rumors of Gehenna
+
+Action Modifier (22)
+2x Blanket of Night
+2x Bonding
+2x Conditioning
+4x Seduction
+10x Shadow Play
+2x Threats
+
+Reaction (19)
+3x Darksight
+4x Deflection
+2x Eyes of the Night
+4x Obedience
+2x Pack Tactics
+4x Wake with Evening's Freshness
+
+Combat (7)
+2x Entombment
+3x Oubliette
+2x Shadow Body

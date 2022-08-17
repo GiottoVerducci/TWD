@@ -1,0 +1,62 @@
+Bleeding in Wroclaw
+Wroclaw, Poland
+February 5th 2011
+3R+F
+32 players
+Marcin Watras
+
+-- 2GW7 + 4VP in final
+
+Deck Name: Antonio - Ashur Tablets Nephandus swarm
+Created by: P.Kukielczynski's and T.Pietkiewicz's version
+
+with some changes in the crypt (added 4 tupdogs)
+Description: Easy to play, extremly effective
+
+Crypt (12 cards, min=4, max=20, avg=3.17)
+-----------------------------------------
+5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
+4x Tupdog		1   POT VIS		Gargoyle:3
+1x Ember Wright		3   aus dom		Tremere antitribu:3
+1x Keith Moody		3   DOM			Tremere antitribu:4
+1x Saiz			3   aus dom		Tremere antitribu:3
+
+Library (80 cards)
+Master (39)
+1x Archon Investigation
+9x Ashur Tablets
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Fortschritt Library
+2x Frontal Assault
+5x Haven Uncovered
+1x Jake Washington
+6x Liquidation
+6x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Tension in the Ranks
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (11)
+1x Carlton Van Wyk
+10x Nephandus
+
+Reaction (12)
+7x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+
+Combat (10)
+6x Target Vitals
+4x Trap
+
+Event (7)
+2x Anthelios, The Red Star
+1x Dragonbound
+1x FBI Special Affairs Division
+1x Slow Withering, The
+2x Unmasking, The

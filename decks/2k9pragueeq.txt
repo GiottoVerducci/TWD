@@ -1,0 +1,63 @@
+European Qualifier
+Prague, Czech Republic
+August 15th 2009
+18 players
+Vítek Holoska
+
+Madness Rachel by Vítek Holoska
+
+Crypt (12 cards, min=29, max=40, avg=8.67)
+------------------------------------------
+4x Rachel Brandywine	  10  AUS DEM OBF PRO ani  prince	Malkavian:3
+3x Maris Streck		  9   AUS OBF ani dem dom  justicar	Malkavian:3
+2x Quentin King III	  7   AUS DEM obf pre	   prince	Malkavian:3
+1x Quentin King III (ADV) 7   AUS DEM OBF cel pre  		Malkavian:3
+2x Rodolfo		  8   AUS DEM OBF pro	   bishop	Malkavian antitribu:3
+
+Library (90 cards)
+Master (14; 4 trifle)
+1x Barrens, The
+2x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+2x Madness Network
+1x Protean
+2x Vessel
+2x Zillah's Valley
+
+Action (12)
+2x Call, The
+1x Entrenching
+1x Fifth Tradition: Hospitality
+8x Kindred Spirits
+
+Political Action (2)
+2x Parity Shift
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (20)
+2x Confusion
+5x Elder Impersonation
+2x Eyes of Chaos
+4x Faceless Night
+7x Lost in Crowds
+
+Action Modifier/Reaction (8)
+5x Random Patterns
+3x Touch of Clarity
+
+Reaction (21)
+4x Mental Maze
+2x On the Qui Vive
+5x Second Tradition: Domain
+2x Shattered Mirror
+3x Telepathic Counter
+2x Wake with Evening's Freshness
+3x Wrong and Crosswise
+
+Combat (11)
+2x Claws of the Dead
+9x Earth Meld

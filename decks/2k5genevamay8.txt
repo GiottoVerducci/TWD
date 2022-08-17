@@ -1,0 +1,52 @@
+Tournament
+Geneva, Switzerland
+May 8th 2005
+3R+F
+12 players
+Ruben Feldman
+
+Deck Name: Ugly Aggression
+Created by: Ruben Feldman (and Amiel Feldman)
+
+2GW9.5
+
+Crypt (12 cards, min=17, max=34, avg=6.75)
+------------------------------------------
+4x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+1x Dan Murdock			3   aus obf		 	   Caitiff:1
+1x Dimple			2   obf			 	   Nosferatu:1
+
+Library (70 cards)
+Master (15)
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Labyrinth, The
+4x Legendary Vampire
+1x Obfuscate
+6x Zillah's Valley
+
+Action (6)
+3x Fourth Tradition: The Accounting
+3x Third Tradition: Progeny
+
+Political Action (20)
+3x Conservative Agitation
+3x First Tradition: The Masquerade
+6x Kine Resources Contested
+8x Parity Shift
+
+Action Modifier (22)
+4x Elder Impersonation
+4x Faceless Night
+8x Freak Drive
+6x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (3)
+3x Second Tradition: Domain

@@ -1,0 +1,75 @@
+Brazilian CCQ - Fee Stake: Sobral IV
+Fortaleza, Brazil
+June 26th 2016
+3R+F
+10 players
+Walter Polack
+https://www.vekn.net/event-calendar/event/8362
+
+-- 3VP in final
+
+Deck Name: Arika, a mãe de todos
+
+Crypt (13 cards, min=30, max=44, avg=9.62)
+------------------------------------------
+5x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+2x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+2x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+1x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+
+Library (88 cards)
+Master (20; 5 trifle)
+1x Celerity
+1x Creepshow Casino
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Legendary Vampire
+1x Metro Underground
+1x Minion Tap
+1x Pentex(TM) Subversion
+1x Secret Passage
+1x Secure Haven
+1x Uptown Hunting Ground
+1x Ventrue Headquarters
+4x Villein
+1x Wash
+
+Action (9)
+1x Dominate Kine
+3x Entrancement
+5x Govern the Unaligned
+
+Political Action (11)
+1x Ancilla Empowerment
+2x Banishment
+1x Disputed Territory
+5x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (26)
+3x Awe
+2x Elder Impersonation
+2x Forced March
+1x Forgotten Labyrinth
+4x Freak Drive
+3x Lost in Crowds
+2x Perfect Paragon
+1x Seduction
+2x Spying Mission
+1x Veil the Legions
+5x Voter Captivation
+
+Reaction (17)
+6x Deflection
+4x Forced Vigilance
+5x Obedience
+1x Redirection
+1x Wake with Evening's Freshness
+
+Combat (5)
+5x Majesty

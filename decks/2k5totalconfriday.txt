@@ -1,0 +1,97 @@
+TotalCon Friday - Crocodile's Tongue
+Boston, Massachusetts
+February 25th 2005
+2R+F
+24 players
+Matthew Morgan
+
+Deck Name: Calling Demented Voters
+
+Description: Combat defense? Who needs combat defense? Vote push?
+That's for wimps. Stealth? That's for people who want successful
+actions. I built this one in the hopes that the amount of stealth
+could handle even heavy intercept decks (Forgotten/Elder being the main way
+to do so). I was also obviously hoping not to be rushed. I got really
+lucky in that regard as I never sat next to a rush deck, but many times I had
+a predator who couldn't go forward due to a lack of minions. In fact,
+in both the first round and the final I rescued my predator from torpor
+several times to keep the ol' meatshield alive (I'm lucky nobody ever
+decided to cut the middle man and rush me directly).
+
+Looking at the deck, one might wonder how this or that card worked out.
+Most of the time, I couldn't tell you. I've recently developed this
+extremely minimalist playing style where I'll play like 20 cards all
+game. The deck is 90 cards by force of habit, but I never even came close to
+playing that many. I guess it worked out okay this time, but it
+would've been nice to see the Jake, Gambit Accepted, Momentum's Edge, etc.
+Never got a chance to play any of those.
+
+This tournament was two preliminary rounds and a final. I got 4VP at
+the first table as I couldn't prop my predator up long enough to get the
+sweep. Then I swept my second table to get top seed on the finals. I
+made the obvious choice to sit away from the combat decks at the table.
+I spent much of the game trying to keep my predator alive so I wouldn't
+get rushed by Euro-Brujah. Then I drew the 3 KRCs I needed to oust my prey
+just after the Euro-Brujah ran out of steam and died. My new prey, a
+!Nos rush deck, very nearly got his second VP for the win, but I was saved
+by the two hour time limit.
+
+Crypt (12 cards, min=28, max=40, avg=8.58)
+------------------------------------------
+2x Hannibal		  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
+1x Hannibal (ADV)	  10  AUS DEM OBF cel dom  cardinal	Malkavian antitribu:2
+2x Rachel Brandywine	  10  AUS DEM OBF PRO ani  prince	Malkavian:3
+2x Maris Streck		  9   AUS OBF ani dem dom  justicar	Malkavian:3
+1x Quentin King III	  7   AUS DEM obf pre	   prince	Malkavian:3
+1x Quentin King III (ADV) 7   AUS DEM OBF cel pre  		Malkavian:3
+1x Kite			  7   AUS DEM obf pre	   bishop	Malkavian antitribu:2
+1x Korah		  7   AUS DEM OBF ani	   priscus	Malkavian antitribu:2
+1x Marie Faucigny	  7   AUS OBF dem tha	   archbishop	Malkavian antitribu:3
+
+Library (90 cards)
+Master (16)
+1x Asylum Hunting Ground
+5x Blood Doll
+3x Dreams of the Sphinx
+1x Gambit Accepted
+1x Giant's Blood
+1x Gift of Experience
+1x Institution Hunting Ground
+1x Jake Washington
+1x Momentum's Edge
+1x Secure Haven
+
+Action (12)
+1x Blessing of Chaos
+6x Call, The
+4x Kindred Spirits
+1x Restructure
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+7x Kine Resources Contested
+5x Parity Shift
+1x Peace Treaty
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (23)
+2x Cloak the Gathering
+3x Elder Impersonation
+1x Eyes of Chaos
+3x Faceless Night
+3x Forgotten Labyrinth
+4x Lost in Crowds
+3x Spying Mission
+4x Telepathic Vote Counting
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (16)
+8x Telepathic Misdirection
+8x Wake with Evening's Freshness
+
+Combat (2)
+2x Coma

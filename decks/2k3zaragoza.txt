@@ -1,0 +1,61 @@
+Praxis: Zaragoza
+Zaragoza, Spain
+March 8th 2003
+34 players
+Tomeu Mádico
+
+Deck Name: Kitties
+
+Description: Put in play a gargoyle and a tremere. put in play as many cats
+as posible, and use all those slave tricks and vis/tha cards. Most of the
+time, via charisma and soul of the earth, the rock cats hit the table for
+free. Armor of terra-daring the dawn also grants a fair posibility to put
+them in play.
+
+Crypt (12 cards, min=13, max=28, avg=5.58)
+------------------------------------------
+3x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		  Tremere:2
+2x Ublo-Satha			7   FOR POT VIS cel		  Gargoyle:2
+2x Saxum, Master of Slaves	6   FOR VIS pot pre		  Gargoyle:2
+2x Fidus, The Shrunken Beast	4   for tha vis			  Gargoyle:2
+1x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+1x Ehrich Weiss			3   dom tha			  Tremere:3
+1x Mustafa Rahman		2   dom				  Tremere:2
+
+Library (75 cards)
+Master (15)
+1x Academic Hunting Ground
+1x Arcane Library
+4x Blood Doll
+2x Charisma
+2x Fame
+4x Memories of Mortality
+1x Tension in the Ranks
+
+Action (10)
+4x Armor of Terra
+2x Arson
+4x Soul of the Earth
+
+Ally (10)
+8x Rock Cat
+2x Vagabond Mystic
+
+Action Modifier (8)
+2x Conditioning
+4x Daring the Dawn
+2x Skin of the Chameleon
+
+Reaction (12)
+6x Deflection
+2x Delaying Tactics
+4x Wake with Evening's Freshness
+
+Combat (20)
+2x Bond with the Mountain
+4x Disarm
+2x Flow Within the Mountain
+4x Immortal Grapple
+3x Skin of Steel
+3x Superior Mettle
+2x Thrown Sewer Lid

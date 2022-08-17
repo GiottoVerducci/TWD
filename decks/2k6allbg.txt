@@ -1,0 +1,52 @@
+All Lovers Lost
+Bochum, Germany
+June 18th 2006
+3R+F
+20 players
+Ralf Lammert
+
+Deck Name: Doggie Just Wants To Play
+
+Description: Some "broken" Tupdog deck ...
+
+Crypt (24 cards, min=4, max=23, avg=2.08)
+-----------------------------------------
+16x Tupdog			1    POT VIS			    Gargoyle:3
+2x  Kurt Strauss		5    DOM aus tha		    Tremere antitribu:2
+1x  Ladislas Toth, The Torch	7    AUS DOM THA for	archbishop  Tremere antitribu:3
+1x  Reverend Blackwood		6    DOM THA obf	bishop	    Tremere antitribu:2
+1x  Brooke			3    dom tha			    Tremere antitribu:2
+1x  Ember Wright		3    aus dom			    Tremere antitribu:3
+1x  Saiz			3    aus dom			    Tremere antitribu:3
+1x  Heinrick Schlempt		2    tha			    Tremere antitribu:2
+
+Library (90 cards)
+Master (15)
+4x Blood Doll
+1x Carver's Meat Packing and Storage
+3x Dreams of the Sphinx
+2x Fame
+2x Information Highway
+2x Secure Haven
+1x Specialization
+
+Action (11)
+7x Govern the Unaligned
+4x Graverobbing
+
+Action Modifier (4)
+4x Skin of the Chameleon
+
+Reaction (10)
+6x Deflection
+2x Delaying Tactics
+2x Wake with Evening's Freshness
+
+Combat (50)
+2x Amaranth
+8x Earthshock
+12x Immortal Grapple
+14x Raking Talons
+4x Roll
+8x Torn Signpost
+2x Undead Strength

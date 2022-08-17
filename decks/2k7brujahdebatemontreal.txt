@@ -1,0 +1,89 @@
+Brujah Debate
+Montreal, Quebec
+February 3rd 2007
+20 players
+Francois de Champlain
+
+Deck Name: We are the world
+
+Description: This deck is a wake up call to the world to how powerful
+the Guhuri are (hence the deck name) - people in our playgroup hardly
+play this clan. The deck is very simple, it ignores the bad mix of
+disciplines (I do not think potence mixes well with the dominant
+Laibon clan) and tries to correct the clan's weakness: the absence of
+stealth (which is easily corrected with the addition of abombwe trifle
+discipline). Uses all the best Laibon and Guhuri cards, cycles super
+fast and bloats well.
+
+The main advantage of this deck is the fact that it is not a clan with
+a bad rep so you get away with powerful bleeds and votes without too
+much retaliation. Could use a bit of permaintercept (like a shaman)
+and more permanent titles. The crypt could do with less doubling of
+certain vampires - you'll get 4 vampires out per game.
+
+Basically forget potence and discover abombwe... You'll fall in love
+with this clan !
+
+Crypt (12 cards, min=19, max=36, avg=6.92)
+------------------------------------------
+2x Ugadja		10  ABO ANI POT PRE dom for	magaji	Guruhi:4
+2x Sobayifa		8   ANI PRE aus pot pro spi	magaji	Guruhi:3
+2x Aren, Priest of Eshu	7   POT PRE ani obf			Guruhi:4
+2x Maskini		7   ANI POT PRE SER abo			Guruhi:4
+1x Batsheva		6   ANI PRE obt pot			Guruhi:4
+1x Fish			5   ANI POT pre				Guruhi:4
+1x Lumumba		4   PRE ani				Guruhi:4
+1x Urenna Bunu		4   ani pot pre				Guruhi:4
+
+Library (90 cards)
+Master (19; 5 trifle)
+5x Abombwe
+1x Ancestor Spirit
+1x Archon Investigation
+5x Blood Doll
+1x Creepshow Casino
+1x Giant's Blood
+1x Legendary Vampire
+2x Mbare Market, Harare
+2x Palace Hunting Ground
+
+Action (10)
+1x Entrancement
+4x Founders of the Ebony Kingdom
+5x Legal Manipulations
+
+Equipment (2)
+1x Ivory Bow
+1x Kduva's Mask
+
+Political Action (13)
+1x Conservative Agitation
+11x Kine Resources Contested
+1x Overseer
+
+Action Modifier (15)
+2x Aire of Elation
+3x Awe
+2x Bewitching Oration
+2x Devil-Channel: Throat
+1x Guruhi Are the Land, The
+1x Iron Glare
+1x Strange Day
+3x Voter Captivation
+
+Action Modifier/Combat (5)
+5x Predator's Transformation
+
+Action Modifier/Reaction (2)
+2x Guruhi Kholo
+
+Reaction (13)
+4x Cats' Guidance
+2x Instinctive Reaction
+5x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (11)
+5x Majesty
+1x Song in the Dark
+5x Staredown

@@ -1,0 +1,58 @@
+Struggle for freedom
+Paraíba, Brazil
+September 12th 2021
+3R+F
+10 players
+José Robério Barbosa da Silva
+https://www.vekn.net/player-registry/event/9887
+
+-- 4VP in final
+
+Deck Name: Ghede be
+Crypt (12 cards, min=4, max=40, avg=6.17)
+-----------------------------------------
+6x Ghede	  10  FOR OBF POT PRE SER  Follower of Set:6
+2x Abdelsobek	  5   for nec obf pre ser  Follower of Set:5
+2x Anarch Convert 1   -none-		   Caitiff:ANY
+1x Freddy Gage	  1   pot		   Caitiff:5
+1x Walker Grimes  1   ani		   Caitiff:5
+
+Library (90 cards)
+Master (18; 4 trifle)
+3x Ashur Tablets
+1x Dreams of the Sphinx
+4x Eternals of Sirius, The
+1x Fame
+1x Giant's Blood
+1x Powerbase: Montreal
+1x Secure Haven
+1x Temple Hunting Ground
+1x Tension in the Ranks
+2x Vessel
+2x Villein
+
+Action (10)
+2x Ambush
+3x Bum's Rush
+2x Harass
+1x Heroic Might
+2x Intimidation
+
+Ally (3)
+1x Gregory Winter
+1x Mylan Horseed
+1x Saatet-ta
+
+Equipment (1)
+1x Sire's Index Finger
+
+Action Modifier (10)
+10x Freak Drive
+
+Combat (48)
+8x Immortal Grapple
+5x Jones, The
+3x Skin of Steel
+4x Taste of Vitae
+24x Typhonic Beast
+4x Unflinching Persistence

@@ -1,0 +1,70 @@
+Dark Cellars
+Utrecht, Netherlands
+November 24th 2007
+13 players
+Peter Bouwman
+
+!toreador Obf vote/bleed
+Greta is the star here (as always), use minion tap and voter cap to
+gain pool. Get a cardinal as soon as you can, if its a heavy vote
+table be patient and wait for a awe and be sure to have the edge.
+Use Jost and jessica's extra stealth so you do your votes on 2 stealth
+minimum. If you cant get any votes of for some reason play a palla and
+just bleed.
+
+Crypt (12 cards, min=23, max=34, avg=7.08)
+------------------------------------------
+3x Greta Kircher   7   AUS CEL PRE obf	    	    Toreador antitribu:2
+2x Jessica (ADV)   8   AUS CEL OBT PRE	    bishop  Toreador antitribu:2
+2x Jost Werner	   6   AUS PRE ani	    	    Toreador antitribu:2
+1x Marthe Dizier   10  AUS CEL OBF PRE pro  	    Toreador antitribu:3
+1x Howler	   8   ANI PRE SPI obf	    	    Ahrimane:2
+1x Kite		   7   AUS DEM obf pre	    bishop  Malkavian antitribu:2
+1x Sheila Mezarin  6   AUS PRE cel for	    	    Toreador antitribu:2
+1x Cristos Mantigo 5   aus cel dom obf pre  	    Toreador antitribu:3
+
+Library (90 cards)
+Master (19)
+1x Black Forest Base
+1x Dreams of the Sphinx
+1x Foundation Exhibit
+1x Giant's Blood
+7x Minion Tap
+5x Obfuscate
+3x Palla Grande
+
+Action (7)
+1x Aranthebes, The Immortal
+3x Enchant Kindred
+3x Entrancement
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Political Action (21)
+1x Anarchist Uprising
+2x Ancilla Empowerment
+6x Cardinal Benediction
+1x Conservative Agitation
+9x Kine Resources Contested
+2x Rumors of Gehenna
+
+Action Modifier (30)
+2x Awe
+7x Bewitching Oration
+4x Cloak the Gathering
+3x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+8x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (5)
+3x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (4)
+4x Majesty

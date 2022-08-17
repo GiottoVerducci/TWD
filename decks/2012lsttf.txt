@@ -1,0 +1,64 @@
+Lärvälauantai
+Sonera-talo, Tampere, Finland
+April 28th 2012
+3R+F
+21 players
+Otso Saariluoma
+
+Deck Name: Gun Control (Means Hitting the Target)
+
+CEL GUN princes with Infernal Pursuit. The deck builds on
+previous versions by Erik, Hugh, and Adam. In retrospect,
+I'd add a few Infernal Pursuits and change the 1-caps for
+something useful.
+
+Crypt (12 cards, min=10, max=36, avg=6.25)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom		prince	  Toreador:1
+2x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
+1x Anneke			10  AUS CEL PRE dom		justicar  Toreador:1
+1x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+1x Marcellus			8   AUS CEL pro			prince	  Toreador:2
+1x Sarah Brando			3   CEL					  Brujah antitribu:2
+1x Antoinette DuChamp		1   cel pre				  Caitiff:2
+1x Nik				1   cel					  Caitiff:1
+
+Library (75 cards)
+Master (35; 7 trifle)
+9x Ashur Tablets
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+4x Haven Uncovered
+2x Information Highway
+1x Lilith's Blessing
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+6x Villein
+1x Wider View
+6x Zillah's Valley
+
+Action (2)
+2x Bum's Rush
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (2)
+2x Parity Shift
+
+Reaction (6)
+6x Second Tradition: Domain
+
+Combat (22)
+1x Blur
+6x Concealed Weapon
+5x Infernal Pursuit
+4x Psyche!
+4x Pursuit
+2x Taste of Vitae
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dragonbound

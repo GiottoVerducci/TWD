@@ -1,0 +1,79 @@
+Dutch ECQ - Kill All Lifeforms
+Utrecht, Netherlands
+June 26th 2010
+26 players
+Izaak Havelaar
+
+-- 3VP in final
+
+Deck Name: The new A
+
+Description: Classic Triple A concept enhanced with the new big A, Ashur Tablets.
+
+The only change I would make in this deck is to add an Anarchist Uprising
+and an Archon (look, more A's!) and cut out a Perpetual Care and a Psyche.
+I had not realized Alastor doesn't allow you to rush allies and that was
+mighty annoying in two of the four games.
+
+The two cards that got my the win today were Metro Underground (having
+an untapped Assault Rifle is *huge*) and the Entrancement, that I could
+play unblockable in the finals to steal a Nephandus, bring it back to
+my hand with Ashur's the next turn and steal another Nephandus.
+
+Crypt (12 cards, min=21, max=43, avg=8.33)
+------------------------------------------
+4x Anson	  8   CEL PRE aus dom	   prince	 Toreador:1
+3x Alexandra	  11  ANI AUS CEL PRE dom  inner circle	 Toreador:2
+3x Anneke	  10  AUS CEL PRE dom	   justicar	 Toreador:1
+1x Isabel de Leon 3   AUS		   		 Toreador:2
+1x Delilah Easton 2   pre		   		 Toreador:1
+
+Library (80 cards)
+Master (39; 6 trifle)
+1x Art Museum
+15x Ashur Tablets
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+4x Liquidation
+1x Metro Underground
+1x Parthenon, The
+1x Pentex(TM) Subversion
+4x Toreador Grand Ball
+6x Villein
+
+Action (1)
+1x Entrancement
+
+Equipment (3)
+2x Assault Rifle
+1x Bowl of Convergence
+
+Political Action (7)
+4x Alastor
+2x Perpetual Care
+1x Reins of Power
+
+Action Modifier (5)
+2x Aire of Elation
+1x Enkil Cog
+2x Perfect Paragon
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (9)
+4x Eyes of Argus
+5x Telepathic Misdirection
+
+Combat (10)
+4x Psyche!
+4x Side Strike
+2x Taste of Vitae
+
+Event (1)
+1x Anthelios, The Red Star

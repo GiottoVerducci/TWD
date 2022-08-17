@@ -1,0 +1,64 @@
+Slow Withering
+Bolzano, Italy
+March 24th 2013
+2R+F
+20 players
+Giulio De Cicco
+
+Deck Name: Dmitra con il Mitra
+
+Crypt (12 cards, min=25, max=36, avg=7.75)
+------------------------------------------
+5x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+2x Tara		   6   POT PRE cel	    prince	Brujah:5
+1x Tomaine	   6   CEL POT PRE	    primogen	Brujah:4
+
+Library (90 cards)
+Master (12; 1 trifle)
+1x Dark Influences
+1x Fame
+6x Grooming the Protégé
+2x New Carthage
+1x Pentex(TM) Subversion
+1x Wider View
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Equipment (6)
+2x Assault Rifle
+1x Blade of Enoch
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Political Action (16)
+8x Alastor
+8x Parity Shift
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (14)
+3x Forced March
+2x Forgotten Labyrinth
+5x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Combat (7)
+7x Resist Earth's Grasp
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (22)
+2x Blur
+7x Psyche!
+5x Pursuit
+5x Sideslip
+3x Taste of Vitae
+
+Event (1)
+1x Scourge of the Enochians

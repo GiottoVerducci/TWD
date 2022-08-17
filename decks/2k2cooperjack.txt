@@ -1,0 +1,71 @@
+Powerbase: Watford
+Watford, England
+September 29th 2002
+18 players
+Jon Cooper
+
+Deck Name: Jacks Back Part 1
+
+Description: Let the anarchy spread....
+
+Completely untested (prior to the tournament), i would remove the
+cats guidance and probably change the temptations to two more forms
+of corruption. They were great with jack hitting your preys vampires
+blood and then burning it when they were down to zero. An
+interesting strategy, to just sit there, build up and then whack
+jack on the table and just defend. Slightly random IE. Someone across
+the table usually bought it from jacks effect, and is definitely
+better to wait until your down a player as defending it against 4
+other meths is NO FUN(tm).
+
+Crypt (12 cards, min=15, max=20, avg=4.58)
+------------------------------------------
+2x Camille Devereux	5   FOR PRO ani		Gangrel:1
+2x Raven		5   FOR PRO ani		Gangrel:1
+3x Mirembe Kabbada	5   PRO SER ani		Gangrel:2
+2x Bear Paw		5   ANI for pre pro	Gangrel:1
+1x Daliyah		4   PRO obf		Nosferatu:2
+1x Anastasia Grey	3   ani pro		Gangrel:1
+1x Chandler Hungerford	3   PRO			Gangrel:2
+
+Library (90 cards)
+Master (24)
+1x Barrens, The
+4x Blood Doll
+1x Ecoterrorists
+4x Guardian Angel
+2x Parthenon, The
+1x Powerbase: Montreal
+1x Rack, The
+5x Smiling Jack, The Anarch
+1x Sudden Reversal
+4x Vampiric Disease
+
+Action (16)
+6x Atonement
+2x Form of Corruption
+2x Restoration
+2x Sanguine Instruction
+2x Shadow of the Beast
+2x Temptation
+
+Equipment (4)
+4x .44 Magnum
+
+Retainer (4)
+1x Mr. Winthrop
+3x Raven Spy
+
+Action Modifier (6)
+6x Earth Control
+
+Reaction (12)
+4x Cats' Guidance
+8x Forced Awakening
+
+Combat (24)
+2x Bone Spur
+4x Concealed Weapon
+10x Earth Meld
+6x Flesh of Marble
+2x Form of Mist

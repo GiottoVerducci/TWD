@@ -1,0 +1,67 @@
+Day of Nightmare
+Newark, Ohio
+August 20th 2010
+12 players
+Todd Holland
+
+-- 3VP in final
+
+Cailean Holds the Royal Court!
+
+Crypt (12 cards, min=27, max=40, avg=8.5)
+-----------------------------------------
+3x Cailean				  10  ANI OBF POT PRE dom  archbishop	Nosferatu antitribu:2
+3x Ellison Humboldt			  9   ANI OBF POT PRE pro  primogen	Nosferatu:3
+1x Cock Robin				  10  ANI OBF POT aus for  justicar	Nosferatu:3
+1x Amadeo				  8   OBF POT ani aus pre  primogen	Nosferatu:2
+1x Kendrick				  7   ANI POT aus obf	   priscus	Nosferatu antitribu:2
+1x Murat				  7   OBF POT ser	   prince	Nosferatu:2
+1x Nikolaus Vermeulen			  7   POT ani for obf	   prince	Nosferatu:2
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot	   		Nosferatu antitribu:2
+
+Library (90 cards)
+Master (14)
+1x Archon Investigation
+1x Blood Doll
+2x Dummy Corporation
+1x Labyrinth, The
+1x Major Boon
+4x Minion Tap
+2x Presence
+2x Sudden Reversal
+
+Action (5)
+5x Enchant Kindred
+
+Political Action (19)
+1x Ancient Influence
+2x Ancilla Empowerment
+1x Banishment
+2x Consanguineous Boon
+1x Conservative Agitation
+2x Disputed Territory
+1x Justicar Retribution
+7x Kine Resources Contested
+1x Peace Treaty
+1x Political Stranglehold
+
+Action Modifier (20)
+5x Bewitching Oration
+6x Forgotten Labyrinth
+5x Spying Mission
+4x Voter Captivation
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Reaction (5)
+5x Wake with Evening's Freshness
+
+Combat (21)
+3x Carrion Crows
+1x Increased Strength
+4x Majesty
+2x Target Vitals
+2x Taste of Vitae
+3x Terror Frenzy
+6x Thrown Gate

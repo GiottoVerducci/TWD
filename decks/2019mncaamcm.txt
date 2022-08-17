@@ -1,0 +1,66 @@
+Mexican NC 2019 - Antediluvian Awakening
+Mexico City, Mexico
+March 24th 2019
+2R+F
+18 players
+Carlos Escobar Muciño
+https://www.vekn.net/event-calendar/event/9162
+
+-- 1GW3 + 3VP in final
+
+Deck Name: Ludmija's friends
+
+Description: My classic Tzimice wall V. 2.0
+
+Crypt (12 cards, min=22, max=30, avg=6.67)
+------------------------------------------
+4x Ludmijla Rakoczy	7   ANI AUS VIC		 bishop	 Tzimisce:5
+2x Lady Zara Slatikov	8   ANI AUS OBF VIC	 bishop	 Tzimisce:4
+2x Laika		7   ANI AUS chi obf vic	 	 Tzimisce:4
+2x Rurik Rakoczy	6   ANI VIC aus		 	 Tzimisce:5
+2x Yuri Kerezenski	5   ANI aus for vic	 bishop	 Tzimisce:4
+
+Library (90 cards)
+Master (13; 5 trifle)
+1x Erciyes Fragments, The
+2x Guardian Angel
+1x Pentex(TM) Subversion
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+3x Vessel
+2x Wash
+
+Action (9)
+6x Deep Song
+1x Pulse of the Canaille
+2x Under Siege
+
+Ally (3)
+1x Carlton Van Wyk
+2x War Ghoul
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+2x Sniper Rifle
+
+Retainer (5)
+5x Raven Spy
+
+Reaction (19)
+6x Eyes of Argus
+7x Read the Winds
+6x Telepathic Misdirection
+
+Combat (36)
+7x Aid from Bats
+7x Carrion Crows
+5x Meld with the Land
+4x Pack Alpha
+5x Taste of Vitae
+8x Terror Frenzy
+
+Event (1)
+1x Scourge of the Enochians

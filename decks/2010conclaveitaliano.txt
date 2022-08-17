@@ -1,0 +1,73 @@
+Conclave Italiano - Italian NC 2010
+Rome, Italy
+March 21st 2010
+3R+F
+35 players
+Alessandro Donati
+
+Deck Name: MonoUna
+
+Description: Classic MonoUna Deck
+
+Crypt (12 cards, min=4, max=36, avg=5.25)
+-----------------------------------------
+6x Una			9   ANI FOR PRE PRO dem	 archbishop	Gangrel antitribu:3
+4x Anarch Convert	1   -none-		 		Caitiff:ANY
+1x Sarah Brando		3   CEL			 		Brujah antitribu:2
+1x Frederick the Weak	2   pre			 		Brujah antitribu:2
+
+Library (90 cards)
+Master (6; 1 trifle)
+1x Direct Intervention
+1x Monster
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Vessel
+1x Waste Management Operation
+
+Action (9)
+1x Abbot
+1x Aranthebes, The Immortal
+1x Blessing of Chaos
+1x Dark Mirror of the Mind
+1x Eternal Vigilance
+1x Repair the Undead Flesh
+1x Resilient Mind
+1x Scrounging
+1x Shadow of the Beast
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (16)
+1x Aaron's Feeding Razor
+1x Eye of Hazimel
+1x Helicopter
+1x IR Goggles
+1x Ivory Bow
+1x Kaymakli Fragment
+1x Kevlar Vest
+1x Leather Jacket
+1x Martinelli's Ring
+1x Meat Hook
+1x Phased Motion Detector
+1x Sargon Fragment, The
+1x Seal of Veddartha
+1x Sire's Index Finger
+1x Sniper Rifle
+1x Textbook Damnation, The
+
+Retainer (6)
+1x Homunculus
+1x Jackie Therman
+1x Mr. Winthrop
+1x Murder of Crows
+1x Owl Companion
+1x Raven Spy
+
+Action Modifier (50)
+50x Freak Drive
+
+Reaction (2)
+1x Deflection
+1x Delaying Tactics

@@ -1,0 +1,58 @@
+NAC 2005 Day 1
+Gencon 2005, Indianapolis, Indiana
+August 19th 2005
+3R+F
+62 players
+Stefan Ferenci
+
+Deck Name: Just say NO
+
+Description: Tzimisce denial deck
+
+Crypt (12 cards, min=12, max=29, avg=5.33)
+------------------------------------------
+2x Caliban		   6   ANI AUS VIC		 Tzimisce:2
+2x Corine Marcón	   6   AUS VIC ani		 Tzimisce:2
+1x Little Tailor of Prague 8   ANI AUS VIC dem		 Tzimisce:2
+1x Meshenka		   8   ANI AUS VIC	priscus	 Tzimisce:2
+1x Kazimir Savostin	   7   AUS VIC ani pot		 Tzimisce:3
+1x Devin Bisley		   5   ANI AUS vic		 Tzimisce:2
+1x Elizabeth Westcott	   5   AUS ani cel vic		 Tzimisce:3
+1x Lolita Houston	   4   VIC aus			 Tzimisce:2
+1x Horatio		   2   vic			 Tzimisce:2
+1x Olga Triminov	   1   vic			 Pander:3
+
+Library (71 cards)
+Master (17)
+5x Blood Doll
+1x Library Hunting Ground
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+6x Rötschreck
+1x Smiling Jack, The Anarch
+1x Tension in the Ranks
+
+Action (1)
+1x Army of Rats
+
+Equipment (1)
+1x Palatial Estate
+
+Reaction (37)
+5x Eagle's Sight
+5x Enhanced Senses
+7x Forced Awakening
+5x My Enemy's Enemy
+3x Precognition
+2x Read the Winds
+3x Spirit's Touch
+5x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (14)
+7x Breath of the Dragon
+7x Chiropteran Marauder
+
+Event (1)
+1x Dr. Marisa Fletcher, CDC

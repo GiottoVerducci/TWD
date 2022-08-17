@@ -1,0 +1,102 @@
+Origins Sunday
+Origins, Columbus, Ohio
+June 29th 2008
+2R+F
+24 players
+Matthew Morgan
+
+-- 2.5VP in final
+
+Deck Name: DoC bleed
+
+Description: The challenge I gave myself was to create a good
+Daughters of Cacophony deck that wasn't a copy of
+Ben Peal's NAC winning deck. This one is mostly
+inspired by a deck of Forrest Nielsen's that won
+a qualifier back in 2003 and made the NAC final the
+same year. It adds !Toreador for bleed defense and
+has a good chunk of combat defense. I earned 2GW and
+8VP in the preliminary rounds of the 2R+F tournament
+and 2.5VP in the final With another minute or two
+left on the clock, I would've ousted my last prey for
+a 3rd 4VP win (but I'm plenty satisfied with just a win).
+
+Never saw Gael or Remilliard, who are probably the weakest crypt
+choices here, so just as well. A couple other players have
+insisted that this crypt needs Greta, but she wouldn't have
+really helped this time. Sheila's +1 bleed and fortitude were
+just more useful.
+
+Strangely, the Anarch Troublemakers never were that important
+and I didn't draw them often. Could use another Pentex and
+probably Direct Intervention. The Presence masters didn't
+matter much since I mostly got out minions with PRE.
+
+This seems like a lot, but I never discarded a bleed card and
+often ran out. I probably had some chances to steal Hugh's
+Carlton in the final, but he was really doing me more good
+where he was, so I just bled with the Entrancements.
+
+More Siren's Lure is a no-brainer, but this is all I own.
+Oddly enough, most of my preys never tried to block me at
+all, so again it didn't matter this time. Daring the Dawn
+could certainly go here.
+
+Only one Delaying Tactics? What was I thinking? It totally
+saved me in round 1 and the final. Another copy should
+certainly be here. Tourette's Voice was completely useless
+and sadly misplayed a couple of times (sorry!). I thought it
+might be good for saving grandpreys or for some unexpected
+intercept, but the need never arose. Likewise, I think I
+bounced one bleed in the entire tournament. That's something
+you just can't plan for.
+
+This worked out great. With all the other blood costs
+in the deck, playing a Soak against hands for 1 is completely
+worthwhile, which is mostly what I did with them.
+
+Crypt (12 cards, min=15, max=24, avg=5.08)
+------------------------------------------
+2x Jost Werner			  6   AUS PRE ani	Toreador antitribu:2
+2x Sheila Mezarin		  6   AUS PRE cel for	Toreador antitribu:2
+2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+1x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+1x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
+1x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+1x Maldavis			  4   AUS for pre	Caitiff:3
+1x Remilliard, Devout Crusader	  4   AUS pre		Toreador antitribu:2
+1x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+
+Library (90 cards)
+Master (16)
+4x Anarch Troublemaker
+5x Blood Doll
+1x Dreams of the Sphinx
+1x Fetish Club Hunting Ground
+1x Palla Grande
+1x Paris Opera House
+1x Pentex(TM) Subversion
+2x Presence
+
+Action (18)
+6x Enchant Kindred
+4x Entrancement
+4x Legal Manipulations
+4x Social Charm
+
+Action Modifier (14)
+6x Aire of Elation
+4x Missing Voice, The
+4x Siren's Lure
+
+Reaction (24)
+1x Delaying Tactics
+2x My Enemy's Enemy
+3x On the Qui Vive
+8x Telepathic Misdirection
+4x Tourette's Voice
+6x Wake with Evening's Freshness
+
+Combat (18)
+10x Majesty
+8x Soak

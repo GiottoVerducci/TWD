@@ -1,0 +1,94 @@
+Finnish ECQ
+Ropecon 2008, Espoo, Finland
+August 8th 2008
+3R+F
+83 players
+Lasse Pöyry
+
+Deck Name: Lasombra capitalists
+
+Description: Trying to bleed without spending all the blood from
+my vampires. It is good to be blocked every now and then so you
+are not seen as a table threat.
+
+/* I made this deck in 30 minutes and there are some second best
+solutions just because of my unfortunate but self-inflicted time
+constraint
+
+Bottom heavy line of capacities. I'm quite happy with my
+choices here
+
+Could do without all the Lasombra-masters
+
+I was suprised to not be able to actually use the
+Graverobbing. I was expecting much more violent behavior.
+
+Free dodge with additional strike is so strong. Actually I was
+planning to get blocked every once in a while and thats why I
+have more combat cards than stealth.
+
+These were supposed to be cannon fodder but I dealt
+differently with rush decks (in round 1 I gave Beast one hour to
+go forward and get an oust before trying to oust its
+controller. A deal that was worth it for both of us I think). But
+they actually served as offence and in the final table Nocturns
+finished both of my ousts in a single turn.
+
+Card flow was decent and I was quite happy with the balance
+between modifiers and combat cards. The deck in itself isn't very
+clever or anything, but 38 dominate cards seems to get the work
+done. */
+
+Crypt (12 cards, min=20, max=31, avg=6.33)
+------------------------------------------
+1x Antón de Concepción	 9   ANI DOM OBT POT aus  archbishop	Lasombra:4
+1x Conrad Adoula	 8   DOM OBT POT ani cel  		Lasombra:4
+1x Henri Lavenant	 7   DOM OBT pot qui	  		Lasombra:3
+1x Lord Vauxhall	 7   DOM OBT POT THA	  		Lasombra:4
+1x Tobias Smith		 7   DOM OBT PRE pot	  		Lasombra:3
+1x Black Wallace	 6   DOM POT obt tha	  		Lasombra:4
+1x Onaedo		 6   DOM OBT aus pot	  		Lasombra:4
+1x Virginie, Prodigy	 6   DOM POT obt	  bishop	Lasombra:4
+1x Andrew Emory		 5   OBT aus dom pot	  bishop	Lasombra:4
+1x Banjoko		 5   DOM obt pot	  		Lasombra:3
+1x Dame Hollerton	 5   DOM OBT myt	  		Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot	  		Lasombra:4
+
+Library (90 cards)
+Master (13; 4 trifle)
+4x Capitalist -- I didn't get this vessel-capitalist thing to work as well as I thought, but I still think the idea is sound
+1x Elysian Fields
+1x Grooming the Protégé
+1x Path of Night, The
+1x Political Hunting Ground
+1x Slave Auction
+4x Vessel
+
+Action (15)
+6x Govern the Unaligned
+1x Graverobbing
+8x Scouting Mission
+
+Ally (6)
+6x Nocturn
+
+Action Modifier (24)
+3x Bonding
+2x Conditioning
+3x Seduction
+5x Shadow Play
+3x Shroud of Night -- Should definitely be Shroud of Absence. I think I only have one and that wasn't in my obtenebrations cards pile
+1x Tangle Atropos' Hand -- Didn't use this one, I had to include it because I have just this one copy and I had never played it before
+1x Tenebrous Form
+6x Threats
+
+Reaction (16)
+4x Deflection
+3x On the Qui Vive -- Should have had more. All my other OtQV's were in different decks and I didn't have time to go through them (or I just was lazy and figured that wakes will do)
+5x Redirection
+4x Wake with Evening's Freshness
+
+Combat (16)
+10x Arms of the Abyss
+2x Disarm
+4x Entombment

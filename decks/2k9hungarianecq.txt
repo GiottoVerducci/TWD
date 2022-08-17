@@ -1,0 +1,49 @@
+Hungarian ECQ
+Budapest, Hungary
+May 16th 2009
+47 players
+Gyula Erdõs
+
+Deck Name: Ashur CEL
+Created by: Péter Korsós
+
+Crypt (12 cards, min=13, max=32, avg=5.33)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom	prince	Toreador:1
+3x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Jimmy Dunn			4   CEL POT for			Pander:2
+1x Parmenides			4   CEL qui			Assamite:2
+1x Victor Tolliver		4   CEL pot			Brujah antitribu:2
+1x Sarah Brando			3   CEL				Brujah antitribu:2
+1x Carter			2   cel				Toreador antitribu:2
+
+Library (77 cards)
+Master (18)
+6x Ashur Tablets
+3x Dreams of the Sphinx
+2x Fame
+2x Haven Uncovered
+3x Liquidation
+1x Powerbase: Montreal
+1x Tension in the Ranks
+
+Action (9)
+9x Bum's Rush
+
+Equipment (7)
+7x .44 Magnum
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (34)
+4x Blur
+7x Concealed Weapon
+1x Fast Hands
+9x Psyche!
+6x Pursuit
+3x Sideslip
+4x Taste of Vitae
+
+Event (1)
+1x Dragonbound

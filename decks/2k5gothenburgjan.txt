@@ -1,0 +1,63 @@
+Winter Wonderland
+Gothenburg, Sweden
+January 8th 2005
+10 players
+Erik Torstensson
+
+-- 5VP in final
+
+Deck Name: The White House
+
+Description: Created by Alex Ek and Erik Torstensson.
+Won the tournament in Gothenburg on the 8 January, 2005. It took 1GW,
+The idea is to lock down the table with your first traditions, then
+pay for your turns and try to get a lower pool than your prey. Then
+parity shift the pool back. If you can't get lower, then just use
+your other damage dealing votes to oust.
+
+Crypt (12 cards, min=19, max=40, avg=7.25)
+------------------------------------------
+4x Lucian	    10	AUS DOM OBF cel tha	justicar  Malkavian:1
+3x Gilbert Duane    7	AUS DOM OBF		prince	  Malkavian:1
+2x Greger Anderssen 7	AUS OBF dom pro		prince	  Malkavian:2
+1x Victoria	    5	AUS cel obf			  Malkavian:2
+1x Aleph	    4	AUS dom				  Malkavian:1
+1x Zöe		    3	AUS cel obf			  Malkavian:2
+
+Library (70 cards)
+Master (10)
+1x Barrens, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Madness Network
+3x Minion Tap
+2x Sudden Reversal
+
+Action (5)
+5x Govern the Unaligned
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Political Action (21)
+1x Ancilla Empowerment
+1x Domain Challenge
+7x First Tradition: The Masquerade
+5x Kine Resources Contested
+7x Parity Shift
+
+Action Modifier (16)
+1x Cloak the Gathering
+1x Elder Impersonation
+2x Faceless Night
+3x Forgotten Labyrinth
+4x Lost in Crowds
+5x Telepathic Vote Counting
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (14)
+5x Obedience
+5x Second Tradition: Domain
+4x Telepathic Misdirection

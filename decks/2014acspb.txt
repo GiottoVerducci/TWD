@@ -1,0 +1,70 @@
+Angels Cry
+São Paulo, Brazil
+April 18th 2014
+3R+F
+18 players
+Roberto Mautone Junior
+https://www.vekn.net/event-calendar/event/7540
+
+-- 3VP in final
+
+Deck Name: Angels will Cry
+
+Description: Unnamed does not need descriptions
+
+Crypt (12 cards, min=12, max=40, avg=5.92)
+------------------------------------------
+6x Horde, The		   3   dai obf pre	    	    Baali:6
+4x unnamed, The		   10  CEL DAI OBF PRE PRO  	    Baali:6
+1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  	    Baali:6
+1x Arishat		   6   DAI OBF PRE	    1 vote  Baali:6
+
+Library (90 cards)
+Master (22; 5 trifle)
+1x Giant's Blood
+1x Golconda: Inner Peace
+3x Path of Evil Revelations
+1x Perfectionist
+2x Rötschreck
+1x Ruins of Charizel
+1x Secure Haven
+7x Tend the Flock
+2x Vessel
+3x Villein
+
+Action (11)
+2x Contagion
+2x Entrancement
+4x Flurry of Action
+2x Sheepdog
+1x Unleash Hell's Fury
+
+Ally (1)
+1x Veneficti
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Kaymakli Fragment
+
+Retainer (4)
+4x Homunculus
+
+Action Modifier (32)
+4x Elder Impersonation
+4x Enkil Cog
+5x Faceless Night
+5x Instantaneous Transformation
+5x Lost in Crowds
+5x Psychomachia
+4x Spying Mission
+
+Action Modifier/Combat (2)
+2x Hide the Mind
+
+Action Modifier/Reaction (7)
+7x Sense the Sin
+
+Combat (9)
+2x Flames of the Netherworld
+5x Form of Mist
+2x Majesty

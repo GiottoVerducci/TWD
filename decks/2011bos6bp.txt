@@ -1,0 +1,68 @@
+Body of Sun #6
+Bydgoszcz, Poland
+August 25th 2011
+2R+F
+10 players
+Andrzej Wilczynski
+
+Deck Name: Cailean using the Advantage
+
+Description: it needs one more enkil cog, and monastery
+of shadows. Nosferatu kingdom goes out... in older
+version of this deck, there were more Nosferatu,
+now there is only Cailean, so i just forgot to throw it out.
+
+Crypt (12 cards, min=5, max=40, avg=4.42)
+-----------------------------------------
+4x Cailean			   10  ANI OBF POT PRE dom  archbishop	Nosferatu antitribu:2
+1x Christine Boscacci		   2   dom vic		    		Pander:2
+1x Frederick the Weak		   2   pre		    		Brujah antitribu:2
+1x Marciana Giovanni, Investigator 2   dom		    		Giovanni:2
+1x Ohanna			   2   dom		    		Malkavian:2
+1x Samson			   2   dom		    		Ventrue antitribu:2
+1x Angela Decker		   1   pre		    		Pander:2
+1x Basil			   1   obf		    		Pander:2
+1x Royce			   1   dom		    		Pander:2
+
+Library (60 cards)
+Master (17; 3 trifle)
+2x Dreams of the Sphinx
+1x Information Network
+1x Jake Washington
+1x Nosferatu Kingdom
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Sudden Reversal
+5x Using the Advantage
+2x Vessel
+1x Wash
+
+Action (9)
+1x Aranthebes, The Immortal
+3x Eternal Vigilance
+3x Govern the Unaligned
+2x Heart of the City
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (15)
+2x Cloak the Gathering
+3x Conditioning
+2x Elder Impersonation
+2x Enkil Cog
+2x Faceless Night
+2x Into Thin Air
+2x Seduction
+
+Reaction (11)
+5x Deflection
+2x Delaying Tactics
+4x Sense the Savage Way
+
+Combat (5)
+5x Majesty

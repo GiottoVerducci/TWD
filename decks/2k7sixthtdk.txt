@@ -1,0 +1,67 @@
+Sixth Tradition: Destruction
+Kecskemet, Hungary
+September 23rd 2007
+40 players
+Norbert Broda
+
+-- 3VP in final
+
+Created by: Gyula Erdõs
+
+Crypt (15 cards, min=4, max=31, avg=3.47)
+-----------------------------------------
+2x Korah		    7	AUS DEM OBF ani		priscus	    Malkavian antitribu:2
+2x Marie Faucigny	    7	AUS OBF dem tha		archbishop  Malkavian antitribu:3
+1x Hannibal		    10	AUS DEM OBF cel dom	cardinal    Malkavian antitribu:2
+1x Lena Rowe		    3	aus obf pre			    Pander:2
+1x Christine Boscacci	    2	dom vic				    Pander:2
+1x Mitchell, The Headhunter 2	obt pot				    Pander:2
+1x Angela Decker	    1	pre				    Pander:2
+1x Basil		    1	obf				    Pander:2
+1x Feo Ramos		    1	aus				    Pander:3
+1x Huang, Blood Cultist	    1	pro				    Pander:2
+1x March Halcyon	    1	for				    Pander:2
+1x Olga Triminov	    1	vic				    Pander:3
+1x Royce		    1	dom				    Pander:2
+
+Library (90 cards)
+Master (22; 3 trifle)
+1x Coven, The
+2x Día de los Muertos
+3x Dreams of the Sphinx
+7x Effective Management
+2x Information Highway
+1x Life Boon
+2x Pentex(TM) Subversion
+1x Powerbase: Madrid
+1x Purchase Pact
+2x Wash
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (33)
+10x Consanguineous Boon
+4x Conservative Agitation
+1x Crusade: Amsterdam
+1x Crusade: Berlin
+1x Crusade: Detroit
+1x Crusade: Mexico City
+1x Crusade: Philadelphia
+1x Crusade: Toronto
+8x Kine Resources Contested
+5x Legacy of Pander
+
+Action Modifier (23)
+8x Cloak the Gathering
+2x Cryptic Rider
+2x Forgotten Labyrinth
+3x Telepathic Vote Counting
+8x Veil the Legions
+
+Reaction (6)
+1x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (5)
+5x Dodge

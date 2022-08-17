@@ -1,0 +1,74 @@
+Reverend Djoser Jones
+Columbus, Ohio
+September 24th 2005
+3R+F
+15 players
+Mark Loughman
+
+Sheldon 3.0 Newark Redux
+
+Mark's comments:
+The same basic combat monster I've been running with a few new twists.
+Archon and Alastor votes for permanent rush worked well, same with the
+weapons, either with the Alastor or without. Nightmare upon nightmare
+was put in as a 'screw' vs breeder decks but was never an issue and
+may be replaced. The lone telepathic misdirection is for that third
+point of unexpected intercept of that surprise bounce of a big bleed,
+but is rarely of much use and could probably become another rush or
+Second. The standing votes the crypt provides, and Nikolaus's special
+to get them out quicker and cheaper are two of the most important
+elements of the deck. If nothing else, the combat module allows one
+to make one's presence felt at a table.
+
+Crypt (12 cards, min=19, max=36, avg=7.08)
+------------------------------------------
+4x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+3x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+1x Sammy			4   ani obf pot		 	   Nosferatu:1
+1x Raziya Samater		3   ani pot		 	   Brujah:2
+
+Library (90 cards)
+Master (13)
+2x Blood Doll
+1x Depravity
+1x Direct Intervention
+2x Fame
+1x Golconda: Inner Peace
+1x Labyrinth, The
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+1x Tension in the Ranks
+
+Action (7)
+2x Army of Rats
+3x Big Game
+2x Tier of Souls
+
+Equipment (2)
+1x Ivory Bow
+1x Meat Hook
+
+Political Action (3)
+2x Alastor
+1x Archon
+
+Reaction (11)
+10x Second Tradition: Domain
+1x Telepathic Misdirection
+
+Combat (52)
+6x Carrion Crows
+4x Disarm
+6x Drawing Out the Beast
+9x Immortal Grapple
+8x Skin of Steel
+7x Taste of Vitae
+8x Torn Signpost
+4x Undead Strength
+
+Event (2)
+1x Dragonbound
+1x Nightmares upon Nightmares

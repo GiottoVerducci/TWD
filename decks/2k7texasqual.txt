@@ -1,0 +1,68 @@
+Texas NAC Qualifier
+Dallas, Texas
+May 19th 2007
+3R+F
+17 players
+Kelly Nine
+
+Deck Name: Rise From Your Graves
+
+2gw + 7VP going into the finals with 2 more VPs taken there
+
+Crypt (12 cards, min=16, max=36, avg=6.5)
+-----------------------------------------
+1x Ambrogino Giovanni			    9	DOM NEC POT THA aus	 1 vote	 Giovanni:2
+1x Ambrogino Giovanni (ADV)		    9	DOM NEC POT THA aus	 	 Giovanni:2
+1x Silvia Giovanni			    10	ANI DOM NEC POT for vic	 	 Giovanni:2
+1x Enzo Giovanni, Pentex Board of Directors 8	DOM NEC ani pot tha	 	 Giovanni:2
+1x Andrea Giovanni			    7	DOM NEC pot vic		 	 Giovanni:2
+1x Carlotta Giovanni			    7	NEC POT dom obf		 	 Giovanni:2
+1x Gillespi Giovanni			    7	DOM NEC POT aus		 	 Giovanni:2
+1x Isabel Giovanni			    5	DOM NEC pot		 	 Giovanni:2
+1x Le Dinh Tho				    5	NEC aus dom		 	 Nagaraja:2
+1x Francesca Giovanni			    4	dom nec pot		 	 Giovanni:2
+1x Gloria Giovanni			    4	DOM nec			 	 Giovanni:2
+1x Lia Milliner				    3	dom nec			 	 Giovanni:3
+
+Library (90 cards)
+Master (15)
+1x Antediluvian Awakening
+1x Dis Pater
+1x From a Sinking Ship
+2x Millicent Smith, Puritan Vampire Hunter
+6x Minion Tap
+1x Momentum's Edge
+1x Powerbase: Cape Verde
+2x Virolax Facility
+
+Action (19)
+1x Dominate Kine
+1x Far Mastery
+10x Govern the Unaligned
+1x Graverobbing
+3x Possession
+1x Sudario Refraction
+2x Summon Soul
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Action Modifier (25)
+6x Call of the Hungry Dead
+5x Change of Target
+6x Conditioning
+2x Foreshadowing Destruction
+6x Seduction
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (16)
+6x Deflection
+6x Obedience
+4x Wake with Evening's Freshness
+
+Combat (9)
+3x Mercy for Seth
+4x Spiritual Intervention
+2x Undead Strength

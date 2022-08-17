@@ -1,0 +1,69 @@
+Boxed In
+Fortaleza, Brazil
+April 17th 2016
+2R+F
+11 players
+Renato Torres
+https://www.vekn.net/event-calendar/event/8319
+
+-- 4VP in final
+
+Deck Name: Água mole em pedra dura, quem avisa amigo é.
+
+Crypt (12 cards, min=23, max=41, avg=8.33)
+------------------------------------------
+3x Ankou, The			   10  AUS DEM OBF	    		  Malkavian:5
+2x Morel			   6   AUS DEM OBF	    		  Malkavian:4
+1x Lutz von Hohenzollern	   11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+1x Gravitnir			   10  AUS CEL DEM OBF VIC  priscus	  Malkavian antitribu:4
+1x Alicia Barrows		   9   AUS DEM OBF POT PRE  archbishop	  Malkavian antitribu:4
+1x Harold Zettler, Pentex Director 9   AUS DEM OBF POT vic  		  Malkavian antitribu:4
+1x Persephone Tar-Anis		   8   AUS DEM OBF cel pot  		  Malkavian antitribu:4
+1x Hagar Stone			   6   AUS DEM obf	    		  Malkavian antitribu:5
+1x Apache Jones			   5   DEM aus for obf	    		  Malkavian antitribu:4
+
+Library (90 cards)
+Master (17; 2 trifle)
+1x Asylum Hunting Ground
+1x Barrens, The
+1x Capitalist
+2x Direct Intervention
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Institution Hunting Ground
+3x Minion Tap
+1x Perfectionist
+1x Secure Haven
+1x Sudden Reversal
+2x Vessel
+
+Action (21)
+4x Call, The
+1x Conceal
+11x Kindred Spirits
+4x Lunatic Eruption
+1x Restructure
+
+Action Modifier (36)
+2x Cloak the Gathering
+8x Confusion
+2x Elder Impersonation
+9x Eyes of Chaos
+2x Faceless Night
+1x Into Thin Air
+7x Lost in Crowds
+4x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (5)
+1x Deny
+4x Swallowed by the Night
+
+Reaction (7)
+1x Forced Awakening
+6x Telepathic Misdirection
+
+Combat (4)
+3x Coma
+1x No Trace

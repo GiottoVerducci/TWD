@@ -1,0 +1,44 @@
+Seattle Qualifier
+Seattle, Washington
+March 31st 2002
+19 players
+Scott Christoferson
+
+Crypt (12 cards, min=19, max=29, avg=6)
+---------------------------------------
+2x Gilbert Duane		7   AUS DOM OBF		 prince	 Malkavian:1
+2x Mariel, Lady Thunder		7   DOM OBF aus tha	 	 Malkavian:1
+2x Ozmo				6   AUS dom obf		 	 Malkavian:1
+2x Didi Meyers			5   DOM aus cel obf	 	 Malkavian:1
+2x Zebulon			5   OBF aus dom pro	 	 Malkavian:1
+1x Anatole, Prophet of Gehenna	8   AUS DEM OBF dom for	 	 Malkavian:2
+1x Roland Bishop		4   aus dom obf		 	 Malkavian:1
+
+Library (66 cards)
+Master (13)
+4x Dominate
+1x Fear of Mekhet
+1x Giant's Blood
+1x Information Highway
+3x Malkavian Prank
+3x Sudden Reversal
+
+Action (12)
+3x Dominate Kine
+9x Govern the Unaligned
+
+Action Modifier (31)
+3x Bonding
+5x Cloak the Gathering
+3x Command of the Beast
+1x Conditioning
+4x Faceless Night
+6x Foreshadowing Destruction
+6x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (6)
+6x Deflection

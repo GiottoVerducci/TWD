@@ -1,0 +1,76 @@
+Proxy Kissed
+Moscow, Russia
+March 12th 2017
+2R+F
+10 players
+Sergey Khnychkin
+https://www.vekn.net/event-calendar/event/8592
+
+-- 2GW8 + 3VP in final
+
+Deck Name: New Deck
+
+Crypt (12 cards, min=8, max=40, avg=5.33)
+-----------------------------------------
+5x Horde, The		   3   dai obf pre	    Baali:6
+4x unnamed, The		   10  CEL DAI OBF PRE PRO  Baali:6
+2x Anarch Convert	   1   -none-		    Caitiff:ANY
+1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  Baali:6
+
+Library (90 cards)
+Master (15; 2 trifle)
+1x Archon Investigation
+1x Giant's Blood
+1x Information Highway
+1x Momentum's Edge
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Powerbase: Montreal
+5x Tend the Flock
+2x Wash
+
+Action (8)
+1x Contagion
+2x Entrancement
+2x Legal Manipulations
+1x Shadow of the Beast
+2x Unleash Hell's Fury
+
+Ally (2)
+1x Mylan Horseed
+1x Veneficti
+
+Equipment (1)
+1x Signet of King Saul, The
+
+Retainer (4)
+2x D'habi Revenant
+2x Homunculus
+
+Action Modifier (30)
+4x Cloak the Gathering
+2x Elder Impersonation
+4x Enkil Cog
+2x I am Legion
+8x Instantaneous Transformation
+6x Lost in Crowds
+2x Psychomachia
+2x Spying Mission
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+5x Sense the Sin
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (16)
+2x Conflagration
+8x Earth Meld
+4x Form of Mist
+2x Ignore the Searing Flames
+
+Event (1)
+1x Narrow Minds

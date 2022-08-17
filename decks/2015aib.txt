@@ -1,0 +1,73 @@
+Augustus
+Itaocara, Brazil
+August 16th 2015
+2R+F
+10 players
+Samir Sardinha
+https://www.vekn.net/event-calendar/event/7990
+
+-- 4VP in final
+
+Deck Name: Malk Trollbox
+
+Description: Use the crosstable to block with babble, radios and starshell, bleed when possible, defend from the predator.
+
+Crypt (12 cards, min=19, max=30, avg=6.25)
+------------------------------------------
+3x Korah	 7   AUS DEM OBF ani	  priscus  Malkavian antitribu:2
+3x Dolphin Black 6   AUS DEM OBF	  	   Malkavian antitribu:2
+2x Rodolfo	 8   AUS DEM OBF pro	  bishop   Malkavian antitribu:3
+1x Kite		 7   AUS DEM obf pre	  bishop   Malkavian antitribu:2
+1x Artemis	 6   DEM OBF aus cel for  	   Malkavian antitribu:2
+1x Uncle George	 5   DEM aus dom obf	  	   Malkavian antitribu:3
+1x Boy Toy	 2   dem		  	   Malkavian antitribu:2
+
+Library (90 cards)
+Master (14; 4 trifle)
+1x Blood Doll
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Institution Hunting Ground
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+2x Rötschreck
+3x Vessel
+1x Wash
+1x WMRH Talk Radio
+
+Action (9)
+6x Kindred Spirits
+3x Under Siege
+
+Ally (2)
+1x Carlton Van Wyk
+1x Neighborhood Watch Commander
+
+Equipment (9)
+1x Bowl of Convergence
+1x Gran Madre di Dio, Italy
+1x Ivory Bow
+2x Sniper Rifle
+4x Starshell Grenade Launcher
+
+Action Modifier (6)
+6x Eyes of Chaos
+
+Action Modifier/Combat (14)
+3x Deny
+11x Swallowed by the Night
+
+Action Modifier/Reaction (6)
+6x Random Patterns
+
+Reaction (24)
+6x Babble
+1x Eagle's Sight
+5x Eyes of Argus
+3x Melange
+4x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (6)
+5x Disguised Weapon
+1x No Trace

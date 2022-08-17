@@ -1,0 +1,66 @@
+Great Lakes Qualifier
+Glen Ellyn, Illinois
+April 17th 2004
+48 players
+Jay Kristoff
+
+Toreador Princes with Guns
+
+Crypt (12 cards, min=32, max=40, avg=8.75)
+------------------------------------------
+5x Anson		8   CEL PRE aus dom		prince	  Toreador:1
+2x Anneke		10  AUS CEL PRE dom		justicar  Toreador:1
+2x François Villon	10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+2x Marcellus		8   AUS CEL pro			prince	  Toreador:2
+1x Klaus van der Veken	9   CEL PRE aus obf tha		prince	  Toreador:2
+
+Library (90 cards)
+Master (20)
+2x Art Museum
+1x Barrens, The
+3x Blood Doll
+1x Club Zombie
+1x Depravity
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Guardian Angel
+1x Heidelberg Castle, Germany
+2x Slave Auction
+1x Society Hunting Ground
+1x Storage Annex
+
+Action (5)
+1x Blood Hunt
+2x Entrancement
+2x Nose of the Hound
+
+Equipment (6)
+5x .44 Magnum
+1x Sire's Index Finger
+
+Political Action (7)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Archon
+1x Kindred Restructure
+1x Parity Shift
+1x Political Stranglehold
+
+Reaction (12)
+10x Second Tradition: Domain
+2x Telepathic Misdirection
+
+Combat (40)
+1x Amaranth
+6x Blur
+4x Concealed Weapon
+1x Fast Hands
+4x Flash
+5x Psyche!
+6x Pursuit
+1x Riposte
+6x Sideslip
+6x Taste of Vitae

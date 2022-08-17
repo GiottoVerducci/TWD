@@ -1,0 +1,70 @@
+No Deal
+Joensuu, Finland
+November 17th 2012
+2R+F
+14 players
+Tomi Sillanpää
+
+Deck Name: Toreador Power Bleed
+Created by: Aleksi Nuora (ever so slightly modified by Tomi Sillanpää)
+
+Description: Credit Aleksi for creating this fine deck. I swapped
+just a few cards from his list to add in an Enkil Cog, and a Metro
+Underground, which I thought might help my game...
+And sure enough they did.
+
+Crypt (12 cards, min=9, max=44, avg=6.25)
+-----------------------------------------
+5x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+2x Andre LeRoux	    3	aus			 Toreador:5
+1x Fairuza	    4	CEL pre			 Brujah antitribu:5
+1x Idrissa	    4	CEL aus			 Osebo:4
+1x T.J.		    3	cel for			 Gangrel:4
+1x Clifton Derrik   2	cel			 Brujah:4
+1x Anarch Convert   1	-none-			 Caitiff:ANY
+
+Library (90 cards)
+Master (6; 3 trifle)
+1x Metro Underground
+1x Monster
+1x Pentex(TM) Subversion
+1x Villein
+1x Wash
+1x Wider View
+
+Action (11)
+1x Abbot
+1x Ambush
+1x Big Game
+1x Bum's Rush
+1x Deep Song
+1x Harass
+1x Heroic Might
+1x Rumble
+2x Sense Death
+1x Taunt the Caged Beast
+
+Action/Combat (2)
+2x Elemental Stoicism
+
+Equipment (1)
+1x Codex of the Edenic Groundskeepers
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (2)
+1x Enkil Cog
+1x Forced March
+
+Combat (67)
+1x Armor of Vitality
+3x Claws of the Dead
+2x Disarm
+10x Earth Meld
+18x Psyche!
+2x Pulled Fangs
+14x Pursuit
+4x Sideslip
+1x Street Cred
+12x Taste of Vitae

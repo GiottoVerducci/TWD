@@ -1,0 +1,68 @@
+Momentum's Edge
+Montreal, Quebec
+April 10th 2005
+3R+F
+20 players
+Martin Laganière
+
+Deck Name: Tatiana children's Ver2.0
+
+Faire des Tumnimos , attendre le bon moment pour ouvrir la machine et
+ne surtout pas oublier la fabuleuse abilité de Paul Forest.
+
+Crypt (12 cards, min=18, max=29, avg=5.75)
+------------------------------------------
+4x Tatiana Stepanova, Alastor	7   CHI PRE ani for obf	 Ravnos:4
+3x Paul Forrest, False Prophet	5   chi for pre		 Ravnos:4
+2x Callirus			5   CHI FOR ani		 Ravnos:4
+2x Devyn			4   ani chi pre		 Ravnos:4
+1x Alexis Sorokin		8   CEL CHI OBF PRO for	 Ravnos:4
+
+Library (90 cards)
+Master (33; 5 trifle)
+1x Barrens, The
+7x Blood Doll
+5x Chimerstry
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Fortune Teller Shop
+1x Giant's Blood
+1x Jake Washington
+5x Life in the City
+1x Park Hunting Ground
+3x Parthenon, The
+1x Perfectionist
+1x Secure Haven
+1x Svadharma
+1x Warzone Hunting Ground
+1x Week of Nightmares
+1x Zoo Hunting Ground
+
+Action (21)
+2x Patshiv
+2x Psychic Veil
+1x Sensory Deprivation
+16x Tumnimos
+
+Ally (3)
+1x Carlton Van Wyk
+1x Ossian
+1x Renegade Garou
+
+Equipment (2)
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Political Action (1)
+1x Rumors of Gehenna
+
+Action Modifier (11)
+8x Fata Morgana
+3x Red Herring
+
+Action Modifier/Combat (11)
+3x Mirror Image
+8x Occlusion
+
+Combat (8)
+8x Apparition

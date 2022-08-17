@@ -1,0 +1,81 @@
+Munduko Txapelketa 2007
+Mulligan A3, Bilbao, Spain
+August 18th 2007
+22 players
+Txus Alútiz Lizarraga
+
+Deck Name: Los chicos Llongueras
+
+Crypt (14 cards, min=9, max=22, avg=3.93)
+-----------------------------------------
+2x Rake					6   PRE aus cel pot	prince	Brujah:1
+2x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
+1x Black Cat				5   CEL pot pre			Brujah:1
+1x Brachah				5   CEL PRE for			Brujah:2
+1x Hector Sosa				4   POT pre			Brujah:1
+1x Yuri, The Talon			4   cel pot pre			Brujah:1
+1x Dre, Leader of the Cold Dawn		3   cel pot			Brujah:1
+1x Raziya Samater			3   ani pot			Brujah:2
+1x Uma Hatch				3   cel pre			Brujah:1
+1x Angel				2   cel				Brujah:1
+1x Lupo					2   pot				Brujah:1
+1x Vasilis, The Traitor of Don Cruez	2   pre				Brujah:2
+
+Library (90 cards)
+Master (30)
+1x Archon Investigation
+6x Blood Doll
+8x Brujah Debate
+1x Carthage Remembered
+1x Carver's Meat Packing and Storage
+1x Channel 10
+1x Direct Intervention
+2x Frontal Assault
+1x Giant's Blood
+1x Haven Uncovered
+1x KRCG News Radio
+1x Oxford University, England
+3x Parthenon, The
+1x Vast Wealth
+1x Warzone Hunting Ground
+
+Action (9)
+1x Aranthebes, The Immortal
+2x Atonement
+6x Third Tradition: Progeny
+
+Ally (3)
+1x Carlton Van Wyk
+2x Repo Man
+
+Equipment (9)
+1x Ivory Bow
+1x Palatial Estate
+1x Phased Motion Detector
+6x Sport Bike
+
+Political Action (22)
+2x Brujah Justicar
+5x Consanguineous Boon
+2x Kine Resources Contested
+2x National Guard Support
+3x Parity Shift
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Houston
+1x Praxis Seizure: Paris
+1x Praxis Seizure: Rome
+1x Rumors of Gehenna
+
+Reaction (11)
+3x On the Qui Vive
+8x Second Tradition: Domain
+
+Event (6)
+2x Anthelios, The Red Star
+1x Blood Weakens
+1x NRA PAC
+1x NSA Trio
+1x Slow Withering, The

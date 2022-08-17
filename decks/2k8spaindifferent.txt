@@ -1,0 +1,69 @@
+Spain is different
+Badia del Valles, Spain
+July 6th 2008
+3R+F
+25 players
+Frances Ros
+
+-- 2.5VP in final
+
+Deck Name: Nakhthorheb Power
+
+Crypt (12 cards, min=12, max=36, avg=5.83)
+------------------------------------------
+3x Nakhthorheb		 10  OBF PRE SER	  Follower of Set:4
+2x Halim Bey		 6   DOM SER obf tha	  Follower of Set:4
+1x Ankh-sen-Sutekh	 6   PRE SER obf	  Follower of Set:4
+1x Abdelsobek		 5   for nec obf pre ser  Follower of Set:5
+1x Black Lotus		 5   DOM aus obf ser	  Follower of Set:4
+1x Marla Kenyon		 4   PRE ser		  Follower of Set:4
+1x Ahmose Chambers	 3   obf ser		  Follower of Set:5
+1x Reverend Djoser Jones 3   pre ser		  Follower of Set:4
+1x Belle Equitone	 2   ser		  Follower of Set:4
+
+Library (90 cards)
+Master (15; 7 trifle)
+1x Cave of Apples
+1x Direct Intervention
+2x Dominate
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Opium Den
+6x Vessel
+1x Wash
+
+Action (29)
+4x Enticement
+3x Entrancement
+1x Mesu Bedshet
+9x Public Trust
+6x Revelation of Ecstasy
+5x Temptation
+1x Waters of Duat
+
+Ally (1)
+1x Mylan Horseed
+
+Retainer (1)
+1x D'habi Revenant
+
+Action Modifier (19)
+5x Cloak the Gathering
+2x Elder Impersonation
+6x Into Thin Air
+2x Spying Mission
+4x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (12)
+6x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+1x Redirection
+1x Wake with Evening's Freshness
+
+Combat (9)
+7x Majesty
+2x Staredown

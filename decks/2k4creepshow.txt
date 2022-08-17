@@ -1,0 +1,71 @@
+Creep Show
+Chicago, Illinois
+January 25th 2004
+28 players
+John Flournoy
+
+Deck Name: Uglier Jack
+
+Comments: A very slight tweak to my Ugly Jack deck featured in the
+!Nos newsletter a few months back. I swapped out Calebos for a second
+Teresita and Unburdening the Bestial Soul for Anachronism, which went
+in mainly to deal with the pair of players (if not more) I correctly
+guessed would be playing with Assault Rifles. Never played it, but I
+was gratified that I had guessed the meta-game correctly. I had meant
+to swap out Tock for Nigel the Shunned and forgot to. Picked up 3GW
+and 9VP, then won the finals with a lot of luck in the timing.
+
+Crypt (12 cards, min=14, max=28, avg=5.33)
+------------------------------------------
+2x Teresita, The Godmother		  7   ANI OBF POT for		 Nosferatu antitribu:3
+1x Beast, The Leatherface of Detroit	  7   OBF POT ani cel		 Nosferatu antitribu:2
+1x Kendrick				  7   ANI POT aus obf	priscus	 Nosferatu antitribu:2
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot		 Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows		  6   ANI OBF POT		 Nosferatu antitribu:2
+1x Cicatriz				  5   ani obf pot	bishop	 Nosferatu antitribu:2
+1x Olivia				  5   OBF POT vic	bishop	 Nosferatu antitribu:2
+1x Agatha				  4   POT obf			 Nosferatu antitribu:2
+1x Tock					  4   obf pot pre		 Nosferatu antitribu:3
+1x Shannon Price, The Whisperer		  3   ani obf			 Nosferatu antitribu:2
+1x Tommy				  3   ani pot			 Nosferatu antitribu:2
+
+Library (90 cards)
+Master (19)
+1x Anachronism
+7x Blood Doll
+2x Guardian Angel
+1x Information Network
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+1x Rumor Mill, Tabloid Newspaper, The
+4x Smiling Jack, The Anarch
+1x WMRH Talk Radio
+
+Action (5)
+3x Atonement
+2x Zillah's Tears
+
+Equipment (4)
+2x IR Goggles
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier/Combat (7)
+7x Swallowed by the Night
+
+Reaction (20)
+5x Cats' Guidance
+10x Forced Awakening
+5x Guard Dogs
+
+Combat (32)
+7x Aid from Bats
+8x Behind You!
+2x Disarm
+7x Thrown Gate
+8x Thrown Sewer Lid

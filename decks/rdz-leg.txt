@@ -1,0 +1,93 @@
+Tournament
+Portsmouth, England
+September 19th 1998
+9 players only
+Legbiter
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/wtAwMcOu-8Y
+
+Legbiter's winning deck. Basically this is a clone of the "Princes of
+Carthage" deck that got R David Zopf to the DragonCon finals. David's modest
+claim that this was "just thrown together" is somewhat undermined by the fact
+that the deck can still do well in the hands of a different player on the
+other side of the pond! However, I admit I have tweaked the deck a little
+[more KRCs, kept the Kine Dominances, didn't increase the Carthages, changed
+a few of the masters]. In play it flows beautifully. The only change i might
+make to it now is maybe to put in a few alacritys - perhaps replacing the
+Sengir dagger, one of the closed sessions and one of the Bewitching orations.
+This is because the only time the deck struggled was when Garry, with a
+decent amount of intercept, good combat and a few votes of his own, was my
+predator. Interestingly, this deck didn't do THAT well when we playtested it
+in my group last monday - i got 2VP but also got kippered by Drummer John's
+fast presence-bleed deck. Admittedly that was in part because i made a
+FOOLISH error, but still .... guess the playgroup ain't the same thing as the
+tournament, eh?
+
+Crypt (12 cards, min=14, max=31, avg=5.67)
+------------------------------------------
+1x Anson				8   CEL PRE aus dom	prince	Toreador:1
+1x Constanza Vinti			8   CEL DOM POT		prince	Brujah:2
+1x Dónal O'Connor			8   CEL DOM POT		prince	Brujah:2
+1x Sir Walter Nash			7   DOM FOR PRE		prince	Ventrue:1
+1x Tatiana Romanov			7   AUS cel pre		prince	Toreador:1
+1x Rake					6   PRE aus cel pot	prince	Brujah:1
+1x Brachah				5   CEL PRE for			Brujah:2
+1x Ranjan Rishi, Camarilla Scholar	5   DOM PRE for			Ventrue:2
+1x Volker, The Puppet Prince		5   CEL pot		prince	Brujah:2
+1x Mariana Gilbert			4   PRE cel			Toreador:1
+1x Gideon Fontaine			3   PRE				Ventrue:1
+1x Vasilis, The Traitor of Don Cruez	2   pre				Brujah:2
+
+Library (80 cards)
+Master (20)
+2x Blood Doll
+2x Carthage Remembered
+1x Depravity
+3x Effective Management
+1x Elysium: The Arboretum -- the Arboretum
+1x Fragment of the Book of Nod
+5x Minion Tap
+1x Misdirection
+1x Pentex(TM) Subversion
+1x Rack, The
+1x Sudden Reversal
+1x Warzone Hunting Ground
+
+Action (20)
+2x Dominate Kine
+1x Fifth Tradition: Hospitality -- Hospitality x 5
+3x Fourth Tradition: The Accounting
+5x Govern the Unaligned
+2x Legal Manipulations
+5x Scouting Mission
+2x Social Charm
+
+Equipment (2)
+1x Ivory Bow
+1x Sengir Dagger
+
+Political Action (15)
+1x Brujah Justicar
+2x Consanguineous Boon
+2x Conservative Agitation
+5x Kine Resources Contested
+2x Parity Shift
+1x Praxis Seizure: Boston
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Glasgow
+
+Action Modifier (14)
+5x Aire of Elation
+4x Bewitching Oration
+2x Closed Session
+3x Voter Captivation
+
+Reaction (1)
+1x Second Tradition: Domain -- Domain x 7
+
+Combat (8)
+2x Catatonic Fear
+1x Lightning Reflexes
+2x Majesty
+1x Sacrament of Carnage
+1x Thrown Gate
+1x Thrown Sewer Lid

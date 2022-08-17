@@ -1,0 +1,72 @@
+Championship "Ebony & Ivory"
+Mataró, Spain
+August 2nd 2009
+31 players
+Raul Baza
+
+Deck Name: New Ventrue
+
+4gw15
+
+Crypt (12 cards, min=21, max=35, avg=6.83)
+------------------------------------------
+2x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince	  Ventrue:5
+2x Victor Pelletier	5   PRE cel dom for			  Ventrue:4
+1x Mary Anne Blaire	10  AUS DOM FOR PRE ani pot	justicar  Ventrue:5
+1x Johannes Castelein	9   DEM DOM FOR PRE		prince	  Ventrue:4
+1x Graham Gottesman	7   DOM FOR obf pre tha		prince	  Ventrue:5
+1x Mukhtar Bey		7   FOR PRE QUI obf pot		prince	  Caitiff:4
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince	  Ventrue:4
+1x Tara			6   POT PRE cel			prince	  Brujah:5
+1x Victor Donaldson	6   DOM for pre			prince	  Ventrue:5
+1x Emily Carson		5   DOM for pre			primogen  Ventrue:5
+
+Library (76 cards)
+Master (10; 1 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Pentex(TM) Subversion
+1x Temptation of Greater Power
+1x Ventrue Headquarters
+
+Action (14)
+4x Enchant Kindred
+2x Entrancement
+6x Govern the Unaligned
+2x Mind Numb
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x First Tradition: The Masquerade
+6x Kine Resources Contested
+1x Neonate Breach
+3x Parity Shift
+
+Action Modifier (22)
+2x Awe
+2x Conditioning
+2x Daring the Dawn
+1x Day Operation
+2x Foreshadowing Destruction
+8x Freak Drive
+2x Perfect Paragon
+3x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Force of Personality
+
+Reaction (4)
+4x Deflection
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Uncoiling, The

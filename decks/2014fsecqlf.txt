@@ -1,0 +1,61 @@
+French South ECQ
+Lyon, France
+March 29th 2014
+3R+F
+21 players
+Xavier Giacomin
+https://www.vekn.net/event-calendar/event/7489
+
+Deck Name: Tzimisce Wall
+
+Crypt (12 cards, min=7, max=25, avg=4.17)
+-----------------------------------------
+3x Caliban	   6   ANI AUS VIC  Tzimisce:2
+3x Devin Bisley	   5   ANI AUS vic  Tzimisce:2
+1x Dragos	   7   ANI AUS vic  Tzimisce:2
+1x Wendy Wade	   3   ani aus	    Tzimisce:2
+1x Dani		   2   ani	    Nosferatu antitribu:2
+1x Mouse	   2   ani	    Nosferatu:3
+1x Piotr Andreikov 2   aus	    Tzimisce:3
+1x Lisa Noble	   1   ani	    Caitiff:3
+
+Library (80 cards)
+Master (14)
+5x Blood Doll
+1x Direct Intervention
+1x Giant's Blood
+2x Jake Washington
+2x Rack, The
+3x Smiling Jack, The Anarch
+
+Action (1)
+1x Army of Rats
+
+Ally (5)
+5x War Ghoul
+
+Retainer (7)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+2x Raven Spy
+2x Revenant
+1x Tasha Morgan
+
+Reaction (22)
+3x Cats' Guidance
+3x Eagle's Sight
+3x Enhanced Senses
+3x Forced Awakening
+3x On the Qui Vive
+4x Read the Winds
+3x Telepathic Misdirection
+
+Combat (31)
+9x Aid from Bats
+3x Aura Reading
+1x Canine Horde
+7x Carrion Crows
+3x Taste of Vitae
+2x Telepathic Tracking
+2x Terror Frenzy
+4x Trap

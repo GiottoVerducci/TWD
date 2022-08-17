@@ -1,0 +1,63 @@
+Summer Double Event: Rosemarie's Friends
+Brescia, Italy
+August 17th 2014
+3R+F
+10 players
+Marcello Bertocchi
+https://www.vekn.net/event-calendar/event/7783
+
+Deck Name: caitiff turbobreed/ally
+
+Crypt (14 cards, min=4, max=4, avg=1)
+-------------------------------------
+1x Anarch Convert	1   -none-	Caitiff:ANY
+1x Angela Decker	1   pre		Pander:2
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Basil		1   obf		Pander:2
+1x Franciscus		1   aus		Caitiff:2
+1x Hasina Kesi		1   pot		Caitiff:1
+1x Huang, Blood Cultist	1   pro		Pander:2
+1x Igo the Hungry	1   pre pro	Caitiff:1
+1x Julius		1   qui ser	Caitiff:2
+1x March Halcyon	1   for		Pander:2
+1x Navar McClaren	1   ani		Caitiff:1
+1x Nik			1   cel		Caitiff:1
+1x Royce		1   dom		Pander:2
+1x Smudge the Ignored	1   -none-	Caitiff:1
+
+Library (90 cards)
+Master (14; 2 trifle)
+1x Anarch Troublemaker
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Jake Washington
+1x Nocturn Theater
+1x Not to Be
+3x Pentex(TM) Subversion
+1x Vox Domini
+2x Wash
+
+Action (48)
+40x Computer Hacking
+8x Thin-Blooded Seer
+
+Ally (7)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Mylan Horseed
+1x Ossian
+1x Vagabond Mystic
+1x Walks-With-Might
+1x Young Bloods
+
+Action Modifier (11)
+3x Change of Target
+8x Leverage
+
+Combat (8)
+5x Dodge
+3x Target Vitals
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

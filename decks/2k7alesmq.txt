@@ -1,0 +1,61 @@
+MQ
+Alès, France
+July 14th 2007
+3R+F
+14 players
+Christophe Chevalier
+
+Deck Name: l'équipe de Rigby
+
+Crypt (12 cards, min=11, max=22, avg=4.25)
+------------------------------------------
+2x Julian Sanders	   6   CEL PRE pot	Brujah antitribu:2
+2x Dodd			   5   CEL dom pre	Brujah antitribu:2
+2x Rigby, Crusade Vanguard 5   CEL PRE aus pot	Brujah antitribu:2
+2x Jacob Bragg		   3   cel pot		Brujah antitribu:2
+1x Evangeline		   4   cel pot pre	Brujah antitribu:2
+1x Victor Tolliver	   4   CEL pot		Brujah antitribu:2
+1x Sarah Brando		   3   CEL		Brujah antitribu:2
+1x Frederick the Weak	   2   pre		Brujah antitribu:2
+
+Library (90 cards)
+Master (15)
+5x Blood Doll
+3x Dreams of the Sphinx
+2x Fame
+2x Gang Territory
+2x Heidelberg Castle, Germany
+1x Sudden Reversal
+
+Equipment (8)
+8x .44 Magnum
+
+Political Action (19)
+5x Consanguineous Boon
+1x Crusade: Amsterdam
+1x Crusade: Berlin
+1x Crusade: Chicago
+1x Crusade: Istanbul
+1x Crusade: New York
+1x Crusade: Philadelphia
+1x Crusade: Pittsburgh
+1x Crusade: Rome
+1x Crusade: Washington, D.C.
+5x Dogs of War
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier/Reaction (9)
+3x Scalpel Tongue
+6x Unexpected Coalition
+
+Combat (37)
+7x Blur
+5x Concealed Weapon
+1x Fast Hands
+7x Psyche!
+6x Pursuit
+6x Sideslip
+5x Taste of Vitae

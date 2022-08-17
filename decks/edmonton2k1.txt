@@ -1,0 +1,77 @@
+Crusade III: Frozen Carnage
+Edmonton, Alberta
+March 17th 2001
+Mattrim Dixon
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vuNbofBBPS0
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0sk7pwVY57Y
+
+Deck Name: 2k1.6.03 v0.6 (Edit)
+
+
+The idea behind the deck is simple:
+keep yourself alive, almost indefinitely, by bloating like crazy
+from the Blood Dolls / Hungry Coyote combination, supplemented by
+Govern the Unaligned and Scouting Mission at superior. After you
+have a suitable number of minions up and your prey is low enough
+in pool (less than twelve, heh), steamroll your prey with stealthed
++2/+1 bleeds from your four or five minions. Machiavelli sums it
+up nicely: "And here we must observe that men must either be
+flattered or crushed; for they will revenge themselves for slight
+wrongs; whilst for grave ones they cannot. The injury, therefore,
+that you do a man should be such that you need not fear for revenge."
+
+The weak spots of this deck, as with most focused decks, are numerous.
+The lack of intercept, with the exception of Angelica, is a major sore
+spot, which actually cost me two victory points in the final. Should
+anyone seek to replicate this deck, I suggest substituting a number
+of intercept cards in for the Redirections. A heavy-duty rush-combat
+deck with Immortal Grapple would tear this deck to shreds, as the
+maneuvers are light. Depending on your local metagame, replacement
+of a number of Shadow Step for Arms of the Abyss may be in order.
+The addition of a Power Structure, to defend against vote-based decks,
+would also benefit the deck greatly as it will often finish the game
+with four-plus minions.
+
+Crypt (12 cards, min=15, max=37, avg=6.67)
+------------------------------------------
+2x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+1x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
+1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Lucita				  8   DOM FOR OBT cel pot		    Lasombra:2
+1x Aurora Van Brande, Paladin		  6   OBT dom for pot			    Lasombra:2
+1x Talley, The Hound			  6   OBT POT aus dom			    Lasombra:2
+1x Guido Lucciano			  5   OBT dom obf			    Lasombra:2
+1x Ignacio, The Black Priest		  4   dom obt pot			    Lasombra:2
+1x Ramiro				  4   dom obt vic			    Lasombra:2
+1x Mitchell, The Headhunter		  2   obt pot				    Pander:2
+
+Library (75 cards)
+Master (12)
+7x Blood Doll
+1x Dreams of the Sphinx
+1x Elysian Fields
+2x Hungry Coyote, The
+1x Political Hunting Ground
+
+Action (15)
+9x Govern the Unaligned
+6x Scouting Mission
+
+Action Modifier (15)
+1x Bonding
+2x Conditioning
+9x Shadow Play
+3x Shroud of Night
+
+Reaction (16)
+5x Deflection
+2x Forced Awakening
+4x Redirection
+5x Wake with Evening's Freshness
+
+Combat (17)
+9x Arms of the Abyss
+2x Disarm
+3x Shadow Body
+3x Thrown Gate

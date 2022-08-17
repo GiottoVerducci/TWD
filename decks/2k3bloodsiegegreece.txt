@@ -1,0 +1,60 @@
+Blood Siege
+Thessaloniki, Greece
+January 20th 2003
+12 players
+Aris Galamatis
+
+Created by: Aris Galamatis - galamatisaris@hotmail.com
+
+and inspired Xian's Slaughterhouse Funf
+
+Crypt (12 cards, min=25, max=33, avg=7.17)
+------------------------------------------
+3x Matthias				7   AUS FOR OBE nec			 Salubri:2
+2x Unre, Keeper of Golgotha		9   AUS FOR NEC dom ser thn	bishop	 Harbinger of Skulls:2
+2x Egothha				7   AUS FOR NEC obf			 Harbinger of Skulls:2
+2x Agaitas, The Scholar of Antiquities	6   AUS NEC for				 Harbinger of Skulls:2
+1x Anisa Marianna Lopez			8   FOR NEC QUI aus			 Harbinger of Skulls:2
+1x Gisela Harden, The Winnower		7   FOR NEC aus dem		priscus	 Harbinger of Skulls:2
+1x Blanche Hill				6   FOR OBE aus				 Salubri:2
+
+Library (90 cards)
+Master (21)
+1x Giant's Blood
+1x Golconda: Inner Peace
+6x Minion Tap
+6x Misdirection
+1x Secure Haven
+1x Sight Beyond Sight
+5x Slaughterhouse, The
+
+Action (13)
+1x Haunt
+3x Pulse of the Canaille
+7x Renewed Vigor
+2x Revelations
+
+Equipment (2)
+1x Erebus Mask
+1x Signet of King Saul, The
+
+Action Modifier (18)
+6x Call of the Hungry Dead
+1x Day Operation
+6x Freak Drive
+1x Kiss of Ra, The
+2x Neutral Guard
+2x Repulsion
+
+Action Modifier/Reaction (6)
+6x Spectral Divination
+
+Reaction (12)
+4x Eagle's Sight
+6x Forced Awakening
+2x My Enemy's Enemy
+
+Combat (18)
+6x Anesthetic Touch
+6x Rolling with the Punches
+6x Spiritual Intervention

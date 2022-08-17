@@ -1,0 +1,66 @@
+Port Authority
+Chicago, Illinois
+January 30th 2005
+17 players
+Colin McGuigan
+
+Deck Name: Dangerously Cheesy
+
+Description: Weenies seize Praxis and call damaging votes. Hilarity ensues.
+
+The deck could be 60 cards, but I was worried about Nightmare Upon
+Nightmares, so padded it.
+
+In blessed perfection, you seize praxis with as many minions as possible
+on turn 2, and then lay into the damaging votes, continuing to seize
+praxis with new minions as the oppurtunity presents itself. You can
+never have too many princes, since they tend to live very, very short lives.
+
+Crypt (14 cards, min=4, max=8, avg=1.43)
+----------------------------------------
+2x Delilah Easton			2   pre		Toreador:1
+2x Antoinette DuChamp			1   cel pre	Caitiff:2
+2x Igo the Hungry			1   pre pro	Caitiff:1
+1x Dieter Kleist			2   aus		Toreador:1
+1x Giuliano Vincenzi			2   for		Gangrel:1
+1x Rufina Soledad			2   for		Ventrue:1
+1x Vasilis, The Traitor of Don Cruez	2   pre		Brujah:2
+1x Franciscus				1   aus		Caitiff:2
+1x Julius				1   qui ser	Caitiff:2
+1x Navar McClaren			1   ani		Caitiff:1
+1x Smudge the Ignored			1   -none-	Caitiff:1
+
+Library (86 cards)
+Master (16; 5 trifle)
+1x Bleeding the Vine
+2x Dreams of the Sphinx
+5x Effective Management
+2x Information Highway
+5x Life in the City
+1x Pentex(TM) Subversion
+
+Political Action (62)
+17x Conservative Agitation
+1x First Tradition: The Masquerade
+1x Justicar Retribution
+21x Kine Resources Contested
+6x Parity Shift
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Atlanta
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Brussels
+1x Praxis Seizure: Cleveland
+1x Praxis Seizure: Dallas
+1x Praxis Seizure: Dublin
+1x Praxis Seizure: Geneva
+1x Praxis Seizure: Glasgow
+1x Praxis Seizure: London
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Paris
+1x Praxis Seizure: Rome
+1x Praxis Seizure: Seattle
+1x Praxis Seizure: Stockholm
+
+Action Modifier (8)
+8x Bewitching Oration

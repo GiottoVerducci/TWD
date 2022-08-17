@@ -1,0 +1,69 @@
+Tournament
+Halmstad, Sweden
+November 23rd 2003
+11 players
+Henrik Isaksson
+
+Deck Name: Kiasyd Stealth bleed/Intercept combat
+
+Description: Get Marconius out and govern out the smaller ones.
+Exploit the intercept/stealth card aura absorption. Also stone travel
+means you don't get into combat when your acting, which makes
+life easier! =)
+
+The rack + eternal vigilance wins the endgame every time!
+
+Crypt (12 cards, min=22, max=35, avg=7)
+---------------------------------------
+3x Marconius		9   DOM MYT OBT pot	 archbishop	Kiasyd:2
+3x Julia Prima		7   DOM OBT aus myt	 		Kiasyd:2
+3x Kassiym Malikhair	6   MYT OBT dom for	 		Kiasyd:2
+2x Béatrice L'Angou	5   MYT aus dom nec	 		Kiasyd:2
+1x Bartholomew		8   AUS MYT NEC dom obt	 		Kiasyd:2
+
+Library (90 cards)
+Master (17)
+3x Anarch Troublemaker
+2x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Gambit Accepted
+1x Giant's Blood
+1x KRCG News Radio
+3x Minion Tap
+1x Pentex(TM) Subversion
+2x Powerbase: Montreal
+1x Rack, The
+
+Action (18)
+1x Daemonic Possession
+4x Eternal Vigilance
+1x Far Mastery
+10x Govern the Unaligned
+2x Graverobbing
+
+Equipment (3)
+2x IR Goggles
+1x Sport Bike
+
+Political Action (1)
+1x Cardinal Benediction
+
+Action Modifier (6)
+1x Foreshadowing Destruction
+5x Stone Travel
+
+Action Modifier/Reaction (9)
+9x Aura Absorption
+
+Reaction (12)
+4x Eyes of the Night
+8x Forced Awakening
+
+Combat (24)
+4x Arms of the Abyss
+1x Darkling Trickery
+3x Darkness Within
+7x Earth Swords
+4x High Ground
+5x Taste of Vitae

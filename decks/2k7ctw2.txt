@@ -1,0 +1,77 @@
+Cracking The Wall 2 - SW Regional Qualifier
+Berkeley, California
+April 28th 2007
+16 players
+Robert Hetherington
+
+Deck Name: Rachel's Patterns
+
+Description: No official description from Robert, but I
+did overhear the following converation:
+Observer: You have a *Rebel* in there? You should replace
+it with a Perfectionist.
+Robert H: But I like Rebel. I block titled vampires and
+political actions all the time!
+
+Crypt (12 cards, min=19, max=40, avg=7.58)
+------------------------------------------
+5x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	   Malkavian:3
+2x Dolphin Black	6   AUS DEM OBF		 	   Malkavian antitribu:2
+2x Victoria		5   AUS cel obf		 	   Malkavian:2
+1x Maris Streck		9   AUS OBF ani dem dom	 justicar  Malkavian:3
+1x Korah		7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
+1x Zöe			3   AUS cel obf		 	   Malkavian:2
+
+Library (90 cards)
+Master (15; 1 trifle)
+1x Asylum Hunting Ground
+4x Blood Doll
+2x Direct Intervention
+1x Elder Library
+1x Erciyes Fragments, The
+1x Giant's Blood
+2x Madness Network
+1x Rack, The
+1x Rebel
+1x Secure Haven
+
+Action (15)
+2x Anima Gathering
+3x Call, The
+4x Entrenching
+3x Kindred Spirits
+1x Pulse of the Canaille
+2x Revelations
+
+Equipment (1)
+1x Palatial Estate
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (15)
+3x Confusion
+3x Elder Impersonation
+3x Eyes of Chaos
+1x Faceless Night
+2x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Random Patterns
+
+Reaction (22)
+3x Eagle's Sight
+10x Second Tradition: Domain
+2x Telepathic Counter
+6x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (15)
+1x Claws of the Dead
+1x Disengage
+10x Earth Meld
+3x Form of Mist

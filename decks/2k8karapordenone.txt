@@ -1,0 +1,78 @@
+Karavalanisha Vrana
+Pordenone, Italy
+May 11th 2008
+2R+F
+20 players
+Paolo Pasqualin
+
+-- 3VP in final
+
+Deck Name: Iridella
+
+Description: "old school" Ventrue politics deck
+
+Crypt (13 cards, min=15, max=40, avg=7.23)
+------------------------------------------
+2x Democritus			   10  DOM PRE aus cel for	justicar	Ventrue:1
+2x Emerson Bridges		   8   DOM FOR PRE pot		prince		Ventrue:1
+2x Sir Walter Nash		   7   DOM FOR PRE		prince		Ventrue:1
+2x Gideon Fontaine		   3   PRE					Ventrue:1
+1x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Natasha Volfchek		   9   FOR PRE cel dom pot	primogen	Ventrue:1
+1x Wilhelm Waldburg		   9   DOM FOR PRE aus cel	prince		Ventrue:2
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
+1x Violette Prentiss		   4   PRE dom					Ventrue:1
+
+Library (90 cards)
+Master (17; 2 trifle)
+2x Blood Doll
+2x Creepshow Casino
+1x Direct Intervention
+1x Dominate
+1x Elder Library
+1x Fortitude
+2x Information Highway
+2x Minion Tap
+1x Not to Be
+1x Sudden Reversal
+1x Ventrue Headquarters
+2x Vessel
+
+Action (5)
+3x Govern the Unaligned
+2x Slaughtering the Herd
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Gran Madre di Dio, Italy
+
+Political Action (20)
+2x Ancilla Empowerment
+2x Banishment
+2x Consanguineous Boon
+1x Disputed Territory
+8x Kine Resources Contested
+3x Parity Shift
+1x Praxis Seizure: Cairo
+1x Reinforcements
+
+Action Modifier (21)
+2x Command
+6x Freak Drive
+3x Kiss of Ra, The
+5x Seduction
+5x Voter Captivation
+
+Reaction (12)
+5x Deflection
+2x Fillip
+2x Forced Awakening
+2x On the Qui Vive
+1x Redirection
+
+Combat (13)
+9x Majesty
+3x Skin of Steel
+1x Toreador's Bane

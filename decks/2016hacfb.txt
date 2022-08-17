@@ -1,0 +1,72 @@
+Homenagem ao Cariri
+Fortaleza, Brazil
+March 27th 2016
+2R+F
+10 players
+Mailton Silva
+https://www.vekn.net/event-calendar/event/8318
+
+-- 5VP in final
+
+Deck Name: Paralizador
+
+Crypt (12 cards, min=15, max=20, avg=4.42)
+------------------------------------------
+3x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Marion "Teacher193" Perks	4   jud red	 Redeemer:4
+1x François "Warden" Loehr	3   def jud	 Judge:4
+
+Library (89 cards)
+Master (14; 5 trifle)
+2x Angel of Berlin
+1x Archon Investigation
+1x Church of Vindicated Faith, The
+1x Dummy Corporation
+1x Failsafe
+1x Fortschritt Library
+1x Not to Be
+1x Pentex(TM) Subversion
+1x Rose Foundation, The
+1x Wash
+3x Wider View
+
+Conviction (18)
+4x React with Conviction
+7x Second Sight
+7x Strike with Conviction
+
+Ally (4)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (20)
+1x Crusader Sword, The
+10x Flash Grenade
+1x Ivory Bow
+2x Leather Jacket
+1x Orb of Ulain
+1x Rowan Ring
+4x Wooden Stake
+
+Power (10)
+3x Discern
+3x Rejuvenate
+4x Vigilance
+
+Reaction (4)
+1x Determine
+3x Poison Pill
+
+Combat (16)
+16x Concealed Weapon
+
+Event (3)
+1x Dr. Marisa Fletcher, CDC
+1x Slow Withering, The
+1x Unmasking, The

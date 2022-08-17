@@ -1,0 +1,64 @@
+St Patrick's Day Massacre
+Newark, Ohio
+March 18th 2011
+2R+F
+12 players
+David Baker
+
+Deck Name: my mind is numb
+
+Description: inspired by Jay's "Frederick is not weak" deck that he won with in 2001
+
+Crypt (12 cards, min=6, max=16, avg=2.75)
+-----------------------------------------
+1x Jazz Wentworth			5   PRE dom for	 Ventrue:1
+1x Mariana Gilbert			4   PRE cel	 Toreador:1
+1x Violette Prentiss			4   PRE dom	 Ventrue:1
+1x Gideon Fontaine			3   PRE		 Ventrue:1
+1x Itzahk Levine			3   cel pre	 Ventrue:2
+1x Lena Rowe				3   aus obf pre	 Pander:2
+1x Roland Loussarian			3   for pre	 Ventrue:1
+1x Delilah Easton			2   pre		 Toreador:1
+1x Frederick the Weak			2   pre		 Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez	2   pre		 Brujah:2
+1x Angela Decker			1   pre		 Pander:2
+1x Igo the Hungry			1   pre pro	 Caitiff:1
+
+Library (90 cards)
+Master (15; 1 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+1x Dark Influences
+1x Dreams of the Sphinx
+2x Effective Management
+2x Information Highway
+1x Pentex(TM) Subversion
+4x Presence
+1x Sudden Reversal
+
+Action (38)
+1x Arson
+4x Enchant Kindred
+1x Entrancement
+6x Media Influence
+10x Mind Numb
+2x Propaganda
+14x Social Charm
+
+Ally (1)
+1x Carlton Van Wyk
+
+Action Modifier (11)
+8x Aire of Elation
+3x Change of Target
+
+Reaction (4)
+2x Delaying Tactics
+2x Wake with Evening's Freshness
+
+Combat (20)
+14x Catatonic Fear
+6x Staredown
+
+Event (1)
+1x Narrow Minds

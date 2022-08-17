@@ -1,0 +1,74 @@
+July Bell
+Comic Shop Plus, Newark, Ohio
+July 22nd 2011
+2R+F
+11 players
+Jay Kristoff
+
+Deck Name: Worst to First
+
+Description: I heard some talk at Origins 2011 that the Gangrel-antitribu
+are the worst clan. I built this deck to display some of their strengths.
+
+Crypt (12 cards, min=8, max=25, avg=3.58)
+-----------------------------------------
+2x Bill Butler	    3	pot pro			 Gangrel antitribu:4
+2x Lula Burch	    3	for pro			 Gangrel antitribu:4
+2x Denette Stensen  2	obf			 Gangrel antitribu:4
+2x Jesús Alcalá	    2	cel			 Gangrel antitribu:3
+2x Leo Washington   2	cel pro			 Gangrel antitribu:4
+1x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+1x Nostoket	    8	ANI DEM PRO for obt	 Gangrel antitribu:4
+
+Library (60 cards)
+Master (29; 2 trifle)
+1x Archon Investigation
+1x Bay and Howl
+8x Blood Doll
+1x Campground Hunting Ground
+1x Communal Haven: Temple
+3x Effective Management
+1x Fame
+1x Haven Uncovered
+1x Hungry Coyote, The
+1x KRCG News Radio
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Police Department
+1x Sunset Strip, Hollywood
+1x Therbold Realty
+1x Twisted Forest
+2x Wider View
+1x WMRH Talk Radio
+
+Action (10)
+1x Aranthebes, The Immortal
+1x Arson
+8x Embrace, The
+
+Ally (2)
+1x Alia, God's Messenger
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Palatial Estate
+
+Political Action (1)
+1x Rumors of Gehenna
+
+Action Modifier (1)
+1x Change of Target
+
+Reaction (2)
+1x Delaying Tactics
+1x On the Qui Vive
+
+Combat (11)
+6x Leathery Hide
+1x Pulled Fangs
+4x Target Vitals
+
+Event (3)
+1x Anthelios, The Red Star
+1x Blood Weakens
+1x Slow Withering, The

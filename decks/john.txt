@@ -1,0 +1,54 @@
+Tournament
+Portsmouth, England
+November 14th 1998
+17 players
+John Cooper
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/KvlduCXKobA
+
+Also, John Cooper provided me with a list of his winning deck for the November
+tournament. I'm sorry to say it is called Brujah-protean wank-fest. Crude lot,
+these scummers [affectionate pompey slang for people from southampton].
+
+Crypt (12 cards, min=22, max=38, avg=7.67)
+------------------------------------------
+3x Don Cruez, The Idealist		10  CEL POT PRE ani dom pro	justicar  Brujah:1
+3x Dónal O'Connor			8   CEL DOM POT			prince	  Brujah:2
+2x Constanza Vinti			8   CEL DOM POT			prince	  Brujah:2
+1x Beast, The Leatherface of Detroit	7   OBF POT ani cel			  Nosferatu antitribu:2
+1x Anvil				6   CEL POT dom pre tha		primogen  Brujah:1
+1x Volker, The Puppet Prince		5   CEL pot			prince	  Brujah:2
+1x Jimmy Dunn				4   CEL POT for				  Pander:2
+
+Library (90 cards)
+Master (12)
+1x Carthage Remembered
+1x Golconda: Inner Peace
+5x Minion Tap
+5x Protean
+
+Action (11)
+3x Bum's Rush
+5x Fifth Tradition: Hospitality
+3x Govern the Unaligned
+
+Action Modifier (6)
+4x Conditioning
+2x Earth Control
+
+Reaction (11)
+3x Deflection
+8x Second Tradition: Domain
+
+Combat (50)
+3x Acrobatics
+2x Blur
+8x Bone Spur
+2x Decapitate
+2x Flash
+4x Flesh of Marble
+2x Immortal Grapple
+5x Pursuit
+4x Side Strike
+6x Sideslip
+2x Thrown Gate
+10x Undead Strength

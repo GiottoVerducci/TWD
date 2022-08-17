@@ -1,0 +1,75 @@
+South Australia NCQ
+British Hotel, North Adelaide, Australia
+April 3rd 2010
+3R+F
+14 players
+Ivor Blockley
+
+-- 4VP in final
+
+Deck Name: Achieving Parity
+
+Crypt (12 cards, min=32, max=44, avg=9.5)
+-----------------------------------------
+4x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Marcellus	   8   AUS CEL pro		prince		Toreador:2
+
+Library (85 cards)
+Master (32; 6 trifle)
+6x Aching Beauty
+1x Art Museum
+6x Ashur Tablets
+1x Dreams of the Sphinx
+1x Elder Library
+1x Elysium: The Palace of Versailles
+2x Information Highway
+1x Jake Washington
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+3x Toreador Grand Ball
+6x Villein
+
+Action (2)
+2x Entrancement
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (13)
+1x Banishment
+5x Kine Resources Contested
+6x Parity Shift
+1x Reins of Power
+
+Action Modifier (15)
+1x Aire of Elation
+1x Awe
+3x Bewitching Oration
+5x Change of Target
+5x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (12)
+5x Deflection
+1x Eyes of Argus
+1x My Enemy's Enemy
+3x On the Qui Vive
+1x Second Tradition: Domain
+1x Telepathic Misdirection
+
+Combat (6)
+5x Majesty
+1x Scourge of Alecto
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,69 @@
+Liga_"NOVA ERA"_Brasil_SP - Yin Yang
+São Paulo, Brazil
+March 26th 2017
+2R+F
+10 players
+Dudu Correard
+https://www.vekn.net/event-calendar/event/8627
+
+-- 3VP in final
+
+Deck Name: Wall Jack (Tzimisce)
+
+Crypt (13 cards, min=15, max=26, avg=5.15)
+------------------------------------------
+2x Caliban		6   ANI AUS VIC			 Tzimisce:2
+2x Corine Marcón	6   AUS VIC ani			 Tzimisce:2
+2x Devin Bisley		5   ANI AUS vic			 Tzimisce:2
+1x Meshenka		8   ANI AUS VIC		priscus	 Tzimisce:2
+1x Ana Rita Montaña	5   VIC aus dom obf		 Tzimisce:3
+1x Elizabeth Westcott	5   AUS ani cel vic		 Tzimisce:3
+1x Rose, The		5   PRE VIC aus			 Tzimisce:3
+1x Lolita Houston	4   VIC aus			 Tzimisce:2
+1x Terrence		4   ani aus vic			 Tzimisce:2
+1x Horatio		2   vic				 Tzimisce:2
+
+Library (90 cards)
+Master (30; 6 trifle)
+1x Direct Intervention
+1x Fame
+1x Giant's Blood
+1x Guardian Angel
+1x Library Hunting Ground
+2x Millicent Smith, Puritan Vampire Hunter
+1x Parthenon, The
+1x Path of Lilith, The
+1x Path of Metamorphosis, The
+1x Pentex(TM) Subversion
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+4x Rötschreck
+5x Smiling Jack, The Anarch
+1x Tension in the Ranks
+3x Vessel
+2x Villein
+1x Wash
+
+Action (3)
+3x Army of Rats
+
+Equipment (3)
+1x Bowl of Convergence
+1x Ivory Bow
+1x Palatial Estate
+
+Reaction (35)
+4x Cats' Guidance
+3x Eagle's Sight
+5x Enhanced Senses
+8x Eyes of Argus
+3x Forced Awakening
+3x On the Qui Vive
+4x Precognition
+5x Telepathic Misdirection
+
+Combat (19)
+5x Breath of the Dragon
+6x Chiropteran Marauder
+8x Meld with the Land

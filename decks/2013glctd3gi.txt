@@ -1,0 +1,59 @@
+Last Chance Tour - Day 3
+Genoa, Italy
+September 14th 2013
+2R+F
+10 players
+Marcello Bertocchi
+
+-- 3VP in final
+
+Crypt (12 cards, min=4, max=15, avg=2.33)
+-----------------------------------------
+3x Anarch Convert		  1   -none-	   Caitiff:ANY
+1x Miriam Benyona		  5   AUS for obe  Salubri:2
+1x Idalia, Prophet of Guadalajara 4   AUS dem	   Malkavian antitribu:2
+1x Isabel de Leon		  3   AUS	   Toreador:2
+1x Martin Franckel		  3   AUS tha	   Tremere:3
+1x Zöe				  3   AUS cel obf  Malkavian:2
+1x Almiro Suarez		  2   aus	   Tremere:3
+1x Nicholas Chang		  2   aus	   Toreador antitribu:3
+1x Piotr Andreikov		  2   aus	   Tzimisce:3
+1x Franciscus			  1   aus	   Caitiff:2
+
+Library (90 cards)
+Master (24; 7 trifle)
+8x Anarch Revolt
+1x Direct Intervention
+1x Millicent Smith, Puritan Vampire Hunter
+4x Parthenon, The
+3x Smiling Jack, The Anarch
+5x Vessel
+2x Wash
+
+Action (2)
+2x Constant Revolution
+
+Ally (5)
+5x Procurer
+
+Equipment (4)
+1x Ivory Bow
+3x Sniper Rifle
+
+Political Action (1)
+1x Rumors of Gehenna
+
+Reaction (53)
+4x Delaying Tactics
+12x Eagle's Sight
+4x Enhanced Senses
+4x Fillip
+4x Forced Awakening
+5x My Enemy's Enemy
+4x On the Qui Vive
+4x Precognition
+4x Spirit's Touch
+8x Telepathic Misdirection
+
+Event (1)
+1x Anthelios, The Red Star

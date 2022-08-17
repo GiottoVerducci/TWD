@@ -1,0 +1,70 @@
+Biothaumaturgic Experiment
+Florence, Italy
+February 10th 2008
+2R+F
+24 players
+Mirko Anconitani
+
+Winng Deck Name: Horrid Pact
+Description: very nasty deck with Nephandi, events and Imbued.
+
+Crypt (16 cards, min=15, max=20, avg=4.69)
+------------------------------------------
+4x Antonio d'Erlette		5   THA dom for pot	Tremere antitribu:4
+4x Jennie "Cassie247" Orne	5   inn jud viz		Visionary:4
+4x Travis "Traveler72" Miller	5   def mar		Martyr:4
+2x Jennifer "Flame61" Vidisania	4   ven viz		Avenger:4
+1x Leaf "Potter116" Pankowski	4   inn red viz		Redeemer:4
+1x Inez "Nurse216" Villagrande	3   inn			Innocent:4
+
+Library (90 cards)
+Master (22)
+1x Anarch Troublemaker
+2x Angel of Berlin
+1x Church of Vindicated Faith, The
+2x Direct Intervention
+1x Fortschritt Library
+4x Haven Uncovered
+3x Information Highway
+4x Parthenon, The
+1x Pentex(TM) Subversion
+1x Rose Foundation, The
+2x Unity
+
+Conviction (14)
+4x React with Conviction
+5x Second Sight
+5x Strike with Conviction
+
+Action (5)
+1x Aranthebes, The Immortal
+4x Bum's Rush
+
+Ally (8)
+8x Nephandus
+
+Equipment (8)
+1x Ivory Bow
+7x Saturday-Night Special
+
+Power (4)
+1x Discern
+1x Inspire
+1x Project
+1x Vigilance
+
+Reaction (7)
+2x Deflection
+5x Determine
+
+Combat (14)
+7x Concealed Weapon
+7x Dragon's Breath Rounds
+
+Event (8)
+3x Anthelios, The Red Star
+1x Blood Weakens
+1x Recalled to the Founder
+1x Slow Withering, The
+1x Unmasking, The
+1x Veil of Darkness

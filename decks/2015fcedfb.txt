@@ -1,0 +1,66 @@
+1º Campeonato extra de 2015
+Fortaleza, Brazil
+January 24th 2015
+3R+F
+11 players
+Mailton Silva
+https://www.vekn.net/event-calendar/event/7947
+
+-- 5VP in final
+
+Deck Name: KOKO I HATE YOU!!!
+
+Crypt (12 cards, min=12, max=27, avg=4.92)
+------------------------------------------
+3x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+2x Nikolaus Vermeulen		7   POT ani for obf	prince	Nosferatu:2
+2x Calebros, The Martyr		5   ANI obf pot		prince	Nosferatu:2
+1x Murat			7   OBF POT ser		prince	Nosferatu:2
+1x Rake				6   PRE aus cel pot	prince	Brujah:1
+1x Duck				3   obf pot			Nosferatu:1
+1x KoKo				2   pot				Nosferatu:1
+1x Lupo				2   pot				Brujah:1
+
+Library (90 cards)
+Master (17; 3 trifle)
+2x Archon Investigation
+1x Fame
+1x Giant's Blood
+3x Haven Uncovered
+1x Labyrinth, The
+1x Papillon
+1x Pentex(TM) Subversion
+2x Potence
+1x Powerbase: Montreal
+1x Storm Sewers
+3x Vessel
+
+Action (10)
+2x Blood Hunt
+6x Bum's Rush
+2x Fourth Tradition: The Accounting
+
+Political Action (14)
+2x Anathema
+1x Disputed Territory
+1x Justicar Retribution
+4x Kine Resources Contested
+1x Neonate Breach
+3x Parity Shift
+1x Praxis Seizure: Cleveland
+1x Praxis Seizure: Rome
+
+Reaction (11)
+11x Second Tradition: Domain
+
+Combat (37)
+4x Disarm
+2x Earthshock
+10x Immortal Grapple
+3x Slam
+4x Target Vitals
+5x Taste of Vitae
+9x Torn Signpost
+
+Event (1)
+1x Narrow Minds

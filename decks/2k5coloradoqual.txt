@@ -1,0 +1,112 @@
+North Central Region Qualifier
+Wheat Ridge, Colorado
+March 19th 2005
+3R+F
+13 players
+Bill Troxel
+
+The idea is to appear non-threatening, shut down power-setup decks
+early, have staying power, and slowly build for the swarm bleed.
+The non-threatening part is fairly easy to see; the deck has no
+power combos nor dangerous-looking vampires whatsoever, and all of
+the anarch revolts have been phased out.
+
+The absence of oft-repeating cards becomes apparent to seasoned
+opponents fairly quickly, allowing for surprise while at the same
+time appearing non-relentless and thus not scary. Shutting down
+cheesy power-setups is something in which I take great delight,
+especially in tournaments, and nothing is better for that than
+to bring out a first-turn vamp with intercept and combat capability.
+This aspect of the deck was particularly useful in this tournament,
+allowing me to stop Adam from getting his allies out (in a deck that's
+frightfully powerful when it gets going,) and keeping me from getting
+rolled over by a presence-weenie bleed deck, which, I've heard, had
+dealt 14 pool damage in a previous round before its prey ever got
+out a vamp.
+
+As for staying power, most of the vampires are small enough that the
+deck's pool gain can almost keep pace with the cost of its minions
+past the first few -- plus, it's an intercept deck, with blockers to
+spare. What gives the deck its teeth (other than swarm potential) is
+that in combat, the auspex weenies almost always deal a little more
+damage than is expected. Weighted walking sticks, lucky blows and pulled
+fangs may seem newbie-ish, but how often do you anticipate Franciscus
+to deal four damage in a single round? That surprise factor is what
+motivated this version of the deck, along with a cost-benefit theory:
+if your vampires are dealing out more damage than their capacity,
+you're probably winning.
+
+Crypt (12 cards, min=8, max=21, avg=3.42)
+-----------------------------------------
+1x Bartholomew			8   AUS MYT NEC dom obt	 Kiasyd:2
+1x Victoria			5   AUS cel obf		 Malkavian:2
+1x Dorian Strack		4   AUS cel		 Toreador:1
+1x Remilliard, Devout Crusader	4   AUS pre		 Toreador antitribu:2
+1x Dan Murdock			3   aus obf		 Caitiff:1
+1x Dollface			3   aus obf		 Malkavian:1
+1x Isabel de Leon		3   AUS			 Toreador:2
+1x Lena Rowe			3   aus obf pre		 Pander:2
+1x Zöe				3   AUS cel obf		 Malkavian:2
+1x Brazil			2   aus			 Malkavian:1
+1x Dieter Kleist		2   aus			 Toreador:1
+1x Franciscus			1   aus			 Caitiff:2
+
+Library (90 cards)
+Master (15)
+5x Blood Doll
+2x Direct Intervention
+2x Emergency Preparations
+2x Information Highway
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+
+Action (4)
+1x Aranthebes, The Immortal
+1x Computer Hacking
+1x Pulse of the Canaille
+1x Revelations
+
+Ally (2)
+1x Muddled Vampire Hunter
+1x Neighborhood Watch Commander
+
+Equipment (9)
+2x .44 Magnum
+1x Ivory Bow
+1x Laptop Computer
+2x Leather Jacket
+1x Meat Hook
+2x Saturday-Night Special
+
+Political Action (1)
+1x Kine Resources Contested
+
+Action Modifier (7)
+5x Change of Target
+1x Forgotten Labyrinth
+1x Lost in Crowds
+
+Reaction (22)
+2x Eagle's Sight
+2x Enhanced Senses
+3x Fast Reaction
+3x Forced Awakening
+2x My Enemy's Enemy
+2x Precognition
+2x Spirit's Touch
+2x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (30)
+2x Aura Reading
+1x Blur
+3x Concealed Weapon
+4x Dodge
+2x Dragon's Breath Rounds
+4x Fake Out
+6x Lucky Blow
+2x Pulled Fangs
+2x Taste of Vitae
+4x Weighted Walking Stick

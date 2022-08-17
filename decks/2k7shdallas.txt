@@ -1,0 +1,70 @@
+Shambling Hordes MQ
+Market Research Dallas, Dallas, Texas
+July 28th 2007
+12 players
+Ethan Burrow
+
+Deck Name: Unexpected FTW
+
+Brujah Antitribu Bruise Breed/Boon
+
+Crypt (12 cards, min=15, max=39, avg=6.67)
+------------------------------------------
+3x Armin Brenner	10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+1x Hektor		9   CEL POT PRE QUI for		priscus	    Brujah antitribu:4
+1x Marcel de Breau	9   CEL POT PRE ani pro		archbishop  Brujah antitribu:3
+1x Urraca		7   ANI CEL POT pre		bishop	    Brujah antitribu:4
+1x Axel Von Anders	5   PRE cel obf pot			    Brujah antitribu:4
+1x Wah Chun-Yuen	5   POT cel dom pre			    Brujah antitribu:3
+1x Alessandro Garcia	4   pot pre pro				    Brujah antitribu:4
+1x Mariano Pomposo	4   aus cel pot				    Brujah antitribu:3
+1x Patrick		4   POT pre				    Brujah antitribu:4
+1x Smash		3   pot pre				    Brujah antitribu:4
+
+Library (90 cards)
+Master (18)
+1x Amusement Park Hunting Ground
+1x Black Forest Base
+5x Blood Doll
+1x Direct Intervention
+1x Dummy Corporation
+4x Effective Management
+1x Gang Territory
+2x Information Highway
+1x Waste Management Operation
+1x Yawp Court
+
+Action (6)
+1x Aranthebes, The Immortal
+5x Embrace, The
+
+Equipment (1)
+1x Leather Jacket
+
+Political Action (17)
+7x Consanguineous Boon
+1x Crusade: Rome
+2x Disputed Territory
+1x Dogs of War
+6x Kine Resources Contested
+
+Action Modifier (9)
+2x Bribes
+3x Iron Glare
+4x Voter Captivation
+
+Action Modifier/Reaction (8)
+2x Scalpel Tongue
+6x Unexpected Coalition
+
+Reaction (2)
+2x On the Qui Vive
+
+Combat (29)
+2x Acrobatics
+4x Flash
+9x Immortal Grapple
+1x Nimble Feet
+4x Pursuit
+5x Torn Signpost
+4x Undead Strength

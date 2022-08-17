@@ -1,0 +1,80 @@
+Rat's Warning
+Online
+July 11th 2021
+2R+F
+20 players
+Bruno Patrício Silva Pontes
+https://www.vekn.net/event-calendar/event/9813
+
+-- 1gw, 3 VPs in the finals
+
+deck name: magajis loves to MMPA.
+Crypt (13 cards, min=19, max=41, avg=7.92)
+------------------------------------------
+3x Cybele		 10  ANI DAI OBF PRE SER THA		Baali:4
+3x Nana Buruku		 8   ANI POT PRE			Guruhi:4
+1x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus	magaji	Guruhi:3
+1x Ugadja		 10  ABO ANI POT PRE dom for	magaji	Guruhi:4
+1x Umdava		 9   ABO ANI FOR PRE vic	magaji	Akunanse:4
+1x Sobayifa		 8   ANI PRE aus pot pro spi	magaji	Guruhi:3
+1x Uchenna		 7   ABO ANI FOR		magaji	Akunanse:4
+1x Stick		 3   ANI				Nosferatu antitribu:4
+1x Anarch Convert	 1   -none-				Caitiff:ANY
+
+Library (90 cards)
+Master (30; 6 trifle)
+1x Archon Investigation
+12x Ashur Tablets
+1x Fame
+1x Mbare Market, Harare
+1x Palace Hunting Ground
+2x Parthenon, The
+1x Powerbase: Luanda
+1x Powerbase: Montreal
+1x Rack, The
+2x Slave Auction
+1x Smiling Jack, The Anarch
+1x Vessel
+4x Villein
+1x Wider View
+
+Action (14)
+1x Army of Rats
+1x Call the Great Beast
+1x Contagion
+4x Deep Song
+5x No Secrets From the Magaji
+2x Well-Marked
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (6)
+1x Book of Going Forth by Night, The
+3x Heart of Nizchetus
+1x Ivory Bow
+1x Sengir Dagger
+
+Political Action (1)
+1x Rumors of Gehenna
+
+Retainer (6)
+1x Mr. Winthrop
+5x Raven Spy
+
+Action Modifier/Reaction (1)
+1x Guruhi Kholo
+
+Reaction (7)
+1x Lost in Translation
+6x Sense the Savage Way
+
+Combat (23)
+7x Aid from Bats
+1x Canine Horde
+7x Carrion Crows
+5x Taste of Vitae
+3x Terror Frenzy
+
+Event (1)
+1x Scourge of the Enochians

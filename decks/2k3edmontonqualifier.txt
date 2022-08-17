@@ -1,0 +1,62 @@
+Western Canada NAC Qualifier Tournament
+Edmonton, Alberta
+May 24th 2003
+16 players
+Kevin J. Wiebe
+
+Deck Name: Anarch Revolt (Mixed Clans)
+
+Description: This Anarch Revolt deck is extremely nasty and
+aggressive. The key to its success is to get The Parthenon, Anson,
+and Rumors of Gehenna into play as soon as possible. With them in
+play, you will have 3 master phase actions and be able to quickly use
+the many master cards that are in this deck. This deck will make all
+players lose pool every turn. And with the many Dominate bleed cards,
+along with Misdirection, Seduction, and The Sleeping Mind, you will be
+able to bleed your prey and ensure that he or she is the first player
+to be ousted.
+
+Crypt (12 cards, min=7, max=29, avg=4.25)
+-----------------------------------------
+3x Anson			   8   CEL PRE aus dom	prince	Toreador:1
+1x Kurt Strauss			   5   DOM aus tha		Tremere antitribu:2
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		Ventrue:2
+1x Gloria Giovanni		   4   DOM nec			Giovanni:2
+1x Ingrid Russo			   4   DOM for			Ventrue antitribu:2
+1x Christine Boscacci		   2   dom vic			Pander:2
+1x Mustafa Rahman		   2   dom			Tremere:2
+1x Ohanna			   2   dom			Malkavian:2
+1x Samson			   2   dom			Ventrue antitribu:2
+1x Royce			   1   dom			Pander:2
+
+Library (90 cards)
+Master (39)
+12x Anarch Revolt
+3x Antediluvian Awakening
+3x Blood Doll
+1x Direct Intervention
+3x Dominate
+3x Minion Tap
+3x Misdirection
+6x Parthenon, The
+5x Sudden Reversal
+
+Action (9)
+9x Govern the Unaligned
+
+Political Action (3)
+3x Rumors of Gehenna
+
+Action Modifier (18)
+3x Command of the Beast
+3x Conditioning
+3x Foreshadowing Destruction
+6x Seduction
+3x Sleeping Mind, The
+
+Reaction (15)
+9x Deflection
+6x Wake with Evening's Freshness
+
+Combat (6)
+6x Absorb the Mind

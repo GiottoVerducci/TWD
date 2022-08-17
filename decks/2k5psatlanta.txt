@@ -1,0 +1,58 @@
+Praxis Seizure: Atlanta
+Atlanta, Georgia
+December 10th 2005
+2R+F
+14 players
+Jeffrey Thompson
+
+Deck Name: Tzimisce Vote
+
+Description: Velya the Flayer leads the Tzimisce into the fray with
+political actions doing the lions share of the work in ousting your prey.
+
+Crypt (12 cards, min=26, max=38, avg=8.17)
+------------------------------------------
+2x Lambach			    10	ANI AUS DOM VIC pre	cardinal    Tzimisce:2
+2x Stravinsky			    9	ANI AUS VIC pot		archbishop  Tzimisce:2
+2x Velya, The Flayer		    9	ANI AUS PRE VIC for	cardinal    Tzimisce:3
+2x Meshenka			    8	ANI AUS VIC		priscus	    Tzimisce:2
+2x Sascha Vykos, The Angel of Caine 8	AUS THA VIC ani dom	priscus	    Tzimisce:2
+1x Devin Bisley			    5	ANI AUS vic			    Tzimisce:2
+1x Elizabeth Westcott		    5	AUS ani cel vic			    Tzimisce:3
+
+Library (90 cards)
+Master (12)
+3x Information Highway
+2x Library Hunting Ground
+6x Minion Tap
+1x Retribution
+
+Ally (2)
+1x Gregory Winter
+1x Mylan Horseed
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+2x Consanguineous Boon
+1x Disputed Territory
+8x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+1x Year of Fortune
+
+Action Modifier (17)
+6x Bribes
+3x Private Audience
+5x Telepathic Vote Counting
+3x Voter Captivation
+
+Reaction (25)
+6x Telepathic Counter
+9x Telepathic Misdirection
+10x Wake with Evening's Freshness
+
+Combat (18)
+8x Aid from Bats
+8x Carrion Crows
+2x Chiropteran Marauder

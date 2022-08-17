@@ -1,0 +1,81 @@
+Fade From View: Boston
+Waltham, Massachusetts
+May 26th 2002
+12 players
+Ben Swainbank
+
+Deck: Monster's Ball
+
+I've had a very good record with this deck in casual games, and now in a
+tournament. Its fairly straightforward, but a good bit of R&D went into
+testing and tuning it. Intercept combat. A nice layered defense of solid
+intercept (with an option to KO), light bounce, and Greta, mostly keeps
+you out of trouble.
+
+The Palla Grandes, with maybe help from Fame, give you a kicker to swoop
+in on your prey, and oust (maybe with Aire as the closer). The deck has
+enough juice to do this twice, but kind of runs out of ousting power after
+that. But, typically, its just enough to win the table.
+
+I started thinking about this deck after having my sneaky decks shut down
+by intercept monsters in a few tournaments. Kind of -- If you can't beat
+them, join them. Then give them a beating.
+
+Crypt (12 cards, min=13, max=30, avg=5.5)
+-----------------------------------------
+2x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	Toreador antitribu:2
+2x Greta Kircher			 7   AUS CEL PRE obf		Toreador antitribu:2
+1x Parnassus				 7   CEL QUI aus tha		Assamite:2
+1x Ian Wallingford			 6   CEL PRE aus	bishop	Toreador antitribu:2
+1x Felicia Mostrom			 5   AUS CEL pre		Toreador:1
+1x Victor Revell, Loyalist		 5   CEL aus dem pre		Toreador antitribu:2
+1x Parmenides				 4   CEL qui			Assamite:2
+1x Remilliard, Devout Crusader		 4   AUS pre			Toreador antitribu:2
+1x Zöe					 3   AUS cel obf		Malkavian:2
+1x Carter				 2   cel			Toreador antitribu:2
+
+Library (90 cards)
+Master (16)
+1x Art of Pain, The
+2x Auspex
+3x Blood Doll
+1x Depravity
+1x Fame
+1x Fetish Club Hunting Ground
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Palla Grande
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+1x Society of Leopold
+
+Action (3)
+1x Art Scam
+2x Embrace, The
+
+Equipment (2)
+1x Ivory Bow
+1x Sniper Rifle
+
+Action Modifier (2)
+2x Aire of Elation
+
+Reaction (28)
+5x Eagle's Sight
+4x Enhanced Senses
+5x Forced Awakening
+2x My Enemy's Enemy
+2x Precognition
+3x Sins of the Cauchemar
+4x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (39)
+2x Aura Reading
+7x Blur
+6x Psyche!
+2x Pulled Fangs
+8x Pursuit
+2x Side Strike
+8x Sideslip
+4x Taste of Vitae

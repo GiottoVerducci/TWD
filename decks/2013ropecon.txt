@@ -1,0 +1,58 @@
+Finnish ECQ
+Ropecon, Espoo, Finland
+July 26th 2013
+3R+F
+72 players
+Toni Karjalainen
+
+-- 4VP in final
+
+Deck Name: Nakhthorheb
+
+Crypt (12 cards, min=16, max=40, avg=7.75)
+------------------------------------------
+5x Nakhthorheb	  10  OBF PRE SER			 Follower of Set:4
+2x Anarch Convert 1   -none-				 Caitiff:ANY
+1x Neferu	  9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
+1x Pentweret	  9   OBF PRE SER aus for obe		 Follower of Set:5
+1x Porphyrion	  9   CHI OBF PRE SER for		 Follower of Set:5
+1x Shemti	  9   OBF POT PRE SER vic	1 vote	 Follower of Set:5
+1x Abdelsobek	  5   for nec obf pre ser		 Follower of Set:5
+
+Library (70 cards)
+Master (16; 4 trifle)
+7x Eternals of Sirius, The
+2x Golconda: Inner Peace
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Secure Haven
+4x Villein
+
+Action (17)
+3x Enticement
+3x Entrancement
+7x Intimidation
+3x Revelation of Ecstasy
+1x Temptation
+
+Equipment (3)
+1x Learjet
+2x Mokolé Blood
+
+Action Modifier (24)
+2x Cloak the Gathering
+3x Elder Impersonation
+2x Enkil Cog
+3x Faceless Night
+4x Lost in Crowds
+3x Revelation of Desire
+3x Spying Mission
+4x Truth of a Thousand Lies
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (7)
+2x Delaying Tactics
+3x Eluding the Arms of Morpheus
+2x Mental Maze

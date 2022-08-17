@@ -1,0 +1,66 @@
+Hostile Takeover
+Atlanta, Georgia
+May 13th 2000
+David M. Dávila
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/9j2kCP3NfRE
+
+Deck Name: Night Moves, Spying Missions and Little Old Threats
+
+Description: This deck is Dominate based, using Night Moves
+to plant Spying Missions and then following up with stealthed
+Dominate bleeds. Dominate is good for bleed bounce as well.
+
+Crypt (12 cards, min=8, max=16, avg=3.17)
+-----------------------------------------
+1x Agrippina			    4	OBF pot		Nosferatu:1
+1x Gloria Giovanni		    4	DOM nec		Giovanni:2
+1x Ingrid Russo			    4	DOM for		Ventrue antitribu:2
+1x Laurent de Valois		    4	ani dom obf	Nosferatu:2
+1x Roland Bishop		    4	aus dom obf	Malkavian:1
+1x Tansu Bekir			    4	OBF cel		Assamite:2
+1x Duck				    3	obf pot		Nosferatu:1
+1x Panagos Levidis		    3	ani obf		Gangrel:2
+1x Regilio, The Seeker of Akhenaten 3	aus obf		Nosferatu:2
+1x Dimple			    2	obf		Nosferatu:1
+1x Normal			    2	obf		Malkavian:1
+1x Basil			    1	obf		Pander:2
+
+Library (90 cards)
+Master (19)
+1x Archon Investigation
+2x Direct Intervention
+2x Dominate
+1x Elysium: The Arboretum
+5x Obfuscate
+1x Parthenon, The
+2x Secret Library of Alexandria, The
+1x Sudden Reversal
+4x Tribute to the Master
+
+Action (21)
+4x Computer Hacking
+2x Kindred Intelligence
+15x Night Moves
+
+Equipment (3)
+2x Laptop Computer
+1x Leather Jacket
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (32)
+8x Cloak the Gathering
+3x Conditioning
+3x Lost in Crowds
+4x Marked Path
+9x Spying Mission
+5x Threats
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (10)
+6x Deflection
+4x Wake with Evening's Freshness

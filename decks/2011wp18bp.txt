@@ -1,0 +1,65 @@
+War Party #18
+Bydgoszcz, Poland
+June 2nd 2011
+2R+F
+12 players
+Arkadiusz Modzelewski
+
+Deck Name: Rachel Madness
+
+Classic Rachel Madness with some improvements:
+- cut to 80 and add heart of nizchetus (works great with
+Rachel's ability) for better card flow
+- Enkil cog/camera phone mix.
+
+Crypt (12 cards, min=14, max=40, avg=6.92)
+------------------------------------------
+5x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince	 Malkavian:3
+2x Greger Anderssen	7   AUS OBF dom pro	 prince	 Malkavian:2
+2x Victoria		5   AUS cel obf		 	 Malkavian:2
+2x Zöe			3   AUS cel obf		 	 Malkavian:2
+1x Watenda		3   obf			 	 Malkavian:2
+
+Library (80 cards)
+Master (15; 3 trifle)
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Madness Network
+2x Pentex(TM) Subversion
+2x Perfectionist
+1x Protean
+1x Rack, The
+3x Vessel
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (4)
+1x Bowl of Convergence
+1x Camera Phone
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (5)
+4x Homunculus
+1x Mr. Winthrop
+
+Action Modifier (13)
+2x Elder Impersonation
+1x Enkil Cog
+5x Faceless Night
+5x Lost in Crowds
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (18)
+4x Eyes of Argus
+2x My Enemy's Enemy
+8x Second Tradition: Domain
+4x Telepathic Misdirection
+
+Combat (20)
+16x Earth Meld
+4x Form of Mist

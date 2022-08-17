@@ -1,0 +1,63 @@
+MQ
+Las Vegas, Nevada
+February 20th 2010
+2R+F
+28 players
+Cameron Domer
+
+-- 4VP in final
+
+Deck Name: Pop Goes Banjoko
+
+Description: Derivative DOM/OBT stealth-bleed
+
+Crypt (12 cards, min=19, max=31, avg=6.42)
+------------------------------------------
+3x Gratiano			8   DOM OBT obf pot	priscus	 Lasombra:2
+2x Henri Lavenant		7   DOM OBT pot qui		 Lasombra:3
+2x Banjoko			5   DOM obt pot			 Lasombra:3
+1x Julia Prima			7   DOM OBT aus myt		 Kiasyd:2
+1x Tobias Smith			7   DOM OBT PRE pot		 Lasombra:3
+1x Aurora Van Brande, Paladin	6   OBT dom for pot		 Lasombra:2
+1x Guido Lucciano		5   OBT dom obf			 Lasombra:2
+1x Ignacio, The Black Priest	4   dom obt pot			 Lasombra:2
+
+Library (90 cards)
+Master (16; 5 trifle)
+1x Bleeding the Vine
+2x Blood Doll
+1x Elysian Fields
+2x Hungry Coyote, The
+1x Information Highway
+1x Path of Night, The
+2x Pentex(TM) Subversion
+1x Power Structure
+3x Vessel
+2x Wash
+
+Action (18)
+1x Dominate Kine
+17x Govern the Unaligned
+
+Equipment (1)
+1x Zaire River Ferry
+
+Action Modifier (38)
+3x Blanket of Night
+6x Command of the Beast
+9x Conditioning
+5x Foreshadowing Destruction
+3x Shadow Play
+5x Shroud of Absence
+2x Shroud of Night
+5x Tenebrous Form
+
+Reaction (10)
+5x Deflection
+5x Wake with Evening's Freshness
+
+Combat (7)
+2x Arms of the Abyss
+1x Oubliette
+3x Shadow Body
+1x Shadow Strike

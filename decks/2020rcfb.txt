@@ -1,0 +1,67 @@
+Revolutionary Council
+Fortaleza, Brazil
+March 8th 2020
+2R+F
+13 players
+Cicero Jannyson
+https://www.vekn.net/event-calendar/event/9600
+
+-- 1GW4.5 + 3VP in final
+
+Deck Name: True Bruja
+
+Description: My example
+
+Crypt (12 cards, min=4, max=40, avg=4.92)
+-----------------------------------------
+5x Shalmath	  10  POT PRE TEM  True Brujah:6
+2x Anarch Convert 1   -none-	   Caitiff:ANY
+1x Andre LeRoux	  3   aus	   Toreador:5
+1x Donald Cargill 1   aus	   Caitiff:5
+1x Freddy Gage	  1   pot	   Caitiff:5
+1x Iris Bennett	  1   pro	   Caitiff:5
+1x Walker Grimes  1   ani	   Caitiff:5
+
+Library (75 cards)
+Master (11; 4 trifle)
+1x Giant's Blood
+1x KRCG News Radio
+2x Perfectionist
+2x Rack, The
+1x Tabriz Assembly
+2x Vessel
+2x Wider View
+
+Action (13)
+1x Aranthebes, The Immortal
+1x Clotho's Gift
+2x Entrancement
+9x Summon History
+
+Ally (8)
+1x Carlton Van Wyk
+1x Harzomatuili
+1x High Top
+1x Mylan Horseed
+1x Ossian
+1x Ponticulus
+1x Remnant of the Endless Storm
+1x Renegade Garou
+
+Equipment (9)
+1x Ankara Citadel, Turkey, The
+3x Heart of Nizchetus
+1x Laptop Computer
+1x Sargon Fragment, The
+3x Starshell Grenade Launcher
+
+Action Modifier (16)
+12x Domain of Evernight
+4x Enkil Cog
+
+Combat (16)
+6x Decapitate
+10x Outside the Hourglass
+
+Event (2)
+2x Unmasking, The

@@ -1,0 +1,68 @@
+NAC 2002 Day 1 - Last Chance Qualifier
+GenCon, Milwaukee, Wisconsin
+August 10th 2002
+69 players
+Tom Mickle
+
+Crypt (12 cards, min=15, max=38, avg=6.42)
+------------------------------------------
+2x Lucian		10  AUS DOM OBF cel tha		justicar	Malkavian:1
+2x Gilbert Duane	7   AUS DOM OBF			prince		Malkavian:1
+2x Le Dinh Tho		5   NEC aus dom					Nagaraja:2
+1x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Greger Anderssen	7   AUS OBF dom pro		prince		Malkavian:2
+1x Calebros, The Martyr	5   ANI obf pot			prince		Nosferatu:2
+1x Roland Bishop	4   aus dom obf					Malkavian:1
+1x Isabel de Leon	3   AUS						Toreador:2
+1x Zöe			3   AUS cel obf					Malkavian:2
+
+Library (90 cards)
+Master (16)
+1x Asylum Hunting Ground
+2x Blood Doll
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+8x Minion Tap
+1x Secure Haven
+
+Action (16)
+3x Dominate Kine
+7x Fifth Tradition: Hospitality
+5x Govern the Unaligned
+1x Pulse of the Canaille
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (5)
+1x .44 Magnum
+1x Flamethrower
+1x Ivory Bow
+1x Leather Jacket
+1x Sengir Dagger
+
+Political Action (5)
+5x Kine Resources Contested
+
+Action Modifier (17)
+4x Bonding
+1x Cloak the Gathering
+1x Conditioning
+1x Faceless Night
+1x Foreshadowing Destruction
+8x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (24)
+2x Deflection
+6x Obedience
+7x Second Tradition: Domain
+5x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (3)
+3x Dodge

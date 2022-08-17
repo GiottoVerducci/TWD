@@ -1,0 +1,68 @@
+Fee Stake: Budapest
+Budapest, Hungary
+January 28th 2018
+3R+F
+21 players
+Máté Vaka
+https://www.vekn.net/event-calendar/event/8844
+
+-- 1.5VP in final
+
+Deck Name: Mea Culpa
+
+Description: Risky, but ever so active deck, forcing !gangrel vote for gangrel fanatics.
+
+Crypt (12 cards, min=10, max=36, avg=6.42)
+------------------------------------------
+4x Una		   9   ANI FOR PRE PRO dem	archbishop  Gangrel antitribu:3
+3x Aksinya Daclau  9   ANI FOR PRE PRO cel tha		    Gangrel antitribu:4
+1x Charlie Tyne	   4   obf pro ser			    Gangrel antitribu:4
+1x Bill Butler	   3   pot pro				    Gangrel antitribu:4
+1x Lula Burch	   3   for pro				    Gangrel antitribu:4
+1x Denette Stensen 2   obf				    Gangrel antitribu:4
+1x Leo Washington  2   cel pro				    Gangrel antitribu:4
+
+Library (90 cards)
+Master (18; 8 trifle)
+1x Campground Hunting Ground
+1x City Gangrel Connections
+1x Coven, The
+3x Dreams of the Sphinx
+1x Festivo dello Estinto
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Information Highway
+1x Twisted Forest
+2x Vessel
+2x Villein
+2x Wash
+1x Wider View
+
+Action (10)
+1x Abactor
+5x Dual Form
+1x Entrancement
+1x Heart of the City
+2x Loki's Gift
+
+Political Action (18)
+5x Cardinal Benediction
+3x Consanguineous Boon
+1x Conservative Agitation
+7x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+
+Action Modifier (30)
+5x Beast Meld
+7x Bewitching Oration
+3x Earth Control
+8x Freak Drive
+7x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Combat (12)
+4x Earth Meld
+8x Form of Mist

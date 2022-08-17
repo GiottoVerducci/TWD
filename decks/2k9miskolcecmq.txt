@@ -1,0 +1,78 @@
+Powerbleed Mini-ECQ
+Miskolc, Hungary
+April 25th 2009
+3R+F
+32 players
+Ferenc Vasadi
+
+-- 2GW7 + 3VP in final
+
+Deck Name: NewNosfi
+
+Crypt (12 cards, min=19, max=40, avg=7.83)
+------------------------------------------
+4x Alonso Petrodon	   10  ANI DOM OBF POT for tha	justicar  Nosferatu:5
+3x Baron Dieudonne	   9   ANI OBF POT PRO		prince	  Nosferatu:4
+1x Gustaphe Brunnelle	   8   ANI DOM POT obf		primogen  Nosferatu:4
+1x Benjamin Rose	   7   AUS OBF ani pot		prince	  Nosferatu:5
+1x Jeremy "Wix" Wyzchovsky 5   ani obf pot			  Nosferatu:4
+1x Beetleman		   4   ANI obf				  Nosferatu:4
+1x Foureyes		   3   obf pot				  Nosferatu:4
+
+Library (90 cards)
+Master (15; 5 trifle)
+1x Archon Investigation
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Labyrinth, The
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Slum Hunting Ground
+5x Villein
+2x Warsaw Station
+
+Action (7)
+4x Govern the Unaligned
+1x Heroic Might
+2x Preternatural Strength
+
+Political Action (15)
+2x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+3x Kine Resources Contested
+1x Neonate Breach
+5x Parity Shift
+1x Reins of Power
+
+Action Modifier (23)
+3x Animal Magnetism
+2x Cloak the Gathering
+3x Elder Impersonation
+1x Enkil Cog
+3x Faceless Night
+3x Forgotten Labyrinth
+4x Lost in Crowds
+2x Old Friends
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (14)
+2x Cats' Guidance
+4x Deflection
+5x Second Tradition: Domain
+3x Sense the Savage Way
+
+Combat (10)
+2x Aid from Bats
+2x Canine Horde
+6x Carrion Crows
+
+Event (1)
+1x Scourge of the Enochians

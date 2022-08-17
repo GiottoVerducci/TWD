@@ -1,0 +1,63 @@
+Torneo Del Diablo
+Toluca, Mexico
+December 5th 2004
+12 players
+Enrique Montaño Torres
+
+DECK NAME: Horrock and his wall
+
+Crypt (12 cards, min=19, max=30, avg=6.08)
+------------------------------------------
+2x Beckett (ADV)	8   ANI FOR PRO cel tha	 	 Gangrel:3
+1x Beckett		7   ANI FOR PRO cel	 	 Gangrel:3
+3x Horrock		6   ANI PRO vic		 	 Gangrel:3
+2x Céleste Lamontagne	5   ANI PRO for		 	 Gangrel antitribu:4
+1x Danielle Diron	7   ANI PRO chi for	 1 vote	 Gangrel:3
+1x Sophia Watson	6   ANI FOR obf pro	 	 Gangrel:3
+1x Lord Ashton		5   ANI for pro		 	 Gangrel:3
+1x Bobby Lemon		4   ANI pro		 	 Gangrel:3
+
+Library (85 cards)
+Master (17)
+5x Blood Doll
+2x Ecoterrorists
+1x Gangrel Revel
+1x KRCG News Radio
+1x Powerbase: Chicago
+3x Protean
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Zoo Hunting Ground
+
+Action (3)
+1x Army of Rats
+1x Arson
+1x Gather
+
+Equipment (1)
+1x Palatial Estate
+
+Retainer (11)
+2x Dog Pack
+2x Homunculus
+7x Raven Spy
+
+Action Modifier/Combat (4)
+4x Rapid Change
+
+Reaction (21)
+5x Cats' Guidance
+12x Forced Awakening
+4x Instinctive Reaction
+
+Combat (27)
+1x Adaptability
+2x Body Flare
+1x Carrion Crows
+7x Claws of the Dead
+11x Flesh of Marble
+4x Form of Mist
+1x Song of Serenity
+
+Event (1)
+1x Blood Trade

@@ -1,0 +1,62 @@
+Body of Sun #2
+Bydgoszcz, Poland
+July 7th 2011
+2R+F
+12 players
+Sylwester Dziembowski
+
+Deck Name: Chaundice and Antonio go to War
+
+Crypt (12 cards, min=14, max=32, avg=5.67)
+------------------------------------------
+4x Chaundice		8   FOR POT VIS vic	Gargoyle:4
+2x Fustuk		6   FOR VIS obt pot	Gargoyle:5
+2x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
+2x Keith Moody		3   DOM			Tremere antitribu:4
+1x Janine		4   aus dom tha		Tremere antitribu:4
+1x Mosfair		4   cel dom tha		Tremere antitribu:4
+
+Library (89 cards)
+Master (14; 4 trifle)
+1x Barrens, The
+1x Dreams of the Sphinx
+1x Elder Library
+4x Haven Uncovered
+1x Powerbase: Montreal
+1x Secure Haven
+1x Vessel
+3x Villein
+1x Yawp Court
+
+Action (8)
+6x Dive Bomb
+2x Hatchling
+
+Ally (5)
+1x Mylan Horseed
+4x Nephandus
+
+Retainer (3)
+1x Mr. Winthrop
+2x Razor Bat
+
+Action Modifier (10)
+6x As the Crow
+2x Change of Target
+2x Conditioning
+
+Reaction (8)
+4x Deflection
+1x Forced Awakening
+3x On the Qui Vive
+
+Combat (41)
+3x Brick by Brick
+1x Crawling Chamber
+9x Immortal Grapple
+3x Pounce
+10x Raking Talons
+4x Rockheart
+2x Slam
+2x Stonestrength
+7x Torn Signpost

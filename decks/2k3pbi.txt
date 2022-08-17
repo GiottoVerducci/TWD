@@ -1,0 +1,62 @@
+Powerbase: Indianapolis - GenCon Thursday
+Indianapolis, Indiana
+July 24th 2003
+26 players
+Robyn Tatu
+
+Deck Name: Nosferatu bestial
+
+Crypt (12 cards, min=20, max=28, avg=5.92)
+------------------------------------------
+2x Calebros, The Martyr			  5   ANI obf pot	   prince	Nosferatu:2
+1x Tammy Walenski			  8   ANI OBF POT nec tha  		Nosferatu:3
+1x Jara Drory				  7   ANI OBF aus pot	   primogen	Nosferatu:3
+1x Kendrick				  7   ANI POT aus obf	   priscus	Nosferatu antitribu:2
+1x Alonzo Guillen			  6   OBF ani for pot	   		Nosferatu:3
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot	   		Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows		  6   ANI OBF POT	   		Nosferatu antitribu:2
+1x Sundown				  6   ANI POT obf pre	   		Nosferatu:3
+1x Cicatriz				  5   ani obf pot	   bishop	Nosferatu antitribu:2
+1x Gemini				  5   OBF ani obt pot	   		Nosferatu:3
+1x Nigel the Shunned			  5   ANI POT obf	   		Nosferatu antitribu:2
+
+Library (90 cards)
+Master (15; 2 trifle)
+3x Animalism
+1x Archon Investigation
+4x Blood Doll
+2x Heidelberg Castle, Germany
+2x Life in the City
+1x Major Boon
+1x Nosferatu Kingdom
+1x Using the Advantage
+
+Action (10)
+2x Army of Rats
+1x Kindred Intelligence
+4x Nosferatu Bestial
+3x Tier of Souls
+
+Equipment (1)
+1x Palatial Estate
+
+Retainer (14)
+7x Murder of Crows
+2x Owl Companion
+5x Raven Spy
+
+Action Modifier (3)
+3x Forgotten Labyrinth
+
+Reaction (19)
+7x Cats' Guidance
+6x Forced Awakening
+4x Guard Dogs
+2x Wake with Evening's Freshness
+
+Combat (28)
+8x Aid from Bats
+3x Canine Horde
+12x Carrion Crows
+1x Song of Serenity
+4x Taste of Vitae

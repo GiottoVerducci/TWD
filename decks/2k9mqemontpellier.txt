@@ -1,0 +1,71 @@
+French NCQ+MQE
+Montpellier, France
+December 12th 2009
+3R+F
+23 players
+Yannick Gibert
+
+Deck Name: AC....célération...
+Created by: Patrick Benoit & Yannick Gibert
+
+Description: Thinking about changing bewitch oration to Perfect Paragon.
+
+Crypt (12 cards, min=19, max=32, avg=6.67)
+------------------------------------------
+3x Emerson Bridges		   8   DOM FOR PRE pot	prince	Ventrue:1
+2x Anson			   8   CEL PRE aus dom	prince	Toreador:1
+2x Sir Walter Nash		   7   DOM FOR PRE	prince	Ventrue:1
+2x Timothy Crowley		   7   FOR PRE ani dom	prince	Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for		Ventrue:2
+1x Violette Prentiss		   4   PRE dom			Ventrue:1
+1x Gideon Fontaine		   3   PRE			Ventrue:1
+
+Library (79 cards)
+Master (18; 3 trifle)
+2x Anarch Troublemaker
+2x Blind Spot
+4x Dreams of the Sphinx
+1x Hostile Takeover
+1x Jake Washington
+1x Legendary Vampire
+1x Misdirection
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Ventrue Headquarters
+3x Vessel
+
+Action (7)
+2x Entrancement
+5x Intimidation
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Domain Challenge
+2x Kine Resources Contested
+2x Neonate Breach
+7x Parity Shift
+1x Ventrue Justicar
+
+Action Modifier (25)
+4x Approximation of Loyalty
+2x Bewitching Oration
+5x Conditioning
+2x Daring the Dawn
+5x Freak Drive
+3x Seduction
+4x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Force of Personality
+
+Reaction (3)
+3x Deflection
+
+Combat (5)
+5x Majesty
+
+Event (3)
+1x Anthelios, The Red Star
+1x Nightmares upon Nightmares
+1x Uncoiling, The

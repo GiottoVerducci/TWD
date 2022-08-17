@@ -1,0 +1,56 @@
+Eternal Sunshine Series, Part III
+Järntorget, Gothenburg, Sweden
+July 14th 2007
+3R+F
+14 players
+Christoffer Arvidsson
+
+Deck Name: Unnatural Disaster
+Created by: Alex Ek and Erik Torstensson (based on pretty much every tupdog deck
+
+out there), minor pre-tourney adjustments by Alex Ek and Christoffer Arvidsson
+Description: Rather standard tupdog deck.
+Unnatural Disaster is a prayer versus Gran Madre and Secure Haven who
+are both locations. (REPORTERS NOTE: Stoffe burnt the Gran Madre in game 2
+with an Unnatural:D)
+
+Crypt (28 cards, min=4, max=16, avg=1.64)
+-----------------------------------------
+21x Tupdog	 1    POT VIS		Gargoyle:3
+1x  Esoara	 5    DOM aus for pot	Tremere antitribu:4
+1x  Janine	 4    aus dom tha	Tremere antitribu:4
+1x  Mosfair	 4    cel dom tha	Tremere antitribu:4
+1x  Ember Wright 3    aus dom		Tremere antitribu:3
+1x  Keith Moody	 3    DOM		Tremere antitribu:4
+1x  Lectora	 3    aus tha		Tremere antitribu:4
+1x  Saiz	 3    aus dom		Tremere antitribu:3
+
+Library (90 cards)
+Master (13)
+3x Blood Doll
+2x Dreams of the Sphinx
+2x Effective Management
+1x Fame
+1x Information Highway
+1x Powerbase: Montreal
+2x Unnatural Disaster
+1x Yawp Court
+
+Action (11)
+4x Govern the Unaligned
+7x Graverobbing
+
+Action Modifier (4)
+4x Conditioning
+
+Reaction (7)
+5x Deflection
+2x Delaying Tactics
+
+Combat (55)
+11x Crawling Chamber
+13x Immortal Grapple
+11x Raking Talons
+4x Roll
+8x Stonestrength
+8x Torn Signpost

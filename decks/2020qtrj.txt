@@ -1,0 +1,69 @@
+Online Quarantine Tournament I
+Rio de Janeiro, Brazil
+April 10th 2020 -- April 13th 2020
+3R+F
+17 players
+Fernando Lima
+https://www.vekn.net/event-calendar/event/9611
+
+-- 2VPs in the final
+
+Deck Name: Unnamed Reborn
+
+Crypt (12 cards, min=26, max=40, avg=8.67)
+------------------------------------------
+4x unnamed, The		   10  CEL DAI OBF PRE PRO		 Baali:6
+1x Nergal		   10  AUS DAI FOR OBF PRE THA		 Baali:5
+1x Nergal (ADV)		   10  AUS DAI FOR OBF PRE THA		 Baali:5
+2x Annazir		   9   DAI OBF POT PRE		2 votes	 Baali:5
+2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro		 Baali:6
+2x Arishat		   6   DAI OBF PRE		1 vote	 Baali:6
+
+Library (90 cards)
+Master (15; 2 trifle)
+2x Archon Investigation
+2x Dreams of the Sphinx
+1x Golconda: Inner Peace
+1x Monastery of Shadows
+1x Path of Evil Revelations
+1x Perfectionist
+1x Ruins of Charizel
+1x Secure Haven
+1x Sudden Reversal
+2x Tend the Flock
+1x Vessel
+1x Wider View
+
+Action (18)
+1x Contagion
+1x Entrancement
+12x Public Trust
+2x Sheepdog
+2x Unleash Hell's Fury
+
+Ally (2)
+1x Carlton Van Wyk
+1x Veneficti
+
+Equipment (1)
+1x Signet of King Saul, The
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (32)
+6x Elder Impersonation
+3x Enkil Cog
+4x Faceless Night
+6x I am Legion
+6x Instantaneous Transformation
+6x Lost in Crowds
+1x Psychomachia
+
+Action Modifier/Combat/Reaction (15)
+9x Sense the Sin
+6x Swallowed by the Night
+
+Combat (6)
+1x Conflagration
+5x Majesty

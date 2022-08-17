@@ -1,0 +1,68 @@
+If I Was Your Vampire
+Bochum, Germany
+October 22nd 2011
+2R+F
+16 players
+Martin Varga
+
+Deck Name: Akunanse 16 wakes
+Created by: Brian Moritz
+
+modifications by matkov, modifications by TommiK!
+updated (18.4.2011)
+
+Crypt (12 cards, min=15, max=40, avg=7)
+---------------------------------------
+2x Fakir al Sidi 11  ANI FOR PRE PRO THA abo		Gangrel:4
+2x Matata	 9   ABO ANI FOR aus cel obf		Akunanse:3
+2x Amavi	 8   ABO ANI FOR pre pro		Akunanse:4
+1x Uchenna	 7   ABO ANI FOR		magaji	Akunanse:4
+1x Jubal	 6   ABO ANI for pot			Akunanse:4
+1x Sanjo	 6   ANI FOR abo chi			Akunanse:3
+1x Nestor Kaba	 4   abo ani for			Akunanse:4
+1x Dolie	 3   abo ani				Akunanse:4
+1x Meno Ngari	 2   abo				Akunanse:4
+
+Library (82 cards)
+Master (19; 7 trifle)
+2x Abombwe
+3x Blood Doll
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+2x Mapatano Utando
+1x Powerbase: Luanda
+2x Powerbase: Montreal
+1x Rack, The
+4x Villein
+
+Action (10)
+8x Deep Song
+2x Well-Marked
+
+Equipment (2)
+1x Reliquary: Akunanse Remains
+1x Sengir Dagger
+
+Retainer (5)
+1x Mr. Winthrop
+4x Raven Spy
+
+Action Modifier (5)
+2x Devil-Channel: Throat
+3x Predator's Mastery
+
+Reaction (16)
+4x Cats' Guidance
+6x Predator's Communion
+6x Sense the Savage Way
+
+Combat (25)
+2x Canine Horde
+6x Carrion Crows
+7x Invoking the Beast
+3x Resilience
+1x Target Vitals
+4x Taste of Vitae
+2x Unflinching Persistence

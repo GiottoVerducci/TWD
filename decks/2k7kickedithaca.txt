@@ -1,0 +1,70 @@
+Kicked in the Junk
+Ithaca, New York
+May 18th 2007
+2R+F
+10 players
+Jon Darbro
+
+Deck: Touch my Junk!
+Concept: Doesn't require a PhD to figure this one out, though I'm ashamed
+of all of you not kicking this deck's junk just a little more...:)
+
+Crypt (12 cards, min=14, max=24, avg=4.75)
+------------------------------------------
+2x Dolphin Black		6   AUS DEM OBF			 Malkavian antitribu:2
+1x Korah			7   AUS DEM OBF ani	priscus	 Malkavian antitribu:2
+1x Evan Klein			5   OBF aus dem pre		 Malkavian:3
+1x General Perfidio Díos	5   AUS dem obf		bishop	 Malkavian antitribu:3
+1x Persia, The Beautiful Statue	5   DEM aus obf			 Malkavian:3
+1x Uncle George			5   DEM aus dom obf		 Malkavian antitribu:3
+1x Adelaide Davis		4   aus dem obf			 Malkavian:3
+1x Claven			4   aus dem obf			 Malkavian antitribu:2
+1x Jeremy Talbot		4   dem obf			 Malkavian:3 -- special involving math
+1x Midget			3   DEM obf pre			 Malkavian antitribu:3 -- secret to ultimate victory
+1x Yorik			3   dem obf			 Malkavian antitribu:2
+
+Library (87 cards)
+Master (13)
+1x Archon Investigation
+1x Barrens, The
+1x Direct Intervention
+1x Dummy Corporation
+1x Effective Management
+1x Fragment of the Book of Nod
+1x Momentum's Edge
+5x Sudden Reversal
+1x Vox Domini
+
+Action (22)
+5x Dive into Madness
+12x Kindred Spirits
+2x Madman's Quill
+2x Revelations
+1x Sibyl's Tongue
+
+Ally (1)
+1x Escaped Mental Patient
+
+Action Modifier (31)
+4x Cloak the Gathering
+3x Confusion
+11x Eyes of Chaos
+2x Faceless Night
+4x Lost in Crowds
+3x Marked Path
+1x Mind Tricks
+2x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (16)
+3x Forced Awakening
+1x On the Qui Vive
+7x Telepathic Counter
+1x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (3)
+3x Gemini's Mirror

@@ -1,0 +1,71 @@
+Twisting the Signpost
+Harrisburg, Pennsylvania
+March 6th 2004
+16 players
+Tom Mickle
+
+Deck Name: War Ghoul
+
+Description: "I must admit I got a perverse pleasure out of
+Josh (duffin, who was playing erika w/PTO) saying that my deck was
+broken, that War Ghoul was broken..."
+
+Crypt (12 cards, min=10, max=32, avg=5.25)
+------------------------------------------
+5x Little Tailor of Prague 8   ANI AUS VIC dem	Tzimisce:2
+1x Corine Marcón	   6   AUS VIC ani	Tzimisce:2
+1x Lolita Houston	   4   VIC aus		Tzimisce:2
+1x Isabel de Leon	   3   AUS		Toreador:2
+1x Martin Franckel	   3   AUS tha		Tremere:3
+1x Zöe			   3   AUS cel obf	Malkavian:2
+1x Horatio		   2   vic		Tzimisce:2
+1x Piotr Andreikov	   2   aus		Tzimisce:3
+
+Library (90 cards)
+Master (26)
+6x Blood Doll
+1x Charisma
+1x Creepshow Casino
+3x Fame
+1x Giant's Blood
+6x Jake Washington
+1x KRCG News Radio
+3x Library Hunting Ground
+1x London Evening Star, Tabloid Newspaper
+1x Mob Connections
+1x Secure Haven
+1x WMRH Talk Radio
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Arson
+
+Ally (12)
+2x Vagabond Mystic
+10x War Ghoul
+
+Equipment (6)
+1x Femur of Toomler
+1x Hawg
+4x Unlicensed Taxicab
+
+Retainer (6)
+1x Ghoul Escort
+1x J. S. Simmons, Esq.
+2x Jackie Therman
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (4)
+4x Changeling
+
+Action Modifier/Combat (5)
+5x Plasmic Form
+
+Reaction (15)
+9x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (14)
+6x Fake Out
+8x Trap

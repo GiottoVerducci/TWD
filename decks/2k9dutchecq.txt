@@ -1,0 +1,49 @@
+Dutch ECQ
+Tilburg, Netherlands
+August 30th 2009
+3R+F
+27 players
+Koen Tabak
+
+Crypt (13 cards, min=24, max=40, avg=8.08)
+------------------------------------------
+2x Gustav Breidenstein	10  DOM FOR PRE aus cel pot	prince	  Ventrue:4
+2x Mary Anne Blaire	10  AUS DOM FOR PRE ani pot	justicar  Ventrue:5
+2x Johannes Castelein	9   DEM DOM FOR PRE		prince	  Ventrue:4
+2x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince	  Ventrue:5
+2x Graham Gottesman	7   DOM FOR obf pre tha		prince	  Ventrue:5
+2x Victor Donaldson	6   DOM for pre			prince	  Ventrue:5
+1x Emily Carson		5   DOM for pre			primogen  Ventrue:5
+
+Library (90 cards)
+Master (18; 2 trifle)
+6x Blood Doll
+1x From a Sinking Ship
+1x Giant's Blood
+2x Information Highway
+2x Minion Tap
+2x Perfectionist
+2x Ventrue Headquarters
+2x Wash
+
+Action (10)
+2x Entrancement
+8x Govern the Unaligned
+
+Political Action (14)
+3x Conservative Agitation
+9x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier (17)
+1x Enkil Cog
+12x Freak Drive
+4x Voter Captivation
+
+Reaction (19)
+10x Deflection
+3x Eluding the Arms of Morpheus
+6x Second Tradition: Domain
+
+Combat (12)
+12x Majesty

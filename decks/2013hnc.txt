@@ -1,0 +1,74 @@
+Hungarian NC 2013
+Budapest, Hungary
+December 15th 2013
+3R+F
+22 players
+Sebestyén Balázs
+https://www.vekn.net/event-calendar/event/7433
+
+Deck Name: Malkáv blokker
+
+Sebestyén Balázs succeeded defending his title, so there is his Tournament Winning Deck with 3VP in final.
+
+Crypt (14 cards, min=10, max=25, avg=4.36)
+------------------------------------------
+3x Victoria	    5	AUS cel obf	 	 Malkavian:2
+1x Gilbert Duane    7	AUS DOM OBF	 prince	 Malkavian:1
+1x Greger Anderssen 7	AUS OBF dom pro	 prince	 Malkavian:2
+1x Ozmo		    6	AUS dom obf	 	 Malkavian:1
+1x Zebulon	    5	OBF aus dom pro	 	 Malkavian:1
+1x Aleph	    4	AUS dom		 	 Malkavian:1
+1x Roland Bishop    4	aus dom obf	 	 Malkavian:1
+1x Dollface	    3	aus obf		 	 Malkavian:1
+1x Watenda	    3	obf		 	 Malkavian:2
+1x Zöe		    3	AUS cel obf	 	 Malkavian:2
+1x Brazil	    2	aus		 	 Malkavian:1
+1x Normal	    2	obf		 	 Malkavian:1
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Asylum Hunting Ground
+2x Direct Intervention
+1x Erciyes Fragments, The
+3x Madness Network
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+3x Rötschreck
+1x Smiling Jack, The Anarch
+6x Vessel
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (9)
+2x .44 Magnum
+1x Bowl of Convergence
+4x Improvised Flamethrower
+1x Ivory Bow
+1x Sniper Rifle
+
+Action Modifier (9)
+4x Conditioning
+1x Hidden Lurker
+4x Lost in Crowds
+
+Reaction (44)
+2x Delaying Tactics
+6x Eagle's Sight
+5x Enhanced Senses
+8x Eyes of Argus
+1x Fast Reaction
+3x Forced Awakening
+4x My Enemy's Enemy
+4x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+7x Telepathic Misdirection
+
+Combat (5)
+5x Disguised Weapon

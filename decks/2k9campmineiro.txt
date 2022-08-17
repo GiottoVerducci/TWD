@@ -1,0 +1,59 @@
+Campeonato Mineiro
+Juiz de Fora, Brazil
+August 22nd 2009
+3R+F
+19 players
+Leonardo Villela
+
+-- 4VP in final
+
+Deck Name: Winnie Weapon
+
+Crypt (12 cards, min=11, max=20, avg=4)
+---------------------------------------
+3x Black Cat			5   CEL pot pre	 	 Brujah:1
+2x Victor Tolliver		4   CEL pot	 	 Brujah antitribu:2
+2x Sarah Brando			3   CEL		 	 Brujah antitribu:2
+1x Dodd				5   CEL dom pre	 	 Brujah antitribu:2
+1x Volker, The Puppet Prince	5   CEL pot	 prince	 Brujah:2
+1x Jimmy Dunn			4   CEL POT for	 	 Pander:2
+1x Parmenides			4   CEL qui	 	 Assamite:2
+1x Nik				1   cel		 	 Caitiff:1
+
+Library (90 cards)
+Master (16; 4 trifle)
+1x Amusement Park Hunting Ground
+1x Blood Doll
+1x Dreams of the Sphinx
+1x Elder Library
+1x Fame
+1x Gang Territory
+1x Heidelberg Castle, Germany
+1x Secure Haven
+1x Specialization
+1x Tension in the Ranks
+4x Vessel
+1x Warzone Hunting Ground
+1x Waste Management Operation
+
+Action (17)
+1x Arson
+16x Bum's Rush
+
+Equipment (7)
+6x .44 Magnum
+1x Desert Eagle
+
+Combat (49)
+4x Blur
+8x Concealed Weapon
+1x Fast Hands
+4x Flash
+10x Psyche!
+6x Pursuit
+5x Side Strike
+5x Sideslip
+6x Taste of Vitae
+
+Event (1)
+1x Dragonbound

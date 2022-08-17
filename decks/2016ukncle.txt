@@ -1,0 +1,65 @@
+English NC 2016
+Jugged Hare, London, England
+November 19th 2016
+3R+F
+14 players
+Michael Corriea
+
+Marrakesh Codex was a huge help; Dis Pater was indespensable in getting the VPs (did more damage through bleeding than by Fame/Dragonbound in every game I think).
+
+Crypt (12 cards, min=14, max=36, avg=6.5)
+-----------------------------------------
+4x Ignazio Giovanni	    9	DOM FOR NEC POT obf	Giovanni:3
+2x Baldesar Rossellini	    8	DOM POT aus for nec	Giovanni:4
+2x Benedict Giovanni, Agent 6	FOR POT cel dom nec	Giovanni:4
+2x Lorrie Dunsirn	    4	POT for nec		Abomination:4
+2x Almodo Giovanni	    3	dom pot			Giovanni:4
+
+Library (90 cards)
+Master (15; 2 trifle)
+1x Dis Pater
+1x Dummy Corporation
+2x Fame
+1x Giant's Blood
+1x Humanitas
+1x Marrakesh Codex, The
+1x Powerbase: Cape Verde
+1x Sudden Reversal
+1x Tension in the Ranks
+2x Vessel
+3x Visit from the Capuchin
+
+Action (16)
+3x Ambush
+4x Bum's Rush
+5x Govern the Unaligned
+3x Harass
+1x Sudario Refraction
+
+Ally (2)
+1x Gianna di Canneto
+1x Giulia Giovanni Abruzzina
+
+Action Modifier (8)
+2x Conditioning
+6x Freak Drive
+
+Reaction (4)
+4x Deflection
+
+Combat (43)
+2x Armor of Vitality
+2x Earthshock
+2x Hidden Strength
+8x Immortal Grapple
+6x Pulled Fangs
+1x Pushing the Limit
+2x Rolling with the Punches
+4x Slam
+2x Soak
+4x Spiritual Guidance
+4x Taste of Vitae
+6x Torn Signpost
+
+Event (2)
+2x Dragonbound

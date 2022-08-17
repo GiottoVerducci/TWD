@@ -1,0 +1,84 @@
+TempleCon: Convergence (Qualifier)
+Warwick, Rhode Island
+February 4th 2012
+3R+F
+18 players
+Adam Hulse
+
+Deck Name: Ghouls Occupy Wall Street
+
+Description: Adam Hulse Winning Deck (Boston Qualifier 2012)
+Even the ghouls have begun to protest! The ring leader is a very
+charismatic Smiling Jack. Very peacefully mind you. But when you
+get them riled up they go to your home and assault your corporations
+with sticks and bats!
+
+Crypt (12 cards, min=11, max=23, avg=4.42)
+------------------------------------------
+2x Corine Marcón	6   AUS VIC ani		Tzimisce:2
+1x Caliban		6   ANI AUS VIC		Tzimisce:2
+1x Ana Rita Montaña	5   VIC aus dom obf	Tzimisce:3
+1x Devin Bisley		5   ANI AUS vic		Tzimisce:2
+1x Elizabeth Westcott	5   AUS ani cel vic	Tzimisce:3
+1x Rose, The		5   PRE VIC aus		Tzimisce:3
+1x Lolita Houston	4   VIC aus		Tzimisce:2
+1x Terrence		4   ani aus vic		Tzimisce:2
+1x Wendy Wade		3   ani aus		Tzimisce:2
+1x Horatio		2   vic			Tzimisce:2
+1x Piotr Andreikov	2   aus			Tzimisce:3
+
+Library (76 cards)
+Master (20)
+3x Blood Doll
+1x Erciyes Fragments, The
+2x Frontal Assault
+1x Giant's Blood
+1x Haven Uncovered
+1x Hungry Coyote, The
+1x Jake Washington
+1x Library Hunting Ground
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rötschreck
+3x Smiling Jack, The Anarch
+3x Sudden Reversal
+
+Action (7)
+1x Abbot
+1x Aranthebes, The Immortal
+1x Army of Rats
+2x Psychic Projection
+2x Zillah's Tears
+
+Ally (13)
+8x Asanbonsam Ghoul
+1x Carlton Van Wyk
+1x Ossian
+1x Vagabond Mystic
+2x War Ghoul
+
+Equipment (4)
+3x Baseball Bat
+1x Ivory Bow
+
+Action Modifier/Combat (4)
+4x Plasmic Form
+
+Reaction (12)
+1x Eagle's Sight
+3x On the Qui Vive
+2x Precognition
+1x Read the Winds
+2x Spirit's Touch
+3x Telepathic Misdirection
+
+Combat (12)
+1x Breath of the Dragon
+2x Chiropteran Marauder
+2x Dodge
+1x Meld with the Land
+6x Weighted Walking Stick
+
+Event (4)
+1x FBI Special Affairs Division
+3x Unmasking, The

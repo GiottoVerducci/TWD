@@ -1,0 +1,66 @@
+Belgian NC 2013
+Brussels, Belgium
+November 10th 2013
+3R+F
+16 players
+Martin Schumacher
+https://www.vekn.net/event-calendar/event/7363
+
+Deck Name: The Black Plague
+
+Crypt (13 cards, min=12, max=29, avg=5.08)
+------------------------------------------
+2x Banjoko		   5   DOM obt pot	    Lasombra:3
+2x Piotr Andreikov	   2   aus		    Tzimisce:3
+1x Yazid Tamari		   8   CEL QUI ani dom obf  Assamite:3
+1x Blackhorse Tanner	   7   AUS DOM FOR	    Ventrue antitribu:3
+1x Kazimir Savostin	   7   AUS VIC ani pot	    Tzimisce:3
+1x Teresita, The Godmother 7   ANI OBF POT for	    Nosferatu antitribu:3
+1x Sennadurek		   6   AUS NEC dom	    Nagaraja:4
+1x Nicomedes		   5   aus for nec vic	    Harbinger of Skulls:4
+1x Katherine Stoddard	   4   dom for		    Ventrue antitribu:3
+1x Mosfair		   4   cel dom tha	    Tremere antitribu:4
+1x Roger Farnsworth	   4   OBF aus		    Malkavian antitribu:3
+
+Library (90 cards)
+Master (15; 6 trifle)
+1x Archon Investigation
+2x Direct Intervention
+1x Hungry Coyote, The
+1x Pentex(TM) Subversion
+5x Villein
+1x Wash
+4x Watchtower: The Wolves Feed
+
+Action (40)
+2x Abbot
+10x Recruitment Exercise
+25x Reunion Kamut
+3x Tattoo Signal
+
+Equipment (2)
+1x Guarded Rubrics
+1x Sargon Fragment, The
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (10)
+4x Change of Target
+6x Seraph's Second
+
+Reaction (14)
+5x Deflection
+3x Delaying Tactics
+2x On the Qui Vive
+1x Poison Pill
+3x Truth in Ink
+
+Combat (3)
+3x Target Vitals
+
+Event (5)
+1x Anthelios, The Red Star
+2x Blood Trade
+1x Break the Code
+1x Fourth Cycle, The

@@ -1,0 +1,51 @@
+Lunatic Eruption
+Utrecht, Netherlands
+March 30th 2003
+20 players
+Roy van Ommen
+
+Crypt (13 cards, min=13, max=26, avg=5.08)
+------------------------------------------
+2x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
+2x Sarisha Veliku		6   ANI FOR chi dom	Ravnos:2
+1x Gabrin			8   ANI CHI dom for	Ravnos:2
+1x Vaclav Petalengro		6   ANI CHI for pot	Ravnos:2
+1x Andrei Puxon			5   ani cel chi for	Ravnos:2
+1x Ghivran Dalaal, The Dead God	5   FOR ani aus chi	Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Anka, Priestess of Thorns	4   ani chi pro		Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for		Ravnos:2
+1x Lázár Dobrescu		3   for			Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+
+Library (90 cards)
+Master (20)
+4x Animalism
+7x Blood Doll
+4x Fortitude
+2x Haven Uncovered
+3x Week of Nightmares
+
+Action (5)
+2x Ambush
+3x Bum's Rush
+
+Equipment (2)
+2x Sport Bike
+
+Reaction (15)
+7x Cats' Guidance
+3x Forced Awakening
+3x Ignis Fatuus
+2x Wake with Evening's Freshness
+
+Combat (48)
+8x Carrion Crows
+8x Drawing Out the Beast
+1x Hidden Strength
+5x Indomitability
+6x Resilience
+6x Rolling with the Punches
+6x Scorpion Sting
+5x Skin of Rock
+3x Song in the Dark

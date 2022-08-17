@@ -1,0 +1,77 @@
+Misericordia
+Palma de Mallorca, Spain
+June 26th 2005
+3R+F
+14 players
+Ginés Quiñonero
+
+Deck Name: We are legion
+
+Crypt (15 cards, min=4, max=5, avg=1.07)
+----------------------------------------
+1x Hanna Redmonds	2   obf tha	Caitiff:3
+1x Angela Decker	1   pre		Pander:2
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Basil		1   obf		Pander:2
+1x Eddie Gaines		1   dem pot	Caitiff:3
+1x Feo Ramos		1   aus		Pander:3
+1x Franciscus		1   aus		Caitiff:2
+1x Huang, Blood Cultist	1   pro		Pander:2
+1x Julius		1   qui ser	Caitiff:2
+1x Lisa Noble		1   ani		Caitiff:3
+1x March Halcyon	1   for		Pander:2
+1x Nedal, The Careless	1   cel nec	Caitiff:3
+1x Olga Triminov	1   vic		Pander:3
+1x Royce		1   dom		Pander:2
+1x Sandra White		1   -none-	Caitiff:3
+
+Library (90 cards)
+Master (32)
+2x Archon Investigation
+1x Barrens, The
+3x Brothers Grimm
+1x Direct Intervention
+1x Dreams of the Sphinx
+2x Effective Management
+1x Elder Library
+1x Fortschritt Library
+4x Jake Washington
+1x Kaymakli Nightmares
+1x KRCG News Radio
+1x Left for Dead
+3x Memories of Mortality
+1x Millicent Smith, Puritan Vampire Hunter
+3x Parthenon, The
+1x Retribution
+2x Storage Annex
+2x Visit from the Capuchin
+1x WMRH Talk Radio
+
+Action (20)
+20x Computer Hacking
+
+Ally (15)
+1x Akhenaten, The Sun Pharaoh
+1x Alia, God's Messenger
+1x Carlton Van Wyk
+2x Gregory Winter
+1x Mylan Horseed
+1x Order of Hermes Cabal
+1x Ossian
+6x Rafastio Ghoul
+1x Vagabond Mystic
+
+Combat (13)
+9x Dodge
+4x Weighted Walking Stick
+
+Event (10)
+1x Anthelios, The Red Star
+1x Blood Trade
+1x Blood Weakens
+1x Fall of the Camarilla
+1x FBI Special Affairs Division
+1x Recalled to the Founder
+1x Slow Withering, The
+2x Unmasking, The
+1x Veil of Darkness

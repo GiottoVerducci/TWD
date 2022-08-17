@@ -1,0 +1,85 @@
+Powerbase: Berkeley - Antediluvian Awakening
+Berkeley, California
+August 11th 2018
+2R+F
+10 players
+Ian Lee
+https://www.vekn.net/event-calendar/event/8974
+
+-- 2GW8 + 1.5VP in final
+
+Deck Name: Halfway Around
+
+Final: Ian Lee (Followers Stealth Bleed)
+ -> David Anderson (Daughters Shattering Crescendo)
+ -> Jonathan Scherer (Giovanni and the Baron Shambling Hordes)
+ -> Devin Villegas (Anarch weenie bruise bleed)
+ -> Mark Jasper (Malgorzata/Capuchin/Lord Tremere Bleed/Bloat/Wall)
+
+Description: Blood retention (Path of Typhon, Life in the City) style Serpentis SB.
+
+Crypt (12 cards, min=6, max=26, avg=4.33)
+-----------------------------------------
+3x Anarch Convert			1   -none-			 Caitiff:ANY
+2x Hesha Ruhadze			6   SER ani obf pre		 Follower of Set:2
+1x Kephamos, High Priest of Marrakech	8   SER dom obf pre	2 votes	 Follower of Set:2
+1x Ezekiel, Lord of Montreal		6   PRE SER obf pot		 Follower of Set:3
+1x Samat Ramal-Ra, Archon		6   OBF pre ser tha		 Follower of Set:2
+1x Count Ormonde			5   OBF dom pre ser		 Follower of Set:2
+1x Sir Marriot D'Urban			5   PRE aus obf ser		 Follower of Set:2
+1x Nepata				4   obf pre ser			 Follower of Set:2
+1x Celine Chevalier			3   obf ser			 Follower of Set:2
+
+Library (90 cards)
+Master (28; 9 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+1x Barrens, The
+5x Blood Doll
+3x Dominate
+1x Dreams of the Sphinx
+5x Life in the City
+1x Obfuscate
+1x Opium Den
+4x Path of Typhon, The
+1x Temple Hunting Ground
+1x Vessel
+1x Wash
+2x Wider View
+
+Action (10)
+8x Eternal Mask, The
+1x Revelation of Ecstasy
+1x Set's Curse
+
+Ally (1)
+1x Mylan Horseed
+
+Action Modifier (20)
+4x Cloak the Gathering
+2x Faceless Night
+1x Leverage
+1x Lost in Crowds
+2x Revelation of Desire
+1x Spying Mission
+7x Truth of a Thousand Lies
+2x Veil the Legions
+
+Action Modifier/Combat (3)
+1x Form of the Serpent
+2x Swallowed by the Night
+
+Reaction (19)
+1x Confusion of the Eye
+6x Deflection
+3x Delaying Tactics
+1x Fillip
+6x On the Qui Vive
+1x Poison Pill
+1x Wake with Evening's Freshness
+
+Combat (9)
+1x Cobra Fangs
+2x Dodge
+4x Majesty
+2x Unholy Penance

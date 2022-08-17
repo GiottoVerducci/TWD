@@ -1,0 +1,67 @@
+Thursday Tournament
+Portsmouth, England
+January 13th 2000
+Rob Treasure
+
+Created by: 's notes: A bit open to heavy agg damage burning you but can overrun
+
+Weenie Trap Unflinching Filth
+By Rob Treasure
+most decks with numbers. Obviously key to get out one or two with dom or DOM
+to deflect and bleed. Possibly gone a bit mad with numbers of trap and undead
+persistence but seemed to work ok. In hindsight would put more bleed in.
+
+Crypt (12 cards, min=6, max=19, avg=3.08)
+-----------------------------------------
+2x Ingrid Russo			   4   DOM for	    Ventrue antitribu:2
+1x Luccia Paciola		   6   DOM for pre  Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for  Ventrue:2
+1x Courtland Leighton		   4   dom for pre  Ventrue:1
+1x Lázár Dobrescu		   3   for	    Ravnos:2
+1x Roland Loussarian		   3   for pre	    Ventrue:1
+1x Giuliano Vincenzi		   2   for	    Gangrel:1
+1x Ohanna			   2   dom	    Malkavian:2
+1x Rufina Soledad		   2   for	    Ventrue:1
+1x March Halcyon		   1   for	    Pander:2
+1x Royce			   1   dom	    Pander:2
+
+Library (90 cards)
+Master (19)
+1x Anarch Troublemaker
+1x Blood Doll
+1x Direct Intervention
+2x Dominate
+1x Dreams of the Sphinx
+4x Fortitude
+1x Hostile Takeover
+1x Humanitas
+1x Information Highway
+1x Misdirection
+1x Sudden Reversal
+4x Tribute to the Master
+
+Action (18)
+4x Embrace, The
+4x Govern the Unaligned
+8x Rapid Healing
+2x Regeneration
+
+Equipment (1)
+1x Catacombs
+
+Action Modifier (8)
+3x Conditioning
+2x Daring the Dawn
+1x Foreshadowing Destruction
+2x Freak Drive
+
+Reaction (12)
+2x Deadliest Sin, The
+4x Deflection
+6x Wake with Evening's Freshness
+
+Combat (32)
+4x Indomitability
+2x Skin of Night
+13x Trap
+13x Undead Persistence

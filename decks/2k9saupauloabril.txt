@@ -1,0 +1,62 @@
+Tournament
+São Paulo, Brazil
+April 26th 2009
+12 players
+Rafael Pereira de Aguiar
+
+Deck Name: Rafinha Osebo Wall
+
+Crypt (12 cards, min=17, max=37, avg=6.67)
+------------------------------------------
+3x Massassi	   9   AUS CEL POT QUI obf		Osebo:4
+3x Homa		   6   AUS CEL POT			Osebo:4
+2x Khalu	   7   AUS CEL POT ani pro		Osebo:3
+1x Cesewayo	   10  AUS CEL DOM POT THA ani	magaji	Osebo:4
+1x Ismitta	   4   aus cel pot			Osebo:4
+1x Mariano Pomposo 4   aus cel pot			Brujah antitribu:3
+1x Gengis	   3   aus cel pot			Brujah:3
+
+Library (90 cards)
+Master (12; 2 trifle)
+1x Ancestor Spirit
+1x Base Hunting Ground
+3x Blood Doll
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Powerbase: Montreal
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+2x Vessel
+
+Action (14)
+2x Enforcer
+7x Flurry of Action
+1x Legend of the Leopard
+2x Nose of the Hound
+2x Pulse of the Canaille
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Shaman
+1x Tasha Morgan
+
+Reaction (20)
+1x Eagle's Sight
+2x Enhanced Senses
+3x Forced Awakening
+3x My Enemy's Enemy
+3x On the Qui Vive
+4x Quicken Sight
+4x Telepathic Misdirection
+
+Combat (40)
+4x Blur
+2x Disarm
+1x Fast Hands
+3x Flash
+8x Immortal Grapple
+4x Pursuit
+4x Side Strike
+6x Taste of Vitae
+8x Torn Signpost

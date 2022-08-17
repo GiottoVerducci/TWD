@@ -1,0 +1,55 @@
+Autumn Event
+Burton-on-Trent, England
+September 15th 2012
+2R+F
+12 players
+Norbert Flasko
+
+Deck Name: You shall not pass!!!
+
+Crypt (12 cards, min=24, max=32, avg=6.92)
+------------------------------------------
+4x Howler	  8   ANI PRE SPI obf	Ahrimane:2
+3x Siamese, The	  7   PRE SPI ani pro	Ahrimane:2
+3x Cynthia Ingold 6   SPI ani for pre	Ahrimane:2
+2x Jost Werner	  6   AUS PRE ani	Toreador antitribu:2
+
+Library (90 cards)
+Master (16; 6 trifle)
+3x Animalism
+2x Direct Intervention
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+5x Vessel
+1x Wider View
+
+Action (11)
+2x Abbot
+1x Army of Rats
+8x Enchant Kindred
+
+Retainer (4)
+1x Mr. Winthrop
+3x Raven Spy
+
+Action Modifier (4)
+4x Aire of Elation
+
+Action Modifier/Combat (6)
+6x Swiftness of the Stag
+
+Reaction (25)
+3x Cats' Guidance
+3x Ears of the Hare
+4x Falcon's Eye
+3x Sense the Savage Way
+12x Speak with Spirits
+
+Combat (24)
+6x Aid from Bats
+4x Canine Horde
+12x Carrion Crows
+2x Taste of Vitae

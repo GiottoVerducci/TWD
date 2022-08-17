@@ -1,0 +1,61 @@
+Grooming the Protégé
+Strasbourg, France
+December 3rd 2006
+3R+F
+17 players
+Marius Iscru
+https://www.vekn.net/event-calendar/event/2168
+
+Deck Name: Block From Hell
+
+Description: Some cards can be added: 1 ivory bow, 1 bowl of convergence, replace of wakes with eyes of argus and on the qui vive
+
+Crypt (12 cards, min=15, max=29, avg=5.42)
+------------------------------------------
+1x Meshenka				  8   ANI AUS VIC	   priscus	Tzimisce:2
+1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
+1x Kazimir Savostin			  7   AUS VIC ani pot	   		Tzimisce:3
+1x Caliban				  6   ANI AUS VIC	   		Tzimisce:2
+1x Corine Marcón			  6   AUS VIC ani	   		Tzimisce:2
+1x Ana Rita Montaña			  5   VIC aus dom obf	   		Tzimisce:3
+1x Devin Bisley				  5   ANI AUS vic	   		Tzimisce:2
+1x Elizabeth Westcott			  5   AUS ani cel vic	   		Tzimisce:3
+1x Rose, The				  5   PRE VIC aus	   		Tzimisce:3
+1x Lolita Houston			  4   VIC aus		   		Tzimisce:2
+1x Terrence				  4   ani aus vic	   		Tzimisce:2
+1x Horatio				  2   vic		   		Tzimisce:2
+
+Library (70 cards)
+Master (13)
+4x Blood Doll
+1x Library Hunting Ground
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Rötschreck
+2x Smiling Jack, The Anarch
+1x Tension in the Ranks
+
+Action (1)
+1x Army of Rats
+
+Equipment (1)
+1x Palatial Estate
+
+Retainer (1)
+1x Revenant
+
+Reaction (36)
+5x Eagle's Sight
+5x Enhanced Senses
+8x Forced Awakening
+3x My Enemy's Enemy
+4x Precognition
+3x Read the Winds
+3x Spirit's Touch
+5x Telepathic Misdirection
+
+Combat (18)
+7x Breath of the Dragon
+9x Chiropteran Marauder
+2x Inner Essence

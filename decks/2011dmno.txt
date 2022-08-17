@@ -1,0 +1,72 @@
+Danse Macabre
+Newark, Ohio
+February 4th 2011
+2R+F
+22 players
+John Bell
+
+Deck Name: We Are the Land
+
+2gw + 8VP headed into the finals
+
+Description: A breed-and-boon deck which revolves around Guruhi Are
+the Land: a free, versatile card which can provide situational untap,
+extra blood when hunting, or +bleed. Dream World was ridiculously good,
+but in two games getting No Secrets with the Kevlar Vest was the
+game-breaker. For a future build, I would be tempted to include more
+vests and No Secrets after the success it brought me, but the original
+intent was for that to be a side feature of the deck.
+
+Crypt (12 cards, min=16, max=30, avg=5.67)
+------------------------------------------
+2x Sobayifa		8   ANI PRE aus pot pro spi	magaji	Guruhi:3
+2x Aren, Priest of Eshu	7   POT PRE ani obf			Guruhi:4
+1x Batsheva		6   ANI PRE obt pot			Guruhi:4
+1x Batsheva (ADV)	6   ANI PRE obt pot			Guruhi:4
+2x Lumumba		4   PRE ani				Guruhi:4
+2x Urenna Bunu		4   ani pot pre				Guruhi:4
+1x Fish			5   ANI POT pre				Guruhi:4
+1x Fode Kourouma	5   POT ani aus pre			Guruhi:4
+
+Library (90 cards)
+Master (12)
+1x Anarch Troublemaker
+4x Ashur Tablets
+1x Lilith's Blessing
+1x Mbare Market, Harare
+1x Pentex(TM) Subversion
+3x Presence
+1x Sunset Strip, Hollywood
+
+Action (24)
+1x Aranthebes, The Immortal
+3x Bamba
+2x Dream World
+2x Earth-Feeder
+8x Embrace, The
+1x Entrancement
+4x Mind Numb
+3x No Secrets From the Magaji
+
+Equipment (4)
+2x Camera Phone
+1x Kduva's Mask
+1x Kevlar Vest
+
+Political Action (10)
+5x Consanguineous Boon
+1x My Kin Against the World
+4x Overseer
+
+Action Modifier (31)
+7x Change of Target
+2x Edge of the World
+3x Excellent Thirst
+18x Guruhi Are the Land, The
+1x Strange Day
+
+Action Modifier/Reaction (1)
+1x Guruhi Kholo
+
+Combat (8)
+8x Majesty

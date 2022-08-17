@@ -1,0 +1,67 @@
+Praxis Seizure XVI: Turku
+Turku, Finland
+January 17th 2004
+20 players
+Marko Saari
+
+Deck Name: "Ghouls Just Wanna Have Fun"
+
+Description: Toreador! swarm bleed & bloat with War Ghouls module.
+Deck is lightly modified version of winning Menú "Paella y Tortilla de
+Patata" by Iñaki Puigdollers
+
+Crypt (12 cards, min=15, max=23, avg=4.83)
+------------------------------------------
+3x Rose, The			5   PRE VIC aus		Tzimisce:3
+2x Jost Werner			6   AUS PRE ani		Toreador antitribu:2
+2x Creamy Jade			5   PRE aus cel vic	Toreador antitribu:3
+1x Sheila Mezarin		6   AUS PRE cel for	Toreador antitribu:2
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre	Toreador antitribu:2
+1x Lolita Houston		4   VIC aus		Tzimisce:2
+1x Remilliard, Devout Crusader	4   AUS pre		Toreador antitribu:2
+1x Horatio			2   vic			Tzimisce:2
+
+Library (90 cards)
+Master (16)
+2x Anarch Troublemaker
+1x Auspex
+2x Blood Doll
+1x Direct Intervention
+4x Jake Washington
+2x Memories of Mortality
+3x Palla Grande
+1x Vicissitude
+
+Action (24)
+4x Art Scam
+5x Embrace, The
+9x Enchant Kindred
+2x Entrancement
+4x Summoning, The
+
+Ally (5)
+5x War Ghoul
+
+Retainer (5)
+1x J. S. Simmons, Esq.
+2x Marijava Ghoul
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (12)
+6x Change of Target
+6x Changeling
+
+Action Modifier/Combat (5)
+5x Plasmic Form
+
+Reaction (16)
+1x Delaying Tactics
+2x Forced Awakening
+5x My Enemy's Enemy
+4x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (7)
+1x Fake Out
+6x Majesty

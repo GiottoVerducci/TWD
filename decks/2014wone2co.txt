@@ -1,0 +1,57 @@
+Week of Nightmares Event 2
+Columbus, Ohio
+June 9th 2014
+2R+F
+16 players
+Mark Loughman
+
+Deck Name: Ripping Off Ruben
+
+Description: After being demolished by Ruben's turb-Selma deck a few years ago, I built a version of it.
+
+Crypt (12 cards, min=24, max=32, avg=7.33)
+------------------------------------------
+4x Selma the Repugnant		8   OBF POT ani for	 prince	  Nosferatu:1
+2x Gratiano			8   DOM OBT obf pot	 priscus  Lasombra:2
+1x Amisa			8   OBF SER pre pro	 2 votes  Follower of Set:2
+1x Synesios			8   POT PRE TEM obf ser	 2 votes  True Brujah:2
+1x Murat			7   OBF POT ser		 prince	  Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf	 prince	  Nosferatu:2
+1x Calebros, The Martyr		5   ANI obf pot		 prince	  Nosferatu:2
+1x Volker, The Puppet Prince	5   CEL pot		 prince	  Brujah:2
+
+Library (60 cards)
+Master (16; 1 trifle)
+1x Elysium: The Palace of Versailles
+1x Kaymakli Nightmares
+3x Legendary Vampire
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Warsaw Station
+1x Wider View
+7x Zillah's Valley
+
+Political Action (12)
+7x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (20)
+1x Animal Magnetism
+3x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+3x Freak Drive
+2x Lost in Crowds
+4x Old Friends
+1x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (4)
+2x Mental Maze
+2x Second Tradition: Domain
+
+Combat (3)
+3x No Trace

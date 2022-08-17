@@ -1,0 +1,56 @@
+The Comeback
+São Paulo, Brazil
+February 9th 2020
+3R+F
+12 players
+Delmar Sittoni
+https://www.vekn.net/event-calendar/event/9553
+
+-- 2GW8.5 + 4VP in final
+
+Deck Name: Weenie ANI
+
+Description: Traditional mono ani, as aggressive as it can be.
+
+Crypt (12 cards, min=4, max=16, avg=2.33)
+-----------------------------------------
+4x Anarch Convert 1   -none-	   Caitiff:ANY
+1x Lord Ashton	  5   ANI for pro  Gangrel:3
+1x Beetleman	  4   ANI obf	   Nosferatu:4
+1x Bobby Lemon	  4   ANI pro	   Gangrel:3
+1x Bothwell	  3   ani for	   Gangrel:3
+1x Stick	  3   ANI	   Nosferatu antitribu:4
+1x Mouse	  2   ani	   Nosferatu:3
+1x Zip		  2   ani	   Ravnos:3
+1x Lisa Noble	  1   ani	   Caitiff:3
+
+Library (75 cards)
+Master (20; 4 trifle)
+8x Anarch Revolt
+2x Dreams of the Sphinx
+2x Fame
+1x Galaric's Legacy
+1x KRCG News Radio
+2x Parthenon, The
+3x Villein
+1x WMRH Talk Radio
+
+Action (15)
+15x Deep Song
+
+Ally (1)
+1x Carlton Van Wyk
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (36)
+14x Aid from Bats
+1x Canine Horde
+11x Carrion Crows
+1x High Ground
+7x Target Vitals
+2x Taste of Vitae
+
+Event (1)
+1x Narrow Minds

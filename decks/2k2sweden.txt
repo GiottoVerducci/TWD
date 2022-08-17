@@ -1,0 +1,63 @@
+Swedish Open Tournament
+Gothenburg, Sweden
+March 30th 2002
+35 players
+Hans Nemeczek
+
+Deck Name: Pekka-Giovanni
+Created by: Hasse Hare Inc.
+
+Description: bleed-oust-win
+
+Crypt (12 cards, min=17, max=28, avg=5.42)
+------------------------------------------
+2x Isabel Giovanni			    5	DOM NEC pot		Giovanni:2
+2x Le Dinh Tho				    5	NEC aus dom		Nagaraja:2
+2x Gloria Giovanni			    4	DOM nec			Giovanni:2
+1x Enzo Giovanni, Pentex Board of Directors 8	DOM NEC ani pot tha	Giovanni:2
+1x Andrea Giovanni			    7	DOM NEC pot vic		Giovanni:2
+1x Gillespi Giovanni			    7	DOM NEC POT aus		Giovanni:2
+1x Stefano Giovanni			    6	DOM nec pot pre		Giovanni:2
+1x Vittorio Giovanni			    5	dom for nec pot		Giovanni:2
+1x Francesca Giovanni			    4	dom nec pot		Giovanni:2
+
+Library (80 cards)
+Master (13)
+1x Acquired Ventrue Assets
+2x Anarch Troublemaker
+1x Barrens, The
+5x Blood Doll
+1x Dreams of the Sphinx
+1x Jake Washington
+1x Morgue Hunting Ground
+1x Path of Bone, The
+
+Action (15)
+1x Dominate Kine
+2x Ex Nihilo
+9x Govern the Unaligned
+1x Haunt
+2x Scouting Mission
+
+Ally (1)
+1x Leonardo, Mortician
+
+Action Modifier (31)
+5x Bonding
+7x Call of the Hungry Dead
+5x Conditioning
+2x Foreshadowing Destruction
+7x Seduction
+3x Sleeping Mind, The
+2x Threats
+
+Action Modifier/Reaction (5)
+5x Spectral Divination
+
+Reaction (12)
+5x Deflection
+2x Redirection
+5x Wake with Evening's Freshness
+
+Combat (3)
+3x Spiritual Intervention

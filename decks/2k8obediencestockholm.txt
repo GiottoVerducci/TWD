@@ -1,0 +1,67 @@
+Obedience
+Dragon's Lair, Stockholm, Sweden
+March 15th 2008
+17 players
+Ivan Marin-Rivas
+
+Deck Name: Amarvati+Mata_Hari
+
+Description: Amarvati and Mata Hari breed and vote
+
+Crypt (13 cards, min=14, max=32, avg=6.15)
+------------------------------------------
+4x Amaravati	    8	DOM OBF QUI ani chi		 Assamite:4
+3x Mata Hari	    7	CHI OBF aus for qui	2 votes	 Ravnos:4
+1x Olugbenga	    7	OBF QUI ani cel		magaji	 Assamite:4
+1x Vardar Vardarian 6	OBF QUI cel pre			 Assamite:4
+1x Janni	    5	cel for obf qui			 Assamite:4
+1x Michael diCarlo  5	CEL obf qui			 Assamite:4
+1x Ali Kar	    3	obf qui				 Assamite:3
+1x Basir	    1	qui				 Assamite:4
+
+Library (90 cards)
+Master (16; 1 trifle)
+5x Blood Doll
+1x Coven, The
+1x Demonstration
+1x Ferraille
+1x Khabar: Community, The
+4x Perfectionist
+2x Secure Haven
+1x Ventrue Headquarters
+
+Action (17)
+2x Embrace, The
+3x Govern the Unaligned
+2x Khabar: Glory
+10x Web of Knives Recruit
+
+Equipment (1)
+1x Shilmulo Tarot
+
+Political Action (18)
+1x Ancient Influence
+1x Command of the Harpies
+6x Consanguineous Boon
+1x Conservative Agitation
+2x Disputed Territory
+1x Domain Challenge
+1x Justicar Retribution
+5x Kine Resources Contested
+
+Action Modifier (24)
+3x Aura of Invincibility
+6x Bribes
+4x Cloak the Gathering
+2x Conditioning
+2x Elder Impersonation
+4x Faceless Night
+3x Lost in Crowds
+
+Action Modifier/Combat (2)
+2x Mirror Image
+
+Reaction (12)
+4x Black Sunrise
+2x Confusion of the Eye
+6x Deflection

@@ -1,0 +1,78 @@
+Templar
+Game Table Adventures, Newark, Ohio
+March 25th 2012
+2R+F
+17 players
+Brad Cashdollar
+
+Deck Name: Kern's Angry Dragon
+
+Description: Auspex/Obtenebrate Toolbox
+
+Crypt (12 cards, min=22, max=38, avg=7.5)
+-----------------------------------------
+2x Ayelea, The Manipulator 10  AUS DOM OBT THA pre  cardinal	Tremere antitribu:2
+2x Marconius		   9   DOM MYT OBT pot	    archbishop	Kiasyd:2
+2x Bartholomew		   8   AUS MYT NEC dom obt  		Kiasyd:2
+2x Julia Prima		   7   DOM OBT aus myt	    		Kiasyd:2
+2x Béatrice L'Angou	   5   MYT aus dom nec	    		Kiasyd:2
+1x Kassiym Malikhair	   6   MYT OBT dom for	    		Kiasyd:2
+1x Talley, The Hound	   6   OBT POT aus dom	    		Lasombra:2
+
+Library (90 cards)
+Master (13; 5 trifle)
+2x Auspex
+1x Chanjelin Ward
+1x Great Symposium
+1x Hungry Coyote, The
+1x Obtenebration
+2x Ravager
+5x Vessel
+
+Action (18)
+1x Aranthebes, The Immortal
+1x Dominate Kine
+2x Goblinism
+2x Gremlins
+1x Pandora's Whisper
+3x Riddle Phantastique
+1x Scarlet Lore
+5x Scouting Mission
+2x Shadowed Eyes
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Bowl of Convergence
+
+Retainer (1)
+1x Redcap Wilder
+
+Action Modifier (22)
+4x Bonding
+5x Crocodile's Tongue
+2x Nightshades
+1x Shroud of Absence
+5x Stone Travel
+5x Tenebrous Form
+
+Action Modifier/Combat (4)
+4x Fae Contortion
+
+Action Modifier/Reaction (2)
+2x Aura Absorption
+
+Reaction (14)
+6x Deflection
+2x Eyes of Argus
+2x Eyes of the Night
+2x On the Qui Vive
+2x Telepathic Misdirection
+
+Combat (14)
+4x Arms of the Abyss
+2x Darkling Trickery
+2x Earth Swords
+4x Entombment
+2x Shadow Body

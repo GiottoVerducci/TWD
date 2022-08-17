@@ -1,0 +1,66 @@
+Torneo Nocturno
+Badia del Vallès, Spain
+December 15th 2012
+3R+F
+25 players
+Raul Lara Algarra
+
+Deck Name: Cara Roja
+
+Crypt (12 cards, min=22, max=36, avg=7.42)
+------------------------------------------
+4x Gerald Windham   9	AUS DOM FOR THA			    Tremere:5
+3x Polly Kay Fisher 8	AUS DOM THA for pot	archbishop  Ventrue antitribu:4
+3x Graham Gottesman 7	DOM FOR obf pre tha	prince	    Ventrue:5
+1x Claus Wegener    5	DOM aus for tha			    Tremere:5
+1x Keith Moody	    3	DOM				    Tremere antitribu:4
+
+Library (90 cards)
+Master (11; 4 trifle)
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Pentex(TM) Subversion
+2x Perfectionist
+2x Vessel
+1x Villein
+1x Wash
+
+Action (22)
+1x Blood of Sandman
+1x Dominate Kine
+10x Govern the Unaligned
+4x Magic of the Smith
+2x Revelations
+4x Scouting Mission
+
+Equipment (3)
+1x Ankara Citadel, Turkey, The
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Political Action (7)
+1x Anarchist Uprising
+3x Kine Resources Contested
+1x Neonate Breach
+2x Parity Shift
+
+Action Modifier (33)
+5x Bonding
+4x Conditioning
+2x Daring the Dawn
+1x Foreshadowing Destruction
+12x Freak Drive
+1x Kiss of Ra, The
+7x Mirror Walk
+1x Perfect Clarity
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (13)
+4x Deflection
+3x On the Qui Vive
+2x Redirection
+2x Telepathic Misdirection
+2x Wake with Evening's Freshness

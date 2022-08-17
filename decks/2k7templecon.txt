@@ -1,0 +1,69 @@
+Templecon Friday
+Providence, Rhode Island
+February 16th 2007
+15 players
+Ben Peal
+
+Deck Name: Unacceptable Boon
+
+Description: Yet another in my line of breed-boon decks. This one
+was born from a conversation with Brian Moritz at the 2006 NAC, where
+he mentioned using Unacceptable Appearance on your own !Nos. Legacy
+of Pander is the clear use of this, so I adapted my breed-boon
+template to !Nos-Pander. Greensleeves and Lukas (whose appearances on
+their cards are already unacceptable) get UA, then make Creation Rites
+babies. You eventually play Legacy of Pander for killer vote lock,
+and call Consanguineous Boons and KRCs. I didn't notice until after
+the fact that Lukas has inferior Serpentis, so throw in a couple
+Temptations or a Form of Corruption for added fun. Thanks to Matt
+Hirsch for running the event, and thanks to Grant, Ximon, and the
+staff of TempleCon for having us!
+
+Crypt (12 cards, min=4, max=31, avg=4.25)
+-----------------------------------------
+3x Lukas	 8   ANI OBF POT pre ser  archbishop	Nosferatu antitribu:4
+3x Greensleeves	 7   ANI OBF for pot	  priscus	Nosferatu antitribu:4
+1x Feo Ramos	 1   aus		  		Pander:3
+1x Jaggedy Andy	 1   pot		  		Pander:4
+1x Kai Simmons	 1   cel		  		Pander:4
+1x Margarite	 1   obt		  		Pander:4
+1x Olga Triminov 1   vic		  		Pander:3
+1x Schuyler	 1   tha		  		Pander:4
+
+Library (90 cards)
+Master (21; 1 trifle)
+1x Barrens, The
+4x Blood Doll
+1x Coven, The
+1x Creepshow Casino
+1x Día de los Muertos
+1x Direct Intervention
+5x Obfuscate
+1x Powerbase: Madrid
+6x Unacceptable Appearance
+
+Action (11)
+9x Creation Rites
+2x Psychic Veil
+
+Political Action (26)
+8x Consanguineous Boon
+1x Crusade: Detroit
+11x Kine Resources Contested
+6x Legacy of Pander
+
+Action Modifier (27)
+6x Animal Magnetism
+4x Cloak the Gathering
+3x Domain of Evernight
+2x Elder Impersonation
+3x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Event (1)
+1x Break the Code

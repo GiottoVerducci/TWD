@@ -1,0 +1,66 @@
+Justicar Retribution XV - Love Will Tear Us Apart
+Helsinki, Finland
+May 26th 2013
+3R+F
+16 players
+Marko Lindroos
+
+-- 4VP in final
+
+Deck Name: Lilith ain't blessing anymore, but Dmitra can give you a kiss
+
+Player: Marko Lindroos
+
+Crypt (12 cards, min=25, max=36, avg=7.58)
+------------------------------------------
+4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+3x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+3x Tara		   6   POT PRE cel	    prince	Brujah:5
+2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+
+Library (70 cards)
+Master (18; 5 trifle)
+1x Coven, The
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+2x Information Highway
+2x Legendary Vampire
+2x New Carthage
+2x Pentex(TM) Subversion
+1x Temptation of Greater Power
+4x Villein
+
+Action (4)
+3x Entrancement
+1x Judgment: Camarilla Segregation
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+5x Kine Resources Contested
+1x My Kin Against the World
+5x Parity Shift
+
+Action Modifier (12)
+2x Forced March
+4x Iron Glare
+1x Kiss of Ra, The
+2x Tangle Atropos' Hand
+3x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (6)
+6x Second Tradition: Domain
+
+Combat (8)
+8x Majesty

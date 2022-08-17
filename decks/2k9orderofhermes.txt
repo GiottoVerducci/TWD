@@ -1,0 +1,63 @@
+Order of Hermes Cabal MQ
+Newark, Ohio
+September 4th 2009
+28 players
+Jay Kristoff
+
+-- 4VP in final
+
+Malk Value Vote
+
+Crypt (12 cards, min=11, max=28, avg=4.83)
+------------------------------------------
+2x Gilbert Duane    7	AUS DOM OBF	 prince	 Malkavian:1
+2x Greger Anderssen 7	AUS OBF dom pro	 prince	 Malkavian:2
+2x Zöe		    3	AUS cel obf	 	 Malkavian:2
+1x Dancin' Dana	    6	AUS cel obf	 	 Malkavian:1
+1x Victoria	    5	AUS cel obf	 	 Malkavian:2
+1x Zebulon	    5	OBF aus dom pro	 	 Malkavian:1
+1x Dollface	    3	aus obf		 	 Malkavian:1
+1x Watenda	    3	obf		 	 Malkavian:2
+1x Normal	    2	obf		 	 Malkavian:1
+
+Library (60 cards)
+Master (7)
+1x Barrens, The
+4x Effective Management
+1x Grooming the Protégé
+1x Malkavian Prank
+
+Action (3)
+1x Conceal
+2x Night Moves
+
+Political Action (20)
+2x Consanguineous Boon
+4x Conservative Agitation
+1x Disputed Territory
+1x Domain Challenge
+1x Justicar Retribution
+4x Kine Resources Contested
+2x Malkavian Justicar
+2x Parity Shift
+1x Praxis Seizure: Athens
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Glasgow
+
+Action Modifier (18)
+2x Cryptic Rider
+2x Faceless Night
+6x Forgotten Labyrinth
+2x Lost in Crowds
+4x Telepathic Vote Counting
+2x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (10)
+1x Confusion of the Eye
+1x Malkavian Rider Clause
+2x On the Qui Vive
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness

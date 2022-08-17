@@ -1,0 +1,67 @@
+Torneo en Badia
+Badia del valles, Barcelona, Spain
+February 28th 2010
+3R+F
+39 players
+Jordi Tomás
+
+Deck Name: Paella au d'Erlette
+Created by: Ignasi Vilagrasa
+
+0.5+3VP+3VP + 3.5VP in final
+
+Crypt (12 cards, min=10, max=20, avg=3.92)
+------------------------------------------
+4x Antonio d'Erlette	  5   THA dom for pot	   Tremere antitribu:4
+1x Cristos Mantigo	  5   aus cel dom obf pre  Toreador antitribu:3
+1x L'Épuisette		  4   aus cel pro	   Toreador antitribu:4
+1x Loonar		  4   PRE cel		   Toreador antitribu:4
+1x Sabrina		  4   aus cel pre	   Toreador antitribu:3
+1x Jonathan Gursel	  3   aus pre		   Toreador antitribu:4
+1x Monique Kim		  3   aus cel		   Toreador antitribu:4
+1x Justine Chen, Innocent 2   pre		   Toreador antitribu:4
+1x Nicholas Chang	  2   aus		   Toreador antitribu:3
+
+Library (73 cards)
+Master (15; 4 trifle)
+1x Anarch Troublemaker
+2x Direct Intervention
+1x Fortschritt Library
+1x Jake Washington
+4x Life in the City
+1x Not to Be
+3x Palla Grande
+1x Pentex(TM) Subversion
+1x Secure Haven
+
+Action (15)
+1x Aranthebes, The Immortal
+10x Art Scam
+4x Embrace, The
+
+Ally (10)
+1x Carlton Van Wyk
+1x Gregory Winter
+6x Nephandus
+1x Ossian
+1x Young Bloods
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (6)
+6x Change of Target
+
+Reaction (14)
+7x Deflection
+3x Delaying Tactics
+4x On the Qui Vive
+
+Combat (8)
+4x Dodge
+4x Target Vitals
+
+Event (4)
+1x FBI Special Affairs Division
+1x Slow Withering, The
+2x Unmasking, The

@@ -1,0 +1,70 @@
+GenCon NAC Qualifier
+Indianapolis, Indiana
+August 13th 2006
+3R+F
+27 players
+Josh Duffin
+
+Deck Name: 2006_08_10_all_powerful
+
+Crypt (12 cards, min=12, max=20, avg=4)
+---------------------------------------
+2x Jennie "Cassie247" Orne	 5   inn jud viz  Visionary:4
+2x Travis "Traveler72" Miller	 5   def mar	  Martyr:4
+2x Inez "Nurse216" Villagrande	 3   inn	  Innocent:4
+1x Erick "Shophet125" Franco	 4   inn jud	  Judge:4
+1x Jack "Hannibal137" Harmon	 4   def jud	  Defender:4
+1x Lupe "Cabbie22" Droin	 4   def ven	  Defender:4
+1x Xian "DziDzat155" Quan	 4   def inn	  Defender:4
+1x Béatrice "Oracle171" Tremblay 3   inn ven	  Innocent:4
+1x François "Warden" Loehr	 3   def jud	  Judge:4
+
+Library (90 cards)
+Master (32)
+5x Angel of Berlin -- On the Qui Vive will be nice to add...
+1x Barrens, The
+2x Brothers Grimm -- really strong card in master-heavy decks
+1x Channel 10
+2x Church of Vindicated Faith, The
+4x Direct Intervention -- think 3x DI 3x Sudden might be better
+2x Effective Management
+1x Fortschritt Library
+2x Information Highway
+1x KRCG News Radio
+2x Memories of Mortality -- more of these instead of Misdirection?
+2x Misdirection -- only advantages: taps an ally, or vs bleed-bounce
+2x Parthenon, The
+1x Rose Foundation, The
+1x Smiling Jack, The Anarch -- to contest, potentially
+2x Sudden Reversal
+1x Vigil: The Thin Line
+
+Conviction (18)
+6x React with Conviction
+6x Second Sight
+6x Strike with Conviction
+
+Ally (2)
+2x Vagabond Mystic -- in case not everyone can get a Rejuvenate
+
+Equipment (9)
+4x .44 Magnum -- probably don't need this many, discarded several
+1x Crusader Sword, The
+1x Ivory Bow
+3x Sport Bike -- didn't have these last time, great with Angel
+
+Power (24)
+3x Champion -- really strong, e.g. vs Stanislava
+5x Discern -- more Sport Bikes for free!
+1x Foresee -- never used on the day
+1x Hide -- useful a few times
+1x Inspire -- great with Inez, used all the time
+1x Project -- never used on the day, good in theory though
+5x Rejuvenate -- key card, keeps you out of incapacitated
+2x Surge -- never used on the day, not much combat around
+5x Vigilance -- great for second action and for double-blocking
+
+Event (5)
+1x Anthelios, The Red Star
+2x Edge Explosion -- I didn't want to run too much Gehenna and
+2x Unmasking, The -- get the table too mad at me...

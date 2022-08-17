@@ -1,0 +1,55 @@
+Infernal Pursuit
+Castro Valley, California
+September 10th 2011
+2R+F
+16 players
+Gerentt Chan
+
+-- 3VP in final
+
+Deck Name: Dmitra Alastor v. 3 - Always Bring a Gun to a Bloodfeud
+
+Crypt (12 cards, min=26, max=36, avg=7.83)
+------------------------------------------
+5x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+3x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+2x Tara		   6   POT PRE cel	    prince	Brujah:5
+
+Library (80 cards)
+Master (13; 2 trifle)
+2x Dreams of the Sphinx
+2x Fame
+1x Fortitude
+1x Giant's Blood
+2x Information Highway
+1x New Carthage
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+2x Villein
+
+Equipment (3)
+3x Assault Rifle
+
+Political Action (13)
+7x Alastor
+3x Anathema
+3x Parity Shift
+
+Action Modifier (18)
+8x Forced March
+2x Into Thin Air
+4x Iron Glare
+4x Perfect Paragon
+
+Action Modifier/Combat (6)
+6x Resist Earth's Grasp
+
+Reaction (11)
+2x Lost in Translation
+9x Second Tradition: Domain
+
+Combat (16)
+3x Armor of Vitality
+7x Psyche!
+6x Taste of Vitae

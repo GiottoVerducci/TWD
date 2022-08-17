@@ -1,0 +1,57 @@
+Crusade: Budapest
+Paris, France
+October 20th 2012
+3R+F
+14 players
+Mehdi Mazni
+
+-- 4VP in final
+
+Crypt (12 cards, min=8, max=20, avg=3.67)
+-----------------------------------------
+2x Stick		3   ANI				Nosferatu antitribu:4
+1x Céleste Lamontagne	5   ANI PRO for			Gangrel antitribu:4
+1x Effie Lowery		5   ANI SPI obf			Ahrimane:4
+1x Fish			5   ANI POT pre			Guruhi:4
+1x Petra		5   ANI OBF aus			Nosferatu:4
+1x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
+1x Beetleman		4   ANI obf			Nosferatu:4
+1x Bobby Lemon		4   ANI pro			Gangrel:3
+1x Mouse		2   ani				Nosferatu:3
+1x Zip			2   ani				Ravnos:3
+1x Lisa Noble		1   ani				Caitiff:3
+
+Library (90 cards)
+Master (10)
+4x Blood Doll
+1x Dark Influences
+1x Fame
+2x Pentex(TM) Subversion
+2x Powerbase: Montreal
+
+Action (14)
+1x Aranthebes, The Immortal
+1x Army of Rats
+12x Deep Song
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (7)
+7x Raven Spy
+
+Reaction (17)
+5x Cats' Guidance
+2x Delaying Tactics
+6x Forced Awakening
+4x On the Qui Vive
+
+Combat (40)
+18x Aid from Bats
+3x Canine Horde
+12x Carrion Crows
+3x Pack Alpha
+4x Taste of Vitae
+
+Event (1)
+1x Uncoiling, The

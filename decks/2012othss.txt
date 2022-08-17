@@ -1,0 +1,56 @@
+Outside the Hourglass
+Stockholm, Sweden
+August 4th 2012
+2R+F
+15 players
+Jonas Eriksson
+
+Deck Name: DEM bleed
+Created by: Idea by Donk, corrected by Randyman
+
+-- GW5 + 1 + 5VP in final
+
+Description: "The idea is that in our current meta there are many
+slow decks that relies on Zillah's, and when I always have a Sudden
+Reversal to counter it they are too slow to stop me. It's also very
+nice to counter the, seemingly, endless pool gain/deck optimization
+from Ashur Tablets. Any changes would probably be to switch Dreams
+for another Touch of clarity, if I had it."
+
+Crypt (12 cards, min=9, max=19, avg=3.42)
+-----------------------------------------
+3x Jackie			3   DEM			Malkavian antitribu:4
+2x Midget			3   DEM obf pre		Malkavian antitribu:3
+1x Apache Jones			5   DEM aus for obf	Malkavian antitribu:4
+1x Persia, The Beautiful Statue	5   DEM aus obf		Malkavian:3
+1x Uncle George			5   DEM aus dom obf	Malkavian antitribu:3
+1x Adelaide Davis		4   aus dem obf		Malkavian:3
+1x Beauregard Krueller		4   aus dem obf		Malkavian antitribu:4
+1x Cassandra Langely, The Waif	2   dem			Malkavian:4
+1x Eddie Gaines			1   dem pot		Caitiff:3
+
+Library (60 cards)
+Master (11)
+2x Dementation
+1x Dreams of the Sphinx
+8x Sudden Reversal
+
+Action (16)
+16x Kindred Spirits
+
+Action Modifier (23)
+1x Cloak the Gathering
+8x Confusion
+8x Eyes of Chaos
+1x Lost in Crowds
+5x Mind Tricks
+
+Action Modifier/Combat (7)
+7x Deny
+
+Action Modifier/Reaction (1)
+1x Touch of Clarity
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

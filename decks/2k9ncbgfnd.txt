@@ -1,0 +1,65 @@
+New Carthage Burning
+Grand Forks, North Dakota
+April 18th 2009
+2R+F
+12 players
+Forrest Hyppa
+
+-- 5VP in final
+
+Deck Name: Brujah vote
+
+Description: Standard vote base with the ability to achieve
+consistent +2 stealth on votes. Combat is mainly deterrence combat.
+The deck can also bleed heavy when it plays its New Carthage.
+
+Crypt (12 cards, min=18, max=42, avg=7.5)
+-----------------------------------------
+3x Adana de Sforza	11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+2x Dmitra Ilyanova	9   CEL FOR POT PRE obf		justicar	Brujah:5
+1x Carlak		8   CEL PRE dom pot		prince		Brujah:5
+1x Karen Suadela	7   CEL POT obf pre		prince		Brujah:5
+1x Mustafa, The Heir	6   FOR PRE cel dom		prince		Ventrue:4
+1x Tara			6   POT PRE cel			prince		Brujah:5
+1x Tomaine		6   CEL POT PRE			primogen	Brujah:4
+1x Reginald Moore	4   PRE				primogen	Brujah:4
+1x Clifton Derrik	2   cel						Brujah:4
+
+Library (90 cards)
+Master (16)
+1x Archon Investigation
+3x Celerity
+1x Elysium: The Palace of Versailles
+2x Information Highway
+6x Minion Tap
+1x New Carthage
+1x Powerbase: Montreal
+1x Warzone Hunting Ground
+
+Action (1)
+1x Charming Lobby
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (17)
+4x Consanguineous Boon
+12x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (17)
+7x Bewitching Oration
+1x Enkil Cog
+2x Perfect Paragon
+7x Voter Captivation
+
+Action Modifier/Combat (9)
+9x Resist Earth's Grasp
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (21)
+1x Acrobatics
+10x Stutter-Step
+10x Torn Signpost

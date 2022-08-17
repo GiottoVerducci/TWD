@@ -1,0 +1,70 @@
+Unacceptable Appearance
+Halmstad, Sweden
+October 20th 2001
+17 players
+Henrik Oscarsson
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/iMKMHbqeThU
+
+Deck Name: Pander Votemonster deck
+Created by: Henrik Oscarsson
+
+Crypt (12 cards, min=4, max=10, avg=1.75)
+-----------------------------------------
+1x Lena Rowe		    3	aus obf pre	Pander:2
+1x Rex, The Necronomist	    3	pot pro vic	Pander:2
+1x Christine Boscacci	    2	dom vic		Pander:2
+1x Frederick the Weak	    2	pre		Brujah antitribu:2
+1x Gillian Krader	    2	ani dem		Pander:2
+1x Mitchell, The Headhunter 2	obt pot		Pander:2
+1x Samson		    2	dom		Ventrue antitribu:2
+1x Angela Decker	    1	pre		Pander:2
+1x Basil		    1	obf		Pander:2
+1x Huang, Blood Cultist	    1	pro		Pander:2
+1x March Halcyon	    1	for		Pander:2
+1x Royce		    1	dom		Pander:2
+
+Library (90 cards)
+Master (15)
+1x Archon Investigation
+1x Club Zombie
+1x Creepshow Casino
+2x Direct Intervention
+2x Effective Management
+1x Obfuscate
+2x Powerbase: Madrid
+2x Protected Resources
+1x Purchase Pact
+2x Sudden Reversal
+
+Political Action (53)
+6x Consanguineous Boon
+14x Conservative Agitation
+1x Crusade: Chicago
+1x Crusade: Detroit
+2x Crusade: Houston
+1x Crusade: Mexico City
+1x Crusade: Miami
+1x Crusade: Philadelphia
+2x Crusade: Pittsburgh
+2x Crusade: Toronto
+4x Disputed Territory
+2x Dramatic Upheaval
+11x Kine Resources Contested
+3x Legacy of Pander
+2x Rumors of Gehenna
+
+Action Modifier (11)
+1x Bewitching Oration
+2x Bribes
+3x Change of Target
+2x Cloak the Gathering
+1x Cryptic Rider
+2x Private Audience
+
+Reaction (4)
+2x Deflection
+2x Delaying Tactics
+
+Combat (7)
+5x Dodge
+2x Majesty

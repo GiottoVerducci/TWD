@@ -1,0 +1,71 @@
+Lessons in the Steel
+Stockholm, Sweden
+August 23rd 2014
+2R+F
+10 players
+Henrik Klippström
+https://www.vekn.net/event-calendar/event/7757
+
+-- 5VP in final
+
+Deck Name: Obey the Tremere in Stockholm
+
+Comments: Based on Rudolf Garskis deck http://www.secretlibrary.info/index.php?deck=view&id=12676
+Jake and Ponticulus are Stockholm metagame choices - and both Beast and Tupdogs were at the final table.
+
+Crypt (12 cards, min=36, max=42, avg=9.58)
+------------------------------------------
+3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot	justicar	Tremere:5
+2x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+2x Dr. John Dee		 9   ANI AUS DOM THA chi	prince		Tremere:4
+2x Malgorzata		 9   AUS DOM THA VIC pre	priscus		Tremere antitribu:4
+2x Orlando Oriundus	 9   AUS DOM THA obf		bishop		Tremere antitribu:4
+1x Gerald Windham	 9   AUS DOM FOR THA				Tremere:5
+
+Library (80 cards)
+Master (20; 7 trifle)
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Jake Washington
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+6x Villein
+1x Wider View
+4x Zillah's Valley
+
+Action (6)
+2x Far Mastery
+4x Mind Rape
+
+Ally (1)
+1x Ponticulus
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+3x Kine Resources Contested
+5x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (16)
+3x Conditioning
+1x Enkil Cog
+3x Into Thin Air
+9x Mirror Walk
+
+Reaction (21)
+3x Deflection
+4x Eyes of Argus
+7x Obedience
+4x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Event (1)
+1x Scourge of the Enochians

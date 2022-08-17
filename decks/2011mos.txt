@@ -1,0 +1,67 @@
+Mellandagsturnering (Boxing week tournament)
+Örebro, Sweden
+December 27th 2011
+3R+F
+22 players
+Erik Torstensson
+
+Deck Name: instead of lots
+
+high caps instead of low caps
+infernal pursuit instead of liquidation
++1 bleed instead of -1 stealth on every action she performs against
+a Methuselah who controls a ready bishop or archbishop
+mono celerity instead
+combat instead of combat ends
+volker instead of anneke
+giant's blood during master phase instead of discard phase
+
+Crypt (12 cards, min=26, max=43, avg=8.58)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom		prince		Toreador:1
+3x Alexandra			11  ANI AUS CEL PRE dom		inner circle	Toreador:2
+2x Volker, The Puppet Prince	5   CEL pot			prince		Brujah:2
+1x Anneke			10  AUS CEL PRE dom		justicar	Toreador:1
+1x François Villon		10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Marcellus			8   AUS CEL pro			prince		Toreador:2
+
+Library (79 cards)
+Master (34; 6 trifle)
+9x Ashur Tablets
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+2x Giant's Blood
+4x Haven Uncovered
+1x Information Highway
+1x Lilith's Blessing
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+6x Villein
+6x Zillah's Valley
+
+Action (4)
+2x Big Game
+2x Bum's Rush
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (2)
+1x Ancient Influence
+1x Reins of Power
+
+Reaction (6)
+6x Second Tradition: Domain
+
+Combat (25)
+1x Blur
+6x Concealed Weapon
+9x Infernal Pursuit
+4x Psyche!
+3x Pursuit
+2x Taste of Vitae
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dragonbound

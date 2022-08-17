@@ -1,0 +1,59 @@
+Powerbase: Los Angeles Event #3
+Courtois VTES Palace, Los Angeles, California
+May 28th 2006
+20 players
+Nat Hammond
+
+Deck Name: Toreador Elders
+
+Crypt (14 cards, min=30, max=42, avg=9)
+---------------------------------------
+2x Alexandra		11  ANI AUS CEL PRE dom		inner circle	Toreador:2
+2x Anneke		10  AUS CEL PRE dom		justicar	Toreador:1
+2x François Villon	10  AUS CEL PRE chi obf pot	prince		Toreador:2
+2x Klaus van der Veken	9   CEL PRE aus obf tha		prince		Toreador:2
+2x Anson		8   CEL PRE aus dom		prince		Toreador:1
+2x Marcellus		8   AUS CEL pro			prince		Toreador:2
+2x Tatiana Romanov	7   AUS cel pre			prince		Toreador:1
+
+Library (90 cards)
+Master (17)
+2x Aching Beauty
+1x Art Museum
+2x Blood Doll
+3x Carnivale
+1x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Giant's Blood
+6x Minion Tap
+
+Action (10)
+4x Flurry of Action
+5x Fourth Tradition: The Accounting
+1x Sanguine Instruction
+
+Political Action (14)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Consanguineous Boon
+4x Kine Resources Contested
+4x Parity Shift
+1x Political Stranglehold
+1x Toreador Justicar
+
+Action Modifier (21)
+4x Aire of Elation
+4x Approximation of Loyalty
+4x Bewitching Oration
+4x Crocodile's Tongue
+5x Voter Captivation
+
+Reaction (12)
+3x My Enemy's Enemy
+4x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (16)
+4x Flash
+8x Majesty
+4x Sideslip

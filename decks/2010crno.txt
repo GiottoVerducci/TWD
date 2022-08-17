@@ -1,0 +1,63 @@
+Constant Revolution
+Newark, Ohio
+February 9th 2010
+2R+F
+15 players
+John Bell
+
+-- 2.5VP in final
+
+Deck Name: Putting "The Dominate" in Indominatability
+
+I played a similar deck a number of years ago at Origins. That deck revolved
+more around the combat aspect itself, using Animalism for Drawing Out the Beast.
+Camera Phone seems to be my new favorite card and I keep wanting to put them
+in most of my decks.
+
+The deck was definitely supposed to have 2 Graverobbing. It's a huge mistake,
+since that was the inspiration for me to change the deck in the first place.
+I'd probably drop a Superior Mettle and a Rapid Healing for them.
+
+Crypt (12 cards, min=8, max=16, avg=3.17)
+-----------------------------------------
+2x Ingrid Russo		4   DOM for	 Ventrue antitribu:2
+2x Katherine Stoddard	4   dom for	 Ventrue antitribu:3
+2x Peter Blaine		4   aus dom for	 Ventrue antitribu:2
+2x March Halcyon	1   for		 Pander:2
+1x Juan Cali		3   aus for	 Ventrue antitribu:2
+1x Leon			3   ani for	 Gangrel antitribu:2
+1x Lolita		3   for pre	 Toreador antitribu:2
+1x Muse			3   ani for mel	 Daughter of Cacophony:2
+
+Library (90 cards)
+Master (13)
+6x Blood Doll
+1x Demonstration
+4x Fortitude
+2x Hungry Coyote, The
+
+Action (16)
+4x Bum's Rush
+4x Harass
+8x Rapid Healing
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ossian
+
+Equipment (5)
+5x Camera Phone
+
+Action Modifier (8)
+2x Conditioning
+6x Freak Drive
+
+Reaction (4)
+4x Deflection
+
+Combat (42)
+17x Indomitability
+3x Pulled Fangs
+4x Superior Mettle
+9x Trap
+9x Undead Persistence

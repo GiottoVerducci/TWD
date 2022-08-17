@@ -1,0 +1,65 @@
+EC 2005 - Last Chance Qualifier
+Budapest, Hungary
+November 5th 2005
+3R+F
+150 players
+Jay Kristoff
+
+Sabbatspex 2005
+
+Crypt (12 cards, min=11, max=20, avg=4.08)
+------------------------------------------
+1x Billy			   5   AUS dom for		Ventrue antitribu:2
+1x Colonel, The			   5   AUS cel dem obf		Malkavian antitribu:3
+1x Devin Bisley			   5   ANI AUS vic		Tzimisce:2
+1x Elizabeth Westcott		   5   AUS ani cel vic		Tzimisce:3
+1x General Perfidio Díos	   5   AUS dem obf	bishop	Malkavian antitribu:3
+1x Mercy, Knight Inquisitor	   5   AUS cel dom pre		Toreador antitribu:2
+1x Idalia, Prophet of Guadalajara  4   AUS dem			Malkavian antitribu:2
+1x Remilliard, Devout Crusader	   4   AUS pre			Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha			Tremere antitribu:2
+1x Wendy Wade			   3   ani aus			Tzimisce:2
+1x Nicholas Chang		   2   aus			Toreador antitribu:3
+1x Piotr Andreikov		   2   aus			Tzimisce:3
+
+Library (90 cards)
+Master (15)
+1x Barrens, The
+6x Blood Doll
+2x Effective Management
+1x Hungry Coyote, The
+1x Metro Underground
+1x Pentex(TM) Subversion
+1x Police Department
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+
+Action (13)
+4x Anima Gathering
+1x Arson
+4x Atonement
+4x Zillah's Tears
+
+Ally (8)
+6x Procurer
+2x War Ghoul
+
+Equipment (7)
+5x .44 Magnum
+1x Bowl of Convergence
+1x Palatial Estate
+
+Action Modifier (4)
+4x Change of Target
+
+Reaction (34)
+4x Delaying Tactics
+4x Eagle's Sight
+4x Enhanced Senses
+6x Forced Awakening
+10x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (9)
+4x Aura Reading
+5x Concealed Weapon

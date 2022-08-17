@@ -1,0 +1,56 @@
+Norwegian ECQ
+Flekkefjord, Norway
+July 26th 2008
+3R+F
+17 players
+Mats Ingdal
+
+Deck Name: where did that anarch go?
+
+Crypt (14 cards, min=4, max=19, avg=2.79)
+-----------------------------------------
+4x Anarch Convert	1   -none-	 Caitiff:ANY
+3x Toby			5   ani obf pre	 Nosferatu:4
+1x Abebe		4   nec obf thn	 Samedi:4
+1x Jeffrey Mullins	4   OBF cel	 Gangrel antitribu:4
+1x Blister		3   obf pot	 Nosferatu antitribu:4
+1x Clarissa Steinburgen	3   ani obf	 Nosferatu:3
+1x Bloodfeud		2   obf		 Malkavian antitribu:4
+1x Denette Stensen	2   obf		 Gangrel antitribu:4
+1x Krid			2   obf		 Nosferatu:3
+
+Library (76 cards)
+Master (21; 5 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+3x Club Illusion
+1x Coven, The
+1x Hospital Food
+4x Life in the City
+1x Pentex(TM) Subversion
+5x Tribute to the Master
+4x Twilight Camp
+
+Action (5)
+5x Keystone Kine
+
+Ally (5)
+5x Cry Wolf
+
+Equipment (4)
+4x Camera Phone
+
+Action Modifier (30)
+5x Cloak the Gathering
+5x Domain of Evernight
+5x Faceless Night
+5x Lost in Crowds
+5x Monkey Wrench
+5x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (6)
+3x Delaying Tactics
+3x On the Qui Vive

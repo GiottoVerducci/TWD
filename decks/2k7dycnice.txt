@@ -1,0 +1,67 @@
+Do you couscous 2007?
+Nice, France
+March 17th 2007
+3R+F
+18 players
+Orian Gissler
+
+Deck Name: Gepetto Giovanni
+Created by: Tweak of Orian Gissler on a deck of Jayant Sen Gupta
+
+Crypt (12 cards, min=10, max=26, avg=4.58)
+------------------------------------------
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Rudolfo Giovanni	3   NEC			Giovanni:2
+1x Gillespi Giovanni	7   DOM NEC POT aus	Giovanni:2
+1x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+1x Nedal, The Careless	1   cel nec		Caitiff:3
+
+Library (90 cards)
+Master (12)
+3x Acquired Ventrue Assets
+5x Blood Doll
+1x Charisma
+1x Dis Pater
+1x Pentex(TM) Subversion
+1x Tower of London
+
+Action (11)
+1x Far Mastery
+8x Govern the Unaligned
+2x Sudario Refraction
+
+Ally (12)
+1x Ambrosius, The Ferryman
+1x Brigitte Gebauer
+1x Leonardo, Mortician
+8x Puppeteer
+1x Shambling Hordes
+
+Action Modifier (26)
+5x Call of the Hungry Dead
+7x Conditioning
+2x Foreshadowing Destruction
+4x Seduction
+8x Shroud Mastery
+
+Action Modifier/Combat (2)
+2x Breath of Thanatos
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (16)
+7x Deflection
+6x Delaying Tactics
+2x On the Qui Vive
+1x Redirection
+
+Combat (5)
+5x Spiritual Intervention
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

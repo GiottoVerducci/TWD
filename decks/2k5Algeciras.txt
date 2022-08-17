@@ -1,0 +1,76 @@
+Praxis Seizure: Algeciras
+Algeciras
+March 22nd 2005
+15 players
+Francisco Javier Medina
+
+"Vincent Seaswerve"
+
+Crypt (12 cards, min=26, max=37, avg=7.58)
+------------------------------------------
+3x Lucian		10  AUS DOM OBF cel tha	 justicar  Malkavian:1
+3x Gilbert Duane	7   AUS DOM OBF		 prince	   Malkavian:1
+2x Greger Anderssen	7   AUS OBF dom pro	 prince	   Malkavian:2
+2x Mariel, Lady Thunder	7   DOM OBF aus tha	 	   Malkavian:1
+1x Korah		7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
+1x Le Dinh Tho		5   NEC aus dom		 	   Nagaraja:2
+
+Library (90 cards)
+Master (13)
+1x Asylum Hunting Ground
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Giant's Blood
+1x Millicent Smith, Puritan Vampire Hunter
+1x Minion Tap
+1x Rack, The
+1x Secure Haven
+1x Sudden Reversal
+1x Vast Wealth
+
+Action (9)
+1x Derange
+6x Govern the Unaligned
+2x Graverobbing
+
+Equipment (8)
+1x .44 Magnum
+1x Assault Rifle
+1x Bowl of Convergence
+2x Deer Rifle
+1x Flamethrower
+1x Ivory Bow
+1x Rowan Ring
+
+Political Action (13)
+1x Alastor
+1x Archon
+1x Consanguineous Boon
+6x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (14)
+4x Crocodile's Tongue
+2x Elder Impersonation
+1x Forgotten Labyrinth
+2x Lost in Crowds
+2x Seduction
+1x Spying Mission
+2x Telepathic Vote Counting
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (17)
+5x Deflection
+2x Eagle's Sight
+5x Second Tradition: Domain
+2x Spirit's Touch
+3x Wake with Evening's Freshness
+
+Combat (13)
+2x Aura Reading
+4x Behind You!
+5x Disguised Weapon
+2x Gemini's Mirror

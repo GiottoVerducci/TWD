@@ -1,0 +1,67 @@
+Campeonato Extra 02
+Fortaleza, Brazil
+May 2nd 2015
+3R+F
+13 players
+Bruno Patrício Silva Pontes
+https://www.vekn.net/event-calendar/event/8090
+
+-- 2VP in final
+
+Deck Name: Horda Psicopata
+
+Crypt (12 cards, min=20, max=39, avg=7.58)
+------------------------------------------
+3x Regina Giovanni, The Right Hand of Augustus	10  DOM NEC POT aus for	 2 votes  Giovanni:2
+3x Lisandro Giovanni				9   DOM FOR NEC POT THN	 	  Giovanni:3
+2x Andrea Giovanni				7   DOM NEC pot vic	 	  Giovanni:2
+1x Carlotta Giovanni				7   NEC POT dom obf	 	  Giovanni:2
+1x Isabel Giovanni				5   DOM NEC pot		 	  Giovanni:2
+1x Vittorio Giovanni				5   dom for nec pot	 	  Giovanni:2
+1x Rudolfo Giovanni				3   NEC			 	  Giovanni:2
+
+Library (90 cards)
+Master (22; 6 trifle)
+1x Archon Investigation
+1x Barrens, The
+2x Charisma
+2x Fortschritt Library
+2x Golconda: Inner Peace
+2x Path of Bone, The
+4x Perfectionist
+1x Tower of London
+4x Vessel
+1x Wall Street Night, Financial Newspaper
+2x Wash
+
+Ally (33)
+1x Ambrosius, The Ferryman
+1x Carlton Van Wyk
+3x Gianna di Canneto
+2x Mylan Horseed
+2x Neighborhood Watch Commander
+1x Ossian
+5x Procurer
+17x Shambling Hordes
+1x Tye Cooper
+
+Equipment (2)
+2x Unlicensed Taxicab
+
+Action Modifier (9)
+3x Call of the Hungry Dead
+6x Freak Drive
+
+Action Modifier/Reaction (3)
+3x Spectral Divination
+
+Reaction (13)
+6x Deflection
+7x On the Qui Vive
+
+Combat (6)
+6x Glancing Blow
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

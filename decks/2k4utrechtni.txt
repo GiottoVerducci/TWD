@@ -1,0 +1,62 @@
+The New Inquisition
+Utrecht, Netherlands
+May 31st 2004
+3R+F
+14 players
+Bram Vink
+
+Winning player = Bram Vink
+Deck creator = Peter Bouwman
+
+Crypt (12 cards, min=23, max=33, avg=7)
+---------------------------------------
+3x Greta Kircher	7   AUS CEL PRE obf	 		Toreador antitribu:2
+2x Jessica (ADV)	8   AUS CEL OBT PRE	 bishop		Toreador antitribu:2
+2x Jost Werner		6   AUS PRE ani		 		Toreador antitribu:2
+1x Aristotle de Laurent	9   AUS DEM OBF PRE pot	 		Malkavian antitribu:3
+1x Lachlan, Noddist	8   AUS CEL PRE dom	 archbishop	Toreador antitribu:2
+1x Kite			7   AUS DEM obf pre	 bishop		Malkavian antitribu:2
+1x Sheila Mezarin	6   AUS PRE cel for	 		Toreador antitribu:2
+1x Cristos Mantigo	5   aus cel dom obf pre	 		Toreador antitribu:3
+
+Library (90 cards)
+Master (20)
+1x Día de los Muertos
+1x Foundation Exhibit
+1x Giant's Blood
+1x Legendary Vampire
+8x Minion Tap
+5x Obfuscate
+2x Palla Grande
+1x Purchase Pact
+
+Action (6)
+5x Enchant Kindred
+1x Entrancement
+
+Political Action (23)
+2x Ancilla Empowerment
+6x Cardinal Benediction
+1x Consanguineous Boon
+4x Conservative Agitation
+1x Dramatic Upheaval
+9x Kine Resources Contested
+
+Action Modifier (29)
+2x Awe
+6x Bewitching Oration
+4x Cloak the Gathering
+4x Faceless Night
+1x Forgotten Labyrinth
+4x Lost in Crowds
+8x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (6)
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (4)
+4x Majesty

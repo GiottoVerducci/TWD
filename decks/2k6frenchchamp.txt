@@ -1,0 +1,64 @@
+French NCQ
+Saint Christol lez Alès, France
+July 9th 2006
+3R+F
+53 players
+Serge Cirri
+
+Deck Name: Vote of madness
+
+Crypt (12 cards, min=26, max=34, avg=7.33)
+------------------------------------------
+3x Maris Streck		 9   AUS OBF ani dem dom  justicar	Malkavian:3
+3x Korah		 7   AUS DEM OBF ani	  priscus	Malkavian antitribu:2
+3x Quentin King III	 7   AUS DEM obf pre	  prince	Malkavian:3
+2x Marie Faucigny	 7   AUS OBF dem tha	  archbishop	Malkavian antitribu:3
+1x General Perfidio Díos 5   AUS dem obf	  bishop	Malkavian antitribu:3
+
+Library (90 cards)
+Master (18)
+6x Blood Doll
+1x Día de los Muertos
+3x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Giant's Blood
+1x Powerbase: Madrid
+1x Purchase Pact
+2x Secure Haven
+2x Sudden Reversal
+
+Action (6)
+4x Kindred Spirits
+2x Madman's Quill
+
+Ally (3)
+1x Carlton Van Wyk
+2x Muddled Vampire Hunter
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (20)
+1x Anarchist Uprising
+2x Ancilla Empowerment
+2x Banishment
+1x Disputed Territory
+3x Domain Challenge
+7x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (25)
+3x Elder Impersonation
+6x Eyes of Chaos
+3x Faceless Night
+2x Forgotten Labyrinth
+5x Lost in Crowds
+6x Telepathic Vote Counting
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (14)
+3x Confusion of the Eye
+6x Telepathic Misdirection
+5x Wake with Evening's Freshness

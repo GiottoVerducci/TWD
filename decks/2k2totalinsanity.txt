@@ -1,0 +1,64 @@
+Total Insanity
+Castro Valley, California
+July 20th 2002
+15 players
+Chris Loux
+
+Deck Name: "Those darn unaligned... they need govern'n"
+
+Crypt (12 cards, min=19, max=37, avg=7.17)
+------------------------------------------
+3x Ingrid Rossler	9   ANI FOR PRO dom	 prince	   Gangrel:2
+2x Iliana		7   DOM FOR PRO tha	 	   Gangrel:2
+1x Camille Devereux	5   FOR PRO ani		 	   Gangrel:1
+1x Raven		5   FOR PRO ani		 	   Gangrel:1
+1x Angus the Unruled	10  ANI PRO cel for pot	 justicar  Gangrel:1
+1x Katarina		9   ANI FOR pot pro	 prince	   Gangrel:2
+1x Sir Walter Nash	7   DOM FOR PRE		 prince	   Ventrue:1
+1x Caitlin		6   ANI PRO aus dom	 bishop	   Gangrel antitribu:2
+1x Chandler Hungerford	3   PRO			 	   Gangrel:2
+
+Library (90 cards)
+Master (14)
+1x Backways
+6x Dominate
+1x Ecoterrorists
+5x Minion Tap
+1x Protean
+
+Action (26)
+4x Embrace, The
+6x Fifth Tradition: Hospitality
+2x Fourth Tradition: The Accounting
+6x Govern the Unaligned
+1x Graverobbing
+1x Sanguine Instruction
+4x Scouting Mission
+2x Third Tradition: Progeny
+
+Equipment (1)
+1x IR Goggles
+
+Political Action (1)
+1x Gangrel Justicar
+
+Retainer (3)
+1x Homunculus
+2x Raven Spy
+
+Action Modifier (16)
+4x Earth Control
+10x Freak Drive
+2x Kiss of Ra, The
+
+Reaction (12)
+4x Deflection
+2x Redirection
+3x Second Tradition: Domain
+3x Wake with Evening's Freshness
+
+Combat (17)
+4x Claws of the Dead
+7x Earth Meld
+5x Form of Mist
+1x Quick Meld

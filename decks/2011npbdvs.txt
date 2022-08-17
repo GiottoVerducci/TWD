@@ -1,0 +1,64 @@
+Nuevo Principado
+Badia del Valles, Barcelona, Spain
+November 13th 2011
+3R+F
+21 players
+Oriol Pubill
+
+-- 8VP in final
+
+Deck Name: Gorditos Power Again
+
+Modified by: Oriol Pubill
+
+Crypt (12 cards, min=30, max=44, avg=9.5)
+-----------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle	Malkavian:4
+3x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
+2x Rafael de Corazon	 11  AUS CEL DOM OBF PRE  inner circle	Toreador:4
+2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf  justicar	Brujah:5
+1x Alicia Barrows	 9   AUS DEM OBF POT PRE  archbishop	Malkavian antitribu:4
+
+Library (90 cards)
+Master (18; 8 trifle)
+1x Black Forest Base
+4x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Lilith's Blessing
+1x Secure Haven
+8x Villein
+
+Action (2)
+2x Entrancement
+
+Political Action (18)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+3x Conservative Agitation
+7x Kine Resources Contested
+2x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (29)
+2x Awe
+4x Bewitching Oration
+4x Elder Impersonation
+5x Forgotten Labyrinth
+2x Into Thin Air
+5x Lost in Crowds
+7x Voter Captivation
+
+Reaction (13)
+3x Eyes of Argus
+3x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (9)
+7x Majesty
+2x Staredown
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,62 @@
+French NCQ Lille
+Villeneuve d'Ascq, France
+June 27th 2010
+3R+F
+16 players
+Antoine Franqueville-Roy
+
+-- 3GW9 + 4VP in final
+
+Deck Name: Maleficia
+
+Crypt (12 cards, min=33, max=40, avg=9.17)
+------------------------------------------
+5x Cybele		   10  ANI DAI OBF PRE SER THA		 Baali:4
+3x Annazir		   9   DAI OBF POT PRE		2 votes	 Baali:5
+2x Petaniqua (ADV)	   9   AUS DAI DEM OBF THA chi		 Baali:4
+1x Petaniqua		   9   AUS DAI DEM OBF THA chi		 Malkavian:4
+1x Maureen, Dark Priestess 6   DAI PRE dom obf		1 vote	 Baali:4
+
+Library (75 cards)
+Master (32; 7 trifle)
+9x Ashur Tablets
+2x Information Highway
+2x Jake Washington
+1x Life Boon
+2x Liquidation
+7x Maleficia
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+6x Tend the Flock
+
+Action (11)
+1x Enticement
+3x Entrancement
+1x Form of Corruption
+3x Rutor's Hand
+3x Unleash Hell's Fury
+
+Ally (1)
+1x Veneficti
+
+Action Modifier (19)
+3x Cloak the Gathering
+1x Elder Impersonation
+1x I am Legion
+5x Lost in Crowds
+6x Psalm of the Damned
+2x Psychomachia
+1x Spying Mission
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Sense the Sin
+
+Combat/Reaction (7)
+7x Evil Eye
+
+Event (1)
+1x Anthelios, The Red Star

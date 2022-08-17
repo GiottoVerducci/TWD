@@ -1,0 +1,57 @@
+Spanish ECQ - Sympathy for the Bleeding
+San Vicente del Raspeig, Spain
+September 15th 2012
+3R+F
+18 players
+César Ruipérez
+https://www.vekn.net/event-calendar/event/6784
+
+--3GW11 + 1.5VP in final
+
+Crypt (26 cards, min=4, max=18, avg=1.69)
+-----------------------------------------
+20x Tupdog		1    POT VIS		Gargoyle:3
+3x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+2x  Keith Moody		3    DOM		Tremere antitribu:4
+1x  Ember Wright	3    aus dom		Tremere antitribu:3
+
+Library (80 cards)
+Master (13; 1 trifle)
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+2x Information Highway
+1x Kaymakli Nightmares
+1x KRCG News Radio
+1x Powerbase: Montreal
+1x Secure Haven
+1x Sudden Reversal
+1x Vessel
+1x Yawp Court
+
+Action (9)
+3x Govern the Unaligned
+4x Graverobbing
+2x Magic of the Smith
+
+Ally (3)
+3x Nephandus
+
+Equipment (2)
+1x Hand of Conrad
+1x Heart of Nizchetus
+
+Action Modifier (5)
+4x Conditioning
+1x Mirror Walk
+
+Combat (47)
+6x Crawling Chamber
+10x Immortal Grapple
+12x Raking Talons
+4x Stone Quills
+7x Stonestrength
+8x Torn Signpost
+
+Event (1)
+1x Unmasking, The

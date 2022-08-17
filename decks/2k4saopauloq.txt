@@ -1,0 +1,45 @@
+São Paulo City Qualifier
+São Paulo, Brazil
+October 2nd 2004
+3R+F
+22 players
+David Magri
+
+Crypt (12 cards, min=15, max=25, avg=4.92)
+------------------------------------------
+2x Gaël Pilet			    6	FOR MEL chi pre	 	 Daughter of Cacophony:2
+2x Angela Preston		    5	MEL PRE for	 	 Daughter of Cacophony:2
+2x Delilah Monroe		    4	MEL for pre	 	 Daughter of Cacophony:2
+1x Sir Walter Nash		    7	DOM FOR PRE	 prince	 Ventrue:1
+1x Heather Florent, The Opportunist 6	FOR PRE dom	 	 Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar  5	DOM PRE for	 	 Ventrue:2
+1x Gloria Giovanni		    4	DOM nec		 	 Giovanni:2
+1x Ingrid Russo			    4	DOM for		 	 Ventrue antitribu:2
+1x Céleste, The Voice of a Secret   3	mel pre		 	 Daughter of Cacophony:2
+
+Library (90 cards)
+Master (14)
+4x Blood Doll
+2x Fortitude
+2x Misdirection
+2x Paris Opera House
+2x Presence
+2x Sudden Reversal
+
+Action (32)
+12x Art's Traumatic Essence
+3x Concert Tour
+12x Legal Manipulations
+5x Mind Numb
+
+Action Modifier (25)
+8x Freak Drive
+12x Missing Voice, The
+5x Siren's Lure
+
+Reaction (11)
+10x Deflection
+1x Poison Pill
+
+Combat (8)
+8x Majesty

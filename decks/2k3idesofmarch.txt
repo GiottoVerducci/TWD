@@ -1,0 +1,55 @@
+Beware the Ides of March
+Newark, Ohio
+March 15th 2003
+24 players
+John Bell
+
+Deck Name: Bleeding Me - 1st Place Newark OH 3-15-03
+
+Crypt (12 cards, min=15, max=27, avg=5.17)
+------------------------------------------
+2x Mariel, Lady Thunder	7   DOM OBF aus tha		Malkavian:1
+2x Didi Meyers		5   DOM aus cel obf		Malkavian:1
+1x Gilbert Duane	7   AUS DOM OBF		prince	Malkavian:1
+1x Reverend Blackwood	6   DOM THA obf		bishop	Tremere antitribu:2
+1x Badr al-Budur	5   OBF cel dom qui		Assamite:2
+1x Count Ormonde	5   OBF dom pre ser		Follower of Set:2
+1x Zebulon		5   OBF aus dom pro		Malkavian:1
+1x Laurent de Valois	4   ani dom obf			Nosferatu:2
+1x Roland Bishop	4   aus dom obf			Malkavian:1
+1x Ohanna		2   dom				Malkavian:2
+
+Library (90 cards)
+Master (16)
+2x Direct Intervention
+5x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+2x Secure Haven
+6x Sudden Reversal
+
+Action (13)
+1x Dominate Kine
+1x Far Mastery
+11x Govern the Unaligned
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (2)
+1x Monocle of Clarity
+1x Signet of King Saul, The
+
+Action Modifier (38)
+6x Bonding
+4x Cloak the Gathering
+5x Command of the Beast
+3x Elder Impersonation
+5x Faceless Night
+7x Foreshadowing Destruction
+4x Lost in Crowds
+4x Spying Mission
+
+Reaction (20)
+8x Deflection
+6x Delaying Tactics
+6x Wake with Evening's Freshness

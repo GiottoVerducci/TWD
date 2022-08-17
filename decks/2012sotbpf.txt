@@ -1,0 +1,65 @@
+Strength of the Bière
+Paris, France
+November 18th 2012
+2R+F
+19 players
+Mehdi Mazni
+
+Crypt (12 cards, min=4, max=40, avg=5.67)
+-----------------------------------------
+6x Shalmath	  10  POT PRE TEM  True Brujah:6
+1x Andre LeRoux	  3   aus	   Toreador:5
+1x Anarch Convert 1   -none-	   Caitiff:ANY
+1x Donald Cargill 1   aus	   Caitiff:5
+1x Freddy Gage	  1   pot	   Caitiff:5
+1x Iris Bennett	  1   pro	   Caitiff:5
+1x Walker Grimes  1   ani	   Caitiff:5
+
+Library (81 cards)
+Master (13; 2 trifle)
+1x Dark Influences
+2x Giant's Blood
+2x Pentex(TM) Subversion
+2x Perfectionist
+1x Powerbase: Montreal
+2x Rack, The
+1x Tabriz Assembly
+2x Wider View
+
+Action (18)
+5x Hourglass of the Mind
+1x Path of the Scorched Heart, The
+10x Summon History
+2x Vaticination
+
+Ally (5)
+1x Muddled Vampire Hunter
+1x Mylan Horseed
+1x Ponticulus
+1x Remnant of the Endless Storm
+1x Tye Cooper
+
+Equipment (8)
+1x AK-47
+1x Ankara Citadel, Turkey, The
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Sacré-Cœur Cathedral, France
+2x Sport Bike
+1x Talbot's Chainsaw
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (16)
+13x Domain of Evernight
+3x Enkil Cog
+
+Combat (18)
+6x Decapitate
+2x Disarm
+10x Outside the Hourglass
+
+Event (2)
+1x Slow Withering, The
+1x Unmasking, The

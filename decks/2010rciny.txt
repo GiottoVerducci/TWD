@@ -1,0 +1,66 @@
+Reanimated Corpse: Ithaca
+Ithaca, New York
+October 29th 2010
+2R+F
+12 players
+Peter Bakija
+
+-- 3VP in final
+
+Deck Name: Vauxhall and I
+
+My winning deck (which I put together yesterday in a fit of madness
+and was totally unplayed before the tournament. Apparently, Dominate
+is good, and being able to hit folks is good too. Add them together,
+and you can win!)
+
+Crypt (12 cards, min=17, max=25, avg=5.17)
+------------------------------------------
+2x Virginie, Prodigy	    6	DOM POT obt	 bishop	 Lasombra:4
+1x Dr. Julius Sutphen	    5	POT dom obt	 bishop	 Lasombra:3
+1x Dr. Julius Sutphen (ADV) 5	POT dom obt	 	 Lasombra:3
+1x Lord Vauxhall	    7	DOM OBT POT THA	 	 Lasombra:4
+1x Black Wallace	    6	DOM POT obt tha	 	 Lasombra:4
+1x Banjoko		    5	DOM obt pot	 	 Lasombra:3
+1x Donatello Giovanni	    5	DOM aus pot pre	 	 Giovanni:4
+1x Ermenegildo, The Rake    5	DOM OBT pot	 	 Lasombra:4
+1x Wah Chun-Yuen	    5	POT cel dom pre	 	 Brujah antitribu:3
+1x Paulo de Castille	    4	ani dom pot	 	 Lasombra:4
+1x Almodo Giovanni	    3	dom pot		 	 Giovanni:4
+
+Library (90 cards)
+Master (11; 2 trifle)
+1x Anarch Troublemaker
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+2x Haven Uncovered
+1x Political Hunting Ground
+1x Potence
+1x Power Structure
+2x Vessel
+
+Action (19)
+1x Far Mastery
+12x Govern the Unaligned
+2x Harass
+4x Rumble
+
+Action Modifier (4)
+4x Bonding
+
+Action Modifier/Reaction (4)
+4x Murmur of the False Will
+
+Reaction (18)
+8x Deflection
+2x Delaying Tactics
+4x On the Qui Vive
+4x Wake with Evening's Freshness
+
+Combat (34)
+6x High Ground
+4x Stunt Cycle
+6x Target Vitals
+6x Taste of Vitae
+12x Thrown Gate

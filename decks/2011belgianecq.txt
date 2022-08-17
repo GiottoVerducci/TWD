@@ -1,0 +1,57 @@
+Belgian ECQ
+Brussels, Belgium
+June 4th 2011
+3R+F
+13 players
+Jelmer Wedholm
+
+-- 3VP in final
+
+Deck Name: Gio ft. Anu bleed
+
+Note: I forgot to put 2 Archon Investigation back in, so I could only
+threaten to burn vamps bleeding for 3. Late additions like Pentex,
+Sudario, Obedience were jamming most of the time. I was always happy
+to see Far Mastery.
+
+Crypt (12 cards, min=21, max=31, avg=6.58)
+------------------------------------------
+4x Anu Diptinatpa	7   DOM NEC aus vic	Nagaraja:6
+3x Giovanni del Georgio	8   DOM NEC POT PRO	Giovanni:5
+3x Accorri Giovanni	6   DOM POT ani nec	Giovanni:5
+1x Claus Wegener	5   DOM aus for tha	Tremere:5
+1x Kay Polerno		4   dom nec pro		Giovanni:5
+
+Library (74 cards)
+Master (13; 3 trifle)
+1x Barrens, The
+2x Blood Doll
+1x Coven, The
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion
+4x Perfectionist
+2x Vessel
+
+Action (15)
+4x Far Mastery
+8x Govern the Unaligned
+3x Sudario Refraction
+
+Action Modifier (20)
+6x Call of the Hungry Dead
+2x Change of Target
+5x Conditioning
+1x Foreshadowing Destruction
+6x Seduction
+
+Action Modifier/Reaction (8)
+2x Murmur of the False Will
+6x Spectral Divination
+
+Reaction (18)
+6x Deflection
+1x Delaying Tactics
+4x Obedience
+5x On the Qui Vive
+2x Redirection

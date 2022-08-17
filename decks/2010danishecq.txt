@@ -1,0 +1,71 @@
+Danish ECQ
+Copenhagen, Denmark
+April 27th 2010
+15 players
+Adam Esbjörnsson
+
+Deck Name: 13 is the new 12
+Created by: Adam Esbjørnsson
+
+Description: AA(A)
+
+Crypt (13 cards, min=25, max=43, avg=8.62)
+------------------------------------------
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+1x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Masika	   10  AUS CEL PRE		primogen	Toreador:1
+1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+1x Victoria Ash	   6   PRE aus cel dom		primogen	Toreador:2
+1x Mariana Gilbert 4   PRE cel					Toreador:1
+
+Library (84 cards)
+Master (46; 8 trifle)
+1x Anarch Troublemaker
+9x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fortschritt Library
+2x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+2x Jake Washington
+6x Liquidation
+2x Misdirection
+1x Monastery of Shadows
+1x Parthenon, The
+2x Pentex(TM) Subversion
+6x Villein
+1x Wash
+5x Zillah's Valley
+
+Action (5)
+3x Entrancement
+2x Mind Numb
+
+Political Action (4)
+1x Banishment
+2x Parity Shift
+1x Reins of Power
+
+Action Modifier (9)
+4x Aire of Elation
+2x Approximation of Loyalty
+1x Enkil Cog
+2x Perfect Paragon
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (8)
+3x Deflection
+2x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Combat (8)
+8x Majesty
+
+Event (2)
+2x Anthelios, The Red Star

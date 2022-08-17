@@ -1,0 +1,56 @@
+Poitiers Tournament
+Poitiers, France
+February 27th 2005
+12 players
+François Morand
+
+Deck Name: Chicken Eyes
+
+Crypt (12 cards, min=6, max=16, avg=2.92)
+-----------------------------------------
+1x Idalia, Prophet of Guadalajara  4   AUS dem	    Malkavian antitribu:2
+1x Maldavis			   4   AUS for pre  Caitiff:3
+1x Michael Luther		   4   aus pre	    Toreador:3
+1x Remilliard, Devout Crusader	   4   AUS pre	    Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha	    Tremere antitribu:2
+1x Isabel de Leon		   3   AUS	    Toreador:2
+1x Martin Franckel		   3   AUS tha	    Tremere:3
+1x Zöe				   3   AUS cel obf  Malkavian:2
+1x Nicholas Chang		   2   aus	    Toreador antitribu:3
+1x Piotr Andreikov		   2   aus	    Tzimisce:3
+1x Feo Ramos			   1   aus	    Pander:3
+1x Franciscus			   1   aus	    Caitiff:2
+
+Library (79 cards)
+Master (21)
+5x Blood Doll
+1x Carver's Meat Packing and Storage
+2x Fame
+2x Jake Washington
+2x Life Boon
+2x Millicent Smith, Puritan Vampire Hunter
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Rötschreck
+2x Society of Leopold
+
+Equipment (9)
+1x Bowl of Convergence
+1x Ivory Bow
+1x Palatial Estate
+4x Saturday-Night Special
+2x Sniper Rifle
+
+Reaction (39)
+2x Delaying Tactics
+5x Eagle's Sight
+5x Enhanced Senses
+7x Forced Awakening
+5x My Enemy's Enemy
+5x Precognition
+5x Spirit's Touch
+5x Telepathic Misdirection
+
+Combat (10)
+6x Concealed Weapon
+4x Dragon's Breath Rounds

@@ -1,0 +1,85 @@
+Powerbase Berkeley: Status Perfectus
+Berkeley, California
+August 8th 2015
+2R+F
+12 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/8138
+
+Deck Name: Guillaume's Surprise
+
+Description: Guillaume Giovanni gets a bunch of Storage Annexes, in which he stores a killer hand
+of cryptic-rider-chained political actions that can destroy the table in a single turn, to be kicked
+off by Día de los Muertos. Wait for the right moment, then.. surprise!
+
+This is a first-draft, untested deck that got lucky in a small qualifier. It successfully blew up
+a table in one preliminary round, and scraped a last-minute oust in the final for a win with 1.5 VP.
+That said, it might eventually make a viable deck.
+
+Changes to make: See Updated Kiasyd Version at www.secretlibrary.info/index.php?deck=view&id=20636 . It includes better vamps, better stealth and some vote defense, which were the major aspects needed.
+
+Crypt (12 cards, min=19, max=36, avg=6.5)
+-----------------------------------------
+4x Guillaume Giovanni	 9   CEL DOM NEC POT obt  	  Giovanni:4
+3x Isanwayen		 6   DOM MYT OBT	  	  Kiasyd:4
+1x Andrew Emory		 5   OBT aus dom pot	  bishop  Lasombra:4
+1x Banjoko		 5   DOM obt pot	  	  Lasombra:3
+1x Dame Hollerton	 5   DOM OBT myt	  	  Kiasyd:4
+1x Ermenegildo, The Rake 5   DOM OBT pot	  	  Lasombra:4
+1x Quincy, The Trapper	 4   dom myt obt	  	  Kiasyd:3
+
+Library (90 cards)
+Master (23; 6 trifle)
+1x Día de los Muertos
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+1x Information Highway
+1x Monastery of Shadows
+1x Morgue Hunting Ground
+1x Political Hunting Ground
+1x Secure Haven
+8x Storage Annex
+4x Villein
+2x Wider View
+
+Action (11)
+4x Dominate Kine
+2x Goblinism
+5x Govern the Unaligned
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (9)
+1x Anarchist Uprising
+2x Ancilla Empowerment
+2x Kine Resources Contested
+2x Neonate Breach
+2x Reckless Agitation
+
+Action Modifier (18)
+2x Blanket of Night
+1x Call of the Hungry Dead
+5x Cryptic Rider
+2x Seduction
+3x Shadow Play
+2x Shroud of Absence
+3x Shroud of Night
+
+Action Modifier/Combat (2)
+2x Fae Contortion
+
+Action Modifier/Reaction (5)
+5x Murmur of the False Will
+
+Reaction (14)
+7x Deflection
+2x Obedience
+3x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (7)
+2x Arms of the Abyss
+3x Entombment
+2x Shadow Body

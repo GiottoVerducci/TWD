@@ -1,0 +1,59 @@
+English NC 2008
+Reading, England
+December 6th 2008
+3R+F
+28 players
+Matt Green
+
+-- 3VP in final
+
+Deck Name: Snakes with a Chain (v3.1)
+
+Crypt (12 cards, min=16, max=39, avg=7.08)
+------------------------------------------
+3x Nefertiti		    10	DOM OBF PRE SER cel pot	 	 Follower of Set:2
+2x Khay'tall, Snake of Eden 9	DOM OBF PRE SER aus	 	 Follower of Set:2
+1x Kahina the Sorceress	    9	AUS DOM OBF SER nec pre	 1 vote	 Follower of Set:3
+1x Allonzo Montoya	    6	OBF SER ani aus		 	 Abomination:3
+1x Hesha Ruhadze	    6	SER ani obf pre		 	 Follower of Set:2
+1x Count Ormonde	    5	OBF dom pre ser		 	 Follower of Set:2
+1x Dedefra		    5	SER nec obf		 	 Follower of Set:2
+1x Celine Chevalier	    3	obf ser			 	 Follower of Set:2
+1x Khalil Anvari	    3	pre ser			 	 Follower of Set:2
+
+Library (70 cards)
+Master (17; 4 trifle)
+5x Eternals of Sirius, The
+1x Giant's Blood
+2x Heidelberg Castle, Germany
+3x Minion Tap
+2x Opium Den
+2x Vessel
+2x Wash
+
+Action (20)
+3x Enticement
+2x Form of Corruption
+6x Govern the Unaligned
+4x Mind Rape
+2x Set's Curse
+3x Temptation
+
+Ally (1)
+1x Mylan Horseed
+
+Action Modifier (16)
+3x Elder Impersonation
+6x Lost in Crowds
+2x Spying Mission
+5x Truth of a Thousand Lies
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (9)
+5x Deflection
+4x Wake with Evening's Freshness
+
+Combat (4)
+4x Majesty

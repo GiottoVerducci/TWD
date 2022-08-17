@@ -1,0 +1,73 @@
+First month of the year
+Fantasiapelit, Joensuu, Finland
+January 21st 2008
+2R+F
+10 players
+Esa-Matti Smolander
+
+Deck Name: Tremere/!Tremere toolbox
+
+Crypt (12 cards, min=20, max=36, avg=7.08)
+------------------------------------------
+1x Valerius Maior, Hell's Fool		7   AUS DAI DOM THA nec pre		  Tremere:4
+1x Valerius Maior, Hell's Fool (ADV)	7   AUS DAI DOM THA nec pre		  Tremere antitribu:4
+1x Lucas Halton				10  AUS CEL DOM THA qui		prince	  Tremere:3
+1x Oliver Thrace			9   AUS DOM THA nec obf pot		  Tremere:3
+1x Orlando Oriundus			9   AUS DOM THA obf		bishop	  Tremere antitribu:4
+1x Anastasz di Zagreb			8   AUS THA ani cel dom		justicar  Tremere:3
+1x Uta Kovacs				8   AUS DOM THA ser			  Tremere antitribu:4
+1x Carna, The Princess Witch		7   AUS DOM THA			primogen  Tremere:3
+1x Selena				6   AUS DOM THA				  Tremere antitribu:3
+1x Frondator				5   AUS dom tha			bishop	  Tremere antitribu:4
+1x Hector Trelane			5   AUS THA dom nec			  Tremere:4
+1x Janine				4   aus dom tha				  Tremere antitribu:4
+
+Library (88 cards)
+Master (13)
+1x Academic Hunting Ground
+3x Blood Doll
+1x Depravity
+1x Giant's Blood
+1x Information Highway
+2x Minion Tap
+1x Mob Connections
+1x Recruitment
+1x Sudden Reversal
+1x University Hunting Ground
+
+Action (7)
+4x Govern the Unaligned
+1x Graverobbing
+2x Rutor's Hand
+
+Equipment (2)
+2x Leather Jacket
+
+Political Action (7)
+1x Crusade: Pittsburgh
+1x Crusade: Toronto
+2x Honor the Elders
+2x Kine Resources Contested
+1x Praxis Seizure: Barcelona
+
+Action Modifier (10)
+4x Bonding
+2x Bribes
+4x Conditioning
+
+Reaction (20)
+4x Deflection
+4x Enhanced Senses
+6x Forced Awakening
+3x Spirit's Touch
+3x Telepathic Counter
+
+Combat (29)
+1x Amaranth
+4x Apportation
+1x Drain Essence
+2x Soul Burn
+9x Theft of Vitae
+2x Thoughts Betrayed
+4x Trap
+6x Walk of Flame

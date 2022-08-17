@@ -1,0 +1,67 @@
+Week of Nightmares 2019 Event 1
+Columbus, Ohio
+June 9th 2019
+2R+F
+18 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/9134
+
+-- 1GW5 (3rd seed) + 4VP in final
+
+Deck Name: Hybrid Legionnaire 4.2
+
+Most proud of this deck for the synergy between Mina, Thomasso,
+Jake Washington, Shambler rush and Tye Cooper. Mina gets blood
+when Tye eats vamps that the Shamblers torporize. She can push
+blood to Thomasso with his special. If you push Mina's last
+blood to him, you can pop Jake for her in the same phase.
+
+This deck swarms fairly quickly with Shamblers and Legionnaires.
+Called "Hybrid" because it uses burn-option cards in addition to
+Specialization/Liquidation for dumping cards to power Legionnaires.
+If I were to play it again, I might remove the Specializations in
+exchange for a couple more Liquidations and a few Funeral Wakes.
+That said, Specialization did save me from being ousted by Fame
+in torpor in the final round, so it's hard to hate it.
+
+Crypt (12 cards, min=14, max=24, avg=4.67)
+------------------------------------------
+4x Mina Grotius		6   FOR NEC cel		Harbinger of Skulls:3
+4x Thomasso Ghiberti	4   NEC pot		Giovanni:4
+2x Nicomedes		5   aus for nec vic	Harbinger of Skulls:4
+1x Lia Milliner		3   dom nec		Giovanni:3
+1x Nunzio Giovanni	3   nec pot		Giovanni:4
+
+Library (90 cards)
+Master (22; 2 trifle)
+6x Jake Washington
+7x Liquidation
+2x Pentex(TM) Subversion
+5x Specialization
+2x Wider View
+
+Ally (41)
+2x Carlton Van Wyk
+14x Draeven Softfoot
+10x Emerald Legionnaire
+2x Ossian
+10x Shambling Hordes
+3x Tye Cooper
+
+Political Action (1)
+1x Autarkis Persecution
+
+Action Modifier (14)
+7x Call of the Hungry Dead
+6x Freak Drive
+1x Trochomancy
+
+Reaction (3)
+3x Delaying Tactics
+
+Combat (3)
+3x Target Vitals
+
+Event (6)
+3x FBI Special Affairs Division
+3x Unmasking, The

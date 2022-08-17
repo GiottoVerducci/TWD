@@ -1,0 +1,53 @@
+May Day
+Milwaukee, Wisconsin
+May 1st 2004
+12 players
+Cameron Domer
+
+Deck: I wish I was. torpor bound
+
+Crypt (12 cards, min=30, max=40, avg=9)
+---------------------------------------
+5x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal  Lasombra:2
+2x Lucita				  8   DOM FOR OBT cel pot		  Lasombra:2
+2x Lucita (ADV)				  8   DOM FOR OBT cel pot		  Lasombra:2
+1x Marcus Vitel				  10  DOM FOR OBF OBT PRE	prince	  Ventrue:3
+1x Marcus Vitel (ADV)			  10  DOM FOR OBF OBT POT PRE		  Lasombra:3
+1x Aurora Van Brande, Paladin		  6   OBT dom for pot			  Lasombra:2
+
+Library (90 cards)
+Master (17)
+2x Blood Doll
+1x Elysian Fields
+1x Erciyes Fragments, The
+2x Fame
+1x Humanitas
+1x Legendary Vampire
+1x Minion Tap
+2x Path of Night, The
+1x Storage Annex
+5x Zillah's Valley
+
+Action (22)
+9x Baltimore Purge
+4x Govern the Unaligned
+5x Graverobbing
+4x Scouting Mission
+
+Retainer (2)
+2x Camarilla Vitae Slave
+
+Action Modifier (29)
+3x Conditioning
+10x Freak Drive
+6x Seduction
+7x Shadow Play
+1x Shroud of Night
+2x Tenebrous Form
+
+Reaction (15)
+6x Deflection
+9x Obedience
+
+Combat (5)
+5x Shadow Body

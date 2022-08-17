@@ -1,0 +1,76 @@
+Diablerie in Milan - New Prince election
+Milano, Italy
+February 24th 2019
+2R+F
+26 players
+Danilo Torrisi
+https://www.vekn.net/event-calendar/event/9118
+
+-- 1GW3.5 + 1VP in final
+
+Deck Name: Multy Wall
+
+Description: multimaster wall deck
+
+Crypt (15 cards, min=4, max=40, avg=6.4)
+----------------------------------------
+4x Huitzilopochtli		10  AUS DAI DOM OBF POT PRE		  Baali:2
+4x Maris Streck			9   AUS OBF ani dem dom		justicar  Malkavian:3
+4x Anarch Convert		1   -none-				  Caitiff:ANY
+1x Anatole, Prophet of Gehenna	8   AUS DEM OBF dom for			  Malkavian:2
+1x Victoria			5   AUS cel obf				  Malkavian:2
+1x Zöe				3   AUS cel obf				  Malkavian:2
+
+Library (90 cards)
+Master (40; 7 trifle)
+12x Ashur Tablets
+1x Asylum Hunting Ground
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Information Highway
+1x KRCG News Radio
+1x Life Boon
+4x Liquidation
+1x Madness Network
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Rötschreck
+1x Smiling Jack, The Anarch
+3x Vessel
+3x Villein
+1x Wider View
+4x Zillah's Valley
+
+Action (1)
+1x Unleash Hell's Fury
+
+Ally (2)
+1x Muddled Vampire Hunter
+1x Ossian
+
+Equipment (8)
+1x .44 Magnum
+1x Bowl of Convergence
+2x Heart of Nizchetus
+1x Ivory Bow
+1x Sawed-Off Shotgun
+1x Sengir Dagger
+1x Sniper Rifle
+
+Action Modifier (1)
+1x Enkil Cog
+
+Reaction (34)
+4x Delaying Tactics
+4x Eagle's Sight
+4x Enhanced Senses
+6x Eyes of Argus
+2x Forced Awakening
+2x My Enemy's Enemy
+2x On the Qui Vive
+10x Telepathic Misdirection
+
+Combat (4)
+4x Disguised Weapon

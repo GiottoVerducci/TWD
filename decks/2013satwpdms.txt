@@ -1,0 +1,59 @@
+Sóller against the World
+Palma de Mallorca, Spain
+October 20th 2013
+3R+F
+14 players
+Ginés Quiñonero
+
+-- 4VP in final
+
+Deck Name: The Remarkable Beauty of the Dog/Warghoul Synergy
+
+Crypt (12 cards, min=4, max=34, avg=4.17)
+-----------------------------------------
+4x Anarch Convert	1   -none-			Caitiff:ANY
+3x Nana Buruku		8   ANI POT PRE			Guruhi:4
+1x Cybele		10  ANI DAI OBF PRE SER THA	Baali:4
+1x Guedado		4   aus obf vic			Tzimisce:4
+1x Droescher One-Eye	3   ani vic			Tzimisce:4
+1x Ilias cel Frumos	3   aus vic			Tzimisce:4
+1x Piotr Andreikov	2   aus				Tzimisce:3
+
+Library (63 cards)
+Master (39; 8 trifle)
+1x Club Illusion
+2x Direct Intervention
+1x Failsafe
+1x Fortschritt Library
+1x Giant's Blood
+2x Golconda: Inner Peace
+5x Jake Washington
+5x Parthenon, The
+1x Pentex(TM) Subversion
+9x Piper
+1x Seattle Committee
+3x Twilight Camp
+6x Villein
+1x Wider View
+
+Ally (14)
+1x Carlton Van Wyk
+1x Mylan Horseed
+5x Underbridge Stray
+2x Vagabond Mystic
+5x War Ghoul
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Reaction (2)
+2x Poison Pill
+
+Event (6)
+1x Anthelios, The Red Star
+1x Break the Code
+1x FBI Special Affairs Division
+1x Slow Withering, The
+1x Unmasking, The
+1x Veil of Darkness

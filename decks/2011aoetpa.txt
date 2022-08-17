@@ -1,0 +1,65 @@
+Aire of Elation: The Prince's Anniversary
+Darmstadt, Germany
+October 8th 2011
+2R+F
+16 players
+Erol Hammer
+
+-- 3VP in final
+
+Deck Name: Destructo
+Created by: Erol (Original Version by Ivan Marin-Rivas)
+
+Original Version had 15 Ashurs, 8 Liquidation and 3 Heroic Mights.
+I reduced the numbers and put some Villeins in. IMHO it helped
+a lot, regarding survivability. Always had enough combat cards
+and rushes. I would only try to add following things, another
+Monster, a Golconda, an additional Taste of Vitae. Dragonbound
+could be an option, who knows?!?
+
+Crypt (12 cards, min=27, max=36, avg=7.92)
+------------------------------------------
+4x Nana Buruku		8   ANI POT PRE		 		Guruhi:4
+3x Nangila Were		9   ANI POT PRE obf ser	 		Guruhi:4
+1x Ellison Humboldt	9   ANI OBF POT PRE pro	 primogen	Nosferatu:3
+1x Gustaphe Brunnelle	8   ANI DOM POT obf	 primogen	Nosferatu:4
+1x Lukas		8   ANI OBF POT pre ser	 archbishop	Nosferatu antitribu:4
+1x Sundown		6   ANI POT obf pre	 		Nosferatu:3
+1x Fish			5   ANI POT pre		 		Guruhi:4
+
+Library (90 cards)
+Master (31; 4 trifle)
+9x Ashur Tablets
+1x Blood Doll
+1x Carver's Meat Packing and Storage
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Haven Uncovered
+1x Jake Washington
+1x Lilith's Blessing
+6x Liquidation
+1x Monster
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Luanda
+4x Villein
+
+Action (16)
+4x Bum's Rush
+6x Deep Song
+5x Legal Manipulations
+1x Well-Marked
+
+Combat (42)
+2x Burning Wrath
+2x Canine Horde
+7x Carrion Crows
+3x Glancing Blow
+9x Immortal Grapple
+7x Slam
+5x Taste of Vitae
+7x Torn Signpost
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,79 @@
+Garou Rim: Gangrel Conspiracy I
+Joensuu, Finland
+December 28th 2019
+3R+F
+17 players
+Jyri Puhakka
+https://www.vekn.net/event-calendar/event/9504
+
+-- 2GW5.5 + 1VP in final
+
+Deck Name: Malk midcap SB with a twist
+
+Finals Seating:
+Aapo Järvelin (Capuchin Multirush) --> Hannu Kokkonen (Daughters of Cacophony Anarch Vote) --> Jyri Puhakka (Midcap Malkavian Bleed & Block) --> Jani Malmi (Euro Brujah) --> Katja Malmi (Arika & Friends)
+
+A dementation stealth bleed deck with midcap vamp's. One would say that the
+reaction package is a little bit heavy compared to combat capabilities. The
+reason for the heavy reaction package is to be opportunistic in blocking,
+choosing battles wisely and taking advantage of as many combo cards as
+possible.
+
+Crypt (12 cards, min=16, max=30, avg=5.83)
+------------------------------------------
+2x Bloody Mary		8   AUS DEM OBF pre	primogen  Malkavian:5
+2x Apolonia Czarnecki	7   AUS DEM OBF pre		  Malkavian:5
+2x Hagar Stone		6   AUS DEM obf			  Malkavian antitribu:5
+2x Morel		6   AUS DEM OBF			  Malkavian:4
+2x Arthur Denholm	5   AUS DEM obf			  Malkavian:5
+2x Jackie		3   DEM				  Malkavian antitribu:4
+
+Library (87 cards)
+Master (14; 4 trifle)
+3x Blood Doll
+1x Direct Intervention
+3x Dreams of the Sphinx
+2x Perfectionist
+1x Retribution
+4x Villein
+
+Action (11)
+11x Kindred Spirits
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (2)
+1x .44 Magnum
+1x Ivory Bow
+
+Action Modifier (18)
+6x Confusion
+6x Eyes of Chaos
+2x Faceless Night
+3x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (7)
+2x Deny
+1x Hide the Mind
+4x Swallowed by the Night
+
+Action Modifier/Reaction (7)
+6x Random Patterns
+1x Touch of Clarity
+
+Reaction (25)
+1x Babble
+1x Delaying Tactics
+1x Eagle's Sight
+6x Eyes of Argus
+2x My Enemy's Enemy
+4x On the Qui Vive
+1x Shattered Mirror
+6x Telepathic Misdirection
+1x Voice of Madness
+2x Wrong and Crosswise
+
+Combat (2)
+2x Disguised Weapon

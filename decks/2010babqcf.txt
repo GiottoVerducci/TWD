@@ -1,0 +1,60 @@
+French NCQ Bleed and Barbeuk
+Oye Plage, France
+August 22nd 2010
+10 players
+Antoine Franqueville-Roy
+
+Deck Name: See Rome and die
+Created by: Antoine Franqueville-Roy, based on a deck picked in the TWDA
+
+Description: What's saved in stealth slots is used for defense.
+
+Crypt (12 cards, min=22, max=40, avg=7.75)
+------------------------------------------
+4x Tryphosa			10  AUS DEM DOM OBF POT	 prince	   Malkavian:4
+2x Maris Streck			9   AUS OBF ani dem dom	 justicar  Malkavian:3
+1x Quentin King III		7   AUS DEM obf pre	 prince	   Malkavian:3
+1x Morel			6   AUS DEM OBF		 	   Malkavian:4
+1x Ruth McGinley		6   DEM aus cel obf	 primogen  Malkavian:3
+1x Tony				6   AUS DEM dom obf	 	   Malkavian:3
+1x Assad Salhoum		5   aus dem dom obf	 	   Malkavian:4
+1x Persia, The Beautiful Statue	5   DEM aus obf		 	   Malkavian:3
+
+Library (75 cards)
+Master (18; 3 trifle)
+6x Ashur Tablets
+1x Coven, The
+1x Dark Influences
+1x Dementation
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Secure Haven
+2x Vessel
+
+Action (15)
+2x Call, The
+11x Kindred Spirits
+2x Restructure
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (15)
+7x Confusion
+1x Enkil Cog
+3x Faceless Night
+4x Lost in Crowds
+
+Reaction (24)
+7x Deflection
+3x Eyes of Argus
+7x Obedience
+7x Second Tradition: Domain
+
+Combat (1)
+1x Autonomic Mastery
+
+Event (1)
+1x Uncoiling, The

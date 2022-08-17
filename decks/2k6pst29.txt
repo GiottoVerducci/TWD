@@ -1,0 +1,78 @@
+Praxis Seizure XXIX: Turku
+Turku, Finland
+June 4th 2006
+25 players
+Jarkko Suvela
+
+-- 1GW5 + 3VP in final
+
+Deck Name: "Xaviar's Meat Packing and Storage"
+
+Concept: Xaviar multirush with Pander support
+
+Deck could really use more Dog Packs and maybe 1 or 2 Shadow of the
+Beast. After the tournament I realised that it had just enough cards so
+that my library wouldn't exhaust itself in the end-game, so cutting the
+library down wouldn't be such a good idea unless deck would be altered
+to be more permanent-oriented (having more permanent intecept and
+perhaps Metro Underground or the like)
+
+Crypt (14 cards, min=4, max=40, avg=3.86)
+-----------------------------------------
+4x Xaviar		10  ANI FOR PRO aus cel pot	2 votes	 Gangrel:3
+1x Boy Toy		2   dem					 Malkavian antitribu:2
+1x Dani			2   ani					 Nosferatu antitribu:2
+1x Gillian Krader	2   ani dem				 Pander:2
+1x Sadie		2   pro					 Gangrel antitribu:2
+1x Angela Decker	1   pre					 Pander:2
+1x Basil		1   obf					 Pander:2
+1x Feo Ramos		1   aus					 Pander:3
+1x Huang, Blood Cultist	1   pro					 Pander:2
+1x March Halcyon	1   for					 Pander:2
+1x Royce		1   dom					 Pander:2
+
+Library (90 cards)
+Master (10)
+4x Blood Doll
+2x Carver's Meat Packing and Storage
+2x Dreams of the Sphinx
+2x Fame
+
+Action (14)
+1x Ambush
+1x Arson
+2x Big Game
+2x Bum's Rush
+2x Harass
+2x Nose of the Hound
+2x Ritual Challenge
+2x Sense Death
+
+Retainer (6)
+3x Dog Pack
+3x Raven Spy
+
+Action Modifier (7)
+4x Forced March
+3x Freak Drive
+
+Reaction (11)
+3x Cats' Guidance
+4x Forced Awakening
+2x Guard Dogs
+2x Quicken Sight
+
+Combat (42)
+4x Bone Spur
+4x Carrion Crows
+4x Drawing Out the Beast
+2x Form of Mist
+2x Hidden Strength
+5x Indomitability
+2x Lightning Reflexes
+3x Pack Alpha
+2x Pulled Fangs
+3x Rolling with the Punches
+2x Scorpion Sting
+4x Taste of Vitae
+5x Unflinching Persistence

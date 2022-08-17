@@ -1,0 +1,89 @@
+NAC 2007 Day 1
+Los Angeles, California
+September 22nd 2007
+3R+F
+38 players
+Jay Kristoff
+
+-- 3VP in final
+
+Deck Name: SoCalspex
+
+This deck was designed to take advantage of the usual championship
+day one desperation. I was disappointed when I had no stealth/bleed
+predators in any of my preliminary rounds. I was able to bounce
+some large, stealthy bleeds in the final. That allowed me to oust
+my first prey. I then won a long, thought out, heads up duel against
+Pete Oh's triple A deck. Thanks to those who organized, played in,
+and judged this tournament.
+
+Jay Kristoff,
+V:EKN Prince of Columbus, Ohio USA
+
+Crypt (12 cards, min=9, max=18, avg=3.42)
+-----------------------------------------
+1x Miriam Benyona		   5   AUS for obe  Salubri:2
+1x Victoria			   5   AUS cel obf  Malkavian:2
+1x Idalia, Prophet of Guadalajara  4   AUS dem	    Malkavian antitribu:2
+1x Maldavis			   4   AUS for pre  Caitiff:3
+1x Remilliard, Devout Crusader	   4   AUS pre	    Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha	    Tremere antitribu:2
+1x Isabel de Leon		   3   AUS	    Toreador:2
+1x Martin Franckel		   3   AUS tha	    Tremere:3
+1x Zöe				   3   AUS cel obf  Malkavian:2
+1x Almiro Suarez		   2   aus	    Tremere:3
+1x Nicholas Chang		   2   aus	    Toreador antitribu:3
+1x Piotr Andreikov		   2   aus	    Tzimisce:3
+
+Library (90 cards)
+Master (15)
+7x Blood Doll
+2x Effective Management
+1x Fame
+1x Metro Underground
+1x Mob Connections
+1x Pentex(TM) Subversion
+1x Police Department
+1x Smiling Jack, The Anarch
+
+Action (9)
+2x Anima Gathering
+1x Aranthebes, The Immortal
+1x Arson
+2x Atonement
+2x Nose of the Hound
+1x Revelations
+
+Ally (7)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Ossian
+4x Procurer
+
+Equipment (9)
+6x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+1x Palatial Estate
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (2)
+2x Change of Target
+
+Reaction (40)
+2x Delaying Tactics
+4x Eagle's Sight
+6x Enhanced Senses
+6x Forced Awakening
+2x On the Qui Vive
+2x Telepathic Counter
+12x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (6)
+6x Concealed Weapon
+
+Event (1)
+1x Break the Code

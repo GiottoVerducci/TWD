@@ -1,0 +1,74 @@
+NAC 2007 Day 2
+Los Angeles, California
+September 23rd 2007
+3R+F
+36 players
+Ben Peal
+
+-- 4VP in final
+
+Deck Name: Angellore (Live In LA)
+
+This is a modified version of the deck I used to win the 2007 Origins
+qualifier. I chose this version of breed-boon for the 2007 NAC (and
+EC) because of its anti-ally capabilities, its combat defense, its
+surprise lunge capability, and its strong vote lock/push. I dropped
+the 2 Enchant Kindred in favor of more Entrancements and another
+Direct Intervention. I changed a Consanguineous Boon into an
+Autarkis Persecution and 2 Kine Resources Contested into 2
+Conservative Agitations as a defense against Delaying Tactics. I
+dropped the 2 Change of Target and the 1 Crusade: Philadelphia
+since I wasn't getting much use out of them. In their place, I added
+an event package of Absimiliard's Army, Break the Code, and The
+Uncoiling. Absimiliard's Army isn't in there for the synergy with
+Entrancement (though it's nice), but is instead intended as a defense
+against rush combat. This paid off in Round 2 of the 2007 NAC,
+when I had Norm Brown's Basilia deck as a predator. Again, Siren's
+Lure is a devastating card. It can change a run of the mill "bleed
+for 1 to get the edge" turn into an ousting lunge. To answer a
+frequently-asked question, I don't use Ensemble because it's just
+asking to be bounced, leaving me to spend the next turn hunting with
+everyone.
+
+Crypt (12 cards, min=12, max=24, avg=4.5)
+-----------------------------------------
+2x Gaël Pilet			  6   FOR MEL chi pre	Daughter of Cacophony:2
+2x Yseult			  6   FOR MEL PRE	Daughter of Cacophony:3
+2x Angela Preston		  5   MEL PRE for	Daughter of Cacophony:2
+2x Delilah Monroe		  4   MEL for pre	Daughter of Cacophony:2
+2x Céleste, The Voice of a Secret 3   mel pre		Daughter of Cacophony:2
+2x Muse				  3   ani for mel	Daughter of Cacophony:2
+
+Library (90 cards)
+Master (17)
+1x Barrens, The
+3x Bastille Opera House
+4x Blood Doll
+3x Conductor
+1x Creepshow Casino
+3x Direct Intervention
+2x Paris Opera House
+
+Action (15)
+9x Embrace, The
+6x Entrancement
+
+Political Action (18)
+1x Autarkis Persecution
+8x Consanguineous Boon
+2x Conservative Agitation
+7x Kine Resources Contested
+
+Action Modifier (21)
+1x Daring the Dawn
+10x Missing Voice, The
+10x Siren's Lure
+
+Combat (16)
+8x Majesty
+8x Soak
+
+Event (3)
+1x Absimiliard's Army
+1x Break the Code
+1x Uncoiling, The

@@ -1,0 +1,68 @@
+Rautakanki
+Gothenburg, Sweden
+October 22nd 2011
+3R+F
+15 players
+Beatrice Düring
+
+Deck Name: Aksinya's aggro poke gang
+
+Crypt (12 cards, min=12, max=36, avg=5.67)
+------------------------------------------
+4x Aksinya Daclau	  9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
+2x Janey Pickman	  6   ANI PRO for		Gangrel antitribu:4
+2x Bill Butler		  3   pot pro			Gangrel antitribu:4
+2x Lula Burch		  3   for pro			Gangrel antitribu:4
+1x Charlie Tyne		  4   obf pro ser		Gangrel antitribu:4
+1x Scarlet Carson O'Toole 4   CEL pro			Gangrel antitribu:3
+
+Library (90 cards)
+Master (25; 3 trifle)
+1x Anarch Troublemaker
+2x Archon Investigation
+3x Bay and Howl
+3x Blood Doll
+1x Campground Hunting Ground
+1x Direct Intervention
+1x Fear of Mekhet
+1x Giant's Blood
+1x Major Boon
+2x Perfectionist
+2x Rack, The
+2x Sudden Reversal
+1x Talons of the Dead
+1x Twisted Forest
+3x Two Wrongs
+
+Action (10)
+8x Computer Hacking
+2x Victim of Habit
+
+Equipment (6)
+2x Camera Phone
+1x Ivory Bow
+2x Kevlar Vest
+1x Sport Bike
+
+Retainer (4)
+1x Homunculus
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (13)
+4x Earth Control
+2x Horrific Countenance
+7x Leverage
+
+Reaction (13)
+2x Delaying Tactics
+2x Lost in Translation
+8x On the Qui Vive
+1x Poison Pill
+
+Combat (19)
+8x Bone Spur
+2x Earth Meld
+3x Form of Mist
+6x Leathery Hide

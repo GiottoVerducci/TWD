@@ -1,0 +1,63 @@
+Constant Revolution Stockholm 2018
+Stockholm, Sweden
+September 8th 2018
+2R+F
+12 players
+Randal Rudstam
+https://www.vekn.net/event-calendar/event/8997
+
+-- 2GW6 + 4VP in final
+
+Deck Name: Bleed n guns n bleed n guns hurrah hurrah
+
+Description: Bring out minions with + 1 bleed. Block to survive. Bleed for 2. Profit.
+
+Crypt (12 cards, min=5, max=31, avg=5.08)
+-----------------------------------------
+3x Anarch Convert	  1   -none-			 Caitiff:ANY
+1x Cornelius Ottavio	  8   AUS OBF pre qui		 Malkavian:2
+1x Gustav Mallenhous	  8   AUS DOM for obt	priscus	 Ventrue antitribu:2
+1x Marcellus		  8   AUS CEL pro	prince	 Toreador:2
+1x Adonai		  7   AUS VAL for		 Salubri antitribu:2
+1x Tatiana Romanov	  7   AUS cel pre	prince	 Toreador:1
+1x Ozmo			  6   AUS dom obf		 Malkavian:1
+1x Quira, The Bitch Queen 6   AUS OBF obt tha		 Malkavian antitribu:2
+1x Sheila Mezarin	  6   AUS PRE cel for		 Toreador antitribu:2
+1x New Blood		  2   san			 Blood Brother:ANY
+
+Library (90 cards)
+Master (18; 8 trifle)
+2x Anarch Revolt
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+3x Vessel
+5x Villein
+
+Equipment (11)
+8x .44 Magnum
+2x Bowl of Convergence
+1x Ivory Bow
+
+Reaction (39)
+2x Delaying Tactics
+4x Eagle's Sight
+2x Enhanced Senses
+12x Eyes of Argus
+2x Forced Awakening
+4x My Enemy's Enemy
+3x On the Qui Vive
+1x Precognition
+1x Spirit's Touch
+7x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (22)
+3x Aura Reading
+8x Concealed Weapon
+5x Target Vitals
+3x Taste of Vitae
+3x Telepathic Tracking

@@ -1,0 +1,91 @@
+Week of Nightmares 2019 Event 3
+Columbus, Ohio
+June 10th 2019
+2R+F
+16 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/9136
+
+-- 1GW5 + 2VP in final
+
+Deck Name: Propaganda Moves
+Created by: Karl Schaefer & Ke Carlton
+
+Description: Night Moves + Propaganda.
+
+I played this online several times and liked the basic concept. Big thanks to Ke
+for helping tune this deck. It worked beautifully today until the finals. Round 1
+finshed in 37:30 with a sweep at a four-player table. Round 2 gave me an additional
+VP, which tied me for second-place. Both rounds were helped immensely by a first
+turn Information Highway. As usual, I lost the die roll, so I was third seed going
+into the finals.
+
+Seating:
+Me ->
+Conner Bell (Legacy of Pander) ->
+Mark Loughman (KS Stealth Bleed) ->
+John Pattie (Tremere with Potence toolbox) ->
+Alex Romano (Henry Taylor Twister)
+
+I ended up exactly where I wanted. I knew if Alex could get set up that none of the
+decks at the table would be able to oust him. So, I was hoping to let Mark get John
+off the table and out-race the eventual Smiling Jack to get 2 VPs and win on seeding.
+
+My opening crypt draw was awful, containing no Anarch Converts. I had to dig twice
+just to find the first one. So, there was a lot of early discarding of unplayable
+cards. Fortunately, the Legacy deck never got one into play, which would have made
+my victory impossible. Mark made somewhat quick work of John. In the four-player,
+Alex allowed me to call two Diversity, which gave me 12 pool and Alex 8, with Mark
+and Conner only gaining 2 pool each. I think it was a mistake for Alex to allow these
+votes to go through.
+
+The rest of the game was me crashing into Conner's vampires sometimes with stealth,
+sometimes slap fighting. Eventually I oust Conner and continue against Mark in the
+same way. Alex tried to deal with Mark to oust me and go heads up, but Alex was
+already set up. Mark kept trying to make forward progress, even getting Alex to 3 pool.
+Eventually, I got Mark next and conceded my VP to Alex, since I had no way of getting by
+Henry Taylor.
+
+I won on seeding in a 2-2-1 result.
+
+Crypt (13 cards, min=4, max=10, avg=1.69)
+-----------------------------------------
+6x Anarch Convert		1   -none-	Caitiff:ANY
+1x Ali Kar			3   obf qui	Assamite:3
+1x Milo, The Invisible Horror	3   aus obf	Malkavian:3
+1x Bloodfeud			2   obf		Malkavian antitribu:4
+1x Denette Stensen		2   obf		Gangrel antitribu:4
+1x Hanna Redmonds		2   obf tha	Caitiff:3
+1x Krid				2   obf		Nosferatu:3
+1x Old Neddacka			2   obf		Nosferatu antitribu:4
+
+Library (60 cards)
+Master (14; 2 trifle)
+1x Anarch Railroad -- never used
+1x Archon Investigation -- not used all day
+6x Ashur Tablets -- recycled once, not critical
+1x Fear of Mekhet -- didn't see IC or Justicar
+2x Information Highway -- another may be warranted
+1x Pentex(TM) Subversion
+2x Wash -- extremely handy, more?
+
+Action (10)
+10x Night Moves
+
+Political Action (16)
+4x Diversity
+2x Domain Challenge
+5x Eat the Rich
+5x Kine Resources Contested
+
+Action Modifier (19)
+1x Cloak the Gathering
+3x Cryptic Rider
+1x Faceless Night
+3x Forgotten Labyrinth
+3x Memory Rift -- can be cycled on any action
+7x Propaganda of the Deed
+1x Spying Mission
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night

@@ -1,0 +1,72 @@
+Danish ECQ
+Copenhagen, Denmark
+May 14th 2011
+3R+F
+15 players
+Nikolaj Wendt
+
+-- 1.5VP in final
+
+Deck Name: Demons and Masters
+
+Description: An unsuccessful Cybele Baali bleed deck where I added
+Aksinya and Nana and 15 masters, and then it worked out well.
+
+Crypt (12 cards, min=27, max=40, avg=8.58)
+------------------------------------------
+4x Cybele		   10  ANI DAI OBF PRE SER THA		 Baali:4
+2x Aksinya Daclau	   9   ANI FOR PRE PRO cel tha		 Gangrel antitribu:4
+2x Annazir		   9   DAI OBF POT PRE		2 votes	 Baali:5
+2x Maureen, Dark Priestess 6   DAI PRE dom obf		1 vote	 Baali:4
+1x Nana Buruku		   8   ANI POT PRE			 Guruhi:4
+1x Azaneal		   7   DAI OBF OBT pre tha		 Baali:4
+
+Library (74 cards)
+Master (39; 9 trifle)
+1x Anarch Troublemaker
+6x Ashur Tablets
+1x Blind Spot
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Legendary Vampire
+1x Lilith's Blessing
+2x Liquidation
+1x Misdirection
+1x Monastery of Shadows
+1x Sudden Reversal
+10x Tend the Flock
+7x Villein
+2x Wider View
+
+Action (8)
+6x Legal Manipulations
+2x Unleash Hell's Fury
+
+Ally (1)
+1x Veneficti
+
+Action Modifier (14)
+2x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+2x I am Legion
+2x Lost in Crowds
+1x Marked Path
+2x Psychomachia
+1x Veil the Legions
+
+Action Modifier/Combat (4)
+2x Hide the Mind
+2x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Sense the Sin
+
+Reaction (2)
+2x Mental Maze
+
+Event (3)
+2x Anthelios, The Red Star
+1x Scourge of the Enochians

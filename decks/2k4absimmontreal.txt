@@ -1,0 +1,64 @@
+Absimillard's Army
+Montreal, Quebec
+September 19th 2004
+16 players
+Frédéric Gingras
+
+Crypt (12 cards, min=18, max=36, avg=6.67)
+------------------------------------------
+4x Baron, The			 9   FOR NEC OBF THN dom  2 votes  Samedi:2
+2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec  	   Samedi:2
+2x George Frederick		 6   FOR THN nec obf	  	   Samedi:2
+2x Catherine du Bois		 5   DOM for obf pre	  	   Ventrue:3
+1x Isabel Giovanni		 5   DOM NEC pot	  	   Giovanni:2
+1x Rudolfo Giovanni		 3   NEC		  	   Giovanni:2
+
+Library (90 cards)
+Master (16)
+3x Blood Doll
+1x Charisma
+3x Dominate
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Jake Washington
+1x KRCG News Radio
+1x Secure Haven
+1x Specialization
+
+Action (10)
+5x Govern the Unaligned
+5x Restoration
+
+Ally (12)
+12x Shambling Hordes
+
+Equipment (12)
+8x Flash Grenade
+2x IR Goggles
+1x Laptop Computer
+1x Seal of Veddartha
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (19)
+4x Cloak the Gathering
+3x Conditioning
+1x Faceless Night
+6x Freak Drive
+3x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (6)
+4x Deflection
+2x Wake with Evening's Freshness
+
+Combat (8)
+8x Concealed Weapon
+
+Event (2)
+2x Unmasking, The

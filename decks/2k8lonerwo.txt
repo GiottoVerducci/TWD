@@ -1,0 +1,64 @@
+Loner
+Westerville, Ohio
+August 10th 2008
+3R+F
+14 players
+Zach Couch
+
+-- 4VP in final
+
+Winner: Zach Couch
+Deck: Nadima plus
+
+Crypt (12 cards, min=16, max=32, avg=5.75)
+------------------------------------------
+4x Nadima		8   FOR PRO SER ani aus	 Gangrel:3
+3x Mirembe Kabbada	5   PRO SER ani		 Gangrel:2
+1x Ramona		4   for pro		 Gangrel:2
+1x Ramona (ADV)		4   for pro		 Gangrel:2
+1x Horrock		6   ANI PRO vic		 Gangrel:3
+1x Dr. Allan Woodstock	5   PRO ani aus for	 Gangrel:3
+1x Chandler Hungerford	3   PRO			 Gangrel:2
+
+Library (66 cards)
+Master (13; 3 trifle)
+1x Backways
+1x Direct Intervention
+1x Ecoterrorists
+1x Heidelberg Castle, Germany
+1x Serpentis
+4x Tribute to the Master
+2x Vessel
+1x Wash
+1x Zoo Hunting Ground
+
+Action (9)
+4x Embrace, The
+2x Enticement
+2x Form of Corruption
+1x Temptation
+
+Ally (1)
+1x Renegade Garou
+
+Equipment (5)
+1x Bowl of Convergence
+3x Camera Phone
+1x Palatial Estate
+
+Retainer (3)
+3x Raven Spy
+
+Action Modifier (7)
+2x Earth Control
+3x Freak Drive
+2x Truth of a Thousand Lies
+
+Reaction (9)
+3x Forced Awakening
+6x Wake with Evening's Freshness
+
+Combat (19)
+13x Earth Meld
+5x Form of Mist
+1x Pack Alpha

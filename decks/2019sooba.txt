@@ -1,0 +1,53 @@
+State of Origin
+Brisbane, Australia
+June 22nd 2019
+3R+F
+10 players
+Steven Balwin
+https://www.vekn.net/event-calendar/event/9253
+
+Deck Name: Nephanduses and Nephandi
+Created by: Steven Balwin
+
+Winning Deck List:
+
+Crypt (12 cards, min=13, max=20, avg=4.17)
+------------------------------------------
+5x Antonio d'Erlette	5   THA dom for pot	Tremere antitribu:4
+2x Janine		4   aus dom tha		Tremere antitribu:4
+2x Mosfair		4   cel dom tha		Tremere antitribu:4
+1x Ember Wright		3   aus dom		Tremere antitribu:3
+1x Keith Moody		3   DOM			Tremere antitribu:4
+1x Saiz			3   aus dom		Tremere antitribu:3
+
+Library (90 cards)
+Master (9)
+3x Blood Doll
+1x Hungry Coyote, The
+2x Information Highway
+1x KRCG News Radio
+2x University Hunting Ground
+
+Action (17)
+17x Computer Hacking
+
+Ally (9)
+1x Carlton Van Wyk
+8x Nephandus
+
+Action Modifier (18)
+7x Conditioning
+1x Empowering the Puppet King
+10x Mirror Walk
+
+Reaction (22)
+10x Deflection
+2x Delaying Tactics
+10x On the Qui Vive
+
+Combat (14)
+5x Glancing Blow
+9x Trap
+
+Event (1)
+1x Unmasking, The

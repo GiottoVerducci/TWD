@@ -1,0 +1,71 @@
+Neutral Ground
+New York City, New York
+August 14th 2004
+2R+F
+14 players
+Peter Bakija
+
+"My Deck is Cooler Than Yours!"
+Weenie Obfuscate Cooler Bloat
+
+A Blood Doll/Cooler bloat deck I have been working on for a while (and
+failed to get anywhere significant at the NE Reigonals this past
+February with) that Jon Darbro convinced me to play at this
+tournament. The Perfectionists turned out to be incredibly useful (who
+woulda thought...), but the last minute inclusion of Specialization
+didn't really help much--it would have been better off as, well,
+pretty much anything (maybe a Zoning Board to get rid of locations?)
+
+Crypt (12 cards, min=8, max=18, avg=3.17)
+-----------------------------------------
+1x Cicatriz			5   ani obf pot	 bishop	 Nosferatu antitribu:2
+1x Lithrac			5   OBF for thn	 	 Samedi:2
+1x Agrippina			4   OBF pot	 	 Nosferatu:1
+1x Sammy			4   ani obf pot	 	 Nosferatu:1
+1x Dan Murdock			3   aus obf	 	 Caitiff:1
+1x Dollface			3   aus obf	 	 Malkavian:1
+1x Duck				3   obf pot	 	 Nosferatu:1
+1x Shannon Price, The Whisperer	3   ani obf	 	 Nosferatu antitribu:2
+1x Watenda			3   obf		 	 Malkavian:2
+1x Dimple			2   obf		 	 Nosferatu:1
+1x Normal			2   obf		 	 Malkavian:1
+1x Basil			1   obf		 	 Pander:2
+
+Library (90 cards)
+Master (30; 7 trifle)
+1x Archon Investigation
+13x Blood Doll
+1x Coven, The
+4x Effective Management
+6x Life in the City
+2x Perfectionist
+1x Rack, The
+1x Specialization
+1x Storage Annex
+
+Action (14)
+10x Computer Hacking
+4x Kindred Intelligence
+
+Ally (2)
+2x Muddled Vampire Hunter
+
+Equipment (10)
+1x Aaron's Feeding Razor
+1x Blood Tears of Kephran
+8x Cooler
+
+Political Action (4)
+4x Rumors of Gehenna
+
+Action Modifier (22)
+4x Cloak the Gathering
+6x Faceless Night
+6x Lost in Crowds
+6x Spying Mission
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Reaction (2)
+2x Delaying Tactics

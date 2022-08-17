@@ -1,0 +1,74 @@
+Dutch NC 2015 - Disco Vampire
+Utrecht, The Netherlands
+October 24th 2015
+3R+F
+18 players
+Jonathan van der Smissen
+
+Deck Name: [KIA] Kiasyd 66 cards
+
+The deck is just big enough to get you through the table.
+1st game: 3vp. My third vp was just when I decked out with 6 minutes left on the clock. Most of my minions were torpored, witouth cards my last one soon joined them and all 4 got eaten.
+2nd game: 0vp. Beast rush deck in my back. My deck can't cope with rush potence torn grapple blur.
+3rd game: 3vp. a crucial seduction on anneke allowed my first oust. My prey and predator were contesting a pentex for the whole game. Martin's presence bleeder got through the wakes of anneke anson after which I took the table.
+
+Final: setite corrupt vote -> nosferatu vote -> gangrel royalty -> me kiasyd sb -> presence bleed.
+My opening crypt at this table was perfect. I had pheridima(8 bishop) and omme (7 priscus) 4 transfers to start with and a govern.
+Me and the nosferatu had votelock over my predator which allowed me to keep the gangrel alive but severely damaged and a little threat. I got through the presence deck, at which point the table started to collapse. The nosferatu died soon after. Giving me, the stealth bleed deck votelock over the table. I went from 14 to 4 pool in a single turn, allowing myself to get parity shifted for my predators benefit, pentexing xaviar(who downgraded to prince) influencing a new minion and paying pheridima to get an untapped minion.
+
+I delayed the reckless agitation from the setites who were about to backoust me.
+Then my predator did a bleed of 1 with form of mist (3 pool left) he tried to cycle hard to find his kine resources contested , luckily he failed to find it.
+My prey had 3 pool left, my predator 7.
+My prey bounces the first govern, bounces the second govern. I go for a third and luckily that's all he had. Bleed for 1 with a seduction to win the game.
+
+Crypt (12 cards, min=18, max=30, avg=6.17)
+------------------------------------------
+2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+2x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+2x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+2x Quincy, The Trapper	   4   dom myt obt	    		Kiasyd:3
+
+Library (66 cards)
+Master (11; 2 trifle)
+2x Blood Doll
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+1x Pentex(TM) Subversion
+1x Perfectionist
+2x Sudden Reversal
+1x Wash
+
+Action (12)
+10x Govern the Unaligned
+2x Song of Pan
+
+Action Modifier (19)
+2x Bonding
+4x Conditioning
+1x Foreshadowing Destruction
+1x Seduction
+3x Shadow Play
+3x Shroud of Absence
+5x Stone Travel
+
+Action Modifier/Combat (5)
+5x Fae Contortion
+
+Action Modifier/Reaction (4)
+3x Aura Absorption
+1x Murmur of the False Will
+
+Reaction (12)
+5x Deflection
+1x Delaying Tactics
+4x On the Qui Vive
+1x Redirection
+1x Wake with Evening's Freshness
+
+Combat (3)
+1x Earth Swords
+2x Oubliette

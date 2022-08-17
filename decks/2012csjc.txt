@@ -1,0 +1,63 @@
+Conditioning: Silicon Valley Qualifier
+San Jose, California
+December 29th 2012
+2R+F
+21 players
+Jeff Kuta
+
+Deck Name: Speed Kills
+
+Description: G1/2 Nosferatu Royalty
+Inspired by Cosa Nostra by Jakub Marek.
+http://www.secretlibrary.info/index.php?deck=view&amp;id=6365
+
+Crypt (13 cards, min=20, max=36, avg=7.38)
+------------------------------------------
+3x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+3x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
+2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+1x Agrippina			4   OBF pot		 	   Nosferatu:1
+1x Dimple			2   obf			 	   Nosferatu:1
+
+Library (66 cards)
+Master (22; 1 trifle)
+1x Archon Investigation
+1x Bleeding the Vine
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Information Highway
+1x Labyrinth, The
+6x Legendary Vampire
+1x Pentex(TM) Subversion
+1x Warsaw Station
+1x Wider View
+6x Zillah's Valley
+
+Action (1)
+1x SchreckNET
+
+Political Action (21)
+2x Conservative Agitation
+2x Domain Challenge
+5x Kine Resources Contested
+1x Neonate Breach
+9x Parity Shift
+2x Reinforcements
+
+Action Modifier (16)
+1x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+4x Freak Drive
+4x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (4)
+2x Lost in Translation
+2x Second Tradition: Domain

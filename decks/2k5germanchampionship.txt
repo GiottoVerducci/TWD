@@ -1,0 +1,63 @@
+German NC 2005
+Ludwigshafen, Germany
+October 3rd 2005
+33 players
+Johannes Walch
+
+Deck Name: Nergal has possesed the body of Thetmes
+Created by: Johannes Walch/Erol Hammer
+
+Description: Erol lent the deck to me and I added 2 D.I
+Hard to play yet very powerful. You don't have many combat cards but
+you must look dangerous all the time. Every move is crucial. Only rush
+sure targets/easy kills.
+
+Crypt (12 cards, min=8, max=40, avg=5.5)
+----------------------------------------
+4x Thetmes, Caliph of Alamut	   10  CEL OBF QUI dom pot  2 votes	Assamite:2
+2x Badr al-Budur		   5   OBF cel dom qui	    		Assamite:2
+1x Gloria Giovanni		   4   DOM nec		    		Giovanni:2
+1x Ingrid Russo			   4   DOM for		    		Ventrue antitribu:2
+1x Marciana Giovanni, Investigator 2   dom		    		Giovanni:2
+1x Mustafa Rahman		   2   dom		    		Tremere:2
+1x Ohanna			   2   dom		    		Malkavian:2
+1x Samson			   2   dom		    		Ventrue antitribu:2
+
+Library (90 cards)
+Master (23)
+1x Carver's Meat Packing and Storage
+2x Contract
+1x Depravity
+2x Direct Intervention
+1x Dreams of the Sphinx
+2x Fame
+1x Golconda: Inner Peace
+8x Minion Tap
+4x Storage Annex
+1x Visit from the Capuchin
+
+Action (11)
+7x Clandestine Contract
+4x Graverobbing
+
+Action Modifier (10)
+5x Cloak the Gathering
+2x Conditioning
+3x Lost in Crowds
+
+Action Modifier/Reaction (8)
+8x Provision of the Silsila
+
+Reaction (13)
+8x Deflection
+1x Delaying Tactics
+4x Wake with Evening's Freshness
+
+Combat (25)
+8x Immortal Grapple
+6x Selective Silence
+2x Shadow Feint
+2x Sideslip
+2x Silence of Death
+2x Stutter-Step
+3x Taste of Death

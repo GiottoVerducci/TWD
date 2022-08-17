@@ -1,0 +1,66 @@
+First Blood
+Belgrade, Serbia
+March 24th 2007
+3R+F
+10 players
+Nikica Novaković
+
+Deck Name: Salubri getting dirty
+Created by: ResurrectioN
+
+Notes on deck:
+The main reason i've picked to play with this deck was that i was
+pretty sure what every player is gonna play.
+My predictions came true and of 10 participants only 3 didn't have for
+or dom in their crypt (note that 5 players who didn't show up would
+play dom or for).
+
+The dack itself needs some tweaking and these are potential changes:
+-Perefctionst/ +Secure Haven
+-Renewed Vigor/ +Conditioning
+-Kiss of Ra/ +Dawn Operation
+
+I have never influenced Blanche and she will probably be replaced with
+Samson and Lana Bucher.
+
+Crypt (12 cards, min=22, max=31, avg=6.75)
+------------------------------------------
+4x Matthias			7   AUS FOR OBE nec	 Salubri:2
+3x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 Ventrue antitribu:3
+2x Blanche Hill			6   FOR OBE aus		 Salubri:2
+1x Blackhorse Tanner		7   AUS DOM FOR		 Ventrue antitribu:3
+1x Vanessa			6   DOM FOR aus pre	 Ventrue antitribu:2
+1x Ingrid Russo			4   DOM for		 Ventrue antitribu:2
+
+Library (90 cards)
+Master (14)
+1x Demonstration
+1x Giant's Blood
+4x Heidelberg Castle, Germany
+5x Minion Tap
+2x Perfectionist
+1x Secure Haven
+
+Action (24)
+1x Far Mastery
+5x Govern the Unaligned
+1x Graverobbing
+5x Renewed Vigor
+12x Spirit Marionette
+
+Action Modifier (22)
+4x Change of Target
+4x Conditioning
+5x Daring the Dawn
+5x Freak Drive
+1x Kiss of Ra, The
+3x Repulsion
+
+Reaction (17)
+7x Deflection
+4x Delaying Tactics
+6x Wake with Evening's Freshness
+
+Combat (13)
+8x Anesthetic Touch
+5x Rolling with the Punches

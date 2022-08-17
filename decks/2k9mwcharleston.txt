@@ -1,0 +1,65 @@
+Monkey Wrench
+Charleston, South Carolina
+February 14th 2009
+2R+F
+12 players
+Jeffrey Thompson
+
+-- 3VP in final
+
+Deck Name: I am I
+
+1st round, sweep, 4VP
+2nd round, tied, 2VP / 2vp with prey
+Final round, won, 3VP with grand prey taking 2VP
+
+Crypt (12 cards, min=13, max=31, avg=5.5)
+-----------------------------------------
+3x Dela Eden			   8   AUS FOR VAL cel dom  Salubri antitribu:3
+3x Adonai			   7   AUS VAL for	    Salubri antitribu:2
+1x Remilliard, Devout Crusader	   4   AUS pre		    Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha		    Tremere antitribu:2
+1x Thomas Steed, The Angry	   4   ani aus val	    Salubri antitribu:2
+1x Isabel de Leon		   3   AUS		    Toreador:2
+1x Kervos, The Lieutenant	   3   aus val		    Salubri antitribu:2
+1x Zöe				   3   AUS cel obf	    Malkavian:2
+
+Library (90 cards)
+Master (14)
+4x Blood Doll
+1x Blooding by the Code
+1x Dark Influences
+1x Fame
+1x Giant's Blood
+2x Guardian Angel
+3x Path of Retribution, The
+1x Rötschreck
+
+Action (7)
+1x Abbot
+2x Anima Gathering
+4x Sense Death
+
+Equipment (1)
+1x Bowl of Convergence
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (42)
+3x Eagle's Sight
+3x Enhanced Senses
+4x Eyes of Argus
+6x Forced Awakening
+2x Forced Vigilance
+3x My Enemy's Enemy
+7x On the Qui Vive
+3x Precognition
+3x Telepathic Counter
+8x Telepathic Misdirection
+
+Combat (25)
+4x Armor of Caine's Fury
+9x Blissful Agony
+7x Eye of Unforgiving Heaven
+5x Soak

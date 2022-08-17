@@ -1,0 +1,76 @@
+True Love's Face
+Massa, Italy
+September 26th 2013
+2R+F
+10 players
+Paolo Pasqualin
+
+-- 3VP in final
+
+Deck Name: Ten Little Archbishops
+Created by: Paolo Pasqualin after Cristiano Mulattero
+
+Crypt (18 cards, min=6, max=23, avg=3.22)
+-----------------------------------------
+1x Alfred Benezri (ADV)	  7   PRE THA aus dom	bishop	    Pander:3
+2x Alfred Benezri	  6   PRE THA aus dom	bishop	    Pander:3
+1x Fabrizia Contreraz	  4   dem pot		archbishop  Malkavian antitribu:4
+1x Bill Butler		  3   pot pro			    Gangrel antitribu:4
+1x Droescher One-Eye	  3   ani vic			    Tzimisce:4
+1x Hester Reed		  3   obt pot			    Lasombra:3
+1x Jackie		  3   DEM			    Malkavian antitribu:4
+1x Jonathan Gursel	  3   aus pre			    Toreador antitribu:4
+1x Lectora		  3   aus tha			    Tremere antitribu:4
+1x Monique Kim		  3   aus cel			    Toreador antitribu:4
+1x Stick		  3   ANI			    Nosferatu antitribu:4
+1x Ulrike Rothbart	  3   dom for			    Ventrue antitribu:4
+1x Justine Chen, Innocent 2   pre			    Toreador antitribu:4
+1x Leo Washington	  2   cel pro			    Gangrel antitribu:4
+1x Old Neddacka		  2   obf			    Nosferatu antitribu:4
+1x Jaggedy Andy		  1   pot			    Pander:4
+1x Schuyler		  1   tha			    Pander:4
+
+Library (75 cards)
+Master (24; 5 trifle)
+1x Archon Investigation
+1x Direct Intervention
+2x Dreams of the Sphinx
+4x Effective Management
+3x Elder Library
+2x Information Highway
+4x Life in the City
+2x Parthenon, The
+4x Tribute to the Master
+1x Wash
+
+Action (5)
+2x Blood Feast
+3x Esbat
+
+Political Action (29)
+1x Crusade: Amsterdam
+1x Crusade: Aragon
+1x Crusade: Atlanta
+1x Crusade: Berlin
+1x Crusade: Brussels
+1x Crusade: Detroit
+1x Crusade: Frankfurt
+1x Crusade: Geneva
+1x Crusade: Toronto
+1x Crusade: Washington, D.C.
+6x Diversity
+12x Kine Resources Contested
+1x Year of Fortune
+
+Action Modifier (5)
+3x Change of Target
+2x Cryptic Rider
+
+Combat (8)
+8x Dodge
+
+Event (4)
+1x Anthelios, The Red Star
+1x Blood Weakens
+1x Slow Withering, The
+1x Veil of Darkness

@@ -1,0 +1,62 @@
+Crusade: Caucaia II
+Fortaleza, Brazil
+March 25th 2014
+3R+F
+15 players
+Mailton Silva
+https://www.vekn.net/event-calendar/event/7616
+
+-- 3VP in final
+
+Deck Name: The World is Mine
+
+Crypt (12 cards, min=23, max=40, avg=8.58)
+------------------------------------------
+4x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
+4x Jaroslav Pascek 10  CEL POT PRE for obf  justicar	Brujah:3
+2x Pug Jackson	   6   CEL POT for pre	    primogen	Brujah:3
+1x Maxwell	   9   CEL FOR POT PRE PRO  		Brujah:3
+1x Clifton Derrik  2   cel		    		Brujah:4
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Archon Investigation
+1x Fortitude
+1x Giant's Blood
+4x Haven Uncovered
+1x KRCG News Radio
+3x Perfectionist
+2x Vessel
+4x Villein
+1x Warzone Hunting Ground
+
+Action (5)
+4x Heroic Might
+1x Preternatural Strength
+
+Equipment (4)
+1x Blade of Enoch
+1x Crimson Sentinel, The
+2x Leather Jacket
+
+Political Action (2)
+2x Alastor
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (10)
+5x Forced March
+5x Iron Glare
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (40)
+8x Blur
+2x Disarm
+8x Psyche!
+6x Skin of Steel
+4x Staredown
+5x Taste of Vitae
+7x Torn Signpost

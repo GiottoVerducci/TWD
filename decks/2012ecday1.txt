@@ -1,0 +1,64 @@
+EC 2012 Day 1
+Budapest, Hungary
+October 27th 2012
+3R+F
+149 players
+Randal Rudstam
+
+Deck Name: EC 2012 Day 1: Unmada and Lutz
+
+I won the EC day one in 2012 with this deck, it is a version of the
+deck I used to win the NAC day one but with even more crypt acceleration
+as I have seen more wash in my home meta (to counter crypt acceleration).
+So I decided to use even more Zillah's and a few distraction.
+
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+4x Unmada		 10  AUS DEM OBF VIC cel for	justicar	Malkavian:5
+2x Dmitra Ilyanova	 9   CEL FOR POT PRE obf	justicar	Brujah:5
+2x Undele		 9   CEL FOR obf pre ser	magaji		Ishtarri:5
+
+Library (74 cards)
+Master (26; 7 trifle)
+1x Giant's Blood
+2x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Temptation of Greater Power
+7x Villein
+12x Zillah's Valley
+
+Action (2)
+2x Distraction
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+3x Kine Resources Contested
+7x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (19)
+1x Approximation of Loyalty
+2x Elder Impersonation
+1x Enkil Cog
+3x Faceless Night
+6x Forced March
+1x Into Thin Air
+4x Lost in Crowds
+1x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Hide the Mind
+
+Reaction (8)
+2x Eyes of Argus
+1x My Enemy's Enemy
+1x On the Qui Vive
+1x Second Tradition: Domain
+3x Telepathic Misdirection

@@ -1,0 +1,80 @@
+Baptism of Fire
+Rockhampton (Queensland), Australia
+July 5th 2003
+10 players
+Noel Somerfield
+
+Deck Name: Tremere
+
+Crypt (12 cards, min=16, max=26, avg=5.17)
+------------------------------------------
+2x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+2x Eugenio Estevez		6   AUS THA dom for		  Tremere:3
+2x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+2x Hannigan			5   AUS THA dom			  Tremere antitribu:2
+2x Blythe Candeleria		3   THA aus			  Tremere:2
+1x Alejandro Aguirre		5   ani aus dom tha		  Tremere antitribu:3
+1x Cohn Rose			5   THA aus dom pre		  Tremere:3
+
+Library (90 cards)
+Master (12)
+1x Academic Hunting Ground
+1x Arcane Library
+2x Archon Investigation
+1x Blood Doll
+1x Chantry
+1x Depravity
+2x Dominate
+1x Giant's Blood
+1x Major Boon
+1x Sudden Reversal
+
+Action (7)
+1x Cryptic Mission
+2x Govern the Unaligned
+1x Graverobbing
+1x Magic of the Smith
+2x Rutor's Hand
+
+Ally (1)
+1x Talaq, The Immortal
+
+Equipment (4)
+1x Ankara Citadel, Turkey, The
+1x Blood Tears of Kephran
+2x Leather Jacket
+
+Retainer (1)
+1x Charnas the Imp
+
+Action Modifier (5)
+1x Bonding
+1x Conditioning
+1x Perfect Clarity
+1x Sleeping Mind, The
+1x Threats
+
+Reaction (32)
+6x Deflection
+4x Eagle's Sight
+4x Enhanced Senses
+6x Fast Reaction
+2x My Enemy's Enemy
+2x Precognition
+2x Telepathic Counter
+2x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (28)
+1x Apportation
+4x Blood Fury
+4x Blood Rage
+2x Blood to Water
+2x Bond with the Mountain
+1x Burst of Sunlight
+1x Movement of the Mind
+2x Soul Burn
+2x Taste of Vitae
+5x Theft of Vitae
+2x Thoughts Betrayed
+2x Weather Control

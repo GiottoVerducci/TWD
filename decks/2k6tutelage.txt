@@ -1,0 +1,66 @@
+Inconnu Tutelage
+Quebec City, Quebec
+October 8th 2006
+15 players
+Charles Lechasseur
+
+Deck Name: Henry: The Gathering
+
+Description: A deck inspired by Ben Peal's Henry Twister deck. Tool up
+Henry with Anima Gathering and others, drop lots of permanents and
+protect the Smiling Jack with infinite Earth Melds.
+
+Crypt (12 cards, min=7, max=24, avg=4)
+--------------------------------------
+5x Henry Taylor			6   POT cel pre pro	Brujah antitribu:3
+1x Jane Sims			4   VIC ani aus pro	Tzimisce:4
+1x L'Épuisette			4   aus cel pro		Toreador antitribu:4
+1x David Morgan, The Scourge	3   aus pot		Malkavian:3
+1x Almiro Suarez		2   aus			Tremere:3
+1x Nicholas Chang		2   aus			Toreador antitribu:3
+1x Piotr Andreikov		2   aus			Tzimisce:3
+1x Feo Ramos			1   aus			Pander:3
+
+Library (60 cards)
+Master (27; 2 trifle)
+1x Amusement Park Hunting Ground
+1x Anarch Free Press, The
+2x Blood Doll
+1x Direct Intervention
+7x Dirty Contract
+2x Galaric's Legacy
+1x KRCG News Radio
+1x Millicent Smith, Puritan Vampire Hunter
+2x Parthenon, The
+1x Powerbase: Montreal
+2x Protean
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Smiling Jack, The Anarch
+2x Waste Management Operation
+1x WMRH Talk Radio
+
+Action (15)
+2x Anima Gathering
+6x Concert Tour
+7x Riddle Phantastique
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (2)
+1x Ruins of Villers Abbey, Belgium
+1x Sport Bike
+
+Action Modifier (2)
+2x Grandest Trick, The
+
+Reaction (2)
+2x On the Qui Vive
+
+Combat (11)
+3x Earth Meld
+1x Form of Mist
+2x Groundfighting
+1x Quick Meld
+4x Tracker's Mark

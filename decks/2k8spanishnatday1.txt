@@ -1,0 +1,78 @@
+Spanish NC 2008 Day 1
+Madrid, Spain
+November 29th 2008
+3R+F
+42 players
+Iñaki Puigdollers
+
+Designer: Iñaki Puigdollers
+Player: Iñaki Puigdollers
+
+V.P.' s 0.5 + 2.5 + 3 + 3 = 9
+
+Crypt (12 cards, min=6, max=16, avg=2.75)
+-----------------------------------------
+1x Idalia, Prophet of Guadalajara  4   AUS dem	    Malkavian antitribu:2
+1x Maldavis			   4   AUS for pre  Caitiff:3
+1x Remilliard, Devout Crusader	   4   AUS pre	    Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha	    Tremere antitribu:2
+1x Isabel de Leon		   3   AUS	    Toreador:2
+1x Martin Franckel		   3   AUS tha	    Tremere:3
+1x Zöe				   3   AUS cel obf  Malkavian:2
+1x Almiro Suarez		   2   aus	    Tremere:3
+1x Nicholas Chang		   2   aus	    Toreador antitribu:3
+1x Piotr Andreikov		   2   aus	    Tzimisce:3
+1x Feo Ramos			   1   aus	    Pander:3
+1x Franciscus			   1   aus	    Caitiff:2
+
+Library (90 cards)
+Master (20; 4 trifle)
+1x Bleeding the Vine
+2x Blood Doll
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Jake Washington
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+4x Vessel
+1x WMRH Talk Radio
+
+Ally (8)
+1x Carlton Van Wyk
+1x Gregory Winter
+2x Neighborhood Watch Commander
+1x Ossian
+2x Procurer
+1x Young Bloods
+
+Equipment (6)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Palatial Estate
+1x Sniper Rifle
+
+Reaction (47)
+2x Delaying Tactics
+7x Eagle's Sight
+5x Enhanced Senses
+2x Fillip
+8x Forced Awakening
+5x My Enemy's Enemy
+4x On the Qui Vive
+4x Precognition
+4x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (7)
+5x Dodge
+2x Weighted Walking Stick
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

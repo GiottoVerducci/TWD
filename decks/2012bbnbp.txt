@@ -1,0 +1,64 @@
+Bydgoszcz by Night
+Bydgoszcz, Poland
+July 7th 2012
+3R+F
+15 players
+Marcin Szybkowski
+
+-- 2GW9 + 0.5VP in final
+
+Deck Name: Dogs of War
+
+Description: A Sabbat vote deck, because yes we can
+Suggested changes:
+- add a Pentex and another crusade
+- replace Henry Taylor with another copy of a 4cap !brujah
+
+Crypt (12 cards, min=10, max=24, avg=4.08)
+------------------------------------------
+2x Miguel Santo Domingo	7   POT PRE cel for	Brujah antitribu:3
+2x Sarah Brando		3   CEL			Brujah antitribu:2
+2x Frederick the Weak	2   pre			Brujah antitribu:2
+1x Henry Taylor		6   POT cel pre pro	Brujah antitribu:3
+1x Evangeline		4   cel pot pre		Brujah antitribu:2
+1x Hugo			4   POT pre vic		Brujah antitribu:2
+1x Mariano Pomposo	4   aus cel pot		Brujah antitribu:3
+1x Victor Tolliver	4   CEL pot		Brujah antitribu:2
+1x Jacob Bragg		3   cel pot		Brujah antitribu:2
+
+Library (73 cards)
+Master (11)
+1x Amusement Park Hunting Ground
+1x Archon Investigation
+1x Barrens, The
+1x Día de los Muertos
+1x Dreams of the Sphinx
+1x Gang Territory
+1x Information Highway
+2x Not to Be
+1x Powerbase: Madrid
+1x Waste Management Operation
+
+Action (8)
+8x Embrace, The
+
+Equipment (10)
+10x Saturday-Night Special
+
+Political Action (20)
+6x Consanguineous Boon
+1x Crusade: Atlanta
+1x Crusade: Detroit
+1x Crusade: Pittsburgh
+1x Crusade: Rome
+1x Crusade: Toronto
+5x Dogs of War
+4x Kine Resources Contested
+
+Action Modifier/Reaction (8)
+8x Unexpected Coalition
+
+Combat (16)
+7x Concealed Weapon
+7x Dragon's Breath Rounds
+2x Target Vitals

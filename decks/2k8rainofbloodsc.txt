@@ -1,0 +1,81 @@
+Rain of Blood
+Santiago, Chile
+April 26th 2008
+13 players
+Waldo Peyrau
+
+Deck Name: Guruhi Votos Combate
+
+Crypt (12 cards, min=30, max=40, avg=8.67)
+------------------------------------------
+2x Ugadja		 10  ABO ANI POT PRE dom for	magaji	    Guruhi:4
+2x Nangila Were		 9   ANI POT PRE obf ser		    Guruhi:4
+2x Lukas		 8   ANI OBF POT pre ser	archbishop  Nosferatu antitribu:4
+2x Sobayifa		 8   ANI PRE aus pot pro spi	magaji	    Guruhi:3
+2x Aren, Priest of Eshu	 7   POT PRE ani obf			    Guruhi:4
+1x Eze, The Demon Prince 11  ANI NEC POT PRE THA aus	magaji	    Guruhi:3
+1x Iniko, The Black Lion 9   ANI OBT POT PRE cel		    Guruhi:4
+
+Library (90 cards)
+Master (12; 1 trifle)
+1x Blood Doll
+1x Giant's Blood
+2x Grooming the Protégé
+1x Legendary Vampire
+2x Minion Tap
+1x Palace Hunting Ground
+1x Rumor Mill, Tabloid Newspaper, The
+1x Vessel
+2x Zillah's Valley
+
+Action (8)
+1x Ambush
+4x Enchant Kindred
+1x Founders of the Ebony Kingdom
+2x Taunt the Caged Beast
+
+Equipment (2)
+2x Leather Jacket
+
+Political Action (10)
+1x Ancient Influence
+1x Banishment
+1x Consanguineous Boon
+1x Conservative Agitation
+1x Disputed Territory
+3x Kine Resources Contested
+1x Overseer
+1x Political Stranglehold
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier (17)
+1x Awe
+2x Bewitching Oration
+4x Guruhi Are the Land, The
+6x Iron Glare
+4x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Guruhi Kholo
+
+Reaction (10)
+5x Cats' Guidance
+2x Forced Awakening
+2x Instinctive Reaction
+1x Wake with Evening's Freshness
+
+Combat (28)
+1x Burning Wrath
+2x Carrion Crows
+1x Disarm
+1x Drawing Out the Beast
+2x Flesh Bond
+4x Immortal Grapple
+5x Majesty
+5x Pushing the Limit
+1x Staredown
+1x Taste of Vitae
+1x Terror Frenzy
+4x Torn Signpost

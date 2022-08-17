@@ -1,0 +1,73 @@
+Gothenburg Thawing
+Gothenburg, Sweden
+March 9th 2003
+15 players
+Erik Torstensson
+
+Deck Name: Die Kuchenfrau goes mad
+
+Description: someone has stolen rachel's sneakers (or something).
+Probably your prey. She wants it back. By killing. Bleed, oust, win.
+Victoria is "great" with the network, which is broken. Earth meld is
+broken too. Add some candy just for fun like Sniper Rifle, Ivory Bow
+and Aarons Feeding Razor. You don't need the madness network /
+homonolucus combo to win, though it make things more easy. Cards that
+also would fit in are probably gigants blood and Curse of Nitocris.
+Muddled vampire hunter is great to make players leave the network
+alone, one more would be good. The only problem for this deck is
+immortal grapple, but no one ever plays it around here so... in an
+more grappling environment I would add Claws of the Dead and
+Rötschreck. Or some more Sniper Rifles.
+
+Crypt (12 cards, min=16, max=40, avg=7.33)
+------------------------------------------
+5x Rachel Brandywine		10  AUS DEM OBF PRO ani	 prince	 Malkavian:3
+2x Greger Anderssen		7   AUS OBF dom pro	 prince	 Malkavian:2
+2x Victoria			5   AUS cel obf		 	 Malkavian:2
+1x Anatole, Prophet of Gehenna	8   AUS DEM OBF dom for	 	 Malkavian:2
+1x Watenda			3   obf			 	 Malkavian:2
+1x Zöe				3   AUS cel obf		 	 Malkavian:2
+
+Library (90 cards)
+Master (13)
+1x Asylum Hunting Ground
+1x Barrens, The
+3x Blood Doll
+6x Madness Network
+1x Metro Underground
+1x Powerbase: Montreal
+
+Ally (1)
+1x Muddled Vampire Hunter
+
+Equipment (5)
+1x Aaron's Feeding Razor
+1x Ivory Bow
+1x Laptop Computer
+1x Sniper Rifle
+1x Sport Bike
+
+Retainer (4)
+4x Homunculus
+
+Action Modifier (9)
+1x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+2x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (32)
+1x Eagle's Sight
+7x Enhanced Senses
+10x Forced Awakening
+7x Second Tradition: Domain
+7x Telepathic Misdirection
+
+Combat (24)
+3x Aura Reading
+15x Earth Meld
+6x Form of Mist

@@ -1,0 +1,63 @@
+Last Stand, Italian Qualifier 2010
+Florence, Italy
+September 19th 2010
+3R+F
+35 players
+Danilo Torrisi
+
+-- 3VP in final
+
+Deck: turbo shambling
+
+Crypt (12 cards, min=14, max=28, avg=5.17)
+------------------------------------------
+2x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+2x Carlotta Giovanni	7   NEC POT dom obf	Giovanni:2
+2x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+2x Le Dinh Tho		5   NEC aus dom		Nagaraja:2
+2x Gloria Giovanni	4   DOM nec		Giovanni:2
+2x Rudolfo Giovanni	3   NEC			Giovanni:2
+
+Library (90 cards)
+Master (19)
+2x Charisma
+1x Dark Influences
+1x Direct Intervention
+1x Fame
+1x Giant's Blood
+8x Liquidation
+2x Path of Bone, The
+1x Pentex(TM) Subversion
+2x Tower of London
+
+Action (5)
+2x Dominate Kine
+3x Sudario Refraction
+
+Ally (28)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Ossian
+5x Procurer
+20x Shambling Hordes
+
+Equipment (6)
+6x Heart of Nizchetus
+
+Action Modifier (11)
+5x Call of the Hungry Dead
+3x Conditioning
+3x Seduction
+
+Action Modifier/Reaction (5)
+5x Spectral Divination
+
+Reaction (11)
+8x Deflection
+3x Delaying Tactics
+
+Event (5)
+1x Anthelios, The Red Star
+1x Dragonbound
+1x FBI Special Affairs Division
+2x Unmasking, The

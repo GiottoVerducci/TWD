@@ -1,0 +1,80 @@
+Sense the Sin
+Vila Velha, Brazil
+September 26th 2015
+2R+F
+10 players
+Vinicius Costalonga
+https://www.vekn.net/event-calendar/event/8235
+
+-- 5VP in final
+
+Deck Name: Mumm-Ra LIFE !
+
+Crypt (15 cards, min=15, max=38, avg=7.07)
+------------------------------------------
+1x Nakhthorheb			10  OBF PRE SER				 Follower of Set:4
+1x Seterpenre			10  AUS NEC OBF PRE SER			 Follower of Set:5
+1x Neferu			9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
+1x Pentweret			9   OBF PRE SER aus for obe		 Follower of Set:5
+1x Porphyrion			9   CHI OBF PRE SER for			 Follower of Set:5
+1x Shemti			9   OBF POT PRE SER vic		1 vote	 Follower of Set:5
+1x Arnulf Jormungandrsson	8   OBF PRE SER aus cel			 Follower of Set:5
+1x Cagliostro, The Grand Copht	8   OBF PRE SER nec pot			 Follower of Set:4
+1x Ogwon			7   OBF PRE SER for			 Follower of Set:5
+1x Ankh-sen-Sutekh		6   PRE SER obf				 Follower of Set:4
+1x Halim Bey			6   DOM SER obf tha			 Follower of Set:4
+1x Renenet			5   OBF PRE ser				 Follower of Set:4
+1x Zhenga			5   SER obf pre				 Follower of Set:4
+1x Ahmose Chambers		3   obf ser				 Follower of Set:5
+1x Belle Equitone		2   ser					 Follower of Set:4
+
+Library (89 cards)
+Master (18; 5 trifle)
+1x Archon Investigation
+1x Charisma
+3x Effective Management
+1x Fame
+2x In Memory of the Two Lands
+1x Khobar Towers, Al-Khubar
+1x KRCG News Radio
+1x Mob Connections
+1x Opium Den
+1x Pentex(TM) Subversion
+5x Vessel
+
+Action (25)
+5x Enchant Kindred
+2x Entrancement
+2x Form of Corruption
+10x Spell of Life
+6x Temptation
+
+Ally (6)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Nephren-Ka
+1x Ossian
+1x Saatet-ta
+1x Tutu the Doubly Evil One
+
+Action Modifier (19)
+4x Cloak the Gathering
+3x Elder Impersonation
+5x Lost in Crowds
+4x Truth of a Thousand Lies
+3x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (10)
+4x On the Qui Vive
+6x Ophidian Gaze
+
+Combat (6)
+3x Majesty
+3x Serpent's Numbing Kiss
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

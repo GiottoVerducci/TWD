@@ -1,0 +1,75 @@
+EC 2008 Day 1
+Prague, Czech Republic
+September 20th 2008
+3R+F
+144 players
+Sebestyén Balázs
+
+Deck Name: Weenie Auspex Anarch
+
+Crypt (17 cards, min=4, max=16, avg=2.24)
+-----------------------------------------
+5x Anarch Convert		   1   -none-	    Caitiff:ANY
+1x Idalia, Prophet of Guadalajara  4   AUS dem	    Malkavian antitribu:2
+1x Maldavis			   4   AUS for pre  Caitiff:3
+1x Remilliard, Devout Crusader	   4   AUS pre	    Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha	    Tremere antitribu:2
+1x Isabel de Leon		   3   AUS	    Toreador:2
+1x Martin Franckel		   3   AUS tha	    Tremere:3
+1x Zöe				   3   AUS cel obf  Malkavian:2
+1x Almiro Suarez		   2   aus	    Tremere:3
+1x Nicholas Chang		   2   aus	    Toreador antitribu:3
+1x Piotr Andreikov		   2   aus	    Tzimisce:3
+1x Feo Ramos			   1   aus	    Pander:3
+1x Franciscus			   1   aus	    Caitiff:2
+
+Library (90 cards)
+Master (24; 4 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+7x Anarch Revolt
+1x Direct Intervention
+1x Millicent Smith, Puritan Vampire Hunter
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+1x Society of Leopold
+2x Twilight Camp
+4x Vessel
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Constant Revolution
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ossian
+
+Equipment (3)
+1x .44 Magnum
+1x Ivory Bow
+1x Sniper Rifle
+
+Action Modifier (1)
+1x Monkey Wrench
+
+Reaction (48)
+2x Delaying Tactics
+9x Eagle's Sight
+4x Enhanced Senses
+7x Forced Awakening
+6x My Enemy's Enemy
+5x On the Qui Vive
+4x Precognition
+4x Spirit's Touch
+7x Telepathic Misdirection
+
+Combat (9)
+4x Dodge
+2x Groundfighting
+3x Target Vitals
+
+Event (1)
+1x Anthelios, The Red Star

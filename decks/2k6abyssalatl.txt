@@ -1,0 +1,67 @@
+Abyssal Hunter
+Atlanta, Georgia
+January 15th 2006
+2R+F
+12 players
+John Newquist
+
+Tremere Group 3/4 Bruise and bleed
+
+Crypt (12 cards, min=19, max=36, avg=6.83)
+------------------------------------------
+2x Oliver Thrace		9   AUS DOM THA nec obf pot		  Tremere:3
+2x Valerius Maior, Hell's Fool	7   AUS DAI DOM THA nec pre		  Tremere:4
+2x Hector Trelane		5   AUS THA dom nec			  Tremere:4
+1x Lucas Halton			10  AUS CEL DOM THA qui		prince	  Tremere:3
+1x Ardan Lane			8   AUS THA dom obf pre		primogen  Tremere:3 -- War Ghoul Hunter
+1x Carna, The Princess Witch	7   AUS DOM THA			primogen  Tremere:3
+1x Muhsin Samir			6   DOM THA aus pot			  Tremere:4
+1x Valois Sang, The Watcher	6   AUS DOM nec tha			  Tremere:3
+1x Masika St. John		3   THA					  Tremere:3
+
+Library (87 cards)
+Master (10)
+1x Academic Hunting Ground
+1x Arcane Library
+4x Blood Doll
+2x Chantry
+2x Wasserschloss Anif, Austria
+
+Action (16)
+2x Divine Sign
+10x Govern the Unaligned
+2x Nose of the Hound
+2x Rutor's Hand
+
+Equipment (1)
+1x Bowl of Convergence
+
+Action Modifier (6)
+1x Call of the Hungry Dead
+4x Conditioning
+1x Seduction
+
+Action Modifier/Reaction (1)
+1x Sense the Sin
+
+Reaction (16)
+1x Deflection
+1x Eagle's Sight
+1x Enhanced Senses
+6x Forced Awakening
+2x My Enemy's Enemy
+1x Precognition
+1x Spirit's Touch
+3x Telepathic Misdirection
+
+Combat (36)
+9x Apportation
+6x Aura Reading
+1x Cauldron of Blood
+3x Telepathic Tracking
+10x Theft of Vitae
+6x Walk of Flame
+1x Wind Dance
+
+Event (1)
+1x NSA Trio

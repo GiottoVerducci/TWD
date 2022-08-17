@@ -1,0 +1,61 @@
+Praxis Seizure: San Ramon
+DunDraCon, San Ramon, California
+February 18th 2001
+17 players
+Ian Lee
+
+Deck Name: Living Lolita Loca
+
+[originally Loco but people pointed out the obvious improvement right away]
+I had 12 out of 13VP - 2GW8 going into the finals, 4VP in final.
+
+Crypt (12 cards, min=8, max=24, avg=4)
+--------------------------------------
+3x Lolita Houston	4   VIC aus	 Tzimisce:2
+2x Caliban		6   ANI AUS VIC	 Tzimisce:2
+2x Corine Marcón	6   AUS VIC ani	 Tzimisce:2
+2x Christine Boscacci	2   dom vic	 Pander:2
+2x Horatio		2   vic		 Tzimisce:2
+1x Terrence		4   ani aus vic	 Tzimisce:2
+
+Library (80 cards)
+Master (18)
+1x Anarch Troublemaker
+5x Blood Doll
+1x Dreams of the Sphinx
+1x Heidelberg Castle, Germany
+1x Hungry Coyote, The
+1x Library Hunting Ground
+1x Path of Metamorphosis, The
+1x Pentex(TM) Loves You!
+1x Storage Annex
+5x Vicissitude
+
+Action (9)
+4x Computer Hacking
+5x Embrace, The
+
+Equipment (8)
+1x Ivory Bow
+4x Living Manse
+3x Saturday-Night Special
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (11)
+11x Changeling
+
+Action Modifier/Combat (9)
+9x Plasmic Form
+
+Reaction (11)
+6x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (12)
+1x Breath of the Dragon
+4x Chiropteran Marauder
+2x Horrid Form
+5x Meld with the Land

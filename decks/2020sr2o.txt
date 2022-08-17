@@ -1,0 +1,76 @@
+Summer Rumble II
+Online
+July 25th 2020
+2R+F
+10 players
+Nikica Novaković
+https://www.vekn.net/event-calendar/event/9636
+
+-- 1GW4 + 3VP in final
+
+Deck Name: Improvised madness revolt
+
+Dust Up your Improvised Flamethrower and Revolt with a Smile
+
+It has always annoyed me how unable I'm to go forward with AUS decks. If you're not Tzimisce and threatening torpor no one cares.
+Similar goes if you have Sniper rifles. Good defense - no offense. Improvised Flamethrowers solve both.
+The very obvious downside is it explodes if you take damage on long range. Dust Up helps there. (Crows + Bats will still get you) but can't have it all.
+Dust up also saves you blood even when you don't have burninators. Small downside is Dust Up does not work nicely with .44 as you commit to strike when you maneuver.
+Math is quite different when usual 2 blood loss from .44/Sniper Rifle changes to lost action to get out of torpor and 3 blood lost so actions go through and you are attacked less frequently.
+
+One discard is not enough if you get stuck with bounces and no one bleeds or you get your 3 weapons and need to get rid of Discuised Weapon and ... weapons.
+I was thinking of +2 Powerbase LA and replace Spirit's touch for Guardian Vigil
+also lose Revolt. That's bit too much master phases but 13 anarch cards are can be used to unlock your ladies.
+
+I'm also thinking ditching Aleph for Isabel de Leon. It's extremely rare he will have a weapon to get though on or off turn.
+
+Crypt (12 cards, min=4, max=22, avg=3.42)
+-----------------------------------------
+4x Anarch Convert	1   -none-		Caitiff:ANY
+3x Victoria		5   AUS cel obf		Malkavian:2
+2x Dancin' Dana (ADV)	6   AUS CEL dom obf	Malkavian:1
+2x Zöe			3   AUS cel obf		Malkavian:2
+1x Aleph		4   AUS dom		Malkavian:1 -- never goes anarch
+
+Library (76 cards)
+Master (14; 2 trifle)
+3x Anarch Revolt
+1x Direct Intervention
+3x Madness Network
+1x Powerbase: Montreal
+1x Rack, The
+1x Rötschreck
+2x Smiling Jack, The Anarch
+2x Vessel
+
+Action (3)
+1x Aranthebes, The Immortal
+2x Nose of the Hound -- dunk that anarch your prey has
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (7)
+2x .44 Magnum
+1x Bowl of Convergence
+3x Improvised Flamethrower
+1x Ivory Bow
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (33)
+2x Delaying Tactics
+5x Eagle's Sight
+7x Eyes of Argus
+3x Forced Awakening
+4x My Enemy's Enemy
+3x On the Qui Vive
+3x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (16)
+6x Disguised Weapon
+8x Dust Up -- all about this one; avoid damage
+2x Groundfighting -- cancel IG or Terror Frenzy

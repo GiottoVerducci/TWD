@@ -1,0 +1,55 @@
+Better ban Pentex
+Palma de Mallorca, Spain
+May 18th 2019
+2R+F
+14 players
+Jordi Bestard
+https://www.vekn.net/event-calendar/event/9250
+
+-- 2GW8 + 4VP in final
+
+Deck Name: Hide and Find
+Created by: Jordi Bestard
+
+Special thanks to Moisés Ferrer Gallegos, main creator of the deck and great friend
+
+Crypt (12 cards, min=20, max=32, avg=6.67)
+------------------------------------------
+2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Gilbert Duane		7   AUS DOM OBF		 prince	   Malkavian:1
+2x Greger Anderssen		7   AUS OBF dom pro	 prince	   Malkavian:2
+2x Korah			7   AUS DEM OBF ani	 priscus   Malkavian antitribu:2
+2x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+2x Zöe				3   AUS cel obf		 	   Malkavian:2
+
+Library (63 cards)
+Master (11)
+2x Dreams of the Sphinx
+3x Information Highway
+5x Legendary Vampire
+1x Pentex(TM) Subversion
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+9x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (16)
+2x Elder Impersonation
+3x Faceless Night
+2x Forgotten Labyrinth
+6x Lost in Crowds
+3x Telepathic Vote Counting
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (16)
+4x Eyes of Argus
+2x My Enemy's Enemy
+4x On the Qui Vive
+6x Telepathic Misdirection
+
+Combat (3)
+3x No Trace

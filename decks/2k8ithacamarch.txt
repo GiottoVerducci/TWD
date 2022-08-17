@@ -1,0 +1,64 @@
+All Non Winning Finalists Tie For Second Place: Ithaca
+Ithaca, New York
+March 28th 2008
+2R+F
+12 players
+James Wilhelm
+
+-- 4VP in final
+
+Title: "The Disastrous Consequences of Well-Practiced Optometry"
+
+Crypt (12 cards, min=20, max=34, avg=6.75)
+------------------------------------------
+3x Khalu	   7   AUS CEL POT ani pro  Osebo:3
+3x Homa		   6   AUS CEL POT	    Osebo:4
+2x Massassi	   9   AUS CEL POT QUI obf  Osebo:4
+2x Tatu Sawosa	   8   AUS OBF POT ani cel  Osebo:4
+1x Ismitta	   4   aus cel pot	    Osebo:4
+1x Mariano Pomposo 4   aus cel pot	    Brujah antitribu:3
+
+Library (90 cards)
+Master (12)
+1x Ancestor Spirit
+1x Archon Investigation
+1x Base Hunting Ground
+5x Blood Doll
+2x Dreams of the Sphinx
+1x Rack, The
+1x WMRH Talk Radio
+
+Action (11)
+1x Army of Rats
+8x Flurry of Action
+2x Pulse of the Canaille
+
+Equipment (2)
+1x Bowl of Convergence
+1x Camera Phone
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Shaman
+
+Action Modifier (1)
+1x Strange Day
+
+Reaction (26)
+3x Eagle's Sight
+3x Enhanced Senses
+4x Forced Awakening
+1x My Enemy's Enemy
+3x On the Qui Vive
+2x Precognition
+4x Quicken Sight
+2x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (36)
+4x Blur
+6x Flash
+8x Immortal Grapple
+4x Side Strike
+6x Taste of Vitae
+8x Torn Signpost

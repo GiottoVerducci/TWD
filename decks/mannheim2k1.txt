@@ -1,0 +1,83 @@
+Bloodsiege: Mannheim
+Mannheim, Germany
+March 11th 2001
+Christoph Hardebusch
+
+The deck won the 'Blood-Siege Mannheim' on the 11.03.2001. There were about
+20 participants from all over germany. Unfortunately, the VteS-Coordinator
+made some mistake with the renting of the room, so we had to leave too early
+to do 3 preliminary rounds, which forced us to go for 2 instead. I am not
+quite sure, but I think the tournament results did not go into the ranking
+because of that. Which is quite bad, because the deck won the first table,
+only one other deck got a victory point. It swept the second table and went
+into the final with 9 victory points from 2 games. The final hang on a
+thread for a round or two, but then the game went my way and my deck swept
+that table, too.
+
+Carpe Jugulum.
+
+Christoph
+
+‘Daeva - The Hidden Masters'
+
+Crypt (12 cards, min=26, max=39, avg=8.17)
+------------------------------------------
+1x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+1x Lucian			10  AUS DOM OBF cel tha		justicar  Malkavian:1
+1x Queen Anne			10  DOM FOR PRE aus obf		prince	  Ventrue:2
+1x Klaus van der Veken		9   CEL PRE aus obf tha		prince	  Toreador:2
+1x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for		justicar  Nosferatu:1
+1x Suhailah			9   FOR OBF pot ser		prince	  Ventrue:2
+1x Selma the Repugnant		8   OBF POT ani for		prince	  Nosferatu:1
+1x Gilbert Duane		7   AUS DOM OBF			prince	  Malkavian:1
+1x Greger Anderssen		7   AUS OBF dom pro		prince	  Malkavian:2
+1x Murat			7   OBF POT ser			prince	  Nosferatu:2
+1x Nikolaus Vermeulen		7   POT ani for obf		prince	  Nosferatu:2
+1x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
+
+Library (90 cards)
+Master (20)
+1x Archon Investigation
+1x Barrens, The
+2x Blood Doll
+3x Information Highway
+2x Legendary Vampire
+7x Minion Tap
+2x Obfuscate
+2x Sudden Reversal
+
+Action (20)
+9x Computer Hacking
+7x Fifth Tradition: Hospitality
+4x Fourth Tradition: The Accounting
+
+Equipment (8)
+2x .44 Magnum
+1x Assault Rifle
+1x Flamethrower
+1x Ivory Bow
+2x Laptop Computer
+1x White Phosphorus Grenade
+
+Political Action (12)
+1x Ancient Influence
+1x Conservative Agitation
+8x Kine Resources Contested
+1x Political Stranglehold
+1x Rabble Razing
+
+Action Modifier (13)
+3x Cloak the Gathering
+4x Forgotten Labyrinth
+3x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (5)
+3x Behind You!
+2x Disguised Weapon

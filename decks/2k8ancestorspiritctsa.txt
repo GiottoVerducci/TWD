@@ -1,0 +1,68 @@
+Ancestor Spirit
+Cape Town, South Africa
+May 10th 2008
+2R+F
+10 players
+Daniel Boud
+
+Deck Name: Klaus but no cigar
+
+Like most reactionary builds this deck is fairly slow moving. The idea
+is to get the tag-team combo of Venere and Klaus out, block key
+actions, grab a .44 and hole up until the table plays out. Once other
+decks start losing their legs begin turning the screws with a few big
+bleeds (Palla Grande/Aire of Elation), playing a Smiling Jack and
+dropping a strategic Pentex Subversion. The lower cap vamps are there
+purely for weenie support; playing the odd Art Scam and for the Palla
+Grande bleed push. As always, I over did the master card count. ;)
+This deck won with 4VP in the final table and 6.5VP in the Prelim
+rounds.
+
+Crypt (12 cards, min=10, max=32, avg=5.5)
+-----------------------------------------
+3x Klaus Konrecht	  8   AUS CEL PRE for pot  cardinal	Toreador antitribu:4
+3x Venere Carboni	  8   AUS CEL PRE ani	   priscus	Toreador antitribu:3
+1x Loonar		  4   PRE cel		   		Toreador antitribu:4
+1x Sabrina		  4   aus cel pre	   		Toreador antitribu:3
+1x Jonathan Gursel	  3   aus pre		   		Toreador antitribu:4
+1x Monique Kim		  3   aus cel		   		Toreador antitribu:4
+1x Justine Chen, Innocent 2   pre		   		Toreador antitribu:4
+1x Nicholas Chang	  2   aus		   		Toreador antitribu:3
+
+Library (90 cards)
+Master (19; 6 trifle)
+2x Blood Doll
+2x Direct Intervention
+1x Giant's Blood
+1x Gurchon Hall
+2x Palla Grande
+2x Pentex(TM) Subversion
+1x Powerbase: Barranquilla
+2x Rebel
+2x Smiling Jack, The Anarch
+4x Vessel
+
+Action (6)
+2x Art Scam
+4x Eternal Vigilance
+
+Equipment (7)
+6x .44 Magnum
+1x Bowl of Convergence
+
+Action Modifier (4)
+4x Aire of Elation
+
+Reaction (34)
+6x Eagle's Sight
+6x Enhanced Senses
+6x Forced Awakening
+2x My Enemy's Enemy
+2x On the Qui Vive
+8x Quicken Sight
+4x Telepathic Misdirection
+
+Combat (20)
+4x Concealed Weapon
+8x Majesty
+8x Pursuit

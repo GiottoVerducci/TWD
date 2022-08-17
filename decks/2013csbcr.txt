@@ -1,0 +1,65 @@
+Closed Session Day 1
+Bystricka, Czech Republic
+October 12th 2013
+3R+F
+14 players
+Daniel Gargulák
+
+Deck Name: Brujah Alastors
+
+Crypt (12 cards, min=22, max=36, avg=7.33)
+------------------------------------------
+4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+2x Tara		   6   POT PRE cel	    prince	Brujah:5
+1x Tomaine	   6   CEL POT PRE	    primogen	Brujah:4
+1x Reginald Moore  4   PRE		    primogen	Brujah:4
+
+Library (90 cards)
+Master (18; 8 trifle)
+1x Carthage Remembered
+1x Creepshow Casino
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Monastery of Shadows
+3x New Carthage
+3x Vessel
+3x Villein
+2x Wider View
+
+Action (3)
+1x Entrancement
+2x Fourth Tradition: The Accounting
+
+Equipment (5)
+3x Assault Rifle
+1x Heart of Nizchetus
+1x Helicopter
+
+Political Action (17)
+5x Alastor
+1x Anathema
+5x Kine Resources Contested
+6x Parity Shift
+
+Action Modifier (13)
+2x Aire of Elation
+4x Iron Glare
+2x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Combat (6)
+6x Resist Earth's Grasp
+
+Reaction (9)
+9x Second Tradition: Domain
+
+Combat (19)
+3x Majesty
+2x Psyche!
+3x Pursuit
+3x Side Strike
+3x Sideslip
+2x Staredown
+3x Taste of Vitae

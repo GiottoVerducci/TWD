@@ -1,0 +1,69 @@
+Road to Budapest 3/5
+Ostrava, Czech Republic
+June 16th 2012
+3R+F
+12 players
+Daniel Gargulák
+
+-- 3VP in final
+
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Cybele		 10  ANI DAI OBF PRE SER THA			Baali:4
+4x Aksinya Daclau	 9   ANI FOR PRE PRO cel tha			Gangrel antitribu:4
+2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+1x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+
+Library (65 cards)
+Master (38; 9 trifle)
+1x Anarch Troublemaker
+6x Ashur Tablets
+1x Blind Spot
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Golconda: Inner Peace
+2x Information Highway
+1x Jake Washington
+1x Lilith's Blessing
+3x Liquidation
+1x Metro Underground
+1x Misdirection
+1x Monastery of Shadows
+2x Parthenon, The
+1x Pentex(TM) Subversion
+6x Villein
+1x Wash
+1x Wider View
+4x Zillah's Valley
+
+Action (2)
+1x Entrancement
+1x Intimidation
+
+Political Action (3)
+1x Banishment
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (13)
+2x Aire of Elation
+1x Approximation of Loyalty
+1x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+2x Into Thin Air
+1x Lost in Crowds
+1x Mirror Walk
+1x Perfect Paragon
+
+Reaction (4)
+2x Guard Dogs
+2x Lost in Translation
+
+Combat (3)
+3x Majesty
+
+Event (2)
+2x Anthelios, The Red Star

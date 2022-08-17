@@ -1,0 +1,88 @@
+Tournament
+Las Vegas, Nevada
+March 19th 2011
+2R+F
+23 players
+David Litwin
+
+-- 4VP in final
+
+Deck Name: Armin Hammer
+
+The deck plays generally the same as any stealth/vote deck with a more
+interesting stealth module. Ideally Armin Brenner is your first
+minion and should always be first unless he isn't in your opening
+crypt. He is the only minion in the crypt that can maximize the use
+of all cards in the crypt and his 1 pool/vote adds up over the course
+of the game. The deck will play quite a few cards each turn and
+maximizing cards like Forced March for stealth and untap is key.
+
+The deck can generally bloat fast enough to handle a moderately fast
+bleeding predator and Majesty or Resist Earth's Grasp will slow down
+Animalism rush significantly while accepting that a Grappling foe will
+kill the deck. Undele is key for late game antics to make sure your
+two other actions/turn are exactly what you want them to be.
+
+While it never showed, gaining potentially 5 pool calling a Black
+Forest Base action is rather nice. The changes I would make after
+playing it outside of the local playgroup would be two fewer KRCs and
+another Neonate Breach and then some other damage vote or maybe even
+a utility vote like Snipe Hunt/Permanent Vacation to take out late
+threats that can be brought back. Delaying Tactics recycled in the
+finals against me slowed down my offense several turns.
+
+Crypt (12 cards, min=34, max=40, avg=9.17)
+------------------------------------------
+4x Armin Brenner  10  CEL FOR POT PRE ani obf	archbishop  Brujah antitribu:4
+3x Hektor	  9   CEL POT PRE QUI for	priscus	    Brujah antitribu:4
+3x Undele	  9   CEL FOR obf pre ser	magaji	    Ishtarri:5
+2x Klaus Konrecht 8   AUS CEL PRE for pot	cardinal    Toreador antitribu:4
+
+Library (90 cards)
+Master (15; 6 trifle)
+1x Black Forest Base
+1x Creepshow Casino
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Monastery of Shadows
+1x Papillon
+1x Powerbase: Madrid
+5x Villein
+1x Wider View
+
+Action (7)
+6x Enchant Kindred
+1x Entrancement
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Political Action (21)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+3x Honor the Elders
+11x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (31)
+1x Alacrity
+7x Forced March
+3x Forgotten Labyrinth
+4x Freak Drive
+5x Iron Glare
+5x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Combat (5)
+5x Resist Earth's Grasp
+
+Action Modifier/Reaction (4)
+4x Scalpel Tongue
+
+Combat (5)
+5x Majesty

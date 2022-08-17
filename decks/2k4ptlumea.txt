@@ -1,0 +1,72 @@
+Pushing the Limit
+Umea, Sweden
+February 29th 2004
+25 players
+Erik Torstensson
+
+Deck Name: Ratman on the balcony
+Created by: Erik Torstensson & Christoffer Arvidsson
+
+Description: Block deck with the best vampire in the game. Key cards:
+deflection, army of rats, direct intervention & pentex subversion.
+
+Crypt (12 cards, min=19, max=40, avg=7.42)
+------------------------------------------
+5x Cailean				  10  ANI OBF POT PRE dom  archbishop	Nosferatu antitribu:2
+1x Kendrick				  7   ANI POT aus obf	   priscus	Nosferatu antitribu:2
+1x Teresita, The Godmother		  7   ANI OBF POT for	   		Nosferatu antitribu:3
+1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot	   		Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows		  6   ANI OBF POT	   		Nosferatu antitribu:2
+1x Cicatriz				  5   ani obf pot	   bishop	Nosferatu antitribu:2
+1x Nigel the Shunned			  5   ANI POT obf	   		Nosferatu antitribu:2
+1x Shannon Price, The Whisperer		  3   ani obf		   		Nosferatu antitribu:2
+
+Library (90 cards)
+Master (23)
+7x Blood Doll
+1x Club Zombie
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Network
+1x KRCG News Radio
+1x Nosferatu Kingdom
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Shanty Town Hunting Ground
+2x Smiling Jack, The Anarch
+1x WMRH Talk Radio
+
+Action (7)
+1x Aranthebes, The Immortal
+2x Army of Rats
+4x Eternal Vigilance
+
+Equipment (8)
+2x Flamethrower
+1x Ivory Bow
+2x Mark V
+2x Sniper Rifle
+1x Starshell Grenade Launcher
+
+Retainer (6)
+6x Raven Spy
+
+Action Modifier (3)
+3x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (20)
+5x Cats' Guidance
+6x Deflection
+9x Forced Awakening
+
+Combat (19)
+4x Behind You!
+3x Canine Horde
+7x Disguised Weapon
+5x Taste of Vitae

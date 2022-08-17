@@ -1,0 +1,78 @@
+Anarchist Uprising
+OrcCon, Los Angeles, California
+February 19th 2011
+15 players
+Robert Goudie
+
+Deck Name: Junta
+
+Description: Based on Junta by Jeroen van Oort and Peter Bouwman.
+Modified to fit my more modest collection.
+
+Crypt (12 cards, min=27, max=40, avg=8.5)
+-----------------------------------------
+5x Ayo Igoli			10  AUS CEL FOR PRE obf tha		    Ishtarri:4
+2x Ubende			7   CEL PRE for obf qui		magaji	    Ishtarri:4
+1x Malabranca			9   AUS CEL PRE PRO obf		archbishop  Toreador antitribu:4
+1x Count Germaine		8   CEL FOR POT PRE obf			    Brujah:4
+1x J. Oswald "Ozzy" Hyde-White	8   AUS FOR OBF dom pre		primogen    Malkavian:3
+1x Mukhtar Bey			7   FOR PRE QUI obf pot		prince	    Caitiff:4
+1x Antoinette, She Who Watches	6   AUS PRE cel obf		primogen    Toreador:3
+
+Library (90 cards)
+Master (15)
+3x Dreams of the Sphinx
+1x Glutton
+1x Information Highway
+6x Minion Tap
+1x Perfectionist
+1x Port Hunting Ground
+1x Powerbase: Tshwane
+1x Secure Haven
+
+Action (8)
+6x Enchant Kindred
+1x Entrancement
+1x Mozambique Allure
+
+Ally (1)
+1x Informant
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Banishment
+2x Conservative Agitation
+1x Disputed Territory
+6x Kine Resources Contested
+
+Action Modifier (32)
+4x Bewitching Oration
+3x Cloak the Gathering
+1x Faceless Night
+5x Forced March
+2x Forgotten Labyrinth
+1x Kiss of Ra, The
+3x Lost in Crowds
+1x Spying Mission
+1x Strange Day
+4x Uncontrolled Impulse
+7x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+1x Ishtarri Kholo
+3x Scalpel Tongue
+
+Reaction (8)
+4x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (8)
+4x Majesty
+4x Rolling with the Punches

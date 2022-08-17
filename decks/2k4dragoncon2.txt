@@ -1,0 +1,74 @@
+DragonCon Constructed
+DragonCon 2004, Atlanta, Georgia
+September 5th 2004
+2R+F
+16 players
+Jeffrey Thompson
+
+Deck Name: A Sudden Anarch Troublemaker
+
+Jeffrey Thompson won using this deck with 4 victory points in every
+round, including the finals. Only 1 victory point was acquired via
+Dramatic Upheaval, this happened in the first round. This was the
+same deck he played at the North American Continental Championship
+where he also took 1 game win.
+
+Description: Get the Anarch Troublemaker in play early. Use it on the
+turn you expect to finish your prey, or on a turn where it will make a
+big enough difference that you can afford to have it used by your
+prey. Optimally, you will play another one on the turn you give it to
+your prey to prevent them from using it should they survive your
+attack. Sudden Reversal is key to preventing other decks from
+destroying you or your strategy. Successful Sudden targets included
+Minion Taps, Blood Dolls, Fame, and Ventrue Headquarters.
+
+Crypt (13 cards, min=16, max=34, avg=6.31)
+------------------------------------------
+2x Gratiano			8   DOM OBT obf pot	 priscus   Lasombra:2
+1x Lucita			8   DOM FOR OBT cel pot	 	   Lasombra:2
+1x Lucita (ADV)			8   DOM FOR OBT cel pot	 	   Lasombra:2
+1x Angelica, The Canonicus	10  DOM OBT POT cel obf	 cardinal  Lasombra:2
+1x Tobias Smith			7   DOM OBT PRE pot	 	   Lasombra:3
+1x Aurora Van Brande, Paladin	6   OBT dom for pot	 	   Lasombra:2
+1x Talley, The Hound		6   OBT POT aus dom	 	   Lasombra:2
+1x Banjoko			5   DOM obt pot		 	   Lasombra:3
+1x Guido Lucciano		5   OBT dom obf		 	   Lasombra:2
+1x Ignacio, The Black Priest	4   dom obt pot		 	   Lasombra:2
+1x Ramiro			4   dom obt vic		 	   Lasombra:2
+1x Cameron			3   dom pot		 	   Lasombra:2
+
+Library (90 cards)
+Master (16)
+4x Anarch Troublemaker
+1x Día de los Muertos
+1x Dreams of the Sphinx
+1x Fame
+2x Major Boon
+1x Power Structure
+6x Sudden Reversal
+
+Action (12)
+12x Govern the Unaligned
+
+Political Action (10)
+5x Consanguineous Boon
+3x Domain Challenge
+2x Dramatic Upheaval
+
+Action Modifier (23)
+1x Blanket of Night
+3x Foreshadowing Destruction
+6x Seduction
+3x Shadow Play
+2x Shroud of Absence
+3x Shroud of Night
+5x Sleeping Mind, The
+
+Reaction (26)
+9x Deflection
+2x Delaying Tactics
+7x Obedience
+8x Wake with Evening's Freshness
+
+Combat (3)
+3x Shadow Body

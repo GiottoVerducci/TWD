@@ -1,0 +1,82 @@
+Aye of Hazimel
+Los Angeles, California
+February 19th 2012
+2R+F
+13 players
+Aaron Clark
+
+Deck Name: Burning Down the House
+
+Description: This deck is an Obfuscate/Dominate toolbox
+featuring low-caps. The original idea was to create
+a deck that used multiple Arsons, thus the deck's name.
+
+Crypt (12 cards, min=11, max=20, avg=4)
+---------------------------------------
+2x Zebulon		5   OBF aus dom pro	Malkavian:1
+1x Badr al-Budur	5   OBF cel dom qui	Assamite:2
+1x Count Ormonde	5   OBF dom pre ser	Follower of Set:2
+1x Didi Meyers		5   DOM aus cel obf	Malkavian:1
+1x Agrippina		4   OBF pot		Nosferatu:1
+1x Laurent de Valois	4   ani dom obf		Nosferatu:2
+1x Roland Bishop	4   aus dom obf		Malkavian:1
+1x Tansu Bekir		4   OBF cel		Assamite:2
+1x Watenda		3   obf			Malkavian:2
+1x Dimple		2   obf			Nosferatu:1
+1x Normal		2   obf			Malkavian:1
+
+Library (83 cards)
+Master (15; 1 trifle)
+1x Asylum Hunting Ground
+3x Blood Doll
+1x Coven, The
+2x Dominate
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Haven Uncovered
+1x Madness Network
+1x Police Department
+1x Powerbase: Montreal
+2x Vast Wealth
+
+Action (14)
+4x Arson
+2x Bum's Rush
+3x Computer Hacking
+2x Far Mastery
+2x Govern the Unaligned
+1x Sacrificial Lamb
+
+Equipment (4)
+1x Improvised Flamethrower
+1x Ivory Bow
+1x Laptop Computer
+1x Sawed-Off Shotgun
+
+Political Action (1)
+1x Malkavian Justicar
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (25)
+6x Cloak the Gathering
+3x Conditioning
+2x Elder Impersonation
+3x Faceless Night
+2x Forgotten Labyrinth
+6x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (13)
+8x Deflection
+5x Wake with Evening's Freshness
+
+Combat (5)
+1x Behind You!
+3x Quick Exit
+1x Vanish from the Mind's Eye

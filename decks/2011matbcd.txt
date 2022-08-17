@@ -1,0 +1,61 @@
+March Across the Belts
+Copenhagen, Denmark
+March 19th 2011
+2R+F
+14 players
+Oskar Muntzing
+
+Deck Name: Smells like Torbjorn v 2.1
+
+Crypt (12 cards, min=29, max=43, avg=9.33)
+------------------------------------------
+3x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+2x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+2x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+1x Catherine du Bois	5   DOM for obf pre				Ventrue:3
+1x Laurent de Valois	4   ani dom obf					Nosferatu:2
+
+Library (86 cards)
+Master (17; 8 trifle)
+1x Barrens, The
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Elysium: The Arboretum
+1x Giant's Blood
+1x Obfuscate
+1x Secure Haven
+2x Ventrue Headquarters
+6x Villein
+2x Wider View
+
+Action (4)
+4x Govern the Unaligned
+
+Political Action (14)
+1x Ancient Influence
+2x Banishment
+7x Kine Resources Contested
+1x Parity Shift
+1x Reins of Power
+1x Rumors of Gehenna
+1x Year of Fortune
+
+Action Modifier (34)
+2x Awe
+2x Conditioning
+3x Elder Impersonation
+2x Faceless Night
+4x Forgotten Labyrinth
+5x Freak Drive
+1x Kiss of Ra, The
+5x Lost in Crowds
+2x Spying Mission
+8x Voter Captivation
+
+Reaction (11)
+7x Deflection
+4x Wake with Evening's Freshness
+
+Combat (6)
+6x Majesty

@@ -1,0 +1,66 @@
+Advent of Gehenna
+Kragujevac, Serbia
+June 7th 2020
+3R+F
+10 players
+Nikica Novaković
+https://www.vekn.net/event-calendar/event/9618
+
+-- 2GW8.5 + 4VP in final
+
+Deck Name: Malgorzata, our Lord and Misstress
+Created by: Miloš Krstić
+
+Get Malgorzata first,
+then use her special to get Lord Tremere, so you have some staying power,
+and then Mistress Fanchon to fetch you Heart and other goodies.
+
+Crypt (12 cards, min=36, max=44, avg=10.17)
+-------------------------------------------
+5x Malgorzata	    9	AUS DOM THA VIC pre	 priscus	Tremere antitribu:4
+4x Lord Tremere	    11	ANI AUS DOM THA VIC obe	 		Tremere:5
+3x Mistress Fanchon 11	AUS CEL DOM OBF THA VIC	 inner circle	Tremere:4
+
+Library (80 cards)
+Master (16; 5 trifle)
+3x Dreams of the Sphinx
+1x Giant's Blood
+3x Information Highway
+1x Monastery of Shadows
+5x Villein
+3x Zillah's Valley
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (5)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+1x Reins of Power
+
+Action Modifier (9)
+4x Changeling
+5x Mirror Walk
+
+Action Modifier/Combat (5)
+5x Plasmic Form
+
+Reaction (25)
+2x Deflection
+3x Eagle's Sight
+7x Eyes of Argus
+3x My Enemy's Enemy
+4x On the Qui Vive
+6x Telepathic Misdirection
+
+Combat (18)
+3x Amaranth
+2x Blood Rage
+1x Breath of the Dragon
+8x Chiropteran Marauder
+2x Quick Jab
+2x Theft of Vitae

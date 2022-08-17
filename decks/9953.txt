@@ -1,0 +1,120 @@
+Nosferatu Hosting Loughman's Birthday
+Heath, Ohio
+December 5th 2021
+2R+F
+13 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/9953
+
+-- 2gw8 + 3vp in final
+
+Deck Name: Shambling into the Void
+Description: I was hoping to play the new Ministry today, but with so many others planning to do
+the same, I played this instead.
+
+This deck is first and foremost a Shambling Horde deck, getting a 4-life Horde for 1 blood after
+Angelique's special and a Perfectionist is rather great. The Legionnaires and AUS weenies help
+provide mass for horde bleeding. A solid defense with The Unmasking and bounce helps keeps you in
+the game even at low pool. The worst decks for you are voters that are cross-table or that have a
+lot of stealth that can routinely get by your intercept. There were no such decks for me today.
+
+I had a lucky two opening rounds. I was able to sit mostly unmolested and slowly build as my
+predators were under threat. This enabled me to get two sweeps and enter the finals in first place.
+
+Finals seating:
+Kurt Kopp, new Anarch Gangrel wall: 0 VP ->
+Me: 3 VP ->
+Brad Cashdollar, Platnum Protocol bleed: 0 VP ->
+John Mathys, V5 Malks: 2 VP ->
+Mark Loughmn, Banu Haqim vote/combat: 0 VP
+
+I decided to sit as far away from the bleed cannons as possible. They were stacked, so Brad was
+going to help John with bounced bleeds.
+
+My opening hand was 3 Legionnaires and my opening crypt had no Angelique. I did have an Information
+Highway, so managed America and Hecate on turns one and two. I had The Unmaksing in play even
+before I recruited my first Legionnaire. This was useful as I was able to prevent Double Deuce from
+entering play. It cost me a Legionnaire, but Target Vitals left the vamp empty, making it a good
+target for Mark's Judgment: Camarilla Segregation on the following turn. I was able to stealth a
+second Legionnaire into play.
+
+Mark managed two actions, playing the aforementioned Judgment and calling Anathema on one of John's
+Malks. Before Mark was ousted, Kurt, seeing his future, burned John's hunting ground with
+Rewilding.
+
+After Mark was ousted, John had 4 vampires in play and the Anathema was at 4 blood. I offered to
+rush that vampire with my lone Horde to prevent Kurt from doing so. Losing a vampire was a bad
+deal, but having his prey gain 6 pool for it would have been worse. In the end John relented. I was
+6 pool to the better and John had yet another person hampering his game. After throwing in a few
+bleeds for 1, Brad takes his turn.
+
+Brad fires off bleeds of 7, 5, and 4. All of them are bounced. Kurt manages to survive and John is
+able to land his bleeds. Kurt risks another vampire, really he had so few options at this point.
+
+I push hard on Brad, failing to oust. Most of my 1 bleeds are bounced and my Horde rush was stymied
+by Earth Meld. Brad tried to get through John. There is more bounce. Kurt has to start torporizing
+Brad's vampire just to draw cards, hoping for more wake. Kurt is ousted by John. I get Brad down to
+2 pool. He has one vampire left. I'm now John's prey. I bounce a bleed of 5 at 2 stealth to Brad to
+gain my first VP. John sends two more vampires while I'm locked. I use Funeral Wake to bring up two
+Hordes and try to block both bleeds. I catch the second one, sending the vampire to torpor. At the
+start of my turn, John has two remaining ready vampires with one blood each. After two Horde
+rushes, he has no ready vampires. With 6 ready bleeders and John at 10 pool, he concedes.
+
+Crypt (13 cards, min=15, max=36, avg=6.46)
+------------------------------------------
+5x Angelique	   9   AUS FOR NEC SER THA  Harbinger of Skulls:6
+2x Hecate	   6   AUS FOR NEC	    Harbinger of Skulls:5
+2x La Viuda Blanca 6   AUS NEC for obf	    Harbinger of Skulls:6
+1x America Johnson 4   AUS vic		    Tzimisce:5
+1x Pearl	   4   AUS obf		    Malkavian antitribu:5
+1x Tyler McGill	   4   AUS pre		    Toreador:5
+1x Veejay Vinod	   3   AUS		    Nagaraja:6
+
+Library (72 cards)
+-- I recently shrank this deck from 80 to 76 to 72. Smaller is better
+Master (14; 1 trifle)
+1x Barrens, The
+2x Blood Doll
+1x Direct Intervention
+4x Dreams of the Sphinx -- this is from a phase of my deckbuilding where I relied on Dreams too much; 2 of these should be Villeins
+1x Fame
+1x Information Highway
+1x Mob Connections
+2x Perfectionist
+1x Wider View
+
+Ally (21)
+1x Carlton Van Wyk
+7x Emerald Legionnaire -- always try to recruit; I usually never recycle more than 3
+1x Mylan Horseed -- never saw today; could probably be something else the unlock isn't critical, but the cheap bleeding is
+12x Shambling Hordes
+
+Equipment (1)
+1x Heart of Nizchetus -- discarded every time I saw it; smaller decks seems good without it
+
+Action Modifier (6)
+4x Call of the Hungry Dead -- the stealth package is light, so you have to time actions depending on potential blockers
+2x Trochomancy -- ousts mostly with lots of bleeds for 1, these are to throw off the math
+
+Action Modifier/Combat (3)
+3x Breath of Thanatos
+
+Action Modifier/Reaction (4)
+4x Spectral Divination -- was more useful for intercept today; if intending to block a NEC vampire is usually the better choice for more intercept options
+
+Reaction (14)
+3x Eyes of Argus
+2x Funeral Wake -- free with Angelique's special; so good when it's free
+3x My Enemy's Enemy
+3x On the Qui Vive
+3x Telepathic Misdirection
+
+Combat (5)
+2x Fake Out
+2x Target Vitals -- just enough surprises to make them think
+1x Trap
+
+Event (4)
+1x Dragonbound -- managed my final oust in round 1 with this; sometimes important, sometimes not
+1x FBI Special Affairs Division -- so critical against the Fortitude vampires I encountered
+2x Unmasking, The -- this card is broken

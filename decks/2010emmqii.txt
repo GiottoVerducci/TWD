@@ -1,0 +1,72 @@
+Erie Mayhem MQ II
+Erie, Pennsylvania
+May 15th 2010
+12 players
+David Baker
+
+Deck Name: Baker's Late Night Express
+
+Crypt (12 cards, min=29, max=38, avg=8.5)
+-----------------------------------------
+3x Orlando Oriundus 9	AUS DOM THA obf		 bishop		Tremere antitribu:4
+2x Malgorzata	    9	AUS DOM THA VIC pre	 priscus	Tremere antitribu:4
+2x Paul Cordwood    8	AUS DOM THA obf pre	 bishop		Tremere antitribu:4
+2x Troius	    8	AUS DOM THA cel		 prince		Tremere:4
+1x Mistress Fanchon 11	AUS CEL DOM OBF THA VIC	 inner circle	Tremere:4
+1x Gerald Windham   9	AUS DOM FOR THA		 		Tremere:5
+1x Frondator	    5	AUS dom tha		 bishop		Tremere antitribu:4
+
+Library (89 cards)
+Master (15; 6 trifle)
+1x Barrens, The
+1x Bleeding the Vine
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Papillon
+1x Powerbase: Madrid
+2x Vessel
+4x Villein
+
+Action (11)
+10x Govern the Unaligned
+1x Rutor's Hand
+
+Ally (1)
+1x Ponticulus
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (18)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Cardinal Benediction
+2x Consanguineous Boon
+4x Conservative Agitation
+1x Disputed Territory
+2x Honor the Elders
+4x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (18)
+2x Conditioning
+2x Foreshadowing Destruction
+2x Forgotten Labyrinth
+6x Mirror Walk
+4x Seduction
+2x Telepathic Vote Counting
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (18)
+6x Deflection
+6x On the Qui Vive
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (4)
+4x Absorb the Mind

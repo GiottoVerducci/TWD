@@ -1,0 +1,70 @@
+Powerbase: Los Angeles Event #3
+La Crescenta, California
+May 24th 2009
+2R+F
+10 players
+Robyn Tatu
+
+Deck Name: Ash and Other Thau/Cel Buddies.
+
+I had not tested the deck prior to playing it in the tournament
+(it needs some work.....More rush, specifically....)
+
+Crypt (12 cards, min=23, max=37, avg=7.42)
+------------------------------------------
+4x Ash Harrison	    7	AUS THA cel dom		 		Tremere antitribu:5
+2x Troius	    8	AUS DOM THA cel		 prince		Tremere:4
+1x Mistress Fanchon 11	AUS CEL DOM OBF THA VIC	 inner circle	Tremere:4
+1x Lernean	    10	AUS CEL DOM THA for pro	 cardinal	Tremere antitribu:4
+1x Eric Kressida    8	AUS DOM PRO THA cel	 bishop		Tremere antitribu:4
+1x Muhsin Samir	    6	DOM THA aus pot		 		Tremere:4
+1x Carmen	    5	THA aus dom		 		Tremere antitribu:5
+1x Zane		    5	THA aus dom		 primogen	Tremere:5
+
+Library (90 cards)
+Master (10; 5 trifle)
+1x Pentex(TM) Subversion
+1x Rack, The
+1x Rötschreck
+2x Sudden Reversal
+2x Vessel
+2x Villein
+1x Wash
+
+Action (18)
+1x Abbot
+1x Biothaumaturgic Experiment
+2x Bum's Rush
+8x Govern the Unaligned
+5x Magic of the Smith
+1x Rutor's Hand
+
+Equipment (7)
+1x Bowl of Convergence
+1x Drum of Xipe Totec
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Palatial Estate
+2x Ruins of Ceoris
+
+Action Modifier (10)
+1x Conditioning
+9x Mirror Walk
+
+Reaction (20)
+4x Deflection
+2x Eagle's Sight
+2x Enhanced Senses
+3x Eyes of Argus
+3x Forced Awakening
+4x On the Qui Vive
+2x Telepathic Misdirection
+
+Combat (25)
+2x Apportation
+4x Blur
+2x Crawling Chamber
+7x Pursuit
+3x Rego Motum
+6x Theft of Vitae
+1x Walk of Flame

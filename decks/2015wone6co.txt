@@ -1,0 +1,63 @@
+Week of Nightmares Event 6
+Columbus, Ohio
+June 3rd 2015
+2R+F
+10 players
+Jay Kristoff
+https://www.vekn.net/event-calendar/event/8006
+
+-- 2.5VP in final
+
+Deck Name: Throwing Wolves
+
+Crypt (12 cards, min=16, max=32, avg=6)
+---------------------------------------
+1x Jalan-Aajav		   9   CEL FOR POT PRO ani  Gangrel antitribu:3
+1x Nostoket		   8   ANI DEM PRO for obt  Gangrel antitribu:4
+1x Yazid Tamari		   8   CEL QUI ani dom obf  Assamite:3
+1x Kazimir Savostin	   7   AUS VIC ani pot	    Tzimisce:3
+1x Teresita, The Godmother 7   ANI OBF POT for	    Nosferatu antitribu:3
+1x Ingram Frizer	   6   AUS OBF ani pot	    Nosferatu antitribu:3
+1x Sennadurek		   6   AUS NEC dom	    Nagaraja:4
+1x Banjoko		   5   DOM obt pot	    Lasombra:3
+1x Nails		   5   POT ani obf pro	    Nosferatu antitribu:4
+1x Skryta Zyleta	   5   CEL obf pot pro	    Gangrel antitribu:3
+1x Roger Farnsworth	   4   OBF aus		    Malkavian antitribu:3
+1x Piotr Andreikov	   2   aus		    Tzimisce:3
+
+Library (60 cards)
+Master (14; 6 trifle)
+1x Fame
+1x Giant's Blood
+1x Hungry Coyote, The
+1x Information Highway
+1x Remover
+6x Villein
+2x Watchtower: The Wolves Feed
+1x Weeping Stone
+
+Action (35)
+1x Black Hand Emissary
+1x Black Hand Ritual
+1x Conceal
+1x Horseshoes
+8x Recruitment Exercise
+18x Reunion Kamut
+5x Tattoo Signal
+
+Equipment (3)
+1x Gran Madre di Dio, Italy
+1x Guarded Rubrics
+1x Sargon Fragment, The
+
+Political Action (2)
+1x Cardinal Benediction
+1x Domain Challenge
+
+Action Modifier (4)
+2x Cloak the Gathering
+2x Forgotten Labyrinth
+
+Event (2)
+1x Blood Trade
+1x Break the Code

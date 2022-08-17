@@ -1,0 +1,55 @@
+Today We Kill, Tomorrow We Die
+Melbourne, Australia
+August 20th 2011
+2R+F
+10 players
+Craig Love
+
+Deck Name: Old School
+
+Deck description: Immortal Grapples with a splash of fresh new hate.
+
+Crypt (12 cards, min=8, max=16, avg=3)
+--------------------------------------
+2x Jimmy Dunn			4   CEL POT for	 Pander:2
+2x Lupo				2   pot		 Brujah:1
+1x Agatha			4   POT obf	 Nosferatu antitribu:2
+1x Hector Sosa			4   POT pre	 Brujah:1
+1x Hugo				4   POT pre vic	 Brujah antitribu:2
+1x Dre, Leader of the Cold Dawn	3   cel pot	 Brujah:1
+1x Jacob Bragg			3   cel pot	 Brujah antitribu:2
+1x KoKo				2   pot		 Nosferatu:1
+1x Mitchell, The Headhunter	2   obt pot	 Pander:2
+1x Paul DiCarlo, The Alpha	2   pot		 Giovanni:2
+
+Library (90 cards)
+Master (13; 3 trifle)
+3x Dreams of the Sphinx
+3x Fame
+1x Jake Washington
+3x Life in the City
+2x Potence
+1x Storage Annex
+
+Action (21)
+3x Ambush
+1x Aranthebes, The Immortal
+8x Bum's Rush
+7x Computer Hacking
+2x Harass
+
+Equipment (2)
+2x Leather Jacket
+
+Combat (54)
+2x Disarm
+3x Fake Out
+10x Immortal Grapple
+3x Increased Strength
+3x Pulled Fangs
+2x Slam
+4x Target Vitals
+5x Taste of Vitae
+4x Thrown Gate
+7x Torn Signpost
+11x Undead Strength

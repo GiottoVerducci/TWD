@@ -1,0 +1,55 @@
+Dutch ECQ
+Tilburg, Netherlands
+August 19th 2006
+23 players
+Martin Schumacher
+
+Crypt (12 cards, min=14, max=24, avg=4.92)
+------------------------------------------
+2x Eugenio Estevez	 6   AUS THA dom for	Tremere:3
+2x Cohn Rose		 5   THA aus dom pre	Tremere:3
+2x Blythe Candeleria	 3   THA aus		Tremere:2
+1x Elena Mendoza Vasquez 6   AUS THA dom obt	Tremere antitribu:3
+1x Selena		 6   AUS DOM THA	Tremere antitribu:3
+1x Yasmin the Black	 6   AUS THA dom pre	Tremere antitribu:3
+1x Aisling Sturbridge	 5   AUS THA dom	Tremere:2
+1x Hannigan		 5   AUS THA dom	Tremere antitribu:2
+1x Masika St. John	 3   THA		Tremere:3
+
+Library (90 cards)
+Master (19)
+1x Academic Hunting Ground
+1x Arcane Library
+5x Blood Doll
+1x Channel 10
+2x Chantry
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x KRCG News Radio
+2x Pentex(TM) Subversion
+1x Rack, The
+
+Action (5)
+5x Magic of the Smith
+
+Equipment (4)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+1x Sport Bike
+
+Action Modifier (7)
+7x Conditioning
+
+Reaction (24)
+8x Deflection
+4x Delaying Tactics
+4x Enhanced Senses
+4x Forced Awakening
+4x Wake with Evening's Freshness
+
+Combat (31)
+15x Apportation
+12x Theft of Vitae
+4x Walk of Flame

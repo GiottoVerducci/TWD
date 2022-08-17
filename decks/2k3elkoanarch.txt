@@ -1,0 +1,87 @@
+Anarch Revolt
+Elko, Nevada
+June 29th 2003
+10 players
+Gerald Claycomb III
+
+Deck Name: Bleeding Fags
+
+Well, the cards were chosen out of neccessity, since I do not have the
+extensive card collections SOME people have *Glares at Brian*. The
+basic strategy was to intercept as many actions from my prey as I
+could, then bleed the snot out of them when he is tapped out,
+preferably using someone with Pulse of the Canaille on them. Should
+my prey still have blockers when it happens to be my turn, that is
+were the Strike: Combat Ends combat cards help out, as well as when
+everybody decides I need to leave the table, and start salmon swimming
+towards me. If I had the cards that I would have prefered in the
+deck, I would have swapped out the Putreficatioins for Majesties, but
+I only had 4 of them, and Putrefications did work (I guess no one uses
+them for the Presence ability but me). I would have also added Eagle's
+Sight, to intercept annoying votes that wasn't called by my Pred/Prey.
+
+I had alot of luck during the Tournament, being able to get Jost in
+the 1st four on three of the four matches, so he happened to be my big
+bad bleeder, as well as having a combat deck as my predator the
+majority of times, which helped me out since I was able to draw my
+S:CE cards as they drew Rushes and the like. All in all, I really do
+not have many complaints about my own deck, since it did work
+according to my plans. I guess I could complain about the fact that
+the crypt capacity average was higher than I wished it to be, but
+looking at the Elder Library database, there wasn't many I wished to
+add. Sometimes the deck wasn't cycling cards fast enough, but that is
+something that could have been remedied at the time.
+
+Crypt (12 cards, min=17, max=26, avg=5.33)
+------------------------------------------
+1x Jeremy MacNeil		7   AUS POT PRE cel chi	 	   Brujah:3
+1x Suzanne Kadim		7   CEL PRE aus dom obf	 	   Toreador:3
+1x Jost Werner			6   AUS PRE ani		 	   Toreador antitribu:2
+1x Sigrid Bekker		6   AUS cel pot pre	 	   Toreador:2
+1x Victoria Ash			6   PRE aus cel dom	 primogen  Toreador:2
+1x Barth			5   PRE aus cel		 	   Toreador:3
+1x Rigby, Crusade Vanguard	5   CEL PRE aus pot	 	   Brujah antitribu:2
+1x Rose, The			5   PRE VIC aus		 	   Tzimisce:3
+1x Sir Marriot D'Urban		5   PRE aus obf ser	 	   Follower of Set:2
+1x Maldavis			4   AUS for pre		 	   Caitiff:3
+1x Remilliard, Devout Crusader	4   AUS pre		 	   Toreador antitribu:2
+1x Sir Henry Johnson		4   aus pot pre		 	   Toreador:3
+
+Library (86 cards)
+Master (17)
+2x Auspex
+1x Barrens, The
+4x Blood Doll
+2x Dummy Corporation
+1x Elder Library
+1x Information Highway
+1x KRCG News Radio
+1x Minion Tap
+3x Presence
+1x Sudden Reversal
+
+Action (25)
+1x Arson
+6x Enchant Kindred
+1x Intimidation
+6x Legal Manipulations
+1x Media Influence
+5x Pulse of the Canaille
+5x Social Charm
+
+Action Modifier (6)
+6x Aire of Elation
+
+Reaction (25)
+1x Enhanced Senses
+2x Precognition
+2x Spirit's Touch
+6x Telepathic Counter
+9x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (13)
+3x Catatonic Fear
+4x Majesty
+3x Putrefaction
+3x Staredown

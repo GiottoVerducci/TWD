@@ -1,0 +1,78 @@
+Black Forest Base
+Mustamännistö, Finland
+December 15th 2018
+2R+F
+13 players
+Jyri Puhakka
+https://www.vekn.net/event-calendar/event/9077
+
+-- 1GW3.5 + 3VP in final
+
+Deck Name: !Ventrue waiting game
+
+"- You're mighty close about this affair, Mr. Holmes. What's the game now?
+- A waiting game."
+The Hound of the Baskervilles - Sir Arthur Conan Doyle
+
+This is a !ventrue grinder deck. I have made some minor modifications to have
+the right tools to current meta (lots of anarchs, allys, revolts etc.). With
+Retribution on your hand, you can trick your predator and not bounce instead
+take the bleed in and torporize the bleeder later on your master phase.
+
+Crypt (12 cards, min=13, max=30, avg=5.58)
+------------------------------------------
+3x Blackhorse Tanner		7   AUS DOM FOR		 	 Ventrue antitribu:3
+2x Owain Evans, The Wanderer	8   AUS DOM FOR cel pre	 	 Ventrue antitribu:3
+2x Jefferson Foster		6   AUS DOM for tha	 bishop	 Ventrue antitribu:4
+2x Neighbor John		5   AUS dom for		 	 Ventrue antitribu:4
+1x Jephta Hester		5   DOM FOR aus		 	 Ventrue antitribu:4
+1x New Blood			2   san			 	 Blood Brother:ANY
+1x Anarch Convert		1   -none-		 	 Caitiff:ANY
+
+Library (82 cards)
+Master (16; 2 trifle)
+1x Anarch Troublemaker
+2x Blood Doll
+1x Channel 10
+1x Corporate Hunting Ground
+2x Direct Intervention
+3x Dreams of the Sphinx
+1x Misdirection
+1x Pentex(TM) Subversion
+1x Retribution
+2x Vessel
+1x WMRH Talk Radio
+
+Action (12)
+1x Abbot
+1x Far Mastery
+9x Govern the Unaligned
+1x Revelations
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (10)
+2x Bonding
+4x Conditioning
+2x Daring the Dawn
+1x Kiss of Ra, The
+1x Seduction
+
+Reaction (26)
+5x Deflection
+2x Delaying Tactics
+4x Eagle's Sight
+6x Eyes of Argus
+4x On the Qui Vive
+3x Redirection
+2x Telepathic Misdirection
+
+Combat (16)
+5x Hidden Strength
+4x Indomitability
+2x Soak
+5x Weighted Walking Stick
+
+Event (1)
+1x Waiting Game

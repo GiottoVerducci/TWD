@@ -1,0 +1,66 @@
+Erol's B-Day Tournament
+Karlsruhe, Germany
+February 28th 2010
+3R+F
+14 players
+Ralf Lammert
+
+-- 3VP in final
+
+Deck Name: Oh Pander My Pander
+
+Description: Some Pander deck.
+
+Crypt (14 cards, min=4, max=28, avg=3.29)
+-----------------------------------------
+2x Korah		    7	AUS DEM OBF ani	 priscus	Malkavian antitribu:2
+2x Marie Faucigny	    7	AUS OBF dem tha	 archbishop	Malkavian antitribu:3
+1x Jimmy Dunn		    4	CEL POT for	 		Pander:2
+1x Lena Rowe		    3	aus obf pre	 		Pander:2
+1x Rex, The Necronomist	    3	pot pro vic	 		Pander:2
+1x Mitchell, The Headhunter 2	obt pot		 		Pander:2
+1x Angela Decker	    1	pre		 		Pander:2
+1x Basil		    1	obf		 		Pander:2
+1x Feo Ramos		    1	aus		 		Pander:3
+1x Huang, Blood Cultist	    1	pro		 		Pander:2
+1x March Halcyon	    1	for		 		Pander:2
+1x Royce		    1	dom		 		Pander:2
+
+Library (81 cards)
+Master (18; 4 trifle)
+1x Coven, The
+1x Creepshow Casino
+1x Día de los Muertos
+2x Dreams of the Sphinx
+5x Effective Management
+2x Information Highway
+2x Pentex(TM) Subversion
+1x Powerbase: Madrid
+3x Wash
+
+Political Action (33)
+8x Consanguineous Boon
+4x Conservative Agitation
+1x Crusade: Detroit
+1x Crusade: New York
+1x Crusade: Philadelphia
+10x Kine Resources Contested
+6x Legacy of Pander
+2x Neonate Breach
+
+Action Modifier (14)
+2x Cloak the Gathering
+2x Cryptic Rider
+2x Forgotten Labyrinth
+2x Private Audience
+6x Veil the Legions
+
+Reaction (10)
+5x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (5)
+5x Dodge
+
+Event (1)
+1x Uncoiling, The

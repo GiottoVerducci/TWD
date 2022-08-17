@@ -1,0 +1,68 @@
+Liga Nova Era Brasil - SP - Hórus
+São Paulo, Brazil
+April 30th 2017
+3R+F
+16 players
+Desso Alastor
+https://www.vekn.net/event-calendar/event/8643
+
+-- 4VP in final
+
+Deck Name: TITANIC
+
+Description: Turbo Montano: Bleed + Baltimore + Mind Rape
+
+Crypt (12 cards, min=13, max=44, avg=7.42)
+------------------------------------------
+5x Montano			 11  ANI DOM FOR OBT POT  2 votes  Lasombra:3
+2x Lucita			 8   DOM FOR OBT cel pot  	   Lasombra:2
+1x Guido Lucciano		 5   OBT dom obf	  	   Lasombra:2
+1x Ignacio, The Black Priest	 4   dom obt pot	  	   Lasombra:2
+1x Ramiro			 4   dom obt vic	  	   Lasombra:2
+1x Cameron			 3   dom pot		  	   Lasombra:2
+1x Aaron Duggan, Cameron's Toady 2   obt		  	   Lasombra:2
+
+Library (90 cards)
+Master (24; 2 trifle)
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+2x Golconda: Inner Peace
+2x Heidelberg Castle, Germany
+2x Information Highway
+1x Monastery of Shadows
+4x Parthenon, The
+1x Pentex(TM) Subversion
+1x Political Hunting Ground
+2x Villein
+1x Vulnerability
+4x Zillah's Valley
+
+Action (22)
+9x Baltimore Purge
+5x Graverobbing
+6x Mind Rape
+2x Renewed Vigor
+
+Ally (3)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Mylan Horseed
+
+Action Modifier (31)
+2x Blanket of Night
+3x Conditioning
+2x Enkil Cog
+16x Freak Drive
+2x Seduction
+2x Shadow Play
+2x Shroud of Absence
+2x Shroud of Night
+
+Reaction (8)
+2x Deflection
+2x Eluding the Arms of Morpheus
+4x Obedience
+
+Combat (2)
+2x Shadow Body

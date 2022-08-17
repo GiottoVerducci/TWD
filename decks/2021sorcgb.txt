@@ -1,0 +1,58 @@
+Skin of Rock
+Campina Grande, Brazil
+March 13th 2021
+3R+F
+13 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/9758
+
+-- 1GW9 + 4VP in final
+
+Deck Name: Matasuntha e enkidu
+Author: Joab Rogério
+
+Crypt (12 cards, min=4, max=44, avg=7.33)
+-----------------------------------------
+4x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+4x Matasuntha	    10	ANI AUS CEL FOR PRO	 Gangrel:5
+4x Anarch Convert   1	-none-			 Caitiff:ANY
+
+Library (88 cards)
+Master (17; 2 trifle)
+9x Ashur Tablets
+1x Ecoterrorists
+1x Fame
+2x Frontal Assault
+1x Tension in the Ranks
+2x Vessel
+1x Zoo Hunting Ground
+
+Action (10)
+1x Army of Rats
+2x Bum's Rush
+3x Deep Song
+2x Fleetness
+2x Taunt the Caged Beast
+
+Equipment (1)
+1x Ivory Bow
+
+Action Modifier (14)
+1x Enkil Cog
+4x Forced March
+4x Freak Drive
+3x Instantaneous Transformation
+2x Zephyr
+
+Combat (45)
+5x Blur
+4x Carrion Crows
+5x Drawing Out the Beast
+10x Flesh of Marble
+3x Quickness
+6x Skin of Night
+5x Taste of Vitae
+7x Telepathic Tracking
+
+Event (1)
+1x Dragonbound

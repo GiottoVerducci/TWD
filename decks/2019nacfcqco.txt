@@ -1,0 +1,54 @@
+NAC 2019 First Chance Qualifier
+Columbus, Ohio
+June 16th 2019
+2R+F
+20 players
+Mehdi Mazni
+https://www.vekn.net/event-calendar/event/9193
+
+-- 1GW4 + 5VP in final
+
+Deck Name: Ravnos clown car
+
+Crypt (12 cards, min=9, max=19, avg=3.5)
+----------------------------------------
+1x Andrei Puxon			5   ani cel chi for	Ravnos:2
+1x Ghivran Dalaal, The Dead God	5   FOR ani aus chi	Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Anka, Priestess of Thorns	4   ani chi pro		Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for		Ravnos:2
+1x Lázár Dobrescu		3   for			Ravnos:2
+1x Tsigane			3   aus chi		Ravnos:2
+1x Vedel Esbreno		3   chi for		Ravnos:2
+1x Sasha Miklos			2   chi			Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+1x Zip				2   ani			Ravnos:3
+
+Library (65 cards)
+Master (13)
+2x Gird Minions
+1x Life Boon
+2x Pentex(TM) Subversion
+6x Ravnos Carnival
+2x Week of Nightmares
+
+Action (29)
+1x Aranthebes, The Immortal
+4x Bamba
+14x Embrace, The
+10x Mozambique Allure
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (11)
+1x Autarkis Persecution
+8x Consanguineous Boon
+2x Kine Resources Contested
+
+Action Modifier/Reaction (10)
+10x Eldest Are Kholo, The
+
+Event (1)
+1x Uncoiling, The

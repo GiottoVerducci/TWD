@@ -1,0 +1,47 @@
+Tournoi de Poitiers
+Poitiers, France
+May 16th 2004
+14 players
+François Morand
+
+Deck Name: Anson Show
+
+Crypt (12 cards, min=8, max=32, avg=5.08)
+-----------------------------------------
+5x Anson	   8   CEL PRE aus dom	prince	Toreador:1
+2x Mariana Gilbert 4   PRE cel			Toreador:1
+2x Delilah Easton  2   pre			Toreador:1
+2x Dieter Kleist   2   aus			Toreador:1
+1x Ramiel DuPre	   5   PRE aus cel dom		Toreador:1
+
+Library (75 cards)
+Master (28)
+1x Art Museum
+1x Creepshow Casino
+3x Dreams of the Sphinx
+2x Golconda: Inner Peace
+1x Last Stand
+1x Life Boon
+1x Minion Tap
+1x Parthenon, The
+1x Secure Haven
+8x Storage Annex
+1x Succubus Club
+7x Toreador Grand Ball
+
+Political Action (22)
+3x Anarchist Uprising
+3x Ancilla Empowerment
+1x Disputed Territory
+4x Dramatic Upheaval
+6x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (18)
+6x Awe
+6x Bewitching Oration
+6x Voter Captivation
+
+Combat (7)
+6x Majesty
+1x Staredown

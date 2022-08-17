@@ -1,0 +1,61 @@
+SAC 2015 - Last Chance Qualifier
+Fortaleza, Brazil
+October 10th 2015
+3R+F
+37 players
+Mailton Silva
+https://www.vekn.net/event-calendar/event/8173
+
+-- 3VP in final
+
+Deck Name: Cidade em Chamas
+
+Crypt (12 cards, min=4, max=29, avg=4.08)
+-----------------------------------------
+4x Anarch Convert	1   -none-	 Caitiff:ANY
+3x Nana Buruku		8   ANI POT PRE	 Guruhi:4
+1x Céleste Lamontagne	5   ANI PRO for	 Gangrel antitribu:4
+1x Petra		5   ANI OBF aus	 Nosferatu:4
+1x Beetleman		4   ANI obf	 Nosferatu:4
+1x Bobby Lemon		4   ANI pro	 Gangrel:3
+1x Stick		3   ANI		 Nosferatu antitribu:4
+
+Library (90 cards)
+Master (26; 5 trifle)
+1x Anarch Free Press, The
+10x Anarch Revolt
+1x Archon Investigation
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+2x Haven Uncovered
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Tension in the Ranks
+1x Twilight Camp
+2x Vessel
+2x Villein
+1x Wider View
+
+Action (10)
+8x Deep Song
+2x Taunt the Caged Beast
+
+Reaction (9)
+5x Cats' Guidance
+2x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (43)
+14x Aid from Bats
+2x Canine Horde
+9x Carrion Crows
+2x Groundfighting
+2x Hell-for-Leather
+5x Target Vitals
+5x Taste of Vitae
+4x Terror Frenzy
+
+Event (2)
+1x Anthelios, The Red Star
+1x Narrow Minds

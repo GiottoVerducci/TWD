@@ -1,0 +1,54 @@
+Illusions of the Kindred
+Pordenone, Italy
+September 14th 2013
+2R+F
+10 players
+Marco Vassallo
+
+Deck Name: Ruba vampiri
+
+Crypt (12 cards, min=10, max=44, avg=6.83)
+------------------------------------------
+4x Leandro	    11	AUS OBF PRE cel dom	inner circle	Malkavian:2
+2x Gilbert Duane    7	AUS DOM OBF		prince		Malkavian:1
+2x Greger Anderssen 7	AUS OBF dom pro		prince		Malkavian:2
+2x Watenda	    3	obf					Malkavian:2
+1x Normal	    2	obf					Malkavian:1
+1x Ohanna	    2	dom					Malkavian:2
+
+Library (90 cards)
+Master (24; 7 trifle)
+2x Heidelberg Castle, Germany
+2x Madness Network
+4x Malkavian Dementia
+6x Malkavian Prank
+2x Parthenon, The
+1x Pentex(TM) Subversion
+7x Villein
+
+Action (27)
+4x Anarch Secession
+5x Chameleon
+6x Derange
+8x Govern the Unaligned
+4x Mind Rape
+
+Equipment (6)
+5x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Political Action (7)
+6x Banishment
+1x Rumors of Gehenna
+
+Action Modifier (14)
+5x Elder Impersonation
+5x Forgotten Labyrinth
+4x Lost in Crowds
+
+Reaction (11)
+8x Deflection
+3x Legacy of Power
+
+Event (1)
+1x Anthelios, The Red Star

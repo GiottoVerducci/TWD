@@ -1,0 +1,66 @@
+Québec NCQ
+Trois-Rivières, Quebec
+October 23rd 2004
+3R+F
+22 players
+Marc Desaulniers
+
+Deck Name: mALK_!mALK protean party
+
+Crypt (12 cards, min=25, max=40, avg=8.25)
+------------------------------------------
+4x Rachel Brandywine	10  AUS DEM OBF PRO ani	 prince		Malkavian:3
+3x Rodolfo		8   AUS DEM OBF pro	 bishop		Malkavian antitribu:3
+2x Imogen		9   AUS DEM obf pro vic	 archbishop	Malkavian antitribu:2
+2x Greger Anderssen	7   AUS OBF dom pro	 prince		Malkavian:2
+1x Midget		3   DEM obf pre		 		Malkavian antitribu:3
+
+Library (90 cards)
+Master (15)
+1x Bleeding the Vine
+2x Blood Doll
+1x Direct Intervention
+1x Giant's Blood
+2x Golconda: Inner Peace
+4x Minion Tap
+2x Rötschreck
+1x Secure Haven
+1x Vox Domini
+
+Action (15)
+4x Call, The
+2x Entrenching
+2x Fifth Tradition: Hospitality
+5x Kindred Spirits
+2x Sibyl's Tongue
+
+Equipment (1)
+1x Winchester Mansion
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (17)
+4x Confusion
+3x Elder Impersonation
+2x Eyes of Chaos
+4x Faceless Night
+4x Lost in Crowds
+
+Action Modifier/Combat (6)
+2x Deny
+4x Swallowed by the Night
+
+Reaction (18)
+1x My Enemy's Enemy
+4x Telepathic Counter
+6x Telepathic Misdirection
+7x Wake with Evening's Freshness
+
+Combat (15)
+1x Bone Spur
+2x Claws of the Dead
+9x Earth Meld
+3x Form of Mist

@@ -1,0 +1,56 @@
+Manse by night
+Tampere, Finland
+April 21st 2007
+3R+F
+18 players
+Ville Kaijasaari
+
+FoS + Dominate
+
+Crypt (12 cards, min=20, max=33, avg=6.75)
+------------------------------------------
+2x Kephamos, High Priest of Marrakech	8   SER dom obf pre	 2 votes  Follower of Set:2
+2x Hesha Ruhadze			6   SER ani obf pre	 	  Follower of Set:2
+2x Count Ormonde			5   OBF dom pre ser	 	  Follower of Set:2
+1x Khay'tall, Snake of Eden		9   DOM OBF PRE SER aus	 	  Follower of Set:2
+1x Amisa				8   OBF SER pre pro	 2 votes  Follower of Set:2
+1x Intisar				8   OBF PRE SER cel pot	 	  Follower of Set:2
+1x Qufur am-Heru			7   OBF PRE SER cel tha	 	  Follower of Set:2
+1x Sarrasine				7   OBF PRE aus nec ser	 	  Follower of Set:2
+1x Nepata				4   obf pre ser		 	  Follower of Set:2
+
+Library (89 cards)
+Master (15)
+1x Barrens, The
+5x Blood Doll
+5x Dominate
+1x Information Highway
+1x Opium Den
+2x Zillah's Valley
+
+Action (14)
+7x Entrancement
+7x Legal Manipulations
+
+Action Modifier (24)
+5x Cloak the Gathering
+1x Conditioning
+3x Elder Impersonation
+4x Faceless Night
+4x Lost in Crowds
+2x Spying Mission
+5x Threats
+
+Action Modifier/Combat (6)
+2x Form of the Serpent
+4x Swallowed by the Night
+
+Reaction (16)
+10x Deflection
+3x On the Qui Vive
+3x Wake with Evening's Freshness
+
+Combat (14)
+4x Disengage
+6x Majesty
+4x Staredown

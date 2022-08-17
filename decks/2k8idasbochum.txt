@@ -1,0 +1,62 @@
+In Death A Song
+Bochum, Germany
+January 27th 2008
+13 players
+Ralf Lammert
+
+Deck Name: Dominate Is Broken
+
+Description: DOM nastiness w/ combat.
+
+Crypt (12 cards, min=5, max=16, avg=2.5)
+----------------------------------------
+2x Gloria Giovanni	4   DOM nec	Giovanni:2
+2x Ingrid Russo		4   DOM for	Ventrue antitribu:2
+1x Brooke		3   dom tha	Tremere antitribu:2
+1x Christine Boscacci	2   dom vic	Pander:2
+1x Mustafa Rahman	2   dom		Tremere:2
+1x Ohanna		2   dom		Malkavian:2
+1x Samson		2   dom		Ventrue antitribu:2
+1x Huang, Blood Cultist	1   pro		Pander:2
+1x March Halcyon	1   for		Pander:2
+1x Royce		1   dom		Pander:2
+
+Library (84 cards)
+Master (22; 3 trifle)
+4x Blood Doll
+6x Dominate
+1x Fame
+1x Frontal Assault
+2x Haven Uncovered
+1x Hungry Coyote, The
+2x Information Highway
+1x Mob Connections
+1x Powerbase: Zürich
+3x Vessel
+
+Action (12)
+1x Abbot
+1x Aranthebes, The Immortal
+2x Far Mastery
+8x Scouting Mission
+
+Action Modifier (8)
+5x Conditioning
+1x Empowering the Puppet King
+2x Leverage
+
+Reaction (12)
+6x Deflection
+2x Delaying Tactics
+2x Fillip
+2x On the Qui Vive
+
+Combat (30)
+4x Fake Out
+3x Glancing Blow
+2x Pulled Fangs
+2x Target Hand
+8x Target Vitals
+2x Trap
+6x Weighted Walking Stick
+3x Zip Gun

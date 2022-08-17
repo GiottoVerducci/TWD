@@ -1,0 +1,65 @@
+Protected Resources
+Stockholm, Sweden
+October 20th 2012
+2R+F
+14 players
+Jens Johansson
+
+Deck Name: Group 1-2 Ventrue
+
+Crypt (12 cards, min=17, max=35, avg=6.67)
+------------------------------------------
+2x Emerson Bridges		   8   DOM FOR PRE pot	    prince  Ventrue:1
+2x Sir Walter Nash		   7   DOM FOR PRE	    prince  Ventrue:1
+2x Timothy Crowley		   7   FOR PRE ani dom	    prince  Ventrue:1
+1x Queen Anne			   10  DOM FOR PRE aus obf  prince  Ventrue:2
+1x Wilhelm Waldburg		   9   DOM FOR PRE aus cel  prince  Ventrue:2
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for	    	    Ventrue:2
+1x Courtland Leighton		   4   dom for pre	    	    Ventrue:1
+1x Ingrid Russo			   4   DOM for		    	    Ventrue antitribu:2
+1x Violette Prentiss		   4   PRE dom		    	    Ventrue:1
+
+Library (83 cards)
+Master (11; 2 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+1x Direct Intervention
+1x Fear of Mekhet
+1x Jake Washington
+2x Misdirection
+2x Pentex(TM) Subversion
+1x Ventrue Headquarters
+1x Wider View
+
+Action (16)
+2x Enchant Kindred
+2x Entrancement
+8x Govern the Unaligned
+2x Mind Numb
+2x Scouting Mission
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (12)
+1x Anarchist Uprising
+1x Conservative Agitation
+5x Kine Resources Contested
+2x Neonate Breach
+3x Parity Shift
+
+Action Modifier (28)
+2x Bewitching Oration
+2x Bonding
+4x Conditioning
+3x Daring the Dawn
+12x Freak Drive
+2x Seduction
+3x Voter Captivation
+
+Reaction (6)
+4x Deflection
+2x Second Tradition: Domain
+
+Combat (9)
+9x Majesty

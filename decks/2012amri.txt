@@ -1,0 +1,64 @@
+Italian Qualifier Tour 9th stage - Angra Mainyu
+Rome, Italy
+July 8th 2012
+2R+F
+12 players
+Stefania Cantarelli
+
+-- 3VP in final
+
+Deck Name: KIA01 - Stealthing Faeries
+Created by: Emiliano Arnotti (Drugo)
+
+Description: DOM-MYT-OBT Stealth&Bleed MkV.
+
+Crypt (12 cards, min=19, max=32, avg=6.5)
+-----------------------------------------
+2x Arcadian, The	   8   DOM MYT OBT chi for  		Kiasyd:5
+2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+2x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+1x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+1x Lucy Markowitz	   3   dom obt		    		Lasombra:4
+
+Library (90 cards)
+Master (15; 2 trifle)
+1x Blood Doll
+2x Chanjelin Ward
+4x Dreams of the Sphinx
+1x Great Symposium
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Prophecies of Gehenna
+1x Secure Haven
+2x Vessel
+
+Action (17)
+12x Govern the Unaligned
+1x Gremlins
+4x Song of Pan
+
+Ally (1)
+1x Mylan Horseed
+
+Action Modifier (29)
+6x Conditioning
+2x Foreshadowing Destruction
+4x Seduction
+4x Shadow Play
+5x Shroud of Absence
+8x Stone Travel
+
+Action Modifier/Combat (6)
+6x Fae Contortion
+
+Action Modifier/Reaction (6)
+6x Aura Absorption
+
+Reaction (16)
+8x Deflection
+2x Delaying Tactics
+4x On the Qui Vive
+2x Wake with Evening's Freshness

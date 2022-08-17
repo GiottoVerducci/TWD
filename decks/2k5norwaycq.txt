@@ -1,0 +1,61 @@
+Norwegian ECQ
+Bergen, Norway
+April 23rd 2005
+3R+F
+16 players
+Arild Mehn Andersen
+
+Deck Name: Tørrgjær
+
+Crypt (12 cards, min=13, max=32, avg=6.25)
+------------------------------------------
+2x Constanza Vinti		8   CEL DOM POT		 prince	   Brujah:2
+2x Dónal O'Connor		8   CEL DOM POT		 prince	   Brujah:2
+2x Jacko			8   CEL POT PRE obt	 	   Brujah antitribu:2
+2x Theo Bell			7   POT cel dom pre	 	   Brujah:2
+2x Angel			2   cel			 	   Brujah:1
+1x Anvil			6   CEL POT dom pre tha	 primogen  Brujah:1
+1x Dre, Leader of the Cold Dawn	3   cel pot		 	   Brujah:1
+
+Library (90 cards)
+Master (13)
+5x Blood Doll
+1x Celerity
+1x Dominate
+1x Fame
+1x Legendary Vampire
+1x Major Boon
+1x Minion Tap
+2x Warzone Hunting Ground
+
+Action (8)
+3x Bum's Rush
+2x Harass
+3x Scouting Mission
+
+Equipment (2)
+2x .44 Magnum
+
+Action Modifier (5)
+2x Seduction
+3x Threats
+
+Reaction (12)
+7x Deflection
+5x Wake with Evening's Freshness
+
+Combat (50)
+5x Blur
+2x Disarm
+4x Flash
+2x Increased Strength
+6x Psyche!
+3x Pursuit
+2x Sacrament of Carnage
+3x Sideslip
+6x Taste of Vitae
+3x Thrown Gate
+4x Thrown Sewer Lid
+3x Torn Signpost
+3x Undead Strength
+4x Vampiric Speed

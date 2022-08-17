@@ -1,0 +1,75 @@
+Edge Explosion
+Trois-Rivières, Quebec
+July 8th 2006
+22 players
+Marc Desaulniers
+
+Deck Name: Ayo's Crew
+
+Description: Influence Ayo Igoli first and use her special ability to
+bring out the rest of the crew fast. Ayo's the perfect target for the
+Kholo title, this way you'll get a total of 9 votes with the 2 Magaji
+in play. Scalpel Tongue is a great card... play 4-5 copies if you're
+really afraid of PTO ;)
+
+Crypt (13 cards, min=19, max=40, avg=7.46)
+------------------------------------------
+4x Ayo Igoli		10  AUS CEL FOR PRE obf tha		Ishtarri:4
+3x Falhu Shibaba	8   CEL CHI FOR PRE ani		magaji	Ishtarri:3
+3x Ubende		7   CEL PRE for obf qui		magaji	Ishtarri:4
+1x Shasa Abu Badr	5   PRE cel for				Ishtarri:4
+1x Kenyatta		4   cel for pre				Ishtarri:4
+1x Panya, The Wicked	3   cel pre				Ishtarri:4
+
+Library (90 cards)
+Master (16)
+1x Ancestor Spirit
+1x Bleeding the Vine
+4x Blood Doll
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Glutton
+1x Mbare Market, Harare
+4x Minion Tap
+
+Action (6)
+2x Enchant Kindred
+2x Entrancement
+2x Heart of the City
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x Banishment
+6x Consanguineous Boon
+1x Domain Challenge
+6x Kine Resources Contested
+
+Action Modifier (28)
+3x Awe
+3x Bewitching Oration
+6x Forced March
+3x Forgotten Labyrinth
+1x Strange Day
+6x Uncontrolled Impulse
+6x Voter Captivation
+
+Action Modifier/Reaction (5)
+2x Ishtarri Kholo
+3x Scalpel Tongue
+
+Reaction (6)
+2x Telepathic Misdirection
+2x Terra Incognita
+2x Wake with Evening's Freshness
+
+Combat (9)
+5x Majesty
+2x Skin of Steel
+2x Staredown

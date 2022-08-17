@@ -1,0 +1,50 @@
+Make The Misere!
+Fortaleza, Brazil
+April 7th 2018
+2R+F
+13 players
+Everton Biell
+https://www.vekn.net/event-calendar/event/8880
+
+-- 2VP in final
+
+Deck Name: Mono DEM opressor!
+
+Description: Bleed:)
+
+Crypt (12 cards, min=6, max=18, avg=3)
+--------------------------------------
+2x Jackie			3   DEM			Malkavian antitribu:4
+2x Midget			3   DEM obf pre		Malkavian antitribu:3
+2x Cassandra Langely, The Waif	2   dem			Malkavian:4
+2x Eddie Gaines			1   dem pot		Caitiff:3
+1x Apache Jones			5   DEM aus for obf	Malkavian antitribu:4
+1x Persia, The Beautiful Statue	5   DEM aus obf		Malkavian:3
+1x Uncle George			5   DEM aus dom obf	Malkavian antitribu:3
+1x Marta			3   aus dem		Malkavian antitribu:4
+
+Library (90 cards)
+Master (15)
+2x Archon Investigation
+4x Dementation
+3x Effective Management
+4x Misdirection
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+
+Action (26)
+26x Kindred Spirits
+
+Ally (1)
+1x Ossian
+
+Action Modifier (32)
+13x Confusion
+13x Eyes of Chaos
+6x Mind Tricks
+
+Action Modifier/Combat (14)
+14x Deny
+
+Combat (2)
+2x Coma

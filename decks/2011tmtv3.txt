@@ -1,0 +1,60 @@
+Torneo Marató TV3
+Badia del Vallès, Barcelona, Spain
+December 18th 2011
+3R+F
+25 players
+Luis Fonseca
+
+Deck Name: The Ingrid Rossler Show
+Created by: Manuel Diehm (+Gangrel Justicar card added from Luis)
+
+Crypt (12 cards, min=17, max=36, avg=6.75)
+------------------------------------------
+4x Ingrid Rossler	9   ANI FOR PRO dom	prince	Gangrel:2
+2x Danielle Diron	7   ANI PRO chi for	1 vote	Gangrel:3
+2x Mirembe Kabbada	5   PRO SER ani			Gangrel:2
+1x Katarina		9   ANI FOR pot pro	prince	Gangrel:2
+1x Dr. Allan Woodstock	5   PRO ani aus for		Gangrel:3
+1x Daliyah		4   PRO obf			Nosferatu:2
+1x Chandler Hungerford	3   PRO				Gangrel:2
+
+Library (75 cards)
+Master (17; 7 trifle)
+1x Ecoterrorists
+1x Mundane
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+2x Sudden Reversal
+5x Vessel
+2x Villein
+
+Action (3)
+1x Army of Rats
+2x Tier of Souls
+
+Ally (1)
+1x Renegade Garou
+
+Political Action (3)
+1x Gangrel Justicar
+2x Parity Shift
+
+Retainer (6)
+6x Raven Spy
+
+Reaction (23)
+3x Cats' Guidance
+4x Deflection
+3x Forced Awakening
+3x On the Qui Vive
+6x Second Tradition: Domain
+4x Sense the Savage Way
+
+Combat (22)
+2x Claws of the Dead
+12x Earth Meld
+4x Form of Mist
+4x Pack Alpha

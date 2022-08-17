@@ -1,0 +1,51 @@
+October Rust: Seekonk
+Seekonk, Massachusetts
+October 13th 2001
+Shaun McIssac
+
+Title: Shaun McIssac's ICBM
+(Inner Circle Bloating Monstrosity)
+Focus:
+OBF/DOM
+
+Crypt (12 cards, min=33, max=44, avg=9.75)
+------------------------------------------
+2x Arika		    11	DOM FOR OBF PRE aus cel	 inner circle	Ventrue:2
+2x Etrius		    11	AUS DOM OBF THA pro	 inner circle	Tremere:2
+2x Lucian		    10	AUS DOM OBF cel tha	 justicar	Malkavian:1
+2x Gilbert Duane	    7	AUS DOM OBF		 prince		Malkavian:1
+1x François Villon	    10	AUS CEL PRE chi obf pot	 prince		Toreador:2
+1x Nefertiti		    10	DOM OBF PRE SER cel pot	 		Follower of Set:2
+1x Queen Anne		    10	DOM FOR PRE aus obf	 prince		Ventrue:2
+1x Khay'tall, Snake of Eden 9	DOM OBF PRE SER aus	 		Follower of Set:2
+
+Library (77 cards)
+Master (26)
+3x Barrens, The
+1x Dreams of the Sphinx
+3x Information Highway
+3x Legendary Vampire
+9x Minion Tap
+1x Pentex(TM) Subversion
+6x Zillah's Valley
+
+Action (19)
+1x Dominate Kine
+10x Fifth Tradition: Hospitality
+8x Govern the Unaligned
+
+Political Action (4)
+1x Ancient Influence
+1x Parity Shift
+1x Political Stranglehold
+1x Protect Thine Own
+
+Action Modifier (15)
+3x Conditioning
+5x Faceless Night
+6x Lost in Crowds
+1x Mask of a Thousand Faces
+
+Reaction (13)
+5x Deflection
+8x Second Tradition: Domain

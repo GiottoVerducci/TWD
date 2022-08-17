@@ -1,0 +1,75 @@
+Australian Continental Championship 2010
+Nundah, Brisbane, Australia
+June 13th 2010
+3R+F
+16 players
+Jason Ryan
+
+Deck Name: The Beautiful People 2.0
+
+Last minute Protected Resources were gold all day. Ashurs/Anthelios
+3 MPA recursion shenanigans are close to indomitable in most end game
+showdowns. Anneke was MVP, although Delilah Easton got me the oust on
+the finals table.
+
+Crypt (12 cards, min=15, max=42, avg=7.58)
+------------------------------------------
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+2x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+2x Delilah Easton  2   pre					Toreador:1
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Isabel de Leon  3   AUS					Toreador:2
+
+Library (90 cards)
+Master (39; 7 trifle)
+1x Art Museum
+6x Ashur Tablets
+2x Direct Intervention
+2x Dominate
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x From a Sinking Ship
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Protected Resources
+1x Secure Haven
+1x Temptation of Greater Power
+7x Toreador Grand Ball
+7x Villein
+2x Zillah's Valley
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Entrancement
+
+Equipment (3)
+1x Bowl of Convergence
+2x Sniper Rifle
+
+Political Action (16)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+2x Conservative Agitation
+1x First Tradition: The Masquerade
+4x Kine Resources Contested
+4x Parity Shift
+1x Reins of Power
+
+Action Modifier (10)
+1x Aire of Elation
+2x Approximation of Loyalty
+2x Awe
+5x Voter Captivation
+
+Reaction (18)
+5x Deflection
+7x Obedience
+6x Second Tradition: Domain
+
+Event (2)
+2x Anthelios, The Red Star

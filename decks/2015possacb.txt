@@ -1,0 +1,76 @@
+PÓS SAC
+Somewhere, Brazil
+October 11th 2015
+2R+F
+21 players
+Renato Torres
+https://www.vekn.net/event-calendar/event/8249
+
+-- 3VP in final
+
+Deck Name: Anarch Wins
+
+Crypt (15 cards, min=4, max=34, avg=5.67)
+-----------------------------------------
+4x Nana Buruku		   8   ANI POT PRE			    Guruhi:4
+4x Anarch Convert	   1   -none-				    Caitiff:ANY
+1x Cybele		   10  ANI DAI OBF PRE SER THA		    Baali:4
+1x Lukas		   8   ANI OBF POT pre ser	archbishop  Nosferatu antitribu:4
+1x Mateusz Gryzbowsky	   8   ANI OBF POT			    Nosferatu antitribu:3
+1x Greensleeves		   7   ANI OBF for pot		priscus	    Nosferatu antitribu:4
+1x Teresita, The Godmother 7   ANI OBF POT for			    Nosferatu antitribu:3
+1x Janey Pickman	   6   ANI PRO for			    Gangrel antitribu:4
+1x Stick		   3   ANI				    Nosferatu antitribu:4
+
+Library (90 cards)
+Master (34; 4 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+8x Anarch Revolt
+4x Ashur Tablets
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Haven Uncovered
+1x KRCG News Radio
+1x Minion Tap
+1x Nosferatu Kingdom
+1x Parthenon, The
+2x Perfectionist
+1x Powerbase: Montreal
+1x Seattle Committee
+1x Secure Haven
+1x Shanty Town Hunting Ground
+1x Twilight Camp
+3x Vessel
+1x Wider View
+1x WMRH Talk Radio
+
+Action (8)
+2x Ambush
+2x Bum's Rush
+1x Deep Song
+3x Harass
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+1x .44 Magnum
+1x Stolen Police Cruiser
+
+Reaction (6)
+2x Forced Awakening
+1x On the Qui Vive
+3x Sense the Savage Way
+
+Combat (39)
+11x Aid from Bats
+3x Canine Horde
+8x Carrion Crows
+2x Flesh Bond
+2x Groundfighting
+1x Song in the Dark
+6x Target Vitals
+5x Taste of Vitae
+1x Terror Frenzy

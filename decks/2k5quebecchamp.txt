@@ -1,0 +1,79 @@
+Québec NC 2005
+Gatineau, Quebec
+October 29th 2005
+3R+F
+18 players
+Michel-Étienne Fortin
+
+Deck Name: It's the end of the world as we know it, and I feel fine.
+
+Description: A very fun and challenging deck to play. Expect to have
+the whole table turn against you once you've dropped down a couple
+Gehenna cards. Wins by painfully slow attrition. In the mid-game,
+you should have gotten rid of all your vampires (eat them with Gregory,
+or diablerize them yourself), so the nastiest events won't affect you.
+Then you can play Dragonbound for the oust (initial bleeds by your
+weenies, and then later Mylan and Gregory will help as well).
+
+Crypt (12 cards, min=4, max=4, avg=1)
+-------------------------------------
+1x Angela Decker	1   pre		Pander:2
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Eddie Gaines		1   dem pot	Caitiff:3
+1x Feo Ramos		1   aus		Pander:3
+1x Franciscus		1   aus		Caitiff:2
+1x Huang, Blood Cultist	1   pro		Pander:2
+1x Julius		1   qui ser	Caitiff:2
+1x March Halcyon	1   for		Pander:2
+1x Nedal, The Careless	1   cel nec	Caitiff:3
+1x Olga Triminov	1   vic		Pander:3
+1x Royce		1   dom		Pander:2
+1x Sandra White		1   -none-	Caitiff:3
+
+Library (64 cards)
+Master (35)
+1x Barrens, The
+3x Brothers Grimm
+1x Dreams of the Sphinx
+1x Fortschritt Library
+3x Jake Washington
+1x KRCG News Radio
+2x Left for Dead
+4x Memories of Mortality
+1x Millicent Smith, Puritan Vampire Hunter
+4x Parthenon, The
+1x Retribution
+1x Society of Leopold
+1x Storage Annex
+3x Vampiric Disease
+7x Visit from the Capuchin
+1x WMRH Talk Radio
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (13)
+1x Akhenaten, The Sun Pharaoh
+1x Alia, God's Messenger
+1x Carlton Van Wyk
+2x Gregory Winter
+2x Mylan Horseed
+2x Ossian
+2x Vagabond Mystic
+2x Wendell Delburton
+
+Event (15)
+1x Anthelios, The Red Star
+1x Blood Weakens
+1x Dragonbound
+1x Fall of the Camarilla
+1x FBI Special Affairs Division
+1x New Inquisition, The
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Thirst
+1x Torpid Blood
+2x Unmasking, The
+1x Veil of Darkness
+1x Wormwood

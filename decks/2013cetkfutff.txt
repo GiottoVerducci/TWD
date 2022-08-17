@@ -1,0 +1,47 @@
+¿Cuál es tu Kung fu? Unleash the fists' fury
+Vitoria, Spain
+February 2nd 2013
+3R+F
+11 players
+Juan Galarreta
+
+Deck Name: Shattering Voters
+Created by: Jaime Manzanares
+
+Crypt (12 cards, min=28, max=36, avg=8.17)
+------------------------------------------
+3x Dmitra Ilyanova  9	CEL FOR POT PRE obf	justicar  Brujah:5
+3x Undele	    9	CEL FOR obf pre ser	magaji	  Ishtarri:5
+3x Scout Youngwood  8	MEL OBF PRE for qui	2 votes	  Daughter of Cacophony:6
+1x Graham Gottesman 7	DOM FOR obf pre tha	prince	  Ventrue:5
+1x Karen Suadela    7	CEL POT obf pre		prince	  Brujah:5
+1x Arishat	    6	DAI OBF PRE		1 vote	  Baali:6
+
+Library (60 cards)
+Master (17; 6 trifle)
+2x Dreams of the Sphinx
+1x Golconda: Inner Peace
+1x Information Highway
+1x Legendary Vampire
+1x Monastery of Shadows
+6x Villein
+5x Zillah's Valley
+
+Action (6)
+6x Shattering Crescendo
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+5x Kine Resources Contested
+5x Parity Shift
+
+Action Modifier (19)
+4x Forgotten Labyrinth
+4x Freak Drive
+4x Into Thin Air
+3x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Combat (6)
+6x Force of Personality

@@ -1,0 +1,62 @@
+Black n° 1
+São Paulo, Brazil
+January 13th 2013
+3R+F
+17 players
+Pedro Coelho
+
+Deck Name: Nadima Wall
+
+Crypt (13 cards, min=13, max=32, avg=5.62)
+------------------------------------------
+4x Nadima		8   FOR PRO SER ani aus	 	 Gangrel:3
+2x Horrock		6   ANI PRO vic		 	 Gangrel:3
+2x Mirembe Kabbada	5   PRO SER ani		 	 Gangrel:2
+1x Caitlin		6   ANI PRO aus dom	 bishop	 Gangrel antitribu:2
+1x Dr. Allan Woodstock	5   PRO ani aus for	 	 Gangrel:3
+1x Ramona (ADV)		4   for pro		 	 Gangrel:2
+1x Chandler Hungerford	3   PRO			 	 Gangrel:2
+1x Huang, Blood Cultist	1   pro			 	 Pander:2
+
+Library (90 cards)
+Master (18; 2 trifle)
+2x Antediluvian Awakening
+4x Blood Doll
+2x Ecoterrorists
+1x Momentum's Edge
+1x Powerbase: Montreal
+1x Rack, The
+3x Smiling Jack, The Anarch
+2x Villein
+2x Zoo Hunting Ground
+
+Action (14)
+1x Aranthebes, The Immortal
+3x Army of Rats
+1x Dual Form
+6x Enticement
+2x Form of Corruption
+1x Gather
+
+Equipment (2)
+2x Palatial Estate
+
+Retainer (6)
+1x Mr. Winthrop
+5x Raven Spy
+
+Action Modifier (6)
+6x Earth Control
+
+Reaction (18)
+4x Cats' Guidance
+4x Extortion
+10x Forced Awakening
+
+Combat (25)
+12x Earth Meld
+6x Flesh of Marble
+7x Form of Mist
+
+Event (1)
+1x Uncoiling, The

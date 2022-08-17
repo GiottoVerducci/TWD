@@ -1,0 +1,72 @@
+French NCQ Eure et Loir
+Bailleau le Pin, France
+March 16th 2013
+3R+F
+26 players
+Pascal Bertrand
+
+Deck Name: Tribute to Denis "Richter" who ousted me with a similar deck.
+
+Finished during the evening before the event, at 2AM.
+I realized it was missing some key cards during the rounds.
+
+Crypt comments: With no crypt acceleration, Murat is
+likely to be the best vampire of the crypt. That Tusk
+could become a Murat.
+
+There is no crypt accelerator. Well, there should probably, but not as master cards
+
+That's where the crypt acceleration should be. Some Fourth trads could only help. ShreckNET is also sort of mandatory here...
+
+Perhaps one or two Freak Drives?
+
+A couple of extra Parity Shifts and some better votes would simply make the deck better. Neonate Breach, Banishment,
+
+Crypt (12 cards, min=17, max=34, avg=6.58)
+------------------------------------------
+2x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Tusk, The Talebearer		6   OBF ani pot		 	   Nosferatu:1
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+1x Agrippina			4   OBF pot		 	   Nosferatu:1
+1x Dimple			2   obf			 	   Nosferatu:1
+
+Library (84 cards)
+Master (9; 1 trifle)
+1x Archon Investigation
+2x Blood Doll
+1x Coven, The
+1x Labyrinth, The
+1x Pentex(TM) Subversion
+1x Secret Library of Alexandria, The -- Its cycling power is beyond imagination.
+1x Slum Hunting Ground
+1x Warsaw Station
+
+Action (11)
+2x Fifth Tradition: Hospitality
+9x Third Tradition: Progeny
+
+Political Action (21)
+7x Consanguineous Boon
+3x Conservative Agitation
+2x Domain Challenge
+8x Kine Resources Contested
+1x Parity Shift
+
+Action Modifier (21)
+6x Cloak the Gathering
+2x Elder Impersonation
+3x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+1x Old Friends
+3x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (19)
+9x Mental Maze
+10x Second Tradition: Domain

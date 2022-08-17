@@ -1,0 +1,94 @@
+Origins Thursday 10am
+Columbus, Ohio
+June 30th 2005
+2R+F
+24 players
+Ben Peal
+
+Deck Name: EconoGhoul
+
+BEN'S DECK NOTES:
+I'd been thinking about building a War Ghoul deck for a while, but
+acquiring the 10 of them that one needs for the usual 60-card version
+looked to be a pain in the neck. So, I thought about applying the
+tech developed with the Pochtli Twister deck, building a version that
+was 30 or so cards, with half the War Ghouls, and padding out the deck
+with burn option cards. This would save me from having to get more
+War Ghouls, and I figured that it'd be extremely rare that an ally
+rush decks would bring out 6 or more such allies anyway. When Mata
+Hari was printed, I decided to build the deck, as she could take easy
+advantage of Waste Management Operation and I liked the superior
+Obfuscate. Josh Feuerstein then clued me into the fact that the
+burn option cards could be D'habi Revenants, as they can be discarded
+via burn option, and Mata Hari could employ them for use in creating
+War Ghouls (though not for the bleed bonus). I ran with the idea
+and included a variety of other burn option cards, such as Riddle
+Phantastique and Chanjelin Ward. The deck proved to be highly
+effective, the only worry being that Mata Hari might get immediately
+rushed via Red List when she comes out, before a Secure Haven or
+Chanjelin Ward could be put on her. As such I recommend dropping
+a couple Obfuscate stealth cards and including a couple copies of
+Mirror Image. Another discovery was how solid it was to bring back
+Jake Washington via the Waste Management Operation, as it allows
+you to stop one rushing minion cold every turn. Props to Josh
+Feuerstein for the D'habi Revenant idea, and to Ruben Vidana Ramos
+and Stephane Lavrut whose War Ghoul decks I used as references
+(and to Lasombra Jeff for the TWD Archive!).
+
+Crypt (12 cards, min=8, max=28, avg=4.75)
+-----------------------------------------
+6x Mata Hari	    7	CHI OBF aus for qui	2 votes	 Ravnos:4
+1x Ana Rita Montaña 5	VIC aus dom obf			 Tzimisce:3
+1x Denette Stensen  2	obf				 Gangrel antitribu:4
+1x Hanna Redmonds   2	obf tha				 Caitiff:3
+1x Krid		    2	obf				 Nosferatu:3
+1x Piotr Andreikov  2	aus				 Tzimisce:3
+1x Zip		    2	ani				 Ravnos:3
+
+Library (62 cards)
+Master (20)
+2x Blood Doll
+1x Brothers Grimm
+4x Chanjelin Ward
+1x Creepshow Casino
+1x Direct Intervention
+1x Fame
+1x Fortune Teller Shop
+1x Information Highway
+2x Jake Washington
+1x KRCG News Radio
+1x Mob Connections
+1x Secure Haven
+1x Slaughterhouse, The
+1x Tabriz Assembly
+1x Waste Management Operation
+
+Action (4)
+4x Riddle Phantastique
+
+Ally (5)
+5x War Ghoul
+
+Retainer (20)
+17x D'habi Revenant
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Action Modifier (9)
+2x Cloak the Gathering
+1x Elder Impersonation
+1x Forgotten Labyrinth
+2x Grandest Trick, The
+2x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Combat (1)
+1x Trap
+
+Event (2)
+1x Dragonbound
+1x Unmasking, The

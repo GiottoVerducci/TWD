@@ -1,0 +1,73 @@
+Silesia by Night
+Katowice, Poland
+February 29th 2020
+3R+F
+16 players
+Bartosz Daciuk
+https://www.vekn.net/event-calendar/event/9559
+
+-- 1GW5 + 4VP in final
+
+Deck Name: Dziewczyny z ukrycia i cienia
+
+Crypt (16 cards, min=19, max=44, avg=8.75)
+------------------------------------------
+5x Cybele		 10  ANI DAI OBF PRE SER THA			Baali:4
+4x Aksinya Daclau	 9   ANI FOR PRE PRO cel tha			Gangrel antitribu:4
+2x Josef von Bauren	 11  ANI DEM OBF POT cel	inner circle	Nosferatu:4
+2x Anarch Convert	 1   -none-					Caitiff:ANY
+1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+1x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+1x Nana Buruku		 8   ANI POT PRE				Guruhi:4
+
+Library (90 cards)
+Master (60; 7 trifle)
+1x Anarch Troublemaker
+2x Antediluvian Awakening
+18x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+2x Golconda: Inner Peace
+2x Information Highway
+8x Liquidation
+1x Metro Underground
+1x Minion Tap
+1x Misdirection
+2x Monastery of Shadows
+2x Parthenon, The
+3x Secure Haven
+4x Villein
+1x Visit from the Capuchin
+2x Wider View
+4x Zillah's Valley
+
+Action (6)
+1x Contagion
+2x Entrancement
+3x Unleash Hell's Fury
+
+Action Modifier (19)
+2x Aire of Elation
+2x Elder Impersonation
+2x Enkil Cog
+2x Faceless Night
+2x I am Legion
+3x Into Thin Air
+3x Lost in Crowds
+2x Psychomachia
+1x Spying Mission
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (1)
+1x Lost in Translation
+
+Combat (2)
+2x Majesty
+
+Event (1)
+1x Scourge of the Enochians

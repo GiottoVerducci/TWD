@@ -1,0 +1,53 @@
+EC 2014 - First Chance Qualifier
+Mannheim, Germany
+October 5th 2014
+3R+F
+90 players
+Fabien Garcia
+https://www.vekn.net/event-calendar/event/7827
+
+Created by: Pierre-Denis Brouillet (PII)
+
+-- 2GW7.5 + 4VP in final
+
+Crypt (13 cards, min=36, max=44, avg=10.38)
+-------------------------------------------
+3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot	inner circle	Malkavian:4
+3x Maris Streck		 9   AUS OBF ani dem dom	justicar	Malkavian:3
+2x Mistress Fanchon	 11  AUS CEL DOM OBF THA VIC	inner circle	Tremere:4
+2x Rafael de Corazon	 11  AUS CEL DOM OBF PRE	inner circle	Toreador:4
+1x Adana de Sforza	 11  CEL OBF POT PRE PRO aus	inner circle	Brujah:4
+1x Josef von Bauren	 11  ANI DEM OBF POT cel	inner circle	Nosferatu:4
+1x Baron Dieudonne	 9   ANI OBF POT PRO		prince		Nosferatu:4
+
+Library (60 cards)
+Master (18; 6 trifle)
+3x Dreams of the Sphinx
+1x Information Highway
+1x Monastery of Shadows
+6x Villein
+7x Zillah's Valley
+
+Equipment (1)
+1x Helicopter
+
+Political Action (15)
+2x Alastor
+2x Anarchist Uprising
+2x Ancilla Empowerment
+2x Banishment
+6x Parity Shift
+1x Reins of Power
+
+Action Modifier (17)
+5x Elder Impersonation
+1x Enkil Cog
+5x Forgotten Labyrinth
+5x Lost in Crowds
+1x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (7)
+7x Mental Maze

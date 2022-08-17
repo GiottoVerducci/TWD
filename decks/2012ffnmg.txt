@@ -1,0 +1,81 @@
+Friday Final Nights - On the Road to Budapest
+Mainz, Germany
+May 11th 2012
+2R+F
+10 players
+Robert Fängler
+
+-- 3VP in final
+
+Crypt (12 cards, min=5, max=18, avg=3.08)
+-----------------------------------------
+3x Afifa, The Herald		 1   dom	  Caitiff:4
+2x Jennie "Cassie247" Orne	 5   inn jud viz  Visionary:4
+1x Jack "Hannibal137" Harmon	 4   def jud	  Defender:4
+1x Jennifer "Flame61" Vidisania	 4   ven viz	  Avenger:4
+1x Leaf "Potter116" Pankowski	 4   inn red viz  Redeemer:4
+1x Paul "Sixofswords29" Moreton	 4   def vis	  Visionary:4
+1x Béatrice "Oracle171" Tremblay 3   inn ven	  Innocent:4
+1x François "Warden" Loehr	 3   def jud	  Judge:4
+1x Liz "Ticket312" Thornton	 2   inn red	  Innocent:4
+
+Library (81 cards)
+Master (10)
+3x Angel of Berlin
+1x Archon Investigation
+1x Church of Vindicated Faith, The
+1x Elder Library
+1x Pentex(TM) Subversion
+3x Sudden Reversal
+
+Conviction (18)
+5x React with Conviction
+5x Second Sight
+8x Strike with Conviction
+
+Action (2)
+2x Bond
+
+Ally (4)
+1x Gregory Winter
+1x Mylan Horseed
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (4)
+1x Crusader Sword, The
+1x Gas-Powered Chainsaw
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Power (8)
+2x Champion
+2x Discern
+2x Rejuvenate
+2x Vigilance
+
+Retainer (2)
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Reaction (10)
+2x Deflection
+6x Determine
+2x On the Qui Vive
+
+Combat (10)
+2x Dodge
+2x Glancing Blow
+6x Weighted Walking Stick
+
+Event (13)
+1x Becoming of Ennoia
+1x Blood Trade
+1x Blood Weakens
+1x New Inquisition, The
+1x Restricted Vitae
+1x Rising, The
+1x Slow Withering, The
+1x Unmasking, The
+1x Veil of Darkness
+4x Wormwood

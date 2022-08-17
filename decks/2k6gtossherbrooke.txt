@@ -1,0 +1,54 @@
+Grand Temple of Set
+Sherbrooke, Quebec
+October 7th 2006
+13 players
+Martin Tremblay
+
+Deck Name: Top Dog
+
+Crypt (24 cards, min=4, max=14, avg=1.58)
+-----------------------------------------
+18x Tupdog	 1    POT VIS	   Gargoyle:3
+2x  Ember Wright 3    aus dom	   Tremere antitribu:3
+1x  Janine	 4    aus dom tha  Tremere antitribu:4
+1x  Mosfair	 4    cel dom tha  Tremere antitribu:4
+1x  Keith Moody	 3    DOM	   Tremere antitribu:4
+1x  Saiz	 3    aus dom	   Tremere antitribu:3
+
+Library (90 cards)
+Master (13)
+4x Blood Doll
+1x Direct Intervention
+2x Effective Management
+2x Fame
+1x Heidelberg Castle, Germany
+2x Information Highway
+1x Secure Haven
+
+Action (8)
+1x Aranthebes, The Immortal
+7x Graverobbing
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Hand of Conrad
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (8)
+8x Conditioning
+
+Combat (57)
+6x Crawling Chamber
+13x Immortal Grapple
+2x Pounce
+13x Raking Talons
+4x Rockheart
+3x Roll
+4x Stonestrength
+2x Swoop
+10x Torn Signpost

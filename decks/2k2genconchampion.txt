@@ -1,0 +1,59 @@
+NAC 2002 Day 2
+GenCon, Milwaukee, Wisconsin
+August 11th 2002
+57 players
+Jared Strait
+
+Needs a small amount of adjustment, but in general played well for
+being constructed at 1am the morning of the finals.
+
+Jared
+
+Crypt (12 cards, min=17, max=28, avg=5.58)
+------------------------------------------
+2x Nikolaus Vermeulen		7   POT ani for obf	prince	 Nosferatu:2 -- Never drew him in any round
+2x Rake				6   PRE aus cel pot	prince	 Brujah:1
+2x Calebros, The Martyr		5   ANI obf pot		prince	 Nosferatu:2
+2x Volker, The Puppet Prince	5   CEL pot		prince	 Brujah:2
+1x Kendrick			7   ANI POT aus obf	priscus	 Nosferatu antitribu:2
+1x Murat			7   OBF POT ser		prince	 Nosferatu:2
+1x Sammy			4   ani obf pot			 Nosferatu:1
+1x Raziya Samater		3   ani pot			 Brujah:2
+
+Library (74 cards)
+Master (17)
+3x Blood Doll
+1x Creepshow Casino
+2x Direct Intervention -- Never used in any round
+2x Dreams of the Sphinx
+1x Information Highway
+1x Labyrinth, The
+4x Major Boon
+2x Potence
+1x Rumor Mill, Tabloid Newspaper, The
+
+Action (12)
+2x Army of Rats
+2x Fifth Tradition: Hospitality
+6x Fourth Tradition: The Accounting
+2x Third Tradition: Progeny
+
+Political Action (14)
+2x Domain Challenge
+2x Kindred Restructure
+7x Kine Resources Contested
+3x Parity Shift
+
+Action Modifier (9)
+2x Elder Impersonation
+4x Forgotten Labyrinth
+2x Lost in Crowds
+1x Marked Path
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (12)
+4x Carrion Crows
+4x Pushing the Limit
+4x Sacrament of Carnage

@@ -1,0 +1,70 @@
+Portsmouth July 1998
+Portsmouth, England
+June 27th 1998
+13 players
+Barney Baker
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vunmlf8slmQ/m/DMX7NvyeMZAJ
+
+So Barney is champion of Portsmouth, and here is his winning deck:
+
+Crypt (12 cards, min=11, max=37, avg=5.75)
+------------------------------------------
+2x Angelica, The Canonicus	 10  DOM OBT POT cel obf  cardinal	Lasombra:2
+2x Ignacio, The Black Priest	 4   dom obt pot	  		Lasombra:2
+1x Antonio Delgado		 9   DOM OBT POT tha	  archbishop	Lasombra:2
+1x Gratiano			 8   DOM OBT obf pot	  priscus	Lasombra:2
+1x Aurora Van Brande, Paladin	 6   OBT dom for pot	  		Lasombra:2
+1x Lisette Vizquel		 6   DOM POT pro	  bishop	Lasombra:2
+1x Guido Lucciano		 5   OBT dom obf	  		Lasombra:2
+1x Cameron			 3   dom pot		  		Lasombra:2
+1x Aaron Duggan, Cameron's Toady 2   obt		  		Lasombra:2
+1x Mitchell, The Headhunter	 2   obt pot		  		Pander:2
+
+Library (90 cards)
+Master (17)
+3x Blood Doll
+1x Direct Intervention
+2x Dominate
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Golconda: Inner Peace
+1x Minion Tap
+1x Obtenebration
+1x Political Hunting Ground
+2x Potence
+1x Rumor Mill, Tabloid Newspaper, The
+1x Sudden Reversal
+1x Tomb of Rameses III
+
+Action (9)
+1x Bum's Rush
+4x Govern the Unaligned
+1x Graverobbing
+1x Mind Rape
+1x Return to Innocence, The
+1x Scouting Mission
+
+Retainer (1)
+1x Camarilla Vitae Slave
+
+Action Modifier (16)
+5x Bonding
+3x Conditioning
+5x Shadow Play
+3x Shroud of Night
+
+Reaction (22)
+6x Deflection
+1x Elder Intervention
+6x Eyes of the Night
+1x Pack Tactics
+8x Wake with Evening's Freshness
+
+Combat (25)
+4x Arms of the Abyss
+4x Pulled Fangs
+5x Pushing the Limit
+4x Sacrament of Carnage
+2x Taste of Vitae
+3x Thoughts Betrayed
+3x Torn Signpost

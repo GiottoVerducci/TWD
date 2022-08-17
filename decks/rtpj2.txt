@@ -1,0 +1,78 @@
+Tournament
+Portsmouth, England
+July 2nd 2000
+Rob Treasure
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xg7Q_kWT4l4
+
+Deck Name: Hostile - Parity sleaze
+
+Crypt (12 cards, min=12, max=41, avg=6.83)
+------------------------------------------
+2x Queen Anne			   10  DOM FOR PRE aus obf	prince		Ventrue:2
+1x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x François Villon		   10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Suhailah			   9   FOR OBF pot ser		prince		Ventrue:2
+1x Emerson Bridges		   8   DOM FOR PRE pot		prince		Ventrue:1
+1x Sir Walter Nash		   7   DOM FOR PRE		prince		Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
+1x Courtland Leighton		   4   dom for pre				Ventrue:1
+1x Lena Rowe			   3   aus obf pre				Pander:2
+1x Roland Loussarian		   3   for pre					Ventrue:1
+1x Rufina Soledad		   2   for					Ventrue:1
+
+Library (90 cards)
+Master (23)
+1x Anarch Troublemaker
+1x Direct Intervention
+1x Dreams of the Sphinx
+2x Elysium: The Arboretum
+1x Giant's Blood
+5x Hostile Takeover
+2x Information Highway
+4x Minion Tap
+2x Obfuscate
+1x Rumor Mill, Tabloid Newspaper, The
+1x Secure Haven
+1x Sudden Reversal
+1x Ventrue Headquarters
+
+Action (8)
+3x Fifth Tradition: Hospitality
+2x Govern the Unaligned
+2x Legal Manipulations
+1x Revelations
+
+Equipment (1)
+1x Changeling Skin Mask
+
+Political Action (12)
+1x Ancilla Empowerment
+1x Banishment
+1x Dramatic Upheaval
+4x Parity Shift
+3x Rumors of Gehenna
+2x Ventrue Justicar
+
+Action Modifier (16)
+2x Bewitching Oration
+2x Cloak the Gathering
+2x Conditioning
+1x Daring the Dawn
+1x Foreshadowing Destruction
+4x Forgotten Labyrinth
+2x Freak Drive
+2x Lost in Crowds
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (13)
+5x Deflection
+5x Second Tradition: Domain
+3x Wake with Evening's Freshness
+
+Combat (15)
+8x Majesty
+2x Skin of Steel
+3x Superior Mettle
+2x Unflinching Persistence

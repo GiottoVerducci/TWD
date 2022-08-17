@@ -1,0 +1,54 @@
+Swiss ECQ
+Geneva, Switzerland
+July 30th 2005
+21 players
+Andreas Nusser
+
+Deck Name: We are watching you
+
+Crypt (12 cards, min=16, max=29, avg=5.67)
+------------------------------------------
+3x Matthias	  7   AUS FOR OBE nec	Salubri:2
+3x Blanche Hill	  6   FOR OBE aus	Salubri:2
+2x Miriam Benyona 5   AUS for obe	Salubri:2
+2x Lázár Dobrescu 3   for		Ravnos:2
+1x Ian Forestal	  8   AUS DOM THA	Tremere antitribu:2
+1x Billy	  5   AUS dom for	Ventrue antitribu:2
+
+Library (90 cards)
+Master (18)
+5x Blood Doll
+1x Erciyes Fragments, The
+4x Fortitude
+2x Heidelberg Castle, Germany
+3x Millicent Smith, Puritan Vampire Hunter
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Sight Beyond Sight
+
+Action (11)
+2x Renewed Vigor
+9x Spirit Marionette
+
+Equipment (3)
+1x Bowl of Convergence
+2x Sniper Rifle
+
+Action Modifier (15)
+6x Daring the Dawn
+5x Freak Drive
+1x Kiss of Ra, The
+3x Repulsion
+
+Reaction (23)
+4x Eagle's Sight
+4x Enhanced Senses
+1x Forced Awakening
+2x Precognition
+5x Telepathic Misdirection
+7x Wake with Evening's Freshness
+
+Combat (20)
+7x Anesthetic Touch
+6x Rolling with the Punches
+7x Vitae Block

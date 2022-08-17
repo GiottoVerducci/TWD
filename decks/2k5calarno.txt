@@ -1,0 +1,56 @@
+Daring the Dawn
+Ludoteca, Ca l'Arno, Spain
+April 30th 2005
+17 players
+Xavi Bagan
+
+Deck Name: titania te quiere (gehena version)
+
+Crypt (12 cards, min=12, max=32, avg=6)
+---------------------------------------
+3x Sébastien Goulet	  8   DOM OBF cel pre pro  	   Gangrel antitribu:3
+2x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro  	   Gangrel antitribu:3
+2x Soldat		  7   POT PRO cel dom obf  	   Gangrel antitribu:3
+2x Max Lowell		  3   cel obf		   	   Gangrel antitribu:2
+1x Caitlin		  6   ANI PRO aus dom	   bishop  Gangrel antitribu:2
+1x Wren			  4   cel obf pro	   	   Gangrel antitribu:2
+1x Sadie		  2   pro		   	   Gangrel antitribu:2
+
+Library (75 cards)
+Master (13)
+1x Anarch Troublemaker
+4x Blood Doll
+1x Charisma
+3x Direct Intervention
+2x Dreams of the Sphinx
+1x Pentex(TM) Subversion
+1x Twisted Forest
+
+Action (8)
+8x Govern the Unaligned
+
+Ally (11)
+1x Mylan Horseed
+9x Shadow Court Satyr
+1x Vagabond Mystic
+
+Action Modifier (17)
+2x Cloak the Gathering
+4x Conditioning
+2x Earth Control
+3x Elder Impersonation
+2x Faceless Night
+4x Lost in Crowds
+
+Reaction (12)
+5x Deflection
+2x Redirection
+5x Wake with Evening's Freshness
+
+Combat (13)
+2x Claws of the Dead
+8x Earth Meld
+3x Flesh of Marble
+
+Event (1)
+1x Unmasking, The

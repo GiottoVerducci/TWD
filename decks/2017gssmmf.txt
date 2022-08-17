@@ -1,0 +1,91 @@
+1st Great Symposium; St. Michel
+Mikkeli, Finland
+July 8th 2017
+2R+F
+12 players
+Petrus Makkonen
+https://www.vekn.net/event-calendar/event/8687
+
+Deck Name: Necrospace
+
+For the best results, alter mustache to all vampires. All of them.
+The most important thing (after mustache) playing this deck is to not die.
+Storage Annex just isn't worth it. Extra hand size isn't an effect, it's just utility, and should be taken as such.
+Charigger is pretty nifty if you're seated next to another Nocturne deck, but that's not often. Could be something else.
+Shroud of Night is good, but should probably be a third piece of Spectral Divination and Shroud of Absence - that it can't be used in bleeds is pretty devastating after all.
+Even with so much boring dominate, it's actually a lot of fun to play!
+
+Crypt (12 cards, min=13, max=36, avg=6.5)
+-----------------------------------------
+4x Guillaume Giovanni		9   CEL DOM NEC POT obt	 	  Giovanni:4
+2x Pherydima			8   DOM MYT NEC obt pot	 bishop	  Kiasyd:4
+1x Don Michael Antonio Giovanni	7   DOM NEC POT		 2 votes  Giovanni:4
+1x Raphaela Giovanni		6   DOM NEC pot pre	 	  Giovanni:4
+1x Gianmaria Giovanni		5   POT dom nec obt	 	  Giovanni:5
+1x Thomasso Ghiberti		4   NEC pot		 	  Giovanni:4
+1x Almodo Giovanni		3   dom pot		 	  Giovanni:4
+1x Anarch Convert		1   -none-		 	  Caitiff:ANY
+
+Library (80 cards)
+Master (16; 3 trifle)
+1x Carver's Meat Packing and Storage
+1x Charisma
+1x Direct Intervention
+1x Filchware's Pawn Shop
+1x Line, The
+1x Mausoleum, Venice, The
+1x Metro Underground
+1x Morgue Hunting Ground
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Powerbase: Montreal
+1x Storage Annex
+2x Villein
+1x Wall Street Night, Financial Newspaper
+1x WMRH Talk Radio
+
+Action (11)
+1x Dominate Kine
+9x Govern the Unaligned
+1x Graverobbing
+
+Ally (14)
+1x Brigitte Gebauer
+1x Gianna di Canneto
+8x Nocturn
+4x Shambling Hordes
+
+Equipment (1)
+1x Palatial Estate
+
+Retainer (1)
+1x Charigger, The Axe
+
+Action Modifier (12)
+3x Call of the Hungry Dead
+1x Foreshadowing Destruction
+1x Shroud Mastery
+2x Shroud of Absence
+2x Shroud of Night
+2x Threats
+1x Trochomancy
+
+Action Modifier/Reaction (4)
+2x Murmur of the False Will
+2x Spectral Divination
+
+Reaction (11)
+5x Deflection
+1x Delaying Tactics
+4x On the Qui Vive
+1x Redirection
+
+Combat (7)
+1x Boxed In
+1x Fake Out
+4x Target Vitals
+1x Thrown Gate
+
+Event (3)
+1x Dragonbound
+2x Unmasking, The

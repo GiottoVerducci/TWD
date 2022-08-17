@@ -1,0 +1,61 @@
+Mundo Mitagos
+Barakaldo, Spain
+December 29th 2007
+16 players
+Iñaki Jimenez
+
+Deck Name: Marchas Cortas
+Created by: Iñaki Jimenez (Based on a deck by Linus Garriga)
+
+Crypt (12 cards, min=23, max=40, avg=8)
+---------------------------------------
+2x Angus the Unruled	   10  ANI PRO cel for pot	justicar  Gangrel:1
+2x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro	justicar  Brujah:1
+2x Ingrid Rossler	   9   ANI FOR PRO dom		prince	  Gangrel:2
+2x Greger Anderssen	   7   AUS OBF dom pro		prince	  Malkavian:2
+1x Marcellus		   8   AUS CEL pro		prince	  Toreador:2
+1x Iliana		   7   DOM FOR PRO tha			  Gangrel:2
+1x Dylan		   6   aus cel dom for pro		  Ventrue antitribu:2
+1x Chandler Hungerford	   3   PRO				  Gangrel:2
+
+Library (73 cards)
+Master (14; 1 trifle)
+5x Blood Doll
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Minion Tap
+3x Protean
+1x Temptation of Greater Power
+
+Action (8)
+6x Fourth Tradition: The Accounting
+2x Third Tradition: Progeny
+
+Political Action (16)
+1x Ancient Influence
+2x Banishment
+2x Domain Challenge
+1x First Tradition: The Masquerade
+4x Kine Resources Contested
+4x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (7)
+3x Conditioning
+4x Earth Control
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Reaction (12)
+4x Deflection
+6x Second Tradition: Domain
+2x Wake with Evening's Freshness
+
+Combat (14)
+1x Claws of the Dead
+6x Earth Meld
+5x Form of Mist
+2x Wolf Claws

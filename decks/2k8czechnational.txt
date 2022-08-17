@@ -1,0 +1,63 @@
+Czech NC 2008
+Brno, Czech Republic
+June 7th 2008
+30 players
+Gyula Erdõs
+
+-- 3VP in final
+
+Deck Name: Czech NC 2008 TWD
+
+Crypt (13 cards, min=10, max=27, avg=4.69)
+------------------------------------------
+2x Nikolaus Vermeulen		7   POT ani for obf	prince	Nosferatu:2
+2x Calebros, The Martyr		5   ANI obf pot		prince	Nosferatu:2
+2x Volker, The Puppet Prince	5   CEL pot		prince	Brujah:2
+1x Murat			7   OBF POT ser		prince	Nosferatu:2
+1x Rake				6   PRE aus cel pot	prince	Brujah:1
+1x Hector Sosa			4   POT pre			Brujah:1
+1x Dre, Leader of the Cold Dawn	3   cel pot			Brujah:1
+1x Duck				3   obf pot			Nosferatu:1
+1x KoKo				2   pot				Nosferatu:1
+1x Lupo				2   pot				Brujah:1
+
+Library (90 cards)
+Master (14)
+1x Archon Investigation
+1x Depravity
+1x Dreams of the Sphinx
+2x Fame
+3x Haven Uncovered
+1x Labyrinth, The
+1x Oxford University, England
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Storm Sewers
+1x Warzone Hunting Ground
+
+Action (10)
+2x Blood Hunt
+6x Bum's Rush
+2x Fourth Tradition: The Accounting
+
+Political Action (15)
+2x Anathema
+1x Brujah Justicar
+5x Kine Resources Contested
+1x Nosferatu Justicar
+5x Parity Shift
+1x Praxis Seizure: Rome
+
+Reaction (11)
+11x Second Tradition: Domain
+
+Combat (40)
+4x Disarm
+2x Earthshock
+1x Glancing Blow
+11x Immortal Grapple
+3x Slam
+5x Target Vitals
+6x Taste of Vitae
+1x Thrown Sewer Lid
+7x Torn Signpost

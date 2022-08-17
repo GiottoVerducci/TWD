@@ -1,0 +1,70 @@
+The Rising
+Malmö, Sweden
+February 12th 2011
+2R+F
+10 players
+Christian Nislev
+
+-- 3VP in final
+
+Deck Name: A Twist of Madness
+Created by: Christian Nislev (all credit goes to to Ben Peal and Keith Page of course...)
+
+Description: The classic Henry Taylor-twister deck where Henry ends up
+blocking everything and ousting with Smiling Jack. I felt the deck was
+a bit too passive, so added Clan Impersonation and Madness Network
+which allows for some serious end game bleed punch with Anima
+Gathering and Earth Control stealth. Bleeding at the end of your
+predator's turn gives you the edge and a pool which pays for Jack. 31
+cards is too much, but there's some nifty mechanics that adds
+flexibility to the classic deck.
+
+Crypt (12 cards, min=13, max=24, avg=4.75)
+------------------------------------------
+6x Henry Taylor			   6   POT cel pre pro	Brujah antitribu:3
+1x Idalia, Prophet of Guadalajara  4   AUS dem		Malkavian antitribu:2
+1x Remilliard, Devout Crusader	   4   AUS pre		Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet 4   AUS tha		Tremere antitribu:2
+1x Isabel de Leon		   3   AUS		Toreador:2
+1x Martin Franckel		   3   AUS tha		Tremere:3
+1x Zöe				   3   AUS cel obf	Malkavian:2
+
+Library (60 cards)
+Master (42; 2 trifle)
+1x Direct Intervention
+29x Dirty Contract
+1x Madness Network
+2x Parthenon, The
+1x Pentex(TM) Subversion
+3x Protean
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Vessel
+1x Wash
+1x Waste Management Operation
+
+Action (3)
+1x Abbot
+1x Anima Gathering
+1x Clan Impersonation
+
+Equipment (1)
+1x Sport Bike
+
+Retainer (2)
+1x Homunculus
+1x Mr. Winthrop
+
+Action Modifier (3)
+3x Earth Control
+
+Reaction (4)
+1x On the Qui Vive
+3x Telepathic Misdirection
+
+Combat (4)
+3x Earth Meld
+1x Flesh of Marble
+
+Event (1)
+1x Anthelios, The Red Star

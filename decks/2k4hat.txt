@@ -1,0 +1,66 @@
+Vendetta: The Battle for the Harrisburg Hat
+Glen Burnie, Maryland
+March 27th 2004
+12 players
+Trey Morita
+
+Deck Name: Moncada's Army
+
+Description: Lasombra votey-bleedy stuff. Always get your
+biggest vampire first (yes, that's usually Moncada) and use
+superior Governs to hoist the rest of the crypt up. You can
+get away with having no wakes because of the Creation Rites
+babies who sit around untapped with Dominate and Moncada's
+special ability. The Fortitude masters are for the real
+vampires, not the babies (I don't actually expect to make
+more than 4 babies tops so that's why only 4 Dom masters)
+but they could probably be replaced by Bewitching Orations
+or Voter Captivations or anything else useful. Maybe D.I.
+for those cursed Protect Thine Owns.
+
+Crypt (12 cards, min=32, max=40, avg=9)
+---------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+4x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+2x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+2x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+
+Library (90 cards)
+Master (19)
+4x Blood Doll
+4x Dominate
+2x Dreams of the Sphinx
+1x Elysian Fields
+2x Fortitude
+1x Golconda: Inner Peace
+1x Hungry Coyote, The
+1x Path of Night, The
+1x Political Hunting Ground
+1x Power Structure
+1x Secure Haven
+
+Action (16)
+6x Creation Rites
+10x Govern the Unaligned
+
+Political Action (10)
+1x Ancient Influence
+7x Kine Resources Contested
+1x Meddling of Semsith, The
+1x Political Stranglehold
+
+Action Modifier (23)
+2x Freak Drive
+7x Seduction
+5x Shadow Play
+2x Shroud of Absence
+5x Shroud of Night
+2x Voter Captivation
+
+Reaction (10)
+10x Deflection
+
+Combat (12)
+4x Arms of the Abyss
+4x Skin of Steel
+4x Thrown Gate

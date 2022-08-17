@@ -1,0 +1,58 @@
+Origins Sunday
+Columbus, Ohio
+June 27th 2004
+18 players
+Ben Peal
+
+Deck Name: The Blockinator
+
+Description: Group 1-2 AUS-CEL Toreador Princes with Concealed
+.44's and a big pile of intercept, untap, and Celerity cards.
+All the Princes (save for Volker) have +1 bleed, so there's
+built-in ousting power once you've gotten your prey's vampires
+smushed. The Rack, Art Museum, Hunting Ground, and a wad of
+Blood Dolls provide a solid pool-gaining infrastructure.
+
+Crypt (12 cards, min=17, max=40, avg=7.17)
+------------------------------------------
+3x Anneke			10  AUS CEL PRE dom		justicar  Toreador:1
+2x Marcellus			8   AUS CEL pro			prince	  Toreador:2
+1x François Villon		10  AUS CEL PRE chi obf pot	prince	  Toreador:2
+1x Tatiana Romanov		7   AUS cel pre			prince	  Toreador:1
+1x Kallista, Master Sculptor	6   AUS CEL pre pro			  Toreador:1
+1x Felicia Mostrom		5   AUS CEL pre				  Toreador:1
+1x Volker, The Puppet Prince	5   CEL pot			prince	  Brujah:2
+1x Dorian Strack		4   AUS cel				  Toreador:1
+1x Colin Flynn			3   aus cel				  Toreador:1
+
+Library (89 cards)
+Master (12)
+1x Art Museum
+1x Barrens, The
+6x Blood Doll
+1x Rack, The
+1x Society Hunting Ground
+2x Sudden Reversal
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (1)
+1x Parity Shift
+
+Reaction (44)
+5x Eagle's Sight
+4x Enhanced Senses
+10x Forced Awakening
+5x Precognition
+5x Quicken Sight
+6x Second Tradition: Domain
+3x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (26)
+2x Blur
+6x Concealed Weapon
+6x Pursuit
+6x Side Strike
+6x Sideslip

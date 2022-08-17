@@ -1,0 +1,62 @@
+Rumble
+Montreal, Quebec
+January 6th 2007
+17 players
+Martin Gascon
+
+Deck Name: Foul Magnetism
+
+Crypt (12 cards, min=18, max=40, avg=7.33)
+------------------------------------------
+4x Ysador the Foul  10	ANI DEM FOR OBF POT obt	 cardinal	Nosferatu antitribu:4
+2x Lukas	    8	ANI OBF POT pre ser	 archbishop	Nosferatu antitribu:4
+2x Greensleeves	    7	ANI OBF for pot		 priscus	Nosferatu antitribu:4
+2x Joseph Cambridge 6	POT ani dom obf		 bishop		Nosferatu antitribu:4
+1x Blister	    3	obf pot			 		Nosferatu antitribu:4
+1x Stick	    3	ANI			 		Nosferatu antitribu:4
+
+Library (90 cards)
+Master (15)
+5x Blood Doll
+1x Information Network
+3x Minion Tap
+2x Nosferatu Kingdom
+1x Powerbase: Madrid
+1x Rack, The
+1x Rumor Mill, Tabloid Newspaper, The
+1x Shanty Town Hunting Ground
+
+Action (2)
+2x Eternal Vigilance
+
+Equipment (2)
+1x IR Goggles
+1x Leather Jacket
+
+Political Action (16)
+1x Crusade: Detroit
+14x Kine Resources Contested
+1x Templar
+
+Retainer (5)
+1x J. S. Simmons, Esq.
+1x Owl Companion
+2x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (13)
+6x Animal Magnetism
+7x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (11)
+5x Cats' Guidance
+4x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (22)
+13x Aid from Bats
+2x Canine Horde
+7x Carrion Crows

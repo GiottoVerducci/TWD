@@ -1,0 +1,48 @@
+Crusade: Las Vegas
+Las Vegas, Nevada
+December 15th 2001
+3R+F
+10 players
+Caleb Toombs
+https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vy6Acv8qbWA
+
+Bird Man of Alcatraz
+
+Caleb said his goal is simple. Get 7 Raptors and Eternal Vigilance on Lambach,
+and then grind everything into the dirt. Blood recursion keeps him and Lambach
+alive while Smiling Jack wrecks house. It helped that the final was untimed.
+It lasted 3 hours 15 minutes (yeesh!). Caleb said he would improve the
+deck by adding another Lambach (in place of Anson) and some Eagle Sights.
+
+Crypt (12 cards, min=38, max=40, avg=9.83)
+------------------------------------------
+11x Lambach 10	 ANI AUS DOM VIC pre	cardinal  Tzimisce:2
+1x  Anson   8	 CEL PRE aus dom	prince	  Toreador:1
+
+Library (60 cards)
+Master (20)
+4x Blood Doll
+1x Direct Intervention
+1x Giant's Blood
+4x Guardian Angel
+1x Library Hunting Ground
+2x Rack, The
+3x Smiling Jack, The Anarch
+4x Sudden Reversal
+
+Action (3)
+3x Eternal Vigilance
+
+Equipment (1)
+1x Palatial Estate
+
+Retainer (11)
+11x Raptor
+
+Action Modifier/Combat (3)
+3x Plasmic Form
+
+Reaction (22)
+3x Deflection
+8x Forced Awakening
+11x Obedience

@@ -1,0 +1,50 @@
+French ECQ
+Paris, France
+May 28th 2011
+3R+F
+22 players
+Timothée Daudé
+
+Deck Name: Deck kyasid
+
+Crypt (12 cards, min=18, max=30, avg=6.17)
+------------------------------------------
+2x Pherydima		   8   DOM MYT NEC obt pot  bishop	Kiasyd:4
+2x Omme Enberbenight	   7   MYT OBT cel dom	    priscus	Kiasyd:4
+2x Roderick Phillips March 7   DOM MYT cel obt tha  		Kiasyd:4
+2x Isanwayen		   6   DOM MYT OBT	    		Kiasyd:4
+2x Dame Hollerton	   5   DOM OBT myt	    		Kiasyd:4
+2x Quincy, The Trapper	   4   dom myt obt	    		Kiasyd:3
+
+Library (74 cards)
+Master (12; 1 trifle)
+1x Coven, The
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+2x Pentex(TM) Subversion
+4x Sudden Reversal
+
+Action (21)
+14x Govern the Unaligned
+4x Gremlins
+3x Song of Pan
+
+Action Modifier (24)
+6x Conditioning
+2x Foreshadowing Destruction
+3x Seduction
+3x Shadow Play
+4x Shroud of Absence
+6x Stone Travel
+
+Action Modifier/Combat (6)
+6x Fae Contortion
+
+Action Modifier/Reaction (5)
+3x Aura Absorption
+2x Murmur of the False Will
+
+Reaction (6)
+4x Deflection
+2x On the Qui Vive

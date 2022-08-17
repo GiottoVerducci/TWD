@@ -1,0 +1,109 @@
+Munduko Txapelketa
+Bilbao, Spain
+August 26th 2006
+37 players
+Iñaki Jimenez
+
+Deck Name: Overpowered
+
+Crypt (12 cards, min=27, max=43, avg=8.83)
+------------------------------------------
+1x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+1x Arika	   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Leandro	   11  AUS OBF PRE cel dom	inner circle	Malkavian:2
+1x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+1x Democritus	   10  DOM PRE aus cel for	justicar	Ventrue:1
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+1x Emerson Bridges 8   DOM FOR PRE pot		prince		Ventrue:1
+1x Sir Walter Nash 7   DOM FOR PRE		prince		Ventrue:1
+1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+1x Timothy Crowley 7   FOR PRE ani dom		prince		Ventrue:1
+1x Rake		   6   PRE aus cel pot		prince		Brujah:1
+
+Library (89 cards)
+Master (25)
+1x Anarch Troublemaker
+1x Archon Investigation
+1x Blood Doll
+1x Creepshow Casino
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x From a Sinking Ship
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Island of Yiaros
+1x Metro Underground
+6x Minion Tap
+1x Parthenon, The
+1x Prophecies of Gehenna
+1x Secure Haven
+1x Sudden Reversal
+1x Temptation of Greater Power
+1x Ventrue Headquarters
+
+Action (4)
+1x Embrace, The
+1x Entrancement
+1x Govern the Unaligned
+1x Third Tradition: Progeny
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (5)
+1x Assault Rifle
+1x Flamethrower
+1x Flaming Candle
+1x Ivory Bow
+1x Signet of King Saul, The
+
+Political Action (22)
+2x Alastor
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+1x Consanguineous Condemnation
+1x Conservative Agitation
+1x Domain Challenge
+2x Kine Resources Contested
+1x Meddling of Semsith, The
+6x Parity Shift
+1x Political Stranglehold
+1x Protect Thine Own
+1x Reinforcements
+1x Reins of Power
+
+Action Modifier (14)
+1x Approximation of Loyalty
+1x Awe
+1x Bewitching Oration
+1x Bonding
+1x Change of Target
+1x Conditioning
+1x Daring the Dawn
+1x Freak Drive
+1x Seduction
+5x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Scalpel Tongue
+
+Reaction (10)
+3x Deflection
+1x Delaying Tactics
+1x Forced Awakening
+1x Obedience
+1x Redirection
+1x Second Tradition: Domain
+1x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (6)
+6x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,66 @@
+Grand Prix 2019 Ohio Valley
+Heath, Ohio
+December 14th 2019
+3R+F
+15 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/9431
+
+-- 2GW8 + 4VP in final
+
+Deck Name: Detect Legionnaire Authority
+
+Babalawo Anarch Legionnaire with Crow. Use Detect Authority for general
+protection against rushes, actions to burn Maabara, attempts to steal
+Legionnaires or PB:Los Angeles, and bleeds. Highly reactive deck with swarm
+Legionnaire bleed as its entire ousting mechanism.
+
+The deck is fun to play and defensively sound. Parthenon in concert with
+Maabara is quite powerful (e.g., D.I. every turn). Legionnaires are OP.
+
+I would like to add back one Trochomancy and/or one Monkeywrench. I also
+might experiment with a couple of Gear Ups. Other than that, likely won’t
+do much to change this build.
+
+Crypt (13 cards, min=4, max=29, avg=4.15)
+-----------------------------------------
+5x Anarch Convert	1   -none-		Caitiff:ANY
+4x Babalawo Alafin	7   AUS FOR NEC ani	Harbinger of Skulls:4
+2x Crow			5   ANI for pro tha	Gangrel:5
+1x Mordechai Ben-Nun	8   ANI AUS FOR NEC	Harbinger of Skulls:5
+1x Monica Chang		3   dom tha		Tremere:5
+
+Library (90 cards)
+Master (30; 3 trifle)
+2x Direct Intervention
+12x Liquidation
+3x Maabara
+1x Metro Underground
+5x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Los Angeles
+2x Thaumaturgy
+3x Wider View
+
+Ally (11)
+11x Emerald Legionnaire
+
+Action Modifier (5)
+5x Call of the Hungry Dead
+
+Action Modifier/Combat (4)
+4x Breath of Thanatos
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+Reaction (33)
+5x Delaying Tactics
+15x Detect Authority
+5x Eyes of Argus
+3x On the Qui Vive
+5x Telepathic Misdirection
+
+Event (5)
+2x FBI Special Affairs Division
+3x Unmasking, The

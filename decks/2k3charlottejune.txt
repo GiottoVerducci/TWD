@@ -1,0 +1,84 @@
+Praxis Seizure: Charlotte
+HeroesCon, Charlotte, North Carolina
+June 15th 2003
+18 players
+David Cherryholmes
+
+Deck Name: So Long, and Thanks For all the Fish
+
+Timing is key for this deck. Park the Week under a Storage Annex until
+the time is right. Bleed lightly but consistently during the early and
+midgame. I tend to play recklessly and get out the fourth minion the turn
+before I plan to pop the Week. By then, you ought to have a few +1 bleed
+toys in play, and I have reliably hit one-turn bleeds of 12-16. Gabrin's
+"other white meat" special, Nightmare Curses, and Red Herrings are very
+useful for getting your prey's minions all tapped out just prior to the
+wave of death. There's no hit back to the deck, but most people expect it
+from the Ravnos, so work this early game on tables that don't know your
+deck. You do have thirteen cards of "you can't touch this", though, so
+don't be too afraid of blocking or being rushed (grapple is, of course, a
+bitch).
+
+David Cherryholmes
+VEKN Prince of Durham, NC
+david.cherryholmes@duke.edu
+
+Crypt (12 cards, min=12, max=32, avg=5.67)
+------------------------------------------
+4x Gabrin			8   ANI CHI dom for	Ravnos:2
+1x Natalia			7   ANI chi dom for	Ravnos:2
+1x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
+1x Sarisha Veliku		6   ANI FOR chi dom	Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
+1x Tsigane			3   aus chi		Ravnos:2
+1x Vedel Esbreno		3   chi for		Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+
+Library (82 cards)
+Master (16; 1 trifle)
+1x Blood Doll
+2x Chimerstry
+1x Coven, The
+2x Dominate
+1x Dreams of the Sphinx
+1x Fortune Teller Shop
+1x Park Hunting Ground
+3x Path of Paradox, The
+2x Storage Annex
+2x Week of Nightmares
+
+Action (19)
+1x Army of Rats
+1x Arson
+2x Computer Hacking
+1x Far Mastery
+2x Govern the Unaligned
+2x Nightmare Curse
+2x Scouting Mission
+5x Sensory Deprivation
+2x Spirit Marionette
+1x Tier of Souls
+
+Action/Reaction (5)
+5x Draba
+
+Equipment (2)
+2x Treasured Samadji
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier (22)
+8x Fata Morgana
+6x Freak Drive
+8x Red Herring
+
+Action Modifier/Combat (8)
+8x Mirror Image
+
+Reaction (3)
+3x Deflection
+
+Combat (5)
+5x Illusions of the Kindred

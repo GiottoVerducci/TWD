@@ -1,0 +1,58 @@
+Path of Death and the Soul
+Utrecht, Netherlands
+February 7th 2004
+20 players
+Tobias op den Brouw
+
+Deck Name: Even Samedi Are Better With Dominate
+
+Crypt (12 cards, min=18, max=36, avg=6.67)
+------------------------------------------
+4x Baron, The			 9   FOR NEC OBF THN dom  2 votes  Samedi:2
+2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec  	   Samedi:2
+2x George Frederick		 6   FOR THN nec obf	  	   Samedi:2
+2x Catherine du Bois		 5   DOM for obf pre	  	   Ventrue:3
+1x Isabel Giovanni		 5   DOM NEC pot	  	   Giovanni:2
+1x Rudolfo Giovanni		 3   NEC		  	   Giovanni:2
+
+Library (90 cards)
+Master (18)
+1x Barrens, The
+5x Blood Doll
+1x Charisma
+4x Dominate
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Jake Washington
+1x Secure Haven
+1x Specialization
+
+Action (16)
+5x Computer Hacking
+6x Govern the Unaligned
+5x Restoration
+
+Ally (14)
+14x Shambling Hordes
+
+Equipment (1)
+1x Sargon Fragment, The
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (23)
+5x Cloak the Gathering
+3x Conditioning
+2x Faceless Night
+6x Freak Drive
+3x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (13)
+7x Deflection
+6x Wake with Evening's Freshness

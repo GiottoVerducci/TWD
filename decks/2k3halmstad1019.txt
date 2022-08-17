@@ -1,0 +1,61 @@
+Tournament
+Halmstad, Sweden
+October 19th 2003
+12 players
+Henrik Isaksson
+
+Deck Name: Lazverinus and his little friends
+
+Description: Get Lazverinus out, block and kill everybody, then bleed
+your prey out with the small guys...
+
+Crypt (12 cards, min=6, max=40, avg=5.33)
+-----------------------------------------
+4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
+1x Vanessa			 6   DOM FOR aus pre	  		Ventrue antitribu:2
+1x Ingrid Russo			 4   DOM for		  		Ventrue antitribu:2
+1x Josef			 4   ani obf obt	  		Nosferatu antitribu:2
+1x Peter Blaine			 4   aus dom for	  		Ventrue antitribu:2
+1x Christine Boscacci		 2   dom vic		  		Pander:2
+1x Samson			 2   dom		  		Ventrue antitribu:2
+1x March Halcyon		 1   for		  		Pander:2
+1x Royce			 1   dom		  		Pander:2
+
+Library (90 cards)
+Master (16)
+1x Corporate Hunting Ground
+1x Demonstration
+1x Direct Intervention
+1x Fame
+1x Fear of Mekhet
+1x Giant's Blood
+1x Guardian Angel
+1x KRCG News Radio
+5x Minion Tap
+2x Powerbase: Montreal
+1x Rack, The
+
+Action (14)
+3x Eternal Vigilance
+8x Govern the Unaligned
+3x Nose of the Hound
+
+Action Modifier (7)
+5x Freak Drive
+2x Threats
+
+Reaction (17)
+5x Eagle's Sight
+2x Enhanced Senses
+7x Forced Awakening
+3x Precognition
+
+Combat (36)
+2x Decapitate
+2x Disarm
+8x Immortal Grapple
+2x Pulled Fangs
+3x Pushing the Limit
+6x Taste of Vitae
+2x Torn Signpost
+11x Unflinching Persistence

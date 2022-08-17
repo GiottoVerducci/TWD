@@ -1,0 +1,68 @@
+Last Chance to Paris
+Debrecen, Hungary
+October 23rd 2010
+3R+F
+21 players
+Péter Korsós
+
+Deck Name: Temporatrix
+
+Description: Goratrix+ Pocket out of time = Endless combat
+
+Crypt (12 cards, min=8, max=40, avg=5.08)
+-----------------------------------------
+4x Goratrix			   10  ANI AUS DOM THA vic  Tremere antitribu:2
+1x Gloria Giovanni		   4   DOM nec		    Giovanni:2
+1x Brooke			   3   dom tha		    Tremere antitribu:2
+1x Lia Milliner			   3   dom nec		    Giovanni:3
+1x Saiz				   3   aus dom		    Tremere antitribu:3
+1x Marciana Giovanni, Investigator 2   dom		    Giovanni:2
+1x Mustafa Rahman		   2   dom		    Tremere:2
+1x Ohanna			   2   dom		    Malkavian:2
+1x Samson			   2   dom		    Ventrue antitribu:2
+
+Library (90 cards)
+Master (22; 8 trifle)
+3x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Giant's Blood
+5x Infernal Pact
+2x Pentex(TM) Subversion
+1x Rack, The
+1x University Hunting Ground
+2x Vessel
+4x Villein
+2x Wash
+
+Action (10)
+4x Clotho's Gift
+4x Magic of the Smith
+2x Rutor's Hand
+
+Ally (4)
+2x Nephandus
+2x Tye Cooper
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+2x Talbot's Chainsaw
+
+Action Modifier (21)
+3x Conditioning
+7x Domain of Evernight
+3x Enkil Cog
+8x Pocket Out of Time
+
+Action Modifier/Reaction (4)
+4x Quicksilver Contemplation
+
+Reaction (21)
+9x Deflection
+3x Delaying Tactics
+3x On the Qui Vive
+1x Rewind Time
+5x Sense the Savage Way
+
+Combat (4)
+4x Rego Motum

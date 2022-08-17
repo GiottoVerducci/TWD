@@ -1,0 +1,63 @@
+EC 2013 - Silence of Death
+Stockholm, Sweden
+October 5th 2013
+3R+F
+19 players
+Patrick Benoit
+
+Deck Name: Mozambiqué
+
+I'm not sure that's the shilmulo tarot is usefull. It could be
+replaced by a last stand, but I'm not sure it won't create flow
+problems. The rumors is here to get a better flow and also to
+play something like a pentex subversion before playing Week of
+Nigthmares. Consanguinous condemnation is here to tap some minions
+your prey keeps untapped to block but also and firstly to deflect.
+It could also be defensive by calling it just before a consanguinous
+boon if you know that's someone is keeping an untapped vampire to
+play delaying tactics. And it's also good to call a domain challenge
+just after. If everything is ok, you should be able to put week of
+nightmares in turn 6-7 with nearly 12-16 minions.
+
+Crypt (12 cards, min=8, max=15, avg=2.75)
+-----------------------------------------
+2x Sasha Miklos			2   chi		 Ravnos:2
+2x Spleen, Georgio Gutterpunk	2   ani chi	 Ravnos:2
+2x Zip				2   ani		 Ravnos:3
+1x Anka, Priestess of Thorns	4   ani chi pro	 Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro	 Ravnos:2
+1x Sennuwy, The Promoter	4   ani chi for	 Ravnos:2
+1x Lázár Dobrescu		3   for		 Ravnos:2
+1x Tsigane			3   aus chi	 Ravnos:2
+1x Vedel Esbreno		3   chi for	 Ravnos:2
+
+Library (64 cards)
+Master (14; 1 trifle)
+1x Coven, The
+1x Fortune Teller Shop
+1x Gird Minions
+1x Life Boon
+2x Pentex(TM) Subversion
+6x Ravnos Carnival
+2x Week of Nightmares
+
+Action (29)
+1x Aranthebes, The Immortal
+17x Embrace, The
+11x Mozambique Allure
+
+Equipment (1)
+1x Shilmulo Tarot
+
+Political Action (10)
+1x Autarkis Persecution
+6x Consanguineous Boon
+1x Consanguineous Condemnation
+1x Domain Challenge
+1x Rumors of Gehenna
+
+Action Modifier/Reaction (9)
+9x Eldest Are Kholo, The
+
+Event (1)
+1x Uncoiling, The

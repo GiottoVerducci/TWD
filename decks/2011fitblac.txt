@@ -1,0 +1,76 @@
+Fire in the Blood
+Los Angeles, California
+September 3rd 2011
+2R+F
+18 players
+David Litwin
+
+Deck Name: Dirty Sinks
+
+This was a rehash of an older deck I had dismantled before KOT that I redesigned
+with some newer cards and the hope that it played enough S:CE to survive Deep Song.
+The deck never got to play a S:CE the entire tournament as every time it was in
+combat it lacked one in hand, making me think it either needs 5-6 more or should
+just remove all the No Trace and take your chances.
+
+The crypt could also be tightened more to make the deck more consistent, I'd drop
+everyone under 8 cap and play a few more copies of the Ventrue so I have more valid
+targets for Zillah's Valley as multiple times I had 7 caps left over in my uncontrolled
+region and no way to cycle a Zillah's Valley to burn the 5 pool. It would also
+allow an inclusion of Ventrue Headquarters/Ephor with a significantly higher chance of
+being able to put it into play.
+
+Crypt (12 cards, min=26, max=37, avg=8.08)
+------------------------------------------
+3x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+2x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
+2x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+1x Queen Anne			10  DOM FOR PRE aus obf	 prince	   Ventrue:2
+1x Murat			7   OBF POT ser		 prince	   Nosferatu:2
+1x Calebros, The Martyr		5   ANI obf pot		 prince	   Nosferatu:2
+
+Library (90 cards)
+Master (21; 1 trifle)
+1x Creepshow Casino
+1x Dark Influences
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Labyrinth, The
+2x Legendary Vampire
+1x Monastery of Shadows
+1x Obfuscate
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secret Horde
+1x Warsaw Station
+1x Wash
+6x Zillah's Valley
+
+Action (4)
+1x Army of Rats
+2x Judgment: Camarilla Segregation
+1x SchreckNET
+
+Political Action (26)
+1x Anarchist Uprising
+2x Ancilla Empowerment
+2x Banishment
+1x Disputed Territory
+6x Kine Resources Contested
+2x Neonate Breach
+11x Parity Shift
+1x Reins of Power
+
+Action Modifier (31)
+1x Cryptic Rider
+5x Elder Impersonation
+2x Faceless Night
+6x Forgotten Labyrinth
+8x Freak Drive
+2x Into Thin Air
+5x Lost in Crowds
+2x Old Friends
+
+Combat (8)
+8x No Trace

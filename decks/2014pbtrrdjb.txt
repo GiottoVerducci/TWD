@@ -1,0 +1,43 @@
+Powerbase: Tijuca Returns
+Rio de Janeiro, Brazil
+February 9th 2014
+13 players
+Reginaldo Oliveira
+
+Winning Grinder
+
+Crypt (12 cards, min=4, max=8, avg=1.5)
+---------------------------------------
+1x Cassandra Langely, The Waif	2   dem		Malkavian:4
+1x Jackson Asher		2   dom		Ventrue:4
+1x Justine Chen, Innocent	2   pre		Toreador antitribu:4
+1x Leo Washington		2   cel pro	Gangrel antitribu:4
+1x Old Neddacka			2   obf		Nosferatu antitribu:4
+1x Sean Andrews			2   cel		Toreador:4
+1x Andy				1   for		Caitiff:4
+1x Basir			1   qui		Assamite:4
+1x Dirk				1   pre		Caitiff:4
+1x Freddy Gage			1   pot		Caitiff:5
+1x Iris Bennett			1   pro		Caitiff:5
+1x Schuyler			1   tha		Pander:4
+
+Library (90 cards)
+Master (15; 5 trifle)
+5x Blood Doll
+5x Effective Management
+5x Life in the City
+
+Action (22)
+22x Computer Hacking
+
+Equipment (10)
+10x .44 Magnum
+
+Action Modifier (23)
+10x Leverage
+13x Suppressing Fire
+
+Combat (20)
+9x Backstep
+10x Concealed Weapon
+1x High Ground

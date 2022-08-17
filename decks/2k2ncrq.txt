@@ -1,0 +1,67 @@
+North Central Regional Qualifier
+East Lansing, Michigan
+May 4th 2002
+23 players
+John Bell
+
+Deck Name: Bell's Bruise, Bleed, and Bloat Brujah
+
+Description: I played nearly an identical version of this deck in the
+storyline tournament at Anderson, IN. Major change from that deck was
+I replaced Francois Villion with Anneke, with the idea of being able
+to 2nd Tradition anywhere, she was too appealing to include in this
+
+This deck is more along the "toolbox"-ish build than I usually prefer,
+but it mainly relies on other Methuselahs thinking it is a dedicated
+combat deck. For that reason alone I threw in a solitary Immortal
+Grapple to assure people that I *might* have more in there.
+
+Other than the Deflections, probably the game breaking card in the
+deck is the Judgement: Camarilla Segregation. It never hit the table
+during this tournament, but has proven in the past to be the
+difference for me several times, especially when the table comes down
+to 2 Methuselahs.
+
+John Bell
+Prince of Cincinnati
+
+Crypt (12 cards, min=23, max=38, avg=7.67)
+------------------------------------------
+3x Anneke			10  AUS CEL PRE dom	 justicar  Toreador:1
+2x Constanza Vinti		8   CEL DOM POT		 prince	   Brujah:2
+2x Dónal O'Connor		8   CEL DOM POT		 prince	   Brujah:2
+2x Theo Bell			7   POT cel dom pre	 	   Brujah:2
+2x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
+1x Anvil			6   CEL POT dom pre tha	 primogen  Brujah:1
+
+Library (90 cards)
+Master (17)
+4x Dominate
+3x Haven Uncovered
+7x Minion Tap
+3x Potence
+
+Action (16)
+7x Fifth Tradition: Hospitality
+7x Govern the Unaligned
+2x Judgment: Camarilla Segregation
+
+Political Action (6)
+5x Anathema
+1x Kindred Restructure
+
+Action Modifier (7)
+2x Bonding
+3x Conditioning
+2x Seduction
+
+Reaction (15)
+8x Deflection
+7x Second Tradition: Domain
+
+Combat (29)
+7x Blur
+1x Immortal Grapple
+7x Stutter-Step
+4x Taste of Vitae
+10x Torn Signpost

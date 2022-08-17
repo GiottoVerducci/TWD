@@ -1,0 +1,65 @@
+Behind You!
+Columbus, Ohio
+June 14th 2009
+3R+F
+10 players
+Bob Joseph
+
+Deck Name: shamblers
+
+Crypt (12 cards, min=14, max=26, avg=5)
+---------------------------------------
+3x Andrea Giovanni  7	DOM NEC pot vic	 Giovanni:2
+3x Isabel Giovanni  5	DOM NEC pot	 Giovanni:2
+3x Le Dinh Tho	    5	NEC aus dom	 Nagaraja:2
+3x Rudolfo Giovanni 3	NEC		 Giovanni:2
+
+Library (90 cards)
+Master (16)
+1x Archon Investigation
+1x Barrens, The
+4x Blood Doll
+1x Charisma
+1x Creepshow Casino
+1x Direct Intervention
+1x Morgue Hunting Ground
+2x Path of Bone, The
+2x Perfectionist
+2x Sudden Reversal
+
+Action (8)
+1x Far Mastery
+6x Govern the Unaligned
+1x Graverobbing
+
+Action/Reaction (1)
+1x Consume the Dead
+
+Ally (15)
+1x Carlton Van Wyk
+1x Felix "Fix" Hessian
+1x Gregory Winter
+1x Leonardo, Mortician
+11x Shambling Hordes
+
+Action Modifier (16)
+3x Bonding
+6x Call of the Hungry Dead
+3x Conditioning
+4x Seduction
+
+Action Modifier/Reaction (6)
+6x Spectral Divination
+
+Reaction (16)
+7x Deflection
+2x Delaying Tactics
+7x Wake with Evening's Freshness
+
+Combat (10)
+2x Fake Out
+8x Spiritual Intervention
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

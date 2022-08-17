@@ -1,0 +1,125 @@
+Thanks for the Donation
+Games and Comics...and Stuff, Glen Burnie, Maryland
+April 23rd 2005
+3R+F
+13 players
+Matthew Morgan
+
+Deck Name: Maureen and Heralds
+
+Description: Use Maureen to get Heralds of Topheth at reduced cost.
+Rush, bleed and deflect to victory. I would not have won, but it seems
+everyone else decided to also go for "fun" decks over "good" decks.
+
+This deck is a little at odds with my play style in that I normally
+like to give my prey enough rope to hang himself with. When I get a
+couple Heralds out, I really can't afford to sit around waiting for the
+game to develop to my liking, but I still tend to try to play that way
+anyway. I think I got lucky in that my predators in the first two
+rounds and the final simply weren't able to do a lot to me.
+
+Six copies of Maureen and I didn't draw her in my opening crypt in
+the finals! I played six copies because I only expected to get out two
+vampires due to the high cost of maintaining Heralds. Never got out
+Assad or Black Lotus, but Catherine, Robin and Cristos did an admirable
+job bouncing bleeds and bleeding.
+
+I normally build 90 card decks just because I like to play a lot of
+cards. This one probably could've gone down to 70 without any
+problems. I never came close to decking myself at 78 cards. Obviously,
+I didn't build this one at 90 because I wanted to draw the Heralds reliably.
+
+I went for Legals over Conditionings because the Heralds can play
+them. I don't think I ever had them play these as they were too busy
+rushing. Contagion was key in round 1 for weakening the table to the
+point where I could win with limited bleed power.
+
+No superior obf in the crypt so I got blocked a few times.
+Fortunately, I didn't face any heavy intercept except in round 2 when
+my predator had Jaroslav with a Sport Bike and two intercept locations.
+Lucky for me he couldn't draw enough Wakes to stop me from getting out
+Heralds and also defend against his predator.
+
+Didn't get much use out of Carlton or the Mystic, but they're good
+in theory. The Heralds were great, even against the heavy combat other
+decks were playing. The fact that they regenerate and can always hit
+for 3 (plus play Conflagration!) meant I could wear down the opposition.
+When one died, I'd just have Maureen get another. It's not the initial
+cost that is prohibitive, it's the infernal tax.
+
+Grapples were only important in round 1 when I preyed on a Majesty
+deck. Otherwise, all the decks I faced were pretty dedicated to
+dealing out pain rather than avoiding it. The Conflagrations were very
+good, especially since Maureen can play them too. I might've added Disarms,
+but didn't really need them. Hitting for 3 or 5 per combat is usually
+sufficient.
+
+Saved me in round 1 when my prey called an Ancilla Empowerment. If
+I hadn't won that game, I wouldn't have had my choice of seat in the
+finals. I had considered adding Dragonbound, but decided against it
+because of how defenseless my vampires are in this deck. After the way
+Josh's Dragonbound worked for me in the finals, I might reconsider
+that.
+
+I had luck with Giant's Blood, getting mine first most of the time.
+Jake helped a lot as a free blocker (with Unmasking!). I don't think I ever
+ate him. Fames gave me the table in round 2. Ruins was played
+once, but I didn't get any use out of it. Mob Connections goes well
+with Heralds, but I put a little too much effort into defending it in
+round 3 and lost a Heralds to Lazverinus' mighty strike.
+
+I was expecting heavy stealth bleed, so I jammed 10 Deflections into a 78
+card deck. Instead I found heavy combat and so these weren't actually that
+much use. Still, at the rate this deck hemmorages pool, bouncing bleeds of
+1 is even worthwhile.
+
+Crypt (12 cards, min=19, max=24, avg=5.42)
+------------------------------------------
+6x Maureen, Dark Priestess 6   DAI PRE dom obf	    1 vote  Baali:4
+2x Catherine du Bois	   5   DOM for obf pre	    	    Ventrue:3
+1x Assad Salhoum	   5   aus dem dom obf	    	    Malkavian:4
+1x Black Lotus		   5   DOM aus obf ser	    	    Follower of Set:4
+1x Cristos Mantigo	   5   aus cel dom obf pre  	    Toreador antitribu:3
+1x Robin Withers	   4   dom obf pre	    	    Ventrue:4
+
+Library (78 cards)
+Master (14)
+5x Blood Doll
+1x Charisma
+2x Dreams of the Sphinx
+2x Fame
+1x Giant's Blood
+1x Jake Washington
+1x Mob Connections
+1x Ruins of Charizel
+
+Action (6)
+1x Contagion
+5x Legal Manipulations
+
+Ally (10)
+1x Carlton Van Wyk
+8x Herald of Topheth
+1x Vagabond Mystic
+
+Action Modifier (10)
+2x Cloak the Gathering
+2x Domain of Evernight
+2x Faceless Night
+2x Forgotten Labyrinth
+2x Lost in Crowds
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (16)
+10x Deflection
+6x Wake with Evening's Freshness
+
+Combat (19)
+6x Conflagration
+9x Immortal Grapple
+4x Pounce
+
+Event (1)
+1x Unmasking, The

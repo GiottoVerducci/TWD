@@ -1,0 +1,63 @@
+VamPyra
+Poznań, Poland
+September 21st 2019
+3R+F
+15 players
+Anna Wełpa
+https://www.vekn.net/event-calendar/event/9380
+
+-- 1GW4.5 + 3.5VP in final
+
+Deck Name: Baali Unnamed classic deck
+
+Crypt (12 cards, min=15, max=40, avg=7.08)
+------------------------------------------
+5x unnamed, The		   10  CEL DAI OBF PRE PRO  	    Baali:6
+3x Horde, The		   3   dai obf pre	    	    Baali:6
+2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  	    Baali:6
+2x Arishat		   6   DAI OBF PRE	    1 vote  Baali:6
+
+Library (67 cards)
+Master (12; 4 trifle)
+1x Archon Investigation
+1x Coven, The
+1x Giant's Blood
+1x Pentex(TM) Subversion
+2x Perfectionist
+3x Tend the Flock
+2x Wash
+1x Wider View
+
+Action (11)
+1x Contagion
+2x Entrancement
+6x Legal Manipulations
+2x Unleash Hell's Fury
+
+Ally (4)
+3x Infernal Servitor
+1x Veneficti
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (26)
+4x Elder Impersonation
+3x Enkil Cog
+2x Faceless Night
+4x I am Legion
+6x Instantaneous Transformation
+5x Lost in Crowds
+2x Psychomachia
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+5x Sense the Sin
+
+Combat (4)
+4x Majesty
+
+Event (1)
+1x Narrow Minds

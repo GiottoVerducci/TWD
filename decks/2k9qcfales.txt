@@ -1,0 +1,50 @@
+French NCQ
+Alès, France
+September 12th 2009
+2R+F
+10 players
+Yannick Gibert
+
+Deck Name: Germaine is back. And he's angry.
+
+Crypt (12 cards, min=20, max=32, avg=7)
+---------------------------------------
+4x Count Germaine	    8	CEL FOR POT PRE obf	 	   Brujah:4
+1x Count Germaine (ADV)	    8	CEL FOR POT PRE obf	 	   Brujah:4
+3x Hrothulf		    8	CEL FOR PRE dom pot pro	 	   Ventrue:3
+2x Lorrie Dunsirn	    4	POT for nec		 	   Abomination:4
+1x Benedict Giovanni, Agent 6	FOR POT cel dom nec	 	   Giovanni:4
+1x Pug Jackson		    6	CEL POT for pre		 primogen  Brujah:3
+
+Library (90 cards)
+Master (15; 4 trifle)
+1x Dark Influences
+3x Dreams of the Sphinx
+2x Fame
+1x Haven Uncovered
+1x Leadership Vacuum
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Tension in the Ranks
+4x Villein
+
+Action (18)
+8x Bum's Rush
+2x Epiphany
+2x Harass
+2x Heart of the City
+4x Intimidation
+
+Action Modifier (8)
+4x Forced March
+4x Freak Drive
+
+Combat (49)
+6x Blur
+4x Disarm
+9x Immortal Grapple
+5x Pursuit
+7x Rolling with the Punches
+4x Slam
+6x Taste of Vitae
+8x Torn Signpost

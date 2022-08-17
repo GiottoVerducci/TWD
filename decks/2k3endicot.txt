@@ -1,0 +1,49 @@
+Praxis: Binghamton
+Endicott, New York
+March 29th 2003
+13 players
+Albert Chang
+
+Deck Name: Second Round? What Second Round?
+
+Description: Tremere seduction/bonding bleed with only theft and
+movements to regain blood on vampires. Only Jyhad cards used, except
+in the crypt, which is a 1/2 crypt. Perhaps a tad monotonous, but it
+seems to work okay.
+
+Crypt (12 cards, min=17, max=30, avg=5.75)
+------------------------------------------
+2x Justine, Elder of Dallas	8   AUS DOM THA obf	primogen  Tremere:1
+2x Astrid Thomas		7   DOM THA aus pot	primogen  Tremere:1
+2x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+2x Hannigan			5   AUS THA dom			  Tremere antitribu:2
+1x Muaziz, Archon of Ulugh Beg	7   THA aus dom for		  Tremere:2
+1x Merrill Molitor		5   THA aus dom			  Tremere:1
+1x Sarah Cobbler		4   THA dom			  Tremere:1
+1x Jing Wei			3   dom tha			  Tremere:1
+
+Library (90 cards)
+Master (18)
+1x Academic Hunting Ground
+2x Anarch Troublemaker
+2x Arcane Library
+4x Blood Doll
+1x Chantry
+4x Dominate
+4x Sudden Reversal
+
+Action (17)
+3x Dominate Kine
+14x Govern the Unaligned
+
+Action Modifier (18)
+8x Bonding
+10x Seduction
+
+Reaction (15)
+8x Telepathic Misdirection
+7x Wake with Evening's Freshness
+
+Combat (22)
+11x Movement of the Mind
+11x Theft of Vitae

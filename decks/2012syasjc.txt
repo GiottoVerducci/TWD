@@ -1,0 +1,80 @@
+Summon the Abyss
+San Jose, California
+June 30th 2012
+2R+F
+20 players
+Brett Schofield
+
+Deck Name: Third Party Politics - Velya for President
+
+A somewhat traditional "tap and cap" deck backed up with
+the stealth offered by Vicissitude. I was pretty fortunate
+in that I didn't face a real wall deck, and I was the only
+political deck in the finals. But it is pretty ridiculous
+how much pool this deck can acquire.
+
+Crypt Selection: Velya and Lambach are the stars. Obviously
+it is best for Velya to use Voter Cap, but refilling Lambach
+for future Minion Taps is pretty good. I think there are a
+couple of modifications that could be made to this deck.
+More copies of Sascha Vykos (adv) could be added - she has
+an amazingly good ability, but it is frustrating that she
+can't use Mind of the Wilds for stealth. Sames goes for
+Matteus, Flesh Sculptor (!Toreador) who could replace Meshenka.
+
+Library: Over all, I was pleased with the amount of defense
+(combat and bounce), stealth, and vote push this deck packs.
+I only saw early crypt acceleration in one game, but it seems
+hard to justify adding any more. On hind sight, I would
+definitely drop the Crusade. I was surprised how often I
+ended using Changeling to bleed.
+
+Crypt (12 cards, min=26, max=38, avg=8.25)
+------------------------------------------
+3x Velya, The Flayer			  9   ANI AUS PRE VIC for  cardinal	Tzimisce:3
+2x Lambach				  10  ANI AUS DOM VIC pre  cardinal	Tzimisce:2
+2x Stravinsky				  9   ANI AUS VIC pot	   archbishop	Tzimisce:2
+2x Meshenka				  8   ANI AUS VIC	   priscus	Tzimisce:2
+2x Rose, The				  5   PRE VIC aus	   		Tzimisce:3
+1x Sascha Vykos, The Angel of Caine (ADV) 8   AUS THA VIC ani dom  archbishop	Tzimisce:2
+
+Library (80 cards)
+Master (17; 1 trifle)
+2x Dreams of the Sphinx
+1x Gurchon Hall
+2x Information Highway
+1x Legendary Vampire
+6x Minion Tap
+1x Powerbase: Madrid
+1x Wash
+3x Zillah's Valley
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (18)
+1x Banishment
+2x Conservative Agitation
+1x Crusade: New York
+10x Kine Resources Contested
+2x Neonate Breach
+1x Political Stranglehold
+1x Reinforcements
+
+Action Modifier (23)
+3x Bewitching Oration
+6x Changeling
+4x Mind of the Wilds
+4x Telepathic Vote Counting
+6x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Plasmic Form
+
+Reaction (14)
+7x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (5)
+1x Majesty
+4x Meld with the Land

@@ -1,0 +1,75 @@
+Blood in Stroudsburg!
+Stroudsburg, Pennsylvania
+August 17th 2013
+3R+F
+15 players
+Adam Hulse
+
+Deck Name: Mata Hari Is the Founder
+Created by: Adam Hulse and Sonam Adinolf
+
+Description: A Mata Hari + kholo deck (created by Adam Hulse and
+Sonam Adinolf). Sonam tried a version of this deck in 2012 Origins
+and it was determined that there was not enough payload. So I made
+the deck 90 cards and upped the KRC by a lot. The Mask of 1000 Faces
+are in there to get around no stealth for the weenie Laibon. Mata masks
+and then plays faceless. I didn't make it work so well so that combo
+needs some more play to see if worth it.
+
+Crypt (12 cards, min=13, max=28, avg=5.42)
+------------------------------------------
+5x Mata Hari	 7   CHI OBF aus for qui  2 votes  Ravnos:4
+2x Tsunda	 6   CHI abo ani dem	  magaji   Ravnos:4
+1x Fode Kourouma 5   POT ani aus pre	  	   Guruhi:4
+1x Urenna Bunu	 4   ani pot pre	  	   Guruhi:4
+1x Abu Nuwasi	 3   cel for		  	   Ishtarri:4
+1x Dolie	 3   abo ani		  	   Akunanse:4
+1x Kamaria	 3   aus pot		  	   Osebo:4
+
+Library (90 cards)
+Master (15; 2 trifle)
+6x Ashur Tablets
+1x Chanjelin Ward
+1x Fear of Mekhet
+1x Ferraille
+1x Mbare Market, Harare
+1x Perfectionist
+1x Secure Haven
+1x Ventrue Headquarters
+2x Wider View
+
+Action (15)
+1x Blithe Acceptance
+1x Concert Tour
+7x Founders of the Ebony Kingdom
+2x Sensory Deprivation
+4x Sibyl's Tongue
+
+Equipment (5)
+1x Ankara Citadel, Turkey, The
+1x Helicopter
+1x Kduva's Mask
+1x Sargon Fragment, The
+1x Shilmulo Tarot
+
+Political Action (22)
+1x Disputed Territory
+4x Diversity
+15x Kine Resources Contested
+1x Neonate Breach
+1x Secret Must Be Kept, The
+
+Action Modifier (21)
+4x Cloak the Gathering
+4x Faceless Night
+9x Freak Drive
+4x Mask of a Thousand Faces
+
+Action Modifier/Combat (4)
+4x Mirror Image
+
+Action Modifier/Reaction (8)
+2x Akunanse Kholo
+2x Guruhi Kholo
+2x Ishtarri Kholo
+2x Osebo Kholo

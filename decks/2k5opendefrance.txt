@@ -1,0 +1,63 @@
+Open de France
+Carcassonne, France
+August 27th 2005
+75 players
+François Morand
+
+Deck Name: Exhibitboon
+
+Crypt (14 cards, min=8, max=23, avg=3.93)
+-----------------------------------------
+2x Jost Werner			6   AUS PRE ani		 Toreador antitribu:2
+2x Lolita			3   for pre		 Toreador antitribu:2
+2x Carter			2   cel			 Toreador antitribu:2
+2x Nicholas Chang		2   aus			 Toreador antitribu:3
+1x Sheila Mezarin		6   AUS PRE cel for	 Toreador antitribu:2
+1x Creamy Jade			5   PRE aus cel vic	 Toreador antitribu:3
+1x Cristos Mantigo		5   aus cel dom obf pre	 Toreador antitribu:3
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre	 Toreador antitribu:2
+1x Remilliard, Devout Crusader	4   AUS pre		 Toreador antitribu:2
+1x Sabrina			4   aus cel pre		 Toreador antitribu:3
+
+Library (89 cards)
+Master (35)
+1x Anarch Troublemaker
+1x Creepshow Casino
+2x Día de los Muertos
+1x Direct Intervention
+1x Elder Library
+1x Fetish Club Hunting Ground
+2x Fortschritt Library
+7x Foundation Exhibit
+1x Heidelberg Castle, Germany
+1x Humanitas
+1x Jake Washington
+1x Life Boon
+5x Palla Grande
+5x Parthenon, The
+1x Sudden Reversal
+1x Sunset Strip, Hollywood
+3x Visit from the Capuchin
+
+Action (18)
+6x Art Scam
+12x Embrace, The
+
+Political Action (15)
+11x Consanguineous Boon
+2x Disputed Territory
+2x Rumors of Gehenna
+
+Action Modifier (6)
+6x Change of Target
+
+Reaction (4)
+4x Delaying Tactics
+
+Combat (6)
+6x Dodge
+
+Event (5)
+3x Anthelios, The Red Star
+1x Slow Withering, The
+1x Veil of Darkness

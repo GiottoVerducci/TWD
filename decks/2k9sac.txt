@@ -1,0 +1,69 @@
+SAC 2009
+Santiago, Chile
+October 12th 2009
+3R+F
+27 players
+Jackson Iribarren
+
+Deck Name: !Ventrue
+
+Crypt (14 cards, min=22, max=39, avg=7.57)
+------------------------------------------
+3x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
+3x Owain Evans, The Wanderer	 8   AUS DOM FOR cel pre  		Ventrue antitribu:3
+3x Dylan			 6   aus cel dom for pro  		Ventrue antitribu:2
+2x Blackhorse Tanner		 7   AUS DOM FOR	  		Ventrue antitribu:3
+1x Quentin			 9   AUS DOM FOR cel obt  bishop	Ventrue antitribu:2
+1x Edward Neally		 7   DOM FOR aus pre	  		Ventrue antitribu:3
+1x Ingrid Russo			 4   DOM for		  		Ventrue antitribu:2
+
+Library (82 cards)
+Master (17; 4 trifle)
+1x Corporate Hunting Ground
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Hungry Coyote, The
+2x Minion Tap
+1x Perfectionist
+2x Protean
+1x Rack, The
+1x Sudden Reversal
+4x Vessel
+
+Action (13)
+2x Abbot
+1x Eternal Vigilance
+6x Govern the Unaligned
+4x Scouting Mission
+
+Ally (2)
+1x Carlton Van Wyk
+1x Procurer
+
+Equipment (2)
+1x Bowl of Convergence
+1x Ivory Bow
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (6)
+4x Freak Drive
+2x Kiss of Ra, The
+
+Reaction (21)
+6x Deflection
+2x Eagle's Sight
+2x Enhanced Senses
+3x Forced Awakening
+2x My Enemy's Enemy
+2x Obedience
+4x Telepathic Misdirection
+
+Combat (20)
+6x Claws of the Dead
+4x Earth Meld
+6x Rolling with the Punches
+2x Skin of Steel
+2x Superior Mettle

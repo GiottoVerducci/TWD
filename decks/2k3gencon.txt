@@ -1,0 +1,78 @@
+NAC 2003
+GenCon, Indianapolis, Indiana
+July 26th 2003
+80 players
+Brian Moritz
+
+This deck originally contained an Erichtho instead of Kij, a Rumor Mill
+instead of the 2nd Pentex Subversion, and a Redirection instead of the
+2nd Magic of the Smith. Each of these was changed the night before the
+tournament, and each was important in one game or another. I came to
+PRAISE Pentex throughout the tournament--especially in the finals when
+I used it as a 2 pool Misdirection to screw my prey's Sheila Mezarin and
+unload a hand full of bleed on poor Forrest for the oust. My strategy in
+seating was to sit opposite Jay, because experience has shown him to be
+a good cross table ally, and indeed without his help (read: Powerbase)
+I would very likely have been ousted.
+
+Since Jay and I had identical records going into the final round
+(8vp 2tw 2nd place), LSJ had to flip a coin to determine our rank--so,
+I am this year's winner because I called "heads". Clearly Jay Kristoff
+is an excellent player and deserves this title every bit as much as I.
+
+-- Brian Moritz
+
+Crypt (12 cards, min=14, max=29, avg=5.42)
+------------------------------------------
+2x Carna, The Princess Witch	7   AUS DOM THA		primogen  Tremere:3
+2x Reverend Blackwood		6   DOM THA obf		bishop	  Tremere antitribu:2
+1x Kij Dansky			8   AUS DOM THA obt	priscus	  Tremere antitribu:2
+1x Bryan Van Duesen		7   DOM THA aus pre		  Tremere antitribu:2
+1x Aisling Sturbridge		5   AUS THA dom			  Tremere:2
+1x Cohn Rose			5   THA aus dom pre		  Tremere:3
+1x Hannigan			5   AUS THA dom			  Tremere antitribu:2
+1x Blythe Candeleria		3   THA aus			  Tremere:2
+1x Ehrich Weiss			3   dom tha			  Tremere:3
+1x Masika St. John		3   THA				  Tremere:3
+
+Library (90 cards)
+Master (15)
+1x Academic Hunting Ground
+1x Arcane Library
+3x Blood Doll
+2x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Giant's Blood
+1x KRCG News Radio
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x University Hunting Ground
+
+Action (16)
+1x Aranthebes, The Immortal
+13x Govern the Unaligned
+2x Magic of the Smith
+
+Equipment (3)
+1x .44 Magnum
+1x Ivory Bow
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (4)
+4x Bonding
+
+Reaction (24)
+6x Deflection
+6x Enhanced Senses
+8x Forced Awakening
+1x Redirection
+3x Telepathic Misdirection
+
+Combat (27)
+14x Apportation
+10x Theft of Vitae
+3x Walk of Flame

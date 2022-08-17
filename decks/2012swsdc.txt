@@ -1,0 +1,64 @@
+Speak With Spirits
+Denver, Colorado
+September 22nd 2012
+2R+F
+10 players
+Brian Moritz
+
+Deck Name: The Complex Machinations of the Mind of Fred Scott
+Created by: Brian Moritz
+
+Crypt (12 cards, min=4, max=40, avg=5.67)
+-----------------------------------------
+6x Shalmath	  10  POT PRE TEM  True Brujah:6
+1x Andre LeRoux	  3   aus	   Toreador:5
+1x Anarch Convert 1   -none-	   Caitiff:ANY
+1x Donald Cargill 1   aus	   Caitiff:5
+1x Freddy Gage	  1   pot	   Caitiff:5
+1x Iris Bennett	  1   pro	   Caitiff:5
+1x Walker Grimes  1   ani	   Caitiff:5
+
+Library (78 cards)
+Master (12; 2 trifle)
+2x Giant's Blood
+2x Pentex(TM) Subversion
+2x Perfectionist
+1x Powerbase: Montreal
+2x Rack, The
+1x Tabriz Assembly
+2x Wider View
+
+Action (15)
+5x Hourglass of the Mind
+10x Summon History
+
+Ally (3)
+1x Ponticulus
+1x Remnant of the Endless Storm
+1x Tye Cooper
+
+Equipment (8)
+1x AK-47
+1x Ankara Citadel, Turkey, The
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Sacré-Cœur Cathedral, France
+2x Sport Bike
+1x Talbot's Chainsaw
+
+Retainer (3)
+1x Corpse Minion
+2x Mr. Winthrop
+
+Action Modifier (16)
+13x Domain of Evernight
+3x Enkil Cog
+
+Combat (19)
+6x Decapitate
+2x Disarm
+11x Outside the Hourglass
+
+Event (2)
+1x Slow Withering, The
+1x Unmasking, The

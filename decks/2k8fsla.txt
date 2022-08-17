@@ -1,0 +1,59 @@
+Feral Spirit - NAC MQ
+Gateway, Los Angeles, California
+August 30th 2008
+3R+F
+14 players
+Darby Keeney
+
+Deck Name: Lord Ashton's Animalism
+
+Description: Animalism Wall, but can also bleed for 4.
+
+Crypt (12 cards, min=14, max=20, avg=4.42)
+------------------------------------------
+2x Lord Ashton		5   ANI for pro			Gangrel:3
+1x Céleste Lamontagne	5   ANI PRO for			Gangrel antitribu:4
+1x Effie Lowery		5   ANI SPI obf			Ahrimane:4
+1x Fish			5   ANI POT pre			Guruhi:4
+1x Petra		5   ANI OBF aus			Nosferatu:4
+1x Yuri Kerezenski	5   ANI aus for vic	bishop	Tzimisce:4
+1x Bobby Lemon		4   ANI pro			Gangrel:3
+1x Gustavo Morales	4   ani cel for			Gangrel:3
+1x Jezebelle		4   ani for pro			Gangrel:4
+1x Bothwell		3   ani for			Gangrel:3
+1x Stick		3   ANI				Nosferatu antitribu:4
+
+Library (90 cards)
+Master (11)
+1x Animalism
+6x Blood Doll
+2x Haven Uncovered
+2x Heidelberg Castle, Germany
+
+Action (5)
+2x Army of Rats
+3x Tier of Souls
+
+Equipment (2)
+2x Camera Phone
+
+Retainer (12)
+1x J. S. Simmons, Esq.
+2x Murder of Crows
+1x Owl Companion
+7x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (1)
+1x Daring the Dawn
+
+Reaction (17)
+9x Cats' Guidance
+8x Forced Awakening
+
+Combat (42)
+18x Aid from Bats
+8x Carrion Crows
+4x Drawing Out the Beast
+8x Pack Alpha
+4x Taste of Vitae

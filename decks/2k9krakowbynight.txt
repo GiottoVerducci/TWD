@@ -1,0 +1,74 @@
+Krakow by Night MQ
+Krakow, Poland
+October 17th 2009
+23 players
+Tomasz Kowalewski
+
+Deck Name: Dmitra 1.02
+
+Crypt (12 cards, min=24, max=37, avg=7.83)
+------------------------------------------
+4x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar	Brujah:5
+2x Count Germaine  8   CEL FOR POT PRE obf  		Brujah:4
+2x Karen Suadela   7   CEL POT obf pre	    prince	Brujah:5
+1x Jann Berger	   10  CEL POT PRE dem for  prince	Brujah:4
+1x Carlak	   8   CEL PRE dom pot	    prince	Brujah:5
+1x Tara		   6   POT PRE cel	    prince	Brujah:5
+1x Reginald Moore  4   PRE		    primogen	Brujah:4
+
+Library (90 cards)
+Master (21; 7 trifle)
+3x Blood Doll
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Grooming the Protégé
+1x Information Highway
+2x New Carthage
+1x Pentex(TM) Subversion
+1x Temptation of Greater Power
+5x Vessel
+2x Villein
+
+Action (6)
+2x Entrancement
+2x Fourth Tradition: The Accounting
+2x Heart of the City
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Banishment
+5x Kine Resources Contested
+2x My Kin Against the World
+5x Parity Shift
+1x Praxis Seizure: Frankfurt
+1x Praxis Seizure: Rome
+
+Action Modifier (34)
+2x Bewitching Oration
+1x Cloak the Gathering
+1x Faceless Night
+6x Forced March
+4x Forgotten Labyrinth
+2x Freak Drive
+2x Into Thin Air
+5x Iron Glare
+3x Perfect Paragon
+1x Spying Mission
+7x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (4)
+4x Second Tradition: Domain
+
+Combat (5)
+5x Majesty

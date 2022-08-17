@@ -1,0 +1,65 @@
+Italian CCQ
+Bologna, Italy
+July 26th 2015
+3R+F
+13 players
+Giovanni Mattioli
+https://www.vekn.net/event-calendar/event/8206
+
+Deck Name: Lasombra Big Cap
+
+Crypt (12 cards, min=33, max=40, avg=9.08)
+------------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+3x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+3x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+2x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+
+Library (90 cards)
+Master (21; 6 trifle)
+1x Direct Intervention
+5x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Political Hunting Ground
+1x Power Structure
+1x Secure Haven
+6x Villein
+
+Action (14)
+4x Entrancement
+10x Govern the Unaligned
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Auto-da-fé
+3x Banishment
+1x Consanguineous Boon
+1x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (22)
+3x Approximation of Loyalty
+3x Conditioning
+6x Shadow Play
+6x Shroud of Absence
+4x Voter Captivation
+
+Reaction (12)
+10x Deflection
+2x Obedience
+
+Combat (8)
+1x Entombment
+7x Majesty

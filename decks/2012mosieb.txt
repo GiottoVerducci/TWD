@@ -1,0 +1,72 @@
+Mellandagsturnering
+Örebro, Sweden
+December 26th 2012
+13 players
+Isak Esbjörnsson Bjärmark
+
+Deck Name: thoughts acquires stains lips acquire speed
+Created by: Adam Esbjörnsson
+
+it is by will alone i set my car in motion
+block and kill deck with weenie support
+
+Crypt (12 cards, min=15, max=44, avg=7.75)
+------------------------------------------
+4x Alexandra	  11  ANI AUS CEL PRE dom  inner circle	 Toreador:2
+4x Anson	  8   CEL PRE aus dom	   prince	 Toreador:1
+1x Anneke	  10  AUS CEL PRE dom	   justicar	 Toreador:1
+1x Isabel de Leon 3   AUS		   		 Toreador:2
+1x Delilah Easton 2   pre		   		 Toreador:1
+1x Dieter Kleist  2   aus		   		 Toreador:1
+
+Library (60 cards)
+Master (27; 8 trifle)
+2x Coven, The
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+2x Millicent Smith, Puritan Vampire Hunter
+1x Parthenon, The
+1x Pentex(TM) Subversion
+3x Toreador Grand Ball
+5x Villein
+1x Wider View
+9x Zillah's Valley
+
+Action (1)
+1x Entrancement
+
+Equipment (3)
+1x Concoction of Vitality
+2x Sargon Fragment, The
+
+Political Action (12)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+1x Kine Resources Contested
+3x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+2x Reversal of Fortunes
+
+Action Modifier (5)
+1x Aire of Elation
+1x Approximation of Loyalty
+1x Bewitching Oration
+1x Perfect Paragon
+1x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Scalpel Tongue
+
+Reaction (7)
+2x Deflection
+2x My Enemy's Enemy
+3x Second Tradition: Domain
+
+Combat (2)
+2x Majesty
+
+Event (2)
+2x Anthelios, The Red Star

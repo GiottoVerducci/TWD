@@ -1,0 +1,56 @@
+From here to hell
+Gothenburg, Sweden
+November 11th 2009
+15 players
+Henrik Ericsson
+
+-- 5VP in final
+
+Deck Name: Pre
+Created by: Erik Torstensson
+
+Crypt (12 cards, min=7, max=17, avg=3.25)
+-----------------------------------------
+1x Shasa Abu Badr	5   PRE cel for	 	   Ishtarri:4
+1x Antoinette Dubois	4   PRE for mel	 	   Daughter of Cacophony:4
+1x Bethany Ray		4   PRE aus	 	   Toreador:5
+1x Loonar		4   PRE cel	 	   Toreador antitribu:4
+1x Lumumba		4   PRE ani	 	   Guruhi:4
+1x Marla Kenyon		4   PRE ser	 	   Follower of Set:4
+1x Reginald Moore	4   PRE		 primogen  Brujah:4
+1x Reverend Adams	3   PRE aus	 	   Caitiff:4
+1x Aimee Laroux		2   for pre	 	   Daughter of Cacophony:4
+1x Honest Abe		2   pre		 	   Brujah:5
+1x Jayne Jonestown	2   PRE		 	   Brujah antitribu:4
+1x Dirk			1   pre		 	   Caitiff:4
+
+Library (72 cards)
+Master (16; 3 trifle)
+2x Anarch Troublemaker
+1x Coven, The
+2x Dreams of the Sphinx
+3x Effective Management
+1x Giant's Blood
+1x Information Highway
+2x Life in the City
+2x Misdirection
+2x Pentex(TM) Subversion
+
+Action (36)
+3x Dream World
+7x Enchant Kindred
+7x Entrancement
+7x Intimidation
+6x Mind Numb
+6x Public Trust
+
+Action Modifier (11)
+7x Aire of Elation
+2x Daring the Dawn
+2x Leverage
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Bitter and Sweet Story, The

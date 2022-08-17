@@ -1,0 +1,58 @@
+WSGS Leviathan
+Sydney, Australia
+May 18th 2003
+10 players
+Brendan Basto
+
+Deck Name: Anson, Anneke & their Pretty Pals
+
+Crypt (12 cards, min=20, max=41, avg=7.92)
+------------------------------------------
+3x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+1x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+1x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Masika	   10  AUS CEL PRE		primogen	Toreador:1
+1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+1x Victoria Ash	   6   PRE aus cel dom		primogen	Toreador:2
+1x Mariana Gilbert 4   PRE cel					Toreador:1
+1x Isabel de Leon  3   AUS					Toreador:2
+
+Library (90 cards)
+Master (37; 1 trifle)
+7x Aching Beauty
+2x Art Museum
+4x Blood Doll
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Golconda: Inner Peace
+2x Information Highway
+1x Major Boon
+5x Minion Tap
+1x Parthenon, The
+1x Powerbase: Montreal
+1x Society Hunting Ground
+5x Storage Annex
+1x Visit from the Capuchin
+
+Action (3)
+1x Entrancement
+2x Fourth Tradition: The Accounting
+
+Action Modifier (11)
+3x Aire of Elation
+8x Change of Target
+
+Reaction (20)
+7x Second Tradition: Domain
+2x Telepathic Counter
+8x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (19)
+6x Flash
+6x Majesty
+1x Pursuit
+6x Staredown

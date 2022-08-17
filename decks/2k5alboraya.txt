@@ -1,0 +1,60 @@
+Spanish NCQ
+Alboraya (Valencia), Spain
+February 12th 2005
+3R+F
+34 players
+Jose Vicente Coll
+
+Crypt (13 cards, min=14, max=25, avg=5.08)
+------------------------------------------
+3x Jost Werner			6   AUS PRE ani			Toreador antitribu:2
+2x Le Dinh Tho			5   NEC aus dom			Nagaraja:2
+1x Greta Kircher		7   AUS CEL PRE obf		Toreador antitribu:2
+1x Ian Wallingford		6   CEL PRE aus		bishop	Toreador antitribu:2
+1x Sheila Mezarin		6   AUS PRE cel for		Toreador antitribu:2
+1x Creamy Jade			5   PRE aus cel vic		Toreador antitribu:3
+1x Mercy, Knight Inquisitor	5   AUS cel dom pre		Toreador antitribu:2
+1x Remilliard, Devout Crusader	4   AUS pre			Toreador antitribu:2
+1x Lolita			3   for pre			Toreador antitribu:2
+1x Nicholas Chang		2   aus				Toreador antitribu:3
+
+Library (90 cards)
+Master (19; 1 trifle)
+2x Anarch Troublemaker
+3x Blood Doll
+1x Coven, The
+1x Creepshow Casino
+3x Direct Intervention
+1x Fetish Club Hunting Ground
+1x Hungry Coyote, The
+4x Palla Grande
+2x Pentex(TM) Subversion
+1x Sudden Reversal
+
+Action (28)
+8x Art Scam
+8x Embrace, The
+4x Enchant Kindred
+2x Entrancement
+4x Mind Numb
+2x Revelations
+
+Retainer (3)
+2x Marijava Ghoul
+1x Owl Companion
+
+Action Modifier (8)
+8x Change of Target
+
+Reaction (22)
+1x Delaying Tactics
+2x Eagle's Sight
+2x Enhanced Senses
+3x My Enemy's Enemy
+2x Telepathic Counter
+7x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (10)
+7x Majesty
+3x Staredown

@@ -1,0 +1,65 @@
+Vinterblot i nedre Norrland
+Sundsvall, Sweden
+January 26th 2013
+3R+F
+10 players
+Randal Rudstam
+
+Deck Name: Seven is the new six!
+
+Description: AGAIN Alexander Båskman has shown me the light,
+so the opponent can't calculate your bleed potential I added
+Leverage and Command of the Beast.
+Bryan Van Duesen was in play four out of four games.
+
+Crypt (12 cards, min=14, max=27, avg=5.33)
+------------------------------------------
+1x Bryan Van Duesen		7   DOM THA aus pre	 		Tremere antitribu:2
+1x Carna, The Princess Witch	7   AUS DOM THA		 primogen	Tremere:3
+1x Ladislas Toth, The Torch	7   AUS DOM THA for	 archbishop	Tremere antitribu:3
+1x Marlene, The Infernalist	6   AUS DOM dem for tha	 		Ventrue antitribu:2
+1x Reverend Blackwood		6   DOM THA obf		 bishop		Tremere antitribu:2
+1x Selena			6   AUS DOM THA		 		Tremere antitribu:3
+1x Valois Sang, The Watcher	6   AUS DOM nec tha	 		Tremere:3
+1x Kurt Strauss			5   DOM aus tha		 		Tremere antitribu:2
+1x Pieter van Dorn		4   dom pre tha		 		Tremere:3
+1x Thelonius			4   aus dom tha		 		Tremere antitribu:2
+1x Brooke			3   dom tha		 		Tremere antitribu:2
+1x Ehrich Weiss			3   dom tha		 		Tremere:3
+
+Library (66 cards)
+Master (11; 3 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+2x Direct Intervention
+1x Dreams of the Sphinx
+2x Life in the City
+2x Misdirection
+2x Pentex(TM) Subversion
+
+Action (13)
+13x Govern the Unaligned
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ponticulus
+
+Action Modifier (19)
+4x Bonding
+1x Command of the Beast
+5x Conditioning
+1x Leverage
+7x Mirror Walk
+1x Seduction
+
+Reaction (20)
+3x Deflection
+3x Delaying Tactics
+3x Eyes of Argus
+3x My Enemy's Enemy
+4x On the Qui Vive
+1x Redirection
+3x Telepathic Misdirection
+
+Event (1)
+1x Scourge of the Enochians

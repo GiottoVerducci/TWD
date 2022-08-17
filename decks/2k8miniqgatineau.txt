@@ -1,0 +1,75 @@
+MQ
+Gatineau, Quebec
+September 14th 2008
+3R+F
+12 players
+Louis Legault
+
+-- 4VP in final
+
+Deck: African Delegation
+
+Strange Day should definitely go in here but I don't own any.
+Proxied by Indomitability in friendly games
+
+Was left there by mistake but proved to be useful in the tournament
+
+Crypt (12 cards, min=24, max=38, avg=7.83)
+------------------------------------------
+4x Jibade el-Bahrawi	9   CEL DEM FOR PRE aus			Ishtarri:4
+3x Ubende		7   CEL PRE for obf qui		magaji	Ishtarri:4
+2x Ayo Igoli		10  AUS CEL FOR PRE obf tha		Ishtarri:4
+2x Shasa Abu Badr	5   PRE cel for				Ishtarri:4
+1x Ganhuru		7   FOR PRE cel pro			Ishtarri:4 -- Should be switched for a 3rd Ayo. Used as a proxy for her in friendly games
+
+Library (90 cards)
+Master (19)
+3x Blood Doll
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+2x Legendary Vampire
+3x Minion Tap
+3x Perfectionist
+1x Port Hunting Ground
+2x Zillah's Valley
+
+Action (14)
+2x Enchant Kindred
+4x Entrancement
+4x Legal Manipulations
+4x Summoning, The
+
+Ally (4)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Mylan Horseed
+1x Ossian
+
+Political Action (10)
+2x Autarkis Persecution
+4x Banishment
+2x Kine Resources Contested
+2x Overseer
+
+Retainer (2)
+2x Marijava Ghoul
+
+Action Modifier (27)
+2x Awe
+4x Bewitching Oration
+8x Forced March
+2x Kiss of Ra, The
+5x Uncontrolled Impulse
+6x Voter Captivation
+
+Action Modifier/Reaction (6)
+2x Ishtarri Kholo
+4x Scalpel Tongue
+
+Combat (7)
+1x Indomitability
+6x Majesty
+
+Event (1)
+1x Unmasking, The

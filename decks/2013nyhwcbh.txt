@@ -1,0 +1,65 @@
+New year, here we come
+Budapest, Hungary
+January 12th 2013
+3R+F
+19 players
+Dávid Wittmann
+
+-- 2.5VP in final
+
+Deck Name: Uta & Ash coop
+
+Crypt (12 cards, min=16, max=31, avg=5.92)
+------------------------------------------
+3x Uta Kovacs	8   AUS DOM THA ser		Tremere antitribu:4
+3x Ash Harrison	7   AUS THA cel dom		Tremere antitribu:5
+2x Frondator	5   AUS dom tha		bishop	Tremere antitribu:4
+1x Carmen	5   THA aus dom			Tremere antitribu:5
+1x Janine	4   aus dom tha			Tremere antitribu:4
+1x Mosfair	4   cel dom tha			Tremere antitribu:4
+1x Keith Moody	3   DOM				Tremere antitribu:4
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Erciyes Fragments, The
+1x Liquidation
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+3x Rötschreck
+1x University Hunting Ground
+5x Vessel
+
+Action (14)
+7x Govern the Unaligned
+7x Magic of the Smith
+
+Ally (5)
+5x Hexaped
+
+Equipment (7)
+1x Bowl of Convergence
+1x Guarded Rubrics
+1x Heart of Nizchetus
+2x Ivory Bow
+1x Ruins of Ceoris
+1x Sniper Rifle
+
+Action Modifier (9)
+3x Conditioning
+6x Mirror Walk
+
+Reaction (34)
+2x Delaying Tactics
+4x Eagle's Sight
+2x Enhanced Senses
+7x Eyes of Argus
+4x Forced Awakening
+3x My Enemy's Enemy
+4x On the Qui Vive
+3x Spirit's Touch
+5x Telepathic Misdirection
+
+Combat (7)
+5x Apportation
+2x Rego Motum

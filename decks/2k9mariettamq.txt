@@ -1,0 +1,66 @@
+Kindred Manipulation: Marietta MQ
+Stone Mountain, Atlanta, Georgia
+February 21st 2009
+2R+F
+15 players
+Mike Perlman
+
+Deck Name: Law Firm says "Get off my lawn!" II
+
+This is a minimally tweaked version of a Millenium Cultist Storyline Tournament Winning Deck.
+One game win 3VP to get into finals, one game win 3VP in final.
+
+Crypt (12 cards, min=17, max=41, avg=7.42)
+------------------------------------------
+1x Jan Pieterzoon			7   DOM FOR pot pre				Ventrue:2
+1x Jan Pieterzoon (ADV)			7   DOM FOR pot pre				Ventrue:2
+1x Arika				11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Democritus				10  DOM PRE aus cel for		justicar	Ventrue:1
+1x Lazverinus, Thrall of Lambach	10  AUS DOM FOR POT pro		archbishop	Ventrue antitribu:2
+1x Queen Anne				10  DOM FOR PRE aus obf		prince		Ventrue:2
+1x Bindusara, Historian of the Kindred	9   AUS DOM FOR PRE tha				Ventrue:2
+1x Emerson Bridges			8   DOM FOR PRE pot		prince		Ventrue:1
+1x Heather Florent, The Opportunist	6   FOR PRE dom					Ventrue:1
+1x Luccia Paciola			6   DOM for pre					Ventrue:1
+1x Roland Loussarian			3   for pre					Ventrue:1
+1x Rufina Soledad			2   for						Ventrue:1
+
+Library (90 cards)
+Master (14; 2 trifle)
+3x Fame
+2x Fortitude
+1x Instability
+1x King's Rising
+4x Minion Tap
+1x Misdirection
+2x Vessel
+
+Action (11)
+1x Ablative Skin
+7x Govern the Unaligned
+1x Resilient Mind
+2x Victim of Habit
+
+Equipment (12)
+1x .44 Magnum
+10x Grenade
+1x IR Goggles
+
+Action Modifier (11)
+2x Bonding
+3x Conditioning
+4x Freak Drive
+2x Seduction
+
+Reaction (1)
+1x Deflection
+
+Combat (41)
+11x Concealed Weapon
+18x Indomitability
+1x Rolling with the Punches
+2x Skin of Night
+2x Skin of Rock
+1x Skin of Steel
+3x Taste of Vitae
+3x Unflinching Persistence

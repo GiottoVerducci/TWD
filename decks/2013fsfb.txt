@@ -1,0 +1,54 @@
+Fee Stake: Fortaleza
+Fortaleza, Brazil
+September 8th 2013
+2R+F
+12 players
+Bruno Patrício Silva Pontes
+
+-- 4VP in final
+
+Deck Name: Rolo Compressor
+
+Crypt (12 cards, min=11, max=44, avg=8)
+---------------------------------------
+5x Enkidu, The Noah 11	ANI CEL OBF POT PRO for	 Gangrel antitribu:4
+3x Karsh	    10	ANI CEL FOR POT PRO	 Gangrel:3
+2x Bill Butler	    3	pot pro			 Gangrel antitribu:4
+1x Lula Burch	    3	for pro			 Gangrel antitribu:4
+1x Leo Washington   2	cel pro			 Gangrel antitribu:4
+
+Library (90 cards)
+Master (20; 7 trifle)
+1x Archon Investigation
+2x Fame
+1x Giant's Blood
+3x Golconda: Inner Peace
+3x Haven Uncovered
+1x Minion Tap
+2x Tension in the Ranks
+3x Vessel
+4x Villein
+
+Action (5)
+2x Fleetness
+1x Harass
+2x Preternatural Strength
+
+Ally (4)
+1x Carlton Van Wyk
+1x Mylan Horseed
+2x Procurer
+
+Action Modifier (6)
+3x Forced March
+3x Freak Drive
+
+Combat (55)
+7x Blur
+6x Claws of the Dead
+4x Decapitate
+2x Disarm
+12x Immortal Grapple
+10x Pursuit
+6x Skin of Steel
+8x Taste of Vitae

@@ -1,0 +1,66 @@
+The Gilbert Murdock Series I
+Gothenburg, Sweden
+May 14th 2005
+11 players
+Christoffer Arvidsson
+
+Deck Name: Corporate Ecstasy
+Created by: Christoffer Arvidsson and Alex Ek
+
+Crypt (12 cards, min=16, max=27, avg=5.5)
+-----------------------------------------
+1x Qufur am-Heru		7   OBF PRE SER cel tha	 	   Follower of Set:2
+1x Sarrasine			7   OBF PRE aus nec ser	 	   Follower of Set:2
+1x Suzanne Kadim		7   CEL PRE aus dom obf	 	   Toreador:3
+1x Antoinette, She Who Watches	6   AUS PRE cel obf	 primogen  Toreador:3
+1x Ezekiel, Lord of Montreal	6   PRE SER obf pot	 	   Follower of Set:3
+1x Hesha Ruhadze		6   SER ani obf pre	 	   Follower of Set:2
+1x Samat Ramal-Ra, Archon	6   OBF pre ser tha	 	   Follower of Set:2
+1x Count Ormonde		5   OBF dom pre ser	 	   Follower of Set:2
+1x Sir Marriot D'Urban		5   PRE aus obf ser	 	   Follower of Set:2
+1x Hadrian Garrick		4   obf pre		 	   Follower of Set:2
+1x Nepata			4   obf pre ser		 	   Follower of Set:2
+1x Celine Chevalier		3   obf ser		 	   Follower of Set:2
+
+Library (90 cards)
+Master (14)
+1x Archon Investigation
+5x Blood Doll
+1x Crocodile Temple, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Dummy Corporation
+1x Heidelberg Castle, Germany
+1x Opium Den
+1x Temple Hunting Ground
+
+Action (31)
+10x Enchant Kindred
+5x Enticement
+2x Entrancement
+3x Form of Corruption
+1x Heart of the City
+6x Legal Manipulations
+4x Temptation
+
+Action Modifier (26)
+4x Aire of Elation
+4x Cloak the Gathering
+2x Domain of Evernight
+2x Elder Impersonation
+4x Faceless Night
+6x Lost in Crowds
+3x Spying Mission
+1x Truth of a Thousand Lies
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (8)
+1x Confusion of the Eye
+2x Delaying Tactics
+2x Ecstasy
+3x Wake with Evening's Freshness
+
+Combat (8)
+8x Majesty

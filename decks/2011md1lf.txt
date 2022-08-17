@@ -1,0 +1,69 @@
+Mökki Day 1
+Loviisa, Finland
+July 8th 2011
+10 players
+Teemu Sainomaa
+
+Deck Name: Masters of the Grand Ball vol 2.0
+
+Description: Don't get blocked and block key actions.
+
+Crypt (12 cards, min=16, max=42, avg=7.67)
+------------------------------------------
+4x Anson	  8   CEL PRE aus dom	   prince	 Toreador:1
+3x Anneke	  10  AUS CEL PRE dom	   justicar	 Toreador:1
+2x Alexandra	  11  ANI AUS CEL PRE dom  inner circle	 Toreador:2
+1x Colin Flynn	  3   aus cel		   		 Toreador:1
+1x Isabel de Leon 3   AUS		   		 Toreador:2
+1x Delilah Easton 2   pre		   		 Toreador:1
+
+Library (90 cards)
+Master (37; 6 trifle)
+9x Ashur Tablets
+2x Dominate
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Lilith's Blessing
+6x Liquidation
+1x Monastery of Shadows
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Society of Leopold
+5x Toreador Grand Ball
+6x Villein
+
+Action (1)
+1x Entrancement
+
+Equipment (5)
+1x Assault Rifle
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Helicopter
+1x Sargon Fragment, The
+
+Political Action (14)
+2x Alastor
+1x Ancient Influence
+2x Banishment
+5x Kine Resources Contested
+2x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (10)
+4x Awe
+1x Perfect Paragon
+5x Voter Captivation
+
+Reaction (20)
+6x Deflection
+7x Obedience
+7x Second Tradition: Domain
+
+Combat (2)
+2x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

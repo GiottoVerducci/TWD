@@ -1,0 +1,68 @@
+Newcastle Australian Championship Qualifier
+Newcastle (New South Wales), Australia
+August 24th 2008
+21 players
+Brett Tassell
+
+Deck Name: !Toreador Wall
+Created by: Roger Atkins and Brett Tassell
+
+Crypt (12 cards, min=20, max=34, avg=6.67)
+------------------------------------------
+2x Greta Kircher   7   AUS CEL PRE obf	    		Toreador antitribu:2
+2x Jost Werner	   6   AUS PRE ani	    		Toreador antitribu:2
+2x Sheila Mezarin  6   AUS PRE cel for	    		Toreador antitribu:2
+1x Marthe Dizier   10  AUS CEL OBF PRE pro  		Toreador antitribu:3
+1x Melisande	   9   AUS CEL DOM PRE tha  		Toreador antitribu:2
+1x Venere Carboni  8   AUS CEL PRE ani	    priscus	Toreador antitribu:3
+1x Jessica	   7   AUS CEL OBT PRE	    bishop	Toreador antitribu:2
+1x Ian Wallingford 6   CEL PRE aus	    bishop	Toreador antitribu:2
+1x Nicholas Chang  2   aus		    		Toreador antitribu:3
+
+Library (81 cards)
+Master (13)
+4x Blood Doll
+1x Communal Haven: Cathedral
+1x Fetish Club Hunting Ground
+1x KRCG News Radio
+1x London Evening Star, Tabloid Newspaper
+3x Palla Grande
+1x Rack, The
+1x Retribution
+
+Action (9)
+3x Art Scam
+1x Enchant Kindred
+2x Patronage
+1x Public Trust
+2x Sanguine Instruction
+
+Equipment (10)
+6x .44 Magnum
+1x Bowl of Convergence
+1x Desert Eagle
+1x Drum of Xipe Totec
+1x Palatial Estate
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (23)
+2x Eagle's Sight
+2x Forced Awakening
+1x My Enemy's Enemy
+3x Quicken Sight
+3x Spirit's Touch
+2x Telepathic Counter
+4x Telepathic Misdirection
+6x Wake with Evening's Freshness
+
+Combat (25)
+3x Blur
+3x Concealed Weapon
+5x Flash
+4x Majesty
+2x Projectile
+4x Pursuit
+2x Side Strike
+2x Sideslip

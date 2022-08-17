@@ -1,0 +1,71 @@
+English ECQ
+Burton-on-Trent, England
+May 12th 2007
+33 players
+Robert Thompson
+
+Deck: For Gypsy Queen & Country.
+Fairly toolboxy Ravnos deck, the three deflections were enough to
+bring about survival long enough in the final to take the only VP.
+
+Crypt (12 cards, min=11, max=32, avg=5.5)
+-----------------------------------------
+4x Gabrin			8   ANI CHI dom for	Ravnos:2
+1x Joaquina Amaya		6   ANI CHI FOR		Ravnos:2
+1x Sarisha Veliku		6   ANI FOR chi dom	Ravnos:2
+1x Vaclav Petalengro		6   ANI CHI for pot	Ravnos:2
+1x Khalil Ravana		5   CHI ani for pre	Ravnos:2
+1x Salbatore Bokkengro		4   CHI for pro		Ravnos:2
+1x Vedel Esbreno		3   chi for		Ravnos:2
+1x Sasha Miklos			2   chi			Ravnos:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+
+Library (90 cards)
+Master (18)
+5x Blood Doll
+4x Chimerstry
+3x Dreams of the Sphinx
+1x Park Hunting Ground
+3x Path of Paradox, The
+2x Week of Nightmares
+
+Action (18)
+3x Computer Hacking
+1x Fleecing the Gaje
+6x Sensory Deprivation
+2x Tier of Souls
+6x Tumnimos
+
+Action/Reaction (3)
+3x Draba
+
+Ally (4)
+4x Procurer
+
+Equipment (2)
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Retainer (4)
+2x Fortune Teller
+2x Raven Spy
+
+Action Modifier (8)
+8x Fata Morgana
+
+Action Modifier/Combat (12)
+8x Mirror Image
+4x Occlusion
+
+Reaction (11)
+3x Deflection
+2x Delaying Tactics
+2x Guard Dogs
+2x Rat's Warning
+2x Wake with Evening's Freshness
+
+Combat (10)
+4x Aid from Bats
+2x Canine Horde
+2x Rolling with the Punches
+2x Skin of Steel

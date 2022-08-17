@@ -1,0 +1,98 @@
+Powerbase: Palma
+Palma de Mallorca, Spain
+June 26th 2004
+13 players
+Tom Madico
+
+Deck Name: the Trickstars
+
+Judge: Ginés Quiñonero (Damnans)
+
+Description: This deck was inspired by not a few comments on this newsgroup
+about how anthelios can be abused. Decided to build and paly this deck on
+saturday at friday's evening, and built it at 6 in the morning once I
+arrived home after a few drinks with some friends. Some cards were missing,
+somehow I lost the Art of Love and not a few events should go in, but I
+wanted to play it in order to see if, for one time, the theory matches
+reality. Will rewrite it this week, as definitely some form of permanent
+bleed is necessary.
+
+the point is: with anthelios in play, you can add casual but definitive
+master cards that won't be needed each game but that will be a nice addition
+in an attrition deck like this. Cards that forgot to include (but obviously
+are a must) are Cultivated blood shortage, a sudden, a direct intervention
+and vox domini, and obviously downgrade the number of card to 75. Some other
+events are to go in, like the slow withering and blood weakens, just to
+increase the effect of Wormwood.
+
+Crypt (13 cards, min=20, max=30, avg=6.08)
+------------------------------------------
+3x Hesha Ruhadze	  6   SER ani obf pre	   Follower of Set:2
+2x Pochtli		  8   NEC OBF POT cel dom  Giovanni:2
+2x Sarrasine		  7   OBF PRE aus nec ser  Follower of Set:2
+2x Cristos Mantigo	  5   aus cel dom obf pre  Toreador antitribu:3
+1x Samat Ramal-Ra, Archon 6   OBF pre ser tha	   Follower of Set:2
+1x Catherine du Bois	  5   DOM for obf pre	   Ventrue:3
+1x Count Ormonde	  5   OBF dom pre ser	   Follower of Set:2
+1x Dedefra		  5   SER nec obf	   Follower of Set:2
+
+Library (85 cards)
+Master (32; 9 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Archon Investigation
+7x Blood Doll
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Fortschritt Library
+8x Galaric's Legacy
+1x Gambit Accepted
+1x Hospital Food
+1x Khobar Towers, Al-Khubar
+1x Life in the City
+1x Minion Tap
+1x Momentum's Edge
+1x Opium Den
+2x Parthenon, The
+1x Society of Leopold
+1x Vampiric Disease
+
+Action (17)
+2x Form of Corruption
+2x Gear Up
+6x Principia Discordia
+2x Reformation
+5x Temptation
+
+Ally (1)
+1x Amam the Devourer
+
+Equipment (5)
+1x Aaron's Feeding Razor
+1x Sargon Fragment, The
+1x Seal of Veddartha
+1x Tapestry of Blood
+1x Unlicensed Taxicab
+
+Action Modifier (12)
+2x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+2x Lost in Crowds
+2x Smoke and Mirrors
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (9)
+5x Deflection
+4x Wake with Evening's Freshness
+
+Combat (4)
+2x Gemini's Mirror
+2x Majesty
+
+Event (3)
+2x Anthelios, The Red Star
+1x Wormwood

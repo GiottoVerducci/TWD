@@ -1,0 +1,68 @@
+IV Campeonato Capixaba de V:tES
+Vitória, Brazil
+September 15th 2007
+3R+F
+10 players
+Thyelles Yoshitomi
+
+Deck Name: Chuck de bigode sinistro (Sinister Chuck with mustache)
+
+Crypt (13 cards, min=16, max=34, avg=6.46)
+------------------------------------------
+3x Meshenka	    8	ANI AUS VIC		priscus	  Tzimisce:2
+3x Dragos	    7	ANI AUS vic			  Tzimisce:2
+1x Lambach	    10	ANI AUS DOM VIC pre	cardinal  Tzimisce:2
+1x Kazimir Savostin 7	AUS VIC ani pot			  Tzimisce:3
+1x Caliban	    6	ANI AUS VIC			  Tzimisce:2
+1x Ana Rita Montaña 5	VIC aus dom obf			  Tzimisce:3
+1x Devin Bisley	    5	ANI AUS vic			  Tzimisce:2
+1x Lolita Houston   4	VIC aus				  Tzimisce:2
+1x Horatio	    2	vic				  Tzimisce:2
+
+Library (90 cards)
+Master (12)
+5x Blood Doll
+1x Blood Puppy
+1x Club Zombie
+1x Library Hunting Ground
+1x Powerbase: Barranquilla
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Vicissitude
+
+Action (5)
+1x Army of Rats
+4x Fiendish Tongue
+
+Ally (2)
+2x War Ghoul
+
+Equipment (2)
+1x Living Manse
+1x Local 1111
+
+Retainer (6)
+2x Corpse Balloon
+4x Revenant
+
+Action Modifier (4)
+4x Changeling
+
+Reaction (34)
+3x Cats' Guidance
+4x Eagle's Sight
+3x Enhanced Senses
+10x Forced Awakening
+3x My Enemy's Enemy
+3x Precognition
+2x Read the Winds
+3x Spirit's Touch
+3x Telepathic Misdirection
+
+Combat (25)
+3x Breath of the Dragon
+5x Chiropteran Marauder
+2x Fake Out
+1x High Ground
+7x Horrid Form
+7x Starvation of Marena

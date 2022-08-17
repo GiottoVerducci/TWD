@@ -1,0 +1,62 @@
+Zombies overrun Edmonton
+Edmonton, Alberta
+February 26th 2006
+2R+F
+15 players
+Lee Zinnick
+
+Deck Name: Time to pull out the Zombie Survival Handbook!!!
+
+Crypt (12 cards, min=14, max=28, avg=5.67)
+------------------------------------------
+4x Andrea Giovanni	7   DOM NEC pot vic	Giovanni:2
+3x Carlotta Giovanni	7   NEC POT dom obf	Giovanni:2
+2x Gloria Giovanni	4   DOM nec		Giovanni:2
+1x Isabel Giovanni	5   DOM NEC pot		Giovanni:2
+1x Lia Milliner		3   dom nec		Giovanni:3
+1x Rudolfo Giovanni	3   NEC			Giovanni:2
+
+Library (90 cards)
+Master (19)
+4x Blood Doll
+2x Charisma
+2x Fame
+1x Fragment of the Book of Nod
+1x KRCG News Radio
+2x Memories of Mortality
+1x Morgue Hunting Ground
+2x Path of Bone, The
+3x Perfectionist
+1x Secure Haven
+
+Action (7)
+5x Govern the Unaligned
+2x Graverobbing
+
+Ally (17)
+3x Procurer
+14x Shambling Hordes
+
+Retainer (2)
+2x Giuseppe, Gravedigger
+
+Action Modifier (15)
+5x Call of the Hungry Dead
+2x Conditioning
+4x Foreshadowing Destruction
+4x Seduction
+
+Reaction (11)
+6x Deflection
+2x Poison Pill
+3x Wake with Evening's Freshness
+
+Combat (18)
+3x Dodge
+5x Fake Out
+2x Pulled Fangs
+5x Spiritual Intervention
+3x Trap
+
+Event (1)
+1x Unmasking, The

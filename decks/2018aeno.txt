@@ -1,0 +1,81 @@
+Ancilla Empowerment
+Newark, Ohio
+May 20th 2018
+2R+F
+15 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/8886
+
+-- 1GW4 + 3VP in final
+
+Deck Name: Dream a Little Dream
+
+Description: A Sabbat variant of my 'Vitel and Friends' deck.
+
+This deck was played in an environment that almost never sees Ashur Tablets.
+The goal is to have a complete set of Ashur Tablets by the mid-game, but the
+second set (each coming with less than 3 cards left in my library) proved key
+to each game win that I earned. My intent was mostly to recycle Dreams of the
+Sphinx, Dream World, and stealth, which happened for the first set. The second
+sets were all stealth as the environment had more intercept than I expected.
+
+Sunset Strip, Hollywood was key to my Blood Doll farming in game two, but all
+my Dolls were Vesseled away in the finals. I managed to have vote lock or with
+Powerbase: Madrid enough votes to pass my Con Boons whenever I wanted them. In
+the finals I had 14 minions. With the plus-bleed from Dream World, I managed to
+get Procurers in on the bleed action, too, which is one reason I use them over
+other tech.
+
+Crypt (12 cards, min=9, max=34, avg=5.25)
+-----------------------------------------
+3x Alicia Barrows	 9   AUS DEM OBF POT PRE  archbishop	Malkavian antitribu:4
+2x Stavros		 7   AUS OBF PRE dem	  priscus	Malkavian antitribu:4
+2x Fabrizia Contreraz	 4   dem pot		  archbishop	Malkavian antitribu:4
+1x General Perfidio Díos 5   AUS dem obf	  bishop	Malkavian antitribu:3
+1x Blister		 3   obf pot		  		Nosferatu antitribu:4
+1x Bloodfeud		 2   obf		  		Malkavian antitribu:4
+1x Denette Stensen	 2   obf		  		Gangrel antitribu:4
+1x Old Neddacka		 2   obf		  		Nosferatu antitribu:4
+
+Library (75 cards)
+Master (23)
+6x Ashur Tablets
+5x Blood Doll
+3x Dreams of the Sphinx
+1x Hungry Coyote, The
+5x Obfuscate
+1x Pentex(TM) Subversion
+1x Powerbase: Madrid
+1x Sunset Strip, Hollywood
+
+Action (10)
+7x Creation Rites
+3x Dream World
+
+Ally (7)
+1x Mylan Horseed
+6x Procurer
+
+Political Action (3)
+3x Consanguineous Boon
+
+Action Modifier (16)
+3x Cloak the Gathering
+2x Domain of Evernight
+2x Elder Impersonation
+2x Faceless Night
+2x Lost in Crowds
+2x Spying Mission
+3x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Gift of Sleep
+
+Reaction (12)
+3x Eyes of Argus
+2x My Enemy's Enemy
+3x On the Qui Vive
+4x Telepathic Misdirection

@@ -1,0 +1,61 @@
+Hungarian ECQ
+Budapest, Hungary
+May 26th 2012
+3R+F
+45 players
+Goran Ivanovic
+
+Deck Name: Out of Africa
+Created by: Milos Krstic
+
+Description: Standard Fakir/Matata deck with a lot of wakes.
+
+Crypt (12 cards, min=18, max=42, avg=7.75)
+------------------------------------------
+3x Fakir al Sidi  11  ANI FOR PRE PRO THA abo		Gangrel:4
+3x Matata	  9   ABO ANI FOR aus cel obf		Akunanse:3
+1x Amavi	  8   ABO ANI FOR pre pro		Akunanse:4
+1x Uchenna	  7   ABO ANI FOR		magaji	Akunanse:4
+1x Jubal	  6   ABO ANI for pot			Akunanse:4
+1x Socrate Cidibe 5   ABO FOR ani			Akunanse:4
+1x Nestor Kaba	  4   abo ani for			Akunanse:4
+1x Dolie	  3   abo ani				Akunanse:4
+
+Library (90 cards)
+Master (20; 8 trifle)
+2x Abombwe
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Lilith's Blessing
+2x Mapatano Utando
+1x Mbare Market, Harare
+1x Pentex(TM) Subversion
+1x Powerbase: Luanda
+1x Powerbase: Montreal
+1x Rack, The
+5x Villein
+1x Wider View
+
+Action (10)
+10x Deep Song
+
+Retainer (5)
+5x Raven Spy
+
+Action Modifier (4)
+4x Freak Drive
+
+Reaction (18)
+4x Cats' Guidance
+2x On the Qui Vive
+8x Predator's Communion
+4x Sense the Savage Way
+
+Combat (33)
+2x Canine Horde
+8x Carrion Crows
+6x Hidden Strength
+9x Invoking the Beast
+6x Taste of Vitae
+2x Terror Frenzy

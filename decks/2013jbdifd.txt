@@ -1,0 +1,80 @@
+Jann Berger's "D" is for Decapitate
+Orccon 2013, Los Angeles, California
+February 17th 2013
+2R+F
+15 players
+Aaron Clark
+
+Deck Name: Angelica Ascendant
+
+Description: It won a tournament, but can it win a game?
+Angelica's special means that Ascendances can be used for
+intercept as well as pool gain. She gets Eternal Vigilance
+and a .44 Magnum and blocks. Anson provides support, cycling
+masters faster and providing Angelica with blood from the
+Fifth Tradition. Fish for weenies, stealth bleed or bruise
+bleed for the VP.
+
+I felt perpetually short on bleed during the tournament,
+and after having written out the decklist, I see that I
+had fewer bleed cards than I thought. At minimum, one
+Shroud of Night should be switched for a Threats. One of
+the Ascendances probably should be changed to a Pentex
+Subversion for contesting or lunging, but Pentex is less
+prevalent in L.A. than in other places.
+
+Crypt (12 cards, min=7, max=40, avg=6.58)
+-----------------------------------------
+4x Angelica, The Canonicus 10  DOM OBT POT cel obf  cardinal	Lasombra:2
+4x Anson		   8   CEL PRE aus dom	    prince	Toreador:1
+1x Mustafa Rahman	   2   dom		    		Tremere:2
+1x Ohanna		   2   dom		    		Malkavian:2
+1x Samson		   2   dom		    		Ventrue antitribu:2
+1x Royce		   1   dom		    		Pander:2
+
+Library (90 cards)
+Master (32)
+21x Ascendance
+1x Barrens, The
+1x Celerity
+1x Dominate
+1x Effective Management
+1x Giant's Blood
+2x Information Highway
+2x Minion Tap
+2x Obtenebration
+
+Action (12)
+5x Eternal Vigilance
+3x Fifth Tradition: Hospitality
+2x Govern the Unaligned
+2x Scouting Mission
+
+Equipment (5)
+5x .44 Magnum
+
+Political Action (2)
+1x Banishment
+1x Parity Shift
+
+Action Modifier (17)
+1x Alacrity
+1x Blanket of Night
+1x Faceless Night
+1x Lost in Crowds
+4x Shadow Play
+1x Shroud of Absence
+4x Shroud of Night
+4x Threats
+
+Reaction (16)
+4x Deflection
+6x Obedience
+2x Redirection
+4x Wake with Evening's Freshness
+
+Combat (6)
+1x Concealed Weapon
+2x Flash
+1x Pursuit
+2x Side Strike

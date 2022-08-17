@@ -1,0 +1,47 @@
+The Sixth Tradition: Destruction
+São Paulo, Brazil
+October 14th 2012
+3R+F
+10 players
+Ricardo Molina Sobreira
+
+Deck Name: Tremere
+
+Crypt (12 cards, min=29, max=38, avg=8.25)
+------------------------------------------
+3x Lucas Halton			10  AUS CEL DOM THA qui	 prince	   Tremere:3
+3x Anastasz di Zagreb		8   AUS THA ani cel dom	 justicar  Tremere:3
+3x Troius			8   AUS DOM THA cel	 prince	   Tremere:4
+3x Carna, The Princess Witch	7   AUS DOM THA		 primogen  Tremere:3
+
+Library (90 cards)
+Master (15; 4 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+3x Celerity
+1x Direct Intervention
+4x Minion Tap
+1x Rack, The
+4x Vessel
+
+Action Modifier (4)
+4x Threats
+
+Reaction (34)
+6x Deflection
+2x Eagle's Sight
+4x Enhanced Senses
+2x Eyes of Argus
+4x Forced Awakening
+2x On the Qui Vive
+4x Quicken Sight
+4x Second Tradition: Domain
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (37)
+10x Apportation
+6x Blur
+4x Flames of the Netherworld
+12x Theft of Vitae
+5x Thoughts Betrayed

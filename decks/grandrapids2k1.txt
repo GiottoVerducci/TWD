@@ -1,0 +1,61 @@
+Grand Rapids Michigan
+Michigan
+September 29th 2001
+Aaron Steele
+
+Deck Name: 'What I learned at the National Championship'...
+
+or 'Yes I can block every action'
+
+Play anarch revolt. Block all actions that damage anyone, you want to
+make sure that the anarch's do their damage in order so everyone is
+ousted in sequence. Always bring out Anneke for her built in eagle
+sight, then 2nd tradition/obedience everyone. Also 1st tradition so
+people have to pay even more to take a turn..you don't need them just
+block. Minion tap/5th tradition for pool gain.
+
+Deck idea came from my first round at the nationals where Bernie B.
+was playing his ultra sucky "All 6 traditions" deck. The 1st
+tradition he played combined with someone elses anarch revolt killed
+everyone on the table. Usually makes for a fast game, you kill or die
+quickly.
+
+Crypt (12 cards, min=38, max=40, avg=9.83)
+------------------------------------------
+6x Anneke		  10  AUS CEL PRE dom		justicar  Toreador:1
+4x Ulugh Beg, The Watcher 10  AUS DOM THA cel for pot	justicar  Tremere:1
+1x Lucian		  10  AUS DOM OBF cel tha	justicar  Malkavian:1
+1x Anson		  8   CEL PRE aus dom		prince	  Toreador:1
+
+Library (90 cards)
+Master (20)
+9x Anarch Revolt
+1x Antediluvian Awakening
+1x Dominate
+2x Fortitude
+4x Minion Tap
+2x Parthenon, The
+1x Zillah's Valley
+
+Action (10)
+5x Cat Burglary
+4x Fifth Tradition: Hospitality
+1x Judgment: Camarilla Segregation
+
+Political Action (6)
+6x First Tradition: The Masquerade
+
+Action Modifier (7)
+2x Alacrity
+3x Freak Drive
+2x Telepathic Vote Counting
+
+Reaction (46)
+6x Eagle's Sight
+16x Obedience
+15x Second Tradition: Domain
+5x Telepathic Misdirection
+4x Wake with Evening's Freshness
+
+Combat (1)
+1x Catatonic Fear

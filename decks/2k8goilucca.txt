@@ -1,0 +1,68 @@
+Games of Instinct
+Lucca, Italy
+November 2nd 2008
+14 players
+Emiliano Arnotti
+
+Winner: Emiliano Arnotti
+Winner Deck Name: Henry ti presento Jennie
+Description: Henry Taylor recursion deck (Imbued variant)
+
+Crypt (12 cards, min=16, max=24, avg=5.08)
+------------------------------------------
+5x Henry Taylor			6   POT cel pre pro	Brujah antitribu:3
+4x Jennie "Cassie247" Orne	5   inn jud viz		Visionary:4
+1x Jack "Hannibal137" Harmon	4   def jud		Defender:4
+1x Paul "Sixofswords29" Moreton	4   def vis		Visionary:4
+1x François "Warden" Loehr	3   def jud		Judge:4
+
+Library (61 cards)
+Master (22; 5 trifle)
+1x Amusement Park Hunting Ground
+1x Angel of Berlin
+1x Barrens, The
+1x Direct Intervention
+1x Gang Territory
+1x Guardian Angel
+1x Pentex(TM) Subversion
+3x Protean
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Sudden Reversal
+2x Unity
+3x Vessel
+2x Wash
+1x Waste Management Operation
+
+Conviction (16)
+6x React with Conviction
+5x Second Sight
+5x Strike with Conviction
+
+Action (2)
+1x Abbot
+1x Aranthebes, The Immortal
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sport Bike
+
+Power (4)
+1x Champion
+3x Vigilance
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (1)
+1x Earth Control
+
+Reaction (7)
+4x Determine
+3x On the Qui Vive
+
+Combat (5)
+5x Earth Meld
+
+Event (1)
+1x Nightmares upon Nightmares

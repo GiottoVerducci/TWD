@@ -1,0 +1,66 @@
+HNC Round
+Nagymaros, Hungary
+March 12th 2011
+3R+F
+24 players
+Csaba Greguss
+
+Deck Name: The Geisha
+
+Crypt (12 cards, min=16, max=40, avg=7)
+---------------------------------------
+5x Thucimia		10  CEL DEM OBF QUI for pro	1 vote	Assamite:4
+2x Hafsa, The Watcher	6   OBF QUI aus cel			Assamite:5
+2x Vardar Vardarian	6   OBF QUI cel pre			Assamite:4
+2x Kamau Jafari		4   QUI obf				Assamite:4
+1x Alu			2   obf					Assamite:5
+
+Library (75 cards)
+Master (14; 5 trifle)
+2x Direct Intervention
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Secure Haven
+3x Villein
+2x Wash
+1x Yoruba Shrine
+
+Action (14)
+4x Haqim's Law: Leadership
+2x Khabar: Glory
+8x Loss
+
+Ally (1)
+1x Mylan Horseed
+
+Retainer (3)
+2x Homunculus
+1x Malajit Chandramouli
+
+Action Modifier (27)
+2x Cloak the Gathering
+3x Deed the Heart's Desire
+2x Elder Impersonation
+3x Enkil Cog
+5x Eyes of Chaos
+2x Faceless Night
+5x Forced March
+3x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Touch of Clarity
+
+Reaction (7)
+3x Black Sunrise
+1x Confusion of the Eye
+1x Delaying Tactics
+2x Nest of Eagles
+
+Combat (5)
+5x No Trace

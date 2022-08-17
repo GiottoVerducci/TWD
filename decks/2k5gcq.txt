@@ -1,0 +1,66 @@
+German ECQ
+Bochum, Germany
+April 30th 2005
+51 players
+Andreas Nusser
+
+Deck Name: Tempting
+
+Crypt (12 cards, min=14, max=28, avg=5.25)
+------------------------------------------
+2x Kephamos, High Priest of Marrakech	8   SER dom obf pre	2 votes	 Follower of Set:2
+2x Hesha Ruhadze			6   SER ani obf pre		 Follower of Set:2
+2x Count Ormonde			5   OBF dom pre ser		 Follower of Set:2
+1x Ezekiel, Lord of Montreal		6   PRE SER obf pot		 Follower of Set:3
+1x Sir Marriot D'Urban			5   PRE aus obf ser		 Follower of Set:2
+1x Hadrian Garrick			4   obf pre			 Follower of Set:2
+1x Nepata				4   obf pre ser			 Follower of Set:2
+1x Celine Chevalier			3   obf ser			 Follower of Set:2
+1x Khalil Anvari			3   pre ser			 Follower of Set:2
+
+Library (90 cards)
+Master (18)
+2x Archon Investigation
+4x Blood Doll
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Khobar Towers, Al-Khubar
+2x Opium Den
+1x Path of Typhon, The
+2x Serpentis
+1x Sudden Reversal
+
+Action (29)
+1x Arson
+2x Enchant Kindred
+4x Enticement
+2x Entrancement
+3x Form of Corruption
+3x Rave
+1x Social Charm
+13x Temptation
+
+Equipment (1)
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (12)
+4x Cloak the Gathering
+1x Faceless Night
+4x Forgotten Labyrinth
+3x Lost in Crowds
+
+Action Modifier/Combat (8)
+5x Form of the Serpent
+3x Swallowed by the Night
+
+Reaction (12)
+5x Deflection
+1x Delaying Tactics
+6x Wake with Evening's Freshness
+
+Combat (9)
+9x Majesty

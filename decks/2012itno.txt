@@ -1,0 +1,81 @@
+Improvised Tactics
+Newark, Ohio
+June 12th 2012
+2R+F
+10 players
+John Bell
+
+Deck Name: Una + 1's
+
+Description: Pretty standard Una with 1 cap support for
+bleeds or Pentex removal. I threw the deck together at the
+last minute so it was missing a lot of cards I intended to
+have like Winthrop, and some other equipment, but it's still
+a silly strong deck.
+
+Crypt (12 cards, min=4, max=36, avg=5)
+--------------------------------------
+6x Una			9   ANI FOR PRE PRO dem	 archbishop	Gangrel antitribu:3
+2x Anarch Convert	1   -none-		 		Caitiff:ANY
+1x Antoinette DuChamp	1   cel pre		 		Caitiff:2
+1x Franciscus		1   aus			 		Caitiff:2
+1x Nedal, The Careless	1   cel nec		 		Caitiff:3
+1x Sandra White		1   -none-		 		Caitiff:3
+
+Library (81 cards)
+Master (5; 1 trifle)
+1x Blood Doll
+1x Direct Intervention
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Villein
+
+Action (20)
+1x Abbot
+1x Ambush
+1x Big Game
+1x Blessing of Chaos
+1x Bum's Rush
+1x Covenant of Blood
+1x Creation Rites
+1x Deep Song
+1x Embrace, The
+1x Eternal Vigilance
+1x Games of Instinct
+1x Harass
+1x Heart of the City
+1x Mantle of the Bestial Majesty
+1x Repair the Undead Flesh
+1x Rumble
+1x Sense Death
+1x Shadow of the Beast
+1x Taunt the Caged Beast
+1x War Party
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (10)
+1x Aaron's Feeding Razor
+1x AK-47
+1x Blade of Enoch
+1x Blood Tears of Kephran
+1x Eye of Hazimel
+1x Hawg
+1x IR Goggles
+1x Ivory Bow
+1x Kevlar Vest
+1x Leather Jacket
+
+Political Action (2)
+1x Scourge
+1x Templar
+
+Retainer (1)
+1x Owl Companion
+
+Action Modifier (40)
+40x Freak Drive
+
+Combat (2)
+2x Hidden Strength

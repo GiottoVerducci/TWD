@@ -1,0 +1,54 @@
+Web of Knives Recruit II
+Juiz de Fora, Brazil
+July 19th 2011
+3R+F
+19 players
+Flavio Valente
+
+-- 3VP in final
+
+Deck Name: Akunanse No Secrets From the Magaji
+
+Crypt (12 cards, min=29, max=36, avg=8.25)
+------------------------------------------
+3x Matata	  9   ABO ANI FOR aus cel obf		Akunanse:3
+3x Umdava	  9   ABO ANI FOR PRE vic	magaji	Akunanse:4
+3x Uchenna	  7   ABO ANI FOR		magaji	Akunanse:4
+2x Nkule Galadima 8   ABO FOR ani aus pre	magaji	Akunanse:4
+1x Amavi	  8   ABO ANI FOR pre pro		Akunanse:4
+
+Library (90 cards)
+Master (13; 2 trifle)
+1x Archon Investigation
+2x Blood Doll
+1x Direct Intervention
+2x Mbare Market, Harare
+1x Powerbase: Luanda
+1x Powerbase: Montreal
+2x Rack, The
+1x Smiling Jack, The Anarch
+2x Vessel
+
+Action (15)
+4x Deep Song
+8x No Secrets From the Magaji
+3x Taunt the Caged Beast
+
+Retainer (5)
+4x Raven Spy
+1x Shaman
+
+Reaction (8)
+4x Predator's Communion
+4x Sense the Savage Way
+
+Combat (49)
+8x Carrion Crows
+5x Devil-Channel: Back
+6x Devil-Channel: Hands
+5x Drawing Out the Beast
+5x Hidden Strength
+7x Invoking the Beast
+7x Rolling with the Punches
+2x Terror Frenzy
+4x Unflinching Persistence

@@ -1,0 +1,69 @@
+The Unmasking
+Seekonk, Massachusetts
+January 2nd 2005
+26 players
+Ben Peal
+
+Deck Name: Buckets o' Money
+
+Description: Basically a Group 3-4 Ventrue version of the Lasombra
+Creation Boon deck, using 3rd Trads instead of Creation Rites and
+Ventrue Headquarters instead of Power Structure. Marcus Vitel's
+retainer-burning ability was invaluable in the tournament. This
+is now the second tournament I've won with a deck that was the
+result of a conversation with Sten During (the previous deck was
+Pochtli Twister).
+
+Buckets o' Money
+
+Crypt (12 cards, min=14, max=40, avg=6.92)
+------------------------------------------
+3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar  Ventrue:3
+3x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince	  Ventrue:3
+1x Catherine du Bois	5   DOM for obf pre			  Ventrue:3
+1x Earl			4   dom for pot				  Ventrue:3
+1x Elena Gutierrez	4   aus dom pre				  Ventrue:3
+1x Robin Withers	4   dom obf pre				  Ventrue:4
+1x Diana Vick		3   dom pre				  Ventrue:3
+1x Lana Butcher		3   dom for				  Ventrue:3
+
+Library (90 cards)
+Master (23)
+1x Barrens, The
+4x Blood Doll
+1x Information Highway
+1x KRCG News Radio
+6x Obfuscate
+1x Paragon
+1x Secure Haven
+2x Sudden Reversal
+1x Uptown Hunting Ground
+4x Ventrue Headquarters
+1x Zillah's Valley
+
+Action (13)
+4x Govern the Unaligned
+1x Psychic Veil
+8x Third Tradition: Progeny
+
+Political Action (12)
+6x Consanguineous Boon
+4x Kine Resources Contested
+1x Praxis Seizure: Cairo
+1x Praxis Seizure: Geneva
+
+Action Modifier (22)
+3x Bewitching Oration
+4x Cloak the Gathering
+1x Elder Impersonation
+4x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (16)
+8x Deflection
+8x Wake with Evening's Freshness

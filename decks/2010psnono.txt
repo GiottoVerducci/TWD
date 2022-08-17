@@ -1,0 +1,65 @@
+Praxis Seizure: New Orleans
+Columbus, Ohio
+September 19th 2010
+2R+F
+10 players
+Mark Loughman
+
+-- 3VP in final
+
+Deck Name: Garden of Nocturns
+
+Crypt (12 cards, min=17, max=24, avg=5.25)
+------------------------------------------
+2x Virginie, Prodigy	    6	DOM POT obt	 bishop	 Lasombra:4
+1x Black Wallace	    6	DOM POT obt tha	 	 Lasombra:4
+1x Isanwayen		    6	DOM MYT OBT	 	 Kiasyd:4
+1x Onaedo		    6	DOM OBT aus pot	 	 Lasombra:4
+1x Otieno		    6	OBT POT ani dom	 	 Lasombra:4
+1x Andrew Emory		    5	OBT aus dom pot	 bishop	 Lasombra:4
+1x Banjoko		    5	DOM obt pot	 	 Lasombra:3
+1x Dr. Julius Sutphen (ADV) 5	POT dom obt	 	 Lasombra:3
+1x Ermenegildo, The Rake    5	DOM OBT pot	 	 Lasombra:4
+1x Leila Monroe		    4	dom obt pre	 	 Lasombra:4
+1x Lucy Markowitz	    3	dom obt		 	 Lasombra:4
+
+Library (88 cards)
+Master (15)
+1x Dark Influences
+3x Dreams of the Sphinx
+1x Elysian Fields
+2x Fame
+1x Jake Washington
+5x Path of Night, The
+2x Perfectionist
+
+Action (18)
+6x Computer Hacking
+7x Govern the Unaligned
+5x Shadow Twin
+
+Ally (16)
+15x Nocturn
+1x Ossian
+
+Action Modifier (15)
+3x Conditioning
+1x Leverage
+4x Shadow Play
+4x Shroud of Night
+1x Tenebrous Form
+2x Threats
+
+Reaction (14)
+6x Deflection
+6x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (7)
+2x Arms of the Abyss
+2x Entombment
+3x Shadow Body
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

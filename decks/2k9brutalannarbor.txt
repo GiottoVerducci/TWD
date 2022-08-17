@@ -1,0 +1,64 @@
+Brutal Influence
+Ann Arbor, Michigan
+September 19th 2009
+2R+F
+14 players
+David Wilson
+
+Deck Name: Eternal Masquers
+
+Description: Transfer out Cybele, get burned, come back with Eternal
+mask, get a skill card, get your soulgem, burn on someone's untap,
+repeat. Just a lot of cheese, but fun to play.
+
+Crypt (12 cards, min=33, max=40, avg=9.42)
+------------------------------------------
+7x Cybele			 10  ANI DAI OBF PRE SER THA		 Baali:4
+1x Nakhthorheb			 10  OBF PRE SER			 Follower of Set:4
+1x Neferu			 9   OBF PRE SER THA dom nec	2 votes	 Follower of Set:4
+1x Pentweret			 9   OBF PRE SER aus for obe		 Follower of Set:5
+1x Sundervere, The Devil Brahmin 8   AUS PRE SER THA obf		 Follower of Set:4
+1x Seren Sukardi		 7   OBF SER THA pre			 Follower of Set:4
+
+Library (90 cards)
+Master (20)
+6x Auspex
+1x Barrens, The
+3x Dreams of the Sphinx
+1x Giant's Blood
+3x Golconda: Inner Peace
+2x Heidelberg Castle, Germany
+1x House of Sorrow
+3x Minion Tap
+
+Action (26)
+2x Blood of Sandman
+4x Call the Great Beast
+2x Entrancement
+7x Eternal Mask, The
+3x Magic of the Smith
+5x Revelations
+3x Rutor's Hand
+
+Equipment (5)
+1x Heart of Nizchetus
+1x Martinelli's Ring
+1x Mokolé Blood
+2x Soul Gem of Etrius
+
+Action Modifier (29)
+5x Cloak the Gathering
+5x Elder Impersonation
+4x Faceless Night
+2x Spying Mission
+10x Truth of a Thousand Lies
+3x Veil the Legions
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Combat (5)
+5x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

@@ -1,0 +1,61 @@
+Origins Saturday - NAC Qualifier
+Columbus, Ohio
+June 26th 2004
+30 players
+Ben Peal
+
+Deck Name: The Thugginator
+
+Description: Aus-Obf weenies, some of which start off as Black Hand
+and some of which use Blooding to become so, getting out a few
+Marijava Thuggees. Bleeding and thugginating ensues.
+
+Crypt (12 cards, min=7, max=22, avg=3.58)
+-----------------------------------------
+2x Colonel, The		  5   AUS cel dem obf	Malkavian antitribu:3
+2x Roger Farnsworth	  4   OBF aus		Malkavian antitribu:3
+1x Ingram Frizer	  6   AUS OBF ani pot	Nosferatu antitribu:3
+1x Quira, The Bitch Queen 6   AUS OBF obt tha	Malkavian antitribu:2
+1x Lena Rowe		  3   aus obf pre	Pander:2
+1x Zöe			  3   AUS cel obf	Malkavian:2
+1x Hanna Redmonds	  2   obf tha		Caitiff:3
+1x Krid			  2   obf		Nosferatu:3
+1x Piotr Andreikov	  2   aus		Tzimisce:3
+1x Basil		  1   obf		Pander:2
+
+Library (90 cards)
+Master (15; 2 trifle)
+1x Admonitions, The
+1x Barrens, The
+5x Blood Doll
+1x Dreams of the Sphinx
+1x Institution Hunting Ground
+2x Into the Fire
+2x Remover
+2x Sudden Reversal
+
+Action (12)
+7x Blooding
+2x Bloodwork
+3x Night Moves
+
+Ally (10)
+10x Marijava Thuggee
+
+Equipment (1)
+1x Saturday-Night Special
+
+Action Modifier (31)
+7x Cloak the Gathering
+4x Domain of Evernight
+5x Faceless Night
+5x Forgotten Labyrinth
+5x Lost in Crowds
+5x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (16)
+8x Telepathic Misdirection
+8x Wake with Evening's Freshness

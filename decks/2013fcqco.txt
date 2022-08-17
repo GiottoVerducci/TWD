@@ -1,0 +1,64 @@
+NAC 2013 - First Chance Qualifier
+Columbus, Ohio
+June 16th 2013
+2R+F
+34 players
+Kym Alishahi
+
+-- 3VP in final
+
+Deck Name: Kym Alishahi's Drace IS The unnamed
+Created by: Drace Zhan
+
+Description: "The deck that made Drace quit VTES"
+
+Crypt (12 cards, min=18, max=40, avg=7.75)
+------------------------------------------
+5x unnamed, The		   10  CEL DAI OBF PRE PRO  		Baali:6
+2x Annazir		   9   DAI OBF POT PRE	    2 votes	Baali:5
+2x Arishat		   6   DAI OBF PRE	    1 vote	Baali:6
+2x Horde, The		   3   dai obf pre	    		Baali:6
+1x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro  		Baali:6
+
+Library (75 cards)
+Master (17; 6 trifle)
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Sudden Reversal
+5x Tend the Flock
+4x Villein
+2x Wider View
+
+Action (18)
+2x Entrancement
+8x Flurry of Action
+2x Heart of the City
+4x Legal Manipulations
+1x Sheepdog
+1x Unleash Hell's Fury
+
+Ally (3)
+1x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (17)
+2x Elder Impersonation
+2x Enkil Cog
+4x Faceless Night
+2x I am Legion
+4x Lost in Crowds
+3x True Love's Face
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Action Modifier/Reaction (7)
+7x Sense the Sin
+
+Combat (8)
+3x Flesh of Marble
+5x Majesty

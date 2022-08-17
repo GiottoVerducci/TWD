@@ -1,0 +1,58 @@
+DragonCon - Elder Intervention
+DragonCon 2003, Atlanta, Georgia
+August 30th 2003
+15 players
+Jim Suh
+
+Deck Name: Setites can kiss my ra
+
+Description: How did this deck win? Luck.
+
+Crypt (12 cards, min=13, max=32, avg=5.5)
+-----------------------------------------
+4x Nadima		8   FOR PRO SER ani aus	 Gangrel:3
+3x Mirembe Kabbada	5   PRO SER ani		 Gangrel:2
+1x Ramona		4   for pro		 Gangrel:2
+1x Ramona (ADV)		4   for pro		 Gangrel:2
+1x Hesha Ruhadze	6   SER ani obf pre	 Follower of Set:2
+1x Chandler Hungerford	3   PRO			 Gangrel:2
+1x Sadie		2   pro			 Gangrel antitribu:2
+
+Library (90 cards)
+Master (13)
+4x Blood Doll
+2x Depravity
+1x Dreams of the Sphinx
+2x Ecoterrorists
+1x Gangrel Revel
+2x Guardian Angel
+1x Zoo Hunting Ground
+
+Action (17)
+2x Bum's Rush
+4x Form of Corruption
+2x Harass
+2x Nose of the Hound
+1x Ritual Challenge
+6x Temptation
+
+Retainer (3)
+3x Raven Spy
+
+Action Modifier (1)
+1x Kiss of Ra, The
+
+Reaction (10)
+8x Forced Awakening
+2x Wake with Evening's Freshness
+
+Combat (46)
+3x Bone Spur
+3x Claws of the Dead
+9x Flesh of Marble
+4x Form of Mist
+4x Gleam of Red Eyes
+10x Skin of the Adder
+4x Taste of Vitae
+4x Trap
+5x Weighted Walking Stick

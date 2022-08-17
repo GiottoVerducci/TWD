@@ -1,0 +1,66 @@
+Muricia's Call
+Castro Valley, California
+March 16th 2003
+10 players
+Ian Lee
+
+Deck Name: Silent Sympathy
+
+Deck Design: Colin Riggs, tweaked & played by Ian Lee
+Description: Use weenies to Honor the Elders many times, swarm bleed with Elders.
+The combat cards need to be tweaked some more.
+
+Crypt (21 cards, min=6, max=44, avg=7.57)
+-----------------------------------------
+2x Anson		8   CEL PRE aus dom		prince		Toreador:1
+1x Alexandra		11  ANI AUS CEL PRE dom		inner circle	Toreador:2
+1x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+1x Etrius		11  AUS DOM OBF THA pro		inner circle	Tremere:2
+1x Gwendolyn		11  CEL FOR POT PRE aus tha	inner circle	Brujah:2
+1x Harrod		11  ANI CEL OBF POT aus pre	inner circle	Nosferatu:2
+1x Leandro		11  AUS OBF PRE cel dom		inner circle	Malkavian:2
+1x Stanislava		11  ANI CEL DOM FOR PRO		inner circle	Gangrel:2
+1x Anneke		10  AUS CEL PRE dom		justicar	Toreador:1
+1x Democritus		10  DOM PRE aus cel for		justicar	Ventrue:1
+1x François Villon	10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Lambach		10  ANI AUS DOM VIC pre		cardinal	Tzimisce:2
+1x Donatien		9   AUS PRE cel pot		cardinal	Toreador antitribu:2
+1x Mariana Gilbert	4   PRE cel					Toreador:1
+1x Violette Prentiss	4   PRE dom					Ventrue:1
+1x Gideon Fontaine	3   PRE						Ventrue:1
+1x Delilah Easton	2   pre						Toreador:1
+1x Frederick the Weak	2   pre						Brujah antitribu:2
+1x Angela Decker	1   pre						Pander:2
+1x Igo the Hungry	1   pre pro					Caitiff:1
+
+Library (90 cards)
+Master (23; 1 trifle)
+1x Archon Investigation
+1x Coven, The
+11x Effective Management
+1x Information Highway
+6x Minion Tap
+3x Storage Annex
+
+Action (3)
+3x Charming Lobby
+
+Political Action (38)
+1x Banishment
+1x Disputed Territory
+2x Dramatic Upheaval
+27x Honor the Elders
+3x Kine Resources Contested
+1x Peace Treaty
+1x Protect Thine Own
+2x Rumors of Gehenna
+
+Action Modifier (17)
+1x Awe
+7x Bewitching Oration
+5x Bribes
+4x Business Pressure
+
+Combat (9)
+4x Majesty
+5x Zip Gun

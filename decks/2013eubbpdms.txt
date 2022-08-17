@@ -1,0 +1,57 @@
+El último bicho bola
+Palma de Mallorca, Spain
+May 5th 2013
+3R+F
+12 players
+Moisés Ferrer Gallegos
+
+Deck Name: Lasombra Nocturns
+
+The second Unmasking should have been replaced either by a
+Bitter and Sweet Story or by The Barrens, but I forgot to do
+it before the tournament.
+
+Crypt (12 cards, min=17, max=29, avg=5.67)
+------------------------------------------
+2x Onaedo		 6   DOM OBT aus pot	  	  Lasombra:4
+2x Ermenegildo, The Rake 5   DOM OBT pot	  	  Lasombra:4
+1x Conrad Adoula	 8   DOM OBT POT ani cel  	  Lasombra:4
+1x Henri Lavenant	 7   DOM OBT pot qui	  	  Lasombra:3
+1x Lord Vauxhall	 7   DOM OBT POT THA	  	  Lasombra:4
+1x Tobias Smith		 7   DOM OBT PRE pot	  	  Lasombra:3
+1x Andrew Emory		 5   OBT aus dom pot	  bishop  Lasombra:4
+1x Banjoko		 5   DOM obt pot	  	  Lasombra:3
+1x Leila Monroe		 4   dom obt pre	  	  Lasombra:4
+1x Lucy Markowitz	 3   dom obt		  	  Lasombra:4
+
+Library (75 cards)
+Master (11; 1 trifle)
+1x Coven, The
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+1x Jake Washington
+4x Path of Night, The
+1x Pentex(TM) Subversion
+
+Action (14)
+14x Govern the Unaligned
+
+Ally (10)
+10x Nocturn
+
+Action Modifier (24)
+4x Blanket of Night
+4x Bonding
+6x Conditioning
+2x Foreshadowing Destruction
+4x Shadow Play
+4x Shroud of Absence
+
+Reaction (14)
+6x Deflection
+2x Delaying Tactics
+6x On the Qui Vive
+
+Event (2)
+2x Unmasking, The

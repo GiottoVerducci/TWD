@@ -1,0 +1,68 @@
+Brazilian NC 2011
+Rio de Janeiro, Brazil
+June 24th 2011
+26 players
+Fernanda Nunes
+
+-- 3VP in final
+
+Deck Name: Mono Presence
+Created by: Fernanda Nunes and Desso Alastor
+
+Crypt (14 cards, min=6, max=25, avg=3.57)
+-----------------------------------------
+1x Sir Walter Nash			7   DOM FOR PRE		prince	Ventrue:1
+1x Timothy Crowley			7   FOR PRE ani dom	prince	Ventrue:1
+1x Rake					6   PRE aus cel pot	prince	Brujah:1
+1x Jazz Wentworth			5   PRE dom for			Ventrue:1
+1x Mariana Gilbert			4   PRE cel			Toreador:1
+1x Violette Prentiss			4   PRE dom			Ventrue:1
+1x Gideon Fontaine			3   PRE				Ventrue:1
+1x Itzahk Levine			3   cel pre			Ventrue:2
+1x Uma Hatch				3   cel pre			Brujah:1
+1x Delilah Easton			2   pre				Toreador:1
+1x Frederick the Weak			2   pre				Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez	2   pre				Brujah:2
+1x Antoinette DuChamp			1   cel pre			Caitiff:2
+1x Igo the Hungry			1   pre pro			Caitiff:1
+
+Library (90 cards)
+Master (17)
+1x Anarch Troublemaker
+2x Archon Investigation
+1x Creepshow Casino
+5x Effective Management
+2x Information Highway
+2x Misdirection
+3x Tribute to the Master
+1x Ventrue Headquarters
+
+Action (7)
+4x Enchant Kindred
+3x Entrancement
+
+Political Action (35)
+1x Autarkis Persecution
+1x First Tradition: The Masquerade
+1x Justicar Retribution
+20x Kine Resources Contested
+3x Political Flux
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: Dublin
+1x Praxis Seizure: Houston
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Paris
+1x Praxis Seizure: Rome
+
+Action Modifier (25)
+4x Awe
+7x Bewitching Oration
+5x Change of Target
+9x Voter Captivation
+
+Combat (6)
+3x Majesty
+3x Staredown

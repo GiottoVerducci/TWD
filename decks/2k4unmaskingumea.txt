@@ -1,0 +1,64 @@
+The Unmasking
+Umea, Sweden
+June 20th 2004
+12 players
+Erik Torstensson
+
+Deck Name: Alea jacta est
+
+Crypt (13 cards, min=10, max=32, avg=5.69)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom	prince	 Toreador:1
+2x Egothha			7   AUS FOR NEC obf		 Harbinger of Skulls:2
+2x Gisela Harden, The Winnower	7   FOR NEC aus dem	priscus	 Harbinger of Skulls:2
+1x Dorian Strack		4   AUS cel			 Toreador:1
+1x Mariana Gilbert		4   PRE cel			 Toreador:1
+1x Delilah Easton		2   pre				 Toreador:1
+1x Dieter Kleist		2   aus				 Toreador:1
+1x Frederick the Weak		2   pre				 Brujah antitribu:2
+
+Library (90 cards)
+Master (60)
+1x Archon Investigation
+1x Art Museum
+3x Brothers Grimm
+1x Direct Intervention
+4x Dominate
+1x Dreams of the Sphinx
+1x Dummy Corporation
+1x Fortschritt Library
+1x Giant's Blood
+3x Golconda: Inner Peace
+1x Jake Washington
+1x Lazarene Inquisitor
+1x Lupine Assault
+1x Millicent Smith, Puritan Vampire Hunter
+7x Minion Tap
+3x Parthenon, The
+1x Protected Resources
+1x Recruitment
+1x Secret Passage
+1x Secure Haven
+11x Slaughterhouse, The
+1x Specialization
+7x Storage Annex
+1x Sudden Reversal
+4x Toreador Grand Ball
+1x Waste Management Operation
+
+Action (3)
+3x Revelations
+
+Political Action (3)
+3x Brinksmanship
+
+Action Modifier (4)
+4x Awe
+
+Reaction (17)
+8x Obedience
+9x Telepathic Counter
+
+Event (3)
+1x Absimiliard's Army
+2x Anthelios, The Red Star

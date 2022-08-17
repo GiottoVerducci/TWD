@@ -1,0 +1,71 @@
+Québec NCQ
+Quebec City, Quebec
+September 11th 2005
+3R+F
+20 players
+François Nadeau-Labrecque
+
+Deck Name: Lazveristar
+
+Description: Based on the deck by Ben Swainbank, Laz-man standing.
+Ignazio helped me get 1GW, 3VP in the first round but never showed
+up again during the tournament. The Eye of Hazimel saved me in the
+second round from a weenie Obfuscate predator that nearly ousted me!
+
+Crypt (12 cards, min=12, max=40, avg=7)
+---------------------------------------
+5x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop	Ventrue antitribu:2
+2x Ignazio Giovanni		 9   DOM FOR NEC POT obf  		Giovanni:3
+2x Earl				 4   dom for pot	  		Ventrue:3
+1x Ingrid Russo			 4   DOM for		  		Ventrue antitribu:2
+1x Lana Butcher			 3   dom for		  		Ventrue:3
+1x March Halcyon		 1   for		  		Pander:2
+
+Library (90 cards)
+Master (13)
+3x Blood Doll
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Haven Uncovered
+1x Jake Washington
+1x Perfectionist
+1x Secure Haven
+1x Tension in the Ranks
+
+Action (16)
+2x Ambush
+2x Big Game
+2x Bum's Rush
+1x Eternal Vigilance
+2x Govern the Unaligned
+2x Harass
+2x Nose of the Hound
+1x Pulse of the Canaille
+2x Scouting Mission
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+1x Bowl of Convergence
+1x Eye of Hazimel
+
+Action Modifier (11)
+9x Freak Drive
+2x Threats
+
+Reaction (6)
+6x Deflection
+
+Combat (40)
+4x Disarm
+13x Immortal Grapple
+4x Skin of Steel
+5x Superior Mettle
+6x Taste of Vitae
+8x Unflinching Persistence
+
+Event (1)
+1x Dragonbound

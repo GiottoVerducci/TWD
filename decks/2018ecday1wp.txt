@@ -1,0 +1,72 @@
+EC 2018 - Day 1
+Warsaw, Poland
+August 25th 2018
+3R+F
+125 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/8902
+
+-- 2GW7.5 + 1.5VP in final
+
+Deck Name: MMA.MPA (EC 2018)
+
+Description: many thanks to Martin Schumacher for continuing collaboration
+
+Crypt (12 cards, min=26, max=40, avg=8.67)
+------------------------------------------
+4x Cybele	  10  ANI DAI OBF PRE SER THA	Baali:4
+3x Aksinya Daclau 9   ANI FOR PRE PRO cel tha	Gangrel antitribu:4
+2x Nakhthorheb	  10  OBF PRE SER		Follower of Set:4
+2x Nana Buruku	  8   ANI POT PRE		Guruhi:4
+1x Anarch Convert 1   -none-			Caitiff:ANY
+
+Library (90 cards)
+Master (50; 7 trifle)
+1x Archon Investigation
+21x Ashur Tablets
+1x Barrens, The
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Jake Washington
+1x Life in the City
+6x Liquidation
+1x Monastery of Shadows
+3x Obfuscate
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+4x Villein
+1x Wider View
+
+Action (8)
+1x Enticement
+3x Entrancement
+2x Intimidation
+2x Unleash Hell's Fury
+
+Action Modifier (16)
+2x Aire of Elation
+4x Elder Impersonation
+1x Enkil Cog
+7x Into Thin Air
+1x Psychomachia
+1x Spying Mission
+
+Action Modifier/Reaction (1)
+1x Sense the Sin
+
+Reaction (7)
+1x Confusion of the Eye
+2x Delaying Tactics
+1x Lost in Translation
+1x Mental Maze
+2x Sense the Savage Way
+
+Combat (7)
+5x Majesty
+2x Staredown
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,62 @@
+Hot Terror Frenzy
+Santiago, Chile
+January 12th 2008
+3R+F
+12 players
+Richard Cortes
+
+Deck Name: Mazo Animalismo
+
+Crypt (13 cards, min=7, max=15, avg=2.77)
+-----------------------------------------
+1x Bear Paw			5   ANI for pre pro	Gangrel:1
+1x Roman Alexander		4   ani for pro		Gangrel:1
+1x Anastasia Grey		3   ani pro		Gangrel:1
+1x Leon				3   ani for		Gangrel antitribu:2
+1x Panagos Levidis		3   ani obf		Gangrel:2
+1x Shannon Price, The Whisperer	3   ani obf		Nosferatu antitribu:2
+1x Tommy			3   ani pot		Nosferatu antitribu:2
+1x Wendy Wade			3   ani aus		Tzimisce:2
+1x Dani				2   ani			Nosferatu antitribu:2
+1x Gillian Krader		2   ani dem		Pander:2
+1x Spleen, Georgio Gutterpunk	2   ani chi		Ravnos:2
+1x Vliam Andor			2   ani			Gangrel:1
+1x Navar McClaren		1   ani			Caitiff:1
+
+Library (90 cards)
+Master (16)
+5x Animalism
+2x Archon Investigation
+1x Channel 10
+1x Haven Uncovered
+1x Humanitas
+1x KRCG News Radio
+1x Mob Connections
+1x Wall Street Night, Financial Newspaper
+1x WMRH Talk Radio
+2x Zoo Hunting Ground
+
+Action (8)
+2x Army of Rats
+6x Harass
+
+Equipment (2)
+2x Flak Jacket
+
+Retainer (2)
+2x Raven Spy
+
+Reaction (9)
+3x Forced Awakening
+6x Wake with Evening's Freshness
+
+Combat (53)
+7x Aid from Bats
+2x Boxed In
+4x Canine Horde
+11x Carrion Crows
+2x Dead-End Alley
+4x Flesh Bond
+11x Scorpion Sting
+10x Song of Serenity
+2x Terror Frenzy

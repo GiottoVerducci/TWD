@@ -1,0 +1,46 @@
+Swiss ECQ
+Nyon, Switzerland
+June 30th 2012
+3R+F
+10 players
+Denis Mercante
+
+-- 3VP in final
+
+Deck Name: Nocturn the Unaligned
+
+Crypt (12 cards, min=14, max=26, avg=5.17)
+------------------------------------------
+2x Lord Vauxhall	 7   DOM OBT POT THA		Lasombra:4
+2x Onaedo		 6   DOM OBT aus pot		Lasombra:4
+2x Virginie, Prodigy	 6   DOM POT obt	bishop	Lasombra:4
+2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+2x Leila Monroe		 4   dom obt pre		Lasombra:4
+2x Lucy Markowitz	 3   dom obt			Lasombra:4
+
+Library (80 cards)
+Master (12)
+2x Dreams of the Sphinx
+1x Giant's Blood
+6x Path of Night, The
+3x Sudden Reversal
+
+Action (12)
+12x Govern the Unaligned
+
+Ally (12)
+12x Nocturn
+
+Action Modifier (26)
+4x Blanket of Night
+8x Conditioning
+2x Foreshadowing Destruction
+4x Shadow Play
+4x Shroud of Absence
+4x Tenebrous Form
+
+Reaction (18)
+3x Deflection
+3x Delaying Tactics
+9x On the Qui Vive
+3x Redirection

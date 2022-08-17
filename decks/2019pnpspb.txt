@@ -1,0 +1,87 @@
+Pau na presa
+São Paulo, Brazil
+June 2nd 2019
+2R+F
+10 players
+Delmar Sittoni
+https://www.vekn.net/event-calendar/event/9275
+
+-- 1GW4 + 2.5VP in final
+
+Deck Name: The Walking Dead
+Created by: Delmar
+
+Description: Samedi Trap + reanimated corpse
+A very agressive deck, with a combination of rush and bleed 2 with zumbies.
+
+Last table: Me > Maurão's multi rush Lorrie > Henrique's typhonic beast rush > Fabi's Goratrix Wall > Desso's low cap AUS.
+A very very long game, with me beeing the bad guy. I got 2 VPs before my deck finished and somehow survived the rest of
+the game (Fabi would get the table in the long run).
+
+Goodies: Comparing with bleed actions, the reanimated corpse does the same damage per action, with the
+same blood cost, and less cards (bleed + govern + conditioning = 6 pool dmg, costing 2 blood; the zumbies
+do the same pool damage for the same cost and only 1 card). Because you spend a lot less slots to do the pool dmg,
+you can use them in the form of combat cards that both zumbies and samedies can use, making this deck much harder
+to deal with rush and intercept.
+
+Badies: 1-No bleed deflection! Must have Baroque to rush your predator if he/she is S&B; 2- S&B decks only need
+to deal 15 or less damage to oust your first prey, before geting your first VP it is very possible that the entire table is
+working against you and everybody can rescue vampires in torpor.
+
+Changes: My deck ended in most my games, so more cards. The 8 and 9 cap vamps only slowed me down, so more of the
+low cap ones. A version with anarch convert and revolt could be tested.
+
+Crypt (12 cards, min=13, max=31, avg=5.33)
+------------------------------------------
+3x Marie-Pierre	   4   THN for nec	    Samedi:6
+3x Angel Chavarria 3   THN		    Samedi:6
+2x Baroque	   7   NEC THN aus for obf  Samedi:5
+2x Mister Schwartz 6   NEC THN for obf	    Samedi:6
+1x Mambo Jeanne	   9   FOR NEC OBF THN	    Samedi:6
+1x Josette	   8   FOR OBF THN pot pre  Samedi:6
+
+Library (68 cards)
+Master (15; 2 trifle)
+1x Blessings of the Loa
+1x Charisma
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Houngan
+1x Jake Washington
+1x KRCG News Radio
+2x Perfectionist
+1x Powerbase: Montreal
+1x Rack, The
+1x Villein
+1x Wider View
+1x WMRH Talk Radio
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Bum's Rush
+
+Ally (17)
+1x Carlton Van Wyk
+1x Mylan Horseed
+15x Reanimated Corpse
+
+Action Modifier (8)
+3x Call of the Hungry Dead
+1x Freak Drive
+4x Under My Skin
+
+Reaction (1)
+1x Funeral Wake
+
+Combat (21)
+4x Groaning Corpse
+1x Hidden Strength
+6x Relentless Reaper
+1x Rolling with the Punches
+2x Soak
+7x Trap
+
+Event (4)
+1x FBI Special Affairs Division
+1x Scourge of the Enochians
+2x Unmasking, The

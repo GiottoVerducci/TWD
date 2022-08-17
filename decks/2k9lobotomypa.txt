@@ -1,0 +1,96 @@
+Lobotomy
+Phoenix, Arizona
+November 7th 2009
+2R+F
+10 players
+Jessie Ellison
+
+-- 3VP in final
+
+Deck Name: The Baobhan-sith, Kyasid bleed deck
+
+Description: The idea behind this deck is of course primarily stealth
+bleed, with a secondary function of trying to choose one's battles.
+Chanjelin Ward and Redcap Wilder pose undesirable consequences to other
+Methuselah's vampires, while Shadow Twin and Riddle Phantastique
+effectively single out targets and attempt to make them weaker. With
+the powerful combat supplied by Mytherceria and Obtenebration, these
+vampires can usually choose whether they want to strike hard or make a
+quick getaway. Archon Investigations were added to dissuade others
+from trying big bleeds, and Centralized Background Checks to make the
+dreaded Poker a little more expensive to get out. The strongest
+vampire in this deck is, arguably, Marconius since he is the only one
+to possess all three disciplines at superior as well as paying 1 less
+blood for Mytherceria cards, but this deck really does not focus on
+any one vampire in particular. Rather it focuses on getting as many
+vampires out as possible, starting out rather slowly to create a wall
+of Faerie mischief late in the game.
+
+Crypt (12 cards, min=17, max=34, avg=6.25)
+------------------------------------------
+2x Marconius			9   DOM MYT OBT pot	 archbishop	Kiasyd:2
+2x Bartholomew			8   AUS MYT NEC dom obt	 		Kiasyd:2
+2x Quincy, The Trapper		4   dom myt obt		 		Kiasyd:3
+1x Julia Prima			7   DOM OBT aus myt	 		Kiasyd:2
+1x Kassiym Malikhair		6   MYT OBT dom for	 		Kiasyd:2
+1x Talley, The Hound		6   OBT POT aus dom	 		Lasombra:2
+1x Béatrice L'Angou		5   MYT aus dom nec	 		Kiasyd:2
+1x Guido Lucciano		5   OBT dom obf		 		Lasombra:2
+1x Ignacio, The Black Priest	4   dom obt pot		 		Lasombra:2
+
+Library (81 cards)
+Master (12)
+2x Archon Investigation
+2x Blood Doll
+2x Centralized Background Check
+2x Chanjelin Ward
+1x KRCG News Radio
+2x Political Hunting Ground
+1x WMRH Talk Radio
+
+Action (12)
+2x Forgery
+2x Govern the Unaligned
+1x Riddle Phantastique
+2x Scouting Mission
+3x Shadow Twin
+2x Song of Pan
+
+Ally (3)
+2x Mylan Horseed
+1x Procurer
+
+Retainer (2)
+2x Redcap Wilder
+
+Action Modifier (19)
+1x Blanket of Night
+2x Bonding
+4x Conditioning
+2x Mouthpiece
+2x Shadow Play
+3x Shroud of Night
+3x Stone Travel
+1x Tenebrous Form
+1x Threats
+
+Action Modifier/Combat (2)
+2x Fae Contortion
+
+Action Modifier/Reaction (3)
+3x Aura Absorption
+
+Reaction (13)
+2x Covincraft
+2x Darksight
+2x Eluding the Arms of Morpheus
+2x Eyes of the Night
+2x Folderol
+3x Wake with Evening's Freshness
+
+Combat (15)
+3x Absorb the Mind
+3x Arms of the Abyss
+5x Earth Swords
+2x Oubliette
+2x Shadow Body

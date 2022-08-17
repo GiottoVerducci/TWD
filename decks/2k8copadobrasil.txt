@@ -1,0 +1,56 @@
+Copa do Brasil 2008
+Cataguases, Brazil
+April 20th 2008
+3R+F
+12 players
+Luiz Fernando K. Ferreira
+
+Deck Name: Campeão da Copa do Brasil
+
+Crypt (12 cards, min=37, max=44, avg=10.08)
+-------------------------------------------
+4x Arika		11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+3x Lucinde, Alastor	10  DOM FOR PRE obf pot tha	justicar	Ventrue:3
+2x Marcus Vitel		10  DOM FOR OBF OBT PRE		prince		Ventrue:3
+1x Queen Anne		10  DOM FOR PRE aus obf		prince		Ventrue:2
+1x Wilhelm Waldburg	9   DOM FOR PRE aus cel		prince		Ventrue:2
+1x Victorine Lafourcade	8   DOM FOR PRE tha		prince		Ventrue:3
+
+Library (90 cards)
+Master (16; 2 trifle)
+1x Creepshow Casino
+1x Giant's Blood
+2x Golconda: Inner Peace
+4x Minion Tap
+1x Uptown Hunting Ground
+1x Ventrue Headquarters
+2x Vessel
+4x Zillah's Valley
+
+Action (6)
+2x Dominate Kine
+4x Govern the Unaligned
+
+Political Action (14)
+3x Consanguineous Boon
+4x Kine Resources Contested
+6x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (30)
+4x Awe
+2x Bewitching Oration
+4x Conditioning
+4x Elder Impersonation
+4x Forgotten Labyrinth
+4x Freak Drive
+4x Lost in Crowds
+4x Voter Captivation
+
+Reaction (20)
+10x Deflection
+6x Obedience
+4x On the Qui Vive
+
+Combat (4)
+4x Majesty

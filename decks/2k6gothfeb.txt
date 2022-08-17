@@ -1,0 +1,68 @@
+Tournament II
+Gothenburg, Sweden
+February 11th 2006
+3R+F
+12 players
+Alex Ek
+
+Deck Name: Voteish/Bleedish
+
+Crypt (12 cards, min=19, max=40, avg=7.33)
+------------------------------------------
+4x Ayo Igoli	   10  AUS CEL FOR PRE obf tha		Ishtarri:4
+2x Ubende	   7   CEL PRE for obf qui	magaji	Ishtarri:4
+1x Falhu Shibaba   8   CEL CHI FOR PRE ani	magaji	Ishtarri:3
+1x Ganhuru	   7   FOR PRE cel pro			Ishtarri:4
+1x Honorine Ateba  6   FOR PRE cel nec			Ishtarri:4
+1x Shasa Abu Badr  5   PRE cel for			Ishtarri:4
+1x Fahd al-Zawba'a 4   cel for pre			Toreador:4
+1x Kenyatta	   4   cel for pre			Ishtarri:4
+
+Library (90 cards)
+Master (17)
+1x Ancestor Spirit
+1x Archon Investigation
+3x Blood Doll
+1x Dummy Corporation
+1x Giant's Blood
+2x Glutton
+1x Mbare Market, Harare
+6x Minion Tap
+1x Port Hunting Ground
+
+Action (15)
+7x Enchant Kindred
+2x Entrancement
+1x Heart of the City
+2x Legal Manipulations
+3x Mind Numb
+
+Ally (1)
+1x Informant
+
+Equipment (1)
+1x Kduva's Mask
+
+Political Action (13)
+1x Ancilla Empowerment
+2x Banishment
+1x Conservative Agitation
+1x Domain Challenge
+6x Kine Resources Contested
+2x Overseer
+
+Action Modifier (33)
+1x Awe
+6x Bewitching Oration
+6x Forced March
+4x Freak Drive
+1x Igoli's Loyalty
+1x Strange Day
+8x Uncontrolled Impulse
+6x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Ishtarri Kholo
+
+Combat (9)
+9x Majesty

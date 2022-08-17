@@ -1,0 +1,97 @@
+Mother of Horrors
+Somerset, Massachusetts
+May 14th 2006
+10 players
+Matthew Hirsch
+
+Deck Name: Akunanse Safari Kingdom
+
+A fairly defensive deck using Pack Alpha to tool up a Magaji with many
+retainers, maybe tack on a Guardian Angel or Ivory Bow, and then put on
+the No Secrets. The deck doesn't bleed very strongly, but it can win a
+war of attrition (or make a quick finish with Anarchist Uprising).
+
+Crypt (12 cards, min=14, max=32, avg=6)
+---------------------------------------
+3x Nkule Galadima 8   ABO FOR ani aus pre  magaji  Akunanse:4
+2x Uchenna	  7   ABO ANI FOR	   magaji  Akunanse:4
+1x Amavi	  8   ABO ANI FOR pre pro  	   Akunanse:4
+1x Jubal	  6   ABO ANI for pot	   	   Akunanse:4
+1x Sanjo	  6   ANI FOR abo chi	   	   Akunanse:3
+1x Kikiyaon, The  5   FOR abo ani	   	   Akunanse:4
+1x Hasani	  4   ABO for		   	   Akunanse:4
+1x Dolie	  3   abo ani		   	   Akunanse:4
+1x Meno Ngari	  2   abo		   	   Akunanse:4
+
+Library (90 cards)
+Master (12)
+1x Ancestor Spirit
+4x Blood Doll
+1x Dreams of the Sphinx
+1x Guardian Angel
+1x Jungle Hunting Ground
+1x KRCG News Radio
+1x Mbare Market, Harare
+1x Powerbase: Montreal
+1x Storage Annex
+
+Action (4)
+1x Army of Rats
+2x No Secrets From the Magaji
+1x Wise Spider
+
+Ally (1)
+1x Neighborhood Watch Commander
+
+Equipment (1)
+1x Ivory Bow
+
+Political Action (4)
+1x Anarchist Uprising
+1x Disputed Territory
+1x Kine Resources Contested
+1x Secret Must Be Kept, The
+
+Retainer (8)
+2x Duma Rafiki
+3x Elephant Guardian
+1x Owl Companion
+2x Raven Spy
+
+Action Modifier (3)
+2x Predator's Mastery
+1x Strange Day
+
+Action Modifier/Combat (3)
+3x Predator's Transformation
+
+Action Modifier/Reaction (1)
+1x Akunanse Kholo
+
+Reaction (18)
+4x Cats' Guidance
+4x Forced Awakening
+5x Predator's Communion
+1x Terra Incognita
+1x Unseen Hibernation
+3x Wake with Evening's Freshness
+
+Combat (34)
+2x Aid from Bats
+1x Canine Horde
+3x Carrion Crows
+2x Devil-Channel: Back
+2x Devil-Channel: Hands
+1x Hidden Strength
+2x Indomitability
+5x Invoking the Beast
+7x Pack Alpha
+1x Resilience
+1x Scorpion Sting
+1x Skin of Rock
+1x Superior Mettle
+1x Taste of Vitae
+4x Unflinching Persistence
+
+Event (1)
+1x NSA Trio

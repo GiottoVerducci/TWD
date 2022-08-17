@@ -1,0 +1,65 @@
+6th Progeny
+Budapest, Hungary
+July 1st 2012
+3R+F
+17 players
+Gábor Németh
+
+Deck Name: The Great Bleeasts
+
+Crypt (12 cards, min=27, max=44, avg=8.83)
+------------------------------------------
+4x Stanislava	    11	ANI CEL DOM FOR PRO	inner circle	Gangrel:2
+2x Ingrid Rossler   9	ANI FOR PRO dom		prince		Gangrel:2
+2x Greger Anderssen 7	AUS OBF dom pro		prince		Malkavian:2
+2x Iliana	    7	DOM FOR PRO tha				Gangrel:2
+1x Genevieve	    10	ANI FOR PRO aus dom	priscus		Gangrel antitribu:2
+1x Caitlin	    6	ANI PRO aus dom		bishop		Gangrel antitribu:2
+
+Library (89 cards)
+Master (17; 7 trifle)
+1x Backways
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Giant's Blood
+1x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Secure Haven
+2x Vessel
+5x Villein
+1x Zoo Hunting Ground
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (13)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+4x Kine Resources Contested
+1x Neonate Breach
+2x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (18)
+6x Conditioning
+6x Earth Control
+1x Foreshadowing Destruction
+5x Freak Drive
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (13)
+7x Deflection
+6x On the Qui Vive
+
+Combat (14)
+3x Alpha Glint
+6x Earth Meld
+5x Form of Mist

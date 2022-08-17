@@ -1,0 +1,62 @@
+Tutti Al Mare 2
+Genoa, Italy
+July 28th 2013
+2R+F
+10 players
+Mariolina Gentile
+
+-- 3VP in final
+
+Deck Name: Flesh for Fantasy
+
+Crypt (12 cards, min=12, max=32, avg=5.08)
+------------------------------------------
+2x Klaus Konrecht	  8   AUS CEL PRE for pot  cardinal	Toreador antitribu:4
+2x Venere Carboni	  8   AUS CEL PRE ani	   priscus	Toreador antitribu:3
+2x Loonar		  4   PRE cel		   		Toreador antitribu:4
+1x Creamy Jade		  5   PRE aus cel vic	   		Toreador antitribu:3
+1x L'Épuisette		  4   aus cel pro	   		Toreador antitribu:4
+1x Sabrina		  4   aus cel pre	   		Toreador antitribu:3
+1x Jonathan Gursel	  3   aus pre		   		Toreador antitribu:4
+1x Monique Kim		  3   aus cel		   		Toreador antitribu:4
+1x Justine Chen, Innocent 2   pre		   		Toreador antitribu:4
+
+Library (76 cards)
+Master (18; 2 trifle)
+1x Black Forest Base
+1x Coven, The
+1x Día de los Muertos
+1x Dreams of the Sphinx
+1x Fetish Club Hunting Ground
+3x Foundation Exhibit
+1x Information Highway
+1x Not to Be
+3x Palla Grande
+1x Perfectionist
+1x Powerbase: Montreal
+2x Tribute to the Master
+1x Wash
+
+Action (25)
+3x Art Scam
+12x Embrace, The
+7x Enchant Kindred
+3x Entrancement
+
+Political Action (12)
+8x Consanguineous Boon
+4x Kine Resources Contested
+
+Action Modifier (6)
+6x Change of Target
+
+Reaction (8)
+3x Delaying Tactics
+5x Telepathic Misdirection
+
+Combat (6)
+4x Majesty
+2x Staredown
+
+Event (1)
+1x Uncoiling, The

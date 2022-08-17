@@ -1,0 +1,39 @@
+Los susurros del Baali
+Badia del Valles, Spain
+May 15th 2011
+3R+F
+25 players
+Tomàs López Jiménez
+
+Deck Name: Turbo Nergal
+
+Original idea: Acbishop
+Description: Nergal Bleed, Nergal call the Great Beast, Nergal
+activates the Great Beast (Nergal burn), Great Beast bleed,
+Great Beast Eternal Mask to Nergal with all the blood and daring
+inferior (Great Beast burn). Repeat until game win.
+
+Crypt (13 cards, min=6, max=40, avg=5.77)
+-----------------------------------------
+6x Nergal	   10  AUS DAI FOR OBF PRE THA	Baali:5
+2x Aimee Laroux	   2   for pre			Daughter of Cacophony:4
+2x Andy		   1   for			Caitiff:4
+1x Neel Ramanathan 3   ani for			Ravnos:4
+1x Rashiel	   3   for val			Salubri antitribu:4
+1x Rosemarie	   3   FOR mel			Daughter of Cacophony:4
+
+Library (90 cards)
+Action (27)
+11x Call the Great Beast
+11x Eternal Mask, The
+5x Scrounging
+
+Action Modifier (56)
+12x Daring the Dawn
+3x Elder Impersonation
+5x Faceless Night
+33x Freak Drive
+3x Psychomachia
+
+Action Modifier/Reaction (7)
+7x Sense the Sin

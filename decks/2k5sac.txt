@@ -1,0 +1,63 @@
+SAC 2005
+São Paulo, Brazil
+June 4th 2005
+24 players
+Davi Pereira da Cunha
+
+Deck Name: SAC - 1o - Weenie Politics
+
+Crypt (18 cards, min=4, max=8, avg=1.22)
+----------------------------------------
+1x Brazil		2   aus		Malkavian:1
+1x Dieter Kleist	2   aus		Toreador:1
+1x Giuliano Vincenzi	2   for		Gangrel:1
+1x KoKo			2   pot		Nosferatu:1
+1x Angela Decker	1   pre		Pander:2
+1x Antoinette DuChamp	1   cel pre	Caitiff:2
+1x Basil		1   obf		Pander:2
+1x Franciscus		1   aus		Caitiff:2
+1x Hasina Kesi		1   pot		Caitiff:1
+1x Huang, Blood Cultist	1   pro		Pander:2
+1x Igo the Hungry	1   pre pro	Caitiff:1
+1x Julius		1   qui ser	Caitiff:2
+1x March Halcyon	1   for		Pander:2
+1x Navar McClaren	1   ani		Caitiff:1
+1x Nik			1   cel		Caitiff:1
+1x Royce		1   dom		Pander:2
+1x Smudge the Ignored	1   -none-	Caitiff:1
+1x Uriah Winter		1   for pot	Caitiff:1
+
+Library (90 cards)
+Master (26)
+1x Antediluvian Awakening
+1x Archon Investigation
+1x Barrens, The
+2x Dreams of the Sphinx
+3x Effective Management
+6x Information Highway
+3x Parthenon, The
+2x Pentex(TM) Subversion
+2x Protected Resources
+5x Secret Passage
+
+Political Action (46)
+10x Autarkis Persecution
+2x Disputed Territory
+22x Kine Resources Contested
+1x Praxis Seizure: Amsterdam
+1x Praxis Seizure: Barcelona
+1x Praxis Seizure: Berlin
+1x Praxis Seizure: Brussels
+1x Praxis Seizure: Frankfurt
+1x Praxis Seizure: Glasgow
+1x Praxis Seizure: London
+1x Praxis Seizure: Miami
+1x Praxis Seizure: Monaco
+1x Praxis Seizure: Paris
+1x Praxis Seizure: Seattle
+1x Praxis Seizure: Stockholm
+
+Action Modifier (18)
+5x Bribes
+10x Change of Target
+3x Cryptic Rider

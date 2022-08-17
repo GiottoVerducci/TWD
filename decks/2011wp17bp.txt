@@ -1,0 +1,78 @@
+War Party #17
+Bydgoszcz, Poland
+April 28th 2011
+2R+F
+10 players
+Marcin Watras
+
+Deck Name: Imbued - "Inspire the World"
+
+Description: Deck based on Felipe Fiuza's "Cascaduuuuuura".
+Once set up, very difficult to stop. Needs to be played slowly
+at the beginning. Nice experience anyway - that was my first
+tournament where I played with Imbued deck. the first and the
+last time.
+
+Crypt (12 cards, min=12, max=20, avg=4)
+---------------------------------------
+3x Travis "Traveler72" Miller	 5   def mar	  Martyr:4
+2x Xian "DziDzat155" Quan	 4   def inn	  Defender:4
+1x Jennie "Cassie247" Orne	 5   inn jud viz  Visionary:4
+1x Erick "Shophet125" Franco	 4   inn jud	  Judge:4
+1x Leaf "Potter116" Pankowski	 4   inn red viz  Redeemer:4
+1x Maman Boumba			 4   inn mar	  Martyr:4
+1x Béatrice "Oracle171" Tremblay 3   inn ven	  Innocent:4
+1x Inez "Nurse216" Villagrande	 3   inn	  Innocent:4
+1x Liz "Ticket312" Thornton	 2   inn red	  Innocent:4
+
+Library (72 cards)
+Master (16)
+5x Angel of Berlin
+1x Archon Investigation
+1x Church of Vindicated Faith, The
+2x Direct Intervention
+2x Effective Management
+1x Information Highway
+1x Millicent Smith, Puritan Vampire Hunter
+1x Pentex(TM) Subversion
+1x Smiling Jack, The Anarch
+1x Society of Leopold
+
+Conviction (18)
+6x React with Conviction
+6x Second Sight
+6x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (5)
+1x Carlton Van Wyk
+1x Gregory Winter
+1x Ossian
+1x Vagabond Mystic
+1x Wendell Delburton
+
+Equipment (8)
+1x Crusader Sword, The
+1x Ivory Bow
+5x Saturday-Night Special
+1x Sniper Rifle
+
+Power (8)
+2x Champion
+4x Inspire
+2x Rejuvenate
+
+Reaction (3)
+3x On the Qui Vive
+
+Combat (7)
+7x Target Vitals
+
+Event (6)
+1x Blood Weakens
+1x Recalled to the Founder
+1x Slow Withering, The
+2x Unmasking, The
+1x Veil of Darkness

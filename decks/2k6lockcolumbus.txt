@@ -1,0 +1,59 @@
+Lock
+Columbus, Ohio
+May 28th 2006
+2R+F
+13 players
+John Bell
+
+Deck Name: Blocking is Pain, We Bring the Pain
+
+Description: Fairly straightforward; stacking Cam Exemplary, Archon,
+and Aching Beauty followed up with Croc Tongue punishes blockers.
+Getting a .44 further adds to the misery late game.
+
+Crypt (12 cards, min=31, max=43, avg=9.33)
+------------------------------------------
+4x Anson	   8   CEL PRE aus dom		prince		Toreador:1
+3x Alexandra	   11  ANI AUS CEL PRE dom	inner circle	Toreador:2
+2x Anneke	   10  AUS CEL PRE dom		justicar	Toreador:1
+2x François Villon 10  AUS CEL PRE chi obf pot	prince		Toreador:2
+1x Tatiana Romanov 7   AUS cel pre		prince		Toreador:1
+
+Library (90 cards)
+Master (24)
+8x Aching Beauty
+1x Archon Investigation
+1x Art Museum
+1x Direct Intervention
+1x Giant's Blood
+9x Minion Tap
+1x Parthenon, The
+1x Secret Horde
+1x Toreador Grand Ball
+
+Equipment (4)
+4x .44 Magnum
+
+Political Action (17)
+2x Ancilla Empowerment
+2x Archon
+1x Banishment
+4x Camarilla Exemplary
+6x Kine Resources Contested
+2x Parity Shift
+
+Action Modifier (31)
+4x Aire of Elation
+6x Bewitching Oration
+7x Change of Target
+7x Crocodile's Tongue
+7x Voter Captivation
+
+Reaction (5)
+5x Second Tradition: Domain
+
+Combat (8)
+8x Majesty
+
+Event (1)
+1x Anthelios, The Red Star

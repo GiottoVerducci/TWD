@@ -1,0 +1,73 @@
+America Cup Series: Charlotte (University Hunting Ground)
+Charlotte, North Carolina
+January 11th 2020
+3R+F
+12 players
+Felipe Fiuza
+https://www.vekn.net/event-calendar/event/9491
+
+-- 2GW7 + 3VP in final
+
+Deck Name: "If Jose Feuerstein and Darby Keeney Had a Baby”
+
+Final round seating:
+Jose (!Tremere Toolbox)
+Felipe (Imbued) - 3 VP
+Wayne (Tzimisce Wall) - 1 VP
+Jason (Kiasyd Stealth Bleed)
+Ben - (Malkavian Stealth Bleed) - 1 VP
+
+Crypt (12 cards, min=14, max=20, avg=4.25)
+------------------------------------------
+3x Travis "Traveler72" Miller	5   def mar	 Martyr:4
+2x Jennie "Cassie247" Orne	5   inn jud viz	 Visionary:4
+2x Jack "Hannibal137" Harmon	4   def jud	 Defender:4
+2x François "Warden" Loehr	3   def jud	 Judge:4
+1x Erick "Shophet125" Franco	4   inn jud	 Judge:4
+1x John "Cop90" O'Malley	4   jud ven	 Avenger:4
+1x Paul "Sixofswords29" Moreton	4   def vis	 Visionary:4
+
+Library (60 cards)
+Master (15; 1 trifle)
+5x Angel of Berlin
+1x Ascendance
+1x Church of Vindicated Faith, The
+1x Fame
+1x Jake Washington
+1x Millicent Smith, Puritan Vampire Hunter
+1x Short-Term Investment
+1x Smiling Jack, The Anarch
+1x Specialization -- GOLD
+1x True Faith
+1x Two Wrongs
+
+Conviction (18)
+4x React with Conviction -- always fish for it first
+7x Second Sight
+7x Strike with Conviction
+
+Ally (3)
+1x Carlton Van Wyk
+1x Ossian -- grrrrr
+1x Vagabond Mystic
+
+Equipment (9)
+1x Crusader Sword, The
+1x Ivory Bow
+1x Kevlar Vest
+1x Light Intensifying Goggles
+1x Orb of Ulain
+3x Saturday-Night Special
+1x Talbot's Chainsaw
+
+Power (10)
+2x Champion
+2x Discern
+2x Rejuvenate
+4x Vigilance
+
+Combat (4)
+4x Target Vitals
+
+Event (1)
+1x Unmasking, The

@@ -1,0 +1,82 @@
+NAC 2005 Day 2
+Gencon 2005, Indianapolis, Indiana
+August 20th 2005
+3R+F
+40 players
+Peter Charnley
+
+The North American Championship was won by Peter Charnley of
+Ann Arbor, Michigan with his Arika and Friends deck that got
+him to the finals last year as well. The Final was very
+exciting to watch and went all the way to the time limit.
+
+"The deck is designed to run in spurts. Whether off the bat or later
+in the game some turns will be spent doing nothing, waiting for the
+opportunity to cycle reactions and combat cards, other turns will
+consist of vote, freak, bleed, freak, etc. One advantage of the deck
+that some people have keyed on is the lack of permanents to make the
+deck appear frightening. With three vampires out, most people are only
+afraid of Arika, and then only because of her text, PTO ability and +2
+bleed. Very rarely do people worry about the cloaks, or the extra
+actions with freak drives and majesty. I've been playing and tweaking
+this deck since I started seriously playing Vampire, almost 3 years
+now, so this deck is as good as it gets. Modifications consist only of
+2-4 card swap outs based on metagame, more or less combat, stealth,
+vote bump cards depending. I went with 12 combat and 8 stealth instead
+of a previous 10 and 6 because of KMW's combat, and the number of times
+intercept has kicked my butt. The 8 stealth card setup is probably going
+to stay, but in a less combat-heavy environment, 1 majesty and 1 rolling
+would get swapped for other cards. Oh also, I like the lack of wakes.
+People often times will behave as though I have a wake in my hands for
+deflections when I don't. Thanks to all those 'responsible' bleeders
+out there:)" - Peter Charnley
+
+Crypt (12 cards, min=29, max=44, avg=9.5)
+-----------------------------------------
+5x Arika			   11  DOM FOR OBF PRE aus cel	inner circle	Ventrue:2
+2x Marcus Vitel			   10  DOM FOR OBF OBT PRE	prince		Ventrue:3
+2x Katarina Kornfeld		   8   DOM FOR PRE ani		primogen	Ventrue:3
+1x Queen Anne			   10  DOM FOR PRE aus obf	prince		Ventrue:2
+1x Victorine Lafourcade		   8   DOM FOR PRE tha		prince		Ventrue:3
+1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for				Ventrue:2
+
+Library (90 cards)
+Master (16)
+1x Erciyes Fragments, The
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Information Highway
+4x Minion Tap
+1x Secure Haven
+1x Ventrue Headquarters
+5x Zillah's Valley
+
+Action (10)
+2x Enchant Kindred
+6x Govern the Unaligned
+2x Scouting Mission
+
+Political Action (15)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+8x Kine Resources Contested
+2x Protect Thine Own
+1x Reins of Power
+
+Action Modifier (30)
+3x Awe
+2x Bewitching Oration
+4x Cloak the Gathering
+4x Forgotten Labyrinth
+9x Freak Drive
+3x Seduction
+5x Voter Captivation
+
+Reaction (7)
+6x Deflection
+1x Wake with Evening's Freshness
+
+Combat (12)
+6x Majesty
+6x Rolling with the Punches

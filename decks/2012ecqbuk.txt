@@ -1,0 +1,72 @@
+English ECQ
+Burton-on-Trent, England
+May 12th 2012
+3R+F
+23 players
+Hugh Angseesing
+
+-- 0.5VP in final
+
+Deck Name: Pandering to Anson
+
+loosely based on the Toreador master gun decks flying about
+but now using improved Panders
+Ashur Tablets enable another set of cel crypts.
+
+Crypt (13 cards, min=10, max=34, avg=5.62)
+------------------------------------------
+4x Anson			8   CEL PRE aus dom	prince	  Toreador:1
+3x Jimmy Dunn			4   CEL POT for			  Pander:2
+1x Anneke			10  AUS CEL PRE dom	justicar  Toreador:1
+1x Dónal O'Connor		8   CEL DOM POT		prince	  Brujah:2
+1x Volker, The Puppet Prince	5   CEL pot		prince	  Brujah:2
+1x Sarah Brando			3   CEL				  Brujah antitribu:2
+1x Christine Boscacci		2   dom vic			  Pander:2
+1x Royce			1   dom				  Pander:2
+
+Library (79 cards)
+Master (29; 7 trifle)
+1x Archon Investigation
+9x Ashur Tablets
+1x Direct Intervention
+1x Fame
+1x Frontal Assault
+1x Giant's Blood
+2x Haven Uncovered
+1x Joseph Pander
+1x Lilith's Blessing
+2x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+4x Villein
+1x Wash
+2x Wider View
+
+Action (5)
+1x Big Game
+4x Bum's Rush
+
+Equipment (6)
+6x .44 Magnum
+
+Action Modifier/Combat (1)
+1x Resist Earth's Grasp
+
+Reaction (11)
+3x Deflection
+2x On the Qui Vive
+6x Second Tradition: Domain
+
+Combat (25)
+1x Blur
+6x Concealed Weapon
+1x Flash
+8x Infernal Pursuit
+4x Psyche!
+2x Pursuit
+1x Side Strike
+2x Taste of Vitae
+
+Event (2)
+1x Anthelios, The Red Star
+1x Dragonbound

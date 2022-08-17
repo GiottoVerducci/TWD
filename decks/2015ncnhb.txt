@@ -1,0 +1,64 @@
+Nightmare Curse
+Belo Horizonte, Brazil
+January 24th 2015
+3R+F
+15 players
+Leonardo Villela
+https://www.vekn.net/event-calendar/event/7950
+
+Deck Name: Tunnel Runner
+
+Crypt (12 cards, min=12, max=22, avg=4.5)
+-----------------------------------------
+4x Jacob Fermor	 5   PRO ani tha	Gangrel:4
+2x Kikiyaon, The 5   FOR abo ani	Akunanse:4
+2x Dolie	 3   abo ani		Akunanse:4
+1x Jubal	 6   ABO ANI for pot	Akunanse:4
+1x Sanjo	 6   ANI FOR abo chi	Akunanse:3
+1x Nestor Kaba	 4   abo ani for	Akunanse:4
+1x Meno Ngari	 2   abo		Akunanse:4
+
+Library (76 cards)
+Master (19; 4 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+2x Blood Doll
+3x Charisma
+2x Direct Intervention
+1x Mapatano Utando
+1x Mbare Market, Harare
+2x Pentex(TM) Subversion
+2x Powerbase: Tshwane
+2x Villein
+2x Wider View
+
+Action (8)
+8x Deep Song
+
+Ally (11)
+1x Carlton Van Wyk
+1x Ossian
+8x Tunnel Runner
+1x Vagabond Mystic
+
+Retainer (3)
+1x Mr. Winthrop
+2x Raven Spy
+
+Action Modifier (1)
+1x Strange Day
+
+Action Modifier/Combat (5)
+5x Predator's Transformation
+
+Reaction (5)
+5x On the Qui Vive
+
+Combat (22)
+9x Aid from Bats
+3x Fake Out
+5x Glancing Blow
+5x Target Vitals
+
+Event (2)
+2x Unmasking, The

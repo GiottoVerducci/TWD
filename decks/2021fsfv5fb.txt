@@ -1,0 +1,55 @@
+Free Stake: Fortaleza V5
+Fortaleza, Brazil
+January 31st 2021
+2R+F
+14 players
+Cicero Jannyson
+https://www.vekn.net/event-calendar/event/9726
+
+-- 2GW6.5 + 4VP in final
+
+Deck Name: Cachorro D'água
+
+Crypt (32 cards, min=4, max=20, avg=1.97)
+-----------------------------------------
+22x Tupdog		1    POT VIS		Gargoyle:3
+5x  Antonio d'Erlette	5    THA dom for pot	Tremere antitribu:4
+2x  Keith Moody		3    DOM		Tremere antitribu:4
+1x  Mosfair		4    cel dom tha	Tremere antitribu:4
+1x  Ember Wright	3    aus dom		Tremere antitribu:3
+1x  Saiz		3    aus dom		Tremere antitribu:3
+
+Library (80 cards)
+Master (15; 2 trifle)
+2x Direct Intervention
+3x Dreams of the Sphinx
+3x Information Highway
+1x London Evening Star, Tabloid Newspaper
+1x Not to Be
+1x Powerbase: Chicago
+1x Powerbase: Montreal
+2x Wider View
+1x Yawp Court
+
+Action (3)
+1x Aranthebes, The Immortal
+2x Graverobbing
+
+Ally (7)
+7x Nephandus
+
+Equipment (3)
+2x Codex of the Edenic Groundskeepers
+1x Hand of Conrad
+
+Reaction (4)
+4x Deflection
+
+Combat (46)
+12x Brick by Brick
+12x Immortal Grapple
+12x Raking Talons
+10x Torn Signpost
+
+Event (2)
+2x Unmasking, The

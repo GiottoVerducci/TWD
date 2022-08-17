@@ -1,0 +1,50 @@
+Bloody X-Mas
+Center Cards Store, Jundiaí, Brazil
+December 28th 2008
+3R+F
+16 players
+Carlos Eduardo Ganso
+
+Deck Name: Nocturns Twins
+
+Crypt (12 cards, min=12, max=21, avg=4.25)
+------------------------------------------
+2x Andrew Emory		 5   OBT aus dom pot	bishop	Lasombra:4
+2x Ermenegildo, The Rake 5   DOM OBT pot		Lasombra:4
+2x Leila Monroe		 4   dom obt pre		Lasombra:4
+2x Hester Reed		 3   obt pot			Lasombra:3
+2x Lucy Markowitz	 3   dom obt			Lasombra:4
+1x Onaedo		 6   DOM OBT aus pot		Lasombra:4
+1x Banjoko		 5   DOM obt pot		Lasombra:3
+
+Library (90 cards)
+Master (17; 5 trifle)
+1x Elysian Fields
+3x Fame
+1x Fortschritt Library
+1x Hungry Coyote, The
+1x Momentum's Edge
+3x Path of Night, The
+1x Political Hunting Ground
+1x Sunset Strip, Hollywood
+5x Vessel
+
+Action (20)
+20x Shadow Twin
+
+Ally (21)
+1x Carlton Van Wyk
+20x Nocturn
+
+Action Modifier (4)
+4x Shadow Play
+
+Reaction (26)
+4x Darksight
+8x Deflection
+4x Eyes of the Night
+10x On the Qui Vive
+
+Event (2)
+1x Restricted Vitae
+1x Unmasking, The

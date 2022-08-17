@@ -1,0 +1,58 @@
+Glöggturnering
+Gothenburg, Sweden
+December 7th 2013
+3R+F
+13 players
+Stefan Karlsson
+
+Deck Name: Ban Giant's Blood
+
+Crypt (12 cards, min=35, max=40, avg=9.42)
+------------------------------------------
+5x Angelica, The Canonicus		  10  DOM OBT POT cel obf	cardinal    Lasombra:2
+1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for	cardinal    Lasombra:2
+1x Alvaro, The Scion of Angelica	  9   OBT POT dom pre		archbishop  Lasombra:2
+1x Antonio Delgado			  9   DOM OBT POT tha		archbishop  Lasombra:2
+1x Francisco Domingo de Polonia		  9   DOM OBT POT PRE pro	archbishop  Lasombra:2
+1x Marconius				  9   DOM MYT OBT pot		archbishop  Kiasyd:2
+1x Quentin				  9   AUS DOM FOR cel obt	bishop	    Ventrue antitribu:2
+1x Gratiano				  8   DOM OBT obf pot		priscus	    Lasombra:2
+
+Library (76 cards)
+Master (32; 7 trifle)
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Fear of Mekhet
+4x Giant's Blood
+3x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+4x Pentex(TM) Subversion
+1x Rack, The
+7x Villein
+8x Zillah's Valley
+
+Action (11)
+2x Eternal Vigilance
+5x Govern the Unaligned
+2x Mind Rape
+2x Under Siege
+
+Political Action (10)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+3x Kine Resources Contested
+2x Public Vilification
+1x Reins of Power
+
+Action Modifier (13)
+4x Conditioning
+1x Enkil Cog
+3x Shadow Play
+3x Shroud of Absence
+2x Shroud of Night
+
+Reaction (10)
+3x Deflection
+7x Obedience

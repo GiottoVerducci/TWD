@@ -1,0 +1,47 @@
+Monday Mayhem VIII
+Sonera-talo, Tampere, Finland
+July 6th 2009
+10 players
+Heikki Palomäki
+
+Deck Name: Within the spirit
+
+Crypt (12 cards, min=16, max=31, avg=5.83)
+------------------------------------------
+1x Lazarus James		8   AUS DEM PRE obf tha	 	   Malkavian:4
+1x Persephone Tar-Anis		8   AUS DEM OBF cel pot	 	   Malkavian antitribu:4
+1x Rodolfo			8   AUS DEM OBF pro	 bishop	   Malkavian antitribu:3
+1x Quentin King III (ADV)	7   AUS DEM OBF cel pre	 	   Malkavian:3
+1x Morel			6   AUS DEM OBF		 	   Malkavian:4
+1x Ruth McGinley		6   DEM aus cel obf	 primogen  Malkavian:3
+1x Tony				6   AUS DEM dom obf	 	   Malkavian:3
+1x Apache Jones			5   DEM aus for obf	 	   Malkavian antitribu:4
+1x Persia, The Beautiful Statue	5   DEM aus obf		 	   Malkavian:3
+1x Uncle George			5   DEM aus dom obf	 	   Malkavian antitribu:3
+1x Jackie			3   DEM			 	   Malkavian antitribu:4
+1x Midget			3   DEM obf pre		 	   Malkavian antitribu:3
+
+Library (90 cards)
+Master (15; 5 trifle)
+1x Barrens, The
+9x Blood Doll
+5x Wash
+
+Action (25)
+25x Kindred Spirits
+
+Action Modifier (42)
+2x Cloak the Gathering
+24x Confusion
+3x Elder Impersonation
+4x Faceless Night
+3x Lost in Crowds
+2x Spying Mission
+4x Veil the Legions
+
+Action Modifier/Combat (5)
+3x Deny
+2x Swallowed by the Night
+
+Event (3)
+3x Narrow Minds

@@ -1,0 +1,68 @@
+CCQ
+Moss, Norway
+October 10th 2015
+3R+F
+11 players
+Jonas Ståhle
+
+Deck Name: Edgeplay with Mallenhous
+
+Wanted to see if/when cardinal sin: Insubordination would be good and settled for a grinder with backup from under siege. Final insubordination count was two discarded and two torporing howler.
+
+Crypt (12 cards, min=17, max=32, avg=6.33)
+------------------------------------------
+4x Gustav Mallenhous	    8	AUS DOM for obt		priscus	    Ventrue antitribu:2
+2x Blackhorse Tanner	    7	AUS DOM FOR			    Ventrue antitribu:3
+1x Ladislas Toth, The Torch 7	AUS DOM THA for		archbishop  Tremere antitribu:3
+1x Marlene, The Infernalist 6	AUS DOM dem for tha		    Ventrue antitribu:2
+1x Billy		    5	AUS dom for			    Ventrue antitribu:2
+1x Ingrid Russo		    4	DOM for				    Ventrue antitribu:2
+1x Katherine Stoddard	    4	dom for				    Ventrue antitribu:3
+1x Peter Blaine		    4	aus dom for			    Ventrue antitribu:2
+
+Library (76 cards)
+Master (9; 2 trifle)
+1x Anarch Troublemaker
+1x Dreams of the Sphinx
+1x Misdirection
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Vox Domini
+1x Vulnerability
+2x Wider View
+
+Action (14)
+2x Abbot
+10x Govern the Unaligned
+2x Under Siege
+
+Equipment (1)
+1x Bowl of Convergence
+
+Action Modifier (6)
+4x Conditioning
+1x Daring the Dawn
+1x Foreshadowing Destruction
+
+Reaction (28)
+3x Cardinal Sin: Insubordination
+1x Deflection
+3x Enhanced Senses
+6x Eyes of Argus
+1x Forced Awakening
+1x My Enemy's Enemy
+4x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+4x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (18)
+1x Armor of Vitality
+3x Hidden Strength
+1x Skin of Steel
+5x Soak
+2x Superior Mettle
+1x Target Vitals
+4x Weighted Walking Stick
+1x Zip Gun

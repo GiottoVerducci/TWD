@@ -1,0 +1,60 @@
+Polish ECQ
+Krakow, Poland
+June 12th 2010
+3R+F
+21 players
+Jakub Serafin
+
+Deck Name: FOR Tremere
+
+Crypt (12 cards, min=23, max=36, avg=7.58)
+------------------------------------------
+4x Gerald Windham	   9   AUS DOM FOR THA	    		Tremere:5
+2x Polly Kay Fisher	   8   AUS DOM THA for pot  archbishop	Ventrue antitribu:4
+2x Troius		   8   AUS DOM THA cel	    prince	Tremere:4
+2x Lord Ephraim Wainwright 6   AUS THA for pre	    		Tremere:5
+1x Jefferson Foster	   6   AUS DOM for tha	    bishop	Ventrue antitribu:4
+1x Claus Wegener	   5   DOM aus for tha	    		Tremere:5
+
+Library (90 cards)
+Master (14; 7 trifle)
+1x Arcane Library
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+5x Villein
+2x Wash
+
+Action (14)
+3x Bum's Rush
+11x Govern the Unaligned
+
+Ally (1)
+1x Ponticulus
+
+Equipment (3)
+1x Ivory Bow
+2x Sniper Rifle
+
+Action Modifier (8)
+2x Bonding
+2x Conditioning
+4x Freak Drive
+
+Reaction (21)
+5x Deflection
+1x Enhanced Senses
+9x Eyes of Argus
+3x Spirit's Touch
+3x Telepathic Misdirection
+
+Combat (29)
+9x Apportation
+2x Rego Motum
+1x Soak
+4x Superior Mettle
+10x Theft of Vitae
+3x Walk of Flame

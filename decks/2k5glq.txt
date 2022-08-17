@@ -1,0 +1,63 @@
+Great Lakes Qualifier
+Lafayette, Indiana
+April 23rd 2005
+41 players
+Jay Kristoff
+
+Deck Name: Legacy of Pander
+
+Crypt (12 cards, min=4, max=12, avg=1.75)
+-----------------------------------------
+1x Jimmy Dunn		    4	CEL POT for	Pander:2
+1x Lena Rowe		    3	aus obf pre	Pander:2
+1x Rex, The Necronomist	    3	pot pro vic	Pander:2
+1x Christine Boscacci	    2	dom vic		Pander:2
+1x Mitchell, The Headhunter 2	obt pot		Pander:2
+1x Angela Decker	    1	pre		Pander:2
+1x Basil		    1	obf		Pander:2
+1x Feo Ramos		    1	aus		Pander:3
+1x Huang, Blood Cultist	    1	pro		Pander:2
+1x March Halcyon	    1	for		Pander:2
+1x Olga Triminov	    1	vic		Pander:3
+1x Royce		    1	dom		Pander:2
+
+Library (60 cards)
+Master (13)
+1x Anarch Troublemaker
+1x Creepshow Casino
+1x Día de los Muertos
+3x Effective Management
+1x Humanitas
+1x Information Highway
+1x Kaymakli Nightmares
+1x Kingston Penitentiary, Ontario
+1x Police Department
+2x Sudden Reversal
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Political Action (37)
+7x Consanguineous Boon
+5x Conservative Agitation
+1x Crusade: Berlin
+1x Crusade: Frankfurt
+1x Crusade: Geneva
+1x Crusade: London
+1x Crusade: Paris
+1x Crusade: Rome
+2x Disputed Territory
+1x Domain Challenge
+1x Finding the Path
+6x Kine Resources Contested
+6x Legacy of Pander
+1x Meddling of Semsith, The
+1x Peace of Khetamon, The
+1x Peace Treaty
+
+Action Modifier (5)
+4x Change of Target
+1x Cryptic Rider
+
+Combat (4)
+4x Dodge

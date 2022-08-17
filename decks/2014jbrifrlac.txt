@@ -1,0 +1,67 @@
+Jann Berger's "R" is for Rampage
+Los Angeles, California
+May 24th 2014
+2R+F
+14 players
+John McGlynn
+https://www.vekn.net/event-calendar/event/7630
+
+-- 4VP in final
+
+Deck Name: Yes.
+
+Description: Violence is not the answer. Violence is the question. The answer is yes.
+
+Crypt (12 cards, min=14, max=26, avg=5)
+---------------------------------------
+1x Kite				  7   AUS DEM obf pre	bishop	Malkavian antitribu:2
+1x Tatiana Romanov		  7   AUS cel pre	prince	Toreador:1
+1x Jost Werner			  6   AUS PRE ani		Toreador antitribu:2
+1x Ozmo				  6   AUS dom obf		Malkavian:1
+1x Quira, The Bitch Queen	  6   AUS OBF obt tha		Malkavian antitribu:2
+1x Sheila Mezarin		  6   AUS PRE cel for		Toreador antitribu:2
+1x Aleph			  4   AUS dom			Malkavian:1
+1x Dorian Strack		  4   AUS cel			Toreador:1
+1x Idalia, Prophet of Guadalajara 4   AUS dem			Malkavian antitribu:2
+1x Remilliard, Devout Crusader	  4   AUS pre			Toreador antitribu:2
+1x Isabel de Leon		  3   AUS			Toreador:2
+1x Zöe				  3   AUS cel obf		Malkavian:2
+
+Library (90 cards)
+Master (4; 2 trifle)
+1x Powerbase: Montreal
+1x Slave Auction
+2x Villein
+
+Action (3)
+3x Legal Manipulations
+
+Equipment (3)
+2x .44 Magnum
+1x Ivory Bow
+
+Reaction (50)
+3x Delaying Tactics
+2x Eagle's Sight
+6x Enhanced Senses
+7x Eyes of Argus
+5x Forced Awakening
+2x Melange
+3x My Enemy's Enemy
+6x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+4x Telepathic Counter
+8x Telepathic Misdirection
+
+Combat (30)
+3x Aura Reading
+2x Boxed In
+1x Dead-End Alley
+3x High Ground
+6x Psychic Assault
+3x Read Intentions
+6x Target Vitals
+3x Taste of Vitae
+2x Weighted Walking Stick
+1x Zip Gun

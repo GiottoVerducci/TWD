@@ -1,0 +1,66 @@
+Sede de Vitae Prt 10
+Online
+July 26th 2021 -- July 29th 2021
+2R+F
+23 players
+Fernando Grossi
+https://www.vekn.net/event-calendar/event/9842
+
+-- 2GW7 + 2VP in final
+
+Deck Name: Desso delicia
+Author: Fernando Oliveira
+Crypt (12 cards, min=18, max=28, avg=5.67)
+------------------------------------------
+2x Dame Hollerton	 5   DOM OBT myt	  	  Kiasyd:4
+2x Ermenegildo, The Rake 5   DOM OBT pot	  	  Lasombra:4
+1x Conrad Adoula	 8   DOM OBT POT ani cel  	  Lasombra:4
+1x Henri Lavenant	 7   DOM OBT pot qui	  	  Lasombra:3
+1x Tobias Smith		 7   DOM OBT PRE pot	  	  Lasombra:3
+1x Isanwayen		 6   DOM MYT OBT	  	  Kiasyd:4
+1x Onaedo		 6   DOM OBT aus pot	  	  Lasombra:4
+1x Virginie, Prodigy	 6   DOM POT obt	  bishop  Lasombra:4
+1x Banjoko		 5   DOM obt pot	  	  Lasombra:3
+1x Lucy Markowitz	 3   dom obt		  	  Lasombra:4
+
+Library (90 cards)
+Master (16; 3 trifle)
+1x Blood Doll
+1x Capitalist
+1x Dreams of the Sphinx
+2x Elysian Fields
+3x Path of Night, The
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Political Hunting Ground
+1x Secret Passage
+1x Secure Haven
+3x Vessel
+
+Action (10)
+10x Govern the Unaligned
+
+Ally (8)
+8x Nocturn
+
+Action Modifier (35)
+2x Blanket of Night
+2x Command of the Beast
+8x Conditioning
+2x Foreshadowing Destruction
+5x Seduction
+4x Shadow Play
+2x Shroud of Absence
+4x Shroud of Night
+4x Tenebrous Form
+2x Threats
+
+Reaction (14)
+3x Deflection
+3x On the Qui Vive
+5x Redirection
+3x Wake with Evening's Freshness
+
+Combat (7)
+3x Oubliette
+4x Shadow Body

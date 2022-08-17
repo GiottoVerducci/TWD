@@ -1,0 +1,89 @@
+TempleCon 2013 Friday
+Warwick, Rhode Island
+February 1st 2013
+10 players
+Kevin Mullen
+
+-- 3VP in final
+
+Deck Name: Miller Time
+
+This is one of the first decks I made. It was very rewarding to finally
+win a tournament with it. As the Boston VTES group will tell you, I'm
+the Miller guy. This deck has undergone an evolution from a committed
+intercept combat deck, to a bleed deck emphasizing Palla Grande and a
+combat package to discourage blocking. Focus on high efficiency permanents
+allows the deck to mostly focus on reactions and combat. If you replicate
+this deck make sure to spread the damage masters and bow amongst your
+minions so other players don't want to block them. Punching with Miller
+for 4 is fun, but doesn't get you GWs.
+
+Crypt (12 cards, min=16, max=33, avg=6.58)
+------------------------------------------
+4x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro	bishop	Toreador antitribu:2
+2x Victor Revell, Loyalist		 5   CEL aus dem pre		Toreador antitribu:2
+1x Rosa Martínez			 9   AUS CEL FOR PRE	bishop	Toreador antitribu:3
+1x Ian Forestal				 8   AUS DOM THA		Tremere antitribu:2
+1x Greta Kircher			 7   AUS CEL PRE obf		Toreador antitribu:2
+1x Jessica				 7   AUS CEL OBT PRE	bishop	Toreador antitribu:2
+1x Remilliard, Devout Crusader		 4   AUS pre			Toreador antitribu:2
+1x Nicholas Chang			 2   aus			Toreador antitribu:3
+
+Library (87 cards)
+Master (17; 2 trifle)
+1x Art of Pain, The
+4x Blood Doll
+1x Depravity
+1x Dreams of the Sphinx
+1x Fame
+1x Fetish Club Hunting Ground
+1x Haven Uncovered
+4x Palla Grande
+1x Rumor Mill, Tabloid Newspaper, The
+1x Wash
+1x Wider View
+
+Action (11)
+1x Aranthebes, The Immortal
+2x Bum's Rush
+5x Enchant Kindred
+2x Entrancement
+1x Social Charm
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (3)
+1x Bowl of Convergence
+1x Ivory Bow
+1x Sport Bike
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+
+Action Modifier (1)
+1x Aire of Elation
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Reaction (23)
+1x Eagle's Sight
+2x Enhanced Senses
+2x Eyes of Argus
+4x Forced Awakening
+4x On the Qui Vive
+3x Quicken Sight
+4x Telepathic Misdirection
+3x Wake with Evening's Freshness
+
+Combat (26)
+3x Blur
+1x Fast Hands
+3x Psyche!
+7x Pursuit
+4x Side Strike
+2x Sideslip
+5x Taste of Vitae
+1x Unholy Penance

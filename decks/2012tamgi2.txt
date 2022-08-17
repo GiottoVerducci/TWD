@@ -1,0 +1,54 @@
+Tutti al Mare 2
+Genoa, Italy
+July 29th 2012
+2R+F
+12 players
+Luca Turicchi
+
+-- 4VP in final
+
+Deck Name: Nosfe Royal
+
+Crypt (12 cards, min=30, max=36, avg=8.42)
+------------------------------------------
+3x Sheldon, Lord of the Clog	9   ANI AUS OBF POT for	 justicar  Nosferatu:1
+3x Selma the Repugnant		8   OBF POT ani for	 prince	   Nosferatu:1
+2x Marty Lechtansi		9   DOM OBF POT ani for	 primogen  Nosferatu:1
+2x Suhailah			9   FOR OBF pot ser	 prince	   Ventrue:2
+2x Nikolaus Vermeulen		7   POT ani for obf	 prince	   Nosferatu:2
+
+Library (80 cards)
+Master (22; 3 trifle)
+1x Barrens, The
+1x Direct Intervention
+1x Elysium: The Palace of Versailles
+1x Labyrinth, The
+5x Legendary Vampire
+1x Papillon
+3x Vessel
+9x Zillah's Valley
+
+Action (5)
+1x Aranthebes, The Immortal
+4x Judgment: Camarilla Segregation
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Banishment
+5x Kine Resources Contested
+9x Parity Shift
+
+Action Modifier (26)
+1x Cryptic Rider
+4x Elder Impersonation
+4x Forgotten Labyrinth
+10x Freak Drive
+4x Lost in Crowds
+3x Old Friends
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Combat (7)
+7x Hidden Strength

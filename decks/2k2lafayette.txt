@@ -1,0 +1,51 @@
+Archon of the Swamp
+Lafayette, Louisiana
+January 12th 2002
+Rob Sheiman
+
+"Austin Represents!"
+
+Crypt (12 cards, min=10, max=18, avg=3.67)
+------------------------------------------
+1x Didi Meyers			   5   DOM aus cel obf	Malkavian:1
+1x Isabel Giovanni		   5   DOM NEC pot	Giovanni:2
+1x Chas Giovanni Tello		   4   DOM POT		Giovanni:2
+1x Courtland Leighton		   4   dom for pre	Ventrue:1
+1x Gloria Giovanni		   4   DOM nec		Giovanni:2
+1x Ignatius			   4   aus dom tha	Tremere:1
+1x Ingrid Russo			   4   DOM for		Ventrue antitribu:2
+1x Peter Blaine			   4   aus dom for	Ventrue antitribu:2
+1x Violette Prentiss		   4   PRE dom		Ventrue:1
+1x Jing Wei			   3   dom tha		Tremere:1
+1x Marciana Giovanni, Investigator 2   dom		Giovanni:2
+1x Royce			   1   dom		Pander:2
+
+Library (90 cards)
+Master (24)
+4x Anarch Revolt
+2x Anarch Troublemaker
+5x Dominate
+3x Dreams of the Sphinx
+1x Information Highway
+1x Parthenon, The
+1x Powerbase: Montreal
+7x Sudden Reversal
+
+Action (15)
+12x Govern the Unaligned
+3x Steal the Mind
+
+Action Modifier (28)
+3x Bonding
+4x Command of the Beast
+6x Conditioning
+12x Seduction
+3x Sleeping Mind, The
+
+Reaction (16)
+6x Deflection
+4x Redirection
+6x Wake with Evening's Freshness
+
+Combat (7)
+7x Absorb the Mind

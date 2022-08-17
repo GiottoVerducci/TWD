@@ -1,0 +1,77 @@
+Black Forest Base: Ascension
+Freiburg, Germany
+September 14th 2019
+3R+F
+14 players
+Rudolf Scholz
+https://www.vekn.net/event-calendar/event/9345
+
+-- 1GW6 + 3VP in final
+
+Deck Name: Swedish Legionnaires
+
+This deck is based on a deck by Erik Mossberg (SWE). Made some changes, not all
+for the better, nevertheless the deck worked like a charme, especially in the
+finals. Score was gw 3 vp/1.5 vp/1.5 vp, entering the finals 3rd rank (2nd rank
+due to a drop). gw 3 vp in the finals, which ended in an epic heads-up. Thanks
+go to: Erik and the whole Stockholm playgroup, for their kindness in general
+and for willingly sharing decklists. To my playgroup, for accepting to play on
+tournament level in every single casual game. To the organisers, Sebastian
+Meurer (new Prince of Freiburg) and the owners of the awesome shop "Kainskind"
+(Childe of Caine).
+
+Crypt (12 cards, min=12, max=40, avg=6.92)
+------------------------------------------
+5x Erlik	   10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+2x Babalawo Alafin 7   AUS FOR NEC ani	    Harbinger of Skulls:4
+2x Anarch Convert  1   -none-		    Caitiff:ANY
+1x Erebus	   7   AUS FOR NEC dem	    Harbinger of Skulls:3
+1x Nicomedes	   5   aus for nec vic	    Harbinger of Skulls:4
+1x Solomon Batanea 5   AUS FOR nec	    Harbinger of Skulls:4
+
+Library (90 cards)
+Master (20; 2 trifle)
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+9x Liquidation
+2x Pentex(TM) Subversion
+2x Rack, The
+2x Vessel
+
+Ally (20)
+1x Carlton Van Wyk
+13x Emerald Legionnaire
+6x Shambling Hordes
+
+Equipment (1)
+1x Bowl of Convergence
+
+Action Modifier (11)
+3x Call of the Hungry Dead
+1x Daring the Dawn
+2x Enkil Cog
+2x Forced March
+3x Inevitability of the Void
+
+Action Modifier/Combat (3)
+3x Breath of Thanatos
+
+Action Modifier/Reaction (3)
+3x Spectral Divination
+
+Reaction (25)
+2x Delaying Tactics
+2x Eagle's Sight
+6x Eyes of Argus
+3x My Enemy's Enemy
+5x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (3)
+1x Martyr's Resilience
+2x Target Vitals
+
+Event (4)
+1x FBI Special Affairs Division
+3x Unmasking, The

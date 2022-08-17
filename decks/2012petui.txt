@@ -1,0 +1,77 @@
+Italian Qualifier Tour 10th stage - Petaniqua
+Udine, Italy
+September 15th 2012
+2R+F
+14 players
+Dennis Floreano
+
+-- 2.5VP in final
+
+Deck Name: [Giovanni] The Little Diary
+
+Crypt (12 cards, min=10, max=19, avg=3.58)
+------------------------------------------
+2x Primo Giovanni	4   dom nec pot		Giovanni:4
+2x Almodo Giovanni	3   dom pot		Giovanni:4
+1x Sennadurek		6   AUS NEC dom		Nagaraja:4
+1x Donatello Giovanni	5   DOM aus pot pre	Giovanni:4
+1x Kay Polerno		4   dom nec pro		Giovanni:5
+1x Thomasso Ghiberti	4   NEC pot		Giovanni:4
+1x Nunzio Giovanni	3   nec pot		Giovanni:4
+1x Stephen Milliner	3   nec pre		Giovanni:5
+1x Cristobal Ghiberti	2   nec			Giovanni:4
+1x Eric Milliner	2   pot			Giovanni:5
+
+Library (62 cards)
+Master (14; 5 trifle)
+1x Direct Intervention
+1x Jake Washington
+1x Lilith's Blessing
+1x Liquidation
+1x Morgue Hunting Ground
+1x Path of Bone, The
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Swiss Cut
+3x Vessel
+2x Villein
+
+Action (12)
+8x Khazar's Diary (Endless Night)
+4x Sudario Refraction
+
+Ally (13)
+1x Caiaphas Smith
+1x Carlton Van Wyk
+1x Draeven Softfoot
+1x Gregory Winter
+1x Impundulu
+2x Mylan Horseed
+1x Ossian
+1x Shambling Hordes
+1x Tye Cooper
+1x Vagabond Mystic
+1x Veneficti
+1x Young Bloods
+
+Equipment (2)
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+
+Retainer (2)
+1x D'habi Revenant
+1x Robert Carter
+
+Action Modifier (3)
+3x Call of the Hungry Dead
+
+Action Modifier/Reaction (3)
+3x Spectral Divination
+
+Reaction (11)
+5x Deflection
+3x Delaying Tactics
+3x On the Qui Vive
+
+Event (2)
+2x Unmasking, The

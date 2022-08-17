@@ -1,0 +1,57 @@
+Toy Chest Test
+Reykjavík, Iceland
+February 15th 2003
+14 players
+Daði
+
+Deck: Brujah fuzz
+
+Crypt (12 cards, min=19, max=32, avg=6.58)
+------------------------------------------
+2x Constanza Vinti		8   CEL DOM POT		 prince	   Brujah:2
+2x Dónal O'Connor		8   CEL DOM POT		 prince	   Brujah:2
+2x Theo Bell			7   POT cel dom pre	 	   Brujah:2
+2x Volker, The Puppet Prince	5   CEL pot		 prince	   Brujah:2
+1x Tura Vaughn			8   CEL POT PRE dom	 primogen  Brujah:1
+1x Anvil			6   CEL POT dom pre tha	 primogen  Brujah:1
+1x Rake				6   PRE aus cel pot	 prince	   Brujah:1
+1x Dre, Leader of the Cold Dawn	3   cel pot		 	   Brujah:1
+
+Library (88 cards)
+Master (12)
+1x Archon Investigation
+4x Blood Doll
+2x Dreams of the Sphinx
+1x Golconda: Inner Peace
+2x Haven Uncovered
+2x Sudden Reversal
+
+Action (9)
+5x Bum's Rush
+3x Govern the Unaligned
+1x Graverobbing
+
+Equipment (2)
+2x Leather Jacket
+
+Political Action (3)
+2x Anathema
+1x Brujah Justicar
+
+Action Modifier (6)
+6x Conditioning
+
+Reaction (14)
+5x Deflection
+5x Second Tradition: Domain
+4x Wake with Evening's Freshness
+
+Combat (42)
+8x Blur
+2x Disarm
+7x Flash
+8x Immortal Grapple
+3x Pursuit
+2x Sideslip
+4x Taste of Vitae
+8x Torn Signpost

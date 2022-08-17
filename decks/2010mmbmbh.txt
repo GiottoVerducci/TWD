@@ -1,0 +1,61 @@
+Birthday Massacre
+Budapest, Hungary
+April 24th 2010
+3R+F
+17 players
+Martin Major
+
+Deck Name: Hardestadt eats the world
+Created by: Martin "Mephistopheles" Major
+
+1. Kill titled vampires.
+2. Kill everything else.
+3. Try to oust with Ancient Influence for added fun.
+
+Crypt (12 cards, min=22, max=44, avg=8.17)
+------------------------------------------
+4x Hardestadt		11  DOM FOR POT PRE cel pro	inner circle	Ventrue:4
+4x Lodin (Olaf Holte)	8   DOM FOR PRE aus pro		prince		Ventrue:5
+1x Graham Gottesman	7   DOM FOR obf pre tha		prince		Ventrue:5
+1x Victor Donaldson	6   DOM for pre			prince		Ventrue:5
+1x Emily Carson		5   DOM for pre			primogen	Ventrue:5
+1x Portia		4   for pre pro					Ventrue:5
+
+Library (90 cards)
+Master (16; 7 trifle)
+4x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Monster
+1x Pentex(TM) Subversion
+1x Ventrue Headquarters
+4x Villein
+2x Wash
+1x Wider View
+
+Action (14)
+2x Abactor
+3x Ambush
+6x Bum's Rush
+3x Harass
+
+Political Action (4)
+1x Ancient Influence
+2x Parity Shift
+1x Reins of Power
+
+Action Modifier (9)
+1x Enkil Cog
+8x Freak Drive
+
+Reaction (5)
+5x Deflection
+
+Combat (42)
+8x Amaranth
+11x Claws of the Dead
+4x Hidden Strength
+11x Immortal Grapple
+2x Rolling with the Punches
+2x Superior Mettle
+4x Unflinching Persistence

@@ -1,0 +1,74 @@
+Fake Out
+Fortaleza, Brazil
+February 21st 2016
+3R+F
+14 players
+Bruno Patrício Silva Pontes
+https://www.vekn.net/event-calendar/event/8314
+
+-- 4VP in final
+
+Deck Name: Sebastian and its narnia whores
+
+Crypt (12 cards, min=10, max=34, avg=6.08)
+------------------------------------------
+4x Sébastien Goulet	  8   DOM OBF cel pre pro  		Gangrel antitribu:3
+1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro  		Gangrel antitribu:3
+1x Hartmut Stover	  10  CEL OBF PRO dom for  archbishop	Gangrel antitribu:3
+1x Soldat		  7   POT PRO cel dom obf  		Gangrel antitribu:3
+1x Caitlin		  6   ANI PRO aus dom	   bishop	Gangrel antitribu:2
+1x Pieter		  6   OBF PRO for tha	   		Gangrel antitribu:2
+1x Sadie		  2   pro		   		Gangrel antitribu:2
+1x Anarch Convert	  1   -none-		   		Caitiff:ANY
+1x Royce		  1   dom		   		Pander:2
+
+Library (90 cards)
+Master (18; 6 trifle)
+3x Charisma
+1x Golconda: Inner Peace
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+3x Perfectionist
+1x Powerbase: Montreal
+1x Twisted Forest
+3x Vessel
+3x Villein
+1x Wall Street Night, Financial Newspaper
+
+Action (8)
+2x Blithe Acceptance
+2x Epiphany
+4x Govern the Unaligned
+
+Ally (13)
+1x Carlton Van Wyk
+2x Mylan Horseed
+10x Shadow Court Satyr
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (1)
+1x Malajit Chandramouli
+
+Action Modifier (20)
+6x Cloak the Gathering
+4x Conditioning
+4x Faceless Night
+1x Into Thin Air
+1x Seduction
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (12)
+6x Deflection
+6x On the Qui Vive
+
+Combat (13)
+13x Earth Meld
+
+Event (2)
+2x Unmasking, The

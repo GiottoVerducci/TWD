@@ -1,0 +1,49 @@
+Break the Code
+Librairie le Donjon, Quebec City, Quebec
+May 14th 2006
+3R+F
+10 players
+Allan Birket
+
+Deck Name: Shifting The Pranks
+
+Crypt (12 cards, min=26, max=42, avg=8.17)
+------------------------------------------
+2x Leandro		11  AUS OBF PRE cel dom	 inner circle	Malkavian:2
+2x Lucian		10  AUS DOM OBF cel tha	 justicar	Malkavian:1
+2x Anson		8   CEL PRE aus dom	 prince		Toreador:1
+2x Gilbert Duane	7   AUS DOM OBF		 prince		Malkavian:1
+2x Greger Anderssen	7   AUS OBF dom pro	 prince		Malkavian:2
+1x Murat		7   OBF POT ser		 prince		Nosferatu:2
+1x Calebros, The Martyr	5   ANI obf pot		 prince		Nosferatu:2
+
+Library (90 cards)
+Master (21)
+2x Legendary Vampire
+4x Major Boon
+13x Malkavian Prank
+2x Parthenon, The
+
+Action (6)
+6x Slaughtering the Herd
+
+Political Action (17)
+2x Banishment
+2x Disputed Territory
+6x Kine Resources Contested
+6x Parity Shift
+1x Rumors of Gehenna
+
+Action Modifier (22)
+4x Conditioning
+6x Elder Impersonation
+6x Lost in Crowds
+6x Seduction
+
+Reaction (16)
+6x Deflection
+6x Obedience
+4x Wake with Evening's Freshness
+
+Combat (8)
+8x Read Intentions

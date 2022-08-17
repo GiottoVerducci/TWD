@@ -1,0 +1,65 @@
+Pierniki by Night
+Torun, Poland
+February 9th 2013
+3R+F
+18 players
+Aleksander Idziak
+
+Deck Name: Gangrel - Stanislava - Mind Rape
+
+Crypt (13 cards, min=23, max=44, avg=8.69)
+------------------------------------------
+5x Stanislava		11  ANI CEL DOM FOR PRO	 inner circle	Gangrel:2
+3x Iliana		7   DOM FOR PRO tha	 		Gangrel:2
+2x Ingrid Rossler	9   ANI FOR PRO dom	 prince		Gangrel:2
+1x Hartmut Stover	10  CEL OBF PRO dom for	 archbishop	Gangrel antitribu:3
+1x Caitlin		6   ANI PRO aus dom	 bishop		Gangrel antitribu:2
+1x Chandler Hungerford	3   PRO			 		Gangrel:2
+
+Library (82 cards)
+Master (21; 6 trifle)
+1x Backways
+1x Coven, The
+1x Dominate
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Heidelberg Castle, Germany
+1x Information Highway
+1x Pentex(TM) Subversion
+5x Villein
+5x Zillah's Valley
+
+Action (16)
+4x Abactor
+1x Distraction
+4x Govern the Unaligned
+7x Mind Rape
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (5)
+1x Ancient Influence
+2x Banishment
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (21)
+1x Conditioning
+6x Earth Control
+1x Enkil Cog
+4x Forced March
+1x Foreshadowing Destruction
+4x Freak Drive
+4x Seduction
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Reaction (8)
+5x Deflection
+3x On the Qui Vive
+
+Combat (8)
+3x Earth Meld
+5x Form of Mist

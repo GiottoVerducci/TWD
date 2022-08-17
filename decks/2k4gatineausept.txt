@@ -1,0 +1,70 @@
+Québec NCQ
+Gatineau, Quebec
+September 26th 2004
+3R+F
+14 players
+Charles Lechasseur
+
+Deck Name: All in Favor, Howl "Yea"
+
+Here is my winning deck. This deck was built before Anarchs came out and I
+didn't have time to tweak it before the tournament. It doesn't have a lot
+of permanent votes, so I was lucky to not face any dedicated political
+
+Crypt (12 cards, min=24, max=38, avg=7.67)
+------------------------------------------
+3x Cailean	  10  ANI OBF POT PRE dom  archbishop	Nosferatu antitribu:2
+3x Howler	  8   ANI PRE SPI obf	   		Ahrimane:2
+3x Siamese, The	  7   PRE SPI ani pro	   		Ahrimane:2
+2x Cynthia Ingold 6   SPI ani for pre	   		Ahrimane:2
+1x Nettie Hale	  5   ani cel pre pro spi  		Ahrimane:2
+
+Library (85 cards)
+Master (12)
+1x Blood Doll
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Legendary Vampire
+4x Minion Tap
+1x Powerbase: Madrid
+
+Action (6)
+4x Enchant Kindred
+2x Engling Fury
+
+Ally (1)
+1x High Top
+
+Political Action (18)
+1x Ancient Influence
+2x Ancilla Empowerment
+1x Banishment
+3x Cardinal Benediction
+1x Conservative Agitation
+1x Crusade: Mexico City
+2x Domain Challenge
+2x Dramatic Upheaval
+5x Kine Resources Contested
+
+Action Modifier (14)
+1x Awe
+5x Bewitching Oration
+4x Forgotten Labyrinth
+4x Voter Captivation
+
+Action Modifier/Combat (6)
+6x Swiftness of the Stag
+
+Reaction (15)
+2x Cats' Guidance
+3x Deflection
+2x Falcon's Eye
+4x Speak with Spirits
+4x Wake with Evening's Freshness
+
+Combat (13)
+4x Chameleon's Colors
+6x Majesty
+3x Terror Frenzy

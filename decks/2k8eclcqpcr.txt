@@ -1,0 +1,69 @@
+EC 2008 - Last Chance Qualifier
+Prague, Czech Republic
+September 19th 2008
+3R+F
+159 players
+Orian Gissler
+
+Deck Name: Sudario Diary
+
+Crypt (12 cards, min=8, max=17, avg=3.08)
+-----------------------------------------
+2x Gloria Giovanni		   4   DOM nec	    Giovanni:2
+2x Marciana Giovanni, Investigator 2   dom	    Giovanni:2
+2x Paul DiCarlo, The Alpha	   2   pot	    Giovanni:2
+1x Isabel Giovanni		   5   DOM NEC pot  Giovanni:2
+1x Francesca Giovanni		   4   dom nec pot  Giovanni:2
+1x Cristofero Giovanni		   3   nec pot	    Giovanni:2
+1x Lia Milliner			   3   dom nec	    Giovanni:3
+1x Mario Giovanni		   3   nec pot	    Giovanni:2
+1x Rudolfo Giovanni		   3   NEC	    Giovanni:2
+
+Library (80 cards)
+Master (27; 4 trifle)
+4x Acquired Ventrue Assets
+2x Archon Investigation
+1x Direct Intervention
+4x Jake Washington
+1x Last Stand
+4x Liquidation
+4x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Protected Resources
+4x Vessel
+
+Action (20)
+1x Chair of Hades
+6x Embrace, The
+7x Khazar's Diary (Endless Night)
+6x Sudario Refraction
+
+Ally (14)
+1x Ambrosius, The Ferryman
+2x Carlton Van Wyk
+1x Gregory Winter
+1x Leonardo, Mortician
+2x Ossian
+2x Repo Man
+2x Shambling Hordes
+1x Tye Cooper
+1x Vagabond Mystic
+1x Young Bloods
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (2)
+1x Call of the Hungry Dead
+1x Conditioning
+
+Reaction (12)
+5x Deflection
+5x Delaying Tactics
+2x On the Qui Vive
+
+Event (4)
+1x Anthelios, The Red Star
+1x FBI Special Affairs Division
+2x Unmasking, The

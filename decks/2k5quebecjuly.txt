@@ -1,0 +1,61 @@
+Rise of the Nephtali
+Librairie le Donjon, Quebec City, Quebec
+July 10th 2005
+3R+F
+16 players
+Marc Desaulniers
+
+Deck Name: Hartmut's Corporation V 2.0
+
+Crypt (12 cards, min=28, max=40, avg=8.25)
+------------------------------------------
+4x Hartmut Stover   10	CEL OBF PRO dom for	 archbishop	Gangrel antitribu:3
+3x Sébastien Goulet 8	DOM OBF cel pre pro	 		Gangrel antitribu:3
+3x Phillipe Rigaud  7	DOM OBF PRO ani aus obt	 		Gangrel antitribu:4
+2x Soldat	    7	POT PRO cel dom obf	 		Gangrel antitribu:3
+
+Library (90 cards)
+Master (18)
+2x Bleeding the Vine
+3x Blood Doll
+2x Capitalist
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Hungry Coyote, The
+3x Jake Washington
+3x Minion Tap
+
+Action (14)
+2x Dominate Kine
+4x Dual Form
+2x Far Mastery
+3x Govern the Unaligned
+3x Scouting Mission
+
+Ally (2)
+2x Mylan Horseed
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (20)
+3x Bonding
+3x Elder Impersonation
+2x Faceless Night
+3x Lost in Crowds
+3x Seduction
+3x Spying Mission
+3x Threats
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (15)
+4x Confusion of the Eye
+7x Deflection
+4x Wake with Evening's Freshness
+
+Combat (16)
+8x Earth Meld
+8x Form of Mist

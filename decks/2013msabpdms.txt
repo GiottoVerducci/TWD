@@ -8,17 +8,17 @@ Matías Tugores
 Deck Name: Tremere
 Created by: Moisés Ferrer Gallegos
 
-Crypt (12 cards, min=12 max=27 avg=5)
--------------------------------------
-3x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
-2x Selena                       6   AUS DOM THA                   Tremere antitribu:3
-1x Aisling Sturbridge           5   AUS THA dom                   Tremere:2
-1x Cohn Rose                    5   THA aus dom pre               Tremere:3
-1x Hannigan                     5   AUS THA dom                   Tremere antitribu:2
-1x Blythe Candeleria            3   THA aus                       Tremere:2
-1x Brooke                       3   dom tha                       Tremere antitribu:2
-1x Ehrich Weiss                 3   dom tha                       Tremere:3
-1x Masika St. John              3   THA                           Tremere:3
+Crypt (12 cards, min=12, max=27, avg=5)
+---------------------------------------
+3x Carna, The Princess Witch  7  AUS DOM THA      primogen  Tremere:3
+2x Selena                     6  AUS DOM THA                Tremere antitribu:3
+1x Aisling Sturbridge         5  AUS THA dom                Tremere:2
+1x Cohn Rose                  5  THA aus dom pre            Tremere:3
+1x Hannigan                   5  AUS THA dom                Tremere antitribu:2
+1x Blythe Candeleria          3  THA aus                    Tremere:2
+1x Brooke                     3  dom tha                    Tremere antitribu:2
+1x Ehrich Weiss               3  dom tha                    Tremere:3
+1x Masika St. John            3  THA                        Tremere:3
 
 Library (75 cards)
 Master (12)

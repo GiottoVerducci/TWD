@@ -28,19 +28,19 @@ werner... the duplicate crypt draw doesn't really hurt me much, but
 having jost's inherent stealth might make a big difference in some
 games...
 
-Crypt (12 cards, min=19 max=35 avg=6.83)
-----------------------------------------
-2x Caliban                          6   ANI AUS VIC                         Tzimisce:2
-1x Lambach                          10  ANI AUS DOM VIC pre     cardinal    Tzimisce:2
-1x Stravinsky                       9   ANI AUS VIC pot         archbishop  Tzimisce:2
-1x Anton                            8   ANI AUS cel obf vic                 Tzimisce:2
-1x Little Tailor of Prague          8   ANI AUS VIC dem                     Tzimisce:2
-1x Meshenka                         8   ANI AUS VIC             priscus     Tzimisce:2
-1x Sascha Vykos, The Angel of Caine 8   AUS THA VIC ani dom     priscus     Tzimisce:2
-1x Corine Marcón                    6   AUS VIC ani                         Tzimisce:2
-1x Devin Bisley                     5   ANI AUS vic                         Tzimisce:2
-1x Lolita Houston                   4   VIC aus                             Tzimisce:2
-1x Terrence                         4   ani aus vic                         Tzimisce:2
+Crypt (12 cards, min=19, max=35, avg=6.83)
+------------------------------------------
+2x Caliban                            6  ANI AUS VIC                      Tzimisce:2
+1x Lambach                           10  ANI AUS DOM VIC pre  cardinal    Tzimisce:2
+1x Stravinsky                         9  ANI AUS VIC pot      archbishop  Tzimisce:2
+1x Anton                              8  ANI AUS cel obf vic              Tzimisce:2
+1x Little Tailor of Prague            8  ANI AUS VIC dem                  Tzimisce:2
+1x Meshenka                           8  ANI AUS VIC          priscus     Tzimisce:2
+1x Sascha Vykos, The Angel of Caine   8  AUS THA VIC ani dom  priscus     Tzimisce:2
+1x Corine Marcón                      6  AUS VIC ani                      Tzimisce:2
+1x Devin Bisley                       5  ANI AUS vic                      Tzimisce:2
+1x Lolita Houston                     4  VIC aus                          Tzimisce:2
+1x Terrence                           4  ani aus vic                      Tzimisce:2
 
 Library (90 cards)
 Master (16)

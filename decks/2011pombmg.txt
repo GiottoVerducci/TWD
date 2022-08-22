@@ -13,18 +13,18 @@ Dedicated to Nora and Vlada.
 
 would drop 2x Huitzilopochtli for additional 2x Anson
 
-Crypt (12 cards, min=16 max=36 avg=6.25)
-----------------------------------------
-2x Huitzilopochtli                 10  AUS DAI DOM OBF POT PRE            Baali:2
-2x Anson                           8   CEL PRE aus dom          prince    Toreador:1
-1x Sir Walter Nash                 7   DOM FOR PRE              prince    Ventrue:1
-1x Victoria Ash                    6   PRE aus cel dom          primogen  Toreador:2
-1x Jazz Wentworth                  5   PRE dom for                        Ventrue:1
-1x Ramiel DuPre                    5   PRE aus cel dom                    Toreador:1
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                        Ventrue:2
-1x Mariana Gilbert                 4   PRE cel                            Toreador:1
-1x Violette Prentiss               4   PRE dom                            Ventrue:1
-1x Gideon Fontaine                 3   PRE                                Ventrue:1
+Crypt (12 cards, min=16, max=36, avg=6.25)
+------------------------------------------
+2x Huitzilopochtli                  10  AUS DAI DOM OBF POT PRE            Baali:2
+2x Anson                             8  CEL PRE aus dom          prince    Toreador:1
+1x Sir Walter Nash                   7  DOM FOR PRE              prince    Ventrue:1
+1x Victoria Ash                      6  PRE aus cel dom          primogen  Toreador:2
+1x Jazz Wentworth                    5  PRE dom for                        Ventrue:1
+1x Ramiel DuPre                      5  PRE aus cel dom                    Toreador:1
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                        Ventrue:2
+1x Mariana Gilbert                   4  PRE cel                            Toreador:1
+1x Violette Prentiss                 4  PRE dom                            Ventrue:1
+1x Gideon Fontaine                   3  PRE                                Ventrue:1
 
 Library (80 cards)
 Master (27; 1 trifle)

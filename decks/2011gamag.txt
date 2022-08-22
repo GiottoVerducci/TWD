@@ -9,17 +9,17 @@ Deck Name: Ira
 
 Description: Blocks everything.
 
-Crypt (12 cards, min=10 max=37 avg=6.25)
-----------------------------------------
-4x Ira Rivers              7   AUS CEL ani pre          prince          Toreador:3
-1x Rafael de Corazon       11  AUS CEL DOM OBF PRE      inner circle    Toreador:4
-1x Madame Guil             10  AUS CEL PRE for pot ser  justicar        Toreador:3
-1x Annabelle Triabell      9   AUS CEL PRE dom for      primogen        Toreador:3
-1x Suzanne Kadim           7   CEL PRE aus dom obf                      Toreador:3
-1x Monique Kim             3   aus cel                                  Toreador antitribu:4
-1x Yvette, The Hopeless    3   aus cel                                  Toreador:3
-1x Emerson Wilkershire III 2   pre                                      Toreador:3
-1x Nicholas Chang          2   aus                                      Toreador antitribu:3
+Crypt (12 cards, min=10, max=37, avg=6.25)
+------------------------------------------
+4x Ira Rivers                7  AUS CEL ani pre          prince        Toreador:3
+1x Rafael de Corazon        11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Madame Guil              10  AUS CEL PRE for pot ser  justicar      Toreador:3
+1x Annabelle Triabell        9  AUS CEL PRE dom for      primogen      Toreador:3
+1x Suzanne Kadim             7  CEL PRE aus dom obf                    Toreador:3
+1x Monique Kim               3  aus cel                                Toreador antitribu:4
+1x Yvette, The Hopeless      3  aus cel                                Toreador:3
+1x Emerson Wilkershire III   2  pre                                    Toreador:3
+1x Nicholas Chang            2  aus                                    Toreador antitribu:3
 
 Library (82 cards)
 Master (26; 4 trifle)

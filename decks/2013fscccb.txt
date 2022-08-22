@@ -12,16 +12,16 @@ Deck Name: Ravnos-Maionese
 Description: Silencioso. Tenta sobreviver fazendo seus inimigos ficarem sem agir até aparecer
 a oportunidade de ganhar rapidamente o jogo.
 
-Crypt (13 cards, min=17 max=34 avg=6.62)
-----------------------------------------
-4x Gabrin                         8   ANI CHI dom for      Ravnos:2
-2x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom  Ravnos:2
-2x Sarisha Veliku                 6   ANI FOR chi dom      Ravnos:2
-1x Natalia                        7   ANI chi dom for      Ravnos:2
-1x Joaquina Amaya                 6   ANI CHI FOR          Ravnos:2
-1x Vaclav Petalengro              6   ANI CHI for pot      Ravnos:2
-1x Salbatore Bokkengro            4   CHI for pro          Ravnos:2
-1x Royce                          1   dom                  Pander:2
+Crypt (13 cards, min=17, max=34, avg=6.62)
+------------------------------------------
+4x Gabrin                          8  ANI CHI dom for      Ravnos:2
+2x Kostantin, Baro of the Caravan  9  ANI CHI FOR cel dom  Ravnos:2
+2x Sarisha Veliku                  6  ANI FOR chi dom      Ravnos:2
+1x Natalia                         7  ANI chi dom for      Ravnos:2
+1x Joaquina Amaya                  6  ANI CHI FOR          Ravnos:2
+1x Vaclav Petalengro               6  ANI CHI for pot      Ravnos:2
+1x Salbatore Bokkengro             4  CHI for pro          Ravnos:2
+1x Royce                           1  dom                  Pander:2
 
 Library (90 cards)
 Master (18; 4 trifle)

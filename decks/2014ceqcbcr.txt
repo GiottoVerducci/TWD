@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/7533
 
 Deck Name: Stanislava & Lazverinus
 
-Crypt (12 cards, min=25 max=44 avg=8.92)
-----------------------------------------
-4x Stanislava                    11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
-3x Ingrid Rossler                9   ANI FOR PRO dom      prince        Gangrel:2
-1x Genevieve                     10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
-1x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop    Ventrue antitribu:2
-1x Iliana                        7   DOM FOR PRO tha                    Gangrel:2
-1x Caitlin                       6   ANI PRO aus dom      bishop        Gangrel antitribu:2
-1x Chandler Hungerford           3   PRO                                Gangrel:2
+Crypt (12 cards, min=25, max=44, avg=8.92)
+------------------------------------------
+4x Stanislava                     11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+3x Ingrid Rossler                  9  ANI FOR PRO dom      prince        Gangrel:2
+1x Genevieve                      10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+1x Lazverinus, Thrall of Lambach  10  AUS DOM FOR POT pro  archbishop    Ventrue antitribu:2
+1x Iliana                          7  DOM FOR PRO tha                    Gangrel:2
+1x Caitlin                         6  ANI PRO aus dom      bishop        Gangrel antitribu:2
+1x Chandler Hungerford             3  PRO                                Gangrel:2
 
 Library (89 cards)
 Master (21; 10 trifle)

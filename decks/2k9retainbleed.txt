@@ -19,20 +19,20 @@ good advantage to me, because i was able to look at their hands and
 bled irresponsibly. Future improvements, remove "Recruiting Party",
 change Fortitude prevention.
 
-Crypt (12 cards, min=14 max=22 avg=4.58)
-----------------------------------------
-1x Charice Fontaigne    6   AUS DOM for pot             Ventrue antitribu:3
-1x Jefferson Foster     6   AUS DOM for tha     bishop  Ventrue antitribu:4
-1x Catherine du Bois    5   DOM for obf pre             Ventrue:3
-1x Esoara               5   DOM aus for pot             Tremere antitribu:4
-1x Jephta Hester        5   DOM FOR aus                 Ventrue antitribu:4
-1x João Bilé            5   DOM FOR pre                 Ventrue:4
-1x Louis de Maisonneuve 5   FOR aus dom obf             Ventrue antitribu:4
-1x Earl                 4   dom for pot                 Ventrue:3
-1x Katherine Stoddard   4   dom for                     Ventrue antitribu:3
-1x Randel, The Coward   4   dom for obt                 Ventrue antitribu:4
-1x Lana Butcher         3   dom for                     Ventrue:3
-1x Ulrike Rothbart      3   dom for                     Ventrue antitribu:4
+Crypt (12 cards, min=14, max=22, avg=4.58)
+------------------------------------------
+1x Charice Fontaigne     6  AUS DOM for pot          Ventrue antitribu:3
+1x Jefferson Foster      6  AUS DOM for tha  bishop  Ventrue antitribu:4
+1x Catherine du Bois     5  DOM for obf pre          Ventrue:3
+1x Esoara                5  DOM aus for pot          Tremere antitribu:4
+1x Jephta Hester         5  DOM FOR aus              Ventrue antitribu:4
+1x João Bilé             5  DOM FOR pre              Ventrue:4
+1x Louis de Maisonneuve  5  FOR aus dom obf          Ventrue antitribu:4
+1x Earl                  4  dom for pot              Ventrue:3
+1x Katherine Stoddard    4  dom for                  Ventrue antitribu:3
+1x Randel, The Coward    4  dom for obt              Ventrue antitribu:4
+1x Lana Butcher          3  dom for                  Ventrue:3
+1x Ulrike Rothbart       3  dom for                  Ventrue antitribu:4
 
 Library (90 cards)
 Master (16; 5 trifle)

@@ -17,13 +17,13 @@ archetype.
 Very minor changes to previous versions. It seems to be particularly important
 for this deck to be as slim as possible, so I try to always keep it at 65
 
-Crypt (12 cards, min=13 max=40 avg=6.92)
-----------------------------------------
-5x unnamed, The            10  CEL DAI OBF PRE PRO          Baali:6
-2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro          Baali:6
-2x Arishat                 6   DAI OBF PRE          1 vote  Baali:6
-2x Horde, The              3   dai obf pre                  Baali:6
-1x Anarch Convert          1   -none-                       Caitiff:ANY
+Crypt (12 cards, min=13, max=40, avg=6.92)
+------------------------------------------
+5x unnamed, The             10  CEL DAI OBF PRE PRO          Baali:6
+2x Xeper, Sultan of Lepers   7  OBF PRE ani dai pro          Baali:6
+2x Arishat                   6  DAI OBF PRE          1 vote  Baali:6
+2x Horde, The                3  dai obf pre                  Baali:6
+1x Anarch Convert            1  -none-                       Caitiff:ANY
 
 Library (65 cards)
 Master (10; 3 trifle)

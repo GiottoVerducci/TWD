@@ -24,15 +24,15 @@ blocked). Reformation wasn't too great (only played it once,
 unsuccessfully). I also had trouble drawing into my Blood Dolls, maybe
 I should add one more (and/or throw out some more cards).
 
-Crypt (12 cards, min=19 max=32 avg=6.58)
-----------------------------------------
-3x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre  Ventrue antitribu:3
-2x Ian Forestal                 8   AUS DOM THA          Tremere antitribu:2
-2x Joseph O'Grady               7   DOM FOR aus cel      Ventrue antitribu:3
-2x Kyoko Shinsegawa             5   aus cel dom for      Tremere:3
-1x Dylan                        6   aus cel dom for pro  Ventrue antitribu:2
-1x Andrei Puxon                 5   ani cel chi for      Ravnos:2
-1x Gustavo Morales              4   ani cel for          Gangrel:3
+Crypt (12 cards, min=19, max=32, avg=6.58)
+------------------------------------------
+3x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre  Ventrue antitribu:3
+2x Ian Forestal               8  AUS DOM THA          Tremere antitribu:2
+2x Joseph O'Grady             7  DOM FOR aus cel      Ventrue antitribu:3
+2x Kyoko Shinsegawa           5  aus cel dom for      Tremere:3
+1x Dylan                      6  aus cel dom for pro  Ventrue antitribu:2
+1x Andrei Puxon               5  ani cel chi for      Ravnos:2
+1x Gustavo Morales            4  ani cel for          Gangrel:3
 
 Library (82 cards)
 Master (25; 9 trifle)

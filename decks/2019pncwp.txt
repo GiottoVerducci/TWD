@@ -11,16 +11,16 @@ https://www.vekn.net/event-calendar/event/9202
 Deck Name: Anson Ashurs
 Created by: Toy
 
-Crypt (12 cards, min=18 max=34 avg=7)
--------------------------------------
-4x Anson                        8   CEL PRE aus dom     prince    Toreador:1
-2x Volker, The Puppet Prince    5   CEL pot             prince    Brujah:2
-1x Anneke                       10  AUS CEL PRE dom     justicar  Toreador:1
-1x Constanza Vinti              8   CEL DOM POT         prince    Brujah:2
-1x Dónal O'Connor               8   CEL DOM POT         prince    Brujah:2
-1x Marcellus                    8   AUS CEL pro         prince    Toreador:2
-1x Black Cat                    5   CEL pot pre                   Brujah:1
-1x Sarah Brando                 3   CEL                           Brujah antitribu:2
+Crypt (12 cards, min=18, max=34, avg=7)
+---------------------------------------
+4x Anson                       8  CEL PRE aus dom  prince    Toreador:1
+2x Volker, The Puppet Prince   5  CEL pot          prince    Brujah:2
+1x Anneke                     10  AUS CEL PRE dom  justicar  Toreador:1
+1x Constanza Vinti             8  CEL DOM POT      prince    Brujah:2
+1x Dónal O'Connor              8  CEL DOM POT      prince    Brujah:2
+1x Marcellus                   8  AUS CEL pro      prince    Toreador:2
+1x Black Cat                   5  CEL pot pre                Brujah:1
+1x Sarah Brando                3  CEL                        Brujah antitribu:2
 
 Library (83 cards)
 Master (26; 7 trifle)

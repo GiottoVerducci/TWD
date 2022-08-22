@@ -89,15 +89,15 @@ I had the Daring the Dawn in hand at this point, but in case something went
 wrong I wanted her out-of-torpor. The last vote succeeds and I take the table
 3-2.
 
-Crypt (13 cards, min=4 max=23 avg=3.31)
----------------------------------------
-5x Anarch Convert                 1   -none-            Caitiff:ANY
-2x Yseult                         6   FOR MEL PRE       Daughter of Cacophony:3
-2x Angela Preston                 5   MEL PRE for       Daughter of Cacophony:2
-1x Gaël Pilet                     6   FOR MEL chi pre   Daughter of Cacophony:2
-1x Delilah Monroe                 4   MEL for pre       Daughter of Cacophony:2
-1x Céleste, The Voice of a Secret 3   mel pre           Daughter of Cacophony:2
-1x Muse                           3   ani for mel       Daughter of Cacophony:2
+Crypt (13 cards, min=4, max=23, avg=3.31)
+-----------------------------------------
+5x Anarch Convert                  1  -none-           Caitiff:ANY
+2x Yseult                          6  FOR MEL PRE      Daughter of Cacophony:3
+2x Angela Preston                  5  MEL PRE for      Daughter of Cacophony:2
+1x Gaël Pilet                      6  FOR MEL chi pre  Daughter of Cacophony:2
+1x Delilah Monroe                  4  MEL for pre      Daughter of Cacophony:2
+1x Céleste, The Voice of a Secret  3  mel pre          Daughter of Cacophony:2
+1x Muse                            3  ani for mel      Daughter of Cacophony:2
 
 Library (77 cards)
 Master (15; 1 trifle)

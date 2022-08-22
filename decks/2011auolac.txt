@@ -9,15 +9,15 @@ Deck Name: Junta
 Description: Based on Junta by Jeroen van Oort and Peter Bouwman.
 Modified to fit my more modest collection.
 
-Crypt (12 cards, min=27 max=40 avg=8.5)
----------------------------------------
-5x Ayo Igoli                    10  AUS CEL FOR PRE obf tha                 Ishtarri:4
-2x Ubende                       7   CEL PRE for obf qui         magaji      Ishtarri:4
-1x Malabranca                   9   AUS CEL PRE PRO obf         archbishop  Toreador antitribu:4
-1x Count Germaine               8   CEL FOR POT PRE obf                     Brujah:4
-1x J. Oswald "Ozzy" Hyde-White  8   AUS FOR OBF dom pre         primogen    Malkavian:3
-1x Mukhtar Bey                  7   FOR PRE QUI obf pot         prince      Caitiff:4
-1x Antoinette, She Who Watches  6   AUS PRE cel obf             primogen    Toreador:3
+Crypt (12 cards, min=27, max=40, avg=8.5)
+-----------------------------------------
+5x Ayo Igoli                    10  AUS CEL FOR PRE obf tha              Ishtarri:4
+2x Ubende                        7  CEL PRE for obf qui      magaji      Ishtarri:4
+1x Malabranca                    9  AUS CEL PRE PRO obf      archbishop  Toreador antitribu:4
+1x Count Germaine                8  CEL FOR POT PRE obf                  Brujah:4
+1x J. Oswald "Ozzy" Hyde-White   8  AUS FOR OBF dom pre      primogen    Malkavian:3
+1x Mukhtar Bey                   7  FOR PRE QUI obf pot      prince      Caitiff:4
+1x Antoinette, She Who Watches   6  AUS PRE cel obf          primogen    Toreador:3
 
 Library (90 cards)
 Master (15)

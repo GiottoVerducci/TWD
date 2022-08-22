@@ -9,15 +9,15 @@ Deck Name: Ghede Typhonic Beast
 
 -- 2.5 + 2.5 + 4VP in final
 
-Crypt (13 cards, min=17 max=40 avg=8.15)
-----------------------------------------
-5x Ghede                        10  FOR OBF POT PRE SER          Follower of Set:6
-3x Seterpenre                   10  AUS NEC OBF PRE SER          Follower of Set:5
-1x Shemti                       9   OBF POT PRE SER vic  1 vote  Follower of Set:5
-1x Arthur Denholm               5   AUS DEM obf                  Malkavian:5
-1x Dr. Morrow, The Skindoctor   5   AUS VIC for                  Tzimisce:5
-1x Tyler McGill                 4   AUS pre                      Toreador:5
-1x Veejay Vinod                 3   AUS                          Nagaraja:6
+Crypt (13 cards, min=17, max=40, avg=8.15)
+------------------------------------------
+5x Ghede                       10  FOR OBF POT PRE SER          Follower of Set:6
+3x Seterpenre                  10  AUS NEC OBF PRE SER          Follower of Set:5
+1x Shemti                       9  OBF POT PRE SER vic  1 vote  Follower of Set:5
+1x Arthur Denholm               5  AUS DEM obf                  Malkavian:5
+1x Dr. Morrow, The Skindoctor   5  AUS VIC for                  Tzimisce:5
+1x Tyler McGill                 4  AUS pre                      Toreador:5
+1x Veejay Vinod                 3  AUS                          Nagaraja:6
 
 Library (90 cards)
 Master (19; 4 trifle)

@@ -7,13 +7,13 @@ Péter Botos
 
 Deck Name: Cats and Dogs
 
-Crypt (12 cards, min=4 max=11 avg=1.58)
----------------------------------------
-8x Tupdog               1   POT VIS     Gargoyle:3
-1x Brooke               3   dom tha     Tremere antitribu:2
-1x Ember Wright         3   aus dom     Tremere antitribu:3
-1x Saiz                 3   aus dom     Tremere antitribu:3
-1x Heinrick Schlempt    2   tha         Tremere antitribu:2
+Crypt (12 cards, min=4, max=11, avg=1.58)
+-----------------------------------------
+8x Tupdog             1  POT VIS  Gargoyle:3
+1x Brooke             3  dom tha  Tremere antitribu:2
+1x Ember Wright       3  aus dom  Tremere antitribu:3
+1x Saiz               3  aus dom  Tremere antitribu:3
+1x Heinrick Schlempt  2  tha      Tremere antitribu:2
 
 Library (64 cards)
 Master (21)

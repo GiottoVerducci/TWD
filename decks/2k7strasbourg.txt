@@ -7,16 +7,16 @@ Diego Spallattie
 
 1GW5.5 during the rounds + 1.5VP in final
 
-Crypt (12 cards, min=9 max=40 avg=6.67)
----------------------------------------
-4x Anneke          10  AUS CEL PRE dom          justicar  Toreador:1
-2x Marcellus       8   AUS CEL pro              prince    Toreador:2
-1x François Villon 10  AUS CEL PRE chi obf pot  prince    Toreador:2
-1x Felicia Mostrom 5   AUS CEL pre                        Toreador:1
-1x Isabel de Leon  3   AUS                                Toreador:2
-1x Zöe             3   AUS cel obf                        Malkavian:2
-1x Dieter Kleist   2   aus                                Toreador:1
-1x Franciscus      1   aus                                Caitiff:2
+Crypt (12 cards, min=9, max=40, avg=6.67)
+-----------------------------------------
+4x Anneke           10  AUS CEL PRE dom          justicar  Toreador:1
+2x Marcellus         8  AUS CEL pro              prince    Toreador:2
+1x François Villon  10  AUS CEL PRE chi obf pot  prince    Toreador:2
+1x Felicia Mostrom   5  AUS CEL pre                        Toreador:1
+1x Isabel de Leon    3  AUS                                Toreador:2
+1x Zöe               3  AUS cel obf                        Malkavian:2
+1x Dieter Kleist     2  aus                                Toreador:1
+1x Franciscus        1  aus                                Caitiff:2
 
 Library (90 cards)
 Master (15)

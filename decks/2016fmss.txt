@@ -10,15 +10,15 @@ Peter Walter
 Deck Name: The Dark God True Love
 Created by: Waltman
 
-Crypt (12 cards, min=38 max=42 avg=10)
---------------------------------------
-2x Kemintiri                                    10  OBF PRE SER THA aus dom              Follower of Set:2
-2x Kemintiri (ADV)                              10  OBF PRE SER THA aus dom              Follower of Set:2
-2x Sutekh, The Dark God                         11  NEC OBF PRE SER cel pot     2 votes  Follower of Set:2
-2x Nefertiti                                    10  DOM OBF PRE SER cel pot              Follower of Set:2
-2x Nehsi                                        10  OBF PRE PRO SER aus for     2 votes  Follower of Set:2
-1x Khay'tall, Snake of Eden                     9   DOM OBF PRE SER aus                  Follower of Set:2
-1x Saqqaf, Keeper of the Grand Temple of Set    9   OBF PRE SER cel for                  Follower of Set:2
+Crypt (12 cards, min=38, max=42, avg=10)
+----------------------------------------
+2x Kemintiri                                  10  OBF PRE SER THA aus dom           Follower of Set:2
+2x Kemintiri (ADV)                            10  OBF PRE SER THA aus dom           Follower of Set:2
+2x Sutekh, The Dark God                       11  NEC OBF PRE SER cel pot  2 votes  Follower of Set:2
+2x Nefertiti                                  10  DOM OBF PRE SER cel pot           Follower of Set:2
+2x Nehsi                                      10  OBF PRE PRO SER aus for  2 votes  Follower of Set:2
+1x Khay'tall, Snake of Eden                    9  DOM OBF PRE SER aus               Follower of Set:2
+1x Saqqaf, Keeper of the Grand Temple of Set   9  OBF PRE SER cel for               Follower of Set:2
 
 Library (76 cards)
 Master (21; 7 trifle)

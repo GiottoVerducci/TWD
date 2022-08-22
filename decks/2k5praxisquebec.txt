@@ -23,17 +23,17 @@ them in the deck; just remember that Carrion Crows are your worst
 enemy (about 1 deck out of 3 played those during the tournament, so
 I'm surprised I managed to do that well).
 
-Crypt (12 cards, min=10 max=20 avg=3.67)
-----------------------------------------
-2x Kurt Strauss                    5   DOM aus tha      Tremere antitribu:2
-2x Brooke                          3   dom tha          Tremere antitribu:2
-2x Heinrick Schlempt               2   tha              Tremere antitribu:2
-1x Alejandro Aguirre               5   ani aus dom tha  Tremere antitribu:3
-1x Hannigan                        5   AUS THA dom      Tremere antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha          Tremere antitribu:2
-1x Thelonius                       4   aus dom tha      Tremere antitribu:2
-1x Ember Wright                    3   aus dom          Tremere antitribu:3
-1x Saiz                            3   aus dom          Tremere antitribu:3
+Crypt (12 cards, min=10, max=20, avg=3.67)
+------------------------------------------
+2x Kurt Strauss                     5  DOM aus tha      Tremere antitribu:2
+2x Brooke                           3  dom tha          Tremere antitribu:2
+2x Heinrick Schlempt                2  tha              Tremere antitribu:2
+1x Alejandro Aguirre                5  ani aus dom tha  Tremere antitribu:3
+1x Hannigan                         5  AUS THA dom      Tremere antitribu:2
+1x Richard Tauber, Ayelea's Puppet  4  AUS tha          Tremere antitribu:2
+1x Thelonius                        4  aus dom tha      Tremere antitribu:2
+1x Ember Wright                     3  aus dom          Tremere antitribu:3
+1x Saiz                             3  aus dom          Tremere antitribu:3
 
 Library (70 cards)
 Master (25)

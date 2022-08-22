@@ -7,14 +7,14 @@ Mathieu Subra
 
 Deck Name: lucky 7 Setite
 
-Crypt (12 cards, min=10 max=40 avg=6.5)
----------------------------------------
+Crypt (12 cards, min=10, max=40, avg=6.5)
+-----------------------------------------
 4x Nakhthorheb                  10  OBF PRE SER                    Follower of Set:4
-2x Cagliostro, The Grand Copht  8   OBF PRE SER nec pot            Follower of Set:4
-2x Ahmose Chambers              3   obf ser                        Follower of Set:5
-2x Belle Equitone               2   ser                            Follower of Set:4
-1x Amenophobis                  7   OBF SER dom pre      primogen  Follower of Set:4
-1x Abdelsobek                   5   for nec obf pre ser            Follower of Set:5
+2x Cagliostro, The Grand Copht   8  OBF PRE SER nec pot            Follower of Set:4
+2x Ahmose Chambers               3  obf ser                        Follower of Set:5
+2x Belle Equitone                2  ser                            Follower of Set:4
+1x Amenophobis                   7  OBF SER dom pre      primogen  Follower of Set:4
+1x Abdelsobek                    5  for nec obf pre ser            Follower of Set:5
 
 Library (77 cards)
 Master (19; 5 trifle)

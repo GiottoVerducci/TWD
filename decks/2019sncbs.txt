@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/9156
 
 Deck Name: Vladimir Tepes Toolbox
 
-Crypt (12 cards, min=11 max=40 avg=7.33)
-----------------------------------------
-5x Vlad Tepes             10  ANI DOM PRO THA VIC aus            Tzimisce:3
-3x Malgorzata             9   AUS DOM THA VIC pre       priscus  Tremere antitribu:4
-2x Tupdog                 1   POT VIS                            Gargoyle:3
-1x Nickolai, The Survivor 6   aus dom pot pre tha vic            Tremere antitribu:4
-1x Keith Moody            3   DOM                                Tremere antitribu:4
+Crypt (12 cards, min=11, max=40, avg=7.33)
+------------------------------------------
+5x Vlad Tepes              10  ANI DOM PRO THA VIC aus           Tzimisce:3
+3x Malgorzata               9  AUS DOM THA VIC pre      priscus  Tremere antitribu:4
+2x Tupdog                   1  POT VIS                           Gargoyle:3
+1x Nickolai, The Survivor   6  aus dom pot pre tha vic           Tremere antitribu:4
+1x Keith Moody              3  DOM                               Tremere antitribu:4
 
 Library (75 cards)
 Master (16; 1 trifle)

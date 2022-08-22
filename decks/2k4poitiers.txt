@@ -6,13 +6,13 @@ François Morand
 
 Deck Name: Anson Show
 
-Crypt (12 cards, min=8 max=32 avg=5.08)
----------------------------------------
-5x Anson           8   CEL PRE aus dom  prince  Toreador:1
-2x Mariana Gilbert 4   PRE cel                  Toreador:1
-2x Delilah Easton  2   pre                      Toreador:1
-2x Dieter Kleist   2   aus                      Toreador:1
-1x Ramiel DuPre    5   PRE aus cel dom          Toreador:1
+Crypt (12 cards, min=8, max=32, avg=5.08)
+-----------------------------------------
+5x Anson            8  CEL PRE aus dom  prince  Toreador:1
+2x Mariana Gilbert  4  PRE cel                  Toreador:1
+2x Delilah Easton   2  pre                      Toreador:1
+2x Dieter Kleist    2  aus                      Toreador:1
+1x Ramiel DuPre     5  PRE aus cel dom          Toreador:1
 
 Library (75 cards)
 Master (28)

@@ -7,19 +7,19 @@ Fernando Pedraza
 
 Deck Name: Old School Mages
 
-Crypt (12 cards, min=23 max=32 avg=6.92)
-----------------------------------------
-2x Rebekka, Chantry Elder of Munich 8   AUS PRE THA pot                   Tremere:2
-1x Anastasz di Zagreb               8   AUS THA ani cel dom     justicar  Tremere:3
-1x Ian Forestal                     8   AUS DOM THA                       Tremere antitribu:2
-1x Kij Dansky                       8   AUS DOM THA obt         priscus   Tremere antitribu:2
-1x Bryan Van Duesen                 7   DOM THA aus pre                   Tremere antitribu:2
-1x Terrell Harding                  7   AUS THA cel dom obf               Tremere antitribu:3
-1x Eugenio Estevez                  6   AUS THA dom for                   Tremere:3
-1x Reverend Blackwood               6   DOM THA obf             bishop    Tremere antitribu:2
-1x Selena                           6   AUS DOM THA                       Tremere antitribu:3
-1x Valois Sang, The Watcher         6   AUS DOM nec tha                   Tremere:3
-1x Hannigan                         5   AUS THA dom                       Tremere antitribu:2
+Crypt (12 cards, min=23, max=32, avg=6.92)
+------------------------------------------
+2x Rebekka, Chantry Elder of Munich  8  AUS PRE THA pot                Tremere:2
+1x Anastasz di Zagreb                8  AUS THA ani cel dom  justicar  Tremere:3
+1x Ian Forestal                      8  AUS DOM THA                    Tremere antitribu:2
+1x Kij Dansky                        8  AUS DOM THA obt      priscus   Tremere antitribu:2
+1x Bryan Van Duesen                  7  DOM THA aus pre                Tremere antitribu:2
+1x Terrell Harding                   7  AUS THA cel dom obf            Tremere antitribu:3
+1x Eugenio Estevez                   6  AUS THA dom for                Tremere:3
+1x Reverend Blackwood                6  DOM THA obf          bishop    Tremere antitribu:2
+1x Selena                            6  AUS DOM THA                    Tremere antitribu:3
+1x Valois Sang, The Watcher          6  AUS DOM nec tha                Tremere:3
+1x Hannigan                          5  AUS THA dom                    Tremere antitribu:2
 
 Library (90 cards)
 Master (11; 4 trifle)

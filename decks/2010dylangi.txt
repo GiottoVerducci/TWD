@@ -4,13 +4,13 @@ March 7th 2010
 27 players
 Giovanni Ambrosio
 
-Crypt (12 cards, min=28 max=44 avg=9.17)
-----------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
-3x Dmitra Ilyanova       9   CEL FOR POT PRE obf  justicar      Brujah:5
-3x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
-1x Rafael de Corazon     11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
-1x Benjamin Rose         7   AUS OBF ani pot      prince        Nosferatu:5
+Crypt (12 cards, min=28, max=44, avg=9.17)
+------------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Dmitra Ilyanova         9  CEL FOR POT PRE obf  justicar      Brujah:5
+3x Stavros                 7  AUS OBF PRE dem      priscus       Malkavian antitribu:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
+1x Benjamin Rose           7  AUS OBF ani pot      prince        Nosferatu:5
 
 Library (90 cards)
 Master (17; 10 trifle)

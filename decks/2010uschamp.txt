@@ -7,15 +7,15 @@ Jay Kristoff
 Father to be
 dedicated to my soon to be born child
 
-Crypt (12 cards, min=35 max=42 avg=9.5)
----------------------------------------
-3x Cock Robin           10  ANI OBF POT aus for  justicar       Nosferatu:3
-2x Josef von Bauren     11  ANI DEM OBF POT cel  inner circle   Nosferatu:4
-2x Baron Dieudonne      9   ANI OBF POT PRO      prince         Nosferatu:4
-2x Casino Reeds         9   ANI OBF POT cel dem  prince         Nosferatu:3
-1x Ellison Humboldt     9   ANI OBF POT PRE pro  primogen       Nosferatu:3
-1x Khalid               9   ANI AUS OBF POT tha  primogen       Nosferatu:3
-1x Gustaphe Brunnelle   8   ANI DOM POT obf      primogen       Nosferatu:4
+Crypt (12 cards, min=35, max=42, avg=9.5)
+-----------------------------------------
+3x Cock Robin          10  ANI OBF POT aus for  justicar      Nosferatu:3
+2x Josef von Bauren    11  ANI DEM OBF POT cel  inner circle  Nosferatu:4
+2x Baron Dieudonne      9  ANI OBF POT PRO      prince        Nosferatu:4
+2x Casino Reeds         9  ANI OBF POT cel dem  prince        Nosferatu:3
+1x Ellison Humboldt     9  ANI OBF POT PRE pro  primogen      Nosferatu:3
+1x Khalid               9  ANI AUS OBF POT tha  primogen      Nosferatu:3
+1x Gustaphe Brunnelle   8  ANI DOM POT obf      primogen      Nosferatu:4
 
 Library (60 cards)
 Master (18; 10 trifle)

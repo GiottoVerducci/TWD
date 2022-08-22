@@ -7,18 +7,18 @@ Marc-André Tremblay
 
 Deck Name: Pure Domination
 
-Crypt (12 cards, min=18 max=24 avg=5.25)
-----------------------------------------
-3x Edward Vignes                   6   DOM PRE for          Ventrue:3
-1x Marlene, The Infernalist        6   AUS DOM dem for tha  Ventrue antitribu:2
-1x Selena                          6   AUS DOM THA          Tremere antitribu:3
-1x Banjoko                         5   DOM obt pot          Lasombra:3
-1x Catherine du Bois               5   DOM for obf pre      Ventrue:3
-1x Isabel Giovanni                 5   DOM NEC pot          Giovanni:2
-1x Kurt Strauss                    5   DOM aus tha          Tremere antitribu:2
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for          Ventrue:2
-1x Gloria Giovanni                 4   DOM nec              Giovanni:2
-1x Ingrid Russo                    4   DOM for              Ventrue antitribu:2
+Crypt (12 cards, min=18, max=24, avg=5.25)
+------------------------------------------
+3x Edward Vignes                    6  DOM PRE for          Ventrue:3
+1x Marlene, The Infernalist         6  AUS DOM dem for tha  Ventrue antitribu:2
+1x Selena                           6  AUS DOM THA          Tremere antitribu:3
+1x Banjoko                          5  DOM obt pot          Lasombra:3
+1x Catherine du Bois                5  DOM for obf pre      Ventrue:3
+1x Isabel Giovanni                  5  DOM NEC pot          Giovanni:2
+1x Kurt Strauss                     5  DOM aus tha          Tremere antitribu:2
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for          Ventrue:2
+1x Gloria Giovanni                  4  DOM nec              Giovanni:2
+1x Ingrid Russo                     4  DOM for              Ventrue antitribu:2
 
 Library (90 cards)
 Master (12)

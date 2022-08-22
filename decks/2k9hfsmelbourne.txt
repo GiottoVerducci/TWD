@@ -6,15 +6,15 @@ Stewart MacLeod
 
 Deck Name: Illusions of Madness
 
-Crypt (12 cards, min=18 max=28 avg=5.75)
-----------------------------------------
-4x Tsunda                       6   CHI abo ani dem      magaji  Ravnos:4
-2x Kiradin                      8   CHI DEM FOR ani pot          Ravnos:4
-2x Gharston Roland              4   CHI ani pot                  Ravnos:4
-1x Ganesh                       6   CHI DEM FOR                  Ravnos:5
-1x Callirus                     5   CHI FOR ani                  Ravnos:4
-1x Papa Legba                   5   ani chi for obt              Ravnos:5
-1x Paul Forrest, False Prophet  5   chi for pre                  Ravnos:4
+Crypt (12 cards, min=18, max=28, avg=5.75)
+------------------------------------------
+4x Tsunda                       6  CHI abo ani dem      magaji  Ravnos:4
+2x Kiradin                      8  CHI DEM FOR ani pot          Ravnos:4
+2x Gharston Roland              4  CHI ani pot                  Ravnos:4
+1x Ganesh                       6  CHI DEM FOR                  Ravnos:5
+1x Callirus                     5  CHI FOR ani                  Ravnos:4
+1x Papa Legba                   5  ani chi for obt              Ravnos:5
+1x Paul Forrest, False Prophet  5  chi for pre                  Ravnos:4
 
 Library (90 cards)
 Master (16; 2 trifle)

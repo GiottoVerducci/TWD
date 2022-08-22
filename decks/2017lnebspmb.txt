@@ -10,11 +10,11 @@ https://www.vekn.net/event-calendar/event/8655
 
 Deck Name: Os curandeiros Salubri
 
-Crypt (12 cards, min=28 max=40 avg=8.33)
-----------------------------------------
-4x Nahum Enosh          10  AUS OBE OBF VAL for pre     Salubri:6
-4x Serenna the White    8   AUS FOR OBE ani dem         Salubri:6
-4x Matthew              7   AUS FOR OBE cel             Salubri:6
+Crypt (12 cards, min=28, max=40, avg=8.33)
+------------------------------------------
+4x Nahum Enosh        10  AUS OBE OBF VAL for pre  Salubri:6
+4x Serenna the White   8  AUS FOR OBE ani dem      Salubri:6
+4x Matthew             7  AUS FOR OBE cel          Salubri:6
 
 Library (90 cards)
 Master (28; 8 trifle)

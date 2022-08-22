@@ -20,13 +20,13 @@ an untapped Assault Rifle is *huge*) and the Entrancement, that I could
 play unblockable in the finals to steal a Nephandus, bring it back to
 my hand with Ashur's the next turn and steal another Nephandus.
 
-Crypt (12 cards, min=21 max=43 avg=8.33)
-----------------------------------------
-4x Anson          8   CEL PRE aus dom      prince        Toreador:1
-3x Alexandra      11  ANI AUS CEL PRE dom  inner circle  Toreador:2
-3x Anneke         10  AUS CEL PRE dom      justicar      Toreador:1
-1x Isabel de Leon 3   AUS                                Toreador:2
-1x Delilah Easton 2   pre                                Toreador:1
+Crypt (12 cards, min=21, max=43, avg=8.33)
+------------------------------------------
+4x Anson            8  CEL PRE aus dom      prince        Toreador:1
+3x Alexandra       11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+3x Anneke          10  AUS CEL PRE dom      justicar      Toreador:1
+1x Isabel de Leon   3  AUS                                Toreador:2
+1x Delilah Easton   2  pre                                Toreador:1
 
 Library (80 cards)
 Master (39; 6 trifle)

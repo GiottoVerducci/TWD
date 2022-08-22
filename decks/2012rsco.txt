@@ -19,18 +19,18 @@ Version 3 was played for Day 2 NAC, but couldn't beat
 the mighty Martin (congrats btw!). Some interesting
 discussion how to give it a little more forward power)
 
-Crypt (12 cards, min=5 max=22 avg=3.33)
----------------------------------------
-3x Anarch Convert       1   -none-              Caitiff:ANY
-1x Caliban              6   ANI AUS VIC         Tzimisce:2
-1x Corine Marcón        6   AUS VIC ani         Tzimisce:2
-1x Devin Bisley         5   ANI AUS vic         Tzimisce:2
-1x Elizabeth Westcott   5   AUS ani cel vic     Tzimisce:3
-1x Lolita Houston       4   VIC aus             Tzimisce:2
-1x Terrence             4   ani aus vic         Tzimisce:2
-1x Wendy Wade           3   ani aus             Tzimisce:2
-1x Horatio              2   vic                 Tzimisce:2
-1x Piotr Andreikov      2   aus                 Tzimisce:3
+Crypt (12 cards, min=5, max=22, avg=3.33)
+-----------------------------------------
+3x Anarch Convert      1  -none-           Caitiff:ANY
+1x Caliban             6  ANI AUS VIC      Tzimisce:2
+1x Corine Marcón       6  AUS VIC ani      Tzimisce:2
+1x Devin Bisley        5  ANI AUS vic      Tzimisce:2
+1x Elizabeth Westcott  5  AUS ani cel vic  Tzimisce:3
+1x Lolita Houston      4  VIC aus          Tzimisce:2
+1x Terrence            4  ani aus vic      Tzimisce:2
+1x Wendy Wade          3  ani aus          Tzimisce:2
+1x Horatio             2  vic              Tzimisce:2
+1x Piotr Andreikov     2  aus              Tzimisce:3
 
 Library (77 cards)
 Master (20)

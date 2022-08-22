@@ -12,14 +12,14 @@ Deck Name: Bailando la Bamba en Alamut
 
 Description: Assamite's deathstar comanded by Olugbenga
 
-Crypt (12 cards, min=11 max=31 avg=5.83)
-----------------------------------------
-4x Olugbenga    7   OBF QUI ani cel      magaji  Assamite:4
-3x Amaravati    8   DOM OBF QUI ani chi          Assamite:4
-2x Kamau Jafari 4   QUI obf                      Assamite:4
-1x Kashan       7   CEL OBF QUI obt pre  1 vote  Assamite:4
-1x Alu          2   obf                          Assamite:5
-1x Basir        1   qui                          Assamite:4
+Crypt (12 cards, min=11, max=31, avg=5.83)
+------------------------------------------
+4x Olugbenga     7  OBF QUI ani cel      magaji  Assamite:4
+3x Amaravati     8  DOM OBF QUI ani chi          Assamite:4
+2x Kamau Jafari  4  QUI obf                      Assamite:4
+1x Kashan        7  CEL OBF QUI obt pre  1 vote  Assamite:4
+1x Alu           2  obf                          Assamite:5
+1x Basir         1  qui                          Assamite:4
 
 Library (90 cards)
 Master (17; 3 trifle)

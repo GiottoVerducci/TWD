@@ -10,19 +10,19 @@ Created by: Marcin "Dude" Szybkowski
 Lay low and do your stuff most of the time, recruit a few allies
 to defend, put 5 spells in play and profit.
 
-Crypt (12 cards, min=15 max=38 avg=6.92)
-----------------------------------------
-2x Halim Bey       6   DOM SER obf tha                   Follower of Set:4
-1x Nakhthorheb     10  OBF PRE SER                       Follower of Set:4
-1x Seterpenre      10  AUS NEC OBF PRE SER               Follower of Set:5
-1x Neferu          9   OBF PRE SER THA dom nec  2 votes  Follower of Set:4
-1x Pentweret       9   OBF PRE SER aus for obe           Follower of Set:5
-1x Porphyrion      9   CHI OBF PRE SER for               Follower of Set:5
-1x Shemti          9   OBF POT PRE SER vic      1 vote   Follower of Set:5
-1x Black Lotus     5   DOM aus obf ser                   Follower of Set:4
-1x Zhenga          5   SER obf pre                       Follower of Set:4
-1x Ahmose Chambers 3   obf ser                           Follower of Set:5
-1x Belle Equitone  2   ser                               Follower of Set:4
+Crypt (12 cards, min=15, max=38, avg=6.92)
+------------------------------------------
+2x Halim Bey         6  DOM SER obf tha                   Follower of Set:4
+1x Nakhthorheb      10  OBF PRE SER                       Follower of Set:4
+1x Seterpenre       10  AUS NEC OBF PRE SER               Follower of Set:5
+1x Neferu            9  OBF PRE SER THA dom nec  2 votes  Follower of Set:4
+1x Pentweret         9  OBF PRE SER aus for obe           Follower of Set:5
+1x Porphyrion        9  CHI OBF PRE SER for               Follower of Set:5
+1x Shemti            9  OBF POT PRE SER vic      1 vote   Follower of Set:5
+1x Black Lotus       5  DOM aus obf ser                   Follower of Set:4
+1x Zhenga            5  SER obf pre                       Follower of Set:4
+1x Ahmose Chambers   3  obf ser                           Follower of Set:5
+1x Belle Equitone    2  ser                               Follower of Set:4
 
 Library (62 cards)
 Master (12)

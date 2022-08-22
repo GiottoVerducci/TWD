@@ -9,15 +9,15 @@ Gyula Erdõs
 
 Deck Name: Goratrix 1.3
 
-Crypt (12 cards, min=8 max=40 avg=6.33)
----------------------------------------
-3x Goratrix             10  ANI AUS DOM THA vic            Tremere antitribu:2
-3x Anarch Convert       1   -none-                         Caitiff:ANY
-2x Omaya                7   ANI AUS FOR pro                Gangrel antitribu:2
-1x Lambach              10  ANI AUS DOM VIC pre  cardinal  Tzimisce:2
-1x Anastasz di Zagreb   8   AUS THA ani cel dom  justicar  Tremere:3
-1x Caliban              6   ANI AUS VIC                    Tzimisce:2
-1x Devin Bisley         5   ANI AUS vic                    Tzimisce:2
+Crypt (12 cards, min=8, max=40, avg=6.33)
+-----------------------------------------
+3x Goratrix            10  ANI AUS DOM THA vic            Tremere antitribu:2
+3x Anarch Convert       1  -none-                         Caitiff:ANY
+2x Omaya                7  ANI AUS FOR pro                Gangrel antitribu:2
+1x Lambach             10  ANI AUS DOM VIC pre  cardinal  Tzimisce:2
+1x Anastasz di Zagreb   8  AUS THA ani cel dom  justicar  Tremere:3
+1x Caliban              6  ANI AUS VIC                    Tzimisce:2
+1x Devin Bisley         5  ANI AUS vic                    Tzimisce:2
 
 Library (90 cards)
 Master (22; 10 trifle)

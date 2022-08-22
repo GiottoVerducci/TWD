@@ -19,16 +19,16 @@ rounds of preliminary bloodshed, 5 methuselahs came out on top:
 After the dust has settled from a most exciting final round, it was
 Nikos' Gangrels who came out victorious. Here's his deck:
 
-Crypt (12 cards, min=22 max=40 avg=7.67)
-----------------------------------------
-2x Haakon Mortensen             8   ANI FOR PRO                         Gangrel antitribu:2
-2x Gitane St. Claire            7   ANI FOR PRO          primogen       Gangrel:1
-2x Badger                       6   FOR PRO ani pot                     Gangrel:1
-2x Camille Devereux, The Raven  5   FOR PRO ani                         Gangrel:1
-1x Stanislava                   11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
-1x Basilia                      10  ANI FOR PRO obf pot  primogen       Gangrel:1
-1x Wynn                         10  ANI FOR PRO obf pot  primogen       Gangrel:1
-1x Ingrid Rossler               9   ANI FOR PRO dom      prince         Gangrel:2
+Crypt (12 cards, min=22, max=40, avg=7.67)
+------------------------------------------
+2x Haakon Mortensen              8  ANI FOR PRO                        Gangrel antitribu:2
+2x Gitane St. Claire             7  ANI FOR PRO          primogen      Gangrel:1
+2x Badger                        6  FOR PRO ani pot                    Gangrel:1
+2x Camille Devereux, The Raven   5  FOR PRO ani                        Gangrel:1
+1x Stanislava                   11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+1x Basilia                      10  ANI FOR PRO obf pot  primogen      Gangrel:1
+1x Wynn                         10  ANI FOR PRO obf pot  primogen      Gangrel:1
+1x Ingrid Rossler                9  ANI FOR PRO dom      prince        Gangrel:2
 
 Library (90 cards)
 Master (22)

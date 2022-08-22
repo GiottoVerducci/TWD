@@ -7,14 +7,14 @@ Aleksander Idziak
 
 Deck Name: Malkavian - Obedience
 
-Crypt (12 cards, min=18 max=37 avg=6.92)
-----------------------------------------
-3x Lucian           10  AUS DOM OBF cel tha     justicar  Malkavian:1
-3x Gilbert Duane    7   AUS DOM OBF             prince    Malkavian:1
-2x Greger Anderssen 7   AUS OBF dom pro         prince    Malkavian:2
-2x Victoria         5   AUS cel obf                       Malkavian:2
-1x Didi Meyers      5   DOM aus cel obf                   Malkavian:1
-1x Zöe              3   AUS cel obf                       Malkavian:2
+Crypt (12 cards, min=18, max=37, avg=6.92)
+------------------------------------------
+3x Lucian            10  AUS DOM OBF cel tha  justicar  Malkavian:1
+3x Gilbert Duane      7  AUS DOM OBF          prince    Malkavian:1
+2x Greger Anderssen   7  AUS OBF dom pro      prince    Malkavian:2
+2x Victoria           5  AUS cel obf                    Malkavian:2
+1x Didi Meyers        5  DOM aus cel obf                Malkavian:1
+1x Zöe                3  AUS cel obf                    Malkavian:2
 
 Library (82 cards)
 Master (13; 5 trifle)

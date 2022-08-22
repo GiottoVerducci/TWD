@@ -9,14 +9,14 @@ Luca Lanzarini
 
 Deck Name: Lords of Serenity
 
-Crypt (12 cards, min=6 max=31 avg=4.83)
----------------------------------------
-3x Anatole, Prophet of Gehenna  8   AUS DEM OBF dom for  Malkavian:2
-3x Matthias                     7   AUS FOR OBE nec      Salubri:2
-3x Anarch Convert               1   -none-               Caitiff:ANY
-1x Peter Blaine                 4   aus dom for          Ventrue antitribu:2
-1x Isabel de Leon               3   AUS                  Toreador:2
-1x Juan Cali                    3   aus for              Ventrue antitribu:2
+Crypt (12 cards, min=6, max=31, avg=4.83)
+-----------------------------------------
+3x Anatole, Prophet of Gehenna  8  AUS DEM OBF dom for  Malkavian:2
+3x Matthias                     7  AUS FOR OBE nec      Salubri:2
+3x Anarch Convert               1  -none-               Caitiff:ANY
+1x Peter Blaine                 4  aus dom for          Ventrue antitribu:2
+1x Isabel de Leon               3  AUS                  Toreador:2
+1x Juan Cali                    3  aus for              Ventrue antitribu:2
 
 Library (77 cards)
 Master (19; 6 trifle)

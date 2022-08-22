@@ -9,14 +9,14 @@ Deck Name: Giovanni Dominate
 
 Type: Unblock&Bleed
 
-Crypt (12 cards, min=12 max=28 avg=5.08)
-----------------------------------------
-3x Gloria Giovanni                 4   DOM nec          Giovanni:2
-2x Andrea Giovanni                 7   DOM NEC pot vic  Giovanni:2
-2x Gillespi Giovanni               7   DOM NEC POT aus  Giovanni:2
-2x Stefano Giovanni                6   DOM nec pot pre  Giovanni:2
-2x Marciana Giovanni, Investigator 2   dom              Giovanni:2
-1x Isabel Giovanni                 5   DOM NEC pot      Giovanni:2
+Crypt (12 cards, min=12, max=28, avg=5.08)
+------------------------------------------
+3x Gloria Giovanni                  4  DOM nec          Giovanni:2
+2x Andrea Giovanni                  7  DOM NEC pot vic  Giovanni:2
+2x Gillespi Giovanni                7  DOM NEC POT aus  Giovanni:2
+2x Stefano Giovanni                 6  DOM nec pot pre  Giovanni:2
+2x Marciana Giovanni, Investigator  2  dom              Giovanni:2
+1x Isabel Giovanni                  5  DOM NEC pot      Giovanni:2
 
 Library (90 cards)
 Master (16; 1 trifle)

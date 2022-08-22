@@ -9,17 +9,17 @@ Noel Giménez Infante
 
 Deck Name: Rock cats & friends
 
-Crypt (12 cards, min=11 max=16 avg=3.33)
-----------------------------------------
-4x Fidus, The Shrunken Beast    4   for tha vis  Gargoyle:2
-1x Thelonius                    4   aus dom tha  Tremere antitribu:2
-1x Blythe Candeleria            3   THA aus      Tremere:2
-1x Brooke                       3   dom tha      Tremere antitribu:2
-1x Ehrich Weiss                 3   dom tha      Tremere:3
-1x Ember Wright                 3   aus dom      Tremere antitribu:3
-1x Erinyi                       3   pot vis      Gargoyle:2
-1x Saiz                         3   aus dom      Tremere antitribu:3
-1x Mustafa Rahman               2   dom          Tremere:2
+Crypt (12 cards, min=11, max=16, avg=3.33)
+------------------------------------------
+4x Fidus, The Shrunken Beast  4  for tha vis  Gargoyle:2
+1x Thelonius                  4  aus dom tha  Tremere antitribu:2
+1x Blythe Candeleria          3  THA aus      Tremere:2
+1x Brooke                     3  dom tha      Tremere antitribu:2
+1x Ehrich Weiss               3  dom tha      Tremere:3
+1x Ember Wright               3  aus dom      Tremere antitribu:3
+1x Erinyi                     3  pot vis      Gargoyle:2
+1x Saiz                       3  aus dom      Tremere antitribu:3
+1x Mustafa Rahman             2  dom          Tremere:2
 
 Library (77 cards)
 Master (18)

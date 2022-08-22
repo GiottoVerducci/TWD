@@ -7,14 +7,14 @@ Genís Prats
 
 Deck Name: Dementamites
 
-Crypt (12 cards, min=13 max=40 avg=7.25)
-----------------------------------------
-5x Thucimia             10  CEL DEM OBF QUI for pro     1 vote  Assamite:4
-3x Bakr                 8   CEL OBF QUI dem pro                 Assamite:5
-1x Hafsa, The Watcher   6   OBF QUI aus cel                     Assamite:5
-1x Kamau Jafari         4   QUI obf                             Assamite:4
-1x Alu                  2   obf                                 Assamite:5
-1x Basir                1   qui                                 Assamite:4
+Crypt (12 cards, min=13, max=40, avg=7.25)
+------------------------------------------
+5x Thucimia            10  CEL DEM OBF QUI for pro  1 vote  Assamite:4
+3x Bakr                 8  CEL OBF QUI dem pro              Assamite:5
+1x Hafsa, The Watcher   6  OBF QUI aus cel                  Assamite:5
+1x Kamau Jafari         4  QUI obf                          Assamite:4
+1x Alu                  2  obf                              Assamite:5
+1x Basir                1  qui                              Assamite:4
 
 Library (90 cards)
 Master (18; 4 trifle)

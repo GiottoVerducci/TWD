@@ -11,14 +11,14 @@ Deck Name: Cesewayo wants "More Cowbell"
 
 by: Preston Poulter
 
-Crypt (12 cards, min=11 max=40 avg=6.25)
-----------------------------------------
-5x Cesewayo 10  AUS CEL DOM POT THA ani  magaji  Osebo:4
-2x Idrissa  4   CEL aus                          Osebo:4
-2x Misrak   2   pot                              Osebo:4
-1x Homa     6   AUS CEL POT                      Osebo:4
-1x Ismitta  4   aus cel pot                      Osebo:4
-1x Kamaria  3   aus pot                          Osebo:4
+Crypt (12 cards, min=11, max=40, avg=6.25)
+------------------------------------------
+5x Cesewayo  10  AUS CEL DOM POT THA ani  magaji  Osebo:4
+2x Idrissa    4  CEL aus                          Osebo:4
+2x Misrak     2  pot                              Osebo:4
+1x Homa       6  AUS CEL POT                      Osebo:4
+1x Ismitta    4  aus cel pot                      Osebo:4
+1x Kamaria    3  aus pot                          Osebo:4
 
 Library (90 cards)
 Master (17; 7 trifle)

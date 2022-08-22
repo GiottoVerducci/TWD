@@ -9,15 +9,15 @@ Deck Name: Ca aussi, c'est de la part de Stone
 
 Description: TWD Cold Aura avri 2013
 
-Crypt (12 cards, min=29 max=44 avg=9.42)
-----------------------------------------
-4x Hardestadt           11  DOM FOR POT PRE cel pro     inner circle    Ventrue:4
-2x Gustav Breidenstein  10  DOM FOR PRE aus cel pot     prince          Ventrue:4
-2x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
-1x Ignazio Giovanni     9   DOM FOR NEC POT obf                         Giovanni:3
-1x Hrothulf             8   CEL FOR PRE dom pot pro                     Ventrue:3
-1x Mukhtar Bey          7   FOR PRE QUI obf pot         prince          Caitiff:4
-1x Ilyana Ravidovich    5   aus dom for pre                             Ventrue:3
+Crypt (12 cards, min=29, max=44, avg=9.42)
+------------------------------------------
+4x Hardestadt           11  DOM FOR POT PRE cel pro  inner circle  Ventrue:4
+2x Gustav Breidenstein  10  DOM FOR PRE aus cel pot  prince        Ventrue:4
+2x Lucinde, Alastor     10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+1x Ignazio Giovanni      9  DOM FOR NEC POT obf                    Giovanni:3
+1x Hrothulf              8  CEL FOR PRE dom pot pro                Ventrue:3
+1x Mukhtar Bey           7  FOR PRE QUI obf pot      prince        Caitiff:4
+1x Ilyana Ravidovich     5  aus dom for pre                        Ventrue:3
 
 Library (90 cards)
 Master (18; 7 trifle)

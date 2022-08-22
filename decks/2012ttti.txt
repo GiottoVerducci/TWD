@@ -9,15 +9,15 @@ Giulio Grimaldi
 
 Deck Name: Arika chan
 
-Crypt (12 cards, min=27 max=43 avg=9)
--------------------------------------
-3x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-2x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
-2x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
-2x Victorine Lafourcade 8   DOM FOR PRE tha             prince          Ventrue:3
-1x Katarina Kornfeld    8   DOM FOR PRE ani             primogen        Ventrue:3
-1x Horatio Ballard      7   DOM FOR PRE aus                             Ventrue:3
-1x Michael Luther       4   aus pre                                     Toreador:3
+Crypt (12 cards, min=27, max=43, avg=9)
+---------------------------------------
+3x Arika                 11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+2x Lucinde, Alastor      10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+2x Queen Anne            10  DOM FOR PRE aus obf      prince        Ventrue:2
+2x Victorine Lafourcade   8  DOM FOR PRE tha          prince        Ventrue:3
+1x Katarina Kornfeld      8  DOM FOR PRE ani          primogen      Ventrue:3
+1x Horatio Ballard        7  DOM FOR PRE aus                        Ventrue:3
+1x Michael Luther         4  aus pre                                Toreador:3
 
 Library (90 cards)
 Master (16; 1 trifle)

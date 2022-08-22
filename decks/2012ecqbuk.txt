@@ -13,16 +13,16 @@ loosely based on the Toreador master gun decks flying about
 but now using improved Panders
 Ashur Tablets enable another set of cel crypts.
 
-Crypt (13 cards, min=10 max=34 avg=5.62)
-----------------------------------------
-4x Anson                        8   CEL PRE aus dom     prince    Toreador:1
-3x Jimmy Dunn                   4   CEL POT for                   Pander:2
-1x Anneke                       10  AUS CEL PRE dom     justicar  Toreador:1
-1x Dónal O'Connor               8   CEL DOM POT         prince    Brujah:2
-1x Volker, The Puppet Prince    5   CEL pot             prince    Brujah:2
-1x Sarah Brando                 3   CEL                           Brujah antitribu:2
-1x Christine Boscacci           2   dom vic                       Pander:2
-1x Royce                        1   dom                           Pander:2
+Crypt (13 cards, min=10, max=34, avg=5.62)
+------------------------------------------
+4x Anson                       8  CEL PRE aus dom  prince    Toreador:1
+3x Jimmy Dunn                  4  CEL POT for                Pander:2
+1x Anneke                     10  AUS CEL PRE dom  justicar  Toreador:1
+1x Dónal O'Connor              8  CEL DOM POT      prince    Brujah:2
+1x Volker, The Puppet Prince   5  CEL pot          prince    Brujah:2
+1x Sarah Brando                3  CEL                        Brujah antitribu:2
+1x Christine Boscacci          2  dom vic                    Pander:2
+1x Royce                       1  dom                        Pander:2
 
 Library (79 cards)
 Master (29; 7 trifle)

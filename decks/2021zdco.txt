@@ -11,15 +11,15 @@ https://www.vekn.net/event-calendar/event/9753
 Deck Name: “Subterfúgios” anarquistas mode on
 Author: Mailton
 
-Crypt (12 cards, min=4 max=29 avg=4.08)
----------------------------------------
-4x Anarch Convert       1   -none-       Caitiff:ANY
-3x Nana Buruku          8   ANI POT PRE  Guruhi:4
-1x Céleste Lamontagne   5   ANI PRO for  Gangrel antitribu:4
-1x Petra                5   ANI OBF aus  Nosferatu:4
-1x Beetleman            4   ANI obf      Nosferatu:4
-1x Bobby Lemon          4   ANI pro      Gangrel:3
-1x Stick                3   ANI          Nosferatu antitribu:4
+Crypt (12 cards, min=4, max=29, avg=4.08)
+-----------------------------------------
+4x Anarch Convert      1  -none-       Caitiff:ANY
+3x Nana Buruku         8  ANI POT PRE  Guruhi:4
+1x Céleste Lamontagne  5  ANI PRO for  Gangrel antitribu:4
+1x Petra               5  ANI OBF aus  Nosferatu:4
+1x Beetleman           4  ANI obf      Nosferatu:4
+1x Bobby Lemon         4  ANI pro      Gangrel:3
+1x Stick               3  ANI          Nosferatu antitribu:4
 
 Library (90 cards)
 Master (28; 5 trifle)

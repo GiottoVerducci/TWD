@@ -10,20 +10,20 @@ https://www.vekn.net/event-calendar/event/9499
 
 Deck Name: Ravnos Cáncer
 
-Crypt (12 cards, min=9 max=19 avg=3.5)
---------------------------------------
-1x Andrei Puxon                 5   ani cel chi for     Ravnos:2
-1x Ghivran Dalaal, The Dead God 5   FOR ani aus chi     Ravnos:2
-1x Khalil Ravana                5   CHI ani for pre     Ravnos:2
-1x Anka, Priestess of Thorns    4   ani chi pro         Ravnos:2
-1x Salbatore Bokkengro          4   CHI for pro         Ravnos:2
-1x Sennuwy, The Promoter        4   ani chi for         Ravnos:2
-1x Lázár Dobrescu               3   for                 Ravnos:2
-1x Tsigane                      3   aus chi             Ravnos:2
-1x Vedel Esbreno                3   chi for             Ravnos:2
-1x Sasha Miklos                 2   chi                 Ravnos:2
-1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
-1x Zip                          2   ani                 Ravnos:3
+Crypt (12 cards, min=9, max=19, avg=3.5)
+----------------------------------------
+1x Andrei Puxon                  5  ani cel chi for  Ravnos:2
+1x Ghivran Dalaal, The Dead God  5  FOR ani aus chi  Ravnos:2
+1x Khalil Ravana                 5  CHI ani for pre  Ravnos:2
+1x Anka, Priestess of Thorns     4  ani chi pro      Ravnos:2
+1x Salbatore Bokkengro           4  CHI for pro      Ravnos:2
+1x Sennuwy, The Promoter         4  ani chi for      Ravnos:2
+1x Lázár Dobrescu                3  for              Ravnos:2
+1x Tsigane                       3  aus chi          Ravnos:2
+1x Vedel Esbreno                 3  chi for          Ravnos:2
+1x Sasha Miklos                  2  chi              Ravnos:2
+1x Spleen, Georgio Gutterpunk    2  ani chi          Ravnos:2
+1x Zip                           2  ani              Ravnos:3
 
 Library (78 cards)
 Master (15)

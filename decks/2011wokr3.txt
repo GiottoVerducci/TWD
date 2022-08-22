@@ -8,14 +8,14 @@ Daniel Mota
 
 Deck Name: Tzimisce Tetê
 
-Crypt (12 cards, min=16 max=32 avg=6.42)
-----------------------------------------
-3x Meshenka       8   ANI AUS VIC          priscus  Tzimisce:2
-3x Dragos         7   ANI AUS vic                   Tzimisce:2
-2x Anton          8   ANI AUS cel obf vic           Tzimisce:2
-2x Lolita Houston 4   VIC aus                       Tzimisce:2
-1x Caliban        6   ANI AUS VIC                   Tzimisce:2
-1x Horatio        2   vic                           Tzimisce:2
+Crypt (12 cards, min=16, max=32, avg=6.42)
+------------------------------------------
+3x Meshenka        8  ANI AUS VIC          priscus  Tzimisce:2
+3x Dragos          7  ANI AUS vic                   Tzimisce:2
+2x Anton           8  ANI AUS cel obf vic           Tzimisce:2
+2x Lolita Houston  4  VIC aus                       Tzimisce:2
+1x Caliban         6  ANI AUS VIC                   Tzimisce:2
+1x Horatio         2  vic                           Tzimisce:2
 
 Library (90 cards)
 Master (20; 1 trifle)

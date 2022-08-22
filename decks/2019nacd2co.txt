@@ -14,14 +14,14 @@ I tried out girls a lot but felt like it was missing something. Losing Aksinya w
 
 I go back and forth on Voter cap at 1-2. Parity Shift may come out as I discard it most often in favor of an Ancilla Empowerment. I'm not sold on Sarrasine/Kephamos other than it's nice to have other minions to bring up. Other than that the deck has proven to be pretty tight.
 
-Crypt (12 cards, min=32 max=44 avg=9.33)
-----------------------------------------
-4x Anson                                8   CEL PRE aus dom             prince          Toreador:1
-2x Arika                                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-2x Leandro                              11  AUS OBF PRE cel dom         inner circle    Malkavian:2
-2x Queen Anne                           10  DOM FOR PRE aus obf         prince          Ventrue:2
-1x Kephamos, High Priest of Marrakech   8   SER dom obf pre             2 votes         Follower of Set:2
-1x Sarrasine (ADV)                      8   OBF PRE SER aus nec         prince          Follower of Set:2
+Crypt (12 cards, min=32, max=44, avg=9.33)
+------------------------------------------
+4x Anson                                8  CEL PRE aus dom          prince        Toreador:1
+2x Arika                               11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+2x Leandro                             11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+2x Queen Anne                          10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Kephamos, High Priest of Marrakech   8  SER dom obf pre          2 votes       Follower of Set:2
+1x Sarrasine (ADV)                      8  OBF PRE SER aus nec      prince        Follower of Set:2
 
 Library (90 cards)
 Master (49; 7 trifle)

@@ -13,12 +13,12 @@ consistent theme. Previous iterations used multiple large cap
 Gangrel, but this time I went for a star + weenies deck and added
 a couple of Alastor and PTO for that extra hardcore tournament goodness.
 
-Crypt (12 cards, min=8 max=44 avg=6)
-------------------------------------
-5x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
-3x Chandler Hungerford  3   PRO                                 Gangrel:2
-2x Giuliano Vincenzi    2   for                                 Gangrel:1
-2x Vliam Andor          2   ani                                 Gangrel:1
+Crypt (12 cards, min=8, max=44, avg=6)
+--------------------------------------
+5x Stanislava           11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+3x Chandler Hungerford   3  PRO                                Gangrel:2
+2x Giuliano Vincenzi     2  for                                Gangrel:1
+2x Vliam Andor           2  ani                                Gangrel:1
 
 Library (90 cards)
 Master (17; 1 trifle)

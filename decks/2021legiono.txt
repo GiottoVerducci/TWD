@@ -10,9 +10,9 @@ https://www.vekn.net/event-calendar/event/9831
 
 Deck Name: Rei do Blindado
 
-Crypt (12 cards, min=40 max=40 avg=10)
---------------------------------------
-12x Nergal 10   AUS DAI FOR OBF PRE THA  Baali:5
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+12x Nergal  10  AUS DAI FOR OBF PRE THA  Baali:5
 
 Library (90 cards)
 Master (28; 8 trifle)

@@ -16,12 +16,12 @@ could help but it was cool like this. Trick is to have Marconius
 become the biggest vampire on the table, too bad he doesn't come with
 Protean.
 
-Crypt (12 cards, min=36 max=40 avg=9.5)
----------------------------------------
-4x Marconius                              9   DOM MYT OBT pot           archbishop  Kiasyd:2
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-3x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince      Ventrue:3
-2x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
+Crypt (12 cards, min=36, max=40, avg=9.5)
+-----------------------------------------
+4x Marconius                                9  DOM MYT OBT pot          archbishop  Kiasyd:2
+3x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+3x Marcus Vitel                            10  DOM FOR OBF OBT PRE      prince      Ventrue:3
+2x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
 
 Library (76 cards)
 Master (18; 7 trifle)

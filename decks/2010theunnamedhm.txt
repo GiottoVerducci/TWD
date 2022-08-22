@@ -7,18 +7,18 @@ Scott Gomes
 
 Deck Name: I think someone called me a ...
 
-Crypt (12 cards, min=22 max=34 avg=7)
--------------------------------------
-2x Izhim abd Azrael             9   CEL OBF QUI THA pot          Assamite:5
-2x Djuhah, The Bronze Bow       7   OBF QUI aus cel pre          Assamite:5
-1x Nizzam al-Latif              9   ANI CEL OBF QUI dem          Assamite:5
-1x Joe "Boot" Hill              7   CEL QUI for obf              Assamite:4
-1x Kashan                       7   CEL OBF QUI obt pre  1 vote  Assamite:4
-1x Olugbenga                    7   OBF QUI ani cel      magaji  Assamite:4
-1x Hafsa, The Watcher           6   OBF QUI aus cel              Assamite:5
-1x Reza Fatir, The Dark Angel   6   CEL QUI obf pro              Assamite:4
-1x Vardar Vardarian             6   OBF QUI cel pre              Assamite:4
-1x Kamau Jafari                 4   QUI obf                      Assamite:4
+Crypt (12 cards, min=22, max=34, avg=7)
+---------------------------------------
+2x Izhim abd Azrael            9  CEL OBF QUI THA pot          Assamite:5
+2x Djuhah, The Bronze Bow      7  OBF QUI aus cel pre          Assamite:5
+1x Nizzam al-Latif             9  ANI CEL OBF QUI dem          Assamite:5
+1x Joe "Boot" Hill             7  CEL QUI for obf              Assamite:4
+1x Kashan                      7  CEL OBF QUI obt pre  1 vote  Assamite:4
+1x Olugbenga                   7  OBF QUI ani cel      magaji  Assamite:4
+1x Hafsa, The Watcher          6  OBF QUI aus cel              Assamite:5
+1x Reza Fatir, The Dark Angel  6  CEL QUI obf pro              Assamite:4
+1x Vardar Vardarian            6  OBF QUI cel pre              Assamite:4
+1x Kamau Jafari                4  QUI obf                      Assamite:4
 
 Library (90 cards)
 Master (13)

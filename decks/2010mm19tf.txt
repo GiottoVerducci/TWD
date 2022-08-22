@@ -4,13 +4,13 @@ August 2nd 2010
 17 players
 Ville Kaijasaari
 
-Crypt (12 cards, min=34 max=40 avg=9.5)
----------------------------------------
-5x Cybele                  10  ANI DAI OBF PRE SER THA           Baali:4
-3x Nergal                  10  AUS DAI FOR OBF PRE THA           Baali:5
-1x Nergal (ADV)            10  AUS DAI FOR OBF PRE THA           Baali:5
-2x Annazir                 9   DAI OBF POT PRE          2 votes  Baali:5
-1x Maureen, Dark Priestess 6   DAI PRE dom obf          1 vote   Baali:4
+Crypt (12 cards, min=34, max=40, avg=9.5)
+-----------------------------------------
+5x Cybele                   10  ANI DAI OBF PRE SER THA           Baali:4
+3x Nergal                   10  AUS DAI FOR OBF PRE THA           Baali:5
+1x Nergal (ADV)             10  AUS DAI FOR OBF PRE THA           Baali:5
+2x Annazir                   9  DAI OBF POT PRE          2 votes  Baali:5
+1x Maureen, Dark Priestess   6  DAI PRE dom obf          1 vote   Baali:4
 
 Library (64 cards)
 Master (26; 5 trifle)

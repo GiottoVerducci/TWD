@@ -11,18 +11,18 @@ Masters: 18 Commons: 54
 Non-disciplined: 17 Uncommons: 14
 Political Actions: 9 Rares: 22
 
-Crypt (12 cards, min=13 max=35 avg=5.83)
-----------------------------------------
-2x Gratiano                      8   DOM OBT obf pot      priscus       Lasombra:2
-2x Guido Lucciano                5   OBT dom obf                        Lasombra:2
-1x Angelica, The Canonicus       10  DOM OBT POT cel obf  cardinal      Lasombra:2
-1x Alvaro, The Scion of Angelica 9   OBT POT dom pre      archbishop    Lasombra:2
-1x Aurora Van Brande, Paladin    6   OBT dom for pot                    Lasombra:2
-1x Talley, The Hound             6   OBT POT aus dom                    Lasombra:2
-1x Ignacio, The Black Priest     4   dom obt pot                        Lasombra:2
-1x Ramiro                        4   dom obt vic                        Lasombra:2
-1x Cameron                       3   dom pot                            Lasombra:2
-1x Aaron Duggan, Cameron's Toady 2   obt                                Lasombra:2
+Crypt (12 cards, min=13, max=35, avg=5.83)
+------------------------------------------
+2x Gratiano                        8  DOM OBT obf pot      priscus     Lasombra:2
+2x Guido Lucciano                  5  OBT dom obf                      Lasombra:2
+1x Angelica, The Canonicus        10  DOM OBT POT cel obf  cardinal    Lasombra:2
+1x Alvaro, The Scion of Angelica   9  OBT POT dom pre      archbishop  Lasombra:2
+1x Aurora Van Brande, Paladin      6  OBT dom for pot                  Lasombra:2
+1x Talley, The Hound               6  OBT POT aus dom                  Lasombra:2
+1x Ignacio, The Black Priest       4  dom obt pot                      Lasombra:2
+1x Ramiro                          4  dom obt vic                      Lasombra:2
+1x Cameron                         3  dom pot                          Lasombra:2
+1x Aaron Duggan, Cameron's Toady   2  obt                              Lasombra:2
 
 Library (90 cards)
 Master (18)

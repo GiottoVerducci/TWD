@@ -15,16 +15,16 @@ Works really well in a combat environment, would probably be weak
 against vote decks with stealth - but thankfully I never had to face
 that.
 
-Crypt (12 cards, min=23 max=40 avg=8.08)
-----------------------------------------
-5x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar  Tremere:5
-1x Dr. John Dee          9   ANI AUS DOM THA chi        prince    Tremere:4
-1x Troius                8   AUS DOM THA cel            prince    Tremere:4
-1x Graham Gottesman      7   DOM FOR obf pre tha        prince    Ventrue:5
-1x Preston Varrick       7   DOM OBF THA aus nec                  Tremere:4
-1x Muhsin Samir          6   DOM THA aus pot                      Tremere:4
-1x Andrew Stuart         5   AUS DOM THA                          Tremere:4
-1x Claus Wegener         5   DOM aus for tha                      Tremere:5
+Crypt (12 cards, min=23, max=40, avg=8.08)
+------------------------------------------
+5x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar  Tremere:5
+1x Dr. John Dee            9  ANI AUS DOM THA chi      prince    Tremere:4
+1x Troius                  8  AUS DOM THA cel          prince    Tremere:4
+1x Graham Gottesman        7  DOM FOR obf pre tha      prince    Ventrue:5
+1x Preston Varrick         7  DOM OBF THA aus nec                Tremere:4
+1x Muhsin Samir            6  DOM THA aus pot                    Tremere:4
+1x Andrew Stuart           5  AUS DOM THA                        Tremere:4
+1x Claus Wegener           5  DOM aus for tha                    Tremere:5
 
 Library (76 cards)
 Master (8)

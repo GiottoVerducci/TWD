@@ -17,16 +17,16 @@ slow. Advanteges - played 6 tournament games - never won less
 then 0.5VP . I would exchange some cards for more T.Vitals or
 Rötschrecks.
 
-Crypt (12 cards, min=7 max=24 avg=4.08)
----------------------------------------
-2x Caliban              6   ANI AUS VIC         Tzimisce:2
-2x Corine Marcón        6   AUS VIC ani         Tzimisce:2
-2x Lolita Houston       4   VIC aus             Tzimisce:2
-2x Horatio              2   vic                 Tzimisce:2
-1x Ana Rita Montaña     5   VIC aus dom obf     Tzimisce:3
-1x Rose, The            5   PRE VIC aus         Tzimisce:3
-1x Christine Boscacci   2   dom vic             Pander:2
-1x Olga Triminov        1   vic                 Pander:3
+Crypt (12 cards, min=7, max=24, avg=4.08)
+-----------------------------------------
+2x Caliban             6  ANI AUS VIC      Tzimisce:2
+2x Corine Marcón       6  AUS VIC ani      Tzimisce:2
+2x Lolita Houston      4  VIC aus          Tzimisce:2
+2x Horatio             2  vic              Tzimisce:2
+1x Ana Rita Montaña    5  VIC aus dom obf  Tzimisce:3
+1x Rose, The           5  PRE VIC aus      Tzimisce:3
+1x Christine Boscacci  2  dom vic          Pander:2
+1x Olga Triminov       1  vic              Pander:3
 
 Library (90 cards)
 Master (18; 5 trifle)

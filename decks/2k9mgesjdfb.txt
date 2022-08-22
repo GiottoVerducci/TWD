@@ -12,20 +12,20 @@ Deck Name: Dream Deck Non-Wraith
 Low and mid cap giovannis putting counters on Khazar's Diary for
 Bleed actions and recruiting shambling hordes against rush decks.
 
-Crypt (12 cards, min=12 max=28 avg=4.75)
-----------------------------------------
-1x Guillaume Giovanni   9   CEL DOM NEC POT obt  Giovanni:4
-1x Gualtiero Ghiberti   7   DOM NEC cel pot tha  Giovanni:4
-1x Accorri Giovanni     6   DOM POT ani nec      Giovanni:5
-1x Raphaela Giovanni    6   DOM NEC pot pre      Giovanni:4
-1x Donatello Giovanni   5   DOM aus pot pre      Giovanni:4
-1x Kay Polerno          4   dom nec pro          Giovanni:5
-1x Prejudice            4   aus dom nec          Nagaraja:4
-1x Primo Giovanni       4   dom nec pot          Giovanni:4
-1x Thomasso Ghiberti    4   NEC pot              Giovanni:4
-1x Nunzio Giovanni      3   nec pot              Giovanni:4
-1x Stephen Milliner     3   nec pre              Giovanni:5
-1x Cristobal Ghiberti   2   nec                  Giovanni:4
+Crypt (12 cards, min=12, max=28, avg=4.75)
+------------------------------------------
+1x Guillaume Giovanni  9  CEL DOM NEC POT obt  Giovanni:4
+1x Gualtiero Ghiberti  7  DOM NEC cel pot tha  Giovanni:4
+1x Accorri Giovanni    6  DOM POT ani nec      Giovanni:5
+1x Raphaela Giovanni   6  DOM NEC pot pre      Giovanni:4
+1x Donatello Giovanni  5  DOM aus pot pre      Giovanni:4
+1x Kay Polerno         4  dom nec pro          Giovanni:5
+1x Prejudice           4  aus dom nec          Nagaraja:4
+1x Primo Giovanni      4  dom nec pot          Giovanni:4
+1x Thomasso Ghiberti   4  NEC pot              Giovanni:4
+1x Nunzio Giovanni     3  nec pot              Giovanni:4
+1x Stephen Milliner    3  nec pre              Giovanni:5
+1x Cristobal Ghiberti  2  nec                  Giovanni:4
 
 Library (90 cards)
 Master (17; 1 trifle)

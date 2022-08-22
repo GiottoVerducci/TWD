@@ -25,18 +25,18 @@ most certainly can, but they are weaknesses for other players to discover
 and, in my favour, of course, is the fact that the Imbued still remain
 relatively understudied by most.
 
-Crypt (12 cards, min=13 max=19 avg=4)
--------------------------------------
-2x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-2x Inez "Nurse216" Villagrande  3   inn          Innocent:4
-1x Travis "Traveler72" Miller   5   def mar      Martyr:4
-1x Erick "Shophet125" Franco    4   inn jud      Judge:4
-1x Jack "Hannibal137" Harmon    4   def jud      Defender:4
-1x John "Cop90" O'Malley        4   jud ven      Avenger:4
-1x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
-1x Lupe "Cabbie22" Droin        4   def ven      Defender:4
-1x Paul "Sixofswords29" Moreton 4   def vis      Visionary:4
-1x François "Warden" Loehr      3   def jud      Judge:4
+Crypt (12 cards, min=13, max=19, avg=4)
+---------------------------------------
+2x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+2x Inez "Nurse216" Villagrande   3  inn          Innocent:4
+1x Travis "Traveler72" Miller    5  def mar      Martyr:4
+1x Erick "Shophet125" Franco     4  inn jud      Judge:4
+1x Jack "Hannibal137" Harmon     4  def jud      Defender:4
+1x John "Cop90" O'Malley         4  jud ven      Avenger:4
+1x Leaf "Potter116" Pankowski    4  inn red viz  Redeemer:4
+1x Lupe "Cabbie22" Droin         4  def ven      Defender:4
+1x Paul "Sixofswords29" Moreton  4  def vis      Visionary:4
+1x François "Warden" Loehr       3  def jud      Judge:4
 
 Library (90 cards)
 Master (15)

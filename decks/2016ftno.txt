@@ -18,16 +18,16 @@ Thanks to Darby and Hugh for transcontinental and trans-Atlantic deck advice, to
 
 could use a Wider View or two and some Sudden Reversals, but I didn't know what to cull for them
 
-Crypt (12 cards, min=14 max=26 avg=5)
--------------------------------------
-3x Banjoko               5   DOM obt pot                Lasombra:3
-2x Henri Lavenant        7   DOM OBT pot qui            Lasombra:3
-2x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
-1x Phillipe Rigaud       7   DOM OBF PRO ani aus obt    Gangrel antitribu:4
-1x Katherine Stoddard    4   dom for                    Ventrue antitribu:3
-1x Mosfair               4   cel dom tha                Tremere antitribu:4
-1x Keith Moody           3   DOM                        Tremere antitribu:4
-1x Lucy Markowitz        3   dom obt                    Lasombra:4
+Crypt (12 cards, min=14, max=26, avg=5)
+---------------------------------------
+3x Banjoko                5  DOM obt pot              Lasombra:3
+2x Henri Lavenant         7  DOM OBT pot qui          Lasombra:3
+2x Ermenegildo, The Rake  5  DOM OBT pot              Lasombra:4
+1x Phillipe Rigaud        7  DOM OBF PRO ani aus obt  Gangrel antitribu:4
+1x Katherine Stoddard     4  dom for                  Ventrue antitribu:3
+1x Mosfair                4  cel dom tha              Tremere antitribu:4
+1x Keith Moody            3  DOM                      Tremere antitribu:4
+1x Lucy Markowitz         3  dom obt                  Lasombra:4
 
 Library (76 cards)
 Master (14; 1 trifle)

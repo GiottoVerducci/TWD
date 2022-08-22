@@ -20,15 +20,15 @@ Headquarters). This is also a good deck for a player on a budget, as
 the only expensive card in there is Direct Intervention (and one could
 replace it with a Yoruba Shrine or something).
 
-Crypt (12 cards, min=11 max=32 avg=5.42)
-----------------------------------------
-5x Amaravati            8   DOM OBF QUI ani chi  Assamite:4
-2x Ali Kar              3   obf qui              Assamite:3
-1x Catherine du Bois    5   DOM for obf pre      Ventrue:3
-1x Michael diCarlo      5   CEL obf qui          Assamite:4
-1x Kamau Jafari         4   QUI obf              Assamite:4
-1x Robin Withers        4   dom obf pre          Ventrue:4
-1x Basir                1   qui                  Assamite:4
+Crypt (12 cards, min=11, max=32, avg=5.42)
+------------------------------------------
+5x Amaravati          8  DOM OBF QUI ani chi  Assamite:4
+2x Ali Kar            3  obf qui              Assamite:3
+1x Catherine du Bois  5  DOM for obf pre      Ventrue:3
+1x Michael diCarlo    5  CEL obf qui          Assamite:4
+1x Kamau Jafari       4  QUI obf              Assamite:4
+1x Robin Withers      4  dom obf pre          Ventrue:4
+1x Basir              1  qui                  Assamite:4
 
 Library (90 cards)
 Master (14)

@@ -7,13 +7,13 @@ Marc Desaulniers
 
 Deck Name: mALK_!mALK Protean party
 
-Crypt (12 cards, min=25 max=40 avg=8.25)
-----------------------------------------
-4x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince         Malkavian:3
-3x Rodolfo              8   AUS DEM OBF pro      bishop         Malkavian antitribu:3
-2x Imogen               9   AUS DEM obf pro vic  archbishop     Malkavian antitribu:2
-2x Greger Anderssen     7   AUS OBF dom pro      prince         Malkavian:2
-1x Midget               3   DEM obf pre                         Malkavian antitribu:3
+Crypt (12 cards, min=25, max=40, avg=8.25)
+------------------------------------------
+4x Rachel Brandywine  10  AUS DEM OBF PRO ani  prince      Malkavian:3
+3x Rodolfo             8  AUS DEM OBF pro      bishop      Malkavian antitribu:3
+2x Imogen              9  AUS DEM obf pro vic  archbishop  Malkavian antitribu:2
+2x Greger Anderssen    7  AUS OBF dom pro      prince      Malkavian:2
+1x Midget              3  DEM obf pre                      Malkavian antitribu:3
 
 Library (90 cards)
 Master (15)

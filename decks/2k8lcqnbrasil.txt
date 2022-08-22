@@ -7,18 +7,18 @@ Kleber Souza
 
 Deck Name: Nocturn
 
-Crypt (12 cards, min=15 max=23 avg=4.83)
-----------------------------------------
-2x Onaedo                   6   DOM OBT aus pot          Lasombra:4
-2x Ermenegildo, The Rake    5   DOM OBT pot              Lasombra:4
-1x Virginie, Prodigy        6   DOM POT obt      bishop  Lasombra:4
-1x Andrew Emory             5   OBT aus dom pot  bishop  Lasombra:4
-1x Banjoko                  5   DOM obt pot              Lasombra:3
-1x Dame Hollerton           5   DOM OBT myt              Kiasyd:4
-1x Dr. Julius Sutphen (ADV) 5   POT dom obt              Lasombra:3
-1x Leila Monroe             4   dom obt pre              Lasombra:4
-1x Keith Moody              3   DOM                      Tremere antitribu:4
-1x Lucy Markowitz           3   dom obt                  Lasombra:4
+Crypt (12 cards, min=15, max=23, avg=4.83)
+------------------------------------------
+2x Onaedo                    6  DOM OBT aus pot          Lasombra:4
+2x Ermenegildo, The Rake     5  DOM OBT pot              Lasombra:4
+1x Virginie, Prodigy         6  DOM POT obt      bishop  Lasombra:4
+1x Andrew Emory              5  OBT aus dom pot  bishop  Lasombra:4
+1x Banjoko                   5  DOM obt pot              Lasombra:3
+1x Dame Hollerton            5  DOM OBT myt              Kiasyd:4
+1x Dr. Julius Sutphen (ADV)  5  POT dom obt              Lasombra:3
+1x Leila Monroe              4  dom obt pre              Lasombra:4
+1x Keith Moody               3  DOM                      Tremere antitribu:4
+1x Lucy Markowitz            3  dom obt                  Lasombra:4
 
 Library (90 cards)
 Master (12; 2 trifle)

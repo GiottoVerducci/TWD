@@ -9,18 +9,18 @@ Deck Name: Bell. Pain. Shoe.
 
 Comments: Based on the deck "To the Death! No! To the Pain" by John Bell
 
-Crypt (12 cards, min=6 max=17 avg=3)
-------------------------------------
-3x Anarch Convert 1   -none-            Caitiff:ANY
-1x Terry          5   POT aus dom san   Blood Brother:2
-1x Agatha         4   POT obf           Nosferatu antitribu:2
-1x Hector Sosa    4   POT pre           Brujah:1
-1x Hugo           4   POT pre vic       Brujah antitribu:2
-1x Jimmy Dunn     4   CEL POT for       Pander:2
-1x Cameron        3   dom pot           Lasombra:2
-1x Duck           3   obf pot           Nosferatu:1
-1x Tom            3   for pot san       Blood Brother:2
-1x Tommy          3   ani pot           Nosferatu antitribu:2
+Crypt (12 cards, min=6, max=17, avg=3)
+--------------------------------------
+3x Anarch Convert  1  -none-           Caitiff:ANY
+1x Terry           5  POT aus dom san  Blood Brother:2
+1x Agatha          4  POT obf          Nosferatu antitribu:2
+1x Hector Sosa     4  POT pre          Brujah:1
+1x Hugo            4  POT pre vic      Brujah antitribu:2
+1x Jimmy Dunn      4  CEL POT for      Pander:2
+1x Cameron         3  dom pot          Lasombra:2
+1x Duck            3  obf pot          Nosferatu:1
+1x Tom             3  for pot san      Blood Brother:2
+1x Tommy           3  ani pot          Nosferatu antitribu:2
 
 Library (90 cards)
 Master (18; 8 trifle)

@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/9559
 
 Deck Name: Dziewczyny z ukrycia i cienia
 
-Crypt (16 cards, min=19 max=44 avg=8.75)
-----------------------------------------
-5x Cybele                10  ANI DAI OBF PRE SER THA                    Baali:4
-4x Aksinya Daclau        9   ANI FOR PRE PRO cel tha                    Gangrel antitribu:4
-2x Josef von Bauren      11  ANI DEM OBF POT cel        inner circle    Nosferatu:4
-2x Anarch Convert        1   -none-                                     Caitiff:ANY
-1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-1x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-1x Nana Buruku           8   ANI POT PRE                                Guruhi:4
+Crypt (16 cards, min=19, max=44, avg=8.75)
+------------------------------------------
+5x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+4x Aksinya Daclau          9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+2x Josef von Bauren       11  ANI DEM OBF POT cel      inner circle  Nosferatu:4
+2x Anarch Convert          1  -none-                                 Caitiff:ANY
+1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Nana Buruku             8  ANI POT PRE                            Guruhi:4
 
 Library (90 cards)
 Master (60; 7 trifle)

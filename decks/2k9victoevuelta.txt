@@ -11,13 +11,13 @@ Deck Player: Sergio Gracia
 Deck Builder: Iñaki Puigdollers
 Points 5 + 4 + 5 + 4 = 18 V.P.
 
-Crypt (12 cards, min=20 max=26 avg=5.83)
-----------------------------------------
-4x Victor Pelletier     5   PRE cel dom for              Ventrue:4
-3x Mustafa, The Heir    6   FOR PRE cel dom      prince  Ventrue:4
-3x Victor Donaldson     6   DOM for pre          prince  Ventrue:5
-1x Graham Gottesman     7   DOM FOR obf pre tha  prince  Ventrue:5
-1x Mukhtar Bey          7   FOR PRE QUI obf pot  prince  Caitiff:4
+Crypt (12 cards, min=20, max=26, avg=5.83)
+------------------------------------------
+4x Victor Pelletier   5  PRE cel dom for              Ventrue:4
+3x Mustafa, The Heir  6  FOR PRE cel dom      prince  Ventrue:4
+3x Victor Donaldson   6  DOM for pre          prince  Ventrue:5
+1x Graham Gottesman   7  DOM FOR obf pre tha  prince  Ventrue:5
+1x Mukhtar Bey        7  FOR PRE QUI obf pot  prince  Caitiff:4
 
 Library (60 cards)
 Master (11)

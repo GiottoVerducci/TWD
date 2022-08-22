@@ -11,20 +11,20 @@ Produced by Ben Swainbank
 Directed by Ben Peal
 Starring:
 
-Crypt (12 cards, min=14 max=31 avg=5.83)
-----------------------------------------
-1x Baron, The                    9   FOR NEC OBF THN dom  2 votes  Samedi:2
-1x Pochtli                       8   NEC OBF POT cel dom           Giovanni:2
-1x Andrea Giovanni               7   DOM NEC pot vic               Giovanni:2
-1x Carlotta Giovanni             7   NEC POT dom obf               Giovanni:2
-1x Jorge De La Muerte, The Agent 7   OBF THN cel for nec           Samedi:2
-1x Sarrasine                     7   OBF PRE aus nec ser           Follower of Set:2
-1x Rafaele Giovanni              6   NEC cel obf                   Giovanni:2
-1x Isabel Giovanni               5   DOM NEC pot                   Giovanni:2
-1x Le Dinh Tho                   5   NEC aus dom                   Nagaraja:2
-1x Lia Milliner                  3   dom nec                       Giovanni:3
-1x Mario Giovanni                3   nec pot                       Giovanni:2
-1x Rudolfo Giovanni              3   NEC                           Giovanni:2
+Crypt (12 cards, min=14, max=31, avg=5.83)
+------------------------------------------
+1x Baron, The                     9  FOR NEC OBF THN dom  2 votes  Samedi:2
+1x Pochtli                        8  NEC OBF POT cel dom           Giovanni:2
+1x Andrea Giovanni                7  DOM NEC pot vic               Giovanni:2
+1x Carlotta Giovanni              7  NEC POT dom obf               Giovanni:2
+1x Jorge De La Muerte, The Agent  7  OBF THN cel for nec           Samedi:2
+1x Sarrasine                      7  OBF PRE aus nec ser           Follower of Set:2
+1x Rafaele Giovanni               6  NEC cel obf                   Giovanni:2
+1x Isabel Giovanni                5  DOM NEC pot                   Giovanni:2
+1x Le Dinh Tho                    5  NEC aus dom                   Nagaraja:2
+1x Lia Milliner                   3  dom nec                       Giovanni:3
+1x Mario Giovanni                 3  nec pot                       Giovanni:2
+1x Rudolfo Giovanni               3  NEC                           Giovanni:2
 
 Library (91 cards)
 Master (23; 5 trifle)

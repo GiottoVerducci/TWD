@@ -6,18 +6,18 @@ Ben Swainbank
 
 Deck Name: Fauberge's Eggs
 
-Crypt (12 cards, min=13 max=30 avg=5.25)
-----------------------------------------
-3x Étienne Fauberge      8   ANI CEL CHI FOR    Ravnos:3
-1x Joaquina Amaya        6   ANI CHI FOR        Ravnos:2
-1x Vaclav Petalengro     6   ANI CHI for pot    Ravnos:2
-1x Andrei Puxon          5   ani cel chi for    Ravnos:2
-1x Khalil Ravana         5   CHI ani for pre    Ravnos:2
-1x Gustavo Morales       4   ani cel for        Gangrel:3
-1x Salbatore Bokkengro   4   CHI for pro        Ravnos:2
-1x Sennuwy, The Promoter 4   ani chi for        Ravnos:2
-1x Vedel Esbreno         3   chi for            Ravnos:2
-1x Zip                   2   ani                Ravnos:3
+Crypt (12 cards, min=13, max=30, avg=5.25)
+------------------------------------------
+3x Étienne Fauberge       8  ANI CEL CHI FOR  Ravnos:3
+1x Joaquina Amaya         6  ANI CHI FOR      Ravnos:2
+1x Vaclav Petalengro      6  ANI CHI for pot  Ravnos:2
+1x Andrei Puxon           5  ani cel chi for  Ravnos:2
+1x Khalil Ravana          5  CHI ani for pre  Ravnos:2
+1x Gustavo Morales        4  ani cel for      Gangrel:3
+1x Salbatore Bokkengro    4  CHI for pro      Ravnos:2
+1x Sennuwy, The Promoter  4  ani chi for      Ravnos:2
+1x Vedel Esbreno          3  chi for          Ravnos:2
+1x Zip                    2  ani              Ravnos:3
 
 Library (90 cards)
 Master (13)

@@ -9,19 +9,19 @@ Deck Name: Undue Influence
 
 Description: Undue Influence Stealth bleed with some Serpentis
 
-Crypt (12 cards, min=14 max=26 avg=5)
--------------------------------------
-2x Suzanne Kadim          7   CEL PRE aus dom obf  Toreador:3
-1x Hesha Ruhadze          6   SER ani obf pre      Follower of Set:2
-1x Samat Ramal-Ra, Archon 6   OBF pre ser tha      Follower of Set:2
-1x Catherine du Bois      5   DOM for obf pre      Ventrue:3
-1x Count Ormonde          5   OBF dom pre ser      Follower of Set:2
-1x Cristos Mantigo        5   aus cel dom obf pre  Toreador antitribu:3
-1x Sir Marriot D'Urban    5   PRE aus obf ser      Follower of Set:2
-1x Hadrian Garrick        4   obf pre              Follower of Set:2
-1x Nepata                 4   obf pre ser          Follower of Set:2
-1x Diana Vick             3   dom pre              Ventrue:3
-1x Lena Rowe              3   aus obf pre          Pander:2
+Crypt (12 cards, min=14, max=26, avg=5)
+---------------------------------------
+2x Suzanne Kadim           7  CEL PRE aus dom obf  Toreador:3
+1x Hesha Ruhadze           6  SER ani obf pre      Follower of Set:2
+1x Samat Ramal-Ra, Archon  6  OBF pre ser tha      Follower of Set:2
+1x Catherine du Bois       5  DOM for obf pre      Ventrue:3
+1x Count Ormonde           5  OBF dom pre ser      Follower of Set:2
+1x Cristos Mantigo         5  aus cel dom obf pre  Toreador antitribu:3
+1x Sir Marriot D'Urban     5  PRE aus obf ser      Follower of Set:2
+1x Hadrian Garrick         4  obf pre              Follower of Set:2
+1x Nepata                  4  obf pre ser          Follower of Set:2
+1x Diana Vick              3  dom pre              Ventrue:3
+1x Lena Rowe               3  aus obf pre          Pander:2
 
 Library (90 cards)
 Master (19; 8 trifle)

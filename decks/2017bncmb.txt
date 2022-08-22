@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/8704
 
 Deck Name: Mono Auspex
 
-Crypt (13 cards, min=4 max=16 avg=2.31)
----------------------------------------
-5x Anarch Convert                 1   -none-       Caitiff:ANY
-1x Aleph                          4   AUS dom      Malkavian:1
-1x Dorian Strack                  4   AUS cel      Toreador:1
-1x Idalia, Prophet of Guadalajara 4   AUS dem      Malkavian antitribu:2
-1x Remilliard, Devout Crusader    4   AUS pre      Toreador antitribu:2
-1x Isabel de Leon                 3   AUS          Toreador:2
-1x Zöe                            3   AUS cel obf  Malkavian:2
-1x Dieter Kleist                  2   aus          Toreador:1
-1x Franciscus                     1   aus          Caitiff:2
+Crypt (13 cards, min=4, max=16, avg=2.31)
+-----------------------------------------
+5x Anarch Convert                  1  -none-       Caitiff:ANY
+1x Aleph                           4  AUS dom      Malkavian:1
+1x Dorian Strack                   4  AUS cel      Toreador:1
+1x Idalia, Prophet of Guadalajara  4  AUS dem      Malkavian antitribu:2
+1x Remilliard, Devout Crusader     4  AUS pre      Toreador antitribu:2
+1x Isabel de Leon                  3  AUS          Toreador:2
+1x Zöe                             3  AUS cel obf  Malkavian:2
+1x Dieter Kleist                   2  aus          Toreador:1
+1x Franciscus                      1  aus          Caitiff:2
 
 Library (90 cards)
 Master (28; 1 trifle)

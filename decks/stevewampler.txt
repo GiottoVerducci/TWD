@@ -8,19 +8,19 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/y7KVwtcXApY
 
 Weenie Presence bleed
 
-Crypt (15 cards, min=4 max=15 avg=2.47)
----------------------------------------
-2x Mariana Gilbert                      4   PRE cel     Toreador:1
-2x Gideon Fontaine                      3   PRE         Ventrue:1
-2x Delilah Easton                       2   pre         Toreador:1
-2x Antoinette DuChamp                   1   cel pre     Caitiff:2
-1x Violette Prentiss                    4   PRE dom     Ventrue:1
-1x Khalil Anvari                        3   pre ser     Follower of Set:2
-1x Roland Loussarian                    3   for pre     Ventrue:1
-1x Uma Hatch                            3   cel pre     Brujah:1
-1x Vasilis, The Traitor of Don Cruez    2   pre         Brujah:2
-1x Angela Decker                        1   pre         Pander:2
-1x Igo the Hungry                       1   pre pro     Caitiff:1
+Crypt (15 cards, min=4, max=15, avg=2.47)
+-----------------------------------------
+2x Mariana Gilbert                    4  PRE cel  Toreador:1
+2x Gideon Fontaine                    3  PRE      Ventrue:1
+2x Delilah Easton                     2  pre      Toreador:1
+2x Antoinette DuChamp                 1  cel pre  Caitiff:2
+1x Violette Prentiss                  4  PRE dom  Ventrue:1
+1x Khalil Anvari                      3  pre ser  Follower of Set:2
+1x Roland Loussarian                  3  for pre  Ventrue:1
+1x Uma Hatch                          3  cel pre  Brujah:1
+1x Vasilis, The Traitor of Don Cruez  2  pre      Brujah:2
+1x Angela Decker                      1  pre      Pander:2
+1x Igo the Hungry                     1  pre pro  Caitiff:1
 
 Library (59 cards)
 Master (14)

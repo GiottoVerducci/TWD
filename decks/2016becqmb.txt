@@ -17,13 +17,13 @@ Based on the deck of Csaba Greguss (Mr Toreador) - The Geisha (2011)
 Forgot to add some cards in a hurry:
 3 Villein, 2 Wash, 1 Coven, 1 Giant's Blood, 1 Enkil Cog (but it seemed 2 copies are enough).
 
-Crypt (12 cards, min=16 max=40 avg=7)
--------------------------------------
-5x Thucimia             10  CEL DEM OBF QUI for pro     1 vote  Assamite:4
-2x Hafsa, The Watcher   6   OBF QUI aus cel                     Assamite:5
-2x Vardar Vardarian     6   OBF QUI cel pre                     Assamite:4
-2x Kamau Jafari         4   QUI obf                             Assamite:4
-1x Alu                  2   obf                                 Assamite:5
+Crypt (12 cards, min=16, max=40, avg=7)
+---------------------------------------
+5x Thucimia            10  CEL DEM OBF QUI for pro  1 vote  Assamite:4
+2x Hafsa, The Watcher   6  OBF QUI aus cel                  Assamite:5
+2x Vardar Vardarian     6  OBF QUI cel pre                  Assamite:4
+2x Kamau Jafari         4  QUI obf                          Assamite:4
+1x Alu                  2  obf                              Assamite:5
 
 Library (72 cards)
 Master (11; 2 trifle)

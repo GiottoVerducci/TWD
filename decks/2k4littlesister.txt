@@ -17,16 +17,16 @@ pray that you don't encounter aggravated damage.
 The deck has a surprisingly powerful bloat-engine as well - something
 that is much needed as it intercepts very little and bounces not at all.
 
-Crypt (12 cards, min=16 max=31 avg=6.08)
-----------------------------------------
-2x Jacko                        8   CEL POT PRE obt             Brujah antitribu:2
-2x Theo Bell                    7   POT cel dom pre             Brujah:2
-2x Sela                         6   POT PRE cel obt     bishop  Brujah antitribu:2
-2x Jimmy Dunn                   4   CEL POT for                 Pander:2
-1x Antonio Veradas              8   CEL POT PRE obf     bishop  Brujah antitribu:3
-1x Miguel Santo Domingo         7   POT PRE cel for             Brujah antitribu:3
-1x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-1x Jacob Bragg                  3   cel pot                     Brujah antitribu:2
+Crypt (12 cards, min=16, max=31, avg=6.08)
+------------------------------------------
+2x Jacko                      8  CEL POT PRE obt          Brujah antitribu:2
+2x Theo Bell                  7  POT cel dom pre          Brujah:2
+2x Sela                       6  POT PRE cel obt  bishop  Brujah antitribu:2
+2x Jimmy Dunn                 4  CEL POT for              Pander:2
+1x Antonio Veradas            8  CEL POT PRE obf  bishop  Brujah antitribu:3
+1x Miguel Santo Domingo       7  POT PRE cel for          Brujah antitribu:3
+1x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+1x Jacob Bragg                3  cel pot                  Brujah antitribu:2
 
 Library (90 cards)
 Master (18)

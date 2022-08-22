@@ -12,15 +12,15 @@ Created by: M@rc00_L
 
 Description: G1/2 Cel-Gun Low Caps
 
-Crypt (12 cards, min=13 max=20 avg=4.17)
-----------------------------------------
-3x Black Cat                    5   CEL pot pre                 Brujah:1
-3x Sarah Brando                 3   CEL                         Brujah antitribu:2
-2x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
-1x Rigby, Crusade Vanguard      5   CEL PRE aus pot             Brujah antitribu:2
-1x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-1x Jimmy Dunn                   4   CEL POT for                 Pander:2
-1x Parmenides                   4   CEL qui                     Assamite:2
+Crypt (12 cards, min=13, max=20, avg=4.17)
+------------------------------------------
+3x Black Cat                  5  CEL pot pre              Brujah:1
+3x Sarah Brando               3  CEL                      Brujah antitribu:2
+2x Victor Tolliver            4  CEL pot                  Brujah antitribu:2
+1x Rigby, Crusade Vanguard    5  CEL PRE aus pot          Brujah antitribu:2
+1x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+1x Jimmy Dunn                 4  CEL POT for              Pander:2
+1x Parmenides                 4  CEL qui                  Assamite:2
 
 Library (90 cards)
 Master (16; 4 trifle)

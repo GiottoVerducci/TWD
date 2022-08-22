@@ -15,15 +15,15 @@ Keep on bleedin.
 Peace
 Dennis E. Lien
 
-Crypt (12 cards, min=15 max=32 avg=5.75)
-----------------------------------------
-4x Anson                                8   CEL PRE aus dom     prince  Toreador:1
-2x Rake                                 6   PRE aus cel pot     prince  Brujah:1
-2x Volker, The Puppet Prince            5   CEL pot             prince  Brujah:2
-1x Black Cat                            5   CEL pot pre                 Brujah:1
-1x Brachah                              5   CEL PRE for                 Brujah:2
-1x Uma Hatch                            3   cel pre                     Brujah:1
-1x Vasilis, The Traitor of Don Cruez    2   pre                         Brujah:2
+Crypt (12 cards, min=15, max=32, avg=5.75)
+------------------------------------------
+4x Anson                              8  CEL PRE aus dom  prince  Toreador:1
+2x Rake                               6  PRE aus cel pot  prince  Brujah:1
+2x Volker, The Puppet Prince          5  CEL pot          prince  Brujah:2
+1x Black Cat                          5  CEL pot pre              Brujah:1
+1x Brachah                            5  CEL PRE for              Brujah:2
+1x Uma Hatch                          3  cel pre                  Brujah:1
+1x Vasilis, The Traitor of Don Cruez  2  pre                      Brujah:2
 
 Library (90 cards)
 Master (20; 2 trifle)

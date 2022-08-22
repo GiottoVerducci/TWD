@@ -12,12 +12,12 @@ Teresita gets some fresh young cadets to join her black hand cult. Has
 a variety of intercept, rush, bleed, and lots of dangerous Animalism /
 Potence combat.
 
-Crypt (12 cards, min=21 max=28 avg=6.08)
-----------------------------------------
-4x Teresita, The Godmother                7   ANI OBF POT for   Nosferatu antitribu:3
-3x Ox, Viceroy of the Hollows             6   ANI OBF POT       Nosferatu antitribu:2
-3x Nigel the Shunned                      5   ANI POT obf       Nosferatu antitribu:2
-2x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot       Nosferatu antitribu:2
+Crypt (12 cards, min=21, max=28, avg=6.08)
+------------------------------------------
+4x Teresita, The Godmother                 7  ANI OBF POT for  Nosferatu antitribu:3
+3x Ox, Viceroy of the Hollows              6  ANI OBF POT      Nosferatu antitribu:2
+3x Nigel the Shunned                       5  ANI POT obf      Nosferatu antitribu:2
+2x Christanius Lionel, The Mad Chronicler  6  ANI OBF pot      Nosferatu antitribu:2
 
 Library (87 cards)
 Master (18; 10 trifle)

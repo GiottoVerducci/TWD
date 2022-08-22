@@ -15,12 +15,12 @@ enkil, then bleed for 8. Slow bleed stealth deck with good bloat and
 very resilient to rush - especially strong in an Animalism/Celerity-gun
 environment.
 
-Crypt (12 cards, min=16 max=40 avg=7.58)
-----------------------------------------
-5x unnamed, The            10  CEL DAI OBF PRE PRO              Baali:6
-3x Horde, The              3   dai obf pre                      Baali:6
-2x Annazir                 9   DAI OBF POT PRE      2 votes     Baali:5
-2x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro              Baali:6
+Crypt (12 cards, min=16, max=40, avg=7.58)
+------------------------------------------
+5x unnamed, The             10  CEL DAI OBF PRE PRO           Baali:6
+3x Horde, The                3  dai obf pre                   Baali:6
+2x Annazir                   9  DAI OBF POT PRE      2 votes  Baali:5
+2x Xeper, Sultan of Lepers   7  OBF PRE ani dai pro           Baali:6
 
 Library (70 cards)
 Master (15; 1 trifle)

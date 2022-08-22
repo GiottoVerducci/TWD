@@ -11,18 +11,18 @@ Description: Build up like a normal !Tor Breed Deck, bring out Banjoko for
 enhanced Seraph Tech. Black Hand Emissary and Watchtower: Wolves Feed will
 give you the advantage to win, hopefully. ;)
 
-Crypt (12 cards, min=10 max=21 avg=4.08)
-----------------------------------------
-3x Banjoko                5   DOM obt pot          Lasombra:3
-1x Dominique Santo Paulo  6   AUS CEL pot pre      Toreador antitribu:4
-1x Cristos Mantigo        5   aus cel dom obf pre  Toreador antitribu:3
-1x Gabriel de Cambrai     5   aus cel dem obf pre  Toreador antitribu:4
-1x Loonar                 4   PRE cel              Toreador antitribu:4
-1x Sabrina                4   aus cel pre          Toreador antitribu:3
-1x Jonathan Gursel        3   aus pre              Toreador antitribu:4
-1x Monique Kim            3   aus cel              Toreador antitribu:4
-1x Justine Chen, Innocent 2   pre                  Toreador antitribu:4
-1x Nicholas Chang         2   aus                  Toreador antitribu:3
+Crypt (12 cards, min=10, max=21, avg=4.08)
+------------------------------------------
+3x Banjoko                 5  DOM obt pot          Lasombra:3
+1x Dominique Santo Paulo   6  AUS CEL pot pre      Toreador antitribu:4
+1x Cristos Mantigo         5  aus cel dom obf pre  Toreador antitribu:3
+1x Gabriel de Cambrai      5  aus cel dem obf pre  Toreador antitribu:4
+1x Loonar                  4  PRE cel              Toreador antitribu:4
+1x Sabrina                 4  aus cel pre          Toreador antitribu:3
+1x Jonathan Gursel         3  aus pre              Toreador antitribu:4
+1x Monique Kim             3  aus cel              Toreador antitribu:4
+1x Justine Chen, Innocent  2  pre                  Toreador antitribu:4
+1x Nicholas Chang          2  aus                  Toreador antitribu:3
 
 Library (90 cards)
 Master (33; 10 trifle)

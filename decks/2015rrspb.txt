@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/8212
 
 Deck Name: Goratrix, "ele esta vivo!"
 
-Crypt (12 cards, min=29 max=40 avg=8.75)
-----------------------------------------
+Crypt (12 cards, min=29, max=40, avg=8.75)
+------------------------------------------
 5x Goratrix                     10  ANI AUS DOM THA vic            Tremere antitribu:2
 1x Goratrix (ADV)               10  ANI AUS DOM THA vic            Tremere:2
-3x Anastasz di Zagreb           8   AUS THA ani cel dom  justicar  Tremere:3
-3x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                Tremere:2
+3x Anastasz di Zagreb            8  AUS THA ani cel dom  justicar  Tremere:3
+3x Muaziz, Archon of Ulugh Beg   7  THA aus dom for                Tremere:2
 
 Library (90 cards)
 Master (24; 9 trifle)

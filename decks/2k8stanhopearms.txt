@@ -4,14 +4,14 @@ September 13th 2008
 14 players
 Mike Nudd
 
-Crypt (12 cards, min=4 max=25 avg=4.33)
----------------------------------------
-4x Jost Werner              6   AUS PRE ani              Toreador antitribu:2
-4x Anarch Convert           1   -none-                   Caitiff:ANY
-1x Greta Kircher            7   AUS CEL PRE obf          Toreador antitribu:2
-1x Ian Wallingford          6   CEL PRE aus      bishop  Toreador antitribu:2
-1x Sheila Mezarin           6   AUS PRE cel for          Toreador antitribu:2
-1x Mercy, Knight Inquisitor 5   AUS cel dom pre          Toreador antitribu:2
+Crypt (12 cards, min=4, max=25, avg=4.33)
+-----------------------------------------
+4x Jost Werner               6  AUS PRE ani              Toreador antitribu:2
+4x Anarch Convert            1  -none-                   Caitiff:ANY
+1x Greta Kircher             7  AUS CEL PRE obf          Toreador antitribu:2
+1x Ian Wallingford           6  CEL PRE aus      bishop  Toreador antitribu:2
+1x Sheila Mezarin            6  AUS PRE cel for          Toreador antitribu:2
+1x Mercy, Knight Inquisitor  5  AUS cel dom pre          Toreador antitribu:2
 
 Library (80 cards)
 Master (14; 5 trifle)

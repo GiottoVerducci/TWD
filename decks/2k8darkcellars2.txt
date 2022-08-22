@@ -10,15 +10,15 @@ Nakhtorheb by Peter Bouwman, with his comments.
 As you can see the deck could use a little tweaking with 2 cards slots
 left and a Dominate card in there by mistake.
 
-Crypt (12 cards, min=10 max=40 avg=6)
--------------------------------------
-4x Nakhthorheb     10  OBF PRE SER      Follower of Set:4
-2x Ahmose Chambers 3   obf ser          Follower of Set:5
-2x Belle Equitone  2   ser              Follower of Set:4
-1x Ogwon           7   OBF PRE SER for  Follower of Set:5
-1x Ankh-sen-Sutekh 6   PRE SER obf      Follower of Set:4
-1x Renenet         5   OBF PRE ser      Follower of Set:4 -- which i drew every game
-1x Sisocharis      4   cel obf pre      Follower of Set:5
+Crypt (12 cards, min=10, max=40, avg=6)
+---------------------------------------
+4x Nakhthorheb      10  OBF PRE SER      Follower of Set:4
+2x Ahmose Chambers   3  obf ser          Follower of Set:5
+2x Belle Equitone    2  ser              Follower of Set:4
+1x Ogwon             7  OBF PRE SER for  Follower of Set:5
+1x Ankh-sen-Sutekh   6  PRE SER obf      Follower of Set:4
+1x Renenet           5  OBF PRE ser      Follower of Set:4  -- which i drew every game
+1x Sisocharis        4  cel obf pre      Follower of Set:5
 
 Library (88 cards)
 Master (16; 4 trifle)

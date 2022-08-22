@@ -8,17 +8,17 @@ Nikolaj Wendt
 
 Deck Name: Princes, Parities, Potence and then some
 
-Crypt (12 cards, min=27 max=39 avg=8.33)
-----------------------------------------
-2x Cock Robin           10  ANI OBF POT aus for  justicar  Nosferatu:3
-2x Spiridonas           9   DOM THA pot pre      prince    Tremere:2
-2x Dónal O'Connor       8   CEL DOM POT          prince    Brujah:2
-1x Jaroslav Pascek      10  CEL POT PRE for obf  justicar  Brujah:3
-1x Casino Reeds         9   ANI OBF POT cel dem  prince    Nosferatu:3
-1x Constanza Vinti      8   CEL DOM POT          prince    Brujah:2
-1x Murat                7   OBF POT ser          prince    Nosferatu:2
-1x Nikolaus Vermeulen   7   POT ani for obf      prince    Nosferatu:2
-1x Calebros, The Martyr 5   ANI obf pot          prince    Nosferatu:2
+Crypt (12 cards, min=27, max=39, avg=8.33)
+------------------------------------------
+2x Cock Robin            10  ANI OBF POT aus for  justicar  Nosferatu:3
+2x Spiridonas             9  DOM THA pot pre      prince    Tremere:2
+2x Dónal O'Connor         8  CEL DOM POT          prince    Brujah:2
+1x Jaroslav Pascek       10  CEL POT PRE for obf  justicar  Brujah:3
+1x Casino Reeds           9  ANI OBF POT cel dem  prince    Nosferatu:3
+1x Constanza Vinti        8  CEL DOM POT          prince    Brujah:2
+1x Murat                  7  OBF POT ser          prince    Nosferatu:2
+1x Nikolaus Vermeulen     7  POT ani for obf      prince    Nosferatu:2
+1x Calebros, The Martyr   5  ANI obf pot          prince    Nosferatu:2
 
 Library (90 cards)
 Master (12)

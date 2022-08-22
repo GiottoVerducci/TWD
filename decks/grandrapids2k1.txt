@@ -20,12 +20,12 @@ tradition he played combined with someone elses anarch revolt killed
 everyone on the table. Usually makes for a fast game, you kill or die
 quickly.
 
-Crypt (12 cards, min=38 max=40 avg=9.83)
-----------------------------------------
-6x Anneke                 10  AUS CEL PRE dom           justicar  Toreador:1
-4x Ulugh Beg, The Watcher 10  AUS DOM THA cel for pot   justicar  Tremere:1
-1x Lucian                 10  AUS DOM OBF cel tha       justicar  Malkavian:1
-1x Anson                  8   CEL PRE aus dom           prince    Toreador:1
+Crypt (12 cards, min=38, max=40, avg=9.83)
+------------------------------------------
+6x Anneke                  10  AUS CEL PRE dom          justicar  Toreador:1
+4x Ulugh Beg, The Watcher  10  AUS DOM THA cel for pot  justicar  Tremere:1
+1x Lucian                  10  AUS DOM OBF cel tha      justicar  Malkavian:1
+1x Anson                    8  CEL PRE aus dom          prince    Toreador:1
 
 Library (90 cards)
 Master (20)

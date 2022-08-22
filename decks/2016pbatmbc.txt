@@ -12,10 +12,10 @@ Deck Name: Barrenness Twister
 
 Description: Deck has 24 burn option cards out of 66 library cards. Burn the burn option cards to cull your deck until you get combinations set up, then use Ashur Tablets to put the burned cards back in the deck once you have your Maleficias in place. Best play in finals was using The Unnamed and two Hordes, each with 1 Maleficia on them, to put three Barrenness cards on my prey's Scout Youngwood and then burn her by playing Scourge. Ouch. Other than the Maleficia cards (which are very strong), it's a typical Unnamed deck - Enkil Cog The Unnamed, bleed on your turn, bleed on someone else's turn. This deck generates mucho table hate.
 
-Crypt (12 cards, min=12 max=40 avg=5.92)
-----------------------------------------
-7x Horde, The   3   dai obf pre          Baali:6
-5x unnamed, The 10  CEL DAI OBF PRE PRO  Baali:6
+Crypt (12 cards, min=12, max=40, avg=5.92)
+------------------------------------------
+7x Horde, The     3  dai obf pre          Baali:6
+5x unnamed, The  10  CEL DAI OBF PRE PRO  Baali:6
 
 Library (66 cards)
 Master (20; 6 trifle)

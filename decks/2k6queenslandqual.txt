@@ -13,16 +13,16 @@ have to spend your whole life going backwards if your predator is
 stealth bleed (quite likely!). Swallowed by the Night lets you
 counter enemy maneuver and stealth past chump blockers to hit key vamps.
 
-Crypt (12 cards, min=15 max=28 avg=5.42)
-----------------------------------------
-5x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
-1x Dr. Julius Sutphen                   5   POT dom obt         bishop  Lasombra:3
-1x Terry                                5   POT aus dom san             Blood Brother:2
-1x Wah Chun-Yuen                        5   POT cel dom pre             Brujah antitribu:3
-1x Earl                                 4   dom for pot                 Ventrue:3
-1x Francesca Giovanni                   4   dom nec pot                 Giovanni:2
-1x Shane Grimald                        4   ani dom pot                 Gangrel antitribu:2
-1x Cameron                              3   dom pot                     Lasombra:2
+Crypt (12 cards, min=15, max=28, avg=5.42)
+------------------------------------------
+5x Beast, The Leatherface of Detroit  7  OBF POT ani cel          Nosferatu antitribu:2
+1x Dr. Julius Sutphen                 5  POT dom obt      bishop  Lasombra:3
+1x Terry                              5  POT aus dom san          Blood Brother:2
+1x Wah Chun-Yuen                      5  POT cel dom pre          Brujah antitribu:3
+1x Earl                               4  dom for pot              Ventrue:3
+1x Francesca Giovanni                 4  dom nec pot              Giovanni:2
+1x Shane Grimald                      4  ani dom pot              Gangrel antitribu:2
+1x Cameron                            3  dom pot                  Lasombra:2
 
 Library (90 cards)
 Master (12)

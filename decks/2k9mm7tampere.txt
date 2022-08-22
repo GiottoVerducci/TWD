@@ -11,14 +11,14 @@ had taken out almost 20 cards, so I just sort of threw this one together.
 I had some storyline specific cards as well (Justicar vote, Triole's
 revenge), but I took them out as well.
 
-Crypt (12 cards, min=23 max=36 avg=7.17)
-----------------------------------------
-4x Crusher                         9   CEL POT PRE for      primogen    Brujah:1
-3x Richter, The Templar of Du Mont 7   CEL POT for pre                  Brujah antitribu:2
-2x Anvil                           6   CEL POT dom pre tha  primogen    Brujah:1
-1x Bianca                          6   CEL pot pre                      Brujah:1
-1x Rake                            6   PRE aus cel pot      prince      Brujah:1
-1x Volker, The Puppet Prince       5   CEL pot              prince      Brujah:2
+Crypt (12 cards, min=23, max=36, avg=7.17)
+------------------------------------------
+4x Crusher                          9  CEL POT PRE for      primogen  Brujah:1
+3x Richter, The Templar of Du Mont  7  CEL POT for pre                Brujah antitribu:2
+2x Anvil                            6  CEL POT dom pre tha  primogen  Brujah:1
+1x Bianca                           6  CEL pot pre                    Brujah:1
+1x Rake                             6  PRE aus cel pot      prince    Brujah:1
+1x Volker, The Puppet Prince        5  CEL pot              prince    Brujah:2
 
 Library (89 cards)
 Master (18; 1 trifle)

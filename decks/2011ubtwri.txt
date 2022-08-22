@@ -7,15 +7,15 @@ Marc Lussier
 
 -- 4VP in final
 
-Crypt (12 cards, min=33 max=42 avg=9.33)
-----------------------------------------
-4x Orlando Oriundus      9   AUS DOM THA obf            bishop          Tremere antitribu:4
-2x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
-2x Alonso Petrodon       10  ANI DOM OBF POT for tha    justicar        Nosferatu:5
-1x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
-1x Neferu                9   OBF PRE SER THA dom nec    2 votes         Follower of Set:4
-1x Paul Cordwood         8   AUS DOM THA obf pre        bishop          Tremere antitribu:4
-1x Graham Gottesman      7   DOM FOR obf pre tha        prince          Ventrue:5
+Crypt (12 cards, min=33, max=42, avg=9.33)
+------------------------------------------
+4x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
+2x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+2x Alonso Petrodon        10  ANI DOM OBF POT for tha  justicar      Nosferatu:5
+1x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+1x Neferu                  9  OBF PRE SER THA dom nec  2 votes       Follower of Set:4
+1x Paul Cordwood           8  AUS DOM THA obf pre      bishop        Tremere antitribu:4
+1x Graham Gottesman        7  DOM FOR obf pre tha      prince        Ventrue:5
 
 Library (80 cards)
 Master (19; 7 trifle)

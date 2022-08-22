@@ -6,20 +6,20 @@ Robyn Tatu
 
 Deck Name: Patterns in the Chaos
 
-Crypt (13 cards, min=13 max=28 avg=5.31)
-----------------------------------------
-2x Dolphin Black                6   AUS DEM OBF                  Malkavian antitribu:2
-1x Virgil                       8   AUS DEM OBF cel     bishop   Malkavian antitribu:2
-1x Kite                         7   AUS DEM obf pre     bishop   Malkavian antitribu:2
-1x Korah                        7   AUS DEM OBF ani     priscus  Malkavian antitribu:2
-1x Dr. Douglas Netchurch        6   AUS OBF dem dom              Malkavian:3
-1x Tony                         6   AUS DEM dom obf              Malkavian:3
-1x Persia, The Beautiful Statue 5   DEM aus obf                  Malkavian:3
-1x Uncle George                 5   DEM aus dom obf              Malkavian antitribu:3
-1x Adelaide Davis               4   aus dem obf                  Malkavian:3
-1x Claven                       4   aus dem obf                  Malkavian antitribu:2
-1x Yorik                        3   dem obf                      Malkavian antitribu:2
-1x Boy Toy                      2   dem                          Malkavian antitribu:2
+Crypt (13 cards, min=13, max=28, avg=5.31)
+------------------------------------------
+2x Dolphin Black                 6  AUS DEM OBF               Malkavian antitribu:2
+1x Virgil                        8  AUS DEM OBF cel  bishop   Malkavian antitribu:2
+1x Kite                          7  AUS DEM obf pre  bishop   Malkavian antitribu:2
+1x Korah                         7  AUS DEM OBF ani  priscus  Malkavian antitribu:2
+1x Dr. Douglas Netchurch         6  AUS OBF dem dom           Malkavian:3
+1x Tony                          6  AUS DEM dom obf           Malkavian:3
+1x Persia, The Beautiful Statue  5  DEM aus obf               Malkavian:3
+1x Uncle George                  5  DEM aus dom obf           Malkavian antitribu:3
+1x Adelaide Davis                4  aus dem obf               Malkavian:3
+1x Claven                        4  aus dem obf               Malkavian antitribu:2
+1x Yorik                         3  dem obf                   Malkavian antitribu:2
+1x Boy Toy                       2  dem                       Malkavian antitribu:2
 
 Library (90 cards)
 Master (13)

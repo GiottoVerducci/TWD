@@ -7,20 +7,20 @@ Esa-Matti Smolander
 
 Deck Name: Tremere/!Tremere toolbox
 
-Crypt (12 cards, min=20 max=36 avg=7.08)
-----------------------------------------
-1x Valerius Maior, Hell's Fool          7   AUS DAI DOM THA nec pre               Tremere:4
-1x Valerius Maior, Hell's Fool (ADV)    7   AUS DAI DOM THA nec pre               Tremere antitribu:4
-1x Lucas Halton                         10  AUS CEL DOM THA qui         prince    Tremere:3
-1x Oliver Thrace                        9   AUS DOM THA nec obf pot               Tremere:3
-1x Orlando Oriundus                     9   AUS DOM THA obf             bishop    Tremere antitribu:4
-1x Anastasz di Zagreb                   8   AUS THA ani cel dom         justicar  Tremere:3
-1x Uta Kovacs                           8   AUS DOM THA ser                       Tremere antitribu:4
-1x Carna, The Princess Witch            7   AUS DOM THA                 primogen  Tremere:3
-1x Selena                               6   AUS DOM THA                           Tremere antitribu:3
-1x Frondator                            5   AUS dom tha                 bishop    Tremere antitribu:4
-1x Hector Trelane                       5   AUS THA dom nec                       Tremere:4
-1x Janine                               4   aus dom tha                           Tremere antitribu:4
+Crypt (12 cards, min=20, max=36, avg=7.08)
+------------------------------------------
+1x Valerius Maior, Hell's Fool         7  AUS DAI DOM THA nec pre            Tremere:4
+1x Valerius Maior, Hell's Fool (ADV)   7  AUS DAI DOM THA nec pre            Tremere antitribu:4
+1x Lucas Halton                       10  AUS CEL DOM THA qui      prince    Tremere:3
+1x Oliver Thrace                       9  AUS DOM THA nec obf pot            Tremere:3
+1x Orlando Oriundus                    9  AUS DOM THA obf          bishop    Tremere antitribu:4
+1x Anastasz di Zagreb                  8  AUS THA ani cel dom      justicar  Tremere:3
+1x Uta Kovacs                          8  AUS DOM THA ser                    Tremere antitribu:4
+1x Carna, The Princess Witch           7  AUS DOM THA              primogen  Tremere:3
+1x Selena                              6  AUS DOM THA                        Tremere antitribu:3
+1x Frondator                           5  AUS dom tha              bishop    Tremere antitribu:4
+1x Hector Trelane                      5  AUS THA dom nec                    Tremere:4
+1x Janine                              4  aus dom tha                        Tremere antitribu:4
 
 Library (88 cards)
 Master (13)

@@ -12,20 +12,20 @@ Deck Name: Legionnaires
 
 https://amaranth.vtes.co.nz/#deck/d764526d-12ab-42ab-bb6f-711b07bb9534
 
-Crypt (12 cards, min=5 max=14 avg=2.33)
----------------------------------------
-1x Agrippina      4   OBF pot      Nosferatu:1
-1x Tansu Bekir    4   OBF cel      Assamite:2
-1x Max Lowell     3   cel obf      Gangrel antitribu:2
-1x Watenda        3   obf          Malkavian:2
-1x Zöe            3   AUS cel obf  Malkavian:2
-1x Angel          2   cel          Brujah:1
-1x Carter         2   cel          Toreador antitribu:2
-1x Dimple         2   obf          Nosferatu:1
-1x Normal         2   obf          Malkavian:1
-1x Anarch Convert 1   -none-       Caitiff:ANY
-1x Basil          1   obf          Pander:2
-1x Nik            1   cel          Caitiff:1
+Crypt (12 cards, min=5, max=14, avg=2.33)
+-----------------------------------------
+1x Agrippina       4  OBF pot      Nosferatu:1
+1x Tansu Bekir     4  OBF cel      Assamite:2
+1x Max Lowell      3  cel obf      Gangrel antitribu:2
+1x Watenda         3  obf          Malkavian:2
+1x Zöe             3  AUS cel obf  Malkavian:2
+1x Angel           2  cel          Brujah:1
+1x Carter          2  cel          Toreador antitribu:2
+1x Dimple          2  obf          Nosferatu:1
+1x Normal          2  obf          Malkavian:1
+1x Anarch Convert  1  -none-       Caitiff:ANY
+1x Basil           1  obf          Pander:2
+1x Nik             1  cel          Caitiff:1
 
 Library (90 cards)
 Master (35; 9 trifle)

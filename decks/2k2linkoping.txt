@@ -8,17 +8,17 @@ Deck Name: The Big Eye sees you!
 
 Description: Intercept everything!
 
-Crypt (12 cards, min=8 max=16 avg=3)
-------------------------------------
-2x Idalia, Prophet of Guadalajara 4   AUS dem      Malkavian antitribu:2
-2x Isabel de Leon                 3   AUS          Toreador:2
-2x Zöe                            3   AUS cel obf  Malkavian:2
-1x Aleph                          4   AUS dom      Malkavian:1
-1x Dorian Strack                  4   AUS cel      Toreador:1
-1x Dollface                       3   aus obf      Malkavian:1
-1x Brazil                         2   aus          Malkavian:1
-1x Dieter Kleist                  2   aus          Toreador:1
-1x Franciscus                     1   aus          Caitiff:2
+Crypt (12 cards, min=8, max=16, avg=3)
+--------------------------------------
+2x Idalia, Prophet of Guadalajara  4  AUS dem      Malkavian antitribu:2
+2x Isabel de Leon                  3  AUS          Toreador:2
+2x Zöe                             3  AUS cel obf  Malkavian:2
+1x Aleph                           4  AUS dom      Malkavian:1
+1x Dorian Strack                   4  AUS cel      Toreador:1
+1x Dollface                        3  aus obf      Malkavian:1
+1x Brazil                          2  aus          Malkavian:1
+1x Dieter Kleist                   2  aus          Toreador:1
+1x Franciscus                      1  aus          Caitiff:2
 
 Library (90 cards)
 Master (22)

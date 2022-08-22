@@ -19,16 +19,16 @@ pred, Grimm. Mike Perlman got James' VP with his
 temptation-bleed-you-dead-Setites. Simeon got Mikes' VP a short time
 later and I was able to clean up getting Sim and Jon. Lucky day.
 
-Crypt (12 cards, min=29 max=40 avg=9)
--------------------------------------
-3x Helena                       10  AUS CEL DOM obf pre tha               Toreador:3
-2x François Villon              10  AUS CEL PRE chi obf pot     prince    Toreador:2
-2x Klaus van der Veken          9   CEL PRE aus obf tha         prince    Toreador:2
-1x Esau                         10  AUS DEM DOM OBF PRE                   Malkavian:3
-1x Marthe Dizier                10  AUS CEL OBF PRE pro                   Toreador antitribu:3
-1x Greta Kircher                7   AUS CEL PRE obf                       Toreador antitribu:2
-1x Suzanne Kadim                7   CEL PRE aus dom obf                   Toreador:3
-1x Antoinette, She Who Watches  6   AUS PRE cel obf             primogen  Toreador:3
+Crypt (12 cards, min=29, max=40, avg=9)
+---------------------------------------
+3x Helena                       10  AUS CEL DOM obf pre tha            Toreador:3
+2x François Villon              10  AUS CEL PRE chi obf pot  prince    Toreador:2
+2x Klaus van der Veken           9  CEL PRE aus obf tha      prince    Toreador:2
+1x Esau                         10  AUS DEM DOM OBF PRE                Malkavian:3
+1x Marthe Dizier                10  AUS CEL OBF PRE pro                Toreador antitribu:3
+1x Greta Kircher                 7  AUS CEL PRE obf                    Toreador antitribu:2
+1x Suzanne Kadim                 7  CEL PRE aus dom obf                Toreador:3
+1x Antoinette, She Who Watches   6  AUS PRE cel obf          primogen  Toreador:3
 
 Library (90 cards)
 Master (14)

@@ -8,14 +8,14 @@ Guilherme Machado
 
 Deck Name: American Euro
 
-Crypt (12 cards, min=22 max=32 avg=6.83)
-----------------------------------------
-2x Constanza Vinti                      8   CEL DOM POT          prince    Brujah:2
-2x Dónal O'Connor                       8   CEL DOM POT          prince    Brujah:2
-2x Beast, The Leatherface of Detroit    7   OBF POT ani cel                Nosferatu antitribu:2
-2x Theo Bell                            7   POT cel dom pre                Brujah:2
-2x Anvil                                6   CEL POT dom pre tha  primogen  Brujah:1
-2x Volker, The Puppet Prince            5   CEL pot              prince    Brujah:2
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+2x Constanza Vinti                    8  CEL DOM POT          prince    Brujah:2
+2x Dónal O'Connor                     8  CEL DOM POT          prince    Brujah:2
+2x Beast, The Leatherface of Detroit  7  OBF POT ani cel                Nosferatu antitribu:2
+2x Theo Bell                          7  POT cel dom pre                Brujah:2
+2x Anvil                              6  CEL POT dom pre tha  primogen  Brujah:1
+2x Volker, The Puppet Prince          5  CEL pot              prince    Brujah:2
 
 Library (90 cards)
 Master (14; 2 trifle)

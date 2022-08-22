@@ -17,16 +17,16 @@ bleed" side of the deck was "very" useful ; with Lalitha and Julius.
 
 Remy Auclair
 
-Crypt (12 cards, min=6 max=20 avg=3.33)
----------------------------------------
-2x Count Ormonde          5   OBF dom pre ser   Follower of Set:2
-2x Celine Chevalier       3   obf ser           Follower of Set:2
-2x Lalitha                2   ser               Follower of Set:2
-2x Julius                 1   qui ser           Caitiff:2
-1x Grendel the Worm-Eaten 5   OBF ani pot       Nosferatu:1
-1x Zebulon                5   OBF aus dom pro   Malkavian:1
-1x Agrippina              4   OBF pot           Nosferatu:1
-1x Tansu Bekir            4   OBF cel           Assamite:2
+Crypt (12 cards, min=6, max=20, avg=3.33)
+-----------------------------------------
+2x Count Ormonde           5  OBF dom pre ser  Follower of Set:2
+2x Celine Chevalier        3  obf ser          Follower of Set:2
+2x Lalitha                 2  ser              Follower of Set:2
+2x Julius                  1  qui ser          Caitiff:2
+1x Grendel the Worm-Eaten  5  OBF ani pot      Nosferatu:1
+1x Zebulon                 5  OBF aus dom pro  Malkavian:1
+1x Agrippina               4  OBF pot          Nosferatu:1
+1x Tansu Bekir             4  OBF cel          Assamite:2
 
 Library (90 cards)
 Master (11)

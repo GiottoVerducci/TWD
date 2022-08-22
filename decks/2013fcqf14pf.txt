@@ -11,15 +11,15 @@ Deck Name: Maris et Lutz à Paris
 
 Description: Avec en merci beaucoup à Kamel Senni
 
-Crypt (12 cards, min=36 max=43 avg=9.92)
-----------------------------------------
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-3x Maris Streck          9   AUS OBF ani dem dom        justicar        Malkavian:3
-2x Rachel Brandywine     10  AUS DEM OBF PRO ani        prince          Malkavian:3
-1x Gravitnir             10  AUS CEL DEM OBF VIC        priscus         Malkavian antitribu:4
-1x Louhi                 10  ANI AUS DEM OBF THA pro    cardinal        Malkavian antitribu:4
-1x Tryphosa              10  AUS DEM DOM OBF POT        prince          Malkavian:4
-1x Orlando Oriundus      9   AUS DOM THA obf            bishop          Tremere antitribu:4
+Crypt (12 cards, min=36, max=43, avg=9.92)
+------------------------------------------
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+3x Maris Streck            9  AUS OBF ani dem dom      justicar      Malkavian:3
+2x Rachel Brandywine      10  AUS DEM OBF PRO ani      prince        Malkavian:3
+1x Gravitnir              10  AUS CEL DEM OBF VIC      priscus       Malkavian antitribu:4
+1x Louhi                  10  ANI AUS DEM OBF THA pro  cardinal      Malkavian antitribu:4
+1x Tryphosa               10  AUS DEM DOM OBF POT      prince        Malkavian:4
+1x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
 
 Library (72 cards)
 Master (22; 9 trifle)

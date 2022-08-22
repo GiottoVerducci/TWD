@@ -12,17 +12,17 @@ Deck Name: Bang bang, my baby shot me down (A.k.a. Anson Guns)
 
 A classic Anson Guns deck like the others.
 
-Crypt (12 cards, min=16 max=36 avg=6.75)
-----------------------------------------
-4x Anson                        8   CEL PRE aus dom             prince    Toreador:1
-1x Anneke                       10  AUS CEL PRE dom             justicar  Toreador:1
-1x François Villon              10  AUS CEL PRE chi obf pot     prince    Toreador:2
-1x Marcellus                    8   AUS CEL pro                 prince    Toreador:2
-1x Black Cat                    5   CEL pot pre                           Brujah:1
-1x Volker, The Puppet Prince    5   CEL pot                     prince    Brujah:2
-1x Jimmy Dunn                   4   CEL POT for                           Pander:2
-1x Victor Tolliver              4   CEL pot                               Brujah antitribu:2
-1x Sarah Brando                 3   CEL                                   Brujah antitribu:2
+Crypt (12 cards, min=16, max=36, avg=6.75)
+------------------------------------------
+4x Anson                       8  CEL PRE aus dom          prince    Toreador:1
+1x Anneke                     10  AUS CEL PRE dom          justicar  Toreador:1
+1x François Villon            10  AUS CEL PRE chi obf pot  prince    Toreador:2
+1x Marcellus                   8  AUS CEL pro              prince    Toreador:2
+1x Black Cat                   5  CEL pot pre                        Brujah:1
+1x Volker, The Puppet Prince   5  CEL pot                  prince    Brujah:2
+1x Jimmy Dunn                  4  CEL POT for                        Pander:2
+1x Victor Tolliver             4  CEL pot                            Brujah antitribu:2
+1x Sarah Brando                3  CEL                                Brujah antitribu:2
 
 Library (80 cards)
 Master (23; 1 trifle)

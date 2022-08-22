@@ -12,18 +12,18 @@ Deck Name: Bleed n guns n bleed n guns hurrah hurrah
 
 Description: Bring out minions with + 1 bleed. Block to survive. Bleed for 2. Profit.
 
-Crypt (12 cards, min=5 max=31 avg=5.08)
----------------------------------------
-3x Anarch Convert         1   -none-                     Caitiff:ANY
-1x Cornelius Ottavio      8   AUS OBF pre qui            Malkavian:2
-1x Gustav Mallenhous      8   AUS DOM for obt   priscus  Ventrue antitribu:2
-1x Marcellus              8   AUS CEL pro       prince   Toreador:2
-1x Adonai                 7   AUS VAL for                Salubri antitribu:2
-1x Tatiana Romanov        7   AUS cel pre       prince   Toreador:1
-1x Ozmo                   6   AUS dom obf                Malkavian:1
-1x Quira, The Bitch Queen 6   AUS OBF obt tha            Malkavian antitribu:2
-1x Sheila Mezarin         6   AUS PRE cel for            Toreador antitribu:2
-1x New Blood              2   san                        Blood Brother:ANY
+Crypt (12 cards, min=5, max=31, avg=5.08)
+-----------------------------------------
+3x Anarch Convert          1  -none-                    Caitiff:ANY
+1x Cornelius Ottavio       8  AUS OBF pre qui           Malkavian:2
+1x Gustav Mallenhous       8  AUS DOM for obt  priscus  Ventrue antitribu:2
+1x Marcellus               8  AUS CEL pro      prince   Toreador:2
+1x Adonai                  7  AUS VAL for               Salubri antitribu:2
+1x Tatiana Romanov         7  AUS cel pre      prince   Toreador:1
+1x Ozmo                    6  AUS dom obf               Malkavian:1
+1x Quira, The Bitch Queen  6  AUS OBF obt tha           Malkavian antitribu:2
+1x Sheila Mezarin          6  AUS PRE cel for           Toreador antitribu:2
+1x New Blood               2  san                       Blood Brother:ANY
 
 Library (90 cards)
 Master (18; 8 trifle)

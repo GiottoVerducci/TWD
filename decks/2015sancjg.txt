@@ -13,15 +13,15 @@ using either their Anesthetic Touch or Loving Agony in the vitals to
 disuade those you stand in their way -- all with a little help form the
 Neighbourhood Watch Commanders.
 
-Crypt (13 cards, min=17 max=44 avg=8)
--------------------------------------
-5x Saulot, The Wanderer 11  AUS FOR OBE THA VAL dai             Salubri:4
-3x Uriel                8   AUS FOR VAL ani obe         bishop  Salubri antitribu:4
-1x Dela Eden            8   AUS FOR VAL cel dom                 Salubri antitribu:3
-1x Aredhel              5   FOR VAL aus                         Salubri antitribu:4
-1x Langa                5   VAL for                             Salubri antitribu:4
-1x Nkechi               4   aus for val                         Salubri antitribu:4
-1x Rashiel              3   for val                             Salubri antitribu:4
+Crypt (13 cards, min=17, max=44, avg=8)
+---------------------------------------
+5x Saulot, The Wanderer  11  AUS FOR OBE THA VAL dai          Salubri:4
+3x Uriel                  8  AUS FOR VAL ani obe      bishop  Salubri antitribu:4
+1x Dela Eden              8  AUS FOR VAL cel dom              Salubri antitribu:3
+1x Aredhel                5  FOR VAL aus                      Salubri antitribu:4
+1x Langa                  5  VAL for                          Salubri antitribu:4
+1x Nkechi                 4  aus for val                      Salubri antitribu:4
+1x Rashiel                3  for val                          Salubri antitribu:4
 
 Library (90 cards)
 Master (18; 7 trifle)

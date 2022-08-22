@@ -5,14 +5,14 @@ February 17th 2008
 17 players
 Pierre Denis Brouillet
 
-Crypt (12 cards, min=12 max=24 avg=4.67)
-----------------------------------------
-4x Eurayle Gelasia Mylonas 6   AUS OBE for pre  Salubri:4
-2x Antonio d'Erlette       5   THA dom for pot  Tremere antitribu:4
-2x Esoara                  5   DOM aus for pot  Tremere antitribu:4
-2x Keith Moody             3   DOM              Tremere antitribu:4
-1x Ember Wright            3   aus dom          Tremere antitribu:3
-1x Saiz                    3   aus dom          Tremere antitribu:3
+Crypt (12 cards, min=12, max=24, avg=4.67)
+------------------------------------------
+4x Eurayle Gelasia Mylonas  6  AUS OBE for pre  Salubri:4
+2x Antonio d'Erlette        5  THA dom for pot  Tremere antitribu:4
+2x Esoara                   5  DOM aus for pot  Tremere antitribu:4
+2x Keith Moody              3  DOM              Tremere antitribu:4
+1x Ember Wright             3  aus dom          Tremere antitribu:3
+1x Saiz                     3  aus dom          Tremere antitribu:3
 
 Library (74 cards)
 Master (16)

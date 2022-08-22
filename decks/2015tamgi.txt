@@ -8,20 +8,20 @@ https://www.vekn.net/event-calendar/event/8191
 
 Deck Name: Sciame Auspex
 
-Crypt (12 cards, min=8 max=17 avg=3.17)
----------------------------------------
-1x Victoria                       5   AUS cel obf  Malkavian:2
-1x Aleph                          4   AUS dom      Malkavian:1
-1x Dorian Strack                  4   AUS cel      Toreador:1
-1x Idalia, Prophet of Guadalajara 4   AUS dem      Malkavian antitribu:2
-1x Remilliard, Devout Crusader    4   AUS pre      Toreador antitribu:2
-1x Colin Flynn                    3   aus cel      Toreador:1
-1x Dollface                       3   aus obf      Malkavian:1
-1x Isabel de Leon                 3   AUS          Toreador:2
-1x Zöe                            3   AUS cel obf  Malkavian:2
-1x Brazil                         2   aus          Malkavian:1
-1x Dieter Kleist                  2   aus          Toreador:1
-1x Franciscus                     1   aus          Caitiff:2
+Crypt (12 cards, min=8, max=17, avg=3.17)
+-----------------------------------------
+1x Victoria                        5  AUS cel obf  Malkavian:2
+1x Aleph                           4  AUS dom      Malkavian:1
+1x Dorian Strack                   4  AUS cel      Toreador:1
+1x Idalia, Prophet of Guadalajara  4  AUS dem      Malkavian antitribu:2
+1x Remilliard, Devout Crusader     4  AUS pre      Toreador antitribu:2
+1x Colin Flynn                     3  aus cel      Toreador:1
+1x Dollface                        3  aus obf      Malkavian:1
+1x Isabel de Leon                  3  AUS          Toreador:2
+1x Zöe                             3  AUS cel obf  Malkavian:2
+1x Brazil                          2  aus          Malkavian:1
+1x Dieter Kleist                   2  aus          Toreador:1
+1x Franciscus                      1  aus          Caitiff:2
 
 Library (90 cards)
 Master (18; 8 trifle)

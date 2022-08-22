@@ -7,13 +7,13 @@ Germán Uriarte
 
 Deck Name: Spider, the best
 
-Crypt (12 cards, min=9 max=40 avg=6.75)
----------------------------------------
-4x Spider-Killer                 10  ANI CHI FOR OBF aus cel    Ravnos:2
-4x Genina, The Red Poet          8   CHI OBF THN aus cel for    Samedi:3
-2x Aaron Duggan, Cameron's Toady 2   obt                        Lasombra:2
-1x Lázár Dobrescu                3   for                        Ravnos:2
-1x Sasha Miklos                  2   chi                        Ravnos:2
+Crypt (12 cards, min=9, max=40, avg=6.75)
+-----------------------------------------
+4x Spider-Killer                  10  ANI CHI FOR OBF aus cel  Ravnos:2
+4x Genina, The Red Poet            8  CHI OBF THN aus cel for  Samedi:3
+2x Aaron Duggan, Cameron's Toady   2  obt                      Lasombra:2
+1x Lázár Dobrescu                  3  for                      Ravnos:2
+1x Sasha Miklos                    2  chi                      Ravnos:2
 
 Library (90 cards)
 Master (25; 3 trifle)

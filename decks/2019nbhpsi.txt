@@ -8,13 +8,13 @@ https://www.vekn.net/event-calendar/event/9394
 
 -- 1GW5 + 4VP in final
 
-Crypt (12 cards, min=5 max=40 avg=6.25)
----------------------------------------
-4x Nakhthorheb     10  OBF PRE SER          Follower of Set:4
-3x Porphyrion      9   CHI OBF PRE SER for  Follower of Set:5
-3x Anarch Convert  1   -none-               Caitiff:ANY
-1x Ahmose Chambers 3   obf ser              Follower of Set:5
-1x Belle Equitone  2   ser                  Follower of Set:4
+Crypt (12 cards, min=5, max=40, avg=6.25)
+-----------------------------------------
+4x Nakhthorheb      10  OBF PRE SER          Follower of Set:4
+3x Porphyrion        9  CHI OBF PRE SER for  Follower of Set:5
+3x Anarch Convert    1  -none-               Caitiff:ANY
+1x Ahmose Chambers   3  obf ser              Follower of Set:5
+1x Belle Equitone    2  ser                  Follower of Set:4
 
 Library (61 cards)
 Master (17; 4 trifle)

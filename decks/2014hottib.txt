@@ -13,20 +13,20 @@ Created by: Luana Ferreira e Douglas Nascimento
 
 Description: Mono Potence deck
 
-Crypt (12 cards, min=7 max=16 avg=2.92)
----------------------------------------
-1x Agatha                   4   POT obf         Nosferatu antitribu:2
-1x Chas Giovanni Tello      4   DOM POT         Giovanni:2
-1x Hector Sosa              4   POT pre         Brujah:1
-1x Hugo                     4   POT pre vic     Brujah antitribu:2
-1x Jimmy Dunn               4   CEL POT for     Pander:2
-1x Cristofero Giovanni      3   nec pot         Giovanni:2
-1x Tommy                    3   ani pot         Nosferatu antitribu:2
-1x KoKo                     2   pot             Nosferatu:1
-1x Lupo                     2   pot             Brujah:1
-1x Mitchell, The Headhunter 2   obt pot         Pander:2
-1x Paul DiCarlo, The Alpha  2   pot             Giovanni:2
-1x Uriah Winter             1   for pot         Caitiff:1
+Crypt (12 cards, min=7, max=16, avg=2.92)
+-----------------------------------------
+1x Agatha                    4  POT obf      Nosferatu antitribu:2
+1x Chas Giovanni Tello       4  DOM POT      Giovanni:2
+1x Hector Sosa               4  POT pre      Brujah:1
+1x Hugo                      4  POT pre vic  Brujah antitribu:2
+1x Jimmy Dunn                4  CEL POT for  Pander:2
+1x Cristofero Giovanni       3  nec pot      Giovanni:2
+1x Tommy                     3  ani pot      Nosferatu antitribu:2
+1x KoKo                      2  pot          Nosferatu:1
+1x Lupo                      2  pot          Brujah:1
+1x Mitchell, The Headhunter  2  obt pot      Pander:2
+1x Paul DiCarlo, The Alpha   2  pot          Giovanni:2
+1x Uriah Winter              1  for pot      Caitiff:1
 
 Library (90 cards)
 Master (19; 4 trifle)

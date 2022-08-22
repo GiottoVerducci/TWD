@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/8929
 
 Deck Name: elimehand
 
-Crypt (12 cards, min=22 max=44 avg=8.33)
-----------------------------------------
-5x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro     Ventrue antitribu:5
-2x White Lily                   8   DEM OBF cel dom for         Malkavian antitribu:4
-2x Marge Khan                   7   DEM OBF POT aus for         Malkavian antitribu:5
-1x Hagar Stone                  6   AUS DEM obf                 Malkavian antitribu:5
-1x Kestrelle Hayes              6   AUS dom for obt             Ventrue antitribu:5
-1x Lubomira Hradok              3   OBF                         Nosferatu antitribu:5
+Crypt (12 cards, min=22, max=44, avg=8.33)
+------------------------------------------
+5x Elimelech the Twice-Damned  11  AUS DEM DOM FOR OBF pro  Ventrue antitribu:5
+2x White Lily                   8  DEM OBF cel dom for      Malkavian antitribu:4
+2x Marge Khan                   7  DEM OBF POT aus for      Malkavian antitribu:5
+1x Hagar Stone                  6  AUS DEM obf              Malkavian antitribu:5
+1x Kestrelle Hayes              6  AUS dom for obt          Ventrue antitribu:5
+1x Lubomira Hradok              3  OBF                      Nosferatu antitribu:5
 
 Library (88 cards)
 Master (20; 8 trifle)

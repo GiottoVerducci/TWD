@@ -5,15 +5,15 @@ July 2nd 2005
 25 players
 Chris Berg
 
-Crypt (12 cards, min=14 max=42 avg=7)
--------------------------------------
-3x Stanislava                   11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
-2x Ingrid Rossler               9   ANI FOR PRO dom      prince         Gangrel:2
-2x Camille Devereux, The Raven  5   FOR PRO ani                         Gangrel:1
-2x Chandler Hungerford          3   PRO                                 Gangrel:2
-1x Haakon Mortensen             8   ANI FOR PRO                         Gangrel antitribu:2
-1x Badger                       6   FOR PRO ani pot                     Gangrel:1
-1x Ricki Van Demsi              3   for pro                             Gangrel:1
+Crypt (12 cards, min=14, max=42, avg=7)
+---------------------------------------
+3x Stanislava                   11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Ingrid Rossler                9  ANI FOR PRO dom      prince        Gangrel:2
+2x Camille Devereux, The Raven   5  FOR PRO ani                        Gangrel:1
+2x Chandler Hungerford           3  PRO                                Gangrel:2
+1x Haakon Mortensen              8  ANI FOR PRO                        Gangrel antitribu:2
+1x Badger                        6  FOR PRO ani pot                    Gangrel:1
+1x Ricki Van Demsi               3  for pro                            Gangrel:1
 
 Library (73 cards)
 Master (19)

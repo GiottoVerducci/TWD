@@ -6,16 +6,16 @@ Julian Gatt
 
 Deck Name: Omaya Wall
 
-Crypt (12 cards, min=12 max=28 avg=5.25)
-----------------------------------------
-4x Omaya                7   ANI AUS FOR pro             Gangrel antitribu:2
-2x Caitlin              6   ANI PRO aus dom     bishop  Gangrel antitribu:2
-1x Horrock              6   ANI PRO vic                 Gangrel:3
-1x Dr. Allan Woodstock  5   PRO ani aus for             Gangrel:3
-1x Bobby Lemon          4   ANI pro                     Gangrel:3
-1x Chandler Hungerford  3   PRO                         Gangrel:2
-1x Isabel de Leon       3   AUS                         Toreador:2
-1x Sadie                2   pro                         Gangrel antitribu:2
+Crypt (12 cards, min=12, max=28, avg=5.25)
+------------------------------------------
+4x Omaya                7  ANI AUS FOR pro          Gangrel antitribu:2
+2x Caitlin              6  ANI PRO aus dom  bishop  Gangrel antitribu:2
+1x Horrock              6  ANI PRO vic              Gangrel:3
+1x Dr. Allan Woodstock  5  PRO ani aus for          Gangrel:3
+1x Bobby Lemon          4  ANI pro                  Gangrel:3
+1x Chandler Hungerford  3  PRO                      Gangrel:2
+1x Isabel de Leon       3  AUS                      Toreador:2
+1x Sadie                2  pro                      Gangrel antitribu:2
 
 Library (84 cards)
 Master (16)

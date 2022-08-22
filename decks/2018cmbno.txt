@@ -12,14 +12,14 @@ I have noticed some cool, winning decks that combine Eyes of Argus and Sense
 the Savage Way. I also noticed these 3, group 4/5 Tremere with ANI. The rest
 was history.
 
-Crypt (12 cards, min=19 max=43 avg=8.33)
-----------------------------------------
-3x Lord Tremere          11  ANI AUS DOM THA VIC obe              Tremere:5
-3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar  Tremere:5
-3x Dr. John Dee          9   ANI AUS DOM THA chi        prince    Tremere:4
-1x Zane                  5   THA aus dom                primogen  Tremere:5
-1x Monica Chang          3   dom tha                              Tremere:5
-1x Ezra Hawthorne        2   tha                                  Tremere:4
+Crypt (12 cards, min=19, max=43, avg=8.33)
+------------------------------------------
+3x Lord Tremere           11  ANI AUS DOM THA VIC obe            Tremere:5
+3x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar  Tremere:5
+3x Dr. John Dee            9  ANI AUS DOM THA chi      prince    Tremere:4
+1x Zane                    5  THA aus dom              primogen  Tremere:5
+1x Monica Chang            3  dom tha                            Tremere:5
+1x Ezra Hawthorne          2  tha                                Tremere:4
 
 Library (90 cards)
 Master (16; 5 trifle)

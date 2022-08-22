@@ -9,15 +9,15 @@ Ginés Quiñonero
 
 Deck Name: The Remarkable Beauty of the Dog/Warghoul Synergy
 
-Crypt (12 cards, min=4 max=34 avg=4.17)
----------------------------------------
-4x Anarch Convert       1   -none-                      Caitiff:ANY
-3x Nana Buruku          8   ANI POT PRE                 Guruhi:4
-1x Cybele               10  ANI DAI OBF PRE SER THA     Baali:4
-1x Guedado              4   aus obf vic                 Tzimisce:4
-1x Droescher One-Eye    3   ani vic                     Tzimisce:4
-1x Ilias cel Frumos     3   aus vic                     Tzimisce:4
-1x Piotr Andreikov      2   aus                         Tzimisce:3
+Crypt (12 cards, min=4, max=34, avg=4.17)
+-----------------------------------------
+4x Anarch Convert      1  -none-                   Caitiff:ANY
+3x Nana Buruku         8  ANI POT PRE              Guruhi:4
+1x Cybele             10  ANI DAI OBF PRE SER THA  Baali:4
+1x Guedado             4  aus obf vic              Tzimisce:4
+1x Droescher One-Eye   3  ani vic                  Tzimisce:4
+1x Ilias cel Frumos    3  aus vic                  Tzimisce:4
+1x Piotr Andreikov     2  aus                      Tzimisce:3
 
 Library (63 cards)
 Master (39; 8 trifle)

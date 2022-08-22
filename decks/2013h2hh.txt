@@ -21,14 +21,14 @@ in the all but meaningless last few turns. The deck has trouble with
 any real intercept and the Sacrifice was used twice by Kyle Strathcona
 to kill a Neighbor John.
 
-Crypt (12 cards, min=26 max=38 avg=8)
--------------------------------------
-4x Synesios                             8   POT PRE TEM obf ser  2 votes        True Brujah:2
-2x Bronwen                              10  CEL POT PRE dom obt  priscus        Brujah antitribu:2
-2x Kyle Strathcona, Cardinal of Canada  9   AUS DOM POT PRE for  cardinal       Ventrue antitribu:2
-2x Sela (ADV)                           7   POT PRE cel obt      archbishop     Brujah antitribu:2
-1x Dominique                            7   AUS FOR ani dom vic                 Ventrue antitribu:2
-1x Gerard                               5   aus dom for obt                     Ventrue antitribu:2
+Crypt (12 cards, min=26, max=38, avg=8)
+---------------------------------------
+4x Synesios                              8  POT PRE TEM obf ser  2 votes     True Brujah:2
+2x Bronwen                              10  CEL POT PRE dom obt  priscus     Brujah antitribu:2
+2x Kyle Strathcona, Cardinal of Canada   9  AUS DOM POT PRE for  cardinal    Ventrue antitribu:2
+2x Sela (ADV)                            7  POT PRE cel obt      archbishop  Brujah antitribu:2
+1x Dominique                             7  AUS FOR ani dom vic              Ventrue antitribu:2
+1x Gerard                                5  aus dom for obt                  Ventrue antitribu:2
 
 Library (64 cards)
 Master (18; 6 trifle)

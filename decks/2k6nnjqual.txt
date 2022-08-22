@@ -57,16 +57,16 @@ four of them. The Stone Dog was always discarded. I was thinking
 that permanent rush would be useful, but I just never wanted to
 pay 3 pool for the privilege.
 
-Crypt (12 cards, min=11 max=27 avg=4.83)
-----------------------------------------
-3x Ublo-Satha              7   FOR POT VIS cel  Gargoyle:2
-2x Saxum, Master of Slaves 6   FOR VIS pot pre  Gargoyle:2
-2x Luma, Stone Beauty      5   FOR aus pot vis  Gargoyle:2
-1x Ignatius                4   aus dom tha      Tremere:1
-1x Sarah Cobbler           4   THA dom          Tremere:1
-1x Jing Wei                3   dom tha          Tremere:1
-1x Mustafa Rahman          2   dom              Tremere:2
-1x Roreca Quaid            2   tha              Tremere:1
+Crypt (12 cards, min=11, max=27, avg=4.83)
+------------------------------------------
+3x Ublo-Satha               7  FOR POT VIS cel  Gargoyle:2
+2x Saxum, Master of Slaves  6  FOR VIS pot pre  Gargoyle:2
+2x Luma, Stone Beauty       5  FOR aus pot vis  Gargoyle:2
+1x Ignatius                 4  aus dom tha      Tremere:1
+1x Sarah Cobbler            4  THA dom          Tremere:1
+1x Jing Wei                 3  dom tha          Tremere:1
+1x Mustafa Rahman           2  dom              Tremere:2
+1x Roreca Quaid             2  tha              Tremere:1
 
 Library (90 cards)
 Master (15)

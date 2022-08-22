@@ -9,17 +9,17 @@ Frances Ros
 
 Deck Name: Nakhthorheb Power
 
-Crypt (12 cards, min=12 max=36 avg=5.83)
-----------------------------------------
-3x Nakhthorheb           10  OBF PRE SER          Follower of Set:4
-2x Halim Bey             6   DOM SER obf tha      Follower of Set:4
-1x Ankh-sen-Sutekh       6   PRE SER obf          Follower of Set:4
-1x Abdelsobek            5   for nec obf pre ser  Follower of Set:5
-1x Black Lotus           5   DOM aus obf ser      Follower of Set:4
-1x Marla Kenyon          4   PRE ser              Follower of Set:4
-1x Ahmose Chambers       3   obf ser              Follower of Set:5
-1x Reverend Djoser Jones 3   pre ser              Follower of Set:4
-1x Belle Equitone        2   ser                  Follower of Set:4
+Crypt (12 cards, min=12, max=36, avg=5.83)
+------------------------------------------
+3x Nakhthorheb            10  OBF PRE SER          Follower of Set:4
+2x Halim Bey               6  DOM SER obf tha      Follower of Set:4
+1x Ankh-sen-Sutekh         6  PRE SER obf          Follower of Set:4
+1x Abdelsobek              5  for nec obf pre ser  Follower of Set:5
+1x Black Lotus             5  DOM aus obf ser      Follower of Set:4
+1x Marla Kenyon            4  PRE ser              Follower of Set:4
+1x Ahmose Chambers         3  obf ser              Follower of Set:5
+1x Reverend Djoser Jones   3  pre ser              Follower of Set:4
+1x Belle Equitone          2  ser                  Follower of Set:4
 
 Library (90 cards)
 Master (15; 7 trifle)

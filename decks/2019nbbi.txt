@@ -12,17 +12,17 @@ Deck Name: S&B Black Hand
 
 S&B deck based on Black Hand tricks.
 
-Crypt (12 cards, min=15 max=42 avg=7.58)
-----------------------------------------
-3x Karif al Numair              10  AUS CEL OBF QUI for         Assamite:5
-2x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro     Ventrue antitribu:5
-1x Izhim abd Azrael             9   CEL OBF QUI THA pot         Assamite:5
-1x Al-Muntathir, God's Witness  8   AUS FOR PRE TEM obf qui     True Brujah:5
-1x Djuhah, The Bronze Bow       7   OBF QUI aus cel pre         Assamite:5
-1x Hagar Stone                  6   AUS DEM obf                 Malkavian antitribu:5
-1x Rashid Stockton              4   cel obf vic                 Gangrel antitribu:5
-1x Lubomira Hradok              3   OBF                         Nosferatu antitribu:5
-1x Claudia                      2   obt                         Lasombra:5
+Crypt (12 cards, min=15, max=42, avg=7.58)
+------------------------------------------
+3x Karif al Numair              10  AUS CEL OBF QUI for      Assamite:5
+2x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro  Ventrue antitribu:5
+1x Izhim abd Azrael              9  CEL OBF QUI THA pot      Assamite:5
+1x Al-Muntathir, God's Witness   8  AUS FOR PRE TEM obf qui  True Brujah:5
+1x Djuhah, The Bronze Bow        7  OBF QUI aus cel pre      Assamite:5
+1x Hagar Stone                   6  AUS DEM obf              Malkavian antitribu:5
+1x Rashid Stockton               4  cel obf vic              Gangrel antitribu:5
+1x Lubomira Hradok               3  OBF                      Nosferatu antitribu:5
+1x Claudia                       2  obt                      Lasombra:5
 
 Library (90 cards)
 Master (21; 6 trifle)

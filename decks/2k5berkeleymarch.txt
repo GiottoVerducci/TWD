@@ -7,14 +7,14 @@ Jeff Kuta
 
 Modified multi-taskamites
 
-Crypt (12 cards, min=13 max=44 avg=7.92)
-----------------------------------------
-4x Ur-Shulgi, The Shepherd      11  CEL DOM OBF QUI THA aus     2 votes  Assamite:2
-3x Thetmes, Caliph of Alamut    10  CEL OBF QUI dom pot         2 votes  Assamite:2
-2x Yazid Tamari                 8   CEL QUI ani dom obf                  Assamite:3
-1x Mustafa Rahman               2   dom                                  Tremere:2
-1x Ohanna                       2   dom                                  Malkavian:2
-1x Royce                        1   dom                                  Pander:2
+Crypt (12 cards, min=13, max=44, avg=7.92)
+------------------------------------------
+4x Ur-Shulgi, The Shepherd    11  CEL DOM OBF QUI THA aus  2 votes  Assamite:2
+3x Thetmes, Caliph of Alamut  10  CEL OBF QUI dom pot      2 votes  Assamite:2
+2x Yazid Tamari                8  CEL QUI ani dom obf               Assamite:3
+1x Mustafa Rahman              2  dom                               Tremere:2
+1x Ohanna                      2  dom                               Malkavian:2
+1x Royce                       1  dom                               Pander:2
 
 Library (90 cards)
 Master (24; 1 trifle)

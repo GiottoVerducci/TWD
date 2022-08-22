@@ -13,20 +13,20 @@ Created by: Randal Rudstam
 
 A version of my prior Bleed n guns n bleed n guns hurrah hurrah block deck but now with titled vampires. One game Leandro burned 15 pool with his ability
 
-Crypt (12 cards, min=32 max=43 avg=9.42)
-----------------------------------------
-1x Alexandra            11  ANI AUS CEL PRE dom         inner circle    Toreador:2
-1x Etrius               11  AUS DOM OBF THA pro         inner circle    Tremere:2
-1x Leandro              11  AUS OBF PRE cel dom         inner circle    Malkavian:2
-1x Anneke               10  AUS CEL PRE dom             justicar        Toreador:1
-1x François Villon      10  AUS CEL PRE chi obf pot     prince          Toreador:2
-1x Masika               10  AUS CEL PRE                 primogen        Toreador:1
-1x Donatien             9   AUS PRE cel pot             cardinal        Toreador antitribu:2
-1x Javier Montoya       9   AUS THA ani cel pre         prince          Tremere:2
-1x Stravinsky           9   ANI AUS VIC pot             archbishop      Tzimisce:2
-1x Gustav Mallenhous    8   AUS DOM for obt             priscus         Ventrue antitribu:2
-1x Marcellus            8   AUS CEL pro                 prince          Toreador:2
-1x Tatiana Romanov      7   AUS cel pre                 prince          Toreador:1
+Crypt (12 cards, min=32, max=43, avg=9.42)
+------------------------------------------
+1x Alexandra          11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+1x Etrius             11  AUS DOM OBF THA pro      inner circle  Tremere:2
+1x Leandro            11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Anneke             10  AUS CEL PRE dom          justicar      Toreador:1
+1x François Villon    10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Masika             10  AUS CEL PRE              primogen      Toreador:1
+1x Donatien            9  AUS PRE cel pot          cardinal      Toreador antitribu:2
+1x Javier Montoya      9  AUS THA ani cel pre      prince        Tremere:2
+1x Stravinsky          9  ANI AUS VIC pot          archbishop    Tzimisce:2
+1x Gustav Mallenhous   8  AUS DOM for obt          priscus       Ventrue antitribu:2
+1x Marcellus           8  AUS CEL pro              prince        Toreador:2
+1x Tatiana Romanov     7  AUS cel pre              prince        Toreador:1
 
 Library (90 cards)
 Master (20; 8 trifle)

@@ -11,19 +11,19 @@ https://www.vekn.net/event-calendar/event/9816
 Deck Name: Diario 1.0
 Description: Classic Khazar swarm deck
 
-Crypt (12 cards, min=6 max=18 avg=3)
-------------------------------------
-2x Tupdog                          1   POT VIS      Gargoyle:3
-1x Isabel Giovanni                 5   DOM NEC pot  Giovanni:2
-1x Le Dinh Tho                     5   NEC aus dom  Nagaraja:2
-1x Francesca Giovanni              4   dom nec pot  Giovanni:2
-1x Gloria Giovanni                 4   DOM nec      Giovanni:2
-1x Cristofero Giovanni             3   nec pot      Giovanni:2
-1x Lia Milliner                    3   dom nec      Giovanni:3
-1x Mario Giovanni                  3   nec pot      Giovanni:2
-1x Rudolfo Giovanni                3   NEC          Giovanni:2
-1x Marciana Giovanni, Investigator 2   dom          Giovanni:2
-1x Paul DiCarlo, The Alpha         2   pot          Giovanni:2
+Crypt (12 cards, min=6, max=18, avg=3)
+--------------------------------------
+2x Tupdog                           1  POT VIS      Gargoyle:3
+1x Isabel Giovanni                  5  DOM NEC pot  Giovanni:2
+1x Le Dinh Tho                      5  NEC aus dom  Nagaraja:2
+1x Francesca Giovanni               4  dom nec pot  Giovanni:2
+1x Gloria Giovanni                  4  DOM nec      Giovanni:2
+1x Cristofero Giovanni              3  nec pot      Giovanni:2
+1x Lia Milliner                     3  dom nec      Giovanni:3
+1x Mario Giovanni                   3  nec pot      Giovanni:2
+1x Rudolfo Giovanni                 3  NEC          Giovanni:2
+1x Marciana Giovanni, Investigator  2  dom          Giovanni:2
+1x Paul DiCarlo, The Alpha          2  pot          Giovanni:2
 
 Library (90 cards)
 Master (24; 4 trifle)

@@ -6,17 +6,17 @@ Andreas Nusser
 
 Deck Name: Tempting
 
-Crypt (12 cards, min=14 max=28 avg=5.25)
-----------------------------------------
-2x Kephamos, High Priest of Marrakech   8   SER dom obf pre     2 votes  Follower of Set:2
-2x Hesha Ruhadze                        6   SER ani obf pre              Follower of Set:2
-2x Count Ormonde                        5   OBF dom pre ser              Follower of Set:2
-1x Ezekiel, Lord of Montreal            6   PRE SER obf pot              Follower of Set:3
-1x Sir Marriot D'Urban                  5   PRE aus obf ser              Follower of Set:2
-1x Hadrian Garrick                      4   obf pre                      Follower of Set:2
-1x Nepata                               4   obf pre ser                  Follower of Set:2
-1x Celine Chevalier                     3   obf ser                      Follower of Set:2
-1x Khalil Anvari                        3   pre ser                      Follower of Set:2
+Crypt (12 cards, min=14, max=28, avg=5.25)
+------------------------------------------
+2x Kephamos, High Priest of Marrakech  8  SER dom obf pre  2 votes  Follower of Set:2
+2x Hesha Ruhadze                       6  SER ani obf pre           Follower of Set:2
+2x Count Ormonde                       5  OBF dom pre ser           Follower of Set:2
+1x Ezekiel, Lord of Montreal           6  PRE SER obf pot           Follower of Set:3
+1x Sir Marriot D'Urban                 5  PRE aus obf ser           Follower of Set:2
+1x Hadrian Garrick                     4  obf pre                   Follower of Set:2
+1x Nepata                              4  obf pre ser               Follower of Set:2
+1x Celine Chevalier                    3  obf ser                   Follower of Set:2
+1x Khalil Anvari                       3  pre ser                   Follower of Set:2
 
 Library (90 cards)
 Master (18)

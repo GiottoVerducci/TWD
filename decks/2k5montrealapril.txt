@@ -10,13 +10,13 @@ Deck Name: Tatiana children's Ver2.0
 Faire des Tumnimos , attendre le bon moment pour ouvrir la machine et
 ne surtout pas oublier la fabuleuse abilité de Paul Forest.
 
-Crypt (12 cards, min=18 max=29 avg=5.75)
-----------------------------------------
-4x Tatiana Stepanova, Alastor   7   CHI PRE ani for obf  Ravnos:4
-3x Paul Forrest, False Prophet  5   chi for pre          Ravnos:4
-2x Callirus                     5   CHI FOR ani          Ravnos:4
-2x Devyn                        4   ani chi pre          Ravnos:4
-1x Alexis Sorokin               8   CEL CHI OBF PRO for  Ravnos:4
+Crypt (12 cards, min=18, max=29, avg=5.75)
+------------------------------------------
+4x Tatiana Stepanova, Alastor   7  CHI PRE ani for obf  Ravnos:4
+3x Paul Forrest, False Prophet  5  chi for pre          Ravnos:4
+2x Callirus                     5  CHI FOR ani          Ravnos:4
+2x Devyn                        4  ani chi pre          Ravnos:4
+1x Alexis Sorokin               8  CEL CHI OBF PRO for  Ravnos:4
 
 Library (90 cards)
 Master (33; 5 trifle)

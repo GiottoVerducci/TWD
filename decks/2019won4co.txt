@@ -9,15 +9,15 @@ https://www.vekn.net/event-calendar/event/9137
 
 Deck Name: Vampires in the Park Malgorzata
 
-Crypt (12 cards, min=23 max=40 avg=8.25)
-----------------------------------------
-5x Malgorzata             9   AUS DOM THA VIC pre       priscus         Tremere antitribu:4
-2x Gerald Windham         9   AUS DOM FOR THA                           Tremere:5
-1x Lord Tremere           11  ANI AUS DOM THA VIC obe                   Tremere:5
-1x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC   inner circle    Tremere:4
-1x Nickolai, The Survivor 6   aus dom pot pre tha vic                   Tremere antitribu:4
-1x Frondator              5   AUS dom tha               bishop          Tremere antitribu:4
-1x Keith Moody            3   DOM                                       Tremere antitribu:4
+Crypt (12 cards, min=23, max=40, avg=8.25)
+------------------------------------------
+5x Malgorzata               9  AUS DOM THA VIC pre      priscus       Tremere antitribu:4
+2x Gerald Windham           9  AUS DOM FOR THA                        Tremere:5
+1x Lord Tremere            11  ANI AUS DOM THA VIC obe                Tremere:5
+1x Mistress Fanchon        11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Nickolai, The Survivor   6  aus dom pot pre tha vic                Tremere antitribu:4
+1x Frondator                5  AUS dom tha              bishop        Tremere antitribu:4
+1x Keith Moody              3  DOM                                    Tremere antitribu:4
 
 Library (73 cards)
 Master (13; 4 trifle)

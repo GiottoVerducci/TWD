@@ -6,16 +6,16 @@ Jarkko Suvela
 
 With a feminine touch
 
-Crypt (13 cards, min=15 max=43 avg=8.15)
-----------------------------------------
-3x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
-2x Genevieve            10  ANI FOR PRO aus dom  priscus        Gangrel antitribu:2
-2x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince         Malkavian:3
-2x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
-1x Caitlin              6   ANI PRO aus dom      bishop         Gangrel antitribu:2
-1x Bothwell             3   ani for                             Gangrel:3
-1x Chandler Hungerford  3   PRO                                 Gangrel:2
-1x Panagos Levidis      3   ani obf                             Gangrel:2
+Crypt (13 cards, min=15, max=43, avg=8.15)
+------------------------------------------
+3x Stanislava           11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Genevieve            10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+2x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince        Malkavian:3
+2x Ingrid Rossler        9  ANI FOR PRO dom      prince        Gangrel:2
+1x Caitlin               6  ANI PRO aus dom      bishop        Gangrel antitribu:2
+1x Bothwell              3  ani for                            Gangrel:3
+1x Chandler Hungerford   3  PRO                                Gangrel:2
+1x Panagos Levidis       3  ani obf                            Gangrel:2
 
 Library (90 cards)
 Master (17)

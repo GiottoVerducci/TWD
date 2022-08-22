@@ -6,18 +6,18 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3E6a98pg8fg
 
 Deck: Murmur of the False Will
 
-Crypt (12 cards, min=14 max=27 avg=5.08)
-----------------------------------------
-2x Aisling Sturbridge   5   AUS THA dom                           Tremere:2
-2x Sarah Cobbler        4   THA dom                               Tremere:1
-1x Cardano              9   DOM FOR THA ani aus cel     prince    Tremere:1 -- saved my butt in the final round. I *am* Cardano's bitch.
-1x Astrid Thomas        7   DOM THA aus pot             primogen  Tremere:1
-1x Reverend Blackwood   6   DOM THA obf                 bishop    Tremere antitribu:2
-1x Hannigan             5   AUS THA dom                           Tremere antitribu:2
-1x Kurt Strauss         5   DOM aus tha                           Tremere antitribu:2
-1x Merrill Molitor      5   THA aus dom                           Tremere:1
-1x Brooke               3   dom tha                               Tremere antitribu:2
-1x Jing Wei             3   dom tha                               Tremere:1
+Crypt (12 cards, min=14, max=27, avg=5.08)
+------------------------------------------
+2x Aisling Sturbridge  5  AUS THA dom                        Tremere:2
+2x Sarah Cobbler       4  THA dom                            Tremere:1
+1x Cardano             9  DOM FOR THA ani aus cel  prince    Tremere:1            -- saved my butt in the final round. I *am* Cardano's bitch.
+1x Astrid Thomas       7  DOM THA aus pot          primogen  Tremere:1
+1x Reverend Blackwood  6  DOM THA obf              bishop    Tremere antitribu:2
+1x Hannigan            5  AUS THA dom                        Tremere antitribu:2
+1x Kurt Strauss        5  DOM aus tha                        Tremere antitribu:2
+1x Merrill Molitor     5  THA aus dom                        Tremere:1
+1x Brooke              3  dom tha                            Tremere antitribu:2
+1x Jing Wei            3  dom tha                            Tremere:1
 
 Library (90 cards)
 Master (14)

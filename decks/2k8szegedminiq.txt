@@ -9,18 +9,18 @@ Attila Suhajda
 
 Deck Name: Bigcap Vote
 
-Crypt (12 cards, min=39 max=43 avg=10.17)
------------------------------------------
-2x Lucinde, Alastor         10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
-2x Marcus Vitel             10  DOM FOR OBF OBT PRE      prince         Ventrue:3
-1x Arika                    11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
-1x Harrod                   11  ANI CEL OBF POT aus pre  inner circle   Nosferatu:2
-1x Leandro                  11  AUS OBF PRE cel dom      inner circle   Malkavian:2
-1x Aziz, Dammar of Istanbul 10  CEL OBF PRE QUI ser      2 votes        Assamite:2
-1x Cailean                  10  ANI OBF POT PRE dom      archbishop     Nosferatu antitribu:2
-1x Jaroslav Pascek          10  CEL POT PRE for obf      justicar       Brujah:3
-1x Queen Anne               10  DOM FOR PRE aus obf      prince         Ventrue:2
-1x Maris Streck             9   AUS OBF ani dem dom      justicar       Malkavian:3
+Crypt (12 cards, min=39, max=43, avg=10.17)
+-------------------------------------------
+2x Lucinde, Alastor          10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+2x Marcus Vitel              10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+1x Arika                     11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Harrod                    11  ANI CEL OBF POT aus pre  inner circle  Nosferatu:2
+1x Leandro                   11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Aziz, Dammar of Istanbul  10  CEL OBF PRE QUI ser      2 votes       Assamite:2
+1x Cailean                   10  ANI OBF POT PRE dom      archbishop    Nosferatu antitribu:2
+1x Jaroslav Pascek           10  CEL POT PRE for obf      justicar      Brujah:3
+1x Queen Anne                10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Maris Streck               9  AUS OBF ani dem dom      justicar      Malkavian:3
 
 Library (90 cards)
 Master (17; 1 trifle)

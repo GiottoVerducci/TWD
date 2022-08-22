@@ -10,20 +10,20 @@ Created by: Equipe DominioSP
 
 Description: In the End, only the 'roaches will survive.
 
-Crypt (17 cards, min=8 max=23 avg=4)
-------------------------------------
-2x Remilliard, Devout Crusader  4   AUS pre                      Toreador antitribu:2
-2x Sabrina                      4   aus cel pre                  Toreador antitribu:3
-2x Lolita                       3   for pre                      Toreador antitribu:2
-2x Carter                       2   cel                          Toreador antitribu:2
-2x Nicholas Chang               2   aus                          Toreador antitribu:3
-1x Ian Wallingford              6   CEL PRE aus          bishop  Toreador antitribu:2
-1x Jost Werner                  6   AUS PRE ani                  Toreador antitribu:2
-1x Sheila Mezarin               6   AUS PRE cel for              Toreador antitribu:2
-1x Creamy Jade                  5   PRE aus cel vic              Toreador antitribu:3
-1x Cristos Mantigo              5   aus cel dom obf pre          Toreador antitribu:3
-1x Mercy, Knight Inquisitor     5   AUS cel dom pre              Toreador antitribu:2
-1x Victor Revell, Loyalist      5   CEL aus dem pre              Toreador antitribu:2
+Crypt (17 cards, min=8, max=23, avg=4)
+--------------------------------------
+2x Remilliard, Devout Crusader  4  AUS pre                      Toreador antitribu:2
+2x Sabrina                      4  aus cel pre                  Toreador antitribu:3
+2x Lolita                       3  for pre                      Toreador antitribu:2
+2x Carter                       2  cel                          Toreador antitribu:2
+2x Nicholas Chang               2  aus                          Toreador antitribu:3
+1x Ian Wallingford              6  CEL PRE aus          bishop  Toreador antitribu:2
+1x Jost Werner                  6  AUS PRE ani                  Toreador antitribu:2
+1x Sheila Mezarin               6  AUS PRE cel for              Toreador antitribu:2
+1x Creamy Jade                  5  PRE aus cel vic              Toreador antitribu:3
+1x Cristos Mantigo              5  aus cel dom obf pre          Toreador antitribu:3
+1x Mercy, Knight Inquisitor     5  AUS cel dom pre              Toreador antitribu:2
+1x Victor Revell, Loyalist      5  CEL aus dem pre              Toreador antitribu:2
 
 Library (90 cards)
 Master (25; 1 trifle)

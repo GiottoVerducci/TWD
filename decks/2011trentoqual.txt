@@ -10,16 +10,16 @@ Deck Name: Master of Puppets
 Description: big cap bloat/votes/master intensive deck
 (based on Erik Torsteson's "Girls will find Inner Peace" deck)
 
-Crypt (15 cards, min=37 max=44 avg=10.27)
------------------------------------------
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-3x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-3x Cybele                10  ANI DAI OBF PRE SER THA                    Baali:4
-2x Maris Streck          9   AUS OBF ani dem dom        justicar        Malkavian:3
-1x Adana de Sforza       11  CEL OBF POT PRE PRO aus    inner circle    Brujah:4
-1x Lucinde, Alastor      10  DOM FOR PRE obf pot tha    justicar        Ventrue:3
-1x Marcus Vitel          10  DOM FOR OBF OBT PRE        prince          Ventrue:3
-1x Una                   9   ANI FOR PRE PRO dem        archbishop      Gangrel antitribu:3
+Crypt (15 cards, min=37, max=44, avg=10.27)
+-------------------------------------------
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+3x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+3x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+2x Maris Streck            9  AUS OBF ani dem dom      justicar      Malkavian:3
+1x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Lucinde, Alastor       10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+1x Marcus Vitel           10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+1x Una                     9  ANI FOR PRE PRO dem      archbishop    Gangrel antitribu:3
 
 Library (90 cards)
 Master (47; 8 trifle)

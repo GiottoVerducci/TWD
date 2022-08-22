@@ -24,13 +24,13 @@ they would also do the same. However, I only have one master phase and
 six ashurs to start with and if the opponents stick to the deal it hurts
 them in the long run.
 
-Crypt (12 cards, min=25 max=40 avg=8.08)
-----------------------------------------
-4x Unmada          10  AUS DEM OBF VIC cel for  justicar  Malkavian:5
-4x Scout Youngwood 8   MEL OBF PRE for qui      2 votes   Daughter of Cacophony:6
-2x Benjamin Rose   7   AUS OBF ani pot          prince    Nosferatu:5
-1x Arishat         6   DAI OBF PRE              1 vote    Baali:6
-1x Hillanvale      5   FOR MEL obf                        Daughter of Cacophony:6
+Crypt (12 cards, min=25, max=40, avg=8.08)
+------------------------------------------
+4x Unmada           10  AUS DEM OBF VIC cel for  justicar  Malkavian:5
+4x Scout Youngwood   8  MEL OBF PRE for qui      2 votes   Daughter of Cacophony:6
+2x Benjamin Rose     7  AUS OBF ani pot          prince    Nosferatu:5
+1x Arishat           6  DAI OBF PRE              1 vote    Baali:6
+1x Hillanvale        5  FOR MEL obf                        Daughter of Cacophony:6
 
 Library (79 cards)
 Master (23; 9 trifle)

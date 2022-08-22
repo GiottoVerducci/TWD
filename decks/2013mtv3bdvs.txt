@@ -10,19 +10,19 @@ https://www.vekn.net/event-calendar/event/7420
 
 Deck Name: Nocturn-bleed
 
-Crypt (12 cards, min=17 max=29 avg=5.75)
-----------------------------------------
-2x Onaedo                6   DOM OBT aus pot              Lasombra:4
-1x Conrad Adoula         8   DOM OBT POT ani cel          Lasombra:4
-1x Henri Lavenant        7   DOM OBT pot qui              Lasombra:3
-1x Lord Vauxhall         7   DOM OBT POT THA              Lasombra:4
-1x Tobias Smith          7   DOM OBT PRE pot              Lasombra:3
-1x Virginie, Prodigy     6   DOM POT obt          bishop  Lasombra:4
-1x Andrew Emory          5   OBT aus dom pot      bishop  Lasombra:4
-1x Dame Hollerton        5   DOM OBT myt                  Kiasyd:4
-1x Ermenegildo, The Rake 5   DOM OBT pot                  Lasombra:4
-1x Leila Monroe          4   dom obt pre                  Lasombra:4
-1x Lucy Markowitz        3   dom obt                      Lasombra:4
+Crypt (12 cards, min=17, max=29, avg=5.75)
+------------------------------------------
+2x Onaedo                 6  DOM OBT aus pot              Lasombra:4
+1x Conrad Adoula          8  DOM OBT POT ani cel          Lasombra:4
+1x Henri Lavenant         7  DOM OBT pot qui              Lasombra:3
+1x Lord Vauxhall          7  DOM OBT POT THA              Lasombra:4
+1x Tobias Smith           7  DOM OBT PRE pot              Lasombra:3
+1x Virginie, Prodigy      6  DOM POT obt          bishop  Lasombra:4
+1x Andrew Emory           5  OBT aus dom pot      bishop  Lasombra:4
+1x Dame Hollerton         5  DOM OBT myt                  Kiasyd:4
+1x Ermenegildo, The Rake  5  DOM OBT pot                  Lasombra:4
+1x Leila Monroe           4  dom obt pre                  Lasombra:4
+1x Lucy Markowitz         3  dom obt                      Lasombra:4
 
 Library (83 cards)
 Master (14; 4 trifle)

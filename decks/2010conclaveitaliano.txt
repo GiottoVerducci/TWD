@@ -9,12 +9,12 @@ Deck Name: MonoUna
 
 Description: Classic MonoUna Deck
 
-Crypt (12 cards, min=4 max=36 avg=5.25)
----------------------------------------
-6x Una                  9   ANI FOR PRE PRO dem  archbishop     Gangrel antitribu:3
-4x Anarch Convert       1   -none-                              Caitiff:ANY
-1x Sarah Brando         3   CEL                                 Brujah antitribu:2
-1x Frederick the Weak   2   pre                                 Brujah antitribu:2
+Crypt (12 cards, min=4, max=36, avg=5.25)
+-----------------------------------------
+6x Una                 9  ANI FOR PRE PRO dem  archbishop  Gangrel antitribu:3
+4x Anarch Convert      1  -none-                           Caitiff:ANY
+1x Sarah Brando        3  CEL                              Brujah antitribu:2
+1x Frederick the Weak  2  pre                              Brujah antitribu:2
 
 Library (90 cards)
 Master (6; 1 trifle)

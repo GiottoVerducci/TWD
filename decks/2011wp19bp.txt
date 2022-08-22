@@ -15,17 +15,17 @@ some minor changes. I managed to win all three tables with 3GW and 10VP
 in total. It's a nice - strong deck, but I'd add 2 x Adrea to bypass
 +1 intercept blockers. Some Taget Vitals would be also vital in this deck.
 
-Crypt (12 cards, min=12 max=22 avg=4)
--------------------------------------
-3x Rudolfo Giovanni     3   NEC                 Giovanni:2
-2x Isabel Giovanni      5   DOM NEC pot         Giovanni:2
-1x Andrea Giovanni      7   DOM NEC pot vic     Giovanni:2
-1x Le Dinh Tho          5   NEC aus dom         Nagaraja:2
-1x Francesca Giovanni   4   dom nec pot         Giovanni:2
-1x Gloria Giovanni      4   DOM nec             Giovanni:2
-1x Cristofero Giovanni  3   nec pot             Giovanni:2
-1x Lia Milliner         3   dom nec             Giovanni:3
-1x Mario Giovanni       3   nec pot             Giovanni:2
+Crypt (12 cards, min=12, max=22, avg=4)
+---------------------------------------
+3x Rudolfo Giovanni     3  NEC              Giovanni:2
+2x Isabel Giovanni      5  DOM NEC pot      Giovanni:2
+1x Andrea Giovanni      7  DOM NEC pot vic  Giovanni:2
+1x Le Dinh Tho          5  NEC aus dom      Nagaraja:2
+1x Francesca Giovanni   4  dom nec pot      Giovanni:2
+1x Gloria Giovanni      4  DOM nec          Giovanni:2
+1x Cristofero Giovanni  3  nec pot          Giovanni:2
+1x Lia Milliner         3  dom nec          Giovanni:3
+1x Mario Giovanni       3  nec pot          Giovanni:2
 
 Library (83 cards)
 Master (29)

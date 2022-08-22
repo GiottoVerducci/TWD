@@ -8,10 +8,10 @@ https://www.vekn.net/event-calendar/event/8385
 
 Deck Name: 666 - how may I help you?
 
-Crypt (12 cards, min=40 max=40 avg=10)
---------------------------------------
-10x Nergal       10   AUS DAI FOR OBF PRE THA   Baali:5
-2x  Nergal (ADV) 10   AUS DAI FOR OBF PRE THA   Baali:5
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+10x Nergal        10  AUS DAI FOR OBF PRE THA  Baali:5
+2x  Nergal (ADV)  10  AUS DAI FOR OBF PRE THA  Baali:5
 
 Library (90 cards)
 Master (20; 5 trifle)

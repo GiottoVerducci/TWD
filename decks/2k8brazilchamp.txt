@@ -7,15 +7,15 @@ Cirleno Nicácio
 
 Deck Name: Deck do Cirleno
 
-Crypt (13 cards, min=8 max=24 avg=4)
-------------------------------------
-2x Carlotta Giovanni               7   NEC POT dom obf  Giovanni:2
-2x Isabel Giovanni                 5   DOM NEC pot      Giovanni:2
-2x Francesca Giovanni              4   dom nec pot      Giovanni:2
-2x Gloria Giovanni                 4   DOM nec          Giovanni:2
-2x Marciana Giovanni, Investigator 2   dom              Giovanni:2
-2x Paul DiCarlo, The Alpha         2   pot              Giovanni:2
-1x Ingrid Russo                    4   DOM for          Ventrue antitribu:2
+Crypt (13 cards, min=8, max=24, avg=4)
+--------------------------------------
+2x Carlotta Giovanni                7  NEC POT dom obf  Giovanni:2
+2x Isabel Giovanni                  5  DOM NEC pot      Giovanni:2
+2x Francesca Giovanni               4  dom nec pot      Giovanni:2
+2x Gloria Giovanni                  4  DOM nec          Giovanni:2
+2x Marciana Giovanni, Investigator  2  dom              Giovanni:2
+2x Paul DiCarlo, The Alpha          2  pot              Giovanni:2
+1x Ingrid Russo                     4  DOM for          Ventrue antitribu:2
 
 Library (90 cards)
 Master (23; 1 trifle)

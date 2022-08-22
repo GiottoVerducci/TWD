@@ -9,20 +9,20 @@ Deck Name: I Put On My Robe And Wizard Hat
 
 Description: Old school Tremere weenies with a focus on blood efficiency.
 
-Crypt (12 cards, min=11 max=27 avg=4.67)
-----------------------------------------
-1x Justine, Elder of Dallas     8   AUS DOM THA obf     primogen  Tremere:1
-1x Astrid Thomas                7   DOM THA aus pot     primogen  Tremere:1
-1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for               Tremere:2
-1x Aisling Sturbridge           5   AUS THA dom                   Tremere:2
-1x Merrill Molitor              5   THA aus dom                   Tremere:1
-1x Sabine Lafitte               5   aus dom pot tha               Tremere:1
-1x Ignatius                     4   aus dom tha                   Tremere:1
-1x Sarah Cobbler                4   THA dom                       Tremere:1
-1x Blythe Candeleria            3   THA aus                       Tremere:2
-1x Dr. John Casey               3   aus tha                       Tremere:1
-1x Jing Wei                     3   dom tha                       Tremere:1
-1x Roreca Quaid                 2   tha                           Tremere:1
+Crypt (12 cards, min=11, max=27, avg=4.67)
+------------------------------------------
+1x Justine, Elder of Dallas     8  AUS DOM THA obf  primogen  Tremere:1
+1x Astrid Thomas                7  DOM THA aus pot  primogen  Tremere:1
+1x Muaziz, Archon of Ulugh Beg  7  THA aus dom for            Tremere:2
+1x Aisling Sturbridge           5  AUS THA dom                Tremere:2
+1x Merrill Molitor              5  THA aus dom                Tremere:1
+1x Sabine Lafitte               5  aus dom pot tha            Tremere:1
+1x Ignatius                     4  aus dom tha                Tremere:1
+1x Sarah Cobbler                4  THA dom                    Tremere:1
+1x Blythe Candeleria            3  THA aus                    Tremere:2
+1x Dr. John Casey               3  aus tha                    Tremere:1
+1x Jing Wei                     3  dom tha                    Tremere:1
+1x Roreca Quaid                 2  tha                        Tremere:1
 
 Library (90 cards)
 Master (15)

@@ -17,12 +17,12 @@ myself with the difficult choice of playing Renewed Vigor on
 Anu or a Spirit Marionette on my prey. Heidelberg Castle would
 have also made a fine addition.
 
-Crypt (14 cards, min=10 max=32 avg=6.07)
-----------------------------------------
-5x Serenna the White    8   AUS FOR OBE ani dem  Salubri:6
-5x Anu Diptinatpa       7   DOM NEC aus vic      Nagaraja:6
-2x Lynn Thompson        3   cel pot              Brujah:5
-2x Honest Abe           2   pre                  Brujah:5
+Crypt (14 cards, min=10, max=32, avg=6.07)
+------------------------------------------
+5x Serenna the White  8  AUS FOR OBE ani dem  Salubri:6
+5x Anu Diptinatpa     7  DOM NEC aus vic      Nagaraja:6
+2x Lynn Thompson      3  cel pot              Brujah:5
+2x Honest Abe         2  pre                  Brujah:5
 
 Library (60 cards)
 Master (15; 1 trifle)

@@ -8,14 +8,14 @@ Deck Name: Samedi !!!
 
 Description: Samedi reanimated corpses/bloat deck
 
-Crypt (12 cards, min=31 max=34 avg=8.08)
-----------------------------------------
-2x Jack Dawson                   8   FOR OBF cel nec qui thn             Samedi:2
-2x Jack Dawson (ADV)             8   FOR OBF cel nec qui thn             Samedi:2
-3x Genina, The Red Poet          8   CHI OBF THN aus cel for             Samedi:3
-2x Baron, The                    9   FOR NEC OBF THN dom        2 votes  Samedi:2
-2x Reg Driscoll                  8   OBF THN aus for pre                 Samedi:2
-1x Jorge De La Muerte, The Agent 7   OBF THN cel for nec                 Samedi:2
+Crypt (12 cards, min=31, max=34, avg=8.08)
+------------------------------------------
+2x Jack Dawson                    8  FOR OBF cel nec qui thn           Samedi:2
+2x Jack Dawson (ADV)              8  FOR OBF cel nec qui thn           Samedi:2
+3x Genina, The Red Poet           8  CHI OBF THN aus cel for           Samedi:3
+2x Baron, The                     9  FOR NEC OBF THN dom      2 votes  Samedi:2
+2x Reg Driscoll                   8  OBF THN aus for pre               Samedi:2
+1x Jorge De La Muerte, The Agent  7  OBF THN cel for nec               Samedi:2
 
 Library (90 cards)
 Master (14)

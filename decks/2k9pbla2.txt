@@ -15,16 +15,16 @@ although doubles as more SCE. I only use the Aire with a non-IC, I'm
 very Archon Investigation averse... Ashurs are gold, and definitely won
 me the final, and probably helped me win at least one other game.
 
-Crypt (12 cards, min=26 max=44 avg=9.33)
-----------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-2x Adana de Sforza       11  CEL OBF POT PRE PRO aus    inner circle    Brujah:4
-1x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-1x Alicia Barrows        9   AUS DEM OBF POT PRE        archbishop      Malkavian antitribu:4
-1x Neferu                9   OBF PRE SER THA dom nec    2 votes         Follower of Set:4
-1x Stavros               7   AUS OBF PRE dem            priscus         Malkavian antitribu:4
-1x Herbert Westin        5   OBF PRE pot                                Brujah:4
-1x Renenet               5   OBF PRE ser                                Follower of Set:4
+Crypt (12 cards, min=26, max=44, avg=9.33)
+------------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+2x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Alicia Barrows          9  AUS DEM OBF POT PRE      archbishop    Malkavian antitribu:4
+1x Neferu                  9  OBF PRE SER THA dom nec  2 votes       Follower of Set:4
+1x Stavros                 7  AUS OBF PRE dem          priscus       Malkavian antitribu:4
+1x Herbert Westin          5  OBF PRE pot                            Brujah:4
+1x Renenet                 5  OBF PRE ser                            Follower of Set:4
 
 Library (70 cards)
 Master (17; 2 trifle)

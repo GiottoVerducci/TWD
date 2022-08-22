@@ -9,18 +9,18 @@ Oscar Garza
 
 Deck Name: Akunanse are better Gangrel
 
-Crypt (12 cards, min=13 max=30 avg=5.67)
-----------------------------------------
-3x Uchenna        7   ABO ANI FOR          magaji  Akunanse:4
-1x Amavi          8   ABO ANI FOR pre pro          Akunanse:4
-1x Nkule Galadima 8   ABO FOR ani aus pre  magaji  Akunanse:4
-1x Aisata Swanou  7   ANI FOR VIC abo              Akunanse:5
-1x Jubal          6   ABO ANI for pot              Akunanse:4
-1x Kikiyaon, The  5   FOR abo ani                  Akunanse:4
-1x Socrate Cidibe 5   ABO FOR ani                  Akunanse:4
-1x Nestor Kaba    4   abo ani for                  Akunanse:4
-1x Dolie          3   abo ani                      Akunanse:4
-1x Anarch Convert 1   -none-                       Caitiff:ANY
+Crypt (12 cards, min=13, max=30, avg=5.67)
+------------------------------------------
+3x Uchenna         7  ABO ANI FOR          magaji  Akunanse:4
+1x Amavi           8  ABO ANI FOR pre pro          Akunanse:4
+1x Nkule Galadima  8  ABO FOR ani aus pre  magaji  Akunanse:4
+1x Aisata Swanou   7  ANI FOR VIC abo              Akunanse:5
+1x Jubal           6  ABO ANI for pot              Akunanse:4
+1x Kikiyaon, The   5  FOR abo ani                  Akunanse:4
+1x Socrate Cidibe  5  ABO FOR ani                  Akunanse:4
+1x Nestor Kaba     4  abo ani for                  Akunanse:4
+1x Dolie           3  abo ani                      Akunanse:4
+1x Anarch Convert  1  -none-                       Caitiff:ANY
 
 Library (90 cards)
 Master (15; 5 trifle)

@@ -7,17 +7,17 @@ Gino Sepúlveda
 
 Deck Name: Ventrue Mary Anne Blaire
 
-Crypt (12 cards, min=23 max=40 avg=8.25)
-----------------------------------------
-4x Mary Anne Blaire             10  AUS DOM FOR PRE ani pot     justicar  Ventrue:5
-1x Gustav Breidenstein          10  DOM FOR PRE aus cel pot     prince    Ventrue:4
-1x Gotsdam, The Tired Warrior   9   AUS DOM FOR PRE ani                   Ventrue:4
-1x Johannes Castelein           9   DEM DOM FOR PRE             prince    Ventrue:4
-1x Lodin (Olaf Holte)           8   DOM FOR PRE aus pro         prince    Ventrue:5
-1x Graham Gottesman             7   DOM FOR obf pre tha         prince    Ventrue:5
-1x Victor Donaldson             6   DOM for pre                 prince    Ventrue:5
-1x Emily Carson                 5   DOM for pre                 primogen  Ventrue:5
-1x Victor Pelletier             5   PRE cel dom for                       Ventrue:4
+Crypt (12 cards, min=23, max=40, avg=8.25)
+------------------------------------------
+4x Mary Anne Blaire            10  AUS DOM FOR PRE ani pot  justicar  Ventrue:5
+1x Gustav Breidenstein         10  DOM FOR PRE aus cel pot  prince    Ventrue:4
+1x Gotsdam, The Tired Warrior   9  AUS DOM FOR PRE ani                Ventrue:4
+1x Johannes Castelein           9  DEM DOM FOR PRE          prince    Ventrue:4
+1x Lodin (Olaf Holte)           8  DOM FOR PRE aus pro      prince    Ventrue:5
+1x Graham Gottesman             7  DOM FOR obf pre tha      prince    Ventrue:5
+1x Victor Donaldson             6  DOM for pre              prince    Ventrue:5
+1x Emily Carson                 5  DOM for pre              primogen  Ventrue:5
+1x Victor Pelletier             5  PRE cel dom for                    Ventrue:4
 
 Library (90 cards)
 Master (22; 4 trifle)

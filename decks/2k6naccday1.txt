@@ -48,16 +48,16 @@ those. Banishment was very important to my 2nd round victory.
 
 Just enough bounce/intercept to keep my predator guessing.
 
-Crypt (12 cards, min=25 max=40 avg=8.25)
-----------------------------------------
-5x Ayo Igoli            10  AUS CEL FOR PRE obf tha                 Ishtarri:4
-1x Alicia Barrows       9   AUS DEM OBF POT PRE         archbishop  Malkavian antitribu:4
-1x Falhu Shibaba        8   CEL CHI FOR PRE ani         magaji      Ishtarri:3
-1x Quentin King III     7   AUS DEM obf pre             prince      Malkavian:3
-1x Stavros              7   AUS OBF PRE dem             priscus     Malkavian antitribu:4
-1x Ubende               7   CEL PRE for obf qui         magaji      Ishtarri:4
-1x Mustafa, The Heir    6   FOR PRE cel dom             prince      Ventrue:4
-1x Victor Pelletier     5   PRE cel dom for                         Ventrue:4
+Crypt (12 cards, min=25, max=40, avg=8.25)
+------------------------------------------
+5x Ayo Igoli          10  AUS CEL FOR PRE obf tha              Ishtarri:4
+1x Alicia Barrows      9  AUS DEM OBF POT PRE      archbishop  Malkavian antitribu:4
+1x Falhu Shibaba       8  CEL CHI FOR PRE ani      magaji      Ishtarri:3
+1x Quentin King III    7  AUS DEM obf pre          prince      Malkavian:3
+1x Stavros             7  AUS OBF PRE dem          priscus     Malkavian antitribu:4
+1x Ubende              7  CEL PRE for obf qui      magaji      Ishtarri:4
+1x Mustafa, The Heir   6  FOR PRE cel dom          prince      Ventrue:4
+1x Victor Pelletier    5  PRE cel dom for                      Ventrue:4
 
 Library (90 cards)
 Master (16)

@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/8609
 
 Deck Name: Os Visionários
 
-Crypt (12 cards, min=16 max=24 avg=4.92)
-----------------------------------------
-3x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-2x Anna "Dictatrix11" Suljic    6   mar red viz  Martyr:4
-2x Earl "Shaka74" Deams         6   jud mar viz  Visionary:4
-2x Jennifer "Flame61" Vidisania 4   ven viz      Avenger:4
-2x Paul "Sixofswords29" Moreton 4   def vis      Visionary:4
-1x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
+Crypt (12 cards, min=16, max=24, avg=4.92)
+------------------------------------------
+3x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+2x Anna "Dictatrix11" Suljic     6  mar red viz  Martyr:4
+2x Earl "Shaka74" Deams          6  jud mar viz  Visionary:4
+2x Jennifer "Flame61" Vidisania  4  ven viz      Avenger:4
+2x Paul "Sixofswords29" Moreton  4  def vis      Visionary:4
+1x Leaf "Potter116" Pankowski    4  inn red viz  Redeemer:4
 
 Library (90 cards)
 Master (26)

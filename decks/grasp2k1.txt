@@ -5,17 +5,17 @@ Will Kristoff
 
 Honor the Elders
 
-Crypt (12 cards, min=38 max=42 avg=10)
---------------------------------------
-2x Aziz, Dammar of Istanbul 10  CEL OBF PRE QUI ser      2 votes        Assamite:2
-2x Cailean                  10  ANI OBF POT PRE dom      archbishop     Nosferatu antitribu:2
-2x Nehsi                    10  OBF PRE PRO SER aus for  2 votes        Follower of Set:2
-1x Arika                    11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
-1x Leandro                  11  AUS OBF PRE cel dom      inner circle   Malkavian:2
-1x François Villon          10  AUS CEL PRE chi obf pot  prince         Toreador:2
-1x Queen Anne               10  DOM FOR PRE aus obf      prince         Ventrue:2
-1x Khay'tall, Snake of Eden 9   DOM OBF PRE SER aus                     Follower of Set:2
-1x Klaus van der Veken      9   CEL PRE aus obf tha      prince         Toreador:2
+Crypt (12 cards, min=38, max=42, avg=10)
+----------------------------------------
+2x Aziz, Dammar of Istanbul  10  CEL OBF PRE QUI ser      2 votes       Assamite:2
+2x Cailean                   10  ANI OBF POT PRE dom      archbishop    Nosferatu antitribu:2
+2x Nehsi                     10  OBF PRE PRO SER aus for  2 votes       Follower of Set:2
+1x Arika                     11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Leandro                   11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x François Villon           10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Queen Anne                10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Khay'tall, Snake of Eden   9  DOM OBF PRE SER aus                    Follower of Set:2
+1x Klaus van der Veken        9  CEL PRE aus obf tha      prince        Toreador:2
 
 Library (90 cards)
 Master (12)

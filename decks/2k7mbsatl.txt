@@ -13,16 +13,16 @@ Daneel is correct - if a card is weak, I should stop playing it.
 There should be one additional Flash Grenade in the deck - it's
 entirely possible someone else from the event has it.
 
-Crypt (12 cards, min=13 max=22 avg=4.5)
----------------------------------------
-3x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-2x Travis "Traveler72" Miller   5   def mar      Martyr:4
-2x Maman Boumba                 4   inn mar      Martyr:4
-1x Anna "Dictatrix11" Suljic    6   mar red viz  Martyr:4
-1x Earl "Shaka74" Deams         6   jud mar viz  Visionary:4
-1x Pedro Cortez                 4   mar ven      Avenger:4
-1x Inez "Nurse216" Villagrande  3   inn          Innocent:4
-1x Liz "Ticket312" Thornton     2   inn red      Innocent:4
+Crypt (12 cards, min=13, max=22, avg=4.5)
+-----------------------------------------
+3x Jennie "Cassie247" Orne      5  inn jud viz  Visionary:4
+2x Travis "Traveler72" Miller   5  def mar      Martyr:4
+2x Maman Boumba                 4  inn mar      Martyr:4
+1x Anna "Dictatrix11" Suljic    6  mar red viz  Martyr:4
+1x Earl "Shaka74" Deams         6  jud mar viz  Visionary:4
+1x Pedro Cortez                 4  mar ven      Avenger:4
+1x Inez "Nurse216" Villagrande  3  inn          Innocent:4
+1x Liz "Ticket312" Thornton     2  inn red      Innocent:4
 
 Library (89 cards)
 Master (17; 2 trifle)

@@ -8,18 +8,18 @@ Chrisitano Santos
 Deck Name: Malk 94
 Created by: Chrisitano Monteiro Mendona dos Santos
 
-Crypt (12 cards, min=9 max=25 avg=4.5)
---------------------------------------
-3x Didi Meyers          5   DOM aus cel obf             Malkavian:1
-1x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
-1x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
-1x Ozmo                 6   AUS dom obf                 Malkavian:1
-1x Badr al-Budur        5   OBF cel dom qui             Assamite:2
-1x Zebulon              5   OBF aus dom pro             Malkavian:1
-1x Roland Bishop        4   aus dom obf                 Malkavian:1
-1x Dimple               2   obf                         Nosferatu:1
-1x Normal               2   obf                         Malkavian:1
-1x Basil                1   obf                         Pander:2
+Crypt (12 cards, min=9, max=25, avg=4.5)
+----------------------------------------
+3x Didi Meyers           5  DOM aus cel obf          Malkavian:1
+1x Gilbert Duane         7  AUS DOM OBF      prince  Malkavian:1
+1x Mariel, Lady Thunder  7  DOM OBF aus tha          Malkavian:1
+1x Ozmo                  6  AUS dom obf              Malkavian:1
+1x Badr al-Budur         5  OBF cel dom qui          Assamite:2
+1x Zebulon               5  OBF aus dom pro          Malkavian:1
+1x Roland Bishop         4  aus dom obf              Malkavian:1
+1x Dimple                2  obf                      Nosferatu:1
+1x Normal                2  obf                      Malkavian:1
+1x Basil                 1  obf                      Pander:2
 
 Library (83 cards)
 Master (18)

@@ -12,19 +12,19 @@ to vote in a vote heavy environment. Adding Victoria and Greger Andersen
 to make a 14 vamp crypt might be a good choice. Adding some extra stealth
 and maybe a Malkavian rider clause might be good.
 
-Crypt (12 cards, min=9 max=26 avg=4.17)
----------------------------------------
-2x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
-1x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
-1x Didi Meyers          5   DOM aus cel obf             Malkavian:1
-1x Zebulon              5   OBF aus dom pro             Malkavian:1
-1x Roland Bishop        4   aus dom obf                 Malkavian:1
-1x Dollface             3   aus obf                     Malkavian:1
-1x Watenda              3   obf                         Malkavian:2
-1x Zöe                  3   AUS cel obf                 Malkavian:2
-1x Brazil               2   aus                         Malkavian:1
-1x Normal               2   obf                         Malkavian:1
-1x Ohanna               2   dom                         Malkavian:2
+Crypt (12 cards, min=9, max=26, avg=4.17)
+-----------------------------------------
+2x Gilbert Duane         7  AUS DOM OBF      prince  Malkavian:1
+1x Mariel, Lady Thunder  7  DOM OBF aus tha          Malkavian:1
+1x Didi Meyers           5  DOM aus cel obf          Malkavian:1
+1x Zebulon               5  OBF aus dom pro          Malkavian:1
+1x Roland Bishop         4  aus dom obf              Malkavian:1
+1x Dollface              3  aus obf                  Malkavian:1
+1x Watenda               3  obf                      Malkavian:2
+1x Zöe                   3  AUS cel obf              Malkavian:2
+1x Brazil                2  aus                      Malkavian:1
+1x Normal                2  obf                      Malkavian:1
+1x Ohanna                2  dom                      Malkavian:2
 
 Library (90 cards)
 Master (16)

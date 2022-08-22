@@ -8,16 +8,16 @@ Class Action Fairness Act
 Played and led to victory by Julien Moisy.
 Deck created by Lucas Bonroy.
 
-Crypt (12 cards, min=18 max=31 avg=6)
--------------------------------------
-2x Victorine Lafourcade 8   DOM FOR PRE tha     prince    Ventrue:3
-2x Mustafa, The Heir    6   FOR PRE cel dom     prince    Ventrue:4
-2x Victor Pelletier     5   PRE cel dom for               Ventrue:4
-2x Michael Luther       4   aus pre                       Toreador:3
-1x Katarina Kornfeld    8   DOM FOR PRE ani     primogen  Ventrue:3
-1x Horatio Ballard      7   DOM FOR PRE aus               Ventrue:3
-1x Edward Vignes        6   DOM PRE for                   Ventrue:3
-1x Boss Callihan        5   PRE dom for pro               Ventrue:3
+Crypt (12 cards, min=18, max=31, avg=6)
+---------------------------------------
+2x Victorine Lafourcade  8  DOM FOR PRE tha  prince    Ventrue:3
+2x Mustafa, The Heir     6  FOR PRE cel dom  prince    Ventrue:4
+2x Victor Pelletier      5  PRE cel dom for            Ventrue:4
+2x Michael Luther        4  aus pre                    Toreador:3
+1x Katarina Kornfeld     8  DOM FOR PRE ani  primogen  Ventrue:3
+1x Horatio Ballard       7  DOM FOR PRE aus            Ventrue:3
+1x Edward Vignes         6  DOM PRE for                Ventrue:3
+1x Boss Callihan         5  PRE dom for pro            Ventrue:3
 
 Library (70 cards)
 Master (14; 1 trifle)

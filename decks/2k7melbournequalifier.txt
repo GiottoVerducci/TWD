@@ -13,16 +13,16 @@ name ending with "O".
 
 Spooky.
 
-Crypt (12 cards, min=14 max=36 avg=6.25)
-----------------------------------------
-3x Gratiano                               8   DOM OBT obf pot           priscus   Lasombra:2
-2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal  Lasombra:2
-2x Banjoko                                5   DOM obt pot                         Lasombra:3
-1x Tobias Smith                           7   DOM OBT PRE pot                     Lasombra:3
-1x Guido Lucciano                         5   OBT dom obf                         Lasombra:2
-1x Ignacio, The Black Priest              4   dom obt pot                         Lasombra:2
-1x Ramiro                                 4   dom obt vic                         Lasombra:2
-1x Royce                                  1   dom                                 Pander:2
+Crypt (12 cards, min=14, max=36, avg=6.25)
+------------------------------------------
+3x Gratiano                                 8  DOM OBT obf pot          priscus   Lasombra:2
+2x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal  Lasombra:2
+2x Banjoko                                  5  DOM obt pot                        Lasombra:3
+1x Tobias Smith                             7  DOM OBT PRE pot                    Lasombra:3
+1x Guido Lucciano                           5  OBT dom obf                        Lasombra:2
+1x Ignacio, The Black Priest                4  dom obt pot                        Lasombra:2
+1x Ramiro                                   4  dom obt vic                        Lasombra:2
+1x Royce                                    1  dom                                Pander:2
 
 Library (90 cards)
 Master (15)

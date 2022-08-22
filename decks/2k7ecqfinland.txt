@@ -13,17 +13,17 @@ Description: Stay alive and bring free minions up with Travis, Church
 and Inspire. Then start bleeding 2 or 3 with each minion with -1
 intercept to vampires. Determine to stop bleeds and bad actions.
 
-Crypt (12 cards, min=13 max=21 avg=4.33)
-----------------------------------------
-3x Travis "Traveler72" Miller   5   def mar      Martyr:4
-2x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-1x Earl "Shaka74" Deams         6   jud mar viz  Visionary:4
-1x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
-1x Marion "Teacher193" Perks    4   jud red      Redeemer:4
-1x Paul "Sixofswords29" Moreton 4   def vis      Visionary:4
-1x Peter "Outback295" Rophail   4   red ven      Redeemer:4
-1x Inez "Nurse216" Villagrande  3   inn          Innocent:4
-1x Liz "Ticket312" Thornton     2   inn red      Innocent:4
+Crypt (12 cards, min=13, max=21, avg=4.33)
+------------------------------------------
+3x Travis "Traveler72" Miller    5  def mar      Martyr:4
+2x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+1x Earl "Shaka74" Deams          6  jud mar viz  Visionary:4
+1x Leaf "Potter116" Pankowski    4  inn red viz  Redeemer:4
+1x Marion "Teacher193" Perks     4  jud red      Redeemer:4
+1x Paul "Sixofswords29" Moreton  4  def vis      Visionary:4
+1x Peter "Outback295" Rophail    4  red ven      Redeemer:4
+1x Inez "Nurse216" Villagrande   3  inn          Innocent:4
+1x Liz "Ticket312" Thornton      2  inn red      Innocent:4
 
 Library (90 cards)
 Master (16)

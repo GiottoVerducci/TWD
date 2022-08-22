@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/8420
 
 Deck Name: Pariah
 
-Crypt (12 cards, min=12 max=22 avg=4.17)
-----------------------------------------
-2x Selena               6   AUS DOM THA         Tremere antitribu:3
-2x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
-2x Keith Moody          3   DOM                 Tremere antitribu:4
-1x Alejandro Aguirre    5   ani aus dom tha     Tremere antitribu:3
-1x Janine               4   aus dom tha         Tremere antitribu:4
-1x Mosfair              4   cel dom tha         Tremere antitribu:4
-1x Ember Wright         3   aus dom             Tremere antitribu:3
-1x Lectora              3   aus tha             Tremere antitribu:4
-1x Saiz                 3   aus dom             Tremere antitribu:3
+Crypt (12 cards, min=12, max=22, avg=4.17)
+------------------------------------------
+2x Selena             6  AUS DOM THA      Tremere antitribu:3
+2x Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+2x Keith Moody        3  DOM              Tremere antitribu:4
+1x Alejandro Aguirre  5  ani aus dom tha  Tremere antitribu:3
+1x Janine             4  aus dom tha      Tremere antitribu:4
+1x Mosfair            4  cel dom tha      Tremere antitribu:4
+1x Ember Wright       3  aus dom          Tremere antitribu:3
+1x Lectora            3  aus tha          Tremere antitribu:4
+1x Saiz               3  aus dom          Tremere antitribu:3
 
 Library (90 cards)
 Master (17; 6 trifle)

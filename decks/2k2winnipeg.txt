@@ -10,16 +10,16 @@ Description: I built this deck the night before, and it was completely untested.
 There are a lot of changes that I would have made to it if I did it
 again, but S&B usually isn't my thing.
 
-Crypt (12 cards, min=34 max=40 avg=9.25)
-----------------------------------------
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-2x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
-2x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
-1x Angelica, The Canonicus                10  DOM OBT POT cel obf       cardinal    Lasombra:2
-1x Ayelea, The Manipulator                10  AUS DOM OBT THA pre       cardinal    Tremere antitribu:2
-1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
-1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
-1x Marconius                              9   DOM MYT OBT pot           archbishop  Kiasyd:2
+Crypt (12 cards, min=34, max=40, avg=9.25)
+------------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+2x Antonio Delgado                          9  DOM OBT POT tha          archbishop  Lasombra:2
+2x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+1x Angelica, The Canonicus                 10  DOM OBT POT cel obf      cardinal    Lasombra:2
+1x Ayelea, The Manipulator                 10  AUS DOM OBT THA pre      cardinal    Tremere antitribu:2
+1x Alvaro, The Scion of Angelica            9  OBT POT dom pre          archbishop  Lasombra:2
+1x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+1x Marconius                                9  DOM MYT OBT pot          archbishop  Kiasyd:2
 
 Library (89 cards)
 Master (14)

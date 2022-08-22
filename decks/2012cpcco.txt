@@ -7,20 +7,20 @@ Hugh Angseesing
 
 Deck Name: Cryptic in Columbus or Magicians for 60 years of Queening
 
-Crypt (12 cards, min=11 max=20 avg=4)
--------------------------------------
-1x Aisling Sturbridge   5   AUS THA dom         Tremere:2
-1x Hannigan             5   AUS THA dom         Tremere antitribu:2
-1x Kurt Strauss         5   DOM aus tha         Tremere antitribu:2
-1x Merrill Molitor      5   THA aus dom         Tremere:1
-1x Sabine Lafitte       5   aus dom pot tha     Tremere:1
-1x Ignatius             4   aus dom tha         Tremere:1
-1x Sarah Cobbler        4   THA dom             Tremere:1
-1x Thelonius            4   aus dom tha         Tremere antitribu:2
-1x Blythe Candeleria    3   THA aus             Tremere:2
-1x Brooke               3   dom tha             Tremere antitribu:2
-1x Jing Wei             3   dom tha             Tremere:1
-1x Heinrick Schlempt    2   tha                 Tremere antitribu:2
+Crypt (12 cards, min=11, max=20, avg=4)
+---------------------------------------
+1x Aisling Sturbridge  5  AUS THA dom      Tremere:2
+1x Hannigan            5  AUS THA dom      Tremere antitribu:2
+1x Kurt Strauss        5  DOM aus tha      Tremere antitribu:2
+1x Merrill Molitor     5  THA aus dom      Tremere:1
+1x Sabine Lafitte      5  aus dom pot tha  Tremere:1
+1x Ignatius            4  aus dom tha      Tremere:1
+1x Sarah Cobbler       4  THA dom          Tremere:1
+1x Thelonius           4  aus dom tha      Tremere antitribu:2
+1x Blythe Candeleria   3  THA aus          Tremere:2
+1x Brooke              3  dom tha          Tremere antitribu:2
+1x Jing Wei            3  dom tha          Tremere:1
+1x Heinrick Schlempt   2  tha              Tremere antitribu:2
 
 Library (87 cards)
 Master (21; 6 trifle)

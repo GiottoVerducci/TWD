@@ -9,13 +9,13 @@ Alexander Loginov
 
 Deck Name: Cats That Walked By Themselves
 
-Crypt (12 cards, min=4 max=32 avg=4.83)
----------------------------------------
-4x Howler         8   ANI PRE SPI obf   Ahrimane:2
-4x Anarch Convert 1   -none-            Caitiff:ANY
-2x Siamese, The   7   PRE SPI ani pro   Ahrimane:2
-1x Cynthia Ingold 6   SPI ani for pre   Ahrimane:2
-1x Delilah Easton 2   pre               Toreador:1
+Crypt (12 cards, min=4, max=32, avg=4.83)
+-----------------------------------------
+4x Howler          8  ANI PRE SPI obf  Ahrimane:2
+4x Anarch Convert  1  -none-           Caitiff:ANY
+2x Siamese, The    7  PRE SPI ani pro  Ahrimane:2
+1x Cynthia Ingold  6  SPI ani for pre  Ahrimane:2
+1x Delilah Easton  2  pre              Toreador:1
 
 Library (90 cards)
 Master (21; 4 trifle)

@@ -7,18 +7,18 @@ Josh Duffin
 
 Deck Name: B.A. DeSalle and the B-Team
 
-Crypt (12 cards, min=16 max=28 avg=5.58)
-----------------------------------------
-2x DeSalle              7   CEL POT PRE                   Brujah antitribu:4
-2x Miguel Santo Domingo 7   POT PRE cel for               Brujah antitribu:3
-1x Henry Taylor         6   POT cel pre pro               Brujah antitribu:3
-1x Jeremiah Noble       6   CEL POT obt pre               Brujah antitribu:3
-1x Pug Jackson          6   CEL POT for pre     primogen  Brujah:3
-1x Marlena              5   POT cel pre                   Brujah:3
-1x Wah Chun-Yuen        5   POT cel dom pre               Brujah antitribu:3
-1x Mariano Pomposo      4   aus cel pot                   Brujah antitribu:3
-1x Patrick              4   POT pre                       Brujah antitribu:4
-1x Smash                3   pot pre                       Brujah antitribu:4
+Crypt (12 cards, min=16, max=28, avg=5.58)
+------------------------------------------
+2x DeSalle               7  CEL POT PRE                Brujah antitribu:4
+2x Miguel Santo Domingo  7  POT PRE cel for            Brujah antitribu:3
+1x Henry Taylor          6  POT cel pre pro            Brujah antitribu:3
+1x Jeremiah Noble        6  CEL POT obt pre            Brujah antitribu:3
+1x Pug Jackson           6  CEL POT for pre  primogen  Brujah:3
+1x Marlena               5  POT cel pre                Brujah:3
+1x Wah Chun-Yuen         5  POT cel dom pre            Brujah antitribu:3
+1x Mariano Pomposo       4  aus cel pot                Brujah antitribu:3
+1x Patrick               4  POT pre                    Brujah antitribu:4
+1x Smash                 3  pot pre                    Brujah antitribu:4
 
 Library (90 cards)
 Master (19)

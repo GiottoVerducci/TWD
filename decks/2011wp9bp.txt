@@ -8,17 +8,17 @@ Bartosz Wroblewski
 Deck Name: !Ventrue Grinder
 Created by: based on Hugh Angseesing "Stick Men"
 
-Crypt (12 cards, min=17 max=30 avg=5.83)
-----------------------------------------
-2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre  Ventrue antitribu:3
-2x Blackhorse Tanner            7   AUS DOM FOR          Ventrue antitribu:3
-2x Neighbor John                5   AUS dom for          Ventrue antitribu:4
-1x Joseph O'Grady               7   DOM FOR aus cel      Ventrue antitribu:3
-1x Mariel St. John              6   AUS FOR dom pro      Ventrue antitribu:4
-1x Jephta Hester                5   DOM FOR aus          Ventrue antitribu:4
-1x Louis de Maisonneuve         5   FOR aus dom obf      Ventrue antitribu:4
-1x Katherine Stoddard           4   dom for              Ventrue antitribu:3
-1x Ulrike Rothbart              3   dom for              Ventrue antitribu:4
+Crypt (12 cards, min=17, max=30, avg=5.83)
+------------------------------------------
+2x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre  Ventrue antitribu:3
+2x Blackhorse Tanner          7  AUS DOM FOR          Ventrue antitribu:3
+2x Neighbor John              5  AUS dom for          Ventrue antitribu:4
+1x Joseph O'Grady             7  DOM FOR aus cel      Ventrue antitribu:3
+1x Mariel St. John            6  AUS FOR dom pro      Ventrue antitribu:4
+1x Jephta Hester              5  DOM FOR aus          Ventrue antitribu:4
+1x Louis de Maisonneuve       5  FOR aus dom obf      Ventrue antitribu:4
+1x Katherine Stoddard         4  dom for              Ventrue antitribu:3
+1x Ulrike Rothbart            3  dom for              Ventrue antitribu:4
 
 Library (80 cards)
 Master (14; 2 trifle)

@@ -8,18 +8,18 @@ Deck Name: KoKo's Hair Salon
 
 Description: Potence rush with a bit of Dominate.
 
-Crypt (12 cards, min=7 max=21 avg=3.5)
---------------------------------------
-2x Terry                   5   POT aus dom san  Blood Brother:2
-2x Cameron                 3   dom pot          Lasombra:2
-1x Theo Bell               7   POT cel dom pre  Brujah:2
-1x Agatha                  4   POT obf          Nosferatu antitribu:2
-1x Hector Sosa             4   POT pre          Brujah:1
-1x Hugo                    4   POT pre vic      Brujah antitribu:2
-1x KoKo                    2   pot              Nosferatu:1
-1x Lupo                    2   pot              Brujah:1
-1x Paul DiCarlo, The Alpha 2   pot              Giovanni:2
-1x Hasina Kesi             1   pot              Caitiff:1
+Crypt (12 cards, min=7, max=21, avg=3.5)
+----------------------------------------
+2x Terry                    5  POT aus dom san  Blood Brother:2
+2x Cameron                  3  dom pot          Lasombra:2
+1x Theo Bell                7  POT cel dom pre  Brujah:2
+1x Agatha                   4  POT obf          Nosferatu antitribu:2
+1x Hector Sosa              4  POT pre          Brujah:1
+1x Hugo                     4  POT pre vic      Brujah antitribu:2
+1x KoKo                     2  pot              Nosferatu:1
+1x Lupo                     2  pot              Brujah:1
+1x Paul DiCarlo, The Alpha  2  pot              Giovanni:2
+1x Hasina Kesi              1  pot              Caitiff:1
 
 Library (90 cards)
 Master (13)

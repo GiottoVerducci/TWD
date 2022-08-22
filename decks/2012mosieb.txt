@@ -10,14 +10,14 @@ Created by: Adam Esbjörnsson
 it is by will alone i set my car in motion
 block and kill deck with weenie support
 
-Crypt (12 cards, min=15 max=44 avg=7.75)
-----------------------------------------
-4x Alexandra      11  ANI AUS CEL PRE dom  inner circle  Toreador:2
-4x Anson          8   CEL PRE aus dom      prince        Toreador:1
-1x Anneke         10  AUS CEL PRE dom      justicar      Toreador:1
-1x Isabel de Leon 3   AUS                                Toreador:2
-1x Delilah Easton 2   pre                                Toreador:1
-1x Dieter Kleist  2   aus                                Toreador:1
+Crypt (12 cards, min=15, max=44, avg=7.75)
+------------------------------------------
+4x Alexandra       11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+4x Anson            8  CEL PRE aus dom      prince        Toreador:1
+1x Anneke          10  AUS CEL PRE dom      justicar      Toreador:1
+1x Isabel de Leon   3  AUS                                Toreador:2
+1x Delilah Easton   2  pre                                Toreador:1
+1x Dieter Kleist    2  aus                                Toreador:1
 
 Library (60 cards)
 Master (27; 8 trifle)

@@ -18,15 +18,15 @@ I saw either ally-based or location-rich opponents in every round. Having access
 
 The Seductions should probably be removed.
 
-Crypt (12 cards, min=17 max=38 avg=6.67)
-----------------------------------------
-3x Appius Claudius Corvus 10  DOM OBT POT cel nec  Lasombra:5
-2x Saul Meira             8   CHI DOM OBT POT      Lasombra:5
-2x Isanwayen              6   DOM MYT OBT          Kiasyd:4
-2x Ermenegildo, The Rake  5   DOM OBT pot          Lasombra:4
-1x Dame Hollerton         5   DOM OBT myt          Kiasyd:4
-1x Leila Monroe           4   dom obt pre          Lasombra:4
-1x Lucy Markowitz         3   dom obt              Lasombra:4
+Crypt (12 cards, min=17, max=38, avg=6.67)
+------------------------------------------
+3x Appius Claudius Corvus  10  DOM OBT POT cel nec  Lasombra:5
+2x Saul Meira               8  CHI DOM OBT POT      Lasombra:5
+2x Isanwayen                6  DOM MYT OBT          Kiasyd:4
+2x Ermenegildo, The Rake    5  DOM OBT pot          Lasombra:4
+1x Dame Hollerton           5  DOM OBT myt          Kiasyd:4
+1x Leila Monroe             4  dom obt pre          Lasombra:4
+1x Lucy Markowitz           3  dom obt              Lasombra:4
 
 Library (84 cards)
 Master (22; 2 trifle)

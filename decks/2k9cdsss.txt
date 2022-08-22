@@ -17,14 +17,14 @@ the rest of minions bleeds.
 Influence Phase: Appius return.
 In other minion phase: Apppius bleed with Enkil Cog.
 
-Crypt (12 cards, min=18 max=40 avg=7.33)
-----------------------------------------
-4x Appius Claudius Corvus 10  DOM OBT POT cel nec  Lasombra:5
-3x Saul Meira             8   CHI DOM OBT POT      Lasombra:5
-2x Ermenegildo, The Rake  5   DOM OBT pot          Lasombra:4
-1x Onaedo                 6   DOM OBT aus pot      Lasombra:4
-1x Dame Hollerton         5   DOM OBT myt          Kiasyd:4
-1x Lucy Markowitz         3   dom obt              Lasombra:4
+Crypt (12 cards, min=18, max=40, avg=7.33)
+------------------------------------------
+4x Appius Claudius Corvus  10  DOM OBT POT cel nec  Lasombra:5
+3x Saul Meira               8  CHI DOM OBT POT      Lasombra:5
+2x Ermenegildo, The Rake    5  DOM OBT pot          Lasombra:4
+1x Onaedo                   6  DOM OBT aus pot      Lasombra:4
+1x Dame Hollerton           5  DOM OBT myt          Kiasyd:4
+1x Lucy Markowitz           3  dom obt              Lasombra:4
 
 Library (90 cards)
 Master (24; 12 trifle)

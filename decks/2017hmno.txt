@@ -12,14 +12,14 @@ Deck Name: Jack's Vigil and Revolution v3
 
 Description: Pretty straight-forward wall deck using Guardian Vigil. Thanks to John Eno and Darby Keeney for advice on the design.
 
-Crypt (13 cards, min=4 max=30 avg=4.23)
----------------------------------------
-5x Anarch Convert               1   -none-               Caitiff:ANY
-2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre  Ventrue antitribu:3
-2x Joseph O'Grady               7   DOM FOR aus cel      Ventrue antitribu:3
-2x Neighbor John                5   AUS dom for          Ventrue antitribu:4
-1x Jephta Hester                5   DOM FOR aus          Ventrue antitribu:4
-1x Kyoko Shinsegawa             5   aus cel dom for      Tremere:3
+Crypt (13 cards, min=4, max=30, avg=4.23)
+-----------------------------------------
+5x Anarch Convert             1  -none-               Caitiff:ANY
+2x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre  Ventrue antitribu:3
+2x Joseph O'Grady             7  DOM FOR aus cel      Ventrue antitribu:3
+2x Neighbor John              5  AUS dom for          Ventrue antitribu:4
+1x Jephta Hester              5  DOM FOR aus          Ventrue antitribu:4
+1x Kyoko Shinsegawa           5  aus cel dom for      Tremere:3
 
 Library (80 cards)
 Master (18; 4 trifle)

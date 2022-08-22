@@ -64,10 +64,10 @@ deflect a bleed. Julien withdrew and took second, Robert took third. When
 was the last time someone won a final as the only guy with 2VP? Weird
 tourney, where were the Malks?
 
-Crypt (12 cards, min=36 max=44 avg=10)
---------------------------------------
-6x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
-6x Natasha Volfchek 9   FOR PRE cel dom pot      primogen       Ventrue:1
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+6x Arika             11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+6x Natasha Volfchek   9  FOR PRE cel dom pot      primogen      Ventrue:1
 
 Library (90 cards)
 Master (20)

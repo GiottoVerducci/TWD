@@ -7,18 +7,18 @@ Peter Rophail
 
 Outback's Imbued
 
-Crypt (40 cards, min=12 max=20 avg=4.1)
----------------------------------------
-5x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-5x Travis "Traveler72" Miller   5   def mar      Martyr:4
-4x Erick "Shophet125" Franco    4   inn jud      Judge:4
-4x Jack "Hannibal137" Harmon    4   def jud      Defender:4
-4x Jennifer "Flame61" Vidisania 4   ven viz      Avenger:4
-4x John "Cop90" O'Malley        4   jud ven      Avenger:4
-4x Marion "Teacher193" Perks    4   jud red      Redeemer:4
-4x Peter "Outback295" Rophail   4   red ven      Redeemer:4 -- Doesn't actually fit this deck very well
-3x François "Warden" Loehr      3   def jud      Judge:4
-3x Inez "Nurse216" Villagrande  3   inn          Innocent:4 -- Great value with Inspire
+Crypt (40 cards, min=12, max=20, avg=4.1)
+-----------------------------------------
+5x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+5x Travis "Traveler72" Miller    5  def mar      Martyr:4
+4x Erick "Shophet125" Franco     4  inn jud      Judge:4
+4x Jack "Hannibal137" Harmon     4  def jud      Defender:4
+4x Jennifer "Flame61" Vidisania  4  ven viz      Avenger:4
+4x John "Cop90" O'Malley         4  jud ven      Avenger:4
+4x Marion "Teacher193" Perks     4  jud red      Redeemer:4
+4x Peter "Outback295" Rophail    4  red ven      Redeemer:4   -- Doesn't actually fit this deck very well
+3x François "Warden" Loehr       3  def jud      Judge:4
+3x Inez "Nurse216" Villagrande   3  inn          Innocent:4   -- Great value with Inspire
 
 Library (90 cards)
 Master (19)

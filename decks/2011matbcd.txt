@@ -7,14 +7,14 @@ Oskar Muntzing
 
 Deck Name: Smells like Torbjorn v 2.1
 
-Crypt (12 cards, min=29 max=43 avg=9.33)
-----------------------------------------
-3x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-3x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
-2x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
-2x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
-1x Catherine du Bois    5   DOM for obf pre                             Ventrue:3
-1x Laurent de Valois    4   ani dom obf                                 Nosferatu:2
+Crypt (12 cards, min=29, max=43, avg=9.33)
+------------------------------------------
+3x Arika              11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Lucinde, Alastor   10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+2x Marcus Vitel       10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+2x Queen Anne         10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Catherine du Bois   5  DOM for obf pre                        Ventrue:3
+1x Laurent de Valois   4  ani dom obf                            Nosferatu:2
 
 Library (86 cards)
 Master (17; 8 trifle)

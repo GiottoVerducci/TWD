@@ -9,15 +9,15 @@ Hugh Angseesing
 
 Deck: The Life and Death of a Distinguished Gentleman (HoS & Salubri!)
 
-Crypt (12 cards, min=19 max=30 avg=6.33)
-----------------------------------------
-4x Matthias                             7   AUS FOR OBE nec                     Salubri:2
-2x Egothha                              7   AUS FOR NEC obf                     Harbinger of Skulls:2
-2x Agaitas, The Scholar of Antiquities  6   AUS NEC for                         Harbinger of Skulls:2
-1x Unre, Keeper of Golgotha             9   AUS FOR NEC dom ser thn     bishop  Harbinger of Skulls:2
-1x Blanche Hill                         6   FOR OBE aus                         Salubri:2
-1x Maldavis                             4   AUS for pre                         Caitiff:3
-1x Isabel de Leon                       3   AUS                                 Toreador:2
+Crypt (12 cards, min=19, max=30, avg=6.33)
+------------------------------------------
+4x Matthias                             7  AUS FOR OBE nec                  Salubri:2
+2x Egothha                              7  AUS FOR NEC obf                  Harbinger of Skulls:2
+2x Agaitas, The Scholar of Antiquities  6  AUS NEC for                      Harbinger of Skulls:2
+1x Unre, Keeper of Golgotha             9  AUS FOR NEC dom ser thn  bishop  Harbinger of Skulls:2
+1x Blanche Hill                         6  FOR OBE aus                      Salubri:2
+1x Maldavis                             4  AUS for pre                      Caitiff:3
+1x Isabel de Leon                       3  AUS                              Toreador:2
 
 Library (88 cards)
 Master (18; 8 trifle)

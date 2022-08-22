@@ -7,13 +7,13 @@ Mariusz Suchanecki
 
 Deck Name: Nosferatu Burton
 
-Crypt (12 cards, min=28 max=38 avg=8.17)
-----------------------------------------
-3x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for         justicar  Nosferatu:1
-3x Nikolaus Vermeulen           7   POT ani for obf             prince    Nosferatu:2
-2x Lucretia, Cess Queen         10  ANI OBF aus cel for pot     primogen  Nosferatu:1
-2x Selma the Repugnant          8   OBF POT ani for             prince    Nosferatu:1
-2x Murat                        7   OBF POT ser                 prince    Nosferatu:2
+Crypt (12 cards, min=28, max=38, avg=8.17)
+------------------------------------------
+3x Sheldon, Lord of the Clog   9  ANI AUS OBF POT for      justicar  Nosferatu:1
+3x Nikolaus Vermeulen          7  POT ani for obf          prince    Nosferatu:2
+2x Lucretia, Cess Queen       10  ANI OBF aus cel for pot  primogen  Nosferatu:1
+2x Selma the Repugnant         8  OBF POT ani for          prince    Nosferatu:1
+2x Murat                       7  OBF POT ser              prince    Nosferatu:2
 
 Library (70 cards)
 Master (16; 4 trifle)

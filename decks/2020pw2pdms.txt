@@ -18,12 +18,12 @@ should used Minion Tap instead Villeins.. Anyways We played a great final with
 a lot of votes like Lasombra, stanislava, Nosferatu... A good day to remember
 with a big community of Methuselahs.
 
-Crypt (12 cards, min=32 max=44 avg=9.67)
-----------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-4x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
-2x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
-2x Stavros               7   AUS OBF PRE dem            priscus         Malkavian antitribu:4
+Crypt (12 cards, min=32, max=44, avg=9.67)
+------------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+4x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
+2x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+2x Stavros                 7  AUS OBF PRE dem          priscus       Malkavian antitribu:4
 
 Library (69 cards)
 Master (16; 6 trifle)

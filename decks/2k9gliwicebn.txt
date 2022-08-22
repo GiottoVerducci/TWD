@@ -7,16 +7,16 @@ Tomasz Izydorczyk
 
 Deck Name: tempt me plox
 
-Crypt (12 cards, min=11 max=30 avg=5.33)
-----------------------------------------
-3x Synesios         8   POT PRE TEM obf ser     2 votes  True Brujah:2
-2x Allonzo Montoya  6   OBF SER ani aus                  Abomination:3
-2x Hesha Ruhadze    6   SER ani obf pre                  Follower of Set:2
-1x Count Ormonde    5   OBF dom pre ser                  Follower of Set:2
-1x Dedefra          5   SER nec obf                      Follower of Set:2
-1x Celine Chevalier 3   obf ser                          Follower of Set:2
-1x Lalitha          2   ser                              Follower of Set:2
-1x Julius           1   qui ser                          Caitiff:2
+Crypt (12 cards, min=11, max=30, avg=5.33)
+------------------------------------------
+3x Synesios          8  POT PRE TEM obf ser  2 votes  True Brujah:2
+2x Allonzo Montoya   6  OBF SER ani aus               Abomination:3
+2x Hesha Ruhadze     6  SER ani obf pre               Follower of Set:2
+1x Count Ormonde     5  OBF dom pre ser               Follower of Set:2
+1x Dedefra           5  SER nec obf                   Follower of Set:2
+1x Celine Chevalier  3  obf ser                       Follower of Set:2
+1x Lalitha           2  ser                           Follower of Set:2
+1x Julius            1  qui ser                       Caitiff:2
 
 Library (86 cards)
 Master (18; 2 trifle)

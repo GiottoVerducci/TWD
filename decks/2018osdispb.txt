@@ -8,13 +8,13 @@ https://www.vekn.net/event-calendar/event/8874
 
 -- 4VP in final
 
-Crypt (12 cards, min=4 max=20 avg=3)
-------------------------------------
-4x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
-4x Anarch Convert       1   -none-              Caitiff:ANY
-2x Keith Moody          3   DOM                 Tremere antitribu:4
-1x Ember Wright         3   aus dom             Tremere antitribu:3
-1x Saiz                 3   aus dom             Tremere antitribu:3
+Crypt (12 cards, min=4, max=20, avg=3)
+--------------------------------------
+4x Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+4x Anarch Convert     1  -none-           Caitiff:ANY
+2x Keith Moody        3  DOM              Tremere antitribu:4
+1x Ember Wright       3  aus dom          Tremere antitribu:3
+1x Saiz               3  aus dom          Tremere antitribu:3
 
 Library (90 cards)
 Master (38; 3 trifle)

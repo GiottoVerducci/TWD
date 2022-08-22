@@ -6,18 +6,18 @@ Thomas Kuster
 Workin' on the Night Moves by Thomas Kuster
 (with a little help from Bob Seger)
 
-Crypt (12 cards, min=20 max=36 avg=6.83)
-----------------------------------------
-2x Darrell Boyce, Consul        6   CEL OBF PRO                   Gangrel antitribu:2
-2x Kalinda                      6   CEL OBF tha                   Assamite:2
-1x Samantha                     10  CEL OBF PRO ani tha  bishop   Gangrel antitribu:2
-1x Thetmes, Caliph of Alamut    10  CEL OBF QUI dom pot  2 votes  Assamite:2
-1x Ellen Fence, The Tracker     8   CEL OBF PRO aus      bishop   Gangrel antitribu:2
-1x Husamettin                   8   CEL OBF QUI pot pre           Assamite:2
-1x Melek                        7   OBF QUI cel pre               Assamite:2
-1x Zachary                      7   CEL OBF PRO for pre           Gangrel antitribu:2
-1x Tansu Bekir                  4   OBF cel                       Assamite:2
-1x Wren                         4   cel obf pro                   Gangrel antitribu:2
+Crypt (12 cards, min=20, max=36, avg=6.83)
+------------------------------------------
+2x Darrell Boyce, Consul       6  CEL OBF PRO                   Gangrel antitribu:2
+2x Kalinda                     6  CEL OBF tha                   Assamite:2
+1x Samantha                   10  CEL OBF PRO ani tha  bishop   Gangrel antitribu:2
+1x Thetmes, Caliph of Alamut  10  CEL OBF QUI dom pot  2 votes  Assamite:2
+1x Ellen Fence, The Tracker    8  CEL OBF PRO aus      bishop   Gangrel antitribu:2
+1x Husamettin                  8  CEL OBF QUI pot pre           Assamite:2
+1x Melek                       7  OBF QUI cel pre               Assamite:2
+1x Zachary                     7  CEL OBF PRO for pre           Gangrel antitribu:2
+1x Tansu Bekir                 4  OBF cel                       Assamite:2
+1x Wren                        4  cel obf pro                   Gangrel antitribu:2
 
 Library (79 cards)
 Master (20)

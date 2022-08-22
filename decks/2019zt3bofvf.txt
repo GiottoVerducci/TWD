@@ -19,13 +19,13 @@ The final table was:
 
 Description: Teched against BlackJack(and other legionnaires obviously) silly deck, i’m sorry.
 
-Crypt (12 cards, min=4 max=34 avg=5)
-------------------------------------
-5x Anarch Convert  1   -none-               Caitiff:ANY
-3x Khurshid        8   AUS FOR NEC POT      Harbinger of Skulls:6
-2x Angelique       9   AUS FOR NEC SER THA  Harbinger of Skulls:6
-1x Anu Diptinatpa  7   DOM NEC aus vic      Nagaraja:6
-1x La Viuda Blanca 6   AUS NEC for obf      Harbinger of Skulls:6
+Crypt (12 cards, min=4, max=34, avg=5)
+--------------------------------------
+5x Anarch Convert   1  -none-               Caitiff:ANY
+3x Khurshid         8  AUS FOR NEC POT      Harbinger of Skulls:6
+2x Angelique        9  AUS FOR NEC SER THA  Harbinger of Skulls:6
+1x Anu Diptinatpa   7  DOM NEC aus vic      Nagaraja:6
+1x La Viuda Blanca  6  AUS NEC for obf      Harbinger of Skulls:6
 
 Library (90 cards)
 Master (21; 5 trifle)

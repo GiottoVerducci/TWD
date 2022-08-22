@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/7963
 
 Deck Name: Imbuid Twist
 
-Crypt (12 cards, min=11 max=20 avg=3.83)
-----------------------------------------
-3x Inez "Nurse216" Villagrande  3   inn          Innocent:4
-2x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-2x Travis "Traveler72" Miller   5   def mar      Martyr:4
-2x Paul "Sixofswords29" Moreton 4   def vis      Visionary:4
-1x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
-1x François "Warden" Loehr      3   def jud      Judge:4
-1x Liz "Ticket312" Thornton     2   inn red      Innocent:4
+Crypt (12 cards, min=11, max=20, avg=3.83)
+------------------------------------------
+3x Inez "Nurse216" Villagrande   3  inn          Innocent:4
+2x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+2x Travis "Traveler72" Miller    5  def mar      Martyr:4
+2x Paul "Sixofswords29" Moreton  4  def vis      Visionary:4
+1x Leaf "Potter116" Pankowski    4  inn red viz  Redeemer:4
+1x François "Warden" Loehr       3  def jud      Judge:4
+1x Liz "Ticket312" Thornton      2  inn red      Innocent:4
 
 Library (60 cards)
 Master (36; 1 trifle)

@@ -5,20 +5,20 @@ Rob Sheiman
 
 "Austin Represents!"
 
-Crypt (12 cards, min=10 max=18 avg=3.67)
-----------------------------------------
-1x Didi Meyers                     5   DOM aus cel obf  Malkavian:1
-1x Isabel Giovanni                 5   DOM NEC pot      Giovanni:2
-1x Chas Giovanni Tello             4   DOM POT          Giovanni:2
-1x Courtland Leighton              4   dom for pre      Ventrue:1
-1x Gloria Giovanni                 4   DOM nec          Giovanni:2
-1x Ignatius                        4   aus dom tha      Tremere:1
-1x Ingrid Russo                    4   DOM for          Ventrue antitribu:2
-1x Peter Blaine                    4   aus dom for      Ventrue antitribu:2
-1x Violette Prentiss               4   PRE dom          Ventrue:1
-1x Jing Wei                        3   dom tha          Tremere:1
-1x Marciana Giovanni, Investigator 2   dom              Giovanni:2
-1x Royce                           1   dom              Pander:2
+Crypt (12 cards, min=10, max=18, avg=3.67)
+------------------------------------------
+1x Didi Meyers                      5  DOM aus cel obf  Malkavian:1
+1x Isabel Giovanni                  5  DOM NEC pot      Giovanni:2
+1x Chas Giovanni Tello              4  DOM POT          Giovanni:2
+1x Courtland Leighton               4  dom for pre      Ventrue:1
+1x Gloria Giovanni                  4  DOM nec          Giovanni:2
+1x Ignatius                         4  aus dom tha      Tremere:1
+1x Ingrid Russo                     4  DOM for          Ventrue antitribu:2
+1x Peter Blaine                     4  aus dom for      Ventrue antitribu:2
+1x Violette Prentiss                4  PRE dom          Ventrue:1
+1x Jing Wei                         3  dom tha          Tremere:1
+1x Marciana Giovanni, Investigator  2  dom              Giovanni:2
+1x Royce                            1  dom              Pander:2
 
 Library (90 cards)
 Master (24)

@@ -10,16 +10,16 @@ Yannick Gibert
 Deck Name: A biothaumaturgic to govern them...
 
 
-Crypt (12 cards, min=14 max=31 avg=5.83)
-----------------------------------------
-3x Uta Kovacs                   8   AUS DOM THA ser               Tremere antitribu:4
-2x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
-2x Selena                       6   AUS DOM THA                   Tremere antitribu:3
-1x Yasmin the Black             6   AUS THA dom pre               Tremere antitribu:3
-1x Frondator                    5   AUS dom tha         bishop    Tremere antitribu:4
-1x Ember Wright                 3   aus dom                       Tremere antitribu:3
-1x Keith Moody                  3   DOM                           Tremere antitribu:4
-1x Saiz                         3   aus dom                       Tremere antitribu:3
+Crypt (12 cards, min=14, max=31, avg=5.83)
+------------------------------------------
+3x Uta Kovacs                 8  AUS DOM THA ser            Tremere antitribu:4
+2x Carna, The Princess Witch  7  AUS DOM THA      primogen  Tremere:3
+2x Selena                     6  AUS DOM THA                Tremere antitribu:3
+1x Yasmin the Black           6  AUS THA dom pre            Tremere antitribu:3
+1x Frondator                  5  AUS dom tha      bishop    Tremere antitribu:4
+1x Ember Wright               3  aus dom                    Tremere antitribu:3
+1x Keith Moody                3  DOM                        Tremere antitribu:4
+1x Saiz                       3  aus dom                    Tremere antitribu:3
 
 Library (81 cards)
 Master (15; 1 trifle)

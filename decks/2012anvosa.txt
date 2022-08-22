@@ -13,17 +13,17 @@ and blood management. Archon Investigation and Direct Intervention for added
 defence against uncontrollable heavy bleeders and for protection directly
 after lunging.
 
-Crypt (12 cards, min=15 max=26 avg=5.08)
-----------------------------------------
-3x Edward Vignes                   6   DOM PRE for          Ventrue:3
-2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for          Ventrue:2
-1x Owain Evans, The Wanderer       8   AUS DOM FOR cel pre  Ventrue antitribu:3
-1x Boss Callihan                   5   PRE dom for pro      Ventrue:3
-1x Catherine du Bois               5   DOM for obf pre      Ventrue:3
-1x Elena Gutierrez                 4   aus dom pre          Ventrue:3
-1x Ingrid Russo                    4   DOM for              Ventrue antitribu:2
-1x Pieter van Dorn                 4   dom pre tha          Tremere:3
-1x Diana Vick                      3   dom pre              Ventrue:3
+Crypt (12 cards, min=15, max=26, avg=5.08)
+------------------------------------------
+3x Edward Vignes                    6  DOM PRE for          Ventrue:3
+2x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for          Ventrue:2
+1x Owain Evans, The Wanderer        8  AUS DOM FOR cel pre  Ventrue antitribu:3
+1x Boss Callihan                    5  PRE dom for pro      Ventrue:3
+1x Catherine du Bois                5  DOM for obf pre      Ventrue:3
+1x Elena Gutierrez                  4  aus dom pre          Ventrue:3
+1x Ingrid Russo                     4  DOM for              Ventrue antitribu:2
+1x Pieter van Dorn                  4  dom pre tha          Tremere:3
+1x Diana Vick                       3  dom pre              Ventrue:3
 
 Library (70 cards)
 Master (14; 1 trifle)

@@ -9,12 +9,12 @@ David Litwin
 
 Deck Name: Armin Still Hammering
 
-Crypt (12 cards, min=36 max=40 avg=9.33)
-----------------------------------------
-4x Armin Brenner   10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
-3x Hektor          9   CEL POT PRE QUI for      priscus     Brujah antitribu:4
-3x Undele          9   CEL FOR obf pre ser      magaji      Ishtarri:5
-2x Dmitra Ilyanova 9   CEL FOR POT PRE obf      justicar    Brujah:5
+Crypt (12 cards, min=36, max=40, avg=9.33)
+------------------------------------------
+4x Armin Brenner    10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
+3x Hektor            9  CEL POT PRE QUI for      priscus     Brujah antitribu:4
+3x Undele            9  CEL FOR obf pre ser      magaji      Ishtarri:5
+2x Dmitra Ilyanova   9  CEL FOR POT PRE obf      justicar    Brujah:5
 
 Library (90 cards)
 Master (17; 6 trifle)

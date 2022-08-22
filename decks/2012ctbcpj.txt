@@ -9,10 +9,10 @@ Deck Name: Unnamed_maleficia v1.1
 
 Description: Deck based on Tony Wedd deck's
 
-Crypt (12 cards, min=12 max=40 avg=5.92)
-----------------------------------------
-7x Horde, The   3   dai obf pre          Baali:6
-5x unnamed, The 10  CEL DAI OBF PRE PRO  Baali:6
+Crypt (12 cards, min=12, max=40, avg=5.92)
+------------------------------------------
+7x Horde, The     3  dai obf pre          Baali:6
+5x unnamed, The  10  CEL DAI OBF PRE PRO  Baali:6
 
 Library (79 cards)
 Master (22; 11 trifle)

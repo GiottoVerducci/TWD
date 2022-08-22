@@ -9,16 +9,16 @@ Deck Name: Ventrue LOL Firm or Cold From Fever
 Description: Built this Firm from the works of Mr. Guido Canciani, Mr. Sergio
 Garcia, my own past enterprises and the Vignesque tap and bleed I took to Örebro.
 
-Crypt (12 cards, min=19 max=31 avg=6.17)
-----------------------------------------
-3x Victor Pelletier     5   PRE cel dom for                Ventrue:4
-2x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro  prince    Ventrue:5
-2x Mustafa, The Heir    6   FOR PRE cel dom      prince    Ventrue:4
-1x Epikasta Rigatos     8   AUS DOM PRE cel      prince    Toreador:4
-1x Graham Gottesman     7   DOM FOR obf pre tha  prince    Ventrue:5
-1x Tara                 6   POT PRE cel          prince    Brujah:5
-1x Victor Donaldson     6   DOM for pre          prince    Ventrue:5
-1x Reginald Moore       4   PRE                  primogen  Brujah:4
+Crypt (12 cards, min=19, max=31, avg=6.17)
+------------------------------------------
+3x Victor Pelletier    5  PRE cel dom for                Ventrue:4
+2x Lodin (Olaf Holte)  8  DOM FOR PRE aus pro  prince    Ventrue:5
+2x Mustafa, The Heir   6  FOR PRE cel dom      prince    Ventrue:4
+1x Epikasta Rigatos    8  AUS DOM PRE cel      prince    Toreador:4
+1x Graham Gottesman    7  DOM FOR obf pre tha  prince    Ventrue:5
+1x Tara                6  POT PRE cel          prince    Brujah:5
+1x Victor Donaldson    6  DOM for pre          prince    Ventrue:5
+1x Reginald Moore      4  PRE                  primogen  Brujah:4
 
 Library (71 cards)
 Master (13; 2 trifle)

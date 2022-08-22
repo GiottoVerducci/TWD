@@ -7,15 +7,15 @@ Djordje Sutic
 
 Deck Name: Lucian the Lecturer
 
-Crypt (12 cards, min=15 max=44 avg=7.08)
-----------------------------------------
-5x Lucian, The Perfect  11  ANI AUS DOM OBF POT PRE     Guruhi:4
-2x Fish                 5   ANI POT pre                 Guruhi:4
-1x Black Lotus          5   DOM aus obf ser             Follower of Set:4
-1x Cristos Mantigo      5   aus cel dom obf pre         Toreador antitribu:3
-1x Fode Kourouma        5   POT ani aus pre             Guruhi:4
-1x Keith Moody          3   DOM                         Tremere antitribu:4
-1x Misrak               2   pot                         Osebo:4
+Crypt (12 cards, min=15, max=44, avg=7.08)
+------------------------------------------
+5x Lucian, The Perfect  11  ANI AUS DOM OBF POT PRE  Guruhi:4
+2x Fish                  5  ANI POT pre              Guruhi:4
+1x Black Lotus           5  DOM aus obf ser          Follower of Set:4
+1x Cristos Mantigo       5  aus cel dom obf pre      Toreador antitribu:3
+1x Fode Kourouma         5  POT ani aus pre          Guruhi:4
+1x Keith Moody           3  DOM                      Tremere antitribu:4
+1x Misrak                2  pot                      Osebo:4
 
 Library (90 cards)
 Master (14; 6 trifle)

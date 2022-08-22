@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9192
 
 Deck Name: So Long, And Thanks For All The Fish
 
-Crypt (12 cards, min=13 max=31 avg=5.58)
-----------------------------------------
-3x Gabrin               8   ANI CHI dom for     Ravnos:2
-2x Joaquina Amaya       6   ANI CHI FOR         Ravnos:2
-2x Salbatore Bokkengro  4   CHI for pro         Ravnos:2
-1x Natalia              7   ANI chi dom for     Ravnos:2
-1x Sarisha Veliku       6   ANI FOR chi dom     Ravnos:2
-1x Khalil Ravana        5   CHI ani for pre     Ravnos:2
-1x Tsigane              3   aus chi             Ravnos:2
-1x Sasha Miklos         2   chi                 Ravnos:2
+Crypt (12 cards, min=13, max=31, avg=5.58)
+------------------------------------------
+3x Gabrin               8  ANI CHI dom for  Ravnos:2
+2x Joaquina Amaya       6  ANI CHI FOR      Ravnos:2
+2x Salbatore Bokkengro  4  CHI for pro      Ravnos:2
+1x Natalia              7  ANI chi dom for  Ravnos:2
+1x Sarisha Veliku       6  ANI FOR chi dom  Ravnos:2
+1x Khalil Ravana        5  CHI ani for pre  Ravnos:2
+1x Tsigane              3  aus chi          Ravnos:2
+1x Sasha Miklos         2  chi              Ravnos:2
 
 Library (85 cards)
 Master (15)

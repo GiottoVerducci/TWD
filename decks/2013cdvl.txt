@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/7413
 
 Deck Name: Santaleous' Master Ban
 
-Crypt (12 cards, min=20 max=37 avg=7.25)
-----------------------------------------
-3x Santaleous     9   AUS CEL DEM OBF                     Malkavian:5
-2x Bloody Mary    8   AUS DEM OBF pre           primogen  Malkavian:5
-2x Morel          6   AUS DEM OBF                         Malkavian:4
-1x Unmada         10  AUS DEM OBF VIC cel for   justicar  Malkavian:5
-1x Lord Fianna    8   AUS DEM OBF cel pro                 Malkavian:5
-1x Gem Ghastly    6   DEM OBF aus               primogen  Malkavian:5
-1x Arthur Denholm 5   AUS DEM obf                         Malkavian:5
-1x Bela           3   DEM ani obf pro                     Malkavian:5
+Crypt (12 cards, min=20, max=37, avg=7.25)
+------------------------------------------
+3x Santaleous       9  AUS CEL DEM OBF                    Malkavian:5
+2x Bloody Mary      8  AUS DEM OBF pre          primogen  Malkavian:5
+2x Morel            6  AUS DEM OBF                        Malkavian:4
+1x Unmada          10  AUS DEM OBF VIC cel for  justicar  Malkavian:5
+1x Lord Fianna      8  AUS DEM OBF cel pro                Malkavian:5
+1x Gem Ghastly      6  DEM OBF aus              primogen  Malkavian:5
+1x Arthur Denholm   5  AUS DEM obf                        Malkavian:5
+1x Bela             3  DEM ani obf pro                    Malkavian:5
 
 Library (73 cards)
 Master (16; 6 trifle)

@@ -9,15 +9,15 @@ Alberto Sánchez
 
 Deck Name: Gatitos con alas
 
-Crypt (21 cards, min=4 max=16 avg=1.71)
----------------------------------------
-15x Tupdog                          1    POT VIS        Gargoyle:3
-1x  Kurt Strauss                    5    DOM aus tha    Tremere antitribu:2
-1x  Richard Tauber, Ayelea's Puppet 4    AUS tha        Tremere antitribu:2
-1x  Thelonius                       4    aus dom tha    Tremere antitribu:2
-1x  Brooke                          3    dom tha        Tremere antitribu:2
-1x  Saiz                            3    aus dom        Tremere antitribu:3
-1x  Heinrick Schlempt               2    tha            Tremere antitribu:2
+Crypt (21 cards, min=4, max=16, avg=1.71)
+-----------------------------------------
+15x Tupdog                           1  POT VIS      Gargoyle:3
+1x  Kurt Strauss                     5  DOM aus tha  Tremere antitribu:2
+1x  Richard Tauber, Ayelea's Puppet  4  AUS tha      Tremere antitribu:2
+1x  Thelonius                        4  aus dom tha  Tremere antitribu:2
+1x  Brooke                           3  dom tha      Tremere antitribu:2
+1x  Saiz                             3  aus dom      Tremere antitribu:3
+1x  Heinrick Schlempt                2  tha          Tremere antitribu:2
 
 Library (83 cards)
 Master (10)

@@ -35,15 +35,15 @@ Notes:
  Banishment	 - This gets rid of problems and can cause more pool loss than Parity Shift.
  Guard Dogs	 - Fun with Enkil Cog, can get you to long range, and works with bounce.
 
-Crypt (12 cards, min=36 max=44 avg=10)
---------------------------------------
-4x Stanislava           11  ANI CEL DOM FOR PRO          inner circle   Gangrel:2
-2x Xaviar (ADV)         10  ABO ANI FOR PRO aus cel pot  justicar       Gangrel:3
-2x Ingrid Rossler       9   ANI FOR PRO dom              prince         Gangrel:2
-1x Genevieve            10  ANI FOR PRO aus dom          priscus        Gangrel antitribu:2
-1x Hartmut Stover       10  CEL OBF PRO dom for          archbishop     Gangrel antitribu:3
-1x Rachel Brandywine    10  AUS DEM OBF PRO ani          prince         Malkavian:3
-1x Mark Decker          8   CEL PRO ani for obf pot      prince         Gangrel:3
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Stanislava         11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+2x Xaviar (ADV)       10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+2x Ingrid Rossler      9  ANI FOR PRO dom              prince        Gangrel:2
+1x Genevieve          10  ANI FOR PRO aus dom          priscus       Gangrel antitribu:2
+1x Hartmut Stover     10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+1x Rachel Brandywine  10  AUS DEM OBF PRO ani          prince        Malkavian:3
+1x Mark Decker         8  CEL PRO ani for obf pot      prince        Gangrel:3
 
 Library (90 cards)
 Master (24; 8 trifle)

@@ -7,21 +7,21 @@ Deck Name: Oblige Noblisse
 
 Description: Anarch Revolt Tournament Winner, 12/98
 
-Crypt (13 cards, min=21 max=39 avg=7.31)
-----------------------------------------
-1x Leandro              11  AUS OBF PRE cel dom  inner circle   Malkavian:2
-1x Anneke               10  AUS CEL PRE dom      justicar       Toreador:1
-1x Democritus           10  DOM PRE aus cel for  justicar       Ventrue:1
-1x Anson                8   CEL PRE aus dom      prince         Toreador:1
-1x Emerson Bridges      8   DOM FOR PRE pot      prince         Ventrue:1
-1x Mariel, Lady Thunder 7   DOM OBF aus tha                     Malkavian:1
-1x Sir Walter Nash      7   DOM FOR PRE          prince         Ventrue:1
-1x Timothy Crowley      7   FOR PRE ani dom      prince         Ventrue:1
-1x Lydia Van Cuelen     6   aus dom pre tha                     Tremere:1
-1x Rake                 6   PRE aus cel pot      prince         Brujah:1
-1x Vanessa              6   DOM FOR aus pre                     Ventrue antitribu:2
-1x Ramiel DuPre         5   PRE aus cel dom                     Toreador:1
-1x Demetrius Slater     4   aus cel pre                         Toreador:1
+Crypt (13 cards, min=21, max=39, avg=7.31)
+------------------------------------------
+1x Leandro               11  AUS OBF PRE cel dom  inner circle  Malkavian:2
+1x Anneke                10  AUS CEL PRE dom      justicar      Toreador:1
+1x Democritus            10  DOM PRE aus cel for  justicar      Ventrue:1
+1x Anson                  8  CEL PRE aus dom      prince        Toreador:1
+1x Emerson Bridges        8  DOM FOR PRE pot      prince        Ventrue:1
+1x Mariel, Lady Thunder   7  DOM OBF aus tha                    Malkavian:1
+1x Sir Walter Nash        7  DOM FOR PRE          prince        Ventrue:1
+1x Timothy Crowley        7  FOR PRE ani dom      prince        Ventrue:1
+1x Lydia Van Cuelen       6  aus dom pre tha                    Tremere:1
+1x Rake                   6  PRE aus cel pot      prince        Brujah:1
+1x Vanessa                6  DOM FOR aus pre                    Ventrue antitribu:2
+1x Ramiel DuPre           5  PRE aus cel dom                    Toreador:1
+1x Demetrius Slater       4  aus cel pre                        Toreador:1
 
 Library (89 cards)
 Master (26)

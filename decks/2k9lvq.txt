@@ -10,17 +10,17 @@ Matthew Morgan
 Get out Aksinya and whoever else you can. Dual them, Cardinal them
 and the Duals, bleed a bit, vote to kill.
 
-Crypt (12 cards, min=26 max=37 avg=8.08)
-----------------------------------------
-4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha               Gangrel antitribu:4
-1x Hartmut Stover 10  CEL OBF PRO dom for       archbishop  Gangrel antitribu:3
-1x Malabranca     9   AUS CEL PRE PRO obf       archbishop  Toreador antitribu:4
-1x Una            9   ANI FOR PRE PRO dem       archbishop  Gangrel antitribu:3
-1x Doyle Fincher  7   ANI PRO aus for obf                   Gangrel antitribu:4
-1x Luke Fellows   7   CEL OBF PRO                           Gangrel antitribu:4
-1x Xendil Charmer 7   CEL PRO SER obf           priscus     Gangrel antitribu:4
-1x Janey Pickman  6   ANI PRO for                           Gangrel antitribu:4
-1x Ryszard        6   CEL OBF pre pro           bishop      Gangrel antitribu:4
+Crypt (12 cards, min=26, max=37, avg=8.08)
+------------------------------------------
+4x Aksinya Daclau   9  ANI FOR PRE PRO cel tha              Gangrel antitribu:4
+1x Hartmut Stover  10  CEL OBF PRO dom for      archbishop  Gangrel antitribu:3
+1x Malabranca       9  AUS CEL PRE PRO obf      archbishop  Toreador antitribu:4
+1x Una              9  ANI FOR PRE PRO dem      archbishop  Gangrel antitribu:3
+1x Doyle Fincher    7  ANI PRO aus for obf                  Gangrel antitribu:4
+1x Luke Fellows     7  CEL OBF PRO                          Gangrel antitribu:4
+1x Xendil Charmer   7  CEL PRO SER obf          priscus     Gangrel antitribu:4
+1x Janey Pickman    6  ANI PRO for                          Gangrel antitribu:4
+1x Ryszard          6  CEL OBF pre pro          bishop      Gangrel antitribu:4
 
 Library (70 cards)
 Master (24; 5 trifle)

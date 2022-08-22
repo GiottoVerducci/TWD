@@ -16,13 +16,13 @@ How to play: Villein, Perfectionist, and Restoration to keep your pool total hig
 
 The incidental titles help get the support of political decks on the table. The 9-caps have each have +1 bleed which is good but not required. Note that Under my Skin is playable by most of the vampires in the crypt, and is quite a surprise!
 
-Crypt (12 cards, min=26 max=36 avg=7.5)
----------------------------------------
-4x Egothha                              7   AUS FOR NEC obf                      Harbinger of Skulls:2
-2x Baron, The                           9   FOR NEC OBF THN dom         2 votes  Samedi:2
-2x Unre, Keeper of Golgotha             9   AUS FOR NEC dom ser thn     bishop   Harbinger of Skulls:2
-2x Gisela Harden, The Winnower          7   FOR NEC aus dem             priscus  Harbinger of Skulls:2
-2x Agaitas, The Scholar of Antiquities  6   AUS NEC for                          Harbinger of Skulls:2
+Crypt (12 cards, min=26, max=36, avg=7.5)
+-----------------------------------------
+4x Egothha                              7  AUS FOR NEC obf                   Harbinger of Skulls:2
+2x Baron, The                           9  FOR NEC OBF THN dom      2 votes  Samedi:2
+2x Unre, Keeper of Golgotha             9  AUS FOR NEC dom ser thn  bishop   Harbinger of Skulls:2
+2x Gisela Harden, The Winnower          7  FOR NEC aus dem          priscus  Harbinger of Skulls:2
+2x Agaitas, The Scholar of Antiquities  6  AUS NEC for                       Harbinger of Skulls:2
 
 Library (80 cards)
 Master (20; 8 trifle)

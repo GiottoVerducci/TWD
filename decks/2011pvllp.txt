@@ -12,13 +12,13 @@ Created by: Marcin Watras - warGrim (based on Extrala's build)
 
 Description: Toprorize a wampire, steal/create gargoyle/burn.
 
-Crypt (22 cards, min=4 max=18 avg=1.82)
----------------------------------------
-16x Tupdog              1    POT VIS            Gargoyle:3
-3x  Antonio d'Erlette   5    THA dom for pot    Tremere antitribu:4
-1x  Ember Wright        3    aus dom            Tremere antitribu:3
-1x  Keith Moody         3    DOM                Tremere antitribu:4
-1x  Saiz                3    aus dom            Tremere antitribu:3
+Crypt (22 cards, min=4, max=18, avg=1.82)
+-----------------------------------------
+16x Tupdog             1  POT VIS          Gargoyle:3
+3x  Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+1x  Ember Wright       3  aus dom          Tremere antitribu:3
+1x  Keith Moody        3  DOM              Tremere antitribu:4
+1x  Saiz               3  aus dom          Tremere antitribu:3
 
 Library (90 cards)
 Master (16; 3 trifle)

@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/8151
 
 Deck Name: !Malks: Os Intrepidos!!!
 
-Crypt (12 cards, min=17 max=39 avg=7.25)
-----------------------------------------
-3x Louhi                10  ANI AUS DEM OBF THA pro     cardinal  Malkavian antitribu:4
-2x Santaleous           9   AUS CEL DEM OBF                       Malkavian:5
-1x Bloody Mary          8   AUS DEM OBF pre             primogen  Malkavian:5
-1x Persephone Tar-Anis  8   AUS DEM OBF cel pot                   Malkavian antitribu:4
-1x Gem Ghastly          6   DEM OBF aus                 primogen  Malkavian:5
-1x Morel                6   AUS DEM OBF                           Malkavian:4
-1x Arthur Denholm       5   AUS DEM obf                           Malkavian:5
-1x Bela                 3   DEM ani obf pro                       Malkavian:5
-1x Jackie               3   DEM                                   Malkavian antitribu:4
+Crypt (12 cards, min=17, max=39, avg=7.25)
+------------------------------------------
+3x Louhi                10  ANI AUS DEM OBF THA pro  cardinal  Malkavian antitribu:4
+2x Santaleous            9  AUS CEL DEM OBF                    Malkavian:5
+1x Bloody Mary           8  AUS DEM OBF pre          primogen  Malkavian:5
+1x Persephone Tar-Anis   8  AUS DEM OBF cel pot                Malkavian antitribu:4
+1x Gem Ghastly           6  DEM OBF aus              primogen  Malkavian:5
+1x Morel                 6  AUS DEM OBF                        Malkavian:4
+1x Arthur Denholm        5  AUS DEM obf                        Malkavian:5
+1x Bela                  3  DEM ani obf pro                    Malkavian:5
+1x Jackie                3  DEM                                Malkavian antitribu:4
 
 Library (90 cards)
 Master (12)

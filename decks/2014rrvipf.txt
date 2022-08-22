@@ -16,11 +16,11 @@ Then get the card you need with Fanchon special. You get easily 11 votes, but if
 do not get the majority, do not hesitate to block and amaranth cross table to ansure your majority.
 You have pb with ally deck, but you can manage most of the combat deck, vote and SB deck.
 
-Crypt (12 cards, min=36 max=44 avg=10.33)
------------------------------------------
-4x Mistress Fanchon 11  AUS CEL DOM OBF THA VIC  inner circle   Tremere:4
-4x Sha-Ennu         11  ANI AUS CHI VIC obf tha  regent         Tzimisce:4
-4x Malgorzata       9   AUS DOM THA VIC pre      priscus        Tremere antitribu:4
+Crypt (12 cards, min=36, max=44, avg=10.33)
+-------------------------------------------
+4x Mistress Fanchon  11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+4x Sha-Ennu          11  ANI AUS CHI VIC obf tha  regent        Tzimisce:4
+4x Malgorzata         9  AUS DOM THA VIC pre      priscus       Tremere antitribu:4
 
 Library (88 cards)
 Master (14; 6 trifle)

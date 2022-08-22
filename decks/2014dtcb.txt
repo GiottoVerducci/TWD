@@ -7,16 +7,16 @@ Tiago Deividy Bento Serafim
 
 Deck Name: Giovanni Shambling Bleed
 
-Crypt (12 cards, min=16 max=29 avg=5.75)
-----------------------------------------
-2x Andrea Giovanni                          7   DOM NEC pot vic         Giovanni:2
-2x Gillespi Giovanni                        7   DOM NEC POT aus         Giovanni:2
-2x Isabel Giovanni                          5   DOM NEC pot             Giovanni:2
-2x Gloria Giovanni                          4   DOM nec                 Giovanni:2
-1x Enzo Giovanni, Pentex Board of Directors 8   DOM NEC ani pot tha     Giovanni:2
-1x Carlotta Giovanni                        7   NEC POT dom obf         Giovanni:2
-1x Le Dinh Tho                              5   NEC aus dom             Nagaraja:2
-1x Rudolfo Giovanni                         3   NEC                     Giovanni:2
+Crypt (12 cards, min=16, max=29, avg=5.75)
+------------------------------------------
+2x Andrea Giovanni                           7  DOM NEC pot vic      Giovanni:2
+2x Gillespi Giovanni                         7  DOM NEC POT aus      Giovanni:2
+2x Isabel Giovanni                           5  DOM NEC pot          Giovanni:2
+2x Gloria Giovanni                           4  DOM nec              Giovanni:2
+1x Enzo Giovanni, Pentex Board of Directors  8  DOM NEC ani pot tha  Giovanni:2
+1x Carlotta Giovanni                         7  NEC POT dom obf      Giovanni:2
+1x Le Dinh Tho                               5  NEC aus dom          Nagaraja:2
+1x Rudolfo Giovanni                          3  NEC                  Giovanni:2
 
 Library (86 cards)
 Master (11; 1 trifle)

@@ -20,12 +20,12 @@ pressure from Matt Stockton's weenie Pre deck and was pleased with the
 constant ability to block 5/6/7 weenies a turn whilst laying down the
 master phase bombs.
 
-Crypt (12 cards, min=32 max=44 avg=9.67)
-----------------------------------------
-4x Anneke  10  AUS CEL PRE dom          justicar        Toreador:1
-4x Anson   8   CEL PRE aus dom          prince          Toreador:1
-3x Leandro 11  AUS OBF PRE cel dom      inner circle    Malkavian:2
-1x Arika   11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
+Crypt (12 cards, min=32, max=44, avg=9.67)
+------------------------------------------
+4x Anneke   10  AUS CEL PRE dom          justicar      Toreador:1
+4x Anson     8  CEL PRE aus dom          prince        Toreador:1
+3x Leandro  11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Arika    11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
 
 Library (86 cards)
 Master (26)

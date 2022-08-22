@@ -13,12 +13,12 @@ and to stop prey running away with the game. 2x Heart of Cheating to ensure you 
 it and other equipment late game. Dragonbound works really well as a finisher with minimal
 negative effect. Based on a deck by Martin Schumacher.
 
-Crypt (12 cards, min=44 max=44 avg=11)
---------------------------------------
-5x Saulot, The Wanderer    11  AUS FOR OBE THA VAL dai  Salubri:4
-3x Capuchin, The           11  AUS DOM FOR NEC THA THN  Harbinger of Skulls:5
-2x Baba Yaga, The Iron Hag 11  ANI AUS FOR OBF POT THA  Nosferatu:5
-2x Dracon, The             11  ANI AUS POT THA VIC      Tzimisce:5
+Crypt (12 cards, min=44, max=44, avg=11)
+----------------------------------------
+5x Saulot, The Wanderer     11  AUS FOR OBE THA VAL dai  Salubri:4
+3x Capuchin, The            11  AUS DOM FOR NEC THA THN  Harbinger of Skulls:5
+2x Baba Yaga, The Iron Hag  11  ANI AUS FOR OBF POT THA  Nosferatu:5
+2x Dracon, The              11  ANI AUS POT THA VIC      Tzimisce:5
 
 Library (88 cards)
 Master (20; 9 trifle)

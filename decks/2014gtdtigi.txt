@@ -10,14 +10,14 @@ Deck Name: Stanislava and some strange friends..
 
 Description: My version of a Stanislava deck, some slots are just to play better in the italian metagame.
 
-Crypt (12 cards, min=38 max=44 avg=10.33)
------------------------------------------
-5x Stanislava              11  ANI CEL DOM FOR PRO      inner circle    Gangrel:2
-2x Angus the Unruled       10  ANI PRO cel for pot      justicar        Gangrel:1
-2x Ingrid Rossler          9   ANI FOR PRO dom          prince          Gangrel:2
-1x Etrius                  11  AUS DOM OBF THA pro      inner circle    Tremere:2
-1x Don Cruez, The Idealist 10  CEL POT PRE ani dom pro  justicar        Brujah:1
-1x Genevieve               10  ANI FOR PRO aus dom      priscus         Gangrel antitribu:2
+Crypt (12 cards, min=38, max=44, avg=10.33)
+-------------------------------------------
+5x Stanislava               11  ANI CEL DOM FOR PRO      inner circle  Gangrel:2
+2x Angus the Unruled        10  ANI PRO cel for pot      justicar      Gangrel:1
+2x Ingrid Rossler            9  ANI FOR PRO dom          prince        Gangrel:2
+1x Etrius                   11  AUS DOM OBF THA pro      inner circle  Tremere:2
+1x Don Cruez, The Idealist  10  CEL POT PRE ani dom pro  justicar      Brujah:1
+1x Genevieve                10  ANI FOR PRO aus dom      priscus       Gangrel antitribu:2
 
 Library (90 cards)
 Master (26; 7 trifle)

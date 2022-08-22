@@ -12,18 +12,18 @@ Deck Name: Deep Shoes
 Bleed opponent and grind down their minion with Deep Song and
 Horse Shoes then eventually drop Dragonbound for the oust.
 
-Crypt (12 cards, min=25 max=39 avg=8.17)
-----------------------------------------
-2x Cock Robin                   10  ANI OBF POT aus for  justicar       Nosferatu:3
-2x Khalid                       9   ANI AUS OBF POT tha  primogen       Nosferatu:3
-1x Cailean                      10  ANI OBF POT PRE dom  archbishop     Nosferatu antitribu:2
-1x Casino Reeds                 9   ANI OBF POT cel dem  prince         Nosferatu:3
-1x Calebos                      8   ANI OBF POT cel      bishop         Nosferatu antitribu:2
-1x Tammy Walenski               8   ANI OBF POT nec tha                 Nosferatu:3
-1x Kendrick                     7   ANI POT aus obf      priscus        Nosferatu antitribu:2
-1x Teresita, The Godmother      7   ANI OBF POT for                     Nosferatu antitribu:3
-1x Gerard Rafin                 6   OBF POT ani for                     Nosferatu:3
-1x Amelia, The Blood Red Tears  5   POT ani obf                         Nosferatu:3
+Crypt (12 cards, min=25, max=39, avg=8.17)
+------------------------------------------
+2x Cock Robin                   10  ANI OBF POT aus for  justicar    Nosferatu:3
+2x Khalid                        9  ANI AUS OBF POT tha  primogen    Nosferatu:3
+1x Cailean                      10  ANI OBF POT PRE dom  archbishop  Nosferatu antitribu:2
+1x Casino Reeds                  9  ANI OBF POT cel dem  prince      Nosferatu:3
+1x Calebos                       8  ANI OBF POT cel      bishop      Nosferatu antitribu:2
+1x Tammy Walenski                8  ANI OBF POT nec tha              Nosferatu:3
+1x Kendrick                      7  ANI POT aus obf      priscus     Nosferatu antitribu:2
+1x Teresita, The Godmother       7  ANI OBF POT for                  Nosferatu antitribu:3
+1x Gerard Rafin                  6  OBF POT ani for                  Nosferatu:3
+1x Amelia, The Blood Red Tears   5  POT ani obf                      Nosferatu:3
 
 Library (83 cards)
 Master (9)

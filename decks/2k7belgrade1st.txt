@@ -23,14 +23,14 @@ The dack itself needs some tweaking and these are potential changes:
 I have never influenced Blanche and she will probably be replaced with
 Samson and Lana Bucher.
 
-Crypt (12 cards, min=22 max=31 avg=6.75)
-----------------------------------------
-4x Matthias                     7   AUS FOR OBE nec      Salubri:2
-3x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre  Ventrue antitribu:3
-2x Blanche Hill                 6   FOR OBE aus          Salubri:2
-1x Blackhorse Tanner            7   AUS DOM FOR          Ventrue antitribu:3
-1x Vanessa                      6   DOM FOR aus pre      Ventrue antitribu:2
-1x Ingrid Russo                 4   DOM for              Ventrue antitribu:2
+Crypt (12 cards, min=22, max=31, avg=6.75)
+------------------------------------------
+4x Matthias                   7  AUS FOR OBE nec      Salubri:2
+3x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre  Ventrue antitribu:3
+2x Blanche Hill               6  FOR OBE aus          Salubri:2
+1x Blackhorse Tanner          7  AUS DOM FOR          Ventrue antitribu:3
+1x Vanessa                    6  DOM FOR aus pre      Ventrue antitribu:2
+1x Ingrid Russo               4  DOM for              Ventrue antitribu:2
 
 Library (90 cards)
 Master (14)

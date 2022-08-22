@@ -11,17 +11,17 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/1ODMzKLxUx8/m/bjA-Z3
 Anti-Brujah Kill! Kill! Kill! deck ("It Kill-kill-kills you
 until you are dead-dead-dead."):
 
-Crypt (13 cards, min=13 max=29 avg=5.08)
-----------------------------------------
-2x Richter, The Templar of Du Mont      7   CEL POT for pre             Brujah antitribu:2
-2x Rigby, Crusade Vanguard              5   CEL PRE aus pot             Brujah antitribu:2
-2x Jimmy Dunn                           4   CEL POT for                 Pander:2
-2x Jacob Bragg                          3   cel pot                     Brujah antitribu:2
-1x Jacko                                8   CEL POT PRE obt             Brujah antitribu:2
-1x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
-1x Sela                                 6   POT PRE cel obt     bishop  Brujah antitribu:2
-1x Hugo                                 4   POT pre vic                 Brujah antitribu:2
-1x Sarah Brando                         3   CEL                         Brujah antitribu:2
+Crypt (13 cards, min=13, max=29, avg=5.08)
+------------------------------------------
+2x Richter, The Templar of Du Mont    7  CEL POT for pre          Brujah antitribu:2
+2x Rigby, Crusade Vanguard            5  CEL PRE aus pot          Brujah antitribu:2
+2x Jimmy Dunn                         4  CEL POT for              Pander:2
+2x Jacob Bragg                        3  cel pot                  Brujah antitribu:2
+1x Jacko                              8  CEL POT PRE obt          Brujah antitribu:2
+1x Beast, The Leatherface of Detroit  7  OBF POT ani cel          Nosferatu antitribu:2
+1x Sela                               6  POT PRE cel obt  bishop  Brujah antitribu:2
+1x Hugo                               4  POT pre vic              Brujah antitribu:2
+1x Sarah Brando                       3  CEL                      Brujah antitribu:2
 
 Library (80 cards)
 Master (11)

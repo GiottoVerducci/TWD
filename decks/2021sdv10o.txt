@@ -10,18 +10,18 @@ https://www.vekn.net/event-calendar/event/9842
 
 Deck Name: Desso delicia
 Author: Fernando Oliveira
-Crypt (12 cards, min=18 max=28 avg=5.67)
-----------------------------------------
-2x Dame Hollerton        5   DOM OBT myt                  Kiasyd:4
-2x Ermenegildo, The Rake 5   DOM OBT pot                  Lasombra:4
-1x Conrad Adoula         8   DOM OBT POT ani cel          Lasombra:4
-1x Henri Lavenant        7   DOM OBT pot qui              Lasombra:3
-1x Tobias Smith          7   DOM OBT PRE pot              Lasombra:3
-1x Isanwayen             6   DOM MYT OBT                  Kiasyd:4
-1x Onaedo                6   DOM OBT aus pot              Lasombra:4
-1x Virginie, Prodigy     6   DOM POT obt          bishop  Lasombra:4
-1x Banjoko               5   DOM obt pot                  Lasombra:3
-1x Lucy Markowitz        3   dom obt                      Lasombra:4
+Crypt (12 cards, min=18, max=28, avg=5.67)
+------------------------------------------
+2x Dame Hollerton         5  DOM OBT myt                  Kiasyd:4
+2x Ermenegildo, The Rake  5  DOM OBT pot                  Lasombra:4
+1x Conrad Adoula          8  DOM OBT POT ani cel          Lasombra:4
+1x Henri Lavenant         7  DOM OBT pot qui              Lasombra:3
+1x Tobias Smith           7  DOM OBT PRE pot              Lasombra:3
+1x Isanwayen              6  DOM MYT OBT                  Kiasyd:4
+1x Onaedo                 6  DOM OBT aus pot              Lasombra:4
+1x Virginie, Prodigy      6  DOM POT obt          bishop  Lasombra:4
+1x Banjoko                5  DOM obt pot                  Lasombra:3
+1x Lucy Markowitz         3  dom obt                      Lasombra:4
 
 Library (90 cards)
 Master (16; 3 trifle)

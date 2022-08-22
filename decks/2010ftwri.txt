@@ -47,15 +47,15 @@ from my predator while I turn my defense into offense.
 I would certainly entertain the possibility of cutting some STSW
 for more 2nd Traditions.
 
-Crypt (12 cards, min=18 max=36 avg=6.83)
-----------------------------------------
-5x Casino Reeds                 9   ANI OBF POT cel dem  prince  Nosferatu:3
-2x Nikolaus Vermeulen           7   POT ani for obf      prince  Nosferatu:2
-1x Amelia, The Blood Red Tears  5   POT ani obf                  Nosferatu:3
-1x Calebros, The Martyr         5   ANI obf pot          prince  Nosferatu:2
-1x Nigel the Shunned            5   ANI POT obf                  Nosferatu antitribu:2
-1x Agatha                       4   POT obf                      Nosferatu antitribu:2
-1x Jimmy Dunn                   4   CEL POT for                  Pander:2
+Crypt (12 cards, min=18, max=36, avg=6.83)
+------------------------------------------
+5x Casino Reeds                 9  ANI OBF POT cel dem  prince  Nosferatu:3
+2x Nikolaus Vermeulen           7  POT ani for obf      prince  Nosferatu:2
+1x Amelia, The Blood Red Tears  5  POT ani obf                  Nosferatu:3
+1x Calebros, The Martyr         5  ANI obf pot          prince  Nosferatu:2
+1x Nigel the Shunned            5  ANI POT obf                  Nosferatu antitribu:2
+1x Agatha                       4  POT obf                      Nosferatu antitribu:2
+1x Jimmy Dunn                   4  CEL POT for                  Pander:2
 
 Library (90 cards)
 Master (14)

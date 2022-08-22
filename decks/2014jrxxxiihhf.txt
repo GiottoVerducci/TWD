@@ -8,12 +8,12 @@ https://www.vekn.net/event-calendar/event/7873
 
 Deck Name: Kirkonrottia ja muita uskonnollisia juttuja
 
-Crypt (12 cards, min=4 max=20 avg=2.58)
----------------------------------------
-7x Tupdog                       1   POT VIS      Gargoyle:3
-3x Travis "Traveler72" Miller   5   def mar      Martyr:4
-1x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-1x Jennifer "Flame61" Vidisania 4   ven viz      Avenger:4
+Crypt (12 cards, min=4, max=20, avg=2.58)
+-----------------------------------------
+7x Tupdog                        1  POT VIS      Gargoyle:3
+3x Travis "Traveler72" Miller    5  def mar      Martyr:4
+1x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+1x Jennifer "Flame61" Vidisania  4  ven viz      Avenger:4
 
 Library (62 cards)
 Master (9)

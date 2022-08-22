@@ -6,16 +6,16 @@ Robert Goudie
 Arguably the most dominant tournament deck to ever be played in Los Angeles.
 Enjoy the deck - just don't play it against me at any tournaments.
 
-Crypt (13 cards, min=6 max=11 avg=2.08)
----------------------------------------
-2x Christine Boscacci   2   dom vic     Pander:2
-2x Mustafa Rahman       2   dom         Tremere:2
-2x Ohanna               2   dom         Malkavian:2
-2x Samson               2   dom         Ventrue antitribu:2
-2x Royce                1   dom         Pander:2
-1x Brooke               3   dom tha     Tremere antitribu:2
-1x Cameron              3   dom pot     Lasombra:2
-1x Jing Wei             3   dom tha     Tremere:1
+Crypt (13 cards, min=6, max=11, avg=2.08)
+-----------------------------------------
+2x Christine Boscacci  2  dom vic  Pander:2
+2x Mustafa Rahman      2  dom      Tremere:2
+2x Ohanna              2  dom      Malkavian:2
+2x Samson              2  dom      Ventrue antitribu:2
+2x Royce               1  dom      Pander:2
+1x Brooke              3  dom tha  Tremere antitribu:2
+1x Cameron             3  dom pot  Lasombra:2
+1x Jing Wei            3  dom tha  Tremere:1
 
 Library (90 cards)
 Master (24)

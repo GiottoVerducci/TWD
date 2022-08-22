@@ -13,18 +13,18 @@ to draw it early, you know"
 "Virginie prodigy is crap because she can't become anarch, you know"
 "I play many cards that are useless against Imbued, you know"
 
-Crypt (12 cards, min=12 max=29 avg=5.17)
-----------------------------------------
-2x Conrad Adoula            8   DOM OBT POT ani cel             Lasombra:4
-2x Leila Monroe             4   dom obt pre                     Lasombra:4
-1x Henri Lavenant           7   DOM OBT pot qui                 Lasombra:3
-1x Onaedo                   6   DOM OBT aus pot                 Lasombra:4
-1x Virginie, Prodigy        6   DOM POT obt             bishop  Lasombra:4
-1x Banjoko                  5   DOM obt pot                     Lasombra:3
-1x Dr. Julius Sutphen (ADV) 5   POT dom obt                     Lasombra:3
-1x Ermenegildo, The Rake    5   DOM OBT pot                     Lasombra:4
-1x Lucy Markowitz           3   dom obt                         Lasombra:4
-1x Margarite                1   obt                             Pander:4
+Crypt (12 cards, min=12, max=29, avg=5.17)
+------------------------------------------
+2x Conrad Adoula             8  DOM OBT POT ani cel          Lasombra:4
+2x Leila Monroe              4  dom obt pre                  Lasombra:4
+1x Henri Lavenant            7  DOM OBT pot qui              Lasombra:3
+1x Onaedo                    6  DOM OBT aus pot              Lasombra:4
+1x Virginie, Prodigy         6  DOM POT obt          bishop  Lasombra:4
+1x Banjoko                   5  DOM obt pot                  Lasombra:3
+1x Dr. Julius Sutphen (ADV)  5  POT dom obt                  Lasombra:3
+1x Ermenegildo, The Rake     5  DOM OBT pot                  Lasombra:4
+1x Lucy Markowitz            3  dom obt                      Lasombra:4
+1x Margarite                 1  obt                          Pander:4
 
 Library (80 cards)
 Master (14; 4 trifle)

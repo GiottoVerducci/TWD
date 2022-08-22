@@ -9,18 +9,18 @@ Deck Name: Old School Beats
 CEL/pot rush. Jimmy and Bianca are the stars, and Volker should
 probably be a second Bianca.
 
-Crypt (12 cards, min=15 max=23 avg=4.67)
-----------------------------------------
-2x Rigby, Crusade Vanguard      5   CEL PRE aus pot             Brujah antitribu:2
-2x Jimmy Dunn                   4   CEL POT for                 Pander:2
-1x Bianca                       6   CEL pot pre                 Brujah:1
-1x Julian Sanders               6   CEL PRE pot                 Brujah antitribu:2
-1x Sela                         6   POT PRE cel obt     bishop  Brujah antitribu:2
-1x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-1x Evangeline                   4   cel pot pre                 Brujah antitribu:2
-1x Hugo                         4   POT pre vic                 Brujah antitribu:2
-1x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
-1x Jacob Bragg                  3   cel pot                     Brujah antitribu:2
+Crypt (12 cards, min=15, max=23, avg=4.67)
+------------------------------------------
+2x Rigby, Crusade Vanguard    5  CEL PRE aus pot          Brujah antitribu:2
+2x Jimmy Dunn                 4  CEL POT for              Pander:2
+1x Bianca                     6  CEL pot pre              Brujah:1
+1x Julian Sanders             6  CEL PRE pot              Brujah antitribu:2
+1x Sela                       6  POT PRE cel obt  bishop  Brujah antitribu:2
+1x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+1x Evangeline                 4  cel pot pre              Brujah antitribu:2
+1x Hugo                       4  POT pre vic              Brujah antitribu:2
+1x Victor Tolliver            4  CEL pot                  Brujah antitribu:2
+1x Jacob Bragg                3  cel pot                  Brujah antitribu:2
 
 Library (90 cards)
 Master (13)

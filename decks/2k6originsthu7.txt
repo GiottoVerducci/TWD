@@ -14,16 +14,16 @@ your prey in check if you're a slowly developing deck, and it works to great
 effect here, and the Neighborhood Watch Commanders can really take their toll.
 Over the course of the tournament at Origins, I managed to steal Arika twice!
 
-Crypt (12 cards, min=14 max=32 avg=5.75)
-----------------------------------------
-5x Howler               8   ANI PRE SPI obf     Ahrimane:2
-1x Hesha Ruhadze        6   SER ani obf pre     Follower of Set:2
-1x Sir Marriot D'Urban  5   PRE aus obf ser     Follower of Set:2
-1x Hadrian Garrick      4   obf pre             Follower of Set:2
-1x Nepata               4   obf pre ser         Follower of Set:2
-1x Tock                 4   obf pot pre         Nosferatu antitribu:3
-1x Celine Chevalier     3   obf ser             Follower of Set:2
-1x Lena Rowe            3   aus obf pre         Pander:2
+Crypt (12 cards, min=14, max=32, avg=5.75)
+------------------------------------------
+5x Howler               8  ANI PRE SPI obf  Ahrimane:2
+1x Hesha Ruhadze        6  SER ani obf pre  Follower of Set:2
+1x Sir Marriot D'Urban  5  PRE aus obf ser  Follower of Set:2
+1x Hadrian Garrick      4  obf pre          Follower of Set:2
+1x Nepata               4  obf pre ser      Follower of Set:2
+1x Tock                 4  obf pot pre      Nosferatu antitribu:3
+1x Celine Chevalier     3  obf ser          Follower of Set:2
+1x Lena Rowe            3  aus obf pre      Pander:2
 
 Library (89 cards)
 Master (11)

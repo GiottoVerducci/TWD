@@ -9,11 +9,11 @@ Deck Name: Reckless Ssssssssnakes of Sirius
 
 Description: No need ;-)
 
-Crypt (12 cards, min=16 max=40 avg=7.67)
-----------------------------------------
-4x Nakhthorheb    10  OBF PRE SER                        Follower of Set:4
-4x Neferu         9   OBF PRE SER THA dom nec   2 votes  Follower of Set:4
-4x Michael Luther 4   aus pre                            Toreador:3
+Crypt (12 cards, min=16, max=40, avg=7.67)
+------------------------------------------
+4x Nakhthorheb     10  OBF PRE SER                       Follower of Set:4
+4x Neferu           9  OBF PRE SER THA dom nec  2 votes  Follower of Set:4
+4x Michael Luther   4  aus pre                           Toreador:3
 
 Library (85 cards)
 Master (18)

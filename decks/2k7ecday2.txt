@@ -7,16 +7,16 @@ Ferenc Vasadi
 
 Deck Name: EC day2 - 1st place
 
-Crypt (12 cards, min=12 max=43 avg=7.25)
-----------------------------------------
-3x Alexandra                    11  ANI AUS CEL PRE dom         inner circle    Toreador:2
-2x Madame Guil                  10  AUS CEL PRE for pot ser     justicar        Toreador:3
-2x Fleurdumal                   8   AUS DEM PRE cel tha         prince          Toreador:3
-1x Antoinette, She Who Watches  6   AUS PRE cel obf             primogen        Toreador:3
-1x Michael Luther               4   aus pre                                     Toreador:3
-1x Isabel de Leon               3   AUS                                         Toreador:2
-1x Yvette, The Hopeless         3   aus cel                                     Toreador:3
-1x Emerson Wilkershire III      2   pre                                         Toreador:3
+Crypt (12 cards, min=12, max=43, avg=7.25)
+------------------------------------------
+3x Alexandra                    11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+2x Madame Guil                  10  AUS CEL PRE for pot ser  justicar      Toreador:3
+2x Fleurdumal                    8  AUS DEM PRE cel tha      prince        Toreador:3
+1x Antoinette, She Who Watches   6  AUS PRE cel obf          primogen      Toreador:3
+1x Michael Luther                4  aus pre                                Toreador:3
+1x Isabel de Leon                3  AUS                                    Toreador:2
+1x Yvette, The Hopeless          3  aus cel                                Toreador:3
+1x Emerson Wilkershire III       2  pre                                    Toreador:3
 
 Library (90 cards)
 Master (18)

@@ -9,12 +9,12 @@ Deck Name: Vintage Multimaster
 
 Description: Multi master deck with old fashioned crypt
 
-Crypt (12 cards, min=37 max=44 avg=10.25)
------------------------------------------
-3x Arika           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
-3x Leandro         11  AUS OBF PRE cel dom      inner circle    Malkavian:2
-3x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE                  Baali:2
-3x Maris Streck    9   AUS OBF ani dem dom      justicar        Malkavian:3
+Crypt (12 cards, min=37, max=44, avg=10.25)
+-------------------------------------------
+3x Arika            11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Leandro          11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+3x Huitzilopochtli  10  AUS DAI DOM OBF POT PRE                Baali:2
+3x Maris Streck      9  AUS OBF ani dem dom      justicar      Malkavian:3
 
 Library (89 cards)
 Master (46; 8 trifle)

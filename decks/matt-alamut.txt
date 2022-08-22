@@ -7,18 +7,18 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/D-w5Ck4_cTM
 
 Matt Green's Alamut Vote Deck -- Portsmouth tournament 20/ii/99 Report.
 
-Crypt (12 cards, min=12 max=26 avg=4.5)
----------------------------------------
-2x Mariana Gilbert  4   PRE cel                 Toreador:1
-2x Tansu Bekir      4   OBF cel                 Assamite:2
-1x Husamettin       8   CEL OBF QUI pot pre     Assamite:2
-1x Melek            7   OBF QUI cel pre         Assamite:2
-1x Kalinda          6   CEL OBF tha             Assamite:2
-1x Ramiel DuPre     5   PRE aus cel dom         Toreador:1
-1x Demetrius Slater 4   aus cel pre             Toreador:1
-1x Lena Rowe        3   aus obf pre             Pander:2
-1x Watenda          3   obf                     Malkavian:2
-1x Delilah Easton   2   pre                     Toreador:1
+Crypt (12 cards, min=12, max=26, avg=4.5)
+-----------------------------------------
+2x Mariana Gilbert   4  PRE cel              Toreador:1
+2x Tansu Bekir       4  OBF cel              Assamite:2
+1x Husamettin        8  CEL OBF QUI pot pre  Assamite:2
+1x Melek             7  OBF QUI cel pre      Assamite:2
+1x Kalinda           6  CEL OBF tha          Assamite:2
+1x Ramiel DuPre      5  PRE aus cel dom      Toreador:1
+1x Demetrius Slater  4  aus cel pre          Toreador:1
+1x Lena Rowe         3  aus obf pre          Pander:2
+1x Watenda           3  obf                  Malkavian:2
+1x Delilah Easton    2  pre                  Toreador:1
 
 Library (91 cards)
 Master (18)

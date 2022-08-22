@@ -20,16 +20,16 @@ All you need to do is to decide which players you can afford to lose
 and which you can give VP's to. Then just look at your top five cards,
 shuffle them and play.
 
-Crypt (12 cards, min=15 max=32 avg=6.08)
-----------------------------------------
-5x Anatole, Prophet of Gehenna  8   AUS DEM OBF dom for  Malkavian:2
-1x Dancin' Dana                 6   AUS cel obf          Malkavian:1
-1x Ozmo                         6   AUS dom obf          Malkavian:1
-1x Quira, The Bitch Queen       6   AUS OBF obt tha      Malkavian antitribu:2
-1x Victoria                     5   AUS cel obf          Malkavian:2
-1x Aleph                        4   AUS dom              Malkavian:1
-1x Watenda                      3   obf                  Malkavian:2
-1x Zöe                          3   AUS cel obf          Malkavian:2
+Crypt (12 cards, min=15, max=32, avg=6.08)
+------------------------------------------
+5x Anatole, Prophet of Gehenna  8  AUS DEM OBF dom for  Malkavian:2
+1x Dancin' Dana                 6  AUS cel obf          Malkavian:1
+1x Ozmo                         6  AUS dom obf          Malkavian:1
+1x Quira, The Bitch Queen       6  AUS OBF obt tha      Malkavian antitribu:2
+1x Victoria                     5  AUS cel obf          Malkavian:2
+1x Aleph                        4  AUS dom              Malkavian:1
+1x Watenda                      3  obf                  Malkavian:2
+1x Zöe                          3  AUS cel obf          Malkavian:2
 
 Library (90 cards)
 Master (24)

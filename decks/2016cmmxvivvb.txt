@@ -8,19 +8,19 @@ https://www.vekn.net/event-calendar/event/8538
 
 Deck Name: Tremedeira
 
-Crypt (12 cards, min=16 max=30 avg=6)
--------------------------------------
-2x Carna, The Princess Witch    7   AUS DOM THA         primogen    Tremere:3
-1x Ian Forestal                 8   AUS DOM THA                     Tremere antitribu:2
-1x Kij Dansky                   8   AUS DOM THA obt     priscus     Tremere antitribu:2
-1x Bryan Van Duesen             7   DOM THA aus pre                 Tremere antitribu:2
-1x Ladislas Toth, The Torch     7   AUS DOM THA for     archbishop  Tremere antitribu:3
-1x Reverend Blackwood           6   DOM THA obf         bishop      Tremere antitribu:2
-1x Selena                       6   AUS DOM THA                     Tremere antitribu:3
-1x Aisling Sturbridge           5   AUS THA dom                     Tremere:2
-1x Hannigan                     5   AUS THA dom                     Tremere antitribu:2
-1x Brooke                       3   dom tha                         Tremere antitribu:2
-1x Ehrich Weiss                 3   dom tha                         Tremere:3
+Crypt (12 cards, min=16, max=30, avg=6)
+---------------------------------------
+2x Carna, The Princess Witch  7  AUS DOM THA      primogen    Tremere:3
+1x Ian Forestal               8  AUS DOM THA                  Tremere antitribu:2
+1x Kij Dansky                 8  AUS DOM THA obt  priscus     Tremere antitribu:2
+1x Bryan Van Duesen           7  DOM THA aus pre              Tremere antitribu:2
+1x Ladislas Toth, The Torch   7  AUS DOM THA for  archbishop  Tremere antitribu:3
+1x Reverend Blackwood         6  DOM THA obf      bishop      Tremere antitribu:2
+1x Selena                     6  AUS DOM THA                  Tremere antitribu:3
+1x Aisling Sturbridge         5  AUS THA dom                  Tremere:2
+1x Hannigan                   5  AUS THA dom                  Tremere antitribu:2
+1x Brooke                     3  dom tha                      Tremere antitribu:2
+1x Ehrich Weiss               3  dom tha                      Tremere:3
 
 Library (90 cards)
 Master (19; 7 trifle)

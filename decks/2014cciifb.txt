@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/7616
 
 Deck Name: The World is Mine
 
-Crypt (12 cards, min=23 max=40 avg=8.58)
-----------------------------------------
-4x Jann Berger     10  CEL POT PRE dem for  prince      Brujah:4
-4x Jaroslav Pascek 10  CEL POT PRE for obf  justicar    Brujah:3
-2x Pug Jackson     6   CEL POT for pre      primogen    Brujah:3
-1x Maxwell         9   CEL FOR POT PRE PRO              Brujah:3
-1x Clifton Derrik  2   cel                              Brujah:4
+Crypt (12 cards, min=23, max=40, avg=8.58)
+------------------------------------------
+4x Jann Berger      10  CEL POT PRE dem for  prince    Brujah:4
+4x Jaroslav Pascek  10  CEL POT PRE for obf  justicar  Brujah:3
+2x Pug Jackson       6  CEL POT for pre      primogen  Brujah:3
+1x Maxwell           9  CEL FOR POT PRE PRO            Brujah:3
+1x Clifton Derrik    2  cel                            Brujah:4
 
 Library (90 cards)
 Master (18; 6 trifle)

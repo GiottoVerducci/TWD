@@ -22,18 +22,18 @@ end if
 end case
 Wend
 
-Crypt (12 cards, min=8 max=17 avg=3.17)
----------------------------------------
-2x Salbatore Bokkengro          4   CHI for pro         Ravnos:2
-2x Sasha Miklos                 2   chi                 Ravnos:2
-1x Khalil Ravana                5   CHI ani for pre     Ravnos:2
-1x Anka, Priestess of Thorns    4   ani chi pro         Ravnos:2
-1x Sennuwy, The Promoter        4   ani chi for         Ravnos:2
-1x Lázár Dobrescu               3   for                 Ravnos:2
-1x Tsigane                      3   aus chi             Ravnos:2
-1x Vedel Esbreno                3   chi for             Ravnos:2
-1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
-1x Zip                          2   ani                 Ravnos:3
+Crypt (12 cards, min=8, max=17, avg=3.17)
+-----------------------------------------
+2x Salbatore Bokkengro         4  CHI for pro      Ravnos:2
+2x Sasha Miklos                2  chi              Ravnos:2
+1x Khalil Ravana               5  CHI ani for pre  Ravnos:2
+1x Anka, Priestess of Thorns   4  ani chi pro      Ravnos:2
+1x Sennuwy, The Promoter       4  ani chi for      Ravnos:2
+1x Lázár Dobrescu              3  for              Ravnos:2
+1x Tsigane                     3  aus chi          Ravnos:2
+1x Vedel Esbreno               3  chi for          Ravnos:2
+1x Spleen, Georgio Gutterpunk  2  ani chi          Ravnos:2
+1x Zip                         2  ani              Ravnos:3
 
 Library (89 cards)
 Master (10)

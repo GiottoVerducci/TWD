@@ -8,15 +8,15 @@ Deck Name: Egyptian Gangrels
 
 Based on a deck by Gabriel Ron
 
-Crypt (12 cards, min=14 max=30 avg=5.33)
-----------------------------------------
-3x Nadima               8   FOR PRO SER ani aus  Gangrel:3
-3x Mirembe Kabbada      5   PRO SER ani          Gangrel:2
-2x Chandler Hungerford  3   PRO                  Gangrel:2
-1x Horrock              6   ANI PRO vic          Gangrel:3
-1x Dr. Allan Woodstock  5   PRO ani aus for      Gangrel:3
-1x Daliyah              4   PRO obf              Nosferatu:2
-1x Ramona (ADV)         4   for pro              Gangrel:2
+Crypt (12 cards, min=14, max=30, avg=5.33)
+------------------------------------------
+3x Nadima               8  FOR PRO SER ani aus  Gangrel:3
+3x Mirembe Kabbada      5  PRO SER ani          Gangrel:2
+2x Chandler Hungerford  3  PRO                  Gangrel:2
+1x Horrock              6  ANI PRO vic          Gangrel:3
+1x Dr. Allan Woodstock  5  PRO ani aus for      Gangrel:3
+1x Daliyah              4  PRO obf              Nosferatu:2
+1x Ramona (ADV)         4  for pro              Gangrel:2
 
 Library (76 cards)
 Master (16; 5 trifle)

@@ -26,13 +26,13 @@ So in advance some changes to the below deck.
  +1 Aire of Elations: I thought it was already in the deck but I guess I forgot to include it.
  -1 Masika, +1 Francois Villon: Masika was never on the table, but it feels like Francois is stronger in this type of deck. His ability emptied a Dominate vampire and caused an oust.
 
-Crypt (12 cards, min=32 max=44 avg=9.67)
-----------------------------------------
-4x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
-4x Anson           8   CEL PRE aus dom          prince          Toreador:1
-2x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
-1x Masika          10  AUS CEL PRE              primogen        Toreador:1
+Crypt (12 cards, min=32, max=44, avg=9.67)
+------------------------------------------
+4x Alexandra        11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+4x Anson             8  CEL PRE aus dom          prince        Toreador:1
+2x Anneke           10  AUS CEL PRE dom          justicar      Toreador:1
+1x François Villon  10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Masika           10  AUS CEL PRE              primogen      Toreador:1
 
 Library (87 cards)
 Master (33; 8 trifle)

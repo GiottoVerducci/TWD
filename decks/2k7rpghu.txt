@@ -8,16 +8,16 @@ Created by: Gyula Erdõs
 
 Deck: Provisions of Thetmes
 
-Crypt (12 cards, min=8 max=40 avg=5.5)
---------------------------------------
-4x Thetmes, Caliph of Alamut       10  CEL OBF QUI dom pot  2 votes     Assamite:2
-2x Badr al-Budur                   5   OBF cel dom qui                  Assamite:2
-1x Gloria Giovanni                 4   DOM nec                          Giovanni:2
-1x Ingrid Russo                    4   DOM for                          Ventrue antitribu:2
-1x Marciana Giovanni, Investigator 2   dom                              Giovanni:2
-1x Mustafa Rahman                  2   dom                              Tremere:2
-1x Ohanna                          2   dom                              Malkavian:2
-1x Samson                          2   dom                              Ventrue antitribu:2
+Crypt (12 cards, min=8, max=40, avg=5.5)
+----------------------------------------
+4x Thetmes, Caliph of Alamut        10  CEL OBF QUI dom pot  2 votes  Assamite:2
+2x Badr al-Budur                     5  OBF cel dom qui               Assamite:2
+1x Gloria Giovanni                   4  DOM nec                       Giovanni:2
+1x Ingrid Russo                      4  DOM for                       Ventrue antitribu:2
+1x Marciana Giovanni, Investigator   2  dom                           Giovanni:2
+1x Mustafa Rahman                    2  dom                           Tremere:2
+1x Ohanna                            2  dom                           Malkavian:2
+1x Samson                            2  dom                           Ventrue antitribu:2
 
 Library (89 cards)
 Master (23)

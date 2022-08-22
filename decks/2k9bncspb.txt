@@ -6,19 +6,19 @@ Fernando Cesar
 
 Deck Name: Tremere Bleed
 
-Crypt (12 cards, min=17 max=28 avg=5.75)
-----------------------------------------
-1x Valerius Maior, Hell's Fool          7   AUS DAI DOM THA nec pre                 Tremere:4
-1x Valerius Maior, Hell's Fool (ADV)    7   AUS DAI DOM THA nec pre                 Tremere antitribu:4
-2x Selena                               6   AUS DOM THA                             Tremere antitribu:3
-1x Carna, The Princess Witch            7   AUS DOM THA                 primogen    Tremere:3
-1x Ladislas Toth, The Torch             7   AUS DOM THA for             archbishop  Tremere antitribu:3
-1x Jefferson Foster                     6   AUS DOM for tha             bishop      Ventrue antitribu:4
-1x Muhsin Samir                         6   DOM THA aus pot                         Tremere:4
-1x Valois Sang, The Watcher             6   AUS DOM nec tha                         Tremere:3
-1x Cohn Rose                            5   THA aus dom pre                         Tremere:3
-1x Ehrich Weiss                         3   dom tha                                 Tremere:3
-1x Keith Moody                          3   DOM                                     Tremere antitribu:4
+Crypt (12 cards, min=17, max=28, avg=5.75)
+------------------------------------------
+1x Valerius Maior, Hell's Fool        7  AUS DAI DOM THA nec pre              Tremere:4
+1x Valerius Maior, Hell's Fool (ADV)  7  AUS DAI DOM THA nec pre              Tremere antitribu:4
+2x Selena                             6  AUS DOM THA                          Tremere antitribu:3
+1x Carna, The Princess Witch          7  AUS DOM THA              primogen    Tremere:3
+1x Ladislas Toth, The Torch           7  AUS DOM THA for          archbishop  Tremere antitribu:3
+1x Jefferson Foster                   6  AUS DOM for tha          bishop      Ventrue antitribu:4
+1x Muhsin Samir                       6  DOM THA aus pot                      Tremere:4
+1x Valois Sang, The Watcher           6  AUS DOM nec tha                      Tremere:3
+1x Cohn Rose                          5  THA aus dom pre                      Tremere:3
+1x Ehrich Weiss                       3  dom tha                              Tremere:3
+1x Keith Moody                        3  DOM                                  Tremere antitribu:4
 
 Library (90 cards)
 Master (11; 2 trifle)

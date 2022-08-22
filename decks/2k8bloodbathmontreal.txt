@@ -7,14 +7,14 @@ Jean-François Lamothe
 
 Deck Name: Black Eyes V2
 
-Crypt (12 cards, min=18 max=26 avg=5.5)
----------------------------------------
-2x Kite                   7   AUS DEM obf pre   bishop  Malkavian antitribu:2
-2x Ingram Frizer          6   AUS OBF ani pot           Nosferatu antitribu:3
-2x Quira, The Bitch Queen 6   AUS OBF obt tha           Malkavian antitribu:2
-2x Colonel, The           5   AUS cel dem obf           Malkavian antitribu:3
-2x General Perfidio Díos  5   AUS dem obf       bishop  Malkavian antitribu:3
-2x Roger Farnsworth       4   OBF aus                   Malkavian antitribu:3
+Crypt (12 cards, min=18, max=26, avg=5.5)
+-----------------------------------------
+2x Kite                    7  AUS DEM obf pre  bishop  Malkavian antitribu:2
+2x Ingram Frizer           6  AUS OBF ani pot          Nosferatu antitribu:3
+2x Quira, The Bitch Queen  6  AUS OBF obt tha          Malkavian antitribu:2
+2x Colonel, The            5  AUS cel dem obf          Malkavian antitribu:3
+2x General Perfidio Díos   5  AUS dem obf      bishop  Malkavian antitribu:3
+2x Roger Farnsworth        4  OBF aus                  Malkavian antitribu:3
 
 Library (63 cards)
 Master (16; 4 trifle)

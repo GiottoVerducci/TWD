@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/9463
 
 Deck Name: Monty Burns
 
-Crypt (12 cards, min=32 max=44 avg=9.67)
-----------------------------------------
-4x Montano              11  ANI DOM FOR OBT POT  2 votes   Lasombra:3
-3x Bruce de Guy         10  AUS DOM FOR OBT      cardinal  Ventrue antitribu:4
-3x Marcus Vitel         10  DOM FOR OBF OBT PRE  prince    Ventrue:3
-2x Virginie, Prodigy    6   DOM POT obt          bishop    Lasombra:4
+Crypt (12 cards, min=32, max=44, avg=9.67)
+------------------------------------------
+4x Montano            11  ANI DOM FOR OBT POT  2 votes   Lasombra:3
+3x Bruce de Guy       10  AUS DOM FOR OBT      cardinal  Ventrue antitribu:4
+3x Marcus Vitel       10  DOM FOR OBF OBT PRE  prince    Ventrue:3
+2x Virginie, Prodigy   6  DOM POT obt          bishop    Lasombra:4
 
 Library (77 cards)
 Master (25; 6 trifle)

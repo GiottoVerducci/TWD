@@ -8,16 +8,16 @@ Bram Vink
 Winning player = Bram Vink
 Deck creator = Peter Bouwman
 
-Crypt (12 cards, min=23 max=33 avg=7)
--------------------------------------
-3x Greta Kircher        7   AUS CEL PRE obf                     Toreador antitribu:2
-2x Jessica (ADV)        8   AUS CEL OBT PRE      bishop         Toreador antitribu:2
-2x Jost Werner          6   AUS PRE ani                         Toreador antitribu:2
-1x Aristotle de Laurent 9   AUS DEM OBF PRE pot                 Malkavian antitribu:3
-1x Lachlan, Noddist     8   AUS CEL PRE dom      archbishop     Toreador antitribu:2
-1x Kite                 7   AUS DEM obf pre      bishop         Malkavian antitribu:2
-1x Sheila Mezarin       6   AUS PRE cel for                     Toreador antitribu:2
-1x Cristos Mantigo      5   aus cel dom obf pre                 Toreador antitribu:3
+Crypt (12 cards, min=23, max=33, avg=7)
+---------------------------------------
+3x Greta Kircher         7  AUS CEL PRE obf                  Toreador antitribu:2
+2x Jessica (ADV)         8  AUS CEL OBT PRE      bishop      Toreador antitribu:2
+2x Jost Werner           6  AUS PRE ani                      Toreador antitribu:2
+1x Aristotle de Laurent  9  AUS DEM OBF PRE pot              Malkavian antitribu:3
+1x Lachlan, Noddist      8  AUS CEL PRE dom      archbishop  Toreador antitribu:2
+1x Kite                  7  AUS DEM obf pre      bishop      Malkavian antitribu:2
+1x Sheila Mezarin        6  AUS PRE cel for                  Toreador antitribu:2
+1x Cristos Mantigo       5  aus cel dom obf pre              Toreador antitribu:3
 
 Library (90 cards)
 Master (20)

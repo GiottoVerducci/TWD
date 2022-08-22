@@ -7,13 +7,13 @@ http://calendar.yahoo.com/YYY,07992/srt,0/vtesrep?v=4&amp;t=1035018000&amp;i=119
 
 Deck Name: The Fratmen
 
-Crypt (12 cards, min=16 max=20 avg=4.67)
-----------------------------------------
-3x Jerry 5   SAN cel for pot      Blood Brother:2
-3x Larry 5   SAN dem for pot      Blood Brother:2
-2x Barry 5   ani for pot san vic  Blood Brother:2
-2x Terry 5   POT aus dom san      Blood Brother:2
-2x Tom   3   for pot san          Blood Brother:2
+Crypt (12 cards, min=16, max=20, avg=4.67)
+------------------------------------------
+3x Jerry  5  SAN cel for pot      Blood Brother:2
+3x Larry  5  SAN dem for pot      Blood Brother:2
+2x Barry  5  ani for pot san vic  Blood Brother:2
+2x Terry  5  POT aus dom san      Blood Brother:2
+2x Tom    3  for pot san          Blood Brother:2
 
 Library (89 cards)
 Master (11)

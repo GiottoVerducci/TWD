@@ -12,18 +12,18 @@ Monica Martins looooooong time ago. Changed by me several
 times over the years (Including Tzimisce, Auspex Module,
 War Ghouls, Vessels, etc.).
 
-Crypt (12 cards, min=9 max=22 avg=3.83)
----------------------------------------
-2x Caliban              6   ANI AUS VIC          Tzimisce:2
-2x Devin Bisley         5   ANI AUS vic          Tzimisce:2
-1x Calebros, The Martyr 5   ANI obf pot  prince  Nosferatu:2
-1x Bobby Lemon          4   ANI pro              Gangrel:3
-1x Clarissa Steinburgen 3   ani obf              Nosferatu:3
-1x Darva Felispa        3   ani pot              Nosferatu:3
-1x Wendy Wade           3   ani aus              Tzimisce:2
-1x Dani                 2   ani                  Nosferatu antitribu:2
-1x Gillian Krader       2   ani dem              Pander:2
-1x Mouse                2   ani                  Nosferatu:3
+Crypt (12 cards, min=9, max=22, avg=3.83)
+-----------------------------------------
+2x Caliban               6  ANI AUS VIC          Tzimisce:2
+2x Devin Bisley          5  ANI AUS vic          Tzimisce:2
+1x Calebros, The Martyr  5  ANI obf pot  prince  Nosferatu:2
+1x Bobby Lemon           4  ANI pro              Gangrel:3
+1x Clarissa Steinburgen  3  ani obf              Nosferatu:3
+1x Darva Felispa         3  ani pot              Nosferatu:3
+1x Wendy Wade            3  ani aus              Tzimisce:2
+1x Dani                  2  ani                  Nosferatu antitribu:2
+1x Gillian Krader        2  ani dem              Pander:2
+1x Mouse                 2  ani                  Nosferatu:3
 
 Library (90 cards)
 Master (20; 4 trifle)

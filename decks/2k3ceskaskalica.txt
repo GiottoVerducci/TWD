@@ -4,17 +4,17 @@ July 12th 2003
 13 players
 Karol Magda
 
-Crypt (12 cards, min=10 max=27 avg=4.5)
----------------------------------------
-3x Omaya                        7   ANI AUS FOR pro     Gangrel antitribu:2
-2x Devin Bisley                 5   ANI AUS vic         Tzimisce:2
-1x Caliban                      6   ANI AUS VIC         Tzimisce:2
-1x Thomas Steed, The Angry      4   ani aus val         Salubri antitribu:2
-1x Leon                         3   ani for             Gangrel antitribu:2
-1x Shannon Price, The Whisperer 3   ani obf             Nosferatu antitribu:2
-1x Wendy Wade                   3   ani aus             Tzimisce:2
-1x Dani                         2   ani                 Nosferatu antitribu:2
-1x Gillian Krader               2   ani dem             Pander:2
+Crypt (12 cards, min=10, max=27, avg=4.5)
+-----------------------------------------
+3x Omaya                         7  ANI AUS FOR pro  Gangrel antitribu:2
+2x Devin Bisley                  5  ANI AUS vic      Tzimisce:2
+1x Caliban                       6  ANI AUS VIC      Tzimisce:2
+1x Thomas Steed, The Angry       4  ani aus val      Salubri antitribu:2
+1x Leon                          3  ani for          Gangrel antitribu:2
+1x Shannon Price, The Whisperer  3  ani obf          Nosferatu antitribu:2
+1x Wendy Wade                    3  ani aus          Tzimisce:2
+1x Dani                          2  ani              Nosferatu antitribu:2
+1x Gillian Krader                2  ani dem          Pander:2
 
 Library (70 cards)
 Master (10)

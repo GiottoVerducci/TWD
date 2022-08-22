@@ -6,14 +6,14 @@ Pierre Rebstock
 Deck Name: Blessing of Kupala
 Created by: TPOTH Koldun (aka Pierre Rebstock aka Dirty Frenchman)
 
-Crypt (12 cards, min=12 max=32 avg=5.67)
-----------------------------------------
-4x Sascha Vykos, The Angel of Caine 8   AUS THA VIC ani dom     priscus  Tzimisce:2
-2x Caliban                          6   ANI AUS VIC                      Tzimisce:2
-2x Corine Marcón                    6   AUS VIC ani                      Tzimisce:2
-2x Lolita Houston                   4   VIC aus                          Tzimisce:2
-1x Heinrick Schlempt                2   tha                              Tremere antitribu:2
-1x Magdelena Schaefer               2   THA                              Caitiff:2
+Crypt (12 cards, min=12, max=32, avg=5.67)
+------------------------------------------
+4x Sascha Vykos, The Angel of Caine  8  AUS THA VIC ani dom  priscus  Tzimisce:2
+2x Caliban                           6  ANI AUS VIC                   Tzimisce:2
+2x Corine Marcón                     6  AUS VIC ani                   Tzimisce:2
+2x Lolita Houston                    4  VIC aus                       Tzimisce:2
+1x Heinrick Schlempt                 2  tha                           Tremere antitribu:2
+1x Magdelena Schaefer                2  THA                           Caitiff:2
 
 Library (90 cards)
 Master (13)

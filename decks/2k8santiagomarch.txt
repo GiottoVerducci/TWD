@@ -10,14 +10,14 @@ Deck Name: No Secrets from the Akunanse
 Description: A control deck based in the card "No Secrets fron the
 Magaji" and the Akunanse clan. Guest starring: Ugadja
 
-Crypt (12 cards, min=26 max=36 avg=7.75)
-----------------------------------------
-3x Nkule Galadima 8   ABO FOR ani aus pre       magaji  Akunanse:4
-3x Uchenna        7   ABO ANI FOR               magaji  Akunanse:4
-2x Ugadja         10  ABO ANI POT PRE dom for   magaji  Guruhi:4
-2x Amavi          8   ABO ANI FOR pre pro               Akunanse:4
-1x Jubal          6   ABO ANI for pot                   Akunanse:4
-1x Sanjo          6   ANI FOR abo chi                   Akunanse:3
+Crypt (12 cards, min=26, max=36, avg=7.75)
+------------------------------------------
+3x Nkule Galadima   8  ABO FOR ani aus pre      magaji  Akunanse:4
+3x Uchenna          7  ABO ANI FOR              magaji  Akunanse:4
+2x Ugadja          10  ABO ANI POT PRE dom for  magaji  Guruhi:4
+2x Amavi            8  ABO ANI FOR pre pro              Akunanse:4
+1x Jubal            6  ABO ANI for pot                  Akunanse:4
+1x Sanjo            6  ANI FOR abo chi                  Akunanse:3
 
 Library (90 cards)
 Master (14)

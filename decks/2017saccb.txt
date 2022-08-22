@@ -12,20 +12,20 @@ Deck Name: Amigos do Enkidu
 
 Description: Block, Breed and kill
 
-Crypt (12 cards, min=10 max=31 avg=5)
--------------------------------------
-1x Enkidu, The Noah     11  ANI CEL OBF POT PRO for     Gangrel antitribu:4
-1x Aksinya Daclau       9   ANI FOR PRE PRO cel tha     Gangrel antitribu:4
-1x Janey Pickman        6   ANI PRO for                 Gangrel antitribu:4
-1x Céleste Lamontagne   5   ANI PRO for                 Gangrel antitribu:4
-1x Maria Stone          5   FOR cel obf pro             Gangrel antitribu:3
-1x Mowgli               5   FOR PRO ani cel             Gangrel antitribu:4
-1x Skryta Zyleta        5   CEL obf pot pro             Gangrel antitribu:3
-1x Charlie Tyne         4   obf pro ser                 Gangrel antitribu:4
-1x Bill Butler          3   pot pro                     Gangrel antitribu:4
-1x Lula Burch           3   for pro                     Gangrel antitribu:4
-1x Jesús Alcalá         2   cel                         Gangrel antitribu:3
-1x Leo Washington       2   cel pro                     Gangrel antitribu:4
+Crypt (12 cards, min=10, max=31, avg=5)
+---------------------------------------
+1x Enkidu, The Noah    11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+1x Aksinya Daclau       9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+1x Janey Pickman        6  ANI PRO for              Gangrel antitribu:4
+1x Céleste Lamontagne   5  ANI PRO for              Gangrel antitribu:4
+1x Maria Stone          5  FOR cel obf pro          Gangrel antitribu:3
+1x Mowgli               5  FOR PRO ani cel          Gangrel antitribu:4
+1x Skryta Zyleta        5  CEL obf pot pro          Gangrel antitribu:3
+1x Charlie Tyne         4  obf pro ser              Gangrel antitribu:4
+1x Bill Butler          3  pot pro                  Gangrel antitribu:4
+1x Lula Burch           3  for pro                  Gangrel antitribu:4
+1x Jesús Alcalá         2  cel                      Gangrel antitribu:3
+1x Leo Washington       2  cel pro                  Gangrel antitribu:4
 
 Library (90 cards)
 Master (21; 4 trifle)

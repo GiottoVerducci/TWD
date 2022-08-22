@@ -7,16 +7,16 @@ Christophe Chevalier
 
 Deck Name: l'équipe de Rigby
 
-Crypt (12 cards, min=11 max=22 avg=4.25)
-----------------------------------------
-2x Julian Sanders          6   CEL PRE pot      Brujah antitribu:2
-2x Dodd                    5   CEL dom pre      Brujah antitribu:2
-2x Rigby, Crusade Vanguard 5   CEL PRE aus pot  Brujah antitribu:2
-2x Jacob Bragg             3   cel pot          Brujah antitribu:2
-1x Evangeline              4   cel pot pre      Brujah antitribu:2
-1x Victor Tolliver         4   CEL pot          Brujah antitribu:2
-1x Sarah Brando            3   CEL              Brujah antitribu:2
-1x Frederick the Weak      2   pre              Brujah antitribu:2
+Crypt (12 cards, min=11, max=22, avg=4.25)
+------------------------------------------
+2x Julian Sanders           6  CEL PRE pot      Brujah antitribu:2
+2x Dodd                     5  CEL dom pre      Brujah antitribu:2
+2x Rigby, Crusade Vanguard  5  CEL PRE aus pot  Brujah antitribu:2
+2x Jacob Bragg              3  cel pot          Brujah antitribu:2
+1x Evangeline               4  cel pot pre      Brujah antitribu:2
+1x Victor Tolliver          4  CEL pot          Brujah antitribu:2
+1x Sarah Brando             3  CEL              Brujah antitribu:2
+1x Frederick the Weak       2  pre              Brujah antitribu:2
 
 Library (90 cards)
 Master (15)

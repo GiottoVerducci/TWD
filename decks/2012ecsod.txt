@@ -9,12 +9,12 @@ László Walter
 
 Deck Name: EC 2012 Silence of Death: Toreador Aching Beauty
 
-Crypt (12 cards, min=34 max=43 avg=9.75)
-----------------------------------------
-3x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
-3x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
-3x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
-3x Anson           8   CEL PRE aus dom          prince          Toreador:1
+Crypt (12 cards, min=34, max=43, avg=9.75)
+------------------------------------------
+3x Alexandra        11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+3x Anneke           10  AUS CEL PRE dom          justicar      Toreador:1
+3x François Villon  10  AUS CEL PRE chi obf pot  prince        Toreador:2
+3x Anson             8  CEL PRE aus dom          prince        Toreador:1
 
 Library (90 cards)
 Master (24; 4 trifle)

@@ -10,19 +10,19 @@ Deck Name: Utrecht Influence
 
 My old Undue Influence deck updated for the Dutch ECQ 2013
 
-Crypt (13 cards, min=5 max=19 avg=3.23)
----------------------------------------
-3x Anarch Convert                  1   -none-           Caitiff:ANY
-1x Jazz Wentworth                  5   PRE dom for      Ventrue:1
-1x Ramiel DuPre                    5   PRE aus cel dom  Toreador:1
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for      Ventrue:2
-1x Courtland Leighton              4   dom for pre      Ventrue:1
-1x Demetrius Slater                4   aus cel pre      Toreador:1
-1x Mariana Gilbert                 4   PRE cel          Toreador:1
-1x Violette Prentiss               4   PRE dom          Ventrue:1
-1x Gideon Fontaine                 3   PRE              Ventrue:1
-1x Roland Loussarian               3   for pre          Ventrue:1
-1x Delilah Easton                  2   pre              Toreador:1
+Crypt (13 cards, min=5, max=19, avg=3.23)
+-----------------------------------------
+3x Anarch Convert                   1  -none-           Caitiff:ANY
+1x Jazz Wentworth                   5  PRE dom for      Ventrue:1
+1x Ramiel DuPre                     5  PRE aus cel dom  Toreador:1
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for      Ventrue:2
+1x Courtland Leighton               4  dom for pre      Ventrue:1
+1x Demetrius Slater                 4  aus cel pre      Toreador:1
+1x Mariana Gilbert                  4  PRE cel          Toreador:1
+1x Violette Prentiss                4  PRE dom          Ventrue:1
+1x Gideon Fontaine                  3  PRE              Ventrue:1
+1x Roland Loussarian                3  for pre          Ventrue:1
+1x Delilah Easton                   2  pre              Toreador:1
 
 Library (85 cards)
 Master (24; 8 trifle)

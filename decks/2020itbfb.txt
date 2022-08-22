@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/9702
 
 Deck Name: War ghoul anarch
 
-Crypt (12 cards, min=4 max=32 avg=4.08)
----------------------------------------
-5x Anarch Convert       1   -none-              Caitiff:ANY
-4x Nana Buruku          8   ANI POT PRE         Guruhi:4
-1x Ana Rita Montaña     5   VIC aus dom obf     Tzimisce:3
-1x Jane Sims            4   VIC ani aus pro     Tzimisce:4
-1x Droescher One-Eye    3   ani vic             Tzimisce:4
+Crypt (12 cards, min=4, max=32, avg=4.08)
+-----------------------------------------
+5x Anarch Convert     1  -none-           Caitiff:ANY
+4x Nana Buruku        8  ANI POT PRE      Guruhi:4
+1x Ana Rita Montaña   5  VIC aus dom obf  Tzimisce:3
+1x Jane Sims          4  VIC ani aus pro  Tzimisce:4
+1x Droescher One-Eye  3  ani vic          Tzimisce:4
 
 Library (71 cards)
 Master (40; 2 trifle)

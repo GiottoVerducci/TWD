@@ -16,20 +16,20 @@ woulda thought...), but the last minute inclusion of Specialization
 didn't really help much--it would have been better off as, well,
 pretty much anything (maybe a Zoning Board to get rid of locations?)
 
-Crypt (12 cards, min=8 max=18 avg=3.17)
----------------------------------------
-1x Cicatriz                     5   ani obf pot  bishop  Nosferatu antitribu:2
-1x Lithrac                      5   OBF for thn          Samedi:2
-1x Agrippina                    4   OBF pot              Nosferatu:1
-1x Sammy                        4   ani obf pot          Nosferatu:1
-1x Dan Murdock                  3   aus obf              Caitiff:1
-1x Dollface                     3   aus obf              Malkavian:1
-1x Duck                         3   obf pot              Nosferatu:1
-1x Shannon Price, The Whisperer 3   ani obf              Nosferatu antitribu:2
-1x Watenda                      3   obf                  Malkavian:2
-1x Dimple                       2   obf                  Nosferatu:1
-1x Normal                       2   obf                  Malkavian:1
-1x Basil                        1   obf                  Pander:2
+Crypt (12 cards, min=8, max=18, avg=3.17)
+-----------------------------------------
+1x Cicatriz                      5  ani obf pot  bishop  Nosferatu antitribu:2
+1x Lithrac                       5  OBF for thn          Samedi:2
+1x Agrippina                     4  OBF pot              Nosferatu:1
+1x Sammy                         4  ani obf pot          Nosferatu:1
+1x Dan Murdock                   3  aus obf              Caitiff:1
+1x Dollface                      3  aus obf              Malkavian:1
+1x Duck                          3  obf pot              Nosferatu:1
+1x Shannon Price, The Whisperer  3  ani obf              Nosferatu antitribu:2
+1x Watenda                       3  obf                  Malkavian:2
+1x Dimple                        2  obf                  Nosferatu:1
+1x Normal                        2  obf                  Malkavian:1
+1x Basil                         1  obf                  Pander:2
 
 Library (90 cards)
 Master (30; 7 trifle)

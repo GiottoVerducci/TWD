@@ -13,16 +13,16 @@ Created by: Erol Hammer (Concept by Izaak Havelaar)
 Loved the concept by Izaak. I would change the Master
 cards a little and possibly add some Mind Numbs.
 
-Crypt (13 cards, min=4 max=23 avg=3.38)
----------------------------------------
-5x Anarch Convert               1   -none-              Caitiff:ANY
-2x Jost Werner                  6   AUS PRE ani         Toreador antitribu:2
-1x Sheila Mezarin               6   AUS PRE cel for     Toreador antitribu:2
-1x Creamy Jade                  5   PRE aus cel vic     Toreador antitribu:3
-1x Mercy, Knight Inquisitor     5   AUS cel dom pre     Toreador antitribu:2
-1x Remilliard, Devout Crusader  4   AUS pre             Toreador antitribu:2
-1x Sabrina                      4   aus cel pre         Toreador antitribu:3
-1x Lolita                       3   for pre             Toreador antitribu:2
+Crypt (13 cards, min=4, max=23, avg=3.38)
+-----------------------------------------
+5x Anarch Convert               1  -none-           Caitiff:ANY
+2x Jost Werner                  6  AUS PRE ani      Toreador antitribu:2
+1x Sheila Mezarin               6  AUS PRE cel for  Toreador antitribu:2
+1x Creamy Jade                  5  PRE aus cel vic  Toreador antitribu:3
+1x Mercy, Knight Inquisitor     5  AUS cel dom pre  Toreador antitribu:2
+1x Remilliard, Devout Crusader  4  AUS pre          Toreador antitribu:2
+1x Sabrina                      4  aus cel pre      Toreador antitribu:3
+1x Lolita                       3  for pre          Toreador antitribu:2
 
 Library (80 cards)
 Master (15; 2 trifle)

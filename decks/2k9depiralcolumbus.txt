@@ -7,14 +7,14 @@ Mark Loughman
 
 -- 3VP in final
 
-Crypt (12 cards, min=14 max=44 avg=6.75)
-----------------------------------------
-4x Saulot, The Wanderer 11  AUS FOR OBE THA VAL dai     Salubri:4
-2x Aredhel              5   FOR VAL aus                 Salubri antitribu:4
-2x Nkechi               4   aus for val                 Salubri antitribu:4
-2x Rashiel              3   for val                     Salubri antitribu:4
-1x Dela Eden            8   AUS FOR VAL cel dom         Salubri antitribu:3
-1x Langa                5   VAL for                     Salubri antitribu:4
+Crypt (12 cards, min=14, max=44, avg=6.75)
+------------------------------------------
+4x Saulot, The Wanderer  11  AUS FOR OBE THA VAL dai  Salubri:4
+2x Aredhel                5  FOR VAL aus              Salubri antitribu:4
+2x Nkechi                 4  aus for val              Salubri antitribu:4
+2x Rashiel                3  for val                  Salubri antitribu:4
+1x Dela Eden              8  AUS FOR VAL cel dom      Salubri antitribu:3
+1x Langa                  5  VAL for                  Salubri antitribu:4
 
 Library (90 cards)
 Master (8)

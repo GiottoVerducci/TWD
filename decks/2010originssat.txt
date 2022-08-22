@@ -7,15 +7,15 @@ John Eno
 
 "Lawyers, Guns, and Money v2"
 
-Crypt (12 cards, min=19 max=36 avg=6.92)
-----------------------------------------
-3x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro         prince    Ventrue:5
-2x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot     justicar  Ventrue:5
-2x Graham Gottesman     7   DOM FOR obf pre tha         prince    Ventrue:5
-2x Mustafa, The Heir    6   FOR PRE cel dom             prince    Ventrue:4
-1x Jephta Hester        5   DOM FOR aus                           Ventrue antitribu:4
-1x João Bilé            5   DOM FOR pre                           Ventrue:4
-1x Ulrike Rothbart      3   dom for                               Ventrue antitribu:4
+Crypt (12 cards, min=19, max=36, avg=6.92)
+------------------------------------------
+3x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro      prince    Ventrue:5
+2x Mary Anne Blaire    10  AUS DOM FOR PRE ani pot  justicar  Ventrue:5
+2x Graham Gottesman     7  DOM FOR obf pre tha      prince    Ventrue:5
+2x Mustafa, The Heir    6  FOR PRE cel dom          prince    Ventrue:4
+1x Jephta Hester        5  DOM FOR aus                        Ventrue antitribu:4
+1x João Bilé            5  DOM FOR pre                        Ventrue:4
+1x Ulrike Rothbart      3  dom for                            Ventrue antitribu:4
 
 Library (80 cards)
 Master (15)

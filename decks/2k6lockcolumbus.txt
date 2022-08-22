@@ -11,13 +11,13 @@ Description: Fairly straightforward; stacking Cam Exemplary, Archon,
 and Aching Beauty followed up with Croc Tongue punishes blockers.
 Getting a .44 further adds to the misery late game.
 
-Crypt (12 cards, min=31 max=43 avg=9.33)
-----------------------------------------
-4x Anson           8   CEL PRE aus dom          prince          Toreador:1
-3x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
-2x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
-2x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
-1x Tatiana Romanov 7   AUS cel pre              prince          Toreador:1
+Crypt (12 cards, min=31, max=43, avg=9.33)
+------------------------------------------
+4x Anson             8  CEL PRE aus dom          prince        Toreador:1
+3x Alexandra        11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+2x Anneke           10  AUS CEL PRE dom          justicar      Toreador:1
+2x François Villon  10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Tatiana Romanov   7  AUS cel pre              prince        Toreador:1
 
 Library (90 cards)
 Master (24)

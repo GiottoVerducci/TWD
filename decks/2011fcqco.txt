@@ -6,16 +6,16 @@ Hugh Angseesing
 
 "Ugly Girls Get AIDS in the USA"
 
-Crypt (13 cards, min=33 max=42 avg=9.38)
-----------------------------------------
-3x Aksinya Daclau       9   ANI FOR PRE PRO cel tha                     Gangrel antitribu:4
-2x Alonso Petrodon      10  ANI DOM OBF POT for tha     justicar        Nosferatu:5
-2x Cybele               10  ANI DAI OBF PRE SER THA                     Baali:4
-2x Gustaphe Brunnelle   8   ANI DOM POT obf             primogen        Nosferatu:4
-1x Enkidu, The Noah     11  ANI CEL OBF POT PRO for                     Gangrel antitribu:4
-1x Josef von Bauren     11  ANI DEM OBF POT cel         inner circle    Nosferatu:4
-1x Nangila Were         9   ANI POT PRE obf ser                         Guruhi:4
-1x Nana Buruku          8   ANI POT PRE                                 Guruhi:4
+Crypt (13 cards, min=33, max=42, avg=9.38)
+------------------------------------------
+3x Aksinya Daclau       9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+2x Alonso Petrodon     10  ANI DOM OBF POT for tha  justicar      Nosferatu:5
+2x Cybele              10  ANI DAI OBF PRE SER THA                Baali:4
+2x Gustaphe Brunnelle   8  ANI DOM POT obf          primogen      Nosferatu:4
+1x Enkidu, The Noah    11  ANI CEL OBF POT PRO for                Gangrel antitribu:4
+1x Josef von Bauren    11  ANI DEM OBF POT cel      inner circle  Nosferatu:4
+1x Nangila Were         9  ANI POT PRE obf ser                    Guruhi:4
+1x Nana Buruku          8  ANI POT PRE                            Guruhi:4
 
 Library (78 cards)
 Master (41; 9 trifle)

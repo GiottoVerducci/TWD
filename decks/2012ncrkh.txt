@@ -12,17 +12,17 @@ This time i added Narrow Minds in order to reduce
 overall blood count and speed up games.
 Had 9VP/3GWs prefinals, 9.5VP/3GWs total.
 
-Crypt (12 cards, min=8 max=32 avg=4.83)
----------------------------------------
-4x Nana Buruku  8   ANI POT PRE  Guruhi:4
-1x Fish         5   ANI POT pre  Guruhi:4
-1x Petra        5   ANI OBF aus  Nosferatu:4
-1x Beetleman    4   ANI obf      Nosferatu:4
-1x Bobby Lemon  4   ANI pro      Gangrel:3
-1x Stick        3   ANI          Nosferatu antitribu:4
-1x Mouse        2   ani          Nosferatu:3
-1x Zip          2   ani          Ravnos:3
-1x Lisa Noble   1   ani          Caitiff:3
+Crypt (12 cards, min=8, max=32, avg=4.83)
+-----------------------------------------
+4x Nana Buruku  8  ANI POT PRE  Guruhi:4
+1x Fish         5  ANI POT pre  Guruhi:4
+1x Petra        5  ANI OBF aus  Nosferatu:4
+1x Beetleman    4  ANI obf      Nosferatu:4
+1x Bobby Lemon  4  ANI pro      Gangrel:3
+1x Stick        3  ANI          Nosferatu antitribu:4
+1x Mouse        2  ani          Nosferatu:3
+1x Zip          2  ani          Ravnos:3
+1x Lisa Noble   1  ani          Caitiff:3
 
 Library (90 cards)
 Master (27; 1 trifle)

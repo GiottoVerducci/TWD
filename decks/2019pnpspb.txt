@@ -31,14 +31,14 @@ working against you and everybody can rescue vampires in torpor.
 Changes: My deck ended in most my games, so more cards. The 8 and 9 cap vamps only slowed me down, so more of the
 low cap ones. A version with anarch convert and revolt could be tested.
 
-Crypt (12 cards, min=13 max=31 avg=5.33)
-----------------------------------------
-3x Marie-Pierre    4   THN for nec          Samedi:6
-3x Angel Chavarria 3   THN                  Samedi:6
-2x Baroque         7   NEC THN aus for obf  Samedi:5
-2x Mister Schwartz 6   NEC THN for obf      Samedi:6
-1x Mambo Jeanne    9   FOR NEC OBF THN      Samedi:6
-1x Josette         8   FOR OBF THN pot pre  Samedi:6
+Crypt (12 cards, min=13, max=31, avg=5.33)
+------------------------------------------
+3x Marie-Pierre     4  THN for nec          Samedi:6
+3x Angel Chavarria  3  THN                  Samedi:6
+2x Baroque          7  NEC THN aus for obf  Samedi:5
+2x Mister Schwartz  6  NEC THN for obf      Samedi:6
+1x Mambo Jeanne     9  FOR NEC OBF THN      Samedi:6
+1x Josette          8  FOR OBF THN pot pre  Samedi:6
 
 Library (68 cards)
 Master (15; 2 trifle)

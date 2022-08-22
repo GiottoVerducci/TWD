@@ -18,12 +18,12 @@ but they could probably be replaced by Bewitching Orations
 or Voter Captivations or anything else useful. Maybe D.I.
 for those cursed Protect Thine Owns.
 
-Crypt (12 cards, min=32 max=40 avg=9)
--------------------------------------
-4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-4x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
-2x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
-2x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
+Crypt (12 cards, min=32, max=40, avg=9)
+---------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+4x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+2x Antonio Delgado                          9  DOM OBT POT tha          archbishop  Lasombra:2
+2x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
 
 Library (90 cards)
 Master (19)

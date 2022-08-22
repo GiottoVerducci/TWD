@@ -7,14 +7,14 @@ Miguel Cortes
 
 Deck Name: Osebo Esteroides
 
-Crypt (12 cards, min=24 max=38 avg=7.83)
-----------------------------------------
-3x Massassi     9   AUS CEL POT QUI obf                 Osebo:4
-2x Cesewayo     10  AUS CEL DOM POT THA ani     magaji  Osebo:4
-2x Tatu Sawosa  8   AUS OBF POT ani cel                 Osebo:4
-2x Khalu        7   AUS CEL POT ani pro                 Osebo:3
-2x Homa         6   AUS CEL POT                         Osebo:4
-1x Kisha Bhimji 5   AUS cel obf pot             magaji  Osebo:3
+Crypt (12 cards, min=24, max=38, avg=7.83)
+------------------------------------------
+3x Massassi       9  AUS CEL POT QUI obf              Osebo:4
+2x Cesewayo      10  AUS CEL DOM POT THA ani  magaji  Osebo:4
+2x Tatu Sawosa    8  AUS OBF POT ani cel              Osebo:4
+2x Khalu          7  AUS CEL POT ani pro              Osebo:3
+2x Homa           6  AUS CEL POT                      Osebo:4
+1x Kisha Bhimji   5  AUS cel obf pot          magaji  Osebo:3
 
 Library (90 cards)
 Master (19; 1 trifle)

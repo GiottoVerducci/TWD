@@ -12,14 +12,14 @@ Deck Name: Deck Kiasyd
 
 "Always use Govern superior when able."
 
-Crypt (12 cards, min=18 max=30 avg=6.17)
-----------------------------------------
-2x Pherydima               8   DOM MYT NEC obt pot  bishop      Kiasyd:4
-2x Omme Enberbenight       7   MYT OBT cel dom      priscus     Kiasyd:4
-2x Roderick Phillips March 7   DOM MYT cel obt tha              Kiasyd:4
-2x Isanwayen               6   DOM MYT OBT                      Kiasyd:4
-2x Dame Hollerton          5   DOM OBT myt                      Kiasyd:4
-2x Quincy, The Trapper     4   dom myt obt                      Kiasyd:3
+Crypt (12 cards, min=18, max=30, avg=6.17)
+------------------------------------------
+2x Pherydima                8  DOM MYT NEC obt pot  bishop   Kiasyd:4
+2x Omme Enberbenight        7  MYT OBT cel dom      priscus  Kiasyd:4
+2x Roderick Phillips March  7  DOM MYT cel obt tha           Kiasyd:4
+2x Isanwayen                6  DOM MYT OBT                   Kiasyd:4
+2x Dame Hollerton           5  DOM OBT myt                   Kiasyd:4
+2x Quincy, The Trapper      4  dom myt obt                   Kiasyd:3
 
 Library (73 cards)
 Master (12; 2 trifle)

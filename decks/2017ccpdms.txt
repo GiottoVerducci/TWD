@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/8784
 
 Deck Name: Troglodytia does the "Ball de Bot" dance
 
-Crypt (12 cards, min=28 max=43 avg=8.92)
-----------------------------------------
-3x Capuchin, The 11  AUS DOM FOR NEC THA THN    Harbinger of Skulls:5
-3x Troglodytia   10  AUS FOR NEC THN obf pot    Samedi:4
-2x Morlock       8   FOR NEC THN obf            Samedi:4
-2x Baroque       7   NEC THN aus for obf        Samedi:5
-2x Tanginé       7   OBF THN ani nec pot        Samedi:4
+Crypt (12 cards, min=28, max=43, avg=8.92)
+------------------------------------------
+3x Capuchin, The  11  AUS DOM FOR NEC THA THN  Harbinger of Skulls:5
+3x Troglodytia    10  AUS FOR NEC THN obf pot  Samedi:4
+2x Morlock         8  FOR NEC THN obf          Samedi:4
+2x Baroque         7  NEC THN aus for obf      Samedi:5
+2x Tanginé         7  OBF THN ani nec pot      Samedi:4
 
 Library (86 cards)
 Master (28; 10 trifle)

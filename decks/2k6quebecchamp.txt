@@ -11,13 +11,13 @@ archetype but if well played you can manage TW and crawl your way to
 the top. By the way Pentex rocks. This card gave me the vp needed to
 make the final and win the tournament.
 
-Crypt (12 cards, min=26 max=32 avg=7.17)
-----------------------------------------
-4x Theo Bell                            7   POT cel dom pre             Brujah:2
-3x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
-2x Constanza Vinti                      8   CEL DOM POT         prince  Brujah:2
-2x Dónal O'Connor                       8   CEL DOM POT         prince  Brujah:2
-1x Volker, The Puppet Prince            5   CEL pot             prince  Brujah:2
+Crypt (12 cards, min=26, max=32, avg=7.17)
+------------------------------------------
+4x Theo Bell                          7  POT cel dom pre          Brujah:2
+3x Beast, The Leatherface of Detroit  7  OBF POT ani cel          Nosferatu antitribu:2
+2x Constanza Vinti                    8  CEL DOM POT      prince  Brujah:2
+2x Dónal O'Connor                     8  CEL DOM POT      prince  Brujah:2
+1x Volker, The Puppet Prince          5  CEL pot          prince  Brujah:2
 
 Library (90 cards)
 Master (14)

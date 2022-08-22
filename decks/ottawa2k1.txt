@@ -8,14 +8,14 @@ http://web.archive.org/web/20030118043648fw_/http://www.oricom.ca/melkor/vekn_qu
 
 http://web.archive.org/web/20030118043648fw_/http://www.oricom.ca/melkor/vekn_quebec/tc_ot1.htm
 
-Crypt (12 cards, min=16 max=31 avg=6.17)
-----------------------------------------
-3x Cornelius Ottavio    8   AUS OBF pre qui             Malkavian:2
-3x Greta Kircher        7   AUS CEL PRE obf             Toreador antitribu:2
-2x Sir Marriot D'Urban  5   PRE aus obf ser             Follower of Set:2
-2x Lena Rowe            3   aus obf pre                 Pander:2
-1x Kite                 7   AUS DEM obf pre     bishop  Malkavian antitribu:2
-1x Jost Werner          6   AUS PRE ani                 Toreador antitribu:2
+Crypt (12 cards, min=16, max=31, avg=6.17)
+------------------------------------------
+3x Cornelius Ottavio    8  AUS OBF pre qui          Malkavian:2
+3x Greta Kircher        7  AUS CEL PRE obf          Toreador antitribu:2
+2x Sir Marriot D'Urban  5  PRE aus obf ser          Follower of Set:2
+2x Lena Rowe            3  aus obf pre              Pander:2
+1x Kite                 7  AUS DEM obf pre  bishop  Malkavian antitribu:2
+1x Jost Werner          6  AUS PRE ani              Toreador antitribu:2
 
 Library (90 cards)
 Master (20; 1 trifle)

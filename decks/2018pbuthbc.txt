@@ -17,14 +17,14 @@ is key, as it gives you 3 pool and pays the cost of Legionairres. Vengeful
 Spirits are lovely too. Very fun deck. Hooray for new cards and a TWD featuring
 Harbingers of Skulls!
 
-Crypt (12 cards, min=23 max=40 avg=7.83)
-----------------------------------------
-5x Erlik           10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-3x Erebus          7   AUS FOR NEC dem      Harbinger of Skulls:3
-1x Babalawo Alafin 7   AUS FOR NEC ani      Harbinger of Skulls:4
-1x Zygodat         6   AUS NEC pot          Harbinger of Skulls:4
-1x Nicomedes       5   aus for nec vic      Harbinger of Skulls:4
-1x Solomon Batanea 5   AUS FOR nec          Harbinger of Skulls:4
+Crypt (12 cards, min=23, max=40, avg=7.83)
+------------------------------------------
+5x Erlik            10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+3x Erebus            7  AUS FOR NEC dem      Harbinger of Skulls:3
+1x Babalawo Alafin   7  AUS FOR NEC ani      Harbinger of Skulls:4
+1x Zygodat           6  AUS NEC pot          Harbinger of Skulls:4
+1x Nicomedes         5  aus for nec vic      Harbinger of Skulls:4
+1x Solomon Batanea   5  AUS FOR nec          Harbinger of Skulls:4
 
 Library (90 cards)
 Master (18; 4 trifle)

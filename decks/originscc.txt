@@ -9,20 +9,20 @@ Deck Name: Favors Remembered
 
 Descrption: Dominate / Major Boon
 
-Crypt (12 cards, min=11 max=27 avg=4.75)
-----------------------------------------
-1x Emerson Bridges                 8   DOM FOR PRE pot  prince  Ventrue:1
-1x Sir Walter Nash                 7   DOM FOR PRE      prince  Ventrue:1
-1x Luccia Paciola                  6   DOM for pre              Ventrue:1
-1x Stefano Giovanni                6   DOM nec pot pre          Giovanni:2
-1x Vanessa                         6   DOM FOR aus pre          Ventrue antitribu:2
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for              Ventrue:2
-1x Courtland Leighton              4   dom for pre              Ventrue:1
-1x Gloria Giovanni                 4   DOM nec                  Giovanni:2
-1x Ingrid Russo                    4   DOM for                  Ventrue antitribu:2
-1x Peter Blaine                    4   aus dom for              Ventrue antitribu:2
-1x Samson                          2   dom                      Ventrue antitribu:2
-1x Royce                           1   dom                      Pander:2
+Crypt (12 cards, min=11, max=27, avg=4.75)
+------------------------------------------
+1x Emerson Bridges                  8  DOM FOR PRE pot  prince  Ventrue:1
+1x Sir Walter Nash                  7  DOM FOR PRE      prince  Ventrue:1
+1x Luccia Paciola                   6  DOM for pre              Ventrue:1
+1x Stefano Giovanni                 6  DOM nec pot pre          Giovanni:2
+1x Vanessa                          6  DOM FOR aus pre          Ventrue antitribu:2
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for              Ventrue:2
+1x Courtland Leighton               4  dom for pre              Ventrue:1
+1x Gloria Giovanni                  4  DOM nec                  Giovanni:2
+1x Ingrid Russo                     4  DOM for                  Ventrue antitribu:2
+1x Peter Blaine                     4  aus dom for              Ventrue antitribu:2
+1x Samson                           2  dom                      Ventrue antitribu:2
+1x Royce                            1  dom                      Pander:2
 
 Library (80 cards)
 Master (13)

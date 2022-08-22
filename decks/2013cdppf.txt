@@ -10,13 +10,13 @@ Kamel Senni
 Deck Name: Kamel deck
 Created by: Romain Naim
 
-Crypt (12 cards, min=26 max=36 avg=7.67)
-----------------------------------------
-3x Izhim abd Azrael             9   CEL OBF QUI THA pot  Assamite:5
-3x Djuhah, The Bronze Bow       7   OBF QUI aus cel pre  Assamite:5
-2x Nizzam al-Latif              9   ANI CEL OBF QUI dem  Assamite:5
-2x Joe "Boot" Hill              7   CEL QUI for obf      Assamite:4
-2x Reza Fatir, The Dark Angel   6   CEL QUI obf pro      Assamite:4
+Crypt (12 cards, min=26, max=36, avg=7.67)
+------------------------------------------
+3x Izhim abd Azrael            9  CEL OBF QUI THA pot  Assamite:5
+3x Djuhah, The Bronze Bow      7  OBF QUI aus cel pre  Assamite:5
+2x Nizzam al-Latif             9  ANI CEL OBF QUI dem  Assamite:5
+2x Joe "Boot" Hill             7  CEL QUI for obf      Assamite:4
+2x Reza Fatir, The Dark Angel  6  CEL QUI obf pro      Assamite:4
 
 Library (65 cards)
 Master (17; 7 trifle)

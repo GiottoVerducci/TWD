@@ -9,18 +9,18 @@ https://www.vekn.net/event-calendar/event/9832
 -- 4VP in final
 
 Deck Name: Baixinho the giant of sewers
-Crypt (12 cards, min=15 max=33 avg=6.33)
-----------------------------------------
-2x Iago Castille        8   ANI CHI FOR OBT                 Ravnos:6
-2x Mordechai Ben-Nun    8   ANI AUS FOR NEC                 Harbinger of Skulls:5
-1x Xipe Totec           9   ANI AUS PRO VIC     archbishop  Tzimisce:5
-1x Zelios               8   ANI OBF POT pro     primogen    Nosferatu:5
-1x Dowager, The         6   ANI OBF aus pot     primogen    Nosferatu:6
-1x Larissa Moreira      6   ANI OBF pot         primogen    Nosferatu:6
-1x Lenny Burkhead       6   ANI obf pot pre     primogen    Nosferatu:6
-1x Horace Radcliffe     5   ANI POT obf                     Nosferatu:6
-1x Baixinho             3   ani obf                         Nosferatu:6
-1x Anarch Convert       1   -none-                          Caitiff:ANY
+Crypt (12 cards, min=15, max=33, avg=6.33)
+------------------------------------------
+2x Iago Castille      8  ANI CHI FOR OBT              Ravnos:6
+2x Mordechai Ben-Nun  8  ANI AUS FOR NEC              Harbinger of Skulls:5
+1x Xipe Totec         9  ANI AUS PRO VIC  archbishop  Tzimisce:5
+1x Zelios             8  ANI OBF POT pro  primogen    Nosferatu:5
+1x Dowager, The       6  ANI OBF aus pot  primogen    Nosferatu:6
+1x Larissa Moreira    6  ANI OBF pot      primogen    Nosferatu:6
+1x Lenny Burkhead     6  ANI obf pot pre  primogen    Nosferatu:6
+1x Horace Radcliffe   5  ANI POT obf                  Nosferatu:6
+1x Baixinho           3  ani obf                      Nosferatu:6
+1x Anarch Convert     1  -none-                       Caitiff:ANY
 
 Library (90 cards)
 Master (27; 9 trifle)

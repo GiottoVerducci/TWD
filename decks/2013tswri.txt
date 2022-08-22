@@ -17,12 +17,12 @@ network because like good secret service networks in the world the
 deck can see exactly what its target is doing and act accordingly.
 It can be played in a variety of ways depending on the table.
 
-Crypt (12 cards, min=18 max=40 avg=7.08)
-----------------------------------------
-4x Cock Robin     10  ANI OBF POT aus for  justicar     Nosferatu:3
-3x Shahid         7   OBF POT ani for pro               Nosferatu:4
-3x Alonzo Guillen 6   OBF ani for pot                   Nosferatu:3
-2x Darva Felispa  3   ani pot                           Nosferatu:3
+Crypt (12 cards, min=18, max=40, avg=7.08)
+------------------------------------------
+4x Cock Robin      10  ANI OBF POT aus for  justicar  Nosferatu:3
+3x Shahid           7  OBF POT ani for pro            Nosferatu:4
+3x Alonzo Guillen   6  OBF ani for pot                Nosferatu:3
+2x Darva Felispa    3  ani pot                        Nosferatu:3
 
 Library (90 cards)
 Master (21; 7 trifle)

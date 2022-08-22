@@ -8,16 +8,16 @@ Deck Name: Amaravati+Mata_Hari
 
 Description: Amaravati and Mata Hari breed and vote
 
-Crypt (13 cards, min=14 max=32 avg=6.15)
-----------------------------------------
-4x Amaravati        8   DOM OBF QUI ani chi              Assamite:4
-3x Mata Hari        7   CHI OBF aus for qui     2 votes  Ravnos:4
-1x Olugbenga        7   OBF QUI ani cel         magaji   Assamite:4
-1x Vardar Vardarian 6   OBF QUI cel pre                  Assamite:4
-1x Janni            5   cel for obf qui                  Assamite:4
-1x Michael diCarlo  5   CEL obf qui                      Assamite:4
-1x Ali Kar          3   obf qui                          Assamite:3
-1x Basir            1   qui                              Assamite:4
+Crypt (13 cards, min=14, max=32, avg=6.15)
+------------------------------------------
+4x Amaravati         8  DOM OBF QUI ani chi           Assamite:4
+3x Mata Hari         7  CHI OBF aus for qui  2 votes  Ravnos:4
+1x Olugbenga         7  OBF QUI ani cel      magaji   Assamite:4
+1x Vardar Vardarian  6  OBF QUI cel pre               Assamite:4
+1x Janni             5  cel for obf qui               Assamite:4
+1x Michael diCarlo   5  CEL obf qui                   Assamite:4
+1x Ali Kar           3  obf qui                       Assamite:3
+1x Basir             1  qui                           Assamite:4
 
 Library (90 cards)
 Master (16; 1 trifle)

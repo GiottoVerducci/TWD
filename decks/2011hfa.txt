@@ -10,17 +10,17 @@ Deck Name: Ira II
 
 Description: Only slightly modified from the February TWD version.
 
-Crypt (12 cards, min=10 max=39 avg=6.42)
-----------------------------------------
-4x Ira Rivers              7   AUS CEL ani pre          prince          Toreador:3
-1x Alexandra               11  ANI AUS CEL PRE dom      inner circle    Toreador:2
-1x François Villon         10  AUS CEL PRE chi obf pot  prince          Toreador:2
-1x Madame Guil             10  AUS CEL PRE for pot ser  justicar        Toreador:3
-1x Marcellus               8   AUS CEL pro              prince          Toreador:2
-1x Yvette, The Hopeless    3   aus cel                                  Toreador:3
-1x Zöe                     3   AUS cel obf                              Malkavian:2
-1x Emerson Wilkershire III 2   pre                                      Toreador:3
-1x Nicholas Chang          2   aus                                      Toreador antitribu:3
+Crypt (12 cards, min=10, max=39, avg=6.42)
+------------------------------------------
+4x Ira Rivers                7  AUS CEL ani pre          prince        Toreador:3
+1x Alexandra                11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+1x François Villon          10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Madame Guil              10  AUS CEL PRE for pot ser  justicar      Toreador:3
+1x Marcellus                 8  AUS CEL pro              prince        Toreador:2
+1x Yvette, The Hopeless      3  aus cel                                Toreador:3
+1x Zöe                       3  AUS cel obf                            Malkavian:2
+1x Emerson Wilkershire III   2  pre                                    Toreador:3
+1x Nicholas Chang            2  aus                                    Toreador antitribu:3
 
 Library (88 cards)
 Master (25; 4 trifle)

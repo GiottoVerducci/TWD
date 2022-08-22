@@ -14,19 +14,19 @@ Possibly another embrace or two? Have tried using Rastafarian ghoul
 but is too pricy and too fragile.
 Jon
 
-Crypt (12 cards, min=8 max=16 avg=3)
-------------------------------------
-2x Sarah Cobbler        4   THA dom      Tremere:1
-1x Ignatius             4   aus dom tha  Tremere:1
-1x Thelonius            4   aus dom tha  Tremere antitribu:2
-1x Blythe Candeleria    3   THA aus      Tremere:2
-1x Brooke               3   dom tha      Tremere antitribu:2
-1x Dr. John Casey       3   aus tha      Tremere:1
-1x Jing Wei             3   dom tha      Tremere:1
-1x Heinrick Schlempt    2   tha          Tremere antitribu:2
-1x Magdelena Schaefer   2   THA          Caitiff:2
-1x Mustafa Rahman       2   dom          Tremere:2
-1x Roreca Quaid         2   tha          Tremere:1
+Crypt (12 cards, min=8, max=16, avg=3)
+--------------------------------------
+2x Sarah Cobbler       4  THA dom      Tremere:1
+1x Ignatius            4  aus dom tha  Tremere:1
+1x Thelonius           4  aus dom tha  Tremere antitribu:2
+1x Blythe Candeleria   3  THA aus      Tremere:2
+1x Brooke              3  dom tha      Tremere antitribu:2
+1x Dr. John Casey      3  aus tha      Tremere:1
+1x Jing Wei            3  dom tha      Tremere:1
+1x Heinrick Schlempt   2  tha          Tremere antitribu:2
+1x Magdelena Schaefer  2  THA          Caitiff:2
+1x Mustafa Rahman      2  dom          Tremere:2
+1x Roreca Quaid        2  tha          Tremere:1
 
 Library (89 cards)
 Master (20)

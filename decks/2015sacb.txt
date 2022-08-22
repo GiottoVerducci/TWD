@@ -11,15 +11,15 @@ https://www.vekn.net/event-calendar/event/7910
 Deck Name: Gangrels don't win, they said. =P
 Created by: Zoroh
 
-Crypt (12 cards, min=25 max=44 avg=8.92)
-----------------------------------------
-4x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
-3x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
-1x Genevieve            10  ANI FOR PRO aus dom  priscus        Gangrel antitribu:2
-1x Hartmut Stover       10  CEL OBF PRO dom for  archbishop     Gangrel antitribu:3
-1x Iliana               7   DOM FOR PRO tha                     Gangrel:2
-1x Caitlin              6   ANI PRO aus dom      bishop         Gangrel antitribu:2
-1x Chandler Hungerford  3   PRO                                 Gangrel:2
+Crypt (12 cards, min=25, max=44, avg=8.92)
+------------------------------------------
+4x Stanislava           11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+3x Ingrid Rossler        9  ANI FOR PRO dom      prince        Gangrel:2
+1x Genevieve            10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+1x Hartmut Stover       10  CEL OBF PRO dom for  archbishop    Gangrel antitribu:3
+1x Iliana                7  DOM FOR PRO tha                    Gangrel:2
+1x Caitlin               6  ANI PRO aus dom      bishop        Gangrel antitribu:2
+1x Chandler Hungerford   3  PRO                                Gangrel:2
 
 Library (90 cards)
 Master (21; 9 trifle)

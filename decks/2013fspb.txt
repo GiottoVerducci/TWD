@@ -7,14 +7,14 @@ Tomàs López Jiménez
 
 Deck Name: Saulot Kakarot's Style
 
-Crypt (12 cards, min=17 max=44 avg=6.92)
-----------------------------------------
-4x Saulot, The Wanderer 11  AUS FOR OBE THA VAL dai     Salubri:4
-2x Halim Bey            6   DOM SER obf tha             Follower of Set:4
-2x Abdelsobek           5   for nec obf pre ser         Follower of Set:5
-2x Black Lotus          5   DOM aus obf ser             Follower of Set:4
-1x Sahira Siraj         4   obf ser tha                 Follower of Set:4
-1x Ahmose Chambers      3   obf ser                     Follower of Set:5
+Crypt (12 cards, min=17, max=44, avg=6.92)
+------------------------------------------
+4x Saulot, The Wanderer  11  AUS FOR OBE THA VAL dai  Salubri:4
+2x Halim Bey              6  DOM SER obf tha          Follower of Set:4
+2x Abdelsobek             5  for nec obf pre ser      Follower of Set:5
+2x Black Lotus            5  DOM aus obf ser          Follower of Set:4
+1x Sahira Siraj           4  obf ser tha              Follower of Set:4
+1x Ahmose Chambers        3  obf ser                  Follower of Set:5
 
 Library (90 cards)
 Master (16; 1 trifle)

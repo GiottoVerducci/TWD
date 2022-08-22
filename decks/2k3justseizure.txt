@@ -8,14 +8,14 @@ Deck Name: The Littlest Giant
 
 Description: Gangrel Bleed with FoM and Earth Control
 
-Crypt (14 cards, min=13 max=27 avg=5)
--------------------------------------
-2x Camille Devereux     5   FOR PRO ani                 Gangrel:1
-2x Raven                5   FOR PRO ani                 Gangrel:1
-3x Iliana               7   DOM FOR PRO tha             Gangrel:2
-3x Chandler Hungerford  3   PRO                         Gangrel:2
-2x Caitlin              6   ANI PRO aus dom     bishop  Gangrel antitribu:2
-2x Daliyah              4   PRO obf                     Nosferatu:2
+Crypt (14 cards, min=13, max=27, avg=5)
+---------------------------------------
+2x Camille Devereux     5  FOR PRO ani              Gangrel:1
+2x Raven                5  FOR PRO ani              Gangrel:1
+3x Iliana               7  DOM FOR PRO tha          Gangrel:2
+3x Chandler Hungerford  3  PRO                      Gangrel:2
+2x Caitlin              6  ANI PRO aus dom  bishop  Gangrel antitribu:2
+2x Daliyah              4  PRO obf                  Nosferatu:2
 
 Library (89 cards)
 Master (32; 1 trifle)

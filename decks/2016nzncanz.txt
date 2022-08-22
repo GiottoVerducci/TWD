@@ -18,12 +18,12 @@ Hamish Meads 0vp — Mathias Wall + Bloat
 Ke Carlton 1vp — Cybele Toolbox Bleed
 Decided on tournament points, with Nikolaj achieving his oust in the final minute or two.
 
-Crypt (12 cards, min=36 max=42 avg=9.5)
----------------------------------------
-4x Aksinya Daclau        9   ANI FOR PRE PRO cel tha                    Gangrel antitribu:4
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-3x Undele                9   CEL FOR obf pre ser        magaji          Ishtarri:5
-2x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
+Crypt (12 cards, min=36, max=42, avg=9.5)
+-----------------------------------------
+4x Aksinya Daclau          9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+3x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
+2x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
 
 Library (75 cards)
 Master (27; 9 trifle)

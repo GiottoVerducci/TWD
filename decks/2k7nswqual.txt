@@ -8,15 +8,15 @@ Build a strong wall. Bleed all the time. Eventually you will wear
 down your opponents with Carrion Crows and pressing to continue with
 Hidden Strength and Indomitability.
 
-Crypt (12 cards, min=12 max=24 avg=4.5)
----------------------------------------
-4x Lord Ashton     5   ANI for pro      Gangrel:3
-2x Ryder           7   FOR PRO ani pot  Gangrel:4
-2x Bothwell        3   ani for          Gangrel:3
-1x Bobby Lemon     4   ANI pro          Gangrel:3
-1x Gustavo Morales 4   ani cel for      Gangrel:3
-1x Jezebelle       4   ani for pro      Gangrel:4
-1x Sarah Raines    2   for              Gangrel:3
+Crypt (12 cards, min=12, max=24, avg=4.5)
+-----------------------------------------
+4x Lord Ashton      5  ANI for pro      Gangrel:3
+2x Ryder            7  FOR PRO ani pot  Gangrel:4
+2x Bothwell         3  ani for          Gangrel:3
+1x Bobby Lemon      4  ANI pro          Gangrel:3
+1x Gustavo Morales  4  ani cel for      Gangrel:3
+1x Jezebelle        4  ani for pro      Gangrel:4
+1x Sarah Raines     2  for              Gangrel:3
 
 Library (90 cards)
 Master (21)

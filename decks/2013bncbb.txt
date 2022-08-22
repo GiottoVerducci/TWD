@@ -8,19 +8,19 @@ https://www.vekn.net/event-calendar/event/7363
 
 Deck Name: The Black Plague
 
-Crypt (13 cards, min=12 max=29 avg=5.08)
-----------------------------------------
-2x Banjoko                 5   DOM obt pot          Lasombra:3
-2x Piotr Andreikov         2   aus                  Tzimisce:3
-1x Yazid Tamari            8   CEL QUI ani dom obf  Assamite:3
-1x Blackhorse Tanner       7   AUS DOM FOR          Ventrue antitribu:3
-1x Kazimir Savostin        7   AUS VIC ani pot      Tzimisce:3
-1x Teresita, The Godmother 7   ANI OBF POT for      Nosferatu antitribu:3
-1x Sennadurek              6   AUS NEC dom          Nagaraja:4
-1x Nicomedes               5   aus for nec vic      Harbinger of Skulls:4
-1x Katherine Stoddard      4   dom for              Ventrue antitribu:3
-1x Mosfair                 4   cel dom tha          Tremere antitribu:4
-1x Roger Farnsworth        4   OBF aus              Malkavian antitribu:3
+Crypt (13 cards, min=12, max=29, avg=5.08)
+------------------------------------------
+2x Banjoko                  5  DOM obt pot          Lasombra:3
+2x Piotr Andreikov          2  aus                  Tzimisce:3
+1x Yazid Tamari             8  CEL QUI ani dom obf  Assamite:3
+1x Blackhorse Tanner        7  AUS DOM FOR          Ventrue antitribu:3
+1x Kazimir Savostin         7  AUS VIC ani pot      Tzimisce:3
+1x Teresita, The Godmother  7  ANI OBF POT for      Nosferatu antitribu:3
+1x Sennadurek               6  AUS NEC dom          Nagaraja:4
+1x Nicomedes                5  aus for nec vic      Harbinger of Skulls:4
+1x Katherine Stoddard       4  dom for              Ventrue antitribu:3
+1x Mosfair                  4  cel dom tha          Tremere antitribu:4
+1x Roger Farnsworth         4  OBF aus              Malkavian antitribu:3
 
 Library (90 cards)
 Master (15; 6 trifle)

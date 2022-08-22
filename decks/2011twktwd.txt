@@ -9,18 +9,18 @@ Deck Name: Old School
 
 Deck description: Immortal Grapples with a splash of fresh new hate.
 
-Crypt (12 cards, min=8 max=16 avg=3)
-------------------------------------
-2x Jimmy Dunn                   4   CEL POT for  Pander:2
-2x Lupo                         2   pot          Brujah:1
-1x Agatha                       4   POT obf      Nosferatu antitribu:2
-1x Hector Sosa                  4   POT pre      Brujah:1
-1x Hugo                         4   POT pre vic  Brujah antitribu:2
-1x Dre, Leader of the Cold Dawn 3   cel pot      Brujah:1
-1x Jacob Bragg                  3   cel pot      Brujah antitribu:2
-1x KoKo                         2   pot          Nosferatu:1
-1x Mitchell, The Headhunter     2   obt pot      Pander:2
-1x Paul DiCarlo, The Alpha      2   pot          Giovanni:2
+Crypt (12 cards, min=8, max=16, avg=3)
+--------------------------------------
+2x Jimmy Dunn                    4  CEL POT for  Pander:2
+2x Lupo                          2  pot          Brujah:1
+1x Agatha                        4  POT obf      Nosferatu antitribu:2
+1x Hector Sosa                   4  POT pre      Brujah:1
+1x Hugo                          4  POT pre vic  Brujah antitribu:2
+1x Dre, Leader of the Cold Dawn  3  cel pot      Brujah:1
+1x Jacob Bragg                   3  cel pot      Brujah antitribu:2
+1x KoKo                          2  pot          Nosferatu:1
+1x Mitchell, The Headhunter      2  obt pot      Pander:2
+1x Paul DiCarlo, The Alpha       2  pot          Giovanni:2
 
 Library (90 cards)
 Master (13; 3 trifle)

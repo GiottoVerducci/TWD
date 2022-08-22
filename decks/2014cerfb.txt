@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7703
 
 Deck Name: The Taste of Blood
 
-Crypt (12 cards, min=26 max=38 avg=7.83)
-----------------------------------------
-2x Bronwen                         10  CEL POT PRE dom obt  priscus     Brujah antitribu:2
-2x Salinger                        9   CEL POT PRE tha      archbishop  Brujah antitribu:2
-2x Jacko                           8   CEL POT PRE obt                  Brujah antitribu:2
-2x Amelia                          7   CEL POT PRE          bishop      Brujah antitribu:2
-2x Richter, The Templar of Du Mont 7   CEL POT for pre                  Brujah antitribu:2
-2x Jeremiah Noble                  6   CEL POT obt pre                  Brujah antitribu:3
+Crypt (12 cards, min=26, max=38, avg=7.83)
+------------------------------------------
+2x Bronwen                          10  CEL POT PRE dom obt  priscus     Brujah antitribu:2
+2x Salinger                          9  CEL POT PRE tha      archbishop  Brujah antitribu:2
+2x Jacko                             8  CEL POT PRE obt                  Brujah antitribu:2
+2x Amelia                            7  CEL POT PRE          bishop      Brujah antitribu:2
+2x Richter, The Templar of Du Mont   7  CEL POT for pre                  Brujah antitribu:2
+2x Jeremiah Noble                    6  CEL POT obt pre                  Brujah antitribu:3
 
 Library (90 cards)
 Master (14; 2 trifle)

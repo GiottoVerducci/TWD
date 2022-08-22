@@ -35,12 +35,12 @@ to 7 pool, then send Muaziz in to knock out any stoppers with a
 Revelations and then go for it! Ultimately this is proof that a deck
 doesn't have to be some kind of "nasty creature" to win a tourney.
 
-Crypt (12 cards, min=29 max=39 avg=8.5)
----------------------------------------
-3x Ulugh Beg, The Watcher       10  AUS DOM THA cel for pot     justicar  Tremere:1
-3x Cardano                      9   DOM FOR THA ani aus cel     prince    Tremere:1
-3x Anson                        8   CEL PRE aus dom             prince    Toreador:1
-3x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                       Tremere:2
+Crypt (12 cards, min=29, max=39, avg=8.5)
+-----------------------------------------
+3x Ulugh Beg, The Watcher       10  AUS DOM THA cel for pot  justicar  Tremere:1
+3x Cardano                       9  DOM FOR THA ani aus cel  prince    Tremere:1
+3x Anson                         8  CEL PRE aus dom          prince    Toreador:1
+3x Muaziz, Archon of Ulugh Beg   7  THA aus dom for                    Tremere:2
 
 Library (90 cards)
 Master (42)

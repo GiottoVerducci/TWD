@@ -13,19 +13,19 @@ enough to win some tournaments - who knew? It is Tremere bruise
 and bleed with a strong reactive component. The Sport Bike was
 the star player of the deck.
 
-Crypt (12 cards, min=13 max=29 avg=5.33)
-----------------------------------------
-2x Astrid Thomas                7   DOM THA aus pot      primogen  Tremere:1
-1x Justine, Elder of Dallas     8   AUS DOM THA obf      primogen  Tremere:1
-1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                Tremere:2
-1x Lydia Van Cuelen             6   aus dom pre tha                Tremere:1
-1x Thomas Thorne                6   DOM ani aus cel tha            Tremere:1
-1x Aisling Sturbridge           5   AUS THA dom                    Tremere:2
-1x Merrill Molitor              5   THA aus dom                    Tremere:1
-1x Ignatius                     4   aus dom tha                    Tremere:1
-1x Sarah Cobbler                4   THA dom                        Tremere:1
-1x Jing Wei                     3   dom tha                        Tremere:1
-1x Mustafa Rahman               2   dom                            Tremere:2
+Crypt (12 cards, min=13, max=29, avg=5.33)
+------------------------------------------
+2x Astrid Thomas                7  DOM THA aus pot      primogen  Tremere:1
+1x Justine, Elder of Dallas     8  AUS DOM THA obf      primogen  Tremere:1
+1x Muaziz, Archon of Ulugh Beg  7  THA aus dom for                Tremere:2
+1x Lydia Van Cuelen             6  aus dom pre tha                Tremere:1
+1x Thomas Thorne                6  DOM ani aus cel tha            Tremere:1
+1x Aisling Sturbridge           5  AUS THA dom                    Tremere:2
+1x Merrill Molitor              5  THA aus dom                    Tremere:1
+1x Ignatius                     4  aus dom tha                    Tremere:1
+1x Sarah Cobbler                4  THA dom                        Tremere:1
+1x Jing Wei                     3  dom tha                        Tremere:1
+1x Mustafa Rahman               2  dom                            Tremere:2
 
 Library (86 cards)
 Master (14)

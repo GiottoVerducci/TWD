@@ -7,14 +7,14 @@ Bram Van Stappen
 
 Deck Name: Anneke - Trimmed
 
-Crypt (12 cards, min=23 max=40 avg=7.92)
-----------------------------------------
-4x Anneke          10  AUS CEL PRE dom  justicar  Toreador:1
-3x Anson           8   CEL PRE aus dom  prince    Toreador:1
-2x Marcellus       8   AUS CEL pro      prince    Toreador:2
-1x Tatiana Romanov 7   AUS cel pre      prince    Toreador:1
-1x Felicia Mostrom 5   AUS CEL pre                Toreador:1
-1x Zöe             3   AUS cel obf                Malkavian:2
+Crypt (12 cards, min=23, max=40, avg=7.92)
+------------------------------------------
+4x Anneke           10  AUS CEL PRE dom  justicar  Toreador:1
+3x Anson             8  CEL PRE aus dom  prince    Toreador:1
+2x Marcellus         8  AUS CEL pro      prince    Toreador:2
+1x Tatiana Romanov   7  AUS cel pre      prince    Toreador:1
+1x Felicia Mostrom   5  AUS CEL pre                Toreador:1
+1x Zöe               3  AUS cel obf                Malkavian:2
 
 Library (70 cards)
 Master (20; 2 trifle)

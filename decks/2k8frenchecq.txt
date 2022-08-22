@@ -12,16 +12,16 @@ Deck Name: Bima Dominate
 Description: French ECQ in Paris, saturday, April 26th 2008,
 convention Ludicite (http://www.citedujeu.com)
 
-Crypt (12 cards, min=16 max=24 avg=5)
--------------------------------------
-3x Halim Bey       6   DOM SER obf tha  Follower of Set:4
-2x Black Lotus     5   DOM aus obf ser  Follower of Set:4
-2x Zhenga          5   SER obf pre      Follower of Set:4
-1x Ankh-sen-Sutekh 6   PRE SER obf      Follower of Set:4
-1x Renenet         5   OBF PRE ser      Follower of Set:4
-1x Sahira Siraj    4   obf ser tha      Follower of Set:4
-1x Sisocharis      4   cel obf pre      Follower of Set:5
-1x Ahmose Chambers 3   obf ser          Follower of Set:5
+Crypt (12 cards, min=16, max=24, avg=5)
+---------------------------------------
+3x Halim Bey        6  DOM SER obf tha  Follower of Set:4
+2x Black Lotus      5  DOM aus obf ser  Follower of Set:4
+2x Zhenga           5  SER obf pre      Follower of Set:4
+1x Ankh-sen-Sutekh  6  PRE SER obf      Follower of Set:4
+1x Renenet          5  OBF PRE ser      Follower of Set:4
+1x Sahira Siraj     4  obf ser tha      Follower of Set:4
+1x Sisocharis       4  cel obf pre      Follower of Set:5
+1x Ahmose Chambers  3  obf ser          Follower of Set:5
 
 Library (78 cards)
 Master (20)

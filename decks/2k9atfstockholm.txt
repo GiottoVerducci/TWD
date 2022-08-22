@@ -13,19 +13,19 @@ Julius dental care" deck and switched Potence for Animalism (Gate for
 Aid, Increased for Crows). I can only wonder how good the deck should
 have been if I actually owned 14 Deep Song.
 
-Crypt (12 cards, min=7 max=16 avg=2.83)
----------------------------------------
-2x Laurent de Valois    4   ani dom obf  Nosferatu:2
-1x Bobby Lemon          4   ANI pro      Gangrel:3
-1x Shane Grimald        4   ani dom pot  Gangrel antitribu:2
-1x Clarissa Steinburgen 3   ani obf      Nosferatu:3
-1x Panagos Levidis      3   ani obf      Gangrel:2
-1x Raziya Samater       3   ani pot      Brujah:2
-1x Dani                 2   ani          Nosferatu antitribu:2
-1x Gillian Krader       2   ani dem      Pander:2
-1x Mouse                2   ani          Nosferatu:3
-1x Zip                  2   ani          Ravnos:3
-1x Lisa Noble           1   ani          Caitiff:3
+Crypt (12 cards, min=7, max=16, avg=2.83)
+-----------------------------------------
+2x Laurent de Valois     4  ani dom obf  Nosferatu:2
+1x Bobby Lemon           4  ANI pro      Gangrel:3
+1x Shane Grimald         4  ani dom pot  Gangrel antitribu:2
+1x Clarissa Steinburgen  3  ani obf      Nosferatu:3
+1x Panagos Levidis       3  ani obf      Gangrel:2
+1x Raziya Samater        3  ani pot      Brujah:2
+1x Dani                  2  ani          Nosferatu antitribu:2
+1x Gillian Krader        2  ani dem      Pander:2
+1x Mouse                 2  ani          Nosferatu:3
+1x Zip                   2  ani          Ravnos:3
+1x Lisa Noble            1  ani          Caitiff:3
 
 Library (90 cards)
 Master (15; 4 trifle)

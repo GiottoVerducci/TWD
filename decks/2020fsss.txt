@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/9587
 
 Deck name: Location, location, location
 
-Crypt (12 cards, min=20 max=36 avg=7.25)
-----------------------------------------
-5x Guillaume Giovanni   9   CEL DOM NEC POT obt  Giovanni:4
-2x Gualtiero Ghiberti   7   DOM NEC cel pot tha  Giovanni:4
-2x Raphaela Giovanni    6   DOM NEC pot pre      Giovanni:4
-1x Baldesar Rossellini  8   DOM POT aus for nec  Giovanni:4
-1x Prejudice            4   aus dom nec          Nagaraja:4
-1x Primo Giovanni       4   dom nec pot          Giovanni:4
+Crypt (12 cards, min=20, max=36, avg=7.25)
+------------------------------------------
+5x Guillaume Giovanni   9  CEL DOM NEC POT obt  Giovanni:4
+2x Gualtiero Ghiberti   7  DOM NEC cel pot tha  Giovanni:4
+2x Raphaela Giovanni    6  DOM NEC pot pre      Giovanni:4
+1x Baldesar Rossellini  8  DOM POT aus for nec  Giovanni:4
+1x Prejudice            4  aus dom nec          Nagaraja:4
+1x Primo Giovanni       4  dom nec pot          Giovanni:4
 
 Library (90 cards)
 Master (30; 4 trifle)

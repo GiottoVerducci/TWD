@@ -8,17 +8,17 @@ John Eno
 
 Deck Name: Patience Is a Virtue
 
-Crypt (12 cards, min=19 max=30 avg=5.83)
-----------------------------------------
-2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre  Ventrue antitribu:3
-2x Blackhorse Tanner            7   AUS DOM FOR          Ventrue antitribu:3
-2x Solomon Batanea              5   AUS FOR nec          Harbinger of Skulls:4
-1x Mariel St. John              6   AUS FOR dom pro      Ventrue antitribu:4
-1x Aredhel                      5   FOR VAL aus          Salubri antitribu:4
-1x Jephta Hester                5   DOM FOR aus          Ventrue antitribu:4
-1x Louis de Maisonneuve         5   FOR aus dom obf      Ventrue antitribu:4
-1x Neighbor John                5   AUS dom for          Ventrue antitribu:4
-1x Maldavis                     4   AUS for pre          Caitiff:3
+Crypt (12 cards, min=19, max=30, avg=5.83)
+------------------------------------------
+2x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre  Ventrue antitribu:3
+2x Blackhorse Tanner          7  AUS DOM FOR          Ventrue antitribu:3
+2x Solomon Batanea            5  AUS FOR nec          Harbinger of Skulls:4
+1x Mariel St. John            6  AUS FOR dom pro      Ventrue antitribu:4
+1x Aredhel                    5  FOR VAL aus          Salubri antitribu:4
+1x Jephta Hester              5  DOM FOR aus          Ventrue antitribu:4
+1x Louis de Maisonneuve       5  FOR aus dom obf      Ventrue antitribu:4
+1x Neighbor John              5  AUS dom for          Ventrue antitribu:4
+1x Maldavis                   4  AUS for pre          Caitiff:3
 
 Library (90 cards)
 Master (16; 2 trifle)

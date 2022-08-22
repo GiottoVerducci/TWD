@@ -11,16 +11,16 @@ Deck Name: Buckets O' Money 2008
 
 Description: roughly based on a 2005 deck by Ben Peal hence the name
 
-Crypt (12 cards, min=14 max=40 avg=7.25)
-----------------------------------------
-3x Marcus Vitel         10  DOM FOR OBF OBT PRE  prince  Ventrue:3
-2x Queen Anne           10  DOM FOR PRE aus obf  prince  Ventrue:2
-2x Suhailah             9   FOR OBF pot ser      prince  Ventrue:2
-1x Catherine du Bois    5   DOM for obf pre              Ventrue:3
-1x Earl                 4   dom for pot                  Ventrue:3
-1x Elena Gutierrez      4   aus dom pre                  Ventrue:3
-1x Diana Vick           3   dom pre                      Ventrue:3
-1x Lana Butcher         3   dom for                      Ventrue:3
+Crypt (12 cards, min=14, max=40, avg=7.25)
+------------------------------------------
+3x Marcus Vitel       10  DOM FOR OBF OBT PRE  prince  Ventrue:3
+2x Queen Anne         10  DOM FOR PRE aus obf  prince  Ventrue:2
+2x Suhailah            9  FOR OBF pot ser      prince  Ventrue:2
+1x Catherine du Bois   5  DOM for obf pre              Ventrue:3
+1x Earl                4  dom for pot                  Ventrue:3
+1x Elena Gutierrez     4  aus dom pre                  Ventrue:3
+1x Diana Vick          3  dom pre                      Ventrue:3
+1x Lana Butcher        3  dom for                      Ventrue:3
 
 Library (90 cards)
 Master (22; 1 trifle)

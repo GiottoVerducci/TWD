@@ -7,16 +7,16 @@ Alex Parcero
 
 Deck Name: Malki de Presencia
 
-Crypt (12 cards, min=20 max=38 avg=7.58)
-----------------------------------------
-2x Esau                   10  AUS DEM DOM OBF PRE               Malkavian:3
-2x Alicia Barrows         9   AUS DEM OBF POT PRE  archbishop   Malkavian antitribu:4
-2x Aristotle de Laurent   9   AUS DEM OBF PRE pot               Malkavian antitribu:3
-1x Quentin King III       7   AUS DEM obf pre      prince       Malkavian:3
-1x Quentin King III (ADV) 7   AUS DEM OBF cel pre               Malkavian:3
-2x Midget                 3   DEM obf pre                       Malkavian antitribu:3
-1x Lazarus James          8   AUS DEM PRE obf tha               Malkavian:4
-1x Stavros                7   AUS OBF PRE dem      priscus      Malkavian antitribu:4
+Crypt (12 cards, min=20, max=38, avg=7.58)
+------------------------------------------
+2x Esau                    10  AUS DEM DOM OBF PRE              Malkavian:3
+2x Alicia Barrows           9  AUS DEM OBF POT PRE  archbishop  Malkavian antitribu:4
+2x Aristotle de Laurent     9  AUS DEM OBF PRE pot              Malkavian antitribu:3
+1x Quentin King III         7  AUS DEM obf pre      prince      Malkavian:3
+1x Quentin King III (ADV)   7  AUS DEM OBF cel pre              Malkavian:3
+2x Midget                   3  DEM obf pre                      Malkavian antitribu:3
+1x Lazarus James            8  AUS DEM PRE obf tha              Malkavian:4
+1x Stavros                  7  AUS OBF PRE dem      priscus     Malkavian antitribu:4
 
 Library (90 cards)
 Master (13)

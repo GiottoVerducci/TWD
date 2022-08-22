@@ -4,14 +4,14 @@ January 14th 2007
 13 players
 James Messer
 
-Crypt (12 cards, min=26 max=40 avg=8.17)
-----------------------------------------
-3x Ayo Igoli                    10  AUS CEL FOR PRE obf tha                 Ishtarri:4
-2x Alicia Barrows               9   AUS DEM OBF POT PRE         archbishop  Malkavian antitribu:4
-2x Stavros                      7   AUS OBF PRE dem             priscus     Malkavian antitribu:4
-2x Ubende                       7   CEL PRE for obf qui         magaji      Ishtarri:4
-2x Antoinette, She Who Watches  6   AUS PRE cel obf             primogen    Toreador:3
-1x Armin Brenner                10  CEL FOR POT PRE ani obf     archbishop  Brujah antitribu:4
+Crypt (12 cards, min=26, max=40, avg=8.17)
+------------------------------------------
+3x Ayo Igoli                    10  AUS CEL FOR PRE obf tha              Ishtarri:4
+2x Alicia Barrows                9  AUS DEM OBF POT PRE      archbishop  Malkavian antitribu:4
+2x Stavros                       7  AUS OBF PRE dem          priscus     Malkavian antitribu:4
+2x Ubende                        7  CEL PRE for obf qui      magaji      Ishtarri:4
+2x Antoinette, She Who Watches   6  AUS PRE cel obf          primogen    Toreador:3
+1x Armin Brenner                10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
 
 Library (90 cards)
 Master (16)

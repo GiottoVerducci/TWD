@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9207
 
 Deck Name: The Dark Side of Politics
 
-Crypt (12 cards, min=28 max=37 avg=7.75)
-----------------------------------------
-5x Giotto Verducci              7   DAI OBF for pot pre                         Baali:2
-1x Arika                        11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-1x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for         justicar        Nosferatu:1
-1x Suhailah                     9   FOR OBF pot ser             prince          Ventrue:2
-1x Selma the Repugnant          8   OBF POT ani for             prince          Nosferatu:1
-1x Greger Anderssen             7   AUS OBF dom pro             prince          Malkavian:2
-1x Murat                        7   OBF POT ser                 prince          Nosferatu:2
-1x Nikolaus Vermeulen           7   POT ani for obf             prince          Nosferatu:2
+Crypt (12 cards, min=28, max=37, avg=7.75)
+------------------------------------------
+5x Giotto Verducci             7  DAI OBF for pot pre                    Baali:2
+1x Arika                      11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Sheldon, Lord of the Clog   9  ANI AUS OBF POT for      justicar      Nosferatu:1
+1x Suhailah                    9  FOR OBF pot ser          prince        Ventrue:2
+1x Selma the Repugnant         8  OBF POT ani for          prince        Nosferatu:1
+1x Greger Anderssen            7  AUS OBF dom pro          prince        Malkavian:2
+1x Murat                       7  OBF POT ser              prince        Nosferatu:2
+1x Nikolaus Vermeulen          7  POT ani for obf          prince        Nosferatu:2
 
 Library (81 cards)
 Master (22; 8 trifle)

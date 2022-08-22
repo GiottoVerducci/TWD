@@ -17,15 +17,15 @@ Jari (Lutz vote+bleed) → Marko (Purge) → Pauli (Ventrue sticks, 2nd trads & 
 
 Description: Traditional Baltimore Purge deck built around Montano. Inspiration was taken from Akseli Jalava's similar deck. After struggling in the previous tournament against Scourge, I switched crypt's 2 caps to be a generation or two older. This made the deck a bit slower to start but allowed me to include Scourge card to burn other weenies like Tupdogs that are a constant headache in Finnish meta. As a post-Pentex-nerf update, I tested to take two Pentex cards away, and replace one of them with Blind Spot. I would consider adding a 5th Graverobbing as it sparks joy among fellow methuselahs.
 
-Crypt (12 cards, min=18 max=44 avg=8.42)
-----------------------------------------
-5x Montano                                11  ANI DOM FOR OBT POT       2 votes   Lasombra:3
-2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal  Lasombra:2
-1x Gratiano                               8   DOM OBT obf pot           priscus   Lasombra:2
-1x Gustav Mallenhous                      8   AUS DOM for obt           priscus   Ventrue antitribu:2
-1x Ignacio, The Black Priest              4   dom obt pot                         Lasombra:2
-1x Cameron                                3   dom pot                             Lasombra:2
-1x Hester Reed                            3   obt pot                             Lasombra:3
+Crypt (12 cards, min=18, max=44, avg=8.42)
+------------------------------------------
+5x Montano                                 11  ANI DOM FOR OBT POT      2 votes   Lasombra:3
+2x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal  Lasombra:2
+1x Gratiano                                 8  DOM OBT obf pot          priscus   Lasombra:2
+1x Gustav Mallenhous                        8  AUS DOM for obt          priscus   Ventrue antitribu:2
+1x Ignacio, The Black Priest                4  dom obt pot                        Lasombra:2
+1x Cameron                                  3  dom pot                            Lasombra:2
+1x Hester Reed                              3  obt pot                            Lasombra:3
 
 Library (84 cards)
 Master (16; 3 trifle)

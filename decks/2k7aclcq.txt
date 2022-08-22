@@ -7,14 +7,14 @@ Duncan Kemp
 The Setites Will Come For You
 Description: Cheesy
 
-Crypt (12 cards, min=12 max=20 avg=4)
--------------------------------------
-2x Count Ormonde        5   OBF dom pre ser     Follower of Set:2
-2x Sir Marriot D'Urban  5   PRE aus obf ser     Follower of Set:2
-2x Hadrian Garrick      4   obf pre             Follower of Set:2
-2x Nepata               4   obf pre ser         Follower of Set:2
-2x Celine Chevalier     3   obf ser             Follower of Set:2
-2x Khalil Anvari        3   pre ser             Follower of Set:2
+Crypt (12 cards, min=12, max=20, avg=4)
+---------------------------------------
+2x Count Ormonde        5  OBF dom pre ser  Follower of Set:2
+2x Sir Marriot D'Urban  5  PRE aus obf ser  Follower of Set:2
+2x Hadrian Garrick      4  obf pre          Follower of Set:2
+2x Nepata               4  obf pre ser      Follower of Set:2
+2x Celine Chevalier     3  obf ser          Follower of Set:2
+2x Khalil Anvari        3  pre ser          Follower of Set:2
 
 Library (90 cards)
 Master (14)

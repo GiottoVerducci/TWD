@@ -7,12 +7,12 @@ Bob Joseph
 
 Deck Name: shamblers
 
-Crypt (12 cards, min=14 max=26 avg=5)
--------------------------------------
-3x Andrea Giovanni  7   DOM NEC pot vic  Giovanni:2
-3x Isabel Giovanni  5   DOM NEC pot      Giovanni:2
-3x Le Dinh Tho      5   NEC aus dom      Nagaraja:2
-3x Rudolfo Giovanni 3   NEC              Giovanni:2
+Crypt (12 cards, min=14, max=26, avg=5)
+---------------------------------------
+3x Andrea Giovanni   7  DOM NEC pot vic  Giovanni:2
+3x Isabel Giovanni   5  DOM NEC pot      Giovanni:2
+3x Le Dinh Tho       5  NEC aus dom      Nagaraja:2
+3x Rudolfo Giovanni  3  NEC              Giovanni:2
 
 Library (90 cards)
 Master (16)

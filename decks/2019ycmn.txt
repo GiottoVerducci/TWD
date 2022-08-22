@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/9341
 
 Deck Name: Shadow of Yggdrasil
 
-Crypt (12 cards, min=19 max=40 avg=7.67)
-----------------------------------------
-4x Mimir          10  ANI FOR PRO THA dom       cardinal  Gangrel antitribu:5
-3x Aksinya Daclau 9   ANI FOR PRE PRO cel tha             Gangrel antitribu:4
-1x Frère Marc     6   PRO THA aus for                     Gangrel antitribu:4
-1x Spider         6   CEL PRO ani for                     Gangrel antitribu:4
-1x Mowgli         5   FOR PRO ani cel                     Gangrel antitribu:4
-1x Styles Margs   5   CEL PRO ani                         Gangrel antitribu:5
-1x Joseph Fischer 3   PRO                                 Gangrel antitribu:5
+Crypt (12 cards, min=19, max=40, avg=7.67)
+------------------------------------------
+4x Mimir           10  ANI FOR PRO THA dom      cardinal  Gangrel antitribu:5
+3x Aksinya Daclau   9  ANI FOR PRE PRO cel tha            Gangrel antitribu:4
+1x Frère Marc       6  PRO THA aus for                    Gangrel antitribu:4
+1x Spider           6  CEL PRO ani for                    Gangrel antitribu:4
+1x Mowgli           5  FOR PRO ani cel                    Gangrel antitribu:4
+1x Styles Margs     5  CEL PRO ani                        Gangrel antitribu:5
+1x Joseph Fischer   3  PRO                                Gangrel antitribu:5
 
 Library (90 cards)
 Master (23; 4 trifle)

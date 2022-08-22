@@ -7,14 +7,14 @@ Iñaki Jimenez
 
 Deck Name: Nosfe-Rat-Tools
 
-Crypt (12 cards, min=26 max=40 avg=8.5)
----------------------------------------
-4x Cock Robin           10  ANI OBF POT aus for  justicar  Nosferatu:3
-3x Casino Reeds         9   ANI OBF POT cel dem  prince    Nosferatu:3
-2x Nikolaus Vermeulen   7   POT ani for obf      prince    Nosferatu:2
-1x Ellison Humboldt     9   ANI OBF POT PRE pro  primogen  Nosferatu:3
-1x Murat                7   OBF POT ser          prince    Nosferatu:2
-1x Calebros, The Martyr 5   ANI obf pot          prince    Nosferatu:2
+Crypt (12 cards, min=26, max=40, avg=8.5)
+-----------------------------------------
+4x Cock Robin            10  ANI OBF POT aus for  justicar  Nosferatu:3
+3x Casino Reeds           9  ANI OBF POT cel dem  prince    Nosferatu:3
+2x Nikolaus Vermeulen     7  POT ani for obf      prince    Nosferatu:2
+1x Ellison Humboldt       9  ANI OBF POT PRE pro  primogen  Nosferatu:3
+1x Murat                  7  OBF POT ser          prince    Nosferatu:2
+1x Calebros, The Martyr   5  ANI obf pot          prince    Nosferatu:2
 
 Library (60 cards)
 Master (10)

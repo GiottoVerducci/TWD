@@ -22,13 +22,13 @@ The bleed retainers are the source of the real offense in the deck, adding to th
 
 Yes, I know the bounce package is pathetically weak. But Baba Yaga seems to prefer blocking. So I've focused instead on reactions that give both intercept and true untap. Baba Yaga standing tall with 1-3 intercept and 4-5 strength seems to be a significant deterrent to continuing actions.
 
-Crypt (12 cards, min=18 max=44 avg=7.83)
-----------------------------------------
-5x Baba Yaga, The Iron Hag 11  ANI AUS FOR OBF POT THA  Nosferatu:5
-3x Doyle Fincher           7   ANI PRO aus for obf      Gangrel antitribu:4
-2x Jeremy "Wix" Wyzchovsky 5   ani obf pot              Nosferatu:4
-1x Beetleman               4   ANI obf                  Nosferatu:4
-1x Slag                    4   ani obf pot              Nosferatu:5
+Crypt (12 cards, min=18, max=44, avg=7.83)
+------------------------------------------
+5x Baba Yaga, The Iron Hag  11  ANI AUS FOR OBF POT THA  Nosferatu:5
+3x Doyle Fincher             7  ANI PRO aus for obf      Gangrel antitribu:4
+2x Jeremy "Wix" Wyzchovsky   5  ani obf pot              Nosferatu:4
+1x Beetleman                 4  ANI obf                  Nosferatu:4
+1x Slag                      4  ani obf pot              Nosferatu:5
 
 Library (89 cards)
 Master (27; 7 trifle)

@@ -6,16 +6,16 @@ Maile Walker
 
 Deck Name: Indifference
 
-Crypt (12 cards, min=12 max=36 avg=5.83)
-----------------------------------------
-5x Alvaro, The Scion of Angelica 9   OBT POT dom pre    archbishop  Lasombra:2
-1x Guido Lucciano                5   OBT dom obf                    Lasombra:2
-1x Ignacio, The Black Priest     4   dom obt pot                    Lasombra:2
-1x Quincy, The Trapper           4   dom myt obt                    Kiasyd:3
-1x Ramiro                        4   dom obt vic                    Lasombra:2
-1x Tabitha Fisk                  4   obt pot pro                    Lasombra:3
-1x Aaron Duggan, Cameron's Toady 2   obt                            Lasombra:2
-1x Mitchell, The Headhunter      2   obt pot                        Pander:2
+Crypt (12 cards, min=12, max=36, avg=5.83)
+------------------------------------------
+5x Alvaro, The Scion of Angelica  9  OBT POT dom pre  archbishop  Lasombra:2
+1x Guido Lucciano                 5  OBT dom obf                  Lasombra:2
+1x Ignacio, The Black Priest      4  dom obt pot                  Lasombra:2
+1x Quincy, The Trapper            4  dom myt obt                  Kiasyd:3
+1x Ramiro                         4  dom obt vic                  Lasombra:2
+1x Tabitha Fisk                   4  obt pot pro                  Lasombra:3
+1x Aaron Duggan, Cameron's Toady  2  obt                          Lasombra:2
+1x Mitchell, The Headhunter       2  obt pot                      Pander:2
 
 Library (90 cards)
 Master (18)

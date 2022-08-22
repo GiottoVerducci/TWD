@@ -9,13 +9,13 @@ Antoine Franqueville-Roy
 
 Deck Name: Maleficia
 
-Crypt (12 cards, min=33 max=40 avg=9.17)
-----------------------------------------
-5x Cybele                  10  ANI DAI OBF PRE SER THA           Baali:4
-3x Annazir                 9   DAI OBF POT PRE          2 votes  Baali:5
-2x Petaniqua (ADV)         9   AUS DAI DEM OBF THA chi           Baali:4
-1x Petaniqua               9   AUS DAI DEM OBF THA chi           Malkavian:4
-1x Maureen, Dark Priestess 6   DAI PRE dom obf          1 vote   Baali:4
+Crypt (12 cards, min=33, max=40, avg=9.17)
+------------------------------------------
+5x Cybele                   10  ANI DAI OBF PRE SER THA           Baali:4
+3x Annazir                   9  DAI OBF POT PRE          2 votes  Baali:5
+2x Petaniqua (ADV)           9  AUS DAI DEM OBF THA chi           Baali:4
+1x Petaniqua                 9  AUS DAI DEM OBF THA chi           Malkavian:4
+1x Maureen, Dark Priestess   6  DAI PRE dom obf          1 vote   Baali:4
 
 Library (75 cards)
 Master (32; 7 trifle)

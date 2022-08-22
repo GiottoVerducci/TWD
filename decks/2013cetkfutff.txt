@@ -8,14 +8,14 @@ Juan Galarreta
 Deck Name: Shattering Voters
 Created by: Jaime Manzanares
 
-Crypt (12 cards, min=28 max=36 avg=8.17)
-----------------------------------------
-3x Dmitra Ilyanova  9   CEL FOR POT PRE obf     justicar  Brujah:5
-3x Undele           9   CEL FOR obf pre ser     magaji    Ishtarri:5
-3x Scout Youngwood  8   MEL OBF PRE for qui     2 votes   Daughter of Cacophony:6
-1x Graham Gottesman 7   DOM FOR obf pre tha     prince    Ventrue:5
-1x Karen Suadela    7   CEL POT obf pre         prince    Brujah:5
-1x Arishat          6   DAI OBF PRE             1 vote    Baali:6
+Crypt (12 cards, min=28, max=36, avg=8.17)
+------------------------------------------
+3x Dmitra Ilyanova   9  CEL FOR POT PRE obf  justicar  Brujah:5
+3x Undele            9  CEL FOR obf pre ser  magaji    Ishtarri:5
+3x Scout Youngwood   8  MEL OBF PRE for qui  2 votes   Daughter of Cacophony:6
+1x Graham Gottesman  7  DOM FOR obf pre tha  prince    Ventrue:5
+1x Karen Suadela     7  CEL POT obf pre      prince    Brujah:5
+1x Arishat           6  DAI OBF PRE          1 vote    Baali:6
 
 Library (60 cards)
 Master (17; 6 trifle)

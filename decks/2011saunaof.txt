@@ -5,13 +5,13 @@ August 27th 2011
 11 players
 Tuomas Nyberg
 
-Crypt (12 cards, min=16 max=40 avg=7.67)
-----------------------------------------
-5x unnamed, The                 10  CEL DAI OBF PRE PRO  Baali:6
-3x Horde, The                   3   dai obf pre          Baali:6
-2x Viktor, The Night General    9   ANI CEL PRE PRO obf  Gangrel:5
-1x Zubeida                      8   OBF PRE PRO for ser  Abomination:5
-1x Xeper, Sultan of Lepers      7   OBF PRE ani dai pro  Baali:6
+Crypt (12 cards, min=16, max=40, avg=7.67)
+------------------------------------------
+5x unnamed, The               10  CEL DAI OBF PRE PRO  Baali:6
+3x Horde, The                  3  dai obf pre          Baali:6
+2x Viktor, The Night General   9  ANI CEL PRE PRO obf  Gangrel:5
+1x Zubeida                     8  OBF PRE PRO for ser  Abomination:5
+1x Xeper, Sultan of Lepers     7  OBF PRE ani dai pro  Baali:6
 
 Library (90 cards)
 Master (20; 12 trifle)

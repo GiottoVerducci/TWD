@@ -12,17 +12,17 @@ the smith it is fairly versatile and i can usually get the ressources i need
 at the moment. after a while i have 4 or 5 vampires in play and my prey is
 an easy kill because she could not build up.
 
-Crypt (12 cards, min=10 max=24 avg=4.42)
-----------------------------------------
-2x Muaziz, Archon of Ulugh Beg     7   THA aus dom for  Tremere:2
-2x Aisling Sturbridge              5   AUS THA dom      Tremere:2
-2x Hannigan                        5   AUS THA dom      Tremere antitribu:2
-1x Merrill Molitor                 5   THA aus dom      Tremere:1
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha          Tremere antitribu:2
-1x Blythe Candeleria               3   THA aus          Tremere:2
-1x Dr. John Casey                  3   aus tha          Tremere:1
-1x Heinrick Schlempt               2   tha              Tremere antitribu:2
-1x Roreca Quaid                    2   tha              Tremere:1
+Crypt (12 cards, min=10, max=24, avg=4.42)
+------------------------------------------
+2x Muaziz, Archon of Ulugh Beg      7  THA aus dom for  Tremere:2
+2x Aisling Sturbridge               5  AUS THA dom      Tremere:2
+2x Hannigan                         5  AUS THA dom      Tremere antitribu:2
+1x Merrill Molitor                  5  THA aus dom      Tremere:1
+1x Richard Tauber, Ayelea's Puppet  4  AUS tha          Tremere antitribu:2
+1x Blythe Candeleria                3  THA aus          Tremere:2
+1x Dr. John Casey                   3  aus tha          Tremere:1
+1x Heinrick Schlempt                2  tha              Tremere antitribu:2
+1x Roreca Quaid                     2  tha              Tremere:1
 
 Library (90 cards)
 Master (20)

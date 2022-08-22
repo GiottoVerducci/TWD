@@ -7,13 +7,13 @@ Brian Moritz
 
 Deck Name: Gangrel (Beckett)
 
-Crypt (12 cards, min=32 max=43 avg=9.42)
-----------------------------------------
-4x Beckett (ADV)  8   ANI FOR PRO cel tha                Gangrel:3
-3x Stanislava     11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
-2x Hartmut Stover 10  CEL OBF PRO dom for  archbishop    Gangrel antitribu:3
-2x Ingrid Rossler 9   ANI FOR PRO dom      prince        Gangrel:2
-1x Genevieve      10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+Crypt (12 cards, min=32, max=43, avg=9.42)
+------------------------------------------
+4x Beckett (ADV)    8  ANI FOR PRO cel tha                Gangrel:3
+3x Stanislava      11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Hartmut Stover  10  CEL OBF PRO dom for  archbishop    Gangrel antitribu:3
+2x Ingrid Rossler   9  ANI FOR PRO dom      prince        Gangrel:2
+1x Genevieve       10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
 
 Library (90 cards)
 Master (18)

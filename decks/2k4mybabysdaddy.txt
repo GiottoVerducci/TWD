@@ -13,18 +13,18 @@ Concept: As appropriate for a tournament named such, get out a few
 start bleeding with Palla Grande out. Bloat and Greta + bounce for
 defence. Only works in low intercept environments.
 
-Crypt (12 cards, min=11 max=26 avg=4.75)
-----------------------------------------
-2x Greta Kircher                7   AUS CEL PRE obf     Toreador antitribu:2
-2x Jost Werner                  6   AUS PRE ani         Toreador antitribu:2
-1x Sheila Mezarin               6   AUS PRE cel for     Toreador antitribu:2
-1x Creamy Jade                  5   PRE aus cel vic     Toreador antitribu:3
-1x Mercy, Knight Inquisitor     5   AUS cel dom pre     Toreador antitribu:2
-1x Remilliard, Devout Crusader  4   AUS pre             Toreador antitribu:2
-1x Sabrina                      4   aus cel pre         Toreador antitribu:3
-1x Lolita                       3   for pre             Toreador antitribu:2
-1x Carter                       2   cel                 Toreador antitribu:2
-1x Nicholas Chang               2   aus                 Toreador antitribu:3
+Crypt (12 cards, min=11, max=26, avg=4.75)
+------------------------------------------
+2x Greta Kircher                7  AUS CEL PRE obf  Toreador antitribu:2
+2x Jost Werner                  6  AUS PRE ani      Toreador antitribu:2
+1x Sheila Mezarin               6  AUS PRE cel for  Toreador antitribu:2
+1x Creamy Jade                  5  PRE aus cel vic  Toreador antitribu:3
+1x Mercy, Knight Inquisitor     5  AUS cel dom pre  Toreador antitribu:2
+1x Remilliard, Devout Crusader  4  AUS pre          Toreador antitribu:2
+1x Sabrina                      4  aus cel pre      Toreador antitribu:3
+1x Lolita                       3  for pre          Toreador antitribu:2
+1x Carter                       2  cel              Toreador antitribu:2
+1x Nicholas Chang               2  aus              Toreador antitribu:3
 
 Library (70 cards)
 Master (12; 1 trifle)

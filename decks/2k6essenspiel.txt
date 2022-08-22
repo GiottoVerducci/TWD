@@ -5,15 +5,15 @@ October 21st 2006
 21 players
 Mike Nudd
 
-Crypt (12 cards, min=22 max=32 avg=6.83)
-----------------------------------------
-2x Calebos                              8   ANI OBF POT cel     bishop   Nosferatu antitribu:2
-2x Mateusz Gryzbowsky                   8   ANI OBF POT                  Nosferatu antitribu:3
-2x Beast, The Leatherface of Detroit    7   OBF POT ani cel              Nosferatu antitribu:2
-2x Ox, Viceroy of the Hollows           6   ANI OBF POT                  Nosferatu antitribu:2
-2x Nigel the Shunned                    5   ANI POT obf                  Nosferatu antitribu:2
-1x Kendrick                             7   ANI POT aus obf     priscus  Nosferatu antitribu:2
-1x Teresita, The Godmother              7   ANI OBF POT for              Nosferatu antitribu:3
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+2x Calebos                            8  ANI OBF POT cel  bishop   Nosferatu antitribu:2
+2x Mateusz Gryzbowsky                 8  ANI OBF POT               Nosferatu antitribu:3
+2x Beast, The Leatherface of Detroit  7  OBF POT ani cel           Nosferatu antitribu:2
+2x Ox, Viceroy of the Hollows         6  ANI OBF POT               Nosferatu antitribu:2
+2x Nigel the Shunned                  5  ANI POT obf               Nosferatu antitribu:2
+1x Kendrick                           7  ANI POT aus obf  priscus  Nosferatu antitribu:2
+1x Teresita, The Godmother            7  ANI OBF POT for           Nosferatu antitribu:3
 
 Library (90 cards)
 Master (14)

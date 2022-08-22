@@ -11,13 +11,13 @@ Deck Name: Gorditos Power Again
 
 Modified by: Oriol Pubill
 
-Crypt (12 cards, min=30 max=44 avg=9.5)
----------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
-3x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
-2x Rafael de Corazon     11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
-2x Dmitra Ilyanova       9   CEL FOR POT PRE obf  justicar      Brujah:5
-1x Alicia Barrows        9   AUS DEM OBF POT PRE  archbishop    Malkavian antitribu:4
+Crypt (12 cards, min=30, max=44, avg=9.5)
+-----------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Stavros                 7  AUS OBF PRE dem      priscus       Malkavian antitribu:4
+2x Rafael de Corazon      11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
+2x Dmitra Ilyanova         9  CEL FOR POT PRE obf  justicar      Brujah:5
+1x Alicia Barrows          9  AUS DEM OBF POT PRE  archbishop    Malkavian antitribu:4
 
 Library (90 cards)
 Master (18; 8 trifle)

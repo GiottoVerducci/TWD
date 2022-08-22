@@ -9,19 +9,19 @@ Created by: Sergio Gracia
 
 Description: 3GW & 11VP
 
-Crypt (12 cards, min=8 max=28 avg=4.58)
----------------------------------------
-2x Anarch Convert        1   -none-               Caitiff:ANY
-1x Conrad Adoula         8   DOM OBT POT ani cel  Lasombra:4
-1x Henri Lavenant        7   DOM OBT pot qui      Lasombra:3
-1x Lord Vauxhall         7   DOM OBT POT THA      Lasombra:4
-1x Onaedo                6   DOM OBT aus pot      Lasombra:4
-1x Banjoko               5   DOM obt pot          Lasombra:3
-1x Dame Hollerton        5   DOM OBT myt          Kiasyd:4
-1x Ermenegildo, The Rake 5   DOM OBT pot          Lasombra:4
-1x Leila Monroe          4   dom obt pre          Lasombra:4
-1x Keith Moody           3   DOM                  Tremere antitribu:4
-1x Lucy Markowitz        3   dom obt              Lasombra:4
+Crypt (12 cards, min=8, max=28, avg=4.58)
+-----------------------------------------
+2x Anarch Convert         1  -none-               Caitiff:ANY
+1x Conrad Adoula          8  DOM OBT POT ani cel  Lasombra:4
+1x Henri Lavenant         7  DOM OBT pot qui      Lasombra:3
+1x Lord Vauxhall          7  DOM OBT POT THA      Lasombra:4
+1x Onaedo                 6  DOM OBT aus pot      Lasombra:4
+1x Banjoko                5  DOM obt pot          Lasombra:3
+1x Dame Hollerton         5  DOM OBT myt          Kiasyd:4
+1x Ermenegildo, The Rake  5  DOM OBT pot          Lasombra:4
+1x Leila Monroe           4  dom obt pre          Lasombra:4
+1x Keith Moody            3  DOM                  Tremere antitribu:4
+1x Lucy Markowitz         3  dom obt              Lasombra:4
 
 Library (80 cards)
 Master (14; 2 trifle)

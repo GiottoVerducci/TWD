@@ -7,18 +7,18 @@ Iñaki Puigdollers
 
 Deck Name: Lucinde' s Bag-of-all-trades
 
-Crypt (12 cards, min=14 max=39 avg=6.83)
-----------------------------------------
-3x Lucinde, Alastor         10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
-1x Orlando Oriundus         9   AUS DOM THA obf          bishop         Tremere antitribu:4
-1x Polly Kay Fisher         8   AUS DOM THA for pot      archbishop     Ventrue antitribu:4
-1x Victorine Lafourcade     8   DOM FOR PRE tha          prince         Ventrue:3
-1x Ladislas Toth, The Torch 7   AUS DOM THA for          archbishop     Tremere antitribu:3
-1x Jefferson Foster         6   AUS DOM for tha          bishop         Ventrue antitribu:4
-1x Victor Pelletier         5   PRE cel dom for                         Ventrue:4
-1x Keith Moody              3   DOM                                     Tremere antitribu:4
-1x Lana Butcher             3   dom for                                 Ventrue:3
-1x Ulrike Rothbart          3   dom for                                 Ventrue antitribu:4
+Crypt (12 cards, min=14, max=39, avg=6.83)
+------------------------------------------
+3x Lucinde, Alastor          10  DOM FOR PRE obf pot tha  justicar    Ventrue:3
+1x Orlando Oriundus           9  AUS DOM THA obf          bishop      Tremere antitribu:4
+1x Polly Kay Fisher           8  AUS DOM THA for pot      archbishop  Ventrue antitribu:4
+1x Victorine Lafourcade       8  DOM FOR PRE tha          prince      Ventrue:3
+1x Ladislas Toth, The Torch   7  AUS DOM THA for          archbishop  Tremere antitribu:3
+1x Jefferson Foster           6  AUS DOM for tha          bishop      Ventrue antitribu:4
+1x Victor Pelletier           5  PRE cel dom for                      Ventrue:4
+1x Keith Moody                3  DOM                                  Tremere antitribu:4
+1x Lana Butcher               3  dom for                              Ventrue:3
+1x Ulrike Rothbart            3  dom for                              Ventrue antitribu:4
 
 Library (90 cards)
 Master (12)

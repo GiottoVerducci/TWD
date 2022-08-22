@@ -6,14 +6,14 @@ Gergo Gyarmati
 
 Deck Name: We Bring Vengeance!
 
-Crypt (12 cards, min=10 max=30 avg=4.67)
-----------------------------------------
-2x Dela Eden               8   AUS FOR VAL cel dom  Salubri antitribu:3
-2x Adonai                  7   AUS VAL for          Salubri antitribu:2
-2x Thomas Steed, The Angry 4   ani aus val          Salubri antitribu:2
-2x Wolf Valentine          4   VAL for              Salubri antitribu:2
-2x Kervos, The Lieutenant  3   aus val              Salubri antitribu:2
-2x Doris McMillon          2   val                  Salubri antitribu:2
+Crypt (12 cards, min=10, max=30, avg=4.67)
+------------------------------------------
+2x Dela Eden                8  AUS FOR VAL cel dom  Salubri antitribu:3
+2x Adonai                   7  AUS VAL for          Salubri antitribu:2
+2x Thomas Steed, The Angry  4  ani aus val          Salubri antitribu:2
+2x Wolf Valentine           4  VAL for              Salubri antitribu:2
+2x Kervos, The Lieutenant   3  aus val              Salubri antitribu:2
+2x Doris McMillon           2  val                  Salubri antitribu:2
 
 Library (90 cards)
 Master (18)

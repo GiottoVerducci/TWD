@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/8032
 
 Deck Name: Avengers do sabbat
 
-Crypt (12 cards, min=14 max=19 avg=4.08)
-----------------------------------------
-2x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-2x Jack "Hannibal137" Harmon    4   def jud      Defender:4
-2x Paul "Sixofswords29" Moreton 4   def vis      Visionary:4
-2x François "Warden" Loehr      3   def jud      Judge:4
-1x Travis "Traveler72" Miller   5   def mar      Martyr:4
-1x Erick "Shophet125" Franco    4   inn jud      Judge:4
-1x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
-1x Marion "Teacher193" Perks    4   jud red      Redeemer:4
+Crypt (12 cards, min=14, max=19, avg=4.08)
+------------------------------------------
+2x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+2x Jack "Hannibal137" Harmon     4  def jud      Defender:4
+2x Paul "Sixofswords29" Moreton  4  def vis      Visionary:4
+2x François "Warden" Loehr       3  def jud      Judge:4
+1x Travis "Traveler72" Miller    5  def mar      Martyr:4
+1x Erick "Shophet125" Franco     4  inn jud      Judge:4
+1x Leaf "Potter116" Pankowski    4  inn red viz  Redeemer:4
+1x Marion "Teacher193" Perks     4  jud red      Redeemer:4
 
 Library (73 cards)
 Master (13)

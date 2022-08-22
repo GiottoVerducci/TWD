@@ -8,18 +8,18 @@ https://www.vekn.net/event-calendar/event/7760
 
 Deck Name: Euro Amaravati
 
-Crypt (13 cards, min=10 max=32 avg=5.62)
-----------------------------------------
-4x Amaravati            8   DOM OBF QUI ani chi          Assamite:4
-1x Kashan               7   CEL OBF QUI obt pre  1 vote  Assamite:4
-1x Olugbenga            7   OBF QUI ani cel      magaji  Assamite:4
-1x Hafsa, The Watcher   6   OBF QUI aus cel              Assamite:5
-1x Vardar Vardarian     6   OBF QUI cel pre              Assamite:4
-1x Layla bint-Nadr      5   CEL OBF qui                  Assamite:4
-1x Kamau Jafari         4   QUI obf                      Assamite:4
-1x Evan Rogers          3   cel qui                      Assamite:4
-1x Alu                  2   obf                          Assamite:5
-1x Basir                1   qui                          Assamite:4
+Crypt (13 cards, min=10, max=32, avg=5.62)
+------------------------------------------
+4x Amaravati           8  DOM OBF QUI ani chi          Assamite:4
+1x Kashan              7  CEL OBF QUI obt pre  1 vote  Assamite:4
+1x Olugbenga           7  OBF QUI ani cel      magaji  Assamite:4
+1x Hafsa, The Watcher  6  OBF QUI aus cel              Assamite:5
+1x Vardar Vardarian    6  OBF QUI cel pre              Assamite:4
+1x Layla bint-Nadr     5  CEL OBF qui                  Assamite:4
+1x Kamau Jafari        4  QUI obf                      Assamite:4
+1x Evan Rogers         3  cel qui                      Assamite:4
+1x Alu                 2  obf                          Assamite:5
+1x Basir               1  qui                          Assamite:4
 
 Library (90 cards)
 Master (15)

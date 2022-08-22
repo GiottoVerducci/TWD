@@ -23,14 +23,14 @@ the Ascendances probably should be changed to a Pentex
 Subversion for contesting or lunging, but Pentex is less
 prevalent in L.A. than in other places.
 
-Crypt (12 cards, min=7 max=40 avg=6.58)
----------------------------------------
-4x Angelica, The Canonicus 10  DOM OBT POT cel obf  cardinal    Lasombra:2
-4x Anson                   8   CEL PRE aus dom      prince      Toreador:1
-1x Mustafa Rahman          2   dom                              Tremere:2
-1x Ohanna                  2   dom                              Malkavian:2
-1x Samson                  2   dom                              Ventrue antitribu:2
-1x Royce                   1   dom                              Pander:2
+Crypt (12 cards, min=7, max=40, avg=6.58)
+-----------------------------------------
+4x Angelica, The Canonicus  10  DOM OBT POT cel obf  cardinal  Lasombra:2
+4x Anson                     8  CEL PRE aus dom      prince    Toreador:1
+1x Mustafa Rahman            2  dom                            Tremere:2
+1x Ohanna                    2  dom                            Malkavian:2
+1x Samson                    2  dom                            Ventrue antitribu:2
+1x Royce                     1  dom                            Pander:2
 
 Library (90 cards)
 Master (32)

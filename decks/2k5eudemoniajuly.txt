@@ -7,15 +7,15 @@ Jeff Kuta
 
 Qadir's World Tour 2005
 
-Crypt (12 cards, min=15 max=36 avg=6.17)
-----------------------------------------
-4x Qadir ul-Ghani               9   CEL OBF QUI nec tha  Assamite:2
-2x Kalinda                      6   CEL OBF tha          Assamite:2
-2x Tansu Bekir                  4   OBF cel              Assamite:2
-1x Zahir, Hand of the Silsila   6   CEL OBF qui tha      Assamite:2
-1x Badr al-Budur                5   OBF cel dom qui      Assamite:2
-1x Anwar                        4   cel obf qui          Assamite:2
-1x Ali Kar                      3   obf qui              Assamite:3
+Crypt (12 cards, min=15, max=36, avg=6.17)
+------------------------------------------
+4x Qadir ul-Ghani              9  CEL OBF QUI nec tha  Assamite:2
+2x Kalinda                     6  CEL OBF tha          Assamite:2
+2x Tansu Bekir                 4  OBF cel              Assamite:2
+1x Zahir, Hand of the Silsila  6  CEL OBF qui tha      Assamite:2
+1x Badr al-Budur               5  OBF cel dom qui      Assamite:2
+1x Anwar                       4  cel obf qui          Assamite:2
+1x Ali Kar                     3  obf qui              Assamite:3
 
 Library (90 cards)
 Master (20)

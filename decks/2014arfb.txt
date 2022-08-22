@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/7498
 
 Deck Name: Bloqueia Eu Não, MAH ...
 
-Crypt (12 cards, min=20 max=43 avg=8.42)
-----------------------------------------
-4x Montecalme           10  AUS CEL DOM PRE obt  justicar       Toreador:5
-3x Rafael de Corazon    11  AUS CEL DOM OBF PRE  inner circle   Toreador:4
-3x Epikasta Rigatos     8   AUS DOM PRE cel      prince         Toreador:4
-2x Dr. Solomon Grey     2   dom pre                             Caitiff:5
+Crypt (12 cards, min=20, max=43, avg=8.42)
+------------------------------------------
+4x Montecalme         10  AUS CEL DOM PRE obt  justicar      Toreador:5
+3x Rafael de Corazon  11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
+3x Epikasta Rigatos    8  AUS DOM PRE cel      prince        Toreador:4
+2x Dr. Solomon Grey    2  dom pre                            Caitiff:5
 
 Library (90 cards)
 Master (10; 3 trifle)

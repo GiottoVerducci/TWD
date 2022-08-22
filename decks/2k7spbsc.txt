@@ -9,18 +9,18 @@ Deck Name: Respeito PNP (something like 'Beat the Prey: Respect').
 
 PNP means 'Pau na Presa' in Portuguese or 'Beat the Prey' in English.
 
-Crypt (14 cards, min=28 max=39 avg=8.21)
-----------------------------------------
-3x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop     Ventrue antitribu:2
-2x Owain Evans, The Wanderer            8   AUS DOM FOR cel pre                 Ventrue antitribu:3
-2x Blackhorse Tanner                    7   AUS DOM FOR                         Ventrue antitribu:3
-1x Dominique                            7   AUS FOR ani dom vic                 Ventrue antitribu:2
-1x Dominique (ADV)                      7   AUS FOR ani dom vic                 Ventrue antitribu:2
-1x Kyle Strathcona, Cardinal of Canada  9   AUS DOM POT PRE for  cardinal       Ventrue antitribu:2
-1x Quentin                              9   AUS DOM FOR cel obt  bishop         Ventrue antitribu:2
-1x Gustav Mallenhous                    8   AUS DOM for obt      priscus        Ventrue antitribu:2
-1x Jesse Menks                          8   AUS DOM FOR ani      archbishop     Ventrue antitribu:3
-1x Joseph O'Grady                       7   DOM FOR aus cel                     Ventrue antitribu:3
+Crypt (14 cards, min=28, max=39, avg=8.21)
+------------------------------------------
+3x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop  Ventrue antitribu:2
+2x Owain Evans, The Wanderer             8  AUS DOM FOR cel pre              Ventrue antitribu:3
+2x Blackhorse Tanner                     7  AUS DOM FOR                      Ventrue antitribu:3
+1x Dominique                             7  AUS FOR ani dom vic              Ventrue antitribu:2
+1x Dominique (ADV)                       7  AUS FOR ani dom vic              Ventrue antitribu:2
+1x Kyle Strathcona, Cardinal of Canada   9  AUS DOM POT PRE for  cardinal    Ventrue antitribu:2
+1x Quentin                               9  AUS DOM FOR cel obt  bishop      Ventrue antitribu:2
+1x Gustav Mallenhous                     8  AUS DOM for obt      priscus     Ventrue antitribu:2
+1x Jesse Menks                           8  AUS DOM FOR ani      archbishop  Ventrue antitribu:3
+1x Joseph O'Grady                        7  DOM FOR aus cel                  Ventrue antitribu:3
 
 Library (90 cards)
 Master (19)

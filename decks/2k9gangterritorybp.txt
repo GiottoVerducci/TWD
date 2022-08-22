@@ -17,13 +17,13 @@ That deck would probably never survive a malk bleed deck.
 That was supposed to be a fun deck but after several changes I would
 find some potential there.
 
-Crypt (12 cards, min=14 max=44 avg=7)
--------------------------------------
-5x Enkidu, The Noah     11  ANI CEL OBF POT PRO for     Gangrel antitribu:4
-4x Antonio d'Erlette    5   THA dom for pot             Tremere antitribu:4
-1x Ember Wright         3   aus dom                     Tremere antitribu:3
-1x Keith Moody          3   DOM                         Tremere antitribu:4
-1x Saiz                 3   aus dom                     Tremere antitribu:3
+Crypt (12 cards, min=14, max=44, avg=7)
+---------------------------------------
+5x Enkidu, The Noah   11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+4x Antonio d'Erlette   5  THA dom for pot          Tremere antitribu:4
+1x Ember Wright        3  aus dom                  Tremere antitribu:3
+1x Keith Moody         3  DOM                      Tremere antitribu:4
+1x Saiz                3  aus dom                  Tremere antitribu:3
 
 Library (76 cards)
 Master (18; 6 trifle)

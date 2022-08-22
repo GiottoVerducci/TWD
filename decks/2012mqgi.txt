@@ -9,20 +9,20 @@ Deck Name: Turbo Baron
 
 Description: Something to do a lot of times.
 
-Crypt (12 cards, min=24 max=32 avg=7)
--------------------------------------
-1x Baron, The                   9   FOR NEC OBF THN dom  2 votes  Samedi:2
-1x Anisa Marianna Lopez         8   FOR NEC QUI aus               Harbinger of Skulls:2
-1x Pochtli                      8   NEC OBF POT cel dom           Giovanni:2
-1x Andrea Giovanni              7   DOM NEC pot vic               Giovanni:2
-1x Carlotta Giovanni            7   NEC POT dom obf               Giovanni:2
-1x Egothha                      7   AUS FOR NEC obf               Harbinger of Skulls:2
-1x Gillespi Giovanni            7   DOM NEC POT aus               Giovanni:2
-1x Gisela Harden, The Winnower  7   FOR NEC aus dem      priscus  Harbinger of Skulls:2
-1x Kanimana Belghazi            7   AUS DOM NEC pro               Nagaraja:2
-1x Mina Grotius                 6   FOR NEC cel                   Harbinger of Skulls:3
-1x Rafaele Giovanni             6   NEC cel obf                   Giovanni:2
-1x Le Dinh Tho                  5   NEC aus dom                   Nagaraja:2
+Crypt (12 cards, min=24, max=32, avg=7)
+---------------------------------------
+1x Baron, The                   9  FOR NEC OBF THN dom  2 votes  Samedi:2
+1x Anisa Marianna Lopez         8  FOR NEC QUI aus               Harbinger of Skulls:2
+1x Pochtli                      8  NEC OBF POT cel dom           Giovanni:2
+1x Andrea Giovanni              7  DOM NEC pot vic               Giovanni:2
+1x Carlotta Giovanni            7  NEC POT dom obf               Giovanni:2
+1x Egothha                      7  AUS FOR NEC obf               Harbinger of Skulls:2
+1x Gillespi Giovanni            7  DOM NEC POT aus               Giovanni:2
+1x Gisela Harden, The Winnower  7  FOR NEC aus dem      priscus  Harbinger of Skulls:2
+1x Kanimana Belghazi            7  AUS DOM NEC pro               Nagaraja:2
+1x Mina Grotius                 6  FOR NEC cel                   Harbinger of Skulls:3
+1x Rafaele Giovanni             6  NEC cel obf                   Giovanni:2
+1x Le Dinh Tho                  5  NEC aus dom                   Nagaraja:2
 
 Library (60 cards)
 Master (22; 6 trifle)

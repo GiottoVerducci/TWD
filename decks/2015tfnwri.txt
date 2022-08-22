@@ -10,14 +10,14 @@ Deck Name: Jen Friday TempleCon 2015
 
 The deck worked well when it got going, but getting going from the #2 position at a table was tough. After playing it more, I'd put in a second Secure Haven, remove Honor the Elders for another damaging vote (not enough big vamps out to make it worth while) and change out at least one True Love's Face for Voter Captivation - the deck needs bloat and that (and Villein) are all it has. Mundane was really helpful when I drew it, and I'd probably swap one of the Telepathic Misdirection or Counters for another Majesty. Finally, Drozodny is amazing, if I didn't need votes, he beat Stavros every time.
 
-Crypt (12 cards, min=23 max=44 avg=8.25)
-----------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
-3x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
-2x Drozodny              7   AUS DEM OBF pre      bishop        Malkavian antitribu:5
-1x Rafael de Corazon     11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
-1x Arthur Denholm        5   AUS DEM obf                        Malkavian:5
-1x Pearl                 4   AUS obf                            Malkavian antitribu:5
+Crypt (12 cards, min=23, max=44, avg=8.25)
+------------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Stavros                 7  AUS OBF PRE dem      priscus       Malkavian antitribu:4
+2x Drozodny                7  AUS DEM OBF pre      bishop        Malkavian antitribu:5
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE  inner circle  Toreador:4
+1x Arthur Denholm          5  AUS DEM obf                        Malkavian:5
+1x Pearl                   4  AUS obf                            Malkavian antitribu:5
 
 Library (90 cards)
 Master (15; 5 trifle)

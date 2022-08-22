@@ -6,15 +6,15 @@ Brian Moritz
 
 "Teaching an Old Dog New Tricks"
 
-Crypt (12 cards, min=22 max=32 avg=7)
--------------------------------------
-6x Ian Forestal         8   AUS DOM THA                 Tremere antitribu:2
-1x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
-1x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
-1x Ozmo                 6   AUS dom obf                 Malkavian:1
-1x Reverend Blackwood   6   DOM THA obf         bishop  Tremere antitribu:2
-1x Didi Meyers          5   DOM aus cel obf             Malkavian:1
-1x Zebulon              5   OBF aus dom pro             Malkavian:1
+Crypt (12 cards, min=22, max=32, avg=7)
+---------------------------------------
+6x Ian Forestal          8  AUS DOM THA              Tremere antitribu:2
+1x Gilbert Duane         7  AUS DOM OBF      prince  Malkavian:1
+1x Mariel, Lady Thunder  7  DOM OBF aus tha          Malkavian:1
+1x Ozmo                  6  AUS dom obf              Malkavian:1
+1x Reverend Blackwood    6  DOM THA obf      bishop  Tremere antitribu:2
+1x Didi Meyers           5  DOM aus cel obf          Malkavian:1
+1x Zebulon               5  OBF aus dom pro          Malkavian:1
 
 Library (63 cards)
 Master (8)

@@ -12,16 +12,16 @@ Deck Name: The feel of the rod
 
 Description: Based on David Durans "I Have a Stick" from Camarilla Conclave 2014. I wanted to play princes with sticks, but not my usual one, so I took David's deck and made some random tweaks. I switched 2 Vessel for 2 Villein, 4 Public Trust for Governs, 1 Parity Shift for 1 Anarchist Uprising, 1 Foreshadowing for 1 Conditioning, 2 Redirection for 2 Deflectioning, 2 WWEF for 2 Second Traditions, 4 Taste of Vitae for 2 Soak and 2 Weighted Walking Stick. Switched Joseph D for extra Mustafa. I see now that the alternations can be discussed, and there are still much room for improvement, but it worked out fine at the tournament:)
 
-Crypt (12 cards, min=21 max=31 avg=6.42)
-----------------------------------------
-3x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro  prince    Ventrue:5
-2x Graham Gottesman     7   DOM FOR obf pre tha  prince    Ventrue:5
-2x Mustafa, The Heir    6   FOR PRE cel dom      prince    Ventrue:4
-1x Juniper              6   FOR ani dom pre                Ventrue:4
-1x Victor Donaldson     6   DOM for pre          prince    Ventrue:5
-1x Emily Carson         5   DOM for pre          primogen  Ventrue:5
-1x João Bilé            5   DOM FOR pre                    Ventrue:4
-1x Victor Pelletier     5   PRE cel dom for                Ventrue:4
+Crypt (12 cards, min=21, max=31, avg=6.42)
+------------------------------------------
+3x Lodin (Olaf Holte)  8  DOM FOR PRE aus pro  prince    Ventrue:5
+2x Graham Gottesman    7  DOM FOR obf pre tha  prince    Ventrue:5
+2x Mustafa, The Heir   6  FOR PRE cel dom      prince    Ventrue:4
+1x Juniper             6  FOR ani dom pre                Ventrue:4
+1x Victor Donaldson    6  DOM for pre          prince    Ventrue:5
+1x Emily Carson        5  DOM for pre          primogen  Ventrue:5
+1x João Bilé           5  DOM FOR pre                    Ventrue:4
+1x Victor Pelletier    5  PRE cel dom for                Ventrue:4
 
 Library (82 cards)
 Master (7; 2 trifle)

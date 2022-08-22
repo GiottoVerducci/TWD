@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/7895
 
 Deck Name: Assamite_blackhand
 
-Crypt (12 cards, min=26 max=40 avg=8.17)
-----------------------------------------
-4x Karif al Numair              10  AUS CEL OBF QUI for  Assamite:5
-3x Djuhah, The Bronze Bow       7   OBF QUI aus cel pre  Assamite:5
-2x Izhim abd Azrael             9   CEL OBF QUI THA pot  Assamite:5
-2x Reza Fatir, The Dark Angel   6   CEL QUI obf pro      Assamite:4
-1x Joe "Boot" Hill              7   CEL QUI for obf      Assamite:4
+Crypt (12 cards, min=26, max=40, avg=8.17)
+------------------------------------------
+4x Karif al Numair             10  AUS CEL OBF QUI for  Assamite:5
+3x Djuhah, The Bronze Bow       7  OBF QUI aus cel pre  Assamite:5
+2x Izhim abd Azrael             9  CEL OBF QUI THA pot  Assamite:5
+2x Reza Fatir, The Dark Angel   6  CEL QUI obf pro      Assamite:4
+1x Joe "Boot" Hill              7  CEL QUI for obf      Assamite:4
 
 Library (75 cards)
 Master (14; 4 trifle)

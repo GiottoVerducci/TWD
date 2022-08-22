@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/8150
 
 Deck Name: Anson reloaded
 
-Crypt (13 cards, min=14 max=32 avg=5.69)
-----------------------------------------
-5x Anson                        8   CEL PRE aus dom     prince  Toreador:1
-2x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-2x Sarah Brando                 3   CEL                         Brujah antitribu:2
-1x Brachah                      5   CEL PRE for                 Brujah:2
-1x Dodd                         5   CEL dom pre                 Brujah antitribu:2
-1x Jimmy Dunn                   4   CEL POT for                 Pander:2
-1x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
+Crypt (13 cards, min=14, max=32, avg=5.69)
+------------------------------------------
+5x Anson                      8  CEL PRE aus dom  prince  Toreador:1
+2x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+2x Sarah Brando               3  CEL                      Brujah antitribu:2
+1x Brachah                    5  CEL PRE for              Brujah:2
+1x Dodd                       5  CEL dom pre              Brujah antitribu:2
+1x Jimmy Dunn                 4  CEL POT for              Pander:2
+1x Victor Tolliver            4  CEL pot                  Brujah antitribu:2
 
 Library (79 cards)
 Master (28; 1 trifle)

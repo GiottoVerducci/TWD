@@ -8,11 +8,11 @@ Deck Name: Tupdogs+nephandi
 
 Description: Tupdogs+nephandi
 
-Crypt (24 cards, min=4 max=20 avg=1.83)
----------------------------------------
-18x Tupdog              1    POT VIS            Gargoyle:3
-4x  Antonio d'Erlette   5    THA dom for pot    Tremere antitribu:4
-2x  Keith Moody         3    DOM                Tremere antitribu:4
+Crypt (24 cards, min=4, max=20, avg=1.83)
+-----------------------------------------
+18x Tupdog             1  POT VIS          Gargoyle:3
+4x  Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+2x  Keith Moody        3  DOM              Tremere antitribu:4
 
 Library (90 cards)
 Master (16; 2 trifle)

@@ -17,13 +17,13 @@ intercept location (really missed the DI's). This really wants at
 least 1 Aire even if Marcellus cannot use it, and he needs to be the
 main. Rather have a Jake than the Hunting Grounds.
 
-Crypt (12 cards, min=21 max=30 avg=6.42)
-----------------------------------------
-3x Kallista, Master Sculptor    6   AUS CEL pre pro             Toreador:1
-3x Felicia Mostrom              5   AUS CEL pre                 Toreador:1
-2x Marcellus                    8   AUS CEL pro         prince  Toreador:2
-2x Greta Kircher                7   AUS CEL PRE obf             Toreador antitribu:2
-2x Jessica                      7   AUS CEL OBT PRE     bishop  Toreador antitribu:2
+Crypt (12 cards, min=21, max=30, avg=6.42)
+------------------------------------------
+3x Kallista, Master Sculptor  6  AUS CEL pre pro          Toreador:1
+3x Felicia Mostrom            5  AUS CEL pre              Toreador:1
+2x Marcellus                  8  AUS CEL pro      prince  Toreador:2
+2x Greta Kircher              7  AUS CEL PRE obf          Toreador antitribu:2
+2x Jessica                    7  AUS CEL OBT PRE  bishop  Toreador antitribu:2
 
 Library (90 cards)
 Master (15)

@@ -6,17 +6,17 @@ Troy Kevill
 
 Deck Name: Mark 2
 
-Crypt (12 cards, min=12 max=25 avg=4.67)
-----------------------------------------
-2x Camille Devereux     5   FOR PRO ani                   Gangrel:1
-2x Raven                5   FOR PRO ani                   Gangrel:1
-2x Gitane St. Claire    7   ANI FOR PRO         primogen  Gangrel:1
-1x Badger               6   FOR PRO ani pot               Gangrel:1
-1x Ramona               4   for pro                       Gangrel:2
-1x Roman Alexander      4   ani for pro                   Gangrel:1
-1x Anastasia Grey       3   ani pro                       Gangrel:1
-1x Ricki Van Demsi      3   for pro                       Gangrel:1
-1x Giuliano Vincenzi    2   for                           Gangrel:1
+Crypt (12 cards, min=12, max=25, avg=4.67)
+------------------------------------------
+2x Camille Devereux   5  FOR PRO ani                Gangrel:1
+2x Raven              5  FOR PRO ani                Gangrel:1
+2x Gitane St. Claire  7  ANI FOR PRO      primogen  Gangrel:1
+1x Badger             6  FOR PRO ani pot            Gangrel:1
+1x Ramona             4  for pro                    Gangrel:2
+1x Roman Alexander    4  ani for pro                Gangrel:1
+1x Anastasia Grey     3  ani pro                    Gangrel:1
+1x Ricki Van Demsi    3  for pro                    Gangrel:1
+1x Giuliano Vincenzi  2  for                        Gangrel:1
 
 Library (90 cards)
 Master (17)

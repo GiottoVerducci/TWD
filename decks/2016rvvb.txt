@@ -13,14 +13,14 @@ Created by: Luiz Paulo Bonadiman + algumas zueiras
 
 Description: Pega o deck todo na mão e deixa as inimiga com inveja !
 
-Crypt (12 cards, min=14 max=36 avg=6.33)
-----------------------------------------
-4x Guillaume Giovanni           9   CEL DOM NEC POT obt           Giovanni:4
-2x Raphaela Giovanni            6   DOM NEC pot pre               Giovanni:4
-2x Primo Giovanni               4   dom nec pot                   Giovanni:4
-2x Lia Milliner                 3   dom nec                       Giovanni:3
-1x Don Michael Antonio Giovanni 7   DOM NEC POT          2 votes  Giovanni:4
-1x Gualtiero Ghiberti           7   DOM NEC cel pot tha           Giovanni:4
+Crypt (12 cards, min=14, max=36, avg=6.33)
+------------------------------------------
+4x Guillaume Giovanni            9  CEL DOM NEC POT obt           Giovanni:4
+2x Raphaela Giovanni             6  DOM NEC pot pre               Giovanni:4
+2x Primo Giovanni                4  dom nec pot                   Giovanni:4
+2x Lia Milliner                  3  dom nec                       Giovanni:3
+1x Don Michael Antonio Giovanni  7  DOM NEC POT          2 votes  Giovanni:4
+1x Gualtiero Ghiberti            7  DOM NEC cel pot tha           Giovanni:4
 
 Library (90 cards)
 Master (24; 4 trifle)

@@ -12,16 +12,16 @@ or with out Rötschreck) made vamps pay for trying to mess with my stuff.
 Multiple master phases were required because I ran through minion cards
 quickly and would occasionally see a very gray hand.
 
-Crypt (12 cards, min=17 max=32 avg=6.08)
-----------------------------------------
-2x Little Tailor of Prague          8   ANI AUS VIC dem                  Tzimisce:2
-2x Caliban                          6   ANI AUS VIC                      Tzimisce:2
-2x Corine Marcón                    6   AUS VIC ani                      Tzimisce:2
-2x Lolita Houston                   4   VIC aus                          Tzimisce:2
-1x Meshenka                         8   ANI AUS VIC             priscus  Tzimisce:2
-1x Sascha Vykos, The Angel of Caine 8   AUS THA VIC ani dom     priscus  Tzimisce:2
-1x Devin Bisley                     5   ANI AUS vic                      Tzimisce:2
-1x Terrence                         4   ani aus vic                      Tzimisce:2
+Crypt (12 cards, min=17, max=32, avg=6.08)
+------------------------------------------
+2x Little Tailor of Prague           8  ANI AUS VIC dem               Tzimisce:2
+2x Caliban                           6  ANI AUS VIC                   Tzimisce:2
+2x Corine Marcón                     6  AUS VIC ani                   Tzimisce:2
+2x Lolita Houston                    4  VIC aus                       Tzimisce:2
+1x Meshenka                          8  ANI AUS VIC          priscus  Tzimisce:2
+1x Sascha Vykos, The Angel of Caine  8  AUS THA VIC ani dom  priscus  Tzimisce:2
+1x Devin Bisley                      5  ANI AUS vic                   Tzimisce:2
+1x Terrence                          4  ani aus vic                   Tzimisce:2
 
 Library (90 cards)
 Master (20; 1 trifle)

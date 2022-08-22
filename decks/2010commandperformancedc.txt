@@ -9,15 +9,15 @@ Deck Name: Ugly Aggression
 
 4gw17 including 5VP in final
 
-Crypt (12 cards, min=15 max=35 avg=6.75)
-----------------------------------------
-4x Selma the Repugnant  8   OBF POT ani for     prince  Nosferatu:1
-3x Suhailah             9   FOR OBF pot ser     prince  Ventrue:2
-1x Murat                7   OBF POT ser         prince  Nosferatu:2
-1x Nikolaus Vermeulen   7   POT ani for obf     prince  Nosferatu:2
-1x Dan Murdock          3   aus obf                     Caitiff:1
-1x Duck                 3   obf pot                     Nosferatu:1
-1x Dimple               2   obf                         Nosferatu:1
+Crypt (12 cards, min=15, max=35, avg=6.75)
+------------------------------------------
+4x Selma the Repugnant  8  OBF POT ani for  prince  Nosferatu:1
+3x Suhailah             9  FOR OBF pot ser  prince  Ventrue:2
+1x Murat                7  OBF POT ser      prince  Nosferatu:2
+1x Nikolaus Vermeulen   7  POT ani for obf  prince  Nosferatu:2
+1x Dan Murdock          3  aus obf                  Caitiff:1
+1x Duck                 3  obf pot                  Nosferatu:1
+1x Dimple               2  obf                      Nosferatu:1
 
 Library (70 cards)
 Master (22)

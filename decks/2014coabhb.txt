@@ -10,12 +10,12 @@ Deck Name: Sniper Elite v3 short
 
 Description: Deliver, certain like a sniper, a huge bleed that cannot be blocked or bounced.
 
-Crypt (12 cards, min=32 max=36 avg=8.42)
-----------------------------------------
-5x Santaleous           9   AUS CEL DEM OBF                Malkavian:5
-3x Persephone Tar-Anis  8   AUS DEM OBF cel pot            Malkavian antitribu:4
-2x Bloody Mary          8   AUS DEM OBF pre      primogen  Malkavian:5
-2x Lazarus James        8   AUS DEM PRE obf tha            Malkavian:4
+Crypt (12 cards, min=32, max=36, avg=8.42)
+------------------------------------------
+5x Santaleous           9  AUS CEL DEM OBF                Malkavian:5
+3x Persephone Tar-Anis  8  AUS DEM OBF cel pot            Malkavian antitribu:4
+2x Bloody Mary          8  AUS DEM OBF pre      primogen  Malkavian:5
+2x Lazarus James        8  AUS DEM PRE obf tha            Malkavian:4
 
 Library (80 cards)
 Master (16; 5 trifle)

@@ -8,15 +8,15 @@ Deck Name: Renegade's Assault
 
 Description: Lets go Boyz to have some fun with Garou !!!
 
-Crypt (12 cards, min=8 max=18 avg=3.17)
----------------------------------------
-2x Jacob Fermor     5   PRO ani tha     Gangrel:4
-2x Gunnar           4   PRO for         Gangrel:4
-2x Fergus Alexander 3   pot pro         Gangrel:5
-2x Lillian          3   ani pro         Gangrel:5
-2x Robert Price     2   pro             Gangrel:4
-1x Calvin Cleaver   3   for pro         Gangrel:4
-1x Iris Bennett     1   pro             Caitiff:5
+Crypt (12 cards, min=8, max=18, avg=3.17)
+-----------------------------------------
+2x Jacob Fermor      5  PRO ani tha  Gangrel:4
+2x Gunnar            4  PRO for      Gangrel:4
+2x Fergus Alexander  3  pot pro      Gangrel:5
+2x Lillian           3  ani pro      Gangrel:5
+2x Robert Price      2  pro          Gangrel:4
+1x Calvin Cleaver    3  for pro      Gangrel:4
+1x Iris Bennett      1  pro          Caitiff:5
 
 Library (59 cards)
 Master (21; 4 trifle)

@@ -14,15 +14,15 @@ a !ventrue deck. He has said: Everyone can have ideas on how to make
 this deck better, but I've made it with the cards I possess. He has
 won 2 preliminary rounds on 3 and the final.
 
-Crypt (12 cards, min=18 max=32 avg=6.33)
-----------------------------------------
-3x Ingrid Russo                 4   DOM for                      Ventrue antitribu:2
-2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre          Ventrue antitribu:3
-2x Blackhorse Tanner            7   AUS DOM FOR                  Ventrue antitribu:3
-2x Charice Fontaigne            6   AUS DOM for pot              Ventrue antitribu:3
-1x Quentin                      9   AUS DOM FOR cel obt  bishop  Ventrue antitribu:2
-1x Joseph O'Grady               7   DOM FOR aus cel              Ventrue antitribu:3
-1x Marlene, The Infernalist     6   AUS DOM dem for tha          Ventrue antitribu:2
+Crypt (12 cards, min=18, max=32, avg=6.33)
+------------------------------------------
+3x Ingrid Russo               4  DOM for                      Ventrue antitribu:2
+2x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre          Ventrue antitribu:3
+2x Blackhorse Tanner          7  AUS DOM FOR                  Ventrue antitribu:3
+2x Charice Fontaigne          6  AUS DOM for pot              Ventrue antitribu:3
+1x Quentin                    9  AUS DOM FOR cel obt  bishop  Ventrue antitribu:2
+1x Joseph O'Grady             7  DOM FOR aus cel              Ventrue antitribu:3
+1x Marlene, The Infernalist   6  AUS DOM dem for tha          Ventrue antitribu:2
 
 Library (90 cards)
 Master (13)

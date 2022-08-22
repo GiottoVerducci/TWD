@@ -14,14 +14,14 @@ With Parity shift rule change pool gain was an issue.
 Possible change is removing Dreams, 1 Monastery, 2 Grooming for 4 Ashur Tablets.
 Meddilng with Semsith was worth the card slot.
 
-Crypt (12 cards, min=23 max=36 avg=7.58)
-----------------------------------------
-5x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar    Brujah:5
-2x Carlak          8   CEL PRE dom pot      prince      Brujah:5
-2x Karen Suadela   7   CEL POT obf pre      prince      Brujah:5
-1x Tara            6   POT PRE cel          prince      Brujah:5
-1x Tomaine         6   CEL POT PRE          primogen    Brujah:4
-1x Reginald Moore  4   PRE                  primogen    Brujah:4
+Crypt (12 cards, min=23, max=36, avg=7.58)
+------------------------------------------
+5x Dmitra Ilyanova  9  CEL FOR POT PRE obf  justicar  Brujah:5
+2x Carlak           8  CEL PRE dom pot      prince    Brujah:5
+2x Karen Suadela    7  CEL POT obf pre      prince    Brujah:5
+1x Tara             6  POT PRE cel          prince    Brujah:5
+1x Tomaine          6  CEL POT PRE          primogen  Brujah:4
+1x Reginald Moore   4  PRE                  primogen  Brujah:4
 
 Library (70 cards)
 Master (11)

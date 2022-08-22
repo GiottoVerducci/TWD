@@ -8,14 +8,14 @@ https://www.vekn.net/event-calendar/event/8461
 
 Deck Name: SaRod x Mistress Fanchon big caps vote and bleed
 
-Crypt (12 cards, min=39 max=44 avg=10.42)
------------------------------------------
-4x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
-2x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-2x Alonso Petrodon       10  ANI DOM OBF POT for tha    justicar        Nosferatu:5
-2x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
-1x Tryphosa              10  AUS DEM DOM OBF POT        prince          Malkavian:4
-1x Orlando Oriundus      9   AUS DOM THA obf            bishop          Tremere antitribu:4
+Crypt (12 cards, min=39, max=44, avg=10.42)
+-------------------------------------------
+4x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+2x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+2x Alonso Petrodon        10  ANI DOM OBF POT for tha  justicar      Nosferatu:5
+2x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+1x Tryphosa               10  AUS DEM DOM OBF POT      prince        Malkavian:4
+1x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
 
 Library (76 cards)
 Master (23; 9 trifle)

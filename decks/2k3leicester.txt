@@ -6,12 +6,12 @@ Matt Green
 
 "Power Supply"
 
-Crypt (12 cards, min=34 max=44 avg=9.83)
-----------------------------------------
-4x Leandro       11  AUS OBF PRE cel dom  inner circle  Malkavian:2
-3x Hannibal      10  AUS DEM OBF cel dom  cardinal      Malkavian antitribu:2
-3x Lucian        10  AUS DOM OBF cel tha  justicar      Malkavian:1
-2x Gilbert Duane 7   AUS DOM OBF          prince        Malkavian:1
+Crypt (12 cards, min=34, max=44, avg=9.83)
+------------------------------------------
+4x Leandro        11  AUS OBF PRE cel dom  inner circle  Malkavian:2
+3x Hannibal       10  AUS DEM OBF cel dom  cardinal      Malkavian antitribu:2
+3x Lucian         10  AUS DOM OBF cel tha  justicar      Malkavian:1
+2x Gilbert Duane   7  AUS DOM OBF          prince        Malkavian:1
 
 Library (90 cards)
 Master (26)

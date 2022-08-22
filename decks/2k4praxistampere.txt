@@ -14,17 +14,17 @@ The deck still contains some 'testing material', like single
 Graverobbing, Blood to Water and Obedience cards which probably will
 be changed in the next revision.
 
-Crypt (12 cards, min=10 max=32 avg=5.58)
-----------------------------------------
-2x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                Tremere:2
-2x Blythe Candeleria            3   THA aus                        Tremere:2
-2x Mustafa Rahman               2   dom                            Tremere:2
-1x Spiridonas                   9   DOM THA pot pre      prince    Tremere:2
-1x Anastasz di Zagreb           8   AUS THA ani cel dom  justicar  Tremere:3
-1x Kij Dansky                   8   AUS DOM THA obt      priscus   Tremere antitribu:2
-1x Carna, The Princess Witch    7   AUS DOM THA          primogen  Tremere:3
-1x Selena                       6   AUS DOM THA                    Tremere antitribu:3
-1x Aisling Sturbridge           5   AUS THA dom                    Tremere:2
+Crypt (12 cards, min=10, max=32, avg=5.58)
+------------------------------------------
+2x Muaziz, Archon of Ulugh Beg  7  THA aus dom for                Tremere:2
+2x Blythe Candeleria            3  THA aus                        Tremere:2
+2x Mustafa Rahman               2  dom                            Tremere:2
+1x Spiridonas                   9  DOM THA pot pre      prince    Tremere:2
+1x Anastasz di Zagreb           8  AUS THA ani cel dom  justicar  Tremere:3
+1x Kij Dansky                   8  AUS DOM THA obt      priscus   Tremere antitribu:2
+1x Carna, The Princess Witch    7  AUS DOM THA          primogen  Tremere:3
+1x Selena                       6  AUS DOM THA                    Tremere antitribu:3
+1x Aisling Sturbridge           5  AUS THA dom                    Tremere:2
 
 Library (90 cards)
 Master (15)

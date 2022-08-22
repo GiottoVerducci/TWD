@@ -9,14 +9,14 @@ Created by: Leonardo Ribeiro Dias - Mineirinho (a.k.a. Tio Chico)
 
 Description: Using the Guillaume's Advantage. Why not?
 
-Crypt (12 cards, min=20 max=36 avg=7)
--------------------------------------
-5x Guillaume Giovanni   9   CEL DOM NEC POT obt  Giovanni:4
-2x Zygodat              6   AUS NEC pot          Harbinger of Skulls:4
-2x Abdelsobek           5   for nec obf pre ser  Follower of Set:5
-1x Gualtiero Ghiberti   7   DOM NEC cel pot tha  Giovanni:4
-1x Raphaela Giovanni    6   DOM NEC pot pre      Giovanni:4
-1x Thomasso Ghiberti    4   NEC pot              Giovanni:4
+Crypt (12 cards, min=20, max=36, avg=7)
+---------------------------------------
+5x Guillaume Giovanni  9  CEL DOM NEC POT obt  Giovanni:4
+2x Zygodat             6  AUS NEC pot          Harbinger of Skulls:4
+2x Abdelsobek          5  for nec obf pre ser  Follower of Set:5
+1x Gualtiero Ghiberti  7  DOM NEC cel pot tha  Giovanni:4
+1x Raphaela Giovanni   6  DOM NEC pot pre      Giovanni:4
+1x Thomasso Ghiberti   4  NEC pot              Giovanni:4
 
 Library (90 cards)
 Master (30; 4 trifle)

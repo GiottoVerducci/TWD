@@ -11,16 +11,16 @@ movements to regain blood on vampires. Only Jyhad cards used, except
 in the crypt, which is a 1/2 crypt. Perhaps a tad monotonous, but it
 seems to work okay.
 
-Crypt (12 cards, min=17 max=30 avg=5.75)
-----------------------------------------
-2x Justine, Elder of Dallas     8   AUS DOM THA obf     primogen  Tremere:1
-2x Astrid Thomas                7   DOM THA aus pot     primogen  Tremere:1
-2x Aisling Sturbridge           5   AUS THA dom                   Tremere:2
-2x Hannigan                     5   AUS THA dom                   Tremere antitribu:2
-1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for               Tremere:2
-1x Merrill Molitor              5   THA aus dom                   Tremere:1
-1x Sarah Cobbler                4   THA dom                       Tremere:1
-1x Jing Wei                     3   dom tha                       Tremere:1
+Crypt (12 cards, min=17, max=30, avg=5.75)
+------------------------------------------
+2x Justine, Elder of Dallas     8  AUS DOM THA obf  primogen  Tremere:1
+2x Astrid Thomas                7  DOM THA aus pot  primogen  Tremere:1
+2x Aisling Sturbridge           5  AUS THA dom                Tremere:2
+2x Hannigan                     5  AUS THA dom                Tremere antitribu:2
+1x Muaziz, Archon of Ulugh Beg  7  THA aus dom for            Tremere:2
+1x Merrill Molitor              5  THA aus dom                Tremere:1
+1x Sarah Cobbler                4  THA dom                    Tremere:1
+1x Jing Wei                     3  dom tha                    Tremere:1
 
 Library (90 cards)
 Master (18)

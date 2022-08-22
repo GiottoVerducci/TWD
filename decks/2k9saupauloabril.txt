@@ -6,15 +6,15 @@ Rafael Pereira de Aguiar
 
 Deck Name: Rafinha Osebo Wall
 
-Crypt (12 cards, min=17 max=37 avg=6.67)
-----------------------------------------
-3x Massassi        9   AUS CEL POT QUI obf              Osebo:4
-3x Homa            6   AUS CEL POT                      Osebo:4
-2x Khalu           7   AUS CEL POT ani pro              Osebo:3
-1x Cesewayo        10  AUS CEL DOM POT THA ani  magaji  Osebo:4
-1x Ismitta         4   aus cel pot                      Osebo:4
-1x Mariano Pomposo 4   aus cel pot                      Brujah antitribu:3
-1x Gengis          3   aus cel pot                      Brujah:3
+Crypt (12 cards, min=17, max=37, avg=6.67)
+------------------------------------------
+3x Massassi          9  AUS CEL POT QUI obf              Osebo:4
+3x Homa              6  AUS CEL POT                      Osebo:4
+2x Khalu             7  AUS CEL POT ani pro              Osebo:3
+1x Cesewayo         10  AUS CEL DOM POT THA ani  magaji  Osebo:4
+1x Ismitta           4  aus cel pot                      Osebo:4
+1x Mariano Pomposo   4  aus cel pot                      Brujah antitribu:3
+1x Gengis            3  aus cel pot                      Brujah:3
 
 Library (90 cards)
 Master (12; 2 trifle)

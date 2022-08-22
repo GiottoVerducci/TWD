@@ -10,20 +10,20 @@ https://www.vekn.net/event-calendar/event/9863
 
 Deck Name: Prey Punisher
 
-Crypt (12 cards, min=9 max=28 avg=4.75)
----------------------------------------
-1x Little Tailor of Prague 8   ANI AUS VIC dem           Tzimisce:2
-1x Meshenka                8   ANI AUS VIC      priscus  Tzimisce:2
-1x Caliban                 6   ANI AUS VIC               Tzimisce:2
-1x Corine Marcón           6   AUS VIC ani               Tzimisce:2
-1x Ana Rita Montaña        5   VIC aus dom obf           Tzimisce:3
-1x Devin Bisley            5   ANI AUS vic               Tzimisce:2
-1x Elizabeth Westcott      5   AUS ani cel vic           Tzimisce:3
-1x Rose, The               5   PRE VIC aus               Tzimisce:3
-1x Lolita Houston          4   VIC aus                   Tzimisce:2
-1x Christine Boscacci      2   dom vic                   Pander:2
-1x Horatio                 2   vic                       Tzimisce:2
-1x Olga Triminov           1   vic                       Pander:3
+Crypt (12 cards, min=9, max=28, avg=4.75)
+-----------------------------------------
+1x Little Tailor of Prague  8  ANI AUS VIC dem           Tzimisce:2
+1x Meshenka                 8  ANI AUS VIC      priscus  Tzimisce:2
+1x Caliban                  6  ANI AUS VIC               Tzimisce:2
+1x Corine Marcón            6  AUS VIC ani               Tzimisce:2
+1x Ana Rita Montaña         5  VIC aus dom obf           Tzimisce:3
+1x Devin Bisley             5  ANI AUS vic               Tzimisce:2
+1x Elizabeth Westcott       5  AUS ani cel vic           Tzimisce:3
+1x Rose, The                5  PRE VIC aus               Tzimisce:3
+1x Lolita Houston           4  VIC aus                   Tzimisce:2
+1x Christine Boscacci       2  dom vic                   Pander:2
+1x Horatio                  2  vic                       Tzimisce:2
+1x Olga Triminov            1  vic                       Pander:3
 
 Library (89 cards)
 Master (16; 2 trifle)

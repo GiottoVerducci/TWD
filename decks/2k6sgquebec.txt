@@ -7,13 +7,13 @@ François Nadeau-Labrecque
 
 Deck Name: Cardano's Kinda Freak
 
-Crypt (12 cards, min=17 max=36 avg=6.92)
-----------------------------------------
-5x Cardano                      9   DOM FOR THA ani aus cel     prince  Tremere:1
-4x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                     Tremere:2
-1x Fidus, The Shrunken Beast    4   for tha vis                         Gargoyle:2
-1x Ingrid Russo                 4   DOM for                             Ventrue antitribu:2
-1x Mustafa Rahman               2   dom                                 Tremere:2
+Crypt (12 cards, min=17, max=36, avg=6.92)
+------------------------------------------
+5x Cardano                      9  DOM FOR THA ani aus cel  prince  Tremere:1
+4x Muaziz, Archon of Ulugh Beg  7  THA aus dom for                  Tremere:2
+1x Fidus, The Shrunken Beast    4  for tha vis                      Gargoyle:2
+1x Ingrid Russo                 4  DOM for                          Ventrue antitribu:2
+1x Mustafa Rahman               2  dom                              Tremere:2
 
 Library (80 cards)
 Master (10)

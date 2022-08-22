@@ -10,16 +10,16 @@ Baksa Nándor Peti
 Deck Name: Tábla meg Pipi
 Created by: Kovács István
 
-Crypt (12 cards, min=20 max=33 avg=6.83)
-----------------------------------------
-2x Calebos                      8   ANI OBF POT cel      bishop         Nosferatu antitribu:2
-2x Mateusz Gryzbowsky           8   ANI OBF POT                         Nosferatu antitribu:3
-2x Teresita, The Godmother      7   ANI OBF POT for                     Nosferatu antitribu:3
-2x Ox, Viceroy of the Hollows   6   ANI OBF POT                         Nosferatu antitribu:2
-1x Aeron                        9   ANI OBF POT aus pro  archbishop     Nosferatu antitribu:3
-1x Kendrick                     7   ANI POT aus obf      priscus        Nosferatu antitribu:2
-1x Nigel the Shunned            5   ANI POT obf                         Nosferatu antitribu:2
-1x Tommy                        3   ani pot                             Nosferatu antitribu:2
+Crypt (12 cards, min=20, max=33, avg=6.83)
+------------------------------------------
+2x Calebos                     8  ANI OBF POT cel      bishop      Nosferatu antitribu:2
+2x Mateusz Gryzbowsky          8  ANI OBF POT                      Nosferatu antitribu:3
+2x Teresita, The Godmother     7  ANI OBF POT for                  Nosferatu antitribu:3
+2x Ox, Viceroy of the Hollows  6  ANI OBF POT                      Nosferatu antitribu:2
+1x Aeron                       9  ANI OBF POT aus pro  archbishop  Nosferatu antitribu:3
+1x Kendrick                    7  ANI POT aus obf      priscus     Nosferatu antitribu:2
+1x Nigel the Shunned           5  ANI POT obf                      Nosferatu antitribu:2
+1x Tommy                       3  ani pot                          Nosferatu antitribu:2
 
 Library (89 cards)
 Master (16; 2 trifle)

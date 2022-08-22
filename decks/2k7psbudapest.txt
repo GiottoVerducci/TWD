@@ -6,17 +6,17 @@ Zoltan Komora
 
 Deck Name: Facing Mirror and Flame
 
-Crypt (12 cards, min=22 max=31 avg=6.67)
-----------------------------------------
-2x Kij Dansky                   8   AUS DOM THA obt     priscus     Tremere antitribu:2
-2x Bryan Van Duesen             7   DOM THA aus pre                 Tremere antitribu:2
-2x Reverend Blackwood           6   DOM THA obf         bishop      Tremere antitribu:2
-1x Ian Forestal                 8   AUS DOM THA                     Tremere antitribu:2
-1x Ladislas Toth, The Torch     7   AUS DOM THA for     archbishop  Tremere antitribu:3
-1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                 Tremere:2
-1x Selena                       6   AUS DOM THA                     Tremere antitribu:3
-1x Hannigan                     5   AUS THA dom                     Tremere antitribu:2
-1x Kurt Strauss                 5   DOM aus tha                     Tremere antitribu:2
+Crypt (12 cards, min=22, max=31, avg=6.67)
+------------------------------------------
+2x Kij Dansky                   8  AUS DOM THA obt  priscus     Tremere antitribu:2
+2x Bryan Van Duesen             7  DOM THA aus pre              Tremere antitribu:2
+2x Reverend Blackwood           6  DOM THA obf      bishop      Tremere antitribu:2
+1x Ian Forestal                 8  AUS DOM THA                  Tremere antitribu:2
+1x Ladislas Toth, The Torch     7  AUS DOM THA for  archbishop  Tremere antitribu:3
+1x Muaziz, Archon of Ulugh Beg  7  THA aus dom for              Tremere:2
+1x Selena                       6  AUS DOM THA                  Tremere antitribu:3
+1x Hannigan                     5  AUS THA dom                  Tremere antitribu:2
+1x Kurt Strauss                 5  DOM aus tha                  Tremere antitribu:2
 
 Library (90 cards)
 Master (13)

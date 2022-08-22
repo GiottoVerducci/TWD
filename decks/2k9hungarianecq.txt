@@ -7,15 +7,15 @@ Gyula Erdõs
 Deck Name: Ashur CEL
 Created by: Péter Korsós
 
-Crypt (12 cards, min=13 max=32 avg=5.33)
-----------------------------------------
-4x Anson                        8   CEL PRE aus dom     prince  Toreador:1
-3x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-1x Jimmy Dunn                   4   CEL POT for                 Pander:2
-1x Parmenides                   4   CEL qui                     Assamite:2
-1x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
-1x Sarah Brando                 3   CEL                         Brujah antitribu:2
-1x Carter                       2   cel                         Toreador antitribu:2
+Crypt (12 cards, min=13, max=32, avg=5.33)
+------------------------------------------
+4x Anson                      8  CEL PRE aus dom  prince  Toreador:1
+3x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+1x Jimmy Dunn                 4  CEL POT for              Pander:2
+1x Parmenides                 4  CEL qui                  Assamite:2
+1x Victor Tolliver            4  CEL pot                  Brujah antitribu:2
+1x Sarah Brando               3  CEL                      Brujah antitribu:2
+1x Carter                     2  cel                      Toreador antitribu:2
 
 Library (77 cards)
 Master (18)

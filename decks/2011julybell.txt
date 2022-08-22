@@ -10,15 +10,15 @@ Deck Name: Worst to First
 Description: I heard some talk at Origins 2011 that the Gangrel-antitribu
 are the worst clan. I built this deck to display some of their strengths.
 
-Crypt (12 cards, min=8 max=25 avg=3.58)
----------------------------------------
-2x Bill Butler      3   pot pro                  Gangrel antitribu:4
-2x Lula Burch       3   for pro                  Gangrel antitribu:4
-2x Denette Stensen  2   obf                      Gangrel antitribu:4
-2x Jesús Alcalá     2   cel                      Gangrel antitribu:3
-2x Leo Washington   2   cel pro                  Gangrel antitribu:4
-1x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
-1x Nostoket         8   ANI DEM PRO for obt      Gangrel antitribu:4
+Crypt (12 cards, min=8, max=25, avg=3.58)
+-----------------------------------------
+2x Bill Butler        3  pot pro                  Gangrel antitribu:4
+2x Lula Burch         3  for pro                  Gangrel antitribu:4
+2x Denette Stensen    2  obf                      Gangrel antitribu:4
+2x Jesús Alcalá       2  cel                      Gangrel antitribu:3
+2x Leo Washington     2  cel pro                  Gangrel antitribu:4
+1x Enkidu, The Noah  11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+1x Nostoket           8  ANI DEM PRO for obt      Gangrel antitribu:4
 
 Library (60 cards)
 Master (29; 2 trifle)

@@ -17,16 +17,16 @@ in the basic. This is bad for two reasons. One, I normally am weak
 against Celerity combat. Two, I can't use SoS when Silvia or others
 are empty. Hence, the Giant's Blood and Tastes.
 
-Crypt (12 cards, min=12 max=40 avg=6.67)
-----------------------------------------
-5x Silvia Giovanni                 10  ANI DOM NEC POT for vic            Giovanni:2
-1x Chester DuBois                  7   ANI POT for obf          primogen  Nosferatu:1
-1x Zack North                      6   ani for pot pro                    Gangrel:1
-1x Vittorio Giovanni               5   dom for nec pot                    Giovanni:2
-1x Chas Giovanni Tello             4   DOM POT                            Giovanni:2
-1x Francesca Giovanni              4   dom nec pot                        Giovanni:2
-1x Marciana Giovanni, Investigator 2   dom                                Giovanni:2
-1x Paul DiCarlo, The Alpha         2   pot                                Giovanni:2
+Crypt (12 cards, min=12, max=40, avg=6.67)
+------------------------------------------
+5x Silvia Giovanni                  10  ANI DOM NEC POT for vic            Giovanni:2
+1x Chester DuBois                    7  ANI POT for obf          primogen  Nosferatu:1
+1x Zack North                        6  ani for pot pro                    Gangrel:1
+1x Vittorio Giovanni                 5  dom for nec pot                    Giovanni:2
+1x Chas Giovanni Tello               4  DOM POT                            Giovanni:2
+1x Francesca Giovanni                4  dom nec pot                        Giovanni:2
+1x Marciana Giovanni, Investigator   2  dom                                Giovanni:2
+1x Paul DiCarlo, The Alpha           2  pot                                Giovanni:2
 
 Library (90 cards)
 Master (17)

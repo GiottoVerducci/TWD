@@ -9,18 +9,18 @@ Deck Name: Army of Shadows
 
 Description: Get out lots of Lasombra and win.
 
-Crypt (12 cards, min=15 max=39 avg=7)
--------------------------------------
-2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-2x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
-1x Angelica, The Canonicus                10  DOM OBT POT cel obf       cardinal    Lasombra:2
-1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
-1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
-1x Banjoko                                5   DOM obt pot                           Lasombra:3
-1x Guido Lucciano                         5   OBT dom obf                           Lasombra:2
-1x Ignacio, The Black Priest              4   dom obt pot                           Lasombra:2
-1x Ramiro                                 4   dom obt vic                           Lasombra:2
-1x Aaron Duggan, Cameron's Toady          2   obt                                   Lasombra:2
+Crypt (12 cards, min=15, max=39, avg=7)
+---------------------------------------
+2x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+2x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+1x Angelica, The Canonicus                 10  DOM OBT POT cel obf      cardinal    Lasombra:2
+1x Antonio Delgado                          9  DOM OBT POT tha          archbishop  Lasombra:2
+1x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+1x Banjoko                                  5  DOM obt pot                          Lasombra:3
+1x Guido Lucciano                           5  OBT dom obf                          Lasombra:2
+1x Ignacio, The Black Priest                4  dom obt pot                          Lasombra:2
+1x Ramiro                                   4  dom obt vic                          Lasombra:2
+1x Aaron Duggan, Cameron's Toady            2  obt                                  Lasombra:2
 
 Library (90 cards)
 Master (15)

@@ -12,13 +12,13 @@ Deck Name: Clodovil, the sex!
 
 Description: Play the cards and win!
 
-Crypt (12 cards, min=32 max=36 avg=8.33)
-----------------------------------------
-4x Carolina Vález               9   DOM OBT POT PRE aus  archbishop     Lasombra:5
-2x Charles Delmare              8   DOM OBT POT cel      cardinal       Lasombra:5
-2x Giangaleazzo, The Traitor    8   OBT POT PRE dom      prince         Lasombra:4
-2x Lord Leopold Valdemar        8   OBT POT cel dom obf  priscus        Lasombra:5
-2x Percival                     8   FOR OBT POT aus dom  archbishop     Lasombra:5
+Crypt (12 cards, min=32, max=36, avg=8.33)
+------------------------------------------
+4x Carolina Vález             9  DOM OBT POT PRE aus  archbishop  Lasombra:5
+2x Charles Delmare            8  DOM OBT POT cel      cardinal    Lasombra:5
+2x Giangaleazzo, The Traitor  8  OBT POT PRE dom      prince      Lasombra:4
+2x Lord Leopold Valdemar      8  OBT POT cel dom obf  priscus     Lasombra:5
+2x Percival                   8  FOR OBT POT aus dom  archbishop  Lasombra:5
 
 Library (90 cards)
 Master (21; 8 trifle)

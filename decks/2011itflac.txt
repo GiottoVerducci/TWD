@@ -7,18 +7,18 @@ Edward McGlynn
 
 Deck Name: I would have gotten away with it if it weren't for those meddling Toreador!
 
-Crypt (13 cards, min=13 max=29 avg=5.46)
-----------------------------------------
-2x Ira Rivers                   7   AUS CEL ani pre      prince    Toreador:3
-2x Antoinette, She Who Watches  6   AUS PRE cel obf      primogen  Toreador:3
-2x Victoria Ash                 6   PRE aus cel dom      primogen  Toreador:2
-1x Fleurdumal                   8   AUS DEM PRE cel tha  prince    Toreador:3
-1x Lucina                       7   AUS PRE cel pro      primogen  Toreador:3
-1x Barth                        5   PRE aus cel                    Toreador:3
-1x Michael Luther               4   aus pre                        Toreador:3
-1x Sir Henry Johnson            4   aus pot pre                    Toreador:3
-1x Isabel de Leon               3   AUS                            Toreador:2
-1x Emerson Wilkershire III      2   pre                            Toreador:3
+Crypt (13 cards, min=13, max=29, avg=5.46)
+------------------------------------------
+2x Ira Rivers                   7  AUS CEL ani pre      prince    Toreador:3
+2x Antoinette, She Who Watches  6  AUS PRE cel obf      primogen  Toreador:3
+2x Victoria Ash                 6  PRE aus cel dom      primogen  Toreador:2
+1x Fleurdumal                   8  AUS DEM PRE cel tha  prince    Toreador:3
+1x Lucina                       7  AUS PRE cel pro      primogen  Toreador:3
+1x Barth                        5  PRE aus cel                    Toreador:3
+1x Michael Luther               4  aus pre                        Toreador:3
+1x Sir Henry Johnson            4  aus pot pre                    Toreador:3
+1x Isabel de Leon               3  AUS                            Toreador:2
+1x Emerson Wilkershire III      2  pre                            Toreador:3
 
 Library (75 cards)
 Master (13)

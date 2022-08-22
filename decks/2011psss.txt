@@ -9,15 +9,15 @@ Carlos Martín Guerra
 
 Deck Name: Anson Pistolero
 
-Crypt (12 cards, min=16 max=32 avg=5.67)
-----------------------------------------
-4x Anson                        8   CEL PRE aus dom     prince  Toreador:1
-3x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-1x Black Cat                    5   CEL pot pre                 Brujah:1
-1x Dodd                         5   CEL dom pre                 Brujah antitribu:2
-1x Jimmy Dunn                   4   CEL POT for                 Pander:2
-1x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
-1x Sarah Brando                 3   CEL                         Brujah antitribu:2
+Crypt (12 cards, min=16, max=32, avg=5.67)
+------------------------------------------
+4x Anson                      8  CEL PRE aus dom  prince  Toreador:1
+3x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+1x Black Cat                  5  CEL pot pre              Brujah:1
+1x Dodd                       5  CEL dom pre              Brujah antitribu:2
+1x Jimmy Dunn                 4  CEL POT for              Pander:2
+1x Victor Tolliver            4  CEL pot                  Brujah antitribu:2
+1x Sarah Brando               3  CEL                      Brujah antitribu:2
 
 Library (90 cards)
 Master (31; 5 trifle)

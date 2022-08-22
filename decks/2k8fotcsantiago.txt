@@ -9,12 +9,12 @@ Jackson Iribarren
 
 Deck Name: !Toreador Pistolero
 
-Crypt (12 cards, min=22 max=38 avg=7.5)
----------------------------------------
-3x Marthe Dizier        10  AUS CEL OBF PRE pro            Toreador antitribu:3
-3x Klaus Konrecht       8   AUS CEL PRE for pot  cardinal  Toreador antitribu:4
-3x Isouda de Blaise     7   CEL OBF PRE aus                Toreador antitribu:4
-3x Gabriel de Cambrai   5   aus cel dem obf pre            Toreador antitribu:4
+Crypt (12 cards, min=22, max=38, avg=7.5)
+-----------------------------------------
+3x Marthe Dizier       10  AUS CEL OBF PRE pro            Toreador antitribu:3
+3x Klaus Konrecht       8  AUS CEL PRE for pot  cardinal  Toreador antitribu:4
+3x Isouda de Blaise     7  CEL OBF PRE aus                Toreador antitribu:4
+3x Gabriel de Cambrai   5  aus cel dem obf pre            Toreador antitribu:4
 
 Library (90 cards)
 Master (14; 2 trifle)

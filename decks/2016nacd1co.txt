@@ -8,12 +8,12 @@ https://www.vekn.net/event-calendar/event/8380
 
 Deck Name: Unmada and Lutz
 
-Crypt (12 cards, min=36 max=44 avg=10)
---------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-4x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
-2x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
-2x Undele                9   CEL FOR obf pre ser        magaji          Ishtarri:5
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+4x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
+2x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+2x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
 
 Library (74 cards)
 Master (23; 6 trifle)

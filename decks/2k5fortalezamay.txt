@@ -6,16 +6,16 @@ Everton Biel
 
 Deck: Catch me if you can
 
-Crypt (12 cards, min=8 max=34 avg=5.92)
----------------------------------------
-4x Gabrin                          8   ANI CHI dom for      Ravnos:2
-2x Kostantin, Baro of the Caravan  9   ANI CHI FOR cel dom  Ravnos:2
-1x Natalia                         7   ANI chi dom for      Ravnos:2
-1x Sarisha Veliku                  6   ANI FOR chi dom      Ravnos:2
-1x Marciana Giovanni, Investigator 2   dom                  Giovanni:2
-1x Mustafa Rahman                  2   dom                  Tremere:2
-1x Ohanna                          2   dom                  Malkavian:2
-1x Sasha Miklos                    2   chi                  Ravnos:2
+Crypt (12 cards, min=8, max=34, avg=5.92)
+-----------------------------------------
+4x Gabrin                           8  ANI CHI dom for      Ravnos:2
+2x Kostantin, Baro of the Caravan   9  ANI CHI FOR cel dom  Ravnos:2
+1x Natalia                          7  ANI chi dom for      Ravnos:2
+1x Sarisha Veliku                   6  ANI FOR chi dom      Ravnos:2
+1x Marciana Giovanni, Investigator  2  dom                  Giovanni:2
+1x Mustafa Rahman                   2  dom                  Tremere:2
+1x Ohanna                           2  dom                  Malkavian:2
+1x Sasha Miklos                     2  chi                  Ravnos:2
 
 Library (90 cards)
 Master (17)

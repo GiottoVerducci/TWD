@@ -13,17 +13,17 @@ Freak Drives. Thats were the name came from. This deck won the 2011
 Belgian National Championship on March 13, 2011 in the Outpost Gamestore
 in Brussels.
 
-Crypt (12 cards, min=16 max=30 avg=5.92)
-----------------------------------------
-2x Emerson Bridges                 8   DOM FOR PRE pot  prince  Ventrue:1
-2x Sir Walter Nash                 7   DOM FOR PRE      prince  Ventrue:1
-2x Timothy Crowley                 7   FOR PRE ani dom  prince  Ventrue:1
-1x Luccia Paciola                  6   DOM for pre              Ventrue:1
-1x Jazz Wentworth                  5   PRE dom for              Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for              Ventrue:2
-1x Courtland Leighton              4   dom for pre              Ventrue:1
-1x Violette Prentiss               4   PRE dom                  Ventrue:1
-1x Gideon Fontaine                 3   PRE                      Ventrue:1
+Crypt (12 cards, min=16, max=30, avg=5.92)
+------------------------------------------
+2x Emerson Bridges                  8  DOM FOR PRE pot  prince  Ventrue:1
+2x Sir Walter Nash                  7  DOM FOR PRE      prince  Ventrue:1
+2x Timothy Crowley                  7  FOR PRE ani dom  prince  Ventrue:1
+1x Luccia Paciola                   6  DOM for pre              Ventrue:1
+1x Jazz Wentworth                   5  PRE dom for              Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for              Ventrue:2
+1x Courtland Leighton               4  dom for pre              Ventrue:1
+1x Violette Prentiss                4  PRE dom                  Ventrue:1
+1x Gideon Fontaine                  3  PRE                      Ventrue:1
 
 Library (88 cards)
 Master (12; 3 trifle)

@@ -10,17 +10,17 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Y1HIUePUfP8
 
 Deck Name: S&B deck
 
-Crypt (12 cards, min=20 max=28 avg=6.08)
-----------------------------------------
-2x Kite                         7   AUS DEM obf pre      bishop   Malkavian antitribu:2
-2x Korah                        7   AUS DEM OBF ani      priscus  Malkavian antitribu:2
-2x Dolphin Black                6   AUS DEM OBF                   Malkavian antitribu:2
-1x Quentin King III             7   AUS DEM obf pre      prince   Malkavian:3
-1x Artemis                      6   DEM OBF aus cel for           Malkavian antitribu:2
-1x Tony                         6   AUS DEM dom obf               Malkavian:3
-1x Persia, The Beautiful Statue 5   DEM aus obf                   Malkavian:3
-1x Uncle George                 5   DEM aus dom obf               Malkavian antitribu:3
-1x Adelaide Davis               4   aus dem obf                   Malkavian:3
+Crypt (12 cards, min=20, max=28, avg=6.08)
+------------------------------------------
+2x Kite                          7  AUS DEM obf pre      bishop   Malkavian antitribu:2
+2x Korah                         7  AUS DEM OBF ani      priscus  Malkavian antitribu:2
+2x Dolphin Black                 6  AUS DEM OBF                   Malkavian antitribu:2
+1x Quentin King III              7  AUS DEM obf pre      prince   Malkavian:3
+1x Artemis                       6  DEM OBF aus cel for           Malkavian antitribu:2
+1x Tony                          6  AUS DEM dom obf               Malkavian:3
+1x Persia, The Beautiful Statue  5  DEM aus obf                   Malkavian:3
+1x Uncle George                  5  DEM aus dom obf               Malkavian antitribu:3
+1x Adelaide Davis                4  aus dem obf                   Malkavian:3
 
 Library (89 cards)
 Master (15)

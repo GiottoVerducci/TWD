@@ -9,17 +9,17 @@ Deck Name: Hello from the past
 
 Description: Just wanted to remember how boring this deck is.
 
-Crypt (12 cards, min=10 max=28 avg=4.92)
-----------------------------------------
-2x Gilbert Duane        7   AUS DOM OBF         prince  Malkavian:1
-2x Zebulon              5   OBF aus dom pro             Malkavian:1
-2x Zöe                  3   AUS cel obf                 Malkavian:2
-1x Greger Anderssen     7   AUS OBF dom pro     prince  Malkavian:2
-1x Mariel, Lady Thunder 7   DOM OBF aus tha             Malkavian:1
-1x Ozmo                 6   AUS dom obf                 Malkavian:1
-1x Didi Meyers          5   DOM aus cel obf             Malkavian:1
-1x Mustafa Rahman       2   dom                         Tremere:2
-1x Ohanna               2   dom                         Malkavian:2
+Crypt (12 cards, min=10, max=28, avg=4.92)
+------------------------------------------
+2x Gilbert Duane         7  AUS DOM OBF      prince  Malkavian:1
+2x Zebulon               5  OBF aus dom pro          Malkavian:1
+2x Zöe                   3  AUS cel obf              Malkavian:2
+1x Greger Anderssen      7  AUS OBF dom pro  prince  Malkavian:2
+1x Mariel, Lady Thunder  7  DOM OBF aus tha          Malkavian:1
+1x Ozmo                  6  AUS dom obf              Malkavian:1
+1x Didi Meyers           5  DOM aus cel obf          Malkavian:1
+1x Mustafa Rahman        2  dom                      Tremere:2
+1x Ohanna                2  dom                      Malkavian:2
 
 Library (90 cards)
 Master (17; 2 trifle)

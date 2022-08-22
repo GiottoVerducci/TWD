@@ -8,14 +8,14 @@ Deck Name: Masters of the Grand Ball vol 2.0
 
 Description: Don't get blocked and block key actions.
 
-Crypt (12 cards, min=16 max=42 avg=7.67)
-----------------------------------------
-4x Anson          8   CEL PRE aus dom      prince        Toreador:1
-3x Anneke         10  AUS CEL PRE dom      justicar      Toreador:1
-2x Alexandra      11  ANI AUS CEL PRE dom  inner circle  Toreador:2
-1x Colin Flynn    3   aus cel                            Toreador:1
-1x Isabel de Leon 3   AUS                                Toreador:2
-1x Delilah Easton 2   pre                                Toreador:1
+Crypt (12 cards, min=16, max=42, avg=7.67)
+------------------------------------------
+4x Anson            8  CEL PRE aus dom      prince        Toreador:1
+3x Anneke          10  AUS CEL PRE dom      justicar      Toreador:1
+2x Alexandra       11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+1x Colin Flynn      3  aus cel                            Toreador:1
+1x Isabel de Leon   3  AUS                                Toreador:2
+1x Delilah Easton   2  pre                                Toreador:1
 
 Library (90 cards)
 Master (37; 6 trifle)

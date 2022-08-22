@@ -7,14 +7,14 @@ Ruben Van Cauwenberghe
 
 Deck Name: Anneke+Anson
 
-Crypt (12 cards, min=10 max=40 avg=6.83)
-----------------------------------------
-4x Anneke         10  AUS CEL PRE dom   justicar  Toreador:1
-4x Anson          8   CEL PRE aus dom   prince    Toreador:1
-1x Colin Flynn    3   aus cel                     Toreador:1
-1x Isabel de Leon 3   AUS                         Toreador:2
-1x Delilah Easton 2   pre                         Toreador:1
-1x Dieter Kleist  2   aus                         Toreador:1
+Crypt (12 cards, min=10, max=40, avg=6.83)
+------------------------------------------
+4x Anneke          10  AUS CEL PRE dom  justicar  Toreador:1
+4x Anson            8  CEL PRE aus dom  prince    Toreador:1
+1x Colin Flynn      3  aus cel                    Toreador:1
+1x Isabel de Leon   3  AUS                        Toreador:2
+1x Delilah Easton   2  pre                        Toreador:1
+1x Dieter Kleist    2  aus                        Toreador:1
 
 Library (70 cards)
 Master (26)

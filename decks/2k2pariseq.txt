@@ -8,20 +8,20 @@ Stéphane Lavrut
 Despite containing only 2 votes in the crypt, it manage to pass votes
 whatever the situation ... And this deck only contains 15 rare cards !
 
-Crypt (12 cards, min=7 max=19 avg=3.17)
----------------------------------------
-1x Rake                                 6   PRE aus cel pot     prince  Brujah:1
-1x Jazz Wentworth                       5   PRE dom for                 Ventrue:1
-1x Mariana Gilbert                      4   PRE cel                     Toreador:1
-1x Violette Prentiss                    4   PRE dom                     Ventrue:1
-1x Gideon Fontaine                      3   PRE                         Ventrue:1
-1x Itzahk Levine                        3   cel pre                     Ventrue:2
-1x Roland Loussarian                    3   for pre                     Ventrue:1
-1x Uma Hatch                            3   cel pre                     Brujah:1
-1x Delilah Easton                       2   pre                         Toreador:1
-1x Frederick the Weak                   2   pre                         Brujah antitribu:2
-1x Vasilis, The Traitor of Don Cruez    2   pre                         Brujah:2
-1x Antoinette DuChamp                   1   cel pre                     Caitiff:2
+Crypt (12 cards, min=7, max=19, avg=3.17)
+-----------------------------------------
+1x Rake                               6  PRE aus cel pot  prince  Brujah:1
+1x Jazz Wentworth                     5  PRE dom for              Ventrue:1
+1x Mariana Gilbert                    4  PRE cel                  Toreador:1
+1x Violette Prentiss                  4  PRE dom                  Ventrue:1
+1x Gideon Fontaine                    3  PRE                      Ventrue:1
+1x Itzahk Levine                      3  cel pre                  Ventrue:2
+1x Roland Loussarian                  3  for pre                  Ventrue:1
+1x Uma Hatch                          3  cel pre                  Brujah:1
+1x Delilah Easton                     2  pre                      Toreador:1
+1x Frederick the Weak                 2  pre                      Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez  2  pre                      Brujah:2
+1x Antoinette DuChamp                 1  cel pre                  Caitiff:2
 
 Library (90 cards)
 Master (19)

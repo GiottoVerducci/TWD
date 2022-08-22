@@ -7,16 +7,16 @@ Hugh Angseesing
 
 Deck: Wild Thing War Ghoul
 
-Crypt (12 cards, min=8 max=22 avg=3.92)
----------------------------------------
-3x Lolita Houston       4   VIC aus             Tzimisce:2
-3x Horatio              2   vic                 Tzimisce:2
-1x Caliban              6   ANI AUS VIC         Tzimisce:2
-1x Corine Marcón        6   AUS VIC ani         Tzimisce:2
-1x Devin Bisley         5   ANI AUS vic         Tzimisce:2
-1x Elizabeth Westcott   5   AUS ani cel vic     Tzimisce:3
-1x Rose, The            5   PRE VIC aus         Tzimisce:3
-1x Piotr Andreikov      2   aus                 Tzimisce:3
+Crypt (12 cards, min=8, max=22, avg=3.92)
+-----------------------------------------
+3x Lolita Houston      4  VIC aus          Tzimisce:2
+3x Horatio             2  vic              Tzimisce:2
+1x Caliban             6  ANI AUS VIC      Tzimisce:2
+1x Corine Marcón       6  AUS VIC ani      Tzimisce:2
+1x Devin Bisley        5  ANI AUS vic      Tzimisce:2
+1x Elizabeth Westcott  5  AUS ani cel vic  Tzimisce:3
+1x Rose, The           5  PRE VIC aus      Tzimisce:3
+1x Piotr Andreikov     2  aus              Tzimisce:3
 
 Library (76 cards)
 Master (13)

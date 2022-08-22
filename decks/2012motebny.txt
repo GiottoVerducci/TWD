@@ -27,18 +27,18 @@ Eternals of Sirius was the best answer I could find, and it also solved #3 since
 Bedshet. I think I succeeded on all the design goals except #5, since it's really hard to convince
 people that you're not frightening when you have 5 or more 8+ caps.
 
-Crypt (12 cards, min=33 max=41 avg=9.25)
-----------------------------------------
-2x Nefertiti                                    10  DOM OBF PRE SER cel pot              Follower of Set:2
-2x Khay'tall, Snake of Eden                     9   DOM OBF PRE SER aus                  Follower of Set:2
-1x Sutekh, The Dark God                         11  NEC OBF PRE SER cel pot     2 votes  Follower of Set:2
-1x Kemintiri                                    10  OBF PRE SER THA aus dom              Follower of Set:2
-1x Nehsi                                        10  OBF PRE PRO SER aus for     2 votes  Follower of Set:2
-1x Kahina the Sorceress                         9   AUS DOM OBF SER nec pre     1 vote   Follower of Set:3
-1x Saqqaf, Keeper of the Grand Temple of Set    9   OBF PRE SER cel for                  Follower of Set:2
-1x Amisa                                        8   OBF SER pre pro             2 votes  Follower of Set:2
-1x Intisar                                      8   OBF PRE SER cel pot                  Follower of Set:2
-1x Kephamos, High Priest of Marrakech           8   SER dom obf pre             2 votes  Follower of Set:2
+Crypt (12 cards, min=33, max=41, avg=9.25)
+------------------------------------------
+2x Nefertiti                                  10  DOM OBF PRE SER cel pot           Follower of Set:2
+2x Khay'tall, Snake of Eden                    9  DOM OBF PRE SER aus               Follower of Set:2
+1x Sutekh, The Dark God                       11  NEC OBF PRE SER cel pot  2 votes  Follower of Set:2
+1x Kemintiri                                  10  OBF PRE SER THA aus dom           Follower of Set:2
+1x Nehsi                                      10  OBF PRE PRO SER aus for  2 votes  Follower of Set:2
+1x Kahina the Sorceress                        9  AUS DOM OBF SER nec pre  1 vote   Follower of Set:3
+1x Saqqaf, Keeper of the Grand Temple of Set   9  OBF PRE SER cel for               Follower of Set:2
+1x Amisa                                       8  OBF SER pre pro          2 votes  Follower of Set:2
+1x Intisar                                     8  OBF PRE SER cel pot               Follower of Set:2
+1x Kephamos, High Priest of Marrakech          8  SER dom obf pre          2 votes  Follower of Set:2
 
 Library (60 cards)
 Master (19; 6 trifle)

@@ -9,13 +9,13 @@ played with it, though it was partly based on Bernie B's successful
 Origins deck last year. Take out the Freak Drives, Extortions, Bleed
 permanents for a better cycling deck I think...
 
-Crypt (12 cards, min=14 max=20 avg=4.5)
----------------------------------------
-2x Camille Devereux     5   FOR PRO ani  Gangrel:1
-4x Mirembe Kabbada      5   PRO SER ani  Gangrel:2
-2x Raven                5   FOR PRO ani  Gangrel:1
-2x Daliyah              4   PRO obf      Nosferatu:2
-2x Chandler Hungerford  3   PRO          Gangrel:2
+Crypt (12 cards, min=14, max=20, avg=4.5)
+-----------------------------------------
+2x Camille Devereux     5  FOR PRO ani  Gangrel:1
+4x Mirembe Kabbada      5  PRO SER ani  Gangrel:2
+2x Raven                5  FOR PRO ani  Gangrel:1
+2x Daliyah              4  PRO obf      Nosferatu:2
+2x Chandler Hungerford  3  PRO          Gangrel:2
 
 Library (90 cards)
 Master (16)

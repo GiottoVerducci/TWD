@@ -12,14 +12,14 @@ Deck Name: Lazverinus, the Smackdaddy
 
 Jeremy (Large-cap Tremere Wall) -> Kelly (Lazverinus Wall) -> Darby (Nephandus) -> John (Brujah! B&B] -> Bill (Emerald Legionnaire)
 
-Crypt (12 cards, min=28 max=40 avg=8.17)
-----------------------------------------
-4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop    Ventrue antitribu:2
-2x Owain Evans, The Wanderer     8   AUS DOM FOR cel pre                Ventrue antitribu:3
-2x Matthias                      7   AUS FOR OBE nec                    Salubri:2
-2x Muaziz, Archon of Ulugh Beg   7   THA aus dom for                    Tremere:2
-1x Blackhorse Tanner             7   AUS DOM FOR                        Ventrue antitribu:3
-1x Omaya                         7   ANI AUS FOR pro                    Gangrel antitribu:2
+Crypt (12 cards, min=28, max=40, avg=8.17)
+------------------------------------------
+4x Lazverinus, Thrall of Lambach  10  AUS DOM FOR POT pro  archbishop  Ventrue antitribu:2
+2x Owain Evans, The Wanderer       8  AUS DOM FOR cel pre              Ventrue antitribu:3
+2x Matthias                        7  AUS FOR OBE nec                  Salubri:2
+2x Muaziz, Archon of Ulugh Beg     7  THA aus dom for                  Tremere:2
+1x Blackhorse Tanner               7  AUS DOM FOR                      Ventrue antitribu:3
+1x Omaya                           7  ANI AUS FOR pro                  Gangrel antitribu:2
 
 Library (90 cards)
 Master (23; 7 trifle)

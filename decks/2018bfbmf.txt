@@ -19,15 +19,15 @@ the right tools to current meta (lots of anarchs, allys, revolts etc.). With
 Retribution on your hand, you can trick your predator and not bounce instead
 take the bleed in and torporize the bleeder later on your master phase.
 
-Crypt (12 cards, min=13 max=30 avg=5.58)
-----------------------------------------
-3x Blackhorse Tanner            7   AUS DOM FOR                  Ventrue antitribu:3
-2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre          Ventrue antitribu:3
-2x Jefferson Foster             6   AUS DOM for tha      bishop  Ventrue antitribu:4
-2x Neighbor John                5   AUS dom for                  Ventrue antitribu:4
-1x Jephta Hester                5   DOM FOR aus                  Ventrue antitribu:4
-1x New Blood                    2   san                          Blood Brother:ANY
-1x Anarch Convert               1   -none-                       Caitiff:ANY
+Crypt (12 cards, min=13, max=30, avg=5.58)
+------------------------------------------
+3x Blackhorse Tanner          7  AUS DOM FOR                  Ventrue antitribu:3
+2x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre          Ventrue antitribu:3
+2x Jefferson Foster           6  AUS DOM for tha      bishop  Ventrue antitribu:4
+2x Neighbor John              5  AUS dom for                  Ventrue antitribu:4
+1x Jephta Hester              5  DOM FOR aus                  Ventrue antitribu:4
+1x New Blood                  2  san                          Blood Brother:ANY
+1x Anarch Convert             1  -none-                       Caitiff:ANY
 
 Library (82 cards)
 Master (16; 2 trifle)

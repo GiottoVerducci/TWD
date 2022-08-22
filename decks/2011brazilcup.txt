@@ -11,16 +11,16 @@ Deck Name: The Eye on the Sword
 
 Description: Based on the 'I am I' deck.
 
-Crypt (12 cards, min=13 max=31 avg=5.5)
----------------------------------------
-3x Dela Eden                       8   AUS FOR VAL cel dom  Salubri antitribu:3
-3x Adonai                          7   AUS VAL for          Salubri antitribu:2
-1x Remilliard, Devout Crusader     4   AUS pre              Toreador antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha              Tremere antitribu:2
-1x Thomas Steed, The Angry         4   ani aus val          Salubri antitribu:2
-1x Isabel de Leon                  3   AUS                  Toreador:2
-1x Kervos, The Lieutenant          3   aus val              Salubri antitribu:2
-1x Zöe                             3   AUS cel obf          Malkavian:2
+Crypt (12 cards, min=13, max=31, avg=5.5)
+-----------------------------------------
+3x Dela Eden                        8  AUS FOR VAL cel dom  Salubri antitribu:3
+3x Adonai                           7  AUS VAL for          Salubri antitribu:2
+1x Remilliard, Devout Crusader      4  AUS pre              Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet  4  AUS tha              Tremere antitribu:2
+1x Thomas Steed, The Angry          4  ani aus val          Salubri antitribu:2
+1x Isabel de Leon                   3  AUS                  Toreador:2
+1x Kervos, The Lieutenant           3  aus val              Salubri antitribu:2
+1x Zöe                              3  AUS cel obf          Malkavian:2
 
 Library (90 cards)
 Master (17; 4 trifle)

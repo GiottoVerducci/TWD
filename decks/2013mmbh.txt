@@ -13,12 +13,12 @@ having all the vampires out all rounds, Bane+ Phantom + stealth are
 sweet against blockers, definitely there is space for 1-2 additional
 Siren's Lure."
 
-Crypt (12 cards, min=14 max=32 avg=5.75)
-----------------------------------------
-5x Scout Youngwood 8   MEL OBF PRE for qui  2 votes     Daughter of Cacophony:6
-3x Hillanvale      5   FOR MEL obf                      Daughter of Cacophony:6
-2x Harlan Graves   4   FOR mel pre                      Daughter of Cacophony:6
-2x Janet Langer    3   MEL pre                          Daughter of Cacophony:5
+Crypt (12 cards, min=14, max=32, avg=5.75)
+------------------------------------------
+5x Scout Youngwood  8  MEL OBF PRE for qui  2 votes  Daughter of Cacophony:6
+3x Hillanvale       5  FOR MEL obf                   Daughter of Cacophony:6
+2x Harlan Graves    4  FOR mel pre                   Daughter of Cacophony:6
+2x Janet Langer     3  MEL pre                       Daughter of Cacophony:5
 
 Library (63 cards)
 Master (10; 2 trifle)

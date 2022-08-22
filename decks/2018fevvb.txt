@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/8932
 
 Deck Name: Velhos lobos e suas parafernálias endiabradas
 
-Crypt (12 cards, min=11 max=21 avg=4)
--------------------------------------
-3x Jacob Fermor          5   PRO ani tha  Gangrel:4
-3x Gunnar                4   PRO for      Gangrel:4
-1x André the Manipulator 6   FOR PRO      Gangrel:5
-1x Jezebelle             4   ani for pro  Gangrel:4
-1x Calvin Cleaver        3   for pro      Gangrel:4
-1x Fergus Alexander      3   pot pro      Gangrel:5
-1x Lillian               3   ani pro      Gangrel:5
-1x Robert Price          2   pro          Gangrel:4
+Crypt (12 cards, min=11, max=21, avg=4)
+---------------------------------------
+3x Jacob Fermor           5  PRO ani tha  Gangrel:4
+3x Gunnar                 4  PRO for      Gangrel:4
+1x André the Manipulator  6  FOR PRO      Gangrel:5
+1x Jezebelle              4  ani for pro  Gangrel:4
+1x Calvin Cleaver         3  for pro      Gangrel:4
+1x Fergus Alexander       3  pot pro      Gangrel:5
+1x Lillian                3  ani pro      Gangrel:5
+1x Robert Price           2  pro          Gangrel:4
 
 Library (67 cards)
 Master (23; 7 trifle)

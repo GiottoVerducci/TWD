@@ -8,15 +8,15 @@ https://www.vekn.net/event-calendar/event/7537
 
 Deck Name: AAA - Alert Attention Alarm
 
-Crypt (12 cards, min=28 max=42 avg=8.67)
-----------------------------------------
-4x Anson                        8   CEL PRE aus dom             prince          Toreador:1
-2x Alexandra                    11  ANI AUS CEL PRE dom         inner circle    Toreador:2
-2x Anneke                       10  AUS CEL PRE dom             justicar        Toreador:1
-1x François Villon              10  AUS CEL PRE chi obf pot     prince          Toreador:2
-1x Marcellus                    8   AUS CEL pro                 prince          Toreador:2
-1x Tatiana Romanov              7   AUS cel pre                 prince          Toreador:1
-1x Volker, The Puppet Prince    5   CEL pot                     prince          Brujah:2
+Crypt (12 cards, min=28, max=42, avg=8.67)
+------------------------------------------
+4x Anson                       8  CEL PRE aus dom          prince        Toreador:1
+2x Alexandra                  11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+2x Anneke                     10  AUS CEL PRE dom          justicar      Toreador:1
+1x François Villon            10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Marcellus                   8  AUS CEL pro              prince        Toreador:2
+1x Tatiana Romanov             7  AUS cel pre              prince        Toreador:1
+1x Volker, The Puppet Prince   5  CEL pot                  prince        Brujah:2
 
 Library (90 cards)
 Master (30; 6 trifle)

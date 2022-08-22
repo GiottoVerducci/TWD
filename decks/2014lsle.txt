@@ -8,29 +8,29 @@ https://www.vekn.net/event-calendar/event/7818
 
 Deck Name: Caitiff & Pander Bruise&Bleed
 
-Crypt (21 cards, min=4 max=12 avg=2)
-------------------------------------
-1x Dollface                         3   aus obf         Malkavian:1
-1x Duck                             3   obf pot         Nosferatu:1
-1x Lena Rowe                        3   aus obf pre     Pander:2
-1x Panagos Levidis                  3   ani obf         Gangrel:2
-1x Regilio, The Seeker of Akhenaten 3   aus obf         Nosferatu:2
-1x Shannon Price, The Whisperer     3   ani obf         Nosferatu antitribu:2
-1x Watenda                          3   obf             Malkavian:2
-1x Zöe                              3   AUS cel obf     Malkavian:2
-1x Carter                           2   cel             Toreador antitribu:2
-1x Dimple                           2   obf             Nosferatu:1
-1x Gillian Krader                   2   ani dem         Pander:2
-1x Lalitha                          2   ser             Follower of Set:2
-1x Normal                           2   obf             Malkavian:1
-1x Antoinette DuChamp               1   cel pre         Caitiff:2
-1x Basil                            1   obf             Pander:2
-1x Franciscus                       1   aus             Caitiff:2
-1x Huang, Blood Cultist             1   pro             Pander:2
-1x Igo the Hungry                   1   pre pro         Caitiff:1
-1x Julius                           1   qui ser         Caitiff:2
-1x March Halcyon                    1   for             Pander:2
-1x Smudge the Ignored               1   -none-          Caitiff:1
+Crypt (21 cards, min=4, max=12, avg=2)
+--------------------------------------
+1x Dollface                          3  aus obf      Malkavian:1
+1x Duck                              3  obf pot      Nosferatu:1
+1x Lena Rowe                         3  aus obf pre  Pander:2
+1x Panagos Levidis                   3  ani obf      Gangrel:2
+1x Regilio, The Seeker of Akhenaten  3  aus obf      Nosferatu:2
+1x Shannon Price, The Whisperer      3  ani obf      Nosferatu antitribu:2
+1x Watenda                           3  obf          Malkavian:2
+1x Zöe                               3  AUS cel obf  Malkavian:2
+1x Carter                            2  cel          Toreador antitribu:2
+1x Dimple                            2  obf          Nosferatu:1
+1x Gillian Krader                    2  ani dem      Pander:2
+1x Lalitha                           2  ser          Follower of Set:2
+1x Normal                            2  obf          Malkavian:1
+1x Antoinette DuChamp                1  cel pre      Caitiff:2
+1x Basil                             1  obf          Pander:2
+1x Franciscus                        1  aus          Caitiff:2
+1x Huang, Blood Cultist              1  pro          Pander:2
+1x Igo the Hungry                    1  pre pro      Caitiff:1
+1x Julius                            1  qui ser      Caitiff:2
+1x March Halcyon                     1  for          Pander:2
+1x Smudge the Ignored                1  -none-       Caitiff:1
 
 Library (80 cards)
 Master (17)

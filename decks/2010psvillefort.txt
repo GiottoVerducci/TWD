@@ -10,13 +10,13 @@ Inspired from Council of Doom by "swiss academy" and Girls by Erik
 Torstensson. This is a slow deck, but very powerful in the end game.
 I think I should add another unleash hell's fury.
 
-Crypt (12 cards, min=37 max=44 avg=10.25)
------------------------------------------
-3x Cybele                10  ANI DAI OBF PRE SER THA                    Baali:4
-3x Maris Streck          9   AUS OBF ani dem dom        justicar        Malkavian:3
-2x Adana de Sforza       11  CEL OBF POT PRE PRO aus    inner circle    Brujah:4
-2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-2x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
+Crypt (12 cards, min=37, max=44, avg=10.25)
+-------------------------------------------
+3x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+3x Maris Streck            9  AUS OBF ani dem dom      justicar      Malkavian:3
+2x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+2x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+2x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
 
 Library (78 cards)
 Master (40; 7 trifle)

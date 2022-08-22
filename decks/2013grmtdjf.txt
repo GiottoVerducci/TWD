@@ -12,14 +12,14 @@ Created by: Randal Rudstam (couple small changes made by Tomi Sillanpää)
 
 Description: A bleed deck
 
-Crypt (12 cards, min=40 max=44 avg=10.42)
------------------------------------------
-5x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE                  Baali:2
-3x Arika           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
-1x Etrius          11  AUS DOM OBF THA pro      inner circle    Tremere:2
-1x Leandro         11  AUS OBF PRE cel dom      inner circle    Malkavian:2
-1x Esau            10  AUS DEM DOM OBF PRE                      Malkavian:3
-1x Nefertiti       10  DOM OBF PRE SER cel pot                  Follower of Set:2
+Crypt (12 cards, min=40, max=44, avg=10.42)
+-------------------------------------------
+5x Huitzilopochtli  10  AUS DAI DOM OBF POT PRE                Baali:2
+3x Arika            11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Etrius           11  AUS DOM OBF THA pro      inner circle  Tremere:2
+1x Leandro          11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Esau             10  AUS DEM DOM OBF PRE                    Malkavian:3
+1x Nefertiti        10  DOM OBF PRE SER cel pot                Follower of Set:2
 
 Library (73 cards)
 Master (31; 7 trifle)

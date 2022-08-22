@@ -7,15 +7,15 @@ Robyn Tatu
 
 Maris and Casino
 
-Crypt (12 cards, min=28 max=39 avg=8.58)
-----------------------------------------
-3x Casino Reeds         9   ANI OBF POT cel dem  prince    Nosferatu:3
-3x Maris Streck         9   AUS OBF ani dem dom  justicar  Malkavian:3
-2x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince    Malkavian:3
-1x Cock Robin           10  ANI OBF POT aus for  justicar  Nosferatu:3
-1x Korah                7   AUS DEM OBF ani      priscus   Malkavian antitribu:2
-1x Nikolaus Vermeulen   7   POT ani for obf      prince    Nosferatu:2
-1x Calebros, The Martyr 5   ANI obf pot          prince    Nosferatu:2
+Crypt (12 cards, min=28, max=39, avg=8.58)
+------------------------------------------
+3x Casino Reeds           9  ANI OBF POT cel dem  prince    Nosferatu:3
+3x Maris Streck           9  AUS OBF ani dem dom  justicar  Malkavian:3
+2x Rachel Brandywine     10  AUS DEM OBF PRO ani  prince    Malkavian:3
+1x Cock Robin            10  ANI OBF POT aus for  justicar  Nosferatu:3
+1x Korah                  7  AUS DEM OBF ani      priscus   Malkavian antitribu:2
+1x Nikolaus Vermeulen     7  POT ani for obf      prince    Nosferatu:2
+1x Calebros, The Martyr   5  ANI obf pot          prince    Nosferatu:2
 
 Library (89 cards)
 Master (11)

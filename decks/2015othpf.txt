@@ -11,17 +11,17 @@ Deck Name: !Bru Influence
 
 Description: S&B !brujah Anarch
 
-Crypt (13 cards, min=4 max=23 avg=3.23)
----------------------------------------
-5x Anarch Convert       1   -none-               Caitiff:ANY
-1x DeSalle              7   CEL POT PRE          Brujah antitribu:4
-1x Father Juan Carlos   6   PRE aus cel pot tha  Brujah antitribu:4
-1x Axel Von Anders      5   PRE cel obf pot      Brujah antitribu:4
-1x Gatjil Munyarryun    5   POT cel obt pre      Brujah antitribu:5
-1x Rodrigo              5   CEL pot pre qui      Brujah antitribu:4
-1x Alessandro Garcia    4   pot pre pro          Brujah antitribu:4
-1x Smash                3   pot pre              Brujah antitribu:4
-1x Honest Abe           2   pre                  Brujah:5
+Crypt (13 cards, min=4, max=23, avg=3.23)
+-----------------------------------------
+5x Anarch Convert      1  -none-               Caitiff:ANY
+1x DeSalle             7  CEL POT PRE          Brujah antitribu:4
+1x Father Juan Carlos  6  PRE aus cel pot tha  Brujah antitribu:4
+1x Axel Von Anders     5  PRE cel obf pot      Brujah antitribu:4
+1x Gatjil Munyarryun   5  POT cel obt pre      Brujah antitribu:5
+1x Rodrigo             5  CEL pot pre qui      Brujah antitribu:4
+1x Alessandro Garcia   4  pot pre pro          Brujah antitribu:4
+1x Smash               3  pot pre              Brujah antitribu:4
+1x Honest Abe          2  pre                  Brujah:5
 
 Library (78 cards)
 Master (11)

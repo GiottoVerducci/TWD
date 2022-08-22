@@ -13,15 +13,15 @@ Created by: Luis Espejo (to be honest a Orian Gissler Deck)
 
 Description: Emerald Legionnaire Deck
 
-Crypt (12 cards, min=22 max=40 avg=7.58)
-----------------------------------------
-4x Erlik           10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-2x Erebus          7   AUS FOR NEC dem      Harbinger of Skulls:3
-2x Solomon Batanea 5   AUS FOR nec          Harbinger of Skulls:4
-1x Phagian         8   AUS NEC THA dom for  Harbinger of Skulls:4
-1x Babalawo Alafin 7   AUS FOR NEC ani      Harbinger of Skulls:4
-1x Mina Grotius    6   FOR NEC cel          Harbinger of Skulls:3
-1x Zygodat         6   AUS NEC pot          Harbinger of Skulls:4
+Crypt (12 cards, min=22, max=40, avg=7.58)
+------------------------------------------
+4x Erlik            10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+2x Erebus            7  AUS FOR NEC dem      Harbinger of Skulls:3
+2x Solomon Batanea   5  AUS FOR nec          Harbinger of Skulls:4
+1x Phagian           8  AUS NEC THA dom for  Harbinger of Skulls:4
+1x Babalawo Alafin   7  AUS FOR NEC ani      Harbinger of Skulls:4
+1x Mina Grotius      6  FOR NEC cel          Harbinger of Skulls:3
+1x Zygodat           6  AUS NEC pot          Harbinger of Skulls:4
 
 Library (79 cards)
 Master (15; 5 trifle)

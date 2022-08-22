@@ -10,15 +10,15 @@ Deck Name: Tzimisce ganador Qualy
 Description: Un mazo de control clasico electo mis que nada por la
 lectura de metagame que iba a haber en el Qualy.
 
-Crypt (12 cards, min=16 max=31 avg=5.92)
-----------------------------------------
-3x Devin Bisley   5   ANI AUS vic                   Tzimisce:2
-2x Anton          8   ANI AUS cel obf vic           Tzimisce:2
-2x Dragos         7   ANI AUS vic                   Tzimisce:2
-2x Caliban        6   ANI AUS VIC                   Tzimisce:2
-1x Meshenka       8   ANI AUS VIC          priscus  Tzimisce:2
-1x Lolita Houston 4   VIC aus                       Tzimisce:2
-1x Horatio        2   vic                           Tzimisce:2
+Crypt (12 cards, min=16, max=31, avg=5.92)
+------------------------------------------
+3x Devin Bisley    5  ANI AUS vic                   Tzimisce:2
+2x Anton           8  ANI AUS cel obf vic           Tzimisce:2
+2x Dragos          7  ANI AUS vic                   Tzimisce:2
+2x Caliban         6  ANI AUS VIC                   Tzimisce:2
+1x Meshenka        8  ANI AUS VIC          priscus  Tzimisce:2
+1x Lolita Houston  4  VIC aus                       Tzimisce:2
+1x Horatio         2  vic                           Tzimisce:2
 
 Library (90 cards)
 Master (19; 4 trifle)

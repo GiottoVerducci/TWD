@@ -9,18 +9,18 @@ Deck Name: The Dance of Nikolaus
 
 2GW5 (3rd seed) + 5VP in final
 
-Crypt (12 cards, min=11 max=31 avg=5.58)
-----------------------------------------
-3x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
-1x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
-1x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
-1x Murat                        7   OBF POT ser          prince    Nosferatu:2
-1x Judah                        6   POT ani dom          primogen  Nosferatu:2
-1x Calebros, The Martyr         5   ANI obf pot          prince    Nosferatu:2
-1x Agrippina                    4   OBF pot                        Nosferatu:1
-1x Duck                         3   obf pot                        Nosferatu:1
-1x Dimple                       2   obf                            Nosferatu:1
-1x KoKo                         2   pot                            Nosferatu:1
+Crypt (12 cards, min=11, max=31, avg=5.58)
+------------------------------------------
+3x Nikolaus Vermeulen         7  POT ani for obf      prince    Nosferatu:2
+1x Sheldon, Lord of the Clog  9  ANI AUS OBF POT for  justicar  Nosferatu:1
+1x Selma the Repugnant        8  OBF POT ani for      prince    Nosferatu:1
+1x Murat                      7  OBF POT ser          prince    Nosferatu:2
+1x Judah                      6  POT ani dom          primogen  Nosferatu:2
+1x Calebros, The Martyr       5  ANI obf pot          prince    Nosferatu:2
+1x Agrippina                  4  OBF pot                        Nosferatu:1
+1x Duck                       3  obf pot                        Nosferatu:1
+1x Dimple                     2  obf                            Nosferatu:1
+1x KoKo                       2  pot                            Nosferatu:1
 
 Library (87 cards)
 Master (20; 6 trifle)

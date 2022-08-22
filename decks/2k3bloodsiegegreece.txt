@@ -8,15 +8,15 @@ Created by: Aris Galamatis - galamatisaris@hotmail.com
 
 and inspired Xian's Slaughterhouse Funf
 
-Crypt (12 cards, min=25 max=33 avg=7.17)
-----------------------------------------
-3x Matthias                             7   AUS FOR OBE nec                      Salubri:2
-2x Unre, Keeper of Golgotha             9   AUS FOR NEC dom ser thn     bishop   Harbinger of Skulls:2
-2x Egothha                              7   AUS FOR NEC obf                      Harbinger of Skulls:2
-2x Agaitas, The Scholar of Antiquities  6   AUS NEC for                          Harbinger of Skulls:2
-1x Anisa Marianna Lopez                 8   FOR NEC QUI aus                      Harbinger of Skulls:2
-1x Gisela Harden, The Winnower          7   FOR NEC aus dem             priscus  Harbinger of Skulls:2
-1x Blanche Hill                         6   FOR OBE aus                          Salubri:2
+Crypt (12 cards, min=25, max=33, avg=7.17)
+------------------------------------------
+3x Matthias                             7  AUS FOR OBE nec                   Salubri:2
+2x Unre, Keeper of Golgotha             9  AUS FOR NEC dom ser thn  bishop   Harbinger of Skulls:2
+2x Egothha                              7  AUS FOR NEC obf                   Harbinger of Skulls:2
+2x Agaitas, The Scholar of Antiquities  6  AUS NEC for                       Harbinger of Skulls:2
+1x Anisa Marianna Lopez                 8  FOR NEC QUI aus                   Harbinger of Skulls:2
+1x Gisela Harden, The Winnower          7  FOR NEC aus dem          priscus  Harbinger of Skulls:2
+1x Blanche Hill                         6  FOR OBE aus                       Salubri:2
 
 Library (90 cards)
 Master (21)

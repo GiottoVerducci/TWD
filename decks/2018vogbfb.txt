@@ -12,15 +12,15 @@ Deck Name: Torpor-bleed
 
 Description: Bloqueia!
 
-Crypt (12 cards, min=25 max=36 avg=7.5)
----------------------------------------
-3x Victorine Lafourcade         8   DOM FOR PRE tha             prince      Ventrue:3
-3x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                         Tremere:2
-2x Lucinde, Alastor             10  DOM FOR PRE obf pot tha     justicar    Ventrue:3
-1x Iliana                       7   DOM FOR PRO tha                         Gangrel:2
-1x Ladislas Toth, The Torch     7   AUS DOM THA for             archbishop  Tremere antitribu:3
-1x Marlene, The Infernalist     6   AUS DOM dem for tha                     Ventrue antitribu:2
-1x Alejandro Aguirre            5   ani aus dom tha                         Tremere antitribu:3
+Crypt (12 cards, min=25, max=36, avg=7.5)
+-----------------------------------------
+3x Victorine Lafourcade          8  DOM FOR PRE tha          prince      Ventrue:3
+3x Muaziz, Archon of Ulugh Beg   7  THA aus dom for                      Tremere:2
+2x Lucinde, Alastor             10  DOM FOR PRE obf pot tha  justicar    Ventrue:3
+1x Iliana                        7  DOM FOR PRO tha                      Gangrel:2
+1x Ladislas Toth, The Torch      7  AUS DOM THA for          archbishop  Tremere antitribu:3
+1x Marlene, The Infernalist      6  AUS DOM dem for tha                  Ventrue antitribu:2
+1x Alejandro Aguirre             5  ani aus dom tha                      Tremere antitribu:3
 
 Library (90 cards)
 Master (18; 6 trifle)

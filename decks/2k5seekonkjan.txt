@@ -16,16 +16,16 @@ Pochtli Twister).
 
 Buckets o' Money
 
-Crypt (12 cards, min=14 max=40 avg=6.92)
-----------------------------------------
-3x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar  Ventrue:3
-3x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince    Ventrue:3
-1x Catherine du Bois    5   DOM for obf pre                       Ventrue:3
-1x Earl                 4   dom for pot                           Ventrue:3
-1x Elena Gutierrez      4   aus dom pre                           Ventrue:3
-1x Robin Withers        4   dom obf pre                           Ventrue:4
-1x Diana Vick           3   dom pre                               Ventrue:3
-1x Lana Butcher         3   dom for                               Ventrue:3
+Crypt (12 cards, min=14, max=40, avg=6.92)
+------------------------------------------
+3x Lucinde, Alastor   10  DOM FOR PRE obf pot tha  justicar  Ventrue:3
+3x Marcus Vitel       10  DOM FOR OBF OBT PRE      prince    Ventrue:3
+1x Catherine du Bois   5  DOM for obf pre                    Ventrue:3
+1x Earl                4  dom for pot                        Ventrue:3
+1x Elena Gutierrez     4  aus dom pre                        Ventrue:3
+1x Robin Withers       4  dom obf pre                        Ventrue:4
+1x Diana Vick          3  dom pre                            Ventrue:3
+1x Lana Butcher        3  dom for                            Ventrue:3
 
 Library (90 cards)
 Master (23)

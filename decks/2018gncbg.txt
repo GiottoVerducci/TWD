@@ -11,15 +11,15 @@ https://www.vekn.net/event-calendar/event/8832
 Deck Name: minimalism is black and you are dead
 Created by: Bram Van Stappen (played by Lucien De Prins in the event)
 
-Crypt (12 cards, min=28 max=44 avg=9.33)
-----------------------------------------
-4x Maris Streck          9   AUS OBF ani dem dom        justicar        Malkavian:3
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-1x Adana de Sforza       11  CEL OBF POT PRE PRO aus    inner circle    Brujah:4
-1x Josef von Bauren      11  ANI DEM OBF POT cel        inner circle    Nosferatu:4
-1x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-1x Baron Dieudonne       9   ANI OBF POT PRO            prince          Nosferatu:4
-1x Tupdog                1   POT VIS                                    Gargoyle:3
+Crypt (12 cards, min=28, max=44, avg=9.33)
+------------------------------------------
+4x Maris Streck            9  AUS OBF ani dem dom      justicar      Malkavian:3
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Josef von Bauren       11  ANI DEM OBF POT cel      inner circle  Nosferatu:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Baron Dieudonne         9  ANI OBF POT PRO          prince        Nosferatu:4
+1x Tupdog                  1  POT VIS                                Gargoyle:3
 
 Library (62 cards)
 Master (18; 5 trifle)

@@ -16,12 +16,12 @@ action. Remember to use the presses from the Strays to help your War
 Ghouls (I often used them to bail out of ANI combat). Deploy Corrupt
 Construction for lockdown.
 
-Crypt (12 cards, min=17 max=23 avg=5)
--------------------------------------
-3x Humo             6   ANI POT obf obt  Nosferatu antitribu:4
-3x Ana Rita Montaña 5   VIC aus dom obf  Tzimisce:3
-3x Gemini           5   OBF ani obt pot  Nosferatu:3
-3x Guedado          4   aus obf vic      Tzimisce:4
+Crypt (12 cards, min=17, max=23, avg=5)
+---------------------------------------
+3x Humo              6  ANI POT obf obt  Nosferatu antitribu:4
+3x Ana Rita Montaña  5  VIC aus dom obf  Tzimisce:3
+3x Gemini            5  OBF ani obt pot  Nosferatu:3
+3x Guedado           4  aus obf vic      Tzimisce:4
 
 Library (90 cards)
 Master (19; 4 trifle)

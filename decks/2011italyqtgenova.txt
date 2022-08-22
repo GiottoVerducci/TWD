@@ -14,13 +14,13 @@ charge Alamut, bloat with Haquim's Law and Boon, then go for the
 killing with Khabar: Community and Veil the Leigion for bleed and
 big votes like Reckless
 
-Crypt (12 cards, min=11 max=31 avg=5.58)
-----------------------------------------
-4x Olugbenga    7   OBF QUI ani cel      magaji  Assamite:4
-3x Amaravati    8   DOM OBF QUI ani chi          Assamite:4
-3x Kamau Jafari 4   QUI obf                      Assamite:4
-1x Alu          2   obf                          Assamite:5
-1x Basir        1   qui                          Assamite:4
+Crypt (12 cards, min=11, max=31, avg=5.58)
+------------------------------------------
+4x Olugbenga     7  OBF QUI ani cel      magaji  Assamite:4
+3x Amaravati     8  DOM OBF QUI ani chi          Assamite:4
+3x Kamau Jafari  4  QUI obf                      Assamite:4
+1x Alu           2  obf                          Assamite:5
+1x Basir         1  qui                          Assamite:4
 
 Library (81 cards)
 Master (18; 3 trifle)

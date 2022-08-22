@@ -7,18 +7,18 @@ Heikki Palomäki
 
 Deck Name: Blue blood
 
-Crypt (12 cards, min=17 max=36 avg=6.83)
-----------------------------------------
-2x Emerson Bridges                 8   DOM FOR PRE pot      prince      Ventrue:1
-2x Sir Walter Nash                 7   DOM FOR PRE          prince      Ventrue:1
-1x Democritus                      10  DOM PRE aus cel for  justicar    Ventrue:1
-1x Queen Anne                      10  DOM FOR PRE aus obf  prince      Ventrue:2
-1x Anson                           8   CEL PRE aus dom      prince      Toreador:1
-1x Timothy Crowley                 7   FOR PRE ani dom      prince      Ventrue:1
-1x Jazz Wentworth                  5   PRE dom for                      Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                      Ventrue:2
-1x Violette Prentiss               4   PRE dom                          Ventrue:1
-1x Gideon Fontaine                 3   PRE                              Ventrue:1
+Crypt (12 cards, min=17, max=36, avg=6.83)
+------------------------------------------
+2x Emerson Bridges                   8  DOM FOR PRE pot      prince    Ventrue:1
+2x Sir Walter Nash                   7  DOM FOR PRE          prince    Ventrue:1
+1x Democritus                       10  DOM PRE aus cel for  justicar  Ventrue:1
+1x Queen Anne                       10  DOM FOR PRE aus obf  prince    Ventrue:2
+1x Anson                             8  CEL PRE aus dom      prince    Toreador:1
+1x Timothy Crowley                   7  FOR PRE ani dom      prince    Ventrue:1
+1x Jazz Wentworth                    5  PRE dom for                    Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                    Ventrue:2
+1x Violette Prentiss                 4  PRE dom                        Ventrue:1
+1x Gideon Fontaine                   3  PRE                            Ventrue:1
 
 Library (90 cards)
 Master (17; 3 trifle)

@@ -13,15 +13,15 @@ Description: Gagnant du tournoi du 18/04/2004.
 Notes:
  Too vulnerable to votes (+1 delaying ? Direct ?) and big vampires (add more rushes ?).
 
-Crypt (12 cards, min=18 max=34 avg=6.33)
-----------------------------------------
-3x Ignazio Giovanni                 9   DOM FOR NEC POT obf     Giovanni:3
-2x Jan Pieterzoon                   7   DOM FOR pot pre         Ventrue:2
-2x Vittorio Giovanni                5   dom for nec pot         Giovanni:2
-2x Earl                             4   dom for pot             Ventrue:3
-1x Charice Fontaigne                6   AUS DOM for pot         Ventrue antitribu:3
-1x Truman                           6   FOR SAN dom pot         Blood Brother:2
-1x Vincent Day, Paladin and Paragon 5   aus dom for pot tha     Ventrue antitribu:2
+Crypt (12 cards, min=18, max=34, avg=6.33)
+------------------------------------------
+3x Ignazio Giovanni                  9  DOM FOR NEC POT obf  Giovanni:3
+2x Jan Pieterzoon                    7  DOM FOR pot pre      Ventrue:2
+2x Vittorio Giovanni                 5  dom for nec pot      Giovanni:2
+2x Earl                              4  dom for pot          Ventrue:3
+1x Charice Fontaigne                 6  AUS DOM for pot      Ventrue antitribu:3
+1x Truman                            6  FOR SAN dom pot      Blood Brother:2
+1x Vincent Day, Paladin and Paragon  5  aus dom for pot tha  Ventrue antitribu:2
 
 Library (90 cards)
 Master (16)

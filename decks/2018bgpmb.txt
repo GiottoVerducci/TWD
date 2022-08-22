@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/8843
 
 Deck Name: What is dead may never die
 
-Crypt (12 cards, min=36 max=44 avg=10.08)
------------------------------------------
-3x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
-3x Luna Giovanni         10  DOM NEC OBF OBT POT cel    1 vote          Giovanni:5
-2x Orlando Oriundus      9   AUS DOM THA obf            bishop          Tremere antitribu:4
-1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-1x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-1x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
-1x Undele                9   CEL FOR obf pre ser        magaji          Ishtarri:5
+Crypt (12 cards, min=36, max=44, avg=10.08)
+-------------------------------------------
+3x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+3x Luna Giovanni          10  DOM NEC OBF OBT POT cel  1 vote        Giovanni:5
+2x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
+1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+1x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
 
 Library (76 cards)
 Master (22; 7 trifle)

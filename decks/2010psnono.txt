@@ -9,19 +9,19 @@ Mark Loughman
 
 Deck Name: Garden of Nocturns
 
-Crypt (12 cards, min=17 max=24 avg=5.25)
-----------------------------------------
-2x Virginie, Prodigy        6   DOM POT obt      bishop  Lasombra:4
-1x Black Wallace            6   DOM POT obt tha          Lasombra:4
-1x Isanwayen                6   DOM MYT OBT              Kiasyd:4
-1x Onaedo                   6   DOM OBT aus pot          Lasombra:4
-1x Otieno                   6   OBT POT ani dom          Lasombra:4
-1x Andrew Emory             5   OBT aus dom pot  bishop  Lasombra:4
-1x Banjoko                  5   DOM obt pot              Lasombra:3
-1x Dr. Julius Sutphen (ADV) 5   POT dom obt              Lasombra:3
-1x Ermenegildo, The Rake    5   DOM OBT pot              Lasombra:4
-1x Leila Monroe             4   dom obt pre              Lasombra:4
-1x Lucy Markowitz           3   dom obt                  Lasombra:4
+Crypt (12 cards, min=17, max=24, avg=5.25)
+------------------------------------------
+2x Virginie, Prodigy         6  DOM POT obt      bishop  Lasombra:4
+1x Black Wallace             6  DOM POT obt tha          Lasombra:4
+1x Isanwayen                 6  DOM MYT OBT              Kiasyd:4
+1x Onaedo                    6  DOM OBT aus pot          Lasombra:4
+1x Otieno                    6  OBT POT ani dom          Lasombra:4
+1x Andrew Emory              5  OBT aus dom pot  bishop  Lasombra:4
+1x Banjoko                   5  DOM obt pot              Lasombra:3
+1x Dr. Julius Sutphen (ADV)  5  POT dom obt              Lasombra:3
+1x Ermenegildo, The Rake     5  DOM OBT pot              Lasombra:4
+1x Leila Monroe              4  dom obt pre              Lasombra:4
+1x Lucy Markowitz            3  dom obt                  Lasombra:4
 
 Library (88 cards)
 Master (15)

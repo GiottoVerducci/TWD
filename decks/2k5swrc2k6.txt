@@ -6,12 +6,12 @@ Dennis Lien
 
 Ward Ghouls
 
-Crypt (12 cards, min=6 max=24 avg=4)
-------------------------------------
-5x Corine Marcón  6   AUS VIC ani  Tzimisce:2
-3x Lolita Houston 4   VIC aus      Tzimisce:2
-2x Horatio        2   vic          Tzimisce:2
-2x Olga Triminov  1   vic          Pander:3
+Crypt (12 cards, min=6, max=24, avg=4)
+--------------------------------------
+5x Corine Marcón   6  AUS VIC ani  Tzimisce:2
+3x Lolita Houston  4  VIC aus      Tzimisce:2
+2x Horatio         2  vic          Tzimisce:2
+2x Olga Triminov   1  vic          Pander:3
 
 Library (90 cards)
 Master (16)

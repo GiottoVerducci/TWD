@@ -8,17 +8,17 @@ https://www.vekn.net/event-calendar/event/9767
 
 --3VP in final
 
-Crypt (12 cards, min=40 max=44 avg=10.58)
------------------------------------------
-4x Leandro                  11  AUS OBF PRE cel dom      inner circle   Malkavian:2
-1x Arika                    11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
-1x Harrod                   11  ANI CEL OBF POT aus pre  inner circle   Nosferatu:2
-1x Sutekh, The Dark God     11  NEC OBF PRE SER cel pot  2 votes        Follower of Set:2
-1x Aziz, Dammar of Istanbul 10  CEL OBF PRE QUI ser      2 votes        Assamite:2
-1x Cailean                  10  ANI OBF POT PRE dom      archbishop     Nosferatu antitribu:2
-1x Lucinde, Alastor         10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
-1x Marcus Vitel             10  DOM FOR OBF OBT PRE      prince         Ventrue:3
-1x Nehsi                    10  OBF PRE PRO SER aus for  2 votes        Follower of Set:2
+Crypt (12 cards, min=40, max=44, avg=10.58)
+-------------------------------------------
+4x Leandro                   11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Arika                     11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Harrod                    11  ANI CEL OBF POT aus pre  inner circle  Nosferatu:2
+1x Sutekh, The Dark God      11  NEC OBF PRE SER cel pot  2 votes       Follower of Set:2
+1x Aziz, Dammar of Istanbul  10  CEL OBF PRE QUI ser      2 votes       Assamite:2
+1x Cailean                   10  ANI OBF POT PRE dom      archbishop    Nosferatu antitribu:2
+1x Lucinde, Alastor          10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+1x Marcus Vitel              10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+1x Nehsi                     10  OBF PRE PRO SER aus for  2 votes       Follower of Set:2
 
 Library (90 cards)
 Master (27)

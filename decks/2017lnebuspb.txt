@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/8819
 
 Deck Name: TOKETOMY
 
-Crypt (12 cards, min=20 max=40 avg=8)
--------------------------------------
-3x Hartmut Stover           10  CEL OBF PRO dom for     archbishop  Gangrel antitribu:3
-3x Samantha                 10  CEL OBF PRO ani tha     bishop      Gangrel antitribu:2
-3x Ellen Fence, The Tracker 8   CEL OBF PRO aus         bishop      Gangrel antitribu:2
-2x Wren                     4   cel obf pro                         Gangrel antitribu:2
-1x Daliyah                  4   PRO obf                             Nosferatu:2
+Crypt (12 cards, min=20, max=40, avg=8)
+---------------------------------------
+3x Hartmut Stover            10  CEL OBF PRO dom for  archbishop  Gangrel antitribu:3
+3x Samantha                  10  CEL OBF PRO ani tha  bishop      Gangrel antitribu:2
+3x Ellen Fence, The Tracker   8  CEL OBF PRO aus      bishop      Gangrel antitribu:2
+2x Wren                       4  cel obf pro                      Gangrel antitribu:2
+1x Daliyah                    4  PRO obf                          Nosferatu:2
 
 Library (90 cards)
 Master (20; 7 trifle)

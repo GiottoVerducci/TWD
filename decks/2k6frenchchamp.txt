@@ -7,13 +7,13 @@ Serge Cirri
 
 Deck Name: Vote of madness
 
-Crypt (12 cards, min=26 max=34 avg=7.33)
-----------------------------------------
-3x Maris Streck          9   AUS OBF ani dem dom  justicar      Malkavian:3
-3x Korah                 7   AUS DEM OBF ani      priscus       Malkavian antitribu:2
-3x Quentin King III      7   AUS DEM obf pre      prince        Malkavian:3
-2x Marie Faucigny        7   AUS OBF dem tha      archbishop    Malkavian antitribu:3
-1x General Perfidio Díos 5   AUS dem obf          bishop        Malkavian antitribu:3
+Crypt (12 cards, min=26, max=34, avg=7.33)
+------------------------------------------
+3x Maris Streck           9  AUS OBF ani dem dom  justicar    Malkavian:3
+3x Korah                  7  AUS DEM OBF ani      priscus     Malkavian antitribu:2
+3x Quentin King III       7  AUS DEM obf pre      prince      Malkavian:3
+2x Marie Faucigny         7  AUS OBF dem tha      archbishop  Malkavian antitribu:3
+1x General Perfidio Díos  5  AUS dem obf          bishop      Malkavian antitribu:3
 
 Library (90 cards)
 Master (18)

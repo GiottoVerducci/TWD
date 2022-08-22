@@ -7,11 +7,11 @@ John Baggett
 
 Saulot Multitasking: a.k.a Juice!
 
-Crypt (12 cards, min=21 max=44 avg=7.83)
-----------------------------------------
-5x Saulot, The Wanderer    11  AUS FOR OBE THA VAL dai  Salubri:4
-4x Eurayle Gelasia Mylonas 6   AUS OBE for pre          Salubri:4
-3x Aredhel                 5   FOR VAL aus              Salubri antitribu:4
+Crypt (12 cards, min=21, max=44, avg=7.83)
+------------------------------------------
+5x Saulot, The Wanderer     11  AUS FOR OBE THA VAL dai  Salubri:4
+4x Eurayle Gelasia Mylonas   6  AUS OBE for pre          Salubri:4
+3x Aredhel                   5  FOR VAL aus              Salubri antitribu:4
 
 Library (90 cards)
 Master (12)

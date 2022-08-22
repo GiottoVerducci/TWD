@@ -11,14 +11,14 @@ https://www.vekn.net/event-calendar/event/8988
 Deck Name: Contra fatus não há argumentos
 Created by: Mauro Cesár
 
-Crypt (12 cards, min=19 max=40 avg=7)
--------------------------------------
-4x Dr. Lawrence Mayhew  6   AUS CHI ani for                      Ravnos:5
-3x Hazimel              11  ANI AUS CHI FOR POT dem     2 votes  Ravnos:4
-2x Aidan Lyle           7   AUS CHI THA dom                      Tremere:5
-1x Vassily Taltos       6   aus cel chi dom for obf              Ravnos:4
-1x Johann Matheson      4   ani aus chi                          Ravnos:5
-1x Gwen Brand           3   aus chi                              Ravnos:5
+Crypt (12 cards, min=19, max=40, avg=7)
+---------------------------------------
+4x Dr. Lawrence Mayhew   6  AUS CHI ani for                   Ravnos:5
+3x Hazimel              11  ANI AUS CHI FOR POT dem  2 votes  Ravnos:4
+2x Aidan Lyle            7  AUS CHI THA dom                   Tremere:5
+1x Vassily Taltos        6  aus cel chi dom for obf           Ravnos:4
+1x Johann Matheson       4  ani aus chi                       Ravnos:5
+1x Gwen Brand            3  aus chi                           Ravnos:5
 
 Library (90 cards)
 Master (16; 4 trifle)

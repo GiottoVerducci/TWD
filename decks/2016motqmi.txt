@@ -12,13 +12,13 @@ Deck Name: Roseto
 
 Description: Titled Toreador Wall Deck with the usual ash heap recycle.
 
-Crypt (12 cards, min=30 max=40 avg=8.67)
-----------------------------------------
-4x Anneke          10  AUS CEL PRE dom          justicar  Toreador:1
-3x Anson           8   CEL PRE aus dom          prince    Toreador:1
-2x Marcellus       8   AUS CEL pro              prince    Toreador:2
-2x Tatiana Romanov 7   AUS cel pre              prince    Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot  prince    Toreador:2
+Crypt (12 cards, min=30, max=40, avg=8.67)
+------------------------------------------
+4x Anneke           10  AUS CEL PRE dom          justicar  Toreador:1
+3x Anson             8  CEL PRE aus dom          prince    Toreador:1
+2x Marcellus         8  AUS CEL pro              prince    Toreador:2
+2x Tatiana Romanov   7  AUS cel pre              prince    Toreador:1
+1x François Villon  10  AUS CEL PRE chi obf pot  prince    Toreador:2
 
 Library (80 cards)
 Master (25; 6 trifle)

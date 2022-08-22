@@ -52,13 +52,13 @@ Probably should include a few Deflections in the deck, but the idea was to
 really try and abuse Faerie Wards. I may try to drop 2-3 in the future and
 replace them with Deflection.
 
-Crypt (12 cards, min=30 max=38 avg=8.67)
-----------------------------------------
-5x Marconius        9   DOM MYT OBT pot         archbishop  Kiasyd:2 -- Paying 1 less for Faerie Wards is what makes the deck viable in the first place.
-2x Marcus Vitel     10  DOM FOR OBF OBT PRE     prince      Ventrue:3 -- Conditional +bleed for everyone else in the crypt, but I rarely have more than 2 vampires out. His inclusion is a bit questionable to me at this point.
-2x Quentin          9   AUS DOM FOR cel obt     bishop      Ventrue antitribu:2 -- I've considered adding more of Quentin since voting is one of the weaknesses of the deck (Faerie Wards only usable on [D] actions). His ability to cancel votes has been critical several games.
-2x Gratiano         8   DOM OBT obf pot         priscus     Lasombra:2 -- He's just good for this deck in every way.
-1x Béatrice L'Angou 5   MYT aus dom nec                     Kiasyd:2 -- probably should change her to someone more useful.
+Crypt (12 cards, min=30, max=38, avg=8.67)
+------------------------------------------
+5x Marconius          9  DOM MYT OBT pot      archbishop  Kiasyd:2             -- Paying 1 less for Faerie Wards is what makes the deck viable in the first place.
+2x Marcus Vitel      10  DOM FOR OBF OBT PRE  prince      Ventrue:3            -- Conditional +bleed for everyone else in the crypt, but I rarely have more than 2 vampires out. His inclusion is a bit questionable to me at this point.
+2x Quentin            9  AUS DOM FOR cel obt  bishop      Ventrue antitribu:2  -- I've considered adding more of Quentin since voting is one of the weaknesses of the deck (Faerie Wards only usable on [D] actions). His ability to cancel votes has been critical several games.
+2x Gratiano           8  DOM OBT obf pot      priscus     Lasombra:2           -- He's just good for this deck in every way.
+1x Béatrice L'Angou   5  MYT aus dom nec                  Kiasyd:2             -- probably should change her to someone more useful.
 
 Library (80 cards)
 Master (24; 7 trifle)

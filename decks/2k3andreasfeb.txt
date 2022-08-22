@@ -9,16 +9,16 @@ Deck Name: Tremere Second Tradition Deck
 
 Description: A little bit of toolboxing
 
-Crypt (12 cards, min=17 max=39 avg=7.25)
-----------------------------------------
-3x Lucas Halton                 10  AUS CEL DOM THA qui         prince    Tremere:3
-3x Anastasz di Zagreb           8   AUS THA ani cel dom         justicar  Tremere:3
-1x Oliver Thrace                9   AUS DOM THA nec obf pot               Tremere:3
-1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                       Tremere:2
-1x Eugenio Estevez              6   AUS THA dom for                       Tremere:3
-1x Aisling Sturbridge           5   AUS THA dom                           Tremere:2
-1x Blythe Candeleria            3   THA aus                               Tremere:2
-1x Ehrich Weiss                 3   dom tha                               Tremere:3
+Crypt (12 cards, min=17, max=39, avg=7.25)
+------------------------------------------
+3x Lucas Halton                 10  AUS CEL DOM THA qui      prince    Tremere:3
+3x Anastasz di Zagreb            8  AUS THA ani cel dom      justicar  Tremere:3
+1x Oliver Thrace                 9  AUS DOM THA nec obf pot            Tremere:3
+1x Muaziz, Archon of Ulugh Beg   7  THA aus dom for                    Tremere:2
+1x Eugenio Estevez               6  AUS THA dom for                    Tremere:3
+1x Aisling Sturbridge            5  AUS THA dom                        Tremere:2
+1x Blythe Candeleria             3  THA aus                            Tremere:2
+1x Ehrich Weiss                  3  dom tha                            Tremere:3
 
 Library (90 cards)
 Master (17)

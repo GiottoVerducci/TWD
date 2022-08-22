@@ -12,12 +12,12 @@ In the end the Ahrimanes played by Will Kristoff won it all.
 Will says: Try not to beat up your Predator too badly.
 Let your prey do some damage to his prey before you oust him.
 
-Crypt (12 cards, min=23 max=32 avg=7)
--------------------------------------
-5x Howler           8   ANI PRE SPI obf  Ahrimane:2
-4x Siamese, The     7   PRE SPI ani pro  Ahrimane:2
-2x Cynthia Ingold   6   SPI ani for pre  Ahrimane:2
-1x Juanita Santiago 4   ani pre spi      Ahrimane:2
+Crypt (12 cards, min=23, max=32, avg=7)
+---------------------------------------
+5x Howler            8  ANI PRE SPI obf  Ahrimane:2
+4x Siamese, The      7  PRE SPI ani pro  Ahrimane:2
+2x Cynthia Ingold    6  SPI ani for pre  Ahrimane:2
+1x Juanita Santiago  4  ani pre spi      Ahrimane:2
 
 Library (90 cards)
 Master (12)

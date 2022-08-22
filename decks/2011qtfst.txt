@@ -5,18 +5,18 @@ December 11th 2011
 19 players
 Pau Villar
 
-Crypt (12 cards, min=10 max=32 avg=5.25)
-----------------------------------------
-3x Sébastien Goulet       8   DOM OBF cel pre pro       Gangrel antitribu:3
-1x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro       Gangrel antitribu:3
-1x Phillipe Rigaud        7   DOM OBF PRO ani aus obt   Gangrel antitribu:4
-1x Black Lotus            5   DOM aus obf ser           Follower of Set:4
-1x Catherine du Bois      5   DOM for obf pre           Ventrue:3
-1x Robin Withers          4   dom obf pre               Ventrue:4
-1x Diana Vick             3   dom pre                   Ventrue:3
-1x Keith Moody            3   DOM                       Tremere antitribu:4
-1x Denette Stensen        2   obf                       Gangrel antitribu:4
-1x Jackson Asher          2   dom                       Ventrue:4
+Crypt (12 cards, min=10, max=32, avg=5.25)
+------------------------------------------
+3x Sébastien Goulet        8  DOM OBF cel pre pro      Gangrel antitribu:3
+1x Sébastien Goulet (ADV)  8  DOM OBF cel pre pro      Gangrel antitribu:3
+1x Phillipe Rigaud         7  DOM OBF PRO ani aus obt  Gangrel antitribu:4
+1x Black Lotus             5  DOM aus obf ser          Follower of Set:4
+1x Catherine du Bois       5  DOM for obf pre          Ventrue:3
+1x Robin Withers           4  dom obf pre              Ventrue:4
+1x Diana Vick              3  dom pre                  Ventrue:3
+1x Keith Moody             3  DOM                      Tremere antitribu:4
+1x Denette Stensen         2  obf                      Gangrel antitribu:4
+1x Jackson Asher           2  dom                      Ventrue:4
 
 Library (70 cards)
 Master (10; 3 trifle)

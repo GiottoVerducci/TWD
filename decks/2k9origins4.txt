@@ -31,16 +31,16 @@ Powerbase: Luanda is quite good. It's maybe the only thing here that
 makes this deck something other than a poor Toreador gun deck without
 the bleed potential.
 
-Crypt (12 cards, min=14 max=23 avg=4.67)
-----------------------------------------
-4x Titi Camara           5   AUS CEL pot        Osebo:5
-2x Idrissa               4   CEL aus            Osebo:4
-1x Abiku                 6   AUS POT cel obt    Osebo:4
-1x Dominique Santo Paulo 6   AUS CEL pot pre    Toreador antitribu:4
-1x Homa                  6   AUS CEL POT        Osebo:4
-1x Ismitta               4   aus cel pot        Osebo:4
-1x Kamaria               3   aus pot            Osebo:4
-1x Monique Kim           3   aus cel            Toreador antitribu:4
+Crypt (12 cards, min=14, max=23, avg=4.67)
+------------------------------------------
+4x Titi Camara            5  AUS CEL pot      Osebo:5
+2x Idrissa                4  CEL aus          Osebo:4
+1x Abiku                  6  AUS POT cel obt  Osebo:4
+1x Dominique Santo Paulo  6  AUS CEL pot pre  Toreador antitribu:4
+1x Homa                   6  AUS CEL POT      Osebo:4
+1x Ismitta                4  aus cel pot      Osebo:4
+1x Kamaria                3  aus pot          Osebo:4
+1x Monique Kim            3  aus cel          Toreador antitribu:4
 
 Library (83 cards)
 Master (16)

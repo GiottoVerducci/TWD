@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/8327
 
 Deck Name: Fazedor de viúvas
 
-Crypt (12 cards, min=27 max=44 avg=9.08)
-----------------------------------------
-4x Enkidu, The Noah     11  ANI CEL OBF POT PRO for                Gangrel antitribu:4
-3x Mark Decker          8   CEL PRO ani for obf pot      prince    Gangrel:3
-1x Karsh                10  ANI CEL FOR POT PRO                    Gangrel:3
-1x Karsh (ADV)          10  ANI CEL FOR POT PRO                    Gangrel:3
-1x Xaviar (ADV)         10  ABO ANI FOR PRO aus cel pot  justicar  Gangrel:3
-1x Spider               6   CEL PRO ani for                        Gangrel antitribu:4
-1x Bernard, The Scourge 5   ani for pre pro                        Gangrel:4
+Crypt (12 cards, min=27, max=44, avg=9.08)
+------------------------------------------
+4x Enkidu, The Noah      11  ANI CEL OBF POT PRO for                Gangrel antitribu:4
+3x Mark Decker            8  CEL PRO ani for obf pot      prince    Gangrel:3
+1x Karsh                 10  ANI CEL FOR POT PRO                    Gangrel:3
+1x Karsh (ADV)           10  ANI CEL FOR POT PRO                    Gangrel:3
+1x Xaviar (ADV)          10  ABO ANI FOR PRO aus cel pot  justicar  Gangrel:3
+1x Spider                 6  CEL PRO ani for                        Gangrel antitribu:4
+1x Bernard, The Scourge   5  ani for pre pro                        Gangrel:4
 
 Library (90 cards)
 Master (16; 2 trifle)

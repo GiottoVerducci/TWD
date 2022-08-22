@@ -10,17 +10,17 @@ Valhallas. This is a little different than what I played in Friday's
 tourney. I added some non-nos that can do the same job because I saw
 too many cards that messed with all one clan decks.
 
-Crypt (13 cards, min=9 max=40 avg=6)
-------------------------------------
-5x Lucretia, Cess Queen 10  ANI OBF aus cel for pot     primogen  Nosferatu:1
-1x Nikolaus Vermeulen   7   POT ani for obf             prince    Nosferatu:2
-1x Agatha               4   POT obf                               Nosferatu antitribu:2
-1x Roland Bishop        4   aus dom obf                           Malkavian:1
-1x Sammy                4   ani obf pot                           Nosferatu:1
-1x Duck                 3   obf pot                               Nosferatu:1
-1x Dimple               2   obf                                   Nosferatu:1
-1x KoKo                 2   pot                                   Nosferatu:1
-1x Ohanna               2   dom                                   Malkavian:2
+Crypt (13 cards, min=9, max=40, avg=6)
+--------------------------------------
+5x Lucretia, Cess Queen  10  ANI OBF aus cel for pot  primogen  Nosferatu:1
+1x Nikolaus Vermeulen     7  POT ani for obf          prince    Nosferatu:2
+1x Agatha                 4  POT obf                            Nosferatu antitribu:2
+1x Roland Bishop          4  aus dom obf                        Malkavian:1
+1x Sammy                  4  ani obf pot                        Nosferatu:1
+1x Duck                   3  obf pot                            Nosferatu:1
+1x Dimple                 2  obf                                Nosferatu:1
+1x KoKo                   2  pot                                Nosferatu:1
+1x Ohanna                 2  dom                                Malkavian:2
 
 Library (60 cards)
 Master (19)

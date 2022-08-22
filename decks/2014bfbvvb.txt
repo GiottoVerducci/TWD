@@ -11,19 +11,19 @@ Deck Name: When I was young, it seemed that life was so wonderful, a miracle, oh
 
 Description: A Classic Spell of Life Deck
 
-Crypt (13 cards, min=15 max=38 avg=6.92)
-----------------------------------------
-3x Halim Bey       6   DOM SER obf tha                    Follower of Set:4
-1x Nakhthorheb     10  OBF PRE SER                        Follower of Set:4
-1x Seterpenre      10  AUS NEC OBF PRE SER                Follower of Set:5
-1x Neferu          9   OBF PRE SER THA dom nec  2 votes   Follower of Set:4
-1x Pentweret       9   OBF PRE SER aus for obe            Follower of Set:5
-1x Porphyrion      9   CHI OBF PRE SER for                Follower of Set:5
-1x Shemti          9   OBF POT PRE SER vic      1 vote    Follower of Set:5
-1x Amenophobis     7   OBF SER dom pre          primogen  Follower of Set:4
-1x Sisocharis      4   cel obf pre                        Follower of Set:5
-1x Ahmose Chambers 3   obf ser                            Follower of Set:5
-1x Belle Equitone  2   ser                                Follower of Set:4
+Crypt (13 cards, min=15, max=38, avg=6.92)
+------------------------------------------
+3x Halim Bey         6  DOM SER obf tha                    Follower of Set:4
+1x Nakhthorheb      10  OBF PRE SER                        Follower of Set:4
+1x Seterpenre       10  AUS NEC OBF PRE SER                Follower of Set:5
+1x Neferu            9  OBF PRE SER THA dom nec  2 votes   Follower of Set:4
+1x Pentweret         9  OBF PRE SER aus for obe            Follower of Set:5
+1x Porphyrion        9  CHI OBF PRE SER for                Follower of Set:5
+1x Shemti            9  OBF POT PRE SER vic      1 vote    Follower of Set:5
+1x Amenophobis       7  OBF SER dom pre          primogen  Follower of Set:4
+1x Sisocharis        4  cel obf pre                        Follower of Set:5
+1x Ahmose Chambers   3  obf ser                            Follower of Set:5
+1x Belle Equitone    2  ser                                Follower of Set:4
 
 Library (61 cards)
 Master (13)

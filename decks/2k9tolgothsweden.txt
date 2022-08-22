@@ -11,12 +11,12 @@ Deck Name: Nörth Mäld
 Description: Special thanks to Erik Torstensson for his previous
 inspiring versions of this deck.
 
-Crypt (12 cards, min=16 max=40 avg=7.08)
-----------------------------------------
-5x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince  Malkavian:3
-3x Victoria             5   AUS cel obf                  Malkavian:2
-2x Greger Anderssen     7   AUS OBF dom pro      prince  Malkavian:2
-2x Zöe                  3   AUS cel obf                  Malkavian:2
+Crypt (12 cards, min=16, max=40, avg=7.08)
+------------------------------------------
+5x Rachel Brandywine  10  AUS DEM OBF PRO ani  prince  Malkavian:3
+3x Victoria            5  AUS cel obf                  Malkavian:2
+2x Greger Anderssen    7  AUS OBF dom pro      prince  Malkavian:2
+2x Zöe                 3  AUS cel obf                  Malkavian:2
 
 Library (76 cards)
 Master (14; 2 trifle)

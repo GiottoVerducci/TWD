@@ -9,17 +9,17 @@ Peter Oh
 
 Deck Name: Death Star Pete
 
-Crypt (12 cards, min=4 max=25 avg=3.5)
---------------------------------------
-4x Anarch Convert       1   -none-               Caitiff:ANY
-1x Amaravati            8   DOM OBF QUI ani chi  Assamite:4
-1x Hafsa, The Watcher   6   OBF QUI aus cel      Assamite:5
-1x Vardar Vardarian     6   OBF QUI cel pre      Assamite:4
-1x Janni                5   cel for obf qui      Assamite:4
-1x Layla bint-Nadr      5   CEL OBF qui          Assamite:4
-1x Michael diCarlo      5   CEL obf qui          Assamite:4
-1x Alu                  2   obf                  Assamite:5
-1x Basir                1   qui                  Assamite:4
+Crypt (12 cards, min=4, max=25, avg=3.5)
+----------------------------------------
+4x Anarch Convert      1  -none-               Caitiff:ANY
+1x Amaravati           8  DOM OBF QUI ani chi  Assamite:4
+1x Hafsa, The Watcher  6  OBF QUI aus cel      Assamite:5
+1x Vardar Vardarian    6  OBF QUI cel pre      Assamite:4
+1x Janni               5  cel for obf qui      Assamite:4
+1x Layla bint-Nadr     5  CEL OBF qui          Assamite:4
+1x Michael diCarlo     5  CEL obf qui          Assamite:4
+1x Alu                 2  obf                  Assamite:5
+1x Basir               1  qui                  Assamite:4
 
 Library (75 cards)
 Master (14)

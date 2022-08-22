@@ -9,14 +9,14 @@ Matti Palomäki
 
 Deck Name: Syyslilja
 
-Crypt (13 cards, min=4 max=32 avg=3.54)
----------------------------------------
-5x Anarch Convert 1   -none-               Caitiff:ANY
-4x White Lily     8   DEM OBF cel dom for  Malkavian antitribu:4
-1x Keith Moody    3   DOM                  Tremere antitribu:4
-1x Lana Butcher   3   dom for              Ventrue:3
-1x Jackson Asher  2   dom                  Ventrue:4
-1x Sandra White   1   -none-               Caitiff:3
+Crypt (13 cards, min=4, max=32, avg=3.54)
+-----------------------------------------
+5x Anarch Convert  1  -none-               Caitiff:ANY
+4x White Lily      8  DEM OBF cel dom for  Malkavian antitribu:4
+1x Keith Moody     3  DOM                  Tremere antitribu:4
+1x Lana Butcher    3  dom for              Ventrue:3
+1x Jackson Asher   2  dom                  Ventrue:4
+1x Sandra White    1  -none-               Caitiff:3
 
 Library (80 cards)
 Master (16; 7 trifle)

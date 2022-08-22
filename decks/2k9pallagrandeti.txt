@@ -8,13 +8,13 @@ Deck Name: Lutz e la pazza politica
 
 Description: big politics
 
-Crypt (12 cards, min=28 max=44 avg=9)
--------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
-3x Stavros               7   AUS OBF PRE dem      priscus       Malkavian antitribu:4
-2x Alicia Barrows        9   AUS DEM OBF POT PRE  archbishop    Malkavian antitribu:4
-2x Ellison Humboldt      9   ANI OBF POT PRE pro  primogen      Nosferatu:3
-1x Quentin King III      7   AUS DEM obf pre      prince        Malkavian:3
+Crypt (12 cards, min=28, max=44, avg=9)
+---------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Stavros                 7  AUS OBF PRE dem      priscus       Malkavian antitribu:4
+2x Alicia Barrows          9  AUS DEM OBF POT PRE  archbishop    Malkavian antitribu:4
+2x Ellison Humboldt        9  ANI OBF POT PRE pro  primogen      Nosferatu:3
+1x Quentin King III        7  AUS DEM obf pre      prince        Malkavian:3
 
 Library (90 cards)
 Master (19)

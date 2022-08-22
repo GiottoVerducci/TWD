@@ -15,20 +15,20 @@ for the win. Came about from a discussion whether just going full head
 on with trusts and Life in the City's would be even more effective.
 They were.
 
-Crypt (12 cards, min=13 max=20 avg=4.08)
-----------------------------------------
-1x Hezekiah Rutledge    5   PRE ani cel pot               Brujah:4
-1x Renenet              5   OBF PRE ser                   Follower of Set:4
-1x Shasa Abu Badr       5   PRE cel for                   Ishtarri:4
-1x Victor Pelletier     5   PRE cel dom for               Ventrue:4
-1x Antoinette Dubois    4   PRE for mel                   Daughter of Cacophony:4
-1x Bethany Ray          4   PRE aus                       Toreador:5
-1x Loonar               4   PRE cel                       Toreador antitribu:4
-1x Lumumba              4   PRE ani                       Guruhi:4
-1x Marla Kenyon         4   PRE ser                       Follower of Set:4
-1x Reginald Moore       4   PRE                 primogen  Brujah:4
-1x Reverend Adams       3   PRE aus                       Caitiff:4
-1x Jayne Jonestown      2   PRE                           Brujah antitribu:4
+Crypt (12 cards, min=13, max=20, avg=4.08)
+------------------------------------------
+1x Hezekiah Rutledge  5  PRE ani cel pot            Brujah:4
+1x Renenet            5  OBF PRE ser                Follower of Set:4
+1x Shasa Abu Badr     5  PRE cel for                Ishtarri:4
+1x Victor Pelletier   5  PRE cel dom for            Ventrue:4
+1x Antoinette Dubois  4  PRE for mel                Daughter of Cacophony:4
+1x Bethany Ray        4  PRE aus                    Toreador:5
+1x Loonar             4  PRE cel                    Toreador antitribu:4
+1x Lumumba            4  PRE ani                    Guruhi:4
+1x Marla Kenyon       4  PRE ser                    Follower of Set:4
+1x Reginald Moore     4  PRE              primogen  Brujah:4
+1x Reverend Adams     3  PRE aus                    Caitiff:4
+1x Jayne Jonestown    2  PRE                        Brujah antitribu:4
 
 Library (86 cards)
 Master (21; 12 trifle)

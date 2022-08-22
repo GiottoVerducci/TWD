@@ -12,9 +12,9 @@ Deck Name: cybelotron
 
 Bad design - Dark Influence will cancel your I Am Legion, almost cost me the finals
 
-Crypt (12 cards, min=40 max=40 avg=10)
---------------------------------------
-12x Cybele 10   ANI DAI OBF PRE SER THA  Baali:4
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+12x Cybele  10  ANI DAI OBF PRE SER THA  Baali:4
 
 Library (60 cards)
 Master (33; 3 trifle)

@@ -9,14 +9,14 @@ Rodd Closson
 
 Deck Name: Orlando Magic
 
-Crypt (12 cards, min=31 max=36 avg=8.42)
-----------------------------------------
-4x Orlando Oriundus         9   AUS DOM THA obf         bishop      Tremere antitribu:4
-2x Malgorzata               9   AUS DOM THA VIC pre     priscus     Tremere antitribu:4
-2x Paul Cordwood            8   AUS DOM THA obf pre     bishop      Tremere antitribu:4
-2x Polly Kay Fisher         8   AUS DOM THA for pot     archbishop  Ventrue antitribu:4
-1x Anastasz di Zagreb       8   AUS THA ani cel dom     justicar    Tremere:3
-1x Ladislas Toth, The Torch 7   AUS DOM THA for         archbishop  Tremere antitribu:3
+Crypt (12 cards, min=31, max=36, avg=8.42)
+------------------------------------------
+4x Orlando Oriundus          9  AUS DOM THA obf      bishop      Tremere antitribu:4
+2x Malgorzata                9  AUS DOM THA VIC pre  priscus     Tremere antitribu:4
+2x Paul Cordwood             8  AUS DOM THA obf pre  bishop      Tremere antitribu:4
+2x Polly Kay Fisher          8  AUS DOM THA for pot  archbishop  Ventrue antitribu:4
+1x Anastasz di Zagreb        8  AUS THA ani cel dom  justicar    Tremere:3
+1x Ladislas Toth, The Torch  7  AUS DOM THA for      archbishop  Tremere antitribu:3
 
 Library (76 cards)
 Master (22; 8 trifle)

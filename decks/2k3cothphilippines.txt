@@ -7,12 +7,12 @@ http://calendar.yahoo.com/YYY,49389/srt,0/vtesrep?v=4&amp;t=1019898000&amp;i=914
 
 Deck Name: Pro + Aus + For = -Kiss of Ra + Torpor
 
-Crypt (12 cards, min=26 max=40 avg=7.83)
-----------------------------------------
-4x Lazverinus, Thrall of Lambach 10  AUS DOM FOR POT pro  archbishop    Ventrue antitribu:2
-4x Omaya                         7   ANI AUS FOR pro                    Gangrel antitribu:2
-2x Gunther, Beast Lord           7   ANI aus for pro                    Gangrel:1
-2x Dylan                         6   aus cel dom for pro                Ventrue antitribu:2
+Crypt (12 cards, min=26, max=40, avg=7.83)
+------------------------------------------
+4x Lazverinus, Thrall of Lambach  10  AUS DOM FOR POT pro  archbishop  Ventrue antitribu:2
+4x Omaya                           7  ANI AUS FOR pro                  Gangrel antitribu:2
+2x Gunther, Beast Lord             7  ANI aus for pro                  Gangrel:1
+2x Dylan                           6  aus cel dom for pro              Ventrue antitribu:2
 
 Library (90 cards)
 Master (22)

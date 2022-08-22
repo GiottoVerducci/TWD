@@ -7,16 +7,16 @@ Isak Esbjörnsson Bjärmark
 Deck Name: Vindarna viskar ditt namn
 Created by: Isak Esbjörnsson Bjärmark
 
-Crypt (12 cards, min=5 max=22 avg=3.33)
----------------------------------------
-3x Anarch Convert 1   -none-       Caitiff:ANY
-2x Victoria       5   AUS cel obf  Malkavian:2
-2x Zöe            3   AUS cel obf  Malkavian:2
-1x Dancin' Dana   6   AUS cel obf  Malkavian:1
-1x Ozmo           6   AUS dom obf  Malkavian:1
-1x Aleph          4   AUS dom      Malkavian:1
-1x Dollface       3   aus obf      Malkavian:1
-1x Brazil         2   aus          Malkavian:1
+Crypt (12 cards, min=5, max=22, avg=3.33)
+-----------------------------------------
+3x Anarch Convert  1  -none-       Caitiff:ANY
+2x Victoria        5  AUS cel obf  Malkavian:2
+2x Zöe             3  AUS cel obf  Malkavian:2
+1x Dancin' Dana    6  AUS cel obf  Malkavian:1
+1x Ozmo            6  AUS dom obf  Malkavian:1
+1x Aleph           4  AUS dom      Malkavian:1
+1x Dollface        3  aus obf      Malkavian:1
+1x Brazil          2  aus          Malkavian:1
 
 Library (77 cards)
 Master (13)

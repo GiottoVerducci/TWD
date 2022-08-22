@@ -9,14 +9,14 @@ Deck Name: "Bug eyed tramp lady" AKA "the Ex Wife"
 
 Description: Standard Rachel/Madnet bleed.
 
-Crypt (12 cards, min=13 max=40 avg=6.42)
-----------------------------------------
+Crypt (12 cards, min=13, max=40, avg=6.42)
+------------------------------------------
 4x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince  Malkavian:3
-2x Greger Anderssen     7   AUS OBF dom pro      prince  Malkavian:2
-2x Victoria             5   AUS cel obf                  Malkavian:2
-2x Zöe                  3   AUS cel obf                  Malkavian:2
-1x Daliyah              4   PRO obf                      Nosferatu:2
-1x Chandler Hungerford  3   PRO                          Gangrel:2
+2x Greger Anderssen      7  AUS OBF dom pro      prince  Malkavian:2
+2x Victoria              5  AUS cel obf                  Malkavian:2
+2x Zöe                   3  AUS cel obf                  Malkavian:2
+1x Daliyah               4  PRO obf                      Nosferatu:2
+1x Chandler Hungerford   3  PRO                          Gangrel:2
 
 Library (90 cards)
 Master (18)

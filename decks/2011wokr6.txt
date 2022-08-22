@@ -8,16 +8,16 @@ Leonardo Villela
 
 Deck Name: Snake
 
-Crypt (12 cards, min=14 max=27 avg=5.25)
-----------------------------------------
-3x Bupe Kuila              7   OBF POT SER pre  Follower of Set:4
-3x Clea Auguste d'Holford  6   OBF POT pre ser  Follower of Set:5
-1x Jeremy "Wix" Wyzchovsky 5   ani obf pot      Nosferatu:4
-1x Nails                   5   POT ani obf pro  Nosferatu antitribu:4
-1x Patrick                 4   POT pre          Brujah antitribu:4
-1x Volo                    4   POT pro san      Blood Brother:5
-1x Ahmose Chambers         3   obf ser          Follower of Set:5
-1x Arriette Sylla          3   POT              Osebo:4
+Crypt (12 cards, min=14, max=27, avg=5.25)
+------------------------------------------
+3x Bupe Kuila               7  OBF POT SER pre  Follower of Set:4
+3x Clea Auguste d'Holford   6  OBF POT pre ser  Follower of Set:5
+1x Jeremy "Wix" Wyzchovsky  5  ani obf pot      Nosferatu:4
+1x Nails                    5  POT ani obf pro  Nosferatu antitribu:4
+1x Patrick                  4  POT pre          Brujah antitribu:4
+1x Volo                     4  POT pro san      Blood Brother:5
+1x Ahmose Chambers          3  obf ser          Follower of Set:5
+1x Arriette Sylla           3  POT              Osebo:4
 
 Library (90 cards)
 Master (15; 4 trifle)

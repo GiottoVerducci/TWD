@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/7484
 
 Deck Name: Crazy magic
 
-Crypt (12 cards, min=34 max=40 avg=9.17)
-----------------------------------------
-4x Louhi            10  ANI AUS DEM OBF THA pro  cardinal  Malkavian antitribu:4
-4x William Biltmore 9   AUS DEM OBF THA dom                Malkavian:3
-2x Petaniqua        9   AUS DAI DEM OBF THA chi            Malkavian:4
-2x Lazarus James    8   AUS DEM PRE obf tha                Malkavian:4
+Crypt (12 cards, min=34, max=40, avg=9.17)
+------------------------------------------
+4x Louhi             10  ANI AUS DEM OBF THA pro  cardinal  Malkavian antitribu:4
+4x William Biltmore   9  AUS DEM OBF THA dom                Malkavian:3
+2x Petaniqua          9  AUS DAI DEM OBF THA chi            Malkavian:4
+2x Lazarus James      8  AUS DEM PRE obf tha                Malkavian:4
 
 Library (90 cards)
 Master (17; 4 trifle)

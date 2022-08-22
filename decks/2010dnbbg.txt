@@ -5,13 +5,13 @@ October 23rd 2010
 16 players
 Jörg Alten
 
-Crypt (12 cards, min=19 max=32 avg=6.5)
----------------------------------------
-4x Vidal Jarbeaux          8   PRE aus cel obf pot              Toreador:5
-3x Philippe de Marseilles  7   AUS CEL dem pre      primogen    Toreador:5
-3x Eurayle Gelasia Mylonas 6   AUS OBE for pre                  Salubri:4
-1x Tyler McGill            4   AUS pre                          Toreador:5
-1x Andre LeRoux            3   aus                              Toreador:5
+Crypt (12 cards, min=19, max=32, avg=6.5)
+-----------------------------------------
+4x Vidal Jarbeaux           8  PRE aus cel obf pot            Toreador:5
+3x Philippe de Marseilles   7  AUS CEL dem pre      primogen  Toreador:5
+3x Eurayle Gelasia Mylonas  6  AUS OBE for pre                Salubri:4
+1x Tyler McGill             4  AUS pre                        Toreador:5
+1x Andre LeRoux             3  aus                            Toreador:5
 
 Library (71 cards)
 Master (17; 7 trifle)

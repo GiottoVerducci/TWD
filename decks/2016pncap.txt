@@ -11,14 +11,14 @@ https://www.vekn.net/event-calendar/event/8518
 Deck Name: Tupdog
 Created by: Arnau Diez Sans (Kiderak)
 
-Crypt (29 cards, min=4 max=14 avg=1.48)
----------------------------------------
-23x Tupdog       1    POT VIS      Gargoyle:3
-2x  Keith Moody  3    DOM          Tremere antitribu:4
-1x  Janine       4    aus dom tha  Tremere antitribu:4
-1x  Mosfair      4    cel dom tha  Tremere antitribu:4
-1x  Ember Wright 3    aus dom      Tremere antitribu:3
-1x  Saiz         3    aus dom      Tremere antitribu:3
+Crypt (29 cards, min=4, max=14, avg=1.48)
+-----------------------------------------
+23x Tupdog        1  POT VIS      Gargoyle:3
+2x  Keith Moody   3  DOM          Tremere antitribu:4
+1x  Janine        4  aus dom tha  Tremere antitribu:4
+1x  Mosfair       4  cel dom tha  Tremere antitribu:4
+1x  Ember Wright  3  aus dom      Tremere antitribu:3
+1x  Saiz          3  aus dom      Tremere antitribu:3
 
 Library (89 cards)
 Master (11)

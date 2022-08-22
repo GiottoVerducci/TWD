@@ -16,12 +16,12 @@ start pumping legionnairies and grinding the table.
 This was the first tourneament william had won, and it was on his home, with
 even his name on it! Congratz!
 
-Crypt (12 cards, min=26 max=40 avg=7.83)
-----------------------------------------
+Crypt (12 cards, min=26, max=40, avg=7.83)
+------------------------------------------
 4x Erlik                                10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-3x Egothha                              7   AUS FOR NEC obf      Harbinger of Skulls:2
-3x Erebus                               7   AUS FOR NEC dem      Harbinger of Skulls:3
-2x Agaitas, The Scholar of Antiquities  6   AUS NEC for          Harbinger of Skulls:2
+3x Egothha                               7  AUS FOR NEC obf      Harbinger of Skulls:2
+3x Erebus                                7  AUS FOR NEC dem      Harbinger of Skulls:3
+2x Agaitas, The Scholar of Antiquities   6  AUS NEC for          Harbinger of Skulls:2
 
 Library (90 cards)
 Master (24; 10 trifle)

@@ -6,14 +6,14 @@ Stacy Brydges
 
 Feary Bugs
 
-Crypt (12 cards, min=24 max=35 avg=7.5)
----------------------------------------
-3x Marconius            9   DOM MYT OBT pot      archbishop     Kiasyd:2
-3x Bartholomew          8   AUS MYT NEC dom obt                 Kiasyd:2
-2x Julia Prima          7   DOM OBT aus myt                     Kiasyd:2
-2x Kassiym Malikhair    6   MYT OBT dom for                     Kiasyd:2
-1x Ian Forestal         8   AUS DOM THA                         Tremere antitribu:2
-1x Béatrice L'Angou     5   MYT aus dom nec                     Kiasyd:2
+Crypt (12 cards, min=24, max=35, avg=7.5)
+-----------------------------------------
+3x Marconius          9  DOM MYT OBT pot      archbishop  Kiasyd:2
+3x Bartholomew        8  AUS MYT NEC dom obt              Kiasyd:2
+2x Julia Prima        7  DOM OBT aus myt                  Kiasyd:2
+2x Kassiym Malikhair  6  MYT OBT dom for                  Kiasyd:2
+1x Ian Forestal       8  AUS DOM THA                      Tremere antitribu:2
+1x Béatrice L'Angou   5  MYT aus dom nec                  Kiasyd:2
 
 Library (90 cards)
 Master (14)

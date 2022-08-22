@@ -7,18 +7,18 @@ Hugh Angseesing
 
 Gypsy Chicks
 
-Crypt (12 cards, min=12 max=28 avg=5.25)
-----------------------------------------
-2x Natalia                      7   ANI chi dom for     Ravnos:2
-2x Sarisha Veliku               6   ANI FOR chi dom     Ravnos:2
-1x Gabrin                       8   ANI CHI dom for     Ravnos:2
-1x Joaquina Amaya               6   ANI CHI FOR         Ravnos:2
-1x Vaclav Petalengro            6   ANI CHI for pot     Ravnos:2
-1x Lord Ashton                  5   ANI for pro         Gangrel:3
-1x Bobby Lemon                  4   ANI pro             Gangrel:3
-1x Sennuwy, The Promoter        4   ani chi for         Ravnos:2
-1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
-1x Zip                          2   ani                 Ravnos:3
+Crypt (12 cards, min=12, max=28, avg=5.25)
+------------------------------------------
+2x Natalia                     7  ANI chi dom for  Ravnos:2
+2x Sarisha Veliku              6  ANI FOR chi dom  Ravnos:2
+1x Gabrin                      8  ANI CHI dom for  Ravnos:2
+1x Joaquina Amaya              6  ANI CHI FOR      Ravnos:2
+1x Vaclav Petalengro           6  ANI CHI for pot  Ravnos:2
+1x Lord Ashton                 5  ANI for pro      Gangrel:3
+1x Bobby Lemon                 4  ANI pro          Gangrel:3
+1x Sennuwy, The Promoter       4  ani chi for      Ravnos:2
+1x Spleen, Georgio Gutterpunk  2  ani chi          Ravnos:2
+1x Zip                         2  ani              Ravnos:3
 
 Library (90 cards)
 Master (16; 2 trifle)

@@ -9,15 +9,15 @@ Mark Loughman
 
 Rose Before Hoes
 
-Crypt (12 cards, min=13 max=22 avg=4.5)
----------------------------------------
-3x Felicia Mostrom              5   AUS CEL pre         Toreador:1
-2x Kallista, Master Sculptor    6   AUS CEL pre pro     Toreador:1
-2x Dorian Strack                4   AUS cel             Toreador:1
-2x Zöe                          3   AUS cel obf         Malkavian:2
-1x Mercy, Knight Inquisitor     5   AUS cel dom pre     Toreador antitribu:2
-1x Victoria                     5   AUS cel obf         Malkavian:2
-1x Isabel de Leon               3   AUS                 Toreador:2
+Crypt (12 cards, min=13, max=22, avg=4.5)
+-----------------------------------------
+3x Felicia Mostrom            5  AUS CEL pre      Toreador:1
+2x Kallista, Master Sculptor  6  AUS CEL pre pro  Toreador:1
+2x Dorian Strack              4  AUS cel          Toreador:1
+2x Zöe                        3  AUS cel obf      Malkavian:2
+1x Mercy, Knight Inquisitor   5  AUS cel dom pre  Toreador antitribu:2
+1x Victoria                   5  AUS cel obf      Malkavian:2
+1x Isabel de Leon             3  AUS              Toreador:2
 
 Library (88 cards)
 Master (13)

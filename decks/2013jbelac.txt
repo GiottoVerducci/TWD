@@ -13,14 +13,14 @@ Inspired by old school Gangrel bleed decks, tailored for the
 LA environment. Great way to bleed for 8 on a budget. 5VP in
 the final, including two I got in one turn.
 
-Crypt (12 cards, min=14 max=28 avg=5.33)
-----------------------------------------
-4x Iliana                       7   DOM FOR PRO tha             Gangrel:2
-2x Caitlin                      6   ANI PRO aus dom     bishop  Gangrel antitribu:2
-2x Daliyah                      4   PRO obf                     Nosferatu:2
-2x Chandler Hungerford          3   PRO                         Gangrel:2
-1x Camille Devereux, The Raven  5   FOR PRO ani                 Gangrel:1
-1x Mirembe Kabbada              5   PRO SER ani                 Gangrel:2
+Crypt (12 cards, min=14, max=28, avg=5.33)
+------------------------------------------
+4x Iliana                       7  DOM FOR PRO tha          Gangrel:2
+2x Caitlin                      6  ANI PRO aus dom  bishop  Gangrel antitribu:2
+2x Daliyah                      4  PRO obf                  Nosferatu:2
+2x Chandler Hungerford          3  PRO                      Gangrel:2
+1x Camille Devereux, The Raven  5  FOR PRO ani              Gangrel:1
+1x Mirembe Kabbada              5  PRO SER ani              Gangrel:2
 
 Library (90 cards)
 Master (16; 2 trifle)

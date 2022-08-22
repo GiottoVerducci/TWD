@@ -9,11 +9,11 @@ Marcin Ruminski
 
 Deck Name: "Enkidu and his little friends"
 
-Crypt (12 cards, min=14 max=44 avg=7)
--------------------------------------
-5x Enkidu, The Noah     11  ANI CEL OBF POT PRO for     Gangrel antitribu:4
-4x Antonio d'Erlette    5   THA dom for pot             Tremere antitribu:4
-3x Keith Moody          3   DOM                         Tremere antitribu:4
+Crypt (12 cards, min=14, max=44, avg=7)
+---------------------------------------
+5x Enkidu, The Noah   11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+4x Antonio d'Erlette   5  THA dom for pot          Tremere antitribu:4
+3x Keith Moody         3  DOM                      Tremere antitribu:4
 
 Library (77 cards)
 Master (13; 4 trifle)

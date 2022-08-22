@@ -12,17 +12,17 @@ Torstensson with a few alterations. Sadly, no turn one Ossian.
 Thanks to Randal Rudstam for a few last minute changes and Adam
 Esbjornson for helping me to choose the deck.
 
-Crypt (12 cards, min=8 max=19 avg=3.17)
----------------------------------------
-3x Piotr Andreikov      2   aus                 Tzimisce:3
-2x Horatio              2   vic                 Tzimisce:2
-1x Corine Marcón        6   AUS VIC ani         Tzimisce:2
-1x Devin Bisley         5   ANI AUS vic         Tzimisce:2
-1x Elizabeth Westcott   5   AUS ani cel vic     Tzimisce:3
-1x Isabel de Leon       3   AUS                 Toreador:2
-1x Martin Franckel      3   AUS tha             Tremere:3
-1x Wendy Wade           3   ani aus             Tzimisce:2
-1x Zöe                  3   AUS cel obf         Malkavian:2
+Crypt (12 cards, min=8, max=19, avg=3.17)
+-----------------------------------------
+3x Piotr Andreikov     2  aus              Tzimisce:3
+2x Horatio             2  vic              Tzimisce:2
+1x Corine Marcón       6  AUS VIC ani      Tzimisce:2
+1x Devin Bisley        5  ANI AUS vic      Tzimisce:2
+1x Elizabeth Westcott  5  AUS ani cel vic  Tzimisce:3
+1x Isabel de Leon      3  AUS              Toreador:2
+1x Martin Franckel     3  AUS tha          Tremere:3
+1x Wendy Wade          3  ani aus          Tzimisce:2
+1x Zöe                 3  AUS cel obf      Malkavian:2
 
 Library (60 cards)
 Master (10)

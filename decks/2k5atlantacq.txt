@@ -7,15 +7,15 @@ David Tatu
 
 All Things Sneaky
 
-Crypt (12 cards, min=17 max=27 avg=5.58)
-----------------------------------------
-2x Mukhtar Bey                  7   FOR PRE QUI obf pot  prince    Caitiff:4
-2x Ankh-sen-Sutekh              6   PRE SER obf                    Follower of Set:4
-2x Ezekiel, Lord of Montreal    6   PRE SER obf pot                Follower of Set:3
-2x Catherine du Bois            5   DOM for obf pre                Ventrue:3
-2x Robin Withers                4   dom obf pre                    Ventrue:4
-1x Amenophobis                  7   OBF SER dom pre      primogen  Follower of Set:4
-1x Tock                         4   obf pot pre                    Nosferatu antitribu:3
+Crypt (12 cards, min=17, max=27, avg=5.58)
+------------------------------------------
+2x Mukhtar Bey                7  FOR PRE QUI obf pot  prince    Caitiff:4
+2x Ankh-sen-Sutekh            6  PRE SER obf                    Follower of Set:4
+2x Ezekiel, Lord of Montreal  6  PRE SER obf pot                Follower of Set:3
+2x Catherine du Bois          5  DOM for obf pre                Ventrue:3
+2x Robin Withers              4  dom obf pre                    Ventrue:4
+1x Amenophobis                7  OBF SER dom pre      primogen  Follower of Set:4
+1x Tock                       4  obf pot pre                    Nosferatu antitribu:3
 
 Library (90 cards)
 Master (15)

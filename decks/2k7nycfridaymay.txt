@@ -66,19 +66,19 @@ swear by them, but I don't like bouncing bleeds to the wrong place and
 actions I have to stop are usually better handled by blocking or Direct
 Intervention.
 
-Crypt (12 cards, min=12 max=21 avg=4.08)
-----------------------------------------
-2x Travis "Traveler72" Miller    5   def mar      Martyr:4
-1x Earl "Shaka74" Deams          6   jud mar viz  Visionary:4
-1x Jennie "Cassie247" Orne       5   inn jud viz  Visionary:4
-1x Erick "Shophet125" Franco     4   inn jud      Judge:4
-1x Leaf "Potter116" Pankowski    4   inn red viz  Redeemer:4
-1x Maman Boumba                  4   inn mar      Martyr:4
-1x Paul "Sixofswords29" Moreton  4   def vis      Visionary:4
-1x Xian "DziDzat155" Quan        4   def inn      Defender:4
-1x Béatrice "Oracle171" Tremblay 3   inn ven      Innocent:4
-1x Inez "Nurse216" Villagrande   3   inn          Innocent:4
-1x Liz "Ticket312" Thornton      2   inn red      Innocent:4
+Crypt (12 cards, min=12, max=21, avg=4.08)
+------------------------------------------
+2x Travis "Traveler72" Miller     5  def mar      Martyr:4
+1x Earl "Shaka74" Deams           6  jud mar viz  Visionary:4
+1x Jennie "Cassie247" Orne        5  inn jud viz  Visionary:4
+1x Erick "Shophet125" Franco      4  inn jud      Judge:4
+1x Leaf "Potter116" Pankowski     4  inn red viz  Redeemer:4
+1x Maman Boumba                   4  inn mar      Martyr:4
+1x Paul "Sixofswords29" Moreton   4  def vis      Visionary:4
+1x Xian "DziDzat155" Quan         4  def inn      Defender:4
+1x Béatrice "Oracle171" Tremblay  3  inn ven      Innocent:4
+1x Inez "Nurse216" Villagrande    3  inn          Innocent:4
+1x Liz "Ticket312" Thornton       2  inn red      Innocent:4
 
 Library (75 cards)
 Master (24)

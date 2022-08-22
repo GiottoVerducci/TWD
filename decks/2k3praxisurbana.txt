@@ -29,19 +29,19 @@ Discipline: 41 cards]
 
 Master: 20 cards
 
-Crypt (13 cards, min=14 max=37 avg=6.46)
-----------------------------------------
-2x Ayelea, The Manipulator         10  AUS DOM OBT THA pre  cardinal    Tremere antitribu:2
-2x Alfred Benezri                  6   PRE THA aus dom      bishop      Pander:3
-1x Ethan Locke                     9   DOM THA aus cel pot  archbishop  Tremere antitribu:2
-1x Ian Forestal                    8   AUS DOM THA                      Tremere antitribu:2
-1x Kij Dansky                      8   AUS DOM THA obt      priscus     Tremere antitribu:2
-1x Bryan Van Duesen                7   DOM THA aus pre                  Tremere antitribu:2
-1x Reverend Blackwood              6   DOM THA obf          bishop      Tremere antitribu:2
-1x Hannigan                        5   AUS THA dom                      Tremere antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha                          Tremere antitribu:2
-1x Brooke                          3   dom tha                          Tremere antitribu:2
-1x Heinrick Schlempt               2   tha                              Tremere antitribu:2
+Crypt (13 cards, min=14, max=37, avg=6.46)
+------------------------------------------
+2x Ayelea, The Manipulator          10  AUS DOM OBT THA pre  cardinal    Tremere antitribu:2
+2x Alfred Benezri                    6  PRE THA aus dom      bishop      Pander:3
+1x Ethan Locke                       9  DOM THA aus cel pot  archbishop  Tremere antitribu:2
+1x Ian Forestal                      8  AUS DOM THA                      Tremere antitribu:2
+1x Kij Dansky                        8  AUS DOM THA obt      priscus     Tremere antitribu:2
+1x Bryan Van Duesen                  7  DOM THA aus pre                  Tremere antitribu:2
+1x Reverend Blackwood                6  DOM THA obf          bishop      Tremere antitribu:2
+1x Hannigan                          5  AUS THA dom                      Tremere antitribu:2
+1x Richard Tauber, Ayelea's Puppet   4  AUS tha                          Tremere antitribu:2
+1x Brooke                            3  dom tha                          Tremere antitribu:2
+1x Heinrick Schlempt                 2  tha                              Tremere antitribu:2
 
 Library (90 cards)
 Master (20)

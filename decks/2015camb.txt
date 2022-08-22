@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/8226
 
 Deck Name: Giovanni Locations
 
-Crypt (12 cards, min=21 max=36 avg=7.33)
-----------------------------------------
-5x Guillaume Giovanni           9   CEL DOM NEC POT obt           Giovanni:4
-2x Raphaela Giovanni            6   DOM NEC pot pre               Giovanni:4
-1x Diego Giovanni               8   CHI DOM NEC POT ani           Giovanni:5
-1x Don Michael Antonio Giovanni 7   DOM NEC POT          2 votes  Giovanni:4
-1x Gualtiero Ghiberti           7   DOM NEC cel pot tha           Giovanni:4
-1x Accorri Giovanni             6   DOM POT ani nec               Giovanni:5
-1x Keith Moody                  3   DOM                           Tremere antitribu:4
+Crypt (12 cards, min=21, max=36, avg=7.33)
+------------------------------------------
+5x Guillaume Giovanni            9  CEL DOM NEC POT obt           Giovanni:4
+2x Raphaela Giovanni             6  DOM NEC pot pre               Giovanni:4
+1x Diego Giovanni                8  CHI DOM NEC POT ani           Giovanni:5
+1x Don Michael Antonio Giovanni  7  DOM NEC POT          2 votes  Giovanni:4
+1x Gualtiero Ghiberti            7  DOM NEC cel pot tha           Giovanni:4
+1x Accorri Giovanni              6  DOM POT ani nec               Giovanni:5
+1x Keith Moody                   3  DOM                           Tremere antitribu:4
 
 Library (90 cards)
 Master (26; 2 trifle)

@@ -7,14 +7,14 @@ Richard Cortes
 
 Deck Name: Ventrue 3.0
 
-Crypt (12 cards, min=20 max=30 avg=6.33)
-----------------------------------------
-2x Emerson Bridges                  8   DOM FOR PRE pot  prince  Ventrue:1
-2x Sir Walter Nash                  7   DOM FOR PRE      prince  Ventrue:1
-2x Timothy Crowley                  7   FOR PRE ani dom  prince  Ventrue:1
-2x Heather Florent, The Opportunist 6   FOR PRE dom              Ventrue:1
-2x Jazz Wentworth                   5   PRE dom for              Ventrue:1
-2x Ranjan Rishi, Camarilla Scholar  5   DOM PRE for              Ventrue:2
+Crypt (12 cards, min=20, max=30, avg=6.33)
+------------------------------------------
+2x Emerson Bridges                   8  DOM FOR PRE pot  prince  Ventrue:1
+2x Sir Walter Nash                   7  DOM FOR PRE      prince  Ventrue:1
+2x Timothy Crowley                   7  FOR PRE ani dom  prince  Ventrue:1
+2x Heather Florent, The Opportunist  6  FOR PRE dom              Ventrue:1
+2x Jazz Wentworth                    5  PRE dom for              Ventrue:1
+2x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for              Ventrue:2
 
 Library (90 cards)
 Master (11)

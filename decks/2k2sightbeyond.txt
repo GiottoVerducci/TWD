@@ -15,13 +15,13 @@ enough, I guess.
 
 Josh
 
-Crypt (12 cards, min=24 max=24 avg=6)
--------------------------------------
-3x Ilse   6   POT SAN for pro           Blood Brother:2
-3x Karl   6   FOR POT pre san           Blood Brother:2
-3x Truman 6   FOR SAN dom pot           Blood Brother:2
-2x Mark   6   SAN for obf pot   bishop  Blood Brother:2
-1x Jack   6   cel for pot san           Blood Brother:2
+Crypt (12 cards, min=24, max=24, avg=6)
+---------------------------------------
+3x Ilse    6  POT SAN for pro          Blood Brother:2
+3x Karl    6  FOR POT pre san          Blood Brother:2
+3x Truman  6  FOR SAN dom pot          Blood Brother:2
+2x Mark    6  SAN for obf pot  bishop  Blood Brother:2
+1x Jack    6  cel for pot san          Blood Brother:2
 
 Library (85 cards)
 Master (14)

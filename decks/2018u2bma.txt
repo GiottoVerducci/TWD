@@ -14,13 +14,13 @@ Created by: Adam Hulse
 Description: Ben Peal's Tournament Winning Deck for the Boston Tournament on 10/13/18
 The idea is to defend and play cards so that more and more legionnaires can come into play. Enough stealth to also bring them into play normally, which adds to the total number of legionnaires one can play in the game. In my rush I forgot to add Vagabound mystic and FBI Special Affairs Division
 
-Crypt (12 cards, min=24 max=35 avg=7.58)
-----------------------------------------
-3x Angelique            9   AUS FOR NEC SER THA  Harbinger of Skulls:6
-3x Khurshid             8   AUS FOR NEC POT      Harbinger of Skulls:6
-3x Hecate               6   AUS FOR NEC          Harbinger of Skulls:5
-2x Mordechai Ben-Nun    8   ANI AUS FOR NEC      Harbinger of Skulls:5
-1x La Viuda Blanca      6   AUS NEC for obf      Harbinger of Skulls:6
+Crypt (12 cards, min=24, max=35, avg=7.58)
+------------------------------------------
+3x Angelique          9  AUS FOR NEC SER THA  Harbinger of Skulls:6
+3x Khurshid           8  AUS FOR NEC POT      Harbinger of Skulls:6
+3x Hecate             6  AUS FOR NEC          Harbinger of Skulls:5
+2x Mordechai Ben-Nun  8  ANI AUS FOR NEC      Harbinger of Skulls:5
+1x La Viuda Blanca    6  AUS NEC for obf      Harbinger of Skulls:6
 
 Library (90 cards)
 Master (10)

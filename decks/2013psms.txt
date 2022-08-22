@@ -7,14 +7,14 @@ Bernat Pérez
 
 Deck Name: Salubri antitribu wall
 
-Crypt (12 cards, min=17 max=32 avg=6.5)
----------------------------------------
-4x Uriel        8   AUS FOR VAL ani obe  bishop  Salubri antitribu:4
-3x Dela Eden    8   AUS FOR VAL cel dom          Salubri antitribu:3
-2x Aredhel      5   FOR VAL aus                  Salubri antitribu:4
-1x Langa        5   VAL for                      Salubri antitribu:4
-1x Nkechi       4   aus for val                  Salubri antitribu:4
-1x Rashiel      3   for val                      Salubri antitribu:4
+Crypt (12 cards, min=17, max=32, avg=6.5)
+-----------------------------------------
+4x Uriel      8  AUS FOR VAL ani obe  bishop  Salubri antitribu:4
+3x Dela Eden  8  AUS FOR VAL cel dom          Salubri antitribu:3
+2x Aredhel    5  FOR VAL aus                  Salubri antitribu:4
+1x Langa      5  VAL for                      Salubri antitribu:4
+1x Nkechi     4  aus for val                  Salubri antitribu:4
+1x Rashiel    3  for val                      Salubri antitribu:4
 
 Library (88 cards)
 Master (17; 3 trifle)

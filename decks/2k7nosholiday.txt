@@ -8,17 +8,17 @@ Deck Name: Bones Blood and Tongues
 
 Description: Tzimisce Wall
 
-Crypt (12 cards, min=17 max=40 avg=7.25)
-----------------------------------------
-2x Sha-Ennu                     11  ANI AUS CHI VIC obf tha     regent      Tzimisce:4
-2x John Paleologus              9   ANI AUS CEL VIC pot         archbishop  Tzimisce:3
-2x Duality                      6   AUS VIC ani                             Tzimisce:4
-1x Count Vladimir Rustovitch    9   ANI AUS VIC dom pot pro                 Tzimisce:4
-1x Lady Zara Slatikov           8   ANI AUS OBF VIC             bishop      Tzimisce:4
-1x Laika                        7   ANI AUS chi obf vic                     Tzimisce:4
-1x Guedado                      4   aus obf vic                             Tzimisce:4
-1x Jane Sims                    4   VIC ani aus pro                         Tzimisce:4
-1x Ilias cel Frumos             3   aus vic                                 Tzimisce:4
+Crypt (12 cards, min=17, max=40, avg=7.25)
+------------------------------------------
+2x Sha-Ennu                   11  ANI AUS CHI VIC obf tha  regent      Tzimisce:4
+2x John Paleologus             9  ANI AUS CEL VIC pot      archbishop  Tzimisce:3
+2x Duality                     6  AUS VIC ani                          Tzimisce:4
+1x Count Vladimir Rustovitch   9  ANI AUS VIC dom pot pro              Tzimisce:4
+1x Lady Zara Slatikov          8  ANI AUS OBF VIC          bishop      Tzimisce:4
+1x Laika                       7  ANI AUS chi obf vic                  Tzimisce:4
+1x Guedado                     4  aus obf vic                          Tzimisce:4
+1x Jane Sims                   4  VIC ani aus pro                      Tzimisce:4
+1x Ilias cel Frumos            3  aus vic                              Tzimisce:4
 
 Library (90 cards)
 Master (16)

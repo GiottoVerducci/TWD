@@ -4,18 +4,18 @@ May 27th 2007
 23 players
 Mats Ellingsen
 
-Crypt (12 cards, min=12 max=32 avg=5.5)
----------------------------------------
-2x Selma the Repugnant              8   OBF POT ani for         prince    Nosferatu:1
-2x Nikolaus Vermeulen               7   POT ani for obf         prince    Nosferatu:2
-1x Sheldon, Lord of the Clog        9   ANI AUS OBF POT for     justicar  Nosferatu:1
-1x Murat                            7   OBF POT ser             prince    Nosferatu:2
-1x Agrippina                        4   OBF pot                           Nosferatu:1
-1x Daliyah                          4   PRO obf                           Nosferatu:2
-1x Sammy                            4   ani obf pot                       Nosferatu:1
-1x Duck                             3   obf pot                           Nosferatu:1
-1x Regilio, The Seeker of Akhenaten 3   aus obf                           Nosferatu:2
-1x Dimple                           2   obf                               Nosferatu:1
+Crypt (12 cards, min=12, max=32, avg=5.5)
+-----------------------------------------
+2x Selma the Repugnant               8  OBF POT ani for      prince    Nosferatu:1
+2x Nikolaus Vermeulen                7  POT ani for obf      prince    Nosferatu:2
+1x Sheldon, Lord of the Clog         9  ANI AUS OBF POT for  justicar  Nosferatu:1
+1x Murat                             7  OBF POT ser          prince    Nosferatu:2
+1x Agrippina                         4  OBF pot                        Nosferatu:1
+1x Daliyah                           4  PRO obf                        Nosferatu:2
+1x Sammy                             4  ani obf pot                    Nosferatu:1
+1x Duck                              3  obf pot                        Nosferatu:1
+1x Regilio, The Seeker of Akhenaten  3  aus obf                        Nosferatu:2
+1x Dimple                            2  obf                            Nosferatu:1
 
 Library (81 cards)
 Master (16)

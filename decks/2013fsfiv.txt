@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7429
 
 Deck Name: Walking Dead Horde
 
-Crypt (12 cards, min=20 max=40 avg=7.92)
-----------------------------------------
-4x Regina Giovanni, The Right Hand of Augustus  10  DOM NEC POT aus for         2 votes  Giovanni:2
-2x Silvia Giovanni                              10  ANI DOM NEC POT for vic              Giovanni:2
-2x Carlotta Giovanni                            7   NEC POT dom obf                      Giovanni:2
-2x Vittorio Giovanni                            5   dom for nec pot                      Giovanni:2
-1x Pochtli                                      8   NEC OBF POT cel dom                  Giovanni:2
-1x Rudolfo Giovanni                             3   NEC                                  Giovanni:2
+Crypt (12 cards, min=20, max=40, avg=7.92)
+------------------------------------------
+4x Regina Giovanni, The Right Hand of Augustus  10  DOM NEC POT aus for      2 votes  Giovanni:2
+2x Silvia Giovanni                              10  ANI DOM NEC POT for vic           Giovanni:2
+2x Carlotta Giovanni                             7  NEC POT dom obf                   Giovanni:2
+2x Vittorio Giovanni                             5  dom for nec pot                   Giovanni:2
+1x Pochtli                                       8  NEC OBF POT cel dom               Giovanni:2
+1x Rudolfo Giovanni                              3  NEC                               Giovanni:2
 
 Library (90 cards)
 Master (18; 4 trifle)

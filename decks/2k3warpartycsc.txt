@@ -24,19 +24,19 @@ ground in the deck, but I forgot to add it in.
 In the Charleston event, I took 4vp, 2.5VP, and then 3VP in the
 finals.
 
-Crypt (12 cards, min=13 max=37 avg=6.08)
-----------------------------------------
-2x Angelica, The Canonicus       10  DOM OBT POT cel obf  cardinal      Lasombra:2
-1x Antonio Delgado               9   DOM OBT POT tha      archbishop    Lasombra:2
-1x Gratiano                      8   DOM OBT obf pot      priscus       Lasombra:2
-1x Aurora Van Brande, Paladin    6   OBT dom for pot                    Lasombra:2
-1x Lisette Vizquel               6   DOM POT pro          bishop        Lasombra:2
-1x Talley, The Hound             6   OBT POT aus dom                    Lasombra:2
-1x Guido Lucciano                5   OBT dom obf                        Lasombra:2
-1x Ignacio, The Black Priest     4   dom obt pot                        Lasombra:2
-1x Ramiro                        4   dom obt vic                        Lasombra:2
-1x Cameron                       3   dom pot                            Lasombra:2
-1x Aaron Duggan, Cameron's Toady 2   obt                                Lasombra:2
+Crypt (12 cards, min=13, max=37, avg=6.08)
+------------------------------------------
+2x Angelica, The Canonicus        10  DOM OBT POT cel obf  cardinal    Lasombra:2
+1x Antonio Delgado                 9  DOM OBT POT tha      archbishop  Lasombra:2
+1x Gratiano                        8  DOM OBT obf pot      priscus     Lasombra:2
+1x Aurora Van Brande, Paladin      6  OBT dom for pot                  Lasombra:2
+1x Lisette Vizquel                 6  DOM POT pro          bishop      Lasombra:2
+1x Talley, The Hound               6  OBT POT aus dom                  Lasombra:2
+1x Guido Lucciano                  5  OBT dom obf                      Lasombra:2
+1x Ignacio, The Black Priest       4  dom obt pot                      Lasombra:2
+1x Ramiro                          4  dom obt vic                      Lasombra:2
+1x Cameron                         3  dom pot                          Lasombra:2
+1x Aaron Duggan, Cameron's Toady   2  obt                              Lasombra:2
 
 Library (89 cards)
 Master (12)

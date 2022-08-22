@@ -21,17 +21,17 @@ Camarilla-heavy tournament with Venetian Conferences and Gillespi -- also shifte
 around to be more Deflection-proof with no Conditionings and mostly
 Scouting Mission/Bondings.
 
-Crypt (12 cards, min=13 max=28 avg=5.08)
-----------------------------------------
-2x Gillespi Giovanni               7   DOM NEC POT aus  Giovanni:2
-2x Isabel Giovanni                 5   DOM NEC pot      Giovanni:2
-2x Gloria Giovanni                 4   DOM nec          Giovanni:2
-1x Andrea Giovanni                 7   DOM NEC pot vic  Giovanni:2
-1x Carlotta Giovanni               7   NEC POT dom obf  Giovanni:2
-1x Stefano Giovanni                6   DOM nec pot pre  Giovanni:2
-1x Francesca Giovanni              4   dom nec pot      Giovanni:2
-1x Rudolfo Giovanni                3   NEC              Giovanni:2
-1x Marciana Giovanni, Investigator 2   dom              Giovanni:2
+Crypt (12 cards, min=13, max=28, avg=5.08)
+------------------------------------------
+2x Gillespi Giovanni                7  DOM NEC POT aus  Giovanni:2
+2x Isabel Giovanni                  5  DOM NEC pot      Giovanni:2
+2x Gloria Giovanni                  4  DOM nec          Giovanni:2
+1x Andrea Giovanni                  7  DOM NEC pot vic  Giovanni:2
+1x Carlotta Giovanni                7  NEC POT dom obf  Giovanni:2
+1x Stefano Giovanni                 6  DOM nec pot pre  Giovanni:2
+1x Francesca Giovanni               4  dom nec pot      Giovanni:2
+1x Rudolfo Giovanni                 3  NEC              Giovanni:2
+1x Marciana Giovanni, Investigator  2  dom              Giovanni:2
 
 Library (90 cards)
 Master (15)

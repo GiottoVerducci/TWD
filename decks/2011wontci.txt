@@ -11,18 +11,18 @@ Deck Name: Pure Nos '94
 
 Description: All Jyhad-backed, crypt and library, weenie Nos cheesy breed/boon with lots of stealth.
 
-Crypt (12 cards, min=4 max=24 avg=3.25)
----------------------------------------
-2x Selma the Repugnant  8   OBF POT ani for     prince  Nosferatu:1
-2x Agrippina            4   OBF pot                     Nosferatu:1
-1x Sammy                4   ani obf pot                 Nosferatu:1
-1x Duck                 3   obf pot                     Nosferatu:1
-1x Dimple               2   obf                         Nosferatu:1
-1x KoKo                 2   pot                         Nosferatu:1
-1x Igo the Hungry       1   pre pro                     Caitiff:1
-1x Navar McClaren       1   ani                         Caitiff:1
-1x Nik                  1   cel                         Caitiff:1
-1x Smudge the Ignored   1   -none-                      Caitiff:1
+Crypt (12 cards, min=4, max=24, avg=3.25)
+-----------------------------------------
+2x Selma the Repugnant  8  OBF POT ani for  prince  Nosferatu:1
+2x Agrippina            4  OBF pot                  Nosferatu:1
+1x Sammy                4  ani obf pot              Nosferatu:1
+1x Duck                 3  obf pot                  Nosferatu:1
+1x Dimple               2  obf                      Nosferatu:1
+1x KoKo                 2  pot                      Nosferatu:1
+1x Igo the Hungry       1  pre pro                  Caitiff:1
+1x Navar McClaren       1  ani                      Caitiff:1
+1x Nik                  1  cel                      Caitiff:1
+1x Smudge the Ignored   1  -none-                   Caitiff:1
 
 Library (90 cards)
 Master (14)

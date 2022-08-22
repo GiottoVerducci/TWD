@@ -52,18 +52,18 @@ He's not wrong about the lack of cheese. Only one tap
 and bleed deck, too! It was also good to see Nathan's
 !Tre combat deck and Garry's big blokes doing well.
 
-Crypt (12 cards, min=13 max=40 avg=6.33)
-----------------------------------------
-2x Arika                           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
-2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                              Ventrue:2
-1x Queen Anne                      10  DOM FOR PRE aus obf      prince          Ventrue:2
-1x Emerson Bridges                 8   DOM FOR PRE pot          prince          Ventrue:1
-1x Sir Walter Nash                 7   DOM FOR PRE              prince          Ventrue:1
-1x Vanessa                         6   DOM FOR aus pre                          Ventrue antitribu:2
-1x Ingrid Russo                    4   DOM for                                  Ventrue antitribu:2
-1x Juan Cali                       3   aus for                                  Ventrue antitribu:2
-1x Lena Rowe                       3   aus obf pre                              Pander:2
-1x Roland Loussarian               3   for pre                                  Ventrue:1
+Crypt (12 cards, min=13, max=40, avg=6.33)
+------------------------------------------
+2x Arika                            11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+2x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                            Ventrue:2
+1x Queen Anne                       10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Emerson Bridges                   8  DOM FOR PRE pot          prince        Ventrue:1
+1x Sir Walter Nash                   7  DOM FOR PRE              prince        Ventrue:1
+1x Vanessa                           6  DOM FOR aus pre                        Ventrue antitribu:2
+1x Ingrid Russo                      4  DOM for                                Ventrue antitribu:2
+1x Juan Cali                         3  aus for                                Ventrue antitribu:2
+1x Lena Rowe                         3  aus obf pre                            Pander:2
+1x Roland Loussarian                 3  for pre                                Ventrue:1
 
 Library (88 cards)
 Master (20)

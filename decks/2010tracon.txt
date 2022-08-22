@@ -10,11 +10,11 @@ The classic combo with some new cards. Enkil Cog makes targeting the
 right vampires easier. Bring out Unmada first, Cybele second and Lutz
 third, if able. If all else fails, just bleed for three.
 
-Crypt (12 cards, min=40 max=44 avg=10.33)
------------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-4x Cybele                10  ANI DAI OBF PRE SER THA                    Baali:4
-4x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+4x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+4x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
 
 Library (75 cards)
 Master (38; 8 trifle)

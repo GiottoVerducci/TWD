@@ -4,13 +4,13 @@ October 1st 2005
 30 players
 Chris Arthur
 
-Crypt (12 cards, min=13 max=22 avg=4.25)
-----------------------------------------
-3x Tansu Bekir   4   OBF cel            Assamite:2
-3x Ali Kar       3   obf qui            Assamite:3
-2x Kalinda       6   CEL OBF tha        Assamite:2
-2x Badr al-Budur 5   OBF cel dom qui    Assamite:2
-2x Anwar         4   cel obf qui        Assamite:2
+Crypt (12 cards, min=13, max=22, avg=4.25)
+------------------------------------------
+3x Tansu Bekir    4  OBF cel          Assamite:2
+3x Ali Kar        3  obf qui          Assamite:3
+2x Kalinda        6  CEL OBF tha      Assamite:2
+2x Badr al-Budur  5  OBF cel dom qui  Assamite:2
+2x Anwar          4  cel obf qui      Assamite:2
 
 Library (66 cards)
 Master (14)

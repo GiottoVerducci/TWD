@@ -11,12 +11,12 @@ https://www.vekn.net/event-calendar/event/9715
 Deck Name: Política é tudo
 Description: Deck baseado em Awe e Voter Captivation
 
-Crypt (12 cards, min=36 max=39 avg=9.25)
-----------------------------------------
-4x Dark Selina     9   CEL POT PRE dom for      cardinal    Brujah antitribu:5
-3x Armin Brenner   10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
-3x Dmitra Ilyanova 9   CEL FOR POT PRE obf      justicar    Brujah:5
-2x Hektor          9   CEL POT PRE QUI for      priscus     Brujah antitribu:4
+Crypt (12 cards, min=36, max=39, avg=9.25)
+------------------------------------------
+4x Dark Selina       9  CEL POT PRE dom for      cardinal    Brujah antitribu:5
+3x Armin Brenner    10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
+3x Dmitra Ilyanova   9  CEL FOR POT PRE obf      justicar    Brujah:5
+2x Hektor            9  CEL POT PRE QUI for      priscus     Brujah antitribu:4
 
 Library (90 cards)
 Master (14; 6 trifle)

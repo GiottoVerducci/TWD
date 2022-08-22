@@ -27,14 +27,14 @@ Aapo Järvelin (Al'Muntathir Black Hand Bleed) --> Tommi Hakomaa (Osebo Combat/W
  --> Esa-Matti Smolander (Stanislava Vote&Bleed) --> Jyri Puhakka (Anson Guns)
  --> Antti Penttilä (Jacques Rouge + Baali Vote)
 
-Crypt (13 cards, min=35 max=44 avg=9.92)
-----------------------------------------
-5x Stanislava     11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
-4x Ingrid Rossler 9   ANI FOR PRO dom              prince        Gangrel:2
-1x Genevieve      10  ANI FOR PRO aus dom          priscus       Gangrel antitribu:2
-1x Hartmut Stover 10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
-1x Xaviar (ADV)   10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
-1x Mark Decker    8   CEL PRO ani for obf pot      prince        Gangrel:3
+Crypt (13 cards, min=35, max=44, avg=9.92)
+------------------------------------------
+5x Stanislava      11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+4x Ingrid Rossler   9  ANI FOR PRO dom              prince        Gangrel:2
+1x Genevieve       10  ANI FOR PRO aus dom          priscus       Gangrel antitribu:2
+1x Hartmut Stover  10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+1x Xaviar (ADV)    10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+1x Mark Decker      8  CEL PRO ani for obf pot      prince        Gangrel:3
 
 Library (70 cards)
 Master (14; 7 trifle)

@@ -9,12 +9,12 @@ Deck Name: Champion Grigoriy deck
 
 Description: Was made in an hour before the tournament by borrowing around.
 
-Crypt (12 cards, min=44 max=44 avg=11)
---------------------------------------
-5x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-4x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-2x Adana de Sforza       11  CEL OBF POT PRE PRO aus    inner circle    Brujah:4
-1x Hardestadt            11  DOM FOR POT PRE cel pro    inner circle    Ventrue:4
+Crypt (12 cards, min=44, max=44, avg=11)
+----------------------------------------
+5x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+4x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+2x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Hardestadt             11  DOM FOR POT PRE cel pro  inner circle  Ventrue:4
 
 Library (90 cards)
 Master (23; 4 trifle)

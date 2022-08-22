@@ -17,17 +17,17 @@ Giovanni is one of my favorite clans. A little bits of goods for different thing
 Wish there is another stealth package, maybe anarch rail road tech. I keep having visions of one card vs my stealth package like the Bowl of Convergence, Eyes of Argus, ect…would stop/slow down this deck.
 Do need to remove/replace Talbot's Chainsaw - all three rounds Ambrosius or Tye Cooper either got stolen or destroyed. I did have the pleasure to see Ambrosius got Pentex Subversion for the first time.
 
-Crypt (13 cards, min=10 max=30 avg=4.92)
-----------------------------------------
-1x Enzo Giovanni, Pentex Board of Directors       8   DOM NEC ani pot tha       Giovanni:2
-1x Enzo Giovanni, Pentex Board of Directors (ADV) 8   DOM NEC POT ani pre tha   Giovanni:2
-2x Andrea Giovanni                                7   DOM NEC pot vic           Giovanni:2
-2x Isabel Giovanni                                5   DOM NEC pot               Giovanni:2
-2x Le Dinh Tho                                    5   NEC aus dom               Nagaraja:2
-2x Rudolfo Giovanni                               3   NEC                       Giovanni:2
-1x Gloria Giovanni                                4   DOM nec                   Giovanni:2
-1x Lia Milliner                                   3   dom nec                   Giovanni:3
-1x Nedal, The Careless                            1   cel nec                   Caitiff:3
+Crypt (13 cards, min=10, max=30, avg=4.92)
+------------------------------------------
+1x Enzo Giovanni, Pentex Board of Directors        8  DOM NEC ani pot tha      Giovanni:2
+1x Enzo Giovanni, Pentex Board of Directors (ADV)  8  DOM NEC POT ani pre tha  Giovanni:2
+2x Andrea Giovanni                                 7  DOM NEC pot vic          Giovanni:2
+2x Isabel Giovanni                                 5  DOM NEC pot              Giovanni:2
+2x Le Dinh Tho                                     5  NEC aus dom              Nagaraja:2
+2x Rudolfo Giovanni                                3  NEC                      Giovanni:2
+1x Gloria Giovanni                                 4  DOM nec                  Giovanni:2
+1x Lia Milliner                                    3  dom nec                  Giovanni:3
+1x Nedal, The Careless                             1  cel nec                  Caitiff:3
 
 Library (86 cards)
 Master (13)

@@ -6,13 +6,13 @@ Otto Kallokoski
 
 Deck Name: Tariq + Egottha
 
-Crypt (12 cards, min=17 max=28 avg=6.08)
-----------------------------------------
-5x Tariq, The Silent    7   AUS FOR OBF QUI cel  Assamite:2
-3x Egothha              7   AUS FOR NEC obf      Harbinger of Skulls:2
-2x Rudolfo Giovanni     3   NEC                  Giovanni:2
-1x Carlotta Giovanni    7   NEC POT dom obf      Giovanni:2
-1x Maldavis             4   AUS for pre          Caitiff:3
+Crypt (12 cards, min=17, max=28, avg=6.08)
+------------------------------------------
+5x Tariq, The Silent  7  AUS FOR OBF QUI cel  Assamite:2
+3x Egothha            7  AUS FOR NEC obf      Harbinger of Skulls:2
+2x Rudolfo Giovanni   3  NEC                  Giovanni:2
+1x Carlotta Giovanni  7  NEC POT dom obf      Giovanni:2
+1x Maldavis           4  AUS for pre          Caitiff:3
 
 Library (85 cards)
 Master (9)

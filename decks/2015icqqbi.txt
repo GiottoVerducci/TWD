@@ -8,12 +8,12 @@ https://www.vekn.net/event-calendar/event/8206
 
 Deck Name: Lasombra Big Cap
 
-Crypt (12 cards, min=33 max=40 avg=9.08)
-----------------------------------------
-4x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-3x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
-3x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
-2x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
+Crypt (12 cards, min=33, max=40, avg=9.08)
+------------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+3x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+3x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+2x Alvaro, The Scion of Angelica            9  OBT POT dom pre          archbishop  Lasombra:2
 
 Library (90 cards)
 Master (21; 6 trifle)

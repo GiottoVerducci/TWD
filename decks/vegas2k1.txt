@@ -14,10 +14,10 @@ alive while Smiling Jack wrecks house. It helped that the final was untimed.
 It lasted 3 hours 15 minutes (yeesh!). Caleb said he would improve the
 deck by adding another Lambach (in place of Anson) and some Eagle Sights.
 
-Crypt (12 cards, min=38 max=40 avg=9.83)
-----------------------------------------
-11x Lambach 10   ANI AUS DOM VIC pre    cardinal  Tzimisce:2
-1x  Anson   8    CEL PRE aus dom        prince    Toreador:1
+Crypt (12 cards, min=38, max=40, avg=9.83)
+------------------------------------------
+11x Lambach  10  ANI AUS DOM VIC pre  cardinal  Tzimisce:2
+1x  Anson     8  CEL PRE aus dom      prince    Toreador:1
 
 Library (60 cards)
 Master (20)

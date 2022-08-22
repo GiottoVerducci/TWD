@@ -17,19 +17,19 @@ another Second Tradition. It worked essentially because whenever people
 tried things against it Steve had a counter. Example: I tried a
 cross-table Bum's rush. He Direct-Intervention'd it.
 
-Crypt (12 cards, min=11 max=38 avg=6.17)
-----------------------------------------
-2x Sir Walter Nash                 7   DOM FOR PRE              prince          Ventrue:1
-1x Arika                           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
-1x Democritus                      10  DOM PRE aus cel for      justicar        Ventrue:1
-1x Natasha Volfchek                9   FOR PRE cel dom pot      primogen        Ventrue:1
-1x Emerson Bridges                 8   DOM FOR PRE pot          prince          Ventrue:1
-1x Luccia Paciola                  6   DOM for pre                              Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                              Ventrue:2
-1x Violette Prentiss               4   PRE dom                                  Ventrue:1
-1x Gideon Fontaine                 3   PRE                                      Ventrue:1
-1x Mustafa Rahman                  2   dom                                      Tremere:2
-1x Rufina Soledad                  2   for                                      Ventrue:1
+Crypt (12 cards, min=11, max=38, avg=6.17)
+------------------------------------------
+2x Sir Walter Nash                   7  DOM FOR PRE              prince        Ventrue:1
+1x Arika                            11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Democritus                       10  DOM PRE aus cel for      justicar      Ventrue:1
+1x Natasha Volfchek                  9  FOR PRE cel dom pot      primogen      Ventrue:1
+1x Emerson Bridges                   8  DOM FOR PRE pot          prince        Ventrue:1
+1x Luccia Paciola                    6  DOM for pre                            Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for                            Ventrue:2
+1x Violette Prentiss                 4  PRE dom                                Ventrue:1
+1x Gideon Fontaine                   3  PRE                                    Ventrue:1
+1x Mustafa Rahman                    2  dom                                    Tremere:2
+1x Rufina Soledad                    2  for                                    Ventrue:1
 
 Library (86 cards)
 Master (23)

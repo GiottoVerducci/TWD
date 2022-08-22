@@ -12,15 +12,15 @@ for a great pre-Force of Will action. The Second Traditions are there to
 try and protect the Hearts, but it's not desperate if they go, just tool up
 with another one.
 
-Crypt (12 cards, min=16 max=40 avg=7.58)
-----------------------------------------
-4x Suhailah             9   FOR OBF pot ser             prince          Ventrue:2
-2x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
-2x Rufina Soledad       2   for                                         Ventrue:1
-1x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-1x Selma the Repugnant  8   OBF POT ani for             prince          Nosferatu:1
-1x Nikolaus Vermeulen   7   POT ani for obf             prince          Nosferatu:2
-1x Dedefra              5   SER nec obf                                 Follower of Set:2
+Crypt (12 cards, min=16, max=40, avg=7.58)
+------------------------------------------
+4x Suhailah              9  FOR OBF pot ser          prince        Ventrue:2
+2x Queen Anne           10  DOM FOR PRE aus obf      prince        Ventrue:2
+2x Rufina Soledad        2  for                                    Ventrue:1
+1x Arika                11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Selma the Repugnant   8  OBF POT ani for          prince        Nosferatu:1
+1x Nikolaus Vermeulen    7  POT ani for obf          prince        Nosferatu:2
+1x Dedefra               5  SER nec obf                            Follower of Set:2
 
 Library (90 cards)
 Master (15)

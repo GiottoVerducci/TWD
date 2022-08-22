@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/9224
 
 Deck Name: Scout & Friends
 
-Crypt (12 cards, min=26 max=36 avg=7.92)
-----------------------------------------
-4x Scout Youngwood 8   MEL OBF PRE for qui  2 votes     Daughter of Cacophony:6
-3x Undele          9   CEL FOR obf pre ser  magaji      Ishtarri:5
-3x Arishat         6   DAI OBF PRE          1 vote      Baali:6
-1x Dark Selina     9   CEL POT PRE dom for  cardinal    Brujah antitribu:5
-1x Dmitra Ilyanova 9   CEL FOR POT PRE obf  justicar    Brujah:5
+Crypt (12 cards, min=26, max=36, avg=7.92)
+------------------------------------------
+4x Scout Youngwood  8  MEL OBF PRE for qui  2 votes   Daughter of Cacophony:6
+3x Undele           9  CEL FOR obf pre ser  magaji    Ishtarri:5
+3x Arishat          6  DAI OBF PRE          1 vote    Baali:6
+1x Dark Selina      9  CEL POT PRE dom for  cardinal  Brujah antitribu:5
+1x Dmitra Ilyanova  9  CEL FOR POT PRE obf  justicar  Brujah:5
 
 Library (90 cards)
 Master (30)

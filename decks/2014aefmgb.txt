@@ -13,16 +13,16 @@ Strategy: Slow game, mounting setup, putting chimerstry on François and trying 
 When possible, toreador grandball and nightmare curse / sensory deprivation unblockable.
 Some revelations to avoid bounces or archons and then heavy bleeding.
 
-Crypt (13 cards, min=15 max=43 avg=7.92)
-----------------------------------------
-4x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
-3x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
-1x Anson           8   CEL PRE aus dom          prince          Toreador:1
-1x Tatiana Romanov 7   AUS cel pre              prince          Toreador:1
-1x Victoria Ash    6   PRE aus cel dom          primogen        Toreador:2
-1x Mariana Gilbert 4   PRE cel                                  Toreador:1
-1x Isabel de Leon  3   AUS                                      Toreador:2
-1x Delilah Easton  2   pre                                      Toreador:1
+Crypt (13 cards, min=15, max=43, avg=7.92)
+------------------------------------------
+4x François Villon  10  AUS CEL PRE chi obf pot  prince        Toreador:2
+3x Alexandra        11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+1x Anson             8  CEL PRE aus dom          prince        Toreador:1
+1x Tatiana Romanov   7  AUS cel pre              prince        Toreador:1
+1x Victoria Ash      6  PRE aus cel dom          primogen      Toreador:2
+1x Mariana Gilbert   4  PRE cel                                Toreador:1
+1x Isabel de Leon    3  AUS                                    Toreador:2
+1x Delilah Easton    2  pre                                    Toreador:1
 
 Library (85 cards)
 Master (28; 6 trifle)

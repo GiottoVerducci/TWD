@@ -9,18 +9,18 @@ Deck Name: Los pricipes de siempre
 
 Description: 3GW & 12VP
 
-Crypt (12 cards, min=16 max=33 avg=6.33)
-----------------------------------------
-2x Emerson Bridges                 8   DOM FOR PRE pot      prince      Ventrue:1
-2x Sir Walter Nash                 7   DOM FOR PRE          prince      Ventrue:1
-1x Wilhelm Waldburg                9   DOM FOR PRE aus cel  prince      Ventrue:2
-1x Anson                           8   CEL PRE aus dom      prince      Toreador:1
-1x Timothy Crowley                 7   FOR PRE ani dom      prince      Ventrue:1
-1x Rake                            6   PRE aus cel pot      prince      Brujah:1
-1x Victoria Ash                    6   PRE aus cel dom      primogen    Toreador:2
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                      Ventrue:2
-1x Courtland Leighton              4   dom for pre                      Ventrue:1
-1x Anarch Convert                  1   -none-                           Caitiff:ANY
+Crypt (12 cards, min=16, max=33, avg=6.33)
+------------------------------------------
+2x Emerson Bridges                  8  DOM FOR PRE pot      prince    Ventrue:1
+2x Sir Walter Nash                  7  DOM FOR PRE          prince    Ventrue:1
+1x Wilhelm Waldburg                 9  DOM FOR PRE aus cel  prince    Ventrue:2
+1x Anson                            8  CEL PRE aus dom      prince    Toreador:1
+1x Timothy Crowley                  7  FOR PRE ani dom      prince    Ventrue:1
+1x Rake                             6  PRE aus cel pot      prince    Brujah:1
+1x Victoria Ash                     6  PRE aus cel dom      primogen  Toreador:2
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for                    Ventrue:2
+1x Courtland Leighton               4  dom for pre                    Ventrue:1
+1x Anarch Convert                   1  -none-                         Caitiff:ANY
 
 Library (77 cards)
 Master (11; 1 trifle)

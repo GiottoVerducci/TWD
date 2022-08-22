@@ -7,18 +7,18 @@ Gyula Erdõs
 
 Deck Name: Nana Buruku & Friends Ani Rush
 
-Crypt (12 cards, min=8 max=28 avg=4.08)
----------------------------------------
-3x Nana Buruku          8   ANI POT PRE  Guruhi:4
-1x Beetleman            4   ANI obf      Nosferatu:4
-1x Bobby Lemon          4   ANI pro      Gangrel:3
-1x Bothwell             3   ani for      Gangrel:3
-1x Droescher One-Eye    3   ani vic      Tzimisce:4
-1x Neel Ramanathan      3   ani for      Ravnos:4
-1x Stick                3   ANI          Nosferatu antitribu:4
-1x Mouse                2   ani          Nosferatu:3
-1x Zip                  2   ani          Ravnos:3
-1x Lisa Noble           1   ani          Caitiff:3
+Crypt (12 cards, min=8, max=28, avg=4.08)
+-----------------------------------------
+3x Nana Buruku        8  ANI POT PRE  Guruhi:4
+1x Beetleman          4  ANI obf      Nosferatu:4
+1x Bobby Lemon        4  ANI pro      Gangrel:3
+1x Bothwell           3  ani for      Gangrel:3
+1x Droescher One-Eye  3  ani vic      Tzimisce:4
+1x Neel Ramanathan    3  ani for      Ravnos:4
+1x Stick              3  ANI          Nosferatu antitribu:4
+1x Mouse              2  ani          Nosferatu:3
+1x Zip                2  ani          Ravnos:3
+1x Lisa Noble         1  ani          Caitiff:3
 
 Library (90 cards)
 Master (29; 4 trifle)

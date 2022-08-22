@@ -10,15 +10,15 @@ Deck Name: Tupdogs Combate V3.0
 
 -- GW4 + 0 + 1 + 4VP in final
 
-Crypt (26 cards, min=4 max=16 avg=1.62)
----------------------------------------
-20x Tupdog       1    POT VIS           Gargoyle:3
-1x  Esoara       5    DOM aus for pot   Tremere antitribu:4
-1x  Janine       4    aus dom tha       Tremere antitribu:4
-1x  Mosfair      4    cel dom tha       Tremere antitribu:4
-1x  Ember Wright 3    aus dom           Tremere antitribu:3
-1x  Keith Moody  3    DOM               Tremere antitribu:4
-1x  Saiz         3    aus dom           Tremere antitribu:3
+Crypt (26 cards, min=4, max=16, avg=1.62)
+-----------------------------------------
+20x Tupdog        1  POT VIS          Gargoyle:3
+1x  Esoara        5  DOM aus for pot  Tremere antitribu:4
+1x  Janine        4  aus dom tha      Tremere antitribu:4
+1x  Mosfair       4  cel dom tha      Tremere antitribu:4
+1x  Ember Wright  3  aus dom          Tremere antitribu:3
+1x  Keith Moody   3  DOM              Tremere antitribu:4
+1x  Saiz          3  aus dom          Tremere antitribu:3
 
 Library (90 cards)
 Master (11)

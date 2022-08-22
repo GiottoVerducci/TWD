@@ -6,16 +6,16 @@ Johan Karlstrom
 
 Garbage & Tech
 
-Crypt (12 cards, min=11 max=29 avg=5.42)
-----------------------------------------
-3x Frederick the Weak   2   pre                                 Brujah antitribu:2
-2x Korah                7   AUS DEM OBF ani      priscus        Malkavian antitribu:2
-2x Dolphin Black        6   AUS DEM OBF                         Malkavian antitribu:2
-1x Virgil               8   AUS DEM OBF cel      bishop         Malkavian antitribu:2
-1x Kite                 7   AUS DEM obf pre      bishop         Malkavian antitribu:2
-1x Marie Faucigny       7   AUS OBF dem tha      archbishop     Malkavian antitribu:3
-1x Artemis              6   DEM OBF aus cel for                 Malkavian antitribu:2
-1x Uncle George         5   DEM aus dom obf                     Malkavian antitribu:3
+Crypt (12 cards, min=11, max=29, avg=5.42)
+------------------------------------------
+3x Frederick the Weak  2  pre                              Brujah antitribu:2
+2x Korah               7  AUS DEM OBF ani      priscus     Malkavian antitribu:2
+2x Dolphin Black       6  AUS DEM OBF                      Malkavian antitribu:2
+1x Virgil              8  AUS DEM OBF cel      bishop      Malkavian antitribu:2
+1x Kite                7  AUS DEM obf pre      bishop      Malkavian antitribu:2
+1x Marie Faucigny      7  AUS OBF dem tha      archbishop  Malkavian antitribu:3
+1x Artemis             6  DEM OBF aus cel for              Malkavian antitribu:2
+1x Uncle George        5  DEM aus dom obf                  Malkavian antitribu:3
 
 Library (86 cards)
 Master (22)

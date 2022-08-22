@@ -6,20 +6,20 @@ Arthur Volts
 "The Nosferatu Funboy Deck"
 by Arthur Volts
 
-Crypt (12 cards, min=13 max=26 avg=4.92)
-----------------------------------------
-1x Beast, The Leatherface of Detroit      7   OBF POT ani cel           Nosferatu antitribu:2
-1x Nikolaus Vermeulen                     7   POT ani for obf   prince  Nosferatu:2
-1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot               Nosferatu antitribu:2
-1x Ox, Viceroy of the Hollows             6   ANI OBF POT               Nosferatu antitribu:2
-1x Calebros, The Martyr                   5   ANI obf pot       prince  Nosferatu:2
-1x Cicatriz                               5   ani obf pot       bishop  Nosferatu antitribu:2
-1x Nigel the Shunned                      5   ANI POT obf               Nosferatu antitribu:2
-1x Olivia                                 5   OBF POT vic       bishop  Nosferatu antitribu:2
-1x Agatha                                 4   POT obf                   Nosferatu antitribu:2
-1x Sammy                                  4   ani obf pot               Nosferatu:1
-1x Duck                                   3   obf pot                   Nosferatu:1
-1x KoKo                                   2   pot                       Nosferatu:1
+Crypt (12 cards, min=13, max=26, avg=4.92)
+------------------------------------------
+1x Beast, The Leatherface of Detroit       7  OBF POT ani cel          Nosferatu antitribu:2
+1x Nikolaus Vermeulen                      7  POT ani for obf  prince  Nosferatu:2
+1x Christanius Lionel, The Mad Chronicler  6  ANI OBF pot              Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows              6  ANI OBF POT              Nosferatu antitribu:2
+1x Calebros, The Martyr                    5  ANI obf pot      prince  Nosferatu:2
+1x Cicatriz                                5  ani obf pot      bishop  Nosferatu antitribu:2
+1x Nigel the Shunned                       5  ANI POT obf              Nosferatu antitribu:2
+1x Olivia                                  5  OBF POT vic      bishop  Nosferatu antitribu:2
+1x Agatha                                  4  POT obf                  Nosferatu antitribu:2
+1x Sammy                                   4  ani obf pot              Nosferatu:1
+1x Duck                                    3  obf pot                  Nosferatu:1
+1x KoKo                                    2  pot                      Nosferatu:1
 
 Library (79 cards)
 Master (15)

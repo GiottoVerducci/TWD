@@ -9,13 +9,13 @@ Big Green Vote
 - Ben Peal, Prince of Boston
 fudjo@mindstorm.com
 
-Crypt (12 cards, min=33 max=43 avg=9.67)
-----------------------------------------
-3x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
-3x Angus the Unruled    10  ANI PRO cel for pot  justicar       Gangrel:1
-3x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
-2x Genevieve            10  ANI FOR PRO aus dom  priscus        Gangrel antitribu:2
-1x Caitlin              6   ANI PRO aus dom      bishop         Gangrel antitribu:2
+Crypt (12 cards, min=33, max=43, avg=9.67)
+------------------------------------------
+3x Stanislava         11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+3x Angus the Unruled  10  ANI PRO cel for pot  justicar      Gangrel:1
+3x Ingrid Rossler      9  ANI FOR PRO dom      prince        Gangrel:2
+2x Genevieve          10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+1x Caitlin             6  ANI PRO aus dom      bishop        Gangrel antitribu:2
 
 Library (88 cards)
 Master (19)

@@ -37,17 +37,17 @@ card. Getting to 2 intercept is nice, but it isn't worth the cost.
 Very consistent. Not a lot can survive repeated hits from this. Of course
 it's not fun to run into other ANI decks, but them's the breaks.
 
-Crypt (12 cards, min=8 max=32 avg=4.67)
----------------------------------------
-4x Nana Buruku  8   ANI POT PRE  Guruhi:4
-1x Fish         5   ANI POT pre  Guruhi:4
-1x Beetleman    4   ANI obf      Nosferatu:4
-1x Bobby Lemon  4   ANI pro      Gangrel:3
-1x Dolie        3   abo ani      Akunanse:4
-1x Stick        3   ANI          Nosferatu antitribu:4
-1x Mouse        2   ani          Nosferatu:3
-1x Zip          2   ani          Ravnos:3
-1x Lisa Noble   1   ani          Caitiff:3
+Crypt (12 cards, min=8, max=32, avg=4.67)
+-----------------------------------------
+4x Nana Buruku  8  ANI POT PRE  Guruhi:4
+1x Fish         5  ANI POT pre  Guruhi:4
+1x Beetleman    4  ANI obf      Nosferatu:4
+1x Bobby Lemon  4  ANI pro      Gangrel:3
+1x Dolie        3  abo ani      Akunanse:4
+1x Stick        3  ANI          Nosferatu antitribu:4
+1x Mouse        2  ani          Nosferatu:3
+1x Zip          2  ani          Ravnos:3
+1x Lisa Noble   1  ani          Caitiff:3
 
 Library (76 cards)
 Master (24; 3 trifle)

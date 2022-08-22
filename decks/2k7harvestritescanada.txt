@@ -7,14 +7,14 @@ Marc Desaulniers
 
 Deck Name: Serial Mind Rapists
 
-Crypt (12 cards, min=13 max=40 avg=7.25)
-----------------------------------------
-4x Nefertiti                            10  DOM OBF PRE SER cel pot              Follower of Set:2
-2x Khay'tall, Snake of Eden             9   DOM OBF PRE SER aus                  Follower of Set:2
-2x Kephamos, High Priest of Marrakech   8   SER dom obf pre             2 votes  Follower of Set:2
-2x Count Ormonde                        5   OBF dom pre ser                      Follower of Set:2
-1x Samson                               2   dom                                  Ventrue antitribu:2
-1x Royce                                1   dom                                  Pander:2
+Crypt (12 cards, min=13, max=40, avg=7.25)
+------------------------------------------
+4x Nefertiti                           10  DOM OBF PRE SER cel pot           Follower of Set:2
+2x Khay'tall, Snake of Eden             9  DOM OBF PRE SER aus               Follower of Set:2
+2x Kephamos, High Priest of Marrakech   8  SER dom obf pre          2 votes  Follower of Set:2
+2x Count Ormonde                        5  OBF dom pre ser                   Follower of Set:2
+1x Samson                               2  dom                               Ventrue antitribu:2
+1x Royce                                1  dom                               Pander:2
 
 Library (90 cards)
 Master (18)

@@ -15,19 +15,19 @@ was gratified that I had guessed the meta-game correctly. I had meant
 to swap out Tock for Nigel the Shunned and forgot to. Picked up 3GW
 and 9VP, then won the finals with a lot of luck in the timing.
 
-Crypt (12 cards, min=14 max=28 avg=5.33)
-----------------------------------------
-2x Teresita, The Godmother                7   ANI OBF POT for            Nosferatu antitribu:3
-1x Beast, The Leatherface of Detroit      7   OBF POT ani cel            Nosferatu antitribu:2
-1x Kendrick                               7   ANI POT aus obf   priscus  Nosferatu antitribu:2
-1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot                Nosferatu antitribu:2
-1x Ox, Viceroy of the Hollows             6   ANI OBF POT                Nosferatu antitribu:2
-1x Cicatriz                               5   ani obf pot       bishop   Nosferatu antitribu:2
-1x Olivia                                 5   OBF POT vic       bishop   Nosferatu antitribu:2
-1x Agatha                                 4   POT obf                    Nosferatu antitribu:2
-1x Tock                                   4   obf pot pre                Nosferatu antitribu:3
-1x Shannon Price, The Whisperer           3   ani obf                    Nosferatu antitribu:2
-1x Tommy                                  3   ani pot                    Nosferatu antitribu:2
+Crypt (12 cards, min=14, max=28, avg=5.33)
+------------------------------------------
+2x Teresita, The Godmother                 7  ANI OBF POT for           Nosferatu antitribu:3
+1x Beast, The Leatherface of Detroit       7  OBF POT ani cel           Nosferatu antitribu:2
+1x Kendrick                                7  ANI POT aus obf  priscus  Nosferatu antitribu:2
+1x Christanius Lionel, The Mad Chronicler  6  ANI OBF pot               Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows              6  ANI OBF POT               Nosferatu antitribu:2
+1x Cicatriz                                5  ani obf pot      bishop   Nosferatu antitribu:2
+1x Olivia                                  5  OBF POT vic      bishop   Nosferatu antitribu:2
+1x Agatha                                  4  POT obf                   Nosferatu antitribu:2
+1x Tock                                    4  obf pot pre               Nosferatu antitribu:3
+1x Shannon Price, The Whisperer            3  ani obf                   Nosferatu antitribu:2
+1x Tommy                                   3  ani pot                   Nosferatu antitribu:2
 
 Library (90 cards)
 Master (19)

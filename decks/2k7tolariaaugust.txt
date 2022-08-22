@@ -8,14 +8,14 @@ Deck Name: Turbo Parity
 
 Description: Based on Legendary Nosferatu by Kamel Senni
 
-Crypt (12 cards, min=27 max=36 avg=8.08)
-----------------------------------------
-3x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
-3x Suhailah                     9   FOR OBF pot ser      prince    Ventrue:2
-3x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
-1x Murat                        7   OBF POT ser          prince    Nosferatu:2
-1x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
-1x Calebros, The Martyr         5   ANI obf pot          prince    Nosferatu:2
+Crypt (12 cards, min=27, max=36, avg=8.08)
+------------------------------------------
+3x Sheldon, Lord of the Clog  9  ANI AUS OBF POT for  justicar  Nosferatu:1
+3x Suhailah                   9  FOR OBF pot ser      prince    Ventrue:2
+3x Selma the Repugnant        8  OBF POT ani for      prince    Nosferatu:1
+1x Murat                      7  OBF POT ser          prince    Nosferatu:2
+1x Nikolaus Vermeulen         7  POT ani for obf      prince    Nosferatu:2
+1x Calebros, The Martyr       5  ANI obf pot          prince    Nosferatu:2
 
 Library (60 cards)
 Master (21)

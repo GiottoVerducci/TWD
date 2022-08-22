@@ -14,16 +14,16 @@ Description: Dementation Bleed starring Anatole (Artemis for support).
 Taking advantage of the Fortitude to Call and Bleed/Tool up.
 If you have 4 minions out, the math is nice to Madman's Quill, untap, then bleed with all.
 
-Crypt (12 cards, min=19 max=32 avg=6.5)
----------------------------------------
-5x Anatole, Prophet of Gehenna  8   AUS DEM OBF dom for           Malkavian:2
-1x Korah                        7   AUS DEM OBF ani      priscus  Malkavian antitribu:2
-1x Artemis                      6   DEM OBF aus cel for           Malkavian antitribu:2
-1x Dolphin Black                6   AUS DEM OBF                   Malkavian antitribu:2
-1x Tony                         6   AUS DEM dom obf               Malkavian:3
-1x Persia, The Beautiful Statue 5   DEM aus obf                   Malkavian:3
-1x Uncle George                 5   DEM aus dom obf               Malkavian antitribu:3
-1x Midget                       3   DEM obf pre                   Malkavian antitribu:3
+Crypt (12 cards, min=19, max=32, avg=6.5)
+-----------------------------------------
+5x Anatole, Prophet of Gehenna   8  AUS DEM OBF dom for           Malkavian:2
+1x Korah                         7  AUS DEM OBF ani      priscus  Malkavian antitribu:2
+1x Artemis                       6  DEM OBF aus cel for           Malkavian antitribu:2
+1x Dolphin Black                 6  AUS DEM OBF                   Malkavian antitribu:2
+1x Tony                          6  AUS DEM dom obf               Malkavian:3
+1x Persia, The Beautiful Statue  5  DEM aus obf                   Malkavian:3
+1x Uncle George                  5  DEM aus dom obf               Malkavian antitribu:3
+1x Midget                        3  DEM obf pre                   Malkavian antitribu:3
 
 Library (90 cards)
 Master (11; 2 trifle)

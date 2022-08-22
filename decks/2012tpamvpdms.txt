@@ -14,10 +14,10 @@ win. When an Hermana Hambrienta Menor enters play, she burns
 2 blood. On your next turn, you should refill her via Lilith's
 Blessing and give her superior Potence.
 
-Crypt (12 cards, min=8 max=28 avg=3.67)
----------------------------------------
-8x Hermana Hambrienta Menor 2   pot san                 Blood Brother:4
-4x Angelo                   7   CEL FOR SAN pot vic     Blood Brother:3
+Crypt (12 cards, min=8, max=28, avg=3.67)
+-----------------------------------------
+8x Hermana Hambrienta Menor  2  pot san              Blood Brother:4
+4x Angelo                    7  CEL FOR SAN pot vic  Blood Brother:3
 
 Library (90 cards)
 Master (25; 10 trifle)

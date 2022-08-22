@@ -11,19 +11,19 @@ Deck Name: tu joues, tu joues pas, tu crèves quand même
 Description: first version of the deck, the crypt can be largely more
 efficient and the combo is not locking enough
 
-Crypt (12 cards, min=4 max=10 avg=1.67)
----------------------------------------
-2x Normal               2   obf         Malkavian:1
-1x Dollface             3   aus obf     Malkavian:1
-1x Watenda              3   obf         Malkavian:2
-1x Brazil               2   aus         Malkavian:1
-1x Ohanna               2   dom         Malkavian:2
-1x Antoinette DuChamp   1   cel pre     Caitiff:2
-1x Franciscus           1   aus         Caitiff:2
-1x Hasina Kesi          1   pot         Caitiff:1
-1x Igo the Hungry       1   pre pro     Caitiff:1
-1x Navar McClaren       1   ani         Caitiff:1
-1x Smudge the Ignored   1   -none-      Caitiff:1
+Crypt (12 cards, min=4, max=10, avg=1.67)
+-----------------------------------------
+2x Normal              2  obf      Malkavian:1
+1x Dollface            3  aus obf  Malkavian:1
+1x Watenda             3  obf      Malkavian:2
+1x Brazil              2  aus      Malkavian:1
+1x Ohanna              2  dom      Malkavian:2
+1x Antoinette DuChamp  1  cel pre  Caitiff:2
+1x Franciscus          1  aus      Caitiff:2
+1x Hasina Kesi         1  pot      Caitiff:1
+1x Igo the Hungry      1  pre pro  Caitiff:1
+1x Navar McClaren      1  ani      Caitiff:1
+1x Smudge the Ignored  1  -none-   Caitiff:1
 
 Library (60 cards)
 Master (37; 2 trifle)

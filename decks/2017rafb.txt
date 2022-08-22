@@ -11,16 +11,16 @@ https://www.vekn.net/event-calendar/event/8734
 Deck Name: Defendendo o Reduto
 Created by: Márcio "O Feio"
 
-Crypt (14 cards, min=6 max=27 avg=4.07)
----------------------------------------
-3x Antonio d'Erlette    5   THA dom for pot              Tremere antitribu:4
-3x Anarch Convert       1   -none-                       Caitiff:ANY
-2x Paul Cordwood        8   AUS DOM THA obf pre  bishop  Tremere antitribu:4
-2x Keith Moody          3   DOM                          Tremere antitribu:4
-1x Selena               6   AUS DOM THA                  Tremere antitribu:3
-1x Frondator            5   AUS dom tha          bishop  Tremere antitribu:4
-1x Ember Wright         3   aus dom                      Tremere antitribu:3
-1x Saiz                 3   aus dom                      Tremere antitribu:3
+Crypt (14 cards, min=6, max=27, avg=4.07)
+-----------------------------------------
+3x Antonio d'Erlette  5  THA dom for pot              Tremere antitribu:4
+3x Anarch Convert     1  -none-                       Caitiff:ANY
+2x Paul Cordwood      8  AUS DOM THA obf pre  bishop  Tremere antitribu:4
+2x Keith Moody        3  DOM                          Tremere antitribu:4
+1x Selena             6  AUS DOM THA                  Tremere antitribu:3
+1x Frondator          5  AUS dom tha          bishop  Tremere antitribu:4
+1x Ember Wright       3  aus dom                      Tremere antitribu:3
+1x Saiz               3  aus dom                      Tremere antitribu:3
 
 Library (88 cards)
 Master (22; 6 trifle)

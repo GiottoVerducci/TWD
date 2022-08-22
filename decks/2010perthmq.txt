@@ -13,18 +13,18 @@ Description: Deck was designed to breed and get into combat by acting
 tremere than using slave ability. I've noticed one Tribute too many,
 probably get rid off Patrol and put some master to give me a blood.
 
-Crypt (12 cards, min=10 max=25 avg=4.42)
-----------------------------------------
-3x Saxum, Master of Slaves      6   FOR VIS pot pre     Gargoyle:2
-1x Ublo-Satha                   7   FOR POT VIS cel     Gargoyle:2
-1x Kyoko Shinsegawa             5   aus cel dom for     Tremere:3
-1x Luma, Stone Beauty           5   FOR aus pot vis     Gargoyle:2
-1x Fidus, The Shrunken Beast    4   for tha vis         Gargoyle:2
-1x Pieter van Dorn              4   dom pre tha         Tremere:3
-1x Ehrich Weiss                 3   dom tha             Tremere:3
-1x Erinyi                       3   pot vis             Gargoyle:2
-1x Almiro Suarez                2   aus                 Tremere:3
-1x Mustafa Rahman               2   dom                 Tremere:2
+Crypt (12 cards, min=10, max=25, avg=4.42)
+------------------------------------------
+3x Saxum, Master of Slaves    6  FOR VIS pot pre  Gargoyle:2
+1x Ublo-Satha                 7  FOR POT VIS cel  Gargoyle:2
+1x Kyoko Shinsegawa           5  aus cel dom for  Tremere:3
+1x Luma, Stone Beauty         5  FOR aus pot vis  Gargoyle:2
+1x Fidus, The Shrunken Beast  4  for tha vis      Gargoyle:2
+1x Pieter van Dorn            4  dom pre tha      Tremere:3
+1x Ehrich Weiss               3  dom tha          Tremere:3
+1x Erinyi                     3  pot vis          Gargoyle:2
+1x Almiro Suarez              2  aus              Tremere:3
+1x Mustafa Rahman             2  dom              Tremere:2
 
 Library (90 cards)
 Master (12)

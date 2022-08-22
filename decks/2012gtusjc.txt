@@ -20,14 +20,14 @@ it until Brett "archoned" his Mu-aziz. I lost Tariq to Brett's Carlton
 but was able to bleed out David with what I had left and hold on until
 the game timed out.
 
-Crypt (12 cards, min=6 max=28 avg=4.67)
----------------------------------------
-3x Tariq, The Silent              7   AUS FOR OBF QUI cel  Assamite:2
-3x Tariq, The Silent (ADV)        7   AUS FOR OBF QUI cel  Assamite:2
-3x Anarch Convert                 1   -none-               Caitiff:ANY
-1x Dorian Strack                  4   AUS cel              Toreador:1
-1x Idalia, Prophet of Guadalajara 4   AUS dem              Malkavian antitribu:2
-1x Isabel de Leon                 3   AUS                  Toreador:2
+Crypt (12 cards, min=6, max=28, avg=4.67)
+-----------------------------------------
+3x Tariq, The Silent               7  AUS FOR OBF QUI cel  Assamite:2
+3x Tariq, The Silent (ADV)         7  AUS FOR OBF QUI cel  Assamite:2
+3x Anarch Convert                  1  -none-               Caitiff:ANY
+1x Dorian Strack                   4  AUS cel              Toreador:1
+1x Idalia, Prophet of Guadalajara  4  AUS dem              Malkavian antitribu:2
+1x Isabel de Leon                  3  AUS                  Toreador:2
 
 Library (90 cards)
 Master (25; 4 trifle)

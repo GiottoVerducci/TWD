@@ -4,15 +4,15 @@ March 26th 2005
 38 players
 Karl Gustavsson
 
-Crypt (12 cards, min=9 max=14 avg=2.92)
----------------------------------------
-4x Chandler Hungerford  3   PRO         Gangrel:2
-1x Ramona               4   for pro     Gangrel:2
-1x Ramona (ADV)         4   for pro     Gangrel:2
-2x Ricki Van Demsi      3   for pro     Gangrel:1
-2x Giuliano Vincenzi    2   for         Gangrel:1
-1x Anastasia Grey       3   ani pro     Gangrel:1
-1x Vliam Andor          2   ani         Gangrel:1
+Crypt (12 cards, min=9, max=14, avg=2.92)
+-----------------------------------------
+4x Chandler Hungerford  3  PRO      Gangrel:2
+1x Ramona               4  for pro  Gangrel:2
+1x Ramona (ADV)         4  for pro  Gangrel:2
+2x Ricki Van Demsi      3  for pro  Gangrel:1
+2x Giuliano Vincenzi    2  for      Gangrel:1
+1x Anastasia Grey       3  ani pro  Gangrel:1
+1x Vliam Andor          2  ani      Gangrel:1
 
 Library (62 cards)
 Master (10)

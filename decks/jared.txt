@@ -5,20 +5,20 @@ Jared Strait
 
 Description: Basically a toolbox deck... a little bit of everything.
 
-Crypt (12 cards, min=14 max=32 avg=5.67)
-----------------------------------------
-1x Suhailah                             9   FOR OBF pot ser     prince   Ventrue:2
-1x Amisa                                8   OBF SER pre pro     2 votes  Follower of Set:2
-1x Kephamos, High Priest of Marrakech   8   SER dom obf pre     2 votes  Follower of Set:2
-1x Sir Walter Nash                      7   DOM FOR PRE         prince   Ventrue:1
-1x Timothy Crowley                      7   FOR PRE ani dom     prince   Ventrue:1
-1x Aisha                                6   PRE ani aus ser              Follower of Set:2
-1x Ranjan Rishi, Camarilla Scholar      5   DOM PRE for                  Ventrue:2
-1x Hadrian Garrick                      4   obf pre                      Follower of Set:2
-1x Nepata                               4   obf pre ser                  Follower of Set:2
-1x Violette Prentiss                    4   PRE dom                      Ventrue:1
-1x Gideon Fontaine                      3   PRE                          Ventrue:1
-1x Khalil Anvari                        3   pre ser                      Follower of Set:2
+Crypt (12 cards, min=14, max=32, avg=5.67)
+------------------------------------------
+1x Suhailah                            9  FOR OBF pot ser  prince   Ventrue:2
+1x Amisa                               8  OBF SER pre pro  2 votes  Follower of Set:2
+1x Kephamos, High Priest of Marrakech  8  SER dom obf pre  2 votes  Follower of Set:2
+1x Sir Walter Nash                     7  DOM FOR PRE      prince   Ventrue:1
+1x Timothy Crowley                     7  FOR PRE ani dom  prince   Ventrue:1
+1x Aisha                               6  PRE ani aus ser           Follower of Set:2
+1x Ranjan Rishi, Camarilla Scholar     5  DOM PRE for               Ventrue:2
+1x Hadrian Garrick                     4  obf pre                   Follower of Set:2
+1x Nepata                              4  obf pre ser               Follower of Set:2
+1x Violette Prentiss                   4  PRE dom                   Ventrue:1
+1x Gideon Fontaine                     3  PRE                       Ventrue:1
+1x Khalil Anvari                       3  pre ser                   Follower of Set:2
 
 Library (90 cards)
 Master (22)

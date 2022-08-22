@@ -10,14 +10,14 @@ Deck Name: Potent Vitae
 
 Description: Assamite toolbox with 6 disciplines. Lot of fun !
 
-Crypt (12 cards, min=25 max=35 avg=7.67)
-----------------------------------------
-3x Tegyrius, Vizier     9   AUS CEL FOR QUI pre  Assamite:2
-2x Bajazet al-Nasir     8   OBF QUI cel for pre  Assamite:2
-2x Cornelius Ottavio    8   AUS OBF pre qui      Malkavian:2
-2x Fatima al-Faqadi     8   CEL OBF QUI aus for  Assamite:2
-2x Tariq, The Silent    7   AUS FOR OBF QUI cel  Assamite:2
-1x Harika Guljan        3   QUI                  Assamite:2
+Crypt (12 cards, min=25, max=35, avg=7.67)
+------------------------------------------
+3x Tegyrius, Vizier   9  AUS CEL FOR QUI pre  Assamite:2
+2x Bajazet al-Nasir   8  OBF QUI cel for pre  Assamite:2
+2x Cornelius Ottavio  8  AUS OBF pre qui      Malkavian:2
+2x Fatima al-Faqadi   8  CEL OBF QUI aus for  Assamite:2
+2x Tariq, The Silent  7  AUS FOR OBF QUI cel  Assamite:2
+1x Harika Guljan      3  QUI                  Assamite:2
 
 Library (90 cards)
 Master (13)

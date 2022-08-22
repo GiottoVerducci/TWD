@@ -13,14 +13,14 @@ Deck Name: Guillaume's property management
 Description: Classic Guillaume power bleed. This is a variant of a deck designed by Erik Torstensson and tweaked by Tomasz Pietkiewicz.
 Suggestions after the tournament: -1 Scourge, -1 Acquired Assets, -2 Dominate Kine, +1 Uncoiling, +1 Deflection, +2 Slaughtering the Herd.
 
-Crypt (12 cards, min=19 max=36 avg=7.08)
-----------------------------------------
-5x Guillaume Giovanni           9   CEL DOM NEC POT obt           Giovanni:4
-2x Gualtiero Ghiberti           7   DOM NEC cel pot tha           Giovanni:4
-2x Raphaela Giovanni            6   DOM NEC pot pre               Giovanni:4
-1x Don Michael Antonio Giovanni 7   DOM NEC POT          2 votes  Giovanni:4
-1x Primo Giovanni               4   dom nec pot                   Giovanni:4
-1x Lia Milliner                 3   dom nec                       Giovanni:3
+Crypt (12 cards, min=19, max=36, avg=7.08)
+------------------------------------------
+5x Guillaume Giovanni            9  CEL DOM NEC POT obt           Giovanni:4
+2x Gualtiero Ghiberti            7  DOM NEC cel pot tha           Giovanni:4
+2x Raphaela Giovanni             6  DOM NEC pot pre               Giovanni:4
+1x Don Michael Antonio Giovanni  7  DOM NEC POT          2 votes  Giovanni:4
+1x Primo Giovanni                4  dom nec pot                   Giovanni:4
+1x Lia Milliner                  3  dom nec                       Giovanni:3
 
 Library (90 cards)
 Master (36; 3 trifle)

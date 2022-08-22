@@ -9,14 +9,14 @@ Deck Name: El secreto debe mantenerse
 
 -- GW3 + GW3 + 2 + 0.5VP in final
 
-Crypt (12 cards, min=22 max=35 avg=7.25)
-----------------------------------------
-3x Umdava         9   ABO ANI FOR PRE vic  magaji  Akunanse:4
-3x Nkule Galadima 8   ABO FOR ani aus pre  magaji  Akunanse:4
-3x Uchenna        7   ABO ANI FOR          magaji  Akunanse:4
-1x Sanjo          6   ANI FOR abo chi              Akunanse:3
-1x Tsunda         6   CHI abo ani dem      magaji  Ravnos:4
-1x Dolie          3   abo ani                      Akunanse:4
+Crypt (12 cards, min=22, max=35, avg=7.25)
+------------------------------------------
+3x Umdava          9  ABO ANI FOR PRE vic  magaji  Akunanse:4
+3x Nkule Galadima  8  ABO FOR ani aus pre  magaji  Akunanse:4
+3x Uchenna         7  ABO ANI FOR          magaji  Akunanse:4
+1x Sanjo           6  ANI FOR abo chi              Akunanse:3
+1x Tsunda          6  CHI abo ani dem      magaji  Ravnos:4
+1x Dolie           3  abo ani                      Akunanse:4
 
 Library (90 cards)
 Master (21; 5 trifle)

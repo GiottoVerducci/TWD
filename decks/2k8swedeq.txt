@@ -16,14 +16,14 @@ list. So mad props go out to these two (really awesome) players. I made
 some final adjustments on the morning before the tournament (normal) and
 it worked pretty well, having 2GW7.5VP in the prelims and 1.5VP in final.
 
-Crypt (12 cards, min=31 max=43 avg=9.25)
-----------------------------------------
-4x Anson                8   CEL PRE aus dom             prince          Toreador:1
-3x Alexandra            11  ANI AUS CEL PRE dom         inner circle    Toreador:2
-2x Anneke               10  AUS CEL PRE dom             justicar        Toreador:1
-1x François Villon      10  AUS CEL PRE chi obf pot     prince          Toreador:2
-1x Klaus van der Veken  9   CEL PRE aus obf tha         prince          Toreador:2
-1x Tatiana Romanov      7   AUS cel pre                 prince          Toreador:1
+Crypt (12 cards, min=31, max=43, avg=9.25)
+------------------------------------------
+4x Anson                 8  CEL PRE aus dom          prince        Toreador:1
+3x Alexandra            11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+2x Anneke               10  AUS CEL PRE dom          justicar      Toreador:1
+1x François Villon      10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Klaus van der Veken   9  CEL PRE aus obf tha      prince        Toreador:2
+1x Tatiana Romanov       7  AUS cel pre              prince        Toreador:1
 
 Library (75 cards)
 Master (30; 1 trifle)

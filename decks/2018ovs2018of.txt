@@ -12,14 +12,14 @@ Deck Name: Nephandus
 
 This deck is almost copy of EC 2017 Berlin finalist Jorge Delgados Nephandus deck, so thanks to him for that.
 
-Crypt (12 cards, min=8 max=20 avg=3.67)
----------------------------------------
-5x Antonio d'Erlette             5   THA dom for pot    Tremere antitribu:4
-2x Béatrice "Oracle171" Tremblay 3   inn ven            Innocent:4
-2x Tupdog                        1   POT VIS            Gargoyle:3
-1x Esoara                        5   DOM aus for pot    Tremere antitribu:4
-1x Keith Moody                   3   DOM                Tremere antitribu:4
-1x Saiz                          3   aus dom            Tremere antitribu:3
+Crypt (12 cards, min=8, max=20, avg=3.67)
+-----------------------------------------
+5x Antonio d'Erlette              5  THA dom for pot  Tremere antitribu:4
+2x Béatrice "Oracle171" Tremblay  3  inn ven          Innocent:4
+2x Tupdog                         1  POT VIS          Gargoyle:3
+1x Esoara                         5  DOM aus for pot  Tremere antitribu:4
+1x Keith Moody                    3  DOM              Tremere antitribu:4
+1x Saiz                           3  aus dom          Tremere antitribu:3
 
 Library (78 cards)
 Master (40; 2 trifle)

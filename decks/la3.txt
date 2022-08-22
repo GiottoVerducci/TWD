@@ -38,18 +38,18 @@ me. The neverending supply of stealthy bleeds eventually did the trick.
 
 -Robert
 
-Crypt (16 cards, min=6 max=13 avg=2.56)
----------------------------------------
-2x Dollface                         3   aus obf         Malkavian:1
-2x Regilio, The Seeker of Akhenaten 3   aus obf         Nosferatu:2
-2x Zöe                              3   AUS cel obf     Malkavian:2
-2x Dimple                           2   obf             Nosferatu:1
-2x Normal                           2   obf             Malkavian:1
-2x Basil                            1   obf             Pander:2
-1x Agrippina                        4   OBF pot         Nosferatu:1
-1x Duck                             3   obf pot         Nosferatu:1
-1x Watenda                          3   obf             Malkavian:2
-1x Yorik                            3   dem obf         Malkavian antitribu:2
+Crypt (16 cards, min=6, max=13, avg=2.56)
+-----------------------------------------
+2x Dollface                          3  aus obf      Malkavian:1
+2x Regilio, The Seeker of Akhenaten  3  aus obf      Nosferatu:2
+2x Zöe                               3  AUS cel obf  Malkavian:2
+2x Dimple                            2  obf          Nosferatu:1
+2x Normal                            2  obf          Malkavian:1
+2x Basil                             1  obf          Pander:2
+1x Agrippina                         4  OBF pot      Nosferatu:1
+1x Duck                              3  obf pot      Nosferatu:1
+1x Watenda                           3  obf          Malkavian:2
+1x Yorik                             3  dem obf      Malkavian antitribu:2
 
 Library (87 cards)
 Master (18)

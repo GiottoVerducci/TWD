@@ -9,17 +9,17 @@ Matt Strehlow
 Deck Name: Dmitra and her Ventrue Friends
 Created by: Rehlow
 
-Crypt (12 cards, min=19 max=36 avg=6.75)
-----------------------------------------
-4x Dmitra Ilyanova      9   CEL FOR POT PRE obf  justicar  Brujah:5
-1x Graham Gottesman     7   DOM FOR obf pre tha  prince    Ventrue:5
-1x Ubende               7   CEL PRE for obf qui  magaji    Ishtarri:4
-1x Mustafa, The Heir    6   FOR PRE cel dom      prince    Ventrue:4
-1x Victor Donaldson     6   DOM for pre          prince    Ventrue:5
-1x Emily Carson         5   DOM for pre          primogen  Ventrue:5
-1x Louis Fortier        5   aus dom for obf pre            Ventrue:4
-1x Victor Pelletier     5   PRE cel dom for                Ventrue:4
-1x Robin Withers        4   dom obf pre                    Ventrue:4
+Crypt (12 cards, min=19, max=36, avg=6.75)
+------------------------------------------
+4x Dmitra Ilyanova    9  CEL FOR POT PRE obf  justicar  Brujah:5
+1x Graham Gottesman   7  DOM FOR obf pre tha  prince    Ventrue:5
+1x Ubende             7  CEL PRE for obf qui  magaji    Ishtarri:4
+1x Mustafa, The Heir  6  FOR PRE cel dom      prince    Ventrue:4
+1x Victor Donaldson   6  DOM for pre          prince    Ventrue:5
+1x Emily Carson       5  DOM for pre          primogen  Ventrue:5
+1x Louis Fortier      5  aus dom for obf pre            Ventrue:4
+1x Victor Pelletier   5  PRE cel dom for                Ventrue:4
+1x Robin Withers      4  dom obf pre                    Ventrue:4
 
 Library (90 cards)
 Master (20; 6 trifle)

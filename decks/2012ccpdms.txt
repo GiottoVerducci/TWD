@@ -9,15 +9,15 @@ Jorge Verdi
 
 Deck Name: The Path of Pain
 
-Crypt (12 cards, min=24 max=38 avg=7.83)
-----------------------------------------
-2x Matteus, Flesh Sculptor               10  AUS CEL PRE VIC    priscus     Toreador antitribu:2
-2x Donatien                              9   AUS PRE cel pot    cardinal    Toreador antitribu:2
-2x Lachlan, Noddist                      8   AUS CEL PRE dom    archbishop  Toreador antitribu:2
-2x Venere Carboni                        8   AUS CEL PRE ani    priscus     Toreador antitribu:3
-2x Michael Luther                        4   aus pre                        Toreador:3
-1x Jessica (ADV)                         8   AUS CEL OBT PRE    bishop      Toreador antitribu:2
-1x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro    bishop      Toreador antitribu:2
+Crypt (12 cards, min=24, max=38, avg=7.83)
+------------------------------------------
+2x Matteus, Flesh Sculptor                10  AUS CEL PRE VIC  priscus     Toreador antitribu:2
+2x Donatien                                9  AUS PRE cel pot  cardinal    Toreador antitribu:2
+2x Lachlan, Noddist                        8  AUS CEL PRE dom  archbishop  Toreador antitribu:2
+2x Venere Carboni                          8  AUS CEL PRE ani  priscus     Toreador antitribu:3
+2x Michael Luther                          4  aus pre                      Toreador:3
+1x Jessica (ADV)                           8  AUS CEL OBT PRE  bishop      Toreador antitribu:2
+1x Miller Delmardigan, Teacher of Bahari   8  CEL PRE aus pro  bishop      Toreador antitribu:2
 
 Library (90 cards)
 Master (16; 7 trifle)

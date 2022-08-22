@@ -6,14 +6,14 @@ Herberth Alves
 
 Untitled !Ventrue
 
-Crypt (12 cards, min=31 max=38 avg=8.67)
-----------------------------------------
-3x Kyle Strathcona, Cardinal of Canada  9   AUS DOM POT PRE for  cardinal       Ventrue antitribu:2
-2x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop     Ventrue antitribu:2
-2x Quentin                              9   AUS DOM FOR cel obt  bishop         Ventrue antitribu:2
-2x Gustav Mallenhous                    8   AUS DOM for obt      priscus        Ventrue antitribu:2
-2x Owain Evans, The Wanderer            8   AUS DOM FOR cel pre                 Ventrue antitribu:3
-1x Joseph O'Grady                       7   DOM FOR aus cel                     Ventrue antitribu:3
+Crypt (12 cards, min=31, max=38, avg=8.67)
+------------------------------------------
+3x Kyle Strathcona, Cardinal of Canada   9  AUS DOM POT PRE for  cardinal    Ventrue antitribu:2
+2x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop  Ventrue antitribu:2
+2x Quentin                               9  AUS DOM FOR cel obt  bishop      Ventrue antitribu:2
+2x Gustav Mallenhous                     8  AUS DOM for obt      priscus     Ventrue antitribu:2
+2x Owain Evans, The Wanderer             8  AUS DOM FOR cel pre              Ventrue antitribu:3
+1x Joseph O'Grady                        7  DOM FOR aus cel                  Ventrue antitribu:3
 
 Library (90 cards)
 Master (23)

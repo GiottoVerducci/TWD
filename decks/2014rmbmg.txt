@@ -31,13 +31,13 @@ there. I can't consistenly win against combat heavy decks but I can survive
 the one or two critical combats and have some hitback and I can usually
 obliterate anything that doesn't fight at all.
 
-Crypt (12 cards, min=33 max=43 avg=9.58)
-----------------------------------------
-4x Aksinya Daclau  9   ANI FOR PRE PRO cel tha            Gangrel antitribu:4
-3x Fakir al Sidi   11  ANI FOR PRE PRO THA abo            Gangrel:4
-3x Mictlantecuhtli 10  ANI FOR POT THA pre pro            Gangrel:5
-1x Mimir           10  ANI FOR PRO THA dom      cardinal  Gangrel antitribu:5
-1x Janey Pickman   6   ANI PRO for                        Gangrel antitribu:4
+Crypt (12 cards, min=33, max=43, avg=9.58)
+------------------------------------------
+4x Aksinya Daclau    9  ANI FOR PRE PRO cel tha            Gangrel antitribu:4
+3x Fakir al Sidi    11  ANI FOR PRE PRO THA abo            Gangrel:4
+3x Mictlantecuhtli  10  ANI FOR POT THA pre pro            Gangrel:5
+1x Mimir            10  ANI FOR PRO THA dom      cardinal  Gangrel antitribu:5
+1x Janey Pickman     6  ANI PRO for                        Gangrel antitribu:4
 
 Library (90 cards)
 Master (22; 9 trifle)

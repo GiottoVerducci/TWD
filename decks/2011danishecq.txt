@@ -12,14 +12,14 @@ Deck Name: Demons and Masters
 Description: An unsuccessful Cybele Baali bleed deck where I added
 Aksinya and Nana and 15 masters, and then it worked out well.
 
-Crypt (12 cards, min=27 max=40 avg=8.58)
-----------------------------------------
-4x Cybele                  10  ANI DAI OBF PRE SER THA           Baali:4
-2x Aksinya Daclau          9   ANI FOR PRE PRO cel tha           Gangrel antitribu:4
-2x Annazir                 9   DAI OBF POT PRE          2 votes  Baali:5
-2x Maureen, Dark Priestess 6   DAI PRE dom obf          1 vote   Baali:4
-1x Nana Buruku             8   ANI POT PRE                       Guruhi:4
-1x Azaneal                 7   DAI OBF OBT pre tha               Baali:4
+Crypt (12 cards, min=27, max=40, avg=8.58)
+------------------------------------------
+4x Cybele                   10  ANI DAI OBF PRE SER THA           Baali:4
+2x Aksinya Daclau            9  ANI FOR PRE PRO cel tha           Gangrel antitribu:4
+2x Annazir                   9  DAI OBF POT PRE          2 votes  Baali:5
+2x Maureen, Dark Priestess   6  DAI PRE dom obf          1 vote   Baali:4
+1x Nana Buruku               8  ANI POT PRE                       Guruhi:4
+1x Azaneal                   7  DAI OBF OBT pre tha               Baali:4
 
 Library (74 cards)
 Master (39; 9 trifle)

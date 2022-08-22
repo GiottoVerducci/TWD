@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/9551
 
 Deck Name:
 
-Crypt (12 cards, min=21 max=33 avg=6.75)
-----------------------------------------
-2x Cagliostro, The Grand Copht  8   OBF PRE SER nec pot            Follower of Set:4
-2x Ankh-sen-Sutekh              6   PRE SER obf                    Follower of Set:4
-2x Zhenga                       5   SER obf pre                    Follower of Set:4
-1x Porphyrion                   9   CHI OBF PRE SER for            Follower of Set:5
-1x Arnulf Jormungandrsson       8   OBF PRE SER aus cel            Follower of Set:5
-1x Amenophobis                  7   OBF SER dom pre      primogen  Follower of Set:4
-1x Bupe Kuila                   7   OBF POT SER pre                Follower of Set:4
-1x Ogwon                        7   OBF PRE SER for                Follower of Set:5
-1x Abdelsobek                   5   for nec obf pre ser            Follower of Set:5
+Crypt (12 cards, min=21, max=33, avg=6.75)
+------------------------------------------
+2x Cagliostro, The Grand Copht  8  OBF PRE SER nec pot            Follower of Set:4
+2x Ankh-sen-Sutekh              6  PRE SER obf                    Follower of Set:4
+2x Zhenga                       5  SER obf pre                    Follower of Set:4
+1x Porphyrion                   9  CHI OBF PRE SER for            Follower of Set:5
+1x Arnulf Jormungandrsson       8  OBF PRE SER aus cel            Follower of Set:5
+1x Amenophobis                  7  OBF SER dom pre      primogen  Follower of Set:4
+1x Bupe Kuila                   7  OBF POT SER pre                Follower of Set:4
+1x Ogwon                        7  OBF PRE SER for                Follower of Set:5
+1x Abdelsobek                   5  for nec obf pre ser            Follower of Set:5
 
 Library (82 cards)
 Master (22; 8 trifle)

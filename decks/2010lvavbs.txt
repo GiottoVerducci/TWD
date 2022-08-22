@@ -7,15 +7,15 @@ David Martín Berbel
 
 Deck Name: Hardestadt & Cia
 
-Crypt (12 cards, min=25 max=44 avg=8.83)
-----------------------------------------
-4x Hardestadt           11  DOM FOR POT PRE cel pro      inner circle   Ventrue:4
-2x Dmitra Ilyanova      9   CEL FOR POT PRE obf          justicar       Brujah:5
-2x Victor Pelletier     5   PRE cel dom for                             Ventrue:4
-1x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot      justicar       Ventrue:5
-1x Hektor               9   CEL POT PRE QUI for          priscus        Brujah antitribu:4
-1x Count Germaine (ADV) 8   CEL FOR POT PRE obf                         Brujah:4
-1x Don Cerro            7   CEL POT aus dom for pre pro                 Brujah:5
+Crypt (12 cards, min=25, max=44, avg=8.83)
+------------------------------------------
+4x Hardestadt            11  DOM FOR POT PRE cel pro      inner circle  Ventrue:4
+2x Dmitra Ilyanova        9  CEL FOR POT PRE obf          justicar      Brujah:5
+2x Victor Pelletier       5  PRE cel dom for                            Ventrue:4
+1x Mary Anne Blaire      10  AUS DOM FOR PRE ani pot      justicar      Ventrue:5
+1x Hektor                 9  CEL POT PRE QUI for          priscus       Brujah antitribu:4
+1x Count Germaine (ADV)   8  CEL FOR POT PRE obf                        Brujah:4
+1x Don Cerro              7  CEL POT aus dom for pre pro                Brujah:5
 
 Library (89 cards)
 Master (14; 5 trifle)

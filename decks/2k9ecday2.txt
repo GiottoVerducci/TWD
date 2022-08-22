@@ -10,18 +10,18 @@ Martin Weinmayer
 Deck Name: Jost on Vacation
 Created by: Walter Paolini
 
-Crypt (12 cards, min=12 max=24 avg=4.5)
----------------------------------------
-3x Jost Werner                  6   AUS PRE ani         Toreador antitribu:2
-1x Sheila Mezarin               6   AUS PRE cel for     Toreador antitribu:2
-1x Angela Preston               5   MEL PRE for         Daughter of Cacophony:2
-1x Jazz Wentworth               5   PRE dom for         Ventrue:1
-1x Mariana Gilbert              4   PRE cel             Toreador:1
-1x Remilliard, Devout Crusader  4   AUS pre             Toreador antitribu:2
-1x Gideon Fontaine              3   PRE                 Ventrue:1
-1x Isabel de Leon               3   AUS                 Toreador:2
-1x Lolita                       3   for pre             Toreador antitribu:2
-1x Roland Loussarian            3   for pre             Ventrue:1
+Crypt (12 cards, min=12, max=24, avg=4.5)
+-----------------------------------------
+3x Jost Werner                  6  AUS PRE ani      Toreador antitribu:2
+1x Sheila Mezarin               6  AUS PRE cel for  Toreador antitribu:2
+1x Angela Preston               5  MEL PRE for      Daughter of Cacophony:2
+1x Jazz Wentworth               5  PRE dom for      Ventrue:1
+1x Mariana Gilbert              4  PRE cel          Toreador:1
+1x Remilliard, Devout Crusader  4  AUS pre          Toreador antitribu:2
+1x Gideon Fontaine              3  PRE              Ventrue:1
+1x Isabel de Leon               3  AUS              Toreador:2
+1x Lolita                       3  for pre          Toreador antitribu:2
+1x Roland Loussarian            3  for pre          Ventrue:1
 
 Library (80 cards)
 Master (14)

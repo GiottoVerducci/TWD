@@ -18,12 +18,12 @@ Focus on the cards that will actually win you the game.
 Also plan ahead, you have enough recursion to get the things you need, but most of the time you need a turn or 2 to get there, so plan your actions correctly and don't get caught on the critical one.
 Overly simplified: If you are thinking: Should I discard to Alafin? The answer is yes... it will get you more Legionnaires and you can get everything back if you really need it...
 
-Crypt (12 cards, min=8 max=28 avg=5.17)
----------------------------------------
-4x Babalawo Alafin 7   AUS FOR NEC ani  Harbinger of Skulls:4
-3x Erebus          7   AUS FOR NEC dem  Harbinger of Skulls:3
-3x Anarch Convert  1   -none-           Caitiff:ANY
-2x Solomon Batanea 5   AUS FOR nec      Harbinger of Skulls:4
+Crypt (12 cards, min=8, max=28, avg=5.17)
+-----------------------------------------
+4x Babalawo Alafin  7  AUS FOR NEC ani  Harbinger of Skulls:4
+3x Erebus           7  AUS FOR NEC dem  Harbinger of Skulls:3
+3x Anarch Convert   1  -none-           Caitiff:ANY
+2x Solomon Batanea  5  AUS FOR nec      Harbinger of Skulls:4
 
 Library (90 cards)
 Master (17; 3 trifle)

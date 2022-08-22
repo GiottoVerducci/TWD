@@ -12,17 +12,17 @@ of Shadows. Nosferatu Kingdom goes out... in older
 version of this deck, there were more Nosferatu,
 now there is only Cailean, so i just forgot to throw it out.
 
-Crypt (12 cards, min=5 max=40 avg=4.42)
----------------------------------------
-4x Cailean                         10  ANI OBF POT PRE dom  archbishop  Nosferatu antitribu:2
-1x Christine Boscacci              2   dom vic                          Pander:2
-1x Frederick the Weak              2   pre                              Brujah antitribu:2
-1x Marciana Giovanni, Investigator 2   dom                              Giovanni:2
-1x Ohanna                          2   dom                              Malkavian:2
-1x Samson                          2   dom                              Ventrue antitribu:2
-1x Angela Decker                   1   pre                              Pander:2
-1x Basil                           1   obf                              Pander:2
-1x Royce                           1   dom                              Pander:2
+Crypt (12 cards, min=5, max=40, avg=4.42)
+-----------------------------------------
+4x Cailean                          10  ANI OBF POT PRE dom  archbishop  Nosferatu antitribu:2
+1x Christine Boscacci                2  dom vic                          Pander:2
+1x Frederick the Weak                2  pre                              Brujah antitribu:2
+1x Marciana Giovanni, Investigator   2  dom                              Giovanni:2
+1x Ohanna                            2  dom                              Malkavian:2
+1x Samson                            2  dom                              Ventrue antitribu:2
+1x Angela Decker                     1  pre                              Pander:2
+1x Basil                             1  obf                              Pander:2
+1x Royce                             1  dom                              Pander:2
 
 Library (60 cards)
 Master (17; 3 trifle)

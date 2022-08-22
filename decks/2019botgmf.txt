@@ -20,15 +20,15 @@ Vincent Dormois (!Ventrue grinder) -> Christophe Baltazar (Emerald Legionnaire) 
 
 The final includes 3 “Emerald legionnaire” decks. Alain, Thomas and Christophe were playing same crypts with emeralds. The 3 emeralds players have to share the vampires to avoid the contest. Quickly they develop their game. An early unmasking prevents Vincent from passing his equipments / Govern / hunt. The game crystallizes between Thomas and Vincent who plays a !ventrue grinder deck. Vincent temporarily resist with sticks, prevents and much bounce bleed. Gradually, Thomas exhausts Vincent’s vamps. Christophe and Alain ditto. So Sébastien, with his deck stanislava, makes his game without real predator. He passes his prey in stealth. When the situation is unblocked with the death of Thomas, the table is so fragile that Sébastien has only to pick up the crumbs.
 
-Crypt (12 cards, min=36 max=44 avg=10.08)
------------------------------------------
-4x Stanislava     11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
-2x Xaviar (ADV)   10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
-2x Ingrid Rossler 9   ANI FOR PRO dom              prince        Gangrel:2
-1x Etrius         11  AUS DOM OBF THA pro          inner circle  Tremere:2
-1x Genevieve      10  ANI FOR PRO aus dom          priscus       Gangrel antitribu:2
-1x Hartmut Stover 10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
-1x Mark Decker    8   CEL PRO ani for obf pot      prince        Gangrel:3
+Crypt (12 cards, min=36, max=44, avg=10.08)
+-------------------------------------------
+4x Stanislava      11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+2x Xaviar (ADV)    10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+2x Ingrid Rossler   9  ANI FOR PRO dom              prince        Gangrel:2
+1x Etrius          11  AUS DOM OBF THA pro          inner circle  Tremere:2
+1x Genevieve       10  ANI FOR PRO aus dom          priscus       Gangrel antitribu:2
+1x Hartmut Stover  10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+1x Mark Decker      8  CEL PRO ani for obf pot      prince        Gangrel:3
 
 Library (90 cards)
 Master (20; 6 trifle)

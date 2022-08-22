@@ -23,17 +23,17 @@ podem responder muito usando as eat the rich, a qual, também ganha força com a
 vantagem do bleed, que além de permitir a queima do edge por 2 votos, coloca
 propaganda. O deck usa apenas ofuscação, o que ajuda a passar as ações.
 
-Crypt (12 cards, min=4 max=14 avg=2.17)
----------------------------------------
-4x Anarch Convert       1   -none-      Caitiff:ANY
-1x Florentina Lengauer  4   OBF aus     Malkavian:4
-1x Jeffrey Mullins      4   OBF cel     Gangrel antitribu:4
-1x Roger Farnsworth     4   OBF aus     Malkavian antitribu:3
-1x Bloodfeud            2   obf         Malkavian antitribu:4
-1x Denette Stensen      2   obf         Gangrel antitribu:4
-1x Hanna Redmonds       2   obf tha     Caitiff:3
-1x Krid                 2   obf         Nosferatu:3
-1x Old Neddacka         2   obf         Nosferatu antitribu:4
+Crypt (12 cards, min=4, max=14, avg=2.17)
+-----------------------------------------
+4x Anarch Convert       1  -none-   Caitiff:ANY
+1x Florentina Lengauer  4  OBF aus  Malkavian:4
+1x Jeffrey Mullins      4  OBF cel  Gangrel antitribu:4
+1x Roger Farnsworth     4  OBF aus  Malkavian antitribu:3
+1x Bloodfeud            2  obf      Malkavian antitribu:4
+1x Denette Stensen      2  obf      Gangrel antitribu:4
+1x Hanna Redmonds       2  obf tha  Caitiff:3
+1x Krid                 2  obf      Nosferatu:3
+1x Old Neddacka         2  obf      Nosferatu antitribu:4
 
 Library (89 cards)
 Master (17; 3 trifle)

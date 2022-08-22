@@ -12,19 +12,19 @@ Deck Name: Cryptic Mission
 
 2 vp, 2 vp, 0 vp, 3 VP in final
 
-Crypt (13 cards, min=11 max=23 avg=4.38)
-----------------------------------------
-2x Selena               6   AUS DOM THA                 Tremere antitribu:3
-2x Hannigan             5   AUS THA dom                 Tremere antitribu:2
-1x Reverend Blackwood   6   DOM THA obf         bishop  Tremere antitribu:2
-1x Aisling Sturbridge   5   AUS THA dom                 Tremere:2
-1x Cohn Rose            5   THA aus dom pre             Tremere:3
-1x Kyoko Shinsegawa     5   aus cel dom for             Tremere:3
-1x Blythe Candeleria    3   THA aus                     Tremere:2
-1x Brooke               3   dom tha                     Tremere antitribu:2
-1x Ehrich Weiss         3   dom tha                     Tremere:3
-1x Masika St. John      3   THA                         Tremere:3
-1x Heinrick Schlempt    2   tha                         Tremere antitribu:2
+Crypt (13 cards, min=11, max=23, avg=4.38)
+------------------------------------------
+2x Selena              6  AUS DOM THA              Tremere antitribu:3
+2x Hannigan            5  AUS THA dom              Tremere antitribu:2
+1x Reverend Blackwood  6  DOM THA obf      bishop  Tremere antitribu:2
+1x Aisling Sturbridge  5  AUS THA dom              Tremere:2
+1x Cohn Rose           5  THA aus dom pre          Tremere:3
+1x Kyoko Shinsegawa    5  aus cel dom for          Tremere:3
+1x Blythe Candeleria   3  THA aus                  Tremere:2
+1x Brooke              3  dom tha                  Tremere antitribu:2
+1x Ehrich Weiss        3  dom tha                  Tremere:3
+1x Masika St. John     3  THA                      Tremere:3
+1x Heinrick Schlempt   2  tha                      Tremere antitribu:2
 
 Library (87 cards)
 Master (22; 5 trifle)

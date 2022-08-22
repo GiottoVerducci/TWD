@@ -15,20 +15,20 @@ Patterns in superior). The deck performed well all day, but there are
 definately things I would tweak. I would remove a few (probably 3) of
 The Call and add a few more bleed cards and/or votes.
 
-Crypt (12 cards, min=16 max=34 avg=6.17)
-----------------------------------------
-1x Rachel Brandywine              10  AUS DEM OBF PRO ani  prince       Malkavian:3
-1x Imogen                         9   AUS DEM obf pro vic  archbishop   Malkavian antitribu:2
-1x Rodolfo                        8   AUS DEM OBF pro      bishop       Malkavian antitribu:3
-1x Kite                           7   AUS DEM obf pre      bishop       Malkavian antitribu:2
-1x Korah                          7   AUS DEM OBF ani      priscus      Malkavian antitribu:2
-1x Dolphin Black                  6   AUS DEM OBF                       Malkavian antitribu:2
-1x Tony                           6   AUS DEM dom obf                   Malkavian:3
-1x Colonel, The                   5   AUS cel dem obf                   Malkavian antitribu:3
-1x General Perfidio Díos          5   AUS dem obf          bishop       Malkavian antitribu:3
-1x Claven                         4   aus dem obf                       Malkavian antitribu:2
-1x Idalia, Prophet of Guadalajara 4   AUS dem                           Malkavian antitribu:2
-1x Yorik                          3   dem obf                           Malkavian antitribu:2
+Crypt (12 cards, min=16, max=34, avg=6.17)
+------------------------------------------
+1x Rachel Brandywine               10  AUS DEM OBF PRO ani  prince      Malkavian:3
+1x Imogen                           9  AUS DEM obf pro vic  archbishop  Malkavian antitribu:2
+1x Rodolfo                          8  AUS DEM OBF pro      bishop      Malkavian antitribu:3
+1x Kite                             7  AUS DEM obf pre      bishop      Malkavian antitribu:2
+1x Korah                            7  AUS DEM OBF ani      priscus     Malkavian antitribu:2
+1x Dolphin Black                    6  AUS DEM OBF                      Malkavian antitribu:2
+1x Tony                             6  AUS DEM dom obf                  Malkavian:3
+1x Colonel, The                     5  AUS cel dem obf                  Malkavian antitribu:3
+1x General Perfidio Díos            5  AUS dem obf          bishop      Malkavian antitribu:3
+1x Claven                           4  aus dem obf                      Malkavian antitribu:2
+1x Idalia, Prophet of Guadalajara   4  AUS dem                          Malkavian antitribu:2
+1x Yorik                            3  dem obf                          Malkavian antitribu:2
 
 Library (90 cards)
 Master (16)

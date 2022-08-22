@@ -7,23 +7,23 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/udaQB8C9qNo
 
 Weenie-Presence
 
-Crypt (17 cards, min=5 max=15 avg=2.65)
----------------------------------------
-2x Gideon Fontaine                      3   PRE          Ventrue:1
-2x Lena Rowe                            3   aus obf pre  Pander:2
-1x Mariana Gilbert                      4   PRE cel      Toreador:1
-1x Remilliard, Devout Crusader          4   AUS pre      Toreador antitribu:2
-1x Violette Prentiss                    4   PRE dom      Ventrue:1
-1x Isabel de Leon                       3   AUS          Toreador:2
-1x Itzahk Levine                        3   cel pre      Ventrue:2
-1x Khalil Anvari                        3   pre ser      Follower of Set:2
-1x Uma Hatch                            3   cel pre      Brujah:1
-1x Delilah Easton                       2   pre          Toreador:1
-1x Frederick the Weak                   2   pre          Brujah antitribu:2
-1x Vasilis, The Traitor of Don Cruez    2   pre          Brujah:2
-1x Antoinette DuChamp                   1   cel pre      Caitiff:2
-1x Franciscus                           1   aus          Caitiff:2
-1x Igo the Hungry                       1   pre pro      Caitiff:1
+Crypt (17 cards, min=5, max=15, avg=2.65)
+-----------------------------------------
+2x Gideon Fontaine                    3  PRE          Ventrue:1
+2x Lena Rowe                          3  aus obf pre  Pander:2
+1x Mariana Gilbert                    4  PRE cel      Toreador:1
+1x Remilliard, Devout Crusader        4  AUS pre      Toreador antitribu:2
+1x Violette Prentiss                  4  PRE dom      Ventrue:1
+1x Isabel de Leon                     3  AUS          Toreador:2
+1x Itzahk Levine                      3  cel pre      Ventrue:2
+1x Khalil Anvari                      3  pre ser      Follower of Set:2
+1x Uma Hatch                          3  cel pre      Brujah:1
+1x Delilah Easton                     2  pre          Toreador:1
+1x Frederick the Weak                 2  pre          Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez  2  pre          Brujah:2
+1x Antoinette DuChamp                 1  cel pre      Caitiff:2
+1x Franciscus                         1  aus          Caitiff:2
+1x Igo the Hungry                     1  pre pro      Caitiff:1
 
 Library (89 cards)
 Master (28)

@@ -13,15 +13,15 @@ Created by: Maciej "ZaraZ" Kozłowski & Marcin "Dude" Szybkowski
 
 Sick of anti-Legionnaire hate, I decided to get rid of the Legionnaires and explore other paths for the Harbingers. I had a rough idea of what I wanted to do, but I didn't really get down to it until the eve of the tournament, finished tweaking & consulting it with Marcin at midnight, which left me with no other testing ground than the tournament itself. The deck has some issues with blood management, a few Perfectionists would probably help with that. The guns should both be replaced with .44s, as the maneuver can either help move away from some more dangerous individuals or move closer to some single-manuever Animalism, for example. I have not played Lupine Assault even a single time, so I'd get rid of that - there were always some cards I wanted to keep in my hand, there is nothing to retrieve them from the ash heap. Villeins should be replaced with Vessels, at least until the blood management issues are solved. Last, but definitely not least: Kiss of Ra is golden, it proved to be highly effective in getting rid of annoying star-blockers, first Masika and then Anson in the final.
 
-Crypt (12 cards, min=21 max=40 avg=7.25)
-----------------------------------------
-4x Erlik           10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-2x Zygodat         6   AUS NEC pot          Harbinger of Skulls:4
-2x Nicomedes       5   aus for nec vic      Harbinger of Skulls:4
-1x Babalawo Alafin 7   AUS FOR NEC ani      Harbinger of Skulls:4
-1x Erebus          7   AUS FOR NEC dem      Harbinger of Skulls:3
-1x Mina Grotius    6   FOR NEC cel          Harbinger of Skulls:3
-1x Solomon Batanea 5   AUS FOR nec          Harbinger of Skulls:4
+Crypt (12 cards, min=21, max=40, avg=7.25)
+------------------------------------------
+4x Erlik            10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+2x Zygodat           6  AUS NEC pot          Harbinger of Skulls:4
+2x Nicomedes         5  aus for nec vic      Harbinger of Skulls:4
+1x Babalawo Alafin   7  AUS FOR NEC ani      Harbinger of Skulls:4
+1x Erebus            7  AUS FOR NEC dem      Harbinger of Skulls:3
+1x Mina Grotius      6  FOR NEC cel          Harbinger of Skulls:3
+1x Solomon Batanea   5  AUS FOR nec          Harbinger of Skulls:4
 
 Library (90 cards)
 Master (15; 5 trifle)

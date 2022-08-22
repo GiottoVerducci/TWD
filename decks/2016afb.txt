@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/8317
 
 Deck Name: Golfinho Negro
 
-Crypt (12 cards, min=19 max=38 avg=7.25)
-----------------------------------------
-2x Hannibal             10  AUS DEM OBF cel dom  cardinal  Malkavian antitribu:2
-2x Aristotle de Laurent 9   AUS DEM OBF PRE pot            Malkavian antitribu:3
-2x Dolphin Black        6   AUS DEM OBF                    Malkavian antitribu:2
-2x Muriel Foucade       5   DEM aus                        Malkavian antitribu:2
-1x Vasantasena          9   AUS DEM OBF dom pot            Malkavian antitribu:2
-1x Rodolfo              8   AUS DEM OBF pro      bishop    Malkavian antitribu:3
-1x Korah                7   AUS DEM OBF ani      priscus   Malkavian antitribu:2
-1x Yorik                3   dem obf                        Malkavian antitribu:2
+Crypt (12 cards, min=19, max=38, avg=7.25)
+------------------------------------------
+2x Hannibal              10  AUS DEM OBF cel dom  cardinal  Malkavian antitribu:2
+2x Aristotle de Laurent   9  AUS DEM OBF PRE pot            Malkavian antitribu:3
+2x Dolphin Black          6  AUS DEM OBF                    Malkavian antitribu:2
+2x Muriel Foucade         5  DEM aus                        Malkavian antitribu:2
+1x Vasantasena            9  AUS DEM OBF dom pot            Malkavian antitribu:2
+1x Rodolfo                8  AUS DEM OBF pro      bishop    Malkavian antitribu:3
+1x Korah                  7  AUS DEM OBF ani      priscus   Malkavian antitribu:2
+1x Yorik                  3  dem obf                        Malkavian antitribu:2
 
 Library (90 cards)
 Master (15)

@@ -14,16 +14,16 @@ I expected less combat and more bleed. Changes were
 Big thanks to Ben Peal for his ongoing Support of our game, and all the cool
 People i was blessed to meet there!
 
-Crypt (12 cards, min=36 max=44 avg=10.08)
------------------------------------------
-4x Stanislava           11  ANI CEL DOM FOR PRO         inner circle    Gangrel:2
-2x Ingrid Rossler       9   ANI FOR PRO dom             prince          Gangrel:2
-1x Etrius               11  AUS DOM OBF THA pro         inner circle    Tremere:2
-1x Genevieve            10  ANI FOR PRO aus dom         priscus         Gangrel antitribu:2
-1x Hartmut Stover       10  CEL OBF PRO dom for         archbishop      Gangrel antitribu:3
-1x Rachel Brandywine    10  AUS DEM OBF PRO ani         prince          Malkavian:3
-1x Xaviar               10  ANI FOR PRO aus cel pot     2 votes         Gangrel:3
-1x Mark Decker          8   CEL PRO ani for obf pot     prince          Gangrel:3
+Crypt (12 cards, min=36, max=44, avg=10.08)
+-------------------------------------------
+4x Stanislava         11  ANI CEL DOM FOR PRO      inner circle  Gangrel:2
+2x Ingrid Rossler      9  ANI FOR PRO dom          prince        Gangrel:2
+1x Etrius             11  AUS DOM OBF THA pro      inner circle  Tremere:2
+1x Genevieve          10  ANI FOR PRO aus dom      priscus       Gangrel antitribu:2
+1x Hartmut Stover     10  CEL OBF PRO dom for      archbishop    Gangrel antitribu:3
+1x Rachel Brandywine  10  AUS DEM OBF PRO ani      prince        Malkavian:3
+1x Xaviar             10  ANI FOR PRO aus cel pot  2 votes       Gangrel:3
+1x Mark Decker         8  CEL PRO ani for obf pot  prince        Gangrel:3
 
 Library (88 cards)
 Master (22; 7 trifle)

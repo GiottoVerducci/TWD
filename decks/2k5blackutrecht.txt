@@ -8,19 +8,19 @@ Deck Name: Dip me in chocolate, and throw me to the lesbians.
 
 Deck concept stealer: Emile Bosman
 
-Crypt (12 cards, min=10 max=29 avg=4.92)
-----------------------------------------
-2x Gabrin                       8   ANI CHI dom for     Ravnos:2
-1x Natalia                      7   ANI chi dom for     Ravnos:2
-1x Joaquina Amaya               6   ANI CHI FOR         Ravnos:2
-1x Vaclav Petalengro            6   ANI CHI for pot     Ravnos:2
-1x Ghivran Dalaal, The Dead God 5   FOR ani aus chi     Ravnos:2
-1x Khalil Ravana                5   CHI ani for pre     Ravnos:2
-1x Salbatore Bokkengro          4   CHI for pro         Ravnos:2
-1x Tsigane                      3   aus chi             Ravnos:2
-1x Vedel Esbreno                3   chi for             Ravnos:2
-1x Sasha Miklos                 2   chi                 Ravnos:2
-1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
+Crypt (12 cards, min=10, max=29, avg=4.92)
+------------------------------------------
+2x Gabrin                        8  ANI CHI dom for  Ravnos:2
+1x Natalia                       7  ANI chi dom for  Ravnos:2
+1x Joaquina Amaya                6  ANI CHI FOR      Ravnos:2
+1x Vaclav Petalengro             6  ANI CHI for pot  Ravnos:2
+1x Ghivran Dalaal, The Dead God  5  FOR ani aus chi  Ravnos:2
+1x Khalil Ravana                 5  CHI ani for pre  Ravnos:2
+1x Salbatore Bokkengro           4  CHI for pro      Ravnos:2
+1x Tsigane                       3  aus chi          Ravnos:2
+1x Vedel Esbreno                 3  chi for          Ravnos:2
+1x Sasha Miklos                  2  chi              Ravnos:2
+1x Spleen, Georgio Gutterpunk    2  ani chi          Ravnos:2
 
 Library (82 cards)
 Master (31)

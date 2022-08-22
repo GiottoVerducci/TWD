@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/8900
 
 Deck Name: Lasombra’s WTF BBQ
 
-Crypt (12 cards, min=28 max=42 avg=8.83)
-----------------------------------------
-4x Antón de Concepción    9   ANI DOM OBT POT aus       archbishop  Lasombra:4
-2x Montano                11  ANI DOM FOR OBT POT       2 votes     Lasombra:3
-2x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf               Nosferatu antitribu:4
-2x Conrad Adoula          8   DOM OBT POT ani cel                   Lasombra:4
-2x Otieno                 6   OBT POT ani dom                       Lasombra:4
+Crypt (12 cards, min=28, max=42, avg=8.83)
+------------------------------------------
+4x Antón de Concepción      9  ANI DOM OBT POT aus      archbishop  Lasombra:4
+2x Montano                 11  ANI DOM FOR OBT POT      2 votes     Lasombra:3
+2x Servius Marius Pustula  10  ANI CHI DOM OBT POT obf              Nosferatu antitribu:4
+2x Conrad Adoula            8  DOM OBT POT ani cel                  Lasombra:4
+2x Otieno                   6  OBT POT ani dom                      Lasombra:4
 
 Library (90 cards)
 Master (12; 5 trifle)

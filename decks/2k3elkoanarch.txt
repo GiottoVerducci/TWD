@@ -32,20 +32,20 @@ looking at the Elder Library database, there wasn't many I wished to
 add. Sometimes the deck wasn't cycling cards fast enough, but that is
 something that could have been remedied at the time.
 
-Crypt (12 cards, min=17 max=26 avg=5.33)
-----------------------------------------
-1x Jeremy MacNeil               7   AUS POT PRE cel chi            Brujah:3
-1x Suzanne Kadim                7   CEL PRE aus dom obf            Toreador:3
-1x Jost Werner                  6   AUS PRE ani                    Toreador antitribu:2
-1x Sigrid Bekker                6   AUS cel pot pre                Toreador:2
-1x Victoria Ash                 6   PRE aus cel dom      primogen  Toreador:2
-1x Barth                        5   PRE aus cel                    Toreador:3
-1x Rigby, Crusade Vanguard      5   CEL PRE aus pot                Brujah antitribu:2
-1x Rose, The                    5   PRE VIC aus                    Tzimisce:3
-1x Sir Marriot D'Urban          5   PRE aus obf ser                Follower of Set:2
-1x Maldavis                     4   AUS for pre                    Caitiff:3
-1x Remilliard, Devout Crusader  4   AUS pre                        Toreador antitribu:2
-1x Sir Henry Johnson            4   aus pot pre                    Toreador:3
+Crypt (12 cards, min=17, max=26, avg=5.33)
+------------------------------------------
+1x Jeremy MacNeil               7  AUS POT PRE cel chi            Brujah:3
+1x Suzanne Kadim                7  CEL PRE aus dom obf            Toreador:3
+1x Jost Werner                  6  AUS PRE ani                    Toreador antitribu:2
+1x Sigrid Bekker                6  AUS cel pot pre                Toreador:2
+1x Victoria Ash                 6  PRE aus cel dom      primogen  Toreador:2
+1x Barth                        5  PRE aus cel                    Toreador:3
+1x Rigby, Crusade Vanguard      5  CEL PRE aus pot                Brujah antitribu:2
+1x Rose, The                    5  PRE VIC aus                    Tzimisce:3
+1x Sir Marriot D'Urban          5  PRE aus obf ser                Follower of Set:2
+1x Maldavis                     4  AUS for pre                    Caitiff:3
+1x Remilliard, Devout Crusader  4  AUS pre                        Toreador antitribu:2
+1x Sir Henry Johnson            4  aus pot pre                    Toreador:3
 
 Library (86 cards)
 Master (17)

@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/8329
 
 Deck Name: Gangrel e Garou
 
-Crypt (12 cards, min=20 max=39 avg=7.67)
-----------------------------------------
-4x Inyanga              9   ANI AUS FOR PRO dom nec     primogen  Gangrel:4
-3x Matasuntha           10  ANI AUS CEL FOR PRO                   Gangrel:5
-2x Dr. Sutton Gassaway  6   FOR PRO ani aus                       Gangrel:4
-2x Jacob Fermor         5   PRO ani tha                           Gangrel:4
-1x Gunnar               4   PRO for                               Gangrel:4
+Crypt (12 cards, min=20, max=39, avg=7.67)
+------------------------------------------
+4x Inyanga               9  ANI AUS FOR PRO dom nec  primogen  Gangrel:4
+3x Matasuntha           10  ANI AUS CEL FOR PRO                Gangrel:5
+2x Dr. Sutton Gassaway   6  FOR PRO ani aus                    Gangrel:4
+2x Jacob Fermor          5  PRO ani tha                        Gangrel:4
+1x Gunnar                4  PRO for                            Gangrel:4
 
 Library (90 cards)
 Master (19; 5 trifle)

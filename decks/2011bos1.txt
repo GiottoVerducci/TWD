@@ -10,16 +10,16 @@ Deck Name: Tap and bleed
 Based on Randal Rudstam's "Singing in the ground v2.0" deck with
 some minor changes (Vessel instead Blood Doll).
 
-Crypt (12 cards, min=6 max=26 avg=4.25)
----------------------------------------
-3x Janey Pickman        6   ANI PRO for          Gangrel antitribu:4
-2x Doyle Fincher        7   ANI PRO aus for obf  Gangrel antitribu:4
-2x Céleste Lamontagne   5   ANI PRO for          Gangrel antitribu:4
-1x Lillian              3   ani pro              Gangrel:5
-1x Leo Washington       2   cel pro              Gangrel antitribu:4
-1x Robert Price         2   pro                  Gangrel:4
-1x Iris Bennett         1   pro                  Caitiff:5
-1x Walker Grimes        1   ani                  Caitiff:5
+Crypt (12 cards, min=6, max=26, avg=4.25)
+-----------------------------------------
+3x Janey Pickman       6  ANI PRO for          Gangrel antitribu:4
+2x Doyle Fincher       7  ANI PRO aus for obf  Gangrel antitribu:4
+2x Céleste Lamontagne  5  ANI PRO for          Gangrel antitribu:4
+1x Lillian             3  ani pro              Gangrel:5
+1x Leo Washington      2  cel pro              Gangrel antitribu:4
+1x Robert Price        2  pro                  Gangrel:4
+1x Iris Bennett        1  pro                  Caitiff:5
+1x Walker Grimes       1  ani                  Caitiff:5
 
 Library (72 cards)
 Master (12; 2 trifle)

@@ -7,18 +7,18 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/gzynroETMFU
 
 Malkavian Derangement
 
-Crypt (12 cards, min=14 max=36 avg=6.33)
-----------------------------------------
-2x Vasantasena            9   AUS DEM OBF dom pot               Malkavian antitribu:2
-2x Korah                  7   AUS DEM OBF ani      priscus      Malkavian antitribu:2
-1x Hannibal               10  AUS DEM OBF cel dom  cardinal     Malkavian antitribu:2
-1x Virgil                 8   AUS DEM OBF cel      bishop       Malkavian antitribu:2
-1x Artemis                6   DEM OBF aus cel for               Malkavian antitribu:2
-1x Quira, The Bitch Queen 6   AUS OBF obt tha                   Malkavian antitribu:2
-1x Muriel Foucade         5   DEM aus                           Malkavian antitribu:2
-1x Claven                 4   aus dem obf                       Malkavian antitribu:2
-1x Yorik                  3   dem obf                           Malkavian antitribu:2
-1x Boy Toy                2   dem                               Malkavian antitribu:2
+Crypt (12 cards, min=14, max=36, avg=6.33)
+------------------------------------------
+2x Vasantasena              9  AUS DEM OBF dom pot            Malkavian antitribu:2
+2x Korah                    7  AUS DEM OBF ani      priscus   Malkavian antitribu:2
+1x Hannibal                10  AUS DEM OBF cel dom  cardinal  Malkavian antitribu:2
+1x Virgil                   8  AUS DEM OBF cel      bishop    Malkavian antitribu:2
+1x Artemis                  6  DEM OBF aus cel for            Malkavian antitribu:2
+1x Quira, The Bitch Queen   6  AUS OBF obt tha                Malkavian antitribu:2
+1x Muriel Foucade           5  DEM aus                        Malkavian antitribu:2
+1x Claven                   4  aus dem obf                    Malkavian antitribu:2
+1x Yorik                    3  dem obf                        Malkavian antitribu:2
+1x Boy Toy                  2  dem                            Malkavian antitribu:2
 
 Library (77 cards)
 Master (11)

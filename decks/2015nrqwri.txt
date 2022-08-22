@@ -22,17 +22,17 @@ Ephor is really just there for flavor, but has helped a little from time to time
 
 I kept outsmarting myself and not being able to Parity Shift but having the most pool is a pretty good problem to have. I could see swapping a Parity Shift for Banishment. Great for dealing with the untapped bouncer.
 
-Crypt (13 cards, min=14 max=40 avg=7.15)
-----------------------------------------
-5x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot     justicar  Ventrue:5
-1x Johannes Castelein   9   DEM DOM FOR PRE             prince    Ventrue:4
-1x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro         prince    Ventrue:5
-1x Joseph DiGiaccomo    6   PRE aus dom for                       Ventrue:5
-1x Mustafa, The Heir    6   FOR PRE cel dom             prince    Ventrue:4
-1x Emily Carson         5   DOM for pre                 primogen  Ventrue:5
-1x Victor Pelletier     5   PRE cel dom for                       Ventrue:4
-1x Dr. Solomon Grey     2   dom pre                               Caitiff:5
-1x Jackson Asher        2   dom                                   Ventrue:4
+Crypt (13 cards, min=14, max=40, avg=7.15)
+------------------------------------------
+5x Mary Anne Blaire    10  AUS DOM FOR PRE ani pot  justicar  Ventrue:5
+1x Johannes Castelein   9  DEM DOM FOR PRE          prince    Ventrue:4
+1x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro      prince    Ventrue:5
+1x Joseph DiGiaccomo    6  PRE aus dom for                    Ventrue:5
+1x Mustafa, The Heir    6  FOR PRE cel dom          prince    Ventrue:4
+1x Emily Carson         5  DOM for pre              primogen  Ventrue:5
+1x Victor Pelletier     5  PRE cel dom for                    Ventrue:4
+1x Dr. Solomon Grey     2  dom pre                            Caitiff:5
+1x Jackson Asher        2  dom                                Ventrue:4
 
 Library (69 cards)
 Master (15; 5 trifle)

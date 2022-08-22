@@ -15,16 +15,16 @@ deck to make this easy. Use Aristotle's Permanent Stealth to commit them to one
 blocker and run them dry of blood. Use Leandro's Permanent Bleed to bleed them
 out.
 
-Crypt (12 cards, min=29 max=43 avg=8.92)
-----------------------------------------
-3x Leandro                      11  AUS OBF PRE cel dom         inner circle    Malkavian:2
-3x Aristotle de Laurent         9   AUS DEM OBF PRE pot                         Malkavian antitribu:3
-1x Kemintiri (ADV)              10  OBF PRE SER THA aus dom                     Follower of Set:2
-1x Cornelius Ottavio            8   AUS OBF pre qui                             Malkavian:2
-1x J. Oswald "Ozzy" Hyde-White  8   AUS FOR OBF dom pre         primogen        Malkavian:3
-1x Kite                         7   AUS DEM obf pre             bishop          Malkavian antitribu:2
-1x Sarrasine                    7   OBF PRE aus nec ser                         Follower of Set:2
-1x Suzanne Kadim                7   CEL PRE aus dom obf                         Toreador:3
+Crypt (12 cards, min=29, max=43, avg=8.92)
+------------------------------------------
+3x Leandro                      11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+3x Aristotle de Laurent          9  AUS DEM OBF PRE pot                    Malkavian antitribu:3
+1x Kemintiri (ADV)              10  OBF PRE SER THA aus dom                Follower of Set:2
+1x Cornelius Ottavio             8  AUS OBF pre qui                        Malkavian:2
+1x J. Oswald "Ozzy" Hyde-White   8  AUS FOR OBF dom pre      primogen      Malkavian:3
+1x Kite                          7  AUS DEM obf pre          bishop        Malkavian antitribu:2
+1x Sarrasine                     7  OBF PRE aus nec ser                    Follower of Set:2
+1x Suzanne Kadim                 7  CEL PRE aus dom obf                    Toreador:3
 
 Library (88 cards)
 Master (12; 3 trifle)

@@ -11,16 +11,16 @@ https://www.vekn.net/event-calendar/event/7732
 Deck Name: O mal nunca morre
 Created by: Carlos Eduardo
 
-Crypt (13 cards, min=14 max=23 avg=4.77)
-----------------------------------------
-3x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
-2x Onaedo                6   DOM OBT aus pot            Lasombra:4
-2x Dame Hollerton        5   DOM OBT myt                Kiasyd:4
-2x Lucy Markowitz        3   dom obt                    Lasombra:4
-1x Virginie, Prodigy     6   DOM POT obt        bishop  Lasombra:4
-1x Andrew Emory          5   OBT aus dom pot    bishop  Lasombra:4
-1x Banjoko               5   DOM obt pot                Lasombra:3
-1x Keith Moody           3   DOM                        Tremere antitribu:4
+Crypt (13 cards, min=14, max=23, avg=4.77)
+------------------------------------------
+3x Ermenegildo, The Rake  5  DOM OBT pot              Lasombra:4
+2x Onaedo                 6  DOM OBT aus pot          Lasombra:4
+2x Dame Hollerton         5  DOM OBT myt              Kiasyd:4
+2x Lucy Markowitz         3  dom obt                  Lasombra:4
+1x Virginie, Prodigy      6  DOM POT obt      bishop  Lasombra:4
+1x Andrew Emory           5  OBT aus dom pot  bishop  Lasombra:4
+1x Banjoko                5  DOM obt pot              Lasombra:3
+1x Keith Moody            3  DOM                      Tremere antitribu:4
 
 Library (90 cards)
 Master (17)

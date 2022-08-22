@@ -9,20 +9,20 @@ Peter Bouwman
 
 Title: Who needs Stealth ?
 
-Crypt (12 cards, min=8 max=23 avg=3.92)
----------------------------------------
-1x Blackhorse Tanner               7   AUS DOM FOR      Ventrue antitribu:3
-1x Edward Vignes                   6   DOM PRE for      Ventrue:3
-1x Catherine du Bois               5   DOM for obf pre  Ventrue:3
-1x Kurt Strauss                    5   DOM aus tha      Tremere antitribu:2
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for      Ventrue:2
-1x Gloria Giovanni                 4   DOM nec          Giovanni:2
-1x Ingrid Russo                    4   DOM for          Ventrue antitribu:2
-1x Lana Butcher                    3   dom for          Ventrue:3
-1x Christine Boscacci              2   dom vic          Pander:2
-1x Mustafa Rahman                  2   dom              Tremere:2
-1x Ohanna                          2   dom              Malkavian:2
-1x Samson                          2   dom              Ventrue antitribu:2
+Crypt (12 cards, min=8, max=23, avg=3.92)
+-----------------------------------------
+1x Blackhorse Tanner                7  AUS DOM FOR      Ventrue antitribu:3
+1x Edward Vignes                    6  DOM PRE for      Ventrue:3
+1x Catherine du Bois                5  DOM for obf pre  Ventrue:3
+1x Kurt Strauss                     5  DOM aus tha      Tremere antitribu:2
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for      Ventrue:2
+1x Gloria Giovanni                  4  DOM nec          Giovanni:2
+1x Ingrid Russo                     4  DOM for          Ventrue antitribu:2
+1x Lana Butcher                     3  dom for          Ventrue:3
+1x Christine Boscacci               2  dom vic          Pander:2
+1x Mustafa Rahman                   2  dom              Tremere:2
+1x Ohanna                           2  dom              Malkavian:2
+1x Samson                           2  dom              Ventrue antitribu:2
 
 Library (90 cards)
 Master (20; 11 trifle)

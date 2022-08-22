@@ -7,18 +7,18 @@ Leonardo Munoz
 
 Deck Name: Malk! bleeder
 
-Crypt (12 cards, min=25 max=39 avg=8.17)
-----------------------------------------
-2x Hannibal (ADV)               10  AUS DEM OBF cel dom  cardinal       Malkavian antitribu:2
-2x Maris Streck                 9   AUS OBF ani dem dom  justicar       Malkavian:3
-1x Esau                         10  AUS DEM DOM OBF PRE                 Malkavian:3
-1x Vasantasena                  9   AUS DEM OBF dom pot                 Malkavian antitribu:2
-1x Anatole, Prophet of Gehenna  8   AUS DEM OBF dom for                 Malkavian:2
-1x Rodolfo                      8   AUS DEM OBF pro      bishop         Malkavian antitribu:3
-1x Korah                        7   AUS DEM OBF ani      priscus        Malkavian antitribu:2
-1x Marie Faucigny               7   AUS OBF dem tha      archbishop     Malkavian antitribu:3
-1x Dolphin Black                6   AUS DEM OBF                         Malkavian antitribu:2
-1x Uncle George                 5   DEM aus dom obf                     Malkavian antitribu:3
+Crypt (12 cards, min=25, max=39, avg=8.17)
+------------------------------------------
+2x Hannibal (ADV)               10  AUS DEM OBF cel dom  cardinal    Malkavian antitribu:2
+2x Maris Streck                  9  AUS OBF ani dem dom  justicar    Malkavian:3
+1x Esau                         10  AUS DEM DOM OBF PRE              Malkavian:3
+1x Vasantasena                   9  AUS DEM OBF dom pot              Malkavian antitribu:2
+1x Anatole, Prophet of Gehenna   8  AUS DEM OBF dom for              Malkavian:2
+1x Rodolfo                       8  AUS DEM OBF pro      bishop      Malkavian antitribu:3
+1x Korah                         7  AUS DEM OBF ani      priscus     Malkavian antitribu:2
+1x Marie Faucigny                7  AUS OBF dem tha      archbishop  Malkavian antitribu:3
+1x Dolphin Black                 6  AUS DEM OBF                      Malkavian antitribu:2
+1x Uncle George                  5  DEM aus dom obf                  Malkavian antitribu:3
 
 Library (90 cards)
 Master (17)

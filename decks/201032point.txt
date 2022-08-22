@@ -9,14 +9,14 @@ Dave Lees
 
 Deck Name: Detroit Rock City
 
-Crypt (12 cards, min=17 max=40 avg=7)
--------------------------------------
-4x Cailean                              10  ANI OBF POT PRE dom  archbishop     Nosferatu antitribu:2
-3x Beast, The Leatherface of Detroit    7   OBF POT ani cel                     Nosferatu antitribu:2
-2x Nigel the Shunned                    5   ANI POT obf                         Nosferatu antitribu:2
-1x Ox, Viceroy of the Hollows           6   ANI OBF POT                         Nosferatu antitribu:2
-1x Agatha                               4   POT obf                             Nosferatu antitribu:2
-1x Tommy                                3   ani pot                             Nosferatu antitribu:2
+Crypt (12 cards, min=17, max=40, avg=7)
+---------------------------------------
+4x Cailean                            10  ANI OBF POT PRE dom  archbishop  Nosferatu antitribu:2
+3x Beast, The Leatherface of Detroit   7  OBF POT ani cel                  Nosferatu antitribu:2
+2x Nigel the Shunned                   5  ANI POT obf                      Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows          6  ANI OBF POT                      Nosferatu antitribu:2
+1x Agatha                              4  POT obf                          Nosferatu antitribu:2
+1x Tommy                               3  ani pot                          Nosferatu antitribu:2
 
 Library (90 cards)
 Master (13)

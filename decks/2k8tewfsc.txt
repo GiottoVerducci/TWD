@@ -9,18 +9,18 @@ Deck Name: Ventrue At control & Bleed
 
 Description: A classic deck Ventrue At Control/ Bleed
 
-Crypt (12 cards, min=21 max=36 avg=7.17)
-----------------------------------------
-2x Blackhorse Tanner                    7   AUS DOM FOR                         Ventrue antitribu:3
-2x Ingrid Russo                         4   DOM for                             Ventrue antitribu:2
-1x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop     Ventrue antitribu:2
-1x Kyle Strathcona, Cardinal of Canada  9   AUS DOM POT PRE for  cardinal       Ventrue antitribu:2
-1x Quentin                              9   AUS DOM FOR cel obt  bishop         Ventrue antitribu:2
-1x Gustav Mallenhous                    8   AUS DOM for obt      priscus        Ventrue antitribu:2
-1x Jesse Menks                          8   AUS DOM FOR ani      archbishop     Ventrue antitribu:3
-1x Edward Neally                        7   DOM FOR aus pre                     Ventrue antitribu:3
-1x Joseph O'Grady                       7   DOM FOR aus cel                     Ventrue antitribu:3
-1x Vanessa                              6   DOM FOR aus pre                     Ventrue antitribu:2
+Crypt (12 cards, min=21, max=36, avg=7.17)
+------------------------------------------
+2x Blackhorse Tanner                     7  AUS DOM FOR                      Ventrue antitribu:3
+2x Ingrid Russo                          4  DOM for                          Ventrue antitribu:2
+1x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop  Ventrue antitribu:2
+1x Kyle Strathcona, Cardinal of Canada   9  AUS DOM POT PRE for  cardinal    Ventrue antitribu:2
+1x Quentin                               9  AUS DOM FOR cel obt  bishop      Ventrue antitribu:2
+1x Gustav Mallenhous                     8  AUS DOM for obt      priscus     Ventrue antitribu:2
+1x Jesse Menks                           8  AUS DOM FOR ani      archbishop  Ventrue antitribu:3
+1x Edward Neally                         7  DOM FOR aus pre                  Ventrue antitribu:3
+1x Joseph O'Grady                        7  DOM FOR aus cel                  Ventrue antitribu:3
+1x Vanessa                               6  DOM FOR aus pre                  Ventrue antitribu:2
 
 Library (90 cards)
 Master (16)

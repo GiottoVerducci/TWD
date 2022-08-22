@@ -21,14 +21,14 @@ Description: A more bleedy version of the Legion of Skulls deck I won with in Ju
 
 Anu’s Legion
 
-Crypt (12 cards, min=21 max=30 avg=6.42)
-----------------------------------------
-4x Anu Diptinatpa       7   DOM NEC aus vic     Nagaraja:6
-3x Hecate               6   AUS FOR NEC         Harbinger of Skulls:5
-2x La Viuda Blanca      6   AUS NEC for obf     Harbinger of Skulls:6
-1x Khurshid             8   AUS FOR NEC POT     Harbinger of Skulls:6
-1x Mordechai Ben-Nun    8   ANI AUS FOR NEC     Harbinger of Skulls:5
-1x Andre LeRoux         3   aus                 Toreador:5
+Crypt (12 cards, min=21, max=30, avg=6.42)
+------------------------------------------
+4x Anu Diptinatpa     7  DOM NEC aus vic  Nagaraja:6
+3x Hecate             6  AUS FOR NEC      Harbinger of Skulls:5
+2x La Viuda Blanca    6  AUS NEC for obf  Harbinger of Skulls:6
+1x Khurshid           8  AUS FOR NEC POT  Harbinger of Skulls:6
+1x Mordechai Ben-Nun  8  ANI AUS FOR NEC  Harbinger of Skulls:5
+1x Andre LeRoux       3  aus              Toreador:5
 
 Library (90 cards)
 Master (20; 3 trifle)

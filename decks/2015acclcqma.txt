@@ -9,15 +9,15 @@ Deck Name: Three Girls and their Masters
 Shout goes out to Randalf Rudsdam (aka. the loud, drunken Swede) who played a Talbot/Aksinya deck about 3 years ago at Gothcon in Sweden. I don't know the content of his deck, but it got me started on this one.
 The deck has some pretty crazy card flow which is why it has so many cards. I decked myself 3 times at this weekend's two tournaments even after triggering Ashur's, and generally end every game with very few cards left.
 
-Crypt (12 cards, min=10 max=35 avg=6.17)
-----------------------------------------
-3x Aksinya Daclau  9   ANI FOR PRE PRO cel tha  Gangrel antitribu:4
-3x Talbot          7   ANI NEC PRO for          Gangrel:5
-2x Nana Buruku     8   ANI POT PRE              Guruhi:4
-1x Beetleman       4   ANI obf                  Nosferatu:4
-1x Stick           3   ANI                      Nosferatu antitribu:4
-1x Darlene Killian 2   ani spi                  Ahrimane:5
-1x Walker Grimes   1   ani                      Caitiff:5
+Crypt (12 cards, min=10, max=35, avg=6.17)
+------------------------------------------
+3x Aksinya Daclau   9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+3x Talbot           7  ANI NEC PRO for          Gangrel:5
+2x Nana Buruku      8  ANI POT PRE              Guruhi:4
+1x Beetleman        4  ANI obf                  Nosferatu:4
+1x Stick            3  ANI                      Nosferatu antitribu:4
+1x Darlene Killian  2  ani spi                  Ahrimane:5
+1x Walker Grimes    1  ani                      Caitiff:5
 
 Library (87 cards)
 Master (37; 11 trifle)

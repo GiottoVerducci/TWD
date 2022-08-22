@@ -10,18 +10,18 @@ Deck Name: "Smile and wave boys, smile and wave!"
 James Snowballs note: dont take yourself seriously when playing this,
 its a lot more fun and nobody knows WTF your gonna do next!
 
-Crypt (12 cards, min=19 max=31 avg=6.25)
-----------------------------------------
-2x Korah                          7   AUS DEM OBF ani      priscus  Malkavian antitribu:2
-2x Artemis                        6   DEM OBF aus cel for           Malkavian antitribu:2
-1x Vasantasena                    9   AUS DEM OBF dom pot           Malkavian antitribu:2
-1x Virgil                         8   AUS DEM OBF cel      bishop   Malkavian antitribu:2
-1x Kite                           7   AUS DEM obf pre      bishop   Malkavian antitribu:2
-1x Dolphin Black                  6   AUS DEM OBF                   Malkavian antitribu:2
-1x Quira, The Bitch Queen         6   AUS OBF obt tha               Malkavian antitribu:2
-1x Muriel Foucade                 5   DEM aus                       Malkavian antitribu:2
-1x Claven                         4   aus dem obf                   Malkavian antitribu:2
-1x Idalia, Prophet of Guadalajara 4   AUS dem                       Malkavian antitribu:2
+Crypt (12 cards, min=19, max=31, avg=6.25)
+------------------------------------------
+2x Korah                           7  AUS DEM OBF ani      priscus  Malkavian antitribu:2
+2x Artemis                         6  DEM OBF aus cel for           Malkavian antitribu:2
+1x Vasantasena                     9  AUS DEM OBF dom pot           Malkavian antitribu:2
+1x Virgil                          8  AUS DEM OBF cel      bishop   Malkavian antitribu:2
+1x Kite                            7  AUS DEM obf pre      bishop   Malkavian antitribu:2
+1x Dolphin Black                   6  AUS DEM OBF                   Malkavian antitribu:2
+1x Quira, The Bitch Queen          6  AUS OBF obt tha               Malkavian antitribu:2
+1x Muriel Foucade                  5  DEM aus                       Malkavian antitribu:2
+1x Claven                          4  aus dem obf                   Malkavian antitribu:2
+1x Idalia, Prophet of Guadalajara  4  AUS dem                       Malkavian antitribu:2
 
 Library (83 cards)
 Master (7)

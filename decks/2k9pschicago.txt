@@ -7,15 +7,15 @@ David Buerger
 
 Deck Name: Giovanni Block Denial/Bleed
 
-Crypt (12 cards, min=18 max=32 avg=6.17)
-----------------------------------------
-2x Ambrogino Giovanni   9   DOM NEC POT THA aus  1 vote  Giovanni:2
-2x Carlotta Giovanni    7   NEC POT dom obf              Giovanni:2
-2x Isabel Giovanni      5   DOM NEC pot                  Giovanni:2
-2x Le Dinh Tho          5   NEC aus dom                  Nagaraja:2
-2x Gloria Giovanni      4   DOM nec                      Giovanni:2
-1x Andrea Giovanni      7   DOM NEC pot vic              Giovanni:2
-1x Gillespi Giovanni    7   DOM NEC POT aus              Giovanni:2
+Crypt (12 cards, min=18, max=32, avg=6.17)
+------------------------------------------
+2x Ambrogino Giovanni  9  DOM NEC POT THA aus  1 vote  Giovanni:2
+2x Carlotta Giovanni   7  NEC POT dom obf              Giovanni:2
+2x Isabel Giovanni     5  DOM NEC pot                  Giovanni:2
+2x Le Dinh Tho         5  NEC aus dom                  Nagaraja:2
+2x Gloria Giovanni     4  DOM nec                      Giovanni:2
+1x Andrea Giovanni     7  DOM NEC pot vic              Giovanni:2
+1x Gillespi Giovanni   7  DOM NEC POT aus              Giovanni:2
 
 Library (90 cards)
 Master (16; 9 trifle)

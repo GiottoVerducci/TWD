@@ -12,17 +12,17 @@ Bleeder autant que possible. Rusher les vampires qui bounce chez sa
 proie et ceux qui bleed trop chez son pred.
 Ne pas offrir ses rushs pour rien.
 
-Crypt (12 cards, min=8 max=20 avg=3.33)
----------------------------------------
-2x Camille Devereux, The Raven  5   FOR PRO ani         Gangrel:1
-2x Ghivran Dalaal, The Dead God 5   FOR ani aus chi     Ravnos:2
-2x Lázár Dobrescu               3   for                 Ravnos:2
-1x Ricki Van Demsi              3   for pro             Gangrel:1
-1x Roland Loussarian            3   for pre             Ventrue:1
-1x Vedel Esbreno                3   chi for             Ravnos:2
-1x Giuliano Vincenzi            2   for                 Gangrel:1
-1x Rufina Soledad               2   for                 Ventrue:1
-1x March Halcyon                1   for                 Pander:2
+Crypt (12 cards, min=8, max=20, avg=3.33)
+-----------------------------------------
+2x Camille Devereux, The Raven   5  FOR PRO ani      Gangrel:1
+2x Ghivran Dalaal, The Dead God  5  FOR ani aus chi  Ravnos:2
+2x Lázár Dobrescu                3  for              Ravnos:2
+1x Ricki Van Demsi               3  for pro          Gangrel:1
+1x Roland Loussarian             3  for pre          Ventrue:1
+1x Vedel Esbreno                 3  chi for          Ravnos:2
+1x Giuliano Vincenzi             2  for              Gangrel:1
+1x Rufina Soledad                2  for              Ventrue:1
+1x March Halcyon                 1  for              Pander:2
 
 Library (88 cards)
 Master (15)

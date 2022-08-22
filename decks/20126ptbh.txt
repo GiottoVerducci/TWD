@@ -7,14 +7,14 @@ Gábor Németh
 
 Deck Name: The Great Bleeasts
 
-Crypt (12 cards, min=27 max=44 avg=8.83)
-----------------------------------------
-4x Stanislava       11  ANI CEL DOM FOR PRO     inner circle    Gangrel:2
-2x Ingrid Rossler   9   ANI FOR PRO dom         prince          Gangrel:2
-2x Greger Anderssen 7   AUS OBF dom pro         prince          Malkavian:2
-2x Iliana           7   DOM FOR PRO tha                         Gangrel:2
-1x Genevieve        10  ANI FOR PRO aus dom     priscus         Gangrel antitribu:2
-1x Caitlin          6   ANI PRO aus dom         bishop          Gangrel antitribu:2
+Crypt (12 cards, min=27, max=44, avg=8.83)
+------------------------------------------
+4x Stanislava        11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Ingrid Rossler     9  ANI FOR PRO dom      prince        Gangrel:2
+2x Greger Anderssen   7  AUS OBF dom pro      prince        Malkavian:2
+2x Iliana             7  DOM FOR PRO tha                    Gangrel:2
+1x Genevieve         10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+1x Caitlin            6  ANI PRO aus dom      bishop        Gangrel antitribu:2
 
 Library (89 cards)
 Master (17; 7 trifle)

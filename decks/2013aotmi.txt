@@ -11,16 +11,16 @@ Deck Name: Ignazio & Friends
 
 Description: B&B DOM/POT
 
-Crypt (12 cards, min=19 max=36 avg=6.83)
-----------------------------------------
-5x Ignazio Giovanni         9   DOM FOR NEC POT obf             Giovanni:3
-1x Dr. Julius Sutphen       5   POT dom obt             bishop  Lasombra:3
-1x Dr. Julius Sutphen (ADV) 5   POT dom obt                     Lasombra:3
-1x Gillespi Giovanni        7   DOM NEC POT aus                 Giovanni:2
-1x Lisette Vizquel          6   DOM POT pro             bishop  Lasombra:2
-1x Terry                    5   POT aus dom san                 Blood Brother:2
-1x Wah Chun-Yuen            5   POT cel dom pre                 Brujah antitribu:3
-1x Chas Giovanni Tello      4   DOM POT                         Giovanni:2
+Crypt (12 cards, min=19, max=36, avg=6.83)
+------------------------------------------
+5x Ignazio Giovanni          9  DOM FOR NEC POT obf          Giovanni:3
+1x Dr. Julius Sutphen        5  POT dom obt          bishop  Lasombra:3
+1x Dr. Julius Sutphen (ADV)  5  POT dom obt                  Lasombra:3
+1x Gillespi Giovanni         7  DOM NEC POT aus              Giovanni:2
+1x Lisette Vizquel           6  DOM POT pro          bishop  Lasombra:2
+1x Terry                     5  POT aus dom san              Blood Brother:2
+1x Wah Chun-Yuen             5  POT cel dom pre              Brujah antitribu:3
+1x Chas Giovanni Tello       4  DOM POT                      Giovanni:2
 
 Library (80 cards)
 Master (11; 4 trifle)

@@ -17,10 +17,10 @@ and Gramle gets the card you need right now. Also with the larger handsize
 the inclusion of one Pentex seemed like a necessary evil, for another way to
 deal with it or to just use it offensively.
 
-Crypt (12 cards, min=20 max=40 avg=7.92)
-----------------------------------------
-7x Nergal 10  AUS DAI FOR OBF PRE THA   Baali:5
-5x Luc    5   OBF dem vic               Malkavian antitribu:4
+Crypt (12 cards, min=20, max=40, avg=7.92)
+------------------------------------------
+7x Nergal  10  AUS DAI FOR OBF PRE THA  Baali:5
+5x Luc      5  OBF dem vic              Malkavian antitribu:4
 
 Library (80 cards)
 Master (1)

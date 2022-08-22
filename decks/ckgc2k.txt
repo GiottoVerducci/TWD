@@ -3,16 +3,16 @@ Milwaukee, Wisconsin
 August 13th 2000
 Christian King
 
-Crypt (12 cards, min=12 max=32 avg=5.17)
-----------------------------------------
-2x Gratiano                      8   DOM OBT obf pot      priscus   Lasombra:2
-2x Guido Lucciano                5   OBT dom obf                    Lasombra:2
-2x Ignacio, The Black Priest     4   dom obt pot                    Lasombra:2
-2x Ramiro                        4   dom obt vic                    Lasombra:2
-1x Angelica, The Canonicus       10  DOM OBT POT cel obf  cardinal  Lasombra:2
-1x Aurora Van Brande, Paladin    6   OBT dom for pot                Lasombra:2
-1x Aaron Duggan, Cameron's Toady 2   obt                            Lasombra:2
-1x Mitchell, The Headhunter      2   obt pot                        Pander:2
+Crypt (12 cards, min=12, max=32, avg=5.17)
+------------------------------------------
+2x Gratiano                        8  DOM OBT obf pot      priscus   Lasombra:2
+2x Guido Lucciano                  5  OBT dom obf                    Lasombra:2
+2x Ignacio, The Black Priest       4  dom obt pot                    Lasombra:2
+2x Ramiro                          4  dom obt vic                    Lasombra:2
+1x Angelica, The Canonicus        10  DOM OBT POT cel obf  cardinal  Lasombra:2
+1x Aurora Van Brande, Paladin      6  OBT dom for pot                Lasombra:2
+1x Aaron Duggan, Cameron's Toady   2  obt                            Lasombra:2
+1x Mitchell, The Headhunter        2  obt pot                        Pander:2
 
 Library (91 cards)
 Master (23)

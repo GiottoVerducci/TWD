@@ -14,12 +14,12 @@ casual play... I entered last minute in this tourney and decided to
 try it... It obviously needs more tweeking but I had a blast playing
 it!
 
-Crypt (12 cards, min=40 max=44 avg=10.33)
------------------------------------------
-4x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
-3x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
-3x Masika          10  AUS CEL PRE              primogen        Toreador:1
-2x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Alexandra        11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+3x François Villon  10  AUS CEL PRE chi obf pot  prince        Toreador:2
+3x Masika           10  AUS CEL PRE              primogen      Toreador:1
+2x Anneke           10  AUS CEL PRE dom          justicar      Toreador:1
 
 Library (90 cards)
 Master (16)

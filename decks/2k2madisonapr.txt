@@ -6,13 +6,13 @@ BJ Conant
 
 Deck Name: PROdom
 
-Crypt (12 cards, min=14 max=40 avg=7)
--------------------------------------
-3x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
-3x Iliana               7   DOM FOR PRO tha                     Gangrel:2
-2x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
-2x Daliyah              4   PRO obf                             Nosferatu:2
-2x Chandler Hungerford  3   PRO                                 Gangrel:2
+Crypt (12 cards, min=14, max=40, avg=7)
+---------------------------------------
+3x Ingrid Rossler        9  ANI FOR PRO dom      prince        Gangrel:2
+3x Iliana                7  DOM FOR PRO tha                    Gangrel:2
+2x Stanislava           11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Daliyah               4  PRO obf                            Nosferatu:2
+2x Chandler Hungerford   3  PRO                                Gangrel:2
 
 Library (83 cards)
 Master (16)

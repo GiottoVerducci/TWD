@@ -7,21 +7,21 @@ http://calendar.yahoo.com/YYY,57034/srt,0/vtesrep?v=4&amp;t=1049540400&amp;i=188
 
 Deck Name: For Those About to Die, We Salubri
 
-Crypt (13 cards, min=15 max=39 avg=6.77)
-----------------------------------------
-1x Arika                                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-1x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro         archbishop      Ventrue antitribu:2
-1x Kyle Strathcona, Cardinal of Canada  9   AUS DOM POT PRE for         cardinal        Ventrue antitribu:2
-1x Quentin                              9   AUS DOM FOR cel obt         bishop          Ventrue antitribu:2
-1x Gustav Mallenhous                    8   AUS DOM for obt             priscus         Ventrue antitribu:2
-1x Dominique                            7   AUS FOR ani dom vic                         Ventrue antitribu:2
-1x Matthias                             7   AUS FOR OBE nec                             Salubri:2
-1x Blanche Hill                         6   FOR OBE aus                                 Salubri:2
-1x Vanessa                              6   DOM FOR aus pre                             Ventrue antitribu:2
-1x Miriam Benyona                       5   AUS for obe                                 Salubri:2
-1x Ingrid Russo                         4   DOM for                                     Ventrue antitribu:2
-1x Peter Blaine                         4   aus dom for                                 Ventrue antitribu:2
-1x Samson                               2   dom                                         Ventrue antitribu:2
+Crypt (13 cards, min=15, max=39, avg=6.77)
+------------------------------------------
+1x Arika                                11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro      archbishop    Ventrue antitribu:2
+1x Kyle Strathcona, Cardinal of Canada   9  AUS DOM POT PRE for      cardinal      Ventrue antitribu:2
+1x Quentin                               9  AUS DOM FOR cel obt      bishop        Ventrue antitribu:2
+1x Gustav Mallenhous                     8  AUS DOM for obt          priscus       Ventrue antitribu:2
+1x Dominique                             7  AUS FOR ani dom vic                    Ventrue antitribu:2
+1x Matthias                              7  AUS FOR OBE nec                        Salubri:2
+1x Blanche Hill                          6  FOR OBE aus                            Salubri:2
+1x Vanessa                               6  DOM FOR aus pre                        Ventrue antitribu:2
+1x Miriam Benyona                        5  AUS for obe                            Salubri:2
+1x Ingrid Russo                          4  DOM for                                Ventrue antitribu:2
+1x Peter Blaine                          4  aus dom for                            Ventrue antitribu:2
+1x Samson                                2  dom                                    Ventrue antitribu:2
 
 Library (89 cards)
 Master (18)

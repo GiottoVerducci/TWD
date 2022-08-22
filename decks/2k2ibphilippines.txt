@@ -7,13 +7,13 @@ http://calendar.yahoo.com/YYY,07992/srt,0/vtesrep?v=4&amp;t=1033808400&amp;i=122
 
 Deck Name: Birds of Prey
 
-Crypt (12 cards, min=18 max=31 avg=6.25)
-----------------------------------------
-3x Howler           8   ANI PRE SPI obf         Ahrimane:2
-3x Siamese, The     7   PRE SPI ani pro         Ahrimane:2
-2x Cynthia Ingold   6   SPI ani for pre         Ahrimane:2
-2x Nettie Hale      5   ani cel pre pro spi     Ahrimane:2
-2x Juanita Santiago 4   ani pre spi             Ahrimane:2
+Crypt (12 cards, min=18, max=31, avg=6.25)
+------------------------------------------
+3x Howler            8  ANI PRE SPI obf      Ahrimane:2
+3x Siamese, The      7  PRE SPI ani pro      Ahrimane:2
+2x Cynthia Ingold    6  SPI ani for pre      Ahrimane:2
+2x Nettie Hale       5  ani cel pre pro spi  Ahrimane:2
+2x Juanita Santiago  4  ani pre spi          Ahrimane:2
 
 Library (80 cards)
 Master (13)

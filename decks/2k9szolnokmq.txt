@@ -8,17 +8,17 @@ Sebestyén Balázs
 
 Deck Name: Lodin
 
-Crypt (12 cards, min=14 max=32 avg=5.83)
-----------------------------------------
-4x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro  prince    Ventrue:5
-1x Graham Gottesman     7   DOM FOR obf pre tha  prince    Ventrue:5
-1x Mustafa, The Heir    6   FOR PRE cel dom      prince    Ventrue:4
-1x Victor Donaldson     6   DOM for pre          prince    Ventrue:5
-1x Emily Carson         5   DOM for pre          primogen  Ventrue:5
-1x Victor Pelletier     5   PRE cel dom for                Ventrue:4
-1x Portia               4   for pre pro                    Ventrue:5
-1x Keith Moody          3   DOM                            Tremere antitribu:4
-1x Jackson Asher        2   dom                            Ventrue:4
+Crypt (12 cards, min=14, max=32, avg=5.83)
+------------------------------------------
+4x Lodin (Olaf Holte)  8  DOM FOR PRE aus pro  prince    Ventrue:5
+1x Graham Gottesman    7  DOM FOR obf pre tha  prince    Ventrue:5
+1x Mustafa, The Heir   6  FOR PRE cel dom      prince    Ventrue:4
+1x Victor Donaldson    6  DOM for pre          prince    Ventrue:5
+1x Emily Carson        5  DOM for pre          primogen  Ventrue:5
+1x Victor Pelletier    5  PRE cel dom for                Ventrue:4
+1x Portia              4  for pre pro                    Ventrue:5
+1x Keith Moody         3  DOM                            Tremere antitribu:4
+1x Jackson Asher       2  dom                            Ventrue:4
 
 Library (74 cards)
 Master (16; 5 trifle)

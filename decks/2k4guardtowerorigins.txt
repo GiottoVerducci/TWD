@@ -4,18 +4,18 @@ June 23rd 2004
 25 players
 Nick Smith
 
-Crypt (12 cards, min=18 max=28 avg=5.83)
-----------------------------------------
-2x Andrea Giovanni          7   DOM NEC pot vic  Giovanni:2
-2x Gillespi Giovanni        7   DOM NEC POT aus  Giovanni:2
-1x Kanimana Belghazi        7   AUS DOM NEC pro  Nagaraja:2
-1x Stefano Giovanni         6   DOM nec pot pre  Giovanni:2
-1x Valois Sang, The Watcher 6   AUS DOM nec tha  Tremere:3
-1x Catherine du Bois        5   DOM for obf pre  Ventrue:3
-1x Isabel Giovanni          5   DOM NEC pot      Giovanni:2
-1x Le Dinh Tho              5   NEC aus dom      Nagaraja:2
-1x Gloria Giovanni          4   DOM nec          Giovanni:2
-1x Ingrid Russo             4   DOM for          Ventrue antitribu:2
+Crypt (12 cards, min=18, max=28, avg=5.83)
+------------------------------------------
+2x Andrea Giovanni           7  DOM NEC pot vic  Giovanni:2
+2x Gillespi Giovanni         7  DOM NEC POT aus  Giovanni:2
+1x Kanimana Belghazi         7  AUS DOM NEC pro  Nagaraja:2
+1x Stefano Giovanni          6  DOM nec pot pre  Giovanni:2
+1x Valois Sang, The Watcher  6  AUS DOM nec tha  Tremere:3
+1x Catherine du Bois         5  DOM for obf pre  Ventrue:3
+1x Isabel Giovanni           5  DOM NEC pot      Giovanni:2
+1x Le Dinh Tho               5  NEC aus dom      Nagaraja:2
+1x Gloria Giovanni           4  DOM nec          Giovanni:2
+1x Ingrid Russo              4  DOM for          Ventrue antitribu:2
 
 Library (90 cards)
 Master (12)

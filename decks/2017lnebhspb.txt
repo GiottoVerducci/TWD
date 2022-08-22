@@ -12,15 +12,15 @@ Deck Name: TITANIC
 
 Description: Turbo Montano: Bleed + Baltimore + Mind Rape
 
-Crypt (12 cards, min=13 max=44 avg=7.42)
-----------------------------------------
-5x Montano                       11  ANI DOM FOR OBT POT  2 votes  Lasombra:3
-2x Lucita                        8   DOM FOR OBT cel pot           Lasombra:2
-1x Guido Lucciano                5   OBT dom obf                   Lasombra:2
-1x Ignacio, The Black Priest     4   dom obt pot                   Lasombra:2
-1x Ramiro                        4   dom obt vic                   Lasombra:2
-1x Cameron                       3   dom pot                       Lasombra:2
-1x Aaron Duggan, Cameron's Toady 2   obt                           Lasombra:2
+Crypt (12 cards, min=13, max=44, avg=7.42)
+------------------------------------------
+5x Montano                        11  ANI DOM FOR OBT POT  2 votes  Lasombra:3
+2x Lucita                          8  DOM FOR OBT cel pot           Lasombra:2
+1x Guido Lucciano                  5  OBT dom obf                   Lasombra:2
+1x Ignacio, The Black Priest       4  dom obt pot                   Lasombra:2
+1x Ramiro                          4  dom obt vic                   Lasombra:2
+1x Cameron                         3  dom pot                       Lasombra:2
+1x Aaron Duggan, Cameron's Toady   2  obt                           Lasombra:2
 
 Library (90 cards)
 Master (24; 2 trifle)

@@ -31,17 +31,17 @@ me to be able to hold the maneuvers and play them in combat as needed than
 it is to assume I'll want close range on a certain action. Now that I've
 won a tournament with this deck, I might put them back in just for fun.
 
-Crypt (12 cards, min=20 max=37 avg=7.33)
-----------------------------------------
-3x Julio Martinez                       9   ANI DOM OBF POT nec  bishop         Nosferatu antitribu:3
-2x Tarbaby Jack                         8   ANI OBF POT dom ser                 Nosferatu antitribu:3
-1x Cailean                              10  ANI OBF POT PRE dom  archbishop     Nosferatu antitribu:2
-1x Mateusz Gryzbowsky                   8   ANI OBF POT                         Nosferatu antitribu:3
-1x Beast, The Leatherface of Detroit    7   OBF POT ani cel                     Nosferatu antitribu:2
-1x Ox, Viceroy of the Hollows           6   ANI OBF POT                         Nosferatu antitribu:2
-1x Nigel the Shunned                    5   ANI POT obf                         Nosferatu antitribu:2
-1x Olivia                               5   OBF POT vic          bishop         Nosferatu antitribu:2
-1x Agatha                               4   POT obf                             Nosferatu antitribu:2
+Crypt (12 cards, min=20, max=37, avg=7.33)
+------------------------------------------
+3x Julio Martinez                      9  ANI DOM OBF POT nec  bishop      Nosferatu antitribu:3
+2x Tarbaby Jack                        8  ANI OBF POT dom ser              Nosferatu antitribu:3
+1x Cailean                            10  ANI OBF POT PRE dom  archbishop  Nosferatu antitribu:2
+1x Mateusz Gryzbowsky                  8  ANI OBF POT                      Nosferatu antitribu:3
+1x Beast, The Leatherface of Detroit   7  OBF POT ani cel                  Nosferatu antitribu:2
+1x Ox, Viceroy of the Hollows          6  ANI OBF POT                      Nosferatu antitribu:2
+1x Nigel the Shunned                   5  ANI POT obf                      Nosferatu antitribu:2
+1x Olivia                              5  OBF POT vic          bishop      Nosferatu antitribu:2
+1x Agatha                              4  POT obf                          Nosferatu antitribu:2
 
 Library (90 cards)
 Master (13)

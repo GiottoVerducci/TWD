@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9119
 
 Deck Name: Shattering Game
 
-Crypt (12 cards, min=14 max=23 avg=4.67)
-----------------------------------------
-3x Angela Preston                  5   MEL PRE for      Daughter of Cacophony:2
-2x Yseult                          6   FOR MEL PRE      Daughter of Cacophony:3
-2x Delilah Monroe                  4   MEL for pre      Daughter of Cacophony:2
-1x Gaël Pilet                      6   FOR MEL chi pre  Daughter of Cacophony:2
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for      Ventrue:2
-1x Pieter van Dorn                 4   dom pre tha      Tremere:3
-1x Céleste, The Voice of a Secret  3   mel pre          Daughter of Cacophony:2
-1x Diana Vick                      3   dom pre          Ventrue:3
+Crypt (12 cards, min=14, max=23, avg=4.67)
+------------------------------------------
+3x Angela Preston                   5  MEL PRE for      Daughter of Cacophony:2
+2x Yseult                           6  FOR MEL PRE      Daughter of Cacophony:3
+2x Delilah Monroe                   4  MEL for pre      Daughter of Cacophony:2
+1x Gaël Pilet                       6  FOR MEL chi pre  Daughter of Cacophony:2
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for      Ventrue:2
+1x Pieter van Dorn                  4  dom pre tha      Tremere:3
+1x Céleste, The Voice of a Secret   3  mel pre          Daughter of Cacophony:2
+1x Diana Vick                       3  dom pre          Ventrue:3
 
 Library (79 cards)
 Master (17; 4 trifle)

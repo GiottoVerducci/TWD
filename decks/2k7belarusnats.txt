@@ -6,10 +6,10 @@ Andrew Kashpar
 
 Cybelotron
 
-Crypt (12 cards, min=40 max=40 avg=10)
---------------------------------------
-8x Cybele 10  ANI DAI OBF PRE SER THA   Baali:4
-4x Nergal 10  AUS DAI FOR OBF PRE THA   Baali:5
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+8x Cybele  10  ANI DAI OBF PRE SER THA  Baali:4
+4x Nergal  10  AUS DAI FOR OBF PRE THA  Baali:5
 
 Library (90 cards)
 Master (34)

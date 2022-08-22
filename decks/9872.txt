@@ -10,20 +10,20 @@ https://www.vekn.net/event-calendar/event/9872
 
 Deck Name: Mono Auspex
 
-Crypt (12 cards, min=10 max=17 avg=3.25)
-----------------------------------------
-1x Anne-Marie Bourgeois, Inconnu Recruiter 5   AUS cel pre  Toreador:5
-1x America Johnson                         4   AUS vic      Tzimisce:5
-1x Pearl                                   4   AUS obf      Malkavian antitribu:5
-1x Tyler McGill                            4   AUS pre      Toreador:5
-1x Andre LeRoux                            3   aus          Toreador:5
-1x Gwen Brand                              3   aus chi      Ravnos:5
-1x Kalila                                  3   aus obf      Malkavian:5
-1x Meaghan                                 3   aus obf      Malkavian:6
-1x Min-seo                                 3   aus cel      Toreador:6
-1x Sukainah                                3   aus qui      Assamite:5
-1x Veejay Vinod                            3   AUS          Nagaraja:6
-1x Donald Cargill                          1   aus          Caitiff:5
+Crypt (12 cards, min=10, max=17, avg=3.25)
+------------------------------------------
+1x Anne-Marie Bourgeois, Inconnu Recruiter  5  AUS cel pre  Toreador:5
+1x America Johnson                          4  AUS vic      Tzimisce:5
+1x Pearl                                    4  AUS obf      Malkavian antitribu:5
+1x Tyler McGill                             4  AUS pre      Toreador:5
+1x Andre LeRoux                             3  aus          Toreador:5
+1x Gwen Brand                               3  aus chi      Ravnos:5
+1x Kalila                                   3  aus obf      Malkavian:5
+1x Meaghan                                  3  aus obf      Malkavian:6
+1x Min-seo                                  3  aus cel      Toreador:6
+1x Sukainah                                 3  aus qui      Assamite:5
+1x Veejay Vinod                             3  AUS          Nagaraja:6
+1x Donald Cargill                           1  aus          Caitiff:5
 
 Library (90 cards)
 Master (22; 7 trifle)

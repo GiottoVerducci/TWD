@@ -8,15 +8,15 @@ Deck Name: Setites can kiss my ra
 
 Description: How did this deck win? Luck.
 
-Crypt (12 cards, min=13 max=32 avg=5.5)
----------------------------------------
-4x Nadima               8   FOR PRO SER ani aus  Gangrel:3
-3x Mirembe Kabbada      5   PRO SER ani          Gangrel:2
-1x Ramona               4   for pro              Gangrel:2
-1x Ramona (ADV)         4   for pro              Gangrel:2
-1x Hesha Ruhadze        6   SER ani obf pre      Follower of Set:2
-1x Chandler Hungerford  3   PRO                  Gangrel:2
-1x Sadie                2   pro                  Gangrel antitribu:2
+Crypt (12 cards, min=13, max=32, avg=5.5)
+-----------------------------------------
+4x Nadima               8  FOR PRO SER ani aus  Gangrel:3
+3x Mirembe Kabbada      5  PRO SER ani          Gangrel:2
+1x Ramona               4  for pro              Gangrel:2
+1x Ramona (ADV)         4  for pro              Gangrel:2
+1x Hesha Ruhadze        6  SER ani obf pre      Follower of Set:2
+1x Chandler Hungerford  3  PRO                  Gangrel:2
+1x Sadie                2  pro                  Gangrel antitribu:2
 
 Library (90 cards)
 Master (13)

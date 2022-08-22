@@ -15,14 +15,14 @@ coordinates the atack distracting opponents minion for free with her monocle!
 This Sorority strict rules of behavior. Would like to find additional place for
 Wider view and blood buff.
 
-Crypt (12 cards, min=10 max=24 avg=4.5)
----------------------------------------
-5x Ági          6   FOR SAN VIC  Blood Brother:6
-2x Gabi         5   SAN VIC for  Blood Brother:6
-2x New Blood    2   san          Blood Brother:ANY
-1x Dorka        4   for san vic  Blood Brother:6
-1x Viri         3   san vic      Blood Brother:6
-1x Zizi         3   san vic      Blood Brother:6
+Crypt (12 cards, min=10, max=24, avg=4.5)
+-----------------------------------------
+5x Ági        6  FOR SAN VIC  Blood Brother:6
+2x Gabi       5  SAN VIC for  Blood Brother:6
+2x New Blood  2  san          Blood Brother:ANY
+1x Dorka      4  for san vic  Blood Brother:6
+1x Viri       3  san vic      Blood Brother:6
+1x Zizi       3  san vic      Blood Brother:6
 
 Library (66 cards)
 Master (13; 4 trifle)

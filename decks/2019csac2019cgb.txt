@@ -19,12 +19,12 @@ turn to create a wall versus rush decks, leave a vampire untapped to block
 entrancement if necessary and bleed as much as necessary. The only changes I
 would make right now is a few delaying tactics if you expect a voting metagame.
 
-Crypt (12 cards, min=26 max=40 avg=7.83)
-----------------------------------------
+Crypt (12 cards, min=26, max=40, avg=7.83)
+------------------------------------------
 4x Erlik                                10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-4x Erebus                               7   AUS FOR NEC dem      Harbinger of Skulls:3
-2x Egothha                              7   AUS FOR NEC obf      Harbinger of Skulls:2
-2x Agaitas, The Scholar of Antiquities  6   AUS NEC for          Harbinger of Skulls:2
+4x Erebus                                7  AUS FOR NEC dem      Harbinger of Skulls:3
+2x Egothha                               7  AUS FOR NEC obf      Harbinger of Skulls:2
+2x Agaitas, The Scholar of Antiquities   6  AUS NEC for          Harbinger of Skulls:2
 
 Library (90 cards)
 Master (21; 8 trifle)

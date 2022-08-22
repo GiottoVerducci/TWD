@@ -9,23 +9,23 @@ Deck Name: Nasty Panders
 
 Description: legacy of rushing pander/weenie with db rounds and politics
 
-Crypt (15 cards, min=4 max=8 avg=1.6)
--------------------------------------
-1x Boy Toy              2   dem         Malkavian antitribu:2
-1x Carter               2   cel         Toreador antitribu:2
-1x Christine Boscacci   2   dom vic     Pander:2
-1x Frederick the Weak   2   pre         Brujah antitribu:2
-1x Horatio              2   vic         Tzimisce:2
-1x Jesús Alcalá         2   cel         Gangrel antitribu:3
-1x Nicholas Chang       2   aus         Toreador antitribu:3
-1x Piotr Andreikov      2   aus         Tzimisce:3
-1x Samson               2   dom         Ventrue antitribu:2
-1x Angela Decker        1   pre         Pander:2
-1x Feo Ramos            1   aus         Pander:3
-1x Huang, Blood Cultist 1   pro         Pander:2
-1x March Halcyon        1   for         Pander:2
-1x Olga Triminov        1   vic         Pander:3
-1x Royce                1   dom         Pander:2
+Crypt (15 cards, min=4, max=8, avg=1.6)
+---------------------------------------
+1x Boy Toy               2  dem      Malkavian antitribu:2
+1x Carter                2  cel      Toreador antitribu:2
+1x Christine Boscacci    2  dom vic  Pander:2
+1x Frederick the Weak    2  pre      Brujah antitribu:2
+1x Horatio               2  vic      Tzimisce:2
+1x Jesús Alcalá          2  cel      Gangrel antitribu:3
+1x Nicholas Chang        2  aus      Toreador antitribu:3
+1x Piotr Andreikov       2  aus      Tzimisce:3
+1x Samson                2  dom      Ventrue antitribu:2
+1x Angela Decker         1  pre      Pander:2
+1x Feo Ramos             1  aus      Pander:3
+1x Huang, Blood Cultist  1  pro      Pander:2
+1x March Halcyon         1  for      Pander:2
+1x Olga Triminov         1  vic      Pander:3
+1x Royce                 1  dom      Pander:2
 
 Library (88 cards)
 Master (22)

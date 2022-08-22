@@ -19,13 +19,13 @@ superior to hasten the deck. Undele's special with kiss of Ra and Banishments
 are very strong in the endgame, and in the final table helped me win, since
 there was 10+ anarch revolts in play.
 
-Crypt (12 cards, min=30 max=39 avg=8.75)
-----------------------------------------
-3x Ayo Igoli       10  AUS CEL FOR PRE obf tha            Ishtarri:4
-3x Undele          9   CEL FOR obf pre ser      magaji    Ishtarri:5
-2x Dmitra Ilyanova 9   CEL FOR POT PRE obf      justicar  Brujah:5
-2x Eugene          8   AUS CEL FOR PRE          primogen  Toreador:4
-2x Ubende          7   CEL PRE for obf qui      magaji    Ishtarri:4
+Crypt (12 cards, min=30, max=39, avg=8.75)
+------------------------------------------
+3x Ayo Igoli        10  AUS CEL FOR PRE obf tha            Ishtarri:4
+3x Undele            9  CEL FOR obf pre ser      magaji    Ishtarri:5
+2x Dmitra Ilyanova   9  CEL FOR POT PRE obf      justicar  Brujah:5
+2x Eugene            8  AUS CEL FOR PRE          primogen  Toreador:4
+2x Ubende            7  CEL PRE for obf qui      magaji    Ishtarri:4
 
 Library (90 cards)
 Master (11; 2 trifle)

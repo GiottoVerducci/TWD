@@ -11,15 +11,15 @@ Created by: Mikkel Nørgaard Petersen
 
 Description: Samedi stealth-bleed + bloat
 
-Crypt (12 cards, min=22 max=34 avg=7.17)
-----------------------------------------
-2x Baron, The                    9   FOR NEC OBF THN dom        2 votes  Samedi:2
-2x Reg Driscoll                  8   OBF THN aus for pre                 Samedi:2
-2x Jorge De La Muerte, The Agent 7   OBF THN cel for nec                 Samedi:2
-2x George Frederick              6   FOR THN nec obf                     Samedi:2
-2x Lithrac                       5   OBF for thn                         Samedi:2
-1x Genina, The Red Poet          8   CHI OBF THN aus cel for             Samedi:3
-1x Jack Dawson                   8   FOR OBF cel nec qui thn             Samedi:2
+Crypt (12 cards, min=22, max=34, avg=7.17)
+------------------------------------------
+2x Baron, The                     9  FOR NEC OBF THN dom      2 votes  Samedi:2
+2x Reg Driscoll                   8  OBF THN aus for pre               Samedi:2
+2x Jorge De La Muerte, The Agent  7  OBF THN cel for nec               Samedi:2
+2x George Frederick               6  FOR THN nec obf                   Samedi:2
+2x Lithrac                        5  OBF for thn                       Samedi:2
+1x Genina, The Red Poet           8  CHI OBF THN aus cel for           Samedi:3
+1x Jack Dawson                    8  FOR OBF cel nec qui thn           Samedi:2
 
 Library (90 cards)
 Master (18; 2 trifle)

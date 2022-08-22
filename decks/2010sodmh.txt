@@ -9,13 +9,13 @@ Szabolcs Toth
 
 Deck Name: KungFu
 
-Crypt (12 cards, min=20 max=32 avg=6.67)
-----------------------------------------
-4x Miller Delmardigan, Teacher of Bahari 8   CEL PRE aus pro      bishop  Toreador antitribu:2
-2x Richter, The Templar of Du Mont       7   CEL POT for pre              Brujah antitribu:2
-2x Theo Bell (ADV)                       7   CEL POT PRE aus dom          Brujah:2
-2x Bianca                                6   CEL pot pre                  Brujah:1
-2x Parmenides                            4   CEL qui                      Assamite:2
+Crypt (12 cards, min=20, max=32, avg=6.67)
+------------------------------------------
+4x Miller Delmardigan, Teacher of Bahari  8  CEL PRE aus pro      bishop  Toreador antitribu:2
+2x Richter, The Templar of Du Mont        7  CEL POT for pre              Brujah antitribu:2
+2x Theo Bell (ADV)                        7  CEL POT PRE aus dom          Brujah:2
+2x Bianca                                 6  CEL pot pre                  Brujah:1
+2x Parmenides                             4  CEL qui                      Assamite:2
 
 Library (90 cards)
 Master (14; 3 trifle)

@@ -9,15 +9,15 @@ Deck Name: tempt me plox 2
 
 4gw14
 
-Crypt (12 cards, min=9 max=24 avg=4.58)
----------------------------------------
-3x Allonzo Montoya  6   OBF SER ani aus  Abomination:3
-3x Hesha Ruhadze    6   SER ani obf pre  Follower of Set:2
-2x Celine Chevalier 3   obf ser          Follower of Set:2
-1x Count Ormonde    5   OBF dom pre ser  Follower of Set:2
-1x Dedefra          5   SER nec obf      Follower of Set:2
-1x Lalitha          2   ser              Follower of Set:2
-1x Julius           1   qui ser          Caitiff:2
+Crypt (12 cards, min=9, max=24, avg=4.58)
+-----------------------------------------
+3x Allonzo Montoya   6  OBF SER ani aus  Abomination:3
+3x Hesha Ruhadze     6  SER ani obf pre  Follower of Set:2
+2x Celine Chevalier  3  obf ser          Follower of Set:2
+1x Count Ormonde     5  OBF dom pre ser  Follower of Set:2
+1x Dedefra           5  SER nec obf      Follower of Set:2
+1x Lalitha           2  ser              Follower of Set:2
+1x Julius            1  qui ser          Caitiff:2
 
 Library (80 cards)
 Master (19; 5 trifle)

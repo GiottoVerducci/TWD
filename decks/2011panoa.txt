@@ -13,13 +13,13 @@ Description: Another Malkavian wall abusing Madness Network
 and an untap mechanism for mutli-bleeding, in this case
 Protean for Earth Meld and Homonculus.
 
-Crypt (12 cards, min=14 max=40 avg=6.92)
-----------------------------------------
-5x Rachel Brandywine            10  AUS DEM OBF PRO ani  prince  Malkavian:3
-2x Greger Anderssen             7   AUS OBF dom pro      prince  Malkavian:2
-2x Victoria                     5   AUS cel obf                  Malkavian:2
-2x Zöe                          3   AUS cel obf                  Malkavian:2
-1x Milo, The Invisible Horror   3   aus obf                      Malkavian:3
+Crypt (12 cards, min=14, max=40, avg=6.92)
+------------------------------------------
+5x Rachel Brandywine           10  AUS DEM OBF PRO ani  prince  Malkavian:3
+2x Greger Anderssen             7  AUS OBF dom pro      prince  Malkavian:2
+2x Victoria                     5  AUS cel obf                  Malkavian:2
+2x Zöe                          3  AUS cel obf                  Malkavian:2
+1x Milo, The Invisible Horror   3  aus obf                      Malkavian:3
 
 Library (72 cards)
 Master (12; 1 trifle)

@@ -8,17 +8,17 @@ Deck Name: CS Ventrue
 
 Description: Vote Deck with a twist.
 
-Crypt (12 cards, min=31 max=39 avg=8.83)
-----------------------------------------
-2x Quentin                              9   AUS DOM FOR cel obt  bishop         Ventrue antitribu:2
-2x Wilhelm Waldburg                     9   DOM FOR PRE aus cel  prince         Ventrue:2
-2x Emerson Bridges                      8   DOM FOR PRE pot      prince         Ventrue:1
-1x Democritus                           10  DOM PRE aus cel for  justicar       Ventrue:1
-1x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop     Ventrue antitribu:2
-1x Queen Anne                           10  DOM FOR PRE aus obf  prince         Ventrue:2
-1x Kyle Strathcona, Cardinal of Canada  9   AUS DOM POT PRE for  cardinal       Ventrue antitribu:2
-1x Gustav Mallenhous                    8   AUS DOM for obt      priscus        Ventrue antitribu:2
-1x Sir Walter Nash                      7   DOM FOR PRE          prince         Ventrue:1
+Crypt (12 cards, min=31, max=39, avg=8.83)
+------------------------------------------
+2x Quentin                               9  AUS DOM FOR cel obt  bishop      Ventrue antitribu:2
+2x Wilhelm Waldburg                      9  DOM FOR PRE aus cel  prince      Ventrue:2
+2x Emerson Bridges                       8  DOM FOR PRE pot      prince      Ventrue:1
+1x Democritus                           10  DOM PRE aus cel for  justicar    Ventrue:1
+1x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop  Ventrue antitribu:2
+1x Queen Anne                           10  DOM FOR PRE aus obf  prince      Ventrue:2
+1x Kyle Strathcona, Cardinal of Canada   9  AUS DOM POT PRE for  cardinal    Ventrue antitribu:2
+1x Gustav Mallenhous                     8  AUS DOM for obt      priscus     Ventrue antitribu:2
+1x Sir Walter Nash                       7  DOM FOR PRE          prince      Ventrue:1
 
 Library (90 cards)
 Master (20)

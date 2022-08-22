@@ -11,13 +11,13 @@ featuring Santaleous and The unnamed. Santaleous stops
 preys pool gain and decisive masters while The unnamed
 and Enkil Cog keep your pool high.
 
-Crypt (12 cards, min=12 max=40 avg=7.33)
-----------------------------------------
-4x unnamed, The   10  CEL DAI OBF PRE PRO  Baali:6
-4x Santaleous     9   AUS CEL DEM OBF      Malkavian:5
-2x Tyler McGill   4   AUS pre              Toreador:5
-1x Veejay Vinod   3   AUS                  Nagaraja:6
-1x Anarch Convert 1   -none-               Caitiff:ANY
+Crypt (12 cards, min=12, max=40, avg=7.33)
+------------------------------------------
+4x unnamed, The    10  CEL DAI OBF PRE PRO  Baali:6
+4x Santaleous       9  AUS CEL DEM OBF      Malkavian:5
+2x Tyler McGill     4  AUS pre              Toreador:5
+1x Veejay Vinod     3  AUS                  Nagaraja:6
+1x Anarch Convert   1  -none-               Caitiff:ANY
 
 Library (82 cards)
 Master (17; 1 trifle)

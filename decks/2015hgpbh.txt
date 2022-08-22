@@ -6,13 +6,13 @@ March 22nd 2015
 Alain Greiner
 https://www.vekn.net/event-calendar/event/7941
 
-Crypt (12 cards, min=4 max=40 avg=6.08)
----------------------------------------
-4x Goratrix       10  ANI AUS DOM THA vic  Tremere antitribu:2
-4x Anarch Convert 1   -none-               Caitiff:ANY
-2x Omaya          7   ANI AUS FOR pro      Gangrel antitribu:2
-1x Anton          8   ANI AUS cel obf vic  Tzimisce:2
-1x Dragos         7   ANI AUS vic          Tzimisce:2
+Crypt (12 cards, min=4, max=40, avg=6.08)
+-----------------------------------------
+4x Goratrix        10  ANI AUS DOM THA vic  Tremere antitribu:2
+4x Anarch Convert   1  -none-               Caitiff:ANY
+2x Omaya            7  ANI AUS FOR pro      Gangrel antitribu:2
+1x Anton            8  ANI AUS cel obf vic  Tzimisce:2
+1x Dragos           7  ANI AUS vic          Tzimisce:2
 
 Library (90 cards)
 Master (18; 3 trifle)

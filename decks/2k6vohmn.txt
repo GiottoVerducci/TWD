@@ -10,20 +10,20 @@ Created by: Xian
 
 Description: It does some stuff. Apparently people have trouble figuring it out.
 
-Crypt (12 cards, min=10 max=22 avg=4)
--------------------------------------
-1x Gentha Shale            6   ANI PRE pot spi  Ahrimane:4
-1x Sundown                 6   ANI POT obf pre  Nosferatu:3
-1x Fish                    5   ANI POT pre      Guruhi:4
-1x Hezekiah Rutledge       5   PRE ani cel pot  Brujah:4
-1x Bobby Lemon             4   ANI pro          Gangrel:3
-1x Devyn                   4   ani chi pre      Ravnos:4
-1x Lumumba                 4   PRE ani          Guruhi:4
-1x Urenna Bunu             4   ani pot pre      Guruhi:4
-1x Zhara                   4   ani for pre      Ishtarri:3
-1x Emerson Wilkershire III 2   pre              Toreador:3
-1x Mouse                   2   ani              Nosferatu:3
-1x Zip                     2   ani              Ravnos:3
+Crypt (12 cards, min=10, max=22, avg=4)
+---------------------------------------
+1x Gentha Shale             6  ANI PRE pot spi  Ahrimane:4
+1x Sundown                  6  ANI POT obf pre  Nosferatu:3
+1x Fish                     5  ANI POT pre      Guruhi:4
+1x Hezekiah Rutledge        5  PRE ani cel pot  Brujah:4
+1x Bobby Lemon              4  ANI pro          Gangrel:3
+1x Devyn                    4  ani chi pre      Ravnos:4
+1x Lumumba                  4  PRE ani          Guruhi:4
+1x Urenna Bunu              4  ani pot pre      Guruhi:4
+1x Zhara                    4  ani for pre      Ishtarri:3
+1x Emerson Wilkershire III  2  pre              Toreador:3
+1x Mouse                    2  ani              Nosferatu:3
+1x Zip                      2  ani              Ravnos:3
 
 Library (90 cards)
 Master (20; 6 trifle)

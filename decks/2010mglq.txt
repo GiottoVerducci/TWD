@@ -12,14 +12,14 @@ other ravnos with dom should be added, as CHI isn't as mandatory as I
 initially thought. Get out Ivan, get the Heart of Nizchetus, and let
 the cycling roll.
 
-Crypt (12 cards, min=23 max=40 avg=7.92)
-----------------------------------------
-5x Ivan Krenyenko       10  ANI CHI FOR POT obf  Ravnos:2
-2x Gabrin               8   ANI CHI dom for      Ravnos:2
-2x Joaquina Amaya       6   ANI CHI FOR          Ravnos:2
-1x Sarisha Veliku       6   ANI FOR chi dom      Ravnos:2
-1x Vaclav Petalengro    6   ANI CHI for pot      Ravnos:2
-1x Khalil Ravana        5   CHI ani for pre      Ravnos:2
+Crypt (12 cards, min=23, max=40, avg=7.92)
+------------------------------------------
+5x Ivan Krenyenko     10  ANI CHI FOR POT obf  Ravnos:2
+2x Gabrin              8  ANI CHI dom for      Ravnos:2
+2x Joaquina Amaya      6  ANI CHI FOR          Ravnos:2
+1x Sarisha Veliku      6  ANI FOR chi dom      Ravnos:2
+1x Vaclav Petalengro   6  ANI CHI for pot      Ravnos:2
+1x Khalil Ravana       5  CHI ani for pre      Ravnos:2
 
 Library (90 cards)
 Master (21)

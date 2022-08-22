@@ -14,18 +14,18 @@ Second Tradition and pool gain via Parity Shift.
 It's easyish to get through by proper negotiating
 even without any vote push.
 
-Crypt (12 cards, min=16 max=24 avg=4.83)
-----------------------------------------
-2x Mustafa, The Heir    6   FOR PRE cel dom     prince    Ventrue:4
-2x Tara                 6   POT PRE cel         prince    Brujah:5
-1x Shasa Abu Badr       5   PRE cel for                   Ishtarri:4
-1x Victor Pelletier     5   PRE cel dom for               Ventrue:4
-1x Antoinette Dubois    4   PRE for mel                   Daughter of Cacophony:4
-1x Bethany Ray          4   PRE aus                       Toreador:5
-1x Lumumba              4   PRE ani                       Guruhi:4
-1x Marla Kenyon         4   PRE ser                       Follower of Set:4
-1x Reginald Moore       4   PRE                 primogen  Brujah:4
-1x Reverend Adams (ADV) 4   PRE aus                       Ventrue:4
+Crypt (12 cards, min=16, max=24, avg=4.83)
+------------------------------------------
+2x Mustafa, The Heir     6  FOR PRE cel dom  prince    Ventrue:4
+2x Tara                  6  POT PRE cel      prince    Brujah:5
+1x Shasa Abu Badr        5  PRE cel for                Ishtarri:4
+1x Victor Pelletier      5  PRE cel dom for            Ventrue:4
+1x Antoinette Dubois     4  PRE for mel                Daughter of Cacophony:4
+1x Bethany Ray           4  PRE aus                    Toreador:5
+1x Lumumba               4  PRE ani                    Guruhi:4
+1x Marla Kenyon          4  PRE ser                    Follower of Set:4
+1x Reginald Moore        4  PRE              primogen  Brujah:4
+1x Reverend Adams (ADV)  4  PRE aus                    Ventrue:4
 
 Library (64 cards)
 Master (13; 6 trifle)

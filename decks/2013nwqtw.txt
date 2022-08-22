@@ -9,18 +9,18 @@ Brian Moritz
 
 Deck Name: Tzimisce Starvation
 
-Crypt (12 cards, min=19 max=35 avg=6.5)
----------------------------------------
-2x Caliban          6   ANI AUS VIC                       Tzimisce:2
-2x Corine Marcón    6   AUS VIC ani                       Tzimisce:2
-1x Goratrix         10  ANI AUS DOM THA vic               Tremere antitribu:2
-1x Lambach          10  ANI AUS DOM VIC pre     cardinal  Tzimisce:2
-1x Meshenka         8   ANI AUS VIC             priscus   Tzimisce:2
-1x Dragos           7   ANI AUS vic                       Tzimisce:2
-1x Ana Rita Montaña 5   VIC aus dom obf                   Tzimisce:3
-1x Devin Bisley     5   ANI AUS vic                       Tzimisce:2
-1x Rose, The        5   PRE VIC aus                       Tzimisce:3
-1x Lolita Houston   4   VIC aus                           Tzimisce:2
+Crypt (12 cards, min=19, max=35, avg=6.5)
+-----------------------------------------
+2x Caliban            6  ANI AUS VIC                    Tzimisce:2
+2x Corine Marcón      6  AUS VIC ani                    Tzimisce:2
+1x Goratrix          10  ANI AUS DOM THA vic            Tremere antitribu:2
+1x Lambach           10  ANI AUS DOM VIC pre  cardinal  Tzimisce:2
+1x Meshenka           8  ANI AUS VIC          priscus   Tzimisce:2
+1x Dragos             7  ANI AUS vic                    Tzimisce:2
+1x Ana Rita Montaña   5  VIC aus dom obf                Tzimisce:3
+1x Devin Bisley       5  ANI AUS vic                    Tzimisce:2
+1x Rose, The          5  PRE VIC aus                    Tzimisce:3
+1x Lolita Houston     4  VIC aus                        Tzimisce:2
 
 Library (90 cards)
 Master (19; 4 trifle)

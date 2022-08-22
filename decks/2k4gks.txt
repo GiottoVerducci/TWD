@@ -21,13 +21,13 @@ killing you with Obedience. Use all the broken cards you can think of
 and win. It requires a great deal of thinking and some dealing but
 it always takes vp and it usually takes gw's too.
 
-Crypt (12 cards, min=28 max=44 avg=8.83)
-----------------------------------------
-4x Leandro              11  AUS OBF PRE cel dom  inner circle   Malkavian:2
-2x Lucian               10  AUS DOM OBF cel tha  justicar       Malkavian:1
-2x Gilbert Duane        7   AUS DOM OBF          prince         Malkavian:1
-2x Greger Anderssen     7   AUS OBF dom pro      prince         Malkavian:2
-2x Mariel, Lady Thunder 7   DOM OBF aus tha                     Malkavian:1
+Crypt (12 cards, min=28, max=44, avg=8.83)
+------------------------------------------
+4x Leandro               11  AUS OBF PRE cel dom  inner circle  Malkavian:2
+2x Lucian                10  AUS DOM OBF cel tha  justicar      Malkavian:1
+2x Gilbert Duane          7  AUS DOM OBF          prince        Malkavian:1
+2x Greger Anderssen       7  AUS OBF dom pro      prince        Malkavian:2
+2x Mariel, Lady Thunder   7  DOM OBF aus tha                    Malkavian:1
 
 Library (90 cards)
 Master (30)

@@ -25,16 +25,16 @@ likely crunch it, but true combat has to go upstream heavily or it won't
 survive, so you may be able to just sit it out for a while until
 the coast is clear.
 
-Crypt (12 cards, min=15 max=31 avg=5.83)
-----------------------------------------
-3x Gratiano                      8   DOM OBT obf pot    priscus  Lasombra:2
-2x Julia Prima                   7   DOM OBT aus myt             Kiasyd:2
-2x Kassiym Malikhair             6   MYT OBT dom for             Kiasyd:2
-1x Banjoko                       5   DOM obt pot                 Lasombra:3
-1x Guido Lucciano                5   OBT dom obf                 Lasombra:2
-1x Ignacio, The Black Priest     4   dom obt pot                 Lasombra:2
-1x Ramiro                        4   dom obt vic                 Lasombra:2
-1x Aaron Duggan, Cameron's Toady 2   obt                         Lasombra:2
+Crypt (12 cards, min=15, max=31, avg=5.83)
+------------------------------------------
+3x Gratiano                       8  DOM OBT obf pot  priscus  Lasombra:2
+2x Julia Prima                    7  DOM OBT aus myt           Kiasyd:2
+2x Kassiym Malikhair              6  MYT OBT dom for           Kiasyd:2
+1x Banjoko                        5  DOM obt pot               Lasombra:3
+1x Guido Lucciano                 5  OBT dom obf               Lasombra:2
+1x Ignacio, The Black Priest      4  dom obt pot               Lasombra:2
+1x Ramiro                         4  dom obt vic               Lasombra:2
+1x Aaron Duggan, Cameron's Toady  2  obt                       Lasombra:2
 
 Library (89 cards)
 Master (18)

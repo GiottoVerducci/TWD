@@ -16,16 +16,16 @@ the deck is pretty poor as it is written. I may try more combat. I also
 could not get in as many fights as I would like so maybe a haven or
 additional bums rushes would be nice.
 
-Crypt (12 cards, min=16 max=32 avg=6.08)
-----------------------------------------
-2x Constanza Vinti              8   CEL DOM POT          prince    Brujah:2
-2x Dónal O'Connor               8   CEL DOM POT          prince    Brujah:2
-2x Theo Bell                    7   POT cel dom pre                Brujah:2
-2x Volker, The Puppet Prince    5   CEL pot              prince    Brujah:2
-1x Anvil                        6   CEL POT dom pre tha  primogen  Brujah:1
-1x Jimmy Dunn                   4   CEL POT for                    Pander:2
-1x Victor Tolliver              4   CEL pot                        Brujah antitribu:2
-1x Dre, Leader of the Cold Dawn 3   cel pot                        Brujah:1
+Crypt (12 cards, min=16, max=32, avg=6.08)
+------------------------------------------
+2x Constanza Vinti               8  CEL DOM POT          prince    Brujah:2
+2x Dónal O'Connor                8  CEL DOM POT          prince    Brujah:2
+2x Theo Bell                     7  POT cel dom pre                Brujah:2
+2x Volker, The Puppet Prince     5  CEL pot              prince    Brujah:2
+1x Anvil                         6  CEL POT dom pre tha  primogen  Brujah:1
+1x Jimmy Dunn                    4  CEL POT for                    Pander:2
+1x Victor Tolliver               4  CEL pot                        Brujah antitribu:2
+1x Dre, Leader of the Cold Dawn  3  cel pot                        Brujah:1
 
 Library (90 cards)
 Master (13)

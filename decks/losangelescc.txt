@@ -11,18 +11,18 @@ of the Smith for Ankara Citadel. Almost everything is free from then out:
 Freak, Govern, Magic, Condition, Deflect, etc.
 Mostly defense that can function as offense.
 
-Crypt (13 cards, min=8 max=37 avg=5.62)
----------------------------------------
-4x Cardano                      9   DOM FOR THA ani aus cel     prince    Tremere:1
-1x Ulugh Beg, The Watcher       10  AUS DOM THA cel for pot     justicar  Tremere:1
-1x Muaziz, Archon of Ulugh Beg  7   THA aus dom for                       Tremere:2
-1x Courtland Leighton           4   dom for pre                           Ventrue:1
-1x Ingrid Russo                 4   DOM for                               Ventrue antitribu:2
-1x Sarah Cobbler                4   THA dom                               Tremere:1
-1x Jing Wei                     3   dom tha                               Tremere:1
-1x Mustafa Rahman               2   dom                                   Tremere:2
-1x Roreca Quaid                 2   tha                                   Tremere:1
-1x March Halcyon                1   for                                   Pander:2
+Crypt (13 cards, min=8, max=37, avg=5.62)
+-----------------------------------------
+4x Cardano                       9  DOM FOR THA ani aus cel  prince    Tremere:1
+1x Ulugh Beg, The Watcher       10  AUS DOM THA cel for pot  justicar  Tremere:1
+1x Muaziz, Archon of Ulugh Beg   7  THA aus dom for                    Tremere:2
+1x Courtland Leighton            4  dom for pre                        Ventrue:1
+1x Ingrid Russo                  4  DOM for                            Ventrue antitribu:2
+1x Sarah Cobbler                 4  THA dom                            Tremere:1
+1x Jing Wei                      3  dom tha                            Tremere:1
+1x Mustafa Rahman                2  dom                                Tremere:2
+1x Roreca Quaid                  2  tha                                Tremere:1
+1x March Halcyon                 1  for                                Pander:2
 
 Library (90 cards)
 Master (12)

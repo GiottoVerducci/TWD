@@ -32,14 +32,14 @@ on it. The last bit of advice, ditch the harvest rites, trust
 me, they suck here. Thanks to Jay for getting such a large
 showing from Columbus and to the Newark crew for making it out!
 
-Crypt (12 cards, min=20 max=26 avg=5.83)
-----------------------------------------
-2x Terrell Harding       7   AUS THA cel dom obf  Tremere antitribu:3
-2x Elena Mendoza Vasquez 6   AUS THA dom obt      Tremere antitribu:3
-2x Selena                6   AUS DOM THA          Tremere antitribu:3
-2x Yasmin the Black      6   AUS THA dom pre      Tremere antitribu:3
-2x Alejandro Aguirre     5   ani aus dom tha      Tremere antitribu:3
-2x Hannigan              5   AUS THA dom          Tremere antitribu:2
+Crypt (12 cards, min=20, max=26, avg=5.83)
+------------------------------------------
+2x Terrell Harding        7  AUS THA cel dom obf  Tremere antitribu:3
+2x Elena Mendoza Vasquez  6  AUS THA dom obt      Tremere antitribu:3
+2x Selena                 6  AUS DOM THA          Tremere antitribu:3
+2x Yasmin the Black       6  AUS THA dom pre      Tremere antitribu:3
+2x Alejandro Aguirre      5  ani aus dom tha      Tremere antitribu:3
+2x Hannigan               5  AUS THA dom          Tremere antitribu:2
 
 Library (90 cards)
 Master (21; 6 trifle)

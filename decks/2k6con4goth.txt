@@ -7,17 +7,17 @@ Erik Torstensson
 
 Deck Name: And so I teach you
 
-Crypt (12 cards, min=13 max=44 avg=7)
--------------------------------------
-4x Enkidu, The Noah     11  ANI CEL OBF POT PRO for     Gangrel antitribu:4
-1x Karsh                10  ANI CEL FOR POT PRO         Gangrel:3
-1x Horrock              6   ANI PRO vic                 Gangrel:3
-1x Janey Pickman        6   ANI PRO for                 Gangrel antitribu:4
-1x Céleste Lamontagne   5   ANI PRO for                 Gangrel antitribu:4
-1x Lord Ashton          5   ANI for pro                 Gangrel:3
-1x Bobby Lemon          4   ANI pro                     Gangrel:3
-1x Mouse                2   ani                         Nosferatu:3
-1x Zip                  2   ani                         Ravnos:3
+Crypt (12 cards, min=13, max=44, avg=7)
+---------------------------------------
+4x Enkidu, The Noah    11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+1x Karsh               10  ANI CEL FOR POT PRO      Gangrel:3
+1x Horrock              6  ANI PRO vic              Gangrel:3
+1x Janey Pickman        6  ANI PRO for              Gangrel antitribu:4
+1x Céleste Lamontagne   5  ANI PRO for              Gangrel antitribu:4
+1x Lord Ashton          5  ANI for pro              Gangrel:3
+1x Bobby Lemon          4  ANI pro                  Gangrel:3
+1x Mouse                2  ani                      Nosferatu:3
+1x Zip                  2  ani                      Ravnos:3
 
 Library (90 cards)
 Master (13)

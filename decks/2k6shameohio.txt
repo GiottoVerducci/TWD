@@ -11,15 +11,15 @@ Description: This deck was designed to be played in a tournament
 called Shame. It is very shameful and should not be played ever
 unless someone else is silly enough to name a tournament Shame.
 
-Crypt (12 cards, min=25 max=44 avg=9)
--------------------------------------
-5x Etrius                   11  AUS DOM OBF THA pro     inner circle    Tremere:2
-2x Lucian                   10  AUS DOM OBF cel tha     justicar        Malkavian:1
-1x Justine, Elder of Dallas 8   AUS DOM THA obf         primogen        Tremere:1
-1x Greger Anderssen         7   AUS OBF dom pro         prince          Malkavian:2
-1x Mariel, Lady Thunder     7   DOM OBF aus tha                         Malkavian:1
-1x Reverend Blackwood       6   DOM THA obf             bishop          Tremere antitribu:2
-1x Zebulon                  5   OBF aus dom pro                         Malkavian:1
+Crypt (12 cards, min=25, max=44, avg=9)
+---------------------------------------
+5x Etrius                    11  AUS DOM OBF THA pro  inner circle  Tremere:2
+2x Lucian                    10  AUS DOM OBF cel tha  justicar      Malkavian:1
+1x Justine, Elder of Dallas   8  AUS DOM THA obf      primogen      Tremere:1
+1x Greger Anderssen           7  AUS OBF dom pro      prince        Malkavian:2
+1x Mariel, Lady Thunder       7  DOM OBF aus tha                    Malkavian:1
+1x Reverend Blackwood         6  DOM THA obf          bishop        Tremere antitribu:2
+1x Zebulon                    5  OBF aus dom pro                    Malkavian:1
 
 Library (90 cards)
 Master (14)

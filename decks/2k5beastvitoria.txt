@@ -7,16 +7,16 @@ Ramon Moure
 
 Deck Name: Sabrina - Love in the Shadows
 
-Crypt (12 cards, min=12 max=44 avg=6.83)
-----------------------------------------
-5x Enkidu, The Noah     11  ANI CEL OBF POT PRO for     Gangrel antitribu:4
-1x Black Lotus          5   DOM aus obf ser             Follower of Set:4
-1x Catherine du Bois    5   DOM for obf pre             Ventrue:3
-1x Kyoko Shinsegawa     5   aus cel dom for             Tremere:3
-1x Diana Vick           3   dom pre                     Ventrue:3
-1x Ember Wright         3   aus dom                     Tremere antitribu:3
-1x Lana Butcher         3   dom for                     Ventrue:3
-1x Sister Evelyn        3   aus dom                     Ventrue antitribu:3
+Crypt (12 cards, min=12, max=44, avg=6.83)
+------------------------------------------
+5x Enkidu, The Noah   11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+1x Black Lotus         5  DOM aus obf ser          Follower of Set:4
+1x Catherine du Bois   5  DOM for obf pre          Ventrue:3
+1x Kyoko Shinsegawa    5  aus cel dom for          Tremere:3
+1x Diana Vick          3  dom pre                  Ventrue:3
+1x Ember Wright        3  aus dom                  Tremere antitribu:3
+1x Lana Butcher        3  dom for                  Ventrue:3
+1x Sister Evelyn       3  aus dom                  Ventrue antitribu:3
 
 Library (90 cards)
 Master (14)

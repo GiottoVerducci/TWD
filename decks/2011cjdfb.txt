@@ -10,21 +10,21 @@ Kleber Souza
 Deck Name: Honors Ashur Tablets
 Created by: Pedro Paulo de Sousa Mendes
 
-Crypt (14 cards, min=33 max=44 avg=9.71)
-----------------------------------------
-2x Anson                                8   CEL PRE aus dom             prince          Toreador:1
-1x Arika                                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-1x Harrod                               11  ANI CEL OBF POT aus pre     inner circle    Nosferatu:2
-1x Leandro                              11  AUS OBF PRE cel dom         inner circle    Malkavian:2
-1x Sutekh, The Dark God                 11  NEC OBF PRE SER cel pot     2 votes         Follower of Set:2
-1x Cailean                              10  ANI OBF POT PRE dom         archbishop      Nosferatu antitribu:2
-1x François Villon                      10  AUS CEL PRE chi obf pot     prince          Toreador:2
-1x Huitzilopochtli                      10  AUS DAI DOM OBF POT PRE                     Baali:2
-1x Nehsi                                10  OBF PRE PRO SER aus for     2 votes         Follower of Set:2
-1x Queen Anne                           10  DOM FOR PRE aus obf         prince          Ventrue:2
-1x Sheldon, Lord of the Clog            9   ANI AUS OBF POT for         justicar        Nosferatu:1
-1x Suhailah                             9   FOR OBF pot ser             prince          Ventrue:2
-1x Kephamos, High Priest of Marrakech   8   SER dom obf pre             2 votes         Follower of Set:2
+Crypt (14 cards, min=33, max=44, avg=9.71)
+------------------------------------------
+2x Anson                                8  CEL PRE aus dom          prince        Toreador:1
+1x Arika                               11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Harrod                              11  ANI CEL OBF POT aus pre  inner circle  Nosferatu:2
+1x Leandro                             11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Sutekh, The Dark God                11  NEC OBF PRE SER cel pot  2 votes       Follower of Set:2
+1x Cailean                             10  ANI OBF POT PRE dom      archbishop    Nosferatu antitribu:2
+1x François Villon                     10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Huitzilopochtli                     10  AUS DAI DOM OBF POT PRE                Baali:2
+1x Nehsi                               10  OBF PRE PRO SER aus for  2 votes       Follower of Set:2
+1x Queen Anne                          10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Sheldon, Lord of the Clog            9  ANI AUS OBF POT for      justicar      Nosferatu:1
+1x Suhailah                             9  FOR OBF pot ser          prince        Ventrue:2
+1x Kephamos, High Priest of Marrakech   8  SER dom obf pre          2 votes       Follower of Set:2
 
 Library (79 cards)
 Master (42; 4 trifle)

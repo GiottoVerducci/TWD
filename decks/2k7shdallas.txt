@@ -8,18 +8,18 @@ Deck Name: Unexpected FTW
 
 Brujah Antitribu Bruise Breed/Boon
 
-Crypt (12 cards, min=15 max=39 avg=6.67)
-----------------------------------------
-3x Armin Brenner        10  CEL FOR POT PRE ani obf     archbishop  Brujah antitribu:4
-1x Hektor               9   CEL POT PRE QUI for         priscus     Brujah antitribu:4
-1x Marcel de Breau      9   CEL POT PRE ani pro         archbishop  Brujah antitribu:3
-1x Urraca               7   ANI CEL POT pre             bishop      Brujah antitribu:4
-1x Axel Von Anders      5   PRE cel obf pot                         Brujah antitribu:4
-1x Wah Chun-Yuen        5   POT cel dom pre                         Brujah antitribu:3
-1x Alessandro Garcia    4   pot pre pro                             Brujah antitribu:4
-1x Mariano Pomposo      4   aus cel pot                             Brujah antitribu:3
-1x Patrick              4   POT pre                                 Brujah antitribu:4
-1x Smash                3   pot pre                                 Brujah antitribu:4
+Crypt (12 cards, min=15, max=39, avg=6.67)
+------------------------------------------
+3x Armin Brenner      10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
+1x Hektor              9  CEL POT PRE QUI for      priscus     Brujah antitribu:4
+1x Marcel de Breau     9  CEL POT PRE ani pro      archbishop  Brujah antitribu:3
+1x Urraca              7  ANI CEL POT pre          bishop      Brujah antitribu:4
+1x Axel Von Anders     5  PRE cel obf pot                      Brujah antitribu:4
+1x Wah Chun-Yuen       5  POT cel dom pre                      Brujah antitribu:3
+1x Alessandro Garcia   4  pot pre pro                          Brujah antitribu:4
+1x Mariano Pomposo     4  aus cel pot                          Brujah antitribu:3
+1x Patrick             4  POT pre                              Brujah antitribu:4
+1x Smash               3  pot pre                              Brujah antitribu:4
 
 Library (90 cards)
 Master (18)

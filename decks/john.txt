@@ -9,15 +9,15 @@ Also, John Cooper provided me with a list of his winning deck for the November
 tournament. I'm sorry to say it is called Brujah-Protean wank-fest. Crude lot,
 these scummers [affectionate pompey slang for people from Southampton].
 
-Crypt (12 cards, min=22 max=38 avg=7.67)
-----------------------------------------
-3x Don Cruez, The Idealist              10  CEL POT PRE ani dom pro     justicar  Brujah:1
-3x Dónal O'Connor                       8   CEL DOM POT                 prince    Brujah:2
-2x Constanza Vinti                      8   CEL DOM POT                 prince    Brujah:2
-1x Beast, The Leatherface of Detroit    7   OBF POT ani cel                       Nosferatu antitribu:2
-1x Anvil                                6   CEL POT dom pre tha         primogen  Brujah:1
-1x Volker, The Puppet Prince            5   CEL pot                     prince    Brujah:2
-1x Jimmy Dunn                           4   CEL POT for                           Pander:2
+Crypt (12 cards, min=22, max=38, avg=7.67)
+------------------------------------------
+3x Don Cruez, The Idealist            10  CEL POT PRE ani dom pro  justicar  Brujah:1
+3x Dónal O'Connor                      8  CEL DOM POT              prince    Brujah:2
+2x Constanza Vinti                     8  CEL DOM POT              prince    Brujah:2
+1x Beast, The Leatherface of Detroit   7  OBF POT ani cel                    Nosferatu antitribu:2
+1x Anvil                               6  CEL POT dom pre tha      primogen  Brujah:1
+1x Volker, The Puppet Prince           5  CEL pot                  prince    Brujah:2
+1x Jimmy Dunn                          4  CEL POT for                        Pander:2
 
 Library (90 cards)
 Master (12)

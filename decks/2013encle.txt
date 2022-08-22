@@ -7,16 +7,16 @@ Mike Nudd
 Description: Should probably drop the Eludings for Guard Dogs. Maybe also drop the Mind Numbs
 and Shadow for two more Earth Melds and a Monastery of Shadows.
 
-Crypt (12 cards, min=34 max=40 avg=9.17)
-----------------------------------------
-5x Aksinya Daclau               9   ANI FOR PRE PRO cel tha                     Gangrel antitribu:4
-1x Adana de Sforza              11  CEL OBF POT PRE PRO aus     inner circle    Brujah:4
-1x Fakir al Sidi                11  ANI FOR PRE PRO THA abo                     Gangrel:4
-1x Malabranca                   9   AUS CEL PRE PRO obf         archbishop      Toreador antitribu:4
-1x Ondine "Boudicca" Sinclair   9   AUS CEL PRE PRO obt                         Toreador antitribu:5
-1x Viktor, The Night General    9   ANI CEL PRE PRO obf                         Gangrel:5
-1x Luanda Magere                8   CEL PRE PRO for                             Ishtarri:4
-1x Zubeida                      8   OBF PRE PRO for ser                         Abomination:5
+Crypt (12 cards, min=34, max=40, avg=9.17)
+------------------------------------------
+5x Aksinya Daclau               9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+1x Adana de Sforza             11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Fakir al Sidi               11  ANI FOR PRE PRO THA abo                Gangrel:4
+1x Malabranca                   9  AUS CEL PRE PRO obf      archbishop    Toreador antitribu:4
+1x Ondine "Boudicca" Sinclair   9  AUS CEL PRE PRO obt                    Toreador antitribu:5
+1x Viktor, The Night General    9  ANI CEL PRE PRO obf                    Gangrel:5
+1x Luanda Magere                8  CEL PRE PRO for                        Ishtarri:4
+1x Zubeida                      8  OBF PRE PRO for ser                    Abomination:5
 
 Library (80 cards)
 Master (26; 10 trifle)

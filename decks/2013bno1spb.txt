@@ -7,16 +7,16 @@ Pedro Coelho
 
 Deck Name: Nadima Wall
 
-Crypt (13 cards, min=13 max=32 avg=5.62)
-----------------------------------------
-4x Nadima               8   FOR PRO SER ani aus          Gangrel:3
-2x Horrock              6   ANI PRO vic                  Gangrel:3
-2x Mirembe Kabbada      5   PRO SER ani                  Gangrel:2
-1x Caitlin              6   ANI PRO aus dom      bishop  Gangrel antitribu:2
-1x Dr. Allan Woodstock  5   PRO ani aus for              Gangrel:3
-1x Ramona (ADV)         4   for pro                      Gangrel:2
-1x Chandler Hungerford  3   PRO                          Gangrel:2
-1x Huang, Blood Cultist 1   pro                          Pander:2
+Crypt (13 cards, min=13, max=32, avg=5.62)
+------------------------------------------
+4x Nadima                8  FOR PRO SER ani aus          Gangrel:3
+2x Horrock               6  ANI PRO vic                  Gangrel:3
+2x Mirembe Kabbada       5  PRO SER ani                  Gangrel:2
+1x Caitlin               6  ANI PRO aus dom      bishop  Gangrel antitribu:2
+1x Dr. Allan Woodstock   5  PRO ani aus for              Gangrel:3
+1x Ramona (ADV)          4  for pro                      Gangrel:2
+1x Chandler Hungerford   3  PRO                          Gangrel:2
+1x Huang, Blood Cultist  1  pro                          Pander:2
 
 Library (90 cards)
 Master (18; 2 trifle)

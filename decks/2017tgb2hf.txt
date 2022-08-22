@@ -35,15 +35,15 @@ I'd suggest dropping Lucita for 3rd Moncada and adding probably at least one
 Villein. Camarilla Vitae Slave is cute but not worth the effort. Monastery
 should probably be in there, too.
 
-Crypt (12 cards, min=25 max=44 avg=9.17)
-----------------------------------------
-5x Montano                                11  ANI DOM FOR OBT POT       2 votes   Lasombra:3
-2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal  Lasombra:2
-1x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince    Ventrue:3
-1x Gratiano                               8   DOM OBT obf pot           priscus   Lasombra:2
-1x Lucita (ADV)                           8   DOM FOR OBT cel pot                 Lasombra:2
-1x Banjoko                                5   DOM obt pot                         Lasombra:3
-1x Ignacio, The Black Priest              4   dom obt pot                         Lasombra:2
+Crypt (12 cards, min=25, max=44, avg=9.17)
+------------------------------------------
+5x Montano                                 11  ANI DOM FOR OBT POT      2 votes   Lasombra:3
+2x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal  Lasombra:2
+1x Marcus Vitel                            10  DOM FOR OBF OBT PRE      prince    Ventrue:3
+1x Gratiano                                 8  DOM OBT obf pot          priscus   Lasombra:2
+1x Lucita (ADV)                             8  DOM FOR OBT cel pot                Lasombra:2
+1x Banjoko                                  5  DOM obt pot                        Lasombra:3
+1x Ignacio, The Black Priest                4  dom obt pot                        Lasombra:2
 
 Library (72 cards)
 Master (13; 3 trifle)

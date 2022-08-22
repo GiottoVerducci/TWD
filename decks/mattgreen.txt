@@ -8,18 +8,18 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Ktg3fKHhATk
 Matt Green, released from his Wizardly purdah, prevailed
 with his "sleaze" deck [his epithet, not mine].
 
-Crypt (12 cards, min=10 max=28 avg=4.5)
----------------------------------------
-2x Hadrian Garrick                              4   obf pre                       Follower of Set:2
-2x Nepata                                       4   obf pre ser                   Follower of Set:2
-1x Saqqaf, Keeper of the Grand Temple of Set    9   OBF PRE SER cel for           Follower of Set:2
-1x Amisa                                        8   OBF SER pre pro      2 votes  Follower of Set:2
-1x Aisha                                        6   PRE ani aus ser               Follower of Set:2
-1x Dedefra                                      5   SER nec obf                   Follower of Set:2
-1x Khalil Anvari                                3   pre ser                       Follower of Set:2
-1x Lena Rowe                                    3   aus obf pre                   Pander:2
-1x Watenda                                      3   obf                           Malkavian:2
-1x Julius                                       1   qui ser                       Caitiff:2
+Crypt (12 cards, min=10, max=28, avg=4.5)
+-----------------------------------------
+2x Hadrian Garrick                            4  obf pre                       Follower of Set:2
+2x Nepata                                     4  obf pre ser                   Follower of Set:2
+1x Saqqaf, Keeper of the Grand Temple of Set  9  OBF PRE SER cel for           Follower of Set:2
+1x Amisa                                      8  OBF SER pre pro      2 votes  Follower of Set:2
+1x Aisha                                      6  PRE ani aus ser               Follower of Set:2
+1x Dedefra                                    5  SER nec obf                   Follower of Set:2
+1x Khalil Anvari                              3  pre ser                       Follower of Set:2
+1x Lena Rowe                                  3  aus obf pre                   Pander:2
+1x Watenda                                    3  obf                           Malkavian:2
+1x Julius                                     1  qui ser                       Caitiff:2
 
 Library (80 cards)
 Master (19)

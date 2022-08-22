@@ -12,17 +12,17 @@ If I play the deck again I'll remove Carlton (which didn't really see
 play) and add a Tier of Souls or two instead. Blood economy isn't too
 good in the deck, and additional bleeding would be good.
 
-Crypt (12 cards, min=8 max=33 avg=5.5)
---------------------------------------
-3x Anarch Convert       1   -none-                       Caitiff:ANY
-2x Randall              8   ANI AUS FOR PRO      1 vote  Gangrel:4
-1x Konrad Fleischer     9   ANI AUS DOM FOR tha          Ventrue antitribu:4
-1x Mordechai Ben-Nun    8   ANI AUS FOR NEC              Harbinger of Skulls:5
-1x Uriel                8   AUS FOR VAL ani obe  bishop  Salubri antitribu:4
-1x Babalawo Alafin      7   AUS FOR NEC ani              Harbinger of Skulls:4
-1x Anjalika Underwood   5   ANI aus chi for              Ravnos:5
-1x Solomon Batanea      5   AUS FOR nec                  Harbinger of Skulls:4
-1x Yuri Kerezenski      5   ANI aus for vic      bishop  Tzimisce:4
+Crypt (12 cards, min=8, max=33, avg=5.5)
+----------------------------------------
+3x Anarch Convert      1  -none-                       Caitiff:ANY
+2x Randall             8  ANI AUS FOR PRO      1 vote  Gangrel:4
+1x Konrad Fleischer    9  ANI AUS DOM FOR tha          Ventrue antitribu:4
+1x Mordechai Ben-Nun   8  ANI AUS FOR NEC              Harbinger of Skulls:5
+1x Uriel               8  AUS FOR VAL ani obe  bishop  Salubri antitribu:4
+1x Babalawo Alafin     7  AUS FOR NEC ani              Harbinger of Skulls:4
+1x Anjalika Underwood  5  ANI aus chi for              Ravnos:5
+1x Solomon Batanea     5  AUS FOR nec                  Harbinger of Skulls:4
+1x Yuri Kerezenski     5  ANI aus for vic      bishop  Tzimisce:4
 
 Library (89 cards)
 Master (17; 4 trifle)

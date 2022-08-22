@@ -20,20 +20,20 @@ and judged this tournament.
 Jay Kristoff,
 V:EKN Prince of Columbus, Ohio USA
 
-Crypt (12 cards, min=9 max=18 avg=3.42)
----------------------------------------
-1x Miriam Benyona                  5   AUS for obe  Salubri:2
-1x Victoria                        5   AUS cel obf  Malkavian:2
-1x Idalia, Prophet of Guadalajara  4   AUS dem      Malkavian antitribu:2
-1x Maldavis                        4   AUS for pre  Caitiff:3
-1x Remilliard, Devout Crusader     4   AUS pre      Toreador antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha      Tremere antitribu:2
-1x Isabel de Leon                  3   AUS          Toreador:2
-1x Martin Franckel                 3   AUS tha      Tremere:3
-1x Zöe                             3   AUS cel obf  Malkavian:2
-1x Almiro Suarez                   2   aus          Tremere:3
-1x Nicholas Chang                  2   aus          Toreador antitribu:3
-1x Piotr Andreikov                 2   aus          Tzimisce:3
+Crypt (12 cards, min=9, max=18, avg=3.42)
+-----------------------------------------
+1x Miriam Benyona                   5  AUS for obe  Salubri:2
+1x Victoria                         5  AUS cel obf  Malkavian:2
+1x Idalia, Prophet of Guadalajara   4  AUS dem      Malkavian antitribu:2
+1x Maldavis                         4  AUS for pre  Caitiff:3
+1x Remilliard, Devout Crusader      4  AUS pre      Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet  4  AUS tha      Tremere antitribu:2
+1x Isabel de Leon                   3  AUS          Toreador:2
+1x Martin Franckel                  3  AUS tha      Tremere:3
+1x Zöe                              3  AUS cel obf  Malkavian:2
+1x Almiro Suarez                    2  aus          Tremere:3
+1x Nicholas Chang                   2  aus          Toreador antitribu:3
+1x Piotr Andreikov                  2  aus          Tzimisce:3
 
 Library (90 cards)
 Master (15)

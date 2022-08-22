@@ -7,14 +7,14 @@ Mark Loughman
 
 Welcome to Newark
 
-Crypt (12 cards, min=19 max=36 avg=7.08)
-----------------------------------------
-4x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
-3x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
-2x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
-1x Calebros, The Martyr         5   ANI obf pot          prince    Nosferatu:2
-1x Sammy                        4   ani obf pot                    Nosferatu:1
-1x Raziya Samater               3   ani pot                        Brujah:2
+Crypt (12 cards, min=19, max=36, avg=7.08)
+------------------------------------------
+4x Sheldon, Lord of the Clog  9  ANI AUS OBF POT for  justicar  Nosferatu:1
+3x Nikolaus Vermeulen         7  POT ani for obf      prince    Nosferatu:2
+2x Selma the Repugnant        8  OBF POT ani for      prince    Nosferatu:1
+1x Calebros, The Martyr       5  ANI obf pot          prince    Nosferatu:2
+1x Sammy                      4  ani obf pot                    Nosferatu:1
+1x Raziya Samater             3  ani pot                        Brujah:2
 
 Library (90 cards)
 Master (13)

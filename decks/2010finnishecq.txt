@@ -16,11 +16,11 @@ If you want to use the combo in every single game (which I didn't),
 I'd suggest playing more copies of the key cards: Derange, Dementia and
 Enkil Cog.
 
-Crypt (12 cards, min=40 max=43 avg=10.25)
------------------------------------------
-5x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
-4x Cybele                10  ANI DAI OBF PRE SER THA                    Baali:4
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
+Crypt (12 cards, min=40, max=43, avg=10.25)
+-------------------------------------------
+5x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
+4x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
 
 Library (76 cards)
 Master (40; 9 trifle)

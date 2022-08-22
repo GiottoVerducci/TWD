@@ -9,14 +9,14 @@ Deck Name: SalinenCon 2010: Rollin' Rollin' Rollin' (Reprise)
 
 Description: Just another Tup Dog deck
 
-Crypt (22 cards, min=4 max=16 avg=1.73)
----------------------------------------
-16x Tupdog              1    POT VIS            Gargoyle:3
-2x  Antonio d'Erlette   5    THA dom for pot    Tremere antitribu:4
-1x  Ember Wright        3    aus dom            Tremere antitribu:3
-1x  Keith Moody         3    DOM                Tremere antitribu:4
-1x  Lectora             3    aus tha            Tremere antitribu:4
-1x  Saiz                3    aus dom            Tremere antitribu:3
+Crypt (22 cards, min=4, max=16, avg=1.73)
+-----------------------------------------
+16x Tupdog             1  POT VIS          Gargoyle:3
+2x  Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+1x  Ember Wright       3  aus dom          Tremere antitribu:3
+1x  Keith Moody        3  DOM              Tremere antitribu:4
+1x  Lectora            3  aus tha          Tremere antitribu:4
+1x  Saiz               3  aus dom          Tremere antitribu:3
 
 Library (90 cards)
 Master (13; 3 trifle)

@@ -6,21 +6,21 @@ Lev Steshenko
 
 Serpents
 
-Crypt (13 cards, min=12 max=26 avg=4.77)
-----------------------------------------
-1x Kephamos, High Priest of Marrakech   8   SER dom obf pre      2 votes  Follower of Set:2
-1x Qufur am-Heru                        7   OBF PRE SER cel tha           Follower of Set:2
-1x Aisha                                6   PRE ani aus ser               Follower of Set:2
-1x Catherine du Bois                    5   DOM for obf pre               Ventrue:3
-1x Count Ormonde                        5   OBF dom pre ser               Follower of Set:2
-1x Dedefra                              5   SER nec obf                   Follower of Set:2
-1x Ilyana Ravidovich                    5   aus dom for pre               Ventrue:3
-1x Sir Marriot D'Urban                  5   PRE aus obf ser               Follower of Set:2
-1x Hadrian Garrick                      4   obf pre                       Follower of Set:2
-1x Nepata                               4   obf pre ser                   Follower of Set:2
-1x Celine Chevalier                     3   obf ser                       Follower of Set:2
-1x Khalil Anvari                        3   pre ser                       Follower of Set:2
-1x Lalitha                              2   ser                           Follower of Set:2
+Crypt (13 cards, min=12, max=26, avg=4.77)
+------------------------------------------
+1x Kephamos, High Priest of Marrakech  8  SER dom obf pre      2 votes  Follower of Set:2
+1x Qufur am-Heru                       7  OBF PRE SER cel tha           Follower of Set:2
+1x Aisha                               6  PRE ani aus ser               Follower of Set:2
+1x Catherine du Bois                   5  DOM for obf pre               Ventrue:3
+1x Count Ormonde                       5  OBF dom pre ser               Follower of Set:2
+1x Dedefra                             5  SER nec obf                   Follower of Set:2
+1x Ilyana Ravidovich                   5  aus dom for pre               Ventrue:3
+1x Sir Marriot D'Urban                 5  PRE aus obf ser               Follower of Set:2
+1x Hadrian Garrick                     4  obf pre                       Follower of Set:2
+1x Nepata                              4  obf pre ser                   Follower of Set:2
+1x Celine Chevalier                    3  obf ser                       Follower of Set:2
+1x Khalil Anvari                       3  pre ser                       Follower of Set:2
+1x Lalitha                             2  ser                           Follower of Set:2
 
 Library (91 cards)
 Master (18)

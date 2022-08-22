@@ -8,15 +8,15 @@ Luis Fonseca
 Deck Name: The Ingrid Rossler Show
 Created by: Manuel Diehm (+Gangrel Justicar card added from Luis)
 
-Crypt (12 cards, min=17 max=36 avg=6.75)
-----------------------------------------
-4x Ingrid Rossler       9   ANI FOR PRO dom     prince  Gangrel:2
-2x Danielle Diron       7   ANI PRO chi for     1 vote  Gangrel:3
-2x Mirembe Kabbada      5   PRO SER ani                 Gangrel:2
-1x Katarina             9   ANI FOR pot pro     prince  Gangrel:2
-1x Dr. Allan Woodstock  5   PRO ani aus for             Gangrel:3
-1x Daliyah              4   PRO obf                     Nosferatu:2
-1x Chandler Hungerford  3   PRO                         Gangrel:2
+Crypt (12 cards, min=17, max=36, avg=6.75)
+------------------------------------------
+4x Ingrid Rossler       9  ANI FOR PRO dom  prince  Gangrel:2
+2x Danielle Diron       7  ANI PRO chi for  1 vote  Gangrel:3
+2x Mirembe Kabbada      5  PRO SER ani              Gangrel:2
+1x Katarina             9  ANI FOR pot pro  prince  Gangrel:2
+1x Dr. Allan Woodstock  5  PRO ani aus for          Gangrel:3
+1x Daliyah              4  PRO obf                  Nosferatu:2
+1x Chandler Hungerford  3  PRO                      Gangrel:2
 
 Library (75 cards)
 Master (17; 7 trifle)

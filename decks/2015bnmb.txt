@@ -10,12 +10,12 @@ Deck Name: Temptation of Greater Petra
 
 Description: Based on deck by Marko Lindroos
 
-Crypt (12 cards, min=40 max=44 avg=10.33)
------------------------------------------
-4x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-4x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
-2x Louhi                 10  ANI AUS DEM OBF THA pro    cardinal        Malkavian antitribu:4
-2x Tryphosa              10  AUS DEM DOM OBF POT        prince          Malkavian:4
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+4x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
+2x Louhi                  10  ANI AUS DEM OBF THA pro  cardinal      Malkavian antitribu:4
+2x Tryphosa               10  AUS DEM DOM OBF POT      prince        Malkavian:4
 
 Library (80 cards)
 Master (16; 3 trifle)

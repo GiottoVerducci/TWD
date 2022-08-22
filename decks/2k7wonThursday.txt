@@ -20,18 +20,18 @@ helplessly as his predator to the floor. I was amazing at
 the glorious victory he pulled out in the final seconds of
 the match to crush the Lasombra." - Mike Courtois
 
-Crypt (12 cards, min=18 max=39 avg=7)
--------------------------------------
-1x Melinda Galbraith       10  AUS CEL DOM POT PRE obt  cardinal    Lasombra:4
-1x Melinda Galbraith (ADV) 10  AUS CEL DOM POT PRE obt  bishop      Toreador antitribu:4
-1x Alfred Benezri (ADV)    7   PRE THA aus dom          bishop      Pander:3
-2x Matthew Romans          7   AUS OBF OBT pot                      Pander:4
-1x Alfred Benezri          6   PRE THA aus dom          bishop      Pander:3
-2x Caroline Bishops        3   cel for pot                          Pander:4
-1x Lucubratio              10  AUS DOM POT PRE THA      archbishop  Tremere antitribu:4
-1x Alicia Barrows          9   AUS DEM OBF POT PRE      archbishop  Malkavian antitribu:4
-1x Father Juan Carlos      6   PRE aus cel pot tha                  Brujah antitribu:4
-1x Nickolai, The Survivor  6   aus dom pot pre tha vic              Tremere antitribu:4
+Crypt (12 cards, min=18, max=39, avg=7)
+---------------------------------------
+1x Melinda Galbraith        10  AUS CEL DOM POT PRE obt  cardinal    Lasombra:4
+1x Melinda Galbraith (ADV)  10  AUS CEL DOM POT PRE obt  bishop      Toreador antitribu:4
+1x Alfred Benezri (ADV)      7  PRE THA aus dom          bishop      Pander:3
+2x Matthew Romans            7  AUS OBF OBT pot                      Pander:4
+1x Alfred Benezri            6  PRE THA aus dom          bishop      Pander:3
+2x Caroline Bishops          3  cel for pot                          Pander:4
+1x Lucubratio               10  AUS DOM POT PRE THA      archbishop  Tremere antitribu:4
+1x Alicia Barrows            9  AUS DEM OBF POT PRE      archbishop  Malkavian antitribu:4
+1x Father Juan Carlos        6  PRE aus cel pot tha                  Brujah antitribu:4
+1x Nickolai, The Survivor    6  aus dom pot pre tha vic              Tremere antitribu:4
 
 Library (75 cards)
 Master (14)

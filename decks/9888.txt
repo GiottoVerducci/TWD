@@ -10,17 +10,17 @@ https://www.vekn.net/player-registry/event/9888
 
 Deck Name: Osebo 419
 Author:
-Crypt (12 cards, min=10 max=20 avg=3.67)
-----------------------------------------
-2x Arriette Sylla 3   POT               Osebo:4
-2x Kamaria        3   aus pot           Osebo:4
-2x Misrak         2   pot               Osebo:4
-1x Aredhel        5   FOR VAL aus       Salubri antitribu:4
-1x Langa          5   VAL for           Salubri antitribu:4
-1x Titi Camara    5   AUS CEL pot       Osebo:5
-1x Uzoma          5   POT aus cel vic   Osebo:4
-1x Idrissa        4   CEL aus           Osebo:4
-1x Ismitta        4   aus cel pot       Osebo:4
+Crypt (12 cards, min=10, max=20, avg=3.67)
+------------------------------------------
+2x Arriette Sylla  3  POT              Osebo:4
+2x Kamaria         3  aus pot          Osebo:4
+2x Misrak          2  pot              Osebo:4
+1x Aredhel         5  FOR VAL aus      Salubri antitribu:4
+1x Langa           5  VAL for          Salubri antitribu:4
+1x Titi Camara     5  AUS CEL pot      Osebo:5
+1x Uzoma           5  POT aus cel vic  Osebo:4
+1x Idrissa         4  CEL aus          Osebo:4
+1x Ismitta         4  aus cel pot      Osebo:4
 
 Library (60 cards)
 Master (33; 2 trifle)

@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/7502
 
 Deck Name: Saulot's Snakes
 
-Crypt (12 cards, min=14 max=39 avg=6.25)
-----------------------------------------
-3x Saulot, The Wanderer    11  AUS FOR OBE THA VAL dai  Salubri:4
-3x Eurayle Gelasia Mylonas 6   AUS OBE for pre          Salubri:4
-3x Abdelsobek              5   for nec obf pre ser      Follower of Set:5
-3x Ahmose Chambers         3   obf ser                  Follower of Set:5
+Crypt (12 cards, min=14, max=39, avg=6.25)
+------------------------------------------
+3x Saulot, The Wanderer     11  AUS FOR OBE THA VAL dai  Salubri:4
+3x Eurayle Gelasia Mylonas   6  AUS OBE for pre          Salubri:4
+3x Abdelsobek                5  for nec obf pre ser      Follower of Set:5
+3x Ahmose Chambers           3  obf ser                  Follower of Set:5
 
 Library (90 cards)
 Master (13; 6 trifle)

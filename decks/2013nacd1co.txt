@@ -11,16 +11,16 @@ Deck Name: Meshenka 101
 Description: This is a "training" deck that I made for a new player
 that sometimes played with my group.
 
-Crypt (12 cards, min=14 max=32 avg=6.08)
-----------------------------------------
-3x Meshenka                         8   ANI AUS VIC             priscus  Tzimisce:2
-2x Sascha Vykos, The Angel of Caine 8   AUS THA VIC ani dom     priscus  Tzimisce:2
-2x Corine Marcón                    6   AUS VIC ani                      Tzimisce:2
-1x Kazimir Savostin                 7   AUS VIC ani pot                  Tzimisce:3
-1x Caliban                          6   ANI AUS VIC                      Tzimisce:2
-1x Lolita Houston                   4   VIC aus                          Tzimisce:2
-1x Christine Boscacci               2   dom vic                          Pander:2
-1x Horatio                          2   vic                              Tzimisce:2
+Crypt (12 cards, min=14, max=32, avg=6.08)
+------------------------------------------
+3x Meshenka                          8  ANI AUS VIC          priscus  Tzimisce:2
+2x Sascha Vykos, The Angel of Caine  8  AUS THA VIC ani dom  priscus  Tzimisce:2
+2x Corine Marcón                     6  AUS VIC ani                   Tzimisce:2
+1x Kazimir Savostin                  7  AUS VIC ani pot               Tzimisce:3
+1x Caliban                           6  ANI AUS VIC                   Tzimisce:2
+1x Lolita Houston                    4  VIC aus                       Tzimisce:2
+1x Christine Boscacci                2  dom vic                       Pander:2
+1x Horatio                           2  vic                           Tzimisce:2
 
 Library (90 cards)
 Master (12)

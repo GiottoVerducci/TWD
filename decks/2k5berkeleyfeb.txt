@@ -8,15 +8,15 @@ http://www.thepathofblood.com/forums/viewtopic.php?t=988
 
 Tegyrius, Wall
 
-Crypt (13 cards, min=15 max=36 avg=6.92)
-----------------------------------------
-5x Tegyrius, Vizier 9   AUS CEL FOR QUI pre     Assamite:2
-2x Fatima al-Faqadi 8   CEL OBF QUI aus for     Assamite:2
-2x Parnassus        7   CEL QUI aus tha         Assamite:2
-1x Felicia Mostrom  5   AUS CEL pre             Toreador:1
-1x Dorian Strack    4   AUS cel                 Toreador:1
-1x Colin Flynn      3   aus cel                 Toreador:1
-1x Isabel de Leon   3   AUS                     Toreador:2
+Crypt (13 cards, min=15, max=36, avg=6.92)
+------------------------------------------
+5x Tegyrius, Vizier  9  AUS CEL FOR QUI pre  Assamite:2
+2x Fatima al-Faqadi  8  CEL OBF QUI aus for  Assamite:2
+2x Parnassus         7  CEL QUI aus tha      Assamite:2
+1x Felicia Mostrom   5  AUS CEL pre          Toreador:1
+1x Dorian Strack     4  AUS cel              Toreador:1
+1x Colin Flynn       3  aus cel              Toreador:1
+1x Isabel de Leon    3  AUS                  Toreador:2
 
 Library (90 cards)
 Master (21)

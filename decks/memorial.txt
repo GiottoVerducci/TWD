@@ -19,20 +19,20 @@ R. David Zopf
 guenhwyvar@mindspring.com
 Atom Weaver
 
-Crypt (13 cards, min=13 max=24 avg=4.62)
-----------------------------------------
-2x Olivia        5   OBF POT vic        bishop   Nosferatu antitribu:2
-1x Gilbert Duane 7   AUS DOM OBF        prince   Malkavian:1
-1x Kendrick      7   ANI POT aus obf    priscus  Nosferatu antitribu:2
-1x Didi Meyers   5   DOM aus cel obf             Malkavian:1
-1x Victoria      5   AUS cel obf                 Malkavian:2
-1x Zebulon       5   OBF aus dom pro             Malkavian:1
-1x Agatha        4   POT obf                     Nosferatu antitribu:2
-1x Agrippina     4   OBF pot                     Nosferatu:1
-1x Daliyah       4   PRO obf                     Nosferatu:2
-1x Tommy         3   ani pot                     Nosferatu antitribu:2
-1x Watenda       3   obf                         Malkavian:2
-1x Zöe           3   AUS cel obf                 Malkavian:2
+Crypt (13 cards, min=13, max=24, avg=4.62)
+------------------------------------------
+2x Olivia         5  OBF POT vic      bishop   Nosferatu antitribu:2
+1x Gilbert Duane  7  AUS DOM OBF      prince   Malkavian:1
+1x Kendrick       7  ANI POT aus obf  priscus  Nosferatu antitribu:2
+1x Didi Meyers    5  DOM aus cel obf           Malkavian:1
+1x Victoria       5  AUS cel obf               Malkavian:2
+1x Zebulon        5  OBF aus dom pro           Malkavian:1
+1x Agatha         4  POT obf                   Nosferatu antitribu:2
+1x Agrippina      4  OBF pot                   Nosferatu:1
+1x Daliyah        4  PRO obf                   Nosferatu:2
+1x Tommy          3  ani pot                   Nosferatu antitribu:2
+1x Watenda        3  obf                       Malkavian:2
+1x Zöe            3  AUS cel obf               Malkavian:2
 
 Library (90 cards)
 Master (27)

@@ -6,11 +6,11 @@ Teemu Sainomaa
 
 Deck Name: Girls will find your blind spot vol2
 
-Crypt (12 cards, min=36 max=40 avg=9.58)
-----------------------------------------
-5x Aksinya Daclau 9   ANI FOR PRE PRO cel tha   Gangrel antitribu:4
-4x Cybele         10  ANI DAI OBF PRE SER THA   Baali:4
-3x Nergal         10  AUS DAI FOR OBF PRE THA   Baali:5
+Crypt (12 cards, min=36, max=40, avg=9.58)
+------------------------------------------
+5x Aksinya Daclau   9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+4x Cybele          10  ANI DAI OBF PRE SER THA  Baali:4
+3x Nergal          10  AUS DAI FOR OBF PRE THA  Baali:5
 
 Library (90 cards)
 Master (43; 2 trifle)

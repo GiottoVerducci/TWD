@@ -8,14 +8,14 @@ Mirko Anconitani
 Winng Deck Name: Horrid Pact
 Description: very nasty deck with Nephandi, events and Imbued.
 
-Crypt (16 cards, min=15 max=20 avg=4.69)
-----------------------------------------
-4x Antonio d'Erlette            5   THA dom for pot     Tremere antitribu:4
-4x Jennie "Cassie247" Orne      5   inn jud viz         Visionary:4
-4x Travis "Traveler72" Miller   5   def mar             Martyr:4
-2x Jennifer "Flame61" Vidisania 4   ven viz             Avenger:4
-1x Leaf "Potter116" Pankowski   4   inn red viz         Redeemer:4
-1x Inez "Nurse216" Villagrande  3   inn                 Innocent:4
+Crypt (16 cards, min=15, max=20, avg=4.69)
+------------------------------------------
+4x Antonio d'Erlette             5  THA dom for pot  Tremere antitribu:4
+4x Jennie "Cassie247" Orne       5  inn jud viz      Visionary:4
+4x Travis "Traveler72" Miller    5  def mar          Martyr:4
+2x Jennifer "Flame61" Vidisania  4  ven viz          Avenger:4
+1x Leaf "Potter116" Pankowski    4  inn red viz      Redeemer:4
+1x Inez "Nurse216" Villagrande   3  inn              Innocent:4
 
 Library (90 cards)
 Master (22)

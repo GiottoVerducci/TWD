@@ -18,15 +18,15 @@ may need a try with the 2/3 crowd.
 
 http://www.secretlibrary.info/index.php?deck=view&amp;id=6158
 
-Crypt (12 cards, min=16 max=34 avg=6.42)
-----------------------------------------
-3x Morlock      8   FOR NEC THN obf             Samedi:4
-2x Baroque      7   NEC THN aus for obf         Samedi:5
-2x Macoute      6   FOR NEC obf thn             Samedi:4
-2x Abebe        4   nec obf thn                 Samedi:4
-1x Troglodytia  10  AUS FOR NEC THN obf pot     Samedi:4
-1x Tanginé      7   OBF THN ani nec pot         Samedi:4
-1x Toy          2   DEM POT THN for obf         Samedi:5
+Crypt (12 cards, min=16, max=34, avg=6.42)
+------------------------------------------
+3x Morlock       8  FOR NEC THN obf          Samedi:4
+2x Baroque       7  NEC THN aus for obf      Samedi:5
+2x Macoute       6  FOR NEC obf thn          Samedi:4
+2x Abebe         4  nec obf thn              Samedi:4
+1x Troglodytia  10  AUS FOR NEC THN obf pot  Samedi:4
+1x Tanginé       7  OBF THN ani nec pot      Samedi:4
+1x Toy           2  DEM POT THN for obf      Samedi:5
 
 Library (90 cards)
 Master (15; 5 trifle)

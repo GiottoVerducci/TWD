@@ -7,17 +7,17 @@ Marko Saari
 
 Deck Name: Akunanse Tunnelrunner
 
-Crypt (12 cards, min=7 max=20 avg=3.33)
----------------------------------------
-3x Jacob Fermor   5   PRO ani tha  Gangrel:4
-2x Meno Ngari     2   abo          Akunanse:4
-1x Socrate Cidibe 5   ABO FOR ani  Akunanse:4
-1x Nestor Kaba    4   abo ani for  Akunanse:4
-1x Dolie          3   abo ani      Akunanse:4
-1x Keith Moody    3   DOM          Tremere antitribu:4
-1x Lana Butcher   3   dom for      Ventrue:3
-1x Jackson Asher  2   dom          Ventrue:4
-1x Anarch Convert 1   -none-       Caitiff:ANY
+Crypt (12 cards, min=7, max=20, avg=3.33)
+-----------------------------------------
+3x Jacob Fermor    5  PRO ani tha  Gangrel:4
+2x Meno Ngari      2  abo          Akunanse:4
+1x Socrate Cidibe  5  ABO FOR ani  Akunanse:4
+1x Nestor Kaba     4  abo ani for  Akunanse:4
+1x Dolie           3  abo ani      Akunanse:4
+1x Keith Moody     3  DOM          Tremere antitribu:4
+1x Lana Butcher    3  dom for      Ventrue:3
+1x Jackson Asher   2  dom          Ventrue:4
+1x Anarch Convert  1  -none-       Caitiff:ANY
 
 Library (75 cards)
 Master (21; 9 trifle)

@@ -16,12 +16,12 @@ games that putting one Barrenness on one or two key vampires can very much
 slow down other decks by limiting their capability to Govern out company,
 play Enkil Cog, etc.
 
-Crypt (12 cards, min=26 max=40 avg=8.67)
-----------------------------------------
-6x Cybele                  10  ANI DAI OBF PRE SER THA           Baali:4
-2x Annazir                 9   DAI OBF POT PRE          2 votes  Baali:5
-2x Azaneal                 7   DAI OBF OBT pre tha               Baali:4
-2x Maureen, Dark Priestess 6   DAI PRE dom obf          1 vote   Baali:4
+Crypt (12 cards, min=26, max=40, avg=8.67)
+------------------------------------------
+6x Cybele                   10  ANI DAI OBF PRE SER THA           Baali:4
+2x Annazir                   9  DAI OBF POT PRE          2 votes  Baali:5
+2x Azaneal                   7  DAI OBF OBT pre tha               Baali:4
+2x Maureen, Dark Priestess   6  DAI PRE dom obf          1 vote   Baali:4
 
 Library (86 cards)
 Master (41; 13 trifle)

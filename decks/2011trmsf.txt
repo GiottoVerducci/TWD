@@ -19,15 +19,15 @@ predator's turn gives you the edge and a pool which pays for Jack. 31
 cards is too much, but there's some nifty mechanics that adds
 flexibility to the classic deck.
 
-Crypt (12 cards, min=13 max=24 avg=4.75)
-----------------------------------------
-6x Henry Taylor                    6   POT cel pre pro  Brujah antitribu:3
-1x Idalia, Prophet of Guadalajara  4   AUS dem          Malkavian antitribu:2
-1x Remilliard, Devout Crusader     4   AUS pre          Toreador antitribu:2
-1x Richard Tauber, Ayelea's Puppet 4   AUS tha          Tremere antitribu:2
-1x Isabel de Leon                  3   AUS              Toreador:2
-1x Martin Franckel                 3   AUS tha          Tremere:3
-1x Zöe                             3   AUS cel obf      Malkavian:2
+Crypt (12 cards, min=13, max=24, avg=4.75)
+------------------------------------------
+6x Henry Taylor                     6  POT cel pre pro  Brujah antitribu:3
+1x Idalia, Prophet of Guadalajara   4  AUS dem          Malkavian antitribu:2
+1x Remilliard, Devout Crusader      4  AUS pre          Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet  4  AUS tha          Tremere antitribu:2
+1x Isabel de Leon                   3  AUS              Toreador:2
+1x Martin Franckel                  3  AUS tha          Tremere:3
+1x Zöe                              3  AUS cel obf      Malkavian:2
 
 Library (60 cards)
 Master (42; 2 trifle)

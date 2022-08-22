@@ -10,11 +10,11 @@ https://www.vekn.net/event-calendar/event/9797
 
 Deck Name: Magos
 
-Crypt (12 cards, min=4 max=20 avg=2.92)
----------------------------------------
-5x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
-4x Anarch Convert       1   -none-              Caitiff:ANY
-3x Sheela Na Gig        2   vis                 Gargoyle:5
+Crypt (12 cards, min=4, max=20, avg=2.92)
+-----------------------------------------
+5x Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+4x Anarch Convert     1  -none-           Caitiff:ANY
+3x Sheela Na Gig      2  vis              Gargoyle:5
 
 Library (78 cards)
 Master (40)

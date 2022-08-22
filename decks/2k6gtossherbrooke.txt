@@ -6,14 +6,14 @@ Martin Tremblay
 
 Deck Name: Top Dog
 
-Crypt (24 cards, min=4 max=14 avg=1.58)
----------------------------------------
-18x Tupdog       1    POT VIS      Gargoyle:3
-2x  Ember Wright 3    aus dom      Tremere antitribu:3
-1x  Janine       4    aus dom tha  Tremere antitribu:4
-1x  Mosfair      4    cel dom tha  Tremere antitribu:4
-1x  Keith Moody  3    DOM          Tremere antitribu:4
-1x  Saiz         3    aus dom      Tremere antitribu:3
+Crypt (24 cards, min=4, max=14, avg=1.58)
+-----------------------------------------
+18x Tupdog        1  POT VIS      Gargoyle:3
+2x  Ember Wright  3  aus dom      Tremere antitribu:3
+1x  Janine        4  aus dom tha  Tremere antitribu:4
+1x  Mosfair       4  cel dom tha  Tremere antitribu:4
+1x  Keith Moody   3  DOM          Tremere antitribu:4
+1x  Saiz          3  aus dom      Tremere antitribu:3
 
 Library (90 cards)
 Master (13)

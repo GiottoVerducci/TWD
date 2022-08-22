@@ -9,17 +9,17 @@ Hugh Angseesing
 
 Deck Name: Sennadurek - and friends v3
 
-Crypt (13 cards, min=21 max=26 avg=5.92)
-----------------------------------------
-5x Sennadurek                   6   AUS NEC dom                   Nagaraja:4
-1x Blackhorse Tanner            7   AUS DOM FOR                   Ventrue antitribu:3
-1x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
-1x Jefferson Foster             6   AUS DOM for tha     bishop    Ventrue antitribu:4
-1x Selena                       6   AUS DOM THA                   Tremere antitribu:3
-1x Valois Sang, The Watcher     6   AUS DOM nec tha               Tremere:3
-1x Andrew Stuart                5   AUS DOM THA                   Tremere:4
-1x Frondator                    5   AUS dom tha         bishop    Tremere antitribu:4
-1x Neighbor John                5   AUS dom for                   Ventrue antitribu:4
+Crypt (13 cards, min=21, max=26, avg=5.92)
+------------------------------------------
+5x Sennadurek                 6  AUS NEC dom                Nagaraja:4
+1x Blackhorse Tanner          7  AUS DOM FOR                Ventrue antitribu:3
+1x Carna, The Princess Witch  7  AUS DOM THA      primogen  Tremere:3
+1x Jefferson Foster           6  AUS DOM for tha  bishop    Ventrue antitribu:4
+1x Selena                     6  AUS DOM THA                Tremere antitribu:3
+1x Valois Sang, The Watcher   6  AUS DOM nec tha            Tremere:3
+1x Andrew Stuart              5  AUS DOM THA                Tremere:4
+1x Frondator                  5  AUS dom tha      bishop    Tremere antitribu:4
+1x Neighbor John              5  AUS dom for                Ventrue antitribu:4
 
 Library (80 cards)
 Master (12; 2 trifle)

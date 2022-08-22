@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/8434
 
 Deck Name: Who loves, blocks (Quem ama, bloqueia)
 
-Crypt (13 cards, min=20 max=39 avg=7.69)
-----------------------------------------
-3x Zayyat, The Sandstorm 10  ANI FOR PRO aus qui tha    2 votes   Gangrel:3
-2x Inyanga               9   ANI AUS FOR PRO dom nec    primogen  Gangrel:4
-2x Brunhilde             8   ANI FOR PRO pre                      Gangrel:3
-2x Randall               8   ANI AUS FOR PRO            1 vote    Gangrel:4
-1x Nadima                8   FOR PRO SER ani aus                  Gangrel:3
-1x Dr. Sutton Gassaway   6   FOR PRO ani aus                      Gangrel:4
-1x Dr. Allan Woodstock   5   PRO ani aus for                      Gangrel:3
-1x Anarch Convert        1   -none-                               Caitiff:ANY
+Crypt (13 cards, min=20, max=39, avg=7.69)
+------------------------------------------
+3x Zayyat, The Sandstorm  10  ANI FOR PRO aus qui tha  2 votes   Gangrel:3
+2x Inyanga                 9  ANI AUS FOR PRO dom nec  primogen  Gangrel:4
+2x Brunhilde               8  ANI FOR PRO pre                    Gangrel:3
+2x Randall                 8  ANI AUS FOR PRO          1 vote    Gangrel:4
+1x Nadima                  8  FOR PRO SER ani aus                Gangrel:3
+1x Dr. Sutton Gassaway     6  FOR PRO ani aus                    Gangrel:4
+1x Dr. Allan Woodstock     5  PRO ani aus for                    Gangrel:3
+1x Anarch Convert          1  -none-                             Caitiff:ANY
 
 Library (90 cards)
 Master (30; 10 trifle)

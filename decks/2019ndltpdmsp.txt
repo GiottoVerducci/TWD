@@ -12,13 +12,13 @@ Stanislava deck build with 2x25th Anniversary and a few more cards (1x Papillon,
 1x Jake Washington from Parliament of Shadows; 1x Wider View from Pact with Nephandi;
 and 2x Guard Dogs now available with Nosferatu First Blood).
 
-Crypt (12 cards, min=35 max=44 avg=9.83)
-----------------------------------------
-4x Stanislava     11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
-4x Ingrid Rossler 9   ANI FOR PRO dom              prince        Gangrel:2
-2x Hartmut Stover 10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
-1x Xaviar (ADV)   10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
-1x Mark Decker    8   CEL PRO ani for obf pot      prince        Gangrel:3
+Crypt (12 cards, min=35, max=44, avg=9.83)
+------------------------------------------
+4x Stanislava      11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+4x Ingrid Rossler   9  ANI FOR PRO dom              prince        Gangrel:2
+2x Hartmut Stover  10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+1x Xaviar (ADV)    10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+1x Mark Decker      8  CEL PRO ani for obf pot      prince        Gangrel:3
 
 Library (72 cards)
 Master (17; 8 trifle)

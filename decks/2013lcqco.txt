@@ -13,14 +13,14 @@ with Nana and Ashur rush combat without reaction cards. I decided that I
 wanted to run it with Aksinya with reactions instead. The decks are quite
 different but the idea with high amount of Pentex(TM) works kinda the same.
 
-Crypt (12 cards, min=11 max=36 avg=6.25)
-----------------------------------------
-4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha   Gangrel antitribu:4
-4x Talbot         7   ANI NEC PRO for           Gangrel:5
-1x Beetleman      4   ANI obf                   Nosferatu:4
-1x Lillian        3   ani pro                   Gangrel:5
-1x Stick          3   ANI                       Nosferatu antitribu:4
-1x Walker Grimes  1   ani                       Caitiff:5
+Crypt (12 cards, min=11, max=36, avg=6.25)
+------------------------------------------
+4x Aksinya Daclau  9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+4x Talbot          7  ANI NEC PRO for          Gangrel:5
+1x Beetleman       4  ANI obf                  Nosferatu:4
+1x Lillian         3  ani pro                  Gangrel:5
+1x Stick           3  ANI                      Nosferatu antitribu:4
+1x Walker Grimes   1  ani                      Caitiff:5
 
 Library (73 cards)
 Master (19; 4 trifle)

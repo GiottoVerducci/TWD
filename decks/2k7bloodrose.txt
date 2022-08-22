@@ -15,16 +15,16 @@ and Laibon (and has obf). Ana Rita Montana and a Laibon will do in a pinch.
 The Charisma/PB: Tshawane is great for allies, as well as reducing costs
 for cards like Memories.
 
-Crypt (12 cards, min=9 max=18 avg=3.5)
---------------------------------------
-4x Guedado                       4   aus obf vic        Tzimisce:4
-2x Ana Rita Montaña              5   VIC aus dom obf    Tzimisce:3
-1x Mariano Pomposo               4   aus cel pot        Brujah antitribu:3
-1x Béatrice "Oracle171" Tremblay 3   inn ven            Innocent:4
-1x Kamaria                       3   aus pot            Osebo:4
-1x Jayne Jonestown               2   PRE                Brujah antitribu:4
-1x Meno Ngari                    2   abo                Akunanse:4
-1x Misrak                        2   pot                Osebo:4
+Crypt (12 cards, min=9, max=18, avg=3.5)
+----------------------------------------
+4x Guedado                        4  aus obf vic      Tzimisce:4
+2x Ana Rita Montaña               5  VIC aus dom obf  Tzimisce:3
+1x Mariano Pomposo                4  aus cel pot      Brujah antitribu:3
+1x Béatrice "Oracle171" Tremblay  3  inn ven          Innocent:4
+1x Kamaria                        3  aus pot          Osebo:4
+1x Jayne Jonestown                2  PRE              Brujah antitribu:4
+1x Meno Ngari                     2  abo              Akunanse:4
+1x Misrak                         2  pot              Osebo:4
 
 Library (60 cards)
 Master (38; 2 trifle)

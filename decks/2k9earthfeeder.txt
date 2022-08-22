@@ -9,16 +9,16 @@ Adam Hulse
 
 Deck Name: Earth Feeder
 
-Crypt (12 cards, min=20 max=40 avg=7.5)
----------------------------------------
-4x Troglodytia                  10  AUS FOR NEC THN obf pot     Samedi:4
-2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre         Ventrue antitribu:3
-1x Babalawo Alafin              7   AUS FOR NEC ani             Harbinger of Skulls:4
-1x Blackhorse Tanner            7   AUS DOM FOR                 Ventrue antitribu:3
-1x Mariel St. John              6   AUS FOR dom pro             Ventrue antitribu:4
-1x Neighbor John                5   AUS dom for                 Ventrue antitribu:4
-1x Solomon Batanea              5   AUS FOR nec                 Harbinger of Skulls:4
-1x Maldavis                     4   AUS for pre                 Caitiff:3
+Crypt (12 cards, min=20, max=40, avg=7.5)
+-----------------------------------------
+4x Troglodytia                10  AUS FOR NEC THN obf pot  Samedi:4
+2x Owain Evans, The Wanderer   8  AUS DOM FOR cel pre      Ventrue antitribu:3
+1x Babalawo Alafin             7  AUS FOR NEC ani          Harbinger of Skulls:4
+1x Blackhorse Tanner           7  AUS DOM FOR              Ventrue antitribu:3
+1x Mariel St. John             6  AUS FOR dom pro          Ventrue antitribu:4
+1x Neighbor John               5  AUS dom for              Ventrue antitribu:4
+1x Solomon Batanea             5  AUS FOR nec              Harbinger of Skulls:4
+1x Maldavis                    4  AUS for pre              Caitiff:3
 
 Library (90 cards)
 Master (15; 3 trifle)

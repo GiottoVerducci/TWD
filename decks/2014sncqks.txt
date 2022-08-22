@@ -8,15 +8,15 @@ https://www.vekn.net/event-calendar/event/7618
 
 Deck Name: 419 forms of corruption
 
-Crypt (12 cards, min=10 max=23 avg=4.08)
-----------------------------------------
-3x Halim Bey      6   DOM SER obf tha   Follower of Set:4
-2x Black Lotus    5   DOM aus obf ser   Follower of Set:4
-2x Kamaria        3   aus pot           Osebo:4
-2x Misrak         2   pot               Osebo:4
-1x Idrissa        4   CEL aus           Osebo:4
-1x Ismitta        4   aus cel pot       Osebo:4
-1x Arriette Sylla 3   POT               Osebo:4
+Crypt (12 cards, min=10, max=23, avg=4.08)
+------------------------------------------
+3x Halim Bey       6  DOM SER obf tha  Follower of Set:4
+2x Black Lotus     5  DOM aus obf ser  Follower of Set:4
+2x Kamaria         3  aus pot          Osebo:4
+2x Misrak          2  pot              Osebo:4
+1x Idrissa         4  CEL aus          Osebo:4
+1x Ismitta         4  aus cel pot      Osebo:4
+1x Arriette Sylla  3  POT              Osebo:4
 
 Library (66 cards)
 Master (12; 4 trifle)

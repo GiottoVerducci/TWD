@@ -6,13 +6,13 @@ Miguel Vazquez
 
 Deck Name: Toreador Grand Ball
 
-Crypt (12 cards, min=18 max=43 avg=8.08)
-----------------------------------------
-3x Alexandra      11  ANI AUS CEL PRE dom  inner circle  Toreador:2
-3x Anneke         10  AUS CEL PRE dom      justicar      Toreador:1
-3x Anson          8   CEL PRE aus dom      prince        Toreador:1
-2x Isabel de Leon 3   AUS                                Toreador:2
-1x Dorian Strack  4   AUS cel                            Toreador:1
+Crypt (12 cards, min=18, max=43, avg=8.08)
+------------------------------------------
+3x Alexandra       11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+3x Anneke          10  AUS CEL PRE dom      justicar      Toreador:1
+3x Anson            8  CEL PRE aus dom      prince        Toreador:1
+2x Isabel de Leon   3  AUS                                Toreador:2
+1x Dorian Strack    4  AUS cel                            Toreador:1
 
 Library (90 cards)
 Master (25; 2 trifle)

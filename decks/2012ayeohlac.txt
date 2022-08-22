@@ -11,19 +11,19 @@ Description: This deck is an Obfuscate/Dominate toolbox
 featuring low-caps. The original idea was to create
 a deck that used multiple Arsons, thus the deck's name.
 
-Crypt (12 cards, min=11 max=20 avg=4)
--------------------------------------
-2x Zebulon              5   OBF aus dom pro     Malkavian:1
-1x Badr al-Budur        5   OBF cel dom qui     Assamite:2
-1x Count Ormonde        5   OBF dom pre ser     Follower of Set:2
-1x Didi Meyers          5   DOM aus cel obf     Malkavian:1
-1x Agrippina            4   OBF pot             Nosferatu:1
-1x Laurent de Valois    4   ani dom obf         Nosferatu:2
-1x Roland Bishop        4   aus dom obf         Malkavian:1
-1x Tansu Bekir          4   OBF cel             Assamite:2
-1x Watenda              3   obf                 Malkavian:2
-1x Dimple               2   obf                 Nosferatu:1
-1x Normal               2   obf                 Malkavian:1
+Crypt (12 cards, min=11, max=20, avg=4)
+---------------------------------------
+2x Zebulon            5  OBF aus dom pro  Malkavian:1
+1x Badr al-Budur      5  OBF cel dom qui  Assamite:2
+1x Count Ormonde      5  OBF dom pre ser  Follower of Set:2
+1x Didi Meyers        5  DOM aus cel obf  Malkavian:1
+1x Agrippina          4  OBF pot          Nosferatu:1
+1x Laurent de Valois  4  ani dom obf      Nosferatu:2
+1x Roland Bishop      4  aus dom obf      Malkavian:1
+1x Tansu Bekir        4  OBF cel          Assamite:2
+1x Watenda            3  obf              Malkavian:2
+1x Dimple             2  obf              Nosferatu:1
+1x Normal             2  obf              Malkavian:1
 
 Library (83 cards)
 Master (15; 1 trifle)

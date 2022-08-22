@@ -19,14 +19,14 @@ Immortal Grapple, but no one ever plays it around here so... in an
 more grappling environment I would add Claws of the Dead and
 Rötschreck. Or some more Sniper Rifles.
 
-Crypt (12 cards, min=16 max=40 avg=7.33)
-----------------------------------------
+Crypt (12 cards, min=16, max=40, avg=7.33)
+------------------------------------------
 5x Rachel Brandywine            10  AUS DEM OBF PRO ani  prince  Malkavian:3
-2x Greger Anderssen             7   AUS OBF dom pro      prince  Malkavian:2
-2x Victoria                     5   AUS cel obf                  Malkavian:2
-1x Anatole, Prophet of Gehenna  8   AUS DEM OBF dom for          Malkavian:2
-1x Watenda                      3   obf                          Malkavian:2
-1x Zöe                          3   AUS cel obf                  Malkavian:2
+2x Greger Anderssen              7  AUS OBF dom pro      prince  Malkavian:2
+2x Victoria                      5  AUS cel obf                  Malkavian:2
+1x Anatole, Prophet of Gehenna   8  AUS DEM OBF dom for          Malkavian:2
+1x Watenda                       3  obf                          Malkavian:2
+1x Zöe                           3  AUS cel obf                  Malkavian:2
 
 Library (90 cards)
 Master (13)

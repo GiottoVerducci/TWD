@@ -13,13 +13,13 @@ essention it kills by bleeding, but the votes allow you an enourmous
 impact on the table. I never got more then 3 points with this deck, so
 in the future I would add more ousting power.
 
-Crypt (12 cards, min=37 max=44 avg=10.33)
------------------------------------------
-3x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
-3x Leandro          11  AUS OBF PRE cel dom      inner circle   Malkavian:2
-3x Maris Streck     9   AUS OBF ani dem dom      justicar       Malkavian:3
-2x Lucinde, Alastor 10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
-1x Etrius           11  AUS DOM OBF THA pro      inner circle   Tremere:2
+Crypt (12 cards, min=37, max=44, avg=10.33)
+-------------------------------------------
+3x Arika             11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Leandro           11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+3x Maris Streck       9  AUS OBF ani dem dom      justicar      Malkavian:3
+2x Lucinde, Alastor  10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+1x Etrius            11  AUS DOM OBF THA pro      inner circle  Tremere:2
 
 Library (82 cards)
 Master (20)

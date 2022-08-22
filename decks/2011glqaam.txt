@@ -8,12 +8,12 @@ Deck Name: He Has To Run Out Sometime... v 1.3
 
 Description: 1st place GLQ Ann Arbor, MI 6/4/11
 
-Crypt (12 cards, min=33 max=37 avg=8.83)
-----------------------------------------
-5x Marconius    9   DOM MYT OBT pot      archbishop     Kiasyd:2
-3x Quentin      9   AUS DOM FOR cel obt  bishop         Ventrue antitribu:2
-3x Gratiano     8   DOM OBT obf pot      priscus        Lasombra:2
-1x Marcus Vitel 10  DOM FOR OBF OBT PRE  prince         Ventrue:3
+Crypt (12 cards, min=33, max=37, avg=8.83)
+------------------------------------------
+5x Marconius      9  DOM MYT OBT pot      archbishop  Kiasyd:2
+3x Quentin        9  AUS DOM FOR cel obt  bishop      Ventrue antitribu:2
+3x Gratiano       8  DOM OBT obf pot      priscus     Lasombra:2
+1x Marcus Vitel  10  DOM FOR OBF OBT PRE  prince      Ventrue:3
 
 Library (85 cards)
 Master (29; 7 trifle)

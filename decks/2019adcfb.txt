@@ -12,12 +12,12 @@ Deck Name: The Capuchin 2.0, Shut up insect!
 
 Description: The truth is out there (x-files) 2.0
 
-Crypt (12 cards, min=28 max=44 avg=9.17)
-----------------------------------------
-6x Capuchin, The        11  AUS DOM FOR NEC THA THN     Harbinger of Skulls:5
-3x Mordechai Ben-Nun    8   ANI AUS FOR NEC             Harbinger of Skulls:5
-2x Anu Diptinatpa       7   DOM NEC aus vic             Nagaraja:6
-1x Hecate               6   AUS FOR NEC                 Harbinger of Skulls:5
+Crypt (12 cards, min=28, max=44, avg=9.17)
+------------------------------------------
+6x Capuchin, The      11  AUS DOM FOR NEC THA THN  Harbinger of Skulls:5
+3x Mordechai Ben-Nun   8  ANI AUS FOR NEC          Harbinger of Skulls:5
+2x Anu Diptinatpa      7  DOM NEC aus vic          Nagaraja:6
+1x Hecate              6  AUS FOR NEC              Harbinger of Skulls:5
 
 Library (90 cards)
 Master (15; 7 trifle)

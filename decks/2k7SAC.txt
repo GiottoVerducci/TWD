@@ -7,17 +7,17 @@ Luciano Villela
 
 Description: Ventrue heavy bleeder. Winner of the South American Championship 2007.
 
-Crypt (12 cards, min=15 max=25 avg=5)
--------------------------------------
-3x Edward Vignes                   6   DOM PRE for                Ventrue:3
-2x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for                Ventrue:2
-1x Gracis Nostinus                 7   DOM PRE aus for  primogen  Ventrue:3
-1x Boss Callihan                   5   PRE dom for pro            Ventrue:3
-1x Catherine du Bois               5   DOM for obf pre            Ventrue:3
-1x Ilyana Ravidovich               5   aus dom for pre            Ventrue:3
-1x Ingrid Russo                    4   DOM for                    Ventrue antitribu:2
-1x Diana Vick                      3   dom pre                    Ventrue:3
-1x Lana Butcher                    3   dom for                    Ventrue:3
+Crypt (12 cards, min=15, max=25, avg=5)
+---------------------------------------
+3x Edward Vignes                    6  DOM PRE for                Ventrue:3
+2x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for                Ventrue:2
+1x Gracis Nostinus                  7  DOM PRE aus for  primogen  Ventrue:3
+1x Boss Callihan                    5  PRE dom for pro            Ventrue:3
+1x Catherine du Bois                5  DOM for obf pre            Ventrue:3
+1x Ilyana Ravidovich                5  aus dom for pre            Ventrue:3
+1x Ingrid Russo                     4  DOM for                    Ventrue antitribu:2
+1x Diana Vick                       3  dom pre                    Ventrue:3
+1x Lana Butcher                     3  dom for                    Ventrue:3
 
 Library (88 cards)
 Master (17; 2 trifle)

@@ -6,15 +6,15 @@ Michael Streatfield
 
 Ravnos Sensory Nightmare
 
-Crypt (12 cards, min=18 max=30 avg=5.92)
-----------------------------------------
-3x Paul Forrest, False Prophet  5   chi for pre                   Ravnos:4
-2x Alexis Sorokin               8   CEL CHI OBF PRO for           Ravnos:4
-2x Tatiana Stepanova, Alastor   7   CHI PRE ani for obf           Ravnos:4
-2x Callirus                     5   CHI FOR ani                   Ravnos:4
-1x Mata Hari                    7   CHI OBF aus for qui  2 votes  Ravnos:4
-1x Tsunda                       6   CHI abo ani dem      magaji   Ravnos:4
-1x Marion French                3   ani chi                       Ravnos:4
+Crypt (12 cards, min=18, max=30, avg=5.92)
+------------------------------------------
+3x Paul Forrest, False Prophet  5  chi for pre                   Ravnos:4
+2x Alexis Sorokin               8  CEL CHI OBF PRO for           Ravnos:4
+2x Tatiana Stepanova, Alastor   7  CHI PRE ani for obf           Ravnos:4
+2x Callirus                     5  CHI FOR ani                   Ravnos:4
+1x Mata Hari                    7  CHI OBF aus for qui  2 votes  Ravnos:4
+1x Tsunda                       6  CHI abo ani dem      magaji   Ravnos:4
+1x Marion French                3  ani chi                       Ravnos:4
 
 Library (90 cards)
 Master (21)

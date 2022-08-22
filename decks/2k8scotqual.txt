@@ -8,15 +8,15 @@ Edd Phipps
 
 Deck Name: Would you like Haggis with that Conditioning sir?
 
-Crypt (12 cards, min=15 max=27 avg=5.5)
----------------------------------------
-3x Iliana               7   DOM FOR PRO tha              Gangrel:2
-2x Caitlin              6   ANI PRO aus dom      bishop  Gangrel antitribu:2
-2x Lisette Vizquel      6   DOM POT pro          bishop  Lasombra:2
-2x Chandler Hungerford  3   PRO                          Gangrel:2
-1x Dylan                6   aus cel dom for pro          Ventrue antitribu:2
-1x Zebulon              5   OBF aus dom pro              Malkavian:1
-1x Daliyah              4   PRO obf                      Nosferatu:2
+Crypt (12 cards, min=15, max=27, avg=5.5)
+-----------------------------------------
+3x Iliana               7  DOM FOR PRO tha              Gangrel:2
+2x Caitlin              6  ANI PRO aus dom      bishop  Gangrel antitribu:2
+2x Lisette Vizquel      6  DOM POT pro          bishop  Lasombra:2
+2x Chandler Hungerford  3  PRO                          Gangrel:2
+1x Dylan                6  aus cel dom for pro          Ventrue antitribu:2
+1x Zebulon              5  OBF aus dom pro              Malkavian:1
+1x Daliyah              4  PRO obf                      Nosferatu:2
 
 Library (90 cards)
 Master (18; 5 trifle)

@@ -17,14 +17,14 @@ construction. Personally, I find it mediocre. Or, what is more probable, I simpl
 cannot drive it the way proper. It was like the fifth tourney I tried War Ghouls,
 and this one yielded their very first Game Win. Luckily, in the momentum prim.
 
-Crypt (12 cards, min=4 max=14 avg=2.08)
----------------------------------------
-5x Anarch Convert  1   -none-       Caitiff:ANY
-2x Wendy Wade      3   ani aus      Tzimisce:2
-2x Horatio         2   vic          Tzimisce:2
-1x Lolita Houston  4   VIC aus      Tzimisce:2
-1x Terrence        4   ani aus vic  Tzimisce:2
-1x Piotr Andreikov 2   aus          Tzimisce:3
+Crypt (12 cards, min=4, max=14, avg=2.08)
+-----------------------------------------
+5x Anarch Convert   1  -none-       Caitiff:ANY
+2x Wendy Wade       3  ani aus      Tzimisce:2
+2x Horatio          2  vic          Tzimisce:2
+1x Lolita Houston   4  VIC aus      Tzimisce:2
+1x Terrence         4  ani aus vic  Tzimisce:2
+1x Piotr Andreikov  2  aus          Tzimisce:3
 
 Library (63 cards)
 Master (29; 1 trifle)

@@ -8,18 +8,18 @@ https://www.vekn.net/event-calendar/event/8050
 
 Deck Name: Mercury's Adepts
 
-Crypt (13 cards, min=9 max=26 avg=4.15)
----------------------------------------
-3x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-2x Anson                        8   CEL PRE aus dom     prince  Toreador:1
-1x Jimmy Dunn                   4   CEL POT for                 Pander:2
-1x Victor Tolliver              4   CEL pot                     Brujah antitribu:2
-1x Max Lowell                   3   cel obf                     Gangrel antitribu:2
-1x Sarah Brando                 3   CEL                         Brujah antitribu:2
-1x Zöe                          3   AUS cel obf                 Malkavian:2
-1x Angel                        2   cel                         Brujah:1
-1x Carter                       2   cel                         Toreador antitribu:2
-1x Kanya Akhtar                 2   cel                         Assamite:2
+Crypt (13 cards, min=9, max=26, avg=4.15)
+-----------------------------------------
+3x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+2x Anson                      8  CEL PRE aus dom  prince  Toreador:1
+1x Jimmy Dunn                 4  CEL POT for              Pander:2
+1x Victor Tolliver            4  CEL pot                  Brujah antitribu:2
+1x Max Lowell                 3  cel obf                  Gangrel antitribu:2
+1x Sarah Brando               3  CEL                      Brujah antitribu:2
+1x Zöe                        3  AUS cel obf              Malkavian:2
+1x Angel                      2  cel                      Brujah:1
+1x Carter                     2  cel                      Toreador antitribu:2
+1x Kanya Akhtar               2  cel                      Assamite:2
 
 Library (76 cards)
 Master (25; 6 trifle)

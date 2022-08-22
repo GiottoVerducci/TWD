@@ -14,13 +14,13 @@ this became me latest version. Some changes are about to happen.
 Kemintiris abilities led to two big things in the final. One she was able to rush Lucinde, Alastor and Arika and use Serpents numbing kiss to "mind numb" them.
 Also in the heads up with the same deck the so called "venture Justicar" used the extra bleed she gets against Venture to great effect.
 
-Crypt (13 cards, min=28 max=40 avg=8.69)
-----------------------------------------
-4x Kemintiri                10  OBF PRE SER THA aus dom          Follower of Set:2
-1x Kemintiri (ADV)          10  OBF PRE SER THA aus dom          Follower of Set:2
-1x Sarrasine (ADV)          8   OBF PRE SER aus nec      prince  Follower of Set:2
-4x Sarrasine                7   OBF PRE aus nec ser              Follower of Set:2
-3x Khay'tall, Snake of Eden 9   DOM OBF PRE SER aus              Follower of Set:2
+Crypt (13 cards, min=28, max=40, avg=8.69)
+------------------------------------------
+4x Kemintiri                 10  OBF PRE SER THA aus dom          Follower of Set:2
+1x Kemintiri (ADV)           10  OBF PRE SER THA aus dom          Follower of Set:2
+1x Sarrasine (ADV)            8  OBF PRE SER aus nec      prince  Follower of Set:2
+4x Sarrasine                  7  OBF PRE aus nec ser              Follower of Set:2
+3x Khay'tall, Snake of Eden   9  DOM OBF PRE SER aus              Follower of Set:2
 
 Library (73 cards)
 Master (25; 6 trifle)

@@ -12,14 +12,14 @@ Deck Name: SaRod x Nakhthorheb
 
 Description: Multi-action stealth &amp; bleed.
 
-Crypt (12 cards, min=12 max=40 avg=7.33)
-----------------------------------------
-4x Nakhthorheb    10  OBF PRE SER                        Follower of Set:4
-2x Porphyrion     9   CHI OBF PRE SER for                Follower of Set:5
-2x Renenet        5   OBF PRE ser                        Follower of Set:4
-2x Anarch Convert 1   -none-                             Caitiff:ANY
-1x Neferu         9   OBF PRE SER THA dom nec   2 votes  Follower of Set:4
-1x Pentweret      9   OBF PRE SER aus for obe            Follower of Set:5
+Crypt (12 cards, min=12, max=40, avg=7.33)
+------------------------------------------
+4x Nakhthorheb     10  OBF PRE SER                       Follower of Set:4
+2x Porphyrion       9  CHI OBF PRE SER for               Follower of Set:5
+2x Renenet          5  OBF PRE ser                       Follower of Set:4
+2x Anarch Convert   1  -none-                            Caitiff:ANY
+1x Neferu           9  OBF PRE SER THA dom nec  2 votes  Follower of Set:4
+1x Pentweret        9  OBF PRE SER aus for obe           Follower of Set:5
 
 Library (82 cards)
 Master (17; 3 trifle)

@@ -6,20 +6,20 @@ Jeff Steenblik
 
 Created by: Kris Deprekel
 
-Crypt (12 cards, min=26 max=39 avg=8.25)
-----------------------------------------
-1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-1x Angelica, The Canonicus                10  DOM OBT POT cel obf       cardinal    Lasombra:2
-1x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince      Ventrue:3
-1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
-1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
-1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
-1x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
-1x Gustav Mallenhous                      8   AUS DOM for obt           priscus     Ventrue antitribu:2
-1x Julia Prima                            7   DOM OBT aus myt                       Kiasyd:2
-1x Tobias Smith                           7   DOM OBT PRE pot                       Lasombra:3
-1x Aurora Van Brande, Paladin             6   OBT dom for pot                       Lasombra:2
-1x Talley, The Hound                      6   OBT POT aus dom                       Lasombra:2
+Crypt (12 cards, min=26, max=39, avg=8.25)
+------------------------------------------
+1x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+1x Angelica, The Canonicus                 10  DOM OBT POT cel obf      cardinal    Lasombra:2
+1x Marcus Vitel                            10  DOM FOR OBF OBT PRE      prince      Ventrue:3
+1x Alvaro, The Scion of Angelica            9  OBT POT dom pre          archbishop  Lasombra:2
+1x Antonio Delgado                          9  DOM OBT POT tha          archbishop  Lasombra:2
+1x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+1x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+1x Gustav Mallenhous                        8  AUS DOM for obt          priscus     Ventrue antitribu:2
+1x Julia Prima                              7  DOM OBT aus myt                      Kiasyd:2
+1x Tobias Smith                             7  DOM OBT PRE pot                      Lasombra:3
+1x Aurora Van Brande, Paladin               6  OBT dom for pot                      Lasombra:2
+1x Talley, The Hound                        6  OBT POT aus dom                      Lasombra:2
 
 Library (86 cards)
 Master (28)

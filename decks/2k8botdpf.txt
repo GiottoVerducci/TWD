@@ -11,17 +11,17 @@ Description: The deck is a weenie Vicissitude bleed deck with a
 defense base on Breath / Chiropteran Marauder and sometimes a war
 ghoul. Easy to play and very aggressive.
 
-Crypt (12 cards, min=8 max=19 avg=3.58)
----------------------------------------
-2x Ana Rita Montaña     5   VIC aus dom obf     Tzimisce:3
-2x Lolita Houston       4   VIC aus             Tzimisce:2
-2x Horatio              2   vic                 Tzimisce:2
-1x Rose, The            5   PRE VIC aus         Tzimisce:3
-1x Hugo                 4   POT pre vic         Brujah antitribu:2
-1x Ramiro               4   dom obt vic         Lasombra:2
-1x Terrence             4   ani aus vic         Tzimisce:2
-1x Rex, The Necronomist 3   pot pro vic         Pander:2
-1x Olga Triminov        1   vic                 Pander:3
+Crypt (12 cards, min=8, max=19, avg=3.58)
+-----------------------------------------
+2x Ana Rita Montaña      5  VIC aus dom obf  Tzimisce:3
+2x Lolita Houston        4  VIC aus          Tzimisce:2
+2x Horatio               2  vic              Tzimisce:2
+1x Rose, The             5  PRE VIC aus      Tzimisce:3
+1x Hugo                  4  POT pre vic      Brujah antitribu:2
+1x Ramiro                4  dom obt vic      Lasombra:2
+1x Terrence              4  ani aus vic      Tzimisce:2
+1x Rex, The Necronomist  3  pot pro vic      Pander:2
+1x Olga Triminov         1  vic              Pander:3
 
 Library (90 cards)
 Master (16; 4 trifle)

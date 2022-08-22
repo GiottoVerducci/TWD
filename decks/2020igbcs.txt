@@ -10,20 +10,20 @@ Deck Name: Panders votos con 2 Inners
 
 3GW11.5 + 3VP in final
 
-Crypt (12 cards, min=4 max=27 avg=3)
-------------------------------------
-1x Arika                    11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
-1x Leandro                  11  AUS OBF PRE cel dom      inner circle   Malkavian:2
-1x Lena Rowe                3   aus obf pre                             Pander:2
-1x Christine Boscacci       2   dom vic                                 Pander:2
-1x Mitchell, The Headhunter 2   obt pot                                 Pander:2
-1x Angela Decker            1   pre                                     Pander:2
-1x Basil                    1   obf                                     Pander:2
-1x Feo Ramos                1   aus                                     Pander:3
-1x Huang, Blood Cultist     1   pro                                     Pander:2
-1x March Halcyon            1   for                                     Pander:2
-1x Olga Triminov            1   vic                                     Pander:3
-1x Royce                    1   dom                                     Pander:2
+Crypt (12 cards, min=4, max=27, avg=3)
+--------------------------------------
+1x Arika                     11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Leandro                   11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Lena Rowe                  3  aus obf pre                            Pander:2
+1x Christine Boscacci         2  dom vic                                Pander:2
+1x Mitchell, The Headhunter   2  obt pot                                Pander:2
+1x Angela Decker              1  pre                                    Pander:2
+1x Basil                      1  obf                                    Pander:2
+1x Feo Ramos                  1  aus                                    Pander:3
+1x Huang, Blood Cultist       1  pro                                    Pander:2
+1x March Halcyon              1  for                                    Pander:2
+1x Olga Triminov              1  vic                                    Pander:3
+1x Royce                      1  dom                                    Pander:2
 
 Library (80 cards)
 Master (22; 2 trifle)

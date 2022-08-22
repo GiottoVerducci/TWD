@@ -18,15 +18,15 @@ trouble with a persistent Gangrel deck, a serious manuver deck, or some sort
 of deck that has a lot of Fortitude and Presses, but these are pretty
 uncommon in a tournament environment.
 
-Crypt (12 cards, min=6 max=22 avg=3.5)
---------------------------------------
-2x Olivia                               5   OBF POT vic         bishop  Nosferatu antitribu:2
-2x Agatha                               4   POT obf                     Nosferatu antitribu:2
-2x Duck                                 3   obf pot                     Nosferatu:1
-2x KoKo                                 2   pot                         Nosferatu:1
-2x Hasina Kesi                          1   pot                         Caitiff:1
-1x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
-1x Nigel the Shunned                    5   ANI POT obf                 Nosferatu antitribu:2
+Crypt (12 cards, min=6, max=22, avg=3.5)
+----------------------------------------
+2x Olivia                             5  OBF POT vic      bishop  Nosferatu antitribu:2
+2x Agatha                             4  POT obf                  Nosferatu antitribu:2
+2x Duck                               3  obf pot                  Nosferatu:1
+2x KoKo                               2  pot                      Nosferatu:1
+2x Hasina Kesi                        1  pot                      Caitiff:1
+1x Beast, The Leatherface of Detroit  7  OBF POT ani cel          Nosferatu antitribu:2
+1x Nigel the Shunned                  5  ANI POT obf              Nosferatu antitribu:2
 
 Library (90 cards)
 Master (14)

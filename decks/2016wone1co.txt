@@ -18,16 +18,16 @@ Another compact module, but deep enough to be effective with 2-4 cap vampires un
 
 A light combat package that remains just effective enough with prevalent Villeins. Easy to dump with Gustaphe.
 
-Crypt (12 cards, min=15 max=38 avg=6.75)
-----------------------------------------
-3x Alonso Petrodon      10  ANI DOM OBF POT for tha     justicar  Nosferatu:5
-3x Gustaphe Brunnelle   8   ANI DOM POT obf             primogen  Nosferatu:4
-1x Accorri Giovanni     6   DOM POT ani nec                       Giovanni:5
-1x Harold Tanner        6   POT ani dom obf                       Nosferatu:4
-1x Joseph Cambridge     6   POT ani dom obf             bishop    Nosferatu antitribu:4
-1x Paulo de Castille    4   ani dom pot                           Lasombra:4
-1x Almodo Giovanni      3   dom pot                               Giovanni:4
-1x Jackson Asher        2   dom                                   Ventrue:4
+Crypt (12 cards, min=15, max=38, avg=6.75)
+------------------------------------------
+3x Alonso Petrodon     10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
+3x Gustaphe Brunnelle   8  ANI DOM POT obf          primogen  Nosferatu:4
+1x Accorri Giovanni     6  DOM POT ani nec                    Giovanni:5
+1x Harold Tanner        6  POT ani dom obf                    Nosferatu:4
+1x Joseph Cambridge     6  POT ani dom obf          bishop    Nosferatu antitribu:4
+1x Paulo de Castille    4  ani dom pot                        Lasombra:4
+1x Almodo Giovanni      3  dom pot                            Giovanni:4
+1x Jackson Asher        2  dom                                Ventrue:4
 
 Library (74 cards)
 Master (16; 5 trifle)

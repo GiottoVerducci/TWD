@@ -12,13 +12,13 @@ Classic Rachel Madness with some improvements:
 Rachel's ability) for better card flow
 - Enkil cog/camera phone mix.
 
-Crypt (12 cards, min=14 max=40 avg=6.92)
-----------------------------------------
-5x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince  Malkavian:3
-2x Greger Anderssen     7   AUS OBF dom pro      prince  Malkavian:2
-2x Victoria             5   AUS cel obf                  Malkavian:2
-2x Zöe                  3   AUS cel obf                  Malkavian:2
-1x Watenda              3   obf                          Malkavian:2
+Crypt (12 cards, min=14, max=40, avg=6.92)
+------------------------------------------
+5x Rachel Brandywine  10  AUS DEM OBF PRO ani  prince  Malkavian:3
+2x Greger Anderssen    7  AUS OBF dom pro      prince  Malkavian:2
+2x Victoria            5  AUS cel obf                  Malkavian:2
+2x Zöe                 3  AUS cel obf                  Malkavian:2
+1x Watenda             3  obf                          Malkavian:2
 
 Library (80 cards)
 Master (15; 3 trifle)

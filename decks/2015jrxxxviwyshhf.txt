@@ -14,16 +14,16 @@ realize it when building it (I don't own old Malks, so the whole Aus Dom Obf
 thing isn't something I've done before). Mental Maze can worth it over Obedience
 during these days of ally aggression so I went with a mix.
 
-Crypt (12 cards, min=24 max=40 avg=8.25)
-----------------------------------------
-4x Tryphosa              10  AUS DEM DOM OBF POT  prince    Malkavian:4
-2x Rebekah               9   AUS CEL DOM OBF QUI  prince    Assamite:3
-1x Maris Streck          9   AUS OBF ani dem dom  justicar  Malkavian:3
-1x Paul Cordwood         8   AUS DOM THA obf pre  bishop    Tremere antitribu:4
-1x Titus Camille         8   AUS DOM OBF for                Ventrue antitribu:4
-1x Dr. Douglas Netchurch 6   AUS OBF dem dom                Malkavian:3
-1x Black Lotus           5   DOM aus obf ser                Follower of Set:4
-1x Catherine du Bois     5   DOM for obf pre                Ventrue:3
+Crypt (12 cards, min=24, max=40, avg=8.25)
+------------------------------------------
+4x Tryphosa               10  AUS DEM DOM OBF POT  prince    Malkavian:4
+2x Rebekah                 9  AUS CEL DOM OBF QUI  prince    Assamite:3
+1x Maris Streck            9  AUS OBF ani dem dom  justicar  Malkavian:3
+1x Paul Cordwood           8  AUS DOM THA obf pre  bishop    Tremere antitribu:4
+1x Titus Camille           8  AUS DOM OBF for                Ventrue antitribu:4
+1x Dr. Douglas Netchurch   6  AUS OBF dem dom                Malkavian:3
+1x Black Lotus             5  DOM aus obf ser                Follower of Set:4
+1x Catherine du Bois       5  DOM for obf pre                Ventrue:3
 
 Library (82 cards)
 Master (12; 2 trifle)

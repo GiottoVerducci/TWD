@@ -10,20 +10,20 @@ Deck Name: "If I would make a preconstructed starter..."
 Description: Idea of the deck from Isak Esbjörnsson Bjärmark, who in
 turn built his deck on someone elses idea, I think.
 
-Crypt (12 cards, min=10 max=21 avg=4)
--------------------------------------
-1x Reverend Blackwood   6   DOM THA obf  bishop  Tremere antitribu:2
-1x Aisling Sturbridge   5   AUS THA dom          Tremere:2
-1x Hannigan             5   AUS THA dom          Tremere antitribu:2
-1x Kurt Strauss         5   DOM aus tha          Tremere antitribu:2
-1x Merrill Molitor      5   THA aus dom          Tremere:1
-1x Ignatius             4   aus dom tha          Tremere:1
-1x Sarah Cobbler        4   THA dom              Tremere:1
-1x Thelonius            4   aus dom tha          Tremere antitribu:2
-1x Brooke               3   dom tha              Tremere antitribu:2
-1x Jing Wei             3   dom tha              Tremere:1
-1x Heinrick Schlempt    2   tha                  Tremere antitribu:2
-1x Roreca Quaid         2   tha                  Tremere:1
+Crypt (12 cards, min=10, max=21, avg=4)
+---------------------------------------
+1x Reverend Blackwood  6  DOM THA obf  bishop  Tremere antitribu:2
+1x Aisling Sturbridge  5  AUS THA dom          Tremere:2
+1x Hannigan            5  AUS THA dom          Tremere antitribu:2
+1x Kurt Strauss        5  DOM aus tha          Tremere antitribu:2
+1x Merrill Molitor     5  THA aus dom          Tremere:1
+1x Ignatius            4  aus dom tha          Tremere:1
+1x Sarah Cobbler       4  THA dom              Tremere:1
+1x Thelonius           4  aus dom tha          Tremere antitribu:2
+1x Brooke              3  dom tha              Tremere antitribu:2
+1x Jing Wei            3  dom tha              Tremere:1
+1x Heinrick Schlempt   2  tha                  Tremere antitribu:2
+1x Roreca Quaid        2  tha                  Tremere:1
 
 Library (76 cards)
 Master (25; 5 trifle)

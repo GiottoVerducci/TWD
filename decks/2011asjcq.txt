@@ -12,14 +12,14 @@ with Heart of the City, add Conditioning and AI be damned, a bleed of
 10 goes a long way! Be responable though! Sulubri Anti Fills them back
 up then rinse and repeat.
 
-Crypt (12 cards, min=26 max=44 avg=8.75)
-----------------------------------------
-4x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-3x Matthias             7   AUS FOR OBE nec                             Salubri:2
-2x Blanche Hill         6   FOR OBE aus                                 Salubri:2
-1x Leandro              11  AUS OBF PRE cel dom         inner circle    Malkavian:2
-1x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
-1x Carlotta Giovanni    7   NEC POT dom obf                             Giovanni:2
+Crypt (12 cards, min=26, max=44, avg=8.75)
+------------------------------------------
+4x Arika              11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Matthias            7  AUS FOR OBE nec                        Salubri:2
+2x Blanche Hill        6  FOR OBE aus                            Salubri:2
+1x Leandro            11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Queen Anne         10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Carlotta Giovanni   7  NEC POT dom obf                        Giovanni:2
 
 Library (90 cards)
 Master (22)

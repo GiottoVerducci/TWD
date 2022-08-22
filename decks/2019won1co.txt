@@ -24,13 +24,13 @@ exchange for a couple more Liquidations and a few Funeral Wakes.
 That said, Specialization did save me from being ousted by Fame
 in torpor in the final round, so it's hard to hate it.
 
-Crypt (12 cards, min=14 max=24 avg=4.67)
-----------------------------------------
-4x Mina Grotius         6   FOR NEC cel         Harbinger of Skulls:3
-4x Thomasso Ghiberti    4   NEC pot             Giovanni:4
-2x Nicomedes            5   aus for nec vic     Harbinger of Skulls:4
-1x Lia Milliner         3   dom nec             Giovanni:3
-1x Nunzio Giovanni      3   nec pot             Giovanni:4
+Crypt (12 cards, min=14, max=24, avg=4.67)
+------------------------------------------
+4x Mina Grotius       6  FOR NEC cel      Harbinger of Skulls:3
+4x Thomasso Ghiberti  4  NEC pot          Giovanni:4
+2x Nicomedes          5  aus for nec vic  Harbinger of Skulls:4
+1x Lia Milliner       3  dom nec          Giovanni:3
+1x Nunzio Giovanni    3  nec pot          Giovanni:4
 
 Library (90 cards)
 Master (22; 2 trifle)

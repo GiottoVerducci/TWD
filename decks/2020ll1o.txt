@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/9630
 
 Deck Name: Euro brujah
 
-Crypt (12 cards, min=26 max=34 avg=7.5)
----------------------------------------
-3x Dónal O'Connor                       8   CEL DOM POT                 prince    Brujah:2
-3x Theo Bell                            7   POT cel dom pre                       Brujah:2
-2x Constanza Vinti                      8   CEL DOM POT                 prince    Brujah:2
-2x Beast, The Leatherface of Detroit    7   OBF POT ani cel                       Nosferatu antitribu:2
-1x Don Cruez, The Idealist              10  CEL POT PRE ani dom pro     justicar  Brujah:1
-1x Volker, The Puppet Prince            5   CEL pot                     prince    Brujah:2
+Crypt (12 cards, min=26, max=34, avg=7.5)
+-----------------------------------------
+3x Dónal O'Connor                      8  CEL DOM POT              prince    Brujah:2
+3x Theo Bell                           7  POT cel dom pre                    Brujah:2
+2x Constanza Vinti                     8  CEL DOM POT              prince    Brujah:2
+2x Beast, The Leatherface of Detroit   7  OBF POT ani cel                    Nosferatu antitribu:2
+1x Don Cruez, The Idealist            10  CEL POT PRE ani dom pro  justicar  Brujah:1
+1x Volker, The Puppet Prince           5  CEL pot                  prince    Brujah:2
 
 Library (90 cards)
 Master (16; 9 trifle)

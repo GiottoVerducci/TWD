@@ -12,13 +12,13 @@ Deck Name: Lasombra's Angry Dragon
 
 Description: Obt-Ani + guns toolbox deck
 
-Crypt (12 cards, min=28 max=40 avg=8.75)
-----------------------------------------
-3x Nahir                  10  ANI DOM OBT POT tha                   Lasombra:3
-3x Antón de Concepción    9   ANI DOM OBT POT aus       archbishop  Lasombra:4
-2x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf               Nosferatu antitribu:4
-2x Conrad Adoula          8   DOM OBT POT ani cel                   Lasombra:4
-2x Otieno                 6   OBT POT ani dom                       Lasombra:4
+Crypt (12 cards, min=28, max=40, avg=8.75)
+------------------------------------------
+3x Nahir                   10  ANI DOM OBT POT tha                  Lasombra:3
+3x Antón de Concepción      9  ANI DOM OBT POT aus      archbishop  Lasombra:4
+2x Servius Marius Pustula  10  ANI CHI DOM OBT POT obf              Nosferatu antitribu:4
+2x Conrad Adoula            8  DOM OBT POT ani cel                  Lasombra:4
+2x Otieno                   6  OBT POT ani dom                      Lasombra:4
 
 Library (90 cards)
 Master (12; 7 trifle)

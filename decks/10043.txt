@@ -27,16 +27,16 @@ Also too much Janey is way worse than not enough as although her text is such a 
 
 A big thank you to Mark and the Comic Shop Plus for hosting as always.
 
-Crypt (12 cards, min=8 max=26 avg=4.42)
----------------------------------------
-3x Janey Pickman        6   ANI PRO for          Gangrel antitribu:4
-2x Doyle Fincher        7   ANI PRO aus for obf  Gangrel antitribu:4
-2x Céleste Lamontagne   5   ANI PRO for          Gangrel antitribu:4
-1x Joseph Fischer       3   PRO                  Gangrel antitribu:5
-1x Lillian              3   ani pro              Gangrel:5
-1x Leo Washington       2   cel pro              Gangrel antitribu:4
-1x Robert Price         2   pro                  Gangrel:4
-1x Iris Bennett         1   pro                  Caitiff:5
+Crypt (12 cards, min=8, max=26, avg=4.42)
+-----------------------------------------
+3x Janey Pickman       6  ANI PRO for          Gangrel antitribu:4
+2x Doyle Fincher       7  ANI PRO aus for obf  Gangrel antitribu:4
+2x Céleste Lamontagne  5  ANI PRO for          Gangrel antitribu:4
+1x Joseph Fischer      3  PRO                  Gangrel antitribu:5
+1x Lillian             3  ani pro              Gangrel:5
+1x Leo Washington      2  cel pro              Gangrel antitribu:4
+1x Robert Price        2  pro                  Gangrel:4
+1x Iris Bennett        1  pro                  Caitiff:5
 
 Library (90 cards)
 Master (20; 4 trifle)

@@ -12,17 +12,17 @@ at superior. The other minions stay untapped or provide light pressure
 via bleeding as the game state dictates. When your prey is vulnerable,
 lunge with Misdirection, Pentex Subversion, Govern and Conditioning.
 
-Crypt (12 cards, min=14 max=28 avg=5.33)
-----------------------------------------
-4x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
-1x Eugenio Estevez              6   AUS THA dom for               Tremere:3
-1x Selena                       6   AUS DOM THA                   Tremere antitribu:3
-1x Aisling Sturbridge           5   AUS THA dom                   Tremere:2
-1x Cohn Rose                    5   THA aus dom pre               Tremere:3
-1x Hannigan                     5   AUS THA dom                   Tremere antitribu:2
-1x Blythe Candeleria            3   THA aus                       Tremere:2
-1x Ehrich Weiss                 3   dom tha                       Tremere:3
-1x Martin Franckel              3   AUS tha                       Tremere:3
+Crypt (12 cards, min=14, max=28, avg=5.33)
+------------------------------------------
+4x Carna, The Princess Witch  7  AUS DOM THA      primogen  Tremere:3
+1x Eugenio Estevez            6  AUS THA dom for            Tremere:3
+1x Selena                     6  AUS DOM THA                Tremere antitribu:3
+1x Aisling Sturbridge         5  AUS THA dom                Tremere:2
+1x Cohn Rose                  5  THA aus dom pre            Tremere:3
+1x Hannigan                   5  AUS THA dom                Tremere antitribu:2
+1x Blythe Candeleria          3  THA aus                    Tremere:2
+1x Ehrich Weiss               3  dom tha                    Tremere:3
+1x Martin Franckel            3  AUS tha                    Tremere:3
 
 Library (82 cards)
 Master (17; 3 trifle)

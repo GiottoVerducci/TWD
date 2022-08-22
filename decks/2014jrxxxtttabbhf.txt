@@ -7,16 +7,16 @@ Matti Palomäki
 
 Deck Name: mökä
 
-Crypt (12 cards, min=32 max=40 avg=8.67)
-----------------------------------------
-2x Jason, The World's Voice 8   AUS DEM OBF for         primogen        Malkavian:3
-2x Lazarus James            8   AUS DEM PRE obf tha                     Malkavian:4
-2x Persephone Tar-Anis      8   AUS DEM OBF cel pot                     Malkavian antitribu:4
-2x Rodolfo                  8   AUS DEM OBF pro         bishop          Malkavian antitribu:3
-1x Lutz von Hohenzollern    11  AUS DEM OBF PRE pot     inner circle    Malkavian:4
-1x Esau                     10  AUS DEM DOM OBF PRE                     Malkavian:3
-1x Rachel Brandywine        10  AUS DEM OBF PRO ani     prince          Malkavian:3
-1x William Biltmore         9   AUS DEM OBF THA dom                     Malkavian:3
+Crypt (12 cards, min=32, max=40, avg=8.67)
+------------------------------------------
+2x Jason, The World's Voice   8  AUS DEM OBF for      primogen      Malkavian:3
+2x Lazarus James              8  AUS DEM PRE obf tha                Malkavian:4
+2x Persephone Tar-Anis        8  AUS DEM OBF cel pot                Malkavian antitribu:4
+2x Rodolfo                    8  AUS DEM OBF pro      bishop        Malkavian antitribu:3
+1x Lutz von Hohenzollern     11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+1x Esau                      10  AUS DEM DOM OBF PRE                Malkavian:3
+1x Rachel Brandywine         10  AUS DEM OBF PRO ani  prince        Malkavian:3
+1x William Biltmore           9  AUS DEM OBF THA dom                Malkavian:3
 
 Library (76 cards)
 Master (19; 6 trifle)

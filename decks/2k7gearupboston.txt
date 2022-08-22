@@ -14,15 +14,15 @@ fighty decks. It's a serious vote Presence at the table, lots of
 intercept, and some "big" actions to try and throw down. And some
 Imbued for pool mop-up and other duties as assigned.
 
-Crypt (12 cards, min=16 max=40 avg=6.58)
-----------------------------------------
-4x Jaroslav Pascek               10  CEL POT PRE for obf  justicar  Brujah:3
-2x Mustafa, The Heir             6   FOR PRE cel dom      prince    Ventrue:4
-2x Victor Pelletier              5   PRE cel dom for                Ventrue:4
-1x Pug Jackson                   6   CEL POT for pre      primogen  Brujah:3
-1x Fahd al-Zawba'a               4   cel for pre                    Toreador:4
-1x Leaf "Potter116" Pankowski    4   inn red viz                    Redeemer:4
-1x Béatrice "Oracle171" Tremblay 3   inn ven                        Innocent:4
+Crypt (12 cards, min=16, max=40, avg=6.58)
+------------------------------------------
+4x Jaroslav Pascek                10  CEL POT PRE for obf  justicar  Brujah:3
+2x Mustafa, The Heir               6  FOR PRE cel dom      prince    Ventrue:4
+2x Victor Pelletier                5  PRE cel dom for                Ventrue:4
+1x Pug Jackson                     6  CEL POT for pre      primogen  Brujah:3
+1x Fahd al-Zawba'a                 4  cel for pre                    Toreador:4
+1x Leaf "Potter116" Pankowski      4  inn red viz                    Redeemer:4
+1x Béatrice "Oracle171" Tremblay   3  inn ven                        Innocent:4
 
 Library (90 cards)
 Master (14)

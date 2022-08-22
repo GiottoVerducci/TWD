@@ -43,9 +43,9 @@ Note: The deck is only less than 90 cards because I had limited
 number of Perfect Clarity. I plan to increase it to 90 as I acquire
 more.
 
-Crypt (18 cards, min=36 max=36 avg=9)
--------------------------------------
-18x Spiridonas  9    DOM THA pot pre    prince  Tremere:2
+Crypt (18 cards, min=36, max=36, avg=9)
+---------------------------------------
+18x Spiridonas  9  DOM THA pot pre  prince  Tremere:2
 
 Library (80 cards)
 Master (20)

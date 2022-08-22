@@ -17,14 +17,14 @@ Replaced a banned card with a Wash and added 2x No Trace for Berkeley's combat-h
 Maris, Lutz, and Mental Maze are great deterrents to keeping Madness Network on the table (yeah duh I know, but I seldom play with or against Maris OR Lutz, and seeing people's ire toward them was eye-opening).
 I only used My Kin Against the world once (in game 1), with Lutz and Maris. Discarded the rest; would have been way better if I had more Malks, but hey an extra action is an extra action (plus prey burns 1 pool with Lutz out), right?
 
-Crypt (12 cards, min=34 max=43 avg=9.5)
----------------------------------------
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
-3x Maris Streck          9   AUS OBF ani dem dom  justicar      Malkavian:3
-3x Orlando Oriundus      9   AUS DOM THA obf      bishop        Tremere antitribu:4
-1x Rachel Brandywine     10  AUS DEM OBF PRO ani  prince        Malkavian:3
-1x Tryphosa              10  AUS DEM DOM OBF POT  prince        Malkavian:4
-1x Quentin King III      7   AUS DEM obf pre      prince        Malkavian:3
+Crypt (12 cards, min=34, max=43, avg=9.5)
+-----------------------------------------
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Maris Streck            9  AUS OBF ani dem dom  justicar      Malkavian:3
+3x Orlando Oriundus        9  AUS DOM THA obf      bishop        Tremere antitribu:4
+1x Rachel Brandywine      10  AUS DEM OBF PRO ani  prince        Malkavian:3
+1x Tryphosa               10  AUS DEM DOM OBF POT  prince        Malkavian:4
+1x Quentin King III        7  AUS DEM obf pre      prince        Malkavian:3
 
 Library (80 cards)
 Master (20; 1 trifle)

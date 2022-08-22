@@ -10,13 +10,13 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/L_G72e6orok
 
 Junta
 
-Crypt (12 cards, min=28 max=40 avg=8.58)
-----------------------------------------
-4x Ayo Igoli      10  AUS CEL FOR PRE obf tha             Ishtarri:4
-3x Undele         9   CEL FOR obf pre ser       magaji    Ishtarri:5
-3x Ubende         7   CEL PRE for obf qui       magaji    Ishtarri:4
-1x Klaus Konrecht 8   AUS CEL PRE for pot       cardinal  Toreador antitribu:4
-1x Mukhtar Bey    7   FOR PRE QUI obf pot       prince    Caitiff:4
+Crypt (12 cards, min=28, max=40, avg=8.58)
+------------------------------------------
+4x Ayo Igoli       10  AUS CEL FOR PRE obf tha            Ishtarri:4
+3x Undele           9  CEL FOR obf pre ser      magaji    Ishtarri:5
+3x Ubende           7  CEL PRE for obf qui      magaji    Ishtarri:4
+1x Klaus Konrecht   8  AUS CEL PRE for pot      cardinal  Toreador antitribu:4
+1x Mukhtar Bey      7  FOR PRE QUI obf pot      prince    Caitiff:4
 
 Library (90 cards)
 Master (18; 1 trifle)

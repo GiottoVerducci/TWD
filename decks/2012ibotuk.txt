@@ -14,16 +14,16 @@ loosely based on the Toreador master gun decks flying about -
 it's supposed to have New Carthage in to assist the ousting but I forgot
 3r, 2r, 3f - Anson + Ashurs + gun combat = success
 
-Crypt (12 cards, min=25 max=39 avg=8)
--------------------------------------
-4x Anson                        8   CEL PRE aus dom             prince          Toreador:1
-2x Volker, The Puppet Prince    5   CEL pot                     prince          Brujah:2
-1x Alexandra                    11  ANI AUS CEL PRE dom         inner circle    Toreador:2
-1x Anneke                       10  AUS CEL PRE dom             justicar        Toreador:1
-1x Don Cruez, The Idealist      10  CEL POT PRE ani dom pro     justicar        Brujah:1
-1x Constanza Vinti              8   CEL DOM POT                 prince          Brujah:2
-1x Dónal O'Connor               8   CEL DOM POT                 prince          Brujah:2
-1x Theo Bell                    7   POT cel dom pre                             Brujah:2
+Crypt (12 cards, min=25, max=39, avg=8)
+---------------------------------------
+4x Anson                       8  CEL PRE aus dom          prince        Toreador:1
+2x Volker, The Puppet Prince   5  CEL pot                  prince        Brujah:2
+1x Alexandra                  11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+1x Anneke                     10  AUS CEL PRE dom          justicar      Toreador:1
+1x Don Cruez, The Idealist    10  CEL POT PRE ani dom pro  justicar      Brujah:1
+1x Constanza Vinti             8  CEL DOM POT              prince        Brujah:2
+1x Dónal O'Connor              8  CEL DOM POT              prince        Brujah:2
+1x Theo Bell                   7  POT cel dom pre                        Brujah:2
 
 Library (84 cards)
 Master (36; 7 trifle)

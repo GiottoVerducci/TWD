@@ -14,20 +14,20 @@ to exchange "hands for 1" with my opponent.
 John Bell
 Prince of Cincinnati
 
-Crypt (14 cards, min=4 max=17 avg=2.64)
----------------------------------------
-2x Jimmy Dunn               4   CEL POT for             Pander:2
-2x Uriah Winter             1   for pot                 Caitiff:1
-1x Olivia                   5   OBF POT vic     bishop  Nosferatu antitribu:2
-1x Agatha                   4   POT obf                 Nosferatu antitribu:2
-1x Hector Sosa              4   POT pre                 Brujah:1
-1x Hugo                     4   POT pre vic             Brujah antitribu:2
-1x KoKo                     2   pot                     Nosferatu:1
-1x Lupo                     2   pot                     Brujah:1
-1x Mitchell, The Headhunter 2   obt pot                 Pander:2
-1x Paul DiCarlo, The Alpha  2   pot                     Giovanni:2
-1x Hasina Kesi              1   pot                     Caitiff:1
-1x Smudge the Ignored       1   -none-                  Caitiff:1
+Crypt (14 cards, min=4, max=17, avg=2.64)
+-----------------------------------------
+2x Jimmy Dunn                4  CEL POT for          Pander:2
+2x Uriah Winter              1  for pot              Caitiff:1
+1x Olivia                    5  OBF POT vic  bishop  Nosferatu antitribu:2
+1x Agatha                    4  POT obf              Nosferatu antitribu:2
+1x Hector Sosa               4  POT pre              Brujah:1
+1x Hugo                      4  POT pre vic          Brujah antitribu:2
+1x KoKo                      2  pot                  Nosferatu:1
+1x Lupo                      2  pot                  Brujah:1
+1x Mitchell, The Headhunter  2  obt pot              Pander:2
+1x Paul DiCarlo, The Alpha   2  pot                  Giovanni:2
+1x Hasina Kesi               1  pot                  Caitiff:1
+1x Smudge the Ignored        1  -none-               Caitiff:1
 
 Library (90 cards)
 Master (13)

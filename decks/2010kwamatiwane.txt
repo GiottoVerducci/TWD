@@ -8,14 +8,14 @@ Deck Name: Might Makes Guruhi Right
 
 Drawing, Crows, Immortal, Taste, Drawing, Crows, Immortal, Taste, ...
 
-Crypt (12 cards, min=22 max=36 avg=7.42)
-----------------------------------------
-4x Nangila Were         9   ANI POT PRE obf ser  Guruhi:4
-3x Nana Buruku          8   ANI POT PRE          Guruhi:4
-2x Fish                 5   ANI POT pre          Guruhi:4
-1x Aren, Priest of Eshu 7   POT PRE ani obf      Guruhi:4
-1x Maskini              7   ANI POT PRE SER abo  Guruhi:4
-1x Fode Kourouma        5   POT ani aus pre      Guruhi:4
+Crypt (12 cards, min=22, max=36, avg=7.42)
+------------------------------------------
+4x Nangila Were          9  ANI POT PRE obf ser  Guruhi:4
+3x Nana Buruku           8  ANI POT PRE          Guruhi:4
+2x Fish                  5  ANI POT pre          Guruhi:4
+1x Aren, Priest of Eshu  7  POT PRE ani obf      Guruhi:4
+1x Maskini               7  ANI POT PRE SER abo  Guruhi:4
+1x Fode Kourouma         5  POT ani aus pre      Guruhi:4
 
 Library (88 cards)
 Master (18; 6 trifle)

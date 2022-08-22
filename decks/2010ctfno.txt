@@ -7,15 +7,15 @@ Mark Loughman
 
 Deck Name: Wall of Madness
 
-Crypt (12 cards, min=15 max=40 avg=6.75)
-----------------------------------------
-4x Lucian               10  AUS DOM OBF cel tha  justicar  Malkavian:1
-2x Gilbert Duane        7   AUS DOM OBF          prince    Malkavian:1
-2x Victoria             5   AUS cel obf                    Malkavian:2
-1x Mariel, Lady Thunder 7   DOM OBF aus tha                Malkavian:1
-1x Zebulon              5   OBF aus dom pro                Malkavian:1
-1x Zöe                  3   AUS cel obf                    Malkavian:2
-1x Ohanna               2   dom                            Malkavian:2
+Crypt (12 cards, min=15, max=40, avg=6.75)
+------------------------------------------
+4x Lucian                10  AUS DOM OBF cel tha  justicar  Malkavian:1
+2x Gilbert Duane          7  AUS DOM OBF          prince    Malkavian:1
+2x Victoria               5  AUS cel obf                    Malkavian:2
+1x Mariel, Lady Thunder   7  DOM OBF aus tha                Malkavian:1
+1x Zebulon                5  OBF aus dom pro                Malkavian:1
+1x Zöe                    3  AUS cel obf                    Malkavian:2
+1x Ohanna                 2  dom                            Malkavian:2
 
 Library (89 cards)
 Master (15)

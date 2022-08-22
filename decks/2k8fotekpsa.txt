@@ -23,18 +23,18 @@ Description: Straight forward sneak and bleed deck with Dominate
 and Protean. The general lack of intercept at the tournament certainly
 helped this deck work, as well as Stanislava's repeat performances.
 
-Crypt (12 cards, min=6 max=40 avg=5.67)
----------------------------------------
-2x Stanislava           11  ANI CEL DOM FOR PRO  inner circle   Gangrel:2
-2x Ingrid Rossler       9   ANI FOR PRO dom      prince         Gangrel:2
-1x Faruq                8   ANI PRO dom for pot                 Gangrel:2
-1x Caitlin              6   ANI PRO aus dom      bishop         Gangrel antitribu:2
-1x Lisette Vizquel      6   DOM POT pro          bishop         Lasombra:2
-1x Mustafa Rahman       2   dom                                 Tremere:2
-1x Ohanna               2   dom                                 Malkavian:2
-1x Samson               2   dom                                 Ventrue antitribu:2
-1x Huang, Blood Cultist 1   pro                                 Pander:2
-1x Royce                1   dom                                 Pander:2
+Crypt (12 cards, min=6, max=40, avg=5.67)
+-----------------------------------------
+2x Stanislava            11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Ingrid Rossler         9  ANI FOR PRO dom      prince        Gangrel:2
+1x Faruq                  8  ANI PRO dom for pot                Gangrel:2
+1x Caitlin                6  ANI PRO aus dom      bishop        Gangrel antitribu:2
+1x Lisette Vizquel        6  DOM POT pro          bishop        Lasombra:2
+1x Mustafa Rahman         2  dom                                Tremere:2
+1x Ohanna                 2  dom                                Malkavian:2
+1x Samson                 2  dom                                Ventrue antitribu:2
+1x Huang, Blood Cultist   1  pro                                Pander:2
+1x Royce                  1  dom                                Pander:2
 
 Library (88 cards)
 Master (19; 3 trifle)

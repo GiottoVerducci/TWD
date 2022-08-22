@@ -17,14 +17,14 @@ Note: the only change I' ll do after playing the tournament is the
 Headquarters for a Dark Influence, since normally you have enough
 political influence and the versatility DI provides could be priceless.
 
-Crypt (12 cards, min=37 max=44 avg=10.33)
------------------------------------------
-3x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
-3x Maris Streck     9   AUS OBF ani dem dom      justicar       Malkavian:3
-2x Etrius           11  AUS DOM OBF THA pro      inner circle   Tremere:2
-2x Leandro          11  AUS OBF PRE cel dom      inner circle   Malkavian:2
-1x Lucinde, Alastor 10  DOM FOR PRE obf pot tha  justicar       Ventrue:3
-1x Queen Anne       10  DOM FOR PRE aus obf      prince         Ventrue:2
+Crypt (12 cards, min=37, max=44, avg=10.33)
+-------------------------------------------
+3x Arika             11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Maris Streck       9  AUS OBF ani dem dom      justicar      Malkavian:3
+2x Etrius            11  AUS DOM OBF THA pro      inner circle  Tremere:2
+2x Leandro           11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Lucinde, Alastor  10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+1x Queen Anne        10  DOM FOR PRE aus obf      prince        Ventrue:2
 
 Library (70 cards)
 Master (20; 7 trifle)

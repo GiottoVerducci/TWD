@@ -10,11 +10,11 @@ https://www.vekn.net/event-calendar/event/9424
 
 Deck Name: A pair of Titis
 
-Crypt (12 cards, min=16 max=40 avg=7.5)
----------------------------------------
-4x Nefertiti (ADV) 10  DOM OBF PRE SER cel pot  Follower of Set:2
-3x Nefertiti       10  DOM OBF PRE SER cel pot  Follower of Set:2
-5x Aabbt Kindred   4   for pre ser              Follower of Set:2
+Crypt (12 cards, min=16, max=40, avg=7.5)
+-----------------------------------------
+4x Nefertiti (ADV)  10  DOM OBF PRE SER cel pot  Follower of Set:2
+3x Nefertiti        10  DOM OBF PRE SER cel pot  Follower of Set:2
+5x Aabbt Kindred     4  for pre ser              Follower of Set:2
 
 Library (87 cards)
 Master (10; 2 trifle)

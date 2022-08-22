@@ -8,10 +8,10 @@ Robson Ribeiro de Sá
 
 Deck Name: Unnamed e sua Horda
 
-Crypt (12 cards, min=12 max=33 avg=4.75)
-----------------------------------------
-9x Horde, The   3   dai obf pre          Baali:6
-3x unnamed, The 10  CEL DAI OBF PRE PRO  Baali:6
+Crypt (12 cards, min=12, max=33, avg=4.75)
+------------------------------------------
+9x Horde, The     3  dai obf pre          Baali:6
+3x unnamed, The  10  CEL DAI OBF PRE PRO  Baali:6
 
 Library (90 cards)
 Master (28; 3 trifle)

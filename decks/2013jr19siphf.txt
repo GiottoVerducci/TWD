@@ -10,18 +10,18 @@ Janne Lönnqvist
 Deck Name: Lasombra S&B
 Created by: Louis Gourdin (only addition, 2 Wash)
 
-Crypt (12 cards, min=17 max=26 avg=5.33)
-----------------------------------------
-2x Onaedo                6   DOM OBT aus pot            Lasombra:4
-2x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
-1x Henri Lavenant        7   DOM OBT pot qui            Lasombra:3
-1x Lord Vauxhall         7   DOM OBT POT THA            Lasombra:4
-1x Isanwayen             6   DOM MYT OBT                Kiasyd:4
-1x Andrew Emory          5   OBT aus dom pot    bishop  Lasombra:4
-1x Banjoko               5   DOM obt pot                Lasombra:3
-1x Dame Hollerton        5   DOM OBT myt                Kiasyd:4
-1x Leila Monroe          4   dom obt pre                Lasombra:4
-1x Lucy Markowitz        3   dom obt                    Lasombra:4
+Crypt (12 cards, min=17, max=26, avg=5.33)
+------------------------------------------
+2x Onaedo                 6  DOM OBT aus pot          Lasombra:4
+2x Ermenegildo, The Rake  5  DOM OBT pot              Lasombra:4
+1x Henri Lavenant         7  DOM OBT pot qui          Lasombra:3
+1x Lord Vauxhall          7  DOM OBT POT THA          Lasombra:4
+1x Isanwayen              6  DOM MYT OBT              Kiasyd:4
+1x Andrew Emory           5  OBT aus dom pot  bishop  Lasombra:4
+1x Banjoko                5  DOM obt pot              Lasombra:3
+1x Dame Hollerton         5  DOM OBT myt              Kiasyd:4
+1x Leila Monroe           4  dom obt pre              Lasombra:4
+1x Lucy Markowitz         3  dom obt                  Lasombra:4
 
 Library (72 cards)
 Master (14; 4 trifle)

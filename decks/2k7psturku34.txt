@@ -12,17 +12,17 @@ Description: a generic Imbued deck
 The other finalists were playing: Daughters breed/vote, Setite SB/
 Temptation, White Lily multirush and Little Tailor's War Ghouls.
 
-Crypt (12 cards, min=8 max=20 avg=3.67)
----------------------------------------
-2x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-2x Travis "Traveler72" Miller   5   def mar      Martyr:4
-2x Tupdog                       1   POT VIS      Gargoyle:3 -- can recruit el vagabundo or Carlton
-1x Erick "Shophet125" Franco    4   inn jud      Judge:4
-1x Jack "Hannibal137" Harmon    4   def jud      Defender:4
-1x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
-1x Paul "Sixofswords29" Moreton 4   def vis      Visionary:4
-1x François "Warden" Loehr      3   def jud      Judge:4
-1x Inez "Nurse216" Villagrande  3   inn          Innocent:4
+Crypt (12 cards, min=8, max=20, avg=3.67)
+-----------------------------------------
+2x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+2x Travis "Traveler72" Miller    5  def mar      Martyr:4
+2x Tupdog                        1  POT VIS      Gargoyle:3   -- can recruit el vagabundo or Carlton
+1x Erick "Shophet125" Franco     4  inn jud      Judge:4
+1x Jack "Hannibal137" Harmon     4  def jud      Defender:4
+1x Leaf "Potter116" Pankowski    4  inn red viz  Redeemer:4
+1x Paul "Sixofswords29" Moreton  4  def vis      Visionary:4
+1x François "Warden" Loehr       3  def jud      Judge:4
+1x Inez "Nurse216" Villagrande   3  inn          Innocent:4
 
 Library (83 cards)
 Master (15; 2 trifle)

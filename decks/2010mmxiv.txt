@@ -4,16 +4,16 @@ January 14th 2010
 18 players
 Otso Saariluoma
 
-Crypt (12 cards, min=17 max=40 avg=7.5)
----------------------------------------
-4x Cock Robin              10  ANI OBF POT aus for  justicar    Nosferatu:3
-2x Baron Dieudonne         9   ANI OBF POT PRO      prince      Nosferatu:4
-1x Casino Reeds            9   ANI OBF POT cel dem  prince      Nosferatu:3
-1x Sundown                 6   ANI POT obf pre                  Nosferatu:3
-1x Jeremy "Wix" Wyzchovsky 5   ani obf pot                      Nosferatu:4
-1x Petra                   5   ANI OBF aus                      Nosferatu:4
-1x Beetleman               4   ANI obf                          Nosferatu:4
-1x Clarissa Steinburgen    3   ani obf                          Nosferatu:3
+Crypt (12 cards, min=17, max=40, avg=7.5)
+-----------------------------------------
+4x Cock Robin               10  ANI OBF POT aus for  justicar  Nosferatu:3
+2x Baron Dieudonne           9  ANI OBF POT PRO      prince    Nosferatu:4
+1x Casino Reeds              9  ANI OBF POT cel dem  prince    Nosferatu:3
+1x Sundown                   6  ANI POT obf pre                Nosferatu:3
+1x Jeremy "Wix" Wyzchovsky   5  ani obf pot                    Nosferatu:4
+1x Petra                     5  ANI OBF aus                    Nosferatu:4
+1x Beetleman                 4  ANI obf                        Nosferatu:4
+1x Clarissa Steinburgen      3  ani obf                        Nosferatu:3
 
 Library (83 cards)
 Master (18; 7 trifle)

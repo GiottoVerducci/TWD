@@ -6,20 +6,20 @@ Tobias op den Brouw
 
 Deck Name: Serial Killer (VNV)
 
-Crypt (12 cards, min=9 max=19 avg=3.5)
---------------------------------------
-1x Banjoko                  5   DOM obt pot      Lasombra:3
-1x Isabel Giovanni          5   DOM NEC pot      Giovanni:2
-1x Wah Chun-Yuen            5   POT cel dom pre  Brujah antitribu:3
-1x Agatha                   4   POT obf          Nosferatu antitribu:2
-1x Chas Giovanni Tello      4   DOM POT          Giovanni:2
-1x Hugo                     4   POT pre vic      Brujah antitribu:2
-1x Cameron                  3   dom pot          Lasombra:2
-1x Cristofero Giovanni      3   nec pot          Giovanni:2
-1x Mario Giovanni           3   nec pot          Giovanni:2
-1x Arnold Simpson           2   pot              Brujah:3
-1x Mitchell, The Headhunter 2   obt pot          Pander:2
-1x Paul DiCarlo, The Alpha  2   pot              Giovanni:2
+Crypt (12 cards, min=9, max=19, avg=3.5)
+----------------------------------------
+1x Banjoko                   5  DOM obt pot      Lasombra:3
+1x Isabel Giovanni           5  DOM NEC pot      Giovanni:2
+1x Wah Chun-Yuen             5  POT cel dom pre  Brujah antitribu:3
+1x Agatha                    4  POT obf          Nosferatu antitribu:2
+1x Chas Giovanni Tello       4  DOM POT          Giovanni:2
+1x Hugo                      4  POT pre vic      Brujah antitribu:2
+1x Cameron                   3  dom pot          Lasombra:2
+1x Cristofero Giovanni       3  nec pot          Giovanni:2
+1x Mario Giovanni            3  nec pot          Giovanni:2
+1x Arnold Simpson            2  pot              Brujah:3
+1x Mitchell, The Headhunter  2  obt pot          Pander:2
+1x Paul DiCarlo, The Alpha   2  pot              Giovanni:2
 
 Library (90 cards)
 Master (13)

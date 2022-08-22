@@ -8,13 +8,13 @@ Deck Name: Masika, Prince of Lisbon
 
 Description: Wall Toreador G1/2 with guns
 
-Crypt (12 cards, min=32 max=40 avg=9)
--------------------------------------
-3x Masika          10  AUS CEL PRE              primogen  Toreador:1
-3x Anson           8   CEL PRE aus dom          prince    Toreador:1
-3x Marcellus       8   AUS CEL pro              prince    Toreador:2
-2x Anneke          10  AUS CEL PRE dom          justicar  Toreador:1
-1x François Villon 10  AUS CEL PRE chi obf pot  prince    Toreador:2
+Crypt (12 cards, min=32, max=40, avg=9)
+---------------------------------------
+3x Masika           10  AUS CEL PRE              primogen  Toreador:1
+3x Anson             8  CEL PRE aus dom          prince    Toreador:1
+3x Marcellus         8  AUS CEL pro              prince    Toreador:2
+2x Anneke           10  AUS CEL PRE dom          justicar  Toreador:1
+1x François Villon  10  AUS CEL PRE chi obf pot  prince    Toreador:2
 
 Library (83 cards)
 Master (18)

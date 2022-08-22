@@ -12,13 +12,13 @@ Deck Name: Bleeding Gummy Bear
 
 Inspiration taken from "Il Fachiro D'Alessio", deck played by a friend and citymate long time ago
 
-Crypt (12 cards, min=18 max=44 avg=8.17)
-----------------------------------------
-4x Fakir al Sidi        11  ANI FOR PRE PRO THA abo     Gangrel:4
-4x Aksinya Daclau       9   ANI FOR PRE PRO cel tha     Gangrel antitribu:4
-2x Bernard, The Scourge 5   ani for pre pro             Gangrel:4
-1x Shasa Abu Badr       5   PRE cel for                 Ishtarri:4
-1x T.J.                 3   cel for                     Gangrel:4
+Crypt (12 cards, min=18, max=44, avg=8.17)
+------------------------------------------
+4x Fakir al Sidi         11  ANI FOR PRE PRO THA abo  Gangrel:4
+4x Aksinya Daclau         9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+2x Bernard, The Scourge   5  ani for pre pro          Gangrel:4
+1x Shasa Abu Badr         5  PRE cel for              Ishtarri:4
+1x T.J.                   3  cel for                  Gangrel:4
 
 Library (90 cards)
 Master (23; 10 trifle)

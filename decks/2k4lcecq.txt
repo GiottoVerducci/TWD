@@ -4,18 +4,18 @@ November 27th 2004
 128 players
 Stefan Ferenci
 
-Crypt (12 cards, min=9 max=22 avg=3.75)
----------------------------------------
-2x Khalil Ravana                5   CHI ani for pre     Ravnos:2
-2x Salbatore Bokkengro          4   CHI for pro         Ravnos:2
-1x Joaquina Amaya               6   ANI CHI FOR         Ravnos:2
-1x Vaclav Petalengro            6   ANI CHI for pot     Ravnos:2
-1x Lázár Dobrescu               3   for                 Ravnos:2
-1x Tsigane                      3   aus chi             Ravnos:2
-1x Vedel Esbreno                3   chi for             Ravnos:2
-1x Sasha Miklos                 2   chi                 Ravnos:2
-1x Spleen, Georgio Gutterpunk   2   ani chi             Ravnos:2
-1x Zip                          2   ani                 Ravnos:3
+Crypt (12 cards, min=9, max=22, avg=3.75)
+-----------------------------------------
+2x Khalil Ravana               5  CHI ani for pre  Ravnos:2
+2x Salbatore Bokkengro         4  CHI for pro      Ravnos:2
+1x Joaquina Amaya              6  ANI CHI FOR      Ravnos:2
+1x Vaclav Petalengro           6  ANI CHI for pot  Ravnos:2
+1x Lázár Dobrescu              3  for              Ravnos:2
+1x Tsigane                     3  aus chi          Ravnos:2
+1x Vedel Esbreno               3  chi for          Ravnos:2
+1x Sasha Miklos                2  chi              Ravnos:2
+1x Spleen, Georgio Gutterpunk  2  ani chi          Ravnos:2
+1x Zip                         2  ani              Ravnos:3
 
 Library (60 cards)
 Master (21; 6 trifle)

@@ -10,20 +10,20 @@ Description: The goal is to have a horde of minions that bleed as
 much as possible. Use the Enchant Kindred to get out free vampires
 and generate pool if you need it .
 
-Crypt (14 cards, min=4 max=13 avg=2.21)
----------------------------------------
-2x Gideon Fontaine                      3   PRE         Ventrue:1
-2x Delilah Easton                       2   pre         Toreador:1
-1x Violette Prentiss                    4   PRE dom     Ventrue:1
-1x Itzahk Levine                        3   cel pre     Ventrue:2
-1x Roland Loussarian                    3   for pre     Ventrue:1
-1x Uma Hatch                            3   cel pre     Brujah:1
-1x Frederick the Weak                   2   pre         Brujah antitribu:2
-1x Vasilis, The Traitor of Don Cruez    2   pre         Brujah:2
-1x Angela Decker                        1   pre         Pander:2
-1x Antoinette DuChamp                   1   cel pre     Caitiff:2
-1x Igo the Hungry                       1   pre pro     Caitiff:1
-1x Smudge the Ignored                   1   -none-      Caitiff:1
+Crypt (14 cards, min=4, max=13, avg=2.21)
+-----------------------------------------
+2x Gideon Fontaine                    3  PRE      Ventrue:1
+2x Delilah Easton                     2  pre      Toreador:1
+1x Violette Prentiss                  4  PRE dom  Ventrue:1
+1x Itzahk Levine                      3  cel pre  Ventrue:2
+1x Roland Loussarian                  3  for pre  Ventrue:1
+1x Uma Hatch                          3  cel pre  Brujah:1
+1x Frederick the Weak                 2  pre      Brujah antitribu:2
+1x Vasilis, The Traitor of Don Cruez  2  pre      Brujah:2
+1x Angela Decker                      1  pre      Pander:2
+1x Antoinette DuChamp                 1  cel pre  Caitiff:2
+1x Igo the Hungry                     1  pre pro  Caitiff:1
+1x Smudge the Ignored                 1  -none-   Caitiff:1
 
 Library (90 cards)
 Master (24)

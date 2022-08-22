@@ -7,18 +7,18 @@ Noel Giménez Infante
 
 Nombre del mazo:¿De qué va el mazo? no sé ya lo verás...
 
-Crypt (12 cards, min=19 max=28 avg=6.08)
-----------------------------------------
-2x Mukhtar Bey                  7   FOR PRE QUI obf pot  prince    Caitiff:4
-2x Quentin King III             7   AUS DEM obf pre      prince    Malkavian:3
-1x Stavros                      7   AUS OBF PRE dem      priscus   Malkavian antitribu:4
-1x Ubende                       7   CEL PRE for obf qui  magaji    Ishtarri:4
-1x Ankh-sen-Sutekh              6   PRE SER obf                    Follower of Set:4
-1x Antoinette, She Who Watches  6   AUS PRE cel obf      primogen  Toreador:3
-1x Axel Von Anders              5   PRE cel obf pot                Brujah antitribu:4
-1x Raphael Catarari             5   OBF PRE aus pot tha            Nosferatu antitribu:4
-1x Renenet                      5   OBF PRE ser                    Follower of Set:4
-1x Robin Withers                4   dom obf pre                    Ventrue:4
+Crypt (12 cards, min=19, max=28, avg=6.08)
+------------------------------------------
+2x Mukhtar Bey                  7  FOR PRE QUI obf pot  prince    Caitiff:4
+2x Quentin King III             7  AUS DEM obf pre      prince    Malkavian:3
+1x Stavros                      7  AUS OBF PRE dem      priscus   Malkavian antitribu:4
+1x Ubende                       7  CEL PRE for obf qui  magaji    Ishtarri:4
+1x Ankh-sen-Sutekh              6  PRE SER obf                    Follower of Set:4
+1x Antoinette, She Who Watches  6  AUS PRE cel obf      primogen  Toreador:3
+1x Axel Von Anders              5  PRE cel obf pot                Brujah antitribu:4
+1x Raphael Catarari             5  OBF PRE aus pot tha            Nosferatu antitribu:4
+1x Renenet                      5  OBF PRE ser                    Follower of Set:4
+1x Robin Withers                4  dom obf pre                    Ventrue:4
 
 Library (72 cards)
 Master (12; 2 trifle)

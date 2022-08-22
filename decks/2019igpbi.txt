@@ -13,12 +13,12 @@ Deck Name: Hells Bells
 Pure Baali Political Deck that exploits Arishat's ability and the
 Condamnation: Mute to gain the vote lock.
 
-Crypt (12 cards, min=15 max=34 avg=6.25)
-----------------------------------------
-3x Annazir                 9   DAI OBF POT PRE      2 votes     Baali:5
-3x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro              Baali:6
-3x Arishat                 6   DAI OBF PRE          1 vote      Baali:6
-3x Horde, The              3   dai obf pre                      Baali:6
+Crypt (12 cards, min=15, max=34, avg=6.25)
+------------------------------------------
+3x Annazir                  9  DAI OBF POT PRE      2 votes  Baali:5
+3x Xeper, Sultan of Lepers  7  OBF PRE ani dai pro           Baali:6
+3x Arishat                  6  DAI OBF PRE          1 vote   Baali:6
+3x Horde, The               3  dai obf pre                   Baali:6
 
 Library (90 cards)
 Master (25; 8 trifle)

@@ -11,15 +11,15 @@ Magnum on Ira as fast as you can and keep Rack/Vessel/Montreal
 for pools... its good idea to put Rack+2 Vessel on Yvette/Sabrina
 and just stand and block and gain pools... well worked for me perfectly
 
-Crypt (12 cards, min=13 max=28 avg=5.33)
-----------------------------------------
-4x Ira Rivers           7   AUS CEL ani pre     prince  Toreador:3
-2x Victoria             5   AUS cel obf                 Malkavian:2
-2x Yvette, The Hopeless 3   aus cel                     Toreador:3
-1x Greta Kircher        7   AUS CEL PRE obf             Toreador antitribu:2
-1x Sheila Mezarin       6   AUS PRE cel for             Toreador antitribu:2
-1x Sabrina              4   aus cel pre                 Toreador antitribu:3
-1x Zöe                  3   AUS cel obf                 Malkavian:2
+Crypt (12 cards, min=13, max=28, avg=5.33)
+------------------------------------------
+4x Ira Rivers            7  AUS CEL ani pre  prince  Toreador:3
+2x Victoria              5  AUS cel obf              Malkavian:2
+2x Yvette, The Hopeless  3  aus cel                  Toreador:3
+1x Greta Kircher         7  AUS CEL PRE obf          Toreador antitribu:2
+1x Sheila Mezarin        6  AUS PRE cel for          Toreador antitribu:2
+1x Sabrina               4  aus cel pre              Toreador antitribu:3
+1x Zöe                   3  AUS cel obf              Malkavian:2
 
 Library (90 cards)
 Master (18; 5 trifle)

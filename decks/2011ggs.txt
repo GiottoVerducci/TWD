@@ -16,15 +16,15 @@ end up at prey's pool. The recursable Command the Legion
 and Revelations makes this deck shine, everything else is
 situational.
 
-Crypt (12 cards, min=11 max=36 avg=6.17)
-----------------------------------------
-6x Gerald Windham       9   AUS DOM FOR THA     Tremere:5
-1x Nicomedes            5   aus for nec vic     Harbinger of Skulls:4
-1x Kay Polerno          4   dom nec pro         Giovanni:5
-1x Primo Giovanni       4   dom nec pot         Giovanni:4
-1x Almodo Giovanni      3   dom pot             Giovanni:4
-1x Cristobal Ghiberti   2   nec                 Giovanni:4
-1x Eric Milliner        2   pot                 Giovanni:5
+Crypt (12 cards, min=11, max=36, avg=6.17)
+------------------------------------------
+6x Gerald Windham      9  AUS DOM FOR THA  Tremere:5
+1x Nicomedes           5  aus for nec vic  Harbinger of Skulls:4
+1x Kay Polerno         4  dom nec pro      Giovanni:5
+1x Primo Giovanni      4  dom nec pot      Giovanni:4
+1x Almodo Giovanni     3  dom pot          Giovanni:4
+1x Cristobal Ghiberti  2  nec              Giovanni:4
+1x Eric Milliner       2  pot              Giovanni:5
 
 Library (90 cards)
 Master (6)

@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7651
 
 Deck Name: Escrava Isaura
 
-Crypt (12 cards, min=28 max=37 avg=8.25)
-----------------------------------------
-4x Nangila Were          9   ANI POT PRE obf ser                Guruhi:4
-4x Nana Buruku           8   ANI POT PRE                        Guruhi:4
-1x Ugadja                10  ABO ANI POT PRE dom for    magaji  Guruhi:4
-1x Iniko, The Black Lion 9   ANI OBT POT PRE cel                Guruhi:4
-1x Maskini               7   ANI POT PRE SER abo                Guruhi:4
-1x Fish                  5   ANI POT pre                        Guruhi:4
+Crypt (12 cards, min=28, max=37, avg=8.25)
+------------------------------------------
+4x Nangila Were            9  ANI POT PRE obf ser              Guruhi:4
+4x Nana Buruku             8  ANI POT PRE                      Guruhi:4
+1x Ugadja                 10  ABO ANI POT PRE dom for  magaji  Guruhi:4
+1x Iniko, The Black Lion   9  ANI OBT POT PRE cel              Guruhi:4
+1x Maskini                 7  ANI POT PRE SER abo              Guruhi:4
+1x Fish                    5  ANI POT pre                      Guruhi:4
 
 Library (90 cards)
 Master (30; 5 trifle)

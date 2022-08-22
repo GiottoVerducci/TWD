@@ -52,17 +52,17 @@ In this case, Earth Meld would've been better, but I don't know if that
 would be generally true. I had considered Unholy Penance as well, but
 decided that free s:ce, when available, should always be used.
 
-Crypt (13 cards, min=8 max=32 avg=4.69)
----------------------------------------
-5x Zubeida         8   OBF PRE PRO for ser  Abomination:5
-1x Rashid Stockton 4   cel obf vic          Gangrel antitribu:5
-1x Ahmose Chambers 3   obf ser              Follower of Set:5
-1x Blister         3   obf pot              Nosferatu antitribu:4
-1x Lubomira Hradok 3   OBF                  Nosferatu antitribu:5
-1x Alu             2   obf                  Assamite:5
-1x Bloodfeud       2   obf                  Malkavian antitribu:4
-1x Denette Stensen 2   obf                  Gangrel antitribu:4
-1x Old Neddacka    2   obf                  Nosferatu antitribu:4
+Crypt (13 cards, min=8, max=32, avg=4.69)
+-----------------------------------------
+5x Zubeida          8  OBF PRE PRO for ser  Abomination:5
+1x Rashid Stockton  4  cel obf vic          Gangrel antitribu:5
+1x Ahmose Chambers  3  obf ser              Follower of Set:5
+1x Blister          3  obf pot              Nosferatu antitribu:4
+1x Lubomira Hradok  3  OBF                  Nosferatu antitribu:5
+1x Alu              2  obf                  Assamite:5
+1x Bloodfeud        2  obf                  Malkavian antitribu:4
+1x Denette Stensen  2  obf                  Gangrel antitribu:4
+1x Old Neddacka     2  obf                  Nosferatu antitribu:4
 
 Library (90 cards)
 Master (16; 1 trifle)

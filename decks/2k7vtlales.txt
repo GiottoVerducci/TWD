@@ -9,16 +9,16 @@ Deck Name: Unacceptable Boon
 
 Description: Tribute to Mr. Peal
 
-Crypt (12 cards, min=4 max=31 avg=4.25)
----------------------------------------
-3x Lukas         8   ANI OBF POT pre ser  archbishop    Nosferatu antitribu:4
-3x Greensleeves  7   ANI OBF for pot      priscus       Nosferatu antitribu:4
-1x Feo Ramos     1   aus                                Pander:3
-1x Jaggedy Andy  1   pot                                Pander:4
-1x Kai Simmons   1   cel                                Pander:4
-1x Margarite     1   obt                                Pander:4
-1x Olga Triminov 1   vic                                Pander:3
-1x Schuyler      1   tha                                Pander:4
+Crypt (12 cards, min=4, max=31, avg=4.25)
+-----------------------------------------
+3x Lukas          8  ANI OBF POT pre ser  archbishop  Nosferatu antitribu:4
+3x Greensleeves   7  ANI OBF for pot      priscus     Nosferatu antitribu:4
+1x Feo Ramos      1  aus                              Pander:3
+1x Jaggedy Andy   1  pot                              Pander:4
+1x Kai Simmons    1  cel                              Pander:4
+1x Margarite      1  obt                              Pander:4
+1x Olga Triminov  1  vic                              Pander:3
+1x Schuyler       1  tha                              Pander:4
 
 Library (80 cards)
 Master (18; 1 trifle)

@@ -9,14 +9,14 @@ Deck Name: FoS Mind Rape ver 1.3
 
 Designed by: Marcin Watras
 
-Crypt (12 cards, min=19 max=40 avg=7.67)
-----------------------------------------
-4x Nefertiti                10  DOM OBF PRE SER cel pot          Follower of Set:2
-2x Khay'tall, Snake of Eden 9   DOM OBF PRE SER aus              Follower of Set:2
-2x Allonzo Montoya          6   OBF SER ani aus                  Abomination:3
-2x Count Ormonde            5   OBF dom pre ser                  Follower of Set:2
-1x Kahina the Sorceress     9   AUS DOM OBF SER nec pre  1 vote  Follower of Set:3
-1x Celine Chevalier         3   obf ser                          Follower of Set:2
+Crypt (12 cards, min=19, max=40, avg=7.67)
+------------------------------------------
+4x Nefertiti                 10  DOM OBF PRE SER cel pot          Follower of Set:2
+2x Khay'tall, Snake of Eden   9  DOM OBF PRE SER aus              Follower of Set:2
+2x Allonzo Montoya            6  OBF SER ani aus                  Abomination:3
+2x Count Ormonde              5  OBF dom pre ser                  Follower of Set:2
+1x Kahina the Sorceress       9  AUS DOM OBF SER nec pre  1 vote  Follower of Set:3
+1x Celine Chevalier           3  obf ser                          Follower of Set:2
 
 Library (75 cards)
 Master (18; 5 trifle)

@@ -9,14 +9,14 @@ Roberto Mautone Junior
 
 Deck Name: Salubri Bonzinho
 
-Crypt (12 cards, min=17 max=38 avg=7.08)
-----------------------------------------
-3x Nahum Enosh          10  AUS OBE OBF VAL for pre     Salubri:6
-3x Serenna the White    8   AUS FOR OBE ani dem         Salubri:6
-3x Matthew              7   AUS FOR OBE cel             Salubri:6
-1x Tyler McGill         4   AUS pre                     Toreador:5
-1x Andre LeRoux         3   aus                         Toreador:5
-1x Veejay Vinod         3   AUS                         Nagaraja:6
+Crypt (12 cards, min=17, max=38, avg=7.08)
+------------------------------------------
+3x Nahum Enosh        10  AUS OBE OBF VAL for pre  Salubri:6
+3x Serenna the White   8  AUS FOR OBE ani dem      Salubri:6
+3x Matthew             7  AUS FOR OBE cel          Salubri:6
+1x Tyler McGill        4  AUS pre                  Toreador:5
+1x Andre LeRoux        3  aus                      Toreador:5
+1x Veejay Vinod        3  AUS                      Nagaraja:6
 
 Library (90 cards)
 Master (17; 3 trifle)

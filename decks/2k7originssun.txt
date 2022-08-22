@@ -50,9 +50,9 @@ version adds in some bleed cards -- Sense the Sin and True Love's Face --
 as well as Ossian (he found the ability to rush to be helpful). My
 version stays focussed on the combo, and is stealthier.
 
-Crypt (12 cards, min=40 max=40 avg=10)
---------------------------------------
-12x Cybele 10   ANI DAI OBF PRE SER THA  Baali:4
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+12x Cybele  10  ANI DAI OBF PRE SER THA  Baali:4
 
 Library (90 cards)
 Master (28)

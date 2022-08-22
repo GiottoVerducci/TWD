@@ -6,18 +6,18 @@ Iñaki Jimenez
 
 Ventrue Antitribu Redux
 
-Crypt (12 cards, min=21 max=30 avg=6.42)
-----------------------------------------
-2x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre         Ventrue antitribu:3
-2x Blackhorse Tanner            7   AUS DOM FOR                 Ventrue antitribu:3
-1x Edward Neally                7   DOM FOR aus pre             Ventrue antitribu:3
-1x Joseph O'Grady               7   DOM FOR aus cel             Ventrue antitribu:3
-1x Charice Fontaigne            6   AUS DOM for pot             Ventrue antitribu:3
-1x Dylan (ADV)                  6   FOR aus cel dai dom pro     Ventrue antitribu:2
-1x Marlene, The Infernalist     6   AUS DOM dem for tha         Ventrue antitribu:2
-1x Vanessa                      6   DOM FOR aus pre             Ventrue antitribu:2
-1x Le Dinh Tho                  5   NEC aus dom                 Nagaraja:2
-1x Ingrid Russo                 4   DOM for                     Ventrue antitribu:2
+Crypt (12 cards, min=21, max=30, avg=6.42)
+------------------------------------------
+2x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre      Ventrue antitribu:3
+2x Blackhorse Tanner          7  AUS DOM FOR              Ventrue antitribu:3
+1x Edward Neally              7  DOM FOR aus pre          Ventrue antitribu:3
+1x Joseph O'Grady             7  DOM FOR aus cel          Ventrue antitribu:3
+1x Charice Fontaigne          6  AUS DOM for pot          Ventrue antitribu:3
+1x Dylan (ADV)                6  FOR aus cel dai dom pro  Ventrue antitribu:2
+1x Marlene, The Infernalist   6  AUS DOM dem for tha      Ventrue antitribu:2
+1x Vanessa                    6  DOM FOR aus pre          Ventrue antitribu:2
+1x Le Dinh Tho                5  NEC aus dom              Nagaraja:2
+1x Ingrid Russo               4  DOM for                  Ventrue antitribu:2
 
 Library (70 cards)
 Master (10; 2 trifle)

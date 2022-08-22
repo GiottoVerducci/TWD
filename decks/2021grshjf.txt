@@ -14,16 +14,16 @@ Description: I wanted to meme around with Demonic Possession and Archon Investig
 There's very little to say about the deck itself. Sometimes you get lucky and others make more mistakes than you. For 3R+F and a player base that's not short on practice after a a break, play control. Anu is cool though!
 
 Dreams and Wakes are probably a wash in this particular build.
-Crypt (12 cards, min=5 max=29 avg=4.75)
----------------------------------------
-3x Anu Diptinatpa       7   DOM NEC aus vic     Nagaraja:6
-3x Anarch Convert       1   -none-              Caitiff:ANY
-1x Giovanni del Georgio 8   DOM NEC POT PRO     Giovanni:5
-1x Accorri Giovanni     6   DOM POT ani nec     Giovanni:5
-1x Dr. Oliver Genet     6   DOM NEC pot         Giovanni:6
-1x Lupo Giovanni        6   NEC dom pot pre     Giovanni:6
-1x Salvatore Giovanni   5   NEC POT dom         Giovanni:6
-1x New Blood            2   san                 Blood Brother:ANY
+Crypt (12 cards, min=5, max=29, avg=4.75)
+-----------------------------------------
+3x Anu Diptinatpa        7  DOM NEC aus vic  Nagaraja:6
+3x Anarch Convert        1  -none-           Caitiff:ANY
+1x Giovanni del Georgio  8  DOM NEC POT PRO  Giovanni:5
+1x Accorri Giovanni      6  DOM POT ani nec  Giovanni:5
+1x Dr. Oliver Genet      6  DOM NEC pot      Giovanni:6
+1x Lupo Giovanni         6  NEC dom pot pre  Giovanni:6
+1x Salvatore Giovanni    5  NEC POT dom      Giovanni:6
+1x New Blood             2  san              Blood Brother:ANY
 
 Library (72 cards)
 Master (18; 1 trifle)

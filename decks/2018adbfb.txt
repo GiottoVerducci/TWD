@@ -12,14 +12,14 @@ Deck Name: Tumnimos reprodutor
 
 Description: Tumnimos nascem anarquistas e com presença.
 
-Crypt (12 cards, min=4 max=22 avg=3.33)
----------------------------------------
-4x Anarch Convert                       1   -none-               Caitiff:ANY
-3x Irena                                5   CHI ani for pre      Ravnos:5
-2x Desiree Narayan, Anarch Historian    6   CHI ani cel for nec  Ravnos:6
-1x Sanjay Chakrabarti                   4   CHI ani              Ravnos:6
-1x Gwen Brand                           3   aus chi              Ravnos:5
-1x Adri, The Seeker                     2   for                  Ravnos:6
+Crypt (12 cards, min=4, max=22, avg=3.33)
+-----------------------------------------
+4x Anarch Convert                     1  -none-               Caitiff:ANY
+3x Irena                              5  CHI ani for pre      Ravnos:5
+2x Desiree Narayan, Anarch Historian  6  CHI ani cel for nec  Ravnos:6
+1x Sanjay Chakrabarti                 4  CHI ani              Ravnos:6
+1x Gwen Brand                         3  aus chi              Ravnos:5
+1x Adri, The Seeker                   2  for                  Ravnos:6
 
 Library (81 cards)
 Master (28; 5 trifle)

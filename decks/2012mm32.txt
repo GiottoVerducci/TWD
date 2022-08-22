@@ -14,13 +14,13 @@ Description: Originally designed to be deck around Ankou.
 But after i realized that Ankou really sucked. I replaced all
 blood denial stuff with bounces and deck started to shine.
 
-Crypt (12 cards, min=40 max=44 avg=10.5)
-----------------------------------------
-4x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
-2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-2x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
-2x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-2x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
+Crypt (12 cards, min=40, max=44, avg=10.5)
+------------------------------------------
+4x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+2x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+2x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+2x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+2x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
 
 Library (67 cards)
 Master (18; 7 trifle)

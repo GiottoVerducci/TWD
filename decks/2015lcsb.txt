@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7920
 
 Deck Name: África Guys
 
-Crypt (12 cards, min=22 max=40 avg=7.83)
-----------------------------------------
-2x Cesewayo       10  AUS CEL DOM POT THA ani   magaji  Osebo:4
-2x Cesewayo (ADV) 10  AUS CEL DOM POT THA ani   magaji  Osebo:4
-2x Massassi       9   AUS CEL POT QUI obf               Osebo:4
-2x Mamadou Keita  7   CEL aus pot pre vic       magaji  Osebo:4
-2x Homa           6   AUS CEL POT                       Osebo:4
-2x Titi Camara    5   AUS CEL pot                       Osebo:5
+Crypt (12 cards, min=22, max=40, avg=7.83)
+------------------------------------------
+2x Cesewayo        10  AUS CEL DOM POT THA ani  magaji  Osebo:4
+2x Cesewayo (ADV)  10  AUS CEL DOM POT THA ani  magaji  Osebo:4
+2x Massassi         9  AUS CEL POT QUI obf              Osebo:4
+2x Mamadou Keita    7  CEL aus pot pre vic      magaji  Osebo:4
+2x Homa             6  AUS CEL POT                      Osebo:4
+2x Titi Camara      5  AUS CEL pot                      Osebo:5
 
 Library (90 cards)
 Master (23; 8 trifle)

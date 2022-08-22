@@ -7,18 +7,18 @@ Marcello Bertocchi
 
 -- 3VP in final
 
-Crypt (12 cards, min=4 max=15 avg=2.33)
----------------------------------------
-3x Anarch Convert                 1   -none-       Caitiff:ANY
-1x Miriam Benyona                 5   AUS for obe  Salubri:2
-1x Idalia, Prophet of Guadalajara 4   AUS dem      Malkavian antitribu:2
-1x Isabel de Leon                 3   AUS          Toreador:2
-1x Martin Franckel                3   AUS tha      Tremere:3
-1x Zöe                            3   AUS cel obf  Malkavian:2
-1x Almiro Suarez                  2   aus          Tremere:3
-1x Nicholas Chang                 2   aus          Toreador antitribu:3
-1x Piotr Andreikov                2   aus          Tzimisce:3
-1x Franciscus                     1   aus          Caitiff:2
+Crypt (12 cards, min=4, max=15, avg=2.33)
+-----------------------------------------
+3x Anarch Convert                  1  -none-       Caitiff:ANY
+1x Miriam Benyona                  5  AUS for obe  Salubri:2
+1x Idalia, Prophet of Guadalajara  4  AUS dem      Malkavian antitribu:2
+1x Isabel de Leon                  3  AUS          Toreador:2
+1x Martin Franckel                 3  AUS tha      Tremere:3
+1x Zöe                             3  AUS cel obf  Malkavian:2
+1x Almiro Suarez                   2  aus          Tremere:3
+1x Nicholas Chang                  2  aus          Toreador antitribu:3
+1x Piotr Andreikov                 2  aus          Tzimisce:3
+1x Franciscus                      1  aus          Caitiff:2
 
 Library (90 cards)
 Master (24; 7 trifle)

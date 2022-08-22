@@ -14,19 +14,19 @@ and was totally unplayed before the tournament. Apparently, Dominate
 is good, and being able to hit folks is good too. Add them together,
 and you can win!)
 
-Crypt (12 cards, min=17 max=25 avg=5.17)
-----------------------------------------
-2x Virginie, Prodigy        6   DOM POT obt      bishop  Lasombra:4
-1x Dr. Julius Sutphen       5   POT dom obt      bishop  Lasombra:3
-1x Dr. Julius Sutphen (ADV) 5   POT dom obt              Lasombra:3
-1x Lord Vauxhall            7   DOM OBT POT THA          Lasombra:4
-1x Black Wallace            6   DOM POT obt tha          Lasombra:4
-1x Banjoko                  5   DOM obt pot              Lasombra:3
-1x Donatello Giovanni       5   DOM aus pot pre          Giovanni:4
-1x Ermenegildo, The Rake    5   DOM OBT pot              Lasombra:4
-1x Wah Chun-Yuen            5   POT cel dom pre          Brujah antitribu:3
-1x Paulo de Castille        4   ani dom pot              Lasombra:4
-1x Almodo Giovanni          3   dom pot                  Giovanni:4
+Crypt (12 cards, min=17, max=25, avg=5.17)
+------------------------------------------
+2x Virginie, Prodigy         6  DOM POT obt      bishop  Lasombra:4
+1x Dr. Julius Sutphen        5  POT dom obt      bishop  Lasombra:3
+1x Dr. Julius Sutphen (ADV)  5  POT dom obt              Lasombra:3
+1x Lord Vauxhall             7  DOM OBT POT THA          Lasombra:4
+1x Black Wallace             6  DOM POT obt tha          Lasombra:4
+1x Banjoko                   5  DOM obt pot              Lasombra:3
+1x Donatello Giovanni        5  DOM aus pot pre          Giovanni:4
+1x Ermenegildo, The Rake     5  DOM OBT pot              Lasombra:4
+1x Wah Chun-Yuen             5  POT cel dom pre          Brujah antitribu:3
+1x Paulo de Castille         4  ani dom pot              Lasombra:4
+1x Almodo Giovanni           3  dom pot                  Giovanni:4
 
 Library (90 cards)
 Master (11; 2 trifle)

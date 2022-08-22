@@ -6,20 +6,20 @@ Ben Swainbank
 
 Deck Name: Mad Fat Bastards
 
-Crypt (12 cards, min=16 max=38 avg=6.92)
-----------------------------------------
-1x Nakhthorheb            10  OBF PRE SER                        Follower of Set:4
-1x Seterpenre             10  AUS NEC OBF PRE SER                Follower of Set:5
-1x Neferu                 9   OBF PRE SER THA dom nec   2 votes  Follower of Set:4
-1x Pentweret              9   OBF PRE SER aus for obe            Follower of Set:5
-1x Porphyrion             9   CHI OBF PRE SER for                Follower of Set:5
-1x Shemti                 9   OBF POT PRE SER vic       1 vote   Follower of Set:5
-1x Clea Auguste d'Holford 6   OBF POT pre ser                    Follower of Set:5
-1x Abdelsobek             5   for nec obf pre ser                Follower of Set:5
-1x Renenet                5   OBF PRE ser                        Follower of Set:4
-1x Sahira Siraj           4   obf ser tha                        Follower of Set:4
-1x Sisocharis             4   cel obf pre                        Follower of Set:5
-1x Ahmose Chambers        3   obf ser                            Follower of Set:5
+Crypt (12 cards, min=16, max=38, avg=6.92)
+------------------------------------------
+1x Nakhthorheb             10  OBF PRE SER                       Follower of Set:4
+1x Seterpenre              10  AUS NEC OBF PRE SER               Follower of Set:5
+1x Neferu                   9  OBF PRE SER THA dom nec  2 votes  Follower of Set:4
+1x Pentweret                9  OBF PRE SER aus for obe           Follower of Set:5
+1x Porphyrion               9  CHI OBF PRE SER for               Follower of Set:5
+1x Shemti                   9  OBF POT PRE SER vic      1 vote   Follower of Set:5
+1x Clea Auguste d'Holford   6  OBF POT pre ser                   Follower of Set:5
+1x Abdelsobek               5  for nec obf pre ser               Follower of Set:5
+1x Renenet                  5  OBF PRE ser                       Follower of Set:4
+1x Sahira Siraj             4  obf ser tha                       Follower of Set:4
+1x Sisocharis               4  cel obf pre                       Follower of Set:5
+1x Ahmose Chambers          3  obf ser                           Follower of Set:5
 
 Library (60 cards)
 Master (11)

@@ -9,15 +9,15 @@ Pau Vilar
 
 Deck Name: The Long March of Princes
 
-Crypt (12 cards, min=17 max=28 avg=5.5)
----------------------------------------
-4x Victor Pelletier     5   PRE cel dom for                Ventrue:4
-3x Mustafa, The Heir    6   FOR PRE cel dom      prince    Ventrue:4
-1x Dmitra Ilyanova      9   CEL FOR POT PRE obf  justicar  Brujah:5
-1x Ubende               7   CEL PRE for obf qui  magaji    Ishtarri:4
-1x Shasa Abu Badr       5   PRE cel for                    Ishtarri:4
-1x Fahd al-Zawba'a      4   cel for pre                    Toreador:4
-1x Panya, The Wicked    3   cel pre                        Ishtarri:4
+Crypt (12 cards, min=17, max=28, avg=5.5)
+-----------------------------------------
+4x Victor Pelletier   5  PRE cel dom for                Ventrue:4
+3x Mustafa, The Heir  6  FOR PRE cel dom      prince    Ventrue:4
+1x Dmitra Ilyanova    9  CEL FOR POT PRE obf  justicar  Brujah:5
+1x Ubende             7  CEL PRE for obf qui  magaji    Ishtarri:4
+1x Shasa Abu Badr     5  PRE cel for                    Ishtarri:4
+1x Fahd al-Zawba'a    4  cel for pre                    Toreador:4
+1x Panya, The Wicked  3  cel pre                        Ishtarri:4
 
 Library (70 cards)
 Master (10; 1 trifle)

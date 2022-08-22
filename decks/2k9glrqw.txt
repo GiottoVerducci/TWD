@@ -5,15 +5,15 @@ June 13th 2009
 24 players
 Galen Cruz
 
-Crypt (12 cards, min=22 max=40 avg=7.42)
-----------------------------------------
-2x Gustav Breidenstein  10  DOM FOR PRE aus cel pot     prince    Ventrue:4
-2x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot     justicar  Ventrue:5
-2x Mustafa, The Heir    6   FOR PRE cel dom             prince    Ventrue:4
-2x Victor Donaldson     6   DOM for pre                 prince    Ventrue:5
-2x Emily Carson         5   DOM for pre                 primogen  Ventrue:5
-1x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro         prince    Ventrue:5
-1x Graham Gottesman     7   DOM FOR obf pre tha         prince    Ventrue:5
+Crypt (12 cards, min=22, max=40, avg=7.42)
+------------------------------------------
+2x Gustav Breidenstein  10  DOM FOR PRE aus cel pot  prince    Ventrue:4
+2x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot  justicar  Ventrue:5
+2x Mustafa, The Heir     6  FOR PRE cel dom          prince    Ventrue:4
+2x Victor Donaldson      6  DOM for pre              prince    Ventrue:5
+2x Emily Carson          5  DOM for pre              primogen  Ventrue:5
+1x Lodin (Olaf Holte)    8  DOM FOR PRE aus pro      prince    Ventrue:5
+1x Graham Gottesman      7  DOM FOR obf pre tha      prince    Ventrue:5
 
 Library (81 cards)
 Master (12; 2 trifle)

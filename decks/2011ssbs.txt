@@ -13,13 +13,13 @@ Created by: Milos Krstic
 Description: Standard tap & bleed deck with Deep Song/Earth Meld
 combo to avoid blockers.
 
-Crypt (12 cards, min=21 max=34 avg=6.75)
-----------------------------------------
-3x Aksinya Daclau       9   ANI FOR PRE PRO cel tha     Gangrel antitribu:4
-3x Doyle Fincher        7   ANI PRO aus for obf         Gangrel antitribu:4
-3x Janey Pickman        6   ANI PRO for                 Gangrel antitribu:4
-2x Céleste Lamontagne   5   ANI PRO for                 Gangrel antitribu:4
-1x Mowgli               5   FOR PRO ani cel             Gangrel antitribu:4
+Crypt (12 cards, min=21, max=34, avg=6.75)
+------------------------------------------
+3x Aksinya Daclau      9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+3x Doyle Fincher       7  ANI PRO aus for obf      Gangrel antitribu:4
+3x Janey Pickman       6  ANI PRO for              Gangrel antitribu:4
+2x Céleste Lamontagne  5  ANI PRO for              Gangrel antitribu:4
+1x Mowgli              5  FOR PRO ani cel          Gangrel antitribu:4
 
 Library (90 cards)
 Master (18; 6 trifle)

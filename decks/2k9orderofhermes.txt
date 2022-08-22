@@ -8,17 +8,17 @@ Jay Kristoff
 
 Malk Value Vote
 
-Crypt (12 cards, min=11 max=28 avg=4.83)
-----------------------------------------
-2x Gilbert Duane    7   AUS DOM OBF      prince  Malkavian:1
-2x Greger Anderssen 7   AUS OBF dom pro  prince  Malkavian:2
-2x Zöe              3   AUS cel obf              Malkavian:2
-1x Dancin' Dana     6   AUS cel obf              Malkavian:1
-1x Victoria         5   AUS cel obf              Malkavian:2
-1x Zebulon          5   OBF aus dom pro          Malkavian:1
-1x Dollface         3   aus obf                  Malkavian:1
-1x Watenda          3   obf                      Malkavian:2
-1x Normal           2   obf                      Malkavian:1
+Crypt (12 cards, min=11, max=28, avg=4.83)
+------------------------------------------
+2x Gilbert Duane     7  AUS DOM OBF      prince  Malkavian:1
+2x Greger Anderssen  7  AUS OBF dom pro  prince  Malkavian:2
+2x Zöe               3  AUS cel obf              Malkavian:2
+1x Dancin' Dana      6  AUS cel obf              Malkavian:1
+1x Victoria          5  AUS cel obf              Malkavian:2
+1x Zebulon           5  OBF aus dom pro          Malkavian:1
+1x Dollface          3  aus obf                  Malkavian:1
+1x Watenda           3  obf                      Malkavian:2
+1x Normal            2  obf                      Malkavian:1
 
 Library (60 cards)
 Master (7)

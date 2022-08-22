@@ -8,20 +8,20 @@ Orian Gissler
 
 Deck Name: Khazarghoulator v2.3
 
-Crypt (12 cards, min=8 max=15 avg=2.92)
----------------------------------------
-1x Francesca Giovanni              4   dom nec pot  Giovanni:2
-1x Gloria Giovanni                 4   DOM nec      Giovanni:2
-1x Terrence                        4   ani aus vic  Tzimisce:2
-1x Cristofero Giovanni             3   nec pot      Giovanni:2
-1x Lia Milliner                    3   dom nec      Giovanni:3
-1x Mario Giovanni                  3   nec pot      Giovanni:2
-1x Rudolfo Giovanni                3   NEC          Giovanni:2
-1x Wendy Wade                      3   ani aus      Tzimisce:2
-1x Horatio                         2   vic          Tzimisce:2
-1x Marciana Giovanni, Investigator 2   dom          Giovanni:2
-1x Paul DiCarlo, The Alpha         2   pot          Giovanni:2
-1x Piotr Andreikov                 2   aus          Tzimisce:3
+Crypt (12 cards, min=8, max=15, avg=2.92)
+-----------------------------------------
+1x Francesca Giovanni               4  dom nec pot  Giovanni:2
+1x Gloria Giovanni                  4  DOM nec      Giovanni:2
+1x Terrence                         4  ani aus vic  Tzimisce:2
+1x Cristofero Giovanni              3  nec pot      Giovanni:2
+1x Lia Milliner                     3  dom nec      Giovanni:3
+1x Mario Giovanni                   3  nec pot      Giovanni:2
+1x Rudolfo Giovanni                 3  NEC          Giovanni:2
+1x Wendy Wade                       3  ani aus      Tzimisce:2
+1x Horatio                          2  vic          Tzimisce:2
+1x Marciana Giovanni, Investigator  2  dom          Giovanni:2
+1x Paul DiCarlo, The Alpha          2  pot          Giovanni:2
+1x Piotr Andreikov                  2  aus          Tzimisce:3
 
 Library (80 cards)
 Master (27; 5 trifle)

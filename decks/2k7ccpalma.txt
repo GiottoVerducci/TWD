@@ -10,15 +10,15 @@ Created by: Cameron Roberts (modified and played by Ginés Quiñonero)
 
 Coordinator:	Ferran Bádenas & Ginés Quiñonero
 
-Crypt (12 cards, min=10 max=32 avg=4.83)
-----------------------------------------
-4x Lady Zara Slatikov   8   ANI AUS OBF VIC     bishop  Tzimisce:4
-2x Guedado              4   aus obf vic                 Tzimisce:4
-2x Bloodfeud            2   obf                         Malkavian antitribu:4
-1x Beauregard Krueller  4   aus dem obf                 Malkavian antitribu:4
-1x Maldavis             4   AUS for pre                 Caitiff:3
-1x Roger Farnsworth     4   OBF aus                     Malkavian antitribu:3
-1x Denette Stensen      2   obf                         Gangrel antitribu:4
+Crypt (12 cards, min=10, max=32, avg=4.83)
+------------------------------------------
+4x Lady Zara Slatikov   8  ANI AUS OBF VIC  bishop  Tzimisce:4
+2x Guedado              4  aus obf vic              Tzimisce:4
+2x Bloodfeud            2  obf                      Malkavian antitribu:4
+1x Beauregard Krueller  4  aus dem obf              Malkavian antitribu:4
+1x Maldavis             4  AUS for pre              Caitiff:3
+1x Roger Farnsworth     4  OBF aus                  Malkavian antitribu:3
+1x Denette Stensen      2  obf                      Gangrel antitribu:4
 
 Library (90 cards)
 Master (15)

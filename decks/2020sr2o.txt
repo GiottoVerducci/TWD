@@ -24,13 +24,13 @@ also lose Revolt. That's bit too much master phases but 13 anarch cards are can 
 
 I'm also thinking ditching Aleph for Isabel de Leon. It's extremely rare he will have a weapon to get though on or off turn.
 
-Crypt (12 cards, min=4 max=22 avg=3.42)
----------------------------------------
-4x Anarch Convert       1   -none-              Caitiff:ANY
-3x Victoria             5   AUS cel obf         Malkavian:2
-2x Dancin' Dana (ADV)   6   AUS CEL dom obf     Malkavian:1
-2x Zöe                  3   AUS cel obf         Malkavian:2
-1x Aleph                4   AUS dom             Malkavian:1 -- never goes anarch
+Crypt (12 cards, min=4, max=22, avg=3.42)
+-----------------------------------------
+4x Anarch Convert      1  -none-           Caitiff:ANY
+3x Victoria            5  AUS cel obf      Malkavian:2
+2x Dancin' Dana (ADV)  6  AUS CEL dom obf  Malkavian:1
+2x Zöe                 3  AUS cel obf      Malkavian:2
+1x Aleph               4  AUS dom          Malkavian:1  -- never goes anarch
 
 Library (76 cards)
 Master (14; 2 trifle)

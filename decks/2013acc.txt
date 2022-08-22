@@ -15,18 +15,18 @@ Should have replaced all of my crypt to 11-Cap Vampires
 Need to test using Dreams of the Sphinx instead of
 Fragment of the Book of Nod.
 
-Crypt (12 cards, min=20 max=41 avg=7.83)
-----------------------------------------
-3x Halim Bey       6   DOM SER obf tha                      Follower of Set:4
-1x Sha-Ennu        11  ANI AUS CHI VIC obf tha  regent      Tzimisce:4
-1x Luca Italicus   10  DOM FOR NEC OBT POT tha  archbishop  Lasombra:4
-1x Nakhthorheb     10  OBF PRE SER                          Follower of Set:4
-1x Seterpenre      10  AUS NEC OBF PRE SER                  Follower of Set:5
-1x Pentweret       9   OBF PRE SER aus for obe              Follower of Set:5
-1x Porphyrion      9   CHI OBF PRE SER for                  Follower of Set:5
-1x Shemti          9   OBF POT PRE SER vic      1 vote      Follower of Set:5
-1x Black Lotus     5   DOM aus obf ser                      Follower of Set:4
-1x Ahmose Chambers 3   obf ser                              Follower of Set:5
+Crypt (12 cards, min=20, max=41, avg=7.83)
+------------------------------------------
+3x Halim Bey         6  DOM SER obf tha                      Follower of Set:4
+1x Sha-Ennu         11  ANI AUS CHI VIC obf tha  regent      Tzimisce:4
+1x Luca Italicus    10  DOM FOR NEC OBT POT tha  archbishop  Lasombra:4
+1x Nakhthorheb      10  OBF PRE SER                          Follower of Set:4
+1x Seterpenre       10  AUS NEC OBF PRE SER                  Follower of Set:5
+1x Pentweret         9  OBF PRE SER aus for obe              Follower of Set:5
+1x Porphyrion        9  CHI OBF PRE SER for                  Follower of Set:5
+1x Shemti            9  OBF POT PRE SER vic      1 vote      Follower of Set:5
+1x Black Lotus       5  DOM aus obf ser                      Follower of Set:4
+1x Ahmose Chambers   3  obf ser                              Follower of Set:5
 
 Library (70 cards)
 Master (15; 2 trifle)

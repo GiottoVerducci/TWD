@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/9780
 
 Deck Name: O Labirinto do Fauno
 Description: Voto and Bleed
-Crypt (12 cards, min=28 max=36 avg=8)
--------------------------------------
-4x Ellison Humboldt             9   ANI OBF POT PRE pro  primogen  Nosferatu:3
-3x Jara Drory                   7   ANI OBF aus pot      primogen  Nosferatu:3
-3x Rabbat, The Sewer Goddess    7   ANI FOR OBF pot                Nosferatu:4
-2x Baron Dieudonne              9   ANI OBF POT PRO      prince    Nosferatu:4
+Crypt (12 cards, min=28, max=36, avg=8)
+---------------------------------------
+4x Ellison Humboldt           9  ANI OBF POT PRE pro  primogen  Nosferatu:3
+3x Jara Drory                 7  ANI OBF aus pot      primogen  Nosferatu:3
+3x Rabbat, The Sewer Goddess  7  ANI FOR OBF pot                Nosferatu:4
+2x Baron Dieudonne            9  ANI OBF POT PRO      prince    Nosferatu:4
 
 Library (61 cards)
 Master (17; 3 trifle)

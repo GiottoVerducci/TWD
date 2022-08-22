@@ -13,13 +13,13 @@ Entering the final with 2GW10VP. 2.5VP in final Worked fine
 and had a great flow, just enough combat to keep peolpe guessing. Can
 surely be improved. Of course, New Carthage needs to be put in.
 
-Crypt (12 cards, min=22 max=32 avg=6.92)
-----------------------------------------
-3x Dónal O'Connor               8   CEL DOM POT         prince  Brujah:2
-3x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-2x Constanza Vinti              8   CEL DOM POT         prince  Brujah:2
-2x Juggler                      7   CEL DOM obf pot             Brujah:3
-2x Theo Bell                    7   POT cel dom pre             Brujah:2
+Crypt (12 cards, min=22, max=32, avg=6.92)
+------------------------------------------
+3x Dónal O'Connor             8  CEL DOM POT      prince  Brujah:2
+3x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+2x Constanza Vinti            8  CEL DOM POT      prince  Brujah:2
+2x Juggler                    7  CEL DOM obf pot          Brujah:3
+2x Theo Bell                  7  POT cel dom pre          Brujah:2
 
 Library (90 cards)
 Master (15)

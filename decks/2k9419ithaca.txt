@@ -8,16 +8,16 @@ Dave Clooney
 Deck Name: Kung Fu versus Robots
 Created by: Dave "The Prince of Nigeria" Clooney
 
-Crypt (13 cards, min=4 max=23 avg=3.23)
----------------------------------------
-5x Anarch Convert  1   -none-           Caitiff:ANY
-2x Agru Kabera     6   FOR cel nec pre  Ishtarri:4
-1x Honorine Ateba  6   FOR PRE cel nec  Ishtarri:4
-1x Elizabeth Conde 5   CEL FOR pre      Ishtarri:4
-1x Fahd al-Zawba'a 4   cel for pre      Toreador:4
-1x Kenyatta        4   cel for pre      Ishtarri:4
-1x Abu Nuwasi      3   cel for          Ishtarri:4
-1x T.J.            3   cel for          Gangrel:4
+Crypt (13 cards, min=4, max=23, avg=3.23)
+-----------------------------------------
+5x Anarch Convert   1  -none-           Caitiff:ANY
+2x Agru Kabera      6  FOR cel nec pre  Ishtarri:4
+1x Honorine Ateba   6  FOR PRE cel nec  Ishtarri:4
+1x Elizabeth Conde  5  CEL FOR pre      Ishtarri:4
+1x Fahd al-Zawba'a  4  cel for pre      Toreador:4
+1x Kenyatta         4  cel for pre      Ishtarri:4
+1x Abu Nuwasi       3  cel for          Ishtarri:4
+1x T.J.             3  cel for          Gangrel:4
 
 Library (90 cards)
 Master (16)

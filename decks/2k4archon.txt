@@ -7,13 +7,13 @@ Andrew Weston
 Nadima's Enticing Wall
 By: Wes Weston (in tandem with Jim Parker)
 
-Crypt (12 cards, min=14 max=32 avg=5.5)
----------------------------------------
-4x Nadima               8   FOR PRO SER ani aus  Gangrel:3
-2x Dr. Allan Woodstock  5   PRO ani aus for      Gangrel:3
-2x Mirembe Kabbada      5   PRO SER ani          Gangrel:2
-2x Daliyah              4   PRO obf              Nosferatu:2
-2x Chandler Hungerford  3   PRO                  Gangrel:2
+Crypt (12 cards, min=14, max=32, avg=5.5)
+-----------------------------------------
+4x Nadima               8  FOR PRO SER ani aus  Gangrel:3
+2x Dr. Allan Woodstock  5  PRO ani aus for      Gangrel:3
+2x Mirembe Kabbada      5  PRO SER ani          Gangrel:2
+2x Daliyah              4  PRO obf              Nosferatu:2
+2x Chandler Hungerford  3  PRO                  Gangrel:2
 
 Library (90 cards)
 Master (16)

@@ -12,14 +12,14 @@ Deck Name: the Hoody Gang n2 aka anargh
 
 http://www.secretlibrary.info/index.php?deck=view&id=29671
 
-Crypt (12 cards, min=4 max=39 avg=5.08)
----------------------------------------
-6x Anarch Convert       1   -none-               Caitiff:ANY
-2x Matasuntha           10  ANI AUS CEL FOR PRO  Gangrel:5
-1x Karif al Numair      10  AUS CEL OBF QUI for  Assamite:5
-1x Qawiyya el-Ghaduba   9   FOR POT VAL aus pre  Salubri antitribu:5
-1x Khurshid             8   AUS FOR NEC POT      Harbinger of Skulls:6
-1x Nuriel               8   AUS FOR VAL cel dom  Salubri antitribu:6
+Crypt (12 cards, min=4, max=39, avg=5.08)
+-----------------------------------------
+6x Anarch Convert       1  -none-               Caitiff:ANY
+2x Matasuntha          10  ANI AUS CEL FOR PRO  Gangrel:5
+1x Karif al Numair     10  AUS CEL OBF QUI for  Assamite:5
+1x Qawiyya el-Ghaduba   9  FOR POT VAL aus pre  Salubri antitribu:5
+1x Khurshid             8  AUS FOR NEC POT      Harbinger of Skulls:6
+1x Nuriel               8  AUS FOR VAL cel dom  Salubri antitribu:6
 
 Library (89 cards)
 Master (26; 6 trifle)

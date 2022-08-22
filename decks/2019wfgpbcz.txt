@@ -11,15 +11,15 @@ https://www.vekn.net/event-calendar/event/9173
 Final seating:
 Balazs Pasztor (Howler) -> Anna Welpa (Nana - Ani/Ashur) -> Oskar Hindriksson (?) -> Matus (Imbued !!!) -> Karel Kos (Legionares)
 
-Crypt (12 cards, min=14 max=20 avg=4.33)
-----------------------------------------
-3x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-3x Travis "Traveler72" Miller   5   def mar      Martyr:4
-2x Jack "Hannibal137" Harmon    4   def jud      Defender:4
-1x Erick "Shophet125" Franco    4   inn jud      Judge:4
-1x John "Cop90" O'Malley        4   jud ven      Avenger:4
-1x François "Warden" Loehr      3   def jud      Judge:4
-1x Inez "Nurse216" Villagrande  3   inn          Innocent:4
+Crypt (12 cards, min=14, max=20, avg=4.33)
+------------------------------------------
+3x Jennie "Cassie247" Orne      5  inn jud viz  Visionary:4
+3x Travis "Traveler72" Miller   5  def mar      Martyr:4
+2x Jack "Hannibal137" Harmon    4  def jud      Defender:4
+1x Erick "Shophet125" Franco    4  inn jud      Judge:4
+1x John "Cop90" O'Malley        4  jud ven      Avenger:4
+1x François "Warden" Loehr      3  def jud      Judge:4
+1x Inez "Nurse216" Villagrande  3  inn          Innocent:4
 
 Library (67 cards)
 Master (13; 2 trifle)

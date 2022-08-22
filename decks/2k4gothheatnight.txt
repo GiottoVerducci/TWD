@@ -13,16 +13,16 @@ you takes a ghoul, steal it with your merged Sebastian.
 Since the numbers of masters are quite low, the Veil of Darkness hits
 everyone else harder than you.
 
-Crypt (12 cards, min=21 max=32 avg=6.92)
-----------------------------------------
-3x Sébastien Goulet       8   DOM OBF cel pre pro          Gangrel antitribu:3
-3x Sébastien Goulet (ADV) 8   DOM OBF cel pre pro          Gangrel antitribu:3
-1x Juggler                7   CEL DOM obf pot              Brujah:3
-1x Suzanne Kadim          7   CEL PRE aus dom obf          Toreador:3
-1x Reverend Blackwood     6   DOM THA obf          bishop  Tremere antitribu:2
-1x Badr al-Budur          5   OBF cel dom qui              Assamite:2
-1x Catherine du Bois      5   DOM for obf pre              Ventrue:3
-1x Count Ormonde          5   OBF dom pre ser              Follower of Set:2
+Crypt (12 cards, min=21, max=32, avg=6.92)
+------------------------------------------
+3x Sébastien Goulet        8  DOM OBF cel pre pro          Gangrel antitribu:3
+3x Sébastien Goulet (ADV)  8  DOM OBF cel pre pro          Gangrel antitribu:3
+1x Juggler                 7  CEL DOM obf pot              Brujah:3
+1x Suzanne Kadim           7  CEL PRE aus dom obf          Toreador:3
+1x Reverend Blackwood      6  DOM THA obf          bishop  Tremere antitribu:2
+1x Badr al-Budur           5  OBF cel dom qui              Assamite:2
+1x Catherine du Bois       5  DOM for obf pre              Ventrue:3
+1x Count Ormonde           5  OBF dom pre ser              Follower of Set:2
 
 Library (89 cards)
 Master (10)

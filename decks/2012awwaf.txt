@@ -16,16 +16,16 @@ Important facts about the behaviour of this deck during the tournament:
 * 2 vampires burnt in combat
 * 1 War Ghoul burnt in combat with Theo still ready after the combat
 
-Crypt (12 cards, min=7 max=28 avg=4.5)
---------------------------------------
-3x Beast, The Leatherface of Detroit    7   OBF POT ani cel     Nosferatu antitribu:2
-3x Theo Bell                            7   POT cel dom pre     Brujah:2
-1x Cameron                              3   dom pot             Lasombra:2
-1x Marciana Giovanni, Investigator      2   dom                 Giovanni:2
-1x Mustafa Rahman                       2   dom                 Tremere:2
-1x Ohanna                               2   dom                 Malkavian:2
-1x Samson                               2   dom                 Ventrue antitribu:2
-1x Royce                                1   dom                 Pander:2
+Crypt (12 cards, min=7, max=28, avg=4.5)
+----------------------------------------
+3x Beast, The Leatherface of Detroit  7  OBF POT ani cel  Nosferatu antitribu:2
+3x Theo Bell                          7  POT cel dom pre  Brujah:2
+1x Cameron                            3  dom pot          Lasombra:2
+1x Marciana Giovanni, Investigator    2  dom              Giovanni:2
+1x Mustafa Rahman                     2  dom              Tremere:2
+1x Ohanna                             2  dom              Malkavian:2
+1x Samson                             2  dom              Ventrue antitribu:2
+1x Royce                              1  dom              Pander:2
 
 Library (90 cards)
 Master (13)

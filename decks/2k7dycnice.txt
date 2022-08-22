@@ -8,16 +8,16 @@ Orian Gissler
 Deck Name: Gepetto Giovanni
 Created by: Tweak of Orian Gissler on a deck of Jayant Sen Gupta
 
-Crypt (12 cards, min=10 max=26 avg=4.58)
-----------------------------------------
-2x Andrea Giovanni      7   DOM NEC pot vic     Giovanni:2
-2x Isabel Giovanni      5   DOM NEC pot         Giovanni:2
-2x Le Dinh Tho          5   NEC aus dom         Nagaraja:2
-2x Rudolfo Giovanni     3   NEC                 Giovanni:2
-1x Gillespi Giovanni    7   DOM NEC POT aus     Giovanni:2
-1x Gloria Giovanni      4   DOM nec             Giovanni:2
-1x Lia Milliner         3   dom nec             Giovanni:3
-1x Nedal, The Careless  1   cel nec             Caitiff:3
+Crypt (12 cards, min=10, max=26, avg=4.58)
+------------------------------------------
+2x Andrea Giovanni      7  DOM NEC pot vic  Giovanni:2
+2x Isabel Giovanni      5  DOM NEC pot      Giovanni:2
+2x Le Dinh Tho          5  NEC aus dom      Nagaraja:2
+2x Rudolfo Giovanni     3  NEC              Giovanni:2
+1x Gillespi Giovanni    7  DOM NEC POT aus  Giovanni:2
+1x Gloria Giovanni      4  DOM nec          Giovanni:2
+1x Lia Milliner         3  dom nec          Giovanni:3
+1x Nedal, The Careless  1  cel nec          Caitiff:3
 
 Library (90 cards)
 Master (12)

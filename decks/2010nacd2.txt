@@ -14,16 +14,16 @@ Hannibal(A)'s untap ability to act twice on my own turn, then be able
 to untap later for defense if needed. There is a clear vote strategy
 in the deck, but I also put in a good amount of toolbox.
 
-Crypt (12 cards, min=19 max=40 avg=7.42)
-----------------------------------------
-4x Hannibal (ADV)        10  AUS DEM OBF cel dom  cardinal      Malkavian antitribu:2
-2x Korah                 7   AUS DEM OBF ani      priscus       Malkavian antitribu:2
-1x Maris Streck          9   AUS OBF ani dem dom  justicar      Malkavian:3
-1x Marie Faucigny        7   AUS OBF dem tha      archbishop    Malkavian antitribu:3
-1x Quentin King III      7   AUS DEM obf pre      prince        Malkavian:3
-1x Ruth McGinley         6   DEM aus cel obf      primogen      Malkavian:3
-1x General Perfidio Díos 5   AUS dem obf          bishop        Malkavian antitribu:3
-1x Feo Ramos             1   aus                                Pander:3
+Crypt (12 cards, min=19, max=40, avg=7.42)
+------------------------------------------
+4x Hannibal (ADV)         10  AUS DEM OBF cel dom  cardinal    Malkavian antitribu:2
+2x Korah                   7  AUS DEM OBF ani      priscus     Malkavian antitribu:2
+1x Maris Streck            9  AUS OBF ani dem dom  justicar    Malkavian:3
+1x Marie Faucigny          7  AUS OBF dem tha      archbishop  Malkavian antitribu:3
+1x Quentin King III        7  AUS DEM obf pre      prince      Malkavian:3
+1x Ruth McGinley           6  DEM aus cel obf      primogen    Malkavian:3
+1x General Perfidio Díos   5  AUS dem obf          bishop      Malkavian antitribu:3
+1x Feo Ramos               1  aus                              Pander:3
 
 Library (87 cards)
 Master (17; 1 trifle)

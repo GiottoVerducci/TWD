@@ -10,16 +10,16 @@ Maybe was helped a little with the 4 table seating, but managed to
 get into the final with 2GW and almost sweeped the final's table
 without too much effort.
 
-Crypt (15 cards, min=6 max=21 avg=3.73)
----------------------------------------
-3x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-3x Travis "Traveler72" Miller   5   def mar      Martyr:4
-3x Afifa, The Herald            1   dom          Caitiff:4
-2x Keith Moody                  3   DOM          Tremere antitribu:4
-1x Earl "Shaka74" Deams         6   jud mar viz  Visionary:4
-1x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
-1x Paul "Sixofswords29" Moreton 4   def vis      Visionary:4
-1x Inez "Nurse216" Villagrande  3   inn          Innocent:4
+Crypt (15 cards, min=6, max=21, avg=3.73)
+-----------------------------------------
+3x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+3x Travis "Traveler72" Miller    5  def mar      Martyr:4
+3x Afifa, The Herald             1  dom          Caitiff:4
+2x Keith Moody                   3  DOM          Tremere antitribu:4
+1x Earl "Shaka74" Deams          6  jud mar viz  Visionary:4
+1x Leaf "Potter116" Pankowski    4  inn red viz  Redeemer:4
+1x Paul "Sixofswords29" Moreton  4  def vis      Visionary:4
+1x Inez "Nurse216" Villagrande   3  inn          Innocent:4
 
 Library (90 cards)
 Master (30)

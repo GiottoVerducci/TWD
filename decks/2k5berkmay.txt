@@ -11,14 +11,14 @@ Created by: ICL
 Description: Stealth bleed with extra combat. Simplified from a deck
 built around Darkling Trickery.
 
-Crypt (12 cards, min=22 max=34 avg=7.17)
-----------------------------------------
-2x Marconius            9   DOM MYT OBT pot      archbishop     Kiasyd:2
-2x Bartholomew          8   AUS MYT NEC dom obt                 Kiasyd:2
-2x Ian Forestal         8   AUS DOM THA                         Tremere antitribu:2
-2x Julia Prima          7   DOM OBT aus myt                     Kiasyd:2
-2x Kassiym Malikhair    6   MYT OBT dom for                     Kiasyd:2
-2x Béatrice L'Angou     5   MYT aus dom nec                     Kiasyd:2
+Crypt (12 cards, min=22, max=34, avg=7.17)
+------------------------------------------
+2x Marconius          9  DOM MYT OBT pot      archbishop  Kiasyd:2
+2x Bartholomew        8  AUS MYT NEC dom obt              Kiasyd:2
+2x Ian Forestal       8  AUS DOM THA                      Tremere antitribu:2
+2x Julia Prima        7  DOM OBT aus myt                  Kiasyd:2
+2x Kassiym Malikhair  6  MYT OBT dom for                  Kiasyd:2
+2x Béatrice L'Angou   5  MYT aus dom nec                  Kiasyd:2
 
 Library (80 cards)
 Master (13; 1 trifle)

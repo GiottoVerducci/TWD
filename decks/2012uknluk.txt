@@ -12,17 +12,17 @@ the better Toreador versions by adding Bronwen and her gang
 Used Uk Nationals 24/11/2012
 2.5r, 0r, 2r, 1.5f
 
-Crypt (13 cards, min=16 max=36 avg=6.46)
-----------------------------------------
-4x Anson                        8   CEL PRE aus dom      prince    Toreador:1
-2x Volker, The Puppet Prince    5   CEL pot              prince    Brujah:2
-1x Anneke                       10  AUS CEL PRE dom      justicar  Toreador:1
-1x Bronwen                      10  CEL POT PRE dom obt  priscus   Brujah antitribu:2
-1x Julian Sanders               6   CEL PRE pot                    Brujah antitribu:2
-1x Dodd                         5   CEL dom pre                    Brujah antitribu:2
-1x Jimmy Dunn                   4   CEL POT for                    Pander:2
-1x Victor Tolliver              4   CEL pot                        Brujah antitribu:2
-1x Sarah Brando                 3   CEL                            Brujah antitribu:2
+Crypt (13 cards, min=16, max=36, avg=6.46)
+------------------------------------------
+4x Anson                       8  CEL PRE aus dom      prince    Toreador:1
+2x Volker, The Puppet Prince   5  CEL pot              prince    Brujah:2
+1x Anneke                     10  AUS CEL PRE dom      justicar  Toreador:1
+1x Bronwen                    10  CEL POT PRE dom obt  priscus   Brujah antitribu:2
+1x Julian Sanders              6  CEL PRE pot                    Brujah antitribu:2
+1x Dodd                        5  CEL dom pre                    Brujah antitribu:2
+1x Jimmy Dunn                  4  CEL POT for                    Pander:2
+1x Victor Tolliver             4  CEL pot                        Brujah antitribu:2
+1x Sarah Brando                3  CEL                            Brujah antitribu:2
 
 Library (80 cards)
 Master (29; 6 trifle)

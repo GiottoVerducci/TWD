@@ -16,14 +16,14 @@ Some changes to the 2010 version:
 - replaced chrocodile's tongues with Art's TE which the weenies can use as well (wasn't a game changer)
 - replaced one Tangle to Jake
 
-Crypt (12 cards, min=14 max=36 avg=6.83)
-----------------------------------------
-4x Lydia, Grand Praetor         9   AUS FOR POT TEM dom pre     1 vote  True Brujah:6
-4x Al-Muntathir, God's Witness  8   AUS FOR PRE TEM obf qui             True Brujah:5
-1x Pearl                        4   AUS obf                             Malkavian antitribu:5
-1x Tyler McGill                 4   AUS pre                             Toreador:5
-1x Andre LeRoux                 3   aus                                 Toreador:5
-1x Veejay Vinod                 3   AUS                                 Nagaraja:6
+Crypt (12 cards, min=14, max=36, avg=6.83)
+------------------------------------------
+4x Lydia, Grand Praetor         9  AUS FOR POT TEM dom pre  1 vote  True Brujah:6
+4x Al-Muntathir, God's Witness  8  AUS FOR PRE TEM obf qui          True Brujah:5
+1x Pearl                        4  AUS obf                          Malkavian antitribu:5
+1x Tyler McGill                 4  AUS pre                          Toreador:5
+1x Andre LeRoux                 3  aus                              Toreador:5
+1x Veejay Vinod                 3  AUS                              Nagaraja:6
 
 Library (90 cards)
 Master (16; 5 trifle)

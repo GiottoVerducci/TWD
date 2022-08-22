@@ -6,13 +6,13 @@ Claudio Gomes
 
 Deck Name: Monkey bashers
 
-Crypt (12 cards, min=4 max=26 avg=3.67)
----------------------------------------
-3x Anarch Convert                  1   -none-           Caitiff:ANY
-3x Tupdog                          1   POT VIS          Gargoyle:3
-2x Richter, The Templar of Du Mont 7   CEL POT for pre  Brujah antitribu:2
-2x Jack                            6   cel for pot san  Blood Brother:2
-2x Sheila Mezarin                  6   AUS PRE cel for  Toreador antitribu:2
+Crypt (12 cards, min=4, max=26, avg=3.67)
+-----------------------------------------
+3x Anarch Convert                   1  -none-           Caitiff:ANY
+3x Tupdog                           1  POT VIS          Gargoyle:3
+2x Richter, The Templar of Du Mont  7  CEL POT for pre  Brujah antitribu:2
+2x Jack                             6  cel for pot san  Blood Brother:2
+2x Sheila Mezarin                   6  AUS PRE cel for  Toreador antitribu:2
 
 Library (90 cards)
 Master (18; 4 trifle)

@@ -6,26 +6,26 @@ Davi Pereira da Cunha
 
 Deck Name: SAC - 1o - Weenie Politics
 
-Crypt (18 cards, min=4 max=8 avg=1.22)
---------------------------------------
-1x Brazil               2   aus         Malkavian:1
-1x Dieter Kleist        2   aus         Toreador:1
-1x Giuliano Vincenzi    2   for         Gangrel:1
-1x KoKo                 2   pot         Nosferatu:1
-1x Angela Decker        1   pre         Pander:2
-1x Antoinette DuChamp   1   cel pre     Caitiff:2
-1x Basil                1   obf         Pander:2
-1x Franciscus           1   aus         Caitiff:2
-1x Hasina Kesi          1   pot         Caitiff:1
-1x Huang, Blood Cultist 1   pro         Pander:2
-1x Igo the Hungry       1   pre pro     Caitiff:1
-1x Julius               1   qui ser     Caitiff:2
-1x March Halcyon        1   for         Pander:2
-1x Navar McClaren       1   ani         Caitiff:1
-1x Nik                  1   cel         Caitiff:1
-1x Royce                1   dom         Pander:2
-1x Smudge the Ignored   1   -none-      Caitiff:1
-1x Uriah Winter         1   for pot     Caitiff:1
+Crypt (18 cards, min=4, max=8, avg=1.22)
+----------------------------------------
+1x Brazil                2  aus      Malkavian:1
+1x Dieter Kleist         2  aus      Toreador:1
+1x Giuliano Vincenzi     2  for      Gangrel:1
+1x KoKo                  2  pot      Nosferatu:1
+1x Angela Decker         1  pre      Pander:2
+1x Antoinette DuChamp    1  cel pre  Caitiff:2
+1x Basil                 1  obf      Pander:2
+1x Franciscus            1  aus      Caitiff:2
+1x Hasina Kesi           1  pot      Caitiff:1
+1x Huang, Blood Cultist  1  pro      Pander:2
+1x Igo the Hungry        1  pre pro  Caitiff:1
+1x Julius                1  qui ser  Caitiff:2
+1x March Halcyon         1  for      Pander:2
+1x Navar McClaren        1  ani      Caitiff:1
+1x Nik                   1  cel      Caitiff:1
+1x Royce                 1  dom      Pander:2
+1x Smudge the Ignored    1  -none-   Caitiff:1
+1x Uriah Winter          1  for pot  Caitiff:1
 
 Library (90 cards)
 Master (26)

@@ -15,17 +15,17 @@ with the Prince title and Presence since veiling and playing
 Second Tradition and Majesty takes blood. Parity Shift because
 why not - the easiest vote to negotiate through.
 
-Crypt (12 cards, min=19 max=32 avg=6.5)
----------------------------------------
-2x Epikasta Rigatos 8   AUS DOM PRE cel         prince    Toreador:4
-2x Titus Camille    8   AUS DOM OBF for                   Ventrue antitribu:4
-2x Graham Gottesman 7   DOM FOR obf pre tha     prince    Ventrue:5
-1x Preston Varrick  7   DOM OBF THA aus nec               Tremere:4
-1x Halim Bey        6   DOM SER obf tha                   Follower of Set:4
-1x Victor Donaldson 6   DOM for pre             prince    Ventrue:5
-1x Emily Carson     5   DOM for pre             primogen  Ventrue:5
-1x Jephta Hester    5   DOM FOR aus                       Ventrue antitribu:4
-1x Keith Moody      3   DOM                               Tremere antitribu:4
+Crypt (12 cards, min=19, max=32, avg=6.5)
+-----------------------------------------
+2x Epikasta Rigatos  8  AUS DOM PRE cel      prince    Toreador:4
+2x Titus Camille     8  AUS DOM OBF for                Ventrue antitribu:4
+2x Graham Gottesman  7  DOM FOR obf pre tha  prince    Ventrue:5
+1x Preston Varrick   7  DOM OBF THA aus nec            Tremere:4
+1x Halim Bey         6  DOM SER obf tha                Follower of Set:4
+1x Victor Donaldson  6  DOM for pre          prince    Ventrue:5
+1x Emily Carson      5  DOM for pre          primogen  Ventrue:5
+1x Jephta Hester     5  DOM FOR aus                    Ventrue antitribu:4
+1x Keith Moody       3  DOM                            Tremere antitribu:4
 
 Library (71 cards)
 Master (13; 5 trifle)

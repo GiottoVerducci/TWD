@@ -14,16 +14,16 @@ Taste of Vitae for combat and the bare minimum of master cards.
 My own flavor was a couple of political actions and Judgement:
 Camarilla Segregation. I chose Flurry of Action for its dual use.
 
-Crypt (12 cards, min=26 max=37 avg=7.83)
-----------------------------------------
-2x Constanza Vinti              8   CEL DOM POT                 prince    Brujah:2
-2x Dónal O'Connor               8   CEL DOM POT                 prince    Brujah:2
-2x Juggler                      7   CEL DOM obf pot                       Brujah:3
-2x Theo Bell                    7   POT cel dom pre                       Brujah:2
-1x Jaroslav Pascek              10  CEL POT PRE for obf         justicar  Brujah:3
-1x Menele                       10  CEL POT PRE THA aus dom               Brujah:3
-1x Tyler                        9   CEL POT PRE dom for obt     primogen  Brujah:3
-1x Volker, The Puppet Prince    5   CEL pot                     prince    Brujah:2
+Crypt (12 cards, min=26, max=37, avg=7.83)
+------------------------------------------
+2x Constanza Vinti             8  CEL DOM POT              prince    Brujah:2
+2x Dónal O'Connor              8  CEL DOM POT              prince    Brujah:2
+2x Juggler                     7  CEL DOM obf pot                    Brujah:3
+2x Theo Bell                   7  POT cel dom pre                    Brujah:2
+1x Jaroslav Pascek            10  CEL POT PRE for obf      justicar  Brujah:3
+1x Menele                     10  CEL POT PRE THA aus dom            Brujah:3
+1x Tyler                       9  CEL POT PRE dom for obt  primogen  Brujah:3
+1x Volker, The Puppet Prince   5  CEL pot                  prince    Brujah:2
 
 Library (83 cards)
 Master (9)

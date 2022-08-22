@@ -14,13 +14,13 @@ threaten to burn vamps bleeding for 3. Late additions like Pentex,
 Sudario, Obedience were jamming most of the time. I was always happy
 to see Far Mastery.
 
-Crypt (12 cards, min=21 max=31 avg=6.58)
-----------------------------------------
-4x Anu Diptinatpa       7   DOM NEC aus vic     Nagaraja:6
-3x Giovanni del Georgio 8   DOM NEC POT PRO     Giovanni:5
-3x Accorri Giovanni     6   DOM POT ani nec     Giovanni:5
-1x Claus Wegener        5   DOM aus for tha     Tremere:5
-1x Kay Polerno          4   dom nec pro         Giovanni:5
+Crypt (12 cards, min=21, max=31, avg=6.58)
+------------------------------------------
+4x Anu Diptinatpa        7  DOM NEC aus vic  Nagaraja:6
+3x Giovanni del Georgio  8  DOM NEC POT PRO  Giovanni:5
+3x Accorri Giovanni      6  DOM POT ani nec  Giovanni:5
+1x Claus Wegener         5  DOM aus for tha  Tremere:5
+1x Kay Polerno           4  dom nec pro      Giovanni:5
 
 Library (74 cards)
 Master (13; 3 trifle)

@@ -12,14 +12,14 @@ Deck Name: "The Man"
 Description: Wacky Stealth/Vote with two giant vamps, Designed for
 ousting weenies
 
-Crypt (12 cards, min=16 max=40 avg=7.67)
-----------------------------------------
-4x Armin Brenner        10  CEL FOR POT PRE ani obf     archbishop  Brujah antitribu:4
-4x Dmitra Ilyanova      9   CEL FOR POT PRE obf         justicar    Brujah:5
-1x Kenyatta             4   cel for pre                             Ishtarri:4
-1x Loonar               4   PRE cel                                 Toreador antitribu:4
-1x Sean Rycek           4   aus dem                                 Malkavian:4
-1x Thomas De Lutrius    4   aus cel pre                 primogen    Toreador:4
+Crypt (12 cards, min=16, max=40, avg=7.67)
+------------------------------------------
+4x Armin Brenner      10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
+4x Dmitra Ilyanova     9  CEL FOR POT PRE obf      justicar    Brujah:5
+1x Kenyatta            4  cel for pre                          Ishtarri:4
+1x Loonar              4  PRE cel                              Toreador antitribu:4
+1x Sean Rycek          4  aus dem                              Malkavian:4
+1x Thomas De Lutrius   4  aus cel pre              primogen    Toreador:4
 
 Library (90 cards)
 Master (12; 2 trifle)

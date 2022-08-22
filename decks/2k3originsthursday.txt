@@ -15,13 +15,13 @@ pump a bleed and take him out. One thing I'd do to make it more effective
 would be to put in another Tension or two, and to figure out some way to handle
 the Immortal Grapple decks a wee bit better.
 
-Crypt (12 cards, min=23 max=35 avg=7.25)
-----------------------------------------
-3x Marconius            9   DOM MYT OBT pot      archbishop     Kiasyd:2
-3x Julia Prima          7   DOM OBT aus myt                     Kiasyd:2
-3x Kassiym Malikhair    6   MYT OBT dom for                     Kiasyd:2
-2x Bartholomew          8   AUS MYT NEC dom obt                 Kiasyd:2
-1x Béatrice L'Angou     5   MYT aus dom nec                     Kiasyd:2
+Crypt (12 cards, min=23, max=35, avg=7.25)
+------------------------------------------
+3x Marconius          9  DOM MYT OBT pot      archbishop  Kiasyd:2
+3x Julia Prima        7  DOM OBT aus myt                  Kiasyd:2
+3x Kassiym Malikhair  6  MYT OBT dom for                  Kiasyd:2
+2x Bartholomew        8  AUS MYT NEC dom obt              Kiasyd:2
+1x Béatrice L'Angou   5  MYT aus dom nec                  Kiasyd:2
 
 Library (90 cards)
 Master (12)

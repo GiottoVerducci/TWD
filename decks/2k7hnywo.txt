@@ -7,12 +7,12 @@ James Messer
 
 -- 3VP in final
 
-Crypt (12 cards, min=25 max=43 avg=9)
--------------------------------------
-3x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-3x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
-3x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
-3x Catherine du Bois    5   DOM for obf pre                             Ventrue:3
+Crypt (12 cards, min=25, max=43, avg=9)
+---------------------------------------
+3x Arika              11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Marcus Vitel       10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+3x Queen Anne         10  DOM FOR PRE aus obf      prince        Ventrue:2
+3x Catherine du Bois   5  DOM for obf pre                        Ventrue:3
 
 Library (90 cards)
 Master (16; 3 trifle)

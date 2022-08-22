@@ -10,15 +10,15 @@ https://www.vekn.net/event-calendar/event/7422
 
 Deck Name: Torki dla Olki
 
-Crypt (12 cards, min=15 max=40 avg=7.42)
-----------------------------------------
-3x Anneke          10  AUS CEL PRE dom          justicar  Toreador:1
-3x Marcellus       8   AUS CEL pro              prince    Toreador:2
-2x François Villon 10  AUS CEL PRE chi obf pot  prince    Toreador:2
-1x Felicia Mostrom 5   AUS CEL pre                        Toreador:1
-1x Dorian Strack   4   AUS cel                            Toreador:1
-1x Isabel de Leon  3   AUS                                Toreador:2
-1x Zöe             3   AUS cel obf                        Malkavian:2
+Crypt (12 cards, min=15, max=40, avg=7.42)
+------------------------------------------
+3x Anneke           10  AUS CEL PRE dom          justicar  Toreador:1
+3x Marcellus         8  AUS CEL pro              prince    Toreador:2
+2x François Villon  10  AUS CEL PRE chi obf pot  prince    Toreador:2
+1x Felicia Mostrom   5  AUS CEL pre                        Toreador:1
+1x Dorian Strack     4  AUS cel                            Toreador:1
+1x Isabel de Leon    3  AUS                                Toreador:2
+1x Zöe               3  AUS cel obf                        Malkavian:2
 
 Library (89 cards)
 Master (18; 8 trifle)

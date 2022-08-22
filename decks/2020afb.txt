@@ -13,16 +13,16 @@ Created by: Moacir Rodrigues Jr
 
 Description: No violence
 
-Crypt (12 cards, min=39 max=44 avg=10.5)
-----------------------------------------
-5x Mistress Fanchon             11  AUS CEL DOM OBF THA VIC     inner circle    Tremere:4
-1x Elimelech the Twice-Damned   11  AUS DEM DOM FOR OBF pro                     Ventrue antitribu:5
-1x Rafael de Corazon            11  AUS CEL DOM OBF PRE         inner circle    Toreador:4
-1x Alonso Petrodon              10  ANI DOM OBF POT for tha     justicar        Nosferatu:5
-1x Gabrielle di Righetti        10  ANI AUS DOM THA obf pot     justicar        Tremere:5
-1x Luna Giovanni                10  DOM NEC OBF OBT POT cel     1 vote          Giovanni:5
-1x Servius Marius Pustula       10  ANI CHI DOM OBT POT obf                     Nosferatu antitribu:4
-1x Orlando Oriundus             9   AUS DOM THA obf             bishop          Tremere antitribu:4
+Crypt (12 cards, min=39, max=44, avg=10.5)
+------------------------------------------
+5x Mistress Fanchon            11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Elimelech the Twice-Damned  11  AUS DEM DOM FOR OBF pro                Ventrue antitribu:5
+1x Rafael de Corazon           11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Alonso Petrodon             10  ANI DOM OBF POT for tha  justicar      Nosferatu:5
+1x Gabrielle di Righetti       10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+1x Luna Giovanni               10  DOM NEC OBF OBT POT cel  1 vote        Giovanni:5
+1x Servius Marius Pustula      10  ANI CHI DOM OBT POT obf                Nosferatu antitribu:4
+1x Orlando Oriundus             9  AUS DOM THA obf          bishop        Tremere antitribu:4
 
 Library (90 cards)
 Master (20; 5 trifle)

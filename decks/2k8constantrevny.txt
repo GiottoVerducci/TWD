@@ -5,20 +5,20 @@ August 30th 2008
 13 players
 Peter Kapsalis
 
-Crypt (12 cards, min=21 max=29 avg=6.17)
-----------------------------------------
-1x Anton                            8   ANI AUS cel obf vic     Tzimisce:2
-1x Rebekka, Chantry Elder of Munich 8   AUS PRE THA pot         Tremere:2
-1x Muaziz, Archon of Ulugh Beg      7   THA aus dom for         Tremere:2
-1x Aisha                            6   PRE ani aus ser         Follower of Set:2
-1x Antonino                         6   FOR ani pre pro         Gangrel:3
-1x Jost Werner                      6   AUS PRE ani             Toreador antitribu:2
-1x Raful al-Zarqa                   6   AUS dom nec obf         Nagaraja:2
-1x Stefano Giovanni                 6   DOM nec pot pre         Giovanni:2
-1x Sundown                          6   ANI POT obf pre         Nosferatu:3
-1x Ilyana Ravidovich                5   aus dom for pre         Ventrue:3
-1x Larry                            5   SAN dem for pot         Blood Brother:2
-1x Persia, The Beautiful Statue     5   DEM aus obf             Malkavian:3
+Crypt (12 cards, min=21, max=29, avg=6.17)
+------------------------------------------
+1x Anton                             8  ANI AUS cel obf vic  Tzimisce:2
+1x Rebekka, Chantry Elder of Munich  8  AUS PRE THA pot      Tremere:2
+1x Muaziz, Archon of Ulugh Beg       7  THA aus dom for      Tremere:2
+1x Aisha                             6  PRE ani aus ser      Follower of Set:2
+1x Antonino                          6  FOR ani pre pro      Gangrel:3
+1x Jost Werner                       6  AUS PRE ani          Toreador antitribu:2
+1x Raful al-Zarqa                    6  AUS dom nec obf      Nagaraja:2
+1x Stefano Giovanni                  6  DOM nec pot pre      Giovanni:2
+1x Sundown                           6  ANI POT obf pre      Nosferatu:3
+1x Ilyana Ravidovich                 5  aus dom for pre      Ventrue:3
+1x Larry                             5  SAN dem for pot      Blood Brother:2
+1x Persia, The Beautiful Statue      5  DEM aus obf          Malkavian:3
 
 Library (90 cards)
 Master (21; 4 trifle)

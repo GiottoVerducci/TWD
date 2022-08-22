@@ -6,17 +6,17 @@ Ville Kaijasaari
 
 Deck: "No Rules Vignes"
 
-Crypt (12 cards, min=17 max=26 avg=5.33)
-----------------------------------------
-3x Edward Vignes        6   DOM PRE for                 Ventrue:3
-2x Victor Pelletier     5   PRE cel dom for             Ventrue:4
-1x Epikasta Rigatos     8   AUS DOM PRE cel     prince  Toreador:4
-1x Mustafa, The Heir    6   FOR PRE cel dom     prince  Ventrue:4
-1x Boss Callihan        5   PRE dom for pro             Ventrue:3
-1x Catherine du Bois    5   DOM for obf pre             Ventrue:3
-1x João Bilé            5   DOM FOR pre                 Ventrue:4
-1x Michael Luther       4   aus pre                     Toreador:3
-1x Diana Vick           3   dom pre                     Ventrue:3
+Crypt (12 cards, min=17, max=26, avg=5.33)
+------------------------------------------
+3x Edward Vignes      6  DOM PRE for              Ventrue:3
+2x Victor Pelletier   5  PRE cel dom for          Ventrue:4
+1x Epikasta Rigatos   8  AUS DOM PRE cel  prince  Toreador:4
+1x Mustafa, The Heir  6  FOR PRE cel dom  prince  Ventrue:4
+1x Boss Callihan      5  PRE dom for pro          Ventrue:3
+1x Catherine du Bois  5  DOM for obf pre          Ventrue:3
+1x João Bilé          5  DOM FOR pre              Ventrue:4
+1x Michael Luther     4  aus pre                  Toreador:3
+1x Diana Vick         3  dom pre                  Ventrue:3
 
 Library (75 cards)
 Master (16; 6 trifle)

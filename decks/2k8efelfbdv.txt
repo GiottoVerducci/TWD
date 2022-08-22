@@ -9,13 +9,13 @@ Noel Giménez Infante
 
 Deck Name: Ayo Igoli
 
-Crypt (12 cards, min=23 max=38 avg=7.58)
-----------------------------------------
-3x Ayo Igoli            10  AUS CEL FOR PRE obf tha             Ishtarri:4
-3x Falhu Shibaba        8   CEL CHI FOR PRE ani         magaji  Ishtarri:3
-3x Ubende               7   CEL PRE for obf qui         magaji  Ishtarri:4
-2x Victor Pelletier     5   PRE cel dom for                     Ventrue:4
-1x Mustafa, The Heir    6   FOR PRE cel dom             prince  Ventrue:4
+Crypt (12 cards, min=23, max=38, avg=7.58)
+------------------------------------------
+3x Ayo Igoli          10  AUS CEL FOR PRE obf tha          Ishtarri:4
+3x Falhu Shibaba       8  CEL CHI FOR PRE ani      magaji  Ishtarri:3
+3x Ubende              7  CEL PRE for obf qui      magaji  Ishtarri:4
+2x Victor Pelletier    5  PRE cel dom for                  Ventrue:4
+1x Mustafa, The Heir   6  FOR PRE cel dom          prince  Ventrue:4
 
 Library (89 cards)
 Master (13; 3 trifle)

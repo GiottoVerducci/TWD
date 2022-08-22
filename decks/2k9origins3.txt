@@ -7,15 +7,15 @@ Mark Merlin Petersen
 
 Deck Name: Rodolfo's Friendly Spirits
 
-Crypt (12 cards, min=21 max=32 avg=7.08)
-----------------------------------------
-3x Persephone Tar-Anis      8   AUS DEM OBF cel pot               Malkavian antitribu:4
-3x Rodolfo                  8   AUS DEM OBF pro         bishop    Malkavian antitribu:3
-2x Jason, The World's Voice 8   AUS DEM OBF for         primogen  Malkavian:3
-1x Ruth McGinley            6   DEM aus cel obf         primogen  Malkavian:3
-1x Apache Jones             5   DEM aus for obf                   Malkavian antitribu:4
-1x Luc                      5   OBF dem vic                       Malkavian antitribu:4
-1x Uncle George             5   DEM aus dom obf                   Malkavian antitribu:3
+Crypt (12 cards, min=21, max=32, avg=7.08)
+------------------------------------------
+3x Persephone Tar-Anis       8  AUS DEM OBF cel pot            Malkavian antitribu:4
+3x Rodolfo                   8  AUS DEM OBF pro      bishop    Malkavian antitribu:3
+2x Jason, The World's Voice  8  AUS DEM OBF for      primogen  Malkavian:3
+1x Ruth McGinley             6  DEM aus cel obf      primogen  Malkavian:3
+1x Apache Jones              5  DEM aus for obf                Malkavian antitribu:4
+1x Luc                       5  OBF dem vic                    Malkavian antitribu:4
+1x Uncle George              5  DEM aus dom obf                Malkavian antitribu:3
 
 Library (84 cards)
 Master (13; 2 trifle)

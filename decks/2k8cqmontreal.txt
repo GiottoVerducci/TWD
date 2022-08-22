@@ -10,15 +10,15 @@ Ends the day at 3GW10VP (4 in the final), came in 2nd after the prelims.
 Challenging and fun to play with (no +bleed, no +stealth and no bounce).
 Played every card to good use at least once during the tournament.
 
-Crypt (12 cards, min=10 max=22 avg=4.08)
-----------------------------------------
-3x Volker, The Puppet Prince    5   CEL pot             prince  Brujah:2
-2x Rake                         6   PRE aus cel pot     prince  Brujah:1
-2x Hector Sosa                  4   POT pre                     Brujah:1
-2x Lupo                         2   pot                         Brujah:1
-1x Yuri, The Talon              4   cel pot pre                 Brujah:1
-1x Dre, Leader of the Cold Dawn 3   cel pot                     Brujah:1
-1x Raziya Samater               3   ani pot                     Brujah:2
+Crypt (12 cards, min=10, max=22, avg=4.08)
+------------------------------------------
+3x Volker, The Puppet Prince     5  CEL pot          prince  Brujah:2
+2x Rake                          6  PRE aus cel pot  prince  Brujah:1
+2x Hector Sosa                   4  POT pre                  Brujah:1
+2x Lupo                          2  pot                      Brujah:1
+1x Yuri, The Talon               4  cel pot pre              Brujah:1
+1x Dre, Leader of the Cold Dawn  3  cel pot                  Brujah:1
+1x Raziya Samater                3  ani pot                  Brujah:2
 
 Library (77 cards)
 Master (21; 2 trifle)

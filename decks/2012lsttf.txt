@@ -12,16 +12,16 @@ previous versions by Erik, Hugh, and Adam. In retrospect,
 I'd add a few Infernal Pursuits and change the 1-caps for
 something useful.
 
-Crypt (12 cards, min=10 max=36 avg=6.25)
-----------------------------------------
-4x Anson                        8   CEL PRE aus dom             prince    Toreador:1
-2x Volker, The Puppet Prince    5   CEL pot                     prince    Brujah:2
-1x Anneke                       10  AUS CEL PRE dom             justicar  Toreador:1
-1x François Villon              10  AUS CEL PRE chi obf pot     prince    Toreador:2
-1x Marcellus                    8   AUS CEL pro                 prince    Toreador:2
-1x Sarah Brando                 3   CEL                                   Brujah antitribu:2
-1x Antoinette DuChamp           1   cel pre                               Caitiff:2
-1x Nik                          1   cel                                   Caitiff:1
+Crypt (12 cards, min=10, max=36, avg=6.25)
+------------------------------------------
+4x Anson                       8  CEL PRE aus dom          prince    Toreador:1
+2x Volker, The Puppet Prince   5  CEL pot                  prince    Brujah:2
+1x Anneke                     10  AUS CEL PRE dom          justicar  Toreador:1
+1x François Villon            10  AUS CEL PRE chi obf pot  prince    Toreador:2
+1x Marcellus                   8  AUS CEL pro              prince    Toreador:2
+1x Sarah Brando                3  CEL                                Brujah antitribu:2
+1x Antoinette DuChamp          1  cel pre                            Caitiff:2
+1x Nik                         1  cel                                Caitiff:1
 
 Library (75 cards)
 Master (35; 7 trifle)

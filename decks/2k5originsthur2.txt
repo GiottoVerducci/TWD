@@ -5,17 +5,17 @@ June 30th 2005
 16 players
 John Bell
 
-Crypt (12 cards, min=8 max=18 avg=3.17)
----------------------------------------
-2x Bothwell                     3   ani for             Gangrel:3
-2x Leon                         3   ani for             Gangrel antitribu:2
-2x Sarah Raines                 2   for                 Gangrel:3
-1x Ghivran Dalaal, The Dead God 5   FOR ani aus chi     Ravnos:2
-1x Maria Stone                  5   FOR cel obf pro     Gangrel antitribu:3
-1x Gustavo Morales              4   ani cel for         Gangrel:3
-1x Sennuwy, The Promoter        4   ani chi for         Ravnos:2
-1x Muse                         3   ani for mel         Daughter of Cacophony:2
-1x March Halcyon                1   for                 Pander:2
+Crypt (12 cards, min=8, max=18, avg=3.17)
+-----------------------------------------
+2x Bothwell                      3  ani for          Gangrel:3
+2x Leon                          3  ani for          Gangrel antitribu:2
+2x Sarah Raines                  2  for              Gangrel:3
+1x Ghivran Dalaal, The Dead God  5  FOR ani aus chi  Ravnos:2
+1x Maria Stone                   5  FOR cel obf pro  Gangrel antitribu:3
+1x Gustavo Morales               4  ani cel for      Gangrel:3
+1x Sennuwy, The Promoter         4  ani chi for      Ravnos:2
+1x Muse                          3  ani for mel      Daughter of Cacophony:2
+1x March Halcyon                 1  for              Pander:2
 
 Library (90 cards)
 Master (13)

@@ -9,14 +9,14 @@ Deck Name: Living Lolita Loca
 [originally Loco but people pointed out the obvious improvement right away]
 I had 12 out of 13VP - 2GW8 going into the finals, 4VP in final.
 
-Crypt (12 cards, min=8 max=24 avg=4)
-------------------------------------
-3x Lolita Houston       4   VIC aus      Tzimisce:2
-2x Caliban              6   ANI AUS VIC  Tzimisce:2
-2x Corine Marcón        6   AUS VIC ani  Tzimisce:2
-2x Christine Boscacci   2   dom vic      Pander:2
-2x Horatio              2   vic          Tzimisce:2
-1x Terrence             4   ani aus vic  Tzimisce:2
+Crypt (12 cards, min=8, max=24, avg=4)
+--------------------------------------
+3x Lolita Houston      4  VIC aus      Tzimisce:2
+2x Caliban             6  ANI AUS VIC  Tzimisce:2
+2x Corine Marcón       6  AUS VIC ani  Tzimisce:2
+2x Christine Boscacci  2  dom vic      Pander:2
+2x Horatio             2  vic          Tzimisce:2
+1x Terrence            4  ani aus vic  Tzimisce:2
 
 Library (80 cards)
 Master (18)

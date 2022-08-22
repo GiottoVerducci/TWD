@@ -27,20 +27,20 @@ Thank to all who showed up! It was great to see the turnout!
 
 - Ben Peal
 
-Crypt (12 cards, min=6 max=19 avg=3)
-------------------------------------
-1x Kallista, Master Sculptor    6   AUS CEL pre pro     Toreador:1
-1x Felicia Mostrom              5   AUS CEL pre         Toreador:1
-1x Dorian Strack                4   AUS cel             Toreador:1
-1x Victor Tolliver              4   CEL pot             Brujah antitribu:2
-1x Isabel de Leon               3   AUS                 Toreador:2
-1x Sarah Brando                 3   CEL                 Brujah antitribu:2
-1x Zöe                          3   AUS cel obf         Malkavian:2
-1x Angel                        2   cel                 Brujah:1
-1x Carter                       2   cel                 Toreador antitribu:2
-1x Kanya Akhtar                 2   cel                 Assamite:2
-1x Antoinette DuChamp           1   cel pre             Caitiff:2
-1x Nik                          1   cel                 Caitiff:1
+Crypt (12 cards, min=6, max=19, avg=3)
+--------------------------------------
+1x Kallista, Master Sculptor  6  AUS CEL pre pro  Toreador:1
+1x Felicia Mostrom            5  AUS CEL pre      Toreador:1
+1x Dorian Strack              4  AUS cel          Toreador:1
+1x Victor Tolliver            4  CEL pot          Brujah antitribu:2
+1x Isabel de Leon             3  AUS              Toreador:2
+1x Sarah Brando               3  CEL              Brujah antitribu:2
+1x Zöe                        3  AUS cel obf      Malkavian:2
+1x Angel                      2  cel              Brujah:1
+1x Carter                     2  cel              Toreador antitribu:2
+1x Kanya Akhtar               2  cel              Assamite:2
+1x Antoinette DuChamp         1  cel pre          Caitiff:2
+1x Nik                        1  cel              Caitiff:1
 
 Library (90 cards)
 Master (14)

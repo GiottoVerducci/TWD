@@ -8,16 +8,16 @@ Todd Holland
 
 Cailean Holds the Royal Court!
 
-Crypt (12 cards, min=27 max=40 avg=8.5)
----------------------------------------
-3x Cailean                                10  ANI OBF POT PRE dom  archbishop   Nosferatu antitribu:2
-3x Ellison Humboldt                       9   ANI OBF POT PRE pro  primogen     Nosferatu:3
-1x Cock Robin                             10  ANI OBF POT aus for  justicar     Nosferatu:3
-1x Amadeo                                 8   OBF POT ani aus pre  primogen     Nosferatu:2
-1x Kendrick                               7   ANI POT aus obf      priscus      Nosferatu antitribu:2
-1x Murat                                  7   OBF POT ser          prince       Nosferatu:2
-1x Nikolaus Vermeulen                     7   POT ani for obf      prince       Nosferatu:2
-1x Christanius Lionel, The Mad Chronicler 6   ANI OBF pot                       Nosferatu antitribu:2
+Crypt (12 cards, min=27, max=40, avg=8.5)
+-----------------------------------------
+3x Cailean                                 10  ANI OBF POT PRE dom  archbishop  Nosferatu antitribu:2
+3x Ellison Humboldt                         9  ANI OBF POT PRE pro  primogen    Nosferatu:3
+1x Cock Robin                              10  ANI OBF POT aus for  justicar    Nosferatu:3
+1x Amadeo                                   8  OBF POT ani aus pre  primogen    Nosferatu:2
+1x Kendrick                                 7  ANI POT aus obf      priscus     Nosferatu antitribu:2
+1x Murat                                    7  OBF POT ser          prince      Nosferatu:2
+1x Nikolaus Vermeulen                       7  POT ani for obf      prince      Nosferatu:2
+1x Christanius Lionel, The Mad Chronicler   6  ANI OBF pot                      Nosferatu antitribu:2
 
 Library (90 cards)
 Master (14)

@@ -6,18 +6,18 @@ Joni Huumonen
 
 Deck Name: Potence rush
 
-Crypt (12 cards, min=16 max=25 avg=4.92)
-----------------------------------------
-2x Agatha                               4   POT obf                     Nosferatu antitribu:2
-2x Hector Sosa                          4   POT pre                     Brujah:1
-1x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
-1x Theo Bell                            7   POT cel dom pre             Brujah:2
-1x Gaspare Giovanni                     6   POT cel nec                 Giovanni:2
-1x Nigel the Shunned                    5   ANI POT obf                 Nosferatu antitribu:2
-1x Olivia                               5   OBF POT vic         bishop  Nosferatu antitribu:2
-1x Terry                                5   POT aus dom san             Blood Brother:2
-1x Hugo                                 4   POT pre vic                 Brujah antitribu:2
-1x Jimmy Dunn                           4   CEL POT for                 Pander:2
+Crypt (12 cards, min=16, max=25, avg=4.92)
+------------------------------------------
+2x Agatha                             4  POT obf                  Nosferatu antitribu:2
+2x Hector Sosa                        4  POT pre                  Brujah:1
+1x Beast, The Leatherface of Detroit  7  OBF POT ani cel          Nosferatu antitribu:2
+1x Theo Bell                          7  POT cel dom pre          Brujah:2
+1x Gaspare Giovanni                   6  POT cel nec              Giovanni:2
+1x Nigel the Shunned                  5  ANI POT obf              Nosferatu antitribu:2
+1x Olivia                             5  OBF POT vic      bishop  Nosferatu antitribu:2
+1x Terry                              5  POT aus dom san          Blood Brother:2
+1x Hugo                               4  POT pre vic              Brujah antitribu:2
+1x Jimmy Dunn                         4  CEL POT for              Pander:2
 
 Library (90 cards)
 Master (17)

@@ -7,17 +7,17 @@ Gonzalo Andrés del Río Díaz
 
 Deck Name: !Ventrue
 
-Crypt (12 cards, min=24 max=33 avg=7.25)
-----------------------------------------
-3x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre                 Ventrue antitribu:3
-2x Blackhorse Tanner            7   AUS DOM FOR                         Ventrue antitribu:3
-1x Konrad Fleischer             9   ANI AUS DOM FOR tha                 Ventrue antitribu:4
-1x Jesse Menks                  8   AUS DOM FOR ani      archbishop     Ventrue antitribu:3
-1x Titus Camille                8   AUS DOM OBF for                     Ventrue antitribu:4
-1x Edward Neally                7   DOM FOR aus pre                     Ventrue antitribu:3
-1x Joseph O'Grady               7   DOM FOR aus cel                     Ventrue antitribu:3
-1x Jephta Hester                5   DOM FOR aus                         Ventrue antitribu:4
-1x Neighbor John                5   AUS dom for                         Ventrue antitribu:4
+Crypt (12 cards, min=24, max=33, avg=7.25)
+------------------------------------------
+3x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre              Ventrue antitribu:3
+2x Blackhorse Tanner          7  AUS DOM FOR                      Ventrue antitribu:3
+1x Konrad Fleischer           9  ANI AUS DOM FOR tha              Ventrue antitribu:4
+1x Jesse Menks                8  AUS DOM FOR ani      archbishop  Ventrue antitribu:3
+1x Titus Camille              8  AUS DOM OBF for                  Ventrue antitribu:4
+1x Edward Neally              7  DOM FOR aus pre                  Ventrue antitribu:3
+1x Joseph O'Grady             7  DOM FOR aus cel                  Ventrue antitribu:3
+1x Jephta Hester              5  DOM FOR aus                      Ventrue antitribu:4
+1x Neighbor John              5  AUS dom for                      Ventrue antitribu:4
 
 Library (90 cards)
 Master (25; 2 trifle)

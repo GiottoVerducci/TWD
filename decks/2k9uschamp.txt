@@ -7,16 +7,16 @@ Jesse Cross-Nickerson
 
 Deck Name: Ninja Parade
 
-Crypt (12 cards, min=9 max=28 avg=4.25)
----------------------------------------
-4x Djuhah, The Bronze Bow 7   OBF QUI aus cel pre  Assamite:5
-2x Lubomira Hradok        3   OBF                  Nosferatu antitribu:5
-1x Jeffrey Mullins        4   OBF cel              Gangrel antitribu:4
-1x Rashid Stockton        4   cel obf vic          Gangrel antitribu:5
-1x Blister                3   obf pot              Nosferatu antitribu:4
-1x Bloodfeud              2   obf                  Malkavian antitribu:4
-1x Denette Stensen        2   obf                  Gangrel antitribu:4
-1x Old Neddacka           2   obf                  Nosferatu antitribu:4
+Crypt (12 cards, min=9, max=28, avg=4.25)
+-----------------------------------------
+4x Djuhah, The Bronze Bow  7  OBF QUI aus cel pre  Assamite:5
+2x Lubomira Hradok         3  OBF                  Nosferatu antitribu:5
+1x Jeffrey Mullins         4  OBF cel              Gangrel antitribu:4
+1x Rashid Stockton         4  cel obf vic          Gangrel antitribu:5
+1x Blister                 3  obf pot              Nosferatu antitribu:4
+1x Bloodfeud               2  obf                  Malkavian antitribu:4
+1x Denette Stensen         2  obf                  Gangrel antitribu:4
+1x Old Neddacka            2  obf                  Nosferatu antitribu:4
 
 Library (80 cards)
 Master (14; 2 trifle)

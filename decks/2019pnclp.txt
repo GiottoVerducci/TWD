@@ -15,15 +15,15 @@ a DT for a Confusion because of the Parity Shifts, 2 Mental Maze against allies
 like Legionnaires and Nephandus. Missing one Perfect Paragon, but not sure what
 to take out for it.
 
-Crypt (12 cards, min=34 max=43 avg=9.67)
-----------------------------------------
-3x Cybele                10  ANI DAI OBF PRE SER THA                    Baali:4
-3x Aksinya Daclau        9   ANI FOR PRE PRO cel tha                    Gangrel antitribu:4
-2x Nana Buruku           8   ANI POT PRE                                Guruhi:4
-1x Lucian, The Perfect   11  ANI AUS DOM OBF POT PRE                    Guruhi:4
-1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-1x Rafael de Corazon     11  AUS CEL DOM OBF PRE        inner circle    Toreador:4
-1x Nergal                10  AUS DAI FOR OBF PRE THA                    Baali:5
+Crypt (12 cards, min=34, max=43, avg=9.67)
+------------------------------------------
+3x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+3x Aksinya Daclau          9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+2x Nana Buruku             8  ANI POT PRE                            Guruhi:4
+1x Lucian, The Perfect    11  ANI AUS DOM OBF POT PRE                Guruhi:4
+1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Nergal                 10  AUS DAI FOR OBF PRE THA                Baali:5
 
 Library (90 cards)
 Master (57; 9 trifle)

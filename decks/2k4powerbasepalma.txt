@@ -25,16 +25,16 @@ and Vox Domini, and obviously downgrade the number of card to 75. Some other
 events are to go in, like The Slow Withering and Blood Weakens, just to
 increase the effect of Wormwood.
 
-Crypt (13 cards, min=20 max=30 avg=6.08)
-----------------------------------------
-3x Hesha Ruhadze          6   SER ani obf pre      Follower of Set:2
-2x Pochtli                8   NEC OBF POT cel dom  Giovanni:2
-2x Sarrasine              7   OBF PRE aus nec ser  Follower of Set:2
-2x Cristos Mantigo        5   aus cel dom obf pre  Toreador antitribu:3
-1x Samat Ramal-Ra, Archon 6   OBF pre ser tha      Follower of Set:2
-1x Catherine du Bois      5   DOM for obf pre      Ventrue:3
-1x Count Ormonde          5   OBF dom pre ser      Follower of Set:2
-1x Dedefra                5   SER nec obf          Follower of Set:2
+Crypt (13 cards, min=20, max=30, avg=6.08)
+------------------------------------------
+3x Hesha Ruhadze           6  SER ani obf pre      Follower of Set:2
+2x Pochtli                 8  NEC OBF POT cel dom  Giovanni:2
+2x Sarrasine               7  OBF PRE aus nec ser  Follower of Set:2
+2x Cristos Mantigo         5  aus cel dom obf pre  Toreador antitribu:3
+1x Samat Ramal-Ra, Archon  6  OBF pre ser tha      Follower of Set:2
+1x Catherine du Bois       5  DOM for obf pre      Ventrue:3
+1x Count Ormonde           5  OBF dom pre ser      Follower of Set:2
+1x Dedefra                 5  SER nec obf          Follower of Set:2
 
 Library (85 cards)
 Master (32; 9 trifle)

@@ -9,12 +9,12 @@ James Messer
 
 Deck Name: Old School Anneke Aching Beauty Deck
 
-Crypt (12 cards, min=33 max=40 avg=9.25)
-----------------------------------------
-3x Anneke               10  AUS CEL PRE dom             justicar  Toreador:1
-3x François Villon      10  AUS CEL PRE chi obf pot     prince    Toreador:2
-3x Klaus van der Veken  9   CEL PRE aus obf tha         prince    Toreador:2
-3x Anson                8   CEL PRE aus dom             prince    Toreador:1
+Crypt (12 cards, min=33, max=40, avg=9.25)
+------------------------------------------
+3x Anneke               10  AUS CEL PRE dom          justicar  Toreador:1
+3x François Villon      10  AUS CEL PRE chi obf pot  prince    Toreador:2
+3x Klaus van der Veken   9  CEL PRE aus obf tha      prince    Toreador:2
+3x Anson                 8  CEL PRE aus dom          prince    Toreador:1
 
 Library (90 cards)
 Master (22; 1 trifle)

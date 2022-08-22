@@ -15,17 +15,17 @@ the time. Defend your ground, generate pool and play as many minions
 and whever prepared offer Paella for everyone!, The potato omelette
 will send whoever who tries to interdict to torpor... .
 
-Crypt (12 cards, min=14 max=23 avg=4.75)
-----------------------------------------
-2x Jost Werner                  6   AUS PRE ani         Toreador antitribu:2
-2x Creamy Jade                  5   PRE aus cel vic     Toreador antitribu:3
-2x Rose, The                    5   PRE VIC aus         Tzimisce:3
-1x Sheila Mezarin               6   AUS PRE cel for     Toreador antitribu:2
-1x Elizabeth Westcott           5   AUS ani cel vic     Tzimisce:3
-1x Mercy, Knight Inquisitor     5   AUS cel dom pre     Toreador antitribu:2
-1x Remilliard, Devout Crusader  4   AUS pre             Toreador antitribu:2
-1x Lolita                       3   for pre             Toreador antitribu:2
-1x Carter                       2   cel                 Toreador antitribu:2
+Crypt (12 cards, min=14, max=23, avg=4.75)
+------------------------------------------
+2x Jost Werner                  6  AUS PRE ani      Toreador antitribu:2
+2x Creamy Jade                  5  PRE aus cel vic  Toreador antitribu:3
+2x Rose, The                    5  PRE VIC aus      Tzimisce:3
+1x Sheila Mezarin               6  AUS PRE cel for  Toreador antitribu:2
+1x Elizabeth Westcott           5  AUS ani cel vic  Tzimisce:3
+1x Mercy, Knight Inquisitor     5  AUS cel dom pre  Toreador antitribu:2
+1x Remilliard, Devout Crusader  4  AUS pre          Toreador antitribu:2
+1x Lolita                       3  for pre          Toreador antitribu:2
+1x Carter                       2  cel              Toreador antitribu:2
 
 Library (90 cards)
 Master (15)

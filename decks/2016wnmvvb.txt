@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/8304
 
 Deck Name: I'll Cast A Shadow
 
-Crypt (12 cards, min=25 max=44 avg=8.92)
-----------------------------------------
-4x Montano                                11  ANI DOM FOR OBT POT       2 votes   Lasombra:3
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal  Lasombra:2
-3x Lucita                                 8   DOM FOR OBT cel pot                 Lasombra:2
-1x Aurora Van Brande, Paladin             6   OBT dom for pot                     Lasombra:2
-1x Cameron                                3   dom pot                             Lasombra:2
+Crypt (12 cards, min=25, max=44, avg=8.92)
+------------------------------------------
+4x Montano                                 11  ANI DOM FOR OBT POT      2 votes   Lasombra:3
+3x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal  Lasombra:2
+3x Lucita                                   8  DOM FOR OBT cel pot                Lasombra:2
+1x Aurora Van Brande, Paladin               6  OBT dom for pot                    Lasombra:2
+1x Cameron                                  3  dom pot                            Lasombra:2
 
 Library (90 cards)
 Master (19; 5 trifle)

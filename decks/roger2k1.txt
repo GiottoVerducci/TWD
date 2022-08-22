@@ -8,20 +8,20 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/iMKMHbqeThU
 Deck Name: Pander Votemonster deck
 Created by: Henrik Oscarsson
 
-Crypt (12 cards, min=4 max=10 avg=1.75)
----------------------------------------
-1x Lena Rowe                3   aus obf pre     Pander:2
-1x Rex, The Necronomist     3   pot pro vic     Pander:2
-1x Christine Boscacci       2   dom vic         Pander:2
-1x Frederick the Weak       2   pre             Brujah antitribu:2
-1x Gillian Krader           2   ani dem         Pander:2
-1x Mitchell, The Headhunter 2   obt pot         Pander:2
-1x Samson                   2   dom             Ventrue antitribu:2
-1x Angela Decker            1   pre             Pander:2
-1x Basil                    1   obf             Pander:2
-1x Huang, Blood Cultist     1   pro             Pander:2
-1x March Halcyon            1   for             Pander:2
-1x Royce                    1   dom             Pander:2
+Crypt (12 cards, min=4, max=10, avg=1.75)
+-----------------------------------------
+1x Lena Rowe                 3  aus obf pre  Pander:2
+1x Rex, The Necronomist      3  pot pro vic  Pander:2
+1x Christine Boscacci        2  dom vic      Pander:2
+1x Frederick the Weak        2  pre          Brujah antitribu:2
+1x Gillian Krader            2  ani dem      Pander:2
+1x Mitchell, The Headhunter  2  obt pot      Pander:2
+1x Samson                    2  dom          Ventrue antitribu:2
+1x Angela Decker             1  pre          Pander:2
+1x Basil                     1  obf          Pander:2
+1x Huang, Blood Cultist      1  pro          Pander:2
+1x March Halcyon             1  for          Pander:2
+1x Royce                     1  dom          Pander:2
 
 Library (90 cards)
 Master (15)

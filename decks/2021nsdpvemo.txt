@@ -12,11 +12,11 @@ Deck Name: Giotto Legionnaries
 
 Discard, breed allies, block and finish with legionnaries
 
-Crypt (12 cards, min=4 max=34 avg=5)
-------------------------------------
-5x Tupdog          1   POT VIS                          Gargoyle:3
-4x Giotto Verducci 7   DAI OBF for pot pre              Baali:2
-3x Maris Streck    9   AUS OBF ani dem dom  justicar    Malkavian:3
+Crypt (12 cards, min=4, max=34, avg=5)
+--------------------------------------
+5x Tupdog           1  POT VIS                        Gargoyle:3
+4x Giotto Verducci  7  DAI OBF for pot pre            Baali:2
+3x Maris Streck     9  AUS OBF ani dem dom  justicar  Malkavian:3
 
 Library (90 cards)
 Master (31)

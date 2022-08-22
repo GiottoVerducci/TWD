@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/8362
 
 Deck Name: Arika, a mãe de todos
 
-Crypt (13 cards, min=30 max=44 avg=9.62)
-----------------------------------------
-5x Arika                11  DOM FOR OBF PRE aus cel     inner circle    Ventrue:2
-3x Marcus Vitel         10  DOM FOR OBF OBT PRE         prince          Ventrue:3
-2x Queen Anne           10  DOM FOR PRE aus obf         prince          Ventrue:2
-2x Catherine du Bois    5   DOM for obf pre                             Ventrue:3
-1x Lucinde, Alastor     10  DOM FOR PRE obf pot tha     justicar        Ventrue:3
+Crypt (13 cards, min=30, max=44, avg=9.62)
+------------------------------------------
+5x Arika              11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Marcus Vitel       10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+2x Queen Anne         10  DOM FOR PRE aus obf      prince        Ventrue:2
+2x Catherine du Bois   5  DOM for obf pre                        Ventrue:3
+1x Lucinde, Alastor   10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
 
 Library (88 cards)
 Master (20; 5 trifle)

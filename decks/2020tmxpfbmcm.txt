@@ -20,18 +20,18 @@ zombies you would have the merrier you would become. Once the Zombies are
 awaken they should need something to eat, so don't lose your time and send them
 to feast for all the delicious preys served around the table.
 
-Crypt (12 cards, min=12 max=27 avg=4.92)
-----------------------------------------
-2x Andrea Giovanni                      7   DOM NEC pot vic     Giovanni:2
-2x Rudolfo Giovanni                     3   NEC                 Giovanni:2
-1x Gillespi Giovanni                    7   DOM NEC POT aus     Giovanni:2
-1x Agaitas, The Scholar of Antiquities  6   AUS NEC for         Harbinger of Skulls:2
-1x Rafaele Giovanni                     6   NEC cel obf         Giovanni:2
-1x Isabel Giovanni                      5   DOM NEC pot         Giovanni:2
-1x Le Dinh Tho                          5   NEC aus dom         Nagaraja:2
-1x Gloria Giovanni                      4   DOM nec             Giovanni:2
-1x Cristofero Giovanni                  3   nec pot             Giovanni:2
-1x Mario Giovanni                       3   nec pot             Giovanni:2
+Crypt (12 cards, min=12, max=27, avg=4.92)
+------------------------------------------
+2x Andrea Giovanni                      7  DOM NEC pot vic  Giovanni:2
+2x Rudolfo Giovanni                     3  NEC              Giovanni:2
+1x Gillespi Giovanni                    7  DOM NEC POT aus  Giovanni:2
+1x Agaitas, The Scholar of Antiquities  6  AUS NEC for      Harbinger of Skulls:2
+1x Rafaele Giovanni                     6  NEC cel obf      Giovanni:2
+1x Isabel Giovanni                      5  DOM NEC pot      Giovanni:2
+1x Le Dinh Tho                          5  NEC aus dom      Nagaraja:2
+1x Gloria Giovanni                      4  DOM nec          Giovanni:2
+1x Cristofero Giovanni                  3  nec pot          Giovanni:2
+1x Mario Giovanni                       3  nec pot          Giovanni:2
 
 Library (83 cards)
 Master (17; 1 trifle)

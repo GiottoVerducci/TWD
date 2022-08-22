@@ -11,19 +11,19 @@ most decks with numbers. Obviously key to get out one or two with dom or DOM
 to deflect and bleed. Possibly gone a bit mad with numbers of trap and undead
 persistence but seemed to work ok. In hindsight would put more bleed in.
 
-Crypt (12 cards, min=6 max=19 avg=3.08)
----------------------------------------
-2x Ingrid Russo                    4   DOM for      Ventrue antitribu:2
-1x Luccia Paciola                  6   DOM for pre  Ventrue:1
-1x Ranjan Rishi, Camarilla Scholar 5   DOM PRE for  Ventrue:2
-1x Courtland Leighton              4   dom for pre  Ventrue:1
-1x Lázár Dobrescu                  3   for          Ravnos:2
-1x Roland Loussarian               3   for pre      Ventrue:1
-1x Giuliano Vincenzi               2   for          Gangrel:1
-1x Ohanna                          2   dom          Malkavian:2
-1x Rufina Soledad                  2   for          Ventrue:1
-1x March Halcyon                   1   for          Pander:2
-1x Royce                           1   dom          Pander:2
+Crypt (12 cards, min=6, max=19, avg=3.08)
+-----------------------------------------
+2x Ingrid Russo                     4  DOM for      Ventrue antitribu:2
+1x Luccia Paciola                   6  DOM for pre  Ventrue:1
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for  Ventrue:2
+1x Courtland Leighton               4  dom for pre  Ventrue:1
+1x Lázár Dobrescu                   3  for          Ravnos:2
+1x Roland Loussarian                3  for pre      Ventrue:1
+1x Giuliano Vincenzi                2  for          Gangrel:1
+1x Ohanna                           2  dom          Malkavian:2
+1x Rufina Soledad                   2  for          Ventrue:1
+1x March Halcyon                    1  for          Pander:2
+1x Royce                            1  dom          Pander:2
 
 Library (90 cards)
 Master (19)

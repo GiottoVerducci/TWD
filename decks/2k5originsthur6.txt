@@ -5,13 +5,13 @@ June 30th 2005
 10 players
 Will Kristoff
 
-Crypt (12 cards, min=22 max=34 avg=7.25)
-----------------------------------------
-5x Synesios                     8   POT PRE TEM obf ser  2 votes   True Brujah:2
-2x Ellison Humboldt             9   ANI OBF POT PRE pro  primogen  Nosferatu:3
-2x Antoinette, She Who Watches  6   AUS PRE cel obf      primogen  Toreador:3
-2x Sir Marriot D'Urban          5   PRE aus obf ser                Follower of Set:2
-1x Greta Kircher                7   AUS CEL PRE obf                Toreador antitribu:2
+Crypt (12 cards, min=22, max=34, avg=7.25)
+------------------------------------------
+5x Synesios                     8  POT PRE TEM obf ser  2 votes   True Brujah:2
+2x Ellison Humboldt             9  ANI OBF POT PRE pro  primogen  Nosferatu:3
+2x Antoinette, She Who Watches  6  AUS PRE cel obf      primogen  Toreador:3
+2x Sir Marriot D'Urban          5  PRE aus obf ser                Follower of Set:2
+1x Greta Kircher                7  AUS CEL PRE obf                Toreador antitribu:2
 
 Library (90 cards)
 Master (12)

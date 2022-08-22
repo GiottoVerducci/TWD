@@ -12,13 +12,13 @@ Deck Name: Desencalhando as Shrouds 2015
 
 Description: Fantasminhas mano...
 
-Crypt (12 cards, min=18 max=36 avg=6.67)
-----------------------------------------
-5x Guillaume Giovanni   9   CEL DOM NEC POT obt  Giovanni:4
-3x Gianmaria Giovanni   5   POT dom nec obt      Giovanni:5
-2x Raphaela Giovanni    6   DOM NEC pot pre      Giovanni:4
-1x Kay Polerno          4   dom nec pro          Giovanni:5
-1x Primo Giovanni       4   dom nec pot          Giovanni:4
+Crypt (12 cards, min=18, max=36, avg=6.67)
+------------------------------------------
+5x Guillaume Giovanni  9  CEL DOM NEC POT obt  Giovanni:4
+3x Gianmaria Giovanni  5  POT dom nec obt      Giovanni:5
+2x Raphaela Giovanni   6  DOM NEC pot pre      Giovanni:4
+1x Kay Polerno         4  dom nec pro          Giovanni:5
+1x Primo Giovanni      4  dom nec pot          Giovanni:4
 
 Library (84 cards)
 Master (32; 2 trifle)

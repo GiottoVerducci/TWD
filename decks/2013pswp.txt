@@ -9,15 +9,15 @@ Aleksander Idziak
 
 Deck Name: Kiasyd - Earth Swords
 
-Crypt (12 cards, min=18 max=30 avg=6.08)
-----------------------------------------
-3x Isanwayen               6   DOM MYT OBT                      Kiasyd:4
-2x Arcadian, The           8   DOM MYT OBT chi for              Kiasyd:5
-2x Omme Enberbenight       7   MYT OBT cel dom      priscus     Kiasyd:4
-2x Dame Hollerton          5   DOM OBT myt                      Kiasyd:4
-1x Roderick Phillips March 7   DOM MYT cel obt tha              Kiasyd:4
-1x Ermenegildo, The Rake   5   DOM OBT pot                      Lasombra:4
-1x Lucy Markowitz          3   dom obt                          Lasombra:4
+Crypt (12 cards, min=18, max=30, avg=6.08)
+------------------------------------------
+3x Isanwayen                6  DOM MYT OBT                   Kiasyd:4
+2x Arcadian, The            8  DOM MYT OBT chi for           Kiasyd:5
+2x Omme Enberbenight        7  MYT OBT cel dom      priscus  Kiasyd:4
+2x Dame Hollerton           5  DOM OBT myt                   Kiasyd:4
+1x Roderick Phillips March  7  DOM MYT cel obt tha           Kiasyd:4
+1x Ermenegildo, The Rake    5  DOM OBT pot                   Lasombra:4
+1x Lucy Markowitz           3  dom obt                       Lasombra:4
 
 Library (77 cards)
 Master (14; 3 trifle)

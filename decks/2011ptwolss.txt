@@ -13,15 +13,15 @@ Ra should be Mind Numb. Villein and Lilith's Blessing should be
 2 Blood Doll and 2 Vessel. Should maybe add 2-4 Majesty. Crypt
 should be 4 Mary Anne Blaire, 2 Lodin and the rest singles.
 
-Crypt (12 cards, min=17 max=36 avg=6.75)
-----------------------------------------
-2x Mary Anne Blaire     10  AUS DOM FOR PRE ani pot     justicar  Ventrue:5
-2x Epikasta Rigatos     8   AUS DOM PRE cel             prince    Toreador:4
-2x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro         prince    Ventrue:5
-2x Victor Donaldson     6   DOM for pre                 prince    Ventrue:5
-2x Emily Carson         5   DOM for pre                 primogen  Ventrue:5
-1x Maman Boumba         4   inn mar                               Martyr:4
-1x Keith Moody          3   DOM                                   Tremere antitribu:4
+Crypt (12 cards, min=17, max=36, avg=6.75)
+------------------------------------------
+2x Mary Anne Blaire    10  AUS DOM FOR PRE ani pot  justicar  Ventrue:5
+2x Epikasta Rigatos     8  AUS DOM PRE cel          prince    Toreador:4
+2x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro      prince    Ventrue:5
+2x Victor Donaldson     6  DOM for pre              prince    Ventrue:5
+2x Emily Carson         5  DOM for pre              primogen  Ventrue:5
+1x Maman Boumba         4  inn mar                            Martyr:4
+1x Keith Moody          3  DOM                                Tremere antitribu:4
 
 Library (90 cards)
 Master (19; 8 trifle)

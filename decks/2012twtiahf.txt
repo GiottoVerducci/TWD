@@ -19,13 +19,13 @@ The deck needs a sixth Villein in order to draw one reliably and early,
 probably in place of Golconda or Giant's Blood. If I was expecting heavy
 bleeding I would also add a second Protected Resources.
 
-Crypt (12 cards, min=36 max=42 avg=9.5)
----------------------------------------
-5x Undele                9   CEL FOR obf pre ser        magaji          Ishtarri:5
-2x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-2x Armin Brenner         10  CEL FOR POT PRE ani obf    archbishop      Brujah antitribu:4
-2x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
-1x Hektor                9   CEL POT PRE QUI for        priscus         Brujah antitribu:4
+Crypt (12 cards, min=36, max=42, avg=9.5)
+-----------------------------------------
+5x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
+2x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+2x Armin Brenner          10  CEL FOR POT PRE ani obf  archbishop    Brujah antitribu:4
+2x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+1x Hektor                  9  CEL POT PRE QUI for      priscus       Brujah antitribu:4
 
 Library (60 cards)
 Master (33; 7 trifle)

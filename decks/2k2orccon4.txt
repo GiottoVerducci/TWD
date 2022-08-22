@@ -7,16 +7,16 @@ Fun with Hastily Built Presence
 Description: Bleed like it's the last tournament
 and your clever decks have failed you.
 
-Crypt (12 cards, min=9 max=16 avg=3.33)
----------------------------------------
-2x Mariana Gilbert              4   PRE cel      Toreador:1
-2x Remilliard, Devout Crusader  4   AUS pre      Toreador antitribu:2
-2x Violette Prentiss            4   PRE dom      Ventrue:1
-2x Gideon Fontaine              3   PRE          Ventrue:1
-1x Demetrius Slater             4   aus cel pre  Toreador:1
-1x Lolita                       3   for pre      Toreador antitribu:2
-1x Delilah Easton               2   pre          Toreador:1
-1x Igo the Hungry               1   pre pro      Caitiff:1
+Crypt (12 cards, min=9, max=16, avg=3.33)
+-----------------------------------------
+2x Mariana Gilbert              4  PRE cel      Toreador:1
+2x Remilliard, Devout Crusader  4  AUS pre      Toreador antitribu:2
+2x Violette Prentiss            4  PRE dom      Ventrue:1
+2x Gideon Fontaine              3  PRE          Ventrue:1
+1x Demetrius Slater             4  aus cel pre  Toreador:1
+1x Lolita                       3  for pre      Toreador antitribu:2
+1x Delilah Easton               2  pre          Toreador:1
+1x Igo the Hungry               1  pre pro      Caitiff:1
 
 Library (90 cards)
 Master (9)

@@ -18,16 +18,16 @@ Big thanks to Jyri Puhakka too, for selling me the idea of playing New Blood. It
 
 Marked Terriories and Abbot are in the deck to basically be "Unleash Hell's Fury" number 4 and 5. And the synergy between Alex Camille and Abbot is super nice. Making the deck a bit more resilient with the larger amount of S:CEs
 
-Crypt (13 cards, min=15 max=40 avg=6.92)
-----------------------------------------
-5x unnamed, The          10  CEL DAI OBF PRE PRO           Baali:6
-2x Alex Camille          5   PRO cel for obf               Gangrel antitribu:5
-1x Annazir               9   DAI OBF POT PRE      2 votes  Baali:5
-1x André the Manipulator 6   FOR PRO                       Gangrel:5
-1x Styles Margs          5   CEL PRO ani                   Gangrel antitribu:5
-1x Synner-G              5   CEL OBF pro                   Gangrel antitribu:5
-1x Joseph Fischer        3   PRO                           Gangrel antitribu:5
-1x New Blood             2   san                           Blood Brother:ANY
+Crypt (13 cards, min=15, max=40, avg=6.92)
+------------------------------------------
+5x unnamed, The           10  CEL DAI OBF PRE PRO           Baali:6
+2x Alex Camille            5  PRO cel for obf               Gangrel antitribu:5
+1x Annazir                 9  DAI OBF POT PRE      2 votes  Baali:5
+1x André the Manipulator   6  FOR PRO                       Gangrel:5
+1x Styles Margs            5  CEL PRO ani                   Gangrel antitribu:5
+1x Synner-G                5  CEL OBF pro                   Gangrel antitribu:5
+1x Joseph Fischer          3  PRO                           Gangrel antitribu:5
+1x New Blood               2  san                           Blood Brother:ANY
 
 Library (76 cards)
 Master (12; 3 trifle)

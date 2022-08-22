@@ -12,19 +12,19 @@ Deck Name: Back To Basics
 
 Description: Obfuscate & Auspex
 
-Crypt (12 cards, min=10 max=26 avg=4.25)
-----------------------------------------
-2x Quira, The Bitch Queen         6   AUS OBF obt tha   Malkavian antitribu:2
-1x Cornelius Ottavio              8   AUS OBF pre qui   Malkavian:2
-1x Ozmo                           6   AUS dom obf       Malkavian:1
-1x Victoria                       5   AUS cel obf       Malkavian:2
-1x Idalia, Prophet of Guadalajara 4   AUS dem           Malkavian antitribu:2
-1x Dan Murdock                    3   aus obf           Caitiff:1
-1x Dollface                       3   aus obf           Malkavian:1
-1x Isabel de Leon                 3   AUS               Toreador:2
-1x Lena Rowe                      3   aus obf pre       Pander:2
-1x Zöe                            3   AUS cel obf       Malkavian:2
-1x Anarch Convert                 1   -none-            Caitiff:ANY
+Crypt (12 cards, min=10, max=26, avg=4.25)
+------------------------------------------
+2x Quira, The Bitch Queen          6  AUS OBF obt tha  Malkavian antitribu:2
+1x Cornelius Ottavio               8  AUS OBF pre qui  Malkavian:2
+1x Ozmo                            6  AUS dom obf      Malkavian:1
+1x Victoria                        5  AUS cel obf      Malkavian:2
+1x Idalia, Prophet of Guadalajara  4  AUS dem          Malkavian antitribu:2
+1x Dan Murdock                     3  aus obf          Caitiff:1
+1x Dollface                        3  aus obf          Malkavian:1
+1x Isabel de Leon                  3  AUS              Toreador:2
+1x Lena Rowe                       3  aus obf pre      Pander:2
+1x Zöe                             3  AUS cel obf      Malkavian:2
+1x Anarch Convert                  1  -none-           Caitiff:ANY
 
 Library (90 cards)
 Master (19; 5 trifle)

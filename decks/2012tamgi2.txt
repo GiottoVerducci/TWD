@@ -9,13 +9,13 @@ Luca Turicchi
 
 Deck Name: Nosfe Royal
 
-Crypt (12 cards, min=30 max=36 avg=8.42)
-----------------------------------------
-3x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
-3x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
-2x Marty Lechtansi              9   DOM OBF POT ani for  primogen  Nosferatu:1
-2x Suhailah                     9   FOR OBF pot ser      prince    Ventrue:2
-2x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
+Crypt (12 cards, min=30, max=36, avg=8.42)
+------------------------------------------
+3x Sheldon, Lord of the Clog  9  ANI AUS OBF POT for  justicar  Nosferatu:1
+3x Selma the Repugnant        8  OBF POT ani for      prince    Nosferatu:1
+2x Marty Lechtansi            9  DOM OBF POT ani for  primogen  Nosferatu:1
+2x Suhailah                   9  FOR OBF pot ser      prince    Ventrue:2
+2x Nikolaus Vermeulen         7  POT ani for obf      prince    Nosferatu:2
 
 Library (80 cards)
 Master (22; 3 trifle)

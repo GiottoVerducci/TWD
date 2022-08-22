@@ -8,21 +8,21 @@ Deck Name: Nephandus's Club
 
 Description: very nasty deck with Nephandi and events.
 
-Crypt (20 cards, min=4 max=20 avg=2.2)
---------------------------------------
-5x Antonio d'Erlette    5   THA dom for pot     Tremere antitribu:4
-4x Tupdog               1   POT VIS             Gargoyle:3
-1x Keith Moody          3   DOM                 Tremere antitribu:4
-1x Saiz                 3   aus dom             Tremere antitribu:3
-1x Basir                1   qui                 Assamite:4
-1x Eddie Gaines         1   dem pot             Caitiff:3
-1x Jaggedy Andy         1   pot                 Pander:4
-1x Lisa Noble           1   ani                 Caitiff:3
-1x Margarite            1   obt                 Pander:4
-1x Nedal, The Careless  1   cel nec             Caitiff:3
-1x Olga Triminov        1   vic                 Pander:3
-1x Sandra White         1   -none-              Caitiff:3
-1x Schuyler             1   tha                 Pander:4
+Crypt (20 cards, min=4, max=20, avg=2.2)
+----------------------------------------
+5x Antonio d'Erlette    5  THA dom for pot  Tremere antitribu:4
+4x Tupdog               1  POT VIS          Gargoyle:3
+1x Keith Moody          3  DOM              Tremere antitribu:4
+1x Saiz                 3  aus dom          Tremere antitribu:3
+1x Basir                1  qui              Assamite:4
+1x Eddie Gaines         1  dem pot          Caitiff:3
+1x Jaggedy Andy         1  pot              Pander:4
+1x Lisa Noble           1  ani              Caitiff:3
+1x Margarite            1  obt              Pander:4
+1x Nedal, The Careless  1  cel nec          Caitiff:3
+1x Olga Triminov        1  vic              Pander:3
+1x Sandra White         1  -none-           Caitiff:3
+1x Schuyler             1  tha              Pander:4
 
 Library (90 cards)
 Master (32)

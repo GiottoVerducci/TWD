@@ -8,21 +8,21 @@ Hugh Angseesing
 Deck Name: Mirroring the Mission
 Created by: 'Stoffe' / Christopher
 
-Crypt (13 cards, min=10 max=20 avg=3.77)
-----------------------------------------
-1x Aisling Sturbridge   5   AUS THA dom         Tremere:2
-1x Alejandro Aguirre    5   ani aus dom tha     Tremere antitribu:3
-1x Cohn Rose            5   THA aus dom pre     Tremere:3
-1x Hannigan             5   AUS THA dom         Tremere antitribu:2
-1x Kyoko Shinsegawa     5   aus cel dom for     Tremere:3
-1x Pieter van Dorn      4   dom pre tha         Tremere:3
-1x Thelonius            4   aus dom tha         Tremere antitribu:2
-1x Blythe Candeleria    3   THA aus             Tremere:2
-1x Brooke               3   dom tha             Tremere antitribu:2
-1x Ehrich Weiss         3   dom tha             Tremere:3
-1x Masika St. John      3   THA                 Tremere:3
-1x Heinrick Schlempt    2   tha                 Tremere antitribu:2
-1x Magdelena Schaefer   2   THA                 Caitiff:2
+Crypt (13 cards, min=10, max=20, avg=3.77)
+------------------------------------------
+1x Aisling Sturbridge  5  AUS THA dom      Tremere:2
+1x Alejandro Aguirre   5  ani aus dom tha  Tremere antitribu:3
+1x Cohn Rose           5  THA aus dom pre  Tremere:3
+1x Hannigan            5  AUS THA dom      Tremere antitribu:2
+1x Kyoko Shinsegawa    5  aus cel dom for  Tremere:3
+1x Pieter van Dorn     4  dom pre tha      Tremere:3
+1x Thelonius           4  aus dom tha      Tremere antitribu:2
+1x Blythe Candeleria   3  THA aus          Tremere:2
+1x Brooke              3  dom tha          Tremere antitribu:2
+1x Ehrich Weiss        3  dom tha          Tremere:3
+1x Masika St. John     3  THA              Tremere:3
+1x Heinrick Schlempt   2  tha              Tremere antitribu:2
+1x Magdelena Schaefer  2  THA              Caitiff:2
 
 Library (90 cards)
 Master (22; 3 trifle)

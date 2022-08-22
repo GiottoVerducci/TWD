@@ -10,15 +10,15 @@ https://www.vekn.net/player-registry/event/9864
 
 Name: Lasombra Vote and Bleed
 Description: Vote and Bleed Deck with survive base
-Crypt (13 cards, min=28 max=38 avg=8.23)
-----------------------------------------
-3x Charles Delmare       8   DOM OBT POT cel      cardinal      Lasombra:5
-2x Bruce de Guy          10  AUS DOM FOR OBT      cardinal      Ventrue antitribu:4
-2x Carolina Vález        9   DOM OBT POT PRE aus  archbishop    Lasombra:5
-2x Percival              8   FOR OBT POT aus dom  archbishop    Lasombra:5
-2x Virginie, Prodigy     6   DOM POT obt          bishop        Lasombra:4
-1x Antón de Concepción   9   ANI DOM OBT POT aus  archbishop    Lasombra:4
-1x Lord Leopold Valdemar 8   OBT POT cel dom obf  priscus       Lasombra:5
+Crypt (13 cards, min=28, max=38, avg=8.23)
+------------------------------------------
+3x Charles Delmare         8  DOM OBT POT cel      cardinal    Lasombra:5
+2x Bruce de Guy           10  AUS DOM FOR OBT      cardinal    Ventrue antitribu:4
+2x Carolina Vález          9  DOM OBT POT PRE aus  archbishop  Lasombra:5
+2x Percival                8  FOR OBT POT aus dom  archbishop  Lasombra:5
+2x Virginie, Prodigy       6  DOM POT obt          bishop      Lasombra:4
+1x Antón de Concepción     9  ANI DOM OBT POT aus  archbishop  Lasombra:4
+1x Lord Leopold Valdemar   8  OBT POT cel dom obf  priscus     Lasombra:5
 
 Library (90 cards)
 Master (18; 6 trifle)

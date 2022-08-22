@@ -23,14 +23,14 @@ would be useful/funny ways to save or sacrifice Gabrin before the last
 Nightmare counter is placed. Secure Haven might be a good addition to
 protect Gabrin from rushes.
 
-Crypt (12 cards, min=15 max=32 avg=5.92)
-----------------------------------------
-4x Gabrin               8   ANI CHI dom for     Ravnos:2
-3x Joaquina Amaya       6   ANI CHI FOR         Ravnos:2
-2x Lázár Dobrescu       3   for                 Ravnos:2
-1x Vaclav Petalengro    6   ANI CHI for pot     Ravnos:2
-1x Khalil Ravana        5   CHI ani for pre     Ravnos:2
-1x Salbatore Bokkengro  4   CHI for pro         Ravnos:2
+Crypt (12 cards, min=15, max=32, avg=5.92)
+------------------------------------------
+4x Gabrin               8  ANI CHI dom for  Ravnos:2
+3x Joaquina Amaya       6  ANI CHI FOR      Ravnos:2
+2x Lázár Dobrescu       3  for              Ravnos:2
+1x Vaclav Petalengro    6  ANI CHI for pot  Ravnos:2
+1x Khalil Ravana        5  CHI ani for pre  Ravnos:2
+1x Salbatore Bokkengro  4  CHI for pro      Ravnos:2
 
 Library (86 cards)
 Master (15)

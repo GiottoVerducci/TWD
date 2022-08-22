@@ -7,15 +7,15 @@ Dennis Lien
 
 Unariffic!!!
 
-Crypt (12 cards, min=4 max=36 avg=4.5)
---------------------------------------
-5x Una                  9   ANI FOR PRE PRO dem  archbishop     Gangrel antitribu:3
-2x Frederick the Weak   2   pre                                 Brujah antitribu:2
-1x Angela Decker        1   pre                                 Pander:2
-1x Feo Ramos            1   aus                                 Pander:3
-1x Huang, Blood Cultist 1   pro                                 Pander:2
-1x March Halcyon        1   for                                 Pander:2
-1x Royce                1   dom                                 Pander:2
+Crypt (12 cards, min=4, max=36, avg=4.5)
+----------------------------------------
+5x Una                   9  ANI FOR PRE PRO dem  archbishop  Gangrel antitribu:3
+2x Frederick the Weak    2  pre                              Brujah antitribu:2
+1x Angela Decker         1  pre                              Pander:2
+1x Feo Ramos             1  aus                              Pander:3
+1x Huang, Blood Cultist  1  pro                              Pander:2
+1x March Halcyon         1  for                              Pander:2
+1x Royce                 1  dom                              Pander:2
 
 Library (90 cards)
 Master (1)

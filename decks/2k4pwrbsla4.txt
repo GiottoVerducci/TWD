@@ -7,15 +7,15 @@ David Tatu
 
 Deck Name: Maris Streck - Prince with Animalism version
 
-Crypt (12 cards, min=26 max=37 avg=8.17)
-----------------------------------------
-5x Maris Streck         9   AUS OBF ani dem dom  justicar  Malkavian:3
-2x Nikolaus Vermeulen   7   POT ani for obf      prince    Nosferatu:2
-1x Rachel Brandywine    10  AUS DEM OBF PRO ani  prince    Malkavian:3
-1x Casino Reeds         9   ANI OBF POT cel dem  prince    Nosferatu:3
-1x Anastasz di Zagreb   8   AUS THA ani cel dom  justicar  Tremere:3
-1x Ira Rivers           7   AUS CEL ani pre      prince    Toreador:3
-1x Calebros, The Martyr 5   ANI obf pot          prince    Nosferatu:2
+Crypt (12 cards, min=26, max=37, avg=8.17)
+------------------------------------------
+5x Maris Streck           9  AUS OBF ani dem dom  justicar  Malkavian:3
+2x Nikolaus Vermeulen     7  POT ani for obf      prince    Nosferatu:2
+1x Rachel Brandywine     10  AUS DEM OBF PRO ani  prince    Malkavian:3
+1x Casino Reeds           9  ANI OBF POT cel dem  prince    Nosferatu:3
+1x Anastasz di Zagreb     8  AUS THA ani cel dom  justicar  Tremere:3
+1x Ira Rivers             7  AUS CEL ani pre      prince    Toreador:3
+1x Calebros, The Martyr   5  ANI obf pot          prince    Nosferatu:2
 
 Library (90 cards)
 Master (15)

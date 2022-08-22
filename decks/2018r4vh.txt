@@ -10,13 +10,13 @@ https://www.vekn.net/event-calendar/event/9069
 
 Deck Name: Anarch Enkidu 1.1
 
-Crypt (12 cards, min=4 max=44 avg=5)
-------------------------------------
-4x Enkidu, The Noah              11  ANI CEL OBF POT PRO for    Gangrel antitribu:4
-4x Anarch Convert                1   -none-                     Caitiff:ANY
-2x Béatrice "Oracle171" Tremblay 3   inn ven                    Innocent:4
-1x Andre LeRoux                  3   aus                        Toreador:5
-1x T.J.                          3   cel for                    Gangrel:4
+Crypt (12 cards, min=4, max=44, avg=5)
+--------------------------------------
+4x Enkidu, The Noah               11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+4x Anarch Convert                  1  -none-                   Caitiff:ANY
+2x Béatrice "Oracle171" Tremblay   3  inn ven                  Innocent:4
+1x Andre LeRoux                    3  aus                      Toreador:5
+1x T.J.                            3  cel for                  Gangrel:4
 
 Library (90 cards)
 Master (18; 8 trifle)

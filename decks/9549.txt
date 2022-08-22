@@ -9,17 +9,17 @@ https://www.vekn.net/event-calendar/event/9549
 Deck Name: Fifth Edition: Malkavian
 Author: Black Chantry Productions
 
-Crypt (12 cards, min=14 max=28 avg=5.42)
-----------------------------------------
-2x Alexander Silverson  8   AUS DOM OBF pre     prince  Malkavian:6
-2x Andi Liu             6   DOM aus obf pre     prince  Malkavian:6
-2x Donny Kowalczyk      6   AUS cel dom obf     prince  Malkavian:6
-1x Gelasia Fotiou       6   AUS DOM obf pre             Malkavian:6
-1x Colette              5   AUS OBF dom                 Malkavian:6
-1x Dr. Stephen Norton   4   OBF aus                     Malkavian:6
-1x Sully                4   aus dom obf                 Malkavian:6
-1x Ashley               3   dom obf                     Malkavian:6
-1x Meaghan              3   aus obf                     Malkavian:6
+Crypt (12 cards, min=14, max=28, avg=5.42)
+------------------------------------------
+2x Alexander Silverson  8  AUS DOM OBF pre  prince  Malkavian:6
+2x Andi Liu             6  DOM aus obf pre  prince  Malkavian:6
+2x Donny Kowalczyk      6  AUS cel dom obf  prince  Malkavian:6
+1x Gelasia Fotiou       6  AUS DOM obf pre          Malkavian:6
+1x Colette              5  AUS OBF dom              Malkavian:6
+1x Dr. Stephen Norton   4  OBF aus                  Malkavian:6
+1x Sully                4  aus dom obf              Malkavian:6
+1x Ashley               3  dom obf                  Malkavian:6
+1x Meaghan              3  aus obf                  Malkavian:6
 
 Library (77 cards)
 Master (11; 3 trifle)

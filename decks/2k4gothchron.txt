@@ -10,20 +10,20 @@ Deck Name: Blazing shadows
 description: ordinary pre/obt-vote with some Dominate for
 Govern and Deflection.
 
-Crypt (12 cards, min=23 max=39 avg=8)
--------------------------------------
-1x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-1x Bronwen                                10  CEL POT PRE dom obt       priscus     Brujah antitribu:2
-1x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince      Ventrue:3
-1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
-1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
-1x Tyler                                  9   CEL POT PRE dom for obt   primogen    Brujah:3
-1x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
-1x Jessica (ADV)                          8   AUS CEL OBT PRE           bishop      Toreador antitribu:2
-1x Tobias Smith                           7   DOM OBT PRE pot                       Lasombra:3
-1x Jost Werner                            6   AUS PRE ani                           Toreador antitribu:2
-1x Sela                                   6   POT PRE cel obt           bishop      Brujah antitribu:2
-1x Michael Luther                         4   aus pre                               Toreador:3
+Crypt (12 cards, min=23, max=39, avg=8)
+---------------------------------------
+1x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+1x Bronwen                                 10  CEL POT PRE dom obt      priscus     Brujah antitribu:2
+1x Marcus Vitel                            10  DOM FOR OBF OBT PRE      prince      Ventrue:3
+1x Alvaro, The Scion of Angelica            9  OBT POT dom pre          archbishop  Lasombra:2
+1x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+1x Tyler                                    9  CEL POT PRE dom for obt  primogen    Brujah:3
+1x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+1x Jessica (ADV)                            8  AUS CEL OBT PRE          bishop      Toreador antitribu:2
+1x Tobias Smith                             7  DOM OBT PRE pot                      Lasombra:3
+1x Jost Werner                              6  AUS PRE ani                          Toreador antitribu:2
+1x Sela                                     6  POT PRE cel obt          bishop      Brujah antitribu:2
+1x Michael Luther                           4  aus pre                              Toreador:3
 
 Library (90 cards)
 Master (21)

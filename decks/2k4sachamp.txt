@@ -10,18 +10,18 @@ So Itamar Jr., Prince of Rio, is the new South American Champion -
 with a Temptation deck! Kinda unusual, considering the lack of bounce,
 large cript size and moderate poolgain. See for yourselves:
 
-Crypt (12 cards, min=24 max=34 avg=7.42)
-----------------------------------------
-2x Intisar                              8   OBF PRE SER cel pot                  Follower of Set:2
-2x Synesios                             8   POT PRE TEM obf ser         2 votes  True Brujah:2
-1x Nehsi                                10  OBF PRE PRO SER aus for     2 votes  Follower of Set:2
-1x Amisa                                8   OBF SER pre pro             2 votes  Follower of Set:2
-1x Kephamos, High Priest of Marrakech   8   SER dom obf pre             2 votes  Follower of Set:2
-1x Danny Larkshill                      7   PRE SER obf obt pot                  Follower of Set:2
-1x Qufur am-Heru                        7   OBF PRE SER cel tha                  Follower of Set:2
-1x Sarrasine                            7   OBF PRE aus nec ser                  Follower of Set:2
-1x Hesha Ruhadze                        6   SER ani obf pre                      Follower of Set:2
-1x Nepata                               4   obf pre ser                          Follower of Set:2
+Crypt (12 cards, min=24, max=34, avg=7.42)
+------------------------------------------
+2x Intisar                              8  OBF PRE SER cel pot               Follower of Set:2
+2x Synesios                             8  POT PRE TEM obf ser      2 votes  True Brujah:2
+1x Nehsi                               10  OBF PRE PRO SER aus for  2 votes  Follower of Set:2
+1x Amisa                                8  OBF SER pre pro          2 votes  Follower of Set:2
+1x Kephamos, High Priest of Marrakech   8  SER dom obf pre          2 votes  Follower of Set:2
+1x Danny Larkshill                      7  PRE SER obf obt pot               Follower of Set:2
+1x Qufur am-Heru                        7  OBF PRE SER cel tha               Follower of Set:2
+1x Sarrasine                            7  OBF PRE aus nec ser               Follower of Set:2
+1x Hesha Ruhadze                        6  SER ani obf pre                   Follower of Set:2
+1x Nepata                               4  obf pre ser                       Follower of Set:2
 
 Library (88 cards)
 Master (20)

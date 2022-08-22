@@ -9,16 +9,16 @@ Deck Name: Edgeplay with Mallenhous
 
 Wanted to see if/when cardinal sin: Insubordination would be good and settled for a grinder with backup from under siege. Final insubordination count was two discarded and two torporing howler.
 
-Crypt (12 cards, min=17 max=32 avg=6.33)
-----------------------------------------
-4x Gustav Mallenhous        8   AUS DOM for obt         priscus     Ventrue antitribu:2
-2x Blackhorse Tanner        7   AUS DOM FOR                         Ventrue antitribu:3
-1x Ladislas Toth, The Torch 7   AUS DOM THA for         archbishop  Tremere antitribu:3
-1x Marlene, The Infernalist 6   AUS DOM dem for tha                 Ventrue antitribu:2
-1x Billy                    5   AUS dom for                         Ventrue antitribu:2
-1x Ingrid Russo             4   DOM for                             Ventrue antitribu:2
-1x Katherine Stoddard       4   dom for                             Ventrue antitribu:3
-1x Peter Blaine             4   aus dom for                         Ventrue antitribu:2
+Crypt (12 cards, min=17, max=32, avg=6.33)
+------------------------------------------
+4x Gustav Mallenhous         8  AUS DOM for obt      priscus     Ventrue antitribu:2
+2x Blackhorse Tanner         7  AUS DOM FOR                      Ventrue antitribu:3
+1x Ladislas Toth, The Torch  7  AUS DOM THA for      archbishop  Tremere antitribu:3
+1x Marlene, The Infernalist  6  AUS DOM dem for tha              Ventrue antitribu:2
+1x Billy                     5  AUS dom for                      Ventrue antitribu:2
+1x Ingrid Russo              4  DOM for                          Ventrue antitribu:2
+1x Katherine Stoddard        4  dom for                          Ventrue antitribu:3
+1x Peter Blaine              4  aus dom for                      Ventrue antitribu:2
 
 Library (76 cards)
 Master (9; 2 trifle)

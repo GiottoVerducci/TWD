@@ -11,14 +11,14 @@ https://www.vekn.net/event-calendar/event/9008
 Deck Name: Nanarch Animalism
 Created by: Aapo Järvelin
 
-Crypt (12 cards, min=4 max=32 avg=4.08)
----------------------------------------
-4x Nana Buruku    8   ANI POT PRE  Guruhi:4
-4x Anarch Convert 1   -none-       Caitiff:ANY
-1x Beetleman      4   ANI obf      Nosferatu:4
-1x Bobby Lemon    4   ANI pro      Gangrel:3
-1x Stick          3   ANI          Nosferatu antitribu:4
-1x Mouse          2   ani          Nosferatu:3
+Crypt (12 cards, min=4, max=32, avg=4.08)
+-----------------------------------------
+4x Nana Buruku     8  ANI POT PRE  Guruhi:4
+4x Anarch Convert  1  -none-       Caitiff:ANY
+1x Beetleman       4  ANI obf      Nosferatu:4
+1x Bobby Lemon     4  ANI pro      Gangrel:3
+1x Stick           3  ANI          Nosferatu antitribu:4
+1x Mouse           2  ani          Nosferatu:3
 
 Library (90 cards)
 Master (29; 5 trifle)

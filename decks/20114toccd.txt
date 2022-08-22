@@ -7,12 +7,12 @@ Martin Randers
 
 Deck Name: For lækker
 
-Crypt (12 cards, min=32 max=43 avg=9.42)
-----------------------------------------
-5x Anson           8   CEL PRE aus dom          prince          Toreador:1
-3x Alexandra       11  ANI AUS CEL PRE dom      inner circle    Toreador:2
-2x Anneke          10  AUS CEL PRE dom          justicar        Toreador:1
-2x François Villon 10  AUS CEL PRE chi obf pot  prince          Toreador:2
+Crypt (12 cards, min=32, max=43, avg=9.42)
+------------------------------------------
+5x Anson             8  CEL PRE aus dom          prince        Toreador:1
+3x Alexandra        11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+2x Anneke           10  AUS CEL PRE dom          justicar      Toreador:1
+2x François Villon  10  AUS CEL PRE chi obf pot  prince        Toreador:2
 
 Library (90 cards)
 Master (27; 6 trifle)

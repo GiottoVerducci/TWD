@@ -8,15 +8,15 @@ Tiago Rodrigues
 Deck Name: It is clever, but does it win?
 Created by: Nuno Moure
 
-Crypt (12 cards, min=20 max=30 avg=6.17)
-----------------------------------------
-3x Jost Werner                      6   AUS PRE ani                Toreador antitribu:2
-2x Rebekka, Chantry Elder of Munich 8   AUS PRE THA pot            Tremere:2
-2x Sheila Mezarin                   6   AUS PRE cel for            Toreador antitribu:2
-2x Remilliard, Devout Crusader      4   AUS pre                    Toreador antitribu:2
-1x Greta Kircher                    7   AUS CEL PRE obf            Toreador antitribu:2
-1x Lucina                           7   AUS PRE cel pro  primogen  Toreador:3
-1x Antoinette, She Who Watches      6   AUS PRE cel obf  primogen  Toreador:3
+Crypt (12 cards, min=20, max=30, avg=6.17)
+------------------------------------------
+3x Jost Werner                       6  AUS PRE ani                Toreador antitribu:2
+2x Rebekka, Chantry Elder of Munich  8  AUS PRE THA pot            Tremere:2
+2x Sheila Mezarin                    6  AUS PRE cel for            Toreador antitribu:2
+2x Remilliard, Devout Crusader       4  AUS pre                    Toreador antitribu:2
+1x Greta Kircher                     7  AUS CEL PRE obf            Toreador antitribu:2
+1x Lucina                            7  AUS PRE cel pro  primogen  Toreador:3
+1x Antoinette, She Who Watches       6  AUS PRE cel obf  primogen  Toreador:3
 
 Library (86 cards)
 Master (18; 2 trifle)

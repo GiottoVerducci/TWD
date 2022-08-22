@@ -12,14 +12,14 @@ I got the idea from a Johannes' deck he played in Last Chance of
 French Championship 2007 in Paris. I loved the idea but I thought at
 that time the deck needed some things to make it works well.
 
-Crypt (12 cards, min=23 max=34 avg=7.08)
-----------------------------------------
-4x Mata Hari        7   CHI OBF aus for qui     2 votes   Ravnos:4
-3x Maris Streck     9   AUS OBF ani dem dom     justicar  Malkavian:3
-2x Quentin King III 7   AUS DEM obf pre         prince    Malkavian:3
-1x Mukhtar Bey      7   FOR PRE QUI obf pot     prince    Caitiff:4
-1x Victor Pelletier 5   PRE cel dom for                   Ventrue:4
-1x Guedado          4   aus obf vic                       Tzimisce:4
+Crypt (12 cards, min=23, max=34, avg=7.08)
+------------------------------------------
+4x Mata Hari         7  CHI OBF aus for qui  2 votes   Ravnos:4
+3x Maris Streck      9  AUS OBF ani dem dom  justicar  Malkavian:3
+2x Quentin King III  7  AUS DEM obf pre      prince    Malkavian:3
+1x Mukhtar Bey       7  FOR PRE QUI obf pot  prince    Caitiff:4
+1x Victor Pelletier  5  PRE cel dom for                Ventrue:4
+1x Guedado           4  aus obf vic                    Tzimisce:4
 
 Library (80 cards)
 Master (18)

@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/8316
 
 Deck Name: Alastor
 
-Crypt (12 cards, min=31 max=44 avg=9.75)
-----------------------------------------
-4x Jaroslav Pascek      10  CEL POT PRE for obf         justicar        Brujah:3
-3x Rafael de Corazon    11  AUS CEL DOM OBF PRE         inner circle    Toreador:4
-2x Adana de Sforza      11  CEL OBF POT PRE PRO aus     inner circle    Brujah:4
-1x Hardestadt           11  DOM FOR POT PRE cel pro     inner circle    Ventrue:4
-1x Joaquin Murietta     9   AUS CEL obf pre qui                         Toreador:3
-1x Sean Andrews         2   cel                                         Toreador:4
+Crypt (12 cards, min=31, max=44, avg=9.75)
+------------------------------------------
+4x Jaroslav Pascek    10  CEL POT PRE for obf      justicar      Brujah:3
+3x Rafael de Corazon  11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+2x Adana de Sforza    11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Hardestadt         11  DOM FOR POT PRE cel pro  inner circle  Ventrue:4
+1x Joaquin Murietta    9  AUS CEL obf pre qui                    Toreador:3
+1x Sean Andrews        2  cel                                    Toreador:4
 
 Library (90 cards)
 Master (18; 5 trifle)

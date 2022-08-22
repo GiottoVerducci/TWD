@@ -9,20 +9,20 @@ https://groups.google.com/g/rec.games.trading-cards.jyhad/c/mA0ePomoOSY
 
 Deck Name: Weenie Animalsim
 
-Crypt (12 cards, min=7 max=23 avg=4)
-------------------------------------
-1x Caitlin              6   ANI PRO aus dom     bishop  Gangrel antitribu:2
-1x Luther               6   ANI for obt pro             Gangrel antitribu:2
-1x Sarisha Veliku       6   ANI FOR chi dom             Ravnos:2
-1x Bear Paw             5   ANI for pre pro             Gangrel:1
-1x Devin Bisley         5   ANI AUS vic                 Tzimisce:2
-1x Nigel the Shunned    5   ANI POT obf                 Nosferatu antitribu:2
-1x Laurent de Valois    4   ani dom obf                 Nosferatu:2
-1x Shane Grimald        4   ani dom pot                 Gangrel antitribu:2
-1x Dani                 2   ani                         Nosferatu antitribu:2
-1x Gillian Krader       2   ani dem                     Pander:2
-1x Vliam Andor          2   ani                         Gangrel:1
-1x Navar McClaren       1   ani                         Caitiff:1
+Crypt (12 cards, min=7, max=23, avg=4)
+--------------------------------------
+1x Caitlin            6  ANI PRO aus dom  bishop  Gangrel antitribu:2
+1x Luther             6  ANI for obt pro          Gangrel antitribu:2
+1x Sarisha Veliku     6  ANI FOR chi dom          Ravnos:2
+1x Bear Paw           5  ANI for pre pro          Gangrel:1
+1x Devin Bisley       5  ANI AUS vic              Tzimisce:2
+1x Nigel the Shunned  5  ANI POT obf              Nosferatu antitribu:2
+1x Laurent de Valois  4  ani dom obf              Nosferatu:2
+1x Shane Grimald      4  ani dom pot              Gangrel antitribu:2
+1x Dani               2  ani                      Nosferatu antitribu:2
+1x Gillian Krader     2  ani dem                  Pander:2
+1x Vliam Andor        2  ani                      Gangrel:1
+1x Navar McClaren     1  ani                      Caitiff:1
 
 Library (90 cards)
 Master (16)

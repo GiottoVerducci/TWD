@@ -10,18 +10,18 @@ https://www.vekn.net/event-calendar/event/8684
 
 Deck Name: Setitas de Mumias
 
-Crypt (12 cards, min=29 max=43 avg=9.17)
-----------------------------------------
-3x Sutekh, The Dark God                         11  NEC OBF PRE SER cel pot     2 votes  Follower of Set:2
-1x Sarrasine (ADV)                              8   OBF PRE SER aus nec         prince   Follower of Set:2
-1x Sarrasine                                    7   OBF PRE aus nec ser                  Follower of Set:2
-1x Kemintiri                                    10  OBF PRE SER THA aus dom              Follower of Set:2
-1x Nefertiti                                    10  DOM OBF PRE SER cel pot              Follower of Set:2
-1x Nehsi                                        10  OBF PRE PRO SER aus for     2 votes  Follower of Set:2
-1x Kahina the Sorceress                         9   AUS DOM OBF SER nec pre     1 vote   Follower of Set:3
-1x Khay'tall, Snake of Eden                     9   DOM OBF PRE SER aus                  Follower of Set:2
-1x Saqqaf, Keeper of the Grand Temple of Set    9   OBF PRE SER cel for                  Follower of Set:2
-1x Dedefra                                      5   SER nec obf                          Follower of Set:2
+Crypt (12 cards, min=29, max=43, avg=9.17)
+------------------------------------------
+3x Sutekh, The Dark God                       11  NEC OBF PRE SER cel pot  2 votes  Follower of Set:2
+1x Sarrasine (ADV)                             8  OBF PRE SER aus nec      prince   Follower of Set:2
+1x Sarrasine                                   7  OBF PRE aus nec ser               Follower of Set:2
+1x Kemintiri                                  10  OBF PRE SER THA aus dom           Follower of Set:2
+1x Nefertiti                                  10  DOM OBF PRE SER cel pot           Follower of Set:2
+1x Nehsi                                      10  OBF PRE PRO SER aus for  2 votes  Follower of Set:2
+1x Kahina the Sorceress                        9  AUS DOM OBF SER nec pre  1 vote   Follower of Set:3
+1x Khay'tall, Snake of Eden                    9  DOM OBF PRE SER aus               Follower of Set:2
+1x Saqqaf, Keeper of the Grand Temple of Set   9  OBF PRE SER cel for               Follower of Set:2
+1x Dedefra                                     5  SER nec obf                       Follower of Set:2
 
 Library (90 cards)
 Master (19; 7 trifle)

@@ -6,13 +6,13 @@ James Messer
 
 French Kiss
 
-Crypt (12 cards, min=20 max=39 avg=7.58)
-----------------------------------------
-3x François Villon              10  AUS CEL PRE chi obf pot     prince    Toreador:2
-3x Klaus van der Veken          9   CEL PRE aus obf tha         prince    Toreador:2
-2x Suzanne Kadim                7   CEL PRE aus dom obf                   Toreador:3
-2x Antoinette, She Who Watches  6   AUS PRE cel obf             primogen  Toreador:3
-2x Michael Luther               4   aus pre                               Toreador:3
+Crypt (12 cards, min=20, max=39, avg=7.58)
+------------------------------------------
+3x François Villon              10  AUS CEL PRE chi obf pot  prince    Toreador:2
+3x Klaus van der Veken           9  CEL PRE aus obf tha      prince    Toreador:2
+2x Suzanne Kadim                 7  CEL PRE aus dom obf                Toreador:3
+2x Antoinette, She Who Watches   6  AUS PRE cel obf          primogen  Toreador:3
+2x Michael Luther                4  aus pre                            Toreador:3
 
 Library (90 cards)
 Master (10; 2 trifle)

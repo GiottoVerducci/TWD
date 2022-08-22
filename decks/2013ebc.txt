@@ -10,12 +10,12 @@ Deck Name: Violent Daughters
 Description: Shattering Crescendo, or if you block, combat is bad.
 As played: 2013/04/21 in Berkeley, CA
 
-Crypt (12 cards, min=13 max=32 avg=5.33)
-----------------------------------------
-4x Scout Youngwood 8   MEL OBF PRE for qui  2 votes     Daughter of Cacophony:6
-3x Hillanvale      5   FOR MEL obf                      Daughter of Cacophony:6
-3x Janet Langer    3   MEL pre                          Daughter of Cacophony:5
-2x Harlan Graves   4   FOR mel pre                      Daughter of Cacophony:6
+Crypt (12 cards, min=13, max=32, avg=5.33)
+------------------------------------------
+4x Scout Youngwood  8  MEL OBF PRE for qui  2 votes  Daughter of Cacophony:6
+3x Hillanvale       5  FOR MEL obf                   Daughter of Cacophony:6
+3x Janet Langer     3  MEL pre                       Daughter of Cacophony:5
+2x Harlan Graves    4  FOR mel pre                   Daughter of Cacophony:6
 
 Library (76 cards)
 Master (19; 6 trifle)

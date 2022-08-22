@@ -9,18 +9,18 @@ Deck Name: Mais où vas-tu, mon gros Lulu ?
 
 Description: You shall not pass
 
-Crypt (16 cards, min=4 max=18 avg=2.63)
----------------------------------------
-5x Anarch Convert               1   -none-       Caitiff:ANY
-2x Victoria                     5   AUS cel obf  Malkavian:2
-2x Zöe                          3   AUS cel obf  Malkavian:2
-1x Aleph                        4   AUS dom      Malkavian:1
-1x Dorian Strack                4   AUS cel      Toreador:1
-1x Remilliard, Devout Crusader  4   AUS pre      Toreador antitribu:2
-1x Dollface                     3   aus obf      Malkavian:1
-1x Isabel de Leon               3   AUS          Toreador:2
-1x Brazil                       2   aus          Malkavian:1
-1x Franciscus                   1   aus          Caitiff:2
+Crypt (16 cards, min=4, max=18, avg=2.63)
+-----------------------------------------
+5x Anarch Convert               1  -none-       Caitiff:ANY
+2x Victoria                     5  AUS cel obf  Malkavian:2
+2x Zöe                          3  AUS cel obf  Malkavian:2
+1x Aleph                        4  AUS dom      Malkavian:1
+1x Dorian Strack                4  AUS cel      Toreador:1
+1x Remilliard, Devout Crusader  4  AUS pre      Toreador antitribu:2
+1x Dollface                     3  aus obf      Malkavian:1
+1x Isabel de Leon               3  AUS          Toreador:2
+1x Brazil                       2  aus          Malkavian:1
+1x Franciscus                   1  aus          Caitiff:2
 
 Library (81 cards)
 Master (21; 4 trifle)

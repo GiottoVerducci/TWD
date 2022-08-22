@@ -12,13 +12,13 @@ to be able to afford recruitment of allies and more vampires.
 Blessing of the Beast is very strong and with it the deck flows
 extremely well. Not a lot of Mastercards to avoid masterjam.
 
-Crypt (12 cards, min=20 max=32 avg=6.58)
-----------------------------------------
-4x Howler           8   ANI PRE SPI obf         Ahrimane:2
-3x Siamese, The     7   PRE SPI ani pro         Ahrimane:2
-2x Cynthia Ingold   6   SPI ani for pre         Ahrimane:2
-2x Nettie Hale      5   ani cel pre pro spi     Ahrimane:2
-1x Juanita Santiago 4   ani pre spi             Ahrimane:2
+Crypt (12 cards, min=20, max=32, avg=6.58)
+------------------------------------------
+4x Howler            8  ANI PRE SPI obf      Ahrimane:2
+3x Siamese, The      7  PRE SPI ani pro      Ahrimane:2
+2x Cynthia Ingold    6  SPI ani for pre      Ahrimane:2
+2x Nettie Hale       5  ani cel pre pro spi  Ahrimane:2
+1x Juanita Santiago  4  ani pre spi          Ahrimane:2
 
 Library (90 cards)
 Master (13; 8 trifle)

@@ -8,20 +8,20 @@ Deck Name: Weenie Obfuscate S&B Deck
 
 Description: Vermin Channels and Dominate are key to this deck.
 
-Crypt (12 cards, min=8 max=18 avg=3.08)
----------------------------------------
-1x Frank Litzpar        5   OBF ani for pot     Nosferatu antitribu:4
-1x Skidmark             5   FOR OBF aus pot     Nosferatu antitribu:4
-1x Aaron Bathurst       4   for obf pot         Nosferatu antitribu:4
-1x Tock                 4   obf pot pre         Nosferatu antitribu:3
-1x Blister              3   obf pot             Nosferatu antitribu:4
-1x Clarissa Steinburgen 3   ani obf             Nosferatu:3
-1x Foureyes             3   obf pot             Nosferatu:4
-1x Bloodfeud            2   obf                 Malkavian antitribu:4
-1x Denette Stensen      2   obf                 Gangrel antitribu:4
-1x Hanna Redmonds       2   obf tha             Caitiff:3
-1x Krid                 2   obf                 Nosferatu:3
-1x Old Neddacka         2   obf                 Nosferatu antitribu:4
+Crypt (12 cards, min=8, max=18, avg=3.08)
+-----------------------------------------
+1x Frank Litzpar         5  OBF ani for pot  Nosferatu antitribu:4
+1x Skidmark              5  FOR OBF aus pot  Nosferatu antitribu:4
+1x Aaron Bathurst        4  for obf pot      Nosferatu antitribu:4
+1x Tock                  4  obf pot pre      Nosferatu antitribu:3
+1x Blister               3  obf pot          Nosferatu antitribu:4
+1x Clarissa Steinburgen  3  ani obf          Nosferatu:3
+1x Foureyes              3  obf pot          Nosferatu:4
+1x Bloodfeud             2  obf              Malkavian antitribu:4
+1x Denette Stensen       2  obf              Gangrel antitribu:4
+1x Hanna Redmonds        2  obf tha          Caitiff:3
+1x Krid                  2  obf              Nosferatu:3
+1x Old Neddacka          2  obf              Nosferatu antitribu:4
 
 Library (90 cards)
 Master (14)

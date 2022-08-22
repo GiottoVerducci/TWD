@@ -7,13 +7,13 @@ Simone Longobardi
 
 Deck Name: Assamite Dementia
 
-Crypt (12 cards, min=18 max=40 avg=7.5)
----------------------------------------
-4x Thucimia        10  CEL DEM OBF QUI for pro  1 vote  Assamite:4
-4x Luc             5   OBF dem vic                      Malkavian antitribu:4
-2x Nizzam al-Latif 9   ANI CEL OBF QUI dem              Assamite:5
-1x Santaleous      9   AUS CEL DEM OBF                  Malkavian:5
-1x Jackie          3   DEM                              Malkavian antitribu:4
+Crypt (12 cards, min=18, max=40, avg=7.5)
+-----------------------------------------
+4x Thucimia         10  CEL DEM OBF QUI for pro  1 vote  Assamite:4
+4x Luc               5  OBF dem vic                      Malkavian antitribu:4
+2x Nizzam al-Latif   9  ANI CEL OBF QUI dem              Assamite:5
+1x Santaleous        9  AUS CEL DEM OBF                  Malkavian:5
+1x Jackie            3  DEM                              Malkavian antitribu:4
 
 Library (90 cards)
 Master (16; 5 trifle)

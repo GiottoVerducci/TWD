@@ -6,14 +6,14 @@ Sergio Trentin Jr.
 
 The deck: Alastores Pipoqueiros (brazilian slang for Gunner Alastors)
 
-Crypt (12 cards, min=20 max=44 avg=8.33)
-----------------------------------------
-4x Alexandra               11  ANI AUS CEL PRE dom      inner circle    Toreador:2
-2x Madame Guil             10  AUS CEL PRE for pot ser  justicar        Toreador:3
-2x Marcellus               8   AUS CEL pro              prince          Toreador:2
-2x Ira Rivers              7   AUS CEL ani pre          prince          Toreador:3
-1x Michael Luther          4   aus pre                                  Toreador:3
-1x Emerson Wilkershire III 2   pre                                      Toreador:3
+Crypt (12 cards, min=20, max=44, avg=8.33)
+------------------------------------------
+4x Alexandra                11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+2x Madame Guil              10  AUS CEL PRE for pot ser  justicar      Toreador:3
+2x Marcellus                 8  AUS CEL pro              prince        Toreador:2
+2x Ira Rivers                7  AUS CEL ani pre          prince        Toreador:3
+1x Michael Luther            4  aus pre                                Toreador:3
+1x Emerson Wilkershire III   2  pre                                    Toreador:3
 
 Library (90 cards)
 Master (17)

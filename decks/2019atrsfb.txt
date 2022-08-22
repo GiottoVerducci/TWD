@@ -12,13 +12,13 @@ Deck Name: The Capuchin
 
 Description: The truth is out there (x-files)
 
-Crypt (12 cards, min=9 max=44 avg=7.25)
----------------------------------------
-5x Capuchin, The        11  AUS DOM FOR NEC THA THN     Harbinger of Skulls:5
-3x Anarch Convert       1   -none-                      Caitiff:ANY
-2x Mordechai Ben-Nun    8   ANI AUS FOR NEC             Harbinger of Skulls:5
-1x Anu Diptinatpa       7   DOM NEC aus vic             Nagaraja:6
-1x Hecate               6   AUS FOR NEC                 Harbinger of Skulls:5
+Crypt (12 cards, min=9, max=44, avg=7.25)
+-----------------------------------------
+5x Capuchin, The      11  AUS DOM FOR NEC THA THN  Harbinger of Skulls:5
+3x Anarch Convert      1  -none-                   Caitiff:ANY
+2x Mordechai Ben-Nun   8  ANI AUS FOR NEC          Harbinger of Skulls:5
+1x Anu Diptinatpa      7  DOM NEC aus vic          Nagaraja:6
+1x Hecate              6  AUS FOR NEC              Harbinger of Skulls:5
 
 Library (90 cards)
 Master (16; 5 trifle)

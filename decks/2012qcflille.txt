@@ -10,13 +10,13 @@ Created by: Genuine deck from Stone, Jerôme Vandeplasse tweaked it a little,
 
 and Fred won with it (again)
 
-Crypt (12 cards, min=26 max=32 avg=7.25)
-----------------------------------------
-3x Dónal O'Connor                       8   CEL DOM POT         prince  Brujah:2
-3x Beast, The Leatherface of Detroit    7   OBF POT ani cel             Nosferatu antitribu:2
-3x Theo Bell                            7   POT cel dom pre             Brujah:2
-2x Constanza Vinti                      8   CEL DOM POT         prince  Brujah:2
-1x Volker, The Puppet Prince            5   CEL pot             prince  Brujah:2
+Crypt (12 cards, min=26, max=32, avg=7.25)
+------------------------------------------
+3x Dónal O'Connor                     8  CEL DOM POT      prince  Brujah:2
+3x Beast, The Leatherface of Detroit  7  OBF POT ani cel          Nosferatu antitribu:2
+3x Theo Bell                          7  POT cel dom pre          Brujah:2
+2x Constanza Vinti                    8  CEL DOM POT      prince  Brujah:2
+1x Volker, The Puppet Prince          5  CEL pot          prince  Brujah:2
 
 Library (90 cards)
 Master (13; 1 trifle)

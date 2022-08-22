@@ -7,12 +7,12 @@ Will Kristoff
 Title: Four Skills of Fury
 Big Nos with Dominate also bring their usual bag of tricks to the party.
 
-Crypt (12 cards, min=26 max=40 avg=8.5)
----------------------------------------
-3x Alonso Petrodon        10  ANI DOM OBF POT for tha   justicar  Nosferatu:5
-3x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf             Nosferatu antitribu:4
-3x Gustaphe Brunnelle     8   ANI DOM POT obf           primogen  Nosferatu:4
-3x Harold Tanner          6   POT ani dom obf                     Nosferatu:4
+Crypt (12 cards, min=26, max=40, avg=8.5)
+-----------------------------------------
+3x Alonso Petrodon         10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
+3x Servius Marius Pustula  10  ANI CHI DOM OBT POT obf            Nosferatu antitribu:4
+3x Gustaphe Brunnelle       8  ANI DOM POT obf          primogen  Nosferatu:4
+3x Harold Tanner            6  POT ani dom obf                    Nosferatu:4
 
 Library (90 cards)
 Master (15; 2 trifle)

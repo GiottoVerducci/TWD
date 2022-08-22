@@ -17,15 +17,15 @@ and rushes. I would only try to add following things, another
 Monster, a Golconda, an additional Taste of Vitae. Dragonbound
 could be an option, who knows?!?
 
-Crypt (12 cards, min=27 max=36 avg=7.92)
-----------------------------------------
-4x Nana Buruku          8   ANI POT PRE                         Guruhi:4
-3x Nangila Were         9   ANI POT PRE obf ser                 Guruhi:4
-1x Ellison Humboldt     9   ANI OBF POT PRE pro  primogen       Nosferatu:3
-1x Gustaphe Brunnelle   8   ANI DOM POT obf      primogen       Nosferatu:4
-1x Lukas                8   ANI OBF POT pre ser  archbishop     Nosferatu antitribu:4
-1x Sundown              6   ANI POT obf pre                     Nosferatu:3
-1x Fish                 5   ANI POT pre                         Guruhi:4
+Crypt (12 cards, min=27, max=36, avg=7.92)
+------------------------------------------
+4x Nana Buruku         8  ANI POT PRE                      Guruhi:4
+3x Nangila Were        9  ANI POT PRE obf ser              Guruhi:4
+1x Ellison Humboldt    9  ANI OBF POT PRE pro  primogen    Nosferatu:3
+1x Gustaphe Brunnelle  8  ANI DOM POT obf      primogen    Nosferatu:4
+1x Lukas               8  ANI OBF POT pre ser  archbishop  Nosferatu antitribu:4
+1x Sundown             6  ANI POT obf pre                  Nosferatu:3
+1x Fish                5  ANI POT pre                      Guruhi:4
 
 Library (90 cards)
 Master (31; 4 trifle)

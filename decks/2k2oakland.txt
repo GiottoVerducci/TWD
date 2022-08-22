@@ -6,16 +6,16 @@ Ian Lee
 
 Baali of the Name 1.1
 
-Crypt (12 cards, min=13 max=30 avg=5.75)
-----------------------------------------
-2x High Priest Angra Mainyu 8   DAI OBF PRE dem ser     Baali:2
-2x Giotto Verducci          7   DAI OBF for pot pre     Baali:2
-2x Mary the Black           7   DAI PRE cel obf pot     Baali:2
-2x Hesha Ruhadze            6   SER ani obf pre         Follower of Set:2
-1x Thomas Steed, The Angry  4   ani aus val             Salubri antitribu:2
-1x Wolf Valentine           4   VAL for                 Salubri antitribu:2
-1x Kervos, The Lieutenant   3   aus val                 Salubri antitribu:2
-1x Doris McMillon           2   val                     Salubri antitribu:2
+Crypt (12 cards, min=13, max=30, avg=5.75)
+------------------------------------------
+2x High Priest Angra Mainyu  8  DAI OBF PRE dem ser  Baali:2
+2x Giotto Verducci           7  DAI OBF for pot pre  Baali:2
+2x Mary the Black            7  DAI PRE cel obf pot  Baali:2
+2x Hesha Ruhadze             6  SER ani obf pre      Follower of Set:2
+1x Thomas Steed, The Angry   4  ani aus val          Salubri antitribu:2
+1x Wolf Valentine            4  VAL for              Salubri antitribu:2
+1x Kervos, The Lieutenant    3  aus val              Salubri antitribu:2
+1x Doris McMillon            2  val                  Salubri antitribu:2
 
 Library (90 cards)
 Master (17)

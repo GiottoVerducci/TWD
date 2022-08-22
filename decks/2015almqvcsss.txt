@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/8027
 
 Deck Name: Paella Black Hand (Abrazo's Pagüer)
 
-Crypt (12 cards, min=12 max=28 avg=5.17)
-----------------------------------------
-4x Gerald FitzGerald      7   AUS DOM THA          Tremere antitribu:5
-1x Dominique Santo Paulo  6   AUS CEL pot pre      Toreador antitribu:4
-1x Redbone McCray         6   AUS PRE cel pro      Toreador antitribu:4
-1x Amber                  5   AUS PRE cel          Toreador antitribu:5
-1x Gabriel de Cambrai     5   aus cel dem obf pre  Toreador antitribu:4
-1x Loonar                 4   PRE cel              Toreador antitribu:4
-1x Jonathan Gursel        3   aus pre              Toreador antitribu:4
-1x Monique Kim            3   aus cel              Toreador antitribu:4
-1x Justine Chen, Innocent 2   pre                  Toreador antitribu:4
+Crypt (12 cards, min=12, max=28, avg=5.17)
+------------------------------------------
+4x Gerald FitzGerald       7  AUS DOM THA          Tremere antitribu:5
+1x Dominique Santo Paulo   6  AUS CEL pot pre      Toreador antitribu:4
+1x Redbone McCray          6  AUS PRE cel pro      Toreador antitribu:4
+1x Amber                   5  AUS PRE cel          Toreador antitribu:5
+1x Gabriel de Cambrai      5  aus cel dem obf pre  Toreador antitribu:4
+1x Loonar                  4  PRE cel              Toreador antitribu:4
+1x Jonathan Gursel         3  aus pre              Toreador antitribu:4
+1x Monique Kim             3  aus cel              Toreador antitribu:4
+1x Justine Chen, Innocent  2  pre                  Toreador antitribu:4
 
 Library (78 cards)
 Master (16; 2 trifle)

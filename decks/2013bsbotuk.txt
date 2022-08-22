@@ -12,13 +12,13 @@ Deck Name: Anglicisation of Randy Rudstam
 Description: Copied Randy's super quick lutz/unmada deck - made fit
 for Mukhtar and a UK environment (look some combat defence) 2, 4GW, 2.5GW
 
-Crypt (14 cards, min=28 max=43 avg=8.86)
-----------------------------------------
-5x Mukhtar Bey           7   FOR PRE QUI obf pot        prince          Caitiff:4
-3x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-3x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
-2x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
-1x Undele                9   CEL FOR obf pre ser        magaji          Ishtarri:5
+Crypt (14 cards, min=28, max=43, avg=8.86)
+------------------------------------------
+5x Mukhtar Bey             7  FOR PRE QUI obf pot      prince        Caitiff:4
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+3x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+2x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
+1x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
 
 Library (80 cards)
 Master (34; 7 trifle)

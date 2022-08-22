@@ -18,13 +18,13 @@ Adana is the real star of the deck because she has everything needed. You must b
 // Aksinya helps surviving bleed decks and cycles the extra Zillah's Valley or Wider View you may draw. André is very nice when you can't afford another high-cap vampire,
 // or if you can afford him in extra, and a 10 hand size (with the Monastery) is awesome.
 
-Crypt (12 cards, min=33 max=44 avg=9.92)
-----------------------------------------
-4x Adana de Sforza       11  CEL OBF POT PRE PRO aus    inner circle    Brujah:4
-3x Hardestadt            11  DOM FOR POT PRE cel pro    inner circle    Ventrue:4
-3x Aksinya Daclau        9   ANI FOR PRE PRO cel tha                    Gangrel antitribu:4
-1x Malabranca            9   AUS CEL PRE PRO obf        archbishop      Toreador antitribu:4
-1x André the Manipulator 6   FOR PRO                                    Gangrel:5
+Crypt (12 cards, min=33, max=44, avg=9.92)
+------------------------------------------
+4x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+3x Hardestadt             11  DOM FOR POT PRE cel pro  inner circle  Ventrue:4
+3x Aksinya Daclau          9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+1x Malabranca              9  AUS CEL PRE PRO obf      archbishop    Toreador antitribu:4
+1x André the Manipulator   6  FOR PRO                                Gangrel:5
 
 Library (90 cards)
 Master (24; 12 trifle)

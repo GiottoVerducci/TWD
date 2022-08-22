@@ -7,18 +7,18 @@ Peter Oh
 
 Deck Name: The P.O.D. People
 
-Crypt (12 cards, min=18 max=26 avg=5.42)
-----------------------------------------
-2x Henri Lavenant           7   DOM OBT pot qui          Lasombra:3
-2x Banjoko                  5   DOM obt pot              Lasombra:3
-1x Dr. Julius Sutphen       5   POT dom obt      bishop  Lasombra:3
-1x Dr. Julius Sutphen (ADV) 5   POT dom obt              Lasombra:3
-1x Black Wallace            6   DOM POT obt tha          Lasombra:4
-1x Onaedo                   6   DOM OBT aus pot          Lasombra:4
-1x Otieno                   6   OBT POT ani dom          Lasombra:4
-1x Andrew Emory             5   OBT aus dom pot  bishop  Lasombra:4
-1x Ermenegildo, The Rake    5   DOM OBT pot              Lasombra:4
-1x Lucy Markowitz           3   dom obt                  Lasombra:4
+Crypt (12 cards, min=18, max=26, avg=5.42)
+------------------------------------------
+2x Henri Lavenant            7  DOM OBT pot qui          Lasombra:3
+2x Banjoko                   5  DOM obt pot              Lasombra:3
+1x Dr. Julius Sutphen        5  POT dom obt      bishop  Lasombra:3
+1x Dr. Julius Sutphen (ADV)  5  POT dom obt              Lasombra:3
+1x Black Wallace             6  DOM POT obt tha          Lasombra:4
+1x Onaedo                    6  DOM OBT aus pot          Lasombra:4
+1x Otieno                    6  OBT POT ani dom          Lasombra:4
+1x Andrew Emory              5  OBT aus dom pot  bishop  Lasombra:4
+1x Ermenegildo, The Rake     5  DOM OBT pot              Lasombra:4
+1x Lucy Markowitz            3  dom obt                  Lasombra:4
 
 Library (89 cards)
 Master (18; 1 trifle)

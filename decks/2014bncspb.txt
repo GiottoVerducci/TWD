@@ -11,10 +11,10 @@ https://www.vekn.net/event-calendar/event/7461
 Deck Name: TUP DOG
 Created by: Davi e Iorio
 
-Crypt (24 cards, min=4 max=20 avg=1.67)
----------------------------------------
-20x Tupdog              1    POT VIS            Gargoyle:3
-4x  Antonio d'Erlette   5    THA dom for pot    Tremere antitribu:4
+Crypt (24 cards, min=4, max=20, avg=1.67)
+-----------------------------------------
+20x Tupdog             1  POT VIS          Gargoyle:3
+4x  Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
 
 Library (90 cards)
 Master (16; 6 trifle)

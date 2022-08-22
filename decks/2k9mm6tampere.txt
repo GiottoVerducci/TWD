@@ -10,16 +10,16 @@ Description: A manifestation of my love for Petra Resonance. The power
 of the Chain combined with the Black Box lets me get away with things
 like playing a 10-cap with only three levels of useful disciplines.
 
-Crypt (12 cards, min=38 max=43 avg=10.08)
------------------------------------------
-3x Servius Marius Pustula 10  ANI CHI DOM OBT POT obf                   Nosferatu antitribu:4
-2x Esau                   10  AUS DEM DOM OBF PRE                       Malkavian:3
-2x Tryphosa               10  AUS DEM DOM OBF POT       prince          Malkavian:4
-1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot       inner circle    Malkavian:4
-1x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC   inner circle    Tremere:4
-1x Rafael de Corazon      11  AUS CEL DOM OBF PRE       inner circle    Toreador:4
-1x Maris Streck           9   AUS OBF ani dem dom       justicar        Malkavian:3
-1x William Biltmore       9   AUS DEM OBF THA dom                       Malkavian:3
+Crypt (12 cards, min=38, max=43, avg=10.08)
+-------------------------------------------
+3x Servius Marius Pustula  10  ANI CHI DOM OBT POT obf                Nosferatu antitribu:4
+2x Esau                    10  AUS DEM DOM OBF PRE                    Malkavian:3
+2x Tryphosa                10  AUS DEM DOM OBF POT      prince        Malkavian:4
+1x Lutz von Hohenzollern   11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Mistress Fanchon        11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Rafael de Corazon       11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Maris Streck             9  AUS OBF ani dem dom      justicar      Malkavian:3
+1x William Biltmore         9  AUS DEM OBF THA dom                    Malkavian:3
 
 Library (90 cards)
 Master (16)

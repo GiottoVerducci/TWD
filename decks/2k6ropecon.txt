@@ -7,16 +7,16 @@ Teemu Sainomaa
 
 "Masters of the Grand Ball"
 
-Crypt (12 cards, min=15 max=43 avg=7.75)
-----------------------------------------
-3x Alexandra            11  ANI AUS CEL PRE dom         inner circle    Toreador:2
-3x Anson                8   CEL PRE aus dom             prince          Toreador:1
-1x Anneke               10  AUS CEL PRE dom             justicar        Toreador:1
-1x François Villon      10  AUS CEL PRE chi obf pot     prince          Toreador:2
-1x Klaus van der Veken  9   CEL PRE aus obf tha         prince          Toreador:2
-1x Isabel de Leon       3   AUS                                         Toreador:2
-1x Delilah Easton       2   pre                                         Toreador:1
-1x Dieter Kleist        2   aus                                         Toreador:1
+Crypt (12 cards, min=15, max=43, avg=7.75)
+------------------------------------------
+3x Alexandra            11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+3x Anson                 8  CEL PRE aus dom          prince        Toreador:1
+1x Anneke               10  AUS CEL PRE dom          justicar      Toreador:1
+1x François Villon      10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Klaus van der Veken   9  CEL PRE aus obf tha      prince        Toreador:2
+1x Isabel de Leon        3  AUS                                    Toreador:2
+1x Delilah Easton        2  pre                                    Toreador:1
+1x Dieter Kleist         2  aus                                    Toreador:1
 
 Library (89 cards)
 Master (34)

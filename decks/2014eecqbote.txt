@@ -17,14 +17,14 @@ Lutz key to final
 Archon key to previous rounds to get 1.5r
 Elder Impersonation swapped out for a free obf card would be nice
 
-Crypt (12 cards, min=32 max=41 avg=9.17)
-----------------------------------------
-4x Undele                9   CEL FOR obf pre ser        magaji          Ishtarri:5
-3x Ayo Igoli             10  AUS CEL FOR PRE obf tha                    Ishtarri:4
-2x Ubende                7   CEL PRE for obf qui        magaji          Ishtarri:4
-1x Lutz von Hohenzollern 11  AUS DEM OBF PRE pot        inner circle    Malkavian:4
-1x Unmada                10  AUS DEM OBF VIC cel for    justicar        Malkavian:5
-1x Dmitra Ilyanova       9   CEL FOR POT PRE obf        justicar        Brujah:5
+Crypt (12 cards, min=32, max=41, avg=9.17)
+------------------------------------------
+4x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
+3x Ayo Igoli              10  AUS CEL FOR PRE obf tha                Ishtarri:4
+2x Ubende                  7  CEL PRE for obf qui      magaji        Ishtarri:4
+1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
+1x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
 
 Library (79 cards)
 Master (21; 6 trifle)

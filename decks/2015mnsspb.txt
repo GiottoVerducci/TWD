@@ -10,9 +10,9 @@ https://www.vekn.net/event-calendar/event/8174
 
 Deck Name: Turbo Cybele
 
-Crypt (13 cards, min=40 max=40 avg=10)
---------------------------------------
-13x Cybele 10   ANI DAI OBF PRE SER THA  Baali:4
+Crypt (13 cards, min=40, max=40, avg=10)
+----------------------------------------
+13x Cybele  10  ANI DAI OBF PRE SER THA  Baali:4
 
 Library (90 cards)
 Master (34; 9 trifle)

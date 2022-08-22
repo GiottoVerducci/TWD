@@ -18,17 +18,17 @@ Hugh's relentless Ahrimane and Ossian rushing. I got a lucky VP in the end for a
 
 I got Rafael in my opening crypt 3 of the 4 games, which had to contribute to success. The crypt might benefit from one more copy, dropping Victor.
 
-Crypt (12 cards, min=28 max=43 avg=8.92)
-----------------------------------------
-3x Orlando Oriundus     9   AUS DOM THA obf             bishop          Tremere antitribu:4
-2x Rafael de Corazon    11  AUS CEL DOM OBF PRE         inner circle    Toreador:4
-1x Mistress Fanchon     11  AUS CEL DOM OBF THA VIC     inner circle    Tremere:4
-1x Montecalme           10  AUS CEL DOM PRE obt         justicar        Toreador:5
-1x Gerald Windham       9   AUS DOM FOR THA                             Tremere:5
-1x Epikasta Rigatos     8   AUS DOM PRE cel             prince          Toreador:4
-1x Paul Cordwood        8   AUS DOM THA obf pre         bishop          Tremere antitribu:4
-1x Graham Gottesman     7   DOM FOR obf pre tha         prince          Ventrue:5
-1x Victor Pelletier     5   PRE cel dom for                             Ventrue:4
+Crypt (12 cards, min=28, max=43, avg=8.92)
+------------------------------------------
+3x Orlando Oriundus    9  AUS DOM THA obf          bishop        Tremere antitribu:4
+2x Rafael de Corazon  11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Mistress Fanchon   11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Montecalme         10  AUS CEL DOM PRE obt      justicar      Toreador:5
+1x Gerald Windham      9  AUS DOM FOR THA                        Tremere:5
+1x Epikasta Rigatos    8  AUS DOM PRE cel          prince        Toreador:4
+1x Paul Cordwood       8  AUS DOM THA obf pre      bishop        Tremere antitribu:4
+1x Graham Gottesman    7  DOM FOR obf pre tha      prince        Ventrue:5
+1x Victor Pelletier    5  PRE cel dom for                        Ventrue:4
 
 Library (73 cards)
 Master (28; 8 trifle)

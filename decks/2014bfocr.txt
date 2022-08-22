@@ -10,14 +10,14 @@ https://www.vekn.net/event-calendar/event/7609
 
 Deck Name: Shambling Hordes
 
-Crypt (12 cards, min=6 max=24 avg=3.83)
----------------------------------------
-3x Tupdog           1   POT VIS          Gargoyle:3
-2x Andrea Giovanni  7   DOM NEC pot vic  Giovanni:2
-2x Isabel Giovanni  5   DOM NEC pot      Giovanni:2
-2x Le Dinh Tho      5   NEC aus dom      Nagaraja:2
-2x Rudolfo Giovanni 3   NEC              Giovanni:2
-1x Lia Milliner     3   dom nec          Giovanni:3
+Crypt (12 cards, min=6, max=24, avg=3.83)
+-----------------------------------------
+3x Tupdog            1  POT VIS          Gargoyle:3
+2x Andrea Giovanni   7  DOM NEC pot vic  Giovanni:2
+2x Isabel Giovanni   5  DOM NEC pot      Giovanni:2
+2x Le Dinh Tho       5  NEC aus dom      Nagaraja:2
+2x Rudolfo Giovanni  3  NEC              Giovanni:2
+1x Lia Milliner      3  dom nec          Giovanni:3
 
 Library (90 cards)
 Master (20; 6 trifle)

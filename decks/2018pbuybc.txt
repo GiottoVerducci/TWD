@@ -30,13 +30,13 @@ Conditioning, get a new Capuchin and repeat, semi-turbo style. Fun deck to
 play.
 1.5 VP in final (won tiebreaker as 2nd seed).
 
-Crypt (12 cards, min=25 max=44 avg=9.42)
-----------------------------------------
-8x Capuchin, The 11  AUS DOM FOR NEC THA THN    Harbinger of Skulls:5
-1x Morlock       8   FOR NEC THN obf            Samedi:4
-1x Baroque       7   NEC THN aus for obf        Samedi:5
-1x Macoute       6   FOR NEC obf thn            Samedi:4
-1x Abebe         4   nec obf thn                Samedi:4
+Crypt (12 cards, min=25, max=44, avg=9.42)
+------------------------------------------
+8x Capuchin, The  11  AUS DOM FOR NEC THA THN  Harbinger of Skulls:5
+1x Morlock         8  FOR NEC THN obf          Samedi:4
+1x Baroque         7  NEC THN aus for obf      Samedi:5
+1x Macoute         6  FOR NEC obf thn          Samedi:4
+1x Abebe           4  nec obf thn              Samedi:4
 
 Library (90 cards)
 Master (29; 8 trifle)

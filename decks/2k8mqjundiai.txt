@@ -7,16 +7,16 @@ Roberto Mautone Junior
 
 Deck Name: Street Fighter PNP
 
-Crypt (12 cards, min=22 max=40 avg=8)
--------------------------------------
-3x Jaroslav Pascek 10  CEL POT PRE for obf      justicar  Brujah:3
-2x Tyler           9   CEL POT PRE dom for obt  primogen  Brujah:3
-2x Theo Bell       7   POT cel dom pre                    Brujah:2
-1x Menele          10  CEL POT PRE THA aus dom            Brujah:3
-1x Constanza Vinti 8   CEL DOM POT              prince    Brujah:2
-1x Dónal O'Connor  8   CEL DOM POT              prince    Brujah:2
-1x Pug Jackson     6   CEL POT for pre          primogen  Brujah:3
-1x Arnold Simpson  2   pot                                Brujah:3
+Crypt (12 cards, min=22, max=40, avg=8)
+---------------------------------------
+3x Jaroslav Pascek  10  CEL POT PRE for obf      justicar  Brujah:3
+2x Tyler             9  CEL POT PRE dom for obt  primogen  Brujah:3
+2x Theo Bell         7  POT cel dom pre                    Brujah:2
+1x Menele           10  CEL POT PRE THA aus dom            Brujah:3
+1x Constanza Vinti   8  CEL DOM POT              prince    Brujah:2
+1x Dónal O'Connor    8  CEL DOM POT              prince    Brujah:2
+1x Pug Jackson       6  CEL POT for pre          primogen  Brujah:3
+1x Arnold Simpson    2  pot                                Brujah:3
 
 Library (90 cards)
 Master (19; 4 trifle)

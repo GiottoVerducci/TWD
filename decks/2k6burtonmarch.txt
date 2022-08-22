@@ -7,18 +7,18 @@ Hugh Angseesing
 
 Omaya's Wall of Rock
 
-Crypt (12 cards, min=15 max=29 avg=5.33)
-----------------------------------------
-3x Omaya                        7   ANI AUS FOR pro      Gangrel antitribu:2
-1x Nadima                       8   FOR PRO SER ani aus  Gangrel:3
-1x Billy                        5   AUS dom for          Ventrue antitribu:2
-1x Dr. Allan Woodstock          5   PRO ani aus for      Gangrel:3
-1x Ghivran Dalaal, The Dead God 5   FOR ani aus chi      Ravnos:2
-1x Miriam Benyona               5   AUS for obe          Salubri:2
-1x Monique                      5   ani aus for pro      Gangrel antitribu:2
-1x Maldavis                     4   AUS for pre          Caitiff:3
-1x Isabel de Leon               3   AUS                  Toreador:2
-1x Zöe                          3   AUS cel obf          Malkavian:2
+Crypt (12 cards, min=15, max=29, avg=5.33)
+------------------------------------------
+3x Omaya                         7  ANI AUS FOR pro      Gangrel antitribu:2
+1x Nadima                        8  FOR PRO SER ani aus  Gangrel:3
+1x Billy                         5  AUS dom for          Ventrue antitribu:2
+1x Dr. Allan Woodstock           5  PRO ani aus for      Gangrel:3
+1x Ghivran Dalaal, The Dead God  5  FOR ani aus chi      Ravnos:2
+1x Miriam Benyona                5  AUS for obe          Salubri:2
+1x Monique                       5  ani aus for pro      Gangrel antitribu:2
+1x Maldavis                      4  AUS for pre          Caitiff:3
+1x Isabel de Leon                3  AUS                  Toreador:2
+1x Zöe                           3  AUS cel obf          Malkavian:2
 
 Library (90 cards)
 Master (17)

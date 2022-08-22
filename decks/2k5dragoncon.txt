@@ -7,22 +7,22 @@ Robyn Tatu
 
 Deck Name: Sewer Party
 
-Crypt (14 cards, min=10 max=28 avg=4.64)
-----------------------------------------
-1x Selma the Repugnant              8   OBF POT ani for  prince  Nosferatu:1
-1x Murat                            7   OBF POT ser      prince  Nosferatu:2
-1x Nikolaus Vermeulen               7   POT ani for obf  prince  Nosferatu:2
-1x Tusk, The Talebearer             6   OBF ani pot              Nosferatu:1
-1x Calebros, The Martyr             5   ANI obf pot      prince  Nosferatu:2
-1x Grendel the Worm-Eaten           5   OBF ani pot              Nosferatu:1
-1x Tiberius, The Scandalmonger      5   ani cel obf pot          Nosferatu:1
-1x Agrippina                        4   OBF pot                  Nosferatu:1
-1x Laurent de Valois                4   ani dom obf              Nosferatu:2
-1x Sammy                            4   ani obf pot              Nosferatu:1
-1x Duck                             3   obf pot                  Nosferatu:1
-1x Regilio, The Seeker of Akhenaten 3   aus obf                  Nosferatu:2
-1x Dimple                           2   obf                      Nosferatu:1
-1x KoKo                             2   pot                      Nosferatu:1
+Crypt (14 cards, min=10, max=28, avg=4.64)
+------------------------------------------
+1x Selma the Repugnant               8  OBF POT ani for  prince  Nosferatu:1
+1x Murat                             7  OBF POT ser      prince  Nosferatu:2
+1x Nikolaus Vermeulen                7  POT ani for obf  prince  Nosferatu:2
+1x Tusk, The Talebearer              6  OBF ani pot              Nosferatu:1
+1x Calebros, The Martyr              5  ANI obf pot      prince  Nosferatu:2
+1x Grendel the Worm-Eaten            5  OBF ani pot              Nosferatu:1
+1x Tiberius, The Scandalmonger       5  ani cel obf pot          Nosferatu:1
+1x Agrippina                         4  OBF pot                  Nosferatu:1
+1x Laurent de Valois                 4  ani dom obf              Nosferatu:2
+1x Sammy                             4  ani obf pot              Nosferatu:1
+1x Duck                              3  obf pot                  Nosferatu:1
+1x Regilio, The Seeker of Akhenaten  3  aus obf                  Nosferatu:2
+1x Dimple                            2  obf                      Nosferatu:1
+1x KoKo                              2  pot                      Nosferatu:1
 
 Library (90 cards)
 Master (16; 2 trifle)

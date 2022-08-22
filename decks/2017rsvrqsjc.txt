@@ -22,17 +22,17 @@ The Dreams really help you deck yourself, which I did in 2 of 3 games (incl the 
 
 Deck dubbed "Chealth Bleese" by Rick Phillips, "Because it's like cheesy stealth bleed!" Many thanks to the Undead Persistence of the V:tES community that provided the resources to steal my first tournament win!
 
-Crypt (12 cards, min=16 max=24 avg=5)
--------------------------------------
-2x Isanwayen             6   DOM MYT OBT                Kiasyd:4
-2x Dame Hollerton        5   DOM OBT myt                Kiasyd:4
-2x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
-1x Onaedo                6   DOM OBT aus pot            Lasombra:4
-1x Virginie, Prodigy     6   DOM POT obt        bishop  Lasombra:4
-1x Banjoko               5   DOM obt pot                Lasombra:3
-1x Leila Monroe          4   dom obt pre                Lasombra:4
-1x Quincy, The Trapper   4   dom myt obt                Kiasyd:3
-1x Lucy Markowitz        3   dom obt                    Lasombra:4
+Crypt (12 cards, min=16, max=24, avg=5)
+---------------------------------------
+2x Isanwayen              6  DOM MYT OBT              Kiasyd:4
+2x Dame Hollerton         5  DOM OBT myt              Kiasyd:4
+2x Ermenegildo, The Rake  5  DOM OBT pot              Lasombra:4
+1x Onaedo                 6  DOM OBT aus pot          Lasombra:4
+1x Virginie, Prodigy      6  DOM POT obt      bishop  Lasombra:4
+1x Banjoko                5  DOM obt pot              Lasombra:3
+1x Leila Monroe           4  dom obt pre              Lasombra:4
+1x Quincy, The Trapper    4  dom myt obt              Kiasyd:3
+1x Lucy Markowitz         3  dom obt                  Lasombra:4
 
 Library (65 cards)
 Master (11; 3 trifle)

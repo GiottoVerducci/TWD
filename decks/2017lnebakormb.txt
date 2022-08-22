@@ -11,15 +11,15 @@ https://www.vekn.net/event-calendar/event/8567
 Deck Name: RETURN OF HADES
 Created by: JOAQUIM ANTÔNIO SANT'ANA JÚNIOR
 
-Crypt (15 cards, min=28 max=44 avg=9.2)
----------------------------------------
-3x Lord Tremere          11  ANI AUS DOM THA VIC obe                    Tremere:5
-3x Gabrielle di Righetti 10  ANI AUS DOM THA obf pot    justicar        Tremere:5
-3x Dr. John Dee          9   ANI AUS DOM THA chi        prince          Tremere:4
-3x Malgorzata            9   AUS DOM THA VIC pre        priscus         Tremere antitribu:4
-1x Mistress Fanchon      11  AUS CEL DOM OBF THA VIC    inner circle    Tremere:4
-1x Andrew Stuart         5   AUS DOM THA                                Tremere:4
-1x Claus Wegener         5   DOM aus for tha                            Tremere:5
+Crypt (15 cards, min=28, max=44, avg=9.2)
+-----------------------------------------
+3x Lord Tremere           11  ANI AUS DOM THA VIC obe                Tremere:5
+3x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+3x Dr. John Dee            9  ANI AUS DOM THA chi      prince        Tremere:4
+3x Malgorzata              9  AUS DOM THA VIC pre      priscus       Tremere antitribu:4
+1x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Andrew Stuart           5  AUS DOM THA                            Tremere:4
+1x Claus Wegener           5  DOM aus for tha                        Tremere:5
 
 Library (90 cards)
 Master (16; 8 trifle)

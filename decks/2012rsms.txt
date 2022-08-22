@@ -7,15 +7,15 @@ Sebastian Fredenberg
 
 Deck Name: Cats and Dogs... and Mages
 
-Crypt (19 cards, min=4 max=19 avg=2.11)
----------------------------------------
-12x Tupdog              1    POT VIS            Gargoyle:3
-2x  Esoara              5    DOM aus for pot    Tremere antitribu:4
-1x  Antonio d'Erlette   5    THA dom for pot    Tremere antitribu:4
-1x  Mosfair             4    cel dom tha        Tremere antitribu:4
-1x  Ember Wright        3    aus dom            Tremere antitribu:3
-1x  Keith Moody         3    DOM                Tremere antitribu:4
-1x  Saiz                3    aus dom            Tremere antitribu:3
+Crypt (19 cards, min=4, max=19, avg=2.11)
+-----------------------------------------
+12x Tupdog             1  POT VIS          Gargoyle:3
+2x  Esoara             5  DOM aus for pot  Tremere antitribu:4
+1x  Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+1x  Mosfair            4  cel dom tha      Tremere antitribu:4
+1x  Ember Wright       3  aus dom          Tremere antitribu:3
+1x  Keith Moody        3  DOM              Tremere antitribu:4
+1x  Saiz               3  aus dom          Tremere antitribu:3
 
 Library (82 cards)
 Master (13; 4 trifle)

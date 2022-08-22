@@ -9,17 +9,17 @@ Created by: Hasse Hare Inc.
 
 Description: bleed-oust-win
 
-Crypt (12 cards, min=17 max=28 avg=5.42)
-----------------------------------------
-2x Isabel Giovanni                          5   DOM NEC pot             Giovanni:2
-2x Le Dinh Tho                              5   NEC aus dom             Nagaraja:2
-2x Gloria Giovanni                          4   DOM nec                 Giovanni:2
-1x Enzo Giovanni, Pentex Board of Directors 8   DOM NEC ani pot tha     Giovanni:2
-1x Andrea Giovanni                          7   DOM NEC pot vic         Giovanni:2
-1x Gillespi Giovanni                        7   DOM NEC POT aus         Giovanni:2
-1x Stefano Giovanni                         6   DOM nec pot pre         Giovanni:2
-1x Vittorio Giovanni                        5   dom for nec pot         Giovanni:2
-1x Francesca Giovanni                       4   dom nec pot             Giovanni:2
+Crypt (12 cards, min=17, max=28, avg=5.42)
+------------------------------------------
+2x Isabel Giovanni                           5  DOM NEC pot          Giovanni:2
+2x Le Dinh Tho                               5  NEC aus dom          Nagaraja:2
+2x Gloria Giovanni                           4  DOM nec              Giovanni:2
+1x Enzo Giovanni, Pentex Board of Directors  8  DOM NEC ani pot tha  Giovanni:2
+1x Andrea Giovanni                           7  DOM NEC pot vic      Giovanni:2
+1x Gillespi Giovanni                         7  DOM NEC POT aus      Giovanni:2
+1x Stefano Giovanni                          6  DOM nec pot pre      Giovanni:2
+1x Vittorio Giovanni                         5  dom for nec pot      Giovanni:2
+1x Francesca Giovanni                        4  dom nec pot          Giovanni:2
 
 Library (80 cards)
 Master (13)

@@ -7,12 +7,12 @@ Viktor Lazarev
 
 Deck Name: Viktor's Brujahs
 
-Crypt (12 cards, min=20 max=40 avg=8.33)
-----------------------------------------
-4x Jann Berger     10  CEL POT PRE dem for  prince      Brujah:4
-4x Jaroslav Pascek 10  CEL POT PRE for obf  justicar    Brujah:3
-2x Pug Jackson     6   CEL POT for pre      primogen    Brujah:3
-2x Reginald Moore  4   PRE                  primogen    Brujah:4
+Crypt (12 cards, min=20, max=40, avg=8.33)
+------------------------------------------
+4x Jann Berger      10  CEL POT PRE dem for  prince    Brujah:4
+4x Jaroslav Pascek  10  CEL POT PRE for obf  justicar  Brujah:3
+2x Pug Jackson       6  CEL POT for pre      primogen  Brujah:3
+2x Reginald Moore    4  PRE                  primogen  Brujah:4
 
 Library (90 cards)
 Master (17; 6 trifle)

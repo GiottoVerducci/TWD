@@ -12,17 +12,17 @@ Deck Name: Nakhthorheb and Mummies
 It's a deck I've been playing with for some time now. The third version of it,
 or even the fourth one. I enhance it every now and then.
 
-Crypt (12 cards, min=21 max=40 avg=8.08)
-----------------------------------------
-4x Nakhthorheb                  10  OBF PRE SER                          Follower of Set:4
-1x Neferu                       9   OBF PRE SER THA dom nec     2 votes  Follower of Set:4
-1x Pentweret                    9   OBF PRE SER aus for obe              Follower of Set:5
-1x Porphyrion                   9   CHI OBF PRE SER for                  Follower of Set:5
-1x Shemti                       9   OBF POT PRE SER vic         1 vote   Follower of Set:5
-1x Arnulf Jormungandrsson       8   OBF PRE SER aus cel                  Follower of Set:5
-1x Cagliostro, The Grand Copht  8   OBF PRE SER nec pot                  Follower of Set:4
-1x Ahmose Chambers              3   obf ser                              Follower of Set:5
-1x Belle Equitone               2   ser                                  Follower of Set:4
+Crypt (12 cards, min=21, max=40, avg=8.08)
+------------------------------------------
+4x Nakhthorheb                  10  OBF PRE SER                       Follower of Set:4
+1x Neferu                        9  OBF PRE SER THA dom nec  2 votes  Follower of Set:4
+1x Pentweret                     9  OBF PRE SER aus for obe           Follower of Set:5
+1x Porphyrion                    9  CHI OBF PRE SER for               Follower of Set:5
+1x Shemti                        9  OBF POT PRE SER vic      1 vote   Follower of Set:5
+1x Arnulf Jormungandrsson        8  OBF PRE SER aus cel               Follower of Set:5
+1x Cagliostro, The Grand Copht   8  OBF PRE SER nec pot               Follower of Set:4
+1x Ahmose Chambers               3  obf ser                           Follower of Set:5
+1x Belle Equitone                2  ser                               Follower of Set:4
 
 Library (62 cards)
 Master (18; 5 trifle)

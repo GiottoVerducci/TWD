@@ -17,15 +17,15 @@ In the future I would drop the Murder of Crows, reduce Trochomancy by 2,
 add a Kiss of Ra and maybe 1 Gear Up or 2 Carrion Crows. The deck itself
 is too big. I'd try to reduce the decksize to 80.
 
-Crypt (12 cards, min=8 max=31 avg=5.17)
----------------------------------------
-3x Anarch Convert       1   -none-               Caitiff:ANY
-2x Mordechai Ben-Nun    8   ANI AUS FOR NEC      Harbinger of Skulls:5
-2x Babalawo Alafin      7   AUS FOR NEC ani      Harbinger of Skulls:4
-2x Solomon Batanea      5   AUS FOR nec          Harbinger of Skulls:4
-1x Phagian              8   AUS NEC THA dom for  Harbinger of Skulls:4
-1x Zygodat              6   AUS NEC pot          Harbinger of Skulls:4
-1x Nicomedes            5   aus for nec vic      Harbinger of Skulls:4
+Crypt (12 cards, min=8, max=31, avg=5.17)
+-----------------------------------------
+3x Anarch Convert     1  -none-               Caitiff:ANY
+2x Mordechai Ben-Nun  8  ANI AUS FOR NEC      Harbinger of Skulls:5
+2x Babalawo Alafin    7  AUS FOR NEC ani      Harbinger of Skulls:4
+2x Solomon Batanea    5  AUS FOR nec          Harbinger of Skulls:4
+1x Phagian            8  AUS NEC THA dom for  Harbinger of Skulls:4
+1x Zygodat            6  AUS NEC pot          Harbinger of Skulls:4
+1x Nicomedes          5  aus for nec vic      Harbinger of Skulls:4
 
 Library (90 cards)
 Master (17; 5 trifle)

@@ -10,17 +10,17 @@ https://www.vekn.net/event-calendar/event/9503
 
 Deck Name: Descontrolados
 
-Crypt (12 cards, min=23 max=37 avg=7.17)
-----------------------------------------
-4x Morel                6   AUS DEM OBF                           Malkavian:4
-1x Tryphosa             10  AUS DEM DOM OBF POT         prince    Malkavian:4
-1x Unmada               10  AUS DEM OBF VIC cel for     justicar  Malkavian:5
-1x Santaleous           9   AUS CEL DEM OBF                       Malkavian:5
-1x Bloody Mary          8   AUS DEM OBF pre             primogen  Malkavian:5
-1x Apolonia Czarnecki   7   AUS DEM OBF pre                       Malkavian:5
-1x Osric Vladislav      7   AUS DEM OBF cel                       Malkavian:5
-1x Gem Ghastly          6   DEM OBF aus                 primogen  Malkavian:5
-1x Arthur Denholm       5   AUS DEM obf                           Malkavian:5
+Crypt (12 cards, min=23, max=37, avg=7.17)
+------------------------------------------
+4x Morel                6  AUS DEM OBF                        Malkavian:4
+1x Tryphosa            10  AUS DEM DOM OBF POT      prince    Malkavian:4
+1x Unmada              10  AUS DEM OBF VIC cel for  justicar  Malkavian:5
+1x Santaleous           9  AUS CEL DEM OBF                    Malkavian:5
+1x Bloody Mary          8  AUS DEM OBF pre          primogen  Malkavian:5
+1x Apolonia Czarnecki   7  AUS DEM OBF pre                    Malkavian:5
+1x Osric Vladislav      7  AUS DEM OBF cel                    Malkavian:5
+1x Gem Ghastly          6  DEM OBF aus              primogen  Malkavian:5
+1x Arthur Denholm       5  AUS DEM obf                        Malkavian:5
 
 Library (90 cards)
 Master (11; 6 trifle)

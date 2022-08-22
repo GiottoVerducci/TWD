@@ -15,14 +15,14 @@ During the rounds, a few points were important:
 - Summon History could be added (up to 3 copies)
 - Perfect Paragon isn't as good as Tangle Atropo's Hand.
 
-Crypt (12 cards, min=12 max=40 avg=6)
--------------------------------------
-5x Shalmath     10  POT PRE TEM  True Brujah:6
-2x Kalila       3   aus obf      Malkavian:5
-2x Veejay Vinod 3   AUS          Nagaraja:6
-1x Tyler McGill 4   AUS pre      Toreador:5
-1x Andre LeRoux 3   aus          Toreador:5
-1x Gwen Brand   3   aus chi      Ravnos:5
+Crypt (12 cards, min=12, max=40, avg=6)
+---------------------------------------
+5x Shalmath      10  POT PRE TEM  True Brujah:6
+2x Kalila         3  aus obf      Malkavian:5
+2x Veejay Vinod   3  AUS          Nagaraja:6
+1x Tyler McGill   4  AUS pre      Toreador:5
+1x Andre LeRoux   3  aus          Toreador:5
+1x Gwen Brand     3  aus chi      Ravnos:5
 
 Library (71 cards)
 Master (16; 6 trifle)

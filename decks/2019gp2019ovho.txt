@@ -22,13 +22,13 @@ I would like to add back one Trochomancy and/or one Monkeywrench. I also
 might experiment with a couple of Gear Ups. Other than that, likely won’t
 do much to change this build.
 
-Crypt (13 cards, min=4 max=29 avg=4.15)
----------------------------------------
-5x Anarch Convert       1   -none-              Caitiff:ANY
-4x Babalawo Alafin      7   AUS FOR NEC ani     Harbinger of Skulls:4
-2x Crow                 5   ANI for pro tha     Gangrel:5
-1x Mordechai Ben-Nun    8   ANI AUS FOR NEC     Harbinger of Skulls:5
-1x Monica Chang         3   dom tha             Tremere:5
+Crypt (13 cards, min=4, max=29, avg=4.15)
+-----------------------------------------
+5x Anarch Convert     1  -none-           Caitiff:ANY
+4x Babalawo Alafin    7  AUS FOR NEC ani  Harbinger of Skulls:4
+2x Crow               5  ANI for pro tha  Gangrel:5
+1x Mordechai Ben-Nun  8  ANI AUS FOR NEC  Harbinger of Skulls:5
+1x Monica Chang       3  dom tha          Tremere:5
 
 Library (90 cards)
 Master (30; 3 trifle)

@@ -8,18 +8,18 @@ Deck Name: Winner Cup of Paris 4th edition
 
 Description: Black Hand rules the world, or "officially, this deck cannot win;-)"
 
-Crypt (11 cards, min=13 max=31 avg=5.64)
-----------------------------------------
-2x Piotr Andreikov         2   aus                              Tzimisce:3
-1x Katarina Kornfeld       8   DOM FOR PRE ani      primogen    Ventrue:3
-1x Tarbaby Jack            8   ANI OBF POT dom ser              Nosferatu antitribu:3
-1x Yazid Tamari            8   CEL QUI ani dom obf              Assamite:3
-1x Soldat                  7   POT PRO cel dom obf              Gangrel antitribu:3
-1x Teresita, The Godmother 7   ANI OBF POT for                  Nosferatu antitribu:3
-1x Ingram Frizer           6   AUS OBF ani pot                  Nosferatu antitribu:3
-1x Colonel, The            5   AUS cel dem obf                  Malkavian antitribu:3
-1x Skryta Zyleta           5   CEL obf pot pro                  Gangrel antitribu:3
-1x Roger Farnsworth        4   OBF aus                          Malkavian antitribu:3
+Crypt (11 cards, min=13, max=31, avg=5.64)
+------------------------------------------
+2x Piotr Andreikov          2  aus                            Tzimisce:3
+1x Katarina Kornfeld        8  DOM FOR PRE ani      primogen  Ventrue:3
+1x Tarbaby Jack             8  ANI OBF POT dom ser            Nosferatu antitribu:3
+1x Yazid Tamari             8  CEL QUI ani dom obf            Assamite:3
+1x Soldat                   7  POT PRO cel dom obf            Gangrel antitribu:3
+1x Teresita, The Godmother  7  ANI OBF POT for                Nosferatu antitribu:3
+1x Ingram Frizer            6  AUS OBF ani pot                Nosferatu antitribu:3
+1x Colonel, The             5  AUS cel dem obf                Malkavian antitribu:3
+1x Skryta Zyleta            5  CEL obf pot pro                Gangrel antitribu:3
+1x Roger Farnsworth         4  OBF aus                        Malkavian antitribu:3
 
 Library (63 cards)
 Master (14)

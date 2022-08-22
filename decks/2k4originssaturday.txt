@@ -10,18 +10,18 @@ Description: Aus-Obf weenies, some of which start off as Black Hand
 and some of which use Blooding to become so, getting out a few
 Marijava Thuggees. Bleeding and thugginating ensues.
 
-Crypt (12 cards, min=7 max=22 avg=3.58)
----------------------------------------
-2x Colonel, The           5   AUS cel dem obf   Malkavian antitribu:3
-2x Roger Farnsworth       4   OBF aus           Malkavian antitribu:3
-1x Ingram Frizer          6   AUS OBF ani pot   Nosferatu antitribu:3
-1x Quira, The Bitch Queen 6   AUS OBF obt tha   Malkavian antitribu:2
-1x Lena Rowe              3   aus obf pre       Pander:2
-1x Zöe                    3   AUS cel obf       Malkavian:2
-1x Hanna Redmonds         2   obf tha           Caitiff:3
-1x Krid                   2   obf               Nosferatu:3
-1x Piotr Andreikov        2   aus               Tzimisce:3
-1x Basil                  1   obf               Pander:2
+Crypt (12 cards, min=7, max=22, avg=3.58)
+-----------------------------------------
+2x Colonel, The            5  AUS cel dem obf  Malkavian antitribu:3
+2x Roger Farnsworth        4  OBF aus          Malkavian antitribu:3
+1x Ingram Frizer           6  AUS OBF ani pot  Nosferatu antitribu:3
+1x Quira, The Bitch Queen  6  AUS OBF obt tha  Malkavian antitribu:2
+1x Lena Rowe               3  aus obf pre      Pander:2
+1x Zöe                     3  AUS cel obf      Malkavian:2
+1x Hanna Redmonds          2  obf tha          Caitiff:3
+1x Krid                    2  obf              Nosferatu:3
+1x Piotr Andreikov         2  aus              Tzimisce:3
+1x Basil                   1  obf              Pander:2
 
 Library (90 cards)
 Master (15; 2 trifle)

@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/9164
 
 Deck Name: Ahriman Gangrel AT Ahri Pro
 
-Crypt (12 cards, min=22 max=36 avg=7.17)
-----------------------------------------
-4x Aksinya Daclau 9   ANI FOR PRE PRO cel tha   Gangrel antitribu:4
-4x Muricia        7   ANI PRE SPI               Ahrimane:4
-2x Janey Pickman  6   ANI PRO for               Gangrel antitribu:4
-2x Sahana         5   ANI pre pro spi           Ahrimane:4
+Crypt (12 cards, min=22, max=36, avg=7.17)
+------------------------------------------
+4x Aksinya Daclau  9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+4x Muricia         7  ANI PRE SPI              Ahrimane:4
+2x Janey Pickman   6  ANI PRO for              Gangrel antitribu:4
+2x Sahana          5  ANI pre pro spi          Ahrimane:4
 
 Library (90 cards)
 Master (14; 3 trifle)

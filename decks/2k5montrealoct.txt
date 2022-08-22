@@ -14,14 +14,14 @@ Owain and Perfectionist until you can launch a big attack.
 Has trouble against intercept, but can usually do enough
 actions in a single turn to slip a couple votes or bleeds through.
 
-Crypt (12 cards, min=32 max=38 avg=8.67)
-----------------------------------------
-2x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop     Ventrue antitribu:2
-2x Kyle Strathcona, Cardinal of Canada  9   AUS DOM POT PRE for  cardinal       Ventrue antitribu:2
-2x Quentin                              9   AUS DOM FOR cel obt  bishop         Ventrue antitribu:2
-2x Gustav Mallenhous                    8   AUS DOM for obt      priscus        Ventrue antitribu:2
-2x Jesse Menks                          8   AUS DOM FOR ani      archbishop     Ventrue antitribu:3
-2x Owain Evans, The Wanderer            8   AUS DOM FOR cel pre                 Ventrue antitribu:3
+Crypt (12 cards, min=32, max=38, avg=8.67)
+------------------------------------------
+2x Lazverinus, Thrall of Lambach        10  AUS DOM FOR POT pro  archbishop  Ventrue antitribu:2
+2x Kyle Strathcona, Cardinal of Canada   9  AUS DOM POT PRE for  cardinal    Ventrue antitribu:2
+2x Quentin                               9  AUS DOM FOR cel obt  bishop      Ventrue antitribu:2
+2x Gustav Mallenhous                     8  AUS DOM for obt      priscus     Ventrue antitribu:2
+2x Jesse Menks                           8  AUS DOM FOR ani      archbishop  Ventrue antitribu:3
+2x Owain Evans, The Wanderer             8  AUS DOM FOR cel pre              Ventrue antitribu:3
 
 Library (90 cards)
 Master (13)

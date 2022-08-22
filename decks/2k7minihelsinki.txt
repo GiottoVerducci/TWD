@@ -6,16 +6,16 @@ Otso Turunen
 
 Deck Name: Donate!
 
-Crypt (12 cards, min=16 max=24 avg=5)
--------------------------------------
-3x Earl "Shaka74" Deams         6   jud mar viz  Visionary:4
-2x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-2x Travis "Traveler72" Miller   5   def mar      Martyr:4
-1x Anna "Dictatrix11" Suljic    6   mar red viz  Martyr:4
-1x Jack "Hannibal137" Harmon    4   def jud      Defender:4
-1x Leaf "Potter116" Pankowski   4   inn red viz  Redeemer:4
-1x Maman Boumba                 4   inn mar      Martyr:4
-1x Pedro Cortez                 4   mar ven      Avenger:4
+Crypt (12 cards, min=16, max=24, avg=5)
+---------------------------------------
+3x Earl "Shaka74" Deams        6  jud mar viz  Visionary:4
+2x Jennie "Cassie247" Orne     5  inn jud viz  Visionary:4
+2x Travis "Traveler72" Miller  5  def mar      Martyr:4
+1x Anna "Dictatrix11" Suljic   6  mar red viz  Martyr:4
+1x Jack "Hannibal137" Harmon   4  def jud      Defender:4
+1x Leaf "Potter116" Pankowski  4  inn red viz  Redeemer:4
+1x Maman Boumba                4  inn mar      Martyr:4
+1x Pedro Cortez                4  mar ven      Avenger:4
 
 Library (90 cards)
 Master (17; 1 trifle)

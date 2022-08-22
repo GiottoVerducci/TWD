@@ -12,17 +12,17 @@ Deck Name: Philly Under Siege!
 
 Salinger, Marcel, and Sela can bleed for 2 and play Under Siege. Helpers block and rush while the archbishops bleed hard.
 
-Crypt (12 cards, min=17 max=36 avg=6.83)
-----------------------------------------
-2x Marcel de Breau                      9   CEL POT PRE ani pro  archbishop     Brujah antitribu:3
-2x Salinger                             9   CEL POT PRE tha      archbishop     Brujah antitribu:2
-2x Beast, The Leatherface of Detroit    7   OBF POT ani cel                     Nosferatu antitribu:2
-1x Sela (ADV)                           7   POT PRE cel obt      archbishop     Brujah antitribu:2
-1x Sela                                 6   POT PRE cel obt      bishop         Brujah antitribu:2
-1x Antonio Veradas                      8   CEL POT PRE obf      bishop         Brujah antitribu:3
-1x Wah Chun-Yuen                        5   POT cel dom pre                     Brujah antitribu:3
-1x Jimmy Dunn                           4   CEL POT for                         Pander:2
-1x New Blood                            2   san                                 Blood Brother:ANY
+Crypt (12 cards, min=17, max=36, avg=6.83)
+------------------------------------------
+2x Marcel de Breau                    9  CEL POT PRE ani pro  archbishop  Brujah antitribu:3
+2x Salinger                           9  CEL POT PRE tha      archbishop  Brujah antitribu:2
+2x Beast, The Leatherface of Detroit  7  OBF POT ani cel                  Nosferatu antitribu:2
+1x Sela (ADV)                         7  POT PRE cel obt      archbishop  Brujah antitribu:2
+1x Sela                               6  POT PRE cel obt      bishop      Brujah antitribu:2
+1x Antonio Veradas                    8  CEL POT PRE obf      bishop      Brujah antitribu:3
+1x Wah Chun-Yuen                      5  POT cel dom pre                  Brujah antitribu:3
+1x Jimmy Dunn                         4  CEL POT for                      Pander:2
+1x New Blood                          2  san                              Blood Brother:ANY
 
 Library (80 cards)
 Master (16; 8 trifle)

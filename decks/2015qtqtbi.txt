@@ -6,16 +6,16 @@ May 3rd 2015
 Andrea Paderni
 https://www.vekn.net/event-calendar/event/8093
 
-Crypt (12 cards, min=13 max=39 avg=7.08)
-----------------------------------------
-3x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-3x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
-1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
-1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
-1x Guido Lucciano                         5   OBT dom obf                           Lasombra:2
-1x Ignacio, The Black Priest              4   dom obt pot                           Lasombra:2
-1x Aaron Duggan, Cameron's Toady          2   obt                                   Lasombra:2
-1x Mitchell, The Headhunter               2   obt pot                               Pander:2
+Crypt (12 cards, min=13, max=39, avg=7.08)
+------------------------------------------
+3x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+3x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+1x Alvaro, The Scion of Angelica            9  OBT POT dom pre          archbishop  Lasombra:2
+1x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+1x Guido Lucciano                           5  OBT dom obf                          Lasombra:2
+1x Ignacio, The Black Priest                4  dom obt pot                          Lasombra:2
+1x Aaron Duggan, Cameron's Toady            2  obt                                  Lasombra:2
+1x Mitchell, The Headhunter                 2  obt pot                              Pander:2
 
 Library (90 cards)
 Master (20; 10 trifle)

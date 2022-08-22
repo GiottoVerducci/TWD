@@ -6,16 +6,16 @@ Giovanni Cisterna
 
 Deck: Os Ignorantes
 
-Crypt (12 cards, min=25 max=32 avg=7.08)
-----------------------------------------
-2x Constanza Vinti                      8   CEL DOM POT         prince    Brujah:2
-2x Dónal O'Connor                       8   CEL DOM POT         prince    Brujah:2
-2x Beast, The Leatherface of Detroit    7   OBF POT ani cel               Nosferatu antitribu:2
-2x Theo Bell                            7   POT cel dom pre               Brujah:2
-1x Juggler                              7   CEL DOM obf pot               Brujah:3
-1x Richter, The Templar of Du Mont      7   CEL POT for pre               Brujah antitribu:2
-1x Pug Jackson                          6   CEL POT for pre     primogen  Brujah:3
-1x Volker, The Puppet Prince            5   CEL pot             prince    Brujah:2
+Crypt (12 cards, min=25, max=32, avg=7.08)
+------------------------------------------
+2x Constanza Vinti                    8  CEL DOM POT      prince    Brujah:2
+2x Dónal O'Connor                     8  CEL DOM POT      prince    Brujah:2
+2x Beast, The Leatherface of Detroit  7  OBF POT ani cel            Nosferatu antitribu:2
+2x Theo Bell                          7  POT cel dom pre            Brujah:2
+1x Juggler                            7  CEL DOM obf pot            Brujah:3
+1x Richter, The Templar of Du Mont    7  CEL POT for pre            Brujah antitribu:2
+1x Pug Jackson                        6  CEL POT for pre  primogen  Brujah:3
+1x Volker, The Puppet Prince          5  CEL pot          prince    Brujah:2
 
 Library (90 cards)
 Master (6)

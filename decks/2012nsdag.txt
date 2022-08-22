@@ -9,12 +9,12 @@ Deck Name: James "The Knife" Angry Dragon
 
 Description: Baali vote/bloat/bleed goodness
 
-Crypt (12 cards, min=25 max=39 avg=8)
--------------------------------------
-3x unnamed, The            10  CEL DAI OBF PRE PRO              Baali:6
-3x Annazir                 9   DAI OBF POT PRE      2 votes     Baali:5
-3x Xeper, Sultan of Lepers 7   OBF PRE ani dai pro              Baali:6
-3x Arishat                 6   DAI OBF PRE          1 vote      Baali:6
+Crypt (12 cards, min=25, max=39, avg=8)
+---------------------------------------
+3x unnamed, The             10  CEL DAI OBF PRE PRO           Baali:6
+3x Annazir                   9  DAI OBF POT PRE      2 votes  Baali:5
+3x Xeper, Sultan of Lepers   7  OBF PRE ani dai pro           Baali:6
+3x Arishat                   6  DAI OBF PRE          1 vote   Baali:6
 
 Library (90 cards)
 Master (18; 9 trifle)

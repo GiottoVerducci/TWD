@@ -12,15 +12,15 @@ Deck Name: Week of Nightmares
 
 Description: Building setup with Tumnimos, trying control the game with Sensories and playing Week of Nightmares in the exact time to finish the game.
 
-Crypt (12 cards, min=22 max=37 avg=7.5)
----------------------------------------
-4x Gabrin                         8   ANI CHI dom for                    Ravnos:2
-2x Kostantin, Baro of the Caravan 9   ANI CHI FOR cel dom                Ravnos:2
-2x Joaquina Amaya                 6   ANI CHI FOR                        Ravnos:2
-1x Ezmerelda                      11  ANI CHI FOR PRE dom tha   2 votes  Ravnos:2
-1x Delizbieta of the Dark Eyes    7   ANI CHI FOR PRE                    Ravnos:3
-1x Vaclav Petalengro              6   ANI CHI for pot                    Ravnos:2
-1x Salbatore Bokkengro            4   CHI for pro                        Ravnos:2
+Crypt (12 cards, min=22, max=37, avg=7.5)
+-----------------------------------------
+4x Gabrin                           8  ANI CHI dom for                   Ravnos:2
+2x Kostantin, Baro of the Caravan   9  ANI CHI FOR cel dom               Ravnos:2
+2x Joaquina Amaya                   6  ANI CHI FOR                       Ravnos:2
+1x Ezmerelda                       11  ANI CHI FOR PRE dom tha  2 votes  Ravnos:2
+1x Delizbieta of the Dark Eyes      7  ANI CHI FOR PRE                   Ravnos:3
+1x Vaclav Petalengro                6  ANI CHI for pot                   Ravnos:2
+1x Salbatore Bokkengro              4  CHI for pro                       Ravnos:2
 
 Library (90 cards)
 Master (14; 4 trifle)

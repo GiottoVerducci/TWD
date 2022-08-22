@@ -48,15 +48,15 @@ Pleb Defense: Beat 'em up, and eat 'em. Strained vitae supply.
 Combat Defense: Agg-damage (dawn op / Weather control, or block and wait for
 a good chance at Burst of sunlight, then be sure to diablerise them.
 
-Crypt (12 cards, min=18 max=38 avg=7.33)
-----------------------------------------
-3x Muaziz, Archon of Ulugh Beg          7   THA aus dom for                       Tremere:2
-2x Ulugh Beg, The Watcher               10  AUS DOM THA cel for pot     justicar  Tremere:1
-2x Cardano                              9   DOM FOR THA ani aus cel     prince    Tremere:1
-2x Blythe Candeleria                    3   THA aus                               Tremere:2
-1x Bindusara, Historian of the Kindred  9   AUS DOM FOR PRE tha                   Ventrue:2
-1x Javier Montoya                       9   AUS THA ani cel pre         prince    Tremere:2
-1x Merrill Molitor                      5   THA aus dom                           Tremere:1
+Crypt (12 cards, min=18, max=38, avg=7.33)
+------------------------------------------
+3x Muaziz, Archon of Ulugh Beg           7  THA aus dom for                    Tremere:2
+2x Ulugh Beg, The Watcher               10  AUS DOM THA cel for pot  justicar  Tremere:1
+2x Cardano                               9  DOM FOR THA ani aus cel  prince    Tremere:1
+2x Blythe Candeleria                     3  THA aus                            Tremere:2
+1x Bindusara, Historian of the Kindred   9  AUS DOM FOR PRE tha                Ventrue:2
+1x Javier Montoya                        9  AUS THA ani cel pre      prince    Tremere:2
+1x Merrill Molitor                       5  THA aus dom                        Tremere:1
 
 Library (100 cards)
 Master (28)

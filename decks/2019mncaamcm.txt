@@ -12,13 +12,13 @@ Deck Name: Ludmija's friends
 
 Description: My classic Tzimice wall V. 2.0
 
-Crypt (12 cards, min=22 max=30 avg=6.67)
-----------------------------------------
-4x Ludmijla Rakoczy     7   ANI AUS VIC          bishop  Tzimisce:5
-2x Lady Zara Slatikov   8   ANI AUS OBF VIC      bishop  Tzimisce:4
-2x Laika                7   ANI AUS chi obf vic          Tzimisce:4
-2x Rurik Rakoczy        6   ANI VIC aus                  Tzimisce:5
-2x Yuri Kerezenski      5   ANI aus for vic      bishop  Tzimisce:4
+Crypt (12 cards, min=22, max=30, avg=6.67)
+------------------------------------------
+4x Ludmijla Rakoczy    7  ANI AUS VIC          bishop  Tzimisce:5
+2x Lady Zara Slatikov  8  ANI AUS OBF VIC      bishop  Tzimisce:4
+2x Laika               7  ANI AUS chi obf vic          Tzimisce:4
+2x Rurik Rakoczy       6  ANI VIC aus                  Tzimisce:5
+2x Yuri Kerezenski     5  ANI aus for vic      bishop  Tzimisce:4
 
 Library (90 cards)
 Master (13; 5 trifle)

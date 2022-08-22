@@ -12,12 +12,12 @@ it much since. I guess the deck would fair better if I swapped out the
 fast reaction tech for some Dominate.
 The deck was inspired by: www.vekn.fr/decks/witchy_woman.htm
 
-Crypt (12 cards, min=21 max=28 avg=6.25)
-----------------------------------------
-3x Carna, The Princess Witch    7   AUS DOM THA         primogen  Tremere:3
-3x Muaziz, Archon of Ulugh Beg  7   THA aus dom for               Tremere:2
-3x Eugenio Estevez              6   AUS THA dom for               Tremere:3
-3x Aisling Sturbridge           5   AUS THA dom                   Tremere:2
+Crypt (12 cards, min=21, max=28, avg=6.25)
+------------------------------------------
+3x Carna, The Princess Witch    7  AUS DOM THA      primogen  Tremere:3
+3x Muaziz, Archon of Ulugh Beg  7  THA aus dom for            Tremere:2
+3x Eugenio Estevez              6  AUS THA dom for            Tremere:3
+3x Aisling Sturbridge           5  AUS THA dom                Tremere:2
 
 Library (90 cards)
 Master (11)

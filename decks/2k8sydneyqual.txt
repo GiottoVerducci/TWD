@@ -6,17 +6,17 @@ Ivor Blockley
 
 Deck Name: Sempiternal Setites
 
-Crypt (12 cards, min=12 max=23 avg=4.58)
-----------------------------------------
-2x Halim Bey             6   DOM SER obf tha    Follower of Set:4
-2x Black Lotus           5   DOM aus obf ser    Follower of Set:4
-2x Renenet               5   OBF PRE ser        Follower of Set:4
-1x Ankh-sen-Sutekh       6   PRE SER obf        Follower of Set:4
-1x Zhenga                5   SER obf pre        Follower of Set:4
-1x Marla Kenyon          4   PRE ser            Follower of Set:4
-1x Ahmose Chambers       3   obf ser            Follower of Set:5
-1x Reverend Djoser Jones 3   pre ser            Follower of Set:4
-1x Belle Equitone        2   ser                Follower of Set:4
+Crypt (12 cards, min=12, max=23, avg=4.58)
+------------------------------------------
+2x Halim Bey              6  DOM SER obf tha  Follower of Set:4
+2x Black Lotus            5  DOM aus obf ser  Follower of Set:4
+2x Renenet                5  OBF PRE ser      Follower of Set:4
+1x Ankh-sen-Sutekh        6  PRE SER obf      Follower of Set:4
+1x Zhenga                 5  SER obf pre      Follower of Set:4
+1x Marla Kenyon           4  PRE ser          Follower of Set:4
+1x Ahmose Chambers        3  obf ser          Follower of Set:5
+1x Reverend Djoser Jones  3  pre ser          Follower of Set:4
+1x Belle Equitone         2  ser              Follower of Set:4
 
 Library (90 cards)
 Master (26; 4 trifle)

@@ -23,15 +23,15 @@ low on blood. They can Legal Manipulate (cost one blood) then Tempt
 self to hunt and gain the blood back. Or Tempt opponent's vampires
 (standard).
 
-Crypt (12 cards, min=20 max=29 avg=6.25)
-----------------------------------------
-2x Qufur am-Heru                7   OBF PRE SER cel tha  Follower of Set:2
-2x Sarrasine                    7   OBF PRE aus nec ser  Follower of Set:2
-2x Ezekiel, Lord of Montreal    6   PRE SER obf pot      Follower of Set:3
-2x Count Ormonde                5   OBF dom pre ser      Follower of Set:2
-2x Sir Marriot D'Urban          5   PRE aus obf ser      Follower of Set:2
-1x Intisar                      8   OBF PRE SER cel pot  Follower of Set:2
-1x Danny Larkshill              7   PRE SER obf obt pot  Follower of Set:2
+Crypt (12 cards, min=20, max=29, avg=6.25)
+------------------------------------------
+2x Qufur am-Heru              7  OBF PRE SER cel tha  Follower of Set:2
+2x Sarrasine                  7  OBF PRE aus nec ser  Follower of Set:2
+2x Ezekiel, Lord of Montreal  6  PRE SER obf pot      Follower of Set:3
+2x Count Ormonde              5  OBF dom pre ser      Follower of Set:2
+2x Sir Marriot D'Urban        5  PRE aus obf ser      Follower of Set:2
+1x Intisar                    8  OBF PRE SER cel pot  Follower of Set:2
+1x Danny Larkshill            7  PRE SER obf obt pot  Follower of Set:2
 
 Library (91 cards)
 Master (13)

@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/9773
 
 Deck Name: Gato "Mia"
 
-Crypt (12 cards, min=18 max=31 avg=6.25)
-----------------------------------------
-3x Howler           8   ANI PRE SPI obf  Ahrimane:2
-3x Siamese, The     7   PRE SPI ani pro  Ahrimane:2
-3x Cynthia Ingold   6   SPI ani for pre  Ahrimane:2
-3x Juanita Santiago 4   ani pre spi      Ahrimane:2
+Crypt (12 cards, min=18, max=31, avg=6.25)
+------------------------------------------
+3x Howler            8  ANI PRE SPI obf  Ahrimane:2
+3x Siamese, The      7  PRE SPI ani pro  Ahrimane:2
+3x Cynthia Ingold    6  SPI ani for pre  Ahrimane:2
+3x Juanita Santiago  4  ani pre spi      Ahrimane:2
 
 Library (90 cards)
 Master (15; 4 trifle)

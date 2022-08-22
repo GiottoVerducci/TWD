@@ -6,18 +6,18 @@ Christoffer Arvidsson
 
 Deck Name: Strangers In The Night
 
-Crypt (12 cards, min=24 max=40 avg=8.42)
-----------------------------------------
-2x Ambrosio Luis Monçada, Plenipotentiary 10  DOM OBT POT PRE aus for   cardinal    Lasombra:2
-2x Marcus Vitel                           10  DOM FOR OBF OBT PRE       prince      Ventrue:3
-1x Angelica, The Canonicus                10  DOM OBT POT cel obf       cardinal    Lasombra:2
-1x Alvaro, The Scion of Angelica          9   OBT POT dom pre           archbishop  Lasombra:2
-1x Antonio Delgado                        9   DOM OBT POT tha           archbishop  Lasombra:2
-1x Francisco Domingo de Polonia           9   DOM OBT POT PRE pro       archbishop  Lasombra:2
-1x Gratiano                               8   DOM OBT obf pot           priscus     Lasombra:2
-1x Tobias Smith                           7   DOM OBT PRE pot                       Lasombra:3
-1x Banjoko                                5   DOM obt pot                           Lasombra:3
-1x Michael Luther                         4   aus pre                               Toreador:3
+Crypt (12 cards, min=24, max=40, avg=8.42)
+------------------------------------------
+2x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+2x Marcus Vitel                            10  DOM FOR OBF OBT PRE      prince      Ventrue:3
+1x Angelica, The Canonicus                 10  DOM OBT POT cel obf      cardinal    Lasombra:2
+1x Alvaro, The Scion of Angelica            9  OBT POT dom pre          archbishop  Lasombra:2
+1x Antonio Delgado                          9  DOM OBT POT tha          archbishop  Lasombra:2
+1x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+1x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+1x Tobias Smith                             7  DOM OBT PRE pot                      Lasombra:3
+1x Banjoko                                  5  DOM obt pot                          Lasombra:3
+1x Michael Luther                           4  aus pre                              Toreador:3
 
 Library (90 cards)
 Master (39)

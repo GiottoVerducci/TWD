@@ -8,14 +8,14 @@ Deck Name: Tariq and his little brother Juan Cali goes out eating!
 
 Description: Equip, rush, diablerize, freakdrive, rush, diablerize...
 
-Crypt (12 cards, min=10 max=28 avg=4.5)
----------------------------------------
-5x Tariq, The Silent    7   AUS FOR OBF QUI cel  Assamite:2
-3x Juan Cali            3   aus for              Ventrue antitribu:2
-1x Lázár Dobrescu       3   for                  Ravnos:2
-1x Roland Loussarian    3   for pre              Ventrue:1
-1x Giuliano Vincenzi    2   for                  Gangrel:1
-1x Rufina Soledad       2   for                  Ventrue:1
+Crypt (12 cards, min=10, max=28, avg=4.5)
+-----------------------------------------
+5x Tariq, The Silent  7  AUS FOR OBF QUI cel  Assamite:2
+3x Juan Cali          3  aus for              Ventrue antitribu:2
+1x Lázár Dobrescu     3  for                  Ravnos:2
+1x Roland Loussarian  3  for pre              Ventrue:1
+1x Giuliano Vincenzi  2  for                  Gangrel:1
+1x Rufina Soledad     2  for                  Ventrue:1
 
 Library (90 cards)
 Master (11)

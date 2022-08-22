@@ -24,20 +24,20 @@ Really not worth a blood or a card slot.
 
 Obviously could use some On the Qui Vive
 
-Crypt (12 cards, min=17 max=30 avg=5.75)
-----------------------------------------
-1x Dr. Julius Sutphen           5   POT dom obt          bishop  Lasombra:3
-1x Dr. Julius Sutphen (ADV)     5   POT dom obt                  Lasombra:3
-1x Conrad Adoula                8   DOM OBT POT ani cel          Lasombra:4
-1x Giangaleazzo, The Traitor    8   OBT POT PRE dom      prince  Lasombra:4
-1x Lord Vauxhall                7   DOM OBT POT THA              Lasombra:4
-1x Tobias Smith                 7   DOM OBT PRE pot              Lasombra:3
-1x Onaedo                       6   DOM OBT aus pot              Lasombra:4
-1x Virginie, Prodigy            6   DOM POT obt          bishop  Lasombra:4
-1x Andrew Emory                 5   OBT aus dom pot      bishop  Lasombra:4
-1x Ermenegildo, The Rake        5   DOM OBT pot                  Lasombra:4
-1x Leila Monroe                 4   dom obt pre                  Lasombra:4
-1x Lucy Markowitz               3   dom obt                      Lasombra:4
+Crypt (12 cards, min=17, max=30, avg=5.75)
+------------------------------------------
+1x Dr. Julius Sutphen         5  POT dom obt          bishop  Lasombra:3
+1x Dr. Julius Sutphen (ADV)   5  POT dom obt                  Lasombra:3
+1x Conrad Adoula              8  DOM OBT POT ani cel          Lasombra:4
+1x Giangaleazzo, The Traitor  8  OBT POT PRE dom      prince  Lasombra:4
+1x Lord Vauxhall              7  DOM OBT POT THA              Lasombra:4
+1x Tobias Smith               7  DOM OBT PRE pot              Lasombra:3
+1x Onaedo                     6  DOM OBT aus pot              Lasombra:4
+1x Virginie, Prodigy          6  DOM POT obt          bishop  Lasombra:4
+1x Andrew Emory               5  OBT aus dom pot      bishop  Lasombra:4
+1x Ermenegildo, The Rake      5  DOM OBT pot                  Lasombra:4
+1x Leila Monroe               4  dom obt pre                  Lasombra:4
+1x Lucy Markowitz             3  dom obt                      Lasombra:4
 
 Library (90 cards)
 Master (15)

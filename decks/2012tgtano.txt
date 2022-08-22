@@ -9,15 +9,15 @@ Deck Name: Kern's Angry Dragon
 
 Description: Auspex/Obtenebrate Toolbox
 
-Crypt (12 cards, min=22 max=38 avg=7.5)
----------------------------------------
-2x Ayelea, The Manipulator 10  AUS DOM OBT THA pre  cardinal    Tremere antitribu:2
-2x Marconius               9   DOM MYT OBT pot      archbishop  Kiasyd:2
-2x Bartholomew             8   AUS MYT NEC dom obt              Kiasyd:2
-2x Julia Prima             7   DOM OBT aus myt                  Kiasyd:2
-2x Béatrice L'Angou        5   MYT aus dom nec                  Kiasyd:2
-1x Kassiym Malikhair       6   MYT OBT dom for                  Kiasyd:2
-1x Talley, The Hound       6   OBT POT aus dom                  Lasombra:2
+Crypt (12 cards, min=22, max=38, avg=7.5)
+-----------------------------------------
+2x Ayelea, The Manipulator  10  AUS DOM OBT THA pre  cardinal    Tremere antitribu:2
+2x Marconius                 9  DOM MYT OBT pot      archbishop  Kiasyd:2
+2x Bartholomew               8  AUS MYT NEC dom obt              Kiasyd:2
+2x Julia Prima               7  DOM OBT aus myt                  Kiasyd:2
+2x Béatrice L'Angou          5  MYT aus dom nec                  Kiasyd:2
+1x Kassiym Malikhair         6  MYT OBT dom for                  Kiasyd:2
+1x Talley, The Hound         6  OBT POT aus dom                  Lasombra:2
 
 Library (90 cards)
 Master (13; 5 trifle)

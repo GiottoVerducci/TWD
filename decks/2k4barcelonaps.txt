@@ -9,16 +9,16 @@ Deck: Y Johnny cogió su fusil
 Description: Blocker Deck based around Lucas Halton with Assault Rifle
 via magic of the smith, young vamps to either bleed or diablerie.
 
-Crypt (12 cards, min=9 max=40 avg=6.25)
----------------------------------------
-3x Helena                  10  AUS CEL DOM obf pre tha          Toreador:3
-3x Lucas Halton            10  AUS CEL DOM THA qui      prince  Tremere:3
-1x Blythe Candeleria       3   THA aus                          Tremere:2
-1x Isabel de Leon          3   AUS                              Toreador:2
-1x Yvette, The Hopeless    3   aus cel                          Toreador:3
-1x Almiro Suarez           2   aus                              Tremere:3
-1x Emerson Wilkershire III 2   pre                              Toreador:3
-1x Mustafa Rahman          2   dom                              Tremere:2
+Crypt (12 cards, min=9, max=40, avg=6.25)
+-----------------------------------------
+3x Helena                   10  AUS CEL DOM obf pre tha          Toreador:3
+3x Lucas Halton             10  AUS CEL DOM THA qui      prince  Tremere:3
+1x Blythe Candeleria         3  THA aus                          Tremere:2
+1x Isabel de Leon            3  AUS                              Toreador:2
+1x Yvette, The Hopeless      3  aus cel                          Toreador:3
+1x Almiro Suarez             2  aus                              Tremere:3
+1x Emerson Wilkershire III   2  pre                              Toreador:3
+1x Mustafa Rahman            2  dom                              Tremere:2
 
 Library (90 cards)
 Master (14)

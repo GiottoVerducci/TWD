@@ -9,16 +9,16 @@ Created by: Kevin J. Mergen and Matthew Strehlow
 
 Description: Cesewayo (ADV) Aye abuse, Smiling Jack for the win.
 
-Crypt (12 cards, min=14 max=40 avg=7)
--------------------------------------
-5x Cesewayo (ADV) 10  AUS CEL DOM POT THA ani   magaji  Osebo:4
-1x Cesewayo       10  AUS CEL DOM POT THA ani   magaji  Osebo:4
-1x Andrew Stuart  5   AUS DOM THA                       Tremere:4
-1x Frondator      5   AUS dom tha               bishop  Tremere antitribu:4
-1x Neighbor John  5   AUS dom for                       Ventrue antitribu:4
-1x Ember Wright   3   aus dom                           Tremere antitribu:3
-1x Saiz           3   aus dom                           Tremere antitribu:3
-1x Sister Evelyn  3   aus dom                           Ventrue antitribu:3
+Crypt (12 cards, min=14, max=40, avg=7)
+---------------------------------------
+5x Cesewayo (ADV)  10  AUS CEL DOM POT THA ani  magaji  Osebo:4
+1x Cesewayo        10  AUS CEL DOM POT THA ani  magaji  Osebo:4
+1x Andrew Stuart    5  AUS DOM THA                      Tremere:4
+1x Frondator        5  AUS dom tha              bishop  Tremere antitribu:4
+1x Neighbor John    5  AUS dom for                      Ventrue antitribu:4
+1x Ember Wright     3  aus dom                          Tremere antitribu:3
+1x Saiz             3  aus dom                          Tremere antitribu:3
+1x Sister Evelyn    3  aus dom                          Ventrue antitribu:3
 
 Library (80 cards)
 Master (27; 13 trifle)

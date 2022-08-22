@@ -11,13 +11,13 @@ https://www.vekn.net/event-calendar/event/8977
 Deck Name: The Brujah Archon: Goratrix
 Created by: Played by José María Prieto Amengual (designed by Alain Greiner)
 
-Crypt (12 cards, min=4 max=40 avg=5.92)
----------------------------------------
-4x Goratrix             10  ANI AUS DOM THA vic            Tremere antitribu:2
-4x Anarch Convert       1   -none-                         Caitiff:ANY
-2x Omaya                7   ANI AUS FOR pro                Gangrel antitribu:2
-1x Anastasz di Zagreb   8   AUS THA ani cel dom  justicar  Tremere:3
-1x Devin Bisley         5   ANI AUS vic                    Tzimisce:2
+Crypt (12 cards, min=4, max=40, avg=5.92)
+-----------------------------------------
+4x Goratrix            10  ANI AUS DOM THA vic            Tremere antitribu:2
+4x Anarch Convert       1  -none-                         Caitiff:ANY
+2x Omaya                7  ANI AUS FOR pro                Gangrel antitribu:2
+1x Anastasz di Zagreb   8  AUS THA ani cel dom  justicar  Tremere:3
+1x Devin Bisley         5  ANI AUS vic                    Tzimisce:2
 
 Library (90 cards)
 Master (18; 3 trifle)

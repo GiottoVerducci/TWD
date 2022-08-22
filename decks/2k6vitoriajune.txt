@@ -7,20 +7,20 @@ Daniel Stefanutti
 
 Deck Name: Weenie Animalism
 
-Crypt (12 cards, min=9 max=13 avg=2.83)
----------------------------------------
-1x Sennuwy, The Promoter        4   ani chi for  Ravnos:2
-1x Bothwell                     3   ani for      Gangrel:3
-1x Darva Felispa                3   ani pot      Nosferatu:3
-1x Leon                         3   ani for      Gangrel antitribu:2
-1x Muse                         3   ani for mel  Daughter of Cacophony:2
-1x Panagos Levidis              3   ani obf      Gangrel:2
-1x Raziya Samater               3   ani pot      Brujah:2
-1x Shannon Price, The Whisperer 3   ani obf      Nosferatu antitribu:2
-1x Tommy                        3   ani pot      Nosferatu antitribu:2
-1x Dani                         2   ani          Nosferatu antitribu:2
-1x Spleen, Georgio Gutterpunk   2   ani chi      Ravnos:2
-1x Zip                          2   ani          Ravnos:3
+Crypt (12 cards, min=9, max=13, avg=2.83)
+-----------------------------------------
+1x Sennuwy, The Promoter         4  ani chi for  Ravnos:2
+1x Bothwell                      3  ani for      Gangrel:3
+1x Darva Felispa                 3  ani pot      Nosferatu:3
+1x Leon                          3  ani for      Gangrel antitribu:2
+1x Muse                          3  ani for mel  Daughter of Cacophony:2
+1x Panagos Levidis               3  ani obf      Gangrel:2
+1x Raziya Samater                3  ani pot      Brujah:2
+1x Shannon Price, The Whisperer  3  ani obf      Nosferatu antitribu:2
+1x Tommy                         3  ani pot      Nosferatu antitribu:2
+1x Dani                          2  ani          Nosferatu antitribu:2
+1x Spleen, Georgio Gutterpunk    2  ani chi      Ravnos:2
+1x Zip                           2  ani          Ravnos:3
 
 Library (90 cards)
 Master (22; 6 trifle)

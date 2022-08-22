@@ -11,18 +11,18 @@ Description: A 2007 version of the deck I used to win last year's
 Sydney Qualifier. The deck thrived in the low combat environment
 taking 3 game wins & 9.5VP on the day.
 
-Crypt (12 cards, min=14 max=20 avg=4.17)
-----------------------------------------
-2x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-2x Travis "Traveler72" Miller   5   def mar      Martyr:4
-1x Erick "Shophet125" Franco    4   inn jud      Judge:4
-1x Jack "Hannibal137" Harmon    4   def jud      Defender:4
-1x Jennifer "Flame61" Vidisania 4   ven viz      Avenger:4
-1x John "Cop90" O'Malley        4   jud ven      Avenger:4
-1x Marion "Teacher193" Perks    4   jud red      Redeemer:4
-1x Peter "Outback295" Rophail   4   red ven      Redeemer:4
-1x François "Warden" Loehr      3   def jud      Judge:4
-1x Inez "Nurse216" Villagrande  3   inn          Innocent:4
+Crypt (12 cards, min=14, max=20, avg=4.17)
+------------------------------------------
+2x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+2x Travis "Traveler72" Miller    5  def mar      Martyr:4
+1x Erick "Shophet125" Franco     4  inn jud      Judge:4
+1x Jack "Hannibal137" Harmon     4  def jud      Defender:4
+1x Jennifer "Flame61" Vidisania  4  ven viz      Avenger:4
+1x John "Cop90" O'Malley         4  jud ven      Avenger:4
+1x Marion "Teacher193" Perks     4  jud red      Redeemer:4
+1x Peter "Outback295" Rophail    4  red ven      Redeemer:4
+1x François "Warden" Loehr       3  def jud      Judge:4
+1x Inez "Nurse216" Villagrande   3  inn          Innocent:4
 
 Library (90 cards)
 Master (17)

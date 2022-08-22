@@ -8,14 +8,14 @@ Karim Baloul
 Deck Name: Anson guns
 Created by: Mehdi Mazni
 
-Crypt (12 cards, min=29 max=38 avg=8.25)
-----------------------------------------
-4x Anson                        8   CEL PRE aus dom     prince    Toreador:1
-3x Anneke                       10  AUS CEL PRE dom     justicar  Toreador:1
-2x Constanza Vinti              8   CEL DOM POT         prince    Brujah:2
-1x Dónal O'Connor               8   CEL DOM POT         prince    Brujah:2
-1x Marcellus                    8   AUS CEL pro         prince    Toreador:2
-1x Volker, The Puppet Prince    5   CEL pot             prince    Brujah:2
+Crypt (12 cards, min=29, max=38, avg=8.25)
+------------------------------------------
+4x Anson                       8  CEL PRE aus dom  prince    Toreador:1
+3x Anneke                     10  AUS CEL PRE dom  justicar  Toreador:1
+2x Constanza Vinti             8  CEL DOM POT      prince    Brujah:2
+1x Dónal O'Connor              8  CEL DOM POT      prince    Brujah:2
+1x Marcellus                   8  AUS CEL pro      prince    Toreador:2
+1x Volker, The Puppet Prince   5  CEL pot          prince    Brujah:2
 
 Library (90 cards)
 Master (20; 6 trifle)

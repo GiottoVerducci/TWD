@@ -13,14 +13,14 @@ Deck Name: Tariq Wall Rush 2.0
 Description: In previous version I had problem with cost of the flamethrowers.
 So, adding Ashur Tablets was essential to solve this problem
 
-Crypt (12 cards, min=4 max=28 avg=4.5)
---------------------------------------
-4x Tariq, The Silent       7   AUS FOR OBF QUI cel  Assamite:2
-1x Tariq, The Silent (ADV) 7   AUS FOR OBF QUI cel  Assamite:2
-4x Anarch Convert          1   -none-               Caitiff:ANY
-1x Sheila Mezarin          6   AUS PRE cel for      Toreador antitribu:2
-1x Miriam Benyona          5   AUS for obe          Salubri:2
-1x Maldavis (ADV)          4   AUS for pre          Caitiff:3
+Crypt (12 cards, min=4, max=28, avg=4.5)
+----------------------------------------
+4x Tariq, The Silent        7  AUS FOR OBF QUI cel  Assamite:2
+1x Tariq, The Silent (ADV)  7  AUS FOR OBF QUI cel  Assamite:2
+4x Anarch Convert           1  -none-               Caitiff:ANY
+1x Sheila Mezarin           6  AUS PRE cel for      Toreador antitribu:2
+1x Miriam Benyona           5  AUS for obe          Salubri:2
+1x Maldavis (ADV)           4  AUS for pre          Caitiff:3
 
 Library (90 cards)
 Master (22; 4 trifle)

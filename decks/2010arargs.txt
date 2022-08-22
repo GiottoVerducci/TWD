@@ -11,15 +11,15 @@ Description: Too master heavy atm.
 http://www.vekn.fr/decks/twd.htm#2k9phantomsgs so credit
 should go that way.
 
-Crypt (12 cards, min=9 max=38 avg=6.33)
----------------------------------------
-3x Aksinya Daclau 9   ANI FOR PRE PRO cel tha   Gangrel antitribu:4
-2x Cybele         10  ANI DAI OBF PRE SER THA   Baali:4
-2x Nana Buruku    8   ANI POT PRE               Guruhi:4
-2x Anarch Convert 1   -none-                    Caitiff:ANY
-1x Beetleman      4   ANI obf                   Nosferatu:4
-1x Bobby Lemon    4   ANI pro                   Gangrel:3
-1x Stick          3   ANI                       Nosferatu antitribu:4
+Crypt (12 cards, min=9, max=38, avg=6.33)
+-----------------------------------------
+3x Aksinya Daclau   9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+2x Cybele          10  ANI DAI OBF PRE SER THA  Baali:4
+2x Nana Buruku      8  ANI POT PRE              Guruhi:4
+2x Anarch Convert   1  -none-                   Caitiff:ANY
+1x Beetleman        4  ANI obf                  Nosferatu:4
+1x Bobby Lemon      4  ANI pro                  Gangrel:3
+1x Stick            3  ANI                      Nosferatu antitribu:4
 
 Library (80 cards)
 Master (53; 7 trifle)

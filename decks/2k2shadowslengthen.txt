@@ -19,19 +19,19 @@ Expensive mastercards go hand in hand with Parity Shift.
 Doing this deck again I'd throw out all equipment and add another three
 Majesty.
 
-Crypt (12 cards, min=13 max=39 avg=6.83)
-----------------------------------------
-2x Isabel de Leon               3   AUS                                   Toreador:2
-1x François Villon              10  AUS CEL PRE chi obf pot     prince    Toreador:2
-1x Helena                       10  AUS CEL DOM obf pre tha               Toreador:3
-1x Madame Guil                  10  AUS CEL PRE for pot ser     justicar  Toreador:3
-1x Joaquin Murietta             9   AUS CEL obf pre qui                   Toreador:3
-1x Klaus van der Veken          9   CEL PRE aus obf tha         prince    Toreador:2
-1x Fleurdumal                   8   AUS DEM PRE cel tha         prince    Toreador:3
-1x Suzanne Kadim                7   CEL PRE aus dom obf                   Toreador:3
-1x Antoinette, She Who Watches  6   AUS PRE cel obf             primogen  Toreador:3
-1x Sir Henry Johnson            4   aus pot pre                           Toreador:3
-1x Yvette, The Hopeless         3   aus cel                               Toreador:3
+Crypt (12 cards, min=13, max=39, avg=6.83)
+------------------------------------------
+2x Isabel de Leon                3  AUS                                Toreador:2
+1x François Villon              10  AUS CEL PRE chi obf pot  prince    Toreador:2
+1x Helena                       10  AUS CEL DOM obf pre tha            Toreador:3
+1x Madame Guil                  10  AUS CEL PRE for pot ser  justicar  Toreador:3
+1x Joaquin Murietta              9  AUS CEL obf pre qui                Toreador:3
+1x Klaus van der Veken           9  CEL PRE aus obf tha      prince    Toreador:2
+1x Fleurdumal                    8  AUS DEM PRE cel tha      prince    Toreador:3
+1x Suzanne Kadim                 7  CEL PRE aus dom obf                Toreador:3
+1x Antoinette, She Who Watches   6  AUS PRE cel obf          primogen  Toreador:3
+1x Sir Henry Johnson             4  aus pot pre                        Toreador:3
+1x Yvette, The Hopeless          3  aus cel                            Toreador:3
 
 Library (90 cards)
 Master (20)

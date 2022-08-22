@@ -9,13 +9,13 @@ Nick Miller
 
 Deck Name: Sha-Ennu bleed
 
-Crypt (12 cards, min=15 max=44 avg=8)
--------------------------------------
-7x Sha-Ennu        11  ANI AUS CHI VIC obf tha  regent  Tzimisce:4
-2x Devyn           4   ani chi pre                      Ravnos:4
-1x Gharston Roland 4   CHI ani pot                      Ravnos:4
-1x Johann Matheson 4   ani aus chi                      Ravnos:5
-1x Gwen Brand      3   aus chi                          Ravnos:5
+Crypt (12 cards, min=15, max=44, avg=8)
+---------------------------------------
+7x Sha-Ennu         11  ANI AUS CHI VIC obf tha  regent  Tzimisce:4
+2x Devyn             4  ani chi pre                      Ravnos:4
+1x Gharston Roland   4  CHI ani pot                      Ravnos:4
+1x Johann Matheson   4  ani aus chi                      Ravnos:5
+1x Gwen Brand        3  aus chi                          Ravnos:5
 
 Library (64 cards)
 Master (15; 3 trifle)

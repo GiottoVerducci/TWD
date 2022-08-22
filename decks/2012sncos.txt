@@ -9,16 +9,16 @@ Robert Doktorow
 
 Deck Name: Blessing
 
-Crypt (12 cards, min=4 max=24 avg=3.25)
----------------------------------------
-5x Tupdog               1   POT VIS                     Gargoyle:3
-1x Bryan Van Duesen     7   DOM THA aus pre             Tremere antitribu:2
-1x Reverend Blackwood   6   DOM THA obf         bishop  Tremere antitribu:2
-1x Selena               6   AUS DOM THA                 Tremere antitribu:3
-1x Hannigan             5   AUS THA dom                 Tremere antitribu:2
-1x Kurt Strauss         5   DOM aus tha                 Tremere antitribu:2
-1x Brooke               3   dom tha                     Tremere antitribu:2
-1x Heinrick Schlempt    2   tha                         Tremere antitribu:2
+Crypt (12 cards, min=4, max=24, avg=3.25)
+-----------------------------------------
+5x Tupdog              1  POT VIS                  Gargoyle:3
+1x Bryan Van Duesen    7  DOM THA aus pre          Tremere antitribu:2
+1x Reverend Blackwood  6  DOM THA obf      bishop  Tremere antitribu:2
+1x Selena              6  AUS DOM THA              Tremere antitribu:3
+1x Hannigan            5  AUS THA dom              Tremere antitribu:2
+1x Kurt Strauss        5  DOM aus tha              Tremere antitribu:2
+1x Brooke              3  dom tha                  Tremere antitribu:2
+1x Heinrick Schlempt   2  tha                      Tremere antitribu:2
 
 Library (61 cards)
 Master (9; 1 trifle)

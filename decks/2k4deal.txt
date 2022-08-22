@@ -4,11 +4,11 @@ July 3rd 2004
 20 players
 Kamel Senni
 
-Crypt (17 cards, min=32 max=36 avg=8.24)
-----------------------------------------
-15x Anson           8    CEL PRE aus dom          prince    Toreador:1
-1x  Democritus      10   DOM PRE aus cel for      justicar  Ventrue:1
-1x  Huitzilopochtli 10   AUS DAI DOM OBF POT PRE            Baali:2
+Crypt (17 cards, min=32, max=36, avg=8.24)
+------------------------------------------
+15x Anson             8  CEL PRE aus dom          prince    Toreador:1
+1x  Democritus       10  DOM PRE aus cel for      justicar  Ventrue:1
+1x  Huitzilopochtli  10  AUS DAI DOM OBF POT PRE            Baali:2
 
 Library (90 cards)
 Master (73)

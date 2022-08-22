@@ -8,15 +8,15 @@ Enters 3rd in final with 2GW7, 3VP in final
 
 Legendary Nosferatu
 
-Crypt (12 cards, min=19 max=35 avg=7)
--------------------------------------
-3x Selma the Repugnant          8   OBF POT ani for      prince    Nosferatu:1
-2x Sheldon, Lord of the Clog    9   ANI AUS OBF POT for  justicar  Nosferatu:1
-2x Nikolaus Vermeulen           7   POT ani for obf      prince    Nosferatu:2
-2x Calebros, The Martyr         5   ANI obf pot          prince    Nosferatu:2
-1x Suhailah                     9   FOR OBF pot ser      prince    Ventrue:2
-1x Murat                        7   OBF POT ser          prince    Nosferatu:2
-1x Dimple                       2   obf                            Nosferatu:1
+Crypt (12 cards, min=19, max=35, avg=7)
+---------------------------------------
+3x Selma the Repugnant        8  OBF POT ani for      prince    Nosferatu:1
+2x Sheldon, Lord of the Clog  9  ANI AUS OBF POT for  justicar  Nosferatu:1
+2x Nikolaus Vermeulen         7  POT ani for obf      prince    Nosferatu:2
+2x Calebros, The Martyr       5  ANI obf pot          prince    Nosferatu:2
+1x Suhailah                   9  FOR OBF pot ser      prince    Ventrue:2
+1x Murat                      7  OBF POT ser          prince    Nosferatu:2
+1x Dimple                     2  obf                            Nosferatu:1
 
 Library (73 cards)
 Master (24)

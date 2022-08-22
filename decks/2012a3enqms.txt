@@ -12,14 +12,14 @@ Created by: Tristán Endriss (Dr Mafrune) & Txus Alútiz Lizarraga (Kakarot)
 
 Description: Quicksilver Contemplation... A very great card!
 
-Crypt (12 cards, min=18 max=40 avg=7.67)
-----------------------------------------
-4x Nergal                       10  AUS DAI FOR OBF PRE THA     Baali:5
-1x Nergal (ADV)                 10  AUS DAI FOR OBF PRE THA     Baali:5
-4x Al-Muntathir, God's Witness  8   AUS FOR PRE TEM obf qui     True Brujah:5
-1x Tyler McGill                 4   AUS pre                     Toreador:5
-1x Andre LeRoux                 3   aus                         Toreador:5
-1x Veejay Vinod                 3   AUS                         Nagaraja:6
+Crypt (12 cards, min=18, max=40, avg=7.67)
+------------------------------------------
+4x Nergal                       10  AUS DAI FOR OBF PRE THA  Baali:5
+1x Nergal (ADV)                 10  AUS DAI FOR OBF PRE THA  Baali:5
+4x Al-Muntathir, God's Witness   8  AUS FOR PRE TEM obf qui  True Brujah:5
+1x Tyler McGill                  4  AUS pre                  Toreador:5
+1x Andre LeRoux                  3  aus                      Toreador:5
+1x Veejay Vinod                  3  AUS                      Nagaraja:6
 
 Library (80 cards)
 Master (15; 7 trifle)

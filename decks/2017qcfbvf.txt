@@ -6,13 +6,13 @@ July 8th 2017
 Florian Prosper
 https://www.vekn.net/event-calendar/event/8698
 
-Crypt (12 cards, min=36 max=44 avg=10.08)
------------------------------------------
-4x Maris Streck    9   AUS OBF ani dem dom      justicar        Malkavian:3
-3x Huitzilopochtli 10  AUS DAI DOM OBF POT PRE                  Baali:2
-2x Arika           11  DOM FOR OBF PRE aus cel  inner circle    Ventrue:2
-2x Etrius          11  AUS DOM OBF THA pro      inner circle    Tremere:2
-1x Leandro         11  AUS OBF PRE cel dom      inner circle    Malkavian:2
+Crypt (12 cards, min=36, max=44, avg=10.08)
+-------------------------------------------
+4x Maris Streck      9  AUS OBF ani dem dom      justicar      Malkavian:3
+3x Huitzilopochtli  10  AUS DAI DOM OBF POT PRE                Baali:2
+2x Arika            11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+2x Etrius           11  AUS DOM OBF THA pro      inner circle  Tremere:2
+1x Leandro          11  AUS OBF PRE cel dom      inner circle  Malkavian:2
 
 Library (68 cards)
 Master (29; 7 trifle)

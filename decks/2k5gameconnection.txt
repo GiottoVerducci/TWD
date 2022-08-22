@@ -13,14 +13,14 @@ benefit from a Rack. The deck is a little tricky, since Matthias runs
 out of blood too quickly which makes your minion taps on your other
 minions harder to do more effectively,
 
-Crypt (12 cards, min=21 max=31 avg=6.67)
-----------------------------------------
-5x Matthias                     7   AUS FOR OBE nec              Salubri:2
-3x Le Dinh Tho                  5   NEC aus dom                  Nagaraja:2
-1x Quentin                      9   AUS DOM FOR cel obt  bishop  Ventrue antitribu:2
-1x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre          Ventrue antitribu:3
-1x Blackhorse Tanner            7   AUS DOM FOR                  Ventrue antitribu:3
-1x Blanche Hill                 6   FOR OBE aus                  Salubri:2
+Crypt (12 cards, min=21, max=31, avg=6.67)
+------------------------------------------
+5x Matthias                   7  AUS FOR OBE nec              Salubri:2
+3x Le Dinh Tho                5  NEC aus dom                  Nagaraja:2
+1x Quentin                    9  AUS DOM FOR cel obt  bishop  Ventrue antitribu:2
+1x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre          Ventrue antitribu:3
+1x Blackhorse Tanner          7  AUS DOM FOR                  Ventrue antitribu:3
+1x Blanche Hill               6  FOR OBE aus                  Salubri:2
 
 Library (90 cards)
 Master (15)

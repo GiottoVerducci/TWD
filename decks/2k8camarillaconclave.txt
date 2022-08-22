@@ -11,16 +11,16 @@ Description: This is a Gangrel wall deck that does not bring
 out Enkidu first, but later in the game, when you have enough
 pool to put Enkidu in play.
 
-Crypt (12 cards, min=25 max=41 avg=7.92)
-----------------------------------------
-3x Enkidu, The Noah     11  ANI CEL OBF POT PRO for             Gangrel antitribu:4
-3x Danielle Diron       7   ANI PRO chi for             1 vote  Gangrel:3
-1x Brunhilde            8   ANI FOR PRO pre                     Gangrel:3
-1x Nadima               8   FOR PRO SER ani aus                 Gangrel:3
-1x Doyle Fincher        7   ANI PRO aus for obf                 Gangrel antitribu:4
-1x Ryder                7   FOR PRO ani pot                     Gangrel:4
-1x Janey Pickman        6   ANI PRO for                         Gangrel antitribu:4
-1x Céleste Lamontagne   5   ANI PRO for                         Gangrel antitribu:4
+Crypt (12 cards, min=25, max=41, avg=7.92)
+------------------------------------------
+3x Enkidu, The Noah    11  ANI CEL OBF POT PRO for          Gangrel antitribu:4
+3x Danielle Diron       7  ANI PRO chi for          1 vote  Gangrel:3
+1x Brunhilde            8  ANI FOR PRO pre                  Gangrel:3
+1x Nadima               8  FOR PRO SER ani aus              Gangrel:3
+1x Doyle Fincher        7  ANI PRO aus for obf              Gangrel antitribu:4
+1x Ryder                7  FOR PRO ani pot                  Gangrel:4
+1x Janey Pickman        6  ANI PRO for                      Gangrel antitribu:4
+1x Céleste Lamontagne   5  ANI PRO for                      Gangrel antitribu:4
 
 Library (90 cards)
 Master (17; 8 trifle)

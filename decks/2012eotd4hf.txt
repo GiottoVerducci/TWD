@@ -12,17 +12,17 @@ Deck Name: 15 Nocturns in the Night
 Description: A Nocturn deck with quite a few ways to bleed for more
 than one with the Nocturns thus messing up the prey's math.
 
-Crypt (12 cards, min=16 max=25 avg=5.08)
-----------------------------------------
-2x Onaedo                6   DOM OBT aus pot            Lasombra:4
-2x Andrew Emory          5   OBT aus dom pot    bishop  Lasombra:4
-2x Ermenegildo, The Rake 5   DOM OBT pot                Lasombra:4
-1x Lord Vauxhall         7   DOM OBT POT THA            Lasombra:4
-1x Isanwayen             6   DOM MYT OBT                Kiasyd:4
-1x Dame Hollerton        5   DOM OBT myt                Kiasyd:4
-1x Leila Monroe          4   dom obt pre                Lasombra:4
-1x Quincy, The Trapper   4   dom myt obt                Kiasyd:3
-1x Lucy Markowitz        3   dom obt                    Lasombra:4
+Crypt (12 cards, min=16, max=25, avg=5.08)
+------------------------------------------
+2x Onaedo                 6  DOM OBT aus pot          Lasombra:4
+2x Andrew Emory           5  OBT aus dom pot  bishop  Lasombra:4
+2x Ermenegildo, The Rake  5  DOM OBT pot              Lasombra:4
+1x Lord Vauxhall          7  DOM OBT POT THA          Lasombra:4
+1x Isanwayen              6  DOM MYT OBT              Kiasyd:4
+1x Dame Hollerton         5  DOM OBT myt              Kiasyd:4
+1x Leila Monroe           4  dom obt pre              Lasombra:4
+1x Quincy, The Trapper    4  dom myt obt              Kiasyd:3
+1x Lucy Markowitz         3  dom obt                  Lasombra:4
 
 Library (89 cards)
 Master (15; 1 trifle)

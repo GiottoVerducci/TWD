@@ -7,15 +7,15 @@ Alex Harmon
 
 -- 3GW8 + 2VP in final
 
-Crypt (13 cards, min=13 max=22 avg=4.46)
-----------------------------------------
-4x Travis "Traveler72" Miller   5   def mar      Martyr:4
-2x Earl "Shaka74" Deams         6   jud mar viz  Visionary:4
-2x Jack "Hannibal137" Harmon    4   def jud      Defender:4
-2x François "Warden" Loehr      3   def jud      Judge:4
-1x Jennie "Cassie247" Orne      5   inn jud viz  Visionary:4
-1x Xian "DziDzat155" Quan       4   def inn      Defender:4
-1x Inez "Nurse216" Villagrande  3   inn          Innocent:4
+Crypt (13 cards, min=13, max=22, avg=4.46)
+------------------------------------------
+4x Travis "Traveler72" Miller   5  def mar      Martyr:4
+2x Earl "Shaka74" Deams         6  jud mar viz  Visionary:4
+2x Jack "Hannibal137" Harmon    4  def jud      Defender:4
+2x François "Warden" Loehr      3  def jud      Judge:4
+1x Jennie "Cassie247" Orne      5  inn jud viz  Visionary:4
+1x Xian "DziDzat155" Quan       4  def inn      Defender:4
+1x Inez "Nurse216" Villagrande  3  inn          Innocent:4
 
 Library (70 cards)
 Master (13)

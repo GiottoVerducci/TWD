@@ -13,15 +13,15 @@ thru before the lunge.
 This deck took 1.5VP in the first round, swept up 5VP in the
 second round, and squeaked in 3VP in final for the tournament win.
 
-Crypt (12 cards, min=22 max=39 avg=7.75)
-----------------------------------------
-3x Appius Claudius Corvus 10  DOM OBT POT cel nec               Lasombra:5
-3x Saul Meira             8   CHI DOM OBT POT                   Lasombra:5
-2x Ermenegildo, The Rake  5   DOM OBT pot                       Lasombra:4
-1x Antón de Concepción    9   ANI DOM OBT POT aus  archbishop   Lasombra:4
-1x Conrad Adoula          8   DOM OBT POT ani cel               Lasombra:4
-1x Lord Vauxhall          7   DOM OBT POT THA                   Lasombra:4
-1x Andrew Emory           5   OBT aus dom pot      bishop       Lasombra:4
+Crypt (12 cards, min=22, max=39, avg=7.75)
+------------------------------------------
+3x Appius Claudius Corvus  10  DOM OBT POT cel nec              Lasombra:5
+3x Saul Meira               8  CHI DOM OBT POT                  Lasombra:5
+2x Ermenegildo, The Rake    5  DOM OBT pot                      Lasombra:4
+1x Antón de Concepción      9  ANI DOM OBT POT aus  archbishop  Lasombra:4
+1x Conrad Adoula            8  DOM OBT POT ani cel              Lasombra:4
+1x Lord Vauxhall            7  DOM OBT POT THA                  Lasombra:4
+1x Andrew Emory             5  OBT aus dom pot      bishop      Lasombra:4
 
 Library (90 cards)
 Master (16)

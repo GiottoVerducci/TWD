@@ -10,21 +10,21 @@ https://www.vekn.net/event-calendar/event/8201
 
 Deck Name: Turbo Barão
 
-Crypt (13 cards, min=20 max=32 avg=6.69)
-----------------------------------------
-1x Baron, The                           9   FOR NEC OBF THN dom  2 votes  Samedi:2
-1x Bartholomew                          8   AUS MYT NEC dom obt           Kiasyd:2
-1x Pochtli                              8   NEC OBF POT cel dom           Giovanni:2
-1x Andrea Giovanni                      7   DOM NEC pot vic               Giovanni:2
-1x Carlotta Giovanni                    7   NEC POT dom obf               Giovanni:2
-1x Egothha                              7   AUS FOR NEC obf               Harbinger of Skulls:2
-1x Gillespi Giovanni                    7   DOM NEC POT aus               Giovanni:2
-1x Gisela Harden, The Winnower          7   FOR NEC aus dem      priscus  Harbinger of Skulls:2
-1x Kanimana Belghazi                    7   AUS DOM NEC pro               Nagaraja:2
-1x Agaitas, The Scholar of Antiquities  6   AUS NEC for                   Harbinger of Skulls:2
-1x Rafaele Giovanni                     6   NEC cel obf                   Giovanni:2
-1x Isabel Giovanni                      5   DOM NEC pot                   Giovanni:2
-1x Rudolfo Giovanni                     3   NEC                           Giovanni:2
+Crypt (13 cards, min=20, max=32, avg=6.69)
+------------------------------------------
+1x Baron, The                           9  FOR NEC OBF THN dom  2 votes  Samedi:2
+1x Bartholomew                          8  AUS MYT NEC dom obt           Kiasyd:2
+1x Pochtli                              8  NEC OBF POT cel dom           Giovanni:2
+1x Andrea Giovanni                      7  DOM NEC pot vic               Giovanni:2
+1x Carlotta Giovanni                    7  NEC POT dom obf               Giovanni:2
+1x Egothha                              7  AUS FOR NEC obf               Harbinger of Skulls:2
+1x Gillespi Giovanni                    7  DOM NEC POT aus               Giovanni:2
+1x Gisela Harden, The Winnower          7  FOR NEC aus dem      priscus  Harbinger of Skulls:2
+1x Kanimana Belghazi                    7  AUS DOM NEC pro               Nagaraja:2
+1x Agaitas, The Scholar of Antiquities  6  AUS NEC for                   Harbinger of Skulls:2
+1x Rafaele Giovanni                     6  NEC cel obf                   Giovanni:2
+1x Isabel Giovanni                      5  DOM NEC pot                   Giovanni:2
+1x Rudolfo Giovanni                     3  NEC                           Giovanni:2
 
 Library (75 cards)
 Master (18)

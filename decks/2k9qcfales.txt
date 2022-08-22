@@ -7,14 +7,14 @@ Yannick Gibert
 
 Deck Name: Germaine is back. And he's angry.
 
-Crypt (12 cards, min=20 max=32 avg=7)
--------------------------------------
-4x Count Germaine           8   CEL FOR POT PRE obf                Brujah:4
-1x Count Germaine (ADV)     8   CEL FOR POT PRE obf                Brujah:4
-3x Hrothulf                 8   CEL FOR PRE dom pot pro            Ventrue:3
-2x Lorrie Dunsirn           4   POT for nec                        Abomination:4
-1x Benedict Giovanni, Agent 6   FOR POT cel dom nec                Giovanni:4
-1x Pug Jackson              6   CEL POT for pre          primogen  Brujah:3
+Crypt (12 cards, min=20, max=32, avg=7)
+---------------------------------------
+4x Count Germaine            8  CEL FOR POT PRE obf                Brujah:4
+1x Count Germaine (ADV)      8  CEL FOR POT PRE obf                Brujah:4
+3x Hrothulf                  8  CEL FOR PRE dom pot pro            Ventrue:3
+2x Lorrie Dunsirn            4  POT for nec                        Abomination:4
+1x Benedict Giovanni, Agent  6  FOR POT cel dom nec                Giovanni:4
+1x Pug Jackson               6  CEL POT for pre          primogen  Brujah:3
 
 Library (90 cards)
 Master (15; 4 trifle)

@@ -14,14 +14,14 @@ I had every meaning to change out some cards against some more political
 actions, as well as change out Vele’s hunt but I was in a hurry the morning of
 the tournament.
 
-Crypt (12 cards, min=31 max=44 avg=9.58)
-----------------------------------------
-4x Stanislava     11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
-2x Genevieve      10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
-2x Hartmut Stover 10  CEL OBF PRO dom for  archbishop    Gangrel antitribu:3
-2x Ingrid Rossler 9   ANI FOR PRO dom      prince        Gangrel:2
-1x Iliana         7   DOM FOR PRO tha                    Gangrel:2
-1x Caitlin        6   ANI PRO aus dom      bishop        Gangrel antitribu:2
+Crypt (12 cards, min=31, max=44, avg=9.58)
+------------------------------------------
+4x Stanislava      11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Genevieve       10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+2x Hartmut Stover  10  CEL OBF PRO dom for  archbishop    Gangrel antitribu:3
+2x Ingrid Rossler   9  ANI FOR PRO dom      prince        Gangrel:2
+1x Iliana           7  DOM FOR PRO tha                    Gangrel:2
+1x Caitlin          6  ANI PRO aus dom      bishop        Gangrel antitribu:2
 
 Library (74 cards)
 Master (17; 6 trifle)

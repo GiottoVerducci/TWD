@@ -15,17 +15,17 @@ in the game and played with a incomplete deck. The player benefited immensely
 from the reactions in his deck on this tournament meta. This deck should soon
 be upgraded with 1 more Form of Corruption and at least 3-4 Enticements.
 
-Crypt (12 cards, min=18 max=38 avg=7.5)
----------------------------------------
-2x Nakhthorheb                   10  OBF PRE SER                         Follower of Set:4
-2x Renenet                       5   OBF PRE ser                         Follower of Set:4
-2x Marla Kenyon                  4   PRE ser                             Follower of Set:4
-1x Neferu                        9   OBF PRE SER THA dom nec    2 votes  Follower of Set:4
-1x Pentweret                     9   OBF PRE SER aus for obe             Follower of Set:5
-1x Porphyrion                    9   CHI OBF PRE SER for                 Follower of Set:5
-1x Shemti                        9   OBF POT PRE SER vic        1 vote   Follower of Set:5
-1x Arnulf Jormungandrsson        8   OBF PRE SER aus cel                 Follower of Set:5
-1x Sundervere, The Devil Brahmin 8   AUS PRE SER THA obf                 Follower of Set:4
+Crypt (12 cards, min=18, max=38, avg=7.5)
+-----------------------------------------
+2x Nakhthorheb                    10  OBF PRE SER                       Follower of Set:4
+2x Renenet                         5  OBF PRE ser                       Follower of Set:4
+2x Marla Kenyon                    4  PRE ser                           Follower of Set:4
+1x Neferu                          9  OBF PRE SER THA dom nec  2 votes  Follower of Set:4
+1x Pentweret                       9  OBF PRE SER aus for obe           Follower of Set:5
+1x Porphyrion                      9  CHI OBF PRE SER for               Follower of Set:5
+1x Shemti                          9  OBF POT PRE SER vic      1 vote   Follower of Set:5
+1x Arnulf Jormungandrsson          8  OBF PRE SER aus cel               Follower of Set:5
+1x Sundervere, The Devil Brahmin   8  AUS PRE SER THA obf               Follower of Set:4
 
 Library (89 cards)
 Master (11)

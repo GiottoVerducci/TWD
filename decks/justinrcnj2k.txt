@@ -6,16 +6,16 @@ https://groups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/PvLF6q0Xt_A/
 
 Malkavian Temptation of Greater Power
 
-Crypt (12 cards, min=15 max=41 avg=7.5)
----------------------------------------
-4x Lucian           10  AUS DOM OBF cel tha      justicar       Malkavian:1
-2x Gilbert Duane    7   AUS DOM OBF              prince         Malkavian:1
-1x Arika            11  DOM FOR OBF PRE aus cel  inner circle   Ventrue:2
-1x Queen Anne       10  DOM FOR PRE aus obf      prince         Ventrue:2
-1x Greger Anderssen 7   AUS OBF dom pro          prince         Malkavian:2
-1x Watenda          3   obf                                     Malkavian:2
-1x Zöe              3   AUS cel obf                             Malkavian:2
-1x Normal           2   obf                                     Malkavian:1
+Crypt (12 cards, min=15, max=41, avg=7.5)
+-----------------------------------------
+4x Lucian            10  AUS DOM OBF cel tha      justicar      Malkavian:1
+2x Gilbert Duane      7  AUS DOM OBF              prince        Malkavian:1
+1x Arika             11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Queen Anne        10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Greger Anderssen   7  AUS OBF dom pro          prince        Malkavian:2
+1x Watenda            3  obf                                    Malkavian:2
+1x Zöe                3  AUS cel obf                            Malkavian:2
+1x Normal             2  obf                                    Malkavian:1
 
 Library (90 cards)
 Master (16)

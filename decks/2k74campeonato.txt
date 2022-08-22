@@ -7,17 +7,17 @@ Thyelles Yoshitomi
 
 Deck Name: Chuck de bigode sinistro (Sinister Chuck with mustache)
 
-Crypt (13 cards, min=16 max=34 avg=6.46)
-----------------------------------------
-3x Meshenka         8   ANI AUS VIC             priscus   Tzimisce:2
-3x Dragos           7   ANI AUS vic                       Tzimisce:2
-1x Lambach          10  ANI AUS DOM VIC pre     cardinal  Tzimisce:2
-1x Kazimir Savostin 7   AUS VIC ani pot                   Tzimisce:3
-1x Caliban          6   ANI AUS VIC                       Tzimisce:2
-1x Ana Rita Montaña 5   VIC aus dom obf                   Tzimisce:3
-1x Devin Bisley     5   ANI AUS vic                       Tzimisce:2
-1x Lolita Houston   4   VIC aus                           Tzimisce:2
-1x Horatio          2   vic                               Tzimisce:2
+Crypt (13 cards, min=16, max=34, avg=6.46)
+------------------------------------------
+3x Meshenka           8  ANI AUS VIC          priscus   Tzimisce:2
+3x Dragos             7  ANI AUS vic                    Tzimisce:2
+1x Lambach           10  ANI AUS DOM VIC pre  cardinal  Tzimisce:2
+1x Kazimir Savostin   7  AUS VIC ani pot                Tzimisce:3
+1x Caliban            6  ANI AUS VIC                    Tzimisce:2
+1x Ana Rita Montaña   5  VIC aus dom obf                Tzimisce:3
+1x Devin Bisley       5  ANI AUS vic                    Tzimisce:2
+1x Lolita Houston     4  VIC aus                        Tzimisce:2
+1x Horatio            2  vic                            Tzimisce:2
 
 Library (90 cards)
 Master (12)

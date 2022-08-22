@@ -10,12 +10,12 @@ Deck Name: Arhimanes gone wild
 Description: a somewhat-weird Ahrimanes
 anarch votes deck
 
-Crypt (12 cards, min=22 max=32 avg=6.83)
-----------------------------------------
-4x Howler         8   ANI PRE SPI obf      Ahrimane:2
-4x Siamese, The   7   PRE SPI ani pro      Ahrimane:2
-2x Cynthia Ingold 6   SPI ani for pre      Ahrimane:2
-2x Nettie Hale    5   ani cel pre pro spi  Ahrimane:2
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+4x Howler          8  ANI PRE SPI obf      Ahrimane:2
+4x Siamese, The    7  PRE SPI ani pro      Ahrimane:2
+2x Cynthia Ingold  6  SPI ani for pre      Ahrimane:2
+2x Nettie Hale     5  ani cel pre pro spi  Ahrimane:2
 
 Library (90 cards)
 Master (14)

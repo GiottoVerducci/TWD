@@ -8,16 +8,16 @@ https://www.vekn.net/event-calendar/event/7489
 
 Deck Name: Tzimisce Wall
 
-Crypt (12 cards, min=7 max=25 avg=4.17)
----------------------------------------
-3x Caliban         6   ANI AUS VIC  Tzimisce:2
-3x Devin Bisley    5   ANI AUS vic  Tzimisce:2
-1x Dragos          7   ANI AUS vic  Tzimisce:2
-1x Wendy Wade      3   ani aus      Tzimisce:2
-1x Dani            2   ani          Nosferatu antitribu:2
-1x Mouse           2   ani          Nosferatu:3
-1x Piotr Andreikov 2   aus          Tzimisce:3
-1x Lisa Noble      1   ani          Caitiff:3
+Crypt (12 cards, min=7, max=25, avg=4.17)
+-----------------------------------------
+3x Caliban          6  ANI AUS VIC  Tzimisce:2
+3x Devin Bisley     5  ANI AUS vic  Tzimisce:2
+1x Dragos           7  ANI AUS vic  Tzimisce:2
+1x Wendy Wade       3  ani aus      Tzimisce:2
+1x Dani             2  ani          Nosferatu antitribu:2
+1x Mouse            2  ani          Nosferatu:3
+1x Piotr Andreikov  2  aus          Tzimisce:3
+1x Lisa Noble       1  ani          Caitiff:3
 
 Library (80 cards)
 Master (14)

@@ -13,14 +13,14 @@ tap out every turn is nice at which point you can just bleed while
 juggling your permanents with the Heidelberg. The Dreams and the
 Aura Readings prevent hand jams.
 
-Crypt (12 cards, min=25 max=32 avg=7.08)
-----------------------------------------
-4x Serenna the White    8   AUS FOR OBE ani dem          Salubri:6
-4x Matthew              7   AUS FOR OBE cel              Salubri:6
-1x Anu Diptinatpa       7   DOM NEC aus vic              Nagaraja:6
-1x Graham Gottesman     7   DOM FOR obf pre tha  prince  Ventrue:5
-1x Kestrelle Hayes      6   AUS dom for obt              Ventrue antitribu:5
-1x Silas                5   FOR aus dom val              Salubri antitribu:6
+Crypt (12 cards, min=25, max=32, avg=7.08)
+------------------------------------------
+4x Serenna the White  8  AUS FOR OBE ani dem          Salubri:6
+4x Matthew            7  AUS FOR OBE cel              Salubri:6
+1x Anu Diptinatpa     7  DOM NEC aus vic              Nagaraja:6
+1x Graham Gottesman   7  DOM FOR obf pre tha  prince  Ventrue:5
+1x Kestrelle Hayes    6  AUS dom for obt              Ventrue antitribu:5
+1x Silas              5  FOR aus dom val              Salubri antitribu:6
 
 Library (88 cards)
 Master (18; 9 trifle)

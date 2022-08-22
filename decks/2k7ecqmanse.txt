@@ -8,15 +8,15 @@ Jaakko Liemola
 
 Deck Name: ECQ-Lasombra
 
-Crypt (13 cards, min=32 max=40 avg=9.31)
-----------------------------------------
-2x Bruce de Guy                 10  AUS DOM FOR OBT             cardinal    Ventrue antitribu:4
-2x Luca Italicus                10  DOM FOR NEC OBT POT tha     archbishop  Lasombra:4
-2x Marcus Vitel                 10  DOM FOR OBF OBT PRE         prince      Ventrue:3
-2x Melinda Galbraith            10  AUS CEL DOM POT PRE obt     cardinal    Lasombra:4
-2x Antón de Concepción          9   ANI DOM OBT POT aus         archbishop  Lasombra:4
-2x Giangaleazzo, The Traitor    8   OBT POT PRE dom             prince      Lasombra:4
-1x Omme Enberbenight            7   MYT OBT cel dom             priscus     Kiasyd:4
+Crypt (13 cards, min=32, max=40, avg=9.31)
+------------------------------------------
+2x Bruce de Guy               10  AUS DOM FOR OBT          cardinal    Ventrue antitribu:4
+2x Luca Italicus              10  DOM FOR NEC OBT POT tha  archbishop  Lasombra:4
+2x Marcus Vitel               10  DOM FOR OBF OBT PRE      prince      Ventrue:3
+2x Melinda Galbraith          10  AUS CEL DOM POT PRE obt  cardinal    Lasombra:4
+2x Antón de Concepción         9  ANI DOM OBT POT aus      archbishop  Lasombra:4
+2x Giangaleazzo, The Traitor   8  OBT POT PRE dom          prince      Lasombra:4
+1x Omme Enberbenight           7  MYT OBT cel dom          priscus     Kiasyd:4
 
 Library (90 cards)
 Master (22)

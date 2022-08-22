@@ -11,14 +11,14 @@ Description: Path of the Void reduces Lucians bleed to 3,
 out of the AI range and helps cycle excess masters(+ extra
 stealth). Deck itself is as random as possible.
 
-Crypt (12 cards, min=27 max=44 avg=9.08)
-----------------------------------------
-5x Lucian, The Perfect     11  ANI AUS DOM OBF POT PRE              Guruhi:4
-3x Gustaphe Brunnelle      8   ANI DOM POT obf          primogen    Nosferatu:4
-1x Alonso Petrodon         10  ANI DOM OBF POT for tha  justicar    Nosferatu:5
-1x Antón de Concepción     9   ANI DOM OBT POT aus      archbishop  Lasombra:4
-1x Accorri Giovanni        6   DOM POT ani nec                      Giovanni:5
-1x Jeremy "Wix" Wyzchovsky 5   ani obf pot                          Nosferatu:4
+Crypt (12 cards, min=27, max=44, avg=9.08)
+------------------------------------------
+5x Lucian, The Perfect      11  ANI AUS DOM OBF POT PRE              Guruhi:4
+3x Gustaphe Brunnelle        8  ANI DOM POT obf          primogen    Nosferatu:4
+1x Alonso Petrodon          10  ANI DOM OBF POT for tha  justicar    Nosferatu:5
+1x Antón de Concepción       9  ANI DOM OBT POT aus      archbishop  Lasombra:4
+1x Accorri Giovanni          6  DOM POT ani nec                      Giovanni:5
+1x Jeremy "Wix" Wyzchovsky   5  ani obf pot                          Nosferatu:4
 
 Library (90 cards)
 Master (30; 8 trifle)

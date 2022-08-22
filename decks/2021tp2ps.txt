@@ -10,16 +10,16 @@ https://www.vekn.net/event-calendar/event/9841
 
 Deck Name: Ventrue Lawfirm v5
 
-Crypt (12 cards, min=23 max=32 avg=6.92)
-----------------------------------------
-2x Alexa Draper         8   DOM PRE for pot      prince    Ventrue:6
-2x Lodin (Olaf Holte)   8   DOM FOR PRE aus pro  prince    Ventrue:5
-2x Alice Chen           7   FOR PRE dom obf      prince    Ventrue:6
-2x Sybren van Oosten    7   FOR PRE dom tha      prince    Ventrue:6
-1x Horst von Brühl      6   FOR aus dom pre      prince    Ventrue:6
-1x Mkhokheli            6   PRE aus cel for      prince    Toreador:6
-1x Victor Donaldson     6   DOM for pre          prince    Ventrue:5
-1x Emily Carson         5   DOM for pre          primogen  Ventrue:5
+Crypt (12 cards, min=23, max=32, avg=6.92)
+------------------------------------------
+2x Alexa Draper        8  DOM PRE for pot      prince    Ventrue:6
+2x Lodin (Olaf Holte)  8  DOM FOR PRE aus pro  prince    Ventrue:5
+2x Alice Chen          7  FOR PRE dom obf      prince    Ventrue:6
+2x Sybren van Oosten   7  FOR PRE dom tha      prince    Ventrue:6
+1x Horst von Brühl     6  FOR aus dom pre      prince    Ventrue:6
+1x Mkhokheli           6  PRE aus cel for      prince    Toreador:6
+1x Victor Donaldson    6  DOM for pre          prince    Ventrue:5
+1x Emily Carson        5  DOM for pre          primogen  Ventrue:5
 
 Library (77 cards)
 Master (11; 2 trifle)

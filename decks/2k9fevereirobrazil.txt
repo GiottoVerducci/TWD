@@ -6,13 +6,13 @@ Lincoln Figueredo
 
 Deck Name: Lincoln's Setite deck
 
-Crypt (16 cards, min=13 max=40 avg=5.81)
-----------------------------------------
-8x Aabbt Kindred   4   for pre ser              Follower of Set:2
-5x Nefertiti       10  DOM OBF PRE SER cel pot  Follower of Set:2
-1x Allonzo Montoya 6   OBF SER ani aus          Abomination:3
-1x Khalil Anvari   3   pre ser                  Follower of Set:2
-1x Lalitha         2   ser                      Follower of Set:2
+Crypt (16 cards, min=13, max=40, avg=5.81)
+------------------------------------------
+8x Aabbt Kindred     4  for pre ser              Follower of Set:2
+5x Nefertiti        10  DOM OBF PRE SER cel pot  Follower of Set:2
+1x Allonzo Montoya   6  OBF SER ani aus          Abomination:3
+1x Khalil Anvari     3  pre ser                  Follower of Set:2
+1x Lalitha           2  ser                      Follower of Set:2
 
 Library (90 cards)
 Master (26)

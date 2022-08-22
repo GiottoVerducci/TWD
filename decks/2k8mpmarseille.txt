@@ -9,13 +9,13 @@ Deck Name: Madness of the fun
 
 Description: Inspiration of an old Johannes's deck
 
-Crypt (12 cards, min=20 max=40 avg=7.33)
-----------------------------------------
-4x Lucian           10  AUS DOM OBF cel tha     justicar  Malkavian:1
-3x Gilbert Duane    7   AUS DOM OBF             prince    Malkavian:1
-2x Greger Anderssen 7   AUS OBF dom pro         prince    Malkavian:2
-2x Victoria         5   AUS cel obf                       Malkavian:2
-1x Zöe              3   AUS cel obf                       Malkavian:2
+Crypt (12 cards, min=20, max=40, avg=7.33)
+------------------------------------------
+4x Lucian            10  AUS DOM OBF cel tha  justicar  Malkavian:1
+3x Gilbert Duane      7  AUS DOM OBF          prince    Malkavian:1
+2x Greger Anderssen   7  AUS OBF dom pro      prince    Malkavian:2
+2x Victoria           5  AUS cel obf                    Malkavian:2
+1x Zöe                3  AUS cel obf                    Malkavian:2
 
 Library (80 cards)
 Master (16; 2 trifle)

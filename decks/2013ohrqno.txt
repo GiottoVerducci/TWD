@@ -9,15 +9,15 @@ Jay Kristoff
 
 Deck Name: Quick Rising Cock
 
-Crypt (13 cards, min=10 max=40 avg=7.08)
-----------------------------------------
-7x Cock Robin           10  ANI OBF POT aus for  justicar  Nosferatu:3
-1x Baron Dieudonne      9   ANI OBF POT PRO      prince    Nosferatu:4
-1x Clarissa Steinburgen 3   ani obf                        Nosferatu:3
-1x Darva Felispa        3   ani pot                        Nosferatu:3
-1x Foureyes             3   obf pot                        Nosferatu:4
-1x Krid                 2   obf                            Nosferatu:3
-1x Mouse                2   ani                            Nosferatu:3
+Crypt (13 cards, min=10, max=40, avg=7.08)
+------------------------------------------
+7x Cock Robin            10  ANI OBF POT aus for  justicar  Nosferatu:3
+1x Baron Dieudonne        9  ANI OBF POT PRO      prince    Nosferatu:4
+1x Clarissa Steinburgen   3  ani obf                        Nosferatu:3
+1x Darva Felispa          3  ani pot                        Nosferatu:3
+1x Foureyes               3  obf pot                        Nosferatu:4
+1x Krid                   2  obf                            Nosferatu:3
+1x Mouse                  2  ani                            Nosferatu:3
 
 Library (60 cards)
 Master (12; 2 trifle)

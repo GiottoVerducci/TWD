@@ -18,14 +18,14 @@ you have? Death to unbelievers. Once upon a time, once when you rhyme,
 there were those who lacked faith. True, truth is not an issue. Fleeing,
 though, accomplishes nothing. Health comes from drinking.
 
-Crypt (12 cards, min=16 max=30 avg=6.17)
-----------------------------------------
-2x Lukas          8   ANI OBF POT pre ser  archbishop   Nosferatu antitribu:4
-2x Greensleeves   7   ANI OBF for pot      priscus      Nosferatu antitribu:4
-2x Marie Faucigny 7   AUS OBF dem tha      archbishop   Malkavian antitribu:3
-2x Stavros        7   AUS OBF PRE dem      priscus      Malkavian antitribu:4
-2x Xendil Charmer 7   CEL PRO SER obf      priscus      Gangrel antitribu:4
-2x Tupdog         1   POT VIS                           Gargoyle:3
+Crypt (12 cards, min=16, max=30, avg=6.17)
+------------------------------------------
+2x Lukas           8  ANI OBF POT pre ser  archbishop  Nosferatu antitribu:4
+2x Greensleeves    7  ANI OBF for pot      priscus     Nosferatu antitribu:4
+2x Marie Faucigny  7  AUS OBF dem tha      archbishop  Malkavian antitribu:3
+2x Stavros         7  AUS OBF PRE dem      priscus     Malkavian antitribu:4
+2x Xendil Charmer  7  CEL PRO SER obf      priscus     Gangrel antitribu:4
+2x Tupdog          1  POT VIS                          Gargoyle:3
 
 Library (70 cards)
 Master (26)

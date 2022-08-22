@@ -10,17 +10,17 @@ Created by: Régis LAUBRY aka Kramble & Sasha
 
 Description: Full Rush Dragos
 
-Crypt (12 cards, min=14 max=28 avg=5.25)
-----------------------------------------
-4x Dragos               7   ANI AUS vic          Tzimisce:2
-1x Caliban              6   ANI AUS VIC          Tzimisce:2
-1x Calebros, The Martyr 5   ANI obf pot  prince  Nosferatu:2
-1x Devin Bisley         5   ANI AUS vic          Tzimisce:2
-1x Lord Ashton          5   ANI for pro          Gangrel:3
-1x Nigel the Shunned    5   ANI POT obf          Nosferatu antitribu:2
-1x Bobby Lemon          4   ANI pro              Gangrel:3
-1x Wendy Wade           3   ani aus              Tzimisce:2
-1x Dani                 2   ani                  Nosferatu antitribu:2
+Crypt (12 cards, min=14, max=28, avg=5.25)
+------------------------------------------
+4x Dragos                7  ANI AUS vic          Tzimisce:2
+1x Caliban               6  ANI AUS VIC          Tzimisce:2
+1x Calebros, The Martyr  5  ANI obf pot  prince  Nosferatu:2
+1x Devin Bisley          5  ANI AUS vic          Tzimisce:2
+1x Lord Ashton           5  ANI for pro          Gangrel:3
+1x Nigel the Shunned     5  ANI POT obf          Nosferatu antitribu:2
+1x Bobby Lemon           4  ANI pro              Gangrel:3
+1x Wendy Wade            3  ani aus              Tzimisce:2
+1x Dani                  2  ani                  Nosferatu antitribu:2
 
 Library (90 cards)
 Master (14)

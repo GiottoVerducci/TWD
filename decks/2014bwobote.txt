@@ -8,15 +8,15 @@ https://www.vekn.net/event-calendar/event/7428
 
 Deck Name: Lasombra Stealth/Bleed
 
-Crypt (12 cards, min=22 max=40 avg=7.75)
-----------------------------------------
-3x Angelica, The Canonicus 10  DOM OBT POT cel obf  cardinal    Lasombra:2
-3x Gratiano                8   DOM OBT obf pot      priscus     Lasombra:2
-2x Guido Lucciano          5   OBT dom obf                      Lasombra:2
-1x Marcus Vitel            10  DOM FOR OBF OBT PRE  prince      Ventrue:3
-1x Henri Lavenant          7   DOM OBT pot qui                  Lasombra:3
-1x Tobias Smith            7   DOM OBT PRE pot                  Lasombra:3
-1x Gemini                  5   OBF ani obt pot                  Nosferatu:3
+Crypt (12 cards, min=22, max=40, avg=7.75)
+------------------------------------------
+3x Angelica, The Canonicus  10  DOM OBT POT cel obf  cardinal  Lasombra:2
+3x Gratiano                  8  DOM OBT obf pot      priscus   Lasombra:2
+2x Guido Lucciano            5  OBT dom obf                    Lasombra:2
+1x Marcus Vitel             10  DOM FOR OBF OBT PRE  prince    Ventrue:3
+1x Henri Lavenant            7  DOM OBT pot qui                Lasombra:3
+1x Tobias Smith              7  DOM OBT PRE pot                Lasombra:3
+1x Gemini                    5  OBF ani obt pot                Nosferatu:3
 
 Library (75 cards)
 Master (16; 5 trifle)

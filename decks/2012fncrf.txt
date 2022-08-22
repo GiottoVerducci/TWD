@@ -18,15 +18,15 @@ Enkidu in 5 copies sometimes didn't show up. I added one copy (with a 13-crypt c
 Master come quite quickly because you cycle lots of cards. You can even
 -- jam with master even there are only 12 of them, but it's quite rare.
 
-Crypt (13 cards, min=7 max=44 avg=6.31)
----------------------------------------
-6x Enkidu, The Noah 11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
-2x Andre LeRoux     3   aus                      Toreador:5
-1x T.J.             3   cel for                  Gangrel:4
-1x Clifton Derrik   2   cel                      Brujah:4
-1x Leo Washington   2   cel pro                  Gangrel antitribu:4
-1x Sean Andrews     2   cel                      Toreador:4
-1x Iris Bennett     1   pro                      Caitiff:5
+Crypt (13 cards, min=7, max=44, avg=6.31)
+-----------------------------------------
+6x Enkidu, The Noah  11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+2x Andre LeRoux       3  aus                      Toreador:5
+1x T.J.               3  cel for                  Gangrel:4
+1x Clifton Derrik     2  cel                      Brujah:4
+1x Leo Washington     2  cel pro                  Gangrel antitribu:4
+1x Sean Andrews       2  cel                      Toreador:4
+1x Iris Bennett       1  pro                      Caitiff:5
 
 Library (90 cards)
 Master (12; 3 trifle)

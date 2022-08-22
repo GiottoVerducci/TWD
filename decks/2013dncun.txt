@@ -16,17 +16,17 @@ that comes out, a bit of defense and an occasional eagle's sight. Ashur to recov
 removed 419, intercept and the small amount of combat. And a last stand that I pulled
 off to play in the second game, so your grandprey doesn't get the pool you have on the 419s.
 
-Crypt (12 cards, min=10 max=22 avg=4.17)
-----------------------------------------
-2x Neighbor John  5   AUS dom for       Ventrue antitribu:4
-2x Titi Camara    5   AUS CEL pot       Osebo:5
-2x Misrak         2   pot               Osebo:4
-1x Abiku          6   AUS POT cel obt   Osebo:4
-1x Homa           6   AUS CEL POT       Osebo:4
-1x Idrissa        4   CEL aus           Osebo:4
-1x Ismitta        4   aus cel pot       Osebo:4
-1x Arriette Sylla 3   POT               Osebo:4
-1x Kamaria        3   aus pot           Osebo:4
+Crypt (12 cards, min=10, max=22, avg=4.17)
+------------------------------------------
+2x Neighbor John   5  AUS dom for      Ventrue antitribu:4
+2x Titi Camara     5  AUS CEL pot      Osebo:5
+2x Misrak          2  pot              Osebo:4
+1x Abiku           6  AUS POT cel obt  Osebo:4
+1x Homa            6  AUS CEL POT      Osebo:4
+1x Idrissa         4  CEL aus          Osebo:4
+1x Ismitta         4  aus cel pot      Osebo:4
+1x Arriette Sylla  3  POT              Osebo:4
+1x Kamaria         3  aus pot          Osebo:4
 
 Library (72 cards)
 Master (27)

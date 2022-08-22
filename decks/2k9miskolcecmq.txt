@@ -9,15 +9,15 @@ Ferenc Vasadi
 
 Deck Name: NewNosfi
 
-Crypt (12 cards, min=19 max=40 avg=7.83)
-----------------------------------------
-4x Alonso Petrodon         10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
-3x Baron Dieudonne         9   ANI OBF POT PRO          prince    Nosferatu:4
-1x Gustaphe Brunnelle      8   ANI DOM POT obf          primogen  Nosferatu:4
-1x Benjamin Rose           7   AUS OBF ani pot          prince    Nosferatu:5
-1x Jeremy "Wix" Wyzchovsky 5   ani obf pot                        Nosferatu:4
-1x Beetleman               4   ANI obf                            Nosferatu:4
-1x Foureyes                3   obf pot                            Nosferatu:4
+Crypt (12 cards, min=19, max=40, avg=7.83)
+------------------------------------------
+4x Alonso Petrodon          10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
+3x Baron Dieudonne           9  ANI OBF POT PRO          prince    Nosferatu:4
+1x Gustaphe Brunnelle        8  ANI DOM POT obf          primogen  Nosferatu:4
+1x Benjamin Rose             7  AUS OBF ani pot          prince    Nosferatu:5
+1x Jeremy "Wix" Wyzchovsky   5  ani obf pot                        Nosferatu:4
+1x Beetleman                 4  ANI obf                            Nosferatu:4
+1x Foureyes                  3  obf pot                            Nosferatu:4
 
 Library (90 cards)
 Master (15; 5 trifle)

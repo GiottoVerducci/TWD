@@ -7,16 +7,16 @@ Patrick Costa
 
 Deck Name: !Ventrue
 
-Crypt (12 cards, min=15 max=31 avg=6)
--------------------------------------
-3x Owain Evans, The Wanderer    8   AUS DOM FOR cel pre  Ventrue antitribu:3
-2x Blackhorse Tanner            7   AUS DOM FOR          Ventrue antitribu:3
-2x Ingrid Russo                 4   DOM for              Ventrue antitribu:2
-1x Edward Neally                7   DOM FOR aus pre      Ventrue antitribu:3
-1x Charice Fontaigne            6   AUS DOM for pot      Ventrue antitribu:3
-1x Vanessa                      6   DOM FOR aus pre      Ventrue antitribu:2
-1x Billy                        5   AUS dom for          Ventrue antitribu:2
-1x Samson                       2   dom                  Ventrue antitribu:2
+Crypt (12 cards, min=15, max=31, avg=6)
+---------------------------------------
+3x Owain Evans, The Wanderer  8  AUS DOM FOR cel pre  Ventrue antitribu:3
+2x Blackhorse Tanner          7  AUS DOM FOR          Ventrue antitribu:3
+2x Ingrid Russo               4  DOM for              Ventrue antitribu:2
+1x Edward Neally              7  DOM FOR aus pre      Ventrue antitribu:3
+1x Charice Fontaigne          6  AUS DOM for pot      Ventrue antitribu:3
+1x Vanessa                    6  DOM FOR aus pre      Ventrue antitribu:2
+1x Billy                      5  AUS dom for          Ventrue antitribu:2
+1x Samson                     2  dom                  Ventrue antitribu:2
 
 Library (90 cards)
 Master (4)

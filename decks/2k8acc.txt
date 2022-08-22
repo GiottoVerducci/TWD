@@ -13,15 +13,15 @@ occasional vote calling, mainlys bleeds and bloats with Haqims LAw:
 Leadership. Based on a deck I saw at the Welsh ECQ a couple of years
 ago, by Oortji I think, updated with the mighty new cards.
 
-Crypt (12 cards, min=9 max=30 avg=4.92)
----------------------------------------
-3x Amaravati            8   DOM OBF QUI ani chi  Assamite:4
-2x Vardar Vardarian     6   OBF QUI cel pre      Assamite:4
-2x Kamau Jafari         4   QUI obf              Assamite:4
-2x Alu                  2   obf                  Assamite:5
-1x Hafsa, The Watcher   6   OBF QUI aus cel      Assamite:5
-1x Sajid al Misbah      4   QUI                  Assamite:5
-1x Basir                1   qui                  Assamite:4
+Crypt (12 cards, min=9, max=30, avg=4.92)
+-----------------------------------------
+3x Amaravati           8  DOM OBF QUI ani chi  Assamite:4
+2x Vardar Vardarian    6  OBF QUI cel pre      Assamite:4
+2x Kamau Jafari        4  QUI obf              Assamite:4
+2x Alu                 2  obf                  Assamite:5
+1x Hafsa, The Watcher  6  OBF QUI aus cel      Assamite:5
+1x Sajid al Misbah     4  QUI                  Assamite:5
+1x Basir               1  qui                  Assamite:4
 
 Library (74 cards)
 Master (20; 3 trifle)

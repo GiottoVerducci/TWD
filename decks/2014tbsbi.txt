@@ -8,17 +8,17 @@ https://www.vekn.net/event-calendar/event/7536
 
 Deck Name: Mimir
 
-Crypt (12 cards, min=15 max=40 avg=6.5)
----------------------------------------
-4x Mimir          10  ANI FOR PRO THA dom  cardinal     Gangrel antitribu:5
-1x Janey Pickman  6   ANI PRO for                       Gangrel antitribu:4
-1x Ryszard        6   CEL OBF pre pro      bishop       Gangrel antitribu:4
-1x Spider         6   CEL PRO ani for                   Gangrel antitribu:4
-1x Alex Camille   5   PRO cel for obf                   Gangrel antitribu:5
-1x Mowgli         5   FOR PRO ani cel                   Gangrel antitribu:4
-1x Synner-G       5   CEL OBF pro                       Gangrel antitribu:5
-1x Lula Burch     3   for pro                           Gangrel antitribu:4
-1x Leo Washington 2   cel pro                           Gangrel antitribu:4
+Crypt (12 cards, min=15, max=40, avg=6.5)
+-----------------------------------------
+4x Mimir           10  ANI FOR PRO THA dom  cardinal  Gangrel antitribu:5
+1x Janey Pickman    6  ANI PRO for                    Gangrel antitribu:4
+1x Ryszard          6  CEL OBF pre pro      bishop    Gangrel antitribu:4
+1x Spider           6  CEL PRO ani for                Gangrel antitribu:4
+1x Alex Camille     5  PRO cel for obf                Gangrel antitribu:5
+1x Mowgli           5  FOR PRO ani cel                Gangrel antitribu:4
+1x Synner-G         5  CEL OBF pro                    Gangrel antitribu:5
+1x Lula Burch       3  for pro                        Gangrel antitribu:4
+1x Leo Washington   2  cel pro                        Gangrel antitribu:4
 
 Library (90 cards)
 Master (14; 4 trifle)

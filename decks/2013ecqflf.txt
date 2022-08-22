@@ -8,15 +8,15 @@ Mehdi Mazni
 Deck Name: Shalmath History
 Created by: Julien Ohler
 
-Crypt (12 cards, min=4 max=40 avg=5.67)
----------------------------------------
-6x Shalmath       10  POT PRE TEM  True Brujah:6
-1x Andre LeRoux   3   aus          Toreador:5
-1x Anarch Convert 1   -none-       Caitiff:ANY
-1x Donald Cargill 1   aus          Caitiff:5
-1x Freddy Gage    1   pot          Caitiff:5
-1x Iris Bennett   1   pro          Caitiff:5
-1x Walker Grimes  1   ani          Caitiff:5
+Crypt (12 cards, min=4, max=40, avg=5.67)
+-----------------------------------------
+6x Shalmath        10  POT PRE TEM  True Brujah:6
+1x Andre LeRoux     3  aus          Toreador:5
+1x Anarch Convert   1  -none-       Caitiff:ANY
+1x Donald Cargill   1  aus          Caitiff:5
+1x Freddy Gage      1  pot          Caitiff:5
+1x Iris Bennett     1  pro          Caitiff:5
+1x Walker Grimes    1  ani          Caitiff:5
 
 Library (85 cards)
 Master (13; 2 trifle)

@@ -11,17 +11,17 @@ Deck Name: Dem bleed
 
 Description: Fast bleed, fast oust!
 
-Crypt (12 cards, min=8 max=20 avg=3.58)
----------------------------------------
-2x Apache Jones                 5   DEM aus for obf     Malkavian antitribu:4
-2x Uncle George                 5   DEM aus dom obf     Malkavian antitribu:3
-2x Cassandra Langely, The Waif  2   dem                 Malkavian:4
-1x Persia, The Beautiful Statue 5   DEM aus obf         Malkavian:3
-1x Sean Rycek                   4   aus dem             Malkavian:4
-1x Jackie                       3   DEM                 Malkavian antitribu:4
-1x Marta                        3   aus dem             Malkavian antitribu:4
-1x Midget                       3   DEM obf pre         Malkavian antitribu:3
-1x Eddie Gaines                 1   dem pot             Caitiff:3
+Crypt (12 cards, min=8, max=20, avg=3.58)
+-----------------------------------------
+2x Apache Jones                  5  DEM aus for obf  Malkavian antitribu:4
+2x Uncle George                  5  DEM aus dom obf  Malkavian antitribu:3
+2x Cassandra Langely, The Waif   2  dem              Malkavian:4
+1x Persia, The Beautiful Statue  5  DEM aus obf      Malkavian:3
+1x Sean Rycek                    4  aus dem          Malkavian:4
+1x Jackie                        3  DEM              Malkavian antitribu:4
+1x Marta                         3  aus dem          Malkavian antitribu:4
+1x Midget                        3  DEM obf pre      Malkavian antitribu:3
+1x Eddie Gaines                  1  dem pot          Caitiff:3
 
 Library (85 cards)
 Master (15; 3 trifle)

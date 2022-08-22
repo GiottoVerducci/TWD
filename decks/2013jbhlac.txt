@@ -11,16 +11,16 @@ The cool trick of the deck is to use the play of a Heaven's Gate
 to reset the Trap counters and continue the combat (the minions
 in combat do not need to be the ones playing cards to reset a trap).
 
-Crypt (12 cards, min=10 max=28 avg=4.58)
-----------------------------------------
-4x Matthias             7   AUS FOR OBE nec     Salubri:2
-2x Lia Milliner         3   dom nec             Giovanni:3
-1x Carlotta Giovanni    7   NEC POT dom obf     Giovanni:2
-1x Francesca Giovanni   4   dom nec pot         Giovanni:2
-1x Cristofero Giovanni  3   nec pot             Giovanni:2
-1x Mario Giovanni       3   nec pot             Giovanni:2
-1x Rudolfo Giovanni     3   NEC                 Giovanni:2
-1x Nedal, The Careless  1   cel nec             Caitiff:3
+Crypt (12 cards, min=10, max=28, avg=4.58)
+------------------------------------------
+4x Matthias             7  AUS FOR OBE nec  Salubri:2
+2x Lia Milliner         3  dom nec          Giovanni:3
+1x Carlotta Giovanni    7  NEC POT dom obf  Giovanni:2
+1x Francesca Giovanni   4  dom nec pot      Giovanni:2
+1x Cristofero Giovanni  3  nec pot          Giovanni:2
+1x Mario Giovanni       3  nec pot          Giovanni:2
+1x Rudolfo Giovanni     3  NEC              Giovanni:2
+1x Nedal, The Careless  1  cel nec          Caitiff:3
 
 Library (72 cards)
 Master (16; 1 trifle)

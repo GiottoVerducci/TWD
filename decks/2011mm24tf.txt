@@ -13,14 +13,14 @@ big. Secure Haven saved Anson's sweet *** in two games out of three when
 facing Grapple rush or blood suckers like Gabrielle di Righetti & Francois
 Villon (played by prey and predator).
 
-Crypt (13 cards, min=16 max=32 avg=6)
--------------------------------------
-5x Anson                            8   CEL PRE aus dom  prince  Toreador:1
-2x Heather Florent, The Opportunist 6   FOR PRE dom              Ventrue:1
-2x Ranjan Rishi, Camarilla Scholar  5   DOM PRE for              Ventrue:2
-2x Violette Prentiss                4   PRE dom                  Ventrue:1
-1x Jazz Wentworth                   5   PRE dom for              Ventrue:1
-1x Gideon Fontaine                  3   PRE                      Ventrue:1
+Crypt (13 cards, min=16, max=32, avg=6)
+---------------------------------------
+5x Anson                             8  CEL PRE aus dom  prince  Toreador:1
+2x Heather Florent, The Opportunist  6  FOR PRE dom              Ventrue:1
+2x Ranjan Rishi, Camarilla Scholar   5  DOM PRE for              Ventrue:2
+2x Violette Prentiss                 4  PRE dom                  Ventrue:1
+1x Jazz Wentworth                    5  PRE dom for              Ventrue:1
+1x Gideon Fontaine                   3  PRE                      Ventrue:1
 
 Library (90 cards)
 Master (30; 6 trifle)

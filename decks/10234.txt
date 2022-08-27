@@ -1,0 +1,60 @@
+EC2022 Day 1
+Helsinki, Finland
+July 30th 2022
+3R+F
+99 players
+Antti Penttilä
+https://www.vekn.net/event-calendar/event/10234
+
+Here is Antti's winning deck for day 1 of the EC (congrats!), along with the decks of the other finalists.
+
+Deck Name: Khursidwall
+Author: Dada
+
+Crypt (12 cards, min=4, max=32, avg=4.92)
+-----------------------------------------
+5x Anarch Convert     1  -none-           Caitiff:ANY
+3x Khurshid           8  AUS FOR NEC POT  Harbinger of Skulls:6
+2x Mordechai Ben-Nun  8  ANI AUS FOR NEC  Harbinger of Skulls:5
+2x Anu Diptinatpa     7  DOM NEC aus vic  Nagaraja:6
+
+Library (90 cards)
+Master (21; 5 trifle)
+3x Direct Intervention
+1x Fragment of the Book of Nod
+1x Haven Uncovered
+6x Liquidation
+5x Piper
+4x Villein
+1x Wider View
+
+Action (6)
+4x Gear Up
+2x Soul Feasting
+
+Ally (10)
+10x Emerald Legionnaire
+
+Retainer (2)
+2x Vengeful Spirit
+
+Action Modifier (2)
+2x Trochomancy
+
+Reaction (27)
+3x Eluding the Arms of Morpheus
+9x Eyes of Argus
+5x Guardian Vigil
+3x My Enemy's Enemy
+7x Telepathic Misdirection
+
+Combat (19)
+3x Aura Reading
+6x Hidden Strength
+2x Rolling with the Punches
+6x Target Vitals
+2x Taste of Vitae
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

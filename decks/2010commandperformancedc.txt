@@ -5,9 +5,9 @@ July 31st 2010
 28 players
 Ruben Feldman
 
-Deck Name: Ugly Aggression
+-- 3GW12 + 5VP in final
 
-4gw17 including 5VP in final
+Deck Name: Ugly Aggression
 
 Crypt (12 cards, min=15, max=35, avg=6.75)
 ------------------------------------------

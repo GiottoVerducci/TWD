@@ -5,9 +5,9 @@ October 29th 2010
 172 players
 Csaba Greguss
 
-Deck Name: EC 2010 LCQ: Rising Dementia
+-- 3GW + 5VP in final
 
-4gw on the day, 5VP in final
+Deck Name: EC 2010 LCQ: Rising Dementia
 
 Crypt (12 cards, min=12, max=24, avg=4.67)
 ------------------------------------------

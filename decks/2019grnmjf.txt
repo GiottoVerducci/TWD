@@ -18,12 +18,15 @@ We were not using the alternative time limit in the finals this time around, as 
 
 Finals Seating:
 
-Lasse Pöyry (Tupdog Fiendish Tongue Bleed) --> Reetta Rautiainen (Giovanni Shambling Hordes) --> Antti Penttilä (Nana Animalism + Aksinya) --> Tero Aalto (Unnamed) --> Esa-Matti Smolander (Huitzilopochtli + Baali bleed)
-
+Lasse Pöyry (Tupdog Fiendish Tongue Bleed) -->
+Reetta Rautiainen (Giovanni Shambling Hordes) -->
+Antti Penttilä (Nana Animalism + Aksinya) -->
+Tero Aalto (Unnamed) -->
+Esa-Matti Smolander (Huitzilopochtli + Baali bleed)
 
 I totally wasn't expecting to win two tournaments in a row, especially with the same deck. I was going to play something completely different but it turned out I wasn't happy enough with anything else I was brewing.
 
-Even though a lot of people who play regularly in the capital region attended, the eastern meta game is still always quite different. Somehow, the deck felt more consistent than ever, producing a GW and 3 VPs each preliminary round, and 1,5 VPs in the final.
+Even though a lot of people who play regularly in the capital region attended, the eastern meta game is still always quite different. Somehow, the deck felt more consistent than ever, producing a GW3 each preliminary round, and 1.5VP in the final.
 
 Very slight changes compared to the previous version. The most interesting one I would say is getting rid of Veneficti who, in the current ally-steal heavy meta is more of a liability (and can even end up stealing my own Servitors).
 

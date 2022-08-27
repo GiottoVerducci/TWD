@@ -14,7 +14,7 @@ I got the original idea from Matthew Morgan (called Love Doctor), Florian
 "Blondin" Prosper did some heavy tweaking to it once I sent him the
 list. So mad props go out to these two (really awesome) players. I made
 some final adjustments on the morning before the tournament (normal) and
-it worked pretty well, having 2GW7.5VP in the prelims and 1.5VP in final.
+it worked pretty well.
 
 Crypt (12 cards, min=31, max=43, avg=9.25)
 ------------------------------------------

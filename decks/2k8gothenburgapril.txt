@@ -5,10 +5,10 @@ April 12th 2008
 12 players
 Erik Torstensson
 
+-- 4GW13
+
 Deck Name: Mouchoir de l'enfer
 Created by: Orian Gissler
-
-4GW and 13VP
 
 Crypt (12 cards, min=8, max=15, avg=2.92)
 -----------------------------------------

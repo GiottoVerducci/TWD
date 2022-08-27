@@ -5,9 +5,9 @@ February 20th 2010
 28 players
 Dominik Piatkowski
 
-Deck Name: Austrian AUS PRE
+-- 3GW13
 
-3GWs 13VP
+Deck Name: Austrian AUS PRE
 
 Description: Designed by Walter Paolini, played by Martin Weinmayer to
 win the EC 2010 Day 2.

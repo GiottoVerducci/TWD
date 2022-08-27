@@ -4,10 +4,10 @@ October 17th 2009
 35 players
 Sergio Gracia
 
+-- 3GW11
+
 Deck Name: Lasombra Nocturna
 Created by: Sergio Gracia
-
-Description: 3GW & 11VP
 
 Crypt (12 cards, min=8, max=28, avg=4.58)
 -----------------------------------------

@@ -6,7 +6,7 @@ September 26th 2021
 Mauro Cesár
 https://www.vekn.net/event-calendar/event/9896
 
--- 0,5 VP in final
+-- 0.5VP in final
 
 Deck Name:   Liquidação esmeralda
 Created By:  Carlos Diego (com alterações feitas por mim)

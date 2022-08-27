@@ -22,11 +22,11 @@ year saw a more moderate metagame with an even distribution of stealth-bleed,
 fat cap voters, ally-decks and a bit of combat.
 
 The following players reached the final:
-1. Nikolaj Wendt 2 gw, 7.5 vp
-2. Sebastian Fredenberg 2 gw, 5 vp
-3. Rudolf Scholz 1 gw, 7.5 vp
-4. Henrik Andersen 1 gw, 6.5 vp
-5. Nico Scholz 1 gw, 5 vp
+1. Nikolaj Wendt 2GW7.5
+2. Sebastian Fredenberg 2GW5
+3. Rudolf Scholz 1GW7.5
+4. Henrik Andersen 1GW6.5
+5. Nico Scholz 1GW5
 
 While the ally decks were setting up at one end of the table, the bleed decks
 were pressing forward from early on, and the bleed-bouncing was intense. After

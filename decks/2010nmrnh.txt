@@ -7,7 +7,7 @@ Gyula Erdõs
 
 Deck Name: VentrueAnti1.1
 
-4gw including 3VP in final
+-- 3GW + 3VP in final
 
 Crypt (12 cards, min=16, max=30, avg=5.75)
 ------------------------------------------

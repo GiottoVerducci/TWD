@@ -12,10 +12,10 @@ Deck Name: "If Jose Feuerstein and Darby Keeney Had a Baby”
 
 Final round seating:
 Jose (!Tremere Toolbox)
-Felipe (Imbued) - 3 VP
-Wayne (Tzimisce Wall) - 1 VP
+Felipe (Imbued) - 3VP
+Wayne (Tzimisce Wall) - 1VP
 Jason (Kiasyd Stealth Bleed)
-Ben - (Malkavian Stealth Bleed) - 1 VP
+Ben - (Malkavian Stealth Bleed) - 1VP
 
 Crypt (12 cards, min=14, max=20, avg=4.25)
 ------------------------------------------

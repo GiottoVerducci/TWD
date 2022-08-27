@@ -6,7 +6,7 @@ August 14th 2021
 Joab Rogerio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/9828
 
--- 3 VP in final
+-- 3VP in final
 
 Deck Name: Antonio anarch
 Crypt (13 cards, min=4, max=20, avg=3)

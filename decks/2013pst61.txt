@@ -5,13 +5,15 @@ February 3rd 2013
 10 players
 Matti Palomäki
 
+-- 1GW7 + 3VP in final
+
 Deck Name: the unaligned revolutionaries
 
 Tap-and-bleed deck that uses CrimethInc. at tha to take actions before bleeding.
-I got 1GW7VP in the preliminary rounds and 3VP in final. The key to the final was to sit away
-from the aus-weenies and to start moving forwards at the right moment, ie. when I could oust my prey and
-the aus-weenies in one turn. I've had this deck assembled since Twilight Rebellion came out.
-It's been tweaked and played every once in a while, and at the moment I'm pretty happy with it.
+The key to the final was to sit away from the aus-weenies and to start moving forwards at
+the right moment, ie. when I could oust my prey and the aus-weenies in one turn. I've had
+this deck assembled since Twilight Rebellion came out. It's been tweaked and played every
+once in a while, and at the moment I'm pretty happy with it.
 
 Crypt (12 cards, min=14, max=32, avg=5.83)
 ------------------------------------------

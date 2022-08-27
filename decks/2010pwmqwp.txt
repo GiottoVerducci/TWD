@@ -5,9 +5,9 @@ January 16th 2010
 18 players
 Tomasz Izydorczyk
 
-Deck Name: tempt me plox 2
+-- 4GW14
 
-4gw14
+Deck Name: tempt me plox 2
 
 Crypt (12 cards, min=9, max=24, avg=4.58)
 -----------------------------------------

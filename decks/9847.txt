@@ -6,7 +6,7 @@ September 30th 2021
 Darby Keeney
 https://www.vekn.net/event-calendar/event/9847
 
--- 3 VP in final
+-- 3VP in final
 
 Deck Name: Farley Mowat V2.01
 
@@ -22,7 +22,7 @@ Crypt (13 cards, min=4, max=14, avg=2.23)
 1x Marciana Giovanni, Investigator  2  dom          Giovanni:2
 1x Paul DiCarlo, The Alpha          2  pot          Giovanni:2
 
-Library (65 cards)
+Library (74 cards)
 Master (20)
 2x Anarch Railroad
 1x Anarch Troublemaker -- really there to destroy guns.
@@ -36,8 +36,9 @@ Master (20)
 1x Powerbase: Cape Verde -- good overall, great if you have Jake in play.
 1x Powerbase: Los Angeles -- unlocking [dom] minions is good
 
-Action (9)
+Action (18)
 4x Embrace, The -- even better now that sect inheritance is a thing
+9x Khazar's Diary (Endless Night) -- This is on the light side for the archtype, but I'm counting on a mid game filled with disposable allies.
 5x Sudario Refraction -- because (repeat after me) recursion is broken.
 
 Ally (13)

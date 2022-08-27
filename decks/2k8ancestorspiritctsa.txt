@@ -5,6 +5,8 @@ May 10th 2008
 10 players
 Daniel Boud
 
+-- 6.5VP + 4VP in final
+
 Deck Name: Klaus but no cigar
 
 Like most reactionary builds this deck is fairly slow moving. The idea
@@ -15,8 +17,6 @@ bleeds (Palla Grande/Aire of Elation), playing a Smiling Jack and
 dropping a strategic Pentex Subversion. The lower cap vamps are there
 purely for weenie support; playing the odd Art Scam and for the Palla
 Grande bleed push. As always, I over did the master card count. ;)
-This deck won with 4VP in the final table and 6.5VP in the Prelim
-rounds.
 
 Crypt (12 cards, min=10, max=32, avg=5.5)
 -----------------------------------------

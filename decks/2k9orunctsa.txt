@@ -5,9 +5,9 @@ March 8th 2009
 10 players
 Andrew Higson-Smith
 
-Deck Name: The Ishtarri
+-- 2GW9
 
-2gws 9VP
+Deck Name: The Ishtarri
 
 Crypt (14 cards, min=16, max=39, avg=6.79)
 ------------------------------------------

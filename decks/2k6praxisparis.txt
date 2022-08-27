@@ -4,9 +4,9 @@ December 16th 2006
 28 players
 Kamel Senni
 
-Created by: Vincent Ripoll
+-- 3GW8 (1st seed) + 4VP
 
-Enters 1st in final with 3GW8, wins the final with 4VP
+Created by: Vincent Ripoll
 
 Crypt (12 cards, min=37, max=44, avg=10.25)
 -------------------------------------------

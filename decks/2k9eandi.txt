@@ -4,9 +4,9 @@ August 2nd 2009
 31 players
 Raul Baza
 
-Deck Name: New Ventrue
+-- 4GW15
 
-4gw15
+Deck Name: New Ventrue
 
 Crypt (12 cards, min=21, max=35, avg=6.83)
 ------------------------------------------

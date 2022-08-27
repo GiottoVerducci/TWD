@@ -4,9 +4,9 @@ December 1st 2007
 34 players
 Ruben Feldman
 
-Deck Name: Pander Division
+-- 4GW14
 
-4gw14
+Deck Name: Pander Division
 
 Crypt (12 cards, min=4, max=12, avg=1.75)
 -----------------------------------------

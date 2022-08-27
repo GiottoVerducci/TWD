@@ -5,9 +5,9 @@ March 28th 2009
 77 players
 Sergio Gracia
 
-Deck Name: Los pricipes de siempre
+-- 3GW & 12VP
 
-Description: 3GW & 12VP
+Deck Name: Los pricipes de siempre
 
 Crypt (12 cards, min=16, max=33, avg=6.33)
 ------------------------------------------

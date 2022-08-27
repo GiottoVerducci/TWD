@@ -5,9 +5,9 @@ May 19th 2007
 17 players
 Kelly Nine
 
-Deck Name: Rise From Your Graves
+-- 2GW7 + 2VP in final
 
-2gw + 7VP going into the finals with 2 more VPs taken there
+Deck Name: Rise From Your Graves
 
 Crypt (12 cards, min=16, max=36, avg=6.5)
 -----------------------------------------

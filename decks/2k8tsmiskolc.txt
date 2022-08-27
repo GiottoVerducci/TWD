@@ -7,7 +7,7 @@ Maros Chomjak
 
 Deck Name: Dements - Antitribu
 
-3GW11 prior to the final, with 2VP in final
+-- 3GW11 + 2VP in final
 
 Crypt (12 cards, min=12, max=26, avg=4.92)
 ------------------------------------------

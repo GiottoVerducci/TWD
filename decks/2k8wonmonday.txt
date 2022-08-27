@@ -5,10 +5,10 @@ October 20th 2008
 15 players
 Orian Gissler
 
+-- 2GW4.5 (2nd seed) + 3VP in final
+
 Deck Name: Castamir of Tsumbar
 Created by: Orian Gissler, basis from Sir Anthony Coleman
-
-2nd in rounds 2GW4.5 - gw3 in final
 
 Crypt (12 cards, min=13, max=24, avg=4.83)
 ------------------------------------------

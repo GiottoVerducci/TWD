@@ -5,10 +5,11 @@ July 25th 2004
 10 players
 Andy Kempton
 
+-- 3GW12
+
 Deck Name: Settite Legal V4.0
 Created by: Lance Shope
 
-3 Game wins and 12VP.
 When I went in to the tourney, I was looking for something that would
 take advantage of the Boston metagame. I borrowed a deck idea from
 Lance Shope, and we discussed how to modify it to make it work in the

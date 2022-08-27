@@ -5,14 +5,15 @@ June 16th 2011
 10 players
 Marcin Watras
 
+-- 3GW10
+
 Deck Name: Shamblingi dla Zygi (Shamblings for Zyga)
 
 Description: I've made that deck for my friend Zyga, who has recently sold
 his collection. Unfortunatelly he was unable to play with us, so I decided
 to try this deck out. That was the first time I had played a Gio Shambling
 deck. It is based on Isak Esbjörnsson Bjärmark's "Sudario Hordes" deck with
-some minor changes. I managed to win all three tables with 3GW and 10VP
-in total. It's a nice - strong deck, but I'd add 2 x Adrea to bypass
+some minor changes. It's a nice - strong deck, but I'd add 2 x Adrea to bypass
 +1 intercept blockers. Some Taget Vitals would be also vital in this deck.
 
 Crypt (12 cards, min=12, max=22, avg=4)

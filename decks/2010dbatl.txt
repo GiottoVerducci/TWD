@@ -5,10 +5,10 @@ September 5th 2010
 12 players
 Jeffrey Brandon
 
+-- 2GW6 (to tie 2nd seed) + 4VP in final
+
 Deck Name: Evil Genius 2.0
 Created by: Jeffrey Brandon - Based on Ben Peal's deck
-
-2GW6 to tie for 2nd going into the finals, 4VP in final
 
 Crypt (12 cards, min=22, max=32, avg=6.83)
 ------------------------------------------

@@ -5,9 +5,9 @@ August 18th 2007
 30 players
 Gyula Erdõs
 
-Deck Name: Imbued are Broken
+-- 4GW
 
-4gw
+Deck Name: Imbued are Broken
 
 Crypt (12 cards, min=13, max=21, avg=4.17)
 ------------------------------------------

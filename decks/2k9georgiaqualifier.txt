@@ -5,9 +5,9 @@ August 22nd 2009
 12 players
 John Newquist
 
-Deck Name: Judgment Day
+-- GW2 + GW2 + 4VP in final
 
-three game wins on the day, 2VP, 2VP, and 4VP.
+Deck Name: Judgment Day
 Pretty standard Vigilance bleed. I went power-light this time.
 
 Crypt (12 cards, min=14, max=21, avg=4.25)

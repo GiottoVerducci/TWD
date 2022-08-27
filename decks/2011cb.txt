@@ -1,13 +1,13 @@
 Clasificatorio Badia
-Badia del valles, Barcelona, Spain
+Badia del Vallès, Spain
 October 2nd 2011
 20 players
 Soufiane Bouzouf
 
+-- GW4 + GW3 + GW3 + 1.5VP in final
+
 Deck Name: La Onu
 Created by: t.e.s (oriol)
-
-gw4, gw3, gw3 + 1.5VP in final
 
 Crypt (12 cards, min=33, max=39, avg=9)
 ---------------------------------------

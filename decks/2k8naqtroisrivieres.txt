@@ -5,10 +5,9 @@ May 18th 2008
 30 players
 Christian Chénard
 
-Deck Name: Kristoff impersonator
+-- 2GW8 (1st seed) + 1.5VP
 
-Christian was first after the prelims with 2GW8VP
--- and scored 1.5VP in a timed out final to win the event.
+Deck Name: Kristoff impersonator
 
 Description: Classic mono Auspex crypt with the "flavour of the month"
 Target fighting angle all cut down to a Swiss-thin library.

@@ -4,15 +4,17 @@ February 15th 2004
 19 players
 Alex Ek
 
+-- 1GW7.5 + 3VP in final
+
 Deck Name: Ruptura Interior
 
 Description: A derange deck that has been in my mind since the new
 reword on derange. I finally got all the deranges I needed and I put
 it together and played it on our february tourney here in gothenburg.
-It took 1GW and 7.5VP in the qualifying rounds in a 19 people
-tourney, it then took the gw with 3VP's in the final round.
+
 Combating Cailean: block/kill, Giovanni: pot/rush, Setite:
 sb/Enticement and Etrius: powerbleed.
+
 The idea is to take it easy, try to be friendly even if you put
 Leandro in play. Play deranges and wait for the right movement. When
 a majority of the table is turning malk. Then steal the vamps. Minion

@@ -5,10 +5,10 @@ December 5th 2009
 17 players
 Gergely Bako
 
+-- 4GW12
+
 Deck Name: Nosferatu voter
 Created by: Gergely Bako
-
-4GW, 12VP
 
 Crypt (12 cards, min=24, max=35, avg=7.33)
 ------------------------------------------

@@ -5,9 +5,9 @@ December 3rd 2011
 18 players
 Martin Schumacher
 
-Deck Name: Triple B (Bleed, Bruise & Block)
+-- 0VP + GW2 + GW2 (4 players) + 3VP in final (2VP to Grand Prey)
 
-0, gw2, gw2 (4 players) + 3VP in final (2VP to Grand Prey)
+Deck Name: Triple B (Bleed, Bruise & Block)
 
 Description: Govern is not that good here, since superior
 can only be played on the 2 6-caps. Maybe 3 Govern

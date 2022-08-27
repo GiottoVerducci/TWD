@@ -1,0 +1,54 @@
+The Great Tiger
+Campina Grande, Brazil
+July 24th 2022
+3R+F
+10 players
+José Roberio Barbosa da Silva
+https://www.vekn.net/player-registry/event/10283
+
+-- 3VP in final
+
+Deck Name: O abraço de Caos
+
+Crypt (24 cards, min=4, max=18, avg=1.92)
+-----------------------------------------
+16x Tupdog             1  POT VIS          Gargoyle:3
+2x  Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+1x  Janine             4  aus dom tha      Tremere antitribu:4
+1x  Mosfair            4  cel dom tha      Tremere antitribu:4
+1x  Ember Wright       3  aus dom          Tremere antitribu:3
+1x  Keith Moody        3  DOM              Tremere antitribu:4
+1x  Lectora            3  aus tha          Tremere antitribu:4
+1x  Saiz               3  aus dom          Tremere antitribu:3
+
+Library (77 cards)
+Master (17; 7 trifle)
+3x Effective Management
+2x Fame
+1x Information Highway
+2x Powerbase: Montreal
+1x Secure Haven
+1x Sudden Reversal
+2x Vessel
+1x Villein
+4x Wider View
+
+Action (2)
+2x Govern the Unaligned
+
+Ally (8)
+7x Nephandus
+1x Rock Cat
+
+Reaction (5)
+5x Deflection
+
+Combat (43)
+9x Brick by Brick
+10x Immortal Grapple
+10x Raking Talons
+5x Stonestrength
+9x Torn Signpost
+
+Event (2)
+2x Unmasking, The

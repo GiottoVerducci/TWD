@@ -1,0 +1,59 @@
+Cleriston, I'm trying nothing more than trying
+Campina Grande, Brazil
+March 6th 2022
+3R+F
+10 players
+José Roberio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/10087
+
+-- 1.5VP in final
+
+Deck Name: Tzimice da escuridão
+
+Crypt (12 cards, min=18, max=33, avg=6.25)
+------------------------------------------
+3x Duality                     6  AUS VIC ani                   Tzimisce:4
+3x Rurik Rakoczy               6  ANI VIC aus                   Tzimisce:5
+2x Lady Vadislava              9  ANI AUS DOM VIC nec  priscus  Tzimisce:5
+1x Righteous Endeavor          8  ANI AUS THA VIC      priscus  Tzimisce:5
+1x Ludmijla Rakoczy            7  ANI AUS VIC          bishop   Tzimisce:5
+1x Dr. Morrow, The Skindoctor  5  AUS VIC for                   Tzimisce:5
+1x Anarch Convert              1  -none-                        Caitiff:ANY
+
+Library (88 cards)
+Master (26; 5 trifle)
+1x Animalism
+9x Ashur Tablets
+1x Direct Intervention
+1x Dreams of the Sphinx
+2x Haven Uncovered
+1x Library Hunting Ground
+2x Parthenon, The
+1x Path of Metamorphosis, The
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+3x Vessel
+2x Villein
+
+Action (8)
+4x Bum's Rush
+4x Deep Song
+
+Equipment (1)
+1x Bowl of Convergence
+
+Reaction (12)
+3x Eyes of Argus
+1x Forced Awakening
+1x Read the Winds
+7x Telepathic Misdirection
+
+Combat (41)
+2x Aid from Bats
+6x Carrion Crows
+2x Chiropteran Marauder
+21x Horrid Form
+2x Taste of Vitae
+6x Telepathic Tracking
+2x Trap

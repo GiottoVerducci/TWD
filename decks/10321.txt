@@ -1,0 +1,74 @@
+4fun de Quinta
+Vila Velha, Brazil
+August 9th 2022
+2R+F
+10 players
+Gilmar Mendes
+https://www.vekn.net/event-calendar/event/10321
+
+Deck Name : Setita Corrupção
+
+Crypt (12 cards, min=10, max=22, avg=4.08)
+------------------------------------------
+2x Belle Equitone         2  ser                  Follower of Set:4
+1x Ankh-sen-Sutekh        6  PRE SER obf          Follower of Set:4
+1x Halim Bey              6  DOM SER obf tha      Follower of Set:4
+1x Abdelsobek             5  for nec obf pre ser  Follower of Set:5
+1x Renenet                5  OBF PRE ser          Follower of Set:4
+1x Zhenga                 5  SER obf pre          Follower of Set:4
+1x Marla Kenyon           4  PRE ser              Follower of Set:4
+1x Sahira Siraj           4  obf ser tha          Follower of Set:4
+1x Sisocharis             4  cel obf pre          Follower of Set:5
+1x Ahmose Chambers        3  obf ser              Follower of Set:5
+1x Reverend Djoser Jones  3  pre ser              Follower of Set:4
+
+Library (89 cards)
+Master (18; 2 trifle)
+1x Archon Investigation
+8x Blood Doll
+1x Crocodile Temple, The
+1x Dreams of the Sphinx
+1x Information Highway
+1x Khobar Towers, Al-Khubar
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Visit from the Capuchin
+1x Wash
+1x Wider View
+
+Action (39)
+24x Corruption
+3x Dream World
+2x Entrancement
+1x Form of Corruption
+2x Mesu Bedshet
+1x Summoning, The
+2x Temptation
+4x Waters of Duat
+
+Ally (5)
+1x Amam the Devourer
+1x Impundulu
+1x Nephren-Ka
+1x Saatet-ta
+1x Young Bloods
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (14)
+3x Cloak the Gathering
+3x Forgotten Labyrinth
+4x Lost in Crowds
+2x Revelation of Desire
+2x Spying Mission
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (4)
+1x Delaying Tactics
+3x Ophidian Gaze
+
+Combat (5)
+5x Weighted Walking Stick

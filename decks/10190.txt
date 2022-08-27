@@ -1,0 +1,73 @@
+Deep Song
+Online
+May 16th 2022 -- 19 May 2022,
+2R+F
+13 players
+Delmar Sittoni
+https://www.vekn.net/player-registry/event/10190
+
+-- 4VP in final
+
+Deck Name: A mina dos corvos
+Description: Gangrel porrada
+
+Crypt (12 cards, min=16, max=25, avg=5.33)
+------------------------------------------
+4x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+1x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Crow               5  ANI for pro tha         Gangrel:5
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+
+Library (90 cards)
+Master (17; 5 trifle)
+2x Anarch Revolt
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Fame
+1x Gangrel Revel
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+4x Villein
+1x Wider View
+
+Action (9)
+1x Army of Rats
+1x Constant Revolution
+6x Deep Song
+1x Shadow of the Beast
+
+Retainer (9)
+2x Dog Pack
+2x Murder of Crows
+5x Raven Spy
+
+Action Modifier/Reaction (1)
+1x Form of the Bat
+
+Reaction (19)
+6x Bait and Switch
+1x Cats' Guidance
+2x Deep Ecology
+9x Organized Resistance
+1x Protection Racket
+
+Combat (34)
+4x Bear's Skin
+8x Carrion Crows
+5x Donnybrook
+4x Flesh of Marble
+4x Form of the Wolf
+7x Pack Alpha
+2x Taste of Vitae
+
+Event (1)
+1x Dragonbound

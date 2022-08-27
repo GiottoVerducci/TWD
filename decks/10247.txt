@@ -1,0 +1,67 @@
+Week of Nightmares Helsinki 2022 Monday
+Vantaa, Finland
+July 25th 2022
+2R+F
+17 players
+Jyri Puhakka
+https://www.vekn.net/event-calendar/event/10247
+
+Deck Name: Anson Gun
+Author: Jyrkkä
+
+Crypt (12 cards, min=12, max=40, avg=6.75)
+------------------------------------------
+3x Anson                       8  CEL PRE aus dom          prince    Toreador:1
+2x Anneke                     10  AUS CEL PRE dom          justicar  Toreador:1
+2x François Villon            10  AUS CEL PRE chi obf pot  prince    Toreador:2
+1x Black Cat                   5  CEL pot pre                        Brujah:1
+1x Volker, The Puppet Prince   5  CEL pot                  prince    Brujah:2
+1x Jimmy Dunn                  4  CEL POT for                        Pander:2
+1x New Blood                   2  san                                Blood Brother:ANY
+1x Anarch Convert              1  -none-                             Caitiff:ANY
+
+Library (80 cards)
+Master (25; 5 trifle)
+9x Ashur Tablets
+1x Blind Spot
+1x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+3x Haven Uncovered
+1x Tension in the Ranks
+5x Villein
+
+Action (6)
+4x Bum's Rush
+1x Entrancement
+1x Intimidation
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (1)
+1x Kine Resources Contested
+
+Action Modifier (1)
+1x Aire of Elation
+
+Action Modifier/Combat (1)
+1x Resist Earth's Grasp
+
+Reaction (8)
+7x Second Tradition: Domain
+1x Telepathic Misdirection
+
+Combat (31)
+1x Blur
+6x Concealed Weapon
+7x Infernal Pursuit
+6x Psyche!
+5x Pursuit
+1x Side Strike
+5x Taste of Vitae
+
+Event (1)
+1x Dragonbound

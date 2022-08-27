@@ -1,0 +1,54 @@
+Guard Dogs
+Campina Grande, Brazil
+October 10th 2021
+3R+F
+10 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/player-registry/event/9927
+
+-- 5VP in final
+-- Deck campeão do torneio Guard Dogs, otimo torneio bem disputado até o final, parabéns a todos os jogadores!
+
+Deck Name: Estraga corpo
+
+Crypt (12 cards, min=4, max=36, avg=5.25)
+-----------------------------------------
+5x Mambo Jeanne     9  FOR NEC OBF THN      Samedi:6
+4x Anarch Convert   1  -none-               Caitiff:ANY
+1x Baroque          7  NEC THN aus for obf  Samedi:5
+1x Marie-Pierre     4  THN for nec          Samedi:6
+1x Angel Chavarria  3  THN                  Samedi:6
+
+Library (90 cards)
+Master (17; 4 trifle)
+6x Ashur Tablets
+2x Blessings of the Loa
+3x Dreams of the Sphinx
+1x Fame
+1x Tension in the Ranks
+4x Villein
+
+Action (12)
+3x Ambush
+3x Bum's Rush
+3x Charge of the Buffalo
+3x Harass
+
+Ally (5)
+5x Reanimated Corpse
+
+Equipment (1)
+1x Ivory Bow
+
+Action Modifier (10)
+10x Freak Drive
+
+Combat (44)
+12x Groaning Corpse
+10x Relentless Reaper
+8x Rolling with the Punches
+7x Taste of Vitae
+7x Unflinching Persistence
+
+Event (1)
+1x Dragonbound

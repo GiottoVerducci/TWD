@@ -1,0 +1,55 @@
+Imperial Decree
+Online
+June 16th 2022 -- 17 June 2022
+2R+F
+15 players
+José Roberio Barbosa da Silva
+https://www.vekn.net/player-registry/event/10232
+
+-- 2.5VP in final
+
+Deck Name: Cavaleiro da Lua!
+
+Crypt (12 cards, min=4, max=40, avg=6.17)
+-----------------------------------------
+6x Ghede           10  FOR OBF POT PRE SER  Follower of Set:6
+2x Abdelsobek       5  for nec obf pre ser  Follower of Set:5
+2x Anarch Convert   1  -none-               Caitiff:ANY
+1x Freddy Gage      1  pot                  Caitiff:5
+1x Walker Grimes    1  ani                  Caitiff:5
+
+Library (90 cards)
+Master (9; 3 trifle)
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Secure Haven
+1x Tension in the Ranks
+3x Villein
+
+Action (12)
+2x Ambush
+3x Bum's Rush
+3x Harass
+2x Heroic Might
+2x Legal Manipulations
+
+Ally (3)
+1x Gregory Winter
+1x Mylan Horseed
+1x Saatet-ta
+
+Equipment (1)
+1x Sire's Index Finger
+
+Action Modifier (10)
+10x Freak Drive
+
+Combat (55)
+9x Immortal Grapple
+5x Jones, The
+5x Skin of Steel
+5x Taste of Vitae
+28x Typhonic Beast
+3x Unflinching Persistence

@@ -1,0 +1,63 @@
+No secrets from Berinho
+Campina Grande, Brazil
+June 19th 2022
+3R+F
+13 players
+Paulo Roberto Barbosa da Silva
+https://www.vekn.net/event-calendar/event/10239
+
+-- 3VP in final
+
+Deck Name: Fadas de Goulet
+
+Crypt (12 cards, min=15, max=32, avg=6.42)
+------------------------------------------
+3x Sébastien Goulet (ADV)  8  DOM OBF cel pre pro      Gangrel antitribu:3
+2x Sébastien Goulet        8  DOM OBF cel pre pro      Gangrel antitribu:3
+2x Phillipe Rigaud         7  DOM OBF PRO ani aus obt  Gangrel antitribu:4
+1x Titus Camille           8  AUS DOM OBF for          Ventrue antitribu:4
+1x Catherine du Bois       5  DOM for obf pre          Ventrue:3
+1x Jeffrey Mullins         4  OBF cel                  Gangrel antitribu:4
+1x Roger Farnsworth        4  OBF aus                  Malkavian antitribu:3
+1x Denette Stensen         2  obf                      Gangrel antitribu:4
+
+Library (90 cards)
+Master (19; 5 trifle)
+4x Blood Doll
+2x Charisma
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Ennoia's Theater
+1x Golconda: Inner Peace
+1x Powerbase: Montreal
+2x Protean
+1x Twisted Forest
+3x Vessel
+2x Wider View
+
+Action (5)
+5x Govern the Unaligned
+
+Ally (9)
+9x Shadow Court Satyr
+
+Action Modifier (25)
+4x Cloak the Gathering
+4x Conditioning
+2x Earth Control
+5x Faceless Night
+5x Lost in Crowds
+5x Threats
+
+Reaction (14)
+6x Deflection
+3x On the Qui Vive
+2x Redirection
+3x Wake with Evening's Freshness
+
+Combat (16)
+14x Earth Meld
+2x Form of Mist
+
+Event (2)
+2x Unmasking, The

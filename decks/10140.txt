@@ -1,0 +1,55 @@
+Force of Will
+Campina Grande, Brazil
+April 3rd 2022
+3R+F
+12 players
+Joselmo Soares
+https://www.vekn.net/event-calendar/event/10140
+
+-- 2VP in final
+
+Deck Name: Gargula rush
+
+Crypt (14 cards, min=16, max=28, avg=5.29)
+------------------------------------------
+2x Alabástrom      7  POT VIS aus cel for            Gargoyle:6
+2x Chalcedony      7  FOR POT THA VIS                Gargoyle:6
+2x Malachai        5  VIS for pot pre                Gargoyle:6
+2x Verbruch        5  POT VIS for                    Gargoyle:5
+1x Claus Wegener   5  DOM aus for tha                Tremere:5
+1x Handsome Dan    5  aus cel for pot vis            Gargoyle:6
+1x Zane            5  THA aus dom          primogen  Tremere:5
+1x Porphyry        4  POT vis                        Gargoyle:6
+1x Tarrence Moore  4  aus dom tha                    Tremere:5
+1x Monica Chang    3  dom tha                        Tremere:5
+
+Library (89 cards)
+Master (8; 2 trifle)
+1x Academic Hunting Ground
+3x Blood Doll
+1x Fame
+1x Path of Service, The
+2x Vessel
+
+Action (10)
+2x Children of Stone
+8x Dive Bomb
+
+Retainer (2)
+2x Razor Bat
+
+Reaction (14)
+1x Patrol
+3x Scry the Hearthstone
+4x Voices of the Castle
+6x Wake with Evening's Freshness
+
+Combat (55)
+5x Brick by Brick
+10x Crawling Chamber
+9x Immortal Grapple
+2x Lead Fist
+8x Pounce
+6x Raking Talons
+6x Rockheart
+9x Stonestrength

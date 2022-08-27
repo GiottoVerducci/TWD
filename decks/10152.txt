@@ -1,0 +1,63 @@
+Little Chicago by Toulon #3
+Toulon, France
+May 8th 2022
+3R+F
+10 players
+Orian Gissler
+https://www.vekn.net/event-calendar/event/10152
+
+-- 1.5VP in final
+
+Deck Name: Ghede par d'autres joueurs
+
+Crypt (12 cards, min=15, max=40, avg=6.83)
+------------------------------------------
+5x Ghede                   10  FOR OBF POT PRE SER  Follower of Set:6
+2x Clea Auguste d'Holford   6  OBF POT pre ser      Follower of Set:5
+1x Abdelsobek               5  for nec obf pre ser  Follower of Set:5
+1x Shahara al-Rashwa        5  OBF SER pre          Follower of Set:6
+1x Sisocharis               4  cel obf pre          Follower of Set:5
+1x Ahmose Chambers          3  obf ser              Follower of Set:5
+1x Cao Nguyen               3  SER                  Follower of Set:6
+
+Library (90 cards)
+Master (16; 5 trifle)
+6x Eternals of Sirius, The
+1x Fame
+1x Filchware's Pawn Shop
+1x Monster
+1x Opium Den
+2x Path of Typhon, The
+4x Villein
+
+Action (13)
+1x Big Game
+1x Bum's Rush
+2x Dream World
+1x Set's Curse
+2x Temptation
+6x Waters of Duat
+
+Ally (2)
+1x Mylan Horseed
+1x Saatet-ta
+
+Equipment (4)
+4x Mokolé Blood
+
+Action Modifier (12)
+1x Enkil Cog
+2x Inspire Greatness
+7x Truth of a Thousand Lies
+2x Veil the Legions
+
+Action Modifier/Combat (10)
+3x Form of the Serpent
+3x Shadow Boxing
+4x Swallowed by the Night
+
+Combat (33)
+8x Immortal Grapple
+2x Target Vitals
+7x Taste of Vitae
+16x Typhonic Beast

@@ -1,0 +1,75 @@
+Atlantic Cup
+Online
+May 21st 2022
+3R+F
+54 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/10044
+
+-- 2GW8.5 + 5VP in final
+
+Deck Name: Dumpster Fire of Pure Hate
+Description:
+
+Crypt (13 cards, min=15, max=24, avg=4.92)
+------------------------------------------
+4x Mina Grotius               6  FOR NEC cel      Harbinger of Skulls:3
+4x Jennie "Cassie247" Orne    5  inn jud viz      Visionary:4
+2x Jack "Hannibal137" Harmon  4  def jud          Defender:4
+1x Nicomedes                  5  aus for nec vic  Harbinger of Skulls:4
+1x Marion "Teacher193" Perks  4  jud red          Redeemer:4
+1x François "Warden" Loehr    3  def jud          Judge:4
+
+Library (90 cards)
+Master (29; 4 trifle)
+1x Barrens, The
+1x Church of Vindicated Faith, The
+2x Dreams of the Sphinx
+1x Fortschritt Library
+1x Fragment of the Book of Nod
+9x Liquidation
+4x Parthenon, The
+1x Pentex(TM) Subversion
+1x Specialization
+4x Unity
+4x Wider View
+
+Conviction (13)
+3x React with Conviction
+7x Second Sight
+3x Strike with Conviction
+
+Ally (14)
+2x Carlton Van Wyk
+10x Emerald Legionnaire
+2x Vagabond Mystic
+
+Equipment (6)
+2x Crusader Sword, The
+1x Heart of Nizchetus
+3x Ivory Bow
+
+Power (8)
+1x Champion
+3x Discern
+4x Vigilance
+
+Action Modifier (3)
+1x Call of the Hungry Dead
+2x Change of Target
+
+Action Modifier/Combat (5)
+5x Breath of Thanatos
+
+Action Modifier/Reaction (1)
+1x Spectral Divination
+
+Reaction (3)
+1x Determine
+2x On the Qui Vive
+
+Event (8)
+1x Nightmares upon Nightmares
+1x Recalled to the Founder
+4x Unmasking, The
+2x Veil of Darkness

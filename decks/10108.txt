@@ -1,0 +1,83 @@
+4th Tragic Love Affair
+Espoo, Finland
+March 26th 2022
+2R+F
+11 players
+Antti Penttilä
+https://www.vekn.net/event-calendar/event/10108
+
+The love affairs resumed after a lengthy break. The meta was even more combat-oriented than usual: I counted only two decks without significant combat capabilities, one of them being mine. All initial matches resulted in GWs, three out of five being sweeps and only one timing out. The final, however, turned out quite stagnant, and it's no surprise that the strongest wall won.
+
+ -- Tero Aalto (Malgorzata) 0,5
+ -- Karri Malm (Baba Yaga + Serenna the White) 0,5
+ -- Antti Penttilä (Matasuntha wall) 1,5
+ -- Lasse Pöyry (Blood Brothers Corrupt Constructtions) 0
+ -- Jani Malmi (Tariq Amaranth rush) 0,5
+
+Antti's notes:
+I took the tournament as an opportunity to meet all the wonderful methuselahs of greter Hellsinki region after the last lockdown. I had a great time.
+
+This was my first time playing Matasuntha, I've always liked her.
+But I have this weird obsession of not playing decks that I deem too powerful in smaller events.
+Also this was an opportunity to play the new Gangrel-cards that are just awesome, like really good.
+The amount of untaps in this deck is just nuts.
+At first I had cool stuff like Gather in the deck, but I decided to cut them all away and just focus on the basics of the game, bleeding/combat/blocking. That was the right call to make, the deck worked really good.
+The reasoning behind this was to not open myself to combats that I can't choose myself.
+Also don't leave your haven without 2 Direct Interventions, you're going to need them.
+
+The Finals: 5th seed is kinda ok place to start, you have nothing to lose and everything to gain, just go out and take a breath while the others make "the dance". To my surprise Lasse who played Corrupt Constructs was sitting in front of me, which was perfect. He had ousted me in the preliminaries quite effectively, there's not enough prevent in my deck to handle 6-8strenght minions rushing you on unfortunate times. Also my deck has more than enough intercept to decide what you want to let his deck play...
+Jani and his Tariq went nuts in the early game and really caused Tero and his Malgo some trouble. Quite fast the table evolved in to a state where Karri is gearing up, Jani is being a monster, Lasse gets blocked if he tries to build, Tero is Malgoing and surviving and I'm just kinda bleeding and blocking Lasses key actions. Lasse rushed Tariq with his Ivory Bow wielding Dorka, torporising Tariq and dipping him with the votes of Tero. This took the momentum out of the game, but Jani had already slowed Tero down considerably and him playing a slow deck it made it hard for Tero to get back in the game, all the while I was putting more and more aggression to Lasse.
+I managed to avoid combats with Karri's Baba Yaga or I had an Earth Meld in hand and he didn't have Telepathing Tracking etc. when it happened.
+Like Tero said the finals was kinda stagnant after these key-moments.
+Which is obviously good for a wall deck like mine.
+I didn't even try to play for the second VP, I just wanted Jani to go forth and cause havoc, but he pretty much ended up digging for a new un-advanced Tariq.
+
+Crypt (12 cards, min=9, max=40, avg=7)
+--------------------------------------
+5x Matasuntha      10  ANI AUS CEL FOR PRO                Gangrel:5
+2x Randall          8  ANI AUS FOR PRO          1 vote    Gangrel:4
+2x Anarch Convert   1  -none-                             Caitiff:ANY
+1x Inyanga          9  ANI AUS FOR PRO dom nec  primogen  Gangrel:4
+1x Gunnar           4  PRO for                            Gangrel:4
+1x T.J.             3  cel for                            Gangrel:4
+
+Library (89 cards)
+Master (17; 6 trifle)
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Fame
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+2x Vessel
+4x Villein
+
+Action (6)
+1x Army of Rats
+5x Deep Song
+
+Action Modifier (2)
+2x Enkil Cog
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (36)
+4x Cats' Guidance
+4x Eagle's Sight
+7x Eyes of Argus
+7x Eyes of the Wild
+2x My Enemy's Enemy
+5x Sense the Savage Way
+7x Telepathic Misdirection
+
+Combat (24)
+6x Bear's Skin
+1x Bone Spur
+1x Canine Horde
+4x Earth Meld
+4x Hidden Strength
+4x Taste of Vitae
+4x Telepathic Tracking

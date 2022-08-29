@@ -1,0 +1,58 @@
+UK 2021 National Championships
+Leeds, United Kingdom
+March 5th 2022
+3R+F
+19 players
+James Salt
+
+-- 3GW10.5 + 4VP in final
+
+Crypt (12 cards, min=13, max=26, avg=5.08)
+------------------------------------------
+3x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+2x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Crow               5  ANI for pro tha         Gangrel:5
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+1x Ruslan Fedorenko   2  pro                     Gangrel:6
+
+Library (75 cards)
+Master (13; 6 trifle)
+1x Antediluvian Awakening
+1x Carfax Abbey
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+4x Vessel
+2x Wider View
+
+Action (10)
+2x Constant Revolution
+8x Thing
+
+Retainer (5)
+1x Dog Pack
+4x Raven Spy
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (33)
+6x Bait and Switch
+10x Deep Ecology
+2x Delaying Tactics
+1x Eyes of the Beast
+4x Eyes of the Wild
+6x Organized Resistance
+1x Party Out Of Bounds
+2x Protection Racket
+1x Sonar
+
+Combat (12)
+6x Claws of the Dead
+4x Form of Mist
+2x Pack Alpha

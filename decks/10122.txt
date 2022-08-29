@@ -1,0 +1,93 @@
+Coupe de Paris 2022
+Paris, France
+March 19th 2022
+3R+F
+18 players
+Vincent Ripoll
+https://www.vekn.net/event-calendar/event/10122
+
+-- GW4 (4th seed) + 1.5 in final
+
+The first game was great (I managed to save my little prey by banishing on a regular pace the Giovanni of my prey who was playing Shambling Horde but drew none) and I scored the GW. I screwed up in the second game and got 0 where a GW was easy to gain (I drew the Protean skill card after a Villein and played it on Hardestadt, but forgot to update my plan with that information, leading to a sub-optimal play that brought Hardestadt to torpor instead of killing my prey and Banishing my new prey).
+In the third game (4 players table), my prey and ally contested Antonio D'Erlette, leaving me with an aggressive Gangrel deck with no predator as a predator, I died).
+
+Final round: Axel (Aggressive Gangrel anarch) > JC (Anson/Rake/PRE) > Marius (AAA) > Christophe (Shambling Horde)
+
+Things started looking ugly as JC and Marius began contesting each other. Christophe had a very good start and soon got 2 Shambling Hordes then 4 Shambling Hordes. There were a lot of deal breaking (starting with the 8th minute when JC offered a Giant's Blood on Rudolfo in exchange of a rush on Marius -- the Shambling was recruited with the promise not to rush). Marius had a lot of pressure of JC (Misdirection on his other vampire, bleed for 6 by Victoria Ash) and was soon at 2 pool.
+Meanwhile, Axel had already 4 vampires including 1 baron and 4 locations (Anarch Free Press, Anarch Railroad, Channel 10, then Club Illusion). My hand was jammed badly (plenty of Voter Captivation, and my only vote was Anarchist Uprising who would help everyone but me as it would give Axel more VPs, and I'll never draw any Banishment) and Adana being rushed 4 times by Shambling Horde depleted my hand from combat ends, including Form of Mist, which would have been great to go forward without risk, as Axel's deck had plenty of wakes and intercept, and some Donnybrooks and Form of the Bear.
+JC eventually dies and Marius is left with 2 pool, and I convince Christophe to start rushing Axel even though Axel has a 3-turns-no-bleed deal with Marius. This leaves me some time to bring out Hardestadt who has stronger arguments against Shambling Hordes, should they come, but still have a crappy hand. I manage at some point to get a bleed for 3 through with Adana and play Enkil Cog, but Hardestadt stays up, ready to deflect. Christophe still bleeds me for 1 though with 3 of his 4 vampires and I'm soon at 3 pool. Marius and I try to set to some plan in motion since we're both the underdogs. The idea is that he calls Ancilla to remove 8 out of 10 pool of Christophe, then kill him and he would let me kill Axel. But Christophe says he has a delaying tactics, which I believe, but it would only delay the thing for one turn.
+However, Marius starts with a Neonate Breach, choosing only his prey as Axel says he would block if he were chosen. I vote down the Neonate Breach as it wasn't what we had agreed (btw, Marius had also a deal involving rescuing Axel's prince, which would have perhaps helped passing the vote). Order is important because
+a) if Christophe delays the Neonate, he takes 8 pool from the Anarchist, doesn't die, which leaves two easy VPs to Axel
+b) if Christophe doesn't delay the Neonate, and delays the Anarchist, it only weakens Christophe and doesn't help me killing my prey. And Christophe would probably have to go backwards, helping Axel to get his second VP and maybe more
+c) if Marius had played the Anarchist first, Christophe would have delayed it and we would have kept the status quo until the next turn to try again, preventing Axel from getting easy VPs
+Anyway, Marius gets crazy and does nothing else more. I try bleeding Axel with Enkil Cog but it doesn't work the first time, while Christophe tries to regain some blood to get more Shambling Hordes, as he misplayed and played one without having any minion to remove in his ash heap. I have drawn a Reins of Power, but Axel is at 10 pool so I'm trying to bleed him to get put him at reach. I finally manage to bleed Axel for 4 on the following turn but it's complicated as it has plenty of permacept and costs me a lot of resources. Finally, there's 5 minutes left and Axel is down to 5 pool. My plan is to call Reins of Power and, if the Reins is blocked, to call Anarchist as a second chance. Adana plays the Reins of Power as the first action (so that Channel 10 is not effective) but gets blocked despite the Monastery of Shadows I played earlier and a Form of Mist. But I draw a Horrific Countenance as the replacement which makes me laugh. Hopefully, Adana who has 1 blood gets only punched for 1 which leaves me with my 8 votes. I then call Anarchist (Axel is now at 5 pool), Axel tries to block, I add 1 stealth, he adds intercept, and I play Horrific Countenance to make the action unblockable (hopefully Hardestadt had still 6 blood). I play Scalpel Tongue to shut down Anneke's votes, and Christophe chooses not to delay the vote (either way, it changes nothing for Christophe). The game ends 1 or 2 minutes later.
+
+Name: Royal with Cheese
+Description: A new iteration of my Royal with Cheese deck (see http://www.vekn.fr/decks/twd.htm#2018kotmpf)  The deck relies on very versatile cards and is able to adapt to many situations.
+I changed the crypt to include Lodin in order to play some Deflection, but will probably diversify the crypt in the future to include back smaller vampires (André the Manipulator should make his comeback).
+
+Crypt (12 cards, min=33, max=44, avg=10.08)
+-------------------------------------------
+5x Adana de Sforza     11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+3x Hardestadt          11  DOM FOR POT PRE cel pro  inner circle  Ventrue:4
+3x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro      prince        Ventrue:5
+1x Malabranca           9  AUS CEL PRE PRO obf      archbishop    Toreador antitribu:4
+
+-- I should probably add a few smaller vampires and add another Wider View
+
+Library (90 cards)
+Master (18; 9 trifle)
+1x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion -- wasn't needed during this tournament
+1x Protean
+8x Villein -- necessary, but would work better with a more diverse crypt
+1x Wider View -- should be doubled
+5x Zillah's Valley
+
+Action (1)
+1x Entrancement -- I tried to steal a Shambling Horde during the final, but it didn't work. Still useful I guess.
+
+Equipment (1)
+1x Heart of Nizchetus -- very helpful during the 3rd game to draw Villeins
+
+Political Action (14)
+2x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+6x Banishment -- very strong to set the tempo of the game, slowing down players when needed
+1x Conservative Agitation
+1x Domain Challenge
+1x Political Stranglehold
+1x Reins of Power
+
+Retainer (2)
+2x Homunculus -- I added those in place of wakes. Was useful, but should probably go first on the vampires with Dominate.
+
+Action Modifier (24)
+4x Earth Control
+2x Enchanting Gaze -- useful for the vampires that don't have superior Protean
+1x Enkil Cog
+1x Horrific Countenance -- the game changing card! there were 4 in the previous iteration which was a bit too many
+6x Instantaneous Transformation
+4x Revelation of the Serpent -- useful for the vampires that don't have superior Protean
+6x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Action Modifier/Reaction (5)
+2x Form of the Bat -- works great with the other stealth sources, and can give a little surprise intercept
+3x Scalpel Tongue -- 6 were too many, 3 is a bit too short, slots are scarce
+
+Reaction (5)
+4x Deflection
+1x On the Qui Vive
+
+Combat (16)
+2x Claws of the Dead
+8x Earth Meld
+6x Form of Mist
+
+Event (1)
+1x Fourth Cycle, The -- I was expecting more events, wasn't useful during the tournament

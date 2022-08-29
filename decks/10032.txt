@@ -1,0 +1,62 @@
+Glare of Lies
+Badia del Vallès, Spain
+January 22nd 2022
+3R+F
+27 players
+David Vallés Gómez
+https://www.vekn.net/event-calendar/event/10032
+
+-- 3VP in final
+
+Deck Name : Tremere Obedience & Deflection
+
+Crypt (12 cards, min=30, max=44, avg=9.58)
+------------------------------------------
+5x Lord Tremere           11  ANI AUS DOM THA VIC obe            Tremere:5
+3x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar  Tremere:5
+2x Gerald Windham          9  AUS DOM FOR THA                    Tremere:5
+1x Ayelech                 7  AUS DOM THA              prince    Tremere:6
+1x Zane                    5  THA aus dom              primogen  Tremere:5
+
+Library (90 cards)
+Master (17; 9 trifle)
+1x Anarch Troublemaker
+1x Arcane Library
+1x Coven, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+6x Villein
+1x Wash
+1x Wider View
+
+Action (17)
+12x Govern the Unaligned
+4x Magic of the Smith
+1x Rutor's Hand
+
+Equipment (4)
+1x Ankara Citadel, Turkey, The
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Signet of King Saul, The
+
+Action Modifier (16)
+3x Bonding
+1x Conditioning
+1x Foreshadowing Destruction
+8x Mirror Walk
+3x Seduction
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (33)
+9x Deflection
+5x Eluding the Arms of Morpheus
+8x Eyes of Argus
+8x Obedience
+3x Telepathic Misdirection

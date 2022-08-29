@@ -1,0 +1,59 @@
+Torneo VTES - Mayo
+Barcelona, Spain
+May 28th 2022
+3R+F
+15 players
+Tomàs López Jiménez
+https://www.vekn.net/event-calendar/event/10194
+
+-- 1.5VP in final
+
+Deck Name: Descent into Bleed
+
+Crypt (12 cards, min=20, max=40, avg=7.42)
+------------------------------------------
+4x Appius Claudius Corvus   10  DOM OBT POT cel nec          Lasombra:5
+2x Saul Meira                8  CHI DOM OBT POT              Lasombra:5
+2x Ermenegildo, The Rake     5  DOM OBT pot                  Lasombra:4
+1x Badr, Shadow of Granada   7  DOM OBT POT                  Lasombra:5
+1x Onaedo                    6  DOM OBT aus pot              Lasombra:4
+1x Andrew Emory              5  OBT aus dom pot      bishop  Lasombra:4
+1x Dame Hollerton            5  DOM OBT myt                  Kiasyd:4
+
+Library (84 cards)
+Master (28; 10 trifle)
+1x Barrens, The
+10x Corporal Reservoir
+1x Dreams of the Sphinx
+1x Elysian Fields
+2x Information Highway
+7x Minion Tap
+6x Zillah's Valley
+
+Action (21)
+7x Descent into Darkness
+14x Govern the Unaligned
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Zaire River Ferry
+
+Action Modifier (27)
+2x Blanket of Night
+6x Bonding
+2x Conditioning
+4x Enkil Cog
+2x Foreshadowing Destruction
+4x Shadow Play
+3x Shroud of Absence
+2x Shroud of Night
+2x Tenebrous Form
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (3)
+3x Deflection

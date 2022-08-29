@@ -1,0 +1,71 @@
+Shell Break Espoo
+Espoo, Finland
+April 17th 2022
+2R+F
+14 players
+Tero Aalto
+https://www.vekn.net/player-registry/event/10139
+
+-- 1GW5 + 5VP in final
+
+The final table sat as follows:
+
+1. Niina Lindroos (Unmada+Lutz vote&Petra)
+2. Matias Frosterus (Tremere/Ventrue vote)
+3. Tero Aalto (unnamed bleed) 5 VP
+4. Tommi Hakomaa (presence tap&bleed)
+5. Aleksi Satukangas (dom/obf bleed)
+
+Deck Name: (Sem título): Maximum Security
+Description: A variation of the original "(Sem título)" tuned for a combat-heavy meta.
+
+Crypt (12 cards, min=10, max=40, avg=6.33)
+------------------------------------------
+6x unnamed, The    10  CEL DAI OBF PRE PRO  Baali:6
+5x Horde, The       3  dai obf pre          Baali:6
+1x Anarch Convert   1  -none-               Caitiff:ANY
+
+Library (65 cards)
+Master (8)
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Perfectionist
+3x Secure Haven
+
+Action (13)
+1x Contagion
+4x Entrancement
+5x Flurry of Action
+3x Unleash Hell's Fury
+
+Ally (4)
+4x Infernal Servitor
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (24)
+4x Elder Impersonation
+3x Enkil Cog
+2x Faceless Night
+3x I am Legion
+7x Instantaneous Transformation
+4x Lost in Crowds
+1x Psychomachia
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (6)
+6x Sense the Sin
+
+Combat (4)
+2x Earth Meld
+2x Form of Mist
+
+Event (1)
+1x Narrow Minds

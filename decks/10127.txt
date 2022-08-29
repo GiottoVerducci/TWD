@@ -1,0 +1,68 @@
+Powerbase: Badalona
+Badalona, Spain
+March 12th 2022
+3R+F
+33 players
+José Luis Manuel
+https://www.vekn.net/event-calendar/event/10127
+
+-- 2GW7 + 2.5VP in final
+
+Final Table:
+Jose Luis Manuel Pasoot --> Hector (political anarch Gangrel) --> Germán (Anson pipes) --> Fede (Harbingers) --> Albert Dolcet (Muaziz allies)
+
+Deck Name: Lucian stronghold
+Author: Based on deck of Pere Joan Garcia
+
+Crypt (12 cards, min=25, max=38, avg=7.67)
+------------------------------------------
+3x Lucian                10  AUS DOM OBF cel tha  justicar  Malkavian:1
+2x Gratiano               8  DOM OBT obf pot      priscus   Lasombra:2
+2x Gilbert Duane          7  AUS DOM OBF          prince    Malkavian:1
+2x Greger Anderssen       7  AUS OBF dom pro      prince    Malkavian:2
+1x Mariel, Lady Thunder   7  DOM OBF aus tha                Malkavian:1
+1x Ozmo                   6  AUS dom obf                    Malkavian:1
+1x Didi Meyers            5  DOM aus cel obf                Malkavian:1
+
+Library (85 cards)
+Master (12; 3 trifle)
+1x Anarch Troublemaker
+1x Cavalier
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Misdirection
+1x Pentex(TM) Subversion
+3x Wash
+
+Action (14)
+12x Govern the Unaligned
+2x Revelations
+
+Political Action (9)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x Banishment
+1x Meddling of Semsith, The
+3x Parity Shift
+
+Action Modifier (31)
+4x Cloak the Gathering
+6x Conditioning
+3x Elder Impersonation
+1x Enkil Cog
+4x Faceless Night
+2x Foreshadowing Destruction
+3x Forgotten Labyrinth
+6x Lost in Crowds
+2x Telepathic Vote Counting
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (12)
+8x Deflection
+4x On the Qui Vive
+
+Combat (3)
+3x No Trace

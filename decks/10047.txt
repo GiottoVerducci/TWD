@@ -1,0 +1,77 @@
+Bum's Rush Brasil
+Online
+January 18th 2022 -- January 20th 2022
+2R+F
+16 players
+Bruno Patrício Silva Pontes
+https://www.vekn.net/player-registry/event/10047
+
+-- 3VP in final
+
+Deck Name: protect the black gates of heaven
+
+Crypt (13 cards, min=6, max=40, avg=6.31)
+-----------------------------------------
+5x unnamed, The    10  CEL DAI OBF PRE PRO         Baali:6
+3x Anarch Convert   1  -none-                      Caitiff:ANY
+1x Massimiliano     7  ANI FOR pro          baron  Gangrel:6
+1x Vivian VI        7  PRE PRO obf tha      baron  Follower of Set:6
+1x Casey Snyder     6  PRO ani cel for      baron  Gangrel:6
+1x Elisha Tucker    6  PRE cel obf pro      baron  Follower of Set:6
+1x Indira           3  PRO                         Gangrel:6
+
+Library (90 cards)
+Master (19; 3 trifle)
+1x Anarch Railroad
+6x Ashur Tablets
+1x Giant's Blood
+2x Millicent Smith, Puritan Vampire Hunter
+1x Monastery of Shadows
+1x Perfectionist
+1x Powerbase: Montreal
+1x Rack, The
+2x Rötschreck
+2x Vessel
+1x Wider View
+
+Action (17)
+2x Constant Revolution
+1x Contagion
+5x Illegalism
+6x Shatter the Gate
+3x Unleash Hell's Fury
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (4)
+3x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (20)
+1x Cloak the Gathering
+3x Elder Impersonation
+1x Enkil Cog
+7x Instantaneous Transformation
+6x Into Thin Air
+2x Spying Mission
+
+Action Modifier/Reaction (5)
+5x Sense the Sin
+
+Reaction (10)
+4x Bait and Switch
+1x Eluding the Arms of Morpheus
+5x Organized Resistance
+
+Combat (11)
+1x Donnybrook
+6x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians

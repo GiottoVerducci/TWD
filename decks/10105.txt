@@ -1,0 +1,66 @@
+Subversão da Pentex
+Vila Velha, Brazil
+March 6th 2022
+3R+F
+11 players
+Gabriel Waichert
+https://www.vekn.net/event-calendar/event/10105
+
+Preliminar Standings:
+1 - Tiago Honorato (Baltimore Montano) - 2GW8
+2 - André Afonso (Capuchin Wall) - 1GW5
+3 - Eric Procópio (Nergal Striga) - 1GW3.5
+4 - Gabriel Waichert (Kiasyd Bs) - 0GW2
+5 - Gilmar Mendes (Euro Brujah) - 0GW1.5
+
+Final Table:
+Eric (1VP) -> Andre -> Gabriel (3VP) -> Tiago -> Gilmar (1VP)
+
+Deck Name : (SA) Fadinhas
+
+Crypt (12 cards, min=23, max=31, avg=6.83)
+------------------------------------------
+3x Arcadian, The            8  DOM MYT OBT chi for           Kiasyd:5
+3x Omme Enberbenight        7  MYT OBT cel dom      priscus  Kiasyd:4
+3x Isanwayen                6  DOM MYT OBT                   Kiasyd:4
+2x Roderick Phillips March  7  DOM MYT cel obt tha           Kiasyd:4
+1x Dame Hollerton           5  DOM OBT myt                   Kiasyd:4
+
+Library (80 cards)
+Master (18; 7 trifle)
+1x Dominate
+2x Dreams of the Sphinx
+1x Great Symposium
+2x Inbase Discotek, Frankfurt
+2x Perfectionist
+2x Ravager
+1x Secure Haven
+5x Vessel
+2x Wider View
+
+Action (13)
+1x Far Mastery
+6x Govern the Unaligned
+6x Gremlins
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (20)
+6x Conditioning
+4x Shadow Play
+4x Shroud of Absence
+6x Stone Travel
+
+Action Modifier/Combat (6)
+6x Fae Contortion
+
+Action Modifier/Reaction (4)
+4x Aura Absorption
+
+Reaction (13)
+6x Deflection
+7x On the Qui Vive
+
+Combat (5)
+5x Oubliette

@@ -1,0 +1,64 @@
+Conclave Antologia I
+Fortaleza, Brazil
+April 23rd 2022
+2R+F
+12 players
+Bruno Hobbit
+https://www.vekn.net/event-calendar/event/10158
+
+-- 1.5VP in final
+
+Deck Name: Visions of Gangrel
+
+Crypt (12 cards, min=26, max=40, avg=8.42)
+------------------------------------------
+4x Matasuntha    10  ANI AUS CEL FOR PRO                Gangrel:5
+3x Inyanga        9  ANI AUS FOR PRO dom nec  primogen  Gangrel:4
+2x Ariadne        8  ANI FOR PRO chi                    Gangrel:5
+2x Randall        8  ANI AUS FOR PRO          1 vote    Gangrel:4
+1x Robert Price   2  pro                                Gangrel:4
+
+Library (90 cards)
+Master (12; 6 trifle)
+1x Backways
+1x Blood Doll
+1x Ecoterrorists
+1x Gangrel Revel
+1x Giant's Blood
+1x Rebel
+2x Vessel
+3x Villein
+1x Zoo Hunting Ground
+
+Action (6)
+6x Deep Song
+
+Ally (1)
+1x Double Deuce
+
+Equipment (1)
+1x Bowl of Convergence
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier (5)
+1x Kiss of Ra, The
+4x Mind of the Wilds
+
+Reaction (16)
+4x Cats' Guidance
+2x Enhanced Senses
+4x Read the Winds
+6x Sense the Savage Way
+
+Combat (47)
+6x Bone Spur
+7x Carrion Crows
+6x Drawing Out the Beast
+2x Earth Meld
+6x Indomitability
+7x Rolling with the Punches
+3x Taste of Vitae
+6x Telepathic Tracking
+4x Undead Persistence

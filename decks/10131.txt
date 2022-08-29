@@ -1,0 +1,66 @@
+Aniversário do Mauro
+Fortaleza, Brazil
+April 3rd 2022
+2R+F
+10 players
+Mauro César
+https://www.vekn.net/event-calendar/event/10131
+
+-- 3VP in final
+
+Deck Name: Ravnos Clown Car
+
+Crypt (12 cards, min=7, max=19, avg=3.33)
+-----------------------------------------
+1x Andrei Puxon                  5  ani cel chi for  Ravnos:2
+1x Ghivran Dalaal, The Dead God  5  FOR ani aus chi  Ravnos:2
+1x Khalil Ravana                 5  CHI ani for pre  Ravnos:2
+1x Anka, Priestess of Thorns     4  ani chi pro      Ravnos:2
+1x Salbatore Bokkengro           4  CHI for pro      Ravnos:2
+1x Sennuwy, The Promoter         4  ani chi for      Ravnos:2
+1x Lázár Dobrescu                3  for              Ravnos:2
+1x Vedel Esbreno                 3  chi for          Ravnos:2
+1x Sasha Miklos                  2  chi              Ravnos:2
+1x Spleen, Georgio Gutterpunk    2  ani chi          Ravnos:2
+1x Zip                           2  ani              Ravnos:3
+1x Anarch Convert                1  -none-           Caitiff:ANY
+
+Library (82 cards)
+Master (15)
+1x Anarch Troublemaker
+1x Bleeding the Vine
+3x Information Highway
+1x Life Boon
+1x Pentex(TM) Subversion
+5x Ravnos Carnival
+1x Sunset Strip, Hollywood
+2x Week of Nightmares
+
+Action (30)
+1x Aranthebes, The Immortal
+17x Embrace, The
+12x Mozambique Allure
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Shilmulo Tarot
+
+Political Action (10)
+9x Consanguineous Boon
+1x Kindred Segregation
+
+Action Modifier (9)
+4x Change of Target
+1x Cryptic Rider
+4x Daring the Dawn
+
+Action Modifier/Reaction (12)
+12x Eldest Are Kholo, The
+
+Reaction (3)
+3x Delaying Tactics
+
+Event (1)
+1x Uncoiling, The

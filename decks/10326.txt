@@ -1,0 +1,63 @@
+Tampere Law: Retribution
+Tampere, Finland
+August 27th 2022
+3R+F
+20 players
+Antti Penttilä
+https://www.vekn.net/event-calendar/event/10326
+
+Deck Name: BM
+Description:
+I had talks about the concept with many awesome players during the EC. Those discussions helped me decide to go up to 90 cards, so that there is enough gas for the end game. To include the Segregations, because they are simply awesome just now. The rest is just math that helps the deck flow. It's all about the cardflow, because eventho you will discard stuff to HL:R, you still want to have the hand that wins the combats. Rego Motum is just better than Sideslip, Soul Burn delays the problem-> Fast Hands solves it. Kasim is too big for the deck
+
+Tournament meta itself was rather varied. Opposing my initial assertion, there was not a single Nu-mite (G6 Banumites) being contested, so.. guess they aint FOTM after all?
+Some of the decks I recall seeing were (in no specific order) Oldschool Tzimisce, BH Banu Haqim, multi-rush Matasuntha, Shambling Hordes and plenty of anarchs of different variety were on display.
+
+Crypt (12 cards, min=16, max=26, avg=5.33)
+------------------------------------------
+3x Kassandra Tassaki  6  CEL THA obf      prince    Assamite:6
+3x Warmaksan          5  THA cel obf      prince    Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf  prince    Assamite:6
+1x Khadija Al-Kindi   6  CEL OBF THA      primogen  Assamite:6
+1x Greg Mazouni       4  cel obf tha                Assamite:6
+1x Nayarana           4  THA cel                    Assamite:6
+1x Bijou              3  cel tha                    Assamite:6
+
+Library (90 cards)
+Master (18; 7 trifle)
+3x Dreams of the Sphinx
+6x Haqim's Law: Retribution
+1x Khabar: Community, The
+1x Market Square
+3x Priority Contract
+4x Villein
+
+Action (8)
+4x Hunter's Mark
+4x Judgment: Camarilla Segregation
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (1)
+1x Disputed Territory
+
+Action Modifier/Combat (9)
+4x Resist Earth's Grasp
+5x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (44)
+2x Blood Rage
+5x Blur
+2x Fast Hands
+14x Hunger of Marduk
+5x Psyche!
+8x Pursuit
+4x Quickness
+4x Rego Motum
+
+Event (1)
+1x Narrow Minds

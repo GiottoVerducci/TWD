@@ -1,0 +1,65 @@
+Nordestão 2021
+Campina Grande, Brazil
+December 5th 2021
+3R+F
+18 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/9966
+
+-- 2VP in final
+
+Deck Name: SUPER Sebastian
+
+Crypt (13 cards, min=5, max=32, avg=5.15)
+-----------------------------------------
+3x Sébastien Goulet        8  DOM OBF cel pre pro  Gangrel antitribu:3
+3x Sébastien Goulet (ADV)  8  DOM OBF cel pre pro  Gangrel antitribu:3
+3x Anarch Convert          1  -none-               Caitiff:ANY
+1x Black Lotus             5  DOM aus obf ser      Follower of Set:4
+1x Catherine du Bois       5  DOM for obf pre      Ventrue:3
+1x Jeffrey Mullins         4  OBF cel              Gangrel antitribu:4
+1x Denette Stensen         2  obf                  Gangrel antitribu:4
+
+Library (90 cards)
+Master (16; 7 trifle)
+2x Charisma
+1x Ennoia's Theater
+1x Golconda: Inner Peace
+1x KRCG News Radio
+2x Perfectionist
+1x Twisted Forest
+3x Vessel
+2x Villein
+1x Wall Street Night, Financial Newspaper
+2x Wider View
+
+Action (5)
+5x Govern the Unaligned
+
+Ally (13)
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Ossian
+10x Shadow Court Satyr
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (27)
+3x Cloak the Gathering
+4x Conditioning
+3x Elder Impersonation
+4x Faceless Night
+2x Into Thin Air
+6x Lost in Crowds
+5x Spying Mission
+
+Reaction (12)
+7x Deflection
+5x On the Qui Vive
+
+Combat (13)
+13x Earth Meld
+
+Event (3)
+3x Unmasking, The

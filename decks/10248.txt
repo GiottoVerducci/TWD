@@ -1,0 +1,68 @@
+Rainy winter
+Santiago, Chile
+July 16th 2022
+3R+F
+12 players
+Gino Sepulveda
+
+https://www.vekn.net/event-calendar/event/10248
+
+Description: Based on Bram Van Stappen Nacional de España 2021 deck. The main change was in the crypt to prioritize the superior OBF and some of the library to adapt it to the Chilean game.
+
+Possible changes:
+1. Creepshow was never necessary though maybe it was just luck.
+2. It would be nice to make room for one more Reckless.
+3. Trade Athena for one more copy of Arishat
+4. Cryptic Rider gave me a table but it's a matter of taste
+5. Entrancement was never played, despite having it, always prioritize policies, therefore it could come out.
+6. My original idea was to play 9 Ashur, but it's not critical either.
+
+Thanks to Bram for creating and sharing his deck, Backwinder & VTES Conce for the testing, analysis and good vibes, Posco Work for the policy analysis, and especially Faroock!
+
+Crypt (12 cards, min=24, max=26, avg=6.17)
+------------------------------------------
+3x Arishat        6  DAI OBF PRE      1 vote  Baali:6
+2x Belinde        6  OBF ani aus pot  prince  Nosferatu:6
+2x Jacques Rouge  6  OBF ani pot pre  baron   Nosferatu:6
+1x Benjamin Rose  7  AUS OBF ani pot  prince  Nosferatu:5
+1x Karen Suadela  7  CEL POT obf pre  prince  Brujah:5
+1x Andi Liu       6  DOM aus obf pre  prince  Malkavian:6
+1x Atiena         6  CEL obf pot pre  baron   Brujah:6
+1x Elisha Tucker  6  PRE cel obf pro  baron   Follower of Set:6
+
+Library (60 cards)
+Master (19; 2 trifle)
+6x Ashur Tablets
+1x Coven, The
+1x Creepshow Casino
+1x Dreams of the Sphinx
+4x Information Highway
+3x Parthenon, The
+1x Protected Resources
+1x Visit from the Capuchin
+1x Wider View
+
+Action (3)
+1x Entrancement
+2x Unleash Hell's Fury
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x Kine Resources Contested
+7x Parity Shift
+4x Reckless Agitation
+
+Action Modifier (16)
+2x Cryptic Rider
+1x Faceless Night
+6x Forgotten Labyrinth
+3x Lost in Crowds
+2x Perfect Paragon
+2x Voter Captivation
+
+Reaction (2)
+2x Second Tradition: Domain
+
+Combat (3)
+3x Majesty

@@ -1,0 +1,47 @@
+Week of Nightmares Event 2
+Columbus, Ohio
+June 6th 2022
+2R+F
+13 players
+Marshall Hogue
+https://www.vekn.net/event-calendar/event/10110
+
+-- 1GW4 + 4VP in final
+
+Description: Get out Valkyries, then Thing out more Valkyries and Brunhilde. When Brunhilde comes out, bleed as much as you can. The anarch angle for the Valks can be fidgety, so if you don't need it, it can be skipped. Sometimes it pays off like crazy.
+
+Deck Name: Valk '22
+
+Crypt (13 cards, min=16, max=32, avg=5.54)
+------------------------------------------
+8x Valkyrie         4  for pre pro             Gangrel:3
+5x Brunhilde (ADV)  8  ANI FOR PRO pre  baron  Gangrel:3
+
+Library (88 cards)
+Master (16)
+2x Carfax Abbey
+1x Club Illusion
+1x Ecoterrorists
+4x Effective Management
+3x Ennoia's Theater
+4x Presence
+1x Secure Haven
+
+Action (26)
+2x Entrancement
+4x Media Influence
+8x Social Charm
+12x Thing
+
+Action Modifier (33)
+9x Enchanting Gaze
+12x Freak Drive
+2x Monkey Wrench
+10x Revelation of the Serpent
+
+Reaction (10)
+4x Bait and Switch
+6x Eyes of the Wild
+
+Combat (3)
+3x Diversion

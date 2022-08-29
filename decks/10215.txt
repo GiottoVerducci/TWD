@@ -1,0 +1,64 @@
+Origins - Forced Awakening
+Columbus, Ohio
+June 12th 2022
+2R+F
+17 players
+Adam Hulse
+https://www.vekn.net/event-calendar/event/10215
+
+-- 2GW7 + 3VP in final
+
+Deck Name: Dmitra Calls the Shots
+Description: A modified version of Martin Major Dmitra assualt rife deck to adjust for the meta (Closed Session, Ancilla Empowerment) and the fact that parity shift doesn't give as much pool now.
+I would say Ivory bow is missing and Carlton (but don't need Carlton if you switch to AK-47 - but then need to switch Side strike))
+
+Crypt (12 cards, min=27, max=36, avg=8)
+---------------------------------------
+5x Dmitra Ilyanova   9  CEL FOR POT PRE obf  justicar  Brujah:5
+2x Carlak            8  CEL PRE dom pot      prince    Brujah:5
+2x Karen Suadela     7  CEL POT obf pre      prince    Brujah:5
+1x Catalina Vega     8  AUS CEL PRE for      prince    Toreador:6
+1x Flávio Gonçalves  7  CEL PRE aus for      prince    Toreador:6
+1x Mkhokheli         6  PRE aus cel for      prince    Toreador:6
+
+Library (70 cards)
+Master (10; 1 trifle)
+1x Dreams of the Sphinx
+1x Fame
+5x Grooming the Protégé
+1x Monastery of Shadows
+1x New Carthage
+1x Wider View
+
+Equipment (4)
+3x Assault Rifle
+1x Heart of Nizchetus
+
+Political Action (15)
+5x Alastor
+2x Anarchist Uprising
+2x Ancilla Empowerment
+1x Meddling of Semsith, The
+4x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (16)
+3x Closed Session
+5x Forced March
+1x Iron Glare
+3x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Combat (6)
+6x Resist Earth's Grasp
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (10)
+6x Psyche!
+2x Side Strike
+2x Superior Mettle
+
+Event (1)
+1x Scourge of the Enochians

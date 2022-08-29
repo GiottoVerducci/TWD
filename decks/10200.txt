@@ -1,0 +1,71 @@
+Week of Nightmares Helsinki 2022 Tuesday
+Espoo, Finland
+July 26th 2022
+2R+F
+18 players
+Tommi Hakomaa
+https://www.vekn.net/event-calendar/event/10200
+
+The second installment of the European Championship Week of Nightmares Helsinki 2022 took place, like every part of the warm-up tournament tour, outside Helsinki, namely in Espoo, the second biggest city in Finland. The venue was a pub in Tapiola that has hosted several similar events before.
+
+There was room for 20 players, and with the great turnout of 18 players, the limit was almost reached. There was also a wide variety of players from veterans all the way to second generation methuselahs. As is typical for Finland, there were many walls and combat decks in the tournament, the winner being something in between.
+
+The final table:
+
+ -- Tommi Hakomaa: Khurshid Legionnaires 0.5
+ -- Teemu Sainomaa: Gangrel anarch wall 0.5
+ -- Marko Saari: Mambo Jeanne rush 0.5
+ -- Esa-Matti Smolander: Giotto & princes vote 0.5
+ -- Niko Vanhatalo: Brujah anarch bleed 0.5
+
+Name: Khursidwall
+Created by: Dada
+
+Crypt (12 cards, min=4, max=32, avg=4.83)
+-----------------------------------------
+5x Anarch Convert     1  -none-           Caitiff:ANY
+3x Khurshid           8  AUS FOR NEC POT  Harbinger of Skulls:6
+2x Mordechai Ben-Nun  8  ANI AUS FOR NEC  Harbinger of Skulls:5
+1x Anu Diptinatpa     7  DOM NEC aus vic  Nagaraja:6
+1x Hecate             6  AUS FOR NEC      Harbinger of Skulls:5
+
+Library (90 cards)
+Master (21; 5 trifle)
+3x Direct Intervention
+1x Fragment of the Book of Nod
+1x Haven Uncovered
+6x Liquidation
+5x Piper
+4x Villein
+1x Wider View
+
+Action (6)
+4x Gear Up
+2x Soul Feasting
+
+Ally (10)
+10x Emerald Legionnaire
+
+Retainer (2)
+2x Vengeful Spirit
+
+Action Modifier (2)
+2x Trochomancy
+
+Reaction (27)
+3x Eluding the Arms of Morpheus
+9x Eyes of Argus
+5x Guardian Vigil
+3x My Enemy's Enemy
+7x Telepathic Misdirection
+
+Combat (19)
+3x Aura Reading
+6x Hidden Strength
+2x Rolling with the Punches
+6x Target Vitals
+2x Taste of Vitae
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

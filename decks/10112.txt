@@ -1,0 +1,123 @@
+Week of Nightmares Event 4
+Columbus, Ohio
+June 7th 2022
+2R+F
+15 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/10112
+
+-- 2GW6 + 4VP in final
+
+Deck Name: Shilmulo Death Star
+Description: A Ravnos Death Star deck. A reworking of my other Death Star designs.  Based on Matt Morgan's original design.
+
+Brad mid-cap DEM 1 VP ->
+Jesse died too fast for me to recall ->
+Me 4 VP ->
+Guy Platinum bleed ->
+Darby Imbued Chainsaw
+
+Brad came out of the gate firing on all cylinders.  He didn't have a bleed for less than 4
+against his first prey.
+
+I was struggling to do anything useful with my opening hand, which contained a bunch of
+stealth and Shilmulo Tarot.  I brought up Paul Forrest first and equipped the Tarot.
+These extra draws came in very handy as I wasn't getting much card cycling other than my
+discard.
+
+Guy was also starting very fast.  Each Platinum bleed hit and by the time Guy was ousted
+there were 8 or 9 corruption counters on Darby's Imbued.  Darby was under immediate and
+constant pressure.
+
+I did manage to draw into my Con Boons in a timely fashion and was keeping my pool total
+high in anticipation of Brad's big bleeds.  Once he was my predator, I decided to No-Block
+every action.  His first turn as my predator was still very damaging, but he only had two
+vampires at that point.  I was running with Paul, Chavi, Irena, and a baby.  Guy takes
+some bleeds of one, but reduces all the bleeds of two.
+
+On my next turn, I'm low on pool and I play a master card to draw the Revolutionary
+Council from my Tarot, attempting to oust Guy with votes, since his bleed reduction was
+too consistent.  The vote gets DI2'd, so I have to bleed instead.  Guy has 6 pool and Paul
+Forrest plus the hand and Tarot stealth make short work of him as he was out of bleed
+reduction.  Darby was at three pool and I had saved Chavi for last, setting up many
+different stealth cards in hand to combine with her special.  I go for the bleed of three
+and manage to hit 4 stealth, just enough to make it land.
+
+Twelve pool to the better, but it's Brad's turn and he removes almost all of those gains.
+I make a baby and call Exclusion Principle.  Fire off a few bleeds all boosted by Paul
+Forrest who can get The Coven blood every turn during the heads-up.  Brad's pool total is
+still very high because Darby was unable to make any forward progress.  Another round of
+bleeds.  I Archon the plus-bleeder and Brad's remaining vampires do very little.  I recur
+Eat the Rich because Gem Ghastly is a Primogen, then proceed to vote and bleed Brad off
+the table.
+
+This deck originally had Rom Gypsy, which was removed.  I never bothered to put City Star
+Taxi back in, but an additional stealth permanent might prove useful in some metas.
+
+Crypt (12 cards, min=4, max=28, avg=3.92)
+-----------------------------------------
+5x Anarch Convert               1  -none-                   Caitiff:ANY
+1x Alexis Sorokin               8  CEL CHI OBF PRO for      Ravnos:4
+1x Chavi Oraczko                7  ANI CHI FOR nec          Ravnos:5
+1x Tatiana Stepanova, Alastor   7  CHI PRE ani for obf      Ravnos:4
+1x Vassily Taltos               6  aus cel chi dom for obf  Ravnos:4
+1x Irena                        5  CHI ani for pre          Ravnos:5
+1x Paul Forrest, False Prophet  5  chi for pre              Ravnos:4
+1x Devyn                        4  ani chi pre              Ravnos:4
+
+Library (75 cards)
+Master (15; 1 trifle)
+1x Anarch Railroad
+1x Archon Investigation -- if you need it, you need it
+1x Barrens, The
+2x Blood Doll
+1x Carfax Abbey
+1x Coven, The
+1x Fear of Mekhet -- not needed today; meta dependent
+1x Fortune Teller Shop
+1x Garibaldi-Meucci Museum -- recursion is still broken
+1x Giant's Blood
+1x Infamous Insurgent -- Suddened today, but generally good
+1x Pentex(TM) Subversion -- still good
+1x Twilight Camp
+1x Week of Nightmares
+
+Action (15)
+1x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+2x Illegalism -- most of the crypt can use two functions
+7x Tumnimos
+
+Equipment (1)
+1x Shilmulo Tarot -- great for setting up your hand flow
+
+Political Action (16)
+2x Anarch Salon -- refilling Ravnos during the Week is important
+4x Consanguineous Boon
+1x Domain Challenge
+2x Eat the Rich -- great in the current vote-heavy meta
+1x Exclusion Principle -- good for Delayed Boons, never had that issue
+1x Kine Resources Contested
+1x Neonate Breach
+2x Reckless Agitation
+2x Revolutionary Council
+
+Action Modifier (22)
+5x Adhocracy
+2x Bewitching Oration -- stacks with Adhocracy on vote heavy tables
+2x Cryptic Rider -- ensure the important vote cannot be Delayed
+2x False Resonance
+2x Fata Morgana
+1x Forgotten Labyrinth
+2x Mirror's Visage
+2x Propaganda of the Deed -- cycles easily
+3x Smoke and Mirrors
+1x Voter Captivation -- so good even the chance of getting it is worth the slot
+
+Action Modifier/Combat (6)
+3x Mirror Image
+3x Occlusion

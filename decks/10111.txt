@@ -1,0 +1,115 @@
+Week of Nightmares Event 3
+Columbus, Ohio
+June 6th 2022
+2R+F
+14 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/10111
+
+-- 1GW4 + 2VP in final
+
+Deck Name: Psalm 69
+Description: Ministry multi-act bleed vote.
+
+This deck is light on transient stealth and will need to be adjusted for you meta.  It does have three permanent stealth options, which helps mitigate the light stealth.
+
+Thanks to Darby for critical deck advice that helped with the finals victory.
+
+Me 2 VP ->
+Bill Tupdog vote and Legionnaires 1 VP ->
+Mark Banu Haqim toolbox ->
+Ben Peal Ministry starter ->
+Kelly Beefcake block 2 VP
+
+I was not very pleased with any spot on the table, but having faced Kelly in round one,
+hoped that I could gain 3 VPs or 2 VPs in a split and win via seeding.  I managed to do
+the latter.
+
+Ben and I discussed vampires because we were both playing Ministry.  We had two
+duplicates, so split them.  I got the weaker one, but wasn't going to argue as he didn't
+have any of the titled Ministers in his uncontrolled region.
+
+Bill proceeds to vote and bleed his prey off the table.  First by having the only votes on
+the table and then via Dia + Cryptic Rider.
+
+Bill had 10 pool when I started my next turn and he was threatening me with Mark of the
+Damned if I bled him.  That would have ousted me, but I had no such intention on holding
+off.  I asked Kelly about calling a Reckless Agitation and he wasn't down for it, so I
+Pentexed his Matthias and proceeded to go about my business.  I ousted Bill that turn and
+with Matthias, who had the Bowl, in Pentex, Ben made hay with his pool.
+
+I contested Marcel with Ben and proceeded to whittle his pool down.  Three times Kelly
+saved Ben with Eagle's Sight, resulting in two torporized vampires.
+
+I started my last turn with 4 pool, Ben at 2 and Kelly at 5.  I stopped contesting Marcel.
+Paid 1 pool to recur Memory Rift via Garibaldi and paid two pool to put Anarch Railroad in
+play, leaving myself at 1 pool with one vampire with 1 blood.
+
+I proceeded to call Ancilla Empowerment with the Memory Rift instead of bleeding.  Ben had
+used several Party of out Bounds to reduce bleeds.  Since both Platinum Protocol and a
+vote both start at one stealth, I decided I had better odds passing a vote than bleeding
+as Ben would need two Parties to stop me.  Kelly would be able to use Eagle's Sight for
+intercept instead of at superior, so that was a negative.  Kelly attempted to block, but
+failed.  I burned 2 of my 3 Propaganda of the Deed to pass the vote and ousting both Ben
+and myself in the process.
+
+Achievement Unlocked: Win a Final by Self-Ousting.
+
+Crypt (12 cards, min=17, max=27, avg=5.5)
+-----------------------------------------
+3x Vivian VI           7  PRE PRO obf tha  baron  Follower of Set:6
+2x Elisha Tucker       6  PRE cel obf pro  baron  Follower of Set:6
+2x Jenny Silver        5  PRE PRO obf             Follower of Set:6
+1x Crystal Lynn        6  OBF PRE PRO             Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro         Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre         Follower of Set:6
+1x Marcel              4  obf pre pro             Follower of Set:6
+1x Milton Fox          3  pre pro                 Follower of Set:6
+
+Library (69 cards)
+Master (11; 4 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+1x Club Illusion
+2x Dabbler
+1x Garibaldi-Meucci Museum -- recursion is still broken
+1x Opium Den
+1x Pentex(TM) Subversion -- still good
+1x Powerbase: Los Angeles
+2x Villein
+
+Action (15)
+2x Entrancement
+1x Fee Stake: Corte
+2x Heart of the City
+10x Platinum Protocol, The -- this card is sooo good
+
+Ally (1)
+1x Saatet-ta
+
+Political Action (7)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Eat the Rich
+3x Reckless Agitation
+
+Action Modifier (20)
+6x CrimethInc.
+1x Earth Control
+3x Enchanting Gaze
+2x Memory Rift
+4x Propaganda of the Deed
+4x Revelation of the Serpent
+
+Action Modifier/Combat (4)
+1x Form of the Cobra
+2x Rapid Change
+1x Swallowed by the Night
+
+Reaction (8)
+4x Bait and Switch
+1x Delaying Tactics
+3x On the Qui Vive
+
+Combat (3)
+3x Form of Mist

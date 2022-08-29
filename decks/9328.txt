@@ -1,0 +1,66 @@
+EC 2019 – Brighter Future
+Montreuil, France
+August 18th 2019
+3R+F
+65 players
+Tomas Wallmur
+https://www.vekn.net/event-calendar/event/9328
+
+Deck Name: 2019 French open
+Author: Erik Mossbergs
+Description: Erik Mossbergs' legionnaire deck, which he took to 2:nd seed on the Day 1 in Paris 2019. Dont forget the untap step. Get out your legionnaires and bleed.
+
+Crypt (12 cards, min=22, max=40, avg=7.75)
+------------------------------------------
+5x Erlik            10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+2x Babalawo Alafin   7  AUS FOR NEC ani      Harbinger of Skulls:4
+2x Erebus            7  AUS FOR NEC dem      Harbinger of Skulls:3
+2x Solomon Batanea   5  AUS FOR nec          Harbinger of Skulls:4
+1x Nicomedes         5  aus for nec vic      Harbinger of Skulls:4
+
+Library (90 cards)
+Master (19; 2 trifle)
+1x Carver's Meat Packing and Storage
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+9x Liquidation
+2x Pentex(TM) Subversion
+1x Rack, The
+2x Vessel
+
+Ally (21)
+2x Carlton Van Wyk
+12x Emerald Legionnaire
+6x Shambling Hordes
+1x Vagabond Mystic
+
+Action Modifier (13)
+3x Call of the Hungry Dead
+3x Daring the Dawn
+2x Enkil Cog
+2x Forced March
+3x Inevitability of the Void
+
+Action Modifier/Combat (1)
+1x Breath of Thanatos
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+Reaction (25)
+2x Delaying Tactics
+2x Eagle's Sight
+5x Eyes of Argus
+3x My Enemy's Enemy
+5x On the Qui Vive
+8x Telepathic Misdirection
+
+Combat (5)
+4x Martyr's Resilience
+1x Target Vitals
+
+Event (4)
+1x FBI Special Affairs Division
+3x Unmasking, The

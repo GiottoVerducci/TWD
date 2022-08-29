@@ -1,0 +1,59 @@
+Jacques Rouge
+Fortaleza, Brazil
+July 3rd 2022
+2R+F
+13 players
+Kevin Lucas
+https://www.vekn.net/event-calendar/event/10256
+
+-- 3VP in final
+
+Deck Name: malk bleed e stealth (copy)
+
+Crypt (12 cards, min=17, max=27, avg=5.58)
+------------------------------------------
+3x Morel               6  AUS DEM OBF                Malkavian:4
+3x Arthur Denholm      5  AUS DEM obf                Malkavian:5
+2x Gem Ghastly         6  DEM OBF aus      primogen  Malkavian:5
+1x Bloody Mary         8  AUS DEM OBF pre  primogen  Malkavian:5
+1x Apolonia Czarnecki  7  AUS DEM OBF pre            Malkavian:5
+1x Keller Thiel        4  aus dem                    Malkavian:5
+1x Bela                3  DEM ani obf pro            Malkavian:5
+
+Library (90 cards)
+Master (13; 4 trifle)
+1x Asylum Hunting Ground
+1x Barrens, The
+3x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Elder Library
+2x Life in the City
+1x Secure Haven
+1x Wash
+1x Wider View
+
+Action (16)
+16x Kindred Spirits
+
+Action Modifier (41)
+8x Cloak the Gathering
+8x Confusion
+4x Elder Impersonation
+5x Eyes of Chaos
+4x Faceless Night
+8x Lost in Crowds
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (12)
+3x Eyes of Argus
+3x On the Qui Vive
+6x Telepathic Misdirection
+
+Combat (6)
+2x Coma
+4x No Trace

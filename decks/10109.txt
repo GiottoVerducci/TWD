@@ -1,0 +1,97 @@
+Week of Nightmares Event 1
+Heath, Ohio
+June 5th 2022
+2R+F
+17 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/10109
+
+-- 1GW4 + 3VP in final
+
+Deck Name: The Red Scare
+Description: Breed-n-bleed Banu Haqim deck focusing on (mostly) disciplineless combat and Haqim's Law: Retribution.
+
+I misplayed in round one and lost my VP.  I managed a sweep at a four-player table in round two to end up third seed in the final.
+
+Finals seating:
+John, Salubri bleed ->
+Mark, Legionnaires 2 VP ->
+me 3 VP ->
+Logan Anarch unnamed ->
+Kurt, G1 Gangrel Primogen combat wall
+
+I make my first Embrace and Mark decided to bloc the hunt.  Weighted Walking Stick + Lucky Blow + Target Vitals left me with no Stick and Mark with a seriously injured Erebus.  He was much more selective in blocking after that.
+
+Kurt was top seed and assumed that Wynn + Dog Pack would wreck the unnamed and he would be
+in a good position.  No Wynn and he never managed to hurt the unnamed.  The unnamed was
+making good progress and Suddened my first Haqim's Law: Retribution.  Leaving me focused
+on controlling my predator.  I was up to 4 vampires and three Embraces.  I locked Logan's
+two unlocked vampires with Anarch Troublemaker and drop my first Haqim's Law: Retribution.
+I fire off 3 bleed of 2 dropping Logan to two pool.  I pause to call a Con Boon and then
+finish the oust, gaining 13 total pool.  Mark wipes out most of those gains on his next
+turn.  Kurt was at 3 pool at the start of my next turn.  I drop my second Haqim's Law
+Retribution, get Khabar: Glory, stealthing by Basila.  It takes all seven vampires to get
+those last three pool.  In the process one of my vampires was burned, two were sent to
+torpor, and two were left empty.  Again Mark burns through my 10 pool that I gained.  I
+use the Heart to get a Con Boon and am holding a Priority Contract.  After two hunts, I
+use the Contract on an Embrace against John's empty vampire.  I gain 3 pool and prevent
+his hands in the process.  I call the Con Boon managing to stealth by Erebus and gain 6
+pool there.  Mark manages to get my pool down to four, but I get one more turn.  John has
+no unlocked vampires and 7 pool.  I am holding 7 combat cards in my hand and only need to
+draw one more to be able to bleed for 3 with each vampire.  My first action is reduce by 3
+and my second action reduced by 2, leaving my prey at 6 pool.  My last two bleeds reduce
+that to zero.
+
+Crypt (12 cards, min=12, max=23, avg=4.5)
+-----------------------------------------
+2x Kassandra Tassaki                   6  CEL THA obf      prince    Assamite:6
+2x Warmaksan                           5  THA cel obf      prince    Assamite:6
+1x Khadija Al-Kindi                    6  CEL OBF THA      primogen  Assamite:6
+1x Asmin Kobane                        5  CEL dom obf tha            Assamite:6
+1x Omer                                5  CEL QUI obf                Assamite:6
+1x Greg Mazouni                        4  cel obf tha                Assamite:6
+1x Mateusz Kazimirski, Biker of Blood  4  CEL qui                    Assamite:6
+1x Bijou                               3  cel tha                    Assamite:6
+1x Sukainah                            3  aus qui                    Assamite:5
+1x Alu                                 2  obf                        Assamite:5
+
+Library (90 cards)
+Master (14; 2 trifle)
+2x Alamut -- never played all day; wasn't necessary in final can be critical
+1x Anarch Troublemaker -- key to finals win
+1x Coven, The
+1x Frontal Assault
+6x Haqim's Law: Retribution
+1x Haven Uncovered
+1x Pentex(TM) Subversion
+1x Priority Contract
+
+Action (11)
+9x Embrace, The
+2x Khabar: Glory
+
+Ally (1)
+1x Ossian
+
+Equipment (2)
+1x Codex of the Edenic Groundskeepers -- never played; may not be worth it
+1x Heart of Nizchetus
+
+Political Action (8)
+6x Consanguineous Boon
+2x Praxis Seizure: Istanbul -- like the Justicar votes
+
+Action Modifier/Combat (14)
+7x Resist Earth's Grasp
+7x Swallowed by the Night
+
+Combat (40)
+3x Fake Out
+4x Focus the Blood
+2x Glancing Blow
+6x Lucky Blow
+2x Pulled Fangs
+11x Target Vitals
+4x Taste of Vitae
+6x Weighted Walking Stick
+2x Zip Gun

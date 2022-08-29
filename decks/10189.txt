@@ -1,0 +1,62 @@
+VTES Grand Prix - Malmö 2022
+Malmö, Sweden
+July 2nd 2022
+3R+F
+38 players
+Sebastian Fredenberg
+
+https://www.vekn.net/event-calendar/event/10189
+
+Deck Name: Haqim's Lawmen
+
+Crypt (12 cards, min=13, max=25, avg=4.92)
+------------------------------------------
+2x Kassandra Tassaki  6  CEL THA obf      prince    Assamite:6
+2x Warmaksan          5  THA cel obf      prince    Assamite:6
+1x Farah Sarroub      7  CEL THA aus obf  prince    Assamite:6
+1x Kalinda            6  CEL OBF tha      primogen  Assamite:6
+1x Khadija Al-Kindi   6  CEL OBF THA      primogen  Assamite:6
+1x Asmin Kobane       5  CEL dom obf tha            Assamite:6
+1x Greg Mazouni       4  cel obf tha                Assamite:6
+1x Nayarana           4  THA cel                    Assamite:6
+1x Bijou              3  cel tha                    Assamite:6
+1x Alu                2  obf                        Assamite:5
+
+Library (84 cards)
+Master (18; 8 trifle)
+2x Alamut
+4x Haqim's Law: Retribution
+2x Khabar: Community, The
+1x Market Square
+3x Priority Contract
+1x Underworld Hunting Ground
+5x Villein
+
+Action (18)
+1x Aranthebes, The Immortal
+7x Haqim's Law: Leadership
+3x Hunter's Mark
+1x Khabar: Glory
+1x Third Tradition: Progeny
+5x Web of Knives Recruit
+
+Action Modifier/Combat (9)
+3x Resist Earth's Grasp
+6x Swallowed by the Night
+
+Reaction (9)
+2x Delaying Tactics
+7x Second Tradition: Domain
+
+Combat (29)
+3x Blur
+2x Fast Hands
+2x Flash
+7x Hunger of Marduk
+3x Psyche!
+3x Pursuit
+2x Quickness
+7x Weighted Walking Stick
+
+Event (1)
+1x Narrow Minds

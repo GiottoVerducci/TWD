@@ -1,0 +1,56 @@
+Persistence Echo
+Aix en Provence, France
+June 19th 2022
+3R+F
+15 players
+Jérémy Mercier
+https://www.vekn.net/event-calendar/event/10124
+
+Deck Name: Eat the Rich, but with philosophy!
+Author: LonelyLasombra
+
+Crypt (12 cards, min=24, max=32, avg=6.92)
+------------------------------------------
+3x Aline Gädeke        7  POT PRE cel          baron     Brujah:6
+2x Dmitra Ilyanova     9  CEL FOR POT PRE obf  justicar  Brujah:5
+2x Valeriya Zinovieva  7  POT cel pre pro      baron     Brujah:6
+2x Atiena              6  CEL obf pot pre      baron     Brujah:6
+2x Leumeah             6  PRE cel for pot      baron     Brujah:6
+1x Tara                6  POT PRE cel          prince    Brujah:5
+
+Library (67 cards)
+Master (17; 6 trifle)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Carfax Abbey
+1x Club Illusion
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Information Highway
+2x New Carthage
+1x Pentex(TM) Subversion
+4x Villein
+1x Warzone Hunting Ground
+2x Wider View
+
+Action (4)
+4x Enchant Kindred
+
+Political Action (14)
+2x Conservative Agitation
+2x Eat the Rich
+6x Kine Resources Contested
+4x Reckless Agitation
+
+Action Modifier (12)
+3x Iron Glare
+1x Monkey Wrench
+2x Perfect Paragon
+6x Voter Captivation
+
+Reaction (13)
+6x Bait and Switch
+7x Organized Resistance
+
+Combat (7)
+7x Majesty

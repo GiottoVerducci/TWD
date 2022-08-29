@@ -1,0 +1,73 @@
+V:TES @Spelfanaat Mechelen
+Mechelen, Belgium
+June 25th 2022
+3R+F
+10 players
+Rolf Engelen
+https://www.vekn.net/event-calendar/event/10246
+
+Deck Name: The Red Devil going Anarch
+Description: The Unnamed using new Ministry and Anarch cards.
+
+Crypt (13 cards, min=7, max=40, avg=6.31)
+-----------------------------------------
+4x unnamed, The               10  CEL DAI OBF PRE PRO         Baali:6
+3x Anarch Convert              1  -none-                      Caitiff:ANY
+1x Viktor, The Night General   9  ANI CEL PRE PRO obf         Gangrel:5
+1x Faruq Abd al-Qadir          8  POT PRE PRO cel obf         Follower of Set:6
+1x Vivian VI                   7  PRE PRO obf tha      baron  Follower of Set:6
+1x Elisha Tucker               6  PRE cel obf pro      baron  Follower of Set:6
+1x Doctor Morocco              5  PRO cel obf pre             Follower of Set:6
+1x Marcel                      4  obf pre pro                 Follower of Set:6
+
+Library (88 cards)
+Master (16; 5 trifle)
+1x Anarch Free Press, The
+1x Carfax Abbey
+1x Club Illusion
+1x Dabbler
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Powerbase: Los Angeles
+1x Temple Hunting Ground
+3x Vessel
+1x Wider View
+4x Zillah's Valley
+
+Action (17)
+4x Enchant Kindred
+1x Entrancement
+1x Heart of the City
+3x Illegalism
+7x Platinum Protocol, The
+1x Unleash Hell's Fury
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (27)
+6x Enchanting Gaze
+1x Enkil Cog
+4x I am Legion
+4x Instantaneous Transformation
+2x Psychomachia
+6x Revelation of the Serpent
+2x Spying Mission
+2x True Love's Face
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (9)
+1x Delaying Tactics
+3x On the Qui Vive
+5x Party Out Of Bounds
+
+Combat (16)
+3x Bollix
+2x Donnybrook
+7x Earth Meld
+4x Form of Mist

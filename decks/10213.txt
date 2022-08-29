@@ -1,0 +1,66 @@
+Origins Friday 2
+Columbus, Ohio
+June 10th 2022
+2R+F
+19 players
+Marshall Hogue
+https://www.vekn.net/event-calendar/event/10213
+
+-- 1GW3 + 3VP in final
+
+Deck Name: Malgor-votah
+Description: I wanted to do an atypical vote deck, so Malgorzata brings out a bunch of titled vampires and Orlando doubles their votes. She should get your first Rutor's Hand and a plus bleeder should get the second.
+
+Crypt (21 cards, min=27, max=40, avg=8.67)
+------------------------------------------
+7x Malgorzata                 9  AUS DOM THA VIC pre      priscus     Tremere antitribu:4
+3x Orlando Oriundus           9  AUS DOM THA obf          bishop      Tremere antitribu:4
+2x Lernean                   10  AUS CEL DOM THA for pro  cardinal    Tremere antitribu:4
+2x Lucubratio                10  AUS DOM POT PRE THA      archbishop  Tremere antitribu:4
+2x Paul Cordwood              8  AUS DOM THA obf pre      bishop      Tremere antitribu:4
+2x Ladislas Toth, The Torch   7  AUS DOM THA for          archbishop  Tremere antitribu:3
+1x Marino Reymundo Vásquez    9  AUS DOM NEC THA ani      archbishop  Tremere antitribu:3
+1x Eric Kressida              8  AUS DOM PRO THA cel      bishop      Tremere antitribu:4
+1x Frondator                  5  AUS dom tha              bishop      Tremere antitribu:4
+
+Library (90 cards)
+Master (19; 4 trifle)
+1x Coven, The
+2x Creepshow Casino
+10x Effective Management
+2x Information Highway
+1x Monastery of Shadows
+3x Villein
+
+Action (3)
+3x Rutor's Hand
+
+Ally (1)
+1x Mylan Horseed
+
+Political Action (26)
+2x Anarchist Uprising
+1x Ancient Influence
+2x Ancilla Empowerment
+2x Banishment
+7x Consanguineous Boon
+2x Conservative Agitation
+9x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (15)
+2x Conditioning
+10x Mirror Walk
+3x Seduction
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (9)
+5x Deflection
+4x Eyes of Argus
+
+Combat (14)
+4x Movement of the Mind
+3x Rego Motum
+7x Theft of Vitae

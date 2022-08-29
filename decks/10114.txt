@@ -1,0 +1,69 @@
+Week of Nightmares Event 6
+Columbus, Ohio
+June 8th 2022
+2R+F
+18 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/10114
+
+-- 2VP in final
+
+Deck name: Gilbert's Back From Vacation
+
+An update to Gilbert's Two-Day Vacation in the TWD. Basic old-school Malk bleed with some Second-Trads and Obedience.
+
+Crypt (12 cards, min=20, max=28, avg=6.17)
+------------------------------------------
+3x Gilbert Duane         7  AUS DOM OBF      prince  Malkavian:1
+2x Mariel, Lady Thunder  7  DOM OBF aus tha          Malkavian:1
+2x Ozmo                  6  AUS dom obf              Malkavian:1
+1x Greger Anderssen      7  AUS OBF dom pro  prince  Malkavian:2
+1x Reverend Blackwood    6  DOM THA obf      bishop  Tremere antitribu:2
+1x Didi Meyers           5  DOM aus cel obf          Malkavian:1
+1x Zebulon               5  OBF aus dom pro          Malkavian:1
+1x Roland Bishop         4  aus dom obf              Malkavian:1
+
+Library (83 cards)
+Master (17; 6 trifle)
+1x Agent of Power
+1x Archon Investigation
+2x Coven, The
+1x Direct Intervention
+1x Dominate
+2x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Madness Network
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+1x Wash
+2x Wider View
+
+Action (12)
+12x Govern the Unaligned
+
+Action Modifier (31)
+2x Bonding
+1x Command of the Beast
+6x Conditioning
+2x Elder Impersonation
+5x Faceless Night
+2x Foreshadowing Destruction
+6x Lost in Crowds
+2x Seduction
+5x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (18)
+5x Deflection
+2x Delaying Tactics
+5x Obedience
+6x Second Tradition: Domain
+
+Combat (2)
+2x No Trace

@@ -1,0 +1,108 @@
+Week of Nightmares Event 5
+Columbus, Ohio
+June 7th 2022
+2R+F
+18 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/10113
+
+-- 1GW4 + 3VP in final
+
+Deck Name: The Hungarian Coyote
+Author: John Eno and Karl Schaefer
+Description: Codex bleed using Claiming the Body to lock potential blockers.
+
+The deck name is unchanged from John's original, which included a Hungry Coyote.  This latest version removed it on feedback from Darby, but the name remains because it's too clever.
+
+Round one was a game win earned in overtime, declaring a bleed just before the timer hit.  An extra VP in round two put me in as second seed.
+
+John Tzimisce toolbox ->
+Bill Nocturns 2 VP ->
+Me 3 VP ->
+Mark G6 Brujah ->
+Jesse Cockblock
+
+I got New Blood in my opener (every time today in fact, very lucky).  There was no real
+intercept around me so I was able to get a lot of early actions to succeed.  So, Blood
+Buff plus Unwholesome Bond and Hive Mind widened my playspace quickly.
+
+Mark calls a KRC with Aline and brings out a second vampire, leaving both unlocked to
+block.  Cock Robin has an unfortunate encounter with Tzimisce agg-poke and ends up in
+torpor.  Mark is willing to let the Tzimisce live if they diablerize.  There's a Warsaw
+Station in play, but I don't say anything and neither does anyone else.  Cock Robin dies.
+
+I start my turn with 4 vampires and 3 pieces of +1 bleed equipment.  Mark is at 8 pool, so
+I pass the Troublemaker to lock both vampires, drop the Heidelburg Castle, and get to the
+business of ousting.  My turn ends with a fifth Blood Brother in play and a VP in hand.
+
+Jesse brings up Nikolaus Vermeulen, putting his pool at 10.  I am taking some Shadow Twin
+damage from Bill, but nothing that is too irksome.  I oust Jesse on my next turn locking
+Nikolaus with Claiming the Body, stealthing by his only block attempt afterwards and
+dropping a huge Walk of Caine.
+
+Now I have intercept around me in terms of the Tzimisce and an Under Siege by Bill.  The
+following turn, I work through all of the Under Siege counters and around some Tzimisce
+blocks.  I have one vampire in torpor and am very low on blood as Agi didn't make an
+appearance in the final.  Bill hits me hard with Dominate bleed (never risking the
+Archons, however) and I estimate that I have one turn left.
+
+John blocks my attempt to rescue Dorka.  I burn Gabi with Breath of the Dragon in the
+process of sending his Ludmijla to torpor.  That was the only standing intercept on the
+table, which left me free to perform all of my remaining actions.  I get the rescue off,
+equip a Codex and using unlock tricks have four Blood Brothers ready to bleed and my prey
+is at 11 pool.  I send in a bleed of 2, boosting it to three.  The first Codex bleed is
+bounced.  I use the Castle to send another, which hits.  Walk of Caine with the last
+vampire to finish it out.
+
+I concede my VP to Bill because I've already got the win.
+
+Crypt (12 cards, min=11, max=23, avg=4.17)
+------------------------------------------
+3x Ági        6  FOR SAN VIC  Blood Brother:6
+2x Gabi       5  SAN VIC for  Blood Brother:6
+2x Dorka      4  for san vic  Blood Brother:6
+2x Viri       3  san vic      Blood Brother:6
+2x Zizi       3  san vic      Blood Brother:6
+1x New Blood  2  san          Blood Brother:ANY
+
+Library (76 cards)
+Master (16; 5 trifle)
+2x Anarch Troublemaker
+1x Archon Investigation
+3x Blood Buff
+1x Coven, The
+3x Effective Management
+1x Heidelberg Castle, Germany
+1x Information Highway
+3x Tribute to the Master
+1x Wider View
+
+Action (20)
+6x Hive Mind
+6x Redistribution
+7x Unwholesome Bond
+1x Zillah's Tears
+
+Equipment (9)
+2x Camera Phone
+3x Codex of the Edenic Groundskeepers
+1x Ivory Bow
+1x Laptop Computer
+1x Sargon Fragment, The -- never played all day; should be good in theory
+1x Signet of King Saul, The
+
+Action Modifier (20)
+5x Changeling
+7x Claiming the Body
+1x Daring the Dawn
+2x Freak Drive
+2x Shell Game -- ensure you can get by The Unmasking, etc.
+3x Walk of Caine
+
+Action Modifier/Combat (6)
+2x Plasmic Form -- extra stealth is really useful, so is the dodge
+4x Slake the Thirst
+
+Combat (5)
+2x Breath of the Dragon
+3x Chiropteran Marauder

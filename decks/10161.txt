@@ -1,0 +1,76 @@
+Norwegian NC 2022
+Moss, Østfold, Norway
+August 6th 2022
+3R+F
+22 players
+Håvard Skjevling
+https://www.vekn.net/index.php/event-calendar/event/10161
+
+-- 1VP + GW3 + 1.5VP + 3VP in final
+
+Author : Håvard Skjevling
+
+Crypt (13 cards, min=22, max=40, avg=7.69)
+------------------------------------------
+5x Rachel Brandywine      10  AUS DEM OBF PRO ani  prince  Malkavian:3
+3x Philip van Vermeer IV   7  AUS DEM OBF dom pro          Malkavian:2
+2x Greger Anderssen        7  AUS OBF dom pro      prince  Malkavian:2
+1x Quentin King III        7  AUS DEM obf pre      prince  Malkavian:3
+1x Victoria                5  AUS cel obf                  Malkavian:2
+1x Zöe                     3  AUS cel obf                  Malkavian:2
+
+Library (90 cards)
+Master (19; 4 trifle)
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Guardian Angel
+4x Madness Network
+1x Pentex(TM) Subversion
+3x Perfectionist
+1x Rack, The
+1x Secure Haven
+3x Villein
+1x Wash
+
+Action (5)
+1x Anima Gathering
+1x Blessing of Chaos
+1x Revelations
+2x Shadow of the Beast
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x Bowl of Convergence
+2x Camera Phone
+
+Retainer (6)
+5x Homunculus
+1x Mr. Winthrop
+
+Action Modifier (15)
+2x Crocodile's Tongue
+3x Elder Impersonation
+1x Enkil Cog
+3x Faceless Night
+3x Lost in Crowds
+3x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (18)
+4x Eyes of Argus
+2x On the Qui Vive
+7x Second Tradition: Domain
+5x Telepathic Misdirection
+
+Combat (17)
+3x Disengage
+11x Earth Meld
+3x Form of Mist
+
+Event (1)
+1x Uncoiling, The

@@ -1,0 +1,52 @@
+No estaba muerto, estaba de parranda
+Palma de Mallorca, Spain
+November 14th 2021
+3R+F
+19 players
+Jordi Bestard
+https://www.vekn.net/event-calendar/event/9937
+
+-- 3VP in final
+
+Deck Name: Toreador antitribu
+
+Crypt (12 cards, min=8, max=19, avg=3.42)
+-----------------------------------------
+2x Justine Chen, Innocent  2  pre                  Toreador antitribu:4
+2x Nicholas Chang          2  aus                  Toreador antitribu:3
+1x Creamy Jade             5  PRE aus cel vic      Toreador antitribu:3
+1x Cristos Mantigo         5  aus cel dom obf pre  Toreador antitribu:3
+1x Gabriel de Cambrai      5  aus cel dem obf pre  Toreador antitribu:4
+1x L'Épuisette             4  aus cel pro          Toreador antitribu:4
+1x Loonar                  4  PRE cel              Toreador antitribu:4
+1x Sabrina                 4  aus cel pre          Toreador antitribu:3
+1x Jonathan Gursel         3  aus pre              Toreador antitribu:4
+1x Monique Kim             3  aus cel              Toreador antitribu:4
+
+Library (60 cards)
+Master (12; 1 trifle)
+1x Coven, The
+1x Fetish Club Hunting Ground
+6x Foundation Exhibit
+3x Palla Grande
+1x Pentex(TM) Subversion
+
+Action (15)
+1x Aranthebes, The Immortal
+4x Art Scam
+10x Embrace, The
+
+Political Action (23)
+10x Consanguineous Boon
+2x Conservative Agitation
+11x Kine Resources Contested
+
+Action Modifier (5)
+4x Change of Target
+1x Cryptic Rider
+
+Combat (4)
+4x Dodge
+
+Event (1)
+1x Uncoiling, The

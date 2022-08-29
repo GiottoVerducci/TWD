@@ -1,0 +1,68 @@
+Zillah's Tears V - Rapid Healing
+Vantaa, Finland
+October 31st 2021
+3R+F
+15 players
+Joona Tuominen
+https://www.vekn.net/event-calendar/event/9907
+
+The final table seating was:
+Pasi Karjalainen (Matasuntha Wall, 5th seed) --> Karri Malm (Chavi Oraczko Wall, 4th seed) --> Jaakko Nurro (the unnamed Bleed, 1st seed) --> Joona Tuominen (AAA, 2nd seed) --> Antti Penttilä (Mambo Jeanne Combat, 3rd seed)
+
+Deck Name: AAA
+Description: A pretty basic Triple-A using Grand ball and voting a bunch
+
+Crypt (12 cards, min=22, max=42, avg=8.25)
+------------------------------------------
+4x Anson                 8  CEL PRE aus dom          prince        Toreador:1
+2x Alexandra            11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+2x Anneke               10  AUS CEL PRE dom          justicar      Toreador:1
+2x Isabel de Leon        3  AUS                                    Toreador:2
+1x François Villon      10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Klaus van der Veken   9  CEL PRE aus obf tha      prince        Toreador:2
+
+Library (79 cards)
+Master (25; 7 trifle)
+1x Art Museum
+3x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+1x Jake Washington
+1x Monastery of Shadows
+4x Toreador Grand Ball
+6x Villein
+1x Wider View
+6x Zillah's Valley
+
+Action (5)
+3x Entrancement
+2x Judgment: Camarilla Segregation
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+5x Kine Resources Contested
+1x Neonate Breach
+5x Parity Shift
+1x Reins of Power
+
+Action Modifier (13)
+2x Aire of Elation
+1x Awe
+2x Bewitching Oration
+2x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Scalpel Tongue
+
+Reaction (12)
+3x Deflection
+2x On the Qui Vive
+4x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Combat (6)
+6x Majesty

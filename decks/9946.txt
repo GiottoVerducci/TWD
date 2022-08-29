@@ -1,0 +1,69 @@
+Sede de Vitae Part 23
+Online
+October 25th 2021 -- October 28th 2021
+2R+F
+20 players
+Daniel Bastos
+https://www.vekn.net/event-calendar/event/9946
+
+-- 3VP in final
+
+Deck Name: Lasombra PB
+Author: Kainhardt
+
+Crypt (12 cards, min=8, max=30, avg=5)
+--------------------------------------
+2x Conrad Adoula            8  DOM OBT POT ani cel  Lasombra:4
+2x Badr, Shadow of Granada  7  DOM OBT POT          Lasombra:5
+2x Anarch Convert           1  -none-               Caitiff:ANY
+1x Isanwayen                6  DOM MYT OBT          Kiasyd:4
+1x Onaedo                   6  DOM OBT aus pot      Lasombra:4
+1x Dame Hollerton           5  DOM OBT myt          Kiasyd:4
+1x Ermenegildo, The Rake    5  DOM OBT pot          Lasombra:4
+1x Keith Moody              3  DOM                  Tremere antitribu:4
+1x Lucy Markowitz           3  dom obt              Lasombra:4
+
+Library (90 cards)
+Master (15; 4 trifle)
+1x Coven, The
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Information Highway
+1x Jake Washington
+3x Path of Night, The
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Political Hunting Ground
+3x Vessel
+
+Action (13)
+10x Govern the Unaligned
+3x Scouting Mission
+
+Ally (10)
+1x Carlton Van Wyk
+9x Nocturn
+
+Action Modifier (33)
+1x Blanket of Night
+4x Bonding
+7x Conditioning
+1x Foreshadowing Destruction
+5x Seduction
+4x Shadow Play
+3x Shroud of Absence
+3x Shroud of Night
+3x Tenebrous Form
+2x Threats
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (11)
+4x Deflection
+5x On the Qui Vive
+2x Redirection
+
+Combat (7)
+1x Entombment
+6x Oubliette

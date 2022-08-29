@@ -1,0 +1,72 @@
+Sede de Vitae Part 20
+Online
+October 4th 2021 -- October 7th 2021
+2R+F
+13 players
+Leonardo Villela
+https://www.vekn.net/event-calendar/event/9899
+
+-- 4VP in final
+
+Deck Name: Tremere Vote
+
+Crypt (12 cards, min=17, max=27, avg=5.67)
+------------------------------------------
+3x Ayelech             7  AUS DOM THA      prince      Tremere:6
+2x Inês Tristão        6  THA aus dom pre  prince      Tremere:6
+1x Bituin              6  THA ani cel dom  baron       Tremere:6
+1x Johannes Worringen  6  AUS THA dom      archbishop  Tremere antitribu:5
+1x Lloyd Brooks        6  DOM THA aus pot  primogen    Tremere:6
+1x Chrysanthemum       5  AUS THA dom      primogen    Tremere:6
+1x Zane                5  THA aus dom      primogen    Tremere:5
+1x Nassir              4  THA aus                      Tremere:6
+1x Rosalina Cortez     3  THA                          Tremere:6
+
+Library (90 cards)
+Master (21; 6 trifle)
+1x Academic Hunting Ground
+2x Arcane Library
+9x Ashur Tablets
+1x Chantry
+1x Powerbase: Montreal
+1x Rack, The
+3x Vessel
+3x Villein
+
+Action (10)
+6x Govern the Unaligned
+4x Magic of the Smith
+
+Ally (1)
+1x Ponticulus
+
+Equipment (6)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+2x Sniper Rifle
+
+Political Action (9)
+1x Disputed Territory
+1x Domain Challenge
+3x Kine Resources Contested
+3x Parity Shift
+1x Tremere Justicar
+
+Action Modifier (8)
+8x Mirror Walk
+
+Reaction (27)
+4x Deflection
+2x Eagle's Sight
+2x Enhanced Senses
+4x Eyes of Argus
+3x My Enemy's Enemy
+6x On the Qui Vive
+2x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (8)
+4x Rego Motum
+4x Theft of Vitae

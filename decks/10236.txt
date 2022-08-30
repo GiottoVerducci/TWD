@@ -1,0 +1,69 @@
+EC2022 Best of the Rest
+Helsinki, Finland
+July 31st 2022
+3R+F
+41 players
+Zsolt Cziráki
+https://www.vekn.net/event-calendar/event/10236
+
+-- 1GW6 + 2VP in final
+
+Deck Name: BOTR Deck 1
+
+Crypt (12 cards, min=20, max=28, avg=6)
+---------------------------------------
+4x Alabástrom    7  POT VIS aus cel for         Gargoyle:6
+4x Leumeah       6  PRE cel for pot      baron  Brujah:6
+4x Handsome Dan  5  aus cel for pot vis         Gargoyle:6
+
+Library (90 cards)
+Master (16; 5 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Club Illusion
+2x Dreams of the Sphinx
+1x Fame
+1x Flames of Insurrection
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Rack, The
+1x Smiling Jack, The Anarch
+5x Vessel
+
+Action (10)
+2x Armor of Terra
+1x Fee Stake: Boston
+1x Fee Stake: Los Angeles
+1x Heroic Might
+2x Line Brawl
+1x Open War
+2x Preternatural Strength
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sniper Rifle
+
+Retainer (1)
+1x Razor Bat
+
+Action Modifier (8)
+2x As the Crow
+2x Forced March
+2x Monkey Wrench
+2x Skin of the Chameleon
+
+Reaction (30)
+8x Bait and Switch
+2x Delaying Tactics
+6x Guardian Vigil
+4x On the Qui Vive
+10x Organized Resistance
+
+Combat (23)
+2x Bond with the Mountain
+8x Diversion
+3x Dust Up
+2x Lam Into
+3x Raking Talons
+2x Roll
+3x Taste of Vitae

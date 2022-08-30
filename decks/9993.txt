@@ -6,7 +6,7 @@ January 16th 2022
 Craig Rawe
 https://www.vekn.net/index.php/event-calendar/event/9993
 
-Deck name: Las hermanas de sangre
+Deck Name: Las hermanas de sangre
 
 Crypt (13 cards, min=8, max=16, avg=2.92)
 -----------------------------------------

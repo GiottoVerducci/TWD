@@ -7,7 +7,7 @@ Mark Loughman
 
 -- 2GW9 + 3VP in final
 
-Deck name: "3/4 Shark"
+Deck Name: "3/4 Shark"
 (Or how Bob Marley Smoked a Bowl of Convergence on 4/20 FTW).
 
 Mark's notes:

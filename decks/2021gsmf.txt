@@ -8,7 +8,7 @@ https://www.vekn.net/event-calendar/event/9829
 
 -- 1GW5 + 0.5VP in final
 
-Deck name: Stanislava Vote/Bleed v1.7
+Deck Name: Stanislava Vote/Bleed v1.7
 
 Crypt (13 cards, min=35, max=44, avg=9.92)
 ------------------------------------------

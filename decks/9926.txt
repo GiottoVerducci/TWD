@@ -1,0 +1,61 @@
+Baltic Purge
+Gdynia, Poland
+November 6th 2021
+3R+F
+11 players
+Tomasz Izydorczyk
+https://www.vekn.net/event-calendar/event/9926
+
+-- 1GW4 + 4VP in finam
+
+Deck Name: Shock Troops POT v.3.0
+Author:  Michał "kazpex" Bogudziński
+Description: post-tournament changes: +1 Tribute to the Master, +1 Delaying Tactics, -1 Heart of Nizchetus, -1 Mighty Grapple
+
+Crypt (12 cards, min=5, max=16, avg=2.67)
+-----------------------------------------
+4x Fabrizia Contreraz  4  dem pot  archbishop  Malkavian antitribu:4
+2x Keith Moody         3  DOM                  Tremere antitribu:4
+1x Almodo Giovanni     3  dom pot              Giovanni:4
+1x Eric Milliner       2  pot                  Giovanni:5
+1x Misrak              2  pot                  Osebo:4
+1x Anarch Convert      1  -none-               Caitiff:ANY
+1x Freddy Gage         1  pot                  Caitiff:5
+1x Jaggedy Andy        1  pot                  Pander:4
+
+Library (89 cards)
+Master (31; 3 trifle)
+1x Fame
+2x Haven Uncovered
+3x Parthenon, The
+16x Potence
+3x Shock Troops
+3x Storage Annex
+3x Wider View
+
+Action (8)
+2x Graverobbing
+2x Harass
+2x Under Siege
+2x War Party
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Action Modifier (2)
+2x Conditioning
+
+Reaction (7)
+5x Deflection
+2x On the Qui Vive
+
+Combat (38)
+4x Disarm
+5x Glancing Blow
+8x Increased Strength
+4x Mighty Grapple
+5x Target Vitals
+12x Thrown Gate
+
+Event (1)
+1x Uncoiling, The

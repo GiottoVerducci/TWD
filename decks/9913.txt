@@ -1,0 +1,79 @@
+Belgian NC 2021
+Brussels, Belgium
+November 6th 2021
+3R+F
+17 players
+Emiliano Imeroni
+https://www.vekn.net/event-calendar/event/9913
+
+-- 2GW8 + 4VP in final
+
+A quick overview
+
+17 players assembled to fight in the first Belgian event since the start of the pandemic, quite a respectable turnout given the circumstances! The overall metagame seemed to favour focused/aggressive decks, with somewhat fewer walls and combat than is common at these latitudes. After three hard-fought rounds, Stéphane D thought he could not be in the finals with 1GW3 and left before all games finished... thus relinquishing his finalist spot to Bart.
+
+The final's seating was as follows:
+Rahma (Spell of Life) -> Nicolas (Kyasiphandus) -> Vincent (Shattering Crescendo) -> Bart (Lutz) -> Emiliano (new royalty).
+
+The final was a quick affair, over in about 1 hour. Emiliano started strong voting against Rahma, reducing the time available for the Spells of Life to fire, while Nicolas bled Vincent constantly, forcing the latter to look mostly backwards. Bart was a bit unlucky with Zillahs and took some time to bring out Lutz. Then there was a "sliding doors" turn where all parallel universes seemed to collide: Rahma's well-played Delaying Tactics left Emiliano at three pool and open to Bart, then Rahma also Suddened Nicolas' third Ashur, ruining his chances to oust Vincent. In turn, Vincent found no block or bounce on his way to oust Bart with two Legal Manipulations. This allowed Emiliano to oust Rahma and prepare the endgame via his own third Ashur. Finally, after an Ancilla Empowerment+Neonate Breach combo ousted Nicolas and left Vincent at 3 pool, it did not take long for the struggle to conclude.
+
+Result: Emiliano 4 VP, Vincent 1 VP
+
+A big big thank you to all participants for a very fun day of bleeding (and politicking) and... thanks also for letting me win, for once!
+
+Deck Name: Infernal Princes of Anarchy
+Played by: Emiliano Imeroni
+Description:
+All credit to the deck's creator, grandmaster Bram Van Stappen! Thank you!
+A new generation of the classic "Royalty" deck based on the new cheap Fifth Edition Princes, with the "Reckless" support of Anarch Barons and of the invaluable Lutz-cancelling star Arishat.
+Instructions for use: steal deck from Bram the day before the event, then quickly unleash your political might on everyone while trying to stay (barely) alive.
+
+Crypt (12 cards, min=24, max=28, avg=6.33)
+------------------------------------------
+3x Arishat               6  DAI OBF PRE          1 vote  Baali:6
+1x Alice Chen            7  FOR PRE dom obf      prince  Ventrue:6
+1x Benjamin Rose         7  AUS OBF ani pot      prince  Nosferatu:5
+1x Graham Gottesman      7  DOM FOR obf pre tha  prince  Ventrue:5
+1x Karen Suadela         7  CEL POT obf pre      prince  Brujah:5
+1x Andi Liu              6  DOM aus obf pre      prince  Malkavian:6
+1x Belinde               6  OBF ani aus pot      prince  Nosferatu:6
+1x Benedito, a Lanterna  6  POT ani aus obf      baron   Nosferatu:6
+1x Donny Kowalczyk       6  AUS cel dom obf      prince  Malkavian:6
+1x Jacques Rouge         6  OBF ani pot pre      baron   Nosferatu:6
+
+Library (62 cards)
+Master (23; 1 trifle)
+9x Ashur Tablets
+1x Coven, The
+1x Creepshow Casino
+3x Dreams of the Sphinx
+1x Giant's Blood
+4x Information Highway
+3x Parthenon, The
+1x Protected Resources
+
+Action (1)
+1x Unleash Hell's Fury
+
+Political Action (18)
+1x Ancilla Empowerment
+3x Kine Resources Contested
+1x Neonate Breach
+8x Parity Shift
+4x Reckless Agitation
+1x Rumors of Gehenna
+
+Action Modifier (13)
+1x Bewitching Oration
+1x Faceless Night
+5x Forgotten Labyrinth
+2x Lost in Crowds
+2x Perfect Paragon
+2x Voter Captivation
+
+Reaction (2)
+2x Second Tradition: Domain
+
+Combat (5)
+4x Majesty
+1x Staredown

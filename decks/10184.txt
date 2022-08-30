@@ -1,0 +1,69 @@
+L'étreinte
+Les Lilas, France
+May 21st 2022
+2R+F
+12 players
+Jorge Delgado
+https://www.vekn.net/event-calendar/event/10184
+
+-- 1.5 VP in final
+
+Deck Name: Anson Gunz post-Parity Shift nerf
+Comments: Changed slightly the deck after 2019. Upgraded to 12 Ashurs to try and dispute the Ashur race to Girls decks mainly. Switched the 2 Parity Shifts by 2 Anathema. Also removed Pentex Subversion for obvious reasons (I was using it maybe for the "can't act" part against vampires with Secure Haven or vampires I could not deal with).
+
+My thoughts is that regarding the amounts of barons in tables, it is impossible to reasonably play votes with this decks. So all the votes are going out, the only x-table capacity of this deck remaining the rushes. I will add some Conditionings most likely since the ousting power of this deck is extremely limited. I will also downgrade again to 9x Ashurs since 12x seems a little bit overkill after testing. Also adding Secure Haven for contest.
+
+Crypt (13 cards, min=16, max=32, avg=6.31)
+------------------------------------------
+5x Anson                      8  CEL PRE aus dom  prince  Toreador:1
+2x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+1x Constanza Vinti            8  CEL DOM POT      prince  Brujah:2
+1x Dónal O'Connor             8  CEL DOM POT      prince  Brujah:2
+1x Dodd                       5  CEL dom pre              Brujah antitribu:2
+1x Jimmy Dunn                 4  CEL POT for              Pander:2
+1x Victor Tolliver            4  CEL pot                  Brujah antitribu:2
+1x Sarah Brando               3  CEL                      Brujah antitribu:2
+
+Library (77 cards)
+Master (26; 2 trifle)
+1x Archon Investigation
+12x Ashur Tablets
+1x Direct Intervention
+1x Fame
+1x Giant's Blood
+4x Haven Uncovered
+2x Minion Tap
+1x Papillon
+1x Parthenon, The
+2x Vessel
+
+Action (2)
+2x Bum's Rush
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (4)
+2x Anathema
+2x Kine Resources Contested
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (9)
+2x Deflection
+7x Second Tradition: Domain
+
+Combat (27)
+2x Blur
+6x Concealed Weapon
+1x Fast Hands
+6x Infernal Pursuit
+4x Psyche!
+3x Pursuit
+1x Side Strike
+1x Sideslip
+3x Taste of Vitae
+
+Event (1)
+1x Scourge of the Enochians

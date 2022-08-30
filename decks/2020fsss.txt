@@ -8,7 +8,7 @@ https://www.vekn.net/event-calendar/event/9587
 
 -- 1GW3.5 + 3VP in final
 
-Deck name: Location, location, location
+Deck Name: Location, location, location
 
 Crypt (12 cards, min=20, max=36, avg=7.25)
 ------------------------------------------

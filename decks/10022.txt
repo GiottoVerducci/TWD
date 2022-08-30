@@ -1,0 +1,62 @@
+Italian NC 2021 - Campionato Nazionale Italiano 2021
+Bologna, Italy
+January 8th 2022
+3R+F
+23 players
+Gianluca Bianco
+https://www.vekn.net/event-calendar/event/10022
+
+Deck Name: TWD Campionato Nazionale 2021
+
+Crypt (12 cards, min=18, max=27, avg=5.67)
+------------------------------------------
+3x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+3x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Crow               5  ANI for pro tha         Gangrel:5
+1x Dario Ziggler      5  FOR ani pro tha         Gangrel:6
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+
+Library (75 cards)
+Master (15; 5 trifle)
+1x Anarch Free Press, The
+1x Carfax Abbey
+1x Direct Intervention
+1x Ecoterrorists
+2x Grooming the Protégé
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+3x Vessel
+2x Wider View
+
+Action (3)
+1x Army of Rats
+2x Constant Revolution
+
+Equipment (4)
+3x .44 Magnum
+1x Sniper Rifle
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (37)
+6x Bait and Switch
+10x Deep Ecology
+2x Delaying Tactics
+2x Eyes of the Beast
+5x Eyes of the Wild
+6x Organized Resistance
+2x Party Out Of Bounds
+4x Protection Racket
+
+Combat (10)
+4x Concealed Weapon
+2x Form of Mist
+4x Pack Alpha

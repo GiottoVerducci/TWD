@@ -1,0 +1,70 @@
+Immaterium Tournament
+Toulon, France
+October 24th 2021
+3R+F
+18 players
+Laurent Ribeyre
+http://www.vekn.net/event-calendar/event/9905
+
+-- 2GW9 + 1.5VP
+
+Final was :
+Sébastien Gravouill (Spiridonas) > Patrick Benoit (Lasombra Presence) > Orian Gissler (!Salubri fight) > Vincent Ceci (Lasombra Nocturn) > Me (Rachel Madness)
+
+Deck Name: Madness Rachel
+Description:
+A deck created by Timothée Daudé with some changes. http://www.vekn.net/forum/event-reports-and-twd/79430-twd-standard-homologue
+
+Crypt (12 cards, min=18, max=40, avg=7.58)
+------------------------------------------
+5x Rachel Brandywine  10  AUS DEM OBF PRO ani  prince    Malkavian:3
+3x Victoria            5  AUS cel obf                    Malkavian:2
+1x Maris Streck        9  AUS OBF ani dem dom  justicar  Malkavian:3
+1x Greger Anderssen    7  AUS OBF dom pro      prince    Malkavian:2
+1x Quentin King III    7  AUS DEM obf pre      prince    Malkavian:3
+1x Zöe                 3  AUS cel obf                    Malkavian:2
+
+Library (62 cards)
+Master (16; 4 trifle)
+1x Barrens, The
+1x Coven, The
+2x Direct Intervention
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Madness Network
+1x Monastery of Shadows
+2x Perfectionist
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Vessel
+1x Wider View
+
+Ally (2)
+1x Carlton Van Wyk
+1x Muddled Vampire Hunter
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (7)
+1x Elder Impersonation
+2x Enkil Cog
+2x Faceless Night
+2x Lost in Crowds
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (17)
+4x Eyes of Argus
+1x My Enemy's Enemy
+7x Second Tradition: Domain
+5x Telepathic Misdirection
+
+Combat (15)
+1x Claws of the Dead
+10x Earth Meld
+4x Form of Mist

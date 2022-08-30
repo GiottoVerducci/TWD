@@ -1,0 +1,78 @@
+Belgian NC 2022
+Brussels, Belgium
+July 10th 2022
+3R+F
+33 players
+Bram Van Stappen
+Organizer: Emiliano Imeroni
+https://www.vekn.net/event-calendar/event/10175
+
+A quick overview
+
+33 bloodthirsty Methuselahs assembled to compete in the largest Belgian National Championship ever (the closest being the 2010 (!) NC with 31 players). The Outpost shop gave us the usual great setting... although with somewhat more crammed tables due to the new floor layout.
+
+We had players from France, Netherlands and Germany, with attending nationalities including Spanish and Australian (!). But the real change with respect to previous edition was a relatively unprecedented 15-strong Belgian attendance, which is a proof of the renaissance of the game in the plat pays.
+
+You could basically see all decks you could expect to see, plus some fun surprises (Karsh! Dual Forms!)... and at the end of the preliminary rounds the five finalists were exactly the ones bookmakers predicted.
+
+The finals' seating was as follows:
+Bram (Massassi guns&bounce) -> Serge (Al-Muntathir Legionnaires) -> Vincent (Giotto&IC) -> Marius (Nephandus) -> Axel (Anarch Gangrel toolbox).
+
+The final was a highly technical, tactical (and talkative) affair, very tense for those involved, quite boring for those watching. Bram did not find Massassi in the crypt but his Bakr immediately torpored Serge's Al-Muntathir to slow the Summon History Legionnaire engine down. After this, a long and relatively inane conversation on the present and future paths for the game (and possible deals) took place. Vincent, despite four Giottos in his starting crypt, could build up quite comfortably, and finally ousted Marius - whose Liquidations and Ashurs decided to stay well put in the deck - with votes. Then, Axel started pressing Serge to "overextend" in an attempt to stop Vincent, and this finally allowed Bram to oust Serge with few minutes left on the clock and claim the Championship.
+
+Result: Bram 1.5 VP (winner as first seed), Vincent 1.5 VP, Axel 0.5 VP
+
+Many congratulations to the one and only Belgian Champion, Bram!!! And my eternal gratitude to all the players for making it such a great event!
+
+Deck Name: massassinator v3_aka_la_merde
+(referred to as 'pile of shit n° 218' by Martin Schumacher)
+Author: Bram Van Stappen
+
+Crypt (12 cards, min=15, max=35, avg=6.33)
+------------------------------------------
+3x Massassi               9  AUS CEL POT QUI obf  Osebo:4
+2x Bakr                   8  CEL OBF QUI dem pro  Assamite:5
+1x Dominique Santo Paulo  6  AUS CEL pot pre      Toreador antitribu:4
+1x Guggenheim             6  AUS CEL PRE          Toreador antitribu:5
+1x Homa                   6  AUS CEL POT          Osebo:4
+1x Neighbor John          5  AUS dom for          Ventrue antitribu:4
+1x Titi Camara            5  AUS CEL pot          Osebo:5
+1x Idrissa                4  CEL aus              Osebo:4
+1x Anarch Convert         1  -none-               Caitiff:ANY
+
+Library (90 cards)
+Master (17; 6 trifle)
+6x Ashur Tablets
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Haven Uncovered
+1x Powerbase: Luanda
+1x Powerbase: Montreal
+5x Villein
+1x Wider View
+
+Equipment (8)
+7x .44 Magnum
+1x Bowl of Convergence
+
+Reaction (29)
+3x Eagle's Sight
+1x Enhanced Senses
+8x Eyes of Argus
+3x My Enemy's Enemy
+5x On the Qui Vive
+2x Quicken Sight
+7x Telepathic Misdirection
+
+Combat (35)
+4x Blur
+7x Concealed Weapon
+5x Infernal Pursuit
+5x Psyche!
+6x Pursuit
+1x Side Strike
+2x Sideslip
+5x Taste of Vitae
+
+Event (1)
+1x Dragonbound

@@ -7,7 +7,7 @@ Jérémy Mercier
 https://www.vekn.net/event-calendar/event/10124
 
 Deck Name: Eat the Rich, but with philosophy!
-Author: LonelyLasombra
+Created by: LonelyLasombra
 
 Crypt (12 cards, min=24, max=32, avg=6.92)
 ------------------------------------------

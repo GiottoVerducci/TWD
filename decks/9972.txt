@@ -16,7 +16,7 @@ Jakub Hrbacek - Blanche Hill tech bleed
 Pavel Simek - Arika & Anson MMPA
 
 Deck Name: Gangrel anarchs
-Author: Jan "Lott" Koci
+Created by: Jan "Lott" Koci
 
 Crypt (12 cards, min=12, max=24, avg=4.5)
 -----------------------------------------

@@ -7,7 +7,7 @@ November 13th 2021
 https://www.vekn.net/event-calendar/event/9944
 
 Deck Name: Ventrue! Grinder Gotsdam
-Created By:  Classic Grinder Anti deck. Based on „Bored Owain” Radek Wróblewski deck with modifications.
+Created by:  Classic Grinder Anti deck. Based on „Bored Owain” Radek Wróblewski deck with modifications.
 Description: Polish metagame is very aggresive, so solution for this is… Gotsdam with fortitude!
 
 Crypt (12 cards, min=16, max=34, avg=6.25)

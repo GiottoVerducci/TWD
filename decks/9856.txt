@@ -8,7 +8,7 @@ https://www.vekn.net/event-calendar/event/9856
 -- 4VP in final
 
 Deck Name: Desso delicia
-Author: Fernando Oliveira
+Created by: Fernando Oliveira
 
 Crypt (12 cards, min=18, max=28, avg=5.67)
 ------------------------------------------

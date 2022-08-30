@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/10098
 -- 5VP in final
 
 Deck Name: Enkidu
-Created By: Ankha
+Created by: Ankha
 
 Crypt (13 cards, min=7, max=44, avg=6.23)
 -----------------------------------------

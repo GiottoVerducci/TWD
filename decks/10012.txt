@@ -7,7 +7,7 @@ Guilherme Machado
 https://www.vekn.net/event-calendar/event/10012
 
 Deck Name: Malk Madness (SDV 27)
-Author: Krieg
+Created by: Krieg
 Description: 1.5 VP na grande e turbulenta mesa final
 
 Crypt (12 cards, min=4, max=23, avg=3.33)

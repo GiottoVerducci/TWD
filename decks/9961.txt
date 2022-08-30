@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/9961
 -- 5VP in final
 
 Deck Name: MalkAlex
-Author: Alejandro Cortés Fernández
+Created by: Alejandro Cortés Fernández
 Description: Special thanks to my friend Tomás Bordoy who helped me building this deck. He is the best!!!
 
 Crypt (12 cards, min=17, max=27, avg=5.58)

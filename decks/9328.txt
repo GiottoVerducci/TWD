@@ -7,7 +7,7 @@ Tomas Wallmur
 https://www.vekn.net/event-calendar/event/9328
 
 Deck Name: 2019 French open
-Author: Erik Mossbergs
+Created by: Erik Mossbergs
 Description: Erik Mossbergs' legionnaire deck, which he took to 2:nd seed on the Day 1 in Paris 2019. Dont forget the untap step. Get out your legionnaires and bleed.
 
 Crypt (12 cards, min=22, max=40, avg=7.75)

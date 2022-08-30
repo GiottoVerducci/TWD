@@ -7,7 +7,7 @@ Jyri Puhakka
 https://www.vekn.net/event-calendar/event/10247
 
 Deck Name: Anson Gun
-Author: Jyrkkä
+Created by: Jyrkkä
 
 Crypt (12 cards, min=12, max=40, avg=6.75)
 ------------------------------------------

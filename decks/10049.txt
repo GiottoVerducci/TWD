@@ -16,7 +16,7 @@ Jan "Lott" Koci - !Gangrel thieves
 Lukas "Simi" Simandl - Animal Lasombra
 
 Deck Name: Maris and Giotto - v2
-Author: Ondrej "Aahzmandius" Marek
+Created by: Ondrej "Aahzmandius" Marek
 
 Crypt (12 cards, min=4, max=34, avg=5)
 --------------------------------------

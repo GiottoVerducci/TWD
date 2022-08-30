@@ -9,7 +9,7 @@ http://www.vekn.net/event-calendar/event/8977
 -- 4VP in final
 
 Deck Name: The Brujah Archon: Goratrix
-Author: Alain Greiner
+Created by: Alain Greiner
 
 Crypt (12 cards, min=4, max=40, avg=5.92)
 -----------------------------------------

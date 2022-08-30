@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/10113
 -- 1GW4 + 3VP in final
 
 Deck Name: The Hungarian Coyote
-Author: John Eno and Karl Schaefer
+Created by: John Eno and Karl Schaefer
 Description: Codex bleed using Claiming the Body to lock potential blockers.
 
 The deck name is unchanged from John's original, which included a Hungry Coyote.  This latest version removed it on feedback from Darby, but the name remains because it's too clever.

@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/9754
 -- 4VP in final
 
 Deck Name: Giotto Legionnaries
-Author: Oriol Pubill
+Created by: Oriol Pubill
 Description: Discard, breed allies, block and finish with legionnaries
 Crypt (12 cards, min=4, max=34, avg=5)
 --------------------------------------

@@ -26,7 +26,7 @@ Many congratulations to the one and only Belgian Champion, Bram!!! And my eterna
 
 Deck Name: massassinator v3_aka_la_merde
 (referred to as 'pile of shit n° 218' by Martin Schumacher)
-Author: Bram Van Stappen
+Created by: Bram Van Stappen
 
 Crypt (12 cards, min=15, max=35, avg=6.33)
 ------------------------------------------

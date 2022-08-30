@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/9946
 -- 3VP in final
 
 Deck Name: Lasombra PB
-Author: Kainhardt
+Created by: Kainhardt
 
 Crypt (12 cards, min=8, max=30, avg=5)
 --------------------------------------

@@ -12,7 +12,7 @@ Final Table:
 Jose Luis Manuel Pasoot --> Hector (political anarch Gangrel) --> Germán (Anson pipes) --> Fede (Harbingers) --> Albert Dolcet (Muaziz allies)
 
 Deck Name: Lucian stronghold
-Author: Based on deck of Pere Joan Garcia
+Created by: Based on deck of Pere Joan Garcia
 
 Crypt (12 cards, min=25, max=38, avg=7.67)
 ------------------------------------------

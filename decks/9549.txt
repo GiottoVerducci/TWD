@@ -7,7 +7,7 @@ Ben Peal
 https://www.vekn.net/event-calendar/event/9549
 
 Deck Name: Fifth Edition: Malkavian
-Author: Black Chantry Productions
+Created by: Black Chantry Productions
 
 Crypt (12 cards, min=14, max=28, avg=5.42)
 ------------------------------------------

@@ -9,7 +9,7 @@ http://www.vekn.net/event-calendar/event/9003
 -- 4VP in final
 
 Deck Name: NephanDesso
-Author: Desso Alastor
+Created by: Desso Alastor
 
 Crypt (12 cards, min=4, max=20, avg=3)
 --------------------------------------

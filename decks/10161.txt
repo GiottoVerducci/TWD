@@ -1,5 +1,5 @@
 Norwegian NC 2022
-Moss, Østfold, Norway
+Moss, Norway
 August 6th 2022
 3R+F
 22 players
@@ -8,7 +8,7 @@ https://www.vekn.net/index.php/event-calendar/event/10161
 
 -- 1VP + GW3 + 1.5VP + 3VP in final
 
-Author : Håvard Skjevling
+Deck Name: Homunculi Network
 
 Crypt (13 cards, min=22, max=40, avg=7.69)
 ------------------------------------------

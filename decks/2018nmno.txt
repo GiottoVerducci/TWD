@@ -1,5 +1,5 @@
-Nephandus (Mage)
-Newark, Ohio
+Nephandus (Mage): Newark
+Heath, Ohio
 August 12th 2018
 2R+F
 16 players
@@ -9,8 +9,6 @@ https://www.vekn.net/event-calendar/event/8950
 -- 1GW4 + 1.5VP in final
 
 Deck Name: Anarch Diary (Firesale Remix)
-Created by: Karl Schaefer
-
 Description: Anarch Khazar's Diary Deck
 
 Updated from my Origins version, where I missed the finals on tournament points. I added more
@@ -95,7 +93,7 @@ Reaction (12)
 1x Poison Pill
 
 Combat (2)
-2x Target Vitals -- killed a Garou; the surpirse extra damage played out well today
+2x Target Vitals -- killed a Garou; the surprise extra damage played out well today
 
 Event (3)
 1x FBI Special Affairs Division

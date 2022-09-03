@@ -8,10 +8,22 @@ https://www.vekn.net/event-calendar/event/9096
 
 -- 0GW2 + 3VP in final
 
-Deck Name: Bleed n guns n bleed n guns hurrah hurrah v 2.0 now with titles
-Created by: Randal Rudstam
+Standings after round 3:
+1. Kim 1GW7
+2. Micael 1GW4.5
+3. Zack 0GW2
+4. Randal 0GW2
+5. Daniel R 0GW2
 
-A version of my prior Bleed n guns n bleed n guns hurrah hurrah block deck but now with titled vampires. One game Leandro burned 15 pool with his ability
+Seating and end score in final:
+1. Micael (DOM+OBF bigcap Mind Rape/vote) 1 vp
+2. Zack (Lasombra midcap sb) 1 vp
+3. Daniel (Nosferatu Cock Robin toolbox)
+4. Randal (AUS-bigcaps w +bleed wall) 3 vp, tournament victory
+5. Kim (DOM bruise-bleed)
+
+Deck Name: Bleed n guns n bleed n guns hurrah hurrah v 2.0 now with titles
+Description: “A version of my prior Bleed n guns n bleed n guns hurrah hurrah block deck but now with titled vampires. One game Leandro burned 15 pool with his ability ”
 
 Crypt (12 cards, min=32, max=43, avg=9.42)
 ------------------------------------------

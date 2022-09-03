@@ -6,12 +6,18 @@ September 8th 2018
 Martin Weinmayer
 https://www.vekn.net/event-calendar/event/8917
 
--- 2GW10 + 5VP in final
+-- 2GW10 (1st seed) + 5VP in final
+
+Other finalists:
+
+Dan Gargulák - Masika Block
+David Draslar - Daughters politics
+Karel Vaigl - Malkav first tradition politics
+Richard Stefan Utner - True Brujah politics
 
 Deck Name: Emerald Dream
-
-This is a very Reaction heavy version of the Legionnaire archetype. Recommended
-if you expect aggressive meta with little combat.
+Description:
+This is a very Reaction heavy version of the Legionnaire archetype. Recommended if you expect aggressive meta with little combat.
 
 Crypt (12 cards, min=17, max=28, avg=5.75)
 ------------------------------------------

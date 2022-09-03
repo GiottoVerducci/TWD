@@ -11,9 +11,9 @@ https://www.vekn.net/event-calendar/event/9004
 Deck Name: Just another nasty bleeddeck
 
 This is the very focused bleeddeck with a few very simple principles.
-1 Hand management: have minimum amout of cards that can clog, and cards that increase card options. Low amount of masters also helps.
-2 blood management: other masters are to keep the machine rolling.
-3 bleed management: Well Duh! all the other cards are for bleeding
+1 Hand management: have minimum amout of cards that can clog, and cards that increase card options. low amount of masters also helps.
+2 Blood management: other masters are to keep the machine rolling.
+3 Bleed management: Well Duh! all the other cards are for bleeding
 
 Crypt (12 cards, min=17, max=28, avg=5.67)
 ------------------------------------------

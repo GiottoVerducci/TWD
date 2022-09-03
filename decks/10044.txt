@@ -11,6 +11,25 @@ https://www.vekn.net/event-calendar/event/10044
 Deck Name: Dumpster Fire of Pure Hate
 Description:
 
+I have virtually constructed an Emerald Legionnaire (EL) deck for every clan, plus Imbued; this is the Imbued deck.
+I made a few last-minute tweaks before entering the AC, one of which was Nightmares upon Nightmares - 
+that was a real brain-fart and it does not belong in this deck.
+
+The general idea here is to stay alive with Liquidations and defend with Imbued
+until you can amass an army of ELs to bleed with.
+If I am concerned about my Harbinger getting rushed before recruiting a Legionnaire,
+I will bring out Imbued first (or simultaneously if multirush is imminent) to block for her.
+Then I have to keep the EL alive and unstolen until his special can pull more out from my ash heap;
+after that, the deck can start to move.
+
+As a hater of the Imbued, I see this deck as representing many of the worst aspects of the game,
+hence the title. Other unlikeable facets include Veil of Darkness (hardest card-text in the game to abide by),
+Liquidation, Unmasking, and of course, Emerald Legionnaire.
+If the mechanics of Ashur Tablet weren't antithetical to the workings of this deck,
+I would have searched for a way to include them as well. Lupine Assault was in my pre-tweaked version,
+just for the extra table hate.
+If you try playing this, you might switch out Nightmares upon Nightmares for Lupine, or maybe for a third Veil.
+
 Crypt (13 cards, min=15, max=24, avg=4.92)
 ------------------------------------------
 4x Mina Grotius               6  FOR NEC cel      Harbinger of Skulls:3

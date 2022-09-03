@@ -1,0 +1,67 @@
+Jay's Birthday
+Heath, Ohio
+August 21st 2022
+2R+F
+17 players
+Mark Loughman
+https://www.vekn.net/event-calendar/event/10274
+
+-- 1GW5 + 3vp in final
+
+Deck Name: Domme Mommy
+
+Crypt (12 cards, min=23, max=40, avg=8.08)
+------------------------------------------
+4x Mary Anne Blaire    10  AUS DOM FOR PRE ani pot  justicar    Ventrue:5
+1x De Sade              9  AUS DOM FOR PRE          archbishop  Ventrue antitribu:5
+1x Gerald Windham       9  AUS DOM FOR THA                      Tremere:5
+1x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro      prince      Ventrue:5
+1x Polly Kay Fisher     8  AUS DOM THA for pot      archbishop  Ventrue antitribu:4
+1x Jefferson Foster     6  AUS DOM for tha          bishop      Ventrue antitribu:4
+1x Mustafa, The Heir    6  FOR PRE cel dom          prince      Ventrue:4
+1x Victor Donaldson     6  DOM for pre              prince      Ventrue:5
+1x Neighbor John        5  AUS dom for                          Ventrue antitribu:4
+
+Library (78 cards)
+Master (12; 4 trifle)
+1x Depravity
+1x Erciyes Fragments, The
+1x Fame
+1x Guardian Angel
+1x Paragon
+1x Perfectionist
+1x Rack, The
+1x Ventrue Headquarters
+4x Villein
+
+Action (14)
+1x Dominate Kine
+2x Enchant Kindred
+2x Entrancement
+4x Govern the Unaligned
+1x Propaganda
+4x Scouting Mission
+
+Political Action (5)
+2x Banishment
+2x Kine Resources Contested
+1x Parity Shift
+
+Action Modifier (19)
+2x Bonding
+6x Crocodile's Tongue
+6x Freak Drive
+2x Seduction
+3x Voter Captivation
+
+Reaction (14)
+5x Deflection
+2x Obedience
+4x On the Qui Vive
+3x Second Tradition: Domain
+
+Combat (14)
+2x Aura Reading
+4x Hidden Strength
+2x Majesty
+6x Weighted Walking Stick

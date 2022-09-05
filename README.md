@@ -1,24 +1,30 @@
 # TWD
-The V:TES tournament winning decks
+The V:TES tournament winning decks archive
 
 If you want to contribute, create pull requests with the changes. Be sure to add the URL of the source of the TWD (usually vekn.net) in each entry.
 
-To add a TWD, you must insert a line such at this one at the right place (located near the top of the file). There is one section per year.
+To add a TWD, you must add a file in the `decks` subfolder. The file name must be the id of the event in the event calendar and its extension `.txt`. For instance, `decks\8470.txt`
+
+To fix an error in a TWD entry, you must edit the associated file.
+
+***DO NOT EDIT THE .htm FILES -- they are generated from the deck files!***
+
+The file must contain ALL the following informations in the right order and format:
+
+<ul>
+         <li>Tournament name</li>
+         <li>Online or City, Country (or place, City, Country)</li>
+         <li>Date (or Start Date -- End Date for events spreading on more than one day) without the time</li>
+         <li>Format (2R+F or 3R+F)</li>
+         <li># players</li>
+         <li>Winner name</li>
+         <li>URL to the TWD</li>
+</ul>
+If the deck creator's name is the same as the winner's name, it can be omitted after the Deck name.
+
+For instance:
 
 <pre>
-&lt;a href=#8470&gt;Ravel Zorzal's Conservative Agitation: Vila Velha, Brazil October 2016&lt;/a&gt;&lt;br&gt;
-         ---- ------------   #------------#--------  #----#----  #----- ------------
-        alias  winner name      tournament name        city     country  month and year
-</pre>
-The alias is the id of the event in the event calendar.
-
-(Previously, it was built with the year and the first letter of the tournament name and city / country, marked with # in the example above, which would give: 2016cavvb)
-
-Then you must insert at the right place the tournament entry itself (located after the entries above):
-
-<pre>
-&lt;a id=8470 href=#&gt;Top&lt;/a&gt;
-&lt;hr&gt;&lt;pre&gt;
 Conservative Agitation
 Vila Velha, Brazil
 October 1st 2016
@@ -27,23 +33,53 @@ October 1st 2016
 Ravel Zorzal
 https://www.vekn.net/event-calendar/event/8470
 
--- 5vp in final
+-- 5VP in final
 
 Deck Name : Eyes of the Insane
-...
-&lt;/pre&gt;
+Created by: Bobby Lemon
+Description:
+A great deck that...
 </pre>
 
+***The deck content must contain the Crypt first, then the Library.***
 
-All the following lines are mandatory, and the order must be correct:
-<ul>
-         <li>Tournament name</li>
-         <li>City, Country (or place, City, Country)</li>
-         <li>Date</li>
-         <li>Format (2R+F or 3R+F)</li>
-         <li># players</li>
-         <li>Winner name</li>
-         <li>URL to the TWD</li>
-</ul>
-If the deck creator's name is the same as the winner's name, it can be omitted after the Deck name.
+For instance:
 
+<pre>
+Sede de Vitae Part 26
+Online
+December 13th 2021 -- December 15th 2021
+2R+F
+16 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/10008
+
+Deck Name: Tributo a Paulão
+
+Crypt (12 cards, min=11, max=22, avg=4)
+---------------------------------------
+2x Nathan Turner      4  PRO ani                 Gangrel:6
+2x Indira             3  PRO                     Gangrel:6
+1x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Dario Ziggler      5  FOR ani pro tha         Gangrel:6
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+1x Joseph Fischer     3  PRO                     Gangrel antitribu:5
+1x Ruslan Fedorenko   2  pro                     Gangrel:6
+
+Library (89 cards)
+Master (14; 2 trifle)
+1x Anarch Free Press, The -- does not provide a free press!
+1x Anarch Railroad
+1x Backways
+1x Blood Doll
+1x Carfax Abbey
+1x Ecoterrorists
+1x Powerbase: Montreal
+1x Rack, The
+4x Smiling Jack, The Anarch
+2x Vessel
+...
+</pre>

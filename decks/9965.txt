@@ -49,10 +49,12 @@ Action Modifier (28)
 4x Lost in Crowds
 4x Spying Mission
 
-Action Modifier/Combat/Reaction (12)
+Action Modifier/Combat (8)
 4x Hide the Mind
-4x Sense the Sin
 4x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
 
 Reaction (10)
 4x Eluding the Arms of Morpheus

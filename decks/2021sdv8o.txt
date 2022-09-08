@@ -47,9 +47,11 @@ Action Modifier (37)
 3x Spying Mission
 7x Voter Captivation
 
-Action Modifier/Combat/Reaction (3)
-1x Scalpel Tongue
+Action Modifier/Combat (2)
 2x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Scalpel Tongue
 
 Combat (9)
 9x Majesty

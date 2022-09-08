@@ -10,7 +10,7 @@ https://www.vekn.net/event-calendar/event/8952
 
 Deck Name: PainKiller
 
-Description: Vide judas priest..
+Description: Vide judas priest...
 
 Crypt (12 cards, min=24, max=40, avg=8.33)
 ------------------------------------------

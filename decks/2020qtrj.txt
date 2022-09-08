@@ -60,9 +60,11 @@ Action Modifier (32)
 6x Lost in Crowds
 1x Psychomachia
 
-Action Modifier/Combat/Reaction (15)
-9x Sense the Sin
+Action Modifier/Combat (6)
 6x Swallowed by the Night
+
+Action Modifier/Reaction (9)
+9x Sense the Sin
 
 Combat (6)
 1x Conflagration

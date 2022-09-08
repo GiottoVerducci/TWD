@@ -51,6 +51,8 @@ Action Modifier (36)
 Action Modifier/Reaction (2)
 2x Sense the Sin
 
-Combat/Reaction (11)
+Combat (4)
 4x Earth Meld
+
+Combat/Reaction (7)
 7x Evil Eye

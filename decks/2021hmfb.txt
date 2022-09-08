@@ -56,11 +56,13 @@ Action Modifier (32)
 1x Patterns in the Chaos
 4x Spying Mission
 
-Action Modifier/Combat/Reaction (10)
+Action Modifier/Combat (7)
 4x Deny
 1x Hide the Mind
-1x Random Patterns
 2x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+1x Random Patterns
 2x Touch of Clarity
 
 Reaction (7)

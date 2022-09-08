@@ -1,0 +1,79 @@
+Garou Rim: Constant Revolution
+Joensuu, Finland
+October 23rd 2021
+3R+F
+16 players
+Aapo Järvelin
+https://www.vekn.net/event-calendar/event/9919
+
+-- 2GW6 + 1.5VP in final
+
+Now that the vaccinations have been available for a while and most people have got their second shots, we felt like its a perfect time to get some live Vampire tournaments going!
+Good amount of players showed up. Games were pretty fast and aggressive overall, with a lot of bleeds and votes and almost no combat.
+
+Finals Seating:
+Mari Tiippana (Presence & Obfuscate) --> Aapo Järvelin (Malgorzata + Lernean) --> Lauri Salmi (Giotto Mute + Vote) --> Lasse Pöyry (Aabbt Kindred Hatch the Viper) --> Teemu Pulkkinen (Black Hand Swarm Bleed)
+
+Deck Name: Lernean shoots you twice
+Description:
+Yeah, there is no Heart of Nizchetus, I don't feel like I need it. Never missed it once during the tournament. I'd rather get something that actually impacts the game and doesn't make me lose time. There is no need to force anything to happen.
+
+Crypt (13 cards, min=29, max=39, avg=8.69)
+------------------------------------------
+5x Malgorzata                 9  AUS DOM THA VIC pre      priscus     Tremere antitribu:4
+3x Lernean                   10  AUS CEL DOM THA for pro  cardinal    Tremere antitribu:4
+2x Paul Cordwood              8  AUS DOM THA obf pre      bishop      Tremere antitribu:4
+1x Orlando Oriundus           9  AUS DOM THA obf          bishop      Tremere antitribu:4
+1x Ladislas Toth, The Torch   7  AUS DOM THA for          archbishop  Tremere antitribu:3
+1x Selena                     6  AUS DOM THA                          Tremere antitribu:3
+
+Library (82 cards)
+Master (14; 5 trifle)
+2x Dreams of the Sphinx
+2x Information Highway
+1x Monastery of Shadows
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+1x Spirit Summoning Chamber
+1x University Hunting Ground
+1x Vessel
+4x Villein
+
+Action (13)
+2x Abbot
+6x Govern the Unaligned
+3x Magic of the Smith
+2x Under Siege
+
+Equipment (6)
+1x Bowl of Convergence
+2x Kevlar Vest
+1x Ruins of Ceoris
+2x Sniper Rifle
+
+Action Modifier (10)
+3x Conditioning
+2x Foreshadowing Destruction
+5x Mirror Walk
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (24)
+5x Deflection
+2x Eagle's Sight
+2x Enhanced Senses
+6x Eyes of Argus
+1x My Enemy's Enemy
+2x Obedience
+3x On the Qui Vive
+1x Redirection
+2x Telepathic Misdirection
+
+Combat (13)
+3x Apportation
+3x Blood Fury
+7x Theft of Vitae
+
+Event (1)
+1x Scourge of the Enochians

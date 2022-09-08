@@ -1,0 +1,75 @@
+European Grand Prix: Hyvinkää
+Hyvinkää, Finland
+June 11th 2022
+3R+F
+25 players
+Noora Hirvonen
+https://www.vekn.net/event-calendar/event/10182
+
+-- 1GW4 + 1.5VP in final
+
+Sunny day at the venue, Hyvikää Villatehdas, opened up with a nice surprise of 25 participants and even some friends from Sweden and Belgium. Games were tight and bloody, but the atmosphere was fantastic.
+
+Big thanks to everyone who participated and also to Hypecon staff for hosting us and being very helpful with everything!
+
+Finals Seating:
+Magnus Söder (Ravnos Week of Nightmares) --> Tommi Hakomaa (Jost/Rebekka) --> Aapo Järvelin (The Capuchin Wall) --> Bram Van Stappen (Matasuntha & Company Wall) --> Noora Hirvonen (Girls will find Inner Circles)
+
+Deck Name: Girls will find... Inner Circles
+Description:
+Mostly after Jorge Delgado's EC2019 Day 1 winning deck - added Archon Investigation, some differentiating stealth, swapped Lucian to Mistress Fanchon, and totally forgot to put in Information Highway (which would have been very nice).
+
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+4x Aksinya Daclau          9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+1x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+
+Library (78 cards)
+Master (50; 9 trifle)
+1x Archon Investigation
+15x Ashur Tablets
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Golconda: Inner Peace
+1x Jake Washington
+7x Liquidation
+1x Metro Underground
+1x Monastery of Shadows
+2x Parthenon, The
+1x Pentex(TM) Subversion
+6x Villein
+2x Wider View
+7x Zillah's Valley
+
+Action (4)
+2x Entrancement
+2x Unleash Hell's Fury
+
+Action Modifier (15)
+3x Aire of Elation
+2x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+3x Into Thin Air
+1x Lost in Crowds
+2x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (4)
+1x Guard Dogs
+2x Lost in Translation
+1x Rat's Warning
+
+Combat (3)
+3x Majesty
+
+Event (1)
+1x Scourge of the Enochians

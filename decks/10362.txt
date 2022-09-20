@@ -1,0 +1,65 @@
+Anarchs Unbound
+Fortaleza, Brazil
+September 17th 2022
+2R+F
+10 players
+Márcio Pinheiro
+https://www.vekn.net/event-calendar/event/10362
+
+-- 3VP in final
+
+Deck Name: Fee Stake Brujah
+Author: Baron
+
+Crypt (12 cards, min=11, max=26, avg=4.83)
+------------------------------------------
+2x Atiena              6  CEL obf pot pre  baron  Brujah:6
+2x Leumeah             6  PRE cel for pot  baron  Brujah:6
+2x Ariane              3  cel pot pre             Brujah:5
+1x Aline Gädeke        7  POT PRE cel      baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro  baron  Brujah:6
+1x Siarhei Levchenko   5  CEL PRE pot             Brujah:6
+1x Elen Kamjian        4  CEL POT                 Brujah:6
+1x Laura Goldman       3  cel pre                 Brujah:5
+1x Rayne               2  pot                     Brujah:6
+
+Library (90 cards)
+Master (17; 3 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+5x Anarch Revolt
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Fame
+2x Fortitude
+1x Hackerspace
+3x Vessel
+1x Warzone Hunting Ground
+
+Action (17)
+3x Constant Revolution
+4x Illegalism
+5x Line Brawl
+1x Open War
+2x Show of Force
+2x Smash and Grab
+
+Equipment (2)
+1x Ivory Bow
+1x Sengir Dagger
+
+Reaction (12)
+2x Bait and Switch
+4x On the Qui Vive
+3x Organized Resistance
+3x Protection Racket
+
+Combat (42)
+4x Bollix
+3x Disarm
+10x Diversion
+11x Dust Up
+5x Hell-for-Leather
+3x Immortal Grapple
+3x Roundhouse
+3x Taste of Vitae

@@ -1,0 +1,82 @@
+Fee Stake: Kerava 2
+Kerava, Finland
+September 10th 2022
+3R+F
+14 players
+Marko Saari
+https://www.vekn.net/event-calendar/event/10333
+
+Finals:
+Marko (Gangrel baron wall) -> Antti (Brunhilde & Valkyries) -> Julius (Ministry bleed) -> Teemu (Anson & Anneke gunslingers) -> Juha (Ministry bleed)
+
+Deck name: Bloody Roots
+Description: Gangrel Dog baron wall
+
+Crypt (12 cards, min=14, max=26, avg=5.25)
+------------------------------------------
+2x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+2x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+
+Library (87 cards)
+Master (15; 4 trifle)
+1x Anarch Free Press, The
+1x Backways
+1x Carfax Abbey
+1x Ecoterrorists
+1x Erciyes Fragments, The
+1x Fame
+1x Garibaldi-Meucci Museum -- massive help in the finals because of recursion effect to get reactions back
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+4x Vessel
+
+Action (12)
+1x Army of Rats
+2x Constant Revolution
+1x Fee Stake: Seattle -- to contest Anson's title and +1 vote for Revolutionary Council
+1x Rewilding
+2x Shattering -- great surprise damage in late game, used it to torpor Great Beast
+1x Status Perfectus, The -- both effects are solid
+4x Thing
+
+Equipment (2)
+1x .44 Magnum
+1x Ivory Bow
+
+Political Action (2)
+2x Revolutionary Council -- solution to get quick(er) oust or to burn guns/location from the table
+
+Retainer (6)
+1x Dog Pack -- super with Kuyen's discount
+5x Raven Spy
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (27)
+5x Bait and Switch
+7x Deep Ecology
+1x Delaying Tactics
+4x Eyes of the Wild
+7x Organized Resistance
+1x Party Out Of Bounds
+2x Protection Racket
+
+Combat (21)
+2x Bear's Skin
+4x Donnybrook
+4x Earth Meld
+3x Form of Mist
+3x Hell-for-Leather
+1x Pack Alpha -- could be changed to other combat/mist depending your meta
+2x Target Vitals
+2x Taste of Vitae -- could be changed to other combat/mist depending your meta

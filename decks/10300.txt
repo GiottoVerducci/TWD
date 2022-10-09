@@ -1,0 +1,65 @@
+Scouting Mission
+Montfoort, Netherlands
+September 25th 2022
+3R+F
+23 players
+Jeroen van Oort
+https://www.vekn.net/event-calendar/event/10300
+
+Deck Name: Lawfirm G5/6 twd 25-09-22 Montfoort
+
+Crypt (12 cards, min=27, max=38, avg=8)
+---------------------------------------
+3x Mary Anne Blaire    10  AUS DOM FOR PRE ani pot  justicar  Ventrue:5
+2x Alexa Draper         8  DOM PRE for pot          prince    Ventrue:6
+2x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro      prince    Ventrue:5
+1x Alice Chen           7  FOR PRE dom obf          prince    Ventrue:6
+1x Flávio Gonçalves     7  CEL PRE aus for          prince    Toreador:6
+1x Graham Gottesman     7  DOM FOR obf pre tha      prince    Ventrue:5
+1x Sybren van Oosten    7  FOR PRE dom tha          prince    Ventrue:6
+1x Victor Donaldson     6  DOM for pre              prince    Ventrue:5
+
+Library (80 cards)
+Master (16; 4 trifle)
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Monastery of Shadows
+1x Papillon
+1x Ventrue Headquarters
+4x Villein
+4x Zillah's Valley
+
+Action (15)
+2x Enchant Kindred
+2x Entrancement
+1x Fourth Tradition: The Accounting
+6x Govern the Unaligned
+1x Judgment: Camarilla Segregation
+1x Mind Numb
+2x Scouting Mission
+
+Political Action (13)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Justicar Retribution
+4x Kine Resources Contested
+1x Neonate Breach
+5x Parity Shift
+
+Action Modifier (15)
+1x Daring the Dawn
+1x Foreshadowing Destruction
+6x Freak Drive
+2x Perfect Paragon
+5x Voter Captivation
+
+Reaction (11)
+5x Deflection
+3x On the Qui Vive
+1x Redirection
+2x Second Tradition: Domain
+
+Combat (10)
+10x Majesty

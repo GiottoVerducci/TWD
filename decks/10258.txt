@@ -1,0 +1,46 @@
+Cónclave de la Camarilla 2022
+Palma de Mallorca, Spain
+September 24th 2022
+3R+F
+35 players
+David Tomasetti
+https://www.vekn.net/event-calendar/event/10258
+
+-- 1.5VP in final
+
+Deck Name: Combat 0 points
+
+Crypt (12 cards, min=18, max=26, avg=5.67)
+------------------------------------------
+3x Kassandra Tassaki  6  CEL THA obf      prince    Assamite:6
+3x Khadija Al-Kindi   6  CEL OBF THA      primogen  Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf  prince    Assamite:6
+2x Warmaksan          5  THA cel obf      prince    Assamite:6
+2x Nayarana           4  THA cel                    Assamite:6
+
+Library (90 cards)
+Master (21; 5 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+7x Haqim's Law: Retribution
+2x Parthenon, The
+5x Villein
+
+Action (6)
+1x Aranthebes, The Immortal
+2x Fleetness
+3x Hunter's Mark
+
+Combat (61)
+3x Blur
+20x Hunger of Marduk
+3x Lightning Reflexes
+10x Psyche!
+12x Pursuit
+5x Quickness
+4x Rego Motum
+4x Zip Gun
+
+Event (2)
+1x Narrow Minds
+1x Scourge of the Enochians

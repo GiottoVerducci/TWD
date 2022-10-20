@@ -1,0 +1,64 @@
+AUSNZ Continental Championship 2022
+Melbourne, Australia
+October 1st 2022
+3R+F
+23 players
+Ke Carlton
+https://www.vekn.net/event-calendar/event/10276
+
+Deck Name: Baalicious Barons
+
+4VP in the final. Mutes + Arishat + Barons for vote lock and attrition.
+
+Fairly light stealth. Added 2x Organised Resistance and 2x Monkey Wrench
+for a bit more flexibility. 6x Bait and Switch likely better than
+Organised Resistance however prey jamming on bounces works.
+
+Xeper for anti ally / legionaries. Museum for Recursion.
+
+Thanks to Karl Schaefer for convincing me on the power of Eat the Rich.
+
+Crypt (12 cards, min=24, max=28, avg=6.33)
+------------------------------------------
+4x Arishat                  6  DAI OBF PRE          1 vote  Baali:6
+2x Vivian VI                7  PRE PRO obf tha      baron   Follower of Set:6
+2x Xeper, Sultan of Lepers  7  OBF PRE ani dai pro          Baali:6
+2x Elisha Tucker            6  PRE cel obf pro      baron   Follower of Set:6
+1x Atiena                   6  CEL obf pot pre      baron   Brujah:6
+1x Jacques Rouge            6  OBF ani pot pre      baron   Nosferatu:6
+
+Library (73 cards)
+Master (16; 8 trifle)
+1x Anarch Railroad
+1x Creepshow Casino
+1x Direct Intervention
+2x Garibaldi-Meucci Museum
+3x Information Highway
+6x Villein
+2x Wider View
+
+Action (8)
+5x Condemnation: Mute
+3x Unleash Hell's Fury
+
+Political Action (19)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x Eat the Rich
+11x Kine Resources Contested
+3x Reckless Agitation
+
+Action Modifier (20)
+2x Bewitching Oration
+2x Faceless Night
+5x Forgotten Labyrinth
+5x Lost in Crowds
+2x Monkey Wrench
+4x Voter Captivation
+
+Reaction (6)
+4x Bait and Switch
+2x Organized Resistance
+
+Combat (4)
+4x Majesty

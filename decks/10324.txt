@@ -1,0 +1,75 @@
+Fall of Lugdunum
+Villeurbanne, France
+October 1st 2022
+3R+F
+27 players
+Serge Cirri
+https://www.vekn.net/event-calendar/event/10324
+
+Deck Name: Nefertiti & Grosminet
+
+A very exciting final table, where everyone was out to get VPs and I ended up last man standing: far from those finals where everybody waits for the time limit! Congrats to all involved.
+
+This deck is not your usual kind of stealth-bleed. It can be underestimated even when your opponents know it, and can have some devastating turns even with few minions. Also, way more interesting and technical to play than usual S&B.
+Heart of the City should go out, you never have the tempo to use it. Should probably become one more Enticement.
+Perfectionnist is only useful if you remember to use it...
+
+Crypt (12 cards, min=20, max=40, avg=8)
+---------------------------------------
+4x Nefertiti (ADV)                     10  DOM OBF PRE SER cel pot           Follower of Set:2
+1x Nefertiti                           10  DOM OBF PRE SER cel pot           Follower of Set:2
+2x Catherine du Bois                    5  DOM for obf pre                   Ventrue:3
+2x Count Ormonde                        5  OBF dom pre ser                   Follower of Set:2
+1x Kahina the Sorceress                 9  AUS DOM OBF SER nec pre  1 vote   Follower of Set:3
+1x Khay'tall, Snake of Eden             9  DOM OBF PRE SER aus               Follower of Set:2
+1x Kephamos, High Priest of Marrakech   8  SER dom obf pre          2 votes  Follower of Set:2
+
+Library (90 cards)
+Master (20; 7 trifle)
+2x Dreams of the Sphinx
+4x Eternals of Sirius, The
+1x Giant's Blood
+1x Monastery of Shadows
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Secure Haven
+1x Temple Hunting Ground
+5x Villein
+2x Wash
+
+Action (24)
+5x Enticement
+2x Entrancement
+1x Form of Corruption
+7x Govern the Unaligned
+1x Heart of the City
+8x Legacy
+
+Ally (2)
+1x Mylan Horseed
+1x Saatet-ta
+
+Action Modifier (23)
+2x Cloak the Gathering
+2x Conditioning
+2x Elder Impersonation
+2x Enkil Cog
+3x Faceless Night
+1x Foreshadowing Destruction
+6x Lost in Crowds
+3x Spying Mission
+2x Truth of a Thousand Lies
+
+Action Modifier/Combat (3)
+1x Force of Personality
+2x Swallowed by the Night
+
+Reaction (13)
+6x Deflection
+2x Delaying Tactics
+2x Obedience
+3x On the Qui Vive
+
+Combat (5)
+5x Majesty

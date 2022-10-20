@@ -1,0 +1,64 @@
+Day Operation
+Paris, France
+July 23rd 2022
+3R+F
+14 players
+Selim Ammouche
+https://www.vekn.net/event-calendar/event/10295
+
+Deck Name: Brujah Anarch Cel Gun
+Description:
+After tournament tweak : -1 Blur /-2 Pursuit / -1 Grey Thorne / -1 On the Qui Vive / +4 Dust Up / +1 Hackerspace
+
+Crypt (12 cards, min=16, max=26, avg=5.33)
+------------------------------------------
+3x Atiena             6  CEL obf pot pre  baron  Brujah:6
+2x Aline Gädeke       7  POT PRE cel      baron  Brujah:6
+2x Siarhei Levchenko  5  CEL PRE pot             Brujah:6
+2x Elen Kamjian       4  CEL POT                 Brujah:6
+1x Leumeah            6  PRE cel for pot  baron  Brujah:6
+1x Brandon Grime      5  CEL pot pre tha         Brujah:6
+1x Ariane             3  cel pot pre             Brujah:5
+
+Library (80 cards)
+Master (18; 7 trifle)
+1x Al's Army Apparatus
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Carfax Abbey
+1x Club Illusion
+2x Dreams of the Sphinx
+1x Fame
+1x Hackerspace
+1x Libertas
+1x Powerbase: Los Angeles
+7x Villein
+
+Action (14)
+1x Entrancement
+3x Illegalism
+9x Line Brawl
+1x Open War
+
+Ally (1)
+1x Grey Thorne
+
+Equipment (7)
+6x .44 Magnum
+1x Heart of Nizchetus
+
+Action Modifier (2)
+1x Monkey Wrench
+1x Power of One
+
+Reaction (11)
+6x Bait and Switch
+1x On the Qui Vive
+4x Organized Resistance
+
+Combat (27)
+2x Blur
+7x Concealed Weapon
+6x Psyche!
+6x Pursuit
+6x Taste of Vitae

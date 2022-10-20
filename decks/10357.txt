@@ -1,0 +1,81 @@
+Revolutionary Council 2022 (MX)
+Mexico City, Mexico
+October 2nd 2022
+3R+F
+10 players
+Luis Ángel Jiménez Barrios
+https://www.vekn.net/event-calendar/event/10357
+
+Deck Name: 1. Lutz commands the Sabbat
+
+Crypt (12 cards, min=8, max=44, avg=6.08)
+-----------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+2x Stavros                 7  AUS OBF PRE dem      priscus       Malkavian antitribu:4
+1x Skulk                   4  OBF ani                            Nosferatu antitribu:5
+1x Lubomira Hradok         3  OBF                                Nosferatu antitribu:5
+1x Bloodfeud               2  obf                                Malkavian antitribu:4
+1x Denette Stensen         2  obf                                Gangrel antitribu:4
+1x New Blood               2  san                                Blood Brother:ANY
+1x Old Neddacka            2  obf                                Nosferatu antitribu:4
+
+Library (80 cards)
+Master (16; 4 trifle)
+1x Black Forest Base
+1x Creepshow Casino
+1x Día de los Muertos
+2x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+3x Information Highway
+1x Powerbase: Madrid
+1x Secure Haven
+3x Villein
+1x Wider View
+
+Action (3)
+2x Entrancement
+1x Kaymakli Barrier
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (21)
+2x Banishment
+2x Conservative Agitation
+1x Crusade: Detroit
+1x Crusade: Dublin
+1x Crusade: Geneva
+1x Crusade: Houston
+1x Crusade: London
+1x Crusade: Mexico City
+2x Diversity
+6x Kine Resources Contested
+2x Meddling of Semsith, The
+1x Reins of Power
+
+Action Modifier (24)
+3x Awe
+1x Cloak the Gathering
+2x Elder Impersonation
+1x Faceless Night
+6x Forgotten Labyrinth
+2x Lost in Crowds
+2x Perfect Paragon
+1x Spying Mission
+2x Veil the Legions
+4x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (10)
+3x On the Qui Vive
+5x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Combat (3)
+3x No Trace
+
+Event (1)
+1x Uncoiling, The

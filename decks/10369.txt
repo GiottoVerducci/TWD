@@ -1,0 +1,92 @@
+Nordestão 2022
+Fortaleza, Brazil
+October 23rd 2022
+3R+F
+26 players
+Moacir Júnior
+https://www.vekn.net/event-calendar/event/10369
+
+-- 4vp in final
+
+Deck Name: Lucian
+Description: Bleed, só pra pegar a edge.
+
+Crypt (12 cards, min=16, max=44, avg=7.75)
+------------------------------------------
+6x Lucian, The Perfect  11  ANI AUS DOM OBF POT PRE  Guruhi:4
+1x Drusilla Euphemia     6  AUS OBF dem vic          Malkavian antitribu:4
+1x Abdelsobek            5  for nec obf pre ser      Follower of Set:5
+1x Arthur Denholm        5  AUS DEM obf              Malkavian:5
+1x Florentina Lengauer   4  OBF aus                  Malkavian:4
+1x Pearl                 4  AUS obf                  Malkavian antitribu:5
+1x Kalila                3  aus obf                  Malkavian:5
+
+Library (90 cards)
+Master (19; 7 trifle)
+1x Ancestor Spirit
+3x Blind Spot
+1x Dreams of the Sphinx
+1x Information Highway
+1x Legendary Vampire
+1x Metro Underground
+5x Villein
+1x Wash
+1x Wider View
+4x Zillah's Valley
+
+Action (10)
+1x Entrancement
+1x Heart of the City
+1x Mind Rape
+1x Precognizant Mobility
+1x Propaganda
+1x Pulse of the Canaille
+3x Revelations
+1x Trainer
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Kduva's Mask
+
+Political Action (3)
+1x Ancilla Empowerment
+1x Banishment
+1x Reins of Power
+
+Action Modifier (29)
+2x Cloak the Gathering
+1x Conditioning
+2x Crocodile's Tongue
+1x Edge of the World
+4x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+1x Foreshadowing Destruction
+2x Iron Glare
+4x Lost in Crowds
+1x Mask of a Thousand Faces
+1x Perfect Paragon
+4x Seduction
+2x Spying Mission
+1x True Love's Face
+
+Action Modifier/Combat (3)
+1x Hide the Mind
+2x Swallowed by the Night
+
+Reaction (14)
+4x Eyes of Argus
+1x King's Favor
+1x Mental Maze
+4x Obedience
+4x Telepathic Misdirection
+
+Combat (8)
+4x Charismatic Aura
+4x Majesty
+
+Event (1)
+1x Scourge of the Enochians

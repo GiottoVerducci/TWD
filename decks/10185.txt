@@ -1,0 +1,79 @@
+5th Road to Pulled Fang #11
+Brno, Czech Republic
+June 4th 2022
+3R+F
+20 players
+Peter Ducai
+https://www.vekn.net/event-calendar/event/10185
+
+-- 4VP in final
+
+Other finalists:
+
+Jakub "Rapajic" Rypar - Ministry Revolutionary Council (politics&bleed)
+Jan "Lott" Koci - Gangrel anarchs
+Tomas Capek - Malkavian S&B
+Tomas Trojan - !Nos Inside Dirt
+
+Deck Name : Sebastien Goulet S&B
+
+Crypt (12 cards, min=19, max=32, avg=6.42)
+------------------------------------------
+4x Sébastien Goulet        8  DOM OBF cel pre pro  Gangrel antitribu:3
+1x Sébastien Goulet (ADV)  8  DOM OBF cel pre pro  Gangrel antitribu:3
+1x Louis Fortier           5  aus dom for obf pre  Ventrue:4
+1x Louis Fortier (ADV)     5  aus dom for obf pre  Ventrue:4
+1x Preston Varrick         7  DOM OBF THA aus nec  Tremere:4
+1x Halim Bey               6  DOM SER obf tha      Follower of Set:4
+1x Black Lotus             5  DOM aus obf ser      Follower of Set:4
+1x Catherine du Bois       5  DOM for obf pre      Ventrue:3
+1x Robin Withers           4  dom obf pre          Ventrue:4
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Anarch Troublemaker
+1x Dreams of the Sphinx
+1x From a Sinking Ship
+1x Life in the City
+1x Misdirection
+1x Pentex(TM) Subversion
+4x Sudden Reversal
+1x Vessel
+2x Wash
+1x Wider View
+
+Action (13)
+4x Epiphany
+9x Govern the Unaligned
+
+Action Modifier (38)
+4x Bonding
+3x Cloak the Gathering
+5x Conditioning
+5x Elder Impersonation
+5x Faceless Night
+2x Foreshadowing Destruction
+2x Leverage
+3x Lost in Crowds
+5x Seduction
+3x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (16)
+8x Deflection
+2x Delaying Tactics
+4x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (3)
+2x Majesty
+1x No Trace
+
+Event (1)
+1x Bitter and Sweet Story, The

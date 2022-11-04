@@ -1,0 +1,50 @@
+Italian National Championship 2022
+Bologna, Italy
+October 15th 2022
+3R+F
+40 players
+Alessandro Donati
+https://www.vekn.net/event-calendar/event/10377
+
+Deck Name: The Asylum
+Author: Nekrós
+
+Crypt (12 cards, min=6, max=18, avg=3)
+--------------------------------------
+2x Jackie                        3  DEM              Malkavian antitribu:4
+2x Midget                        3  DEM obf pre      Malkavian antitribu:3
+2x Cassandra Langely, The Waif   2  dem              Malkavian:4
+2x Eddie Gaines                  1  dem pot          Caitiff:3
+1x Apache Jones                  5  DEM aus for obf  Malkavian antitribu:4
+1x Persia, The Beautiful Statue  5  DEM aus obf      Malkavian:3
+1x Uncle George                  5  DEM aus dom obf  Malkavian antitribu:3
+1x Marta                         3  aus dem          Malkavian antitribu:4
+
+Library (90 cards)
+Master (14; 3 trifle)
+1x Anarch Troublemaker
+4x Dementation
+1x Direct Intervention
+3x Effective Management
+1x Misdirection
+1x Pentex(TM) Subversion
+2x Wash
+1x Wider View
+
+Action (31)
+1x Aranthebes, The Immortal
+30x Kindred Spirits
+
+Action Modifier (32)
+16x Confusion
+14x Eyes of Chaos
+2x Mind Tricks
+
+Action Modifier/Combat (8)
+8x Deny
+
+Action Modifier/Reaction (4)
+4x Touch of Clarity
+
+Event (1)
+1x Bitter and Sweet Story, The

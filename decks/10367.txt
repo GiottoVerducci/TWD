@@ -1,0 +1,81 @@
+Finnish Nationals 2022
+Espoo, Finland
+November 5th 2022
+3R+F
+45 players
+Teemu Sainomaa
+https://www.vekn.net/event-calendar/event/10367
+
+After last year's dramatic surge in participation numbers, we managed to retain a similar level, despite a bunch of last minute cancelations. For myself, it was the fifth time hosting the nationals, so the routine is getting pretty well rehearsed. As seems to be a common theme in Finnish large events, we had a tight schedule dictated by the venue's limitations, but everything went well, as usual
+
+The hit meme of the tournament was the amount of the unnamed decks. At least six of them were spotted, which means that almost every seventh deck featured our dear old shady beast. I was naturally a part of the problem myself, but I regret nothing, even though I may be personally partly to blame for the phenomenon. And even though there was another unnamed in two of my three tables...
+
+The amount of combat decks seemed very low by Finnish standards, and I didn't come across that many walls, either. This was reflected in the final that included two heavy bleed decks, one bleed/vote, one bleed/breed, and one wall.
+
+The final table:
+
+Antti Penttilä (Palla Grande breed) 1 VP
+Jyri Puhakka (the unnamed bleed)
+Teemu Sainomaa (Gangrel barons wall) 3 VP
+Juha Nyholm (Art of Memory bleed) 1 VP
+Esa-Matti Smolander (Stanislava)
+
+Deck Name: Shattering Gangrels
+
+Crypt (12 cards, min=14, max=26, avg=5.25)
+------------------------------------------
+2x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+2x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+
+Library (87 cards)
+Master (14; 4 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Garibaldi-Meucci Museum
+1x Powerbase: Los Angeles
+1x Smiling Jack, The Anarch
+1x Society of Leopold
+4x Vessel
+
+Action (14)
+1x Constant Revolution
+2x Rewilding
+4x Shattering
+7x Thing
+
+Equipment (3)
+1x Camera Phone
+2x Sniper Rifle
+
+Political Action (1)
+1x Revolutionary Council
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier (3)
+3x Earth Control
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (30)
+10x Bait and Switch
+5x Deep Ecology
+6x Eyes of the Wild
+9x Organized Resistance
+
+Combat (14)
+10x Earth Meld
+4x Form of Mist

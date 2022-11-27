@@ -1,0 +1,67 @@
+Paulistão Championchip
+São Paulo, Brazil
+November 15th 2022
+3R+F
+16 players
+Desso Alastor
+https://www.vekn.net/event-calendar/event/10312
+
+Deck Name: CrimethInc.
+
+Crypt (12 cards, min=18, max=28, avg=5.75)
+------------------------------------------
+4x Vivian VI           7  PRE PRO obf tha  baron  Follower of Set:6
+2x Elisha Tucker       6  PRE cel obf pro  baron  Follower of Set:6
+1x Crystal Lynn        6  OBF PRE PRO             Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro         Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre         Follower of Set:6
+1x Jenny Silver        5  PRE PRO obf             Follower of Set:6
+1x Marcel              4  obf pre pro             Follower of Set:6
+1x Melech              4  OBF pro                 Follower of Set:6
+
+Library (69 cards)
+Master (17; 3 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+6x Ashur Tablets
+1x Ferraille
+2x Information Highway
+1x Opium Den
+1x Parthenon, The
+1x Pentex(TM) Subversion
+2x Villein
+1x Wider View
+
+Action (10)
+2x Corruption
+1x Entrancement
+7x Platinum Protocol, The
+
+Political Action (5)
+1x Disputed Territory
+1x Eat the Rich
+3x Reckless Agitation
+
+Action Modifier (26)
+7x CrimethInc.
+3x Enchanting Gaze
+2x Faceless Night
+2x Lost in Crowds
+2x Perfect Paragon
+5x Propaganda of the Deed
+3x Revelation of the Serpent
+2x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (4)
+2x Bait and Switch
+1x On the Qui Vive
+1x Organized Resistance
+
+Combat (4)
+4x Earth Meld
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,61 @@
+VTES Pro Circuit Curitiba - VPC
+Curitiba, Brazil
+November 5th 2022
+2R+F
+13 players
+Adriano Tavares de Souza
+https://www.vekn.net/event-calendar/event/10417
+
+-- 4vp in final
+
+Deck Name: gangrel Inefavel
+
+Crypt (15 cards, min=20, max=39, avg=7.27)
+------------------------------------------
+3x Ingrid Rossler        9  ANI FOR PRO dom      prince        Gangrel:2
+3x Iliana                7  DOM FOR PRO tha                    Gangrel:2
+2x Badger                6  FOR PRO ani pot                    Gangrel:1
+2x Caitlin               6  ANI PRO aus dom      bishop        Gangrel antitribu:2
+1x Stanislava           11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+1x Genevieve            10  ANI FOR PRO aus dom  priscus       Gangrel antitribu:2
+1x Faruq                 8  ANI PRO dom for pot                Gangrel:2
+1x Mirembe Kabbada       5  PRO SER ani                        Gangrel:2
+1x Chandler Hungerford   3  PRO                                Gangrel:2
+
+Library (90 cards)
+Master (20)
+1x Backways
+1x Barrens, The
+3x Blood Doll
+1x Channel 10
+5x Dominate
+2x Ecoterrorists
+1x Elder Library
+1x Guardian Angel
+1x Information Highway
+1x KRCG News Radio
+2x Misdirection
+1x Zoo Hunting Ground
+
+Action (17)
+2x Army of Rats
+5x Computer Hacking
+10x Govern the Unaligned
+
+Action Modifier (15)
+5x Bonding
+4x Conditioning
+1x Foreshadowing Destruction
+5x Threats
+
+Action Modifier/Combat (6)
+6x Rapid Change
+
+Reaction (15)
+5x Cats' Guidance
+5x Guard Dogs
+5x Rat's Warning
+
+Combat (17)
+9x Earth Meld
+8x Form of Mist

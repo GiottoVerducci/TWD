@@ -1,0 +1,52 @@
+Neverwinter
+Palma, Spain
+November 21st 2021
+2R+F
+12 players
+Gaspar Vaquer
+https://www.vekn.net/event-calendar/event/9962
+
+-- 4VP in final
+
+Deck Name: Deflectador de mundos
+
+Crypt (12 cards, min=36, max=44, avg=10.08)
+-------------------------------------------
+5x Lord Tremere           11  ANI AUS DOM THA VIC obe            Tremere:5
+3x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar  Tremere:5
+2x Dr. John Dee            9  ANI AUS DOM THA chi      prince    Tremere:4
+2x Gerald Windham          9  AUS DOM FOR THA                    Tremere:5
+
+Library (90 cards)
+Master (15; 6 trifle)
+1x Arcane Library
+2x Direct Intervention
+3x Dreams of the Sphinx
+1x Heidelberg Castle, Germany
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+6x Villein
+
+Action (18)
+12x Govern the Unaligned
+4x Magic of the Smith
+2x Rutor's Hand
+
+Equipment (4)
+1x Ankara Citadel, Turkey, The
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Signet of King Saul, The
+
+Action Modifier (16)
+1x Bonding
+1x Conditioning
+5x Mind of the Wilds
+9x Mirror Walk
+
+Reaction (37)
+15x Deflection
+5x Eluding the Arms of Morpheus
+8x Eyes of Argus
+7x Obedience
+2x Telepathic Misdirection

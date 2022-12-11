@@ -1,6 +1,6 @@
 King's Rising
 Sevilla, Spain
-November 20th, 2022
+November 20th 2022
 3R+F
 33 players
 Moisés Gámez
@@ -9,20 +9,18 @@ https://www.vekn.net/event-calendar/event/10372
 Deck Name: > Guns&Roses
 Author: Ercusharita
 
-Crypt (12 cards, min=28 max=32 avg=7.42)
-========================================
-2x Anneke 10 AUS CEL PRE dom justicar Toreador:1
-4x Anson 8 CEL PRE aus dom prince Toreador:1
-1x Constanza Vinti 8 CEL DOM POT prince Brujah:2
-1x Dónal O'Connor 8 CEL DOM POT prince Brujah:2
-1x Marcellus 8 AUS CEL pro prince Toreador:2
-2x Volker, The Puppet Prince 5 CEL pot prince Brujah:2
-1x Sarah Brando 3 CEL Brujah antitribu:2
+Crypt (12 cards, min=21, max=36, avg=7.42)
+------------------------------------------
+4x Anson                       8  CEL PRE aus dom  prince    Toreador:1
+2x Anneke                     10  AUS CEL PRE dom  justicar  Toreador:1
+2x Volker, The Puppet Prince   5  CEL pot          prince    Brujah:2
+1x Constanza Vinti             8  CEL DOM POT      prince    Brujah:2
+1x Dónal O'Connor              8  CEL DOM POT      prince    Brujah:2
+1x Marcellus                   8  AUS CEL pro      prince    Toreador:2
+1x Sarah Brando                3  CEL                        Brujah antitribu:2
 
 Library (85 cards)
-==================
 Master (25; 6 trifle)
-----------------------
 9x Ashur Tablets
 1x Direct Intervention
 1x Elysium: The Arboretum
@@ -36,26 +34,21 @@ Master (25; 6 trifle)
 1x Wider View
 
 Action (3)
------------
 1x Aranthebes, The Immortal
 2x Bum's Rush
 
 Equipment (7)
---------------
 7x .44 Magnum
 
 Political Action (2)
----------------------
 2x Parity Shift
 
 Reaction (12)
---------------
 3x Deflection
 1x On the Qui Vive
 8x Second Tradition: Domain
 
 Combat (34)
-------------
 7x Concealed Weapon
 7x Infernal Pursuit
 6x Psyche!
@@ -66,6 +59,5 @@ Combat (34)
 4x Taste of Vitae
 
 Event (2)
-----------
 1x Dragonbound
 1x Waiting Game

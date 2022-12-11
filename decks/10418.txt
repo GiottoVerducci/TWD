@@ -1,0 +1,63 @@
+Swedish National Championship 2022
+Stockholm, Sweden
+November 26th 2022
+3R+F
+33 players
+Erik Mossberg
+https://www.vekn.net/event-calendar/event/10418
+
+Deck Name: Banu Haqim
+Description: Based on the Banu Haqim starter deck with a few additions.
+
+Crypt (12 cards, min=17, max=32, avg=6.08)
+------------------------------------------
+3x Kassandra Tassaki  6  CEL THA obf          prince    Assamite:6
+2x Kasim Bayar        9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf      prince    Assamite:6
+2x Warmaksan          5  THA cel obf          prince    Assamite:6
+1x Khadija Al-Kindi   6  CEL OBF THA          primogen  Assamite:6
+1x Nayarana           4  THA cel                        Assamite:6
+1x Bijou              3  cel tha                        Assamite:6
+
+Library (79 cards)
+Master (16; 8 trifle)
+1x Giant's Blood
+4x Haqim's Law: Retribution
+1x Market Square
+1x Papillon
+3x Priority Contract
+1x Underworld Hunting Ground
+5x Villein
+
+Action (6)
+2x Hunter's Mark
+4x Magic of the Smith
+
+Equipment (4)
+1x .44 Magnum
+1x Heart of Nizchetus
+1x IR Goggles
+1x Kevlar Vest
+
+Political Action (5)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x Parity Shift
+
+Action Modifier/Combat (10)
+5x Resist Earth's Grasp
+5x Swallowed by the Night
+
+Reaction (13)
+2x On the Qui Vive
+11x Second Tradition: Domain
+
+Combat (24)
+11x Hunger of Marduk
+7x Pursuit
+3x Quickness
+1x Walk of Flame
+2x Zip Gun
+
+Event (1)
+1x Narrow Minds

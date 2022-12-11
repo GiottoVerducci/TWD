@@ -1,0 +1,88 @@
+Dragonbound: Polaris
+Dragon's Lair Comics & Fantasy, Lewis Center, Ohio, United States
+December 4th 2022
+2R+F
+12 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/10415
+
+Swept a 4-player table round 1, got 1 VP in round 2. Went into finals as
+2nd seed with 1GW+5VP. Won with 4VP in final round.
+
+Finals seating:
+1. Alex Romano (1st seed): Inyanga Garou ->
+2. Matt: Fighty Summon History Toolbox ->
+3. Bill: Unnamed Great Beast w/Abombwe ->
+4. Logan Cozad: G6 Platinum Ministry + Serpentis ->
+5. Karl Schaefer: Giotto Summons Legionnaires w/British Museum
+
+Deck Name: "Great Beast Takes the Skin: A Stupid Deck for Crappy Jerks"
+
+Thanks to Jay Kristoff for further refining the otherwise boring deck title.
+Thanks to Darby Keeney for assisting with initial ideation.
+
+Description:
+Brings out the Unnamed who gets Abombwe, grabs a Soul Gem and Calls the Great
+Beast for ABO+CEL+PRO. The two large, infernal minions then bleed a lot and the
+Great Beast also rushes and goes on ancillary errands. If the Great Beast burns a
+minion, it hopefully gets a superior Taking the Skin: Minion and then bleeds twice at
+four per bleed.
+
+This deck is really a lot of fun to play, and bloats like crazy when it works. In both
+the first and the final rounds, had over 40 pool at the time of ousting final prey. Can
+get decked, especially if it runs into walling tech, but don't want to increase library
+size any more since it relies on getting a combo going early, and consistency is key.
+
+I encourage you to try this deck out yourself for some quality entertainment.
+If there was one element I regretted lacking across rounds, it was a touch of surprise
+intercept for the Great Beast. REALLY would have liked to have one more Pursuit.
+
+Crypt (12 cards, min=40, max=40, avg=10)
+----------------------------------------
+12x unnamed, The  10  CEL DAI OBF PRE PRO  Baali:6
+
+Library (79 cards)
+Master (18; 10 trifle)
+7x Abombwe -- a lot, I know, but early draw is important
+5x Dreams of the Sphinx -- I make no apologies here. 4 might have been enough
+1x Golconda: Inner Peace -- for when you're ready for a fresh, new Great Beast
+1x Monastery of Shadows -- fantastic in this deck; keeping for sure
+1x Redeem the Lost Soul -- quite good: play master, gain 5 pool
+3x Villein -- especially nice just prior to blowing up the vamp
+
+Action (18)
+5x Call the Great Beast -- core card, usually played twice per game, sometimes thrice
+7x Flurry of Action -- core card; would not recommend removing any copies
+2x Mantle of the Bestial Majesty -- might replace 1 copy with another Claws of the Dead
+4x Unleash Hell's Fury -- was the perfect number for this deck in this tournament!
+
+Ally (2)
+2x Mylan Horseed -- would remove 1 copy if I played this tourney over
+
+Equipment (6)
+6x Soul Gem of Etrius -- early draw important for immediately Calling the Beast
+
+Action Modifier (20)
+1x Cloak the Gathering -- was always nice, but 1 was probably enough
+4x Earth Control -- about right, might have liked 1 more
+3x Enkil Cog -- don't get too attached; the Unnamed gets blown up twice
+9x Instantaneous Transformation -- of course
+1x Revelation of the Serpent -- gold every time, but 1 was enough; only Unnamed can play
+2x Zephyr -- helped once in each of two rounds; might remove 1 copy
+
+Action Modifier/Combat (7)
+4x Predator's Transformation -- gold! Cheap to cycle, directly responsible for 2VPs that day
+3x Taking the Skin: Minion -- use w/Great Beast and Flurry for lunge gimmick
+
+Combat (8)
+1x Claws of the Dead -- used for maneuvering to close more often than for the agg
+4x Form of Mist -- of course super useful; might add another
+3x Pursuit -- critical at both uses; would definitely add one more
+
+-- ..So in sum, might remove one copy each of Dreams, Mantle, Mylan, and Zephyr,
+-- replacing with one Claws of the Dead, one Pursuit, and maybe one more Earth Control
+-- and/or Form of Mist. Might try to make room for a Predator's Communion and/or a
+-- Taking the Skin: Vulture, and maaaaybe a Carlton Van Wyk and/or Veneficti if I can find
+-- room. Would not try to shrink the deck too much; got decked in round 2 (resulting in
+-- the game loss), and the library was brought low in both of the other rounds.
+-- (edit: changed "-" to "--" for clarity because extra whitespace is not being rendered after submitting)

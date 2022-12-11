@@ -1,0 +1,84 @@
+Hungarian Standard Constructed
+Vác, Hungary
+October 16th 2022
+3R+F
+17 players
+Miklós Szilveszter
+https://www.vekn.net/event-calendar/event/10400
+
+-- 3VP in final
+
+Deck Name: Daniele Anarch
+
+Crypt (12 cards, min=11, max=26, avg=5)
+---------------------------------------
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x Vivian VI              7  PRE PRO obf tha  baron  Follower of Set:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Elisha Tucker          6  PRE cel obf pro  baron  Follower of Set:6
+1x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Joseph Fischer         3  PRO                     Gangrel antitribu:5
+1x Anarch Convert         1  -none-                  Caitiff:ANY
+
+Library (90 cards)
+Master (23; 9 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+3x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Information Highway
+1x Papillon
+2x Rötschreck
+4x Vessel
+5x Villein
+1x Zoo Hunting Ground
+
+Action (4)
+1x Army of Rats
+1x Constant Revolution
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+
+Equipment (4)
+2x Camera Phone
+1x Heart of Nizchetus
+1x Sniper Rifle
+
+Political Action (2)
+2x Revolutionary Council
+
+Retainer (6)
+1x Mr. Winthrop
+4x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (4)
+2x Earth Control
+2x Monkey Wrench
+
+Action Modifier/Reaction (5)
+5x Form of the Bat
+
+Reaction (19)
+4x Bait and Switch
+3x Deep Ecology
+2x Delaying Tactics
+4x Eyes of the Wild
+1x On the Qui Vive
+5x Organized Resistance
+
+Combat (23)
+2x Body Flare
+1x Claws of the Dead
+2x Donnybrook
+10x Earth Meld
+6x Form of Mist
+2x Groundfighting

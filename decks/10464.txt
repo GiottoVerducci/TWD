@@ -1,0 +1,56 @@
+Esquenta Cearense
+Pindoretama, Brazil
+December 9th 2022
+2R+F
+10 players
+Cicero Jannyson
+https://www.vekn.net/event-calendar/event/10464
+
+-- 3vp in final
+
+Deck Name: legacy of pander
+
+Crypt (12 cards, min=4, max=12, avg=1.75)
+-----------------------------------------
+1x Jimmy Dunn                4  CEL POT for  Pander:2
+1x Lena Rowe                 3  aus obf pre  Pander:2
+1x Rex, The Necronomist      3  pot pro vic  Pander:2
+1x Christine Boscacci        2  dom vic      Pander:2
+1x Mitchell, The Headhunter  2  obt pot      Pander:2
+1x Angela Decker             1  pre          Pander:2
+1x Basil                     1  obf          Pander:2
+1x Feo Ramos                 1  aus          Pander:3
+1x Huang, Blood Cultist      1  pro          Pander:2
+1x March Halcyon             1  for          Pander:2
+1x Olga Triminov             1  vic          Pander:3
+1x Royce                     1  dom          Pander:2
+
+Library (60 cards)
+Master (19)
+1x Día de los Muertos
+2x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Fortschritt Library
+4x Information Highway
+3x Kaymakli Nightmares
+1x Not to Be
+2x Parthenon, The
+3x Pentex(TM) Subversion
+1x Powerbase: Madrid
+
+Action (2)
+2x Embrace, The
+
+Political Action (35)
+7x Consanguineous Boon
+4x Conservative Agitation
+13x Kine Resources Contested
+8x Legacy of Pander
+2x Neonate Breach
+1x Rumors of Gehenna
+
+Event (4)
+1x Blood Weakens
+1x Rising, The
+1x Slow Withering, The
+1x Veil of Darkness

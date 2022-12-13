@@ -1,0 +1,75 @@
+Vampires Cave
+Vác, Hungary
+November 5th 2022
+3R+F
+10 players
+Sebestyen Balazs
+https://www.vekn.net/event-calendar/event/10435
+
+-- 3VP in final
+
+Deck Name: Boróka's Barons
+Description: This deck was created and wielded to greet my friend's newborn daughter, Boróka! It was optimized to be well rounded, and with regard to the Hungarian ever forming but combat and block-heavy meta!
+
+Crypt (12 cards, min=12, max=25, avg=5)
+---------------------------------------
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Joaquín de Cádiz       3  for pro                 Gangrel:6
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (17; 3 trifle)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Backways
+1x Carfax Abbey
+2x Club Illusion
+1x Coven, The
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Garibaldi-Meucci Museum
+2x Information Highway
+1x Pentex(TM) Subversion
+2x Villein
+
+Action (20)
+1x Fee Stake: Seattle
+4x Loki's Gift
+1x Rewilding
+1x Skaald
+13x Thing
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (12)
+2x Consanguineous Boon
+2x Firebrand
+2x Kine Resources Contested
+2x Patsy
+2x Reckless Agitation
+2x Revolutionary Council
+
+Action Modifier (11)
+5x Earth Control
+3x Monkey Wrench
+3x Propaganda of the Deed
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (8)
+4x Bait and Switch
+4x Organized Resistance
+
+Combat (17)
+9x Earth Meld
+8x Form of Mist

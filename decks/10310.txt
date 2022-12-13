@@ -1,0 +1,61 @@
+SAC 2022 - Day 2
+São Paulo, Brazil
+November 13th 2022
+3R+F
+15 players
+Leonardo Villela
+https://www.vekn.net/event-calendar/event/10310
+
+Deck Name: Power of Princes 2
+
+Crypt (12 cards, min=24, max=28, avg=6.33)
+------------------------------------------
+3x Arishat               6  DAI OBF PRE          1 vote  Baali:6
+1x Alice Chen            7  FOR PRE dom obf      prince  Ventrue:6
+1x Benjamin Rose         7  AUS OBF ani pot      prince  Nosferatu:5
+1x Graham Gottesman      7  DOM FOR obf pre tha  prince  Ventrue:5
+1x Karen Suadela         7  CEL POT obf pre      prince  Brujah:5
+1x Andi Liu              6  DOM aus obf pre      prince  Malkavian:6
+1x Belinde               6  OBF ani aus pot      prince  Nosferatu:6
+1x Benedito, a Lanterna  6  POT ani aus obf      baron   Nosferatu:6
+1x Donny Kowalczyk       6  AUS cel dom obf      prince  Malkavian:6
+1x Jacques Rouge         6  OBF ani pot pre      baron   Nosferatu:6
+
+Library (71 cards)
+Master (24; 2 trifle)
+9x Ashur Tablets
+1x Creepshow Casino
+3x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+4x Information Highway
+3x Parthenon, The
+2x Villein
+
+Action (1)
+1x Unleash Hell's Fury
+
+Political Action (19)
+1x Ancilla Empowerment
+8x Kine Resources Contested
+7x Parity Shift
+2x Reckless Agitation
+1x Rumors of Gehenna
+
+Action Modifier (16)
+2x Bewitching Oration
+2x Faceless Night
+4x Forgotten Labyrinth
+2x Lost in Crowds
+2x Perfect Paragon
+2x Spying Mission
+2x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (3)
+3x Second Tradition: Domain
+
+Combat (6)
+6x Majesty

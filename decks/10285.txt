@@ -1,0 +1,68 @@
+Nose of the hound
+Online
+July 25th 2022
+2R+F
+14 players
+Rafael Barbosa
+https://www.vekn.net/event-calendar/event/10285
+
+Deck Name: ravnos snow
+
+Crypt (12 cards, min=4, max=29, avg=4.83)
+-----------------------------------------
+4x Anarch Convert               1  -none-                   Caitiff:ANY
+3x Delizbieta of the Dark Eyes  7  ANI CHI FOR PRE          Ravnos:3
+2x Tatiana Stepanova, Alastor   7  CHI PRE ani for obf      Ravnos:4
+1x Jeremy MacNeil (ADV)         8  AUS POT PRE cel chi      Brujah:3
+1x Rain                         7  AUS cel chi dem pot pre  Toreador antitribu:4
+1x Devyn                        4  ani chi pre              Ravnos:4
+
+Library (80 cards)
+Master (16; 5 trifle)
+1x Anarch Railroad
+2x Dreams of the Sphinx
+1x Fortune Teller Shop
+1x Giant's Blood
+1x Information Highway
+1x Park Hunting Ground
+2x Path of Paradox, The
+1x Svadharma
+3x Vessel
+2x Villein
+1x Week of Nightmares
+
+Action (5)
+1x Bujo
+3x Illegalism
+1x Patshiv
+
+Equipment (2)
+1x Karavalanisha Vrana
+1x Treasured Samadji
+
+Political Action (10)
+3x Consanguineous Boon
+6x Kine Resources Contested
+1x Year of Fortune
+
+Action Modifier (34)
+5x Adhocracy
+3x Awe
+3x Bewitching Oration
+2x False Resonance
+4x Fata Morgana
+5x Freak Drive
+2x Mirror's Visage
+3x Propaganda of the Deed
+2x Smoke and Mirrors
+5x Voter Captivation
+
+Action Modifier/Combat (6)
+3x Mirror Image
+3x Occlusion
+
+Reaction (7)
+3x Deep Ecology
+1x Forced Awakening
+2x On the Qui Vive
+1x Wake with Evening's Freshness

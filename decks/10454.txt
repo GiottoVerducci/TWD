@@ -1,0 +1,95 @@
+Cold Amber's Hold: Vidor
+Vidor, Texas
+December 10th 2022
+3R+F
+12 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/10454
+
+-- 2GW7.5 + 1.5vp in final
+
+Deck Name: Members Only
+Created by: Darby Keeney (Not-Karl-Schaefer)
+Description and Notes: Sometimes more than Legionnaires get recycled.
+
+Recruit Legionnaires on the cheap with Erebus and Charisma. Because the deck runs such a thin library and I'm reusing quite a bit of it, I exclusively recruit from hand and recur via their card text as infrequently as possible. In the midgame, I might even retrieve Legionnaires with Sargon Fragment.
+
+The Legion wants to get Leather Jackets and not be so fragile. Hunger of Marduk, Horseshoes, Touch of Pain, Carrion Crows and additional .44 Magnum strikes were so prevalent in the Vidor tournament that my vampires preferentially got the Jackets in most games.
+
+British Museum can provide 12 unlocks over the course of the game, reducing costs of 7 of those actions, it is a priority for play. There are 4 additional unlocks from Shroud Mastery and potentially a lot more from NAC PAC and Leather Jacket text.
+
+Filchware's Pawn Shop gets used Leather Jackets from the ash heap at no cost (+1 for Filchware, -1 for Museum) unlocking at the end of the turn for defense. Cooler and Blood Tears also recycle with it. Sometimes you even get a discounted toy from someone else's ash heap.  Filchware's + Museum feels like a solid module for just 2 MPA (one trifled) and 5 DPA/Dreams/Heart/Babalawo interactions.
+
+There's enough blood gain (Coven, Giant's Blood, Jake, Blood Tears, Cooler, Palatial Estate) to cover Villein for 5 as a default, Sargon actions, frequent modifier costs, bounces and Nicomedes' text. My vampires have not yet hunted with this deck.
+
+Crypt (12 cards, min=21, max=28, avg=6.25)
+------------------------------------------
+4x Erebus           7  AUS FOR NEC dem  Harbinger of Skulls:3
+2x Babalawo Alafin  7  AUS FOR NEC ani  Harbinger of Skulls:4
+2x Zygodat          6  AUS NEC pot      Harbinger of Skulls:4
+2x Nicomedes        5  aus for nec vic  Harbinger of Skulls:4
+1x Mina Grotius     6  FOR NEC cel      Harbinger of Skulls:3
+1x Solomon Batanea  5  AUS FOR nec      Harbinger of Skulls:4
+
+-- Babalawo and Nicomedes offer a lot of hand control, but I prioritize Erebus as one of the 2 opening vampires unless I have Charisma in hand.
+
+Library (68 cards)
+Master (22; 7 trifle)
+1x Anarch Troublemaker
+6x British Museum, London, The
+1x Charisma
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Filchware's Pawn Shop -- recursion is broken
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Jake Washington
+1x Pentex(TM) Subversion
+4x Villein
+1x Wider View
+
+-- I thought Heidelberg for Sargon+Mask would be useful, but is not worth the cost. It probably should be a duplicate Anarch Troublemaker. That slot could be a Parthenon if you want to add Maabara for truly excessive recursion.
+-- Please do not email or IM with questions regarding an Ashur Tablets variation. I will not help build it.
+
+Ally (12)
+1x Carlton Van Wyk
+10x Emerald Legionnaire -- recursion is broken
+1x Vagabond Mystic
+
+-- Ossian could be an interesting addition in some metagames. Getting a Leather Jacket and then rushing (with a Legionnaire then Filching the used Jacket) would result in a very fat werewolf.
+
+Equipment (13)
+1x Blood Tears of Kephran
+1x Cooler
+1x Erebus Mask -- tons of value when you act 3 times per turn
+2x Heart of Nizchetus
+5x Leather Jacket
+1x Palatial Estate
+1x Sargon Fragment, The -- did I mention that recursion is broken
+1x Signet of King Saul, The -- less valuable in the current V5 meta
+
+-- Adding a Bowl of Convergence is probably worthwhile, even if it temporarily ends up on an ally.
+
+Action Modifier (10)
+3x Acheron Vortex
+2x Call of the Hungry Dead
+4x Shroud Mastery
+1x Trochomancy -- Monopolize recursion FTW
+
+Action Modifier/Combat (2)
+2x Breath of Thanatos
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+-- Exactly the right amount of stealth in every game, but I wasn't spamming Acheron Vortex.
+
+Reaction (4)
+1x Delaying Tactics
+1x My Enemy's Enemy
+2x Telepathic Misdirection
+
+Event (3)
+1x NRA PAC -- might be overkill, but still useful.
+2x Unmasking, The

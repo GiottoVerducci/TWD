@@ -1,0 +1,72 @@
+Marato TV3
+Barcelona, Spain
+December 17th 2022
+2R+F
+32 players
+Óscar Caballero
+https://www.vekn.net/event-calendar/event/10469
+
+-- 2GW6 + 3vp in final
+
+Crypt (14 cards, min=12, max=25, avg=4.93)
+------------------------------------------
+2x André the Manipulator  6  FOR PRO                 Gangrel:5
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Mickey Wheeler         5  ani cel for pro         Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Joaquín de Cádiz       3  for pro                 Gangrel:6
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+
+Library (83 cards)
+Master (13; 2 trifle)
+2x Anachronism
+2x Anarch Revolt
+1x Ecoterrorists
+1x Ennoia's Theater
+2x Gangrel Revel
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+2x Vessel
+1x Zoo Hunting Ground
+
+Action (12)
+1x Aranthebes, The Immortal
+2x Constant Revolution
+2x Rewilding
+7x Thing
+
+Equipment (1)
+1x Ivory Bow
+
+Action Modifier (2)
+2x Monkey Wrench
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (25)
+6x Deep Ecology
+2x Eyes of the Beast
+6x Eyes of the Wild
+3x On the Qui Vive
+5x Protection Racket
+3x Sonar
+
+Combat (24)
+2x Donnybrook
+2x Earth Meld
+5x Flesh of Marble
+3x Form of Mist
+3x Form of the Ghost
+4x Form of the Wolf
+2x Taste of Vitae
+3x Weighted Walking Stick

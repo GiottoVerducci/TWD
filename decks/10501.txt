@@ -1,0 +1,66 @@
+Primeiro Dia
+Fortaleza, Brazil
+January 8th 2023
+2R+F
+22 players
+Cicero Jannyson
+https://www.vekn.net/event-calendar/event/10501
+
+-- 5vp in final
+
+Deck Name: Ministry/ Voto
+
+Crypt (12 cards, min=19, max=30, avg=6)
+---------------------------------------
+2x Nonu Dis            8  OBF PRE PRO for         Follower of Set:6
+2x Vivian VI           7  PRE PRO obf tha  baron  Follower of Set:6
+2x Elisha Tucker       6  PRE cel obf pro  baron  Follower of Set:6
+2x Jenny Silver        5  PRE PRO obf             Follower of Set:6
+1x Crystal Lynn        6  OBF PRE PRO             Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro         Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre         Follower of Set:6
+1x Marcel              4  obf pre pro             Follower of Set:6
+
+Library (75 cards)
+Master (10; 2 trifle)
+1x Anarch Railroad
+3x Cave of Apples
+2x Dabbler
+1x Ferraille
+1x Garibaldi-Meucci Museum
+1x Opium Den
+1x Temple Hunting Ground
+
+Action (17)
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+2x Mesu Bedshet
+12x Platinum Protocol, The
+
+Political Action (7)
+2x Eat the Rich
+1x Firebrand
+1x Patsy
+3x Reckless Agitation
+
+Action Modifier (27)
+1x Cloak the Gathering
+7x CrimethInc.
+5x Enchanting Gaze
+2x Faceless Night
+1x Lost in Crowds
+4x Propaganda of the Deed
+5x Revelation of the Serpent
+2x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (7)
+3x On the Qui Vive
+4x Party Out Of Bounds
+
+Combat (6)
+3x Earth Meld
+3x Form of Mist

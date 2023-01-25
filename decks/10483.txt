@@ -1,0 +1,76 @@
+Garou Rim: The Hunt Club
+Joensuu, Finland
+December 28th 2022
+3R+F
+15 players
+Aapo Järvelin
+https://www.vekn.net/event-calendar/event/10483
+
+Deck Name: AUS Nosset
+Description: I wanted to build a deck that can deal most of its damage without any Directed actions. I also like some reactions, so Baali based vote was off the table. First built as a fun deck, surprised me at some test games and performed well in the tournament. The deck is quite strong in the late game and can sway the table to your favor with a couple of well placed Parity Shifts and some table talk.
+
+Warsaw Station is the most important card in the deck. Might want to add fourth. Telepathic Vote Counting is bad, replace those with something else. Maybe Cryptic Rider and one more political action?
+
+Crypt (12 cards, min=23, max=30, avg=6.58)
+------------------------------------------
+4x Benjamin Rose         7  AUS OBF ani pot  prince  Nosferatu:5
+2x Alexander Silverson   8  AUS DOM OBF pre  prince  Malkavian:6
+2x Belinde               6  OBF ani aus pot  prince  Nosferatu:6
+1x Benedito, a Lanterna  6  POT ani aus obf  baron   Nosferatu:6
+1x Donny Kowalczyk       6  AUS cel dom obf  prince  Malkavian:6
+1x Jacques Rouge         6  OBF ani pot pre  baron   Nosferatu:6
+1x Daria                 5  AUS OBF ani              Nosferatu:6
+
+Library (78 cards)
+Master (18; 7 trifle)
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Jake Washington
+1x Labyrinth, The
+1x Papillon
+2x Vessel
+4x Villein
+3x Warsaw Station
+1x Wider View
+
+Action (6)
+1x Army of Rats
+4x Creeping Sabotage
+1x SchreckNET
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x Bowl of Convergence
+2x Sniper Rifle
+
+Political Action (13)
+1x Ancilla Empowerment
+6x Kine Resources Contested
+1x Neonate Breach
+5x Parity Shift
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (13)
+2x Elder Impersonation
+2x Faceless Night
+3x Forgotten Labyrinth
+4x Lost in Crowds
+2x Telepathic Vote Counting
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (18)
+4x Eyes of Argus
+2x My Enemy's Enemy
+2x On the Qui Vive
+4x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (3)
+3x No Trace

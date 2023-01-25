@@ -1,0 +1,59 @@
+Festivo de fim de ano
+Campina Grande, Brazil
+December 18th 2022
+3R+F
+10 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/10475
+
+Deck Name: This deck has no name
+
+Crypt (12 cards, min=23, max=27, avg=6.17)
+------------------------------------------
+3x Arishat               6  DAI OBF PRE          1 vote  Baali:6
+1x Alice Chen            7  FOR PRE dom obf      prince  Ventrue:6
+1x Graham Gottesman      7  DOM FOR obf pre tha  prince  Ventrue:5
+1x Karen Suadela         7  CEL POT obf pre      prince  Brujah:5
+1x Andi Liu              6  DOM aus obf pre      prince  Malkavian:6
+1x Belinde               6  OBF ani aus pot      prince  Nosferatu:6
+1x Benedito, a Lanterna  6  POT ani aus obf      baron   Nosferatu:6
+1x Donny Kowalczyk       6  AUS cel dom obf      prince  Malkavian:6
+1x Jacques Rouge         6  OBF ani pot pre      baron   Nosferatu:6
+1x Warmaksan             5  THA cel obf          prince  Assamite:6
+
+Library (73 cards)
+Master (24; 2 trifle)
+9x Ashur Tablets
+1x Coven, The
+1x Creepshow Casino
+4x Dreams of the Sphinx
+1x Giant's Blood
+3x Information Highway
+3x Parthenon, The
+1x Protected Resources
+1x Wider View
+
+Action (3)
+3x Unleash Hell's Fury
+
+Political Action (20)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+5x Kine Resources Contested
+1x Neonate Breach
+7x Parity Shift
+5x Reckless Agitation
+
+Action Modifier (17)
+2x Faceless Night
+6x Forgotten Labyrinth
+3x Lost in Crowds
+1x Perfect Paragon
+3x Spying Mission
+2x Voter Captivation
+
+Reaction (2)
+2x Second Tradition: Domain
+
+Combat (7)
+7x Majesty

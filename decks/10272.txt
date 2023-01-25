@@ -1,0 +1,79 @@
+Dawn Operation
+Benidorm, Spain
+October 23rd 2022
+2R+F
+47 players
+Tero Aalto
+https://www.vekn.net/event-calendar/event/10272
+
+Better late than never? This was my first time winning a tournament abroad, and I wasn't sure how this procedure would work, but it seems TWDs don't write themselves, so let's get to it.
+
+Originally, a whole group of Finns was to travel to Spain for the GP weekend, but in the end, it was just me. The attendance from different parts of Europe ended up being low overall, with me representing the whole north, and there was nobody from the east. I didn't let this bother me, though, and set out to enjoy my time and make new friends.
+
+After coming very close to winning the GP, I already felt like a winner and had no pressure whatsoever to perform in the side event. I even considered playing a shallowly tested deck for fun, but I'm glad I didn't, for several reasons, and not only because the choice I went with resulted in a victory, but because in the first round, the other choice would have resulted in a perplexing three-way contest of Dmitra Ilyanova rush decks, perplexing because it was the first time I ever saw this deck being played in a tournament.
+
+Ah yes, the deck I chose to play? Well my trusted unnamed grinder, of course. In the first round, it didn't quite live up to its designation, though, as I got a very fast start, which was good because I needed to take advantage of my prey and grandprey contesting Ms. Ilyanova. After the first point, though, I had to make a generous deal with my new prey, to let him take a point, just to survive, because he was able to burn my Secure Havens with Themistocles and leave my star vampire vulnerable to rushes. After the deal was concluded, I got back on track and managed to pick up the rest of the points before my prey was able to rush me again.
+
+In the second round, I sat between Brujah barons combat (predator) and something that was either Saulot or Shalmath, the specifics escape me at this point (it's been three months and I didn't take notes). The game seemed quite hopeless, as my predator played erratically and an Arika deck across the table seemed to be getting away with everything. I was protected by S. Haven, so I could concentrate on just gradually chipping at my prey's pool. My grandpredator, a Gangrel horde deck, somehow managed to survive until I finally got rid of Arika, and started playing at this point. He had simply too many minions and I didn't have enough time, so he ran over the hapless Brujah and myself. Six points in total was enough to reach the final.
+
+The final game was a bit chaotic, but that I guess is just the way of the country. The setting looked challenging from the start. My predator brought out Aksinya and later Fakir, but I managed to get my defenses up in time. There was another aggressive Gangrel deck behind it, that one with Matasuntha, who started looking my way at a rather early stage. My first prey was a Malkavian bleeder (a flashback to the day before, when my Malk prey had run away with the GP final) who I knew would be tough, but I got lucky as he didn't draw enough bounce, and also wasn't fast enough to oust the War Ghouls in front of him (What is it with the ghouls? Both finals of the weekend had them). I had to play the long game and started to steal the ghouls from crosstable, both to stop them from coming over preemptively and as potential blockers against the rest of the table. Without the ghouls, the Tzimisce didn't have many answers left.
+
+The hard part was ahead. The Gangrels were steadily eating my pool. Luckily though, there weren't bounced bleeds. Had my grandpredator been a bleeder, it would have been a completely different game. Matasuntha was, unsurprisingly, difficult to get past, and my deck was about to run out. My job got a bit easier when Mata's friend Rosa was burnt after eating a Horde, when my opponents (who had smartly teamed up after my first oust already) made a mistake (as I had the edge, and it was the only vote on the table). Still, it was a close call, as I had to use the last stealth card in the deck for the oust, but it was an obvious thing to do as the previous one had been DI'd (a sign of desperation), it would mean winning the tournament, and I wouldn't get another chance anyway.
+
+With three points, the win was decided, but we decided to play until the end anyway. I had no deck left and one blood total while my opponent had plenty of cards and two healthy vampires. My pool was high, though, and I was able to grind a sweep with my remaining resources.
+
+And here it is, my fifth unnamed TWD. Too bad there are no deck-specific hall of fames... Credit for this version's ingenious subtitle goes to my prey from the second round.
+
+Deck Name: (Sem título): unnamed and chill
+
+Crypt (12 cards, min=10, max=40, avg=6.33)
+------------------------------------------
+6x unnamed, The    10  CEL DAI OBF PRE PRO  Baali:6
+5x Horde, The       3  dai obf pre          Baali:6
+1x Anarch Convert   1  -none-               Caitiff:ANY
+
+Library (67 cards)
+Master (8)
+2x Dreams of the Sphinx
+1x Monastery of Shadows
+2x Perfectionist
+3x Secure Haven
+
+Action (14)
+1x Contagion
+4x Entrancement
+6x Flurry of Action
+3x Unleash Hell's Fury
+
+Ally (5)
+5x Infernal Servitor
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (25)
+2x Cloak the Gathering
+4x Elder Impersonation
+3x Enkil Cog
+2x Faceless Night
+3x I am Legion
+7x Instantaneous Transformation
+3x Lost in Crowds
+1x Psychomachia
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
+Reaction (1)
+1x Delaying Tactics
+
+Combat (4)
+2x Earth Meld
+2x Form of Mist
+
+Event (2)
+1x Narrow Minds
+1x Scourge of the Enochians

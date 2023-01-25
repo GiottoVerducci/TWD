@@ -1,0 +1,69 @@
+English NC 2022
+Leeds, United Kingdom
+November 12th 2022
+3R+F
+21 players
+Tibor Morocz
+https://www.vekn.net/event-calendar/event/10424
+
+-- 2GW7 + 4vp in final
+
+-- Other finalists:
+-- Warren Clarke - Weenie Dementation
+-- Marcin Jankiiewicz - !Kindred Spirits
+-- Simmy Singh Rayat - Ministry Bleed
+-- Mark Hammond - Setite MMPA
+
+Crypt (12 cards, min=24, max=29, avg=6.67)
+------------------------------------------
+4x Aline Gädeke        7  POT PRE cel      baron   Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro  baron   Brujah:6
+2x Atiena              6  CEL obf pot pre  baron   Brujah:6
+2x Leumeah             6  PRE cel for pot  baron   Brujah:6
+1x Carlak              8  CEL PRE dom pot  prince  Brujah:5
+1x Tara                6  POT PRE cel      prince  Brujah:5
+
+Library (90 cards)
+Master (20; 8 trifle)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Carfax Abbey
+1x Garibaldi-Meucci Museum
+2x Grooming the Protégé -- was a bad idea - include Blood Doll instead
+5x New Carthage
+1x Powerbase: Los Angeles
+6x Villein
+2x Wider View
+
+Action (12)
+1x Anarch Secession
+2x Field Training -- misread, useless in this deck - remove this!!!
+9x Illegalism
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (19)
+1x Anarchist Uprising
+4x Consanguineous Boon
+1x Firebrand
+7x Kine Resources Contested
+1x My Kin Against the World
+1x Patsy
+3x Reckless Agitation
+1x Revolutionary Council
+
+Action Modifier (18)
+1x Perfect Paragon
+10x Power of One
+7x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (10)
+6x Bait and Switch
+4x On the Qui Vive
+
+Combat (8)
+8x Majesty

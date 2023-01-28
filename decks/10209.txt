@@ -1,0 +1,61 @@
+Taunt The Caged Beast
+Online
+June 2nd 2022
+2R+F
+17 players
+Henrique Cone
+https://www.vekn.net/event-calendar/event/10209
+
+Deck Name: night
+
+Crypt (12 cards, min=23, max=32, avg=7)
+---------------------------------------
+4x Arcadian, The            8  DOM MYT OBT chi for           Kiasyd:5
+3x Isanwayen                6  DOM MYT OBT                   Kiasyd:4
+2x Omme Enberbenight        7  MYT OBT cel dom      priscus  Kiasyd:4
+1x Pherydima                8  DOM MYT NEC obt pot  bishop   Kiasyd:4
+1x Roderick Phillips March  7  DOM MYT cel obt tha           Kiasyd:4
+1x Dame Hollerton           5  DOM OBT myt                   Kiasyd:4
+
+Library (90 cards)
+Master (9)
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+1x Hungry Coyote, The
+2x Perfectionist
+1x Ravager
+1x Secure Haven
+
+Action (12)
+10x Govern the Unaligned
+2x Song of Pan
+
+Political Action (2)
+2x Anarchist Uprising
+
+Action Modifier (25)
+6x Blanket of Night
+8x Conditioning
+4x Shadow Play
+2x Shroud of Absence
+2x Shroud of Night
+3x Stone Travel
+
+Action Modifier/Combat (8)
+8x Fae Contortion
+
+Action Modifier/Reaction (4)
+4x Aura Absorption
+
+Reaction (14)
+6x Deflection
+2x Faerie Wards
+6x On the Qui Vive
+
+Combat (14)
+14x Oubliette
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

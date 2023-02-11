@@ -1,0 +1,69 @@
+Segundo Dia
+Fortaleza, Brazil
+February 5th 2023
+2R+F
+23 players
+Cicero Jannyson
+https://www.vekn.net/event-calendar/event/10543
+
+-- 2vp in final
+
+Deck Name: Recursos aquáticos
+
+Crypt (12 cards, min=16, max=28, avg=5.5)
+-----------------------------------------
+2x Vivian VI           7  PRE PRO obf tha  baron  Follower of Set:6
+2x Elisha Tucker       6  PRE cel obf pro  baron  Follower of Set:6
+1x Nonu Dis            8  OBF PRE PRO for         Follower of Set:6
+1x Crystal Lynn        6  OBF PRE PRO             Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro         Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre         Follower of Set:6
+1x Jenny Silver        5  PRE PRO obf             Follower of Set:6
+1x Marcel              4  obf pre pro             Follower of Set:6
+1x Melech              4  OBF pro                 Follower of Set:6
+1x Milton Fox          3  pre pro                 Follower of Set:6
+
+Library (78 cards)
+Master (10)
+1x Anarch Railroad
+1x Carfax Abbey
+2x Cavalier
+1x Club Illusion
+1x Creepshow Casino
+1x Ferraille
+1x Garibaldi-Meucci Museum
+1x Opium Den
+1x Temple Hunting Ground
+
+Action (15)
+1x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+1x Fee Stake: Perth
+2x Mesu Bedshet
+8x Waters of Duat
+
+Political Action (18)
+6x Consanguineous Boon
+2x Eat the Rich
+2x Firebrand
+1x My Kin Against the World
+1x Patsy
+4x Reckless Agitation
+2x Revolutionary Council
+
+Action Modifier (32)
+3x Bewitching Oration
+3x Cloak the Gathering
+6x CrimethInc.
+3x Enchanting Gaze
+2x Faceless Night
+4x Forgotten Labyrinth
+3x Lost in Crowds
+4x Propaganda of the Deed
+2x Spying Mission
+2x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night

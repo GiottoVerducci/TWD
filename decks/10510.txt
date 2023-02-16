@@ -1,0 +1,63 @@
+Valentine's Day Masika
+Liverpool, United Kingdom
+February 11th 2023
+3R+F
+10 players
+Paul Jones
+https://www.vekn.net/event-calendar/event/10510
+
+Deck Name: Web of Fists
+Description: Breed the recruits and punch anybody blocking your swarm of bleeds. I went against more magnums than I'd like and really missed the celerity as a lot of the crypt doesn't have it. Running this again I'd trim the Potence and replace the discipline masters with celerity.
+
+Crypt (12 cards, min=6, max=25, avg=3.75)
+-----------------------------------------
+2x Alu               2  obf                              Assamite:5
+2x Basir             1  qui                              Assamite:4
+1x Kabede Maru       9  AUS CEL OBF QUI abo pot  magaji  Assamite:5
+1x Vardar Vardarian  6  OBF QUI cel pre                  Assamite:4
+1x Janni             5  cel for obf qui                  Assamite:4
+1x Michael diCarlo   5  CEL obf qui                      Assamite:4
+1x Kamau Jafari      4  QUI obf                          Assamite:4
+1x Sajid al Misbah   4  QUI                              Assamite:5
+1x Evan Rogers       3  cel qui                          Assamite:4
+1x Sukainah          3  aus qui                          Assamite:5
+
+Library (90 cards)
+Master (15; 4 trifle)
+4x Haqim's Law: Retribution
+1x Khabar: Community, The
+1x KRCG News Radio
+1x Market Square
+2x Potence
+2x Priority Contract
+1x Underworld Hunting Ground
+2x Villein
+1x WMRH Talk Radio
+
+Action (14)
+2x Khabar: Glory
+12x Web of Knives Recruit
+
+Action Modifier/Combat (4)
+2x Resist Earth's Grasp
+2x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Blood Awakening
+
+Reaction (6)
+3x Black Sunrise
+3x On the Qui Vive
+
+Combat (49)
+7x Dam the Heart's River
+6x Disarm
+3x Disease
+5x Flash
+5x Focus the Blood
+8x Immortal Grapple
+2x Pulled Fangs
+4x Quickness
+2x Target Vitals
+2x Taste of Death
+5x Taste of Vitae

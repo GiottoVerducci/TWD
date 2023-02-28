@@ -1,5 +1,5 @@
 October Rust: Seekonk
-Seekonk, Massachusetts
+Seekonk (MA), USA
 October 13th 2001
 Shaun McIssac
 

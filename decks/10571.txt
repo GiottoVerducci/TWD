@@ -1,0 +1,69 @@
+Bum's Rush
+Singapore, Singapore
+February 19th 2023
+2R+F
+10 players
+Aaron Teh Soon Leong
+https://www.vekn.net/event-calendar/event/10571
+
+-- 3vp in final
+
+Deck Name: Anson Guns
+Description: Self-explanatory Celerity guns!
+
+Crypt (12 cards, min=18, max=34, avg=7)
+---------------------------------------
+4x Anson                       8  CEL PRE aus dom  prince    Toreador:1
+2x Volker, The Puppet Prince   5  CEL pot          prince    Brujah:2
+1x Anneke                     10  AUS CEL PRE dom  justicar  Toreador:1
+1x Constanza Vinti             8  CEL DOM POT      prince    Brujah:2
+1x Dónal O'Connor              8  CEL DOM POT      prince    Brujah:2
+1x Marcellus                   8  AUS CEL pro      prince    Toreador:2
+1x Black Cat                   5  CEL pot pre                Brujah:1
+1x Sarah Brando                3  CEL                        Brujah antitribu:2
+
+Library (88 cards)
+Master (27; 6 trifle)
+9x Ashur Tablets
+1x Blind Spot
+1x Blood Doll
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+3x Haven Uncovered
+1x Jake Washington
+1x Powerbase: Montreal
+1x Tension in the Ranks
+1x Two Wrongs
+4x Villein
+1x Wider View
+
+Action (5)
+1x Aranthebes, The Immortal
+4x Bum's Rush
+
+Ally (1)
+1x Ossian
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (1)
+1x Kine Resources Contested
+
+Reaction (10)
+3x Deflection
+7x Second Tradition: Domain
+
+Combat (38)
+1x Blur
+6x Concealed Weapon
+1x Fast Hands
+3x Flash
+7x Infernal Pursuit
+6x Psyche!
+5x Pursuit
+2x Quickness
+2x Side Strike
+5x Taste of Vitae

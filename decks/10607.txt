@@ -1,0 +1,83 @@
+Terceiro Dia
+Fortaleza (CE), Brazil
+March 5th 2023
+2R+F
+16 players
+Moacir Júnior
+https://www.vekn.net/event-calendar/event/10607
+
+Deck Name: Gangrel politico 2.0
+Description: O que tem que ser, será.
+
+Crypt (12 cards, min=8, max=36, avg=5.75)
+-----------------------------------------
+4x Viktor, The Night General  9  ANI CEL PRE PRO obf         Gangrel:5
+3x Anarch Convert             1  -none-                      Caitiff:ANY
+1x Vivian VI                  7  PRE PRO obf tha      baron  Follower of Set:6
+1x Casey Snyder               6  PRO ani cel for      baron  Gangrel:6
+1x Elisha Tucker              6  PRE cel obf pro      baron  Follower of Set:6
+1x Kuyén                      6  ANI PRO              baron  Gangrel:6
+1x Jenny Silver               5  PRE PRO obf                 Follower of Set:6
+
+Library (90 cards)
+Master (16; 7 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Coven, The
+1x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x From a Sinking Ship
+1x Garibaldi-Meucci Museum
+1x Perfectionist
+5x Villein
+1x Wash
+1x Zoo Hunting Ground
+
+Action (10)
+1x Chameleon
+1x Entrancement
+1x Fee Stake: Boston
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+1x Fee Stake: Seattle
+1x Keystone Kine
+1x Skaald
+2x Undue Influence
+
+Political Action (16)
+1x Banishment
+1x Disputed Territory
+3x Eat the Rich
+4x Kine Resources Contested
+1x Patsy
+5x Reckless Agitation
+1x Veles' Hunt
+
+Action Modifier (33)
+3x Awe
+2x Beast Meld
+3x Bewitching Oration
+5x CrimethInc.
+3x Earth Control
+2x Enchanting Gaze
+3x Instantaneous Transformation
+2x Memory Rift
+1x Monkey Wrench
+3x Propaganda of the Deed
+1x Rant!
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Form of the Cobra
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (3)
+1x Bait and Switch
+2x Party Out Of Bounds
+
+Combat (8)
+4x Earth Meld
+4x Form of Mist

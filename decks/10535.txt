@@ -1,0 +1,74 @@
+VtES Pro Circuit Curitiba Fevereiro
+Curitiba, Brazil
+February 4th 2023
+2R+F
+15 players
+Arthur "Paraiba"
+https://www.vekn.net/event-calendar/event/10535
+
+-- 4vp in final
+
+Deck Name: Reborn from the Shadows
+Description: Lasombra vote
+
+Crypt (12 cards, min=32, max=38, avg=8.75)
+------------------------------------------
+3x Carolina Vález        9  DOM OBT POT PRE aus  archbishop  Lasombra:5
+3x Charles Delmare       8  DOM OBT POT cel      cardinal    Lasombra:5
+2x Bruce de Guy         10  AUS DOM FOR OBT      cardinal    Ventrue antitribu:4
+2x Antón de Concepción   9  ANI DOM OBT POT aus  archbishop  Lasombra:4
+2x Percival              8  FOR OBT POT aus dom  archbishop  Lasombra:5
+
+Library (85 cards)
+Master (20; 8 trifle)
+1x Black Forest Base
+3x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+2x Monastery of Shadows
+1x Papillon
+1x Path of Night, The
+1x Political Hunting Ground
+1x Power Structure
+3x Vessel
+4x Villein
+1x Wider View
+
+Action (8)
+6x Govern the Unaligned
+2x Under Siege
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Zaire River Ferry
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+8x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (18)
+1x Blanket of Night
+2x Seduction
+4x Shadow Play
+5x Shroud of Absence
+4x Shroud of Night
+2x Tenebrous Form
+
+Reaction (12)
+6x Deflection
+2x Obedience
+4x On the Qui Vive
+
+Combat (8)
+3x Entombment
+5x Oubliette

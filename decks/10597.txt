@@ -1,0 +1,75 @@
+No duermas - Torneo en Badia
+Badia del Vallès, Spain
+March 5th 2023
+3R+F
+27 players
+Albert Dulcet Belmonte
+https://www.vekn.net/event-calendar/event/10597
+
+-- 3vp in final
+
+Deck Name: Nobody expects the Spanish Inquisition
+
+Crypt (12 cards, min=6, max=32, avg=3.83)
+-----------------------------------------
+4x Anson                            8  CEL PRE aus dom  prince  Toreador:1
+1x Christine Boscacci               2  dom vic                  Pander:2
+1x Marciana Giovanni, Investigator  2  dom                      Giovanni:2
+1x Mustafa Rahman                   2  dom                      Tremere:2
+1x New Blood                        2  san                      Blood Brother:ANY
+1x Ohanna                           2  dom                      Malkavian:2
+1x Samson                           2  dom                      Ventrue antitribu:2
+1x Royce                            1  dom                      Pander:2
+1x Smudge the Ignored               1  -none-                   Caitiff:1
+
+Library (75 cards)
+Master (35)
+12x Ashur Tablets
+1x Charisma
+2x Direct Intervention
+3x Dreams of the Sphinx
+1x Fortschritt Library
+1x Jake Washington
+1x KRCG News Radio
+4x Liquidation
+2x Mobile HQ, Operation Antigen
+1x Not to Be
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Smiling Jack, The Anarch
+1x Sunset Strip, Hollywood
+1x Vampiric Disease
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (11)
+1x Carlton Van Wyk
+5x ECTU Operative
+1x Gregory Winter
+1x Michael Harris, the Incinerator
+1x Ossian
+1x Vagabond Mystic
+1x Valerie Diaz, Antigen Commander
+
+Equipment (7)
+3x Camera Phone
+4x Enhanced Coagulant
+
+Action Modifier (1)
+1x Conditioning
+
+Reaction (8)
+5x Deflection
+2x Delaying Tactics
+1x On the Qui Vive
+
+Combat (8)
+3x Concealed Weapon
+5x Target Vitals
+
+Event (4)
+1x Blood Weakens
+1x FBI Special Affairs Division
+1x Slow Withering, The
+1x Unmasking, The

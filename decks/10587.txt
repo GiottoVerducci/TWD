@@ -1,0 +1,67 @@
+Coupe de Paris
+Paris, France
+March 4th 2023
+3R+F
+23 players
+Rahma Sinien
+https://www.vekn.net/event-calendar/event/10587
+
+-- 2.5vp in final
+
+Deck Name: Abraham's Armies
+
+Crypt (12 cards, min=21, max=32, avg=6.83)
+------------------------------------------
+5x Abraham Mellon        8  AUS DOM OBF for tha            Malkavian:6
+2x Gilbert Duane         7  AUS DOM OBF          baron     Malkavian:6
+2x Evan Klein            5  OBF aus dom pre                Malkavian:6
+1x Jason "Son" Newberry  7  AUS DOM OBF pre      primogen  Malkavian:6
+1x Darius Shirazi        6  AUS DOM obf                    Malkavian:5
+1x Colette               5  AUS OBF dom                    Malkavian:6
+
+Library (66 cards)
+Master (22; 7 trifle)
+6x British Museum, London, The
+1x Charisma
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Filchware's Pawn Shop
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+4x Villein
+1x Wider View
+
+Ally (10)
+1x Carlton Van Wyk
+2x Muddled Vampire Hunter
+4x Outcast Mage
+1x Ponticulus
+1x Thadius Zho
+1x Vagabond Mystic
+
+Equipment (11)
+1x Blood Tears of Kephran
+2x Heart of Nizchetus
+5x Leather Jacket
+1x Palatial Estate
+1x Sargon Fragment, The
+1x Signet of King Saul, The
+
+Action Modifier (14)
+3x Cloak the Gathering
+3x Conditioning
+2x Faceless Night
+2x Forgotten Labyrinth
+4x Lost in Crowds
+
+Reaction (7)
+3x Deflection
+3x Delaying Tactics
+1x Eyes of Argus
+
+Event (2)
+2x Unmasking, The

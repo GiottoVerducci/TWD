@@ -1,0 +1,90 @@
+Fee stake: Turku - Arms of Abyss
+Turku, Finland
+February 18th 2023
+3R+F
+28 players
+Otso Saariluoma
+https://www.vekn.net/event-calendar/event/10481
+
+Deck Name: Usurper High Council
+
+Description: Tremere fatties with a bit diversified crypt and an expanded master module. The game plan is to keep bloating and accelerating out new vampires while aiming for the vote lock and taking over in the mid to late game. The hand manipulation with Ashurs, Heart and Mistress is rather spectacular.
+
+-- Additional comment from Otso as he replied to a question about including Papillon in the deck, from the event FB-page:
+-- "I thought 4 city titles were enough to justify Papillon, though I played it only once during the tournament (didn't really draw it early enough to matter) and I thought the blood management might come in handy.
+-- As for the feel for specific cards during the tournament, Scourge was really important in two of the rounds. Obediences were not needed this time, but would not cut them. Political Stranglehold and Rumors of Gehenna are maybe less often seen than the other votes, but both were really good throughout the tournament. You could change Bowl of Convergence for something else (Signet of King Saul, Gran Madre di Dio, or sth), as you really don't have wakes to back up the blocking strategy. The main thing that pushed playing Bowl over the others for me was the ability to contest it with MotS. But never saw any other player getting Bowl into play, so wasn't really useful. But the MotS/ Heart module pulls so much weight wouldn't cut them as a package.
+-- I knew that Rutor's Hand might be a bit overkill, played it only once, but then it was rather good. It does fit into the slow building theme of the deck. Metro UG / Enkil Cog module was okay, but not critical. Golconda and Pentex never really saw play during the tournament, but feels nice to have these as options."
+-- Prince report:
+-- We had a tournament in Turku for the first time in 10 years, and it was great success in terms of attendance. As a new baron in the city, I want to thank all the attendees for creating a very nice and warm-spirited tournament. The meta was uncharacteristically non-combat (for the nordic), and there was a lot of fast bleed and politics.
+-- All the finalists in order from highest seed:
+-- Magnus Söder with Arika bleed
+-- Otso Saariluoma with Usurper High Council (2 vps in the final)
+-- Kim Nilsson with Ministry of Crime ie. Platinum Protocol (2 vps in the final)
+-- Noora Hirvonen with Weenie Dem (1 vp in the final)
+-- Pekka Kinnunen with Elimelech toolbox
+-- Shoutout to Lauri Salmi who was left out by draw from shared 4th place.
+
+Crypt (12 cards, min=30, max=43, avg=9.17)
+------------------------------------------
+3x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+2x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+2x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
+1x Dr. John Dee            9  ANI AUS DOM THA chi      prince        Tremere:4
+1x Gerald Windham          9  AUS DOM FOR THA                        Tremere:5
+1x Troius                  8  AUS DOM THA cel          prince        Tremere:4
+1x Graham Gottesman        7  DOM FOR obf pre tha      prince        Ventrue:5
+1x Johannes Worringen      6  AUS THA dom              archbishop    Tremere antitribu:5
+
+Library (76 cards)
+Master (33; 9 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+1x Papillon
+3x Parthenon, The
+1x Pentex(TM) Subversion
+7x Villein
+1x Wider View
+3x Zillah's Valley
+
+Action (7)
+4x Govern the Unaligned
+2x Magic of the Smith
+1x Rutor's Hand
+
+Equipment (2)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+3x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (9)
+1x Enkil Cog
+2x Forgotten Labyrinth
+6x Mirror Walk
+
+Reaction (12)
+3x Deflection
+2x Eyes of Argus
+1x My Enemy's Enemy
+4x Obedience
+1x Second Tradition: Domain
+1x Telepathic Misdirection
+
+Event (1)
+1x Scourge of the Enochians

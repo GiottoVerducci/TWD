@@ -1,0 +1,40 @@
+Ginesyful Fate
+Palma de Mallorca, Spain
+July 10th 2022
+3R+F
+17 players
+Gaspar Vaquer
+https://www.vekn.net/event-calendar/event/10270
+
+-- 5vp in final
+
+Deck Name: Gargoyle Bleed Swarm Tupdog Legion [#2]
+Author: Sicarioseth, played by Gaspar Vaquer
+
+Crypt (45 cards, min=4, max=4, avg=1)
+-------------------------------------
+45x Tupdog  1  POT VIS  Gargoyle:3
+
+Library (90 cards)
+Master (39; 10 trifle)
+10x Agent of Power
+2x Archon Investigation
+2x Direct Intervention
+10x Inceptor
+8x Liquidation
+7x Parthenon, The
+
+Action (22)
+7x Scrounging
+15x Summon History
+
+Ally (13)
+11x Emerald Legionnaire
+1x Mylan Horseed
+1x Veneficti
+
+Action Modifier (10)
+10x Skin of the Chameleon
+
+Reaction (6)
+6x Delaying Tactics

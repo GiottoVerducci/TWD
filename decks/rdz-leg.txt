@@ -37,7 +37,7 @@ Crypt (12 cards, min=14, max=31, avg=5.67)
 1x Gideon Fontaine                    3  PRE                      Ventrue:1
 1x Vasilis, The Traitor of Don Cruez  2  pre                      Brujah:2
 
-Library (80 cards)
+Library (90 cards)
 Master (20)
 2x Blood Doll
 2x Carthage Remembered
@@ -52,9 +52,9 @@ Master (20)
 1x Sudden Reversal
 1x Warzone Hunting Ground
 
-Action (20)
+Action (24)
 2x Dominate Kine
-1x Fifth Tradition: Hospitality -- Hospitality x 5
+5x Fifth Tradition: Hospitality
 3x Fourth Tradition: The Accounting
 5x Govern the Unaligned
 2x Legal Manipulations
@@ -81,8 +81,8 @@ Action Modifier (14)
 2x Closed Session
 3x Voter Captivation
 
-Reaction (1)
-1x Second Tradition: Domain -- Domain x 7
+Reaction (7)
+7x Second Tradition: Domain
 
 Combat (8)
 2x Catatonic Fear

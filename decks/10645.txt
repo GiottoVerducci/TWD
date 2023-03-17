@@ -1,0 +1,65 @@
+Italian Tour Stage 3
+Genoa, Italy
+March 12th 2023
+2R+F
+25 players
+Davide Antoni
+https://www.vekn.net/event-calendar/event/10645
+
+Deck Name: Anarch vote Deflection
+
+Crypt (12 cards, min=24, max=26, avg=6.17)
+------------------------------------------
+4x Arishat        6  DAI OBF PRE      1 vote  Baali:6
+4x Elisha Tucker  6  PRE cel obf pro  baron   Follower of Set:6
+2x Vivian VI      7  PRE PRO obf tha  baron   Follower of Set:6
+2x Jacques Rouge  6  OBF ani pot pre  baron   Nosferatu:6
+
+Library (90 cards)
+Master (12; 4 trifle)
+1x Carfax Abbey
+1x Creepshow Casino
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Ferraille
+2x Garibaldi-Meucci Museum
+2x Vessel
+2x Villein
+
+Action (10)
+6x Condemnation: Mute
+2x Entrancement
+2x Unleash Hell's Fury
+
+Equipment (1)
+1x Kaymakli Fragment
+
+Political Action (17)
+1x Anarchist Uprising
+1x Eat the Rich
+1x Exclusion Principle
+10x Kine Resources Contested
+4x Reckless Agitation
+
+Retainer (1)
+1x Crypt's Sons
+
+Action Modifier (32)
+4x Bewitching Oration
+3x Cloak the Gathering
+4x Elder Impersonation
+4x Faceless Night
+4x Forgotten Labyrinth
+4x Lost in Crowds
+1x Perfect Paragon
+8x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (9)
+7x Bait and Switch
+2x On the Qui Vive
+
+Combat (6)
+6x Majesty

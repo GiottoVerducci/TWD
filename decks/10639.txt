@@ -1,0 +1,67 @@
+Games Of Instinct
+Mexico City, Mexico
+March 12th 2023
+3R+F
+13 players
+Carlos Escobar Muciño
+https://www.vekn.net/event-calendar/event/10639
+
+Deck Name: Vasiliy sabe donde vives
+
+Description:
+This is a bleed deck whose main objective is to make redirecting and reducing bleed very expensive.
+It relies on the cards Suspension of Disbelief and Narrow Minds to achieve the goal.
+I added a Libertas since the deck is packed with a couple of Anarchs, so with this combo
+a typical Telepathic Misdirection or Deflection costs 3 or 4 blood.
+
+Crypt (12 cards, min=22, max=32, avg=6.5)
+-----------------------------------------
+4x Vasiliy Vasilevich                 8  ANI CHI for pro      Ravnos:5
+2x Desiree Narayan, Anarch Historian  6  CHI ani cel for nec  Ravnos:6
+2x Dr. Lawrence Mayhew                6  AUS CHI ani for      Ravnos:5
+2x Ganesh                             6  CHI DEM FOR          Ravnos:5
+2x Irena                              5  CHI ani for pre      Ravnos:5
+
+Library (80 cards)
+Master (13; 2 trifle)
+1x Barrens, The
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Libertas
+3x Path of Paradox, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Two Wrongs
+1x Week of Nightmares
+
+Action (18)
+2x Fatuus Mastery
+1x Illusory Resources
+5x Sensory Deprivation
+10x Suspension of Disbelief
+
+Equipment (5)
+3x Karavalanisha Vrana
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Action Modifier (25)
+2x Daring the Dawn
+5x False Resonance
+8x Fata Morgana
+10x Freak Drive
+
+Action Modifier/Combat (10)
+5x Mirror Image
+5x Occlusion
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (5)
+5x Illusions of the Kindred
+
+Event (2)
+2x Narrow Minds

@@ -1,0 +1,50 @@
+Botched Move
+Oppdal, Norway
+March 18th 2023
+2R+F
+8 players
+Jon Ole Grønset
+www.vekn.net/event-calendar/event/10650
+
+-- 1.5VP in final
+
+Deck Name: The Pursuit of Hunger & Happiness
+
+Crypt (12 cards, min=16 max=26 avg=5.33)
+----------------------------------------
+3x Kassandra Tassaki   6 CEL THA obf       prince     Banu Haqim:6
+3x Warmaksan           5 THA cel obf       prince     Banu Haqim:6
+2x Farah Sarroub       7 CEL THA aus obf   prince     Banu Haqim:6
+2x Nayarana            4 THA cel                      Banu Haqim:6
+1x Bijou               3 cel tha                      Banu Haqim:6
+1x Khadija Al-Kindi    6 CEL OBF THA       primogen   Banu Haqim:6
+
+Library (90 cards)
+Master (20; 6 trifle)
+6x Ashur Tablets
+1x Direct Intervention
+6x Haqim's Law: Retribution
+1x Market Square
+2x Priority Contract
+4x Villein
+
+Action (6)
+6x Hunter's Mark
+
+Action Modifier/Combat (5)
+4x Resist Earth's Grasp
+1x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (51)
+2x Blood Fury
+3x Blur
+15x Hunger of Marduk
+3x Lightning Reflexes
+8x Psyche!
+10x Pursuit
+4x Quickness
+4x Rego Motum
+2x Zip Gun

@@ -1,0 +1,83 @@
+Grand Warzone Sevilla
+Sevilla, España
+March 26th 2023
+2R+F
+37 players
+Juan Luis Mejías Luna
+https://www.vekn.net/event-calendar/event/10636
+
+-- 3.5VP in final
+
+Deck Name: Ladillas asesinas
+Author: Javier Naranjo
+
+Crypt (12 cards, min=12 max=23 avg=4.5)
+=======================================
+2x Kassandra Tassaki 6 CEL THA obf prince Banu Haqim:6
+1x Kalinda 6 CEL OBF tha primogen Banu Haqim:6
+2x Warmaksan 5 THA cel obf prince Banu Haqim:6
+1x Asmin Kobane 5 CEL dom obf tha Banu Haqim:6
+1x Omer 5 CEL QUI obf Banu Haqim:6
+1x Greg Mazouni 4 cel obf tha Banu Haqim:6
+1x Mateusz Kazimirski, Biker of Blood 4 CEL qui Banu Haqim:6
+1x Adisa 3 cel obf Banu Haqim:6
+1x Bijou 3 cel tha Banu Haqim:6
+1x Alu 2 obf Banu Haqim:5
+
+Library (90 cards)
+==================
+Master (15; 2 trifle)
+----------------------
+1x Alamut
+1x Anarch Troublemaker
+1x Coven, The
+1x Fortschritt Library
+1x Frontal Assault
+5x Haqim's Law: Retribution
+1x Haven Uncovered
+1x Khabar: Community, The
+1x Not to Be
+1x Pentex(TM) Subversion
+1x Priority Contract
+
+Action (11)
+------------
+9x Embrace, The
+2x Khabar: Glory
+
+Ally (1)
+---------
+1x Ossian
+
+Equipment (1)
+--------------
+1x Heart of Nizchetus
+
+Political Action (6)
+---------------------
+5x Consanguineous Boon
+1x Praxis Seizure: Istanbul
+
+Action Modifier/Combat (12)
+----------------------------
+2x Resist Earth's Grasp
+10x Swallowed by the Night
+
+Combat (40)
+------------
+3x Fake Out
+4x Focus the Blood
+2x Glancing Blow
+6x Lucky Blow
+2x Pulled Fangs
+11x Target Vitals
+4x Taste of Vitae
+6x Weighted Walking Stick
+2x Zip Gun
+
+Event (4)
+----------
+1x Blood Weakens
+1x Narrow Minds
+1x Slow Withering, The
+1x Veil of Darkness

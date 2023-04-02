@@ -1,7 +1,7 @@
 Trophy: Target Haven
 Zagreb, Croatia
 May 21st 2022
-3R + F
+3R+F
 18 players
 Mario Beg
 https://www.vekn.net/event-calendar/event/10162
@@ -10,12 +10,12 @@ https://www.vekn.net/event-calendar/event/10162
 
 Deck Name: Sergei sees you
 
-Crypt (12 cards, min=24 max=40 avg=7.33)
-----------------------------------------
-4x Sergei Voshkov, The Eye   10 ANI AUS OBF POT dom pro           Nosferatu:5
-3x Benedito, a Lanterna       6 POT ani aus obf           baron   Nosferatu:6
-3x Jacques Rouge              6 OBF ani pot pre           baron   Nosferatu:6
-2x Medic, The                 6 OBF POT dem for                   Nosferatu:5
+Crypt (12 cards, min=24, max=40, avg=7.33)
+------------------------------------------
+4x Sergei Voshkov, The Eye  10  ANI AUS OBF POT dom pro         Nosferatu:5
+3x Benedito, a Lanterna      6  POT ani aus obf          baron  Nosferatu:6
+3x Jacques Rouge             6  OBF ani pot pre          baron  Nosferatu:6
+2x Medic, The                6  OBF POT dem for                 Nosferatu:5
 
 Library (90 cards)
 Master (17; 6 trifle)

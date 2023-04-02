@@ -4,30 +4,28 @@ July 24th 2022
 3R+F
 27 players
 Javier Naranjo
-https://www.vekn.net/player-registry/event/10291
+https://www.vekn.net/event-calendar/event/10291
 
--- 4VP in final
+-- 4vp in final
 
 Deck Name: Malk '22
 Author: Karash
 
-Crypt (12 cards, min=17 max=30 avg=6)
-=====================================
-2x Alexander Silverson    8 AUS DOM OBF pre   prince     Malkavian:6
-2x Jason "Son" Newberry   7 AUS DOM OBF pre   primogen   Malkavian:6
-1x Gilbert Duane          7 AUS DOM OBF       baron      Malkavian:6
-1x Andi Liu               6 DOM aus obf pre   prince     Malkavian:6
-1x Donny Kowalczyk        6 AUS cel dom obf   prince     Malkavian:6
-1x Gelasia Fotiou         6 AUS DOM obf pre              Malkavian:6
-1x Colette                5 AUS OBF dom                  Malkavian:6
-1x Evan Klein             5 OBF aus dom pre              Malkavian:6
-1x Sully                  4 aus dom obf                  Malkavian:6
-1x Ashley                 3 dom obf                      Malkavian:6
+Crypt (12 cards, min=17, max=30, avg=6)
+---------------------------------------
+2x Alexander Silverson   8  AUS DOM OBF pre  prince    Malkavian:6
+2x Jason "Son" Newberry  7  AUS DOM OBF pre  primogen  Malkavian:6
+1x Gilbert Duane         7  AUS DOM OBF      baron     Malkavian:6
+1x Andi Liu              6  DOM aus obf pre  prince    Malkavian:6
+1x Donny Kowalczyk       6  AUS cel dom obf  prince    Malkavian:6
+1x Gelasia Fotiou        6  AUS DOM obf pre            Malkavian:6
+1x Colette               5  AUS OBF dom                Malkavian:6
+1x Evan Klein            5  OBF aus dom pre            Malkavian:6
+1x Sully                 4  aus dom obf                Malkavian:6
+1x Ashley                3  dom obf                    Malkavian:6
 
 Library (75 cards)
-==================
 Master (14; 4 trifle)
-----------------------
 1x Asylum Hunting Ground
 1x Barrens, The
 3x Dreams of the Sphinx
@@ -39,20 +37,16 @@ Master (14; 4 trifle)
 1x Wider View
 
 Action (14)
-------------
 14x Govern the Unaligned
 
 Ally (2)
----------
 1x Carlton Van Wyk
 1x Muddled Vampire Hunter
 
 Equipment (2)
---------------
 2x Heart of Nizchetus
 
 Action Modifier (25)
----------------------
 4x Bonding
 5x Conditioning
 2x Elder Impersonation
@@ -62,14 +56,11 @@ Action Modifier (25)
 4x Spying Mission
 
 Action Modifier/Combat (2)
----------------------------
 2x Swallowed by the Night
 
 Reaction (12)
---------------
 8x Deflection
 4x On the Qui Vive
 
 Combat (4)
------------
 4x No Trace

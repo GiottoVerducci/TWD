@@ -1,0 +1,102 @@
+Vidor: Aggressive Tactics
+Vidor (TX), USA
+March 25th 2023
+3R+F
+15 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/10541
+
+-- 2GW8 + 4vp in the final
+
+Deck Name: Fix the Problem at the Source
+Description: Arishat + Barons
+
+Thanks to Darby Keeney for feedback and to Ke Carlton, whose Baalicious Barons won the week after an
+earlier version of this deck didn't. His vote package helped me rebalance mine.
+
+Round 1: Got hammered early by a Platinum Protocol deck. I only managed Arishat and Elisha. After a
+back-oust deal to give me turns to go forward. I grabbed my prey, removed my predator again to head
+into the two-player with 1 VP each, but recurred the same Eat the Rich 3 times to win with 3VPs.
+
+Round 2: The table had to oust the weenie Dominate. My predator was at 4 pool, so I gave him space
+even though it was Lodin and company. Ghede as my prey was very tenuous. I took almost no forward
+actions, then his pool hit 15. I allowed my predator to hit me for 5 pool damage to do 3 to my prey.
+Finished Ghede off with votes on my turn. Headed to the three-player with 3 votes decks.
+Condemnation: Mute gave me the leverage to win with 4VPs.
+
+Round 3: I managed only 1 VP, but it was the one I needed to make to first place, which was critical
+for the seeding in the final. I got to the duel against a pro-Barons vote toolbox, but didn't have
+enough firepower to oust it.
+
+Finals: First seed going in.
+Me: 4 VP ->
+Kelly: weenie Dominate 0 VP ->
+Norm: pro-Barons vote-toolbox 1 VP ->
+Stefan: g4 Kiasyd bleed 0VP ->
+Matt: Gangrel toolbox
+
+The final was done quickly, clocking only 38 minutes. I had Arishat plus Jacques and Atiena in my
+crypt. Definitely the B-team. My hand had one vote, a KRC, but was holding Villein and Giant's
+Blood. My prey dropped Information Highway. Norm and I work damage in tandem, allowing or votes to
+pass. He's crushing his prey and I am doing a bit against mine, but his pool expenditures help.
+Norm survives 6 Dominate bleeds, but starts his turn at 3 pool. A Reckless Agitation finishes his
+prey and puts significant damage on mine. I've been mostly ignoring my predator because he's taking
+tool-up actions and bleeding for 1. My turns comes, I play Reckless Agitation with Arishat, ousting
+my prey and damaging my predator. Top-deck another Reckless and pass it 5 on my new prey. Norm
+starts at 4 pool. Predator brings out another vampire. With the newly influenced Atiena, I oust
+them both on the next turn, taking 4VPs.
+
+Crypt (13 cards, min=24, max=26, avg=6.15)
+------------------------------------------
+5x Arishat        6  DAI OBF PRE      1 vote  Baali:6
+2x Vivian VI      7  PRE PRO obf tha  baron   Follower of Set:6
+2x Atiena         6  CEL obf pot pre  baron   Brujah:6
+2x Elisha Tucker  6  PRE cel obf pro  baron   Follower of Set:6
+2x Jacques Rouge  6  OBF ani pot pre  baron   Nosferatu:6
+
+Library (73 cards)
+Master (14; 8 trifle)
+1x Anarch Railroad
+1x Coven, The
+1x Creepshow Casino
+1x Direct Intervention
+1x Ferraille
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+5x Villein
+2x Wider View
+
+Action (10)
+5x Condemnation: Mute
+2x Entrancement
+3x Unleash Hell's Fury
+
+Ally (1)
+1x Veneficti
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Conservative Agitation
+1x Domain Challenge
+2x Eat the Rich
+6x Kine Resources Contested
+4x Reckless Agitation
+
+Action Modifier (19)
+2x Cloak the Gathering
+2x Faceless Night
+4x Forgotten Labyrinth
+3x Lost in Crowds
+3x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (5)
+3x Bait and Switch
+2x On the Qui Vive
+
+Combat (5)
+5x Majesty

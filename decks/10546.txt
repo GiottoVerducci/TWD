@@ -1,0 +1,75 @@
+6th Great Symposium
+Mikkeli, Finland
+March 25th 2023
+3R+F
+13 players
+Otso Saariluoma
+https://www.vekn.net/event-calendar/event/10546
+
+Deck Name: Feral High Council
+Author: Otso Saariluoma
+Description: An experiment in combining the fun of MMPA with the joys of Stanislava. After the tournament, I might consider cutting one copy of Govern the Unaligned, Sense the Savage Way and Earth Meld each to streamline things a bit, as they were probably the cards I kept discarding most often.
+
+Crypt (12 cards, min=35, max=44, avg=10)
+----------------------------------------
+5x Stanislava      11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+3x Ingrid Rossler   9  ANI FOR PRO dom              prince        Gangrel:2
+1x Genevieve       10  ANI FOR PRO aus dom          priscus       Gangrel antitribu:2
+1x Hartmut Stover  10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+1x Xaviar (ADV)    10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+1x Mark Decker      8  CEL PRO ani for obf pot      prince        Gangrel:3
+
+Library (72 cards)
+Master (30; 9 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Backways
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+1x Papillon
+2x Parthenon, The
+1x Pentex(TM) Subversion
+7x Villein
+1x Wider View
+2x Zillah's Valley
+
+Action (4)
+4x Govern the Unaligned
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+3x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (9)
+4x Earth Control
+1x Enkil Cog
+1x Forced March
+3x Instantaneous Transformation
+
+Action Modifier/Reaction (1)
+1x Form of the Bat
+
+Reaction (7)
+4x Deflection
+1x On the Qui Vive
+2x Sense the Savage Way
+
+Combat (7)
+3x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians

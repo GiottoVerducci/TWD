@@ -4,26 +4,24 @@ April 15th 2023
 3R+F
 30 players
 Jan Liška
-www.vekn.net/event-calendar/event/10676
+https://www.vekn.net/event-calendar/event/10676
 
 Deck Name: Carna Triumphans
 
-Crypt (12 cards, min=16 max=27 avg=5.58)
-========================================
-3x Carna, The Princess Bitch 7 AUS DOM THA primogen Tremere:3
-1x Elena Mendoza Vasquez 6 AUS THA dom obt Tremere antitribu:3
-1x Eugenio Estevez 6 AUS THA dom for Tremere:3
-1x Selena 6 AUS DOM THA Tremere antitribu:3
-1x Valois Sang, The Watcher 6 AUS DOM nec tha Tremere:3
-1x Yasmin the Black 6 AUS THA dom pre Tremere antitribu:3
-1x Aisling Sturbridge 5 AUS THA dom Tremere:2
-1x Hannigan 5 AUS THA dom Tremere antitribu:2
-1x Blythe Candeleria 3 THA aus Tremere:2
-1x Masika St. John 3 THA Tremere:3
+Crypt (12 cards, min=16, max=27, avg=5.58)
+------------------------------------------
+3x Carna, The Princess Witch  7  AUS DOM THA      primogen  Tremere:3
+1x Elena Mendoza Vasquez      6  AUS THA dom obt            Tremere antitribu:3
+1x Eugenio Estevez            6  AUS THA dom for            Tremere:3
+1x Selena                     6  AUS DOM THA                Tremere antitribu:3
+1x Valois Sang, The Watcher   6  AUS DOM nec tha            Tremere:3
+1x Yasmin the Black           6  AUS THA dom pre            Tremere antitribu:3
+1x Aisling Sturbridge         5  AUS THA dom                Tremere:2
+1x Hannigan                   5  AUS THA dom                Tremere antitribu:2
+1x Blythe Candeleria          3  THA aus                    Tremere:2
+1x Masika St. John            3  THA                        Tremere:3
 
 Library (90 cards)
-==================
-
 Master (18; 6 trifle)
 1x Anarch Troublemaker
 1x Arcane Library

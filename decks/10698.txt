@@ -1,0 +1,51 @@
+Liga Chilanga "Jornada 1" (MX)
+Mexico City, Mexico
+April 16th 2023
+3R+F
+13 players
+Edgar David Caudillo Garrido
+https://www.vekn.net/event-calendar/event/10698
+
+Deck Name: better call Arishat
+
+Crypt (12 cards, min=24, max=26, avg=6.17)
+------------------------------------------
+4x Arishat        6  DAI OBF PRE      1 vote  Baali:6
+2x Vivian VI      7  PRE PRO obf tha  baron   Follower of Set:6
+2x Atiena         6  CEL obf pot pre  baron   Brujah:6
+2x Elisha Tucker  6  PRE cel obf pro  baron   Follower of Set:6
+2x Jacques Rouge  6  OBF ani pot pre  baron   Nosferatu:6
+
+Library (67 cards)
+Master (16; 6 trifle)
+1x Anarch Railroad
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Ferraille
+2x Information Highway
+2x Protected Resources
+1x Secure Haven
+5x Villein
+1x Wider View
+
+Action (6)
+3x Condemnation: Mute
+3x Unleash Hell's Fury
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Eat the Rich
+7x Kine Resources Contested
+6x Reckless Agitation
+
+Action Modifier (24)
+3x Awe
+3x Elder Impersonation
+3x Faceless Night
+5x Forgotten Labyrinth
+4x Lost in Crowds
+6x Voter Captivation
+
+Combat (5)
+5x Majesty

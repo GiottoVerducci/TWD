@@ -1,0 +1,65 @@
+CG agora tem BR
+Campina Grande, Brazil
+May 7th 2023
+2R+F
+16 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/10728
+
+Deck Name: Lobos de Winterfell
+
+Crypt (13 cards, min=11, max=26, avg=4.69)
+------------------------------------------
+2x Casey Snyder      6  PRO ani cel for  baron  Gangrel:6
+1x Massimiliano      7  ANI FOR pro      baron  Gangrel:6
+1x Vivian VI         7  PRE PRO obf tha  baron  Follower of Set:6
+1x Kuyén             6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys   5  PRO ani for             Gangrel:6
+1x Mickey Wheeler    5  ani cel for pro         Gangrel:6
+1x Hanna Nokelainen  4  ani for pro             Gangrel:6
+1x Nathan Turner     4  PRO ani                 Gangrel:6
+1x Indira            3  PRO                     Gangrel:6
+1x Joaquín de Cádiz  3  for pro                 Gangrel:6
+1x Lillian           3  ani pro                 Gangrel:5
+1x Ruslan Fedorenko  2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (22; 5 trifle)
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Ecoterrorists
+5x Effective Management
+1x Ennoia's Theater
+1x Giant's Blood
+2x Information Highway
+2x Parthenon, The
+1x Powerbase: Montreal
+5x Villein
+
+Action (13)
+1x Rewilding
+12x Thing
+
+Political Action (5)
+2x Consanguineous Boon
+3x Revolutionary Council
+
+Action Modifier (10)
+1x Daring the Dawn
+4x Earth Control
+5x Propaganda of the Deed
+
+Action Modifier/Reaction (5)
+5x Form of the Bat
+
+Reaction (16)
+7x Bait and Switch
+3x Deep Ecology
+6x Organized Resistance
+
+Combat (19)
+3x Claws of the Dead
+10x Earth Meld
+6x Form of Mist

@@ -1,0 +1,61 @@
+MartCon
+FORUM, Mannheim Neckarstadt, Germany
+April 16th 2005
+3R+F
+13 players
+Sebastian Meurer
+https://www.vekn.net/event-calendar/event/884
+
+Deck Name: Tragic, fast and beautiful (2005)
+Description:
+A variation of the Cel-Gun theme: Relatively strong forward power and combining gun combat with Majesty untap. So the signature move was to shoot, use Majesty as an additional strike in order to untap, ideally taste, then Psyche! to finish the victim off. Good times.
+
+Crypt (12 cards, min=11, max=30, avg=5.67)
+------------------------------------------
+3x Suzanne Kadim                7  CEL PRE aus dom obf            Toreador:3
+2x Greta Kircher                7  AUS CEL PRE obf                Toreador antitribu:2
+2x Emerson Wilkershire III      2  pre                            Toreador:3
+1x Joaquin Murietta             9  AUS CEL obf pre qui            Toreador:3
+1x Ira Rivers                   7  AUS CEL ani pre      prince    Toreador:3
+1x Antoinette, She Who Watches  6  AUS PRE cel obf      primogen  Toreador:3
+1x Sheila Mezarin               6  AUS PRE cel for                Toreador antitribu:2
+1x Antoinette DuChamp           1  cel pre                        Caitiff:2
+
+Library (90 cards)
+Master (15)
+2x Art Museum
+4x Blood Doll
+1x Celerity
+3x Dreams of the Sphinx
+1x Heidelberg Castle, Germany
+1x Presence
+1x Slave Auction
+2x Society Hunting Ground
+
+Action (5)
+1x Distraction
+3x Entrancement
+1x Nose of the Hound
+
+Equipment (6)
+6x .44 Magnum
+
+Action Modifier (7)
+7x Aire of Elation
+
+Reaction (18)
+2x Forced Awakening
+3x My Enemy's Enemy
+3x Quicken Sight
+5x Telepathic Misdirection
+5x Wake with Evening's Freshness
+
+Combat (39)
+5x Blur
+6x Concealed Weapon
+7x Majesty
+5x Psyche!
+5x Pursuit
+3x Side Strike
+1x Staredown
+7x Taste of Vitae

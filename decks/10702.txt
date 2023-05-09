@@ -1,0 +1,66 @@
+Hunger of Marduk 2023
+Online
+April 2nd 2023
+2R+F
+14 players
+Sebastian Meurer
+https://www.vekn.net/event-calendar/event/10702
+
+-- GW4 + 2vp in final
+
+Deck Name: Appolonius ftw
+Description:
+Appolonius is kinda cool – I think he really captures the 90s World of Darkness urban gothic punk thing. I have thus been playing around with the advanced version since it came out. With the newish Brujah cards he can really rule.
+Once the setup is complete, this is a truly terrifying rush-combat deck that can actually oust and also comes with a quite sturdy block defense (even some deflect). However, until the setup is complete, the deck is quite vulnerable. Apart from the dreams there is no accelleration, so it takes time to get Appolonius out. Then, he absolutely must be advanced and ideally also get Preternatural Strength or Depravity. Toss in a Powerbase L.A. and you’re ready to go.
+This particular decklist is the result of a somewhat incomplete revision. I mostly played the deck with 85 card including 9 Ashurs, because once the Ashurs optimise your library, the deck really takes off. However, I was afraid of multiple-master Ashur decks in the tournament, which will always be faster than me. Also, I felt that I needed to improve my initial defence, so I reduced the Ashurs and included more block cards & Villeins. Ironically, I saw only one deck playing some Ashurs and no triple was ever completed on the tables I played.
+
+
+Crypt (13 cards, min=4, max=40, avg=5.77)
+-----------------------------------------
+4x Appolonius (ADV)                 10  CEL FOR POT PRE dom            Brujah:1
+1x Appolonius                       10  CEL PRE for pot      primogen  Brujah:1
+4x Anarch Convert                    1  -none-                         Caitiff:ANY
+2x Jimmy Dunn                        4  CEL POT for                    Pander:2
+1x Richter, The Templar of Du Mont   7  CEL POT for pre                Brujah antitribu:2
+1x Jack                              6  cel for pot san                Blood Brother:2
+
+Library (89 cards)
+Master (24; 6 trifle)
+1x Anarch Free Press, The
+1x Archon Investigation
+6x Ashur Tablets
+1x Carfax Abbey
+1x Depravity
+2x Dreams of the Sphinx
+1x Fame
+1x Flames of Insurrection
+1x Monster
+1x Parthenon, The
+2x Powerbase: Los Angeles
+5x Villein
+1x Wider View
+
+Action (12)
+6x Legacy
+3x Line Brawl
+3x Preternatural Strength
+
+Action Modifier (5)
+1x Enkil Cog
+4x Forced March
+
+Reaction (15)
+4x Bait and Switch
+2x Delaying Tactics
+6x Organized Resistance
+3x Protection Racket
+
+Combat (33)
+2x Bollix
+3x Disarm
+9x Diversion
+2x Dust Up
+7x Immortal Grapple
+3x Lam Into
+4x Taste of Vitae
+3x Thrown Sewer Lid

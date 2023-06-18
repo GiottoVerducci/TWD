@@ -1,0 +1,64 @@
+Sexto Dia
+Fortaleza (CE), Brazil
+May 21st 2023
+2R+F
+19 players
+Nilceu Galvão
+https://www.vekn.net/event-calendar/event/10610
+
+Deck Name: Tremere V5 modificado
+
+Crypt (12 cards, min=7, max=27, avg=4.5)
+----------------------------------------
+3x Anarch Convert    1  -none-                         Caitiff:ANY
+2x Rutor             7  AUS DOM THA pro vic            Tremere:5
+2x Trevon Parker     6  AUS DOM THA                    Tremere:6
+1x Ayelech           7  AUS DOM THA          prince    Tremere:6
+1x Chrysanthemum     5  AUS THA dom          primogen  Tremere:6
+1x Patrik Söderberg  5  AUS dom for tha                Tremere:6
+1x Ayse Dhanial      4  aus dom tha                    Tremere:6
+1x Nassir            4  THA aus                        Tremere:6
+
+Library (90 cards)
+Master (13; 6 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+1x Dreams of the Sphinx
+1x Misdirection
+1x Pentex(TM) Subversion
+4x Vessel
+2x Villein
+1x Wasserschloss Anif, Austria
+
+Action (14)
+11x Govern the Unaligned
+3x Magic of the Smith
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ponticulus
+
+Equipment (6)
+2x .44 Magnum
+1x Ankara Citadel, Turkey, The
+1x Bowl of Convergence
+1x IR Goggles
+1x Ivory Bow
+
+Action Modifier (13)
+4x Bonding
+9x Mirror Walk
+
+Reaction (29)
+5x Deflection
+3x Enhanced Senses
+6x Eyes of Argus
+3x My Enemy's Enemy
+5x On the Qui Vive
+3x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (13)
+7x Rego Motum
+6x Wind Dance

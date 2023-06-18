@@ -1,0 +1,80 @@
+Bobby Lemon Bedlam
+Liverpool, United Kingdom
+May 21st 2023
+3R+F
+15 players
+Tero Aalto
+https://www.vekn.net/event-calendar/event/10628
+
+-- 1GW6 + 3vp in final
+
+Grand Prix Liverpool was a bust personally, but the day after made up for it by becoming my second GP side event win in a row (after https://www.vekn.net/forum/event-reports-and-twd/80273-twd-dawn-operation-2022-10-13). Another interesting second was that Małgorzata was successful again so soon after her long-awaited debut win.
+
+Only two small changes to the deck since https://www.vekn.net/forum/event-reports-and-twd/80442-twd-shell-break-2023-2023-04-10, but both of them ones I'm very happy with. The first one was the hunting ground. As a late-game deck, having a reliable blood supply is essential. The other was switching The Sargon Fragment for Bowl of Convergence. The Ffagment always seemed like a win-more card and rarely saw play, whereas Bowl either makes Lord a fearsome blocker or allows Małgo to work alongside him against breed decks etc.
+
+In a three-round tournament with three tables, many of the opposing decks became very familiar. One of them was a Brujah weenie voter whose predator I was both in the first round and the final and against whom the aforementioned permanent +1 intercept came very handy indeed. The Brujahs came into the final as the first seed but didn't have much of a better place to be as as the second seed, I had myself placed myself opposite the Gangrel barons that I had already faced twice in the preliminary rounds (won once, tied the other) and that wasn't an ideal neighbor for each of us.
+
+The final table sat down in the following order: Brujah weenie voter -> Kiasyd/Lasombra SB -> Gangrel barons -> Snake Girls -> Małgorzata (aka myself). This was probably the easiest choice of seating I've ever had (when having a choice), and not only for being initially separated from the Gangrels but also because Girls typically bleed at a rate my deck can handle, unlike the more aggressive shadow faeries. My first two priorities in the game were trying to prevent Nakthorheb from getting Enkil Cog and to quickly bring out Lord Tremere to block the Brujahs' bloat actions.
+
+Due to bleeds from both their predator and grand predator, the Girls fell quickly, which didn't particularly reduce the pressure on me but forced me to start thinking about stealth to get actions done. The Brujahs had a vote lock, enabled by the Gangrels whose plan was to deal with the by blocking later on, and a ton of minions. The Kiasyds were being worn down by both the Brujah mass and being blocked by the Gangrels, at which point they started working together with the Brujahs.
+
+To me, it looked like the Gangrels would win easily, having seen firsthand in two earlier games how good they are at blocking and bouncing. I thought my only path was to get one oust and win by seed, but then suddenly, the Gangrels ran out of tricks and fell. Suddenly, it started looking a lot like my game. I'd only have to survive the obtenebrated bleeds long enough to get around to a few big votes and bleeds, but I would have to work fast. I started going for the oust immediately, hoping to get a few nice bounces along the way to facilitate my work.
+
+Sure enough, I got my point in one round, and only two players were left. I had earlier equipped Bowl on Małgo in order to have two reliable blockers against the Brujahs, but now it wasn't ideal anymore. In retrospect, I probably should have considered spending one action to re-equip it on Lord to maximise intercept. With a few successful blocks, I survived a turn, after which it was easy to eliminate my opponent from 11 pool with Reins+bleed+bleed.
+
+Not much new general knowledge to take home from this tournament, other than that this is a solid deck that fits the current European meta better than I'd have thought. For some reason, I kept forgetting to use Monastery of Shadows at critical times, whereas I didn't forget a single Heart trigger. Go figure. As per future improvements, I'd really like to add a third Information Highway, as it's simply so good in this deck, but I have no idea what to cut. Murmur will probably have to go either way as its bounce function is limited, and I have never played it as +bleed.
+
+- - -
+
+Deck Name: The Fanchon Show: Floating Torso
+
+Crypt (12 cards, min=36, max=44, avg=10.17)
+-------------------------------------------
+5x Malgorzata         9  AUS DOM THA VIC pre      priscus       Tremere antitribu:4
+4x Lord Tremere      11  ANI AUS DOM THA VIC obe                Tremere:5
+3x Mistress Fanchon  11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+
+Library (77 cards)
+Master (15; 6 trifle)
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+1x Perfectionist
+1x University Hunting Ground
+6x Villein
+
+Action (2)
+2x Magic of the Smith
+
+Equipment (3)
+1x Bowl of Convergence
+2x Heart of Nizchetus
+
+Political Action (9)
+2x Anarchist Uprising
+1x Ancilla Empowerment
+4x Banishment
+1x Kine Resources Contested
+1x Reins of Power
+
+Action Modifier (22)
+6x Changeling
+4x Conditioning
+1x Foreshadowing Destruction
+7x Mirror Walk
+4x Seduction
+
+Action Modifier/Combat (2)
+2x Plasmic Form
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (23)
+5x Deflection
+7x Eyes of Argus
+7x Obedience
+2x On the Qui Vive
+1x Redirection
+1x Telepathic Misdirection

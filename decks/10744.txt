@@ -1,0 +1,64 @@
+Road to Vitrolles
+Paris, France
+May 27th 2023
+3R+F
+18 players
+Serge Cirri
+https://www.vekn.net/event-calendar/event/10744
+
+Deck Name: Fists of the Giovanni
+Description: A version of a Weenie Potence based on the G5-G6 vamps. I had tried a version with Computer Hacking and tried for this tournament to replace them with permableed and 1 Heidelberg. I also addressed their blood problem, and included Carver’s but also Coven, after some hesitation: bad idea, should be ditched. Went down from 2 Frontal to just 1, but maybe it should be none, it’s always a risky bet.
+
+Crypt (12 cards, min=8, max=18, avg=3.33)
+-----------------------------------------
+2x Elen Kamjian        4  CEL POT          Brujah:6
+2x Bez Dunsirn         2  POT              Giovanni:6
+1x Gianmaria Giovanni  5  POT dom nec obt  Giovanni:5
+1x Salvatore Giovanni  5  NEC POT dom      Giovanni:6
+1x Aunt Linda          4  POT obf          Nosferatu:6
+1x Domenic Giovanni    4  POT nec          Giovanni:6
+1x Volo                4  POT pro san      Blood Brother:5
+1x Eric Milliner       2  pot              Giovanni:5
+1x Nichodemus          2  pot              Nosferatu:5
+1x Rayne               2  pot              Brujah:6
+
+Library (90 cards)
+Master (16; 3 trifle)
+2x Archon Investigation
+1x Carver's Meat Packing and Storage
+1x Coven, The
+1x Direct Intervention
+1x Dis Pater
+2x Fame
+1x Frontal Assault
+2x Haven Uncovered
+1x Heidelberg Castle, Germany
+2x Life in the City
+1x Morgue Hunting Ground
+1x Powerbase: Montreal
+
+Action (13)
+2x Ambush
+9x Bum's Rush
+2x Harass
+
+Equipment (3)
+3x Camera Phone
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Combat (55)
+2x Disarm
+6x Fake Out
+10x Immortal Grapple
+8x Roundhouse
+7x Slam
+3x Target Vitals
+6x Taste of Vitae
+3x Thrown Sewer Lid
+10x Torn Signpost
+
+Event (1)
+1x Narrow Minds

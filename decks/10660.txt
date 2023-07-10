@@ -1,0 +1,108 @@
+WoN event 4 - Dortmunder: Columbus
+Columbus OH, USA
+June 20th, 2023
+2R+F
+28 players
+Darby Keeney
+www.vekn.net/event-calendar/event/10660
+
+Deck Name: The Shape of Things to Come (MesoAmerican Wing Build)
+Created by: Darby Keeney
+Collaboration/Consultation from: Karl Schaefer
+
+Description: A modification of "Flay the Game" (www.vekn.fr/decks/twd.htm#2019rmdc). This is a proof of concept for a module that many are likely to bolt on to V5 Tzimisce. It also scratches the itch of my obsession with British Museum.
+
+-- 1GW+4, 2VP in finals, win on seeding
+
+Overview: I played most of the first round with an open hand of 9 cards. Having 5-7 stealth and 2-3 combat ends visible at all times was mildly disheartening for the 3 ally-based decks at the table so I didn't bother to remove it.
+
+The second round was less favorable, I barely missed my prey who was tossing 4 point Kindred Spirits in my direction until his prey over-transferred....almost like he didn't consider the possibility of 7 bleed coming his way. I still squeak into the final on a roll-off.
+
+Final Table:
+Jamie: Laz bleed/block (2 VP)
+Matt: Banu Haqium irresponsible bleed
+Paul: D'erlette Nephanus Tablets
+Darby: Xipe BM Manse (2 VP)
+Logan: unnamed Protocol bleed (1 VP)
+
+The Nephandus deck stalled the Banu and Jamie gets back-to-back ousts. He's sitting as 5th seed so it's either engineer his demise or try to blast out 3 VP in a hurry. That first option seemed easier, and if the unnamed misfires, that other option remains viable. But the plan works.
+
+Heads-up with the unnamed was a near thing, compounded by a Weißbier-inspired error on my part. Still managed to barely get the heads-up oust for the 2 VP win on seeding.
+
+Crypt (12 cards, min=23 max=36 avg=7.58)
+5x Xipe Totec 9 ANI AUS PRO VIC archbishop Tzimisce:5
+2x Darvag, The Butcher of Rus 8 ANI VIC aus pot pro Tzimisce:4
+2x Stephen Bateson 6 ani aus tha vic Tzimisce:5
+1x Dr. Morrow, The Skindoctor 5 AUS VIC for Tzimisce:5
+1x Duality 6 AUS VIC ani Tzimisce:4
+1x Ludmijla Rakoczy 7 ANI AUS VIC bishop Tzimisce:5
+
+-- The crypt screws with the meta. Steal allies, burn locations, profit.
+-- Bateson's disciplines blow but standing +1 stealth is too good to pass up.
+
+Library (78 cards)
+Master (24; 7 trifles)
+5x British Museum, London, The
+1x Coven, The
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Grooming the Protégé -- one of the few decks where this works
+2x Information Highway
+1x Jake Washington
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Perfectionist - could be a Direct Intervention?
+5x Villein
+1x Wider View
+
+-- The library is 50% to hit a Museum within the first 10 cards and 67% within the first 15 cards, so yes there's math behind these ratios.
+-- It seems like a lot of Masters, but realistically only about 10 non-trifles get played in a normal game. The rest are buried by the Heart or discarded.
+
+Action (8)
+1x Abbot
+2x Deep Song -- could be Fiendish if the Femur gets removed, but the lock effect is good.
+3x Fiendish Tongue
+2x Under Siege -- a little harder to pull off in this build, but still worth duplication.
+
+-- Reduced transient bleed actions are easily offset by 7 copies of Living Manse.
+
+Ally (1)
+1x War Ghoul -- upgrade something randomly stolen.
+
+Equipment (15)
+1x Blood Tears of Kephran
+1x Bowl of Convergence
+2x Cooler -- finances Xipe's special
+1x Femur of Toomler -- Weirding Stone or Sargon Fragment would be better.
+2x Heart of Nizchetus
+7x Living Manse
+1x Palatial Estate
+
+-- Prerange combat ends was instrumental against Laz in Round 1 and the final.
+
+Action Modifier (9)
+4x Changeling
+2x Earth Control
+3x Mind of the Wilds
+
+Action Modifier/Combat (3)
+2x Plasmic Form
+1x Rapid Change
+
+-- Both of these are underplayed stealth/defensive combo cards.
+
+Action Modifier/Reaction (2)
+2x Form of the Bat -- another reason the Femur isn't helpful.
+
+Reaction (11)
+3x Eyes of Argus
+1x My Enemy's Enemy
+2x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (3)
+3x Form of Mist
+
+Event (2)
+1x NRA PAC -- multiple unlocks with standing combat ends can't be bad.
+1x Scourge of the Enochians -- Aranthebes might be better?

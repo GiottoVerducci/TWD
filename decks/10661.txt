@@ -1,0 +1,114 @@
+WoN event 5 - Elder Library: Columbus
+Columbus (OH), USA
+June 21st, 2023
+2R+F
+22 players
+Karl Schaefer
+www.vekn.net/event-calendar/event/10661
+
+-- 2GW7 + 2.5vp in the final
+
+Deck Name: Hell Rising (Homework 2021)
+Description: unnamed + The Rising
+WoN 2021 Homework Assignment: Darby Keeney, Kelly Schultz, and I discussed how to
+make an unnamed plus The Rising module work. I played this last year at Origins and had
+2 GWs, but a bad final. This year with a slightly tweaked deck, I managed 2 GWs in the
+prelims and another in the finals.
+
+Me: 2.5 VP ->
+Andrew: Tremere toolbox 0 VP ->
+Marshal: Valkyrie bleed 0 VP ->
+Darby: G6 Gangrel wall 0.5 VP ->
+Ben: my Angelique Shamblers + Legionnaire deck 0.5 VP
+
+My opening hand was strong: Enkil Cog, Thirst, The Rising, stealth, and Instantaneous. I
+drew into Mylan, Homunculus, and Blithe Acceptance early. I managed to land my first
+bleed and drop the Enkil Cog only to have Ben DI the Cog! With my own deck! Then, he
+bled me with Trochomancy to remove the possibility that I would recur the Cog into hand
+with Tablets. The game turn real slow for me as Ben managed to get some Shambling
+Hordes and I had to fight with Tremere intercept to get even bleeds of one through (which
+were almost always bounced).
+
+No one drops a second event; The Rising is looking less good in my hand as time moves
+on. I finally get the chance to drop it and another Cog shortly thereafter. After about 75
+minutes of trying to cycle cards, we're back in "go" mode with a fully operational
+unnamed. It takes a bit, but I get a lunge in at around 20 minutes left to get my prey. The
+following turn, I get Marshal. I manage to pop the Tablets and recur my Pentex, Elder
+Impersonation, Psychomachia, and stealth, taking the Pentex to hand. I was hoping to
+bleed Darby on his turn after my next one, as I needed to filter out some useless cards.
+We never got there unfortunately. TBH, the DI of the Cog probably gave me this game by
+making it much slower for me. If I encounter Darby earlier, I probably run into problems
+with the wall.
+
+The Rising played a key role in the final as I prevented several Villeins from hitting the
+table (including two from my prey; they were in hand when I ousted) and removed Darby's
+pool gain engine.
+
+
+Crypt (12 cards, min=11 max=40 avg=6.58)
+6x unnamed, The 10 CEL DAI OBF PRE PRO Baali:6
+1x Melech 4 OBF pro Ministry:6
+1x Skulk 4 OBF ani Nosferatu antitribu:5
+1x Adisa 3 cel obf Banu Haqim:6
+1x Ashley 3 dom obf Malkavian:6
+1x Lubomira Hradok 3 OBF Nosferatu antitribu:5
+1x New Blood 2 san Blood Brother:ANY
+
+Library (66 cards)
+Master (13; 2 trifle)
+4x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+1x Fortschritt Library
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Secure Haven
+1x Wider View
+
+Action (8)
+1x Aranthebes, The Immortal
+2x Blithe Acceptance
+1x Contagion
+1x Entrancement
+3x Unleash Hell's Fury
+
+Ally (5)
+1x Carlton Van Wyk
+2x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Equipment (5)
+2x Camera Phone
+1x Heart of Nizchetus
+1x Learjet
+1x Signet of King Saul, The
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (20)
+2x Elder Impersonation
+3x Enkil Cog
+3x Faceless Night
+2x I am Legion
+7x Instantaneous Transformation
+2x Lost in Crowds
+1x Psychomachia
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Sense the Sin
+
+Combat (4)
+4x Form of Mist
+
+Event (5)
+1x Break the Code
+1x Nightmares upon Nightmares
+2x Rising, The
+1x Thirst

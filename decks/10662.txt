@@ -1,0 +1,94 @@
+WoN event 6 - Helles Real: Columbus
+Columbus (OH), USA
+June 21, 2023
+2R+F
+28 players
+winner: Guy Russo
+www.vekn.net/event-calendar/event/10662
+
+Deck Name: Obf No Guns
+Author: Guy Russo
+Description:
+
+Crypt (12 cards; Capacity min=2 max=5 avg=3.666667)
+==================
+1x Florentina Lengauer 4 aus OBF Malkavian:4
+1x Frank Litzpar 5 ani for pot OBF Nosferatu antitribu:4
+1x Jackson Asher 2 dom Ventrue:4
+1x Keith Moody 3 DOM Tremere antitribu:4
+1x Lubomira Hradok 3 OBF Nosferatu antitribu:5
+1x Old Neddacka 2 obf Nosferatu antitribu:4
+1x Raphael Catarari 5 aus pot tha OBF PRE Nosferatu antitribu:4
+1x Robin Withers 4 dom obf pre Ventrue:4
+1x Skidmark 5 aus pot FOR OBF Nosferatu antitribu:4
+1x Skulk 4 ani OBF Nosferatu antitribu:5
+1x Black Lotus 5 aus obf ser DOM Follower of Set:4
+1x Dr. Solomon Grey 2 dom pre Caitiff:5
+
+Library: 90 cards
+
+Master (13 cards)
+==================
+1x Information Network
+1x Jake Washington
+1x KRCG News Radio
+1x Archon Investigation
+1x Rumor Mill, Tabloid Newspaper, The
+2x Special Report
+1x Sudden Reversal
+2x Vessel
+1x WMRH Talk Radio
+1x Blood Doll
+1x Direct Intervention
+
+Action (23 cards)
+==================
+10x Inside Dirt
+1x Aranthebes, The Immortal
+2x Night Moves
+10x Computer Hacking
+
+Action Modifier (25 cards)
+==================
+1x Elder Impersonation
+3x Faceless Night
+10x Lost in Crowds
+1x Spying Mission
+3x Veil the Legions
+3x Cloak the Gathering
+3x Conditioning
+1x Domain of Evernight
+
+Action Modifier/Combat (3 cards)
+==================
+3x Swallowed by the Night
+
+Action Modifier/Reaction (1 cards)
+==================
+1x Gift of Sleep
+
+Combat (4 cards)
+==================
+4x Dodge
+
+Ally (3 cards)
+==================
+1x Hellhound
+1x Repo Man
+1x Carlton Van Wyk
+
+Equipment (5 cards)
+==================
+1x Ivory Bow
+4x Leather Jacket
+
+Reaction (12 cards)
+==================
+2x Legwork
+2x On the Qui Vive
+2x Wake with Evening's Freshness
+6x Deflection
+
+Event (1 cards)
+==================
+1x Uncoiling, The

@@ -1,0 +1,123 @@
+Origins - Friday 2
+Columbus (OH), USA
+June 23rd, 2023
+2R+F
+32 players
+Karl Schaefer
+www.vekn.net/event-calendar/event/10733
+
+-- 2GW7 + 2 vps in the final, won on seeding
+
+Deck Name: Death Star (Setite Version)
+Description: Another of my Death Star variants based on Matt Morgan's design.
+
+The deck behaved differently in each game, but did exactly what I needed each time.
+Game 1 saw early Waters and a fast RevCo. Being in a 4-player with weenie DEM cross-
+table, I had no pressure, which allowed me to setup. Once my predator was ousted, I was
+able to oust my prey with a RevCo and call a Con Boon. I had enough pool to withstand
+the onslaught and my other RevCo for the game win. Game 2 was much different. I had a
+votey prey and had to manage that carefully. He must have felt confident, since I was
+offering little pressure other than bleeds for 1. He dropped to 9 pool and I had a Reckless
+Ag and Eat the Rich for an oust. The following turn I offered a heads-up deal with my
+cross-table for his single vote and ousted his predator while damaging his prey. I allowed
+him to oust his prey without interference and proceeded to oust him the turn after. The
+deal wasn't necessary given that my predator lacked any vote cards to sway the outcome
+of the vote, but it was the safest move.
+
+Bill: weenie DEM 1 VP ->
+Brad: vote something (ousted too fast to know) 0 VP ->
+Norm: g6 Nos w/Protected District 0 VP ->
+Me: 2 VP ->
+Kelly: Malk 2020 2 VP
+
+As first seed, I decided to sit as predator to the doubled-up bleed decks. I hoped that Bill
+would take one and then be ousted, giving me the ability to win by being the last-man
+standing. Things almost didn't go as planned. Bill blew Brad off the table in 17 minutes.
+Norm proved harder to oust with his reduction and I called a Con Boon backwards to help him,
+wanting it to pass by only 2, so I could gain pool, but not blood, as Qufur had self-
+Tempted. That 2 pool proved to be the difference. Bill missed his second oust by 2 pool,
+but Kelly was faster than I had expected. He bled through both Bill and Norm in a single
+turn. The Reckless Ag I had been holding was now useless. Fortunately, I had just drawn
+my first master of the game, The Barrens, and discarded that Reckless. I saw my KRC
+voted down early and never called another damaging vote. I was basically a horde bleed
+deck. At 20 pool going into the heads up and Kelly was at 22. I bleed a bunch and made
+Saatet-Ta, who immediately boosted the next bleed. I see both Spying Missions, which I
+uses on Qufur and Count Ormonde. Kelly bleeds me down to 9, stymied somewhat by my
+desire to not block. I fire off more bleeds the next turn and finish with a Con Boon to end
+at 16. He gets me down to 5, but had less pool than I have minions, so game over. A
+Tempted Waters with 1 blood and Qufur with 1 blood gave me free extra actions for
+moving through the deck, like calling Con Boon, etc. I was lucky to see all of my Boons,
+which made up for not seeing my first master until the heads-up.
+
+CrimethInc. was great today. Saw it in round 1 and the final and was able to get it into
+play both times. The extra unlocks even for a pool were well worth it when I needed them.
+It's worth the card slot, being an easy discard or a powerful effect. On top of that, self-
+Temptations, and Firebrands, this deck can make lots of actions. Knowing what to do
+with those actions is critical.
+
+
+Crypt (12 cards, min=4 max=25 avg=3.67)
+1x Qufur am-Heru 7 OBF PRE SER cel tha Ministry:2
+1x Ezekiel, Lord of Montreal 6 PRE SER obf pot Ministry:3
+1x Hesha Ruhadze 6 SER ani obf pre Ministry:2
+1x Samat Ramal-Ra, Archon 6 OBF pre ser tha Ministry:2
+1x Count Ormonde 5 OBF dom pre ser Ministry:2
+1x Sir Marriot D'Urban 5 PRE aus obf ser Ministry:2
+1x Elizabeth Dimitros 4 SER obf Ministry:3
+5x Anarch Convert 1 Caitiff:ANY
+
+Library (78 cards)
+Master (16; 4 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+1x Barrens, The
+2x Blood Doll
+1x Coven, The
+1x Fear of Mekhet
+1x Ferraille
+1x Garibaldi-Meucci Museum
+3x Obfuscate
+1x Opium Den
+3x Villein
+
+Action (19)
+2x Entrancement
+1x Fee Stake: Boston
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: New York
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+4x Temptation
+7x Waters of Duat
+
+Ally (1)
+1x Saatet-ta
+
+Political Action (15)
+4x Consanguineous Boon
+1x Domain Challenge
+2x Eat the Rich
+1x Exclusion Principle
+2x Firebrand
+1x Kine Resources Contested
+2x Reckless Agitation
+2x Revolutionary Council
+
+Action Modifier (23)
+2x Bewitching Oration
+1x CrimethInc.
+2x Cryptic Rider
+3x Elder Impersonation
+3x Faceless Night
+2x Lost in Crowds
+2x Memory Rift
+3x Perfect Paragon
+2x Spying Mission
+3x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Event (2)
+2x Uncoiling, The

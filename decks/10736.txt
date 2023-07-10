@@ -1,0 +1,67 @@
+Command Performance: Columbus
+Columbus (OH), USA
+June 19th, 2023
+2R+F
+24 players
+Erik Albenze
+www.vekn.net/event-calendar/event/10736
+
+-- 2GW6 + 3vp in the final
+
+Deck Name: Uncreative Brujah combat
+Description: Combat early, combat late
+
+Crypt (12 cards; Capacity min=3 max=8 avg=5.833333)
+==================
+2x Theo Bell 8 aus dom CEL POT PRE Brujah:6
+3x Aline Gadeke 7 cel POT PRE Brujah:6
+1x Chun Hei 7 CEL POT PRE Brujah:6
+1x Valeriya Zinovieva 7 cel pre pro POT Brujah:6
+2x Atiena 6 pot pre obf CEL Brujah:6
+2x Elen Kamjian 4 CEL POT Brujah:6
+1x Ariane 3 cel pot pre Brujah:5
+
+Library: 90 cards
+
+Master (14 cards)
+==================
+1x Fame
+1x Anarch Free Press, The
+1x Fragment of the Book of Nod
+2x Haven Uncovered
+1x Powerbase: Montreal
+1x Rumor Mill, Tabloid Newspaper, The
+1x Tension in the Ranks
+1x Warzone Hunting Ground
+4x Blood Doll
+1x Carfax Abbey
+
+Action (16 cards)
+==================
+8x Enchant Kindred
+8x Line Brawl
+
+Action Modifier (3 cards)
+==================
+3x Monkey Wrench
+
+Combat (43 cards)
+==================
+2x Flash
+7x Immortal Grapple
+6x Pursuit
+6x Quickness
+6x Taste of Vitae
+8x Torn Signpost
+3x Roundhouse
+2x Blur
+3x Dust Up
+
+Ally (2 cards)
+==================
+2x 47th Street Royals
+
+Reaction (12 cards)
+==================
+4x Bait and Switch
+8x Organized Resistance

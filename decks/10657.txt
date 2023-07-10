@@ -1,0 +1,76 @@
+WoN event 1 - Creation Rites: Newark
+Newark (OH), USA
+June 18h, 2023
+2R+F
+25 players
+winner: Kelly Schultz
+www.vekn.net/event-calendar/event/10657
+
+-- 2GW 7VP, + 3VP in finals
+
+Deck Name: Lord Darby's Tremere
+
+Crypt (12 cards, min=19 max=44 avg=8.08)
+4x Lord Tremere 11 ANI AUS DOM THA VIC obe Tremere:5
+1x Abraham DuSable 8 AUS DOM FOR THA Tremere:6
+1x Ayelech 7 AUS DOM THA prince Tremere:6
+1x Claus Wegener 5 DOM aus for tha Tremere:5
+1x Gerald Windham 9 AUS DOM FOR THA Tremere:5
+1x Karl Schrekt 10 AUS DOM FOR PRE THA 2 votes Tremere:6
+1x Monica Chang 3 dom tha Tremere:5
+1x Sri Sansa 5 DOM aus tha Tremere:6
+1x Trevon Parker 6 AUS DOM THA Tremere:6
+
+Library (90 cards)
+Master (18; 5 trifle)
+2x Academic Hunting Ground
+1x Arcane Library
+3x Blood Doll
+1x Chantry
+1x Coven, The
+1x Direct Intervention
+1x Giant's Blood
+1x Metro Underground
+2x Pentex(TM) Subversion
+1x Powerbase: Montreal
+3x Villein
+1x Wider View
+
+Action (20)
+1x Biothaumaturgic Experiment
+2x Dominate Kine
+5x Govern the Unaligned
+2x Magic of the Smith
+1x Revelations
+4x Rutor's Hand
+5x Scouting Mission
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Action Modifier (19)
+3x Bonding
+2x Command of the Beast
+4x Conditioning
+1x Enkil Cog
+6x Mirror Walk
+3x Seduction
+
+Action Modifier/Reaction (4)
+4x Murmur of the False Will
+
+Reaction (25)
+6x Deflection
+1x Eagle's Sight
+1x Eluding the Arms of Morpheus
+1x Enhanced Senses
+4x Eyes of Argus
+1x My Enemy's Enemy
+7x Obedience
+2x On the Qui Vive
+2x Telepathic Misdirection

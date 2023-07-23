@@ -1,18 +1,17 @@
 WoN event 4 - Dortmunder: Columbus
-Columbus OH, USA
-June 20th, 2023
+Columbus (OH), USA
+June 20th 2023
 2R+F
 28 players
 Darby Keeney
-www.vekn.net/event-calendar/event/10660
+https://www.vekn.net/event-calendar/event/10660
 
 Deck Name: The Shape of Things to Come (MesoAmerican Wing Build)
-Created by: Darby Keeney
 Collaboration/Consultation from: Karl Schaefer
 
 Description: A modification of "Flay the Game" (www.vekn.fr/decks/twd.htm#2019rmdc). This is a proof of concept for a module that many are likely to bolt on to V5 Tzimisce. It also scratches the itch of my obsession with British Museum.
 
--- 1GW+4, 2VP in finals, win on seeding
+-- 1GW4 + 2VP in finals, win on seeding
 
 Overview: I played most of the first round with an open hand of 9 cards. Having 5-7 stealth and 2-3 combat ends visible at all times was mildly disheartening for the 3 ally-based decks at the table so I didn't bother to remove it.
 
@@ -29,19 +28,20 @@ The Nephandus deck stalled the Banu and Jamie gets back-to-back ousts. He's sitt
 
 Heads-up with the unnamed was a near thing, compounded by a Weißbier-inspired error on my part. Still managed to barely get the heads-up oust for the 2 VP win on seeding.
 
-Crypt (12 cards, min=23 max=36 avg=7.58)
-5x Xipe Totec 9 ANI AUS PRO VIC archbishop Tzimisce:5
-2x Darvag, The Butcher of Rus 8 ANI VIC aus pot pro Tzimisce:4
-2x Stephen Bateson 6 ani aus tha vic Tzimisce:5
-1x Dr. Morrow, The Skindoctor 5 AUS VIC for Tzimisce:5
-1x Duality 6 AUS VIC ani Tzimisce:4
-1x Ludmijla Rakoczy 7 ANI AUS VIC bishop Tzimisce:5
+Crypt (12 cards, min=23, max=36, avg=7.58)
+------------------------------------------
+5x Xipe Totec                  9  ANI AUS PRO VIC      archbishop  Tzimisce:5
+2x Darvag, The Butcher of Rus  8  ANI VIC aus pot pro              Tzimisce:4
+2x Stephen Bateson             6  ani aus tha vic                  Tzimisce:5
+1x Ludmijla Rakoczy            7  ANI AUS VIC          bishop      Tzimisce:5
+1x Duality                     6  AUS VIC ani                      Tzimisce:4
+1x Dr. Morrow, The Skindoctor  5  AUS VIC for                      Tzimisce:5
 
 -- The crypt screws with the meta. Steal allies, burn locations, profit.
 -- Bateson's disciplines blow but standing +1 stealth is too good to pass up.
 
 Library (78 cards)
-Master (24; 7 trifles)
+Master (24; 7 trifle)
 5x British Museum, London, The
 1x Coven, The
 3x Dreams of the Sphinx
@@ -51,7 +51,7 @@ Master (24; 7 trifles)
 1x Jake Washington
 1x Monastery of Shadows
 1x Pentex(TM) Subversion
-1x Perfectionist - could be a Direct Intervention?
+1x Perfectionist
 5x Villein
 1x Wider View
 

@@ -1,28 +1,27 @@
 Origins - Thursday 1
 Columbus (OH), USA
-June 22nd, 2023
+June 22nd 2023
 2R+F
 29 players
 Norm Brown
-www.vekn.net/event-calendar/event/10730
+https://www.vekn.net/event-calendar/event/10730
 
 -- 2GW6 + 3vp in the final
 
 Deck Name: Thieves of Magic Glitches
 
-Crypt (16 cards, min=8 max=36 avg=6.25)
-=======================================
-5x Malgorzata 9 AUS DOM THA VIC pre priscus Tremere antitribu:4
-1x Anastasz di Zagreb 8 AUS THA ani cel dom justicar Tremere:3
-1x Ardan Lane 8 AUS THA dom obf pre primogen Tremere:3
-1x Uta Kovacs 8 AUS DOM THA ser Tremere antitribu:4
-1x Carna, The Princess Witch 7 AUS DOM THA primogen Tremere:3
-1x Valerius Maior, Hell's Fool 7 AUS DAI DOM THA nec pre Tremere:4
-1x Valerius Maior, Hell's Fool (ADV) 7 AUS DAI DOM THA nec pre Tremere antitribu:4
-5x Jacob, The Glitch 2 THA Tremere antitribu:3
+Crypt (16 cards, min=8, max=36, avg=6.25)
+-----------------------------------------
+5x Malgorzata                         9  AUS DOM THA VIC pre      priscus   Tremere antitribu:4
+5x Jacob, The Glitch                  2  THA                                Tremere antitribu:3
+1x Valerius Maior, Hell's Fool        7  AUS DAI DOM THA nec pre            Tremere:4
+1x Valerius Maior, Hell's Fool (ADV)  7  AUS DAI DOM THA nec pre            Tremere antitribu:4
+1x Anastasz di Zagreb                 8  AUS THA ani cel dom      justicar  Tremere:3
+1x Ardan Lane                         8  AUS THA dom obf pre      primogen  Tremere:3
+1x Uta Kovacs                         8  AUS DOM THA ser                    Tremere antitribu:4
+1x Carna, The Princess Witch          7  AUS DOM THA              primogen  Tremere:3
 
 Library (90 cards)
-==================
 Master (20; 4 trifle)
 7x Dominate
 1x Dreams of the Sphinx

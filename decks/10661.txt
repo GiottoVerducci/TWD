@@ -1,10 +1,10 @@
 WoN event 5 - Elder Library: Columbus
 Columbus (OH), USA
-June 21st, 2023
+June 21st 2023
 2R+F
 22 players
 Karl Schaefer
-www.vekn.net/event-calendar/event/10661
+https://www.vekn.net/event-calendar/event/10661
 
 -- 2GW7 + 2.5vp in the final
 
@@ -45,14 +45,15 @@ table (including two from my prey; they were in hand when I ousted) and removed 
 pool gain engine.
 
 
-Crypt (12 cards, min=11 max=40 avg=6.58)
-6x unnamed, The 10 CEL DAI OBF PRE PRO Baali:6
-1x Melech 4 OBF pro Ministry:6
-1x Skulk 4 OBF ani Nosferatu antitribu:5
-1x Adisa 3 cel obf Banu Haqim:6
-1x Ashley 3 dom obf Malkavian:6
-1x Lubomira Hradok 3 OBF Nosferatu antitribu:5
-1x New Blood 2 san Blood Brother:ANY
+Crypt (12 cards, min=11, max=40, avg=6.58)
+------------------------------------------
+6x unnamed, The     10  CEL DAI OBF PRE PRO  Baali:6
+1x Melech            4  OBF pro              Follower of Set:6
+1x Skulk             4  OBF ani              Nosferatu antitribu:5
+1x Adisa             3  cel obf              Assamite:6
+1x Ashley            3  dom obf              Malkavian:6
+1x Lubomira Hradok   3  OBF                  Nosferatu antitribu:5
+1x New Blood         2  san                  Blood Brother:ANY
 
 Library (66 cards)
 Master (13; 2 trifle)

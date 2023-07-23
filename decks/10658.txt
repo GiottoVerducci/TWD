@@ -1,45 +1,56 @@
 WoN event 2 - Märzen: Columbus
 Columbus (OH), USA
-June 19th, 2023
+June 19th 2023
 2R+F
 25 players
 Mark Loughman
-www.vekn.net/event-calendar/event/10658
+https://www.vekn.net/event-calendar/event/10658
 
 -- 2GW6 + 4vp in the final
 
 Deck Name: Secret Treaties
 Description: Stolen from Vincent and Gines
 
-Crypt (12 cards; Capacity min=7 max=11 avg=9.833333)
-==================
-1x Etrius 11 pro AUS DOM OBF THA Tremere:2
-5x Giotto Verducci 7 for pot pre DAI OBF Baali:2
-1x Gratiano 8 obf pot DOM OBT Lasombra:2
-1x Harrod 11 aus pre ANI CEL OBF POT Nosferatu:2
-1x Leandro 11 cel dom AUS OBF PRE Malkavian:2
-3x Arika 11 aus cel DOM FOR OBF PRE Ventrue:2
+Crypt (12 cards, min=28, max=44, avg=9.08)
+------------------------------------------
+5x Giotto Verducci   7  DAI OBF for pot pre                    Baali:2
+3x Arika            11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Etrius           11  AUS DOM OBF THA pro      inner circle  Tremere:2
+1x Harrod           11  ANI CEL OBF POT aus pre  inner circle  Nosferatu:2
+1x Leandro          11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Gratiano          8  DOM OBT obf pot          priscus       Lasombra:2
 
-Library: 68 cards
-
-Master (14 cards)
-==================
+Library (68 cards)
+Master (14; 5 trifle)
+4x Ashur Tablets
 1x Giant's Blood
 1x Monastery of Shadows
-4x Ashur Tablets
 1x Perfectionist
 1x Powerbase: Montreal
 1x Presence
 3x Villein
 2x Wider View
 
-Action (4 cards)
-==================
-3x Unleash Hell's Fury
+Action (4)
 1x Condemnation: Mute
+3x Unleash Hell's Fury
 
-Action Modifier (22 cards)
-==================
+Ally (1)
+1x Veneficti
+
+Equipment (6)
+6x Kaymakli Fragment
+
+Political Action (10)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+3x Banishment
+3x Kine Resources Contested
+1x Reckless Agitation
+1x Reins of Power
+
+Action Modifier (22)
+2x Cloak the Gathering
 1x Elder Impersonation
 2x Faceless Night
 1x Forgotten Labyrinth
@@ -48,34 +59,13 @@ Action Modifier (22 cards)
 2x Perfect Paragon
 1x Spying Mission
 3x Voter Captivation
-2x Cloak the Gathering
 
-Action Modifier/Combat (4 cards)
-==================
+Action Modifier/Combat (4)
 4x Swallowed by the Night
 
-Political Action (10 cards)
-==================
-1x Anarchist Uprising
-1x Ancilla Empowerment
-3x Kine Resources Contested
-1x Reckless Agitation
-1x Reins of Power
-3x Banishment
-
-Combat (3 cards)
-==================
-3x Majesty
-
-Ally (1 cards)
-==================
-1x Veneficti
-
-Equipment (6 cards)
-==================
-6x Kaymakli Fragment
-
-Reaction (4 cards)
-==================
-2x Wake with Evening's Freshness
+Reaction (4)
 2x Deflection
+2x Wake with Evening's Freshness
+
+Combat (3)
+3x Majesty

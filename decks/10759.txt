@@ -1,0 +1,87 @@
+Dive Into Madness 2023
+Joensuu, Finland
+June 4th 2023
+3R+F
+13 players
+Petrus Makkonen
+https://www.vekn.net/event-calendar/event/10759
+
+-- Tournament organizer comment:
+-- We had a nice tournament with zero timed-out tables! The finals ended at 48 minutes left in the clock for Petrus with 3 VPs. There will be a written report of the final round once I have time to write it clean.
+
+Deck Name: Debate Club for Aspiring Vampires [by Crauseon]
+Description:
+Went 2GW+6VP in a local, funsies 13-player tournament in Joensuu, Finland. A blast to have a tournament for a change, and everyone came in good spirits and aggressive decks! This is the first draft of the deck, and it has good match-ups and bad match-ups. Think of it as a !Toreador breed deck, but with sustained combat instead of explosive bleeds. I would definitely try to cut clutter to make it a 70 or 66 card deck.
+
+Crypt (12 cards, min=16, max=28, avg=5.83)
+------------------------------------------
+4x Aline Gädeke        7  POT PRE cel      baron  Brujah:6
+1x Chun Hei            7  CEL POT PRE             Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro  baron  Brujah:6
+1x Atiena              6  CEL obf pot pre  baron  Brujah:6
+1x Leumeah             6  PRE cel for pot  baron  Brujah:6
+1x Adelino Da Silva    5  cel pot pre tha         Brujah:6
+1x Siarhei Levchenko   5  CEL PRE pot             Brujah:6
+1x Elen Kamjian        4  CEL POT                 Brujah:6
+1x Rayne               2  pot                     Brujah:6
+
+Library (79 cards)
+Master (21; 7 trifle)
+1x Anarch Free Press, The
+5x Brujah Debate
+1x Carfax Abbey
+1x Creepshow Casino
+1x Direct Intervention
+1x Garibaldi-Meucci Museum
+1x Libertas
+1x Line, The
+1x Poacher's Hunting Ground
+4x Vessel
+2x Villein
+1x Warzone Hunting Ground
+1x Wider View
+
+Action (16)
+1x Constant Revolution
+8x Embrace, The
+2x Entrancement
+1x Field Training
+2x Line Brawl
+2x Open War
+
+Ally (1)
+1x 47th Street Royals
+
+Political Action (9)
+4x Consanguineous Boon
+1x Eat the Rich
+1x Neonate Breach
+2x Reckless Agitation
+1x Revolutionary Council
+
+Retainer (1)
+1x Crypt's Sons
+
+Action Modifier (8)
+2x Iron Glare
+1x Monkey Wrench
+3x Perfect Paragon
+2x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (13)
+2x Bait and Switch
+2x On the Qui Vive
+8x Organized Resistance
+1x Protection Racket
+
+Combat (7)
+1x Disarm
+4x Dust Up
+1x Majesty
+1x Thrown Sewer Lid

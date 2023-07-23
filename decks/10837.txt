@@ -1,0 +1,63 @@
+Liga Chilanga "Jornada 5" (MX)
+Mexico City, Mexico
+July 8th 2023
+3R+F
+10 players
+Juan Luis Chacón Dávalos
+https://www.vekn.net/event-calendar/event/10837
+
+Deck Name: SOY TERCO Y QUE LARGA VIDA A LOS TREMERE
+
+Crypt (12 cards, min=18, max=40, avg=6.58)
+------------------------------------------
+4x Grimgroth                10  AUS DOM PRE THA for            Tremere:6
+1x Lord Ephraim Wainwright   6  AUS THA for pre                Tremere:5
+1x Chrysanthemum             5  AUS THA dom          primogen  Tremere:6
+1x Claus Wegener             5  DOM aus for tha                Tremere:5
+1x Mason Ha                  5  THA aus cel dom                Tremere:6
+1x Sri Sansa                 5  DOM aus tha                    Tremere:6
+1x Zane                      5  THA aus dom          primogen  Tremere:5
+1x Ayse Dhanial              4  aus dom tha                    Tremere:6
+1x Nassir                    4  THA aus                        Tremere:6
+
+Library (71 cards)
+Master (14; 4 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Charisma
+1x Giant's Blood
+1x Monastery of Shadows
+4x Vessel
+1x Wasserschloss Anif, Austria
+4x Zillah's Valley
+
+Action (11)
+6x Govern the Unaligned
+2x Magic of the Smith
+3x Summoning, The
+
+Ally (9)
+7x Outcast Mage
+1x Talaq, The Immortal
+1x Thadius Zho
+
+Equipment (4)
+1x Codex of the Edenic Groundskeepers
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+1x Signet of King Saul, The
+
+Action Modifier (11)
+5x Freak Drive
+6x Mirror Walk
+
+Reaction (11)
+5x Deflection
+6x On the Qui Vive
+
+Combat (9)
+4x Rego Motum
+5x Target Vitals
+
+Event (2)
+2x Unmasking, The

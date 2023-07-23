@@ -1,0 +1,65 @@
+1° campeonato Amontadence
+Amontada (CE), Brazil
+July 2nd 2023
+2R+F
+14 players
+Roner Oliveira
+https://www.vekn.net/event-calendar/event/10795
+
+Deck Name: Dia de Los Muertos
+Description: Invasão Sabbat
+
+Crypt (15 cards, min=4, max=9, avg=1.6)
+---------------------------------------
+1x Caroline Bishops        3  cel for pot  Pander:4
+1x Bloodfeud               2  obf          Malkavian antitribu:4
+1x Jacob, The Glitch       2  THA          Tremere antitribu:3
+1x Jesús Alcalá            2  cel          Gangrel antitribu:3
+1x Justine Chen, Innocent  2  pre          Toreador antitribu:4
+1x Mary Johnson            2  for pre      Pander:4
+1x New Blood               2  san          Blood Brother:ANY
+1x Old Neddacka            2  obf          Nosferatu antitribu:4
+1x Anarch Convert          1  -none-       Caitiff:ANY
+1x Feo Ramos               1  aus          Pander:3
+1x Jaggedy Andy            1  pot          Pander:4
+1x Kai Simmons             1  cel          Pander:4
+1x Margarite               1  obt          Pander:4
+1x Olga Triminov           1  vic          Pander:3
+1x Schuyler                1  tha          Pander:4
+
+Library (73 cards)
+Master (17)
+1x Antediluvian Awakening
+1x Barrens, The
+3x Blood Doll
+1x Día de los Muertos
+2x Direct Intervention
+4x Effective Management
+4x Information Highway
+1x Sudden Reversal
+
+Political Action (56)
+1x Banishment
+5x Consanguineous Boon
+14x Conservative Agitation
+1x Crusade: Amsterdam
+1x Crusade: Aragon
+1x Crusade: Atlanta
+1x Crusade: Berlin
+1x Crusade: Chicago
+1x Crusade: Detroit
+1x Crusade: Dublin
+1x Crusade: Frankfurt
+1x Crusade: Geneva
+1x Crusade: Houston
+1x Crusade: Istanbul
+1x Crusade: London
+1x Crusade: Miami
+1x Crusade: Paris
+1x Crusade: Philadelphia
+1x Crusade: Pittsburgh
+1x Crusade: Washington, D.C.
+1x Disputed Territory
+1x Kindred Segregation
+16x Kine Resources Contested
+1x Peace Treaty

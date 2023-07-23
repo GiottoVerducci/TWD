@@ -1,0 +1,71 @@
+Fim de semana do Pesadelo 1
+Campina Grande, Brazil
+July 15th 2023
+2R+F
+10 players
+Rafael Barbosa
+https://www.vekn.net/event-calendar/event/10866
+
+-- 4VP in final
+
+Deck Name: o exorcismo de betin
+
+Crypt (12 cards, min=18, max=34, avg=6.58)
+------------------------------------------
+2x Vasantasena    9  AUS DEM OBF dom pot           Malkavian antitribu:2
+2x Korah          7  AUS DEM OBF ani      priscus  Malkavian antitribu:2
+1x Rodolfo        8  AUS DEM OBF pro      bishop   Malkavian antitribu:3
+1x Theron         8  AUS DEM OBF for obt           Malkavian antitribu:2
+1x Kite           7  AUS DEM obf pre      bishop   Malkavian antitribu:2
+1x Artemis        6  DEM OBF aus cel for           Malkavian antitribu:2
+1x Dolphin Black  6  AUS DEM OBF                   Malkavian antitribu:2
+1x Uncle George   5  DEM aus dom obf               Malkavian antitribu:3
+1x Claven         4  aus dem obf                   Malkavian antitribu:2
+1x Yorik          3  dem obf                       Malkavian antitribu:2
+
+Library (90 cards)
+Master (24; 4 trifle)
+1x Barrens, The
+1x Blood Doll
+2x Charisma
+4x Danse Macabre
+1x Dementation
+1x Festivo dello Estinto
+1x Giant's Blood
+2x Information Highway
+1x Institution Hunting Ground
+2x Malkavian Game
+2x Minion Tap
+1x Obfuscate
+1x Parthenon, The
+3x Vessel
+1x Villein
+
+Action (11)
+11x Kindred Spirits
+
+Ally (9)
+9x Escaped Mental Patient
+
+Equipment (1)
+1x Helicopter
+
+Retainer (1)
+1x J. S. Simmons, Esq.
+
+Action Modifier (29)
+3x Cloak the Gathering
+4x Elder Impersonation
+9x Eyes of Chaos
+4x Faceless Night
+7x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (10)
+2x My Enemy's Enemy
+2x On the Qui Vive
+5x Telepathic Misdirection
+1x Wake with Evening's Freshness

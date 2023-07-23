@@ -1,0 +1,75 @@
+Fee Stake: Jyväskylä 2
+Jyväskylä, Finland
+July 1st 2023
+3R+F
+13 players
+Pasi Karjalainen
+https://www.vekn.net/event-calendar/event/10770
+
+-- 3vp + 0vp + 1vp in prelims, 3vp in finals
+
+Deck Name: Windham's Wind Dance
+Description: A tremere war chantry deck. Wind Dance was added to counter Hunger of Marduk. I didn't encounter any Banu Haqim decks though. But Wind Dance was also effective against aggravated pokes and other nasty surprises in combat. 90 card deck size causes lot of variance and I was in trouble with my draws couple of times. 77-82 deck size would be better.
+
+Crypt (12 cards, min=22, max=36, avg=7.17)
+------------------------------------------
+2x Gerald Windham    9  AUS DOM FOR THA                Tremere:5
+2x Abraham DuSable   8  AUS DOM FOR THA                Tremere:6
+1x Karl Schrekt     10  AUS DOM FOR PRE THA  2 votes   Tremere:6
+1x Ayelech           7  AUS DOM THA          prince    Tremere:6
+1x Rutor             7  AUS DOM THA pro vic            Tremere:5
+1x Inês Tristão      6  THA aus dom pre      prince    Tremere:6
+1x Lloyd Brooks      6  DOM THA aus pot      primogen  Tremere:6
+1x Trevon Parker     6  AUS DOM THA                    Tremere:6
+1x Chrysanthemum     5  AUS THA dom          primogen  Tremere:6
+1x Zane              5  THA aus dom          primogen  Tremere:5
+
+Library (90 cards)
+Master (12; 5 trifle)
+1x Anarch Troublemaker
+1x Barrens, The
+1x Chantry
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Misdirection
+1x Pentex(TM) Subversion
+5x Villein
+
+Action (12)
+8x Govern the Unaligned
+4x Scouting Mission
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ponticulus
+
+Equipment (2)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+
+Political Action (4)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+
+Action Modifier (18)
+4x Bonding
+2x Conditioning
+7x Mirror Walk
+3x Seduction
+2x Threats
+
+Reaction (17)
+7x Deflection
+2x Delaying Tactics
+3x Eyes of Argus
+3x On the Qui Vive
+2x Telepathic Misdirection
+
+Combat (23)
+4x Apportation
+2x Burst of Sunlight
+3x Hidden Strength
+8x Theft of Vitae
+2x Walk of Flame
+4x Wind Dance

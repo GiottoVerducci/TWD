@@ -1,0 +1,57 @@
+Origins - Friday 1
+Columbus (OH), USA
+June 23rd, 2023
+2R+F
+32 players
+Erik Albenze
+www.vekn.net/event-calendar/event/10732
+
+-- 2GW6.5 + 2.5vp in the final
+
+Deck Name: Banu bleed filth
+Description: Combat early, bleed late
+
+Crypt (12 cards; Capacity min=3 max=7 avg=5.166667)
+==================
+2x Farah Sarroub 7 aus obf CEL THA Assamite:6
+3x Kassandra Tassaki 6 obf CEL THA Assamite:6
+2x Khadija Al-Kindi 6 CEL OBF THA Assamite:6
+2x Warmaksan 5 cel obf THA Assamite:6
+2x Nayarana 4 cel THA Assamite:6
+1x Bijou 3 cel tha Assamite:6
+
+Library: 90 cards
+
+Master (17 cards)
+==================
+1x Market Square
+4x Priority Contract
+1x Villein
+1x Black Throne, The
+4x Blood Doll
+6x Haqim's Law: Retribution
+
+Action (8 cards)
+==================
+2x Khabar: Glory
+6x Hunter's Mark
+
+Action Modifier/Combat (12 cards)
+==================
+6x Resist Earth's Grasp
+6x Swallowed by the Night
+
+Combat (39 cards)
+==================
+4x Flash
+4x Pursuit
+7x Quickness
+3x Rego Motum
+2x Walk of Flame
+14x Hunger of Marduk
+5x Blur
+
+Reaction (14 cards)
+==================
+4x On the Qui Vive
+10x Second Tradition: Domain

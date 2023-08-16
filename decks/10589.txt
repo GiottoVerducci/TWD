@@ -1,0 +1,57 @@
+Norwegian NC 2023
+Moss, Norway
+August 5th 2023
+3R+F
+15 players
+Jon Grønset
+https://www.vekn.net/event-calendar/event/10589
+
+-- 1GW, 6VP + 5VP in final
+
+Deck Name: The Strokes
+Description:
+Original work by Bill Troxel. Added a few more bounces and a Monkey Wrench. Worked out perfectly.
+
+Crypt (13 cards, min=4 max=29 avg=4.15)
+---------------------------------------
+5x Anarch Convert      1                      Caitiff:ANY
+4x Babalawo Alafin     7 AUS FOR NEC ani      Harbinger of Skulls:4
+2x Crow                5 ANI for pro tha      Gangrel:5
+1x Monica Chang        3 dom tha              Tremere:5
+1x Mordechai Ben-Nun   8 ANI AUS FOR NEC      Harbinger of Skulls:5
+
+Library (90 cards)
+Master (27; 2 trifle)
+2x Direct Intervention
+11x Liquidation
+3x Maabara
+1x Metro Underground
+5x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Los Angeles
+1x Sudden Reversal
+2x Wider View
+
+Ally (11)
+11x Emerald Legionnaire
+
+Action Modifier (6)
+5x Call of the Hungry Dead
+1x Monkey Wrench
+
+Action Modifier/Combat (4)
+4x Breath of Thanatos
+
+Action Modifier/Reaction (2)
+2x Spectral Divination
+
+Reaction (35)
+5x Delaying Tactics
+15x Detect Authority
+5x Eyes of Argus
+3x On the Qui Vive
+7x Telepathic Misdirection
+
+Event (5)
+2x FBI Special Affairs Division
+3x Unmasking, The

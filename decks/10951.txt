@@ -1,0 +1,70 @@
+Leeds Bleebs
+Leeds, United Kingdom
+August 26th 2023
+3R+F
+10 players
+Paul Jones
+https://www.vekn.net/event-calendar/event/10951
+
+Deck Name: Gangrel Grinder? I hardly know her!
+Description: Not really much I can say here, it's nothing you've not seen before. I put an Ivory Bow in to a starter deck. Efficient vampires doing efficient things.
+
+Crypt (12 cards, min=12, max=26, avg=4.92)
+------------------------------------------
+2x Massimiliano      7  ANI FOR pro      baron  Gangrel:6
+2x Casey Snyder      6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén             6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys   5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen  4  ani for pro             Gangrel:6
+1x Nathan Turner     4  PRO ani                 Gangrel:6
+1x Indira            3  PRO                     Gangrel:6
+1x Joaquín de Cádiz  3  for pro                 Gangrel:6
+1x Ruslan Fedorenko  2  pro                     Gangrel:6
+
+Library (80 cards)
+Master (18; 6 trifle)
+1x Anarch Free Press, The
+1x Carfax Abbey
+1x Direct Intervention
+1x Ecoterrorists
+1x Gangrel Revel
+1x Garibaldi-Meucci Museum
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Rack, The
+1x Rötschreck
+1x Smiling Jack, The Anarch
+5x Vessel
+1x Wider View
+1x Zoo Hunting Ground
+
+Action (11)
+1x Aranthebes, The Immortal
+1x Army of Rats
+2x Constant Revolution
+1x Rewilding
+6x Thing
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (4)
+1x Mr. Winthrop
+3x Raven Spy
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (27)
+6x Bait and Switch
+5x Deep Ecology
+4x Eyes of the Wild
+3x On the Qui Vive
+5x Organized Resistance
+4x Protection Racket
+
+Combat (15)
+4x Claws of the Dead
+2x Donnybrook
+6x Earth Meld
+3x Form of Mist

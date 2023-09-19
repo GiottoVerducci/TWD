@@ -1,0 +1,68 @@
+Liga Chilanga 2023 "Jornada 2" (MX)
+Mexico City, Mexico
+August 19th 2023
+3R+F
+10 players
+Carlos Escobar Muciño
+https://www.vekn.net/event-calendar/event/10924
+
+Deck Name: Gangrel wall v4
+Description: Mazo para la jornada 2 de la liga chilanga
+
+Crypt (12 cards, min=12, max=23, avg=4.5)
+-----------------------------------------
+2x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+1x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Crow               5  ANI for pro tha         Gangrel:5
+1x Dario Ziggler      5  FOR ani pro tha         Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+1x Ruslan Fedorenko   2  pro                     Gangrel:6
+
+Library (80 cards)
+Master (13; 3 trifle)
+1x Anarch Free Press, The
+1x Backways
+1x Carfax Abbey
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Rack, The
+3x Rötschreck
+1x Smiling Jack, The Anarch
+3x Vessel
+
+Action (17)
+1x Aranthebes, The Immortal
+2x Atonement
+3x Constant Revolution
+4x Deep Song
+2x Rewilding
+5x Thing
+
+Equipment (3)
+1x Ivory Bow
+2x Sniper Rifle
+
+Retainer (1)
+1x Tasha Morgan
+
+Action Modifier (5)
+5x Earth Control
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (22)
+5x Deep Ecology
+9x Eyes of the Wild
+3x Party Out Of Bounds
+5x Protection Racket
+
+Combat (15)
+3x Bone Spur
+2x Claws of the Dead
+10x Earth Meld

@@ -1,0 +1,85 @@
+Swiss NC 2023
+Geneva, Switzerland
+July 2nd 2023
+3R+F
+30 players
+Marius Iscru
+Organizer: Pablo Carnino
+https://www.vekn.net/event-calendar/event/10550
+
+Just a few words from main organizer:
+
+It was a great group of 30 Methuselahs ready the bleed one another to extinction in the peaceful summer of Geneva. The population was about a third of local players and two thirds of guests from the rest of Switzerland and Europe. I'd like to repeat here the extent of my gratitude to the participants as well as to my local co-organisers.
+The private setting in a house and in the garden outside provided a cozy and intimate context which likely contributed to the general good spirit of the event.
+
+The finals' seating was as follows:
+Attila (Emerald Legionnaire) -> Thomas (Emerald Legionnaire) -> Ruben (Edward Vignes) -> Filippo (Banu Princes) -> Marius (Carna wall).
+
+The contesting legionnaires and the 2h30 time limit allow plenty of time for Marius to set his wall and prepare the Smiling Jack. While Ruben is able to go through the redirection-less Banu Haqim, he cannot find the way around Carna. After she gets rid of the Emeralds, the time limit is looming in the final duel between Vignes and Carna, but he dies from the smiling jack with only a couple of seconds left on the clock.
+
+Final count: 1 VP for Ruben and GW 4 for Marius, the new Swiss Champion!
+
+Deck Name: Carnawall
+Author: Marius Iscru inspired by Danilo
+
+Crypt (12 cards, min=14, max=28, avg=5.5)
+-----------------------------------------
+4x Carna, The Princess Witch  7  AUS DOM THA      primogen  Tremere:3
+1x Elena Mendoza Vasquez      6  AUS THA dom obt            Tremere antitribu:3
+1x Eugenio Estevez            6  AUS THA dom for            Tremere:3
+1x Selena                     6  AUS DOM THA                Tremere antitribu:3
+1x Valois Sang, The Watcher   6  AUS DOM nec tha            Tremere:3
+1x Aisling Sturbridge         5  AUS THA dom                Tremere:2
+1x Hannigan                   5  AUS THA dom                Tremere antitribu:2
+1x Martin Franckel            3  AUS tha                    Tremere:3
+1x Anarch Convert             1  -none-                     Caitiff:ANY
+
+Library (90 cards)
+Master (21; 7 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+1x Dark Influences
+1x KRCG News Radio
+1x Life Boon
+1x Pentex(TM) Subversion
+2x Powerbase: Montreal
+2x Rack, The
+3x Smiling Jack, The Anarch
+6x Vessel
+1x Wider View
+
+Action (8)
+2x Anonymous Freight
+6x Magic of the Smith
+
+Equipment (11)
+2x .44 Magnum
+1x Bowl of Convergence
+2x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Sawed-Off Shotgun
+2x Sniper Rifle
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (2)
+2x Conditioning
+
+Reaction (39)
+8x Deflection
+3x Delaying Tactics
+4x Eagle's Sight
+4x Enhanced Senses
+8x Eyes of Argus
+3x Forced Awakening
+2x My Enemy's Enemy
+3x On the Qui Vive
+4x Telepathic Misdirection
+
+Combat (8)
+4x Rego Motum
+4x Theft of Vitae

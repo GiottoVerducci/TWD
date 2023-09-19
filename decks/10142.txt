@@ -1,0 +1,66 @@
+Caverna Camarilla
+São Paulo, Brazil
+April 10th 2022
+2R+F
+10 players
+Ricardo Molina Sobreira
+https://www.vekn.net/event-calendar/event/10142
+
+-- 2vp in final
+
+Deck Name: Carlinhos Mata Veado
+
+Crypt (12 cards, min=20, max=40, avg=7.92)
+------------------------------------------
+4x Cailean            10  ANI OBF POT PRE dom  archbishop  Nosferatu antitribu:2
+3x Julio Martinez      9  ANI DOM OBF POT nec  bishop      Nosferatu antitribu:3
+3x Laurent de Valois   4  ani dom obf                      Nosferatu:2
+2x Len Konopka         8  ANI OBF POT dom ser              Nosferatu antitribu:3
+
+Library (90 cards)
+Master (17; 5 trifle)
+2x Dreams of the Sphinx
+2x Information Highway
+1x Information Network
+1x Nosferatu Kingdom
+2x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+1x Shanty Town Hunting Ground
+1x Tension in the Ranks
+5x Villein
+
+Action (18)
+1x Aranthebes, The Immortal
+2x Army of Rats
+3x Creeping Sabotage
+7x Deep Song
+2x Eternal Vigilance
+3x Under Siege
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (5)
+1x .44 Magnum
+3x Mark V
+1x Sniper Rifle
+
+Retainer (2)
+2x Raven Spy
+
+Action Modifier (3)
+3x Conditioning
+
+Reaction (23)
+5x Cats' Guidance
+6x Deflection
+5x On the Qui Vive
+7x Sense the Savage Way
+
+Combat (21)
+2x Canine Horde
+7x Carrion Crows
+5x Disguised Weapon
+2x Stunt Cycle
+5x Taste of Vitae

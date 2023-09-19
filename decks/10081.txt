@@ -1,0 +1,72 @@
+Guarulhense - Sabbat
+Guarulhos, Brazil
+March 13th 2022
+2R+F
+19 players
+Alysson Pontes
+https://www.vekn.net/event-calendar/event/10081
+
+-- 2vp in final
+
+Deck Name: Lord Animal
+
+Crypt (12 cards, min=21, max=43, avg=8.5)
+-----------------------------------------
+3x Lord Tremere           11  ANI AUS DOM THA VIC obe            Tremere:5
+3x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar  Tremere:5
+3x Dr. John Dee            9  ANI AUS DOM THA chi      prince    Tremere:4
+1x Zane                    5  THA aus dom              primogen  Tremere:5
+1x Tarrence Moore          4  aus dom tha                        Tremere:5
+1x Monica Chang            3  dom tha                            Tremere:5
+
+Library (89 cards)
+Master (15; 5 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+1x Vessel
+4x Villein
+1x Wasserschloss Anif, Austria
+
+Action (11)
+1x Army of Rats
+3x Deep Song
+3x Govern the Unaligned
+3x Magic of the Smith
+1x Rutor's Hand
+
+Ally (1)
+1x Ponticulus
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (1)
+1x Raven Spy
+
+Action Modifier (3)
+3x Mirror Walk
+
+Reaction (27)
+3x Cats' Guidance
+3x Deflection
+5x Eagle's Sight
+7x Eyes of Argus
+3x On the Qui Vive
+3x Read the Winds
+3x Telepathic Misdirection
+
+Combat (27)
+7x Apportation
+9x Carrion Crows
+3x Rego Motum
+7x Theft of Vitae
+1x Walk of Flame

@@ -1,0 +1,77 @@
+VI Torneio Paraibano
+Campina Grande, Brazil
+August 6th 2023
+3R+F
+21 players
+Rafael Barbosa
+https://www.vekn.net/event-calendar/event/10914
+
+-- 3vp in final
+
+Deck Name: Record Ragnarok
+
+Crypt (12 cards, min=16, max=32, avg=5.58)
+------------------------------------------
+7x Valkyrie         4  for pre pro                 Gangrel:3
+4x Brunhilde (ADV)  8  ANI FOR PRO pre      baron  Gangrel:3
+1x Vulture          7  ANI POT PRO for pre         Gangrel:2
+
+Library (88 cards)
+Master (21; 6 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+3x Anarch Revolt
+1x Backways
+1x Carfax Abbey
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Gangrel Revel
+1x Powerbase: Montreal
+1x Protean
+1x Rack, The
+2x Smiling Jack, The Anarch
+3x Vessel
+1x Villein
+1x Wash
+1x Wider View
+
+Action (13)
+2x Constant Revolution
+3x Field Training
+2x Rewilding
+6x Thing
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (4)
+1x Earth Control
+3x Monkey Wrench
+
+Action Modifier/Combat (1)
+1x Rapid Change
+
+Action Modifier/Reaction (1)
+1x Form of the Bat
+
+Reaction (19)
+6x Bait and Switch
+5x Deep Ecology
+6x Eyes of the Wild
+2x Protection Racket
+
+Combat (25)
+7x Diversion
+3x Donnybrook
+8x Earth Meld
+2x Form of Mist
+1x Indomitability
+2x Rolling with the Punches
+2x Superior Mettle

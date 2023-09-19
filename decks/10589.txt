@@ -12,13 +12,13 @@ Deck Name: The Strokes
 Description:
 Original work by Bill Troxel. Added a few more bounces and a Monkey Wrench. Worked out perfectly.
 
-Crypt (13 cards, min=4 max=29 avg=4.15)
----------------------------------------
-5x Anarch Convert      1                      Caitiff:ANY
-4x Babalawo Alafin     7 AUS FOR NEC ani      Harbinger of Skulls:4
-2x Crow                5 ANI for pro tha      Gangrel:5
-1x Monica Chang        3 dom tha              Tremere:5
-1x Mordechai Ben-Nun   8 ANI AUS FOR NEC      Harbinger of Skulls:5
+Crypt (13 cards, min=4, max=29, avg=4.15)
+-----------------------------------------
+5x Anarch Convert     1  -none-           Caitiff:ANY
+4x Babalawo Alafin    7  AUS FOR NEC ani  Harbinger of Skulls:4
+2x Crow               5  ANI for pro tha  Gangrel:5
+1x Mordechai Ben-Nun  8  ANI AUS FOR NEC  Harbinger of Skulls:5
+1x Monica Chang       3  dom tha          Tremere:5
 
 Library (90 cards)
 Master (27; 2 trifle)

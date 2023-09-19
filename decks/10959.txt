@@ -1,0 +1,65 @@
+Ginesyful Fate II
+Palma de Mallorca, Spain
+September 3rd 2023
+2R+F
+10 players
+David Tomasetti
+https://www.vekn.net/event-calendar/event/10959
+
+-- 4vp in final
+
+Deck Name: My girls
+
+Crypt (12 cards, min=20, max=28, avg=6.17)
+------------------------------------------
+3x Aline Gädeke        7  POT PRE cel      baron  Brujah:6
+3x Valeriya Zinovieva  7  POT cel pre pro  baron  Brujah:6
+2x Atiena              6  CEL obf pot pre  baron  Brujah:6
+2x Leumeah             6  PRE cel for pot  baron  Brujah:6
+2x Elen Kamjian        4  CEL POT                 Brujah:6
+
+Library (90 cards)
+Master (44; 10 trifle)
+1x Anarch Free Press, The
+6x Ashur Tablets
+9x Brujah Debate
+1x Carfax Abbey
+1x Garibaldi-Meucci Museum
+2x Libertas
+1x Mob Connections
+3x New Carthage
+1x Papillon
+3x Parthenon, The
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+2x Rack, The
+2x Tension in the Ranks
+3x Vessel
+5x Villein
+2x Wider View
+
+Action (1)
+1x Open War
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (5)
+3x Desert Eagle
+2x Heart of Nizchetus
+
+Political Action (3)
+2x Consanguineous Boon
+1x Exclusion Principle
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (31)
+12x Bait and Switch
+2x Delaying Tactics
+15x Organized Resistance
+2x Protection Racket
+
+Combat (4)
+4x Dust Up

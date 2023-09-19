@@ -1,0 +1,58 @@
+Cryptic Mission
+Amadora, Portugal
+July 22nd 2023
+3R+F
+15 players
+Filipe Henriques
+https://www.vekn.net/event-calendar/event/10843
+
+-- 4 vp in final
+
+-- Thanks to my Sire, Diogo “Iron” Pratas for teaching me the game with something close to this
+
+Crypt (12 cards, min=13, max=32, avg=6.08)
+------------------------------------------
+4x Arcadian, The            8  DOM MYT OBT chi for           Kiasyd:5
+2x Isanwayen                6  DOM MYT OBT                   Kiasyd:4
+2x Anarch Convert           1  -none-                        Caitiff:ANY
+1x Pherydima                8  DOM MYT NEC obt pot  bishop   Kiasyd:4
+1x Badr, Shadow of Granada  7  DOM OBT POT                   Lasombra:5
+1x Omme Enberbenight        7  MYT OBT cel dom      priscus  Kiasyd:4
+1x Dame Hollerton           5  DOM OBT myt                   Kiasyd:4
+
+Library (90 cards)
+Master (8; 1 trifle)
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+3x Information Highway
+
+Action (22)
+12x Govern the Unaligned
+8x Gremlins
+2x Song of Pan
+
+Action Modifier (29)
+6x Conditioning
+1x Foreshadowing Destruction
+3x Seduction
+5x Shadow Play
+5x Shroud of Absence
+6x Stone Travel
+3x Tenebrous Form
+
+Action Modifier/Combat (6)
+6x Fae Contortion
+
+Action Modifier/Reaction (5)
+3x Aura Absorption
+2x Murmur of the False Will
+
+Reaction (15)
+8x Deflection
+2x Delaying Tactics
+5x On the Qui Vive
+
+Combat (5)
+5x Oubliette

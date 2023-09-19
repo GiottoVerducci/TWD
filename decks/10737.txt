@@ -1,0 +1,80 @@
+8th Torneo Liga Noroeste
+Aviles, Spain
+May 14th 2023
+2R+F
+39 players
+Miguel Vega Piniella
+https://www.vekn.net/event-calendar/event/10737
+
+Deck Name: Boroniesa
+Author: Wolfflin
+
+Crypt (12 cards, min=21, max=28, avg=6.08)
+------------------------------------------
+4x Vivian VI           7  PRE PRO obf tha  baron  Follower of Set:6
+3x Elisha Tucker       6  PRE cel obf pro  baron  Follower of Set:6
+1x Atiena              6  CEL obf pot pre  baron  Brujah:6
+1x Leumeah             6  PRE cel for pot  baron  Brujah:6
+1x Aluc Romas de Leon  5  PRE aus obf pro         Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre         Follower of Set:6
+1x Jenny Silver        5  PRE PRO obf             Follower of Set:6
+
+Library (90 cards)
+Master (15; 7 trifle)
+1x Anarch Revolt
+1x Carfax Abbey
+1x Dabbler
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Ferraille
+1x Garibaldi-Meucci Museum
+1x Powerbase: Los Angeles
+4x Villein
+1x Wash
+1x Wider View
+
+Action (11)
+1x Entrancement
+1x Fee Stake: Los Angeles
+2x Loki's Gift
+1x Mind Numb
+6x Platinum Protocol, The
+
+Ally (1)
+1x Saatet-ta
+
+Equipment (1)
+1x Anarch Manifesto, An
+
+Political Action (11)
+1x Ancilla Empowerment
+3x Eat the Rich
+2x Firebrand
+1x Kine Resources Contested
+1x Meddling of Semsith, The
+1x Patsy
+2x Reckless Agitation
+
+Action Modifier (29)
+3x Awe
+6x CrimethInc.
+4x Enchanting Gaze
+4x Memory Rift
+1x Monkey Wrench
+5x Revelation of the Serpent
+2x Spying Mission
+4x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Form of the Cobra
+
+Action Modifier/Reaction (3)
+3x Scalpel Tongue
+
+Reaction (11)
+6x Bait and Switch
+5x Party Out Of Bounds
+
+Combat (6)
+3x Earth Meld
+3x Form of Mist

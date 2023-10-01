@@ -1,0 +1,53 @@
+Abomination 5
+Gap (PA), USA
+August 26th 2023
+2R+F
+12 players
+Vincent Castellaneta
+https://www.vekn.net/event-calendar/event/10892
+
+Deck Name: Brujah Debate
+
+Crypt (12 cards, min=15, max=28, avg=5.58)
+------------------------------------------
+5x Aline Gädeke       7  POT PRE cel  baron  Brujah:6
+2x Octane             6  CEL POT PRE         Brujah:6
+2x Siarhei Levchenko  5  CEL PRE pot         Brujah:6
+2x Laura Goldman      3  cel pre             Brujah:5
+1x Elen Kamjian       4  CEL POT             Brujah:6
+
+Library (90 cards)
+Master (26; 4 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+1x Barrens, The
+12x Brujah Debate
+1x Club Illusion
+1x Coven, The
+1x Libertas
+2x New Carthage
+1x Oxford University, England
+1x Parthenon, The
+1x Powerbase: Los Angeles
+2x Villein
+1x Wider View
+
+Action (15)
+7x Line Brawl
+2x Make the Misere
+2x Open War
+4x Public Trust
+
+Political Action (2)
+2x Consanguineous Boon
+
+Reaction (22)
+6x Bait and Switch
+2x On the Qui Vive
+7x Organized Resistance
+7x Protection Racket
+
+Combat (25)
+8x Dust Up
+12x Immortal Grapple
+5x Taste of Vitae

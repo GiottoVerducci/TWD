@@ -1,0 +1,78 @@
+Ressaca do Paraibano
+Campina Grande, Brazil
+August 20th 2023
+2R+F
+10 players
+José Roberio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/10921
+
+-- 1.5VP in final
+
+Deck Name: Gangrel v5
+
+Crypt (12 cards, min=11, max=23, avg=4)
+---------------------------------------
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Fergus Alexander       3  pot pro                 Gangrel:5
+1x Indira                 3  PRO                     Gangrel:6
+1x Joaquín de Cádiz       3  for pro                 Gangrel:6
+1x Joseph Fischer         3  PRO                     Gangrel antitribu:5
+1x Lillian                3  ani pro                 Gangrel:5
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (25; 7 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Ecoterrorists
+2x Effective Management
+1x Ennoia's Theater
+1x Gangrel Revel
+1x Information Highway
+3x Parthenon, The
+1x Powerbase: Montreal
+2x Smiling Jack, The Anarch
+7x Villein
+1x WMRH Talk Radio
+
+Action (18)
+1x Army of Rats
+2x Constant Revolution
+1x Rewilding
+14x Thing
+
+Ally (3)
+3x Renegade Garou
+
+Equipment (2)
+1x Ivory Bow
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (1)
+1x Earth Control
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (20)
+8x Deep Ecology
+7x Eyes of the Wild
+1x Party Out Of Bounds
+3x Poison Pill
+1x Protection Racket
+
+Combat (17)
+4x Donnybrook
+11x Earth Meld
+2x Form of Mist

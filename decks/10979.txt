@@ -1,0 +1,66 @@
+Inside Dirt Stockholm 2023
+Stockholm, Sweden
+September 23rd 2023
+3R+F
+13 players
+Jonas Ståhle
+https://www.vekn.net/event-calendar/event/10979
+
+Deck Name: Girls Will Get Personal
+Author: Louhi
+Description: Mostly based on deck by Jorge Delgado, with some tweaks to personal playstyle.
+
+Crypt (12 cards, min=36, max=44, avg=10)
+----------------------------------------
+4x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+4x Aksinya Daclau          9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+1x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+
+Library (77 cards)
+Master (49; 9 trifle)
+1x Archon Investigation
+12x Ashur Tablets
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Golconda: Inner Peace
+1x Information Highway
+1x Jake Washington
+5x Liquidation
+1x Metro Underground
+1x Monastery of Shadows
+2x Parthenon, The
+1x Pentex(TM) Subversion
+3x Personal Involvement
+6x Villein
+2x Wider View
+7x Zillah's Valley
+
+Action (4)
+2x Entrancement
+2x Unleash Hell's Fury
+
+Action Modifier (16)
+3x Aire of Elation
+1x Approximation of Loyalty
+2x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+3x Into Thin Air
+1x Lost in Crowds
+1x Mirror Walk
+1x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (4)
+2x Guard Dogs
+2x Lost in Translation
+
+Combat (3)
+3x Majesty

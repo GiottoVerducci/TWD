@@ -1,0 +1,72 @@
+The next station: Hatvan
+Hatvan, Hungary
+September 17th 2023
+3R+F
+19 players
+Sebestyen Balazs
+https://www.vekn.net/event-calendar/event/10975
+
+-- 3vp in final
+
+Deck Name: aktív blokker Baron
+Author: SBmester
+
+Crypt (12 cards, min=15, max=36, avg=6.92)
+------------------------------------------
+4x Baron Dieudonne       9  ANI OBF POT PRO          prince  Nosferatu:4
+4x Mark Decker           8  CEL PRO ani for obf pot  prince  Gangrel:3
+1x Shahid                7  OBF POT ani for pro              Nosferatu:4
+1x Clarissa Steinburgen  3  ani obf                          Nosferatu:3
+1x Foureyes              3  obf pot                          Nosferatu:4
+1x Krid                  2  obf                              Nosferatu:3
+
+Library (90 cards)
+Master (19; 7 trifle)
+1x Archon Investigation
+1x Giant's Blood
+1x Labyrinth, The
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Slum Hunting Ground
+2x Vessel
+4x Villein
+4x Warsaw Station
+1x Wider View
+
+Action (8)
+1x Aranthebes, The Immortal
+1x Army of Rats
+3x Creeping Sabotage
+3x Judgment: Camarilla Segregation
+
+Equipment (5)
+2x Camera Phone
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (6)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+3x Raven Spy
+1x Tasha Morgan
+
+Action Modifier (4)
+4x Lost in Crowds
+
+Action Modifier/Combat (5)
+2x Rapid Change
+3x Swallowed by the Night
+
+Action Modifier/Reaction (5)
+5x Form of the Bat
+
+Reaction (22)
+5x Cats' Guidance
+12x Second Tradition: Domain
+5x Sense the Savage Way
+
+Combat (16)
+10x Earth Meld
+6x Form of Mist

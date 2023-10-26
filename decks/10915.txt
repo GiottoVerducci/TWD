@@ -1,0 +1,66 @@
+Gehenna store championship - Campeonato Mineiro 2023
+Belo Horizonte, Brazil
+October 7th 2023
+3R+F
+43 players
+Guilherme Machado
+https://www.vekn.net/event-calendar/event/10915
+
+Deck Name: Sons of Anarchy
+Author: VTES Team
+
+Crypt (12 cards, min=10, max=24, avg=3.92)
+------------------------------------------
+2x Atiena            6  CEL obf pot pre  baron  Brujah:6
+2x Leumeah           6  PRE cel for pot  baron  Brujah:6
+2x Anita Wainwright  3  cel pre                 Brujah:6
+2x Ariane            3  cel pot pre             Brujah:5
+2x Laura Goldman     3  cel pre                 Brujah:5
+1x Elen Kamjian      4  CEL POT                 Brujah:6
+1x Anarch Convert    1  -none-                  Caitiff:ANY
+
+Library (90 cards)
+Master (16; 4 trifle)
+1x Anarch Free Press, The
+1x Carfax Abbey
+1x Celerity
+1x Fame
+1x Garibaldi-Meucci Museum
+3x Hackerspace
+1x KRCG News Radio
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+4x Vessel
+1x Warzone Hunting Ground
+
+Action (10)
+1x Childe of the Revolution
+8x Line Brawl
+1x Open War
+
+Ally (2)
+1x Grey Thorne
+1x Vivienne Géroux
+
+Equipment (9)
+6x .44 Magnum
+1x Book of Going Forth by Night, The
+2x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (2)
+2x Power of One
+
+Reaction (20)
+6x Bait and Switch
+11x Organized Resistance
+3x Protection Racket
+
+Combat (30)
+6x Concealed Weapon
+8x Dust Up
+6x Hell-for-Leather
+6x Target Vitals
+4x Taste of Vitae

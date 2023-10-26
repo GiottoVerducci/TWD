@@ -1,0 +1,68 @@
+Childen of the Revolution
+Belgrade, Serbia
+October 7th 2023
+3R+F
+13 players
+Stefan Petrovic
+https://www.vekn.net/event-calendar/event/10992
+
+-- Thank you to all the participants for joining the tournament. The final was very met with veteran players like Miloš Krstić and Milutin Melka, but victory came to Stefan Petrović with a big surprise as he was left holding 3 cards in the end.
+-- The final seating was as follows:
+-- Stefan Petrović (Obtenebration Bleed)
+-- Milutin Melka(Banu Haqim combat wall)
+-- Dušan Kosanović (Tzimisce Ad. Sascha Vykos wall )
+-- Goran Ivanović (Lord Thremere variant wall)
+-- Miloš Krstič (Giotto Emeral Legionnaire varient)
+-- Dušan Kosanović was pressed hard from the start, he lost 4 vampires to amaranth, and 5th was left in the gutter of torpor, as he held on for 1:30 min. Once this domino fell, Milutin was the next target, as Miloš was the target of Giotto elimination by Goran, Stefan did try to eliminate Milutin, but was stooped by Goran with eagle sight on 3 occasions. In the end, time run out, and with no cards in deck and eliminated pray, Stefan took the win with 1.5 points.
+
+Deck Name: Stefan Dominate
+
+Crypt (12 cards, min=16, max=25, avg=5.33)
+------------------------------------------
+2x Isanwayen                6  DOM MYT OBT              Kiasyd:4
+2x Onaedo                   6  DOM OBT aus pot          Lasombra:4
+2x Dame Hollerton           5  DOM OBT myt              Kiasyd:4
+2x Lucy Markowitz           3  dom obt                  Lasombra:4
+1x Badr, Shadow of Granada  7  DOM OBT POT              Lasombra:5
+1x Black Wallace            6  DOM POT obt tha          Lasombra:4
+1x Virginie, Prodigy        6  DOM POT obt      bishop  Lasombra:4
+1x Ermenegildo, The Rake    5  DOM OBT pot              Lasombra:4
+
+Library (77 cards)
+Master (11; 3 trifle)
+1x Coven, The
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Great Symposium
+1x Information Highway
+1x Jake Washington
+2x Life in the City
+
+Action (12)
+12x Govern the Unaligned
+
+Ally (4)
+4x Nocturn
+
+Action Modifier (30)
+4x Bonding
+7x Conditioning
+1x Foreshadowing Destruction
+4x Seduction
+5x Shadow Play
+5x Shroud of Absence
+3x Stone Travel
+1x Tenebrous Form
+
+Action Modifier/Combat (1)
+1x Fae Contortion
+
+Reaction (13)
+6x Deflection
+1x Delaying Tactics
+4x On the Qui Vive
+2x Redirection
+
+Combat (6)
+6x Shadow Body

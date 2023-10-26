@@ -1,0 +1,72 @@
+Zillah's Tears VI - Unity
+Vantaa, Finland
+October 1st 2023
+2R+F
+10 players
+Niko Vanhatalo
+https://www.vekn.net/event-calendar/event/10974
+
+-- Thank you to all the participants for joining the tournament. The final was very combat heavy with 3 very violent decks, accompanied by 2 bleed decks.
+-- The final seating was as follows:
+-- Joona Tuominen (unnamed)
+-- Niko Vanhatalo (Finnish Politics Potence weenies)
+-- Teemu Pulkkinen (Black Hand bleed)
+-- Antti Penttilä (Massassi combat)
+-- Jani Malmi (Banu Haqim combat + vote)
+-- Joona was ousted quite fast and I (Teemu) was ousted soon after. Niko and Jani made a deal to oust Antti to try to resolve the game in a 1v1 situation, and in the end it was Niko who came on top with 4 VP and a GW.
+-- Congratulations to Niko for the win. You can see the winning decklist at the beginning of this post.
+
+Deck Name: Finnish Politics: The Next Generation
+
+Crypt (12 cards, min=8, max=18, avg=3.5)
+----------------------------------------
+2x Domenic Giovanni    4  POT nec          Giovanni:6
+2x Elen Kamjian        4  CEL POT          Brujah:6
+2x Bez Dunsirn         2  POT              Giovanni:6
+1x Gianmaria Giovanni  5  POT dom nec obt  Giovanni:5
+1x Salvatore Giovanni  5  NEC POT dom      Giovanni:6
+1x Aunt Linda          4  POT obf          Nosferatu:6
+1x Volo                4  POT pro san      Blood Brother:5
+1x Eric Milliner       2  pot              Giovanni:5
+1x Rayne               2  pot              Brujah:6
+
+Library (90 cards)
+Master (16; 3 trifle)
+2x Archon Investigation
+1x Carver's Meat Packing and Storage
+1x Coven, The
+1x Direct Intervention
+1x Dis Pater
+2x Fame
+1x Frontal Assault
+2x Haven Uncovered
+1x Heidelberg Castle, Germany
+2x Life in the City
+1x Morgue Hunting Ground
+1x Powerbase: Montreal
+
+Action (13)
+2x Ambush
+9x Bum's Rush
+2x Harass
+
+Equipment (3)
+3x Camera Phone
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Combat (55)
+2x Disarm
+6x Fake Out
+10x Immortal Grapple
+8x Roundhouse
+7x Slam
+3x Target Vitals
+6x Taste of Vitae
+3x Thrown Sewer Lid
+10x Torn Signpost
+
+Event (1)
+1x Narrow Minds

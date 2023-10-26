@@ -1,0 +1,50 @@
+Nefertiti Rises
+Lafayette (LA), USA
+September 23rd 2023
+3R+F
+28 players
+Norm Brown
+https://www.vekn.net/event-calendar/event/10903
+
+Deck Name: Reginald Moore supports the Anarch Troublemakers
+
+Crypt (15 cards, min=6, max=16, avg=3)
+--------------------------------------
+3x Anarch Convert     1  -none-                 Caitiff:ANY
+2x Jenna Cross        4  CEL pot pre            Caitiff:4
+2x Reginald Moore     4  PRE          primogen  Brujah:4
+2x Thomas De Lutrius  4  aus cel pre  primogen  Toreador:4
+2x Ariane             3  cel pot pre            Brujah:5
+2x Laura Goldman      3  cel pre                Brujah:5
+1x Garret             3  pot pre                Brujah:4
+1x Lynn Thompson      3  cel pot                Brujah:5
+
+Library (90 cards)
+Master (16; 7 trifle)
+5x Anarch Troublemaker
+1x British Museum, London, The
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Filchware's Pawn Shop
+1x Metro Underground
+5x Villein
+1x Wider View
+
+Action (22)
+16x Illegalism
+5x Line Brawl
+1x Smash and Grab
+
+Equipment (4)
+4x Anarch Manifesto, An
+
+Action Modifier (6)
+6x Monkey Wrench
+
+Reaction (20)
+20x Protected District
+
+Combat (22)
+1x Backstep
+3x Bollix
+18x Dust Up

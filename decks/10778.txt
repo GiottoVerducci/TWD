@@ -1,0 +1,75 @@
+German NC 2023
+Bochum, Germany
+November 25th 2023
+3R+F
+23 players
+Rodinei Teixeira de Camargo
+https://www.vekn.net/event-calendar/event/10778
+
+Deck Name: Coisas de Gangrel
+
+Crypt (12 cards, min=14, max=26, avg=5.33)
+------------------------------------------
+2x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+2x André the Manipulator  6  FOR PRO                 Gangrel:5
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (19; 7 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+1x Ecoterrorists
+1x Garibaldi-Meucci Museum
+1x Powerbase: Montreal
+2x Shard, London, The
+1x Smiling Jack, The Anarch
+6x Villein
+1x Wider View
+1x Zoo Hunting Ground
+
+Action (16)
+1x Aranthebes, The Immortal
+1x Constant Revolution
+2x Rewilding
+12x Thing
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (2)
+1x Reckless Agitation
+1x Revolutionary Council
+
+Retainer (2)
+1x Mr. Winthrop
+1x Raven Spy
+
+Action Modifier (6)
+3x Earth Control
+3x Monkey Wrench
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (25)
+7x Bait and Switch
+6x Deep Ecology
+1x Delaying Tactics
+5x Eyes of the Wild
+6x Organized Resistance
+
+Combat (15)
+3x Donnybrook
+6x Earth Meld
+6x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians

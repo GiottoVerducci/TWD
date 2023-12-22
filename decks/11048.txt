@@ -1,0 +1,83 @@
+Childe of the Revolution: Newark
+Newark (OH), USA
+December 10th 2023
+2R+F
+15 players
+Alex Romano
+https://www.vekn.net/event-calendar/event/11048
+
+Deck Name: Dirge
+Description:
+
+I had initially planned on playing a different deck entirely but because Crew SC won the Championship I felt obligated to play Casey Snyder and her gorgeous Columbus based artwork. Hell of a weekend for the old girl...
+
+This deck isn't exactly a surprise if you know my play-style, but it's really hard to oust, as in all six games I've played it in it hasn't died. It's built around getting two or three barons out then getting a constant revolution or jack into play and then just sapping peoples will as they try to burn it away. There are some fairly obvious exclusions here that need fixed. Should definitely be at least two Monkey Wrenches, one less Kuyen and one more Vivian Vi, one more Constant Revolution. Not sure what to take out I just threw this together before a tournament a month or so ago and hadn't had a chance to tweak it since.
+
+The prelim rounds just kind of fell exactly as I needed them too as my predator was crippled the first game allowing me time to setup and prepare for the Unnamed bleed cannon coming my way. The second table was just a game of patience as my predator had grapple combat but had an aggressive predator so he didn't get many opportunities to enter combat with my minions.
+
+The final was really interesting as the seating was
+Jamie(The Unnamed)-->Erik(Ministry Stealth Bleed)-->Will(Malgorzata)-->Karl(Carna)-->Me(PRO block)
+
+I chose to sit in front of Karl as the top seed which is a terrifying prospect as he is one of the best players on the planet, but knowing how resilient this deck is and how little stealth/eagles sight he has to stop me I was hopeful it would allow me to get my prey and grand prey quick enough that he couldn't keep up. Luckily he had a predator with 32 points of vamp by about turn five and didn't Carna in his opening crypt so he was shelled up quickly. Then Erik got Will the next turn leaving Karl having to deal with Ministry stealth bleed and have to stay on defense primarily. I was able to get Jamie a turn or two later and Karl declined to play an eagles sight as he knew mathematically I would get through Jamie no matter what. By this point my Constant Revolution had 2-3 counters on it and Karl and Erik kind of accepted they had to burn it to have a shot of winning. I was able to fend off their advances and perhaps perfectly timed my Revolution got Karl's lone eagle sight and I knew I had my chance. I got Erik and conceded the VP to Karl taking the tiebreaker win.
+
+One of the more unsung heroes in a deck like this is the Owl Companion, I don't think it can be overstated how powerful it is to have knowledge pretty much anytime you want it. Makes this type of deck even harder to oust and I luckily drew it in every game very early. I think running a second one is probably not the worst idea.
+
+Crypt (12 cards, min=18, max=25, avg=5.58)
+------------------------------------------
+4x Kuyén           6  ANI PRO          baron  Gangrel:6
+3x Casey Snyder    6  PRO ani cel for  baron  Gangrel:6
+2x Elisha Tucker   6  PRE cel obf pro  baron  Follower of Set:6
+1x Vivian VI       7  PRE PRO obf tha  baron  Follower of Set:6
+1x Indira          3  PRO                     Gangrel:6
+1x Joseph Fischer  3  PRO                     Gangrel antitribu:5
+
+Library (90 cards)
+Master (24; 9 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+1x Backways
+1x Carfax Abbey
+1x Direct Intervention
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Fear of Mekhet
+1x Giant's Blood
+1x Guardian Angel
+1x Papillon
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+4x Vessel
+3x Villein
+2x Wider View
+
+Action (3)
+1x Constant Revolution
+2x Rewilding
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (8)
+1x J. S. Simmons, Esq.
+1x Owl Companion
+5x Raven Spy
+1x Tasha Morgan
+
+Reaction (21)
+2x Bait and Switch
+2x Eyes of the Wild
+3x On the Qui Vive
+14x Organized Resistance
+
+Combat (31)
+2x Donnybrook
+19x Earth Meld
+5x Form of Mist
+5x Pack Alpha
+
+Event (1)
+1x Scourge of the Enochians

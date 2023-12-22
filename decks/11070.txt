@@ -1,0 +1,61 @@
+Barnett's Birthday Basagan ng Bungo
+Quezon City, Philippines
+November 25th 2023
+2R+F
+17 players
+Joscar Gamaliel Malacaman
+https://www.vekn.net/event-calendar/event/11070
+
+-- 4VP in final
+
+Deck Name: Banuthema Haqim
+
+Crypt (12 cards, min=22, max=34, avg=6.83)
+------------------------------------------
+2x Kasim Bayar        9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Oluwafunmilayo     8  AUS CEL OBF THA      prince    Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf      prince    Assamite:6
+2x Kassandra Tassaki  6  CEL THA obf          prince    Assamite:6
+2x Khadija Al-Kindi   6  CEL OBF THA          primogen  Assamite:6
+2x Warmaksan          5  THA cel obf          prince    Assamite:6
+
+Library (90 cards)
+Master (22; 9 trifle)
+6x Ashur Tablets
+3x Haqim's Law: Retribution
+1x Market Square
+1x Papillon
+2x Parthenon, The
+4x Priority Contract
+1x Vessel
+3x Villein
+1x Wider View
+
+Action (4)
+4x Hunter's Mark
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (5)
+5x Anathema
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier/Combat (8)
+4x Resist Earth's Grasp
+4x Swallowed by the Night
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (39)
+4x Blur
+4x Flash
+10x Hunger of Marduk
+2x Lightning Reflexes
+6x Pursuit
+7x Quickness
+4x Rego Motum
+2x Walk of Flame

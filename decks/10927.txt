@@ -1,0 +1,57 @@
+Campeonato Carioca
+Rio de Janeiro, Rj, Brazil
+December 17th 2023
+3R+F
+21 players
+Thiago Sousa
+https://www.vekn.net/event-calendar/event/10927
+
+Deck Name:	Show of Force
+
+Crypt (12 cards, min=28, max=35, avg=7.83)
+------------------------------------------
+3x Gwenllian Arwyn     9  CEL POT PRE ani dom for             Brujah:6
+3x Theo Bell           8  CEL POT PRE aus dom                 Brujah:6
+2x Chun Hei            7  CEL POT PRE                         Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro              baron  Brujah:6
+1x Don Caravelli       8  CEL POT PRE aus dom                 Brujah:5
+1x Don Cerro           7  CEL POT aus dom for pre pro         Brujah:5
+
+Library (90 cards)
+Master (14; 9 trifle)
+1x Dreams of the Sphinx
+1x Fame
+1x Metro Underground
+1x Rack, The
+3x Vessel
+5x Villein
+1x Warzone Hunting Ground
+1x Wash
+
+Action (24)
+2x Ambush
+6x Enchant Kindred
+4x Esprit de Corps
+2x Harass
+2x Preternatural Strength
+8x Show of Force
+
+Action Modifier (2)
+2x Zephyr
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Reaction (14)
+8x Deflection
+6x On the Qui Vive
+
+Combat (32)
+5x Blur
+2x Disarm
+3x Earthshock
+1x Fast Hands
+8x Immortal Grapple
+4x Pursuit
+3x Sideslip
+6x Taste of Vitae

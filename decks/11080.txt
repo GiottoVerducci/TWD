@@ -1,0 +1,42 @@
+Fee Stake: Jyväskylä 3
+Jyväskylä, Finland
+December 9th 2023
+2R+F
+13 players
+Ari Lensu
+https://www.vekn.net/event-calendar/event/11080
+
+Deck Name: We Are the Sisterhood
+Author: Ari Lensu
+Description: Valkyrie breeder
+
+Crypt (19 cards, min=16, max=28, avg=4.63)
+------------------------------------------
+16x Valkyrie         4  for pre pro             Gangrel:3
+3x  Brunhilde (ADV)  8  ANI FOR PRO pre  baron  Gangrel:3
+
+Library (79 cards)
+Master (17)
+1x Carfax Abbey
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Ecoterrorists
+2x Gangrel Revel
+2x Information Highway
+2x Protected Resources
+1x Seattle Committee
+3x Tribute to the Master
+2x Visit from the Capuchin
+1x Vox Domini
+
+Action (55)
+1x Aranthebes, The Immortal
+10x Gramle
+44x Thing
+
+Reaction (6)
+3x Delaying Tactics
+3x Poison Pill
+
+Event (1)
+1x Narrow Minds

@@ -1,0 +1,70 @@
+Computer Hacking
+Epita, Paris, France
+November 25th 2023
+3R+F
+16 players
+Vincent Ripoll
+https://www.vekn.net/event-calendar/event/11110
+
+- 1.5vp in final
+
+Deck Name: Royal with Cheese
+Description: This is a new version of the deck. The deck was pretty slow so I've added a lot of Zillah's Valley and Aksinya Daclau (who happens to have all the right disciplines but no title, hence the Regent). The conclusion is that even when you pack 11 Zillah's, you won't draw more than one in the early game! But it's probably bad luck.
+
+Crypt (13 cards, min=35, max=44, avg=10.15)
+-------------------------------------------
+5x Adana de Sforza     11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+4x Aksinya Daclau       9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+3x Hardestadt          11  DOM FOR POT PRE cel pro  inner circle  Ventrue:4
+1x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro      prince        Ventrue:5
+
+Library (90 cards)
+Master (28; 10 trifle)
+1x Erciyes Fragments, The
+1x Hostile Takeover -- big fun with the barons
+1x Information Highway -- because it means an IC in two turns if you have 4 transfers
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Protean -- for Hardestadt, also useful for Banishment
+1x Regent -- for Aksinya
+8x Villein
+2x Wider View
+11x Zillah's Valley
+
+Action (1)
+1x Entrancement
+
+Political Action (13)
+2x Anarchist Uprising
+1x Ancilla Empowerment
+6x Banishment
+1x Conservative Agitation
+1x Domain Challenge
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (22)
+1x Approximation of Loyalty
+4x Earth Control
+2x Enchanting Gaze
+1x Enkil Cog
+2x Horrific Countenance -- once again, one HC = one VP in most games
+5x Instantaneous Transformation
+2x Revelation of the Serpent
+5x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Action Modifier/Reaction (3)
+2x Form of the Bat
+1x Scalpel Tongue
+
+Reaction (4)
+2x Deflection
+2x On the Qui Vive
+
+Combat (16)
+2x Claws of the Dead
+8x Earth Meld
+6x Form of Mist

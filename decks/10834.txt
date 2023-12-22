@@ -1,0 +1,61 @@
+Danse Macabre - Last Dance
+Vidor (TX), USA
+December 3rd 2023
+2R+F
+15 players
+Marshall Hogue
+https://www.vekn.net/event-calendar/event/10834
+
+Deck Name: Win, Lutz, or Draw
+Description: Mild tweaks to my first version, but reliable all the same. We tap, we cap.
+
+Crypt (12 cards, min=34, max=44, avg=10)
+----------------------------------------
+4x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+2x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+2x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+2x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Stavros                 7  AUS OBF PRE dem          priscus       Malkavian antitribu:4
+
+Library (90 cards)
+Master (18; 2 trifle)
+3x Information Highway
+8x Minion Tap
+2x Wider View
+5x Zillah's Valley
+
+Equipment (3)
+1x Heart of Nizchetus
+2x Helicopter
+
+Political Action (24)
+2x Alastor
+2x Anarchist Uprising
+1x Ancient Influence
+2x Ancilla Empowerment
+3x Banishment
+3x Conservative Agitation
+1x Disputed Territory
+8x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (33)
+3x Awe
+3x Bewitching Oration
+2x Elder Impersonation
+4x Forgotten Labyrinth
+5x Lost in Crowds
+6x Perfect Paragon
+10x Voter Captivation
+
+Action Modifier/Combat (7)
+4x Force of Personality
+3x Swallowed by the Night
+
+Combat (4)
+4x Majesty
+
+Event (1)
+1x Bitter and Sweet Story, The

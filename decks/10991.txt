@@ -1,0 +1,46 @@
+V:TES Mechelen: Peace Treaty
+Mechelen, Belgium
+November 11th 2023
+3R+F
+20 players
+Jozef Patrnciak
+https://www.vekn.net/event-calendar/event/10991
+
+Final Seating: Hector (Carna wall) > Bram (Auspex Cel Guns) > Bart (Black Hand Assamite) > Jozef (Tupdog emerald summon history) > Koen (Wienie Dem)
+
+Deck Name: Emerald Tupdog Breeding Programme
+
+Crypt (47 cards, min=4, max=7, avg=1.06)
+----------------------------------------
+45x Tupdog             1  POT VIS  Gargoyle:3
+1x  Saiz               3  aus dom  Tremere antitribu:3
+1x  Heinrick Schlempt  2  tha      Tremere antitribu:2
+
+Library (90 cards)
+Master (36; 11 trifle)
+11x Agent of Power
+2x Archon Investigation
+1x Direct Intervention
+8x Inceptor
+7x Liquidation
+7x Parthenon, The
+
+Action (20)
+7x Scrounging
+13x Summon History
+
+Ally (14)
+11x Emerald Legionnaire
+1x Gianna di Canneto
+1x Mylan Horseed
+1x Veneficti
+
+Action Modifier (8)
+8x Skin of the Chameleon
+
+Reaction (11)
+6x Delaying Tactics
+5x Voices of the Castle
+
+Event (1)
+1x Unmasking, The

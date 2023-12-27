@@ -1,0 +1,87 @@
+Unburdening the Bestial Soul: Pittsburgh
+Homestead, Pittsburgh (PA), USA
+November 4th 2023
+2R+F
+14 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/11004
+
+-- 1GW5 + 2 VPs in final, won on seeding
+
+Deck Name: If Bram Played !Toreador
+Description:
+I took Bram's last to TWDs ("nobody bounces like Schumi does" and "GP BRUSSELS -
+Blame it on Didi") switched to !Toreador and added some of my own seasoning, mixed it
+up, and this was the result.  Big thanks to Bram for solid starting decklists.
+
+The deck performed differently in each round and some cards were strong in one round,
+but did nothing in another.  Overall the bounce component was gold in every game.  I
+totally picked the meta having enough bleed to make this deck shine.
+
+Crypt (12 cards, min=13, max=26, avg=5.08)
+------------------------------------------
+2x Jost Werner                     6  AUS PRE ani      Toreador antitribu:2
+2x Sheila Mezarin                  6  AUS PRE cel for  Toreador antitribu:2
+1x Greta Kircher                   7  AUS CEL PRE obf  Toreador antitribu:2
+1x Yitzak                          7  AUS CEL THA pre  Toreador antitribu:3
+1x Creamy Jade                     5  PRE aus cel vic  Toreador antitribu:3
+1x Mercy, Knight Inquisitor        5  AUS cel dom pre  Toreador antitribu:2
+1x Idalia, Prophet of Guadalajara  4  AUS dem          Malkavian antitribu:2
+1x Remilliard, Devout Crusader     4  AUS pre          Toreador antitribu:2
+1x Isabel de Leon                  3  AUS              Toreador:2
+1x Nicholas Chang                  2  aus              Toreador antitribu:3
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Direct Intervention -- canceled Carrion Crows in final
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The -- used to steal Carlton Van Wyk in round 1
+1x Fetish Club Hunting Ground
+1x Giant's Blood
+1x Hungry Coyote, The
+1x Jake Washington
+2x Palla Grande
+1x Pentex(TM) Subversion
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch -- critical to game 1 and helpful in final
+6x Villein
+
+Action (1)
+1x Abbot
+
+Equipment (11)
+4x .44 Magnum
+1x Bowl of Convergence
+1x Camera Phone
+2x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Sniper Rifle
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (38)
+2x Delaying Tactics -- useless today; titles, but no voting
+4x Eagle's Sight
+8x Eyes of Argus
+1x Forced Awakening
+5x My Enemy's Enemy
+6x On the Qui Vive
+12x Telepathic Misdirection
+
+Combat (15)
+3x Aura Reading
+1x Charismatic Aura
+4x Concealed Weapon
+2x High Ground -- needed to consider Jost, so no Pursuit
+2x Majesty
+3x Taste of Vitae
+
+Event (2)
+2x Nightmares upon Nightmares -- to metagame allies; useless today

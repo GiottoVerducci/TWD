@@ -1,0 +1,69 @@
+Décimo Nono Dia
+Fortaleza (CE), Brazil
+December 3rd 2023
+2R+F
+16 players
+André Gomes
+https://www.vekn.net/event-calendar/event/10623
+
+-- 0.5VP in final
+
+Deck Name: Quase da caixa
+
+Crypt (12 cards, min=17, max=27, avg=5.58)
+------------------------------------------
+3x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+2x Kuyén              6  ANI PRO          baron  Gangrel:6
+2x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+2x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Crow               5  ANI for pro tha         Gangrel:5
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+
+Library (82 cards)
+Master (14; 4 trifle)
+1x Anarch Railroad
+1x Backways
+1x Ecoterrorists
+1x Elder Library
+1x Ennoia's Theater
+1x Fame
+1x Haven Uncovered
+1x Rack, The
+1x Smiling Jack, The Anarch
+4x Vessel
+1x Zoo Hunting Ground
+
+Action (11)
+2x Constant Revolution
+2x Deep Song
+1x Gift of Proteus
+1x Rewilding
+5x Thing
+
+Ally (1)
+1x Double Deuce
+
+Retainer (4)
+1x Murder of Crows
+3x Raven Spy
+
+Action Modifier (3)
+3x Earth Control
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (23)
+4x Cats' Guidance
+6x Deep Ecology
+9x Eyes of the Wild
+4x Protection Racket
+
+Combat (23)
+4x Bear's Skin
+5x Carrion Crows
+4x Claws of the Dead
+4x Earth Meld
+2x Form of the Wolf
+4x Hidden Strength

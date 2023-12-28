@@ -1,0 +1,68 @@
+Dutch NC 2023 - What we do in the shadows
+Montfoort, Netherlands
+September 3rd 2023
+3R+F
+31 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/10794
+
+-- Finalists Nick Hofman (Emeralds) > Gerhard Range (Ministry bleed) > Héctor Javier Ordóñez (Ministry dual form bleed / vote) - Dietmar Range (Rebekah and friends) > Bram Van Stappen (banu)
+-- - Hector oust Didi very fast but takes plenty of damage from bleeds
+-- - Bram makes deal with Hector for rushes (alastor) on Didi for no bleeds
+-- - Hardy (with 1 vampire left) ousts Hector
+-- - Nick ousts Hardy
+-- - Bram wins in heads up
+
+Deck Name: 'Blame it on did II'
+
+Crypt (12 cards, min=18, max=36, avg=6.75)
+------------------------------------------
+4x Kasim Bayar        9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Kassandra Tassaki  6  CEL THA obf          prince    Assamite:6
+1x Oluwafunmilayo     8  AUS CEL OBF THA      prince    Assamite:6
+1x Farah Sarroub      7  CEL THA aus obf      prince    Assamite:6
+1x Khadija Al-Kindi   6  CEL OBF THA          primogen  Assamite:6
+1x Warmaksan          5  THA cel obf          prince    Assamite:6
+1x Nayarana           4  THA cel                        Assamite:6
+1x Bijou              3  cel tha                        Assamite:6
+
+Library (73 cards)
+Master (16; 6 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Dreams of the Sphinx
+1x Haqim's Law: Retribution
+1x Powerbase: Montreal
+1x Priority Contract
+4x Villein
+1x Wider View
+
+Action (3)
+3x Fourth Tradition: The Accounting
+
+Equipment (4)
+2x Assault Rifle
+1x Heart of Nizchetus
+1x Helicopter
+
+Political Action (16)
+3x Alastor
+3x Banishment
+6x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (4)
+1x Faceless Night
+3x Lost in Crowds
+
+Action Modifier/Combat (7)
+3x Resist Earth's Grasp
+4x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (15)
+7x Hunger of Marduk
+4x Pursuit
+4x Side Strike

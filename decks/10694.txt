@@ -1,0 +1,60 @@
+Grand Prix Germany
+Essen, Germany
+September 17th 2023
+3R+F
+35 players
+Jeroen van Oort
+https://www.vekn.net/event-calendar/event/10694
+
+Deck Name: Ministrery G56 boring is better
+
+Crypt (12 cards, min=19, max=31, avg=6.25)
+------------------------------------------
+2x Sergio Bueno        8  OBF PRE PRO aus pot  baron  Follower of Set:6
+2x Vivian VI           7  PRE PRO obf tha      baron  Follower of Set:6
+2x Elisha Tucker       6  PRE cel obf pro      baron  Follower of Set:6
+1x Nonu Dis            8  OBF PRE PRO for             Follower of Set:6
+1x Crystal Lynn        6  OBF PRE PRO                 Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro             Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre             Follower of Set:6
+1x Jenny Silver        5  PRE PRO obf                 Follower of Set:6
+1x Marcel              4  obf pre pro                 Follower of Set:6
+
+Library (89 cards)
+Master (17; 9 trifle)
+2x Club Illusion
+1x Coven, The
+5x Dabbler
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+2x Grooming the Protégé
+1x Opium Den
+3x Villein
+
+Action (22)
+2x Corruption
+2x Mesu Bedshet
+18x Platinum Protocol, The
+
+Equipment (2)
+2x Learjet
+
+Action Modifier (27)
+2x CrimethInc.
+3x Enchanting Gaze
+1x Lost in Crowds
+6x Memory Rift
+15x Revelation of the Serpent
+
+Action Modifier/Combat (1)
+1x Hide the Mind
+
+Reaction (9)
+3x Bait and Switch
+6x Party Out Of Bounds
+
+Combat (11)
+1x Donnybrook
+2x Earth Meld
+8x Form of Mist

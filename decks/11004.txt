@@ -12,10 +12,10 @@ Deck Name: If Bram Played !Toreador
 Description:
 I took Bram's last to TWDs ("nobody bounces like Schumi does" and "GP BRUSSELS -
 Blame it on Didi") switched to !Toreador and added some of my own seasoning, mixed it
-up, and this was the result.  Big thanks to Bram for solid starting decklists.
+up, and this was the result. Big thanks to Bram for solid starting decklists.
 
 The deck performed differently in each round and some cards were strong in one round,
-but did nothing in another.  Overall the bounce component was gold in every game.  I
+but did nothing in another. Overall the bounce component was gold in every game.  I
 totally picked the meta having enough bleed to make this deck shine.
 
 Crypt (12 cards, min=13, max=26, avg=5.08)
@@ -54,7 +54,7 @@ Action (1)
 Equipment (11)
 4x .44 Magnum
 1x Bowl of Convergence
-1x Camera Phone
+1x Camera Phone -- in theory for Jost; in practice not worth it
 2x Heart of Nizchetus
 1x Ivory Bow
 1x Kevlar Vest

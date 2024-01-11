@@ -1,0 +1,68 @@
+1st Serbian NC 2012
+Belgrade, Serbia
+June 2nd 2012
+3R+F
+16 players
+Milos Krstic
+
+Deck Name: White Wedding
+
+Description: This deck, even tho it looks like standard Spirit
+Marionette hijacker, is in fact stealth & bleed deck that uses
+people's fear of Marionette+Heidelberg Castle to make them tap
+thus shutting down block/bleed redirection defense of prey (also
+it stops predator from blocking undirected actions easely).
+Paying 3 pool in order to have a team of Salubris is not so bad
+since their texts generate way more pool then that, and AUS
+smallcaps make good and cheap support/defense. The dreaded
+German castle is of course used to strip marionetted vampires
+off their blood, but since most of the time people will be tapped
+its main use is to make lunge attacks with bleed retainers.
+In retrospect i would add some 5-10 cards since this deck burns
+alot of cards each turn, which resulted in me being decked out
+3 out of 4 rounds i played. I had 2GW8 pre-finals, 2GW10 total.
+
+Crypt (12 cards, min=16, max=32, avg=6.33)
+------------------------------------------
+4x Serenna the White  8  AUS FOR OBE ani dem  Salubri:6
+4x Matthew            7  AUS FOR OBE cel      Salubri:6
+1x La Viuda Blanca    6  AUS NEC for obf      Harbinger of Skulls:6
+1x Tyler McGill       4  AUS pre              Toreador:5
+1x Andre LeRoux       3  aus                  Toreador:5
+1x Veejay Vinod       3  AUS                  Nagaraja:6
+
+Library (70 cards)
+Master (15; 7 trifle)
+3x Dreams of the Sphinx
+3x Heidelberg Castle, Germany
+1x Lilith's Blessing
+1x Pentex(TM) Subversion
+5x Villein
+2x Wider View
+
+Action (14)
+6x Renewed Vigor
+8x Spirit Marionette
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+2x Robert Carter
+1x Tasha Morgan
+
+Action Modifier (12)
+9x Freak Drive
+3x Repulsion
+
+Action Modifier/Combat (3)
+3x Penitent Resilience
+
+Action Modifier/Reaction (4)
+4x Gift of Sleep
+
+Reaction (13)
+5x Eyes of Argus
+1x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (5)
+5x Anesthetic Touch

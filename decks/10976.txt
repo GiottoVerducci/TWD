@@ -1,0 +1,73 @@
+4th Middle European Cup - Austrian National Championship
+Austria, Vienna
+25 November, 2023
+3R+F
+24 Players
+Milos Krstic
+www.vekn.net/event-calendar/event/10976
+
+-- 3VP in final
+
+Deck Name : 99 Problems
+Created By: Milos Krstic
+Description:
+"Son, do you know why I'm stopping you for?
+Are you carrying an Ashur Tablets on you, I know a lot of you are?"
+
+Crypt [12 vampires] Capacity min: 1 max: 10 average: 6.91667
+
+4x Giotto Verducci 7 DAI OBF for pot pre Baali:2
+3x Maris Streck 9 AUS OBF ani dem dom justicar Malkavian:3
+2x Rachel Brandywine 10 AUS DEM OBF PRO ani prince Malkavian:3
+1x Victoria 5 AUS cel obf Malkavian:2
+1x New Blood 2 san Blood Bro:ANY
+1x Anarch Convert 1 Caitiff:ANY
+
+
+Library [90 cards]
+
+Action [12]
+1x Army of Rats
+6x Clan Impersonation
+1x Contagion
+4x Unleash Hell's Fury
+
+Action Modifier [21]
+4x Elder Impersonation
+1x Enkil Cog
+4x Faceless Night
+8x Freak Drive
+4x Lost in Crowds
+
+Action Modifier/Combat [4]
+4x Swallowed by the Night
+
+Ally [7]
+7x Emerald Legionnaire
+
+Equipment [5]
+5x Kaymakli Fragment
+
+Event [2]
+2x Unmasking, The
+
+Master [31]
+1x Archon Investigation
+12x Ashur Tablets
+1x Asylum Hunting Ground
+1x Coven, The
+2x Direct Intervention
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+6x Liquidation
+1x Madness Network
+3x Parthenon, The
+1x Pentex(TM) Subversion
+
+Reaction [7]
+2x Delaying Tactics
+5x Telepathic Misdirection
+
+Retainer [1]
+1x Homunculus

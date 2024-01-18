@@ -1,0 +1,82 @@
+Anarch Revolt
+Belgrade, Serbia
+December 20th 2008
+3R+F
+15 players
+Milos Krstic
+
+Deck Name: Circle of Madness
+
+Description: Use Lutz and other IC to gain vote superiority, but don't
+call politics to aggressively or you will get bashed, rather use
+Lutz's text to damage your prey's pool and to keep him from helping
+others vote if he has any votes and also if you're encountering wall
+just let someone else's politics do your job.
+Try to go combo bleed+true love's face+crock tongue+change of target
+for max damage on your prey's minions.
+Just play out slow and give everyone a chance to reduce their pool to
+reasonable amounts before you start an offensive. Also calling
+politics in predator's turn with Enkil Cog is nice:)
+
+Crypt (12 cards, min=29, max=44, avg=9.67)
+------------------------------------------
+4x Lutz von Hohenzollern        11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+2x Rafael de Corazon            11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Adana de Sforza              11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Lucinde, Alastor             10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+1x Marcus Vitel                 10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+1x Malabranca                    9  AUS CEL PRE PRO obf      archbishop    Toreador antitribu:4
+1x Antoinette, She Who Watches   6  AUS PRE cel obf          primogen      Toreador:3
+1x Reginald Moore                4  PRE                      primogen      Brujah:4
+
+Library (90 cards)
+Master (17; 6 trifle)
+1x Archon Investigation
+1x Dark Influences
+1x Elysium: The Arboretum
+1x Elysium: The Palace of Versailles
+1x Legendary Vampire
+6x Minion Tap
+6x Vessel
+
+Action (2)
+1x Charming Lobby
+1x Entrancement
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+2x Conservative Agitation
+1x Disputed Territory
+6x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (35)
+1x Awe
+2x Bewitching Oration
+4x Change of Target
+3x Crocodile's Tongue
+3x Elder Impersonation
+1x Enkil Cog
+2x Forgotten Labyrinth
+4x Lost in Crowds
+1x Old Friends
+2x Perfect Paragon
+2x True Love's Face
+2x Under the Skin
+8x Voter Captivation
+
+Action Modifier/Combat (5)
+3x Force of Personality
+2x Swallowed by the Night
+
+Reaction (7)
+2x Eyes of Argus
+5x Telepathic Misdirection
+
+Combat (8)
+1x Charismatic Aura
+7x Majesty

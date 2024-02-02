@@ -1,0 +1,63 @@
+Abomination 6
+Gap (PA), USA
+January 20th 2024
+2R+F
+13 players
+Erik Albenze
+https://www.vekn.net/event-calendar/event/11074
+
+Deck Name: Nosferatu stealth bleed?
+Description: Animalism combat to deal with problems and stealth bleed with natural +bleed.
+
+Crypt (12 cards, min=17, max=24, avg=5.42)
+------------------------------------------
+3x Larissa Moreira   6  ANI OBF pot      primogen  Nosferatu:6
+3x Lenny Burkhead    6  ANI obf pot pre  primogen  Nosferatu:6
+2x Dowager, The      6  ANI OBF aus pot  primogen  Nosferatu:6
+2x Horace Radcliffe  5  ANI POT obf                Nosferatu:6
+1x Ryan              4  ani obf pot                Nosferatu:6
+1x Baixinho          3  ani obf                    Nosferatu:6
+
+Library (90 cards)
+Master (12)
+1x Barrens, The
+5x Blood Doll
+1x Direct Intervention
+2x Labyrinth, The
+1x Powerbase: Montreal
+1x Slum Hunting Ground
+1x Sudden Reversal
+
+Action (10)
+8x Deep Song
+2x Tier of Souls
+
+Ally (3)
+3x Underbridge Stray
+
+Equipment (1)
+1x Camera Phone
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (8)
+3x Faceless Night
+5x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (21)
+6x Cats' Guidance
+6x On the Qui Vive
+6x Protected District
+3x Warrens, The
+
+Combat (29)
+10x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+5x Target Vitals
+4x Taste of Vitae

@@ -1,0 +1,69 @@
+Márcio Pinheiro
+Fortaleza (CE), Brazil
+January 21st 2024
+2R+F
+25 players
+Luís Otávio Franco Martins
+https://www.vekn.net/event-calendar/event/11167
+
+Deck Name: To com fome, quero merendar
+Author: Zoroh
+
+Crypt (12 cards, min=20, max=35, avg=6.75)
+------------------------------------------
+3x Kasim Bayar        9  CEL OBF THA aus pot  justicar  Assamite:6
+3x Kassandra Tassaki  6  CEL THA obf          prince    Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf      prince    Assamite:6
+2x Warmaksan          5  THA cel obf          prince    Assamite:6
+1x Oluwafunmilayo     8  AUS CEL OBF THA      prince    Assamite:6
+1x Nayarana           4  THA cel                        Assamite:6
+
+Library (90 cards)
+Master (15; 8 trifle)
+1x Alamut
+1x Black Throne, The
+1x Fame
+1x Haqim's Law: Retribution
+1x Market Square
+4x Priority Contract
+1x Underworld Hunting Ground
+4x Villein
+1x Yoruba Shrine
+
+Action (12)
+4x Biothaumaturgic Experiment
+6x Hunter's Mark
+1x Khabar: Glory
+1x Rutor's Hand
+
+Equipment (2)
+2x .44 Magnum
+
+Political Action (3)
+2x Anathema
+1x Archon
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (4)
+2x Lost in Crowds
+2x Zephyr
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (41)
+2x Blood Rage
+4x Blur
+5x Flash
+12x Hunger of Marduk
+4x Lightning Reflexes
+4x Pursuit
+4x Quickness
+2x Rego Motum
+2x Soul Burn
+2x Walk of Flame

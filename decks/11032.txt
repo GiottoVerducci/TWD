@@ -1,0 +1,72 @@
+EC 2023 - Day 2
+Barcelona, Spain
+October 15th 2023
+3R+F
+85 players
+Jonas Ståhle
+https://www.vekn.net/event-calendar/event/11032
+
+-- 2GW8 + 3vp in final
+
+Deck Name: Fee Snake: Hyvinkää
+
+Crypt (12 cards, min=19, max=31, avg=6.33)
+------------------------------------------
+3x Vivian VI           7  PRE PRO obf tha      baron  Follower of Set:6
+2x Nonu Dis            8  OBF PRE PRO for             Follower of Set:6
+2x Jenny Silver        5  PRE PRO obf                 Follower of Set:6
+1x Sergio Bueno        8  OBF PRE PRO aus pot  baron  Follower of Set:6
+1x Crystal Lynn        6  OBF PRE PRO                 Follower of Set:6
+1x Elisha Tucker       6  PRE cel obf pro      baron  Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro             Follower of Set:6
+1x Marcel              4  obf pre pro                 Follower of Set:6
+
+Library (84 cards)
+Master (14; 4 trifle)
+1x Anarch Railroad
+1x Coven, The
+3x Dabbler
+1x Garibaldi-Meucci Museum
+5x Minion Tap
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Powerbase: Los Angeles
+
+Action (20)
+1x Dream World
+3x Entrancement
+1x Fee Stake: Corte
+1x Fee Stake: Perth
+1x Intimidation
+3x Mind Numb
+10x Platinum Protocol, The
+
+Ally (1)
+1x Saatet-ta
+
+Action Modifier (27)
+2x Aire of Elation
+5x CrimethInc.
+4x Enchanting Gaze
+1x Faceless Night
+1x Lost in Crowds
+5x Memory Rift
+7x Revelation of the Serpent
+1x Spying Mission
+1x True Love's Face
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (11)
+4x Bait and Switch
+3x On the Qui Vive
+2x Organized Resistance
+2x Party Out Of Bounds
+
+Combat (6)
+2x Earth Meld
+4x Form of Mist

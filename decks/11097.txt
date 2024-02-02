@@ -1,0 +1,50 @@
+The Dark Courier
+Pamplona, Spain
+January 13th 2024
+2R+F
+24 players
+Pedro Millán Monje
+https://www.vekn.net/event-calendar/event/11097
+
+Deck Name: Zombie Rabbits
+Author: Coyote
+
+Crypt (12 cards, min=12, max=30, avg=5)
+---------------------------------------
+4x Angel Chavarria  3  THN              Samedi:6
+3x Jean Lisle       8  FOR OBF THN pot  Samedi:6
+3x Marie-Pierre     4  THN for nec      Samedi:6
+2x Mister Schwartz  6  NEC THN for obf  Samedi:6
+
+Library (90 cards)
+Master (25; 4 trifle)
+1x Anarch Troublemaker
+2x Archon Investigation
+1x Channel 10
+1x Charisma
+2x Direct Intervention
+1x Houngan
+4x Perfectionist
+9x Specialization
+1x Villein
+3x Wider View
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (39)
+1x Carlton Van Wyk
+1x Procurer
+36x Reanimated Corpse
+1x Shambling Hordes
+
+Equipment (2)
+2x Unlicensed Taxicab
+
+Action Modifier (16)
+10x Under My Skin
+6x Veil the Legions
+
+Event (7)
+1x Narrow Minds
+6x Unmasking, The

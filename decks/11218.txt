@@ -1,0 +1,64 @@
+Mensal Garagem do nerd
+Belo Horizonte (MG), Brazil
+January 20th 2024
+2R+F
+10 players
+Thiago Campos
+https://www.vekn.net/event-calendar/event/11218
+
+-- 1GW6 + 3vp in final
+
+Deck Name: Khurshid and Emerald Last Swan Song
+Author: Noctemsorrow
+
+Crypt (13 cards, min=15, max=34, avg=6.54)
+------------------------------------------
+5x Khurshid            8  AUS FOR NEC POT      Harbinger of Skulls:6
+2x Qawiyya el-Ghaduba  9  FOR POT VAL aus pre  Salubri antitribu:5
+2x La Viuda Blanca     6  AUS NEC for obf      Harbinger of Skulls:6
+1x America Johnson     4  AUS vic              Tzimisce:5
+1x Pearl               4  AUS obf              Malkavian antitribu:5
+1x Tyler McGill        4  AUS pre              Toreador:5
+1x Veejay Vinod        3  AUS                  Nagaraja:6
+
+Library (90 cards)
+Master (11)
+1x Carver's Meat Packing and Storage
+1x Crematorium
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Fame
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Monster
+
+Action (12)
+2x Ambush
+3x Bum's Rush
+2x Harass
+2x Nose of the Hound
+3x Rumble
+
+Ally (8)
+8x Emerald Legionnaire
+
+Equipment (2)
+1x Eye of Hazimel
+1x Shaal Fragment
+
+Action Modifier (8)
+8x Freak Drive
+
+Reaction (9)
+1x Delaying Tactics
+3x Eyes of Argus
+5x Telepathic Misdirection
+
+Combat (40)
+6x Aura Reading
+8x Dead Hand
+5x Death of My Conscience, The
+10x Immortal Grapple
+3x Rolling with the Punches
+5x Taste of Vitae
+3x Unflinching Persistence

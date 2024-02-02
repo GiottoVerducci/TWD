@@ -1,6 +1,6 @@
 Tangle Hand of Los Angeles
 Belgrade, Serbia
-January 13th, 2024
+January 13th 2024
 3R+F
 12 players
 Miloš Krstić
@@ -17,44 +17,17 @@ I am of the opinion that Creeping Sabotage needs to be errata'd since it is too 
 and can get anyone a tournament win.
 
 
-Crypt [12 vampires] Capacity min: 1 max: 9 average: 6.83333
+Crypt (12 cards, min=16, max=36, avg=6.83)
+------------------------------------------
+4x Giotto Verducci  7  DAI OBF for pot pre            Baali:2
+3x Maris Streck     9  AUS OBF ani dem dom  justicar  Malkavian:3
+2x Khalid           9  ANI AUS OBF POT tha  primogen  Nosferatu:3
+1x Alonzo Guillen   6  OBF ani for pot                Nosferatu:3
+1x New Blood        2  san                            Blood Brother:ANY
+1x Anarch Convert   1  -none-                         Caitiff:ANY
 
-4x Giotto Verducci 7 DAI OBF for pot pre Baali:2
-3x Maris Streck 9 AUS OBF ani dem dom justicar Malkavian:3
-2x Khalid 9 ANI AUS OBF POT tha primogen Nosferatu:3
-1x Alonzo Guillen 6 OBF ani for pot Nosferatu:3
-1x New Blood 2 san Blood Bro:ANY
-1x Anarch Convert 1 Caitiff:ANY
-
-
-Library [90 cards]
-
-Action [17]
-1x Army of Rats
-6x Clan Impersonation
-1x Contagion
-5x Creeping Sabotage
-4x Unleash Hell's Fury
-
-Action Modifier [20]
-4x Elder Impersonation
-4x Faceless Night
-8x Freak Drive
-4x Lost in Crowds
-
-Action Modifier/Combat [4]
-4x Swallowed by the Night
-
-Ally [7]
-7x Emerald Legionnaire
-
-Equipment [6]
-6x Kaymakli Fragment
-
-Event [1]
-1x Unmasking, The
-
-Master [30]
+Library (90 cards)
+Master (30; 1 trifle)
 1x Archon Investigation
 12x Ashur Tablets
 1x Coven, The
@@ -67,6 +40,31 @@ Master [30]
 1x Pentex(TM) Subversion
 1x Rack, The
 
-Reaction [5]
+Action (17)
+1x Army of Rats
+6x Clan Impersonation
+1x Contagion
+5x Creeping Sabotage
+4x Unleash Hell's Fury
+
+Ally (7)
+7x Emerald Legionnaire
+
+Equipment (6)
+6x Kaymakli Fragment
+
+Action Modifier (20)
+4x Elder Impersonation
+4x Faceless Night
+8x Freak Drive
+4x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (5)
 2x Delaying Tactics
 3x Telepathic Misdirection
+
+Event (1)
+1x Unmasking, The

@@ -1,0 +1,82 @@
+Fantasy World
+Sweden, Sweden
+January 20th 2024
+3R+F
+14 players
+Noora Hirvonen
+https://www.vekn.net/event-calendar/event/11127
+
+-- GW3 + 0.5vp + 0 / 1.5 in final
+
+Deck name: Gangrel Things
+Description: Thank you Aapo Järvelin (Khormag) for handing me the predecessor of this deck in the after-games of a tournament he organized in Joensuu a couple of years back, the deck is super fun to play. I played versions of it quite a lot in 2022, and last months I have had a feeling it could do well in the grindy Stockholm meta with its fast and plentiful actions and reactions. This iteration though I feel like I made slightly worse by adding some random cards outside of the core mechanic of Computer hacking, Thing and Earth meld, but it did hold itself together this time.
+
+Crypt (13 cards, min=11, max=23, avg=4.15)
+------------------------------------------
+2x André the Manipulator  6  FOR PRO          Gangrel:5
+1x Martina Srnankova      6  FOR PRO ani      Gangrel:6
+1x Kamile Paukstys        5  PRO ani for      Gangrel:6
+1x Mickey Wheeler         5  ani cel for pro  Gangrel:6
+1x C.J.                   4  FOR pro          Gangrel:5
+1x Hanna Nokelainen       4  ani for pro      Gangrel:6
+1x Nathan Turner          4  PRO ani          Gangrel:6
+1x Fergus Alexander       3  pot pro          Gangrel:5
+1x Indira                 3  PRO              Gangrel:6
+1x Joaquín de Cádiz       3  for pro          Gangrel:6
+1x Lillian                3  ani pro          Gangrel:5
+1x Ruslan Fedorenko       2  pro              Gangrel:6
+
+Library (90 cards)
+Master (19; 6 trifle)
+1x Anarch Free Press, The
+1x Backways
+1x Bleeding the Vine
+1x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+2x Gangrel Revel
+1x Garibaldi-Meucci Museum
+1x Information Highway
+1x Life in the City
+1x Powerbase: Montreal
+1x Sudden Reversal
+5x Villein
+1x Zoo Hunting Ground
+
+Action (24)
+1x Aranthebes, The Immortal
+1x Army of Rats
+7x Computer Hacking
+2x Force of Will
+2x Rewilding
+11x Thing
+
+Retainer (1)
+1x Raven Spy
+
+Action Modifier (11)
+2x Change of Target
+6x Earth Control
+1x Freak Drive
+1x Leverage
+1x Monkey Wrench
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (6)
+6x Form of the Bat
+
+Reaction (12)
+2x Deep Ecology
+3x Delaying Tactics
+7x Eyes of the Wild
+
+Combat (13)
+2x Donnybrook
+9x Earth Meld
+2x Form of Mist
+
+Event (2)
+1x Narrow Minds
+1x Uncoiling, The

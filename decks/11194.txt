@@ -1,0 +1,73 @@
+Blood Sunday
+Vila Velha, Es, Brazil
+January 7th 2024
+2R+F
+10 players
+Vinicius Costalonga
+https://www.vekn.net/event-calendar/event/11194
+
+-- 1.5vp + 4vp in final
+
+Deck Name : "SEVEN ROCKS" COVEN
+Author : Tiago H. de C. Ramos
+
+Crypt (12 cards, min=14, max=26, avg=5.25)
+------------------------------------------
+2x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+2x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+
+Library (90 cards)
+Master (18; 4 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+2x Anarch Revolt
+1x Backways
+1x Carfax Abbey
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Rack, The
+3x Rötschreck
+2x Smiling Jack, The Anarch
+4x Vessel
+
+Action (11)
+2x Constant Revolution
+2x Rewilding
+7x Thing
+
+Equipment (1)
+1x Sniper Rifle
+
+Political Action (2)
+2x Revolutionary Council
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier (4)
+4x Earth Control
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (30)
+7x Bait and Switch
+3x Cats' Guidance
+8x Deep Ecology
+1x Delaying Tactics
+5x Eyes of the Wild
+3x Organized Resistance
+3x Protection Racket
+
+Combat (16)
+1x Claws of the Dead
+4x Donnybrook
+9x Earth Meld
+2x Form of Mist

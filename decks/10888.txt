@@ -1,0 +1,71 @@
+Vambeer: the Eternal Stout
+Manzolino, Italy
+October 1st 2023
+2R+F
+30 players
+Damiano Ghiaroni
+http://bcncrisis.com/tournament/184
+https://www.vekn.net/event-calendar/event/10888
+
+-- 1.5vp in final
+
+Crypt (12 cards, min=37, max=44, avg=10.17)
+-------------------------------------------
+5x Stanislava      11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+3x Ingrid Rossler   9  ANI FOR PRO dom              prince        Gangrel:2
+2x Hartmut Stover  10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+1x Genevieve       10  ANI FOR PRO aus dom          priscus       Gangrel antitribu:2
+1x Xaviar (ADV)    10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+
+Library (81 cards)
+Master (24; 9 trifle)
+1x Archon Investigation
+1x Backways
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Ennoia's Theater
+1x Giant's Blood
+1x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+6x Villein
+1x Wash
+1x Wider View
+4x Zillah's Valley
+
+Action (6)
+6x Govern the Unaligned
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Seal of Veddartha
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+2x Kine Resources Contested
+3x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (17)
+1x Beast Meld
+2x Conditioning
+4x Earth Control
+1x Enkil Cog
+3x Forced March
+3x Freak Drive
+3x Instantaneous Transformation
+
+Reaction (11)
+6x Deflection
+3x On the Qui Vive
+2x Sense the Savage Way
+
+Combat (9)
+5x Earth Meld
+4x Form of Mist

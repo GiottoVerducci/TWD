@@ -1,0 +1,98 @@
+Danse Macabre - First Dance
+Vidor (TX), USA
+December 1st 2023
+2R+F
+25 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/10832
+
+Deck Name: Obamium (312)
+VDB Link: vdb.im/decks/f2d56fda96214ccb95f171f40d4703c8
+Description: Anarch-based Gangrel Wall (5 Baron version).
+
+Credit to Karl Schaefer's snarky "Thanks Obama" comment for inspiring the deck's new name. Thanks to the members of Pakled Project for helpful library suggestions and crypt tweaks. Kudos to Kelly Lyons for running another great tournament weekend.
+
+-- Tournament Summary --
+
+A good (4 VP) second game got me into the final as second seed. The seating was Andy (Brujah Org Resist gun wall) --> Karl (Montano Purge) --> Sydney (Matasuntha wall) --> Jesper (non-turbo Nergal bleed) --> Me (Gangrel wall).
+
+No one wanted top seed Montano to get going. I bounced Jesper's opening 5-bleed to Karl and a flurry of Reckless Agitations from Andy fixed that problem before the first Purge fired. Added bonus: I was now the de facto top seed, though I'm behind a VP with sequential wall decks to my left.
+
+Jesper soon Dared the Dawn on a Heart equip and couldn't leave torpor. Joaquín threw himself on a diablerie grenade, giving me space to eventually deplete Andy's endless supply of Organized Resistances while Sidney slowly bled Jesper out. With less than 15 minutes remaining at the heads-up, I just waited out the rest of the game with 2 Sniper Rifles and at least one S:CE in hand.
+
+Crypt (12 cards, min=14, max=25, avg=5.08)
+------------------------------------------
+2x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Mickey Wheeler     5  ani cel for pro         Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+
+-- Dropped to 5 Barons, now expecting to decrypt a second Baron ASAP for stablity. IMO better than duplicating Massimiliano or tripling Casey.
+
+Library (90 cards)
+Master (18; 3 trifle)
+1x Anarch Free Press, The -- somewhat iffy as a Master slot here.
+1x Anarch Railroad
+1x Backways
+2x Blood Doll
+1x Carfax Abbey
+1x Club Illusion
+1x Ecoterrorists
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch -- would love to stuff a second copy in here, but can't find room.
+3x Villein
+1x Zoo Hunting Ground
+
+-- Significant trimming from the deck's "Gwal" predecessor. Out-of-turn play feels smoother in this version.
+
+Action (12)
+1x Aranthebes, The Immortal -- dual purpose card, but not needed in this tournament.
+2x Rewilding -- 2 feels like the bare minimum.
+1x Status Perfectus, The -- didn't need the third anti-Form of Mist card this tournament.
+8x Thing
+
+Equipment (5)
+1x Camera Phone -- would still love to duplicate this, but went with a Heart instead.
+1x Heart of Nizchetus
+1x Ivory Bow -- sits on either a 2-bleeder or the dedicated Status vampire.
+2x Sniper Rifle
+
+Retainer (5)
+1x Dog Pack
+4x Raven Spy
+
+Action Modifier (3)
+3x Earth Control
+
+Action Modifier/Combat (1)
+1x Rapid Change
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (27)
+5x Bait and Switch
+6x Deep Ecology
+4x Eyes of the Wild
+2x On the Qui Vive
+8x Organized Resistance
+2x Protection Racket
+
+-- Feels right overall, I wouldn't want any more Eyes of the Wild and plan to keep the 2x OtQV for the inevitable Salubri Sleeping Mind decks.
+
+Combat (14)
+10x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x Uncoiling, The -- either great or useless.

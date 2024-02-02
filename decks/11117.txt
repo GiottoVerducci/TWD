@@ -1,0 +1,72 @@
+Night Terrors in LA
+Los Angeles (Northridge), California, USA
+January 14th 2024
+2R+F
+11 players
+Jeff Poole
+https://www.vekn.net/event-calendar/event/11117
+
+-- 4vp in final
+
+Note: Very little combat at this tournament. Just a couple of Wall decks but no heavy combat rush decks.
+
+Seeding and decks at Final Table:
+1. Mark Jasper (Anarch Gargoyle Vote)
+2. Marcus Acevedo (Gangrel V5 Barons Wall)
+3. Kris Zierhut (Malk Derange/Dementia Stealth Bleed)
+4. Marcos Acevedo (V5 Ventrue vote)
+5. Jeff Poole (Black Hand Lasombra Stealth Bleed)
+
+Final table seating: Malks -> Ventrue -> Gangrel -> Gargoyles -> Lasombra
+
+Deck Name: "Tribute to Robert Scythe"
+Description: Black Hand DOM/OBT
+
+-- Write up from Jeff Poole (long way of saying that Dominate stealth bleed works )
+-- This deck is a tribute to Robert Scythe, a legend of the Los Angeles VtES scene who passed away several years ago. He had a similar deck that was more tool box and combat focused but that included the Corporal Reservoir / Descent into Darkness tech that is included in this deck.
+-- However, this version is more stream-lined and was designed to be played in a small 10-12 person event. While there is a lot of bounce in the meta, the idea with this deck was to hopefully get 1 GW and make it into the finals, or get a few VPs over two games and squeak into the final. The actual tournament ended up with 11-players, so we had 5 "rounds" before the finals, which threw a bit of a monkey wrench in that plan, but luckily I was able to get a GW in the first round.
+-- The deck performed very well and as anticipated. It, of course, is a big stealth bleed deck that is prone to bounce and Archon Investigation. It had a few important elements to discuss.
+-- 1.  The Art of Memories were critical to allow the deck to have sufficient card flow to either recur bleed cards or stealth depending on what was in my hand and the table state. I.e. if people were not intercepting, Art of Memory allowed me to add bleed cards back to my hand and discard stealth, and vic versa.
+-- 2.  Corporal Reservoir. This card was an absolute MVP. It allowed the deck to keep up the speed despite playing a lot of cards with blood costs. It also served as the only combat defense in the deck (other than Nocturn's blocking). Being able to use these cards and then unlock them for free with Descent into Darkness allowed my minions to keep acting. The support minions would bleed, spend 3-4 blood, then get unlocked with Seraph's Second, and then descend into darkness to recover 3-4 blood.
+-- 3. Enkil Cog + Saul. This combo allowed Appius to bleed heavily on my turn, be untapped by Saul, and then bleed again on my prey's turn, really speeding up the ousting potential.
+-- After the tournament, I would consider dropping the Tattoo Signal as it was not really needed and felt too "slow" to have Appius spending a turn putting it on. Similarly, the Zaire River Ferry was nice for the stealth (did not get many D actions other than a rewilding that burned the Ferry and that the Ferry could not actually prevent because it was not targeting the vampire!), but I don't know that it was really needed. I would consider replacing all 3 of those cards with Deflections so that they are always on-hand when needed (and can be cycled with Art of Memory if they start to clog). The seraph's second are still needed to have the support minions bleed and descend into darkness in the same turn.
+
+Crypt (12 cards, min=23, max=40, avg=8.25)
+------------------------------------------
+6x Appius Claudius Corvus  10  DOM OBT POT cel nec  Lasombra:5
+3x Saul Meira               8  CHI DOM OBT POT      Lasombra:5
+3x Ermenegildo, The Rake    5  DOM OBT pot          Lasombra:4
+
+Library (90 cards)
+Master (17; 13 trifle)
+1x Admonitions, The
+10x Corporal Reservoir
+3x Path of Night, The
+3x Villein
+
+Action (18)
+7x Descent into Darkness
+10x Govern the Unaligned
+1x Tattoo Signal
+
+Ally (6)
+6x Nocturn
+
+Equipment (2)
+2x Zaire River Ferry
+
+Action Modifier (39)
+12x Art of Memory, The
+2x Blanket of Night
+6x Conditioning
+2x Enkil Cog
+2x Seduction
+4x Seraph's Second
+3x Shadow Play
+3x Shroud of Absence
+3x Shroud of Night
+2x Tenebrous Form
+
+Reaction (8)
+6x Deflection
+2x Delaying Tactics

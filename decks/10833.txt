@@ -1,0 +1,65 @@
+Danse Macabre - Main Dance
+Vidor (TX), USA
+December 2nd 2023
+3R+F
+22 players
+Norm Brown
+https://vdb.im/decks/67a4cb8cd74e4c8995e3efcbf5214a77
+https://www.vekn.net/event-calendar/event/10833
+
+Deck Name: Anarch Thing Cooler Freak Drive
+
+Crypt (17 cards, min=10, max=27, avg=4.53)
+------------------------------------------
+2x Indira             3  PRO                         Gangrel:6
+2x Joaquín de Cádiz   3  for pro                     Gangrel:6
+2x Ruslan Fedorenko   2  pro                         Gangrel:6
+1x Keegan             8  ANI FOR PRO aus cel         Gangrel:6
+1x Massimiliano       7  ANI FOR pro          baron  Gangrel:6
+1x Casey Snyder       6  PRO ani cel for      baron  Gangrel:6
+1x Kuyén              6  ANI PRO              baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani                 Gangrel:6
+1x Crow               5  ANI for pro tha             Gangrel:5
+1x Dario Ziggler      5  FOR ani pro tha             Gangrel:6
+1x Kamile Paukstys    5  PRO ani for                 Gangrel:6
+1x Mickey Wheeler     5  ani cel for pro             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro                 Gangrel:6
+1x Nathan Turner      4  PRO ani                     Gangrel:6
+
+Library (90 cards)
+Master (17; 7 trifle)
+1x Anarch Railroad
+1x Backways
+1x British Museum, London, The
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Filchware's Pawn Shop
+1x Gangrel Revel
+1x Information Highway
+1x Powerbase: Los Angeles
+6x Villein
+
+Action (28)
+2x Gift of Proteus
+2x Rewilding
+24x Thing
+
+Equipment (6)
+3x Cooler
+3x Leather Jacket
+
+Action Modifier (10)
+6x Freak Drive
+4x Monkey Wrench
+
+Reaction (23)
+20x Deep Ecology
+3x Delaying Tactics
+
+Combat (5)
+5x Donnybrook
+
+Event (1)
+1x Uncoiling, The

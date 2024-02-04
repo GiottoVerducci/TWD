@@ -1,0 +1,69 @@
+Fee Stake: Valencia
+Valencia, Spain
+January 28th 2024
+3R+F
+14 players
+Jose Vicente Coll
+https://www.vekn.net/event-calendar/event/11173
+
+Deck Name: Malgorzator  v.2.
+
+Crypt (13 cards, min=36, max=43, avg=9.54)
+------------------------------------------
+5x Malgorzata              9  AUS DOM THA VIC pre      priscus       Tremere antitribu:4
+2x Lord Tremere           11  ANI AUS DOM THA VIC obe                Tremere:5
+2x Gerald Windham          9  AUS DOM FOR THA                        Tremere:5
+2x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
+1x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+
+Library (90 cards)
+Master (15; 7 trifle)
+1x Anarch Troublemaker
+1x Dreams of the Sphinx
+2x Effective Management
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Sudden Reversal
+6x Villein
+1x Wash
+
+Action (10)
+8x Govern the Unaligned
+2x Magic of the Smith
+
+Ally (1)
+1x Ponticulus
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Signet of King Saul, The
+
+Political Action (11)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+5x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (16)
+4x Changeling
+2x Conditioning
+2x Foreshadowing Destruction
+8x Mirror Walk
+
+Action Modifier/Combat (4)
+4x Plasmic Form
+
+Reaction (30)
+6x Deflection
+2x Eagle's Sight
+2x Enhanced Senses
+6x Eyes of Argus
+2x My Enemy's Enemy
+6x Obedience
+4x On the Qui Vive
+2x Telepathic Misdirection

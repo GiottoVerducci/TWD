@@ -1,0 +1,75 @@
+Nilceu Galvão
+Fortaleza (CE), Brazil
+February 18th 2024
+2R+F
+22 players
+Diego Rodrigues
+https://www.vekn.net/event-calendar/event/11169
+
+-- 4VP in final
+
+Deck Name: Bram Pro Barons
+
+Crypt (12 cards, min=18, max=30, avg=6.08)
+------------------------------------------
+2x Casey Snyder        6  PRO ani cel for      baron  Gangrel:6
+2x Kuyén               6  ANI PRO              baron  Gangrel:6
+1x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+1x Sergio Bueno        8  OBF PRE PRO aus pot  baron  Follower of Set:6
+1x Massimiliano        7  ANI FOR pro          baron  Gangrel:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Vivian VI           7  PRE PRO obf tha      baron  Follower of Set:6
+1x Elisha Tucker       6  PRE cel obf pro      baron  Follower of Set:6
+1x Indira              3  PRO                         Gangrel:6
+1x Joseph Fischer      3  PRO                         Gangrel antitribu:5
+
+Library (89 cards)
+Master (17; 9 trifle)
+1x Anarch Free Press, The
+1x Blood Doll
+1x Carfax Abbey
+1x Club Illusion
+1x Coven, The
+1x Garibaldi-Meucci Museum
+1x Papillon
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+2x Vessel
+6x Villein
+
+Action (11)
+9x Bum's Rush
+2x Open War
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (2)
+1x Ivory Bow
+1x Kevlar Vest
+
+Political Action (2)
+2x Reckless Agitation
+
+Retainer (2)
+1x Dog Pack
+1x Mr. Winthrop
+
+Action Modifier/Combat (1)
+1x Ritual of the Bitter Rose
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (20)
+6x Bait and Switch
+4x Deep Ecology
+10x Organized Resistance
+
+Combat (29)
+6x Amaranth
+4x Body Flare
+2x Claws of the Dead
+11x Donnybrook
+4x Flesh of Marble
+2x Groundfighting

@@ -1,0 +1,43 @@
+King's Rising
+Paris, France
+January 20th 2024
+3R+F
+19 players
+Christophe Baltazar
+https://www.vekn.net/event-calendar/event/11245
+
+Deck Name: 197_Weenie DBR
+
+Crypt (14 cards, min=4, max=9, avg=1.5)
+---------------------------------------
+2x Smudge the Ignored               1  -none-   Caitiff:1
+1x Watenda                          3  obf      Malkavian:2
+1x Christine Boscacci               2  dom vic  Pander:2
+1x Marciana Giovanni, Investigator  2  dom      Giovanni:2
+1x Mustafa Rahman                   2  dom      Tremere:2
+1x Ohanna                           2  dom      Malkavian:2
+1x Samson                           2  dom      Ventrue antitribu:2
+1x Anarch Convert                   1  -none-   Caitiff:ANY
+1x Antoinette DuChamp               1  cel pre  Caitiff:2
+1x Huang, Blood Cultist             1  pro      Pander:2
+1x March Halcyon                    1  for      Pander:2
+1x Nik                              1  cel      Caitiff:1
+1x Royce                            1  dom      Pander:2
+
+Library (60 cards)
+Master (8)
+3x Information Highway
+1x Jake Washington
+1x Powerbase: Montreal
+3x Storage Annex -- when all the Dreams of The Sphinx are in other decks and you don't want to move them around
+
+Action (19)
+14x Bum's Rush
+5x Graverobbing
+
+Equipment (12)
+12x Saturday-Night Special
+
+Combat (21)
+10x Concealed Weapon
+11x Dragon's Breath Rounds

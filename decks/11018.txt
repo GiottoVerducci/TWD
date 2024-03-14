@@ -1,0 +1,68 @@
+Charismatic Convert
+Belgrade, Serbia
+February 18th 2024
+3R+F
+12 players
+Srdjan Milojevic
+https://www.vekn.net/event-calendar/event/11018
+
+Deck Name: Schizo Whispers
+Description: "Demented one goes faster"
+
+-- Thank you to all the participants for joining the tournament.
+-- We had guests from Osijek Croatia making this tournament international.
+-- The final seating was as follows:
+-- Milutin Melka (V5 Banu Haqim- wall)
+-- Miloš Krstić (V5 Gangrel - wall)
+-- Miloš Živković (V5 Tzimisce - toolbox)
+-- Srdjan Milojević (Schizo Whispers)
+-- Milan Popović Ilić (G2-3 Harbingers of the Scull - bleed)
+-- The Final started with the fast removal of Milan Popović. Srdjan had an "information highway" from the start, going fast with 1,2,3 from the start. There were some efforts to slow down Srdjan, but alas, Milan was eliminated. The rest of the game was going slower, with 3 wall decks and 1 bleed. A good time was spent on negotiations and with 10 min extension it was not used for new moves on the board.
+-- With this, are we seeing the return of the Malkavians with dementation? time will tell.
+
+Crypt (12 cards, min=7, max=19, avg=3.17)
+-----------------------------------------
+2x Jackie                        3  DEM                          Malkavian antitribu:4
+2x Midget                        3  DEM obf pre                  Malkavian antitribu:3
+1x Apache Jones                  5  DEM aus for obf              Malkavian antitribu:4
+1x Persia, The Beautiful Statue  5  DEM aus obf                  Malkavian:3
+1x Uncle George                  5  DEM aus dom obf              Malkavian antitribu:3
+1x Fabrizia Contreraz            4  dem pot          archbishop  Malkavian antitribu:4
+1x Marta                         3  aus dem                      Malkavian antitribu:4
+1x Cassandra Langely, The Waif   2  dem                          Malkavian:4
+1x Anarch Convert                1  -none-                       Caitiff:ANY
+1x Eddie Gaines                  1  dem pot                      Caitiff:3
+
+Library (90 cards)
+Master (14; 2 trifle)
+1x Anarch Troublemaker
+1x Barrens, The
+2x Dementation
+1x Direct Intervention
+3x Effective Management
+1x Elder Library
+2x Information Highway
+1x Misdirection
+1x Wash
+1x Wider View
+
+Action (28)
+28x Kindred Spirits
+
+Equipment (2)
+1x Enchanted Marionette
+1x Heart of Nizchetus
+
+Action Modifier (30)
+15x Confusion
+13x Eyes of Chaos
+2x Mind Tricks
+
+Action Modifier/Combat (8)
+8x Deny
+
+Action Modifier/Reaction (7)
+7x Touch of Clarity
+
+Event (1)
+1x Bitter and Sweet Story, The

@@ -1,0 +1,63 @@
+The Unacceptable Appearance Profile
+Boutique Les Trois Commandements, Reims, France
+January 28th 2024
+3R+F
+15 players
+Marius Iscru
+https://www.vekn.net/event-calendar/event/11116
+
+Deck Name: La fin de l'époque Ashur
+
+Crypt (13 cards, min=16, max=32, avg=6)
+---------------------------------------
+5x Anson                            8  CEL PRE aus dom  prince    Toreador:1
+1x Rake                             6  PRE aus cel pot  prince    Brujah:1
+1x Victoria Ash                     6  PRE aus cel dom  primogen  Toreador:2
+1x Jazz Wentworth                   5  PRE dom for                Ventrue:1
+1x Ramiel DuPre                     5  PRE aus cel dom            Toreador:1
+1x Ranjan Rishi, Camarilla Scholar  5  DOM PRE for                Ventrue:2
+1x Mariana Gilbert                  4  PRE cel                    Toreador:1
+1x Violette Prentiss                4  PRE dom                    Ventrue:1
+1x Gideon Fontaine                  3  PRE                        Ventrue:1
+
+Library (90 cards)
+Master (41; 7 trifle)
+2x Anarch Troublemaker
+15x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+2x Life in the City
+5x Liquidation
+1x Misdirection
+3x Parthenon, The
+2x Pentex(TM) Subversion
+2x Wash
+2x Wider View
+
+Action (17)
+7x Enchant Kindred
+3x Entrancement
+3x Intimidation
+4x Mind Numb
+
+Action Modifier (9)
+7x Aire of Elation
+2x Change of Target
+
+Action Modifier/Combat (3)
+3x Force of Personality
+
+Reaction (10)
+6x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+
+Combat (9)
+6x Majesty
+3x Staredown
+
+Event (1)
+1x Scourge of the Enochians

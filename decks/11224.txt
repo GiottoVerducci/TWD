@@ -1,0 +1,68 @@
+Liga Juiz de Forana Fev/24
+Juiz de Fora, Brazil
+February 1st 2024
+2R+F
+15 players
+Daniel Motta
+https://www.vekn.net/event-calendar/event/11224
+
+Deck Name: Lasombra Vote/Bleed
+
+Crypt (12 cards, min=31, max=38, avg=8.5)
+-----------------------------------------
+2x Carolina Vález            9  DOM OBT POT PRE aus      archbishop  Lasombra:5
+2x Charles Delmare           8  DOM OBT POT cel          cardinal    Lasombra:5
+2x Lord Leopold Valdemar     8  OBT POT cel dom obf      priscus     Lasombra:5
+2x Percival                  8  FOR OBT POT aus dom      archbishop  Lasombra:5
+1x Bruce de Guy             10  AUS DOM FOR OBT          cardinal    Ventrue antitribu:4
+1x Luca Italicus            10  DOM FOR NEC OBT POT tha  archbishop  Lasombra:4
+1x Antón de Concepción       9  ANI DOM OBT POT aus      archbishop  Lasombra:4
+1x Badr, Shadow of Granada   7  DOM OBT POT                          Lasombra:5
+
+Library (84 cards)
+Master (19; 4 trifle)
+1x Elysian Fields
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Jake Washington
+1x Monastery of Shadows
+1x Papillon
+1x Political Hunting Ground
+1x Power Structure
+1x Powerbase: Madrid
+4x Villein
+5x Zillah's Valley
+
+Action (8)
+8x Govern the Unaligned
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Banishment
+7x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (25)
+2x Blanket of Night
+4x Conditioning
+4x Seduction
+4x Shadow Play
+5x Shroud of Absence
+4x Shroud of Night
+2x Tenebrous Form
+
+Reaction (11)
+6x Deflection
+3x On the Qui Vive
+2x Wake with Evening's Freshness
+
+Combat (7)
+4x Oubliette
+3x Shadow Body

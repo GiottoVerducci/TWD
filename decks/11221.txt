@@ -1,0 +1,56 @@
+Vitae en barrica
+Logroño, Spain
+March 2nd 2024
+2R+F
+22 players
+Jesús Iturbe Pereira
+https://www.vekn.net/event-calendar/event/11221
+
+-- More tournament info at http://bcncrisis.com/tournament/273
+
+Deck Name: Turbo Taca-Taca Rebirth
+Description: try not to get hand jammed. If you get it, you will probably win.
+
+Crypt (12 cards, min=26, max=37, avg=7.83)
+------------------------------------------
+1x Erlik                        10  AUS CEL FOR NEC THN               Harbinger of Skulls:3
+1x Baron, The                    9  FOR NEC OBF THN dom      2 votes  Samedi:2
+1x Ignazio Giovanni              9  DOM FOR NEC POT obf               Giovanni:3
+1x Lisandro Giovanni             9  DOM FOR NEC POT THN               Giovanni:3
+1x Unre, Keeper of Golgotha      9  AUS FOR NEC dom ser thn  bishop   Harbinger of Skulls:2
+1x Pochtli                       8  NEC OBF POT cel dom               Giovanni:2
+1x Andrea Giovanni               7  DOM NEC pot vic                   Giovanni:2
+1x Carlotta Giovanni             7  NEC POT dom obf                   Giovanni:2
+1x Egothha                       7  AUS FOR NEC obf                   Harbinger of Skulls:2
+1x Gisela Harden, The Winnower   7  FOR NEC aus dem          priscus  Harbinger of Skulls:2
+1x Mina Grotius                  6  FOR NEC cel                       Harbinger of Skulls:3
+1x Rafaele Giovanni              6  NEC cel obf                       Giovanni:2
+
+Library (90 cards)
+Master (33; 10 trifle)
+1x Antediluvian Awakening
+1x Dreams of the Sphinx
+12x Recruitment
+9x Vast Wealth
+10x Villein
+
+Action (24)
+11x Force of Will
+10x Possession
+3x Scrounging
+
+Equipment (2)
+2x Soul Gem of Etrius
+
+Action Modifier (27)
+4x Acheron Vortex
+6x Call of the Hungry Dead
+3x Cloak the Gathering
+5x Daring the Dawn
+2x Forced March
+3x Hag's Wrinkles
+2x Lost in Crowds
+2x Under My Skin
+
+Action Modifier/Reaction (4)
+4x Spectral Divination

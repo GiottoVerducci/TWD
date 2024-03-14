@@ -1,0 +1,60 @@
+1 e 2 dos Corvos
+Campina Grande (PB), Brazil
+January 21st 2024
+2R+F
+10 players
+José Roberio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/11134
+
+-- 1GW4.5 + 3.5 in final
+
+Deck Name: better call Nephandus
+
+Crypt (12 cards, min=4, max=20, avg=2.83)
+-----------------------------------------
+5x Anarch Convert     1  -none-           Caitiff:ANY
+3x Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+1x Esoara             5  DOM aus for pot  Tremere antitribu:4
+1x Keith Moody        3  DOM              Tremere antitribu:4
+1x Lectora            3  aus tha          Tremere antitribu:4
+1x Saiz               3  aus dom          Tremere antitribu:3
+
+Library (76 cards)
+Master (35; 1 trifle)
+1x Anarch Railroad
+1x Anarch Troublemaker
+12x Ashur Tablets
+1x Creepshow Casino
+1x Direct Intervention
+1x Fortschritt Library
+1x Frontal Assault
+1x Information Highway
+1x KRCG News Radio
+1x Liquidation
+1x Minion Tap
+3x Parthenon, The
+1x Pentex(TM) Subversion
+2x Piper
+2x Powerbase: Montreal
+1x Rack, The
+1x Secure Haven
+2x Vampiric Disease
+1x Vessel
+
+Ally (11)
+1x Carlton Van Wyk
+10x Nephandus
+
+Reaction (13)
+6x Deflection
+3x Delaying Tactics
+4x On the Qui Vive
+
+Combat (14)
+10x Glancing Blow
+3x Target Vitals
+1x Trap
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

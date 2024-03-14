@@ -1,0 +1,58 @@
+Nocturn freak
+Itaquaquecetuba, Brazil
+July 22nd 2023
+2R+F
+15 players
+Nikolas Consentino Otani
+https://www.vekn.net/event-calendar/event/10881
+
+-- 1GW4 + 4vp in final
+
+Deck Name: The Minister
+Description: Deck Ministerios V5, BS Corruption
+
+Crypt (12 cards, min=14, max=28, avg=5.17)
+------------------------------------------
+2x Nonu Dis            8  OBF PRE PRO for  Follower of Set:6
+2x Crystal Lynn        6  OBF PRE PRO      Follower of Set:6
+2x Aluc Romas de Leon  5  PRE aus obf pro  Follower of Set:6
+2x Jenny Silver        5  PRE PRO obf      Follower of Set:6
+2x Marcel              4  obf pre pro      Follower of Set:6
+2x Milton Fox          3  pre pro          Follower of Set:6
+
+Library (75 cards)
+Master (12; 2 trifle)
+1x Barrens, The
+2x Blood Doll
+2x Club Illusion
+2x Dreams of the Sphinx
+1x Opium Den
+1x Pentex(TM) Subversion
+1x Temple Hunting Ground
+2x Wider View
+
+Action (16)
+2x Heart of the City
+14x Platinum Protocol, The
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (22)
+6x Enchanting Gaze
+2x Faceless Night
+2x Lost in Crowds
+10x Revelation of the Serpent
+2x Spying Mission
+
+Action Modifier/Combat (4)
+2x Form of the Cobra
+2x Swallowed by the Night
+
+Reaction (10)
+4x On the Qui Vive
+6x Party Out Of Bounds
+
+Combat (10)
+5x Earth Meld
+5x Form of Mist

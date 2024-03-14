@@ -1,0 +1,64 @@
+Campeonato Paranaense 2024
+Curitiba - PR, Brazil
+March 9th 2024
+3R+F
+27 players
+Ricardo Molina Sobreira
+https://www.vekn.net/event-calendar/event/11320
+
+Deck Name: nosf sabotage
+
+Crypt (12 cards, min=17, max=28, avg=5.75)
+------------------------------------------
+3x Benjamin Rose      7  AUS OBF ani pot  prince  Nosferatu:5
+3x Federico di Padua  7  AUS OBF POT ani          Nosferatu:5
+3x Daria              5  AUS OBF ani              Nosferatu:6
+3x Pearl              4  AUS obf                  Malkavian antitribu:5
+
+Library (90 cards)
+Master (18; 5 trifle)
+2x Direct Intervention
+1x Erciyes Fragments, The
+1x Millicent Smith, Puritan Vampire Hunter
+2x Powerbase: Montreal
+1x Rack, The
+1x Slum Hunting Ground
+2x Smiling Jack, The Anarch
+2x Vessel
+3x Villein
+3x Warsaw Station
+
+Action (10)
+1x Aranthebes, The Immortal
+2x Army of Rats
+7x Creeping Sabotage
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (8)
+3x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+2x Sniper Rifle
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (5)
+5x Forgotten Labyrinth
+
+Reaction (31)
+2x Eagle's Sight
+5x Enhanced Senses
+9x Eyes of Argus
+5x On the Qui Vive
+3x Read the Winds
+7x Telepathic Misdirection
+
+Combat (16)
+2x Behind You!
+6x Disguised Weapon
+4x Target Vitals
+4x Taste of Vitae

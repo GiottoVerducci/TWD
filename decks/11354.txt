@@ -1,0 +1,65 @@
+Anarch Secession
+Valencia, Spain
+April 14th 2024
+3R+F
+13 players
+Jose Vicente Coll
+https://www.vekn.net/event-calendar/event/11354
+
+Deck Name: Concilium 14
+Author: Jose Vicente "Millicent" Coll
+
+Crypt (12 cards, min=18, max=31, avg=6.17)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Susie Kano       3  ani dom                 Tzimisce:6
+
+Library (90 cards)
+Master (14; 7 trifle)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Carfax Abbey
+1x Club Illusion
+1x Coven, The
+2x Garibaldi-Meucci Museum
+1x Pentex(TM) Subversion
+6x Villein
+
+Action (20)
+6x Childe of the Revolution
+1x Fee Stake: Corte
+1x Fee Stake: New York
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+10x Govern the Unaligned
+
+Political Action (14)
+3x Consanguineous Boon
+3x Eat the Rich
+3x Kine Resources Contested
+3x Reckless Agitation
+2x Revolutionary Council
+
+Action Modifier (14)
+6x Earth Control
+1x Foreshadowing Destruction
+1x Monkey Wrench
+6x Propaganda of the Deed
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (12)
+6x Deflection
+6x Organized Resistance
+
+Combat (12)
+2x Donnybrook
+4x Earth Meld
+6x Form of Mist

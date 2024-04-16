@@ -1,0 +1,68 @@
+Auto-da-fé
+São José (SC), Brazil
+March 24th 2024
+2R+F
+16 players
+Estel Matiazi
+https://www.vekn.net/event-calendar/event/11341
+
+Deck Name: sonho de princesa
+Description: Our fledgeling playgroup has been growing steadily over the past couple months, and to celebrate it, we decided to run an event to teach our five neonates how the competitive environment works.
+
+I'm personally more of a teacher than a player, and as such had very little expectations for my results in the game. But then, before the first round, I decided to actually try to win this event instead of focusing on explaining mechanics because I was playing one of my favorite decks, and one of the few in my favorite clans that I had never won anything with.
+
+I managed to get 4 vps in the first round, 3 in the second (with anarch brujah as both prey and predator) and 3 in the finals due to other players being a lot less experienced than I was and failing to see the shortcomings of the deals I proposed them. This tournament was won more by me being better at manipulating the table than by being an actual good card-flipper. In the finals, I had to cross-oust an anarch brujah with guns because it was pretty much the only deck that could steal the victory from me, and since the table also didn't knew how to deal with them, they gladly helped me.
+
+As for the deck, it's what the local meta calls for. I'm light on combat and heavy in actions, because everyone and their horse are playing anarchs and if they grapple me someone is going down. But thankfully the v5 toreador can squeeze so much fire power before being dry that a rescue here and there doesnt matter too much. The segregations ate a few key vampires during the game, the enchant kindreds were very expensive to block, the parity shifts barely saw use and heart of nizchetus helped me to fish for forced marches and aching beauties.
+
+Overall, it was a great event and there's very little I would change from this deck. It runs smoothly, reasonably agressive and has a lot of lategame potential due to setup. The Toreador don't win very much these days and I'm happy to help correct that a little bit.
+
+Crypt (12 cards, min=20, max=31, avg=6.33)
+------------------------------------------
+3x Catalina Vega      8  AUS CEL PRE for  prince  Toreador:6
+2x Flávio Gonçalves   7  CEL PRE aus for  prince  Toreador:6
+2x Mkhokheli          6  PRE aus cel for  prince  Toreador:6
+2x Tyler McGill       4  AUS pre                  Toreador:5
+1x Gwendolyn Fleming  6  AUS PRE cel pro          Toreador:5
+1x Leumeah            6  PRE cel for pot  baron   Brujah:6
+1x Vasily             6  CEL aus pre ser  prince  Toreador:5
+
+Library (80 cards)
+Master (15; 3 trifle)
+6x Aching Beauty
+1x Anarch Troublemaker
+1x Archon Investigation
+1x Art Museum
+2x Dreams of the Sphinx
+1x Society Hunting Ground
+3x Villein
+
+Action (10)
+6x Enchant Kindred
+4x Judgment: Camarilla Segregation
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (9)
+6x Kine Resources Contested
+3x Parity Shift
+
+Action Modifier (28)
+3x Aire of Elation
+2x Awe
+8x Change of Target
+4x Forced March
+3x Freak Drive
+3x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (9)
+3x On the Qui Vive
+6x Telepathic Misdirection
+
+Combat (6)
+6x Majesty

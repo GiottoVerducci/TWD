@@ -1,0 +1,63 @@
+Crazy Saturday
+Vila Velha, Es, Brazil
+March 30th 2024
+2R+F
+10 players
+Leonardo Vidigal
+https://www.vekn.net/event-calendar/event/11377
+
+-- GW4 + 3vp in final
+
+Deck Name: O Vitinho agora é Setita
+
+Crypt (13 cards, min=17, max=40, avg=7.46)
+------------------------------------------
+5x Nakhthorheb                  10  OBF PRE SER          Follower of Set:4
+3x Cagliostro, The Grand Copht   8  OBF PRE SER nec pot  Follower of Set:4
+3x Ankh-sen-Sutekh               6  PRE SER obf          Follower of Set:4
+1x Ahmose Chambers               3  obf ser              Follower of Set:5
+1x Belle Equitone                2  ser                  Follower of Set:4
+
+Library (90 cards)
+Master (22; 3 trifle)
+2x Archon Investigation
+1x Dark Influences
+8x Eternals of Sirius, The
+1x Giant's Blood
+1x Legendary Vampire
+1x Monastery of Shadows
+1x Opium Den
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Secure Haven
+3x Vessel
+
+Action (27)
+4x Corruption
+6x Enchant Kindred
+6x Enticement
+1x Entrancement
+1x Form of Corruption
+2x Heart of the City
+1x Lure of the Serpent
+4x Revelation of Ecstasy
+2x Temptation
+
+Ally (2)
+1x Mylan Horseed
+1x Saatet-ta
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Mokolé Blood
+
+Action Modifier (31)
+6x Change of Target
+6x Elder Impersonation
+3x Enkil Cog
+4x Revelation of Desire
+6x Truth of a Thousand Lies
+6x Venenation
+
+Combat (6)
+6x Majesty

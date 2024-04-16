@@ -1,0 +1,79 @@
+Si Enkidu tuviera un portátil
+Palma de Mallorca, Spain
+March 24th 2024
+2R+F
+14 players
+Ginés Quiñonero
+https://www.vekn.net/event-calendar/event/11321
+
+-- 3VP in final
+
+Deck Name: Stanislava's Legacy
+Author: Martin Weinmayer
+
+Crypt (12 cards, min=19, max=30, avg=6.08)
+------------------------------------------
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+2x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Carfax Abbey
+1x Club Illusion
+2x Direct Intervention
+1x Erciyes Fragments, The
+1x Fragment of the Book of Nod
+2x Garibaldi-Meucci Museum
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+4x Vessel
+2x Wider View
+
+Action (12)
+2x Dominate Kine
+10x Govern the Unaligned
+
+Action/Combat (1)
+1x Steely Tenacity
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (1)
+1x Revolutionary Council
+
+Retainer (4)
+1x Crypt's Sons
+1x Mr. Winthrop
+2x Raven Spy
+
+Action Modifier (6)
+2x Conditioning
+4x Earth Control
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (24)
+4x Bait and Switch
+2x Deflection
+8x One With the Land
+8x Organized Resistance
+2x Redirection
+
+Combat (14)
+2x Donnybrook
+6x Earth Meld
+6x Form of Mist

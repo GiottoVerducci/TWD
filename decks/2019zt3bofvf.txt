@@ -17,7 +17,7 @@ The final table was:
 4. Juha Laukkanen (Sundervere bleed, 4th seed)
 5. Marko Saari (Rock Cat combat, 1st seed)
 
-Description: Teched against BlackJack(and other legionnaires obviously) silly deck, i’m sorry.
+Description: Teched against BlackJack(and other legionnaires obviously) silly deck, i'm sorry.
 
 Crypt (12 cards, min=4, max=34, avg=5)
 --------------------------------------

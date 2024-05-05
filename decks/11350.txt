@@ -25,7 +25,7 @@ Crypt (12 cards, min=19, max=31, avg=6.25)
 1x Whisper          5  ANI DOM pro             Tzimisce:6
 1x Prentis Derby    4  ani dom pro             Tzimisce:6
 
--- Adrino’s press and Marialena’s detriment require planning to counter. Stephen Bateson is a terrible placeholder for an anything better. I’m hoping for a second [DOM][PRO] vampire at 7 cap in the next card release.
+-- Adrino's press and Marialena's detriment require planning to counter. Stephen Bateson is a terrible placeholder for an anything better. I'm hoping for a second [DOM][PRO] vampire at 7 cap in the next card release.
 
 Library (88 cards)
 Master (22; 4 trifle)

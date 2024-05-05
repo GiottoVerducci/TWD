@@ -12,13 +12,13 @@ Description: I started with a deck list from Ben Peal. Here is the link to that 
 
 He calls the deck, “Defend the Ghosts!”.  However, when I asked Ben about the changes I made to his deck, he answered me with, “Oh goodness...I didn't even build that deck.  I borrowed it from a friend.” That friend was Adam Hulse. Hence the name of the deck, “Water Dog - Ben Pealing the Ghost of Adam Hulse”.
 
-The following are the cards from Ben and Adam’s deck that aren’t in my deck list:
+The following are the cards from Ben and Adam's deck that aren't in my deck list:
 Minion Tap
 Powerbase: Montreal
 Masquer
 Wake with Evening's Freshness
 
-The following are cards from my deck that aren’t in Ben and Adam’s deck list:
+The following are cards from my deck that aren't in Ben and Adam's deck list:
 Admonitions, The
 Barrens, The
 Charisma
@@ -30,7 +30,7 @@ Eagle's Sight
 Funeral Wake
 FBI Special Affairs Division
 
-The big difference between the two decks is the use of masters. I have an Admonitions in every Sabbat deck I build. Freak drive is probably my favorite card in the game or at least it’s one of the most used. I do play with many fortitude decks. I play the deck slowly and try to get three vampires in play while bringing out legionnaires. Build a wall and block actions. Build an army then bleed.
+The big difference between the two decks is the use of masters. I have an Admonitions in every Sabbat deck I build. Freak drive is probably my favorite card in the game or at least it's one of the most used. I do play with many fortitude decks. I play the deck slowly and try to get three vampires in play while bringing out legionnaires. Build a wall and block actions. Build an army then bleed.
 
 Crypt (12 cards, min=24, max=35, avg=7.58)
 ------------------------------------------

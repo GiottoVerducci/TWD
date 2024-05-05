@@ -1,0 +1,72 @@
+Children of Revolution
+Online
+April 27th 2024
+2R+F
+14 players
+Giuseppe Sciortino
+https://www.vekn.net/event-calendar/event/11405
+
+Deck Name: Latchikas
+
+Crypt (12 cards, min=19, max=30, avg=6)
+---------------------------------------
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+2x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (90 cards)
+Master (20; 7 trifle)
+1x Anarch Free Press, The
+2x Anarch Railroad
+1x Barrens, The
+2x Carfax Abbey
+1x Club Illusion
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+2x Papillon
+1x Rack, The
+1x Vessel
+5x Villein
+1x Wider View
+
+Action (12)
+2x Dominate Kine
+10x Govern the Unaligned
+
+Action/Combat (1)
+1x Steely Tenacity
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (1)
+1x Revolutionary Council
+
+Retainer (2)
+2x Crypt's Sons
+
+Action Modifier (10)
+4x Conditioning
+6x Earth Control
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (25)
+4x Bait and Switch
+5x Deflection
+8x One With the Land
+6x Organized Resistance
+2x Redirection
+
+Combat (12)
+1x Donnybrook
+5x Earth Meld
+6x Form of Mist

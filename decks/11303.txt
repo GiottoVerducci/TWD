@@ -1,0 +1,71 @@
+Italian NC 2024
+Caldonazzo, Italy
+April 27th 2024
+3R+F
+49 players
+Arturo Parise
+https://www.vekn.net/event-calendar/event/11303
+
+Deck Name: Ministry orango
+Description: Preconstructed from "Fifth Edition (Anarchs)" [2021-12-01]
+
+Crypt (12 cards, min=19, max=30, avg=6.17)
+------------------------------------------
+3x Vivian VI           7  PRE PRO obf tha      baron  Follower of Set:6
+2x Crystal Lynn        6  OBF PRE PRO                 Follower of Set:6
+1x Nonu Dis            8  OBF PRE PRO for             Follower of Set:6
+1x Sergio Bueno        8  OBF PRE PRO aus pot  baron  Follower of Set:6
+1x Elisha Tucker       6  PRE cel obf pro      baron  Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro             Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre             Follower of Set:6
+1x Jenny Silver        5  PRE PRO obf                 Follower of Set:6
+1x Marcel              4  obf pre pro                 Follower of Set:6
+
+Library (90 cards)
+Master (14; 9 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+4x Dabbler
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Opium Den
+4x Villein
+1x Wider View
+
+Action (24)
+4x Enchant Kindred
+1x Entrancement
+1x Field Training
+2x Mind Numb
+16x Platinum Protocol, The
+
+Political Action (2)
+1x Reckless Agitation
+1x Revolutionary Council
+
+Action Modifier (23)
+5x CrimethInc.
+1x Elder Impersonation
+1x Enchanting Gaze
+1x Lost in Crowds
+2x Monkey Wrench
+12x Revelation of the Serpent
+1x Veil the Legions
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Form of the Bat
+
+Reaction (14)
+4x Bait and Switch
+1x Delaying Tactics
+4x Organized Resistance
+3x Party Out Of Bounds
+2x Visions of Zapathasura
+
+Combat (11)
+1x Donnybrook
+5x Earth Meld
+5x Form of Mist

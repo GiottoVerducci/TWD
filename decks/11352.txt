@@ -1,0 +1,63 @@
+Dallas Will of the Council
+Arlington (TX), USA
+April 26th 2024
+2R+F
+19 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/11352
+
+Deck Name: A Fortnight of Bad Dreams
+Created by:  Darby Keeney
+Credits: Karl Schaefer (revision)
+Description:  V2: “To Absurdity and Beyond!”
+
+The deck is hyper-focused on offense. I block with my pool, so Villein to 1 blood, pool gain late game via Break the Bonds and bolus injections of 6 pool is the extent of my defense. If I haven't gone to plaid, something is wrong.
+
+Shortly before the tournament, Karl Schaefer suggested removing the stealth locations. It is counterintuitive; I wanted that first bleed to hit, but saving 2 MPA and 4 pool is undeniably attractive. This change worked well with a bit of in-game play adjustment.
+
+Until you understand how BtB creates hand management issues once you reach 3 minions, it's hard to describe optimal play for this deck. But I've got a very minor library adjustment to test if I can stomach playing this monstrosity again.
+
+I'll not provide detailed meta/situational adjustments. If you're smart enough to play V:TES, you're smart enough to figure those out on your own.
+
+Crypt (12 cards, min=16, max=26, avg=5.25)
+------------------------------------------
+2x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+2x Gathii             5  ANI PRE obf      Ravnos:7
+2x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+--  I dislike the 8 cap, but she is currently the best option for a crypt slot.
+
+Library (79 cards)
+Master (16; 10 trifle)
+1x Club Illusion
+3x Dabbler -- almost exclusively blood gain
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion
+7x Villein -- generally down to 1 blood
+2x Week of Nightmares
+
+Action (21)
+18x Break the Bonds
+3x Field Training -- ani before PRE before OBF
+
+Equipment (1)
+1x Treasured Samadji -- discarded in 2 of 3 games
+
+Action Modifier (39)
+2x Elder Impersonation
+5x Faceless Night -- brutal with BtB
+4x Lost in Crowds
+12x Memory Rift -- delivery engine core component
+4x Power of One
+2x True Love's Face
+10x Visions of Gehenna -- cycle at pre as needed
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night

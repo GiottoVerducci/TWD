@@ -1,0 +1,58 @@
+2nd Game of Malkav - Helsinki, Finland
+Helsinki, Finland
+May 2nd 2024
+2R+F
+12 players
+Teemu Sainomaa
+https://www.vekn.net/event-calendar/event/11412
+
+-- 1GW3 + 2.5 in final
+
+Deck Name: Power of Debate
+
+Crypt (12 cards, min=12, max=29, avg=5.42)
+------------------------------------------
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Atiena              6  CEL obf pot pre      baron  Brujah:6
+2x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Elen Kamjian        4  CEL POT                     Brujah:6
+1x Ariane              3  cel pot pre                 Brujah:5
+1x Lynn Thompson       3  cel pot                     Brujah:5
+1x Rayne               2  pot                         Brujah:6
+
+Library (80 cards)
+Master (26; 6 trifle)
+1x Anarch Free Press, The
+7x Brujah Debate
+1x Carfax Abbey
+1x Coven, The
+7x Fortitude
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Jake Washington
+1x Papillon
+5x Villein
+
+Action (14)
+1x Aranthebes, The Immortal
+8x Childe of the Revolution
+4x Line Brawl
+1x Open War
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Reaction (24)
+7x Bait and Switch
+13x Organized Resistance
+4x Power of All
+
+Combat (14)
+8x Diversion
+2x Immortal Grapple
+4x Taste of Vitae
+
+Event (1)
+1x Uncoiling, The

@@ -1,0 +1,85 @@
+Gulf Coast Roast – Dallas Grand Prix
+Dallas, Texas, USA
+April 27th 2024
+3R+F
+24 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/11350
+
+Deck Name: Defy the Edict of Worms
+
+Description: This is an evolution of a previous Museum-Manse design, now with more Dominate! The library is currently formatted for the Gulf Coast's untimed finals format. A more tuned version with a thinner library is already being tested.  The deck should also get better as the crypt rounds out.
+
+With 9 S:CE combat cards, 7 pre-range combat ends effects from Living Manse, air cover from Powerbase: Savannah, and 2 copies of One with the Land; the vampires tend to be resilient. Despite sitting near several combat decks, only 1 vampire hit torpor though 4 rounds of play. In many games, I had more blood gain than I could use.
+
+The tiny political module was intended to address Gangrel walls and assorted swarm decks. I never used either card and have ideas for replacements.
+
+Crypt (12 cards, min=19, max=31, avg=6.25)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Stephen Bateson  6  ani aus tha vic         Tzimisce:5
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+-- Adrino’s press and Marialena’s detriment require planning to counter. Stephen Bateson is a terrible placeholder for an anything better. I’m hoping for a second [DOM][PRO] vampire at 7 cap in the next card release.
+
+Library (88 cards)
+Master (22; 4 trifle)
+1x Anarch Railroad
+5x British Museum, London, The -- not as mission critical here
+1x Carfax Abbey
+1x Direct Intervention
+3x Dreams of the Sphinx -- I hate this crutch, but it works
+1x Giant's Blood
+1x Jake Washington
+2x Libertas -- Worthless in this design, fodder for improvement
+1x Papillon -- would be better as a 3rd Cooler with this crypt
+1x Pentex(TM) Subversion
+1x Powerbase: Savannah
+3x Villein -- should be +1 Villein
+1x Wider View
+
+Action (11)
+11x Govern the Unaligned
+
+Equipment (13)
+1x Blood Tears of Kephran
+2x Cooler
+2x Heart of Nizchetus
+7x Living Manse -- stellar when it is free and effectively actionless
+1x Palatial Estate
+
+Political Action (2)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+
+-- Theoretically strong, practically unimportant in these games.
+
+Action Modifier (5)
+5x Earth Control
+
+Action Modifier/Combat (3)
+2x Obedient Flesh -- 3rd copy would be welcome w/o Libertas
+1x Rapid Change
+
+Action Modifier/Reaction (7)
+4x Form of the Bat
+3x Murmur of the False Will
+
+Reaction (15)
+2x Deep Ecology
+7x Deflection
+2x One With the Land -- squeeze in a 3rd copy?
+4x Organized Resistance
+
+Combat (8)
+3x Earth Meld
+5x Form of Mist
+
+Event (2)
+1x NRA PAC
+1x Scourge of the Enochians

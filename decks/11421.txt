@@ -1,0 +1,76 @@
+Vampire: the Eternal Struggle turnaj
+Prague, Czech Republic
+May 5th 2024
+2+F
+9 players
+Matej Lenárth
+
+https://www.vekn.net/event-calendar/event/11421
+
+Deck Name: Unnamed
+
+Crypt (12 cards, min=4 max=40 avg=6.33)
+=======================================
+5x unnamed, The     10 CEL DAI OBF PRE PRO           Baali:6
+1x Nonu Dis          8 OBF PRE PRO for               Ministry:6
+1x Sergio Bueno      8 OBF PRE PRO aus pot   baron   Ministry:6
+1x Crystal Lynn      6 OBF PRE PRO                   Ministry:6
+4x Anarch Convert    1                               Caitiff:ANY
+
+Library (90 cards)
+==================
+Master (15; 7 trifle)
+----------------------
+1x Coven, The
+2x Dabbler
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Libertas
+1x Powerbase: Los Angeles
+1x Secure Haven
+3x Villein
+1x Visit from the Capuchin
+1x Wider View
+
+Action (16)
+------------
+1x Entrancement
+12x Platinum Protocol, The
+3x Unleash Hell's Fury
+
+Ally (2)
+---------
+1x Carlton Van Wyk
+1x Veneficti
+
+Retainer (1)
+-------------
+1x Homunculus
+
+Action Modifier (36)
+---------------------
+5x CrimethInc.
+6x Enchanting Gaze
+3x Enkil Cog
+1x I am Legion
+5x Instantaneous Transformation
+4x Lost in Crowds
+2x Memory Rift
+8x Revelation of the Serpent
+2x Spying Mission
+
+Reaction (8)
+-------------
+4x Party Out Of Bounds
+4x Visions of Zapathasura
+
+Combat (10)
+------------
+5x Earth Meld
+5x Form of Mist
+
+Event (2)
+----------
+1x Narrow Minds
+1x Scourge of the Enochians

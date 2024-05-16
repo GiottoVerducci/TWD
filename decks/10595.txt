@@ -59,8 +59,8 @@ Political Action (49)
 1x Crusade: Philadelphia
 1x Crusade: Rome
 1x Crusade: Toronto
-15x Kindred Segregation
-1x Kine Resources Contested
+1x Kindred Segregation
+15x Kine Resources Contested
 3x Legacy of Pander
 4x Neonate Breach
 

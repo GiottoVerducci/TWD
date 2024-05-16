@@ -1,0 +1,58 @@
+Od Zachodu do Wschodu II
+Zielona Góra, Poland
+March 23rd 2024
+3R+F
+15 players
+Łukasz Ho Thanh
+https://www.vekn.net/event-calendar/event/11316
+
+
+Deck Name: Anarch Brujah
+Description: The end result of several months of testing new brujah. I'm very proud of this ))
+
+Crypt (12 cards, min=21, max=30, avg=6.42)
+------------------------------------------
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+2x Atiena              6  CEL obf pot pre      baron  Brujah:6
+2x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+1x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+1x Octane              6  CEL POT PRE                 Brujah:6
+1x Ariane              3  cel pot pre                 Brujah:5
+
+Library (90 cards)
+Master (10; 2 trifle)
+1x Carfax Abbey
+1x Fame
+1x Garibaldi-Meucci Museum
+2x New Carthage
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Los Angeles
+2x Villein
+
+Action (20)
+8x Illegalism
+11x Line Brawl
+1x Open War
+
+Political Action (2)
+2x Reckless Agitation
+
+Action Modifier (4)
+4x Power of One
+
+Reaction (13)
+5x Bait and Switch
+8x Organized Resistance
+
+Combat (41)
+5x Bollix
+2x Disarm
+11x Dust Up
+2x Hell-for-Leather
+6x Immortal Grapple
+2x Quickness
+5x Taste of Vitae
+8x Torn Signpost

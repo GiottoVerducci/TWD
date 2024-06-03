@@ -1,0 +1,59 @@
+Em Tempos de Gehenna...
+Teresina - PI, Brazil
+May 26th 2024
+2R+F
+10 players
+Igor de Arimatéa Carmo
+https://www.vekn.net/event-calendar/event/11424
+
+Deck Name: Debate baixo, tá maluco?!
+Description: Deck no formato Limited V5 + NB
+
+-- 5VP in final
+Crypt (12 cards, min=14, max=28, avg=5.5)
+-----------------------------------------
+3x Aline Gädeke        7  POT PRE cel      baron  Brujah:6
+2x Atiena              6  CEL obf pot pre  baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro  baron  Brujah:6
+1x Leumeah             6  PRE cel for pot  baron  Brujah:6
+1x Octane              6  CEL POT PRE             Brujah:6
+1x Siarhei Levchenko   5  CEL PRE pot             Brujah:6
+1x Elen Kamjian        4  CEL POT                 Brujah:6
+1x Ariane              3  cel pot pre             Brujah:5
+1x Rayne               2  pot                     Brujah:6
+
+Library (80 cards)
+Master (14)
+1x Anarch Free Press, The
+3x Blood Doll
+3x Brujah Debate
+1x Carfax Abbey
+1x Fame
+1x Frontal Assault
+1x Haven Uncovered
+1x New Carthage
+1x Powerbase: Los Angeles
+1x Warzone Hunting Ground
+
+Action (14)
+4x Enchant Kindred
+9x Line Brawl
+1x Open War
+
+Action Modifier (2)
+2x Monkey Wrench
+
+Reaction (18)
+4x Bait and Switch
+2x On the Qui Vive
+10x Organized Resistance
+2x Protection Racket
+
+Combat (32)
+1x Disarm
+8x Dust Up
+9x Immortal Grapple
+2x Pursuit
+4x Quickness
+4x Taste of Vitae
+4x Torn Signpost

@@ -1,0 +1,78 @@
+Coffin Dodgers
+Middlesbrough, United Kingdom
+April 13th 2024
+3R+F
+13 players
+Mikey Ferguson
+https://www.vekn.net/event-calendar/event/11253
+
+Well done to Mikey, finals ended with time, having Mikey and Mark as last standing.
+Here's winning deck list with description from Mikey:
+
+Deck Name: …. And Ice In The Veins
+Description: First things first with this deck… HUGE credit to the original author and creator of the concept for this deck, Joscar Gamaliel Malacaman!
+
+It’s been a pleasure conversing with him over Facebook, and I look forward to interviewing him on our YouTube channel Lies From The Tabletop soon! Funnily enough, we turned the world into a Malgorzata Sandwich, because as I was playing the Deck in the UK, on the other side of the world Joscar was playing the deck in the Philippines at the same time, both winning the tournaments we were playing!
+
+It’s an already brilliant deck called ‘Fire In The Belly’ that has won a tournament before, hence the reason for this decks name! We want to have Fire In The Belly, but also Ice In The Veins. I wanted the deck name to be a real nod to Joscar’s original creation, whilst recognising that that I wanted to optimise the deck in a cold and clinical way, squeezing the most out of the deck that would allow us to react to any situation.
+
+The way I hoped to achieve that where as follows.
+
+I wanted the deck to be a little more proactive and reactive, so we added Magic Of The Smith to allow us to respond to particular board states accordingly. The MVP card of the day was in fact Kevlar Vest allowing us to avoid this agg poke decks, and those pesky Sniper Rifles and Flamethrowers. Also in this Deck, sculpting your hand is so important because we need to have the right combination of cards in order to do well. Rescuing the Heart of ‘Cheaty’ from the middle of our deck allows us to have the perfect balance of wakes, intercept, combat and actions. It’s a small clinical change, but that’s all you can do when you’re already working on a great deck.
+
+Secondly our meta was stealth bleed heavy, so you’d think cutting 2 deflections from the original list might seem odd, but we added more wakes to compensate and also 2 Telepathic Misdirection and 2 My Enemy’s Enemy for those times where we may want to choose to intercept instead. This small, cold, yet clinical change proved invaluable when we went head to head with the new Ravnos deck. The fact that we caught a massive bleed at 8 stealth when we could’ve even went up to 10 intercept shows how versatile this deck can be when the situation arises.
+
+One last small change was the addition of the Rack. What a card! The deck certainly is a bit ‘blood-light’ so it really helped and woe betide anyone who attempted to steal it. Usually they’d end up ‘joining my gang’ with a grave robbing.
+
+It really was a tough tournament, but happy to bring hope the W.
+
+Crypt (12 cards, min=36, max=44, avg=10.17)
+-------------------------------------------
+5x Malgorzata         9  AUS DOM THA VIC pre      priscus       Tremere antitribu:4
+3x Lord Tremere      11  ANI AUS DOM THA VIC obe                Tremere:5
+2x Dracon, The       11  ANI AUS POT THA VIC                    Tzimisce:5
+2x Mistress Fanchon  11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+
+Library (90 cards)
+Master (22; 6 trifle)
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+2x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Rack, The
+2x Rötschreck
+1x University Hunting Ground
+6x Villein
+5x Zillah's Valley
+
+Action (8)
+5x Graverobbing
+3x Magic of the Smith
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+
+Action Modifier (8)
+4x Changeling
+4x Mirror Walk
+
+Reaction (27)
+4x Deflection
+4x Eagle's Sight
+3x Enhanced Senses
+6x Eyes of Argus
+3x Forced Awakening
+2x My Enemy's Enemy
+3x On the Qui Vive
+2x Telepathic Misdirection
+
+Combat (21)
+2x Blood Rage
+5x Breath of the Dragon
+10x Chiropteran Marauder
+4x Rego Motum

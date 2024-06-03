@@ -1,0 +1,72 @@
+5th Elder Library
+Espoo, Finland
+June 2nd 2024
+2R+F
+10 players
+Otso Saariluoma
+https://www.vekn.net/event-calendar/event/11450
+
+Deck Name: Guillaume Beatdown
+Author: Otso Saariluoma
+Description: A combat-oriented Guillaume deck with an Increased Strength package for funsies. Hopefully you get to build up to have a few powerful turns before inevitably running out of steam.
+
+Managed 1,5 vps in the prelims, got in the finals with a die roll, and won with 1,5 vps, so the performance of the deck wasn’t anything to write home about.
+
+Crypt (12 cards, min=20, max=36, avg=7.33)
+------------------------------------------
+5x Guillaume Giovanni            9  CEL DOM NEC POT obt           Giovanni:4
+1x Baldesar Rossellini           8  DOM POT aus for nec           Giovanni:4
+1x Giovanni del Georgio          8  DOM NEC POT PRO               Giovanni:5
+1x Don Michael Antonio Giovanni  7  DOM NEC POT          2 votes  Giovanni:4
+1x Accorri Giovanni              6  DOM POT ani nec               Giovanni:5
+1x Benedict Giovanni, Agent      6  FOR POT cel dom nec           Giovanni:4
+1x Gianmaria Giovanni            5  POT dom nec obt               Giovanni:5
+1x Almodo Giovanni               3  dom pot                       Giovanni:4
+
+Library (90 cards)
+Master (27; 7 trifle)
+1x Archon Investigation
+1x Barrens, The
+1x Carver's Meat Packing and Storage
+1x Direct Intervention
+1x Fame
+1x Filchware's Pawn Shop
+1x Giant's Blood
+1x Information Highway
+1x Metro Underground
+1x Morgue Hunting Ground
+3x Parthenon, The
+1x Powerbase: Cape Verde
+1x Secure Haven
+6x Storage Annex
+4x Villein
+2x Wider View
+
+Action (20)
+7x Bum's Rush
+10x Govern the Unaligned
+3x Sudario Refraction
+
+Action Modifier (2)
+2x Conditioning
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (8)
+7x Deflection
+1x Delaying Tactics
+
+Combat (31)
+1x Glancing Blow
+6x Immortal Grapple
+6x Increased Strength
+5x Roundhouse
+1x Slam
+4x Spiritual Guidance
+4x Taste of Vitae
+3x Thrown Sewer Lid
+1x Torn Signpost
+
+Event (1)
+1x Scourge of the Enochians

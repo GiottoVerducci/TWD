@@ -1,0 +1,56 @@
+Danish NC 2022
+Vejen, Syddanmark, Denmark
+June 11th 2022
+3R+F
+10 players
+Nikolaj Wendt
+https://www.vekn.net/event-calendar/event/10144
+
+Deck Name: Aksinya v3 - Danish Nationals 2022
+Description: Aksinya forever!
+
+Crypt (12 cards, min=4, max=31, avg=4.08)
+-----------------------------------------
+4x Anarch Convert   1  -none-                             Caitiff:ANY
+3x Aksinya Daclau   9  ANI FOR PRE PRO cel tha            Gangrel antitribu:4
+1x Loonar           4  PRE cel                            Toreador antitribu:4
+1x Lumumba          4  PRE ani                            Guruhi:4
+1x Marla Kenyon     4  PRE ser                            Follower of Set:4
+1x Reginald Moore   4  PRE                      primogen  Brujah:4
+1x Jayne Jonestown  2  PRE                                Brujah antitribu:4
+
+Library (68 cards)
+Master (31; 1 trifle)
+2x Anarch Troublemaker
+9x Ashur Tablets
+1x Barrens, The
+1x Coven, The
+1x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Giant's Blood
+3x Information Highway
+1x Jake Washington
+4x Liquidation
+2x Misdirection
+4x Parthenon, The
+1x Pentex(TM) Subversion
+
+Action (15)
+2x Entrancement
+5x Mind Numb
+8x Public Trust
+
+Ally (1)
+1x Carlton Van Wyk
+
+Action Modifier (4)
+4x Aire of Elation
+
+Reaction (10)
+2x Delaying Tactics
+5x Guard Dogs
+3x Lost in Translation
+
+Combat (7)
+5x Majesty
+2x Staredown

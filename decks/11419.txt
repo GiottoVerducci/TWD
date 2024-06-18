@@ -1,0 +1,61 @@
+6th Road to Pulled Fang #13
+Brno, Czech Republic
+June 15 2024
+3+F
+33 Players
+Lukáš Simandl
+
+www.vekn.net/player-registry/event/11419
+
+Deck Name: Unspecified snakes
+
+Crypt (12 cards, min=7 max=40 avg=6.42)
+=======================================
+5x unnamed, The 10 CEL DAI OBF PRE PRO Baali:6
+1x Nonu Dis 8 OBF PRE PRO for Ministry:6
+1x Crystal Lynn 6 OBF PRE PRO Ministry:6
+1x Elisha Tucker 6 PRE cel obf pro baron Ministry:6
+1x Marcel 4 obf pre pro Ministry:6
+3x Anarch Convert 1 Caitiff:ANY
+
+Library (90 cards)
+==================
+Master (16; 9 trifle)
+1x Anarch Railroad
+2x Archon Investigation
+3x Dabbler
+2x Dreams of the Sphinx
+1x Powerbase: Los Angeles
+1x Secure Haven
+2x Vessel
+3x Villein
+1x Wash
+
+Action (18)
+1x Entrancement
+14x Platinum Protocol, The
+3x Unleash Hell's Fury
+
+Ally (1)
+1x Carlton Van Wyk
+
+Retainer (2)
+2x Homunculus
+
+Action Modifier (36)
+6x CrimethInc.
+6x Enchanting Gaze
+4x Enkil Cog
+4x Faceless Night
+2x I am Legion
+3x Instantaneous Transformation
+2x Lost in Crowds
+9x Revelation of the Serpent
+
+Reaction (7)
+7x Party Out Of Bounds
+
+Combat (10)
+1x Donnybrook
+5x Earth Meld
+4x Form of Mist

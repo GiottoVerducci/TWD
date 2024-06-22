@@ -1,0 +1,80 @@
+Hypecon 2024
+Hyvinkää, Finland
+June 8th 2024
+2R+F
+10 players
+Noora Hirvonen
+https://www.vekn.net/event-calendar/event/11452
+
+Deck Name: Wind nach Ägypten 2
+Author: UFOPOLI/Norps
+
+Crypt (12 cards, min=23, max=31, avg=6.58)
+------------------------------------------
+3x Sergio Bueno   8  OBF PRE PRO aus pot  baron   Follower of Set:6
+2x Vivian VI      7  PRE PRO obf tha      baron   Follower of Set:6
+2x Arishat        6  DAI OBF PRE          1 vote  Baali:6
+2x Elisha Tucker  6  PRE cel obf pro      baron   Follower of Set:6
+1x Crystal Lynn   6  OBF PRE PRO                  Follower of Set:6
+1x Jacques Rouge  6  OBF ani pot pre      baron   Nosferatu:6
+1x Jenny Silver   5  PRE PRO obf                  Follower of Set:6
+
+Library (84 cards)
+Master (14; 7 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Coven, The
+1x Dreams of the Sphinx
+1x Ferraille
+1x Garibaldi-Meucci Museum
+1x Opium Den
+1x Protected Resources
+5x Villein
+1x Wider View
+
+Action (4)
+3x Enchant Kindred
+1x Entrancement
+
+Ally (1)
+1x Saatet-ta
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Conservative Agitation
+1x Eat the Rich
+5x Kine Resources Contested
+1x Neonate Breach
+4x Reckless Agitation
+1x Revolutionary Council
+
+Action Modifier (25)
+4x Bewitching Oration
+1x CrimethInc.
+1x Elder Impersonation
+2x Faceless Night
+3x Forgotten Labyrinth
+3x Lost in Crowds
+3x Memory Rift
+3x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Form of the Bat
+
+Reaction (14)
+6x Bait and Switch
+4x On the Qui Vive
+3x Organized Resistance
+1x Party Out Of Bounds
+
+Combat (7)
+3x Earth Meld
+4x Form of Mist

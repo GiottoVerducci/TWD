@@ -1,0 +1,67 @@
+Liga Chilanga 2024 Jornada 4 (MX)
+Mexico City, Mexico
+June 9th 2024
+3R+F
+12 players
+Alberto Ramírez León
+https://www.vekn.net/event-calendar/event/11491
+
+Deck Name: Visiones Ravnos
+Description: Upgrade básico del Prevon Companion V5
+
+Crypt (12 cards, min=16, max=28, avg=5.42)
+------------------------------------------
+2x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+2x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+2x Gathii             5  ANI PRE obf      Ravnos:7
+2x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+Library (83 cards)
+Master (16; 4 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+1x Club Illusion
+2x Dabbler
+1x Dreams of the Sphinx
+1x Fortune Teller Shop
+1x Garibaldi-Meucci Museum
+2x Libertas
+1x Park Hunting Ground
+1x Powerbase: Los Angeles
+2x Vessel
+2x Week of Nightmares
+
+Action (13)
+12x Break the Bonds
+1x Entrancement
+
+Equipment (2)
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Action Modifier (25)
+5x Cloak the Gathering
+2x Elder Impersonation
+4x Faceless Night
+4x Lost in Crowds
+2x Veil the Legions
+8x Visions of Gehenna
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (15)
+2x Guard Dogs
+5x On the Qui Vive
+8x Visions of Zapathasura
+
+Combat (6)
+5x Majesty
+1x Voracious Vermin
+
+Event (2)
+2x Narrow Minds

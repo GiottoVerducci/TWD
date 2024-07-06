@@ -1,0 +1,75 @@
+NAC 2024
+Columbus (OH), USA
+June 22nd 2024
+3R+F
+54 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/11496
+
+-- 3GW10.5 (1st seed) + 3vp in final
+
+Deck Name: Organized Bleed Resistance
+Author: Billy Troxel with credits to Tero Aalto and Sérgio Martins for deck notes and updates.
+
+While I was setting out to show that putting superior Protean+Dominate on multiple affordable vampires of different capacity within the same clan was super strong, all I really managed to prove is that Garibaldi Meucci Museum is overpowered. Whether it was repeatedly bringing back Eat the Rich for reliable pool damage against the right kind of prey or having Bait and Switch in hand every turn so the Unnamed could not get Enkil Cog until I wanted it to, Garibaldi was the true star of this deck in all rounds.
+
+If I had to play this tournament over against the same decks, I would replace two copies of Organized Resistance with more Deep Ecology.
+
+Description: The genesis of this deck was to show that when you generously add Earth Meld, PRO-DOM is stronger than OBF-DOM at the bleed game, offensively and defensively. Allow stealth-bleed predators to cycle some stealth so you get better effect from your bounces, and if they try to lock your bouncer by letting you catch them, Earth Meld makes it so you are unlocked to bounce the next bleed instead. When in combat with cross-table allies, Earth Meld is great for friendly combat. Use Deep Song+Earth Meld to lock a bouncer before lunging.
+
+Great thanks to Tero Aalto for Euro-charging my deck the night before by getting me to cut some cards, and---very importantly---adding Kuyen to the crypt. Also thanks to Sérgio Martins for offering second opinions/counterpoints during that session so I stood my ground on the cutting where it counted. Of course the next morning I waffled and added 4 cards, but that's a different matter---and it was still under 90.
+
+Cheers to the other finalists, especially Darby Keeney, who was a very good sport and coordinated not contesting vampires with me.
+
+Crypt (12 cards, min=18, max=32, avg=6.42)
+------------------------------------------
+4x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Kuyén            6  ANI PRO          baron  Gangrel:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Kamile Paukstys  5  PRO ani for             Gangrel:6
+1x New Blood        2  san                     Blood Brother:ANY
+
+Library (86 cards)
+Master (16; 4 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Channel 10
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Villein
+2x Wider View
+
+Action (15)
+3x Deep Song
+12x Govern the Unaligned
+
+Political Action (2)
+2x Eat the Rich
+
+Action Modifier (8)
+4x Conditioning
+4x Earth Control
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (25)
+4x Bait and Switch
+4x Deep Ecology
+4x Deflection
+3x Delaying Tactics
+1x On the Qui Vive
+7x Organized Resistance
+2x Protection Racket
+
+Combat (17)
+1x Donnybrook
+9x Earth Meld
+7x Form of Mist

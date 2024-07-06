@@ -1,0 +1,74 @@
+Origins - Thursday 1
+Columbus (OH), USA
+June 20th 2024
+2R+F
+37 players
+Vadim Matveev
+https://www.vekn.net/event-calendar/event/11439
+
+-- 2GW6.5 + 2.5VP in final
+
+Deck Name: Museum Sisters
+Description:
+Typical glass cannon deck, that compromise bleed/vote/combat protection to excel in two aspects: fast bloat and huge bleeds.
+I took A LOT of ideas from Ivan Chebunin (2019) and Karl Schaefer (2022) TWDs, but MVP of this deck is exceptional synergies of inferior Walk of Caine + Concoction/Candle and of Kephran + Slake.
+
+I finished rounds being top seed and was able to secure best seating possible for the table.
+Lucian, the Perfect (DOM-OBF s&b) -> !Nosferatu (wall/rush toolbox) -> me -> Ministry V5 (s&b) -> Lutz.
+
+Table where the only blocker is on the right and will be occupied of how not to die from with Lucian enormous bleeds without options to bounce them, and with grand predator that can't bounce further, but very efficient in gaining pool back was the key.
+
+Ministry equipped two Hearts of the City and bleed for 6+ every turn, but that was not enough to stop Lutz who started great captivating/minion tapping every turn.
+
+Nosferatu and Lucian exchanged some blows, did couple of temporary non-aggression deals resulted in couple of torporizing rushes to me (but with Kephran, Coven, Heidelberg and many minions it was not even remotely enough to disable me). Without pool damage Nosferatu was in the desperate spot => I block nothing, but gain pool faster they bleed, and they can't full rush every turn having death threat on the right.
+
+Ministry fell first after many bleeds of 2-5 (they bounced few, but Lutz soaked it all).
+
+Then Lutz tapped out in attempts to kill Lucian that was about to get his pool from Nosferatu and it resulted in total bleed of almost 20 (codex + codex + walk of cain for 6 and couple of changelings). Lucian scored his VP and we timed out (at this point I was far ahead with the pool and 5 equipped minions vs heavy bleeding but only 1 minion.
+
+Crypt (12 cards, min=11, max=23, avg=4.17)
+------------------------------------------
+3x Ági        6  FOR SAN VIC  Blood Brother:6
+2x Gabi       5  SAN VIC for  Blood Brother:6
+2x Dorka      4  for san vic  Blood Brother:6
+2x Viri       3  san vic      Blood Brother:6
+2x Zizi       3  san vic      Blood Brother:6
+1x New Blood  2  san          Blood Brother:ANY
+
+Library (78 cards)
+Master (19; 4 trifle)
+1x Anarch Troublemaker
+3x Blood Buff
+5x British Museum, London, The
+1x Coven, The
+3x Effective Management
+1x Heidelberg Castle, Germany
+2x Information Highway
+3x Tribute to the Master
+
+Action (18)
+6x Hive Mind
+5x Redistribution
+7x Unwholesome Bond
+
+Equipment (13)
+3x Blood Tears of Kephran
+1x Camera Phone
+2x Codex of the Edenic Groundskeepers
+4x Concoction of Vitality
+1x Flaming Candle
+1x Heart of Nizchetus
+1x Monocle of Clarity
+
+Action Modifier (20)
+5x Changeling
+6x Claiming the Body
+4x Shell Game
+5x Walk of Caine
+
+Action Modifier/Combat (7)
+3x Plasmic Form
+4x Slake the Thirst
+
+Event (1)
+1x NRA PAC

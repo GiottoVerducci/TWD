@@ -1,0 +1,56 @@
+La Marató 2021
+Barcelona, Spain
+December 19th 2021
+2R+F
+35 players
+Arnau Diez Sans
+https://www.vekn.net/event-calendar/event/10009
+
+Deck Name: 4 Tupdog
+
+Crypt (30 cards, min=4, max=14, avg=1.47)
+-----------------------------------------
+24x Tupdog        1  POT VIS      Gargoyle:3
+2x  Keith Moody   3  DOM          Tremere antitribu:4
+1x  Janine        4  aus dom tha  Tremere antitribu:4
+1x  Mosfair       4  cel dom tha  Tremere antitribu:4
+1x  Ember Wright  3  aus dom      Tremere antitribu:3
+1x  Saiz          3  aus dom      Tremere antitribu:3
+
+Library (90 cards)
+Master (10)
+2x Dreams of the Sphinx
+1x Effective Management
+3x Fame
+1x Information Highway
+1x Secure Haven
+2x Yawp Court
+
+Action (9)
+4x Dive Bomb
+2x Govern the Unaligned
+3x Graverobbing
+
+Action Modifier (10)
+5x As the Crow
+1x Conditioning
+2x Skin of the Chameleon
+2x Unleash the Hounds
+
+Reaction (7)
+2x Deflection
+1x Delaying Tactics
+4x Voices of the Castle
+
+Combat (53)
+8x Brick by Brick
+10x Immortal Grapple
+3x Lead Fist
+10x Raking Talons
+4x Rockheart
+4x Roundhouse
+7x Stonestrength
+7x Torn Signpost
+
+Event (1)
+1x Uncoiling, The

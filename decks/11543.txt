@@ -1,0 +1,62 @@
+3rd Game of Malkav - Helsinki, Finland
+Helsinki, Finland
+July 3rd 2024
+2R+F
+10 players
+Jyri Puhakka
+https://www.vekn.net/event-calendar/event/11543
+
+-- 0GW1 + 1.5 in final
+
+Deck Name: Anson Gun with Brujah
+
+Description: The idea behind this version of the most iconic combat decks in the game is to make it easier to manage the mid-game. Lowering the crypt cap from 10 to 8 makes a big difference in bringing up the third vampire. To impact the whole table, you only need to perform 1 or 2 segregations. These actions either burn vampires or burn pool, both of which benefit this deck. With decks like this, you should focus on securing your own back, which usually means rushing backwards and allowing the other players to act fairly freely. After removing any threats from the back, it’s time to take control of the table with three vampires with votes and equipped with guns.
+
+
+Crypt (12 cards, min=13, max=32, avg=6.17)
+------------------------------------------
+3x Anson                      8  CEL PRE aus dom  prince  Toreador:1
+2x Constanza Vinti            8  CEL DOM POT      prince  Brujah:2
+2x Dónal O'Connor             8  CEL DOM POT      prince  Brujah:2
+2x Volker, The Puppet Prince  5  CEL pot          prince  Brujah:2
+1x Black Cat                  5  CEL pot pre              Brujah:1
+1x New Blood                  2  san                      Blood Brother:ANY
+1x Anarch Convert             1  -none-                   Caitiff:ANY
+
+Library (80 cards)
+Master (24; 5 trifle)
+9x Ashur Tablets
+1x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+4x Haven Uncovered
+5x Villein
+
+Action (6)
+2x Bum's Rush
+1x Intimidation
+3x Judgment: Camarilla Segregation
+
+Equipment (6)
+6x .44 Magnum
+
+Political Action (2)
+2x Parity Shift
+
+Action Modifier/Combat (1)
+1x Resist Earth's Grasp
+
+Reaction (7)
+7x Second Tradition: Domain
+
+Combat (34)
+2x Blur
+6x Concealed Weapon
+7x Infernal Pursuit
+6x Psyche!
+6x Pursuit
+1x Side Strike
+1x Sideslip
+5x Taste of Vitae

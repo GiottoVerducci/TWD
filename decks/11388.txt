@@ -1,0 +1,71 @@
+Danubian Battle royal - Serbian NC 2024
+Belgrade, Serbia
+May 4th 2024
+3R+F
+14 players
+Milos Krstic
+https://www.vekn.net/event-calendar/event/11388
+
+Deck Name: It Was a Good Day
+Description: "Today I didn't even have to use my A(shur)K(ards),
+I gotta say it was a good day."
+
+Crypt (12 cards, min=12, max=25, avg=4.83)
+------------------------------------------
+2x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+1x Ruslan Fedorenko   2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (21; 5 trifle)
+1x Anarch Railroad
+1x Backways
+2x Carfax Abbey
+2x Club Illusion
+2x Direct Intervention
+1x Ecoterrorists
+1x Garibaldi-Meucci Museum
+1x Information Highway
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+2x Powerbase: Savannah
+1x Rack, The
+3x Vessel
+2x Villein
+
+Action (17)
+1x Army of Rats
+2x Constant Revolution
+2x Rewilding
+12x Thing
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (4)
+1x Mr. Winthrop
+3x Raven Spy
+
+Action Modifier (3)
+3x Earth Control
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (26)
+6x Bait and Switch
+6x Deep Ecology
+2x Delaying Tactics
+4x Eyes of the Wild
+8x Organized Resistance
+
+Combat (14)
+10x Earth Meld
+4x Form of Mist

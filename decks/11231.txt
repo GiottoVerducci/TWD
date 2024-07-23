@@ -1,0 +1,48 @@
+Week of Nightmares Event 5
+Columbus (OH), USA
+June 18th 2024
+2R+F
+30 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/11231
+
+Deck Name: A Fortnight of Bad Dreams V4
+Description: Simple addition of Anarch Troublemaker after testing some additional hand control tech which proven unnecessary.
+
+Crypt (12 cards, min=16, max=26, avg=5.25)
+------------------------------------------
+2x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+2x Gathii             5  ANI PRE obf      Ravnos:7
+2x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+Library (77 cards)
+Master (17; 10 trifle)
+1x Anarch Troublemaker -- useful addition
+1x Club Illusion
+3x Dabbler
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion
+7x Villein
+2x Week of Nightmares
+
+-- Could it use a Coven?  Maybe, but the Master slots are precious given the deck's midgame library turnover.
+
+Action (21)
+18x Break the Bonds
+3x Field Training -- ani before PRE before OBF
+
+Action Modifier (39)
+2x Elder Impersonation
+5x Faceless Night -- brutal in this deck
+4x Lost in Crowds
+12x Memory Rift
+4x Power of One
+2x True Love's Face
+10x Visions of Gehenna

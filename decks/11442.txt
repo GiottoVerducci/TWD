@@ -1,0 +1,74 @@
+Origins - Friday 2
+Columbus (OH), USA
+June 21st 2024
+2R+F
+44 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/11442
+
+Deck Name: Six Demon Bag #2
+Description: Vintage deck slightly modified for V5 meta. I wasn't sure this would be fast enough for 2024 but with some careful play it still works.
+
+I prefer this updated classic over more recent Anarch variants. I like the strong text on the 3 larger wingmen, value getting around bleed reduction with Hordes and appreciate how Tend the Flock helps manage overhead costs.
+
+Crypt (12 cards, min=15, max=40, avg=7.33)
+------------------------------------------
+5x unnamed, The             10  CEL DAI OBF PRE PRO           Baali:6
+3x Horde, The                3  dai obf pre                   Baali:6
+2x Xeper, Sultan of Lepers   7  OBF PRE ani dai pro           Baali:6
+1x Annazir                   9  DAI OBF POT PRE      2 votes  Baali:5
+1x Arishat                   6  DAI OBF PRE          1 vote   Baali:6
+
+-- in the current meta that 2nd Xeper could be shifted to something else though there is still value buried in [pro] Homonculus unlocks.
+
+Library (78 cards)
+Master (16; 4 trifle)
+1x Giant's Blood
+1x Jake Washington
+1x Monastery of Shadows
+1x Path of Evil Revelations
+1x Pentex(TM) Subversion
+1x Perfectionist -- less useful in the V5 meta
+6x Tend the Flock
+1x Vessel
+1x Villein
+2x Wider View
+
+Action (12)
+1x Blithe Acceptance -- not needed as much in this tournament
+2x Contagion
+6x Flurry of Action
+3x Unleash Hell's Fury
+
+Ally (5)
+3x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Retainer (4)
+1x D'habi Revenant -- added to circumvent "reduce by 2" reactions
+3x Homunculus
+
+Action Modifier (25)
+2x Approximation of Loyalty -- cancel Bait & Switch or deny blocks
+2x Elder Impersonation
+3x Enkil Cog
+2x Faceless Night
+3x I am Legion -- fewer copies with Baron/Prince replacing [AUS] in the meta.
+6x Instantaneous Transformation
+2x Lost in Crowds
+2x Psychomachia -- slightly better in V5 meta
+3x Revelation of the Serpent
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+2x Form of the Bat -- stealth and makes up for some loss of Sense the Sin intercept
+2x Sense the Sin
+
+Reaction (4)
+4x Eluding the Arms of Morpheus
+
+Combat (3)
+3x Majesty -- Majesty over Form of Mist to protect wingmen

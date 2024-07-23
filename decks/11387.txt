@@ -1,30 +1,30 @@
 5th Road to Pulled Fang #13
 Hradec Králové, Czech Republic
 April 27th 2024
-3+F
+3R+F
 25 players
 Martin Weinmayer
+https://www.vekn.net/event-calendar/event/11387
 
 https://www.vekn.net/event-calendar/event/11387
 
 Deck Name: Deck Name: If you can't beat 'em, join 'em!
 
-Crypt (12 cards, min=24 max=31 avg=6.75)
-========================================
-1x Martina Srnankova       6 FOR PRO ani                   Gangrel:6
-1x Adrino Manauara         8 ANI DOM PRO pot       baron   Tzimisce:6
-1x Keegan                  8 ANI FOR PRO aus cel           Gangrel:6
-1x Ragnar Nordstrom        8 ANI FOR PRO cel pot           Gangrel:6
-1x Ángel Guerrero          7 ANI DOM PRO           baron   Tzimisce:6
-1x Massimiliano            7 ANI FOR pro           baron   Gangrel:6
-1x Talbot                  7 ANI NEC PRO for               Gangrel:5
-2x Casey Snyder            6 PRO ani cel for       baron   Gangrel:6
-2x Kuyén                   6 ANI PRO               baron   Gangrel:6
-1x André the Manipulator   6 FOR PRO                       Gangrel:5
+Crypt (12 cards, min=24, max=31, avg=6.75)
+------------------------------------------
+2x Casey Snyder           6  PRO ani cel for      baron  Gangrel:6
+2x Kuyén                  6  ANI PRO              baron  Gangrel:6
+1x Adrino Manauara        8  ANI DOM PRO pot      baron  Tzimisce:6
+1x Keegan                 8  ANI FOR PRO aus cel         Gangrel:6
+1x Ragnar Nordstrom       8  ANI FOR PRO cel pot         Gangrel:6
+1x Ángel Guerrero         7  ANI DOM PRO          baron  Tzimisce:6
+1x Massimiliano           7  ANI FOR pro          baron  Gangrel:6
+1x Talbot                 7  ANI NEC PRO for             Gangrel:5
+1x André the Manipulator  6  FOR PRO                     Gangrel:5
+1x Martina Srnankova      6  FOR PRO ani                 Gangrel:6
+
 Library (90 cards)
-==================
 Master (20; 7 trifle)
-----------------------
 1x Carfax Abbey
 2x Club Illusion
 2x Direct Intervention
@@ -36,32 +36,32 @@ Master (20; 7 trifle)
 1x Powerbase: Montreal
 1x Rack, The
 7x Villein
+
 Action (12)
-------------
 2x Constant Revolution
 10x Thing
+
 Political Action (2)
----------------------
 1x Reckless Agitation
 1x Revolutionary Council
+
 Retainer (3)
--------------
 1x Mr. Winthrop
 2x Raven Spy
+
 Action Modifier (4)
---------------------
 2x Earth Control
 2x Monkey Wrench
+
 Action Modifier/Reaction (4)
------------------------------
 4x Form of the Bat
+
 Reaction (27)
---------------
 8x Bait and Switch
 9x Deep Ecology
 10x Organized Resistance
+
 Combat (18)
-------------
 2x Donnybrook
 10x Earth Meld
 6x Form of Mist

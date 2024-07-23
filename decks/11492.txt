@@ -1,0 +1,66 @@
+Quermesse da Arquidiocese
+Teresina, Brazil
+June 23rd 2024
+2R+F
+10 players
+Thyago Oliveira Carvalho
+https://www.vekn.net/event-calendar/event/11492
+
+Deck Name: Ministério meio-fio
+
+Crypt (12 cards, min=17, max=29, avg=5.75)
+------------------------------------------
+2x Vivian VI           7  PRE PRO obf tha      baron  Follower of Set:6
+2x Elisha Tucker       6  PRE cel obf pro      baron  Follower of Set:6
+1x Sergio Bueno        8  OBF PRE PRO aus pot  baron  Follower of Set:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Crystal Lynn        6  OBF PRE PRO                 Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro             Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre             Follower of Set:6
+1x Jenny Silver        5  PRE PRO obf                 Follower of Set:6
+1x Marcel              4  obf pre pro                 Follower of Set:6
+1x Milton Fox          3  pre pro                     Follower of Set:6
+
+Library (90 cards)
+Master (16; 6 trifle)
+1x Barrens, The
+1x Carfax Abbey
+1x Club Illusion
+2x Dabbler
+2x Dreams of the Sphinx
+1x Elder Library
+1x Garibaldi-Meucci Museum
+1x Opium Den
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+3x Vessel
+1x Wider View
+
+Action (11)
+11x Platinum Protocol, The
+
+Ally (1)
+1x Saatet-ta
+
+Equipment (3)
+2x Heart of Nizchetus
+1x Ivory Bow
+
+Action Modifier (25)
+5x Earth Control
+5x Enchanting Gaze
+7x Memory Rift
+8x Revelation of the Serpent
+
+Action Modifier/Reaction (5)
+5x Form of the Bat
+
+Reaction (20)
+4x Bait and Switch
+7x Organized Resistance
+7x Party Out Of Bounds
+2x Protection Racket
+
+Combat (9)
+2x Donnybrook
+7x Earth Meld

@@ -1,0 +1,72 @@
+Regeneration Stockholm 2024
+Stockholm, Sweden
+May 11th 2024
+3R+F
+23 players
+Jonas Ståhle
+https://vdb.im/decks/a600768263054952a37a23da09e47440
+https://www.vekn.net/event-calendar/event/11407
+
+-- 3vp in final
+
+Top 5 before finals with GWs and VPs:
+1. Nina Nilsson	3 8,5
+2. Alexander Båskman 2 8
+3. Tim Karlsson	1 7
+4. Jonas Ståhle	1 7
+5. Henrik Klippström 1 5
+
+Seating: Alexander (G2-3 Baali+bigcaps MMPA "Gubbarna" stealth-bleed) -> Nina (Ravnos G7 Stolen Police Cruiser stealth-bleed) -> Jonas (Kiasyd British Museum stealth-bleed) -> Tim (Ministy G6 stealth-bleed) -> Henrik (Tremere G6 stealth-bleed)
+
+Deck Name: Logan's Longing
+
+Crypt (12 cards, min=16, max=27, avg=5.42)
+------------------------------------------
+3x Roderick Phillips March  7  DOM MYT cel obt tha  Kiasyd:4
+2x Isanwayen                6  DOM MYT OBT          Kiasyd:4
+1x Onaedo                   6  DOM OBT aus pot      Lasombra:4
+1x Banjoko                  5  DOM obt pot          Lasombra:3
+1x Dame Hollerton           5  DOM OBT myt          Kiasyd:4
+1x Ermenegildo, The Rake    5  DOM OBT pot          Lasombra:4
+1x Leila Monroe             4  dom obt pre          Lasombra:4
+1x Quincy, The Trapper      4  dom myt obt          Kiasyd:3
+1x Lucy Markowitz           3  dom obt              Lasombra:4
+
+Library (73 cards)
+Master (14; 2 trifle)
+3x British Museum, London, The
+1x Coven, The
+3x Dreams of the Sphinx
+2x Great Symposium
+2x Information Highway
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Wider View
+
+Action (11)
+11x Govern the Unaligned
+
+Ally (5)
+5x Nocturn
+
+Equipment (10)
+1x Blood Tears of Kephran
+1x Bowl of Convergence
+5x Cooler
+2x Heart of Nizchetus
+1x Signet of King Saul, The
+
+Action Modifier (26)
+4x Bonding
+4x Conditioning
+2x Foreshadowing Destruction
+1x Nightshades
+5x Shadow Play
+4x Shroud of Absence
+1x Shroud of Night
+3x Stone Travel
+2x Tenebrous Form
+
+Reaction (7)
+5x Deflection
+2x On the Qui Vive

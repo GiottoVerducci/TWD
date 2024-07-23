@@ -1,0 +1,67 @@
+Cícero Jannyson
+Fortaleza (CE), Brazil
+April 21st 2024
+2R+F
+25 players
+José Felipe
+https://www.vekn.net/event-calendar/event/11149
+
+Deck Name: Brujah se DER BATE
+Author: Felipe Nogueira
+Description: Mesmo ganhando precisa de melhorias : ) kkkk
+
+Crypt (12 cards, min=12, max=27, avg=5.08)
+------------------------------------------
+2x Aline Gädeke        7  POT PRE cel      baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro  baron  Brujah:6
+1x Atiena              6  CEL obf pot pre  baron  Brujah:6
+1x Leumeah             6  PRE cel for pot  baron  Brujah:6
+1x Octane              6  CEL POT PRE             Brujah:6
+1x Brandon Grime       5  CEL pot pre tha         Brujah:6
+1x Siarhei Levchenko   5  CEL PRE pot             Brujah:6
+1x Elen Kamjian        4  CEL POT                 Brujah:6
+1x Anita Wainwright    3  cel pre                 Brujah:6
+1x Ariane              3  cel pot pre             Brujah:5
+1x Rayne               2  pot                     Brujah:6
+
+Library (90 cards)
+Master (30; 4 trifle)
+1x Anarch Free Press, The
+1x Archon Investigation
+6x Ashur Tablets
+8x Brujah Debate
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x New Carthage
+3x Parthenon, The
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+2x Vessel
+2x Villein
+1x Warzone Hunting Ground
+
+Action (9)
+1x Aranthebes, The Immortal
+6x Embrace, The
+2x Open War
+
+Equipment (1)
+1x Sport Bike
+
+Political Action (6)
+6x Consanguineous Boon
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (19)
+6x Bait and Switch
+10x Organized Resistance
+3x Protection Racket
+
+Combat (24)
+2x Disarm
+10x Dust Up
+8x Immortal Grapple
+4x Taste of Vitae

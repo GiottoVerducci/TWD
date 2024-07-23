@@ -1,0 +1,51 @@
+David Rocha
+Fortaleza Ceará, Brazil
+June 2nd 2024
+2R+F
+20 players
+Cicero Jannyson
+https://www.vekn.net/event-calendar/event/11152
+
+Deck Name: Brujah Baroes [by Jannyson ]
+
+Crypt (12 cards, min=25, max=32, avg=7.08)
+------------------------------------------
+3x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Octane              6  CEL POT PRE                 Brujah:6
+
+Library (90 cards)
+Master (13; 4 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Club Illusion
+1x Fame
+2x Monster
+2x New Carthage
+4x Villein
+1x Warzone Hunting Ground
+
+Action (18)
+8x Line Brawl
+4x Open War
+6x Show of Force
+
+Action Modifier (3)
+3x Zephyr
+
+Reaction (12)
+5x Bait and Switch
+7x Organized Resistance
+
+Combat (44)
+5x Bollix
+6x Dust Up
+6x Hell-for-Leather
+8x Immortal Grapple
+6x Pursuit
+5x Taste of Vitae
+8x Torn Signpost

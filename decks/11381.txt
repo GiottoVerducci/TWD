@@ -1,0 +1,74 @@
+Campeonato Mineiro 2024
+Minas Gerais, Brazil
+May 4th 2024
+3R+F
+37 players
+Igor Castro
+https://www.vekn.net/event-calendar/event/11381
+
+Deck Name: Unnamed BS Anarch
+
+Crypt (12 cards, min=6, max=40, avg=5.5)
+----------------------------------------
+4x unnamed, The          10  CEL DAI OBF PRE PRO  Baali:6
+3x Anarch Convert         1  -none-               Caitiff:ANY
+2x Crystal Lynn           6  OBF PRE PRO          Follower of Set:6
+2x Marcel                 4  obf pre pro          Follower of Set:6
+1x "Coach" Tyrone Soros   3  obf pre              Follower of Set:6
+
+Library (90 cards)
+Master (17; 6 trifle)
+1x Archon Investigation
+1x Coven, The
+2x Dabbler
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+2x Perfectionist
+2x Rötschreck
+1x Secure Haven
+2x Vessel
+1x Wider View
+
+Action (18)
+1x Contagion
+1x Entrancement
+1x Heart of the City
+7x Platinum Protocol, The
+6x Public Trust
+2x Unleash Hell's Fury
+
+Ally (2)
+1x Mylan Horseed
+1x Veneficti
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (1)
+1x Homunculus
+
+Action Modifier (31)
+3x Earth Control
+4x Elder Impersonation
+4x Enchanting Gaze
+2x Enkil Cog
+3x I am Legion
+6x Instantaneous Transformation
+4x Into Thin Air
+5x Lost in Crowds
+
+Action Modifier/Reaction (3)
+3x Sense the Sin
+
+Reaction (6)
+6x Visions of Zapathasura
+
+Combat (10)
+5x Earth Meld
+5x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians

@@ -1,0 +1,82 @@
+Week of Nightmares Event 3
+Columbus (OH), USA
+June 17th 2024
+2R+F
+35 players
+Sérgio Louçã Martins
+https://www.vekn.net/event-calendar/event/11229
+
+-- 2GW8 + 3vp in final
+
+Deck Name: Hesha's trinket emporium
+Description:
+1. (as of 2024) NRA does not extend to equip actions.
+2. Free repeatable unlocks are a scourge upon the land and multiply the value of an opportunity window to incredible heights.
+3. The above two points culminate in a card shuffle simulation experience for most preys of this deck. I guess an early end to the round means more time to rest?
+
+Shaves 6 cards based on a discussion with Darby Keeney.
+
+Many thanks to him for pointing me to Hag's Wrinkles and discussing card flow with me for the last couple of years.
+
+Tech, of course, comes from both at this point.
+
+It's been a blast.
+
+Crypt (12 cards, min=12, max=28, avg=5)
+---------------------------------------
+6x Hesha Ruhadze    7  PRE PRO ani aus obf  Follower of Set:6
+6x Angel Chavarria  3  THN                  Samedi:6
+
+Library (75 cards)
+Master (3; 1 trifle)
+1x Direct Intervention
+1x Heidelberg Castle, Germany
+1x Nod
+
+Action (2)
+1x Precision
+1x Revelations
+
+Equipment (34)
+1x Amulet of Temporal Perception
+1x Argent Baton
+1x Blood Tears of Kephran
+1x Body Bag
+1x Bowl of Convergence
+1x Changeling Skin Mask
+1x Cloak of the Abalone
+1x Codex of the Edenic Groundskeepers
+1x Concoction of Vitality
+1x Drum of Xipe Totec
+1x Flaming Candle
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Joumlon's Axe
+1x Kaymakli Fragment
+6x Learjet
+1x Martinelli's Ring
+1x Monocle of Clarity
+1x Mummy's Tongue
+1x Orb of Ulain
+1x Ritual Goblet
+1x Sargon Fragment, The
+1x Seal of Veddartha
+1x Signet of King Saul, The
+1x Sire's Index Finger
+1x Soul Gem of Etrius
+1x Textbook Damnation, The
+1x Veneficorum Artum Sanguis
+1x Vial of Elder Vitae
+
+Action Modifier (34)
+1x Approximation of Loyalty
+28x Hag's Wrinkles
+1x Horrific Countenance
+1x I am Legion
+1x Perfect Clarity
+1x Red Question, The
+1x Under My Skin
+
+Action Modifier/Combat (2)
+1x Force of Personality
+1x Hide the Mind

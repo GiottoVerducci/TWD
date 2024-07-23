@@ -1,0 +1,59 @@
+Mensal Garagem do Nerd
+Belo Horizonte, Brazil
+June 29th 2024
+2R+F
+12 players
+Cedric Ribeiro
+https://www.vekn.net/event-calendar/event/11514
+
+Deck Name: Arika bleed e voto
+Author: Felipe Oliveira
+
+Crypt (12 cards, min=40, max=44, avg=10.33)
+-------------------------------------------
+4x Arika             11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Lucinde, Alastor  10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+3x Marcus Vitel      10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+2x Queen Anne        10  DOM FOR PRE aus obf      prince        Ventrue:2
+
+Library (90 cards)
+Master (19; 8 trifle)
+1x Monastery of Shadows
+1x Secure Haven
+1x Ventrue Headquarters
+8x Villein
+8x Zillah's Valley
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Disputed Territory
+8x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (30)
+3x Cloak the Gathering
+3x Elder Impersonation
+8x Freak Drive
+3x Lost in Crowds
+3x Perfect Paragon
+4x Seduction
+6x Voter Captivation
+
+Action Modifier/Combat (4)
+2x Force of Personality
+2x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (10)
+10x Deflection
+
+Combat (3)
+3x Majesty

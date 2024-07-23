@@ -12,7 +12,7 @@ Created by: Billy Troxel and his friends
 Description: Kudos to Billy. I made the changes based on his report. Made many mistakes but the deck is forgiving and resilient.
 
 Crypt (12 cards, min=18 max=32 avg=6.42)
-========================================
+-----------------------------------------
 4x Adrino Manauara 8 ANI DOM PRO pot baron Tzimisce:6
 3x Ángel Guerrero 7 ANI DOM PRO baron Tzimisce:6
 1x Branimira 6 ANI dom pre pro baron Tzimisce:6
@@ -22,7 +22,6 @@ Crypt (12 cards, min=18 max=32 avg=6.42)
 1x New Blood 2 san Blood Brother:ANY
 
 Library (86 cards)
-==================
 Master (16; 4 trifle)
 
 1x Anarch Railroad

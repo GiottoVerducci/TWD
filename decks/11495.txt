@@ -1,29 +1,29 @@
 Road to Pulled Fangs #13 Additional Strike
-July 20, 2024
-Hradec Kralove, CZ
-13 players
+Hradec Kralove, Czech Republic
+July 20th 2024
 3R+F
+13 players
 Pavel Simek
 https://www.vekn.net/event-calendar/event/11495
---1st seed with 2GW+9.5VP in preliminary rounds, 2VP in final.
+
+--2GW9.5 (1st seed) + 2vp in final
 
 Deck Name: Organized Bleed Resistance
 Created by: Billy Troxel and his friends
 Description: Kudos to Billy. I made the changes based on his report. Made many mistakes but the deck is forgiving and resilient.
 
-Crypt (12 cards, min=18 max=32 avg=6.42)
------------------------------------------
-4x Adrino Manauara 8 ANI DOM PRO pot baron Tzimisce:6
-3x Ángel Guerrero 7 ANI DOM PRO baron Tzimisce:6
-1x Branimira 6 ANI dom pre pro baron Tzimisce:6
-1x Kuyén 6 ANI PRO baron Gangrel:6
-1x Clara Hjortshøj 5 PRO ani aus dom Tzimisce:6
-1x Kamile Paukstys 5 PRO ani for Gangrel:6
-1x New Blood 2 san Blood Brother:ANY
+Crypt (12 cards, min=18, max=32, avg=6.42)
+------------------------------------------
+4x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Kuyén            6  ANI PRO          baron  Gangrel:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Kamile Paukstys  5  PRO ani for             Gangrel:6
+1x New Blood        2  san                     Blood Brother:ANY
 
 Library (86 cards)
-Master (16; 4 trifle)
-
+Master (16; 5 trifle)
 1x Anarch Railroad
 1x Carfax Abbey
 1x Direct Intervention
@@ -37,25 +37,20 @@ Master (16; 4 trifle)
 2x Wider View
 
 Action (17)
-
 5x Deep Song
 12x Govern the Unaligned
 
 Political Action (2)
-
 2x Eat the Rich
 
 Action Modifier (8)
-
 4x Conditioning
 4x Earth Control
 
 Action Modifier/Reaction (3)
-
 3x Form of the Bat
 
 Reaction (23)
-
 4x Bait and Switch
 4x Deep Ecology
 4x Deflection
@@ -65,7 +60,6 @@ Reaction (23)
 2x Protection Racket
 
 Combat (17)
-
 1x Donnybrook
 9x Earth Meld
 7x Form of Mist

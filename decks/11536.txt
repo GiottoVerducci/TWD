@@ -1,0 +1,68 @@
+Warzone Hunting Ground Stockholm 2024
+Stockholm, Sweden
+July 7th 2024
+3R+F
+16 players
+Michael Holmström
+https://www.vekn.net/event-calendar/event/11536
+
+-- 4vp in final
+
+Deck: "Protect The Platonic Vote"
+
+Crypt (12 cards, min=34, max=44, avg=9.67)
+------------------------------------------
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+3x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
+2x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+1x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
+1x Stavros                 7  AUS OBF PRE dem          priscus       Malkavian antitribu:4
+
+Library (75 cards)
+Master (28; 2 trifle)
+1x Barrens, The
+1x Coven, The
+1x Creepshow Casino
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+7x Minion Tap
+1x Monastery of Shadows
+1x Parthenon, The
+1x Pentex(TM) Subversion
+3x Protected Resources
+1x Secure Haven
+1x Wider View
+6x Zillah's Valley
+
+Action (2)
+1x Charming Lobby
+1x Entrancement
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+1x Conservative Agitation
+1x Disputed Territory
+6x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (24)
+1x Approximation of Loyalty
+1x Awe
+2x Bewitching Oration
+1x Elder Impersonation
+4x Forgotten Labyrinth
+3x Into Thin Air
+5x Perfect Paragon
+1x Veil the Legions
+6x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Force of Personality

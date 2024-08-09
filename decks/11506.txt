@@ -1,0 +1,75 @@
+Sunday VTES tournament
+Helsinki, Finland
+July 21st 2024
+2R+F
+22 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/11506
+
+Deck Name: Usurper High Council
+Description: Inspired by Otso Saariluoma's 269 players winning deck
+
+Crypt (12 cards, min=35, max=44, avg=9.83)
+------------------------------------------
+5x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+3x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
+1x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+1x Dr. John Dee            9  ANI AUS DOM THA chi      prince        Tremere:4
+1x Gerald Windham          9  AUS DOM FOR THA                        Tremere:5
+1x Troius                  8  AUS DOM THA cel          prince        Tremere:4
+
+Library (90 cards)
+Master (38; 6 trifle)
+12x Ashur Tablets
+1x Creepshow Casino
+2x Direct Intervention
+4x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+5x Liquidation
+1x Metro Underground
+1x Monastery of Shadows
+4x Parthenon, The
+6x Villein
+
+Action (2)
+1x Govern the Unaligned
+1x Rutor's Hand
+
+Ally (1)
+1x Ponticulus
+
+Equipment (3)
+1x Heart of Nizchetus
+2x Helicopter
+
+Political Action (11)
+2x Alastor
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+1x Disputed Territory
+1x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (15)
+1x Conditioning
+1x Elder Impersonation
+1x Enkil Cog
+4x Forgotten Labyrinth
+4x Into Thin Air
+4x Mirror Walk
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (19)
+7x Deflection
+4x Eyes of Argus
+1x My Enemy's Enemy
+4x Obedience
+1x Redirection
+2x Telepathic Misdirection

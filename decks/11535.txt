@@ -1,0 +1,68 @@
+Sundown fator 5000
+Teresina, Brazil
+August 4th 2024
+2R+F
+12 players
+Thyago Oliveira Carvalho
+https://www.vekn.net/event-calendar/event/11535
+
+Deck Name: Uma mão no Thing e outra no carinho
+
+Crypt (12 cards, min=16, max=25, avg=5.33)
+------------------------------------------
+2x André the Manipulator  6  FOR PRO                 Gangrel:5
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Dario Ziggler          5  FOR ani pro tha         Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Joaquín de Cádiz       3  for pro                 Gangrel:6
+
+Library (90 cards)
+Master (18; 3 trifle)
+1x Anarch Railroad
+1x Backways
+1x Barrens, The
+1x Carfax Abbey
+1x Club Illusion
+2x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Garibaldi-Meucci Museum
+1x Information Highway
+1x Powerbase: Montreal
+1x Rack, The
+2x Tribute to the Master
+3x Vessel
+
+Action (18)
+6x Deep Song
+12x Thing
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (1)
+1x Raven Spy
+
+Action Modifier (18)
+4x Adhocracy
+5x Earth Control
+6x Freak Drive
+3x Monkey Wrench
+
+Action Modifier/Reaction (5)
+5x Form of the Bat
+
+Reaction (18)
+5x Bait and Switch
+8x Deep Ecology
+5x Organized Resistance
+
+Combat (11)
+2x Donnybrook
+7x Earth Meld
+2x Form of Mist

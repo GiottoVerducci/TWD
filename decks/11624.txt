@@ -1,0 +1,71 @@
+First Blood '24 Redus
+Pasig City, Philippines
+August 4th 2024
+2R+F
+10 players
+Timothy Joseph Sales
+https://www.vekn.net/event-calendar/event/11624
+
+Deck Name: Malkavian Stealth Bleed V5
+
+Crypt (12 cards, min=22, max=30, avg=6.67)
+------------------------------------------
+3x Jason "Son" Newberry  7  AUS DOM OBF pre      primogen  Malkavian:6
+2x Abraham Mellon        8  AUS DOM OBF for tha            Malkavian:6
+1x Cedrick Calhoun       7  ANI DOM OBF pot                Nosferatu:6
+1x Gilbert Duane         7  AUS DOM OBF          baron     Malkavian:6
+1x Nathaniel Bordruff    7  DOM OBF POT ani                Nosferatu:6
+1x Andi Liu              6  DOM aus obf pre      prince    Malkavian:6
+1x Darius Shirazi        6  AUS DOM obf                    Malkavian:5
+1x Colette               5  AUS OBF dom                    Malkavian:6
+1x Evan Klein            5  OBF aus dom pre                Malkavian:6
+
+Library (75 cards)
+Master (19; 5 trifle)
+1x Anarch Troublemaker
+1x Archon Investigation
+1x Asylum Hunting Ground
+1x Barrens, The
+2x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Secure Haven
+3x Vessel
+2x Wider View
+
+Action (18)
+2x Dominate Kine
+7x Govern the Unaligned
+7x Scouting Mission
+2x Slaughtering the Herd
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (25)
+2x Bonding
+2x Change of Target
+4x Cloak the Gathering
+3x Conditioning
+3x Elder Impersonation
+2x Faceless Night
+4x Lost in Crowds
+2x Seduction
+2x Threats
+1x Veil the Legions
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (4)
+4x Deflection
+
+Combat (2)
+2x No Trace

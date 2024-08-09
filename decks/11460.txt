@@ -1,0 +1,63 @@
+Belgian NC 2024
+Mechelen, Belgium
+July 21st 2024
+3R+F
+36 players
+Axel Huet
+https://www.vekn.net/event-calendar/event/11460
+
+Deck Name: Nosferatu
+
+Crypt (12 cards, min=18, max=24, avg=5.5)
+-----------------------------------------
+2x Dowager, The          6  ANI OBF aus pot  primogen  Nosferatu:6
+2x Larissa Moreira       6  ANI OBF pot      primogen  Nosferatu:6
+2x Lenny Burkhead        6  ANI obf pot pre  primogen  Nosferatu:6
+2x Dominica              3  aus for                    Salubri:7
+1x Belinde               6  OBF ani aus pot  prince    Nosferatu:6
+1x Benedito, a Lanterna  6  POT ani aus obf  baron     Nosferatu:6
+1x Jacques Rouge         6  OBF ani pot pre  baron     Nosferatu:6
+1x Kalinda               6  CEL OBF tha      primogen  Assamite:6
+
+Library (79 cards)
+Master (20; 8 trifle)
+1x Anarch Troublemaker
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+2x Labyrinth, The
+1x Saulot's Guiding Wisdom
+7x Villein
+4x Warsaw Station
+1x Wider View
+
+Action (7)
+3x Army of Rats
+4x Creeping Sabotage
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (8)
+1x Conservative Agitation
+1x Domain Challenge
+5x Kine Resources Contested
+1x Neonate Breach
+
+Action Modifier (9)
+2x Faceless Night
+2x Forgotten Labyrinth
+3x Lost in Crowds
+2x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (22)
+2x Guard Dogs
+5x On the Qui Vive
+15x Protected District
+
+Combat (10)
+5x Aid from Bats
+5x Carrion Crows

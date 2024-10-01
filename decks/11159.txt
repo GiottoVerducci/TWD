@@ -1,0 +1,72 @@
+Bruno Hobbit
+Fortaleza (CE), Brazil
+September 22nd 2024
+2R+F
+21 players
+Valdemir Santos
+https://www.vekn.net/event-calendar/event/11159
+
+Deck Name: Dance of Death
+Description: Deck paia sem stealth
+
+Crypt (12 cards, min=24, max=35, avg=7.58)
+------------------------------------------
+2x Diana Iadanza       9  AUS CEL FOR PRE      justicar  Toreador:7
+2x Catalina Vega       8  AUS CEL PRE for      prince    Toreador:6
+2x Marcos Belegrad     8  AUS CEL PRE ani      prince    Toreador:7
+1x Annabelle Triabell  9  AUS CEL PRE dom for  primogen  Toreador:6
+1x Modius              8  AUS CEL PRE obf      prince    Toreador:7
+1x Flávio Gonçalves    7  CEL PRE aus for      prince    Toreador:6
+1x Maila               6  AUS PRE cel          primogen  Toreador:6
+1x Mkhokheli           6  PRE aus cel for      prince    Toreador:6
+1x Carmelita Neillson  5  AUS cel pre                    Toreador:7
+
+Library (90 cards)
+Master (21; 5 trifle)
+1x Archon Investigation
+1x Art Museum
+1x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+11x Toreador Grand Ball
+4x Villein
+1x Wider View
+
+Action (3)
+1x Entrancement
+2x Judgment: Camarilla Segregation
+
+Political Action (20)
+2x Banishment
+6x Camarilla's Iron Fist
+1x Confiscation
+1x Disputed Territory
+3x Kine Resources Contested
+1x Neonate Breach
+5x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (20)
+2x Awe
+2x Bewitching Oration
+1x Business Pressure
+1x Closed Session
+3x Forced March
+2x Perfect Paragon
+2x Scorn of Adonis
+1x Telepathic Vote Counting
+6x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (15)
+2x Eyes of Argus
+2x My Enemy's Enemy
+2x On the Qui Vive
+2x Second Tradition: Domain
+7x Telepathic Misdirection
+
+Combat (9)
+2x Charismatic Aura
+7x Majesty

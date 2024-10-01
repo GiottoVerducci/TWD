@@ -1,0 +1,56 @@
+Fee Stake: Jyväskylä 5
+Jyväskylä, Finland
+July 13th 2024
+2R+F
+10 players
+Lauri Salmi
+https://www.vekn.net/event-calendar/event/11513
+
+Deck name: Mambou Jambou
+Authors: Lauri Salmi, Aapo Järvelin & Antti Penttilä
+Description: Multirush deck with lots of prevent and damage. This has been ongoing project of mine, Aapo Järvelin and Antti Penttilä. So thanks for the contribution goes to them!
+
+Crypt (12 cards, min=24, max=36, avg=7.67)
+------------------------------------------
+5x Mambo Jeanne     9  FOR NEC OBF THN      Samedi:6
+3x Baroque          7  NEC THN aus for obf  Samedi:5
+1x Jean Lisle       8  FOR OBF THN pot      Samedi:6
+1x Josette          8  FOR OBF THN pot pre  Samedi:6
+1x Mister Schwartz  6  NEC THN for obf      Samedi:6
+1x Marie-Pierre     4  THN for nec          Samedi:6
+
+Library (80 cards)
+Master (19; 5 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+2x Blessings of the Loa
+1x Carver's Meat Packing and Storage
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Secure Haven
+4x Villein
+1x Wider View
+
+Action (11)
+2x Ambush
+3x Big Game
+3x Bum's Rush
+1x Charge of the Buffalo
+2x Harass
+
+Action Modifier (7)
+7x Freak Drive
+
+Combat (41)
+7x Groaning Corpse
+3x Hidden Strength
+4x Necrosis
+15x Relentless Reaper
+2x Rolling with the Punches
+5x Taste of Vitae
+5x Unflinching Persistence
+
+Event (2)
+1x Dragonbound
+1x Narrow Minds

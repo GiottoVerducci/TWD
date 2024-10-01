@@ -1,0 +1,57 @@
+8th Great Symposium
+Mikkeli, Finland
+August 24th 2024
+2R+F
+16 players
+Teemu Pulkkinen
+https://www.vekn.net/event-calendar/event/11660
+
+Deck Name: Muussauskoulu
+Description: Thank you to Antti Penttilä for providing a great list that I customized by adding some rushes.
+Antti got an idea of using Raw Recruit + As the Crow + Codex of the Edenic Groundskeepers with the intent of
+actually removing vampires instead of just torporizing them and to turn objectives into assets.
+
+Crypt (12 cards, min=14, max=28, avg=5.33)
+------------------------------------------
+5x Alabástrom       7  POT VIS aus cel for  Gargoyle:6
+3x Verbruch         5  POT VIS for          Gargoyle:5
+2x Porphyry         4  POT vis              Gargoyle:6
+1x Monica Chang     3  dom tha              Tremere:5
+1x Rosalina Cortez  3  THA                  Tremere:6
+
+Library (85 cards)
+Master (14; 3 trifle)
+1x Alvusia
+6x Ashur Tablets
+1x Fame
+1x Frontal Assault
+1x Golconda: Inner Peace
+1x Secure Haven
+2x Villein
+1x Wider View
+
+Action (25)
+5x Bum's Rush
+8x Dive Bomb
+3x Harass
+3x Preternatural Strength
+6x Raw Recruit
+
+Equipment (3)
+2x Codex of the Edenic Groundskeepers
+1x Heart of Nizchetus
+
+Action Modifier (6)
+6x As the Crow
+
+Combat (35)
+5x Brick by Brick
+2x Disarm
+8x Immortal Grapple
+8x Raking Talons
+6x Roundhouse
+4x Stonestrength
+2x Taste of Vitae
+
+Event (2)
+2x Narrow Minds

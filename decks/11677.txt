@@ -1,0 +1,77 @@
+Liga Chilanga 2024 Jornada 8 (MX)
+Mexico City, Mexico
+September 1st 2024
+3R+F
+13 players
+Carlos Escobar Muciño
+https://www.vekn.net/event-calendar/event/11677
+
+Deck Name: La Jauria esta suelta
+Description: Mazo basado en el "Gangrel Thing" jugado por Noora Hirvonen con modificaciones que le iran bien para el meta mexicano
+
+Crypt (13 cards, min=11, max=23, avg=4.15)
+------------------------------------------
+2x André the Manipulator  6  FOR PRO          Gangrel:5
+1x Martina Srnankova      6  FOR PRO ani      Gangrel:6
+1x Kamile Paukstys        5  PRO ani for      Gangrel:6
+1x Mickey Wheeler         5  ani cel for pro  Gangrel:6
+1x C.J.                   4  FOR pro          Gangrel:5
+1x Hanna Nokelainen       4  ani for pro      Gangrel:6
+1x Nathan Turner          4  PRO ani          Gangrel:6
+1x Fergus Alexander       3  pot pro          Gangrel:5
+1x Indira                 3  PRO              Gangrel:6
+1x Joaquín de Cádiz       3  for pro          Gangrel:6
+1x Lillian                3  ani pro          Gangrel:5
+1x Ruslan Fedorenko       2  pro              Gangrel:6
+
+Library (90 cards)
+Master (19; 6 trifle)
+1x Anarch Free Press, The
+1x Backways
+1x Bleeding the Vine
+1x Club Illusion
+1x Coven, The
+1x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Gangrel Revel
+1x Giant's Blood
+1x Information Highway
+1x Powerbase: Montreal
+1x Sudden Reversal
+5x Villein
+1x Zoo Hunting Ground
+
+Action (23)
+1x Aranthebes, The Immortal
+8x Computer Hacking
+2x Rewilding
+12x Thing
+
+Retainer (1)
+1x J. S. Simmons, Esq.
+
+Action Modifier (10)
+6x Earth Control
+2x Leverage
+2x Monkey Wrench
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (6)
+6x Form of the Bat
+
+Reaction (14)
+4x Deep Ecology
+3x Delaying Tactics
+7x Eyes of the Wild
+
+Combat (14)
+8x Earth Meld
+2x Flesh of Marble
+2x Form of Mist
+2x Wolf Claws
+
+Event (1)
+1x Narrow Minds

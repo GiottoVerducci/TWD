@@ -1,0 +1,64 @@
+Campina agora tem SAC
+Campina Grande (PB), Brazil
+September 28th 2024
+3R+F
+10 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/11722
+
+Deck Name: Molly não é mole! 2.0
+
+Crypt (12 cards, min=20, max=40, avg=7.33)
+------------------------------------------
+4x Molly MacDonald       10  ANI OBF POT PRO  justicar  Nosferatu:7
+3x Nikolaus Vermeulen     7  ANI POT for obf  prince    Nosferatu:6
+1x Nathaniel Bordruff     7  DOM OBF POT ani            Nosferatu:6
+1x Benedito, a Lanterna   6  POT ani aus obf  baron     Nosferatu:6
+1x Horace Radcliffe       5  ANI POT obf                Nosferatu:6
+1x Okulos                 5  OBF ani pot                Nosferatu:7
+1x Aunt Linda             4  POT obf                    Nosferatu:6
+
+Library (90 cards)
+Master (19; 6 trifle)
+2x Dreams of the Sphinx
+1x Elder Library
+1x Fame
+1x Giant's Blood
+1x Labyrinth, The
+1x Powerbase: Montreal
+1x Rack, The
+1x Slum Hunting Ground
+1x Smiling Jack, The Anarch
+3x Vessel
+2x Villein
+3x Warsaw Station
+1x Wider View
+
+Action (14)
+1x Army of Rats
+4x Creeping Sabotage
+7x Deep Song
+2x Preternatural Strength
+
+Retainer (3)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+1x Raven Spy
+
+Action Modifier/Combat (6)
+6x Shadow Boxing
+
+Reaction (14)
+2x Cats' Guidance
+8x Second Tradition: Domain
+4x Warrens, The
+
+Combat (33)
+2x Disarm
+7x Flesh of Marble
+8x Immortal Grapple
+11x Roundhouse
+5x Taste of Vitae
+
+Event (1)
+1x Dragonbound

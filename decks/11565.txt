@@ -1,0 +1,70 @@
+Abomination 7
+Gap (PA), USA
+August 3rd 2024
+2R+F
+10 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/11565
+
+Deck Name: Fix the Problem at the Source (Safety-Net Version)
+Description: Arishat + Barons + Protected Resources
+
+Jan Bjørndalen and I were discussing how to make Arishat + Barons work in the current bleed-heavy meta.  I had previously tried a Protected Resource version of the deck, but thought it would be worthwhile since the last go.  I had previously cut the deck down to 66 cards from 73, so I had some room to alter this a bit.  Also thanks to Sérgio Martins for feedback and suggestions.
+
+Notes:
+No Arishat in the opening draw in round 2 or the finals.  Managed to find her in the finals.  Wider View needs to be added back to the deck.  Not sure why I dropped it.
+
+Recursion is still broken.  I don't win any of these games today without recycling cards via Garibaldi-Meucci Museum.
+
+Jacques Rouge's lack of PRE did hurt in the final, but his OBF made the deck much more efficient.  Probably good that there's no 6- or 7-cap Barons with OBF/PRE in this grouping.
+
+Crypt (13 cards, min=24, max=26, avg=6.15)
+------------------------------------------
+5x Arishat        6  DAI OBF PRE      1 vote  Baali:6
+2x Vivian VI      7  PRE PRO obf tha  baron   Follower of Set:6
+2x Atiena         6  CEL obf pot pre  baron   Brujah:6
+2x Elisha Tucker  6  PRE cel obf pro  baron   Follower of Set:6
+2x Jacques Rouge  6  OBF ani pot pre  baron   Nosferatu:6
+
+Library (67 cards)
+Master (14; 6 trifle)
+1x Coven, The
+1x Direct Intervention
+1x Ferraille
+1x Garibaldi-Meucci Museum -- recursion is still broken
+1x Giant's Blood
+1x Pentex(TM) Subversion
+3x Protected Resources
+5x Villein -- don't be afraid double-Villein your vampires
+
+Action (7)
+4x Condemnation: Mute -- all I needed today, but will show faster with another copy
+3x Unleash Hell's Fury
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Conservative Agitation -- nice change up vote, discard late
+1x Domain Challenge
+2x Eat the Rich -- so good in today's meta in the heads-up
+5x Kine Resources Contested
+4x Reckless Agitation
+
+Action Modifier (21)
+2x Bewitching Oration
+2x Cloak the Gathering
+2x Faceless Night
+5x Forgotten Labyrinth
+3x Lost in Crowds
+2x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (4)
+2x Bait and Switch
+2x On the Qui Vive
+
+Combat (4)
+4x Majesty

@@ -1,0 +1,67 @@
+Queensland State Championship 2024
+Brisbane, Australia
+September 7th 2024
+2R+F
+18 players
+Sonam Adinolf
+https://www.vekn.net/event-calendar/event/11620
+
+Deck Name: Dinosaurs against Anarchy
+Description: Petrodon sounds kind of like the name of a dinosaur. He has good disciplines. Let's see if he can beat the anarch meta.
+
+Crypt (12 cards, min=18, max=40, avg=7.5)
+-----------------------------------------
+5x Alonso Petrodon          10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
+2x Gustaphe Brunnelle        8  ANI DOM POT obf          primogen  Nosferatu:4
+1x Harold Tanner             6  POT ani dom obf                    Nosferatu:4
+1x Assad Salhoum             5  aus dem dom obf                    Malkavian:4
+1x Jeremy "Wix" Wyzchovsky   5  ani obf pot                        Nosferatu:4
+1x Robin Withers             4  dom obf pre                        Ventrue:4
+1x Slag                      4  ani obf pot                        Nosferatu:5
+
+Library (75 cards)
+Master (14; 2 trifle)
+1x Barrens, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Labyrinth, The
+1x Perfectionist
+1x Secret Library of Alexandria, The
+1x Warsaw Station
+2x Wider View
+2x Zillah's Valley
+
+Action (15)
+1x Blithe Acceptance
+1x Conceal
+7x Govern the Unaligned
+1x Liberty Club Intrigue
+2x Preternatural Strength
+1x Psychic Veil
+1x SchreckNET
+1x Shepherd's Innocence
+
+Ally (1)
+1x Underbridge Stray
+
+Political Action (2)
+2x Parity Shift
+
+Action Modifier (23)
+2x Cloak the Gathering
+5x Conditioning
+2x Elder Impersonation
+2x Enkil Cog
+3x Faceless Night
+4x Freak Drive
+3x Lost in Crowds
+2x Spying Mission
+
+Reaction (19)
+7x Deflection
+6x Obedience
+6x Second Tradition: Domain
+
+Event (1)
+1x Waiting Game

@@ -1,0 +1,70 @@
+German NC 2024
+Darmstadt-Arheilgen, Germany
+September 7th 2024
+3R+F
+32 players
+Alexander Tüschen
+https://www.vekn.net/event-calendar/event/11398
+
+-- 3GW9 + 2vp in final
+
+Deck Name: The Art of Sword Combat
+
+Crypt (12 cards, min=4, max=32, avg=4.92)
+-----------------------------------------
+4x Nuriel          8  AUS FOR VAL cel dom  Salubri antitribu:6
+4x Anarch Convert  1  -none-               Caitiff:ANY
+1x Michaela        7  AUS FOR PRE VAL      Salubri antitribu:5
+1x Ariel           6  AUS FOR VAL          Salubri antitribu:6
+1x Azrael          5  AUS VAL for          Salubri antitribu:6
+1x Silas           5  FOR aus dom val      Salubri antitribu:6
+
+Library (90 cards)
+Master (15; 5 trifle)
+2x Anarch Revolt
+1x Code of Samiel
+1x Dreams of the Sphinx
+1x Guardian Angel
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+1x Society of Leopold
+4x Villein
+1x Wider View
+
+Action (4)
+1x Constant Revolution
+3x Sense Death
+
+Equipment (10)
+7x Blade of Bellona
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Kevlar Vest
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (29)
+1x Eagle's Sight
+4x Enhanced Senses
+5x Eyes of Argus
+8x Guardian Vigil
+5x Hide the Heart
+1x My Enemy's Enemy
+4x On the Qui Vive
+1x Telepathic Misdirection
+
+Combat (30)
+1x Aura Reading
+4x Blessed Blade
+7x Concealed Weapon
+5x Death Seeker
+4x Hidden Strength
+1x Righteous Aura
+3x Soak
+3x Sword of the Righteous
+2x Taste of Vitae
+
+Event (1)
+1x NSA Trio

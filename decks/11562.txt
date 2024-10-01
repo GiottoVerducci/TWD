@@ -1,0 +1,62 @@
+The Vics, 2024
+Melbourne, Australia
+August 25th 2024
+3R+F
+13 players
+Pieres O'Shea
+https://www.vekn.net/event-calendar/event/11562
+
+Deck Name: The Cockroaches of VTES
+
+Crypt (12 cards, min=16, max=26, avg=5.42)
+------------------------------------------
+2x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+2x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Mickey Wheeler     5  ani cel for pro         Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Nathan Turner      4  PRO ani                 Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+
+Library (90 cards)
+Master (21; 7 trifle)
+1x Anarch Free Press, The
+2x Carfax Abbey
+1x Club Illusion
+2x Ecoterrorists
+2x Gangrel Revel
+2x Garibaldi-Meucci Museum
+4x Sudden Reversal
+5x Villein
+2x Wash
+
+Action (17)
+1x Army of Rats
+2x Rewilding
+2x Status Perfectus, The
+12x Thing
+
+Ally (1)
+1x Ossian
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (4)
+1x Mr. Winthrop
+3x Raven Spy
+
+Action Modifier (12)
+7x Earth Control
+5x Monkey Wrench
+
+Reaction (14)
+7x Bait and Switch
+7x Organized Resistance
+
+Combat (20)
+4x Donnybrook
+12x Earth Meld
+4x Form of Mist

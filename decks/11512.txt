@@ -1,0 +1,65 @@
+Norwegian NC 2024
+Moss, Norway
+August 10th 2024
+3R+F
+12 players
+Johnas Johansson
+https://www.vekn.net/event-calendar/event/11512
+
+-- 2GW8 + 3vp in final
+
+Deck Name: Breaking into the night
+
+Crypt (12 cards, min=13, max=28, avg=5.08)
+------------------------------------------
+2x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+2x Jean-François      4  ani obf pre      Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+1x Gathii             5  ANI PRE obf      Ravnos:7
+1x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+1x Roy                2  obf              Ravnos:7
+
+Library (86 cards)
+Master (18; 11 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+1x Club Illusion
+6x Dabbler
+1x Fortune Teller Shop
+1x Garibaldi-Meucci Museum
+1x Pentex(TM) Subversion
+5x Villein
+1x Week of Nightmares
+
+Action (18)
+16x Break the Bonds
+2x Entrancement
+
+Equipment (2)
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Action Modifier (28)
+6x Cloak the Gathering
+1x Elder Impersonation
+3x Faceless Night
+6x Lost in Crowds
+2x Monkey Wrench
+2x Spying Mission
+3x Veil the Legions
+5x Visions of Gehenna
+
+Reaction (13)
+2x Delaying Tactics
+4x Guard Dogs
+7x Visions of Zapathasura
+
+Combat (6)
+6x Majesty
+
+Event (1)
+1x Narrow Minds

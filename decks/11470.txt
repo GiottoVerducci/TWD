@@ -1,0 +1,76 @@
+Recruiting Party
+Gulfport (MS), USA
+August 23rd 2024
+2R+F
+20 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/11470
+
+-- 2GW8 + 2vp in final
+
+Deck Name: Y.A.F.T.P.D.
+Description: "Funda-Fist" revision.
+Credits: Antti Penttilä, Karl Schaefer and Kelly Schultz for discussion/review of previous versions.
+
+This combat module is largely prototypical, but adjusted for Hunger + maneuver + additional strike per rush/block card. I'll miss some blocks, get combats from bleeding and maybe have fights requiring added flexibility - so it's not real math. But whole thing is stupidly polyvalent.
+
+I don't re-adjust to any fixed ratio during play. Decisions are more about immediate effectiveness and looking forward 1-2 actions/reactions when possible.
+
+Crypt (12 cards, min=20, max=34, avg=6.67)
+------------------------------------------
+2x Kasim Bayar        9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Oluwafunmilayo     8  AUS CEL OBF THA      prince    Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf      prince    Assamite:6
+2x Kassandra Tassaki  6  CEL THA obf          prince    Assamite:6
+2x Warmaksan          5  THA cel obf          prince    Assamite:6
+1x Khadija Al-Kindi   6  CEL OBF THA          primogen  Assamite:6
+1x Greg Mazouni       4  cel obf tha                    Assamite:6
+
+-- Funmi really rounds out this crypt and usually feels like the star vampire.
+-- Wish I could get rid of Warmaksan, but any 5-cap prince is awfully good.
+
+Library (90 cards)
+Master (15; 8 trifle)
+2x Alamut -- defense before offense
+1x Direct Intervention
+1x Giant's Blood -- Better me than them
+3x Haqim's Law: Retribution -- Enough in this version
+2x Priority Contract -- Been the right number so far, 3 caused hand jam
+6x Villein -- This could increase to 7 and the deck might be better
+
+Action (5)
+5x Hunter's Mark
+
+Equipment (2)
+1x Bowl of Convergence -- half the crypt has [aus/AUS]
+1x Sport Bike
+
+-- Both work better than Market Square when playing 2nd Trad, if you can afford the equip action
+
+Political Action (5)
+4x Camarilla's Iron Fist -- incredible midgame potential, even if not realized this weekend
+1x Disputed Territory
+
+Action Modifier (3)
+3x Forgotten Labyrinth -- critical for Hunter's Mark with crypt's prevalent [obf] drawback
+
+Action Modifier/Combat (10)
+6x Resist Earth's Grasp
+4x Swallowed by the Night -- More [CEL] than [OBF] means more Resists
+
+Reaction (9)
+9x Second Tradition: Domain -- prototypical BH Prince card count
+
+Combat (39)
+3x Blur
+16x Hunger of Marduk
+2x Lightning Reflexes -- Just can't drop these, they always make a difference
+3x Psyche! -- just enough to make Form of Mist/Majesty think twice
+7x Pursuit
+3x Quickness -- I sometimes wonder about this card's errata and a deck might result
+3x Rego Motum
+2x Zip Gun -- love this wrinkle
+
+Event (2)
+1x NSA Trio -- I can't tell you how often this buys a turn without predation
+1x Scourge of the Enochians -- replaced Aranthebes when Iron Fist replaced Ancilla/Anarchist

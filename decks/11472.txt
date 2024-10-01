@@ -1,0 +1,67 @@
+War Party
+Gulfport (MS), USA
+August 25th 2024
+2R+F
+21 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/11472
+
+-- 2GW7 + 4vp in final
+
+Deck Name: Flakes
+Inspired by: Based on a deck Mehdi Mazni played in the 2018 NAC finals, which appears to have roots in decks from Malween Douchy (2009) and Pawel Kukielczynski (2010)
+Description: LiqTab Combat ally swarm, postnerf and V5 tuned.
+
+I've been running variants of this deck since seeing Mehdi run his during the 2018 NAC finals. I've made finals with them but hadn't won until this less combat-focused V5 version saw the light of day.
+
+Most recent changes are summarized inline below.
+
+Crypt (12 cards, min=13, max=22, avg=4.5)
+-----------------------------------------
+5x Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+2x Isanwayen          6  DOM MYT OBT      Kiasyd:4
+1x Janine             4  aus dom tha      Tremere antitribu:4
+1x Mosfair            4  cel dom tha      Tremere antitribu:4
+1x Ember Wright       3  aus dom          Tremere antitribu:3
+1x Keith Moody        3  DOM              Tremere antitribu:4
+1x Saiz               3  aus dom          Tremere antitribu:3
+
+-- Isanwayen is a "break glass in case of emergency" Parthenon + Deflection machine. Never showed in any round this time.
+
+Library (70 cards)
+Master (30; 1 trifle)
+9x Ashur Tablets -- dropped to 9 copies post nerf, plan for 2 sets.
+1x Bleeding the Vine -- why should anyone else complete the Tablets?
+1x Creepshow Casino -- marginal hard-recruit tool, unknown value.
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Frontal Assault -- simply huge in this build, won game 2.
+2x Haven Uncovered -- also important in games 2, 3 and 4.
+1x Jake Washington
+4x Liquidation
+4x Parthenon, The
+2x Shard, London, The -- terrible interpretation IMO, but play as ruled.
+1x Villein -- marginal, should probably be Wider View
+
+-- I used to run an Information Highway to dribble pool onto vampires while still crapping out Nephandi.  Probably should replace the Creepshow Casino.
+
+Ally (10)
+1x Carlton Van Wyk
+9x Nephandus
+
+Equipment (1)
+1x Heart of Nizchetus -- I never took time to get this, but I think it is important?
+
+Action Modifier (4)
+4x Mirror Walk -- I didn't used to play these, but the no-combat clause opens options.
+
+Reaction (14)
+8x Deflection -- increased for the current meta
+2x Delaying Tactics -- crucial in the finals
+4x On the Qui Vive
+
+Combat (8)
+8x Target Vitals -- Trap isn't V5 meta, this is the combat pump. Doesn't feel excessive.
+
+Event (3)
+3x Unmasking, The -- yeah, this does a thing and still deserves a nerf

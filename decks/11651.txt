@@ -1,0 +1,76 @@
+30th Anniversary Awakening
+Online
+August 25th 2024
+2R+F
+27 players
+Lauri Salmi
+https://www.vekn.net/event-calendar/event/11651
+
+-- 4VP in final
+
+Deck Name: New British Manse
+
+Crypt (12 cards, min=19, max=31, avg=6.25)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (84 cards)
+Master (22; 4 trifle)
+1x Anarch Railroad
+6x Ashur Tablets
+5x British Museum, London, The
+1x Carfax Abbey
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+3x Villein
+1x Wider View
+
+Action (8)
+8x Govern the Unaligned
+
+Equipment (13)
+1x Blood Tears of Kephran
+1x Cooler
+1x Flak Jacket
+2x Heart of Nizchetus
+1x Kevlar Vest
+6x Living Manse
+1x Palatial Estate
+
+Political Action (2)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+
+Action Modifier (5)
+4x Earth Control
+1x Seduction
+
+Action Modifier/Combat (3)
+2x Obedient Flesh
+1x Rapid Change
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (16)
+5x Bait and Switch
+2x Deep Ecology
+5x Deflection
+4x Organized Resistance
+
+Combat (9)
+4x Earth Meld
+5x Form of Mist
+
+Event (2)
+1x NRA PAC
+1x Scourge of the Enochians

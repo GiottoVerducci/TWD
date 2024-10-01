@@ -9,21 +9,19 @@ https://www.vekn.net/event-calendar/event/11480
 Deck Name: Lutz vote
 Author: Teemu Sainomaa and tweaked with Michael Holmstrom
 
-Crypt (12 cards, min=34 max=44 avg=9.83)
-========================================
-3x Lutz von Hohenzollern   11 AUS DEM OBF PRE pot       inner circle   Malkavian:4
-1x Adana de Sforza         11 CEL OBF POT PRE PRO aus   inner circle   Brujah:4
-1x Rafael de Corazon       11 AUS CEL DOM OBF PRE       inner circle   Toreador:4
-1x Armin Brenner           10 CEL FOR POT PRE ani obf   archbishop     Brujah antitribu:4
-1x Unmada                  10 AUS DEM OBF VIC cel for   justicar       Malkavian:5
-3x Undele                   9 CEL FOR obf pre ser       magaji         Ishtarri:5
-1x Dmitra Ilyanova          9 CEL FOR POT PRE obf       justicar       Brujah:5
-1x Stavros                  7 AUS OBF PRE dem           priscus        Malkavian antitribu:4
+Crypt (12 cards, min=34, max=44, avg=9.83)
+------------------------------------------
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+3x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
+1x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Armin Brenner          10  CEL FOR POT PRE ani obf  archbishop    Brujah antitribu:4
+1x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
+1x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+1x Stavros                 7  AUS OBF PRE dem          priscus       Malkavian antitribu:4
 
 Library (76 cards)
-==================
 Master (37; 2 trifle)
-----------------------
 9x Ashur Tablets
 1x Coven, The
 1x Creepshow Casino
@@ -39,11 +37,9 @@ Master (37; 2 trifle)
 6x Zillah's Valley
 
 Action (1)
------------
 1x Entrancement
 
 Political Action (15)
-----------------------
 1x Anarchist Uprising
 1x Ancient Influence
 1x Ancilla Empowerment
@@ -56,7 +52,6 @@ Political Action (15)
 1x Rumors of Gehenna
 
 Action Modifier (21)
----------------------
 2x Approximation of Loyalty
 1x Awe
 1x Bewitching Oration
@@ -67,6 +62,4 @@ Action Modifier (21)
 6x Voter Captivation
 
 Action Modifier/Combat (2)
----------------------------
 2x Force of Personality
-

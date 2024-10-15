@@ -7,10 +7,9 @@ Jan-Willem Kaagman
 https://www.vekn.net/event-calendar/event/11458
 
 Deck Name: Vozhd on a Hawg
-Description: Tournament "What we do in the Maximus"   2R+F  - 20 players
-
-https://www.vekn.net/event-calendar/event/11458
-Maximus Brewery, Utrecht, Netherlands
+Created by: Jan-Willem Kaagman 
+Description:  The deck is based on the standard 2024 Tzimisce deck. I didn't understand why the "Childe of the revolution" was in the standard V5 deck, so I took them out. The goal was to get either a Vozhd or a War ghoul on a Hawg. 
+Unexpected key card: Owl Companions, with which I was able to guess if I could safely block actions and either avoid getting aggrevated damage (Form of Mist) or dealing aggravated (Sculpt the Flesh)
 
 Crypt (12 cards, min=18 max=29 avg=5.83)
 ========================================

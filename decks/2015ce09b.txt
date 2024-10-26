@@ -33,7 +33,7 @@ Master (12; 3 trifle)
 Action (10)
 8x Govern the Unaligned
 1x Graverobbing
-1x Mind Rape
+1x Puppet Master
 
 Retainer (1)
 1x Homunculus

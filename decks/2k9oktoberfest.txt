@@ -60,8 +60,8 @@ Action (21)
 3x Enchant Kindred
 1x Entrancement
 2x Media Influence
-1x Mind Rape
 10x Public Trust
+1x Puppet Master
 
 Action Modifier (10)
 2x Aire of Elation

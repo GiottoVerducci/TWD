@@ -34,7 +34,7 @@ Master (22; 5 trifle)
 Action (11)
 1x Entrancement
 2x Govern the Unaligned
-8x Mind Rape
+8x Puppet Master
 
 Equipment (1)
 1x Heart of Nizchetus

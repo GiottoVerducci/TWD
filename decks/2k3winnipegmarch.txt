@@ -30,7 +30,7 @@ Action (18)
 6x Baltimore Purge
 7x Govern the Unaligned
 4x Graverobbing
-1x Mind Rape
+1x Puppet Master
 
 Action Modifier (33)
 3x Blanket of Night

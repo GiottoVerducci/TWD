@@ -34,8 +34,8 @@ Action (22)
 4x Enchant Kindred
 1x Entrancement
 8x Govern the Unaligned
-6x Mind Rape
 1x Propaganda
+6x Puppet Master
 2x Scouting Mission
 
 Political Action (5)

@@ -37,7 +37,7 @@ Master (21; 6 trifle)
 Action (15)
 4x Abactor
 4x Govern the Unaligned
-7x Mind Rape
+7x Puppet Master
 
 Equipment (1)
 1x Heart of Nizchetus

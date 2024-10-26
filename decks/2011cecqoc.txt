@@ -35,7 +35,7 @@ Master (17; 3 trifle)
 Action (5)
 1x Dominate Kine
 3x Govern the Unaligned
-1x Mind Rape
+1x Puppet Master
 
 Political Action (13)
 1x Ancient Influence

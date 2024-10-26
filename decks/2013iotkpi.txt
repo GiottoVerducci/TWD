@@ -31,7 +31,7 @@ Action (27)
 5x Chameleon
 6x Derange
 8x Govern the Unaligned
-4x Mind Rape
+4x Puppet Master
 
 Equipment (6)
 5x Heart of Nizchetus

@@ -35,7 +35,7 @@ Action (13)
 1x Dominate Kine
 1x Far Mastery
 5x Govern the Unaligned
-1x Mind Rape
+1x Puppet Master
 5x Scouting Mission
 
 Ally (1)

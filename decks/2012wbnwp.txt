@@ -41,8 +41,8 @@ Action (17)
 1x Far Mastery
 3x Govern the Unaligned
 6x Magic of the Smith
-1x Mind Rape
 1x Pulse of the Canaille
+1x Puppet Master
 1x Revelations
 1x Scouting Mission
 

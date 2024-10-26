@@ -37,10 +37,10 @@ Master (19; 7 trifle)
 Action (10)
 1x Entrancement
 1x Heart of the City
-1x Mind Rape
 1x Precognizant Mobility
 1x Propaganda
 1x Pulse of the Canaille
+1x Puppet Master
 3x Revelations
 1x Trainer
 

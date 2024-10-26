@@ -36,7 +36,7 @@ Master (18; 7 trifle)
 Action (4)
 1x Dominate Kine
 2x Govern the Unaligned
-1x Mind Rape
+1x Puppet Master
 
 Ally (1)
 1x Ponticulus

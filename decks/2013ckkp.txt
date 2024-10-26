@@ -38,7 +38,7 @@ Action (13)
 2x Abactor
 1x Army of Rats
 4x Govern the Unaligned
-6x Mind Rape
+6x Puppet Master
 
 Equipment (1)
 1x Heart of Nizchetus

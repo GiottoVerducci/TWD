@@ -43,7 +43,7 @@ Action (16)
 1x Dominate Kine
 1x Far Mastery
 12x Govern the Unaligned
-2x Mind Rape
+2x Puppet Master
 
 Equipment (1)
 1x Heart of Nizchetus

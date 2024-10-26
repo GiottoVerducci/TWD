@@ -60,7 +60,7 @@ Action (16)
 4x Baltimore Purge
 6x Govern the Unaligned
 2x Graverobbing
-4x Mind Rape
+4x Puppet Master
 
 Political Action (4)
 1x Ancient Influence

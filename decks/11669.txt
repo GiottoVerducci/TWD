@@ -1,0 +1,52 @@
+EC 2024 - Day 2
+Warsaw, Poland
+September 29th 2024
+3R+F
+75 players
+Danilo Torrisi
+https://www.vekn.net/event-calendar/event/11669
+
+Deck Name: Politico Malkarishat ASHUR
+
+Crypt (12 cards, min=24, max=36, avg=7.42)
+------------------------------------------
+4x Juliet Parr          9  AUS DOM OBF cel pot  justicar  Malkavian:7
+4x Arishat              6  DAI OBF PRE          1 vote    Baali:6
+2x Alexander Silverson  8  AUS DOM OBF pre      prince    Malkavian:6
+1x Gilbert Duane        7  AUS DOM OBF          baron     Malkavian:6
+1x Andi Liu             6  DOM aus obf pre      prince    Malkavian:6
+
+Library (78 cards)
+Master (16; 5 trifle)
+6x Ashur Tablets
+1x Asylum Hunting Ground
+1x Coven, The
+2x Dreams of the Sphinx
+2x Information Highway
+2x Villein
+2x Wider View
+
+Action (14)
+4x Condemnation: Mute
+8x Govern the Unaligned
+2x Unleash Hell's Fury
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+6x Kine Resources Contested
+2x My Kin Against the World
+6x Parity Shift
+
+Action Modifier (16)
+2x Elder Impersonation
+7x Forgotten Labyrinth
+7x Lost in Crowds
+
+Reaction (14)
+8x Deflection
+6x Obedience

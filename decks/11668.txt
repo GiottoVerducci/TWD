@@ -1,0 +1,61 @@
+EC 2024 - Day 1
+Warsaw, Poland
+September 28th 2024
+3R+F
+168 players
+Simone Parmeggiani
+https://www.vekn.net/event-calendar/event/11668
+
+Deck Name: The queen of æmilia
+Description: the name of the deck comes from the traveler's queen buried in my hometown (Spilamberto), also home of our game community.
+
+Crypt (12 cards, min=16, max=28, avg=5.5)
+-----------------------------------------
+2x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+2x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+2x Gathii             5  ANI PRE obf      Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+Library (90 cards)
+Master (17; 6 trifle)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Club Illusion
+4x Dabbler
+1x Direct Intervention
+1x Dreams of the Sphinx
+3x Effective Management
+1x Fortune Teller Shop
+2x Wash
+2x Week of Nightmares
+
+Action (23)
+16x Break the Bonds
+3x Field Training
+4x Public Trust
+
+Equipment (1)
+1x Shilmulo Tarot
+
+Action Modifier (41)
+4x Elder Impersonation
+3x Faceless Night
+3x Lost in Crowds
+10x Memory Rift
+4x Power of One
+4x Spying Mission
+2x True Love's Face
+3x Veil the Legions
+8x Visions of Gehenna
+
+Reaction (7)
+2x Delaying Tactics
+5x Visions of Zapathasura
+
+Event (1)
+1x Narrow Minds

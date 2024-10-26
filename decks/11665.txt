@@ -1,0 +1,66 @@
+Week of Nightmares 2024 - Day 3
+Warsaw, Poland
+September 26th 2024
+2R+F
+48 players
+Tero Aalto
+https://www.vekn.net/forum/event-reports-and-twd/81832-twd-week-of-nightmares-2024-day-3-warsaw-poland-26-sep-2024
+https://www.vekn.net/event-calendar/event/11665
+
+-- 2GW7.5 + 0.5 in the final
+
+Deck Name: Radical Leftist
+Description: Considering that this team of small incompetent Stanislavas is my freshest new TWD entry since the first unnamed win back in 2019, it was beyond high time to turn a new page. The deck is atypical to me in several ways, including not having a star vampire, nor any 10/11-caps. Then again, there are familiar traits, too, such as great combat defense and lunge potential. 5/5 would play again.
+
+Crypt (12 cards, min=20, max=31, avg=6.42)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Kamile Paukstys  5  PRO ani for             Gangrel:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Kuyén            6  ANI PRO          baron  Gangrel:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+
+Library (77 cards)
+Master (14; 4 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Library Hunting Ground
+1x Papillon
+4x Villein
+
+Action (10)
+10x Govern the Unaligned
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (2)
+2x Eat the Rich
+
+Action Modifier (7)
+3x Conditioning
+4x Earth Control
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (21)
+5x Bait and Switch
+3x Deep Ecology
+3x Deflection
+2x On the Qui Vive
+8x Organized Resistance
+
+Combat (16)
+2x Donnybrook
+7x Earth Meld
+7x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians

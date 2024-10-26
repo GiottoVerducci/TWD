@@ -1,0 +1,49 @@
+Entombment
+Lisboa, Portugal
+January 20th 2024
+3R+F
+13 players
+Eduardo Manuel Mateus
+https://www.vekn.net/event-calendar/event/11212
+
+Crypt (12 cards, min=4, max=28, avg=3.17)
+-----------------------------------------
+4x Reiner Stoschka              7  AUS DEM THA obf  Malkavian:5
+1x Alu                          2  obf              Assamite:5
+1x Cassandra Langely, The Waif  2  dem              Malkavian:4
+1x Anarch Convert               1  -none-           Caitiff:ANY
+1x Andy                         1  for              Caitiff:4
+1x Basir                        1  qui              Assamite:4
+1x César Holfield               1  obf              Caitiff:4
+1x Donald Cargill               1  aus              Caitiff:5
+1x Iris Bennett                 1  pro              Caitiff:5
+
+Library (90 cards)
+Master (24; 1 trifle)
+1x Archon Investigation
+1x Coven, The
+12x Dementation
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+4x Obfuscate
+1x Pentex(TM) Subversion
+
+Action (25)
+3x Becoming, The
+4x Dive into Madness
+18x Kindred Spirits
+
+Action Modifier (33)
+6x Cloak the Gathering
+13x Confusion
+6x Eyes of Chaos
+2x Mind Tricks
+6x Veil the Legions
+
+Action Modifier/Combat (6)
+6x Deny
+
+Event (2)
+1x Narrow Minds
+1x Port Authority

@@ -1,0 +1,70 @@
+VtES European "Last Chance" Qualifier 2024
+Warsaw, Poland
+September 27th 2024
+3R+F
+153 players
+Marius Iscru
+https://www.vekn.net/event-calendar/event/11667
+
+Deck name: Sunshine Dogs
+Crypt (12 cards, min=15, max=25, avg=5.33)
+------------------------------------------
+3x Kuyén                  6  ANI PRO          baron  Gangrel:6
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Joseph Fischer         3  PRO                     Gangrel antitribu:5
+
+Library (80 cards)
+Master (20; 6 trifle)
+1x Anarch Free Press, The
+1x Carfax Abbey
+2x Club Illusion
+2x Direct Intervention
+1x Ecoterrorists
+1x Erciyes Fragments, The
+1x Garibaldi-Meucci Museum
+1x Life Boon
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Vessel
+3x Villein
+1x Wider View
+1x Zoo Hunting Ground
+
+Action (7)
+1x Constant Revolution
+1x Rewilding
+5x Thing
+
+Equipment (4)
+2x Heart of Nizchetus
+2x Sniper Rifle
+
+Political Action (1)
+1x Reckless Agitation
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier (1)
+1x Monkey Wrench
+
+Action Modifier/Reaction (5)
+5x Form of the Bat
+
+Reaction (23)
+5x Bait and Switch
+5x Deep Ecology
+2x Eyes of the Wild
+9x Organized Resistance
+2x Protection Racket
+
+Combat (15)
+11x Earth Meld
+4x Form of Mist

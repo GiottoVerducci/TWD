@@ -1,0 +1,55 @@
+Fee Stake: Tampere - Undue Influence
+Tampere, Finland
+August 31st 2024
+3R+F
+21 players
+Jukka-Pekka Vainiola
+https://www.vekn.net/event-calendar/event/11574
+
+Deck name: Dominate weenie & "Stealth"
+Description: Small cap Dom Tremere Antitribus and Tupdogs
+
+Crypt (27 cards, min=4, max=18, avg=1.74)
+-----------------------------------------
+20x Tupdog        1  POT VIS          Gargoyle:3
+2x  Keith Moody   3  DOM              Tremere antitribu:4
+1x  Selena        6  AUS DOM THA      Tremere antitribu:3
+1x  Esoara        5  DOM aus for pot  Tremere antitribu:4
+1x  Janine        4  aus dom tha      Tremere antitribu:4
+1x  Ember Wright  3  aus dom          Tremere antitribu:3
+1x  Saiz          3  aus dom          Tremere antitribu:3
+
+Library (90 cards)
+Master (14; 4 trifle)
+1x Direct Intervention
+1x Dominate
+2x Dreams of the Sphinx
+2x Effective Management
+2x Fame
+1x Information Highway
+2x Life in the City
+2x Wider View
+1x Yawp Court
+
+Action (13)
+5x Govern the Unaligned
+2x Graverobbing
+6x Scouting Mission
+
+Action Modifier (11)
+2x Conditioning
+1x Foreshadowing Destruction
+4x Threats
+4x Unleash the Hounds
+
+Reaction (18)
+6x Deflection
+2x Delaying Tactics
+5x On the Qui Vive
+5x Voices of the Castle
+
+Combat (34)
+8x Brick by Brick
+10x Immortal Grapple
+8x Raking Talons
+8x Torn Signpost

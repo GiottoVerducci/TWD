@@ -1,0 +1,53 @@
+Fee Stake Warsaw #18
+Warsaw, Poland
+June 8th 2024
+3R+F
+10 players
+Michał Sokołowski
+Organizer/judge: Maciej Broniarz
+https://www.vekn.net/event-calendar/event/11475
+
+Deck Name: Flurry of Haqim
+Crypt (12 cards, min=19, max=30, avg=6.08)
+------------------------------------------
+2x Oluwafunmilayo     8  AUS CEL OBF THA  prince    Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf  prince    Assamite:6
+2x Kassandra Tassaki  6  CEL THA obf      prince    Assamite:6
+2x Khadija Al-Kindi   6  CEL OBF THA      primogen  Assamite:6
+1x Kalinda            6  CEL OBF tha      primogen  Assamite:6
+1x Warmaksan          5  THA cel obf      prince    Assamite:6
+1x Arjun Shah         4  THA obf                    Assamite:6
+1x Greg Mazouni       4  cel obf tha                Assamite:6
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Dreams of the Sphinx
+8x Haqim's Law: Retribution
+1x Khabar: Community, The
+1x Market Square
+1x Pentex(TM) Subversion
+1x Priority Contract
+5x Villein
+
+Action (16)
+4x Flurry of Action
+4x Fourth Tradition: The Accounting
+7x Hunter's Mark
+1x Khabar: Glory
+
+Action Modifier/Combat (14)
+6x Resist Earth's Grasp
+8x Swallowed by the Night
+
+Reaction (9)
+9x Second Tradition: Domain
+
+Combat (32)
+6x Blur
+14x Hunger of Marduk
+8x Pursuit
+2x Rego Motum
+2x Soul Burn
+
+Event (1)
+1x Narrow Minds

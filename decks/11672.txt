@@ -1,0 +1,96 @@
+Gulf Coast Roast Grand Prix 2024 - New Orleans - Leg 4
+New Orleans, Louisiana, USA
+October 12th 2024
+3R+F
+18 players
+Kelly Lyons
+https://www.vekn.net/event-calendar/event/11672
+
+-- 1GW+2.5VP + 4 VP in final
+
+Deck Name: Water Dog - Flower Power
+Author: Kelly Lyons and Randal Rudstam
+Description: This is the same deck I ran in Mississippi and got to the Final Table. I did make a few modifications from that deck to suit the current meta I was seeing (https://www.youtube.com/watch?v=fJH0aesheQU for the original deck)
+
+Here are the modifications:
+
+Dropped the following MASTERS:
+1 X Anarch Troublemaker
+1 X Camarilla Conclave
+1 X Dreams of the Sphinx
+1 X Elysium: The Palace of Versailles
+
+Added the following MASTERS:
+3 X Protected Resources
+1 X Secret Passage
+2 X Secure Haven
+
+Dropped the following POLITICAL ACTIONS:
+1 X Anarchist Uprising
+1 X Ancilla Empowerment
+
+Added the following POLITICAL ACTIONS:
+7 X Camarilla's Iron Fist
+3 X Kine Resources Contested
+
+Crypt (12 cards, min=16, max=34, avg=6.33)
+------------------------------------------
+2x Diana Iadanza     9  AUS CEL FOR PRE  justicar  Toreador:7
+2x Catalina Vega     8  AUS CEL PRE for  prince    Toreador:6
+2x Flávio Gonçalves  7  CEL PRE aus for  prince    Toreador:6
+2x Mkhokheli         6  PRE aus cel for  prince    Toreador:6
+1x Maila             6  AUS PRE cel      primogen  Toreador:6
+1x Victoria Ash      6  PRE aus cel dom            Toreador:7
+1x Kazuki Hanabira   2  aus                        Toreador:7
+1x Mateo García      2  pre                        Toreador:6
+
+Library (90 cards)
+Master (20; 4 trifle)
+1x Art Museum
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Protected Resources
+1x Secret Passage
+2x Secure Haven
+6x Toreador Grand Ball
+3x Villein
+1x Wider View
+
+Action (8)
+2x Embrace, The
+2x Entrancement
+2x Heart of the City
+2x Third Tradition: Progeny
+
+Political Action (15)
+2x Banishment
+7x Camarilla's Iron Fist
+3x Kine Resources Contested
+3x Parity Shift
+
+Action Modifier (25)
+2x Aire of Elation
+4x Awe
+2x Bewitching Oration
+4x Forced March
+3x Freak Drive
+2x Loup
+2x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (10)
+2x Eyes of Argus
+2x On the Qui Vive
+2x Second Tradition: Domain
+4x Telepathic Misdirection
+
+Combat (8)
+2x Charismatic Aura
+4x Majesty
+2x Torrent

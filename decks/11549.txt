@@ -1,0 +1,67 @@
+Powerbase: Liverpool
+Liverpool, United Kingdom
+September 28th 2024
+3R+F
+10 players
+Warren Clarke
+https://www.vekn.net/event-calendar/event/11549
+
+-- 1GW4 + 1.5VP in final
+
+Deck name:  Yes, Minister
+Description: Ministry Stealth Bleed
+
+Crypt (12 cards, min=17, max=30, avg=5.92)
+------------------------------------------
+3x Vivian VI             7  PRE PRO obf tha      baron  Follower of Set:6
+1x Nonu Dis              8  OBF PRE PRO for             Follower of Set:6
+1x Sergio Bueno          8  OBF PRE PRO aus pot  baron  Follower of Set:6
+1x Crystal Lynn          6  OBF PRE PRO                 Follower of Set:6
+1x Elisha Tucker         6  PRE cel obf pro      baron  Follower of Set:6
+1x Aluc Romas de Leon    5  PRE aus obf pro             Follower of Set:6
+1x Doctor Morocco        5  PRO cel obf pre             Follower of Set:6
+1x Jenny Silver          5  PRE PRO obf                 Follower of Set:6
+1x Marcel                4  obf pre pro                 Follower of Set:6
+1x "Coach" Tyrone Soros  3  obf pre                     Follower of Set:6
+
+Library (90 cards)
+Master (14; 8 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Club Illusion
+4x Dabbler
+1x Garibaldi-Meucci Museum
+1x Opium Den
+1x Sudden Reversal
+4x Villein
+
+Action (17)
+17x Platinum Protocol, The
+
+Ally (1)
+1x Saatet-ta
+
+Action Modifier (21)
+2x Earth Control
+4x Enchanting Gaze
+2x Faceless Night
+4x Memory Rift
+9x Revelation of the Serpent
+
+Action Modifier/Combat (4)
+2x Form of the Cobra
+2x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (15)
+5x Bait and Switch
+3x On the Qui Vive
+5x Organized Resistance
+2x Party Out Of Bounds
+
+Combat (14)
+4x Donnybrook
+4x Earth Meld
+6x Form of Mist

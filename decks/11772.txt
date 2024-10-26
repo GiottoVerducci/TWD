@@ -1,0 +1,58 @@
+Marked Territory
+Castelnuovo di Garfagnana, Italy
+October 13th 2024
+2R+F
+13 players
+Alessandro Donati
+https://www.vekn.net/event-calendar/event/11772
+
+Deck Name: Nosferatu New Royalty
+Description: Pure Camarilla OBF vote deck
+
+Crypt (12 cards, min=22, max=40, avg=7.5)
+-----------------------------------------
+4x Alonso Petrodon     10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
+2x Benjamin Rose        7  AUS OBF ani pot          prince    Nosferatu:5
+2x Nikolaus Vermeulen   7  ANI POT for obf          prince    Nosferatu:6
+2x Belinde              6  OBF ani aus pot          prince    Nosferatu:6
+2x Warmaksan            5  THA cel obf              prince    Assamite:6
+
+Library (65 cards)
+Master (18; 1 trifle)
+1x Camarilla Conclave
+1x Creepshow Casino
+1x Direct Intervention
+1x Elysium: The Palace of Versailles
+6x Grooming the Protégé
+1x Labyrinth, The
+3x Protected Resources
+3x Warsaw Station
+1x Wider View
+
+Action (11)
+3x Fifth Tradition: Hospitality
+6x Fourth Tradition: The Accounting
+1x Judgment: Camarilla Segregation
+1x SchreckNET
+
+Equipment (3)
+3x Heart of Nizchetus
+
+Political Action (14)
+1x Banishment
+3x Camarilla's Iron Fist
+2x Kine Resources Contested
+1x Neonate Breach
+6x Parity Shift
+1x Reinforcements
+
+Action Modifier (14)
+1x Closed Session
+1x Cryptic Rider
+2x Elder Impersonation
+5x Forgotten Labyrinth
+5x Lost in Crowds
+
+Combat (5)
+1x Gemini's Mirror
+4x No Trace

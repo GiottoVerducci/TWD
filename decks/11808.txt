@@ -1,0 +1,73 @@
+Blood Siege: Zagreb
+Zagreb, Croatia
+November 9th 2024
+3R+F
+14 players
+Roko Veić-Sukreški
+https://www.vekn.net/event-calendar/event/11808
+
+-- 2GW7 + 4VP final
+
+Name: Abraham bleed
+Description: A "smart" but straightforward bleed deck. The main motivation for choosing this deck was to depend as little as possible on other decks/players in the current meta. The MVPs were the allies, blocking rushes and diablerie.
+The finale had protean princes wall > Abraham bleed > Leandro might of the camarilla + possession > Juliet Parr politics + bleed > Demdemeh allies swarm, and the road to 4 VPs was mostly patience and steady play.
+
+Crypt (12 cards, min=19, max=31, avg=6.33)
+------------------------------------------
+3x Abraham Mellon        8  AUS DOM OBF for tha            Malkavian:6
+2x Jason "Son" Newberry  7  AUS DOM OBF pre      primogen  Malkavian:6
+1x Gilbert Duane         7  AUS DOM OBF          baron     Malkavian:6
+1x Andi Liu              6  DOM aus obf pre      prince    Malkavian:6
+1x Darius Shirazi        6  AUS DOM obf                    Malkavian:5
+1x Gelasia Fotiou        6  AUS DOM obf pre                Malkavian:6
+1x Colette               5  AUS OBF dom                    Malkavian:6
+1x Evan Klein            5  OBF aus dom pre                Malkavian:6
+1x Ashley                3  dom obf                        Malkavian:6
+
+Library (90 cards)
+Master (16; 4 trifle)
+1x Anarch Troublemaker
+1x Asylum Hunting Ground
+1x Barrens, The
+1x Coven, The
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Sudden Reversal
+3x Villein
+
+Action (17)
+14x Govern the Unaligned
+3x Revelations
+
+Ally (2)
+1x Muddled Vampire Hunter
+1x Ponticulus
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (34)
+4x Bonding
+3x Cloak the Gathering
+4x Conditioning
+3x Elder Impersonation
+4x Faceless Night
+2x Foreshadowing Destruction
+8x Lost in Crowds
+2x Seduction
+4x Spying Mission
+
+Action Modifier/Combat (4)
+2x Hide the Mind
+2x Swallowed by the Night
+
+Reaction (12)
+8x Deflection
+4x On the Qui Vive
+
+Combat (4)
+4x No Trace

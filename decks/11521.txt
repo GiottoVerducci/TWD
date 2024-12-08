@@ -1,0 +1,51 @@
+English NC 2024
+Leeds, United Kingdom
+November 9th 2024
+3R+F
+26 players
+Tomasz Kloczko
+https://www.vekn.net/event-calendar/event/11521
+
+Deck Name: Nephandus 2024
+Author: Tomasz Kloczko (based on Tomasz Pietkiewicz & Pawel Kukielczynski deck from the past)
+
+Crypt (12 cards, min=6, max=20, avg=3.5)
+----------------------------------------
+6x Antonio d'Erlette  5  THA dom for pot  Tremere antitribu:4
+3x Tupdog             1  POT VIS          Gargoyle:3
+1x Ember Wright       3  aus dom          Tremere antitribu:3
+1x Keith Moody        3  DOM              Tremere antitribu:4
+1x Saiz               3  aus dom          Tremere antitribu:3
+
+Library (70 cards)
+Master (30)
+1x Archon Investigation
+9x Ashur Tablets
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Frontal Assault
+2x Haven Uncovered
+1x Jake Washington
+4x Liquidation
+4x Parthenon, The
+2x Secure Haven
+2x Shard, London, The
+
+Ally (11)
+1x Carlton Van Wyk
+10x Nephandus
+
+Action Modifier (4)
+4x Mirror Walk
+
+Reaction (13)
+7x Deflection
+2x Delaying Tactics
+4x On the Qui Vive
+
+Combat (8)
+8x Target Vitals
+
+Event (4)
+1x FBI Special Affairs Division
+3x Unmasking, The

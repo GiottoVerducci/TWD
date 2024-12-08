@@ -1,0 +1,73 @@
+Torneio alagoano de VTES 2023
+Maceió, Brazil
+December 9th 2023
+3R+F
+10 players
+Rivanildon Frazão
+https://www.vekn.net/event-calendar/event/11056
+
+Deck Name: New Carthage
+
+Crypt (12 cards, min=24, max=34, avg=7.17)
+------------------------------------------
+2x Dmitra Ilyanova     9  CEL FOR POT PRE obf  justicar  Brujah:5
+2x Carlak              8  CEL PRE dom pot      prince    Brujah:5
+2x Karen Suadela       7  CEL POT obf pre      prince    Brujah:5
+2x Tara                6  POT PRE cel          prince    Brujah:5
+1x Aline Gädeke        7  POT PRE cel          baron     Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron     Brujah:6
+1x Atiena              6  CEL obf pot pre      baron     Brujah:6
+1x Leumeah             6  PRE cel for pot      baron     Brujah:6
+
+Library (90 cards)
+Master (14; 4 trifle)
+1x Archon Investigation
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+3x New Carthage
+1x Papillon
+1x Presence
+2x Vessel
+2x Villein
+1x Warzone Hunting Ground
+
+Action (14)
+4x Enchant Kindred
+2x Entrancement
+4x Flurry of Action
+2x Propaganda
+2x Public Trust
+
+Political Action (14)
+1x Ancilla Empowerment
+1x Banishment
+1x Consanguineous Boon
+1x Disputed Territory
+4x Kine Resources Contested
+1x Neonate Breach
+4x Parity Shift
+1x Reins of Power
+
+Action Modifier (22)
+2x Awe
+2x Bewitching Oration
+2x Forgotten Labyrinth
+8x Iron Glare
+2x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Combat (8)
+2x Force of Personality
+6x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (8)
+2x Bait and Switch
+6x Second Tradition: Domain
+
+Combat (8)
+4x Majesty
+2x Sideslip
+2x Torrent

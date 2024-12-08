@@ -1,0 +1,83 @@
+Hurry up!
+Vác, Hungary
+November 10th 2024
+2R+F
+10 players
+David Kmotricza
+https://www.vekn.net/event-calendar/event/11855
+
+-- 3VP in final
+
+Deck Name: Brujah Antitribu Hektor
+Author: László Róbert
+
+Crypt (12 cards, min=28, max=38, avg=8.5)
+-----------------------------------------
+4x Hektor           9  CEL POT PRE QUI for      priscus     Brujah antitribu:4
+2x Armin Brenner   10  CEL FOR POT PRE ani obf  archbishop  Brujah antitribu:4
+2x Dark Selina      9  CEL POT PRE dom for      cardinal    Brujah antitribu:5
+1x Jacques Molay    9  CEL POT PRE obf val                  Brujah antitribu:4
+1x DeSalle          7  CEL POT PRE                          Brujah antitribu:4
+1x Gold Pan Dan     6  POT PRE cel                          Brujah antitribu:5
+1x Shawnda Dorrit   6  CEL obt pot pre          priscus     Brujah antitribu:4
+
+Library (90 cards)
+Master (21; 9 trifle)
+1x Amusement Park Hunting Ground
+1x Archon Investigation
+1x Black Forest Base
+1x Depravity
+1x Fame
+1x Gang Territory
+1x Giant's Blood
+1x Monastery of Shadows
+1x Monster
+1x Retribution
+1x Tension in the Ranks
+2x Vessel
+6x Villein
+1x Wider View
+1x Yawp Court
+
+Action (21)
+1x Abbot
+1x Aranthebes, The Immortal
+2x Bum's Rush
+2x Enchant Kindred
+1x Entrancement
+5x Esprit de Corps
+1x Eternal Vigilance
+5x Show of Force
+3x Under Siege
+
+Political Action (9)
+1x Anarchist Uprising
+1x Ancient Influence
+5x Dogs of War
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (8)
+3x Forced March
+2x Freak Drive
+3x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Unexpected Coalition
+
+Reaction (1)
+1x Vendetta
+
+Combat (25)
+4x Amaranth
+1x Earthshock
+7x Immortal Grapple
+1x Psyche!
+3x Side Strike
+2x Skin of Steel
+2x Slam
+2x Superior Mettle
+3x Taste of Vitae

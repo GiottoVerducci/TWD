@@ -1,0 +1,70 @@
+Everton Biell
+Fortaleza (CE), Brazil
+December 1st 2024
+2R+F
+14 players
+David Orck
+https://www.vekn.net/event-calendar/event/11165
+
+Deck Name: Nergão da Messejana
+
+Crypt (12 cards, min=12, max=40, avg=5.58)
+------------------------------------------
+7x Horde, The     3  dai obf pre                      Baali:6
+2x Nergal        10  AUS DAI FOR OBF PRE THA          Baali:5
+2x Nergal (ADV)  10  AUS DAI FOR OBF PRE THA          Baali:5
+1x Arishat        6  DAI OBF PRE              1 vote  Baali:6
+
+Library (90 cards)
+Master (17; 3 trifle)
+1x Archon Investigation
+1x Giant's Blood
+1x Parthenon, The
+1x Ruins of Charizel
+1x Secure Haven
+1x Sudden Reversal
+8x Tend the Flock
+2x Vessel
+1x Wash
+
+Action (17)
+2x Entrancement
+1x Force of Will
+8x Legal Manipulations
+2x Public Trust
+2x Sheepdog
+2x Unleash Hell's Fury
+
+Ally (2)
+1x Mylan Horseed
+1x Veneficti
+
+Action Modifier (30)
+5x Cloak the Gathering
+1x Daring the Dawn
+3x Elder Impersonation
+2x Enkil Cog
+4x Faceless Night
+4x Freak Drive
+2x I am Legion
+1x Kiss of Ra, The
+4x Lost in Crowds
+4x Spying Mission
+
+Action Modifier/Combat (6)
+2x Hide the Mind
+4x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
+Reaction (9)
+1x Delaying Tactics
+4x Eluding the Arms of Morpheus
+4x Telepathic Misdirection
+
+Combat (4)
+4x Majesty
+
+Event (1)
+1x Narrow Minds

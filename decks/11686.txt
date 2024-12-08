@@ -1,0 +1,72 @@
+Australian New Zealand 2024 VTES Continental Championship
+Sydney, Australia
+October 26th 2024
+3R+F
+36 players
+Keith Lim
+https://www.vekn.net/event-calendar/event/11686
+
+Deck Name: Fiend Nights at the Museum
+
+Crypt (12 cards, min=19, max=30, avg=6.08)
+------------------------------------------
+2x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+2x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (80 cards)
+Master (16; 6 trifle)
+5x British Museum, London, The
+1x Carfax Abbey
+2x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Heidelberg Castle, Germany
+2x Two Wrongs
+3x Villein
+1x Wider View
+
+Action (8)
+8x Govern the Unaligned
+
+Equipment (12)
+1x Blood Tears of Kephran
+2x Heart of Nizchetus
+1x Incriminating Videotape
+7x Living Manse
+1x Signet of King Saul, The
+
+Political Action (2)
+2x Eat the Rich
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (7)
+2x Conditioning
+4x Earth Control
+1x Foreshadowing Destruction
+
+Action Modifier/Combat (2)
+2x Obedient Flesh
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (18)
+4x Bait and Switch
+4x Deep Ecology
+6x Deflection
+4x Guard Dogs
+
+Combat (8)
+4x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x NRA PAC

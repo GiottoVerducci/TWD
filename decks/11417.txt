@@ -1,0 +1,55 @@
+Sudestão
+Rio de Janeiro, Brazil
+May 26th 2024
+3R+F
+27 players
+Alanmut Bastos
+https://www.vekn.net/event-calendar/event/11417
+
+Deck Name: Focus the Bleed
+
+Crypt (12 cards, min=19, max=27, avg=5.83)
+------------------------------------------
+3x Flavia, Avenging Angel             6  CEL OBF QUI          Assamite:6
+3x Omer                               5  CEL QUI obf          Assamite:6
+2x Abid bin Haji, Scholar of Mirrors  7  AUS CEL OBF QUI      Assamite:6
+2x Hafsa, The Watcher                 6  OBF QUI aus cel      Assamite:5
+1x Djuhah, The Bronze Bow             7  OBF QUI aus cel pre  Assamite:5
+1x Sajid al Misbah                    4  QUI                  Assamite:5
+
+Library (85 cards)
+Master (21; 2 trifle)
+1x Alamut
+2x Archon Investigation
+1x Celerity
+1x Dreams of the Sphinx
+4x Haqim's Law: Retribution
+4x Information Highway
+1x Khabar: Community, The
+1x Obfuscate
+1x Parthenon, The
+1x Path of Blood, The
+1x Underworld Hunting Ground
+2x Vessel
+1x Yoruba Shrine
+
+Action (14)
+4x Khabar: Glory
+10x Loss
+
+Action Modifier (22)
+3x Cloak the Gathering
+5x Elder Impersonation
+5x Faceless Night
+4x Lost in Crowds
+5x Spying Mission
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Combat (23)
+8x Focus the Blood
+5x No Trace
+1x Pursuit
+1x Taste of Death
+8x Torrent

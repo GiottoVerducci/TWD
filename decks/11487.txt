@@ -1,0 +1,50 @@
+Portugal NC 2024
+Mercadia Games, Lisboa, Portugal
+February 11th 2024
+3R+F
+33 players
+Eduardo Manuel dos Santos Mateus
+https://www.vekn.net/event-calendar/event/11487
+
+Deck Name: “The Downward Spiral”
+
+Crypt (12 cards, min=7, max=40, avg=6.08)
+-----------------------------------------
+4x Helena (ADV)             10  AUS CEL DOM dai obf pre tha  Toreador:3
+2x Helena                   10  AUS CEL DOM obf pre tha      Toreador:3
+1x Isabel de Leon            3  AUS                          Toreador:2
+1x Yvette, The Hopeless      3  aus cel                      Toreador:3
+1x Zöe                       3  AUS cel obf                  Malkavian:2
+1x Emerson Wilkershire III   2  pre                          Toreador:3
+1x Anarch Convert            1  -none-                       Caitiff:ANY
+1x Franciscus                1  aus                          Caitiff:2
+
+Library (90 cards)
+Master (18; 5 trifle)
+2x Antediluvian Awakening
+1x Barrens, The
+1x Dabbler
+2x Direct Intervention
+3x Dreams of the Sphinx
+1x Elder Library
+1x Fortitude
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Smiling Jack, The Anarch
+2x Villein
+2x Wider View
+
+Reaction (70)
+10x Deflection
+9x Diabolic Lure
+8x Eagle's Sight
+6x Enhanced Senses
+8x Eyes of Argus
+2x My Enemy's Enemy
+13x Obedience
+6x Quicken Sight
+8x Telepathic Misdirection
+
+Event (2)
+1x Narrow Minds
+1x Waiting Game

@@ -1,0 +1,48 @@
+Meritiense 2024
+Sao Joao de Meriti (RJ), Brazil
+July 21st 2024
+2R+F
+27 players
+Felipe de Carvalho Gonçalves
+https://www.vekn.net/event-calendar/event/11547
+
+Deck: Theo Bell&Beast Rush
+https://vdb.im/decks/f391afba8
+
+Crypt (12 cards, min=7, max=28, avg=5)
+--------------------------------------
+4x Beast, The Leatherface of Detroit  7  OBF POT ani cel  Nosferatu antitribu:2
+3x Theo Bell                          7  POT cel dom pre  Brujah:2
+3x Anarch Convert                     1  -none-           Caitiff:ANY
+2x Jimmy Dunn                         4  CEL POT for      Pander:2
+
+Library (75 cards)
+Master (21; 8 trifle)
+2x Archon Investigation
+1x Carver's Meat Packing and Storage
+1x Direct Intervention
+2x Fame
+6x Guardian Angel
+1x Tension in the Ranks
+5x Villein
+3x Wider View
+
+Action (3)
+3x Heroic Might
+
+Reaction (7)
+3x Delaying Tactics
+4x On the Qui Vive
+
+Combat (43)
+2x Disarm
+7x Flash
+10x Immortal Grapple
+5x Quickness
+3x Roundhouse
+2x Street Cred
+7x Taste of Vitae
+7x Torn Signpost
+
+Event (1)
+1x Dragonbound

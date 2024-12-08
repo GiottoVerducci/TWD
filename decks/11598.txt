@@ -1,0 +1,64 @@
+Itaquaquecetubense 2024
+Itaquaquecetuba, Brazil
+August 18th 2024
+2R+F
+28 players
+Kleber Martins
+https://www.vekn.net/event-calendar/event/11598
+
+-- 1GW5 + 3vp in final
+
+Deck Name: Laço quebrado
+
+Crypt (12 cards, min=16, max=26, avg=5.25)
+------------------------------------------
+2x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+2x Gathii             5  ANI PRE obf      Ravnos:7
+2x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+Library (82 cards)
+Master (14; 4 trifle)
+1x Anarch Railroad
+1x Club Illusion
+4x Dabbler
+3x Effective Management
+1x Fortune Teller Shop
+1x Garibaldi-Meucci Museum
+1x Pentex(TM) Subversion
+2x Week of Nightmares
+
+Action (18)
+13x Break the Bonds
+2x Entrancement
+3x Field Training
+
+Equipment (2)
+2x Shilmulo Tarot
+
+Action Modifier (31)
+3x Cloak the Gathering
+4x Elder Impersonation
+1x Faceless Night
+4x Lost in Crowds
+8x Memory Rift
+4x Power of One
+7x Visions of Gehenna
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (10)
+3x Guard Dogs
+7x Visions of Zapathasura
+
+Combat (3)
+3x Majesty
+
+Event (1)
+1x Narrow Minds

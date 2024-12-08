@@ -1,0 +1,78 @@
+Italian Tour 2021 - Firenze
+Florence, Italy
+November 23rd 2024
+2R+F
+38 players
+Diego Di Nicolantonio
+https://www.vekn.net/event-calendar/event/11762
+
+-- 2GW10 + 3vp in final
+
+Deck Name: Execute Order: Unnamed
+Description:
+The author of this list is Mairos, the NC, i made only some variations and thought about changing or not changing stuff that in the end i didn't change
+
+Crypt (13 cards, min=4, max=40, avg=6)
+--------------------------------------
+5x unnamed, The           10  CEL DAI OBF PRE PRO         Baali:6
+4x Anarch Convert          1  -none-                      Caitiff:ANY
+2x André the Manipulator   6  FOR PRO                     Gangrel:5
+1x Vivian VI               7  PRE PRO obf tha      baron  Follower of Set:6
+1x Doctor Morocco          5  PRO cel obf pre             Follower of Set:6
+
+Library (75 cards)
+Master (13; 7 trifle)
+1x Archon Investigation
+1x Coven, The
+4x Dabbler
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Secure Haven
+1x Vessel
+1x Wider View
+
+Action (11)
+1x Contagion
+1x Entrancement
+7x Platinum Protocol, The
+2x Unleash Hell's Fury
+
+Ally (1)
+1x Veneficti
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Retainer (3)
+3x Homunculus
+
+Action Modifier (28)
+3x CrimethInc.
+2x Elder Impersonation
+3x Enchanting Gaze
+4x Enkil Cog
+3x I am Legion
+6x Instantaneous Transformation
+3x Lost in Crowds
+2x Memory Rift
+2x Revelation of the Serpent
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
+Reaction (3)
+1x Delaying Tactics
+2x Party Out Of Bounds
+
+Combat (6)
+3x Earth Meld
+3x Form of Mist
+
+Event (1)
+1x Narrow Minds

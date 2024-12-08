@@ -1,0 +1,58 @@
+Torneio wolfs rain
+Campina Grande (PB), Brazil
+October 27th 2024
+2R+F
+12 players
+Valdemir Silva
+https://www.vekn.net/event-calendar/event/11750
+
+-- 2VP in final
+
+Deck Name: Estatueta
+
+Crypt (12 cards, min=24, max=35, avg=7.58)
+------------------------------------------
+3x Inyanga               9  ANI AUS FOR PRO dom nec  primogen  Gangrel:4
+3x Randall               8  ANI AUS FOR PRO          1 vote    Gangrel:4
+2x Nadima                8  FOR PRO SER ani aus                Gangrel:3
+2x Danielle Diron (ADV)  7  ANI PRO aus cel chi for            Gangrel:3
+2x Dr. Allan Woodstock   5  PRO ani aus for                    Gangrel:3
+
+Library (87 cards)
+Master (17; 3 trifle)
+4x Auspex
+1x Backways
+2x Blood Doll
+1x Ecoterrorists
+1x Minion Tap
+1x Powerbase: Montreal
+3x Smiling Jack, The Anarch
+2x Vessel
+1x Villein
+1x Zoo Hunting Ground
+
+Action (8)
+4x Army of Rats
+4x Restoration
+
+Equipment (5)
+2x Bowl of Convergence
+3x Sniper Rifle
+
+Retainer (4)
+4x Raptor
+
+Action Modifier (6)
+6x Earth Control
+
+Reaction (30)
+4x Enhanced Senses
+4x Eyes of Argus
+12x Eyes of the Wild
+2x Precognition
+3x Spirit's Touch
+5x Telepathic Misdirection
+
+Combat (17)
+14x Earth Meld
+3x Pack Alpha

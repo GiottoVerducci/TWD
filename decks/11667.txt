@@ -7,6 +7,7 @@ Marius Iscru
 https://www.vekn.net/event-calendar/event/11667
 
 Deck name: Sunshine Dogs
+
 Crypt (12 cards, min=15, max=25, avg=5.33)
 ------------------------------------------
 3x Kuyén                  6  ANI PRO          baron  Gangrel:6

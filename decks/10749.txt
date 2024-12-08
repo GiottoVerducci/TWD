@@ -6,7 +6,7 @@ December 17th 2023
 Pablo Andrade
 https://www.vekn.net/event-calendar/event/10749
 
--- 1,5vp in fnal
+-- 1.5vp in fnal
 
 Deck Name: The Wolves Feed
 

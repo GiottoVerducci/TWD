@@ -13,11 +13,11 @@ Having moved back to Helsinki at the end of last year, the TLA tournaments also 
 Everybody I talked to had expected the meta to consist largely of new decks, but instead, not much had changed. I personally experienced a table with five vote decks, which was sort of refreshing and sort of not.
 
 The final table:
-- Teemu Sainomaa (Chameleon Barons) 1,5
+- Teemu Sainomaa (Chameleon Barons) 1.5
 > Aki Puolakka (Salubri V5)
-> Otso Saariluoma (Gehenna Barons) 1,5
+> Otso Saariluoma (Gehenna Barons) 1.5
 > Julius Kaplas (DEM bleed)
-> Tommi Hakomaa (Tzimisce G2 wall) 0,5
+> Tommi Hakomaa (Tzimisce G2 wall) 0.5
 
 Deck Name: Carthage Withering
 Author: Otso Saariluoma

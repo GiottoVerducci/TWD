@@ -1,0 +1,54 @@
+Mexican NC 2024
+Mexico City, Mexico
+December 8th 2024
+3R+F
+28 players
+Edgar David Caudillo Garrido
+https://www.vekn.net/event-calendar/event/11902
+
+Deck Name: arishat op
+-- NOTE:The player changed the crypt at the last minute, and forgot to change a couple of cards from the library (Camarilla Conclave and Ferraille) , he didn't realize until he was on the table and had to discard
+
+Crypt (12 cards, min=24, max=28, avg=6.33)
+------------------------------------------
+4x Arishat        6  DAI OBF PRE      1 vote  Baali:6
+2x Alice Chen     7  FOR PRE dom obf  prince  Ventrue:6
+2x Karen Suadela  7  CEL POT obf pre  prince  Brujah:5
+2x Andi Liu       6  DOM aus obf pre  prince  Malkavian:6
+2x Belinde        6  OBF ani aus pot  prince  Nosferatu:6
+
+Library (79 cards)
+Master (20; 4 trifle)
+1x Camarilla Conclave
+2x Dreams of the Sphinx
+1x Fear of Mekhet
+1x Ferraille
+1x Giant's Blood
+3x Information Highway
+3x Obfuscate
+3x Protected Resources
+1x Ventrue Headquarters
+4x Villein
+
+Action (6)
+3x Condemnation: Mute
+3x Unleash Hell's Fury
+
+Political Action (20)
+1x Anarchist Uprising
+7x Camarilla's Iron Fist
+2x First Tradition: The Masquerade
+6x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (24)
+6x Awe
+7x Forgotten Labyrinth
+4x Lost in Crowds
+7x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Combat (6)
+6x Majesty

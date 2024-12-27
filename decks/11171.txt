@@ -1,0 +1,69 @@
+Cearense 2024 - Etapa GP Brasil
+Fortaleza (CE), Brazil
+December 15th 2024
+3R+F
+41 players
+Lucas Teixeira
+https://www.vekn.net/event-calendar/event/11171
+
+-- 4vp in final
+
+Deck Name: Nephandus de Pobre
+
+Crypt (12 cards, min=14, max=25, avg=4.92)
+------------------------------------------
+5x Antonio d'Erlette         5  THA dom for pot              Tremere antitribu:4
+1x Ladislas Toth, The Torch  7  AUS DOM THA for  archbishop  Tremere antitribu:3
+1x Elena Mendoza Vasquez     6  AUS THA dom obt              Tremere antitribu:3
+1x Selena                    6  AUS DOM THA                  Tremere antitribu:3
+1x Yasmin the Black          6  AUS THA dom pre              Tremere antitribu:3
+1x Ember Wright              3  aus dom                      Tremere antitribu:3
+1x Lectora                   3  aus tha                      Tremere antitribu:4
+1x Martin Franckel           3  AUS tha                      Tremere:3
+
+Library (79 cards)
+Master (23; 2 trifle)
+9x Ashur Tablets
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Haven Uncovered
+1x Infernal Pact
+1x Jake Washington
+3x Liquidation
+2x Parthenon, The
+1x Secure Haven
+1x Shard, London, The
+1x Wash
+1x Wider View
+
+Action (2)
+2x Magic of the Smith
+
+Ally (9)
+9x Nephandus
+
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Sniper Rifle
+
+Action Modifier (8)
+2x Conditioning
+6x Mirror Walk
+
+Reaction (24)
+5x Deflection
+2x Delaying Tactics
+5x Eyes of Argus
+2x My Enemy's Enemy
+5x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (7)
+2x Molotov Cocktail
+3x Target Vitals
+2x Trap
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

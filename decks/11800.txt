@@ -1,0 +1,58 @@
+IT 2024 - Milano
+Paderno Dugnano, Italy
+December 15th 2024
+2R+F
+29 players
+Pablo Carnino
+https://www.vekn.net/event-calendar/event/11800
+
+Deck name: Tzimisce Deep'er Song (Tap & Bleed)
+
+Crypt (12 cards, min=19, max=31, avg=6.25)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (85 cards)
+Master (13; 4 trifle)
+2x Anarch Troublemaker
+1x Carfax Abbey
+1x Club Illusion
+1x Coven, The
+1x Giant's Blood
+1x Jake Washington
+1x Library Hunting Ground
+1x Misdirection
+1x Pentex(TM) Subversion
+2x Vessel
+1x Wider View
+
+Action (21)
+9x Deep Song
+1x Field Training
+11x Govern the Unaligned
+
+Equipment (1)
+1x Gran Madre di Dio, Italy
+
+Action Modifier (25)
+4x Bonding
+5x Conditioning
+2x Foreshadowing Destruction
+8x Invigorate
+3x Seduction
+3x Sleeping Mind, The
+
+Reaction (9)
+7x Deflection
+2x On the Qui Vive
+
+Combat (16)
+8x Earth Meld
+6x Form of Mist
+2x Groundfighting

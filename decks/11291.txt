@@ -1,0 +1,73 @@
+Danse Macabre II
+Vidor (TX), USA
+December 7th 2024
+3R+F
+33 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/11291
+
+Deck Name: Defy the Edict of Worms V2.1
+Description: Mini-Slava Museum/Manse
+
+Adjusted to 82 cards - thinner versions could still be built as I never came close to expending my library. I don't foresee this deck evolving more unless/until we see new cards.
+
+Crypt (12 cards, min=20, max=31, avg=6.42)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (82 cards)
+Master (20; 4 trifle)
+1x Anarch Railroad
+5x British Museum, London, The
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Powerbase: Savannah
+3x Villein
+1x Wider View
+
+Action (13)
+2x Dominate Kine -- steal Garibaldi or Papillon
+11x Govern the Unaligned
+
+Equipment (12)
+1x Blood Tears of Kephran
+2x Cooler
+2x Heart of Nizchetus
+6x Living Manse -- could be 7x
+1x Palatial Estate
+
+Action Modifier (4)
+4x Earth Control
+
+Action Modifier/Combat (4)
+3x Obedient Flesh
+1x Rapid Change
+
+Action Modifier/Reaction (6)
+3x Form of the Bat
+3x Murmur of the False Will
+
+Reaction (14)
+2x Deep Ecology
+7x Deflection
+2x One With the Land
+3x Organized Resistance
+
+Combat (7)
+2x Earth Meld
+5x Form of Mist
+
+Event (2)
+1x NRA PAC
+1x Scourge of the Enochians

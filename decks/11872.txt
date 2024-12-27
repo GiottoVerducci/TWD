@@ -1,0 +1,67 @@
+Almada's Bloody Xmas
+Almada, Portugal
+December 7th 2024
+2R+F
+10 players
+Sérgio Louçã Martins
+https://www.vekn.net/event-calendar/event/11872
+
+-- 1GW3.5 + 3vp in final
+
+Deck Name: It's what the huggy craves
+Description: Lunchables are fun for the whole family.
+
+Final's seating: Lasombra politics (g4-5) > Kyasid S&B > unnamed Protocol > Byzar Purge > PRO Death Star.
+
+Two cross-table DOM decks – one with votes –, along with an opening hand blessed by Graverobbing, made the final easier than expected to lock, despite mistakes.
+
+There's a fair amount of tech that could be swapped out or reduced and the whole deck size is likely to be at its tightest at 64-65 cards. Scourge of the Enochias is far too valuable against too many matchups in a post Childe of the Revolution world.
+
+Recursion is, of course, broken and very much a failsafe, hand smoothing and hand extender in this deck. There's a world where every turn Purge (even without other player's minions) is achievable and desirable, with slight adjustments.
+
+Big thanks to some of the usual suspects: Darby Keeney for telling me to stop faffing about with useless cards and pulling me back to the core issues, Karl Schaefer for telling me how he sees Purge puzzles and discussing ousting options, and Brian Moritz for debating interaction (and lack thereof) with me and being disgusted with the end result after "kindly donating all of his ready region to me" sic.
+
+I'm happy to add a tiny contribution to the non-cloggable stealth debate.
+
+Crypt (12 cards, min=10, max=40, avg=6.58)
+------------------------------------------
+6x Byzar                   10  AUS FOR NEC OBF dom pre  Harbinger of Skulls:6
+2x Araceli "Celia" Rivera   3  dom obl                  Lasombra:6
+2x Claudia                  2  obt                      Lasombra:5
+1x Azucena                  5  DOM OBL pot              Lasombra:6
+1x Braden White             4  dom obl pot              Lasombra:6
+
+Library (70 cards)
+Master (18; 2 trifle)
+1x Dominate
+2x Dreams of the Sphinx
+1x Fame
+3x Information Highway
+1x Maabara
+2x Villein
+8x Zillah's Valley
+
+Action (11)
+7x Baltimore Purge
+4x Graverobbing
+
+Ally (2)
+1x ECTU Operative
+1x Mylan Horseed
+
+Equipment (4)
+1x Erebus Mask
+1x Learjet
+1x Ritual Goblet
+1x Sargon Fragment, The
+
+Action Modifier (34)
+5x Acheron Vortex
+5x Call of the Hungry Dead
+3x Elder Impersonation
+2x Forgotten Labyrinth
+15x Freak Drive
+4x Seduction
+
+Event (1)
+1x Scourge of the Enochians

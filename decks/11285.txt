@@ -1,0 +1,70 @@
+Danse Macabre II - First Danse
+Vidor (TX), USA
+December 6th 2024
+2R+F
+29 players
+Kelly Lyons
+https://www.vekn.net/event-calendar/event/11285
+
+-- 1GW4 + 5vp in final
+
+Deck Name: Water Dog - Illegal Tactics
+Description: My prince, Norm Brown, won a tournament in Vidor in 2022 with a Brujah Illegalism Deck. He relied on Reckless Agitation as a second action. Here is his deck list. https://vdb.im/decks/10090
+
+It was good. I, however, have never been a big fan of Reckless Agitation as Karl Schaefer knows. We’ve had that debate. Instead, I prefer Line Brawl. The ability to bleed with Illegalism unlock then Line Brawl for a pool is just too good. Line Brawl also, gives you an enters combat action and even +1 bleed action. It is the best Brujah action card for anarchs.
+
+I agree with Norm when it comes to Chemistry discipline cards. You get that extra stealth plus it allows you to Dabbler so, if you get blocked with Illegalism you can unlock and still do Line Brawl.
+
+I added a couple of CrimethInc. cards for more unlock. Saku and Valeriya have protean and if you get lucky Brandon Grime has thaumaturgy. That’s why there is 2 of him in the crypt.
+
+Crypt (12 cards, min=16, max=29, avg=5.67)
+------------------------------------------
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Brandon Grime       5  CEL pot pre tha             Brujah:6
+1x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Octane              6  CEL POT PRE                 Brujah:6
+1x Siarhei Levchenko   5  CEL PRE pot                 Brujah:6
+1x Anita Wainwright    3  cel pre                     Brujah:6
+1x Ariane              3  cel pot pre                 Brujah:5
+
+Library (90 cards)
+Master (24; 9 trifle)
+2x Archon Investigation -- helped me burn a vampire in Round 1
+1x Carfax Abbey
+4x Chimerstry
+4x Dabbler
+2x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+2x New Carthage
+1x Powerbase: Los Angeles
+1x Thaumaturgy
+5x Villein
+1x Warzone Hunting Ground
+
+Action (20)
+10x Illegalism
+9x Line Brawl
+1x Open War
+
+Political Action (2)
+2x Patsy
+
+Action Modifier (10)
+2x CrimethInc.
+6x Power of One
+2x Smoke and Mirrors
+
+Reaction (11)
+5x Bait and Switch
+6x Organized Resistance
+
+Combat (23)
+3x Bollix
+9x Dust Up
+3x Immortal Grapple
+2x Pursuit
+2x Side Strike
+4x Taste of Vitae

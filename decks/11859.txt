@@ -1,0 +1,68 @@
+Marato TV3 2024
+Barcelona, Spain
+December 15th 2024
+2R+F
+45 players
+Tomàs López Jiménez
+https://www.vekn.net/event-calendar/event/11859
+
+-- 1GW4+ 3vp in final
+
+Deck Name: Barones votan
+Author: glinlos
+
+Crypt (12 cards, min=18, max=30, avg=6)
+---------------------------------------
+2x Arishat          6  DAI OBF PRE          1 vote   Baali:6
+2x Dominica         3  aus for                       Salubri:7
+1x Scout Youngwood  8  MEL OBF PRE for qui  2 votes  Daughter of Cacophony:6
+1x Sergio Bueno     8  OBF PRE PRO aus pot  baron    Follower of Set:6
+1x Alice Chen       7  FOR PRE dom obf      prince   Ventrue:6
+1x Vivian VI        7  PRE PRO obf tha      baron    Follower of Set:6
+1x Andi Liu         6  DOM aus obf pre      prince   Malkavian:6
+1x Atiena           6  CEL obf pot pre      baron    Brujah:6
+1x Elisha Tucker    6  PRE cel obf pro      baron    Follower of Set:6
+1x Jacques Rouge    6  OBF ani pot pre      baron    Nosferatu:6
+
+Library (90 cards)
+Master (16; 8 trifle)
+1x Archon Investigation
+1x Creepshow Casino
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Jake Washington
+1x Pentex(TM) Subversion
+2x Saulot's Guiding Wisdom
+5x Villein
+1x Wash
+2x Wider View
+
+Action (3)
+3x Entrancement
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+6x Kine Resources Contested
+1x Neonate Breach
+1x Patsy
+4x Reckless Agitation
+
+Action Modifier (33)
+4x Awe
+4x Bewitching Oration
+4x Elder Impersonation
+3x Faceless Night
+5x Forgotten Labyrinth
+4x Lost in Crowds
+2x Perfect Paragon
+7x Voter Captivation
+
+Reaction (16)
+8x Bait and Switch
+4x On the Qui Vive
+4x Organized Resistance
+
+Combat (6)
+6x Majesty

@@ -1,0 +1,75 @@
+Ultimo do Ano CG
+Campina Grande, Brazil
+December 18th 2024
+2R+F
+14 players
+Sílvio Emannuel
+https://www.vekn.net/event-calendar/event/11897
+
+-- 4vp in final
+
+Deck Name: JK - 30 anos em 5
+
+Crypt (17 cards, min=17, max=38, avg=7.12)
+------------------------------------------
+2x François Villon     10  AUS CEL PRE ani obf pot  prince    Toreador:6
+2x Diana Iadanza        9  AUS CEL FOR PRE          justicar  Toreador:7
+2x Modius               8  AUS CEL PRE obf          prince    Toreador:7
+2x Mkhokheli            6  PRE aus cel for          prince    Toreador:6
+1x Annabelle Triabell   9  AUS CEL PRE dom for      primogen  Toreador:6
+1x Catalina Vega        8  AUS CEL PRE for          prince    Toreador:6
+1x Marcos Belegrad      8  AUS CEL PRE ani          prince    Toreador:7
+1x Flávio Gonçalves     7  CEL PRE aus for          prince    Toreador:6
+1x Victoria Ash         6  PRE aus cel dom                    Toreador:7
+1x Kathy Glens          5  PRE aus cel tha                    Toreador:6
+1x Tamoszius            5  CEL PRE aus                        Toreador:6
+1x Silvian Popescu      4  PRE cel                            Toreador:7
+1x Valentina Osako      3  PRE                                Toreador:7
+
+Library (90 cards)
+Master (22; 4 trifle)
+1x Archon Investigation
+1x Art Museum
+2x Camarilla Conclave
+1x Dreams of the Sphinx
+2x Elysium: The Palace of Versailles
+1x Giant's Blood
+2x Information Highway
+1x Protected Resources
+5x Toreador Grand Ball
+4x Villein
+2x Zillah's Valley
+
+Action (10)
+4x Enchant Kindred
+2x Fourth Tradition: The Accounting
+1x Judgment: Camarilla Segregation
+3x Public Trust
+
+Political Action (23)
+1x Ancient Influence
+1x Banishment
+4x Camarilla's Iron Fist
+4x Consanguineous Boon
+6x Kine Resources Contested
+2x Parity Shift
+1x Political Stranglehold
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: London
+1x Reinforcements
+1x Reins of Power
+
+Action Modifier (23)
+2x Aire of Elation
+2x Awe
+6x Bewitching Oration
+5x Loup
+2x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Combat (10)
+4x Charismatic Aura
+6x Majesty

@@ -1,0 +1,70 @@
+Manaus - Último do Ano 2024
+Manaus, Brazil
+December 21st 2024
+2R+F
+12 players
+Joaquim Antonio de Sant'Ana Júnior
+https://www.vekn.net/event-calendar/event/11940
+
+-- 1GW4.5 + 0.5vp in final
+
+Deck Name: Lord Tremere
+
+Crypt (12 cards, min=17, max=44, avg=7.58)
+------------------------------------------
+4x Lord Tremere           11  ANI AUS DOM THA VIC obe            Tremere:5
+1x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar  Tremere:5
+1x Ayelech                 7  AUS DOM THA              prince    Tremere:6
+1x Rutor                   7  AUS DOM THA pro vic                Tremere:5
+1x Trevon Parker           6  AUS DOM THA                        Tremere:6
+1x Chrysanthemum           5  AUS THA dom              primogen  Tremere:6
+1x Zane                    5  THA aus dom              primogen  Tremere:5
+1x Nassir                  4  THA aus                            Tremere:6
+1x Rosalina Cortez         3  THA                                Tremere:6
+
+Library (90 cards)
+Master (16; 8 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+1x Coven, The
+1x Dreams of the Sphinx
+1x Powerbase: Montreal
+1x Powerbase: Zürich
+1x Secure Haven
+2x Vessel
+4x Villein
+1x Wasserschloss Anif, Austria
+1x Wider View
+
+Action (12)
+4x Dominate Kine
+8x Govern the Unaligned
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Ritual Goblet
+
+Action Modifier (20)
+4x Changeling
+4x Mind of the Wilds
+12x Mirror Walk
+
+Action Modifier/Reaction (8)
+8x Murmur of the False Will
+
+Reaction (10)
+4x Deflection
+4x Eyes of Argus
+2x Salt of Thoth
+
+Combat (20)
+2x Apportation
+2x Blood Fury
+2x Breath of the Dragon
+4x Carrion Crows
+2x Chiropteran Marauder
+4x Rego Motum
+4x Theft of Vitae

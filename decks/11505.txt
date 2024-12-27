@@ -1,0 +1,58 @@
+Rumo ao SAC 04
+Online
+June 10th 2024 -- 13 June 2024
+2R+F
+12 players
+Peitsa Suominen
+https://www.vekn.net/event-calendar/event/11505
+
+Deck Name: Paw Patrol: El(ä)intenluovuttaja
+Created by: Antti Penttilä
+Description: Kuyén gets dog pack(s) and Luciano moves them around as needed and then you control the flow of the game (and profit) in this combat ends heavy meta without much other combat around.
+
+I played Antti's deck in this tourney because I thought it was a cool deck when I saw it on a live tourney and wanted to give it a go. I added Rewilding to the deck which came in handy in prelims, but sometimes I felt like "I wish this was a deep song".
+
+Crypt (12 cards, min=20, max=24, avg=5.67)
+------------------------------------------
+5x Kuyén              6  ANI PRO          baron  Gangrel:6
+3x Luciano Carvalho   6  ANI OBF pre             Ravnos:7
+1x Doc Martina        6  ANI OBF for pre         Ravnos:7
+1x Roberto Rivamonte  6  ANI OBF PRE             Ravnos:7
+1x Gathii             5  ANI PRE obf             Ravnos:7
+1x Trung Chau Pham    3  ANI                     Ravnos:7
+
+Library (84 cards)
+Master (20; 8 trifle)
+6x Ashur Tablets
+1x Carfax Abbey
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Ennoia's Theater
+1x Fame
+2x Vessel
+4x Villein
+1x Week of Nightmares
+2x Wider View
+
+Action (11)
+10x Deep Song
+1x Rewilding
+
+Retainer (8)
+3x Dog Pack
+5x Feral Hound
+
+Reaction (11)
+4x Bait and Switch
+2x Guard Dogs
+1x On the Qui Vive
+4x Organized Resistance
+
+Combat (34)
+11x Aid from Bats
+9x Carrion Crows
+3x Pack Alpha
+3x Target Vitals
+5x Taste of Vitae
+2x Terror Frenzy
+1x Voracious Vermin

@@ -1,0 +1,67 @@
+All hallow's bleed
+Lisboa, Portugal
+November 1st 2024
+3R+F
+28 players
+Paul Direktor
+https://www.vekn.net/event-calendar/event/11488
+
+-- 2GW6.5 + 3vp in final
+
+Deck Name: Bestiary of a sober haunting
+Description: Based on Alessandro Donati's TWD The Ultimate Meat Experience! from 2024. I decided to change a few ratios and add some cards that might be useful, especially Aranthebes and the Library Hunting Ground were nice additions. The underbridge strays also proved useful, although they can be removed.  I would remove the graverobbing since it's too opportunistic and readding Montreal for the pool gain. But the deck proved very consistent and reliable in a quite bleed heavy meta.
+
+Crypt (12 cards, min=6, max=21, avg=3.5)
+----------------------------------------
+3x Susie Kano       3  ani dom                 Tzimisce:6
+3x Anarch Convert   1  -none-                  Caitiff:ANY
+2x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (63 cards)
+Master (15)
+1x Direct Intervention
+1x Fame
+6x Jake Washington
+1x Library Hunting Ground
+6x Piper
+
+Action (2)
+1x Aranthebes, The Immortal
+1x Graverobbing
+
+Ally (13)
+1x Asanbonsam Ghoul
+1x Carlton Van Wyk
+1x Ossian
+2x Underbridge Stray
+1x Vagabond Mystic
+1x Vozhd of Sofia
+6x War Ghoul
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Reaction (16)
+3x Deep Ecology
+6x Deflection
+1x Delaying Tactics
+3x On the Qui Vive
+3x One With the Land
+
+Combat (9)
+2x Donnybrook
+2x Fake Out
+2x Target Vitals
+3x Trap
+
+Event (4)
+1x Dragonbound
+1x FBI Special Affairs Division
+2x Unmasking, The

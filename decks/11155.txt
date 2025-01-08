@@ -1,0 +1,64 @@
+Lucas Raphael
+Fortaleza (CE), Brazil
+July 14th 2024
+2R+F
+17 players
+Diego Rodrigues
+https://www.vekn.net/event-calendar/event/11155
+
+Deck Name: Organized Bleed Resistance
+Description: Based on Bill Troxel NAC 2024 TWD.
+
+Crypt (12 cards, min=21, max=32, avg=6.67)
+------------------------------------------
+4x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Kuyén            6  ANI PRO          baron  Gangrel:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Kamile Paukstys  5  PRO ani for             Gangrel:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+
+Library (77 cards)
+Master (17; 4 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Channel 10
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Jake Washington
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Villein
+2x Wider View
+
+Action (12)
+2x Deep Song
+10x Govern the Unaligned
+
+Political Action (2)
+1x Eat the Rich
+1x Reckless Agitation
+
+Action Modifier (7)
+3x Conditioning
+4x Earth Control
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (21)
+4x Bait and Switch
+3x Deep Ecology
+4x Deflection
+2x Delaying Tactics
+6x Organized Resistance
+2x Protection Racket
+
+Combat (15)
+1x Donnybrook
+8x Earth Meld
+6x Form of Mist

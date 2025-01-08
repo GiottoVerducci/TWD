@@ -1,0 +1,62 @@
+Fee Stake: Warsaw #20 - X-mas edition
+Warsaw, Poland
+December 14th 2024
+3R+F
+15 players
+Tomasz Pietkiewicz
+https://www.vekn.net/event-calendar/event/11799
+
+-- 2GW7 + 3vp in final
+
+Deck Name: Lasombra Progeny
+
+Crypt (12 cards, min=18, max=34, avg=6.75)
+------------------------------------------
+3x Yewon Ong                   8  DOM OBL POT for      prince    Lasombra:6
+3x María del Toro              7  DOM OBL POT          prince    Lasombra:6
+2x Gnaeus Aemilius Augustinus  9  DOM OBL POT PRO tha  prince    Lasombra:6
+1x Kamaluddin                  6  DOM OBL for pot      primogen  Lasombra:6
+1x Azucena                     5  DOM OBL pot                    Lasombra:6
+1x Braden White                4  dom obl pot                    Lasombra:6
+1x Araceli "Celia" Rivera      3  dom obl                        Lasombra:6
+
+Library (75 cards)
+Master (15; 1 trifle)
+1x Coven, The
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Elysium: The Palace of Versailles
+3x Information Highway
+4x Legendary Vampire
+3x Power Structure
+
+Action (10)
+2x Judgment: Camarilla Segregation
+8x Third Tradition: Progeny
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Zaire River Ferry
+
+Political Action (22)
+3x Camarilla's Iron Fist
+7x Consanguineous Boon
+1x Domain Challenge
+6x Kine Resources Contested
+1x Lasombra Justicar
+4x Parity Shift
+
+Action Modifier (20)
+2x Amici Noctis
+1x Conditioning
+1x Cryptic Rider
+4x Shadow Cast
+4x Shadow Cloak
+4x Stygian Shroud
+4x Where the Veil Thins
+
+Action Modifier/Reaction (2)
+2x Ominous Chorus
+
+Reaction (4)
+4x Deflection

@@ -1,0 +1,73 @@
+Festim de Sangue (Blood Fest)
+Mogi das Cruzes (SP), Brazil
+September 15th 2024
+2R+F
+15 players
+Alyson Sanches Paulini
+https://www.vekn.net/event-calendar/event/11682
+
+-- 0GW3.5 + 3vp final
+
+Deck Name: Socialização dos Meios de Produção
+
+Crypt (12 cards, min=18, max=35, avg=6.58)
+------------------------------------------
+3x Ian Carfax       9  AUS DOM THA for pro  justicar  Tremere:7
+2x Ayelech          7  AUS DOM THA          prince    Tremere:6
+1x Abraham DuSable  8  AUS DOM FOR THA                Tremere:6
+1x Inês Tristão     6  THA aus dom pre      prince    Tremere:6
+1x Trevon Parker    6  AUS DOM THA                    Tremere:6
+1x Chrysanthemum    5  AUS THA dom          primogen  Tremere:6
+1x Mason Ha         5  THA aus cel dom                Tremere:6
+1x Ayse Dhanial     4  aus dom tha                    Tremere:6
+1x Lauren           4  aus dom tha                    Tremere:6
+
+Library (84 cards)
+Master (14; 4 trifle)
+1x Academic Hunting Ground
+1x Anarch Troublemaker
+1x Arcane Library
+1x Chantry
+1x Dreams of the Sphinx
+2x Grooming the Protégé
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Vessel
+2x Villein
+
+Action (13)
+7x Govern the Unaligned
+1x Judgment: Camarilla Segregation
+5x Magic of the Smith
+
+Ally (2)
+1x Carlton Van Wyk
+1x Ponticulus
+
+Equipment (5)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+1x Sniper Rifle
+
+Action Modifier (11)
+4x Conditioning
+1x Foreshadowing Destruction
+6x Mirror Walk
+
+Reaction (25)
+4x Deflection
+2x Eagle's Sight
+1x Enhanced Senses
+5x Eyes of Argus
+2x My Enemy's Enemy
+2x On the Qui Vive
+5x Second Tradition: Domain
+4x Telepathic Misdirection
+
+Combat (14)
+4x Apportation
+4x Rego Motum
+6x Theft of Vitae

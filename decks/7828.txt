@@ -1,0 +1,63 @@
+European Championship Day 1
+Mannheim, Germany
+October 4th 2014
+3R+F
+111 players
+Ruben Feldman
+https://www.vekn.net/event-calendar/event/7828
+
+-- 3GW11.5 + 1.5vp in final
+
+Deck Name: Ugly Aggression
+
+Crypt (12 cards, min=15, max=34, avg=6.5)
+-----------------------------------------
+3x Selma the Repugnant  8  OBF POT ani for  prince  Nosferatu:1
+2x Suhailah             9  FOR OBF pot ser  prince  Ventrue:2
+2x Nikolaus Vermeulen   7  POT ani for obf  prince  Nosferatu:2
+1x Gilbert Duane        7  AUS DOM OBF      prince  Malkavian:1
+1x Murat                7  OBF POT ser      prince  Nosferatu:2
+1x Dan Murdock          3  aus obf                  Caitiff:1
+1x Duck                 3  obf pot                  Nosferatu:1
+1x Dimple               2  obf                      Nosferatu:1
+
+Library (75 cards)
+Master (22; 1 trifle)
+1x Giant's Blood
+2x Kaymakli Nightmares
+1x Labyrinth, The
+4x Legendary Vampire
+2x Parthenon, The
+2x Pentex(TM) Subversion
+1x Villein
+1x Warsaw Station
+8x Zillah's Valley
+
+Action (5)
+2x Fourth Tradition: The Accounting
+1x Scrounging
+2x Third Tradition: Progeny
+
+Political Action (14)
+1x Consanguineous Boon
+2x Conservative Agitation
+3x Kine Resources Contested
+1x Neonate Breach
+7x Parity Shift
+
+Action Modifier (24)
+4x Elder Impersonation
+4x Faceless Night
+7x Freak Drive
+9x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (4)
+2x Mental Maze
+2x Second Tradition: Domain
+
+Event (2)
+1x Anthelios, The Red Star
+1x Bitter and Sweet Story, The

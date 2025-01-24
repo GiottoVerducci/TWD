@@ -1,0 +1,58 @@
+Voice of Madness
+Paris, France
+July 20th 2024
+3R+F
+19 players
+Édouard Menneson
+https://www.vekn.net/event-calendar/event/11880
+
+-- 1GW7 + 4vp in final
+
+Deck Name: Caitiff Nosfe Bruise and Bleed
+
+Crypt (12 cards, min=16, max=32, avg=6.17)
+------------------------------------------
+3x Theo Bell             8  CEL POT PRE aus dom         Brujah:6
+1x Saku Pihlajamäki      8  CEL POT PRE for pro  baron  Brujah:6
+1x Aline Gädeke          7  POT PRE cel          baron  Brujah:6
+1x Valeriya Zinovieva    7  POT cel pre pro      baron  Brujah:6
+1x Atiena                6  CEL obf pot pre      baron  Brujah:6
+1x Benedito, a Lanterna  6  POT ani aus obf      baron  Nosferatu:6
+1x Leumeah               6  PRE cel for pot      baron  Brujah:6
+1x Elen Kamjian          4  CEL POT                     Brujah:6
+1x Gabriel Tremblay      4  aus pot pro                 Caitiff:6
+1x Rayne                 2  pot                         Brujah:6
+
+Library (80 cards)
+Master (15; 6 trifle)
+1x Carfax Abbey
+1x Carver's Meat Packing and Storage
+1x Club Illusion
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+6x Villein
+
+Action (12)
+10x Line Brawl
+2x Open War
+
+Political Action (1)
+1x Reckless Agitation
+
+Action Modifier (1)
+1x Monkey Wrench
+
+Reaction (14)
+7x Bait and Switch
+7x Organized Resistance
+
+Combat (37)
+2x Disarm
+7x Dust Up
+9x Immortal Grapple
+8x Taste of Vitae
+4x Thrown Sewer Lid
+7x Torn Signpost

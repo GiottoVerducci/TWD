@@ -1,0 +1,40 @@
+Last Chance Qualifier
+Mannheim, Germany
+October 3rd 2014
+3R+F
+91 players
+Ruben Feldman
+https://www.vekn.net/event-calendar/event/7830
+
+-- 3GW11 + 2vp in final
+
+Deck Name: Fast Eddie
+
+Crypt (12 cards, min=7, max=17, avg=3)
+--------------------------------------
+3x Jackie                        3  DEM                          Malkavian antitribu:4
+2x Midget                        3  DEM obf pre                  Malkavian antitribu:3
+2x Eddie Gaines                  1  dem pot                      Caitiff:3
+1x Apache Jones                  5  DEM aus for obf              Malkavian antitribu:4
+1x Persia, The Beautiful Statue  5  DEM aus obf                  Malkavian:3
+1x Fabrizia Contreraz            4  dem pot          archbishop  Malkavian antitribu:4
+1x Marta                         3  aus dem                      Malkavian antitribu:4
+1x Cassandra Langely, The Waif   2  dem                          Malkavian:4
+
+Library (74 cards)
+Master (14; 5 trifle)
+5x Agent of Power
+4x Dementation
+3x Kaymakli Nightmares
+2x Pentex(TM) Subversion
+
+Action (26)
+26x Kindred Spirits
+
+Action Modifier (28)
+16x Confusion
+10x Eyes of Chaos
+2x Mind Tricks
+
+Action Modifier/Combat (6)
+6x Deny

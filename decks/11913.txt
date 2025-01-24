@@ -1,0 +1,70 @@
+Italian Tour Trento
+Aldeno (Tn), Italy
+January 11th 2025
+2R+F
+24 players
+Filippo Tomov
+https://www.vekn.net/event-calendar/event/11913
+
+Deck Name: Toreador nuovo ashur g67
+Author: Phill
+
+Crypt (12 cards, min=19, max=35, avg=6.83)
+------------------------------------------
+3x Diana Iadanza     9  AUS CEL FOR PRE  justicar  Toreador:7
+2x Catalina Vega     8  AUS CEL PRE for  prince    Toreador:6
+2x Flávio Gonçalves  7  CEL PRE aus for  prince    Toreador:6
+2x Mkhokheli         6  PRE aus cel for  prince    Toreador:6
+1x Maila             6  AUS PRE cel      primogen  Toreador:6
+1x Silvian Popescu   4  PRE cel                    Toreador:7
+1x Valentina Osako   3  PRE                        Toreador:7
+
+Library (90 cards)
+Master (28; 6 trifle)
+1x Art Museum
+6x Ashur Tablets
+1x Camarilla Conclave
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Papillon
+2x Parthenon, The
+2x Protected Resources
+7x Toreador Grand Ball
+6x Villein
+
+Action (3)
+1x Entrancement
+2x Third Tradition: Progeny
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Political Action (18)
+1x Anarchist Uprising
+1x Banishment
+2x Camarilla's Iron Fist
+2x Consanguineous Boon
+2x Conservative Agitation
+6x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (20)
+1x Aire of Elation
+2x Awe
+3x Bewitching Oration
+4x Forced March
+1x Freak Drive
+4x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Reaction (4)
+4x Scalpel Tongue
+
+Reaction (9)
+1x On the Qui Vive
+2x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (6)
+6x Majesty

@@ -1,0 +1,56 @@
+6th Game of Malkav
+Helsinki, Finland
+January 9th 2025
+2R+F
+10 players
+Tommi Hakomaa
+https://www.vekn.net/event-calendar/event/12005
+
+-- 1GW3 + 1.5vp in final
+
+Deck Name: H AE VE N _ 13
+Author: gotcha
+Description: Shout-out to Bram who is mastermind behind this beautiful pile of red cards. Thank you also to Teemu Sainomaa who made it much easier for me to choose which deck to play.
+
+Crypt (12 cards, min=13, max=24, avg=4.75)
+------------------------------------------
+2x Asguresh                            6  CEL NEC aus                Nagaraja:5
+1x Kalinda                             6  CEL OBF tha      primogen  Assamite:6
+1x Kassandra Tassaki                   6  CEL THA obf      prince    Assamite:6
+1x Khadija Al-Kindi                    6  CEL OBF THA      primogen  Assamite:6
+1x Asmin Kobane                        5  CEL dom obf tha            Assamite:6
+1x Omer                                5  CEL QUI obf                Assamite:6
+1x Bret Stryker                        4  CEL PRE                    Toreador:6
+1x Elen Kamjian                        4  CEL POT                    Brujah:6
+1x Mateusz Kazimirski, Biker of Blood  4  CEL qui                    Assamite:6
+1x Andre LeRoux                        3  aus                        Toreador:5
+1x New Blood                           2  san                        Blood Brother:ANY
+
+Library (90 cards)
+Master (22; 11 trifle)
+9x Ashur Tablets
+1x Bleeding the Vine
+1x Fame
+5x Priority Contract
+6x Villein
+
+Action (12)
+8x Bum's Rush
+2x Clandestine Contract
+2x Harass
+
+Equipment (9)
+9x .44 Magnum
+
+Combat (46)
+5x Blur
+8x Concealed Weapon
+8x Infernal Pursuit
+8x Psyche!
+7x Pursuit
+1x Side Strike
+3x Sideslip
+6x Taste of Vitae
+
+Event (1)
+1x Dragonbound

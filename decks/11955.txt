@@ -1,0 +1,61 @@
+Hungarian NC 2024
+Bduapest, Hungary
+January 26th 2025
+3R+F
+65 players
+Tamás Glied
+https://www.vekn.net/event-calendar/event/11955
+
+-- 1.5VP in final
+
+Deck Name: Vége van kicsi
+
+Crypt (12 cards, min=32, max=43, avg=9.42)
+------------------------------------------
+4x Anson                     8  CEL PRE aus dom          prince        Toreador:1
+1x Alexandra                11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+1x Arika                    11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+1x Leandro                  11  AUS OBF PRE cel dom      inner circle  Malkavian:2
+1x Anneke                   10  AUS CEL PRE dom          justicar      Toreador:1
+1x Democritus               10  DOM PRE aus cel for      justicar      Ventrue:1
+1x Don Cruez, The Idealist  10  CEL POT PRE ani dom pro  justicar      Brujah:1
+1x Queen Anne               10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Emerson Bridges           8  DOM FOR PRE pot          prince        Ventrue:1
+
+Library (90 cards)
+Master (45; 5 trifle)
+9x Ashur Tablets
+2x Camarilla Conclave
+1x Creepshow Casino
+2x Direct Intervention
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+3x Information Highway
+4x Liquidation
+3x Minion Tap
+2x Monastery of Shadows
+1x Papillon
+1x Parthenon, The
+3x Protected Resources
+5x Villein
+7x Zillah's Valley
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancient Influence
+4x Banishment
+3x Camarilla's Iron Fist
+7x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (10)
+6x Perfect Paragon
+4x Voter Captivation
+
+Reaction (11)
+4x Redirection
+7x Second Tradition: Domain
+
+Combat (6)
+6x Majesty

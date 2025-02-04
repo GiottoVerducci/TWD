@@ -1,0 +1,78 @@
+The Legacy of São Paulo
+São Paulo, Brazil
+December 21st 2024
+2R+F
+30 players
+DK Magaji
+https://www.vekn.net/event-calendar/event/11908
+
+-- 2GW7 + 3vp in final
+
+Deck Name: Mil fitas
+Description: Campeão in 2 Tournaments
+Happy birthday cardinal 03/24
+Legacy of SP 12/24
+
+Crypt (13 cards, min=10, max=26, avg=5)
+---------------------------------------
+2x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+2x André the Manipulator  6  FOR PRO                 Gangrel:5
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+1x Anarch Convert         1  -none-                  Caitiff:ANY
+
+Library (90 cards)
+Master (21; 7 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+1x Ecoterrorists
+2x Garibaldi-Meucci Museum
+1x Powerbase: Montreal
+1x Shard, London, The
+2x Smiling Jack, The Anarch
+3x Vessel
+3x Villein
+1x Wider View
+1x Zoo Hunting Ground
+
+Action (12)
+1x Aranthebes, The Immortal
+1x Constant Revolution
+1x Rewilding
+9x Thing
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (2)
+2x Reckless Agitation
+
+Retainer (2)
+1x Mr. Winthrop
+1x Raven Spy
+
+Action Modifier (6)
+3x Earth Control
+3x Monkey Wrench
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (25)
+6x Bait and Switch
+6x Deep Ecology
+6x Eyes of the Wild
+7x Organized Resistance
+
+Combat (18)
+1x Donnybrook
+10x Earth Meld
+7x Form of Mist

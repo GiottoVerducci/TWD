@@ -1,0 +1,82 @@
+Will-o'-the-Wisp
+Leksands-Gråda, Sweden
+January 18th 2025
+3R+F
+13 players
+Kristofer Åkesson
+https://www.vekn.net/event-calendar/event/11938
+
+-- 1GW7 + 4vp in final
+
+Deck Name: * Erlik guns
+
+Crypt (13 cards, min=4, max=40, avg=6)
+--------------------------------------
+5x Erlik            10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+4x Anarch Convert    1  -none-               Caitiff:ANY
+2x Babalawo Alafin   7  AUS FOR NEC ani      Harbinger of Skulls:4
+1x Nicomedes         5  aus for nec vic      Harbinger of Skulls:4
+1x Solomon Batanea   5  AUS FOR nec          Harbinger of Skulls:4
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Carver's Meat Packing and Storage
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Perfectionist
+1x Powerbase: Montreal
+2x Vessel
+1x Villein
+2x Wider View
+
+Action (2)
+1x Divine Sign
+1x Gear Up
+
+Ally (4)
+4x Emerald Legionnaire
+
+Equipment (9)
+6x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (15)
+2x Acheron Vortex
+2x Call of the Hungry Dead
+2x Enkil Cog
+5x Forced March
+2x Freak Drive
+2x Trochomancy
+
+Action Modifier/Combat (2)
+1x Breath of Thanatos
+1x Resist Earth's Grasp
+
+Reaction (24)
+1x Delaying Tactics
+2x Eagle's Sight
+1x Eluding the Arms of Morpheus
+2x Enhanced Senses
+6x Eyes of Argus
+2x Guardian Vigil
+2x My Enemy's Enemy
+3x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (18)
+1x Aura Reading
+4x Concealed Weapon
+6x Diversion
+2x Groundfighting
+2x Target Vitals
+3x Taste of Vitae
+
+Event (1)
+1x FBI Special Affairs Division

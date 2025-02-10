@@ -1,0 +1,71 @@
+Homo Ludicus Sanguinus - Piauiense 2025
+Teresina, Brazil
+February 9th 2025
+2R+F
+12 players
+Thyago Oliveira Carvalho
+https://www.vekn.net/event-calendar/event/11927
+
+-- 3vp in final
+
+Deck Name: Só cachorro chato (Only Annoying Dogs)
+
+Description: Barai de fazer zuada e deixar os outros nervoso. (Deck to make noise and make another people nervous)
+
+Crypt (12 cards, min=16, max=26, avg=5.5)
+-----------------------------------------
+2x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+2x André the Manipulator  6  FOR PRO                 Gangrel:5
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Ecoterrorists
+1x Garibaldi-Meucci Museum
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+3x Vessel
+2x Villein
+1x Wider View
+1x Zoo Hunting Ground
+
+Action (14)
+1x Aranthebes, The Immortal
+2x Army of Rats
+1x Constant Revolution
+10x Thing
+
+Retainer (2)
+1x Mr. Winthrop
+1x Raven Spy
+
+Action Modifier (5)
+3x Earth Control
+2x Monkey Wrench
+
+Action Modifier/Reaction (5)
+5x Form of the Bat
+
+Reaction (28)
+5x Bait and Switch
+9x Deep Ecology
+9x Organized Resistance
+5x Protection Racket
+
+Combat (16)
+2x Donnybrook
+10x Earth Meld
+4x Form of Mist

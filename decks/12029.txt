@@ -1,0 +1,65 @@
+The 29th Disciplines of VTES
+Online
+January 17th 2025 -- 09 February 2025,
+3R+F
+33 players
+Marcin Zakrzewski
+https://www.vekn.net/event-calendar/event/12029
+
+-- 4VP in final
+
+Deck Name: Thucimia dives into glory
+
+Crypt (12 cards, min=16, max=40, avg=7.17)
+------------------------------------------
+6x Thucimia                      10  CEL DEM OBF QUI for pro  1 vote  Assamite:4
+2x Apache Jones                   5  DEM aus for obf                  Malkavian antitribu:4
+2x Midget                         3  DEM obf pre                      Malkavian antitribu:3
+1x Luc                            5  OBF dem vic                      Malkavian antitribu:4
+1x Persia, The Beautiful Statue   5  DEM aus obf                      Malkavian:3
+
+Library (90 cards)
+Master (11; 5 trifle)
+3x Dabbler
+2x Direct Intervention
+4x Secure Haven
+2x Wash
+
+Action (18)
+3x Dive into Madness
+3x Khabar: Glory
+7x Kindred Spirits
+5x Loss
+
+Equipment (2)
+2x Learjet
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (46)
+6x Confusion
+6x Deed the Heart's Desire
+3x Elder Impersonation
+5x Enkil Cog
+5x Eyes of Chaos
+3x Faceless Night
+5x Forced March
+6x Freak Drive
+6x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (4)
+1x Deny
+3x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Touch of Clarity
+
+Reaction (2)
+2x Confusion of the Eye
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Scourge of the Enochians

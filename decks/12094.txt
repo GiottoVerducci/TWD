@@ -1,0 +1,70 @@
+A pipa do matusa nao sobe mais
+Vila Velha, Brazil
+February 8th 2025
+2R+F
+12 players
+Eric Procopio
+https://www.vekn.net/event-calendar/event/12094
+
+-- 1GW3 + 3vp in final
+
+Deck Name: Nehemiah Shenanigans
+
+Crypt (12 cards, min=34, max=44, avg=9.5)
+-----------------------------------------
+4x Nehemiah                9  POT PRE SER TEM obt      2 votes       True Brujah:4
+1x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+1x Malgorzata              9  AUS DOM THA VIC pre      priscus       Tremere antitribu:4
+1x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
+1x Stavros                 7  AUS OBF PRE dem          priscus       Malkavian antitribu:4
+
+Library (82 cards)
+Master (15; 5 trifle)
+1x Dark Influences
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Heidelberg Castle, Germany
+1x Information Highway
+1x Monastery of Shadows
+1x Perfectionist
+1x Protected Resources
+1x Tabriz Assembly
+5x Villein
+
+Action (9)
+9x Summon History
+
+Equipment (5)
+1x Ankara Citadel, Turkey, The
+2x Changeling Skin Mask
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+2x Banishment
+2x Camarilla's Iron Fist
+7x Kine Resources Contested
+1x Neonate Breach
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (30)
+4x Awe
+3x Elder Impersonation
+3x Faceless Night
+5x Forgotten Labyrinth
+4x Lost in Crowds
+4x Tangle Atropos' Hand
+7x Voter Captivation
+
+Reaction (1)
+1x Rewind Time
+
+Combat (6)
+6x Majesty

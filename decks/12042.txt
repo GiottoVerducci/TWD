@@ -1,0 +1,81 @@
+Liga GL/PT 24/25 – Almada
+Almada, Setúbal, Portugal
+February 8th 2025
+3R+F
+18 players
+Paul Direktor
+https://www.vekn.net/event-calendar/event/12042
+
+-- 2GW 7VP in preliminary, 3VPs in final
+
+Deck Name: How Martin would play Arika
+Author: Paul Direktor
+Description:
+This deck is strongly inspired by Martin Weinmayer’s latest TWD from the 28th of December 2024, 30th Stanislava. I adapted this horrendous master module to fit Arika.  Three direct interventions were maybe a bit excessive and I am unsure if the voter captivation is really necessary. The strong sides of this deck are its durability, especially in the early game. The key to this deck is to just wait and build your board, getting key actions through at the right time.
+
+After 3 games, we had the following situation:
+
+Arika (me) -> Malkav DEM bleed -> Kyasid Bleed -> Mambo Jeanne Rush -> Lasombra V5 bleed
+
+As the top seed, I made the choice to sit as far away from Mambo Jeanne as possible. My game plan was to wait until the first oust happens and try to support my oust by deflecting bleeds from the Lasombra.
+The Kyasid bleed deck died pretty quickly to the DEM bleed deck, when Mambo Jeanne started torporizing the DEM vampires. I managed to keep my prey low on pool, keeping him from running away with the table. My predator has been bleeding for one for most of the game, not drawing any bleed increase. Eating up most of the bleeds, liquidations and ashur kept my pool in order. Bringing out Queen Anne first (2nd spot), an early enkil cog proved very efficient in keeping up the pressure on my prey.
+
+The key moment in the game happened after an hour: Mambo Jeanne was on 3 pool and lunging for the oust, but was one freak drive short of the VP and died one turn later. I decided to let my prey kill Mambo, since I thought that I have worse chances in a 1v1 against him. I quickly killed the DEM bleeder and my predator, the Lasombra bleed deck, was on 4 pool and low on blood. After one banishment and one bleed the game was done. 1GW 3VPs.
+
+Crypt (12 cards, min=38, max=44, avg=10.25)
+-------------------------------------------
+5x Arika             11  DOM FOR OBF PRE aus cel  inner circle  Ventrue:2
+3x Lucinde, Alastor  10  DOM FOR PRE obf pot tha  justicar      Ventrue:3
+2x Queen Anne        10  DOM FOR PRE aus obf      prince        Ventrue:2
+1x Marcus Vitel      10  DOM FOR OBF OBT PRE      prince        Ventrue:3
+1x Gratiano           8  DOM OBT obf pot          priscus       Lasombra:2
+
+Library (90 cards)
+Master (42; 1 trifle)
+12x Ashur Tablets
+1x Bleeding the Vine
+1x Camarilla Conclave
+3x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+7x Liquidation
+1x Metro Underground
+1x Minion Tap
+1x Monastery of Shadows
+1x Papillon
+7x Parthenon, The
+1x Secure Haven
+1x Ventrue Headquarters
+1x Wider View
+
+Action (6)
+1x Dominate Kine
+5x Govern the Unaligned
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (9)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+2x Camarilla's Iron Fist
+1x Political Stranglehold
+1x Reins of Power
+1x Rumors of Gehenna
+
+Action Modifier (19)
+2x Conditioning
+2x Enkil Cog
+4x Forgotten Labyrinth
+7x Freak Drive
+3x Lost in Crowds
+1x Voter Captivation
+
+Reaction (11)
+7x Deflection
+4x Obedience
+
+Combat (2)
+2x Majesty

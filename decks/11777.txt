@@ -1,0 +1,78 @@
+Anarchist Uprising - North American Cup Event
+OrcCon 2025, Los Angeles, California, USA
+February 16th 2025
+2R+F
+17 players
+Mark Jasper
+https://www.vekn.net/event-calendar/event/11777
+
+Deck Name: Unmada Dabbles in Interior Decor
+Description:
+This is a deck I’ve been playing with and tweaking for a while. It’s a stealth bleed deck with lots of anti-bounce (Revelations, Touch of Clarity, and Soul Decoration) and multi-discipline cards to maximize the use of all six of Unmada’s disciplines (he can play Forced March!) and get extra actions or blood for him with Dabbler. This deck really flows. Unmada's ability is just amazing for cycling through and getting the needed Villeins, stealth, Enkil Cog, and a Dabbler every game. I often get close to or completely through the 90 cards. Madman’s Quill is perfect for Dabbler. If anybody tries to block it as a bleed you can trigger Dabbler with a obfuscate stealth card or play Changeling for an additional bleed if nobody blocks. 3 Disciplines used either way. It needs someone to block it at superior, but if not, you can likely play Forced March to unlock and just get a blood from Dabbler instead. There used to be more Soul Decorations and a Hide the Mind or two for canceling Auspex bounces/intercepts, but with current meta having way less big eyeballs, I removed the Hide the Mind and reduced the Soul Decorations to 2 copies. There is a decent package of reactions to bounce or reduce bleeds or fail a vote with superior Wrong and Crosswise. I failed 2 votes in the first round when I drew both copies of them early.
+
+Crypt (13 cards, min=18, max=40, avg=6.92)
+------------------------------------------
+5x Unmada               10  AUS DEM OBF VIC cel for  justicar  Malkavian:5
+2x Drusilla Euphemia     6  AUS OBF dem vic                    Malkavian antitribu:4
+2x Arthur Denholm        5  AUS DEM obf                        Malkavian:5
+1x Apache Jones          5  DEM aus for obf                    Malkavian antitribu:4
+1x Luc                   5  OBF dem vic                        Malkavian antitribu:4
+1x Beauregard Krueller   4  aus dem obf                        Malkavian antitribu:4
+1x Sean Rycek            4  aus dem                            Malkavian:4
+
+Library (90 cards)
+Master (19; 10 trifle)
+1x Anarch Troublemaker
+3x Dabbler
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Metro Underground
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Secure Haven
+6x Villein
+1x Wider View
+
+Action (14)
+2x Call, The
+8x Madman's Quill
+2x Revelations
+2x Soul Decoration
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (1)
+1x Anarchist Uprising
+
+Action Modifier (30)
+4x Changeling
+2x Cloak the Gathering
+3x Confusion
+2x Elder Impersonation
+2x Enkil Cog
+2x Eyes of Chaos
+2x Faceless Night
+5x Forced March
+6x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Touch of Clarity
+
+Reaction (15)
+5x Eyes of Argus
+2x My Enemy's Enemy
+1x On the Qui Vive
+5x Telepathic Misdirection
+2x Wrong and Crosswise
+
+Combat (4)
+4x Meld with the Land

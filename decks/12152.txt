@@ -1,0 +1,81 @@
+Midnight Sun
+Rio de Janeiro (RJ), Brazil
+March 8th 2025
+2R+F
+25 players
+Itamar G. Jr.
+https://www.vekn.net/event-calendar/event/12152
+
+-- 4vp in final
+
+Final Table: Anneke Wall > Malk Dem > Tzi V5/Living Manse > Ravnos V5  > Ministry Wall
+
+Deck Name: Ravnos Bleed&Stealth&Zarapathasura
+
+Crypt (12 cards, min=14, max=32, avg=5.67)
+------------------------------------------
+4x Sreelekha             8  ANI FOR OBF PRE  Ravnos:7
+1x Doc Martina           6  ANI OBF for pre  Ravnos:7
+1x Roberto Rivamonte     6  ANI OBF PRE      Ravnos:7
+1x Gathii                5  ANI PRE obf      Ravnos:7
+1x Phaibun               5  OBF PRE ani      Ravnos:7
+1x Jean-François         4  ani obf pre      Ravnos:7
+1x Zafira                4  PRE obf          Ravnos:7
+1x "Coach" Tyrone Soros  3  obf pre          Follower of Set:6
+1x Oleg Kaprizov         3  obf pre          Ravnos:7
+
+Library (90 cards)
+Master (18; 4 trifle)
+1x Anarch Railroad
+2x Archon Investigation
+1x Barrens, The
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Fortune Teller Shop
+1x Fragment of the Book of Nod
+1x Garibaldi-Meucci Museum
+1x Marrakesh Codex, The
+1x Park Hunting Ground
+1x Pentex(TM) Subversion
+1x Secure Haven
+4x Vessel
+1x Week of Nightmares
+
+Action (19)
+1x Blithe Acceptance
+15x Break the Bonds
+1x Entrancement
+2x Heart of the City
+
+Equipment (3)
+1x Anarch Manifesto, An
+1x Shilmulo Tarot
+1x Treasured Samadji
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Marijava Ghoul
+
+Action Modifier (23)
+3x Cloak the Gathering
+3x Elder Impersonation
+4x Lost in Crowds
+2x Memory Rift
+2x Spying Mission
+4x Veil the Legions
+5x Visions of Gehenna
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (11)
+5x Guard Dogs
+6x Visions of Zapathasura
+
+Combat (8)
+4x Majesty
+4x Voracious Vermin
+
+Event (2)
+1x Narrow Minds
+1x Scourge of the Enochians

@@ -1,0 +1,71 @@
+Praxis Seizure: Alboraia
+Valenciana, Spain
+March 9th 2025
+3R+F
+25 players
+Jose Vicente Coll
+https://www.vekn.net/event-calendar/event/12124
+
+-- 1.5vp in final
+
+Deck Name: Last Dance v2.0
+
+Crypt (12 cards, min=31, max=37, avg=8.58)
+------------------------------------------
+4x Diana Iadanza        9  AUS CEL FOR PRE          justicar  Toreador:7
+2x Annabelle Triabell   9  AUS CEL PRE dom for      primogen  Toreador:6
+2x Marcos Belegrad      8  AUS CEL PRE ani          prince    Toreador:7
+1x François Villon     10  AUS CEL PRE ani obf pot  prince    Toreador:6
+1x Catalina Vega        8  AUS CEL PRE for          prince    Toreador:6
+1x Modius               8  AUS CEL PRE obf          prince    Toreador:7
+1x Flávio Gonçalves     7  CEL PRE aus for          prince    Toreador:6
+
+Library (90 cards)
+Master (16; 8 trifle)
+1x Anarch Troublemaker
+1x Art Museum
+1x Camarilla Conclave
+1x Coven, The
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+6x Villein
+1x Wider View
+
+Action (5)
+4x Enchant Kindred
+1x Entrancement
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (18)
+1x Anarchist Uprising
+1x Banishment
+4x Camarilla's Iron Fist
+1x Expulsion
+4x Kine Resources Contested
+7x Parity Shift
+
+Action Modifier (21)
+3x Aire of Elation
+2x Bewitching Oration
+2x Daring the Dawn
+4x Forced March
+5x Loup
+5x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (14)
+3x Eyes of Argus
+3x On the Qui Vive
+8x Telepathic Misdirection
+
+Combat (9)
+9x Majesty

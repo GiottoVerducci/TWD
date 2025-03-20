@@ -1,0 +1,61 @@
+Forced March: Pittsburgh
+Pittsburgh (PA), USA
+March 2nd 2025
+2R+F
+14 players
+Ben Peal
+https://www.vekn.net/event-calendar/event/12083
+
+Deck Name: Do A Thing
+Created by: Karl Schaefer
+Description: Shout out to Sergio Martins who help cut an early version down, removing some bloat.
+
+Crypt (12 cards, min=12, max=25, avg=4.75)
+------------------------------------------
+2x Casey Snyder      6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén             6  ANI PRO          baron  Gangrel:6
+1x Massimiliano      7  ANI FOR pro      baron  Gangrel:6
+1x Kamile Paukstys   5  PRO ani for             Gangrel:6
+1x Mickey Wheeler    5  ani cel for pro         Gangrel:6
+1x Hanna Nokelainen  4  ani for pro             Gangrel:6
+1x Nathan Turner     4  PRO ani                 Gangrel:6
+1x Indira            3  PRO                     Gangrel:6
+1x Joaquín de Cádiz  3  for pro                 Gangrel:6
+1x Ruslan Fedorenko  2  pro                     Gangrel:6
+
+Library (69 cards)
+Master (16; 4 trifle)
+1x Archon Investigation
+4x Ashur Tablets
+1x Carfax Abbey
+1x Club Illusion
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Pentex(TM) Subversion
+4x Villein
+
+Action (20)
+2x Rewilding
+18x Thing
+
+Action Modifier (1)
+1x Monkey Wrench
+
+Action Modifier/Reaction (6)
+6x Form of the Bat
+
+Reaction (15)
+7x Bait and Switch
+2x Deep Ecology
+2x Delaying Tactics
+1x Eyes of the Wild
+1x On the Qui Vive
+2x Organized Resistance
+
+Combat (11)
+3x Donnybrook
+2x Earth Meld
+2x Flesh of Marble
+4x Form of Mist

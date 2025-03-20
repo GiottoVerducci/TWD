@@ -1,0 +1,76 @@
+Tampere Fee Stake: Boonuspannu
+Tampere, Finland
+March 1st 2025
+3R+F
+15 players
+Peitsa Suominen
+Organizer: Joel Tikkala
+https://www.vekn.net/event-calendar/event/11789
+
+Deck Name: Death by a 1000 cuts: We have Thing at home
+Description: Throw cards at table and see what happens.
+Thanks to Bram for the basic idea of the deck, I made it fit my hand after and with testing in online tourney I decided to throw opium den out and add 2nd club illusions which was so crucial in this tourney, drew it early in each game which made the job so much smoother.
+
+Crypt (12 cards, min=13, max=21, avg=4.33)
+------------------------------------------
+1x Elisha Tucker         6  PRE cel obf pro  baron  Follower of Set:6
+1x Aluc Romas de Leon    5  PRE aus obf pro         Follower of Set:6
+1x Doctor Morocco        5  PRO cel obf pre         Follower of Set:6
+1x Gathii                5  ANI PRE obf             Ravnos:7
+1x Jenny Silver          5  PRE PRO obf             Follower of Set:6
+1x Phaibun               5  OBF PRE ani             Ravnos:7
+1x Jean-François         4  ani obf pre             Ravnos:7
+1x Marcel                4  obf pre pro             Follower of Set:6
+1x Zafira                4  PRE obf                 Ravnos:7
+1x "Coach" Tyrone Soros  3  obf pre                 Follower of Set:6
+1x Milton Fox            3  pre pro                 Follower of Set:6
+1x Oleg Kaprizov         3  obf pre                 Ravnos:7
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+2x Club Illusion
+1x Coven, The
+2x Effective Management
+1x Garibaldi-Meucci Museum
+1x Pentex(TM) Subversion
+3x Villein
+1x Wash
+1x Week of Nightmares
+
+Action (29)
+1x Clotho's Gift
+1x Dream World
+6x Platinum Protocol, The
+21x Undue Influence
+
+Ally (1)
+1x Saatet-ta
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (34)
+1x Cloak the Gathering
+3x CrimethInc.
+1x Faceless Night
+14x Memory Rift
+6x Power of One
+8x Revelation of the Serpent
+1x Spying Mission
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Action Modifier/Reaction (1)
+1x Gift of Sleep
+
+Reaction (6)
+6x Party Out Of Bounds
+
+Combat (2)
+2x Majesty
+
+Event (1)
+1x Narrow Minds

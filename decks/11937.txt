@@ -1,0 +1,57 @@
+Redemption Tournament
+Modena, (Mo), Italy
+March 2nd 2025
+2R+F
+45 players
+Laurent Ribeyre
+https://www.vekn.net/event-calendar/event/11937
+
+Deck Name: Dogs of War
+Author: Marcin Szybkowski
+
+Crypt (12 cards, min=10, max=22, avg=3.83)
+------------------------------------------
+2x Miguel Santo Domingo  7  POT PRE cel for  Brujah antitribu:3
+2x Jacob Bragg           3  cel pot          Brujah antitribu:2
+2x Sarah Brando          3  CEL              Brujah antitribu:2
+2x Frederick the Weak    2  pre              Brujah antitribu:2
+1x Evangeline            4  cel pot pre      Brujah antitribu:2
+1x Hugo                  4  POT pre vic      Brujah antitribu:2
+1x Mariano Pomposo       4  aus cel pot      Brujah antitribu:3
+1x Victor Tolliver       4  CEL pot          Brujah antitribu:2
+
+Library (74 cards)
+Master (11; 3 trifle)
+1x Archon Investigation
+1x Black Forest Base
+1x Coven, The
+1x Hungry Coyote, The
+1x Information Highway
+2x Not to Be
+2x Waste Management Operation
+2x Wider View
+
+Action (8)
+8x Embrace, The
+
+Equipment (10)
+10x Saturday-Night Special
+
+Political Action (19)
+6x Consanguineous Boon
+1x Crusade: Atlanta
+1x Crusade: Detroit
+1x Crusade: Pittsburgh
+1x Crusade: Rome
+1x Crusade: Toronto
+5x Dogs of War
+1x Domain Challenge
+2x Kine Resources Contested
+
+Action Modifier/Reaction (10)
+10x Unexpected Coalition
+
+Combat (16)
+1x Amaranth
+7x Concealed Weapon
+8x Dragon's Breath Rounds

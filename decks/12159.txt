@@ -1,0 +1,62 @@
+Welcome Hecata 2025
+Online
+March 9th 2025
+2R+F
+26 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/12159
+
+Deck Name: The Endless Dance
+
+Crypt (12 cards, min=27, max=37, avg=8.17)
+------------------------------------------
+5x Diana Iadanza      9  AUS CEL FOR PRE          justicar  Toreador:7
+1x François Villon   10  AUS CEL PRE ani obf pot  prince    Toreador:6
+1x Catalina Vega      8  AUS CEL PRE for          prince    Toreador:6
+1x Marcos Belegrad    8  AUS CEL PRE ani          prince    Toreador:7
+1x Modius             8  AUS CEL PRE obf          prince    Toreador:7
+1x Flávio Gonçalves   7  CEL PRE aus for          prince    Toreador:6
+1x Maila              6  AUS PRE cel              primogen  Toreador:6
+1x Mkhokheli          6  PRE aus cel for          prince    Toreador:6
+
+Library (90 cards)
+Master (20; 4 trifle)
+2x Camarilla Conclave
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Elder Library
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+1x Jake Washington
+1x Life Boon
+2x Monastery of Shadows
+2x Papillon
+2x Toreador Grand Ball
+4x Villein
+
+Equipment (4)
+2x Bowl of Convergence
+2x Heart of Nizchetus
+
+Political Action (14)
+2x Anarchist Uprising
+2x Ancilla Empowerment
+2x Camarilla's Iron Fist
+7x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (20)
+4x Aire of Elation
+6x Forced March
+4x Loup
+4x Perfect Paragon
+2x Voter Captivation
+
+Reaction (16)
+4x Eyes of Argus
+4x Second Tradition: Domain
+8x Telepathic Misdirection
+
+Combat (16)
+8x Charismatic Aura
+8x Majesty

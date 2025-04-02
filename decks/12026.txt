@@ -1,0 +1,49 @@
+Gulf Coast Roast - North American Cup
+Arlington (TX), USA
+March 23rd 2025
+3R+F
+15 players
+Matt Hodsdon
+https://www.vekn.net/event-calendar/event/12026
+
+-- 1GW5 + 5vp in final
+
+Deck Name: Haqim's Law: Bastardization
+
+Crypt (12 cards, min=10, max=24, avg=4.33)
+------------------------------------------
+2x Kalinda                 6  CEL OBF tha      primogen  Assamite:6
+2x Adisa                   3  cel obf                    Assamite:6
+2x Alu                     2  obf                        Assamite:5
+1x Flavia, Avenging Angel  6  CEL OBF QUI                Assamite:6
+1x Khadija Al-Kindi        6  CEL OBF THA      primogen  Assamite:6
+1x Asmin Kobane            5  CEL dom obf tha            Assamite:6
+1x Wise Frog               5  OBF aus cel qui            Assamite:6
+1x Arjun Shah              4  THA obf                    Assamite:6
+1x Greg Mazouni            4  cel obf tha                Assamite:6
+
+Library (90 cards)
+Master (13; 1 trifle)
+12x Haqim's Law: Retribution
+1x Priority Contract
+
+Action (8)
+4x Computer Hacking
+4x Khabar: Glory
+
+Action Modifier (16)
+3x Elder Impersonation
+1x Leverage
+5x Marked Path
+2x Old Friends
+5x Spying Mission
+
+Action Modifier/Combat (47)
+3x Hide the Mind
+20x Resist Earth's Grasp
+24x Swallowed by the Night
+
+Combat (6)
+3x Infernal Pursuit
+2x No Trace
+1x Twisting the Knife

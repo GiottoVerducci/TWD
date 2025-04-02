@@ -1,0 +1,94 @@
+Taste of Vitae
+Escondido, California, United States
+March 15th 2025
+2R+F
+12 players
+Ian Lee
+https://www.vekn.net/event-calendar/event/12109
+
+-- 1GW4 + 1.5 in final
+
+Deck Name: Promise of 619
+Description:
+Not to dis 760 or 442; let's say the energy of 619.  Way too dependent upon bouncing bleeds to get VPs.  Will not suit a lot of players' styles.  No point in coming up with ideas on how to change the deck.  Better to just not play it, though Yavu's ability is not ... quite ... as bad as I thought it was.
+
+Crypt (12 cards, min=6, max=35, avg=5.25)
+-----------------------------------------
+3x Guillaume Giovanni  9  CEL DOM NEC POT obt  Giovanni:4
+3x Tupdog              1  POT VIS              Gargoyle:3
+1x Yavu Matebo         8  AUS DOM NEC abo      Nagaraja:4
+1x Gualtiero Ghiberti  7  DOM NEC cel pot tha  Giovanni:4
+1x Raphaela Giovanni   6  DOM NEC pot pre      Giovanni:4
+1x Margaret Milliner   5  dom for nec pot pre  Giovanni:4
+1x Primo Giovanni      4  dom nec pot          Giovanni:4
+1x Lia Milliner        3  dom nec              Giovanni:3
+
+Library (90 cards)
+Master (22; 5 trifle)
+1x Barrens, The
+2x Blood Doll
+2x Direct Intervention
+1x Dis Pater
+1x Dummy Corporation
+1x Heidelberg Castle, Germany
+1x Information Highway
+1x Insurance Scam
+1x Jake Washington
+1x Metro Underground
+1x Necromancy
+1x Parthenon, The
+1x Pentex(TM) Subversion
+1x Powerbase: Cape Verde
+1x Rack, The
+1x Vessel
+4x Villein
+
+Action (10)
+1x Computer Hacking
+1x Dominate Kine
+1x Grasp the Ghostly
+1x Jar the Soul
+4x Scouting Mission
+2x Sudario Refraction
+
+Ally (2)
+1x Carlton Van Wyk
+1x Leonardo, Mortician
+
+Equipment (3)
+1x Gran Madre di Dio, Italy
+1x Palatial Estate
+1x Sacré-Cœur Cathedral, France
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (12)
+4x Bonding
+5x Call of the Hungry Dead
+1x Leverage
+1x Seduction
+1x Sleeping Mind, The
+
+Action Modifier/Combat (1)
+1x Breath of Thanatos
+
+Action Modifier/Reaction (8)
+1x Murmur of the False Will
+2x Promise of 1528
+5x Spectral Divination
+
+Reaction (19)
+5x Deflection
+2x Delaying Tactics
+1x Eluding the Arms of Morpheus
+2x Obedience
+7x On the Qui Vive
+2x Redirection
+
+Combat (11)
+2x Blight
+2x Roundhouse
+1x Spiritual Guidance
+6x Spiritual Intervention

@@ -1,0 +1,50 @@
+Gulf Coast Roast - Dallas Grand Prix Event
+Arlington (TX), USA
+March 22nd 2025
+3R+F
+16 players
+Destyn Bowers
+https://www.vekn.net/event-calendar/event/12018
+
+-- 1GW4 + 3vp in final
+
+Deck Name: Anamilism Fun!!
+
+Crypt (12 cards, min=19, max=28, avg=5.92)
+------------------------------------------
+2x Massimiliano       7  ANI FOR pro          baron  Gangrel:6
+2x Doc Martina        6  ANI OBF for pre             Ravnos:7
+1x Keegan             8  ANI FOR PRO aus cel         Gangrel:6
+1x Kuyén              6  ANI PRO              baron  Gangrel:6
+1x Luciano Carvalho   6  ANI OBF pre                 Ravnos:7
+1x Martina Srnankova  6  FOR PRO ani                 Gangrel:6
+1x Roberto Rivamonte  6  ANI OBF PRE                 Ravnos:7
+1x Gathii             5  ANI PRE obf                 Ravnos:7
+1x Whisper            5  ANI DOM pro                 Tzimisce:6
+1x Trung Chau Pham    3  ANI                         Ravnos:7
+
+Library (90 cards)
+Master (7; 4 trifle)
+2x Dreams of the Sphinx
+1x Metro Underground
+4x Villein
+
+Action (23)
+1x Army of Rats
+20x Deep Song
+2x Tier of Souls
+
+Retainer (3)
+3x Raven Spy
+
+Action Modifier (15)
+3x Adhocracy
+12x Ni Dieu ni Maître
+
+Combat (42)
+19x Aid from Bats
+9x Carrion Crows
+2x Conquer the Beast
+3x Drawing Out the Beast
+4x Pack Alpha
+5x Taste of Vitae

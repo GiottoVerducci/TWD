@@ -1,0 +1,71 @@
+Howler Stockholm 2025
+Stockholm, Sweden
+March 22nd 2025
+3R+F
+19 players
+Tomas Wallmur winner
+https://www.vekn.net/event-calendar/event/12145
+
+-- 3vp in final
+
+Deck Name: The Dark
+Author: Ivan Marin-Rivas
+https://vdb.im/decks/49bf2ca7
+
+Crypt (12 cards, min=36, max=40, avg=9.67)
+------------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+4x Angelica, The Canonicus                 10  DOM OBT POT cel obf      cardinal    Lasombra:2
+1x Ayelea, The Manipulator                 10  AUS DOM OBT THA pre      cardinal    Tremere antitribu:2
+1x Antonio Delgado                          9  DOM OBT POT tha          archbishop  Lasombra:2
+1x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+1x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+
+Library (82 cards)
+Master (34; 9 trifle)
+6x Ashur Tablets
+1x Black Forest Base
+1x Coven, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+2x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+2x Parthenon, The
+1x Power Structure
+7x Villein
+1x Wider View
+7x Zillah's Valley
+
+Action (2)
+2x Govern the Unaligned
+
+Political Action (9)
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+1x Conservative Agitation
+3x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (23)
+5x Amici Noctis
+1x Bewitching Oration
+1x Conditioning
+1x Enkil Cog
+1x Freak Drive
+4x Private Audience
+4x Shadow Play
+2x Shroud of Absence
+2x Shroud of Night
+2x Voter Captivation
+
+Action Modifier/Reaction (5)
+1x Murmur of the False Will
+4x Ominous Chorus
+
+Reaction (9)
+4x Deflection
+5x Obedience

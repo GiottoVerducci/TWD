@@ -1,0 +1,63 @@
+Torneio Mensal Curitiba
+Curitiba (PR), Brazil
+March 22nd 2025
+2R+F
+10 players
+Rodrigo Guebur
+https://www.vekn.net/event-calendar/event/12161
+
+-- 4vp in final
+
+Deck Name: CoffeeBreak
+
+Crypt (12 cards, min=22, max=32, avg=6.75)
+------------------------------------------
+4x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Octane              6  CEL POT PRE                 Brujah:6
+1x Elen Kamjian        4  CEL POT                     Brujah:6
+
+Library (80 cards)
+Master (19; 8 trifle)
+1x Anarch Free Press, The
+1x Archon Investigation
+1x Carfax Abbey
+2x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x KRCG News Radio
+1x New Carthage
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+2x Vessel
+3x Villein
+1x Warzone Hunting Ground
+2x Wash
+1x Wider View
+
+Action (12)
+1x Constant Revolution
+8x Enchant Kindred
+2x Line Brawl
+1x Open War
+
+Equipment (5)
+5x .44 Magnum
+
+Action Modifier (1)
+1x Monkey Wrench
+
+Reaction (26)
+8x Bait and Switch
+2x Delaying Tactics
+14x Organized Resistance
+2x Protection Racket
+
+Combat (17)
+3x Blur
+5x Concealed Weapon
+2x Dust Up
+5x Psyche!
+2x Taste of Vitae

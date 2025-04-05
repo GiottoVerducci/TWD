@@ -1,0 +1,66 @@
+Torneo del B.I.P (Bleed in Pordenone)
+Pordenone, Italy
+November 19th 2023
+2R+F
+25 players
+Federico Neri
+https://www.vekn.net/event-calendar/event/11030
+
+-- 2GW6 + 1.5vp in final
+
+Deck Name: Gangrel anarch
+
+Crypt (12 cards, min=22, max=32, avg=6.67)
+------------------------------------------
+4x Keegan           8  ANI FOR PRO aus cel         Gangrel:6
+2x Massimiliano     7  ANI FOR pro          baron  Gangrel:6
+2x Casey Snyder     6  PRO ani cel for      baron  Gangrel:6
+2x Kuyén            6  ANI PRO              baron  Gangrel:6
+2x Kamile Paukstys  5  PRO ani for                 Gangrel:6
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Anarch Free Press, The
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Gangrel Revel
+1x Garibaldi-Meucci Museum
+4x Vessel
+1x Wash
+
+Action (15)
+1x Constant Revolution
+3x Gift of Proteus
+2x Rewilding
+1x Ritual Challenge
+1x Skaald
+7x Thing
+
+Retainer (7)
+1x Dog Pack
+6x Raven Spy
+
+Action Modifier (3)
+1x Beast Meld
+2x Monkey Wrench
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (24)
+6x Bait and Switch
+6x Deep Ecology
+4x Eyes of the Wild
+3x Guardian Vigil
+5x Organized Resistance
+
+Combat (23)
+3x Canine Horde
+5x Diversion
+5x Donnybrook
+8x Earth Meld
+2x Form of Mist

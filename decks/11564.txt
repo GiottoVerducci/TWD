@@ -1,0 +1,66 @@
+Faceless Night
+Ephrata (PA), USA
+August 2nd 2024
+2R+F
+12 players
+Bill Troxel
+https://www.vekn.net/event-calendar/event/11564
+
+-- 1GW3 (3rd seed) + 3vp in final
+
+Deck Name: Org Bleed Resistance: More Fun Version
+Description: Added lots of Groundfighting and more Delaying Tactics to this year's NAC-winning deck, along with a little flavor from Sowing Dissension and Dominate Kine.
+
+Crypt (12 cards, min=18, max=32, avg=6.42)
+------------------------------------------
+4x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Kuyén            6  ANI PRO          baron  Gangrel:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Kamile Paukstys  5  PRO ani for             Gangrel:6
+1x New Blood        2  san                     Blood Brother:ANY
+
+Library (90 cards)
+Master (16; 4 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Channel 10
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+2x Villein
+2x Wider View
+
+Action (15)
+2x Deep Song
+1x Dominate Kine
+11x Govern the Unaligned
+1x Sowing Dissension
+
+Political Action (2)
+2x Eat the Rich
+
+Action Modifier (8)
+4x Conditioning
+4x Earth Control
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (25)
+6x Bait and Switch
+5x Deep Ecology
+2x Deflection
+5x Delaying Tactics
+5x Organized Resistance
+2x Protection Racket
+
+Combat (22)
+9x Earth Meld
+8x Form of Mist
+5x Groundfighting

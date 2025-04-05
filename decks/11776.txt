@@ -1,0 +1,60 @@
+Brachah
+Los Angeles (CA), USA
+February 15th 2025
+2R+F
+20 players
+Jason Orman
+https://www.vekn.net/event-calendar/event/11776
+
+Deck Name: Night troubles (Complete)
+
+Crypt (13 cards, min=20, max=31, avg=6.31)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+2x Kamile Paukstys  5  PRO ani for             Gangrel:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Kuyén            6  ANI PRO          baron  Gangrel:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+
+Library (77 cards)
+Master (15; 4 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Library Hunting Ground
+1x Papillon
+4x Villein
+
+Action (10)
+10x Govern the Unaligned
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (2)
+2x Eat the Rich
+
+Action Modifier (7)
+3x Conditioning
+4x Earth Control
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (21)
+5x Bait and Switch
+3x Deep Ecology
+3x Deflection
+2x On the Qui Vive
+8x Organized Resistance
+
+Combat (16)
+2x Donnybrook
+7x Earth Meld
+7x Form of Mist

@@ -1,0 +1,68 @@
+Praxis Seizure: Vila Velja
+Vila Velha, Brazil
+July 17th 2024
+3R+F
+13 players
+Vinicius Costalonga
+https://www.vekn.net/event-calendar/event/11557
+
+-- final table: Parlament of Shadows > Ministry V5 Multi action > Lutz Petra Resonance > Stanislava 25th > Salubri V5 power bleed
+-- 1GW4 + 4vp in final
+
+Deck Name: Wolves of Smokings
+
+Crypt (12 cards, min=34, max=44, avg=9.83)
+------------------------------------------
+4x Stanislava      11  ANI CEL DOM FOR PRO          inner circle  Gangrel:2
+2x Hartmut Stover  10  CEL OBF PRO dom for          archbishop    Gangrel antitribu:3
+2x Xaviar (ADV)    10  ABO ANI FOR PRO aus cel pot  justicar      Gangrel:3
+2x Ingrid Rossler   9  ANI FOR PRO dom              prince        Gangrel:2
+2x Mark Decker      8  CEL PRO ani for obf pot      prince        Gangrel:3
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Backways
+1x Coven, The
+1x Dominate
+1x Ennoia's Theater
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+5x Villein
+5x Zillah's Valley
+
+Action (8)
+8x Govern the Unaligned
+
+Equipment (1)
+1x Seal of Veddartha
+
+Political Action (14)
+1x Ancient Influence
+3x Banishment
+4x Kine Resources Contested
+4x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (18)
+5x Earth Control
+1x Enkil Cog
+3x Forced March
+4x Freak Drive
+5x Instantaneous Transformation
+
+Action Modifier/Combat (3)
+3x Rapid Change
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (14)
+7x Deflection
+4x Eyes of the Wild
+3x Second Tradition: Domain
+
+Combat (10)
+5x Earth Meld
+5x Form of Mist

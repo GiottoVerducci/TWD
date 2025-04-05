@@ -1,0 +1,71 @@
+Looming Shadows
+Mandaluyong, Philippines
+October 12th 2024
+2R+F
+12 players
+Joscar Gamaliel Malacaman
+https://www.vekn.net/event-calendar/event/11768
+
+-- 2GW7 + 4vp in final
+
+Deck Name: Rush-tasuntha
+
+Crypt (12 cards, min=4, max=40, avg=5.17)
+-----------------------------------------
+5x Matasuntha                     10  ANI AUS CEL FOR PRO  Gangrel:5
+4x Anarch Convert                  1  -none-               Caitiff:ANY
+1x Andre LeRoux                    3  aus                  Toreador:5
+1x Béatrice "Oracle171" Tremblay   3  inn ven              Innocent:4
+1x New Blood                       2  san                  Blood Brother:ANY
+
+Library (89 cards)
+Master (16; 5 trifle)
+3x Dreams of the Sphinx
+2x Information Highway
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+3x Villein
+2x Wider View
+4x Zillah's Valley
+
+Conviction (1)
+1x Strike with Conviction
+
+Action (13)
+1x Ambush
+2x Bum's Rush
+4x Deep Song
+1x Harass
+1x Mantle of the Bestial Majesty
+2x Nose of the Hound
+1x Shadow of the Beast
+1x Taunt the Caged Beast
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (2)
+1x Eye of Hazimel
+1x Heart of Nizchetus
+
+Retainer (2)
+2x Dog Pack
+
+Action Modifier (10)
+1x Enkil Cog
+3x Forced March
+3x Freak Drive
+3x Instantaneous Transformation
+
+Reaction (14)
+4x Deep Ecology
+4x Eagle's Sight
+2x Eyes of Argus
+4x Eyes of the Wild
+
+Combat (30)
+9x Diversion
+5x Drawing Out the Beast
+6x Hell-for-Leather
+5x Psyche!
+5x Taste of Vitae

@@ -1,0 +1,50 @@
+Benedito, a Lanterna
+Fortaleza (CE), Brazil
+April 20th 2025
+2R+F
+15 players
+Moacir Júnior
+https://www.vekn.net/event-calendar/event/11973
+
+Deck Name: Appius sem eira nem Meira
+
+Crypt (12 cards, min=26, max=40, avg=8.33)
+------------------------------------------
+5x Appius Claudius Corvus   10  DOM OBT POT cel nec  Lasombra:5
+4x Saul Meira                8  CHI DOM OBT POT      Lasombra:5
+1x Badr, Shadow of Granada   7  DOM OBT POT          Lasombra:5
+1x Onaedo                    6  DOM OBT aus pot      Lasombra:4
+1x Ermenegildo, The Rake     5  DOM OBT pot          Lasombra:4
+
+Library (87 cards)
+Master (22; 12 trifle)
+12x Corporal Reservoir
+1x Elysian Fields
+9x Minion Tap
+
+Action (20)
+10x Descent into Darkness
+9x Govern the Unaligned
+1x Tattoo Signal
+
+Action Modifier (29)
+2x Blanket of Night
+2x Bonding
+3x Conditioning
+3x Enkil Cog
+2x Foreshadowing Destruction
+5x Shadow Play
+5x Shroud of Absence
+5x Shroud of Night
+2x Tenebrous Form
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (8)
+5x Deflection
+3x On the Qui Vive
+
+Combat (7)
+2x Oubliette
+5x Shadow Body

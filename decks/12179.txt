@@ -1,0 +1,54 @@
+Liga Powerbase JF 2025 Abril
+Juiz de Fora (MG), Brazil
+April 3rd 2025 -- 04 April 2025,
+2R+F
+19 players
+Leonardo Villela
+https://www.vekn.net/event-calendar/event/12179
+
+Deck Name: Toreador no carnaval
+
+Crypt (12 cards, min=12, max=22, avg=4.42)
+------------------------------------------
+2x Maila               6  AUS PRE cel      primogen  Toreador:6
+2x Regina Blake        5  AUS PRE                    Toreador:6
+1x Carmelita Neillson  5  AUS cel pre                Toreador:7
+1x Kathy Glens         5  PRE aus cel tha            Toreador:6
+1x Tamoszius           5  CEL PRE aus                Toreador:6
+1x Bret Stryker        4  CEL PRE                    Toreador:6
+1x Silvian Popescu     4  PRE cel                    Toreador:7
+1x Nik Sikko           3  cel pre                    Toreador:6
+1x Valentina Osako     3  PRE                        Toreador:7
+1x Mateo García        2  pre                        Toreador:6
+
+Library (74 cards)
+Master (11; 1 trifle)
+1x Anarch Troublemaker
+1x Art Museum
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Jake Washington
+2x Misdirection
+1x Pentex(TM) Subversion
+1x Society Hunting Ground
+
+Action (21)
+4x Enchant Kindred
+4x Entrancement
+8x Intimidation
+5x Mind Numb
+
+Action Modifier (17)
+9x Aire of Elation
+2x Change of Target
+6x Loup
+
+Reaction (13)
+2x Eyes of Argus
+4x On the Qui Vive
+7x Telepathic Misdirection
+
+Combat (12)
+8x Majesty
+4x Staredown

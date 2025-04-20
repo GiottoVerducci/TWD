@@ -1,0 +1,56 @@
+Powerbase: Lublin
+Lublin, Poland
+October 25th 2014
+3R+F
+15 players
+Kamil Bujnowski
+https://www.vekn.net/event-calendar/event/7843
+
+-- 1GW6 + 4vp in final
+
+Deck Name:   The Presence & Obfuscate Story
+Description:  A terribly complicated deck
+
+Crypt (12 cards, min=16, max=22, avg=4.83)
+------------------------------------------
+2x Axel Von Anders              5  PRE cel obf pot                Brujah antitribu:4
+2x Herbert Westin               5  OBF PRE pot                    Brujah:4
+2x Raphael Catarari             5  OBF PRE aus pot tha            Nosferatu antitribu:4
+2x Renenet                      5  OBF PRE ser                    Follower of Set:4
+2x Midget                       3  DEM obf pre                    Malkavian antitribu:3
+1x Ankh-sen-Sutekh              6  PRE SER obf                    Follower of Set:4
+1x Antoinette, She Who Watches  6  AUS PRE cel obf      primogen  Toreador:3
+
+Library (83 cards)
+Master (12; 4 trifle)
+2x Archon Investigation
+1x Coven, The
+2x Dreams of the Sphinx
+2x Information Highway
+3x Life in the City
+2x Sudden Reversal
+
+Action (22)
+2x Entrancement
+2x Intimidation
+9x Legal Manipulations
+9x Public Trust
+
+Action Modifier (29)
+6x Aire of Elation
+6x Elder Impersonation
+1x Faceless Night
+10x Lost in Crowds
+6x True Love's Face
+
+Action Modifier/Combat (8)
+4x Hide the Mind
+4x Swallowed by the Night
+
+Combat (10)
+2x Disengage
+8x Staredown
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

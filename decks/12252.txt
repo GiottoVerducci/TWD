@@ -1,0 +1,56 @@
+9th Game of Malkav
+Helsinki, Finland
+April 3rd 2025
+2R+F
+10 players
+Lauri Salmi
+https://www.vekn.net/event-calendar/event/12252
+
+-- 1.5vp + 1.5vp in final
+
+Deck Name: Brams little CEL guns
+Author: Lauri Salmi
+Description: Little modified version of Bram Van Stappens Finnish GP 2024 finalist deck. So Credits for The deck go to Him.
+
+Crypt (12 cards, min=16, max=24, avg=5.17)
+------------------------------------------
+2x Asguresh                            6  CEL NEC aus                Nagaraja:5
+1x Flavia, Avenging Angel              6  CEL OBF QUI                Assamite:6
+1x Kalinda                             6  CEL OBF tha      primogen  Assamite:6
+1x Kassandra Tassaki                   6  CEL THA obf      prince    Assamite:6
+1x Khadija Al-Kindi                    6  CEL OBF THA      primogen  Assamite:6
+1x Asmin Kobane                        5  CEL dom obf tha            Assamite:6
+1x Omer                                5  CEL QUI obf                Assamite:6
+1x Bret Stryker                        4  CEL PRE                    Toreador:6
+1x Elen Kamjian                        4  CEL POT                    Brujah:6
+1x Fairuza                             4  CEL pre                    Brujah antitribu:5
+1x Mateusz Kazimirski, Biker of Blood  4  CEL qui                    Assamite:6
+
+Library (90 cards)
+Master (21; 11 trifle)
+9x Ashur Tablets
+1x Fame
+5x Priority Contract
+6x Villein
+
+Action (11)
+8x Bum's Rush
+2x Clandestine Contract
+1x Harass
+
+Equipment (10)
+9x .44 Magnum
+1x Ritual Goblet
+
+Combat (47)
+6x Blur
+8x Concealed Weapon
+8x Infernal Pursuit
+8x Psyche!
+7x Pursuit
+1x Side Strike
+3x Sideslip
+6x Taste of Vitae
+
+Event (1)
+1x Dragonbound

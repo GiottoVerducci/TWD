@@ -1,0 +1,63 @@
+40th clans of vampires
+Online
+March 23rd 2025 -- 15 April 2025,
+3R+F
+48 players
+Ruben Feldman
+https://www.vekn.net/event-calendar/event/12204
+
+-- 3vp in final
+
+Deck Name: Rock, Paper, Torpor
+
+Crypt (24 cards, min=4, max=16, avg=1.67)
+-----------------------------------------
+18x Tupdog        1  POT VIS          Gargoyle:3
+1x  Esoara        5  DOM aus for pot  Tremere antitribu:4
+1x  Janine        4  aus dom tha      Tremere antitribu:4
+1x  Mosfair       4  cel dom tha      Tremere antitribu:4
+1x  Ember Wright  3  aus dom          Tremere antitribu:3
+1x  Keith Moody   3  DOM              Tremere antitribu:4
+1x  Saiz          3  aus dom          Tremere antitribu:3
+
+Library (81 cards)
+Master (15; 3 trifle)
+6x Ashur Tablets
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Information Highway
+1x Jake Washington
+1x Powerbase: Montreal
+1x Villein
+2x Wider View
+
+Action (8)
+1x Arson
+7x Graverobbing
+
+Ally (8)
+1x Ossian
+6x Rock Cat
+1x Vagabond Mystic
+
+Political Action (8)
+1x Ancient Influence
+6x Autarkis Persecution
+1x Mark of the Damned
+
+Action Modifier (5)
+5x As the Crow
+
+Reaction (1)
+1x Deflection
+
+Combat (35)
+6x Brick by Brick
+4x Disarm
+10x Immortal Grapple
+9x Raking Talons
+5x Roundhouse
+1x Stonestrength
+
+Event (1)
+1x Dragonbound

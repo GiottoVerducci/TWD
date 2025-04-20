@@ -1,0 +1,53 @@
+Long Night at The Hungry Coyote
+Louisville (KY), USA
+April 12th 2025
+2R+F
+14 players
+Erik Albenze
+https://www.vekn.net/event-calendar/event/12189
+
+Deck Name: G7 Ravnos animalism
+Description: G7 Ravnos with no break the bonds or platinum protocol. A 'bold choice' per Mark Loughman.
+
+Crypt (12 cards, min=18, max=30, avg=5.92)
+------------------------------------------
+3x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+3x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+3x Gathii             5  ANI PRE obf      Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Trung Chau Pham    3  ANI              Ravnos:7
+
+Library (90 cards)
+Master (11; 4 trifle)
+3x Blood Doll
+1x Club Illusion
+2x Direct Intervention
+2x Villein
+1x Week of Nightmares
+2x Wider View
+
+Action (10)
+10x Deep Song
+
+Action Modifier (16)
+4x Elder Impersonation
+4x Lost in Crowds
+8x Visions of Gehenna
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (23)
+4x Cats' Guidance
+4x Guard Dogs
+4x On the Qui Vive
+3x Party Out Of Bounds
+4x Protection Racket
+4x Visions of Zapathasura
+
+Combat (26)
+10x Aid from Bats
+8x Carrion Crows
+4x Target Vitals
+4x Taste of Vitae

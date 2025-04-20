@@ -1,0 +1,68 @@
+Torneio Daring the Dawn CG
+Campina Grande (PB), Brazil
+April 13th 2025
+2R+F
+10 players
+Maycon Alves
+https://www.vekn.net/event-calendar/event/12289
+
+-- 3vp in final
+
+Deck Name: Ravnos Bleed
+
+Crypt (12 cards, min=12, max=28, avg=5)
+---------------------------------------
+2x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+1x Gathii             5  ANI PRE obf      Ravnos:7
+1x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+1x Trung Chau Pham    3  ANI              Ravnos:7
+1x Roy                2  obf              Ravnos:7
+
+Library (74 cards)
+Master (14; 4 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+2x Blood Doll
+1x Club Illusion
+2x Dabbler
+1x Fortune Teller Shop
+1x Garibaldi-Meucci Museum
+1x Park Hunting Ground
+1x Powerbase: Los Angeles
+2x Villein
+1x Week of Nightmares
+
+Action (16)
+16x Break the Bonds
+
+Equipment (1)
+1x Treasured Samadji
+
+Action Modifier (21)
+4x Cloak the Gathering
+3x Elder Impersonation
+2x Faceless Night
+5x Lost in Crowds
+1x Veil the Legions
+6x Visions of Gehenna
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (9)
+2x Night Terrors
+2x On the Qui Vive
+5x Visions of Zapathasura
+
+Combat (8)
+8x Majesty
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

@@ -1,0 +1,55 @@
+30th Anniversary Party
+Warsaw, Poland
+August 24th 2024
+2R+F
+14 players
+Maciej Kozłowski
+https://www.vekn.net/event-calendar/event/11604
+
+-- 1GW3.5 + 2.5vp in final
+
+Deck Name: Mambo No. 1
+Author:  ZaraZ
+Description: A fine-tuned iteration of the Samedi g5/6 combat deck. It turned out that I made the right call going with Soaks instead of other damage-prevention cards for this tournament,  which gave me an advantage against the potence rush, war ghouls and some gunslingers I encountered. Dust to Dust is pure gold, so thanks go to ToY! for showing me how good this card is in this type of deck. Currently my favourite combat deck in the game
+
+Crypt (12 cards, min=14, max=34, avg=6.25)
+------------------------------------------
+3x Baroque          7  NEC THN aus for obf  Samedi:5
+2x Mambo Jeanne     9  FOR NEC OBF THN      Samedi:6
+2x Marie-Pierre     4  THN for nec          Samedi:6
+2x Angel Chavarria  3  THN                  Samedi:6
+1x Jean Lisle       8  FOR OBF THN pot      Samedi:6
+1x Josette          8  FOR OBF THN pot pre  Samedi:6
+1x Mister Schwartz  6  NEC THN for obf      Samedi:6
+
+Library (90 cards)
+Master (18; 6 trifle)
+2x Blessings of the Loa
+5x Coroner's Contact
+1x Fame
+3x Haven Uncovered
+1x Secure Haven
+6x Villein
+
+Action (12)
+3x Ambush
+6x Bum's Rush
+3x Harass
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Action Modifier (8)
+8x Freak Drive
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Combat (47)
+9x Dust to Dust
+10x Groaning Corpse
+4x Necrosis
+13x Relentless Reaper
+4x Soak
+7x Taste of Vitae

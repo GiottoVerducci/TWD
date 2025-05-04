@@ -1,0 +1,67 @@
+Acidente no Laboratório
+Teresina, Brazil
+April 27th 2025
+2R+F
+10 players
+Cláudio Torcato
+https://www.vekn.net/event-calendar/event/12272
+
+-- 2vp in final (2nd seed)
+
+Deck Name: Museu Vivo no Inferno  (Living museum in hell)
+
+Crypt (12 cards, min=19, max=30, avg=6.08)
+------------------------------------------
+2x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+2x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (80 cards)
+Master (17; 7 trifle)
+5x British Museum, London, The
+1x Carfax Abbey
+2x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Heidelberg Castle, Germany
+2x Two Wrongs
+3x Villein
+2x Wider View
+
+Action (8)
+8x Govern the Unaligned
+
+Equipment (12)
+2x Cooler
+2x Heart of Nizchetus
+1x Incriminating Videotape
+6x Living Manse
+1x Signet of King Saul, The
+
+Political Action (2)
+2x Eat the Rich
+
+Action Modifier (9)
+2x Conditioning
+6x Earth Control
+1x Foreshadowing Destruction
+
+Action Modifier/Combat (2)
+2x Obedient Flesh
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (18)
+4x Bait and Switch
+4x Deep Ecology
+6x Deflection
+4x Guard Dogs
+
+Combat (8)
+4x Earth Meld
+4x Form of Mist

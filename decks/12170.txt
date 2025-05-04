@@ -1,0 +1,51 @@
+Liga GL/PT 24/25 - Ancient Influence
+Coimbra, Portugal
+April 12th 2025
+3R+F
+22 players
+Ricardo Marta
+https://www.vekn.net/event-calendar/event/12170
+
+Deck Name: Lutz goes Meddling
+
+Crypt (12 cards, min=28, max=44, avg=8.67)
+------------------------------------------
+5x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot  inner circle  Malkavian:4
+3x Benjamin Rose           7  AUS OBF ani pot      prince        Nosferatu:5
+2x Drozodny                7  AUS DEM OBF pre      bishop        Malkavian antitribu:5
+2x Stavros                 7  AUS OBF PRE dem      priscus       Malkavian antitribu:4
+
+Library (90 cards)
+Master (16; 7 trifle)
+1x Elder Library
+1x Giant's Blood
+6x Information Highway
+1x Monastery of Shadows
+7x Villein
+
+Political Action (19)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x Banishment
+1x Camarilla Threat
+1x Disputed Territory
+4x Kine Resources Contested
+6x Meddling of Semsith, The
+1x Reins of Power
+
+Action Modifier (34)
+2x Awe
+6x Bewitching Oration
+2x Elder Impersonation
+6x Forgotten Labyrinth
+4x Lost in Crowds
+2x Perfect Paragon
+4x Telepathic Vote Counting
+8x Voter Captivation
+
+Reaction (21)
+7x Eyes of Argus
+2x My Enemy's Enemy
+2x On the Qui Vive
+2x Telepathic Counter
+8x Telepathic Misdirection

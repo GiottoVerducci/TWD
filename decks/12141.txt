@@ -1,0 +1,59 @@
+Paulistão Cobra Kai 2025
+São paulo, Brazil
+April 13th 2025
+3R+F
+27 players
+Francisco Mantovanini Carvalho
+https://www.vekn.net/event-calendar/event/12141
+
+-- 3vp in final
+
+Deck Name: Inner Circle Voto
+
+Crypt (12 cards, min=34, max=44, avg=10.17)
+-------------------------------------------
+2x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+2x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+2x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+2x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+2x Dmitra Ilyanova         9  CEL FOR POT PRE obf      justicar      Brujah:5
+1x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
+1x Stavros                 7  AUS OBF PRE dem          priscus       Malkavian antitribu:4
+
+Library (77 cards)
+Master (23; 1 trifle)
+2x Camarilla Conclave
+1x Direct Intervention
+3x Dreams of the Sphinx
+2x Information Highway
+6x Minion Tap
+1x Monastery of Shadows
+1x Villein
+7x Zillah's Valley
+
+Action (6)
+6x Flurry of Action
+
+Political Action (14)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Camarilla's Iron Fist
+6x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (27)
+3x Awe
+5x Elder Impersonation
+4x Forgotten Labyrinth
+2x Into Thin Air
+5x Lost in Crowds
+3x Perfect Paragon
+5x Voter Captivation
+
+Action Modifier/Combat (1)
+1x Force of Personality
+
+Combat (6)
+6x Majesty

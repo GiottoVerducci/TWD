@@ -1,0 +1,59 @@
+Panay VTES: February 2025
+89 Panay Restaurant, Quezon City, Philippines
+February 8th 2025
+2R+F
+11 players
+Ernest Andrew Ellis
+https://www.vekn.net/event-calendar/event/12127
+
+Deck Name: New Presence Bleed
+Description: Its presence bleed with v5 mono TOR for Loup
+
+-- VDB Link:https://vdb.im/decks/04437f2ce
+
+Crypt (12 cards, min=14, max=26, avg=5)
+---------------------------------------
+2x Regina Blake        5  AUS PRE                        Toreador:6
+2x Silvian Popescu     4  PRE cel                        Toreador:7
+2x Valentina Osako     3  PRE                            Toreador:7
+1x Annabelle Triabell  9  AUS CEL PRE dom for  primogen  Toreador:6
+1x Maila               6  AUS PRE cel          primogen  Toreador:6
+1x Victoria Ash        6  PRE aus cel dom                Toreador:7
+1x Carmelita Neillson  5  AUS cel pre                    Toreador:7
+1x Kathy Glens         5  PRE aus cel tha                Toreador:6
+1x Tamoszius           5  CEL PRE aus                    Toreador:6
+
+Library (75 cards)
+Master (18; 6 trifle)
+1x Art Museum
+1x Barrens, The
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Jake Washington
+1x Misdirection
+2x Pentex(TM) Subversion
+1x Society Hunting Ground
+3x Vessel
+2x Wash
+
+Action (20)
+2x Entrancement
+2x Intimidation
+2x Legal Manipulations
+6x Mind Numb
+8x Public Trust
+
+Action Modifier (20)
+9x Aire of Elation
+4x Change of Target
+7x Loup
+
+Reaction (9)
+4x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (8)
+4x Majesty
+4x Unholy Penance

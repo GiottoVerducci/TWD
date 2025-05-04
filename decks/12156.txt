@@ -1,0 +1,64 @@
+VII Jornada Liga Norte
+Bilbao, Spain
+April 26th 2025
+2R+F
+21 players
+Iñaki Jiménez
+https://www.vekn.net/event-calendar/event/12156
+
+Deck Name: Carna gets fit
+Description: Just trimmed a deck by Karl Schaefer
+
+Crypt (12 cards, min=17, max=28, avg=5.58)
+------------------------------------------
+4x Carna, The Princess Witch  7  AUS DOM THA      primogen  Tremere:3
+2x Neighbor John              5  AUS dom for                Ventrue antitribu:4
+1x Eugenio Estevez            6  AUS THA dom for            Tremere:3
+1x Valois Sang, The Watcher   6  AUS DOM nec tha            Tremere:3
+1x Andrew Stuart              5  AUS DOM THA                Tremere:4
+1x Frondator                  5  AUS dom tha      bishop    Tremere antitribu:4
+1x Maldavis (ADV)             4  AUS for pre                Caitiff:3
+1x Martin Franckel            3  AUS tha                    Tremere:3
+
+Library (73 cards)
+Master (14; 4 trifle)
+1x Arcane Library
+2x Blood Doll
+1x Chantry
+1x Direct Intervention
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+2x Smiling Jack, The Anarch
+3x Vessel
+1x Wider View
+
+Action (14)
+10x Govern the Unaligned
+4x Magic of the Smith
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (5)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
+
+Action Modifier (8)
+4x Conditioning
+4x Mirror Walk
+
+Reaction (27)
+2x Deflection
+1x Delaying Tactics
+4x Eagle's Sight
+7x Eyes of Argus
+5x My Enemy's Enemy
+3x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (4)
+4x Theft of Vitae

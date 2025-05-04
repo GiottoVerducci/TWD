@@ -1,0 +1,64 @@
+Cruzade: Covil
+São José (SC), Brazil
+April 27th 2025
+2R+F
+16 players
+Schwarzenneger Erick
+https://www.vekn.net/event-calendar/event/12215
+
+Deck Name: Bleedy Lasombra
+
+Crypt (12 cards, min=17, max=29, avg=5.83)
+------------------------------------------
+2x Rinaldo Albizzi         7  DOM OBL POT pre  primogen  Lasombra:6
+2x Aintzane Arriaga        6  DOM OBL POT                Lasombra:6
+2x Kamaluddin              6  DOM OBL for pot  primogen  Lasombra:6
+2x Azucena                 5  DOM OBL pot                Lasombra:6
+1x Yewon Ong               8  DOM OBL POT for  prince    Lasombra:6
+1x María del Toro          7  DOM OBL POT      prince    Lasombra:6
+1x Braden White            4  dom obl pot                Lasombra:6
+1x Araceli "Celia" Rivera  3  dom obl                    Lasombra:6
+
+Library (90 cards)
+Master (14; 3 trifle)
+1x Anarch Troublemaker
+1x Barrens, The
+1x Coven, The
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+1x Misdirection
+1x Pentex(TM) Subversion
+2x Perfectionist
+1x Vessel
+1x Wider View
+
+Action (12)
+12x Govern the Unaligned
+
+Ally (13)
+1x Carlton Van Wyk
+12x Spectral Servitor
+
+Action Modifier (25)
+2x Bonding
+5x Conditioning
+5x Shadow Cast
+5x Shadow Cloak
+4x Stygian Shroud
+4x Where the Veil Thins
+
+Reaction (16)
+8x Deflection
+2x On the Qui Vive
+6x Shadow Sentinel
+
+Combat (7)
+3x Pass Through Shadow
+4x Target Vitals
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

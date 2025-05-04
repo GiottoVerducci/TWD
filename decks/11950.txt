@@ -1,0 +1,61 @@
+The Eve before the Night
+Vilnius, Lithuania
+February 28th 2025
+2R+F
+31 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/11950
+
+Deck Name: Yesterday's Brutalism
+Description: don't try this at home unless it's yesterday
+
+Crypt (12 cards, min=4, max=40, avg=5.08)
+-----------------------------------------
+5x Shalmath        10  POT PRE TEM  True Brujah:6
+1x Andre LeRoux     3  aus          Toreador:5
+1x Alu              2  obf          Assamite:5
+1x New Blood        2  san          Blood Brother:ANY
+1x Alex Wilkins     1  cel          Caitiff:5
+1x Donald Cargill   1  aus          Caitiff:5
+1x Freddy Gage      1  pot          Caitiff:5
+1x Walker Grimes    1  ani          Caitiff:5
+
+Library (69 cards)
+Master (9; 1 trifle)
+6x Ashur Tablets
+1x Powerbase: Montreal
+1x Tabriz Assembly
+1x Wider View
+
+Action (12)
+1x Ambush
+1x Big Game
+1x Bum's Rush
+1x Dark Mirror of the Mind
+1x Hourglass of the Mind
+7x Summon History
+
+Ally (4)
+1x Gregory Winter
+1x Mylan Horseed
+1x Nephandus
+1x Tye Cooper
+
+Equipment (3)
+1x Eye of Hazimel
+1x Heart of Nizchetus
+1x Talbot's Chainsaw
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (8)
+6x Domain of Evernight
+2x Enkil Cog
+
+Combat (32)
+3x Decapitate
+7x Disarm
+8x Majesty
+10x Outside the Hourglass
+4x Taste of Vitae

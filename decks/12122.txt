@@ -1,0 +1,62 @@
+Shell Break 2025
+Espoo, Finland
+April 21st 2025
+2R+F
+10 players
+Tero Aalto
+https://www.vekn.net/event-calendar/event/12122
+
+Deck Name: Radical Leftist: Nothing Really Mattress
+Description: A mono-Tzimisce variation of the Radical Leftist concept. They no longer eat the rich, though. Guard Dogses are great.
+
+Crypt (12 cards, min=21, max=31, avg=6.5)
+-----------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+
+Library (77 cards)
+Master (14; 5 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Library Hunting Ground
+1x Poacher's Hunting Ground
+4x Villein
+1x Wider View
+
+Action (12)
+12x Govern the Unaligned
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (2)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+
+Action Modifier (8)
+4x Conditioning
+4x Earth Control
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (20)
+4x Bait and Switch
+6x Deflection
+3x Guard Dogs
+7x Organized Resistance
+
+Combat (14)
+8x Earth Meld
+6x Form of Mist
+
+Event (1)
+1x Scourge of the Enochians

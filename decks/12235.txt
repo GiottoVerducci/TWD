@@ -1,0 +1,67 @@
+Thursday Night Special vol 1 - Warsaw
+Warsaw, Poland
+April 24th 2025
+2R+F
+10 players
+Tomasz Pietkiewicz
+https://www.vekn.net/event-calendar/event/12235
+
+-- 0GW2.5 + 2vp in final
+
+Deck Name: Aim & Chain
+
+Crypt (12 cards, min=12, max=24, avg=4.58)
+------------------------------------------
+3x Edward Vignes       6  DOM PRE for      Ventrue:3
+1x Juniper             6  FOR ani dom pre  Ventrue:4
+1x Catherine du Bois   5  DOM for obf pre  Ventrue:3
+1x Jephta Hester       5  DOM FOR aus      Ventrue antitribu:4
+1x João Bilé           5  DOM FOR pre      Ventrue:4
+1x Earl                4  dom for pot      Ventrue:3
+1x Katherine Stoddard  4  dom for          Ventrue antitribu:3
+1x Keith Moody         3  DOM              Tremere antitribu:4
+1x Lana Butcher        3  dom for          Ventrue:3
+1x Jackson Asher       2  dom              Ventrue:4
+
+Library (80 cards)
+Master (13; 5 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Haven Uncovered
+1x Jake Washington
+4x Life in the City
+1x Misdirection
+1x Pentex(TM) Subversion
+
+Action (14)
+1x Dominate Kine
+12x Govern the Unaligned
+1x Slaughtering the Herd
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (16)
+1x Bonding
+7x Conditioning
+3x Daring the Dawn
+2x Foreshadowing Destruction
+2x Seduction
+1x Sleeping Mind, The
+
+Reaction (15)
+8x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+2x Redirection
+
+Combat (21)
+1x Pulled Fangs
+5x Soak
+5x Target Vitals
+2x Taste of Vitae
+2x Unflinching Persistence
+5x Weighted Walking Stick
+1x Zip Gun

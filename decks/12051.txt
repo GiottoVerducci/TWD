@@ -1,0 +1,70 @@
+Third Tradition: Regroup - HQS#3
+Vác, Hungary
+April 26th 2025
+3R+F
+40 players
+Zoltán Panyik
+https://www.vekn.net/event-calendar/event/12051
+
+-- 1.5VP in final
+
+Deck Name: Lasombra servitors
+
+Crypt (12 cards, min=14, max=33, avg=6.08)
+------------------------------------------
+2x Gnaeus Aemilius Augustinus  9  DOM OBL POT PRO tha  prince    Lasombra:6
+2x María del Toro              7  DOM OBL POT          prince    Lasombra:6
+2x Alek König                  3  OBL                            Hecata:6
+1x Yewon Ong                   8  DOM OBL POT for      prince    Lasombra:6
+1x Rinaldo Albizzi             7  DOM OBL POT pre      primogen  Lasombra:6
+1x Aintzane Arriaga            6  DOM OBL POT                    Lasombra:6
+1x Kamaluddin                  6  DOM OBL for pot      primogen  Lasombra:6
+1x Azucena                     5  DOM OBL pot                    Lasombra:6
+1x Araceli "Celia" Rivera      3  dom obl                        Lasombra:6
+
+Library (90 cards)
+Master (20; 7 trifle)
+1x Charisma
+1x Coven, The
+3x Dreams of the Sphinx
+1x Elder Library
+1x Elysian Fields
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+3x Perfectionist
+1x Storage Annex
+5x Villein
+1x Wider View
+
+Action (14)
+10x Govern the Unaligned
+4x Shroud of Decay
+
+Ally (8)
+8x Spectral Servitor
+
+Political Action (1)
+1x Camarilla's Iron Fist
+
+Action Modifier (20)
+2x Conditioning
+2x Foreshadowing Destruction
+4x Shadow Cast
+4x Shadow Cloak
+4x Stygian Shroud
+4x Where the Veil Thins
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (19)
+7x Deflection
+3x On the Qui Vive
+3x Redirection
+4x Shadow Sentinel
+2x Wake with Evening's Freshness
+
+Combat (6)
+2x Arms of Ahriman
+4x Pass Through Shadow

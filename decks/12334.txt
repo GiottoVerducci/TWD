@@ -1,0 +1,62 @@
+De volta às origens
+Teresina, Brazil
+May 25th 2025
+2R+F
+10 players
+Pedro Santana de Araújo Filho
+https://www.vekn.net/event-calendar/event/12334
+
+-- 3vp in final
+
+Deck Name: Tremere V5
+Author: Black Chantry
+Description:
+
+Crypt (12 cards, min=16, max=26, avg=5.42)
+------------------------------------------
+2x Ayelech           7  AUS DOM THA      prince    Tremere:6
+2x Inês Tristão      6  THA aus dom pre  prince    Tremere:6
+2x Trevon Parker     6  AUS DOM THA                Tremere:6
+1x Lloyd Brooks      6  DOM THA aus pot  primogen  Tremere:6
+1x Chrysanthemum     5  AUS THA dom      primogen  Tremere:6
+1x Patrik Söderberg  5  AUS dom for tha            Tremere:6
+1x Lauren            4  aus dom tha                Tremere:6
+1x Nassir            4  THA aus                    Tremere:6
+1x Rosalina Cortez   3  THA                        Tremere:6
+
+Library (77 cards)
+Master (11; 5 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Chantry
+1x Misdirection
+1x Pentex(TM) Subversion
+4x Vessel
+1x Wasserschloss Anif, Austria
+1x Wider View
+
+Action (14)
+12x Govern the Unaligned
+2x Magic of the Smith
+
+Equipment (4)
+1x .44 Magnum
+1x Bowl of Convergence
+1x Kevlar Vest
+1x Sport Bike
+
+Action Modifier (12)
+6x Bonding
+6x Mirror Walk
+
+Reaction (22)
+4x Deflection
+6x Eyes of Argus
+4x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (14)
+4x Apportation
+10x Theft of Vitae

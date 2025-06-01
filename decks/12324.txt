@@ -1,0 +1,60 @@
+Sonhos da esfinge
+Campina Grande (PB), Brazil
+May 3rd 2025
+2R+F
+12 players
+José Roberio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/12324
+
+-- 4VP in final
+
+Deck Name: True Osebo
+
+Crypt (12 cards, min=23, max=37, avg=7.58)
+------------------------------------------
+4x Massassi      9  AUS CEL POT QUI obf              Osebo:4
+2x Khalu         7  AUS CEL POT ani pro              Osebo:3
+2x Homa          6  AUS CEL POT                      Osebo:4
+1x Cesewayo     10  AUS CEL DOM POT THA ani  magaji  Osebo:4
+1x Tatu Sawosa   8  AUS OBF POT ani cel              Osebo:4
+1x Abiku         6  AUS POT cel obt                  Osebo:4
+1x Uzoma         5  POT aus cel vic                  Osebo:4
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Base Hunting Ground
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+2x Guardian Angel
+1x Haven Uncovered
+1x Mbare Market, Harare
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Tension in the Ranks
+4x Vessel
+2x Villein
+
+Equipment (2)
+1x .44 Magnum
+1x Bowl of Convergence
+
+Reaction (29)
+3x Eagle's Sight
+1x Enhanced Senses
+9x Eyes of Argus
+1x My Enemy's Enemy
+2x Precognition
+5x Quicken Sight
+8x Telepathic Misdirection
+
+Combat (41)
+6x Blur
+3x Flash
+9x Immortal Grapple
+4x Pursuit
+2x Quickness
+4x Roundhouse
+3x Taste of Vitae
+10x Torn Signpost

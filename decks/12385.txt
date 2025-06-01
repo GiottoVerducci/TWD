@@ -1,0 +1,67 @@
+Immortal Grapple CG
+Campina Grande (PB), Brazil
+May 31st 2025
+2R+F
+12 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/12385
+
+-- 4vp in final
+
+Deck Name: Banu Caçador
+
+Crypt (12 cards, min=21, max=37, avg=7)
+---------------------------------------
+3x Kasim Bayar         9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Farah Sarroub       7  CEL THA aus obf      prince    Assamite:6
+2x Kassandra Tassaki   6  CEL THA obf          prince    Assamite:6
+2x Khadija Al-Kindi    6  CEL OBF THA          primogen  Assamite:6
+1x Tegyrius, Vizier   10  AUS CEL FOR PRE THA  2 votes   Assamite:6
+1x Warmaksan           5  THA cel obf          prince    Assamite:6
+1x Nayarana            4  THA cel                        Assamite:6
+
+Library (90 cards)
+Master (16; 7 trifle)
+2x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Fame
+1x Guardian Angel
+3x Haqim's Law: Retribution
+1x Powerbase: Montreal
+3x Priority Contract
+4x Villein
+
+Action (11)
+2x Biothaumaturgic Experiment
+8x Hunter's Mark
+1x Rutor's Hand
+
+Equipment (5)
+1x .44 Magnum
+1x Blade of Enoch
+1x Kali's Fang
+1x Kevlar Vest
+1x Sport Bike
+
+Political Action (4)
+3x Anathema
+1x Perpetual Care
+
+Action Modifier/Combat (9)
+4x Resist Earth's Grasp
+5x Swallowed by the Night
+
+Reaction (7)
+7x Second Tradition: Domain
+
+Combat (37)
+5x Blur
+11x Hunger of Marduk
+2x Lightning Reflexes
+7x Psyche!
+5x Quickness
+5x Rego Motum
+2x Weather Control
+
+Event (1)
+1x Dragonbound

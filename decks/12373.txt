@@ -1,0 +1,49 @@
+Army of Rats
+Vila Velha, Brazil
+May 24th 2025
+2R+F
+12 players
+Gabriel Gomes de Oliveira
+https://www.vekn.net/event-calendar/event/12373
+
+-- 1GW3 + 5vp in final
+
+Deck Name: Flagelo da Sanidade
+
+Crypt (12 cards, min=6, max=18, avg=3)
+--------------------------------------
+2x Jackie                        3  DEM              Malkavian antitribu:4
+2x Midget                        3  DEM obf pre      Malkavian antitribu:3
+2x Cassandra Langely, The Waif   2  dem              Malkavian:4
+2x Eddie Gaines                  1  dem pot          Caitiff:3
+1x Apache Jones                  5  DEM aus for obf  Malkavian antitribu:4
+1x Persia, The Beautiful Statue  5  DEM aus obf      Malkavian:3
+1x Uncle George                  5  DEM aus dom obf  Malkavian antitribu:3
+1x Marta                         3  aus dem          Malkavian antitribu:4
+
+Library (90 cards)
+Master (15; 2 trifle)
+1x Anarch Troublemaker
+5x Dementation
+3x Effective Management
+2x Pentex(TM) Subversion
+2x Sudden Reversal
+2x Wash
+
+Action (30)
+30x Kindred Spirits
+
+Action Modifier (34)
+16x Confusion
+14x Eyes of Chaos
+4x Mind Tricks
+
+Action Modifier/Combat (8)
+8x Deny
+
+Combat (1)
+1x Coma
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

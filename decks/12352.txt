@@ -1,0 +1,62 @@
+Torneio Mensal Curitiba
+Curitiba (PR), Brazil
+May 24th 2025
+2R+F
+14 players
+Caio Fiuza
+https://www.vekn.net/event-calendar/event/12352
+
+-- 2.5VP in final
+
+Deck Name: Maria Ana e Seus Amigos
+
+Crypt (12 cards, min=24, max=40, avg=7.75)
+------------------------------------------
+4x Mary Anne Blaire    10  AUS DOM FOR PRE ani pot  justicar  Ventrue:5
+2x Sybren van Oosten    7  FOR PRE dom tha          prince    Ventrue:6
+1x Lodin (Olaf Holte)   8  DOM FOR PRE aus pro      prince    Ventrue:5
+1x Alice Chen           7  FOR PRE dom obf          prince    Ventrue:6
+1x Graham Gottesman     7  DOM FOR obf pre tha      prince    Ventrue:5
+1x Horst von Brühl      6  FOR aus dom pre          prince    Ventrue:6
+1x Victor Donaldson     6  DOM for pre              prince    Ventrue:5
+1x Emily Carson         5  DOM for pre              primogen  Ventrue:5
+
+Library (90 cards)
+Master (16; 7 trifle)
+2x Camarilla Conclave
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Information Highway
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Ventrue Headquarters
+6x Villein
+1x Wider View
+
+Action (8)
+4x Govern the Unaligned
+4x Scouting Mission
+
+Political Action (15)
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+4x Camarilla's Iron Fist
+3x Kine Resources Contested
+4x Parity Shift
+1x Reins of Power
+
+Action Modifier (25)
+4x Awe
+4x Conditioning
+8x Freak Drive
+3x Perfect Paragon
+6x Voter Captivation
+
+Reaction (14)
+6x Deflection
+4x On the Qui Vive
+4x Second Tradition: Domain
+
+Combat (12)
+12x Majesty

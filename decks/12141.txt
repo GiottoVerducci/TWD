@@ -1,5 +1,5 @@
 Paulistão Cobra Kai 2025
-São paulo, Brazil
+São Paulo, Brazil
 April 13th 2025
 3R+F
 27 players
@@ -20,15 +20,14 @@ Crypt (12 cards, min=34, max=44, avg=10.17)
 1x Undele                  9  CEL FOR obf pre ser      magaji        Ishtarri:5
 1x Stavros                 7  AUS OBF PRE dem          priscus       Malkavian antitribu:4
 
-Library (77 cards)
-Master (23; 1 trifle)
+Library (76 cards)
+Master (22)
 2x Camarilla Conclave
 1x Direct Intervention
 3x Dreams of the Sphinx
 2x Information Highway
 6x Minion Tap
 1x Monastery of Shadows
-1x Villein
 7x Zillah's Valley
 
 Action (6)

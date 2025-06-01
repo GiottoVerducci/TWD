@@ -1,0 +1,81 @@
+Midwest Mayhem - Madison - North American Cup
+Madison (WI), USA
+May 17th 2025
+2R+F
+14 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/12148
+
+-- 1GW5 + 5vp in final
+
+Deck Name: My Version
+Created by: Darby Keeney and Karl Schaefer
+Description:
+When you drink and contemplate what to do about the Sreelekha problem, wherein no
+one really wants to decrypt her in the all-go version.  The answer is Anarch Convert.  After
+more discussion it's 3 Anarch Converts.  Replace all but one duplicate, leaving Gathii.  His
+special is the best and his ANI matters for Field Training.  Phaibun is the other option and
+her dodge special might make her the meta-appropriate choice, but her PRE/OBF is less
+useful in Field Training.  Leave one duplicate to prevent a 4-Anarch Convert decrypt.
+
+Why is Convert better?  Round 2 Convert came out when I had 1 transfer, bled, paid for
+itself with the Edge, bled every turn afterwards for 4 more pool total when Break the
+Bonds had everyone locked, and finally stayed up to block a rush.  That's better than
+Sreelekha could ever be.
+
+The finals was a race with my predator, Darby, who was playing a Minstry bleed deck.  He
+swept the round 1 table I was at where I got crushed by Fatima rush.  He was the higher
+seed and decided to sit behind me.  I managed to stay ahead of him, in part, because he
+could only afford two vampires.  My grand-predator had just enough Gangrel to keep the
+pressure up, but zero Gangrel with ANI, so I didn't have to worry about rushes from Deep
+Song.  Still taking bleeds of 5+ from both of Darby's vampires on most turns took its toll
+and had me close to death on several occasions.  I did allow my vampires to be caught
+quite a few times in the finals, where I depended on the S:CE from Memory Rift.  This
+allowed me to lock vampires when I was having trouble getting the stealth ordering
+correct because of how the cards drew.  I probably used that S:CE 4 or 5 times.  I made up
+for these failed actions with greater numbers of vampires.  Game finished up with 4 cards
+left in my hand and 4 pool left on the table.
+
+Shout out to Andy  Smith and Kelly Lyons, whose versions of this were worked into and
+out of this version over time.
+
+Crypt (12 cards, min=6, max=23, avg=3.92)
+-----------------------------------------
+3x Anarch Convert     1  -none-           Caitiff:ANY  -- removes all but 1 duplicate; best improvement in this build
+2x Gathii             5  ANI PRE obf      Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+1x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7     -- the vanilla 4-cap you love to see
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+Library (78 cards)
+Master (17; 9 trifle)
+1x Anarch Troublemaker
+1x Club Illusion
+3x Dabbler
+1x Dreams of the Sphinx -- just enough extra card cycle to get out of jams; not so many you get in trouble for having it
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion -- still good; won me the final
+6x Villein
+2x Week of Nightmares
+
+Action (21)
+18x Break the Bonds
+3x Field Training -- usually ani first, but vamps and hand may say otherwise; must always cycle it
+
+Action Modifier (36)
+3x Elder Impersonation -- removed No Secrets; provided death knell in finals
+3x Faceless Night
+2x Lost in Crowds
+12x Memory Rift
+4x Power of One
+2x True Love's Face
+10x Visions of Gehenna
+
+Action Modifier/Combat (4)
+2x Hide the Mind -- useful in one round; probable meta add, but reduce to 1x in generic metas
+2x Swallowed by the Night

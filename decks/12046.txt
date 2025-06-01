@@ -1,0 +1,52 @@
+Bleed under the Tower's 1
+Bologna, Italy
+February 22nd 2025
+3R+F
+19 players
+Filippo Mengoli
+https://www.vekn.net/event-calendar/event/12046
+
+Deck Name: Haqim's Law: Protection
+
+Crypt (12 cards, min=21, max=34, avg=6.92)
+------------------------------------------
+3x Oluwafunmilayo     8  AUS CEL OBF THA      prince    Assamite:6
+2x Kasim Bayar        9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf      prince    Assamite:6
+2x Kassandra Tassaki  6  CEL THA obf          prince    Assamite:6
+1x Khadija Al-Kindi   6  CEL OBF THA          primogen  Assamite:6
+1x Warmaksan          5  THA cel obf          prince    Assamite:6
+1x Nayarana           4  THA cel                        Assamite:6
+
+Library (90 cards)
+Master (17; 9 trifle)
+1x Direct Intervention
+3x Haqim's Law: Retribution
+1x Market Square
+1x Papillon
+1x Powerbase: Montreal
+4x Priority Contract
+1x Rack, The
+5x Villein
+
+Action (11)
+5x Hunter's Mark
+6x Magic of the Smith
+
+Equipment (6)
+3x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Kevlar Vest
+
+Reaction (12)
+12x Second Tradition: Domain
+
+Combat (44)
+4x Blur
+10x Hunger of Marduk
+12x Psyche!
+10x Pursuit
+2x Quickness
+4x Rego Motum
+2x Side Strike

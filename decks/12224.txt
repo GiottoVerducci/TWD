@@ -1,0 +1,68 @@
+BR2025 - Campeonato Brasileiro de VTES
+Volta Redonda (RJ), Brazil
+June 7th 2025
+3R+F
+114 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/12224
+
+Deck Name: Lobos de Winterfell 0.0
+
+Crypt (12 cards, min=11, max=26, avg=4.67)
+------------------------------------------
+1x Ángel Guerrero         7  ANI DOM PRO      baron  Tzimisce:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Joaquín de Cádiz       3  for pro                 Gangrel:6
+1x Lillian                3  ani pro                 Gangrel:5
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (23; 7 trifle)
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Ecoterrorists
+4x Effective Management
+1x Ennoia's Theater
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Information Highway
+2x Parthenon, The
+1x Powerbase: Montreal
+7x Villein
+
+Action (14)
+1x Rewilding
+13x Thing
+
+Political Action (5)
+2x Consanguineous Boon
+3x Revolutionary Council
+
+Action Modifier (12)
+1x Daring the Dawn
+4x Earth Control
+2x Monkey Wrench
+5x Propaganda of the Deed
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (17)
+7x Bait and Switch
+2x Deep Ecology
+6x Organized Resistance
+2x Poison Pill
+
+Combat (15)
+2x Claws of the Dead
+9x Earth Meld
+4x Form of Mist

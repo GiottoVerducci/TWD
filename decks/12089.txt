@@ -1,0 +1,67 @@
+Origins Friday 2 (2025)
+Columbus (OH), USA
+June 20th 2025
+2R+F
+48 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/12089
+
+-- 1GW4 + 4vp in final
+
+Deck Name: Alpha Beta
+Description: [2024-06-11] V1.4 WON 24 Build.
+
+Finally gave in, dropped the Zephyrs for Org Resist, dropped a Manifest for another bounce (probably good with non-ally bleedy meta) and with Saku's [for], swapped one Dust up for Diversion.  Otherwise unchanged despite hating the Thrown Gates most of the time.
+
+Honestly, the Org Resists could be On the Qui Vive and it wouldn't make much difference, but whatever.
+
+Kelly made changes including Torn Signpost, I immediately dropped them because they were getting drawn mid-round too often (TV more cyclable).  Also tried many more Org Resists, they also got in the way of combat when I needed it.
+
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+2x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+2x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Elen Kamjian        4  CEL POT                     Brujah:6
+
+Library (90 cards)
+Master (17; 5 trifle)
+2x Blood Doll
+1x Carfax Abbey
+2x Dreams of the Sphinx
+1x Fame
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+2x New Carthage
+1x Papillon
+1x Powerbase: Los Angeles
+5x Villein
+
+Action (20)
+9x Illegalism
+10x Line Brawl
+1x Open War
+
+Equipment (1)
+1x Anarch Manifesto, An
+
+Action Modifier (6)
+6x Power of One
+
+Reaction (8)
+6x Bait and Switch
+2x Organized Resistance
+
+Combat (38)
+2x Bollix
+2x Disarm
+4x Diversion
+9x Dust Up
+6x Immortal Grapple
+2x Pulled Fangs
+5x Target Vitals
+4x Taste of Vitae
+4x Thrown Gate

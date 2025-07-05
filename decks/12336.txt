@@ -1,0 +1,83 @@
+Family Gathering
+Paris, France
+May 31st 2025
+3R+F
+10 players
+Jorge Delgado
+https://www.vekn.net/event-calendar/event/12336
+
+Deck Name: Montano Baltimore Purge
+Created by: Jorge Delgado with suggestions from Antonio Cobo Cuenca
+Description:
+This is the last iteration of a 60 version Montano deck I shared with Antonio a couple of months ago. To be honest the old version was not very optimized, he trimmed it and won a tournament with it. I then took his version, modified it to my taste and then played it in this tournament.
+
+He proposed me to play this deck since it was my first time organizing a tournament and I  wanted to have time to deal with promos, archon and stuff. Either you kill fast or you die even faster.
+
+Very happy with how the deck worked (2GW6 in the preliminary rounds and 4VPs in the finals it seems like a pretty good score). I had 2 very good tables in which the deck played as a dream (graverobbing Fanchon and Lucinde Alastor from 2 different players in the first round or playing Ancient Influence and Reins when no one had vamps). Sometimes people tend to overestimate the capacity of  the deck, but it works very well. The Alpha Glints is an idea I had some time ago, because I wasn't very hapy with either Obediences or Shadow Body. Less even with Nocturns. OK it's just for Montano but we don't care much about the other vampires to be honest. I also recall one league game where I managed to graverob Stanislava and then she was there playing the Alpha Glints, awesome.
+
+The final table:
+David (Banu Bruise&Bleed) -> me (Montano Purge) -> Pauline (Fanchon & Friends DOM/OBF) -> Karim (D'Erlette Nephandus Wall) -> Guillaume (Ministry S&B)
+
+So, my seating may seem a bit odd, but there's an explanation. I wanted to be behind Pauline because, based on what I managed to do in R1, I thought I could take her out fairly easily if my deck ran decently. Since I had played fairly with David in R3, I figured he’d let my Purges go through so I could control Guillaume cross-table if I rescued him. And I figured that with Guillaume as his predator, he’d be too busy to focus forward (which is exactly what happened). I also thought it would be easier to control Karim cross-table without getting blocked by Nephandi on every action (and he didn’t draw his Unmasking).
+
+I had a good starting hand with Information Highway, and since Guillaume went first, it was perfect. I played Info Highway and got out in 2 turns like in R3. I also had 3 Alpha Glints in my opening hand, so I discarded one. Everything went as planned. Guillaume went hard on David, who tried to block as best he could and agreed not to block the Baltimore (even though I had the stealth to push through) in exchange for a rescue. I did the rescue mostly for formality, and because in any case, it was in my interest for him to hold on as long as possible.
+
+After the Baltimore, I didn’t draw any Mind Rape, Graverob, or anything fun, so I moved on to Plan B: bleeding. I got super lucky - I put Enkil Cog on Montano and bled Pauline as much as I could. I pushed a second BP before she brought out Orlando, and she was down to 4 pool. She said something like “I’m bringing out Orlando because I don’t have any untap in hand.” So I knew I just had to choose Orlando and bleed for 4 to get my first VP. Oh yeah, before that I got a bit of heat from Karim because on a deflected bleed I added stealth to chip away at his pool a bit on the way.
+
+The rest of the game played out in a rather unusual way. I kept bleeding Karim nonstop with my 4 vampires (no Unmasking). He tried to get his deck rolling and bring out some Nephandi, but I ended up ousting him. David held on as long as he could but eventually got ousted (if I recall, with a few diableries on Guillaume from my side). So by the time we got to the heads-up, I had 4 ready vampires and Guillaume only had one, if I remember correctly.
+
+Final result: GW4 for me, and 1 VP for Guillaume.
+
+Crypt (12 cards, min=7, max=44, avg=6.08)
+-----------------------------------------
+5x Montano                          11  ANI DOM FOR OBT POT  2 votes  Lasombra:3         -- I will most likely do +1 Montano and remove Cameron in the next iteration.
+1x Ignacio, The Black Priest         4  dom obt pot                   Lasombra:2
+1x Ramiro                            4  dom obt vic                   Lasombra:2
+1x Cameron                           3  dom pot                       Lasombra:2         -- remove him from the next version
+1x Marciana Giovanni, Investigator   2  dom                           Giovanni:2
+1x Mustafa Rahman                    2  dom                           Tremere:2
+1x New Blood                         2  san                           Blood Brother:ANY
+1x Royce                             1  dom                           Pander:2
+
+Library (65 cards)
+Master (12; 2 trifle)
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+2x Heidelberg Castle, Germany -- played without it in some games. if you use your MR well you can play without.
+1x Information Highway
+1x Monastery of Shadows
+2x Powerbase: Montreal -- Montreal is great. let's you accelerate, makes you save some pool and people do useless actions to get Montreal while you prepare for your purges
+2x Villein -- ideally for the vampires you steal, mental note to not Villein Montano for more than 2
+
+Action (13)
+6x Baltimore Purge
+3x Graverobbing
+4x Puppet Master
+
+Ally (2)
+1x Carlton Van Wyk -- only play if no one can steal. never played him on the tournament because of fear of Entrancement. also other players where not playing Carlon themselves.
+1x Mylan Horseed
+
+Political Action (2)
+1x Ancient Influence
+1x Reins of Power
+
+Action Modifier (27)
+2x Enkil Cog
+12x Freak Drive
+1x Seduction
+4x Shadow Play
+4x Shroud of Absence
+2x Shroud of Night
+2x Tenebrous Form
+
+Reaction (3)
+3x Deflection
+
+Combat (4)
+4x Alpha Glint
+
+Event (2)
+1x Fueled by Heart's Blood
+1x Scourge of the Enochians

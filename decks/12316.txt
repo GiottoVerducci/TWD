@@ -1,0 +1,59 @@
+IT25 - Massa Italian Tour
+Montignoso, Massa, Toscana, Italy
+May 24th 2025
+2R+F
+23 players
+Federico Ferrarini
+https://www.vekn.net/event-calendar/event/12316
+
+Deck Name: shpalman
+
+Crypt (12 cards, min=11, max=40, avg=5.92)
+------------------------------------------
+5x Shalmath              10  POT PRE TEM  True Brujah:6
+2x "Coach" Tyrone Soros   3  obf pre      Follower of Set:6
+2x Valentina Osako        3  PRE          Toreador:7
+1x Zafira                 4  PRE obf      Ravnos:7
+1x Oleg Kaprizov          3  obf pre      Ravnos:7
+1x Mateo García           2  pre          Toreador:6
+
+Library (90 cards)
+Master (15)
+1x Barrens, The
+1x Blood Doll
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Elder Library
+1x Monastery of Shadows
+2x Perfectionist
+1x Powerbase: Montreal
+1x Secure Haven
+3x Tabriz Assembly
+1x Tension in the Ranks
+
+Action (28)
+1x Big Game
+5x Bum's Rush
+3x Clotho's Gift
+2x Entrancement
+1x Heart of the City
+1x Hourglass of the Mind
+8x Legal Manipulations
+7x Vaticination
+
+Action Modifier (16)
+10x Domain of Evernight
+3x Enkil Cog
+3x Iron Glare
+
+Action Modifier/Combat (7)
+7x Force of Personality
+
+Reaction (4)
+1x Lost in Translation
+3x Rewind Time
+
+Combat (20)
+2x Decapitate
+6x Disarm
+12x Outside the Hourglass

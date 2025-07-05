@@ -1,0 +1,63 @@
+Sydney Grand Prix 2025
+Sydney, Australia
+May 18th 2025
+3R+F
+17 players
+Ke Carlton
+https://www.vekn.net/event-calendar/event/12283
+
+Deck Name: Cockroaches mkii
+
+Crypt (12 cards, min=17, max=25, avg=5.5)
+-----------------------------------------
+2x André the Manipulator  6  FOR PRO                 Gangrel:5
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+2x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+
+Library (90 cards)
+Master (22; 7 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Bleeding the Vine
+2x Carfax Abbey
+1x Club Illusion
+1x Erciyes Fragments, The
+1x Gangrel Revel
+2x Garibaldi-Meucci Museum
+3x Sudden Reversal
+5x Vessel
+2x Wash
+1x Zoo Hunting Ground
+
+Action (17)
+1x Constant Revolution
+2x Rewilding
+2x Status Perfectus, The
+12x Thing
+
+Equipment (4)
+1x Heart of Nizchetus
+1x Sniper Rifle
+2x Sport Bike
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier (11)
+7x Earth Control
+4x Monkey Wrench
+
+Reaction (14)
+6x Bait and Switch
+8x Organized Resistance
+
+Combat (18)
+3x Donnybrook
+12x Earth Meld
+3x Form of Mist

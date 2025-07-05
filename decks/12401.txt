@@ -1,0 +1,60 @@
+Torneio Mensal Curitiba
+Curitiba (PR), Brazil
+June 21st 2025
+2R+F
+16 players
+Eduardo Lemos
+https://www.vekn.net/event-calendar/event/12401
+
+-- 2VP in final
+
+Deck Name: Banu
+
+Crypt (12 cards, min=22, max=34, avg=6.83)
+------------------------------------------
+2x Kasim Bayar        9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Oluwafunmilayo     8  AUS CEL OBF THA      prince    Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf      prince    Assamite:6
+2x Kassandra Tassaki  6  CEL THA obf          prince    Assamite:6
+2x Warmaksan          5  THA cel obf          prince    Assamite:6
+1x Kalinda            6  CEL OBF tha          primogen  Assamite:6
+1x Khadija Al-Kindi   6  CEL OBF THA          primogen  Assamite:6
+
+Library (90 cards)
+Master (23; 7 trifle)
+1x Alamut
+1x Archon Investigation
+6x Ashur Tablets
+1x Fame
+4x Haqim's Law: Retribution
+1x Information Highway
+1x Market Square
+2x Priority Contract
+1x Underworld Hunting Ground
+5x Villein
+
+Action (12)
+10x Hunter's Mark
+2x Judgment: Camarilla Segregation
+
+Political Action (4)
+4x Anathema
+
+Action Modifier/Combat (10)
+5x Resist Earth's Grasp
+5x Swallowed by the Night
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (30)
+5x Blur
+14x Hunger of Marduk
+2x Lightning Reflexes
+2x Psyche!
+4x Pursuit
+2x Quickness
+1x Walk of Flame
+
+Event (1)
+1x Narrow Minds

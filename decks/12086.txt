@@ -1,0 +1,63 @@
+Origins Thursday 1 (2025)
+Columbus (OH), USA
+June 19th 2025
+2R+F
+43 players
+Kelly Schultz
+https://www.vekn.net/event-calendar/event/12086
+
+-- 2GW7 + 1.5vp in final
+
+Deck Name: Inner City Bypass
+
+Crypt (12 cards, min=27, max=36, avg=7.92)
+------------------------------------------
+3x Diana Iadanza       9  AUS CEL FOR PRE      justicar  Toreador:7
+3x Modius              8  AUS CEL PRE obf      prince    Toreador:7
+1x Annabelle Triabell  9  AUS CEL PRE dom for  primogen  Toreador:6
+1x Catalina Vega       8  AUS CEL PRE for      prince    Toreador:6
+1x Marcos Belegrad     8  AUS CEL PRE ani      prince    Toreador:7
+1x Flávio Gonçalves    7  CEL PRE aus for      prince    Toreador:6
+1x Maila               6  AUS PRE cel          primogen  Toreador:6
+1x Mkhokheli           6  PRE aus cel for      prince    Toreador:6
+
+Library (90 cards)
+Master (29; 9 trifle)
+1x Art Museum
+2x Camarilla Conclave
+1x Creepshow Casino
+4x Dreams of the Sphinx
+10x Information Highway
+1x Monastery of Shadows
+1x Protected Resources
+7x Villein
+2x Wider View
+
+Political Action (23)
+1x Ancilla Empowerment
+2x Banishment
+9x Camarilla's Iron Fist
+1x Disputed Territory
+7x Kine Resources Contested
+1x Political Stranglehold
+2x Reinforcements
+
+Action Modifier (26)
+1x Alacrity
+1x Approximation of Loyalty
+2x Awe
+3x Bewitching Oration
+5x Loup
+5x Perfect Paragon
+9x Voter Captivation
+
+Action Modifier/Combat (6)
+2x Force of Personality
+4x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Combat (4)
+2x Charismatic Aura
+2x Torrent

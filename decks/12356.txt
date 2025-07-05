@@ -1,0 +1,86 @@
+WoN Neonates first night
+Newark (OH), USA
+June 14th 2025
+2R+F
+16 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/12356
+
+-- 1GW5 + 4vp in final
+
+Deck Name: (Very) Pretty Hate Machine
+Description:
+I have had a couple of versions of this deck.  The original version (Pretty Hate Machine)
+was all 4/5 PRE vamps, but switching to all Toreador made the deck more powerful (better
+Aire boost) and have more survivability.  I switched from 6/7 (all Toreador) to 5/6 (with one
+!Toreador) because it provides better options for bouncing, even though it increases my
+overall capacity somewhat.
+
+The addition of the Heart of the City makes folks question whether letting a Public Trust
+through is correct because the next one could be worse.
+
+The deck usually plays very fast, but the finals was slow.  The first oust was 1:30 in.  I didn't
+want to oust early because I would have had no answers for the endless rush of my
+grandprey.  After the first oust by my grandpredator.  I got both my prey and grandprey in a
+single turn with the help of a Pentex on Carlton.  In the heads-up, I had 21 pool and he had
+9.   His two vampires with DOM (one being Stanislava) couldn't get me and I ousted him
+next turn.
+
+Thanks to Darby Keeney for feedback.
+
+Crypt (12 cards, min=13, max=22, avg=4.5)
+-----------------------------------------
+1x Gwendolyn Fleming                        6  AUS PRE cel pro            Toreador:5
+1x Maila                                    6  AUS PRE cel      primogen  Toreador:6
+1x Amber                                    5  AUS PRE cel                Toreador antitribu:5
+1x Anne-Marie Bourgeois, Inconnu Recruiter  5  AUS cel pre                Toreador:5
+1x Kathy Glens                              5  PRE aus cel tha            Toreador:6
+1x Regina Blake                             5  AUS PRE                    Toreador:6
+1x Tamoszius                                5  CEL PRE aus                Toreador:6
+1x Bethany Ray                              4  PRE aus                    Toreador:5
+1x Bret Stryker                             4  CEL PRE                    Toreador:6
+1x Tyler McGill                             4  AUS pre                    Toreador:5
+1x Nik Sikko                                3  cel pre                    Toreador:6
+1x Mateo García                             2  pre                        Toreador:6
+
+Library (77 cards)
+Master (15; 1 trifle)
+1x Anarch Troublemaker
+2x Art Museum
+6x British Museum, London, The
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Pentex(TM) Subversion
+
+Action (18)
+1x Heart of the City
+3x Intimidation
+3x Mind Numb
+2x Propaganda
+9x Public Trust
+
+Equipment (12)
+2x Blood Tears of Kephran
+1x Codex of the Edenic Groundskeepers
+1x Concoction of Vitality
+4x Cooler
+1x Flaming Candle
+2x Heart of Nizchetus
+1x Palatial Estate
+
+Action Modifier (14)
+7x Aire of Elation
+2x Change of Target
+5x Loup
+
+Reaction (14)
+2x Delaying Tactics
+3x Eyes of Argus
+2x My Enemy's Enemy
+2x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (4)
+4x Majesty

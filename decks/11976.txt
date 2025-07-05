@@ -1,0 +1,55 @@
+Adrino Manauara
+Fortaleza (CE), Brazil
+June 1st 2025
+2R+F
+24 players
+Lucas Teixeira
+https://www.vekn.net/event-calendar/event/11976
+
+Deck Name: Chacina da Dominaria
+Author: lucasvtes
+Description: Créditos a Bram Van Stappen
+
+Crypt (12 cards, min=14, max=24, avg=4.83)
+------------------------------------------
+2x Asguresh                            6  CEL NEC aus                Nagaraja:5
+1x Kalinda                             6  CEL OBF tha      primogen  Assamite:6
+1x Kassandra Tassaki                   6  CEL THA obf      prince    Assamite:6
+1x Khadija Al-Kindi                    6  CEL OBF THA      primogen  Assamite:6
+1x Asmin Kobane                        5  CEL dom obf tha            Assamite:6
+1x Omer                                5  CEL QUI obf                Assamite:6
+1x Bret Stryker                        4  CEL PRE                    Toreador:6
+1x Elen Kamjian                        4  CEL POT                    Brujah:6
+1x Fairuza                             4  CEL pre                    Brujah antitribu:5
+1x Mateusz Kazimirski, Biker of Blood  4  CEL qui                    Assamite:6
+1x New Blood                           2  san                        Blood Brother:ANY
+
+Library (90 cards)
+Master (23; 11 trifle)
+9x Ashur Tablets
+1x Fame
+1x Powerbase: Montreal
+5x Priority Contract
+1x Tension in the Ranks
+6x Villein
+
+Action (12)
+2x Ambush
+8x Bum's Rush
+2x Clandestine Contract
+
+Equipment (8)
+8x .44 Magnum
+
+Combat (46)
+5x Blur
+8x Concealed Weapon
+8x Infernal Pursuit
+8x Psyche!
+7x Pursuit
+1x Side Strike
+3x Sideslip
+6x Taste of Vitae
+
+Event (1)
+1x Dragonbound

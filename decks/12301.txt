@@ -1,0 +1,55 @@
+Zombies are everywhere
+Online
+April 27th 2025
+2R+F
+23 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/12301
+
+-- 1.5VP in final
+
+Deck Name: Mono animalismo Anarch
+
+Crypt (12 cards, min=18, max=29, avg=6)
+---------------------------------------
+2x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Massimiliano     7  ANI FOR pro      baron  Gangrel:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+2x Kuyén            6  ANI PRO          baron  Gangrel:6
+1x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+1x Doc Martina      6  ANI OBF for pre         Ravnos:7
+1x Susie Kano       3  ani dom                 Tzimisce:6
+1x Trung Chau Pham  3  ANI                     Ravnos:7
+
+Library (85 cards)
+Master (19; 6 trifle)
+8x Anarch Revolt
+1x Carfax Abbey
+1x Fame
+1x Powerbase: Montreal
+1x Rack, The
+1x Tension in the Ranks
+3x Vessel
+2x Villein
+1x Wider View
+
+Action (12)
+12x Deep Song
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (3)
+1x Mr. Winthrop
+2x Raven Spy
+
+Reaction (14)
+6x Bait and Switch
+8x Organized Resistance
+
+Combat (36)
+12x Aid from Bats
+10x Carrion Crows
+6x Drawing Out the Beast
+4x Taste of Vitae
+4x Terror Frenzy

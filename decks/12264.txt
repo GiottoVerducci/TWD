@@ -1,0 +1,96 @@
+Queensland State Championship 2025
+Brisbane, Australia
+June 22nd 2025
+3R+F
+17 players
+Bert Perry
+https://www.vekn.net/event-calendar/event/12264
+
+Deck Name: Deranged & Unchained 2025
+Description:
+Core idea stolen from Otso Saariluoma, a veteran tournament crusher.
+I played a version of this through 2020 online, my last stint playing VTES before returning to the game a week ago. I made some changes to include some of the V5 Cam goodness, which both did excellently. The deck plays very smoothly and the core strategy requires making well timed tough decisions, being thoughtful of voting tallies & table balance.
+After experiencing how the game has shifted over the last five years all in one weekend, I would make many changes to the list if I were to take it again. Here are some key insights:
+
+Underperformers:
+Crypt
+- Cybele - Parthenon + prevalence of trifles does enough work in this regard. Investing so much pool into a non-titled minion makes this almost always my third choice to influence. Could consider seeking a different 3rd fiddle.
+
+Library
+- Metro Underground & Enkil Cog - hardly utilized this module. Contestation issues aside, with the amount of bleed flick in the meta makes this quite tough to pull off, and often I'd much prefer playing Derange or forcing through a key bloat vote.
+- Telepathic Misdirection - I think giving up trying to stop bleeds is the way forward. Add in Narrow Minds & Archon to assist
+
+Overperformers:
+Crypt
+- Unmada - Incredible lube. Use discard actions aggressively.
+
+Library
+- Derange - I consistently found this to be the absolute highest priority and best action to be taking on most turns. Card slaps. If I had more copies I'd play more, maybe something like 8 or 9.  Even if they aren't used for the combo they slow down predator/prey by wasting actions or burning blood.
+- Madness Network - Not the focus of the deck but provided me the out in the final to seal the game win with 2 minutes on clock. Crucial sometimes, othertimes just wastes an action from predator or prey, either way is bueno.
+- Heidelberg Castle, Germany - Card is a Rolls Royce. So useable in so many situations outside the combo. In the context of the combo: absolutely devastating.
+- No Trace - This will be meta dependent but having one of your likely two minions get emptied and/or torporized is game ruining. These saved my hide many times throughout the tournament.
+- Forgotten labyrinth - Usable on Derange & Political actions, still the GOAT stealth card for non bleed happy chappys.
+
+Thanks to everyone involved in the Oz VTES Scene, my opponents, & Steve Harris for running a great event. Lastly thanks to my testing buddy Simcof, one of the great VTES builders and players in the scene.
+
+Crypt (12 cards, min=40, max=43, avg=10.25)
+-------------------------------------------
+5x Unmada                 10  AUS DEM OBF VIC cel for  justicar      Malkavian:5
+4x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+
+Library (80 cards)
+Master (43; 9 trifle)
+9x Ashur Tablets
+1x Creepshow Casino
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Giant's Blood
+2x Golconda: Inner Peace
+2x Heidelberg Castle, Germany
+2x Information Highway
+1x Madness Network
+4x Malkavian Dementia
+1x Metro Underground
+1x Monastery of Shadows
+3x Parthenon, The
+6x Villein
+1x Visit from the Capuchin
+1x Wash
+2x Wider View
+4x Zillah's Valley
+
+Action (8)
+7x Derange
+1x Entrancement
+
+Political Action (6)
+1x Ancilla Empowerment
+1x Banishment
+1x Conservative Agitation
+1x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (14)
+2x Cloak the Gathering
+2x Elder Impersonation
+3x Enkil Cog
+1x Faceless Night
+2x Forgotten Labyrinth
+1x Into Thin Air
+2x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (3)
+1x Eyes of Argus
+2x Telepathic Misdirection
+
+Combat (3)
+3x No Trace
+
+Event (1)
+1x Scourge of the Enochians

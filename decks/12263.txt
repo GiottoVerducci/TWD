@@ -1,0 +1,72 @@
+Oceania Grand Prix Brisbane 2025
+Brisbane, Australia
+June 21st 2025
+3R+F
+22 players
+Ke Carlton
+https://www.vekn.net/event-calendar/event/12263
+
+Deck list:
+Deck Name: Powerbase Decay
+Description: Focused Shroud of Decay and Family Gathering Abuse.
+Powerbase Zürich allows for both crypt acceleration and survival.
+House of Sorrow with Dreams / Coven allows for lunge turns (especially if you have Anu in play).
+Only change after the New Blood release was adding Powerbase Munich.
+Would drop 1x Tommaso for 1x Alek to lower average capacity.
+Added Unmasking + FBI last minute with minimal impact.
+
+Crypt (12 cards, min=14, max=28, avg=5.5)
+-----------------------------------------
+2x Mora, the Death Seer          7  AUS FOR OBL ani      Hecata:6
+1x Anu Diptinatpa                7  DOM NEC aus vic      Nagaraja:6
+1x Parijat, the Dark Oracle      7  AUS DOM FOR OBL      Hecata:6
+1x Tommaso Sforza                7  AUS OBL THA dom for  Hecata:6
+1x Lenelle, Mambo of Birmingham  6  FOR OBL aus          Hecata:6
+1x Monica Giovanni               6  AUS FOR OBL          Hecata:6
+1x Gebeyehu Abdu                 5  AUS OBL for          Hecata:6
+1x Holliday "Burgundy" Hall      5  FOR OBL aus          Hecata:6
+1x Hiromitsu Asano               4  aus for obl          Hecata:6
+1x Alek König                    3  OBL                  Hecata:6
+1x Peter St. John                2  obl                  Hecata:6
+
+Library (84 cards)
+Master (24; 17 trifle)
+1x Coven, The
+1x Direct Intervention
+1x Dreams of the Sphinx
+11x Family Gathering
+1x House of Sorrow
+1x Powerbase: Montreal
+1x Powerbase: Munich
+1x Powerbase: Zürich
+1x Tribute to the Master
+4x Villein
+1x Wider View
+
+Action (14)
+14x Shroud of Decay
+
+Ally (6)
+6x Spectral Servitor
+
+Action Modifier (23)
+1x Daring the Dawn
+3x Freak Drive
+3x Shadow Cast
+2x Shadow Cloak
+4x Stygian Shroud
+10x Where the Veil Thins
+
+Reaction (12)
+2x Delaying Tactics
+2x Eyes of Argus
+2x My Enemy's Enemy
+2x Shadow Sentinel
+4x Telepathic Misdirection
+
+Combat (3)
+3x Pass Through Shadow
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

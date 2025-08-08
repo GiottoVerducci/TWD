@@ -11,13 +11,14 @@ https://www.vekn.net/event-calendar/event/11891
 Deck Name: Rock Paper Torpor
 Author: Ruben Feldman
 
-Crypt (28 cards)
-21x Tupdog 1 POT VIS Gargoyle:3
-3x Keith Moody 3 DOM Tremere antitribu:4
-1x Ember Wright 3 aus dom Tremere antitribu:3
-1x Esoara 5 DOM aus for pot Tremere antitribu:4
-1x Mosfair 4 cel dom tha Tremere antitribu:4
-1x Saiz 3 aus dom Tremere antitribu:3
+Crypt (28 cards, min=4, max=15, avg=1.61)
+-----------------------------------------
+21x Tupdog         1 POT VIS            Gargoyle:3
+3x Keith Moody    3 DOM                Tremere antitribu:4
+1x Ember Wright   3 aus dom            Tremere antitribu:3
+1x Esoara         5 DOM aus for pot    Tremere antitribu:4
+1x Mosfair        4 cel dom tha        Tremere antitribu:4
+1x Saiz           3 aus dom            Tremere antitribu:3
 
 Library (86 cards)
 Master (15; 3 trifle)
@@ -33,17 +34,17 @@ Action (8)
 1x Arson
 7x Graverobbing
 
-Political Action (10)
-1x Ancient Influence
-7x Autarkis Persecution
-1x Mark of the Damned
-1x Perpetual Care
-
 Ally (10)
 1x Mylan Horseed
 1x Ossian
 7x Rock Cat
 1x Vagabond Mystic
+
+Political Action (10)
+1x Ancient Influence
+7x Autarkis Persecution
+1x Mark of the Damned
+1x Perpetual Care
 
 Action Modifier (7)
 5x As the Crow
@@ -60,9 +61,3 @@ Combat (35)
 9x Raking Talons
 4x Roundhouse
 1x Stonestrength
-
-
---------------------------
-Sven Helmer
-NC Switzerland
-Prince of Zurich

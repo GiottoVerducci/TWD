@@ -11,16 +11,17 @@ https://www.vekn.net/event-calendar/event/11890
 Deck Name: I Kyasid a Girl and I Liked It
 Author: David O'Riordan with adjustments by Ruben Feldman
 
-Crypt (12 cards)
-2x Arcadian, The 8 DOM MYT OBT chi for Kiasyd:5
-2x Dame Hollerton 5 DOM OBT myt Kiasyd:4
-2x Isanwayen 6 DOM MYT OBT Kiasyd:4
-2x Omme Enberbenight 7 MYT OBT cel dom priscus Kiasyd:4
-2x Pherydima 8 DOM MYT NEC obt pot bishop Kiasyd:4
-2x Roderick Phillips March 7 DOM MYT cel obt tha Kiasyd:4
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+2x Arcadian, The             8 DOM MYT OBT chi for           Kiasyd:5
+2x Dame Hollerton            5 DOM OBT myt                   Kiasyd:4
+2x Isanwayen                 6 DOM MYT OBT                   Kiasyd:4
+2x Omme Enberbenight         7 MYT OBT cel dom      priscus  Kiasyd:4
+2x Pherydima                 8 DOM MYT NEC obt pot  bishop   Kiasyd:4
+2x Roderick Phillips March   7 DOM MYT cel obt tha           Kiasyd:4
 
 Library (90 cards)
-Master (16; 5 trifle)
+Master (16; 4 trifle)
 1x Anarch Troublemaker
 1x Coven, The
 1x Dark Influences
@@ -34,13 +35,6 @@ Master (16; 5 trifle)
 1x Pentex(TM) Subversion
 2x Vessel
 1x Wider View
-
-Event (5)
-1x Bitter and Sweet Story, The
-1x Nightmares upon Nightmares
-1x Rising, The
-1x Thirst
-1x Waiting Game
 
 Action (18)
 11x Govern the Unaligned
@@ -64,18 +58,18 @@ Action Modifier/Reaction (3)
 2x Aura Absorption
 1x Murmur of the False Will
 
-Combat (5)
-5x Shadow Body
-
 Reaction (12)
 5x Deflection
 2x Delaying Tactics
 3x On the Qui Vive
 2x Redirection
 
+Combat (5)
+5x Shadow Body
 
---------------------------
-Sven Helmer
-NC Switzerland
-Prince of Zurich
-
+Event (5)
+1x Bitter and Sweet Story, The
+1x Nightmares upon Nightmares
+1x Rising, The
+1x Thirst
+1x Waiting Game

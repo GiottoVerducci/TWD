@@ -1,0 +1,54 @@
+Event - London Grand Prix 2025
+London, United Kingdom
+May 17th 2025
+3R+F
+40 players
+Marius Iscru
+https://www.vekn.net/event-calendar/event/11925
+
+-- 2GW6 + 3vp in final
+
+Deck Name: ANI Baron Combat
+
+Crypt (12 cards, min=12, max=29, avg=5.42)
+------------------------------------------
+2x Massimiliano     7  ANI FOR pro      baron  Gangrel:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+2x Kuyén            6  ANI PRO          baron  Gangrel:6
+2x Anarch Convert   1  -none-                  Caitiff:ANY
+1x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+1x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+1x Crow             5  ANI for pro tha         Gangrel:5
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+
+Library (85 cards)
+Master (19; 7 trifle)
+7x Anarch Revolt
+1x Carfax Abbey
+1x Fame
+1x Papillon
+1x Powerbase: Montreal
+1x Tension in the Ranks
+6x Villein
+1x Wider View
+
+Action (12)
+12x Deep Song
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (3)
+1x Mr. Winthrop
+2x Raven Spy
+
+Reaction (14)
+6x Bait and Switch
+8x Organized Resistance
+
+Combat (36)
+14x Aid from Bats
+12x Carrion Crows
+2x Drawing Out the Beast
+4x Taste of Vitae
+4x Terror Frenzy

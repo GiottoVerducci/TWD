@@ -1,0 +1,72 @@
+Week of Nightmares – Event 4
+R Bar Arena, Columbus, Ohio, USA
+June 17th 2025
+2R+F
+Sérgio Louçã Martins
+https://www.vekn.net/event-calendar/event/12058
+
+-- 1GW4 + 3vp in final
+
+Deck Name: Baltic herring
+Description:
+Finals seating Giotto and Inner Circles > Mambo Jeanne > DEM S&B > Santaleous bleed > Petrodon toolbox politics.
+
+Choosing to seat myself in front of Giotto saved my game. While the deck isn't slow it does require setup and as long as I'm not faced with Unleash Hell's Fury before I can act, it should be enough to slow it down. At it turned out there was no UHF, Petrodon blocked the first Kaymakli and I rushed Giotto, leaving him at 1 blood, which along with a lack of Banishment from Petrodon secured my back.
+
+Houngan proved essential in this game, as it allowed me to spend little pool when Mambo Jeanne eventually did get Banished.
+
+Getting my first VP allowed me to secure victory, as back ousting me was no longer an option for Santaleous given his seed.
+
+There isn't much of me in this list – my first ever game with Samedi rush was almost exactly one year ago, when Darby Keeney lent me his Mambo Jeanne to play during one of the 2024 WoN games. When I got back, I built the deck from my experiences with it, focusing on good card flow and some multi-action and it's gone through (relatively small) tech changes. The core and, honestly, the vast majority of the build, are Darby's – there's just no better card than Relentless Reaper for the deck.
+
+Thanks to Darby for lending me a Mambo Jeanne deck a year ago, which ultimately led me to 6 finals before getting my first win with it.
+
+
+Crypt (12 cards, min=24, max=36, avg=7.67)
+------------------------------------------
+5x Mambo Jeanne     9  FOR NEC OBF THN      Samedi:6
+3x Baroque          7  NEC THN aus for obf  Samedi:5
+1x Jean Lisle       8  FOR OBF THN pot      Samedi:6
+1x Josette          8  FOR OBF THN pot pre  Samedi:6
+1x Mister Schwartz  6  NEC THN for obf      Samedi:6
+1x Marie-Pierre     4  THN for nec          Samedi:6
+
+Library (90 cards)
+Master (15; 6 trifle)
+3x Blessings of the Loa
+1x Carver's Meat Packing and Storage
+2x Dreams of the Sphinx
+1x Fame
+1x Frontal Assault
+1x Houngan
+5x Villein
+1x Wider View
+
+Action (13)
+2x Ambush
+3x Big Game
+5x Bum's Rush
+3x Harass
+
+Action Modifier (11)
+9x Freak Drive
+2x Under My Skin
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Combat (48)
+6x Groaning Corpse
+5x Hidden Strength
+5x Indomitability
+3x Necrosis
+13x Relentless Reaper
+3x Resilience
+3x Rolling with the Punches
+2x Soak
+6x Taste of Vitae
+2x Unflinching Persistence
+
+Event (2)
+1x Dragonbound
+1x Scourge of the Enochians

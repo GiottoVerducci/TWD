@@ -6,9 +6,10 @@ October 1st 2022
 Ke Carlton
 https://www.vekn.net/event-calendar/event/10276
 
-Deck Name: Baalicious Barons
+-- 4vp in final
 
-4VP in the final. Mutes + Arishat + Barons for vote lock and attrition.
+Deck Name: Baalicious Barons
+Description: Mutes + Arishat + Barons for vote lock and attrition.
 
 Fairly light stealth. Added 2x Organised Resistance and 2x Monkey Wrench
 for a bit more flexibility. 6x Bait and Switch likely better than

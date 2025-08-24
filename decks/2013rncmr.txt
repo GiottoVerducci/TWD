@@ -5,7 +5,7 @@ May 25th 2013
 18 players
 Grigory Cherbakov
 
--- 4VP in final
+-- 4vp in final
 
 Crypt (12 cards, min=18, max=40, avg=7.17)
 ------------------------------------------

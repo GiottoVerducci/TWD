@@ -6,7 +6,7 @@ April 28th 2018
 Raúl Olvera Abellán
 https://www.vekn.net/event-calendar/event/8870
 
--- 4VP in final
+-- 4vp in final
 
 Crypt (12 cards, min=27, max=39, avg=8.33)
 ------------------------------------------

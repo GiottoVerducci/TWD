@@ -5,7 +5,7 @@ April 20th 2013
 10 players
 Teemu Salo
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=24, max=44, avg=9.33)
 ------------------------------------------

@@ -4,7 +4,7 @@ February 15th 2004
 19 players
 Alex Ek
 
--- 1GW7.5 + 3VP in final
+-- 1GW7.5 + 3vp in final
 
 Deck Name: Ruptura Interior
 
@@ -21,7 +21,7 @@ a majority of the table is turning malk. Then steal the vamps. Minion
 tap them, Golconda them, Burn them with PTO and prevent them from
 killing you with Obedience. Use all the broken cards you can think of
 and win. It requires a great deal of thinking and some dealing but
-it always takes vp and it usually takes gw's too.
+it always takes vp and it usually takes GW's too.
 
 Crypt (12 cards, min=28, max=44, avg=8.83)
 ------------------------------------------

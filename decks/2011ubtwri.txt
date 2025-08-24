@@ -5,7 +5,7 @@ February 4th 2011
 20 players
 Marc Lussier
 
--- 4VP in final
+-- 4vp in final
 
 Crypt (12 cards, min=33, max=42, avg=9.33)
 ------------------------------------------

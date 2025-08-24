@@ -4,7 +4,7 @@ December 12th 2010
 21 players
 Philippe Lang
 
--- 4VP in final
+-- 4vp in final
 
 Crypt (12 cards, min=11, max=28, avg=4.92)
 ------------------------------------------

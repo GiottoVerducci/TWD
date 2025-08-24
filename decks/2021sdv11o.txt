@@ -6,7 +6,7 @@ August 2nd 2021 -- August 6th 2021
 Fernando Grossi
 https://www.vekn.net/event-calendar/event/9852
 
--- 1GW4 + 3VP in final
+-- 1GW4 + 3vp in final
 
 Deck Name: Desso sexudo
 Crypt (12 cards, min=26, max=44, avg=9.17)

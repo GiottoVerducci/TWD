@@ -6,7 +6,7 @@ September 7th 2021
 Márcio Pinheiro
 https://www.vekn.net/event-calendar/event/9875
 
--- 2VP in final
+-- 2vp in final
 
 Deck Name: Gran Circle
 Crypt (12 cards, min=6, max=40, avg=5.75)

@@ -6,7 +6,7 @@ September 10th 2017
 Danilo Torrisi
 https://www.vekn.net/event-calendar/event/8731
 
-1GW7 + 1.5 in the final
+-- 1GW7 + 1.5 in final
 
 Crypt (12 cards, min=12, max=20, avg=4)
 ---------------------------------------

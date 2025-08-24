@@ -6,7 +6,7 @@ June 12th 2022
 Adam Hulse
 https://www.vekn.net/event-calendar/event/10215
 
--- 2GW7 + 3VP in final
+-- 2GW7 + 3vp in final
 
 Deck Name: Dmitra Calls the Shots
 Description: A modified version of Martin Major Dmitra assualt rife deck to adjust for the meta (Closed Session, Ancilla Empowerment) and the fact that parity shift doesn't give as much pool now.

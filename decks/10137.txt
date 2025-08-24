@@ -6,7 +6,7 @@ June 5th 2022
 Thomas Cornaz
 https://www.vekn.net/event-calendar/event/10137
 
--- 2GW7.5 + 3VP in final
+-- 2GW7.5 + 3vp in final
 
 Deck Name: Take cover Mr Emerald
 Description :
@@ -16,10 +16,10 @@ Thank you again very much for the weekend, the top organization and the kindness
 
 Finals seating:
 Darkal, girls bleed  ->
-Marius, AAA bleed 1 VP ->
-Nuggetz, Legionnaires 3 VP ->
+Marius, AAA bleed 1vp ->
+Nuggetz, Legionnaires 3vp ->
 Jeryl, Tremere powerbleed  ->
-Axel, Baron gangrel 1 VP
+Axel, Baron gangrel 1vp
 
 Crypt (12 cards, min=17, max=40, avg=7.33)
 ------------------------------------------

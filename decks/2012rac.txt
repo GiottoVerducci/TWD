@@ -5,7 +5,7 @@ January 7th 2012
 16 players
 Norbert Flasko
 
--- 4VP in final
+-- 4vp in final
 
 Crypt (12 cards, min=19, max=37, avg=7)
 ---------------------------------------

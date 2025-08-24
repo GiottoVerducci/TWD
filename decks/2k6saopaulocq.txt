@@ -7,7 +7,7 @@ Davi Cara-de-Pizza
 
 Deck Name: Deck Ventrue
 
-2GW11.5 + 4VP in final
+2GW11.5 + 4vp in final
 
 Crypt (12 cards, min=25, max=42, avg=8.92)
 ------------------------------------------

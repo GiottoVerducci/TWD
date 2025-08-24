@@ -7,11 +7,11 @@ Petrus Makkonen
 https://www.vekn.net/event-calendar/event/10759
 
 -- Tournament organizer comment:
--- We had a nice tournament with zero timed-out tables! The finals ended at 48 minutes left in the clock for Petrus with 3 VPs. There will be a written report of the final round once I have time to write it clean.
+-- We had a nice tournament with zero timed-out tables! The finals ended at 48 minutes left in the clock for Petrus with 3vp. There will be a written report of the final round once I have time to write it clean.
 
 Deck Name: Debate Club for Aspiring Vampires [by Crauseon]
 Description:
-Went 2GW+6VP in a local, funsies 13-player tournament in Joensuu, Finland. A blast to have a tournament for a change, and everyone came in good spirits and aggressive decks! This is the first draft of the deck, and it has good match-ups and bad match-ups. Think of it as a !Toreador breed deck, but with sustained combat instead of explosive bleeds. I would definitely try to cut clutter to make it a 70 or 66 card deck.
+Went 2GW+6vp in a local, funsies 13-player tournament in Joensuu, Finland. A blast to have a tournament for a change, and everyone came in good spirits and aggressive decks! This is the first draft of the deck, and it has good match-ups and bad match-ups. Think of it as a !Toreador breed deck, but with sustained combat instead of explosive bleeds. I would definitely try to cut clutter to make it a 70 or 66 card deck.
 
 Crypt (12 cards, min=16, max=28, avg=5.83)
 ------------------------------------------

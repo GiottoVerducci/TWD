@@ -8,7 +8,7 @@ https://www.vekn.net/event-calendar/event/8384
 
 Deck Name: The Crypt That Should Not Be
 
--- 1 + 2 + 4VP in final
+-- 1 + 2 + 4vp in final
 
 Description: Little bit of this, little bit of that leveraging a crypt that I've previously suggested might be reasonably strong. A good case could be made for running Gustaphe as the sole lead, but I wanted one minion with both +1 bleed and [OBF].
 

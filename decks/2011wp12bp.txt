@@ -5,7 +5,7 @@ March 3rd 2011
 10 players
 Tomasz Ceglowski
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=21, max=32, avg=6.5)
 -----------------------------------------

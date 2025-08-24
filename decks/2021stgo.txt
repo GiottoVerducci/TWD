@@ -6,7 +6,7 @@ May 22nd 2021
 Diego Rodrigues
 https://www.vekn.net/event-calendar/event/9790
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=18, max=30, avg=6.17)
 ------------------------------------------

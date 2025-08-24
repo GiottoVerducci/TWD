@@ -10,7 +10,7 @@ https://www.vekn.net/event-calendar/event/11808
 
 Name: Abraham bleed
 Description: A "smart" but straightforward bleed deck. The main motivation for choosing this deck was to depend as little as possible on other decks/players in the current meta. The MVPs were the allies, blocking rushes and diablerie.
-The finale had protean princes wall > Abraham bleed > Leandro might of the camarilla + possession > Juliet Parr politics + bleed > Demdemeh allies swarm, and the road to 4 VPs was mostly patience and steady play.
+The finale had protean princes wall > Abraham bleed > Leandro might of the camarilla + possession > Juliet Parr politics + bleed > Demdemeh allies swarm, and the road to 4vp was mostly patience and steady play.
 
 Crypt (12 cards, min=19, max=31, avg=6.33)
 ------------------------------------------

@@ -7,7 +7,7 @@ Hugh Angseesing
 
 Deck Name: Tremere Origins 2016
 
--- 1 + GW3 + 5VP in final
+-- 1 + GW3 + 5vp in final
 
 Crypt (12 cards, min=11, max=26, avg=4.75)
 ------------------------------------------

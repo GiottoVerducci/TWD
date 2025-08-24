@@ -5,7 +5,7 @@ July 9th 2012
 11 players
 Jari Vulli
 
--- 2.5VP in final
+-- 2.5vp in final
 
 Crypt (12 cards, min=30, max=43, avg=9.08)
 ------------------------------------------

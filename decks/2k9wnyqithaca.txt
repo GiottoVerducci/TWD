@@ -5,7 +5,7 @@ August 1st 2009
 25 players
 Steve Wampler
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=18, max=32, avg=6.58)
 ------------------------------------------

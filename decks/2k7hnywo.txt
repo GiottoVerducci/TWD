@@ -5,7 +5,7 @@ December 30th 2007
 10 players
 James Messer
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=25, max=43, avg=9)
 ---------------------------------------

@@ -10,7 +10,7 @@ Deck Name: Guillaume Beatdown
 Author: Otso Saariluoma
 Description: A combat-oriented Guillaume deck with an Increased Strength package for funsies. Hopefully you get to build up to have a few powerful turns before inevitably running out of steam.
 
-Managed 1.5 vps in the prelims, got in the finals with a die roll, and won with 1.5 vps, so the performance of the deck wasn’t anything to write home about.
+Managed 1.5vp in the prelims, got in the finals with a die roll, and won with 1.5vp, so the performance of the deck wasn’t anything to write home about.
 
 Crypt (12 cards, min=20, max=36, avg=7.33)
 ------------------------------------------

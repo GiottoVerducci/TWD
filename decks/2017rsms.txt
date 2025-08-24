@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/8553
 Deck Name: Giotto saca de paseo a los políticos
 Created by: Vicent Ripoll, modifications by Tomàs López Jiménez
 
--- 2GW6 + 1.5VP in final
+-- 2GW6 + 1.5 in final
 
 Crypt (12 cards, min=28, max=42, avg=8.75)
 ------------------------------------------

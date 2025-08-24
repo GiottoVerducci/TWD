@@ -4,7 +4,7 @@ October 4th 2011
 15 players
 Guilherme Villela
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=14, max=22, avg=4.67)
 ------------------------------------------

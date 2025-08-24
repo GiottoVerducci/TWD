@@ -5,7 +5,7 @@ May 11th 2012
 10 players
 Robert Fängler
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=5, max=18, avg=3.08)
 -----------------------------------------

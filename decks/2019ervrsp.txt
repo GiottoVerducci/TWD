@@ -6,11 +6,9 @@ October 5th 2019
 Tomàs López Jiménez
 https://www.vekn.net/event-calendar/event/9360
 
--- 0GW4 + 3VP in final
+-- 0GW4 + 3vp in final
 
 Deck Name: Cryptic Mission
-
-2 vp, 2 vp, 0 vp, 3VP in final
 
 Crypt (13 cards, min=11, max=23, avg=4.38)
 ------------------------------------------

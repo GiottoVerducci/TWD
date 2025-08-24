@@ -6,7 +6,7 @@ Ville Kaijasaari
 
 Deck Name: Nup's 'n Tup's.
 
-2GW6.5 (1st seed) + 1.5VP in final
+2GW6.5 (1st seed) + 1.5 in final
 
 Crypt (29 cards, min=4, max=20, avg=1.97)
 -----------------------------------------

@@ -10,7 +10,7 @@ Deck Name: gangrel anarchs
 Author: Lott
 Description: gangrel toolbox
 
--- 1.5VP in final
+-- 1.5vp in final
 Crypt (12 cards, min=12, max=24, avg=4.5)
 -----------------------------------------
 2x Kamile Paukstys        5  PRO ani for             Gangrel:6

@@ -7,7 +7,7 @@ Noel Giménez Infante
 
 Deck Name: El secreto debe mantenerse
 
--- GW3 + GW3 + 2 + 0.5VP in final
+-- GW3 + GW3 + 2 + 0.5 in final
 
 Crypt (12 cards, min=22, max=35, avg=7.25)
 ------------------------------------------

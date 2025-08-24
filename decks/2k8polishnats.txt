@@ -4,7 +4,7 @@ November 29th 2008
 39 players
 Adam Talarek
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=12, max=28, avg=5)
 ---------------------------------------

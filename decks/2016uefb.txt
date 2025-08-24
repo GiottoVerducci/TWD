@@ -6,7 +6,7 @@ November 27th 2016
 Mauro César
 https://www.vekn.net/event-calendar/event/8525
 
--- 4VP in final
+-- 4vp in final
 
 Crypt (12 cards, min=22, max=40, avg=7.75)
 ------------------------------------------

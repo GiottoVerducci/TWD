@@ -5,7 +5,7 @@ September 14th 2013
 10 players
 Marcello Bertocchi
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=4, max=15, avg=2.33)
 -----------------------------------------

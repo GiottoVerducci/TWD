@@ -11,11 +11,11 @@ https://www.vekn.net/event-calendar/event/10896
 It was a good day at the Rewind Time: Charlotte tournament, held at Carolina Tabletop Games. We had 12 players total attend, three of which came from as far away as Marshall, Texas.
 
 After the first two rounds, the top five finalists were:
-1. Jason Joy (Mata Hari Inside Dirt) 2 GW 3 VP
-2. Matt Hatch (Anarch Gangrel Wall) 1 GW 5VP
-3. Felipe Fiuza (Anarch Gangrel) 1 GW 5VP
+1. Jason Joy (Mata Hari Inside Dirt) 2GW 3vp
+2. Matt Hatch (Anarch Gangrel Wall) 1GW 5VP
+3. Felipe Fiuza (Anarch Gangrel) 1GW 5VP
 4. Brenda Joy (Lasombra Stealth Bleed) 3VP
-5. Jose Lafuente (Tremere Antritribu Bleed & Block) 1 GW 3VP
+5. Jose Lafuente (Tremere Antritribu Bleed & Block) 1GW 3VP
 
 Seating order for the Final:
 1. Jason Joy
@@ -25,7 +25,7 @@ Seating order for the Final:
 5. Matt Hatch
 
 Final Result:
-Jason won the final with 3 VP. Felipe had 2 VP.
+Jason won the final with 3vp. Felipe had 2vp.
 All finalists were award with a small stack of various VTES boosters. Jason received a sealed 25th Anniversary Deck Box and a larger stack of boosters.
 
 Deck Name: Mata Hari has the moves and inside dirt

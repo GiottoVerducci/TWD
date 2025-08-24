@@ -5,7 +5,7 @@ June 13th 2009
 39 players
 Izaak Havelaar
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=18, max=28, avg=5.92)
 ------------------------------------------

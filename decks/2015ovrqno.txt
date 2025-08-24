@@ -8,7 +8,7 @@ https://www.vekn.net/event-calendar/event/7966
 
 Deck Name: unnamed & unShattered (V2.1)
 
--- 1GW8 (3rd seed) + 1.5VP in final
+-- 1GW8 (3rd seed) + 1.5 in final
 
 Description: Original design intended to leverage The unnamed, morphed from a previous version inspired
 by Ferenc's impressive Gate-Shatter deck. This simplified version allows steadier bleed pressure with capability

@@ -7,7 +7,7 @@ Otto Kallokoski
 
 Deck Name: Shamblers
 
-3GW + 1.5VP in final
+3GW + 1.5 in final
 
 Crypt (12 cards, min=6, max=25, avg=3.75)
 -----------------------------------------

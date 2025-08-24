@@ -6,7 +6,7 @@ October 2nd 2021
 Ivan Marin-Rivas
 https://www.vekn.net/event-calendar/event/9880
 
--- 3VP in final
+-- 3vp in final
 
 Deck Name: Hot Pot
 Description: Hot Potence-Presence-Obfuscate voter.

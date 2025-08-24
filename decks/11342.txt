@@ -6,7 +6,7 @@ April 7th 2024
 David Adriano Silva Resende Leite
 https://www.vekn.net/event-calendar/event/11342
 
--- 5VP in final
+-- 5vp in final
 
 Deck Name: Nocturn Lasombra Bleed
 Author: David Leite (this version at last)

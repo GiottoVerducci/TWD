@@ -5,7 +5,7 @@ August 26th 2007
 15 players
 Otso Saariluoma
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=21, max=32, avg=6.75)
 ------------------------------------------

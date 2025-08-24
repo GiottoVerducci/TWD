@@ -6,7 +6,7 @@ November 6th 2016
 Sandro Rodrigues
 https://www.vekn.net/event-calendar/event/8449
 
--- 5VP in final
+-- 5vp in final
 
 Crypt (12 cards, min=36, max=44, avg=10.17)
 -------------------------------------------

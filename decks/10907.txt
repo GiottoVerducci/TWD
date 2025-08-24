@@ -10,12 +10,12 @@ We had a great tournament this day, as we said goodbye Benjamin Billings, who is
 
 Ten players were in attendance. After two rounds the preliminary standings were:
 
-Vadim Matveev - 2 GW 8 VP
-Bejamin Billings - 1 GW 5.5 VP
-Kate Schofield - 1.5 VP
-Benjamin Burton - 1 VP
-Brett Schofield - 1 VP
-John Byrd - 0.5 VP
+Vadim Matveev - 2GW 8vp
+Bejamin Billings - 1GW 5.5vp
+Kate Schofield - 1.5vp
+Benjamin Burton - 1vp
+Brett Schofield - 1vp
+John Byrd - 0.5vp
 Jason Joy - 0
 Jose LaFunete - 0
 Jordan Beall - 0
@@ -29,7 +29,7 @@ Brett Schofield - Toreador Block, Bleed, Shoot
 Vadim Metveev - Thucimia Stealth Bleed
 Benjamin Billings - Giovanni Shambling Hordes
 
-In the finals, it was a clean sweep for Vadim, who received all 5 VPs in the final round.
+In the finals, it was a clean sweep for Vadim, who received all 5vp in the final round.
 
 Congratulations to Vadim on his amazing win!
 

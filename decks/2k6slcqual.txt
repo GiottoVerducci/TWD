@@ -5,7 +5,7 @@ May 20th 2006
 12 players
 Alex Harmon
 
--- 3GW8 + 2VP in final
+-- 3GW8 + 2vp in final
 
 Crypt (13 cards, min=13, max=22, avg=4.46)
 ------------------------------------------

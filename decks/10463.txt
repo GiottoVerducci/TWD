@@ -6,7 +6,7 @@ November 26th 2022
 Balázs Kalóczkai
 https://www.vekn.net/event-calendar/event/10463
 
--- 5VP in final
+-- 5vp in final
 
 Deck Name:   Anarch Enkidu v1.4
 Created By:  balupanker

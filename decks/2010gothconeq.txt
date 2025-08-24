@@ -6,7 +6,7 @@ Erik Torstensson
 
 Deck Name: Girls!
 
--- 3GW9 + 3VP in final
+-- 3GW9 + 3vp in final
 
 Crypt (12 cards, min=36, max=44, avg=10)
 ----------------------------------------

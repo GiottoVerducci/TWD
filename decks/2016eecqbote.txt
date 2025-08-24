@@ -7,7 +7,7 @@ Hugh Angseesing
 
 Deck Name: Ghede Typhonic Beast
 
--- 2.5 + 2.5 + 4VP in final
+-- 2.5 + 2.5 + 4vp in final
 
 Crypt (13 cards, min=17, max=40, avg=8.15)
 ------------------------------------------

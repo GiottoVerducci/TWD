@@ -5,7 +5,7 @@ August 23rd 2009
 16 players
 Mark Loughman
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=14, max=44, avg=6.75)
 ------------------------------------------

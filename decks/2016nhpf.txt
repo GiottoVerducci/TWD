@@ -5,7 +5,7 @@ January 24th 2016
 10 players
 Alain Greiner
 
--- 2VP in final
+-- 2vp in final
 
 Crypt (12 cards, min=15, max=44, avg=7.08)
 ------------------------------------------

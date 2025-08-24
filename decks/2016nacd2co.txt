@@ -8,7 +8,7 @@ https://www.vekn.net/event-calendar/event/8381
 
 Deck Name: [2016 Origins] Six Demon Bag
 
--- GW2.5 + 0 + GW2.5 + 3VP in final
+-- GW2.5 + 0 + GW2.5 + 3vp in final
 
 Description: Deceivingly robust unnamed bleed deck. Plinks away while maintaining a decent pool buffer, then tends to have unexpectedly large turns (often with a pair of Infernal Servitors back-to-back). I'm still shocked at how well this deck holds up in tournament play.
 Finalists: Mark Loughman (Lasombra Nocturn Bleed) --> Sonam Adinolf (Spirit Marionette + DOM Tap/Bleed) --> Will Kristoff (Alonzo Petrodon Toolbox) --> Adam Hulse (Ishtarri Multiaction) -- Darby Keeney (unnamed Bleed)

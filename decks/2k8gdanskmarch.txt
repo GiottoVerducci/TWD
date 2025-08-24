@@ -4,7 +4,7 @@ March 1st 2008
 21 players
 Jakub Baranski
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=26, max=36, avg=8)
 ---------------------------------------

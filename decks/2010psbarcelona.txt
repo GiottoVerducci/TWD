@@ -5,12 +5,10 @@ May 30th 2010
 56 players
 Yannick Gibert
 
--- 13VP in final
-
 Deck Name: Cuir, cuir, cuir moustache.
 Created by: Hugh Angseesing, with a some little tweak
 
-Description: This deck turned to be very effective there, with 4GW and
+Description: This deck turned to be very effective there, with 4GW13 during the tournament.
 
 Crypt (12 cards, min=16, max=30, avg=5.75)
 ------------------------------------------

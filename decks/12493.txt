@@ -1,0 +1,51 @@
+Before the Solstice - Standard Constructed
+Coimbra, Portugal
+July 19th 2025
+3R+F
+10 players
+Eduardo Manuel Mateus
+https://www.vekn.net/event-calendar/event/12493
+
+Deck Name: “The Downward Spiral”
+
+Crypt (12 cards, min=4, max=40, avg=5.83)
+-----------------------------------------
+4x Helena (ADV)    10  AUS CEL DOM dai obf pre tha  Toreador:3
+2x Helena          10  AUS CEL DOM obf pre tha      Toreador:3
+1x Isabel de Leon   3  AUS                          Toreador:2
+1x Zöe              3  AUS cel obf                  Malkavian:2
+1x Anarch Convert   1  -none-                       Caitiff:ANY
+1x Feo Ramos        1  aus                          Pander:3
+1x Franciscus       1  aus                          Caitiff:2
+1x Royce            1  dom                          Pander:2
+
+Library (90 cards)
+Master (19; 5 trifle)
+2x Antediluvian Awakening
+1x Arcanum Chapterhouse, Alexandria
+2x Curse of Nitocris
+1x Dabbler
+2x Direct Intervention
+3x Dreams of the Sphinx
+1x Oblivion
+1x Pentex(TM) Subversion
+1x Secure Haven
+1x Smiling Jack, The Anarch
+2x Villein
+2x Wider View
+
+Reaction (69)
+2x Burnt Offerings
+10x Deflection
+9x Diabolic Lure
+8x Eagle's Sight
+5x Enhanced Senses
+8x Eyes of Argus
+2x My Enemy's Enemy
+12x Obedience
+5x Quicken Sight
+8x Telepathic Misdirection
+
+Event (2)
+1x Narrow Minds
+1x Waiting Game

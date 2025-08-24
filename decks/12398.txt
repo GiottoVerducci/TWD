@@ -1,0 +1,77 @@
+VTES AP - Estadual Amapá
+Macapá, Brazil
+June 22nd 2025
+2R+F
+12 players
+Luís Andre Oliveira Uchoa
+https://www.vekn.net/event-calendar/event/12398
+
+-- 1.5vp in final
+
+Deck Name: [COPY] 30th Anniversary
+https://vtesdecks.com/deck/user-lucians2-191c61c467d143c891f0bc5ff12a2a9b
+
+Crypt (12 cards, min=27, max=36, avg=8.08)
+------------------------------------------
+4x Diana Iadanza       9  AUS CEL FOR PRE      justicar  Toreador:7
+2x Annabelle Triabell  9  AUS CEL PRE dom for  primogen  Toreador:6
+2x Modius              8  AUS CEL PRE obf      prince    Toreador:7
+1x Catalina Vega       8  AUS CEL PRE for      prince    Toreador:6
+1x Flávio Gonçalves    7  CEL PRE aus for      prince    Toreador:6
+1x Maila               6  AUS PRE cel          primogen  Toreador:6
+1x Mkhokheli           6  PRE aus cel for      prince    Toreador:6
+
+Library (90 cards)
+Master (23; 6 trifle)
+1x Art Museum
+2x Camarilla Conclave
+1x Creepshow Casino
+1x Dreams of the Sphinx
+2x Information Highway
+1x Legendary Vampire
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion
+6x Villein
+6x Zillah's Valley
+
+Action (2)
+2x Entrancement
+
+Equipment (1)
+1x Gran Madre di Dio, Italy
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+6x Camarilla's Iron Fist
+1x Kindred Segregation
+4x Parity Shift
+1x Political Stranglehold
+1x Rumors of Gehenna
+1x Year of Fortune
+
+Action Modifier (18)
+2x Daring the Dawn
+4x Forced March
+4x Loup
+4x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Action Modifier/Reaction (4)
+4x Scalpel Tongue
+
+Reaction (12)
+2x Eyes of Argus
+2x My Enemy's Enemy
+4x Second Tradition: Domain
+4x Telepathic Misdirection
+
+Combat (8)
+4x Charismatic Aura
+4x Majesty

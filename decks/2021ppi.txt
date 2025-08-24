@@ -6,7 +6,7 @@ July 11th 2021
 Nicola Lonardi
 https://www.vekn.net/event-calendar/event/9816
 
--- 1GW3.5 + 4VP in final
+-- 1GW3.5 + 4vp in final
 
 Deck Name: Diario 1.0
 Description: Classic Khazar swarm deck

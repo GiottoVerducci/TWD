@@ -6,7 +6,7 @@ December 19th 2021
 Lasse Pöyry
 https://www.vekn.net/event-calendar/event/9980
 
--- 0 + 2.5 + 2.5vp in final
+-- 0 + 2.5 + 2.5 in final
 
 Deck Name: Banu Haqim bruise bleed
 Description: Bleed and use red cards either to increase bleed or getting rid of blockers.

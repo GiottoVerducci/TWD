@@ -8,7 +8,7 @@ Hugh Angseesing
 Deck Name: What Is and What Should Never Be
 Created by: David Litwin (Pagan)
 
--- 1GW2.5 + 3VP in final
+-- 1GW2.5 + 3vp in final
 
 Crypt (12 cards, min=20, max=36, avg=7.25)
 ------------------------------------------

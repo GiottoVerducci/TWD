@@ -6,7 +6,7 @@ November 12th 2016
 Yoann Guyader
 https://www.vekn.net/event-calendar/event/8507
 
--- 2GW7 + 1.5VP in final
+-- 2GW7 + 1.5 in final
 
 Crypt (12 cards, min=14, max=27, avg=5.08)
 ------------------------------------------

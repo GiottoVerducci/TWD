@@ -5,7 +5,7 @@ October 24th 2008
 40 players
 Pascal Bertrand
 
--- 5VP in final
+-- 5vp in final
 
 Crypt (12 cards, min=20, max=29, avg=6.42)
 ------------------------------------------

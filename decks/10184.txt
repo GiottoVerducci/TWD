@@ -6,7 +6,7 @@ May 21st 2022
 Jorge Delgado
 https://www.vekn.net/event-calendar/event/10184
 
--- 1.5 VP in final
+-- 1.5vp in final
 
 Deck Name: Anson Gunz post-Parity Shift nerf
 Comments: Changed slightly the deck after 2019. Upgraded to 12 Ashurs to try and dispute the Ashur race to Girls decks mainly. Switched the 2 Parity Shifts by 2 Anathema. Also removed Pentex Subversion for obvious reasons (I was using it maybe for the "can't act" part against vampires with Secure Haven or vampires I could not deal with).

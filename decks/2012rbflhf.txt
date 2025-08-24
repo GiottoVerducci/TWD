@@ -5,7 +5,7 @@ August 5th 2012
 10 players
 Juha Nyholm
 
--- 3VP in final
+-- 3vp in final
 
 Deck Name: The Nosferatu Hate You! (version 6.0.0.1)
 Created by: Originally by Peter Bakija. Very minor modifications by Juha Nyholm.

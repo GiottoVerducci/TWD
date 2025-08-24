@@ -6,7 +6,7 @@ February 15th 2020
 César Ruipérez
 https://www.vekn.net/event-calendar/event/9517
 
--- 2GW7.5 + 3VP in final
+-- 2GW7.5 + 3vp in final
 
 Crypt (12 cards, min=22, max=32, avg=6.58)
 ------------------------------------------

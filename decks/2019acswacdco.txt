@@ -6,7 +6,7 @@ November 9th 2019
 Karl Schaefer
 https://www.vekn.net/event-calendar/event/9425
 
--- 1GW5 + 1.5VP in final
+-- 1GW5 + 1.5 in final
 
 Deck Name: Dream a Little Dream (Cup Edition)
 Created by: Karl Schaefer
@@ -22,7 +22,7 @@ toss Powerbase: Madrid votes is useful but may be making the deck too large
 overall.
 
 I chose this deck for the day because it tends to have surprising
-survivability. I got 2 GW on NAC Day One this year with it and I have great
+survivability. I got 2GW on NAC Day One this year with it and I have great
 familiarity with it. Since the event was going to include many folks I had
 never played with, I wanted that familiarity and reliability. I squeaked into
 the finals with 1GW5, earning my game win in round one, but faced Darby
@@ -33,11 +33,11 @@ can steal blood (and life), and permacept in Bupe and Saatet-Ta.
 For me the day revolves around battling that same Temptation deck over and over
 and over, but there was more to the final that just our two decks.
 
-1st seed Dave Litwin Dmitra Breed/Boon 0.5 VP ->
-3rd seed Bill Troxel Mordecai Ben-Nun Anarch Legionnaires 0.5 VP ->
-5th seed Kevin Mitcham Arika with G2/3 Ventrue 0.5 VP ->
-4th seed Me 1.5 VP ->
-2nd seed Darby Keeney Temptation 0 VP
+1st seed Dave Litwin Dmitra Breed/Boon 0.5vp ->
+3rd seed Bill Troxel Mordecai Ben-Nun Anarch Legionnaires 0.5vp ->
+5th seed Kevin Mitcham Arika with G2/3 Ventrue 0.5vp ->
+4th seed Me 1.5vp ->
+2nd seed Darby Keeney Temptation 0vp
 
 I had no seating choice and am not sure where I would have sat had I been given
 a choice. I am pretty sure that Darby chose to sit in front of me because in
@@ -71,7 +71,7 @@ making a baby and Bill was still churning out Legionnaires. Bill made a first
 push against Kevin. Kevin was feeling the pressure and also irked by Darby
 partially controlling Arika. Kevin calls Anarchist Uprising to really put the
 hurt on Bill (and me), but Dave was up to six minions and Darby had enough that
-it was voted down because I would have been in position to get a quick 2 VPs.
+it was voted down because I would have been in position to get a quick 2vp.
 
 After that, I decided to make a move. I played Dream World and get Darby down to
 3 pool. I wasn't able to finish him. Darby is in a no-win position and has

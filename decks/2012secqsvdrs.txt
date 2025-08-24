@@ -6,7 +6,7 @@ September 15th 2012
 César Ruipérez
 https://www.vekn.net/event-calendar/event/6784
 
---3GW11 + 1.5VP in final
+--3GW11 + 1.5 in final
 
 Crypt (26 cards, min=4, max=18, avg=1.69)
 -----------------------------------------

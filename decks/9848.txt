@@ -6,7 +6,7 @@ October 1st 2021
 Karl Schaefer
 https://www.vekn.net/event-calendar/event/9848
 
--- 0GW1.5 + 2.5VP in final
+-- 0GW1.5 + 2.5 in final
 
 Deck Name: Balls of Stihl
 Created by: Darby Keeney and John Eno
@@ -14,7 +14,7 @@ Description: A dancing Imbued deck featuring Talbot's Chainsaw.
 
 Mental mistakes cost games. In round one, I was blocked transferring equipment to Jennie, but my
 mental game state had that action succeed, so when I blocked with a one life Jennie two turns later
-the mistake leads to a burned Jennie. It's really hard to run this deck without her. 0 VPs in round
+the mistake leads to a burned Jennie. It's really hard to run this deck without her. 0vp in round
 one.
 
 Round two wasn't shaping up to be any better. My prey was playing Lasombra and influenced Carolina
@@ -25,7 +25,7 @@ powers into play. Late game I used Angel of Berlin to put Talbot's Chainsaw on J
 the famous Lord Leopold, dunking him. After unlocking with Vigilance, I was able to bleed with
 Strike/Second Sight to oust. Next turn with time running low, I land the ousting bleed on my new
 prey, but Carna decides to Eagle's Sight my ousting bleed. Instead of a game win, I end up with
-1.5 VPs.
+1.5vp.
 
 That's enough to sneak into the finals as 5th seed.
 Ian Lee with Lasombra ->

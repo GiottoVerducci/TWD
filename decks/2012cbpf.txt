@@ -5,7 +5,7 @@ October 20th 2012
 14 players
 Mehdi Mazni
 
--- 4VP in final
+-- 4vp in final
 
 Crypt (12 cards, min=8, max=20, avg=3.67)
 -----------------------------------------

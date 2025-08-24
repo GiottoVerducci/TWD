@@ -6,7 +6,7 @@ June 25th 2023
 Karl Schaefer
 https://www.vekn.net/event-calendar/event/10734
 
--- 2GW6 + 3 vps in the final
+-- 2GW6 + 3vp in final
 
 Deck Name: Shambling into the Void v2
 Description: Shambling Hordes and Emerald Legionnaires
@@ -22,10 +22,10 @@ I was second seed, so did not have final choice. I decided to stack the vote dec
 hopes that would cause contention and sit as Mark's prey because his deck was a slow-
 building one.
 
-Me: 3 VP ->
-Elan: g1/2 Nos with Fortitude 1 VP ->
-Kelly: Capuchin wall 0 VP ->
-Norm: g6 Brujah toolbox 1 VP ->
+Me: 3vp ->
+Elan: g1/2 Nos with Fortitude 1vp ->
+Kelly: Capuchin wall 0vp ->
+Norm: g6 Brujah toolbox 1vp ->
 Mark: Black Hand swarm 0VP
 
 Instead of going directly for Angelique, which is my usual strategy, I brought Pearl up with

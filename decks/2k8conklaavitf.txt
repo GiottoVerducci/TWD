@@ -7,7 +7,7 @@ Antero Leppänen
 
 Deck Name: Irresponsible Setites
 
-1GW4 (4th seed) + 3VP in final
+1GW4 (4th seed) + 3vp in final
 
 Crypt (12 cards, min=10, max=26, avg=4.75)
 ------------------------------------------

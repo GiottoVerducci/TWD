@@ -18,9 +18,9 @@ Description: Tremere fatties with a bit diversified crypt and an expanded master
 -- We had a tournament in Turku for the first time in 10 years, and it was great success in terms of attendance. As a new baron in the city, I want to thank all the attendees for creating a very nice and warm-spirited tournament. The meta was uncharacteristically non-combat (for the nordic), and there was a lot of fast bleed and politics.
 -- All the finalists in order from highest seed:
 -- Magnus Söder with Arika bleed
--- Otso Saariluoma with Usurper High Council (2 vps in the final)
--- Kim Nilsson with Ministry of Crime ie. Platinum Protocol (2 vps in the final)
--- Noora Hirvonen with Weenie Dem (1 vp in the final)
+-- Otso Saariluoma with Usurper High Council (2vp in the final)
+-- Kim Nilsson with Ministry of Crime ie. Platinum Protocol (2vp in the final)
+-- Noora Hirvonen with Weenie Dem (1vp in the final)
 -- Pekka Kinnunen with Elimelech toolbox
 -- Shoutout to Lauri Salmi who was left out by draw from shared 4th place.
 

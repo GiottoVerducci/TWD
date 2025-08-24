@@ -11,22 +11,22 @@ Collaboration/Consultation from: Karl Schaefer
 
 Description: A modification of "Flay the Game" (www.vekn.fr/decks/twd.htm#2019rmdc). This is a proof of concept for a module that many are likely to bolt on to V5 Tzimisce. It also scratches the itch of my obsession with British Museum.
 
--- 1GW4 + 2VP in finals, win on seeding
+-- 1GW4 + 2vp in final, win on seeding
 
 Overview: I played most of the first round with an open hand of 9 cards. Having 5-7 stealth and 2-3 combat ends visible at all times was mildly disheartening for the 3 ally-based decks at the table so I didn't bother to remove it.
 
 The second round was less favorable, I barely missed my prey who was tossing 4 point Kindred Spirits in my direction until his prey over-transferred....almost like he didn't consider the possibility of 7 bleed coming his way. I still squeak into the final on a roll-off.
 
 Final Table:
-Jamie: Laz bleed/block (2 VP)
+Jamie: Laz bleed/block (2vp)
 Matt: Banu Haqium irresponsible bleed
 Paul: D'erlette Nephanus Tablets
-Darby: Xipe BM Manse (2 VP)
-Logan: unnamed Protocol bleed (1 VP)
+Darby: Xipe BM Manse (2vp)
+Logan: unnamed Protocol bleed (1vp)
 
-The Nephandus deck stalled the Banu and Jamie gets back-to-back ousts. He's sitting as 5th seed so it's either engineer his demise or try to blast out 3 VP in a hurry. That first option seemed easier, and if the unnamed misfires, that other option remains viable. But the plan works.
+The Nephandus deck stalled the Banu and Jamie gets back-to-back ousts. He's sitting as 5th seed so it's either engineer his demise or try to blast out 3vp in a hurry. That first option seemed easier, and if the unnamed misfires, that other option remains viable. But the plan works.
 
-Heads-up with the unnamed was a near thing, compounded by a Weißbier-inspired error on my part. Still managed to barely get the heads-up oust for the 2 VP win on seeding.
+Heads-up with the unnamed was a near thing, compounded by a Weißbier-inspired error on my part. Still managed to barely get the heads-up oust for the 2vp win on seeding.
 
 Crypt (12 cards, min=23, max=36, avg=7.58)
 ------------------------------------------

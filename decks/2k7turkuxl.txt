@@ -7,7 +7,7 @@ Antero Leppänen
 
 Deck Name: The Dance of Nikolaus
 
-2GW5 (3rd seed) + 5VP in final
+2GW5 (3rd seed) + 5vp in final
 
 Crypt (12 cards, min=11, max=31, avg=5.58)
 ------------------------------------------

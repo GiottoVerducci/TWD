@@ -8,7 +8,7 @@ Arnaud Baigts
 Deck Name: The Fear Factor
 Created by: Stone
 
--- 2GW5.5 (2nd seed) + 1.5VP in final
+-- 2GW5.5 (2nd seed) + 1.5 in final
 
 Crypt (12 cards, min=28, max=39, avg=8.42)
 ------------------------------------------

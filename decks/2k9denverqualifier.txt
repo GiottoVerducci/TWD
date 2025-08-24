@@ -5,7 +5,7 @@ August 29th 2009
 12 players
 Jon Sushinsky
 
--- 3VP in final
+-- 3vp in final
 
 Crypt (12 cards, min=7, max=24, avg=4)
 --------------------------------------

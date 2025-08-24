@@ -6,7 +6,7 @@ September 2nd 2023
 Javier Naranjo
 https://www.vekn.net/event-calendar/event/10945
 
--- 1.5VP in final
+-- 1.5vp in final
 
 Deck Name: Maabara Recursion
 Author: Alexandros

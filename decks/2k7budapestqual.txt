@@ -4,7 +4,7 @@ March 31st 2007
 53 players
 Tibor Holhos
 
--- 3GW11 + 4VP in final
+-- 3GW11 + 4vp in final
 
 Crypt (12 cards, min=17, max=28, avg=5.58)
 ------------------------------------------

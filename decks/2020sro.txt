@@ -6,7 +6,7 @@ June 27th 2020
 Joscha Düll
 https://www.vekn.net/event-calendar/event/9633
 
--- 1GW4 + timeout in the final
+-- 1GW4 + timeout in final
 
 Deck Name: Inner Pander
 Created by: Tomàs López Jiménez

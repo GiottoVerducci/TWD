@@ -9,7 +9,7 @@ https://www.vekn.net/event-calendar/event/11053
 
 -- Short report: in round 1, we play with 8 players.
 -- In the 2nd round, 1 player drops and 2 new players join,so we have 10 players for the 2nd round.
--- There were only 2 GW through all the rounds
+-- There were only 2GW through all the rounds
 
 Deck Name: Barons w guns
 Author:  Bram van Stappen

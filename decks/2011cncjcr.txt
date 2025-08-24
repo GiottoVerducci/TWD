@@ -6,7 +6,7 @@ August 28th 2011
 Michal Hrebejk
 https://www.vekn.net/event-calendar/event/7507
 
--- 1GW6 + 3VP in final
+-- 1GW6 + 3vp in final
 
 Crypt (12 cards, min=17, max=30, avg=6.08)
 ------------------------------------------

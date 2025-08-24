@@ -10,9 +10,9 @@ Central Comic Headquarters (CCHQ) was the site where 30 players
 gathered to battle it out for High Stakes supremacy. After 3 grueling
 rounds of preliminary bloodshed, 5 methuselahs came out on top:
 
-1. Nikos (9VP, 3VP in final) - Gangrel Intercept
-2. Kensai (9VP, 1VP in final) - Setite Politics
-3. Danz (8VP, 1VP in final) - Weenie Animalism Bleed+Combat
+1. Nikos (9VP, 3vp in final) - Gangrel Intercept
+2. Kensai (9VP, 1vp in final) - Setite Politics
+3. Danz (8VP, 1vp in final) - Weenie Animalism Bleed+Combat
 4. Johann (6.5VP) - Ahrimanes Intercept
 5. Jhun (6VP) - Lasombra Toolbox
 

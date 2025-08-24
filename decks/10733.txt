@@ -6,7 +6,7 @@ June 23rd 2023
 Karl Schaefer
 https://www.vekn.net/event-calendar/event/10733
 
--- 2GW7 + 2 vps in the final, won on seeding
+-- 2GW7 +2vp in final, won on seeding
 
 Deck Name: Death Star (Setite Version)
 Description: Another of my Death Star variants based on Matt Morgan's design.
@@ -24,11 +24,11 @@ him to oust his prey without interference and proceeded to oust him the turn aft
 deal wasn't necessary given that my predator lacked any vote cards to sway the outcome
 of the vote, but it was the safest move.
 
-Bill: weenie DEM 1 VP ->
-Brad: vote something (ousted too fast to know) 0 VP ->
-Norm: g6 Nos w/Protected District 0 VP ->
-Me: 2 VP ->
-Kelly: Malk 2020 2 VP
+Bill: weenie DEM 1vp ->
+Brad: vote something (ousted too fast to know) 0vp ->
+Norm: g6 Nos w/Protected District 0vp ->
+Me: 2vp ->
+Kelly: Malk 2020 2vp
 
 As first seed, I decided to sit as predator to the doubled-up bleed decks. I hoped that Bill
 would take one and then be ousted, giving me the ability to win by being the last-man

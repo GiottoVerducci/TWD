@@ -6,12 +6,12 @@ February 16th 2025
 Alex Krizsán
 https://www.vekn.net/event-calendar/event/12102
 
--- 3VP in final
+-- 3vp in final
 
 Deck Name: Salubri Grinder
 Author: Alex Krizsán, inspired by the TWD of Jonas Ståhle (heads up to Jonas)
 
-Alex Krizsán 3 VP -> András Filius -> Zsolt Gonda 1 VP -> Gábor Martók 1 VP -> Milán Kovács
+Alex Krizsán 3vp -> András Filius -> Zsolt Gonda 1vp -> Gábor Martók 1vp -> Milán Kovács
 
 Crypt (12 cards, min=17, max=31, avg=6.08)
 ------------------------------------------

@@ -6,7 +6,7 @@ August 12th 2018
 Karl Schaefer
 https://www.vekn.net/event-calendar/event/8950
 
--- 1GW4 + 1.5VP in final
+-- 1GW4 + 1.5 in final
 
 Deck Name: Anarch Diary (Firesale Remix)
 Description: Anarch Khazar's Diary Deck
@@ -17,11 +17,11 @@ worked well today, but the key to both rounds that the deck performed well in wa
 Khazar's into play before my predator or prey had any minions to block with.
 
 As I expected it was an ally heavy day with the final having 3 ally decks:
-Alex (Garou) 1.5 VP ->
-Mariya (Anneke/Anson toolbox) 0 VP ->
-Me 1.5 VP ->
-Mark (Shamblers and Hookers) 0 VP ->
-Jeff (Gargoyle Razor Bat wall) 0.5 VP
+Alex (Garou) 1.5vp ->
+Mariya (Anneke/Anson toolbox) 0vp ->
+Me 1.5vp ->
+Mark (Shamblers and Hookers) 0vp ->
+Jeff (Gargoyle Razor Bat wall) 0.5vp
 
 I actually didn't play The Unmasking in the final because of Mark's allies, though he played it a
 turn later. Alex had the first oust, but the Diary was primed by that point. I kept whittling Mark

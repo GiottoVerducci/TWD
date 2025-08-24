@@ -8,7 +8,7 @@ Jordi Tomás
 Deck Name: Paella au d'Erlette
 Created by: Ignasi Vilagrasa
 
-0.5+3VP+3VP + 3.5VP in final
+0.5+3VP+3VP + 3.5 in final
 
 Crypt (12 cards, min=10, max=20, avg=3.92)
 ------------------------------------------

@@ -6,7 +6,7 @@ July 14th 2024
 Federico Neri
 https://www.vekn.net/event-calendar/event/11494
 
--- 1.5 vps in the final
+-- 1.5vp in final
 
 Crypt (12 cards, min=14, max=26, avg=5.17)
 ------------------------------------------

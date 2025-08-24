@@ -6,8 +6,8 @@ December 4th 2022
 Bill Troxel
 https://www.vekn.net/event-calendar/event/10415
 
-Swept a 4-player table round 1, got 1 VP in round 2. Went into finals as
-2nd seed with 1GW+5VP. Won with 4VP in final round.
+Swept a 4-player table round 1, got 1vp in round 2. Went into finals as
+2nd seed with 1GW+5VP. Won with 4vp in final round.
 
 Finals seating:
 1. Alex Romano (1st seed): Inyanga Garou ->
@@ -71,7 +71,7 @@ Action Modifier (20)
 2x Zephyr -- helped once in each of two rounds; might remove 1 copy
 
 Action Modifier/Combat (7)
-4x Predator's Transformation -- gold! Cheap to cycle, directly responsible for 2VPs that day
+4x Predator's Transformation -- gold! Cheap to cycle, directly responsible for 2vp that day
 3x Taking the Skin: Minion -- use w/Great Beast and Flurry for lunge gimmick
 
 Combat (8)

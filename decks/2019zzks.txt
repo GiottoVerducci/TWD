@@ -6,7 +6,7 @@ July 6th 2019
 Milos Krstic
 https://www.vekn.net/event-calendar/event/9280
 
--- 0GW2.5 + 3VP in final
+-- 0GW2.5 + 3vp in final
 
 Deck Name: Spanish Ladies AV
 
@@ -20,7 +20,7 @@ Milutin Melka (Fakir with Akunanse block and rush)
 A finely tuned version of established stealth and bleed deck archetype,
 improved by additional Crypt acceleration and Crypt filtration using Anarch
 Converts to avoid duplicate vampires and make use of transfers to the fullest.
-This deck won in the Finals with 3VPs despite having Tzimisce wall as Prey and
+This deck won in the Finals with 3vp despite having Tzimisce wall as Prey and
 Computer Hacking weenies as a Predator, no Crypt acceleration, multiple Master
 cards getting canceled in the same turn by Sudden Reversals and a Life Boon
 played for 5 on its Prey to prevent first oust. I think that removal of Pentex

@@ -6,7 +6,7 @@ October 11th 2021 -- October 14th 2021
 Bruno Patrício Silva Pontes
 https://www.vekn.net/event-calendar/event/9930
 
--- 5VP in final
+-- 5vp in final
 
 Crypt (13 cards, min=4, max=38, avg=5.23)
 -----------------------------------------

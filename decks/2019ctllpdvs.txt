@@ -6,7 +6,7 @@ October 5th 2019
 César Ruipérez
 https://www.vekn.net/event-calendar/event/9344
 
--- 5VP in final
+-- 5vp in final
 
 Crypt (12 cards, min=24, max=36, avg=7.5)
 -----------------------------------------

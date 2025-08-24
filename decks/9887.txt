@@ -6,7 +6,7 @@ September 12th 2021
 José Robério Barbosa da Silva
 https://www.vekn.net/event-calendar/event/9887
 
--- 4VP in final
+-- 4vp in final
 
 Deck Name: Ghede be
 Crypt (12 cards, min=4, max=40, avg=6.17)

@@ -5,12 +5,12 @@ May 25th 2013
 13 players
 Brandon Haas
 
--- 5VP in final
+-- 5vp in final
 
 Deck Name: Budget Stanislava
 
 Inspired by old school Gangrel bleed decks, tailored for the
-LA environment. Great way to bleed for 8 on a budget. 5VP in
+LA environment. Great way to bleed for 8 on a budget. 5vp in
 the final, including two I got in one turn.
 
 Crypt (12 cards, min=14, max=28, avg=5.33)

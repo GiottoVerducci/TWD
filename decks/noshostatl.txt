@@ -10,8 +10,8 @@ Deck Name: Nocturns turn the Cog
 Appius Claudius Corvus loves to reveal his Enkil Cog to the world.
 There are plenty of Nocturns to ensure that some bleeds of one get
 thru before the lunge.
-This deck took 1.5VP in the first round, swept up 5VP in the
-second round, and squeaked in 3VP in final for the tournament win.
+This deck took 1.5vp in the first round, swept up 5vp in the
+second round, and squeaked in 3vp in final for the tournament win.
 
 Crypt (12 cards, min=22, max=39, avg=7.75)
 ------------------------------------------

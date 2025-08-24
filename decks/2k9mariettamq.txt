@@ -8,7 +8,7 @@ Mike Perlman
 Deck Name: Law Firm says "Get off my lawn!" II
 
 This is a minimally tweaked version of a Millenium Cultist Storyline Tournament Winning Deck.
-One game win 3VP to get into finals, one game win 3VP in final.
+One game win 3VP to get into finals, one game win 3vp in final.
 
 Crypt (12 cards, min=17, max=41, avg=7.42)
 ------------------------------------------

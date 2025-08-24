@@ -7,7 +7,7 @@ Hugh Angseesing
 
 Deck Name: Ventrue
 
--- 1GW4 + 4VP in final
+-- 1GW4 + 4vp in final
 
 Crypt (12 cards, min=18, max=31, avg=6.08)
 ------------------------------------------

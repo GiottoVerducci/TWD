@@ -5,7 +5,7 @@ September 19th 2010
 20 players
 Lubomir Danda
 
--- 5VP in final
+-- 5vp in final
 
 Crypt (12 cards, min=14, max=26, avg=4.92)
 ------------------------------------------

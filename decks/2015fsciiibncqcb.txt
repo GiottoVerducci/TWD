@@ -5,7 +5,7 @@ November 5th 2015
 21 players
 Mirko Oliveira
 
--- 4VP in final
+-- 4vp in final
 
 Crypt (12 cards, min=17, max=31, avg=6.17)
 ------------------------------------------

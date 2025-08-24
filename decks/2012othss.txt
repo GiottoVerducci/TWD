@@ -8,7 +8,7 @@ Jonas Eriksson
 Deck Name: DEM bleed
 Created by: Idea by Donk, corrected by Randyman
 
--- GW5 + 1 + 5VP in final
+-- GW5 + 1 + 5vp in final
 
 Description: "The idea is that in our current meta there are many
 slow decks that relies on Zillah's, and when I always have a Sudden

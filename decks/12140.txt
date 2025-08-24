@@ -1,0 +1,64 @@
+Swallowed by the Labyrinth
+Tilburg, Netherlands
+June 22nd 2025
+3R+F
+17 players
+Eric Godthelp
+https://www.vekn.net/event-calendar/event/12140
+
+Deck Name: Zombie
+Author: DeHeilige (Eric Godthelp)
+Description: Won Tournament Tilburg the Labyrinth
+
+Crypt (12 cards, min=10, max=30, avg=5)
+---------------------------------------
+2x Parijat, the Dark Oracle  7  AUS DOM FOR OBL      Hecata:6
+2x Alek König                3  OBL                  Hecata:6
+2x Peter St. John            2  obl                  Hecata:6
+1x Hel-Blá                   9  AUS FOR OBL POT obf  Hecata:6
+1x Tommaso Sforza            7  AUS OBL THA dom for  Hecata:6
+1x Monica Giovanni           6  AUS FOR OBL          Hecata:6
+1x Gebeyehu Abdu             5  AUS OBL for          Hecata:6
+1x Holliday "Burgundy" Hall  5  FOR OBL aus          Hecata:6
+1x Hiromitsu Asano           4  aus for obl          Hecata:6
+
+Library (89 cards)
+Master (20; 9 trifle)
+2x Biotech Company Hunting Ground
+2x Cappadocian Crypt
+1x Channel 10
+2x Charisma
+2x Dreams of the Sphinx
+6x Family Gathering
+2x Powerbase: Munich
+3x Vessel
+
+Action (8)
+8x Split the Veil
+
+Ally (10)
+6x Aggressive Corpse
+1x Ponticulus
+3x Rotting Behemoth
+
+Action Modifier (14)
+2x Paths in Two Worlds
+4x Shadow Cast
+4x Stygian Shroud
+4x Where the Veil Thins
+
+Reaction (14)
+2x Delaying Tactics
+8x Shadow Sentinel
+4x Telepathic Misdirection
+
+Combat (20)
+4x Fake Out
+6x Martyr's Resilience
+2x Target Head
+4x Target Vitals
+4x Trap
+
+Event (3)
+1x Dragonbound
+2x Unmasking, The

@@ -1,0 +1,71 @@
+Elysium: Almada
+Almada, Portugal
+May 31st 2025
+2R+F
+12 players
+Nuno Moure
+https://www.vekn.net/event-calendar/event/12361
+
+Deck Name: Wormwood
+
+Crypt (12 cards, min=15, max=20, avg=4.33)
+------------------------------------------
+3x Jennie "Cassie247" Orne       5  inn jud viz  Visionary:4
+2x Travis "Traveler72" Miller    5  def mar      Martyr:4
+2x Jack "Hannibal137" Harmon     4  def jud      Defender:4
+1x Leaf "Potter116" Pankowski    4  inn red viz  Redeemer:4
+1x Maman Boumba                  4  inn mar      Martyr:4
+1x Paul "Sixofswords29" Moreton  4  def vis      Visionary:4
+1x Pedro Cortez                  4  mar ven      Avenger:4
+1x François "Warden" Loehr       3  def jud      Judge:4
+
+Library (64 cards)
+Master (13)
+5x Angel of Berlin
+1x Barrens, The
+1x Church of Vindicated Faith, The
+2x Fortschritt Library
+1x KRCG News Radio
+1x Millicent Smith, Puritan Vampire Hunter
+1x Not to Be
+1x Society of Leopold
+
+Conviction (18)
+6x React with Conviction
+6x Second Sight
+6x Strike with Conviction
+
+Action (1)
+1x Aranthebes, The Immortal
+
+Ally (1)
+1x Vagabond Mystic
+
+Equipment (4)
+1x .44 Magnum
+1x Flak Jacket
+1x Ivory Bow
+1x Sport Bike
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (4)
+4x Determine
+
+Combat (8)
+4x Target Vitals
+4x Weighted Walking Stick
+
+Event (14)
+1x Blood Trade
+1x Blood Weakens
+1x New Inquisition, The
+1x Nightmares upon Nightmares
+1x Recalled to the Founder
+1x Restricted Vitae
+1x Slow Withering, The
+1x Thirst
+1x Torpid Blood
+2x Unmasking, The
+3x Wormwood

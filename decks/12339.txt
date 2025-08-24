@@ -1,0 +1,68 @@
+Rumo ao GP 7
+Online
+May 12th 2025
+2R+F
+12 players
+Rodinei Teixeira de Camargo
+https://www.vekn.net/event-calendar/event/12339
+
+Deck Name: Viva La Revolución
+
+Crypt (12 cards, min=17, max=30, avg=6)
+---------------------------------------
+1x Adrino Manauara  8  ANI DOM PRO pot      baron  Tzimisce:6
+1x Sergio Bueno     8  OBF PRE PRO aus pot  baron  Follower of Set:6
+1x Ángel Guerrero   7  ANI DOM PRO          baron  Tzimisce:6
+1x Massimiliano     7  ANI FOR pro          baron  Gangrel:6
+1x Vivian VI        7  PRE PRO obf tha      baron  Follower of Set:6
+1x Branimira        6  ANI dom pre pro      baron  Tzimisce:6
+1x Casey Snyder     6  PRO ani cel for      baron  Gangrel:6
+1x Elisha Tucker    6  PRE cel obf pro      baron  Follower of Set:6
+1x Kuyén            6  ANI PRO              baron  Gangrel:6
+1x Kamile Paukstys  5  PRO ani for                 Gangrel:6
+1x Indira           3  PRO                         Gangrel:6
+1x Joseph Fischer   3  PRO                         Gangrel antitribu:5
+
+Library (90 cards)
+Master (20; 8 trifle)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+1x Garibaldi-Meucci Museum
+1x Life Boon
+1x Papillon
+4x Protean
+2x Vessel
+6x Villein
+1x Zoo Hunting Ground
+
+Action (8)
+8x Childe of the Revolution
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (5)
+2x Reckless Agitation
+3x Revolutionary Council
+
+Action Modifier (12)
+4x Earth Control
+2x Monkey Wrench
+6x Propaganda of the Deed
+
+Action Modifier/Combat (4)
+4x Rapid Change
+
+Reaction (24)
+10x Bait and Switch
+1x Delaying Tactics
+13x Organized Resistance
+
+Combat (14)
+11x Earth Meld
+3x Form of Mist
+
+Event (1)
+1x Uncoiling, The

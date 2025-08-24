@@ -1,0 +1,62 @@
+Kleber Bertazzo
+Fortaleza (CE), Brazil
+July 13th 2025
+2R+F
+18 players
+Márcio Pinheiro
+https://www.vekn.net/event-calendar/event/11978
+
+Deck Name: Anarquista para sempre
+
+Crypt (12 cards, min=8, max=27, avg=4.75)
+-----------------------------------------
+3x Benedito, a Lanterna  6  POT ani aus obf  baron  Nosferatu:6
+3x Anarch Convert        1  -none-                  Caitiff:ANY
+1x Richard de Worde      8  ANI OBF POT tha         Nosferatu:6
+1x Nathaniel Bordruff    7  DOM OBF POT ani         Nosferatu:6
+1x Jacques Rouge         6  OBF ani pot pre  baron  Nosferatu:6
+1x Horace Radcliffe      5  ANI POT obf             Nosferatu:6
+1x Okulos                5  OBF ani pot             Nosferatu:7
+1x Wauneka               5  POT ani aus obf         Nosferatu:6
+
+Library (89 cards)
+Master (20; 5 trifle)
+4x Anarch Revolt
+1x Carfax Abbey
+1x Direct Intervention
+1x Garibaldi-Meucci Museum
+2x Guardian Angel
+1x Labyrinth, The
+2x Perfectionist
+1x Slum Hunting Ground
+1x Smiling Jack, The Anarch
+5x Vessel
+1x Warsaw Station
+
+Action (18)
+1x Constant Revolution
+6x Creeping Sabotage
+1x Fee Stake: Boston
+1x Fee Stake: New York
+1x Fee Stake: Perth
+1x Fee Stake: Seattle
+2x Kindred Intelligence
+3x Patagia: Flaps Allowing Limited Flight
+2x Smash and Grab
+
+Action Modifier (3)
+3x Monkey Wrench
+
+Reaction (21)
+4x Bait and Switch
+3x Guard Dogs
+10x Organized Resistance
+4x Warrens, The
+
+Combat (27)
+2x Hell-for-Leather
+3x Immortal Grapple
+6x Roundhouse
+3x Taste of Vitae
+8x Thrown Gate
+5x Thrown Sewer Lid

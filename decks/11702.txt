@@ -1,0 +1,53 @@
+Jornada Liga Galaico-Portuguesa
+Vigo, Spain
+October 13th 2024
+2R+F
+17 players
+Luis Santos
+https://www.vekn.net/event-calendar/event/11702
+
+Deck Name: The dragon says no! v1.1
+
+Crypt (12 cards, min=7, max=16, avg=2.92)
+-----------------------------------------
+1x Idalia, Prophet of Guadalajara   4  AUS dem      Malkavian antitribu:2
+1x Maldavis (ADV)                   4  AUS for pre  Caitiff:3
+1x Remilliard, Devout Crusader      4  AUS pre      Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet  4  AUS tha      Tremere antitribu:2
+1x David Morgan, The Scourge        3  aus pot      Malkavian:3
+1x Isabel de Leon                   3  AUS          Toreador:2
+1x Martin Franckel                  3  AUS tha      Tremere:3
+1x Milo, The Invisible Horror       3  aus obf      Malkavian:3
+1x Zöe                              3  AUS cel obf  Malkavian:2
+1x Almiro Suarez                    2  aus          Tremere:3
+1x Feo Ramos                        1  aus          Pander:3
+1x Franciscus                       1  aus          Caitiff:2
+
+Library (90 cards)
+Master (19; 6 trifle)
+1x Academic Hunting Ground
+1x Asylum Hunting Ground
+1x Fragment of the Book of Nod
+2x Millicent Smith, Puritan Vampire Hunter
+3x Powerbase: Montreal
+2x Rack, The
+3x Smiling Jack, The Anarch
+6x Vessel
+
+Equipment (11)
+11x Saturday-Night Special
+
+Reaction (41)
+6x Eagle's Sight
+5x Enhanced Senses
+4x Eyes of Argus
+4x Forced Awakening
+4x My Enemy's Enemy
+4x On the Qui Vive
+4x Precognition
+4x Spirit's Touch
+6x Telepathic Misdirection
+
+Combat (19)
+11x Concealed Weapon
+8x Dragon's Breath Rounds

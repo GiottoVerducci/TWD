@@ -1,0 +1,60 @@
+Summer Party
+Helsinki, Finland
+June 15th 2025
+2R+F
+17 players
+Niko Vanhatalo
+https://www.vekn.net/event-calendar/event/12380
+
+Deck Name: Kun täti menee bleedille, on näky komea
+Author: Tero Aalto
+Description: Loaned this deck from Tero for the tournament, so some of the glory belongs to him
+
+Crypt (12 cards, min=31, max=40, avg=9.08)
+------------------------------------------
+5x Nefertiti (ADV)                     10  DOM OBF PRE SER cel pot           Follower of Set:2
+1x Nefertiti                           10  DOM OBF PRE SER cel pot           Follower of Set:2
+2x Kahina the Sorceress                 9  AUS DOM OBF SER nec pre  1 vote   Follower of Set:3
+2x Khay'tall, Snake of Eden             9  DOM OBF PRE SER aus               Follower of Set:2
+1x Kephamos, High Priest of Marrakech   8  SER dom obf pre          2 votes  Follower of Set:2
+1x Count Ormonde                        5  OBF dom pre ser                   Follower of Set:2
+
+Library (77 cards)
+Master (16; 4 trifle)
+8x Eternals of Sirius, The
+1x Giant's Blood
+1x Opium Den
+2x Perfectionist
+4x Villein
+
+Action (19)
+3x Enticement
+2x Entrancement
+1x Form of Corruption
+7x Govern the Unaligned
+6x Legacy
+
+Equipment (3)
+2x Heart of Nizchetus
+1x Mokolé Blood
+
+Action Modifier (22)
+2x Conditioning
+3x Elder Impersonation
+3x Enkil Cog
+3x Faceless Night
+2x Foreshadowing Destruction
+4x Lost in Crowds
+3x Seduction
+2x Spying Mission
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (10)
+6x Deflection
+2x Eluding the Arms of Morpheus
+2x On the Qui Vive
+
+Combat (5)
+5x Serpent's Numbing Kiss

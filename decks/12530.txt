@@ -1,0 +1,60 @@
+Sem hora pra parar 02
+Campina Grande (PB), Brazil
+July 25th 2025
+2R+F
+13 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/12530
+
+-- 5VP in final
+
+Deck Name: hecata servitor
+Description: inspired by Martin Weimayer's deck
+
+Crypt (12 cards, min=14, max=28, avg=5.33)
+------------------------------------------
+2x Tommaso Sforza                7  AUS OBL THA dom for  Hecata:6
+2x Gebeyehu Abdu                 5  AUS OBL for          Hecata:6
+1x Mora, the Death Seer          7  AUS FOR OBL ani      Hecata:6
+1x Parijat, the Dark Oracle      7  AUS DOM FOR OBL      Hecata:6
+1x Lenelle, Mambo of Birmingham  6  FOR OBL aus          Hecata:6
+1x Monica Giovanni               6  AUS FOR OBL          Hecata:6
+1x Holliday "Burgundy" Hall      5  FOR OBL aus          Hecata:6
+1x Hiromitsu Asano               4  aus for obl          Hecata:6
+1x Alek König                    3  OBL                  Hecata:6
+1x Peter St. John                2  obl                  Hecata:6
+
+Library (90 cards)
+Master (16; 9 trifle)
+1x Cappadocian Crypt
+2x Charisma
+1x Direct Intervention
+4x Family Gathering
+1x Jake Washington
+2x Pentex(TM) Subversion
+5x Villein
+
+Action (15)
+5x Psychophagia
+10x Shroud of Decay
+
+Ally (16)
+16x Spectral Servitor
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (28)
+9x Shadow Cast
+9x Shadow Cloak
+6x Stygian Shroud
+4x Where the Veil Thins
+
+Reaction (12)
+2x Delaying Tactics
+3x Shadow Sentinel
+7x Telepathic Misdirection
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

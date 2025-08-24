@@ -1,0 +1,63 @@
+Grand Prix 2025 - Poland
+Warsaw, Poland
+July 5th 2025
+3R+F
+56 players
+Tomasz Pietkiewicz
+https://www.vekn.net/event-calendar/event/12126
+
+— 2GW8 + 3vp in finals
+
+Deck Name: Juliet Cavalier
+
+Crypt (12 cards, min=15, max=36, avg=6.83)
+------------------------------------------
+5x Juliet Parr          9  AUS DOM OBF cel pot  justicar  Malkavian:7
+3x Dominica             3  aus for                        Salubri:7
+2x Alexander Silverson  8  AUS DOM OBF pre      prince    Malkavian:6
+1x Andi Liu             6  DOM aus obf pre      prince    Malkavian:6
+1x Donny Kowalczyk      6  AUS cel dom obf      prince    Malkavian:6
+
+Library (75 cards)
+Master (17; 2 trifle)
+6x Ashur Tablets
+1x Camarilla Conclave
+3x Cavalier
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Metro Underground
+1x Saulot's Guiding Wisdom
+1x Wider View
+
+Action (12)
+3x Fifth Tradition: Hospitality
+9x Govern the Unaligned
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x Camarilla's Iron Fist
+2x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (22)
+2x Cloak the Gathering
+2x Closed Session
+3x Conditioning
+2x Elder Impersonation
+2x Faceless Night
+1x Foreshadowing Destruction
+1x Forgotten Labyrinth
+5x Lost in Crowds
+1x Spying Mission
+2x Telepathic Vote Counting
+1x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (10)
+8x Deflection
+2x Obedience

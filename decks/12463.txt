@@ -1,0 +1,77 @@
+Storm Arena VTES
+Teresina, Brazil
+July 19th 2025
+2R+F
+10 players
+Igor de Arimatéa Carmo
+https://www.vekn.net/event-calendar/event/12463
+
+-- 1.5 vp (first seed) in final
+
+Deck Name: Ravnos V5.1
+Description: Baseado no precon V5
+
+Crypt (12 cards, min=12, max=28, avg=5)
+---------------------------------------
+2x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+1x Gathii             5  ANI PRE obf      Ravnos:7
+1x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+1x Trung Chau Pham    3  ANI              Ravnos:7
+1x Roy                2  obf              Ravnos:7
+
+Library (81 cards)
+Master (19; 3 trifle)
+1x Anarch Railroad
+1x Archon Investigation
+3x Blood Doll
+1x Club Illusion
+3x Dabbler
+1x Dreams of the Sphinx
+2x Effective Management
+1x Fortune Teller Shop
+1x Garibaldi-Meucci Museum
+1x Park Hunting Ground
+1x Ravnos Carnival
+2x Svadharma
+1x Week of Nightmares
+
+Action (13)
+8x Break the Bonds
+2x Deep Song
+1x Entrancement
+2x Heart of the City
+
+Equipment (1)
+1x Shilmulo Tarot
+
+Action Modifier (25)
+4x Cloak the Gathering
+2x Elder Impersonation
+3x Lost in Crowds
+4x Memory Rift
+4x Power of One
+3x Spying Mission
+1x Veil the Legions
+4x Visions of Gehenna
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (13)
+2x Delaying Tactics
+4x Guard Dogs
+1x Night Terrors
+2x On the Qui Vive
+4x Visions of Zapathasura
+
+Combat (6)
+6x Majesty
+
+Event (1)
+1x Narrow Minds

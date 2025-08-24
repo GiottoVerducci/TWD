@@ -1,0 +1,72 @@
+Anarquía Balear
+Palma de Mallorca, Spain
+June 1st 2025
+2R+F
+10 players
+Ginés Quiñonero
+https://www.vekn.net/event-calendar/event/12350
+
+-- 3vp in final (3rd seed)
+
+Final round report
+Hecata > Brunhilde > Ravnos > Nosferatu > Gangrel Barons
+The final was very close. Until the last moment, it wasn't clear who was going to win.
+The Hecata deck quickly eliminated the Brunhilde and Valkyries deck.
+At that point, the Nosferatu player had two options: the first was to eliminate their Ravnos predator, hoping their next predator — the Hecata player — would give them some peaceful turns so the Nosferatu could oust their prey, Gangrel Barons.
+In the end, the Nosferatu chose not to eliminate the Ravnos, hoping the Hecata player would do it on their turn or at least weaken them significantly — which is exactly what happened.
+The Gangrel deck had already taken a toll on the Hecata's pool, so they could no longer maintain as many Spectral Servitors and would lose offensive power.
+Then the Nosferatu used a political action to oust the Ravnos player, allowing the Hecata to gain enough blood pool to survive — but not enough to be a serious bleed threat.
+From that point on, the Nosferatu ousted the two remaining players in order and won the final.
+
+Deck Name: Nosferatu Royalty 2025
+
+Crypt (12 cards, min=17, max=36, avg=7.17)
+------------------------------------------
+5x Sheldon, Lord of the Clog  9  ANI AUS OBF POT for  justicar  Nosferatu:1
+1x Suhailah                   9  FOR OBF pot ser      prince    Ventrue:2
+1x Selma the Repugnant        8  OBF POT ani for      prince    Nosferatu:1
+1x Murat                      7  OBF POT ser          prince    Nosferatu:2
+1x Nikolaus Vermeulen         7  POT ani for obf      prince    Nosferatu:2
+1x Calebros, The Martyr       5  ANI obf pot          prince    Nosferatu:2
+1x Dan Murdock                3  aus obf                        Caitiff:1
+1x Dimple                     2  obf                            Nosferatu:1
+
+Library (78 cards)
+Master (19; 2 trifle)
+2x Camarilla Conclave
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+2x Information Highway
+1x Labyrinth, The
+2x Legendary Vampire
+2x Warsaw Station
+2x Wider View
+6x Zillah's Valley
+
+Action (3)
+2x Fourth Tradition: The Accounting
+1x SchreckNET
+
+Equipment (2)
+2x Learjet
+
+Political Action (20)
+1x Banishment
+6x Camarilla's Iron Fist
+6x Kine Resources Contested
+7x Parity Shift
+
+Action Modifier (20)
+3x Elder Impersonation
+3x Faceless Night
+3x Forgotten Labyrinth
+6x Freak Drive
+5x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (10)
+2x Guard Dogs
+3x On the Qui Vive
+5x Telepathic Misdirection

@@ -1,0 +1,98 @@
+VtES: Pit of Contemplation
+Helsinki, Finland
+July 25th 2025
+2R+F
+28 players
+Juha Laukkanen
+https://www.vekn.net/event-calendar/event/12434
+
+It was my turn to organize the traditional Ropecon warm-up tournament this year. We didn't reach last year's record participation figures, likely partly due to the main tournament not having the GP status this time.
+
+The last seat in the final was decided by a three-way die roll, and the winner of the roll went on to win the tournament. Congratulations to the winner and thank you to all participants! The winning deck list will be posted shortly.
+
+The final table:
+1. Juha Laukkanen (Brujah baron combat)
+2. Otso Saariluoma (Lasombra V5 toolbox)
+3. Martin Weinmayer (Toreador Diana vote)
+4. Bram van Stappen (Matasuntha multirush)
+5. Michael Holmström (Tremere weenies & locations)
+
+Crypt (12 cards, min=27, max=32, avg=7.5)
+-----------------------------------------
+4x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+3x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Atiena              6  CEL obf pot pre      baron  Brujah:6
+
+Library (90 cards)
+Master (19; 4 trifle)
+2x Blood Doll
+4x Dreams of the Sphinx
+1x Fame
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Libertas
+2x New Carthage
+1x Powerbase: Los Angeles
+1x Rack, The
+4x Villein
+1x Warzone Hunting Ground
+
+Action (13)
+2x Heroic Might
+10x Line Brawl
+1x Preternatural Strength
+
+Equipment (3)
+2x Anarch Manifesto, An
+1x Stolen Police Cruiser
+
+Political Action (5)
+1x Eat the Rich
+4x Free States Rant
+
+Reaction (12)
+5x Bait and Switch
+2x On the Qui Vive
+5x Organized Resistance
+
+Combat (38)
+4x Disarm
+8x Dust Up
+8x Immortal Grapple
+9x Pursuit
+5x Taste of Vitae
+4x Torn Signpost
+
+-- First table (I cant remember who started):
+-- Marko Saari (V5 Ravnos stealth bleed) ->
+-- Aapo Järvelin (Toreador Diana vote) ->
+-- Me ->
+-- Tero Aalto (Malgorzata+lord Tremere) ->
+-- Teemu Sainomaa (Saulot wall)
+-- This was a very difficult table, because I had the unassailable and unoustable Tero  as my prey. Saulot was being mostly passive. Marko had few minions that were bleeding for a little but anything else might get blocked by saulot.  I rushed backwards to take pressure off my back, Aapo tried to make a deal with me but I was not particularly interested. I however let Aapo remain at the table instead of taking away ALL his minions, which I consider a mistake in hindsight.
+-- The real problem was Tero. I rushed there four times,  received four obediences. If I bled, they would get bounced. This I knew from experience. Since I couldnt make a dent in Tero, Aapo chose to backoust Marko. Then I assume Tero ran out of obediences since his next choice was to make a deal with Aapo and banish both of my minions. With no minions and  Toreadors at my back door I was ousted in short order.
+-- Result: 0vp. Tero eventually won with 3VP+GW
+-- Second table:
+-- Peitsa (V5 Banu Haqim  stealth bleed)->
+-- Pasi Karjalainen (V5 Ravnos stealth bleed)->
+-- Me ->
+-- Saulus(?) (Toreador Diana vote)
+-- This time I had the toreadors in front of me. The game started largely as expected, Peitsa and Pasi bring out small minions, I go punch Pasi's minions in the mouth. Minor curiosity is Diana voting alastor and getting an assault rifle. However, Peitsa got an early Yoruba shrine which helped him quite a bit at this table, especially against Diana the alastor. I was helped by Ravnos not knowing how to bounce bleeds and instead relying on bleed reduce as defence, otherwise I wouldve had lot more pressure at my back. I also got out a New Carthage.
+-- Then comes one of many windfalls I received this night. Toreadors have three tapped minions (I had to rush backwards to keep myself alive) and 5 pool. I consider this for a moment, then a baron bleeds 3 with line brawl, and another baron bleeds for 2. Thats it, I got the oust. I dont know if my prey was bit overconfident or if he didn't imagine me bleeding(?).
+-- Because Pasi has had very little game thanks to me, Peitsa manages to oust him immediately afterwards. The 1v1 doesn't last terribly long since I manage to draw a line brawl so I have a second rush along with Theo, which turns out to be enough to overcome the Yoruba Shrine problem. In the end I oust him with my new carthage bleeds before he can oust me. If I had not  drawn that line brawl, Peitsa might have got the win, who knows.
+-- result: 3vp+gw
+-- Then the second windfall of the night: I am in a 3-way tie to the final. I win the die roll.
+-- As the fifth seed I have no control  over the seating order, so i merely observe, fully expecting the others to maneuver me and Bram(third seed) next to each other. To my shock this doesn't happen, and I strongly believe this decides the whole final game. Instead of us having to bash heads together, the two rush combat decks are crosstable allies ensuring that nobody else has any game whatsoever. I believe that had I and Bram been next to each other, the predator wouldve been forced to make a deal with one of the other decks, which would've made for a very different game.
+-- Me->
+-- Otso (Lasombra toolbox) ->
+-- Martin (Toreador Diana vote) ->
+-- Bram (Matasuntha multirush) ->
+-- Mikael (tremere breed)
+-- Bram is very kind and explains what the Tremere deck does. Then we agree to a plan where I get 2 vp, he gets 1, then we fight 1v1 in the end. I think I am in a much better position, since Brams plan relies on him ousting me in the final moments(and winning with better seed) and my plan relies simply surviving until the timeout after getting the 2vp while he has only 1. A lot can happen in two hours.
+-- Bram ensures that Martin has no minions that draw breath, and keeps hitting forward as well. I rush forwards. My luck continues in me having a very early New Carthage ensuring my bleeds are non-trivial  and my ousting power is stronger than Brams. I also get two back-to-back dreams of the sphinx. The non-combat players look at me with pleading eyes and many prayers (except Otso who just smiles), but unfortunately Brams best plan is my best plan and thus I have no reason to deviate from it.
+-- Bram is taking  his sweet time ousting Mikael however, who is bloating with insurance scam even when he has no minions. Me on the other hand am on a leisure cruise, taking out what Otso has and bleeding with NC bleeds. Eventually I oust Otso with fame, and bring Martin who has zero minions down to two. Bram is very close to ousting Mikael and has brought out Andre leRoux along with couple other weenies.
+-- Then Aline votes free states rant, bringing Matasuntha to 0 blood (Andre burning 1). Then my bleed ousts Martin, giving me the second VP. I bring out my fourth minion. I didn't deny Bram his oust though as was our deal, since weenies + Andre are enough to oust Mikael. Then comes the duel. After seeing Bram has protean prevention I knew I couldnt best Matasuntha in combat so my plan was simply to survive and bleed with my three barons. I get to bleed once for 6 because Matasuntha has to hunt.
+-- Come Brams next turn Matasuntha rushes me. Saku, who has acquired preternatural strength, blocks. The first round is about Saku maneuvering long three times, but Matasuntha presses to continue and acquires flesh of marble. We are close, Matasuntha strikes for some large  number, but Saku dust-ups gaining dodge+ additional. Matasuntha has flak jacket, kevlar vest and flesh of marble, but since Saku hits for 3 Matasuntha takes 1 damage that Flesh of marble does not help against. Then to the shock of probably everyone present, myself included, Saku disarms Matasuntha. I think it was very cool that Baron of Helsinki managed to do this. I believe Bram's plan was to hit for a million the next round and refill Matasuntha with Taste of Vitae. This plan backfired.
+-- Sneakily Bram tries to steal my rack first which I block, then attempts to rescue Matasuntha with the only minion he has left that has the required blood. Saku organizes resistance and Bram extends the hand.

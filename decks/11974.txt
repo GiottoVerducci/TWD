@@ -1,0 +1,64 @@
+Inês Tristão
+Fortaleza (CE), Brazil
+May 4th 2025
+2R+F
+20 players
+Nilceu Galvão
+https://www.vekn.net/event-calendar/event/11974
+
+Deck Name: Carente de Amor
+
+Crypt (12 cards, min=4, max=17, avg=2.67)
+-----------------------------------------
+4x Anarch Convert         1  -none-       Caitiff:ANY
+1x André the Manipulator  6  FOR PRO      Gangrel:5
+1x Hanna Nokelainen       4  ani for pro  Gangrel:6
+1x Nathan Turner          4  PRO ani      Gangrel:6
+1x Fergus Alexander       3  pot pro      Gangrel:5
+1x Indira                 3  PRO          Gangrel:6
+1x Joaquín de Cádiz       3  for pro      Gangrel:6
+1x Lillian                3  ani pro      Gangrel:5
+1x Ruslan Fedorenko       2  pro          Gangrel:6
+
+Library (90 cards)
+Master (28; 7 trifle)
+1x Anarch Railroad
+8x Ascendance
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+1x Coven, The
+1x Creepshow Casino
+1x Ecoterrorists
+2x Life in the City
+4x Parthenon, The
+2x Perfectionist
+1x Two Wrongs
+3x Vessel
+1x Zoo Hunting Ground
+
+Action (34)
+10x Computer Hacking
+10x Embrace, The
+1x Rewilding
+3x Skullduggery
+10x Thing
+
+Ally (1)
+1x Double Deuce
+
+Action Modifier (2)
+2x Leverage
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (2)
+2x Poison Pill
+
+Combat (18)
+14x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x Narrow Minds

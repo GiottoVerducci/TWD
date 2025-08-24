@@ -1,0 +1,64 @@
+Complearum - 20 years of Alearum
+Spilamberto, Modena, Italy
+July 13th 2025
+2R+F
+25 players
+Stefano Chiodi
+https://www.vekn.net/event-calendar/event/12407
+
+To celebrate 20 years of activity of our recreational association, 25 metuselahs meet togethere and faced into the eternal struggle. At the end, Stefano came up with his first tournament win after a balanced final that reached time limit. Opponents weren't able to oust him in time.
+
+Deck Name: Hecata Mill
+Author: BCP
+Description: [2025-06-13]
+Preconstructed from "Fifth Edition (Hecata)" [2025-02-28]
+
+Crypt (12 cards, min=15, max=34, avg=6.25)
+------------------------------------------
+2x Monica Giovanni            6  AUS FOR OBL                  Hecata:6
+2x Gebeyehu Abdu              5  AUS OBL for                  Hecata:6
+1x Roger de Camden           10  AUS FOR OBF OBL PRE  prince  Hecata:6
+1x Marchesa Liliana           9  ANI AUS FOR OBL dom          Hecata:6
+1x "Mother" Anja Giovanni     8  AUS FOR OBL dom pot          Hecata:6
+1x Mora, the Death Seer       7  AUS FOR OBL ani              Hecata:6
+1x Parijat, the Dark Oracle   7  AUS DOM FOR OBL              Hecata:6
+1x Tommaso Sforza             7  AUS OBL THA dom for          Hecata:6
+1x Alek König                 3  OBL                          Hecata:6
+1x Peter St. John             2  obl                          Hecata:6
+
+Library (90 cards)
+Master (20; 14 trifle)
+1x Anarch Troublemaker
+1x Biotech Company Hunting Ground
+1x Cappadocian Crypt
+1x Coven, The
+6x Family Gathering
+1x Giant's Blood
+1x Pentex(TM) Subversion
+1x Powerbase: Munich
+4x Villein
+3x Wash
+
+Action (12)
+12x Shroud of Decay
+
+Ally (6)
+6x Spectral Servitor
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (24)
+8x Shadow Cast
+4x Shadow Cloak
+8x Stygian Shroud
+4x Where the Veil Thins
+
+Reaction (19)
+2x Delaying Tactics
+2x Eyes of Argus
+6x Shadow Sentinel
+9x Telepathic Misdirection
+
+Combat (8)
+8x Pass Through Shadow

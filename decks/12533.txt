@@ -1,0 +1,69 @@
+The Coronation of Shadows
+Online
+August 3rd 2025
+2R+F
+22 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/12533
+
+-- 2GW7 + 2.5 in final
+
+Deck Name: The Endless Dance
+
+Crypt (12 cards, min=27, max=37, avg=8.17)
+------------------------------------------
+5x Diana Iadanza      9  AUS CEL FOR PRE          justicar  Toreador:7
+1x François Villon   10  AUS CEL PRE ani obf pot  prince    Toreador:6
+1x Catalina Vega      8  AUS CEL PRE for          prince    Toreador:6
+1x Marcos Belegrad    8  AUS CEL PRE ani          prince    Toreador:7
+1x Modius             8  AUS CEL PRE obf          prince    Toreador:7
+1x Flávio Gonçalves   7  CEL PRE aus for          prince    Toreador:6
+1x Maila              6  AUS PRE cel              primogen  Toreador:6
+1x Mkhokheli          6  PRE aus cel for          prince    Toreador:6
+
+Library (90 cards)
+Master (22; 6 trifle)
+1x British Museum, London, The
+1x Camarilla Conclave
+1x Creepshow Casino
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Elder Library
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+2x Monastery of Shadows
+2x Papillon
+2x Toreador Grand Ball
+6x Villein
+
+Equipment (6)
+2x Bowl of Convergence
+2x Heart of Nizchetus
+1x Palatial Estate
+1x Sargon Fragment, The
+
+Political Action (14)
+2x Anarchist Uprising
+1x Ancilla Empowerment
+3x Camarilla's Iron Fist
+7x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (16)
+1x Aire of Elation
+5x Forced March
+4x Loup
+2x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (14)
+4x Eyes of Argus
+4x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (16)
+7x Charismatic Aura
+9x Majesty

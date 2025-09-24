@@ -1,0 +1,56 @@
+Torneo Final de Liga Levante Norte
+Valenciana, Spain
+July 13th 2025
+3R+F
+25 players
+Julio López
+https://www.vekn.net/event-calendar/event/12410
+
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+4x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+4x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+
+Library (87 cards)
+Master (12; 2 trifle)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Carfax Abbey
+1x Coven, The
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Library Hunting Ground
+1x Papillon
+2x Pentex(TM) Subversion
+1x Perfectionist
+1x Wider View
+
+Action (20)
+14x Govern the Unaligned
+6x Tier of Souls
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (19)
+5x Bonding
+5x Conditioning
+6x Earth Control
+3x Seduction
+
+Action Modifier/Reaction (6)
+6x Form of the Bat
+
+Reaction (14)
+1x Bait and Switch
+7x Deflection
+3x One With the Land
+3x Organized Resistance
+
+Combat (15)
+10x Earth Meld
+5x Form of Mist

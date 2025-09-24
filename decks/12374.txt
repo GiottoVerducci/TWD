@@ -1,0 +1,66 @@
+New Zealand NC 2025 -- GP
+Auckland, New Zealand
+August 30th 2025
+3R+F
+14 players
+Simon Reed
+https://www.vekn.net/event-calendar/event/12374
+
+Deck Name: Arishat Barons
+Description: Classic Arishat - Barons deck, nothing too tricky or unexpected.  Deliberately avoiding bleeding with this version to jam my prey on flick as best I can, previous versions have had 3 copies of Protected Resources but it's not always a good investment of 2 pool, two copies might be better though as I really wanted it out in a couple of games and didn't get it.
+There's a write up on the event here:
+https://www.vekn.net/212-events/event-reports/701-simon-reed-is-the-2025-champion-of-new-zealand
+
+Crypt (13 cards, min=24, max=28, avg=6.31)
+------------------------------------------
+5x Arishat        6  DAI OBF PRE          1 vote  Baali:6
+2x Vivian VI      7  PRE PRO obf tha      baron   Follower of Set:6
+2x Elisha Tucker  6  PRE cel obf pro      baron   Follower of Set:6
+2x Jacques Rouge  6  OBF ani pot pre      baron   Nosferatu:6
+1x Sergio Bueno   8  OBF PRE PRO aus pot  baron   Follower of Set:6
+1x Atiena         6  CEL obf pot pre      baron   Brujah:6
+
+Library (82 cards)
+Master (20; 8 trifle)
+1x Anarch Railroad
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Ferraille
+1x Garibaldi-Meucci Museum
+3x Information Highway
+1x Opium Den
+1x Protected Resources
+6x Villein
+2x Wider View
+
+Action (11)
+1x Conceal
+5x Condemnation: Mute
+2x Entrancement
+3x Unleash Hell's Fury
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Disputed Territory
+2x Eat the Rich
+8x Kine Resources Contested
+4x Reckless Agitation
+
+Action Modifier (22)
+4x Bewitching Oration
+2x Elder Impersonation
+2x Faceless Night
+6x Forgotten Labyrinth
+2x Lost in Crowds
+6x Voter Captivation
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
+Reaction (6)
+4x Bait and Switch
+2x On the Qui Vive
+
+Combat (4)
+4x Majesty

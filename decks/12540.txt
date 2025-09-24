@@ -1,0 +1,50 @@
+Alastor's 25
+Sant Celoni, Spain
+September 20th 2025
+3R+F
+10 players
+Xavier Macias Pozo
+https://www.vekn.net/event-calendar/event/12540
+
+Deck Name: Game of Torns (2024)
+Description: Brujah V5 Bruise and Bleed deck. Make everyone believe that you have a red hand and everything will be fine.
+
+Crypt (12 cards, min=24, max=31, avg=6.83)
+------------------------------------------
+3x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+3x Leumeah             6  PRE cel for pot      baron  Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+2x Atiena              6  CEL obf pot pre      baron  Brujah:6
+
+Library (82 cards)
+Master (17; 8 trifle)
+1x Carfax Abbey
+3x Fortitude
+1x Garibaldi-Meucci Museum
+3x New Carthage
+1x Powerbase: Los Angeles
+7x Villein
+1x Wider View
+
+Action (12)
+5x Illegalism
+7x Line Brawl
+
+Political Action (2)
+2x Reckless Agitation
+
+Reaction (17)
+8x Bait and Switch
+4x On the Qui Vive
+5x Organized Resistance
+
+-- 1GW6.5 + 1.5vp in final
+
+Combat (34)
+8x Diversion
+5x Dust Up
+5x Immortal Grapple
+5x Taste of Vitae
+3x Thrown Sewer Lid
+8x Torn Signpost

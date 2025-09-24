@@ -1,0 +1,60 @@
+Czech NC 2025
+Sázava, Czech Republic
+September 6th 2025
+3R+F
+57 players
+Matej Lenarth
+https://www.vekn.net/event-calendar/event/12421
+
+Deck Name: Czech nationals 2025 - BarAni
+Author: Matej Lenarth (credits to Jozef Patrnciak)
+
+Crypt (12 cards, min=10, max=29, avg=5.25)
+------------------------------------------
+2x Massimiliano     7  ANI FOR pro      baron  Gangrel:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+2x Kuyén            6  ANI PRO          baron  Gangrel:6
+2x Anarch Convert   1  -none-                  Caitiff:ANY
+1x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+1x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Trung Chau Pham  3  ANI                     Ravnos:7
+
+Library (90 cards)
+Master (20; 7 trifle)
+6x Anarch Revolt
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Fame
+1x Poacher's Hunting Ground
+1x Powerbase: Montreal
+1x Rack, The
+1x Tension in the Ranks
+6x Villein
+1x Wider View
+
+Action (12)
+12x Deep Song
+
+Equipment (1)
+1x Ivory Bow
+
+Retainer (3)
+1x Mr. Winthrop
+2x Raven Spy
+
+Reaction (19)
+6x Bait and Switch
+3x Deep Ecology
+1x Delaying Tactics
+9x Organized Resistance
+
+Combat (34)
+12x Aid from Bats
+12x Carrion Crows
+2x Drawing Out the Beast
+4x Taste of Vitae
+4x Terror Frenzy
+
+Event (1)
+1x NSA Trio

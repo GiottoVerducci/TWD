@@ -1,0 +1,77 @@
+Fortaleza MD 2
+Fortaleza (CE), Brazil
+August 31st 2025
+2R+F
+19 players
+Mauro César
+https://www.vekn.net/event-calendar/event/11981
+
+Deck Name: Afagadores de bolas
+Description: tenha em mente sempre trazer para jogo personagens de diferentes clans, pelo menos um barão de cada clan. faça isso mediante sua mão inicial, apos isso tente usar villein e fazer um setup com as masters referentes aos personagens que estão em jogo, so recrute aliados de custo alto ao final do jogo, com ajuda a pipper, procure sempre usar o combo de " Rotzchrech + Donnybrook nas defesas, isso abre brechas para Graverobbing ou aliados chaves como Gregory ou ECTU, os War ghols so deve ser colocados na mesa quando jogo ja estiver na reta final com varios recusos ja usados pelos outros jogadores Garibaldi-Meucci Museum é um recurso perfeito para encerrar combates com outros anarquistas bem como recuperar seu unico modificador de bleed ou a votação para finalizar oponentes, por ter somente uma de cada carta, passa despercebido pelos olhos dos jogadores ao checar sua Pilha de cinzas.  No mais é administrar os recursos.
+
+Crypt (12 cards, min=24, max=30, avg=6.67)
+------------------------------------------
+2x Ángel Guerrero   7  ANI DOM PRO          baron  Tzimisce:6
+2x Casey Snyder     6  PRO ani cel for      baron  Gangrel:6
+2x Kuyén            6  ANI PRO              baron  Gangrel:6
+1x Adrino Manauara  8  ANI DOM PRO pot      baron  Tzimisce:6
+1x Sergio Bueno     8  OBF PRE PRO aus pot  baron  Follower of Set:6
+1x Massimiliano     7  ANI FOR pro          baron  Gangrel:6
+1x Vivian VI        7  PRE PRO obf tha      baron  Follower of Set:6
+1x Branimira        6  ANI dom pre pro      baron  Tzimisce:6
+1x Elisha Tucker    6  PRE cel obf pro      baron  Follower of Set:6
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Anarch Free Press, The
+1x Carfax Abbey
+1x Garibaldi-Meucci Museum
+1x Jake Washington
+1x Library Hunting Ground
+1x Mob Connections
+4x Piper
+3x Rötschreck
+6x Villein
+1x Zoo Hunting Ground
+
+Action (2)
+1x Constant Revolution
+1x Graverobbing
+
+Ally (7)
+1x Carlton Van Wyk
+1x Double Deuce
+1x ECTU Operative
+1x Gregory Winter
+1x Underbridge Stray
+2x War Ghoul
+
+Political Action (1)
+1x Eat the Rich
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier (3)
+2x Earth Control
+1x Monkey Wrench
+
+Action Modifier/Combat (2)
+2x Form of the Cobra
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (29)
+8x Bait and Switch
+6x Deep Ecology
+2x Delaying Tactics
+10x Organized Resistance
+3x Protection Racket
+
+Combat (20)
+6x Donnybrook
+6x Earth Meld
+3x Form of Mist
+4x Pack Alpha
+1x Voracious Vermin

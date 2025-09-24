@@ -1,0 +1,65 @@
+VIII Campeonato Paraibano
+Campina Grande (PB), Brazil
+September 7th 2025
+3R+F
+26 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/12237
+
+-- 1.5VP in final
+
+Deck Name: carnaval dos ravnos
+
+Crypt (12 cards, min=7, max=18, avg=3.17)
+-----------------------------------------
+1x Andrei Puxon                  5  ani cel chi for  Ravnos:2
+1x Ghivran Dalaal, The Dead God  5  FOR ani aus chi  Ravnos:2
+1x Anka, Priestess of Thorns     4  ani chi pro      Ravnos:2
+1x Salbatore Bokkengro           4  CHI for pro      Ravnos:2
+1x Sennuwy, The Promoter         4  ani chi for      Ravnos:2
+1x Ashlesha                      3  aus chi          Ravnos:2
+1x Lázár Dobrescu                3  for              Ravnos:2
+1x Vedel Esbreno                 3  chi for          Ravnos:2
+1x Sasha Miklos                  2  chi              Ravnos:2
+1x Spleen, Georgio Gutterpunk    2  ani chi          Ravnos:2
+1x Zip                           2  ani              Ravnos:3
+1x Anarch Convert                1  -none-           Caitiff:ANY
+
+Library (83 cards)
+Master (16)
+1x Anarch Troublemaker
+1x Bleeding the Vine
+1x Fortune Teller Shop
+3x Information Highway
+1x Jake Washington
+1x Life Boon
+1x Pentex(TM) Subversion
+4x Ravnos Carnival
+1x Tribute to the Master
+2x Week of Nightmares
+
+Action (30)
+1x Aranthebes, The Immortal
+17x Embrace, The
+12x Mozambique Allure
+
+Ally (1)
+1x Carlton Van Wyk
+
+Political Action (12)
+10x Consanguineous Boon
+2x Kine Resources Contested
+
+Action Modifier (9)
+4x Change of Target
+1x Cryptic Rider
+4x Daring the Dawn
+
+Action Modifier/Reaction (12)
+12x Eldest Are Kholo, The
+
+Reaction (2)
+2x Delaying Tactics
+
+Event (1)
+1x Uncoiling, The

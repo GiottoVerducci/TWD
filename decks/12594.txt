@@ -1,0 +1,63 @@
+Fever Pitch
+Paris, France
+August 30th 2025
+3R+F
+15 players
+Édouard Menneson
+https://www.vekn.net/event-calendar/event/12594
+
+-- 2GW6.5 + 5vp in final
+
+Deck Name: Finally some DOM
+Description: Thanks to Phoenix for the general deck idea and for helping me fine tuning the list!
+
+Crypt (12 cards, min=17, max=29, avg=5.92)
+------------------------------------------
+2x Parijat, the Dark Oracle  7  AUS DOM FOR OBL            Hecata:6
+2x Kamaluddin                6  DOM OBL for pot  primogen  Lasombra:6
+2x Azucena                   5  DOM OBL pot                Lasombra:6
+1x Yewon Ong                 8  DOM OBL POT for  prince    Lasombra:6
+1x María del Toro            7  DOM OBL POT      prince    Lasombra:6
+1x Rinaldo Albizzi           7  DOM OBL POT pre  primogen  Lasombra:6
+1x Aintzane Arriaga          6  DOM OBL POT                Lasombra:6
+1x Braden White              4  dom obl pot                Lasombra:6
+1x Araceli "Celia" Rivera    3  dom obl                    Lasombra:6
+
+Library (75 cards)
+Master (9; 3 trifle)
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Political Hunting Ground
+2x Wash
+
+Action (15)
+10x Govern the Unaligned
+5x Shroud of Decay
+
+Ally (5)
+5x Spectral Servitor
+
+Action Modifier (33)
+3x Bonding
+3x Conditioning
+2x Foreshadowing Destruction
+4x Freak Drive
+8x Shadow Cast
+4x Shadow Cloak
+2x Sleeping Mind, The
+4x Stygian Shroud
+3x Where the Veil Thins
+
+Reaction (8)
+2x Deflection
+4x Redirection
+2x Shadow Sentinel
+
+Combat (4)
+4x Pass Through Shadow
+
+Event (1)
+1x Bitter and Sweet Story, The

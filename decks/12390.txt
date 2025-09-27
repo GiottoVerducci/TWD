@@ -1,0 +1,67 @@
+South African NC
+Dragonfire Cyberdrive '25, Cape Town, South Africa
+August 16th 2025
+3R+F
+13 players
+James Snowball
+https://www.vekn.net/event-calendar/event/12390
+
+-- 2GW6 + 4vp in final
+
+Deck Name: Brujah anarchs
+Description: Precon 5th modified
+
+Crypt (12 cards, min=15, max=31, avg=6)
+---------------------------------------
+3x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Elen Kamjian        4  CEL POT                     Brujah:6
+1x Ariane              3  cel pot pre                 Brujah:5
+1x Rayne               2  pot                         Brujah:6
+
+Library (90 cards)
+Master (17; 7 trifle)
+1x Anarch Free Press, The
+2x Carfax Abbey
+2x Fame
+1x KRCG News Radio
+2x New Carthage
+1x Powerbase: Montreal
+5x Villein
+1x Warzone Hunting Ground
+2x Wider View
+
+Action (16)
+2x Heroic Might
+3x Illegalism
+6x Line Brawl
+3x Make the Misere
+2x Show of Force
+
+Ally (1)
+1x 47th Street Royals
+
+Political Action (2)
+2x Eat the Rich
+
+Action Modifier (3)
+3x Monkey Wrench
+
+Reaction (16)
+4x Bait and Switch
+2x Delaying Tactics
+2x On the Qui Vive
+8x Organized Resistance
+
+Combat (35)
+7x Dust Up
+2x Flash
+6x Immortal Grapple
+2x Pursuit
+5x Quickness
+4x Roundhouse
+4x Taste of Vitae
+5x Torn Signpost

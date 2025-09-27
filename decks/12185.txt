@@ -1,0 +1,59 @@
+Revelation of Despair
+Gulfport (MS), USA
+August 24th 2025
+2R+F
+12 players
+Devin Villegas
+https://www.vekn.net/event-calendar/event/12185
+
+-- 2GW7 + 3vp in final
+
+Deck Name: Scout it out
+Author: andis, dev
+
+Crypt (12 cards, min=15, max=32, avg=5.83)
+------------------------------------------
+5x Scout Youngwood       8  MEL OBF PRE for qui  2 votes  Daughter of Cacophony:6
+3x Hillanvale            5  FOR MEL obf                   Daughter of Cacophony:6
+1x Phaibun               5  OBF PRE ani                   Ravnos:7
+1x Zafira                4  PRE obf                       Ravnos:7
+1x "Coach" Tyrone Soros  3  obf pre                       Follower of Set:6
+1x Oleg Kaprizov         3  obf pre                       Ravnos:7
+
+Library (90 cards)
+Master (20; 4 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+2x Dreams of the Sphinx
+1x Elder Library
+2x Fame
+1x Giant's Blood
+1x Jake Washington
+1x Secure Haven
+1x Tension in the Ranks
+4x Wider View
+
+Action (27)
+3x Concert Tour
+24x Shattering Crescendo
+
+Action Modifier (17)
+3x Faceless Night
+5x Forgotten Labyrinth
+2x Freak Drive
+3x Lost in Crowds
+4x Veil the Legions
+
+Action Modifier/Combat (7)
+3x Force of Personality
+4x Swallowed by the Night
+
+Reaction (12)
+2x Delaying Tactics
+3x On the Qui Vive
+3x Party Out Of Bounds
+4x Visions of Zapathasura
+
+Combat (7)
+2x Gemini's Mirror
+5x Majesty

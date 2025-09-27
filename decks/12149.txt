@@ -1,0 +1,98 @@
+Midwest Mayhem - Madison - Tainted Spring
+Madison (WI), USA
+May 18th 2025
+2R+F
+12 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/12149
+
+-- 0GW2 + 5vp in final
+
+Deck Name: Compromise
+Created by: Darby Keeney and Reagan Keeney
+Description: Doberhuahuas fetch sticks and rampage.
+
+A variant of this deck won a 9 player tournament a couple of years ago, after Reagan corrected a few imbalances. I continue to play the deck because it is too much fun to set aside. I'm giddy about getting its TWD entry in "Madison Mayhem - Tainted Springs"
+
+Many of you won't get the concept for the deck - it relates back to a brilliant 2014 Audi commercial that can be found here:
+
+Oh wow, that actually embedded!
+
+I have created tracking proxies with screenshots from that commercial to handle the action modifier not attaching to the allies. I find they add to the play experience, and the first Tainted Doberhuahua should always be named "Franchesca Tiramisu."  Don't ask.
+
+The "tech" is pretty straightforward.
+-- Ludmilla amasses Doberhuahua for free and leverages [vic] stealth.
+-- Rurik offers some bleed pressure, New Blood was supposed to be 2nd copy
+-- Xipe tracks down Doberhuahuas that get inappropriately adopted
+
+There's probably a viable version of using a couple more Villeins and the G6 Nos Primogen with bleed specials instead of the 3-4 caps with ANI.
+
+From there abuse the puppies for rush, blocks, presses and unlocks to bounce as needed. Be creative. Jake Washington has torpored a full 5 cap blocker and lived to tell the tale... while attempting to bleed for 0. A Stray has held the Heart of Cheating and sacrificed himself mid-Entracement. The deck gets away with odd things.
+
+Crypt (12 cards, min=14, max=30, avg=5.83)
+------------------------------------------
+4x Ludmijla Rakoczy  7  ANI AUS VIC          bishop      Tzimisce:5
+1x Xipe Totec        9  ANI AUS PRO VIC      archbishop  Tzimisce:5
+1x Laika             7  ANI AUS chi obf vic              Tzimisce:4
+1x Adhiambo          6  ANI VIC pot                      Tzimisce:4
+1x Rurik Rakoczy     6  ANI VIC aus                      Tzimisce:5
+1x Yuri Kerezenski   5  ANI aus for vic      bishop      Tzimisce:4
+1x Beetleman         4  ANI obf                          Nosferatu:4
+1x Stick             3  ANI                              Nosferatu antitribu:4
+1x New Blood         2  san                              Blood Brother:ANY
+
+Library (90 cards)
+Master (18; 5 trifle)
+1x Anarch Troublemaker
+1x Creepshow Casino
+1x Fame
+1x Frontal Assault -- OMG is this hilarious late game
+1x Giant's Blood
+4x Haven Uncovered -- does a lot of heavy lifting.
+1x Jake Washington
+1x Pentex(TM) Subversion
+2x Perfectionist
+4x Villein
+1x Wider View
+
+-- REALLY needs a Direct Intervention. After you get going, everyone and their probther would support Anarchist Uprising. I just don't know what to drop for it.
+
+Action (3)
+1x Ambush
+1x Bum's Rush
+1x Harass
+
+Ally (16)
+1x Carlton Van Wyk
+1x ECTU Operative
+1x Ossian -- the missing link in Doberhuahua evolution
+11x Underbridge Stray
+2x Vagabond Mystic -- veterinarian, more like.
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (15)
+5x Changeling
+2x Mind of the Wilds
+8x Tainted Spring
+
+Action Modifier/Combat (3)
+3x Plasmic Form
+
+Reaction (11)
+3x Eyes of Argus
+3x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (19)
+4x Glancing Blow
+2x Lucky Blow -- oddly, none of the dogs were named Lucky......
+2x Pulled Fangs -- who knew doggy dentistry was a thing?
+7x Target Vitals -- when those dog paws land in your crotch
+4x Weighted Walking Stick -- Fetch!
+
+Event (4)
+1x Dragonbound
+1x Scourge of the Enochians
+2x Unmasking, The

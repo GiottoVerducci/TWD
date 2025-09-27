@@ -1,0 +1,61 @@
+Itaquaquecetubense -2025
+Itaquaquecetuba, Brazil
+August 17th 2025
+2R+F
+22 players
+Fernando Naves Resck
+https://www.vekn.net/event-calendar/event/12581
+
+-- 1GW4.5 + 1.5 in final
+
+Deck Name: Brujeria
+
+Crypt (12 cards, min=11, max=28, avg=5.08)
+------------------------------------------
+3x Aline Gädeke        7  POT PRE cel      baron  Brujah:6
+2x Atiena              6  CEL obf pot pre  baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro  baron  Brujah:6
+1x Leumeah             6  PRE cel for pot  baron  Brujah:6
+1x Elen Kamjian        4  CEL POT                 Brujah:6
+1x Anita Wainwright    3  cel pre                 Brujah:6
+1x Ariane              3  cel pot pre             Brujah:5
+1x Laura Goldman       3  cel pre                 Brujah:5
+1x Rayne               2  pot                     Brujah:6
+
+Library (80 cards)
+Master (22; 6 trifle)
+1x Anarch Free Press, The
+6x Brujah Debate
+1x Carfax Abbey
+2x Celerity
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Fame
+1x Garibaldi-Meucci Museum
+1x Parthenon, The
+1x Powerbase: Montreal
+3x Vessel
+2x Villein
+1x Wash
+
+Action (12)
+1x Aranthebes, The Immortal
+4x Childe of the Revolution
+6x Line Brawl
+1x Open War
+
+Political Action (1)
+1x Revolutionary Council
+
+Reaction (24)
+7x Bait and Switch
+1x Delaying Tactics
+2x On the Qui Vive
+12x Organized Resistance
+2x Protection Racket
+
+Combat (21)
+3x Disarm
+11x Dust Up
+4x Immortal Grapple
+3x Taste of Vitae

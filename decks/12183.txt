@@ -1,0 +1,81 @@
+Revelation of Wrath
+Gulfport (MS), USA
+August 22nd 2025
+2R+F
+15 players
+Kelly Lyons
+https://www.vekn.net/event-calendar/event/12183
+
+-- 1GW6 + 2vp in final
+
+Deck Name: Water Dog - Dream a Little DIRTY Dream
+Author: Kelly Lyons and Karl Schaefer
+Description: This deck started with a conversation with Karl Schaefer. I wasn’t going to be able to attend the NAC this year. I needed a way to live vicariously for the summer so, when Karl said he was seeking ideas for the Week of Nightmares and Origins I jumped right in with suggestions.
+
+Karl, showed me a deck with Malkavian Antitribu that he was thinking about playing. The main card he was looking at was Private Audience. Considering that most votes, right now, are being made by Camarilla and Anarch titles; it made sense to control referendums that you call for Sabbat. Private Audience does that.
+
+However, when I analyzed the deck I felt that the win condition was too slow and you can’t just rely on vote control. So, I thought the Malkavian Antitribu was a weak version. However, if you replace them with Nosferatu Antitribu you have an alternative oust condition and protection with Inside Dirt.
+
+So, I built the deck and sent it to him. We worked on various arrangements based on playing style. Karl and I have very different playing styles but it’s those differences that really helped shape the deck. The combination of styles runs through this deck. The final outcome was a swarm, vote, bleed, dirt deck.
+
+Karl Cards:
+The Hungry Coyote (Karl was absolutely right. This is a must include. I went with 3 copies.)
+Creation Rites (Make fledglings and give them Obfuscate.)
+Private Audience (You control the vote.)
+Cryptic Rider (Helps get your Crusades off.)
+
+Water Dog Cards:
+Inside Dirt (3 pool damage or drain a vampire.)
+Communal Haven: Cathedral (Gave me extra actions when needed.)
+The Admonitions (I was able to cycle with ease.)
+Black Forest Base (Gaining 2 pool every turn is pretty good.)
+
+Crypt (12 cards, min=12, max=34, avg=6)
+---------------------------------------
+3x Greensleeves     7  ANI OBF for pot      priscus     Nosferatu antitribu:4
+2x Strohmann        9  ANI OBF POT THA dom  archbishop  Nosferatu antitribu:5
+2x Lukas            8  ANI OBF POT pre ser  archbishop  Nosferatu antitribu:4
+1x Frank Litzpar    5  OBF ani for pot                  Nosferatu antitribu:4
+1x Skulk            4  OBF ani                          Nosferatu antitribu:5
+1x Blister          3  obf pot                          Nosferatu antitribu:4
+1x Lubomira Hradok  3  OBF                              Nosferatu antitribu:5
+1x Old Neddacka     2  obf                              Nosferatu antitribu:4
+
+Library (90 cards)
+Master (19; 3 trifle)
+1x Admonitions, The
+1x Black Forest Base
+1x Communal Haven: Cathedral
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+3x Hungry Coyote, The
+4x Obfuscate
+1x Shanty Town Hunting Ground
+3x Villein
+
+Action (28)
+5x Creation Rites
+6x Embrace, The
+12x Inside Dirt
+5x Night Moves
+
+Political Action (11)
+8x Consanguineous Boon
+1x Crusade: Chicago
+1x Crusade: Istanbul
+1x Crusade: London
+
+Action Modifier (31)
+3x Change of Target
+2x Cloak the Gathering
+3x Cryptic Rider
+3x Elder Impersonation
+2x Faceless Night
+5x Forgotten Labyrinth
+4x Lost in Crowds
+7x Private Audience
+2x Veil the Legions
+
+Event (1)
+1x Uncoiling, The

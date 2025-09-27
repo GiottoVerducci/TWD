@@ -1,0 +1,82 @@
+Gulf Coast Roast Grand Prix (3rd Leg) - Biloxi/Gulfport
+Gulfport (MS), USA
+August 23rd 2025
+3R+F
+19 players
+Parth Patel
+https://www.vekn.net/event-calendar/event/12184
+
+-- 1GW6.5 + 3vp in final
+
+Deck Name: Scouse politics (New)
+Author: Tr0tt3r
+Description: So, I started playing V:TES at the end of April. I played twice at Miles 2 Adventure learning the game and borrowing a few decks before heading back to the U.K., where after a few weeks I found a group in Liverpool.
+
+I played a game or two of stealth bleed but decided I really liked the Toreadors from the V5 starter box I ordered, and with a lot of help from the community in Liverpool, Mikey Ferguson especially, the deck went through many iterations as I learnt the game and got better. I took it to my first tournament in Bletchley in mid-July where unfortunately I only managed 0.5VP. I believe it wasn’t tournament ready and I was nowhere near a good enough player.
+
+After I returned to the USA I started playing at Miles 2 Adventure again as well as online. I kept tweaking the deck slightly through over 40 iterations before I finally arrived at one I was happy with 3 days before the Gulf Coast Roast, and I’m incredibly pleased with how it worked out. Even before the tournament I was not very confident. I told people I just wanted to beat my previous 0.5 VPs and maybe if I’m lucky I could win 1 table over the 3 day weekend.
+
+When I won my first table on Saturday with 4vp, I thought maybe I just got lucky but my confidence grew throughout the day, and by the time I sat down for the finals table I had a feeling I could be in with a good chance, although I had played with both Justin and Joey before and knew they would be difficult opponents.
+
+I had a very strong start, and about an hour in I managed to get the oust on my prey with a big Aire of Elation bleed, but now I was in a predicament as my predator and grand predator were on 3 pool each and I didn’t want Justin to get the double oust, so I decided to make a deal with Joey. If I used my last vampire to call an Camarilla’s Iron Fist and back oust to give him 6 pool, he would commit to going backwards until the 1v1. It was risky, as a 1v1 vs a Hecata swarm deck is difficult but ultimately it turned out to be the game winning move. Even despite giving Joey the buffer, Justin managed to bleed him out on the next turn. However, I had prevented the double oust which meant that he only got 6 pool instead of 12, so I was able to ultimately win out in the 1v1.
+
+Winning my second ever tournament felt unreal, I still have no idea  how I managed it but I’m incredibly happy, and I had a ton of fun playing throughout. I'd like to shout out my fellow “Scousers” who trained me in a trial by fire when I was learning with them so I was prepared for anything. I hope to do them proud by winning many more tournaments here in the U.S.
+
+
+Crypt (12 cards, min=15, max=35, avg=6.5)
+-----------------------------------------
+3x Diana Iadanza     9  AUS CEL FOR PRE  justicar  Toreador:7
+2x Catalina Vega     8  AUS CEL PRE for  prince    Toreador:6
+2x Flávio Gonçalves  7  CEL PRE aus for  prince    Toreador:6
+2x Maila             6  AUS PRE cel      primogen  Toreador:6
+1x Bret Stryker      4  CEL PRE                    Toreador:6
+1x Valentina Osako   3  PRE                        Toreador:7
+1x Kazuki Hanabira   2  aus                        Toreador:7
+
+Library (90 cards)
+Master (18; 4 trifle)
+1x Art Museum
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Jake Washington
+1x Protected Resources
+6x Toreador Grand Ball
+3x Villein
+1x Wider View
+
+Action (8)
+6x Enchant Kindred
+1x Entrancement
+1x Heart of the City
+
+Political Action (14)
+2x Banishment
+4x Camarilla's Iron Fist
+4x Kine Resources Contested
+4x Parity Shift
+
+Action Modifier (23)
+2x Aire of Elation
+2x Awe
+2x Bewitching Oration
+4x Forced March
+4x Loup
+2x Perfect Paragon
+7x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (15)
+4x Eyes of Argus
+4x Second Tradition: Domain
+7x Telepathic Misdirection
+
+Combat (6)
+2x Charismatic Aura
+4x Majesty

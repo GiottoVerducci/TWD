@@ -1,0 +1,73 @@
+Baile dos Neófitos
+Jaboatão dos Guararapes (PE), Brazil
+August 24th 2025
+2R+F
+10 players
+Pedro Andrade
+https://www.vekn.net/event-calendar/event/12602
+
+-- 3vp in final
+
+Deck Name: Tzi do Hira
+Description: Tzi of Hira is a Tzimisce deck focused on block and bleed. Packed with interception cards and aggravated combat, it's quite punishing when blocking, but its arsenal also boasts powerful bleeds thanks to its Domination modifiers.
+
+Crypt (12 cards, min=17, max=31, avg=6.17)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+2x Susie Kano       3  ani dom                 Tzimisce:6
+1x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+
+Library (90 cards)
+Master (14; 3 trifle)
+1x Anarch Free Press, The
+2x Anarch Revolt
+1x Barrens, The
+2x Direct Intervention
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Haven Uncovered
+1x Information Highway
+2x Villein
+1x Wider View
+
+Action (9)
+6x Deep Song
+3x Scouting Mission
+
+Action/Combat (4)
+4x Monstrous Form
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Revenant
+
+Action Modifier (16)
+1x Bonding
+2x Conditioning
+5x Earth Control
+2x Foreshadowing Destruction
+4x Invigorate
+2x Threats
+
+Action Modifier/Combat (6)
+6x Obedient Flesh
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (24)
+4x Bait and Switch
+4x Cats' Guidance
+1x Guard Dogs
+4x On the Qui Vive
+5x One With the Land
+6x Organized Resistance
+
+Combat (11)
+2x Carrion Crows
+5x Form of Mist
+4x Sculpt the Flesh

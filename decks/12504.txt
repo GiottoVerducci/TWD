@@ -1,0 +1,61 @@
+1st CCB Tomahawk
+Barra Mansa, Brazil
+August 23rd 2025
+2R+F
+20 players
+Tiago Guedes
+https://www.vekn.net/event-calendar/event/12504
+
+-- 3vp in final
+
+Deck Name: Peace sells
+Description: Credits to deck creator Darby Keeney (based on Kelly Lyons' deck). I swapped Anarch Manifest for Ivory Bow. The change had to do with the local meta with guns and ranged combat.
+
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+2x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+2x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Elen Kamjian        4  CEL POT                     Brujah:6
+
+Library (90 cards)
+Master (17; 5 trifle)
+2x Blood Doll
+1x Carfax Abbey
+2x Dreams of the Sphinx
+1x Fame
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+2x New Carthage
+1x Papillon
+1x Powerbase: Los Angeles
+5x Villein
+
+Action (20)
+9x Illegalism
+10x Line Brawl
+1x Open War
+
+Equipment (1)
+1x Ivory Bow
+
+Action Modifier (6)
+6x Power of One
+
+Reaction (8)
+6x Bait and Switch
+2x Organized Resistance
+
+Combat (38)
+2x Bollix
+2x Disarm
+4x Diversion
+9x Dust Up
+6x Immortal Grapple
+2x Pulled Fangs
+5x Target Vitals
+4x Taste of Vitae
+4x Thrown Gate

@@ -1,0 +1,58 @@
+Paz em SP
+São Paulo, Sp, Brazil
+July 6th 2025
+2R+F
+Roberto Mautone Junior
+https://www.vekn.net/event-calendar/event/12412
+
+-- 4vp in final
+
+Deck Name: Lasombra Deadpool v5
+
+Crypt (12 cards, min=28, max=32, avg=7.67)
+------------------------------------------
+4x Dafina Hanganu    8  DOM OBL POT for  prince  Lasombra:6
+3x Yewon Ong         8  DOM OBL POT for  prince  Lasombra:6
+2x Egidia Arrú       8  DOM OBL POT pro          Lasombra:6
+2x María del Toro    7  DOM OBL POT      prince  Lasombra:6
+1x Aintzane Arriaga  6  DOM OBL POT              Lasombra:6
+
+Library (90 cards)
+Master (18; 6 trifle)
+2x Dead Pool
+1x Dreams of the Sphinx
+1x Fame
+1x Giant's Blood
+1x Information Highway
+1x Monastery of Shadows
+3x Monster
+1x Papillon
+1x Political Hunting Ground
+2x Vessel
+4x Villein
+
+Action (16)
+2x Graverobbing
+3x Heroic Might
+3x Preternatural Strength
+8x Umbrous Clutch
+
+Political Action (7)
+1x Lasombra Justicar
+4x Parity Shift
+2x Raising the Portcullis
+
+Reaction (13)
+6x Deflection
+7x Second Tradition: Domain
+
+Combat (35)
+4x Arms of Ahriman
+6x Disarm
+8x Immortal Grapple
+10x Shadow Shift
+6x Taste of Vitae
+1x Touch of Oblivion
+
+Event (1)
+1x Dragonbound

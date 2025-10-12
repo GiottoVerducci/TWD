@@ -1,0 +1,56 @@
+Torneio mensal Curitiba
+Curitiba (PR), Brazil
+September 27th 2025
+2R+F
+12 players
+Alex Demian
+https://www.vekn.net/event-calendar/event/12650
+
+Deck Name: Chain of command
+
+Crypt (12 cards, min=16, max=40, avg=7.33)
+------------------------------------------
+4x Alonso Petrodon     10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
+4x Gustaphe Brunnelle   8  ANI DOM POT obf          primogen  Nosferatu:4
+2x Harold Tanner        6  POT ani dom obf                    Nosferatu:4
+2x Nichodemus           2  pot                                Nosferatu:5
+
+Library (75 cards)
+Master (12; 3 trifle)
+1x Depravity
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Giant's Blood
+1x Guardian Angel
+1x Labyrinth, The
+1x Slum Hunting Ground
+1x Vessel
+2x Villein
+2x Warsaw Station
+
+Action (9)
+4x Deep Song
+5x Govern the Unaligned
+
+Action Modifier (9)
+2x Enkil Cog
+2x Foreshadowing Destruction
+5x Lost in Crowds
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (17)
+7x Deflection
+3x On the Qui Vive
+7x Sense the Savage Way
+
+Combat (21)
+2x Canine Horde
+5x Immortal Grapple
+7x Roundhouse
+3x Slam
+4x Taste of Vitae

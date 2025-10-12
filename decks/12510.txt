@@ -1,0 +1,55 @@
+Twisted Forest of Belgrade
+Belgrade, Serbia
+October 4th 2025
+3R+F
+13 players
+Dusan Kosanovic
+https://www.vekn.net/event-calendar/event/12510
+
+Deck Name:  Sheldon, gospodar GLIBA
+
+Crypt (12 cards, min=24, max=36, avg=7.5)
+-----------------------------------------
+4x Sheldon, Lord of the Clog  9  ANI AUS OBF POT for  justicar  Nosferatu:1
+2x Selma the Repugnant        8  OBF POT ani for      prince    Nosferatu:1
+2x Murat                      7  OBF POT ser          prince    Nosferatu:2
+2x Nikolaus Vermeulen         7  POT ani for obf      prince    Nosferatu:2
+2x Calebros, The Martyr       5  ANI obf pot          prince    Nosferatu:2
+
+Library (77 cards)
+Master (18; 3 trifle)
+1x Archon Investigation
+1x Camarilla Conclave
+2x Dreams of the Sphinx
+1x Giant's Blood
+6x Grooming the Protégé
+1x Labyrinth, The
+1x Papillon
+2x Two Wrongs
+2x Warsaw Station
+1x Wider View
+
+Action (17)
+1x Fifth Tradition: Hospitality
+7x Fourth Tradition: The Accounting
+1x SchreckNET
+8x Third Tradition: Progeny
+
+Political Action (18)
+1x Banishment
+2x Camarilla's Iron Fist
+7x Consanguineous Boon
+1x Conservative Agitation
+6x Kine Resources Contested
+1x Neonate Breach
+
+Action Modifier (22)
+2x Cloak the Gathering
+4x Elder Impersonation
+3x Faceless Night
+5x Freak Drive
+6x Lost in Crowds
+2x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night

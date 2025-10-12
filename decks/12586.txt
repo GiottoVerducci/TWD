@@ -1,0 +1,63 @@
+Sabbat Arising
+Bologna, Italy
+September 27th 2025
+2R+F
+25 players
+Stefano Tarozzi
+https://www.vekn.net/event-calendar/event/12586
+
+Deck Name: Zampettando Steve
+
+Crypt (12 cards, min=17, max=26, avg=5.25)
+------------------------------------------
+2x Ludmijla Rakoczy    7  ANI AUS VIC      bishop  Tzimisce:5
+2x Rurik Rakoczy       6  ANI VIC aus              Tzimisce:5
+1x Céleste Lamontagne  5  ANI PRO for              Gangrel antitribu:4
+1x Effie Lowery        5  ANI SPI obf              Ahrimane:4
+1x Fish                5  ANI POT pre              Guruhi:4
+1x Petra               5  ANI OBF aus              Nosferatu:4
+1x Sahana              5  ANI pre pro spi          Ahrimane:4
+1x Yuri Kerezenski     5  ANI aus for vic  bishop  Tzimisce:4
+1x Beetleman           4  ANI obf                  Nosferatu:4
+1x Stick               3  ANI                      Nosferatu antitribu:4
+
+Library (90 cards)
+Master (19; 4 trifle)
+2x Archon Investigation
+6x Ashur Tablets
+1x Direct Intervention
+1x Fame
+2x Haven Uncovered
+1x Powerbase: Montreal
+1x Sudden Reversal
+1x Tension in the Ranks
+4x Vessel
+
+Action (20)
+16x Deep Song
+4x Tier of Souls
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (5)
+1x J. S. Simmons, Esq.
+3x Owl Companion
+1x Tasha Morgan
+
+Reaction (10)
+2x Cats' Guidance
+2x Delaying Tactics
+2x Guard Dogs
+4x On the Qui Vive
+
+Combat (34)
+14x Aid from Bats
+2x Canine Horde
+8x Carrion Crows
+4x Target Vitals
+2x Taste of Vitae
+4x Terror Frenzy
+
+Event (1)
+1x Dragonbound

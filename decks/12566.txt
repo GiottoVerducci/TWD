@@ -1,0 +1,75 @@
+6th Middle European Cup
+Vienna, Austria
+September 27th 2025
+3R+F
+34 players
+Lukas Vrbicky
+https://www.vekn.net/event-calendar/event/12566
+
+-- 1GW5.5 + 3vp in final
+
+Deck Name: Groom is missing
+
+Crypt (12 cards, min=17, max=24, avg=5.33)
+------------------------------------------
+4x Victoria Ash       6  PRE aus cel dom            Toreador:7
+2x Asmin Kobane       5  CEL dom obf tha            Assamite:6
+1x Kalinda            6  CEL OBF tha      primogen  Assamite:6
+1x Kassandra Tassaki  6  CEL THA obf      prince    Assamite:6
+1x Khadija Al-Kindi   6  CEL OBF THA      primogen  Assamite:6
+1x Warmaksan          5  THA cel obf      prince    Assamite:6
+1x Greg Mazouni       4  cel obf tha                Assamite:6
+1x Adisa              3  cel obf                    Assamite:6
+
+Library (90 cards)
+Master (20; 6 trifle)
+1x Alamut
+1x Archon Investigation
+6x Ashur Tablets
+2x Haqim's Law: Retribution
+1x Information Highway
+1x Khabar: Community, The
+1x Powerbase: Montreal
+1x Priority Contract
+1x Underworld Hunting Ground
+3x Villein
+2x Wider View
+
+Action (11)
+3x Haqim's Law: Leadership
+1x Judgment: Camarilla Segregation
+1x Khabar: Glory
+6x Web of Knives Recruit
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (3)
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Seal of Veddartha
+
+Political Action (7)
+1x Banu Haqim Justicar
+1x Camarilla's Iron Fist
+4x Consanguineous Boon
+1x Parity Shift
+
+Action Modifier (5)
+2x Cloak the Gathering
+3x Lost in Crowds
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (16)
+7x Deflection
+5x On the Qui Vive
+4x Second Tradition: Domain
+
+Combat (22)
+5x Pursuit
+4x Quickness
+4x Side Strike
+3x Theft of Vitae
+6x Weighted Walking Stick

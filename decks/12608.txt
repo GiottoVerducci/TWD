@@ -1,0 +1,55 @@
+Praxis: Matias Barbosa
+Juiz de Fora, Brazil
+September 28th 2025
+2R+F
+10 players
+Guilherme Machado
+https://www.vekn.net/event-calendar/event/12608
+
+Deck Name: Lasombra Rush
+
+Crypt (12 cards, min=23, max=32, avg=7.08)
+------------------------------------------
+3x Dafina Hanganu    8  DOM OBL POT for  prince  Lasombra:6
+3x María del Toro    7  DOM OBL POT      prince  Lasombra:6
+2x Yewon Ong         8  DOM OBL POT for  prince  Lasombra:6
+2x Aintzane Arriaga  6  DOM OBL POT              Lasombra:6
+1x Egidia Arrú       8  DOM OBL POT pro          Lasombra:6
+1x Braden White      4  dom obl pot              Lasombra:6
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Archon Investigation
+3x Dead Pool
+1x Fame
+1x Giant's Blood
+1x Guardian Angel
+2x Monster
+5x Villein
+
+Action (15)
+4x Govern the Unaligned
+1x Graverobbing
+2x Heroic Might
+8x Umbrous Clutch
+
+Political Action (1)
+1x Raising the Portcullis
+
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
+
+Reaction (16)
+6x Deflection
+4x On the Qui Vive
+4x Second Tradition: Domain
+2x Shadow Sentinel
+
+Combat (42)
+6x Arms of Ahriman
+3x Disarm
+8x Immortal Grapple
+5x Roundhouse
+6x Shadow Shift
+6x Taste of Vitae
+8x Torn Signpost

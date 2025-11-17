@@ -1,0 +1,70 @@
+Oceania Continental Championship 2025
+Melbourne, Australia
+October 25th 2025
+3R+F
+31 players
+Ben Szymkow
+https://www.vekn.net/event-calendar/event/12113
+
+Deck Name: OCC 2025 - Girl walks into PoG
+Description: Diana with tap/bleed module using Scalpel and Under the Skin. Predicted a wide-board meta so ran extra Anarchist Uprising and a Neonate Breach instead of KRC.
+Expulsion was to have an answer for baron flick and reduce.
+https://vdb.im/decks/07732accb
+
+Crypt (12 cards, min=25, max=36, avg=7.67)
+------------------------------------------
+4x Diana Iadanza     9  AUS CEL FOR PRE  justicar  Toreador:7
+3x Catalina Vega     8  AUS CEL PRE for  prince    Toreador:6
+2x Flávio Gonçalves  7  CEL PRE aus for  prince    Toreador:6
+2x Mkhokheli         6  PRE aus cel for  prince    Toreador:6
+1x Maila             6  AUS PRE cel      primogen  Toreador:6
+
+Library (90 cards)
+Master (16)
+1x Anarch Troublemaker
+2x Art Museum
+1x Camarilla Conclave
+1x Creepshow Casino
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fortitude
+5x Grooming the Protégé
+1x Monastery of Shadows
+2x Visit from the Capuchin
+
+Action (9)
+7x Enchant Kindred
+2x Entrancement
+
+Political Action (17)
+2x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+3x Camarilla's Iron Fist
+1x Expulsion
+1x First Tradition: The Masquerade
+1x Neonate Breach
+6x Parity Shift
+
+Action Modifier (30)
+2x Aire of Elation
+6x Forced March
+3x Freak Drive
+5x Loup
+4x Perfect Paragon
+3x Under the Skin
+7x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Action Modifier/Reaction (4)
+4x Scalpel Tongue
+
+Reaction (4)
+2x Second Tradition: Domain
+2x Telepathic Misdirection
+
+Combat (6)
+2x Charismatic Aura
+4x Majesty

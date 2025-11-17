@@ -1,0 +1,80 @@
+Nada antes, longe, tchau
+São paulo, Brazil
+October 5th 2025
+2R+F
+17 players
+Roberto Mautone Junior
+https://www.vekn.net/event-calendar/event/12706
+
+Deck Name: Creme de Avela
+Author: Pascek  Ressurected
+Description: Tzimisce v5 + Museum + Manse addiction
+
+Crypt (12 cards, min=19, max=30, avg=6.08)
+------------------------------------------
+2x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+2x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (87 cards)
+Master (22; 7 trifle)
+1x Anarch Railroad
+6x British Museum, London, The
+1x Coven, The
+2x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Heidelberg Castle, Germany
+1x Jake Washington
+1x Library Hunting Ground
+1x Papillon
+2x Vessel
+3x Villein
+1x Wider View
+
+Action (8)
+8x Govern the Unaligned
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (13)
+1x Codex of the Edenic Groundskeepers
+1x Flaming Candle
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+7x Living Manse
+1x Palatial Estate
+1x Signet of King Saul, The
+
+Political Action (2)
+2x Eat the Rich
+
+Action Modifier (8)
+2x Conditioning
+5x Earth Control
+1x Foreshadowing Destruction
+
+Action Modifier/Combat (2)
+2x Obedient Flesh
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (18)
+4x Bait and Switch
+4x Deep Ecology
+6x Deflection
+4x Organized Resistance
+
+Combat (8)
+4x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x NRA PAC

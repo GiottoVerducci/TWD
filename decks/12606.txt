@@ -1,0 +1,52 @@
+I Torneo Liga Norte
+Logroño, Spain
+September 13th 2025
+2R+F
+17 players
+Iñaki Jiménez
+https://www.vekn.net/event-calendar/event/12606
+
+Deck Name: DOM Servitors
+Author: Iñaki Jimenez & friends
+
+Crypt (12 cards, min=13, max=26, avg=5.08)
+------------------------------------------
+2x Aintzane Arriaga          6  DOM OBL POT                Lasombra:6
+2x Kamaluddin                6  DOM OBL for pot  primogen  Lasombra:6
+2x Azucena                   5  DOM OBL pot                Lasombra:6
+2x Alek König                3  OBL                        Hecata:6
+1x Parijat, the Dark Oracle  7  AUS DOM FOR OBL            Hecata:6
+1x Rinaldo Albizzi           7  DOM OBL POT pre  primogen  Lasombra:6
+1x Braden White              4  dom obl pot                Lasombra:6
+1x Araceli "Celia" Rivera    3  dom obl                    Lasombra:6
+
+Library (75 cards)
+Master (7; 1 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Line, The
+1x Pentex(TM) Subversion
+1x Perfectionist
+
+Action (20)
+7x Computer Hacking
+10x Govern the Unaligned
+3x Shroud of Decay
+
+Ally (13)
+13x Spectral Servitor
+
+Action Modifier (27)
+5x Bonding
+1x Foreshadowing Destruction
+9x Shadow Cast
+6x Shadow Cloak
+3x Stygian Shroud
+3x Where the Veil Thins
+
+Reaction (8)
+4x Deflection
+2x Delaying Tactics
+2x Shadow Sentinel

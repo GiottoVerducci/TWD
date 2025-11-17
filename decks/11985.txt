@@ -1,0 +1,74 @@
+Osny Moreira
+Fortaleza (CE), Brazil
+November 2nd 2025
+2R+F
+20 players
+Thiago Rafael
+https://www.vekn.net/event-calendar/event/11985
+
+Deck Name: Marlene e Tremeres G1 e G2
+
+Crypt (12 cards, min=20, max=35, avg=6.92)
+------------------------------------------
+3x Lazarus                   9  AUS DOM THA cel pot  primogen  Tremere:1
+2x Justine, Elder of Dallas  8  AUS DOM THA obf      primogen  Tremere:1
+2x Astrid Thomas             7  DOM THA aus pot      primogen  Tremere:1
+1x Marlene, The Infernalist  6  AUS DOM dem for tha            Ventrue antitribu:2
+1x Thomas Thorne             6  DOM ani aus cel tha            Tremere:1
+1x Aisling Sturbridge        5  AUS THA dom                    Tremere:2
+1x Merrill Molitor           5  THA aus dom                    Tremere:1
+1x Sarah Cobbler             4  THA dom                        Tremere:1
+
+Library (90 cards)
+Master (17; 1 trifle)
+1x Academic Hunting Ground
+1x Arcane Library
+1x Auspex
+3x Blood Doll
+1x Chantry
+1x Dreams of the Sphinx
+1x Guardian Angel
+1x KRCG News Radio
+1x Pentex(TM) Subversion
+4x Rötschreck
+1x Sudden Reversal
+1x Villein
+
+Action (14)
+1x Aranthebes, The Immortal
+10x Govern the Unaligned
+3x Magic of the Smith
+
+Ally (1)
+1x Ponticulus
+
+Equipment (5)
+2x .44 Magnum
+1x Bowl of Convergence
+1x Improvised Flamethrower
+1x Kevlar Vest
+
+Retainer (1)
+1x Charnas the Imp
+
+Action Modifier (11)
+3x Bonding
+1x Conditioning
+5x Mirror Walk
+2x Threats
+
+Reaction (26)
+5x Deflection
+3x Enhanced Senses
+5x Eyes of Argus
+2x Forced Awakening
+3x On the Qui Vive
+2x Precognition
+2x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (15)
+2x Apportation
+4x Burst of Sunlight
+3x Movement of the Mind
+6x Theft of Vitae

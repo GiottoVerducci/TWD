@@ -1,0 +1,73 @@
+Form of Mist (LIGA)
+Campina Grande (PB), Brazil
+October 19th 2025
+2R+F
+15 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/12717
+
+-- 3vp in final
+
+Deck Name: No more Tears
+
+Crypt (12 cards, min=18, max=30, avg=6.08)
+------------------------------------------
+2x Adrino Manauara        8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero         7  ANI DOM PRO      baron  Tzimisce:6
+2x Branimira              6  ANI dom pre pro  baron  Tzimisce:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Whisper                5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby          4  ani dom pro             Tzimisce:6
+1x Indira                 3  PRO                     Gangrel:6
+
+Library (90 cards)
+Master (14; 5 trifle)
+1x Carfax Abbey
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+1x Fame
+1x Papillon
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+3x Vessel
+2x Villein
+
+Action (6)
+2x Constant Revolution
+4x Govern the Unaligned
+
+Ally (2)
+1x Vozhd of Sofia, The
+1x War Ghoul
+
+Equipment (3)
+1x Heart of Nizchetus
+2x Living Manse
+
+Retainer (6)
+2x Murder of Crows
+4x Raven Spy
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (24)
+7x Bait and Switch
+7x One With the Land
+7x Organized Resistance
+3x Protection Racket
+
+Combat (32)
+9x Carrion Crows
+1x Claws of the Dead
+1x Donnybrook
+3x Drawing Out the Beast
+5x Earth Meld
+5x Flesh of Marble
+3x Form of Mist
+2x Form of the Wolf
+3x Wolf Claws

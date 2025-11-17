@@ -1,0 +1,65 @@
+EC 2025 - Day 2
+Aarhus, Denmark
+October 19th 2025
+3R+F
+50 players
+Nerijus Mikalajūnas
+https://www.vekn.net/event-calendar/event/12526
+
+Deck Name: Yesterday's Brutalism [72]
+Author: Bram Van Stappen
+Description: This is a slightly modified version of the deck that Bram won the "Eve before the night" tournament  (30+ players)  in Vilnius, Lithuania, February 25, 2025. The crypt was slightly modified, and the additions to the library include Omael Kuman (suggested by Lech Ivanov) and the Book of Going Forth by Night, Secure Heaven, Direct Intervention and Archon Investigation (all four - Nerijus Mikalajūnas). This version, played by Nerijus, won the EC2025 day two tournament in Aarhus, Denmark, October 19 2025.
+
+Crypt (12 cards, min=4, max=40, avg=5.08)
+-----------------------------------------
+5x Shalmath        10  POT PRE TEM  True Brujah:6
+1x Andre LeRoux     3  aus          Toreador:5
+1x Alu              2  obf          Assamite:5
+1x New Blood        2  san          Blood Brother:ANY
+1x Alex Wilkins     1  cel          Caitiff:5
+1x Anarch Convert   1  -none-       Caitiff:ANY
+1x Donald Cargill   1  aus          Caitiff:5
+1x Walker Grimes    1  ani          Caitiff:5
+
+Library (72 cards)
+Master (12; 1 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Direct Intervention
+1x Powerbase: Montreal
+1x Secure Haven
+1x Tabriz Assembly
+1x Wider View
+
+Action (11)
+1x Ambush
+1x Big Game
+1x Bum's Rush
+1x Hourglass of the Mind
+7x Summon History
+
+Ally (3)
+1x Gregory Winter
+1x Nephandus
+1x Tye Cooper
+
+Equipment (4)
+1x Book of Going Forth by Night, The
+1x Eye of Hazimel
+1x Heart of Nizchetus
+1x Talbot's Chainsaw
+
+Retainer (2)
+1x Mr. Winthrop
+1x Omael Kuman
+
+Action Modifier (8)
+6x Domain of Evernight
+2x Enkil Cog
+
+Combat (32)
+3x Decapitate
+7x Disarm
+8x Majesty
+10x Outside the Hourglass
+4x Taste of Vitae

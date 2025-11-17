@@ -1,0 +1,70 @@
+German NC 2025
+Darmstadt-Eberstadt, Germany
+November 8th 2025
+3R+F
+24 players
+Joscha Düll
+https://www.vekn.net/event-calendar/event/12548
+
+Deck Name: Lasombra Path of Power v2
+Description: The deck was fun, but as always you need the right meta and a good seating to be succesful with it. It is no magical wonder deck.
+
+Crypt (12 cards, min=33, max=40, avg=9.08)
+------------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+3x Antonio Delgado                          9  DOM OBT POT tha          archbishop  Lasombra:2
+3x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+1x Alvaro, The Scion of Angelica            9  OBT POT dom pre          archbishop  Lasombra:2
+1x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+
+Antonio is strong with his unlock in the discard after a succesful pol. act. Francisco and Alvaro are very good too with their plus bleed. In the 1 vs 1 battles for the game win the bleeds often were decisive. So the question is wether you swap out a Antonio for one of them.
+I planned to play with 5 Monçadas but did not find a fifth copy in my heap. As you really need him in your starting four you should go with 5 copies in 13 cards.
+
+Library (78 cards)
+Master (22; 6 trifle)
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Fear of Mekhet -- never played it, could have twice but it was not the right time. Still a very strong card imho
+1x Giant's Blood
+1x Gurchon Hall -- had it only in the final, the deck ran smoothly without. An autoinclude thinking about all the blood intensive cards like Deflection, Govern, Obt-stealth, Villein, though I did not miss it. Could be a Monastery of Shadows probably
+1x Information Highway -- useful also in the later stages of game to cycle Unholy Sacraments, three on, three back
+1x Power Structure -- autoinclude
+1x Powerbase: Madrid -- I like that card, though it wasn't needed in the prelims. a good addition beside Power Structure
+1x Privileged Position -- not bad, especially if you get it early. Great there is no pool cost
+1x Regent -- was the gamechanging and probably the winning card in the finals, but you have to look out for fighty sabbats, then it is not playable
+6x Unholy Sacrament
+6x Villein -- Villein 5, play Unholy Sacrament ;)
+
+Action (6)
+6x Govern the Unaligned -- quite right imho, enough to speed up the second minion, great to bleed in late game
+
+Political Action (18)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Banishment -- could be two, so strong
+4x Cold War -- strong, good for negotiations or powerful if you have vote lock, there are sooo many locations these days
+4x Empires Fall -- very, very strong when prey and maybe pred plays 8 cap plus, had surprisingly four preys who did not, glad I cut to four
+5x Kine Resources Contested
+1x Neonate Breach
+1x War of Ages -- good card, strong early, nice to have later
+
+Action Modifier (19)
+1x Blanket of Night -- great for the decisive strike, good with Monçada special
+2x Dominant Personality -- a good versatile mix of Shroud of Night and Seduction, flexibility is always nice, beware, Gratiano can only play it on inferior
+4x Magnetic Authority -- great card, imho better than Amici Noctis,can speed up influence, goes well with getting back pool via Info Highway, you don't need a referendum to pass with many votes, just pass = gain benefit
+6x Shadow Play -- political action and this means the magical 3 stealth to pass Second Tradition or two ORs
+4x Shroud of Absence -- for a probable third intercept or to go for a bleed without much danger
+1x Shroud of Night
+1x Unthinkable Humiliation -- good vs. Unmasking ally blockers
+
+-- My stealth package was fine in that meta, probably need more stealth in other metas
+
+Action Modifier/Reaction (1)
+1x Ominous Chorus -- good for a key referendum, did not need it
+
+Reaction (8)
+8x Deflection -- was a good number, not enough against a dedicated bleeder, then backoust ;)
+
+Combat (4)
+1x Oubliette
+3x Shadow Body -- rather not many, deck dies to dedicated rush, but then no combat ends help, right? Was good vs. Assault rifle Anarchs or is good vs. a Behemoth or War Ghoul

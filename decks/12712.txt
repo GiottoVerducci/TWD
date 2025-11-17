@@ -1,0 +1,70 @@
+Sem choro nem vela! - Liga Brasil - Teresina 3
+Teresina, Brazil
+October 19th 2025
+2R+F
+15 players
+Cláudio Torcato
+https://www.vekn.net/event-calendar/event/12712
+
+-- 0.5 vp in final (1st seed)
+
+Deck Name: Lobo de Terehell
+
+Crypt (12 cards, min=12, max=26, avg=4.83)
+------------------------------------------
+1x Ángel Guerrero         7  ANI DOM PRO      baron  Tzimisce:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Mickey Wheeler         5  ani cel for pro         Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Joaquín de Cádiz       3  for pro                 Gangrel:6
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+
+Library (88 cards)
+Master (22; 6 trifle)
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Ecoterrorists
+4x Effective Management
+1x Ennoia's Theater
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Information Highway
+2x Parthenon, The
+1x Powerbase: Montreal
+6x Villein
+
+Action (14)
+2x Rewilding
+12x Thing
+
+Political Action (4)
+2x Consanguineous Boon
+2x Revolutionary Council
+
+Action Modifier (12)
+1x Daring the Dawn
+4x Earth Control
+2x Monkey Wrench
+5x Propaganda of the Deed
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (18)
+7x Bait and Switch
+2x Deep Ecology
+7x Organized Resistance
+2x Poison Pill
+
+Combat (14)
+2x Claws of the Dead
+8x Earth Meld
+4x Form of Mist

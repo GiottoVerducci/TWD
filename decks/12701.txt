@@ -1,0 +1,62 @@
+Italian tour 2025 - Bologna
+Bologna, Italy
+November 29th 2025
+2R+F
+36 players
+Alessandro Donati
+https://www.vekn.net/event-calendar/event/12701
+
+Deck Name: Velvet Tongue
+Description: Always the same old story, but trying to do it as quickly as possible simplifying
+the list and using accelerators likes Grooming the Protégé and Mesu Bedshet.
+
+Crypt (12 cards, min=19, max=32, avg=6.42)
+------------------------------------------
+3x Nonu Dis            8  OBF PRE PRO for             Follower of Set:6
+1x Sergio Bueno        8  OBF PRE PRO aus pot  baron  Follower of Set:6
+1x Hesha Ruhadze       7  PRE PRO ani aus obf         Follower of Set:6
+1x Vivian VI           7  PRE PRO obf tha      baron  Follower of Set:6
+1x Crystal Lynn        6  OBF PRE PRO                 Follower of Set:6
+1x Elisha Tucker       6  PRE cel obf pro      baron  Follower of Set:6
+1x Aluc Romas de Leon  5  PRE aus obf pro             Follower of Set:6
+1x Doctor Morocco      5  PRO cel obf pre             Follower of Set:6
+1x Jenny Silver        5  PRE PRO obf                 Follower of Set:6
+1x Marcel              4  obf pre pro                 Follower of Set:6
+
+Library (72 cards)
+Master (20; 10 trifle)
+1x Bleeding the Vine
+4x Dabbler
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+5x Grooming the Protégé
+5x Villein
+1x Wider View
+
+Action (16)
+2x Mesu Bedshet
+14x Platinum Protocol, The
+
+Ally (1)
+1x Saatet-ta
+
+Action Modifier (18)
+2x Aire of Elation
+2x CrimethInc.
+2x Enchanting Gaze
+12x Revelation of the Serpent
+
+Action Modifier/Combat (4)
+4x Rapid Change
+
+Reaction (8)
+2x Delaying Tactics
+6x Party Out Of Bounds
+
+Combat (4)
+4x Form of Mist
+
+Event (1)
+1x Narrow Minds

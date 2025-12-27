@@ -1,0 +1,67 @@
+Confra do VTES CG 2025
+Campina Grande (PB), Brazil
+December 13th 2025
+2R+F
+10 players
+Rodrigo Boka
+https://www.vekn.net/event-calendar/event/12858
+
+-- 3vp in final
+
+Deck Name: bokaine
+
+Crypt (12 cards, min=21, max=39, avg=7.83)
+------------------------------------------
+3x François Villon     10  AUS CEL PRE ani obf pot  prince    Toreador:6
+2x Annabelle Triabell   9  AUS CEL PRE dom for      primogen  Toreador:6
+2x Catalina Vega        8  AUS CEL PRE for          prince    Toreador:6
+1x Gerald Windham       9  AUS DOM FOR THA                    Tremere:5
+1x Flávio Gonçalves     7  CEL PRE aus for          prince    Toreador:6
+1x Maila                6  AUS PRE cel              primogen  Toreador:6
+1x Mkhokheli            6  PRE aus cel for          prince    Toreador:6
+1x Mateo García         2  pre                                Toreador:6
+
+Library (89 cards)
+Master (27; 7 trifle)
+1x Art Museum
+1x Blood Doll
+1x Camarilla Conclave
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+2x Information Highway
+1x Parthenon, The
+2x Perfectionist
+1x Secure Haven
+6x Toreador Grand Ball
+6x Villein
+1x Wider View
+
+Political Action (18)
+2x Anarchist Uprising
+1x Ancient Influence
+1x Banishment
+5x Camarilla's Iron Fist
+2x Consanguineous Boon
+6x Kine Resources Contested
+1x Political Stranglehold
+
+Action Modifier (20)
+2x Awe
+4x Bewitching Oration
+2x Business Pressure
+1x Loup
+2x Perfect Paragon
+9x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Reaction (10)
+5x On the Qui Vive
+5x Telepathic Misdirection
+
+Combat (10)
+2x Charismatic Aura
+8x Majesty

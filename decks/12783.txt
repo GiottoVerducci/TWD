@@ -1,0 +1,88 @@
+Tommaso Sforza's Birthday
+Newark (OH), USA
+December 14th 2025
+2R+F
+16 players
+Alex Romano
+https://www.vekn.net/event-calendar/event/12783
+
+Deck Name: No Good
+Description: This is a deck in homage to "He has to run out sometime" by John Bell, as he terrorized me with it when I first came back to Vtes. Same idea but a bit heavier master mix and some updated cards that didn't exist when he was playing his version. The Faerie Wards tend to be much fewer than most people realize but they truly feel infinite when utilized with constant Ashur recursion. It's very weak to heavy vote meta and may need to be adjusted to deal with that more now that votes are coming back in vogue so heavily, but luckily I didn't see much vote at this tournament.
+
+The final was as follows
+
+Mariya(Kiasyd Toolbox)-->Karl(Black hand Path of Cathari)-->Myself(Faerie Ward)-->Brad(Barons with guns and celerity)-->Mark(Hecata zombie bleed)
+
+I went in as the 2 seed and chose to sit in front of Karl and behind Brad, both daunting positions to be in, but I needed to not have Mariya sit down behind me as I didn't think I could deal with the speed of her dec(we've had this deck interaction at another final). She chose to prey on Karl and had him pretty low on pool early in the game so between that and my ability to just faerie ward him at will I was able to operate without a predator while I built my board. I was lucky to get my copy Goblinism early and go get the Hearth of Nizchetus to churn my deck quickly. Unfortunately I hit no pool gain early and was forced to play close to the entire first hour with just one vampire(Marconius) which is rough but manageable since Karl only had two vampires all game.
+
+Mariya lunges and gets Karl down to 1 pool but isn't able to land the knockout blow. The next turn Karl and Mark make a deal to allow Mark to get Mariya and give Karl a few turns off from pressure to recuperate a bit. Karl does so and is able to stabilize a small amount but Mark's ever present minion swarm kept him from being able to do much else. I am able to finally get three vampires out thanks to some well timed Governs and the Great Symposium. I bounce a few of Karl's bleeds into Brad and use the Monastery of Shadows to force Brad to play organized resistance to be able to block them. As I'm setting up my oust of Brad I draw a banishment, Brad has 8 votes and I only have 2 so I know it can't pass but I still play it hoping Brad tries to block me as I have a handful of stealth. He does so and I'm able to get past him while avoiding combat entirely with a Stone Travel and somewhere like 4-5 stealth. Vote fails but this allows me to bounce Karl's next bleed into Brad and it lands at 1 stealth letting me know he is dry on intercept.
+
+I lunge and drop some big bleeds to get Brad. Mark and Karl take a few turns of conspiring to kill me before Mark decides it's time for him to get Karl. Early in the game Karl had payed a nightmares upon nightmares which made it so Mark was down to probably 10ish cards in his deck at this point. I am able to fire another set of Ashurs and get all of my bleed and stealth back into my deck and just continually lean into Mark until he is entirely out of cards and am able to get him.
+
+This deck normally relies on dropping Smiling Jack and just stopping everyone from getting rid of it with Faerie Wards, which is consistent but at this final I had to use all of the bleed that I added into the deck to make the ousts happen. A blast to play but a very tough balance to strike.
+
+
+Crypt (13 cards, min=28, max=36, avg=8.15)
+------------------------------------------
+5x Marconius          9  DOM MYT OBT pot      archbishop  Kiasyd:2
+3x Gratiano           8  DOM OBT obf pot      priscus     Lasombra:2
+2x Julia Prima        7  DOM OBT aus myt                  Kiasyd:2
+1x Quentin            9  AUS DOM FOR cel obt  bishop      Ventrue antitribu:2
+1x Bartholomew        8  AUS MYT NEC dom obt              Kiasyd:2
+1x Kassiym Malikhair  6  MYT OBT dom for                  Kiasyd:2
+
+Library (90 cards)
+Master (36; 7 trifle)
+9x Ashur Tablets
+1x Auspex
+2x Dreams of the Sphinx
+2x Fortitude
+1x Giant's Blood
+1x Great Symposium
+1x Hungry Coyote, The
+1x Metro Underground
+1x Monastery of Shadows
+1x Papillon
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Rack, The
+1x Ravager
+2x Smiling Jack, The Anarch
+3x Vessel
+2x Villein
+2x Wider View
+
+Action (10)
+3x Eternal Vigilance
+1x Goblinism
+4x Govern the Unaligned
+2x Under Siege
+
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (2)
+2x Banishment
+
+Action Modifier (13)
+1x Blanket of Night
+2x Bonding
+2x Foreshadowing Destruction
+2x Shadow Play
+3x Shroud of Absence
+3x Stone Travel
+
+Action Modifier/Reaction (1)
+1x Aura Absorption
+
+Reaction (25)
+4x Deflection
+2x Eluding the Arms of Morpheus
+11x Faerie Wards
+6x Obedience
+2x On the Qui Vive

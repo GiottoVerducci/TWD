@@ -1,0 +1,60 @@
+Vaulderie de Novembro
+Online
+November 13th 2025
+2R+F
+10 players
+Lu Semprebon
+https://www.vekn.net/event-calendar/event/12810
+
+Deck Name: Anarch Auspex
+
+Crypt (12 cards, min=4, max=29, avg=4.25)
+-----------------------------------------
+5x Anarch Convert          1  -none-           Caitiff:ANY
+2x Cornelius Ottavio       8  AUS OBF pre qui  Malkavian:2
+1x Adonai                  7  AUS VAL for      Salubri antitribu:2
+1x Ozmo                    6  AUS dom obf      Malkavian:1
+1x Quira, The Bitch Queen  6  AUS OBF obt tha  Malkavian antitribu:2
+1x Sheila Mezarin          6  AUS PRE cel for  Toreador antitribu:2
+1x Victoria                5  AUS cel obf      Malkavian:2
+
+Library (90 cards)
+Master (18; 7 trifle)
+1x Anarch Free Press, The
+1x Asylum Hunting Ground
+1x Club Illusion
+4x Hackerspace
+1x Poacher's Hunting Ground
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Vessel
+6x Villein
+
+Equipment (10)
+6x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Sniper Rifle
+1x Sport Bike
+
+Action Modifier (3)
+3x Monkey Wrench
+
+Reaction (37)
+4x Delaying Tactics
+5x Eagle's Sight
+2x Enhanced Senses
+10x Eyes of Argus
+3x My Enemy's Enemy
+3x On the Qui Vive
+1x Precognition
+2x Spirit's Touch
+7x Telepathic Misdirection
+
+Combat (22)
+4x Aura Reading
+7x Concealed Weapon
+3x Groundfighting
+4x Target Vitals
+4x Taste of Vitae

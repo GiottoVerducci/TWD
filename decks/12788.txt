@@ -1,0 +1,73 @@
+V5 EC Friday
+Aarhus, Denmark
+October 17th 2025
+3R+F
+26 players
+Jeroen van Oort
+https://www.vekn.net/event-calendar/event/12788
+
+Deck Name: the Power Structure
+Description: A build and vote deck.
+A meta respons to shroud of decay and bleed. I wanted to have a deck that is able to fail to defend against the onslaught of pool damage and live.
+
+Early game: transfer, govern, villein, almost never bleed.
+Midgame: adapt and cosolidate your votebase
+Lategame. Maybe bleed
+
+
+Crypt (12 cards, min=21, max=33, avg=7)
+---------------------------------------
+3x Yewon Ong                   8  DOM OBL POT for      prince    Lasombra:6
+2x Dafina Hanganu              8  DOM OBL POT for      prince    Lasombra:6
+2x María del Toro              7  DOM OBL POT          prince    Lasombra:6
+1x Gnaeus Aemilius Augustinus  9  DOM OBL POT PRO tha  prince    Lasombra:6
+1x Rinaldo Albizzi             7  DOM OBL POT pre      primogen  Lasombra:6
+1x Kamaluddin                  6  DOM OBL for pot      primogen  Lasombra:6
+1x Azucena                     5  DOM OBL pot                    Lasombra:6
+1x Araceli "Celia" Rivera      3  dom obl                        Lasombra:6
+
+Library (90 cards)
+Master (17; 6 trifle)
+1x Coven, The
+2x Dreams of the Sphinx
+1x Elder Library
+1x Elysian Fields
+1x Giant's Blood
+2x Information Highway
+1x Papillon
+3x Power Structure
+5x Villein
+
+Action (11)
+9x Govern the Unaligned
+2x Shroud of Decay
+
+Ally (2)
+2x Spectral Servitor
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Political Action (13)
+5x Camarilla's Iron Fist
+5x Kine Resources Contested
+1x Lasombra Justicar
+2x Parity Shift
+
+Action Modifier (27)
+5x Amici Noctis
+4x Shadow Cast
+6x Shadow Cloak
+6x Stygian Shroud
+6x Where the Veil Thins
+
+Action Modifier/Reaction (4)
+4x Ominous Chorus
+
+Reaction (9)
+7x Deflection
+1x On the Qui Vive
+1x Shadow Sentinel
+
+Combat (6)
+6x Pass Through Shadow

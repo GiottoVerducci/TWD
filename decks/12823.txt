@@ -1,0 +1,57 @@
+Pillars Fall CG
+Campina Grande (PB), Brazil
+November 23rd 2025
+2R+F
+13 players
+Joselmo Soares
+https://www.vekn.net/event-calendar/event/12823
+
+-- 4vp in final
+
+Deck Name: Filhos de Odin
+
+Crypt (12 cards, min=23, max=38, avg=7.58)
+------------------------------------------
+2x Tegyrius, Vizier                 10  AUS CEL FOR PRE THA  2 votes   Assamite:6
+2x Kasim Bayar                       9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Oluwafunmilayo                    8  AUS CEL OBF THA      prince    Assamite:6
+1x Algirdas, The Solar Prophet       7  ANI CEL THA pot      bishop    Banu Haqim:6
+1x Farah Sarroub                     7  CEL THA aus obf      prince    Assamite:6
+1x Kalyani, Agent of Doom            7  ANI CEL THA obf pot  bishop    Banu Haqim:6
+1x Khadija Al-Kindi                  6  CEL OBF THA          primogen  Assamite:6
+1x Hekla "Bonecrusher" Jónasdóttir   5  POT THA cel                    Banu Haqim:6
+1x Warmaksan                         5  THA cel obf          prince    Assamite:6
+
+Library (90 cards)
+Master (18; 10 trifle)
+3x Archon Investigation
+2x Blood Doll
+1x Fame
+2x Golconda: Inner Peace
+4x Priority Contract
+2x Vessel
+4x Villein
+
+Action (6)
+3x Ambush
+3x Hunter's Mark
+
+Equipment (2)
+2x .44 Magnum
+
+Action Modifier/Combat (5)
+5x Swallowed by the Night
+
+Reaction (10)
+10x Second Tradition: Domain
+
+Combat (49)
+5x Acrobatics
+5x Blur
+2x Drain Essence
+6x Flash
+11x Hunger of Marduk
+8x Pursuit
+5x Quickness
+3x Side Strike
+4x Sideslip

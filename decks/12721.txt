@@ -1,0 +1,73 @@
+Garou Rim: Dawn of Darkness
+Joensuu, Finland
+November 29th 2025
+2R+F
+13 players
+Pasi Karjalainen
+https://www.vekn.net/event-calendar/event/12721
+
+Deck Name: Death by a 1000 cuts II
+Authors: Peitsa Suominen & Pasi Karjalainen
+
+Crypt (12 cards, min=13, max=22, avg=4.42)
+------------------------------------------
+1x Crystal Lynn          6  OBF PRE PRO             Follower of Set:6
+1x Elisha Tucker         6  PRE cel obf pro  baron  Follower of Set:6
+1x Aluc Romas de Leon    5  PRE aus obf pro         Follower of Set:6
+1x Doctor Morocco        5  PRO cel obf pre         Follower of Set:6
+1x Jenny Silver          5  PRE PRO obf             Follower of Set:6
+1x Phaibun               5  OBF PRE ani             Ravnos:7
+1x Jean-François         4  ani obf pre             Ravnos:7
+1x Marcel                4  obf pre pro             Follower of Set:6
+1x Zafira                4  PRE obf                 Ravnos:7
+1x "Coach" Tyrone Soros  3  obf pre                 Follower of Set:6
+1x Milton Fox            3  pre pro                 Follower of Set:6
+1x Oleg Kaprizov         3  obf pre                 Ravnos:7
+
+Library (90 cards)
+Master (16; 6 trifle)
+1x Anarch Railroad
+2x Club Illusion
+1x Coven, The
+2x Effective Management
+1x Garibaldi-Meucci Museum
+1x Pentex(TM) Subversion
+1x Temple Hunting Ground
+3x Villein
+1x Vox Domini
+2x Wash
+1x Week of Nightmares
+
+Action (27)
+3x Entrancement
+3x Mind Numb
+21x Undue Influence
+
+Ally (1)
+1x Saatet-ta
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (35)
+1x Cloak the Gathering
+4x CrimethInc.
+1x Faceless Night
+1x Lost in Crowds
+14x Memory Rift
+6x Power of One
+7x Revelation of the Serpent
+1x Spying Mission
+
+Action Modifier/Combat (1)
+1x Swallowed by the Night
+
+Reaction (6)
+4x Party Out Of Bounds
+2x Visions of Zapathasura
+
+Combat (2)
+2x Earth Meld
+
+Event (1)
+1x Narrow Minds

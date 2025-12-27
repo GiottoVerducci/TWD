@@ -1,0 +1,59 @@
+Middle European Cup (2024)
+Vienna, Austria
+December 7th 2024
+3R+F
+28 players
+Goran Ivanovic
+https://www.vekn.net/event-calendar/event/11731
+
+-- 2GW7 + 1.5 in final
+
+Deck Name: BBB
+Crypt (12 cards, min=22, max=32, avg=6.83)
+------------------------------------------
+2x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+2x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Elen Kamjian        4  CEL POT                     Brujah:6
+
+Library (90 cards)
+Master (18; 7 trifle)
+1x Carfax Abbey
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Fame
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+2x New Carthage
+1x Papillon
+1x Powerbase: Los Angeles
+2x Vessel
+5x Villein
+
+Action (20)
+10x Illegalism
+10x Line Brawl
+
+Action Modifier (2)
+2x Monkey Wrench
+
+Reaction (8)
+6x Bait and Switch
+2x Organized Resistance
+
+Combat (41)
+2x Bollix
+2x Disarm
+5x Diversion
+8x Dust Up
+7x Immortal Grapple
+2x Pulled Fangs
+4x Pursuit
+5x Target Vitals
+6x Taste of Vitae
+
+Event (1)
+1x Scourge of the Enochians

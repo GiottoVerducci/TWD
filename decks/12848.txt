@@ -1,0 +1,68 @@
+Rebirth
+Castelnuovo di Garfagnana, Italy
+December 14th 2025
+2R+F
+15 players
+Andrea Casaccia
+https://www.vekn.net/event-calendar/event/12848
+
+Deck Name: Barons Toolbox
+Description: Deck feels solid. Build up a board first, block key actions where possible. Then either lunge if there's the occasion or grind the opponent down. Sometimes you draw too many of your conditioning and earth control early. I would like to try a Club Illusion as a backup plan when that happens, it could probably replace Pentex(TM) Subversion.
+
+Crypt (12 cards, min=18, max=31, avg=6.25)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Casey Snyder     6  PRO ani cel for  baron  Gangrel:6
+1x Kuyén            6  ANI PRO          baron  Gangrel:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x New Blood        2  san                     Blood Brother:ANY
+
+Library (86 cards)
+Master (16; 4 trifle)
+1x Anarch Railroad
+2x Carfax Abbey
+1x Direct Intervention
+2x Dreams of the Sphinx
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Papillon
+1x Pentex(TM) Subversion
+1x Powerbase: Los Angeles
+2x Villein
+2x Wider View
+
+Action (15)
+3x Deep Song
+12x Govern the Unaligned
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (2)
+2x Eat the Rich
+
+Action Modifier (8)
+4x Conditioning
+4x Earth Control
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (23)
+4x Bait and Switch
+4x Deep Ecology
+4x Deflection
+2x Delaying Tactics
+7x Organized Resistance
+2x Protection Racket
+
+Combat (17)
+2x Donnybrook
+8x Earth Meld
+7x Form of Mist
+
+Event (1)
+1x Uncoiling, The

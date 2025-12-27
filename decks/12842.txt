@@ -1,0 +1,68 @@
+Torneio dos Herdeiros
+Barra Mansa (RJ), Brazil
+December 23rd 2025
+3R+F
+13 players
+Yuri Prange
+https://www.vekn.net/event-calendar/event/12842
+
+-- 3vp in final
+
+Deck Name: Popó
+
+Crypt (13 cards, min=4, max=40, avg=5.77)
+-----------------------------------------
+4x Appolonius (ADV)                 10  CEL FOR POT PRE dom            Brujah:1
+1x Appolonius                       10  CEL PRE for pot      primogen  Brujah:1
+4x Anarch Convert                    1  -none-                         Caitiff:ANY
+2x Jimmy Dunn                        4  CEL POT for                    Pander:2
+1x Richter, The Templar of Du Mont   7  CEL POT for pre                Brujah antitribu:2
+1x Jack                              6  cel for pot san                Blood Brother:2
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Anarch Free Press, The
+1x Archon Investigation
+1x Carfax Abbey
+1x Depravity
+1x Dreams of the Sphinx
+1x Fame
+1x Flames of Insurrection
+1x Garibaldi-Meucci Museum
+1x Libertas
+1x Monster
+1x Powerbase: Los Angeles
+1x Tension in the Ranks
+5x Villein
+1x Wider View
+
+Action (15)
+2x Fleetness
+1x Heroic Might
+5x Legacy
+3x Line Brawl
+1x Open War
+3x Preternatural Strength
+
+Action Modifier (7)
+1x Enkil Cog
+4x Forced March
+2x Freak Drive
+
+Reaction (14)
+4x Bait and Switch
+2x Delaying Tactics
+2x On the Qui Vive
+4x Organized Resistance
+2x Protection Racket
+
+Combat (36)
+2x Bollix
+3x Disarm
+7x Diversion
+5x Dust Up
+8x Immortal Grapple
+2x Lam Into
+2x Pursuit
+2x Rolling with the Punches
+5x Taste of Vitae

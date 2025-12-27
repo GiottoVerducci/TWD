@@ -4,11 +4,12 @@ Thessaloniki, Greece
 Standard Constructed
 2R+F
 10 Players
-Kostas Grammadas (#8240013) won
+Kostas Grammadas
 www.vekn.net/event-calendar/event/12799
 
+-- 1GW3 + 3vp in final
+
 Deck Name: Giovannity Fair
-1GW 3VP preliminaries, GW 3VP in finals
 
 
 Crypt(12 cards, min=24, max=28, avg=6.50)

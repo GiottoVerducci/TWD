@@ -1,0 +1,81 @@
+2a Jornada Liga Levante Norte: Fetish Hunting Ground
+Benicàssim, Spain
+November 9th 2025
+3R+F
+32 players
+Jaddou Nasra
+https://www.vekn.net/event-calendar/event/12805
+
+-- 3GW10 + 2vp in final
+
+Deck Name: The museum is closed to visitors
+Description: Tzimisce anarch museum
+
+Crypt (12 cards, min=19, max=30, avg=6.08)
+------------------------------------------
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (90 cards)
+Master (19; 6 trifle)
+1x Anarch Railroad
+5x British Museum, London, The
+1x Carfax Abbey
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Papillon
+1x Pentex(TM) Subversion
+5x Villein
+1x Wider View
+
+Action (10)
+1x Chameleon
+1x Dominate Kine
+8x Govern the Unaligned
+
+Equipment (12)
+1x Blood Tears of Kephran
+2x Cooler
+1x Heart of Nizchetus
+6x Living Manse
+1x Palatial Estate
+1x Signet of King Saul, The
+
+Political Action (1)
+1x Revolutionary Council
+
+Action Modifier (7)
+2x Bonding
+2x Earth Control
+3x Foreshadowing Destruction
+
+Action Modifier/Combat (2)
+2x Obedient Flesh
+
+Action Modifier/Reaction (6)
+6x Form of the Bat
+
+Reaction (20)
+2x Bait and Switch
+2x Deep Ecology
+6x Deflection
+2x Delaying Tactics
+2x One With the Land
+4x Organized Resistance
+2x Redirection
+
+Combat (12)
+2x Donnybrook
+4x Earth Meld
+6x Form of Mist
+
+Event (1)
+1x NRA PAC

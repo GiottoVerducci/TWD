@@ -1,0 +1,57 @@
+GL/PT League - Versus Halloween
+Lisboa, Portugal
+November 1st 2025
+3R+F
+19 players
+Hugo Coelho
+https://www.vekn.net/event-calendar/event/12750
+
+-- 3GW11 + 4vp in final
+
+Deck Name: Tio Abel
+
+Crypt (12 cards, min=24, max=32, avg=7.25)
+------------------------------------------
+4x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+3x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Elen Kamjian        4  CEL POT                     Brujah:6
+
+Library (90 cards)
+Master (19; 4 trifle)
+2x Blood Doll
+1x Carver's Meat Packing and Storage
+3x Dreams of the Sphinx
+1x Fame
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Libertas
+2x New Carthage
+1x Powerbase: Los Angeles
+1x Rack, The
+4x Villein
+1x Warzone Hunting Ground
+
+Action (16)
+2x Heroic Might
+3x Illegalism
+10x Line Brawl
+1x Preternatural Strength
+
+Reaction (12)
+5x Bait and Switch
+7x Organized Resistance
+
+Combat (43)
+1x Blur
+4x Disarm
+8x Dust Up
+1x Fast Hands
+8x Immortal Grapple
+8x Pursuit
+2x Sideslip
+5x Taste of Vitae
+2x Thrown Sewer Lid
+4x Torn Signpost

@@ -1,0 +1,70 @@
+Danse Macabre III - First Danse
+Vidor (TX), USA
+December 5th 2025
+2R+F
+22 players
+Clint Jordan
+https://www.vekn.net/event-calendar/event/12479
+
+-- 2GW6 + 4vp in final
+
+Deck Name: Malkavian Brisket for Blood
+
+Crypt (12 cards, min=18, max=30, avg=6.17)
+------------------------------------------
+2x Gilbert Duane         7  AUS DOM OBF          baron     Malkavian:6
+2x Jason "Son" Newberry  7  AUS DOM OBF pre      primogen  Malkavian:6
+1x Abraham Mellon        8  AUS DOM OBF for tha            Malkavian:6
+1x Alexander Silverson   8  AUS DOM OBF pre      prince    Malkavian:6
+1x Andi Liu              6  DOM aus obf pre      prince    Malkavian:6
+1x Darius Shirazi        6  AUS DOM obf                    Malkavian:5
+1x Donny Kowalczyk       6  AUS cel dom obf      prince    Malkavian:6
+1x Colette               5  AUS OBF dom                    Malkavian:6
+1x Sully                 4  aus dom obf                    Malkavian:6
+1x Ashley                3  dom obf                        Malkavian:6
+
+Library (90 cards)
+Master (16; 8 trifle)
+1x Barrens, The
+2x Direct Intervention
+3x Dreams of the Sphinx
+2x Information Highway
+2x Life in the City
+3x Vessel
+2x Wash
+1x Wider View
+
+Action (16)
+1x Conceal
+1x Dominate Kine
+14x Govern the Unaligned
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (30)
+4x Bonding
+3x Cloak the Gathering
+4x Conditioning
+3x Elder Impersonation
+3x Faceless Night
+2x Foreshadowing Destruction
+5x Lost in Crowds
+3x Seduction
+3x Spying Mission
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Action Modifier/Reaction (3)
+3x Murmur of the False Will
+
+Reaction (16)
+5x Deflection
+2x Delaying Tactics
+2x Eyes of Argus
+5x On the Qui Vive
+2x Telepathic Misdirection
+
+Combat (4)
+4x No Trace

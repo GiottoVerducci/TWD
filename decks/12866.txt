@@ -1,0 +1,65 @@
+Falha Bestial
+São Paulo, Brazil
+December 21st 2025
+2R+F
+28 players
+Francisco Mantovanini Carvalho
+https://www.vekn.net/event-calendar/event/12866
+
+-- 2GW9 + 2vp in final
+
+-- Last week I played in Liga Fest with a Path of Power and Inner Voice and voting was a hassle. Everyone had titled vampires, no one was willing to negotiate. So for this tournment I decided to go with a deck that didn't rely in any table talk whatsoever.
+-- I cruised the first 2 rounds quite easily. Got 4 VP and 1 GW in the first table (with 4 players), then 5 VP and 1 GW in the next, puting me in first place drawed with my dear friend Roberto Mautone, who was playing a serious not meme deck like I was.
+-- Before the finals we rolled the dice to see who would be first seed and I lost. The final table was as follows: Me (2nd seed: Banu Haqim Law + Swallowed meme deck) > Roberto (1st seed: Mistress Fanchon and Orlando Oriundus vote) > Desso Alastor (4th seed: Ravnos V5 bleed) > Heitor (5th seed: Path of Death Hecata Deck) > DK (3rd seed: Banu Haqim princes)
+-- I started by bringing Alu and Adisa out turn 2. Roberto didn't hit any crypt acelerator so he was grinding to bring Mistress Fanchon. Desso bring out the 3 cap Ravnos turn 1 and started bleeding and puting blood in his uncontrolled vampires early on. Heitor brought out Alek and recuited Carlton and a Bone Shambler, while DK influenced Oluwafunmilayo and started mounting a setup with Heart of Nizchetus and Bowl of Convergenge via Magic of the smith next turn.
+-- My first turn acting with my vampires I decided to make them anarchs so I could use club illusion that Desso had played before. I had only stealth in hand and needed to fish for Haqim's law, also I didn't want to draw attention to me before I could actually present a threat. I kept influencing, 2 pool in Kalinda and 2 in wisefrog and waited.
+-- Desso went forward and bled Heitor heavily, DK was doing his setup. I had finally get to 3 vampires and my first Haqim Law, so I bled pascek for 2 three times, and three times he deflected / misdirected it to Desso. But I got the edge, untaped Kalinda and was able to do a Web of Knives so my turn wasn't completely wasted.
+-- Desso kept bleeding and ousted Heitor which made DK go to defense mode against him. With one Haqim Law my deck started cycling, so I was able to play my setup masters: in one turn I played Coven, Parthenon and another Haqim Law. With 5 vampires up I started bleeding Roberto for 3 with everyone, bringing him down to 3 pool. Desso put a Pentex on Oluwafunmilayo and kept bleeding, but DK was able to defend himself with a mix of second traditions with his other prince (Farrah I think), Villeins for 5 and one telepathic misdirection. Next turn DK put a priority contract on Kalinda, rushed her, but couldn't torporize her. So I used Khabar: Glory and ended up ousting Roberto and gaining 10 pool.
+-- At this time Desso was kinda hand locked and couldn't bleed DK reliably. DK rushed me again next turn and torporized Kalinda, but I had by this time like 5 Haqim's law, so I bled Desso heavily and got my next VP. Since I was second seed and DK was 3rd and we could only draw the table, he conceeded the tournment to me.
+
+Deck Name: Banu bleed
+
+Crypt (12 cards, min=11, max=24, avg=4.58)
+------------------------------------------
+4x Kalinda           6  CEL OBF tha      primogen  Assamite:6
+2x Wise Frog         5  OBF aus cel qui            Assamite:6
+2x Alu               2  obf                        Assamite:5
+1x Khadija Al-Kindi  6  CEL OBF THA      primogen  Assamite:6
+1x Arjun Shah        4  THA obf                    Assamite:6
+1x Greg Mazouni      4  cel obf tha                Assamite:6
+1x Adisa             3  cel obf                    Assamite:6
+
+Library (80 cards)
+Master (17; 4 trifle)
+1x Coven, The
+1x Dreams of the Sphinx
+8x Haqim's Law: Retribution
+1x Information Highway
+1x Khabar: Community, The
+1x Obfuscate
+1x Parthenon, The
+3x Villein
+
+Action (7)
+3x Embrace, The
+2x Khabar: Glory
+2x Web of Knives Recruit
+
+Action Modifier (14)
+2x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+4x Lost in Crowds
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (37)
+6x Resist Earth's Grasp
+31x Swallowed by the Night
+
+Combat (3)
+3x Wind Dance
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

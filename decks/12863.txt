@@ -12,13 +12,13 @@ Deck Name: Ouvindo a VOZ
 
 Crypt (12 cards, min=31, max=40, avg=8.92)
 ------------------------------------------
-4x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  cardinal    Ventrue:6
-3x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  archbishop  Brujah:6
-1x Dark Selina                    9  CEL POT PRE dom for  cardinal    Brujah antitribu:5
-1x Damian                         8  DOM OBL POT for pre  archbishop  Lasombra:6
-1x Rexton "Savage" Abernathy      8  DOM POT PRE cel      archbishop  Brujah:6
-1x Üresség                        8  CEL POT PRE dom for  archbishop  Brujah:6
-1x Khin Aye                       7  POT PRE dom for      priscus     Ventrue:6
+4x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+3x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  Power  archbishop  Brujah:6
+1x Dark Selina                    9  CEL POT PRE dom for         cardinal    Brujah antitribu:5
+1x Damian                         8  DOM OBL POT for pre  Power  archbishop  Lasombra:6
+1x Rexton "Savage" Abernathy      8  DOM POT PRE cel      Power  archbishop  Brujah:6
+1x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+1x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
 
 Library (90 cards)
 Master (16; 5 trifle)

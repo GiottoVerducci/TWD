@@ -12,15 +12,15 @@ Deck Name: Filhos de Odin
 
 Crypt (12 cards, min=23, max=38, avg=7.58)
 ------------------------------------------
-2x Tegyrius, Vizier                 10  AUS CEL FOR PRE THA  2 votes   Assamite:6
-2x Kasim Bayar                       9  CEL OBF THA aus pot  justicar  Assamite:6
-2x Oluwafunmilayo                    8  AUS CEL OBF THA      prince    Assamite:6
-1x Algirdas, The Solar Prophet       7  ANI CEL THA pot      bishop    Banu Haqim:6
-1x Farah Sarroub                     7  CEL THA aus obf      prince    Assamite:6
-1x Kalyani, Agent of Doom            7  ANI CEL THA obf pot  bishop    Banu Haqim:6
-1x Khadija Al-Kindi                  6  CEL OBF THA          primogen  Assamite:6
-1x Hekla "Bonecrusher" Jónasdóttir   5  POT THA cel                    Banu Haqim:6
-1x Warmaksan                         5  THA cel obf          prince    Assamite:6
+2x Tegyrius, Vizier                 10  AUS CEL FOR PRE THA         2 votes   Assamite:6
+2x Kasim Bayar                       9  CEL OBF THA aus pot         justicar  Assamite:6
+2x Oluwafunmilayo                    8  AUS CEL OBF THA             prince    Assamite:6
+1x Algirdas, The Solar Prophet       7  ANI CEL THA pot      Caine  bishop    Banu Haqim:6
+1x Farah Sarroub                     7  CEL THA aus obf             prince    Assamite:6
+1x Kalyani, Agent of Doom            7  ANI CEL THA obf pot  Caine  bishop    Banu Haqim:6
+1x Khadija Al-Kindi                  6  CEL OBF THA                 primogen  Assamite:6
+1x Hekla "Bonecrusher" Jónasdóttir   5  POT THA cel          Caine            Banu Haqim:6
+1x Warmaksan                         5  THA cel obf                 prince    Assamite:6
 
 Library (90 cards)
 Master (18; 10 trifle)

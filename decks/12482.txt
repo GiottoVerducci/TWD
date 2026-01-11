@@ -20,11 +20,11 @@ Darby Keeney: V5 Toreador Vote – 1VP
 
 Crypt (12 cards, min=30, max=38, avg=8.33)
 ------------------------------------------
-3x Rexton "Savage" Abernathy      8  DOM POT PRE cel      archbishop  Brujah:6
-3x Üresség                        8  CEL POT PRE dom for  archbishop  Brujah:6
-2x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  cardinal    Ventrue:6
-2x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  archbishop  Brujah:6
-2x Khin Aye                       7  POT PRE dom for      priscus     Ventrue:6
+3x Rexton "Savage" Abernathy      8  DOM POT PRE cel      Power  archbishop  Brujah:6
+3x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+2x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+2x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  Power  archbishop  Brujah:6
+2x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
 
 Library (90 cards)
 Master (24; 6 trifle)

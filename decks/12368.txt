@@ -13,13 +13,13 @@ Author: Dominik
 
 Crypt (12 cards, min=12, max=25, avg=4.75)
 ------------------------------------------
-3x Aitana, The Unholy  6  AUS OBL for tha      Hecata:6
-3x Alek König          3  OBL                  Hecata:6
-2x Gebeyehu Abdu       5  AUS OBL for          Hecata:6
-1x Tommaso Sforza      7  AUS OBL THA dom for  Hecata:6
-1x Monica Giovanni     6  AUS FOR OBL          Hecata:6
-1x Hiromitsu Asano     4  aus for obl          Hecata:6
-1x Nadezhda            3  aus obl              Hecata:6
+3x Aitana, The Unholy  6  AUS OBL for tha      Death  Hecata:6
+3x Alek König          3  OBL                         Hecata:6
+2x Gebeyehu Abdu       5  AUS OBL for                 Hecata:6
+1x Tommaso Sforza      7  AUS OBL THA dom for         Hecata:6
+1x Monica Giovanni     6  AUS FOR OBL                 Hecata:6
+1x Hiromitsu Asano     4  aus for obl                 Hecata:6
+1x Nadezhda            3  aus obl              Death  Hecata:6
 
 Library (81 cards)
 Master (29; 1 trifle)

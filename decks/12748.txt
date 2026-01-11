@@ -12,12 +12,12 @@ Deck Name: La sal de la tierra
 
 Crypt (12 cards, min=21, max=40, avg=7.92)
 ------------------------------------------
-4x Aelswith, The Irresistible   9  AUS DOM FOR OBF pot      cardinal  Malkavian:6
-2x Elimelech the Twice-Damned  11  AUS DEM DOM FOR OBF pro            Ventrue antitribu:5
-2x Abraham Mellon               8  AUS DOM OBF for tha                Malkavian:6
-2x Fotini Katsikaris            7  AUS DOM OBF for pot                Malkavian:6
-1x Coco Thorn                   4  dom for obf                        Malkavian:6
-1x Ashley                       3  dom obf                            Malkavian:6
+4x Aelswith, The Irresistible   9  AUS DOM FOR OBF pot      Cathari  cardinal  Malkavian:6
+2x Elimelech the Twice-Damned  11  AUS DEM DOM FOR OBF pro                     Ventrue antitribu:5
+2x Abraham Mellon               8  AUS DOM OBF for tha                         Malkavian:6
+2x Fotini Katsikaris            7  AUS DOM OBF for pot      Cathari            Malkavian:6
+1x Coco Thorn                   4  dom for obf              Cathari            Malkavian:6
+1x Ashley                       3  dom obf                                     Malkavian:6
 
 Library (89 cards)
 Master (15; 1 trifle)

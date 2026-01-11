@@ -2,22 +2,18 @@ Liga GL/PT - Braga 25/26
 DrawStep, Braga, Portugal
 September 13th 2025
 2R+F
+21 players
 Sérgio Louçã Martins
 https://www.vekn.net/event-calendar/event/12601
 
 -- 1GW3 + 1,5vp in final (4th seed)
 -- https://archon.vekn.net/tournament/22f4ef73-7836-4b42-a70f-51032dcfa7ae/display.html
-
 Deck Name: Big hands, small world
 Description:
 Finals seating AUS DOM toolbox > Hecata dredge > If Bram played !Toreador > Capuchin toolbox > Weenie DOM (1st seed).
-
 No choice in seating and no Capuchin in starting uncontrolled, together with no bounce for 25 cards, no Villein for 34 made this a very stressful final. Fortunately the Hecata player was particularly competent and soft with their bleeds, the !Toreador player blocked more than bounced, choosing to deal with the allies, and the weenie DOM was not allowed to grow without too much of a tax, too fast, thanks to Neighbor John and Valois Sang intercept tax.
-
 AUS DOM player gets ousted slightly after I get Strohmman via Malgorzata actions, and can finally take actions without being immediately bled to smithereens. Hecata eventually smashes most zombies into the Magnum and Sniper Rifle tax from the !Toreador, find themselves having a sudden change in predator bleed pressure and uses Behemoths to rush backwards.
-
 Between bounce and a couple of DOM bleeds, I manage to reduce my prey to 2 pool, bounce to leave my grand prey at 1 with My Enemy's Enemy and attempt to bleed for two VPs, or force the back rush. Fail, Hecata survives, I bounce a Palla Grande bleed for the win with 10 seconds on the clock.
-
 This deck is an evolution of a previous list, discussed between myself and Bram Van Stappen.
 
 Crypt (12 cards, min=36, max=44, avg=9.75)

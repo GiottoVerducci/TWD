@@ -1,0 +1,64 @@
+Italian NC 2023
+Bologna, Emilia-Romagna, Italy
+April 30th 2023
+3R+F
+48 players
+Andrea Paderni
+https://www.vekn.net/event-calendar/event/10681
+
+-- 2GW10 + 4vp in final
+
+Deck Name: New deck
+Description: Bleed
+
+Crypt (12 cards, min=22, max=28, avg=6.25)
+------------------------------------------
+3x Nathaniel Bordruff  7  DOM OBF POT ani            Nosferatu:6
+2x Cedrick Calhoun     7  ANI DOM OBF pot            Nosferatu:6
+2x Larissa Moreira     6  ANI OBF pot      primogen  Nosferatu:6
+1x Dowager, The        6  ANI OBF aus pot  primogen  Nosferatu:6
+1x Jacques Rouge       6  OBF ani pot pre  baron     Nosferatu:6
+1x Lenny Burkhead      6  ANI obf pot pre  primogen  Nosferatu:6
+1x Horace Radcliffe    5  ANI POT obf                Nosferatu:6
+1x Ruxandra            5  OBF ani aus                Nosferatu:5
+
+Library (90 cards)
+Master (18; 9 trifle)
+2x Dominate
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Labyrinth, The
+6x Villein
+3x Warsaw Station
+2x Wash
+1x Wider View
+
+Action (25)
+6x Deep Song
+1x Far Mastery
+14x Govern the Unaligned
+4x Tier of Souls
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (23)
+3x Cloak the Gathering
+7x Conditioning
+3x Elder Impersonation
+4x Faceless Night
+4x Lost in Crowds
+2x Spying Mission
+
+Action Modifier/Combat (4)
+2x Hide the Mind
+2x Swallowed by the Night
+
+Reaction (10)
+6x Deflection
+2x Delaying Tactics
+2x Guard Dogs
+
+Combat (9)
+5x Aid from Bats
+4x Carrion Crows

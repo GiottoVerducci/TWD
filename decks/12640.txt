@@ -1,0 +1,65 @@
+Second Tradition: Domain
+Online
+September 21st 2025
+2R+F
+20 players
+Jorge "São Jorge" Garcia
+https://www.vekn.net/event-calendar/event/12640
+
+-- 1GW3 + 4vp in final
+
+Deck Name: Board of Shadows
+
+Crypt (12 cards, min=18, max=32, avg=6.42)
+------------------------------------------
+4x Yewon Ong               8  DOM OBL POT for  prince    Lasombra:6
+2x María del Toro          7  DOM OBL POT      prince    Lasombra:6
+1x Rinaldo Albizzi         7  DOM OBL POT pre  primogen  Lasombra:6
+1x Aintzane Arriaga        6  DOM OBL POT                Lasombra:6
+1x Kamaluddin              6  DOM OBL for pot  primogen  Lasombra:6
+1x Azucena                 5  DOM OBL pot                Lasombra:6
+1x Braden White            4  dom obl pot                Lasombra:6
+1x Araceli "Celia" Rivera  3  dom obl                    Lasombra:6
+
+Library (90 cards)
+Master (13; 4 trifle)
+1x Archon Investigation
+1x Creepshow Casino
+1x Elysian Fields
+2x Information Highway
+1x Political Hunting Ground
+2x Power Structure
+1x Sudden Reversal
+4x Villein
+
+Action (7)
+6x Govern the Unaligned
+1x Judgment: Camarilla Segregation
+
+Equipment (1)
+1x Zaire River Ferry
+
+Political Action (15)
+2x Ancilla Empowerment
+4x Camarilla's Iron Fist
+5x Kine Resources Contested
+2x Lasombra Justicar
+2x Parity Shift
+
+Action Modifier (26)
+6x Amici Noctis
+4x Freak Drive
+4x Shadow Cast
+4x Shadow Cloak
+4x Stygian Shroud
+4x Where the Veil Thins
+
+Action Modifier/Reaction (6)
+6x Ominous Chorus
+
+Reaction (14)
+10x Deflection
+4x Second Tradition: Domain
+
+Combat (8)
+8x Pass Through Shadow

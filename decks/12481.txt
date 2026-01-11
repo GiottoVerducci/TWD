@@ -1,0 +1,79 @@
+Gulf Coast Roast II: Vidor (Grand Prix Event)
+Vidor (TX), USA
+December 6th 2025
+3R+F
+22 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/12481
+
+-- 1GW4 + 4vp in final
+
+Deck name:  Defy the Edict of Worms Revision 4.1
+
+Probably my best assembled deck but it's losing value as political decks regain popularity and vampire capacities rise. On the plus side, Club Illusion is less dangerous to drop and I'm more likely to actually control Carfax Abbey and Anarch Railroad
+
+The deck is still really fun to play and should improve with at least one NB vampire screaming to be included. Ironically, I was stuck with no-Baron C-team vampires in prelim games 2 and 3; inferior Protean is far less helpful, but I still managed a GW with a chump-only decrypt.
+
+The library keeps self-bloating to above 82 cards. This iteration runs Form of the Cobra, which is shockingly good in discouraging block attempts and mitigates Aggressive Corpse rushes. Could probably lose one Form of Mist with these in place (or maybe 2 FotC, 4 FoM?). I pulled the EU-meta Blood Trade but didn't get the Uncoiling back in. It really needs to be in here with Hecata at seemingly every table.
+
+Crypt (12 cards, min=20, max=31, avg=6.42)
+------------------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Neserian         6  ANI DOM cel pro         Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+
+Library (85 cards)
+Master (20; 4 trifle)
+1x Anarch Railroad
+5x British Museum, London, The -- linchpin
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Powerbase: Savannah
+3x Villein
+1x Wider View
+
+Action (13)
+2x Dominate Kine
+11x Govern the Unaligned
+
+Equipment (13)
+1x Blood Tears of Kephran
+2x Cooler
+2x Heart of Nizchetus
+6x Living Manse
+1x Palatial Estate
+1x Signet of King Saul, The
+
+Action Modifier (4)
+4x Earth Control
+
+Action Modifier/Combat (7)
+3x Form of the Cobra
+3x Obedient Flesh
+1x Rapid Change
+
+Action Modifier/Reaction (6)
+3x Form of the Bat
+3x Murmur of the False Will
+
+Reaction (14)
+2x Deep Ecology
+7x Deflection
+2x One With the Land
+3x Organized Resistance
+
+Combat (7)
+2x Earth Meld
+5x Form of Mist
+
+Event (1)
+1x NRA PAC

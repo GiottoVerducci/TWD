@@ -1,0 +1,77 @@
+Cariocão de VtES 2025!
+Rio de Janeiro (RJ), Brazil
+December 28th 2025
+2R+F
+26 players
+Gabriel Mattos
+https://www.vekn.net/event-calendar/event/12867
+
+-- 1GW4.5 + 1.5vp in final
+
+Final Table: Gangrel V5 Toolbox > Malkshat > Tzim Living Manse > !Ventrue Blackhorse > Toreador Grand Ball
+
+Deck Name: Gangrel Anarch Toolbox
+
+Crypt (12 cards, min=16, max=25, avg=5.42)
+------------------------------------------
+2x André the Manipulator  6  FOR PRO                 Gangrel:5
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+
+Library (90 cards)
+Master (21; 5 trifle)
+1x Anarch Free Press, The
+1x Anarch Revolt
+1x Backways
+1x Club Illusion
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Ecoterrorists
+4x Effective Management
+1x Garibaldi-Meucci Museum
+1x Information Highway
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+3x Vessel
+2x Villein
+
+Action (21)
+1x Army of Rats
+2x Constant Revolution
+4x Deep Song
+1x Fee Stake: Perth
+1x Rewilding
+12x Thing
+
+Ally (1)
+1x Double Deuce
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (1)
+1x Mr. Winthrop
+
+Action Modifier (5)
+3x Earth Control
+2x Monkey Wrench
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (22)
+6x Bait and Switch
+4x Deep Ecology
+2x Delaying Tactics
+10x Organized Resistance
+
+Combat (15)
+2x Claws of the Dead
+10x Earth Meld
+3x Form of Mist

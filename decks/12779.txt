@@ -1,0 +1,71 @@
+Croatian Abuse of Power 2026
+Osijek, Croatia
+January 24th 2026
+3R+F
+40 players
+Nikica Novaković
+https://www.vekn.net/event-calendar/event/12779
+
+-- 2GW8 + 3vp in final
+
+Deck Name: Purple haze
+Description: "It is a pity, that most of the pieces had to be swept from the board."
+- Ambrosio Luis Monçada
+
+Expect to have 3 vampires to work with. Depending on the draw, getting 9 cap and having 2 vamps to Govern down on Gratiano might be the way to go.
+
+Path of Power gives me a better Seduction in Dominant Personality and a better Tenebrous Form in Unthinkable Humiliation
+
+All 3 of the post-vote cards can be played at the same time, so there is a much lower chance of getting clogged than with the Voter Cap alone.
+If you play all three on the single action, you get style points (and 6 pool)!
+Unholy Sacrament is much easier to cycle than Zillah's.
+Cold war is good, even for "just" 3 dmg, since there is no haggling over where the remaining one goes, unlike with KRC.
+Obedience gives you confidence that your one unlocked vampire will not be locked when blocking.
+
+Crypt (12 cards, min=33, max=40, avg=9.08)
+------------------------------------------
+4x Ambrosio Luis Monçada, Plenipotentiary  10  DOM OBT POT PRE aus for  cardinal    Lasombra:2
+3x Gratiano                                 8  DOM OBT obf pot          priscus     Lasombra:2
+2x Antonio Delgado                          9  DOM OBT POT tha          archbishop  Lasombra:2
+2x Francisco Domingo de Polonia             9  DOM OBT POT PRE pro      archbishop  Lasombra:2
+1x Alvaro, The Scion of Angelica            9  OBT POT dom pre          archbishop  Lasombra:2
+
+Library (73 cards)
+Master (17; 5 trifle)
+1x Dreams of the Sphinx
+1x Elysian Fields
+1x Information Highway
+1x Monastery of Shadows
+1x Power Structure
+1x Privileged Position
+1x Regent
+5x Unholy Sacrament
+5x Villein
+
+Action (6)
+6x Govern the Unaligned
+
+Political Action (15)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+5x Cold War
+4x Kine Resources Contested
+
+Action Modifier (23)
+2x Amici Noctis
+4x Dominant Personality
+2x Freak Drive
+2x Magnetic Authority
+2x Private Audience
+5x Shadow Play
+4x Unthinkable Humiliation
+2x Voter Captivation
+
+Action Modifier/Reaction (1)
+1x Ominous Chorus
+
+Reaction (11)
+6x Deflection
+5x Obedience

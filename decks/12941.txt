@@ -1,0 +1,60 @@
+Heart of the City II
+Vidor (TX), USA
+February 7th 2026
+3R+F
+12 players
+Tom Nichols
+https://www.vekn.net/event-calendar/event/12941
+
+-- 1GW5 + 2vp in final
+
+Deck Name: Brujah Beatdown
+Author: Chuck F
+Description: 1st Tournament Win
+
+Crypt (12 cards, min=23, max=32, avg=6.92)
+------------------------------------------
+4x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+2x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+2x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Adelino Da Silva    5  cel pot pre tha             Brujah:6
+
+Library (90 cards)
+Master (15; 7 trifle)
+1x Anarch Free Press, The
+1x Carfax Abbey
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x New Carthage
+1x Powerbase: Los Angeles
+1x Tension in the Ranks
+5x Villein
+1x Warzone Hunting Ground
+1x Wash
+1x Wider View
+
+Action (15)
+2x Heroic Might
+6x Illegalism
+4x Line Brawl
+2x Make the Misere
+1x Open War
+
+Action Modifier (2)
+2x CrimethInc.
+
+Reaction (15)
+3x Bait and Switch
+12x Organized Resistance
+
+Combat (43)
+5x Bollix
+4x Disarm
+4x Diversion
+2x Donnybrook
+8x Dust Up
+5x Immortal Grapple
+5x Taste of Vitae
+10x Torn Signpost

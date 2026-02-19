@@ -1,0 +1,78 @@
+FOOD & VTES III
+Curitiba (PR), Brazil
+January 31st 2026
+3R+F
+29 players
+Eduardo Lemos
+https://www.vekn.net/event-calendar/event/12882
+
+-- 1GW5.5 + 2.5vp in final
+
+Deck Name: Vou votar no seu turno
+
+Crypt (12 cards, min=29, max=40, avg=8.83)
+------------------------------------------
+5x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+1x Dark Selina                    9  CEL POT PRE dom for         cardinal    Brujah antitribu:5
+1x De Sade                        9  AUS DOM FOR PRE             archbishop  Ventrue antitribu:5
+1x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  Power  archbishop  Brujah:6
+1x Damian                         8  DOM OBL POT for pre  Power  archbishop  Lasombra:6
+1x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+1x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
+1x Concordia                      6  DOM PRE for pot      Power  bishop      Ventrue:6
+
+Library (90 cards)
+Master (24; 7 trifle)
+1x Black Forest Base
+1x Creepshow Casino
+1x Dreams of the Sphinx
+1x Information Highway
+1x Monastery of Shadows
+1x Privileged Position
+1x Purchase Pact
+1x Secure Haven
+8x Unholy Sacrament
+1x Ventrue Headquarters
+6x Villein
+1x Wider View
+
+Action (3)
+3x Govern the Unaligned
+
+Ally (1)
+1x Mylan Horseed
+
+Equipment (1)
+1x Sargon Fragment, The
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+2x Banishment
+5x Cold War
+2x Empires Fall
+3x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+1x War of Ages
+
+Action Modifier (27)
+1x Approximation of Loyalty
+3x Dominant Personality
+3x Enkil Cog
+3x Magnetic Authority
+3x Perfect Paragon
+2x Private Audience
+3x Relentlessness
+4x Unthinkable Humiliation
+5x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Absolute Tyranny
+
+Reaction (9)
+5x Deflection
+4x Obedience
+
+Combat (5)
+5x Majesty

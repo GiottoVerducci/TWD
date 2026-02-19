@@ -1,0 +1,66 @@
+2025 Iberain GP
+Lisboa, Portugal
+November 29th 2025
+3R+F
+41 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/12730
+
+-- 2GW11.5 + 4vp in final
+
+Deck Name: Cold War
+
+Crypt (12 cards, min=32, max=40, avg=9.08)
+------------------------------------------
+5x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+2x Dark Selina                    9  CEL POT PRE dom for         cardinal    Brujah antitribu:5
+2x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  Power  archbishop  Brujah:6
+1x Rexton "Savage" Abernathy      8  DOM POT PRE cel      Power  archbishop  Brujah:6
+1x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+1x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
+
+Library (90 cards)
+Master (22; 6 trifle)
+1x Creepshow Casino
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+1x Gurchon Hall
+1x Information Highway
+2x Monastery of Shadows
+1x Papillon
+1x Privileged Position
+1x Secure Haven
+2x Ventrue Headquarters
+6x Villein
+
+Action (10)
+2x Eternal Vigilance
+8x Govern the Unaligned
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+4x Banishment
+8x Cold War
+1x Political Stranglehold
+
+Action Modifier (28)
+4x Dominant Personality
+2x Enkil Cog
+4x Iron Glare
+4x Perfect Paragon
+4x Relentlessness
+6x Unthinkable Humiliation
+4x Voter Captivation
+
+Reaction (6)
+6x Deflection
+
+Combat (6)
+6x Majesty

@@ -1,0 +1,75 @@
+Camarilla Conclave
+Fortaleza (CE), Brazil
+January 25th 2026
+2R+F
+18 players
+Valdemir Santos
+https://www.vekn.net/event-calendar/event/12887
+
+-- 1GW3 + 4vp in final
+
+Deck Name: Dr. Stein
+
+Crypt (12 cards, min=14, max=35, avg=6.25)
+------------------------------------------
+1x Ashur-uballit, Son of the Abyss  10  AUS DOM FOR OBL THA  Death  cardinal  Hecata:6
+1x Abderrahim, Death's Hand          9  AUS DOM OBL POT tha  Death            Lasombra:6
+1x Eulogio Sánchez de los Reyes      8  AUS DOM OBL THA      Death            Tremere:6
+1x Huldu, The Desecrator             8  AUS FOR OBL obf tha  Death            Hecata:6
+1x Frau Schädel                      7  OBL THA aus dom for  Death            Tremere:6
+1x Sakura, The Merciless             7  DOM OBL THA aus pot  Death            Lasombra:6
+1x Aitana, The Unholy                6  AUS OBL for tha      Death            Hecata:6
+1x Anxo Vilela                       6  AUS THA dom obl      Death            Tremere:6
+1x Zbigniew, Hunter of Mekhet        5  OBL aus dom tha      Death            Lasombra:6
+1x El Monseñor                       4  OBL dom              Death            Lasombra:6
+1x Nadezhda                          3  aus obl              Death            Hecata:6
+1x Yurena, The Boor                  2  tha                  Death            Tremere:6
+
+Library (86 cards)
+Master (12)
+3x Blood Doll
+1x Burial Site Hunting Ground
+1x Charisma
+1x Cursed Abattoir
+1x Direct Intervention
+1x Giant's Blood
+1x KRCG News Radio
+1x Line, The
+2x Perfectionist
+
+Action (10)
+2x Dance of the Dead
+2x Graverobbing
+2x Putrescent Sustenance
+4x Shroud of Decay
+
+Ally (15)
+1x Aggressive Corpse
+1x Fiorella, Empty One
+3x Freakish Conglomeration
+8x Gravebound Drone
+1x Heartrender
+1x Rotting Behemoth
+
+Action Modifier (24)
+5x Gifts From Hereafter
+4x Paths in Two Worlds
+3x Shadow Cast
+4x Shadow Cloak
+4x Stygian Shroud
+4x Where the Veil Thins
+
+Reaction (13)
+3x Deflection
+1x My Enemy's Enemy
+2x Redirection
+6x Shadow Sentinel
+1x Telepathic Misdirection
+
+Combat (10)
+7x Pass Through Shadow
+3x Target Vitals
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

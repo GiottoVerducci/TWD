@@ -1,0 +1,75 @@
+O Segredo de Roger That
+São paulo, Brazil
+February 1st 2026
+2R+F
+25 players
+Roberto Mautone Junior
+https://www.vekn.net/event-calendar/event/13008
+
+-- 1GW5.5 + 3vp in final
+
+Deck Name: Path of Amizade
+Description: A deck to celebrate friendship and love!
+
+Crypt (12 cards, min=32, max=40, avg=9)
+---------------------------------------
+4x Bruce de Guy           10  AUS DOM FOR OBT      cardinal    Ventrue antitribu:4
+2x Antón de Concepción     9  ANI DOM OBT POT aus  archbishop  Lasombra:4
+2x Carolina Vález          9  DOM OBT POT PRE aus  archbishop  Lasombra:5
+2x Percival                8  FOR OBT POT aus dom  archbishop  Lasombra:5
+1x Charles Delmare         8  DOM OBT POT cel      cardinal    Lasombra:5
+1x Lord Leopold Valdemar   8  OBT POT cel dom obf  priscus     Lasombra:5
+
+Library (90 cards)
+Master (24; 6 trifle)
+1x Black Forest Base
+1x Creepshow Casino
+1x Demonstration
+2x Dreams of the Sphinx
+1x Festivo dello Estinto
+1x Giant's Blood
+1x Gurchon Hall
+1x Jake Washington
+1x Monastery of Shadows
+1x Privileged Position
+1x Secure Haven
+6x Unholy Sacrament
+5x Villein
+1x Wider View
+
+Action (12)
+9x Govern the Unaligned
+3x Under Siege
+
+Equipment (1)
+1x Bowl of Convergence
+
+Political Action (12)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+2x Banishment
+4x Cold War
+1x Political Stranglehold
+1x Reins of Power
+1x War of Ages
+
+Action Modifier (23)
+2x Conditioning
+1x Enkil Cog
+6x Freak Drive
+2x Magnetic Authority
+2x Relentlessness
+4x Shadow Play
+4x Shroud of Absence
+2x Shroud of Night
+
+Reaction (15)
+9x Deflection
+6x Obedience
+
+Combat (2)
+2x Shadow Body
+
+Event (1)
+1x Scourge of the Enochians

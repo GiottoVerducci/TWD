@@ -1,0 +1,61 @@
+Quinta Tradição: a Hospitalidade
+Visconde do Rio Branco, Brazil
+January 24th 2026
+2R+F
+Kleber Bertazzo
+https://www.vekn.net/event-calendar/event/12746
+
+-- 0GW3 + 4vp in final
+
+Deck Name: Conglomerado Softfoot
+
+Crypt (12 cards, min=21, max=32, avg=6.75)
+------------------------------------------
+4x Huldu, The Desecrator       8  AUS FOR OBL obf tha  Death  Hecata:6
+3x Frau Schädel                7  OBL THA aus dom for  Death  Tremere:6
+2x Aitana, The Unholy          6  AUS OBL for tha      Death  Hecata:6
+1x Sakura, The Merciless       7  DOM OBL THA aus pot  Death  Lasombra:6
+1x Zbigniew, Hunter of Mekhet  5  OBL aus dom tha      Death  Lasombra:6
+1x El Monseñor                 4  OBL dom              Death  Lasombra:6
+
+Library (90 cards)
+Master (16; 3 trifle)
+1x Biotech Company Hunting Ground
+1x Burial Site Hunting Ground
+3x Charisma
+2x Direct Intervention
+2x Dreams of the Sphinx
+3x Perfectionist
+1x Rack, The
+3x Vessel
+
+Action (8)
+5x Putrescent Sustenance
+3x Shroud of Decay
+
+Ally (13)
+1x Fiorella, Empty One
+10x Freakish Conglomeration
+2x Vagabond Mystic
+
+Equipment (2)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+
+Action Modifier (21)
+10x Gifts From Hereafter
+7x Paths in Two Worlds
+4x Where the Veil Thins
+
+Reaction (19)
+2x Eyes of Argus
+4x My Enemy's Enemy
+6x Shadow Sentinel
+7x Telepathic Misdirection
+
+Combat (8)
+8x Pass Through Shadow
+
+Event (3)
+1x Dragonbound
+2x Unmasking, The

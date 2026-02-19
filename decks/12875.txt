@@ -1,0 +1,70 @@
+6th Elder Library
+Vantaa, Finland
+January 24th 2026
+3R+F
+15 players
+Tommi Hakomaa
+https://www.vekn.net/event-calendar/event/12875
+
+-- 2GW8.5 + 4vp in final
+
+Deck Name: Juliet's Dream
+Author: Otso Saariluoma
+Description: Shout-out to Otso who is mastermind behind this deck. Honorable mention also goes to Ivan Marin-Rivas, who originally gave Otso the idea for the deck based on the collaboration between Juliett Parr and Modius.
+
+Crypt (12 cards, min=25, max=36, avg=7.75)
+------------------------------------------
+3x Juliet Parr          9  AUS DOM OBF cel pot  justicar  Malkavian:7
+3x Modius               8  AUS CEL PRE obf      prince    Toreador:7
+1x Kasim Bayar          9  CEL OBF THA aus pot  justicar  Assamite:6
+1x Alexander Silverson  8  AUS DOM OBF pre      prince    Malkavian:6
+1x Oluwafunmilayo       8  AUS CEL OBF THA      prince    Assamite:6
+1x Belinde              6  OBF ani aus pot      prince    Nosferatu:6
+1x Donny Kowalczyk      6  AUS cel dom obf      prince    Malkavian:6
+1x Warmaksan            5  THA cel obf          prince    Assamite:6
+
+Library (90 cards)
+Master (48; 10 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Bleeding the Vine
+2x Camarilla Conclave
+1x Coven, The
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+3x Information Highway
+1x Kaymakli Nightmares
+2x Monastery of Shadows
+2x Papillon
+6x Parthenon, The
+7x Villein
+2x Wider View
+8x Zillah's Valley
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Political Action (21)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+4x Camarilla's Iron Fist
+4x Kine Resources Contested
+7x Parity Shift
+1x Political Stranglehold
+1x Rumors of Gehenna
+
+Action Modifier (11)
+1x Faceless Night
+5x Forgotten Labyrinth
+5x Lost in Crowds
+
+Reaction (7)
+2x Eyes of Argus
+1x Second Tradition: Domain
+4x Telepathic Misdirection
+
+Event (1)
+1x Bitter and Sweet Story, The

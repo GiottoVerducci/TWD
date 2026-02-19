@@ -1,0 +1,66 @@
+Year of the Sabbat Paths I
+Bochum, Germany
+January 24th 2026
+3R+F
+22 players
+Raúl Ordóñez García
+https://www.vekn.net/event-calendar/event/12860
+
+-- 2GW6 + 2.5vp in final
+
+Deck Name: Weekend of terrors
+Author: Gr33n
+
+Crypt (12 cards, min=16, max=28, avg=5.42)
+------------------------------------------
+2x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+2x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+2x Gathii             5  ANI PRE obf      Ravnos:7
+2x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+Library (76 cards)
+Master (14; 6 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Club Illusion
+3x Dabbler
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fortune Teller Shop
+1x Powerbase: Los Angeles
+1x Wash
+1x Week of Nightmares
+2x Wider View
+
+Action (18)
+15x Break the Bonds
+2x Field Training
+1x Mind Numb
+
+Equipment (1)
+1x Shilmulo Tarot
+
+Retainer (6)
+6x Feral Hound
+
+Action Modifier (25)
+4x Elder Impersonation
+2x Faceless Night
+5x Lost in Crowds
+9x Memory Rift
+2x Spying Mission
+3x Visions of Gehenna
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (5)
+1x Confusion of the Eye
+4x Night Terrors
+
+Combat (4)
+4x Majesty

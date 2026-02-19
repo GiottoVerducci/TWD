@@ -1,0 +1,64 @@
+Yulearum vtes event
+Spilamberto, (Mo), Italy
+January 25th 2026
+2R+F
+15 players
+Damiano Ghiaroni
+https://www.vekn.net/event-calendar/event/12915
+https://archon.vekn.net/tournament/4dfe6eea-2af3-4d12-a75f-3eba6e82723f/display.html
+
+-- 1GW9 + 3vp in final
+
+Deck Name: Ravnos S&B
+
+Crypt (12 cards, min=16, max=28, avg=5.5)
+-----------------------------------------
+2x Sreelekha          8  ANI FOR OBF PRE  Ravnos:7
+2x Roberto Rivamonte  6  ANI OBF PRE      Ravnos:7
+2x Gathii             5  ANI PRE obf      Ravnos:7
+1x Doc Martina        6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho   6  ANI OBF pre      Ravnos:7
+1x Phaibun            5  OBF PRE ani      Ravnos:7
+1x Jean-François      4  ani obf pre      Ravnos:7
+1x Zafira             4  PRE obf          Ravnos:7
+1x Oleg Kaprizov      3  obf pre          Ravnos:7
+
+Library (90 cards)
+Master (18; 6 trifle)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Archon Investigation
+1x Club Illusion
+4x Dabbler
+1x Dark Influences
+1x Dreams of the Sphinx
+3x Effective Management
+1x Fortune Teller Shop
+2x Wash
+2x Week of Nightmares
+
+Action (23)
+16x Break the Bonds
+2x Entrancement
+3x Field Training
+2x Public Trust
+
+Equipment (1)
+1x Shilmulo Tarot
+
+Action Modifier (40)
+4x Elder Impersonation
+3x Faceless Night
+3x Lost in Crowds
+10x Memory Rift
+5x Power of One
+4x Spying Mission
+3x Veil the Legions
+8x Visions of Gehenna
+
+Reaction (7)
+2x Delaying Tactics
+5x Visions of Zapathasura
+
+Event (1)
+1x Narrow Minds

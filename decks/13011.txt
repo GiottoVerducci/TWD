@@ -1,0 +1,84 @@
+Torneio Fagoc UCM
+Ubá (MG), Brazil
+February 7th 2026
+2R+F
+10 players
+Lázaro Rodrigues
+https://www.vekn.net/event-calendar/event/13011
+
+-- 1GW5 + 3vp in final
+
+Deck Name: Essa família é muito unida
+
+Crypt (13 cards, min=17, max=31, avg=6.15)
+------------------------------------------
+2x Parijat, the Dark Oracle      7  AUS DOM FOR OBL             Hecata:6
+2x Lenelle, Mambo of Birmingham  6  FOR OBL aus                 Hecata:6
+1x Marchesa Liliana              9  ANI AUS FOR OBL dom         Hecata:6
+1x Huldu, The Desecrator         8  AUS FOR OBL obf tha  Death  Hecata:6
+1x Mora, the Death Seer          7  AUS FOR OBL ani             Hecata:6
+1x Tommaso Sforza                7  AUS OBL THA dom for         Hecata:6
+1x Aitana, The Unholy            6  AUS OBL for tha      Death  Hecata:6
+1x Monica Giovanni               6  AUS FOR OBL                 Hecata:6
+1x Gebeyehu Abdu                 5  AUS OBL for                 Hecata:6
+1x Alek König                    3  OBL                         Hecata:6
+1x Nadezhda                      3  aus obl              Death  Hecata:6
+
+Library (90 cards)
+Master (23; 9 trifle)
+1x Archon Investigation
+1x Biotech Company Hunting Ground
+1x Cappadocian Crypt
+1x Charisma
+1x Creepshow Casino
+1x Cursed Abattoir
+1x Direct Intervention
+1x Dreams of the Sphinx
+5x Family Gathering
+1x Giant's Blood
+1x Jake Washington
+2x Perfectionist
+1x Powerbase: Munich
+1x Sudden Reversal
+2x Vessel
+2x Villein
+
+Action (9)
+1x Aranthebes, The Immortal
+2x Dance of the Dead
+2x Shroud of Decay
+4x Split the Veil
+
+Ally (16)
+8x Aggressive Corpse
+1x Carlton Van Wyk
+1x Fiorella, Empty One
+3x Freakish Conglomeration
+1x Ponticulus
+2x Rotting Behemoth
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (16)
+4x Paths in Two Worlds
+3x Shadow Cast
+2x Shadow Cloak
+3x Stygian Shroud
+4x Where the Veil Thins
+
+Reaction (16)
+2x Delaying Tactics
+2x On the Qui Vive
+4x Shadow Sentinel
+8x Telepathic Misdirection
+
+Combat (4)
+3x Pass Through Shadow
+1x Touch of Oblivion
+
+Event (5)
+1x Dragonbound
+1x FBI Special Affairs Division
+1x Scourge of the Enochians
+2x Unmasking, The

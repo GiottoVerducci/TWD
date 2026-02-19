@@ -1,0 +1,60 @@
+DMF Clash
+Lund, Sweden
+January 4th 2026
+3R+F
+23 players
+Andreas Stjernfelt
+https://www.vekn.net/event-calendar/event/12926
+
+-- 1GW5.5 + 1.5vp in final
+
+Deck Name: Path of Power
+
+Crypt (12 cards, min=29, max=40, avg=8.83)
+------------------------------------------
+5x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+1x Carolina Vález                 9  DOM OBT POT PRE aus         archbishop  Lasombra:5
+1x Dark Selina                    9  CEL POT PRE dom for         cardinal    Brujah antitribu:5
+1x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  Power  archbishop  Brujah:6
+1x Rexton "Savage" Abernathy      8  DOM POT PRE cel      Power  archbishop  Brujah:6
+1x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+1x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
+1x Concordia                      6  DOM PRE for pot      Power  bishop      Ventrue:6
+
+Library (85 cards)
+Master (19; 5 trifle)
+1x Black Forest Base
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+6x Unholy Sacrament
+1x Ventrue Headquarters
+5x Villein
+
+Action (9)
+8x Govern the Unaligned
+1x Under Siege
+
+Political Action (16)
+4x Banishment
+6x Cold War
+4x Kine Resources Contested
+1x Political Stranglehold
+1x Reins of Power
+
+Action Modifier (29)
+4x Dominant Personality
+1x Enkil Cog
+5x Iron Glare
+3x Perfect Paragon
+2x Private Audience
+4x Relentlessness
+5x Unthinkable Humiliation
+5x Voter Captivation
+
+Reaction (7)
+7x Deflection
+
+Combat (5)
+5x Majesty

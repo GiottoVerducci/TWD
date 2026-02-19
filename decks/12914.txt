@@ -1,0 +1,71 @@
+3a Jornada Liga Levante Norte
+Valencia, Spain
+January 11th 2026
+3R+F
+30 players
+Luis Castillejo Capilla
+https://www.vekn.net/event-calendar/event/12914
+https://archon.vekn.net/tournament/01d42e69-b8e1-4aa6-b6b9-26eb2bdf9e9f/console.html
+
+-- 1GW7.5 + 1.5vp in final
+
+Deck Name: Hecata Death seer
+Author: Mccastle
+
+Crypt (12 cards, min=13, max=27, avg=5.33)
+------------------------------------------
+3x Mora, the Death Seer          7  AUS FOR OBL ani         Hecata:6
+2x Aitana, The Unholy            6  AUS OBL for tha  Death  Hecata:6
+2x Lenelle, Mambo of Birmingham  6  FOR OBL aus             Hecata:6
+1x Monica Giovanni               6  AUS FOR OBL             Hecata:6
+1x Gebeyehu Abdu                 5  AUS OBL for             Hecata:6
+1x Alek König                    3  OBL                     Hecata:6
+1x Nadezhda                      3  aus obl          Death  Hecata:6
+1x Peter St. John                2  obl                     Hecata:6
+
+Library (77 cards)
+Master (17; 8 trifle)
+1x Anarch Troublemaker
+1x Biotech Company Hunting Ground
+1x Cappadocian Crypt
+1x Direct Intervention
+6x Family Gathering
+1x Giant's Blood
+1x Jake Washington
+2x Perfectionist
+1x Powerbase: Munich
+2x Vessel
+
+Action (12)
+1x Arson
+1x Dance of the Dead
+2x Psychophagia
+6x Shroud of Decay
+2x Split the Veil
+
+Ally (16)
+8x Aggressive Corpse
+1x Fiorella, Empty One
+1x Gianna di Canneto
+5x Spectral Servitor
+1x Tye Cooper
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (16)
+2x Freak Drive
+5x Shadow Cast
+5x Shadow Cloak
+2x Stygian Shroud
+2x Where the Veil Thins
+
+Reaction (12)
+1x Delaying Tactics
+2x Eyes of Argus
+3x Shadow Sentinel
+6x Telepathic Misdirection
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

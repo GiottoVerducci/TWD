@@ -1,0 +1,58 @@
+Marc's DARING THE DAWN 2026, Legacy of Blut
+Barcelona, Spain
+February 6th 2026
+3R+F
+20 players
+Alfredo Giraldos
+https://www.vekn.net/event-calendar/event/12913
+
+-- 2GW9 + 1.5vp in final
+
+Deck Name: Assamite Assault
+
+Crypt (12 cards, min=22, max=34, avg=6.83)
+------------------------------------------
+3x Kassandra Tassaki  6  CEL THA obf          prince    Assamite:6
+2x Kasim Bayar        9  CEL OBF THA aus pot  justicar  Assamite:6
+2x Oluwafunmilayo     8  AUS CEL OBF THA      prince    Assamite:6
+2x Farah Sarroub      7  CEL THA aus obf      prince    Assamite:6
+2x Warmaksan          5  THA cel obf          prince    Assamite:6
+1x Kalinda            6  CEL OBF tha          primogen  Assamite:6
+
+Library (90 cards)
+Master (26; 8 trifle)
+9x Ashur Tablets
+1x Direct Intervention
+1x Fame
+2x Haqim's Law: Retribution
+1x Papillon
+2x Parthenon, The
+1x Powerbase: Montreal
+3x Priority Contract
+1x Rack, The
+5x Villein
+
+Action (5)
+5x Hunter's Mark
+
+Equipment (7)
+6x Assault Rifle
+1x Ivory Bow
+
+Political Action (3)
+2x Anathema
+1x Rumors of Gehenna
+
+Reaction (8)
+8x Second Tradition: Domain
+
+Combat (41)
+7x Disguised Weapon
+1x Fast Hands
+8x Infernal Pursuit
+1x Orgy of Blood
+6x Psyche!
+7x Pursuit
+4x Rego Motum
+2x Sideslip
+5x Taste of Vitae

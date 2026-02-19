@@ -1,0 +1,64 @@
+Cónclave de la Camarilla 2025
+Palma, Spain
+November 22nd 2025
+3R+F
+30 players
+Francesc Ros
+https://www.vekn.net/event-calendar/event/12696
+
+-- 2GW10 + 3vp in final
+
+Deck Name: Bleeding Manse 3.0
+
+Crypt (12 cards, min=17, max=30, avg=5.83)
+------------------------------------------
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+1x Susie Kano       3  ani dom                 Tzimisce:6
+
+Library (84 cards)
+Master (11)
+5x British Museum, London, The
+1x Carfax Abbey
+1x Direct Intervention
+3x Perfectionist
+1x Protean
+
+Action (11)
+1x Field Training
+10x Govern the Unaligned
+
+Ally (5)
+5x Asanbonsam Ghoul
+
+Equipment (12)
+2x Concoction of Vitality
+1x Flaming Candle
+2x Heart of Nizchetus
+7x Living Manse
+
+Action Modifier (12)
+6x Conditioning
+6x Earth Control
+
+Action Modifier/Combat (3)
+3x Form of the Cobra
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (18)
+3x Bait and Switch
+5x Deflection
+2x Guard Dogs
+7x Organized Resistance
+1x Redirection
+
+Combat (9)
+6x Earth Meld
+3x Form of Mist

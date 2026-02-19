@@ -1,0 +1,66 @@
+PACC IT UP
+Mandaluyong, Philippines
+September 7th 2025
+2R+F
+19 players
+Joscar Gamaliel Malacaman
+https://www.vekn.net/event-calendar/event/12637
+
+-- 1GW5.5 + 1.5vp in final
+
+Deck Name: Disarming Majesty
+Description: Based on a decklist sent by Keith Lim
+
+Crypt (12 cards, min=4, max=40, avg=5.08)
+-----------------------------------------
+5x Shalmath        10  POT PRE TEM  True Brujah:6
+2x Anarch Convert   1  -none-       Caitiff:ANY
+1x Andre LeRoux     3  aus          Toreador:5
+1x Alu              2  obf          Assamite:5
+1x New Blood        2  san          Blood Brother:ANY
+1x Donald Cargill   1  aus          Caitiff:5
+1x Walker Grimes    1  ani          Caitiff:5
+
+Library (76 cards)
+Master (11; 1 trifle)
+6x Ashur Tablets
+1x Dominate
+1x Giant's Blood
+1x Powerbase: Montreal
+1x Tabriz Assembly
+1x Wider View
+
+Action (12)
+1x Ambush
+1x Aranthebes, The Immortal
+1x Big Game
+1x Bum's Rush
+1x Harass
+7x Summon History
+
+Ally (4)
+1x Gregory Winter
+1x Mylan Horseed
+1x Nephandus
+1x Tye Cooper
+
+Equipment (5)
+1x Ankara Citadel, Turkey, The
+1x Eye of Hazimel
+1x Heart of Nizchetus
+1x Sport Bike
+1x Talbot's Chainsaw
+
+Action Modifier (8)
+6x Domain of Evernight
+2x Enkil Cog
+
+Reaction (2)
+2x Delaying Tactics
+
+Combat (34)
+7x Disarm
+4x Groundfighting
+8x Majesty
+10x Outside the Hourglass
+5x Taste of Vitae

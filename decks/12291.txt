@@ -1,0 +1,52 @@
+The Fifth Tradition, ACC 2025
+Metro Manila, Philippines
+September 6th 2025
+3R+F
+39 players
+Micon Garcia
+https://www.vekn.net/event-calendar/event/12291
+
+-- 3GW12 + 3vp in final
+
+Deck name: Leveraging my Hacking Skills
+
+Crypt (12 cards, min=4, max=8, avg=1.42)
+----------------------------------------
+1x Christine Boscacci  2  dom vic  Pander:2
+1x Mustafa Rahman      2  dom      Tremere:2
+1x New Blood           2  san      Blood Brother:ANY
+1x Ohanna              2  dom      Malkavian:2
+1x Samson              2  dom      Ventrue antitribu:2
+1x Anarch Convert      1  -none-   Caitiff:ANY
+1x Antoinette DuChamp  1  cel pre  Caitiff:2
+1x Franciscus          1  aus      Caitiff:2
+1x Julius              1  qui ser  Caitiff:2
+1x Navar McClaren      1  ani      Caitiff:1
+1x Royce               1  dom      Pander:2
+1x Smudge the Ignored  1  -none-   Caitiff:1
+
+Library (62 cards)
+Master (15)
+2x Anarch Revolt
+2x Antediluvian Awakening
+6x Effective Management
+2x Information Highway
+1x Pentex(TM) Subversion
+2x Sudden Reversal
+
+Action (20)
+20x Computer Hacking
+
+Political Action (1)
+1x Ancient Influence
+
+Action Modifier (6)
+6x Leverage
+
+Reaction (10)
+4x Deflection
+3x Delaying Tactics
+3x Wake with Evening's Freshness
+
+Combat (10)
+10x Dodge

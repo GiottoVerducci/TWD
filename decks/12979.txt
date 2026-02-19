@@ -1,0 +1,73 @@
+Primeiro campeonato online Inconnu do home office
+Visconde do Rio Branco, Brazil
+January 18th 2026
+2R+F
+Márcio Hiroyuki Miyamoto
+https://www.vekn.net/event-calendar/event/12979
+
+-- 1GW3 + 3vp in final
+
+Deck Name: 1-Hiro-Gangrel_V5
+
+Crypt (12 cards, min=18, max=26, avg=5.67)
+------------------------------------------
+2x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+2x André the Manipulator  6  FOR PRO                 Gangrel:5
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+
+Library (90 cards)
+Master (17; 6 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+1x Ecoterrorists
+1x Garibaldi-Meucci Museum
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+5x Vessel
+1x Wider View
+1x Zoo Hunting Ground
+
+Action (17)
+1x Aranthebes, The Immortal
+1x Army of Rats
+1x Constant Revolution
+2x Rewilding
+12x Thing
+
+Ally (1)
+1x Double Deuce
+
+Equipment (3)
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
+
+Retainer (5)
+1x Mr. Winthrop
+4x Raven Spy
+
+Action Modifier (3)
+2x Earth Control
+1x Monkey Wrench
+
+Reaction (27)
+9x Bait and Switch
+4x Deep Ecology
+1x Delaying Tactics
+2x Eyes of the Wild
+8x Organized Resistance
+3x Protection Racket
+
+Combat (17)
+4x Claws of the Dead
+9x Earth Meld
+4x Form of Mist

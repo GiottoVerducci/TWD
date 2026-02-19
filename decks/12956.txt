@@ -1,0 +1,62 @@
+Garou Rim: Cold Front
+Joensuu, Finland
+January 31st 2026
+3R+F
+13 players
+Markus Määttänen
+https://www.vekn.net/event-calendar/event/12956
+
+-- 1GW4 + 1.5vp in final
+
+Deck Name: Selina Vote
+Author: Phelddagrif
+
+Crypt (12 cards, min=32, max=38, avg=8.83)
+------------------------------------------
+4x Dark Selina                    9  CEL POT PRE dom for         cardinal    Brujah antitribu:5
+2x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+2x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  Power  archbishop  Brujah:6
+1x De Sade                        9  AUS DOM FOR PRE             archbishop  Ventrue antitribu:5
+1x Rexton "Savage" Abernathy      8  DOM POT PRE cel      Power  archbishop  Brujah:6
+1x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+1x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
+
+Library (83 cards)
+Master (21; 7 trifle)
+1x Black Forest Base
+1x Creepshow Casino
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Privileged Position
+7x Unholy Sacrament
+7x Villein
+
+Political Action (21)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+4x Cold War
+3x Empires Fall
+8x Kine Resources Contested
+2x War of Ages
+
+Action Modifier (26)
+4x Bewitching Oration
+4x Dominant Personality
+2x Magnetic Authority
+2x Perfect Paragon
+2x Private Audience
+2x Relentlessness
+4x Unthinkable Humiliation
+6x Voter Captivation
+
+Action Modifier/Reaction (2)
+2x Absolute Tyranny
+
+Reaction (10)
+7x Deflection
+3x Obedience
+
+Combat (3)
+3x Majesty

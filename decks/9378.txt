@@ -1,0 +1,55 @@
+Special Report
+Paris, France
+2019-09-14
+2R+F
+9 players
+Jorge Delgado
+https://www.vekn.net/player-registry/event/9378
+
+Deck Name: The Black Plague
+
+Crypt (12 cards, min=15 max=28 avg=5.25)
+----------------------------------
+2x Banjoko  5  DOM obt pot  Lasombra:3
+1x Ermenegildo, The Rake  5  DOM OBT pot  Lasombra:4
+1x Katherine Stoddard  4  dom for  Ventrue antitribu:3
+1x Kazimir Savostin  7  AUS VIC ani pot  Tzimisce:3
+1x Mosfair  4  cel dom tha  Tremere antitribu:4
+1x Nicomedes  5  aus for nec vic  Harbinger of Skulls:4
+1x Piotr Andreikov  2  aus  Tzimisce:3
+1x Sennadurek  6  AUS NEC dom  Nagaraja:4
+1x Teresita, The Godmother  7  ANI OBF POT for  Nosferatu antitribu:3
+1x Wah Chun-Yuen  5  POT cel dom pre  Brujah antitribu:3
+1x Yazid Tamari  8  CEL QUI ani dom obf  Banu Haqim:3
+
+Library (70 cards)
+Master (14)
+1x Anarch Troublemaker
+2x Direct Intervention
+1x Hungry Coyote, The
+1x Life Boon
+1x Pentex(TM) Subversion
+4x Villein
+4x Watchtower: The Wolves Feed
+Action (29)
+1x Black Hand Emissary
+8x Recruitment Exercise
+16x Reunion Kamut
+4x Tattoo Signal
+Equipment (3)
+1x Guarded Rubrics
+2x Sargon Fragment, The
+Action Modifier (6)
+2x Conditioning
+4x Seraph's Second
+Reaction (12)
+5x Deflection
+2x Delaying Tactics
+3x On the Qui Vive
+2x Truth in Ink
+Event (6)
+1x Blood Trade
+2x Break the Code
+1x Fourth Cycle, The
+1x NRA PAC
+1x Thirst

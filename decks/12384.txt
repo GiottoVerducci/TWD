@@ -1,0 +1,58 @@
+Garou Rim: Life in the City
+Joensuu, Finland
+2025-07-19
+3R+F
+9 players
+Markus Määttänen
+https://www.vekn.net/event-calendar/event/12384
+
+Deck Name: Stanislava
+Created by: Phelddagrif
+
+Crypt (12 cards, min=34 max=44 avg=9.92)
+----------------------------------
+5x Stanislava  11  ANI CEL DOM FOR PRO  inner circle  Gangrel:2
+2x Xaviar (ADV)  10  ABO ANI FOR PRO aus cel pot  justicar  Gangrel:3
+1x Hartmut Stover  10  CEL OBF PRO dom for  archbishop  Gangrel antitribu:3
+2x Ingrid Rossler  9  ANI FOR PRO dom  prince  Gangrel:2
+2x Mark Decker  8  CEL PRO ani for obf pot  prince  Gangrel:3
+
+Library (76 cards)
+Master (18)
+1x Backways
+2x Camarilla Conclave
+1x Coven, The
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Ennoia's Theater
+1x Information Highway
+1x Jake Washington
+1x Monastery of Shadows
+5x Villein
+1x Zoo Hunting Ground
+Action (6)
+6x Govern the Unaligned
+Political Action (12)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+4x Camarilla's Iron Fist
+3x Kine Resources Contested
+1x Reins of Power
+Action Modifier (17)
+2x Conditioning
+4x Earth Control
+1x Enkil Cog
+4x Forced March
+6x Instantaneous Transformation
+Action Modifier/Reaction (4)
+2x Form of the Bat
+2x Murmur of the False Will
+Reaction (9)
+4x Deflection
+2x Eyes of the Wild
+1x Guard Dogs
+2x Sense the Savage Way
+Combat (10)
+4x Earth Meld
+6x Form of Mist

@@ -1,0 +1,55 @@
+Ben je boos, pluk een ... tand
+Doorn, Netherlands
+2025-11-22
+2R+F
+10 players
+Thomas Kouwenhoven
+https://www.vekn.net/event-calendar/event/12798
+
+Deck Name: Obl-Dom bleed
+
+Crypt (12 cards, min=11 max=22 avg=4.17)
+----------------------------------
+2x Araceli "Celia" Rivera  3  dom obl  Lasombra:6
+2x Azucena  5  DOM OBL pot  Lasombra:6
+2x El Monseñor  4  OBL dom  Lasombra:6
+1x Aintzane Arriaga  6  DOM OBL POT  Lasombra:6
+1x Alek König  3  OBL  Hecata:6
+1x Braden White  4  dom obl pot  Lasombra:6
+1x Kamaluddin  6  DOM OBL for pot  primogen  Lasombra:6
+1x Peter St. John  2  obl  Hecata:6
+1x Zbigniew, Hunter of Mekhet  5  OBL aus dom tha  Lasombra:6
+
+Library (81 cards)
+Master (16)
+1x Anarch Troublemaker
+1x Coven, The
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+2x Misdirection
+3x Perfectionist
+2x Vessel
+3x Wash
+Action (12)
+10x Govern the Unaligned
+2x Shroud of Decay
+Ally (10)
+10x Spectral Servitor
+Action Modifier (26)
+2x Bonding
+4x Foreshadowing Destruction
+3x Seduction
+4x Shadow Cast
+3x Shadow Cloak
+5x Stygian Shroud
+5x Where the Veil Thins
+Reaction (10)
+6x Deflection
+4x Shadow Sentinel
+Combat (5)
+3x Pass Through Shadow
+2x Target Vitals
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

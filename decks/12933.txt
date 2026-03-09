@@ -1,0 +1,53 @@
+Liga Powerbase JF 2026 Janeiro
+Juiz de Fora, Brasil
+2026-01-15
+2R+F
+14 players
+Leonardo Villela (
+https://www.vekn.net/event-calendar/event/12933
+
+Deck Name: Lasombat Fortitunado
+Created by: Leo Villela
+
+Crypt (12 cards, min=21 max=32 avg=6.75)
+----------------------------------
+2x Dafina Hanganu  8  DOM OBL POT for  prince  Lasombra:6
+2x Yewon Ong  8  DOM OBL POT for  prince  Lasombra:6
+1x Damian  8  DOM OBL POT for pre  archbishop  Lasombra:6
+1x María del Toro  7  DOM OBL POT  prince  Lasombra:6
+1x Rinaldo Albizzi  7  DOM OBL POT pre  primogen  Lasombra:6
+2x Kamaluddin  6  DOM OBL for pot  primogen  Lasombra:6
+1x Aintzane Arriaga  6  DOM OBL POT  Lasombra:6
+1x Lyyli Yösydän  5  POT dom for obl  Lasombra:6
+1x Braden White  4  dom obl pot  Lasombra:6
+
+Library (85 cards)
+Master (12)
+2x Dead Pool
+1x Fame
+1x Giant's Blood
+1x Papillon
+1x Powerbase: Montreal
+5x Villein
+1x Wider View
+Action (18)
+6x Govern the Unaligned
+2x Heroic Might
+1x Preternatural Strength
+1x Shroud of Decay
+8x Umbrous Clutch
+Political Action (2)
+2x Parity Shift
+Action Modifier (6)
+6x Freak Drive
+Reaction (15)
+6x Deflection
+3x On the Qui Vive
+6x Second Tradition: Domain
+Combat (32)
+4x Disarm
+6x Hidden Strength
+6x Immortal Grapple
+6x Shadow Shift
+4x Taste of Vitae
+6x Torn Signpost

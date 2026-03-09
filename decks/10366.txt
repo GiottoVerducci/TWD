@@ -1,0 +1,68 @@
+Enrage
+Longmont, CO
+2022-09-16
+2R+F
+9 players
+Darby Keeney
+https://www.vekn.net/event-calendar/event/10366
+
+Deck Name: Gwal - Eff This Place
+Description:
+Anarch-based Gangrel Wall
+
+Crypt (12 cards, min=14 max=26 avg=5.25)
+----------------------------------
+2x Casey Snyder  6  PRO ani for cel  baron  Gangrel:6
+2x Kuyén  6  ANI PRO  baron  Gangrel:6
+2x Massimiliano  7  ANI FOR pro  baron  Gangrel:6
+1x Hanna Nokelainen  4  ani for pro  Gangrel:6
+1x Indira  3  PRO  Gangrel:6
+1x Joaquín de Cádiz  3  for pro  Gangrel:6
+1x Kamile Paukstys  5  PRO ani for  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani  Gangrel:6
+1x Nathan Turner  4  PRO ani  Gangrel:6
+
+Library (90 cards)
+Master (22)
+1x Anarch Free Press, The   *// never needed, but this is a wall.
+1x Anarch Railroad
+1x Backways
+2x Blood Doll
+1x Carfax Abbey
+1x Club Illusion   *// iffy at a lot of tables right now.
+1x Ecoterrorists
+2x Ennoia's Theater
+2x Garibaldi-Meucci Museum   *// recursion is less broken here, but G-MM is needed.
+1x Giant's Blood
+2x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch   *// dunno, but this is a wall.
+3x Vessel
+1x Zoo Hunting Ground
+Action (13)
+1x Atonement   *// should be Aranthebes unless you slot Crow and Darius.
+1x Constant Revolution   *// continues to help other more than it hurts them.
+3x Rewilding   *//down from 4, still pure gold.
+8x Thing
+Equipment (2)
+2x Sniper Rifle   *// cause Legionnaires need to die. Over and over and over.
+Retainer (4)
+4x Raven Spy   *// fewer than the "prototypical" design but seemed enough.
+Action Modifier (3)
+3x Earth Control
+Action Modifier/Combat (1)
+1x Rapid Change  *// I don't know why this sees so little use.
+Action Modifier/Reaction (4)
+4x Form of the Bat   *// great dual use for this deck and reduces need for retainers.
+Reaction (26)
+5x Bait and Switch
+6x Deep Ecology
+5x Eyes of the Wild
+8x Organized Resistance
+2x Protection Racket   *// sits in place of extra Raven Spies
+Combat (14)
+10x Earth Meld
+4x Form of Mist
+Event (1)
+1x Uncoiling, The   *// must eat the Unmasking and Veil of Darkness.

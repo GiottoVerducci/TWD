@@ -1,0 +1,71 @@
+4ª Jornada Liga Levante Norte
+Valencia, Spain
+March 1st 2026
+3R+F
+28 players
+César Ruiperez
+https://www.vekn.net/event-calendar/event/12963
+
+-2GW7.5 + 0.5vp in final
+
+Deck Name: M-!Toreador Block
+
+Crypt (12 cards, min=5, max=21, avg=3.08)
+-----------------------------------------
+3x Anarch Convert               1  -none-           Caitiff:ANY
+1x Jost Werner                  6  AUS PRE ani      Toreador antitribu:2
+1x Sheila Mezarin               6  AUS PRE cel for  Toreador antitribu:2
+1x Mercy, Knight Inquisitor     5  AUS cel dom pre  Toreador antitribu:2
+1x Remilliard, Devout Crusader  4  AUS pre          Toreador antitribu:2
+1x Isabel de Leon               3  AUS              Toreador:2
+1x Lolita                       3  for pre          Toreador antitribu:2
+1x Zöe                          3  AUS cel obf      Malkavian:2
+1x Carter                       2  cel              Toreador antitribu:2
+1x Nicholas Chang               2  aus              Toreador antitribu:3
+
+Library (90 cards)
+Master (18; 5 trifle)
+1x Anarch Troublemaker
+1x Coven, The
+2x Direct Intervention
+1x Fetish Club Hunting Ground
+3x Palla Grande
+1x Pentex(TM) Subversion
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+1x Sudden Reversal
+4x Vessel
+
+Action (13)
+2x Abbot
+7x Art Scam
+4x Embrace, The
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (6)
+3x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Sniper Rifle
+
+Retainer (1)
+1x Mr. Winthrop
+
+Reaction (43)
+3x Delaying Tactics
+5x Eagle's Sight
+4x Enhanced Senses
+11x Eyes of Argus
+4x My Enemy's Enemy
+4x On the Qui Vive
+2x Precognition
+1x Spirit's Touch
+9x Telepathic Misdirection
+
+Combat (8)
+4x Concealed Weapon
+4x Target Vitals

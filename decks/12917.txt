@@ -1,0 +1,64 @@
+Piauiense 2026 - Carcará, pega, mata e come!
+Teresina, Brazil
+February 1st 2026
+2R+F
+13 players
+Wellington Rafael Almeida dos Reis Rocha
+https://www.vekn.net/event-calendar/event/12917
+
+-- 1GW3.5 + 3vp in final
+
+Deck Name: No baile é que você dança
+
+Crypt (12 cards, min=13, max=36, avg=6.5)
+-----------------------------------------
+4x Diana Iadanza     9  AUS CEL FOR PRE  justicar  Toreador:7
+1x Catalina Vega     8  AUS CEL PRE for  prince    Toreador:6
+1x Modius            8  AUS CEL PRE obf  prince    Toreador:7
+1x Flávio Gonçalves  7  CEL PRE aus for  prince    Toreador:6
+1x Maila             6  AUS PRE cel      primogen  Toreador:6
+1x Mkhokheli         6  PRE aus cel for  prince    Toreador:6
+1x Valentina Osako   3  PRE                        Toreador:7
+1x Kazuki Hanabira   2  aus                        Toreador:7
+1x Mateo García      2  pre                        Toreador:6
+
+Library (90 cards)
+Master (24; 3 trifle)
+1x Art Museum
+1x Camarilla Conclave
+1x Channel 10
+2x Dreams of the Sphinx
+1x Elder Library
+1x Elysium: The Palace of Versailles
+1x Fortitude
+1x Information Highway
+1x KRCG News Radio
+1x Papillon
+1x Parthenon, The
+8x Toreador Grand Ball
+3x Villein
+1x WMRH Talk Radio
+
+Action (4)
+2x Enchant Kindred
+2x Fourth Tradition: The Accounting
+
+Political Action (15)
+1x Consanguineous Condemnation
+14x Kine Resources Contested
+
+Action Modifier (25)
+6x Awe
+4x Bewitching Oration
+3x Forced March
+2x Freak Drive
+4x Perfect Paragon
+6x Voter Captivation
+
+Reaction (12)
+6x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (10)
+2x Hidden Strength
+8x Rolling with the Punches

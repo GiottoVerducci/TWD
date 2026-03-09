@@ -1,0 +1,116 @@
+Path of Power and the Inner Voice Los Angeles
+Los Angeles (CA), USA
+February 15th 2026
+2R+F
+17 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/12827
+
+-- 1GW6.5 + 1.5vp in final, won on seeding
+
+Deck Name: Do A Thing v2
+Description:
+Ben Peal borrowed and won with an earlier version of this deck, but I've made some
+changes since lending it to him.  Thanks to Darby Keeney and Sergio Martins for feedback
+on this deck.
+
+I eked out a VP in round 1 in front of a Ravnos bleeder, but died quickly after.  In round 2,
+my predator was completely torporized by the Nosferatu, so I was building up with Thing
+and bleeding with spare actions. My Ravnos prey was unable to oust his Kiasyd prey by 1
+pool.  My predator gets ousted and I double-oust on the following turn.  I end up in a slog
+with the Nosferatu, but Fear of Mekhet and Donnybrook, plus a nearly empty library for
+the Nosferatu, leads to my victory.
+
+I was tied for second, but lost the die roll.
+Ian playing Nosferatu midcap toolbox 1.5 VP ->
+Chris playing Ravnos bleed 0 VP ->
+Me playing Gangrel Thing 1.5 VP ->
+Marcus playing Ravnos Museum bleed 0 VP ->
+Mark playing Erlik Legionnaires 0.5 VP
+
+My prey was the second seed.  My predator was top seed and the same deck that ousted
+me in round 1.  What I expected to be a fast game ended up as a real slog, leading to a
+timeout.  I was able to start with several Things and managed to pay very little pool to put
+four vampires in play with two Camera Phones.  The deck was moving well, except for
+master cards, so I had some intercept and bounce early and used that to take the smaller
+bleeds and fend off the larger ones.  Marcus was having difficulty with Mark because of
+Mark's bounce and the eventual Unmasking intercept, chewing through valuable
+resources.  Ian was handling the bounce and making beads, but putting very little
+pressure on Chris.
+
+I finally get a Villein and a little breathing room, following that with a Garibaldi.  I am mostly
+bouncing into my prey for offense at this point, but tossing in the occasional 2 bleed.
+Marcus makes a stab at Mark.  I DI his Visions of Gehenna and in an attempt to draw into
+the oust on his last bleed comes up 1 pool short because of inferior Presence.  Mark
+hangs in there.   Ian is whittling down Chris's pool by 5 or 6 each turn now with the bleed
+retainers and bleed specials.
+
+Chris comes forward and I bounce 2 bleeds into Marcus locking a stolen Legionnaire and
+leaving him at 3 pool.  I oust on my turn.  Mark is at 2 pool, but with the Legionnaires and
+the Unmasking, I have very little possibility of going forward.  I move into survival mode,
+knowing that with my seeding and the remaining 25 minutes that I'll win if I don't get
+ousted.
+
+I make some beads and Ian holds off ousting Chris because Ian is afraid he cannot oust
+me and needs Chris to gobble me up first.  Chris fires in a bleed with Visions of Gehenna
+at 1 stealth, which I bounce, knowing the Legionnaires will be unable to block.  With
+Narrow Minds in play, he cannot bounce it.  He DI's my bounce, so I wake and play
+another.  He plays intercept with Mina using Spectral Divination and a second VP slides
+away from me.  I shore up my defenses on my turn.  Ian ousts as time is running low to
+grab his VP and the game times out on my turn.
+
+Crypt (12 cards, min=12, max=25, avg=4.75)
+------------------------------------------
+2x Casey Snyder      6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén             6  ANI PRO          baron  Gangrel:6
+1x Massimiliano      7  ANI FOR pro      baron  Gangrel:6
+1x Kamile Paukstys   5  PRO ani for             Gangrel:6
+1x Mickey Wheeler    5  ani cel for pro         Gangrel:6
+1x Hanna Nokelainen  4  ani for pro             Gangrel:6
+1x Nathan Turner     4  PRO ani                 Gangrel:6
+1x Indira            3  PRO                     Gangrel:6
+1x Joaquín de Cádiz  3  for pro                 Gangrel:6
+1x Ruslan Fedorenko  2  pro                     Gangrel:6
+
+Library (76 cards)
+Master (17; 6 trifle)
+1x Carfax Abbey
+1x Club Illusion
+2x Direct Intervention -- won me the final
+1x Ecoterrorists
+1x Ennoia's Theater -- extra transfers early, hand-cycling late
+1x Fear of Mekhet -- handles Diana, Juliet, Molly, etc. critical to round 2
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Pentex(TM) Subversion
+1x Powerbase: Los Angeles -- so powerful in this deck, card movement and unlock
+6x Villein
+
+Action (20)
+2x Rewilding -- mostly useless today, still worthwhile
+18x Thing
+
+Equipment (3)
+3x Camera Phone
+
+Action Modifier (2)
+2x Monkey Wrench
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (5)
+5x Form of the Bat -- used to run more, but cut back as folks stopped blocking Thing
+
+Reaction (16)
+7x Bait and Switch
+2x Deep Ecology
+2x Delaying Tactics
+2x Eyes of the Wild
+1x On the Qui Vive
+2x Organized Resistance
+
+Combat (11)
+3x Donnybrook -- recycling helped me take down the Nos
+3x Earth Meld
+5x Form of Mist

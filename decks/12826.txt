@@ -1,0 +1,114 @@
+Path of Death and the Soul Los Angeles
+Los Angeles (CA), USA
+February 14th 2026
+2R+F
+14 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/12826
+
+-- 1GW8.5 + 4vp in final
+
+Deck Name: Diana's Demise
+Description:
+You have to go back to 2021 to find a AAA vote deck in the TWDA.  The time for these
+decks was diminished when Parity Shift was nerfed, but I felt that Camarilla's Iron Fist
+might be able to give them a resurgence.  The goal is to reach the heads-up and bolster
+your success rate by using the native +bleed vampires.  This is also why the core of the
+deck includes Marcellus, who rarely gets used in this style and serves better than Tatiana
+Romanov because he's a Zillah's target.  The deck focuses on stealth over Toreador Grand
+Ball, which is useful in those bleeding situations and frees up an action taken by the Ball.
+All of the stealth is also free-flowing except for the Resist Earth's Grasp, which doubles as
+combat defense.  On top of that, there are multiple Banishment to help solve all kinds of
+problems, especially endgame problems.
+
+The finals was particularly interesting:
+Jason playing Anarch Tzim toolbox 1 VP ->
+Billy playing unnamed rush combat 0 VP ->
+Jeff playing Ira Rivers gun-wall 0 VP ->
+Me playing AAA 4 VP ->
+Marcos playing Malk V5 0 VP
+
+Billy's deck was rightfully feared as his combat was the strongest at the table.  He had
+some ill-luck with his first rush, a back-rush at Jason.  Jason ended up playing Rötschreck
+and sending the unnamed to torpor.  Lacking any follow-up actions and with no one willing
+to rescue, Billy was dead two turns later, but not before Jason Graverobbed the unnamed
+and then received 10 pool for it via Golconda, played by Billy, who proceeded to transfer
+out, figuring Jason earned it.  I eat some bleeds, but Jeff is a little concerned about
+Marcos ending up on his doorstep as Jason is recycling Bait and Switch via Garibaldi.
+Marcos, however, blew through all 16 newfound pool in one turn.
+
+I eat a few more small bleeds and manage to finally hit a large Villein, followed up by Info
+Highway.  I bled Marcos for 1 to move the Edge, leaving Marcos at 5.  I use my extra
+transfers and pool to bring up Anneke and AAA is complete.  I'm now contesting the
+Justicar title with my predator's Madame Guile, which is useful for me as that's one less
+vampire that can play Second Tradition.  Having not hit a second Villein Jeff only has her
+and Ira Rivers at this point.
+
+Jason survives another barrage by Marcos and is at 5 pool.  Jason is pleading for help, but
+also knows he's probably not going to survive the help.  Jeff bleeds me and I bounce the
+bleed of 2, leaving Marcos at 3.
+
+On my next turn I play Camarilla Conclave.  I'm sitting on two Camarilla's Iron Fist and
+have vote lock thanks to the title contestation.  I call the first Fist with Anson.  Ira plays
+Second Tradition to unlock and attempt to block.  I use Alexandra's special to lock him
+again and fail the block.  He's not holding a wake and I am able to oust Marcos while
+leaving Jason at 3 pool, gaining 7 pool in the process.  I decided to wait lest Ira do
+something untoward to my vampires if I take any further actions.
+
+Jason sets up for defense.  I eat a bleed for 2 from Jeff's Guile and he leaves Ira unlocked
+to prevent the lock effect from failing his block as he could follow up with a Second
+Tradition.  I play my third Ashur and a Monastery of Shadows.  I managed to get to 5
+stealth, bypassing Ira's intercept with titleless Anneke (still contesting), calling Banishment
+to removes Jason's only remaining vampire.  Jeff has more intercept, but it was a Second
+Tradition, which, if he plays, just gets Ira locked.  I follow up with an ousting bleed and the
+game is mine at that point because of seeding.  We finish it formally next turn when I
+Banish Ira, at which point Jeff concedes.
+
+Crypt (13 cards, min=30, max=43, avg=9)
+---------------------------------------
+5x Anson             8  CEL PRE aus dom          prince        Toreador:1
+3x Alexandra        11  ANI AUS CEL PRE dom      inner circle  Toreador:2
+2x Anneke           10  AUS CEL PRE dom          justicar      Toreador:1
+1x François Villon  10  AUS CEL PRE chi obf pot  prince        Toreador:2
+1x Marcellus         8  AUS CEL pro              prince        Toreador:2  -- you don't want this guy early, vamp 3
+1x Victoria Ash      6  PRE aus cel dom          primogen      Toreador:2  -- cheap titled bouncer that can Fist and Cap at superior
+
+Library (82 cards)
+Master (32; 7 trifle)
+6x Ashur Tablets
+2x Camarilla Conclave
+1x Direct Intervention
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion -- still good
+1x Toreador Grand Ball -- in case of emergency, was useful in round 2
+6x Villein
+1x Wider View
+9x Zillah's Valley
+
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+6x Camarilla's Iron Fist
+4x Parity Shift
+1x Political Stranglehold -- less valuable post-Sabbat, still necessary
+
+Action Modifier (16)
+5x Loup
+5x Perfect Paragon
+6x Voter Captivation
+
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+
+Reaction (7)
+5x Deflection -- seemed like enough today, better than AUS, which Anson cannot use
+2x On the Qui Vive -- could possibly be removed only used one for wake-and-bounce
+
+Combat (6)
+6x Majesty -- could possibly add 1-2 more copies depending the meta

@@ -1,0 +1,78 @@
+The Art of Memory
+Amadora, Portugal
+April 9th 2022
+3R+F
+12 players
+Pedro Luis
+https://www.vekn.net/event-calendar/event/10129
+
+-- 2GW7 + 2.5vp in final
+
+Deck Name: Girls will find...your Pool
+Author:Pedro Luís (inspired by TWDA)
+
+Description: Just a mix of ideas, I got from "girls decks" out of the TWDA and then doing some customization for personal taste.
+Call the great Beast which I call “My Little Cthulhu” is a alternative winning condition at the endgame specially if Cybele is out of blood and you no longer need to play many master cards.
+Also the huge pool income you get, makes ousting you very difficult.
+
+Crypt (12 cards, min=35, max=43, avg=9.83)
+------------------------------------------
+4x Cybele                 10  ANI DAI OBF PRE SER THA                Baali:4
+3x Aksinya Daclau          9  ANI FOR PRE PRO cel tha                Gangrel antitribu:4
+1x Adana de Sforza        11  CEL OBF POT PRE PRO aus  inner circle  Brujah:4
+1x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4
+1x Rafael de Corazon      11  AUS CEL DOM OBF PRE      inner circle  Toreador:4
+1x Nergal                 10  AUS DAI FOR OBF PRE THA                Baali:5
+1x Nana Buruku             8  ANI POT PRE                            Guruhi:4
+
+Library (90 cards)
+Master (55; 10 trifle)
+1x Archon Investigation
+15x Ashur Tablets
+1x Blind Spot
+1x Coven, The
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Golconda: Inner Peace
+2x Information Highway
+1x Jake Washington
+6x Liquidation
+1x Metro Underground
+1x Monastery of Shadows
+3x Parthenon, The
+1x Pentex(TM) Subversion
+1x Secure Haven
+7x Villein
+2x Wider View
+7x Zillah's Valley
+
+Action (8)
+1x Call the Great Beast
+3x Entrancement
+2x Intimidation
+2x Unleash Hell's Fury
+
+Action Modifier (15)
+3x Aire of Elation
+3x Cloak the Gathering
+2x Elder Impersonation
+1x Enkil Cog
+2x Faceless Night
+3x Lost in Crowds
+1x Perfect Paragon
+
+Action Modifier/Combat (1)
+1x Hide the Mind
+
+Reaction (6)
+2x Delaying Tactics
+1x Guard Dogs
+1x Lost in Translation
+2x Mental Maze
+
+Combat (4)
+4x Majesty
+
+Event (1)
+1x Narrow Minds

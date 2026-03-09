@@ -1,0 +1,58 @@
+Torneio do 1º Aniversário Da Comunidade VTES Almada & Friends
+Almada, Portugal
+October 4th 2025
+3R+F
+24 players
+Jorge Ramos
+https://www.vekn.net/event-calendar/event/12598
+
+-- 1GW6.5 + 2.5vp in final
+
+Deck Name: Split the Corpses
+
+Crypt (12 cards, min=10, max=24, avg=4.42)
+------------------------------------------
+3x Lenelle, Mambo of Birmingham  6  FOR OBL aus  Hecata:6
+3x Alek König                    3  OBL          Hecata:6
+2x Monica Giovanni               6  AUS FOR OBL  Hecata:6
+2x Gebeyehu Abdu                 5  AUS OBL for  Hecata:6
+2x Peter St. John                2  obl          Hecata:6
+
+Library (90 cards)
+Master (15; 4 trifle)
+1x Anarch Troublemaker
+1x Biotech Company Hunting Ground
+1x Cappadocian Crypt
+1x Dreams of the Sphinx
+1x Fame
+4x Family Gathering
+1x Fragment of the Book of Nod
+3x Perfectionist
+1x Powerbase: Montreal
+1x Powerbase: Munich
+
+Action (16)
+2x Psychophagia
+6x Shroud of Decay
+8x Split the Veil
+
+Ally (22)
+10x Rotting Behemoth
+12x Spectral Servitor
+
+Action Modifier (14)
+3x Shadow Cast
+3x Shadow Cloak
+5x Stygian Shroud
+3x Where the Veil Thins
+
+Reaction (15)
+1x Delaying Tactics
+6x Shadow Sentinel
+8x Telepathic Misdirection
+
+Combat (6)
+6x Trap
+
+Event (2)
+2x Unmasking, The

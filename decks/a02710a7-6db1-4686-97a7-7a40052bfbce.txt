@@ -1,0 +1,70 @@
+Valencia Bloody Christmas
+Valencia, Spain
+December 28th 2025
+2R+F
+17 players
+Jose Vte Coll
+https://archon.vekn.net/tournament/a02710a7-6db1-4686-97a7-7a40052bfbce/display.html
+
+Deck Name: 1 Act. - Gangrel Crew
+
+Crypt (12 cards, min=13, max=25, avg=5.08)
+------------------------------------------
+3x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (16; 4 trifle)
+1x Anarch Free Press, The
+1x Archon Investigation
+1x Carfax Abbey
+3x Club Illusion
+1x Direct Intervention
+1x Ecoterrorists
+1x Garibaldi-Meucci Museum
+1x Papillon
+1x Powerbase: Montreal
+4x Vessel
+1x Zoo Hunting Ground
+
+Action (13)
+1x New Management
+1x Rewilding
+11x Thing
+
+Equipment (6)
+3x Camera Phone
+1x Heart of Nizchetus
+1x Sniper Rifle
+1x Stolen Police Cruiser
+
+Retainer (4)
+1x Mr. Winthrop
+3x Raven Spy
+
+Action Modifier (5)
+3x Earth Control
+2x Monkey Wrench
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (23)
+5x Bait and Switch
+8x Deep Ecology
+2x Delaying Tactics
+8x Organized Resistance
+
+Combat (20)
+2x Canine Horde
+2x Donnybrook
+12x Earth Meld
+4x Form of Mist

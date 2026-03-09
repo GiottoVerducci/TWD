@@ -1,0 +1,77 @@
+Basagan ng Bungo 2025
+Metro Manila, Philippines
+November 29th 2025
+3R+F
+15 players
+Dante Gagelonia
+https://archon.vekn.net/tournament/0bbf344e-f63e-41bf-9b74-0fc82e91ae61/display.html
+
+-- 1GW3 + 1GW3.5 in final
+
+Deck Name: Saulot's Guidance Counselor
+
+Crypt (12 cards, min=17, max=30, avg=5.92)
+------------------------------------------
+2x Mora, the Death Seer  7  AUS FOR OBL ani      Hecata:6
+2x Sakhar                6  AUS FOR dom          Salubri:7
+2x Opikun                5  FOR aus dom          Salubri:7
+1x Abaddon               8  AUS DOM FOR cel pot  Salubri:7
+1x Seraphina             8  AUS DOM FOR cel tha  Salubri:7
+1x Aniel                 6  AUS DOM for          Salubri:7
+1x Castellan             6  AUS FOR cel dom      Salubri:7
+1x Yael                  4  aus dom for          Salubri:7
+1x Dominica              3  aus for              Salubri:7
+
+Library (80 cards)
+Master (18; 7 trifle)
+1x Channel 10
+2x Dominate
+1x Guardian Angel
+1x Information Highway
+1x Line, The
+1x Meditative Grove
+1x Retribution
+1x Saulot's Guiding Wisdom
+1x Saulot's Healing Touch
+1x Sight Beyond Sight
+1x Two Wrongs
+3x Vessel
+3x Villein
+
+Action (12)
+1x Anima Gathering
+2x Anonymous Freight
+1x Aranthebes, The Immortal
+8x Govern the Unaligned
+
+Action/Combat (6)
+6x Touch of Valeren
+
+Equipment (9)
+4x .44 Magnum
+1x Bowl of Convergence
+1x Gran Madre di Dio, Italy
+1x Heart of Nizchetus
+1x Sargon Fragment, The
+1x Sword of the Archangel
+
+Action Modifier (8)
+2x Forced Confessional
+4x Freak Drive
+2x Suppressing Fire
+
+Reaction (15)
+1x Delaying Tactics
+3x Eyes of Argus
+2x Fast Reaction
+3x Forced Vigilance
+2x Minor Irritation
+2x Obedience
+2x Telepathic Misdirection
+
+Combat (12)
+2x Autonomic Mastery
+4x Caseless Rounds
+2x Indomitability
+2x Magazine
+2x Unflinching Persistence

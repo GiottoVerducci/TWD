@@ -1,0 +1,50 @@
+Liga Chilanga "Jornada 6" (MX)
+Mexico City, Mexico
+2023-07-30
+3R+F
+9 players
+Winner:Alberto Ramirez León
+https://www.vekn.net/event-calendar/event/10870
+
+Deck Name: ¡Con los terroristas!
+Created by: mrleon
+Description:
+Basado en el preconstruido de V5
+
+Crypt (12 cards, min=20 max=29 avg=6.08)
+----------------------------------
+
+Library (78 cards)
+Master (15)
+1x Direct Intervention
+4x Haqim's Law: Retribution
+1x Khabar: Community, The
+2x Priority Contract
+1x Sudden Reversal
+1x Underworld Hunting Ground
+5x Villein
+Action (11)
+3x Flurry of Action
+3x Hunter's Mark
+3x Khabar: Glory
+2x Magic of the Smith
+Equipment (3)
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kevlar Vest
+Political Action (2)
+2x Anathema
+Action Modifier/Combat (6)
+3x Resist Earth's Grasp
+3x Swallowed by the Night
+Reaction (8)
+8x Second Tradition: Domain
+Combat (31)
+2x Blur
+15x Hunger of Marduk
+7x Pursuit
+5x Quickness
+2x Zip Gun
+Event (2)
+1x Narrow Minds
+1x Scourge of the Enochians

@@ -1,0 +1,51 @@
+Liga GL/PT 25/26 - Mercadia Sul
+Almada, Portugal
+2026-01-31
+3R+F
+22 players
+Eduardo Carona
+https://www.vekn.net/player-registry/event/12922
+
+Deck Name: Black Hand Rush
+
+Crypt (12 cards, min=27 max=40 avg=8.58)
+----------------------------------
+4x Karif al Numair  10  AUS CEL OBF QUI for  Banu Haqim:5
+2x Izhim abd Azrael  9  CEL OBF QUI THA pot  Banu Haqim:5
+2x Nizzam al-Latif  9  ANI CEL OBF QUI dem  Banu Haqim:5
+2x Joe "Boot" Hill  7  CEL QUI for obf  Banu Haqim:4
+1x Djuhah, The Bronze Bow  7  OBF QUI aus cel pre  Banu Haqim:5
+1x Reza Fatir, The Dark Angel  6  CEL QUI obf pro  Banu Haqim:4
+
+Library (90 cards)
+Master (23)
+2x Archon Investigation
+1x Fame
+8x Hand Contract
+2x Haqim's Law: Retribution
+1x Monster
+3x Priority Contract
+1x Shakar: the Hunt
+5x Villein
+Action (10)
+2x Loss
+6x Reunion Kamut
+2x Tattoo Signal
+Action Modifier (1)
+1x Enkil Cog
+Action Modifier/Reaction (1)
+1x Provision of the Silsila
+Reaction (9)
+4x Black Sunrise
+1x Delaying Tactics
+4x Truth in Ink
+Combat (46)
+9x Dam the Heart's River
+1x Fast Hands
+9x Pursuit
+8x Sanguine Entrapment
+3x Side Strike
+2x Sideslip
+1x Taste of Death
+4x Taste of Vitae
+9x Thin Blood

@@ -1,0 +1,60 @@
+Thessaloniki's Monthly Brawl
+Thessaloniki - Greece
+2024-12-14
+2R+F
+8 players
+Standard Constructed
+https://www.vekn.net/event-calendar/event/11909
+
+Deck Name: Worm Manse (Tzim V5)
+Created by: Kostas Grammadas
+
+Crypt (12 cards, min=21 max=31 avg=6.5)
+----------------------------------
+3x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+3x Ángel Guerrero  7  ANI DOM PRO  baron  Tzimisce:6
+2x Branimira  6  ANI dom pre pro  baron  Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom  Tzimisce:6
+1x Marialena  5  DOM PRO ani  Tzimisce:6
+1x Neserian  6  ANI DOM cel pro  Tzimisce:6
+1x Whisper  5  ANI DOM pro  Tzimisce:6
+
+Library (84 cards)
+Master (18)
+1x Archon Investigation
+3x British Museum, London, The
+1x Carfax Abbey
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Jake Washington
+1x Pentex(TM) Subversion
+1x Powerbase: Montreal
+1x Rack, The
+1x Rötschreck
+1x Sudden Reversal
+3x Villein
+Action (13)
+3x Deep Song
+10x Govern the Unaligned
+Equipment (10)
+3x Cooler
+1x Heart of Nizchetus
+6x Living Manse
+Action Modifier (8)
+3x Conditioning
+5x Earth Control
+Action Modifier/Combat (2)
+2x Obedient Flesh
+Action Modifier/Reaction (4)
+4x Form of the Bat
+Reaction (17)
+3x Bait and Switch
+4x Deflection
+2x Delaying Tactics
+4x One With the Land
+4x Organized Resistance
+Combat (12)
+3x Earth Meld
+4x Form of Mist
+5x Sculpt the Flesh

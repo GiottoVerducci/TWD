@@ -1,0 +1,53 @@
+Path of Death and the Soul Los Angeles
+Los Angeles (CA), USA
+2026-02-14
+2R+F
+14 players
+Karl Schaefer
+https://www.vekn.net/event-calendar/event/12826
+
+Deck Name: Diana's Demise
+
+Crypt (13 cards, min=30 max=43 avg=9)
+----------------------------------
+5x Anson  8  CEL PRE aus dom  prince  Toreador:1
+3x Alexandra  11  ANI AUS CEL PRE dom  inner circle  Toreador:2
+2x Anneke  10  AUS CEL PRE dom  justicar  Toreador:1
+1x François Villon  10  AUS CEL PRE chi obf pot  prince  Toreador:2
+1x Marcellus  8  AUS CEL pro  prince  Toreador:2 -- you don't want this guy early, vamp 3
+1x Victoria Ash  6  PRE aus cel dom  primogen  Toreador:2 -- cheap titled bouncer that can Fist and Cap at superior
+
+Library (82 cards)
+Master (32)
+6x Ashur Tablets
+2x Camarilla Conclave
+1x Direct Intervention
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Information Highway
+1x Monastery of Shadows
+1x Papillon
+1x Pentex(TM) Subversion -- still good
+1x Toreador Grand Ball -- in case of emergency, was useful in round 2
+6x Villein
+1x Wider View
+9x Zillah's Valley
+Political Action (17)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+3x Banishment
+6x Camarilla's Iron Fist
+4x Parity Shift
+1x Political Stranglehold -- less valuable post-Sabbat, still necessary
+Action Modifier (16)
+5x Loup
+5x Perfect Paragon
+6x Voter Captivation
+Action Modifier/Combat (4)
+4x Resist Earth's Grasp
+Reaction (7)
+5x Deflection -- seemed like enough today, better than AUS, which Anson cannot use
+2x On the Qui Vive -- could possibly be removed only used one for wake-and-bounce
+Combat (6)
+6x Majesty -- could possibly add 1-2 more copies depending the meta

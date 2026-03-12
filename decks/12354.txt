@@ -31,8 +31,6 @@ Crypt (12 cards, min=22, max=32, avg=6.92)
 1x Marlene, The Infernalist   6  AUS DOM dem for tha              Ventrue antitribu:2
 1x Ingrid Russo               4  DOM for                          Ventrue antitribu:2
 
-Err:510
-
 Library (90 cards)
 Master (16; 8 trifle)
 1x Channel 10

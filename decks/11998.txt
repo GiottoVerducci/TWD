@@ -1,0 +1,67 @@
+Thessaloniki's Monthly Brawl
+Thessaloniki - Greece
+January 18th 2025
+2R+F
+8 players
+Standard Constructed
+https://www.vekn.net/event-calendar/event/11998
+
+Deck Name: Bell's Gang
+Created by: Babis Giannios
+
+Crypt (12 cards, min=19 max=31 avg=6.42)
+----------------------------------------
+2x Aline Gädeke                    7 POT PRE cel           baron      Brujah:6
+2x Atiena                          6 CEL obf pot pre       baron      Brujah:6
+2x Theo Bell                       8 CEL POT PRE aus dom              Brujah:6
+1x Ariane                          3 cel pot pre                      Brujah:5
+1x Chun Hei                        7 CEL POT PRE                      Brujah:6
+1x Elen Kamjian                    4 CEL POT                          Brujah:6
+1x Octane                          6 CEL POT PRE                      Brujah:6
+1x Saku Pihlajamäki                8 CEL POT PRE for pro   baron      Brujah:6
+1x Valeriya Zinovieva              7 POT cel pre pro       baron      Brujah:6
+
+Library (90 cards)
+------------------
+Master (15)
+1x Anarch Free Press, The
+1x Carfax Abbey
+1x Dummy Corporation
+1x Fame
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Haven Uncovered
+1x Rumor Mill, Tabloid Newspaper, The
+1x Tension in the Ranks
+4x Vessel
+1x Warzone Hunting Ground
+
+Action (15)
+3x Illegalism
+7x Line Brawl
+3x Make the Misere
+2x Show of Force
+
+Political Action (2)
+2x Eat the Rich
+
+Ally (1)
+1x 47th Street Royals
+
+Equipment (1)
+1x Stolen Police Cruiser
+
+Reaction (12)
+4x Bait and Switch
+8x Organized Resistance
+
+Combat (44)
+2x Blur
+3x Bollix
+5x Dust Up
+7x Immortal Grapple
+5x Pursuit
+6x Quickness
+3x Roundhouse
+6x Taste of Vitae
+7x Torn Signpost

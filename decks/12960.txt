@@ -1,0 +1,69 @@
+1º Fortaleza V5
+Fortaleza - Ceará - Brazil
+February 8th 2026
+2R+F
+16 players
+Valdemir Santos
+https://www.vekn.net/event-calendar/event/12960
+
+Deck Name: Shadow of Deth
+Created by: Valdemir
+
+Crypt (12 cards, min=25 max=36 avg=7.58)
+----------------------------------------
+4x Gnaeus Aemilius Augustinus      9 DOM OBL POT PRO tha   prince     Lasombra:6
+2x Yewon Ong                       8 DOM OBL POT for       prince     Lasombra:6
+3x María del Toro                  7 DOM OBL POT           prince     Lasombra:6
+1x Rinaldo Albizzi                 7 DOM OBL POT pre       primogen   Lasombra:6
+1x Kamaluddin                      6 DOM OBL for pot       primogen   Lasombra:6
+1x Azucena                         5 DOM OBL pot                      Lasombra:6
+
+Library (90 cards)
+------------------
+Master (12)
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Elysium: The Palace of Versailles
+1x Political Hunting Ground
+1x Power Structure
+1x Sudden Reversal
+3x Villein
+1x Wider View
+
+Action (8)
+7x Govern the Unaligned
+1x Puppet Master
+
+Political Action (15)
+2x Ancilla Empowerment
+1x Banishment
+3x Camarilla's Iron Fist
+1x Expulsion
+3x Kine Resources Contested
+4x Parity Shift
+
+Ally (3)
+3x Spectral Servitor
+
+Action Modifier (28)
+4x Amici Noctis
+2x Closed Session
+3x Consign to Oblivion
+3x Seduction
+4x Shadow Cast
+4x Shadow Cloak
+4x Stygian Shroud
+4x Where the Veil Thins
+
+Action Modifier/Reaction (4)
+4x Ominous Chorus
+
+Reaction (12)
+6x Deflection
+3x On the Qui Vive
+3x Second Tradition: Domain
+
+Combat (7)
+5x Pass Through Shadow
+2x Touch of Oblivion

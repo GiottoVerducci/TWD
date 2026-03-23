@@ -1,0 +1,66 @@
+Path of Elysian Choruses
+Stockholm, Sweden
+March 15th 2026
+3R+F
+15 players
+Ivan Marin-Rivas
+https://www.vekn.net/event-calendar/event/13093
+
+Deck Name: Ickypicky
+
+Crypt (12 cards, min=23 max=34 avg=7.17)
+----------------------------------------
+2x Gnaeus Aemilius Augustinus      9 DOM OBL POT PRO tha   prince     Lasombra:6
+2x María del Toro                  7 DOM OBL POT           prince     Lasombra:6
+2x Yewon Ong                       8 DOM OBL POT for       prince     Lasombra:6
+1x Aintzane Arriaga                6 DOM OBL POT                      Lasombra:6
+1x Azucena                         5 DOM OBL pot                      Lasombra:6
+1x Dafina Hanganu                  8 DOM OBL POT for       prince     Lasombra:6
+1x Kamaluddin                      6 DOM OBL for pot       primogen   Lasombra:6
+1x Rasha Tarabzouni                6 DOM POT obl pre       bishop     Lasombra:6
+1x Rinaldo Albizzi                 7 DOM OBL POT pre       primogen   Lasombra:6
+
+Library (84 cards)
+------------------
+Master (13)
+4x Cavalier
+1x Coven, The
+1x Elysian Fields
+1x Giant's Blood
+1x Jake Washington
+1x Line, The
+1x Pentex(TM) Subversion
+1x Power Structure
+2x Wider View
+
+Action (11)
+8x Govern the Unaligned
+1x Scouting Mission
+2x Shroud of Decay
+
+Political Action (9)
+3x Camarilla's Iron Fist
+6x Parity Shift
+
+Ally (10)
+10x Spectral Servitor
+
+Action Modifier (25)
+2x Amici Noctis
+2x Bonding
+4x Conditioning
+2x Foreshadowing Destruction
+3x Shadow Cast
+4x Shadow Cloak
+3x Stygian Shroud
+5x Where the Veil Thins
+
+Action Modifier/Reaction (2)
+2x Ominous Chorus
+
+Reaction (10)
+6x Deflection
+4x Shadow Sentinel
+
+Combat (4)
+4x Pass Through Shadow

@@ -1,0 +1,47 @@
+Torneio Petropolitano 2ed
+Petropolis, Brazil
+December 8th 2024
+2R+F
+14 players
+Daniel Motta
+https://www.vekn.net/event-calendar/event/11881
+
+Deck Name: Tzimisce Tetê [by Daniel Motta]
+
+Crypt (12 cards, min=16 max=32 avg=6.42)
+----------------------------------------
+3x Meshenka                        8 ANI AUS VIC           priscus    Tzimisce:2
+3x Dragos                          7 ANI AUS vic                      Tzimisce:2
+1x Lolita Houston                  4 VIC aus                          Tzimisce:2
+1x Terrence                        4 vic aus ani                      Tzimisce:2
+
+Library (90 cards)
+------------------
+Master (21)
+1x Fame
+1x Library Hunting Ground
+1x Millicent Smith, Puritan Vampire Hunter
+1x Path of Metamorphosis, The
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+
+Equipment (3)
+1x Palatial Estate
+1x Under Siege
+1x bowl of comvergence
+
+Reaction (34)
+4x Cats' Guidance
+8x Eagle's Sight
+1x Precognition
+6x Telepathic Misdirection
+
+Combat (32)
+6x Breath of the Dragon
+8x Chiropteran Marauder
+2x Meld with the Land
+2x Inner Essence
+
+Event (1)
+1x Dragonbound

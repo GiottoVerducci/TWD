@@ -10,12 +10,12 @@ Deck Name: The Return of the Queen
 
 Crypt (12 cards, min=36 max=44 avg=10.08)
 ----------------------------------------
-5x Stanislava                      11 ANI CEL DOM FOR PRO   Inner CircleGangrel:2
+5x Stanislava                      11 ANI CEL DOM FOR PRO   Inner Circle Gangrel:2
 2x Hartmut Stover                  10 dom for CEL OBF PRO   Archbishop Gangrel antitribu:3
 1x Genevieve                       10 aus dom ANI FOR PRO   Priscus    Gangrel antitribu:2
-1x Xaviar (ADV)                    10 aus cel pot ABO ANI FOR PROJusticar   Gangrel:3
-2x Ingrid Rossler                  9 dom ANI FOR PRO       Prince     Gangrel:2
-1x Mark Decker                     8 ani for obf pot CEL PROPrince     Gangrel:3
+1x Xaviar (ADV)                    10 aus cel pot ABO ANI FOR PRO Justicar   Gangrel:3
+2x Ingrid Rossler                   9 dom ANI FOR PRO       Prince     Gangrel:2
+1x Mark Decker                      8 ani for obf pot CEL PRO Prince     Gangrel:3
 
 Library (90 cards)
 ------------------

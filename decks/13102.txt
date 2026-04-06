@@ -12,13 +12,13 @@ Za turnir BG, 21.03.2026.
 
 Crypt (12 cards, min=15 max=35 avg=6.83)
 ----------------------------------------
-3x Diana Iadanza                   9 AUS CEL FOR PRE       Justicar   Toreador:7
-3x Modius                          8 obf AUS CEL PRE       Prince     Toreador:7
-2x Marcos Belegrad                 8 ani AUS CEL PRE       Prince     Toreador:7
-1x Catalina Vega                   8 for AUS CEL PRE       Prince     Toreador:6
-1x Kazuki Hanabira                 2 aus                              Toreador:7
-1x Mateo García                    2 pre                              Toreador:6
-1x Valentina Osako                 3 PRE                              Toreador:7
+3x Diana Iadanza                    9 AUS CEL FOR PRE       Justicar   Toreador:7
+3x Modius                           8 obf AUS CEL PRE       Prince     Toreador:7
+2x Marcos Belegrad                  8 ani AUS CEL PRE       Prince     Toreador:7
+1x Catalina Vega                    8 for AUS CEL PRE       Prince     Toreador:6
+1x Kazuki Hanabira                  2 aus                              Toreador:7
+1x Mateo García                     2 pre                              Toreador:6
+1x Valentina Osako                  3 PRE                              Toreador:7
 
 Library (89 cards)
 ------------------

@@ -12,14 +12,14 @@ Servitor Swarm with Path of Death & Soul basis for more bleed.
 
 Crypt (12 cards, min=13 max=27 avg=5)
 ----------------------------------------
-2x Sakura, The Merciless           7 aus pot DOM OBL THA              Lasombra:6
-1x Parijat, the Dark Oracle        7 AUS DOM FOR OBL                  Hecata:6
-2x Aitana, The Unholy              6 for tha AUS OBL                  Hecata:6
-1x Azucena                         5 pot DOM OBL                      Lasombra:6
-1x Zbigniew, Hunter of Mekhet      5 aus dom tha OBL                  Lasombra:6
-3x El Monseñor                     4 dom OBL                          Lasombra:6
-1x Alek König                      3 OBL                              Hecata:6
-1x Peter St. John                  2 obl                              Hecata:6
+2x Sakura, The Merciless            7 aus pot DOM OBL THA              Lasombra:6
+1x Parijat, the Dark Oracle         7 AUS DOM FOR OBL                  Hecata:6
+2x Aitana, The Unholy               6 for tha AUS OBL                  Hecata:6
+1x Azucena                          5 pot DOM OBL                      Lasombra:6
+1x Zbigniew, Hunter of Mekhet       5 aus dom tha OBL                  Lasombra:6
+3x El Monseñor                      4 dom OBL                          Lasombra:6
+1x Alek König                       3 OBL                              Hecata:6
+1x Peter St. John                   2 obl                              Hecata:6
 
 Library (90 cards)
 ------------------

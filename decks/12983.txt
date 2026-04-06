@@ -10,15 +10,15 @@ Deck Name: Power Punch Girls
 
 Crypt (12 cards, min=11 max=27 avg=5)
 ----------------------------------------
-2x Aline Gädeke                    7 cel POT PRE           Baron      Brujah:6
-1x Valeriya Zinovieva              7 cel pre pro POT       Baron      Brujah:6
-2x Atiena                          6 obf pot pre CEL       Baron      Brujah:6
-2x Leumeah                         6 cel for pot PRE       Baron      Brujah:6
-1x Elen Kamjian                    4 CEL POT                          Brujah:6
-1x Anita Wainwright                3 cel pre                          Brujah:6
-1x Ariane                          3 cel pot pre                      Brujah:5
-1x Laura Goldman                   3 cel pre                          Brujah:5
-1x Rayne                           2 pot                              Brujah:6
+2x Aline Gädeke                     7 cel POT PRE           Baron      Brujah:6
+1x Valeriya Zinovieva               7 cel pre pro POT       Baron      Brujah:6
+2x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
+2x Leumeah                          6 cel for pot PRE       Baron      Brujah:6
+1x Elen Kamjian                     4 CEL POT                          Brujah:6
+1x Anita Wainwright                 3 cel pre                          Brujah:6
+1x Ariane                           3 cel pot pre                      Brujah:5
+1x Laura Goldman                    3 cel pre                          Brujah:5
+1x Rayne                            2 pot                              Brujah:6
 
 Library (80 cards)
 ------------------

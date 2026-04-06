@@ -12,13 +12,13 @@ Created by: Nanogoloso
 Crypt (12 cards, min=20 max=37 avg=7.17)
 ----------------------------------------
 1x Karl Schrekt                    10 AUS DOM FOR PRE THA   2 votes    Tremere:6
-4x Ian Carfax                      9 for pro AUS DOM THA   Justicar   Tremere:7
-2x Ayelech                         7 AUS DOM THA           Prince     Tremere:6
-1x Inês Tristão                    6 aus dom pre THA       Prince     Tremere:6
-1x Trevon Parker                   6 AUS DOM THA                      Tremere:6
-1x Chrysanthemum                   5 dom AUS THA           Primogen   Tremere:6
-1x Patrik Söderberg                5 dom for tha AUS                  Tremere:6
-1x Ayse Dhanial                    4 aus dom tha                      Tremere:6
+4x Ian Carfax                       9 for pro AUS DOM THA   Justicar   Tremere:7
+2x Ayelech                          7 AUS DOM THA           Prince     Tremere:6
+1x Inês Tristão                     6 aus dom pre THA       Prince     Tremere:6
+1x Trevon Parker                    6 AUS DOM THA                      Tremere:6
+1x Chrysanthemum                    5 dom AUS THA           Primogen   Tremere:6
+1x Patrik Söderberg                 5 dom for tha AUS                  Tremere:6
+1x Ayse Dhanial                     4 aus dom tha                      Tremere:6
 
 Library (86 cards)
 ------------------

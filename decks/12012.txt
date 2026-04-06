@@ -11,13 +11,13 @@ Created by: NekrÃ³s
 
 Crypt (12 cards, min=21 max=32 avg=6.58)
 ----------------------------------------
-2x Abaddon                         8 cel pot AUS DOM FOR              Salubri:7
-2x Seraphina                       8 cel tha AUS DOM FOR              Salubri:7
-2x Ilonka                          7 tha AUS DOM FOR                  Salubri:7
-2x Aniel                           6 for AUS DOM                      Salubri:7
-2x Malachi                         6 AUS DOM FOR                      Salubri:7
-1x Opikun                          5 aus dom FOR                      Salubri:7
-1x Yael                            4 aus dom for                      Salubri:7
+2x Abaddon                          8 cel pot AUS DOM FOR              Salubri:7
+2x Seraphina                        8 cel tha AUS DOM FOR              Salubri:7
+2x Ilonka                           7 tha AUS DOM FOR                  Salubri:7
+2x Aniel                            6 for AUS DOM                      Salubri:7
+2x Malachi                          6 AUS DOM FOR                      Salubri:7
+1x Opikun                           5 aus dom FOR                      Salubri:7
+1x Yael                             4 aus dom for                      Salubri:7
 
 Library (70 cards)
 ------------------

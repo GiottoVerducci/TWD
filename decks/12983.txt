@@ -1,0 +1,63 @@
+Elysium: LeiriaCon
+Vieira de Leiria, Portugal
+March 29th 2026
+2R+F
+23 players
+Hugo Coelho
+https://www.vekn.net/event-calendar/event/12983
+
+Deck Name: Power Punch Girls
+
+Crypt (12 cards, min=11 max=27 avg=5)
+----------------------------------------
+2x Aline Gädeke                    7 cel POT PRE           Baron      Brujah:6
+1x Valeriya Zinovieva              7 cel pre pro POT       Baron      Brujah:6
+2x Atiena                          6 obf pot pre CEL       Baron      Brujah:6
+2x Leumeah                         6 cel for pot PRE       Baron      Brujah:6
+1x Elen Kamjian                    4 CEL POT                          Brujah:6
+1x Anita Wainwright                3 cel pre                          Brujah:6
+1x Ariane                          3 cel pot pre                      Brujah:5
+1x Laura Goldman                   3 cel pre                          Brujah:5
+1x Rayne                           2 pot                              Brujah:6
+
+Library (80 cards)
+------------------
+Master (38)
+1x Anarch Free Press, The
+1x Archon Investigation
+9x Ashur Tablets
+6x Brujah Debate
+1x Carfax Abbey
+1x Club Illusion
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Papillon
+4x Parthenon, The
+1x Poacher's Hunting Ground
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Rack, The
+1x Smiling Jack, The Anarch
+4x Vessel
+2x Villein
+1x Wash
+
+Action (5)
+4x Line Brawl
+1x Open War
+
+Action Modifier (1)
+1x Monkey Wrench
+
+Reaction (20)
+6x Bait and Switch
+13x Organized Resistance
+1x Protection Racket
+
+Combat (15)
+3x Bollix
+2x Disarm
+10x Dust Up
+
+Event (1)
+1x NSA Trio

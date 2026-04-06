@@ -10,13 +10,13 @@ Deck Name: Salubri Rush
 
 Crypt (12 cards, min=23 max=31 avg=6.75)
 ----------------------------------------
-3x Abaddon                         8 cel pot AUS DOM FOR              Salubri:7
-3x Barachiel                       7 ani AUS DOM FOR                  Salubri:7
-1x Ilonka                          7 tha AUS DOM FOR                  Salubri:7
-2x Malachi                         6 AUS DOM FOR                      Salubri:7
-1x Aniel                           6 for AUS DOM                      Salubri:7
-1x Sakhar                          6 dom AUS FOR                      Salubri:7
-1x Opikun                          5 aus dom FOR                      Salubri:7
+3x Abaddon                          8 cel pot AUS DOM FOR              Salubri:7
+3x Barachiel                        7 ani AUS DOM FOR                  Salubri:7
+1x Ilonka                           7 tha AUS DOM FOR                  Salubri:7
+2x Malachi                          6 AUS DOM FOR                      Salubri:7
+1x Aniel                            6 for AUS DOM                      Salubri:7
+1x Sakhar                           6 dom AUS FOR                      Salubri:7
+1x Opikun                           5 aus dom FOR                      Salubri:7
 
 Library (90 cards)
 ------------------

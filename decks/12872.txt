@@ -11,12 +11,12 @@ Deck Name: New path of emerald legionnaire
 Crypt (12 cards, min=22 max=40 avg=7.5)
 ----------------------------------------
 4x Erlik                           10 AUS CEL FOR NEC THN              Harbinger of Skulls:3
-3x Babalawo Alafin                 7 ani AUS FOR NEC                  Harbinger of Skulls:4
-1x Erebus                          7 dem AUS FOR NEC                  Harbinger of Skulls:3
-1x Mina Grotius                    6 cel FOR NEC                      Harbinger of Skulls:3
-1x Zygodat                         6 pot AUS NEC                      Harbinger of Skulls:4
-1x Nicomedes                       5 aus for nec vic                  Harbinger of Skulls:4
-1x Solomon Batanea                 5 nec AUS FOR                      Harbinger of Skulls:4
+3x Babalawo Alafin                  7 ani AUS FOR NEC                  Harbinger of Skulls:4
+1x Erebus                           7 dem AUS FOR NEC                  Harbinger of Skulls:3
+1x Mina Grotius                     6 cel FOR NEC                      Harbinger of Skulls:3
+1x Zygodat                          6 pot AUS NEC                      Harbinger of Skulls:4
+1x Nicomedes                        5 aus for nec vic                  Harbinger of Skulls:4
+1x Solomon Batanea                  5 nec AUS FOR                      Harbinger of Skulls:4
 
 Library (90 cards)
 ------------------

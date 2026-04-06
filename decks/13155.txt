@@ -9,12 +9,12 @@ https://www.vekn.net/event-calendar/event/13155
 
 Crypt (13 cards, min=24 max=28 avg=6.31)
 ----------------------------------------
-5x Arishat                         6 DAI OBF PRE           1 vote     Baali:6
-2x Vivian VI                       7 obf tha PRE PRO       Baron      Ministry:6
-2x Elisha Tucker                   6 cel obf pro PRE       Baron      Ministry:6
-2x Jacques Rouge                   6 ani pot pre OBF       Baron      Nosferatu:6
-1x Sergio Bueno                    8 aus pot OBF PRE PRO   Baron      Ministry:6
-1x Atiena                          6 obf pot pre CEL       Baron      Brujah:6
+5x Arishat                          6 DAI OBF PRE           1 vote     Baali:6
+2x Vivian VI                        7 obf tha PRE PRO       Baron      Ministry:6
+2x Elisha Tucker                    6 cel obf pro PRE       Baron      Ministry:6
+2x Jacques Rouge                    6 ani pot pre OBF       Baron      Nosferatu:6
+1x Sergio Bueno                     8 aus pot OBF PRE PRO   Baron      Ministry:6
+1x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
 
 Library (82 cards)
 ------------------

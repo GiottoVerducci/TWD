@@ -10,11 +10,11 @@ Deck Name: Malkavian Pols
 
 Crypt (12 cards, min=25 max=36 avg=7.67)
 ----------------------------------------
-4x Juliet Parr                     9 cel pot AUS DOM OBF   Justicar   Malkavian:7
-3x Alexander Silverson             8 pre AUS DOM OBF       Prince     Malkavian:6
-2x Jason "Son" Newberry            7 pre AUS DOM OBF       Primogen   Malkavian:6
-2x Andi Liu                        6 aus obf pre DOM       Prince     Malkavian:6
-1x Donny Kowalczyk                 6 cel dom obf AUS       Prince     Malkavian:6
+4x Juliet Parr                      9 cel pot AUS DOM OBF   Justicar   Malkavian:7
+3x Alexander Silverson              8 pre AUS DOM OBF       Prince     Malkavian:6
+2x Jason "Son" Newberry             7 pre AUS DOM OBF       Primogen   Malkavian:6
+2x Andi Liu                         6 aus obf pre DOM       Prince     Malkavian:6
+1x Donny Kowalczyk                  6 cel dom obf AUS       Prince     Malkavian:6
 
 Library (90 cards)
 ------------------

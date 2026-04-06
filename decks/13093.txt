@@ -10,15 +10,15 @@ Deck Name: Ickypicky
 
 Crypt (12 cards, min=23 max=34 avg=7.17)
 ----------------------------------------
-2x Gnaeus Aemilius Augustinus      9 tha DOM OBL POT PRO   Prince     Lasombra:6
-2x María del Toro                  7 DOM OBL POT           Prince     Lasombra:6
-2x Yewon Ong                       8 for DOM OBL POT       Prince     Lasombra:6
-1x Aintzane Arriaga                6 DOM OBL POT                      Lasombra:6
-1x Azucena                         5 pot DOM OBL                      Lasombra:6
-1x Dafina Hanganu                  8 for DOM OBL POT       Prince     Lasombra:6
-1x Kamaluddin                      6 for pot DOM OBL       Primogen   Lasombra:6
-1x Rasha Tarabzouni                6 obl pre DOM POT       Bishop     Lasombra:6
-1x Rinaldo Albizzi                 7 pre DOM OBL POT       Primogen   Lasombra:6
+2x Gnaeus Aemilius Augustinus       9 tha DOM OBL POT PRO   Prince     Lasombra:6
+2x María del Toro                   7 DOM OBL POT           Prince     Lasombra:6
+2x Yewon Ong                        8 for DOM OBL POT       Prince     Lasombra:6
+1x Aintzane Arriaga                 6 DOM OBL POT                      Lasombra:6
+1x Azucena                          5 pot DOM OBL                      Lasombra:6
+1x Dafina Hanganu                   8 for DOM OBL POT       Prince     Lasombra:6
+1x Kamaluddin                       6 for pot DOM OBL       Primogen   Lasombra:6
+1x Rasha Tarabzouni                 6 obl pre DOM POT       Bishop     Lasombra:6
+1x Rinaldo Albizzi                  7 pre DOM OBL POT       Primogen   Lasombra:6
 
 Library (84 cards)
 ------------------

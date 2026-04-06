@@ -12,15 +12,15 @@ Deck inspired by Marko Saari
 
 Crypt (12 cards, min=24 max=32 avg=7.08)
 ----------------------------------------
-3x Sergio Bueno                    8 aus pot OBF PRE PRO   Baron      Ministry:6
-1x Adrino Manauara                 8 pot ANI DOM PRO       Baron      Tzimisce:6
-1x Saku Pihlajamäki                8 for pro CEL POT PRE   Baron      Brujah:6
-2x Vivian VI                       7 obf tha PRE PRO       Baron      Ministry:6
-1x Ángel Guerrero                  7 ANI DOM PRO           Baron      Tzimisce:6
-1x Branimira                       6 dom pre pro ANI       Baron      Tzimisce:6
-1x Casey Snyder                    6 ani cel for PRO       Baron      Gangrel:6
-1x Elisha Tucker                   6 cel obf pro PRE       Baron      Ministry:6
-1x Kuyén                           6 ANI PRO               Baron      Gangrel:6
+3x Sergio Bueno                     8 aus pot OBF PRE PRO   Baron      Ministry:6
+1x Adrino Manauara                  8 pot ANI DOM PRO       Baron      Tzimisce:6
+1x Saku Pihlajamäki                 8 for pro CEL POT PRE   Baron      Brujah:6
+2x Vivian VI                        7 obf tha PRE PRO       Baron      Ministry:6
+1x Ángel Guerrero                   7 ANI DOM PRO           Baron      Tzimisce:6
+1x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
+1x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
+1x Elisha Tucker                    6 cel obf pro PRE       Baron      Ministry:6
+1x Kuyén                            6 ANI PRO               Baron      Gangrel:6
 
 Library (90 cards)
 ------------------

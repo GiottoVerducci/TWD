@@ -12,11 +12,11 @@ Inspired by Richard Stefan Utner
 
 Crypt (12 cards, min=34 max=44 avg=9.83)
 ----------------------------------------
-5x Capuchin, The                   11 AUS DOM FOR NEC THA THN           Harbinger of Skulls:5
-1x Gabrielle di Righetti           10 obf pot ANI AUS DOM THAJusticar   Tremere:5
+5x Capuchin, The                   11 AUS DOM FOR NEC THA THN            Harbinger of Skulls:5
+1x Gabrielle di Righetti           10 obf pot ANI AUS DOM THA Justicar   Tremere:5
 1x Karl Schrekt                    10 AUS DOM FOR PRE THA   2 votes    Tremere:6
-3x Gerald Windham                  9 AUS DOM FOR THA                  Tremere:5
-2x Abraham Mellon                  8 for tha AUS DOM OBF              Malkavian:6
+3x Gerald Windham                   9 AUS DOM FOR THA                  Tremere:5
+2x Abraham Mellon                   8 for tha AUS DOM OBF              Malkavian:6
 
 Library (85 cards)
 ------------------

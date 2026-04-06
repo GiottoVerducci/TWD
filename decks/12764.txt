@@ -1,0 +1,75 @@
+Lithuanian National Championship 2026
+Vilnius, Lithuania
+February 28th 2026
+3R+F
+42 players
+Povilas Zinkevicius
+https://www.vekn.net/event-calendar/event/12764
+
+Deck Name: IT’S A F***ING TOOLBOX
+Created by: Gildor
+
+Crypt (12 cards, min=19 max=36 avg=7.25)
+----------------------------------------
+5x Guillaume Giovanni               9 obt CEL DOM NEC POT              Giovanni:4
+2x Baldesar Rossellini              8 aus for nec DOM POT              Giovanni:4
+1x Don Michael Antonio Giovanni     7 DOM NEC POT           2 votes    Giovanni:4
+1x Accorri Giovanni                 6 ani nec DOM POT                  Giovanni:5
+1x Donatello Giovanni               5 aus pot pre DOM                  Giovanni:4
+1x Gianmaria Giovanni               5 dom nec obt POT                  Giovanni:5
+1x Almodo Giovanni                  3 dom pot                          Giovanni:4
+
+Library (90 cards)
+------------------
+Master (20)
+3x British Museum, London, The
+1x Carver's Meat Packing and Storage
+1x Centralized Background Check
+1x Direct Intervention
+1x Elder Library
+1x Filchware's Pawn Shop
+1x Information Highway
+1x Metro Underground
+1x Monastery of Shadows
+1x Morgue Hunting Ground
+1x Powerbase: Cape Verde
+1x Secure Haven
+2x Vessel
+4x Villein
+
+Action (18)
+5x Bum's Rush
+1x Far Mastery
+9x Govern the Unaligned
+1x Graverobbing
+2x Sudario Refraction
+
+Ally (3)
+1x Gianna di Canneto
+1x Giulia Giovanni Abruzzina
+1x Mylan Horseed
+
+Equipment (10)
+5x Flak Jacket
+1x Gran Madre di Dio, Italy
+2x Kevlar Vest
+1x Palatial Estate
+1x Ruins of Villers Abbey, Belgium
+
+Reaction (8)
+6x Deflection
+1x Delaying Tactics
+1x Redirection
+
+Combat (30)
+2x Earthshock
+6x Immortal Grapple
+2x Pursuit
+6x Roundhouse
+1x Slam
+4x Spiritual Guidance
+4x Taste of Vitae
+5x Torn Signpost
+
+Event (1)
+1x NRA PAC

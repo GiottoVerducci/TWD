@@ -1,0 +1,69 @@
+Lapos Test Match
+Vac, Hungary
+October 4th 2025
+3R+F
+12 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/12635
+
+Deck Name: The Return of the Queen
+
+Crypt (12 cards, min=36 max=44 avg=10.08)
+----------------------------------------
+5x Stanislava                      11 ANI CEL DOM FOR PRO   Inner Circle Gangrel:2
+2x Hartmut Stover                  10 dom for CEL OBF PRO   Archbishop Gangrel antitribu:3
+1x Genevieve                       10 aus dom ANI FOR PRO   Priscus    Gangrel antitribu:2
+1x Xaviar (ADV)                    10 aus cel pot ABO ANI FOR PRO Justicar   Gangrel:3
+2x Ingrid Rossler                   9 dom ANI FOR PRO       Prince     Gangrel:2
+1x Mark Decker                      8 ani for obf pot CEL PRO Prince     Gangrel:3
+
+Library (90 cards)
+------------------
+Master (22)
+2x Backways
+1x Camarilla Conclave
+3x Direct Intervention
+3x Dreams of the Sphinx
+1x Elder Library
+1x Giant's Blood
+2x Monastery of Shadows
+2x Papillon
+1x Secure Haven
+6x Villein
+
+Action (8)
+8x Govern the Unaligned
+
+Political Action (10)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+4x Banishment
+1x Camarilla's Iron Fist
+1x Political Stranglehold
+1x Reins of Power
+
+Equipment (2)
+2x Heart of Nizchetus
+
+Action Modifier (20)
+2x Conditioning
+4x Earth Control
+2x Enkil Cog
+6x Forced March
+6x Instantaneous Transformation
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (5)
+2x Form of the Bat
+3x Murmur of the False Will
+
+Reaction (9)
+7x Deflection
+2x Sense the Savage Way
+
+Combat (12)
+4x Earth Meld
+8x Form of Mist

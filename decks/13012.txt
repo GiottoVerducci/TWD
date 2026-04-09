@@ -1,0 +1,70 @@
+3rd Road to Pulled Fang #15
+Lichnov, Czech Republic
+February 14th 2026
+3R+F
+16 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/13012
+
+-- 2GW8 + 4vp in final
+
+Deck Name: The Evil Marko Experience
+Description: Deck inspired by Marko Saari
+
+Crypt (12 cards, min=24, max=32, avg=7.08)
+------------------------------------------
+3x Sergio Bueno      8  OBF PRE PRO aus pot  baron  Follower of Set:6
+2x Vivian VI         7  PRE PRO obf tha      baron  Follower of Set:6
+1x Adrino Manauara   8  ANI DOM PRO pot      baron  Tzimisce:6
+1x Saku Pihlajamäki  8  CEL POT PRE for pro  baron  Brujah:6
+1x Ángel Guerrero    7  ANI DOM PRO          baron  Tzimisce:6
+1x Branimira         6  ANI dom pre pro      baron  Tzimisce:6
+1x Casey Snyder      6  PRO ani cel for      baron  Gangrel:6
+1x Elisha Tucker     6  PRE cel obf pro      baron  Follower of Set:6
+1x Kuyén             6  ANI PRO              baron  Gangrel:6
+
+Library (90 cards)
+Master (22; 7 trifle)
+1x Anarch Railroad
+2x Carfax Abbey
+2x Club Illusion
+1x Coven, The
+1x Dark Influences
+1x Ferraille
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Monastery of Shadows
+1x Opium Den
+2x Papillon
+1x Powerbase: Los Angeles
+6x Villein
+
+Action (6)
+6x Chameleon
+
+Equipment (3)
+2x Heart of Nizchetus
+1x Sport Bike
+
+Political Action (8)
+6x Banishment
+2x Revolutionary Council
+
+Retainer (3)
+2x Crypt's Sons
+1x Mr. Winthrop
+
+Action Modifier (4)
+2x Earth Control
+2x Monkey Wrench
+
+Action Modifier/Reaction (6)
+6x Form of the Bat
+
+Reaction (22)
+10x Bait and Switch
+12x Organized Resistance
+
+Combat (16)
+10x Earth Meld
+6x Form of Mist

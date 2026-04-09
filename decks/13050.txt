@@ -1,0 +1,61 @@
+On The Qui Vive
+Campina Grande (PB), Brazil
+March 22nd 2026
+2R+F
+12 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/13050
+
+-- 1GW5 + 3vp in final
+
+Deck Name: HECATA FULL DAMAGE
+Crypt (12 cards, min=12, max=27, avg=5)
+---------------------------------------
+1x Mora, the Death Seer          7  AUS FOR OBL ani             Hecata:6
+1x Parijat, the Dark Oracle      7  AUS DOM FOR OBL             Hecata:6
+1x Tommaso Sforza                7  AUS OBL THA dom for         Hecata:6
+1x Aitana, The Unholy            6  AUS OBL for tha      Death  Hecata:6
+1x Lenelle, Mambo of Birmingham  6  FOR OBL aus                 Hecata:6
+1x Monica Giovanni               6  AUS FOR OBL                 Hecata:6
+1x Gebeyehu Abdu                 5  AUS OBL for                 Hecata:6
+1x El Monseñor                   4  OBL dom              Death  Lasombra:6
+1x Hiromitsu Asano               4  aus for obl                 Hecata:6
+1x Alek König                    3  OBL                         Hecata:6
+1x Nadezhda                      3  aus obl              Death  Hecata:6
+1x Peter St. John                2  obl                         Hecata:6
+
+Library (90 cards)
+Master (14; 7 trifle)
+1x Cappadocian Crypt
+1x Charisma
+1x Direct Intervention
+4x Family Gathering
+1x Jake Washington
+2x Pentex(TM) Subversion
+1x Perfectionist
+3x Villein
+
+Action (12)
+2x Psychophagia
+10x Shroud of Decay
+
+Ally (16)
+16x Spectral Servitor
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (33)
+10x Shadow Cast
+12x Shadow Cloak
+7x Stygian Shroud
+4x Where the Veil Thins
+
+Reaction (12)
+2x Delaying Tactics
+3x Shadow Sentinel
+7x Telepathic Misdirection
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

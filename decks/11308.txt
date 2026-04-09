@@ -1,0 +1,67 @@
+GP 2024 PARIS
+Paris, France
+April 20th 2024
+3R+F
+57 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/11308
+
+-- 2GW9.5 + 3vp in final
+
+Deck Name: Antonio sees colors and shapes for the first time.
+
+Crypt (12 cards, min=18, max=28, avg=5.58)
+------------------------------------------
+5x Antonio d'Erlette          5  THA dom for pot              Tremere antitribu:4
+3x Carna, The Princess Witch  7  AUS DOM THA      primogen    Tremere:3
+1x Ladislas Toth, The Torch   7  AUS DOM THA for  archbishop  Tremere antitribu:3
+1x Selena                     6  AUS DOM THA                  Tremere antitribu:3
+1x Andrew Stuart              5  AUS DOM THA                  Tremere:4
+1x Martin Franckel            3  AUS tha                      Tremere:3
+
+Library (90 cards)
+Master (20; 5 trifle)
+1x Barrens, The
+2x Direct Intervention
+1x Erciyes Fragments, The
+1x Fragment of the Book of Nod
+1x Giant's Blood
+2x Infernal Pact
+1x Information Highway
+1x Jake Washington
+1x Powerbase: Montreal
+1x Rack, The
+3x Shard, London, The
+4x Villein
+1x Wider View
+
+Action (4)
+4x Magic of the Smith
+
+Ally (10)
+9x Nephandus
+1x Ponticulus
+
+Equipment (4)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
+
+Action Modifier (10)
+2x Conditioning
+8x Mirror Walk
+
+Reaction (40)
+4x Deflection
+2x Delaying Tactics
+4x Eagle's Sight
+10x Eyes of Argus
+4x My Enemy's Enemy
+6x On the Qui Vive
+4x Redirection
+4x Telepathic Misdirection
+2x Wake with Evening's Freshness
+
+Event (2)
+2x Unmasking, The

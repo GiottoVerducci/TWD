@@ -1,0 +1,71 @@
+Boonuspannu II
+Tampere, Finland
+March 7th 2026
+3R+F
+24 players
+Tommi Hakomaa
+Organizer: Joel Tikkala
+https://www.vekn.net/event-calendar/event/12977
+
+-- 1GW6 + 2vp in final
+
+Deck Name: Beauty and the Beast
+Author: Otso
+Description: Once again shout-out to Otso who is mastermind behind this beautiful deck.
+
+Crypt (12 cards, min=20, max=44, avg=8.5)
+-----------------------------------------
+5x Enkidu, The Noah       11  ANI CEL OBF POT PRO for  Gangrel antitribu:4
+3x Aksinya Daclau          9  ANI FOR PRE PRO cel tha  Gangrel antitribu:4
+1x Black Annis             9  OBF POT ani pro          Nosferatu antitribu:4
+1x André the Manipulator   6  FOR PRO                  Gangrel:5
+1x Andre LeRoux            3  aus                      Toreador:5
+1x New Blood               2  san                      Blood Brother:ANY
+
+Library (90 cards)
+Master (31; 9 trifle)
+1x Archon Investigation
+6x Ashur Tablets
+1x Bleeding the Vine
+2x Dreams of the Sphinx
+2x Fame
+1x Giant's Blood
+2x Guardian Angel
+2x Information Highway
+2x Monster
+2x Parthenon, The
+1x Powerbase: Montreal
+1x Vessel
+6x Villein
+2x Wider View
+
+Action (4)
+1x Abbot
+3x Abuse of Power
+
+Retainer (4)
+1x Jackie Therman
+1x Mr. Winthrop
+1x Raven Spy
+1x Twisted Bloodhound
+
+Action Modifier (6)
+1x Enkil Cog
+1x Forced March
+4x Instantaneous Transformation
+
+Action Modifier/Combat (2)
+2x Shadow Boxing
+
+Reaction (6)
+1x Delaying Tactics
+4x Sense the Savage Way
+1x Sentry Signal
+
+Combat (37)
+3x Claws of the Dead
+10x Immortal Grapple
+8x Pursuit
+7x Rage of Apedemak
+7x Taste of Vitae
+2x Wall of Filth

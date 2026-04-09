@@ -1,0 +1,74 @@
+Bleeding for Christmas
+Polisportiva Sacca, Modena, Italy
+December 20th 2025
+2R+F
+20 players
+Simone Parmeggiani
+https://archon.vekn.net/tournament/344c750a-6ac8-4bb7-bb01-d704dae96ff1/display.html
+
+-- 2GW7.5 + 3.5 in final
+
+Deck Name: Not Like Us
+Author: Parmeg / Crow
+Description: [2025-02-28]
+[2025-02-22]  final version
+
+Crypt (12 cards, min=12, max=40, avg=6.67)
+------------------------------------------
+5x unnamed, The           10  CEL DAI OBF PRE PRO  Baali:6
+4x Horde, The              3  dai obf pre          Baali:6
+3x André the Manipulator   6  FOR PRO              Gangrel:5
+
+Library (70 cards)
+Master (10; 3 trifle)
+2x Direct Intervention
+1x Giant's Blood
+1x Monastery of Shadows
+1x Pentex(TM) Subversion
+1x Perfectionist
+1x Secure Haven
+1x Vessel
+1x Villein
+1x Wider View
+
+Action (14)
+1x Contagion
+1x Entrancement
+5x Flurry of Action
+2x Legal Manipulations
+3x Summoning, The
+2x Unleash Hell's Fury
+
+Ally (6)
+4x Infernal Servitor
+1x Mylan Horseed
+1x Veneficti
+
+Retainer (5)
+1x D'habi Revenant
+4x Homunculus
+
+Action Modifier (25)
+1x Cloak the Gathering
+2x Earth Control
+2x Elder Impersonation
+3x Enkil Cog
+2x Faceless Night
+2x I am Legion
+7x Instantaneous Transformation
+3x Lost in Crowds
+1x Psychomachia
+1x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Reaction (5)
+5x Sense the Sin
+
+Reaction (1)
+1x Delaying Tactics
+
+Combat (3)
+3x Form of Mist
+
+Event (1)
+1x Narrow Minds

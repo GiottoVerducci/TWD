@@ -1,0 +1,56 @@
+Shroud of Decay
+Fortaleza (CE), Brazil
+March 22nd 2026
+2R+F
+17 players
+Lucas Linard
+https://www.vekn.net/event-calendar/event/12890
+
+-- 1GW4 + 4vp in final
+
+Deck Name: Alfredo Louco
+
+Crypt (12 cards, min=14, max=24, avg=5)
+---------------------------------------
+4x Victoria Ash      6  PRE aus cel dom            Toreador:7
+1x Kalinda           6  CEL OBF tha      primogen  Assamite:6
+1x Khadija Al-Kindi  6  CEL OBF THA      primogen  Assamite:6
+1x Warmaksan         5  THA cel obf      prince    Assamite:6
+1x Wise Frog         5  OBF aus cel qui            Assamite:6
+1x Arjun Shah        4  THA obf                    Assamite:6
+1x Greg Mazouni      4  cel obf tha                Assamite:6
+1x Adisa             3  cel obf                    Assamite:6
+1x Bijou             3  cel tha                    Assamite:6
+
+Library (80 cards)
+Master (22; 4 trifle)
+1x Alamut
+9x Ashur Tablets
+1x Black Throne, The
+4x Haqim's Law: Retribution
+1x Khabar: Community, The
+1x Underworld Hunting Ground
+4x Villein
+1x Yoruba Shrine
+
+Equipment (5)
+1x Heart of Nizchetus
+1x Ivory Bow
+1x Kali's Fang
+2x Laptop Computer
+
+Action Modifier (16)
+6x Cloak the Gathering
+2x Elder Impersonation
+3x Faceless Night
+3x Lost in Crowds
+1x Marked Path
+1x Spying Mission
+
+Action Modifier/Combat (17)
+7x Resist Earth's Grasp
+10x Swallowed by the Night
+
+Combat (20)
+10x Hunger of Marduk
+10x Pursuit

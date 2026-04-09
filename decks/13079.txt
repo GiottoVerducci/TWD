@@ -1,0 +1,76 @@
+Jogos de Guerra - Águas sangrentas de Março
+São Paulo (SP), Brazil
+March 7th 2026
+2R+F
+13 players
+Roberto Mautone Junior
+https://www.vekn.net/event-calendar/event/13079
+
+-- 2GW7 + 3vp in final
+
+Deck Name: Heart of the Guardian
+Description:
+Deck that honors and celebrate the life of a great friend, Heitor Lopes Bera, which passed away recently. You Will live eternally in our hearts and community.
+
+Crypt (12 cards, min=17, max=28, avg=5.92)
+------------------------------------------
+3x Ángel Guerrero                 7  ANI DOM PRO      baron  Tzimisce:6
+3x Máddji, Mistress of Szlachtas  7  ANI DOM PRO for         Tzimisce:6
+2x Branimira                      6  ANI dom pre pro  baron  Tzimisce:6
+1x Marialena                      5  DOM PRO ani             Tzimisce:6
+1x Whisper                        5  ANI DOM pro             Tzimisce:6
+1x Prentis Derby                  4  ani dom pro             Tzimisce:6
+1x Susie Kano                     3  ani dom                 Tzimisce:6
+
+Library (80 cards)
+Master (36; 5 trifle)
+4x Anarch Revolt
+6x Ashur Tablets
+1x Carfax Abbey
+1x Direct Intervention
+1x Fame
+2x Fleshforge Chamber
+1x Garibaldi-Meucci Museum
+1x Jake Washington
+3x Parthenon, The
+8x Piper
+1x Rack, The
+1x Smiling Jack, The Anarch
+2x Vessel
+2x Villein
+1x Visit from the Capuchin
+1x Wider View
+
+Ally (11)
+3x Asanbonsam Ghoul
+1x Vagabond Mystic
+1x Vozhd of Gravesend, The
+1x Vozhd of Juiz de Fora, The
+1x Vozhd of Sofia, The
+1x Vozhd of Szczecin, The
+3x War Ghoul
+
+Retainer (7)
+5x Szlachta Assistant
+2x Szlachta Bodyguard
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (16)
+2x Bait and Switch
+2x Deep Ecology
+4x Deflection
+2x Delaying Tactics
+2x One With the Land
+4x Organized Resistance
+
+Combat (6)
+1x Donnybrook
+2x Earth Meld
+2x Form of Mist
+1x Trap
+
+Event (2)
+1x Dragonbound
+1x Unmasking, The

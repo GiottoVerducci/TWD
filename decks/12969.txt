@@ -1,0 +1,55 @@
+R&D Paris
+Paris, France
+January 25th 2026
+3R+F
+13 players
+Édouard Menneson
+https://www.vekn.net/event-calendar/event/12969
+
+Deck Name: Guns and shit (mostly guns)
+Created by: Rhazoo
+
+Crypt (12 cards, min=18 max=30 avg=6.17)
+----------------------------------------
+2x Saku Pihlajamäki                 8 for pro CEL POT PRE   Baron      Brujah:6
+2x Aline Gädeke                     7 cel POT PRE           Baron      Brujah:6
+2x Valeriya Zinovieva               7 cel pre pro POT       Baron      Brujah:6
+2x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
+2x Leumeah                          6 cel for pot PRE       Baron      Brujah:6
+1x Anita Wainwright                 3 cel pre                          Brujah:6
+1x Laura Goldman                    3 cel pre                          Brujah:5
+
+Library (80 cards)
+------------------
+Master (18)
+1x Anarch Free Press, The
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Fame
+1x Garibaldi-Meucci Museum
+1x New Carthage
+1x Papillon
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+7x Villein
+
+Action (6)
+5x Line Brawl
+1x Open War
+
+Equipment (8)
+7x .44 Magnum
+1x Heart of Nizchetus
+
+Reaction (21)
+7x Bait and Switch
+14x Organized Resistance
+
+Combat (27)
+4x Bollix
+6x Concealed Weapon
+10x Diversion
+4x Hell-for-Leather
+3x Taste of Vitae

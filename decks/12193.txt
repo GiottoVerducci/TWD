@@ -1,0 +1,60 @@
+Coupe NA - MONTREAL
+Montreal, Canada
+April 26th 2025
+3R+F
+22 players
+Alexandre Bustros
+https://www.vekn.net/event-calendar/event/12193
+
+-- 2GW5.5 + 4vp in final
+
+Deck Name: Ghouls & Ghost
+Description: Tap & Bleed + War Ghouls
+
+Crypt (12 cards, min=17, max=30, avg=5.83)
+------------------------------------------
+3x Ángel Guerrero   7  ANI DOM PRO      baron  Tzimisce:6
+2x Adrino Manauara  8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Whisper          5  ANI DOM pro             Tzimisce:6
+1x Branimira        6  ANI dom pre pro  baron  Tzimisce:6
+1x Clara Hjortshøj  5  PRO ani aus dom         Tzimisce:6
+1x Marialena        5  DOM PRO ani             Tzimisce:6
+1x Prentis Derby    4  ani dom pro             Tzimisce:6
+1x Susie Kano       3  ani dom                 Tzimisce:6
+
+Library (75 cards)
+Master (15; 2 trifle)
+2x Anarch Troublemaker
+2x Blood Doll
+1x Carfax Abbey
+1x From a Sinking Ship
+1x Giant's Blood
+5x Jake Washington
+1x Papillon
+2x Villein
+
+Action (13)
+13x Govern the Unaligned
+
+Ally (5)
+5x War Ghoul
+
+Action Modifier (12)
+6x Conditioning
+2x Foreshadowing Destruction
+2x Horrific Countenance
+2x Invigorate
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (13)
+8x Deflection
+4x Organized Resistance
+1x Redirection
+
+Combat (15)
+2x Carrion Crows
+8x Earth Meld
+3x Form of Mist
+2x Groundfighting

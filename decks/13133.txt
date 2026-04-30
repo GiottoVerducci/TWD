@@ -1,0 +1,63 @@
+Sins of the Cauchemar
+Lucca, Italy
+March 29th 2026
+2R+F
+10 players
+Alessandro Donati
+https://www.vekn.net/event-calendar/event/13133
+
+-- 1GW5 + 1.5vp in final
+
+Deck Name: Another Delicious Meat Experience!
+
+Crypt (12 cards, min=6, max=26, avg=4.08)
+-----------------------------------------
+3x Máddji, Mistress of Szlachtas  7  ANI DOM PRO for  Tzimisce:6
+3x Anarch Convert                 1  -none-           Caitiff:ANY
+2x Marialena                      5  DOM PRO ani      Tzimisce:6
+2x Susie Kano                     3  ani dom          Tzimisce:6
+1x Whisper                        5  ANI DOM pro      Tzimisce:6
+1x Prentis Derby                  4  ani dom pro      Tzimisce:6
+
+Library (65 cards)
+Master (20)
+1x Direct Intervention
+2x Fame
+7x Jake Washington
+1x Mob Connections
+7x Piper
+1x Powerbase: Montreal
+1x Vox Domini
+
+Ally (12)
+1x Asanbonsam Ghoul
+1x Carlton Van Wyk
+1x Ossian
+1x Underbridge Stray
+1x Vagabond Mystic
+1x Vozhd of Gravesend, The
+1x Vozhd of Sofia, The
+5x War Ghoul
+
+Retainer (4)
+1x J. S. Simmons, Esq.
+1x Jackie Therman
+1x Mr. Winthrop
+1x Tasha Morgan
+
+Reaction (16)
+3x Deep Ecology
+6x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+3x One With the Land
+
+Combat (8)
+2x Fake Out
+2x Target Vitals
+4x Trap
+
+Event (5)
+2x Dragonbound
+1x FBI Special Affairs Division
+2x Unmasking, The

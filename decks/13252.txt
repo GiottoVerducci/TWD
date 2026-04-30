@@ -1,0 +1,66 @@
+Fillip CG
+Campina Grande (PB), Brazil
+April 25th 2026
+2R+F
+15 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/13252
+
+-- 2GW9 + 3vp in final
+
+Deck Name: Esquina da Sujeira
+
+Crypt (12 cards, min=5, max=18, avg=2.75)
+-----------------------------------------
+2x Skulk            4  OBF ani          Nosferatu antitribu:5
+2x Lubomira Hradok  3  OBF              Nosferatu antitribu:5
+2x Anarch Convert   1  -none-           Caitiff:ANY
+1x Frank Litzpar    5  OBF ani for pot  Nosferatu antitribu:4
+1x Skidmark         5  FOR OBF aus pot  Nosferatu antitribu:4
+1x Bloodfeud        2  obf              Malkavian antitribu:4
+1x Denette Stensen  2  obf              Gangrel antitribu:4
+1x Old Neddacka     2  obf              Nosferatu antitribu:4
+1x César Holfield   1  obf              Caitiff:4
+
+Library (67 cards)
+Master (23; 5 trifle)
+1x Antediluvian Awakening
+6x Ashur Tablets
+1x Coven, The
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Elder Library
+1x Heidelberg Castle, Germany
+2x Jake Washington
+3x Life in the City
+2x Obfuscate
+1x Parthenon, The
+1x Wider View
+
+Action (14)
+6x Computer Hacking
+8x Inside Dirt
+
+Equipment (2)
+1x Camera Phone
+1x Laptop Computer
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (21)
+5x Cloak the Gathering
+2x Elder Impersonation
+2x Faceless Night
+5x Lost in Crowds
+3x Marked Path
+2x Spying Mission
+2x Veil the Legions
+
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Event (2)
+1x Bitter and Sweet Story, The
+1x Narrow Minds

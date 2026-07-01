@@ -1,0 +1,58 @@
+Floripa Mensal
+Florianópolis, Brasil
+June 14th 2026
+2R+F
+10 players
+Fernando Fiorin
+https://www.vekn.net/event-calendar/event/13352
+
+Deck Name: Nephandus Nephandorum
+
+Crypt (12 cards, min=12 max=20 avg=4.33)
+----------------------------------------
+5x Antonio d'Erlette                5 dom for pot THA                  Tremere antitribu:4
+2x Frondator                        5 dom tha AUS           Bishop     Tremere antitribu:4
+1x Esoara                           5 aus for pot DOM                  Tremere antitribu:4
+1x Janine                           4 aus dom tha                      Tremere antitribu:4
+1x Ember Wright                     3 aus dom                          Tremere antitribu:3
+1x Lectora                          3 aus tha                          Tremere antitribu:4
+1x Jacob, The Glitch                2 THA                              Tremere antitribu:3
+
+Library (81 cards)
+------------------
+Master (10)
+1x Channel 10
+2x Dreams of the Sphinx
+1x KRCG News Radio
+1x Powerbase: Montreal
+3x Shard, London, The
+2x Wider View
+
+Action (18)
+6x Ambush
+2x Bum's Rush
+4x Computer Hacking
+2x Govern the Unaligned
+4x Harass
+
+Ally (9)
+1x Carlton Van Wyk
+8x Nephandus
+
+Action Modifier (8)
+4x Conditioning
+4x Mirror Walk
+
+Reaction (12)
+6x Deflection
+6x On the Qui Vive
+
+Combat (21)
+6x Fake Out
+6x Molotov Cocktail
+4x Target Vitals
+5x Trap
+
+Event (3)
+1x FBI Special Affairs Division
+2x Unmasking, The

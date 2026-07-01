@@ -11,8 +11,8 @@ Created by: Nekros
 
 Crypt (12 cards, min=4 max=40 avg=4.67)
 ----------------------------------------
-4x The unnamed                     10 CEL DAI OBF PRE PRO              Baali:6
-4x The Horde                        3 dai obf pre                      Baali:6
+4x unnamed, The                    10 CEL DAI OBF PRE PRO              Baali:6
+4x Horde, The                       3 dai obf pre                      Baali:6
 4x Anarch Convert                   1                                  Caitiff:ANY
 
 Library (70 cards)
@@ -31,7 +31,7 @@ Master (12)
 
 Action (10)
 1x Contagion
-6x The Platinum Protocol
+6x Platinum Protocol, The
 3x Unleash Hell's Fury
 
 Equipment (3)

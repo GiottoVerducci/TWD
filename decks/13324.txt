@@ -1,0 +1,74 @@
+Floripa Mensal
+Florianópolis, Brasil
+May 31st 2026
+2R+F
+10 players
+Thiago Reis
+https://www.vekn.net/event-calendar/event/13324
+
+Deck Name: Ratos do Porão
+Created by: magister
+
+Crypt (12 cards, min=20 max=28 avg=6.25)
+----------------------------------------
+4x Federico di Padua                7 ani AUS OBF POT                  Nosferatu:5
+3x Benjamin Rose                    7 ani pot AUS OBF       Prince     Nosferatu:5
+1x Belinde                          6 ani aus pot OBF       Prince     Nosferatu:6
+1x The Dowager                      6 aus pot ANI OBF       Primogen   Nosferatu:6
+2x Daria                            5 ani AUS OBF                      Nosferatu:6
+1x Pearl                            4 obf AUS                          Malkavian antitribu:5
+
+Library (80 cards)
+------------------
+Master (15)
+1x Dreams of the Sphinx
+1x Guardian Angel
+1x Powerbase: Montreal
+1x The Rack
+1x Slum Hunting Ground
+2x Smiling Jack, The Anarch
+1x Vast Wealth
+2x Vessel
+2x Villein
+3x Warsaw Station
+
+Action (8)
+1x Army of Rats
+6x Creeping Sabotage
+1x Patagia: Flaps Allowing Limited Flight
+
+Ally (1)
+1x Carlton Van Wyk
+
+Equipment (10)
+2x .44 Magnum
+1x Bowl of Convergence
+1x Heart of Nizchetus
+2x Improvised Flamethrower
+1x Ivory Bow
+1x Kevlar Vest
+2x Sniper Rifle
+
+Action Modifier (2)
+1x Forgotten Labyrinth
+1x Lost in Crowds
+
+Action Modifier/Combat (4)
+4x Swallowed by the Night
+
+Reaction (25)
+1x Cats' Guidance
+2x Eagle's Sight
+1x Enhanced Senses
+6x Eyes of Argus
+2x My Enemy's Enemy
+4x On the Qui Vive
+1x Precognition
+1x Read the Winds
+2x Spirit's Touch
+5x Telepathic Misdirection
+
+Combat (15)
+7x Disguised Weapon
+4x Target Vitals
+4x Taste of Vitae

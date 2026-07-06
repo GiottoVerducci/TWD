@@ -1,0 +1,70 @@
+Origins Friday 2
+Origins Game Fair, Greater Columbus Convention Center, Columbus, OH
+June 19th 2026
+2R+F
+55 players
+Martin Weinmayer
+https://www.vekn.net/event-calendar/event/13218
+
+Deck Name: Gangrel Origins Friday 2
+
+Crypt (12 cards, min=18 max=28 avg=5.83)
+----------------------------------------
+1x Adrino Manauara                  8 pot ANI DOM PRO       Baron      Tzimisce:6
+1x Ángel Guerrero                   7 ANI DOM PRO           Baron      Tzimisce:6
+1x Massimiliano                     7 pro ANI FOR           Baron      Gangrel:6
+2x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
+2x Kuyén                            6 ANI PRO               Baron      Gangrel:6
+1x André the Manipulator            6 FOR PRO                          Gangrel:5
+1x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
+1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
+1x Nathan Turner                    4 ani PRO                          Gangrel:6
+1x Indira                           3 PRO                              Gangrel:6
+
+Library (90 cards)
+------------------
+Master (24)
+1x Anarch Free Press, The
+1x British Museum, London, The
+2x Carfax Abbey
+2x Club Illusion
+2x Direct Intervention
+1x Elder Library
+2x Garibaldi-Meucci Museum
+1x Life Boon
+2x Papillon
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Rack, The
+7x Villein
+
+Action (1)
+1x Constant Revolution
+
+Political Action (2)
+2x Revolutionary Council
+
+Equipment (3)
+2x Heart of Nizchetus
+1x Sniper Rifle
+
+Retainer (6)
+1x Crypt's Sons
+1x Mr. Winthrop
+4x Raven Spy
+
+Action Modifier (2)
+2x Monkey Wrench
+
+Action Modifier/Reaction (6)
+6x Form of the Bat
+
+Reaction (29)
+8x Bait and Switch
+5x Delaying Tactics
+16x Organized Resistance
+
+Combat (17)
+1x Donnybrook
+10x Earth Meld
+6x Form of Mist

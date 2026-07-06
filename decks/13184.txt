@@ -1,0 +1,56 @@
+WoN 1 Wynn's Hot Tech
+Appalachian Cup Series (Grand Prix), Game Table Adventures, Newark, OH
+June 13th 2026
+3R+F
+16 players
+Norm Brown
+https://www.vekn.net/event-calendar/event/13184
+
+Deck Name: Erlik Deez Nutz!
+
+Crypt (12 cards, min=22 max=40 avg=7.83)
+----------------------------------------
+5x Erlik                           10 AUS CEL FOR NEC THN              Harbinger of Skulls:3
+1x Phagian                          8 dom for AUS NEC THA              Harbinger of Skulls:4
+1x Babalawo Alafin                  7 ani AUS FOR NEC                  Harbinger of Skulls:4
+1x Erebus                           7 dem AUS FOR NEC                  Harbinger of Skulls:3
+1x Mina Grotius                     6 cel FOR NEC                      Harbinger of Skulls:3
+1x Zygodat                          6 pot AUS NEC                      Harbinger of Skulls:4
+1x Nicomedes                        5 aus for nec vic                  Harbinger of Skulls:4
+1x Solomon Batanea                  5 nec AUS FOR                      Harbinger of Skulls:4
+
+Library (90 cards)
+------------------
+Master (19)
+2x Dreams of the Sphinx
+6x Golconda: Inner Peace
+1x Information Highway
+8x Villein
+2x Zillah's Valley
+
+Action (9)
+9x Disciple of Lazarus
+
+Ally (9)
+9x Emerald Legionnaire
+
+Action Modifier (23)
+7x Acheron Vortex
+7x Call of the Hungry Dead
+2x Change of Target
+7x Freak Drive
+
+Reaction (23)
+8x Eyes of Argus
+2x My Enemy's Enemy
+2x Poison Pill
+11x Telepathic Misdirection
+
+Combat (5)
+2x Hidden Strength
+1x Soak
+2x Unflinching Persistence
+
+Event (2)
+1x FBI Special Affairs Division
+1x Unmasking, The

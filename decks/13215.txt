@@ -1,0 +1,64 @@
+Origins Thursday 1
+Origins Game Fair, Greater Columbus Convention Center, Columbus, OH
+June 18th 2026
+2R+F
+50 players
+Kelly Schultz
+https://www.vekn.net/event-calendar/event/13215
+
+Deck Name: 2025 NAC Inner City Bypass
+Created by: skychan
+
+Crypt (12 cards, min=27 max=36 avg=7.92)
+----------------------------------------
+3x Diana Iadanza                    9 AUS CEL FOR PRE       Justicar   Toreador:7
+1x Annabelle Triabell               9 dom for AUS CEL PRE   Primogen   Toreador:6
+3x Modius                           8 obf AUS CEL PRE       Prince     Toreador:7
+1x Catalina Vega                    8 for AUS CEL PRE       Prince     Toreador:6
+1x Marcos Belegrad                  8 ani AUS CEL PRE       Prince     Toreador:7
+1x Flávio Gonçalves                 7 aus for CEL PRE       Prince     Toreador:6
+1x Maila                            6 cel AUS PRE           Primogen   Toreador:6
+1x Mkhokheli                        6 aus cel for PRE       Prince     Toreador:6
+
+Library (90 cards)
+------------------
+Master (29)
+2x Art Museum
+2x Camarilla Conclave
+1x Creepshow Casino
+4x Dreams of the Sphinx
+7x Information Highway
+1x Monastery of Shadows
+1x Protected Resources
+7x Villein
+2x Wider View
+2x Zillah's Valley
+
+Political Action (24)
+1x Ancilla Empowerment
+3x Banishment
+8x Camarilla's Iron Fist
+2x Disputed Territory
+6x Kine Resources Contested
+1x Meddling of Semsith, The
+1x Neonate Breach
+1x Parity Shift
+1x Political Stranglehold
+
+Action Modifier (25)
+1x Alacrity
+2x Awe
+3x Bewitching Oration
+5x Loup
+5x Perfect Paragon
+9x Voter Captivation
+
+Action Modifier/Combat (8)
+3x Force of Personality
+5x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Combat (2)
+2x Charismatic Aura

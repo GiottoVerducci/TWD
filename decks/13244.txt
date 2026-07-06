@@ -1,0 +1,64 @@
+WA State Championship 2026
+Perth, Australia
+April 19th 2026
+3R+F
+14 players
+Ben Szymkow
+https://www.vekn.net/event-calendar/event/13244
+
+Deck Name: 0 - AAA Sim
+Created by: simcof
+
+Crypt (12 cards, min=32 max=44 avg=9.67)
+----------------------------------------
+4x Alexandra                       11 dom ANI AUS CEL PRE   Inner Circle Toreador:2
+4x Anneke                          10 dom AUS CEL PRE       Justicar   Toreador:1
+4x Anson                            8 aus dom CEL PRE       Prince     Toreador:1
+
+Library (90 cards)
+------------------
+Master (19)
+1x Anarch Troublemaker
+2x Art Museum
+6x Ashur Tablets
+2x Dreams of the Sphinx
+1x Fame
+1x The Rack
+6x Villein
+
+Action (2)
+1x Fleetness
+1x Flurry of Action
+
+Political Action (3)
+1x Anarchist Uprising
+1x Archon
+1x Banishment
+
+Equipment (7)
+7x .44 Magnum
+
+Action Modifier (3)
+1x Aire of Elation
+1x Enkil Cog
+1x Loup
+
+Action Modifier/Combat (2)
+2x Resist Earth's Grasp
+
+Reaction (18)
+5x Eyes of Argus
+2x My Enemy's Enemy
+1x Quicken Sight
+7x Second Tradition: Domain
+3x Telepathic Misdirection
+
+Combat (36)
+2x Charismatic Aura
+7x Concealed Weapon
+1x Fast Hands
+4x Infernal Pursuit
+6x Psyche!
+7x Pursuit
+4x Sideslip
+5x Taste of Vitae

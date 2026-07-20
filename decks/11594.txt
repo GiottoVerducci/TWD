@@ -10,54 +10,54 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW0
 
-Crypt (12 cards, min=9 max=30 avg=5)
+Crypt (12 cards, min=30 max=40 avg=9)
 ----------------------------------------
-2x Meshenka                         8 ANI AUS VIC           Priscus    Tzimisce:2
-1x Little Tailor of Prague          8 dem ANI AUS VIC                  Tzimisce:2
-2x Corine Marcón                    6 ani AUS VIC                      Tzimisce:2
-1x Caliban                          6 ANI AUS VIC                      Tzimisce:2
-1x Devin Bisley                     5 vic ANI AUS                      Tzimisce:2
-1x Lolita Houston                   4 aus VIC                          Tzimisce:2
-1x Terrence                         4 ani aus vic                      Tzimisce:2
-1x Christine Boscacci               2 dom vic                          Pander:2
-1x Horatio                          2 vic                              Tzimisce:2
-1x Olga Triminov                    1 vic                              Pander:3
+5x Unmada                          10 cel for AUS DEM OBF VIC Justicar   Malkavian:5
+1x Gabrielle di Righetti           10 obf pot ANI AUS DOM THA Justicar   Tremere:5
+2x Orlando Oriundus                 9 obf AUS DOM THA       Bishop     Tremere antitribu:4
+1x Gerald Windham                   9 AUS DOM FOR THA                  Tremere:5
+1x Benjamin Rose                    7 ani pot AUS OBF       Prince     Nosferatu:5
+1x Graham Gottesman                 7 obf pre tha DOM FOR   Prince     Ventrue:5
+1x Karen Suadela                    7 obf pre CEL POT       Prince     Brujah:5
 
 Library (90 cards)
 ------------------
-Master (19)
-1x Direct Intervention
-1x KRCG News Radio
-1x Library Hunting Ground
-2x The Path of Metamorphosis
-4x Perfectionist
-5x Rötschreck
-2x Sudden Reversal
-3x Villein
+Master (25)
+2x Camarilla Conclave
+1x Dreams of the Sphinx
+3x Heidelberg Castle, Germany
+2x Information Highway
+2x Obfuscate
+5x Villein
+2x Wash
+3x Wider View
+5x Zillah's Valley
 
-Action (13)
-1x Aranthebes, The Immortal
-12x Fiendish Tongue
+Action (10)
+5x Fourth Tradition: The Accounting
+2x Govern the Unaligned
+3x Puppet Master
 
-Ally (1)
-1x Carlton Van Wyk
+Political Action (17)
+1x Ancient Influence
+2x Banishment
+3x Camarilla's Iron Fist
+1x Conservative Agitation
+2x Kine Resources Contested
+6x Parity Shift
+1x Political Stranglehold
+1x Reins of Power
 
-Equipment (3)
-1x Bowl of Convergence
-2x Living Manse
+Action Modifier (17)
+3x Elder Impersonation
+2x Faceless Night
+5x Forgotten Labyrinth
+2x Into Thin Air
+2x Lost in Crowds
+3x Veil the Legions
 
-Action Modifier (10)
-10x Changeling
-
-Action Modifier/Combat (7)
-7x Plasmic Form
-
-Reaction (22)
-6x Eyes of Argus
-3x My Enemy's Enemy
-4x On the Qui Vive
-9x Telepathic Misdirection
-
-Combat (15)
-5x Breath of the Dragon
-10x Chiropteran Marauder
+Reaction (21)
+2x Eyes of Argus
+6x Mental Maze
+6x Second Tradition: Domain
+7x Telepathic Misdirection

@@ -8,53 +8,62 @@ https://www.vekn.net/event-calendar/event/11594
 
 Deck Name: Camarilla Conclave GP 2024
 Description:
-0GW3
+0GW2.5
 
-Crypt (12 cards, min=26 max=36 avg=7.67)
+Crypt (13 cards, min=4 max=26 avg=3.31)
 ----------------------------------------
-4x Sheldon, Lord of the Clog        9 for ANI AUS OBF POT   Justicar   Nosferatu:1
-2x Selma the Repugnant              8 ani for OBF POT       Prince     Nosferatu:1
-3x Nikolaus Vermeulen               7 ani for obf POT       Prince     Nosferatu:2
-2x Murat                            7 ser OBF POT           Prince     Nosferatu:2
-1x Calebros, The Martyr             5 obf pot ANI           Prince     Nosferatu:2
+2x Gilbert Duane                    7 AUS DOM OBF           Baron      Malkavian:6
+1x Darius Shirazi                   6 obf AUS DOM                      Malkavian:5
+1x Gelasia Fotiou                   6 obf pre AUS DOM                  Malkavian:6
+1x Colette                          5 dom AUS OBF                      Malkavian:6
+1x Daria                            5 ani AUS OBF                      Nosferatu:6
+7x Anarch Convert                   1                                  Caitiff:ANY
 
-Library (70 cards)
+Library (90 cards)
 ------------------
-Master (18)
-1x Camarilla Conclave
-1x The Coven
-1x Elysium: The Palace of Versailles
-1x Fear of Mekhet
-1x The Labyrinth
-1x Legendary Vampire
-1x Perfectionist
-4x Protected Resources
-3x Vessel
-3x Warsaw Station
-1x Wider View
+Master (19)
+2x The British Museum, London
+1x Dreams of the Sphinx
+1x Fame
+4x Hackerspace
+1x Life Boon
+2x Millicent Smith, Puritan Vampire Hunter
+1x The Rack
+1x Rötschreck
+2x Smiling Jack, The Anarch
+4x Vessel
 
-Action (8)
-4x Fourth Tradition: The Accounting
-3x Judgment: Camarilla Segregation
-1x SchreckNET
+Action (9)
+1x Constant Revolution
+7x Govern the Unaligned
+1x Nose of the Hound
 
-Political Action (15)
-5x Camarilla's Iron Fist
-2x Kine Resources Contested
-8x Parity Shift
-
-Equipment (2)
+Equipment (12)
+1x Bowl of Convergence
+1x Cooler
+3x Flamethrower
 1x Heart of Nizchetus
-1x The Sargon Fragment
+1x Ivory Bow
+2x Kevlar Vest
+3x Sniper Rifle
 
-Action Modifier (26)
-2x Closed Session
-2x Daring the Dawn
-2x Elder Impersonation
-5x Forgotten Labyrinth
-8x Freak Drive
-5x Lost in Crowds
-2x Telepathic Vote Counting
+Action Modifier/Combat (3)
+3x Swallowed by the Night
+
+Reaction (40)
+2x Deflection
+1x Delaying Tactics
+6x Eagle's Sight
+5x Enhanced Senses
+6x Eyes of Argus
+4x Forced Awakening
+4x My Enemy's Enemy
+4x On the Qui Vive
+4x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (6)
+6x Disguised Weapon
 
 Event (1)
-1x Nightmares upon Nightmares
+1x NRA PAC

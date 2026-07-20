@@ -10,62 +10,63 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 1GW3
 
-Crypt (12 cards, min=15 max=27 avg=5.25)
+Crypt (12 cards, min=5 max=21 avg=3.08)
 ----------------------------------------
-1x Anu Diptinatpa                   7 aus vic DOM NEC                  Nagaraja:6
-1x Ayelech                          7 AUS DOM THA           Prince     Tremere:6
-1x Rutor                            7 pro vic AUS DOM THA              Tremere:5
-1x Lloyd Brooks                     6 aus pot DOM THA       Primogen   Tremere:6
-1x Trevon Parker                    6 AUS DOM THA                      Tremere:6
-1x Chrysanthemum                    5 dom AUS THA           Primogen   Tremere:6
-1x Claus Wegener                    5 aus for tha DOM                  Tremere:5
-1x Sri Sansa                        5 aus tha DOM                      Tremere:6
-1x Ayse Dhanial                     4 aus dom tha                      Tremere:6
-1x Lauren                           4 aus dom tha                      Tremere:6
-1x Tarrence Moore                   4 aus dom tha                      Tremere:5
-1x Monica Chang                     3 dom tha                          Tremere:5
+1x Jost Werner                      6 ani AUS PRE                      Toreador antitribu:2
+1x Sheila Mezarin                   6 cel for AUS PRE                  Toreador antitribu:2
+1x Mercy, Knight Inquisitor         5 cel dom pre AUS                  Toreador antitribu:2
+1x Remilliard, Devout Crusader      4 pre AUS                          Toreador antitribu:2
+1x Isabel de Leon                   3 AUS                              Toreador:2
+1x Lolita                           3 for pre                          Toreador antitribu:2
+1x Zöe                              3 cel obf AUS                      Malkavian:2
+1x Carter                           2 cel                              Toreador antitribu:2
+1x Nicholas Chang                   2 aus                              Toreador antitribu:3
+3x Anarch Convert                   1                                  Caitiff:ANY
 
-Library (83 cards)
+Library (90 cards)
 ------------------
-Master (22)
-1x Academic Hunting Ground
-2x Anarch Troublemaker
-1x Arcane Library
-1x Chantry
-2x Dreams of the Sphinx
-1x Life Boon
-1x Metro Underground
-1x Misdirection
-3x Perfectionist
-3x Vessel
-3x Villein
-2x Wash
-1x Wasserschloss Anif, Austria
+Master (18)
+1x Anarch Troublemaker
+1x The Coven
+2x Direct Intervention
+1x Fetish Club Hunting Ground
+3x Palla Grande
+1x Pentex™ Subversion
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x The Rack
+1x Smiling Jack, The Anarch
+1x Sudden Reversal
+4x Vessel
 
-Action (17)
-9x Govern the Unaligned
-4x Magic of the Smith
-4x Scouting Mission
+Action (13)
+2x Abbot
+7x Art Scam
+4x The Embrace
 
 Ally (1)
-1x Ponticulus
+1x Carlton Van Wyk
 
-Equipment (5)
-1x The Ankara Citadel, Turkey
+Equipment (6)
+3x .44 Magnum
 1x Bowl of Convergence
-2x Heart of Nizchetus
-1x Ivory Bow
+1x Heart of Nizchetus
+1x Sniper Rifle
 
-Action Modifier (19)
-5x Bonding
-3x Conditioning
-3x Foreshadowing Destruction
-8x Mirror Walk
+Retainer (1)
+1x Mr. Winthrop
 
-Reaction (19)
-7x Deflection
-2x Delaying Tactics
-3x Eyes of Argus
-2x My Enemy's Enemy
-3x On the Qui Vive
-2x Telepathic Misdirection
+Reaction (43)
+3x Delaying Tactics
+5x Eagle's Sight
+4x Enhanced Senses
+11x Eyes of Argus
+4x My Enemy's Enemy
+4x On the Qui Vive
+2x Precognition
+1x Spirit's Touch
+9x Telepathic Misdirection
+
+Combat (8)
+4x Concealed Weapon
+4x Weighted Walking Stick

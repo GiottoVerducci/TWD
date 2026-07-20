@@ -1,0 +1,70 @@
+Charity Event - Liga Catalana
+Charity Event - Liga Catalana 21 march 2026, [Location]
+March 21st 2026
+3R+F
+15 players
+Rubén Vidaña Ramos
+https://www.vekn.net/event-calendar/event/12912
+
+Deck Name: Gangrel Things  v3
+
+Crypt (12 cards, min=12 max=25 avg=5)
+----------------------------------------
+2x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
+2x Kuyén                            6 ANI PRO               Baron      Gangrel:6
+1x André the Manipulator            6 FOR PRO                          Gangrel:5
+1x Indira                           3 PRO                              Gangrel:6
+1x Joaquín de Cádiz                 3 for pro                          Gangrel:6
+1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
+1x Martina Srnankova                6 ani FOR PRO                      Gangrel:6
+1x Massimiliano                     7 pro ANI FOR           Baron      Gangrel:6
+1x Nathan Turner                    4 ani PRO                          Gangrel:6
+1x Ruslan Fedorenko                 2 pro                              Gangrel:6
+
+Library (90 cards)
+------------------
+Master (17)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+2x Club Illusion
+2x Direct Intervention
+1x Ecoterrorists
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Powerbase: Montreal
+5x Villein
+
+Action (14)
+1x Fee Stake: Seattle
+1x Rewilding
+12x Thing
+
+Political Action (2)
+2x Revolutionary Council
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Ivory Bow
+
+Retainer (3)
+3x Raven Spy
+
+Action Modifier (4)
+2x Earth Control
+2x Monkey Wrench
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (30)
+7x Bait and Switch
+8x Deep Ecology
+3x Delaying Tactics
+8x Organized Resistance
+4x Protection Racket
+
+Combat (14)
+9x Earth Meld
+5x Form of Mist

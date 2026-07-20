@@ -10,51 +10,70 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW2
 
-Crypt (12 cards, min=22 max=32 avg=6.83)
+Crypt (12 cards, min=19 max=36 avg=7.08)
 ----------------------------------------
-4x Theo Bell                        8 aus dom CEL POT PRE              Brujah:6
-2x Aline Gädeke                     7 cel POT PRE           Baron      Brujah:6
-2x Valeriya Zinovieva               7 cel pre pro POT       Baron      Brujah:6
-1x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
-1x Leumeah                          6 cel for pot PRE       Baron      Brujah:6
-1x Octane                           6 CEL POT PRE                      Brujah:6
-1x Elen Kamjian                     4 CEL POT                          Brujah:6
+2x Annabelle Triabell               9 dom for AUS CEL PRE   Primogen   Toreador:6
+2x Diana Iadanza                    9 AUS CEL FOR PRE       Justicar   Toreador:7
+2x Catalina Vega                    8 for AUS CEL PRE       Prince     Toreador:6
+2x Flávio Gonçalves                 7 aus for CEL PRE       Prince     Toreador:6
+1x Maila                            6 cel AUS PRE           Primogen   Toreador:6
+1x Mkhokheli                        6 aus cel for PRE       Prince     Toreador:6
+1x Silvian Popescu                  4 cel PRE                          Toreador:7
+1x Valentina Osako                  3 PRE                              Toreador:7
 
-Library (90 cards)
+Library (89 cards)
 ------------------
-Master (14)
-1x The Anarch Free Press
-1x Carfax Abbey
-1x Carver's Meat Packing and Storage
-1x Direct Intervention
-1x Dreams of the Sphinx
-2x Fame
-1x Giant's Blood
-1x Guardian Angel
-1x Tension in the Ranks
+Master (13)
+1x Art Museum
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Papillon
+1x Society Hunting Ground
+3x Toreador Grand Ball
 4x Vessel
 
-Action (12)
+Action (8)
 5x Enchant Kindred
-1x Heroic Might
-6x Line Brawl
+2x Entrancement
+1x Judgment: Camarilla Segregation
 
-Reaction (18)
-5x Bait and Switch
-4x On the Qui Vive
-7x Organized Resistance
-2x Protection Racket
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+3x Camarilla's Iron Fist
+3x Kine Resources Contested
+1x My Kin Against the World
+4x Parity Shift
+1x Toreador Justicar
 
-Combat (45)
-6x Bollix
-6x Dust Up
-8x Immortal Grapple
-2x Pursuit
-2x Roundhouse
-2x Sideslip
-2x Slam
-7x Taste of Vitae
-10x Torn Signpost
+Equipment (3)
+1x .44 Magnum
+1x Heart of Nizchetus
+1x Sniper Rifle
 
-Event (1)
-1x Dragonbound
+Action Modifier (23)
+3x Aire of Elation
+1x Closed Session
+3x Daring the Dawn
+5x Forced March
+2x Freak Drive
+3x Loup
+2x Perfect Paragon
+4x Voter Captivation
+
+Action Modifier/Combat (3)
+3x Resist Earth's Grasp
+
+Action Modifier/Reaction (2)
+2x Scalpel Tongue
+
+Reaction (15)
+1x Eyes of Argus
+2x My Enemy's Enemy
+2x On the Qui Vive
+4x Second Tradition: Domain
+6x Telepathic Misdirection
+
+Combat (6)
+6x Majesty

@@ -8,60 +8,68 @@ https://www.vekn.net/event-calendar/event/11594
 
 Deck Name: Camarilla Conclave GP 2024
 Description:
-1GW7
+1GW6.5
 
-Crypt (12 cards, min=29 max=40 avg=8.75)
+Crypt (12 cards, min=17 max=26 avg=5.58)
 ----------------------------------------
-5x Bruce de Guy                    10 AUS DOM FOR OBT       Cardinal   Ventrue antitribu:4
-2x Antón de Concepción              9 aus ANI DOM OBT POT   Archbishop Lasombra:4
-2x Charles Delmare                  8 cel DOM OBT POT       Cardinal   Lasombra:5
-2x Lord Leopold Valdemar            8 cel dom obf OBT POT   Priscus    Lasombra:5
-1x Andrew Emory                     5 aus dom pot OBT       Bishop     Lasombra:4
+2x Massimiliano                     7 pro ANI FOR           Baron      Gangrel:6
+2x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
+2x Kuyén                            6 ANI PRO               Baron      Gangrel:6
+1x André the Manipulator            6 FOR PRO                          Gangrel:5
+1x Martina Srnankova                6 ani FOR PRO                      Gangrel:6
+1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
+1x Mickey Wheeler                   5 ani cel for pro                  Gangrel:6
+1x Nathan Turner                    4 ani PRO                          Gangrel:6
+1x Indira                           3 PRO                              Gangrel:6
 
 Library (90 cards)
 ------------------
-Master (20)
-1x The Coven
-2x Demonstration
-1x Direct Intervention
-1x Día de los Muertos
-1x Framing an Ancient Grudge
-1x Giant's Blood
-1x Gurchon Hall
-1x Jake Washington
-1x Monastery of Shadows
-1x Pentex™ Subversion
-1x Perfectionist
-1x Powerbase: Madrid
-5x Villein
-2x Wider View
+Master (16)
+1x The Anarch Free Press
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+1x Ecoterrorists
+1x Gangrel Revel
+1x Garibaldi-Meucci Museum
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+4x Vessel
+2x Villein
+1x Zoo Hunting Ground
 
-Action (2)
-2x Under Siege
+Action (12)
+1x Army of Rats
+1x Constant Revolution
+2x Rewilding
+8x Thing
 
-Political Action (17)
-1x Ancilla Empowerment
-1x Confiscation
-1x Disputed Territory
-10x Kine Resources Contested
-1x Neonate Breach
-1x Peace Treaty
-1x Political Stranglehold
-1x Reins of Power
+Equipment (1)
+1x Ivory Bow
 
-Action Modifier (22)
-1x Blanket of Night
-4x Private Audience
-6x Shadow Play
-5x Shroud of Absence
-2x Shroud of Night
-4x Tenebrous Form
+Retainer (7)
+1x J. S. Simmons, Esq.
+1x Mr. Winthrop
+4x Raven Spy
+1x Tasha Morgan
 
-Reaction (20)
-12x Deflection
-8x On the Qui Vive
+Action Modifier (3)
+2x Earth Control
+1x Monkey Wrench
 
-Combat (9)
-2x Arms of the Abyss
-2x Entombment
-5x Oubliette
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (28)
+6x Bait and Switch
+4x Deep Ecology
+2x Delaying Tactics
+4x Eyes of the Wild
+8x Organized Resistance
+4x Protection Racket
+
+Combat (19)
+2x Claws of the Dead
+4x Donnybrook
+9x Earth Meld
+4x Form of Mist

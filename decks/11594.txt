@@ -8,46 +8,45 @@ https://www.vekn.net/event-calendar/event/11594
 
 Deck Name: Camarilla Conclave GP 2024
 Description:
-1GW5
+1GW4.5
 
-Crypt (12 cards, min=12 max=20 avg=4)
+Crypt (12 cards, min=22 max=34 avg=6.83)
 ----------------------------------------
-2x Apache Jones                     5 aus for obf DEM                  Malkavian antitribu:4
-2x Uncle George                     5 aus dom obf DEM                  Malkavian antitribu:3
-1x Luc                              5 dem vic OBF                      Malkavian antitribu:4
-1x Beauregard Krueller              4 aus dem obf                      Malkavian antitribu:4
-1x Fabrizia Contreraz               4 dem pot               Archbishop Malkavian antitribu:4
-2x Jackie                           3 DEM                              Malkavian antitribu:4
-2x Midget                           3 obf pre DEM                      Malkavian antitribu:3
-1x Marta                            3 aus dem                          Malkavian antitribu:4
+2x Kasim Bayar                      9 aus pot CEL OBF THA   Justicar   Banu Haqim:6
+2x Oluwafunmilayo                   8 AUS CEL OBF THA       Prince     Banu Haqim:6
+2x Farah Sarroub                    7 aus obf CEL THA       Prince     Banu Haqim:6
+2x Kassandra Tassaki                6 obf CEL THA           Prince     Banu Haqim:6
+1x Kalinda                          6 tha CEL OBF           Primogen   Banu Haqim:6
+1x Khadija Al-Kindi                 6 CEL OBF THA           Primogen   Banu Haqim:6
+1x Asmin Kobane                     5 dom obf tha CEL                  Banu Haqim:6
+1x Warmaksan                        5 cel obf THA           Prince     Banu Haqim:6
 
-Library (82 cards)
+Library (91 cards)
 ------------------
-Master (10)
-1x Anarch Troublemaker
-1x The Barrens
-3x Dementation
-1x Direct Intervention
-1x Dreams of the Sphinx
-2x Pentex™ Subversion
-1x Wider View
+Master (17)
+1x Alamut
+2x Archon Investigation
+4x Haqim's Law: Retribution
+2x Priority Contract
+1x Underworld Hunting Ground
+7x Villein
 
-Action (30)
-30x Kindred Spirits
+Action (7)
+7x Hunter's Mark
 
-Equipment (1)
-1x Enchanted Marionette
+Action Modifier/Combat (7)
+3x Resist Earth's Grasp
+4x Swallowed by the Night
 
-Action Modifier (30)
-14x Confusion
-12x Eyes of Chaos
-4x Mind Tricks
+Reaction (10)
+10x Second Tradition: Domain
 
-Action Modifier/Combat (2)
-2x Deny
-
-Action Modifier/Reaction (8)
-8x Touch of Clarity
-
-Event (1)
-1x The Bitter and Sweet Story
+Combat (50)
+5x Blur
+16x Hunger of Marduk
+4x Psyche!
+8x Pursuit
+6x Quickness
+5x Rego Motum
+4x Sideslip
+2x Zip Gun

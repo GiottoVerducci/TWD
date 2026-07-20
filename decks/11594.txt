@@ -10,40 +10,53 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 1GW4
 
-Crypt (12 cards, min=8 max=19 avg=3.33)
+Crypt (12 cards, min=22 max=40 avg=7.83)
 ----------------------------------------
-1x Effie Lowery                     5 obf ANI SPI                      Ahrimane:4
-1x Lord Ashton                      5 for pro ANI                      Gangrel:3
-1x Petra                            5 aus ANI OBF                      Nosferatu:4
-1x Beetleman                        4 obf ANI                          Nosferatu:4
-1x Bobby Lemon                      4 pro ANI                          Gangrel:3
-2x Stick                            3 ANI                              Nosferatu antitribu:4
-1x Bothwell                         3 ani for                          Gangrel:3
-1x Clarissa Steinburgen             3 ani obf                          Nosferatu:3
-1x Mouse                            2 ani                              Nosferatu:3
-1x Zip                              2 ani                              Ravnos:3
-1x Lisa Noble                       1 ani                              Caitiff:3
+4x Anneke                          10 dom AUS CEL PRE       Justicar   Toreador:1
+3x Anson                            8 aus dom CEL PRE       Prince     Toreador:1
+2x Marcellus                        8 pro AUS CEL           Prince     Toreador:2
+1x Tatiana Romanov                  7 cel pre AUS           Prince     Toreador:1
+1x Dorian Strack                    4 cel AUS                          Toreador:1
+1x Isabel de Leon                   3 AUS                              Toreador:2
 
-Library (79 cards)
+Library (90 cards)
 ------------------
-Master (17)
-1x Animalism
-9x Ashur Tablets
-2x Blood Doll
+Master (25)
+1x Archon Investigation
+1x Art Museum
+7x Ashur Tablets
 1x Direct Intervention
-2x Life in the City
-2x Specialization
+1x Dreams of the Sphinx
+1x Elder Library
+1x Fragment of the Book of Nod
+1x Giant's Blood
+1x Guardian Angel
+1x Minion Tap
+1x Pentex™ Subversion
+1x Powerbase: Montreal
+1x Society Hunting Ground
+1x Sudden Reversal
+5x Villein
 
-Action (22)
-22x Deep Song
+Equipment (10)
+7x .44 Magnum
+1x Bowl of Convergence
+2x Sniper Rifle
 
-Reaction (11)
-5x Cats' Guidance
-2x Delaying Tactics
-4x On the Qui Vive
+Action Modifier (4)
+3x Aire of Elation
+1x Enkil Cog
+
+Reaction (22)
+5x Eyes of Argus
+2x My Enemy's Enemy
+10x Second Tradition: Domain
+5x Telepathic Misdirection
 
 Combat (29)
-15x Aid from Bats
-4x Carrion Crows
-9x Target Vitals
-1x Voracious Vermin
+9x Concealed Weapon
+2x Flash
+2x Psyche!
+7x Pursuit
+4x Sideslip
+5x Taste of Vitae

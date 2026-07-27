@@ -10,66 +10,52 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW0.5
 
-Crypt (12 cards, min=16 max=26 avg=5.42)
+Crypt (12 cards, min=22 max=36 avg=7.42)
 ----------------------------------------
-2x Massimiliano                     7 pro ANI FOR           Baron      Gangrel:6
-2x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
-2x Kuyén                            6 ANI PRO               Baron      Gangrel:6
-1x Martina Srnankova                6 ani FOR PRO                      Gangrel:6
-1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
-1x Mickey Wheeler                   5 ani cel for pro                  Gangrel:6
-1x Hanna Nokelainen                 4 ani for pro                      Gangrel:6
-1x Nathan Turner                    4 ani PRO                          Gangrel:6
-1x Indira                           3 PRO                              Gangrel:6
+4x Juliet Parr                      9 cel pot AUS DOM OBF   Justicar   Malkavian:7
+3x Alexander Silverson              8 pre AUS DOM OBF       Prince     Malkavian:6
+1x Gilbert Duane                    7 AUS DOM OBF           Baron      Malkavian:6
+1x Jason "Son" Newberry             7 pre AUS DOM OBF       Primogen   Malkavian:6
+1x Andi Liu                         6 aus obf pre DOM       Prince     Malkavian:6
+1x Donny Kowalczyk                  6 cel dom obf AUS       Prince     Malkavian:6
+1x Ashley                           3 dom obf                          Malkavian:6
 
-Library (79 cards)
+Library (75 cards)
 ------------------
-Master (18)
-2x Carfax Abbey
-2x Club Illusion
-1x Direct Intervention
-1x Ecoterrorists
-1x Gangrel Revel
-1x Garibaldi-Meucci Museum
-1x Powerbase: Montreal
-1x The Rack
-1x Smiling Jack, The Anarch
-2x Vessel
-4x Villein
+Master (14)
+1x Camarilla Conclave
+1x The Coven
+3x Dreams of the Sphinx
+2x Information Highway
+1x Papillon
+5x Villein
 1x Wider View
 
 Action (10)
-1x Army of Rats
-1x Constant Revolution
-8x Thing
+10x Govern the Unaligned
 
-Political Action (1)
-1x Revolutionary Council
+Political Action (13)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+4x Camarilla's Iron Fist
+3x Kine Resources Contested
+1x Neonate Breach
+3x Parity Shift
 
-Equipment (2)
+Equipment (1)
 1x Heart of Nizchetus
-1x Sniper Rifle
 
-Retainer (4)
-1x Mr. Winthrop
-3x Raven Spy
+Action Modifier (22)
+3x Closed Session
+3x Conditioning
+3x Elder Impersonation
+2x Faceless Night
+4x Forgotten Labyrinth
+5x Lost in Crowds
+2x Telepathic Vote Counting
 
-Action Modifier/Reaction (4)
-4x Form of the Bat
-
-Reaction (21)
-4x Bait and Switch
-5x Deep Ecology
-2x Eyes of the Wild
-10x Organized Resistance
-
-Combat (18)
-3x Claws of the Dead
-3x Donnybrook
-4x Earth Meld
-2x Form of Mist
-4x Hell-for-Leather
-2x Weighted Walking Stick
-
-Event (1)
-1x Scourge of the Enochians
+Reaction (15)
+8x Deflection
+1x Malkavian Rider Clause
+4x Obedience
+2x Second Tradition: Domain

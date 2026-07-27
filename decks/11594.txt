@@ -10,64 +10,51 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 1GW4.5
 
-Crypt (12 cards, min=17 max=29 avg=5.92)
+Crypt (12 cards, min=22 max=31 avg=6.58)
 ----------------------------------------
-1x Sergio Bueno                     8 aus pot OBF PRE PRO   Baron      Ministry:6
-1x Ángel Guerrero                   7 ANI DOM PRO           Baron      Tzimisce:6
-1x Massimiliano                     7 pro ANI FOR           Baron      Gangrel:6
-1x Valeriya Zinovieva               7 cel pre pro POT       Baron      Brujah:6
-1x Vivian VI                        7 obf tha PRE PRO       Baron      Ministry:6
-1x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
-1x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
-1x Elisha Tucker                    6 cel obf pro PRE       Baron      Ministry:6
-1x Kuyén                            6 ANI PRO               Baron      Gangrel:6
-1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
-1x Indira                           3 PRO                              Gangrel:6
-1x Joseph Fischer                   3 PRO                              Gangrel antitribu:5
+3x Persephone Tar-Anis              8 cel pot AUS DEM OBF              Malkavian antitribu:4
+2x Apolonia Czarnecki               7 pre AUS DEM OBF                  Malkavian:5
+1x Osric Vladislav                  7 cel AUS DEM OBF                  Malkavian:5
+3x Morel                            6 AUS DEM OBF                      Malkavian:4
+1x Gem Ghastly                      6 aus DEM OBF           Primogen   Malkavian:5
+1x Apache Jones                     5 aus for obf DEM                  Malkavian antitribu:4
+1x Arthur Denholm                   5 obf AUS DEM                      Malkavian:5
 
 Library (90 cards)
 ------------------
-Master (27)
-1x The Anarch Free Press
-1x Anarch Troublemaker
-2x Carfax Abbey
-2x Club Illusion
-1x Dark Influences
-1x The Erciyes Fragments
-2x Garibaldi-Meucci Museum
-1x Papillon
-1x Poacher's Hunting Ground
-1x Powerbase: Los Angeles
-6x Protean
-1x Rötschreck
-1x Tribute to the Master
-6x Villein
+Master (15)
+1x Asylum Hunting Ground
+1x The Barrens
+2x Direct Intervention
+3x Dreams of the Sphinx
+1x Elder Library
+1x Pentex™ Subversion
+2x Sudden Reversal
+4x Villein
 
-Action (10)
-1x Aranthebes, The Immortal
-8x Childe of the Revolution
-1x Constant Revolution
+Action (17)
+1x Conceal
+16x Kindred Spirits
 
-Political Action (2)
-1x Eat the Rich
-1x Revolutionary Council
+Action Modifier (34)
+4x Cloak the Gathering
+5x Confusion
+5x Elder Impersonation
+5x Eyes of Chaos
+2x Faceless Night
+5x Lost in Crowds
+6x Mind Tricks
+2x Spying Mission
 
-Equipment (2)
-2x Heart of Nizchetus
+Action Modifier/Combat (4)
+4x Swallowed by the Night
 
-Action Modifier (6)
-4x Earth Control
-2x Monkey Wrench
+Reaction (16)
+2x Delaying Tactics
+5x Eyes of Argus
+2x My Enemy's Enemy
+2x On the Qui Vive
+5x Telepathic Misdirection
 
-Action Modifier/Reaction (4)
-4x Form of the Bat
-
-Reaction (25)
-6x Bait and Switch
-1x Delaying Tactics
-16x Organized Resistance
-2x Protection Racket
-
-Combat (14)
-6x Donnybrook
-8x Earth Meld
+Combat (4)
+4x No Trace

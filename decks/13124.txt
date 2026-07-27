@@ -1,0 +1,63 @@
+Battle at the Gasworks 1
+Albany, NY
+March 21st 2026
+2R+F
+12 players
+Christopher Malec
+https://www.vekn.net/event-calendar/event/13124
+
+Deck Name: If Uballit, They Will Come
+Created by: Christopher Malec, with advice and assistance from Karl Schaefer
+Description:
+Uses multi-acting with bleeds and Shroud of decay to do big damage.  Votes are more for utility and bargaining, but some bloat and pool damage. One minion is capable of doing 13 damage under optimal conditions. Uses Lasombra princes and Archbishops to have a strong political presence in the game.
+
+Crypt (12 cards, min=30 max=40 avg=8.67)
+----------------------------------------
+5x Ashur-uballit, Son of the Abyss 10 AUS DOM FOR OBL THA   Cardinal   Death   Hecata:6
+2x Dafina Hanganu                   8 for DOM OBL POT       Prince     Lasombra:6
+2x Damian                           8 for pre DOM OBL POT   Archbishop Power   Lasombra:6
+2x Yewon Ong                        8 for DOM OBL POT       Prince     Lasombra:6
+1x Kamaluddin                       6 for pot DOM OBL       Primogen   Lasombra:6
+
+Library (88 cards)
+------------------
+Master (21)
+3x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Monastery of Shadows
+1x Papillon
+1x Power Structure
+5x Villein
+2x Wider View
+5x Zillah's Valley
+
+Action (17)
+10x Govern the Unaligned
+7x Shroud of Decay
+
+Political Action (10)
+1x Anarchist Uprising
+2x Banishment
+2x Cold War
+1x Empires Fall
+1x Political Stranglehold
+1x Reins of Power
+2x War of Ages
+
+Action Modifier (24)
+3x Conditioning
+2x Foreshadowing Destruction
+6x Freak Drive
+3x Shadow Cast
+3x Shadow Cloak
+4x Stygian Shroud
+3x Where the Veil Thins
+
+Reaction (10)
+6x Deflection
+2x On the Qui Vive
+2x Shadow Sentinel
+
+Combat (6)
+6x Pass Through Shadow

@@ -10,66 +10,55 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW0.5
 
-Crypt (13 cards, min=18 max=39 avg=7.31)
+Crypt (12 cards, min=29 max=43 avg=9)
 ----------------------------------------
-3x Lambach                         10 pre ANI AUS DOM VIC   Cardinal   Tzimisce:2
-1x Velya, The Flayer                9 for ANI AUS PRE VIC   Cardinal   Tzimisce:3
-2x Meshenka                         8 ANI AUS VIC           Priscus    Tzimisce:2
-2x Sascha Vykos, The Angel of Caine (ADV) 8 ani dom AUS THA VIC   Archbishop Tzimisce:2
-2x Caliban                          6 ANI AUS VIC                      Tzimisce:2
-1x Corine Marcón                    6 ani AUS VIC                      Tzimisce:2
-1x Lolita Houston                   4 aus VIC                          Tzimisce:2
-1x Horatio                          2 vic                              Tzimisce:2
+3x Lord Tremere                    11 obe ANI AUS DOM THA VIC            Tremere:5
+1x Lucubratio                      10 AUS DOM POT PRE THA   Archbishop Tremere antitribu:4
+4x Malgorzata                       9 pre AUS DOM THA VIC   Priscus    Tremere antitribu:4
+1x Eric Kressida                    8 cel AUS DOM PRO THA   Bishop     Tremere antitribu:4
+1x Paul Cordwood                    8 obf pre AUS DOM THA   Bishop     Tremere antitribu:4
+1x Gerald FitzGerald                7 AUS DOM THA                      Tremere antitribu:5
+1x Johannes Worringen               6 dom AUS THA           Archbishop Tremere antitribu:5
 
 Library (90 cards)
 ------------------
-Master (20)
-1x Dark Influences
-1x Dreams of the Sphinx
-1x The Erciyes Fragments
+Master (18)
+1x Anarch Troublemaker
+1x Direct Intervention
+3x Dreams of the Sphinx
 1x Giant's Blood
-1x Library Hunting Ground
-1x Pentex™ Subversion
-1x Powerbase: Montreal
-1x The Rack
-2x Rötschreck
-1x Smiling Jack, The Anarch
-4x Vessel
-4x Villein
-1x Wash
+1x KRCG News Radio
+1x Monastery of Shadows
+1x University Hunting Ground
+5x Villein
+4x Zillah's Valley
 
-Action (6)
-1x Aranthebes, The Immortal
-2x Deep Song
-1x Eternal Vigilance
+Action (19)
+13x Govern the Unaligned
+2x Magic of the Smith
+2x Rutor's Hand
 2x Under Siege
 
-Equipment (4)
+Political Action (3)
+1x Ancient Influence
+1x Political Stranglehold
+1x Reins of Power
+
+Equipment (3)
 1x Bowl of Convergence
 1x Heart of Nizchetus
-1x Ivory Bow
-1x Sniper Rifle
+1x The Signet of King Saul
 
-Retainer (1)
-1x Raven Spy
+Action Modifier (22)
+6x Bonding
+3x Conditioning
+1x Foreshadowing Destruction
+10x Mirror Walk
+2x Seduction
 
-Reaction (39)
-4x Cats' Guidance
-3x Eagle's Sight
-3x Enhanced Senses
-7x Eyes of Argus
-2x Forced Awakening
-2x Guard Dogs
-1x My Enemy's Enemy
-3x On the Qui Vive
-2x Precognition
-2x Read the Winds
-2x Spirit's Touch
-7x Telepathic Misdirection
-1x Wake with Evening's Freshness
-
-Combat (20)
-5x Breath of the Dragon
-2x Canine Horde
-3x Carrion Crows
-10x Chiropteran Marauder
+Reaction (25)
+6x Deflection
+2x Enhanced Senses
+5x Eyes of Argus
+10x Obedience
+2x Telepathic Misdirection

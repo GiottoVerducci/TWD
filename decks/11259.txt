@@ -1,0 +1,73 @@
+Rise of the New Bloods
+Melbourne
+March 17th 2024
+2R+F
+10 players
+Erin McKay
+https://www.vekn.net/event-calendar/event/11259
+
+Deck Name: Rise of the New Bloods
+Description:
+1GW4+0.5
+
+Crypt (12 cards, min=17 max=30 avg=5.75)
+----------------------------------------
+2x Adrino Manauara                  8 pot ANI DOM PRO       Baron      Tzimisce:6
+2x Ángel Guerrero                   7 ANI DOM PRO           Baron      Tzimisce:6
+1x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
+1x Neserian                         6 cel pro ANI DOM                  Tzimisce:6
+2x Clara Hjortshøj                  5 ani aus dom PRO                  Tzimisce:6
+2x Marialena                        5 ani DOM PRO                      Tzimisce:6
+1x Prentis Derby                    4 ani dom pro                      Tzimisce:6
+1x Susie Kano                       3 ani dom                          Tzimisce:6
+
+Library (80 cards)
+------------------
+Master (16)
+1x Anarch Railroad
+1x Archon Investigation
+1x The Barrens
+3x Blood Doll
+4x The British Museum, London
+1x Carfax Abbey
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Pentex™ Subversion
+1x Wider View
+
+Action (11)
+11x Scouting Mission
+
+Ally (1)
+1x Guardian Ghoul
+
+Equipment (10)
+1x Cooler
+1x Heart of Nizchetus
+7x Living Manse
+1x The Signet of King Saul
+
+Action Modifier (13)
+3x Bonding
+2x Conditioning
+4x Earth Control
+4x Seduction
+
+Action Modifier/Combat (2)
+2x Rapid Change
+
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (13)
+6x Deflection
+1x Delaying Tactics
+6x Guard Dogs
+
+Combat (11)
+4x Earth Meld
+6x Form of Mist
+1x Sculpt the Flesh
+
+Event (1)
+1x NRA PAC

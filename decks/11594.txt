@@ -10,51 +10,43 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW3
 
-Crypt (12 cards, min=35 max=43 avg=9.83)
+Crypt (12 cards, min=24 max=32 avg=7)
 ----------------------------------------
-3x Montano                         11 ANI DOM FOR OBT POT   2 Votes    Lasombra:3
-3x Ambrosio Luis Monçada, Plenipotentiary10 aus for DOM OBT POT PRE Cardinal   Lasombra:2
-2x Marcus Vitel                    10 DOM FOR OBF OBT PRE   Prince     Ventrue:3
-2x Francisco Domingo de Polonia     9 pro DOM OBT POT PRE   Archbishop Lasombra:2
-1x Alvaro, The Scion of Angelica    9 dom pre OBT POT       Archbishop Lasombra:2
-1x Gratiano                         8 obf pot DOM OBT       Priscus    Lasombra:2
+3x Abraham Mellon                   8 for tha AUS DOM OBF              Malkavian:6
+2x Alexander Silverson              8 pre AUS DOM OBF       Prince     Malkavian:6
+2x Gilbert Duane                    7 AUS DOM OBF           Baron      Malkavian:6
+2x Andi Liu                         6 aus obf pre DOM       Prince     Malkavian:6
+1x Darius Shirazi                   6 obf AUS DOM                      Malkavian:5
+1x Donny Kowalczyk                  6 cel dom obf AUS       Prince     Malkavian:6
+1x Gelasia Fotiou                   6 obf pre AUS DOM                  Malkavian:6
 
-Library (73 cards)
+Library (74 cards)
 ------------------
-Master (19)
-3x Dreams of the Sphinx
-1x Elysian Fields
-2x Information Highway
-1x Jake Washington
-1x Legendary Vampire
-1x Pentex™ Subversion
-6x Villein
-4x Zillah's Valley
+Master (9)
+1x Asylum Hunting Ground
+1x The Barrens
+4x Blood Doll
+2x Life in the City
+1x Wider View
 
-Action (9)
-9x Govern the Unaligned
+Action (16)
+16x Govern the Unaligned
 
-Political Action (11)
-2x Anarchist Uprising
-1x Ancient Influence
-1x Ancilla Empowerment
-3x Banishment
-2x Kine Resources Contested
-1x Political Stranglehold
-1x Reins of Power
+Action Modifier (26)
+4x Bonding
+4x Cloak the Gathering
+4x Conditioning
+3x Elder Impersonation
+4x Faceless Night
+1x Foreshadowing Destruction
+4x Lost in Crowds
+2x Spying Mission
 
-Action Modifier (21)
-2x Approximation of Loyalty
-2x Foreshadowing Destruction
-3x Freak Drive
-3x Seduction
-7x Shadow Play
-2x Shroud of Absence
-2x Voter Captivation
+Action Modifier/Combat (4)
+4x Swallowed by the Night
 
-Reaction (10)
-6x Deflection
-4x Obedience
-
-Combat (3)
-3x Shadow Body
+Reaction (19)
+5x Deflection
+4x Eyes of Argus
+5x On the Qui Vive
+5x Telepathic Misdirection

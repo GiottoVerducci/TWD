@@ -10,43 +10,64 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 1GW4.5
 
-Crypt (12 cards, min=22 max=34 avg=6.83)
+Crypt (12 cards, min=17 max=29 avg=5.92)
 ----------------------------------------
-2x Kasim Bayar                      9 aus pot CEL OBF THA   Justicar   Banu Haqim:6
-2x Oluwafunmilayo                   8 AUS CEL OBF THA       Prince     Banu Haqim:6
-2x Farah Sarroub                    7 aus obf CEL THA       Prince     Banu Haqim:6
-2x Kassandra Tassaki                6 obf CEL THA           Prince     Banu Haqim:6
-1x Kalinda                          6 tha CEL OBF           Primogen   Banu Haqim:6
-1x Khadija Al-Kindi                 6 CEL OBF THA           Primogen   Banu Haqim:6
-1x Asmin Kobane                     5 dom obf tha CEL                  Banu Haqim:6
-1x Warmaksan                        5 cel obf THA           Prince     Banu Haqim:6
+1x Sergio Bueno                     8 aus pot OBF PRE PRO   Baron      Ministry:6
+1x Ángel Guerrero                   7 ANI DOM PRO           Baron      Tzimisce:6
+1x Massimiliano                     7 pro ANI FOR           Baron      Gangrel:6
+1x Valeriya Zinovieva               7 cel pre pro POT       Baron      Brujah:6
+1x Vivian VI                        7 obf tha PRE PRO       Baron      Ministry:6
+1x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
+1x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
+1x Elisha Tucker                    6 cel obf pro PRE       Baron      Ministry:6
+1x Kuyén                            6 ANI PRO               Baron      Gangrel:6
+1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
+1x Indira                           3 PRO                              Gangrel:6
+1x Joseph Fischer                   3 PRO                              Gangrel antitribu:5
 
-Library (91 cards)
+Library (90 cards)
 ------------------
-Master (17)
-1x Alamut
-2x Archon Investigation
-4x Haqim's Law: Retribution
-2x Priority Contract
-1x Underworld Hunting Ground
-7x Villein
+Master (27)
+1x The Anarch Free Press
+1x Anarch Troublemaker
+2x Carfax Abbey
+2x Club Illusion
+1x Dark Influences
+1x The Erciyes Fragments
+2x Garibaldi-Meucci Museum
+1x Papillon
+1x Poacher's Hunting Ground
+1x Powerbase: Los Angeles
+6x Protean
+1x Rötschreck
+1x Tribute to the Master
+6x Villein
 
-Action (7)
-7x Hunter's Mark
+Action (10)
+1x Aranthebes, The Immortal
+8x Childe of the Revolution
+1x Constant Revolution
 
-Action Modifier/Combat (7)
-3x Resist Earth's Grasp
-4x Swallowed by the Night
+Political Action (2)
+1x Eat the Rich
+1x Revolutionary Council
 
-Reaction (10)
-10x Second Tradition: Domain
+Equipment (2)
+2x Heart of Nizchetus
 
-Combat (50)
-5x Blur
-16x Hunger of Marduk
-4x Psyche!
-8x Pursuit
-6x Quickness
-5x Rego Motum
-4x Sideslip
-2x Zip Gun
+Action Modifier (6)
+4x Earth Control
+2x Monkey Wrench
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (25)
+6x Bait and Switch
+1x Delaying Tactics
+16x Organized Resistance
+2x Protection Racket
+
+Combat (14)
+6x Donnybrook
+8x Earth Meld

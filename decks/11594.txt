@@ -10,59 +10,63 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 1GW3
 
-Crypt (12 cards, min=24 max=32 avg=7)
+Crypt (12 cards, min=24 max=31 avg=6.75)
 ----------------------------------------
-5x Saku Pihlajamäki                 8 for pro CEL POT PRE   Baron      Brujah:6
-1x Aline Gädeke                     7 cel POT PRE           Baron      Brujah:6
-1x Valeriya Zinovieva               7 cel pre pro POT       Baron      Brujah:6
-3x Leumeah                          6 cel for pot PRE       Baron      Brujah:6
-1x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
-1x Octane                           6 CEL POT PRE                      Brujah:6
+2x Sergio Bueno                     8 aus pot OBF PRE PRO   Baron      Ministry:6
+1x Modius                           8 obf AUS CEL PRE       Prince     Toreador:7
+2x Vivian VI                        7 obf tha PRE PRO       Baron      Ministry:6
+1x Alice Chen                       7 dom obf FOR PRE       Prince     Ventrue:6
+2x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
+2x Elisha Tucker                    6 cel obf pro PRE       Baron      Ministry:6
+1x Arishat                          6 DAI OBF PRE           1 Vote     Baali:6
+1x Jacques Rouge                    6 ani pot pre OBF       Baron      Nosferatu:6
 
 Library (90 cards)
 ------------------
-Master (18)
+Master (14)
+1x Anarch Railroad
 1x Carfax Abbey
-1x Fame
-2x Fortitude
-1x Fragment of the Book of Nod
-2x Garibaldi-Meucci Museum
-2x Hackerspace
+1x Creepshow Casino
+1x Ferraille
+1x Opium Den
+1x Temple Hunting Ground
 3x Vessel
-3x Villein
-1x Wash
-2x Wider View
+4x Villein
+1x Wider View
 
-Action (14)
-2x Heroic Might
-8x Line Brawl
-3x Make the Misere
-1x Open War
+Action (10)
+9x Enchant Kindred
+1x Entrancement
 
-Political Action (1)
-1x Reckless Agitation
+Political Action (16)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+1x Firebrand
+8x Kine Resources Contested
+2x Patsy
+3x Reckless Agitation
 
-Equipment (5)
-5x .44 Magnum
+Equipment (1)
+1x Heart of Nizchetus
 
-Action Modifier (9)
-5x Forced March
-1x Freak Drive
-2x Monkey Wrench
-1x Perfect Paragon
+Action Modifier (26)
+4x Bewitching Oration
+2x Cloak the Gathering
+1x Faceless Night
+4x Forgotten Labyrinth
+2x Lost in Crowds
+6x Memory Rift
+1x Veil the Legions
+6x Voter Captivation
 
-Action Modifier/Combat (3)
-3x Resist Earth's Grasp
+Action Modifier/Reaction (1)
+1x Scalpel Tongue
 
-Reaction (18)
+Reaction (15)
 5x Bait and Switch
-2x Deep Ecology
-8x Organized Resistance
-3x Protection Racket
+4x On the Qui Vive
+6x Party Out Of Bounds
 
-Combat (22)
-3x Bollix
-4x Concealed Weapon
-8x Diversion
-2x Dust Up
-5x Taste of Vitae
+Combat (7)
+1x Donnybrook
+6x Majesty

@@ -10,52 +10,55 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW2.5
 
-Crypt (12 cards, min=22 max=32 avg=7)
+Crypt (12 cards, min=10 max=17 avg=3.25)
 ----------------------------------------
-3x Sascha Vykos, The Angel of Caine (ADV) 8 ani dom AUS THA VIC   Archbishop Tzimisce:2
-1x Anton                            8 cel obf vic ANI AUS              Tzimisce:2
-1x Little Tailor of Prague          8 dem ANI AUS VIC                  Tzimisce:2
-1x Meshenka                         8 ANI AUS VIC           Priscus    Tzimisce:2
-1x Dragos                           7 vic ANI AUS                      Tzimisce:2
-1x Kazimir Savostin                 7 ani pot AUS VIC                  Tzimisce:3
-1x Caliban                          6 ANI AUS VIC                      Tzimisce:2
-1x Corine Marcón                    6 ani AUS VIC                      Tzimisce:2
-1x Devin Bisley                     5 vic ANI AUS                      Tzimisce:2
-1x Elizabeth Westcott               5 ani cel vic AUS                  Tzimisce:3
+1x Isabel Giovanni                  5 pot DOM NEC                      Giovanni:2
+2x Gloria Giovanni                  4 nec DOM                          Giovanni:2
+1x Francesca Giovanni               4 dom nec pot                      Giovanni:2
+2x Lia Milliner                     3 dom nec                          Giovanni:3
+2x Rudolfo Giovanni                 3 NEC                              Giovanni:2
+1x Cristofero Giovanni              3 nec pot                          Giovanni:2
+1x Mario Giovanni                   3 nec pot                          Giovanni:2
+1x Marciana Giovanni, Investigator  2 dom                              Giovanni:2
+1x Paul DiCarlo, The Alpha          2 pot                              Giovanni:2
 
-Library (90 cards)
+Library (67 cards)
 ------------------
-Master (23)
-1x Anarch Troublemaker
-6x The British Museum, London
-1x Direct Intervention
-2x Dreams of the Sphinx
-1x Information Highway
-1x Library Hunting Ground
-4x Perfectionist
-6x Villein
-1x Wider View
+Master (12)
+2x Acquired Ventrue Assets
+1x The Coven
+1x Creepshow Casino
+1x Fear of Mekhet
+1x Jake Washington
+3x Liquidation
+1x Pentex™ Subversion
+2x Tribute to the Master
 
-Action (1)
-1x Abbot
+Action (20)
+4x The Embrace
+12x Khazar's Diary (Endless Night)
+4x Sudario Refraction
 
-Equipment (9)
-1x Heart of Nizchetus
-7x Living Manse
-1x Palatial Estate
+Ally (13)
+1x Carlton Van Wyk
+10x Draeven Softfoot
+1x Tye Cooper
+1x Vagabond Mystic
 
-Action Modifier (8)
-6x Changeling
-2x Mind of the Wilds
+Action Modifier (4)
+4x Call of the Hungry Dead
 
-Reaction (41)
+Action Modifier/Combat (1)
+1x Breath of Thanatos
+
+Action Modifier/Reaction (4)
+4x Spectral Divination
+
+Reaction (11)
+6x Deflection
 2x Delaying Tactics
-12x Eyes of Argus
-5x Guard Dogs
-3x My Enemy's Enemy
-4x On the Qui Vive
-15x Telepathic Misdirection
+1x Funeral Wake
+2x On the Qui Vive
 
-Combat (8)
-2x Breath of the Dragon
-6x Chiropteran Marauder
+Event (2)
+2x The Unmasking

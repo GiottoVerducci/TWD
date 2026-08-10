@@ -10,44 +10,53 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW1
 
-Crypt (12 cards, min=8 max=19 avg=3.25)
+Crypt (12 cards, min=14 max=30 avg=5.5)
 ----------------------------------------
-1x Apache Jones                     5 aus for obf DEM                  Malkavian antitribu:4
-1x Persia, The Beautiful Statue     5 aus obf DEM                      Malkavian:3
-1x Uncle George                     5 aus dom obf DEM                  Malkavian antitribu:3
-1x Beauregard Krueller              4 aus dem obf                      Malkavian antitribu:4
-2x Jackie                           3 DEM                              Malkavian antitribu:4
-2x Midget                           3 obf pre DEM                      Malkavian antitribu:3
-1x Marta                            3 aus dem                          Malkavian antitribu:4
-2x Cassandra Langely, The Waif      2 dem                              Malkavian:4
-1x Eddie Gaines                     1 dem pot                          Caitiff:3
+2x Conrad Adoula                    8 ani cel DOM OBT POT              Lasombra:4
+2x Badr, Shadow of Granada          7 DOM OBT POT                      Lasombra:5
+2x Onaedo                           6 aus pot DOM OBT                  Lasombra:4
+2x Ermenegildo, The Rake            5 pot DOM OBT                      Lasombra:4
+2x Leila Monroe                     4 dom obt pre                      Lasombra:4
+2x Lucy Markowitz                   3 dom obt                          Lasombra:4
 
-Library (80 cards)
+Library (90 cards)
 ------------------
-Master (13)
-1x Anarch Troublemaker
-2x Dementation
-2x Effective Management
-1x Information Highway
-1x Life in the City
-1x Misdirection
-1x Pentex™ Subversion
+Master (16)
+1x The Coven
+1x Elysian Fields
+3x The Path of Night
+2x Pentex™ Subversion
+2x Perfectionist
+1x Political Hunting Ground
+3x Vessel
 3x Wash
-1x Wider View
 
-Action (28)
-4x Dive into Madness
-24x Kindred Spirits
+Action (12)
+12x Govern the Unaligned
 
-Action Modifier (32)
-14x Confusion
-11x Eyes of Chaos
-2x Leverage
-3x Mind Tricks
-2x Veil the Legions
+Ally (10)
+10x Nocturn
 
-Action Modifier/Combat (4)
-4x Deny
+Equipment (2)
+2x Heart of Nizchetus
 
-Action Modifier/Reaction (3)
-3x Touch of Clarity
+Action Modifier (24)
+6x Bonding
+4x Conditioning
+2x Foreshadowing Destruction
+4x Shadow Play
+6x Shroud of Absence
+2x Shroud of Night
+
+Reaction (12)
+6x Deflection
+2x Delaying Tactics
+4x On the Qui Vive
+
+Combat (12)
+2x Entombment
+4x Oubliette
+6x Shadow Body
+
+Event (2)
+2x The Unmasking

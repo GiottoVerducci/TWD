@@ -10,53 +10,48 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 1GW4
 
-Crypt (12 cards, min=22 max=40 avg=7.83)
+Crypt (12 cards, min=35 max=44 avg=9.92)
 ----------------------------------------
-4x Anneke                          10 dom AUS CEL PRE       Justicar   Toreador:1
-3x Anson                            8 aus dom CEL PRE       Prince     Toreador:1
-2x Marcellus                        8 pro AUS CEL           Prince     Toreador:2
-1x Tatiana Romanov                  7 cel pre AUS           Prince     Toreador:1
-1x Dorian Strack                    4 cel AUS                          Toreador:1
-1x Isabel de Leon                   3 AUS                              Toreador:2
+5x Stanislava                      11 ANI CEL DOM FOR PRO   Inner Circle Gangrel:2
+1x Hartmut Stover                  10 dom for CEL OBF PRO   Archbishop Gangrel antitribu:3
+1x Xaviar (ADV)                    10 aus cel pot ABO ANI FOR PRO Justicar   Gangrel:3
+4x Ingrid Rossler                   9 dom ANI FOR PRO       Prince     Gangrel:2
+1x Mark Decker                      8 ani for obf pot CEL PRO Prince     Gangrel:3
 
-Library (90 cards)
+Library (73 cards)
 ------------------
-Master (25)
-1x Archon Investigation
-1x Art Museum
-7x Ashur Tablets
-1x Direct Intervention
-1x Dreams of the Sphinx
-1x Elder Library
-1x Fragment of the Book of Nod
+Master (16)
+2x Dreams of the Sphinx
 1x Giant's Blood
-1x Guardian Angel
-1x Minion Tap
+2x Information Highway
+1x Jake Washington
+1x Monastery of Shadows
+1x Papillon
 1x Pentex™ Subversion
-1x Powerbase: Montreal
-1x Society Hunting Ground
-1x Sudden Reversal
-5x Villein
+6x Villein
+1x Wider View
 
-Equipment (10)
-7x .44 Magnum
-1x Bowl of Convergence
-2x Sniper Rifle
+Action (10)
+10x Govern the Unaligned
 
-Action Modifier (4)
-3x Aire of Elation
-1x Enkil Cog
+Political Action (9)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+4x Parity Shift
+1x Reins of Power
 
-Reaction (22)
-5x Eyes of Argus
-2x My Enemy's Enemy
-10x Second Tradition: Domain
-5x Telepathic Misdirection
+Action Modifier (20)
+6x Earth Control
+2x Enkil Cog
+4x Forced March
+2x Foreshadowing Destruction
+6x Instantaneous Transformation
 
-Combat (29)
-9x Concealed Weapon
-2x Flash
-2x Psyche!
-7x Pursuit
-4x Sideslip
-5x Taste of Vitae
+Reaction (10)
+8x Deflection
+2x Guard Dogs
+
+Combat (8)
+2x Earth Meld
+6x Form of Mist

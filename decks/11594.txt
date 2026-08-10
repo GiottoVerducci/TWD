@@ -8,59 +8,60 @@ https://www.vekn.net/event-calendar/event/11594
 
 Deck Name: Camarilla Conclave GP 2024
 Description:
-1GW7.5
+1GW7
 
-Crypt (12 cards, min=10 max=25 avg=4.42)
+Crypt (12 cards, min=29 max=40 avg=8.75)
 ----------------------------------------
-1x Massimiliano                     7 pro ANI FOR           Baron      Gangrel:6
-2x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
-2x Kuyén                            6 ANI PRO               Baron      Gangrel:6
-1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
-1x Hanna Nokelainen                 4 ani for pro                      Gangrel:6
-1x Indira                           3 PRO                              Gangrel:6
-1x Joaquín de Cádiz                 3 for pro                          Gangrel:6
-1x Lillian                          3 ani pro                          Gangrel:5
-1x Malcolm                          2 ani                              Gangrel:5
-1x Ruslan Fedorenko                 2 pro                              Gangrel:6
+5x Bruce de Guy                    10 AUS DOM FOR OBT       Cardinal   Ventrue antitribu:4
+2x Antón de Concepción              9 aus ANI DOM OBT POT   Archbishop Lasombra:4
+2x Charles Delmare                  8 cel DOM OBT POT       Cardinal   Lasombra:5
+2x Lord Leopold Valdemar            8 cel dom obf OBT POT   Priscus    Lasombra:5
+1x Andrew Emory                     5 aus dom pot OBT       Bishop     Lasombra:4
 
-Library (69 cards)
+Library (90 cards)
 ------------------
-Master (21)
-1x The Anarch Free Press
-6x Ashur Tablets
-1x Club Illusion
-2x Direct Intervention
-1x Ecoterrorists
-1x Fame
-2x Left for Dead
-1x The Parthenon
-2x Piper
-4x Villein
+Master (20)
+1x The Coven
+2x Demonstration
+1x Direct Intervention
+1x Día de los Muertos
+1x Framing an Ancient Grudge
+1x Giant's Blood
+1x Gurchon Hall
+1x Jake Washington
+1x Monastery of Shadows
+1x Pentex™ Subversion
+1x Perfectionist
+1x Powerbase: Madrid
+5x Villein
+2x Wider View
 
-Action (6)
-1x Rewilding
-5x Thing
+Action (2)
+2x Under Siege
 
-Ally (10)
-1x Carlton Van Wyk
-1x Double Deuce
-1x Ossian
-7x Renegade Garou
+Political Action (17)
+1x Ancilla Empowerment
+1x Confiscation
+1x Disputed Territory
+10x Kine Resources Contested
+1x Neonate Breach
+1x Peace Treaty
+1x Political Stranglehold
+1x Reins of Power
 
-Reaction (16)
-5x Bait and Switch
-3x Deep Ecology
-3x Eyes of the Wild
-5x Organized Resistance
+Action Modifier (22)
+1x Blanket of Night
+4x Private Audience
+6x Shadow Play
+5x Shroud of Absence
+2x Shroud of Night
+4x Tenebrous Form
 
-Combat (11)
-2x Dodge
-3x Glancing Blow
-3x Pulled Fangs
-3x Weighted Walking Stick
+Reaction (20)
+12x Deflection
+8x On the Qui Vive
 
-Event (5)
-1x Dragonbound
-1x FBI Special Affairs Division
-1x The Slow Withering
-2x The Unmasking
+Combat (9)
+2x Arms of the Abyss
+2x Entombment
+5x Oubliette

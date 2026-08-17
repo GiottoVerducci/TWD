@@ -10,69 +10,65 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW0
 
-Crypt (12 cards, min=4 max=32 avg=4.58)
+Crypt (12 cards, min=40 max=40 avg=10)
 ----------------------------------------
-5x Fatima al-Faqadi                 8 aus for CEL OBF QUI              Banu Haqim:2
-1x Agrippina                        4 pot OBF                          Nosferatu:1
-1x Tansu Bekir                      4 cel OBF                          Banu Haqim:2
-1x Max Lowell                       3 cel obf                          Gangrel antitribu:2
-4x Anarch Convert                   1                                  Caitiff:ANY
+12x The unnamed                    10 CEL DAI OBF PRE PRO              Baali:6
 
-Library (89 cards)
+Library (90 cards)
 ------------------
-Master (15)
-1x Blood Doll
-1x Contract
-1x Direct Intervention
-2x Dreams of the Sphinx
-1x Fame
-1x Flames of Insurrection
-1x Fortitude
-1x Monster
-1x Priority Contract
-1x Tension in the Ranks
-2x Vessel
-1x Villein
-1x Yoruba Shrine
+Master (21)
+6x Abombwe
+1x Antediluvian Awakening
+1x The Barrens
+3x Dreams of the Sphinx
+1x Fragment of the Book of Nod
+1x Giant's Blood
+1x Golconda: Inner Peace
+1x Life Boon
+1x Monastery of Shadows
+1x Redeem the Lost Soul
+4x Villein
 
-Action (16)
-1x Ambush
-1x Big Game
-2x Bum's Rush
-1x Charge of the Buffalo
-3x Clandestine Contract
-1x Harass
-4x Loss
-2x Make the Misere
-1x Nose of the Hound
+Action (13)
+5x Call the Great Beast
+5x Flurry of Action
+1x Shadow of the Beast
+2x Unleash Hell's Fury
 
-Action/Combat (1)
-1x Steely Tenacity
-
-Ally (1)
+Ally (3)
+1x Herald of Topheth
 1x Mylan Horseed
+1x Veneficti
 
-Equipment (8)
-6x Assault Rifle
-1x Blade of Enoch
-1x Ivory Bow
+Equipment (5)
+5x Soul Gem of Etrius
 
-Retainer (1)
-1x Nar-Sheptha
+Retainer (2)
+2x Homunculus
 
-Action Modifier (12)
-4x Forced March
-8x Freak Drive
+Action Modifier (16)
+2x Devil-Channel: Throat
+4x Earth Control
+2x Enkil Cog
+6x Instantaneous Transformation
+2x Zephyr
 
-Action Modifier/Combat (5)
-5x Swallowed by the Night
+Action Modifier/Combat (8)
+4x Predator's Transformation
+2x Resist Earth's Grasp
+2x Taking the Skin: Minion
 
-Combat (29)
-7x Diversion
-8x Psyche!
-5x Pursuit
-3x Skin of Steel
-6x Taste of Vitae
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (13)
+2x Lost in Translation
+7x Predator's Communion
+4x Visions of Zapathasura
+
+Combat (6)
+3x Form of Mist
+3x Pursuit
 
 Event (1)
-1x Dragonbound
+1x Inconnu Tutelage

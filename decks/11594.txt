@@ -10,57 +10,50 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW1.5
 
-Crypt (12 cards, min=20 max=33 avg=6.5)
+Crypt (12 cards, min=40 max=44 avg=10.67)
 ----------------------------------------
-2x Kasim Bayar                      9 aus pot CEL OBF THA   Justicar   Banu Haqim:6
-1x Oluwafunmilayo                   8 AUS CEL OBF THA       Prince     Banu Haqim:6
-2x Farah Sarroub                    7 aus obf CEL THA       Prince     Banu Haqim:6
-3x Kassandra Tassaki                6 obf CEL THA           Prince     Banu Haqim:6
-1x Kalinda                          6 tha CEL OBF           Primogen   Banu Haqim:6
-2x Warmaksan                        5 cel obf THA           Prince     Banu Haqim:6
-1x Nayarana                         4 cel THA                          Banu Haqim:6
+5x Lucian, the Perfect             11 ANI AUS DOM OBF POT PRE            Guruhi:4
+3x Rafael de Corazon               11 AUS CEL DOM OBF PRE   Inner Circle Toreador:4
+3x Esau                            10 AUS DEM DOM OBF PRE              Malkavian:3
+1x Helena                          10 obf pre tha AUS CEL DOM            Toreador:3
 
-Library (90 cards)
+Library (80 cards)
 ------------------
-Master (17)
-1x Archon Investigation
-1x Direct Intervention
-4x Haqim's Law: Retribution
-1x Monster
-4x Priority Contract
-5x Villein
-1x Wash
+Master (23)
+5x Blind Spot
+2x Dreams of the Sphinx
+1x Giant's Blood
+2x Information Highway
+1x Metro Underground
+6x Villein
+6x Zillah's Valley
 
-Action (10)
-1x Fleetness
-7x Hunter's Mark
-2x Magic of the Smith
+Action (8)
+2x Entrancement
+6x Intimidation
 
-Equipment (6)
-3x .44 Magnum
-1x Bowl of Convergence
-1x Heart of Nizchetus
-1x Ivory Bow
+Action Modifier (28)
+2x Cloak the Gathering
+4x Conditioning
+1x Edge of the World
+4x Elder Impersonation
+3x Enkil Cog
+2x Faceless Night
+2x Foreshadowing Destruction
+6x Lost in Crowds
+4x Spying Mission
 
-Action Modifier/Combat (6)
-3x Resist Earth's Grasp
-3x Swallowed by the Night
+Action Modifier/Combat (2)
+2x Swallowed by the Night
 
-Reaction (10)
-10x Second Tradition: Domain
+Action Modifier/Reaction (2)
+2x Murmur of the False Will
 
-Combat (39)
-2x Blur
-2x Disguised Weapon
-13x Hunger of Marduk
-2x Infernal Pursuit
-2x Lightning Reflexes
-4x Psyche!
-6x Pursuit
-4x Quickness
-2x Rego Motum
-2x Sideslip
+Reaction (12)
+4x Deflection
+2x Eluding the Arms of Morpheus
+4x Eyes of Argus
+2x Redirection
 
-Event (2)
-1x Narrow Minds
-1x Scourge of the Enochians
+Combat (5)
+5x Majesty

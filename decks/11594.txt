@@ -10,41 +10,66 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW0.5
 
-Crypt (12 cards, min=16 max=32 avg=6.08)
+Crypt (13 cards, min=18 max=39 avg=7.31)
 ----------------------------------------
-4x Saku Pihlajamäki                 8 for pro CEL POT PRE   Baron      Brujah:6
-1x Aline Gädeke                     7 cel POT PRE           Baron      Brujah:6
-2x Leumeah                          6 cel for pot PRE       Baron      Brujah:6
-1x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
-2x Carmelita Neillson               5 cel pre AUS                      Toreador:7
-1x Elen Kamjian                     4 CEL POT                          Brujah:6
-1x Kazuki Hanabira                  2 aus                              Toreador:7
+3x Lambach                         10 pre ANI AUS DOM VIC   Cardinal   Tzimisce:2
+1x Velya, The Flayer                9 for ANI AUS PRE VIC   Cardinal   Tzimisce:3
+2x Meshenka                         8 ANI AUS VIC           Priscus    Tzimisce:2
+2x Sascha Vykos, The Angel of Caine (ADV) 8 ani dom AUS THA VIC   Archbishop Tzimisce:2
+2x Caliban                          6 ANI AUS VIC                      Tzimisce:2
+1x Corine Marcón                    6 ani AUS VIC                      Tzimisce:2
+1x Lolita Houston                   4 aus VIC                          Tzimisce:2
+1x Horatio                          2 vic                              Tzimisce:2
 
-Library (76 cards)
+Library (90 cards)
 ------------------
-Master (25)
-7x Ashur Tablets
-1x Carfax Abbey
-1x Garibaldi-Meucci Museum
-3x Hackerspace
-3x New Carthage
+Master (20)
+1x Dark Influences
+1x Dreams of the Sphinx
+1x The Erciyes Fragments
+1x Giant's Blood
+1x Library Hunting Ground
+1x Pentex™ Subversion
 1x Powerbase: Montreal
-6x Villein
-3x Wider View
+1x The Rack
+2x Rötschreck
+1x Smiling Jack, The Anarch
+4x Vessel
+4x Villein
+1x Wash
 
-Action (3)
-3x Anima Gathering
+Action (6)
+1x Aranthebes, The Immortal
+2x Deep Song
+1x Eternal Vigilance
+2x Under Siege
 
-Equipment (8)
-6x .44 Magnum
-1x Hawg
+Equipment (4)
+1x Bowl of Convergence
 1x Heart of Nizchetus
+1x Ivory Bow
+1x Sniper Rifle
 
-Reaction (24)
-6x Bait and Switch
-18x Organized Resistance
+Retainer (1)
+1x Raven Spy
 
-Combat (16)
-6x Concealed Weapon
-8x Diversion
-2x Psyche!
+Reaction (39)
+4x Cats' Guidance
+3x Eagle's Sight
+3x Enhanced Senses
+7x Eyes of Argus
+2x Forced Awakening
+2x Guard Dogs
+1x My Enemy's Enemy
+3x On the Qui Vive
+2x Precognition
+2x Read the Winds
+2x Spirit's Touch
+7x Telepathic Misdirection
+1x Wake with Evening's Freshness
+
+Combat (20)
+5x Breath of the Dragon
+2x Canine Horde
+3x Carrion Crows
+10x Chiropteran Marauder

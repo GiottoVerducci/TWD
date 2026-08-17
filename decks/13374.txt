@@ -1,0 +1,70 @@
+Year of the Sabbat Paths III: I Want Your Blood
+Herne, Germany
+August 1st 2026
+3R+F
+20 players
+Bart Jansen
+https://www.vekn.net/event-calendar/event/13374
+
+Deck Name: Recruitment Exercise Retribution [by borrelstein]
+Created by: borrelstein
+Description:
+Somewhat inspired by an old Izaak Havelaar black hand deck that I watched in action in my early VTES days.
+
+Crypt (12 cards, min=20 max=41 avg=7.75)
+----------------------------------------
+1x Elimelech the Twice-Damned      11 pro AUS DEM DOM FOR OBF            Ventrue antitribu:5
+3x Karif al Numair                 10 for AUS CEL OBF QUI              Banu Haqim:5
+2x Izhim abd Azrael                 9 pot CEL OBF QUI THA              Banu Haqim:5
+2x Djuhah, The Bronze Bow           7 aus cel pre OBF QUI              Banu Haqim:5
+1x Joe "Boot" Hill                  7 for obf CEL QUI                  Banu Haqim:4
+1x Reza Fatir, The Dark Angel       6 obf pro CEL QUI                  Banu Haqim:4
+1x Rashid Stockton                  4 cel obf vic                      Gangrel antitribu:5
+1x Lubomira Hradok                  3 OBF                              Nosferatu antitribu:5
+
+Library (80 cards)
+------------------
+Master (16)
+6x Ashur Tablets
+1x Coven, The
+2x Haqim's Law: Retribution
+1x Priority Contract
+4x Villein
+2x Watchtower: The Wolves Feed
+
+Action (25)
+1x Condemn the Sins of the Father
+4x Loss
+4x Recruitment Exercise
+12x Reunion Kamut
+4x Tattoo Signal
+
+Equipment (1)
+1x Guarded Rubrics
+
+Action Modifier (12)
+1x Deed the Heart's Desire
+1x Elder Impersonation
+2x Enkil Cog
+3x Faceless Night
+4x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (6)
+6x Swallowed by the Night
+
+Reaction (12)
+3x Black Sunrise
+3x Confusion of the Eye
+3x Telepathic Misdirection
+3x Truth in Ink
+
+Combat (4)
+2x Pursuit
+2x Taste of Death
+
+Event (4)
+1x Blood Trade
+1x Fourth Cycle, The
+1x Scourge of the Enochians
+1x Thirst

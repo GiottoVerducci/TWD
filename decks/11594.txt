@@ -10,50 +10,51 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 1GW4
 
-Crypt (12 cards, min=11 max=23 avg=4.17)
+Crypt (12 cards, min=17 max=30 avg=5.83)
 ----------------------------------------
-3x Ági                              6 FOR SAN VIC                      Blood Brother:6
-2x Gabi                             5 for SAN VIC                      Blood Brother:6
-2x Dorka                            4 for san vic                      Blood Brother:6
-2x Viri                             3 san vic                          Blood Brother:6
-2x Zizi                             3 san vic                          Blood Brother:6
-1x New Blood                        2 san                              Blood Brother:ANY
+2x Adrino Manauara                  8 pot ANI DOM PRO       Baron      Tzimisce:6
+2x Ángel Guerrero                   7 ANI DOM PRO           Baron      Tzimisce:6
+2x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
+1x Neserian                         6 cel pro ANI DOM                  Tzimisce:6
+1x Clara Hjortshøj                  5 ani aus dom PRO                  Tzimisce:6
+1x Marialena                        5 ani DOM PRO                      Tzimisce:6
+1x Whisper                          5 pro ANI DOM                      Tzimisce:6
+1x Prentis Derby                    4 ani dom pro                      Tzimisce:6
+1x Susie Kano                       3 ani dom                          Tzimisce:6
 
-Library (78 cards)
+Library (79 cards)
 ------------------
-Master (19)
-1x Anarch Troublemaker
-3x Blood Buff
-5x The British Museum, London
-1x The Coven
-3x Effective Management
-1x Heidelberg Castle, Germany
-2x Information Highway
-3x Tribute to the Master
+Master (10)
+1x Anarch Railroad
+1x Archon Investigation
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+2x Libertas
+1x Library Hunting Ground
+2x Vessel
 
-Action (18)
-6x Hive Mind
-5x Redistribution
-7x Unwholesome Bond
+Action (19)
+4x Deep Song
+3x Field Training
+8x Govern the Unaligned
+4x Scouting Mission
 
-Equipment (13)
-3x Blood Tears of Kephran
-1x Camera Phone
-2x Codex of the Edenic Groundskeepers
-4x Concoction of Vitality
-1x Flaming Candle
-1x Heart of Nizchetus
-1x Monocle of Clarity
+Action Modifier (18)
+6x Bonding
+2x Conditioning
+5x Earth Control
+3x Foreshadowing Destruction
+2x Threats
 
-Action Modifier (20)
-5x Changeling
-6x Claiming the Body
-4x Shell Game
-5x Walk of Caine
+Action Modifier/Reaction (7)
+7x Form of the Bat
 
-Action Modifier/Combat (7)
-3x Plasmic Form
-4x Slake the Thirst
+Reaction (16)
+9x Deflection
+5x On the Qui Vive
+2x Wake with Evening's Freshness
 
-Event (1)
-1x NRA PAC
+Combat (9)
+5x Earth Meld
+4x Form of Mist

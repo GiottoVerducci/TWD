@@ -10,50 +10,45 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW2
 
-Crypt (14 cards, min=4 max=23 avg=3.07)
+Crypt (13 cards, min=18 max=32 avg=6.69)
 ----------------------------------------
-2x Jost Werner                      6 ani AUS PRE                      Toreador antitribu:2
-1x Sheila Mezarin                   6 cel for AUS PRE                  Toreador antitribu:2
-1x Creamy Jade                      5 aus cel vic PRE                  Toreador antitribu:3
-1x Mercy, Knight Inquisitor         5 cel dom pre AUS                  Toreador antitribu:2
-1x Remilliard, Devout Crusader      4 pre AUS                          Toreador antitribu:2
-1x Lolita                           3 for pre                          Toreador antitribu:2
-1x Nicholas Chang                   2 aus                              Toreador antitribu:3
-6x Anarch Convert                   1                                  Caitiff:ANY
+4x Theo Bell                        8 aus dom CEL POT PRE              Brujah:6
+3x Saku Pihlajamäki                 8 for pro CEL POT PRE   Baron      Brujah:6
+1x Aline Gädeke                     7 cel POT PRE           Baron      Brujah:6
+1x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
+1x Leumeah                          6 cel for pot PRE       Baron      Brujah:6
+3x Elen Kamjian                     4 CEL POT                          Brujah:6
 
-Library (70 cards)
+Library (90 cards)
 ------------------
 Master (17)
-1x Anarch Railroad
-4x Anarch Revolt
-1x Anarch Troublemaker
-1x Club Illusion
-1x The Coven
-2x Dreams of the Sphinx
-1x Fetish Club Hunting Ground
-2x Libertas
-3x Palla Grande
-1x Pentex™ Subversion
+1x Archon Investigation
+3x Blood Doll
+1x Carfax Abbey
+1x Direct Intervention
+1x Dreams of the Sphinx
+2x Fame
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Secure Haven
+5x Villein
 
-Action (15)
-2x Art Scam
-2x Entrancement
-1x Patronage
-10x Undue Influence
+Action (18)
+6x Enchant Kindred
+2x Heroic Might
+8x Line Brawl
+1x Open War
+1x Smash and Grab
 
-Ally (1)
-1x Carlton Van Wyk
+Reaction (15)
+6x Bait and Switch
+9x Organized Resistance
 
-Action Modifier (8)
-2x Aire of Elation
-6x Power of One
-
-Reaction (19)
-3x Delaying Tactics
-4x Eyes of Argus
-4x On the Qui Vive
-8x Telepathic Misdirection
-
-Combat (10)
-5x Majesty
-5x Staredown
+Combat (40)
+3x Bollix
+2x Disarm
+5x Dust Up
+9x Immortal Grapple
+8x Pursuit
+5x Taste of Vitae
+8x Torn Signpost

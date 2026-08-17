@@ -10,45 +10,51 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW2
 
-Crypt (13 cards, min=18 max=32 avg=6.69)
+Crypt (12 cards, min=22 max=32 avg=6.83)
 ----------------------------------------
 4x Theo Bell                        8 aus dom CEL POT PRE              Brujah:6
-3x Saku Pihlajamäki                 8 for pro CEL POT PRE   Baron      Brujah:6
-1x Aline Gädeke                     7 cel POT PRE           Baron      Brujah:6
+2x Aline Gädeke                     7 cel POT PRE           Baron      Brujah:6
+2x Valeriya Zinovieva               7 cel pre pro POT       Baron      Brujah:6
 1x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
 1x Leumeah                          6 cel for pot PRE       Baron      Brujah:6
-3x Elen Kamjian                     4 CEL POT                          Brujah:6
+1x Octane                           6 CEL POT PRE                      Brujah:6
+1x Elen Kamjian                     4 CEL POT                          Brujah:6
 
 Library (90 cards)
 ------------------
-Master (17)
-1x Archon Investigation
-3x Blood Doll
+Master (14)
+1x The Anarch Free Press
 1x Carfax Abbey
+1x Carver's Meat Packing and Storage
 1x Direct Intervention
 1x Dreams of the Sphinx
 2x Fame
-1x Garibaldi-Meucci Museum
 1x Giant's Blood
-1x Secure Haven
-5x Villein
+1x Guardian Angel
+1x Tension in the Ranks
+4x Vessel
 
-Action (18)
-6x Enchant Kindred
-2x Heroic Might
-8x Line Brawl
-1x Open War
-1x Smash and Grab
+Action (12)
+5x Enchant Kindred
+1x Heroic Might
+6x Line Brawl
 
-Reaction (15)
-6x Bait and Switch
-9x Organized Resistance
+Reaction (18)
+5x Bait and Switch
+4x On the Qui Vive
+7x Organized Resistance
+2x Protection Racket
 
-Combat (40)
-3x Bollix
-2x Disarm
-5x Dust Up
-9x Immortal Grapple
-8x Pursuit
-5x Taste of Vitae
-8x Torn Signpost
+Combat (45)
+6x Bollix
+6x Dust Up
+8x Immortal Grapple
+2x Pursuit
+2x Roundhouse
+2x Sideslip
+2x Slam
+7x Taste of Vitae
+10x Torn Signpost
+
+Event (1)
+1x Dragonbound

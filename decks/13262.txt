@@ -1,0 +1,54 @@
+Irish Nationals 2026 - Dublin
+Ireland
+2026-04-25 09:00:00
+3R+F
+17 players
+Norbert Flasko
+
+https://archon.vekn.net/t/13262
+
+Deck Name: Life is hard
+
+Crypt (12 cards)
+----------------
+4x Aaradhya, The Callous Tyrant   10  ANI DOM FOR POT PRE  Ventrue:6
+1x Carolina Vález                  9  aus DOM OBT POT PRE  Lasombra:5
+1x Dark Selina                     9  dom for CEL POT PRE  Brujah antitribu:5
+1x De Sade                         9  AUS DOM FOR PRE      Ventrue antitribu:5
+1x Věnceslava, The Implacable      9  cel DOM FOR POT PRE  Brujah:6
+1x Damian                          8  for pre DOM OBL POT  Lasombra:6
+1x Rexton "Savage" Abernathy       8  cel DOM POT PRE      Brujah:6
+1x Üresség                         8  dom for CEL POT PRE  Brujah:6
+1x Khin Aye                        7  dom for POT PRE      Ventrue:6
+
+Library (85 cards)
+Master (17)
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+2x Monastery of Shadows
+1x Papillon
+2x Ventrue Headquarters
+7x Villein
+Action (8)
+8x Govern the Unaligned
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+4x Cold War
+6x Kine Resources Contested
+2x Neonate Breach
+1x Reins of Power
+Action Modifier (29)
+4x Dominant Personality
+4x Iron Glare
+4x Perfect Paragon
+5x Relentlessness
+6x Unthinkable Humiliation
+6x Voter Captivation
+Reaction (8)
+8x Deflection
+Combat (6)
+6x Majesty

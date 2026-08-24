@@ -10,54 +10,58 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW0
 
-Crypt (12 cards, min=30 max=40 avg=9)
+Crypt (12 cards, min=17 max=30 avg=5.83)
 ----------------------------------------
-5x Unmada                          10 cel for AUS DEM OBF VIC Justicar   Malkavian:5
-1x Gabrielle di Righetti           10 obf pot ANI AUS DOM THA Justicar   Tremere:5
-2x Orlando Oriundus                 9 obf AUS DOM THA       Bishop     Tremere antitribu:4
-1x Gerald Windham                   9 AUS DOM FOR THA                  Tremere:5
-1x Benjamin Rose                    7 ani pot AUS OBF       Prince     Nosferatu:5
-1x Graham Gottesman                 7 obf pre tha DOM FOR   Prince     Ventrue:5
-1x Karen Suadela                    7 obf pre CEL POT       Prince     Brujah:5
+2x Adrino Manauara                  8 pot ANI DOM PRO       Baron      Tzimisce:6
+2x Ángel Guerrero                   7 ANI DOM PRO           Baron      Tzimisce:6
+1x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
+1x Neserian                         6 cel pro ANI DOM                  Tzimisce:6
+1x Stephen Bateson                  6 ani aus tha vic                  Tzimisce:5
+1x Clara Hjortshøj                  5 ani aus dom PRO                  Tzimisce:6
+1x Marialena                        5 ani DOM PRO                      Tzimisce:6
+1x Whisper                          5 pro ANI DOM                      Tzimisce:6
+1x Prentis Derby                    4 ani dom pro                      Tzimisce:6
+1x Susie Kano                       3 ani dom                          Tzimisce:6
 
-Library (90 cards)
+Library (80 cards)
 ------------------
-Master (25)
-2x Camarilla Conclave
-1x Dreams of the Sphinx
-3x Heidelberg Castle, Germany
-2x Information Highway
-2x Obfuscate
-5x Villein
-2x Wash
-3x Wider View
-5x Zillah's Valley
+Master (14)
+1x The Anarch Free Press
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Carfax Abbey
+1x Creepshow Casino
+2x Direct Intervention
+1x Libertas
+1x Pentex™ Subversion
+3x Perfectionist
+1x Powerbase: Montreal
+1x Vox Domini
 
-Action (10)
-5x Fourth Tradition: The Accounting
-2x Govern the Unaligned
-3x Puppet Master
+Action (14)
+2x Field Training
+12x Govern the Unaligned
 
-Political Action (17)
-1x Ancient Influence
-2x Banishment
-3x Camarilla's Iron Fist
-1x Conservative Agitation
-2x Kine Resources Contested
-6x Parity Shift
-1x Political Stranglehold
-1x Reins of Power
+Ally (7)
+7x Asanbonsam Ghoul
 
-Action Modifier (17)
-3x Elder Impersonation
-2x Faceless Night
-5x Forgotten Labyrinth
-2x Into Thin Air
-2x Lost in Crowds
-3x Veil the Legions
+Action Modifier (10)
+1x Bonding
+2x Conditioning
+5x Earth Control
+2x Foreshadowing Destruction
 
-Reaction (21)
-2x Eyes of Argus
-6x Mental Maze
-6x Second Tradition: Domain
-7x Telepathic Misdirection
+Action Modifier/Reaction (2)
+2x Form of the Bat
+
+Reaction (17)
+4x Bait and Switch
+5x Deflection
+8x Organized Resistance
+
+Combat (14)
+9x Earth Meld
+5x Form of Mist
+
+Event (2)
+2x The Unmasking

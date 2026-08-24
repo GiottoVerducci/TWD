@@ -10,53 +10,58 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW1
 
-Crypt (12 cards, min=21 max=37 avg=7.25)
+Crypt (12 cards, min=36 max=44 avg=9.83)
 ----------------------------------------
-1x Matteus, Flesh Sculptor         10 AUS CEL PRE VIC       Priscus    Toreador antitribu:2
-3x Donatien                         9 cel pot AUS PRE       Cardinal   Toreador antitribu:2
-1x Lachlan, Noddist                 8 dom AUS CEL PRE       Archbishop Toreador antitribu:2
-2x Greta Kircher                    7 obf AUS CEL PRE                  Toreador antitribu:2
-1x Jessica                          7 AUS CEL OBT PRE       Bishop     Toreador antitribu:2
-1x Jost Werner                      6 ani AUS PRE                      Toreador antitribu:2
-1x Sheila Mezarin                   6 cel for AUS PRE                  Toreador antitribu:2
-1x Mercy, Knight Inquisitor         5 cel dom pre AUS                  Toreador antitribu:2
-1x Remilliard, Devout Crusader      4 pre AUS                          Toreador antitribu:2
+3x Lutz von Hohenzollern           11 pot AUS DEM OBF PRE   Inner Circle Malkavian:4
+2x Adana de Sforza                 11 aus CEL OBF POT PRE PRO Inner Circle Brujah:4
+4x Nehemiah                         9 obt POT PRE SER TEM   2 Votes    True Brujah:4
+2x Dmitra Ilyanova                  9 obf CEL FOR POT PRE   Justicar   Brujah:5
+1x Annazir                          9 DAI OBF POT PRE       2 Votes    Baali:5
 
-Library (90 cards)
+Library (85 cards)
 ------------------
-Master (16)
-1x The Art of Pain
-2x Direct Intervention
-1x Fetish Club Hunting Ground
-4x Palla Grande
-1x Powerbase: Montreal
-1x The Rack
-2x Sudden Reversal
-4x Vessel
+Master (21)
+1x Information Highway
+1x Monastery of Shadows
+1x Tabriz Assembly
+6x Villein
+1x Wider View
+11x Zillah's Valley
 
-Action (16)
-8x Enchant Kindred
-2x Entrancement
-2x Intimidation
-4x Social Charm
+Action (2)
+1x Entrancement
+1x Hourglass of the Mind
 
-Action Modifier (16)
-8x Change of Target
-8x Crocodile's Tongue
+Political Action (14)
+2x Anarchist Uprising
+1x Ancilla Empowerment
+3x Banishment
+2x Kine Resources Contested
+2x Neonate Breach
+1x Political Stranglehold
+2x Reckless Agitation
+1x Reins of Power
 
-Reaction (28)
-2x Eagle's Sight
-2x Enhanced Senses
-4x Eyes of Argus
-2x Forced Awakening
-2x Melange
-2x My Enemy's Enemy
-2x On the Qui Vive
-2x Precognition
-2x Quicken Sight
-2x Spirit's Touch
-6x Telepathic Misdirection
+Equipment (1)
+1x Heart of Nizchetus
 
-Combat (14)
-6x Charismatic Aura
-8x Majesty
+Action Modifier (40)
+2x Approximation of Loyalty
+4x Bewitching Oration
+2x Cloak the Gathering
+4x Domain of Evernight
+2x Elder Impersonation
+2x Faceless Night
+2x Forgotten Labyrinth
+2x Into Thin Air
+4x Iron Glare
+4x Perfect Paragon
+6x Tangle Atropos' Hand
+6x Voter Captivation
+
+Reaction (3)
+3x Visions of Zapathasura
+
+Combat (4)
+3x Majesty
+1x Outside the Hourglass

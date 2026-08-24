@@ -1,0 +1,52 @@
+Liga GL/PT 2025-2026
+Lisboa, Portugal
+May 23rd 2026
+3R+F
+16 players
+Tiago Gonçalves
+https://www.vekn.net/event-calendar/event/13236
+
+Deck Name: Politics
+Created by: Tiago “Tzimisce” Gonçalves
+Description:
+Arishat joins the Agitated Barons on a Reckless attempt to rule over ancient Methuselahs. This gimmick is known already but my version focus on cycling fast to deal damage quickly. Using masters and the Unleash to protect, lower Stealth from action modifiers but Stealth from masters.
+
+Crypt (12 cards, min=24 max=28 avg=6.33)
+----------------------------------------
+1x Sergio Bueno                     8 aus pot OBF PRE PRO   Baron      Ministry:6
+2x Vivian VI                        7 obf tha PRE PRO       Baron      Ministry:6
+5x Arishat                          6 DAI OBF PRE           1 Vote     Baali:6
+2x Atiena                           6 obf pot pre CEL       Baron      Brujah:6
+1x Elisha Tucker                    6 cel obf pro PRE       Baron      Ministry:6
+1x Jacques Rouge                    6 ani pot pre OBF       Baron      Nosferatu:6
+
+Library (70 cards)
+------------------
+Master (17)
+1x Barrens, The
+1x Creepshow Casino
+2x Dreams of the Sphinx
+1x Ferraille
+1x Opium Den
+4x Protected Resources
+5x Villein
+2x Wider View
+
+Action (7)
+4x Condemnation: Mute
+3x Unleash Hell's Fury
+
+Political Action (16)
+1x Ancilla Empowerment
+7x Kine Resources Contested
+1x Neonate Breach
+7x Reckless Agitation
+
+Action Modifier (30)
+5x Bewitching Oration
+3x Cloak the Gathering
+2x Elder Impersonation
+6x Forgotten Labyrinth
+4x Lost in Crowds
+3x Veil the Legions
+7x Voter Captivation

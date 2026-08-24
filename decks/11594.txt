@@ -10,60 +10,52 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW2.5
 
-Crypt (13 cards, min=4 max=26 avg=3.31)
+Crypt (12 cards, min=22 max=32 avg=7)
 ----------------------------------------
-2x Gilbert Duane                    7 AUS DOM OBF           Baron      Malkavian:6
-1x Darius Shirazi                   6 obf AUS DOM                      Malkavian:5
-1x Gelasia Fotiou                   6 obf pre AUS DOM                  Malkavian:6
-1x Colette                          5 dom AUS OBF                      Malkavian:6
-1x Daria                            5 ani AUS OBF                      Nosferatu:6
-7x Anarch Convert                   1                                  Caitiff:ANY
+3x Sascha Vykos, The Angel of Caine (ADV) 8 ani dom AUS THA VIC   Archbishop Tzimisce:2
+1x Anton                            8 cel obf vic ANI AUS              Tzimisce:2
+1x Little Tailor of Prague          8 dem ANI AUS VIC                  Tzimisce:2
+1x Meshenka                         8 ANI AUS VIC           Priscus    Tzimisce:2
+1x Dragos                           7 vic ANI AUS                      Tzimisce:2
+1x Kazimir Savostin                 7 ani pot AUS VIC                  Tzimisce:3
+1x Caliban                          6 ANI AUS VIC                      Tzimisce:2
+1x Corine Marcón                    6 ani AUS VIC                      Tzimisce:2
+1x Devin Bisley                     5 vic ANI AUS                      Tzimisce:2
+1x Elizabeth Westcott               5 ani cel vic AUS                  Tzimisce:3
 
 Library (90 cards)
 ------------------
-Master (19)
-2x The British Museum, London
-1x Dreams of the Sphinx
-1x Fame
-4x Hackerspace
-1x Life Boon
-2x Millicent Smith, Puritan Vampire Hunter
-1x The Rack
-1x Rötschreck
-2x Smiling Jack, The Anarch
-4x Vessel
+Master (23)
+1x Anarch Troublemaker
+6x The British Museum, London
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Information Highway
+1x Library Hunting Ground
+4x Perfectionist
+6x Villein
+1x Wider View
 
-Action (9)
-1x Constant Revolution
-7x Govern the Unaligned
-1x Nose of the Hound
+Action (1)
+1x Abbot
 
-Equipment (12)
-1x Bowl of Convergence
-1x Cooler
-3x Flamethrower
+Equipment (9)
 1x Heart of Nizchetus
-1x Ivory Bow
-2x Kevlar Vest
-3x Sniper Rifle
+7x Living Manse
+1x Palatial Estate
 
-Action Modifier/Combat (3)
-3x Swallowed by the Night
+Action Modifier (8)
+6x Changeling
+2x Mind of the Wilds
 
-Reaction (40)
-2x Deflection
-1x Delaying Tactics
-6x Eagle's Sight
-5x Enhanced Senses
-6x Eyes of Argus
-4x Forced Awakening
-4x My Enemy's Enemy
+Reaction (41)
+2x Delaying Tactics
+12x Eyes of Argus
+5x Guard Dogs
+3x My Enemy's Enemy
 4x On the Qui Vive
-4x Spirit's Touch
-4x Telepathic Misdirection
+15x Telepathic Misdirection
 
-Combat (6)
-6x Disguised Weapon
-
-Event (1)
-1x NRA PAC
+Combat (8)
+2x Breath of the Dragon
+6x Chiropteran Marauder

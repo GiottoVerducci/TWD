@@ -1,0 +1,77 @@
+Brisbane Grand Prix 2026
+Brisbane, Australia
+July 18th 2026
+3R+F
+17 players
+Nick Miller
+https://www.vekn.net/event-calendar/event/13115
+
+Deck Name: Path of death ally toolbox
+Description:
+Play as a toolbox rather than swarm. Bring out the support cards. Unmasking, Dance of the Dead, Vagabond Mystic, Fiorella. Then there are options to block, bleed, rush with the Freakish Conglomerations.
+
+Crypt (12 cards, min=15 max=31 avg=5.83)
+----------------------------------------
+1x Abderrahim, Death's Hand         9 tha AUS DOM OBL POT              Death   Lasombra:6
+1x Eulogio Sánchez de los Reyes     8 AUS DOM OBL THA                  Death   Tremere:6
+2x Sakura, The Merciless            7 aus pot DOM OBL THA              Death   Lasombra:6
+1x Parijat, the Dark Oracle         7 AUS DOM FOR OBL                  Hecata:6
+1x Aintzane Arriaga                 6 DOM OBL POT                      Lasombra:6
+1x Kamaluddin                       6 for pot DOM OBL       Primogen   Lasombra:6
+1x Azucena                          5 pot DOM OBL                      Lasombra:6
+1x Zbigniew, Hunter of Mekhet       5 aus dom tha OBL                  Death   Lasombra:6
+1x El Monseñor                      4 dom OBL                          Death   Lasombra:6
+1x Alek König                       3 OBL                              Hecata:6
+1x Nadezhda                         3 aus obl                          Death   Hecata:6
+
+Library (75 cards)
+------------------
+Master (15)
+1x Burial Site Hunting Ground
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Fame
+1x Giant's Blood
+1x Life in the City
+1x The Line
+2x Perfectionist
+1x Powerbase: Montreal
+2x Villein
+1x Visit from the Capuchin
+
+Action (15)
+2x Dance of the Dead
+7x Govern the Unaligned
+1x Revelations
+5x Shroud of Decay
+
+Ally (10)
+1x Fiorella, Empty One
+7x Freakish Conglomeration
+2x Vagabond Mystic
+
+Action Modifier (15)
+3x Gifts From Hereafter
+1x Seduction
+2x Shadow Cast
+2x Shadow Cloak
+4x Stygian Shroud
+3x Where the Veil Thins
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
+Reaction (11)
+6x Deflection
+1x Delaying Tactics
+1x On the Qui Vive
+3x Shadow Sentinel
+
+Combat (5)
+4x Pass Through Shadow
+1x Target Vitals
+
+Event (3)
+1x FBI Special Affairs Division
+2x The Unmasking

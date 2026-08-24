@@ -10,62 +10,44 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 1GW5
 
-Crypt (13 cards, min=16 max=26 avg=5.23)
+Crypt (12 cards, min=12 max=20 avg=4)
 ----------------------------------------
-1x Carna, The Princess Witch        7 AUS DOM THA           Primogen   Tremere:3
-1x Ladislas Toth, The Torch         7 for AUS DOM THA       Archbishop Tremere antitribu:3
-1x Elena Mendoza Vasquez            6 dom obt AUS THA                  Tremere antitribu:3
-1x Selena                           6 AUS DOM THA                      Tremere antitribu:3
-1x Yasmin the Black                 6 dom pre AUS THA                  Tremere antitribu:3
-5x Antonio d'Erlette                5 dom for pot THA                  Tremere antitribu:4
-1x Frondator                        5 dom tha AUS           Bishop     Tremere antitribu:4
-1x Keith Moody                      3 DOM                              Tremere antitribu:4
-1x Martin Franckel                  3 tha AUS                          Tremere:3
+2x Apache Jones                     5 aus for obf DEM                  Malkavian antitribu:4
+2x Uncle George                     5 aus dom obf DEM                  Malkavian antitribu:3
+1x Luc                              5 dem vic OBF                      Malkavian antitribu:4
+1x Beauregard Krueller              4 aus dem obf                      Malkavian antitribu:4
+1x Fabrizia Contreraz               4 dem pot               Archbishop Malkavian antitribu:4
+2x Jackie                           3 DEM                              Malkavian antitribu:4
+2x Midget                           3 obf pre DEM                      Malkavian antitribu:3
+1x Marta                            3 aus dem                          Malkavian antitribu:4
 
-Library (90 cards)
+Library (82 cards)
 ------------------
-Master (34)
-12x Ashur Tablets
-2x Direct Intervention
-2x Dreams of the Sphinx
-1x Haven Uncovered
-1x Infernal Pact
-1x Information Highway
-1x Jake Washington
-6x Liquidation
-1x Major Boon
-4x The Parthenon
-1x Pentex™ Subversion
-1x Smiling Jack, The Anarch
-1x Sudden Reversal
+Master (10)
+1x Anarch Troublemaker
+1x The Barrens
+3x Dementation
+1x Direct Intervention
+1x Dreams of the Sphinx
+2x Pentex™ Subversion
+1x Wider View
 
-Action (5)
-1x Far Mastery
-1x Govern the Unaligned
-3x Magic of the Smith
+Action (30)
+30x Kindred Spirits
 
-Ally (10)
-10x Nephandus
+Equipment (1)
+1x Enchanted Marionette
 
-Equipment (3)
-1x Bowl of Convergence
-1x Heart of Nizchetus
-1x Sniper Rifle
+Action Modifier (30)
+14x Confusion
+12x Eyes of Chaos
+4x Mind Tricks
 
-Action Modifier (7)
-1x Conditioning
-6x Mirror Walk
+Action Modifier/Combat (2)
+2x Deny
 
-Reaction (27)
-6x Deflection
-2x Delaying Tactics
-6x Eyes of Argus
-1x My Enemy's Enemy
-6x On the Qui Vive
-6x Telepathic Misdirection
+Action Modifier/Reaction (8)
+8x Touch of Clarity
 
-Combat (1)
-1x Autonomic Mastery
-
-Event (3)
-3x The Unmasking
+Event (1)
+1x The Bitter and Sweet Story

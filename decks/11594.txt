@@ -10,55 +10,56 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW0.5
 
-Crypt (12 cards, min=29 max=43 avg=9)
+Crypt (12 cards, min=32 max=37 avg=8.5)
 ----------------------------------------
-3x Lord Tremere                    11 obe ANI AUS DOM THA VIC            Tremere:5
-1x Lucubratio                      10 AUS DOM POT PRE THA   Archbishop Tremere antitribu:4
-4x Malgorzata                       9 pre AUS DOM THA VIC   Priscus    Tremere antitribu:4
-1x Eric Kressida                    8 cel AUS DOM PRO THA   Bishop     Tremere antitribu:4
-1x Paul Cordwood                    8 obf pre AUS DOM THA   Bishop     Tremere antitribu:4
-1x Gerald FitzGerald                7 AUS DOM THA                      Tremere antitribu:5
-1x Johannes Worringen               6 dom AUS THA           Archbishop Tremere antitribu:5
+1x François Villon                 10 ani obf pot AUS CEL PRE Prince     Toreador:6
+4x Diana Iadanza                    9 AUS CEL FOR PRE       Justicar   Toreador:7
+3x Marcos Belegrad                  8 ani AUS CEL PRE       Prince     Toreador:7
+2x Catalina Vega                    8 for AUS CEL PRE       Prince     Toreador:6
+2x Modius                           8 obf AUS CEL PRE       Prince     Toreador:7
 
 Library (90 cards)
 ------------------
-Master (18)
-1x Anarch Troublemaker
-1x Direct Intervention
-3x Dreams of the Sphinx
+Master (26)
+1x Art Museum
+3x Camarilla Conclave
+1x The Coven
+2x Dreams of the Sphinx
 1x Giant's Blood
-1x KRCG News Radio
+1x Information Highway
 1x Monastery of Shadows
-1x University Hunting Ground
-5x Villein
-4x Zillah's Valley
+1x Pentex™ Subversion
+6x Villein
+1x Wider View
+8x Zillah's Valley
 
-Action (19)
-13x Govern the Unaligned
-2x Magic of the Smith
-2x Rutor's Hand
-2x Under Siege
+Action (3)
+1x Entrancement
+2x Judgment: Camarilla Segregation
 
-Political Action (3)
-1x Ancient Influence
+Political Action (19)
+1x Ancilla Empowerment
+2x Banishment
+5x Camarilla's Iron Fist
+4x Kine Resources Contested
+6x Parity Shift
 1x Political Stranglehold
-1x Reins of Power
 
-Equipment (3)
-1x Bowl of Convergence
-1x Heart of Nizchetus
-1x The Signet of King Saul
+Action Modifier (18)
+2x Aire of Elation
+6x Loup
+4x Perfect Paragon
+6x Voter Captivation
 
-Action Modifier (22)
-6x Bonding
-3x Conditioning
-1x Foreshadowing Destruction
-10x Mirror Walk
-2x Seduction
+Action Modifier/Reaction (4)
+4x Scalpel Tongue
 
-Reaction (25)
-6x Deflection
-2x Enhanced Senses
-5x Eyes of Argus
-10x Obedience
-2x Telepathic Misdirection
+Reaction (12)
+4x Eyes of Argus
+2x My Enemy's Enemy
+2x Second Tradition: Domain
+4x Telepathic Misdirection
+
+Combat (8)
+2x Charismatic Aura
+6x Majesty

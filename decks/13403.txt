@@ -1,0 +1,72 @@
+Third Road to Vilnius 2026
+Online
+July 12th 2026
+2R+F
+18 players
+Lech Ivanov
+https://www.vekn.net/event-calendar/event/13403
+
+Deck Name: Ministry swarm
+
+Crypt (12 cards, min=21 max=32 avg=6.58)
+----------------------------------------
+1x Aisha az-Zahra                   9 obf qui AUS CEL PRE              Toreador:5
+2x Sergio Bueno                     8 aus pot OBF PRE PRO   Baron      Ministry:6
+3x Vivian VI                        7 obf tha PRE PRO       Baron      Ministry:6
+2x Elisha Tucker                    6 cel obf pro PRE       Baron      Ministry:6
+1x Crystal Lynn                     6 OBF PRE PRO                      Ministry:6
+1x Aluc Romas de Leon               5 aus obf pro PRE                  Ministry:6
+1x Doctor Morocco                   5 cel obf pre PRO                  Ministry:6
+1x Jenny Silver                     5 obf PRE PRO                      Ministry:6
+
+Library (80 cards)
+------------------
+Master (25)
+1x The Anarch Free Press
+1x Anarch Railroad
+1x Archon Investigation
+1x Carfax Abbey
+1x The Coven
+1x Ferraille
+2x Garibaldi-Meucci Museum
+1x Opium Den
+1x Poacher's Hunting Ground
+7x Protean
+1x Temple Hunting Ground
+6x Villein
+1x Wider View
+
+Action (13)
+1x Fee Stake: Corte
+1x Fee Stake: Los Angeles
+1x Fee Stake: Perth
+10x Waters of Duat
+
+Political Action (6)
+4x Consanguineous Boon
+2x Revolutionary Council
+
+Ally (1)
+1x Saatet-ta
+
+Equipment (2)
+1x Heart of Nizchetus
+1x The Sargon Fragment
+
+Action Modifier (3)
+3x Earth Control
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (17)
+7x Bait and Switch
+10x Organized Resistance
+
+Combat (9)
+1x Donnybrook
+4x Earth Meld
+4x Form of Mist
+
+Event (1)
+1x The Uncoiling

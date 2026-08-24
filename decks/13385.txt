@@ -1,0 +1,62 @@
+Fee Stake: Jyväskylä 9
+Jyväskylä, Finland
+August 15th 2026
+2R+F
+12 players
+Ari-Pekka Alestalo
+https://www.vekn.net/event-calendar/event/13385
+
+Deck Name: In Midnight Clad
+Description:
+Obtenebration/Dominate stealth bleed with small combat module
+
+Crypt (12 cards, min=17 max=28 avg=6)
+----------------------------------------
+5x Badr, Shadow of Granada          7 DOM OBT POT                      Lasombra:5
+2x Andrew Emory                     5 aus dom pot OBT       Bishop     Lasombra:4
+2x Lord Vauxhall                    7 DOM OBT POT THA                  Lasombra:4
+1x Lucy Markowitz                   3 dom obt                          Lasombra:4
+1x Paulo de Castille                4 ani dom pot                      Lasombra:4
+1x Virginie, Prodigy                6 obt DOM POT           Bishop     Lasombra:4
+
+Library (72 cards)
+------------------
+Master (11)
+1x Danse Macabre
+1x Grooming the Protégé
+1x Haven Uncovered
+1x Information Highway
+1x Obtenebration
+1x Path of Night, The
+1x Political Hunting Ground
+1x Sudden Reversal
+3x Vessel
+
+Action (8)
+1x Dominate Kine
+6x Govern the Unaligned
+1x Preternatural Strength
+
+Action Modifier (27)
+2x Bonding
+5x Conditioning
+2x Foreshadowing Destruction
+2x Seduction
+3x Shadow Play
+4x Shroud of Absence
+3x Shroud of Night
+3x Sleeping Mind, The
+3x Tenebrous Form
+
+Reaction (11)
+5x Deflection
+2x Forced Awakening
+4x On the Qui Vive
+
+Combat (15)
+3x Arms of the Abyss
+5x Dark Steel
+2x Darkness Within
+1x Entombment
+2x Oubliette
+2x Shadow Step

@@ -10,56 +10,59 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW0.5
 
-Crypt (12 cards, min=32 max=37 avg=8.5)
+Crypt (12 cards, min=7 max=16 avg=2.92)
 ----------------------------------------
-1x François Villon                 10 ani obf pot AUS CEL PRE Prince     Toreador:6
-4x Diana Iadanza                    9 AUS CEL FOR PRE       Justicar   Toreador:7
-3x Marcos Belegrad                  8 ani AUS CEL PRE       Prince     Toreador:7
-2x Catalina Vega                    8 for AUS CEL PRE       Prince     Toreador:6
-2x Modius                           8 obf AUS CEL PRE       Prince     Toreador:7
+1x Idalia, Prophet of Guadalajara   4 dem AUS                          Malkavian antitribu:2
+1x Maldavis (ADV)                   4 for pre AUS                      Caitiff:3
+1x Remilliard, Devout Crusader      4 pre AUS                          Toreador antitribu:2
+1x Richard Tauber, Ayelea's Puppet  4 tha AUS                          Tremere antitribu:2
+1x David Morgan, The Scourge        3 aus pot                          Malkavian:3
+1x Isabel de Leon                   3 AUS                              Toreador:2
+1x Martin Franckel                  3 tha AUS                          Tremere:3
+1x Milo, The Invisible Horror       3 aus obf                          Malkavian:3
+1x Zöe                              3 cel obf AUS                      Malkavian:2
+1x Almiro Suarez                    2 aus                              Tremere:3
+1x Feo Ramos                        1 aus                              Pander:3
+1x Franciscus                       1 aus                              Caitiff:2
 
 Library (90 cards)
 ------------------
-Master (26)
-1x Art Museum
-3x Camarilla Conclave
-1x The Coven
-2x Dreams of the Sphinx
-1x Giant's Blood
-1x Information Highway
-1x Monastery of Shadows
-1x Pentex™ Subversion
-6x Villein
-1x Wider View
-8x Zillah's Valley
+Master (14)
+1x Channel 10
+2x Direct Intervention
+1x Fragment of the Book of Nod
+1x KRCG News Radio
+1x Powerbase: Montreal
+1x The Rack
+1x Smiling Jack, The Anarch
+4x Tribute to the Master
+1x WMRH Talk Radio
+1x Wall Street Night, Financial Newspaper
 
-Action (3)
-1x Entrancement
-2x Judgment: Camarilla Segregation
+Action (4)
+1x Aranthebes, The Immortal
+3x Soul Scan
 
-Political Action (19)
-1x Ancilla Empowerment
-2x Banishment
-5x Camarilla's Iron Fist
-4x Kine Resources Contested
-6x Parity Shift
-1x Political Stranglehold
+Ally (1)
+1x Carlton Van Wyk
 
-Action Modifier (18)
-2x Aire of Elation
-6x Loup
-4x Perfect Paragon
-6x Voter Captivation
+Equipment (10)
+5x .44 Magnum
+1x Bowl of Convergence
+1x Ivory Bow
+3x Sniper Rifle
 
-Action Modifier/Reaction (4)
-4x Scalpel Tongue
+Reaction (55)
+2x Delaying Tactics
+8x Eagle's Sight
+6x Enhanced Senses
+6x Eyes of Argus
+6x Forced Awakening
+5x My Enemy's Enemy
+4x On the Qui Vive
+5x Precognition
+5x Spirit's Touch
+8x Telepathic Misdirection
 
-Reaction (12)
-4x Eyes of Argus
-2x My Enemy's Enemy
-2x Second Tradition: Domain
-4x Telepathic Misdirection
-
-Combat (8)
-2x Charismatic Aura
-6x Majesty
+Combat (6)
+6x Concealed Weapon

@@ -10,50 +10,36 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW1.5
 
-Crypt (12 cards, min=40 max=44 avg=10.67)
+Crypt (12 cards, min=21 max=31 avg=6.33)
 ----------------------------------------
-5x Lucian, the Perfect             11 ANI AUS DOM OBF POT PRE            Guruhi:4
-3x Rafael de Corazon               11 AUS CEL DOM OBF PRE   Inner Circle Toreador:4
-3x Esau                            10 AUS DEM DOM OBF PRE              Malkavian:3
-1x Helena                          10 obf pre tha AUS CEL DOM            Toreador:3
+3x Abaddon                          8 cel pot AUS DOM FOR              Salubri:7
+1x Ilonka                           7 tha AUS DOM FOR                  Salubri:7
+3x Sakhar                           6 dom AUS FOR                      Salubri:7
+1x Aniel                            6 for AUS DOM                      Salubri:7
+1x Castellan                        6 cel dom AUS FOR                  Salubri:7
+1x Malachi                          6 AUS DOM FOR                      Salubri:7
+1x Opikun                           5 aus dom FOR                      Salubri:7
+1x Yael                             4 aus dom for                      Salubri:7
 
-Library (80 cards)
+Library (16 cards)
 ------------------
-Master (23)
-5x Blind Spot
-2x Dreams of the Sphinx
-1x Giant's Blood
-2x Information Highway
-1x Metro Underground
-6x Villein
-6x Zillah's Valley
+Master (4)
+1x Meditative Grove
+1x Saulot's Avenging Fist
+1x Saulot's Guiding Wisdom
+1x Sight Beyond Sight
 
-Action (8)
-2x Entrancement
-6x Intimidation
+Action (3)
+3x Anonymous Freight
 
-Action Modifier (28)
-2x Cloak the Gathering
-4x Conditioning
-1x Edge of the World
-4x Elder Impersonation
-3x Enkil Cog
-2x Faceless Night
-2x Foreshadowing Destruction
-6x Lost in Crowds
-4x Spying Mission
+Equipment (1)
+1x Sword of the Archangel
 
-Action Modifier/Combat (2)
-2x Swallowed by the Night
+Action Modifier (3)
+3x Forced Confessional
 
-Action Modifier/Reaction (2)
-2x Murmur of the False Will
+Reaction (2)
+2x My Enemy's Enemy
 
-Reaction (12)
-4x Deflection
-2x Eluding the Arms of Morpheus
-4x Eyes of Argus
-2x Redirection
-
-Combat (5)
-5x Majesty
+Combat (3)
+3x Concealed Weapon

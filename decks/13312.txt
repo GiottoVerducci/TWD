@@ -1,0 +1,85 @@
+Jimmy Dunn II
+Vidor, Texas
+July 18th 2026
+3R+F
+14 players
+Matthew Hatch
+https://www.vekn.net/event-calendar/event/13312
+
+Deck Name: 70% G wall
+Created by: Matt Hatch
+Description:
+7 Donnybrooks is perfect. 2 of anarach tagged cards= enough with recurring via garabadli. 4 deep songs may be too few?
+
+Crypt (16 cards, min=12 max=28 avg=5.31)
+----------------------------------------
+1x Keegan                           8 aus cel ANI FOR PRO              Gangrel:6
+2x Massimiliano                     7 pro ANI FOR           Baron      Gangrel:6
+2x André the Manipulator            6 FOR PRO                          Gangrel:5
+2x Casey Snyder                     6 ani cel for PRO       Baron      Gangrel:6
+2x Kuyén                            6 ANI PRO               Baron      Gangrel:6
+1x Martina Srnankova                6 ani FOR PRO                      Gangrel:6
+1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
+2x Hanna Nokelainen                 4 ani for pro                      Gangrel:6
+1x Indira                           3 PRO                              Gangrel:6
+1x Joaquín de Cádiz                 3 for pro                          Gangrel:6
+1x Ruslan Fedorenko                 2 pro                              Gangrel:6
+
+Library (90 cards)
+------------------
+Master (15)
+1x Archon Investigation
+1x Backways
+1x Dreams of the Sphinx
+1x Ecoterrorists
+1x Gangrel Revel
+1x Information Highway
+1x Powerbase: Los Angeles
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+5x Villein
+1x Wash
+
+Action (21)
+2x Aranthebes, The Immortal
+1x Army of Rats
+1x Constant Revolution
+4x Deep Song
+2x Force of Will
+2x Rewilding
+9x Thing
+
+Political Action (2)
+2x Firebrand
+
+Ally (1)
+1x Double Deuce
+
+Equipment (2)
+2x Leather Jacket
+
+Retainer (3)
+2x Dog Pack
+1x Mr. Winthrop
+
+Action Modifier (11)
+2x Adhocracy
+1x Earth Control
+5x Freak Drive
+3x Monkey Wrench
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
+Reaction (18)
+6x Bait and Switch
+4x Deep Ecology
+6x Organized Resistance
+2x Protection Racket
+
+Combat (13)
+1x Aid from Bats
+1x Carrion Crows
+7x Donnybrook
+2x Form of Mist
+2x Groundfighting

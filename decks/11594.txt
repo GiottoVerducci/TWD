@@ -10,69 +10,60 @@ Deck Name: Camarilla Conclave GP 2024
 Description:
 0GW1
 
-Crypt (12 cards, min=21 max=30 avg=6.33)
+Crypt (12 cards, min=21 max=32 avg=6.67)
 ----------------------------------------
-2x Adrino Manauara                  8 pot ANI DOM PRO       Baron      Tzimisce:6
+4x Adrino Manauara                  8 pot ANI DOM PRO       Baron      Tzimisce:6
 3x Ángel Guerrero                   7 ANI DOM PRO           Baron      Tzimisce:6
-2x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
-1x Neserian                         6 cel pro ANI DOM                  Tzimisce:6
-1x Stephen Bateson                  6 ani aus tha vic                  Tzimisce:5
+1x Branimira                        6 dom pre pro ANI       Baron      Tzimisce:6
+1x Kuyén                            6 ANI PRO               Baron      Gangrel:6
 1x Clara Hjortshøj                  5 ani aus dom PRO                  Tzimisce:6
+1x Kamile Paukstys                  5 ani for PRO                      Gangrel:6
 1x Marialena                        5 ani DOM PRO                      Tzimisce:6
-1x Whisper                          5 pro ANI DOM                      Tzimisce:6
 
-Library (80 cards)
+Library (90 cards)
 ------------------
-Master (13)
+Master (17)
 1x Anarch Railroad
 1x Carfax Abbey
-1x Channel 10
-1x Club Illusion
-1x Creepshow Casino
-2x Direct Intervention
-1x Dreams of the Sphinx
-1x Jake Washington
-1x Library Hunting Ground
+1x The Coven
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Papillon
+1x Pentex™ Subversion
 1x Powerbase: Montreal
-1x The Rack
-1x Smiling Jack, The Anarch
+4x Vessel
+2x Wider View
 
-Action (11)
-1x Constant Revolution
-10x Govern the Unaligned
+Action (17)
+3x Deep Song
+14x Govern the Unaligned
 
-Action/Combat (1)
-1x Steely Tenacity
+Political Action (2)
+1x Reckless Agitation
+1x Revolutionary Council
 
-Ally (14)
-10x Asanbonsam Ghoul
-1x Carlton Van Wyk
-1x Vagabond Mystic
-2x War Ghoul
+Equipment (1)
+1x Heart of Nizchetus
 
-Equipment (3)
-2x Living Manse
-1x The Sargon Fragment
-
-Retainer (1)
-1x Crypt's Sons
-
-Action Modifier (8)
-2x Conditioning
-2x CrimethInc.
+Action Modifier (12)
+4x Conditioning
 4x Earth Control
+4x Seduction
 
-Action Modifier/Combat (2)
-2x Rapid Change
+Action Modifier/Reaction (3)
+3x Form of the Bat
 
-Reaction (11)
-6x Deflection
-1x Delaying Tactics
-4x One With the Land
+Reaction (21)
+5x Bait and Switch
+2x Deep Ecology
+5x Deflection
+2x Delaying Tactics
+6x Organized Resistance
+1x Protection Racket
 
-Combat (14)
-9x Earth Meld
-5x Form of Mist
-
-Event (2)
-2x The Unmasking
+Combat (17)
+1x Donnybrook
+8x Earth Meld
+8x Form of Mist

@@ -1,0 +1,69 @@
+Infernal Summer
+Spain
+2026-06-21 09:00:00
+3R+F
+15 players
+Juan José Romero Paniagua
+
+https://archon.vekn.net/t/13379
+
+
+Nombre del mazo: Djeneba y amigos
+Autor: Juanjo romero Paniagua
+Nombre del mazo: Djeneba y amigos
+Autor: Juanjo romero Paniagua
+
+Cripta (12 cartas, mín.=23, máx.=36, promedio=7,17)Deck Name: djeneba and Friends
+
+
+Crypt (12 cards)
+----------------
+4x Djeneba                         9  obf ANI AUS DOM FOR  Salubri:7
+1x Seraphina                       8  cel tha AUS DOM FOR  Salubri:7
+1x Ilonka                          7  tha AUS DOM FOR      Salubri:7
+1x Aniel                           6  for AUS DOM          Salubri:7
+1x Malachi                         6  AUS DOM FOR          Salubri:7
+3x Sakhar                          6  dom AUS FOR          Salubri:7
+1x Opikun                          5  aus dom FOR          Salubri:7
+
+Library (90 cards)
+Master (14)
+1x Depravity
+1x Dreams of the Sphinx
+1x Fame
+1x Meditative Grove
+1x Saulot's Avenging Fist
+1x Tension in the Ranks
+2x Vessel
+3x Villein
+2x Wash
+1x Wider View
+Action (13)
+8x Govern the Unaligned
+1x Pulse of the Canaille
+4x Touch of Valeren
+Equipment (5)
+1x Bang Nakh — Tiger's Claws
+1x Bowl of Convergence
+1x Ivory Bow
+1x Sword of the Archangel
+1x The Crimson Sentinel
+Action Modifier (6)
+6x Freak Drive
+Reaction (29)
+4x Deflection
+3x Eagle's Sight
+2x Enhanced Senses
+6x Eyes of Argus
+2x Forced Vigilance
+3x My Enemy's Enemy
+3x On the Qui Vive
+3x Spirit's Touch
+3x Telepathic Misdirection
+Combat (22)
+8x Anticipation
+10x Hidden Strength
+2x Pulled Fangs
+2x Taste of Vitae
+Event (1)
+1x Dragonbound

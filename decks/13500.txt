@@ -1,0 +1,61 @@
+Göcsej Under Siege
+
+2026-08-22 10:00:00
+3R+F
+11 players
+Endler Gábor
+
+https://archon.vekn.net/t/13500
+
+Deck Name: Salubri PB (Göcsej)
+
+Crypt (12 cards)
+----------------
+3x Djeneba                         9  obf ANI AUS DOM FOR  Salubri:7
+2x Abaddon                         8  cel pot AUS DOM FOR  Salubri:7
+1x Seraphina                       8  cel tha AUS DOM FOR  Salubri:7
+2x Barachiel                       7  ani AUS DOM FOR      Salubri:7
+1x Malachi                         6  AUS DOM FOR          Salubri:7
+2x Opikun                          5  aus dom FOR          Salubri:7
+1x Yael                            4  aus dom for          Salubri:7
+
+Library (90 cards)
+Master (8)
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Guardian Angel
+1x Meditative Grove
+1x Sight Beyond Sight
+3x Villein
+Action (19)
+6x Feast of the Soul's Secrets
+10x Govern the Unaligned
+1x Graverobbing
+2x Touch of Valeren
+Equipment (3)
+1x Bowl of Convergence
+1x Heart of Nizchetus
+1x Sword of the Archangel
+Action Modifier (27)
+2x Bonding
+3x Conditioning
+1x Daring the Dawn
+3x Forced Confessional
+1x Foreshadowing Destruction
+4x Freak Drive
+1x Murmur of the False Will
+3x Seduction
+2x The Sleeping Mind
+1x Unleash the Hounds
+6x Unleashing the Bestial Soul
+Reaction (22)
+4x Deflection
+1x Delaying Tactics
+9x Eyes of Argus
+2x My Enemy's Enemy
+6x Telepathic Misdirection
+Combat (11)
+4x Anticipation
+2x Hidden Strength
+1x Rolling with the Punches
+4x Tranquility Shield

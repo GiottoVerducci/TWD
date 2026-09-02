@@ -1,0 +1,58 @@
+CAPIXABÃO 2026
+Brazil
+2026-08-15 10:00:00
+3R+F
+12 players
+Leonardo Vidigal
+
+https://archon.vekn.net/t/13461
+
+Deck Name: Falha ou paga um brodí
+
+Crypt (12 cards)
+----------------
+2x The unnamed                    10  CEL DAI OBF PRE PRO  Baali:6
+8x The Horde                       3  dai obf pre          Baali:6
+1x New Blood                       2  san                  Blood Brother:any
+1x Anarch Convert                  1  -none-               Caitiff:any
+
+Library (90 cards)
+Master (30)
+1x Archon Investigation
+6x Ashur Tablets
+1x Direct Intervention
+1x Elder Library
+1x Millicent Smith, Puritan Vampire Hunter
+1x Smiling Jack, The Anarch
+2x Society of Leopold
+12x Striga
+1x The Barrens
+1x The Parthenon
+1x Tribute to the Master
+1x Vampiric Disease
+1x Wider View
+Action (4)
+1x Aranthebes, The Immortal
+1x Contagion
+2x Unleash Hell's Fury
+Ally (2)
+1x Carlton Van Wyk
+1x Mylan Horseed
+Equipment (5)
+1x Heart of Nizchetus
+1x Ivory Bow
+2x Kaymakli Fragment
+1x Sniper Rifle
+Retainer (1)
+1x Homunculus
+Action Modifier (1)
+1x Enkil Cog
+Reaction (42)
+2x On the Qui Vive
+40x Scobax
+Combat (2)
+2x Hexe
+Event (3)
+1x Blood Weakens
+1x The Slow Withering
+1x Veil of Darkness

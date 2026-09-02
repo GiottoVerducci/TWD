@@ -1,0 +1,56 @@
+The Fourth Cycle
+France
+2026-08-29 11:00:00
+3R+F
+19 players
+Axel Winkelmann
+
+https://archon.vekn.net/t/SMVG5T
+
+Deck Name: protected Nosfe
+
+Crypt (12 cards)
+----------------
+1x Nikolaus Vermeulen (G6)         7  for obf ANI POT      Nosferatu:6
+1x Belinde                         6  ani aus pot OBF      Nosferatu:6
+1x Kalinda (G6)                    6  tha CEL OBF          Banu Haqim:6
+2x Larissa Moreira                 6  pot ANI OBF          Nosferatu:6
+2x Lenny Burkhead                  6  obf pot pre ANI      Nosferatu:6
+2x The Dowager                     6  aus pot ANI OBF      Nosferatu:6
+1x Baixinho                        3  ani obf              Nosferatu:6
+1x Dominica                        3  aus for              Salubri:7
+1x Surapong                        2  ani                  Nosferatu:6
+
+Library (77 cards)
+Master (17)
+1x Anarch Troublemaker
+1x Giant's Blood
+1x Jake Washington
+1x Saulot's Guiding Wisdom
+2x The Labyrinth
+7x Villein
+4x Warsaw Station
+Action (9)
+4x Army of Rats
+5x Creeping Sabotage
+Ally (8)
+1x Carlton Van Wyk
+7x Underbridge Stray
+Equipment (1)
+1x Heart of Nizchetus
+Political Action (8)
+4x Camarilla's Iron Fist
+4x Kine Resources Contested
+Action Modifier (16)
+1x Cloak the Gathering
+1x Elder Impersonation
+4x Faceless Night
+6x Lost in Crowds
+3x Swallowed by the Night
+1x Veil the Legions
+Reaction (12)
+12x Protected District
+Combat (5)
+5x Voracious Vermin
+Event (1)
+1x The Unmasking

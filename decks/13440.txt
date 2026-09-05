@@ -1,0 +1,65 @@
+Symposium Italicum MMXXVI - Barga
+Italy
+2026-09-05 08:30:00
+3R+F
+28 players
+Federico Neri
+
+https://archon.vekn.net/t/13440
+
+Deck Name: Crypt (12 cards, min=12 max=25 avg=4.92)
+
+Crypt (12 cards)
+----------------
+1x Massimiliano                    7  pro ANI FOR          Gangrel:6
+2x Casey Snyder                    6  ani cel for PRO      Gangrel:6
+2x Kuyén                           6  ANI PRO              Gangrel:6
+1x Martina Srnankova               6  ani FOR PRO          Gangrel:6
+1x Crow                            5  for pro tha ANI      Gangrel:5
+1x Kamile Paukstys                 5  ani for PRO          Gangrel:6
+1x Hanna Nokelainen                4  ani for pro          Gangrel:6
+1x Indira                          3  PRO                  Gangrel:6
+1x Joaquín de Cádiz                3  for pro              Gangrel:6
+1x Ruslan Fedorenko                2  pro                  Gangrel:6
+
+Library (90 cards)
+Master (21)
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+2x Direct Intervention
+1x Ecoterrorists
+1x Effective Management
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+1x The Anarch Free Press
+1x The Parthenon
+1x Tribute to the Master
+2x Vessel
+5x Villein
+1x Zoo Hunting Ground
+Action (17)
+2x Constant Revolution
+1x Rewilding
+14x Thing
+Ally (4)
+4x Renegade Garou
+Equipment (1)
+1x Heart of Nizchetus
+Retainer (4)
+4x Raven Spy
+Action Modifier (5)
+2x Earth Control
+3x Form of the Bat
+Reaction (25)
+6x Bait and Switch
+5x Deep Ecology
+1x Delaying Tactics
+6x Eyes of the Wild
+2x Organized Resistance
+5x Protection Racket
+Combat (13)
+1x Donnybrook
+11x Earth Meld
+1x Form of Mist

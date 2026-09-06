@@ -1,0 +1,52 @@
+Pulled fang #15
+Czech Republic
+2026-09-05 10:00:00
+3R+F
+53 players
+Daniel Magda
+
+https://archon.vekn.net/t/13394
+
+Deck Name: Gambit Declined
+
+Crypt (12 cards)
+----------------
+4x Ambrosio Luis Monçada, Plenipotentiary 10  aus for DOM OBT POT PRE Lasombra:2
+5x Angelica, The Canonicus        10  cel obf DOM OBT POT  Lasombra:2
+1x Francisco Domingo de Polonia    9  pro DOM OBT POT PRE  Lasombra:2
+2x Gratiano                        8  obf pot DOM OBT      Lasombra:2
+
+Library (78 cards)
+Master (46)
+1x Archon Investigation
+9x Ashur Tablets
+1x Black Forest Base
+4x Dreams of the Sphinx
+1x Elysian Fields
+2x Giant's Blood
+1x Golconda: Inner Peace
+5x Information Highway
+1x Life Boon
+6x Minion Tap
+1x Monastery of Shadows
+2x Presence
+3x Sudden Reversal
+1x The Coven
+5x The Parthenon
+1x Wash
+2x Wider View
+Action (3)
+2x Entrancement
+1x Under Siege
+Political Action (5)
+1x Banishment
+2x Cold War
+2x War of Ages
+Action Modifier (11)
+1x Enkil Cog
+2x Foreshadowing Destruction
+2x Shadow Play
+6x Shroud of Absence
+Reaction (13)
+5x Deflection
+8x Obedience

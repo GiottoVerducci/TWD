@@ -1,0 +1,61 @@
+Crusade: Budapest VI. Forduló
+Spain
+2026-06-09 17:15:00
+2R+F
+19 players
+Zoltán Panyik
+
+https://archon.vekn.net/t/13319
+
+Deck Name: Hecata TV
+
+Crypt (12 cards)
+----------------
+1x Mora, the Death Seer            7  ani AUS FOR OBL      Hecata:6
+1x Lenelle, Mambo of Birmingham    6  aus FOR OBL          Hecata:6
+1x Monica Giovanni                 6  AUS FOR OBL          Hecata:6
+2x Gebeyehu Abdu                   5  for AUS OBL          Hecata:6
+1x Holliday "Burgundy" Hall        5  aus FOR OBL          Hecata:6
+1x Hiromitsu Asano                 4  aus for obl          Hecata:6
+2x Alek König                      3  OBL                  Hecata:6
+1x Nadezhda                        3  aus obl              Hecata:6
+2x Peter St. John                  2  obl                  Hecata:6
+
+Library (90 cards)
+Master (22)
+2x Cappadocian Crypt
+2x Charisma
+1x Direct Intervention
+1x Dreams of the Sphinx
+2x Fame
+5x Family Gathering
+1x Fragment of the Book of Nod
+1x Jake Washington
+3x Liquidation
+1x Mob Connections
+1x Perfectionist
+1x Powerbase: Montreal
+1x Vox Domini
+Action (12)
+4x Psychophagia
+8x Split the Veil
+Ally (21)
+8x Aggressive Corpse
+1x Brigitte Gebauer
+1x Gianna di Canneto
+2x Rotting Behemoth
+8x Spectral Servitor
+1x Tye Cooper
+Action Modifier (16)
+4x Shadow Cast
+4x Shadow Cloak
+4x Stygian Shroud
+4x Where the Veil Thins
+Reaction (9)
+1x On the Qui Vive
+4x Shadow Sentinel
+4x Telepathic Misdirection
+Combat (8)
+8x Target Vitals
+Event (2)
+2x The Unmasking

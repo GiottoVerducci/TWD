@@ -1,0 +1,51 @@
+Liga BR - Mensal Garagem do Nerd
+Brazil
+2026-09-19 12:00:00
+2R+F
+10 players
+João Rodrigues
+
+https://archon.vekn.net/t/13509
+
+Deck Name: Hecata Mill Ações
+
+Baseado no Jeff3nd um abraço!
+
+Crypt (12 cards)
+----------------
+2x "Mother" Anja Giovanni          8  dom pot AUS FOR OBL  Hecata:6
+2x Mora, the Death Seer            7  ani AUS FOR OBL      Hecata:6
+2x Parijat, the Dark Oracle        7  AUS DOM FOR OBL      Hecata:6
+1x Lenelle, Mambo of Birmingham    6  aus FOR OBL          Hecata:6
+1x Monica Giovanni                 6  AUS FOR OBL          Hecata:6
+1x Gebeyehu Abdu                   5  for AUS OBL          Hecata:6
+2x Holliday "Burgundy" Hall        5  aus FOR OBL          Hecata:6
+1x Alek König                      3  OBL                  Hecata:6
+
+Library (85 cards)
+Master (14)
+2x Blood Doll
+1x Cappadocian Crypt
+1x Direct Intervention
+1x Dreams of the Sphinx
+5x Family Gathering
+1x The Line
+2x Vessel
+1x Villein
+Action (14)
+2x Psychophagia
+12x Shroud of Decay
+Ally (8)
+8x Spectral Servitor
+Action Modifier (29)
+8x Freak Drive
+5x Shadow Cast
+5x Shadow Cloak
+6x Stygian Shroud
+5x Where the Veil Thins
+Reaction (14)
+2x Delaying Tactics
+6x Eyes of Argus
+6x Telepathic Misdirection
+Combat (6)
+6x Pass Through Shadow

@@ -1,0 +1,61 @@
+Ropecon 2026 "30 Years of VTES" Grand Prix
+Ropecon 2026 gaming convention, Messukeskus, Helsinki, Finland
+July 25th 2026
+3R+F
+48 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/13382
+
+-- 1GW6 +4vp in final
+
+Deck Name: Antti's woodchopping and blueberries selecting practice
+
+Crypt (13 cards, min=12, max=24, avg=4.54)
+------------------------------------------
+4x Maila            6  AUS PRE cel      primogen  Toreador:6
+1x Mkhokheli        6  PRE aus cel for  prince    Toreador:6
+1x Regina Blake     5  AUS PRE                    Toreador:6
+1x Bret Stryker     4  CEL PRE                    Toreador:6
+1x Massimo Falconi  4  aus cel pre                Toreador:6
+1x Rose Abawi       4  aus obf pre                Toreador:6
+1x Silvian Popescu  4  PRE cel                    Toreador:7
+1x Nik Sikko        3  cel pre                    Toreador:6
+1x Valentina Osako  3  PRE                        Toreador:7
+1x Mateo García     2  pre                        Toreador:6
+
+Library (65 cards)
+Master (14; 5 trifle)
+1x Art Museum
+6x Ashur Tablets
+1x Coven, The
+1x Creepshow Casino
+1x Powerbase: Montreal
+3x Villein
+1x Wider View
+
+Action (3)
+3x Soul Scan
+
+Political Action (26)
+5x Camarilla's Iron Fist
+5x Consanguineous Boon
+5x Kine Resources Contested
+1x Praxis Seizure: Boston
+1x Praxis Seizure: Chicago
+1x Praxis Seizure: Cleveland
+1x Praxis Seizure: Dallas
+1x Praxis Seizure: Dublin
+1x Praxis Seizure: Frankfurt
+1x Praxis Seizure: Monaco
+1x Praxis Seizure: Paris
+3x Toreador Justicar
+
+Action Modifier (17)
+4x Bewitching Oration
+5x Loup
+3x Perfect Paragon
+5x Voter Captivation
+
+Combat (5)
+4x Majesty
+1x Staredown

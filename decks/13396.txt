@@ -1,0 +1,61 @@
+IX Paraibano de vtes
+Campina Grande (PB), Brazil
+July 12th 2026
+3R+F
+27 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/13396
+
+-- 2GW8 + 4vp in final
+
+Deck Name: A mão Pesada da Justiça 2.0
+
+Crypt (12 cards, min=21, max=32, avg=6.58)
+------------------------------------------
+2x Saku Pihlajamäki    8  CEL POT PRE for pro  baron  Brujah:6
+2x Theo Bell           8  CEL POT PRE aus dom         Brujah:6
+2x Leumeah             6  PRE cel for pot      baron  Brujah:6
+1x Aline Gädeke        7  POT PRE cel          baron  Brujah:6
+1x Valeriya Zinovieva  7  POT cel pre pro      baron  Brujah:6
+1x Atiena              6  CEL obf pot pre      baron  Brujah:6
+1x Octane              6  CEL POT PRE                 Brujah:6
+1x Siarhei Levchenko   5  CEL PRE pot                 Brujah:6
+1x Elen Kamjian        4  CEL POT                     Brujah:6
+
+Library (90 cards)
+Master (18; 4 trifle)
+3x Anarch Revolt
+1x Carfax Abbey
+1x Dreams of the Sphinx
+1x Fame
+2x Fortitude
+1x Garibaldi-Meucci Museum
+1x Monster
+1x New Carthage
+1x Powerbase: Montreal
+1x Rack, The
+1x Tension in the Ranks
+2x Vessel
+2x Villein
+
+Action (12)
+1x Aranthebes, The Immortal
+10x Line Brawl
+1x Preternatural Strength
+
+Equipment (2)
+1x Heart of Nizchetus
+1x Sport Bike
+
+Reaction (15)
+6x Bait and Switch
+7x Organized Resistance
+2x Protection Racket
+
+Combat (43)
+10x Diversion
+11x Dust Up
+5x Hell-for-Leather
+9x Immortal Grapple
+4x Pursuit
+4x Torn Signpost

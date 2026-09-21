@@ -1,0 +1,76 @@
+Symposium Italicum MMXXVI
+Barga, Italy
+September 5th 2026
+3R+F
+28 players
+Federico Neri
+https://www.vekn.net/event-calendar/event/13440
+
+-- 2GW5 + 1.5vp in final
+
+Deck Name: Versipellis transfuga
+Description: Gangrel Wall Deck with Garou
+
+Crypt (12 cards, min=12, max=25, avg=4.92)
+------------------------------------------
+2x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6
+2x Kuyén              6  ANI PRO          baron  Gangrel:6
+1x Massimiliano       7  ANI FOR pro      baron  Gangrel:6
+1x Martina Srnankova  6  FOR PRO ani             Gangrel:6
+1x Crow               5  ANI for pro tha         Gangrel:5
+1x Kamile Paukstys    5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen   4  ani for pro             Gangrel:6
+1x Indira             3  PRO                     Gangrel:6
+1x Joaquín de Cádiz   3  for pro                 Gangrel:6
+1x Ruslan Fedorenko   2  pro                     Gangrel:6
+
+Library (90 cards)
+Master (21; 7 trifle)
+1x Anarch Free Press, The
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+2x Direct Intervention
+1x Ecoterrorists
+1x Effective Management
+1x Parthenon, The
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+1x Tribute to the Master
+2x Vessel
+5x Villein
+1x Zoo Hunting Ground
+
+Action (17)
+2x Constant Revolution
+1x Rewilding
+14x Thing
+
+Ally (4)
+4x Renegade Garou
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Retainer (4)
+4x Raven Spy
+
+Action Modifier (2)
+2x Earth Control
+
+Action Modifier/Reaction (3)
+3x Form of the Bat
+
+Reaction (25)
+6x Bait and Switch
+5x Deep Ecology
+1x Delaying Tactics
+6x Eyes of the Wild
+2x Organized Resistance
+5x Protection Racket
+
+Combat (13)
+1x Donnybrook
+11x Earth Meld
+1x Form of Mist

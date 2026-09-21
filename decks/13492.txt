@@ -1,0 +1,66 @@
+Fee Stake: Méier
+Rio de Janeiro (RJ), Brazil
+August 16th 2026
+2R+F
+21 players
+Yuri Furtado Prange
+https://www.vekn.net/event-calendar/event/13492
+
+-- 2GW6 + 3vp in final
+
+Final table: Yuri Furtado Prange (Petrodon toolbox) > Diego Rigo (Ravnos V5 bleed) > Pedro “PH” (Lasombra V5 bleed) > Alanmute (Tzimisce V5 block/bleed) > Leonardo Guedes (Brujah V5, bleed bruise)
+
+Deck Name: Obedienza Petrolão
+
+Crypt (13 cards, min=16, max=40, avg=7.23)
+------------------------------------------
+5x Alonso Petrodon     10  ANI DOM OBF POT for tha  justicar  Nosferatu:5
+2x Nikolaus Vermeulen   7  ANI POT for obf          prince    Nosferatu:6
+1x Cedrick Calhoun      7  ANI DOM OBF pot                    Nosferatu:6
+1x Nathaniel Bordruff   7  DOM OBF POT ani                    Nosferatu:6
+1x Daria                5  AUS OBF ani                        Nosferatu:6
+1x Ruxandra             5  OBF ani aus                        Nosferatu:5
+1x Ryan                 4  ani obf pot                        Nosferatu:6
+1x Nichodemus           2  pot                                Nosferatu:5
+
+Library (90 cards)
+Master (16; 3 trifle)
+1x Dreams of the Sphinx
+1x Erciyes Fragments, The
+2x Fortitude
+1x Giant's Blood
+1x Labyrinth, The
+1x Powerbase: Montreal
+1x Rack, The
+1x Slum Hunting Ground
+1x Smiling Jack, The Anarch
+2x Vessel
+1x Villein
+3x Warsaw Station
+
+Action (17)
+1x Army of Rats
+6x Creeping Sabotage
+6x Govern the Unaligned
+2x Judgment: Camarilla Segregation
+2x Renewed Vigor
+
+Equipment (1)
+1x Heart of Nizchetus
+
+Action Modifier (22)
+3x Elder Impersonation
+1x Enkil Cog
+3x Faceless Night
+2x Foreshadowing Destruction
+2x Forgotten Labyrinth
+5x Freak Drive
+6x Lost in Crowds
+
+Reaction (34)
+6x Deflection
+2x Guard Dogs
+10x Obedience
+10x Second Tradition: Domain
+2x Sense the Savage Way
+4x Warrens, The

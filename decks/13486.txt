@@ -1,0 +1,68 @@
+Jogos de Guerra - Agosto da Criança Cainita
+São Paulo (SP), Brazil
+August 22nd 2026
+2R+F
+10 players
+DK Magaji
+https://www.vekn.net/event-calendar/event/13486
+
+-- 2GW5 + 3vp in final
+
+Deck Name: Bomba Bleed Africano
+
+Crypt (12 cards, min=18, max=40, avg=7.75)
+------------------------------------------
+7x Thucimia                      10  CEL DEM OBF QUI for pro  1 vote  Assamite:4
+2x Luc                            5  OBF dem vic                      Malkavian antitribu:4
+1x Apache Jones                   5  DEM aus for obf                  Malkavian antitribu:4
+1x Persia, The Beautiful Statue   5  DEM aus obf                      Malkavian:3
+1x Midget                         3  DEM obf pre                      Malkavian antitribu:3
+
+Library (90 cards)
+Master (14; 3 trifle)
+2x Blind Spot
+2x Dabbler
+2x Direct Intervention
+1x Giant's Blood
+6x Secure Haven
+1x Wash
+
+Action (15)
+2x Dive into Madness
+2x Khabar: Glory
+6x Kindred Spirits
+5x Loss
+
+Equipment (5)
+1x Laptop Computer
+3x Learjet
+1x Monocle of Clarity
+
+Retainer (2)
+1x J. S. Simmons, Esq.
+1x Tasha Morgan
+
+Action Modifier (43)
+6x Confusion
+5x Deed the Heart's Desire
+3x Elder Impersonation
+5x Enkil Cog
+5x Eyes of Chaos
+3x Faceless Night
+7x Forced March
+3x Freak Drive
+5x Lost in Crowds
+1x Spying Mission
+
+Action Modifier/Combat (4)
+2x Deny
+2x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Touch of Clarity
+
+Reaction (2)
+2x Confusion of the Eye
+
+Event (1)
+1x Bitter and Sweet Story, The

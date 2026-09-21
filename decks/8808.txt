@@ -1,0 +1,67 @@
+Torneo Marató de TV3 2017
+Badia del Vallès, Spain
+December 23rd 2017
+3R+F
+19 players
+Héctor Javier Ordóñez García
+https://www.vekn.net/event-calendar/event/8808
+
+-- 3GW9.5 + 4vp in final
+
+Deck Name: Panyum panyum
+Description:
+This deck was designed while I was in a very long trip in South America. While travelling with my bycicle I stopped in Santiago de Chile, where I printed the whole deck and played it with the local group.
+Gonzalo liked the deck and gave me a copy of Asguresh, which I used in this tournament.
+
+A lot of decisions in this deck were around how to win against mono-ANI decks, which were popular at the time.
+
+Small fun trivia; Asguresh torporised an Enkidu in this tournament in one round, full blood, with scattershoot and blur.
+
+Crypt (12 cards, min=4, max=24, avg=3.83)
+-----------------------------------------
+4x Anarch Convert      1  -none-           Caitiff:ANY
+3x Asguresh            6  CEL NEC aus      Nagaraja:5
+1x Marguerite Foccart  6  CEL PRE aus pot  Brujah:4
+1x Spider              6  CEL PRO ani for  Gangrel antitribu:4
+1x Fairuza             4  CEL pre          Brujah antitribu:5
+1x Idrissa             4  CEL aus          Osebo:4
+1x Jenna Cross         4  CEL pot pre      Caitiff:4
+
+Library (77 cards)
+Master (27; 1 trifle)
+5x Anarch Revolt
+1x Archon Investigation
+9x Ashur Tablets
+2x Fame
+1x Haven Uncovered
+2x Liquidation
+4x Parthenon, The
+1x Pentex(TM) Subversion
+1x Tension in the Ranks
+1x Wider View
+
+Action (9)
+3x Bum's Rush
+1x Constant Revolution
+2x Fleetness
+3x Harass
+
+Equipment (7)
+6x .44 Magnum
+1x Ivory Bow
+
+Action Modifier (1)
+1x Monkey Wrench
+
+Combat (33)
+1x Blur
+6x Concealed Weapon
+1x Fast Hands
+2x Groundfighting
+4x Infernal Pursuit
+3x Projectile
+4x Psyche!
+4x Scattershot
+2x Side Strike
+2x Sideslip
+4x Taste of Vitae

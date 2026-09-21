@@ -1,0 +1,64 @@
+12th Game of Malkav
+Helsinki, Finland
+August 6th 2026
+2R+F
+10 players
+Bram Van Stappen
+https://www.vekn.net/event-calendar/event/13474
+
+-- 1GW4 + 3vp in final
+
+Deck Name: Miss Caine wants a puppy
+
+Crypt (12 cards, min=6, max=36, avg=5)
+--------------------------------------
+5x Qawiyya el-Ghaduba  9  FOR POT VAL aus pre  Salubri antitribu:5
+2x Andre LeRoux        3  aus                  Toreador:5
+1x Fergus Alexander    3  pot pro              Gangrel:5
+1x Bez Dunsirn         2  POT                  Giovanni:6
+1x New Blood           2  san                  Blood Brother:ANY
+1x Anarch Convert      1  -none-               Caitiff:ANY
+1x Walker Grimes       1  ani                  Caitiff:5
+
+Library (72 cards)
+Master (8; 1 trifle)
+6x Ashur Tablets
+1x Giant's Blood
+1x Wider View
+
+Action (12)
+1x Abuse of Power
+1x Augury of Doom
+1x Big Game
+1x Bum's Rush
+1x Charge of the Buffalo
+1x Harass
+1x Heroic Might
+1x Nose of the Hound
+1x Preternatural Strength
+1x Rumble
+2x Sense Death
+
+Equipment (5)
+1x Book of Going Forth by Night, The
+1x Codex of the Edenic Groundskeepers
+1x Flak Jacket
+1x IR Goggles
+1x Kevlar Vest
+
+Retainer (3)
+3x Twisted Bloodhound
+
+Action Modifier (13)
+13x Freak Drive
+
+Combat (31)
+3x Death Seeker
+7x Immortal Grapple
+3x Pulled Fangs
+2x Rage of Apedemak
+1x Righteous Aura
+4x Rolling with the Punches
+6x Taste of Vitae
+4x Unflinching Persistence
+1x Zip Gun

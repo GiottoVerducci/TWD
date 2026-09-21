@@ -1,0 +1,61 @@
+Torneio Petropolitano 2ed
+Petropolis, Brazil
+December 8th 2024
+2R+F
+14 players
+Daniel Motta
+https://www.vekn.net/event-calendar/event/11881
+
+-- 1GW4.5 + 2vp in final
+
+
+Deck Name: Tzi Combat
+
+Crypt (12 cards, min=15, max=31, avg=6)
+---------------------------------------
+3x Meshenka        8  ANI AUS VIC  priscus  Tzimisce:2
+3x Dragos          7  ANI AUS vic           Tzimisce:2
+2x Caliban         6  ANI AUS VIC           Tzimisce:2
+1x Devin Bisley    5  ANI AUS vic           Tzimisce:2
+1x Lolita Houston  4  VIC aus               Tzimisce:2
+1x Terrence        4  ani aus vic           Tzimisce:2
+1x Horatio         2  vic                   Tzimisce:2
+
+Library (85 cards)
+Master (19; 4 trifle)
+1x Direct Intervention
+1x Library Hunting Ground
+1x Millicent Smith, Puritan Vampire Hunter
+1x Path of Metamorphosis, The
+1x Powerbase: Barranquilla
+1x Powerbase: Montreal
+1x Rack, The
+6x Rötschreck
+2x Smiling Jack, The Anarch
+4x Vessel
+
+Action (2)
+1x Abbot
+1x Eternal Vigilance
+
+Reaction (32)
+4x Cats' Guidance
+7x Eagle's Sight
+4x Enhanced Senses
+7x Eyes of Argus
+2x Forced Awakening
+1x My Enemy's Enemy
+1x Read the Winds
+2x Spirit's Touch
+4x Telepathic Misdirection
+
+Combat (31)
+4x Breath of the Dragon
+4x Carrion Crows
+8x Chiropteran Marauder
+7x Horrid Form
+4x Inner Essence
+4x Telepathic Tracking
+
+Event (1)
+1x Dragonbound

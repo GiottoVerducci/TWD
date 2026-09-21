@@ -1,0 +1,71 @@
+Black Sunrise CG
+Campina Grande (PB), Brazil
+August 30th 2026
+2R+F
+12 players
+Joab Rogerio Barbosa da Silva
+https://www.vekn.net/event-calendar/event/13503
+
+-- 1GW5 + 3vp in final
+
+Deck Name: Path of Power and the Inner Voice Starter
+
+Crypt (12 cards, min=14, max=35, avg=6.33)
+------------------------------------------
+1x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+1x Věnceslava, The Implacable     9  DOM FOR POT PRE cel  Power  archbishop  Brujah:6
+1x Damian                         8  DOM OBL POT for pre  Power  archbishop  Lasombra:6
+1x Rexton "Savage" Abernathy      8  DOM POT PRE cel      Power  archbishop  Brujah:6
+1x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+1x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
+1x Concordia                      6  DOM PRE for pot      Power  bishop      Ventrue:6
+1x Rasha Tarabzouni               6  DOM POT obl pre      Power  bishop      Lasombra:6
+1x Lyyli Yösydän                  5  POT dom for obl      Power              Lasombra:6
+1x Onkabetse, Arriviste           4  for pot pre          Power              Brujah:6
+1x Lika, The Purger               3  dom pot              Power              Lasombra:6
+1x Suwira                         2  pre                  Power              Ventrue:6
+
+Library (77 cards)
+Master (12; 3 trifle)
+1x Black Forest Base
+1x Creepshow Casino
+1x Día de los Muertos
+1x Powerbase: Madrid
+1x Privileged Position
+1x Regent
+3x Unholy Sacrament
+3x Villein
+
+Action (8)
+6x Enchant Kindred
+2x Under Siege
+
+Political Action (15)
+2x Banishment
+1x Cardinal Benediction
+2x Cold War
+3x Empires Fall
+5x Kine Resources Contested
+2x War of Ages
+
+Action Modifier (23)
+1x Daring the Dawn
+4x Dominant Personality
+4x Freak Drive
+2x Iron Glare
+2x Magnetic Authority
+2x Private Audience
+4x Relentlessness
+2x Unthinkable Humiliation
+2x Voter Captivation
+
+Action Modifier/Reaction (3)
+3x Absolute Tyranny
+
+Reaction (10)
+5x Deflection
+5x On the Qui Vive
+
+Combat (6)
+3x Catatonic Fear
+3x Majesty

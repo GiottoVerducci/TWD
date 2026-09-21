@@ -1,0 +1,63 @@
+Jogos de Guerra - A Misantropi4 de Julho
+São Paulo (SP), Brazil
+July 18th 2026
+2R+F
+15 players
+Ricardo Molina Sobreira
+https://www.vekn.net/event-calendar/event/13410
+
+-- 1GW4 + 4vp in final
+
+Deck Name: hecata Portão
+
+Crypt (12 cards, min=21, max=31, avg=6.5)
+-----------------------------------------
+3x "Mother" Anja Giovanni  8  AUS FOR OBL dom pot  Hecata:6
+3x Mora, the Death Seer    7  AUS FOR OBL ani      Hecata:6
+3x Monica Giovanni         6  AUS FOR OBL          Hecata:6
+3x Gebeyehu Abdu           5  AUS OBL for          Hecata:6
+
+Library (90 cards)
+Master (14; 4 trifle)
+1x Biotech Company Hunting Ground
+1x Cappadocian Crypt
+2x Direct Intervention
+1x Erciyes Fragments, The
+1x Life Boon
+1x Powerbase: Montreal
+1x Powerbase: Munich
+1x Rack, The
+1x Smiling Jack, The Anarch
+4x Vessel
+
+Action (14)
+1x Aranthebes, The Immortal
+1x Army of Rats
+5x Gate of Acheron, The
+7x Shroud of Decay
+
+Ally (3)
+2x Aggressive Corpse
+1x Carlton Van Wyk
+
+Equipment (7)
+6x .44 Magnum
+1x Bowl of Convergence
+
+Action Modifier (6)
+3x Stygian Shroud
+3x Where the Veil Thins
+
+Reaction (28)
+4x Enhanced Senses
+8x Eyes of Argus
+4x Shadow Sentinel
+7x Telepathic Misdirection
+5x Truth in Darkness
+
+Combat (18)
+6x Concealed Weapon
+2x Hidden Strength
+6x Shadow Shift
+3x Taste of Vitae
+1x Unflinching Persistence

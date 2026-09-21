@@ -1,0 +1,69 @@
+Wampirowo.pl
+Zielona Góra, Poland
+July 4th 2026
+3R+F
+22 players
+Marcin Zakrzewski
+https://www.vekn.net/event-calendar/event/13255
+
+-- 2GW6 + 2.5vp in final
+
+Deck Name:Kalinda
+Author: Bram van Stappen + Marcin Zakrzewski
+
+Crypt (13 cards, min=14, max=24, avg=5.15)
+------------------------------------------
+5x Kalinda            6  CEL OBF tha      primogen  Assamite:6
+2x Khadija Al-Kindi   6  CEL OBF THA      primogen  Assamite:6
+1x Kassandra Tassaki  6  CEL THA obf      prince    Assamite:6
+1x Warmaksan          5  THA cel obf      prince    Assamite:6
+1x Wise Frog          5  OBF aus cel qui            Assamite:6
+1x Greg Mazouni       4  cel obf tha                Assamite:6
+1x Adisa              3  cel obf                    Assamite:6
+1x Alu                2  obf                        Assamite:5
+
+Library (80 cards)
+Master (20; 6 trifle)
+2x Alamut
+1x Archon Investigation
+6x Ashur Tablets
+5x Haqim's Law: Retribution
+4x Villein
+2x Wider View
+
+Action (1)
+1x Khabar: Glory
+
+Political Action (3)
+3x Camarilla's Iron Fist
+
+Action Modifier (15)
+1x Cloak the Gathering
+2x Elder Impersonation
+3x Faceless Night
+6x Lost in Crowds
+2x Spying Mission
+1x Veil the Legions
+
+Action Modifier/Combat (12)
+3x Resist Earth's Grasp
+9x Swallowed by the Night
+
+Reaction (10)
+1x Confusion of the Eye
+9x Protected District
+
+Combat (18)
+2x Behind You!
+1x Focus the Blood
+4x Hunger of Marduk
+1x Infernal Pursuit
+1x No Trace
+2x Preternatural Evasion
+3x Pursuit
+2x Side Strike
+1x Torrent
+1x Zip Gun
+
+Event (1)
+1x Narrow Minds

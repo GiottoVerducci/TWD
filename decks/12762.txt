@@ -1,0 +1,55 @@
+Club Torpor
+Lithuania
+2026-09-20 09:00:00
+3R+F
+104 players
+Aleksandr Mandrichenko
+
+https://archon.vekn.net/t/12762
+
+Deck Name: Wraiths in the Shell: Deadly Gifts
+Created by: Martin Čajági
+
+Crypt (12 cards)
+----------------
+2x Anxo Vilela                     6  dom obl AUS THA      Tremere:6
+2x Zbigniew, Hunter of Mekhet      5  aus dom tha OBL      Lasombra:6
+1x Braden White                    4  dom obl pot          Lasombra:6
+2x El Monseñor                     4  dom OBL              Lasombra:6
+1x Alek König                      3  OBL                  Hecata:6
+1x Araceli "Celia" Rivera          3  dom obl              Lasombra:6
+2x Nadezhda                        3  aus obl              Hecata:6
+1x Peter St. John                  2  obl                  Hecata:6
+
+Library (90 cards)
+Master (20)
+1x Anarch Troublemaker
+1x Direct Intervention
+3x Dreams of the Sphinx
+4x Life in the City
+2x Oblivion
+3x Perfectionist
+1x Powerbase: Montreal
+1x Secure Haven
+1x Sudden Reversal
+1x The Coven
+1x Wash
+1x Wider View
+Action (11)
+11x Computer Hacking
+Ally (16)
+16x Spectral Servitor
+Action Modifier (31)
+2x Conditioning
+7x Gifts From Hereafter
+4x Leverage
+7x Shadow Cast
+7x Shadow Cloak
+2x Stygian Shroud
+2x Where the Veil Thins
+Reaction (11)
+4x Deflection
+1x Delaying Tactics
+6x Shadow Sentinel
+Event (1)
+1x The Unmasking

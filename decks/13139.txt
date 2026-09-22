@@ -1,0 +1,56 @@
+Crusade: Budapest III. Forduló
+Spain
+2026-03-03 17:45:00
+2R+F
+21 players
+Zoltán Panyik
+
+https://archon.vekn.net/t/13139
+
+Deck Name: Lasombra 16
+
+Crypt (12 cards)
+----------------
+3x Gnaeus Aemilius Augustinus      9  tha DOM OBL POT PRO  Lasombra:6
+1x Yewon Ong                       8  for DOM OBL POT      Lasombra:6
+1x María del Toro                  7  DOM OBL POT          Lasombra:6
+1x Rinaldo Albizzi                 7  pre DOM OBL POT      Lasombra:6
+1x Aintzane Arriaga                6  DOM OBL POT          Lasombra:6
+1x Kamaluddin                      6  for pot DOM OBL      Lasombra:6
+1x Azucena                         5  pot DOM OBL          Lasombra:6
+1x Araceli "Celia" Rivera          3  dom obl              Lasombra:6
+2x Anarch Convert                  1  -none-               Caitiff:any
+
+Library (90 cards)
+Master (18)
+1x Charisma
+2x Direct Intervention
+1x Dreams of the Sphinx
+1x Elder Library
+1x Elysian Fields
+1x Giant's Blood
+1x Information Highway
+2x Jake Washington
+1x Storage Annex
+1x The Coven
+5x Villein
+1x Wider View
+Action (12)
+12x Govern the Unaligned
+Ally (8)
+8x Spectral Servitor
+Action Modifier (30)
+1x Bonding
+2x Conditioning
+1x Foreshadowing Destruction
+4x Murmur of the False Will
+5x Shadow Cast
+5x Shadow Cloak
+5x Stygian Shroud
+2x Threats
+5x Where the Veil Thins
+Reaction (22)
+8x Deflection
+5x On the Qui Vive
+4x Redirection
+5x Shadow Sentinel

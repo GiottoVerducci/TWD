@@ -1,0 +1,63 @@
+Grand Prix Vilnius 2026
+Lithuania
+2026-09-18 09:00:00
+3R+F
+190 players
+Diego Di Nicolantonio
+
+https://archon.vekn.net/t/12759
+
+Deck Name: Execute Order: Unnamed
+
+Crypt (13 cards)
+----------------
+5x The unnamed                    10  CEL DAI OBF PRE PRO  Baali:6
+1x Vivian VI                       7  obf tha PRE PRO      Ministry:6
+2x André the Manipulator           6  FOR PRO              Gangrel:5
+1x Doctor Morocco                  5  cel obf pre PRO      Ministry:6
+4x Anarch Convert                  1  -none-               Caitiff:any
+
+Library (75 cards)
+Master (13)
+1x Archon Investigation
+4x Dabbler
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Secure Haven
+1x The Coven
+1x Vessel
+1x Wider View
+Action (11)
+1x Contagion
+1x Entrancement
+7x The Platinum Protocol
+2x Unleash Hell's Fury
+Ally (1)
+1x Veneficti
+Equipment (2)
+1x Heart of Nizchetus
+1x The Sargon Fragment
+Retainer (3)
+3x Homunculus
+Action Modifier (35)
+3x CrimethInc.
+2x Elder Impersonation
+3x Enchanting Gaze
+4x Enkil Cog
+3x I am Legion
+6x Instantaneous Transformation
+3x Lost in Crowds
+2x Memory Rift
+2x Revelation of the Serpent
+4x Sense the Sin
+3x Swallowed by the Night
+Reaction (3)
+1x Delaying Tactics
+2x Party Out Of Bounds
+Combat (6)
+3x Earth Meld
+3x Form of Mist
+Event (1)
+1x Narrow Minds

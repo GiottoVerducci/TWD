@@ -1,12 +1,11 @@
 Torneo La Tienda SCUM
 La Tienda Scum, Barcelona, Spain
-2026-09-19
+September 19th 2026
 2R+F
 16 players
 Federico Gómez Cucchiararo
 https://archon.vekn.net/t/13563
 
-Deck Name: Crypt (12 cards; Capacity min=2 max=7 avg=4.7)
 Created by: Marc Álvarez Garrido
 
 Crypt (12 cards)

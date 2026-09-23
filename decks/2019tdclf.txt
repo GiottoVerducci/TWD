@@ -6,6 +6,8 @@ May 11th 2019
 Martin Weinmayer
 https://www.vekn.net/event-calendar/event/9244
 
+-- 1GW5.5 + 1.5vp in final
+
 Deck Name: Tupdog & Nephandus
 
 Description: Combining the Tupdog Rush Combat with Nephandus Swarm Bleed

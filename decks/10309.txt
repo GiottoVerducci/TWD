@@ -6,6 +6,8 @@ November 12th 2022
 Leonardo Villela
 https://www.vekn.net/event-calendar/event/10309
 
+-- 1GW6 + 1.5vp in final
+
 Deck Name: Calma e bleed
 
 Crypt (12 cards, min=15, max=26, avg=5.25)

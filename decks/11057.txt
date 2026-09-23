@@ -6,6 +6,8 @@ December 16th 2023
 Dídac Boixader Herrero
 https://www.vekn.net/event-calendar/event/11057
 
+-- 1GW4 + 4vp in final
+
 Deck Name: Living la vida
 
 Crypt (12 cards, min=16, max=32, avg=6.17)

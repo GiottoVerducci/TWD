@@ -6,6 +6,8 @@ June 17th 2023
 Karri Malm
 https://www.vekn.net/event-calendar/event/10772
 
+-- 1GW5 + 3vp in final
+
 Deck Name: New Toreador Stickmen
 Description: A classic Ventrue stickman grinder, except with group 6 Toreador princes instead.
 

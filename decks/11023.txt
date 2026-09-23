@@ -6,6 +6,8 @@ November 4th 2023
 Akseli Jalava
 https://www.vekn.net/event-calendar/event/11023
 
+-- 2GW6 + 1.5vp in final
+
 Crypt (12 cards, min=6, max=40, avg=6)
 --------------------------------------
 6x Shalmath        10  POT PRE TEM  True Brujah:6

@@ -6,6 +6,8 @@ July 7th 2024
 Leonardo Villela
 https://www.vekn.net/event-calendar/event/11509
 
+-- 1GW4 + 3vp in final
+
 Deck Name: Sascha monta mão
 
 Crypt (12 cards, min=16, max=32, avg=6.08)

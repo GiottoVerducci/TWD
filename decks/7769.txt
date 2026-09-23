@@ -6,6 +6,8 @@ August 17th 2014
 Marcel Nitsch
 https://www.vekn.net/event-calendar/event/7769
 
+-- 1GW5 + 2vp in final
+
 Crypt (12 cards, min=25, max=35, avg=7.5)
 -----------------------------------------
 3x Sheldon, Lord of the Clog  9  ANI AUS OBF POT for  justicar  Nosferatu:1

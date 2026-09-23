@@ -6,6 +6,8 @@ February 24th 2024
 Eduardo Lemos
 https://www.vekn.net/event-calendar/event/11305
 
+-- 1GW5 + 1vp in final
+
 Deck Name: Owain grinder
 
 Crypt (12 cards, min=19, max=31, avg=6.42)

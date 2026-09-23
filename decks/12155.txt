@@ -6,6 +6,8 @@ May 3rd 2025
 Miguel Monteiro
 https://www.vekn.net/event-calendar/event/12155
 
+-- 1GW3.5 + 1.5vp in final
+
 Deck Name: Nephandus
 
 Crypt (12 cards, min=16, max=25, avg=5.08)

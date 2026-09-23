@@ -7,6 +7,8 @@ Alessandro Donati
 https://www.vekn.net/event-calendar/event/13001
 https://archon.vekn.net/tournament/5bd9a77f-4ea3-491b-89dd-851bf4fe735d/display.html
 
+-- 1GW4.5 + 3vp in final
+
 Deck Name: Cardinal Cougars Rules The Court
 
 Crypt (12 cards, min=31, max=40, avg=8.92)

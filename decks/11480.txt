@@ -6,6 +6,8 @@ July 20th 2024
 Teemu Sainomaa
 https://www.vekn.net/event-calendar/event/11480
 
+-- 2GW5.5 + 1.5vp in final
+
 Deck Name: Lutz vote
 Author: Teemu Sainomaa and tweaked with Michael Holmstrom
 

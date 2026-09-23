@@ -6,6 +6,8 @@ March 1st 2025
 Florian Astroh
 https://www.vekn.net/event-calendar/event/12041
 
+-- 2GW5.5 + 3vp in final
+
 Deck Name: Ministry Stealth Bleeder
 
 Crypt (12 cards, min=17, max=30, avg=5.83)

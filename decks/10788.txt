@@ -6,6 +6,8 @@ June 25th 2023
 Alessandro Donati
 https://www.vekn.net/event-calendar/event/10788
 
+-- 1GW3.5 + 3vp in final
+
 Deck Name: Snake Charmers
 
 Crypt (12 cards, min=23, max=36, avg=7.5)

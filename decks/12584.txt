@@ -6,6 +6,8 @@ August 30th 2025
 Eduardo Lemos
 https://www.vekn.net/event-calendar/event/12584
 
+-- 0GW2.5 + 3vp in final
+
 Deck Name: !VENTRUE - MENDICANCIA DO OWAIN
 
 Crypt (12 cards, min=19, max=31, avg=6.42)

@@ -6,6 +6,8 @@ June 23rd 2024
 Thyago Oliveira Carvalho
 https://www.vekn.net/event-calendar/event/11492
 
+-- 1GW4 + 3vp in final
+
 Deck Name: Ministério meio-fio
 
 Crypt (12 cards, min=17, max=29, avg=5.75)

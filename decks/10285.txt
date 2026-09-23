@@ -6,6 +6,8 @@ July 25th 2022
 Rafael Barbosa da Silva
 https://www.vekn.net/event-calendar/event/10285
 
+-- 1GW4 + 3vp in final
+
 Deck Name: ravnos snow
 
 Crypt (12 cards, min=4, max=29, avg=4.83)

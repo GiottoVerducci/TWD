@@ -6,6 +6,8 @@ January 28th 2023
 Emiliano Imeroni
 https://www.vekn.net/event-calendar/event/10444
 
+-- 1GW3 + 2.5vp in final
+
 Deck Name: Haqim's Law: Anathema
 Description: Relatively obvious Banu Haqim deck with Anathema, Judgment: Camarilla Segregation and an Ashur angle
 

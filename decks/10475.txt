@@ -6,6 +6,8 @@ December 18th 2022
 Joab Rogerio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/10475
 
+-- 2GW8 + 4vp in final
+
 Deck Name: This deck has no name
 
 Crypt (12 cards, min=23, max=27, avg=6.17)

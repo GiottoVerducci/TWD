@@ -6,6 +6,8 @@ March 9th 2025
 Martin Weinmayer
 https://www.vekn.net/event-calendar/event/12159
 
+-- 1GW3.5 + 3vp in final
+
 Deck Name: The Endless Dance
 
 Crypt (12 cards, min=27, max=37, avg=8.17)

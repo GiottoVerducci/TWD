@@ -6,6 +6,8 @@ June 4th 2022
 Ricardo Marta
 https://www.vekn.net/event-calendar/event/10065
 
+-- 2GW8 + 4vp in final
+
 Deck Name: Girls Will Find Boys
 
 Crypt (12 cards, min=34, max=43, avg=9.67)

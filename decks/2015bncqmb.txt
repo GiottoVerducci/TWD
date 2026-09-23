@@ -6,6 +6,8 @@ August 16th 2015
 Vadim Grigorev
 https://www.vekn.net/event-calendar/event/8202
 
+-- 0GW3.5 + 4vp in final
+
 Deck Name: Cryptic mission
 
 Crypt (12 cards, min=9, max=19, avg=3.42)

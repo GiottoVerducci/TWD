@@ -6,6 +6,8 @@ October 26th 2024
 Keith Lim
 https://www.vekn.net/event-calendar/event/11686
 
+-- 2GW7 + 2.5vp in final
+
 Deck Name: Fiend Nights at the Museum
 
 Crypt (12 cards, min=19, max=30, avg=6.08)

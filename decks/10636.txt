@@ -6,7 +6,7 @@ March 26th 2023
 Juan Luis Mejías Luna
 https://www.vekn.net/event-calendar/event/10636
 
--- 3.5vp in final
+-- 2GW6.5 + 2.5vp in final
 
 Deck Name: Ladillas asesinas
 Author: Javier Naranjo

@@ -6,6 +6,8 @@ March 25th 2023
 Otso Saariluoma
 https://www.vekn.net/event-calendar/event/10546
 
+-- 2GW8 + 4vp in final
+
 Deck Name: Feral High Council
 Author: Otso Saariluoma
 Description: An experiment in combining the fun of MMPA with the joys of Stanislava. After the tournament, I might consider cutting one copy of Govern the Unaligned, Sense the Savage Way and Earth Meld each to streamline things a bit, as they were probably the cards I kept discarding most often.

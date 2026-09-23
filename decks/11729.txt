@@ -6,6 +6,8 @@ December 7th 2024
 Erik Albenze
 https://www.vekn.net/event-calendar/event/11729
 
+-- 1GW4 + 2vp in final
+
 Deck Name: Banu sleaze bleed
 
 Crypt (12 cards, min=12, max=24, avg=4.58)

@@ -6,6 +6,8 @@ March 23rd 2024
 Axel Huet
 https://www.vekn.net/event-calendar/event/11376
 
+-- 1GW3 + 2.5vp in final
+
 Crypt (12 cards, min=30, max=39, avg=8.75)
 ------------------------------------------
 3x Nakhthorheb                  10  OBF PRE SER                       Follower of Set:4

@@ -6,6 +6,8 @@ May 26th 2024
 Alanmut Bastos
 https://www.vekn.net/event-calendar/event/11417
 
+-- 2GW8 + 4vp in final
+
 Deck Name: Focus the Bleed
 
 Crypt (12 cards, min=19, max=27, avg=5.83)

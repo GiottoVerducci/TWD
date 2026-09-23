@@ -6,6 +6,8 @@ April 4th 2024
 Rodolfo Krenca
 https://www.vekn.net/event-calendar/event/11382
 
+-- 0GW1 + 4vp in final
+
 Deck Name: Masika sem Masika
 Crypt (12 cards, min=15, max=40, avg=6.58)
 ------------------------------------------

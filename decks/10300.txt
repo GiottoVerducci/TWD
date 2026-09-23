@@ -6,6 +6,8 @@ September 25th 2022
 Jeroen van Oort
 https://www.vekn.net/event-calendar/event/10300
 
+-- 2GW9 + 2.5vp in final
+
 Deck Name: Lawfirm G5/6 twd 25-09-22 Montfoort
 
 Crypt (12 cards, min=27, max=38, avg=8)

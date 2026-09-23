@@ -6,6 +6,8 @@ April 15th 2023
 Javier Naranjo
 https://www.vekn.net/event-calendar/event/10670
 
+-- 2GW9 + 2.5vp in final
+
 Deck Name: Another boring political deck
 
 Crypt (12 cards, min=32, max=40, avg=9.17)

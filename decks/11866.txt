@@ -6,6 +6,8 @@ April 13th 2025
 Giulio De Cicco
 https://www.vekn.net/event-calendar/event/11866
 
+-- 1GW5 + 2.5vp in final
+
 Deck Name: Diana
 
 Crypt (12 cards, min=29, max=36, avg=8.25)

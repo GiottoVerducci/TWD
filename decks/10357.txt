@@ -6,6 +6,8 @@ October 2nd 2022
 Luis Ángel Jiménez Barrios
 https://www.vekn.net/event-calendar/event/10357
 
+-- 2GW8 + 3vp in final
+
 Deck Name: 1. Lutz commands the Sabbat
 
 Crypt (12 cards, min=8, max=44, avg=6.08)

@@ -6,6 +6,8 @@ July 21st 2024
 Martin Weinmayer
 https://www.vekn.net/event-calendar/event/11506
 
+-- 1GW4.5 + 1.5vp in final
+
 Deck Name: Usurper High Council
 Description: Inspired by Otso Saariluoma's 269 players winning deck
 

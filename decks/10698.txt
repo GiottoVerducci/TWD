@@ -6,6 +6,8 @@ April 16th 2023
 Edgar David Caudillo Garrido
 https://www.vekn.net/event-calendar/event/10698
 
+-- 1GW5 + 4vp in final
+
 Deck Name: better call Arishat
 
 Crypt (12 cards, min=24, max=26, avg=6.17)

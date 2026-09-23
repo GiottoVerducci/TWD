@@ -6,6 +6,8 @@ February 25th 2023
 Niko Vanhatalo
 https://www.vekn.net/event-calendar/event/10634
 
+-- 1GW4.5 + 0.5vp in final
+
 Deck Name: All I want is snuggles, but I keep getting struggles
 
 Crypt (12 cards, min=18, max=30, avg=6.17)

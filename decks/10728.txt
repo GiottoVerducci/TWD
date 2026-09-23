@@ -6,6 +6,8 @@ May 7th 2023
 Joab Rogerio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/10728
 
+-- 2GW8 + 3vp in final
+
 Deck Name: Lobos de Winterfell
 
 Crypt (13 cards, min=11, max=26, avg=4.69)

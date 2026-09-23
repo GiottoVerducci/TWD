@@ -6,6 +6,8 @@ March 9th 2024
 Ricardo Molina Sobreira
 https://www.vekn.net/event-calendar/event/11320
 
+-- 3GW11 + 1.5vp in final
+
 Deck Name: nosf sabotage
 
 Crypt (12 cards, min=17, max=28, avg=5.75)

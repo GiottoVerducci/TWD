@@ -6,6 +6,8 @@ October 20th 2024
 Márcio Pinheiro
 https://www.vekn.net/event-calendar/event/11160
 
+-- 1GW5 + 5vp in final
+
 Deck Name: Fee Stake Brujah
 
 Crypt (12 cards, min=18, max=30, avg=6)

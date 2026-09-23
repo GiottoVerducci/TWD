@@ -6,6 +6,8 @@ January 11th 2025
 Eduardo Manuel Mateus
 https://www.vekn.net/event-calendar/event/11803
 
+-- 1GW6 + 2.5vp in final
+
 Deck Name: Ventrue Thirst Trap
 
 Crypt (12 cards, min=15, max=44, avg=7.33)

@@ -6,6 +6,8 @@ August 6th 2023
 Moacir Júnior
 https://www.vekn.net/event-calendar/event/10615
 
+-- 2GW6 + 3vp in final
+
 Deck Name: Lucian Orun
 
 Crypt (12 cards, min=16, max=44, avg=8)

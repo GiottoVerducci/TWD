@@ -6,6 +6,8 @@ June 29th 2025
 Óscar García Vera
 https://www.vekn.net/event-calendar/event/12010
 
+-- 1GW6 + 4vp in final
+
 Crypt (12 cards, min=26, max=40, avg=8)
 ---------------------------------------
 4x Alonso Petrodon       10  ANI DOM OBF POT for tha  justicar  Nosferatu:5

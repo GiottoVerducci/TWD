@@ -1,6 +1,6 @@
 Daring the Summer in Bratislava
-Slovakia
-2026-08-22 10:00:00
+Bratislava, Slovakia
+2026-08-22
 3R+F
 20 players
 Máté Vaka
@@ -8,16 +8,7 @@ Máté Vaka
 https://archon.vekn.net/t/13399
 
 Deck Name: Dorka's Pin Puppies
-
-[2026-08-21] 
-[2026-07-08] 
-[2026-01-23] 
-[2025-11-21] 
-[2025-10-11] 
-[2025-09-04] 
-[2025-06-07] 
-original author Frederic Pin
-
+Original author: Frederic Pin
 
 Crypt (12 cards)
 ----------------

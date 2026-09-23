@@ -6,6 +6,8 @@ June 24th 2023
 Jorge Delgado
 https://www.vekn.net/event-calendar/event/10792
 
+-- 1GW3.5 + 2vp in final
+
 Deck Name: Carna & friends
 Description: Classic Carna Grinder deck, nothing exceptional. I built the deck, played it once in a friendly game, did some modifications, and played it only once more before the tournament.
 I wasn't expecting the meta that I saw (warzone), but more a varied meta (some combat rush, some vote, some bleed, not too much intercept).

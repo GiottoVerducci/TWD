@@ -6,6 +6,8 @@ July 21st 2024
 Axel Huet
 https://www.vekn.net/event-calendar/event/11460
 
+-- 2GW8 + 0.5vp in final
+
 Deck Name: Nosferatu
 
 Crypt (12 cards, min=18, max=24, avg=5.5)

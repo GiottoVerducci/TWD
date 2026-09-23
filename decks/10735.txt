@@ -6,6 +6,8 @@ June 24th 2023
 Kelly Schultz
 https://www.vekn.net/event-calendar/event/10735
 
+-- 2GW7.5 + 3vp in final
+
 Deck Name: Platonic Vote
 
 Crypt (12 cards, min=34, max=44, avg=9.67)

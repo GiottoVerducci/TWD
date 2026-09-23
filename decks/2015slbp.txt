@@ -6,6 +6,8 @@ March 8th 2015
 Oriol Pubill
 https://www.vekn.net/event-calendar/event/8011
 
+-- 1GW3.5 + 3vp in final
+
 Deck Name: Gangrel Royalty
 
 Crypt (12 cards, min=38, max=44, avg=10.25)

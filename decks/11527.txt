@@ -6,6 +6,8 @@ July 27th 2024
 José Roberio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/11527
 
+-- 1GW4 + 2vp in final
+
 Deck Name: Moon Knight
 
 Crypt (12 cards, min=4, max=40, avg=6.17)

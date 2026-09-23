@@ -6,6 +6,8 @@ August 24th 2024
 Teemu Pulkkinen
 https://www.vekn.net/event-calendar/event/11660
 
+-- 1GW3 + 3vp in final
+
 Deck Name: Muussauskoulu
 Description: Thank you to Antti Penttilä for providing a great list that I customized by adding some rushes.
 Antti got an idea of using Raw Recruit + As the Crow + Codex of the Edenic Groundskeepers with the intent of

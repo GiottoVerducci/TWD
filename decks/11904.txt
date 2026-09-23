@@ -6,6 +6,8 @@ December 8th 2024
 Luca Turicchi
 https://www.vekn.net/event-calendar/event/11904
 
+-- 1GW4 + 2.5vp in final
+
 Deck Name: No, Tu No!
 Author: Luca Turicchi (special thanks to Alessandro Donati for tests and improvements)
 Description: Salubri PowerBleed

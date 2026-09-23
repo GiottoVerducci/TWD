@@ -6,6 +6,8 @@ July 12th 2015
 Enrico De Stefano
 https://www.vekn.net/event-calendar/event/8154
 
+-- 2GW7 + 0.5vp in final
+
 Deck Name: Summoning the Elders! 3.0
 
 Crypt (19 cards, min=31, max=44, avg=8.95)

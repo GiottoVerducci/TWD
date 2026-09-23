@@ -6,6 +6,8 @@ July 25th 2023
 Danilo Fernandes
 https://www.vekn.net/event-calendar/event/10879
 
+-- 1GW3 + 3vp in final
+
 Deck Name: Ministry - Turbo Bleed
 
 Crypt (12 cards, min=19, max=29, avg=6.08)

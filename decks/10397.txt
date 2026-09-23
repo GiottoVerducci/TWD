@@ -6,6 +6,8 @@ November 26th 2022
 Christophe Corizia
 https://www.vekn.net/event-calendar/event/10397
 
+-- 1GW6 + 3vp in final
+
 Deck Name: Wall Carna
 
 Crypt (12 cards, min=13, max=28, avg=5.25)

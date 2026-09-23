@@ -6,6 +6,8 @@ November 25th 2023
 Mikey Ferguson
 https://www.vekn.net/event-calendar/event/10998
 
+-- 1GW5 + 4vp in final
+
 Deck name: Stanislava Vote & Bleed
 
 Crypt (12 cards, min=36, max=44, avg=10.08)

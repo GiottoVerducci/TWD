@@ -6,6 +6,8 @@ November 16th 2024
 Jakub Rypar
 https://www.vekn.net/event-calendar/event/11740
 
+-- 2GW7.5 + 2vp in final
+
 Deck Name: Gangrel swarm v3
 Author: Rapajic
 -- can also be found on link: https://vdb.im/decks/04500f492

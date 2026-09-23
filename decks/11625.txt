@@ -6,6 +6,8 @@ September 22nd 2024
 Victor Bradock
 https://www.vekn.net/event-calendar/event/11625
 
+-- 1GW4 + 4vp in final
+
 Deck Name: Rolo-compressor
 
 Crypt (12 cards, min=19, max=31, avg=6.25)

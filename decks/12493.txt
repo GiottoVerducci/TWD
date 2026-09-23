@@ -6,6 +6,8 @@ July 19th 2025
 Eduardo Manuel Mateus
 https://www.vekn.net/event-calendar/event/12493
 
+-- 1GW5 + 3vp in final
+
 Deck Name: “The Downward Spiral”
 
 Crypt (12 cards, min=4, max=40, avg=5.83)

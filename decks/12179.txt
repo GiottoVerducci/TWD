@@ -6,6 +6,8 @@ April 3rd 2025 -- 04 April 2025,
 Leonardo Villela
 https://www.vekn.net/event-calendar/event/12179
 
+-- 1GW5 + 4vp in final
+
 Deck Name: Toreador no carnaval
 
 Crypt (12 cards, min=12, max=22, avg=4.42)

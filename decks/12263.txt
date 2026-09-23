@@ -6,6 +6,8 @@ June 21st 2025
 Ke Carlton
 https://www.vekn.net/event-calendar/event/12263
 
+-- 2GW10 + 2.5vp in final
+
 Deck list:
 Deck Name: Powerbase Decay
 Description: Focused Shroud of Decay and Family Gathering Abuse.

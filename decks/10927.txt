@@ -6,6 +6,8 @@ December 17th 2023
 Thiago Sousa
 https://www.vekn.net/event-calendar/event/10927
 
+-- 2GW9 + 3vp in final
+
 Deck Name:	Show of Force
 
 Crypt (12 cards, min=28, max=35, avg=7.83)

@@ -6,6 +6,8 @@ December 5th 2021
 Enrique Montao Torres
 https://www.vekn.net/event-calendar/event/9974
 
+-- 0GW3 + 4vp in final
+
 Deck Name: The Ultimate Wall. AKA: You shall not Pass
 
 Crypt (12 cards, min=26, max=39, avg=8.25)

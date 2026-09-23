@@ -6,6 +6,8 @@ September 23rd 2023
 Jan Kočí
 https://www.vekn.net/event-calendar/event/10938
 
+-- 1GW4 + 3vp in final
+
 Deck Name: Gangrel anarchs
 
 Crypt (12 cards, min=12, max=24, avg=4.5)

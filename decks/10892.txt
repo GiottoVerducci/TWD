@@ -6,6 +6,8 @@ August 26th 2023
 Vincent Castellaneta
 https://www.vekn.net/event-calendar/event/10892
 
+-- 0GW4 + 3vp in final
+
 Deck Name: Brujah Debate
 
 Crypt (12 cards, min=15, max=28, avg=5.58)

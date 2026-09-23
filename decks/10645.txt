@@ -6,6 +6,8 @@ March 12th 2023
 Davide Antoni
 https://www.vekn.net/event-calendar/event/10645
 
+-- 1GW4 + 4vp in final
+
 Deck Name: Anarch vote Deflection
 
 Crypt (12 cards, min=24, max=26, avg=6.17)

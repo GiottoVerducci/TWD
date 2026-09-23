@@ -6,6 +6,8 @@ January 27th 2024
 Joscar Gamaliel Malacaman
 https://www.vekn.net/event-calendar/event/11216
 
+-- 2GW7 + 3vp in final
+
 Deck Name: Guardian LSFM
 Description:  A Matasuntha Wall deck that is inspired by Le Sserafim's The Gaurdian. It aims to block key actions and send key vampires to torpor in order to bloat, relieve pressure, and clear away blockers. Once it gets it's rhythm going, it can run through the deck pretty fast which necessitates the inclusion of Ashur Tablets and Parthenon. The Baron package helps to get an early oust via bounce.
 

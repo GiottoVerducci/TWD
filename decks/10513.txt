@@ -6,6 +6,8 @@ January 14th 2023
 Jan Kočí
 https://www.vekn.net/event-calendar/event/10513
 
+-- 2GW7.5 + 1.5vp in final
+
 Deck Name: gangrel anarchs
 Author: Lott
 Description: gangrel toolbox

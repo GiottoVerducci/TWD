@@ -6,6 +6,8 @@ January 21st 2024
 Jennifer Fuss
 https://www.vekn.net/event-calendar/event/11203
 
+-- 2GW5.5 + 1.5vp in final
+
 Deck Name: EL
 
 Crypt (12 cards, min=22, max=40, avg=7.75)

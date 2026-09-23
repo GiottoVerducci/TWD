@@ -6,6 +6,8 @@ December 10th 2022
 Danilo Torrisi
 https://www.vekn.net/event-calendar/event/10428
 
+-- 1GW6.5 + 5vp in final
+
 Deck Name: Carna wall bologna gp ***
 
 Crypt (12 cards, min=19, max=28, avg=6)

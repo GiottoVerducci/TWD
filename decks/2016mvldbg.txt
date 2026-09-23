@@ -6,6 +6,8 @@ October 15th 2016
 Bart Jansen
 https://www.vekn.net/event-calendar/event/8344
 
+-- 1GW4 + 3vp in final
+
 Crypt (12 cards, min=22, max=44, avg=8.67)
 ------------------------------------------
 4x Montano                                 11  ANI DOM FOR OBT POT      2 votes   Lasombra:3

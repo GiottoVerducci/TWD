@@ -6,6 +6,8 @@ May 29th 2022
 Riccardo Fabiani
 https://www.vekn.net/event-calendar/event/10179
 
+-- 2GW6 + 3vp in final
+
 Deck Name: Milan can suck too
 
 Crypt (12 cards, min=22, max=34, avg=6.75)

@@ -6,6 +6,8 @@ November 10th 2013
 Martin Schumacher
 https://www.vekn.net/event-calendar/event/7363
 
+-- 1GW6 + 3vp in final
+
 Deck Name: The Black Plague
 
 Crypt (13 cards, min=12, max=29, avg=5.08)

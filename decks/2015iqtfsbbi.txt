@@ -6,6 +6,8 @@ February 8th 2015
 Giulio De Cicco
 https://www.vekn.net/event-calendar/event/7946
 
+-- 2GW8 + 2.5vp in final
+
 Deck Name: Tunnel Runner FTW!
 
 Crypt (13 cards, min=5, max=18, avg=2.85)

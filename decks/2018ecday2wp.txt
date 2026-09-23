@@ -1,12 +1,12 @@
 EC 2018 - Day 2
 Warsaw, Poland
 August 26th 2018
-3R+F
+3R (no final)
 50 players
 Ivan Chebunin
 https://www.vekn.net/event-calendar/event/8903
 
--- 1GW5.5 + 1.5 in final
+-- 1GW5.5
 
 Deck Name: EC 2018 win
 Created by: Ivan Chebunin

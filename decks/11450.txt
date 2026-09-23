@@ -6,6 +6,8 @@ June 2nd 2024
 Otso Saariluoma
 https://www.vekn.net/event-calendar/event/11450
 
+-- 0GW1.5 + 1.5vp in final
+
 Deck Name: Guillaume Beatdown
 Author: Otso Saariluoma
 Description: A combat-oriented Guillaume deck with an Increased Strength package for funsies. Hopefully you get to build up to have a few powerful turns before inevitably running out of steam.

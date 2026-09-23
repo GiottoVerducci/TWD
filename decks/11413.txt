@@ -6,6 +6,8 @@ April 28th 2024
 Enrique Montaño Torres
 https://www.vekn.net/event-calendar/event/11413
 
+-- 1GW8 + 3vp in final
+
 Deck Name: What we do in the shadows
 
 Crypt (12 cards, min=16, max=21, avg=4.75)

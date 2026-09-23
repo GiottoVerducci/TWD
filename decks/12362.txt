@@ -6,6 +6,8 @@ May 24th 2025
 Richard Barnett
 https://www.vekn.net/event-calendar/event/12362
 
+-- 1GW5 + 3vp in final
+
 Deck Name: HCR-Heavy Combat Request
 
 Crypt (12 cards, min=15, max=28, avg=5.58)

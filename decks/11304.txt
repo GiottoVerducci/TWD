@@ -6,6 +6,8 @@ April 28th 2024
 Marius Iscru
 https://www.vekn.net/event-calendar/event/11304
 
+-- 2GW5 + 1.5vp in final
+
 -- Streaming: https://www.twitch.tv/videos/2131939519 and https://www.twitch.tv/videos/2131993080
 
 Crypt (12 cards, min=17, max=31, avg=6.08)

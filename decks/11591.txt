@@ -6,6 +6,8 @@ September 14th 2024
 Riccardo Fabiani
 https://www.vekn.net/event-calendar/event/11591
 
+-- 2GW7.5 + 2.5vp in final
+
 Deck Name: Tzimisce al ragù
 Description: Pro/dom with some blocking
 

@@ -6,7 +6,7 @@ January 20th 2024
 Noora Hirvonen
 https://www.vekn.net/event-calendar/event/11127
 
--- GW3 + 0.5vp + 0 / 1.5 in final
+-- 1GW4.5 + 1.5vp in final
 
 Deck name: Gangrel Things
 Description: Thank you Aapo Järvelin (Khormag) for handing me the predecessor of this deck in the after-games of a tournament he organized in Joensuu a couple of years back, the deck is super fun to play. I played versions of it quite a lot in 2022, and last months I have had a feeling it could do well in the grindy Stockholm meta with its fast and plentiful actions and reactions. This iteration though I feel like I made slightly worse by adding some random cards outside of the core mechanic of Computer hacking, Thing and Earth meld, but it did hold itself together this time.

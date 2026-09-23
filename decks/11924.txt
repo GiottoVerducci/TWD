@@ -6,6 +6,8 @@ January 5th 2025
 Andrea Paderni
 https://www.vekn.net/event-calendar/event/11924
 
+-- 2GW5.5 + 2.5vp in final
+
 Deck name: The Anarch Unnamed – Stealth & Bleed
 
 Crypt (13 cards, min=4, max=40, avg=6)

@@ -6,6 +6,8 @@ June 3rd 2023
 Danilo Fernandes
 https://www.vekn.net/event-calendar/event/10746
 
+-- 2GW9.5 + 4vp in final
+
 Deck Name: Harbingers - Erebus The Legionaire Lord
 
 Crypt (12 cards, min=22, max=34, avg=7)

@@ -1,12 +1,15 @@
-EC 2026 - Day 1
-Kablys, Vilnius, Lithuania
-2026-09-19
+European Championship 2026 Day 1
+Lithuania
+2026-09-19 09:00:00
 3R+F
-196 players
+200 players
 Nikica Novaković
+
 https://archon.vekn.net/t/12760
 
 Deck Name: Purple haze
+
+Adapted my Croatian NC 2025 winning deck for EC day 1 meta, where I expected less combat and more bleed than usual.
 
 Crypt (12 cards)
 ----------------

@@ -1,12 +1,10 @@
 SNAFU: Blood Feud
 Snafu Battlegrounds, Sabadell, Spain
-2026-08-23
+August 23rd 2026
 2R+F
 22 players
 Isaac Domínguez
 https://archon.vekn.net/t/13436
-
-Deck Name: Crypt (12 cards; Capacity min=1 max=9 avg=5.8)
 
 Crypt (12 cards)
 ----------------

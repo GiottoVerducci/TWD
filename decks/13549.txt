@@ -1,0 +1,64 @@
+1a Jornada Liga Levante Norte: Fee Stake Alaquàs
+Spain
+September 27th 2026
+3R+F
+18 players
+David Fraile
+https://archon.vekn.net/t/13549
+
+-- 3GW8 + 4vp in final
+
+Deck Name: Avalalancha Zombie
+
+Crypt (12 cards)
+----------------
+3x Hel-Blá                         9  obf AUS FOR OBL POT  Hecata:6
+3x Mora, the Death Seer            7  ani AUS FOR OBL      Hecata:6
+3x Alek König                      3  OBL                  Hecata:6
+3x Nadezhda                        3  aus obl              Hecata:6
+
+Library (90 cards)
+Master (30)
+1x Burial Site Hunting Ground
+1x Cappadocian Crypt
+3x Charisma
+1x Creepshow Casino
+1x Cursed Abattoir
+1x Fame
+6x Family Gathering
+1x Giant's Blood
+1x Grooming the Protégé
+3x Perfectionist
+1x Powerbase: Montreal
+1x Powerbase: Munich
+3x The Parthenon
+1x The Rack
+1x The Shard, London
+1x Vast Wealth
+3x Villein
+Action (7)
+3x Dance of the Dead
+4x Shroud of Decay
+Ally (20)
+8x Aggressive Corpse
+4x Bone Shambler
+1x Carlton Van Wyk
+1x Mylan Horseed
+1x Ossian
+2x Rotting Behemoth
+2x Screamer
+1x Young Bloods
+Equipment (1)
+1x Heart of Nizchetus
+Action Modifier (11)
+5x Paths in Two Worlds
+2x Stygian Shroud
+4x Where the Veil Thins
+Reaction (16)
+4x Delaying Tactics
+5x Shadow Sentinel
+7x Telepathic Misdirection
+Event (5)
+1x Dragonbound
+1x FBI Special Affairs Division
+3x The Unmasking

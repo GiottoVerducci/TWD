@@ -1,0 +1,66 @@
+La vuelta al cole: horario de tarde
+Spain
+September 26th 2026
+2R+F
+15 players
+Jorge Verdi
+https://archon.vekn.net/t/13511
+
+-- 0GW2 + 2.5vp in final
+
+Deck Name: S.O.S.: Â¡Anarquistas en el parlamento!
+
+Crypt (12 cards)
+----------------
+4x Aisha az-Zahra                  9  obf qui AUS CEL PRE  Toreador:5
+2x Sergio Bueno                    8  aus pot OBF PRE PRO  Ministry:6
+2x Vivian VI                       7  obf tha PRE PRO      Ministry:6
+1x Atiena                          6  obf pot pre CEL      Brujah:6
+2x Elisha Tucker                   6  cel obf pro PRE      Ministry:6
+1x Jacques Rouge                   6  ani pot pre OBF      Nosferatu:6
+
+Library (90 cards)
+Master (17)
+1x Anarch Railroad
+1x Anarch Troublemaker
+1x Carfax Abbey
+1x Club Illusion
+1x Creepshow Casino
+2x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Pentex™ Subversion
+1x Perfectionist
+1x The Coven
+4x Villein
+2x Wider View
+Action (7)
+7x Childe of the Revolution
+Political Action (14)
+1x Can't Take it with You
+1x Eat the Rich
+4x Exclusion Principle
+2x Firebrand
+1x Kine Resources Contested
+1x Neonate Breach
+2x Reckless Agitation
+2x Revolutionary Council
+Action Modifier (24)
+1x Aire of Elation
+2x Bewitching Oration
+2x Cloak the Gathering
+3x CrimethInc.
+1x Elder Impersonation
+3x Forgotten Labyrinth
+2x Lost in Crowds
+5x Memory Rift
+2x Scalpel Tongue
+1x Veil the Legions
+2x Voter Captivation
+Reaction (21)
+6x Bait and Switch
+2x Delaying Tactics
+5x On the Qui Vive
+4x Organized Resistance
+4x Party Out Of Bounds
+Combat (7)
+7x Majesty

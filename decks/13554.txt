@@ -1,0 +1,50 @@
+I Torneo Liga Norte - Crusade Vitoria
+Gasteiz / Vitoria, Spain
+October 3rd 2026
+2R+F
+23 players
+Iker Feliu
+https://archon.vekn.net/t/13554
+
+-- 1GW4.5 + 4vp in final
+
+Deck Name: Toreador v7 short
+
+Crypt (12 cards)
+----------------
+4x Diana Iadanza                   9  AUS CEL FOR PRE      Toreador:7
+1x Catalina Vega                   8  for AUS CEL PRE      Toreador:6
+1x Marcos Belegrad                 8  ani AUS CEL PRE      Toreador:7
+3x Modius                          8  obf AUS CEL PRE      Toreador:7
+1x Flávio Gonçalves                7  aus for CEL PRE      Toreador:6
+1x Maila                           6  cel AUS PRE          Toreador:6
+1x Mkhokheli                       6  aus cel for PRE      Toreador:6
+
+Library (67 cards)
+Master (18)
+6x Ashur Tablets
+1x Camarilla Conclave
+1x Monastery of Shadows
+1x The Coven
+4x Villein
+1x Wider View
+4x Zillah's Valley
+Political Action (17)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+5x Camarilla's Iron Fist
+4x Kine Resources Contested
+5x Parity Shift
+1x Political Stranglehold
+Action Modifier (23)
+3x Bewitching Oration
+4x Forced March
+4x Loup
+3x Perfect Paragon
+2x Resist Earth's Grasp
+2x Scalpel Tongue
+5x Voter Captivation
+Reaction (4)
+4x Telepathic Misdirection
+Combat (5)
+5x Majesty

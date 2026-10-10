@@ -1,0 +1,61 @@
+Torneio do 2 Aniversário Da Comunidade VTES Almada & Friends
+Almada, Portugal
+October 10th 2026
+3R+F
+13 players
+Mikhail Klokov
+https://archon.vekn.net/t/13573
+
+-- 1GW6 + 2.5vp in final
+
+Deck Name: Bleeder-Breeder
+
+Crypt (12 cards)
+----------------
+1x "Mother" Anja Giovanni          8  dom pot AUS FOR OBL  Hecata:6
+4x Parijat, the Dark Oracle        7  AUS DOM FOR OBL      Hecata:6
+1x Lenelle, Mambo of Birmingham    6  aus FOR OBL          Hecata:6
+1x Monica Giovanni                 6  AUS FOR OBL          Hecata:6
+2x Gebeyehu Abdu                   5  for AUS OBL          Hecata:6
+2x Alek König                      3  OBL                  Hecata:6
+1x Peter St. John                  2  obl                  Hecata:6
+
+Library (90 cards)
+Master (17)
+1x Biotech Company Hunting Ground
+1x Cappadocian Crypt
+1x Direct Intervention
+1x Dominate
+2x Dreams of the Sphinx
+6x Family Gathering
+1x Jake Washington
+1x Powerbase: Montreal
+1x Powerbase: Munich
+1x The Barrens
+1x The Line
+Action (16)
+2x Govern the Unaligned
+2x Psychophagia
+7x Shroud of Decay
+5x Split the Veil
+Ally (14)
+5x Rotting Behemoth
+8x Spectral Servitor
+1x Tye Cooper
+Action Modifier (19)
+3x Conditioning
+3x Freak Drive
+5x Shadow Cast
+3x Stygian Shroud
+5x Where the Veil Thins
+Reaction (16)
+2x Delaying Tactics
+2x My Enemy's Enemy
+5x Shadow Sentinel
+5x Telepathic Misdirection
+2x Truth in Darkness
+Combat (5)
+5x Pass Through Shadow
+Event (3)
+1x FBI Special Affairs Division
+2x The Unmasking

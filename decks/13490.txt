@@ -1,0 +1,57 @@
+Press to corner
+Solna, Sweden
+October 10th 2026
+3R+F
+17 players
+Marcus Berg
+https://archon.vekn.net/t/13490
+
+-- 2GW7 + 3vp in final
+
+Deck Name: 11 nightmares
+
+Inspired by Kalle Blomgrens 'I have a dream', I removed all the normal masters and added 10 Dreams and 1 House of Sorrow (pseudo-Dream) to my otherwise fairly standard Ravnos deck.
+
+Bringing out new vampires every turn is key, and bringing out your smallest vampire on turn 1 to start putting down blood to uncontrolled with Break the Bonds is probably the best start you can get.
+
+Crypt (12 cards)
+----------------
+1x Sreelekha                       8  ANI FOR OBF PRE      Ravnos:7
+1x Hafthor Thorsteinsson           7  pot ANI OBF PRE      Ravnos:7
+1x Doc Martina                     6  for pre ANI OBF      Ravnos:7
+1x Luciano Carvalho                6  pre ANI OBF          Ravnos:7
+1x Roberto Rivamonte               6  ANI OBF PRE          Ravnos:7
+1x Gathii                          5  obf ANI PRE          Ravnos:7
+2x Phaibun                         5  ani OBF PRE          Ravnos:7
+1x Jean-François                   4  ani obf pre          Ravnos:7
+1x Zafira                          4  obf PRE              Ravnos:7
+1x "Coach" Tyrone Soros            3  obf pre              Ministry:6
+1x Oleg Kaprizov                   3  obf pre              Ravnos:7
+
+Library (90 cards)
+Master (19)
+3x Dabbler
+10x Dreams of the Sphinx
+1x House of Sorrow
+1x Two Wrongs
+2x Wash
+2x Week of Nightmares
+Action (22)
+18x Break the Bonds
+4x Mind Numb
+Action Modifier (36)
+4x Elder Impersonation
+2x Faceless Night
+1x Hide the Mind
+6x Lost in Crowds
+9x Memory Rift
+6x Power of One
+8x Visions of Gehenna
+Reaction (11)
+1x Confusion of the Eye
+1x Delaying Tactics
+4x Guard Dogs
+5x Visions of Zapathasura
+Event (2)
+1x Narrow Minds
+1x The Bitter and Sweet Story

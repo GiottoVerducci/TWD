@@ -9,7 +9,9 @@ https://archon.vekn.net/t/13399
 -- 1GW6 + 1.5vp in final
 
 Deck Name: Dorka's Pin Puppies
-Original author: Frederic Pin
+
+[2025-06-07]
+original author Frederic Pin
 
 Crypt (12 cards)
 ----------------

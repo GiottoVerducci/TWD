@@ -1,0 +1,73 @@
+League France 2026 : Reims
+Reims, France
+October 10th 2026
+3R+F
+10 players
+Vincent Ripoll
+https://archon.vekn.net/t/13644
+
+-- 1GW4.5 + 4vp in final
+
+Deck Name: Baron protean 
+
+[2025-07-11] Genève : ajouts de deux Voracious Vermin pour gérer les guns, uncoiling vs Scourge que je n’arrête pas de croiser en partie, et un gun
+[2024-10-24] Version CF
+[2024-10-05] Version Day 2 : un heart et une pb:la pour cycler un peu plus
+[2024-09-22]
+v1 jouée au Monk et au tournoi Epita septembre 2024 (2GW6,5 en finale, 0vp après que Selim (Arika/Leandro) soit mort, tué par Axel
+
+Crypt (12 cards)
+----------------
+1x Sergio Bueno                    8  aus pot OBF PRE PRO  Ministry:6
+1x Massimiliano                    7  pro ANI FOR          Gangrel:6
+1x Valeriya Zinovieva              7  cel pre pro POT      Brujah:6
+1x Vivian VI                       7  obf tha PRE PRO      Ministry:6
+1x Ángel Guerrero                  7  ANI DOM PRO          Tzimisce:6
+1x Branimira                       6  dom pre pro ANI      Tzimisce:6
+1x Casey Snyder                    6  ani cel for PRO      Gangrel:6
+1x Elisha Tucker                   6  cel obf pro PRE      Ministry:6
+1x Kuyén                           6  ANI PRO              Gangrel:6
+1x Kamile Paukstys                 5  ani for PRO          Gangrel:6
+1x Indira                          3  PRO                  Gangrel:6
+1x Joseph Fischer                  3  PRO                  Gangrel antitribu:5
+
+Library (90 cards)
+Master (25)
+1x Anarch Troublemaker
+2x Carfax Abbey
+2x Club Illusion
+1x Dark Influences
+2x Garibaldi-Meucci Museum
+1x Papillon
+1x Poacher's Hunting Ground
+1x Powerbase: Los Angeles
+6x Protean
+1x Rötschreck
+1x The Anarch Free Press
+6x Villein
+Action (10)
+1x Aranthebes, The Immortal
+8x Childe of the Revolution
+1x Constant Revolution
+Equipment (3)
+1x .44 Magnum
+2x Heart of Nizchetus
+Political Action (2)
+1x Eat the Rich
+1x Revolutionary Council
+Action Modifier (10)
+4x Earth Control
+4x Form of the Bat
+2x Monkey Wrench
+Reaction (25)
+6x Bait and Switch
+1x Delaying Tactics
+16x Organized Resistance
+2x Protection Racket
+Combat (14)
+1x Body Flare
+5x Donnybrook
+7x Earth Meld
+1x Voracious Vermin
+Event (1)
+1x The Uncoiling

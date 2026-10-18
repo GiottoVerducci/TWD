@@ -1,0 +1,67 @@
+Enemy at the Gates
+Vác, Hungary
+October 17th 2026
+3R+F
+36 players
+Gyula Erdős
+https://archon.vekn.net/t/13618
+
+-- 2GW11 + 2.5vp in final
+
+Deck Name: Gangrel anarch vote
+
+Crypt (12 cards)
+----------------
+1x Massimiliano                    7  pro ANI FOR          Gangrel:6
+1x Vivian VI                       7  obf tha PRE PRO      Ministry:6
+1x Ángel Guerrero                  7  ANI DOM PRO          Tzimisce:6
+1x André the Manipulator           6  FOR PRO              Gangrel:5
+2x Casey Snyder                    6  ani cel for PRO      Gangrel:6
+1x Kuyén                           6  ANI PRO              Gangrel:6
+1x Kamile Paukstys                 5  ani for PRO          Gangrel:6
+1x Hanna Nokelainen                4  ani for pro          Gangrel:6
+1x Nathan Turner                   4  ani PRO              Gangrel:6
+1x Indira                          3  PRO                  Gangrel:6
+1x Ruslan Fedorenko                2  pro                  Gangrel:6
+
+Library (90 cards)
+Master (22)
+1x Anarch Railroad
+1x Backways
+1x Carfax Abbey
+1x Club Illusion
+1x Direct Intervention
+3x Dreams of the Sphinx
+1x Ecoterrorists
+1x Ennoia's Theater
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+2x Information Highway
+1x Powerbase: Montreal
+1x Powerbase: Savannah
+6x Villein
+Action (13)
+1x Childe of the Revolution
+1x Fee Stake: Seattle
+11x Thing
+Political Action (5)
+2x Consanguineous Boon
+1x Eat the Rich
+2x Revolutionary Council
+Action Modifier (15)
+1x Daring the Dawn
+4x Earth Control
+4x Form of the Bat
+1x Monkey Wrench
+5x Propaganda of the Deed
+Reaction (21)
+6x Bait and Switch
+4x Deep Ecology
+2x Delaying Tactics
+1x Eyes of the Wild
+7x Organized Resistance
+1x Poison Pill
+Combat (14)
+1x Donnybrook
+9x Earth Meld
+4x Form of Mist

@@ -1,0 +1,51 @@
+CNPT - New Moon
+Coimbra, Portugal
+October 24th 2026
+3R+F
+18 players
+Eduardo Manuel Mateus
+https://archon.vekn.net/t/13648
+
+-- 1GW3 + 4vp in final
+
+Deck Name: The Downward Spiral
+
+Crypt (12 cards)
+----------------
+2x Helena                         10  obf pre tha AUS CEL DOM Toreador:3
+4x Helena (ADV)                   10  dai obf pre tha AUS CEL DOM Toreador:3
+1x Isabel de Leon                  3  AUS                  Toreador:2
+1x Zöe                             3  cel obf AUS          Malkavian:2
+1x Anarch Convert                  1  -none-               Caitiff:any
+1x Feo Ramos                       1  aus                  Pander:3
+1x Franciscus                      1  aus                  Caitiff:2
+1x Royce                           1  dom                  Pander:2
+
+Library (90 cards)
+Master (18)
+2x Antediluvian Awakening
+2x Curse of Nitocris
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Failsafe
+1x Giant's Blood
+1x Jake Washington
+1x Rebel
+1x Secure Haven
+1x The Erciyes Fragments
+2x Villein
+2x Wider View
+Action Modifier (2)
+2x Sense the Sin
+Reaction (69)
+10x Deflection
+9x Diabolic Lure
+8x Eagle's Sight
+6x Enhanced Senses
+6x Eyes of Argus
+4x My Enemy's Enemy
+12x Obedience
+6x Quicken Sight
+8x Telepathic Misdirection
+Event (1)
+1x Narrow Minds

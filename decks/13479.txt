@@ -1,0 +1,42 @@
+Praxis Seize Norwich
+Norwich, United Kingdom
+October 24th 2026
+3R+F
+17 players
+Mikey Ferguson
+https://archon.vekn.net/t/13479
+
+-- 2GW7 + 4vp in final
+
+Deck Name: Sabbanu Haqim
+
+Crypt (12 cards)
+----------------
+3x Algirdas, The Solar Prophet     7  pot ANI CEL THA      Banu Haqim:6
+4x Kalyani, Agent of Doom          7  obf pot ANI CEL THA  Banu Haqim:6
+2x Victoria Ash (G7)               6  aus cel dom PRE      Toreador:7
+3x Hekla "Bonecrusher" Jónasdóttir  5  cel POT THA          Banu Haqim:6
+
+Library (89 cards)
+Master (20)
+1x Archon Investigation
+1x Fame
+3x Haqim's Law: Retribution
+4x Monster
+3x Priority Contract
+1x Tension in the Ranks
+5x Villein
+2x Wider View
+Action (15)
+7x Abuse of Power
+3x Deep Song
+3x Hunter's Mark
+2x Pillars Fall
+Combat (54)
+10x Immortal Grapple
+10x Pursuit
+4x Quickness
+14x Rage of Apedemak
+3x Soulgrinder
+5x Taste of Vitae
+8x Wall of Filth

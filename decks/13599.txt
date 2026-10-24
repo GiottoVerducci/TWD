@@ -1,0 +1,54 @@
+Liga Madrileña 1 - Primer torneo Baronía Sur
+Móstoles, Spain
+October 24th 2026
+2R+F
+33 players
+Julio García Martín
+https://archon.vekn.net/t/13599
+
+-- 1GW5 + 2vp in final
+
+Deck Name: legionario's back 
+
+Crypt (13 cards)
+----------------
+5x Erlik                          10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+1x Babalawo Alafin                 7  ani AUS FOR NEC      Harbinger of Skulls:4
+2x Erebus                          7  dem AUS FOR NEC      Harbinger of Skulls:3
+1x Mina Grotius                    6  cel FOR NEC          Harbinger of Skulls:3
+1x Zygodat                         6  pot AUS NEC          Harbinger of Skulls:4
+2x Nicomedes                       5  aus for nec vic      Harbinger of Skulls:4
+1x Solomon Batanea                 5  nec AUS FOR          Harbinger of Skulls:4
+
+Library (83 cards)
+Master (11)
+1x Anarch Troublemaker
+1x Archon Investigation
+2x Direct Intervention
+1x Giant's Blood
+3x Liquidation
+1x The Coven
+2x Villein
+Action (13)
+11x Disciple of Lazarus
+2x Soul Feasting
+Ally (10)
+10x Emerald Legionnaire
+Action Modifier (20)
+2x Acheron Vortex
+2x Breath of Thanatos
+4x Call of the Hungry Dead
+8x Freak Drive
+2x Spectral Divination
+2x Trochomancy
+Reaction (19)
+3x Delaying Tactics
+3x Eyes of Argus
+3x My Enemy's Enemy
+3x On the Qui Vive
+7x Telepathic Misdirection
+Combat (8)
+8x Spiritual Intervention
+Event (2)
+1x FBI Special Affairs Division
+1x The Unmasking

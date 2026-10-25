@@ -6,6 +6,8 @@ December 11th 2016
 Dmitriy Belastotski
 https://www.vekn.net/event-calendar/event/8535
 
+-- 1GW7.5 + 2.5vp in final
+
 Deck Name: Kiasyd Power Bleed
 Created by: Anton Dudko
 

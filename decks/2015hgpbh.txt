@@ -6,6 +6,8 @@ March 22nd 2015
 Alain Greiner
 https://www.vekn.net/event-calendar/event/7941
 
+-- 2GW8 + 1.5vp in final
+
 Crypt (12 cards, min=4, max=40, avg=6.08)
 -----------------------------------------
 4x Goratrix        10  ANI AUS DOM THA vic  Tremere antitribu:2

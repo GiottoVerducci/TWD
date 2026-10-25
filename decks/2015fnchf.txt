@@ -6,6 +6,8 @@ August 15th 2015
 Tuomas Nyberg
 https://www.vekn.net/event-calendar/event/8176
 
+-- 1GW5.5 + 2vp in final
+
 Crypt (12 cards, min=40, max=44, avg=10.67)
 -------------------------------------------
 4x Mistress Fanchon  11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4

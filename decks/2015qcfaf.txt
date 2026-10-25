@@ -6,6 +6,8 @@ June 7th 2015
 Vincent Ripoll
 https://www.vekn.net/event-calendar/event/8111
 
+-- 2GW6 + 2.5vp in final
+
 Deck Name: Women in chains
 
 Description: An evolution of my Gangrel Dominate deck, mixed with my Gang of Fur deck (with no Dominate at all)

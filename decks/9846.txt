@@ -6,6 +6,8 @@ September 30th 2021
 Darby Keeney
 https://www.vekn.net/event-calendar/event/9846
 
+-- 2GW6 + 3vp in final
+
 Deck Name: Broccolini
 This deck was developed independently from (but about the same time as) Esa-Matti Smolander's 17 Sept 2019 winner. The designs turned out similar because there's a single logical path for development with these vampires:
 1) Get too many MPA and discard options,

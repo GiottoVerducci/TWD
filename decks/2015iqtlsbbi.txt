@@ -6,6 +6,8 @@ March 15th 2015
 Alessandro Donati
 https://www.vekn.net/event-calendar/event/8018
 
+-- 1GW3 + 4vp in final
+
 Deck Name: Officina della Bistecca
 
 Description: Very fast War Ghoul deck that uses small cap Tzimisce

@@ -6,6 +6,8 @@ July 26th 2015
 John Jean-Baptiste
 https://www.vekn.net/event-calendar/event/8170
 
+-- 1GW4 + 4vp in final
+
 Deck Name: Setite Red List.
 
 Crypt (13 cards, min=20, max=40, avg=7.54)

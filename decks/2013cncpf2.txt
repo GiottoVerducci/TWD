@@ -6,6 +6,8 @@ August 25th 2013
 Martin Miller
 https://www.vekn.net/event-calendar/event/7289
 
+-- 2GW6 + 4vp in final
+
 Crypt (12 cards, min=16, max=43, avg=7.58)
 ------------------------------------------
 4x Anson             8  CEL PRE aus dom      prince        Toreador:1

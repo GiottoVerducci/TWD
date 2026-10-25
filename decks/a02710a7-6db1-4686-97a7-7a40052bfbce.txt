@@ -6,6 +6,8 @@ December 28th 2025
 Jose Vte Coll
 https://archon.vekn.net/tournament/a02710a7-6db1-4686-97a7-7a40052bfbce/display.html
 
+-- 1GW4 + 4vp in final
+
 Deck Name: 1 Act. - Gangrel Crew
 
 Crypt (12 cards, min=13, max=25, avg=5.08)

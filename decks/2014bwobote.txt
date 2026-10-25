@@ -6,6 +6,8 @@ January 18th 2014
 Mike Pye
 https://www.vekn.net/event-calendar/event/7428
 
+-- 0GW1.5 + 2.5vp in final
+
 Deck Name: Lasombra Stealth/Bleed
 
 Crypt (12 cards, min=22, max=40, avg=7.75)

@@ -6,6 +6,8 @@ August 16th 2014
 Enrico Bertolotti
 https://www.vekn.net/event-calendar/event/7782
 
+-- 2GW7.5 + 0.5vp in final
+
 Deck Name: anarch for-cel rush
 Created by: Marcello Bertocchi
 

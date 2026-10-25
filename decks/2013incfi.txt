@@ -6,6 +6,8 @@ December 1st 2013
 Enrico De Stefano
 https://www.vekn.net/event-calendar/event/7419
 
+-- 1GW3.5 + 4vp in final
+
 Deck Name: Summoning the Elders! 3.0
 
 Crypt (19 cards, min=31, max=44, avg=8.95)

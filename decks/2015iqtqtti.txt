@@ -6,6 +6,8 @@ March 28th 2015
 Gabriele Bugliani
 https://www.vekn.net/event-calendar/event/8050
 
+-- 1GW3 + 2.5vp in final
+
 Deck Name: Mercury's Adepts
 
 Crypt (13 cards, min=9, max=26, avg=4.15)

@@ -8,8 +8,6 @@ https://archon.vekn.net/t/13480
 
 -- 2GW6 + 3vp in final
 
-Deck Name: ======================================
-
 Crypt (12 cards)
 ----------------
 3x Lambach                        10  pre ANI AUS DOM VIC  Tzimisce:2

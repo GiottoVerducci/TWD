@@ -6,6 +6,8 @@ June 8th 2024
 Vinicius Costalonga
 https://www.vekn.net/event-calendar/event/11433
 
+-- 2GW8 + 4vp in final
+
 Deck Name: Old But Good
 
 Crypt (12 cards, min=32, max=44, avg=9.67)

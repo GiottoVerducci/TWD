@@ -6,6 +6,8 @@ Joel Oliveira
 https://www.vekn.net/forum/event-reports-and-twd/80850-twd-volte-logo-anderson
 https://www.vekn.net/event-calendar/event/10986
 
+-- 1GW2.5 + 3vp in final
+
 Deck Name: Gangrel anarch V5
 
 Crypt (12 cards, min=20, max=29, avg=6.08)

@@ -6,6 +6,8 @@ February 11th 2024
 Eduardo Manuel dos Santos Mateus
 https://www.vekn.net/event-calendar/event/11487
 
+-- 1GW7 + 2.5vp in final
+
 Deck Name: “The Downward Spiral”
 
 Crypt (12 cards, min=7, max=40, avg=6.08)

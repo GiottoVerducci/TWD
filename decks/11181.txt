@@ -6,6 +6,8 @@ January 14th 2024
 Jan Kočí
 https://www.vekn.net/event-calendar/event/11181
 
+-- 2GW10.5 + 3vp in final
+
 Deck Name: Stanislava, lady of the wood
 
 Crypt (12 cards, min=36, max=44, avg=10.08)

@@ -6,6 +6,8 @@ November 9th 2024
 Tomasz Kloczko
 https://www.vekn.net/event-calendar/event/11521
 
+-- 1GW6.5 + 2.5vp in final
+
 Deck Name: Nephandus 2024
 Author: Tomasz Kloczko (based on Tomasz Pietkiewicz & Pawel Kukielczynski deck from the past)
 

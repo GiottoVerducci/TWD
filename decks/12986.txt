@@ -6,7 +6,7 @@ February 28th 2026
 Milos Krstic
 https://www.vekn.net/event-calendar/event/12986
 
--- 2GW8.5 + 1.5vp in final
+-- 2GW7 + 1.5vp in final
 
 Deck Name: Homo homini lupus est
 Description: Shout-out to my Belgrade playgroup who made me the player i am today.

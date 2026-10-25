@@ -6,6 +6,8 @@ January 24th 2015
 Leonardo Villela
 https://www.vekn.net/event-calendar/event/7950
 
+-- 1GW5.5 + 5vp in final
+
 Deck Name: Tunnel Runner
 
 Crypt (12 cards, min=12, max=22, avg=4.5)

@@ -6,6 +6,8 @@ February 15th 2025
 Jason Orman
 https://www.vekn.net/event-calendar/event/11776
 
+-- 1GW5 + 1.5vp in final
+
 Deck Name: Night troubles (Complete)
 
 Crypt (13 cards, min=20, max=31, avg=6.31)

@@ -6,6 +6,8 @@ September 7th 2024
 José Roberio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/11393
 
+-- 3GW11.5 + 3vp in final
+
 Deck Name: Lobisomem america em campina 2.0
 
 Crypt (13 cards, min=12, max=25, avg=4.77)

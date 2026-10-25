@@ -6,6 +6,8 @@ April 22nd 2023
 Édouard Menneson
 https://www.vekn.net/event-calendar/event/10675
 
+-- 2GW6.5 + 1.5vp in final
+
 Crypt (12 cards, min=13, max=25, avg=5)
 ---------------------------------------
 2x Casey Snyder       6  PRO ani cel for  baron  Gangrel:6

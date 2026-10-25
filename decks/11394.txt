@@ -6,6 +6,8 @@ April 27th 2024
 Pawel Domanski
 https://www.vekn.net/event-calendar/event/11394
 
+-- 0GW6 + 4vp in final
+
 Deck Name: bleed & fun
 
 Crypt (12 cards, min=19, max=32, avg=6.33)

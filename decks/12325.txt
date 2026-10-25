@@ -6,6 +6,8 @@ May 17th 2025
 Tomasz Kloczko
 https://www.vekn.net/event-calendar/event/12325
 
+-- 1GW6.5 + 2.5vp in final
+
 Deck name: Nephandus 2025
 
 Crypt (12 cards, min=6, max=20, avg=3.5)

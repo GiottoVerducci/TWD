@@ -6,6 +6,8 @@ January 21st 2024
 Pedro Santana de Araújo Filho
 https://www.vekn.net/event-calendar/event/11225
 
+-- 0GW2 + 3.5vp in final
+
 Deck Name: Ministro chupista
 
 Crypt (12 cards, min=21, max=32, avg=6.67)

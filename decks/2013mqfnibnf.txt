@@ -6,6 +6,8 @@ December 1st 2013
 Marius Iscru
 https://www.vekn.net/event-calendar/event/7423
 
+-- 1GW6 + 3vp in final
+
 Deck Name: Doyle and Friends
 
 Crypt (12 cards, min=18, max=27, avg=5.75)

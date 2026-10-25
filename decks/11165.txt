@@ -6,6 +6,8 @@ December 1st 2024
 David Orck
 https://www.vekn.net/event-calendar/event/11165
 
+-- 1GW7 + 4vp in final
+
 Deck Name: Nergão da Messejana
 
 Crypt (12 cards, min=12, max=40, avg=5.58)

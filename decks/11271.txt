@@ -6,6 +6,8 @@ March 2nd 2024
 Pasi Karjalainen
 https://www.vekn.net/event-calendar/event/11271
 
+-- 1GW2.5 + 4vp in final
+
 Deck Name: Salubri Powerbleed
 Description: A block denial deck for a combat heavy meta. In less combative environment fewer combat cards, more hand management and bounces would be recommended.
 

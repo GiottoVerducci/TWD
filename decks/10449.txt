@@ -6,6 +6,8 @@ December 11th 2022
 Lukáš Simandl
 https://www.vekn.net/event-calendar/event/10449
 
+-- 2GW6 + 1.5vp in final
+
 Deck Name: Unspecified Platinum Snakes
 Author: Lukas Simandl
 Description: This is the third iteration of this pack and by far the most successful and also my favorite. In the first iteration, I dropped cards requiring Unnamed. It's generally a problem to have things in there that only Unnamed can play and not untap after, there's no room for any extra multi actions and it's better to hold untap card for next turn. The cards that left were replaced with Platinum Protocols and I increased the number of Revelation of the Serpent, a card that allowed me to reduce the number of stealth.

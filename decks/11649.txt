@@ -6,6 +6,8 @@ September 8th 2024
 Albert Hidalgo
 https://www.vekn.net/event-calendar/event/11649
 
+-- 1GW6 + 1.5vp in final
+
 Deck Name: Trigesima Dianae Chorus
 
 Crypt (12 cards, min=24, max=36, avg=7.67)

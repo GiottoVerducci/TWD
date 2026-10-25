@@ -6,6 +6,8 @@ April 7th 2024
 Valdemir Santos
 https://www.vekn.net/event-calendar/event/11148
 
+-- 2GW7 + 3vp in final
+
 Deck Name: Majesty
 
 Crypt (13 cards, min=16, max=30, avg=5.62)

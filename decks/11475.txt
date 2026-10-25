@@ -7,6 +7,8 @@ Michał Sokołowski
 Organizer/judge: Maciej Broniarz
 https://www.vekn.net/event-calendar/event/11475
 
+-- 0GW3 + 3vp in final
+
 Deck Name: Flurry of Haqim
 Crypt (12 cards, min=19, max=30, avg=6.08)
 ------------------------------------------

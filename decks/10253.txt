@@ -6,6 +6,8 @@ August 27th 2022
 Jeroen van Oort
 https://www.vekn.net/event-calendar/event/10253
 
+-- 1GW5 + 3vp in final
+
 Deck Name: Traditional Ventrue has a new suit
 Description: A classic Ventrue lawfirm deck focussed on acceleration.
 

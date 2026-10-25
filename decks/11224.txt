@@ -6,6 +6,8 @@ February 1st 2024
 Daniel Motta
 https://www.vekn.net/event-calendar/event/11224
 
+-- 2GW6 + 3vp in final
+
 Deck Name: Lasombra Vote/Bleed
 
 Crypt (12 cards, min=31, max=38, avg=8.5)

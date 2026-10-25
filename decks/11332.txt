@@ -6,6 +6,8 @@ March 24th 2024
 Daniel Gargulák
 https://www.vekn.net/event-calendar/event/11332
 
+-- 1GW4.5 + 2.5vp in final
+
 Deck Name: Piper warghouls
 
 Crypt (12 cards, min=6, max=21, avg=3.58)

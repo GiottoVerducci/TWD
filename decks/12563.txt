@@ -6,6 +6,8 @@ September 20th 2025
 Jani Malmi
 https://www.vekn.net/event-calendar/event/12563
 
+-- 3GW10 + 2vp in final
+
 Deck Name: Let's have a talk
 
 Crypt (12 cards, min=23, max=36, avg=7.67)

@@ -6,6 +6,8 @@ June 28th 2025
 Marc Álvarez Garrido
 https://www.vekn.net/event-calendar/event/12009
 
+-- 3GW10 + 4vp in final
+
 Crypt (12 cards, min=4, max=40, avg=5.17)
 -----------------------------------------
 4x Matasuntha             10  ANI AUS CEL FOR PRO  Gangrel:5

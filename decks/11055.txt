@@ -6,6 +6,8 @@ January 27th 2024
 Ryan Oliveira
 https://www.vekn.net/event-calendar/event/11055
 
+-- 2GW7 + 1.5vp in final
+
 Deck Name: Unnamed, the bleeder
 
 Crypt (12 cards, min=4, max=40, avg=5.83)

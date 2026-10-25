@@ -6,6 +6,8 @@ August 17th 2025
 Johnson Gonçalves
 https://www.vekn.net/event-calendar/event/11980
 
+-- 0GW3 + 4vp in final
+
 Deck Name: Esqueci
 
 Crypt (12 cards, min=4, max=30, avg=5)

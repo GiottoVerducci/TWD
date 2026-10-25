@@ -6,6 +6,8 @@ September 23rd 2023
 Jonas Ståhle
 https://www.vekn.net/event-calendar/event/10979
 
+-- 1GW6 + 3vp in final
+
 Deck Name: Girls Will Get Personal
 Author: Louhi
 Description: Mostly based on deck by Jorge Delgado, with some tweaks to personal playstyle.

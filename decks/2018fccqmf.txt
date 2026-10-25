@@ -6,6 +6,8 @@ June 10th 2018
 Marius Iscru
 https://www.vekn.net/event-calendar/event/8892
 
+-- 1GW4.5 + 2.5vp in final
+
 Crypt (12 cards, min=36, max=44, avg=10.33)
 -------------------------------------------
 3x Lutz von Hohenzollern  11  AUS DEM OBF PRE pot      inner circle  Malkavian:4

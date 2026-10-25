@@ -6,6 +6,8 @@ March 1st 2014
 Giulio De Cicco
 https://www.vekn.net/event-calendar/event/7536
 
+-- 1GW5 + 3vp in final
+
 Deck Name: Mimir
 
 Crypt (12 cards, min=15, max=40, avg=6.5)

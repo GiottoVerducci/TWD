@@ -6,6 +6,8 @@ May 18th 2025
 Moacir Júnior
 https://www.vekn.net/event-calendar/event/11975
 
+-- 1GW5 + 2vp in final
+
 Deck Name: Gangrel anarch vote
 
 Crypt (13 cards, min=8, max=36, avg=5.77)

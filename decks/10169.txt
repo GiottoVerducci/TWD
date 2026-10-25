@@ -6,6 +6,8 @@ May 14th 2022
 Wilbert Bishop
 https://www.vekn.net/event-calendar/event/10169
 
+-- 1GW9.5 + 0vp in final
+
 Deck Name: still sneaky
 
 Crypt (16 cards, min=18, max=32, avg=6.13)

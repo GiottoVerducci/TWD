@@ -6,6 +6,8 @@ July 20th 2014
 Bram Van Stappen
 https://www.vekn.net/event-calendar/event/7706
 
+-- 3GW9 + 3vp in final
+
 Deck Name: toreador anneke: trimmed 1.1
 
 Crypt (12 cards, min=23, max=40, avg=7.92)

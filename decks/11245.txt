@@ -6,6 +6,8 @@ January 20th 2024
 Christophe Baltazar
 https://www.vekn.net/event-calendar/event/11245
 
+-- 2GW8 + 3vp in final
+
 Deck Name: 197_Weenie DBR
 
 Crypt (14 cards, min=4, max=9, avg=1.5)

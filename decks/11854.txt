@@ -6,6 +6,8 @@ December 15th 2024
 Antonio Seguí
 https://www.vekn.net/event-calendar/event/11854
 
+-- 2GW7 + 4vp in final
+
 Deck Name: Gangrenó barones
 
 Crypt (12 cards, min=21, max=30, avg=6.25)

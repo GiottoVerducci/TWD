@@ -6,6 +6,8 @@ March 24th 2024
 Tommi Hakomaa
 https://www.vekn.net/event-calendar/event/11361
 
+-- 1GW3.5 + 3vp in final
+
 Deck Name: tzimisce wall
 
 Crypt (12 cards, min=17, max=34, avg=6.42)

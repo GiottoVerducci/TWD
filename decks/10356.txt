@@ -6,6 +6,8 @@ November 5th 2022
 Joel Monteiro
 https://www.vekn.net/event-calendar/event/10356
 
+-- 1GW5.5 + 1.5vp in final
+
 Crypt (12 cards, min=16, max=26, avg=5.33)
 ------------------------------------------
 3x Kassandra Tassaki  6  CEL THA obf      prince    Assamite:6

@@ -6,6 +6,8 @@ April 23rd 2023
 Noé Grigera Fernández
 https://www.vekn.net/event-calendar/event/10711
 
+-- 1GW4.5 + 3vp in final
+
 Deck Name: Malgorzata
 
 Crypt (12 cards, min=36, max=44, avg=10.17)

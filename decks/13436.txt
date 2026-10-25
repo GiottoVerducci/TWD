@@ -8,8 +8,6 @@ https://archon.vekn.net/t/13436
 
 -- 1GW5.5 + 3vp in final
 
-Deck Name: Crypt (12 cards; Capacity min=1 max=9 avg=5.8)
-
 Crypt (12 cards)
 ----------------
 3x Nangila Were                    9  obf ser ANI POT PRE  Guruhi:4

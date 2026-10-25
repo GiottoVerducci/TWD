@@ -6,6 +6,8 @@ July 23rd 2022
 Selim Ammouche
 https://www.vekn.net/event-calendar/event/10295
 
+-- 0GW2 + 2.5vp in final
+
 Deck Name: Brujah Anarch Cel Gun
 Description:
 After tournament tweak : -1 Blur /-2 Pursuit / -1 Grey Thorne / -1 On the Qui Vive / +4 Dust Up / +1 Hackerspace

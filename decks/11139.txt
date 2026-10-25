@@ -6,6 +6,8 @@ June 9th 2024
 Joab Rogerio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/11139
 
+-- 2GW7 + 4vp in final
+
 Deck Name: Casa do Dragão
 
 Crypt (12 cards, min=21, max=31, avg=6.5)

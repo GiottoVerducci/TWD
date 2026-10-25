@@ -6,6 +6,8 @@ January 19th 2025
 Dante Gagelonia
 https://www.vekn.net/event-calendar/event/12027
 
+-- 0GW1.5 + 1.5vp in final
+
 Deck Name: You Can't Sit With Us
 
 Crypt (12 cards, min=21, max=36, avg=7.5)

@@ -6,6 +6,8 @@ March 10th 2024
 Brad Cashdollar
 https://www.vekn.net/event-calendar/event/11287
 
+-- 1GW3 + 2vp in final
+
 Deck Name: Anarch unnamed
 
 Crypt (12 cards, min=7, max=40, avg=6.42)

@@ -6,6 +6,8 @@ July 1st 2023
 Eduardo Mateus
 https://www.vekn.net/event-calendar/event/10773
 
+-- 1GW4.5 + 1.5vp in final
+
 
 Deck Name: “Death & Taxes”
 Description: Malkavians do it better.

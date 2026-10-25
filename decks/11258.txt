@@ -6,6 +6,8 @@ March 10th 2024
 Richard Stefan Utner
 https://www.vekn.net/event-calendar/event/11258
 
+-- 1GW4 + 4vp in final
+
 Crypt (12 cards, min=32, max=44, avg=9.5)
 -----------------------------------------
 5x Capuchin, The   11  AUS DOM FOR NEC THA THN  Harbinger of Skulls:5

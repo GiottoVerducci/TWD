@@ -6,6 +6,8 @@ August 25th 2024
 Joab Rogerio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/11632
 
+-- 1GW5 + 2vp in final
+
 Deck Name: Tareco e Mariola
 
 Crypt (12 cards, min=31, max=44, avg=9.58)

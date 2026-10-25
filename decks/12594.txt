@@ -6,7 +6,7 @@ August 30th 2025
 Édouard Menneson
 https://www.vekn.net/event-calendar/event/12594
 
--- 2GW6.5 + 5vp in final
+-- 1GW7 + 5vp in final
 
 Deck Name: Finally some DOM
 Description: Thanks to Phoenix for the general deck idea and for helping me fine tuning the list!

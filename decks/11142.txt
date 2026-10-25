@@ -6,6 +6,8 @@ May 19th 2024
 Joab Rogerio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/11142
 
+-- 1GW5 + 3vp in final
+
 Deck Name: Lobos de Winterfell 3.0
 
 Crypt (14 cards, min=11, max=26, avg=4.79)

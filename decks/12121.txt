@@ -6,6 +6,8 @@ April 19th 2025
 Joakim Rapp
 https://www.vekn.net/event-calendar/event/12121
 
+-- 1GW4 + 4vp in final
+
 Deck Name: Old rulers new land
 
 Crypt (12 cards, min=20, max=31, avg=6.25)

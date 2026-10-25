@@ -6,6 +6,8 @@ February 18th 2024
 Srdjan Milojevic
 https://www.vekn.net/event-calendar/event/11018
 
+-- 1GW5 + 1.5vp in final
+
 Deck Name: Schizo Whispers
 Description: "Demented one goes faster"
 

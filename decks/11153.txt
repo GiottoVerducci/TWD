@@ -6,6 +6,8 @@ June 16th 2024
 Johnson Gonçalves
 https://www.vekn.net/event-calendar/event/11153
 
+-- 1GW4 + 4vp in final
+
 Deck Name: Demented politics (sem cartas de demência)
 
 Crypt (12 cards, min=31, max=44, avg=9.75)

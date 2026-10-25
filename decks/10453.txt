@@ -6,6 +6,8 @@ November 27th 2022
 Rafael Barbosa da Silva
 https://www.vekn.net/event-calendar/event/10453
 
+-- 1GW5.5 + 3vp in final
+
 Deck Name: Le Mat
 
 Crypt (12 cards, min=20, max=40, avg=8.17)

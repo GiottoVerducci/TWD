@@ -6,6 +6,8 @@ April 12th 2025
 Ricardo Marta
 https://www.vekn.net/event-calendar/event/12170
 
+-- 1GW4.5 + 4vp in final
+
 Deck Name: Lutz goes Meddling
 
 Crypt (12 cards, min=28, max=44, avg=8.67)

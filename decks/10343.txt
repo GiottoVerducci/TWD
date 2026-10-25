@@ -6,6 +6,8 @@ August 20th 2022
 Karim Baloul
 https://www.vekn.net/event-calendar/event/10343
 
+-- 0GW4 + 3vp in final
+
 Deckname: Saulot Towerwall Classic
 Note : Rutor's Hand was a recent add, never tested and never useful in game. To change for another Direct Intervention, or Eagle's Sight, or Magic of the Smith.
 

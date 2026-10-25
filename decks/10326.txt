@@ -6,6 +6,8 @@ August 27th 2022
 Antti Penttilä
 https://www.vekn.net/event-calendar/event/10326
 
+-- 2GW8 + 1.5vp in final
+
 Deck Name: BM
 Description:
 I had talks about the concept with many awesome players during the EC. Those discussions helped me decide to go up to 90 cards, so that there is enough gas for the end game. To include the Segregations, because they are simply awesome just now. The rest is just math that helps the deck flow. It's all about the cardflow, because eventho you will discard stuff to HL:R, you still want to have the hand that wins the combats. Rego Motum is just better than Sideslip, Soul Burn delays the problem-> Fast Hands solves it. Kasim is too big for the deck

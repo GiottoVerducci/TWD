@@ -6,6 +6,8 @@ March 1st 2025
 Frédéric Pin
 https://www.vekn.net/event-calendar/event/11865
 
+-- 3GW9 + 1.5vp in final
+
 Deck Name: GarOgarououou
 
 Crypt (12 cards, min=10, max=25, avg=4.5)

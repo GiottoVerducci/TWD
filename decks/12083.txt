@@ -6,6 +6,8 @@ March 2nd 2025
 Ben Peal
 https://www.vekn.net/event-calendar/event/12083
 
+-- 1GW5 + 1.5vp in final
+
 Deck Name: Do A Thing
 Created by: Karl Schaefer
 Description: Shout out to Sergio Martins who help cut an early version down, removing some bloat.

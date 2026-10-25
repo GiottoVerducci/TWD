@@ -6,6 +6,8 @@ March 7th 2024
 Guilherme Machado
 https://www.vekn.net/event-calendar/event/11319
 
+-- 1GW3 + 4vp in final
+
 Crypt (12 cards, min=15, max=25, avg=5.25)
 ------------------------------------------
 2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6

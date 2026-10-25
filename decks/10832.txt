@@ -6,6 +6,8 @@ December 1st 2023
 Darby Keeney
 https://www.vekn.net/event-calendar/event/10832
 
+-- 1GW4.5 + 1.5vp in final
+
 Deck Name: Obamium (312)
 VDB Link: vdb.im/decks/f2d56fda96214ccb95f171f40d4703c8
 Description: Anarch-based Gangrel Wall (5 Baron version).

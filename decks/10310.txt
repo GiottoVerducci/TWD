@@ -6,6 +6,8 @@ November 13th 2022
 Leonardo Villela
 https://www.vekn.net/event-calendar/event/10310
 
+-- 1GW6.5 + 4vp in final
+
 Deck Name: Power of Princes 2
 
 Crypt (12 cards, min=24, max=28, avg=6.33)

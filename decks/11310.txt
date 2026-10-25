@@ -7,6 +7,8 @@ Danilo Torrisi
 Organizer: Lorenzo Ferri
 https://www.vekn.net/event-calendar/event/11310
 
+-- 2GW7 + 1.5vp in final
+
 Crypt (12 cards, min=36, max=44, avg=10.08)
 -------------------------------------------
 4x Mistress Fanchon   11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4

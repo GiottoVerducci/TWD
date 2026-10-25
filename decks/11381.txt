@@ -6,6 +6,8 @@ May 4th 2024
 Igor Castro
 https://www.vekn.net/event-calendar/event/11381
 
+-- 2GW8 + 3vp in final
+
 Deck Name: Unnamed BS Anarch
 
 Crypt (12 cards, min=6, max=40, avg=5.5)

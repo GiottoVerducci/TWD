@@ -7,6 +7,8 @@ Guilherme Machado
 Organizer: Danilo Fernandes
 https://www.vekn.net/event-calendar/event/12099
 
+-- 1GW3 + 3vp in final
+
 Deck Name: Ragnar e seus amigos
 
 Crypt (12 cards, min=22, max=32, avg=6.67)

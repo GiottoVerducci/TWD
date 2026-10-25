@@ -7,6 +7,8 @@ Michał Sokołowski
 Organizer: Maciej Broniarz
 https://www.vekn.net/event-calendar/event/11280
 
+-- 2GW6 + 5vp in final
+
 Deck Name: Go Left
 
 Crypt (12 cards, min=13, max=28, avg=5)

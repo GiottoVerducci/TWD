@@ -6,6 +6,8 @@ November 8th 2025
 Martin Cuchet
 https://www.vekn.net/event-calendar/event/12494
 
+-- 2GW8 + 1.5vp in final
+
 Deck Name: Haqim's Law: Peach
 
 Crypt (12 cards, min=22, max=33, avg=6.92)

@@ -6,6 +6,8 @@ October 17th 2025
 Jeroen van Oort
 https://www.vekn.net/event-calendar/event/12788
 
+-- 1GW4.5 + 2vp in final
+
 Deck Name: the Power Structure
 Description: A build and vote deck.
 A meta respons to shroud of decay and bleed. I wanted to have a deck that is able to fail to defend against the onslaught of pool damage and live.

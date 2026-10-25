@@ -6,6 +6,8 @@ June 16th 2025
 David Litwin
 https://www.vekn.net/event-calendar/event/12056
 
+-- 1GW4 + 4vp in final
+
 Deck Name: In My Time of Dying
 
 Crypt (12 cards, min=17, max=31, avg=6)

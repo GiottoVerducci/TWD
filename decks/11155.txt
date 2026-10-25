@@ -6,6 +6,8 @@ July 14th 2024
 Diego Rodrigues
 https://www.vekn.net/event-calendar/event/11155
 
+-- 1GW6 + 3vp in final
+
 Deck Name: Organized Bleed Resistance
 Description: Based on Bill Troxel NAC 2024 TWD.
 

@@ -6,6 +6,8 @@ August 24th 2023
 Aleksander Idziak
 https://www.vekn.net/event-calendar/event/10869
 
+-- 1GW4 + 1.5vp in final
+
 Deck Name:   Lasombra - Shadows obey Montano
 
 Crypt (12 cards, min=26, max=44, avg=9.08)

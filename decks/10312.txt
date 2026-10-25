@@ -6,6 +6,8 @@ November 15th 2022
 Desso Alastor
 https://www.vekn.net/event-calendar/event/10312
 
+-- 2GW7 + 4vp in final
+
 Deck Name: CrimethInc.
 
 Crypt (12 cards, min=18, max=28, avg=5.75)

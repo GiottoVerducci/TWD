@@ -6,6 +6,8 @@ November 25th 2023
 Rafael Barbosa da Silva
 https://www.vekn.net/event-calendar/event/11062
 
+-- 1GW5 + 2.5vp in final
+
 Deck Name: Trupe fantasma
 
 Crypt (12 cards, min=16, max=28, avg=5.5)

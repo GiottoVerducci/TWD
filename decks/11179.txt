@@ -6,6 +6,8 @@ December 30th 2023
 Joab Rogerio Barbosa da Silva
 https://www.vekn.net/event-calendar/event/11179
 
+-- 1GW6 + 4vp in final
+
 Deck Name: Desso sexudo
 
 Crypt (12 cards, min=31, max=44, avg=9.58)

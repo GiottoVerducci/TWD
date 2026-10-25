@@ -6,6 +6,8 @@ December 1st 2024
 Victor Hugo Marcelo Cordeiro
 https://www.vekn.net/event-calendar/event/11824
 
+-- 1GW5 + 5vp in final
+
 Deck Name: Ministry bleed & stealth
 
 Crypt (12 cards, min=18, max=30, avg=6)

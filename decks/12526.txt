@@ -6,6 +6,8 @@ October 19th 2025
 Nerijus Mikalajūnas
 https://www.vekn.net/event-calendar/event/12526
 
+-- 1GW4.5 + 3.5vp in final
+
 Deck Name: Yesterday's Brutalism [72]
 Author: Bram Van Stappen
 Description: This is a slightly modified version of the deck that Bram won the "Eve before the night" tournament  (30+ players)  in Vilnius, Lithuania, February 25, 2025. The crypt was slightly modified, and the additions to the library include Omael Kuman (suggested by Lech Ivanov) and the Book of Going Forth by Night, Secure Heaven, Direct Intervention and Archon Investigation (all four - Nerijus Mikalajūnas). This version, played by Nerijus, won the EC2025 day two tournament in Aarhus, Denmark, October 19 2025.

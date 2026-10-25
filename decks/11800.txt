@@ -6,6 +6,8 @@ December 15th 2024
 Pablo Carnino
 https://www.vekn.net/event-calendar/event/11800
 
+-- 1GW5 + 3.5vp in final
+
 Deck name: Tzimisce Deep'er Song (Tap & Bleed)
 
 Crypt (12 cards, min=19, max=31, avg=6.25)

@@ -4,18 +4,15 @@ August 1st 2026
 3R+F
 20 players
 Bart Jansen
-https://archon.vekn.net/t/13374
+https://www.vekn.net/event-calendar/event/13374
 
 -- 1GW4.5 + 1.5vp in final
 
 Deck Name: Recruitment Exercise Retribution
-
-Somewhat inspired by an old Izaak Havelaar black hand deck that I watched in action in my early VTES days.
-
+Author: borrelstein
+Description: Somewhat inspired by an old Izaak Havelaar black hand deck that I watched in action in my early VTES days.
 This version is more combat oriented though, using the new Haqim's law:Retribution for a little extra bleeding power and card cycling.
-
 It is quite fun transforming the deck during the game from a slow bloat deck into a consistent stealth bleeder late game.
-
 Pool gain is quite amazing if there are only casual blockers. In the finals my prey burned Karif, but with villeins and Reunion Kamut I still had him back eventually, plus the 7 and 9 cap seraphs all tooled up with Tattoo Signals.
 
 Crypt (12 cards)

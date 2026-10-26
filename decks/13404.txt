@@ -4,12 +4,19 @@ July 4th 2026
 3R+F
 25 players
 Paul Direktor
-https://archon.vekn.net/t/13404
+https://www.vekn.net/event-calendar/event/13404
 
 -- 1GW5.5 + 1.5vp in final
 
 Deck Name: Beauty and the Beast
 Created by: Otso Saariluoma
+Description:
+This deck was created by Otso and brought into the TWD by Tommi Hakomaa. Minor changes were made compared to Otso's version. I added 2x Carrion Crows for 2x Pursuits, since I could not find 2 more pursuits while building the deck. Also 1x Yawp Court that I did not draw a single time.
+It's a very well built deck, that is hard to navigate but very fun to play.
+Could maybe use 1x Dragonbound/1x Augury of Doomor/1x Tension in the Ranks to help ousting.
+Pillar's Fall might also work.
+In the prelim rounds, i got destroyed by FOR prevention, so Soulgrinder could also find its way in here.
+Cross Table rescues must be punished.
 
 Crypt (12 cards)
 ----------------

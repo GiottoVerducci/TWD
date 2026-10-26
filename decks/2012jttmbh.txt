@@ -3,10 +3,10 @@ Budapest, Hungary
 October 6th 2012
 3R+F
 23 players
-Gyula Erdõs
+Gyula Erdős
 
 Deck Name: Ventrue Anti 1.1
-Created by: Gyula Erdõs, based on Hugh Angseesing's deck
+Created by: Gyula Erdős, based on Hugh Angseesing's deck
 
 Crypt (12 cards, min=16, max=30, avg=5.75)
 ------------------------------------------

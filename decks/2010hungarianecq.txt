@@ -8,7 +8,7 @@ May 29th 2010
 -- 3vp in final
 
 Deck Name: Nana Buruku
-Created by: Gyula Erdõs & Ádám Horváth
+Created by: Gyula Erdős & Ádám Horváth
 
 Crypt (12 cards, min=16, max=32, avg=5.67)
 ------------------------------------------

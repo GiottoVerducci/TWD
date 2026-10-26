@@ -6,7 +6,7 @@ Norbert Broda
 
 -- 3vp in final
 
-Created by: Gyula Erdõs
+Created by: Gyula Erdős
 
 Crypt (15 cards, min=4, max=31, avg=3.47)
 -----------------------------------------

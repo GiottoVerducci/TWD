@@ -9,7 +9,7 @@ Gergo Gyarmati
 
 Deck Name: Potence princes v2013
 
-Description: Props to Gyula Erdõs for the ancestor of this deck
+Description: Props to Gyula Erdős for the ancestor of this deck
 
 Crypt (13 cards, min=10, max=27, avg=4.69)
 ------------------------------------------

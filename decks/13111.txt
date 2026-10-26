@@ -10,35 +10,43 @@ https://archon.vekn.net/t/13111
 
 Deck Name: Emerald Legionnaires Redux
 
-Crypt (12 cards)
-----------------
-3x Erlik                          10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
-1x Babalawo Alafin                 7  ani AUS FOR NEC      Harbinger of Skulls:4
-3x Erebus                          7  dem AUS FOR NEC      Harbinger of Skulls:3
-1x Mina Grotius                    6  cel FOR NEC          Harbinger of Skulls:3
-2x Nicomedes                       5  aus for nec vic      Harbinger of Skulls:4
-2x Solomon Batanea                 5  nec AUS FOR          Harbinger of Skulls:4
+Crypt (12 cards, min=20, max=37, avg=7)
+---------------------------------------
+3x Erlik            10  AUS CEL FOR NEC THN  Harbinger of Skulls:3
+3x Erebus            7  AUS FOR NEC dem      Harbinger of Skulls:3
+2x Nicomedes         5  aus for nec vic      Harbinger of Skulls:4
+2x Solomon Batanea   5  AUS FOR nec          Harbinger of Skulls:4
+1x Babalawo Alafin   7  AUS FOR NEC ani      Harbinger of Skulls:4
+1x Mina Grotius      6  FOR NEC cel          Harbinger of Skulls:3
 
 Library (90 cards)
-Master (9)
+Master (9; 5 trifle)
 1x Direct Intervention
 1x Giant's Blood
 5x Life in the City
 2x Sudden Reversal
+
 Action (3)
 1x Abbot
 2x Computer Hacking
+
 Ally (8)
 8x Emerald Legionnaire
+
 Equipment (2)
 1x Bowl of Convergence
 1x Erebus Mask
+
 Retainer (3)
 3x Vengeful Spirit
-Action Modifier (9)
+
+Action Modifier (4)
 3x Acheron Vortex
-5x Breath of Thanatos
 1x Inevitability of the Void
+
+Action Modifier/Combat (5)
+5x Breath of Thanatos
+
 Reaction (32)
 2x Eagle's Sight
 5x Enhanced Senses
@@ -49,10 +57,12 @@ Reaction (32)
 3x Precognition
 2x Spirit's Touch
 2x Telepathic Misdirection
+
 Combat (23)
 12x Indomitability
 1x Rolling with the Punches
 5x Skin of Rock
 5x Soak
+
 Event (1)
-1x The Unmasking
+1x Unmasking, The

@@ -10,20 +10,20 @@ https://archon.vekn.net/t/13653
 
 Deck Name: Raptors 1.1
 
-Crypt (13 cards)
-----------------
-2x Massimiliano                    7  pro ANI FOR          Gangrel:6
-1x André the Manipulator           6  FOR PRO              Gangrel:5
-2x Casey Snyder                    6  ani cel for PRO      Gangrel:6
-3x Kuyén                           6  ANI PRO              Gangrel:6
-1x Martina Srnankova               6  ani FOR PRO          Gangrel:6
-1x Kamile Paukstys                 5  ani for PRO          Gangrel:6
-1x Hanna Nokelainen                4  ani for pro          Gangrel:6
-1x Nathan Turner                   4  ani PRO              Gangrel:6
-1x Indira                          3  PRO                  Gangrel:6
+Crypt (13 cards, min=16, max=26, avg=5.54)
+------------------------------------------
+3x Kuyén                  6  ANI PRO          baron  Gangrel:6
+2x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Martina Srnankova      6  FOR PRO ani             Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
 
 Library (90 cards)
-Master (16)
+Master (16; 5 trifle)
 2x Anarch Revolt
 1x Carfax Abbey
 1x Ecoterrorists
@@ -31,19 +31,23 @@ Master (16)
 1x Heidelberg Castle, Germany
 1x Papillon
 1x Powerbase: Montreal
+1x Rack, The
 1x Rötschreck
 1x Smiling Jack, The Anarch
-1x The Rack
 4x Vessel
 1x Wash
+
 Action (9)
 1x Army of Rats
 2x Constant Revolution
 6x Thing
+
 Ally (2)
 2x Renegade Garou
+
 Retainer (9)
 9x Raptor
+
 Reaction (26)
 6x Bait and Switch
 4x Cats' Guidance
@@ -51,6 +55,7 @@ Reaction (26)
 2x Delaying Tactics
 4x Eyes of the Wild
 6x Organized Resistance
+
 Combat (28)
 2x Body Flare
 2x Claws of the Dead

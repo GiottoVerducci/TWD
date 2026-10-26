@@ -10,37 +10,41 @@ https://archon.vekn.net/t/13620
 
 Deck Name: The unnamed rules the world
 
-Crypt (12 cards)
-----------------
-5x The unnamed                    10  CEL DAI OBF PRE PRO  Baali:6
-1x Annazir                         9  DAI OBF POT PRE      Baali:5
-1x Xeper, Sultan of Lepers         7  ani dai pro OBF PRE  Baali:6
-2x Arishat                         6  DAI OBF PRE          Baali:6
-3x Abdelsobek                      5  for nec obf pre ser  Ministry:5
+Crypt (12 cards, min=21, max=40, avg=7.75)
+------------------------------------------
+5x unnamed, The             10  CEL DAI OBF PRE PRO           Baali:6
+3x Abdelsobek                5  for nec obf pre ser           Follower of Set:5
+2x Arishat                   6  DAI OBF PRE          1 vote   Baali:6
+1x Annazir                   9  DAI OBF POT PRE      2 votes  Baali:5
+1x Xeper, Sultan of Lepers   7  OBF PRE ani dai pro           Baali:6
 
 Library (90 cards)
-Master (17)
+Master (17; 9 trifle)
+1x Coven, The
 2x Dabbler
 1x Giant's Blood
 1x Heidelberg Castle, Germany
 1x Jake Washington
 1x Metro Underground
 1x Monastery of Shadows
-1x Pentex™ Subversion
+1x Pentex(TM) Subversion
 2x Tend the Flock
-1x The Coven
 2x Vessel
 2x Wash
 2x Wider View
+
 Action (15)
 12x Legal Manipulations
 3x Unleash Hell's Fury
+
 Ally (2)
 1x Mylan Horseed
 1x Veneficti
+
 Equipment (3)
 3x Learjet
-Action Modifier (47)
+
+Action Modifier (36)
 3x Cloak the Gathering
 2x Elder Impersonation
 3x Enkil Cog
@@ -49,10 +53,16 @@ Action Modifier (47)
 8x Instantaneous Transformation
 4x Lost in Crowds
 2x Psychomachia
-8x Sense the Sin
 3x Spying Mission
+
+Action Modifier/Combat (3)
 3x Swallowed by the Night
+
+Action Modifier/Reaction (8)
+8x Sense the Sin
+
 Reaction (4)
 4x Visions of Zapathasura
+
 Combat (2)
 2x Majesty

@@ -10,16 +10,16 @@ https://archon.vekn.net/t/13605
 
 Deck Name: The Devil Never sleeps
 
-Crypt (12 cards)
-----------------
-6x The unnamed                    10  CEL DAI OBF PRE PRO  Baali:6
-2x Arishat                         6  DAI OBF PRE          Baali:6
-1x Crystal Lynn                    6  OBF PRE PRO          Ministry:6
-1x Jenny Silver                    5  obf PRE PRO          Ministry:6
-2x The Horde                       3  dai obf pre          Baali:6
+Crypt (12 cards, min=17, max=40, avg=7.42)
+------------------------------------------
+6x unnamed, The  10  CEL DAI OBF PRE PRO          Baali:6
+2x Arishat        6  DAI OBF PRE          1 vote  Baali:6
+2x Horde, The     3  dai obf pre                  Baali:6
+1x Crystal Lynn   6  OBF PRE PRO                  Follower of Set:6
+1x Jenny Silver   5  PRE PRO obf                  Follower of Set:6
 
 Library (76 cards)
-Master (10)
+Master (10; 1 trifle)
 2x Direct Intervention
 1x Dreams of the Sphinx
 1x Giant's Blood
@@ -28,6 +28,7 @@ Master (10)
 1x Secret Passage
 2x Secure Haven
 1x Vessel
+
 Action (14)
 1x Contagion
 2x Entrancement
@@ -35,12 +36,15 @@ Action (14)
 2x Intimidation
 2x Social Charm
 3x Unleash Hell's Fury
+
 Ally (2)
 1x Infernal Servitor
 1x Veneficti
+
 Retainer (2)
 2x Homunculus
-Action Modifier (34)
+
+Action Modifier (30)
 2x Earth Control
 3x Elder Impersonation
 3x Enkil Cog
@@ -49,12 +53,17 @@ Action Modifier (34)
 4x Lost in Crowds
 2x Psychomachia
 6x Revelation of the Serpent
-4x Sense the Sin
 2x Spying Mission
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
 Reaction (7)
 7x Visions of Zapathasura
+
 Combat (6)
 3x Form of Mist
 3x Majesty
+
 Event (1)
 1x Narrow Minds

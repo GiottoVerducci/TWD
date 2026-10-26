@@ -10,19 +10,19 @@ https://archon.vekn.net/t/13555
 
 Deck Name: Enkidu
 
-Crypt (12 cards)
-----------------
-5x Enkidu, The Noah               11  for ANI CEL OBF POT PRO Gangrel antitribu:4
-1x Urraca                          7  pre ANI CEL POT      Brujah antitribu:4
-1x Janey Pickman                   6  for ANI PRO          Gangrel antitribu:4
-1x Andre LeRoux                    3  aus                  Toreador:5
-1x Stick                           3  ANI                  Nosferatu antitribu:4
-1x T.J.                            3  cel for              Gangrel:4
-1x New Blood                       2  san                  Blood Brother:any
-1x Anarch Convert                  1  -none-               Caitiff:any
+Crypt (12 cards, min=9, max=44, avg=6.67)
+-----------------------------------------
+5x Enkidu, The Noah  11  ANI CEL OBF POT PRO for          Gangrel antitribu:4
+1x Urraca             7  ANI CEL POT pre          bishop  Brujah antitribu:4
+1x Janey Pickman      6  ANI PRO for                      Gangrel antitribu:4
+1x Andre LeRoux       3  aus                              Toreador:5
+1x Stick              3  ANI                              Nosferatu antitribu:4
+1x T.J.               3  cel for                          Gangrel:4
+1x New Blood          2  san                              Blood Brother:ANY
+1x Anarch Convert     1  -none-                           Caitiff:ANY
 
 Library (90 cards)
-Master (19)
+Master (19; 9 trifle)
 1x Archon Investigation
 4x Dabbler
 1x Direct Intervention
@@ -35,21 +35,30 @@ Master (19)
 4x Villein
 1x Wider View
 1x Yawp Court
+
 Action (1)
 1x Abbot
+
 Retainer (4)
 1x Homunculus
 1x Mr. Winthrop
 2x Raven Spy
-Action Modifier (8)
+
+Action Modifier (2)
 2x Enkil Cog
-1x Form of the Bat
+
+Action Modifier/Combat (5)
 5x Shadow Boxing
+
+Action Modifier/Reaction (1)
+1x Form of the Bat
+
 Reaction (14)
 2x Confusion of the Eye
 1x Delaying Tactics
 2x Sense the Savage Way
 9x Sentry Signal
+
 Combat (43)
 2x Bear's Skin
 1x Claws of the Dead
@@ -59,5 +68,6 @@ Combat (43)
 8x Rage of Apedemak
 6x Taste of Vitae
 5x Wall of Filth
+
 Event (1)
 1x Dragonbound

@@ -10,18 +10,18 @@ https://archon.vekn.net/t/13567
 
 Deck Name: Path of Caine Enkidu
 
-Crypt (12 cards)
-----------------
-6x Enkidu, The Noah               11  for ANI CEL OBF POT PRO Gangrel antitribu:4
-1x Gold Pan Dan                    6  cel POT PRE          Brujah antitribu:5
-1x Virginie, Prodigy               6  obt DOM POT          Lasombra:4
-1x Gatjil Munyarryun               5  cel obt pre POT      Brujah antitribu:5
-1x Nails                           5  ani obf pro POT      Nosferatu antitribu:4
-1x Patrick                         4  pre POT              Brujah antitribu:4
-1x Volo                            4  pro san POT          Blood Brother:5
+Crypt (12 cards, min=18, max=44, avg=8)
+---------------------------------------
+6x Enkidu, The Noah   11  ANI CEL OBF POT PRO for          Gangrel antitribu:4
+1x Gold Pan Dan        6  POT PRE cel                      Brujah antitribu:5
+1x Virginie, Prodigy   6  DOM POT obt              bishop  Lasombra:4
+1x Gatjil Munyarryun   5  POT cel obt pre                  Brujah antitribu:5
+1x Nails               5  POT ani obf pro                  Nosferatu antitribu:4
+1x Patrick             4  POT pre                          Brujah antitribu:4
+1x Volo                4  POT pro san                      Blood Brother:5
 
 Library (90 cards)
-Master (15)
+Master (15; 7 trifle)
 2x Fame
 2x Information Highway
 1x Monster
@@ -30,6 +30,7 @@ Master (15)
 3x Villein
 1x Wider View
 1x Yawp Court
+
 Action (15)
 3x Abuse of Power
 2x Augury of Doom
@@ -38,14 +39,19 @@ Action (15)
 2x Rampage
 1x Sacrificial Lamb
 1x Shadow of the Beast
+
 Retainer (4)
 2x Dread Mastiff
 2x Twisted Bloodhound
-Action Modifier (13)
+
+Action Modifier (9)
 3x Forced March
 3x Freak Drive
 3x Instantaneous Transformation
+
+Action Modifier/Combat (4)
 4x Shadow Boxing
+
 Combat (42)
 4x Dance with the Devil
 2x Earthshock
@@ -56,5 +62,6 @@ Combat (42)
 8x Soulgrinder
 4x Taste of Vitae
 4x Wall of Filth
+
 Event (1)
 1x Dragonbound

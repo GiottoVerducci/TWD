@@ -10,51 +10,60 @@ https://archon.vekn.net/t/13500
 
 Deck Name: Salubri PB (Göcsej)
 
-Crypt (12 cards)
-----------------
-3x Djeneba                         9  obf ANI AUS DOM FOR  Salubri:7
-2x Abaddon                         8  cel pot AUS DOM FOR  Salubri:7
-1x Seraphina                       8  cel tha AUS DOM FOR  Salubri:7
-2x Barachiel                       7  ani AUS DOM FOR      Salubri:7
-1x Malachi                         6  AUS DOM FOR          Salubri:7
-2x Opikun                          5  aus dom FOR          Salubri:7
-1x Yael                            4  aus dom for          Salubri:7
+Crypt (12 cards, min=20, max=35, avg=7.08)
+------------------------------------------
+3x Djeneba    9  ANI AUS DOM FOR obf  Salubri:7
+2x Abaddon    8  AUS DOM FOR cel pot  Salubri:7
+2x Barachiel  7  AUS DOM FOR ani      Salubri:7
+2x Opikun     5  FOR aus dom          Salubri:7
+1x Seraphina  8  AUS DOM FOR cel tha  Salubri:7
+1x Malachi    6  AUS DOM FOR          Salubri:7
+1x Yael       4  aus dom for          Salubri:7
 
 Library (90 cards)
-Master (8)
+Master (8; 3 trifle)
 1x Dreams of the Sphinx
 1x Giant's Blood
 1x Guardian Angel
 1x Meditative Grove
 1x Sight Beyond Sight
 3x Villein
-Action (19)
+
+Action (17)
 6x Feast of the Soul's Secrets
 10x Govern the Unaligned
 1x Graverobbing
+
+Action/Combat (2)
 2x Touch of Valeren
+
 Equipment (3)
 1x Bowl of Convergence
 1x Heart of Nizchetus
 1x Sword of the Archangel
-Action Modifier (27)
+
+Action Modifier (26)
 2x Bonding
 3x Conditioning
 1x Daring the Dawn
 3x Forced Confessional
 1x Foreshadowing Destruction
 4x Freak Drive
-1x Murmur of the False Will
 3x Seduction
-2x The Sleeping Mind
+2x Sleeping Mind, The
 1x Unleash the Hounds
 6x Unleashing the Bestial Soul
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
 Reaction (22)
 4x Deflection
 1x Delaying Tactics
 9x Eyes of Argus
 2x My Enemy's Enemy
 6x Telepathic Misdirection
+
 Combat (11)
 4x Anticipation
 2x Hidden Strength

@@ -12,33 +12,35 @@ Deck Name: Manse Dance
 
 based on Darby's build
 
-Crypt (12 cards)
-----------------
-3x Adrino Manauara                 8  pot ANI DOM PRO      Tzimisce:6
-1x Máddji, Mistress of Szlachtas   7  for ANI DOM PRO      Tzimisce:6
-1x Saankaláxt                      7  aus ANI DOM PRO      Tzimisce:6
-2x Ángel Guerrero                  7  ANI DOM PRO          Tzimisce:6
-1x Branimira                       6  dom pre pro ANI      Tzimisce:6
-1x Neserian                        6  cel pro ANI DOM      Tzimisce:6
-1x Clara Hjortshøj                 5  ani aus dom PRO      Tzimisce:6
-1x Marialena                       5  ani DOM PRO          Tzimisce:6
-1x Whisper                         5  pro ANI DOM          Tzimisce:6
+Crypt (12 cards, min=21, max=31, avg=6.58)
+------------------------------------------
+3x Adrino Manauara                8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero                 7  ANI DOM PRO      baron  Tzimisce:6
+1x Máddji, Mistress of Szlachtas  7  ANI DOM PRO for         Tzimisce:6
+1x Saankaláxt                     7  ANI DOM PRO aus         Tzimisce:6
+1x Branimira                      6  ANI dom pre pro  baron  Tzimisce:6
+1x Neserian                       6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj                5  PRO ani aus dom         Tzimisce:6
+1x Marialena                      5  DOM PRO ani             Tzimisce:6
+1x Whisper                        5  ANI DOM pro             Tzimisce:6
 
 Library (90 cards)
-Master (18)
+Master (18; 4 trifle)
 1x Anarch Railroad
+5x British Museum, London, The
 1x Carfax Abbey
 1x Direct Intervention
 2x Dreams of the Sphinx
 1x Giant's Blood
 1x Library Hunting Ground
-1x Pentex™ Subversion
+1x Pentex(TM) Subversion
 1x Poacher's Hunting Ground
-5x The British Museum, London
 4x Villein
+
 Action (10)
 1x Dominate Kine
 9x Govern the Unaligned
+
 Equipment (14)
 1x Blood Tears of Kephran
 2x Cooler
@@ -46,25 +48,33 @@ Equipment (14)
 2x Heart of Nizchetus
 6x Living Manse
 1x Palatial Estate
-1x The Signet of King Saul
-Action Modifier (22)
+1x Signet of King Saul, The
+
+Action Modifier (10)
 2x Conditioning
 4x Earth Control
 2x Foreshadowing Destruction
-3x Form of the Bat
+2x Seduction
+
+Action Modifier/Combat (8)
 3x Form of the Cobra
-1x Murmur of the False Will
 3x Obedient Flesh
 2x Rapid Change
-2x Seduction
+
+Action Modifier/Reaction (4)
+3x Form of the Bat
+1x Murmur of the False Will
+
 Reaction (15)
 2x Bait and Switch
 2x Deep Ecology
 6x Deflection
 2x On the Qui Vive
 3x One With the Land
+
 Combat (10)
 4x Earth Meld
 6x Form of Mist
+
 Event (1)
 1x NRA PAC

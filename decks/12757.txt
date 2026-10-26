@@ -23,23 +23,23 @@ Sitting on the threes."
 
 "Money over power, power over money..."
 
-Crypt (12 cards)
-----------------
-1x Adrino Manauara                 8  pot ANI DOM PRO      Tzimisce:6
-1x Massimiliano                    7  pro ANI FOR          Gangrel:6
-1x Ángel Guerrero                  7  ANI DOM PRO          Tzimisce:6
-1x Branimira                       6  dom pre pro ANI      Tzimisce:6
-1x Casey Snyder                    6  ani cel for PRO      Gangrel:6
-1x Kuyén                           6  ANI PRO              Gangrel:6
-1x Kamile Paukstys                 5  ani for PRO          Gangrel:6
-1x Hanna Nokelainen                4  ani for pro          Gangrel:6
-1x Nathan Turner                   4  ani PRO              Gangrel:6
-1x Indira                          3  PRO                  Gangrel:6
-1x Joaquín de Cádiz                3  for pro              Gangrel:6
-1x Ruslan Fedorenko                2  pro                  Gangrel:6
+Crypt (12 cards, min=12, max=28, avg=5.08)
+------------------------------------------
+1x Adrino Manauara   8  ANI DOM PRO pot  baron  Tzimisce:6
+1x Ángel Guerrero    7  ANI DOM PRO      baron  Tzimisce:6
+1x Massimiliano      7  ANI FOR pro      baron  Gangrel:6
+1x Branimira         6  ANI dom pre pro  baron  Tzimisce:6
+1x Casey Snyder      6  PRO ani cel for  baron  Gangrel:6
+1x Kuyén             6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys   5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen  4  ani for pro             Gangrel:6
+1x Nathan Turner     4  PRO ani                 Gangrel:6
+1x Indira            3  PRO                     Gangrel:6
+1x Joaquín de Cádiz  3  for pro                 Gangrel:6
+1x Ruslan Fedorenko  2  pro                     Gangrel:6
 
 Library (90 cards)
-Master (23)
+Master (23; 7 trifle)
 1x Carfax Abbey
 2x Club Illusion
 2x Direct Intervention
@@ -51,24 +51,31 @@ Master (23)
 1x Powerbase: Los Angeles
 1x Powerbase: Montreal
 1x Powerbase: Savannah
-1x The Rack
+1x Rack, The
 7x Villein
+
 Action (7)
 7x Thing
+
 Equipment (2)
 2x Heart of Nizchetus
+
 Political Action (1)
 1x Revolutionary Council
+
 Retainer (6)
 1x Mr. Winthrop
 5x Raven Spy
-Action Modifier (6)
+
+Action Modifier/Reaction (6)
 6x Form of the Bat
+
 Reaction (30)
 8x Bait and Switch
 4x Deep Ecology
 5x Delaying Tactics
 13x Organized Resistance
+
 Combat (15)
 10x Earth Meld
 5x Form of Mist

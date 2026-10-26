@@ -14,44 +14,50 @@ Inspired by Kalle Blomgrens 'I have a dream', I removed all the normal masters a
 
 Bringing out new vampires every turn is key, and bringing out your smallest vampire on turn 1 to start putting down blood to uncontrolled with Break the Bonds is probably the best start you can get.
 
-Crypt (12 cards)
-----------------
-1x Sreelekha                       8  ANI FOR OBF PRE      Ravnos:7
-1x Hafthor Thorsteinsson           7  pot ANI OBF PRE      Ravnos:7
-1x Doc Martina                     6  for pre ANI OBF      Ravnos:7
-1x Luciano Carvalho                6  pre ANI OBF          Ravnos:7
-1x Roberto Rivamonte               6  ANI OBF PRE          Ravnos:7
-1x Gathii                          5  obf ANI PRE          Ravnos:7
-2x Phaibun                         5  ani OBF PRE          Ravnos:7
-1x Jean-François                   4  ani obf pre          Ravnos:7
-1x Zafira                          4  obf PRE              Ravnos:7
-1x "Coach" Tyrone Soros            3  obf pre              Ministry:6
-1x Oleg Kaprizov                   3  obf pre              Ravnos:7
+Crypt (12 cards, min=14, max=27, avg=5.17)
+------------------------------------------
+2x Phaibun                5  OBF PRE ani      Ravnos:7
+1x Sreelekha              8  ANI FOR OBF PRE  Ravnos:7
+1x Hafthor Thorsteinsson  7  ANI OBF PRE pot  Ravnos:7
+1x Doc Martina            6  ANI OBF for pre  Ravnos:7
+1x Luciano Carvalho       6  ANI OBF pre      Ravnos:7
+1x Roberto Rivamonte      6  ANI OBF PRE      Ravnos:7
+1x Gathii                 5  ANI PRE obf      Ravnos:7
+1x Jean-François          4  ani obf pre      Ravnos:7
+1x Zafira                 4  PRE obf          Ravnos:7
+1x "Coach" Tyrone Soros   3  obf pre          Follower of Set:6
+1x Oleg Kaprizov          3  obf pre          Ravnos:7
 
 Library (90 cards)
-Master (19)
+Master (19; 6 trifle)
 3x Dabbler
 10x Dreams of the Sphinx
 1x House of Sorrow
 1x Two Wrongs
 2x Wash
 2x Week of Nightmares
+
 Action (22)
 18x Break the Bonds
 4x Mind Numb
-Action Modifier (36)
+
+Action Modifier (35)
 4x Elder Impersonation
 2x Faceless Night
-1x Hide the Mind
 6x Lost in Crowds
 9x Memory Rift
 6x Power of One
 8x Visions of Gehenna
+
+Action Modifier/Combat (1)
+1x Hide the Mind
+
 Reaction (11)
 1x Confusion of the Eye
 1x Delaying Tactics
 4x Guard Dogs
 5x Visions of Zapathasura
+
 Event (2)
+1x Bitter and Sweet Story, The
 1x Narrow Minds
-1x The Bitter and Sweet Story

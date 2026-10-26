@@ -10,16 +10,16 @@ https://archon.vekn.net/t/13571
 
 Deck Name: Unifiers, Uhlans
 
-Crypt (12 cards)
-----------------
-4x Aaradhya, The Callous Tyrant   10  ANI DOM FOR POT PRE  Ventrue:6
-2x Dark Selina                     9  dom for CEL POT PRE  Brujah antitribu:5
-2x Üresség                         8  dom for CEL POT PRE  Brujah:6
-3x Khin Aye                        7  dom for POT PRE      Ventrue:6
-1x Concordia                       6  for pot DOM PRE      Ventrue:6
+Crypt (12 cards, min=27, max=40, avg=8.42)
+------------------------------------------
+4x Aaradhya, The Callous Tyrant  10  ANI DOM FOR POT PRE  Power  cardinal    Ventrue:6
+3x Khin Aye                       7  POT PRE dom for      Power  priscus     Ventrue:6
+2x Dark Selina                    9  CEL POT PRE dom for         cardinal    Brujah antitribu:5
+2x Üresség                        8  CEL POT PRE dom for  Power  archbishop  Brujah:6
+1x Concordia                      6  DOM PRE for pot      Power  bishop      Ventrue:6
 
 Library (82 cards)
-Master (15)
+Master (15; 5 trifle)
 1x Direct Intervention
 2x Dreams of the Sphinx
 1x Information Highway
@@ -29,12 +29,15 @@ Master (15)
 4x Villein
 2x Visit from the Capuchin
 1x Wider View
+
 Action (8)
 2x Entrancement
 4x Govern the Unaligned
 2x Under Siege
+
 Ally (1)
 1x Carlton Van Wyk
+
 Political Action (14)
 1x Anarchist Uprising
 1x Ancient Influence
@@ -42,6 +45,7 @@ Political Action (14)
 5x Cold War
 4x Kine Resources Contested
 1x War of Ages
+
 Action Modifier (30)
 3x Dominant Personality
 4x Freak Drive
@@ -52,6 +56,7 @@ Action Modifier (30)
 4x Relentlessness
 5x Unthinkable Humiliation
 5x Voter Captivation
+
 Reaction (14)
 6x Deflection
 6x Obedience

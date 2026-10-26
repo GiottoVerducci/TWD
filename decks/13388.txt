@@ -11,37 +11,40 @@ https://archon.vekn.net/t/13388
 Deck Name: Juliet Cavalier
 Created by: Tomasz Pietkiewicz
 
-Crypt (12 cards)
-----------------
-5x Juliet Parr                     9  cel pot AUS DOM OBF  Malkavian:7
-2x Alexander Silverson             8  pre AUS DOM OBF      Malkavian:6
-1x Andi Liu                        6  aus obf pre DOM      Malkavian:6
-1x Donny Kowalczyk                 6  cel dom obf AUS      Malkavian:6
-3x Dominica                        3  aus for              Salubri:7
+Crypt (12 cards, min=15, max=36, avg=6.83)
+------------------------------------------
+5x Juliet Parr          9  AUS DOM OBF cel pot  justicar  Malkavian:7
+3x Dominica             3  aus for                        Salubri:7
+2x Alexander Silverson  8  AUS DOM OBF pre      prince    Malkavian:6
+1x Andi Liu             6  DOM aus obf pre      prince    Malkavian:6
+1x Donny Kowalczyk      6  AUS cel dom obf      prince    Malkavian:6
 
 Library (76 cards)
-Master (18)
+Master (18; 2 trifle)
 6x Ashur Tablets
 1x Camarilla Conclave
 3x Cavalier
+1x Coven, The
 1x Dreams of the Sphinx
 1x Giant's Blood
 1x Jake Washington
 1x Metro Underground
 1x Saulot's Guiding Wisdom
 1x Secure Haven
-1x The Coven
 1x Wider View
+
 Action (12)
 3x Fifth Tradition: Hospitality
 9x Govern the Unaligned
+
 Political Action (12)
 1x Anarchist Uprising
 1x Ancilla Empowerment
 4x Camarilla's Iron Fist
 2x Kine Resources Contested
 4x Parity Shift
-Action Modifier (24)
+
+Action Modifier (22)
 2x Cloak the Gathering
 2x Closed Session
 3x Conditioning
@@ -51,9 +54,12 @@ Action Modifier (24)
 1x Forgotten Labyrinth
 5x Lost in Crowds
 1x Spying Mission
-2x Swallowed by the Night
 2x Telepathic Vote Counting
 1x Veil the Legions
+
+Action Modifier/Combat (2)
+2x Swallowed by the Night
+
 Reaction (10)
 8x Deflection
 2x Obedience

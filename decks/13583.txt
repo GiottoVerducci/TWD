@@ -12,37 +12,45 @@ Deck Name: It’s not a wall deck 2.0
 
 Winning a tournament with 1.5 VPs in the finals feels gross.
 
-Crypt (12 cards)
-----------------
-2x Adrino Manauara                 8  pot ANI DOM PRO      Tzimisce:6
-2x Máddji, Mistress of Szlachtas   7  for ANI DOM PRO      Tzimisce:6
-2x Saankaláxt                      7  aus ANI DOM PRO      Tzimisce:6
-2x Ángel Guerrero                  7  ANI DOM PRO          Tzimisce:6
-2x Whisper                         5  pro ANI DOM          Tzimisce:6
-2x Anarch Convert                  1  -none-               Caitiff:any
+Crypt (12 cards, min=12, max=30, avg=5.83)
+------------------------------------------
+2x Adrino Manauara                8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero                 7  ANI DOM PRO      baron  Tzimisce:6
+2x Máddji, Mistress of Szlachtas  7  ANI DOM PRO for         Tzimisce:6
+2x Saankaláxt                     7  ANI DOM PRO aus         Tzimisce:6
+2x Whisper                        5  ANI DOM pro             Tzimisce:6
+2x Anarch Convert                 1  -none-                  Caitiff:ANY
 
 Library (90 cards)
-Master (12)
+Master (12; 2 trifle)
 3x Blood Doll
 1x Carfax Abbey
 1x Club Illusion
 2x Fame
 1x Powerbase: Montreal
+1x Rack, The
 1x Tension in the Ranks
-1x The Rack
 2x Villein
+
 Action (8)
 8x Deep Song
-Action Modifier (16)
+
+Action Modifier (6)
 6x Conditioning
-5x Form of the Bat
+
+Action Modifier/Combat (5)
 5x Obedient Flesh
+
+Action Modifier/Reaction (5)
+5x Form of the Bat
+
 Reaction (26)
 5x Cats' Guidance
 6x Deflection
 5x On the Qui Vive
 5x Protection Racket
 5x Sense the Savage Way
+
 Combat (28)
 6x Bear's Skin
 6x Form of the Wolf

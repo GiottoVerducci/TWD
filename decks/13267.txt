@@ -10,39 +10,45 @@ https://archon.vekn.net/t/13267
 
 Deck Name: Kalinda loves fisting
 
-Crypt (13 cards)
-----------------
-1x Farah Sarroub                   7  aus obf CEL THA      Banu Haqim:6
-5x Kalinda (G6)                    6  tha CEL OBF          Banu Haqim:6
-1x Kassandra Tassaki               6  obf CEL THA          Banu Haqim:6
-2x Khadija Al-Kindi                6  CEL OBF THA          Banu Haqim:6
-1x Warmaksan                       5  cel obf THA          Banu Haqim:6
-1x Wise Frog                       5  aus cel qui OBF      Banu Haqim:6
-1x Adisa                           3  cel obf              Banu Haqim:6
-1x Alu                             2  obf                  Banu Haqim:5
+Crypt (13 cards, min=15, max=25, avg=5.38)
+------------------------------------------
+5x Kalinda            6  CEL OBF tha      primogen  Assamite:6
+2x Khadija Al-Kindi   6  CEL OBF THA      primogen  Assamite:6
+1x Farah Sarroub      7  CEL THA aus obf  prince    Assamite:6
+1x Kassandra Tassaki  6  CEL THA obf      prince    Assamite:6
+1x Warmaksan          5  THA cel obf      prince    Assamite:6
+1x Wise Frog          5  OBF aus cel qui            Assamite:6
+1x Adisa              3  cel obf                    Assamite:6
+1x Alu                2  obf                        Assamite:5
 
 Library (83 cards)
-Master (21)
+Master (21; 8 trifle)
 2x Alamut
 6x Ashur Tablets
+1x Coven, The
 5x Haqim's Law: Retribution
-1x The Coven
 5x Villein
 2x Wider View
+
 Political Action (6)
 3x Camarilla's Iron Fist
 3x Kine Resources Contested
-Action Modifier (24)
+
+Action Modifier (14)
 2x Cloak the Gathering
 2x Elder Impersonation
 2x Faceless Night
 6x Lost in Crowds
-4x Resist Earth's Grasp
 2x Spying Mission
+
+Action Modifier/Combat (10)
+4x Resist Earth's Grasp
 6x Swallowed by the Night
+
 Reaction (8)
 1x Confusion of the Eye
 7x Protected District
+
 Combat (24)
 2x Behind You!
 3x Focus the Blood

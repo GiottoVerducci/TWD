@@ -10,15 +10,15 @@ https://archon.vekn.net/t/13549
 
 Deck Name: Avalalancha Zombie
 
-Crypt (12 cards)
-----------------
-3x Hel-Blá                         9  obf AUS FOR OBL POT  Hecata:6
-3x Mora, the Death Seer            7  ani AUS FOR OBL      Hecata:6
-3x Alek König                      3  OBL                  Hecata:6
-3x Nadezhda                        3  aus obl              Hecata:6
+Crypt (12 cards, min=12, max=34, avg=5.5)
+-----------------------------------------
+3x Hel-Blá               9  AUS FOR OBL POT obf         Hecata:6
+3x Mora, the Death Seer  7  AUS FOR OBL ani             Hecata:6
+3x Alek König            3  OBL                         Hecata:6
+3x Nadezhda              3  aus obl              Death  Hecata:6
 
 Library (90 cards)
-Master (30)
+Master (30; 9 trifle)
 1x Burial Site Hunting Ground
 1x Cappadocian Crypt
 3x Charisma
@@ -28,17 +28,19 @@ Master (30)
 6x Family Gathering
 1x Giant's Blood
 1x Grooming the Protégé
+3x Parthenon, The
 3x Perfectionist
 1x Powerbase: Montreal
 1x Powerbase: Munich
-3x The Parthenon
-1x The Rack
-1x The Shard, London
+1x Rack, The
+1x Shard, London, The
 1x Vast Wealth
 3x Villein
+
 Action (7)
 3x Dance of the Dead
 4x Shroud of Decay
+
 Ally (20)
 8x Aggressive Corpse
 4x Bone Shambler
@@ -48,17 +50,21 @@ Ally (20)
 2x Rotting Behemoth
 2x Screamer
 1x Young Bloods
+
 Equipment (1)
 1x Heart of Nizchetus
+
 Action Modifier (11)
 5x Paths in Two Worlds
 2x Stygian Shroud
 4x Where the Veil Thins
+
 Reaction (16)
 4x Delaying Tactics
 5x Shadow Sentinel
 7x Telepathic Misdirection
+
 Event (5)
 1x Dragonbound
 1x FBI Special Affairs Division
-3x The Unmasking
+3x Unmasking, The

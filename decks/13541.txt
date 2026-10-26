@@ -10,16 +10,17 @@ https://archon.vekn.net/t/13541
 
 Deck Name: Capuchin and Friends
 
-Crypt (12 cards)
-----------------
-5x The Capuchin                   11  AUS DOM FOR NEC THA THN Harbinger of Skulls:5
-2x Karl Schrekt                   10  AUS DOM FOR PRE THA  Tremere:6
-2x Gerald Windham                  9  AUS DOM FOR THA      Tremere:5
-2x Abraham Mellon                  8  for tha AUS DOM OBF  Malkavian:6
-1x Fotini Katsikaris               7  for pot AUS DOM OBF  Malkavian:6
+Crypt (12 cards, min=32, max=44, avg=9.67)
+------------------------------------------
+5x Capuchin, The      11  AUS DOM FOR NEC THA THN                    Harbinger of Skulls:5
+2x Karl Schrekt       10  AUS DOM FOR PRE THA               2 votes  Tremere:6
+2x Gerald Windham      9  AUS DOM FOR THA                            Tremere:5
+2x Abraham Mellon      8  AUS DOM OBF for tha                        Malkavian:6
+1x Fotini Katsikaris   7  AUS DOM OBF for pot      Cathari           Malkavian:6
 
 Library (90 cards)
-Master (17)
+Master (17; 7 trifle)
+1x Coven, The
 1x Direct Intervention
 3x Dreams of the Sphinx
 1x Giant's Blood
@@ -27,24 +28,30 @@ Master (17)
 1x Jake Washington
 1x Monastery of Shadows
 1x Powerbase: Montreal
-1x The Coven
-1x The Rack
+1x Rack, The
 6x Villein
+
 Action (14)
 12x Govern the Unaligned
 2x Magic of the Smith
+
 Ally (1)
 1x Ponticulus
+
 Equipment (2)
 1x Bowl of Convergence
 1x Erebus Mask
-Action Modifier (25)
+
+Action Modifier (24)
 6x Bonding
 1x Enkil Cog
 6x Freak Drive
 8x Mirror Walk
-1x Murmur of the False Will
 3x Under My Skin
+
+Action Modifier/Reaction (1)
+1x Murmur of the False Will
+
 Reaction (31)
 4x Deflection
 2x Eagle's Sight

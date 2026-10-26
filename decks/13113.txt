@@ -10,12 +10,12 @@ https://archon.vekn.net/t/13113
 
 Deck Name: Logjammin'
 
-Crypt (12 cards)
-----------------
-6x The unnamed                    10  CEL DAI OBF PRE PRO  Baali:6
-1x Xeper, Sultan of Lepers         7  ani dai pro OBF PRE  Baali:6
-2x Arishat                         6  DAI OBF PRE          Baali:6
-3x The Horde                       3  dai obf pre          Baali:6
+Crypt (12 cards, min=15, max=40, avg=7.33)
+------------------------------------------
+6x unnamed, The             10  CEL DAI OBF PRE PRO          Baali:6
+3x Horde, The                3  dai obf pre                  Baali:6
+2x Arishat                   6  DAI OBF PRE          1 vote  Baali:6
+1x Xeper, Sultan of Lepers   7  OBF PRE ani dai pro          Baali:6
 
 Library (77 cards)
 Master (11)
@@ -26,20 +26,25 @@ Master (11)
 1x Rötschreck
 3x Secure Haven
 1x Sudden Reversal
+
 Action (14)
 2x Blood Bond
 1x Contagion
 3x Entrancement
 5x Flurry of Action
 3x Unleash Hell's Fury
+
 Ally (2)
 1x Infernal Servitor
 1x Veneficti
+
 Equipment (2)
 2x Heart of Nizchetus
+
 Retainer (2)
 2x Homunculus
-Action Modifier (34)
+
+Action Modifier (28)
 3x Elder Impersonation
 3x Enkil Cog
 2x Faceless Night
@@ -48,14 +53,21 @@ Action Modifier (34)
 4x Lost in Crowds
 2x Psychomachia
 5x Revelation of the Serpent
-4x Sense the Sin
+
+Action Modifier/Combat (2)
 2x Swallowed by the Night
+
+Action Modifier/Reaction (4)
+4x Sense the Sin
+
 Reaction (4)
 1x Confusion of the Eye
 3x Visions of Zapathasura
+
 Combat (6)
 2x Earth Meld
 4x Form of Mist
+
 Event (2)
 1x Narrow Minds
 1x Nightmares upon Nightmares

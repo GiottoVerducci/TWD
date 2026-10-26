@@ -10,38 +10,44 @@ https://archon.vekn.net/t/13590
 
 Deck Name:  Etrius é malk 94
 
-Crypt (12 cards)
-----------------
-4x Etrius                         11  pro AUS DOM OBF THA  Tremere:2
-2x Gilbert Duane (G1)              7  AUS DOM OBF          Malkavian:1
-2x Mariel, Lady Thunder            7  aus tha DOM OBF      Malkavian:1
-1x Ozmo                            6  dom obf AUS          Malkavian:1
-2x Didi Meyers                     5  aus cel obf DOM      Malkavian:1
-1x Zebulon                         5  aus dom pro OBF      Malkavian:1
+Crypt (12 cards, min=21, max=44, avg=7.75)
+------------------------------------------
+4x Etrius                11  AUS DOM OBF THA pro  inner circle  Tremere:2
+2x Gilbert Duane          7  AUS DOM OBF          prince        Malkavian:1
+2x Mariel, Lady Thunder   7  DOM OBF aus tha                    Malkavian:1
+2x Didi Meyers            5  DOM aus cel obf                    Malkavian:1
+1x Ozmo                   6  AUS dom obf                        Malkavian:1
+1x Zebulon                5  OBF aus dom pro                    Malkavian:1
 
 Library (90 cards)
-Master (24)
+Master (24; 8 trifle)
 2x Academic Hunting Ground
 2x Asylum Hunting Ground
 4x Dreams of the Sphinx
 4x Information Highway
 8x Villein
 4x Zillah's Valley
+
 Action (12)
 12x Govern the Unaligned
-Action Modifier (34)
+
+Action Modifier (32)
 4x Bonding
 4x Cloak the Gathering
 4x Conditioning
 4x Elder Impersonation
 4x Faceless Night
 4x Foreshadowing Destruction
-2x Hide the Mind
 2x Lost in Crowds
 2x Spying Mission
 4x Threats
+
+Action Modifier/Combat (2)
+2x Hide the Mind
+
 Reaction (16)
 8x Deflection
 8x Eyes of Argus
+
 Combat (4)
 4x No Trace

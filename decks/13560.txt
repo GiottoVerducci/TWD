@@ -10,38 +10,45 @@ https://archon.vekn.net/t/13560
 
 Deck Name: MOLLY
 
-Crypt (12 cards)
-----------------
-5x Molly MacDonald                10  ANI OBF POT PRO      Nosferatu:7
-4x Juliet Parr                     9  cel pot AUS DOM OBF  Malkavian:7
-3x Belinde                         6  ani aus pot OBF      Nosferatu:6
+Crypt (12 cards, min=27, max=40, avg=8.67)
+------------------------------------------
+5x Molly MacDonald  10  ANI OBF POT PRO      justicar  Nosferatu:7
+4x Juliet Parr       9  AUS DOM OBF cel pot  justicar  Malkavian:7
+3x Belinde           6  OBF ani aus pot      prince    Nosferatu:6
 
 Library (90 cards)
-Master (13)
+Master (13; 4 trifle)
 1x Asylum Hunting Ground
 1x Blood Doll
 2x Direct Intervention
 1x Dreams of the Sphinx
+1x Labyrinth, The
 1x Slum Hunting Ground
 1x Sudden Reversal
-1x The Labyrinth
 1x Vessel
 3x Villein
 1x Warsaw Station
+
 Action (19)
 1x Army of Rats
 6x Creeping Sabotage
 8x Judgment: Camarilla Segregation
 4x Puppet Master
+
 Equipment (2)
 2x Sniper Rifle
+
 Political Action (2)
 2x Parity Shift
-Action Modifier (10)
+
+Action Modifier (8)
 1x Enkil Cog
 3x Forgotten Labyrinth
 4x Lost in Crowds
+
+Action Modifier/Reaction (2)
 2x Murmur of the False Will
+
 Reaction (36)
 4x Cats' Guidance
 6x Deflection
@@ -51,5 +58,6 @@ Reaction (36)
 4x On the Qui Vive
 14x Second Tradition: Domain
 2x Wake with Evening's Freshness
+
 Combat (8)
 8x Earth Meld

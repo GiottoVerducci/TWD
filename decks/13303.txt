@@ -10,40 +10,43 @@ https://archon.vekn.net/t/13303
 
 Deck Name: Ippal sai kkin Righetti
 
-Crypt (12 cards)
-----------------
-3x Mistress Fanchon               11  AUS CEL DOM OBF THA VIC Tremere:4
-2x Gabrielle di Righetti          10  obf pot ANI AUS DOM THA Tremere:5
-1x Dr. John Dee                    9  chi ANI AUS DOM THA  Tremere:4
-2x Gerald Windham                  9  AUS DOM FOR THA      Tremere:5
-2x Orlando Oriundus                9  obf AUS DOM THA      Tremere antitribu:4
-1x Troius                          8  cel AUS DOM THA      Tremere:4
-1x Johannes Worringen              6  dom AUS THA          Tremere antitribu:5
+Crypt (12 cards, min=32, max=43, avg=9.33)
+------------------------------------------
+3x Mistress Fanchon       11  AUS CEL DOM OBF THA VIC  inner circle  Tremere:4
+2x Gabrielle di Righetti  10  ANI AUS DOM THA obf pot  justicar      Tremere:5
+2x Gerald Windham          9  AUS DOM FOR THA                        Tremere:5
+2x Orlando Oriundus        9  AUS DOM THA obf          bishop        Tremere antitribu:4
+1x Dr. John Dee            9  ANI AUS DOM THA chi      prince        Tremere:4
+1x Troius                  8  AUS DOM THA cel          prince        Tremere:4
+1x Johannes Worringen      6  AUS THA dom              archbishop    Tremere antitribu:5
 
 Library (80 cards)
-Master (27)
+Master (27; 8 trifle)
 6x Ashur Tablets
+1x British Museum, London, The
+1x Coven, The
 1x Creepshow Casino
 2x Dreams of the Sphinx
 1x Giant's Blood
 2x Information Highway
 1x Metro Underground
 1x Monastery of Shadows
-1x Pentex™ Subversion
-1x The British Museum, London
-1x The Coven
+1x Pentex(TM) Subversion
 6x Villein
 1x Wider View
 3x Zillah's Valley
+
 Action (8)
 6x Govern the Unaligned
 2x Magic of the Smith
+
 Equipment (6)
 1x Bowl of Convergence
 1x Gran Madre di Dio, Italy
 1x Heart of Nizchetus
 2x Helicopter
 1x Palatial Estate
+
 Political Action (13)
 2x Alastor
 1x Anarchist Uprising
@@ -53,10 +56,12 @@ Political Action (13)
 3x Camarilla's Iron Fist
 1x Political Stranglehold
 1x Reins of Power
+
 Action Modifier (9)
 1x Enkil Cog
 2x Forgotten Labyrinth
 6x Mirror Walk
+
 Reaction (16)
 4x Deflection
 3x Eyes of Argus
@@ -64,5 +69,6 @@ Reaction (16)
 6x Obedience
 1x Second Tradition: Domain
 1x Telepathic Misdirection
+
 Event (1)
 1x Scourge of the Enochians

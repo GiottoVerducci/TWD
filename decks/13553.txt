@@ -10,20 +10,20 @@ https://archon.vekn.net/t/13553
 
 Deck Name: Deep Govern
 
-Crypt (12 cards)
-----------------
-3x Adrino Manauara                 8  pot ANI DOM PRO      Tzimisce:6
-1x Máddji, Mistress of Szlachtas   7  for ANI DOM PRO      Tzimisce:6
-2x Ángel Guerrero                  7  ANI DOM PRO          Tzimisce:6
-1x Branimira                       6  dom pre pro ANI      Tzimisce:6
-1x Kuyén                           6  ANI PRO              Gangrel:6
-1x Neserian                        6  cel pro ANI DOM      Tzimisce:6
-1x Clara Hjortshøj                 5  ani aus dom PRO      Tzimisce:6
-1x Marialena                       5  ani DOM PRO          Tzimisce:6
-1x Whisper                         5  pro ANI DOM          Tzimisce:6
+Crypt (12 cards, min=21, max=31, avg=6.5)
+-----------------------------------------
+3x Adrino Manauara                8  ANI DOM PRO pot  baron  Tzimisce:6
+2x Ángel Guerrero                 7  ANI DOM PRO      baron  Tzimisce:6
+1x Máddji, Mistress of Szlachtas  7  ANI DOM PRO for         Tzimisce:6
+1x Branimira                      6  ANI dom pre pro  baron  Tzimisce:6
+1x Kuyén                          6  ANI PRO          baron  Gangrel:6
+1x Neserian                       6  ANI DOM cel pro         Tzimisce:6
+1x Clara Hjortshøj                5  PRO ani aus dom         Tzimisce:6
+1x Marialena                      5  DOM PRO ani             Tzimisce:6
+1x Whisper                        5  ANI DOM pro             Tzimisce:6
 
 Library (90 cards)
-Master (11)
+Master (11; 5 trifle)
 1x Carfax Abbey
 1x Giant's Blood
 1x Jake Washington
@@ -32,17 +32,25 @@ Master (11)
 1x Perfectionist
 3x Vessel
 2x Villein
+
 Action (19)
 5x Deep Song
 14x Govern the Unaligned
+
 Retainer (2)
 2x Crypt's Sons
-Action Modifier (19)
+
+Action Modifier (10)
 5x Bonding
 5x Conditioning
+
+Action Modifier/Combat (1)
+1x Rapid Change
+
+Action Modifier/Reaction (8)
 4x Form of the Bat
 4x Murmur of the False Will
-1x Rapid Change
+
 Reaction (20)
 1x Deep Ecology
 6x Deflection
@@ -50,6 +58,7 @@ Reaction (20)
 3x Guard Dogs
 3x One With the Land
 6x Organized Resistance
+
 Combat (19)
 8x Earth Meld
 8x Form of Mist

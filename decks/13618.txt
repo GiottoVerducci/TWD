@@ -10,22 +10,22 @@ https://archon.vekn.net/t/13618
 
 Deck Name: Gangrel anarch vote
 
-Crypt (12 cards)
-----------------
-1x Massimiliano                    7  pro ANI FOR          Gangrel:6
-1x Vivian VI                       7  obf tha PRE PRO      Ministry:6
-1x Ángel Guerrero                  7  ANI DOM PRO          Tzimisce:6
-1x André the Manipulator           6  FOR PRO              Gangrel:5
-2x Casey Snyder                    6  ani cel for PRO      Gangrel:6
-1x Kuyén                           6  ANI PRO              Gangrel:6
-1x Kamile Paukstys                 5  ani for PRO          Gangrel:6
-1x Hanna Nokelainen                4  ani for pro          Gangrel:6
-1x Nathan Turner                   4  ani PRO              Gangrel:6
-1x Indira                          3  PRO                  Gangrel:6
-1x Ruslan Fedorenko                2  pro                  Gangrel:6
+Crypt (12 cards, min=13, max=27, avg=5.25)
+------------------------------------------
+2x Casey Snyder           6  PRO ani cel for  baron  Gangrel:6
+1x Ángel Guerrero         7  ANI DOM PRO      baron  Tzimisce:6
+1x Massimiliano           7  ANI FOR pro      baron  Gangrel:6
+1x Vivian VI              7  PRE PRO obf tha  baron  Follower of Set:6
+1x André the Manipulator  6  FOR PRO                 Gangrel:5
+1x Kuyén                  6  ANI PRO          baron  Gangrel:6
+1x Kamile Paukstys        5  PRO ani for             Gangrel:6
+1x Hanna Nokelainen       4  ani for pro             Gangrel:6
+1x Nathan Turner          4  PRO ani                 Gangrel:6
+1x Indira                 3  PRO                     Gangrel:6
+1x Ruslan Fedorenko       2  pro                     Gangrel:6
 
 Library (90 cards)
-Master (22)
+Master (22; 6 trifle)
 1x Anarch Railroad
 1x Backways
 1x Carfax Abbey
@@ -40,20 +40,26 @@ Master (22)
 1x Powerbase: Montreal
 1x Powerbase: Savannah
 6x Villein
+
 Action (13)
 1x Childe of the Revolution
 1x Fee Stake: Seattle
 11x Thing
+
 Political Action (5)
 2x Consanguineous Boon
 1x Eat the Rich
 2x Revolutionary Council
-Action Modifier (15)
+
+Action Modifier (11)
 1x Daring the Dawn
 4x Earth Control
-4x Form of the Bat
 1x Monkey Wrench
 5x Propaganda of the Deed
+
+Action Modifier/Reaction (4)
+4x Form of the Bat
+
 Reaction (21)
 6x Bait and Switch
 4x Deep Ecology
@@ -61,6 +67,7 @@ Reaction (21)
 1x Eyes of the Wild
 7x Organized Resistance
 1x Poison Pill
+
 Combat (14)
 1x Donnybrook
 9x Earth Meld

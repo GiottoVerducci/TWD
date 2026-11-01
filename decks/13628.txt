@@ -1,0 +1,57 @@
+Shadow Shift
+Florence, Italy
+November 1st 2026
+2R+F
+25 players
+Alessandro Donati
+https://archon.vekn.net/t/13628
+
+-- 1GW3.5 + 1.5vp in final
+
+Deck Name: Nosferatu New Royalty
+
+Crypt (12 cards)
+----------------
+4x Molly MacDonald                10  ANI OBF POT PRO      Nosferatu:7
+3x Luana do Lago                   7  pot ANI OBF          Nosferatu:7
+2x Nikolaus Vermeulen (G6)         7  for obf ANI POT      Nosferatu:6
+2x Belinde                         6  ani aus pot OBF      Nosferatu:6
+1x Warmaksan                       5  cel obf THA          Banu Haqim:6
+
+Library (70 cards)
+Master (18)
+1x Camarilla Conclave
+1x Convento da Penha, Vila Velha
+1x Creepshow Casino
+1x Dark Influences
+1x Elysium: The Palace of Versailles
+3x Protected Resources
+1x The Labyrinth
+5x Villein
+3x Warsaw Station
+1x Wider View
+Action (14)
+3x Fifth Tradition: Hospitality
+6x Fourth Tradition: The Accounting
+3x Judgment: Camarilla Segregation
+1x New Management
+1x SchreckNET
+Equipment (4)
+3x Heart of Nizchetus
+1x The Sargon Fragment
+Political Action (16)
+1x Anarchist Uprising
+1x Ancient Influence
+1x Ancilla Empowerment
+1x Banishment
+3x Camarilla's Iron Fist
+3x Information Exchange
+5x Parity Shift
+1x Reins of Power
+Action Modifier (18)
+1x Closed Session
+1x Cryptic Rider
+4x Deadly Secrets
+2x Elder Impersonation
+5x Forgotten Labyrinth
+5x Lost in Crowds

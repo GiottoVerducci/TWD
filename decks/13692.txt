@@ -1,0 +1,69 @@
+Jogos de Guerra - Novembro da Confraternização dos Cainitas
+São Paulo, Brazil
+November 7th 2026
+2R+F
+20 players
+Lázaro Rodrigues
+https://archon.vekn.net/t/13692
+
+-- 0GW2.5 + 1.5vp in final
+
+Deck Name: Casinha de sapê
+
+Crypt (12 cards)
+----------------
+2x Adrino Manauara                 8  pot ANI DOM PRO      Tzimisce:6
+1x Saankaláxt                      7  aus ANI DOM PRO      Tzimisce:6
+3x Ángel Guerrero                  7  ANI DOM PRO          Tzimisce:6
+2x Branimira                       6  dom pre pro ANI      Tzimisce:6
+1x Neserian                        6  cel pro ANI DOM      Tzimisce:6
+1x Clara Hjortshøj                 5  ani aus dom PRO      Tzimisce:6
+1x Marialena                       5  ani DOM PRO          Tzimisce:6
+1x Whisper                         5  pro ANI DOM          Tzimisce:6
+
+Library (90 cards)
+Master (19)
+1x Anarch Railroad
+1x Carfax Abbey
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Giant's Blood
+1x Library Hunting Ground
+1x Pentex™ Subversion
+1x Powerbase: Savannah
+5x The British Museum, London
+2x Vessel
+3x Villein
+Action (10)
+10x Govern the Unaligned
+Equipment (14)
+1x Blood Tears of Kephran
+2x Cooler
+1x Flaming Candle
+1x Heart of Nizchetus
+6x Living Manse
+1x Palatial Estate
+1x Sacré-Cœur Cathedral, France
+1x The Signet of King Saul
+Political Action (2)
+2x Eat the Rich
+Action Modifier (15)
+2x Conditioning
+6x Earth Control
+1x Foreshadowing Destruction
+2x Form of the Bat
+2x Form of the Cobra
+2x Obedient Flesh
+Reaction (18)
+2x Bait and Switch
+2x Deep Ecology
+7x Deflection
+2x Delaying Tactics
+2x On the Qui Vive
+3x One With the Land
+Combat (11)
+3x Earth Meld
+6x Form of Mist
+2x Sculpt the Flesh
+Event (1)
+1x NRA PAC

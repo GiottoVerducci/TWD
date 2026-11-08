@@ -1,0 +1,63 @@
+Swiss NC 2026
+Zürich, Switzerland
+November 7th 2026
+3R+F
+15 players
+Julien Schirrow
+https://archon.vekn.net/t/13589
+
+-- 1GW6 + 3vp in final
+
+Deck Name: Hidden Predator
+
+Crypt (12 cards)
+----------------
+3x Djeneba                         9  obf ANI AUS DOM FOR  Salubri:7
+2x Abaddon                         8  cel pot AUS DOM FOR  Salubri:7
+2x Ilonka                          7  tha AUS DOM FOR      Salubri:7
+1x Aniel                           6  for AUS DOM          Salubri:7
+2x Malachi                         6  AUS DOM FOR          Salubri:7
+1x Sakhar                          6  dom AUS FOR          Salubri:7
+1x Opikun                          5  aus dom FOR          Salubri:7
+
+Library (90 cards)
+Master (15)
+1x Anarch Troublemaker
+3x Blood Doll
+1x Dreams of the Sphinx
+1x Giant's Blood
+1x Information Highway
+1x Meditative Grove
+1x Pentex™ Subversion
+1x Porto de Santos
+1x Saulot's Guiding Wisdom
+1x Saulot's Healing Touch
+1x Sudden Reversal
+2x Vessel
+Action (21)
+6x Feast of the Soul's Secrets
+10x Govern the Unaligned
+2x Revelations
+3x Touch of Valeren
+Equipment (2)
+2x Lambreta
+Action Modifier (34)
+2x Bonding
+6x Conditioning
+2x Daring the Dawn
+5x Forced Confessional
+2x Foreshadowing Destruction
+5x Freak Drive
+1x Murmur of the False Will
+4x Seduction
+3x The Sleeping Mind
+4x Unleashing the Bestial Soul
+Reaction (13)
+5x Deflection
+2x Delaying Tactics
+2x Eyes of Argus
+2x On the Qui Vive
+2x Telepathic Misdirection
+Combat (5)
+2x Hidden Strength
+3x Rolling with the Punches

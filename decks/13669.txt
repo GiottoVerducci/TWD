@@ -1,0 +1,66 @@
+Liga Andaluza 2026/27 J2 Malaga
+Málaga, Spain
+November 14th 2026
+3R+F
+17 players
+Mariano Carbonero Román
+https://archon.vekn.net/t/13669
+
+-- 1GW4 + 3vp in final
+
+Deck Name: Romeo And Juliet
+
+Crypt (12 cards)
+----------------
+3x Juliet Parr                     9  cel pot AUS DOM OBF  Malkavian:7
+1x Kasim Bayar                     9  aus pot CEL OBF THA  Banu Haqim:6
+1x Alexander Silverson             8  pre AUS DOM OBF      Malkavian:6
+3x Modius                          8  obf AUS CEL PRE      Toreador:7
+1x Oluwafunmilayo                  8  AUS CEL OBF THA      Banu Haqim:6
+1x Belinde                         6  ani aus pot OBF      Nosferatu:6
+1x Donny Kowalczyk                 6  cel dom obf AUS      Malkavian:6
+1x Warmaksan                       5  cel obf THA          Banu Haqim:6
+
+Library (90 cards)
+Master (46)
+1x Archon Investigation
+6x Ashur Tablets
+1x Bleeding the Vine
+2x Camarilla Conclave
+2x Direct Intervention
+2x Dreams of the Sphinx
+1x Elysium: The Palace of Versailles
+1x Giant's Blood
+2x Information Highway
+2x Monastery of Shadows
+1x Obfuscate
+2x Papillon
+1x The Coven
+6x The Parthenon
+7x Villein
+1x Wider View
+8x Zillah's Valley
+Action (1)
+1x Judgment: Camarilla Segregation
+Equipment (2)
+2x Heart of Nizchetus
+Political Action (21)
+1x Anarchist Uprising
+1x Ancilla Empowerment
+2x Banishment
+4x Camarilla's Iron Fist
+4x Kine Resources Contested
+7x Parity Shift
+1x Political Stranglehold
+1x Rumors of Gehenna
+Action Modifier (12)
+1x Faceless Night
+5x Forgotten Labyrinth
+5x Lost in Crowds
+1x Telepathic Vote Counting
+Reaction (7)
+2x Eyes of Argus
+1x Second Tradition: Domain
+4x Telepathic Misdirection
+Event (1)
+1x The Bitter and Sweet Story

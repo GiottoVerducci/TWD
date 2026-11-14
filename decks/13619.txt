@@ -1,0 +1,59 @@
+Liga GL/PT 26-27 - Northern Nights
+Vila do Conde, Portugal
+November 14th 2026
+3R+F
+15 players
+Eduardo Manuel Mateus
+https://archon.vekn.net/t/13619
+
+-- 2GW5.5 + 4vp in final
+
+Deck Name: Recursive Function
+
+Crypt (12 cards)
+----------------
+3x Mora, the Death Seer            7  ani AUS FOR OBL      Hecata:6
+1x Aitana, The Unholy              6  for tha AUS OBL      Hecata:6
+1x Lenelle, Mambo of Birmingham    6  aus FOR OBL          Hecata:6
+1x Monica Giovanni                 6  AUS FOR OBL          Hecata:6
+1x Gebeyehu Abdu                   5  for AUS OBL          Hecata:6
+1x Holliday "Burgundy" Hall        5  aus FOR OBL          Hecata:6
+1x Luíza                           4  obl AUS              Hecata:6
+1x Alek König                      3  OBL                  Hecata:6
+1x Nadezhda                        3  aus obl              Hecata:6
+1x Peter St. John                  2  obl                  Hecata:6
+
+Library (75 cards)
+Master (14)
+2x Blood Doll
+1x Cappadocian Crypt
+1x Direct Intervention
+1x Dreams of the Sphinx
+1x Failsafe
+3x Family Gathering
+1x Giant's Blood
+1x Powerbase: Munich
+1x The Coven
+2x Villein
+Action (10)
+2x Psychophagia
+8x Shroud of Decay
+Ally (9)
+1x Carlton Van Wyk
+8x Spectral Servitor
+Action Modifier (22)
+2x Freak Drive
+5x Shadow Cast
+5x Shadow Cloak
+5x Stygian Shroud
+5x Where the Veil Thins
+Reaction (17)
+1x Delaying Tactics
+3x Eyes of Argus
+3x My Enemy's Enemy
+4x Shadow Sentinel
+6x Telepathic Misdirection
+Combat (2)
+2x Pass Through Shadow
+Event (1)
+1x The Unmasking

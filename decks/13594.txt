@@ -1,0 +1,48 @@
+Gehenna Store Championship 2026
+Belo Horizonte, Brazil
+November 14th 2026
+3R+F
+16 players
+Gustavo Couto
+https://archon.vekn.net/t/13594
+
+-- 2GW8 + 1.5vp in final
+
+Deck Name: Power and Deflection
+
+Crypt (12 cards)
+----------------
+5x Aaradhya, The Callous Tyrant   10  ANI DOM FOR POT PRE  Ventrue:6
+1x Vestgeir                       10  ANI CHI FOR PRE THA  Ravnos:6
+1x Carolina Vález                  9  aus DOM OBT POT PRE  Lasombra:5
+1x Dark Selina                     9  dom for CEL POT PRE  Brujah antitribu:5
+1x De Sade                         9  AUS DOM FOR PRE      Ventrue antitribu:5
+1x Věnceslava, The Implacable      9  cel DOM FOR POT PRE  Brujah:6
+1x Mélusine d'Anjou                8  dem AUS CEL PRE      Toreador antitribu:5
+1x Rexton "Savage" Abernathy       8  cel DOM POT PRE      Brujah:6
+
+Library (90 cards)
+Master (24)
+1x Creepshow Casino
+1x Monastery of Shadows
+2x Privileged Position
+4x Tomb of Rameses III
+8x Unholy Sacrament
+8x Villein
+Political Action (20)
+4x Banishment
+8x Cold War
+2x Empires Fall
+4x Kine Resources Contested
+2x Neonate Breach
+Action Modifier (28)
+4x Perfect Paragon
+4x Private Audience
+8x Relentlessness
+4x Unthinkable Humiliation
+8x Voter Captivation
+Reaction (16)
+12x Deflection
+4x Eluding the Arms of Morpheus
+Combat (2)
+2x Majesty

@@ -1,0 +1,49 @@
+Anarch Convert
+Fortaleza, Brazil
+November 15th 2026
+2R+F
+15 players
+Soares Júnior
+https://archon.vekn.net/t/12900
+
+-- 1GW3 + 2vp in final
+
+Deck Name: Tremere de Metamorfose
+
+Crypt (12 cards)
+----------------
+2x Lernean                        10  for pro AUS CEL DOM THA Tremere antitribu:4
+3x William Thorbecke              10  AUS DOM PRE PRO THA  Tremere:5
+3x Eric Kressida                   8  cel AUS DOM PRO THA  Tremere antitribu:4
+2x Rutor                           7  pro vic AUS DOM THA  Tremere:5
+1x Frère Marc                      6  aus for PRO THA      Gangrel antitribu:4
+1x Keith Moody                     3  DOM                  Tremere antitribu:4
+
+Library (90 cards)
+Master (9)
+1x Academic Hunting Ground
+1x Fame
+1x Giant's Blood
+2x Minion Tap
+2x Protean
+2x Vessel
+Action (8)
+7x Govern the Unaligned
+1x Revelations
+Action Modifier (30)
+8x Conditioning
+9x Earth Control
+3x Rapid Change
+3x Seduction
+2x The Sleeping Mind
+5x Threats
+Reaction (12)
+8x Deflection
+4x Eyes of Argus
+Combat (31)
+2x Aura Reading
+2x Bone Spur
+2x Earth Meld
+9x Flesh of Marble
+8x Form of Mist
+8x Weather Control

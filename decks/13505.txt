@@ -1,0 +1,48 @@
+Campeonato nacional mexicano 2026
+Mexico City, Mexico
+November 15th 2026
+3R+F
+19 players
+Enrique Montaño Torres
+https://archon.vekn.net/t/13505
+
+-- 2GW6.5 + 1.5vp in final
+
+Deck Name: Guns and Roses
+
+Crypt (12 cards)
+----------------
+1x François Villon (G6)           10  ani obf pot AUS CEL PRE Toreador:6
+3x Diana Iadanza                   9  AUS CEL FOR PRE      Toreador:7
+3x Catalina Vega                   8  for AUS CEL PRE      Toreador:6
+2x Marcos Belegrad                 8  ani AUS CEL PRE      Toreador:7
+3x Modius                          8  obf AUS CEL PRE      Toreador:7
+
+Library (90 cards)
+Master (11)
+1x Art Museum
+1x Guardian Angel
+1x Papillon
+1x Powerbase: Montreal
+1x Smiling Jack, The Anarch
+1x Society Hunting Ground
+1x The Rack
+4x Vessel
+Equipment (8)
+4x .44 Magnum
+1x Bowl of Convergence
+3x Sniper Rifle
+Reaction (36)
+4x Eagle's Sight
+9x Eyes of Argus
+2x My Enemy's Enemy
+6x Quicken Sight
+9x Second Tradition: Domain
+6x Telepathic Misdirection
+Combat (35)
+12x Charismatic Aura
+6x Concealed Weapon
+1x Fast Hands
+4x Psyche!
+8x Pursuit
+4x Taste of Vitae

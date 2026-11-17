@@ -1,0 +1,47 @@
+Dansih Nationals 2026
+Køge, Denmark
+November 7th 2026
+2R+F
+14 players
+Christian Nislev
+https://archon.vekn.net/t/13607
+
+-- 0GW1.5 + 4vp in final
+
+Deck Name: Shadowboxing
+
+Crypt (12 cards)
+----------------
+5x Dafina Hanganu                  8  for DOM OBL POT      Lasombra:6
+1x María del Toro                  7  DOM OBL POT          Lasombra:6
+1x Rinaldo Albizzi                 7  pre DOM OBL POT      Lasombra:6
+1x Aintzane Arriaga                6  DOM OBL POT          Lasombra:6
+1x Kamaluddin                      6  for pot DOM OBL      Lasombra:6
+1x Rasha Tarabzouni                6  obl pre DOM POT      Lasombra:6
+1x Julia Sowinski                  5  obl pot DOM          Lasombra:6
+1x Lyyli Yösydän                   5  dom for obl POT      Lasombra:6
+
+Library (90 cards)
+Master (11)
+2x Dead Pool
+1x Fame
+1x Papillon
+1x Political Hunting Ground
+1x St. Patrick's Cathedral, New York
+5x Villein
+Action (6)
+6x Govern the Unaligned
+Action Modifier (4)
+4x Murmur of the False Will
+Reaction (19)
+10x Deflection
+2x On the Qui Vive
+5x Second Tradition: Domain
+2x Shadow Sentinel
+Combat (50)
+15x Immortal Grapple
+5x Shadow Shift
+5x Skin of Steel
+4x Slam
+11x Taste of Vitae
+10x Torn Signpost

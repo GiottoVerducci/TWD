@@ -1,0 +1,69 @@
+Grand Prix Saint-Petersburg
+Saint Petersburg, Russian Federation
+November 21st 2026
+3R+F
+11 players
+Anatoly Chuhvicheff
+https://archon.vekn.net/t/13671
+
+-- 1GW4.5 + 4vp in final
+
+Deck Name: Unnamed walk like egyptian
+
+Crypt (12 cards)
+----------------
+5x The unnamed                    10  CEL DAI OBF PRE PRO  Baali:6
+1x Vivian VI                       7  obf tha PRE PRO      Ministry:6
+1x Elisha Tucker                   6  cel obf pro PRE      Ministry:6
+1x Marcel                          4  obf pre pro          Ministry:6
+4x Anarch Convert                  1  -none-               Caitiff:any
+
+Library (89 cards)
+Master (18)
+1x Archon Investigation
+1x Carfax Abbey
+3x Dabbler
+1x Dark Influences
+1x Dreams of the Sphinx
+1x Garibaldi-Meucci Museum
+1x Giant's Blood
+1x Information Highway
+1x Monastery of Shadows
+1x Powerbase: Los Angeles
+1x Twilight Camp
+3x Villein
+1x Wash
+1x Wider View
+Action (15)
+1x Contagion
+1x Entrancement
+12x The Platinum Protocol
+1x Unleash Hell's Fury
+Ally (1)
+1x Veneficti
+Equipment (1)
+1x Heart of Nizchetus
+Retainer (3)
+3x Homunculus
+Action Modifier (35)
+1x CrimethInc.
+2x Elder Impersonation
+3x Enchanting Gaze
+3x Enkil Cog
+2x Form of the Bat
+2x I am Legion
+7x Instantaneous Transformation
+3x Lost in Crowds
+5x Revelation of the Serpent
+4x Sense the Sin
+2x Spying Mission
+1x Swallowed by the Night
+Reaction (9)
+1x Delaying Tactics
+1x On the Qui Vive
+7x Party Out Of Bounds
+Combat (6)
+3x Earth Meld
+3x Form of Mist
+Event (1)
+1x Narrow Minds

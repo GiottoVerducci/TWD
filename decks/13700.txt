@@ -1,0 +1,66 @@
+First tradition
+Madrid, Spain
+November 22nd 2026
+2R+F
+29 players
+Pablo Mateos
+https://archon.vekn.net/t/13700
+
+-- 2GW6 + 5vp in final
+
+Deck Name: Las Damas Facturan
+
+Crypt (12 cards)
+----------------
+1x Dafina Hanganu                  8  for DOM OBL POT      Lasombra:6
+3x Yewon Ong                       8  for DOM OBL POT      Lasombra:6
+2x María del Toro                  7  DOM OBL POT          Lasombra:6
+1x Rinaldo Albizzi                 7  pre DOM OBL POT      Lasombra:6
+1x Aintzane Arriaga                6  DOM OBL POT          Lasombra:6
+1x Kamaluddin                      6  for pot DOM OBL      Lasombra:6
+1x Azucena                         5  pot DOM OBL          Lasombra:6
+1x Julia Sowinski                  5  obl pot DOM          Lasombra:6
+1x Araceli "Celia" Rivera          3  dom obl              Lasombra:6
+
+Library (90 cards)
+Master (15)
+2x Blood Doll
+1x Creepshow Casino
+1x Direct Intervention
+2x Dreams of the Sphinx
+1x Elysian Fields
+1x Giant's Blood
+1x Jake Washington
+1x Pentex™ Subversion
+1x Political Hunting Ground
+1x Power Structure
+1x St. Patrick's Cathedral, New York
+1x The Coven
+1x Wash
+Action (12)
+12x Govern the Unaligned
+Ally (8)
+8x Spectral Servitor
+Equipment (1)
+1x Zaire River Ferry
+Political Action (9)
+2x Camarilla's Iron Fist
+3x Kine Resources Contested
+1x Lasombra Justicar
+3x Parity Shift
+Action Modifier (29)
+4x Bonding
+4x Conditioning
+1x Daring the Dawn
+3x Freak Drive
+1x Murmur of the False Will
+4x Shadow Cast
+4x Shadow Cloak
+4x Stygian Shroud
+4x Where the Veil Thins
+Reaction (12)
+6x Deflection
+2x Redirection
+4x Shadow Sentinel
+Combat (4)
+4x Pass Through Shadow

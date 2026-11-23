@@ -1,0 +1,60 @@
+Choro de Gaia
+Petrópolis, Brazil
+November 22nd 2026
+2R+F
+10 players
+Guilherme "Krieg" Machado
+https://archon.vekn.net/t/13734
+
+-- 1GW5 + 4vp in final
+
+Deck Name: Salubri 2.0 Rush
+
+Crypt (12 cards)
+----------------
+3x Abaddon                         8  cel pot AUS DOM FOR  Salubri:7
+3x Barachiel                       7  ani AUS DOM FOR      Salubri:7
+1x Ilonka                          7  tha AUS DOM FOR      Salubri:7
+1x Castellan                       6  cel dom AUS FOR      Salubri:7
+2x Malachi                         6  AUS DOM FOR          Salubri:7
+1x Sakhar                          6  dom AUS FOR          Salubri:7
+1x Opikun                          5  aus dom FOR          Salubri:7
+
+Library (90 cards)
+Master (15)
+1x Archon Investigation
+1x Depravity
+1x Direct Intervention
+1x Fame
+2x Guardian Angel
+1x Meditative Grove
+1x Powerbase: Montreal
+1x Rötschreck
+2x Saulot's Avenging Fist
+1x Sight Beyond Sight
+1x The Rack
+2x Vessel
+Action (12)
+6x Govern the Unaligned
+6x Hunting the Beast
+Equipment (7)
+1x Bowl of Convergence
+3x Righteous Blade
+1x Sengir Dagger
+2x Sword of the Archangel
+Action Modifier (2)
+2x Murmur of the False Will
+Reaction (20)
+4x Deflection
+7x Eyes of Argus
+2x My Enemy's Enemy
+3x On the Qui Vive
+4x Telepathic Misdirection
+Combat (34)
+6x Angel's Gift
+7x Anticipation
+4x Hidden Strength
+2x Indomitability
+6x Taste of Vitae
+2x Telepathic Tracking
+7x Tranquility Shield
